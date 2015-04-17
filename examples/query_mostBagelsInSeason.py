@@ -1,5 +1,8 @@
 import csv
 
+## scans results files to identify players with
+## most bagels (6-0 sets won) in a single season
+
 ## yrend is inclusive
 mw, yrstart, yrend = 'm', 1991, 2015
 
