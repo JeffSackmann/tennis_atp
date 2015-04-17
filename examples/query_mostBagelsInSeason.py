@@ -32,7 +32,7 @@ for m in matches:
     if '0-6' in score:
         lkey = tnyid[:4] + ' ' + lname
         if lkey not in bagel_years:   bagel_years[lkey] = []
-        bagel_years[lkey] += [tdate[4:]+' '+tnyname+' '+rd]*score.count('6-0')        
+        bagel_years[lkey] += [tdate[4:]+' '+tnyname+' '+rd]*score.count('0-6')        
 
 rows = []
 for bc in bagel_years:
