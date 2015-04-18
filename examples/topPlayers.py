@@ -1,11 +1,12 @@
-#!/usr/bin/env python
 import csv
+from itertools import islice,ifilter
+from collections import OrderedDict
+
 MAINDIR = "../"
-pf = open (MAINDIR+"atp_players.csv")
-players = [p for p in csv.reader(pf)]
-rf = open (MAINDIR+"atp_rankings_current.csv")
-rankings = [r for r in csv.reader(rf)]
-for i in rankings[:10]:
-	player = filter(lambda x: x[0]==i[2],players)[0]
-	print "%s(%s),(%s) Points: %s"%(player[2],player[5],player[3],i[3])
+with  open(MAINDIR + "atp_players.csv") as pf,  open(MAINDIR + "atp_rankings_current.csv") as rf:
+    players = OrderedDict((row[0],row) for row in csv.reader(pf))
+    rankings = csv.reader(rf)
+    for i in islice(rankings, None, 10):
+        # now constant work getting row as opposed to 0(n)    
+        print players.get(i[2])
 
