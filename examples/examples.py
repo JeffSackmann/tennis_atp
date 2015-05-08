@@ -46,7 +46,7 @@ def bestLLinGrandSlams(matches):
     matches = matches.sort(['tourney_date'], ascending=False)
     print matches[['tourney_name','tourney_date','round','winner_name','winner_entry', 'loser_name', 'loser_entry']].to_csv(sys.stdout,index=False)    
   
-#find matches longer then 'minutes' with 'sets' number of played sets
+#find matches longer than 'minutes' with 'sets' number of played sets
 def numberOfSetsLongerThan(matches,sets,minutes):
     matches['score'].astype('str')
     matches = matches[(matches['minutes'] > minutes) & (matches['score'].str.count('-') == sets)]
