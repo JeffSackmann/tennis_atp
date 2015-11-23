@@ -26,3 +26,9 @@ There are a few tour-level matches with missing stats. Some are missing because 
 Update, 8/4/15
 
 2015 rankings, results, and stats are now available through last week's play. The results files are named according to the same conventions as the others. The rankings file for the current year is atp_rankings_current.csv.
+
+# License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">Crowdsourced shot-by-shot professional tennis data</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.tennisabstract.com/charting/meta.html" property="cc:attributionName" rel="cc:attributionURL">The Tennis Abstract Match Charting Project</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/JeffSackmann/tennis_MatchChartingProject" rel="dct:source">https://github.com/JeffSackmann/tennis_MatchChartingProject</a>
+
+In other words: Attribution is required. Non-commercial use only.
