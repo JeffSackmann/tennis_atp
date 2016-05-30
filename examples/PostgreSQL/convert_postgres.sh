@@ -28,7 +28,7 @@ psql -c "\copy players(player_id, firstname, lastname, hand, birth, country) fro
 # Set birth_date from birth string
 psql -c "UPDATE players SET birth_date=TO_DATE(birth,'YYYYMMDD');" $MYDATABASE
 
-echo "Players Imported"
+echo "Players Imported."
 
 # Create matches table
 psql -c "CREATE TABLE matches (
@@ -92,7 +92,7 @@ done;
 # Set match_date using tourney_date string
 psql -c "UPDATE matches SET match_date=TO_DATE(tourney_date,'YYYYMMDD');" $MYDATABASE
 
-echo "Matches Imported"
+echo "Matches Imported."
 
 # Create rankings table
 psql -c "CREATE TABLE rankings (
@@ -112,4 +112,5 @@ done;
 # Set match_date using tourney_date string
 psql -c "UPDATE rankings SET ranking_date=TO_DATE(date,'YYYYMMDD');" $MYDATABASE
 
-echo "Rankings Imported"
+echo "Rankings Imported."
+echo "All done."
