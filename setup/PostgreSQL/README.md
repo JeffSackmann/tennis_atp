@@ -3,7 +3,7 @@
 ### Usage
 
 ```bash
-bash convert_postgres.sh <db_name>
+bash setup/PostgreSQL/convert_postgres.sh <db_name>
 ```
 
 If db_name is missing it will use default database name: atpdatabase

@@ -3,7 +3,7 @@
 ### Usage
 
 ```bash
-./convert_sqlite <filename>
+setup/SQLite/convert_sqlite <filename>
 ```
 
 If filename is missing it will use default database name: atpdatabase.db

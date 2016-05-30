@@ -24,7 +24,7 @@ psql -c "CREATE TABLE players (
 );" $MYDATABASE
 
 # Populate using players CSV
-psql -c "\copy players(player_id, firstname, lastname, hand, birth, country) from '../../atp_players.csv' delimiter ',' csv;" $MYDATABASE
+psql -c "\copy players(player_id, firstname, lastname, hand, birth, country) from 'atp_players.csv' delimiter ',' csv;" $MYDATABASE
 # Set birth_date from birth string
 psql -c "UPDATE players SET birth_date=TO_DATE(birth,'YYYYMMDD');" $MYDATABASE
 
@@ -33,7 +33,7 @@ echo "Players Imported."
 # Create matches table
 psql -c "CREATE TABLE matches (
 	id serial,
-    tourney_id character varying(20),
+    tourney_id character varying(50),
     tourney_name character varying(50),
     surface character varying(10),
     draw_size integer,
@@ -86,7 +86,7 @@ psql -c "CREATE TABLE matches (
 );" $MYDATABASE
 
 # Populate using matches CSVs
-for x in $(ls ../../atp_matches_*.csv);
+for x in $(ls atp_matches_*.csv);
 	do psql -c "\COPY matches(tourney_id, tourney_name, surface, draw_size, tourney_level, tourney_date, match_num, winner_id, winner_seed, winner_entry, winner_name, winner_hand, winner_ht, winner_ioc, winner_age, winner_rank, winner_rank_points, loser_id, loser_seed, loser_entry, loser_name, loser_hand, loser_ht, loser_ioc, loser_age, loser_rank, loser_rank_points, score, best_of, round, minutes, w_ace, w_df, w_svpt, w_1stin, w_1stwon, w_2ndwon, w_svgms, w_bpsaved, w_bpfaced, l_ace, l_df, l_svpt, l_1stin, l_1stwon, l_2ndwon, l_svgms, l_bpsaved, l_bpfaced) FROM '$x' DELIMITER ',' CSV HEADER;" $MYDATABASE
 done;
 # Set match_date using tourney_date string
@@ -105,7 +105,7 @@ psql -c "CREATE TABLE rankings (
 );" $MYDATABASE
 
 # Populate using rankings CSVs
-for x in $(ls ../../atp_rankings_*s.csv);
+for x in $(ls atp_rankings_*s.csv);
 	do psql -c "\COPY rankings(date, pos, player_id, pts) FROM '$x' DELIMITER ',' CSV;" $MYDATABASE
 done;
 
