@@ -9,6 +9,7 @@ fi
 echo "Creating $MYDATABASE"
 
 # Lesgo
+dropdb $MYDATABASE
 createdb $MYDATABASE
 
 # Create players table
