@@ -1,4 +1,3 @@
-player_id,name_first,name_list,hand,birthdate,country
 100001,Gardnar,Mulloy,R,19131122,USA
 100002,Pancho,Segura,R,19210620,ECU
 100003,Frank,Sedgman,R,19271002,AUS
@@ -5071,7 +5070,7 @@ player_id,name_first,name_list,hand,birthdate,country
 105077,Albert,Ramos,L,19880117,ESP
 105078,Javier,Ramos,R,19880119,ESP
 105079,Ivan,Sergeyev,R,19880120,UKR
-105080,Miloslav,Mecir,R,19880120,SVK
+105080,Miloslav,Mecir Jr,R,19880120,SVK
 105081,Jean Michel,Durango,R,19880122,ECU
 105082,Marcus,Fugate,R,19880122,USA
 105083,Sebastian,Bader,R,19880122,AUT
@@ -9999,7 +9998,7 @@ player_id,name_first,name_list,hand,birthdate,country
 110012,Assen,Dishkov,R,,BUL
 110013,B,Chaffey,U,,USA
 110014,B,Nagel,U,,USA
-110015,D,Verdieck,U,,USA
+110015,Doug,Verdieck,U,,USA
 110016,Alan,Kendal,U,,AUS
 110017,John,Mcdonald,R,19310204,NZL
 110018,Keith,Diepraam,R,19420911,RSA
@@ -10130,18 +10129,18 @@ player_id,name_first,name_list,hand,birthdate,country
 110143,Bryan,Borea,R,,UNK
 110144,K,Shimamura,R,,JPN
 110145,B,Kronruge,R,,USA
-110146,U,Griffiths,U,,UNK
+110146,Geoff,Griffiths,U,,UNK
 110147,Matthew,Rowe,U,,USA
-110148,U,Lyndon,U,,UNK
+110148,Mark,Lyndon,U,,UNK
 110149,Daniel,Parun,U,,NZL
-110150,U,Mapp,U,,UNK
-110151,U,Ghatage,U,,UNK
+110150,Raymond,Mapp,U,,UNK
+110151,Praful,Ghatage,U,,UNK
 110152,Graham,Thompson,U,,UNK
-110153,U,Tovey,U,,UNK
+110153,Phil,Tovey,U,,UNK
 110154,U,Wallace,R,,UNK
-110155,U,Bond,U,,UNK
+110155,Jeremy,Bond,U,,UNK
 110156,Bill,Austin,U,,USA
-110157,U,Lidgey,U,,UNK
+110157,Robert,Lidgey,U,,UNK
 110158,Lt,Hardeman,R,,NED
 110159,Gaurav,Misra,R,,IND
 110160,Greg,Peebles,R,,USA
@@ -10207,7 +10206,7 @@ player_id,name_first,name_list,hand,birthdate,country
 110220,Ir,Hadiman,R,,INA
 110221,B,Dimalanta,U,,UNK
 110222,Iman,Sutarli,U,,UNK
-110223,A,Simangunsong,U,,UNK
+110223,Albert,Simangunsong,U,,UNK
 110224,Robert,Bedard,U,,CAN
 110225,Bikram,Singh Saluja,R,,IND
 110226,Tau,Luu,U,,HKG
@@ -10786,7 +10785,7 @@ player_id,name_first,name_list,hand,birthdate,country
 110799,Colon,Nunez,U,19550408,ECU
 110800,Fabian,Barriola,U,19500221,URU
 110801,Gustavo,Stapf,U,19511008,URU
-110802,Jason,Van Kerckhoven,U,,ARG
+110802,Julio,Van Kerckhoven,U,,ARG
 110803,Mario,Laborde,U,19551018,URU
 110804,Jon Erik,Ross,U,19430907,NOR
 110805,Finn,Dag Jagge,U,19360504,NOR
@@ -11122,7 +11121,7 @@ player_id,name_first,name_list,hand,birthdate,country
 111135,Greg,Perkins,R,,AUS
 111136,Terry,Ryan,R,19420427,RSA
 111137,K,Visscher,U,,UNK
-111138,D,Matthews,U,,UNK
+111138,Dennis,Matthews,U,,UNK
 111139,M,Cano,U,,ARG
 111140,J,Bart,U,,HUN
 111141,Luis,Rojas,U,,CRC
@@ -11812,7 +11811,7 @@ player_id,name_first,name_list,hand,birthdate,country
 111826,M,Mckenzie,,,AUS
 111827,Stanley Norwood,Doust,,18790329,AUS
 111828,Frank,Fisher,,18771222,NZL
-111829,Eric Olbasditon,Pockley,,,GBR
+111829,Eric Olbasditon,Pockley,,18760000,GBR
 111830,Bill,Gregg,,,AUS
 111831,Percy Brereton,Colquhoun,,18660928,AUS
 111832,Tony,Wilding,,18831031,NZL
@@ -11828,7 +11827,7 @@ player_id,name_first,name_list,hand,birthdate,country
 111842,Ernie,Parker,,18831105,AUS
 111843,K,Roberts,,,AUS
 111844,Robert Harrold,Berriman,,,AUS
-111845,Barney,Utz,,,AUS
+111845,Barney,Utz,,18860000,AUS
 111846,J,Penny,,,AUS
 111847,Roy,Taylor,,,AUS
 111848,Edward,Jordan,,,AUS
@@ -11843,7 +11842,7 @@ player_id,name_first,name_list,hand,birthdate,country
 111857,T,Linn,,,AUS
 111858,S,Milligan,,,AUS
 111859,F,Bromley,,,AUS
-111860,Ronald Victor,Thomas,,,AUS
+111860,Ronald Victor,Thomas,,18890000,AUS
 111861,E,Richmond,,,AUS
 111862,Pat,Ohara Wood,,18910430,AUS
 111863,Ra,Paxton,,,AUS
@@ -11861,7 +11860,7 @@ player_id,name_first,name_list,hand,birthdate,country
 111875,X,Fairbridge,,,AUS
 111876,N,Brearley,,,AUS
 111877,X,Sturm,,,UNK
-111878,Rice Thomas Hopkins,Gemmell,,,AUS
+111878,Rice Thomas Hopkins,Gemmell,,18960000,AUS
 111879,Dudley,Cameron,,,AUS
 111880,E,Barker,,,AUS
 111881,X,Holliday,,,AUS
@@ -11882,7 +11881,7 @@ player_id,name_first,name_list,hand,birthdate,country
 111896,A,Lawrie,,,AUS
 111897,Keith,Poulton,,,AUS
 111898,W,Goodman,,,AUS
-111899,Bruce,Dive,,,AUS
+111899,Bruce,Dive,,18940000,AUS
 111900,C,Willard,,,AUS
 111901,Norman,Peach,,18890329,AUS
 111902,Rupert C,Wertheim,,,AUS
@@ -11894,11 +11893,11 @@ player_id,name_first,name_list,hand,birthdate,country
 111908,Stewart H,Henderson,,,AUS
 111909,Aubrey,Willard,,,AUS
 111910,J,Fitzgerald,,,AUS
-111911,Andrew R,Huthnance,,,AUS
+111911,Andrew R,Huthnance,,18990000,AUS
 111912,Dudley B,Bullough,,,AUS
 111913,Eric L,Jones,,,AUS
 111914,C,Cross,,,AUS
-111915,Jack,Cummings,,,AUS
+111915,Jack,Cummings,,19010000,AUS
 111916,G,Pearson,,,AUS
 111917,Gerald Leighton,Patterson,,18951217,AUS
 111918,L,Bonnington,,,NZL
@@ -11949,7 +11948,7 @@ player_id,name_first,name_list,hand,birthdate,country
 111963,A,Hatherley,,,AUS
 111964,E,King Roberts,,,AUS
 111965,V,Trounce,,,AUS
-111966,Anthony,Willard,,,AUS
+111966,Anthony,Willard,,18930000,AUS
 111967,E,Ashcroft,,,AUS
 111968,Basil S,Fitchett,,,AUS
 111969,H,Coram,,,AUS
@@ -11959,7 +11958,7 @@ player_id,name_first,name_list,hand,birthdate,country
 111973,G,Williams,,,AUS
 111974,B,Loel,,,AUS
 111975,H,Gibbs,,,AUS
-111976,Paul A,Haege,,,AUS
+111976,Paul A,Haege,,19060000,AUS
 111977,V,Cornell,,,AUS
 111978,Alan,Treloar,,,AUS
 111979,Walter F,Medcalfe,,,AUS
@@ -11978,7 +11977,7 @@ player_id,name_first,name_list,hand,birthdate,country
 111992,A,Bulcock,,,AUS
 111993,A,Carmichael,,,AUS
 111994,L,Gibson,,,AUS
-111995,Henry,Marsh,,,AUS
+111995,Henry,Marsh,,18760000,AUS
 111996,Frank,Blaxland,,,AUS
 111997,C,Lamb,,,AUS
 111998,Bob,Spencer,,,AUS
@@ -12005,7 +12004,7 @@ player_id,name_first,name_list,hand,birthdate,country
 112019,Harry,Hopman,,19060812,AUS
 112020,Bob,Fotheringham,,,AUS
 112021,Frank,Broadhurst,,,AUS
-112022,Jack,Grinstead,,,AUS
+112022,Jack,Grinstead,,19060000,AUS
 112023,P,Fysh,,,AUS
 112024,H,Hicks,,,AUS
 112025,H,Wilson,,,AUS
@@ -12023,7 +12022,7 @@ player_id,name_first,name_list,hand,birthdate,country
 112037,Richard D,Harman,,,AUS
 112038,J,Smith,,,AUS
 112039,F,Laishley,,,NZL
-112040,Cc,Cox,,,NZL
+112040,Cc,Cox,,18750000,NZL
 112041,Rodney Wilfrid,Heath,,18840615,AUS
 112042,Tr,Quill,,,NZL
 112043,William,Goss,,,AUS
@@ -12092,7 +12091,7 @@ player_id,name_first,name_list,hand,birthdate,country
 112106,Gene,Mako,,19160124,USA
 112107,Anthony,Maggs,,,AUS
 112108,Max,Newcombe,,,AUS
-112109,Chum,Stephen,,,AUS
+112109,Chum,Stephen,,19150000,AUS
 112110,Gottfried Alexander Maximilian Walter Kurt,Von Cramm,,19090707,GER
 112111,R,Compain,,,AUS
 112112,John,Diggle,,,AUS
@@ -12100,14 +12099,14 @@ player_id,name_first,name_list,hand,birthdate,country
 112114,G,Murray,,,AUS
 112115,Kevin,Yon,,,AUS
 112116,Henry,Lindo,,,AUS
-112117,Max J F,Mcdermott,,,AUS
+112117,Max J F,Mcdermott,,19200000,AUS
 112118,Robert,Barnes,,,AUS
 112119,Roy,Harrison,,,AUS
 112120,Jean Laurent Robert,Borotra,,18980813,FRA
 112121,C,Brewster,,,AUS
 112122,V,Munns,,,AUS
 112123,E,Dunn,,,AUS
-112124,Leonard,Thurlow,,,AUS
+112124,Leonard,Thurlow,,18990000,AUS
 112125,A,Cattenach,,,AUS
 112126,James,Bayley,,,AUS
 112127,J,Mccausland,,,AUS
@@ -12137,7 +12136,7 @@ player_id,name_first,name_list,hand,birthdate,country
 112151,J,Oryan,,,AUS
 112152,David,Chrystal,,,AUS
 112153,R,Pullman,,,AUS
-112154,Allan Walton,Knight,,,AUS
+112154,Allan Walton,Knight,,19100000,AUS
 112155,Ryosuke,Nunoi,,19090118,JPN
 112156,J,Rodgers,,,AUS
 112157,Takeichi,Harada,,18990516,JPN
@@ -12186,7 +12185,7 @@ player_id,name_first,name_list,hand,birthdate,country
 112200,E,Mahony,,,AUS
 112201,Ronald E,Boone,,,AUS
 112202,Robert,Vroland,,,AUS
-112203,James,Bayley,,,AUS
+112203,James,Bayley,,18990000,AUS
 112204,Colin,Mckenzie,,,AUS
 112205,Alan,Temple,,,AUS
 112206,Ross,Lock,,,AUS
@@ -12216,7 +12215,7 @@ player_id,name_first,name_list,hand,birthdate,country
 112230,Rm,Rolland,,,AUS
 112231,Fe,Down,,,AUS
 112232,Cn,Barnard,,,AUS
-112233,Athur,O Hara Wood,,,AUS
+112233,Athur,O Hara Wood,,18900000,AUS
 112234,A,Foster,,,AUS
 112235,S,England,,,AUS
 112236,Ashley,Campbell,,,AUS
@@ -12292,7 +12291,7 @@ player_id,name_first,name_list,hand,birthdate,country
 112306,Kevin,Lonergan,,19300827,AUS
 112307,Noel,Pearse,,,AUS
 112308,Tim,Cawthorn,,,AUS
-112309,Kristian,Lasn,,,EST
+112309,Kristian,Lasn,,19080000,EST
 112310,J Barry,Green,,,AUS
 112311,Glen,Sheil,,,AUS
 112312,Frank Arthur,Sedgman,,19271029,AUS
@@ -12348,7 +12347,7 @@ player_id,name_first,name_list,hand,birthdate,country
 112362,R,Vernon,,,AUS
 112363,F,Street,,,AUS
 112364,Eddie,Beers,,,AUS
-112365,Robert,Brien,,,AUS
+112365,Robert,Brien,,19450000,AUS
 112366,Peter,Harris,,,AUS
 112367,Timothy,Clayton,,,AUS
 112368,John A,Cottrill,,,RSA
@@ -12454,7 +12453,7 @@ player_id,name_first,name_list,hand,birthdate,country
 112468,Warren,Kennedy,,,AUS
 112469,Fausto,Gardini,,19300308,ITA
 112470,Straight,Clark,,19250210,USA
-112471,Jack,Arkinstall,,,AUS
+112471,Jack,Arkinstall,,192005,AUS
 112472,G,Harvey,,,AUS
 112473,Lew,Gerrard,,19380405,NZL
 112474,Graeme,Stewart,,,AUS
@@ -12621,9 +12620,9 @@ player_id,name_first,name_list,hand,birthdate,country
 112635,Laci,Legenstein,,19261119,AUT
 112636,Bernard,Boutboul,,,FRA
 112637,Peter,Scholl,,19341005,GER
-112638,Hans,Denker,,,GER
+112638,Hans,Denker,,19110000,GER
 112639,Herman W,Artens,,19040625,AUT
-112640,Charles F,Aeschlimann,,,SUI
+112640,Charles F,Aeschlimann,,18960000,SUI
 112641,Emanuele,Sertorio,,,ITA
 112642,I,Lafontan,,,FRA
 112643,Jean,Lesueur,,19100624,FRA
@@ -12683,7 +12682,7 @@ player_id,name_first,name_list,hand,birthdate,country
 112697,Edouard,Thurneyssen,,,FRA
 112698,Boris,Maneff,,,SUI
 112699,Alan Christie,Stedman,,19080423,NZL
-112700,Marcel,Cousin,,,FRA
+112700,Marcel,Cousin,,18960000,FRA
 112701,Buster,Andrews,,19050731,NZL
 112702,Francois,Merlin,,,FRA
 112703,George,Nicolaidis,,,GRE
@@ -12693,7 +12692,7 @@ player_id,name_first,name_list,hand,birthdate,country
 112707,Robin F,Sanders,,,RSA
 112708,Julie,Mayers,,,RSA
 112709,S Akhtar,Ali,,19390705,IND
-112710,Lahcen,Chaldi,,,MAR
+112710,Lahcen,Chaldi,,19300000,MAR
 112711,Voldo,Presecki,,,YUG
 112712,Stefano,Gaudenzi,,,ITA
 112713,Julian,Coni,,,GBR
@@ -12747,36 +12746,36 @@ player_id,name_first,name_list,hand,birthdate,country
 112761,Nigel,Sharpe,,19041223,GBR
 112762,Erik,Worm,,19000426,DEN
 112763,George,Cholmondeley,,18830519,GBR
-112764,Pavel,Macenauer,,,TCH
+112764,Pavel,Macenauer,,19010000,TCH
 112765,Ignacio,De  La Borbolla,,,MEX
 112766,Arne Wilhelm,Grahn,,19020122,FIN
 112767,Gyorgy,Dungyersky,,,YUG
 112768,Hector Cosmo,Fisher,,19010504,SUI
 112769,Carlo,Davalos,,,ITA
 112770,Gf,De Bruyn Kops,,,UNK
-112771,Jan,Kozeluh,,,TCH
+112771,Jan,Kozeluh,,19040000,TCH
 112772,Ah,Greig,,,UNK
 112773,M,Wetselaar,,,NED
 112774,El,Sarkies,,,INA
 112775,Clemente,Serventi,,18890907,ITA
 112776,Oswald Graham Noel,Turnbull,,18901220,GBR
-112777,William,Robson,,,ARG
+112777,William,Robson,,19030000,ARG
 112778,Sandford W,Bobb,,,IND
 112779,A Felix,Poulin,,,FRA
 112780,Umberto Luigi,De Morpurgo,,18960112,ITA
 112781,Stanislav,Czetwertynski,,,POL
-112782,Ernst,Gottlieb,,,TCH
+112782,Ernst,Gottlieb,,18930000,TCH
 112783,Howard Oreon,Kinsey,,18991203,USA
-112784,Hector Americo,Cattaruzza,,,ARG
+112784,Hector Americo,Cattaruzza,,19040000,ARG
 112785,Ludwig  Albrecht Constantin Maria Count Von,Salm Hoogstraeten,,18850224,AUT
-112786,Friedrich,Ruhrer,,,TCH
+112786,Friedrich,Ruhrer,,18950000,TCH
 112787,Jm,Tarruella,,,ESP
 112788,Arthur Wallis,Myers,,18780724,GBR
 112789,David R,Morrice,,,CAN
 112790,Aj,Van Der Steur,,,UNK
 112791,Bertie,Meyer,,,GBR
 112792,Jose Maria,Tejada,,,ESP
-112793,Cesare,Colombo,,,ITA
+112793,Cesare,Colombo,,18890000,ITA
 112794,Leslie Allison,Godfree,,18850427,GBR
 112795,Ronaldo R,Boyd,,,ARG
 112796,Cor,Bryan,,,NED
@@ -12791,7 +12790,7 @@ player_id,name_first,name_list,hand,birthdate,country
 112805,Sri Krishna,Prasada,,18940804,IND
 112806,Robert,Laurent,,,FRA
 112807,R,Danon,,,EGY
-112808,Luis,Torralva Ponsa,,,CHI
+112808,Luis,Torralva Ponsa,,19020000,CHI
 112809,X,Krishen,,,UNK
 112810,Karl,Wetzel,,,GER
 112811,Jack,Condon,,19030909,RSA
@@ -12802,7 +12801,7 @@ player_id,name_first,name_list,hand,birthdate,country
 112816,Loutfalla,Wahid,,,EGY
 112817,Norman Gordon,Farquharson,,19070718,RSA
 112818,G,Geraud,,,FRA
-112819,Brame,Hillyard,,,GBR
+112819,Brame,Hillyard,,18760000,GBR
 112820,J,Rebois,,,UNK
 112821,Otto,Froitzheim,,18840424,GER
 112822,J,Carreras,,,UNK
@@ -12813,7 +12812,7 @@ player_id,name_first,name_list,hand,birthdate,country
 112827,Frank,Hunter,,18940628,USA
 112828,Denis,Laurent,,,FRA
 112829,Emmanuel,Du Plaix,,,FRA
-112830,Domingo,Torralva Ponsa,,,CHI
+112830,Domingo,Torralva Ponsa,,19000000,CHI
 112831,Kick,Van Lennep,,18870103,NED
 112832,Eugene,Broquedis,,,FRA
 112833,Etienne,Micard,,,FRA
@@ -12926,14 +12925,14 @@ player_id,name_first,name_list,hand,birthdate,country
 112940,Eustace,Fannin,,19190101,RSA
 112941,Bernard,Dupont,,19280921,SUI
 112942,Henri,Doublet,,,FRA
-112943,Mordechai,Apel,,,ISR
+112943,Mordechai,Apel,,19280000,ISR
 112944,Roland,Dubuisson,,,FRA
 112945,Nguyen,Van Gioi,,,VIE
 112946,Carlos,Ferrer,,,ESP
 112947,Erik,Bjerre,,,DEN
 112948,Paul,Letang,,,FRA
 112949,D,Roger,,,FRA
-112950,Yehuda,Finkelkraut,,,ISR
+112950,Yehuda,Finkelkraut,,19170000,ISR
 112951,I,Casale,,,ESP
 112952,Gerry,Oakley,,19330725,GBR
 112953,Jacob,Buntman,,,ISR
@@ -12941,7 +12940,7 @@ player_id,name_first,name_list,hand,birthdate,country
 112955,Syd,Levy,,,RSA
 112956,Bernard,Lucot,,,FRA
 112957,Marcelo,Taverne,,19161218,CHI
-112958,Mahmoud,Talaat,,,EGY
+112958,Mahmoud,Talaat,,19150000,EGY
 112959,Nigel M,Cockburn,,,GBR
 112960,Enzo,Pautassi,,,ITA
 112961,Milan,Branovic,,19220926,YUG
@@ -12974,7 +12973,7 @@ player_id,name_first,name_list,hand,birthdate,country
 112988,William,Tym,,,USA
 112989,Eric,Loliee,R,19430418,FRA
 112990,Zdravko,Mincek,,,YUG
-112991,Rohan G,Summers,,,RSA
+112991,Rohan G,Summers,,19440000,RSA
 112992,Isao,Kobayashi,,19411121,JPN
 112993,Bronislaw,Lewandowski,,19470831,POL
 112994,Bernd,Weinmann,,,GER
@@ -12984,7 +12983,7 @@ player_id,name_first,name_list,hand,birthdate,country
 112998,Pierre,Pellizza,,19170710,FRA
 112999,Andre,Poulailion,,,FRA
 113000,Henri,Bolelli,,19120227,FRA
-113001,Andres R,Hammersley,,,CHI
+113001,Andres R,Hammersley,,19200000,CHI
 113002,John Burke,Wilkinson,,,USA
 113003,Derrick William,Barton,,19230926,GBR
 113004,Patrick,Tiberghien,,,FRA
@@ -13063,11 +13062,11 @@ player_id,name_first,name_list,hand,birthdate,country
 113077,Oscar,De Minerbi,,19080226,ITA
 113078,Bobby,De,,,UNK
 113079,Gregory,Mangin,,19081101,USA
-113080,Pierre,Albarran,,,FRA
+113080,Pierre,Albarran,,18940000,FRA
 113081,Hyotare,Satoh,,19040601,JPN
 113082,Ahmed,Shukry,,,EGY
 113083,Minoru,Kawachi,,19080807,JPN
-113084,Jack Montagu,Hillyard,,,GBR
+113084,Jack Montagu,Hillyard,,18900000,GBR
 113085,Jean,De Macedo,,,FRA
 113086,Huyuh,Van Giao,,,VIE
 113087,Bc,Lowe,,,RSA
@@ -13194,7 +13193,7 @@ player_id,name_first,name_list,hand,birthdate,country
 113208,Nguyen,Van Sau,,,FRA
 113209,Andre,Casanova,,,FRA
 113210,Fumiteru,Nakano,,19160113,JPN
-113211,Frantisek,Cejnar,,,TCH
+113211,Frantisek,Cejnar,,19170000,TCH
 113212,Paul,Roux,,,FRA
 113213,Bent,Panker,,,DEN
 113214,Yasumine,Kuramitsu,,,JPN
@@ -13292,13 +13291,13 @@ player_id,name_first,name_list,hand,birthdate,country
 113306,X,Dry,,,UNK
 113307,Michel,Poles,,,FRA
 113308,Annibale,Scotti,,,ITA
-113309,J Hal,Surface Jr,,,USA
+113309,J Hal,Surface Jr,,19130000,USA
 113310,Kie,Kho Sin,,19120902,CHN
 113311,Kazimierz,Tarlowski,,,POL
 113312,Tsui Wai,Pui,,,UNK
 113313,Willem,Karsten,,,NED
 113314,Phil,Harman,,,USA
-113315,Robert D,Murray,,,CAN
+113315,Robert D,Murray,,19070000,CAN
 113316,Kay,Lund,,19120221,GER
 113317,A,Ritossa,,,SUI
 113318,X,Le Hun Ly,,,UNK
@@ -13308,7 +13307,7 @@ player_id,name_first,name_list,hand,birthdate,country
 113322,Guy P,Jackson,,19210920,IRL
 113323,Douglas G,Snart,,,GBR
 113324,H Clive,Bernstein,,,GBR
-113325,Roland E,Carter,,,GBR
+113325,Roland E,Carter,,192011,GBR
 113326,Francis J,Wallis,,,GBR
 113327,Tim R,Miles,,,GBR
 113328,Jimmy,Jones,,19120710,GBR
@@ -13386,7 +13385,7 @@ player_id,name_first,name_list,hand,birthdate,country
 113400,Esmail,Sohikish,,,IRI
 113401,R Vivian,Gotto,,19210913,IRL
 113402,Jim R,Frolik,,19210618,USA
-113403,Huib,Wilton,,,NED
+113403,Huib,Wilton,,19210000,NED
 113404,Frank E,Mehner,,,USA
 113405,Roland,Morton,,,GBR
 113406,Rw,Baker,,,AUS
@@ -13439,7 +13438,7 @@ player_id,name_first,name_list,hand,birthdate,country
 113453,Cyril V,Botha,,,RSA
 113454,Ian A,Mcdonald,,19330418,TRI
 113455,Arthur R,Gubb,,,AUS
-113456,Franz,Saiko,,,AUT
+113456,Franz,Saiko,,19310000,AUT
 113457,Ed,Bulmer,,,GBR
 113458,Hugh West,Sweeney,,,USA
 113459,Tony,Clayton,,,GBR
@@ -13515,7 +13514,7 @@ player_id,name_first,name_list,hand,birthdate,country
 113529,David,Lurie,,,RSA
 113530,Bruce A,Haughton,,,IRL
 113531,Athol W,Tills,,,NZL
-113532,Henri,Rochon,,,CAN
+113532,Henri,Rochon,,19240000,CAN
 113533,Ted,Slawek,,,GBR
 113534,Reg K,Kaley,,,GBR
 113535,Bill,Smith,,,NZL
@@ -13550,12 +13549,12 @@ player_id,name_first,name_list,hand,birthdate,country
 113564,Bob,Dabbs,,,GBR
 113565,Arcot J,Uday Kumar,,19311121,IND
 113566,Theodore Michel,Mavrogordato,,18830731,GBR
-113567,George Townshend Candy,Watt,,,GBR
+113567,George Townshend Candy,Watt,,18860000,GBR
 113568,Maurice F Col,Day,,,GBR
 113569,Ta,Fuller,,,GBR
 113570,Percival May,Davson,,18770930,GBR
 113571,Alfred C,Hunter,,,GBR
-113572,Ernest George,Parton,,,GBR
+113572,Ernest George,Parton,,18790000,GBR
 113573,Arthur W,Macpherson Jr,,18960201,USA
 113574,Walter Cecil,Crawley,,18800329,GBR
 113575,Brian Ivan Cobham,Norton,,18991010,RSA
@@ -13571,7 +13570,7 @@ player_id,name_first,name_list,hand,birthdate,country
 113585,Wentworth,Gore,,18680102,GBR
 113586,Gerald R,Sherwell,,,RSA
 113587,Jt,Baines,,,GBR
-113588,William H,Laurentz,,,FRA
+113588,William H,Laurentz,,18950000,FRA
 113589,Lf,Davin,,,GBR
 113590,Wing,Lock Wei,,,CHN
 113591,A Vincent,Burr,,,GBR
@@ -13579,14 +13578,14 @@ player_id,name_first,name_list,hand,birthdate,country
 113593,Jarl Sune,Malmstrom,,18971028,SWE
 113594,Beverley C,Covell,,,GBR
 113595,Ce Leonard,Lyle,,,GBR
-113596,Harold Scotter,Owen,,,GBR
+113596,Harold Scotter,Owen,,18850000,GBR
 113597,Philip F,Glover,,18990209,GBR
 113598,Zenzo,Shimidzu,,18910325,JPN
 113599,Alan C,Belgrave,,,GBR
 113600,William Percy,Pinckney,,18680925,GBR
 113601,Neville G,Deed,,,GBR
 113602,Maurice,Blythman,,,GBR
-113603,Henry Vere Shirley,Dillon,,,IRL
+113603,Henry Vere Shirley,Dillon,,18840000,IRL
 113604,Henry George,Mayes,,18800214,CAN
 113605,Pm,Dixon,,,RSA
 113606,Robert,Walker,,,GBR
@@ -13598,7 +13597,7 @@ player_id,name_first,name_list,hand,birthdate,country
 113612,Mrl,White,,,GBR
 113613,Fred A,Lindeman,,,GBR
 113614,Jg,Hogan,,,GBR
-113615,Geoffrey Blenkinsop,Youll,,,GBR
+113615,Geoffrey Blenkinsop,Youll,,18800000,GBR
 113616,Samuel Percy,Hardy,,18761123,USA
 113617,Major T,Moss,,,GBR
 113618,Richard Mk,Turnbull,,,GBR
@@ -13612,7 +13611,7 @@ player_id,name_first,name_list,hand,birthdate,country
 113626,Luis,De Olivares,,,ESP
 113627,Paul,De Borman,,18791201,BEL
 113628,Major Josiah George,Ritchie,,18701018,GBR
-113629,Henry Hew Gordon Dacre,Stoker,,,IRL
+113629,Henry Hew Gordon Dacre,Stoker,,18500000,IRL
 113630,Frederick C,Inman,,,USA
 113631,L,Robinson,,,GBR
 113632,E,Coutts,,,RSA
@@ -13621,13 +13620,13 @@ player_id,name_first,name_list,hand,birthdate,country
 113635,Frank,Walters,,,GBR
 113636,Donald,Kingdon,,,GBR
 113637,Bill,Johnston,,18941102,USA
-113638,John Mason,Flavelle,,,GBR
+113638,John Mason,Flavelle,,18680000,GBR
 113639,E Stanley,Franklin,,,GBR
 113640,Sirdar,Dass,,,IND
 113641,Hr,Fussell,,,GBR
-113642,Ambrose Nevil Waddell,Dudley,,,GBR
+113642,Ambrose Nevil Waddell,Dudley,,18790000,GBR
 113643,Cw,Murray,,,GBR
-113644,Cecil R,Blackbeard,,,RSA
+113644,Cecil R,Blackbeard,,19000000,RSA
 113645,Yasin,Mohamed,,,IND
 113646,George,Stoddart,,,GBR
 113647,B,Wood Hill,,,GBR
@@ -13638,7 +13637,7 @@ player_id,name_first,name_list,hand,birthdate,country
 113652,Frank H,Jarvis,,,GBR
 113653,Cs,Grace,,,GBR
 113654,Jm,Bell,,,GBR
-113655,Mark Day,Hick,,,GBR
+113655,Mark Day,Hick,,18800000,GBR
 113656,Ernest Talbot Thomas,Lamb,,18810905,GBR
 113657,Cs,Galbraith,,,GBR
 113658,John C F,Masterman,,,GBR
@@ -13685,7 +13684,7 @@ player_id,name_first,name_list,hand,birthdate,country
 113699,Arthur,Diemer Kool,,18960130,NED
 113700,Dh,Kleinman,,,MAS
 113701,Rene,De Grenus,,,SUI
-113702,Francis Wordsworth,Donisthorpe,,,GBR
+113702,Francis Wordsworth,Donisthorpe,,18780000,GBR
 113703,Harold Issidro Tower,Aitken,,18770409,RSA
 113704,H Cyril,Eltringham,,,GBR
 113705,Ben,Haughton,,18900108,IRL
@@ -13720,7 +13719,7 @@ player_id,name_first,name_list,hand,birthdate,country
 113734,George Colket,Caner,,18940705,USA
 113735,Bob,Barbour,,,AUS
 113736,Amos,Wilder,,,USA
-113737,Clinton Gilbert,Mcilquham,,,GBR
+113737,Clinton Gilbert,Mcilquham,,18900000,GBR
 113738,Jack,Weakley,,19030101,GBR
 113739,Pc,Chase,,,GBR
 113740,Wl,Van Ryn,,,RSA
@@ -13742,7 +13741,7 @@ player_id,name_first,name_list,hand,birthdate,country
 113756,Dl,Morgan,,,GBR
 113757,A Georges,Watson,,,BEL
 113758,Arthur J,Gore,,,GBR
-113759,David,Rutnam,,,IND
+113759,David,Rutnam,,18960000,IND
 113760,Gwv,Hurst,,,RSA
 113761,Louis Albert,Meldon,,18861010,IRL
 113762,Whm,Aitken,,,GBR
@@ -13795,7 +13794,7 @@ player_id,name_first,name_list,hand,birthdate,country
 113809,Gerard,Leembruggen,,18970226,NED
 113810,Gh,Todd,,,GBR
 113811,Wdk,Thellusson,,,GBR
-113812,Felipe,Del Canto,,,MEX
+113812,Felipe,Del Canto,,18930000,MEX
 113813,Pe,Allison,,,NZL
 113814,George S,Fletcher,,,GBR
 113815,Jf,Park,,,NZL
@@ -13808,7 +13807,7 @@ player_id,name_first,name_list,hand,birthdate,country
 113822,Stjohn,Evers,,,GBR
 113823,Leslie J,Hill,,,GBR
 113824,Akelly,Evans,,,IRL
-113825,Mariano,Lozano Y Alatorre,,,MEX
+113825,Mariano,Lozano Y Alatorre,,18940000,MEX
 113826,Nc,Abrams,,,GBR
 113827,Carl,Fischer,,,USA
 113828,V,Rudolf,,,GBR
@@ -13839,7 +13838,7 @@ player_id,name_first,name_list,hand,birthdate,country
 113853,Ha,Lake,,,GBR
 113854,Richard,Powell,,,GBR
 113855,Lucien E,Williams,,,USA
-113856,Leo,Carr,,,AUS
+113856,Leo,Carr,,18910000,AUS
 113857,J,Nicholson,,,NZL
 113858,Baron Goffredo De,Banfield,,,ITA
 113859,Eric B,Andreae,,,IND
@@ -13960,7 +13959,7 @@ player_id,name_first,name_list,hand,birthdate,country
 113974,C,Wallis,,,GBR
 113975,Frank,Hadow,,18550102,GBR
 113976,Frederick William,Oliver,,18360104,GBR
-113977,Robert Dalby,Dalby,,,GBR
+113977,Robert Dalby,Dalby,,18350000,GBR
 113978,Beckwith,Smith,,,GBR
 113979,Ac,Brown,,,GBR
 113980,Fm,Ashley,,,GBR
@@ -13977,11 +13976,11 @@ player_id,name_first,name_list,hand,birthdate,country
 113991,Victor Alexander,Brooke,,18430105,IRL
 113992,Ernest,Renshaw,,18610103,GBR
 113993,Bt,Cotton,,,GBR
-113994,Alfred,Schacht,,,GBR
+113994,Alfred,Schacht,,18580000,GBR
 113995,John Thorneycroft,Hartley,,18490109,GBR
-113996,Charles John,Cole,,,GBR
+113996,Charles John,Cole,,18530000,GBR
 113997,Gh,Cartland,,,GBR
-113998,Henry Lyle,Mulholland,,,GBR
+113998,Henry Lyle,Mulholland,,18540000,GBR
 113999,William Cecil,Marshall,,18490429,GBR
 114000,Ah,Cochran,,,GBR
 114001,Cecil Francis,Parr,,18470802,GBR
@@ -13991,7 +13990,7 @@ player_id,name_first,name_list,hand,birthdate,country
 114005,Capt,Belson,,,GBR
 114006,T,Hoare,,,GBR
 114007,Wf,Adams,,,GBR
-114008,Arthur Basil,Brooke,,,IRL
+114008,Arthur Basil,Brooke,,18470000,IRL
 114009,Ht,Gilson,,,GBR
 114010,William Francis,Wells Cole,,18590422,GBR
 114011,Charles David,Barry,,18670331,IRL
@@ -14003,7 +14002,7 @@ player_id,name_first,name_list,hand,birthdate,country
 114017,Lyttleton Stewart Forbes,Winslow,,18440131,GBR
 114018,S,Pilkington,,,GBR
 114019,Edgar,Lubbock,,18470222,GBR
-114020,Alfred John,Mulholland,,,IRL
+114020,Alfred John,Mulholland,,18560000,IRL
 114021,Vere Thomas Saint Leger,Goold,,18531002,IRL
 114022,F,Durant,,,GBR
 114023,James David,Vans Agnew,,18580404,GBR
@@ -14062,7 +14061,7 @@ player_id,name_first,name_list,hand,birthdate,country
 114076,E Claude,Metcalf,,,GBR
 114077,Llewelyn,Williams,,,ARG
 114078,Wah,Duff,,,CAN
-114079,Jorge,Williams,,,ARG
+114079,Jorge,Williams,,19030000,ARG
 114080,Wg,Curtis Morgan,,,GBR
 114081,Jan,Van Der Heide,,,NED
 114082,Raymond V,Fontes,,,UNK
@@ -14090,7 +14089,7 @@ player_id,name_first,name_list,hand,birthdate,country
 114104,Kasom,Chartikavanij,,,THA
 114105,Man Mohan,Bhandari,,19130226,IND
 114106,Stanley,Stewart,,,GBR
-114107,Stanley Gordon,Lum,,,CHN
+114107,Stanley Gordon,Lum,,19060000,CHN
 114108,Merrimon,Cunningim,,,USA
 114109,Laird,Watt,,19130521,CAN
 114110,Finn Trgyve,Smith,,19120918,NOR
@@ -14101,7 +14100,7 @@ player_id,name_first,name_list,hand,birthdate,country
 114115,Grady C,Frank,,,GBR
 114116,John,Kitson,,,RSA
 114117,Richard O,Williams,,,GBR
-114118,Jiro,Fujikura,,,JPN
+114118,Jiro,Fujikura,,19170000,JPN
 114119,Werner,Menzel,,,GER
 114120,Db,Jarvis,,,GBR
 114121,Alistair,Dewar Brown,,19151215,NZL
@@ -14150,7 +14149,7 @@ player_id,name_first,name_list,hand,birthdate,country
 114164,Ar,Sawyer,,,GBR
 114165,Fh,Bryant,,,GBR
 114166,Henry,Wilson Fox,,18630818,GBR
-114167,Sirdar Nihal,Singh,,,IND
+114167,Sirdar Nihal,Singh,,18820000,IND
 114168,Pierre,Verde Delisle,,,FRA
 114169,Wylie Cameron,Grant,,18791124,USA
 114170,Frank H,Pearce,,,GBR
@@ -14163,26 +14162,26 @@ player_id,name_first,name_list,hand,birthdate,country
 114177,Charles Arthur Orpen,Tuckey,,18750824,GBR
 114178,Alfred Em,Taylor,,,GBR
 114179,Fritz W,Goldberg,,,GBR
-114180,Jack,Ridding,,,GBR
-114181,Val,Miley,,,IRL
+114180,Jack,Ridding,,18740000,GBR
+114181,Val,Miley,,18880000,IRL
 114182,George Aristides,Caridia Karidias,,18690220,GBR
 114183,Wp,Haviland,,,GBR
 114184,Captain,Foulkes,,,CAN
 114185,Arthur Westlake,Andrews,,18681212,GBR
-114186,John R,Richardson,,,RSA
+114186,John R,Richardson,,18740000,RSA
 114187,Ew,Timmis,,,GBR
-114188,Lionel Hunter,Escombe,,,GBR
+114188,Lionel Hunter,Escombe,,18760000,GBR
 114189,Kenneth,Powell,,18850408,GBR
 114190,Albert Davis,Prebble,,18731022,GBR
 114191,Peter,Hicks,,,GBR
-114192,Victor Reginald,Gauntlett,,,RSA
+114192,Victor Reginald,Gauntlett,,18850000,RSA
 114193,Conway William,Blackwood Price,,18720728,GBR
 114194,Td,Stoward,,,GBR
 114195,Douglas W,Kitching,,,GBR
 114196,Wilberforce Vaughan,Eaves,,18671210,GBR
 114197,E,Yatman,,,GBR
 114198,Charles Richard Delabere,Pritchett,,18750419,GBR
-114199,Dunstan P,Rhodes,,,GBR
+114199,Dunstan P,Rhodes,,18880000,GBR
 114200,Frank M,Pearson,,,GBR
 114201,Maurice,Germot,,18821117,FRA
 114202,Wg,Milburn,,,GBR
@@ -14242,10 +14241,10 @@ player_id,name_first,name_list,hand,birthdate,country
 114256,George Lawrence,Orme,,18660105,GBR
 114257,Charles,Gouldesborough,,,GBR
 114258,Sf,Card,,,GBR
-114259,Dudley Thomas Reynolds,Larcombe,,,GBR
+114259,Dudley Thomas Reynolds,Larcombe,,18790000,GBR
 114260,Jk,Frost,,,GBR
 114261,E,Warmant,,,GBR
-114262,Kreigh,Collins,,,USA
+114262,Kreigh,Collins,,187501,USA
 114263,Ernest R,Patterson,,,CAN
 114264,Frank Lorymer,Riseley,,18770706,GBR
 114265,Js,Talbot,,,GBR
@@ -14261,7 +14260,7 @@ player_id,name_first,name_list,hand,birthdate,country
 114275,Laurie,Doherty,,18751008,GBR
 114276,Percy D,Fitton,,,GBR
 114277,Chg,Mackintosh,,,GBR
-114278,Harold Penn,Gaskell,,,GBR
+114278,Harold Penn,Gaskell,,18840000,GBR
 114279,Xenophon,Casdagli,,18800227,GBR
 114280,John Cs,Rendall,,,GBR
 114281,Colin C,Wyllie,,,GBR
@@ -14269,18 +14268,18 @@ player_id,name_first,name_list,hand,birthdate,country
 114283,Karl Howell,Behr,,18850530,USA
 114284,Beals Coleman,Wright,,18791219,USA
 114285,Je,Boyd,,,GBR
-114286,Archdale,Palmer,,,GBR
+114286,Archdale,Palmer,,18650000,GBR
 114287,R,Boucher,,,GBR
 114288,Nd,Malcolm,,,GBR
 114289,Cd,Beater,,,GBR
 114290,Jh,Winston,,,USA
-114291,Reginald Arthur,Gamble,,,GBR
+114291,Reginald Arthur,Gamble,,18620000,GBR
 114292,Th,Behr,,,USA
 114293,James A,Randall,,,GBR
 114294,F,Chesterton,,,GBR
 114295,Ag,Plante,,,GBR
 114296,Eg,Levien,,,GBR
-114297,Neville John,Durlacher,,,GBR
+114297,Neville John,Durlacher,,18710000,GBR
 114298,Gr,Bennett,,,IRL
 114299,Curt,Von Wessely,,,AUT
 114300,Rolf,Kinzl,,18781019,AUT
@@ -14306,7 +14305,7 @@ player_id,name_first,name_list,hand,birthdate,country
 114320,S,Baddeley,,,GBR
 114321,Ce,Finlason,,,GBR
 114322,Frederick James Wade,Plaskitt,,18671224,GBR
-114323,Frederick William,Payn,,,GBR
+114323,Frederick William,Payn,,18730000,GBR
 114324,Go,Thomas,,,GBR
 114325,Es,Salmon,,,GBR
 114326,Holcombe,Ward,,18781123,USA
@@ -14323,14 +14322,14 @@ player_id,name_first,name_list,hand,birthdate,country
 114337,Barney,Murphy,,,AUS
 114338,Roger Mary,Sweetman,,18740815,IRL
 114339,Hugh Matthew,Sweetman,,18710921,IRL
-114340,Allan Campbell,Pearson,,,GBR
+114340,Allan Campbell,Pearson,,18740000,GBR
 114341,Alfred E,Walker,,18650522,GBR
 114342,A,Raleigh,,,GBR
 114343,Hl,Whale,,,GBR
 114344,Fmoran,Brambeer,,,GBR
 114345,J Evelyn,Mellor,,,GBR
 114346,Hl,Fleming,,,GBR
-114347,Leslie Leopold Rudolph,Hausburg,,,GBR
+114347,Leslie Leopold Rudolph,Hausburg,,18720000,GBR
 114348,Wh,Pritchard,,,USA
 114349,Fj,Barker  Benfield,,,GBR
 114350,Clarence,Hobart,,18700627,USA
@@ -14341,7 +14340,7 @@ player_id,name_first,name_list,hand,birthdate,country
 114355,A Broese,Van Groenon,,,NED
 114356,S,Herbert,,,GBR
 114357,Edmund D,Black,,,GBR
-114358,Oswald,Milne,,,GBR
+114358,Oswald,Milne,,18580000,GBR
 114359,Henry Gillibrand Elwin,Evered,,18711128,GBR
 114360,Herbert,Chipp,,18500104,GBR
 114361,Harold Adair,Nisbet,,18730622,GBR
@@ -14350,7 +14349,7 @@ player_id,name_first,name_list,hand,birthdate,country
 114364,Capt,Barton,,,GBR
 114365,Cl,Nedwill,,,GBR
 114366,Hl,Wilson,,,AUS
-114367,Philip Graeme,Pearson,,,GBR
+114367,Philip Graeme,Pearson,,18780000,GBR
 114368,Hw,Davies,,,GBR
 114369,Hj Pullen,Thompson,,,GBR
 114370,Hugh Dolby,Beningfield,,18860214,RSA
@@ -14403,7 +14402,7 @@ player_id,name_first,name_list,hand,birthdate,country
 114417,Ah,Green,,,GBR
 114418,Georges,Gault,,,FRA
 114419,Cf,Ryder,,,GBR
-114420,Hoppner Wilkins,Gallwey,,,GBR
+114420,Hoppner Wilkins,Gallwey,,18820000,GBR
 114421,Jr,Brinkley,,,UNK
 114422,Asg,Reid,,,GBR
 114423,M Henry,Marsh,,,GBR
@@ -14527,7 +14526,7 @@ player_id,name_first,name_list,hand,birthdate,country
 114541,Rw,Grant,,,USA
 114542,George Richmond,Mewburn,,18650214,GBR
 114543,Rf,Leslie,,,GBR
-114544,Horace Arthur Bruce,Chapman,,,GBR
+114544,Horace Arthur Bruce,Chapman,,18660000,GBR
 114545,John,Parmly Paret,,18701003,USA
 114546,Roy,Allen,,18681228,GBR
 114547,H Nelson,Wright,,,GBR
@@ -14535,7 +14534,7 @@ player_id,name_first,name_list,hand,birthdate,country
 114549,Charles Gladstone,Allen,,18681228,GBR
 114550,Svr,Drapes,,,GBR
 114551,David Grainger,Chaytor,,18680511,IRL
-114552,Ernest George,Meers,,,GBR
+114552,Ernest George,Meers,,18480000,GBR
 114553,Arthur Wellesley,Hallward,,18600304,GBR
 114554,Bill,Cranston,,,USA
 114555,Ernest Wool,Lewis,,18670405,GBR
@@ -14548,13 +14547,13 @@ player_id,name_first,name_list,hand,birthdate,country
 114562,Joshua Francis,Pim,,18690520,IRL
 114563,Arthur William,Meers,,18510618,GBR
 114564,William C,Taylor,,,GBR
-114565,Edward James,Avory,,,GBR
+114565,Edward James,Avory,,18530000,GBR
 114566,Walter,Castle,,,GBR
 114567,Arthur Henry,Riseley,,18740717,GBR
 114568,Walter G,Bailey,,,GBR
 114569,Arthur Ellsworth,Foote,,18740104,USA
 114570,Arthur,Kirby,,,GBR
-114571,Hugh,Marley,,,GBR
+114571,Hugh,Marley,,18730000,GBR
 114572,Sc,Atkey,,,GBR
 114573,W,Wallace,,,GBR
 114574,Jj,Stone,,,GBR
@@ -14614,18 +14613,18 @@ player_id,name_first,name_list,hand,birthdate,country
 114628,Harold S,Stone,,,GBR
 114629,Tom,Campion,,18600909,IRL
 114630,James,Baldwin,,,GBR
-114631,William Herbert,Cohen,,,GBR
+114631,William Herbert,Cohen,,18660000,GBR
 114632,Charles Gladstone,Eames,,18601219,GBR
 114633,Patrick,Bowes  Lyon,,18630305,GBR
-114634,Michael Gallwey,Mcnamara,,,IRL
+114634,Michael Gallwey,Mcnamara,,18600000,IRL
 114635,Herbert,Bowes  Lyon,,18600815,GBR
 114636,Ev,Thompson,,,GBR
-114637,Wilfred,Milne,,,GBR
+114637,Wilfred,Milne,,18580000,GBR
 114638,Toler Roberts,Garvey,,18650211,IRL
 114639,Howard,Pease,,18630712,GBR
 114640,Eyre,Chatterton,,18630722,IRL
 114641,Ar,Lewis,,,GBR
-114642,John Henry,Lewis,,,GBR
+114642,John Henry,Lewis,,18340000,GBR
 114643,Charles Prideaux,Triscott,,18570902,GBR
 114644,Claude Erskine,Farrer,,18640915,GBR
 114645,Donald Charles,Stewart,,18591212,GBR
@@ -14655,7 +14654,7 @@ player_id,name_first,name_list,hand,birthdate,country
 114669,Lg,Campbell,,,GBR
 114670,Marmaduke S,Constable,,18620304,GBR
 114671,Leo,Maxse,,18641211,GBR
-114672,Herbert Henley,Playford,,,GBR
+114672,Herbert Henley,Playford,,18570000,GBR
 114673,Richard Taswell,Richardson,,18520809,GBR
 114674,William Meaburn,Tatham,,18620730,GBR
 114675,Pelham George,Von Donop,,18510428,GBR
@@ -14671,18 +14670,18 @@ player_id,name_first,name_list,hand,birthdate,country
 114685,Wm,Bird,,,GBR
 114686,X,Castor,,,GBR
 114687,Robert Wallace Glen Lee,Braddell,,,GBR
-114688,William John,Down,,,GBR
+114688,William John,Down,,18600000,GBR
 114689,Thomas W,Gallwey,,,GBR
 114690,C,Cheales,,,GBR
 114691,James,Rankine,,,USA
-114692,Champion Branfill,Russell,,,GBR
+114692,Champion Branfill,Russell,,18600000,GBR
 114693,Hc,Jenkins,,,GBR
 114694,R,Pollock,,,GBR
 114695,Wh,Edwards,,,GBR
 114696,Jm,Thornycroft,,,GBR
 114697,Gs,Murray Hill,,,GBR
 114698,Es,Saxton,,,GBR
-114699,Minden,Fenwick,,,NZL
+114699,Minden,Fenwick,,18640000,NZL
 114700,Herbert Romaine,Hallward,,18601021,GBR
 114701,Norman Leslie,Hallward,,18590303,GBR
 114702,William Henry,Darby,,,GBR
@@ -14694,7 +14693,7 @@ player_id,name_first,name_list,hand,birthdate,country
 114708,Jh,Brand,,,GBR
 114709,Charles Henry,Evill,,18521229,GBR
 114710,Frederick Gordon,Templer,,18490612,GBR
-114711,Charles David,Heatley,,,GBR
+114711,Charles David,Heatley,,18460000,GBR
 114712,Rc,Christian,,,GBR
 114713,Dale,Womersley,,18600728,GBR
 114714,Francis William,Monement,,18580402,GBR
@@ -14707,7 +14706,7 @@ player_id,name_first,name_list,hand,birthdate,country
 114721,William Bolding,Monement,,18470330,GBR
 114722,F,Harold,,,GBR
 114723,Kenneth,Macalpine,,,GBR
-114724,Henry James,Daly,,,IRL
+114724,Henry James,Daly,,18590000,IRL
 114725,Frederick,Crowder,,18451008,GBR
 114726,Wl,Hacon,,,GBR
 114727,William Henry Darby,Desterre,,18550308,GBR
@@ -14716,7 +14715,7 @@ player_id,name_first,name_list,hand,birthdate,country
 114730,We,Hansell,,,GBR
 114731,Wf,Clerke,,,GBR
 114732,J,Devans,,,GBR
-114733,Nalton,Womersley,,,GBR
+114733,Nalton,Womersley,,185903,GBR
 114734,Alexander Kaye,Butterworth,,18541204,GBR
 114735,Arnold,Saul,,,USA
 114736,Clarence,Carter,,,USA
@@ -14739,7 +14738,7 @@ player_id,name_first,name_list,hand,birthdate,country
 114753,C Robin,Hippenstiel,,,USA
 114754,Clark R,Taylor,,,USA
 114755,Dick,Mouledous,,,USA
-114756,Chauncey Depew,Steele Jr,,,USA
+114756,Chauncey Depew,Steele Jr,,19150000,USA
 114757,Gil,Hall,,19020911,USA
 114758,Robert,Kerdasha,,,USA
 114759,Juan,Weiss,,,CUB
@@ -14751,7 +14750,7 @@ player_id,name_first,name_list,hand,birthdate,country
 114765,Gus,Ganzenmuller,,,USA
 114766,Wally,Bostick,,,USA
 114767,Tom,Molloy,,,USA
-114768,George E,Richards,,,USA
+114768,George E,Richards,,19210000,USA
 114769,Macdonald,Mathey,,,USA
 114770,Paul R,Massey,,,USA
 114771,Charles F,Masterson,,,USA
@@ -14809,7 +14808,7 @@ player_id,name_first,name_list,hand,birthdate,country
 114823,Edward,Ray,,,USA
 114824,Frank A,Froehling Sr,,,USA
 114825,David S,Johnsen,,,USA
-114826,Edwin G,Amark,,,USA
+114826,Edwin G,Amark,,19180000,USA
 114827,Souichi,Yamagishi,,,JPN
 114828,Ed,Alloo,,,USA
 114829,Billy,Mcgehee,,,USA
@@ -14826,7 +14825,7 @@ player_id,name_first,name_list,hand,birthdate,country
 114840,Joe,Fishbach,,,USA
 114841,George,Toley,,19160423,USA
 114842,James,Thackara,,,USA
-114843,Welby,Van Horn,,,USA
+114843,Welby,Van Horn,,19200000,USA
 114844,Charles,Oneill,,,USA
 114845,George A,Pryor,,,USA
 114846,Marvin,Kantrowitz,,,USA
@@ -14860,7 +14859,7 @@ player_id,name_first,name_list,hand,birthdate,country
 114874,Henry,Batjer,,,USA
 114875,Sewall,Cutler,,,USA
 114876,Raymond,Gladman,,,USA
-114877,Amado,Sanchez,,,PHI
+114877,Amado,Sanchez,,19180000,PHI
 114878,Charles H,Samson,,,USA
 114879,Robert,Kimbrell,,,USA
 114880,Jack,Rodgers,,,USA
@@ -15638,7 +15637,7 @@ player_id,name_first,name_list,hand,birthdate,country
 115652,Thomas C,Trask,,,USA
 115653,Es,Blair,,,USA
 115654,George A,Phelps,,,USA
-115655,Nat,Emerson,,,USA
+115655,Nat,Emerson,,187410,USA
 115656,Lydig,Hoyt,,,USA
 115657,Ws,Temis,,,USA
 115658,Rr,Livingston,,,USA
@@ -15669,7 +15668,7 @@ player_id,name_first,name_list,hand,birthdate,country
 115683,Russell,Sard,,,USA
 115684,Al,Hoskins,,,USA
 115685,Henry J,Holt,,,USA
-115686,Frank J,Sulloway,,,USA
+115686,Frank J,Sulloway,,18830000,USA
 115687,Philip B,Hawk,,,USA
 115688,Harold,Rowe,,,USA
 115689,Cyril,Hatch,,,USA
@@ -15757,7 +15756,7 @@ player_id,name_first,name_list,hand,birthdate,country
 115771,Goodwin,Hobbs,,,USA
 115772,C,Amory,,,USA
 115773,George C,Hinckley,,,USA
-115774,Carl,Gardner,,,USA
+115774,Carl,Gardner,,188502,USA
 115775,Ewing,Taylor,,,USA
 115776,Ct,Porter,,,USA
 115777,Sydney,Beals,,,USA
@@ -15771,7 +15770,7 @@ player_id,name_first,name_list,hand,birthdate,country
 115785,Gearse,Gardner Jr,,18870128,USA
 115786,William E,Keene,,,USA
 115787,Clarence C,Pell,,,USA
-115788,Frederick C,Colston,,,USA
+115788,Frederick C,Colston,,188401,USA
 115789,Andrew,Winsor,,,USA
 115790,Otto H,Heinck,,,USA
 115791,Sf,Bain,,,USA
@@ -15886,7 +15885,7 @@ player_id,name_first,name_list,hand,birthdate,country
 115900,Rt,Townsend,,,USA
 115901,Ah,Barnard,,,USA
 115902,Hb,Register,,,USA
-115903,Edwin P,Fischer,,,USA
+115903,Edwin P,Fischer,,18730000,USA
 115904,John C,Goodfellow,,,USA
 115905,Richard,Nevins,,,USA
 115906,Ac,Way,,,USA
@@ -15941,12 +15940,12 @@ player_id,name_first,name_list,hand,birthdate,country
 115955,Alfred E,Bell,,,USA
 115956,Harry F,Allen,,,USA
 115957,Gw,Beals,,,USA
-115958,Edward Bury,Dewhurst,,,AUS
+115958,Edward Bury,Dewhurst,,18700000,AUS
 115959,Hr,Sedgwick,,,USA
 115960,Sc,Whipple,,,USA
 115961,Tm,Phetteplace,,,USA
 115962,Frank R,Tucker,,,USA
-115963,James Ford Coleman,Huntington,,,USA
+115963,James Ford Coleman,Huntington,,186711,USA
 115964,Hh,Whitman,,,USA
 115965,Jimmy,Johnson,,,CAN
 115966,Hm,Warner,,,UNK
@@ -16064,7 +16063,7 @@ player_id,name_first,name_list,hand,birthdate,country
 116078,Ea,Freshman,,,USA
 116079,John T,Bailey,,,USA
 116080,Sl,Smith,,,USA
-116081,John A,Ryerson,,,USA
+116081,John A,Ryerson,,18620000,USA
 116082,Bf,Merrill,,,USA
 116083,Theodore,Horton,,,USA
 116084,Mb,Colket,,,USA
@@ -16480,7 +16479,7 @@ player_id,name_first,name_list,hand,birthdate,country
 116494,Fw,Hopkins,,,USA
 116495,Gordon,Boyd,,,USA
 116496,Jh,Bruns,,,USA
-116497,Calhoun,Cragin,,,USA
+116497,Calhoun,Cragin,,18720000,USA
 116498,Boris,Yonine,,,USA
 116499,Cc,Wistar,,,USA
 116500,Efa,Morgan,,,USA
@@ -16651,7 +16650,7 @@ player_id,name_first,name_list,hand,birthdate,country
 116665,Joseph Sill,Clark,,18611130,USA
 116666,Fw,Smith,,,USA
 116667,Hm,Billings Jr,,,USA
-116668,Charles A,Chase,,,USA
+116668,Charles A,Chase,,18640000,USA
 116669,Wk,Fowler,,,USA
 116670,Tp,Borden,,,USA
 116671,Daniel,Kimball,,,USA
@@ -16850,7 +16849,7 @@ player_id,name_first,name_list,hand,birthdate,country
 116864,John,Newman,,,USA
 116865,Bodo,Nitsche,,19380824,GER
 116866,Karim,Fawaz,,19420510,LIB
-116867,David,Asz,,,ISR
+116867,David,Asz,,19360000,ISR
 116868,Paul,Como,,,USA
 116869,Clive,Kileff,,19420228,RHO
 116870,Paul,Welles,,,USA
@@ -22313,7 +22312,7 @@ player_id,name_first,name_list,hand,birthdate,country
 122327,Rafael,Isakhanyan,U,19961219,RUS
 122328,Jorj,Karapetyan,R,19930907,RUS
 122329,Andrey,Goryachkov,U,19941221,RUS
-122330,Alexander,Bublik,R,19970617,RUS
+122330,Alexander,Bublik,R,19970617,KAZ
 122331,Evgeny,Tikhonov,U,19930912,RUS
 122332,Felipe,Rojas,R,19941126,COL
 122333,Sebastian,Sanchez,R,19940715,COL
@@ -24170,7 +24169,7 @@ player_id,name_first,name_list,hand,birthdate,country
 124184,Mike,Doering,R,19870311,GER
 124185,Johann,Willems,L,19950112,GER
 124186,Alexandre,Muller,U,19970201,FRA
-124187,Reilly,Opelka,U,19970828,USA
+124187,Reilly,Opelka,R,19970828,USA
 124188,Hao,Zhang,U,19950717,CHN
 124189,Adrian,Ortiz,U,19950609,MEX
 124190,Jose Rafael,Godoy,U,19730509,ARG
@@ -26593,7 +26592,7 @@ player_id,name_first,name_list,hand,birthdate,country
 126607,Alex,Hedman,U,19960223,FIN
 126608,Aaro,Pollanen,R,19980407,FIN
 126609,Patrik,Niklas Salminen,U,19970305,FIN
-126610,Matteo,Berrettini,U,19960412,ITA
+126610,Matteo,Berrettini,R,19960412,ITA
 126611,Manuel,Righi,U,19940101,ITA
 126612,Alexander,Cozbinov,R,19950428,MDA
 126613,Bogdan,Borza,L,19970405,ROU
@@ -44702,7 +44701,7 @@ player_id,name_first,name_list,hand,birthdate,country
 144716,Oleg,Prihodko,R,19971003,UKR
 144717,Andrew,Barabashov,U,19930202,UKR
 144718,Filip,Polic,R,19970209,CRO
-144719,Jaume,Munar,U,19970505,ESP
+144719,Jaume,Munar,R,19970505,ESP
 144720,Jonathan,Gomont,U,19980217,FRA
 144721,Denys,Gevel,U,19970831,UKR
 144722,Vladyslav,Kramarov,U,19970315,UKR
@@ -45254,7 +45253,7 @@ player_id,name_first,name_list,hand,birthdate,country
 200218,Mate,Valkusz,R,19980813,HUN
 200219,John,Mcnally,U,19981018,USA
 200220,Zeke,Clark,R,19980719,USA
-200221,Alejandro,Davidovich Fokina,U,19990605,ESP
+200221,Alejandro,Davidovich Fokina,R,19990605,ESP
 200222,Nicholas S,Hu,R,19940424,USA
 200223,Laurens,Verboven,U,19980418,BEL
 200224,Aj,Catanzariti,U,19950821,USA
@@ -45648,7 +45647,7 @@ player_id,name_first,name_list,hand,birthdate,country
 200612,Nikita,Potapov,U,19980514,RUS
 200613,Denis,Pisarchuk,U,19980210,RUS
 200614,Mislav,Bosnjak,U,19980604,AUS
-200615,Alexei,Popyrin,U,19990805,AUS
+200615,Alexei,Popyrin,R,19990805,AUS
 200616,Shinnosuke,Hiramatsu,U,19961011,JPN
 200617,Emmanuel,Luria,U,19980729,ISR
 200618,Adam,Hornby,,,BAR
@@ -51781,7 +51780,7 @@ player_id,name_first,name_list,hand,birthdate,country
 206745,Sergio,Capel Vicente,U,20010414,ESP
 206746,Benjamin,Winter Lopez,U,19980527,ESP
 206747,Alessandro,Peruzzi,R,19990924,ITA
-206748,Giulio,Zeppieri,U,20011207,ITA
+206748,Giulio,Zeppieri,L,20011207,ITA
 206749,Niccolo,Catini,U,19971209,ITA
 206750,Daniil,Glinka,U,20000512,EST
 206751,Alexander Georg,Mandma,U,20020101,EST
@@ -53970,7 +53969,7 @@ player_id,name_first,name_list,hand,birthdate,country
 208934,Llewelyn,Bevan,U,,GBR
 208935,Mihailo,Kecojevic,R,,SVK
 208936,Nkanku,Mukeba,U,,COD
-208937,Kasidit,Samrej,,20010126,THA
+208937,Kasidit,Samrej,U,20010126,THA
 208938,Gary,Johnson,U,,USA
 208939,Bob,Abbott,U,,USA
 208940,Leonzio,Collas,U,,USA
@@ -54066,3 +54065,341 @@ player_id,name_first,name_list,hand,birthdate,country
 209030,M,Cougani,U,,UNK
 209031,Joao,Lobo,U,19650301,BRA
 209032,Pablo,Martin Adalia,U,,BRA
+209033,Omar,Morsy,L,,EGY
+209034,Andrija,Jevtic,U,,SRB
+209035,Mikel,Martinez,R,,ESP
+209036,Klim,Kozyrev,U,,RUS
+209037,Oscar,Traviesa Mola,U,,ESP
+209038,Linang,Xiao,U,,CHN
+209039,Frank,Tayebwa,R,,UGA
+209040,Sergio Eduardo,Molina Capin,U,,MEX
+209041,Bozo,Barun,R,,CRO
+209042,Mykhailo,Nosenko,U,,USA
+209043,Yuta,Kikuchi,U,,JPN
+209044,Hayato,Kudo,U,,JPN
+209045,Nikit,Reddy,U,,USA
+209046,Atharva,Sharma,R,,IND
+209047,Gareth,Ong,U,,SGP
+209048,Eduardo,Roldan,U,,MEX
+209049,Edward,Birungi,R,,UGA
+209050,Taewoo,Koo,U,,KOR
+209051,Riccardo,Perin,R,,ITA
+209052,Denislav,Prodanov,U,,BUL
+209053,Edward,Lewis,U,,USA
+209054,Kyler,Jirasook,U,,USA
+209055,Mason,Caldwell,U,,GUM
+209056,Takahiro,Kubo,R,,JPN
+209057,Camden,Camacho,U,,GUM
+209058,Bohua,Dong,U,,CHN
+209059,Vuk,Budic,R,,USA
+209060,Alexander,Bernard,U,,USA
+209061,Shota,Tange,U,,JPN
+209062,Kamen,Damov,U,,CAN
+209063,Wanseok,Kang,U,,KOR
+209064,Suk Hyun,Choo,U,,KOR
+209065,Youcef,Rihane,R,,ALG
+209066,Jiaji,Wang,U,,CHN
+209067,Hunter,Heck,U,,USA
+209068,Cash,Hanzlik,U,,USA
+209069,Marcus,Mcdaniel,U,,USA
+209070,Arthur,Cazaux,R,,FRA
+209071,Junhyun,Lee,U,,KOR
+209072,Jaewoo,Kim,U,,KOR
+209073,Maximiliano,Roman Mayorga,U,,ESP
+209074,Chenyu,Fang,U,,CHN
+209075,Daniil,Savelev,U,,RUS
+209076,Ethan Denzel,Sibanda,U,,ZIM
+209077,Andrew,Kunaka,R,,ZIM
+209078,Henrique,Fukushima,U,,BRA
+209079,Samir,Banerjee,U,,USA
+209080,Blaise,Bicknell,U,,USA
+209081,Alfredo,Casso,R,,MEX
+209082,Sung,Ha Yeon,U,,KOR
+209083,Donghwi,Shin,U,,KOR
+209084,Theo,Vandeweghe,R,,BEL
+209085,Marcio Eduardo,Silva,U,,BRA
+209086,Eduardo,Taiguara,R,,BRA
+209087,Leighton,Allen,U,,USA
+209088,Quinn,Vandecasteele,U,,USA
+209089,Robby,Shymansky,U,,USA
+209090,Tommaso,Carnevale Miino,R,,ITA
+209091,Bradley,Frye,U,,USA
+209092,Nicola,Cigna,U,,ITA
+209093,Juliusz,Bienkiewicz,U,,POL
+209094,Jing Long,Weng,R,,NED
+209095,Francisco,Rocha,U,,POR
+209096,Goran,Zivotic,U,,SRB
+209097,Mihailo,Popovic,U,,SRB
+209098,Hamad,Medjedovic,U,,SRB
+209099,Kristijan,Juhas,U,,SRB
+209100,Julian,Schubert,U,,AUT
+209101,Shokhrukh,Gayratov,U,,KAZ
+209102,Aizezi,Yusupuaili,R,,CHN
+209103,Haoyuan,Huang,U,,CHN
+209104,Benjamin Denis,Alarcon,U,,ARG
+209105,Lucas,Luini,L,,ARG
+209106,Martin,Estevarena,U,,ARG
+209107,Mateo,Vereau Melendez,U,,PER
+209108,Gianluca,Ballotta,U,,PER
+209109,Nicolas Agustin,Lema,R,,ARG
+209110,Agustin Maria,Gascia,U,,ARG
+209111,Andre,Baltazar,R,,PER
+209112,Rodrigo Nicolas,Montes De Oca Murillo,U,,PER
+209113,Gabriel,Diallo,U,20010924,CAN
+209114,Han Chih,Lin,U,,TPE
+209115,Oliver,Okonkwo,U,,GBR
+209116,Gerard,Planelles Ripoll,U,,ESP
+209117,Marco,Furlanetto,U,,ITA
+209118,Niklas,Waldner,U,,AUT
+209119,Aissa,Benchakroun,U,,MAR
+209120,Yassine,Dlimi,U,,MAR
+209121,Sebastian,Pjontek,R,,SVK
+209122,Uladzislau,Zhuk,U,,BLR
+209123,Erick,Sanchez,U,,MEX
+209124,Blu,Baker,R,,GBR
+209125,Gaston,Erhardt,U,,ARG
+209126,Takeshi,Taco,U,,PER
+209127,Credit,Chaiyarin,R,,THA
+209128,Diego Augusto,Barreto Sanchez,U,,ESP
+209129,Benedict,Kurz,U,,GER
+209130,Benedikt,Emesz,R,,AUT
+209131,Eliakim,Coulibaly,L,,CIV
+209132,Deji,Thomas Smith,U,,GBR
+209133,David,Chelidze,U,,GEO
+209134,Francisco,Erramuspe,U,,URU
+209135,Justin,Bloss,U,,USA
+209136,Langford,Hills,R,,USA
+209137,Noppadol,Noikor,U,,THA
+209138,Tuur,Heuvinck,U,,BEL
+209139,Stefan,Spasojevic,R,,SRB
+209140,Millen,Hurrion,U,,GBR
+209141,Zakai,Stone,R,,USA
+209142,Sebastian,Gima,U,,ROU
+209143,Matthew,Mendez,U,,USA
+209144,Hayato,Kudo,U,19980919,JPN
+209145,Pablo,Riva,U,20020729,ESP
+209146,Mateo,Vereau,U,20010104,PER
+209147,Vilius,Gaubas,U,20041229,LTU
+209148,Aleksandar,Temov,U,20021210,BUL
+209149,Riccardo,Perin,U,20000116,ITA
+209150,Nicola,Cigna,U,20010327,ITA
+209151,Alessio,Delfino,U,19960623,ITA
+209152,Daniel,Khin,U,,HUN
+209153,Laurent,Baese,U,20020218,GER
+209154,Connor,Bruce,U,20010927,USA
+209155,Hayato,Kawashima,U,19990106,JPN
+209156,Marcus,Mcdaniel,U,20020513,USA
+209157,Muhammad Syabil,Md Shaharudin,U,20010719,MAS
+209158,Nikolay,Nedelchev,U,20030705,BUL
+209159,Tim,Soderman,U,,SWE
+209160,Kevin,Suvi,U,20010403,EST
+209161,Milledge,Cossu,U,,USA
+209162,Diego,Bustamante,U,19990110,MEX
+209163,Emile,Hudd,R,,GBR
+209164,Lorenzo,Rottoli,U,,ITA
+209165,Pietro Orlando,Fellin,R,,ITA
+209166,Calvin,Mueller,U,,GER
+209167,Olle,Wallin,U,,SWE
+209168,Stefan,Kabasaj,R,,SRB
+209169,Sandro,Szic,R,,POL
+209170,Eduardo,Nunez Del Prado Flores,U,,BOL
+209171,Thantub,Suksumrarn,R,,THA
+209172,Diego,Mogrovejo,U,,ECU
+209173,Ricardo,Alban,U,,ECU
+209174,Ethan,Leon,U,,USA
+209175,Giuliano Franco,Zambrano Poggi,U,,ECU
+209176,Angel,Diaz Jalil,R,,ECU
+209177,Tommaso,Vescovi,U,19990507,ITA
+209178,Gaspar,Zimbrek Turkovic,U,20001014,CRO
+209179,Stewart,Block,U,,CAN
+209180,Alexander,Zederbauer,U,20011021,ECU
+209181,Tim,Heinonen,U,19990913,SWE
+209182,Toby Alex,Kodat,R,,USA
+209183,Luigi,Castelletti,U,,ITA
+209184,Tristan,Reiff,U,,GER
+209185,Alessandro,Pecci,U,,ITA
+209186,Filip,Stipic,U,,SRB
+209187,Bill,Duo,U,,USA
+209188,Ari,Fahresi,U,,INA
+209189,Andres,Chavez,U,,BOL
+209190,Mykhaylo,Muravyov,U,,UKR
+209191,Oleksandr,Ovcharenko,U,,UKR
+209192,Nikolay,Sysoev,U,,RUS
+209193,Da Niel,Kotze,U,,RSA
+209194,David,Stevenson,U,19990101,GBR
+209195,Marshall,Sullivan,U,19960224,USA
+209196,Maximilian,Sprenger,U,20010919,GER
+209197,Bartlomiej,Kowalski,U,,POL
+209198,Gian Luca,Tanner,U,,SUI
+209199,Ilias,Zimmermann,U,,SUI
+209200,Joel,Kuster,U,,SUI
+209201,Juan,Sengariz Carral,U,,ESP
+209202,Maurus,Malgiaritta,U,,SUI
+209203,Evgeny,Philippov,R,,RUS
+209204,Iiro,Vasa,U,,FIN
+209205,Oskar,Antinheimo,U,,FIN
+209206,Antonio,Caruso,U,,ITA
+209207,Janos,Fekete,U,,SVK
+209208,Kristof,Minarik,U,,SVK
+209209,Filip,Misolic,U,,AUT
+209210,Ioannis,Stamoulos,R,,GRE
+209211,Jan,Wajdemajer,U,,POL
+209212,Marcel,Politowicz,U,,POL
+209213,Kacper,Gorecki,U,,POL
+209214,Kabir,Gupta,R,,IND
+209215,Nicolas,Demeroutis,U,,BEL
+209216,Olivier,Rojas,U,,BEL
+209217,Oleksandr,Kokkin,R,,UKR
+209218,Demian,Hulyanich,U,,UKR
+209219,Timur,Mukhtarulin,R,,UKR
+209220,Nathan,Han,U,,USA
+209221,Jiaxi,Ma,U,,CHN
+209222,Lucas,Obeid,U,,BRA
+209223,Aliaksandr,Sasnouski,U,,BLR
+209224,Lucas,Britez Risso,U,,PAR
+209225,Martin Antonio,Vergara Del Puerto,U,,PAR
+209226,Adolfo Daniel,Vallejo,U,,PAR
+209227,Aaron,Cohen,U,20020821,ISR
+209228,Tsimafei,Basalyha,U,20001102,BLR
+209229,Rail,Ibragimov,U,20011111,RUS
+209230,Otto,Leikola,U,20030717,FIN
+209231,Aleksandr,Myagkov,U,20020509,RUS
+209232,Quin,Verstegen,U,20001228,NED
+209233,Pietro,Marino,R,,ITA
+209234,Axel,Garcian,U,,FRA
+209235,Diego,Menendez Vina,U,,ESP
+209236,Gabor,Serak,U,,HUN
+209237,Balint,Balogh,U,,HUN
+209238,Sebastian,Dominguez,,20020622,GUA
+209239,Daniil,Nabatchikov,U,,RUS
+209240,Gunjan,Jadhav,U,,IND
+209241,Leonardo,Catani,U,,ITA
+209242,Ilarion,Danilchenko,U,,RUS
+209243,Mark,Peneff,R,,USA
+209244,Valentin,Ivanov,U,,BUL
+209245,Giulio,Graziotti,U,,ITA
+209246,Alan,Magadan,U,,MEX
+209247,Axel,Garcian,U,20020607,FRA
+209248,Amr,Asrawy,U,,EGY
+209249,Lilian,Breut,U,,FRA
+209250,Melvin,Manuel,U,,FRA
+209251,Stefan,Popovic,U,,SRB
+209252,Mihailo,Radosavljevic,U,,SRB
+209253,Andrea,Fiorentini,U,,ITA
+209254,Valerio,Aboian,U,,ARG
+209255,Vladan,Tadic,U,20010111,BIH
+209256,Gabriela,Felline,U,,ITA
+209257,Aly,Elhamshary,U,19980324,EGY
+209258,Alexandre,Reco,U,,FRA
+209259,Arthur,Fery,R,,GBR
+209260,Luciano,Darderi,U,,ITA
+209261,Matteo,Gigante,U,,ITA
+209262,Tristan,Schoolkate,R,,AUS
+209263,Matteo,Gigante,U,20020104,ITA
+209264,Pietro,Fellin,U,,ITA
+209265,Nathan,Chavez,U,19950602,USA
+209266,Adarsh Naga,Tippabhatla,U,20020122,USA
+209267,Vesa,Ahti,U,19990531,FIN
+209268,Ville,Perkkola,U,19980909,FIN
+209269,Ethan,Silva,U,,USA
+209270,Kevin,Chahoud,R,,SWE
+209271,Eric Jr,Olivarez,R,,PHI
+209272,Federico,Luzzo,U,,ITA
+209273,Romain,Gales,U,,FRA
+209274,Carl Emil,Overbeck,U,,DEN
+209275,Antonio,Mazzeo,U,,ITA
+209276,Ignacio,Vinas,U,,ARG
+209277,Gleb,Baklanov,U,,UKR
+209278,Alec,Beckley,U,,RSA
+209279,Terence,Atmane,L,,FRA
+209280,Devin,Badenhorst,U,,RSA
+209281,Dylan,Salton,U,,RSA
+209282,Ian Luca,Cervantes Tomas,U,,ESP
+209283,Mans,Dahlberg,R,,SWE
+209284,Elmer,Moller,R,,DEN
+209285,Ying,Hou,U,,GBR
+209286,Togan,Makzume,U,,TUR
+209287,Ricardo,Brancal,U,,POR
+209288,Chrisjan,Van Wyk,R,,RSA
+209289,Jonathan Zuriel,Gonzalez Gonzalez,R,,MEX
+209290,Carlos Alonso,Gallardo Olivares,U,,CHI
+209291,Ivan Rodrigo,Gonzalez Huerta,U,,CHI
+209292,Caio,Gruber,U,,BRA
+209293,Maksym,Khalus,R,,UKR
+209294,Diego,Duran,U,,ESA
+209295,Donald,Hall,U,,USA
+209296,Alejandro,Licea,R,,ESA
+209297,Tennyson,Whiting,R,,USA
+209298,Jason,Janis,L,,GER
+209299,Sebastian,Defilippis,U,,CHI
+209300,Noam,Okala,U,,FRA
+209301,Kaan,Cepel,R,,TUR
+209302,Peter,Fajta,U,,HUN
+209303,Ben,Goldberg,U,,USA
+209304,Henry,Barrett,L,,USA
+209305,Yu Lun,Xie,U,20000206,CHN
+209306,Iacopo,Sada,U,,ITA
+209307,Hans Peter,Kaufmann,U,,AUT
+209308,Abayomi Oluseyi,Philips,U,,NGR
+209309,Tushar,Madan,R,,IND
+209310,Christian,Saidi Otupio,U,,COD
+209311,Godgift,Timibra,U,,NGR
+209312,Wilson Oswalele,Igbinovia,R,,NGR
+209313,Taylor,Foote,U,,USA
+209314,Jan,Kupcic,U,,SLO
+209315,Simeon,Terziev,L,,BUL
+209316,Anthony,Genov,U,,BUL
+209317,Vasil,Dimitrov,U,,BUL
+209318,Petr,Nesterov,R,,BUL
+209319,Matheo,Fabre,U,,FRA
+209320,Lucas,Amorim De Lima,U,,BRA
+209321,Lars,Johann,R,,GER
+209322,Martin,Krumich,U,,CZE
+209323,Jonas,Maier,U,,GER
+209324,Veselin,Kiselkov,U,20020519,BUL
+209325,Tauheed,Browning,U,,USA
+209326,Murphy,Cassone,R,,USA
+209327,Rashed,Nawaf,R,,QAT
+209328,Martin,Maldonado,U,,ECU
+209329,Marco,Mania,U,,ITA
+209330,Bautista,Vilicich,U,,ARG
+209331,Jarmo,Perez Wienese,U,,ESP
+209332,Gonzalo Ariel,Karakachian,U,20001203,ARG
+209333,Mariano,Silberstein,U,20000430,ARG
+209334,Micah,Braswell,U,,USA
+209335,Matthis,Ross,R,,GBR
+209336,Leonardo,Lopez Linquet,U,,ARG
+209337,Luca,Castagnola,U,,ITA
+209338,Daniel,Siniakov,U,,CZE
+209339,Oskar,Irdoja,U,,EST
+209340,Pablo,Alemany,U,,ESP
+209341,Matthew,Mosejczuk,R,,USA
+209342,Miguel,Perez Pena,U,,ESP
+209343,Gabriele,Felline,U,,ITA
+209344,Wally,Thayne,U,20001229,USA
+209345,Nacho,Morant Martin,U,20021011,ESP
+209346,Stijn,Pel,R,,NED
+209347,Bruno,Nhavene,R,,MOZ
+209348,Stylianos,Poutis,U,,GRE
+209349,Juan Martin,Fumeaux,U,20020313,URU
+209350,Emiliano,Troche,U,20010407,URU
+209351,Pablo,Jimenez Martinez,U,20000823,ESP
+209352,Stefan,Loncar,U,,NED
+209353,Stefan,Loncar,U,,TUR
+209354,Ioannis,Xilas,U,,GRE
+209355,Timo,Legout,R,,FRA
+209356,Ricardo,Reyna,U,,MEX
+209357,Manuel,Sos Tirado,U,20000608,ESP
+209358,Evin,Mcdonald,U,,USA
+209359,John,Carlin,U,,USA
+209360,Samir,Hamza Reguig,U,,ALG
+209361,Yashdeep Singh,Duggal,R,,IND
+209362,Aristotelis,Thanos,U,,GRE
+209363,Cruz,Thayne,U,19980717,USA
+209364,Peerapat,Dedthonglang,U,,THA
+209365,Christos,Avraam,L,,CYP
+209366,Joe,Herin,R,,FRA
+209367,Geronimo,Marcolini,U,,ARG
+209368,Juan Martin,Fumeaux Buenaventura,U,,URU
+209369,Vadim,Kontseba,U,20000331,UKR
+209370,Eshan,Talluri,U,20001111,USA
