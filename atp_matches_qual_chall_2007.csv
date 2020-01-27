@@ -261,7 +261,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-1683,Sarajevo CH,Hard,32,C,20070312,25,103902,,,Jan Mertl,R,190,CZE,25.1663244353,103580,1,,Alexander Peya,R,183,AUT,26.6858316222,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,198,203,96,445
 2007-1683,Sarajevo CH,Hard,32,C,20070312,26,103582,3,,Michael Berrer,L,193,GER,26.674880219,102202,7,,Kenneth Carlsen,L,190,DEN,33.8809034908,7-5 6-4,3,QF,,,,,,,,,,,,,,,,,,,,124,352,172,234
 2007-1683,Sarajevo CH,Hard,32,C,20070312,27,104192,,,Marco Crugnola,R,188,ITA,23.780971937,105227,,,Marin Cilic,R,198,CRO,18.431211499,7-5 3-6 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,279,138,180,226
-2007-1683,Sarajevo CH,Hard,32,C,20070312,28,105208,2,,Ernests Gulbis,R,190,LAT,18.5106091718,104056,6,,Roko Karanusic,R,183,CRO,24.4955509925,1-6(4) 6-7(3) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,97,442,156,280
+2007-1683,Sarajevo CH,Hard,32,C,20070312,28,105208,2,,Ernests Gulbis,R,190,LAT,18.5106091718,104056,6,,Roko Karanusic,R,183,CRO,24.4955509925,7-6(4) 6-7(3) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,97,442,156,280
 2007-1683,Sarajevo CH,Hard,32,C,20070312,29,103902,,,Jan Mertl,R,190,CZE,25.1663244353,103582,3,,Michael Berrer,L,193,GER,26.674880219,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,198,203,124,352
 2007-1683,Sarajevo CH,Hard,32,C,20070312,30,105208,2,,Ernests Gulbis,R,190,LAT,18.5106091718,104192,,,Marco Crugnola,R,188,ITA,23.780971937,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,97,442,279,138
 2007-1683,Sarajevo CH,Hard,32,C,20070312,31,105208,2,,Ernests Gulbis,R,190,LAT,18.5106091718,103902,,,Jan Mertl,R,190,CZE,25.1663244353,4-6 6-4 7-6(2),3,F,,,,,,,,,,,,,,,,,,,,97,442,198,203
@@ -2676,7 +2676,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-3535,Rimouski CH,Carpet,32,C,20071022,18,104635,3,,Robert Smeets,L,188,AUS,21.9466119097,104812,,,Scoville Jenkins,R,188,USA,21.0787132101,6-4 7-6(8),3,R16,,,,,,,,,,,,,,,,,,,,173,251,289,126
 2007-3535,Rimouski CH,Carpet,32,C,20071022,19,104978,8,,Daniel Brands,R,196,GER,20.2655715264,109396,,,Michel Alexandre Rioux,U,,CAN,18.5352498289,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,221,180,,
 2007-3535,Rimouski CH,Carpet,32,C,20071022,20,102780,5,,Frederic Niemeyer,R,190,CAN,31.4934976044,102821,,,Cecil Mamiit,R,173,PHI,31.318275154,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,188,225,757,18
-2007-3535,Rimouski CH,Carpet,32,C,20071022,21,105028,,,Jesse Levine,L,175,CAN,20.0191649555,104897,4,,Matthias Bachinger,R,188,GER,20.5557837098,7-6(3) 7-3,3,R16,,,,,,,,,,,,,,,,,,,,429,69,208,196
+2007-3535,Rimouski CH,Carpet,32,C,20071022,21,105028,,,Jesse Levine,L,175,CAN,20.0191649555,104897,4,,Matthias Bachinger,R,188,GER,20.5557837098,7-6(3) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,429,69,208,196
 2007-3535,Rimouski CH,Carpet,32,C,20071022,22,104592,7,,Ilija Bozoljac,R,193,SRB,22.2203969884,103969,,,Roman Borvanov,R,,MDA,25.5605749487,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,201,205,452,64
 2007-3535,Rimouski CH,Carpet,32,C,20071022,23,104545,2,,John Isner,R,206,USA,22.4887063655,104793,,,Nikita Kryvonos,R,,USA,21.1389459274,6-4 3-6 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,132,328,411,75
 2007-3535,Rimouski CH,Carpet,32,C,20071022,24,104717,,,Brendan Evans,R,188,USA,21.5386721424,103530,1,,Zack Fleishman,R,188,USA,27.5975359343,6-7(6) 7-6(7) 7-6(6),3,QF,,,,,,,,,,,,,,,,,,,,269,139,134,325
@@ -3331,7 +3331,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-3633,Belo Horizonte CH,Clay,32,C,20071022,26,103534,7,,Nicolas Devilder,L,173,FRA,27.575633128,103201,,,Adrian Garcia,R,175,CHI,29.4099931554,4-6 7-6(5) 7-5,3,QF,,,,,,,,,,,,,,,,,,,,124,341,191,222
 2007-3633,Belo Horizonte CH,Clay,32,C,20071022,27,103264,,WC,Mariano Puerta,L,180,ARG,29.0896646133,103228,,,Marcos Daniel,R,180,BRA,29.3004791239,7-6(4) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,336,100,166,260
 2007-3633,Belo Horizonte CH,Clay,32,C,20071022,28,104719,,,Marcel Granollers,R,190,ESP,21.5277207392,104919,,,Leonardo Mayer,R,188,ARG,20.4380561259,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,186,228,199,212
-2007-3633,Belo Horizonte CH,Clay,32,C,20071022,29,103534,7,,Nicolas Devilder,L,173,FRA,27.575633128,104593,,Q,Daniel Gimeno Traver,R,185,ESP,22.2067077344,7-6(3) 7-2,3,SF,,,,,,,,,,,,,,,,,,,,124,341,222,178
+2007-3633,Belo Horizonte CH,Clay,32,C,20071022,29,103534,7,,Nicolas Devilder,L,173,FRA,27.575633128,104593,,Q,Daniel Gimeno Traver,R,185,ESP,22.2067077344,7-6(3) 6-2,3,SF,,,,,,,,,,,,,,,,,,,,124,341,222,178
 2007-3633,Belo Horizonte CH,Clay,32,C,20071022,30,104719,,,Marcel Granollers,R,190,ESP,21.5277207392,103264,,WC,Mariano Puerta,L,180,ARG,29.0896646133,7-5 6-1,3,SF,,,,,,,,,,,,,,,,,,,,186,228,336,100
 2007-3633,Belo Horizonte CH,Clay,32,C,20071022,31,103534,7,,Nicolas Devilder,L,173,FRA,27.575633128,104719,,,Marcel Granollers,R,190,ESP,21.5277207392,6-2 6-7(4) 7-6(6),3,F,,,,,,,,,,,,,,,,,,,,124,341,186,228
 2007-3634,Barnstaple CH,Hard,32,C,20071022,1,103709,1,,Kristian Pless,R,188,DEN,26.6967830253,102788,,,Jan Vacek,R,198,CZE,31.4496919918,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,99,430,233,166
@@ -7050,7 +7050,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-891,Chennai,Hard,32,A,20070101,722,103580,6,,Alexander Peya,R,183,AUT,26.5133470226,102904,,,Leos Friedl,R,183,CZE,29.9986310746,6-4 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,138,331,541,46
 2007-891,Chennai,Hard,32,A,20070101,723,104620,4,,Simone Bolelli,R,183,ITA,21.2320328542,104105,,,Pavel Ivanov,R,193,RUS,24.0,6-1 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,127,360,416,75
 2007-891,Chennai,Hard,32,A,20070101,724,103582,7,,Michael Berrer,L,193,GER,26.5023956194,103538,,,James Auckland,R,,GBR,26.7515400411,6-4 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,152,290,390,85
-2007-891,Chennai,Hard,32,A,20070101,725,105053,,,Santiago Giraldo,R,188,COL,19.0965092402,103248,,,Harel Levy,R,185,ISR,28.4079397673,4-6(4) 6-4 7-6,3,Q3,,,,,,,,,,,,,,,,,,,,175,230,286,134
+2007-891,Chennai,Hard,32,A,20070101,725,105053,,,Santiago Giraldo,R,188,COL,19.0965092402,103248,,,Harel Levy,R,185,ISR,28.4079397673,4-6 6-4 7-6(4),3,Q3,,,,,,,,,,,,,,,,,,,,175,230,286,134
 2007-891,Chennai,Hard,32,A,20070101,726,103077,2,,Konstantinos Economidis,R,188,GRE,29.1635865845,105227,8,,Marin Cilic,R,198,CRO,18.2587268994,6-1 7-6(5),3,Q3,,,,,,,,,,,,,,,,,,,,120,375,170,240
 2007-891,Chennai,Hard,32,A,20070101,727,102881,,,David Skoch,R,183,CZE,30.1519507187,103580,6,,Alexander Peya,R,183,AUT,26.5133470226,4-6 6-4 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,730,22,138,331
 2007-891,Chennai,Hard,32,A,20070101,728,104620,4,,Simone Bolelli,R,183,ITA,21.2320328542,103582,7,,Michael Berrer,L,193,GER,26.5023956194,7-6(6) 5-7 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,127,360,152,290
