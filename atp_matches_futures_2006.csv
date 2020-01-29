@@ -1239,7 +1239,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-SA-IND-01A-2006a,India 1 1,Hard,32,S,20060220,6,104591,,Q,Patrick Tierro,U,,PHI,20.5557837098,104986,,,Vishnu Vardhan,R,188,IND,18.5708418891,3-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1172,4,968,8
 2006-M-SA-IND-01A-2006a,India 1 1,Hard,32,S,20060220,7,103612,,,Alexey Kedryuk,R,193,KAZ,25.5359342916,104065,,Q,Ashutosh Singh,R,,IND,23.4058863792,4-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,388,76,830,14
 2006-M-SA-IND-01A-2006a,India 1 1,Hard,32,S,20060220,8,103636,5,,Federico Torresi,R,,ITA,25.3990417522,104493,,Q,Adam Fass,R,,USA,21.0704996578,7-6(1) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,647,28,700,23
-2006-M-SA-IND-01A-2006a,India 1 1,Hard,32,S,20060220,9,104478,6,,Hyun Woo Nam,R,,KOR,21.1143052704,109497,,WC,Daniel Bustamante,U,,BRA,,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1017,7,,
+2006-M-SA-IND-01A-2006a,India 1 1,Hard,32,S,20060220,9,104478,6,,Hyun Woo Nam,R,,KOR,21.1143052704,109497,,WC,Kaushik Raju,U,,IND,18.1136208077,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1017,7,,
 2006-M-SA-IND-01A-2006a,India 1 1,Hard,32,S,20060220,10,103619,,WC,Mustafa Ghouse,R,185,IND,25.5058179329,104817,,,Tushar Liberhan,R,,IND,19.370294319,6-3 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1490,1,1002,7
 2006-M-SA-IND-01A-2006a,India 1 1,Hard,32,S,20060220,11,103321,,,Vinod Sridhar,L,,IND,27.0417522245,104646,,WC,Purav Raja,R,,IND,20.205338809,2-6 7-6(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,595,33,1104,5
 2006-M-SA-IND-01A-2006a,India 1 1,Hard,32,S,20060220,12,104684,,,Navdeep Singh,R,,IND,19.9972621492,103723,4,,Julien Maes,R,,FRA,24.977412731,6-3 6-7(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1048,6,590,34
@@ -1538,7 +1538,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-CHN-03A-2006,China F3,Hard,32,S,20060227,3,105217,,,Thiemo De Bakker,R,193,NED,17.440109514,105927,,WC,Bei Liu,R,,CHN,14.0342231348,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1056,6,,
 2006-M-FU-CHN-03A-2006,China F3,Hard,32,S,20060227,4,103865,5,,Prima Simpatiaji,R,,INA,24.3668720055,110629,,Q,Ye Dunbar,U,,CHN,17.9575633128,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,633,28,,
 2006-M-FU-CHN-03A-2006,China F3,Hard,32,S,20060227,5,102300,3,,Gouichi Motomura,R,173,JPN,32.1752224504,104982,,Q,Huai En Chang,R,,TPE,18.6009582478,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,418,65,1492,1
-2006-M-FU-CHN-03A-2006,China F3,Hard,32,S,20060227,6,104644,,,Riccardo Ghedin,R,188,ITA,20.2299794661,109473,,,Alex Stone,U,,USA,,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,777,17,1078,6
+2006-M-FU-CHN-03A-2006,China F3,Hard,32,S,20060227,6,104644,,,Riccardo Ghedin,R,188,ITA,20.2299794661,109473,,,Kostyantyn Dmytrenko,U,,UKR,28.1013004791,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,777,17,1078,6
 2006-M-FU-CHN-03A-2006,China F3,Hard,32,S,20060227,7,105148,,,Hsin Han Lee,R,,TPE,17.7768651608,120035,,Q,Xu Yin,R,,CHN,19.523613963,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,974,8,,
 2006-M-FU-CHN-03A-2006,China F3,Hard,32,S,20060227,8,105014,,,Antal Van Der Duim,R,,NED,18.4503764545,103337,8,,Ben Qiang Zhu,R,,CHN,26.9623545517,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,862,13,736,19
 2006-M-FU-CHN-03A-2006,China F3,Hard,32,S,20060227,9,102691,7,,Vince Mellino,R,,AUS,30.2587268994,104989,,Q,Peng Gao,U,,CHN,18.5735797399,3-6 6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,816,15,1492,1
@@ -3121,7 +3121,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-ITA-06A-2006,Italy F6,Clay,32,S,20060320,29,102381,1,,Werner Eschauer,R,188,AUT,31.8986995209,104557,,,Andis Juska,R,,LAT,20.8268309377,6-2 4-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,258,128,511,46
 2006-M-FU-ITA-06A-2006,Italy F6,Clay,32,S,20060320,30,104665,8,,Pablo Andujar,R,180,ESP,20.1533196441,104485,,,Nick Van Der Meer,U,,NED,21.1663244353,7-5 6-1,3,SF,,,,,,,,,,,,,,,,,,,,384,79,487,50
 2006-M-FU-ITA-06A-2006,Italy F6,Clay,32,S,20060320,31,102381,1,,Werner Eschauer,R,188,AUT,31.8986995209,104665,8,,Pablo Andujar,R,180,ESP,20.1533196441,6-3 6-3,3,F,,,,,,,,,,,,,,,,,,,,258,128,384,79
-2006-M-FU-KOR-02A-2006,Korea Rep F2,Hard,32,S,20060320,1,102603,1,,Melvyn Op Der Heijde,R,180,NED,30.7734428474,109467,,Q,Jagdish Tanwar,U,,IND,31.8001368925,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,339,93,,
+2006-M-FU-KOR-02A-2006,Korea Rep F2,Hard,32,S,20060320,1,102603,1,,Melvyn Op Der Heijde,R,180,NED,30.7734428474,109467,,Q,Woo Ram Kim,U,,KOR,20.6160164271,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,339,93,,
 2006-M-FU-KOR-02A-2006,Korea Rep F2,Hard,32,S,20060320,2,103230,,,Tasuku Iwami,L,168,JPN,27.6960985626,104374,,Q,Hyung Tae Kwon,U,,KOR,21.8151950719,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,524,44,943,10
 2006-M-FU-KOR-02A-2006,Korea Rep F2,Hard,32,S,20060320,3,104612,,Q,Daniel Yoo,L,,KOR,20.4818617385,119733,,Q,Dong Jun Han,U,,KOR,22.7077344285,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,800,17,,
 2006-M-FU-KOR-02A-2006,Korea Rep F2,Hard,32,S,20060320,4,104928,,WC,Sun Yong Kim Jr,R,,KOR,18.81724846,104105,8,,Pavel Ivanov,R,193,RUS,23.2142368241,6-0 4-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,811,16,431,64
@@ -3564,7 +3564,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-USA-08A-2006,USA F8,Hard,32,S,20060327,7,105020,,LL,Denis Zivkovic,R,,USA,18.4887063655,119283,,Q,Bart Scott,R,,USA,25.1416837782,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1401,2,,
 2006-M-FU-USA-08A-2006,USA F8,Hard,32,S,20060327,8,103718,,Q,David Martin,L,185,USA,25.0896646133,109032,,LL,Kris Nathan,R,180,USA,24.205338809,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,519,45,1504,1
 2006-M-FU-USA-08A-2006,USA F8,Hard,32,S,20060327,9,104138,5,,Henry Adjei Darko,U,,GHA,23.0746064339,111716,,WC,Jack Baker,R,,GBR,20.205338809,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,283,114,1504,1
-2006-M-FU-USA-08A-2006,USA F8,Hard,32,S,20060327,10,103952,,LL,Troy Hahn,R,,USA,24.0492813142,109450,,WC,Arumun Surma,R,,NGR,,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,724,21,1298,3
+2006-M-FU-USA-08A-2006,USA F8,Hard,32,S,20060327,10,103952,,LL,Troy Hahn,R,,USA,24.0492813142,109450,,WC,Michael Birzon,U,,USA,23.2388774812,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,724,21,1298,3
 2006-M-FU-USA-08A-2006,USA F8,Hard,32,S,20060327,11,104555,,LL,Dylan Seong Kwan Kim,R,,KOR,20.8706365503,109186,,LL,Benjamin Lankenau,U,,USA,17.2950034223,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1206,4,1401,2
 2006-M-FU-USA-08A-2006,USA F8,Hard,32,S,20060327,12,103468,3,,Harsh Mankad,R,173,IND,26.3764544832,103930,,Q,Alberto Francis,R,196,USA,24.1341546886,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,271,121,672,25
 2006-M-FU-USA-08A-2006,USA F8,Hard,32,S,20060327,13,104864,,WC,Alex Kuznetsov,R,183,USA,19.1375770021,103822,7,,Scott Lipsky,R,185,USA,24.6160164271,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,566,38,315,101
@@ -3599,7 +3599,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-FRA-06A-2006,France F6,Clay,32,S,20060403,11,103324,,WC,Arnaud Di Pasquale,R,185,FRA,27.1403148528,103801,,Q,Marc Steger,L,,FRA,24.7474332649,7-6(0) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,544,42,1128,5
 2006-M-FU-FRA-06A-2006,France F6,Clay,32,S,20060403,12,104495,4,,Florin Mergea,R,180,ROU,21.18275154,103568,,,Valentin Sanon,R,,CIV,25.8699520876,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,250,138,493,51
 2006-M-FU-FRA-06A-2006,France F6,Clay,32,S,20060403,13,104291,6,,Malek Jaziri,R,185,TUN,22.2012320329,104721,,,Josselin Ouanna,R,193,FRA,19.9698836413,6-4 2-6 7-6(9),3,R32,,,,,,,,,,,,,,,,,,,,317,101,472,54
-2006-M-FU-FRA-06A-2006,France F6,Clay,32,S,20060403,14,104672,,Q,Vincent Millot,L,173,FRA,20.1724845996,109477,,Q,Ruslan Miroshnichenko,U,,UKR,,6-2 5-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,882,13,,
+2006-M-FU-FRA-06A-2006,France F6,Clay,32,S,20060403,14,104672,,Q,Vincent Millot,L,173,FRA,20.1724845996,109477,,Q,Vincent Sapene,R,,FRA,17.067761807,6-2 5-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,882,13,,
 2006-M-FU-FRA-06A-2006,France F6,Clay,32,S,20060403,15,103088,,,Xavier Pujo,R,180,FRA,28.3258042437,104758,,Q,Antoine Benneteau,R,,FRA,19.7590691307,2-6 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,583,36,975,9
 2006-M-FU-FRA-06A-2006,France F6,Clay,32,S,20060403,16,103967,2,,Michael Lammer,R,185,SUI,24.0246406571,103734,,,Trystan Meniane,U,,FRA,25.0485968515,7-6(3) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,222,169,392,78
 2006-M-FU-FRA-06A-2006,France F6,Clay,32,S,20060403,17,104515,1,WC,Mathieu Montcourt,R,183,FRA,21.0814510609,103978,,Q,Rabie Chaki,U,,MAR,23.9698836413,4-6 7-6(2) 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,205,190,728,21
@@ -3805,7 +3805,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-SA-TUR-01A-2006c,Turkey 1 3,Clay,32,S,20060403,8,102153,5,,German Puentes,R,173,ESP,33.2895277207,103776,,Q,Alexei Filenkov,R,,RUS,24.8788501027,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,622,31,1306,3
 2006-M-SA-TUR-01A-2006c,Turkey 1 3,Clay,32,S,20060403,9,104951,6,,Aljoscha Thron,R,,GER,18.8008213552,103729,,Q,Nicolas Tholozan,U,,FRA,25.0704996578,6-2 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,697,24,1306,3
 2006-M-SA-TUR-01A-2006c,Turkey 1 3,Clay,32,S,20060403,10,104742,,,Jose Luis Muguruza,L,,ARU,19.8439425051,103760,,WC,Haluk Akkoyun,R,,TUR,24.93908282,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,878,13,1256,3
-2006-M-SA-TUR-01A-2006c,Turkey 1 3,Clay,32,S,20060403,11,105078,,Q,Javier Ramos,R,,ESP,18.2039698836,109473,,,Alex Stone,U,,USA,,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1091,6
+2006-M-SA-TUR-01A-2006c,Turkey 1 3,Clay,32,S,20060403,11,105078,,Q,Javier Ramos,R,,ESP,18.2039698836,109473,,,Kostyantyn Dmytrenko,U,,UKR,28.1971252567,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1091,6
 2006-M-SA-TUR-01A-2006c,Turkey 1 3,Clay,32,S,20060403,12,104512,,WC,Ergun Zorlu,R,,TUR,21.0869267625,103486,3,,Benjamin Ebrahimzadeh,R,,GER,26.2477754962,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,593,35
 2006-M-SA-TUR-01A-2006c,Turkey 1 3,Clay,32,S,20060403,13,104747,8,,Tom Rushby,R,,GBR,19.8302532512,111702,,Q,Mikhail Lew,L,,CAN,20.6680355921,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,763,19,1416,2
 2006-M-SA-TUR-01A-2006c,Turkey 1 3,Clay,32,S,20060403,14,119540,,Q,Heiner Tadault,R,,FRA,22.7104722793,104654,,WC,Baris Erguden,R,,TUR,20.2518822724,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1416,2
@@ -4023,7 +4023,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-ESP-10A-2006,Spain F10,Clay,32,S,20060410,9,104192,6,,Marco Crugnola,R,188,ITA,22.8802190281,103988,,,Mariano Albert Ferrando,R,,ESP,23.9561943874,4-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,482,52,1192,4
 2006-M-FU-ESP-10A-2006,Spain F10,Clay,32,S,20060410,10,104462,,Q,Miquel Perez Puigdomenech,U,,ESP,21.325119781,104028,,,Goncalo Nicau,U,,POR,23.7700205339,6-4 4-6 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,940,10,692,24
 2006-M-FU-ESP-10A-2006,Spain F10,Clay,32,S,20060410,11,120091,,WC,Amarit Sanchez Thammakrong,U,,ESP,18.9295003422,104614,,PR,Javier Foronda Bolanos,U,,ESP,20.5311430527,6-3 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,1314,3
-2006-M-FU-ESP-10A-2006,Spain F10,Clay,32,S,20060410,12,103926,4,,Daniel Munoz De La Nava,L,,ESP,24.1943874059,109479,,WC,Alexandr Kotora,U,,CZE,,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,442,62,,
+2006-M-FU-ESP-10A-2006,Spain F10,Clay,32,S,20060410,12,103926,4,,Daniel Munoz De La Nava,L,,ESP,24.1943874059,209483,,WC,Rafael Puerto Jaimez,U,,ESP,18.6255989049,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,442,62,,
 2006-M-FU-ESP-10A-2006,Spain F10,Clay,32,S,20060410,13,104284,5,,Frank Condor,U,,ESP,22.2477754962,109555,,Q,Alan Wright,R,,GBR,,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,466,55,1192,4
 2006-M-FU-ESP-10A-2006,Spain F10,Clay,32,S,20060410,14,104317,,,David Luque Velasco,U,,ESP,22.1054072553,104997,,,Igor Sijsling,R,190,NED,18.6447638604,6-0 6-7(3) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,621,31,750,19
 2006-M-FU-ESP-10A-2006,Spain F10,Clay,32,S,20060410,15,103599,,,Jordi Marse Vidri,U,,ESP,25.7193702943,105077,,Q,Albert Ramos,L,188,ESP,18.2286105407,7-6(10) 6-7(7) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,636,29,1174,5
@@ -4237,7 +4237,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-ESP-11A-2006,Spain F11,Hard,32,S,20060417,6,119891,,Q,Francisco Javier De La Torre Sanchez,U,,ESP,18.5160848734,105751,,Q,Roberto Ortega Olmedo,U,,ESP,15.0088980151,5-7 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2006-M-FU-ESP-11A-2006,Spain F11,Hard,32,S,20060417,7,104956,,Q,Guillermo Gomez Diaz,U,,ESP,18.8309377139,109348,,LL,Alejandro Vargas Garcia,U,,ESP,20.0328542094,4-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1520,1,1414,2
 2006-M-FU-ESP-11A-2006,Spain F11,Hard,32,S,20060417,8,104462,,,Miquel Perez Puigdomenech,U,,ESP,21.3442847365,119206,,LL,Jesus Martinez Mozo,U,,ESP,19.0171115674,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,946,10,,
-2006-M-FU-ESP-11A-2006,Spain F11,Hard,32,S,20060417,9,105173,8,,Adrian Mannarino,L,183,FRA,17.7987679671,109663,,,Andy Lloyd,R,,USA,,6-0 7-5,3,R32,,,,,,,,,,,,,,,,,,,,757,19,1208,4
+2006-M-FU-ESP-11A-2006,Spain F11,Hard,32,S,20060417,9,105173,8,,Adrian Mannarino,L,183,FRA,17.7987679671,109663,,,Benjamin Janse Van Rensburg,U,,RSA,23.241615332,6-0 7-5,3,R32,,,,,,,,,,,,,,,,,,,,757,19,1208,4
 2006-M-FU-ESP-11A-2006,Spain F11,Hard,32,S,20060417,10,104152,,Q,David Canudas Fernandez,U,,ESP,23.0444900753,109624,,Q,Vasco Antunes,L,,POR,,7-6(2) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1520,1,1520,1
 2006-M-FU-ESP-11A-2006,Spain F11,Hard,32,S,20060417,11,109045,,LL,Stefano Vukov,R,,CRO,19.0581793292,120092,,WC,Rafael Sanchez Navas,U,,ESP,17.1937029432,6-4 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1414,2,,
 2006-M-FU-ESP-11A-2006,Spain F11,Hard,32,S,20060417,12,103599,4,,Jordi Marse Vidri,U,,ESP,25.7385352498,109627,,LL,Xavier Dejuan,U,,ESP,21.6755646817,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,633,29,,
@@ -4599,7 +4599,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-COL-03A-2006,Colombia F3,Clay,32,S,20060501,4,108628,7,,Jhonnatan Medina Alvarez,L,,VEN,24.2984257358,104568,,,Amadeus Fulford Jones,U,,GBR,20.8761122519,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,968,10
 2006-M-FU-COL-03A-2006,Colombia F3,Clay,32,S,20060501,5,104477,4,,Jorge Aguilar,R,,CHI,21.3086926762,104903,,Q,Andre Miele,R,,BRA,19.0527036277,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,367,83,1045,7
 2006-M-FU-COL-03A-2006,Colombia F3,Clay,32,S,20060501,6,104474,,,Leonardo Kirche,R,188,BRA,21.3196440794,108701,,,Juan Sebastian Cabal,R,,COL,20.0164271047,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,709,23,1309,3
-2006-M-FU-COL-03A-2006,Colombia F3,Clay,32,S,20060501,7,104027,,,Pablo Gonzalez,R,178,COL,23.8302532512,109499,,Q,Georgy Kurochkin,U,,RUS,16.5831622177,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,566,38,1179,4
+2006-M-FU-COL-03A-2006,Colombia F3,Clay,32,S,20060501,7,104027,,,Pablo Gonzalez,R,178,COL,23.8302532512,209503,,Q,Thomas Estrada,R,,COL,17.9301848049,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,566,38,1179,4
 2006-M-FU-COL-03A-2006,Colombia F3,Clay,32,S,20060501,8,104113,8,,Carlos Salamanca,L,196,COL,23.2908966461,105453,,WC,Kei Nishikori,R,178,JPN,16.3367556468,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,458,58,1117,5
 2006-M-FU-COL-03A-2006,Colombia F3,Clay,32,S,20060501,9,104535,6,,Daniel Garza,R,,MEX,21.0622861054,103719,,,Ruben Torres,R,,COL,25.18275154,6-4 4-6 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,477,55,1020,8
 2006-M-FU-COL-03A-2006,Colombia F3,Clay,32,S,20060501,10,104008,,,Carlos Avellan,R,,ECU,23.9178644764,119229,,Q,Sebastian Gallego Betancor,R,,COL,17.6783025325,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,756,19,,
@@ -6103,7 +6103,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-ROU-04A-2006,Romania F4,Clay,32,S,20060522,5,104149,4,,Adrian Cruciat,R,,ROU,23.1430527036,105052,,,Chris Eaton,R,,GBR,18.4832306639,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,337,92,898,12
 2006-M-FU-ROU-04A-2006,Romania F4,Clay,32,S,20060522,6,104839,,,Yassine Idmbarek,U,,MAR,19.4551676934,103853,,,Mattia Livraghi,L,,ITA,24.6652977413,7-6(5) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,928,11,836,15
 2006-M-FU-ROU-04A-2006,Romania F4,Clay,32,S,20060522,7,104843,,Q,Laurentiu Erlic,R,,ROU,19.4195756331,119237,,Q,Robert Moldoveanu,U,,ROU,20.7529089665,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,1510,1
-2006-M-FU-ROU-04A-2006,Romania F4,Clay,32,S,20060522,8,103472,5,,Karim Maamoun,R,,EGY,26.507871321,109465,,Q,Kong Pop Lertchai,U,,THA,,7-6(5) 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,356,85,,
+2006-M-FU-ROU-04A-2006,Romania F4,Clay,32,S,20060522,8,103472,5,,Karim Maamoun,R,,EGY,26.507871321,209469,,Q,Octavian Nicodim,U,,ROU,23.6960985626,7-6(5) 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,356,85,,
 2006-M-FU-ROU-04A-2006,Romania F4,Clay,32,S,20060522,9,103574,7,,Teodor Dacian Craciun,R,,ROU,25.9575633128,104915,,,Victor Stanica,R,,ROU,19.0390143737,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,358,85,981,9
 2006-M-FU-ROU-04A-2006,Romania F4,Clay,32,S,20060522,10,119233,,Q,Dan Vasilescu,U,,ROU,22.4339493498,105204,,Q,Alexandru Raul Lazar,U,,ROU,17.7522245038,6-4 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2006-M-FU-ROU-04A-2006,Romania F4,Clay,32,S,20060522,11,103687,,,Enrico Burzi,U,,ITA,25.3497604381,104834,,Q,Alexandru Daniel Carpen,R,,ROU,19.4907597536,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,623,31,,
@@ -6451,7 +6451,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-ROU-05A-2006,Romania F5,Clay,32,S,20060529,12,104704,,LL,Victor Mugurel Anagnastopol,R,,ROU,20.1834360027,104028,4,,Goncalo Nicau,U,,POR,23.9041752225,7-5 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,517,47,681,26
 2006-M-FU-ROU-05A-2006,Romania F5,Clay,32,S,20060529,13,103973,5,,Marcel Ioan Miron,U,,ROU,24.1451060917,104506,,,David Brewer,R,,GBR,21.2566735113,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,779,18,1108,6
 2006-M-FU-ROU-05A-2006,Romania F5,Clay,32,S,20060529,14,104937,,Q,Ilie Aurelian Giurgiu,R,,ROU,18.984257358,109201,,WC,Ionut Mihai Beleleu,R,,ROU,19.0527036277,4-6 7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1276,3,,
-2006-M-FU-ROU-05A-2006,Romania F5,Clay,32,S,20060529,15,109465,,Q,Kong Pop Lertchai,U,,THA,,105207,,Q,Andrei Daescu,R,,ROU,17.749486653,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2006-M-FU-ROU-05A-2006,Romania F5,Clay,32,S,20060529,15,209469,,Q,Octavian Nicodim,U,,ROU,23.7152635181,105207,,Q,Andrei Daescu,R,,ROU,17.749486653,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2006-M-FU-ROU-05A-2006,Romania F5,Clay,32,S,20060529,16,104149,2,,Adrian Cruciat,R,,ROU,23.1622176591,120115,,Q,Mihai Parvan,U,,ROU,17.8836413415,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,344,92,,
 2006-M-FU-ROU-05A-2006,Romania F5,Clay,32,S,20060529,17,104495,1,,Florin Mergea,R,180,ROU,21.3360711841,119625,,Q,Alexy Tsyrenov,R,,RUS,19.3210130048,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,295,117,1425,2
 2006-M-FU-ROU-05A-2006,Romania F5,Clay,32,S,20060529,18,105204,,LL,Alexandru Raul Lazar,U,,ROU,17.7713894593,104834,,LL,Alexandru Daniel Carpen,R,,ROU,19.5099247091,6-4 7-6(10),3,R16,,,,,,,,,,,,,,,,,,,,1529,1,,
@@ -6460,7 +6460,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-ROU-05A-2006,Romania F5,Clay,32,S,20060529,21,104602,7,,Andrea Falgheri,R,,ITA,20.7173169062,104839,,,Yassine Idmbarek,U,,MAR,19.4743326489,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,846,15,916,12
 2006-M-FU-ROU-05A-2006,Romania F5,Clay,32,S,20060529,22,104343,,,Adrian Gavrila,R,,ROU,22.1574264203,104704,,LL,Victor Mugurel Anagnastopol,R,,ROU,20.1834360027,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,947,11,517,47
 2006-M-FU-ROU-05A-2006,Romania F5,Clay,32,S,20060529,23,103973,5,,Marcel Ioan Miron,U,,ROU,24.1451060917,104937,,Q,Ilie Aurelian Giurgiu,R,,ROU,18.984257358,7-6(6) 4-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,779,18,1276,3
-2006-M-FU-ROU-05A-2006,Romania F5,Clay,32,S,20060529,24,104149,2,,Adrian Cruciat,R,,ROU,23.1622176591,109465,,Q,Kong Pop Lertchai,U,,THA,,7-6(5) 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,344,92,,
+2006-M-FU-ROU-05A-2006,Romania F5,Clay,32,S,20060529,24,104149,2,,Adrian Cruciat,R,,ROU,23.1622176591,209469,,Q,Octavian Nicodim,U,,ROU,23.7152635181,7-6(5) 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,344,92,,
 2006-M-FU-ROU-05A-2006,Romania F5,Clay,32,S,20060529,25,104495,1,,Florin Mergea,R,180,ROU,21.3360711841,105204,,LL,Alexandru Raul Lazar,U,,ROU,17.7713894593,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,295,117,1529,1
 2006-M-FU-ROU-05A-2006,Romania F5,Clay,32,S,20060529,26,103472,3,,Karim Maamoun,R,,EGY,26.5270362765,104408,8,,Teodor Bolanu,L,,ROU,21.8480492813,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,362,85,862,14
 2006-M-FU-ROU-05A-2006,Romania F5,Clay,32,S,20060529,27,104343,,,Adrian Gavrila,R,,ROU,22.1574264203,104602,7,,Andrea Falgheri,R,,ITA,20.7173169062,6-4 6-0,3,QF,,,,,,,,,,,,,,,,,,,,947,11,846,15
@@ -6724,7 +6724,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-ROU-06A-2006,Romania F6,Clay,32,S,20060605,6,119233,,Q,Dan Vasilescu,U,,ROU,22.4722792608,119625,,LL,Alexy Tsyrenov,R,,RUS,19.3401779603,4-6 6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,1425,2
 2006-M-FU-ROU-06A-2006,Romania F6,Clay,32,S,20060605,7,103973,,,Marcel Ioan Miron,U,,ROU,24.1642710472,104521,,,Jacob Melskens,R,,DEN,21.2101300479,6-2 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,779,18,812,16
 2006-M-FU-ROU-06A-2006,Romania F6,Clay,32,S,20060605,8,104408,,,Teodor Bolanu,L,,ROU,21.8672142368,104388,7,,Morgan Phillips,U,,GBR,21.9493497604,3-6 7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,862,14,638,30
-2006-M-FU-ROU-06A-2006,Romania F6,Clay,32,S,20060605,9,103390,6,,Artemon Apostu Efremov,R,,ROU,26.9623545517,109465,,WC,Kong Pop Lertchai,U,,THA,,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,590,35,,
+2006-M-FU-ROU-06A-2006,Romania F6,Clay,32,S,20060605,9,103390,6,,Artemon Apostu Efremov,R,,ROU,26.9623545517,209469,,WC,Octavian Nicodim,U,,ROU,23.7344284736,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,590,35,,
 2006-M-FU-ROU-06A-2006,Romania F6,Clay,32,S,20060605,10,104602,,,Andrea Falgheri,R,,ITA,20.7364818617,104506,,Q,David Brewer,R,,GBR,21.2758384668,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,846,15,1108,6
 2006-M-FU-ROU-06A-2006,Romania F6,Clay,32,S,20060605,11,119649,,Q,George Balafoutas,U,,GRE,17.787816564,119047,,WC,Bogdan Buneci,U,,ROU,20.4681724846,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1529,1,,
 2006-M-FU-ROU-06A-2006,Romania F6,Clay,32,S,20060605,12,104181,3,,Victor Ionita,R,185,ROU,23.0691307324,104343,,SE,Adrian Gavrila,R,,ROU,22.1765913758,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,402,76,947,11
@@ -7466,7 +7466,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-FRA-08A-2006,France F8,Clay,32,S,20060619,4,102579,,,Xavier Audouy,U,,FRA,31.151266256,103746,8,,Miguel Gallardo Valles,R,,MEX,25.196440794,6-2 6-7(6) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,448,61,382,78
 2006-M-FU-FRA-08A-2006,France F8,Clay,32,S,20060619,5,104721,,,Josselin Ouanna,R,193,FRA,20.180698152,104384,3,,Pablo Santos,R,183,ESP,22.0095824778,7-6(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,439,62,325,101
 2006-M-FU-FRA-08A-2006,France F8,Clay,32,S,20060619,6,120138,,Q,Pierre Mouillon,U,,FRA,21.3771389459,103876,,SE,Tomasz Bednarek,R,,POL,24.5995893224,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1109,5
-2006-M-FU-FRA-08A-2006,France F8,Clay,32,S,20060619,7,109477,,LL,Ruslan Miroshnichenko,U,,UKR,,104677,,,Artem Sitak,R,,NZL,20.3586584531,4-6 7-6(3) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,456,58
+2006-M-FU-FRA-08A-2006,France F8,Clay,32,S,20060619,7,109477,,LL,Vincent Sapene,R,,FRA,17.2785763176,104677,,,Artem Sitak,R,,NZL,20.3586584531,4-6 7-6(3) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,456,58
 2006-M-FU-FRA-08A-2006,France F8,Clay,32,S,20060619,8,105098,,WC,Alexandre Sidorenko,R,,FRA,18.3326488706,103734,7,,Trystan Meniane,U,,FRA,25.2594113621,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,559,40,376,80
 2006-M-FU-FRA-08A-2006,France F8,Clay,32,S,20060619,9,104017,5,,Ludwig Pellerin,R,,FRA,24.0136892539,104672,,,Vincent Millot,L,173,FRA,20.3832991102,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,363,87,749,19
 2006-M-FU-FRA-08A-2006,France F8,Clay,32,S,20060619,10,103527,,,Julien Jeanpierre,R,188,FRA,26.2751540041,105559,,WC,Jonathan Eysseric,L,180,FRA,16.0629705681,6-2 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,672,26,,
@@ -7479,7 +7479,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-FRA-08A-2006,France F8,Clay,32,S,20060619,17,103963,,,Filip Urban,R,193,POL,24.2409308693,104579,,Q,Romain Jouan,R,183,FRA,20.9253935661,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,492,51,1520,1
 2006-M-FU-FRA-08A-2006,France F8,Clay,32,S,20060619,18,102579,,,Xavier Audouy,U,,FRA,31.151266256,106778,,Q,Clement Rousseau,U,,FRA,,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,448,61,797,16
 2006-M-FU-FRA-08A-2006,France F8,Clay,32,S,20060619,19,120138,,Q,Pierre Mouillon,U,,FRA,21.3771389459,104721,,,Josselin Ouanna,R,193,FRA,20.180698152,2-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,,,439,62
-2006-M-FU-FRA-08A-2006,France F8,Clay,32,S,20060619,20,105098,,WC,Alexandre Sidorenko,R,,FRA,18.3326488706,109477,,LL,Ruslan Miroshnichenko,U,,UKR,,3-6 6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,559,40,,
+2006-M-FU-FRA-08A-2006,France F8,Clay,32,S,20060619,20,105098,,WC,Alexandre Sidorenko,R,,FRA,18.3326488706,109477,,LL,Vincent Sapene,R,,FRA,17.2785763176,3-6 6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,559,40,,
 2006-M-FU-FRA-08A-2006,France F8,Clay,32,S,20060619,21,103527,,,Julien Jeanpierre,R,188,FRA,26.2751540041,104017,5,,Ludwig Pellerin,R,,FRA,24.0136892539,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,672,26,363,87
 2006-M-FU-FRA-08A-2006,France F8,Clay,32,S,20060619,22,103948,,,Maximilian Abel,R,,GER,24.3039014374,105483,,LL,Jerome Inzerillo,R,,FRA,16.3394934976,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,605,33,,
 2006-M-FU-FRA-08A-2006,France F8,Clay,32,S,20060619,23,104453,6,,Michael Ryderstedt,L,188,SWE,21.5989048597,104039,,,Petar Popovic,U,,SRB,23.8959616701,6-7(6) 6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,374,81,472,55
@@ -7545,7 +7545,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-ITA-19A-2006,Italy F19,Clay,32,S,20060619,21,103218,,,Manuel Jorquera,R,,ITA,28.0191649555,103600,6,,Mohammad Ghareeb,R,,KUW,25.9082819986,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,463,56,367,84
 2006-M-FU-ITA-19A-2006,Italy F19,Clay,32,S,20060619,22,104016,4,,Antonio Pastorino,U,,ARG,24.0136892539,104551,,,Gero Kretschmer,R,,GER,21.1197809719,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,361,88,478,53
 2006-M-FU-ITA-19A-2006,Italy F19,Clay,32,S,20060619,23,104640,,,Pablo Galdon,R,,ARG,20.5557837098,104354,7,,Daniele Giorgini,R,180,ITA,22.1519507187,0-6 6-3 7-6(1),3,R16,,,,,,,,,,,,,,,,,,,,465,56,418,68
-2006-M-FU-ITA-19A-2006,Italy F19,Clay,32,S,20060619,24,105041,2,,Lukas Lacko,R,185,SVK,18.6255989049,103156,,,Alessandro Da Col,R,,ITA,28.2737850787,6-3,3,R16,,,,,,,,,,,,,,,,,,,,310,105,443,61
+2006-M-FU-ITA-19A-2006,Italy F19,Clay,32,S,20060619,24,105041,2,,Lukas Lacko,R,185,SVK,18.6255989049,103156,,,Alessandro Da Col,R,,ITA,28.2737850787,3-Jun,3,R16,,,,,,,,,,,,,,,,,,,,310,105,443,61
 2006-M-FU-ITA-19A-2006,Italy F19,Clay,32,S,20060619,25,104743,,,Kamil Capkovic,R,,SVK,20.0465434634,104736,,,Farrukh Dustov,R,196,UZB,20.076659822,6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,553,41,453,59
 2006-M-FU-ITA-19A-2006,Italy F19,Clay,32,S,20060619,26,103687,,,Enrico Burzi,U,,ITA,25.4264202601,103611,,,Giancarlo Petrazzuolo,R,,ITA,25.864476386,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,542,43,495,51
 2006-M-FU-ITA-19A-2006,Italy F19,Clay,32,S,20060619,27,104016,4,,Antonio Pastorino,U,,ARG,24.0136892539,103218,,,Manuel Jorquera,R,,ITA,28.0191649555,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,361,88,463,56
@@ -8769,7 +8769,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-VEN-03A-2006,Venezuela F1C,Hard,32,S,20060710,5,104535,4,,Daniel Garza,R,,MEX,21.2539356605,104243,,,Oscar Posada,R,,VEN,22.8254620123,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,465,56,,
 2006-M-FU-VEN-03A-2006,Venezuela F1C,Hard,32,S,20060710,6,102655,,,Jimy Szymanski,R,175,VEN,30.81724846,104710,,Q,Damian Listingart,U,,ARG,20.2737850787,3-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,792,17,958,10
 2006-M-FU-VEN-03A-2006,Venezuela F1C,Hard,32,S,20060710,7,104700,,,Daniel Vallverdu,R,,VEN,20.3148528405,104673,,,Julio Cesar Campozano,R,,ECU,20.4380561259,7-6(6) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,939,10,723,22
-2006-M-FU-VEN-03A-2006,Venezuela F1C,Hard,32,S,20060710,8,104305,5,,Luka Gregorc,R,,SLO,22.4010951403,109494,,WC,Joseph Guluzian,R,,SWE,24.6488706366,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,554,41,,
+2006-M-FU-VEN-03A-2006,Venezuela F1C,Hard,32,S,20060710,8,104305,5,,Luka Gregorc,R,,SLO,22.4010951403,109494,,WC,Pedro Ast,U,,VEN,17.9082819986,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,554,41,,
 2006-M-FU-VEN-03A-2006,Venezuela F1C,Hard,32,S,20060710,9,104513,6,,Leandro Migani,R,,ARG,21.3552361396,104763,,,Rafael Arevalo,R,,ESA,20.0164271047,4-6 7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,549,43,709,23
 2006-M-FU-VEN-03A-2006,Venezuela F1C,Hard,32,S,20060710,10,104942,,,Roman Recarte,U,,VEN,19.0910335387,104837,,Q,Demian Gschwend,R,,ARG,19.5975359343,3-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,764,19,1029,8
 2006-M-FU-VEN-03A-2006,Venezuela F1C,Hard,32,S,20060710,11,104828,,,Alejandro Kon,U,,ARG,19.6632443532,103905,,,Ricardo Chile Fonte,U,,CUB,24.5037645448,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,859,14,,
@@ -9685,7 +9685,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-LAT-01A-2006,Latvia F1,Clay,32,S,20060731,30,104336,,,Gvidas Sabeckis,R,,LTU,22.3436002738,104441,6,,Oskar Pallin,U,,SWE,21.8097193703,6-4 7-6(5),3,SF,,,,,,,,,,,,,,,,,,,,1031,8,853,15
 2006-M-FU-LAT-01A-2006,Latvia F1,Clay,32,S,20060731,31,104557,1,,Andis Juska,R,,LAT,21.1909650924,104336,,,Gvidas Sabeckis,R,,LTU,22.3436002738,6-1 6-2,3,F,,,,,,,,,,,,,,,,,,,,406,74,1031,8
 2006-M-FU-MEX-10A-2006,Mexico F11,Hard,32,S,20060731,1,103746,1,,Miguel Gallardo Valles,R,,MEX,25.311430527,120208,,WC,Enrique Robles,L,,MEX,15.9397672827,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,422,70,,
-2006-M-FU-MEX-10A-2006,Mexico F11,Hard,32,S,20060731,2,104193,,,Dane Fernandez,U,,AUS,23.1813826146,109498,,,Alexei Milner,R,,ISR,17.1115674196,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,969,9,1437,2
+2006-M-FU-MEX-10A-2006,Mexico F11,Hard,32,S,20060731,2,104193,,,Dane Fernandez,U,,AUS,23.1813826146,209502,,,Alexei Milner,R,,ISR,17.1115674196,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,969,9,1437,2
 2006-M-FU-MEX-10A-2006,Mexico F11,Hard,32,S,20060731,3,104960,,,Miguel Angel Reyes Varela,R,,MEX,19.1101984942,105402,,Q,Peerakiat Siriluethaiwattana,L,,THA,16.9555099247,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1016,8,,
 2006-M-FU-MEX-10A-2006,Mexico F11,Hard,32,S,20060731,4,103791,8,,Rolando Vargas,U,,MEX,25.1307323751,120209,,LL,Sergio Herrera,U,,MEX,24.0438056126,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,879,13,,
 2006-M-FU-MEX-10A-2006,Mexico F11,Hard,32,S,20060731,5,103316,3,SE,Victor Romero,R,,MEX,27.5099247091,104190,,,Benoit Bottero,R,,FRA,23.1923340178,6-4 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,474,56,950,10
@@ -9760,7 +9760,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-SEN-01A-2006,Senegal F1,Hard,32,S,20060731,12,120132,,Q,Angel Diankov,R,,BUL,24.7063655031,104879,4,,Myles Blake,R,,GBR,19.4223134839,6-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,761,20
 2006-M-FU-SEN-01A-2006,Senegal F1,Hard,32,S,20060731,13,104804,5,,Amir Weintraub,R,188,ISR,19.871321013,110663,,,Ali El Alaoui,R,,MAR,20.4380561259,3-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,768,20,1335,3
 2006-M-FU-SEN-01A-2006,Senegal F1,Hard,32,S,20060731,14,104128,,,Shivang Mishra,R,,IND,23.4688569473,118797,,,Narcis Pelach Torres,R,,ESP,23.5920602327,6-1 4-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,1204,4,1380,2
-2006-M-FU-SEN-01A-2006,Senegal F1,Hard,32,S,20060731,15,109663,,,Andy Lloyd,R,,USA,,119781,,WC,Mahar Zeidan,U,,FRA,17.8562628337,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1200,4,,
+2006-M-FU-SEN-01A-2006,Senegal F1,Hard,32,S,20060731,15,109663,,,Benjamin Janse Van Rensburg,U,,RSA,23.5290896646,119781,,WC,Mahar Zeidan,U,,FRA,17.8562628337,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1200,4,,
 2006-M-FU-SEN-01A-2006,Senegal F1,Hard,32,S,20060731,16,103568,2,,Valentin Sanon,R,,CIV,26.1957563313,120217,,Q,Guy Kubi,U,,ISR,18.3134839151,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,483,55,,
 2006-M-FU-SEN-01A-2006,Senegal F1,Hard,32,S,20060731,17,104470,1,,Komlavi Loglo,R,183,TOG,21.582477755,119500,,Q,Yoav Schab,R,,ISR,21.5523613963,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,439,66,1437,2
 2006-M-FU-SEN-01A-2006,Senegal F1,Hard,32,S,20060731,18,104922,,,Almog Mashiach,U,,ISR,19.2032854209,104472,,Q,Antoine Tassart,U,,FRA,21.5715263518,W/O,3,R16,,,,,,,,,,,,,,,,,,,,1167,5,1551,1
@@ -9769,7 +9769,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-SEN-01A-2006,Senegal F1,Hard,32,S,20060731,21,104966,,,Idan Mark,U,,ISR,19.0746064339,108134,8,,Roberto Lopez Sanchez,R,,ESP,,6-4 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,1153,5,1016,8
 2006-M-FU-SEN-01A-2006,Senegal F1,Hard,32,S,20060731,22,120132,,Q,Angel Diankov,R,,BUL,24.7063655031,104613,,,Candy Idoko,R,175,NGR,20.8405201916,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,1167,5
 2006-M-FU-SEN-01A-2006,Senegal F1,Hard,32,S,20060731,23,104804,5,,Amir Weintraub,R,188,ISR,19.871321013,104128,,,Shivang Mishra,R,,IND,23.4688569473,4-6 6-3 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,768,20,1204,4
-2006-M-FU-SEN-01A-2006,Senegal F1,Hard,32,S,20060731,24,103568,2,,Valentin Sanon,R,,CIV,26.1957563313,109663,,,Andy Lloyd,R,,USA,,6-2 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,483,55,1200,4
+2006-M-FU-SEN-01A-2006,Senegal F1,Hard,32,S,20060731,24,103568,2,,Valentin Sanon,R,,CIV,26.1957563313,109663,,,Benjamin Janse Van Rensburg,U,,RSA,23.5290896646,6-2 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,483,55,1200,4
 2006-M-FU-SEN-01A-2006,Senegal F1,Hard,32,S,20060731,25,104470,1,,Komlavi Loglo,R,183,TOG,21.582477755,104922,,,Almog Mashiach,U,,ISR,19.2032854209,7-6(5) 3-0 RET,3,QF,,,,,,,,,,,,,,,,,,,,439,66,1167,5
 2006-M-FU-SEN-01A-2006,Senegal F1,Hard,32,S,20060731,26,104502,3,,Amit Inbar,L,,ISR,21.453798768,108934,,,Thomas Drouet,R,,MON,23.2060232717,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,588,38,1277,3
 2006-M-FU-SEN-01A-2006,Senegal F1,Hard,32,S,20060731,27,120132,,Q,Angel Diankov,R,,BUL,24.7063655031,104966,,,Idan Mark,U,,ISR,19.0746064339,7-5 7-6(2),3,QF,,,,,,,,,,,,,,,,,,,,,,1153,5
@@ -9876,7 +9876,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-VEN-04A-2006,Venezuela F1,Clay,32,S,20060731,4,104828,6,,Alejandro Kon,U,,ARG,19.7207392197,119606,,,Mario Cuellar Gonzalez,U,,ESP,20.3039014374,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,797,18,1551,1
 2006-M-FU-VEN-04A-2006,Venezuela F1,Clay,32,S,20060731,5,103719,4,,Ruben Torres,R,,COL,25.4318959617,105261,,WC,Roberto Maytin,R,,VEN,17.5742642026,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,771,20,,
 2006-M-FU-VEN-04A-2006,Venezuela F1,Clay,32,S,20060731,6,119989,,,Diego Medrano,R,,COL,18.6119096509,120234,,Q,Sergio Olivares,L,,VEN,28.0547570157,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1551,1,,
-2006-M-FU-VEN-04A-2006,Venezuela F1,Clay,32,S,20060731,7,109494,,WC,Joseph Guluzian,R,,SWE,24.7063655031,109063,,PR,Paul Downey,R,,CAN,34.3709787817,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,1551,1
+2006-M-FU-VEN-04A-2006,Venezuela F1,Clay,32,S,20060731,7,109494,,WC,Pedro Ast,U,,VEN,17.9657768652,109063,,PR,Paul Downey,R,,CAN,34.3709787817,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,1551,1
 2006-M-FU-VEN-04A-2006,Venezuela F1,Clay,32,S,20060731,8,120235,,Q,Steven Espinoza,U,,VEN,20.0930869268,120236,,LL,Alexander Diaz,L,,VEN,30.1848049281,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2006-M-FU-VEN-04A-2006,Venezuela F1,Clay,32,S,20060731,9,104710,8,,Damian Listingart,U,,ARG,20.3312799452,117889,,,Razvan Verone,R,,ROU,30.0752908966,7-6(7) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,957,10,1437,2
 2006-M-FU-VEN-04A-2006,Venezuela F1,Clay,32,S,20060731,10,104883,,,Matteo Marfia,L,,ITA,19.4031485284,104507,,,Jeffrey Das,R,,USA,21.4264202601,6-4 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1437,2,1437,2
@@ -9889,13 +9889,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-VEN-04A-2006,Venezuela F1,Clay,32,S,20060731,17,103590,1,,Michael Quintero,R,,COL,26.0533880903,104243,,WC,Oscar Posada,R,,VEN,22.8829568789,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,570,42,1551,1
 2006-M-FU-VEN-04A-2006,Venezuela F1,Clay,32,S,20060731,18,104828,6,,Alejandro Kon,U,,ARG,19.7207392197,119986,,Q,Leonel Vivas,U,,VEN,16.8432580424,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,797,18,,
 2006-M-FU-VEN-04A-2006,Venezuela F1,Clay,32,S,20060731,19,103719,4,,Ruben Torres,R,,COL,25.4318959617,119989,,,Diego Medrano,R,,COL,18.6119096509,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,771,20,1551,1
-2006-M-FU-VEN-04A-2006,Venezuela F1,Clay,32,S,20060731,20,109494,,WC,Joseph Guluzian,R,,SWE,24.7063655031,120235,,Q,Steven Espinoza,U,,VEN,20.0930869268,6-0 7-6(7),3,R16,,,,,,,,,,,,,,,,,,,,,,,
+2006-M-FU-VEN-04A-2006,Venezuela F1,Clay,32,S,20060731,20,109494,,WC,Pedro Ast,U,,VEN,17.9657768652,120235,,Q,Steven Espinoza,U,,VEN,20.0930869268,6-0 7-6(7),3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2006-M-FU-VEN-04A-2006,Venezuela F1,Clay,32,S,20060731,21,104710,8,,Damian Listingart,U,,ARG,20.3312799452,104883,,,Matteo Marfia,L,,ITA,19.4031485284,7-6(3) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,957,10,1437,2
 2006-M-FU-VEN-04A-2006,Venezuela F1,Clay,32,S,20060731,22,104673,3,,Julio Cesar Campozano,R,,ECU,20.4955509925,105218,,,Orlando Superlano,U,,VEN,17.8590006845,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,715,23,1153,5
 2006-M-FU-VEN-04A-2006,Venezuela F1,Clay,32,S,20060731,23,103829,5,,Cristian Paiz,U,,GUA,24.9226557153,104118,,,Jason Zimmermann,U,,USA,23.5071868583,7-6(3) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,793,18,1277,3
 2006-M-FU-VEN-04A-2006,Venezuela F1,Clay,32,S,20060731,24,104096,,,Sat Galan,R,,COL,23.6413415469,104942,2,,Roman Recarte,U,,VEN,19.1485284052,5-7 6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1551,1,625,31
 2006-M-FU-VEN-04A-2006,Venezuela F1,Clay,32,S,20060731,25,103590,1,,Michael Quintero,R,,COL,26.0533880903,104828,6,,Alejandro Kon,U,,ARG,19.7207392197,7-5 6-7(5) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,570,42,797,18
-2006-M-FU-VEN-04A-2006,Venezuela F1,Clay,32,S,20060731,26,103719,4,,Ruben Torres,R,,COL,25.4318959617,109494,,WC,Joseph Guluzian,R,,SWE,24.7063655031,6-1 6-0,3,QF,,,,,,,,,,,,,,,,,,,,771,20,,
+2006-M-FU-VEN-04A-2006,Venezuela F1,Clay,32,S,20060731,26,103719,4,,Ruben Torres,R,,COL,25.4318959617,109494,,WC,Pedro Ast,U,,VEN,17.9657768652,6-1 6-0,3,QF,,,,,,,,,,,,,,,,,,,,771,20,,
 2006-M-FU-VEN-04A-2006,Venezuela F1,Clay,32,S,20060731,27,104673,3,,Julio Cesar Campozano,R,,ECU,20.4955509925,104710,8,,Damian Listingart,U,,ARG,20.3312799452,6-7(5) 6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,715,23,957,10
 2006-M-FU-VEN-04A-2006,Venezuela F1,Clay,32,S,20060731,28,103829,5,,Cristian Paiz,U,,GUA,24.9226557153,104096,,,Sat Galan,R,,COL,23.6413415469,6-1 6-7(1) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,793,18,1551,1
 2006-M-FU-VEN-04A-2006,Venezuela F1,Clay,32,S,20060731,29,103590,1,,Michael Quintero,R,,COL,26.0533880903,103719,4,,Ruben Torres,R,,COL,25.4318959617,6-2 4-6 7-6(5),3,SF,,,,,,,,,,,,,,,,,,,,570,42,771,20
@@ -10031,7 +10031,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-SA-IND-02A-2006a,India 2 1,Hard,32,S,20060807,4,104690,,,Divij Sharan,L,,IND,20.4325804244,104646,5,,Purav Raja,R,,IND,20.6652977413,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,872,13,1089,6
 2006-M-SA-IND-02A-2006a,India 2 1,Hard,32,S,20060807,5,119014,3,,Ravi Shankar Pathanjali,L,,IND,24.0958247775,105157,,,Patrick Eichenberger,L,,SUI,18.1793292266,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1441,2
 2006-M-SA-IND-02A-2006a,India 2 1,Hard,32,S,20060807,6,104065,,,Ashutosh Singh,R,,IND,23.8658453114,105502,,,N Sriram Balaji,R,,IND,16.3887748118,7-6(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,920,11,1557,1
-2006-M-SA-IND-02A-2006a,India 2 1,Hard,32,S,20060807,7,109478,,WC,Jiri Placek,U,,CZE,17.0102669405,119256,,Q,Dai Chiao Lin,U,,TPE,20.5229295003,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1441,2,,
+2006-M-SA-IND-02A-2006a,India 2 1,Hard,32,S,20060807,7,109478,,WC,Kiran Nandkumar,U,,IND,20.7885010267,119256,,Q,Dai Chiao Lin,U,,TPE,20.5229295003,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1441,2,,
 2006-M-SA-IND-02A-2006a,India 2 1,Hard,32,S,20060807,8,104566,6,,Aditya Madkekar,U,,IND,21.1553730322,104615,,,Ranjeet Virali Murugesan,U,,IND,20.8514715948,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1135,5,,
 2006-M-SA-IND-02A-2006a,India 2 1,Hard,32,S,20060807,9,104817,,Q,Tushar Liberhan,R,,IND,19.8302532512,104560,7,,Nima Roshan,U,,AUS,21.2046543463,6-4 3-6 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,1041,7,1441,2
 2006-M-SA-IND-02A-2006a,India 2 1,Hard,32,S,20060807,10,104986,,,Vishnu Vardhan,R,188,IND,19.0308008214,104988,,,Vivek Shokeen,R,,IND,19.0198494182,6-3 1-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,938,10,634,30
@@ -10044,7 +10044,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-SA-IND-02A-2006a,India 2 1,Hard,32,S,20060807,17,103499,1,,Aqeel Khan,R,,PAK,26.5188227242,105507,,Q,Cheong Eui Kim,R,,KOR,16.3750855578,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1022,8,1204,4
 2006-M-SA-IND-02A-2006a,India 2 1,Hard,32,S,20060807,18,104690,,,Divij Sharan,L,,IND,20.4325804244,104752,,Q,Dilshod Sharifi,R,,TJK,20.1533196441,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,872,13,,
 2006-M-SA-IND-02A-2006a,India 2 1,Hard,32,S,20060807,19,104065,,,Ashutosh Singh,R,,IND,23.8658453114,119014,3,,Ravi Shankar Pathanjali,L,,IND,24.0958247775,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,920,11,,
-2006-M-SA-IND-02A-2006a,India 2 1,Hard,32,S,20060807,20,104566,6,,Aditya Madkekar,U,,IND,21.1553730322,109478,,WC,Jiri Placek,U,,CZE,17.0102669405,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1135,5,1441,2
+2006-M-SA-IND-02A-2006a,India 2 1,Hard,32,S,20060807,20,104566,6,,Aditya Madkekar,U,,IND,21.1553730322,109478,,WC,Kiran Nandkumar,U,,IND,20.7885010267,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1135,5,1441,2
 2006-M-SA-IND-02A-2006a,India 2 1,Hard,32,S,20060807,21,104986,,,Vishnu Vardhan,R,188,IND,19.0308008214,104817,,Q,Tushar Liberhan,R,,IND,19.8302532512,6-4 3-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,938,10,1041,7
 2006-M-SA-IND-02A-2006a,India 2 1,Hard,32,S,20060807,22,103501,4,,Vijay Kannan,R,,IND,26.5051334702,103619,,Q,Mustafa Ghouse,R,185,IND,25.9657768652,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,967,9,1096,6
 2006-M-SA-IND-02A-2006a,India 2 1,Hard,32,S,20060807,23,104491,,WC,Yannick Nelord,R,,IND,21.5386721424,104286,,,Vishal Punna,R,,IND,22.5626283368,2-6 6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,1379,2
@@ -10057,7 +10057,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-SA-IND-02A-2006a,India 2 1,Hard,32,S,20060807,30,103501,4,,Vijay Kannan,R,,IND,26.5051334702,108344,,,Tai Wei Liu,L,,TPE,,7-5 6-2,3,SF,,,,,,,,,,,,,,,,,,,,967,9,1332,3
 2006-M-SA-IND-02A-2006a,India 2 1,Hard,32,S,20060807,31,104690,,,Divij Sharan,L,,IND,20.4325804244,103501,4,,Vijay Kannan,R,,IND,26.5051334702,7-5 6-3,3,F,,,,,,,,,,,,,,,,,,,,872,13,967,9
 2006-M-SA-IND-02A-2006b,India 2 2,Hard,24,S,20060807,1,104986,,,Vishnu Vardhan,R,188,IND,19.0308008214,104491,,,Yannick Nelord,R,,IND,21.5386721424,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,938,10,,
-2006-M-SA-IND-02A-2006b,India 2 2,Hard,24,S,20060807,2,109478,,,Jiri Placek,U,,CZE,17.0102669405,105157,,,Patrick Eichenberger,L,,SUI,18.1793292266,6-4 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1441,2,1441,2
+2006-M-SA-IND-02A-2006b,India 2 2,Hard,24,S,20060807,2,109478,,,Kiran Nandkumar,U,,IND,20.7885010267,105157,,,Patrick Eichenberger,L,,SUI,18.1793292266,6-4 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1441,2,1441,2
 2006-M-SA-IND-02A-2006b,India 2 2,Hard,24,S,20060807,3,104646,,,Purav Raja,R,,IND,20.6652977413,104286,,,Vishal Punna,R,,IND,22.5626283368,3-6 7-6(3) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1089,6,1379,2
 2006-M-SA-IND-02A-2006b,India 2 2,Hard,24,S,20060807,4,104337,,,Stephen Amritraj,R,,IND,22.3600273785,104817,,,Tushar Liberhan,R,,IND,19.8302532512,6-4 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1041,7
 2006-M-SA-IND-02A-2006b,India 2 2,Hard,24,S,20060807,5,104988,,,Vivek Shokeen,R,,IND,19.0198494182,104615,,,Ranjeet Virali Murugesan,U,,IND,20.8514715948,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,634,30,,
@@ -10065,7 +10065,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-SA-IND-02A-2006b,India 2 2,Hard,24,S,20060807,7,105233,,,Jeevan Nedunchezhiyan,L,,IND,17.7960301164,105502,,,N Sriram Balaji,R,,IND,16.3887748118,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1557,1,1557,1
 2006-M-SA-IND-02A-2006b,India 2 2,Hard,24,S,20060807,8,104684,,,Navdeep Singh,R,,IND,20.4572210815,103919,,,Kamala Kannan,U,,IND,24.5366187543,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,751,20,,
 2006-M-SA-IND-02A-2006b,India 2 2,Hard,24,S,20060807,9,103499,1,,Aqeel Khan,R,,PAK,26.5188227242,104986,,,Vishnu Vardhan,R,188,IND,19.0308008214,3-6 7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1022,8,938,10
-2006-M-SA-IND-02A-2006b,India 2 2,Hard,24,S,20060807,10,104065,8,,Ashutosh Singh,R,,IND,23.8658453114,109478,,,Jiri Placek,U,,CZE,17.0102669405,4-6 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,920,11,1441,2
+2006-M-SA-IND-02A-2006b,India 2 2,Hard,24,S,20060807,10,104065,8,,Ashutosh Singh,R,,IND,23.8658453114,109478,,,Kiran Nandkumar,U,,IND,20.7885010267,4-6 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,920,11,1441,2
 2006-M-SA-IND-02A-2006b,India 2 2,Hard,24,S,20060807,11,103501,3,,Vijay Kannan,R,,IND,26.5051334702,104646,,,Purav Raja,R,,IND,20.6652977413,6-2 2-6 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,967,9,1089,6
 2006-M-SA-IND-02A-2006b,India 2 2,Hard,24,S,20060807,12,104566,6,,Aditya Madkekar,U,,IND,21.1553730322,104337,,,Stephen Amritraj,R,,IND,22.3600273785,4-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1135,5,,
 2006-M-SA-IND-02A-2006b,India 2 2,Hard,24,S,20060807,13,104988,,,Vivek Shokeen,R,,IND,19.0198494182,108344,7,,Tai Wei Liu,L,,TPE,,6-4 7-6(8),3,R16,,,,,,,,,,,,,,,,,,,,634,30,1332,3
@@ -10094,7 +10094,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-SA-IND-02A-2006c,India 2 3,Hard,32,S,20060807,13,104142,7,,Peter Shults,U,,USA,23.4250513347,105042,,Q,Vignesh Peranamallur,R,,IND,18.7515400411,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,936,11,,
 2006-M-SA-IND-02A-2006c,India 2 3,Hard,32,S,20060807,14,104337,,WC,Stephen Amritraj,R,,IND,22.3600273785,108344,,,Tai Wei Liu,L,,TPE,,3-6 7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1332,3
 2006-M-SA-IND-02A-2006c,India 2 3,Hard,32,S,20060807,15,105233,,WC,Jeevan Nedunchezhiyan,L,,IND,17.7960301164,105507,,,Cheong Eui Kim,R,,KOR,16.3750855578,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1557,1,1204,4
-2006-M-SA-IND-02A-2006c,India 2 3,Hard,32,S,20060807,16,119014,2,,Ravi Shankar Pathanjali,L,,IND,24.0958247775,109478,,Q,Jiri Placek,U,,CZE,17.0102669405,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1441,2
+2006-M-SA-IND-02A-2006c,India 2 3,Hard,32,S,20060807,16,119014,2,,Ravi Shankar Pathanjali,L,,IND,24.0958247775,109478,,Q,Kiran Nandkumar,U,,IND,20.7885010267,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1441,2
 2006-M-SA-IND-02A-2006c,India 2 3,Hard,32,S,20060807,17,104615,,Q,Ranjeet Virali Murugesan,U,,IND,20.8514715948,104988,1,,Vivek Shokeen,R,,IND,19.0198494182,4-6 6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,634,30
 2006-M-SA-IND-02A-2006c,India 2 3,Hard,32,S,20060807,18,103499,,,Aqeel Khan,R,,PAK,26.5188227242,104065,6,,Ashutosh Singh,R,,IND,23.8658453114,4-6 7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1022,8,920,11
 2006-M-SA-IND-02A-2006c,India 2 3,Hard,32,S,20060807,19,104684,3,,Navdeep Singh,R,,IND,20.4572210815,104617,,,Arjun Goutham,R,,IND,20.8459958932,6-3 3-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,751,20,962,9
@@ -10115,7 +10115,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-SA-IND-02A-2006d,India 2 4,Hard,32,S,20060807,3,104817,,,Tushar Liberhan,R,,IND,19.8302532512,104617,,,Arjun Goutham,R,,IND,20.8459958932,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1041,7,962,9
 2006-M-SA-IND-02A-2006d,India 2 4,Hard,32,S,20060807,4,104986,8,,Vishnu Vardhan,R,188,IND,19.0308008214,118527,,LL,Yu Da Shieh,R,,TPE,21.5222450376,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,938,10,,
 2006-M-SA-IND-02A-2006d,India 2 4,Hard,32,S,20060807,5,105233,,WC,Jeevan Nedunchezhiyan,L,,IND,17.7960301164,104684,3,,Navdeep Singh,R,,IND,20.4572210815,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1557,1,751,20
-2006-M-SA-IND-02A-2006d,India 2 4,Hard,32,S,20060807,6,103919,,Q,Kamala Kannan,U,,IND,24.5366187543,109478,,Q,Jiri Placek,U,,CZE,17.0102669405,5-7 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1441,2
+2006-M-SA-IND-02A-2006d,India 2 4,Hard,32,S,20060807,6,103919,,Q,Kamala Kannan,U,,IND,24.5366187543,109478,,Q,Kiran Nandkumar,U,,IND,20.7885010267,5-7 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1441,2
 2006-M-SA-IND-02A-2006d,India 2 4,Hard,32,S,20060807,7,103499,,,Aqeel Khan,R,,PAK,26.5188227242,103619,,,Mustafa Ghouse,R,185,IND,25.9657768652,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1022,8,1096,6
 2006-M-SA-IND-02A-2006d,India 2 4,Hard,32,S,20060807,8,105502,,WC,N Sriram Balaji,R,,IND,16.3887748118,104426,,LL,Tzu Yang Lin,U,,TPE,21.9110198494,6-0 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1557,1,,
 2006-M-SA-IND-02A-2006d,India 2 4,Hard,32,S,20060807,9,108344,,,Tai Wei Liu,L,,TPE,,104690,5,,Divij Sharan,L,,IND,20.4325804244,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1332,3,872,13
@@ -10271,7 +10271,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-SEN-02A-2006,Senegal F2,Hard,32,S,20060807,4,119773,,WC,Augustine Nwokedi,U,,NGR,21.9958932238,104568,7,,Amadeus Fulford Jones,U,,GBR,21.144421629,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,959,10
 2006-M-FU-SEN-02A-2006,Senegal F2,Hard,32,S,20060807,5,104502,3,,Amit Inbar,L,,ISR,21.4729637235,104966,,,Idan Mark,U,,ISR,19.0937713895,7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,583,38,1147,5
 2006-M-FU-SEN-02A-2006,Senegal F2,Hard,32,S,20060807,6,119515,,Q,Mlapa Tingou Akomlo,U,,TOG,17.5112936345,104130,,,Ross Connolly,R,,GBR,23.4633812457,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1237,4
-2006-M-FU-SEN-02A-2006,Senegal F2,Hard,32,S,20060807,7,120132,,SE,Angel Diankov,R,,BUL,24.7255304586,109663,,,Andy Lloyd,R,,USA,,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1198,4
+2006-M-FU-SEN-02A-2006,Senegal F2,Hard,32,S,20060807,7,120132,,SE,Angel Diankov,R,,BUL,24.7255304586,109663,,,Benjamin Janse Van Rensburg,U,,RSA,23.5482546201,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1198,4
 2006-M-FU-SEN-02A-2006,Senegal F2,Hard,32,S,20060807,8,104804,5,,Amir Weintraub,R,188,ISR,19.8904859685,120218,,WC,Omar Ka,U,,SEN,18.1711156742,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,768,20,,
 2006-M-FU-SEN-02A-2006,Senegal F2,Hard,32,S,20060807,9,104464,6,,Abdul Mumin Babalola,L,,NGR,21.6427104723,108134,,,Roberto Lopez Sanchez,R,,ESP,,6-4 1-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,785,18,1016,8
 2006-M-FU-SEN-02A-2006,Senegal F2,Hard,32,S,20060807,10,104472,,Q,Antoine Tassart,U,,FRA,21.5906913073,120219,,Q,Konstantin Blank,R,,ISR,17.3689253936,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1557,1,,
@@ -10430,7 +10430,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-VEN-05A-2006,Venezuela F2,Hard,32,S,20060807,8,103590,6,,Michael Quintero,R,,COL,26.0725530459,109271,,LL,Gregory Gumbs,U,,FRA,19.1266255989,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,560,42,1441,2
 2006-M-FU-VEN-05A-2006,Venezuela F2,Hard,32,S,20060807,9,104096,,Q,Sat Galan,R,,COL,23.6605065024,104673,8,,Julio Cesar Campozano,R,,ECU,20.514715948,6-7(1) 6-1 5-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,1557,1,716,23
 2006-M-FU-VEN-05A-2006,Venezuela F2,Hard,32,S,20060807,10,104193,,,Dane Fernandez,U,,AUS,23.2005475702,104190,,,Benoit Bottero,R,,FRA,23.2114989733,6-1 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,946,10,946,10
-2006-M-FU-VEN-05A-2006,Venezuela F2,Hard,32,S,20060807,11,105261,,WC,Roberto Maytin,R,,VEN,17.5934291581,109494,,WC,Joseph Guluzian,R,,SWE,24.7255304586,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2006-M-FU-VEN-05A-2006,Venezuela F2,Hard,32,S,20060807,11,105261,,WC,Roberto Maytin,R,,VEN,17.5934291581,109494,,WC,Pedro Ast,U,,VEN,17.9849418207,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2006-M-FU-VEN-05A-2006,Venezuela F2,Hard,32,S,20060807,12,104887,3,WC,Piero Luisi,R,,VEN,19.4031485284,111560,,Q,Alberto Gonzalez,U,,PAN,18.7488021903,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,486,54,1557,1
 2006-M-FU-VEN-05A-2006,Venezuela F2,Hard,32,S,20060807,13,103826,5,,Carlos Palencia,R,,MEX,24.9582477755,103713,,,Christoph Palmanshofer,L,,AUT,25.4647501711,1-6 7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,546,44,1204,4
 2006-M-FU-VEN-05A-2006,Venezuela F2,Hard,32,S,20060807,14,109439,,Q,Jose Ycaza,R,,ECU,,120238,,Q,Radames Ries,R,,VEN,21.9028062971,6-4 5-4 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -10863,7 +10863,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-VEN-06A-2006,Venezuela F3,Hard,32,S,20060814,7,108949,,,Jose Zunino,R,,ECU,19.5400410678,104710,,,Damian Listingart,U,,ARG,20.3696098563,6-2 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,1099,6,911,12
 2006-M-FU-VEN-06A-2006,Venezuela F3,Hard,32,S,20060814,8,104673,7,,Julio Cesar Campozano,R,,ECU,20.5338809035,105218,,,Orlando Superlano,U,,VEN,17.8973305955,7-5 3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,616,35,1105,6
 2006-M-FU-VEN-06A-2006,Venezuela F3,Hard,32,S,20060814,9,103719,8,,Ruben Torres,R,,COL,25.4702258727,104507,,Q,Jeffrey Das,R,,USA,21.4647501711,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,710,24,1336,3
-2006-M-FU-VEN-06A-2006,Venezuela F3,Hard,32,S,20060814,10,109155,,Q,Santiago Villegas,U,,COL,17.0978781656,109494,,WC,Joseph Guluzian,R,,SWE,24.7446954141,0-6 6-4 3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,1558,1,1385,2
+2006-M-FU-VEN-06A-2006,Venezuela F3,Hard,32,S,20060814,10,109155,,Q,Santiago Villegas,U,,COL,17.0978781656,109494,,WC,Pedro Ast,U,,VEN,18.0041067762,0-6 6-4 3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,1558,1,1385,2
 2006-M-FU-VEN-06A-2006,Venezuela F3,Hard,32,S,20060814,11,104118,,,Jason Zimmermann,U,,USA,23.5455167693,104828,,,Alejandro Kon,U,,ARG,19.7590691307,4-6 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1212,4,772,20
 2006-M-FU-VEN-06A-2006,Venezuela F3,Hard,32,S,20060814,12,103713,,,Christoph Palmanshofer,L,,AUT,25.4839151266,104540,3,,Chris Kwon,R,,USA,21.3278576318,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1212,4,511,50
 2006-M-FU-VEN-06A-2006,Venezuela F3,Hard,32,S,20060814,13,103590,5,,Michael Quintero,R,,COL,26.0917180014,104649,,,Juan De Armas,R,,VEN,20.6516084873,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,524,49,1029,8
@@ -11391,7 +11391,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-ECU-02A-2006,Ecuador F2,Hard,32,S,20060828,8,103727,,,Daniel Langre,R,,MEX,25.4757015743,104531,,LL,Sergio Ramirez,U,,COL,21.4072553046,6-0 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,903,11,824,16
 2006-M-FU-ECU-02A-2006,Ecuador F2,Hard,32,S,20060828,9,103590,6,,Michael Quintero,R,,COL,26.1300479124,103834,,Q,Levar Harper Griffith,R,,USA,24.9801505818,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,501,53,1129,5
 2006-M-FU-ECU-02A-2006,Ecuador F2,Hard,32,S,20060828,10,104008,,,Carlos Avellan,R,,ECU,24.2436687201,105120,,,Andres Molteni,R,,ARG,18.4531143053,6-2 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,549,45,624,33
-2006-M-FU-ECU-02A-2006,Ecuador F2,Hard,32,S,20060828,11,104126,,,Adam Kennedy,R,,AUS,23.5482546201,109494,,WC,Joseph Guluzian,R,,SWE,24.7830253251,6-7(7) 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,866,13,1365,2
+2006-M-FU-ECU-02A-2006,Ecuador F2,Hard,32,S,20060828,11,104126,,,Adam Kennedy,R,,AUS,23.5482546201,109494,,WC,Pedro Ast,U,,VEN,18.0424366872,6-7(7) 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,866,13,1365,2
 2006-M-FU-ECU-02A-2006,Ecuador F2,Hard,32,S,20060828,12,104421,4,,Martin Vilarrubi,R,,URU,21.9849418207,119060,,WC,Andres Arango,L,,ECU,18.7816563997,2-6 6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,422,71,1550,1
 2006-M-FU-ECU-02A-2006,Ecuador F2,Hard,32,S,20060828,13,104572,7,,Eric Scherer,R,,GER,21.1882272416,104673,,,Julio Cesar Campozano,R,,ECU,20.5722108145,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,517,50,587,39
 2006-M-FU-ECU-02A-2006,Ecuador F2,Hard,32,S,20060828,14,104713,,,Juan Pablo Amado,R,,ARG,20.4052019165,104270,,Q,Marvin Rolle,R,,BAH,22.7843942505,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,666,28,,
@@ -11576,7 +11576,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-POL-11A-2006,Poland F11,Clay,32,S,20060828,7,105101,,,Blazej Koniusz,R,,POL,18.5133470226,103126,,,Christian Grunes,L,,GER,28.5886379192,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,925,10,1041,7
 2006-M-FU-POL-11A-2006,Poland F11,Clay,32,S,20060828,8,104295,6,,Raphael Durek,R,188,AUS,22.5681040383,120318,,WC,Aleksander Korzeniewicz,U,,POL,18.6475017112,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,599,38,,
 2006-M-FU-POL-11A-2006,Poland F11,Clay,32,S,20060828,9,103748,7,SE,Jan Minar,R,,CZE,25.3853524983,105016,,,Serguei Tarasevitch,R,,BLR,18.9349760438,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,633,31,938,10
-2006-M-FU-POL-11A-2006,Poland F11,Clay,32,S,20060828,10,104336,,,Gvidas Sabeckis,R,,LTU,22.4202600958,109465,,Q,Kong Pop Lertchai,U,,THA,,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,868,13,1550,1
+2006-M-FU-POL-11A-2006,Poland F11,Clay,32,S,20060828,10,104336,,,Gvidas Sabeckis,R,,LTU,22.4202600958,209469,,Q,Octavian Nicodim,U,,ROU,23.9644079398,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,868,13,1550,1
 2006-M-FU-POL-11A-2006,Poland F11,Clay,32,S,20060828,11,109274,,WC,Pawel Syrewicz,R,,POL,19.40862423,104375,,LL,Marek Pokrywka,R,,POL,22.2559890486,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1232,4,1550,1
 2006-M-FU-POL-11A-2006,Poland F11,Clay,32,S,20060828,12,103860,3,,Timo Nieminen,R,185,FIN,24.8925393566,103923,,,Radoslaw Nijaki,R,,POL,24.5886379192,6-2 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,498,53,753,21
 2006-M-FU-POL-11A-2006,Poland F11,Clay,32,S,20060828,13,104162,8,,Deniss Pavlovs,R,,LAT,23.370294319,119497,,LL,Ivan Tsiganov,R,,RUS,21.8042436687,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,706,24,,
@@ -13123,7 +13123,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-VEN-07A-2006,Venezuela F4,Clay,32,S,20060925,12,104008,3,,Carlos Avellan,R,,ECU,24.3203285421,105292,,,Alejandro Gonzalez,R,,COL,17.6290212183,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,523,49,939,10
 2006-M-FU-VEN-07A-2006,Venezuela F4,Clay,32,S,20060925,13,104531,8,,Sergio Ramirez,U,,COL,21.4839151266,104972,,Q,Mauricio Alvarez Guzman,R,,CHI,19.2114989733,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,815,16,,
 2006-M-FU-VEN-07A-2006,Venezuela F4,Clay,32,S,20060925,14,108785,,Q,Anthony Marshall,U,,BAR,21.2511978097,120244,,Q,Andres Quijada,R,,VEN,16.3805612594,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2006-M-FU-VEN-07A-2006,Venezuela F4,Clay,32,S,20060925,15,120238,,WC,Radames Ries,R,,VEN,22.0369609856,109494,,,Joseph Guluzian,R,,SWE,24.8596851472,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1374,2
+2006-M-FU-VEN-07A-2006,Venezuela F4,Clay,32,S,20060925,15,120238,,WC,Radames Ries,R,,VEN,22.0369609856,109494,,,Pedro Ast,U,,VEN,18.1190965092,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1374,2
 2006-M-FU-VEN-07A-2006,Venezuela F4,Clay,32,S,20060925,16,120245,,Q,Enrique Gonzalez,R,,VEN,21.273100616,120246,,LL,Angel Marquez,R,,VEN,15.3730321697,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2006-M-FU-VEN-07A-2006,Venezuela F4,Clay,32,S,20060925,17,108628,1,,Jhonnatan Medina Alvarez,L,,VEN,24.7008898015,105219,,WC,Miguel Cicenia,R,,VEN,18.0095824778,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2006-M-FU-VEN-07A-2006,Venezuela F4,Clay,32,S,20060925,18,103719,6,,Ruben Torres,R,,COL,25.5852156057,102655,,WC,Jimy Szymanski,R,175,VEN,31.0280629706,5-7 6-3 3-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,677,28,854,14
@@ -13504,7 +13504,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-USA-25A-2006,USA F25,Hard,32,S,20061002,29,104292,,,Izak Van Der Merwe,R,196,RSA,22.6830937714,105166,,Q,Peter Polansky,R,180,CAN,18.2970568104,6-2 5-7 6-3,3,SF,,,,,,,,,,,,,,,,,,,,559,43,866,13
 2006-M-FU-USA-25A-2006,USA F25,Hard,32,S,20061002,30,104001,2,Q,Brian Wilson,R,190,USA,24.3613963039,104138,3,,Henry Adjei Darko,U,,GHA,23.5920602327,4-6 6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,317,114,397,84
 2006-M-FU-USA-25A-2006,USA F25,Hard,32,S,20061002,31,104001,2,Q,Brian Wilson,R,190,USA,24.3613963039,104292,,,Izak Van Der Merwe,R,196,RSA,22.6830937714,6-7(5) 6-2 6-4,3,F,,,,,,,,,,,,,,,,,,,,317,114,559,43
-2006-M-FU-VEN-08A-2006,Venezuela F5,Hard,32,S,20061002,1,103286,1,,Yohny Romero,R,,VEN,27.8384668036,109494,,WC,Joseph Guluzian,R,,SWE,24.8788501027,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,289,130,,
+2006-M-FU-VEN-08A-2006,Venezuela F5,Hard,32,S,20061002,1,103286,1,,Yohny Romero,R,,VEN,27.8384668036,109494,,WC,Pedro Ast,U,,VEN,18.1382614648,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,289,130,,
 2006-M-FU-VEN-08A-2006,Venezuela F5,Hard,32,S,20061002,2,104601,,Q,Marin Bradaric,R,,CRO,21.0732375086,103719,,,Ruben Torres,R,,COL,25.6043805613,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1282,3,684,28
 2006-M-FU-VEN-08A-2006,Venezuela F5,Hard,32,S,20061002,3,104531,,,Sergio Ramirez,U,,COL,21.5030800821,104394,,Q,Marc Auradou,R,,FRA,22.2313483915,6-4 6-7(2) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,819,16,,
 2006-M-FU-VEN-08A-2006,Venezuela F5,Hard,32,S,20061002,4,108918,,Q,Favel Antonio Freyre Perdomo,U,,CUB,20.5968514716,104503,6,,Guillermo Hormazabal,R,,CHI,21.6153319644,3-6 6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,548,45
@@ -13702,7 +13702,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-NAM-01A-2006,Nambia F1,Hard,32,S,20061009,10,105094,,Q,Paris Gemouchidis,R,175,GRE,18.6557152635,119914,,Q,Gregg Le Sueur,U,,RSA,24.7036276523,7-6(3) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2006-M-FU-NAM-01A-2006,Nambia F1,Hard,32,S,20061009,11,118575,,WC,Johan Theron,U,,NAM,31.0828199863,120364,,Q,Alex Johnston,R,,GBR,17.9657768652,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2006-M-FU-NAM-01A-2006,Nambia F1,Hard,32,S,20061009,12,119972,,LL,Rikus Becker,U,,RSA,17.8507871321,120399,,WC,Jacobus Serdyn,U,,NAM,16.2683093771,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2006-M-FU-NAM-01A-2006,Nambia F1,Hard,32,S,20061009,13,109663,7,,Andy Lloyd,R,,USA,,119780,,Q,Jeswin Jolly,U,,USA,24.1560574949,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1151,5,,
+2006-M-FU-NAM-01A-2006,Nambia F1,Hard,32,S,20061009,13,109663,7,,Benjamin Janse Van Rensburg,U,,RSA,23.7207392197,119780,,Q,Jeswin Jolly,U,,USA,24.1560574949,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1151,5,,
 2006-M-FU-NAM-01A-2006,Nambia F1,Hard,32,S,20061009,14,104130,,,Ross Connolly,R,,GBR,23.6358658453,119907,,Q,Dmitry Sventitsky,R,,RUS,17.8562628337,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1425,2,,
 2006-M-FU-NAM-01A-2006,Nambia F1,Hard,32,S,20061009,15,110581,,Q,Henrik Soderberg,U,,SWE,25.6427104723,110700,,,Troy Gillham,R,,AUS,24.5941136208,4-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1425,2
 2006-M-FU-NAM-01A-2006,Nambia F1,Hard,32,S,20061009,16,104402,2,,Clement Morel,R,,MON,22.2313483915,104862,,,Matus Horecny,R,,SVK,19.6906228611,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,809,16,1323,3
@@ -13712,7 +13712,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-NAM-01A-2006,Nambia F1,Hard,32,S,20061009,20,104957,,Q,Richard Ruckelshausen,R,,AUT,19.3073237509,119248,,LL,Dmitry Ivanov,R,,UZB,18.8062970568,6-1 1-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2006-M-FU-NAM-01A-2006,Nambia F1,Hard,32,S,20061009,21,105094,,Q,Paris Gemouchidis,R,175,GRE,18.6557152635,104568,5,,Amadeus Fulford Jones,U,,GBR,21.3169062286,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,1102,6
 2006-M-FU-NAM-01A-2006,Nambia F1,Hard,32,S,20061009,22,118575,,WC,Johan Theron,U,,NAM,31.0828199863,119972,,LL,Rikus Becker,U,,RSA,17.8507871321,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,,
-2006-M-FU-NAM-01A-2006,Nambia F1,Hard,32,S,20061009,23,104130,,,Ross Connolly,R,,GBR,23.6358658453,109663,7,,Andy Lloyd,R,,USA,,6-4 6-7(2) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1425,2,1151,5
+2006-M-FU-NAM-01A-2006,Nambia F1,Hard,32,S,20061009,23,104130,,,Ross Connolly,R,,GBR,23.6358658453,109663,7,,Benjamin Janse Van Rensburg,U,,RSA,23.7207392197,6-4 6-7(2) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1425,2,1151,5
 2006-M-FU-NAM-01A-2006,Nambia F1,Hard,32,S,20061009,24,104402,2,,Clement Morel,R,,MON,22.2313483915,110581,,Q,Henrik Soderberg,U,,SWE,25.6427104723,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,809,16,,
 2006-M-FU-NAM-01A-2006,Nambia F1,Hard,32,S,20061009,25,103996,,LL,Paul Warkentin,R,,USA,24.4106776181,104696,1,,Bogdan Leonte,R,,ROU,20.5886379192,7-6(5) 6-7(5) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,619,34
 2006-M-FU-NAM-01A-2006,Nambia F1,Hard,32,S,20061009,26,103619,4,,Mustafa Ghouse,R,185,IND,26.1382614648,104957,,Q,Richard Ruckelshausen,R,,AUT,19.3073237509,3-6 6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,1052,7,,
@@ -13757,7 +13757,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-POR-04A-2006,Portugal F4,Hard,32,S,20061009,3,105043,,,Marek Semjan,U,,SVK,18.9212867899,120049,,WC,Francisco Lourenco,U,,POR,17.9794661191,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,635,32,,
 2006-M-FU-POR-04A-2006,Portugal F4,Hard,32,S,20061009,4,105217,8,,Thiemo De Bakker,R,193,NED,18.0533880903,105413,,LL,Andrej Martin,R,180,SVK,17.0513347023,6-7(5) 6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,628,32,,
 2006-M-FU-POR-04A-2006,Portugal F4,Hard,32,S,20061009,5,104813,3,,Grega Zemlja,R,183,SLO,20.0273785079,104598,,,David Savic,R,,SRB,21.1279945243,7-6(8) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,316,115,681,28
-2006-M-FU-POR-04A-2006,Portugal F4,Hard,32,S,20061009,6,105155,,WC,Pedro Sousa,R,180,POR,18.3682409309,109465,,LL,Kong Pop Lertchai,U,,THA,14.1026694045,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1542,1
+2006-M-FU-POR-04A-2006,Portugal F4,Hard,32,S,20061009,6,105155,,WC,Pedro Sousa,R,180,POR,18.3682409309,209469,,LL,Octavian Nicodim,U,,ROU,24.0793976728,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1542,1
 2006-M-FU-POR-04A-2006,Portugal F4,Hard,32,S,20061009,7,104275,,,Josko Topic,U,,CRO,22.8364134155,104772,,WC,Jose Ricardo Nunes,R,,POR,20.2108145106,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,975,9,,
 2006-M-FU-POR-04A-2006,Portugal F4,Hard,32,S,20061009,8,104454,5,,Murad Inoyatov,R,,UZB,21.9028062971,105373,,Q,Martin Klizan,L,190,SVK,17.2457221081,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,555,44,1425,2
 2006-M-FU-POR-04A-2006,Portugal F4,Hard,32,S,20061009,9,104028,6,,Goncalo Nicau,U,,POR,24.2683093771,103697,,,Marcio Torres,R,185,BRA,25.7056810404,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,582,41,1059,7
@@ -13827,7 +13827,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-VEN-09A-2006,Venezuela F6,Hard,32,S,20061009,11,103713,,,Christoph Palmanshofer,L,,AUT,25.6372347707,104828,,,Alejandro Kon,U,,ARG,19.9123887748,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1156,5,834,15
 2006-M-FU-VEN-09A-2006,Venezuela F6,Hard,32,S,20061009,12,104942,,,Roman Recarte,U,,VEN,19.3401779603,104887,3,,Piero Luisi,R,,VEN,19.575633128,3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,679,28,489,54
 2006-M-FU-VEN-09A-2006,Venezuela F6,Hard,32,S,20061009,13,104892,8,,David Navarrete,L,,VEN,19.5400410678,104507,,LL,Jeffrey Das,R,,USA,21.6180698152,6-3 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,642,31,1242,4
-2006-M-FU-VEN-09A-2006,Venezuela F6,Hard,32,S,20061009,14,111687,,WC,Karim Ben Mansour,U,,MAR,26.7898699521,109494,,WC,Joseph Guluzian,R,,SWE,24.8980150582,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1370,2
+2006-M-FU-VEN-09A-2006,Venezuela F6,Hard,32,S,20061009,14,111687,,WC,Karim Ben Mansour,U,,MAR,26.7898699521,109494,,WC,Pedro Ast,U,,VEN,18.1574264203,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1370,2
 2006-M-FU-VEN-09A-2006,Venezuela F6,Hard,32,S,20061009,15,104601,,,Marin Bradaric,R,,CRO,21.0924024641,108651,,Q,Sandor Martinez Breijo,R,,CUB,25.5523613963,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1271,3,,
 2006-M-FU-VEN-09A-2006,Venezuela F6,Hard,32,S,20061009,16,108628,2,,Jhonnatan Medina Alvarez,L,,VEN,24.7392197125,104531,,Q,Sergio Ramirez,U,,COL,21.5222450376,6-3 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,790,17
 2006-M-FU-VEN-09A-2006,Venezuela F6,Hard,32,S,20061009,17,103286,1,,Yohny Romero,R,,VEN,27.8576317591,104621,,,Juan Manuel Valverde,R,,ARG,20.9965776865,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,307,118,786,18
@@ -13859,7 +13859,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-BOT-01A-2006,Botswana F1,Hard,32,S,20061016,12,103109,4,,Talal Ouahabi,R,,MAR,28.7693360712,104862,,,Matus Horecny,R,,SVK,19.7097878166,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,709,24,1321,3
 2006-M-FU-BOT-01A-2006,Botswana F1,Hard,32,S,20061016,13,103226,7,,Walid Jallali,R,,TUN,28.295687885,104130,,,Ross Connolly,R,,GBR,23.6550308008,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,996,8,1321,3
 2006-M-FU-BOT-01A-2006,Botswana F1,Hard,32,S,20061016,14,108780,,WC,Lofo Ramiaramanana,L,,MAD,17.3388090349,119914,,Q,Gregg Le Sueur,U,,RSA,24.7227926078,7-6(6) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2006-M-FU-BOT-01A-2006,Botswana F1,Hard,32,S,20061016,15,109663,,,Andy Lloyd,R,,USA,,110581,,Q,Henrik Soderberg,U,,SWE,25.6618754278,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1148,5,,
+2006-M-FU-BOT-01A-2006,Botswana F1,Hard,32,S,20061016,15,109663,,,Benjamin Janse Van Rensburg,U,,RSA,23.7399041752,110581,,Q,Henrik Soderberg,U,,SWE,25.6618754278,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1148,5,,
 2006-M-FU-BOT-01A-2006,Botswana F1,Hard,32,S,20061016,16,104696,2,,Bogdan Leonte,R,,ROU,20.6078028747,104104,,,Gilles De Sousa,U,,FRA,23.7973990418,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,606,37,1278,3
 2006-M-FU-BOT-01A-2006,Botswana F1,Hard,32,S,20061016,17,103600,1,,Mohammad Ghareeb,R,,KUW,26.2340862423,104957,,Q,Richard Ruckelshausen,R,,AUT,19.3264887064,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,396,83,,
 2006-M-FU-BOT-01A-2006,Botswana F1,Hard,32,S,20061016,18,102530,5,,Pieter Calitz,R,,RSA,31.6741957563,105175,,,Kristijan Mesaros,R,,CRO,18.288843258,5-7 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,929,10,1148,5
@@ -13868,11 +13868,11 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-BOT-01A-2006,Botswana F1,Hard,32,S,20061016,21,110700,,,Troy Gillham,R,,AUS,24.6132785763,104568,8,,Amadeus Fulford Jones,U,,GBR,21.3360711841,6-4 5-7 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1321,3,1102,6
 2006-M-FU-BOT-01A-2006,Botswana F1,Hard,32,S,20061016,22,103109,4,,Talal Ouahabi,R,,MAR,28.7693360712,105094,,SE,Paris Gemouchidis,R,175,GRE,18.674880219,6-2 3-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,709,24,,
 2006-M-FU-BOT-01A-2006,Botswana F1,Hard,32,S,20061016,23,103226,7,,Walid Jallali,R,,TUN,28.295687885,108780,,WC,Lofo Ramiaramanana,L,,MAD,17.3388090349,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,996,8,,
-2006-M-FU-BOT-01A-2006,Botswana F1,Hard,32,S,20061016,24,109663,,,Andy Lloyd,R,,USA,,104696,2,,Bogdan Leonte,R,,ROU,20.6078028747,6-1 5-7 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1148,5,606,37
+2006-M-FU-BOT-01A-2006,Botswana F1,Hard,32,S,20061016,24,109663,,,Benjamin Janse Van Rensburg,U,,RSA,23.7399041752,104696,2,,Bogdan Leonte,R,,ROU,20.6078028747,6-1 5-7 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1148,5,606,37
 2006-M-FU-BOT-01A-2006,Botswana F1,Hard,32,S,20061016,25,102530,5,,Pieter Calitz,R,,RSA,31.6741957563,103600,1,,Mohammad Ghareeb,R,,KUW,26.2340862423,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,929,10,396,83
 2006-M-FU-BOT-01A-2006,Botswana F1,Hard,32,S,20061016,26,104402,3,,Clement Morel,R,,MON,22.250513347,103619,6,,Mustafa Ghouse,R,185,IND,26.1574264203,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,809,16,1051,7
 2006-M-FU-BOT-01A-2006,Botswana F1,Hard,32,S,20061016,27,103109,4,,Talal Ouahabi,R,,MAR,28.7693360712,110700,,,Troy Gillham,R,,AUS,24.6132785763,3-6 6-0 6-1,3,QF,,,,,,,,,,,,,,,,,,,,709,24,1321,3
-2006-M-FU-BOT-01A-2006,Botswana F1,Hard,32,S,20061016,28,103226,7,,Walid Jallali,R,,TUN,28.295687885,109663,,,Andy Lloyd,R,,USA,,6-2 7-6(1),3,QF,,,,,,,,,,,,,,,,,,,,996,8,1148,5
+2006-M-FU-BOT-01A-2006,Botswana F1,Hard,32,S,20061016,28,103226,7,,Walid Jallali,R,,TUN,28.295687885,109663,,,Benjamin Janse Van Rensburg,U,,RSA,23.7399041752,6-2 7-6(1),3,QF,,,,,,,,,,,,,,,,,,,,996,8,1148,5
 2006-M-FU-BOT-01A-2006,Botswana F1,Hard,32,S,20061016,29,104402,3,,Clement Morel,R,,MON,22.250513347,102530,5,,Pieter Calitz,R,,RSA,31.6741957563,6-4 0-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,809,16,929,10
 2006-M-FU-BOT-01A-2006,Botswana F1,Hard,32,S,20061016,30,103109,4,,Talal Ouahabi,R,,MAR,28.7693360712,103226,7,,Walid Jallali,R,,TUN,28.295687885,6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,709,24,996,8
 2006-M-FU-BOT-01A-2006,Botswana F1,Hard,32,S,20061016,31,103109,4,,Talal Ouahabi,R,,MAR,28.7693360712,104402,3,,Clement Morel,R,,MON,22.250513347,4-6 7-6(6) 6-3,3,F,,,,,,,,,,,,,,,,,,,,709,24,809,16
@@ -13909,7 +13909,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-BRA-15A-2006,Brazil F15,Clay,32,S,20061016,31,104738,8,,Caio Zampieri,R,183,BRA,20.3887748118,105498,,Q,Rafael Camilo,U,,BRA,16.5941136208,6-3 6-2,3,F,,,,,,,,,,,,,,,,,,,,556,44,1415,2
 2006-M-FU-FRA-18A-2006,France F18,Hard,32,S,20061016,1,102571,1,,Gregory Carraz,R,190,FRA,31.5208761123,103691,,Q,Baptiste Dupuy,L,,FRA,25.7467488022,6-7(2) 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,216,185,,
 2006-M-FU-FRA-18A-2006,France F18,Hard,32,S,20061016,2,104586,,,Lukas Rosol,R,196,CZE,21.2292950034,104579,,Q,Romain Jouan,R,183,FRA,21.2511978097,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,369,92,928,10
-2006-M-FU-FRA-18A-2006,France F18,Hard,32,S,20061016,3,104535,,,Daniel Garza,R,,MEX,21.5222450376,109477,,WC,Ruslan Miroshnichenko,U,,UKR,,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,419,73,1537,1
+2006-M-FU-FRA-18A-2006,France F18,Hard,32,S,20061016,3,104535,,,Daniel Garza,R,,MEX,21.5222450376,109477,,WC,Vincent Sapene,R,,FRA,17.6043805613,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,419,73,1537,1
 2006-M-FU-FRA-18A-2006,France F18,Hard,32,S,20061016,4,102512,6,,Joseph Sirianni,R,175,AUS,31.7453798768,104397,,,Laurent Recouderc,R,,FRA,22.2669404517,3-6 7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,309,118,366,93
 2006-M-FU-FRA-18A-2006,France F18,Hard,32,S,20061016,5,104816,,,Karan Rastogi,R,178,IND,20.0219028063,104121,4,,Tobias Summerer,R,185,GER,23.704312115,6-1 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,479,56,230,174
 2006-M-FU-FRA-18A-2006,France F18,Hard,32,S,20061016,6,105238,,,Alexandr Dolgopolov,R,180,UKR,17.9383983573,104023,,Q,Nicolas Renavand,R,,FRA,24.3093771389,6-4 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,358,96,575,42
@@ -13952,7 +13952,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-GBR-16A-2006,Great Britain F16,Hard,32,S,20061016,12,104623,4,,Josh Goodall,R,188,GBR,20.9965776865,110488,,Q,Boris Obama,U,,FRA,18.6694045175,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2006-M-FU-GBR-16A-2006,Great Britain F16,Hard,32,S,20061016,13,103851,,,Conor Niland,R,185,IRL,25.0732375086,103611,7,,Giancarlo Petrazzuolo,R,,ITA,26.1902806297,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,522,50,372,91
 2006-M-FU-GBR-16A-2006,Great Britain F16,Hard,32,S,20061016,14,104506,,Q,David Brewer,R,,GBR,21.6399726215,104577,,Q,Richard Irwin,R,,GBR,21.2621492129,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,900,12,876,13
-2006-M-FU-GBR-16A-2006,Great Britain F16,Hard,32,S,20061016,15,104747,,Q,Tom Rushby,R,,GBR,20.3668720055,109463,,WC,Francisco Carrillo,U,,ESP,24.4106776181,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,654,29,,
+2006-M-FU-GBR-16A-2006,Great Britain F16,Hard,32,S,20061016,15,104747,,Q,Tom Rushby,R,,GBR,20.3668720055,109463,,WC,Graeme Dyce,R,,GBR,17.2292950034,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,654,29,,
 2006-M-FU-GBR-16A-2006,Great Britain F16,Hard,32,S,20061016,16,104195,2,,Simone Vagnozzi,R,173,ITA,23.3812457221,104485,,,Nick Van Der Meer,U,,NED,21.7412731006,6-1 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,209,194,415,74
 2006-M-FU-GBR-16A-2006,Great Britain F16,Hard,32,S,20061016,17,104140,,,Dawid Olejniczak,R,,POL,23.627652293,104262,1,,Flavio Cipolla,R,173,ITA,22.9897330595,6-3 4-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,426,71,206,196
 2006-M-FU-GBR-16A-2006,Great Britain F16,Hard,32,S,20061016,18,104997,5,,Igor Sijsling,R,190,NED,19.1622176591,104504,,Q,Ross Hutchins,R,190,GBR,21.6454483231,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,303,121,613,35
@@ -14138,7 +14138,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-VEN-10A-2006,Venezuela F7,Hard,32,S,20061016,12,103905,,,Ricardo Chile Fonte,U,,CUB,24.772073922,104887,3,,Piero Luisi,R,,VEN,19.5947980835,4-6 4-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,540,46
 2006-M-FU-VEN-10A-2006,Venezuela F7,Hard,32,S,20061016,13,103719,7,Q,Ruben Torres,R,,COL,25.6427104723,105219,,Q,Miguel Cicenia,R,,VEN,18.0670773443,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,666,29,1537,1
 2006-M-FU-VEN-10A-2006,Venezuela F7,Hard,32,S,20061016,14,104621,,,Juan Manuel Valverde,R,,ARG,21.015742642,105035,,,Federico Cataldi,R,,ARG,18.9733059548,6-0 1-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,836,15,1095,6
-2006-M-FU-VEN-10A-2006,Venezuela F7,Hard,32,S,20061016,15,120084,,Q,Freddy Luciani,U,,VEN,23.3292265572,109494,,,Joseph Guluzian,R,,SWE,24.9171800137,7-6(2) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,1362,2
+2006-M-FU-VEN-10A-2006,Venezuela F7,Hard,32,S,20061016,15,120084,,Q,Freddy Luciani,U,,VEN,23.3292265572,109494,,,Pedro Ast,U,,VEN,18.1765913758,7-6(2) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,1362,2
 2006-M-FU-VEN-10A-2006,Venezuela F7,Hard,32,S,20061016,16,108628,2,,Jhonnatan Medina Alvarez,L,,VEN,24.758384668,119984,,WC,Claudio Romano,R,,VEN,16.5037645448,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2006-M-FU-VEN-10A-2006,Venezuela F7,Hard,32,S,20061016,17,103286,1,,Yohny Romero,R,,VEN,27.8767967146,120238,,Q,Radames Ries,R,,VEN,22.0944558522,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,302,122,1537,1
 2006-M-FU-VEN-10A-2006,Venezuela F7,Hard,32,S,20061016,18,104394,,Q,Marc Auradou,R,,FRA,22.2696783025,104118,,,Jason Zimmermann,U,,USA,23.7180013689,6-3 2-6 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,,,976,9
@@ -14411,7 +14411,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-RSA-01A-2006,South Africa F1,Hard,32,S,20061023,6,104862,,,Matus Horecny,R,,SVK,19.7289527721,103355,,,Sunday Maku,U,,NGR,27.5564681725,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1325,3,1532,1
 2006-M-FU-RSA-01A-2006,South Africa F1,Hard,32,S,20061023,7,109673,,WC,Damian Hume,R,,RSA,17.5359342916,104886,,,Jurgens Strydom,R,,NAM,19.613963039,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1256,4
 2006-M-FU-RSA-01A-2006,South Africa F1,Hard,32,S,20061023,8,110581,,Q,Henrik Soderberg,U,,SWE,25.6810403833,104267,5,,Maxime Bonami,R,,FRA,22.945927447,4-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1532,1,1002,8
-2006-M-FU-RSA-01A-2006,South Africa F1,Hard,32,S,20061023,9,109663,7,,Andy Lloyd,R,,USA,,105169,,WC,Jean Andersen,R,,RSA,18.3490759754,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1220,4,,
+2006-M-FU-RSA-01A-2006,South Africa F1,Hard,32,S,20061023,9,109663,7,,Benjamin Janse Van Rensburg,U,,RSA,23.7590691307,105169,,WC,Jean Andersen,R,,RSA,18.3490759754,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1220,4,,
 2006-M-FU-RSA-01A-2006,South Africa F1,Hard,32,S,20061023,10,108780,,WC,Lofo Ramiaramanana,L,,MAD,17.3579739904,120400,,Q,Dawie Eybers,U,,RSA,27.9698836413,3-6 6-3 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2006-M-FU-RSA-01A-2006,South Africa F1,Hard,32,S,20061023,11,111365,,,Christian Vitulli,U,,KEN,18.5763175907,110722,,,Thomas Cristian Hodel,R,,ROU,18.1820670773,4-6 6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1220,4,1107,6
 2006-M-FU-RSA-01A-2006,South Africa F1,Hard,32,S,20061023,12,102530,4,,Pieter Calitz,R,,RSA,31.6933607118,109697,,,Robert Dee,R,,GBR,19.7618069815,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,990,8,1532,1
@@ -14423,13 +14423,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-RSA-01A-2006,South Africa F1,Hard,32,S,20061023,18,119517,,Q,Emmanuel Mensah,R,,GHA,17.8535249829,104568,6,,Amadeus Fulford Jones,U,,GBR,21.3552361396,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,1062,7
 2006-M-FU-RSA-01A-2006,South Africa F1,Hard,32,S,20061023,19,104402,3,,Clement Morel,R,,MON,22.2696783025,104862,,,Matus Horecny,R,,SVK,19.7289527721,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,751,20,1325,3
 2006-M-FU-RSA-01A-2006,South Africa F1,Hard,32,S,20061023,20,109673,,WC,Damian Hume,R,,RSA,17.5359342916,110581,,Q,Henrik Soderberg,U,,SWE,25.6810403833,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,1532,1
-2006-M-FU-RSA-01A-2006,South Africa F1,Hard,32,S,20061023,21,109663,7,,Andy Lloyd,R,,USA,,108780,,WC,Lofo Ramiaramanana,L,,MAD,17.3579739904,7-5 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1220,4,,
+2006-M-FU-RSA-01A-2006,South Africa F1,Hard,32,S,20061023,21,109663,7,,Benjamin Janse Van Rensburg,U,,RSA,23.7590691307,108780,,WC,Lofo Ramiaramanana,L,,MAD,17.3579739904,7-5 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1220,4,,
 2006-M-FU-RSA-01A-2006,South Africa F1,Hard,32,S,20061023,22,102530,4,,Pieter Calitz,R,,RSA,31.6933607118,111365,,,Christian Vitulli,U,,KEN,18.5763175907,7-6(6) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,990,8,1220,4
 2006-M-FU-RSA-01A-2006,South Africa F1,Hard,32,S,20061023,23,104130,,,Ross Connolly,R,,GBR,23.6741957563,110700,,,Troy Gillham,R,,AUS,24.6324435318,6-1 2-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1158,5,1325,3
 2006-M-FU-RSA-01A-2006,South Africa F1,Hard,32,S,20061023,24,104696,2,,Bogdan Leonte,R,,ROU,20.6269678303,104153,,Q,Heinrich Heyl,R,,RSA,23.5619438741,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,599,38,,
 2006-M-FU-RSA-01A-2006,South Africa F1,Hard,32,S,20061023,25,103600,1,,Mohammad Ghareeb,R,,KUW,26.2532511978,119517,,Q,Emmanuel Mensah,R,,GHA,17.8535249829,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,394,83,,
 2006-M-FU-RSA-01A-2006,South Africa F1,Hard,32,S,20061023,26,104402,3,,Clement Morel,R,,MON,22.2696783025,109673,,WC,Damian Hume,R,,RSA,17.5359342916,6-3 1-6 6-0,3,QF,,,,,,,,,,,,,,,,,,,,751,20,,
-2006-M-FU-RSA-01A-2006,South Africa F1,Hard,32,S,20061023,27,102530,4,,Pieter Calitz,R,,RSA,31.6933607118,109663,7,,Andy Lloyd,R,,USA,,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,990,8,1220,4
+2006-M-FU-RSA-01A-2006,South Africa F1,Hard,32,S,20061023,27,102530,4,,Pieter Calitz,R,,RSA,31.6933607118,109663,7,,Benjamin Janse Van Rensburg,U,,RSA,23.7590691307,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,990,8,1220,4
 2006-M-FU-RSA-01A-2006,South Africa F1,Hard,32,S,20061023,28,104696,2,,Bogdan Leonte,R,,ROU,20.6269678303,104130,,,Ross Connolly,R,,GBR,23.6741957563,6-4 3-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,599,38,1158,5
 2006-M-FU-RSA-01A-2006,South Africa F1,Hard,32,S,20061023,29,104402,3,,Clement Morel,R,,MON,22.2696783025,103600,1,,Mohammad Ghareeb,R,,KUW,26.2532511978,6-3 4-6 7-5,3,SF,,,,,,,,,,,,,,,,,,,,751,20,394,83
 2006-M-FU-RSA-01A-2006,South Africa F1,Hard,32,S,20061023,30,102530,4,,Pieter Calitz,R,,RSA,31.6933607118,104696,2,,Bogdan Leonte,R,,ROU,20.6269678303,6-4 7-5,3,SF,,,,,,,,,,,,,,,,,,,,990,8,599,38
@@ -14595,7 +14595,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-IRI-05A-2006,Iran F5,Clay,32,S,20061030,4,103891,,,Alexandros Jakupovic,R,,GRE,24.8761122519,104185,7,,Dusan Karol,R,,CZE,23.4496919918,3-6 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,629,32,501,53
 2006-M-FU-IRI-05A-2006,Iran F5,Clay,32,S,20061030,5,103600,4,,Mohammad Ghareeb,R,,KUW,26.2724161533,103803,,WC,Ashkan Shokoofi,U,,IRI,25.3086926762,6-4 3-6 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,383,85,1086,6
 2006-M-FU-IRI-05A-2006,Iran F5,Clay,32,S,20061030,6,104880,,LL,Egor Puntus,R,,BLR,19.665982204,119014,,,Ravi Shankar Pathanjali,L,,IND,24.3258042437,3-6 6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,920,11,,
-2006-M-FU-IRI-05A-2006,Iran F5,Clay,32,S,20061030,7,104832,,Q,Christoph Lessiak,R,,AUT,19.9425051335,104212,,LL,Joseph Huber,R,,AUT,23.3100616016,6-0,3,R32,,,,,,,,,,,,,,,,,,,,1367,2,1147,5
+2006-M-FU-IRI-05A-2006,Iran F5,Clay,32,S,20061030,7,104832,,Q,Christoph Lessiak,R,,AUT,19.9425051335,104212,,LL,Joseph Huber,R,,AUT,23.3100616016,Jun-00,3,R32,,,,,,,,,,,,,,,,,,,,1367,2,1147,5
 2006-M-FU-IRI-05A-2006,Iran F5,Clay,32,S,20061030,8,103949,6,,Ivan Cerovic,L,190,CRO,24.6652977413,104674,,LL,Bertram Steinberger,R,,AUT,20.7419575633,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,462,60,1223,4
 2006-M-FU-IRI-05A-2006,Iran F5,Clay,32,S,20061030,9,103467,5,,Victor Bruthans,R,,SVK,26.9733059548,109274,,Q,Pawel Syrewicz,R,,POL,19.5811088296,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,394,81,1260,4
 2006-M-FU-IRI-05A-2006,Iran F5,Clay,32,S,20061030,10,105103,,,Pavel Katliarov,R,,BLR,18.6858316222,105148,,,Hsin Han Lee,R,,TPE,18.4476386037,4-6 6-4 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,864,13,731,22

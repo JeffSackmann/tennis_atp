@@ -123,7 +123,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-1606,Donetsk CH,Hard,32,C,20080908,11,104783,,,Mikhail Ledovskikh,R,188,RUS,22.0862422998,105189,,,Pavel Chekhov,R,,RUS,20.1177275838,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,272,136,243,156
 2008-1606,Donetsk CH,Hard,32,C,20080908,12,104869,,WC,Sergei Bubka,R,,UKR,21.5770020534,104797,4,,Denis Istomin,R,188,UZB,22.0041067762,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,349,96,122,386
 2008-1606,Donetsk CH,Hard,32,C,20080908,13,104677,,,Artem Sitak,R,,NZL,22.5817932923,103598,8,,Xavier Malisse,R,185,BEL,28.1396303901,4-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,357,94,163,263
-2008-1606,Donetsk CH,Hard,32,C,20080908,14,105011,,,Illya Marchenko,R,185,UKR,21.0020533881,109477,,WC,Ruslan Miroshnichenko,U,,UKR,,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,234,161,,
+2008-1606,Donetsk CH,Hard,32,C,20080908,14,105011,,,Illya Marchenko,R,185,UKR,21.0020533881,209481,,WC,Ruslan Miroshnichenko,U,,UKR,,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,234,161,,
 2008-1606,Donetsk CH,Hard,32,C,20080908,15,104505,,,Konstantin Kravchuk,R,190,RUS,23.5400410678,101868,,,Dick Norman,L,203,BEL,37.5249828884,6-2 1-6 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,309,111,319,106
 2008-1606,Donetsk CH,Hard,32,C,20080908,16,104534,2,,Dudi Sela,R,175,ISR,23.4305270363,103103,,WC,Dominik Hrbaty,R,183,SVK,30.6776180698,6-4 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,90,514,396,81
 2008-1606,Donetsk CH,Hard,32,C,20080908,17,103857,1,,Igor Kunitsyn,R,180,RUS,26.9404517454,103580,,,Alexander Peya,R,183,AUT,28.1998631075,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,76,551,168,256
@@ -259,7 +259,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-1741,Busan CH,Hard,32,C,20080414,11,102300,,,Gouichi Motomura,R,173,JPN,34.302532512,103949,,,Ivan Cerovic,L,190,CRO,26.12183436,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,335,100,283,129
 2008-1741,Busan CH,Hard,32,C,20080414,12,103709,4,,Kristian Pless,R,188,DEN,27.1759069131,102667,,,Satoshi Iwabuchi,L,175,JPN,32.5201916496,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,143,306,361,89
 2008-1741,Busan CH,Hard,32,C,20080414,13,104424,5,,Go Soeda,R,178,JPN,23.6057494867,104736,,,Farrukh Dustov,R,196,UZB,21.8973305955,6-1 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,154,281,306,116
-2008-1741,Busan CH,Hard,32,C,20080414,14,103230,,Q,Tasuku Iwami,L,168,JPN,29.7659137577,109467,,WC,Jagdish Tanwar,U,,IND,33.8699520876,5-7 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1087,6,,
+2008-1741,Busan CH,Hard,32,C,20080414,14,103230,,Q,Tasuku Iwami,L,168,JPN,29.7659137577,109467,,WC,Woo Ram Kim,U,,KOR,22.6858316222,5-7 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1087,6,,
 2008-1741,Busan CH,Hard,32,C,20080414,15,105036,,Q,Hyun Joon Kim,L,,KOR,20.4654346338,104437,,,Dekel Valtzer,U,,ISR,23.5290896646,6-2 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1040,7,395,76
 2008-1741,Busan CH,Hard,32,C,20080414,16,103520,,,Pavel Snobel,L,190,CZE,28.1259411362,103553,2,,Alun Jones,R,180,AUS,27.9671457906,6-1 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,320,107,132,332
 2008-1741,Busan CH,Hard,32,C,20080414,17,104229,1,,Yen Hsun Lu,R,180,TPE,24.6680355921,103830,,Q,Shao Xuan Zeng,R,185,CHN,26.6255989049,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,109,405,642,30
@@ -2375,7 +2375,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-3590,Carson CH,Hard,32,C,20080526,8,104976,8,,Ryan Sweeting,R,196,USA,20.8678986995,103851,,,Conor Niland,R,185,IRL,26.6830937714,1-6 5-5 DEF,3,R32,,,,,,,,,,,,,,,,,,,,234,163,304,118
 2008-3590,Carson CH,Hard,32,C,20080526,9,103999,6,,Thiago Alves,R,178,BRA,26.0123203285,104958,,,Carsten Ball,L,198,AUS,20.9336071184,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,207,191,263,140
 2008-359,Bogota CH,Clay,32,C,20080303,1,103506,1,,Martin Vassallo Arguello,R,183,ARG,28.0602327173,104547,,Q,Horacio Zeballos,L,188,ARG,22.8501026694,4-6 6-1 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,109,397,264,148
-2008-3590,Carson CH,Hard,32,C,20080526,10,105021,,,Andrew Coelho,L,180,AUS,20.6488706366,109484,,WC,Phil Whitesell,R,,USA,37.5414099932,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,301,119,,
+2008-3590,Carson CH,Hard,32,C,20080526,10,105021,,,Andrew Coelho,L,180,AUS,20.6488706366,109484,,WC,Ryan Thacher,R,,USA,18.636550308,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,301,119,,
 2008-3590,Carson CH,Hard,32,C,20080526,11,105194,,,Nick Lindahl,R,183,AUS,19.819301848,103607,,,Victor Estrella,R,173,DOM,27.8138261465,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,255,145,320,111
 2008-3590,Carson CH,Hard,32,C,20080526,12,103977,,,Nicholas Monroe,R,178,USA,26.12183436,103240,4,,Kevin Kim,R,180,USA,29.8343600274,6-3 5-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,299,120,161,267
 2008-3590,Carson CH,Hard,32,C,20080526,13,104166,5,,Alex Bogomolov Jr,R,178,RUS,25.0924024641,103676,,,Michael Yani,R,185,USA,27.4004106776,7-6(2) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,198,199,358,93
@@ -2482,7 +2482,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-3618,Astana CH,Hard,32,C,20081103,2,104753,,,Woong Sun Jun,R,190,KOR,22.3901437372,105932,,WC,Nikoloz Basilashvili,R,185,RUS,16.6954140999,3-6 6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,255,146,1231,4
 2008-3618,Astana CH,Hard,32,C,20081103,3,103612,,,Alexey Kedryuk,R,193,KAZ,28.2381930185,104463,,Q,Dmitriy Makeyev,U,,KAZ,23.8904859685,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,408,77,1233,4
 2008-3618,Astana CH,Hard,32,C,20081103,4,104397,8,,Laurent Recouderc,R,,FRA,24.3175906913,105136,,Q,Andrei Plotniy,U,,RUS,20.5749486653,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,200,205,765,21
-2008-3618,Astana CH,Hard,32,C,20081103,5,103862,4,,Michail Elgin,R,183,RUS,27.0554414784,109498,,LL,Alexei Milner,R,,ISR,19.3730321697,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,132,370,,
+2008-3618,Astana CH,Hard,32,C,20081103,5,103862,4,,Michail Elgin,R,183,RUS,27.0554414784,109498,,LL,Dmitry Resnyanskiy,U,,KAZ,18.4147843943,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,132,370,,
 2008-3618,Astana CH,Hard,32,C,20081103,6,104947,,,Marsel Ilhan,R,190,TUR,21.3990417522,108944,,Q,Stanislav Bykov,R,,KAZ,20.2162902122,4-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,227,174,1260,4
 2008-3618,Astana CH,Hard,32,C,20081103,7,104505,,,Konstantin Kravchuk,R,190,RUS,23.6933607118,104920,,,Denys Molchanov,R,,UKR,21.4702258727,0-6 7-6(3) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,298,120,448,65
 2008-3618,Astana CH,Hard,32,C,20081103,8,103393,7,,Yuri Schukin,R,188,KAZ,29.3579739904,104479,,LL,Sarvar Ikramov,R,,UZB,23.8138261465,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,179,242,1275,4
@@ -4000,7 +4000,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-404,Indian Wells Masters,Hard,96,M,20080313,721,103018,,,Max Mirnyi,R,196,BLR,30.6776180698,104559,11,,Teymuraz Gabashvili,R,188,RUS,22.7980835044,7-5 6-7(5) 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,206,200,115,386
 2008-404,Indian Wells Masters,Hard,96,M,20080313,722,104515,,,Mathieu Montcourt,R,183,FRA,23.0171115674,103240,23,,Kevin Kim,R,180,USA,29.6235455168,1-6 6-3 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,208,198,150,291
 2008-404,Indian Wells Masters,Hard,96,M,20080313,723,104229,12,,Yen Hsun Lu,R,180,TPE,24.5722108145,103969,,WC,Roman Borvanov,R,,MDA,25.9438740589,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,117,380,411,75
-2008-404,Indian Wells Masters,Hard,96,M,20080313,724,104219,22,,Stephane Bohli,R,185,SUI,24.6269678303,109484,,WC,Phil Whitesell,R,,USA,37.3305954825,6-4 7-6(7),3,Q1,,,,,,,,,,,,,,,,,,,,147,295,,
+2008-404,Indian Wells Masters,Hard,96,M,20080313,724,104219,22,,Stephane Bohli,R,185,SUI,24.6269678303,109484,,WC,Ryan Thacher,R,,USA,18.4257357974,6-4 7-6(7),3,Q1,,,,,,,,,,,,,,,,,,,,147,295,,
 2008-404,Indian Wells Masters,Hard,96,M,20080313,725,103857,15,,Igor Kunitsyn,R,180,RUS,26.4421629021,103325,,,Wesley Moodie,R,196,RSA,29.067761807,6-3 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,120,372,172,252
 2008-404,Indian Wells Masters,Hard,96,M,20080313,726,104154,13,,Paul Capdeville,R,190,CHI,24.93908282,104717,,,Brendan Evans,R,188,USA,21.9219712526,6-7(3) 6-1 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,118,378,196,212
 2008-404,Indian Wells Masters,Hard,96,M,20080313,727,104639,17,,Wayne Odesnik,L,180,USA,22.2997946612,104926,3,,Fabio Fognini,R,178,ITA,20.7967145791,6-1 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,123,363,75,511

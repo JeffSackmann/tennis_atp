@@ -61,7 +61,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-BRA-02A-2011,Brazil F2,Clay,32,S,20110103,29,104662,1,,Eladio Ribeiro Neto,R,,BRA,24.9828884326,105381,4,,Thales Turini,U,,BRA,21.4620123203,7-6(3) 7-5,3,SF,,,,,,,,,,,,,,,,,,,,322,136,482,67
 2011-M-FU-BRA-02A-2011,Brazil F2,Clay,32,S,20110103,30,104398,2,,Andre Begemann,R,188,GER,26.4777549624,104903,3,,Andre Miele,R,,BRA,23.7289527721,6-7(4) 6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,356,118,398,101
 2011-M-FU-BRA-02A-2011,Brazil F2,Clay,32,S,20110103,31,104398,2,,Andre Begemann,R,188,GER,26.4777549624,104662,1,,Eladio Ribeiro Neto,R,,BRA,24.9828884326,1-6 6-4 6-4,3,F,,,,,,,,,,,,,,,,,,,,356,118,322,136
-2011-M-FU-BRA-03A-2011,Brazil F3,Clay,32,S,20110110,1,104550,1,WC,Ricardo Hocevar,R,180,BRA,25.6837782341,105998,,,Eduardo Dischinger,R,,BRA,18.6475017112,6-2 6-7(6) 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,234,204,,
+2011-M-FU-BRA-03A-2011,Brazil F3,Clay,32,S,20110110,1,104550,1,WC,Ricardo Hocevar,R,180,BRA,25.6837782341,105998,,,Eduardo Dischinger,R,,BRA,18.6475017112,6-2 6-7(6) 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,234,204,1093,5
 2011-M-FU-BRA-03A-2011,Brazil F3,Clay,32,S,20110110,2,104007,,,Andre Ghem,R,193,BRA,28.6187542779,105962,,WC,Alexandre Schnitman,U,,BRA,18.7898699521,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,444,79,,
 2011-M-FU-BRA-03A-2011,Brazil F3,Clay,32,S,20110110,3,106030,,Q,Bruno Semenzato,R,,BRA,18.4996577687,105334,,Q,Luis David Martinez,U,,VEN,21.6646132786,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1170,4,824,14
 2011-M-FU-BRA-03A-2011,Brazil F3,Clay,32,S,20110110,4,105872,5,,Christian Lindell,R,,SWE,19.1403148528,105367,,Q,Daniel Alejandro Lopez Cassaccia,R,,PAR,21.5222450376,2-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,385,106,639,30
@@ -74,7 +74,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-BRA-03A-2011,Brazil F3,Clay,32,S,20110110,11,105141,,,Diego Matos,U,,BRA,22.7049965777,109681,,Q,Valter Mori Filho,R,,BRA,24.5037645448,6-7(3) 7-6(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,995,7,1702,1
 2011-M-FU-BRA-03A-2011,Brazil F3,Clay,32,S,20110110,12,104398,3,,Andre Begemann,R,188,GER,26.4969199179,106105,,,Guilherme Clezar,R,,BRA,18.0260095825,2-6 6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,354,118,760,18
 2011-M-FU-BRA-03A-2011,Brazil F3,Clay,32,S,20110110,13,104903,6,,Andre Miele,R,,BRA,23.7481177276,105564,,WC,Victor Maynard,U,,BRA,20.6023271732,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,399,101,1341,2
-2011-M-FU-BRA-03A-2011,Brazil F3,Clay,32,S,20110110,14,105584,,,Tiago Slonik,U,,BRA,20.5256673511,105340,,LL,Charles Costa,R,,BRA,21.6317590691,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,779,17,,
+2011-M-FU-BRA-03A-2011,Brazil F3,Clay,32,S,20110110,14,105584,,,Tiago Slonik,U,,BRA,20.5256673511,105340,,LL,Charles Costa,R,,BRA,21.6317590691,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,779,17,1094,5
 2011-M-FU-BRA-03A-2011,Brazil F3,Clay,32,S,20110110,15,105793,,,Gabriel Dias,L,,BRA,19.5564681725,109422,,,Augusto Meirelles,R,,BRA,19.2114989733,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,882,11,1264,3
 2011-M-FU-BRA-03A-2011,Brazil F3,Clay,32,S,20110110,16,104662,2,,Eladio Ribeiro Neto,R,,BRA,25.0020533881,120977,,WC,Cesare Casali,U,,BRA,19.3921971253,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,323,136,,
 2011-M-FU-BRA-03A-2011,Brazil F3,Clay,32,S,20110110,17,104550,1,WC,Ricardo Hocevar,R,180,BRA,25.6837782341,104007,,,Andre Ghem,R,193,BRA,28.6187542779,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,234,204,444,79
@@ -92,12 +92,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-BRA-03A-2011,Brazil F3,Clay,32,S,20110110,29,105872,5,,Christian Lindell,R,,SWE,19.1403148528,104608,4,,Rodrigo Guidolin,R,,BRA,25.3059548255,7-5 6-3,3,SF,,,,,,,,,,,,,,,,,,,,385,106,366,112
 2011-M-FU-BRA-03A-2011,Brazil F3,Clay,32,S,20110110,30,104398,3,,Andre Begemann,R,188,GER,26.4969199179,105584,,,Tiago Slonik,U,,BRA,20.5256673511,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,354,118,779,17
 2011-M-FU-BRA-03A-2011,Brazil F3,Clay,32,S,20110110,31,104398,3,,Andre Begemann,R,188,GER,26.4969199179,105872,5,,Christian Lindell,R,,SWE,19.1403148528,6-4 6-2,3,F,,,,,,,,,,,,,,,,,,,,354,118,385,106
-2011-M-FU-CHN-01A-2011,China F1,Hard,32,S,20110110,1,105585,1,,Ze Zhang,R,,CHN,20.5201916496,105999,,Q,Bowen Ouyang,L,,CHN,18.6447638604,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,317,141,,
+2011-M-FU-CHN-01A-2011,China F1,Hard,32,S,20110110,1,105585,1,,Ze Zhang,R,,CHN,20.5201916496,105999,,Q,Bowen Ouyang,L,,CHN,18.6447638604,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,317,141,1010,6
 2011-M-FU-CHN-01A-2011,China F1,Hard,32,S,20110110,2,104251,,,Ti Chen,R,183,TPE,27.2717316906,104412,,Q,Matt Simpson,U,,NZL,26.417522245,2-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,544,48,1230,3
 2011-M-FU-CHN-01A-2011,China F1,Hard,32,S,20110110,3,105202,,,Yu Chang,U,,CHN,22.4065708419,109092,,WC,Zhuo Qing Zhou,R,,CHN,21.993155373,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,578,40,1399,2
 2011-M-FU-CHN-01A-2011,China F1,Hard,32,S,20110110,4,105302,8,,Ante Pavic,R,,CRO,21.8453114305,105220,,,Jun Chao Xu,U,,CHN,22.2997946612,6-3 4-6 7-6(8),3,R32,,,,,,,,,,,,,,,,,,,,512,57,656,28
 2011-M-FU-CHN-01A-2011,China F1,Hard,32,S,20110110,5,105001,3,,Mao Xin Gong,R,178,CHN,23.3812457221,105794,,Q,Hung Yuan Hsu,R,,TPE,19.5564681725,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,346,126,1514,1
-2011-M-FU-CHN-01A-2011,China F1,Hard,32,S,20110110,6,105565,,WC,Ya Nan Ma,U,,CHN,20.5968514716,105148,,,Hsin Han Lee,R,,TPE,22.6447638604,7-6(8) 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,686,24
+2011-M-FU-CHN-01A-2011,China F1,Hard,32,S,20110110,6,105565,,WC,Ya Nan Ma,U,,CHN,20.5968514716,105148,,,Hsin Han Lee,R,,TPE,22.6447638604,7-6(8) 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1032,6,686,24
 2011-M-FU-CHN-01A-2011,China F1,Hard,32,S,20110110,7,105507,,,Cheong Eui Kim,R,,KOR,20.8021902806,105142,,,Arata Onozawa,U,,JPN,22.7022587269,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,868,11,605,36
 2011-M-FU-CHN-01A-2011,China F1,Hard,32,S,20110110,8,105842,5,,Di Wu,R,,CHN,19.3237508556,104647,,,Bumpei Sato,R,,JPN,25.067761807,2-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,409,96,838,13
 2011-M-FU-CHN-01A-2011,China F1,Hard,32,S,20110110,9,104810,6,,Zhe Li,R,,CHN,24.3066392882,122018,,Q,Jun Nan Tao,R,,CHN,16.8898015058,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,449,76,,
@@ -110,7 +110,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-CHN-01A-2011,China F1,Hard,32,S,20110110,16,105638,2,,Daniel Cox,R,170,GBR,20.2847364819,106128,,Q,He Feng,U,,CHN,17.9110198494,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,328,132,,
 2011-M-FU-CHN-01A-2011,China F1,Hard,32,S,20110110,17,105585,1,,Ze Zhang,R,,CHN,20.5201916496,104251,,,Ti Chen,R,183,TPE,27.2717316906,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,317,141,544,48
 2011-M-FU-CHN-01A-2011,China F1,Hard,32,S,20110110,18,105302,8,,Ante Pavic,R,,CRO,21.8453114305,105202,,,Yu Chang,U,,CHN,22.4065708419,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,512,57,578,40
-2011-M-FU-CHN-01A-2011,China F1,Hard,32,S,20110110,19,105001,3,,Mao Xin Gong,R,178,CHN,23.3812457221,105565,,WC,Ya Nan Ma,U,,CHN,20.5968514716,6-2 3-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,346,126,,
+2011-M-FU-CHN-01A-2011,China F1,Hard,32,S,20110110,19,105001,3,,Mao Xin Gong,R,178,CHN,23.3812457221,105565,,WC,Ya Nan Ma,U,,CHN,20.5968514716,6-2 3-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,346,126,1032,6
 2011-M-FU-CHN-01A-2011,China F1,Hard,32,S,20110110,20,105842,5,,Di Wu,R,,CHN,19.3237508556,105507,,,Cheong Eui Kim,R,,KOR,20.8021902806,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,409,96,868,11
 2011-M-FU-CHN-01A-2011,China F1,Hard,32,S,20110110,21,104810,6,,Zhe Li,R,,CHN,24.3066392882,105006,,,Chu Huan Yi,L,,TPE,23.3620807666,7-6(5) 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,449,76,554,45
 2011-M-FU-CHN-01A-2011,China F1,Hard,32,S,20110110,22,105422,4,,Joshua Milton,R,,GBR,21.2402464066,105580,,WC,Chuan Jiang,U,,CHN,20.5366187543,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,390,104,1731,1
@@ -131,7 +131,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-GER-01A-2011,Germany F1,Carpet,32,S,20110110,6,105187,,,Daniel Danilovic,R,,SWE,22.4613278576,106072,,Q,Alexey Vatutin,U,,RUS,18.2039698836,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,702,22,1360,2
 2011-M-FU-GER-01A-2011,Germany F1,Carpet,32,S,20110110,7,103662,,,Holger Fischer,R,,GER,30.0807665982,104458,,,Clinton Thomson,L,,GER,26.1163586585,7-6(6) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,585,39,,
 2011-M-FU-GER-01A-2011,Germany F1,Carpet,32,S,20110110,8,105091,8,,Peter Torebko,R,,GER,22.9158110883,105462,,,David Thurner,U,,GER,20.9938398357,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,511,57,728,20
-2011-M-FU-GER-01A-2011,Germany F1,Carpet,32,S,20110110,9,104551,7,,Gero Kretschmer,R,,GER,25.6810403833,105669,,Q,Franjo Raspudic,R,,BIH,20.1533196441,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,446,78,,
+2011-M-FU-GER-01A-2011,Germany F1,Carpet,32,S,20110110,9,104551,7,,Gero Kretschmer,R,,GER,25.6810403833,105669,,Q,Franjo Raspudic,R,,BIH,20.1533196441,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,446,78,1015,6
 2011-M-FU-GER-01A-2011,Germany F1,Carpet,32,S,20110110,10,105472,,WC,Nils Langer,R,,GER,20.9582477755,105222,,,Jakub Lustyk,R,,CZE,22.2970568104,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,932,9,733,20
 2011-M-FU-GER-01A-2011,Germany F1,Carpet,32,S,20110110,11,106008,,WC,Florian Fallert,R,,GER,18.6283367556,105702,,WC,Richard Becker,U,,GER,19.947980835,7-6(4) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1636,1,1731,1
 2011-M-FU-GER-01A-2011,Germany F1,Carpet,32,S,20110110,12,104707,4,,Denis Matsukevitch,R,190,RUS,24.7885010267,105929,,WC,Sebastian Sachs,R,,GER,18.893908282,6-2 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,349,122,1279,2
@@ -154,7 +154,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-GER-01A-2011,Germany F1,Carpet,32,S,20110110,29,104557,3,,Andis Juska,R,,LAT,25.6372347707,103902,5,,Jan Mertl,R,190,CZE,29.0184804928,7-6(3) 6-1,3,SF,,,,,,,,,,,,,,,,,,,,339,129,410,95
 2011-M-FU-GER-01A-2011,Germany F1,Carpet,32,S,20110110,30,104667,6,Q,Philipp Oswald,R,,AUT,24.9637234771,104707,4,,Denis Matsukevitch,R,190,RUS,24.7885010267,6-4 6-7(5) 6-1,3,SF,,,,,,,,,,,,,,,,,,,,414,93,349,122
 2011-M-FU-GER-01A-2011,Germany F1,Carpet,32,S,20110110,31,104557,3,,Andis Juska,R,,LAT,25.6372347707,104667,6,Q,Philipp Oswald,R,,AUT,24.9637234771,3-6 7-6(5) 6-4,3,F,,,,,,,,,,,,,,,,,,,,339,129,414,93
-2011-M-FU-GBR-01A-2011,Great Britain F1,Hard,32,S,20110110,1,105590,1,,Uladzimir Ignatik,R,,BLR,20.4928131417,120634,,LL,Chris Priddle,U,,GBR,22.6064339493,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,201,249,,
+2011-M-FU-GBR-01A-2011,Great Britain F1,Hard,32,S,20110110,1,105590,1,,Uladzimir Ignatik,R,,BLR,20.4928131417,120634,,LL,Chris Priddle,U,,GBR,22.6064339493,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,201,249,1024,6
 2011-M-FU-GBR-01A-2011,Great Britain F1,Hard,32,S,20110110,2,103691,,,Baptiste Dupuy,L,,FRA,29.9822039699,105236,,Q,Pirmin Haenle,R,,GER,22.1930184805,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,558,45,1428,2
 2011-M-FU-GBR-01A-2011,Great Britain F1,Hard,32,S,20110110,3,104932,,,Kenny De Schepper,L,203,FRA,23.6194387406,105012,,,Alexander Bury,R,,BLR,23.3237508556,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,472,69,513,56
 2011-M-FU-GBR-01A-2011,Great Britain F1,Hard,32,S,20110110,4,104633,8,,Mathieu Rodrigues,R,,FRA,25.1745379877,104838,,WC,Miles Bugby,U,,GBR,24.0930869268,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,427,90,1303,2
@@ -199,7 +199,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-ISR-01A-2011,Israel F1,Hard,32,S,20110110,12,105731,4,,Steven Diez,R,,CAN,19.819301848,105963,,Q,Arthur De Greef,R,,BEL,18.7898699521,1-6 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,468,70,933,9
 2011-M-FU-ISR-01A-2011,Israel F1,Hard,32,S,20110110,13,106042,5,,Alexander Rumyantsev,R,,RUS,18.4010951403,105427,,,Milos Sekulic,R,,SWE,21.18275154,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,548,46,790,16
 2011-M-FU-ISR-01A-2011,Israel F1,Hard,32,S,20110110,14,104519,,,Roman Vogeli,R,,CZE,25.8288843258,105687,,Q,Sergey Strelkov,R,,RUS,20.0164271047,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,637,30,1220,3
-2011-M-FU-ISR-01A-2011,Israel F1,Hard,32,S,20110110,15,105726,,,Yannik Reuter,R,,BEL,19.8494182067,105928,,Q,Luca Margaroli,R,,SUI,18.9021218344,3-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,833,13,,
+2011-M-FU-ISR-01A-2011,Israel F1,Hard,32,S,20110110,15,105726,,,Yannik Reuter,R,,BEL,19.8494182067,105928,,Q,Luca Margaroli,R,,SUI,18.9021218344,3-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,833,13,1070,5
 2011-M-FU-ISR-01A-2011,Israel F1,Hard,32,S,20110110,16,105122,2,,Karlis Lejnieks,R,,LAT,22.8199863107,105496,,,Anton Manegin,R,,RUS,20.8323066393,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,379,108,883,11
 2011-M-FU-ISR-01A-2011,Israel F1,Hard,32,S,20110110,17,105097,1,,Valery Rudnev,R,,RUS,22.8993839836,105179,,,Adrian Sikora,U,,SVK,22.5160848734,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,355,117,803,15
 2011-M-FU-ISR-01A-2011,Israel F1,Hard,32,S,20110110,18,104743,6,,Kamil Capkovic,R,,SVK,24.6078028747,106271,,,Robert Rumler,R,,CZE,17.1088295688,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,618,33,735,20
@@ -310,7 +310,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-USA-01A-2011,USA F1,Clay,32,S,20110110,30,104863,,LL,Olivier Sajous,R,,HAI,23.9315537303,104278,,PR,Matt Bocko,U,,USA,27.0800821355,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,561,43,,
 2011-M-FU-USA-01A-2011,USA F1,Clay,32,S,20110110,31,104305,,,Luka Gregorc,R,,SLO,26.9048596851,104863,,LL,Olivier Sajous,R,,HAI,23.9315537303,3-6 6-2 6-0,3,F,,,,,,,,,,,,,,,,,,,,466,70,561,43
 2011-M-FU-USA-01A-2011,USA F1,Clay,32,S,20110110,613,106328,,WC,Christian Harrison,R,,USA,16.6187542779,111515,,,Thai Son Kwiatkowski,U,,USA,15.9069130732,6-3 6-1,3,Q4,,,,,,,,,,,,,,,,,,,,,,1588,1
-2011-M-FU-USA-01A-2011,USA F1,Clay,32,S,20110110,614,105020,2,,Denis Zivkovic,R,,USA,23.279945243,105976,,,Jack Carpenter,U,,GBR,18.7488021903,6-3 7-6(5),3,Q4,,,,,,,,,,,,,,,,,,,,546,47,,
+2011-M-FU-USA-01A-2011,USA F1,Clay,32,S,20110110,614,105020,2,,Denis Zivkovic,R,,USA,23.279945243,105976,,,Jack Carpenter,U,,GBR,18.7488021903,6-3 7-6(5),3,Q4,,,,,,,,,,,,,,,,,,,,546,47,1068,5
 2011-M-FU-USA-01A-2011,USA F1,Clay,32,S,20110110,615,105207,11,,Andrei Daescu,R,,ROU,22.3682409309,104863,3,,Olivier Sajous,R,,HAI,23.9315537303,7-6(9) 2-6 6-3,3,Q4,,,,,,,,,,,,,,,,,,,,812,14,561,43
 2011-M-FU-USA-01A-2011,USA F1,Clay,32,S,20110110,616,104732,4,,Phillip Simmonds,R,,USA,24.6488706366,106310,,,Alexander Ritschard,R,,SUI,16.7994524298,7-6(5) 6-2,3,Q4,,,,,,,,,,,,,,,,,,,,569,42,1430,1
 2011-M-FU-USA-01A-2011,USA F1,Clay,32,S,20110110,617,105911,5,,Andrea Collarini,L,,ARG,18.9431895962,105930,9,,Daniel Kosakowski,R,,USA,18.8856947296,6-4 6-2,3,Q4,,,,,,,,,,,,,,,,,,,,579,40,689,23
@@ -11832,7 +11832,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-AUS-05A-2011,Australia F5,Hard,32,S,20110905,31,105050,5,,Michael Look,R,,AUS,23.7618069815,106093,2,,Benjamin Mitchell,R,,AUS,18.7433264887,6-4 6-4,3,F,,,,,,,,,,,,,,,,,,,,419,90,351,120
 2011-M-FU-BRA-29A-2011,Brazil F29,Clay,32,S,20110905,1,105998,,,Eduardo Dischinger,R,,BRA,19.279945243,104836,1,,Tiago Lopes,R,,BRA,24.7529089665,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,758,19,358,117
 2011-M-FU-BRA-29A-2011,Brazil F29,Clay,32,S,20110905,2,105481,,WC,Lucas Abella,U,,BRA,21.5468856947,104829,,,Andrew Lauret,R,,BRA,24.7967145791,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,934,10
-2011-M-FU-BRA-29A-2011,Brazil F29,Clay,32,S,20110905,3,105326,,,Marlon Oliveira,R,,BRA,22.3545516769,109497,,WC,Daniel Bustamante,U,,BRA,17.7193702943,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,862,13,,
+2011-M-FU-BRA-29A-2011,Brazil F29,Clay,32,S,20110905,3,105326,,,Marlon Oliveira,R,,BRA,22.3545516769,209501,,WC,Daniel Bustamante,U,,BRA,17.7193702943,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,862,13,,
 2011-M-FU-BRA-29A-2011,Brazil F29,Clay,32,S,20110905,4,105571,7,,Fabricio Neis,U,,BRA,21.2046543463,105713,,,Victor Morales,R,,CHI,20.5366187543,6-3 2-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,639,31,1341,3
 2011-M-FU-BRA-29A-2011,Brazil F29,Clay,32,S,20110905,5,105700,4,Q,Jose Pereira,R,,BRA,20.5886379192,105979,,,Augusto Laranja,R,,BRA,19.370294319,7-6(4) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,497,63,1005,7
 2011-M-FU-BRA-29A-2011,Brazil F29,Clay,32,S,20110905,6,104637,,,Luiz Guilherme Deneka,U,,BRA,25.7823408624,105873,,,Idio Escobar,R,,BRA,19.7672826831,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,945,9,1343,3

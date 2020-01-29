@@ -62,14 +62,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1993-844,Tenerife CH,Hard,32,C,19930118,30,101460,2,,Jose Francisco Altur,L,190,ESP,24.8213552361,101383,,,Stephane Sansoni,R,180,FRA,25.4373716632,6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,141,314,256,116
 1993-844,Tenerife CH,Hard,32,C,19930118,31,101460,2,,Jose Francisco Altur,L,190,ESP,24.8213552361,101179,,,Jean Philippe Fleurian,R,185,FRA,27.3538672142,7-6 6-4,3,F,,,,,,,,,,,,,,,,,,,,141,314,223,146
 1993-787,Bangalore CH,Clay,32,C,19930125,1,107922,,LL,Paremeswanath Srinath,R,,IND,,100968,,,Sylvano Simone,R,,ITA,29.2758384668,3-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,951,3
-1993-787,Bangalore CH,Clay,32,C,19930125,2,101367,,,Igor Saric,R,190,CRO,25.5441478439,109468,,LL,Aroon Ramnath,R,,IND,,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,402,46,,
+1993-787,Bangalore CH,Clay,32,C,19930125,2,101367,,,Igor Saric,R,190,CRO,25.5441478439,209472,,LL,Aroon Ramnath,R,,IND,,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,402,46,,
 1993-787,Bangalore CH,Clay,32,C,19930125,3,101760,8,,David Kass,R,180,USA,22.5927446954,102345,,Q,Nitten Kirrtane,R,,IND,18.8774811773,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,300,83,,
 1993-787,Bangalore CH,Clay,32,C,19930125,4,101365,,,Paul Wekesa,R,188,KEN,25.5496235455,101691,3,,Florian Krumrey,R,190,GER,22.9760438056,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,366,55,245,122
 1993-787,Bangalore CH,Clay,32,C,19930125,5,101680,,WC,Zeeshan Ali,R,180,IND,23.0472279261,101747,,,Michael Zimmerman,R,,USA,22.6694045175,7-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,416,42,456,34
 1993-787,Bangalore CH,Clay,32,C,19930125,6,101682,,,David Adams,R,188,RSA,23.0362765229,102039,,WC,Gaurav Natekar,R,,IND,20.7912388775,4-6 6-0 7-6,3,R32,,,,,,,,,,,,,,,,,,,,331,66,706,11
 1993-787,Bangalore CH,Clay,32,C,19930125,7,102247,5,,Andrea Gaudenzi,R,183,ITA,19.4715947981,102113,,,Daniele Musa,R,183,ITA,20.3559206023,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,264,106,305,82
 1993-787,Bangalore CH,Clay,32,C,19930125,8,102084,6,,Simon Touzil,R,185,GER,20.5284052019,101975,,,Martin Zumpft,R,180,GER,21.273100616,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,271,104,583,19
-1993-787,Bangalore CH,Clay,32,C,19930125,9,108479,,Q,Vinod Ramachandran,R,,IND,,109469,,LL,Clay Donato,U,,CAN,,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1993-787,Bangalore CH,Clay,32,C,19930125,9,108479,,Q,Vinod Ramachandran,R,,IND,,209473,,LL,Sharad Kohli,R,,IND,16.4982888433,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1993-787,Bangalore CH,Clay,32,C,19930125,10,101550,,,Al Parker,R,188,USA,24.0739219713,108333,,Q,Suhel Malhotra,R,,IND,,4-6 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,370,54,,
 1993-787,Bangalore CH,Clay,32,C,19930125,11,101515,7,,Donald Johnson,L,190,USA,24.3586584531,101431,,Q,Sascha Grabow,L,188,GER,25.0102669405,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,290,88,,
 1993-787,Bangalore CH,Clay,32,C,19930125,12,101389,,,Oren Motevassel,L,170,USA,25.3990417522,101260,,,Sean Cole,R,,GBR,26.6310746064,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,318,72,329,67
@@ -1622,7 +1622,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1993-228,Winnetka CH,Hard,32,C,19930726,12,101717,4,,Diego Nargiso,L,188,ITA,23.3648186174,101833,,,Michael Tebbutt,L,190,AUS,22.5927446954,7-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,133,315,235,144
 1993-228,Winnetka CH,Hard,32,C,19930726,13,101179,8,,Jean Philippe Fleurian,R,185,FRA,27.871321013,102030,,,Andrew Foster,R,190,GBR,21.3607118412,6-4 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,135,314,215,164
 1993-228,Winnetka CH,Hard,32,C,19930726,14,101789,,,Steve Bryan,R,178,USA,22.9596167009,101332,,,Gilad Bloom,L,173,ISR,26.4038329911,7-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,182,219,171,241
-1993-228,Winnetka CH,Hard,32,C,19930726,15,101862,,,Maurice Ruah,R,178,VEN,22.431211499,109482,,WC,Enrique Cagide,R,,MEX,15.1676933607,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,161,254,,
+1993-228,Winnetka CH,Hard,32,C,19930726,15,101862,,,Maurice Ruah,R,178,VEN,22.431211499,109482,,WC,John Falbo,R,,USA,24.3093771389,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,161,254,,
 1993-228,Winnetka CH,Hard,32,C,19930726,16,101224,2,,Kenny Thorne,R,188,USA,27.5017111567,101805,,,David Nainkin,R,183,RSA,22.8473648186,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,122,336,163,249
 1993-228,Winnetka CH,Hard,32,C,19930726,17,102226,,,David Witt,R,190,USA,20.1478439425,101750,,,Cristiano Caratti,R,178,ITA,23.1731690623,6-3 6-7 6-4,3,R16,,,,,,,,,,,,,,,,,,,,152,278,124,335
 1993-228,Winnetka CH,Hard,32,C,19930726,18,101844,,LL,Heath Denman,R,183,AUS,22.5215605749,101776,7,,Sandon Stolle,R,193,AUS,23.0362765229,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,279,108,137,313
@@ -1676,7 +1676,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1993-226,Istanbul CH,Hard,32,C,19930802,4,100997,7,,Roger Smith,R,185,BAH,29.5331964408,101417,,,Mario Rincon,R,,COL,25.6646132786,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,185,214,197,189
 1993-226,Istanbul CH,Hard,32,C,19930802,5,101783,,,Mark Petchey,R,183,GBR,23.0034223135,101179,3,,Jean Philippe Fleurian,R,185,FRA,27.8904859685,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,227,148,133,327
 1993-226,Istanbul CH,Hard,32,C,19930802,6,102201,,,Lionel Roux,R,185,FRA,20.3066392882,102918,,WC,Efe Ustundag,R,,TUR,16.5448323066,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,193,197,,
-1993-226,Istanbul CH,Hard,32,C,19930802,7,101484,,,Vladimir Gabrichidze,R,175,GEO,25.2128678987,109480,,WC,Alex Roman,R,,BOL,18.7049965777,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,204,174,,
+1993-226,Istanbul CH,Hard,32,C,19930802,7,101484,,,Vladimir Gabrichidze,R,175,GEO,25.2128678987,109480,,WC,Yavuz Erkangil,R,,TUR,26.4202600958,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,204,174,,
 1993-226,Istanbul CH,Hard,32,C,19930802,8,101534,,,Libor Nemecek,R,168,CZE,24.7665982204,101398,5,,Neil Borwick,L,193,AUS,25.8809034908,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,208,170,152,289
 1993-226,Istanbul CH,Hard,32,C,19930802,9,101332,6,,Gilad Bloom,L,173,ISR,26.4229979466,102001,,,German Lopez,R,193,ESP,21.5934291581,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,169,241,248,132
 1993-226,Istanbul CH,Hard,32,C,19930802,10,101251,,Q,Eric Winogradsky,R,188,FRA,27.279945243,109481,,WC,Can Uner,R,,TUR,19.7316906229,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,385,56,1157,1

@@ -1338,7 +1338,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-65,Portschach CH,Clay,32,C,19970714,4,102966,,Q,Fredrik Jonsson,R,193,SWE,20.295687885,103154,8,,Jaymon Crabb,R,183,AUS,19.356605065,3-6 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,409,70,277,137
 1997-65,Portschach CH,Clay,32,C,19970714,5,102939,4,,Jean Baptiste Perlant,R,190,FRA,20.3887748118,102538,,,Tuomas Ketola,R,185,FIN,22.392881588,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,223,183,334,101
 1997-65,Portschach CH,Clay,32,C,19970714,6,102273,,,David Salvador Estepa,R,,ESP,23.7316906229,102062,,,Guillaume Marx,R,,FRA,25.1389459274,2-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,297,122,351,92
-1997-65,Portschach CH,Clay,32,C,19970714,7,101612,,WC,Roland Burtscher,R,183,AUT,28.0793976728,109471,,WC,Alexander Zlatnik,R,,AUT,17.8918548939,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,674,21,,
+1997-65,Portschach CH,Clay,32,C,19970714,7,101612,,WC,Roland Burtscher,R,183,AUT,28.0793976728,209475,,WC,Alexander Zlatnik,R,,AUT,17.8918548939,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,674,21,,
 1997-65,Portschach CH,Clay,32,C,19970714,8,101982,,,Jordi Mas,R,,ESP,25.7029431896,102961,6,,Nicklas Timfjord,R,180,SWE,20.3230663929,7-5 3-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,339,99,261,147
 1997-65,Portschach CH,Clay,32,C,19970714,9,102145,5,,Francisco Cabello,R,190,ARG,24.6023271732,103461,,Q,Ivica Ancic,R,,CRO,17.7084188912,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,267,143,498,46
 1997-65,Portschach CH,Clay,32,C,19970714,10,102436,,,Borut Urh,R,190,SLO,22.9623545517,102323,,,Regis Lavergne,R,,FRA,23.4579055441,6-7 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,360,88,403,72
@@ -1985,8 +1985,8 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-446,Alpirsbach CH,Clay,32,C,19970825,31,102522,,Q,Fabio Maggi,R,175,ITA,22.5681040383,102905,8,,Stefan Koubek,L,175,AUT,20.643394935,6-4 5-7 6-4,3,F,,,,,,,,,,,,,,,,,,,,314,111,146,304
 1997-75,Santa Cruz CH,Clay,32,C,19970825,1,103084,1,,Guillermo Canas,R,185,ARG,19.7481177276,102830,,Q,Paulo Carvallo,R,,PAR,21.1252566735,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,149,300,776,14
 1997-75,Santa Cruz CH,Clay,32,C,19970825,2,102997,,,Hermes Gamonal,R,180,CHI,20.2354551677,103428,,Q,Juan Ignacio Chela,R,190,ARG,17.9876796715,6-3 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,536,42,781,14
-1997-75,Santa Cruz CH,Clay,32,C,19970825,3,102381,,,Werner Eschauer,R,188,AUT,23.3319644079,109480,,WC,Alex Roman,R,,BOL,22.7679671458,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,496,50,1364,1
-1997-75,Santa Cruz CH,Clay,32,C,19970825,4,102192,8,,Luis Adrian Morejon,R,178,ECU,24.4106776181,109481,,WC,Can Uner,R,,TUR,23.794661191,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,305,118,,
+1997-75,Santa Cruz CH,Clay,32,C,19970825,3,102381,,,Werner Eschauer,R,188,AUT,23.3319644079,209484,,WC,Alex Roman,R,,BOL,22.7679671458,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,496,50,,
+1997-75,Santa Cruz CH,Clay,32,C,19970825,4,102192,8,,Luis Adrian Morejon,R,178,ECU,24.4106776181,209485,,WC,Carlos Navarro,R,,BOL,20.7091033539,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,305,118,,
 1997-75,Santa Cruz CH,Clay,32,C,19970825,5,102585,3,,Sebastian Prieto,R,180,ARG,22.2696783025,102665,,,Damian Furmanski,R,,ARG,21.8891170431,6-7 6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,210,207,391,78
 1997-75,Santa Cruz CH,Clay,32,C,19970825,6,102361,,,Adriano Ferreira,R,193,BRA,23.4442162902,102020,,,Americo Tupi Venero,L,175,PER,25.5058179329,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,561,38,323,107
 1997-75,Santa Cruz CH,Clay,32,C,19970825,7,101933,,,Ricardo Rubio,R,,ESP,26.1464750171,103357,,WC,Javier Taborga,R,,BOL,18.3627652293,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,451,60,,
@@ -2085,7 +2085,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-77,Guadalajara CH,Clay,32,C,19970901,7,103020,,Q,Guillermo Carter,R,,MEX,20.1341546886,103398,,WC,Gerardo Heyser,R,,MEX,18.1464750171,2-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,1225,3
 1997-77,Guadalajara CH,Clay,32,C,19970901,8,102723,6,,Eduardo Medica,R,180,ARG,21.5386721424,101379,,Q,Jaime Teandon,R,,MEX,30.0889801506,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,255,160,,
 1997-77,Guadalajara CH,Clay,32,C,19970901,9,102987,5,,Andre Sa,R,185,BRA,20.3039014374,103727,,WC,Daniel Langre,R,,MEX,16.4681724846,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,224,195,1364,1
-1997-77,Guadalajara CH,Clay,32,C,19970901,10,102133,,,Laurence Tieleman,R,180,ITA,24.7775496235,109482,,Q,Enrique Cagide,R,,MEX,19.2498288843,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,339,100,,
+1997-77,Guadalajara CH,Clay,32,C,19970901,10,102133,,,Laurence Tieleman,R,180,ITA,24.7775496235,209486,,Q,Enrique Cagide,R,,MEX,19.2498288843,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,339,100,,
 1997-77,Guadalajara CH,Clay,32,C,19970901,11,101862,,,Maurice Ruah,R,178,VEN,26.5133470226,103065,,,Kepler Orellana,R,,VEN,19.8795345654,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,294,127,310,115
 1997-77,Guadalajara CH,Clay,32,C,19970901,12,102455,,,Lorenzo Manta,R,190,SUI,22.9404517454,102585,4,,Sebastian Prieto,R,180,ARG,22.2696783025,7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,295,125,210,207
 1997-77,Guadalajara CH,Clay,32,C,19970901,13,102036,8,,Marco Osorio,R,,MEX,25.3990417522,109424,,WC,Ricardo Langre,R,,MEX,25.5441478439,6-3 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,274,141,1278,3

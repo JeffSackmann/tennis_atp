@@ -407,7 +407,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-FRA-01A-2007,France F1,Clay,32,S,20070122,3,105032,,,Samuel Groth,R,,AUS,19.2607802875,104002,,Q,Frederic Nussbaum,U,,SUI,24.6625598905,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,681,27,961,9
 2007-M-FU-FRA-01A-2007,France F1,Clay,32,S,20070122,4,104351,,Q,Benjamin Dracos,U,,FRA,22.765229295,104039,7,,Petar Popovic,U,,SRB,24.4900752909,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,990,8,549,45
 2007-M-FU-FRA-01A-2007,France F1,Clay,32,S,20070122,5,104739,,Q,Guillermo Alcaide,R,188,ESP,20.6570841889,103723,4,,Julien Maes,R,,FRA,25.8973305955,6-2 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,809,16,472,60
-2007-M-FU-FRA-01A-2007,France F1,Clay,32,S,20070122,6,104694,,Q,Mathieu Guenat,R,,SUI,20.8815879535,109477,,WC,Ruslan Miroshnichenko,U,,UKR,,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,902,12,1541,1
+2007-M-FU-FRA-01A-2007,France F1,Clay,32,S,20070122,6,104694,,Q,Mathieu Guenat,R,,SUI,20.8815879535,109477,,WC,Vincent Sapene,R,,FRA,17.8726899384,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,902,12,1541,1
 2007-M-FU-FRA-01A-2007,France F1,Clay,32,S,20070122,7,104365,,WC,Thomas Cazes Carrere,R,,FRA,22.7159479808,104141,,,Dmitri Sitak,R,183,RUS,23.8877481177,4-6 7-6(6) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1009,8,707,24
 2007-M-FU-FRA-01A-2007,France F1,Clay,32,S,20070122,8,103978,6,,Rabie Chaki,U,,MAR,24.7748117728,103853,,,Mattia Livraghi,L,,ITA,25.3360711841,4-6 6-3 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,544,46,629,33
 2007-M-FU-FRA-01A-2007,France F1,Clay,32,S,20070122,9,104672,,,Vincent Millot,L,173,FRA,20.977412731,104291,5,,Malek Jaziri,R,185,TUN,23.0061601643,7-5 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,625,33,537,47
@@ -752,7 +752,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-IND-02A-2007,India F2,Hard,32,S,20070129,7,105066,,,Grzegorz Panfil,L,183,POL,19.0773442847,105072,,Q,Sanam Singh,R,,IND,19.0499657769,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,723,23,1080,6
 2007-M-FU-IND-02A-2007,India F2,Hard,32,S,20070129,8,104628,8,,Alexander Kudryavtsev,R,183,RUS,21.2594113621,103321,,Q,Vinod Sridhar,L,,IND,27.9808350445,3-6 6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,653,30,907,11
 2007-M-FU-IND-02A-2007,India F2,Hard,32,S,20070129,9,104950,,Q,Ervand Gasparyan,U,,RUS,19.627652293,103390,7,,Artemon Apostu Efremov,R,,ROU,27.613963039,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1539,1,621,33
-2007-M-FU-IND-02A-2007,India F2,Hard,32,S,20070129,10,103682,,,Kyu Tae Im,R,185,KOR,26.0616016427,109497,,WC,Daniel Bustamante,U,,BRA,,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,847,14,1539,1
+2007-M-FU-IND-02A-2007,India F2,Hard,32,S,20070129,10,103682,,,Kyu Tae Im,R,185,KOR,26.0616016427,109497,,WC,Kaushik Raju,U,,IND,19.0527036277,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,847,14,1539,1
 2007-M-FU-IND-02A-2007,India F2,Hard,32,S,20070129,11,103501,,,Vijay Kannan,R,,IND,26.984257358,105006,,Q,Chu Huan Yi,L,,TPE,19.4140999316,6-4 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,728,22,1009,8
 2007-M-FU-IND-02A-2007,India F2,Hard,32,S,20070129,12,104816,3,,Karan Rastogi,R,178,IND,20.3093771389,104982,,Q,Huai En Chang,R,,TPE,19.5208761123,2-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,372,91,1280,3
 2007-M-FU-IND-02A-2007,India F2,Hard,32,S,20070129,13,103936,6,,Todor Enev,R,,BUL,24.9719370294,104286,,LL,Vishal Punna,R,,IND,23.0417522245,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,595,38,994,8
@@ -2357,7 +2357,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-GHA-02A-2007,Ghana F2,Clay,32,S,20070319,31,104234,5,,Predrag Rusevski,R,,MKD,23.5592060233,104343,,,Adrian Gavrila,R,,ROU,22.9623545517,6-4 6-3,3,F,,,,,,,,,,,,,,,,,,,,552,43,681,26
 2007-M-FU-ISR-03A-2007,Israel F3,Hard,32,S,20070319,1,103248,1,,Harel Levy,R,185,ISR,28.6187542779,104720,,Q,Florian Reynet,R,,FRA,20.9281314168,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,312,120,,
 2007-M-FU-ISR-03A-2007,Israel F3,Hard,32,S,20070319,2,104947,,Q,Marsel Ilhan,R,190,TUR,19.7700205339,104326,,,Brett Ross,R,,USA,23.0143737166,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1257,3,745,20
-2007-M-FU-ISR-03A-2007,Israel F3,Hard,32,S,20070319,3,104966,,WC,Idan Mark,U,,ISR,19.7070499658,109498,,WC,Alexei Milner,R,,ISR,17.7440109514,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1257,3,1399,2
+2007-M-FU-ISR-03A-2007,Israel F3,Hard,32,S,20070319,3,104966,,WC,Idan Mark,U,,ISR,19.7070499658,209502,,WC,Alexei Milner,R,,ISR,17.7440109514,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1257,3,1399,2
 2007-M-FU-ISR-03A-2007,Israel F3,Hard,32,S,20070319,4,104519,6,,Roman Vogeli,R,,CZE,22.0150581793,104964,,,Victor Kolik,R,,ISR,19.7180013689,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,509,53,711,23
 2007-M-FU-ISR-03A-2007,Israel F3,Hard,32,S,20070319,5,103936,3,,Todor Enev,R,,BUL,25.106091718,104587,,,Claudio Grassi,U,,ITA,21.6481861739,6-4 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,412,76,841,14
 2007-M-FU-ISR-03A-2007,Israel F3,Hard,32,S,20070319,6,103145,,WC,Amir Hadad,R,183,ISR,29.0814510609,104584,,,Simeon Ivanov,R,,BUL,21.6536618754,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,868,13,772,18
@@ -2987,7 +2987,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-FRA-07A-2007,France F7,Clay,32,S,20070409,10,118916,,Q,Laurent Silvy,U,,FRA,27.4934976044,104627,,,Boy Westerhof,R,,NED,21.4565366188,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1342,2,540,45
 2007-M-FU-FRA-07A-2007,France F7,Clay,32,S,20070409,11,103691,,Q,Baptiste Dupuy,L,,FRA,26.2258726899,103624,,LL,Sebastian Uriarte,R,,ARG,26.6036960986,3-6 6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1342,2,866,13
 2007-M-FU-FRA-07A-2007,France F7,Clay,32,S,20070409,12,105098,3,,Alexandre Sidorenko,R,,FRA,19.1375770021,103858,,Q,Frederic Jeanclaude,L,,FRA,25.5167693361,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,337,99,844,14
-2007-M-FU-FRA-07A-2007,France F7,Clay,32,S,20070409,13,102579,7,,Xavier Audouy,U,,FRA,31.9561943874,109465,,LL,Kong Pop Lertchai,U,,THA,14.6009582478,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,469,62,1501,1
+2007-M-FU-FRA-07A-2007,France F7,Clay,32,S,20070409,13,102579,7,,Xavier Audouy,U,,FRA,31.9561943874,209469,,LL,Octavian Nicodim,U,,ROU,24.5776865161,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,469,62,1501,1
 2007-M-FU-FRA-07A-2007,France F7,Clay,32,S,20070409,14,104721,,,Josselin Ouanna,R,193,FRA,20.9856262834,105088,,,Laurent Rochette,R,,FRA,19.1731690623,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,635,30,627,31
 2007-M-FU-FRA-07A-2007,France F7,Clay,32,S,20070409,15,105400,,WC,Stephane Piro,L,,FRA,17.6563997262,104669,,,Julien Gely,R,,FRA,21.2046543463,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,707,22
 2007-M-FU-FRA-07A-2007,France F7,Clay,32,S,20070409,16,105238,2,,Alexandr Dolgopolov,R,180,UKR,18.417522245,102934,,WC,Nicolas Coutelot,R,185,FRA,30.160164271,5-7 7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,270,145,562,41
@@ -4069,7 +4069,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-GBR-10A-2007,Great Britain F10,Clay,32,S,20070507,7,105257,,Q,David Rice,R,,GBR,18.3436002738,120475,,Q,Joshua Miller,U,,GBR,18.507871321,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2007-M-FU-GBR-10A-2007,Great Britain F10,Clay,32,S,20070507,8,105173,7,,Adrian Mannarino,L,183,FRA,18.8528405202,103953,,,Olivier Charroin,L,,FRA,25.158110883,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,462,61,814,15
 2007-M-FU-GBR-10A-2007,Great Britain F10,Clay,32,S,20070507,9,105021,5,,Andrew Coelho,L,180,AUS,19.5947980835,109221,,Q,Edward Allinson,U,,GBR,20.2026009582,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,412,73,1498,1
-2007-M-FU-GBR-10A-2007,Great Britain F10,Clay,32,S,20070507,10,109463,,WC,Francisco Carrillo,U,,ESP,24.9664613279,110482,,Q,Ben Dunbar,R,,GBR,17.7193702943,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2007-M-FU-GBR-10A-2007,Great Britain F10,Clay,32,S,20070507,10,109463,,WC,Graeme Dyce,R,,GBR,17.7850787132,110482,,Q,Ben Dunbar,R,,GBR,17.7193702943,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2007-M-FU-GBR-10A-2007,Great Britain F10,Clay,32,S,20070507,11,103524,,,Diego Alvarez,R,,ARG,27.1676933607,102179,,,Antony Dupuis,R,185,FRA,34.1957563313,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,484,55,565,40
 2007-M-FU-GBR-10A-2007,Great Britain F10,Clay,32,S,20070507,12,103239,4,,Marcus Sarstrand,R,183,SWE,28.7857631759,119889,,Q,Konstantinos Kalaitzis,R,,GRE,19.7645448323,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,385,82,1195,4
 2007-M-FU-GBR-10A-2007,Great Britain F10,Clay,32,S,20070507,13,105217,6,,Thiemo De Bakker,R,193,NED,18.6283367556,105032,,,Samuel Groth,R,,AUS,19.5482546201,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,426,69,509,51
@@ -4080,7 +4080,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-GBR-10A-2007,Great Britain F10,Clay,32,S,20070507,18,104418,,,Matthew Smith,R,,GBR,22.7077344285,105638,,WC,Daniel Cox,R,170,GBR,16.605065024,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,753,18,1149,4
 2007-M-FU-GBR-10A-2007,Great Britain F10,Clay,32,S,20070507,19,103850,3,,Sebastian Decoud,L,178,ARG,25.6317590691,104661,,,Pierre Ludovic Duclos,R,,CAN,21.325119781,4-6 6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,328,101,563,41
 2007-M-FU-GBR-10A-2007,Great Britain F10,Clay,32,S,20070507,20,105173,7,,Adrian Mannarino,L,183,FRA,18.8528405202,105257,,Q,David Rice,R,,GBR,18.3436002738,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,462,61,,
-2007-M-FU-GBR-10A-2007,Great Britain F10,Clay,32,S,20070507,21,105021,5,,Andrew Coelho,L,180,AUS,19.5947980835,109463,,WC,Francisco Carrillo,U,,ESP,24.9664613279,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,412,73,,
+2007-M-FU-GBR-10A-2007,Great Britain F10,Clay,32,S,20070507,21,105021,5,,Andrew Coelho,L,180,AUS,19.5947980835,109463,,WC,Graeme Dyce,R,,GBR,17.7850787132,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,412,73,,
 2007-M-FU-GBR-10A-2007,Great Britain F10,Clay,32,S,20070507,22,103524,,,Diego Alvarez,R,,ARG,27.1676933607,103239,4,,Marcus Sarstrand,R,183,SWE,28.7857631759,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,484,55,385,82
 2007-M-FU-GBR-10A-2007,Great Britain F10,Clay,32,S,20070507,23,105217,6,,Thiemo De Bakker,R,193,NED,18.6283367556,104039,,,Petar Popovic,U,,SRB,24.7775496235,6-1 1-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,426,69,588,37
 2007-M-FU-GBR-10A-2007,Great Britain F10,Clay,32,S,20070507,24,104183,,,Alexander Flock,R,190,GER,23.9780971937,104235,2,,Matwe Middelkoop,R,,NED,23.6741957563,6-2 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,701,22,358,93
@@ -4164,7 +4164,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-KOR-03A-2007,Korea Rep F3,Hard,32,S,20070507,9,103845,7,,Lesley Joseph,U,,USA,25.6427104723,104928,,,Sun Yong Kim Jr,R,,KOR,19.947980835,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,501,52,899,11
 2007-M-FU-KOR-03A-2007,Korea Rep F3,Hard,32,S,20070507,10,104561,,,Jae Sung An,R,,KOR,21.9411362081,103453,,,Chul Hee Lee,U,,KOR,27.575633128,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,526,47,896,11
 2007-M-FU-KOR-03A-2007,Korea Rep F3,Hard,32,S,20070507,11,105147,,,Tatsuma Ito,R,180,JPN,18.9678302533,120560,,Q,Daniel Cho,U,,KOR,21.6153319644,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,831,14,,
-2007-M-FU-KOR-03A-2007,Korea Rep F3,Hard,32,S,20070507,12,105216,4,,Yuichi Sugita,R,173,JPN,18.6310746064,109467,,Q,Jagdish Tanwar,U,,IND,32.9308692676,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,465,60,,
+2007-M-FU-KOR-03A-2007,Korea Rep F3,Hard,32,S,20070507,12,105216,4,,Yuichi Sugita,R,173,JPN,18.6310746064,109467,,Q,Woo Ram Kim,U,,KOR,21.7467488022,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,465,60,,
 2007-M-FU-KOR-03A-2007,Korea Rep F3,Hard,32,S,20070507,13,103175,8,,Toshihide Matsui,R,180,JPN,29.0485968515,102054,,Q,Seung Kyu Park,R,,KOR,34.9815195072,6-2 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,504,51,,
 2007-M-FU-KOR-03A-2007,Korea Rep F3,Hard,32,S,20070507,14,103983,,,Aleksandar Vlaski,L,,SRB,25.0431211499,120561,,WC,Seung Jae Lee,U,,KOR,21.7686516085,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,601,35,,
 2007-M-FU-KOR-03A-2007,Korea Rep F3,Hard,32,S,20070507,15,103220,,,Oh Hee Kwon,R,,KOR,28.8843258042,118838,,,Sung Hyuk Yu,U,,KOR,24.9336071184,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,611,33,1037,6
@@ -4619,7 +4619,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-CZE-02A-2007,Czech Rep F2,Clay,32,S,20070514,30,103281,,,Ladislav Svarc,R,188,SVK,28.4982888433,104185,5,,Dusan Karol,R,,CZE,23.9863107461,3-6 7-6(3) 7-6(4),3,SF,,,,,,,,,,,,,,,,,,,,607,33,515,50
 2007-M-FU-CZE-02A-2007,Czech Rep F2,Clay,32,S,20070514,31,102886,,Q,Frantisek Cermak,R,193,CZE,30.4941820671,103281,,,Ladislav Svarc,R,188,SVK,28.4982888433,7-6(5) 6-2,3,F,,,,,,,,,,,,,,,,,,,,670,25,607,33
 2007-M-FU-GRE-02A-2007,Greece F2,Hard,32,S,20070514,1,104671,,,Miles Kasiri,R,,GBR,21.28678987,104470,1,,Komlavi Loglo,R,183,TOG,22.3682409309,1-6 7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1111,5,344,96
-2007-M-FU-GRE-02A-2007,Greece F2,Hard,32,S,20070514,2,104922,,Q,Almog Mashiach,U,,ISR,19.9890485969,109498,,Q,Alexei Milner,R,,ISR,17.8973305955,6-7(4) 6-2 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,1235,3,1377,2
+2007-M-FU-GRE-02A-2007,Greece F2,Hard,32,S,20070514,2,104922,,Q,Almog Mashiach,U,,ISR,19.9890485969,209502,,Q,Alexei Milner,R,,ISR,17.8973305955,6-7(4) 6-2 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,1235,3,1377,2
 2007-M-FU-GRE-02A-2007,Greece F2,Hard,32,S,20070514,3,104622,,,Massimo Capone,R,,ITA,21.5852156057,105094,,,Paris Gemouchidis,R,175,GRE,19.2498288843,7-6(1) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1092,5,908,10
 2007-M-FU-GRE-02A-2007,Greece F2,Hard,32,S,20070514,4,104747,5,,Tom Rushby,R,,GBR,20.9418206708,119649,,WC,George Balafoutas,U,,GRE,18.726899384,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,651,28,1500,1
 2007-M-FU-GRE-02A-2007,Greece F2,Hard,32,S,20070514,5,105014,3,,Antal Van Der Duim,R,,NED,19.6577686516,105264,,Q,Isaac Frost,R,,AUS,18.3490759754,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,555,43,,
@@ -5399,7 +5399,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-IND-03A-2007,India F3,Hard,32,S,20070528,4,104684,6,,Navdeep Singh,R,,IND,21.2621492129,119996,,WC,Kinshuk Sharma,R,,IND,17.826146475,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,744,19,,
 2007-M-FU-IND-03A-2007,India F3,Hard,32,S,20070528,5,103501,4,,Vijay Kannan,R,,IND,27.3100616016,105502,,WC,N Sriram Balaji,R,,IND,17.1937029432,0-6 7-6(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,743,19,1255,3
 2007-M-FU-IND-03A-2007,India F3,Hard,32,S,20070528,6,104337,,,Stephen Amritraj,R,,IND,23.1649555099,105315,,Q,Andrew Fitzpatrick,R,,GBR,18.1409993155,4-6 7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1013,7,,
-2007-M-FU-IND-03A-2007,India F3,Hard,32,S,20070528,7,104817,,WC,Tushar Liberhan,R,,IND,20.6351813826,109478,,,Jiri Placek,U,,CZE,17.8151950719,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1255,3,1154,4
+2007-M-FU-IND-03A-2007,India F3,Hard,32,S,20070528,7,104817,,WC,Tushar Liberhan,R,,IND,20.6351813826,109478,,,Kiran Nandkumar,U,,IND,21.5934291581,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1255,3,1154,4
 2007-M-FU-IND-03A-2007,India F3,Hard,32,S,20070528,8,104404,,,Rob Searle,R,,GBR,22.855578371,104418,5,,Matthew Smith,R,,GBR,22.765229295,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,884,12,751,19
 2007-M-FU-IND-03A-2007,India F3,Hard,32,S,20070528,9,104986,,,Vishnu Vardhan,R,188,IND,19.8357289528,103768,8,,Guilherme Ochiai,R,,BRA,26.0561259411,7-6(4) 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,943,9,796,16
 2007-M-FU-IND-03A-2007,India F3,Hard,32,S,20070528,10,104250,,,Prakash Amritraj,R,188,IND,23.65229295,104313,,Q,Jonathan Kinsella,R,185,GBR,23.2607802875,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,700,23,,
@@ -5651,7 +5651,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-IND-04A-2007,India F4,Hard,32,S,20070604,8,103501,5,,Vijay Kannan,R,,IND,27.3292265572,104337,,,Stephen Amritraj,R,,IND,23.1841204654,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,743,19,1013,7
 2007-M-FU-IND-04A-2007,India F4,Hard,32,S,20070604,9,104313,,Q,Jonathan Kinsella,R,185,GBR,23.279945243,104065,7,WC,Ashutosh Singh,R,,IND,24.6899383984,6-3 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,746,19
 2007-M-FU-IND-04A-2007,India F4,Hard,32,S,20070604,10,105148,,,Hsin Han Lee,R,,TPE,19.0417522245,111262,,Q,Satoshi Yoshino,L,,JPN,27.8138261465,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,762,18,1522,1
-2007-M-FU-IND-04A-2007,India F4,Hard,32,S,20070604,11,105502,,Q,N Sriram Balaji,R,,IND,17.2128678987,109478,,,Jiri Placek,U,,CZE,17.8343600274,1-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1255,3,1154,4
+2007-M-FU-IND-04A-2007,India F4,Hard,32,S,20070604,11,105502,,Q,N Sriram Balaji,R,,IND,17.2128678987,109478,,,Kiran Nandkumar,U,,IND,21.6125941136,1-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1255,3,1154,4
 2007-M-FU-IND-04A-2007,India F4,Hard,32,S,20070604,12,104250,4,,Prakash Amritraj,R,188,IND,23.6714579055,120583,,Q,Mithun Murali,U,,IND,24.6954140999,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,700,23,1348,2
 2007-M-FU-IND-04A-2007,India F4,Hard,32,S,20070604,13,104418,8,,Matthew Smith,R,,GBR,22.7843942505,104286,,,Vishal Punna,R,,IND,23.3867214237,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,751,19,975,8
 2007-M-FU-IND-04A-2007,India F4,Hard,32,S,20070604,14,104646,,,Purav Raja,R,,IND,21.4893908282,119143,,WC,Varun Walia,U,,IND,21.5222450376,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,887,12,,
@@ -6075,7 +6075,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-GER-05A-2007,Germany F5,Clay,32,S,20070611,29,104593,4,,Daniel Gimeno Traver,R,185,ESP,21.8425735797,104079,,Q,Marius Zay,U,,GER,24.6269678303,6-2 6-1,3,SF,,,,,,,,,,,,,,,,,,,,282,127,1031,7
 2007-M-FU-GER-05A-2007,Germany F5,Clay,32,S,20070611,30,103708,,,Jaroslav Pospisil,R,,CZE,26.3326488706,103763,,Q,Martin Slanar,R,,AUT,26.1108829569,6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,505,50,496,52
 2007-M-FU-GER-05A-2007,Germany F5,Clay,32,S,20070611,31,104593,4,,Daniel Gimeno Traver,R,185,ESP,21.8425735797,103708,,,Jaroslav Pospisil,R,,CZE,26.3326488706,6-3 6-3,3,F,,,,,,,,,,,,,,,,,,,,282,127,505,50
-2007-M-FU-IND-05A-2007,India F5,Hard,32,S,20070611,1,104816,1,,Karan Rastogi,R,178,IND,20.6735112936,109478,,Q,Jiri Placek,U,,CZE,17.8535249829,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,409,73,1149,4
+2007-M-FU-IND-05A-2007,India F5,Hard,32,S,20070611,1,104816,1,,Karan Rastogi,R,178,IND,20.6735112936,109478,,Q,Kiran Nandkumar,U,,IND,21.6317590691,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,409,73,1149,4
 2007-M-FU-IND-05A-2007,India F5,Hard,32,S,20070611,2,104566,,,Aditya Madkekar,U,,IND,21.9986310746,104479,,,Sarvar Ikramov,R,,UZB,22.4147843943,7-6(4) RET,3,R32,,,,,,,,,,,,,,,,,,,,739,19,789,16
 2007-M-FU-IND-05A-2007,India F5,Hard,32,S,20070611,3,104817,,WC,Tushar Liberhan,R,,IND,20.6735112936,104286,,,Vishal Punna,R,,IND,23.4058863792,6-3 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,1059,6,832,14
 2007-M-FU-IND-05A-2007,India F5,Hard,32,S,20070611,4,104684,8,,Navdeep Singh,R,,IND,21.3004791239,105233,,,Jeevan Nedunchezhiyan,L,,IND,18.6392881588,4-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,741,19,909,10
@@ -6949,7 +6949,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-TUR-06A-2007,Turkey F6,Hard,32,S,20070618,4,104512,8,,Ergun Zorlu,R,,TUR,22.2943189596,108684,,Q,Mehdi Bouabbane,R,,ALG,18.9075975359,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,819,15,1386,2
 2007-M-FU-TUR-06A-2007,Turkey F6,Hard,32,S,20070618,5,104402,4,,Clement Morel,R,,MON,22.9212867899,104130,,,Ross Connolly,R,,GBR,24.3258042437,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,544,44,1034,7
 2007-M-FU-TUR-06A-2007,Turkey F6,Hard,32,S,20070618,6,104322,,,Daniel Dueren,R,,GER,23.2854209446,104434,,Q,Saar Steele,R,,ISR,22.7186858316,7-6(3) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1500,1,1500,1
-2007-M-FU-TUR-06A-2007,Turkey F6,Hard,32,S,20070618,7,109408,,Q,Ignacio Vicente,R,,ESP,22.7323750856,109498,,Q,Alexei Milner,R,,ISR,17.993155373,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1205,4,,
+2007-M-FU-TUR-06A-2007,Turkey F6,Hard,32,S,20070618,7,109408,,Q,Ignacio Vicente,R,,ESP,22.7323750856,209502,,Q,Alexei Milner,R,,ISR,17.993155373,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1205,4,,
 2007-M-FU-TUR-06A-2007,Turkey F6,Hard,32,S,20070618,8,104106,7,,Ludovic Walter,U,,FRA,24.4517453799,120146,,WC,Ilhan Mutlu,U,,TUR,20.3668720055,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,816,15,,
 2007-M-FU-TUR-06A-2007,Turkey F6,Hard,32,S,20070618,9,104142,5,,Peter Shults,U,,USA,24.2874743326,104654,,WC,Baris Erguden,R,,TUR,21.4592744695,6-3 6-7(6) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,729,21,,
 2007-M-FU-TUR-06A-2007,Turkey F6,Hard,32,S,20070618,10,105236,,,Pirmin Haenle,R,,GER,18.6283367556,119700,,WC,Serkan Akin Dilek,U,,TUR,21.3141683778,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1117,5,,
@@ -7727,7 +7727,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-GBR-11A-2007,Great Britain F11,Grass,32,S,20070709,7,105454,,,Brydan Klein,R,183,AUS,17.5195071869,104168,,Q,Enrico Iannuzzi,R,,ITA,24.2026009582,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,778,18,880,13
 2007-M-FU-GBR-11A-2007,Great Britain F11,Grass,32,S,20070709,8,105021,5,,Andrew Coelho,L,180,AUS,19.7672826831,105651,,WC,Daniel Smethurst,U,,GBR,16.7364818617,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,403,80,,
 2007-M-FU-GBR-11A-2007,Great Britain F11,Grass,32,S,20070709,9,105032,8,,Samuel Groth,R,,AUS,19.7207392197,103723,,,Julien Maes,R,,FRA,26.3572895277,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,497,55,486,57
-2007-M-FU-GBR-11A-2007,Great Britain F11,Grass,32,S,20070709,10,109463,,WC,Francisco Carrillo,U,,ESP,25.1389459274,104036,,,Simon Rea,L,,NZL,24.9746748802,7-5 6-7(5) 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,1511,1,506,52
+2007-M-FU-GBR-11A-2007,Great Britain F11,Grass,32,S,20070709,10,109463,,WC,Graeme Dyce,R,,GBR,17.9575633128,104036,,,Simon Rea,L,,NZL,24.9746748802,7-5 6-7(5) 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,1511,1,506,52
 2007-M-FU-GBR-11A-2007,Great Britain F11,Grass,32,S,20070709,11,104747,,,Tom Rushby,R,,GBR,21.0951403149,103406,,,Ralph Grambow,R,,GER,27.9863107461,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,580,37,652,29
 2007-M-FU-GBR-11A-2007,Great Britain F11,Grass,32,S,20070709,12,103425,3,,Nicolas Tourte,L,,FRA,27.8904859685,105100,,Q,Edward Corrie,U,,GBR,19.3785078713,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,250,155,1125,5
 2007-M-FU-GBR-11A-2007,Great Britain F11,Grass,32,S,20070709,13,105554,,Q,Daniel Evans,R,175,GBR,17.1279945243,104690,6,,Divij Sharan,L,,IND,21.3524982888,6-3 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,1511,1,457,63
@@ -7738,7 +7738,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-GBR-11A-2007,Great Britain F11,Grass,32,S,20070709,18,104661,,,Pierre Ludovic Duclos,R,,CAN,21.4976043806,102945,,,Luke Bourgeois,R,188,AUS,30.3490759754,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,509,52,567,39
 2007-M-FU-GBR-11A-2007,Great Britain F11,Grass,32,S,20070709,19,104644,,,Riccardo Ghedin,R,188,ITA,21.5906913073,104517,4,,Adam Feeney,R,178,AUS,22.3381245722,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,549,42,338,106
 2007-M-FU-GBR-11A-2007,Great Britain F11,Grass,32,S,20070709,20,105021,5,,Andrew Coelho,L,180,AUS,19.7672826831,105454,,,Brydan Klein,R,183,AUS,17.5195071869,6-3 4-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,403,80,778,18
-2007-M-FU-GBR-11A-2007,Great Britain F11,Grass,32,S,20070709,21,105032,8,,Samuel Groth,R,,AUS,19.7207392197,109463,,WC,Francisco Carrillo,U,,ESP,25.1389459274,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,497,55,1511,1
+2007-M-FU-GBR-11A-2007,Great Britain F11,Grass,32,S,20070709,21,105032,8,,Samuel Groth,R,,AUS,19.7207392197,109463,,WC,Graeme Dyce,R,,GBR,17.9575633128,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,497,55,1511,1
 2007-M-FU-GBR-11A-2007,Great Britain F11,Grass,32,S,20070709,22,103425,3,,Nicolas Tourte,L,,FRA,27.8904859685,104747,,,Tom Rushby,R,,GBR,21.0951403149,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,250,155,580,37
 2007-M-FU-GBR-11A-2007,Great Britain F11,Grass,32,S,20070709,23,105554,,Q,Daniel Evans,R,175,GBR,17.1279945243,105422,,Q,Joshua Milton,R,,GBR,17.7330595483,4-6 7-6(7) 6-0,3,R16,,,,,,,,,,,,,,,,,,,,1511,1,,
 2007-M-FU-GBR-11A-2007,Great Britain F11,Grass,32,S,20070709,24,104623,2,,Josh Goodall,R,188,GBR,21.7248459959,103929,,,Philipp Marx,R,188,GER,25.4264202601,7-6(3) 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,,,591,36
@@ -7759,7 +7759,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-IRI-01A-2007,Iran F1,Clay,32,S,20070709,8,104879,7,,Myles Blake,R,,GBR,20.3613963039,103875,,WC,Anoosha Shahgholi,U,,IRI,25.659137577,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,829,15,892,12
 2007-M-FU-IRI-01A-2007,Iran F1,Clay,32,S,20070709,9,104246,5,,Motaz Abou El Khair,U,,EGY,23.8001368925,105606,,WC,Mohsen Hossein Zade,U,,IRI,16.9253935661,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,653,29,,
 2007-M-FU-IRI-01A-2007,Iran F1,Clay,32,S,20070709,10,104895,,Q,Abdullah Maqdas,U,,KUW,20.2737850787,106991,,Q,Farshad Talavar,U,,IRI,,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1383,2,,
-2007-M-FU-IRI-01A-2007,Iran F1,Clay,32,S,20070709,11,103776,,,Alexei Filenkov,R,,RUS,26.1437371663,109478,,,Jiri Placek,U,,CZE,17.9301848049,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1286,3,1163,4
+2007-M-FU-IRI-01A-2007,Iran F1,Clay,32,S,20070709,11,103776,,,Alexei Filenkov,R,,RUS,26.1437371663,109478,,,Kiran Nandkumar,U,,IND,21.7084188912,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1286,3,1163,4
 2007-M-FU-IRI-01A-2007,Iran F1,Clay,32,S,20070709,12,104402,3,,Clement Morel,R,,MON,22.9787816564,109163,,,Artem Isaev,U,,RUS,20.0027378508,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,531,46,1246,3
 2007-M-FU-IRI-01A-2007,Iran F1,Clay,32,S,20070709,13,105009,,,Elbert Sie,R,,INA,19.8384668036,104566,6,,Aditya Madkekar,U,,IND,22.0752908966,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,801,16,715,22
 2007-M-FU-IRI-01A-2007,Iran F1,Clay,32,S,20070709,14,118949,,LL,Farzad Heidari,R,,IRI,22.2368240931,120704,,LL,Saeed Daroodi,U,,IRI,20.0492813142,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1511,1,,
@@ -8099,7 +8099,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-IRI-02A-2007,Iran F2,Clay,32,S,20070716,7,105103,,,Pavel Katliarov,R,,BLR,19.394934976,109606,,WC,Amir Soheil Mohseni,U,,IRI,27.1594798084,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,940,10,,
 2007-M-FU-IRI-02A-2007,Iran F2,Clay,32,S,20070716,8,104947,7,,Marsel Ilhan,R,190,TUR,20.0958247775,105680,,Q,Navid Johannigmann,U,,GER,16.5694729637,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,716,22,1507,1
 2007-M-FU-IRI-02A-2007,Iran F2,Clay,32,S,20070716,9,104254,8,Q,Charles Roche,R,,FRA,23.7700205339,104773,,WC,Omid Souri,R,,IRI,20.9664613279,6-4 4-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,755,19,1507,1
-2007-M-FU-IRI-02A-2007,Iran F2,Clay,32,S,20070716,10,109163,,,Artem Isaev,U,,RUS,20.0219028063,109478,,,Jiri Placek,U,,CZE,17.9493497604,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1244,3,1167,4
+2007-M-FU-IRI-02A-2007,Iran F2,Clay,32,S,20070716,10,109163,,,Artem Isaev,U,,RUS,20.0219028063,109478,,,Kiran Nandkumar,U,,IND,21.7275838467,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1244,3,1167,4
 2007-M-FU-IRI-02A-2007,Iran F2,Clay,32,S,20070716,11,103803,,,Ashkan Shokoofi,U,,IRI,26.0177960301,105566,,WC,Shahin Khaledan,R,,IRI,17.106091718,7-6(3) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1064,6,,
 2007-M-FU-IRI-02A-2007,Iran F2,Clay,32,S,20070716,12,104992,4,,Syrym Abdukhalikov,R,,KAZ,19.9397672827,103776,,,Alexei Filenkov,R,,RUS,26.1629021218,6-3 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,682,25,1380,2
 2007-M-FU-IRI-02A-2007,Iran F2,Clay,32,S,20070716,13,104566,6,,Aditya Madkekar,U,,IND,22.0944558522,108928,,Q,Saeid Ahmadvand,L,,IRI,31.318275154,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,715,22,1507,1
@@ -8278,14 +8278,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-GEO-01A-2007,Georgia F1,Hard,32,S,20070723,31,104569,3,,Lado Chikhladze,R,,GEO,22.1026694045,104402,2,,Clement Morel,R,,MON,23.0171115674,7-6(5) 6-4,3,F,,,,,,,,,,,,,,,,,,,,554,40,513,48
 2007-M-FU-IND-06A-2007,India F6,Clay,32,S,20070723,1,103499,1,,Aqeel Khan,R,,PAK,27.4770704997,104426,,Q,Tzu Yang Lin,U,,TPE,22.8692676249,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,535,43,,
 2007-M-FU-IND-06A-2007,India F6,Clay,32,S,20070723,2,104817,,,Tushar Liberhan,R,,IND,20.7885010267,105432,,Q,Prajnesh Gunneswaran,L,,IND,17.6919917864,7-6(5) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1026,7,,
-2007-M-FU-IND-06A-2007,India F6,Clay,32,S,20070723,3,120700,,Q,Siddharth Alapati,R,,IND,19.1266255989,109497,,WC,Daniel Bustamante,U,,BRA,,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2007-M-FU-IND-06A-2007,India F6,Clay,32,S,20070723,3,120700,,Q,Siddharth Alapati,R,,IND,19.1266255989,109497,,WC,Kaushik Raju,U,,IND,19.5318275154,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2007-M-FU-IND-06A-2007,India F6,Clay,32,S,20070723,4,103768,8,,Guilherme Ochiai,R,,BRA,26.2094455852,104986,,,Vishnu Vardhan,R,188,IND,19.9890485969,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,752,19,793,16
 2007-M-FU-IND-06A-2007,India F6,Clay,32,S,20070723,5,105233,,,Jeevan Nedunchezhiyan,L,,IND,18.7542778919,104566,4,,Aditya Madkekar,U,,IND,22.1136208077,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,919,10,707,22
 2007-M-FU-IND-06A-2007,India F6,Clay,32,S,20070723,6,104045,,,Lance Vodicka,U,,USA,24.9719370294,105502,,,N Sriram Balaji,R,,IND,17.3470225873,3-6 7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1130,5,1246,3
 2007-M-FU-IND-06A-2007,India F6,Clay,32,S,20070723,7,105501,,Q,Akash Wagh,L,175,IND,17.3497604381,104401,,Q,Jaco Mathew,R,,IND,23.0198494182,7-6(2) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1107,5,1512,1
 2007-M-FU-IND-06A-2007,India F6,Clay,32,S,20070723,8,105042,,Q,Vignesh Peranamallur,R,,IND,19.7097878166,104988,5,,Vivek Shokeen,R,,IND,19.9780971937,6-4 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,,,726,21
 2007-M-FU-IND-06A-2007,India F6,Clay,32,S,20070723,9,105147,6,,Tatsuma Ito,R,180,JPN,19.1786447639,104366,,WC,Rohan Gajjar,R,,IND,23.2060232717,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,729,21,1382,2
-2007-M-FU-IND-06A-2007,India F6,Clay,32,S,20070723,10,109478,,,Jiri Placek,U,,CZE,17.9685147159,119996,,Q,Kinshuk Sharma,R,,IND,17.9794661191,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1170,4,,
+2007-M-FU-IND-06A-2007,India F6,Clay,32,S,20070723,10,109478,,,Kiran Nandkumar,U,,IND,21.7467488022,119996,,Q,Kinshuk Sharma,R,,IND,17.9794661191,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1170,4,,
 2007-M-FU-IND-06A-2007,India F6,Clay,32,S,20070723,11,104730,,WC,Ajai Selvaraj,R,,IND,21.1800136893,104822,,Q,N Vijay Sundar Prashanth,R,,IND,20.7364818617,7-6(3) 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2007-M-FU-IND-06A-2007,India F6,Clay,32,S,20070723,12,105148,3,,Hsin Han Lee,R,,TPE,19.1759069131,104491,,,Yannick Nelord,R,,IND,22.4969199179,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,669,26,1333,2
 2007-M-FU-IND-06A-2007,India F6,Clay,32,S,20070723,13,105142,,,Arata Onozawa,U,,JPN,19.2334017796,104065,7,,Ashutosh Singh,R,,IND,24.8240930869,6-4 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,944,9,748,19
@@ -8296,7 +8296,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-IND-06A-2007,India F6,Clay,32,S,20070723,18,103768,8,,Guilherme Ochiai,R,,BRA,26.2094455852,120700,,Q,Siddharth Alapati,R,,IND,19.1266255989,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,752,19,,
 2007-M-FU-IND-06A-2007,India F6,Clay,32,S,20070723,19,105233,,,Jeevan Nedunchezhiyan,L,,IND,18.7542778919,104045,,,Lance Vodicka,U,,USA,24.9719370294,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,919,10,1130,5
 2007-M-FU-IND-06A-2007,India F6,Clay,32,S,20070723,20,105501,,Q,Akash Wagh,L,175,IND,17.3497604381,105042,,Q,Vignesh Peranamallur,R,,IND,19.7097878166,6-3 1-6 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,1107,5,,
-2007-M-FU-IND-06A-2007,India F6,Clay,32,S,20070723,21,105147,6,,Tatsuma Ito,R,180,JPN,19.1786447639,109478,,,Jiri Placek,U,,CZE,17.9685147159,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,729,21,1170,4
+2007-M-FU-IND-06A-2007,India F6,Clay,32,S,20070723,21,105147,6,,Tatsuma Ito,R,180,JPN,19.1786447639,109478,,,Kiran Nandkumar,U,,IND,21.7467488022,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,729,21,1170,4
 2007-M-FU-IND-06A-2007,India F6,Clay,32,S,20070723,22,105148,3,,Hsin Han Lee,R,,TPE,19.1759069131,104730,,WC,Ajai Selvaraj,R,,IND,21.1800136893,6-7(5) 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,669,26,,
 2007-M-FU-IND-06A-2007,India F6,Clay,32,S,20070723,23,102774,,,Katsushi Fukuda,R,,JPN,31.2717316906,105142,,,Arata Onozawa,U,,JPN,19.2334017796,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1382,2,944,9
 2007-M-FU-IND-06A-2007,India F6,Clay,32,S,20070723,24,103501,2,,Vijay Kannan,R,,IND,27.4633812457,105482,,WC,Vijayant Malik,R,,IND,17.4346338125,4-6 6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,662,26,,
@@ -8660,7 +8660,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-IND-07A-2007,India F7,Hard,32,S,20070730,10,105362,,Q,Ashwin Vijayragavan,R,,IND,18.0917180014,119143,,WC,Varun Walia,U,,IND,21.6755646817,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2007-M-FU-IND-07A-2007,India F7,Hard,32,S,20070730,11,104065,,,Ashutosh Singh,R,,IND,24.8432580424,103768,,,Guilherme Ochiai,R,,BRA,26.2286105407,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,737,19,751,18
 2007-M-FU-IND-07A-2007,India F7,Hard,32,S,20070730,12,103501,3,,Vijay Kannan,R,,IND,27.4825462012,104817,,,Tushar Liberhan,R,,IND,20.8076659822,7-6(2) 3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,659,26,1028,7
-2007-M-FU-IND-07A-2007,India F7,Hard,32,S,20070730,13,104566,5,,Aditya Madkekar,U,,IND,22.1327857632,109478,,,Jiri Placek,U,,CZE,17.9876796715,6-0 3-6 RET,3,R32,,,,,,,,,,,,,,,,,,,,695,23,1166,4
+2007-M-FU-IND-07A-2007,India F7,Hard,32,S,20070730,13,104566,5,,Aditya Madkekar,U,,IND,22.1327857632,109478,,,Kiran Nandkumar,U,,IND,21.7659137577,6-0 3-6 RET,3,R32,,,,,,,,,,,,,,,,,,,,695,23,1166,4
 2007-M-FU-IND-07A-2007,India F7,Hard,32,S,20070730,14,104986,,,Vishnu Vardhan,R,188,IND,20.0082135524,119740,,Q,Leandro Ferreira,U,,BRA,21.5468856947,7-6(10) 2-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,786,16,,
 2007-M-FU-IND-07A-2007,India F7,Hard,32,S,20070730,15,105482,,WC,Vijayant Malik,R,,IND,17.453798768,102774,,LL,Katsushi Fukuda,R,,JPN,31.2908966461,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1388,2
 2007-M-FU-IND-07A-2007,India F7,Hard,32,S,20070730,16,103817,2,,Yu Jr Wang,L,,CHN,25.993155373,105142,,,Arata Onozawa,U,,JPN,19.2525667351,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,632,29,942,9
@@ -9090,7 +9090,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-IND-08A-2007,India F8,Hard,32,S,20070806,9,104065,8,,Ashutosh Singh,R,,IND,24.8624229979,120422,,Q,Eui Yeol Yang,U,,KOR,21.9356605065,5-7 6-4 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,738,19,,
 2007-M-FU-IND-08A-2007,India F8,Hard,32,S,20070806,10,104741,,Q,Dong Whee Choi,U,,KOR,21.1909650924,104045,,,Lance Vodicka,U,,USA,25.0102669405,3-6 6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1515,1,1079,6
 2007-M-FU-IND-08A-2007,India F8,Hard,32,S,20070806,11,105042,,WC,Vignesh Peranamallur,R,,IND,19.7481177276,120586,,Q,Gursharan Singh,U,,IND,25.4045174538,3-6 2-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,1515,1,1515,1
-2007-M-FU-IND-08A-2007,India F8,Hard,32,S,20070806,12,104566,4,,Aditya Madkekar,U,,IND,22.1519507187,109478,,,Jiri Placek,U,,CZE,18.006844627,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,697,23,1110,5
+2007-M-FU-IND-08A-2007,India F8,Hard,32,S,20070806,12,104566,4,,Aditya Madkekar,U,,IND,22.1519507187,109478,,,Kiran Nandkumar,U,,IND,21.7850787132,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,697,23,1110,5
 2007-M-FU-IND-08A-2007,India F8,Hard,32,S,20070806,13,104366,,WC,Rohan Gajjar,R,,IND,23.2443531828,104684,5,,Navdeep Singh,R,,IND,21.453798768,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1386,2,699,23
 2007-M-FU-IND-08A-2007,India F8,Hard,32,S,20070806,14,109313,,LL,Rohan Gide,L,,IND,20.4572210815,104730,,Q,Ajai Selvaraj,R,,IND,21.2183436003,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1515,1
 2007-M-FU-IND-08A-2007,India F8,Hard,32,S,20070806,15,104817,,,Tushar Liberhan,R,,IND,20.8268309377,119740,,Q,Leandro Ferreira,U,,BRA,21.5660506502,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,991,8,,
@@ -9488,7 +9488,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-GER-13A-2007,Germany F13,Clay,32,S,20070813,4,105007,8,,David Klier,R,,GER,19.9507186858,120132,,,Angel Diankov,R,,BUL,25.7412731006,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,597,34,1287,3
 2007-M-FU-GER-13A-2007,Germany F13,Clay,32,S,20070813,5,103229,4,,Kornel Bardoczky,R,,HUN,29.106091718,104990,,Q,Jean Zietsman,R,,GER,20.0246406571,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,514,47,1507,1
 2007-M-FU-GER-13A-2007,Germany F13,Clay,32,S,20070813,6,105112,,,Marc Meigel,R,,GER,19.4414784394,120397,,,Patrick Kuhn,U,,GER,20.2847364819,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,778,17,1168,4
-2007-M-FU-GER-13A-2007,Germany F13,Clay,32,S,20070813,7,109485,,WC,Jean Francois Merven,R,,MRI,,103148,,Q,Norbert Mazany,R,,HUN,29.4784394251,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,1507,1
+2007-M-FU-GER-13A-2007,Germany F13,Clay,32,S,20070813,7,109485,,WC,Mike Steinherr,U,,GER,21.1772758385,103148,,Q,Norbert Mazany,R,,HUN,29.4784394251,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,1507,1
 2007-M-FU-GER-13A-2007,Germany F13,Clay,32,S,20070813,8,105074,5,,Ruben Bemelmans,L,,BEL,19.5783709788,120642,,LL,Benedikt Lindheim,U,,GER,19.189596167,6-1 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,526,44,,
 2007-M-FU-GER-13A-2007,Germany F13,Clay,32,S,20070813,9,104893,6,,Maxime Authom,R,,BEL,20.3750855578,103636,,,Federico Torresi,R,,ITA,26.8747433265,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,561,39,748,19
 2007-M-FU-GER-13A-2007,Germany F13,Clay,32,S,20070813,10,104845,,,Henrik Norfeldt,R,,SWE,20.6379192334,105514,,Q,Jeremy Jahn,R,180,GER,17.3552361396,7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1213,4,,
@@ -9501,7 +9501,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-GER-13A-2007,Germany F13,Clay,32,S,20070813,17,104569,1,,Lado Chikhladze,R,,GEO,22.160164271,105109,,,Marc Sieber,L,178,GER,19.4551676934,6-2 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,407,77,710,22
 2007-M-FU-GER-13A-2007,Germany F13,Clay,32,S,20070813,18,105007,8,,David Klier,R,,GER,19.9507186858,104830,,,Matteo Marrai,U,,ITA,20.7364818617,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,597,34,647,29
 2007-M-FU-GER-13A-2007,Germany F13,Clay,32,S,20070813,19,103229,4,,Kornel Bardoczky,R,,HUN,29.106091718,105112,,,Marc Meigel,R,,GER,19.4414784394,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,514,47,778,17
-2007-M-FU-GER-13A-2007,Germany F13,Clay,32,S,20070813,20,105074,5,,Ruben Bemelmans,L,,BEL,19.5783709788,109485,,WC,Jean Francois Merven,R,,MRI,,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,526,44,,
+2007-M-FU-GER-13A-2007,Germany F13,Clay,32,S,20070813,20,105074,5,,Ruben Bemelmans,L,,BEL,19.5783709788,109485,,WC,Mike Steinherr,U,,GER,21.1772758385,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,526,44,,
 2007-M-FU-GER-13A-2007,Germany F13,Clay,32,S,20070813,21,104893,6,,Maxime Authom,R,,BEL,20.3750855578,104845,,,Henrik Norfeldt,R,,SWE,20.6379192334,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,561,39,1213,4
 2007-M-FU-GER-13A-2007,Germany F13,Clay,32,S,20070813,22,103793,3,,Martin Vacek,R,,CZE,26.160164271,104044,,,Andre Wiesler,U,,GER,25.0321697467,6-7(4) 7-6(3) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,503,49,848,14
 2007-M-FU-GER-13A-2007,Germany F13,Clay,32,S,20070813,23,105430,,Q,Radu Albot,R,,MDA,17.7522245038,105462,,WC,David Thurner,U,,GER,17.582477755,1-6 6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1381,2,1381,2
@@ -10355,7 +10355,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-VEN-02A-2007,Venezuela F2,Hard,32,S,20070820,3,105219,,WC,Miguel Cicenia,R,,VEN,18.9103353867,108918,,Q,Favel Antonio Freyre Perdomo,U,,CUB,21.4784394251,6-0 1-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1504,1,,
 2007-M-FU-VEN-02A-2007,Venezuela F2,Hard,32,S,20070820,4,103175,7,,Toshihide Matsui,R,180,JPN,29.3360711841,105055,,,Borja Malo,L,,CHI,19.6796714579,6-1 5-7 6-1,3,R32,,,,,,,,,,,,,,,,,,,,720,21,989,8
 2007-M-FU-VEN-02A-2007,Venezuela F2,Hard,32,S,20070820,5,103286,3,,Yohny Romero,R,,VEN,28.720054757,119595,,Q,Daniel Manuel Sanchez Martinez,R,,MEX,18.5379876797,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,535,42,,
-2007-M-FU-VEN-02A-2007,Venezuela F2,Hard,32,S,20070820,6,104942,,,Roman Recarte,U,,VEN,20.2026009582,109494,,LL,Joseph Guluzian,R,,SWE,25.7604380561,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,775,17,,
+2007-M-FU-VEN-02A-2007,Venezuela F2,Hard,32,S,20070820,6,104942,,,Roman Recarte,U,,VEN,20.2026009582,109494,,LL,Pedro Ast,U,,VEN,19.0198494182,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,775,17,,
 2007-M-FU-VEN-02A-2007,Venezuela F2,Hard,32,S,20070820,7,104879,,,Myles Blake,R,,GBR,20.476386037,103739,,WC,Jose De Armas,R,,VEN,26.4038329911,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,800,16,,
 2007-M-FU-VEN-02A-2007,Venezuela F2,Hard,32,S,20070820,8,104535,5,,Daniel Garza,R,,MEX,22.3655030801,120748,,Q,Antonio Arce,R,,VEN,18.3737166324,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,505,48,,
 2007-M-FU-VEN-02A-2007,Venezuela F2,Hard,32,S,20070820,9,104560,,,Nima Roshan,U,,AUS,22.2395619439,104892,8,,David Navarrete,L,,VEN,20.4024640657,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,835,14,743,19
@@ -10920,7 +10920,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-BRA-12A-2007,Brazil F12,Clay,32,S,20070903,10,104608,,Q,Rodrigo Guidolin,R,,BRA,21.9520876112,105712,,WC,Andre Baran,U,,BRA,16.5503080082,7-6(2) 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,1190,4,,
 2007-M-FU-BRA-12A-2007,Brazil F12,Clay,32,S,20070903,11,105498,,,Rafael Camilo,U,,BRA,17.4757015743,103447,,,Renato Silveira,U,,BRA,27.9342915811,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,901,11,1138,5
 2007-M-FU-BRA-12A-2007,Brazil F12,Clay,32,S,20070903,12,104474,4,,Leonardo Kirche,R,188,BRA,22.6611909651,104596,,Q,Cledson Carvalho,U,,BRA,22.0396988364,6-3 5-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,563,39,1384,2
-2007-M-FU-BRA-12A-2007,Brazil F12,Clay,32,S,20070903,13,104511,,,Lenoir Ramos,R,190,BRA,22.507871321,109474,,LL,Adem Ozmeral,U,,TUR,17.9739904175,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1038,7,,
+2007-M-FU-BRA-12A-2007,Brazil F12,Clay,32,S,20070903,13,104511,,,Lenoir Ramos,R,190,BRA,22.507871321,209478,,LL,Paulo Passold,U,,BRA,24.7036276523,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1038,7,,
 2007-M-FU-BRA-12A-2007,Brazil F12,Clay,32,S,20070903,14,105458,,Q,Andre Stabile,R,,BRA,17.6509240246,104621,,,Juan Manuel Valverde,R,,ARG,21.8973305955,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1506,1,1138,5
 2007-M-FU-BRA-12A-2007,Brazil F12,Clay,32,S,20070903,15,104876,,,Moacir Santos Filho,R,,BRA,20.5201916496,105326,,Q,Marlon Oliveira,R,,BRA,18.3682409309,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,890,12,,
 2007-M-FU-BRA-12A-2007,Brazil F12,Clay,32,S,20070903,16,104738,2,,Caio Zampieri,R,183,BRA,21.2703627652,119098,,Q,Frederico Casaro,L,,BRA,25.4757015743,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,312,113,1384,2
@@ -10942,7 +10942,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-BUL-07A-2007,Bulgaria F7,Clay,32,S,20070903,1,103936,1,,Todor Enev,R,,BUL,25.5660506502,120315,,Q,Santiago Penades Sanz,R,,ESP,19.8165639973,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,396,81,1384,2
 2007-M-FU-BUL-07A-2007,Bulgaria F7,Clay,32,S,20070903,2,104937,,,Ilie Aurelian Giurgiu,R,,ROU,20.2491444216,105390,,SE,Vasil Mladenov,R,,BUL,18.0944558522,6-3 6-7(8) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1133,5,1138,5
 2007-M-FU-BUL-07A-2007,Bulgaria F7,Clay,32,S,20070903,3,105394,,Q,Ilija Martinoski,R,,MKD,18.083504449,105252,,,Takahiro Ittogi,R,,JPN,18.7104722793,6-4 5-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,1248,3,1019,7
-2007-M-FU-BUL-07A-2007,Bulgaria F7,Clay,32,S,20070903,4,105008,6,,Ignacio Coll Riudavets,R,,ESP,19.9945242984,109465,,Q,Kong Pop Lertchai,U,,THA,15.0034223135,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,628,30,,
+2007-M-FU-BUL-07A-2007,Bulgaria F7,Clay,32,S,20070903,4,105008,6,,Ignacio Coll Riudavets,R,,ESP,19.9945242984,209469,,Q,Octavian Nicodim,U,,ROU,24.9801505818,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,628,30,,
 2007-M-FU-BUL-07A-2007,Bulgaria F7,Clay,32,S,20070903,5,104598,4,,David Savic,R,,SRB,22.0287474333,105054,,,Michal Pazicky,R,,SVK,19.7234770705,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,507,49,1062,6
 2007-M-FU-BUL-07A-2007,Bulgaria F7,Clay,32,S,20070903,6,105150,,Q,Pablo Martin Adalia,R,,ESP,19.2881587953,105005,,Q,Ivan Djurdjevic,R,,SRB,20.0164271047,6-3 2-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1209,4,1331,2
 2007-M-FU-BUL-07A-2007,Bulgaria F7,Clay,32,S,20070903,7,105067,,Q,Alexander Stamchev,R,,BUL,19.6687200548,120488,,WC,Andreas Neykov,R,,BUL,16.1368925394,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1157,5,,
@@ -11440,7 +11440,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-INA-04A-2007,Indonesia F4,Hard,32,S,20070910,3,104921,,Q,Kirati Siributwong,R,,THA,20.3175906913,120197,,WC,Robert Winokan,U,,INA,23.3045859001,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1137,5,,
 2007-M-FU-INA-04A-2007,Indonesia F4,Hard,32,S,20070910,4,104949,7,,Weerapat Doakmaiklee,R,,THA,20.2436687201,105159,,,Vaja Uzakov,R,,UZB,19.266255989,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,736,20,897,11
 2007-M-FU-INA-04A-2007,Indonesia F4,Hard,32,S,20070910,5,104566,3,,Aditya Madkekar,U,,IND,22.2477754962,105464,,WC,Christopher Rungkat,R,,INA,17.6536618754,2-6 7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,683,24,1329,2
-2007-M-FU-INA-04A-2007,Indonesia F4,Hard,32,S,20070910,6,104048,,,Ikaika Jobe,R,,USA,25.0622861054,109478,,,Jiri Placek,U,,CZE,18.1026694045,4-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,893,11,1497,1
+2007-M-FU-INA-04A-2007,Indonesia F4,Hard,32,S,20070910,6,104048,,,Ikaika Jobe,R,,USA,25.0622861054,109478,,,Kiran Nandkumar,U,,IND,21.8809034908,4-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,893,11,1497,1
 2007-M-FU-INA-04A-2007,Indonesia F4,Hard,32,S,20070910,7,104536,,,Andrew Roberts,R,,AUS,22.4202600958,120754,,Q,Heru Prasastia,U,,INA,25.2566735113,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,868,13,,
 2007-M-FU-INA-04A-2007,Indonesia F4,Hard,32,S,20070910,8,104594,5,,Marinko Matosevic,R,194,AUS,22.0889801506,120409,,Q,Brad Lum Tucker,U,,USA,25.2484599589,6-2 1-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,746,19,,
 2007-M-FU-INA-04A-2007,Indonesia F4,Hard,32,S,20070910,9,104646,,,Purav Raja,R,,IND,21.7577002053,104071,8,,Raven Klaasen,R,180,RSA,24.900752909,4-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,962,9,740,19
@@ -12003,7 +12003,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-VEN-03A-2007,Venezuela F3,Hard,32,S,20070917,8,103076,8,,Justin Oneal,R,,USA,29.8973305955,104887,,WC,Piero Luisi,R,,VEN,20.514715948,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,965,9,1178,4
 2007-M-FU-VEN-03A-2007,Venezuela F3,Hard,32,S,20070917,9,104351,7,,Benjamin Dracos,U,,FRA,23.4168377823,108663,,Q,Bjorn Munroe,R,,BAH,28.8432580424,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,962,9,1496,1
 2007-M-FU-VEN-03A-2007,Venezuela F3,Hard,32,S,20070917,10,105679,,,Eduardo Struvay,R,,COL,16.7501711157,109107,,Q,Juan Guillermo Florez,L,,COL,17.5167693361,6-4 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,926,10,1496,1
-2007-M-FU-VEN-03A-2007,Venezuela F3,Hard,32,S,20070917,11,119986,,LL,Leonel Vivas,U,,VEN,17.9739904175,109494,,WC,Joseph Guluzian,R,,SWE,25.8370978782,6-2 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,1496,1,,
+2007-M-FU-VEN-03A-2007,Venezuela F3,Hard,32,S,20070917,11,119986,,LL,Leonel Vivas,U,,VEN,17.9739904175,109494,,WC,Pedro Ast,U,,VEN,19.0965092402,6-2 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,1496,1,,
 2007-M-FU-VEN-03A-2007,Venezuela F3,Hard,32,S,20070917,12,104942,4,,Roman Recarte,U,,VEN,20.2792607803,108929,,,Sergio Rojas,U,,PER,19.1759069131,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,821,15,1209,4
 2007-M-FU-VEN-03A-2007,Venezuela F3,Hard,32,S,20070917,13,104472,,Q,Antoine Tassart,U,,FRA,22.7022587269,104482,6,,Matias Niemiz,R,,ARG,22.6776180698,7-5 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,1382,2,959,9
 2007-M-FU-VEN-03A-2007,Venezuela F3,Hard,32,S,20070917,14,104650,,,Philippe De Bonnevie,L,,FRA,21.7412731006,105055,,,Borja Malo,L,,CHI,19.7563312799,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1020,8,1014,8
@@ -12373,7 +12373,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-VEN-04A-2007,Venezuela F4,Hard,32,S,20070924,6,104904,,,Federico Paskvan,R,,ARG,20.4435318275,104650,,,Philippe De Bonnevie,L,,FRA,21.7604380561,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1053,7,1021,8
 2007-M-FU-VEN-04A-2007,Venezuela F4,Hard,32,S,20070924,7,105081,,,Jean Michel Durango,R,,ECU,19.6714579055,105531,,Q,Juan Carlos Spir,R,,COL,17.3990417522,7-6(2) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,899,11,,
 2007-M-FU-VEN-04A-2007,Venezuela F4,Hard,32,S,20070924,8,104942,8,,Roman Recarte,U,,VEN,20.2984257358,108929,,Q,Sergio Rojas,U,,PER,19.1950718686,7-6(8) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,818,15,1217,4
-2007-M-FU-VEN-04A-2007,Venezuela F4,Hard,32,S,20070924,9,104394,7,,Marc Auradou,R,,FRA,23.2087611225,109494,,WC,Joseph Guluzian,R,,SWE,25.8562628337,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,803,16,,
+2007-M-FU-VEN-04A-2007,Venezuela F4,Hard,32,S,20070924,9,104394,7,,Marc Auradou,R,,FRA,23.2087611225,109494,,WC,Pedro Ast,U,,VEN,19.1156741958,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,803,16,,
 2007-M-FU-VEN-04A-2007,Venezuela F4,Hard,32,S,20070924,10,104472,,Q,Antoine Tassart,U,,FRA,22.7214236824,104482,,,Matias Niemiz,R,,ARG,22.6967830253,7-6(8) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1381,2,955,9
 2007-M-FU-VEN-04A-2007,Venezuela F4,Hard,32,S,20070924,11,102242,,,Bart Beks,R,,NED,34.2231348392,104351,,,Benjamin Dracos,U,,FRA,23.4360027379,4-6 7-6(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,898,11,958,9
 2007-M-FU-VEN-04A-2007,Venezuela F4,Hard,32,S,20070924,12,104673,3,,Julio Cesar Campozano,R,,ECU,21.6454483231,108651,,Q,Sandor Martinez Breijo,R,,CUB,26.5106091718,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,506,49,,
@@ -12745,7 +12745,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-VEN-05A-2007,Venezuela F5,Hard,32,S,20071001,6,104650,,,Philippe De Bonnevie,L,,FRA,21.7796030116,103076,,,Justin Oneal,R,,USA,29.9356605065,6-4 2-6 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,875,12,899,11
 2007-M-FU-VEN-05A-2007,Venezuela F5,Hard,32,S,20071001,7,105196,,,Francisco Franco,R,,COL,19.1567419576,104759,,,Laurent Vigne,R,,FRA,21.2511978097,6-4 1-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,916,10,1044,7
 2007-M-FU-VEN-05A-2007,Venezuela F5,Hard,32,S,20071001,8,105261,,,Roberto Maytin,R,,VEN,18.7433264887,104394,6,,Marc Auradou,R,,FRA,23.227926078,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1136,5,802,16
-2007-M-FU-VEN-05A-2007,Venezuela F5,Hard,32,S,20071001,9,104346,8,,Raian Luchici,R,175,ROU,23.4907597536,109494,,WC,Joseph Guluzian,R,,SWE,25.8754277892,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,825,15,,
+2007-M-FU-VEN-05A-2007,Venezuela F5,Hard,32,S,20071001,9,104346,8,,Raian Luchici,R,175,ROU,23.4907597536,109494,,WC,Pedro Ast,U,,VEN,19.1348391513,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,825,15,,
 2007-M-FU-VEN-05A-2007,Venezuela F5,Hard,32,S,20071001,10,104193,,,Dane Fernandez,U,,AUS,24.3504449008,104482,,,Matias Niemiz,R,,ARG,22.7159479808,6-3 3-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,1004,8,949,9
 2007-M-FU-VEN-05A-2007,Venezuela F5,Hard,32,S,20071001,11,104904,,,Federico Paskvan,R,,ARG,20.462696783,105334,,WC,Luis David Martinez,U,,VEN,18.3874058864,4-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1048,7,1227,3
 2007-M-FU-VEN-05A-2007,Venezuela F5,Hard,32,S,20071001,12,104673,3,,Julio Cesar Campozano,R,,ECU,21.6646132786,105219,,,Miguel Cicenia,R,,VEN,19.0253251198,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,488,53,1136,5
@@ -13588,7 +13588,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-IND-10A-2007,India F10,Hard,32,S,20071022,12,103949,3,,Ivan Cerovic,L,190,CRO,25.6427104723,106026,,Q,Yuki Bhambri,R,183,IND,15.2991101985,6-7(8) 6-4 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,463,61,1465,1
 2007-M-FU-IND-10A-2007,India F10,Hard,32,S,20071022,13,103612,6,,Alexey Kedryuk,R,193,KAZ,27.2032854209,104986,,,Vishnu Vardhan,R,188,IND,20.2381930185,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,538,42,885,11
 2007-M-FU-IND-10A-2007,India F10,Hard,32,S,20071022,14,104730,,Q,Ajai Selvaraj,R,,IND,21.4291581109,105482,,WC,Vijayant Malik,R,,IND,17.6837782341,2-6 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1465,1,1364,2
-2007-M-FU-IND-10A-2007,India F10,Hard,32,S,20071022,15,105045,,Q,Robert Belak,R,,SRB,19.9452429843,109497,,WC,Daniel Bustamante,U,,BRA,,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,899,11,,
+2007-M-FU-IND-10A-2007,India F10,Hard,32,S,20071022,15,105045,,Q,Robert Belak,R,,SRB,19.9452429843,109497,,WC,Kaushik Raju,U,,IND,19.780971937,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,899,11,,
 2007-M-FU-IND-10A-2007,India F10,Hard,32,S,20071022,16,104209,2,,Rainer Eitzinger,R,178,AUT,24.3175906913,109313,,Q,Rohan Gide,L,,IND,20.6680355921,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,379,85,1465,1
 2007-M-FU-IND-10A-2007,India F10,Hard,32,S,20071022,17,104965,1,,Pavol Cervenak,R,,SVK,20.3093771389,104566,,,Aditya Madkekar,U,,IND,22.3627652293,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,330,103,650,27
 2007-M-FU-IND-10A-2007,India F10,Hard,32,S,20071022,18,104667,,,Philipp Oswald,R,,AUT,21.7440109514,104646,,,Purav Raja,R,,IND,21.8726899384,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,689,24,893,11
@@ -13731,7 +13731,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-PAK-01A-2007,Pakistan F1,Clay,32,S,20071022,31,104605,1,,Adam Vejmelka,R,,CZE,22.0999315537,104696,2,,Bogdan Leonte,R,,ROU,21.6235455168,6-4 6-4,3,F,,,,,,,,,,,,,,,,,,,,363,91,598,34
 2007-M-FU-RSA-01A-2007,South Africa F1,Hard,32,S,20071022,1,104359,1,,Matteo Volante,U,,ITA,23.4798083504,109673,,,Damian Hume,R,,RSA,18.5325119781,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,501,52,1061,6
 2007-M-FU-RSA-01A-2007,South Africa F1,Hard,32,S,20071022,2,103629,,Q,Ciaran Moore,R,,RSA,27.1074606434,105898,,Q,Jarryd Botha,U,,RSA,15.7700205339,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2007-M-FU-RSA-01A-2007,South Africa F1,Hard,32,S,20071022,3,109663,,,Andy Lloyd,R,,USA,,119062,,Q,Andrew Hamar,U,,GBR,23.2005475702,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1185,4,,
+2007-M-FU-RSA-01A-2007,South Africa F1,Hard,32,S,20071022,3,109663,,,Benjamin Janse Van Rensburg,U,,RSA,24.7556468172,119062,,Q,Andrew Hamar,U,,GBR,23.2005475702,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1185,4,,
 2007-M-FU-RSA-01A-2007,South Africa F1,Hard,32,S,20071022,4,104587,6,,Claudio Grassi,U,,ITA,22.2422997947,105707,,WC,Nicolaas Scholtz,R,,RSA,16.7091033539,4-6 6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,936,10,,
 2007-M-FU-RSA-01A-2007,South Africa F1,Hard,32,S,20071022,5,104071,3,,Raven Klaasen,R,180,RSA,25.015742642,105434,,WC,Ruan Roelofse,R,,RSA,17.9247091034,6-4 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,721,21,,
 2007-M-FU-RSA-01A-2007,South Africa F1,Hard,32,S,20071022,6,105230,,,Alexander Somogyi,R,,SVK,19.0280629706,104801,,Q,James Feaver,L,,GBR,21.1143052704,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1135,5,,
@@ -13746,7 +13746,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-RSA-01A-2007,South Africa F1,Hard,32,S,20071022,15,105427,,Q,Milos Sekulic,R,,SWE,17.9630390144,105169,,WC,Jean Andersen,R,,RSA,19.3456536619,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2007-M-FU-RSA-01A-2007,South Africa F1,Hard,32,S,20071022,16,104957,,,Richard Ruckelshausen,R,,AUT,20.3422313484,104716,2,,Edward Seator,R,,GBR,21.5414099932,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1364,2,608,32
 2007-M-FU-RSA-01A-2007,South Africa F1,Hard,32,S,20071022,17,104359,1,,Matteo Volante,U,,ITA,23.4798083504,103629,,Q,Ciaran Moore,R,,RSA,27.1074606434,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,501,52,,
-2007-M-FU-RSA-01A-2007,South Africa F1,Hard,32,S,20071022,18,104587,6,,Claudio Grassi,U,,ITA,22.2422997947,109663,,,Andy Lloyd,R,,USA,,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,936,10,1185,4
+2007-M-FU-RSA-01A-2007,South Africa F1,Hard,32,S,20071022,18,104587,6,,Claudio Grassi,U,,ITA,22.2422997947,109663,,,Benjamin Janse Van Rensburg,U,,RSA,24.7556468172,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,936,10,1185,4
 2007-M-FU-RSA-01A-2007,South Africa F1,Hard,32,S,20071022,19,105230,,,Alexander Somogyi,R,,SVK,19.0280629706,104071,3,,Raven Klaasen,R,180,RSA,25.015742642,7-5 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,1135,5,721,21
 2007-M-FU-RSA-01A-2007,South Africa F1,Hard,32,S,20071022,20,104153,,,Heinrich Heyl,R,,RSA,24.5585215606,104434,,,Saar Steele,R,,ISR,23.0636550308,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1364,2,1364,2
 2007-M-FU-RSA-01A-2007,South Africa F1,Hard,32,S,20071022,21,104966,5,,Idan Mark,U,,ISR,20.3011635866,120123,,,Harrison Keyser,R,,AUS,19.9014373717,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,902,11,1240,3
@@ -14016,7 +14016,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-NAM-01A-2007,Nambia F1,Hard,32,S,20071029,6,104153,,Q,Heinrich Heyl,R,,RSA,24.5776865161,104130,,,Ross Connolly,R,,GBR,24.6899383984,6-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,1364,2,1083,6
 2007-M-FU-NAM-01A-2007,Nambia F1,Hard,32,S,20071029,7,108780,,WC,Lofo Ramiaramanana,L,,MAD,18.3737166324,118238,,,Nikos Serkedakis,U,,GRE,25.1279945243,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1461,1,1267,3
 2007-M-FU-NAM-01A-2007,Nambia F1,Hard,32,S,20071029,8,105176,,Q,Matthias Dorfler,L,,GER,19.3210130048,104966,5,,Idan Mark,U,,ISR,20.3203285421,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,900,11
-2007-M-FU-NAM-01A-2007,Nambia F1,Hard,32,S,20071029,9,109663,,,Andy Lloyd,R,,USA,,104674,7,,Bertram Steinberger,R,,AUT,21.7385352498,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1326,2,937,9
+2007-M-FU-NAM-01A-2007,Nambia F1,Hard,32,S,20071029,9,109663,,,Benjamin Janse Van Rensburg,U,,RSA,24.7748117728,104674,7,,Bertram Steinberger,R,,AUT,21.7385352498,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1326,2,937,9
 2007-M-FU-NAM-01A-2007,Nambia F1,Hard,32,S,20071029,10,105230,,,Alexander Somogyi,R,,SVK,19.0472279261,105396,,Q,Tomer Hodorov,R,,ISR,18.2286105407,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1134,5,1364,2
 2007-M-FU-NAM-01A-2007,Nambia F1,Hard,32,S,20071029,11,104957,,,Richard Ruckelshausen,R,,AUT,20.3613963039,120123,,,Harrison Keyser,R,,AUS,19.9206023272,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1461,1,1236,3
 2007-M-FU-NAM-01A-2007,Nambia F1,Hard,32,S,20071029,12,104801,,Q,James Feaver,L,,GBR,21.1334702259,104929,,LL,Tristan Farron Mahon,R,,IRL,20.4271047228,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -14028,13 +14028,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-NAM-01A-2007,Nambia F1,Hard,32,S,20071029,18,104886,,WC,Jurgens Strydom,R,,NAM,20.629705681,110581,,Q,Henrik Soderberg,U,,SWE,26.6967830253,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,1461,1
 2007-M-FU-NAM-01A-2007,Nambia F1,Hard,32,S,20071029,19,104153,,Q,Heinrich Heyl,R,,RSA,24.5776865161,119809,,,Nicolas Grammare,R,,FRA,25.4428473648,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1364,2,1326,2
 2007-M-FU-NAM-01A-2007,Nambia F1,Hard,32,S,20071029,20,105176,,Q,Matthias Dorfler,L,,GER,19.3210130048,108780,,WC,Lofo Ramiaramanana,L,,MAD,18.3737166324,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,1461,1
-2007-M-FU-NAM-01A-2007,Nambia F1,Hard,32,S,20071029,21,109663,,,Andy Lloyd,R,,USA,,105230,,,Alexander Somogyi,R,,SVK,19.0472279261,6-7(1) 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1326,2,1134,5
+2007-M-FU-NAM-01A-2007,Nambia F1,Hard,32,S,20071029,21,109663,,,Benjamin Janse Van Rensburg,U,,RSA,24.7748117728,105230,,,Alexander Somogyi,R,,SVK,19.0472279261,6-7(1) 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1326,2,1134,5
 2007-M-FU-NAM-01A-2007,Nambia F1,Hard,32,S,20071029,22,104957,,,Richard Ruckelshausen,R,,AUT,20.3613963039,104801,,Q,James Feaver,L,,GBR,21.1334702259,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1461,1,,
 2007-M-FU-NAM-01A-2007,Nambia F1,Hard,32,S,20071029,23,104587,6,,Claudio Grassi,U,,ITA,22.2614647502,105352,,SE,Danila Arsenov,R,183,RUS,18.3874058864,4-6 6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,931,10,1364,2
 2007-M-FU-NAM-01A-2007,Nambia F1,Hard,32,S,20071029,24,104716,2,,Edward Seator,R,,GBR,21.5605749487,104434,,LL,Saar Steele,R,,ISR,23.0828199863,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,607,32,1364,2
 2007-M-FU-NAM-01A-2007,Nambia F1,Hard,32,S,20071029,25,104886,,WC,Jurgens Strydom,R,,NAM,20.629705681,104359,1,,Matteo Volante,U,,ITA,23.498973306,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,,,498,52
 2007-M-FU-NAM-01A-2007,Nambia F1,Hard,32,S,20071029,26,104153,,Q,Heinrich Heyl,R,,RSA,24.5776865161,105176,,Q,Matthias Dorfler,L,,GER,19.3210130048,6-0 7-5,3,QF,,,,,,,,,,,,,,,,,,,,1364,2,,
-2007-M-FU-NAM-01A-2007,Nambia F1,Hard,32,S,20071029,27,104957,,,Richard Ruckelshausen,R,,AUT,20.3613963039,109663,,,Andy Lloyd,R,,USA,,7-6(4) 7-5,3,QF,,,,,,,,,,,,,,,,,,,,1461,1,1326,2
+2007-M-FU-NAM-01A-2007,Nambia F1,Hard,32,S,20071029,27,104957,,,Richard Ruckelshausen,R,,AUT,20.3613963039,109663,,,Benjamin Janse Van Rensburg,U,,RSA,24.7748117728,7-6(4) 7-5,3,QF,,,,,,,,,,,,,,,,,,,,1461,1,1326,2
 2007-M-FU-NAM-01A-2007,Nambia F1,Hard,32,S,20071029,28,104587,6,,Claudio Grassi,U,,ITA,22.2614647502,104716,2,,Edward Seator,R,,GBR,21.5605749487,2-6 7-6(8) 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,931,10,607,32
 2007-M-FU-NAM-01A-2007,Nambia F1,Hard,32,S,20071029,29,104886,,WC,Jurgens Strydom,R,,NAM,20.629705681,104153,,Q,Heinrich Heyl,R,,RSA,24.5776865161,7-5 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,1364,2
 2007-M-FU-NAM-01A-2007,Nambia F1,Hard,32,S,20071029,30,104587,6,,Claudio Grassi,U,,ITA,22.2614647502,104957,,,Richard Ruckelshausen,R,,AUT,20.3613963039,7-5 6-4,3,SF,,,,,,,,,,,,,,,,,,,,931,10,1461,1
@@ -14208,7 +14208,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-BOT-01A-2007,Botswana F1,Hard,32,S,20071105,12,104966,4,,Idan Mark,U,,ISR,20.3394934976,120830,,LL,Jared Robinson,R,,RSA,19.65229295,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,853,13,,
 2007-M-FU-BOT-01A-2007,Botswana F1,Hard,32,S,20071105,13,104613,7,,Candy Idoko,R,175,NGR,22.1054072553,109673,,,Damian Hume,R,,RSA,18.5708418891,4-6 7-6(6) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1064,6,1167,4
 2007-M-FU-BOT-01A-2007,Botswana F1,Hard,32,S,20071105,14,108780,,WC,Lofo Ramiaramanana,L,,MAD,18.392881588,104434,,Q,Saar Steele,R,,ISR,23.1019849418,3-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1456,1,1272,3
-2007-M-FU-BOT-01A-2007,Botswana F1,Hard,32,S,20071105,15,102911,,Q,Andrei Stoliarov,R,178,RUS,30.8199863107,109663,,,Andy Lloyd,R,,USA,,6-4 5-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1456,1,1456,1
+2007-M-FU-BOT-01A-2007,Botswana F1,Hard,32,S,20071105,15,102911,,Q,Andrei Stoliarov,R,178,RUS,30.8199863107,109663,,,Benjamin Janse Van Rensburg,U,,RSA,24.7939767283,6-4 5-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1456,1,1456,1
 2007-M-FU-BOT-01A-2007,Botswana F1,Hard,32,S,20071105,16,104153,,,Heinrich Heyl,R,,RSA,24.5968514716,104071,2,,Raven Klaasen,R,180,RSA,25.054072553,6-4 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,1245,3,708,22
 2007-M-FU-BOT-01A-2007,Botswana F1,Hard,32,S,20071105,17,104716,1,,Edward Seator,R,,GBR,21.5797399042,105427,,Q,Milos Sekulic,R,,SWE,18.0013689254,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,609,32,1456,1
 2007-M-FU-BOT-01A-2007,Botswana F1,Hard,32,S,20071105,18,104957,,Q,Richard Ruckelshausen,R,,AUT,20.3805612594,103776,,,Alexei Filenkov,R,,RUS,26.46954141,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1111,5,1272,3
@@ -15225,10 +15225,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-BRA-25A-2007,Brazil F25,Hard,32,S,20071203,6,104351,,,Benjamin Dracos,U,,FRA,23.627652293,120553,,Q,Caio Almeida,R,,BRA,19.022587269,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,770,18,,
 2007-M-FU-BRA-25A-2007,Brazil F25,Hard,32,S,20071203,7,120552,,Q,Ivan Garcia Castro,R,,BRA,18.5571526352,119933,,WC,Pedro Zanotelli,R,,BRA,17.8590006845,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2007-M-FU-BRA-25A-2007,Brazil F25,Hard,32,S,20071203,8,103397,,,Alexandre Simoni,R,188,BRA,28.4216290212,104474,5,,Leonardo Kirche,R,188,BRA,22.9103353867,6-1 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,1046,7,581,36
-2007-M-FU-BRA-25A-2007,Brazil F25,Hard,32,S,20071203,9,104836,6,,Tiago Lopes,R,,BRA,21.015742642,109152,,,Caio Burjaili,U,,BRA,19.9726214921,3-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,785,17,,
-2007-M-FU-BRA-25A-2007,Brazil F25,Hard,32,S,20071203,10,105270,,Q,Maxime Teixeira,R,,FRA,18.8720054757,120818,,Q,Renardy Guelfi,U,,BRA,19.227926078,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2007-M-FU-BRA-25A-2007,Brazil F25,Hard,32,S,20071203,9,104836,6,,Tiago Lopes,R,,BRA,21.015742642,109152,,,Caio Burjaili,U,,BRA,19.9726214921,3-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,785,17,1112,6
+2007-M-FU-BRA-25A-2007,Brazil F25,Hard,32,S,20071203,10,105270,,Q,Maxime Teixeira,R,,FRA,18.8720054757,120818,,Q,Renardy Guelfi,U,,BRA,19.227926078,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1184,4,,
 2007-M-FU-BRA-25A-2007,Brazil F25,Hard,32,S,20071203,11,120720,,Q,Raphael Shiikuma Pfister,R,,BRA,18.1273100616,104085,,,Henrique Pinto Silva,R,,BRA,25.0458590007,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1014,8
-2007-M-FU-BRA-25A-2007,Brazil F25,Hard,32,S,20071203,12,104550,4,,Ricardo Hocevar,R,180,BRA,22.5790554415,105458,,,Andre Stabile,R,,BRA,17.9000684463,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,450,65,,
+2007-M-FU-BRA-25A-2007,Brazil F25,Hard,32,S,20071203,12,104550,4,,Ricardo Hocevar,R,180,BRA,22.5790554415,105458,,,Andre Stabile,R,,BRA,17.9000684463,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,450,65,1149,5
 2007-M-FU-BRA-25A-2007,Brazil F25,Hard,32,S,20071203,13,105269,8,,Marcelo Demoliner,R,,BRA,18.8720054757,105411,,Q,Gustavo Junqueira De Andrade,R,,BRA,18.2231348392,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,815,15,1342,2
 2007-M-FU-BRA-25A-2007,Brazil F25,Hard,32,S,20071203,14,105232,,,Andre Pinheiro,R,,BRA,19.1211498973,105350,,WC,Ricardo Siggia,R,,BRA,18.4941820671,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1014,8,1480,1
 2007-M-FU-BRA-25A-2007,Brazil F25,Hard,32,S,20071203,15,105381,,,Thales Turini,U,,BRA,18.3764544832,105423,,,Danilo Ferraz,L,,BRA,18.1327857632,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1205,4,1291,3
@@ -15237,13 +15237,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-BRA-25A-2007,Brazil F25,Hard,32,S,20071203,18,103563,7,,Gabriel Pitta,R,,BRA,27.5592060233,104472,,,Antoine Tassart,U,,FRA,22.9130732375,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,687,25,1052,7
 2007-M-FU-BRA-25A-2007,Brazil F25,Hard,32,S,20071203,19,104903,3,,Andre Miele,R,,BRA,20.643394935,104351,,,Benjamin Dracos,U,,FRA,23.627652293,6-1 1-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,397,81,770,18
 2007-M-FU-BRA-25A-2007,Brazil F25,Hard,32,S,20071203,20,103397,,,Alexandre Simoni,R,188,BRA,28.4216290212,120552,,Q,Ivan Garcia Castro,R,,BRA,18.5571526352,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1046,7,,
-2007-M-FU-BRA-25A-2007,Brazil F25,Hard,32,S,20071203,21,105270,,Q,Maxime Teixeira,R,,FRA,18.8720054757,104836,6,,Tiago Lopes,R,,BRA,21.015742642,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,785,17
+2007-M-FU-BRA-25A-2007,Brazil F25,Hard,32,S,20071203,21,105270,,Q,Maxime Teixeira,R,,FRA,18.8720054757,104836,6,,Tiago Lopes,R,,BRA,21.015742642,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1184,4,785,17
 2007-M-FU-BRA-25A-2007,Brazil F25,Hard,32,S,20071203,22,104550,4,,Ricardo Hocevar,R,180,BRA,22.5790554415,120720,,Q,Raphael Shiikuma Pfister,R,,BRA,18.1273100616,6-2 5-7 6-2,3,R16,,,,,,,,,,,,,,,,,,,,450,65,,
 2007-M-FU-BRA-25A-2007,Brazil F25,Hard,32,S,20071203,23,105269,8,,Marcelo Demoliner,R,,BRA,18.8720054757,105232,,,Andre Pinheiro,R,,BRA,19.1211498973,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,815,15,1014,8
 2007-M-FU-BRA-25A-2007,Brazil F25,Hard,32,S,20071203,24,105154,2,,Joao Souza,R,193,BRA,19.5181382615,105381,,,Thales Turini,U,,BRA,18.3764544832,6-4 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,350,97,1205,4
 2007-M-FU-BRA-25A-2007,Brazil F25,Hard,32,S,20071203,25,104033,1,,Juan Pablo Villar,U,,ARG,25.3990417522,103563,7,,Gabriel Pitta,R,,BRA,27.5592060233,7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,323,108,687,25
 2007-M-FU-BRA-25A-2007,Brazil F25,Hard,32,S,20071203,26,104903,3,,Andre Miele,R,,BRA,20.643394935,103397,,,Alexandre Simoni,R,188,BRA,28.4216290212,7-5 6-2,3,QF,,,,,,,,,,,,,,,,,,,,397,81,1046,7
-2007-M-FU-BRA-25A-2007,Brazil F25,Hard,32,S,20071203,27,104550,4,,Ricardo Hocevar,R,180,BRA,22.5790554415,105270,,Q,Maxime Teixeira,R,,FRA,18.8720054757,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,450,65,,
+2007-M-FU-BRA-25A-2007,Brazil F25,Hard,32,S,20071203,27,104550,4,,Ricardo Hocevar,R,180,BRA,22.5790554415,105270,,Q,Maxime Teixeira,R,,FRA,18.8720054757,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,450,65,1184,4
 2007-M-FU-BRA-25A-2007,Brazil F25,Hard,32,S,20071203,28,105154,2,,Joao Souza,R,193,BRA,19.5181382615,105269,8,,Marcelo Demoliner,R,,BRA,18.8720054757,6-4 4-2 RET,3,QF,,,,,,,,,,,,,,,,,,,,350,97,815,15
 2007-M-FU-BRA-25A-2007,Brazil F25,Hard,32,S,20071203,29,104033,1,,Juan Pablo Villar,U,,ARG,25.3990417522,104903,3,,Andre Miele,R,,BRA,20.643394935,6-4 2-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,323,108,397,81
 2007-M-FU-BRA-25A-2007,Brazil F25,Hard,32,S,20071203,30,105154,2,,Joao Souza,R,193,BRA,19.5181382615,104550,4,,Ricardo Hocevar,R,180,BRA,22.5790554415,6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,350,97,450,65
@@ -15253,7 +15253,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-CZE-05A-2007,Czech Rep F5,Hard,32,S,20071203,3,104285,,,Patrick Schmolzer,R,,AUT,23.8932238193,105421,,WC,Michal Konecny,L,,CZE,18.1382614648,6-7(1) 7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,572,37,952,10
 2007-M-FU-CZE-05A-2007,Czech Rep F5,Hard,32,S,20071203,4,104505,5,,Konstantin Kravchuk,R,190,RUS,22.7734428474,104318,,Q,Jiri Krkoska,R,,CZE,23.7535934292,7-6(4) 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,415,75,895,12
 2007-M-FU-CZE-05A-2007,Czech Rep F5,Hard,32,S,20071203,5,103750,,,Ladislav Chramosta,R,,CZE,26.6475017112,102959,3,,Marko Tkalec,R,178,SLO,30.71321013,7-6(8) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,467,61,277,138
-2007-M-FU-CZE-05A-2007,Czech Rep F5,Hard,32,S,20071203,6,104088,,WC,Michal Navratil,L,,CZE,25.0349075975,105054,,Q,Michal Pazicky,R,,SVK,19.9726214921,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,876,12
+2007-M-FU-CZE-05A-2007,Czech Rep F5,Hard,32,S,20071203,6,104088,,WC,Michal Navratil,L,,CZE,25.0349075975,105054,,Q,Michal Pazicky,R,,SVK,19.9726214921,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1153,5,876,12
 2007-M-FU-CZE-05A-2007,Czech Rep F5,Hard,32,S,20071203,7,105318,,Q,Thomas Schoorel,L,203,NED,18.6529774127,104306,,,Ivan Bjelica,R,,SRB,23.7973990418,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1033,7,594,34
 2007-M-FU-CZE-05A-2007,Czech Rep F5,Hard,32,S,20071203,8,104131,,,David Novak,L,,CZE,24.7775496235,104151,6,,Jan Stancik,U,,SVK,24.6762491444,7-6(3) 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,600,34,438,68
 2007-M-FU-CZE-05A-2007,Czech Rep F5,Hard,32,S,20071203,9,105056,,Q,Jan Marek,R,,CZE,19.961670089,103793,7,,Martin Vacek,R,,CZE,26.4668035592,5-7 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,856,13,439,68
@@ -15266,7 +15266,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-CZE-05A-2007,Czech Rep F5,Hard,32,S,20071203,16,104586,2,,Lukas Rosol,R,196,CZE,22.3600273785,105312,,WC,Jiri Kosler,U,,CZE,18.6639288159,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,265,147,1382,2
 2007-M-FU-CZE-05A-2007,Czech Rep F5,Hard,32,S,20071203,17,103520,1,,Pavel Snobel,L,190,CZE,27.7618069815,104965,,,Pavol Cervenak,R,,SVK,20.424366872,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,243,163,462,62
 2007-M-FU-CZE-05A-2007,Czech Rep F5,Hard,32,S,20071203,18,104505,5,,Konstantin Kravchuk,R,190,RUS,22.7734428474,104285,,,Patrick Schmolzer,R,,AUT,23.8932238193,6-4 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,415,75,572,37
-2007-M-FU-CZE-05A-2007,Czech Rep F5,Hard,32,S,20071203,19,103750,,,Ladislav Chramosta,R,,CZE,26.6475017112,104088,,WC,Michal Navratil,L,,CZE,25.0349075975,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,467,61,,
+2007-M-FU-CZE-05A-2007,Czech Rep F5,Hard,32,S,20071203,19,103750,,,Ladislav Chramosta,R,,CZE,26.6475017112,104088,,WC,Michal Navratil,L,,CZE,25.0349075975,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,467,61,1153,5
 2007-M-FU-CZE-05A-2007,Czech Rep F5,Hard,32,S,20071203,20,105318,,Q,Thomas Schoorel,L,203,NED,18.6529774127,104131,,,David Novak,L,,CZE,24.7775496235,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1033,7,600,34
 2007-M-FU-CZE-05A-2007,Czech Rep F5,Hard,32,S,20071203,21,105080,,Q,Miloslav Mecir Jr,R,,SVK,19.8685831622,105056,,Q,Jan Marek,R,,CZE,19.961670089,7-6(6) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,962,9,856,13
 2007-M-FU-CZE-05A-2007,Czech Rep F5,Hard,32,S,20071203,22,104320,,Q,Karel Triska,U,,CZE,23.7481177276,103708,4,,Jaroslav Pospisil,R,,CZE,26.8117727584,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,746,20,363,94
@@ -15319,8 +15319,8 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-SUD-02A-2007,Sudan F2,Clay,32,S,20071203,7,105372,,Q,Issam Al Tawil,R,,SYR,18.3983572895,108698,,WC,Slah Mbarek,R,,TUN,18.8309377139,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2007-M-FU-SUD-02A-2007,Sudan F2,Clay,32,S,20071203,8,104957,8,,Richard Ruckelshausen,R,,AUT,20.4572210815,103226,,,Walid Jallali,R,,TUN,29.4264202601,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,725,21,742,20
 2007-M-FU-SUD-02A-2007,Sudan F2,Clay,32,S,20071203,9,104674,,,Bertram Steinberger,R,,AUT,21.8343600274,104336,6,,Gvidas Sabeckis,R,,LTU,23.6851471595,4-6 7-5 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,878,12,567,38
-2007-M-FU-SUD-02A-2007,Sudan F2,Clay,32,S,20071203,10,105327,,,Maniel Bains,R,,GBR,18.6119096509,119402,,Q,Roman Kelecic,U,,CRO,21.4346338125,2-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1291,3
-2007-M-FU-SUD-02A-2007,Sudan F2,Clay,32,S,20071203,11,103776,,,Alexei Filenkov,R,,RUS,26.546201232,110505,,LL,Gregory Howe,R,,GBR,36.0711841205,6-3 5-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1291,3
+2007-M-FU-SUD-02A-2007,Sudan F2,Clay,32,S,20071203,10,105327,,,Maniel Bains,R,,GBR,18.6119096509,119402,,Q,Roman Kelecic,U,,CRO,21.4346338125,2-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1143,5,1291,3
+2007-M-FU-SUD-02A-2007,Sudan F2,Clay,32,S,20071203,11,103776,,,Alexei Filenkov,R,,RUS,26.546201232,110505,,LL,Gregory Howe,R,,GBR,36.0711841205,6-3 5-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1112,6,1291,3
 2007-M-FU-SUD-02A-2007,Sudan F2,Clay,32,S,20071203,12,104696,4,,Bogdan Leonte,R,,ROU,21.7385352498,120847,,Q,Matija Palinic,U,,CRO,18.3600273785,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,507,51,,
 2007-M-FU-SUD-02A-2007,Sudan F2,Clay,32,S,20071203,13,104692,5,,Alexander Slabinsky,R,185,GBR,21.7440109514,120848,,WC,Ammar Assam,U,,SUD,20.0602327173,2-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,540,43,,
 2007-M-FU-SUD-02A-2007,Sudan F2,Clay,32,S,20071203,14,104506,,,David Brewer,R,,GBR,22.7707049966,119923,,WC,Hussam Alamin,U,,SUD,20.3285420945,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,967,9,,
@@ -15330,16 +15330,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-SUD-02A-2007,Sudan F2,Clay,32,S,20071203,18,104104,,,Gilles De Sousa,U,,FRA,24.9281314168,104789,7,,Sherif Sabry,U,,EGY,21.2621492129,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1205,4,611,32
 2007-M-FU-SUD-02A-2007,Sudan F2,Clay,32,S,20071203,19,104470,3,,Komlavi Loglo,R,183,TOG,22.9240246407,120252,,Q,Majdi Salim,U,,SYR,20.7364818617,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,351,97,,
 2007-M-FU-SUD-02A-2007,Sudan F2,Clay,32,S,20071203,20,104957,8,,Richard Ruckelshausen,R,,AUT,20.4572210815,105372,,Q,Issam Al Tawil,R,,SYR,18.3983572895,4-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,725,21,,
-2007-M-FU-SUD-02A-2007,Sudan F2,Clay,32,S,20071203,21,104674,,,Bertram Steinberger,R,,AUT,21.8343600274,105327,,,Maniel Bains,R,,GBR,18.6119096509,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,878,12,,
-2007-M-FU-SUD-02A-2007,Sudan F2,Clay,32,S,20071203,22,103776,,,Alexei Filenkov,R,,RUS,26.546201232,104696,4,,Bogdan Leonte,R,,ROU,21.7385352498,6-3 4-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,507,51
+2007-M-FU-SUD-02A-2007,Sudan F2,Clay,32,S,20071203,21,104674,,,Bertram Steinberger,R,,AUT,21.8343600274,105327,,,Maniel Bains,R,,GBR,18.6119096509,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,878,12,1143,5
+2007-M-FU-SUD-02A-2007,Sudan F2,Clay,32,S,20071203,22,103776,,,Alexei Filenkov,R,,RUS,26.546201232,104696,4,,Bogdan Leonte,R,,ROU,21.7385352498,6-3 4-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1112,6,507,51
 2007-M-FU-SUD-02A-2007,Sudan F2,Clay,32,S,20071203,23,104692,5,,Alexander Slabinsky,R,185,GBR,21.7440109514,104506,,,David Brewer,R,,GBR,22.7707049966,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,540,43,967,9
 2007-M-FU-SUD-02A-2007,Sudan F2,Clay,32,S,20071203,24,104235,2,,Matwe Middelkoop,R,,NED,24.2491444216,105230,,,Alexander Somogyi,R,,SVK,19.1430527036,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,276,138,771,18
 2007-M-FU-SUD-02A-2007,Sudan F2,Clay,32,S,20071203,25,104234,1,,Predrag Rusevski,R,,MKD,24.2683093771,104104,,,Gilles De Sousa,U,,FRA,24.9281314168,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,267,143,1205,4
 2007-M-FU-SUD-02A-2007,Sudan F2,Clay,32,S,20071203,26,104957,8,,Richard Ruckelshausen,R,,AUT,20.4572210815,104470,3,,Komlavi Loglo,R,183,TOG,22.9240246407,4-6 7-6(7) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,725,21,351,97
-2007-M-FU-SUD-02A-2007,Sudan F2,Clay,32,S,20071203,27,103776,,,Alexei Filenkov,R,,RUS,26.546201232,104674,,,Bertram Steinberger,R,,AUT,21.8343600274,3-6 6-2 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,,,878,12
+2007-M-FU-SUD-02A-2007,Sudan F2,Clay,32,S,20071203,27,103776,,,Alexei Filenkov,R,,RUS,26.546201232,104674,,,Bertram Steinberger,R,,AUT,21.8343600274,3-6 6-2 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,1112,6,878,12
 2007-M-FU-SUD-02A-2007,Sudan F2,Clay,32,S,20071203,28,104235,2,,Matwe Middelkoop,R,,NED,24.2491444216,104692,5,,Alexander Slabinsky,R,185,GBR,21.7440109514,7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,276,138,540,43
 2007-M-FU-SUD-02A-2007,Sudan F2,Clay,32,S,20071203,29,104234,1,,Predrag Rusevski,R,,MKD,24.2683093771,104957,8,,Richard Ruckelshausen,R,,AUT,20.4572210815,6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,267,143,725,21
-2007-M-FU-SUD-02A-2007,Sudan F2,Clay,32,S,20071203,30,104235,2,,Matwe Middelkoop,R,,NED,24.2491444216,103776,,,Alexei Filenkov,R,,RUS,26.546201232,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,276,138,,
+2007-M-FU-SUD-02A-2007,Sudan F2,Clay,32,S,20071203,30,104235,2,,Matwe Middelkoop,R,,NED,24.2491444216,103776,,,Alexei Filenkov,R,,RUS,26.546201232,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,276,138,1112,6
 2007-M-FU-SUD-02A-2007,Sudan F2,Clay,32,S,20071203,31,104235,2,,Matwe Middelkoop,R,,NED,24.2491444216,104234,1,,Predrag Rusevski,R,,MKD,24.2683093771,W/O,3,F,,,,,,,,,,,,,,,,,,,,276,138,267,143
 2007-M-FU-URU-02A-2007,Uruguay F2,Clay,32,S,20071203,1,104395,1,,Marcel Felder,R,,URU,23.4004106776,104239,,,Diego Lopez,U,,ARG,24.2381930185,6-2 1-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,372,92,831,14
 2007-M-FU-URU-02A-2007,Uruguay F2,Clay,32,S,20071203,2,103624,,Q,Sebastian Uriarte,R,,ARG,27.2553045859,104687,,,Guillermo Bujniewicz,R,,ARG,21.7659137577,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1230,4,831,14
@@ -15350,10 +15350,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-URU-02A-2007,Uruguay F2,Clay,32,S,20071203,7,104923,,Q,Martin Rios Benitez,U,,ARG,20.5448323066,119946,,WC,German Sole,U,,URU,19.0882956879,5-3 RET,3,R32,,,,,,,,,,,,,,,,,,,,1291,3,1291,3
 2007-M-FU-URU-02A-2007,Uruguay F2,Clay,32,S,20071203,8,104513,6,,Leandro Migani,R,,ARG,22.7542778919,104538,,,Joaquin Jesus Monteferrario,R,,ARG,22.6392881588,7-5 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,455,64,893,12
 2007-M-FU-URU-02A-2007,Uruguay F2,Clay,32,S,20071203,9,104640,8,,Pablo Galdon,R,,ARG,22.0123203285,105170,,Q,Gonzalo Tur,U,,ARG,19.4442162902,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,556,40,1480,1
-2007-M-FU-URU-02A-2007,Uruguay F2,Clay,32,S,20071203,10,118453,,Q,Patricio Konortoff,R,,ARG,23.4496919918,105167,,Q,Juan Manuel Romanazzi,L,,ARG,19.4633812457,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1382,2
+2007-M-FU-URU-02A-2007,Uruguay F2,Clay,32,S,20071203,10,118453,,Q,Patricio Konortoff,R,,ARG,23.4496919918,105167,,Q,Juan Manuel Romanazzi,L,,ARG,19.4633812457,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1153,5,1382,2
 2007-M-FU-URU-02A-2007,Uruguay F2,Clay,32,S,20071203,11,104867,,Q,German Gaich,U,,ARG,20.8131416838,120412,,WC,Joaquin Bado,U,,URU,18.0670773443,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1382,2,,
 2007-M-FU-URU-02A-2007,Uruguay F2,Clay,32,S,20071203,12,104221,3,,Jonathan Gonzalia,R,,ARG,24.3367556468,104811,,,Leonel Alberti,R,,ARG,21.1991786448,6-4 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,452,65,827,14
-2007-M-FU-URU-02A-2007,Uruguay F2,Clay,32,S,20071203,13,104713,5,,Juan Pablo Amado,R,,ARG,21.6700889802,105309,,LL,Agustin Picco,U,,ARG,18.6995208761,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,446,66,,
+2007-M-FU-URU-02A-2007,Uruguay F2,Clay,32,S,20071203,13,104713,5,,Juan Pablo Amado,R,,ARG,21.6700889802,105309,,LL,Agustin Picco,U,,ARG,18.6995208761,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,446,66,1112,6
 2007-M-FU-URU-02A-2007,Uruguay F2,Clay,32,S,20071203,14,105120,,,Andres Molteni,R,,ARG,19.7180013689,104570,,,Leandro Savelli,R,,ARG,22.4668035592,6-1 3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,636,30,1205,4
 2007-M-FU-URU-02A-2007,Uruguay F2,Clay,32,S,20071203,15,105090,,,Marcos Conocente,R,,ARG,19.8138261465,104482,,,Matias Niemiz,R,,ARG,22.8884325804,5-7 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,885,12,958,9
 2007-M-FU-URU-02A-2007,Uruguay F2,Clay,32,S,20071203,16,104080,2,,Alejandro Fabbri,U,,ARG,25.1006160164,104462,,Q,Miquel Perez Puigdomenech,U,,ESP,22.9733059548,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,409,77,539,44
@@ -15361,7 +15361,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-URU-02A-2007,Uruguay F2,Clay,32,S,20071203,18,104148,,,Lionel Noviski,R,,ARG,24.6954140999,105367,,,Daniel Alejandro Lopez Cassaccia,R,,PAR,18.417522245,0-6 6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,663,27,880,12
 2007-M-FU-URU-02A-2007,Uruguay F2,Clay,32,S,20071203,19,105317,,WC,Nicolas Reissig,R,185,AUT,18.6557152635,118343,,Q,Matias Guccione,U,,ARG,26.5763175907,7-6(6) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1382,2,1480,1
 2007-M-FU-URU-02A-2007,Uruguay F2,Clay,32,S,20071203,20,104513,6,,Leandro Migani,R,,ARG,22.7542778919,104923,,Q,Martin Rios Benitez,U,,ARG,20.5448323066,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,455,64,1291,3
-2007-M-FU-URU-02A-2007,Uruguay F2,Clay,32,S,20071203,21,104640,8,,Pablo Galdon,R,,ARG,22.0123203285,118453,,Q,Patricio Konortoff,R,,ARG,23.4496919918,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,556,40,,
+2007-M-FU-URU-02A-2007,Uruguay F2,Clay,32,S,20071203,21,104640,8,,Pablo Galdon,R,,ARG,22.0123203285,118453,,Q,Patricio Konortoff,R,,ARG,23.4496919918,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,556,40,1153,5
 2007-M-FU-URU-02A-2007,Uruguay F2,Clay,32,S,20071203,22,104221,3,,Jonathan Gonzalia,R,,ARG,24.3367556468,104867,,Q,German Gaich,U,,ARG,20.8131416838,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,452,65,1382,2
 2007-M-FU-URU-02A-2007,Uruguay F2,Clay,32,S,20071203,23,104713,5,,Juan Pablo Amado,R,,ARG,21.6700889802,105120,,,Andres Molteni,R,,ARG,19.7180013689,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,446,66,636,30
 2007-M-FU-URU-02A-2007,Uruguay F2,Clay,32,S,20071203,24,104080,2,,Alejandro Fabbri,U,,ARG,25.1006160164,105090,,,Marcos Conocente,R,,ARG,19.8138261465,6-3 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,409,77,885,12

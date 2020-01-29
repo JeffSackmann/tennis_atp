@@ -12,7 +12,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-M-SA-IND-01A-1995a,India Masters 1,Clay,32,S,19951230,11,102165,,,Srinath Prahlad,R,,IND,22.9596167009,102057,,,Devin Bowen,R,183,USA,23.6030116359,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,697,,668,
 1996-M-SA-IND-01A-1995a,India Masters 1,Clay,32,S,19951230,12,102133,4,,Laurence Tieleman,R,180,ITA,23.1101984942,102808,,Q,Kalle Flygt,R,,SWE,19.5263518138,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,197,,478,
 1996-M-SA-IND-01A-1995a,India Masters 1,Clay,32,S,19951230,13,101814,8,,Colin Beecher,R,,GBR,25.1909650924,102276,,,Sandeep Kirtane,R,,IND,22.160164271,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,268,,617,
-1996-M-SA-IND-01A-1995a,India Masters 1,Clay,32,S,19951230,14,102345,,WC,Nitten Kirrtane,R,,IND,21.8097193703,109467,,WC,Jagdish Tanwar,U,,IND,21.5660506502,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1275,1,,
+1996-M-SA-IND-01A-1995a,India Masters 1,Clay,32,S,19951230,14,102345,,WC,Nitten Kirrtane,R,,IND,21.8097193703,209471,,WC,Jagdish Tanwar,U,,IND,21.5660506502,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1275,1,,
 1996-M-SA-IND-01A-1995a,India Masters 1,Clay,32,S,19951230,15,102892,,LL,Susheel Narla,R,,IND,19.0472279261,102955,,WC,Saurav Panja,R,,IND,18.7789185489,7-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,897,,,
 1996-M-SA-IND-01A-1995a,India Masters 1,Clay,32,S,19951230,16,102090,2,,Ofer Sela,R,188,ISR,23.4250513347,107038,,Q,Frank Salazar,R,,USA,,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,460,,1275,1
 1996-M-SA-IND-01A-1995a,India Masters 1,Clay,32,S,19951230,17,102284,1,,Filippo Messori,R,173,ITA,22.1163586585,102493,,Q,Josip Dumanic,R,,CRO,21.0349075975,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,234,,837,
@@ -90,7 +90,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-M-SA-IND-01A-1995d,India Masters 4,Clay,32,S,19951230,4,102405,7,Q,Mahesh Bhupathi,R,185,IND,21.5496235455,102666,,,Thomas Strengberger S597,R,,AUT,20.2217659138,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,388,,469,
 1996-M-SA-IND-01A-1995d,India Masters 4,Clay,32,S,19951230,5,101814,4,,Colin Beecher,R,,GBR,25.1909650924,103159,,WC,Vikrant Chadha,R,,IND,17.749486653,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,268,,813,
 1996-M-SA-IND-01A-1995d,India Masters 4,Clay,32,S,19951230,6,101997,,Q,Marzio Martelli,R,180,ITA,24.0301163587,101352,,Q,Jae Sik Kim,R,,KOR,28.6078028747,6-4 7-6,3,R32,,,,,,,,,,,,,,,,,,,,,,701,
-1996-M-SA-IND-01A-1995d,India Masters 4,Clay,32,S,19951230,7,109467,,WC,Jagdish Tanwar,U,,IND,21.5660506502,102670,,,Lior Dahan,R,,ISR,20.1971252567,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,450,
+1996-M-SA-IND-01A-1995d,India Masters 4,Clay,32,S,19951230,7,209471,,WC,Jagdish Tanwar,U,,IND,21.5660506502,102670,,,Lior Dahan,R,,ISR,20.1971252567,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,450,
 1996-M-SA-IND-01A-1995d,India Masters 4,Clay,32,S,19951230,8,102057,,LL,Devin Bowen,R,183,USA,23.6030116359,102965,,,Jamie Delgado,R,178,GBR,18.7624914442,3-6 7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,668,,562,
 1996-M-SA-IND-01A-1995d,India Masters 4,Clay,32,S,19951230,9,102803,6,,Robert Witz,R,,AUT,19.5427789185,103034,,LL,Tomer Dank,R,,ISR,18.379192334,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,386,,1127,4
 1996-M-SA-IND-01A-1995d,India Masters 4,Clay,32,S,19951230,10,102039,,Q,Gaurav Natekar,R,,IND,23.7234770705,102808,,,Kalle Flygt,R,,SWE,19.5263518138,6-7 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,827,,478,
@@ -103,7 +103,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-M-SA-IND-01A-1995d,India Masters 4,Clay,32,S,19951230,17,101783,1,,Mark Petchey,R,183,GBR,25.3990417522,101810,,,Asif Ismail,R,,IND,25.234770705,7-6 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,149,,412,
 1996-M-SA-IND-01A-1995d,India Masters 4,Clay,32,S,19951230,18,102405,7,Q,Mahesh Bhupathi,R,185,IND,21.5496235455,106967,,Q,Ettore Rossetti,R,,ITA,,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,388,,,
 1996-M-SA-IND-01A-1995d,India Masters 4,Clay,32,S,19951230,19,101997,,Q,Marzio Martelli,R,180,ITA,24.0301163587,101814,4,,Colin Beecher,R,,GBR,25.1909650924,7-6 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,268,
-1996-M-SA-IND-01A-1995d,India Masters 4,Clay,32,S,19951230,20,102057,,LL,Devin Bowen,R,183,USA,23.6030116359,109467,,WC,Jagdish Tanwar,U,,IND,21.5660506502,1-6 6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,668,,,
+1996-M-SA-IND-01A-1995d,India Masters 4,Clay,32,S,19951230,20,102057,,LL,Devin Bowen,R,183,USA,23.6030116359,209471,,WC,Jagdish Tanwar,U,,IND,21.5660506502,1-6 6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,668,,,
 1996-M-SA-IND-01A-1995d,India Masters 4,Clay,32,S,19951230,21,102803,6,,Robert Witz,R,,AUT,19.5427789185,102039,,Q,Gaurav Natekar,R,,IND,23.7234770705,7-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,386,,827,
 1996-M-SA-IND-01A-1995d,India Masters 4,Clay,32,S,19951230,22,102284,3,,Filippo Messori,R,173,ITA,22.1163586585,102734,,,Lior Mor,R,175,ISR,19.819301848,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,234,,456,
 1996-M-SA-IND-01A-1995d,India Masters 4,Clay,32,S,19951230,23,102090,,,Ofer Sela,R,188,ISR,23.4250513347,102276,,,Sandeep Kirtane,R,,IND,22.160164271,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,460,,617,
@@ -5245,7 +5245,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-M-SA-USA-03A-1996a,USA 3 Masters 1,Hard,64,S,19960614,16,101710,6,,Martin Blackman,R,188,USA,26.2669404517,101907,,,Mark Booras,R,,USA,25.1033538672,6-4 6-4,3,R64,,,,,,,,,,,,,,,,,,,,,,803,11
 1996-M-SA-USA-03A-1996a,USA 3 Masters 1,Hard,64,S,19960614,17,102821,5,,Cecil Mamiit,R,173,PHI,19.9534565366,123434,,,Timothy Clark,U,,USA,25.2758384668,6-2 6-3,3,R64,,,,,,,,,,,,,,,,,,,,384,71,,
 1996-M-SA-USA-03A-1996a,USA 3 Masters 1,Hard,64,S,19960614,18,123432,,Q,Andrew Lake,U,,USA,26.3709787817,123515,,WC,Adam Mihok,U,,USA,,6-1 6-2,3,R64,,,,,,,,,,,,,,,,,,,,,,,
-1996-M-SA-USA-03A-1996a,USA 3 Masters 1,Hard,64,S,19960614,19,101509,,Q,Patrick Flynn,R,183,AUS,27.8165639973,109482,,,Enrique Cagide,R,,MEX,18.0424366872,6-2 7-5,3,R64,,,,,,,,,,,,,,,,,,,,1039,4,1176,2
+1996-M-SA-USA-03A-1996a,USA 3 Masters 1,Hard,64,S,19960614,19,101509,,Q,Patrick Flynn,R,183,AUS,27.8165639973,109482,,,John Falbo,R,,USA,27.1841204654,6-2 7-5,3,R64,,,,,,,,,,,,,,,,,,,,1039,4,1176,2
 1996-M-SA-USA-03A-1996a,USA 3 Masters 1,Hard,64,S,19960614,20,106882,12,,Dimitri Muzyka,R,,UKR,,101655,,Q,Rogelio Guerrero,R,,MEX,26.6146475017,6-3 6-4,3,R64,,,,,,,,,,,,,,,,,,,,1242,1,,
 1996-M-SA-USA-03A-1996a,USA 3 Masters 1,Hard,64,S,19960614,21,102998,13,,Jan Michael Gambill,R,190,USA,19.0198494182,122871,,,Brad Thyroff,U,,USA,23.3456536619,6-2 6-1,3,R64,,,,,,,,,,,,,,,,,,,,502,42,1242,1
 1996-M-SA-USA-03A-1996a,USA 3 Masters 1,Hard,64,S,19960614,22,103218,,,Manuel Jorquera,R,,ITA,17.9958932238,102640,,Q,Nicholas Chisholm,R,,RSA,20.8295687885,6-2 2-6 7-6,3,R64,,,,,,,,,,,,,,,,,,,,1242,1,,
@@ -5303,7 +5303,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-M-SA-USA-03A-1996b,USA 3 Masters 2,Hard,48,S,19960614,11,101908,,A,Matt Holt,R,,USA,25.1006160164,101509,,,Patrick Flynn,R,183,AUS,27.8165639973,6-3 6-3,3,R64,,,,,,,,,,,,,,,,,,,,853,9,1039,4
 1996-M-SA-USA-03A-1996b,USA 3 Masters 2,Hard,48,S,19960614,12,102096,,,Mark Weaver,R,,USA,23.8494182067,123432,,,Andrew Lake,U,,USA,26.3709787817,7-6 6-2,3,R64,,,,,,,,,,,,,,,,,,,,792,11,,
 1996-M-SA-USA-03A-1996b,USA 3 Masters 2,Hard,48,S,19960614,13,103218,,,Manuel Jorquera,R,,ITA,17.9958932238,123434,,,Timothy Clark,U,,USA,25.2758384668,6-2 5-7 6-3,3,R64,,,,,,,,,,,,,,,,,,,,1242,1,,
-1996-M-SA-USA-03A-1996b,USA 3 Masters 2,Hard,48,S,19960614,14,103026,,,Teo Susnjak,R,,NZL,18.8829568789,109482,,,Enrique Cagide,R,,MEX,18.0424366872,7-6 7-5,3,R64,,,,,,,,,,,,,,,,,,,,525,38,1176,2
+1996-M-SA-USA-03A-1996b,USA 3 Masters 2,Hard,48,S,19960614,14,103026,,,Teo Susnjak,R,,NZL,18.8829568789,109482,,,John Falbo,R,,USA,27.1841204654,7-6 7-5,3,R64,,,,,,,,,,,,,,,,,,,,525,38,1176,2
 1996-M-SA-USA-03A-1996b,USA 3 Masters 2,Hard,48,S,19960614,15,101683,,,Donavan September,R,,RSA,26.4284736482,103431,,,Brandon Hawk,R,,USA,16.7693360712,7-6 3-6 6-1,3,R64,,,,,,,,,,,,,,,,,,,,1242,1,,
 1996-M-SA-USA-03A-1996b,USA 3 Masters 2,Hard,48,S,19960614,16,123443,,,Damon Henkel,U,,USA,22.5708418891,122863,,,Grzegorz Zgola,U,,POL,23.0171115674,6-4 7-6,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1996-M-SA-USA-03A-1996b,USA 3 Masters 2,Hard,48,S,19960614,17,102076,1,,Mark Merklein,R,188,BAH,23.9507186858,102412,,,Rob Chess,R,,USA,21.9876796715,3-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,342,87,1039,4
@@ -5359,7 +5359,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-M-SA-USA-03A-1996c,USA 3 Masters 3,Hard,64,S,19960614,20,103066,11,,Mark Nielsen,R,185,NZL,18.6721423682,118045,,WC,Ed Rubin,U,,USA,18.3518138261,6-1 6-3,3,R64,,,,,,,,,,,,,,,,,,,,616,24,,
 1996-M-SA-USA-03A-1996c,USA 3 Masters 3,Hard,64,S,19960614,21,102096,14,,Mark Weaver,R,,USA,23.8494182067,103431,,Q,Brandon Hawk,R,,USA,16.7693360712,7-6 6-2,3,R64,,,,,,,,,,,,,,,,,,,,792,11,,
 1996-M-SA-USA-03A-1996c,USA 3 Masters 3,Hard,64,S,19960614,22,101683,,,Donavan September,R,,RSA,26.4284736482,122897,,,David Ortiz,U,,USA,25.325119781,6-2 6-3,3,R64,,,,,,,,,,,,,,,,,,,,1242,1,,
-1996-M-SA-USA-03A-1996c,USA 3 Masters 3,Hard,64,S,19960614,23,107038,,,Frank Salazar,R,,USA,,109482,,,Enrique Cagide,R,,MEX,18.0424366872,6-3 4-5 RET,3,R64,,,,,,,,,,,,,,,,,,,,1098,4,1176,2
+1996-M-SA-USA-03A-1996c,USA 3 Masters 3,Hard,64,S,19960614,23,107038,,,Frank Salazar,R,,USA,,109482,,,John Falbo,R,,USA,27.1841204654,6-3 4-5 RET,3,R64,,,,,,,,,,,,,,,,,,,,1098,4,1176,2
 1996-M-SA-USA-03A-1996c,USA 3 Masters 3,Hard,64,S,19960614,24,101860,4,,Mark Draper,R,185,AUS,25.3278576318,102529,,,Thomas Shimada,R,178,JPN,21.3305954825,6-4 2-6 2-2 RET,3,R64,,,,,,,,,,,,,,,,,,,,389,68,1242,1
 1996-M-SA-USA-03A-1996c,USA 3 Masters 3,Hard,64,S,19960614,25,103026,8,,Teo Susnjak,R,,NZL,18.8829568789,124944,,LL,Kurt Bruggeman,U,,USA,23.3155373032,&nbsp;,3,R64,,,,,,,,,,,,,,,,,,,,525,38,,
 1996-M-SA-USA-03A-1996c,USA 3 Masters 3,Hard,64,S,19960614,26,102735,,,Cedric Kauffmann,R,,FRA,20.2765229295,122880,,,Robbie Wendell,U,,USA,24.900752909,6-3 6-2,3,R64,,,,,,,,,,,,,,,,,,,,1098,4,,
@@ -5410,7 +5410,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-M-SA-USA-03A-1996d,USA 3 Masters 4,Hard,64,S,19960614,8,103026,7,,Teo Susnjak,R,,NZL,18.8829568789,102648,,Q,Gareth Williams,R,183,RSA,20.7885010267,6-2 6-4,3,R64,,,,,,,,,,,,,,,,,,,,525,38,,
 1996-M-SA-USA-03A-1996d,USA 3 Masters 4,Hard,64,S,19960614,9,102821,3,WC,Cecil Mamiit,R,173,PHI,19.9534565366,102735,,,Cedric Kauffmann,R,,FRA,20.2765229295,6-2 4-6 6-3,3,R64,,,,,,,,,,,,,,,,,,,,384,71,1098,4
 1996-M-SA-USA-03A-1996d,USA 3 Masters 4,Hard,64,S,19960614,10,123513,,Q,Michael Sprouse,U,,USA,21.697467488,103218,,,Manuel Jorquera,R,,ITA,17.9958932238,6-4 6-3,3,R64,,,,,,,,,,,,,,,,,,,,,,1242,1
-1996-M-SA-USA-03A-1996d,USA 3 Masters 4,Hard,64,S,19960614,11,109482,,,Enrique Cagide,R,,MEX,18.0424366872,124946,,Q,Eric Allen,U,,USA,22.2778918549,7-6 6-4,3,R64,,,,,,,,,,,,,,,,,,,,1176,2,,
+1996-M-SA-USA-03A-1996d,USA 3 Masters 4,Hard,64,S,19960614,11,109482,,,John Falbo,R,,USA,27.1841204654,124946,,Q,Eric Allen,U,,USA,22.2778918549,7-6 6-4,3,R64,,,,,,,,,,,,,,,,,,,,1176,2,,
 1996-M-SA-USA-03A-1996d,USA 3 Masters 4,Hard,64,S,19960614,12,102096,14,,Mark Weaver,R,,USA,23.8494182067,107038,,,Frank Salazar,R,,USA,,6-3 5-7 6-4,3,R64,,,,,,,,,,,,,,,,,,,,792,11,1098,4
 1996-M-SA-USA-03A-1996d,USA 3 Masters 4,Hard,64,S,19960614,13,101898,12,,Vince Mackey,R,,USA,25.158110883,107576,,,Loren Peters,R,,USA,,6-2 6-4,3,R64,,,,,,,,,,,,,,,,,,,,668,19,1242,1
 1996-M-SA-USA-03A-1996d,USA 3 Masters 4,Hard,64,S,19960614,14,103027,,,Markus Menzler,R,,GER,18.8774811773,102640,,Q,Nicholas Chisholm,R,,RSA,20.8295687885,6-3 3-6 6-2,3,R64,,,,,,,,,,,,,,,,,,,,1176,2,,
@@ -5437,7 +5437,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-M-SA-USA-03A-1996d,USA 3 Masters 4,Hard,64,S,19960614,35,107973,,Q,Peter Ayers,R,,USA,,103066,10,,Mark Nielsen,R,185,NZL,18.6721423682,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,616,24
 1996-M-SA-USA-03A-1996d,USA 3 Masters 4,Hard,64,S,19960614,36,103026,7,,Teo Susnjak,R,,NZL,18.8829568789,102102,,,Natsuki Harada,R,,JPN,23.8001368925,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,525,38,,
 1996-M-SA-USA-03A-1996d,USA 3 Masters 4,Hard,64,S,19960614,37,102821,3,WC,Cecil Mamiit,R,173,PHI,19.9534565366,123513,,Q,Michael Sprouse,U,,USA,21.697467488,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,384,71,,
-1996-M-SA-USA-03A-1996d,USA 3 Masters 4,Hard,64,S,19960614,38,109482,,,Enrique Cagide,R,,MEX,18.0424366872,102096,14,,Mark Weaver,R,,USA,23.8494182067,6-3 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1176,2,792,11
+1996-M-SA-USA-03A-1996d,USA 3 Masters 4,Hard,64,S,19960614,38,109482,,,John Falbo,R,,USA,27.1841204654,102096,14,,Mark Weaver,R,,USA,23.8494182067,6-3 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1176,2,792,11
 1996-M-SA-USA-03A-1996d,USA 3 Masters 4,Hard,64,S,19960614,39,103027,,,Markus Menzler,R,,GER,18.8774811773,101898,12,,Vince Mackey,R,,USA,25.158110883,4-6 6-3 7-6,3,R32,,,,,,,,,,,,,,,,,,,,1176,2,668,19
 1996-M-SA-USA-03A-1996d,USA 3 Masters 4,Hard,64,S,19960614,40,102527,,Q,Oliver Mayo,R,,AUS,21.3388090349,102228,,Q,Jan Hermansson,R,,SWE,23.0116358658,1-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1996-M-SA-USA-03A-1996d,USA 3 Masters 4,Hard,64,S,19960614,41,102654,5,,Steven Downs,R,183,NZL,20.7556468172,123434,,Q,Timothy Clark,U,,USA,25.2758384668,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,434,57,,
@@ -5450,7 +5450,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-M-SA-USA-03A-1996d,USA 3 Masters 4,Hard,64,S,19960614,48,102076,2,,Mark Merklein,R,188,BAH,23.9507186858,102853,,WC,Pablo Montana,R,,USA,19.7563312799,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,342,87,,
 1996-M-SA-USA-03A-1996d,USA 3 Masters 4,Hard,64,S,19960614,49,102372,1,,Sule Ladipo,R,180,NGR,22.1711156742,106882,,,Dimitri Muzyka,R,,UKR,,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,369,76,1242,1
 1996-M-SA-USA-03A-1996d,USA 3 Masters 4,Hard,64,S,19960614,50,107973,,Q,Peter Ayers,R,,USA,,103026,7,,Teo Susnjak,R,,NZL,18.8829568789,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,525,38
-1996-M-SA-USA-03A-1996d,USA 3 Masters 4,Hard,64,S,19960614,51,102821,3,WC,Cecil Mamiit,R,173,PHI,19.9534565366,109482,,,Enrique Cagide,R,,MEX,18.0424366872,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,384,71,1176,2
+1996-M-SA-USA-03A-1996d,USA 3 Masters 4,Hard,64,S,19960614,51,102821,3,WC,Cecil Mamiit,R,173,PHI,19.9534565366,109482,,,John Falbo,R,,USA,27.1841204654,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,384,71,1176,2
 1996-M-SA-USA-03A-1996d,USA 3 Masters 4,Hard,64,S,19960614,52,103027,,,Markus Menzler,R,,GER,18.8774811773,102527,,Q,Oliver Mayo,R,,AUS,21.3388090349,7-5 6-0,3,R16,,,,,,,,,,,,,,,,,,,,1176,2,,
 1996-M-SA-USA-03A-1996d,USA 3 Masters 4,Hard,64,S,19960614,53,102410,11,,David Caldwell,R,180,USA,21.993155373,102654,5,,Steven Downs,R,183,NZL,20.7556468172,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,577,28,434,57
 1996-M-SA-USA-03A-1996d,USA 3 Masters 4,Hard,64,S,19960614,54,102430,13,WC,Adam Peterson,R,185,USA,21.9028062971,101860,4,,Mark Draper,R,185,AUS,25.3278576318,2-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,690,17,389,68
@@ -6173,7 +6173,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-M-SA-ESP-06A-1996a,Spain 6 Masters 1,Clay,32,S,19960712,12,102231,4,,Alex Calatrava,R,190,ESP,23.0663928816,102449,,,Carlos Martinez Comet,R,,ESP,21.839835729,3-6 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,294,116,737,14
 1996-M-SA-ESP-06A-1996a,Spain 6 Masters 1,Clay,32,S,19960712,13,102520,7,,Olivier Malcor,R,180,FRA,21.4428473648,102823,,Q,Agustin Banos,R,,ESP,20.0109514031,6-2 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,401,63,,
 1996-M-SA-ESP-06A-1996a,Spain 6 Masters 1,Clay,32,S,19960712,14,103365,,,Javier Garcia Sintes,R,,ESP,17.1854893908,102191,,WC,Joaquin Revert,R,183,ESP,23.2854209446,4-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-1996-M-SA-ESP-06A-1996a,Spain 6 Masters 1,Clay,32,S,19960712,15,102426,,Q,Juan Ignacio Carrasco,L,185,ESP,21.9986310746,109481,,WC,Can Uner,R,,TUR,22.6639288159,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,665,20,,
+1996-M-SA-ESP-06A-1996a,Spain 6 Masters 1,Clay,32,S,19960712,15,102426,,Q,Juan Ignacio Carrasco,L,185,ESP,21.9986310746,209485,,WC,Carlos Navarro,R,,BOL,19.5783709788,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,665,20,,
 1996-M-SA-ESP-06A-1996a,Spain 6 Masters 1,Clay,32,S,19960712,16,101982,2,,Jordi Mas,R,,ESP,24.6872005476,102402,,,Alberto Banus Sado,R,,ESP,22.0889801506,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,724,14,1100,4
 1996-M-SA-ESP-06A-1996a,Spain 6 Masters 1,Clay,32,S,19960712,17,102273,1,,David Salvador Estepa,R,,ESP,22.7159479808,102848,,Q,Javier Perez Vazquez,R,,ESP,19.8548939083,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,883,9,,
 1996-M-SA-ESP-06A-1996a,Spain 6 Masters 1,Clay,32,S,19960712,18,102930,,,Rodrigo Cerdera,R,,ARG,19.4223134839,123006,8,,Alfonso Honrado Comas,U,,ESP,21.2265571526,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,618,25,,
@@ -6528,7 +6528,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-M-SA-USA-04A-1996a,USA 4 Masters 1,Hard,64,S,19960719,19,102102,,LL,Natsuki Harada,R,,JPN,23.8959616701,103445,,,Mitsuru Takada,R,,JPN,16.8021902806,6-3 5-7 6-2,3,R64,,,,,,,,,,,,,,,,,,,,1266,1,818,11
 1996-M-SA-USA-04A-1996a,USA 4 Masters 1,Hard,64,S,19960719,20,102558,11,,Eric Taino,L,175,PHI,21.3278576318,102527,,Q,Oliver Mayo,R,,AUS,21.4346338125,6-4 6-3,3,R64,,,,,,,,,,,,,,,,,,,,698,17,862,9
 1996-M-SA-USA-04A-1996a,USA 4 Masters 1,Hard,64,S,19960719,21,123245,,Q,Alistair Macdonald,U,,AUS,22.9514031485,102411,13,,Myles Wakefield,R,196,RSA,22.0889801506,7-5 6-4,3,R64,,,,,,,,,,,,,,,,,,,,,,728,14
-1996-M-SA-USA-04A-1996a,USA 4 Masters 1,Hard,64,S,19960719,22,103454,,,Nicolas Massu,R,183,CHI,16.7638603696,109482,,,Enrique Cagide,R,,MEX,18.1382614648,7-5 7-5,3,R64,,,,,,,,,,,,,,,,,,,,844,10,1266,1
+1996-M-SA-USA-04A-1996a,USA 4 Masters 1,Hard,64,S,19960719,22,103454,,,Nicolas Massu,R,183,CHI,16.7638603696,109482,,,John Falbo,R,,USA,27.279945243,7-5 7-5,3,R64,,,,,,,,,,,,,,,,,,,,844,10,1266,1
 1996-M-SA-USA-04A-1996a,USA 4 Masters 1,Hard,64,S,19960719,23,107201,,,Hidehiko Tanizawa,R,,JPN,,123467,,LL,Micah Rideout,U,,USA,26.2915811088,6-3 3-6 6-2,3,R64,,,,,,,,,,,,,,,,,,,,821,11,,
 1996-M-SA-USA-04A-1996a,USA 4 Masters 1,Hard,64,S,19960719,24,102090,3,,Ofer Sela,R,188,ISR,23.9808350445,101804,,,Akira Matsushita,R,,JPN,25.8343600274,6-7 6-4 6-4,3,R64,,,,,,,,,,,,,,,,,,,,327,96,844,10
 1996-M-SA-USA-04A-1996a,USA 4 Masters 1,Hard,64,S,19960719,25,101905,,,Andy Stewart,R,,USA,25.2019164956,100877,7,,Brett Dickinson,R,183,USA,33.6125941136,6-4 7-6,3,R64,,,,,,,,,,,,,,,,,,,,907,8,572,31
@@ -6592,7 +6592,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-M-SA-USA-04A-1996b,USA 4 Masters 2,Hard,64,S,19960719,20,102558,11,,Eric Taino,L,175,PHI,21.3278576318,111639,,Q,Bill Gluck,U,,USA,19.8740588638,6-2 6-2,3,R64,,,,,,,,,,,,,,,,,,,,698,17,,
 1996-M-SA-USA-04A-1996b,USA 4 Masters 2,Hard,64,S,19960719,21,102096,13,,Mark Weaver,R,,USA,23.9452429843,102181,,Q,Andrew Turner,R,,NZL,23.3675564682,6-4 7-6,3,R64,,,,,,,,,,,,,,,,,,,,759,13,,
 1996-M-SA-USA-04A-1996b,USA 4 Masters 2,Hard,64,S,19960719,22,102412,,,Rob Chess,R,,USA,22.083504449,111225,,Q,Simon Merrin,U,,AUS,19.2388774812,6-4 7-6,3,R64,,,,,,,,,,,,,,,,,,,,1019,5,1266,1
-1996-M-SA-USA-04A-1996b,USA 4 Masters 2,Hard,64,S,19960719,23,109482,,,Enrique Cagide,R,,MEX,18.1382614648,117959,,,Danny Wilson,U,,USA,21.2813141684,4-6 6-3 6-1,3,R64,,,,,,,,,,,,,,,,,,,,1266,1,1266,1
+1996-M-SA-USA-04A-1996b,USA 4 Masters 2,Hard,64,S,19960719,23,109482,,,John Falbo,R,,USA,27.279945243,117959,,,Danny Wilson,U,,USA,21.2813141684,4-6 6-3 6-1,3,R64,,,,,,,,,,,,,,,,,,,,1266,1,1266,1
 1996-M-SA-USA-04A-1996b,USA 4 Masters 2,Hard,64,S,19960719,24,102403,4,,Bojan Vujic,R,,BIH,22.1081451061,109658,,,Anthony Ross,R,,AUS,19.5701574264,6-1 6-1,3,R64,,,,,,,,,,,,,,,,,,,,353,85,1182,3
 1996-M-SA-USA-04A-1996b,USA 4 Masters 2,Hard,64,S,19960719,25,101389,7,,Oren Motevassel,L,170,USA,28.887063655,102947,,LL,Jason Cook,R,,USA,19.3620807666,1-6 6-0 7-6,3,R64,,,,,,,,,,,,,,,,,,,,586,29,,
 1996-M-SA-USA-04A-1996b,USA 4 Masters 2,Hard,64,S,19960719,26,103280,,Q,Martin Verkerk,R,196,NED,17.7056810404,102852,,,Lee Pearson,R,,AUS,19.8548939083,4-6 6-4 6-3,3,R64,,,,,,,,,,,,,,,,,,,,,,1266,1
@@ -6613,7 +6613,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-M-SA-USA-04A-1996b,USA 4 Masters 2,Hard,64,S,19960719,41,102045,5,,David Draper,L,,GBR,24.2381930185,107576,,,Loren Peters,R,,USA,,5-7 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,454,53,1182,3
 1996-M-SA-USA-04A-1996b,USA 4 Masters 2,Hard,64,S,19960719,42,102558,11,,Eric Taino,L,175,PHI,21.3278576318,103094,,Q,Doug Root,R,,USA,18.5790554415,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,698,17,,
 1996-M-SA-USA-04A-1996b,USA 4 Masters 2,Hard,64,S,19960719,43,102412,,,Rob Chess,R,,USA,22.083504449,102096,13,,Mark Weaver,R,,USA,23.9452429843,7-5 RET,3,R32,,,,,,,,,,,,,,,,,,,,1019,5,759,13
-1996-M-SA-USA-04A-1996b,USA 4 Masters 2,Hard,64,S,19960719,44,102403,4,,Bojan Vujic,R,,BIH,22.1081451061,109482,,,Enrique Cagide,R,,MEX,18.1382614648,6-1 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,353,85,1266,1
+1996-M-SA-USA-04A-1996b,USA 4 Masters 2,Hard,64,S,19960719,44,102403,4,,Bojan Vujic,R,,BIH,22.1081451061,109482,,,John Falbo,R,,USA,27.279945243,6-1 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,353,85,1266,1
 1996-M-SA-USA-04A-1996b,USA 4 Masters 2,Hard,64,S,19960719,45,101389,7,,Oren Motevassel,L,170,USA,28.887063655,103280,,Q,Martin Verkerk,R,196,NED,17.7056810404,6-2 7-6,3,R32,,,,,,,,,,,,,,,,,,,,586,29,,
 1996-M-SA-USA-04A-1996b,USA 4 Masters 2,Hard,64,S,19960719,46,102282,9,,Tetsuya Chaen,R,,JPN,22.6913073238,123513,,WC,Michael Sprouse,U,,USA,21.7932922656,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,625,24,,
 1996-M-SA-USA-04A-1996b,USA 4 Masters 2,Hard,64,S,19960719,47,101908,16,,Matt Holt,R,,USA,25.196440794,124978,,Q,Chris Jenkins,U,,USA,22.9075975359,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,781,12,,
@@ -6644,7 +6644,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-M-SA-USA-04A-1996c,USA 4 Masters 3,Hard,48,S,19960719,9,123443,,,Damon Henkel,U,,USA,22.6666666667,108443,,,Toshitsugu Mori,R,,JPN,,7-6 7-5,3,R64,,,,,,,,,,,,,,,,,,,,1266,1,759,13
 1996-M-SA-USA-04A-1996c,USA 4 Masters 3,Hard,48,S,19960719,10,102852,,,Lee Pearson,R,,AUS,19.8548939083,102411,,,Myles Wakefield,R,196,RSA,22.0889801506,6-4 6-4,3,R64,,,,,,,,,,,,,,,,,,,,1266,1,728,14
 1996-M-SA-USA-04A-1996c,USA 4 Masters 3,Hard,48,S,19960719,11,101804,,,Akira Matsushita,R,,JPN,25.8343600274,107201,,,Hidehiko Tanizawa,R,,JPN,,6-4 6-3,3,R64,,,,,,,,,,,,,,,,,,,,844,10,821,11
-1996-M-SA-USA-04A-1996c,USA 4 Masters 3,Hard,48,S,19960719,12,103061,,,Jan Boruszewski,R,,GER,18.7843942505,109482,,,Enrique Cagide,R,,MEX,18.1382614648,6-4 7-6,3,R64,,,,,,,,,,,,,,,,,,,,,,1266,1
+1996-M-SA-USA-04A-1996c,USA 4 Masters 3,Hard,48,S,19960719,12,103061,,,Jan Boruszewski,R,,GER,18.7843942505,109482,,,John Falbo,R,,USA,27.279945243,6-4 7-6,3,R64,,,,,,,,,,,,,,,,,,,,,,1266,1
 1996-M-SA-USA-04A-1996c,USA 4 Masters 3,Hard,48,S,19960719,13,101878,,,Wynn Criswell,R,,USA,25.3442847365,102089,,,Arnaud Lofficial,R,,FRA,23.9835728953,6-2 6-1,3,R64,,,,,,,,,,,,,,,,,,,,1125,4,1046,4
 1996-M-SA-USA-04A-1996c,USA 4 Masters 3,Hard,48,S,19960719,14,111664,,,Adam Neal,U,,USA,19.5400410678,102102,,,Natsuki Harada,R,,JPN,23.8959616701,6-1 6-0,3,R64,,,,,,,,,,,,,,,,,,,,,,1266,1
 1996-M-SA-USA-04A-1996c,USA 4 Masters 3,Hard,48,S,19960719,15,102181,,,Andrew Turner,R,,NZL,23.3675564682,102947,,,Jason Cook,R,,USA,19.3620807666,7-6 6-3,3,R64,,,,,,,,,,,,,,,,,,,,,,,
@@ -6691,7 +6691,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-M-SA-USA-04A-1996d,USA 4 Masters 4,Hard,64,S,19960719,9,102076,4,,Mark Merklein,R,188,BAH,24.0465434634,107576,,,Loren Peters,R,,USA,,6-4 6-3,3,R64,,,,,,,,,,,,,,,,,,,,297,114,1182,3
 1996-M-SA-USA-04A-1996d,USA 4 Masters 4,Hard,64,S,19960719,10,123513,,,Michael Sprouse,U,,USA,21.7932922656,102648,,,Gareth Williams,R,183,RSA,20.8843258042,6-2 6-2,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1996-M-SA-USA-04A-1996d,USA 4 Masters 4,Hard,64,S,19960719,11,102411,,,Myles Wakefield,R,196,RSA,22.0889801506,106799,,Q,Daiji Morii,R,,JPN,,6-4 6-3,3,R64,,,,,,,,,,,,,,,,,,,,728,14,819,11
-1996-M-SA-USA-04A-1996d,USA 4 Masters 4,Hard,64,S,19960719,12,102170,13,,Gerrit Steenkamp,R,,RSA,23.446954141,109482,,,Enrique Cagide,R,,MEX,18.1382614648,6-3 6-3,3,R64,,,,,,,,,,,,,,,,,,,,715,16,1266,1
+1996-M-SA-USA-04A-1996d,USA 4 Masters 4,Hard,64,S,19960719,12,102170,13,,Gerrit Steenkamp,R,,RSA,23.446954141,109482,,,John Falbo,R,,USA,27.279945243,6-3 6-3,3,R64,,,,,,,,,,,,,,,,,,,,715,16,1266,1
 1996-M-SA-USA-04A-1996d,USA 4 Masters 4,Hard,64,S,19960719,13,102090,12,,Ofer Sela,R,188,ISR,23.9808350445,103227,,,Mariano Sanchez,R,,MEX,18.0342231348,1-6 7-6 6-2,3,R64,,,,,,,,,,,,,,,,,,,,327,96,653,21
 1996-M-SA-USA-04A-1996d,USA 4 Masters 4,Hard,64,S,19960719,14,102947,,Q,Jason Cook,R,,USA,19.3620807666,123432,,,Andrew Lake,U,,USA,26.4668035592,6-1 2-1 RET,3,R64,,,,,,,,,,,,,,,,,,,,,,1266,1
 1996-M-SA-USA-04A-1996d,USA 4 Masters 4,Hard,64,S,19960719,15,101878,,,Wynn Criswell,R,,USA,25.3442847365,123446,,WC,Derek Howe,U,,USA,24.2902121834,6-2 6-1,3,R64,,,,,,,,,,,,,,,,,,,,1125,4,,
@@ -7882,7 +7882,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-M-SA-ESP-07A-1996d,Spain 7 Masters 4,Clay,32,S,19960810,8,102692,,,Manuel Sala,R,,ESP,20.681724846,102674,6,,Lars Kirschner,R,,GER,20.7857631759,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,796,11,546,33
 1996-M-SA-ESP-07A-1996d,Spain 7 Masters 4,Clay,32,S,19960810,9,102001,5,,German Lopez,R,193,ESP,24.6023271732,102402,,Q,Alberto Banus Sado,R,,ESP,22.1656399726,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,502,41,1107,4
 1996-M-SA-ESP-07A-1996d,Spain 7 Masters 4,Clay,32,S,19960810,10,103365,,WC,Javier Garcia Sintes,R,,ESP,17.2621492129,102951,,Q,Francisco Mendez,R,,ESP,19.4113620808,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-1996-M-SA-ESP-07A-1996d,Spain 7 Masters 4,Clay,32,S,19960810,11,102426,,,Juan Ignacio Carrasco,L,185,ESP,22.0752908966,109481,,Q,Can Uner,R,,TUR,22.7405886379,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,662,20,,
+1996-M-SA-ESP-07A-1996d,Spain 7 Masters 4,Clay,32,S,19960810,11,102426,,,Juan Ignacio Carrasco,L,185,ESP,22.0752908966,209485,,Q,Carlos Navarro,R,,BOL,19.6550308008,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,662,20,,
 1996-M-SA-ESP-07A-1996d,Spain 7 Masters 4,Clay,32,S,19960810,12,102629,4,,Oscar Burrieza,R,170,ESP,21.0403832991,102117,,,Eduardo Nicolas,R,173,ESP,23.8685831622,6-3 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,446,51,671,19
 1996-M-SA-ESP-07A-1996d,Spain 7 Masters 4,Clay,32,S,19960810,13,102952,8,,Jose Maria Vicente,R,,ESP,19.4113620808,101982,,,Jordi Mas,R,,ESP,24.7638603696,6-2 1-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,620,24,723,14
 1996-M-SA-ESP-07A-1996d,Spain 7 Masters 4,Clay,32,S,19960810,14,123006,,,Alfonso Honrado Comas,U,,ESP,21.3032169747,123065,,Q,Hector Vazquez Aramburu,U,,ESP,29.0951403149,7-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -8137,7 +8137,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-M-SA-YUG-02A-1996d,Yugoslavia 2 Masters 4,Clay,32,S,19960810,31,102332,4,,Adolf Musil,R,,CZE,22.4832306639,102800,2,,Nenad Zimonjic,R,190,SRB,20.1697467488,7-6 6-4,3,F,,,,,,,,,,,,,,,,,,,,430,55,418,57
 1996-M-SA-TUR-02A-1996a,Turkey 2 Masters 1,Clay,24,S,19960817,1,102729,,,Vladimir Platenik,R,,SVK,20.4818617385,102510,,,Pavel Motylewski,R,,POL,21.5715263518,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,420,58,,
 1996-M-SA-TUR-02A-1996a,Turkey 2 Masters 1,Clay,24,S,19960817,2,101831,,,Mustafa Azkara,R,,TUR,25.6481861739,103145,,,Amir Hadad,R,183,ISR,18.4832306639,7-5 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,522,38
-1996-M-SA-TUR-02A-1996a,Turkey 2 Masters 1,Clay,24,S,19960817,3,103140,,,Dmitri Kourilovich,R,,BLR,18.507871321,109480,,,Alex Roman,R,,BOL,21.7330595483,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,725,15,,
+1996-M-SA-TUR-02A-1996a,Turkey 2 Masters 1,Clay,24,S,19960817,3,103140,,,Dmitri Kourilovich,R,,BLR,18.507871321,109480,,,Yavuz Erkangil,R,,TUR,29.4483230664,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,725,15,,
 1996-M-SA-TUR-02A-1996a,Turkey 2 Masters 1,Clay,24,S,19960817,4,102908,,,Roman Kukal,R,,SVK,19.5975359343,102552,,,Baris Ergun,R,,TUR,21.4236824093,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,502,42,1031,5
 1996-M-SA-TUR-02A-1996a,Turkey 2 Masters 1,Clay,24,S,19960817,5,102918,,,Efe Ustundag,R,,TUR,19.5728952772,122863,,,Grzegorz Zgola,U,,POL,23.189596167,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,968,6,,
 1996-M-SA-TUR-02A-1996a,Turkey 2 Masters 1,Clay,24,S,19960817,6,102282,,,Tetsuya Chaen,R,,JPN,22.7679671458,102968,,,Jonathan Erlich,R,180,ISR,19.3538672142,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,629,24,612,26
@@ -8166,7 +8166,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-M-SA-TUR-02A-1996b,Turkey 2 Masters 2,Clay,32,S,19960817,6,103029,,,Mehdi Tahiri,R,183,MAR,19.0417522245,124876,,Q,Motohiro Yurugi,U,,JPN,28.1177275838,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,536,35,,
 1996-M-SA-TUR-02A-1996b,Turkey 2 Masters 2,Clay,32,S,19960817,7,101939,,WC,Erhan Oral,R,,TUR,25.067761807,102285,,Q,Nasser Ghanim Al Khulaifi,R,,QAT,22.7488021903,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,816,10,1272,1
 1996-M-SA-TUR-02A-1996b,Turkey 2 Masters 2,Clay,32,S,19960817,8,102670,6,,Lior Dahan,R,,ISR,20.8295687885,122863,,Q,Grzegorz Zgola,U,,POL,23.189596167,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,450,51,,
-1996-M-SA-TUR-02A-1996b,Turkey 2 Masters 2,Clay,32,S,19960817,9,102734,5,,Lior Mor,R,175,ISR,20.4517453799,109480,,WC,Alex Roman,R,,BOL,21.7330595483,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,439,54,,
+1996-M-SA-TUR-02A-1996b,Turkey 2 Masters 2,Clay,32,S,19960817,9,102734,5,,Lior Mor,R,175,ISR,20.4517453799,109480,,WC,Yavuz Erkangil,R,,TUR,29.4483230664,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,439,54,,
 1996-M-SA-TUR-02A-1996b,Turkey 2 Masters 2,Clay,32,S,19960817,10,101831,,WC,Mustafa Azkara,R,,TUR,25.6481861739,102918,,WC,Efe Ustundag,R,,TUR,19.5728952772,7-5 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,968,6
 1996-M-SA-TUR-02A-1996b,Turkey 2 Masters 2,Clay,32,S,19960817,11,101989,,,Patrik Langvardt,R,,DEN,24.6844626968,107790,,,Michal Jordan,R,,POL,,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,572,30,863,9
 1996-M-SA-TUR-02A-1996b,Turkey 2 Masters 2,Clay,32,S,19960817,12,102729,4,,Vladimir Platenik,R,,SVK,20.4818617385,109035,,,Yalin Bilgin,R,,TUR,18.2751540041,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,420,58,1031,5
@@ -8198,7 +8198,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-M-SA-TUR-02A-1996c,Turkey 2 Masters 3,Clay,32,S,19960817,7,102918,,,Efe Ustundag,R,,TUR,19.5728952772,102282,,,Tetsuya Chaen,R,,JPN,22.7679671458,7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,968,6,629,24
 1996-M-SA-TUR-02A-1996c,Turkey 2 Masters 3,Clay,32,S,19960817,8,103248,5,,Harel Levy,R,185,ISR,18.0205338809,123202,,Q,Yuji Ohno,U,,JPN,27.2443531828,6-2 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,636,23,,
 1996-M-SA-TUR-02A-1996c,Turkey 2 Masters 3,Clay,32,S,19960817,9,103029,6,,Mehdi Tahiri,R,183,MAR,19.0417522245,101939,,,Erhan Oral,R,,TUR,25.067761807,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,536,35,816,10
-1996-M-SA-TUR-02A-1996c,Turkey 2 Masters 3,Clay,32,S,19960817,10,103145,,,Amir Hadad,R,183,ISR,18.4832306639,109480,,WC,Alex Roman,R,,BOL,21.7330595483,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,522,38,,
+1996-M-SA-TUR-02A-1996c,Turkey 2 Masters 3,Clay,32,S,19960817,10,103145,,,Amir Hadad,R,183,ISR,18.4832306639,109480,,WC,Yavuz Erkangil,R,,TUR,29.4483230664,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,522,38,,
 1996-M-SA-TUR-02A-1996c,Turkey 2 Masters 3,Clay,32,S,19960817,11,102729,,,Vladimir Platenik,R,,SVK,20.4818617385,103230,,Q,Tasuku Iwami,L,168,JPN,18.0944558522,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,420,58,889,9
 1996-M-SA-TUR-02A-1996c,Turkey 2 Masters 3,Clay,32,S,19960817,12,102903,3,,Eyal Erlich,R,183,ISR,19.6112251882,102908,,,Roman Kukal,R,,SVK,19.5975359343,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,364,77,502,42
 1996-M-SA-TUR-02A-1996c,Turkey 2 Masters 3,Clay,32,S,19960817,13,101989,,,Patrik Langvardt,R,,DEN,24.6844626968,103140,8,,Dmitri Kourilovich,R,,BLR,18.507871321,6-4 2-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,572,30,725,15
@@ -8229,7 +8229,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-M-SA-TUR-02A-1996d,Turkey 2 Masters 4,Clay,32,S,19960817,7,102552,,WC,Baris Ergun,R,,TUR,21.4236824093,123202,,Q,Yuji Ohno,U,,JPN,27.2443531828,3-6 7-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,1031,5,,
 1996-M-SA-TUR-02A-1996d,Turkey 2 Masters 4,Clay,32,S,19960817,8,102670,6,,Lior Dahan,R,,ISR,20.8295687885,102671,,LL,Masaki Komura,R,,JPN,20.8186173854,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,450,51,1106,4
 1996-M-SA-TUR-02A-1996d,Turkey 2 Masters 4,Clay,32,S,19960817,9,102734,5,,Lior Mor,R,175,ISR,20.4517453799,103230,,,Tasuku Iwami,L,168,JPN,18.0944558522,6-7 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,439,54,889,9
-1996-M-SA-TUR-02A-1996d,Turkey 2 Masters 4,Clay,32,S,19960817,10,109480,,WC,Alex Roman,R,,BOL,21.7330595483,109481,,Q,Can Uner,R,,TUR,22.7597535934,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1996-M-SA-TUR-02A-1996d,Turkey 2 Masters 4,Clay,32,S,19960817,10,109480,,WC,Yavuz Erkangil,R,,TUR,29.4483230664,109481,,Q,Can Uner,R,,TUR,22.7597535934,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1996-M-SA-TUR-02A-1996d,Turkey 2 Masters 4,Clay,32,S,19960817,11,102918,,LL,Efe Ustundag,R,,TUR,19.5728952772,122863,,Q,Grzegorz Zgola,U,,POL,23.189596167,7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,968,6,,
 1996-M-SA-TUR-02A-1996d,Turkey 2 Masters 4,Clay,32,S,19960817,12,103140,,,Dmitri Kourilovich,R,,BLR,18.507871321,101518,3,,Sandro Della Piana,R,,SUI,27.8959616701,4-6 7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,725,15,394,66
 1996-M-SA-TUR-02A-1996d,Turkey 2 Masters 4,Clay,32,S,19960817,13,102908,8,,Roman Kukal,R,,SVK,19.5975359343,101989,,,Patrik Langvardt,R,,DEN,24.6844626968,6-1 5-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,502,42,572,30
@@ -8240,7 +8240,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-M-SA-TUR-02A-1996d,Turkey 2 Masters 4,Clay,32,S,19960817,18,102968,,,Jonathan Erlich,R,180,ISR,19.3538672142,101939,,WC,Erhan Oral,R,,TUR,25.067761807,4-6 6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,612,26,816,10
 1996-M-SA-TUR-02A-1996d,Turkey 2 Masters 4,Clay,32,S,19960817,19,102282,,,Tetsuya Chaen,R,,JPN,22.7679671458,101121,,,Alaaddin Karagoz,R,,TUR,31.3538672142,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,629,24,969,6
 1996-M-SA-TUR-02A-1996d,Turkey 2 Masters 4,Clay,32,S,19960817,20,102670,6,,Lior Dahan,R,,ISR,20.8295687885,102552,,WC,Baris Ergun,R,,TUR,21.4236824093,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,450,51,1031,5
-1996-M-SA-TUR-02A-1996d,Turkey 2 Masters 4,Clay,32,S,19960817,21,102734,5,,Lior Mor,R,175,ISR,20.4517453799,109480,,WC,Alex Roman,R,,BOL,21.7330595483,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,439,54,,
+1996-M-SA-TUR-02A-1996d,Turkey 2 Masters 4,Clay,32,S,19960817,21,102734,5,,Lior Mor,R,175,ISR,20.4517453799,109480,,WC,Yavuz Erkangil,R,,TUR,29.4483230664,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,439,54,,
 1996-M-SA-TUR-02A-1996d,Turkey 2 Masters 4,Clay,32,S,19960817,22,103140,,,Dmitri Kourilovich,R,,BLR,18.507871321,102918,,LL,Efe Ustundag,R,,TUR,19.5728952772,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,725,15,968,6
 1996-M-SA-TUR-02A-1996d,Turkey 2 Masters 4,Clay,32,S,19960817,23,103248,,,Harel Levy,R,185,ISR,18.0205338809,102908,8,,Roman Kukal,R,,SVK,19.5975359343,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,636,23,502,42
 1996-M-SA-TUR-02A-1996d,Turkey 2 Masters 4,Clay,32,S,19960817,24,102903,2,,Eyal Erlich,R,183,ISR,19.6112251882,103145,,,Amir Hadad,R,183,ISR,18.4832306639,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,364,77,522,38
@@ -8716,7 +8716,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-M-SA-ARG-02A-1996d,Argentina 2 Masters 4,Clay,32,S,19960831,30,102841,,WC,Juan Morgenstern,R,,ARG,20.0164271047,102718,6,,Enzo Artoni,R,,ITA,20.5804243669,4-6 6-0 6-1,3,SF,,,,,,,,,,,,,,,,,,,,1298,1,538,34
 1996-M-SA-ARG-02A-1996d,Argentina 2 Masters 4,Clay,32,S,19960831,31,102723,3,,Eduardo Medica,R,180,ARG,20.5420944559,102841,,WC,Juan Morgenstern,R,,ARG,20.0164271047,6-4 4-6 6-2,3,F,,,,,,,,,,,,,,,,,,,,469,48,1298,1
 1996-M-SA-ESP-08A-1996a,Spain 8 Masters 1,Clay,32,S,19960906,1,102022,1,,Cyril Buscaglione,R,,FRA,24.5229295003,123029,,,Alfredo Fernandez Andres,U,,ESP,21.826146475,4-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,364,80,1121,
-1996-M-SA-ESP-08A-1996a,Spain 8 Masters 1,Clay,32,S,19960906,2,103016,,,Emil Lenart,R,,GER,19.1649555099,109481,,Q,Can Uner,R,,TUR,22.81724846,7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1000,,,
+1996-M-SA-ESP-08A-1996a,Spain 8 Masters 1,Clay,32,S,19960906,2,103016,,,Emil Lenart,R,,GER,19.1649555099,209485,,Q,Carlos Navarro,R,,BOL,19.7316906229,7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1000,,,
 1996-M-SA-ESP-08A-1996a,Spain 8 Masters 1,Clay,32,S,19960906,3,102799,,Q,Tobias Huning,R,,GER,20.2491444216,103125,,Q,Joan Jimenez Guerra,R,,AND,18.6064339493,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1262,
 1996-M-SA-ESP-08A-1996a,Spain 8 Masters 1,Clay,32,S,19960906,4,103280,7,,Martin Verkerk,R,196,NED,17.839835729,102828,,,Roberto Menendez,R,,ESP,20.1505817933,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1057,,,
 1996-M-SA-ESP-08A-1996a,Spain 8 Masters 1,Clay,32,S,19960906,5,103498,4,,Marat Safin,R,193,RUS,16.5995893224,103242,,Q,Juan Giner,R,178,ESP,18.0999315537,3-6 6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,855,
@@ -8775,7 +8775,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-M-SA-ESP-08A-1996c,Spain 8 Masters 3,Clay,32,S,19960906,4,123068,,,Jody Strik,U,,NED,18.5188227242,101925,8,,Massimo Boscatto,R,178,ITA,25.2019164956,6-3 7-6,3,R32,,,,,,,,,,,,,,,,,,,,1298,,798,
 1996-M-SA-ESP-08A-1996c,Spain 8 Masters 3,Clay,32,S,19960906,5,103498,4,WC,Marat Safin,R,193,RUS,16.5995893224,102792,,,Carlos Castellanos,R,,ESP,20.2929500342,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,963,
 1996-M-SA-ESP-08A-1996c,Spain 8 Masters 3,Clay,32,S,19960906,6,103280,,,Martin Verkerk,R,196,NED,17.839835729,103382,,WC,Guillermo Platel,R,,ESP,17.2429842574,6-0 2-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,1057,,,
-1996-M-SA-ESP-08A-1996c,Spain 8 Masters 3,Clay,32,S,19960906,7,103365,,,Javier Garcia Sintes,R,,ESP,17.3388090349,109481,,Q,Can Uner,R,,TUR,22.81724846,6-3 2-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,928,,,
+1996-M-SA-ESP-08A-1996c,Spain 8 Masters 3,Clay,32,S,19960906,7,103365,,,Javier Garcia Sintes,R,,ESP,17.3388090349,209485,,Q,Carlos Navarro,R,,BOL,19.7316906229,6-3 2-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,928,,,
 1996-M-SA-ESP-08A-1996c,Spain 8 Masters 3,Clay,32,S,19960906,8,102117,5,,Eduardo Nicolas,R,173,ESP,23.9452429843,102692,,,Manuel Sala,R,,ESP,20.758384668,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,623,,944,
 1996-M-SA-ESP-08A-1996c,Spain 8 Masters 3,Clay,32,S,19960906,9,102449,6,,Carlos Martinez Comet,R,,ESP,21.993155373,102299,,Q,Olaf Knutel,R,,GER,22.6940451745,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,596,27,,
 1996-M-SA-ESP-08A-1996c,Spain 8 Masters 3,Clay,32,S,19960906,10,102426,,,Juan Ignacio Carrasco,L,185,ESP,22.1519507187,103242,,,Juan Giner,R,178,ESP,18.0999315537,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,657,,855,
@@ -9312,7 +9312,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-M-SA-BOL-01A-1996a,Peru Bolivia Masters 1,Clay,32,S,19960907,11,101548,,,Gabriel Keymer,R,,CHI,27.7262149213,108167,,Q,Rolf Seitz,R,,BRA,,1-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1030,,1298,
 1996-M-SA-BOL-01A-1996a,Peru Bolivia Masters 1,Clay,32,S,19960907,12,102444,3,,Scott Barron,R,,IRL,22.0177960301,101790,,,Elmar Gerth,R,,AHO,26.0616016427,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,511,39,956,
 1996-M-SA-BOL-01A-1996a,Peru Bolivia Masters 1,Clay,32,S,19960907,13,102962,,,Miguel Miranda,R,,CHI,19.4579055441,103228,7,Q,Marcos Daniel,R,180,BRA,18.1656399726,3-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,909,,592,
-1996-M-SA-BOL-01A-1996a,Peru Bolivia Masters 1,Clay,32,S,19960907,14,109480,,WC,Alex Roman,R,,BOL,21.7905544148,122773,,WC,Boris Itzkovich,U,,PER,29.0130047912,6-3 6-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1996-M-SA-BOL-01A-1996a,Peru Bolivia Masters 1,Clay,32,S,19960907,14,209484,,WC,Alex Roman,R,,BOL,21.7905544148,122773,,WC,Boris Itzkovich,U,,PER,29.0130047912,6-3 6-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1996-M-SA-BOL-01A-1996a,Peru Bolivia Masters 1,Clay,32,S,19960907,15,103264,,,Mariano Puerta,L,180,ARG,17.954825462,102756,,,Eduardo Rincon,R,,COL,20.4490075291,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,758,13,894,9
 1996-M-SA-BOL-01A-1996a,Peru Bolivia Masters 1,Clay,32,S,19960907,16,102348,2,,Hideki Kaneko,R,,JPN,22.4941820671,103633,,LL,Marco Mazzotta,R,,VEN,15.9671457906,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,360,83,,
 1996-M-SA-BOL-01A-1996a,Peru Bolivia Masters 1,Clay,32,S,19960907,17,102239,1,,Francisco Costa,R,180,BRA,23.1813826146,122770,,LL,Ariel Eisenberg,U,,ARG,19.151266256,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,291,120,,
@@ -9321,7 +9321,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-M-SA-BOL-01A-1996a,Peru Bolivia Masters 1,Clay,32,S,19960907,20,102740,6,,Francisco Rodriguez,R,,PAR,20.4845995893,117459,,Q,Andres Morales,U,,CHI,19.2498288843,6-4 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,574,,,
 1996-M-SA-BOL-01A-1996a,Peru Bolivia Masters 1,Clay,32,S,19960907,21,102391,,,Charles Edouard Maria,R,,FRA,22.2943189596,109099,5,,Erick Gomes,R,,BRA,21.6399726215,6-4 4-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,667,,,
 1996-M-SA-BOL-01A-1996a,Peru Bolivia Masters 1,Clay,32,S,19960907,22,102444,3,,Scott Barron,R,,IRL,22.0177960301,101548,,,Gabriel Keymer,R,,CHI,27.7262149213,6-4 7-6,3,R16,,,,,,,,,,,,,,,,,,,,511,39,1030,
-1996-M-SA-BOL-01A-1996a,Peru Bolivia Masters 1,Clay,32,S,19960907,23,102962,,,Miguel Miranda,R,,CHI,19.4579055441,109480,,WC,Alex Roman,R,,BOL,21.7905544148,7-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,909,,,
+1996-M-SA-BOL-01A-1996a,Peru Bolivia Masters 1,Clay,32,S,19960907,23,102962,,,Miguel Miranda,R,,CHI,19.4579055441,209484,,WC,Alex Roman,R,,BOL,21.7905544148,7-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,909,,,
 1996-M-SA-BOL-01A-1996a,Peru Bolivia Masters 1,Clay,32,S,19960907,24,103264,,,Mariano Puerta,L,180,ARG,17.954825462,102348,2,,Hideki Kaneko,R,,JPN,22.4941820671,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,758,13,360,83
 1996-M-SA-BOL-01A-1996a,Peru Bolivia Masters 1,Clay,32,S,19960907,25,108585,8,WC,Americo Venero Montes,U,,PER,24.5284052019,102239,1,,Francisco Costa,R,180,BRA,23.1813826146,6-0 6-1,3,QF,,,,,,,,,,,,,,,,,,,,,,291,120
 1996-M-SA-BOL-01A-1996a,Peru Bolivia Masters 1,Clay,32,S,19960907,26,102519,4,,Marcio Carlsson,R,175,BRA,21.607118412,102740,6,,Francisco Rodriguez,R,,PAR,20.4845995893,7-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,516,38,574,
@@ -9340,7 +9340,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-M-SA-BOL-01A-1996b,Peru Bolivia Masters 2,Clay,32,S,19960907,8,103264,6,,Mariano Puerta,L,180,ARG,17.954825462,102997,,,Hermes Gamonal,R,180,CHI,19.2580424367,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,758,13,1187,
 1996-M-SA-BOL-01A-1996b,Peru Bolivia Masters 2,Clay,32,S,19960907,9,102444,5,,Scott Barron,R,,IRL,22.0177960301,124254,,Q,Ariel Moreno,U,,COL,22.5681040383,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,511,39,,
 1996-M-SA-BOL-01A-1996b,Peru Bolivia Masters 2,Clay,32,S,19960907,10,108167,,,Rolf Seitz,R,,BRA,,117862,,WC,Luis Ramos,R,,PER,23.4579055441,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1298,,,
-1996-M-SA-BOL-01A-1996b,Peru Bolivia Masters 2,Clay,32,S,19960907,11,102420,,WC,Cesar Reano,R,,PER,22.1984941821,109480,,WC,Alex Roman,R,,BOL,21.7905544148,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1996-M-SA-BOL-01A-1996b,Peru Bolivia Masters 2,Clay,32,S,19960907,11,102420,,WC,Cesar Reano,R,,PER,22.1984941821,209484,,WC,Alex Roman,R,,BOL,21.7905544148,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1996-M-SA-BOL-01A-1996b,Peru Bolivia Masters 2,Clay,32,S,19960907,12,102519,4,,Marcio Carlsson,R,175,BRA,21.607118412,103736,,WC,Diego Acuna,U,,PER,15.4551676934,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,516,38,,
 1996-M-SA-BOL-01A-1996b,Peru Bolivia Masters 2,Clay,32,S,19960907,13,103228,8,,Marcos Daniel,R,180,BRA,18.1656399726,102962,,,Miguel Miranda,R,,CHI,19.4579055441,7-5 6-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,592,,909,
 1996-M-SA-BOL-01A-1996b,Peru Bolivia Masters 2,Clay,32,S,19960907,14,103633,,Q,Marco Mazzotta,R,,VEN,15.9671457906,123292,,Q,Renzo Lopez,U,,PER,19.9644079398,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -9399,7 +9399,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-M-SA-BOL-01A-1996d,Peru Bolivia Masters 4,Clay,32,S,19960907,13,102740,7,,Francisco Rodriguez,R,,PAR,20.4845995893,102348,,,Hideki Kaneko,R,,JPN,22.4941820671,7-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,574,,360,83
 1996-M-SA-BOL-01A-1996d,Peru Bolivia Masters 4,Clay,32,S,19960907,14,103633,,,Marco Mazzotta,R,,VEN,15.9671457906,101790,,Q,Elmar Gerth,R,,AHO,26.0616016427,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,956,
 1996-M-SA-BOL-01A-1996d,Peru Bolivia Masters 4,Clay,32,S,19960907,15,101548,,Q,Gabriel Keymer,R,,CHI,27.7262149213,102628,,Q,Mauro Barman,R,,ARG,21.1225188227,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1030,,1212,
-1996-M-SA-BOL-01A-1996d,Peru Bolivia Masters 4,Clay,32,S,19960907,16,102239,2,,Francisco Costa,R,180,BRA,23.1813826146,109480,,WC,Alex Roman,R,,BOL,21.7905544148,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,291,120,,
+1996-M-SA-BOL-01A-1996d,Peru Bolivia Masters 4,Clay,32,S,19960907,16,102239,2,,Francisco Costa,R,180,BRA,23.1813826146,209484,,WC,Alex Roman,R,,BOL,21.7905544148,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,291,120,,
 1996-M-SA-BOL-01A-1996d,Peru Bolivia Masters 4,Clay,32,S,19960907,17,102962,,,Miguel Miranda,R,,CHI,19.4579055441,102519,1,,Marcio Carlsson,R,175,BRA,21.607118412,4-6 6-4 7-6,3,R16,,,,,,,,,,,,,,,,,,,,909,,516,38
 1996-M-SA-BOL-01A-1996d,Peru Bolivia Masters 4,Clay,32,S,19960907,18,108585,8,,Americo Venero Montes,U,,PER,24.5284052019,102752,,,Pablo Saffie,R,,CHI,20.4599589322,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,909,
 1996-M-SA-BOL-01A-1996d,Peru Bolivia Masters 4,Clay,32,S,19960907,19,102444,4,,Scott Barron,R,,IRL,22.0177960301,117459,,,Andres Morales,U,,CHI,19.2498288843,6-3 7-6,3,R16,,,,,,,,,,,,,,,,,,,,511,39,,
