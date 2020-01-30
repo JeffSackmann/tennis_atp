@@ -192,7 +192,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-SA-ESP-01A-2000a,Spain 1 1,Clay,32,S,20000110,13,102167,7,,Juan Albert Viloca Puig,R,185,ESP,26.9787816564,103242,,Q,Juan Giner,R,178,ESP,21.453798768,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,145,257,408,62
 2000-M-SA-ESP-01A-2000a,Spain 1 1,Clay,32,S,20000110,14,103944,,WC,Gabriel Frias,U,,ESP,17.8754277892,102449,,Q,Carlos Martinez Comet,R,,ESP,25.3470225873,3-6 6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,482,45
 2000-M-SA-ESP-01A-2000a,Spain 1 1,Clay,32,S,20000110,15,103186,,,Emilio Viuda Hernandez,R,,ESP,21.6947296372,103460,,,Konstantin Don Gruber,R,183,AUT,20.205338809,6-4 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,585,27,497,41
-2000-M-SA-ESP-01A-2000a,Spain 1 1,Clay,32,S,20000110,16,102153,2,,German Puentes,R,173,ESP,27.06091718,103926,,Q,Daniel Munoz De La Nava,L,,ESP,17.9466119097,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,116,338,,
+2000-M-SA-ESP-01A-2000a,Spain 1 1,Clay,32,S,20000110,16,102153,2,,German Puentes,R,173,ESP,27.06091718,103926,,Q,Daniel Munoz de la Nava,L,,ESP,17.9466119097,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,116,338,,
 2000-M-SA-ESP-01A-2000a,Spain 1 1,Clay,32,S,20000110,17,102792,,Q,Carlos Castellanos,R,,ESP,23.6468172485,102910,1,,Salvador Navarro,R,180,ESP,23.0034223135,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,629,22,348,83
 2000-M-SA-ESP-01A-2000a,Spain 1 1,Clay,32,S,20000110,18,102117,8,,Eduardo Nicolas,R,173,ESP,27.2991101985,103527,,Q,Julien Jeanpierre,R,188,FRA,19.8357289528,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,166,220,477,46
 2000-M-SA-ESP-01A-2000a,Spain 1 1,Clay,32,S,20000110,19,103176,4,,David Sanchez,R,183,ESP,21.7248459959,104043,,WC,Marc Lopez,R,175,ESP,17.4455852156,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,201,177,981,6
@@ -267,7 +267,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-SA-ESP-01A-2000d,Spain 1 4,Clay,32,S,20000110,3,103944,,WC,Gabriel Frias,U,,ESP,17.8754277892,103424,,Q,Tobias Clemens,R,185,GER,20.4079397673,7-6(7) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,810,10
 2000-M-SA-ESP-01A-2000d,Spain 1 4,Clay,32,S,20000110,4,103520,7,,Pavel Snobel,L,190,CZE,19.8658453114,102519,3,,Marcio Carlsson,R,175,BRA,24.9609856263,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,443,54,244,136
 2000-M-SA-ESP-01A-2000d,Spain 1 4,Clay,32,S,20000110,5,102117,,,Eduardo Nicolas,R,173,ESP,27.2991101985,103032,,,Francisco Fogues,L,190,ESP,22.4284736482,7-6(5) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,166,220,441,55
-2000-M-SA-ESP-01A-2000d,Spain 1 4,Clay,32,S,20000110,6,103924,,Q,Marc Fornell Mestres,R,,ESP,17.954825462,103926,,WC,Daniel Munoz De La Nava,L,,ESP,17.9466119097,6-2 5-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,904,7,,
+2000-M-SA-ESP-01A-2000d,Spain 1 4,Clay,32,S,20000110,6,103924,,Q,Marc Fornell Mestres,R,,ESP,17.954825462,103926,,WC,Daniel Munoz de la Nava,L,,ESP,17.9466119097,6-2 5-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,904,7,,
 2000-M-SA-ESP-01A-2000d,Spain 1 4,Clay,32,S,20000110,7,103186,,Q,Emilio Viuda Hernandez,R,,ESP,21.6947296372,102449,,,Carlos Martinez Comet,R,,ESP,25.3470225873,4-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,585,27,482,45
 2000-M-SA-ESP-01A-2000d,Spain 1 4,Clay,32,S,20000110,8,103176,5,,David Sanchez,R,183,ESP,21.7248459959,104073,,Q,Jose Pablo Serna,U,,ESP,17.2265571526,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,201,177,,
 2000-M-SA-ESP-01A-2000d,Spain 1 4,Clay,32,S,20000110,9,103202,6,,Oscar Serrano,R,173,ESP,21.6290212183,102692,,,Manuel Sala,R,,ESP,24.1122518823,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,240,140,337,87
@@ -2825,7 +2825,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-SA-CRO-02A-2000b,Croatia 2 Satellite 2,Clay,32,S,20000417,30,103716,2,,Uros Vico,R,188,ITA,19.1567419576,103812,3,,Victor Hanescu,R,198,ROU,18.7405886379,6-2 6-7(4) 6-2,3,SF,,,,,,,,,,,,,,,,,,,,550,34,1214,2
 2000-M-SA-CRO-02A-2000b,Croatia 2 Satellite 2,Clay,32,S,20000417,31,103485,5,,Ivan Beros,R,,CRO,20.2984257358,103716,2,,Uros Vico,R,188,ITA,19.1567419576,6-4 3-6 6-3,3,F,,,,,,,,,,,,,,,,,,,,350,79,550,34
 2000-M-SA-CRO-02A-2000c,Croatia 2 Satellite 3,Clay,32,S,20000417,1,102836,1,SE,Rogier Wassen,R,190,NED,23.6878850103,103620,,,Tomas Janci,R,,SVK,19.6577686516,6-3 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,286,106,769,13
-2000-M-SA-CRO-02A-2000c,Croatia 2 Satellite 3,Clay,32,S,20000417,2,111210,,Q,Duje Mrduljas,U,,CRO,23.6303901437,103508,,,Nick Mcdonald,R,,RSA,20.1724845996,6-3 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,1313,1,776,12
+2000-M-SA-CRO-02A-2000c,Croatia 2 Satellite 3,Clay,32,S,20000417,2,111210,,Q,Duje Mrduljas,U,,CRO,23.6303901437,103508,,,Nick McDonald,R,,RSA,20.1724845996,6-3 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,1313,1,776,12
 2000-M-SA-CRO-02A-2000c,Croatia 2 Satellite 3,Clay,32,S,20000417,3,101960,,,Tamas Gyorgy,R,,HUN,28.6105407255,103289,,,Jernej Karner,R,,SLO,21.3579739904,3-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,749,14,980,6
 2000-M-SA-CRO-02A-2000c,Croatia 2 Satellite 3,Clay,32,S,20000417,4,103512,8,,Ivan Cinkus,R,,CRO,20.1587953457,103812,,SE,Victor Hanescu,R,198,ROU,18.7405886379,4-6 7-6(5) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,698,17,1214,2
 2000-M-SA-CRO-02A-2000c,Croatia 2 Satellite 3,Clay,32,S,20000417,5,102922,4,,Tomas Catar,R,,SVK,23.241615332,103334,,,Ronaldo Carvalho,R,,BRA,21.1334702259,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,555,33,903,7
@@ -2857,7 +2857,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-SA-CRO-02A-2000c,Croatia 2 Satellite 3,Clay,32,S,20000417,31,103716,3,,Uros Vico,R,188,ITA,19.1567419576,102836,1,SE,Rogier Wassen,R,190,NED,23.6878850103,6-3 6-3,3,F,,,,,,,,,,,,,,,,,,,,550,34,286,106
 2000-M-SA-CRO-02A-2000d,Croatia 2 Satellite 4,Clay,32,S,20000417,1,102836,1,LL,Rogier Wassen,R,190,NED,23.6878850103,102931,,,Daniel Lencina Ribes,R,,LTU,23.1950718686,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,286,106,803,11
 2000-M-SA-CRO-02A-2000d,Croatia 2 Satellite 4,Clay,32,S,20000417,2,103724,,Q,Jose Manuel Garcia Rodriguez,R,,ESP,19.1293634497,103806,,Q,Catalin Ionut Gard,R,,ROU,18.7707049966,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2000-M-SA-CRO-02A-2000d,Croatia 2 Satellite 4,Clay,32,S,20000417,3,103657,,LL,Ivo Klec,R,183,SVK,19.3839835729,103508,,,Nick Mcdonald,R,,RSA,20.1724845996,7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1168,2,776,12
+2000-M-SA-CRO-02A-2000d,Croatia 2 Satellite 4,Clay,32,S,20000417,3,103657,,LL,Ivo Klec,R,183,SVK,19.3839835729,103508,,,Nick McDonald,R,,RSA,20.1724845996,7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1168,2,776,12
 2000-M-SA-CRO-02A-2000d,Croatia 2 Satellite 4,Clay,32,S,20000417,4,103303,,,Angel Jose Martin,R,,ESP,21.2895277207,103156,8,,Alessandro Da Col,R,,ITA,22.1026694045,6-4 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,838,9,723,15
 2000-M-SA-CRO-02A-2000d,Croatia 2 Satellite 4,Clay,32,S,20000417,5,103716,3,,Uros Vico,R,188,ITA,19.1567419576,118360,,Q,Michael Dalus,U,,AUT,19.1156741958,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,550,34,,
 2000-M-SA-CRO-02A-2000d,Croatia 2 Satellite 4,Clay,32,S,20000417,6,103620,,,Tomas Janci,R,,SVK,19.6577686516,125056,,WC,Stefan Samweber,U,,GER,34.2943189596,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,769,13,,
@@ -4102,7 +4102,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-AUT-03A-2000,Austria F3,Clay,32,S,20000515,6,102978,,,Zbynek Mlynarik,R,175,AUT,23.0581793292,103467,,LL,Victor Bruthans,R,,SVK,20.514715948,5-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,477,47,467,49
 2000-M-FU-AUT-03A-2000,Austria F3,Clay,32,S,20000515,7,104325,,WC,Johannes Ager,R,196,AUT,16.180698152,102337,,,Leigh Holland,R,,AUS,26.2368240931,6-7(1) 6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,872,8,538,35
 2000-M-FU-AUT-03A-2000,Austria F3,Clay,32,S,20000515,8,103781,5,,Jurgen Melzer,L,183,AUT,18.9815195072,102666,,LL,Thomas Strengberger S597,R,,AUT,24.6105407255,7-5 4-6 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,437,56,801,10
-2000-M-FU-AUT-03A-2000,Austria F3,Clay,32,S,20000515,9,103520,6,,Pavel Snobel,L,190,CZE,20.2108145106,103508,,LL,Nick Mcdonald,R,,RSA,20.2491444216,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,446,54,766,12
+2000-M-FU-AUT-03A-2000,Austria F3,Clay,32,S,20000515,9,103520,6,,Pavel Snobel,L,190,CZE,20.2108145106,103508,,LL,Nick McDonald,R,,RSA,20.2491444216,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,446,54,766,12
 2000-M-FU-AUT-03A-2000,Austria F3,Clay,32,S,20000515,10,103592,,Q,Jerome Haehnel,R,185,FRA,19.8357289528,104160,,Q,Lukas Dlouhy,R,185,CZE,17.1006160164,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,617,23,,
 2000-M-FU-AUT-03A-2000,Austria F3,Clay,32,S,20000515,11,102946,,,Thorsten Wolff,R,,GER,23.1978097194,103260,,Q,Andrej Bizjak,R,,SLO,21.6755646817,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,682,18,1178,2
 2000-M-FU-AUT-03A-2000,Austria F3,Clay,32,S,20000515,12,101909,3,,Roman Smotlak,R,,SVK,29.0239561944,103965,,WC,Markus Krenn,U,,AUT,18.1437371663,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,383,65,,
@@ -4924,7 +4924,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-SA-RSA-01A-2000a,Mauritius South Africa 1,Hard,24,S,20000605,7,103679,,,Jeroen Masson,R,,BEL,19.4223134839,102267,,,Gwinyai Tongoona,U,,ZIM,26.6529774127,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1110,3,,
 2000-M-SA-RSA-01A-2000a,Mauritius South Africa 1,Hard,24,S,20000605,8,104158,,,Andrew Anderson,R,193,RSA,17.1608487337,117615,,,Thomas Greenland,U,,GBR,19.9315537303,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1110,3,,
 2000-M-SA-RSA-01A-2000a,Mauritius South Africa 1,Hard,24,S,20000605,9,103325,1,,Wesley Moodie,R,196,RSA,21.3059548255,102121,,,Holger Losch,R,,RSA,27.6878850103,6-1 4-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,1110,3
-2000-M-SA-RSA-01A-2000a,Mauritius South Africa 1,Hard,24,S,20000605,10,103072,,,Jean Marcel Bourgaul Du Coudray,U,,MRI,22.6392881588,103508,8,,Nick Mcdonald,R,,RSA,20.3066392882,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,916,7,774,12
+2000-M-SA-RSA-01A-2000a,Mauritius South Africa 1,Hard,24,S,20000605,10,103072,,,Jean Marcel Bourgaul Du Coudray,U,,MRI,22.6392881588,103508,8,,Nick McDonald,R,,RSA,20.3066392882,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,916,7,774,12
 2000-M-SA-RSA-01A-2000a,Mauritius South Africa 1,Hard,24,S,20000605,11,103573,3,,Rik De Voest,R,180,RSA,20.0,103098,,,Johan Du Randt,U,,RSA,22.4503764545,6-4 1-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,615,24,1064,4
 2000-M-SA-RSA-01A-2000a,Mauritius South Africa 1,Hard,24,S,20000605,12,103481,5,,Hans Grobecker,R,,SWE,20.4681724846,102986,,,Joel Mcgregor,R,,RSA,23.0855578371,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,961,6,,
 2000-M-SA-RSA-01A-2000a,Mauritius South Africa 1,Hard,24,S,20000605,13,103693,,,Thierry Ascione,R,188,FRA,19.3812457221,103551,6,,Willem Petrus Meyer,U,,RSA,20.1204654346,6-0 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,785,12,522,38
@@ -4942,7 +4942,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-SA-RSA-01A-2000b,Mauritius South Africa 2,Hard,32,S,20000605,2,102986,,,Joel Mcgregor,R,,RSA,23.0855578371,104069,,Q,Andrew Mcdade,R,,RSA,17.6399726215,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1110,3
 2000-M-SA-RSA-01A-2000b,Mauritius South Africa 2,Hard,32,S,20000605,3,103629,,,Ciaran Moore,R,,RSA,19.7289527721,125061,,Q,Paul Anderson,R,,RSA,18.9952087611,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2000-M-SA-RSA-01A-2000b,Mauritius South Africa 2,Hard,32,S,20000605,4,103693,8,,Thierry Ascione,R,188,FRA,19.3812457221,117615,,,Thomas Greenland,U,,GBR,19.9315537303,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,785,12,,
-2000-M-SA-RSA-01A-2000b,Mauritius South Africa 2,Hard,32,S,20000605,5,103146,,,Shaun Rudman,R,,RSA,22.2970568104,103508,4,,Nick Mcdonald,R,,RSA,20.3066392882,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,754,13,774,12
+2000-M-SA-RSA-01A-2000b,Mauritius South Africa 2,Hard,32,S,20000605,5,103146,,,Shaun Rudman,R,,RSA,22.2970568104,103508,4,,Nick McDonald,R,,RSA,20.3066392882,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,754,13,774,12
 2000-M-SA-RSA-01A-2000b,Mauritius South Africa 2,Hard,32,S,20000605,6,118516,,Q,Petrus Molefe,U,,BOT,24.3668720055,125062,,Q,Solomon Nortje,R,,RSA,20.0082135524,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1191,2,,
 2000-M-SA-RSA-01A-2000b,Mauritius South Africa 2,Hard,32,S,20000605,7,103679,,,Jeroen Masson,R,,BEL,19.4223134839,123650,,Q,Martin Flink,U,,NED,20.0958247775,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1110,3,,
 2000-M-SA-RSA-01A-2000b,Mauritius South Africa 2,Hard,32,S,20000605,8,103755,5,,Francois Vatin,R,,FRA,19.1238877481,102688,,Q,Jason Smith,R,,AUS,24.5366187543,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1103,4,,
@@ -4977,7 +4977,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-SA-RSA-01A-2000c,Mauritius South Africa 3,Hard,32,S,20000605,6,104158,,,Andrew Anderson,R,193,RSA,17.1608487337,122847,,LL,Shaun Smith,U,,RSA,22.2012320329,6-2 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1110,3,1330,1
 2000-M-SA-RSA-01A-2000c,Mauritius South Africa 3,Hard,32,S,20000605,7,103629,,Q,Ciaran Moore,R,,RSA,19.7289527721,125064,,Q,Steve Timperley,U,,RSA,19.523613963,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2000-M-SA-RSA-01A-2000c,Mauritius South Africa 3,Hard,32,S,20000605,8,103325,,SE,Wesley Moodie,R,196,RSA,21.3059548255,103693,6,,Thierry Ascione,R,188,FRA,19.3812457221,7-6(4) 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,,,785,12
-2000-M-SA-RSA-01A-2000c,Mauritius South Africa 3,Hard,32,S,20000605,9,103508,5,WC,Nick Mcdonald,R,,RSA,20.3066392882,118516,,,Petrus Molefe,U,,BOT,24.3668720055,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,774,12,1191,2
+2000-M-SA-RSA-01A-2000c,Mauritius South Africa 3,Hard,32,S,20000605,9,103508,5,WC,Nick McDonald,R,,RSA,20.3066392882,118516,,,Petrus Molefe,U,,BOT,24.3668720055,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,774,12,1191,2
 2000-M-SA-RSA-01A-2000c,Mauritius South Africa 3,Hard,32,S,20000605,10,103603,,,Steven Bijl,R,,NED,19.8494182067,123636,,,Ingo Manning,R,,RSA,19.0581793292,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,928,6,1064,4
 2000-M-SA-RSA-01A-2000c,Mauritius South Africa 3,Hard,32,S,20000605,11,103755,,Q,Francois Vatin,R,,FRA,19.1238877481,122846,,,Duncan Krisjan,U,,RSA,22.1902806297,6-1 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1103,4,1238,2
 2000-M-SA-RSA-01A-2000c,Mauritius South Africa 3,Hard,32,S,20000605,12,103300,3,,Punch Maleka,R,,RSA,21.4373716632,118133,,Q,Bjorn Rencken,U,,RSA,20.9062286105,7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,629,22,,
@@ -4989,13 +4989,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-SA-RSA-01A-2000c,Mauritius South Africa 3,Hard,32,S,20000605,18,103481,,,Hans Grobecker,R,,SWE,20.4681724846,103679,,,Jeroen Masson,R,,BEL,19.4223134839,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,961,6,1110,3
 2000-M-SA-RSA-01A-2000c,Mauritius South Africa 3,Hard,32,S,20000605,19,104158,,,Andrew Anderson,R,193,RSA,17.1608487337,103798,,WC,Mark Roberts,U,,RSA,18.945927447,7-6(2) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1110,3,,
 2000-M-SA-RSA-01A-2000c,Mauritius South Africa 3,Hard,32,S,20000605,20,103325,,SE,Wesley Moodie,R,196,RSA,21.3059548255,103629,,Q,Ciaran Moore,R,,RSA,19.7289527721,3-6 6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,,,,
-2000-M-SA-RSA-01A-2000c,Mauritius South Africa 3,Hard,32,S,20000605,21,103508,5,WC,Nick Mcdonald,R,,RSA,20.3066392882,103603,,,Steven Bijl,R,,NED,19.8494182067,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,774,12,928,6
+2000-M-SA-RSA-01A-2000c,Mauritius South Africa 3,Hard,32,S,20000605,21,103508,5,WC,Nick McDonald,R,,RSA,20.3066392882,103603,,,Steven Bijl,R,,NED,19.8494182067,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,774,12,928,6
 2000-M-SA-RSA-01A-2000c,Mauritius South Africa 3,Hard,32,S,20000605,22,103755,,Q,Francois Vatin,R,,FRA,19.1238877481,103300,3,,Punch Maleka,R,,RSA,21.4373716632,6-7(8) 6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1103,4,629,22
 2000-M-SA-RSA-01A-2000c,Mauritius South Africa 3,Hard,32,S,20000605,23,104143,,,Dirk Stegmann,R,,RSA,17.2457221081,102267,,Q,Gwinyai Tongoona,U,,ZIM,26.6529774127,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,961,6,,
 2000-M-SA-RSA-01A-2000c,Mauritius South Africa 3,Hard,32,S,20000605,24,103573,2,,Rik De Voest,R,180,RSA,20.0,102986,,Q,Joel Mcgregor,R,,RSA,23.0855578371,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,615,24,,
 2000-M-SA-RSA-01A-2000c,Mauritius South Africa 3,Hard,32,S,20000605,25,103481,,,Hans Grobecker,R,,SWE,20.4681724846,103551,1,,Willem Petrus Meyer,U,,RSA,20.1204654346,6-3 3-6 7-5,3,QF,,,,,,,,,,,,,,,,,,,,961,6,522,38
 2000-M-SA-RSA-01A-2000c,Mauritius South Africa 3,Hard,32,S,20000605,26,103325,,SE,Wesley Moodie,R,196,RSA,21.3059548255,104158,,,Andrew Anderson,R,193,RSA,17.1608487337,6-2 7-5,3,QF,,,,,,,,,,,,,,,,,,,,,,1110,3
-2000-M-SA-RSA-01A-2000c,Mauritius South Africa 3,Hard,32,S,20000605,27,103755,,Q,Francois Vatin,R,,FRA,19.1238877481,103508,5,WC,Nick Mcdonald,R,,RSA,20.3066392882,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,1103,4,774,12
+2000-M-SA-RSA-01A-2000c,Mauritius South Africa 3,Hard,32,S,20000605,27,103755,,Q,Francois Vatin,R,,FRA,19.1238877481,103508,5,WC,Nick McDonald,R,,RSA,20.3066392882,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,1103,4,774,12
 2000-M-SA-RSA-01A-2000c,Mauritius South Africa 3,Hard,32,S,20000605,28,104143,,,Dirk Stegmann,R,,RSA,17.2457221081,103573,2,,Rik De Voest,R,180,RSA,20.0,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,961,6,615,24
 2000-M-SA-RSA-01A-2000c,Mauritius South Africa 3,Hard,32,S,20000605,29,103325,,SE,Wesley Moodie,R,196,RSA,21.3059548255,103481,,,Hans Grobecker,R,,SWE,20.4681724846,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,961,6
 2000-M-SA-RSA-01A-2000c,Mauritius South Africa 3,Hard,32,S,20000605,30,104143,,,Dirk Stegmann,R,,RSA,17.2457221081,103755,,Q,Francois Vatin,R,,FRA,19.1238877481,6-1 3-6 6-1,3,SF,,,,,,,,,,,,,,,,,,,,961,6,1103,4
@@ -5007,7 +5007,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-SA-RSA-01A-2000d,Mauritius South Africa 4,Hard,32,S,20000605,5,103146,4,,Shaun Rudman,R,,RSA,22.2970568104,103603,,,Steven Bijl,R,,NED,19.8494182067,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,754,13,928,6
 2000-M-SA-RSA-01A-2000d,Mauritius South Africa 4,Hard,32,S,20000605,6,103481,,,Hans Grobecker,R,,SWE,20.4681724846,101002,,Q,Neil Smith,R,,RSA,36.3531827515,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,961,6,,
 2000-M-SA-RSA-01A-2000d,Mauritius South Africa 4,Hard,32,S,20000605,7,102986,5,Q,Joel Mcgregor,R,,RSA,23.0855578371,104158,,,Andrew Anderson,R,193,RSA,17.1608487337,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1110,3
-2000-M-SA-RSA-01A-2000d,Mauritius South Africa 4,Hard,32,S,20000605,8,103508,,WC,Nick Mcdonald,R,,RSA,20.3066392882,102267,,Q,Gwinyai Tongoona,U,,ZIM,26.6529774127,6-7(4) 6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,774,12,,
+2000-M-SA-RSA-01A-2000d,Mauritius South Africa 4,Hard,32,S,20000605,8,103508,,WC,Nick McDonald,R,,RSA,20.3066392882,102267,,Q,Gwinyai Tongoona,U,,ZIM,26.6529774127,6-7(4) 6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,774,12,,
 2000-M-SA-RSA-01A-2000d,Mauritius South Africa 4,Hard,32,S,20000605,9,103693,6,,Thierry Ascione,R,188,FRA,19.3812457221,123636,,,Ingo Manning,R,,RSA,19.0581793292,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,785,12,1064,4
 2000-M-SA-RSA-01A-2000d,Mauritius South Africa 4,Hard,32,S,20000605,10,103755,,LL,Francois Vatin,R,,FRA,19.1238877481,103907,,WC,Kabelo Maleka,R,,RSA,18.4065708419,7-5 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,1103,4,,
 2000-M-SA-RSA-01A-2000d,Mauritius South Africa 4,Hard,32,S,20000605,11,103072,,,Jean Marcel Bourgaul Du Coudray,U,,MRI,22.6392881588,104069,,,Andrew Mcdade,R,,RSA,17.6399726215,6-3 7-6(8),3,R32,,,,,,,,,,,,,,,,,,,,916,7,1110,3
@@ -5019,16 +5019,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-SA-RSA-01A-2000d,Mauritius South Africa 4,Hard,32,S,20000605,17,103551,1,,Willem Petrus Meyer,U,,RSA,20.1204654346,103372,,,Kyle Rudman,R,,RSA,21.0568104038,6-4 3-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,522,38,1049,4
 2000-M-SA-RSA-01A-2000d,Mauritius South Africa 4,Hard,32,S,20000605,18,103325,,WC,Wesley Moodie,R,196,RSA,21.3059548255,103679,,,Jeroen Masson,R,,BEL,19.4223134839,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,1110,3
 2000-M-SA-RSA-01A-2000d,Mauritius South Africa 4,Hard,32,S,20000605,19,103146,4,,Shaun Rudman,R,,RSA,22.2970568104,103481,,,Hans Grobecker,R,,SWE,20.4681724846,6-7(2) 6-4 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,754,13,961,6
-2000-M-SA-RSA-01A-2000d,Mauritius South Africa 4,Hard,32,S,20000605,20,103508,,WC,Nick Mcdonald,R,,RSA,20.3066392882,102986,5,Q,Joel Mcgregor,R,,RSA,23.0855578371,4-6 6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,774,12,,
+2000-M-SA-RSA-01A-2000d,Mauritius South Africa 4,Hard,32,S,20000605,20,103508,,WC,Nick McDonald,R,,RSA,20.3066392882,102986,5,Q,Joel Mcgregor,R,,RSA,23.0855578371,4-6 6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,774,12,,
 2000-M-SA-RSA-01A-2000d,Mauritius South Africa 4,Hard,32,S,20000605,21,103693,6,,Thierry Ascione,R,188,FRA,19.3812457221,103755,,LL,Francois Vatin,R,,FRA,19.1238877481,6-7(6) 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,785,12,1103,4
 2000-M-SA-RSA-01A-2000d,Mauritius South Africa 4,Hard,32,S,20000605,22,103072,,,Jean Marcel Bourgaul Du Coudray,U,,MRI,22.6392881588,103300,3,,Punch Maleka,R,,RSA,21.4373716632,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,916,7,629,22
 2000-M-SA-RSA-01A-2000d,Mauritius South Africa 4,Hard,32,S,20000605,23,102121,,,Holger Losch,R,,RSA,27.6878850103,122846,,WC,Duncan Krisjan,U,,RSA,22.1902806297,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1110,3,1238,2
 2000-M-SA-RSA-01A-2000d,Mauritius South Africa 4,Hard,32,S,20000605,24,103573,2,,Rik De Voest,R,180,RSA,20.0,117615,,Q,Thomas Greenland,U,,GBR,19.9315537303,5-7 7-6(7) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,615,24,,
 2000-M-SA-RSA-01A-2000d,Mauritius South Africa 4,Hard,32,S,20000605,25,103325,,WC,Wesley Moodie,R,196,RSA,21.3059548255,103551,1,,Willem Petrus Meyer,U,,RSA,20.1204654346,7-6(4) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,,,522,38
-2000-M-SA-RSA-01A-2000d,Mauritius South Africa 4,Hard,32,S,20000605,26,103508,,WC,Nick Mcdonald,R,,RSA,20.3066392882,103146,4,,Shaun Rudman,R,,RSA,22.2970568104,7-6(5) 5-7 6-4,3,QF,,,,,,,,,,,,,,,,,,,,774,12,754,13
+2000-M-SA-RSA-01A-2000d,Mauritius South Africa 4,Hard,32,S,20000605,26,103508,,WC,Nick McDonald,R,,RSA,20.3066392882,103146,4,,Shaun Rudman,R,,RSA,22.2970568104,7-6(5) 5-7 6-4,3,QF,,,,,,,,,,,,,,,,,,,,774,12,754,13
 2000-M-SA-RSA-01A-2000d,Mauritius South Africa 4,Hard,32,S,20000605,27,103693,6,,Thierry Ascione,R,188,FRA,19.3812457221,103072,,,Jean Marcel Bourgaul Du Coudray,U,,MRI,22.6392881588,6-3 7-5,3,QF,,,,,,,,,,,,,,,,,,,,785,12,916,7
 2000-M-SA-RSA-01A-2000d,Mauritius South Africa 4,Hard,32,S,20000605,28,103573,2,,Rik De Voest,R,180,RSA,20.0,102121,,,Holger Losch,R,,RSA,27.6878850103,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,615,24,1110,3
-2000-M-SA-RSA-01A-2000d,Mauritius South Africa 4,Hard,32,S,20000605,29,103325,,WC,Wesley Moodie,R,196,RSA,21.3059548255,103508,,WC,Nick Mcdonald,R,,RSA,20.3066392882,6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,774,12
+2000-M-SA-RSA-01A-2000d,Mauritius South Africa 4,Hard,32,S,20000605,29,103325,,WC,Wesley Moodie,R,196,RSA,21.3059548255,103508,,WC,Nick McDonald,R,,RSA,20.3066392882,6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,774,12
 2000-M-SA-RSA-01A-2000d,Mauritius South Africa 4,Hard,32,S,20000605,30,103573,2,,Rik De Voest,R,180,RSA,20.0,103693,6,,Thierry Ascione,R,188,FRA,19.3812457221,7-6(4) 4-6 6-4,3,SF,,,,,,,,,,,,,,,,,,,,615,24,785,12
 2000-M-SA-RSA-01A-2000d,Mauritius South Africa 4,Hard,32,S,20000605,31,103325,,WC,Wesley Moodie,R,196,RSA,21.3059548255,103573,2,,Rik De Voest,R,180,RSA,20.0,7-5 6-3,3,F,,,,,,,,,,,,,,,,,,,,,,615,24
 2000-M-FU-MEX-02A-2000,Mexico F2,Hard,32,S,20000605,1,103672,1,,Ricardo Mello,L,175,BRA,19.4551676934,108616,,LL,Walter Barahona,U,,GUA,28.2929500342,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,348,79,,
@@ -8029,7 +8029,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-ESP-07A-2000,Spain F7,Clay,32,S,20000821,29,103555,,,Pedro Canovas,R,,ESP,20.3011635866,103868,,,Ivan Navarro,R,183,ESP,18.8391512663,5-4(4) 3-5 4-1 5-3,3,SF,,,,,,,,,,,,,,,,,,,,553,31,475,45
 2000-M-FU-ESP-07A-2000,Spain F7,Clay,32,S,20000821,30,101863,,,Roberto Alvarez,R,,ARG,29.492128679,103578,,Q,Antonio Alcaraz,U,,ESP,20.167008898,4-1 5-4(7) 4-2,3,SF,,,,,,,,,,,,,,,,,,,,620,23,841,9
 2000-M-FU-ESP-07A-2000,Spain F7,Clay,32,S,20000821,31,103555,,,Pedro Canovas,R,,ESP,20.3011635866,101863,,,Roberto Alvarez,R,,ARG,29.492128679,4-2 4-0 4-2,3,F,,,,,,,,,,,,,,,,,,,,553,31,620,23
-2000-M-SA-GHA-01A-2000a,West Africa 1,Hard,32,S,20000821,1,103290,1,,Radim Zitko,R,,CZE,21.7029431896,103508,,,Nick Mcdonald,R,,RSA,20.5174537988,7-5 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,459,47,730,14
+2000-M-SA-GHA-01A-2000a,West Africa 1,Hard,32,S,20000821,1,103290,1,,Radim Zitko,R,,CZE,21.7029431896,103508,,,Nick McDonald,R,,RSA,20.5174537988,7-5 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,459,47,730,14
 2000-M-SA-GHA-01A-2000a,West Africa 1,Hard,32,S,20000821,2,102876,,,Gwenael Gueit,R,,FRA,23.8110882957,118551,,Q,Diaguely Dittamba Samassa,U,,MLI,18.9678302533,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,864,8,,
 2000-M-SA-GHA-01A-2000a,West Africa 1,Hard,32,S,20000821,3,122847,,,Shaun Smith,U,,RSA,22.4120465435,117463,,Q,Bozidar Ivankovic,U,,CHI,19.7754962355,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1310,1,,
 2000-M-SA-GHA-01A-2000a,West Africa 1,Hard,32,S,20000821,4,102766,8,,Marcus Fluitt,R,,USA,24.3778234086,111601,,,Rotimi Jegede,U,,NGR,20.7118412047,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1225,2,,
@@ -8065,7 +8065,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-SA-GHA-01A-2000b,West Africa 2,Hard,24,S,20000821,3,118123,,,Peter Scharler,U,,AUT,19.394934976,122847,,,Shaun Smith,U,,RSA,22.4120465435,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,1310,1
 2000-M-SA-GHA-01A-2000b,West Africa 2,Hard,24,S,20000821,4,103538,,,James Auckland,R,,GBR,20.3887748118,102677,,,Kiantki Thomas,R,,USA,24.8158795346,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,944,6,1055,4
 2000-M-SA-GHA-01A-2000b,West Africa 2,Hard,24,S,20000821,5,123661,,,Pierre Otolo Metomo,U,,CMR,23.5701574264,111601,,,Rotimi Jegede,U,,NGR,20.7118412047,6-2 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2000-M-SA-GHA-01A-2000b,West Africa 2,Hard,24,S,20000821,6,103508,,Q,Nick Mcdonald,R,,RSA,20.5174537988,104032,,,Giunior Ghedina,U,,GER,18.1245722108,7-5 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,730,14,,
+2000-M-SA-GHA-01A-2000b,West Africa 2,Hard,24,S,20000821,6,103508,,Q,Nick McDonald,R,,RSA,20.5174537988,104032,,,Giunior Ghedina,U,,GER,18.1245722108,7-5 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,730,14,,
 2000-M-SA-GHA-01A-2000b,West Africa 2,Hard,24,S,20000821,7,103355,,,Sunday Maku,U,,NGR,21.3853524983,118551,,Q,Diaguely Dittamba Samassa,U,,MLI,18.9678302533,3-6 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2000-M-SA-GHA-01A-2000b,West Africa 2,Hard,24,S,20000821,8,102679,,Q,Gianluca Bazzica,R,,ITA,24.8021902806,117463,,Q,Bozidar Ivankovic,U,,CHI,19.7754962355,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,752,13,,
 2000-M-SA-GHA-01A-2000b,West Africa 2,Hard,24,S,20000821,9,102802,1,,Gunther Darkey,R,,GHA,24.2026009582,102876,,,Gwenael Gueit,R,,FRA,23.8110882957,6-2 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,,,864,8
@@ -8073,7 +8073,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-SA-GHA-01A-2000b,West Africa 2,Hard,24,S,20000821,11,103706,4,,Daniel Norberg,U,,SWE,19.5345653662,118123,,,Peter Scharler,U,,AUT,19.394934976,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1128,3,,
 2000-M-SA-GHA-01A-2000b,West Africa 2,Hard,24,S,20000821,12,103362,6,,Sonny Kayombo,U,,FRA,21.3223819302,103538,,,James Auckland,R,,GBR,20.3887748118,1-6 6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,944,6
 2000-M-SA-GHA-01A-2000b,West Africa 2,Hard,24,S,20000821,13,103043,5,,Coenie Van Wyk,R,,RSA,22.9733059548,123661,,,Pierre Otolo Metomo,U,,CMR,23.5701574264,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,771,12,,
-2000-M-SA-GHA-01A-2000b,West Africa 2,Hard,24,S,20000821,14,104143,3,,Dirk Stegmann,R,,RSA,17.4565366188,103508,,Q,Nick Mcdonald,R,,RSA,20.5174537988,6-4 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,633,21,730,14
+2000-M-SA-GHA-01A-2000b,West Africa 2,Hard,24,S,20000821,14,104143,3,,Dirk Stegmann,R,,RSA,17.4565366188,103508,,Q,Nick McDonald,R,,RSA,20.5174537988,6-4 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,633,21,730,14
 2000-M-SA-GHA-01A-2000b,West Africa 2,Hard,24,S,20000821,15,102766,7,,Marcus Fluitt,R,,USA,24.3778234086,103355,,,Sunday Maku,U,,NGR,21.3853524983,6-2 2-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1225,2,,
 2000-M-SA-GHA-01A-2000b,West Africa 2,Hard,24,S,20000821,16,102679,,Q,Gianluca Bazzica,R,,ITA,24.8021902806,103290,2,,Radim Zitko,R,,CZE,21.7029431896,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,752,13,459,47
 2000-M-SA-GHA-01A-2000b,West Africa 2,Hard,24,S,20000821,17,102802,1,,Gunther Darkey,R,,GHA,24.2026009582,104069,,,Andrew Mcdade,R,,RSA,17.8507871321,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,,,1079,3
@@ -8094,7 +8094,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-SA-GHA-01A-2000c,West Africa 3,Hard,32,S,20000821,9,123661,,Q,Pierre Otolo Metomo,U,,CMR,23.5701574264,102679,5,,Gianluca Bazzica,R,,ITA,24.8021902806,7-6(2) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,752,13
 2000-M-SA-GHA-01A-2000c,West Africa 3,Hard,32,S,20000821,10,103101,,Q,Daouda Ndiaye,R,,SEN,22.6310746064,125073,,WC,Kome Gakpo,U,,TOG,15.2169746749,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2000-M-SA-GHA-01A-2000c,West Africa 3,Hard,32,S,20000821,11,102802,,WC,Gunther Darkey,R,,GHA,24.2026009582,123662,,Q,Christophe Couprie,U,,GAB,22.8364134155,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2000-M-SA-GHA-01A-2000c,West Africa 3,Hard,32,S,20000821,12,103508,4,,Nick Mcdonald,R,,RSA,20.5174537988,123657,,LL,Ryan Thompson,U,,USA,23.370294319,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,730,14,,
+2000-M-SA-GHA-01A-2000c,West Africa 3,Hard,32,S,20000821,12,103508,4,,Nick McDonald,R,,RSA,20.5174537988,123657,,LL,Ryan Thompson,U,,USA,23.370294319,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,730,14,,
 2000-M-SA-GHA-01A-2000c,West Africa 3,Hard,32,S,20000821,13,103072,7,,Jean Marcel Bourgaul Du Coudray,U,,MRI,22.8501026694,123660,,LL,Christian Jordan,U,,USA,23.5482546201,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,803,10,,
 2000-M-SA-GHA-01A-2000c,West Africa 3,Hard,32,S,20000821,14,122847,,,Shaun Smith,U,,RSA,22.4120465435,104032,,Q,Giunior Ghedina,U,,GER,18.1245722108,7-6(4) 4-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,1310,1,,
 2000-M-SA-GHA-01A-2000c,West Africa 3,Hard,32,S,20000821,15,103706,,,Daniel Norberg,U,,SWE,19.5345653662,111601,,Q,Rotimi Jegede,U,,NGR,20.7118412047,2-6 7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1128,3,,
@@ -8104,7 +8104,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-SA-GHA-01A-2000c,West Africa 3,Hard,32,S,20000821,19,104143,3,,Dirk Stegmann,R,,RSA,17.4565366188,102766,,,Marcus Fluitt,R,,USA,24.3778234086,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,633,21,1225,2
 2000-M-SA-GHA-01A-2000c,West Africa 3,Hard,32,S,20000821,20,104069,,,Andrew Mcdade,R,,RSA,17.8507871321,103043,6,,Coenie Van Wyk,R,,RSA,22.9733059548,6-4 3-4 RET,3,R16,,,,,,,,,,,,,,,,,,,,1079,3,771,12
 2000-M-SA-GHA-01A-2000c,West Africa 3,Hard,32,S,20000821,21,123661,,Q,Pierre Otolo Metomo,U,,CMR,23.5701574264,103101,,Q,Daouda Ndiaye,R,,SEN,22.6310746064,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,,
-2000-M-SA-GHA-01A-2000c,West Africa 3,Hard,32,S,20000821,22,102802,,WC,Gunther Darkey,R,,GHA,24.2026009582,103508,4,,Nick Mcdonald,R,,RSA,20.5174537988,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,730,14
+2000-M-SA-GHA-01A-2000c,West Africa 3,Hard,32,S,20000821,22,102802,,WC,Gunther Darkey,R,,GHA,24.2026009582,103508,4,,Nick McDonald,R,,RSA,20.5174537988,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,730,14
 2000-M-SA-GHA-01A-2000c,West Africa 3,Hard,32,S,20000821,23,103072,7,,Jean Marcel Bourgaul Du Coudray,U,,MRI,22.8501026694,122847,,,Shaun Smith,U,,RSA,22.4120465435,7-6(5) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,803,10,1310,1
 2000-M-SA-GHA-01A-2000c,West Africa 3,Hard,32,S,20000821,24,103706,,,Daniel Norberg,U,,SWE,19.5345653662,118551,,LL,Diaguely Dittamba Samassa,U,,MLI,18.9678302533,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1128,3,,
 2000-M-SA-GHA-01A-2000c,West Africa 3,Hard,32,S,20000821,25,103290,1,,Radim Zitko,R,,CZE,21.7029431896,102876,8,,Gwenael Gueit,R,,FRA,23.8110882957,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,459,47,864,8
@@ -8118,7 +8118,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-SA-GHA-01A-2000d,West Africa 4,Hard,32,S,20000821,2,102677,,,Kiantki Thomas,R,,USA,24.8158795346,117463,,Q,Bozidar Ivankovic,U,,CHI,19.7754962355,7-6(5) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1055,4,,
 2000-M-SA-GHA-01A-2000d,West Africa 4,Hard,32,S,20000821,3,122847,,,Shaun Smith,U,,RSA,22.4120465435,125076,,LL,Sourou Gandonou,U,,BEN,20.6899383984,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1310,1,,
 2000-M-SA-GHA-01A-2000d,West Africa 4,Hard,32,S,20000821,4,102802,,WC,Gunther Darkey,R,,GHA,24.2026009582,102876,8,,Gwenael Gueit,R,,FRA,23.8110882957,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,864,8
-2000-M-SA-GHA-01A-2000d,West Africa 4,Hard,32,S,20000821,5,102766,,,Marcus Fluitt,R,,USA,24.3778234086,103508,4,,Nick Mcdonald,R,,RSA,20.5174537988,3-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1225,2,730,14
+2000-M-SA-GHA-01A-2000d,West Africa 4,Hard,32,S,20000821,5,102766,,,Marcus Fluitt,R,,USA,24.3778234086,103508,4,,Nick McDonald,R,,RSA,20.5174537988,3-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1225,2,730,14
 2000-M-SA-GHA-01A-2000d,West Africa 4,Hard,32,S,20000821,6,104069,,,Andrew Mcdade,R,,RSA,17.8507871321,123661,,Q,Pierre Otolo Metomo,U,,CMR,23.5701574264,4-6 7-6(4) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1079,3,,
 2000-M-SA-GHA-01A-2000d,West Africa 4,Hard,32,S,20000821,7,102688,,Q,Jason Smith,R,,AUS,24.7474332649,125077,,LL,Christian Mortsch,U,,AUT,19.5674195756,6-2 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2000-M-SA-GHA-01A-2000d,West Africa 4,Hard,32,S,20000821,8,103043,6,,Coenie Van Wyk,R,,RSA,22.9733059548,119184,,LL,Rodrigue Vignikin,U,,BEN,20.2765229295,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,771,12,,
@@ -9677,7 +9677,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-GBR-09A-2000,Great Britain F9,Hard,32,S,20000925,12,103313,,Q,Iain Bates,R,,GBR,21.6700889802,102627,,LL,Sylvain Charrier,U,,FRA,25.1909650924,4-5(3) 5-4(6) 4-2 4-2,3,R32,,,,,,,,,,,,,,,,,,,,1050,4,967,5
 2000-M-FU-GBR-09A-2000,Great Britain F9,Hard,32,S,20000925,13,103158,7,,Johan Ortegren,R,,SWE,22.5133470226,103559,,LL,David Sherwood,R,193,GBR,20.3887748118,5-4(5) 4-1 5-4(8),3,R32,,,,,,,,,,,,,,,,,,,,487,41,832,9
 2000-M-FU-GBR-09A-2000,Great Britain F9,Hard,32,S,20000925,14,103782,,Q,Rameez Junaid,R,,AUS,19.3374401095,103087,,Q,Graeme Darlington,R,,GBR,22.8145106092,5-4(2) 1-4 2-4 4-2 4-1,3,R32,,,,,,,,,,,,,,,,,,,,1318,1,811,10
-2000-M-FU-GBR-09A-2000,Great Britain F9,Hard,32,S,20000925,15,111594,,WC,Ben Haran,U,,GBR,22.5352498289,103508,,,Nick Mcdonald,R,,RSA,20.6132785763,5-4(3) 4-1 1-4 5-3,3,R32,,,,,,,,,,,,,,,,,,,,1318,1,702,16
+2000-M-FU-GBR-09A-2000,Great Britain F9,Hard,32,S,20000925,15,111594,,WC,Ben Haran,U,,GBR,22.5352498289,103508,,,Nick McDonald,R,,RSA,20.6132785763,5-4(3) 4-1 1-4 5-3,3,R32,,,,,,,,,,,,,,,,,,,,1318,1,702,16
 2000-M-FU-GBR-09A-2000,Great Britain F9,Hard,32,S,20000925,16,102771,,,Leslie Demiliani,R,,FRA,24.4544832307,103459,2,,Jordan Kerr,R,180,AUS,20.9171800137,4-0 4-1 4-2,3,R32,,,,,,,,,,,,,,,,,,,,696,17,379,70
 2000-M-FU-GBR-09A-2000,Great Britain F9,Hard,32,S,20000925,17,103754,1,,Mark Hilton,L,170,GBR,19.4332648871,102948,,,Oliver Freelove,R,,GBR,23.5592060233,5-4(3) 3-5 4-2 4-1,3,R16,,,,,,,,,,,,,,,,,,,,318,93,697,17
 2000-M-FU-GBR-09A-2000,Great Britain F9,Hard,32,S,20000925,18,104014,,,Lee Childs,R,,GBR,18.2915811088,104107,,WC,Andrew Banks,L,,GBR,17.7193702943,5-3 4-1 4-2,3,R16,,,,,,,,,,,,,,,,,,,,678,18,,
@@ -10071,7 +10071,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-GBR-10A-2000,Great Britain F10,Hard,32,S,20001002,11,102883,,,Tom Spinks,R,,GBR,23.9014373717,103745,,Q,Thomas Higgins,U,,GBR,19.4880219028,4-0 4-5(3) 4-2 1-4 4-2,3,R32,,,,,,,,,,,,,,,,,,,,473,46,942,6
 2000-M-FU-GBR-10A-2000,Great Britain F10,Hard,32,S,20001002,12,102444,3,,Scott Barron,R,,IRL,26.0999315537,103238,,,Jean Claude Scherrer,R,188,SUI,22.2039698836,5-4(4) 2-4 4-5(3) 5-4(3) 5-4(1),3,R32,,,,,,,,,,,,,,,,,,,,349,81,615,24
 2000-M-FU-GBR-10A-2000,Great Britain F10,Hard,32,S,20001002,13,103145,,,Amir Hadad,R,183,ISR,22.6228610541,103129,7,,Per Thornadtsson,R,,SWE,22.6830937714,4-5(6) 0-4 4-1 4-2 5-4(4),3,R32,,,,,,,,,,,,,,,,,,,,613,24,445,50
-2000-M-FU-GBR-10A-2000,Great Britain F10,Hard,32,S,20001002,14,103508,,Q,Nick Mcdonald,R,,RSA,20.6324435318,102835,,,Luke Milligan,R,180,GBR,24.1560574949,4-0 4-2 4-1,3,R32,,,,,,,,,,,,,,,,,,,,709,16,509,39
+2000-M-FU-GBR-10A-2000,Great Britain F10,Hard,32,S,20001002,14,103508,,Q,Nick McDonald,R,,RSA,20.6324435318,102835,,,Luke Milligan,R,180,GBR,24.1560574949,4-0 4-2 4-1,3,R32,,,,,,,,,,,,,,,,,,,,709,16,509,39
 2000-M-FU-GBR-10A-2000,Great Britain F10,Hard,32,S,20001002,15,103158,,,Johan Ortegren,R,,SWE,22.5325119781,102260,,LL,James Davidson,R,,GBR,27.0444900753,4-1 4-0 4-5(4) 4-2,3,R32,,,,,,,,,,,,,,,,,,,,494,41,792,11
 2000-M-FU-GBR-10A-2000,Great Britain F10,Hard,32,S,20001002,16,103754,2,,Mark Hilton,L,170,GBR,19.4524298426,103576,,Q,Barry Fulcher,U,,GBR,20.3121149897,4-1 4-2 2-4 4-2,3,R32,,,,,,,,,,,,,,,,,,,,321,93,887,8
 2000-M-FU-GBR-10A-2000,Great Britain F10,Hard,32,S,20001002,17,104014,,WC,Lee Childs,R,,GBR,18.3107460643,108603,1,,Helge Koll Frafjord,U,,NOR,25.3415468857,5-4(9) 5-4(8) 5-4(2),3,R16,,,,,,,,,,,,,,,,,,,,683,18,,
@@ -10080,7 +10080,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-GBR-10A-2000,Great Britain F10,Hard,32,S,20001002,20,103378,,,Bernard Parun,R,,GER,21.3607118412,103782,,Q,Rameez Junaid,R,,AUS,19.356605065,5-3 5-4(5) 5-4(5),3,R16,,,,,,,,,,,,,,,,,,,,506,39,1331,1
 2000-M-FU-GBR-10A-2000,Great Britain F10,Hard,32,S,20001002,21,103325,,,Wesley Moodie,R,196,RSA,21.6317590691,103402,6,,Peter Clarke,R,188,IRL,21.2375085558,4-2 4-2 4-2,3,R16,,,,,,,,,,,,,,,,,,,,476,45,433,54
 2000-M-FU-GBR-10A-2000,Great Britain F10,Hard,32,S,20001002,22,102444,3,,Scott Barron,R,,IRL,26.0999315537,102883,,,Tom Spinks,R,,GBR,23.9014373717,2-4 2-4 4-2 4-2 5-4(7),3,R16,,,,,,,,,,,,,,,,,,,,349,81,473,46
-2000-M-FU-GBR-10A-2000,Great Britain F10,Hard,32,S,20001002,23,103145,,,Amir Hadad,R,183,ISR,22.6228610541,103508,,Q,Nick Mcdonald,R,,RSA,20.6324435318,5-4(6) 5-3 5-3,3,R16,,,,,,,,,,,,,,,,,,,,613,24,709,16
+2000-M-FU-GBR-10A-2000,Great Britain F10,Hard,32,S,20001002,23,103145,,,Amir Hadad,R,183,ISR,22.6228610541,103508,,Q,Nick McDonald,R,,RSA,20.6324435318,5-4(6) 5-3 5-3,3,R16,,,,,,,,,,,,,,,,,,,,613,24,709,16
 2000-M-FU-GBR-10A-2000,Great Britain F10,Hard,32,S,20001002,24,103754,2,,Mark Hilton,L,170,GBR,19.4524298426,103158,,,Johan Ortegren,R,,SWE,22.5325119781,4-2 4-1 4-2,3,R16,,,,,,,,,,,,,,,,,,,,321,93,494,41
 2000-M-FU-GBR-10A-2000,Great Britain F10,Hard,32,S,20001002,25,104014,,WC,Lee Childs,R,,GBR,18.3107460643,102684,8,,Marc Merry,R,,NED,24.8925393566,4-2 5-3 5-4(4),3,QF,,,,,,,,,,,,,,,,,,,,683,18,450,49
 2000-M-FU-GBR-10A-2000,Great Britain F10,Hard,32,S,20001002,26,102948,,WC,Oliver Freelove,R,,GBR,23.5783709788,103378,,,Bernard Parun,R,,GER,21.3607118412,5-4(6) 5-4(8) 5-4(3),3,QF,,,,,,,,,,,,,,,,,,,,732,15,506,39
@@ -10304,7 +10304,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-GBR-11A-2000,Great Britain F11,Hard,32,S,20001009,4,102709,8,,Martin Hromec,R,,SVK,24.7501711157,102557,,Q,Daniel Willman,U,,NZL,25.5633127995,4-2 4-2 4-1,3,R32,,,,,,,,,,,,,,,,,,,,457,49,1151,3
 2000-M-FU-GBR-11A-2000,Great Britain F11,Hard,32,S,20001009,5,104014,,WC,Lee Childs,R,,GBR,18.3299110198,102444,4,,Scott Barron,R,,IRL,26.1190965092,4-5(5) 4-2 4-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,604,26,353,81
 2000-M-FU-GBR-11A-2000,Great Britain F11,Hard,32,S,20001009,6,103782,,Q,Rameez Junaid,R,,AUS,19.3757700205,102577,,Q,Steven Randjelovic,R,,AUS,25.4702258727,4-5(4) 5-4(6) 5-4(3) 5-4(4),3,R32,,,,,,,,,,,,,,,,,,,,1261,2,758,14
-2000-M-FU-GBR-11A-2000,Great Britain F11,Hard,32,S,20001009,7,103508,,Q,Nick Mcdonald,R,,RSA,20.6516084873,103061,,,Jan Boruszewski,R,,GER,23.0198494182,4-2 5-3 4-1,3,R32,,,,,,,,,,,,,,,,,,,,721,16,470,46
+2000-M-FU-GBR-11A-2000,Great Britain F11,Hard,32,S,20001009,7,103508,,Q,Nick McDonald,R,,RSA,20.6516084873,103061,,,Jan Boruszewski,R,,GER,23.0198494182,4-2 5-3 4-1,3,R32,,,,,,,,,,,,,,,,,,,,721,16,470,46
 2000-M-FU-GBR-11A-2000,Great Britain F11,Hard,32,S,20001009,8,103623,,,Jacob Adaktusson,R,,SWE,20.1067761807,103315,6,,Kobi Ziv,R,,ISR,21.7056810404,4-2 4-0 4-0,3,R32,,,,,,,,,,,,,,,,,,,,669,20,421,56
 2000-M-FU-GBR-11A-2000,Great Britain F11,Hard,32,S,20001009,9,102668,5,,Tapio Nurminen,R,,FIN,24.9938398357,103263,,,Justin Layne,R,,GBR,22.0561259411,4-1 4-5(5) 5-4(3) 5-3,3,R32,,,,,,,,,,,,,,,,,,,,367,74,519,37
 2000-M-FU-GBR-11A-2000,Great Britain F11,Hard,32,S,20001009,10,102883,,,Tom Spinks,R,,GBR,23.9206023272,102656,,,Tommi Lenho,R,,FIN,25.0622861054,4-2 4-1 4-1,3,R32,,,,,,,,,,,,,,,,,,,,494,41,465,47
@@ -10317,13 +10317,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-GBR-11A-2000,Great Britain F11,Hard,32,S,20001009,17,103942,,WC,James Nelson,R,,GBR,18.6392881588,117623,,Q,Adam Wharf,U,,GBR,20.295687885,5-3 1-4 5-4(6) 4-1,3,R16,,,,,,,,,,,,,,,,,,,,689,18,,
 2000-M-FU-GBR-11A-2000,Great Britain F11,Hard,32,S,20001009,18,103945,,,Simon Dickson,R,,GBR,18.6201232033,102709,8,,Martin Hromec,R,,SVK,24.7501711157,4-5(4) 5-4(3) 4-2 1-4 5-3,3,R16,,,,,,,,,,,,,,,,,,,,552,33,457,49
 2000-M-FU-GBR-11A-2000,Great Britain F11,Hard,32,S,20001009,19,104014,,WC,Lee Childs,R,,GBR,18.3299110198,103782,,Q,Rameez Junaid,R,,AUS,19.3757700205,4-2 4-2 5-3,3,R16,,,,,,,,,,,,,,,,,,,,604,26,1261,2
-2000-M-FU-GBR-11A-2000,Great Britain F11,Hard,32,S,20001009,20,103508,,Q,Nick Mcdonald,R,,RSA,20.6516084873,103623,,,Jacob Adaktusson,R,,SWE,20.1067761807,4-1 4-2 4-2,3,R16,,,,,,,,,,,,,,,,,,,,721,16,669,20
+2000-M-FU-GBR-11A-2000,Great Britain F11,Hard,32,S,20001009,20,103508,,Q,Nick McDonald,R,,RSA,20.6516084873,103623,,,Jacob Adaktusson,R,,SWE,20.1067761807,4-1 4-2 4-2,3,R16,,,,,,,,,,,,,,,,,,,,721,16,669,20
 2000-M-FU-GBR-11A-2000,Great Britain F11,Hard,32,S,20001009,21,102668,5,,Tapio Nurminen,R,,FIN,24.9938398357,102883,,,Tom Spinks,R,,GBR,23.9206023272,5-4(4) 4-5(5) 4-0 0-4 5-4(2),3,R16,,,,,,,,,,,,,,,,,,,,367,74,494,41
 2000-M-FU-GBR-11A-2000,Great Britain F11,Hard,32,S,20001009,22,103378,,,Bernard Parun,R,,GER,21.3798767967,102835,,,Luke Milligan,R,180,GBR,24.1752224504,3-5 5-4(2) 4-1 4-2,3,R16,,,,,,,,,,,,,,,,,,,,508,39,520,37
 2000-M-FU-GBR-11A-2000,Great Britain F11,Hard,32,S,20001009,23,103402,7,,Peter Clarke,R,188,IRL,21.2566735113,102717,,WC,Kyle Spencer,R,,GBR,24.7036276523,3-5 5-3 4-5(2) 4-1 4-2,3,R16,,,,,,,,,,,,,,,,,,,,435,54,,
 2000-M-FU-GBR-11A-2000,Great Britain F11,Hard,32,S,20001009,24,103813,2,,Jarkko Nieminen,L,185,FIN,19.2142368241,111303,,WC,Tom Pocock,R,,GBR,16.7501711157,4-5(4) 4-5(5) 5-4(3) 4-1 5-3,3,R16,,,,,,,,,,,,,,,,,,,,345,85,,
 2000-M-FU-GBR-11A-2000,Great Britain F11,Hard,32,S,20001009,25,103945,,,Simon Dickson,R,,GBR,18.6201232033,103942,,WC,James Nelson,R,,GBR,18.6392881588,4-1 4-2 5-3,3,QF,,,,,,,,,,,,,,,,,,,,552,33,689,18
-2000-M-FU-GBR-11A-2000,Great Britain F11,Hard,32,S,20001009,26,104014,,WC,Lee Childs,R,,GBR,18.3299110198,103508,,Q,Nick Mcdonald,R,,RSA,20.6516084873,4-1 4-2 4-1,3,QF,,,,,,,,,,,,,,,,,,,,604,26,721,16
+2000-M-FU-GBR-11A-2000,Great Britain F11,Hard,32,S,20001009,26,104014,,WC,Lee Childs,R,,GBR,18.3299110198,103508,,Q,Nick McDonald,R,,RSA,20.6516084873,4-1 4-2 4-1,3,QF,,,,,,,,,,,,,,,,,,,,604,26,721,16
 2000-M-FU-GBR-11A-2000,Great Britain F11,Hard,32,S,20001009,27,103378,,,Bernard Parun,R,,GER,21.3798767967,102668,5,,Tapio Nurminen,R,,FIN,24.9938398357,4-2 4-1 4-2,3,QF,,,,,,,,,,,,,,,,,,,,508,39,367,74
 2000-M-FU-GBR-11A-2000,Great Britain F11,Hard,32,S,20001009,28,103813,2,,Jarkko Nieminen,L,185,FIN,19.2142368241,103402,7,,Peter Clarke,R,188,IRL,21.2566735113,5-3 4-1 5-3,3,QF,,,,,,,,,,,,,,,,,,,,345,85,435,54
 2000-M-FU-GBR-11A-2000,Great Britain F11,Hard,32,S,20001009,29,104014,,WC,Lee Childs,R,,GBR,18.3299110198,103945,,,Simon Dickson,R,,GBR,18.6201232033,5-4(6) 4-5(5) 2-4 4-2 4-1,3,SF,,,,,,,,,,,,,,,,,,,,604,26,552,33
@@ -10516,7 +10516,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-COL-01A-2000,Columbia F1,Clay,32,S,20001016,7,102242,,,Bart Beks,R,,NED,27.2854209446,104057,,Q,Alejandro Poberaj,R,,ARG,18.1081451061,6-3 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1254,2,,
 2000-M-FU-COL-01A-2000,Columbia F1,Clay,32,S,20001016,8,103095,5,,Patricio Rudi,R,,ARG,22.8336755647,104268,,WC,Alejandro Falla,L,185,COL,16.9226557153,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,438,53,,
 2000-M-FU-COL-01A-2000,Columbia F1,Clay,32,S,20001016,9,102985,6,,Gustavo Marcaccio,R,,ARG,23.4551676934,103267,,,Tiago Galvao,U,,BRA,22.0479123888,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,535,35,1042,4
-2000-M-FU-COL-01A-2000,Columbia F1,Clay,32,S,20001016,10,103587,,LL,Andres Dellatorre,R,190,ARG,20.2710472279,103926,,WC,Daniel Munoz De La Nava,L,,ESP,18.71321013,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1171,3,,
+2000-M-FU-COL-01A-2000,Columbia F1,Clay,32,S,20001016,10,103587,,LL,Andres Dellatorre,R,190,ARG,20.2710472279,103926,,WC,Daniel Munoz de la Nava,L,,ESP,18.71321013,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1171,3,,
 2000-M-FU-COL-01A-2000,Columbia F1,Clay,32,S,20001016,11,103090,,,Diego Bracco,R,,ARG,22.855578371,118329,,Q,Juan Felipe Diaz Rache,U,,COL,18.0095824778,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,972,6,,
 2000-M-FU-COL-01A-2000,Columbia F1,Clay,32,S,20001016,12,102139,4,,Eyal Ran,R,183,ISR,27.9014373717,103590,,,Michael Quintero,R,,COL,20.2655715264,3-6 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,488,42,987,5
 2000-M-FU-COL-01A-2000,Columbia F1,Clay,32,S,20001016,13,102756,8,,Eduardo Rincon,R,,COL,24.5694729637,108807,,Q,Juan Francisco Barragan,U,,ECU,17.8042436687,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,780,12,,
@@ -10663,7 +10663,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-PAR-02A-2000,Paraguay F2,Clay,32,S,20001016,30,103546,2,Q,Patricio Arquez,R,,ARG,20.5119780972,103021,3,,Ricardo Schlachter,R,,BRA,23.2772073922,2-6 6-4 7-5,3,SF,,,,,,,,,,,,,,,,,,,,356,79,410,58
 2000-M-FU-PAR-02A-2000,Paraguay F2,Clay,32,S,20001016,31,103737,5,,Edgardo Massa,R,180,ARG,19.5701574264,103546,2,Q,Patricio Arquez,R,,ARG,20.5119780972,7-5 6-1,3,F,,,,,,,,,,,,,,,,,,,,473,45,356,79
 2000-M-SA-RSA-02A-2000a,South Africa 1,Hard,32,S,20001016,1,103765,1,,Mohamed Sekou Drame,U,,FRA,19.4496919918,103360,,WC,Pieter Joubert,U,,RSA,21.4811772758,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1346,1,1196,2
-2000-M-SA-RSA-02A-2000a,South Africa 1,Hard,32,S,20001016,2,103508,,,Nick Mcdonald,R,,RSA,20.6707734428,111308,,Q,Clinton Jacobs,R,,RSA,17.4154688569,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,854,9,,
+2000-M-SA-RSA-02A-2000a,South Africa 1,Hard,32,S,20001016,2,103508,,,Nick McDonald,R,,RSA,20.6707734428,111308,,Q,Clinton Jacobs,R,,RSA,17.4154688569,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,854,9,,
 2000-M-SA-RSA-02A-2000a,South Africa 1,Hard,32,S,20001016,3,102646,,,Dimitri Lorin,R,,FRA,25.1471594798,104071,,WC,Raven Klaasen,R,180,RSA,18.0013689254,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,367,73,,
 2000-M-SA-RSA-02A-2000a,South Africa 1,Hard,32,S,20001016,4,104012,,,Peter Jon Nomdo,R,,RSA,18.3627652293,104452,7,,Arnaud Segodo,L,,BEN,15.9260780287,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2000-M-SA-RSA-02A-2000a,South Africa 1,Hard,32,S,20001016,5,102986,,,Joel Mcgregor,R,,RSA,23.4496919918,103997,4,,Lukasz Kubot,R,190,POL,18.4202600958,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1001,5,758,13
@@ -10678,7 +10678,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-SA-RSA-02A-2000a,South Africa 1,Hard,32,S,20001016,14,122847,,,Shaun Smith,U,,RSA,22.5653661875,109022,,Q,Thomas Schreyer,U,,GER,20.8815879535,2-6 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1196,2,1346,1
 2000-M-SA-RSA-02A-2000a,South Africa 1,Hard,32,S,20001016,15,102267,,,Gwinyai Tongoona,U,,ZIM,27.0171115674,104138,,Q,Henry Adjei Darko,U,,GHA,17.6317590691,4-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1196,2,,
 2000-M-SA-RSA-02A-2000a,South Africa 1,Hard,32,S,20001016,16,102978,2,,Zbynek Mlynarik,R,175,AUT,23.4798083504,118145,,Q,Craig Jaffe,U,,RSA,19.5208761123,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,413,57,,
-2000-M-SA-RSA-02A-2000a,South Africa 1,Hard,32,S,20001016,17,103765,1,,Mohamed Sekou Drame,U,,FRA,19.4496919918,103508,,,Nick Mcdonald,R,,RSA,20.6707734428,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1346,1,854,9
+2000-M-SA-RSA-02A-2000a,South Africa 1,Hard,32,S,20001016,17,103765,1,,Mohamed Sekou Drame,U,,FRA,19.4496919918,103508,,,Nick McDonald,R,,RSA,20.6707734428,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1346,1,854,9
 2000-M-SA-RSA-02A-2000a,South Africa 1,Hard,32,S,20001016,18,104012,,,Peter Jon Nomdo,R,,RSA,18.3627652293,102646,,,Dimitri Lorin,R,,FRA,25.1471594798,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,367,73
 2000-M-SA-RSA-02A-2000a,South Africa 1,Hard,32,S,20001016,19,102986,,,Joel Mcgregor,R,,RSA,23.4496919918,102530,,,Pieter Calitz,R,,RSA,25.6755646817,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1001,5,745,14
 2000-M-SA-RSA-02A-2000a,South Africa 1,Hard,32,S,20001016,20,103039,6,,Tripp Phillips,R,185,USA,23.1403148528,103043,,,Coenie Van Wyk,R,,RSA,23.1266255989,6-1 4-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,1087,3,769,13
@@ -10698,7 +10698,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-SA-RSA-02A-2000b,South Africa 2,Hard,24,S,20001016,3,103997,,,Lukasz Kubot,R,190,POL,18.4202600958,102530,,,Pieter Calitz,R,,RSA,25.6755646817,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,758,13,745,14
 2000-M-SA-RSA-02A-2000b,South Africa 2,Hard,24,S,20001016,4,103551,,,Willem Petrus Meyer,U,,RSA,20.4845995893,103043,,,Coenie Van Wyk,R,,RSA,23.1266255989,6-3 1-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,821,10,769,13
 2000-M-SA-RSA-02A-2000b,South Africa 2,Hard,24,S,20001016,5,102267,,,Gwinyai Tongoona,U,,ZIM,27.0171115674,104138,,,Henry Adjei Darko,U,,GHA,17.6317590691,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1196,2,,
-2000-M-SA-RSA-02A-2000b,South Africa 2,Hard,24,S,20001016,6,103508,,,Nick Mcdonald,R,,RSA,20.6707734428,104452,,,Arnaud Segodo,L,,BEN,15.9260780287,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,854,9,,
+2000-M-SA-RSA-02A-2000b,South Africa 2,Hard,24,S,20001016,6,103508,,,Nick McDonald,R,,RSA,20.6707734428,104452,,,Arnaud Segodo,L,,BEN,15.9260780287,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,854,9,,
 2000-M-SA-RSA-02A-2000b,South Africa 2,Hard,24,S,20001016,7,104071,,,Raven Klaasen,R,180,RSA,18.0013689254,103072,,,Jean Marcel Bourgaul Du Coudray,U,,MRI,23.0034223135,7-5 5-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,814,10
 2000-M-SA-RSA-02A-2000b,South Africa 2,Hard,24,S,20001016,8,102646,,,Dimitri Lorin,R,,FRA,25.1471594798,103885,,,Daniel Lesske,U,,GER,18.8720054757,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,367,73,1080,4
 2000-M-SA-RSA-02A-2000b,South Africa 2,Hard,24,S,20001016,9,103044,,,Benoit Foucher,R,,FRA,23.112936345,103765,1,,Mohamed Sekou Drame,U,,FRA,19.4496919918,7-6(3) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,789,12,1346,1
@@ -10706,12 +10706,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-SA-RSA-02A-2000b,South Africa 2,Hard,24,S,20001016,11,103997,,,Lukasz Kubot,R,190,POL,18.4202600958,103573,4,,Rik De Voest,R,180,RSA,20.3641341547,6-3 2-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,758,13,506,39
 2000-M-SA-RSA-02A-2000b,South Africa 2,Hard,24,S,20001016,12,104012,6,,Peter Jon Nomdo,R,,RSA,18.3627652293,103551,,,Willem Petrus Meyer,U,,RSA,20.4845995893,7-6(5) 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,,,821,10
 2000-M-SA-RSA-02A-2000b,South Africa 2,Hard,24,S,20001016,13,104158,5,,Andrew Anderson,R,193,RSA,17.5249828884,102267,,,Gwinyai Tongoona,U,,ZIM,27.0171115674,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,952,6,1196,2
-2000-M-SA-RSA-02A-2000b,South Africa 2,Hard,24,S,20001016,14,103508,,,Nick Mcdonald,R,,RSA,20.6707734428,103039,3,,Tripp Phillips,R,185,USA,23.1403148528,6-4 3-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,854,9,1087,3
+2000-M-SA-RSA-02A-2000b,South Africa 2,Hard,24,S,20001016,14,103508,,,Nick McDonald,R,,RSA,20.6707734428,103039,3,,Tripp Phillips,R,185,USA,23.1403148528,6-4 3-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,854,9,1087,3
 2000-M-SA-RSA-02A-2000b,South Africa 2,Hard,24,S,20001016,15,104071,,,Raven Klaasen,R,180,RSA,18.0013689254,102986,7,,Joel Mcgregor,R,,RSA,23.4496919918,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,1001,5
 2000-M-SA-RSA-02A-2000b,South Africa 2,Hard,24,S,20001016,16,102978,2,,Zbynek Mlynarik,R,175,AUT,23.4798083504,102646,,,Dimitri Lorin,R,,FRA,25.1471594798,7-5 6-0,3,R16,,,,,,,,,,,,,,,,,,,,413,57,367,73
 2000-M-SA-RSA-02A-2000b,South Africa 2,Hard,24,S,20001016,17,103098,,,Johan Du Randt,U,,RSA,22.8145106092,103044,,,Benoit Foucher,R,,FRA,23.112936345,6-3 7-6(2),3,QF,,,,,,,,,,,,,,,,,,,,1346,1,789,12
 2000-M-SA-RSA-02A-2000b,South Africa 2,Hard,24,S,20001016,18,103997,,,Lukasz Kubot,R,190,POL,18.4202600958,104012,6,,Peter Jon Nomdo,R,,RSA,18.3627652293,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,758,13,,
-2000-M-SA-RSA-02A-2000b,South Africa 2,Hard,24,S,20001016,19,104158,5,,Andrew Anderson,R,193,RSA,17.5249828884,103508,,,Nick Mcdonald,R,,RSA,20.6707734428,2-6 6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,952,6,854,9
+2000-M-SA-RSA-02A-2000b,South Africa 2,Hard,24,S,20001016,19,104158,5,,Andrew Anderson,R,193,RSA,17.5249828884,103508,,,Nick McDonald,R,,RSA,20.6707734428,2-6 6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,952,6,854,9
 2000-M-SA-RSA-02A-2000b,South Africa 2,Hard,24,S,20001016,20,102978,2,,Zbynek Mlynarik,R,175,AUT,23.4798083504,104071,,,Raven Klaasen,R,180,RSA,18.0013689254,6-3 7-5,3,QF,,,,,,,,,,,,,,,,,,,,413,57,,
 2000-M-SA-RSA-02A-2000b,South Africa 2,Hard,24,S,20001016,21,103098,,,Johan Du Randt,U,,RSA,22.8145106092,103997,,,Lukasz Kubot,R,190,POL,18.4202600958,6-3 7-6(4),3,SF,,,,,,,,,,,,,,,,,,,,1346,1,758,13
 2000-M-SA-RSA-02A-2000b,South Africa 2,Hard,24,S,20001016,22,102978,2,,Zbynek Mlynarik,R,175,AUT,23.4798083504,104158,5,,Andrew Anderson,R,193,RSA,17.5249828884,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,413,57,952,6
@@ -10726,7 +10726,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-SA-RSA-02A-2000c,South Africa 3,Hard,32,S,20001016,8,103997,6,,Lukasz Kubot,R,190,POL,18.4202600958,103885,,,Daniel Lesske,U,,GER,18.8720054757,6-2 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,758,13,1080,4
 2000-M-SA-RSA-02A-2000c,South Africa 3,Hard,32,S,20001016,9,102530,5,,Pieter Calitz,R,,RSA,25.6755646817,117650,,Q,Haydn Wakefield,U,,RSA,23.7645448323,1-6 6-4 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,745,14,,
 2000-M-SA-RSA-02A-2000c,South Africa 3,Hard,32,S,20001016,10,103551,,,Willem Petrus Meyer,U,,RSA,20.4845995893,102121,,,Holger Losch,R,,RSA,28.052019165,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,821,10,942,6
-2000-M-SA-RSA-02A-2000c,South Africa 3,Hard,32,S,20001016,11,122847,,,Shaun Smith,U,,RSA,22.5653661875,103508,,,Nick Mcdonald,R,,RSA,20.6707734428,7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1196,2,854,9
+2000-M-SA-RSA-02A-2000c,South Africa 3,Hard,32,S,20001016,11,122847,,,Shaun Smith,U,,RSA,22.5653661875,103508,,,Nick McDonald,R,,RSA,20.6707734428,7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1196,2,854,9
 2000-M-SA-RSA-02A-2000c,South Africa 3,Hard,32,S,20001016,12,103573,3,,Rik De Voest,R,180,RSA,20.3641341547,103360,,,Pieter Joubert,U,,RSA,21.4811772758,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,506,39,1196,2
 2000-M-SA-RSA-02A-2000c,South Africa 3,Hard,32,S,20001016,13,103043,7,,Coenie Van Wyk,R,,RSA,23.1266255989,103098,,,Johan Du Randt,U,,RSA,22.8145106092,6-4 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,769,13,1346,1
 2000-M-SA-RSA-02A-2000c,South Africa 3,Hard,32,S,20001016,14,104452,,WC,Arnaud Segodo,L,,BEN,15.9260780287,103253,,Q,Andrew Nisker,U,,CAN,22.1546885695,6-7(3) 6-4 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,,,1254,2
@@ -10759,7 +10759,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-SA-RSA-02A-2000d,South Africa 4,Hard,32,S,20001016,10,103997,,,Lukasz Kubot,R,190,POL,18.4202600958,103755,,,Francois Vatin,R,,FRA,19.4880219028,4-6 7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,758,13,715,16
 2000-M-SA-RSA-02A-2000d,South Africa 4,Hard,32,S,20001016,11,118516,,LL,Petrus Molefe,U,,BOT,24.7310061602,103885,,,Daniel Lesske,U,,GER,18.8720054757,7-5 6-7(3) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1080,4
 2000-M-SA-RSA-02A-2000d,South Africa 4,Hard,32,S,20001016,12,102986,,Q,Joel Mcgregor,R,,RSA,23.4496919918,102530,4,,Pieter Calitz,R,,RSA,25.6755646817,6-4 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1001,5,745,14
-2000-M-SA-RSA-02A-2000d,South Africa 4,Hard,32,S,20001016,13,103508,8,,Nick Mcdonald,R,,RSA,20.6707734428,122847,,,Shaun Smith,U,,RSA,22.5653661875,6-2 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,854,9,1196,2
+2000-M-SA-RSA-02A-2000d,South Africa 4,Hard,32,S,20001016,13,103508,8,,Nick McDonald,R,,RSA,20.6707734428,122847,,,Shaun Smith,U,,RSA,22.5653661875,6-2 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,854,9,1196,2
 2000-M-SA-RSA-02A-2000d,South Africa 4,Hard,32,S,20001016,14,103098,,,Johan Du Randt,U,,RSA,22.8145106092,124797,,Q,Pierre Bezuidenhout,U,,RSA,22.9924709103,6-7(5) 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1346,1,,
 2000-M-SA-RSA-02A-2000d,South Africa 4,Hard,32,S,20001016,15,104158,,,Andrew Anderson,R,193,RSA,17.5249828884,103044,,,Benoit Foucher,R,,FRA,23.112936345,7-6(8) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,952,6,789,12
 2000-M-SA-RSA-02A-2000d,South Africa 4,Hard,32,S,20001016,16,103765,,Q,Mohamed Sekou Drame,U,,FRA,19.4496919918,102763,2,,Benjamin Cassaigne,L,185,FRA,24.5393566051,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1346,1,383,67
@@ -10769,12 +10769,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-SA-RSA-02A-2000d,South Africa 4,Hard,32,S,20001016,20,103551,,,Willem Petrus Meyer,U,,RSA,20.4845995893,103300,6,,Punch Maleka,R,,RSA,21.8015058179,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,821,10,812,10
 2000-M-SA-RSA-02A-2000d,South Africa 4,Hard,32,S,20001016,21,103997,,,Lukasz Kubot,R,190,POL,18.4202600958,103573,5,,Rik De Voest,R,180,RSA,20.3641341547,3-6 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,758,13,506,39
 2000-M-SA-RSA-02A-2000d,South Africa 4,Hard,32,S,20001016,22,102986,,Q,Joel Mcgregor,R,,RSA,23.4496919918,118516,,LL,Petrus Molefe,U,,BOT,24.7310061602,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1001,5,,
-2000-M-SA-RSA-02A-2000d,South Africa 4,Hard,32,S,20001016,23,103508,8,,Nick Mcdonald,R,,RSA,20.6707734428,103098,,,Johan Du Randt,U,,RSA,22.8145106092,7-6(6) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,854,9,1346,1
+2000-M-SA-RSA-02A-2000d,South Africa 4,Hard,32,S,20001016,23,103508,8,,Nick McDonald,R,,RSA,20.6707734428,103098,,,Johan Du Randt,U,,RSA,22.8145106092,7-6(6) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,854,9,1346,1
 2000-M-SA-RSA-02A-2000d,South Africa 4,Hard,32,S,20001016,24,103765,,Q,Mohamed Sekou Drame,U,,FRA,19.4496919918,104158,,,Andrew Anderson,R,193,RSA,17.5249828884,7-5 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1346,1,952,6
 2000-M-SA-RSA-02A-2000d,South Africa 4,Hard,32,S,20001016,25,103039,,Q,Tripp Phillips,R,185,USA,23.1403148528,103253,,Q,Andrew Nisker,U,,CAN,22.1546885695,3-6 7-6(5) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,1087,3,1254,2
 2000-M-SA-RSA-02A-2000d,South Africa 4,Hard,32,S,20001016,26,102978,3,,Zbynek Mlynarik,R,175,AUT,23.4798083504,103551,,,Willem Petrus Meyer,U,,RSA,20.4845995893,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,413,57,821,10
 2000-M-SA-RSA-02A-2000d,South Africa 4,Hard,32,S,20001016,27,103997,,,Lukasz Kubot,R,190,POL,18.4202600958,102986,,Q,Joel Mcgregor,R,,RSA,23.4496919918,7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,758,13,1001,5
-2000-M-SA-RSA-02A-2000d,South Africa 4,Hard,32,S,20001016,28,103765,,Q,Mohamed Sekou Drame,U,,FRA,19.4496919918,103508,8,,Nick Mcdonald,R,,RSA,20.6707734428,6-3 7-6(3),3,QF,,,,,,,,,,,,,,,,,,,,1346,1,854,9
+2000-M-SA-RSA-02A-2000d,South Africa 4,Hard,32,S,20001016,28,103765,,Q,Mohamed Sekou Drame,U,,FRA,19.4496919918,103508,8,,Nick McDonald,R,,RSA,20.6707734428,6-3 7-6(3),3,QF,,,,,,,,,,,,,,,,,,,,1346,1,854,9
 2000-M-SA-RSA-02A-2000d,South Africa 4,Hard,32,S,20001016,29,102978,3,,Zbynek Mlynarik,R,175,AUT,23.4798083504,103039,,Q,Tripp Phillips,R,185,USA,23.1403148528,6-0 6-3,3,SF,,,,,,,,,,,,,,,,,,,,413,57,1087,3
 2000-M-SA-RSA-02A-2000d,South Africa 4,Hard,32,S,20001016,30,103765,,Q,Mohamed Sekou Drame,U,,FRA,19.4496919918,103997,,,Lukasz Kubot,R,190,POL,18.4202600958,7-5 7-6(3),3,SF,,,,,,,,,,,,,,,,,,,,1346,1,758,13
 2000-M-SA-RSA-02A-2000d,South Africa 4,Hard,32,S,20001016,31,102978,3,,Zbynek Mlynarik,R,175,AUT,23.4798083504,103765,,Q,Mohamed Sekou Drame,U,,FRA,19.4496919918,6-4 5-7 6-4,3,F,,,,,,,,,,,,,,,,,,,,413,57,1346,1
@@ -11047,7 +11047,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-COL-02A-2000,Colombia F2,Clay,32,S,20001023,4,104027,8,,Pablo Gonzalez,R,178,COL,18.3107460643,103267,,,Tiago Galvao,U,,BRA,22.0670773443,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,707,17,1041,4
 2000-M-FU-COL-02A-2000,Colombia F2,Clay,32,S,20001023,5,102737,4,,Gergely Kisgyorgy,R,,HUN,24.6269678303,103090,,,Diego Bracco,R,,ARG,22.8747433265,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,413,58,971,6
 2000-M-FU-COL-02A-2000,Colombia F2,Clay,32,S,20001023,6,118328,,Q,Jaime Rodriguez,U,,COL,18.1519507187,103289,,,Jernej Karner,R,,SLO,21.8754277892,6-4 3-6 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,,,825,10
-2000-M-FU-COL-02A-2000,Colombia F2,Clay,32,S,20001023,7,101495,,,Miguel Tobon,R,185,COL,32.3367556468,103926,,WC,Daniel Munoz De La Nava,L,,ESP,18.7323750856,6-4 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1340,1,,
+2000-M-FU-COL-02A-2000,Colombia F2,Clay,32,S,20001023,7,101495,,,Miguel Tobon,R,185,COL,32.3367556468,103926,,WC,Daniel Munoz de la Nava,L,,ESP,18.7323750856,6-4 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1340,1,,
 2000-M-FU-COL-02A-2000,Colombia F2,Clay,32,S,20001023,8,103095,5,,Patricio Rudi,R,,ARG,22.8528405202,103327,,Q,Alessandro Motti,L,,ITA,21.6700889802,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,448,51,1340,1
 2000-M-FU-COL-02A-2000,Colombia F2,Clay,32,S,20001023,9,102139,6,,Eyal Ran,R,183,ISR,27.9206023272,103334,,,Ronaldo Carvalho,R,,BRA,21.6509240246,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,491,41,825,10
 2000-M-FU-COL-02A-2000,Colombia F2,Clay,32,S,20001023,10,102756,,,Eduardo Rincon,R,,COL,24.5886379192,103707,,,Dmitriy Koch,U,,GER,19.704312115,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,781,12,1249,2
@@ -11950,7 +11950,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-VIE-01A-2000,Vietnam F1,Hard,32,S,20001120,8,103733,5,,Luben Pampoulov,R,,AUT,19.6878850103,103551,,Q,Willem Petrus Meyer,U,,RSA,20.5804243669,7-6(2) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,439,52,786,12
 2000-M-FU-VIE-01A-2000,Vietnam F1,Hard,32,S,20001120,9,103573,6,,Rik De Voest,R,180,RSA,20.4599589322,102781,,Q,Christian Dillschneider,R,,SUI,24.5722108145,7-6(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,444,51,505,39
 2000-M-FU-VIE-01A-2000,Vietnam F1,Hard,32,S,20001120,10,103043,,,Coenie Van Wyk,R,,RSA,23.2224503765,118091,,WC,Phu Quy Huynh,R,,VIE,20.5065023956,7-6(0) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,784,12,,
-2000-M-FU-VIE-01A-2000,Vietnam F1,Hard,32,S,20001120,11,103508,,,Nick Mcdonald,R,,RSA,20.7665982204,103557,,WC,Attapol Rithiwattanapong,U,,THA,20.5475701574,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,747,14,1255,2
+2000-M-FU-VIE-01A-2000,Vietnam F1,Hard,32,S,20001120,11,103508,,,Nick McDonald,R,,RSA,20.7665982204,103557,,WC,Attapol Rithiwattanapong,U,,THA,20.5475701574,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,747,14,1255,2
 2000-M-FU-VIE-01A-2000,Vietnam F1,Hard,32,S,20001120,12,103945,,,Simon Dickson,R,,GBR,18.7351129363,103754,3,,Mark Hilton,L,170,GBR,19.5865845311,7-6(2) 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,517,38,344,83
 2000-M-FU-VIE-01A-2000,Vietnam F1,Hard,32,S,20001120,13,103129,7,,Per Thornadtsson,R,,SWE,22.81724846,103743,,Q,Domenic Marafiote,L,,AUS,19.6221765914,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,440,52,861,9
 2000-M-FU-VIE-01A-2000,Vietnam F1,Hard,32,S,20001120,14,102682,,,Jonathan Beardsley,R,,USA,25.0349075975,103629,,SE,Ciaran Moore,R,,RSA,20.1889117043,7-5 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,744,14,1132,3
@@ -11961,12 +11961,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-VIE-01A-2000,Vietnam F1,Hard,32,S,20001120,19,104339,,,Mario Ancic,R,196,CRO,16.643394935,101683,4,,Donavan September,R,,RSA,30.8747433265,6-4 2-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,589,27,365,74
 2000-M-FU-VIE-01A-2000,Vietnam F1,Hard,32,S,20001120,20,103733,5,,Luben Pampoulov,R,,AUT,19.6878850103,102659,,,Ashley Fisher,R,183,AUS,25.1553730322,6-1 3-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,439,52,674,18
 2000-M-FU-VIE-01A-2000,Vietnam F1,Hard,32,S,20001120,21,103573,6,,Rik De Voest,R,180,RSA,20.4599589322,103043,,,Coenie Van Wyk,R,,RSA,23.2224503765,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,444,51,784,12
-2000-M-FU-VIE-01A-2000,Vietnam F1,Hard,32,S,20001120,22,103508,,,Nick Mcdonald,R,,RSA,20.7665982204,103945,,,Simon Dickson,R,,GBR,18.7351129363,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,747,14,517,38
+2000-M-FU-VIE-01A-2000,Vietnam F1,Hard,32,S,20001120,22,103508,,,Nick McDonald,R,,RSA,20.7665982204,103945,,,Simon Dickson,R,,GBR,18.7351129363,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,747,14,517,38
 2000-M-FU-VIE-01A-2000,Vietnam F1,Hard,32,S,20001120,23,103129,7,,Per Thornadtsson,R,,SWE,22.81724846,102682,,,Jonathan Beardsley,R,,USA,25.0349075975,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,440,52,744,14
 2000-M-FU-VIE-01A-2000,Vietnam F1,Hard,32,S,20001120,24,103529,2,,Aisam Ul Haq Qureshi,R,183,PAK,20.6789869952,102843,,,Suwandi Suwandi,R,178,INA,24.2491444216,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,257,130,452,50
 2000-M-FU-VIE-01A-2000,Vietnam F1,Hard,32,S,20001120,25,103711,8,,Jaroslav Levinsky,R,196,CZE,19.7727583847,102263,1,,Yong Il Yoon,R,175,KOR,27.1594798084,1-6 6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,480,45,156,254
 2000-M-FU-VIE-01A-2000,Vietnam F1,Hard,32,S,20001120,26,104339,,,Mario Ancic,R,196,CRO,16.643394935,103733,5,,Luben Pampoulov,R,,AUT,19.6878850103,5-7 6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,589,27,439,52
-2000-M-FU-VIE-01A-2000,Vietnam F1,Hard,32,S,20001120,27,103573,6,,Rik De Voest,R,180,RSA,20.4599589322,103508,,,Nick Mcdonald,R,,RSA,20.7665982204,6-3 4-0 RET,3,QF,,,,,,,,,,,,,,,,,,,,444,51,747,14
+2000-M-FU-VIE-01A-2000,Vietnam F1,Hard,32,S,20001120,27,103573,6,,Rik De Voest,R,180,RSA,20.4599589322,103508,,,Nick McDonald,R,,RSA,20.7665982204,6-3 4-0 RET,3,QF,,,,,,,,,,,,,,,,,,,,444,51,747,14
 2000-M-FU-VIE-01A-2000,Vietnam F1,Hard,32,S,20001120,28,103529,2,,Aisam Ul Haq Qureshi,R,183,PAK,20.6789869952,103129,7,,Per Thornadtsson,R,,SWE,22.81724846,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,257,130,440,52
 2000-M-FU-VIE-01A-2000,Vietnam F1,Hard,32,S,20001120,29,103711,8,,Jaroslav Levinsky,R,196,CZE,19.7727583847,104339,,,Mario Ancic,R,196,CRO,16.643394935,7-6(4) 6-4,3,SF,,,,,,,,,,,,,,,,,,,,480,45,589,27
 2000-M-FU-VIE-01A-2000,Vietnam F1,Hard,32,S,20001120,30,103529,2,,Aisam Ul Haq Qureshi,R,183,PAK,20.6789869952,103573,6,,Rik De Voest,R,180,RSA,20.4599589322,6-4 6-7(5) 7-5,3,SF,,,,,,,,,,,,,,,,,,,,257,130,444,51
@@ -12167,7 +12167,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-PHI-02A-2000,Philippines F2,Hard,32,S,20001204,8,103197,,Q,John Doran,R,,IRL,22.5544147844,103733,6,,Luben Pampoulov,R,,AUT,19.7262149213,7-6(4) 2-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,613,24,430,54
 2000-M-FU-PHI-02A-2000,Philippines F2,Hard,32,S,20001204,9,102843,5,,Suwandi Suwandi,R,178,INA,24.2874743326,102876,,Q,Gwenael Gueit,R,,FRA,24.0985626283,4-6 7-6(11) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,427,55,751,14
 2000-M-FU-PHI-02A-2000,Philippines F2,Hard,32,S,20001204,10,102659,,,Ashley Fisher,R,183,AUS,25.1937029432,103098,,Q,Johan Du Randt,U,,RSA,22.9486652977,7-6(5) 6-7(6) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,758,13,769,12
-2000-M-FU-PHI-02A-2000,Philippines F2,Hard,32,S,20001204,11,103508,,,Nick Mcdonald,R,,RSA,20.8049281314,103263,,,Justin Layne,R,,GBR,22.2094455852,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,728,16,575,30
+2000-M-FU-PHI-02A-2000,Philippines F2,Hard,32,S,20001204,11,103508,,,Nick McDonald,R,,RSA,20.8049281314,103263,,,Justin Layne,R,,GBR,22.2094455852,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,728,16,575,30
 2000-M-FU-PHI-02A-2000,Philippines F2,Hard,32,S,20001204,12,103657,,,Ivo Klec,R,183,SVK,20.0164271047,102978,3,,Zbynek Mlynarik,R,175,AUT,23.613963039,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,634,22,345,83
 2000-M-FU-PHI-02A-2000,Philippines F2,Hard,32,S,20001204,13,102781,8,,Christian Dillschneider,R,,SUI,24.6105407255,102928,,,Hee Seok Chung,R,,KOR,23.8466803559,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,501,39,666,19
 2000-M-FU-PHI-02A-2000,Philippines F2,Hard,32,S,20001204,14,102772,,Q,Yu Zhang,R,,CHN,24.6461327858,108646,,WC,Joseph Victorino,U,,PHI,17.067761807,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,819,10,,
@@ -12178,7 +12178,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-PHI-02A-2000,Philippines F2,Hard,32,S,20001204,19,103997,,,Lukasz Kubot,R,190,POL,18.5544147844,103179,,,Jurek Stasiak,R,,AUS,22.6173853525,7-6(5) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,654,20,719,16
 2000-M-FU-PHI-02A-2000,Philippines F2,Hard,32,S,20001204,20,103197,,Q,John Doran,R,,IRL,22.5544147844,103743,,Q,Domenic Marafiote,L,,AUS,19.6605065024,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,613,24,866,9
 2000-M-FU-PHI-02A-2000,Philippines F2,Hard,32,S,20001204,21,102659,,,Ashley Fisher,R,183,AUS,25.1937029432,102843,5,,Suwandi Suwandi,R,178,INA,24.2874743326,6-0 6-0,3,R16,,,,,,,,,,,,,,,,,,,,758,13,427,55
-2000-M-FU-PHI-02A-2000,Philippines F2,Hard,32,S,20001204,22,103657,,,Ivo Klec,R,183,SVK,20.0164271047,103508,,,Nick Mcdonald,R,,RSA,20.8049281314,2-6 7-6(6) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,634,22,728,16
+2000-M-FU-PHI-02A-2000,Philippines F2,Hard,32,S,20001204,22,103657,,,Ivo Klec,R,183,SVK,20.0164271047,103508,,,Nick McDonald,R,,RSA,20.8049281314,2-6 7-6(6) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,634,22,728,16
 2000-M-FU-PHI-02A-2000,Philippines F2,Hard,32,S,20001204,23,102772,,Q,Yu Zhang,R,,CHN,24.6461327858,102781,8,,Christian Dillschneider,R,,SUI,24.6105407255,6-7(2) 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,819,10,501,39
 2000-M-FU-PHI-02A-2000,Philippines F2,Hard,32,S,20001204,24,103821,2,,Danai Udomchoke,R,173,THA,19.3155373032,103769,,,Markus Polessnig,R,,AUT,19.575633128,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,301,100,622,23
 2000-M-FU-PHI-02A-2000,Philippines F2,Hard,32,S,20001204,25,102263,1,,Yong Il Yoon,R,175,KOR,27.1978097194,103573,7,,Rik De Voest,R,180,RSA,20.4982888433,7-6(6) 6-7(5) 6-1,3,QF,,,,,,,,,,,,,,,,,,,,151,255,441,52

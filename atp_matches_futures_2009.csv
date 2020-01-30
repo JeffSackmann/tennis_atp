@@ -1549,7 +1549,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-USA-04A-2009,USA F4,Hard,32,S,20090216,29,103188,1,WC,Michael Russell,R,173,USA,30.7980835044,104355,3,Q,Lester Cook,R,180,USA,24.8158795346,6-2 6-1,3,SF,,,,,,,,,,,,,,,,,,,,291,246,364,182
 2009-M-FU-USA-04A-2009,USA F4,Hard,32,S,20090216,30,103977,2,,Nicholas Monroe,R,178,USA,26.8501026694,104399,,Q,Mislav Hizak,U,,CRO,24.5941136208,2-6 6-4 5-1 RET,3,SF,,,,,,,,,,,,,,,,,,,,298,239,733,46
 2009-M-FU-USA-04A-2009,USA F4,Hard,32,S,20090216,31,103188,1,WC,Michael Russell,R,173,USA,30.7980835044,103977,2,,Nicholas Monroe,R,178,USA,26.8501026694,6-2 6-4,3,F,,,,,,,,,,,,,,,,,,,,291,246,298,239
-2009-M-FU-ESP-07A-2009,Spain F7,Clay,32,S,20090223,1,105032,1,,Samuel Groth,R,,AUS,21.3497604381,105262,,,Fernando Romboli,R,180,BRA,20.1368925394,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,283,258,524,98
+2009-M-FU-ESP-07A-2009,Spain F7,Clay,32,S,20090223,1,105032,1,,Sam Groth,R,,AUS,21.3497604381,105262,,,Fernando Romboli,R,180,BRA,20.1368925394,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,283,258,524,98
 2009-M-FU-ESP-07A-2009,Spain F7,Clay,32,S,20090223,2,105645,,Q,Alexander Lobkov,R,,RUS,18.3819301848,106031,,Q,Raymond Sarmiento,R,,USA,16.5859000684,2-6 7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1129,11,,
 2009-M-FU-ESP-07A-2009,Spain F7,Clay,32,S,20090223,3,105304,,Q,Marcelo Palacios Siegenthale,R,,ESP,19.9589322382,105283,,,Gerard Granollers,R,,ESP,20.0657084189,3-6 6-3 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,859,30,606,73
 2009-M-FU-ESP-07A-2009,Spain F7,Clay,32,S,20090223,4,103849,8,,Francesco Aldi,R,175,ITA,27.4360027379,105146,,LL,Guillem Collado Castells,U,,ESP,20.7693360712,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,432,139,,
@@ -1565,7 +1565,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-ESP-07A-2009,Spain F7,Clay,32,S,20090223,14,104836,,,Tiago Lopes,R,,BRA,22.2422997947,120255,,Q,Carlos Cuenca Navarro,U,,ESP,19.4223134839,6-3 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,446,132,1047,15
 2009-M-FU-ESP-07A-2009,Spain F7,Clay,32,S,20090223,15,105443,,SE,Georgi Rumenov Payakov,U,,ESP,19.1923340178,104962,,,Matthew Illingworth,R,,GBR,21.6728268309,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,899,26,702,51
 2009-M-FU-ESP-07A-2009,Spain F7,Clay,32,S,20090223,16,104532,2,Q,Jose Checa Calvo,L,,ESP,23.8959616701,105311,,,Joao Sousa,R,185,POR,19.9041752225,7-6(4) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,316,216,620,68
-2009-M-FU-ESP-07A-2009,Spain F7,Clay,32,S,20090223,17,105645,,Q,Alexander Lobkov,R,,RUS,18.3819301848,105032,1,,Samuel Groth,R,,AUS,21.3497604381,6-3 3-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1129,11,283,258
+2009-M-FU-ESP-07A-2009,Spain F7,Clay,32,S,20090223,17,105645,,Q,Alexander Lobkov,R,,RUS,18.3819301848,105032,1,,Sam Groth,R,,AUS,21.3497604381,6-3 3-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1129,11,283,258
 2009-M-FU-ESP-07A-2009,Spain F7,Clay,32,S,20090223,18,103849,8,,Francesco Aldi,R,175,ITA,27.4360027379,105304,,Q,Marcelo Palacios Siegenthale,R,,ESP,19.9589322382,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,432,139,859,30
 2009-M-FU-ESP-07A-2009,Spain F7,Clay,32,S,20090223,19,104629,4,,Adrian Menendez Maceiras,R,,ESP,23.3237508556,104704,,Q,Victor Mugurel Anagnastopol,R,,ROU,22.9240246407,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,339,200,1108,12
 2009-M-FU-ESP-07A-2009,Spain F7,Clay,32,S,20090223,20,104152,,,David Canudas Fernandez,U,,ESP,25.9000684463,105733,,Q,Rhyne Williams,R,,USA,17.9274469541,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,556,86,955,21
@@ -1719,7 +1719,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-ESP-08A-2009,Spain F8,Clay,32,S,20090302,13,103599,,WC,Jordi Marse Vidri,U,,ESP,28.6132785763,104629,6,,Adrian Menendez Maceiras,R,,ESP,23.3429158111,6-0 1-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,671,55,337,200
 2009-M-FU-ESP-08A-2009,Spain F8,Clay,32,S,20090302,14,105649,,Q,Cedrik Marcel Stebe,L,183,GER,18.3956194387,104699,,Q,Marco Simoni,U,,ITA,22.9678302533,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,762,41,902,26
 2009-M-FU-ESP-08A-2009,Spain F8,Clay,32,S,20090302,15,105138,,,Roberto Bautista Agut,R,183,ESP,20.8815879535,104836,,,Tiago Lopes,R,,BRA,22.2614647502,7-6(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,374,176,444,132
-2009-M-FU-ESP-08A-2009,Spain F8,Clay,32,S,20090302,16,105032,2,,Samuel Groth,R,,AUS,21.3689253936,103901,,Q,Alessandro Piccari,R,,ITA,27.1594798084,6-3 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,283,258,965,20
+2009-M-FU-ESP-08A-2009,Spain F8,Clay,32,S,20090302,16,105032,2,,Sam Groth,R,,AUS,21.3689253936,103901,,Q,Alessandro Piccari,R,,ITA,27.1594798084,6-3 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,283,258,965,20
 2009-M-FU-ESP-08A-2009,Spain F8,Clay,32,S,20090302,17,105180,1,Q,Daniel Dutra Da Silva,L,175,BRA,20.6570841889,105300,,,Sergio Gutierrez Ferrol,R,,ESP,19.9917864476,6-1 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,256,286,432,139
 2009-M-FU-ESP-08A-2009,Spain F8,Clay,32,S,20090302,18,105283,,Q,Gerard Granollers,R,,ESP,20.0848733744,104627,7,,Boy Westerhof,R,,NED,23.3538672142,3-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,606,73,340,198
 2009-M-FU-ESP-08A-2009,Spain F8,Clay,32,S,20090302,19,103924,3,,Marc Fornell Mestres,R,,ESP,27.0965092402,103695,,WC,Marc Marco Ripoll,R,,ESP,28.1122518823,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,300,238,1913,1
@@ -1727,7 +1727,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-ESP-08A-2009,Spain F8,Clay,32,S,20090302,21,105077,,,Albert Ramos,L,188,ESP,21.1225188227,105789,,LL,Marc Giner,R,,ESP,17.7056810404,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,429,142,1922,1
 2009-M-FU-ESP-08A-2009,Spain F8,Clay,32,S,20090302,22,103849,,,Francesco Aldi,R,175,ITA,27.4551676934,104513,,,Leandro Migani,R,,ARG,24.0,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,448,129,370,179
 2009-M-FU-ESP-08A-2009,Spain F8,Clay,32,S,20090302,23,105649,,Q,Cedrik Marcel Stebe,L,183,GER,18.3956194387,103599,,WC,Jordi Marse Vidri,U,,ESP,28.6132785763,6-3 4-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,762,41,671,55
-2009-M-FU-ESP-08A-2009,Spain F8,Clay,32,S,20090302,24,105138,,,Roberto Bautista Agut,R,183,ESP,20.8815879535,105032,2,,Samuel Groth,R,,AUS,21.3689253936,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,374,176,283,258
+2009-M-FU-ESP-08A-2009,Spain F8,Clay,32,S,20090302,24,105138,,,Roberto Bautista Agut,R,183,ESP,20.8815879535,105032,2,,Sam Groth,R,,AUS,21.3689253936,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,374,176,283,258
 2009-M-FU-ESP-08A-2009,Spain F8,Clay,32,S,20090302,25,105180,1,Q,Daniel Dutra Da Silva,L,175,BRA,20.6570841889,105283,,Q,Gerard Granollers,R,,ESP,20.0848733744,6-7(5) 7-6(2) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,256,286,606,73
 2009-M-FU-ESP-08A-2009,Spain F8,Clay,32,S,20090302,26,103924,3,,Marc Fornell Mestres,R,,ESP,27.0965092402,105528,,Q,Alexander Ward,U,,GBR,18.8391512663,6-3 3-0 RET,3,QF,,,,,,,,,,,,,,,,,,,,300,238,926,24
 2009-M-FU-ESP-08A-2009,Spain F8,Clay,32,S,20090302,27,103849,,,Francesco Aldi,R,175,ITA,27.4551676934,105077,,,Albert Ramos,L,188,ESP,21.1225188227,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,448,129,429,142
@@ -1983,7 +1983,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-POR-02A-2009,Portugal F2,Hard,32,S,20090309,29,104488,,,Armin Sandbichler,L,180,AUT,24.1259411362,104152,,,David Canudas Fernandez,U,,ESP,25.9383983573,5-7 6-4 6-0,3,SF,,,,,,,,,,,,,,,,,,,,580,79,541,88
 2009-M-FU-POR-02A-2009,Portugal F2,Hard,32,S,20090309,30,104743,2,,Kamil Capkovic,R,,SVK,22.7679671458,103858,3,,Frederic Jeanclaude,L,,FRA,27.4332648871,6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,298,238,394,159
 2009-M-FU-POR-02A-2009,Portugal F2,Hard,32,S,20090309,31,104743,2,,Kamil Capkovic,R,,SVK,22.7679671458,104488,,,Armin Sandbichler,L,180,AUT,24.1259411362,3-6 6-4 6-0,3,F,,,,,,,,,,,,,,,,,,,,298,238,580,79
-2009-M-FU-ESP-09A-2009,Spain F9,Clay,32,S,20090309,1,105097,,,Valery Rudnev,R,,RUS,21.0595482546,105032,1,,Samuel Groth,R,,AUS,21.3880903491,6-2 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,420,142,280,259
+2009-M-FU-ESP-09A-2009,Spain F9,Clay,32,S,20090309,1,105097,,,Valery Rudnev,R,,RUS,21.0595482546,105032,1,,Sam Groth,R,,AUS,21.3880903491,6-2 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,420,142,280,259
 2009-M-FU-ESP-09A-2009,Spain F9,Clay,32,S,20090309,2,105645,,LL,Alexander Lobkov,R,,RUS,18.4202600958,105581,,WC,Gerard Gallego Bertran,L,,ESP,18.6940451745,6-0 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,1088,13,,
 2009-M-FU-ESP-09A-2009,Spain F9,Clay,32,S,20090309,3,104836,,,Tiago Lopes,R,,BRA,22.2806297057,121334,,WC,Olivier Lemaitre,L,,FRA,17.6536618754,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,435,132,,
 2009-M-FU-ESP-09A-2009,Spain F9,Clay,32,S,20090309,4,105138,7,,Roberto Bautista Agut,R,183,ESP,20.900752909,103007,,,Mounir El Aarej,R,,MAR,31.7289527721,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,374,176,604,72
@@ -2394,7 +2394,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-CRO-03A-2009,Croatia F3,Clay,32,S,20090323,6,105231,,,Luka Belic,R,,CRO,20.4380561259,104135,,Q,Daniel Stoehr,U,,GER,26.0780287474,2-6 7-6(4) 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,634,60,795,35
 2009-M-FU-CRO-03A-2009,Croatia F3,Clay,32,S,20090323,7,104943,,Q,Ante Nakic Alfirevic,R,,CRO,21.7905544148,105775,,WC,Marin Draganja,R,,CRO,17.8617385352,7-5 0-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,654,57,1912,1
 2009-M-FU-CRO-03A-2009,Croatia F3,Clay,32,S,20090323,8,104410,7,,Andrei Mlendea,U,,ROU,24.6351813826,104145,,,Vjekoslav Skenderovic,U,,CRO,26.0095824778,2-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,488,106,540,87
-2009-M-FU-CRO-03A-2009,Croatia F3,Clay,32,S,20090323,9,105015,6,,Franco Skugor,R,193,CRO,21.5058179329,104178,,,Max Raditschnigg,L,,AUT,25.8809034908,2-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,474,110,536,88
+2009-M-FU-CRO-03A-2009,Croatia F3,Clay,32,S,20090323,9,105015,6,,Franko Skugor,R,193,CRO,21.5058179329,104178,,,Max Raditschnigg,L,,AUT,25.8809034908,2-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,474,110,536,88
 2009-M-FU-CRO-03A-2009,Croatia F3,Clay,32,S,20090323,10,104226,,,Bastian Knittel,L,,GER,25.6235455168,104585,,Q,Gyorgy Balazs,R,,HUN,23.6632443532,6-3 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,504,100,624,62
 2009-M-FU-CRO-03A-2009,Croatia F3,Clay,32,S,20090323,11,105091,,Q,Peter Torebko,R,,GER,21.1143052704,105005,,LL,Ivan Djurdjevic,R,,SRB,21.568788501,7-6(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,794,35,1020,16
 2009-M-FU-CRO-03A-2009,Croatia F3,Clay,32,S,20090323,12,104563,3,,Luca Vanni,R,,ITA,23.8001368925,104878,,Q,Sasa Stojisavljevic,R,,SRB,22.0698151951,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,348,188,907,24
@@ -2406,7 +2406,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-CRO-03A-2009,Croatia F3,Clay,32,S,20090323,18,104598,5,,David Savic,R,,SRB,23.5811088296,105764,,WC,Josip Mesin,U,,CRO,17.8918548939,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,448,127,,
 2009-M-FU-CRO-03A-2009,Croatia F3,Clay,32,S,20090323,19,105231,,,Luka Belic,R,,CRO,20.4380561259,105162,,Q,Paul Mihai Puscasu,R,,ROU,20.7857631759,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,634,60,872,27
 2009-M-FU-CRO-03A-2009,Croatia F3,Clay,32,S,20090323,20,104410,7,,Andrei Mlendea,U,,ROU,24.6351813826,104943,,Q,Ante Nakic Alfirevic,R,,CRO,21.7905544148,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,488,106,654,57
-2009-M-FU-CRO-03A-2009,Croatia F3,Clay,32,S,20090323,21,104226,,,Bastian Knittel,L,,GER,25.6235455168,105015,6,,Franco Skugor,R,193,CRO,21.5058179329,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,504,100,474,110
+2009-M-FU-CRO-03A-2009,Croatia F3,Clay,32,S,20090323,21,104226,,,Bastian Knittel,L,,GER,25.6235455168,105015,6,,Franko Skugor,R,193,CRO,21.5058179329,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,504,100,474,110
 2009-M-FU-CRO-03A-2009,Croatia F3,Clay,32,S,20090323,22,104563,3,,Luca Vanni,R,,ITA,23.8001368925,105091,,Q,Peter Torebko,R,,GER,21.1143052704,7-6(5) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,348,188,794,35
 2009-M-FU-CRO-03A-2009,Croatia F3,Clay,32,S,20090323,23,103229,,,Kornel Bardoczky,R,,HUN,30.7159479808,102687,,LL,Herbert Wiltschnig,R,185,AUT,33.3360711841,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,522,92,1883,2
 2009-M-FU-CRO-03A-2009,Croatia F3,Clay,32,S,20090323,24,104209,2,Q,Rainer Eitzinger,R,178,AUT,25.735797399,104601,,,Marin Bradaric,R,,CRO,23.5455167693,2-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,321,212,613,66
@@ -2641,7 +2641,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-CRO-04A-2009,Croatia F4,Clay,32,S,20090330,5,104598,4,,David Savic,R,,SRB,23.6002737851,105231,,,Luka Belic,R,,CRO,20.4572210815,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,448,127,634,60
 2009-M-FU-CRO-04A-2009,Croatia F4,Clay,32,S,20090330,6,103934,,,Aleksander Slovic,L,,SRB,27.1403148528,109178,,Q,Cosmin Georgescu,R,,ROU,20.2026009582,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,535,88,,
 2009-M-FU-CRO-04A-2009,Croatia F4,Clay,32,S,20090330,7,104888,,Q,Martin Rmus,R,,SLO,22.045174538,109144,,WC,Silvio Dadic,R,,CRO,18.392881588,6-2 2-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1060,14,1883,2
-2009-M-FU-CRO-04A-2009,Croatia F4,Clay,32,S,20090330,8,105015,5,,Franco Skugor,R,193,CRO,21.5249828884,109335,,Q,Aleksandre Kondulukov,R,,RUS,17.1882272416,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,474,110,,
+2009-M-FU-CRO-04A-2009,Croatia F4,Clay,32,S,20090330,8,105015,5,,Franko Skugor,R,193,CRO,21.5249828884,109335,,Q,Aleksandre Kondulukov,R,,RUS,17.1882272416,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,474,110,,
 2009-M-FU-CRO-04A-2009,Croatia F4,Clay,32,S,20090330,9,104410,6,,Andrei Mlendea,U,,ROU,24.6543463381,105254,,,Nikola Mektic,R,,CRO,20.2628336756,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,488,106,589,76
 2009-M-FU-CRO-04A-2009,Croatia F4,Clay,32,S,20090330,10,104458,,,Clinton Thomson,L,,GER,24.334017796,105888,,WC,Toni Androic,R,,CRO,17.2539356605,6-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,760,40,1724,2
 2009-M-FU-CRO-04A-2009,Croatia F4,Clay,32,S,20090330,11,104585,,,Gyorgy Balazs,R,,HUN,23.6824093087,105045,,Q,Robert Belak,R,,SRB,21.3826146475,6-2 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,624,62,1065,14
@@ -2653,16 +2653,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-CRO-04A-2009,Croatia F4,Clay,32,S,20090330,17,105099,1,WC,Antonio Veic,R,180,CRO,21.1115674196,104178,,,Max Raditschnigg,L,,AUT,25.9000684463,5-7 6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,235,321,536,88
 2009-M-FU-CRO-04A-2009,Croatia F4,Clay,32,S,20090330,18,104601,,,Marin Bradaric,R,,CRO,23.5646817248,105175,8,,Kristijan Mesaros,R,,CRO,20.7419575633,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,613,66,502,100
 2009-M-FU-CRO-04A-2009,Croatia F4,Clay,32,S,20090330,19,104598,4,,David Savic,R,,SRB,23.6002737851,103934,,,Aleksander Slovic,L,,SRB,27.1403148528,6-2 0-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,448,127,535,88
-2009-M-FU-CRO-04A-2009,Croatia F4,Clay,32,S,20090330,20,105015,5,,Franco Skugor,R,193,CRO,21.5249828884,104888,,Q,Martin Rmus,R,,SLO,22.045174538,7-5 1-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,474,110,1060,14
+2009-M-FU-CRO-04A-2009,Croatia F4,Clay,32,S,20090330,20,105015,5,,Franko Skugor,R,193,CRO,21.5249828884,104888,,Q,Martin Rmus,R,,SLO,22.045174538,7-5 1-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,474,110,1060,14
 2009-M-FU-CRO-04A-2009,Croatia F4,Clay,32,S,20090330,21,104410,6,,Andrei Mlendea,U,,ROU,24.6543463381,104458,,,Clinton Thomson,L,,GER,24.334017796,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,488,106,760,40
 2009-M-FU-CRO-04A-2009,Croatia F4,Clay,32,S,20090330,22,104585,,,Gyorgy Balazs,R,,HUN,23.6824093087,105243,,LL,Antonio Sancic,R,,CRO,20.34770705,6-7(4) 6-2 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,624,62,445,128
 2009-M-FU-CRO-04A-2009,Croatia F4,Clay,32,S,20090330,23,104226,,,Bastian Knittel,L,,GER,25.6427104723,105181,,,Miljan Zekic,U,,SRB,20.7145790554,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,504,100,668,54
 2009-M-FU-CRO-04A-2009,Croatia F4,Clay,32,S,20090330,24,103925,2,,Gabriel Moraru,R,180,ROU,27.1676933607,104853,,,Jiri Skoloudik,R,,CZE,22.2203969884,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,267,266,586,77
 2009-M-FU-CRO-04A-2009,Croatia F4,Clay,32,S,20090330,25,105099,1,WC,Antonio Veic,R,180,CRO,21.1115674196,104601,,,Marin Bradaric,R,,CRO,23.5646817248,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,235,321,613,66
-2009-M-FU-CRO-04A-2009,Croatia F4,Clay,32,S,20090330,26,105015,5,,Franco Skugor,R,193,CRO,21.5249828884,104598,4,,David Savic,R,,SRB,23.6002737851,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,474,110,448,127
+2009-M-FU-CRO-04A-2009,Croatia F4,Clay,32,S,20090330,26,105015,5,,Franko Skugor,R,193,CRO,21.5249828884,104598,4,,David Savic,R,,SRB,23.6002737851,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,474,110,448,127
 2009-M-FU-CRO-04A-2009,Croatia F4,Clay,32,S,20090330,27,104410,6,,Andrei Mlendea,U,,ROU,24.6543463381,104585,,,Gyorgy Balazs,R,,HUN,23.6824093087,7-5 6-0,3,QF,,,,,,,,,,,,,,,,,,,,488,106,624,62
 2009-M-FU-CRO-04A-2009,Croatia F4,Clay,32,S,20090330,28,103925,2,,Gabriel Moraru,R,180,ROU,27.1676933607,104226,,,Bastian Knittel,L,,GER,25.6427104723,4-6 6-3 7-5,3,QF,,,,,,,,,,,,,,,,,,,,267,266,504,100
-2009-M-FU-CRO-04A-2009,Croatia F4,Clay,32,S,20090330,29,105099,1,WC,Antonio Veic,R,180,CRO,21.1115674196,105015,5,,Franco Skugor,R,193,CRO,21.5249828884,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,235,321,474,110
+2009-M-FU-CRO-04A-2009,Croatia F4,Clay,32,S,20090330,29,105099,1,WC,Antonio Veic,R,180,CRO,21.1115674196,105015,5,,Franko Skugor,R,193,CRO,21.5249828884,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,235,321,474,110
 2009-M-FU-CRO-04A-2009,Croatia F4,Clay,32,S,20090330,30,103925,2,,Gabriel Moraru,R,180,ROU,27.1676933607,104410,6,,Andrei Mlendea,U,,ROU,24.6543463381,W/O,3,SF,,,,,,,,,,,,,,,,,,,,267,266,488,106
 2009-M-FU-CRO-04A-2009,Croatia F4,Clay,32,S,20090330,31,105099,1,WC,Antonio Veic,R,180,CRO,21.1115674196,103925,2,,Gabriel Moraru,R,180,ROU,27.1676933607,7-6(7) 6-3,3,F,,,,,,,,,,,,,,,,,,,,235,321,267,266
 2009-M-FU-EGY-05A-2009,Egypt F5,Clay,32,S,20090330,1,103574,1,,Teodor Dacian Craciun,R,,ROU,28.8131416838,104911,,,Mateusz Kowalczyk,R,193,POL,21.9082819986,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,339,197,808,33
@@ -2804,7 +2804,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-USA-07A-2009,USA F7,Hard,32,S,20090330,13,104101,5,,Nathan Thompson,U,,USA,26.2861054073,104213,,,Tigran Martirosyan,R,,ARM,25.7166324435,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,355,185,452,124
 2009-M-FU-USA-07A-2009,USA F7,Hard,32,S,20090330,14,104278,,Q,Matt Bocko,U,,USA,25.2977412731,104435,,,Ryan Young,U,,USA,24.4928131417,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1088,12,551,84
 2009-M-FU-USA-07A-2009,USA F7,Hard,32,S,20090330,15,104778,,,Andrey Kumantsov,R,,RUS,22.6529774127,105871,,WC,Sekou Bangoura,R,,USA,17.363449692,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,476,110,1410,4
-2009-M-FU-USA-07A-2009,USA F7,Hard,32,S,20090330,16,105032,2,,Samuel Groth,R,,AUS,21.4455852156,104612,,,Daniel Yoo,L,,KOR,23.5099247091,4-6 6-3 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,280,248,472,112
+2009-M-FU-USA-07A-2009,USA F7,Hard,32,S,20090330,16,105032,2,,Sam Groth,R,,AUS,21.4455852156,104612,,,Daniel Yoo,L,,KOR,23.5099247091,4-6 6-3 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,280,248,472,112
 2009-M-FU-USA-07A-2009,USA F7,Hard,32,S,20090330,17,105683,,Q,Milos Raonic,R,196,CAN,18.2559890486,104677,,,Artem Sitak,R,,NZL,23.1375770021,3-6 6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,730,45,468,115
 2009-M-FU-USA-07A-2009,USA F7,Hard,32,S,20090330,18,105590,,,Uladzimir Ignatik,R,,BLR,18.7104722793,104604,,Q,Ruben Gonzales,R,,PHI,23.5482546201,7-5 4-6 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,478,109,,
 2009-M-FU-USA-07A-2009,USA F7,Hard,32,S,20090330,19,104355,4,,Lester Cook,R,180,USA,24.9308692676,105671,,,Gastao Elias,R,178,POR,18.3463381246,6-4 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,334,202,644,58
@@ -2812,14 +2812,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-USA-07A-2009,USA F7,Hard,32,S,20090330,21,103358,7,,Nicolas Todero,R,183,ARG,29.9575633128,105626,,Q,Takanyi Garanganga,R,,ZIM,18.5626283368,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,405,151,1123,11
 2009-M-FU-USA-07A-2009,USA F7,Hard,32,S,20090330,22,105194,3,,Nick Lindahl,R,183,AUS,20.6625598905,105158,,,Artur Chernov,R,,RUS,20.8186173854,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,297,231,610,66
 2009-M-FU-USA-07A-2009,USA F7,Hard,32,S,20090330,23,104101,5,,Nathan Thompson,U,,USA,26.2861054073,104278,,Q,Matt Bocko,U,,USA,25.2977412731,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,355,185,1088,12
-2009-M-FU-USA-07A-2009,USA F7,Hard,32,S,20090330,24,105032,2,,Samuel Groth,R,,AUS,21.4455852156,104778,,,Andrey Kumantsov,R,,RUS,22.6529774127,7-6(3) 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,280,248,476,110
+2009-M-FU-USA-07A-2009,USA F7,Hard,32,S,20090330,24,105032,2,,Sam Groth,R,,AUS,21.4455852156,104778,,,Andrey Kumantsov,R,,RUS,22.6529774127,7-6(3) 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,280,248,476,110
 2009-M-FU-USA-07A-2009,USA F7,Hard,32,S,20090330,25,105590,,,Uladzimir Ignatik,R,,BLR,18.7104722793,105683,,Q,Milos Raonic,R,196,CAN,18.2559890486,6-0 6-1,3,QF,,,,,,,,,,,,,,,,,,,,478,109,730,45
 2009-M-FU-USA-07A-2009,USA F7,Hard,32,S,20090330,26,104070,6,,Jesse Witten,R,178,USA,26.4558521561,104355,4,,Lester Cook,R,180,USA,24.9308692676,6-4 4-6 7-6(6),3,QF,,,,,,,,,,,,,,,,,,,,393,159,334,202
 2009-M-FU-USA-07A-2009,USA F7,Hard,32,S,20090330,27,103358,7,,Nicolas Todero,R,183,ARG,29.9575633128,105194,3,,Nick Lindahl,R,183,AUS,20.6625598905,7-5 4-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,405,151,297,231
-2009-M-FU-USA-07A-2009,USA F7,Hard,32,S,20090330,28,105032,2,,Samuel Groth,R,,AUS,21.4455852156,104101,5,,Nathan Thompson,U,,USA,26.2861054073,W/O,3,QF,,,,,,,,,,,,,,,,,,,,280,248,355,185
+2009-M-FU-USA-07A-2009,USA F7,Hard,32,S,20090330,28,105032,2,,Sam Groth,R,,AUS,21.4455852156,104101,5,,Nathan Thompson,U,,USA,26.2861054073,W/O,3,QF,,,,,,,,,,,,,,,,,,,,280,248,355,185
 2009-M-FU-USA-07A-2009,USA F7,Hard,32,S,20090330,29,104070,6,,Jesse Witten,R,178,USA,26.4558521561,105590,,,Uladzimir Ignatik,R,,BLR,18.7104722793,6-4 7-5,3,SF,,,,,,,,,,,,,,,,,,,,393,159,478,109
-2009-M-FU-USA-07A-2009,USA F7,Hard,32,S,20090330,30,105032,2,,Samuel Groth,R,,AUS,21.4455852156,103358,7,,Nicolas Todero,R,183,ARG,29.9575633128,6-4 7-6(4),3,SF,,,,,,,,,,,,,,,,,,,,280,248,405,151
-2009-M-FU-USA-07A-2009,USA F7,Hard,32,S,20090330,31,105032,2,,Samuel Groth,R,,AUS,21.4455852156,104070,6,,Jesse Witten,R,178,USA,26.4558521561,6-2 3-0 RET,3,F,,,,,,,,,,,,,,,,,,,,280,248,393,159
+2009-M-FU-USA-07A-2009,USA F7,Hard,32,S,20090330,30,105032,2,,Sam Groth,R,,AUS,21.4455852156,103358,7,,Nicolas Todero,R,183,ARG,29.9575633128,6-4 7-6(4),3,SF,,,,,,,,,,,,,,,,,,,,280,248,405,151
+2009-M-FU-USA-07A-2009,USA F7,Hard,32,S,20090330,31,105032,2,,Sam Groth,R,,AUS,21.4455852156,104070,6,,Jesse Witten,R,178,USA,26.4558521561,6-2 3-0 RET,3,F,,,,,,,,,,,,,,,,,,,,280,248,393,159
 2009-M-FU-CRO-05A-2009,Croatia F5TBC,Clay,32,S,20090406,1,103925,1,,Gabriel Moraru,R,180,ROU,27.1868583162,102687,,Q,Herbert Wiltschnig,R,185,AUT,33.3744010951,6-3 5-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,274,259,1552,3
 2009-M-FU-CRO-05A-2009,Croatia F5TBC,Clay,32,S,20090406,2,102381,,,Werner Eschauer,R,188,AUT,34.945927447,105386,,,Janez Semrajc,U,,SLO,19.7015742642,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,721,46,554,84
 2009-M-FU-CRO-05A-2009,Croatia F5TBC,Clay,32,S,20090406,3,104458,,Q,Clinton Thomson,L,,GER,24.3531827515,109144,,WC,Silvio Dadic,R,,CRO,18.4120465435,2-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,757,40,1881,2
@@ -3889,7 +3889,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-BUL-01A-2009,Bulgaria F1,Clay,32,S,20090504,13,104893,8,,Maxime Authom,R,,BEL,22.0999315537,121378,,WC,Angel Mirchev,R,,BUL,18.6228610541,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,691,50,,
 2009-M-FU-BUL-01A-2009,Bulgaria F1,Clay,32,S,20090504,14,104847,,,Adrien Bossel,L,,SUI,22.3490759754,105557,,Q,Gibril Diarra,U,,AUT,18.9404517454,7-6(4) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,784,36,,
 2009-M-FU-BUL-01A-2009,Bulgaria F1,Clay,32,S,20090504,15,105662,,WC,Tomislav Jotovski,R,,MKD,18.5188227242,120300,,Q,Rumen Gospodinov,U,,BUL,21.3032169747,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,1710,2
-2009-M-FU-BUL-01A-2009,Bulgaria F1,Clay,32,S,20090504,16,103296,2,,Ivaylo Traykov,R,188,BUL,30.379192334,105586,,WC,Alexander Lazov,U,,BUL,18.8199863107,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,446,121,1091,12
+2009-M-FU-BUL-01A-2009,Bulgaria F1,Clay,32,S,20090504,16,103296,2,,Ivaylo Traykov,R,188,BUL,30.379192334,105586,,WC,Alexandar Lazov,U,,BUL,18.8199863107,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,446,121,1091,12
 2009-M-FU-BUL-01A-2009,Bulgaria F1,Clay,32,S,20090504,17,105357,1,,John Millman,R,183,AUS,19.8877481177,103936,,,Todor Enev,R,,BUL,27.2334017796,3-6 6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,423,133,738,42
 2009-M-FU-BUL-01A-2009,Bulgaria F1,Clay,32,S,20090504,18,104359,6,,Matteo Volante,U,,ITA,25.0130047912,104584,,,Simeon Ivanov,R,,BUL,23.780971937,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,644,58,741,42
 2009-M-FU-BUL-01A-2009,Bulgaria F1,Clay,32,S,20090504,19,104910,4,,Tihomir Grozdanov,U,,BUL,22.0150581793,105390,,,Vasil Mladenov,R,,BUL,19.7618069815,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,595,71,888,24
@@ -4167,7 +4167,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-ARG-05B-2009,Argentina F5,Clay,32,S,20090511,12,105120,4,,Andres Molteni,R,,ARG,21.1553730322,121142,,Q,Erick Reyes,U,,BOL,17.8863791923,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,529,90,1713,2
 2009-M-FU-ARG-05B-2009,Argentina F5,Clay,32,S,20090511,13,105298,,,Bruno Tiberti,U,,ARG,20.1943874059,105110,8,,Federico Cavallero,L,,ARG,21.1854893908,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,744,41,691,51
 2009-M-FU-ARG-05B-2009,Argentina F5,Clay,32,S,20090511,14,105306,,Q,Rodrigo Gomez Saigos,L,,ARG,20.1505817933,104923,,Q,Martin Rios Benitez,U,,ARG,21.9822039699,6-3 6-7(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1104,12,1312,6
-2009-M-FU-ARG-05B-2009,Argentina F5,Clay,32,S,20090511,15,105753,,WC,Juan Vazquez Valenzuela,R,,ARG,18.0698151951,106043,,Q,Diego Sebastian Schwartzman,R,170,ARG,16.733744011,7-6(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1050,14,,
+2009-M-FU-ARG-05B-2009,Argentina F5,Clay,32,S,20090511,15,105753,,WC,Juan Vazquez Valenzuela,R,,ARG,18.0698151951,106043,,Q,Diego Schwartzman,R,170,ARG,16.733744011,7-6(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1050,14,,
 2009-M-FU-ARG-05B-2009,Argentina F5,Clay,32,S,20090511,16,105550,2,,Guido Pella,L,185,ARG,18.984257358,121400,,WC,Diego Prado,U,,ARG,19.6002737851,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,449,118,,
 2009-M-FU-ARG-05B-2009,Argentina F5,Clay,32,S,20090511,17,104815,1,,Nicolas Jara Lozano,U,,ARG,22.6119096509,104687,,Q,Guillermo Bujniewicz,R,,ARG,23.2032854209,1-6 6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,436,126,1110,12
 2009-M-FU-ARG-05B-2009,Argentina F5,Clay,32,S,20090511,18,105729,,,Nicolas Pastor,R,,ARG,18.1656399726,105303,,,Rodrigo Perez,R,,CHI,20.1779603012,4-6 6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,772,38,780,36
@@ -4257,7 +4257,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-BUL-02A-2009,Bulgaria F2,Clay,32,S,20090511,9,104910,7,,Tihomir Grozdanov,U,,BUL,22.0342231348,104176,,Q,Ricardo Soriano Gallo,U,,ESP,26.0177960301,6-1 6-7(3) 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,591,71,,
 2009-M-FU-BUL-02A-2009,Bulgaria F2,Clay,32,S,20090511,10,105181,,,Miljan Zekic,U,,SRB,20.8295687885,105205,,,Frank Wintermantel,L,,GER,20.7227926078,1-6 7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,676,53,670,54
 2009-M-FU-BUL-02A-2009,Bulgaria F2,Clay,32,S,20090511,11,104847,,,Adrien Bossel,L,,SUI,22.3682409309,104934,,Q,Thomas Kromann,L,,DEN,21.9438740589,4-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,782,36,908,22
-2009-M-FU-BUL-02A-2009,Bulgaria F2,Clay,32,S,20090511,12,104696,3,,Bogdan Leonte,R,,ROU,23.1759069131,105586,,Q,Alexander Lazov,U,,BUL,18.8391512663,0-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,522,92,1091,12
+2009-M-FU-BUL-02A-2009,Bulgaria F2,Clay,32,S,20090511,12,104696,3,,Bogdan Leonte,R,,ROU,23.1759069131,105586,,Q,Alexandar Lazov,U,,BUL,18.8391512663,0-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,522,92,1091,12
 2009-M-FU-BUL-02A-2009,Bulgaria F2,Clay,32,S,20090511,13,104893,,,Maxime Authom,R,,BEL,22.1190965092,105236,8,,Pirmin Haenle,R,,GER,20.5256673511,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,694,50,618,64
 2009-M-FU-BUL-02A-2009,Bulgaria F2,Clay,32,S,20090511,14,104234,,Q,Predrag Rusevski,R,,MKD,25.7056810404,105390,,WC,Vasil Mladenov,R,,BUL,19.780971937,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1182,9,890,24
 2009-M-FU-BUL-02A-2009,Bulgaria F2,Clay,32,S,20090511,15,105472,,,Nils Langer,R,,GER,19.2908966461,121379,,WC,Slavi Delchev,U,,BUL,33.273100616,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,725,45,,
@@ -4654,7 +4654,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-BUL-03A-2009,Bulgaria F3,Clay,32,S,20090518,3,104234,,WC,Predrag Rusevski,R,,MKD,25.7248459959,105266,,,Frederic De Fays,R,,BEL,20.3394934976,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1175,9,813,31
 2009-M-FU-BUL-03A-2009,Bulgaria F3,Clay,32,S,20090518,4,104893,8,,Maxime Authom,R,,BEL,22.1382614648,103936,,,Todor Enev,R,,BUL,27.2717316906,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,722,44,729,43
 2009-M-FU-BUL-03A-2009,Bulgaria F3,Clay,32,S,20090518,5,105263,,Q,Joel Lindner,L,,AUS,20.3641341547,105236,4,,Pirmin Haenle,R,,GER,20.5448323066,2-6 7-6(6) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,901,22,615,64
-2009-M-FU-BUL-03A-2009,Bulgaria F3,Clay,32,S,20090518,6,104847,,,Adrien Bossel,L,,SUI,22.3874058864,105586,,Q,Alexander Lazov,U,,BUL,18.8583162218,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,767,37,1220,8
+2009-M-FU-BUL-03A-2009,Bulgaria F3,Clay,32,S,20090518,6,104847,,,Adrien Bossel,L,,SUI,22.3874058864,105586,,Q,Alexandar Lazov,U,,BUL,18.8583162218,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,767,37,1220,8
 2009-M-FU-BUL-03A-2009,Bulgaria F3,Clay,32,S,20090518,7,106220,,WC,Dimitar Kuzmanov,R,,BUL,15.8056125941,105394,,,Ilija Martinoski,R,,MKD,19.7891854894,7-6(5) 3-3 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,842,28
 2009-M-FU-BUL-03A-2009,Bulgaria F3,Clay,32,S,20090518,8,105205,6,,Frank Wintermantel,L,,GER,20.7419575633,104446,,Q,Dinko Halachev,U,,BUL,24.5694729637,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,667,54,1701,2
 2009-M-FU-BUL-03A-2009,Bulgaria F3,Clay,32,S,20090518,9,109458,,Q,Alberto Rodriguez Cervantes,U,,ESP,18.855578371,105181,7,,Miljan Zekic,U,,SRB,20.848733744,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,673,53
@@ -5022,7 +5022,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-BRA-06A-2009,Brazil F4,Clay,32,S,20090525,30,105262,8,,Fernando Romboli,R,180,BRA,20.386036961,104608,7,,Rodrigo Guidolin,R,,BRA,23.6769336071,6-7(4) 6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,491,99,487,100
 2009-M-FU-BRA-06A-2009,Brazil F4,Clay,32,S,20090525,31,105262,8,,Fernando Romboli,R,180,BRA,20.386036961,103395,1,,Julio Silva,R,173,BRA,29.9000684463,6-4 3-6 6-4,3,F,,,,,,,,,,,,,,,,,,,,491,99,282,230
 2009-M-FU-BUL-04A-2009,Bulgaria F4,Clay,32,S,20090525,1,103296,1,,Ivaylo Traykov,R,188,BUL,30.4366872005,105562,,Q,Alexey Golovachev,U,,RUS,18.9815195072,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,471,107,1840,2
-2009-M-FU-BUL-04A-2009,Bulgaria F4,Clay,32,S,20090525,2,105586,,,Alexander Lazov,U,,BUL,18.8774811773,104878,,,Sasa Stojisavljevic,R,,SRB,22.2422997947,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1213,8,997,16
+2009-M-FU-BUL-04A-2009,Bulgaria F4,Clay,32,S,20090525,2,105586,,,Alexandar Lazov,U,,BUL,18.8774811773,104878,,,Sasa Stojisavljevic,R,,SRB,22.2422997947,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1213,8,997,16
 2009-M-FU-BUL-04A-2009,Bulgaria F4,Clay,32,S,20090525,3,105305,,,Valentin Dimov,R,,BUL,20.2026009582,105266,,,Frederic De Fays,R,,BEL,20.3586584531,6-4 6-7(7) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,871,24,827,29
 2009-M-FU-BUL-04A-2009,Bulgaria F4,Clay,32,S,20090525,4,105181,7,,Miljan Zekic,U,,SRB,20.8678986995,105427,,Q,Milos Sekulic,R,,SWE,19.5537303217,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,678,52,1213,8
 2009-M-FU-BUL-04A-2009,Bulgaria F4,Clay,32,S,20090525,5,104910,4,,Tihomir Grozdanov,U,,BUL,22.0725530459,105717,,,Tzvetan Mihov,R,,BUL,18.264202601,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,557,79,1145,10
@@ -5037,7 +5037,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-BUL-04A-2009,Bulgaria F4,Clay,32,S,20090525,14,109458,,Q,Alberto Rodriguez Cervantes,U,,ESP,18.8747433265,105113,,,Patrik Rosenholm,R,,SWE,21.2210814511,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,739,40
 2009-M-FU-BUL-04A-2009,Bulgaria F4,Clay,32,S,20090525,15,104723,,Q,Juan Beaus Barquin,U,,ESP,23.0937713895,120488,,WC,Andreas Neykov,R,,BUL,17.8617385352,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1242,7,,
 2009-M-FU-BUL-04A-2009,Bulgaria F4,Clay,32,S,20090525,16,103806,2,,Catalin Ionut Gard,R,,ROU,27.8740588638,121380,,WC,Ivan Petrov,U,,BUL,17.234770705,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2009-M-FU-BUL-04A-2009,Bulgaria F4,Clay,32,S,20090525,17,105586,,,Alexander Lazov,U,,BUL,18.8774811773,103296,1,,Ivaylo Traykov,R,188,BUL,30.4366872005,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1213,8,471,107
+2009-M-FU-BUL-04A-2009,Bulgaria F4,Clay,32,S,20090525,17,105586,,,Alexandar Lazov,U,,BUL,18.8774811773,103296,1,,Ivaylo Traykov,R,188,BUL,30.4366872005,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1213,8,471,107
 2009-M-FU-BUL-04A-2009,Bulgaria F4,Clay,32,S,20090525,18,105305,,,Valentin Dimov,R,,BUL,20.2026009582,105181,7,,Miljan Zekic,U,,SRB,20.8678986995,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,871,24,678,52
 2009-M-FU-BUL-04A-2009,Bulgaria F4,Clay,32,S,20090525,19,104446,,Q,Dinko Halachev,U,,BUL,24.5886379192,104910,4,,Tihomir Grozdanov,U,,BUL,22.0725530459,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1694,2,557,79
 2009-M-FU-BUL-04A-2009,Bulgaria F4,Clay,32,S,20090525,20,104234,,SE,Predrag Rusevski,R,,MKD,25.7440109514,104584,,,Simeon Ivanov,R,,BUL,23.8384668036,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,848,26,883,23
@@ -5045,7 +5045,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-BUL-04A-2009,Bulgaria F4,Clay,32,S,20090525,22,104914,3,,Ervin Eleskovic,R,,SWE,22.0479123888,105485,,Q,Krishananth Balakrishnan,R,,AUS,19.2580424367,4-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,501,96,1253,7
 2009-M-FU-BUL-04A-2009,Bulgaria F4,Clay,32,S,20090525,23,109458,,Q,Alberto Rodriguez Cervantes,U,,ESP,18.8747433265,105516,,Q,Serafim Grozev,R,,BUL,19.1375770021,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,1400,4
 2009-M-FU-BUL-04A-2009,Bulgaria F4,Clay,32,S,20090525,24,103806,2,,Catalin Ionut Gard,R,,ROU,27.8740588638,104723,,Q,Juan Beaus Barquin,U,,ESP,23.0937713895,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,1242,7
-2009-M-FU-BUL-04A-2009,Bulgaria F4,Clay,32,S,20090525,25,105305,,,Valentin Dimov,R,,BUL,20.2026009582,105586,,,Alexander Lazov,U,,BUL,18.8774811773,6-3 7-5,3,QF,,,,,,,,,,,,,,,,,,,,871,24,1213,8
+2009-M-FU-BUL-04A-2009,Bulgaria F4,Clay,32,S,20090525,25,105305,,,Valentin Dimov,R,,BUL,20.2026009582,105586,,,Alexandar Lazov,U,,BUL,18.8774811773,6-3 7-5,3,QF,,,,,,,,,,,,,,,,,,,,871,24,1213,8
 2009-M-FU-BUL-04A-2009,Bulgaria F4,Clay,32,S,20090525,26,104446,,Q,Dinko Halachev,U,,BUL,24.5886379192,104234,,SE,Predrag Rusevski,R,,MKD,25.7440109514,6-7(4) 6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,1694,2,848,26
 2009-M-FU-BUL-04A-2009,Bulgaria F4,Clay,32,S,20090525,27,104914,3,,Ervin Eleskovic,R,,SWE,22.0479123888,104186,,,Gleb Alekseenko,R,,UKR,26.0177960301,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,501,96,930,20
 2009-M-FU-BUL-04A-2009,Bulgaria F4,Clay,32,S,20090525,28,103806,2,,Catalin Ionut Gard,R,,ROU,27.8740588638,109458,,Q,Alberto Rodriguez Cervantes,U,,ESP,18.8747433265,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,,
@@ -5964,7 +5964,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-USA-12A-2009,USA F12,Hard,32,S,20090608,11,104733,,Q,Greg Ouellette,U,,USA,23.0554414784,104997,,,Igor Sijsling,R,190,NED,21.8069815195,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,605,65,447,116
 2009-M-FU-USA-12A-2009,USA F12,Hard,32,S,20090608,12,104355,4,,Lester Cook,R,180,USA,25.1225188227,103516,,PR,Nathan Healey,R,180,AUS,29.2785763176,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,341,170,943,18
 2009-M-FU-USA-12A-2009,USA F12,Hard,32,S,20090608,13,104760,,,Scott Oudsema,R,190,USA,22.9377138946,105021,6,,Andrew Coelho,L,180,AUS,21.6837782341,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,523,85,394,139
-2009-M-FU-USA-12A-2009,USA F12,Hard,32,S,20090608,14,104864,,,Alex Kuznetsov,R,183,USA,22.3381245722,111456,,WC,Mackenzie Mcdonald,R,,USA,14.1464750171,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,416,130,,
+2009-M-FU-USA-12A-2009,USA F12,Hard,32,S,20090608,14,104864,,,Alex Kuznetsov,R,183,USA,22.3381245722,111456,,WC,Mackenzie McDonald,R,,USA,14.1464750171,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,416,130,,
 2009-M-FU-USA-12A-2009,USA F12,Hard,32,S,20090608,15,105572,,WC,Austin Krajicek,L,,USA,18.9787816564,104652,,,Todd Paul,L,180,USA,23.4496919918,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1062,12,613,62
 2009-M-FU-USA-12A-2009,USA F12,Hard,32,S,20090608,16,104113,2,,Carlos Salamanca,L,196,COL,26.3956194387,105030,,WC,Michael Venus,R,,NZL,21.6454483231,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,274,230,1693,2
 2009-M-FU-USA-12A-2009,USA F12,Hard,32,S,20090608,17,104677,,Q,Artem Sitak,R,,NZL,23.3292265572,105292,,Q,Alejandro Gonzalez,R,,COL,20.3312799452,6-7(6) 6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,524,85,441,118
@@ -5993,7 +5993,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-ARG-09A-2009,Argentina F9,Clay,32,S,20090615,9,105160,,LL,Guillermo Duran,R,,ARG,21.0239561944,104621,5,,Juan Manuel Valverde,R,,ARG,23.6796714579,6-3 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,923,20,473,104
 2009-M-FU-ARG-09A-2009,Argentina F9,Clay,32,S,20090615,10,105899,,Q,Martin Cuevas,R,,URU,17.4182067077,121194,,WC,Franco Echenique,U,,ARG,17.2648870637,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1335,5,,
 2009-M-FU-ARG-09A-2009,Argentina F9,Clay,32,S,20090615,11,105729,,,Nicolas Pastor,R,,ARG,18.2614647502,105090,,,Marcos Conocente,R,,ARG,21.3470225873,1-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,715,43,716,43
-2009-M-FU-ARG-09A-2009,Argentina F9,Clay,32,S,20090615,12,104033,3,,Juan Pablo Villar,U,,ARG,26.932238193,106043,,WC,Diego Sebastian Schwartzman,R,170,ARG,16.8295687885,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,429,123,,
+2009-M-FU-ARG-09A-2009,Argentina F9,Clay,32,S,20090615,12,104033,3,,Juan Pablo Villar,U,,ARG,26.932238193,106043,,WC,Diego Schwartzman,R,170,ARG,16.8295687885,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,429,123,,
 2009-M-FU-ARG-09A-2009,Argentina F9,Clay,32,S,20090615,13,104828,7,,Alejandro Kon,U,,ARG,22.5954825462,105477,,,Marco Trungelliti,R,,ARG,19.370294319,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,506,92,564,76
 2009-M-FU-ARG-09A-2009,Argentina F9,Clay,32,S,20090615,14,105219,,,Miguel Cicenia,R,,VEN,20.7310061602,105431,,Q,Ariel Behar,R,,URU,19.5893223819,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,707,45,952,18
 2009-M-FU-ARG-09A-2009,Argentina F9,Clay,32,S,20090615,15,121216,,Q,Rodrigo Albano,U,,ARG,19.0910335387,105367,,,Daniel Alejandro Lopez Cassaccia,R,,PAR,19.9507186858,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,567,74
@@ -8162,7 +8162,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-BRA-12B-2009,Brazil F12,Clay,32,S,20090727,8,102822,6,,Carlos Oliveira,R,,BRA,33.0732375086,105274,,,Patricio Heras,R,,ARG,20.5119780972,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,553,69,927,17
 2009-M-FU-BRA-12B-2009,Brazil F12,Clay,32,S,20090727,9,104826,7,,Federico Sansonetti,R,,URU,22.7214236824,104538,,,Joaquin Jesus Monteferrario,R,,ARG,24.2874743326,4-6 7-6(6) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,570,65,815,24
 2009-M-FU-BRA-12B-2009,Brazil F12,Clay,32,S,20090727,10,105293,,,Ricardo Urzua Rivera,R,,CHI,20.4572210815,105584,,WC,Tiago Slonik,U,,BRA,19.0691307324,6-4 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,883,20,,
-2009-M-FU-BRA-12B-2009,Brazil F12,Clay,32,S,20090727,11,105411,,,Gustavo Junqueira De Andrade,R,,BRA,19.871321013,106043,,Q,Diego Sebastian Schwartzman,R,170,ARG,16.9445585216,4-6 7-6(3) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,976,15,,
+2009-M-FU-BRA-12B-2009,Brazil F12,Clay,32,S,20090727,11,105411,,,Gustavo Junqueira De Andrade,R,,BRA,19.871321013,106043,,Q,Diego Schwartzman,R,170,ARG,16.9445585216,4-6 7-6(3) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,976,15,,
 2009-M-FU-BRA-12B-2009,Brazil F12,Clay,32,S,20090727,12,104033,3,,Juan Pablo Villar,U,,ARG,27.0472279261,120972,,Q,Joao Oliveira,U,,BRA,19.227926078,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,402,119,1590,2
 2009-M-FU-BRA-12B-2009,Brazil F12,Clay,32,S,20090727,13,105125,,Q,Edesio Semencato,U,,BRA,21.3497604381,105309,8,,Agustin Picco,U,,ARG,20.34770705,6-4 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1005,13,586,61
 2009-M-FU-BRA-12B-2009,Brazil F12,Clay,32,S,20090727,14,104923,,Q,Martin Rios Benitez,U,,ARG,22.1930184805,105674,,Q,Carlos Eduardo Severino,U,,BRA,18.6420260096,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1841,1,1205,7
@@ -8715,7 +8715,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-SRB-04A-2009,Serbia F4,Clay,32,S,20090803,3,105396,,,Tomer Hodorov,R,,ISR,19.9917864476,105717,,,Tzvetan Mihov,R,,BUL,18.4558521561,6-0 3-6 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,1149,8,1103,9
 2009-M-FU-SRB-04A-2009,Serbia F4,Clay,32,S,20090803,4,104948,,,Petar Jelenic,R,,CRO,22.1409993155,104306,7,,Ivan Bjelica,R,,SRB,25.4647501711,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,733,32,651,47
 2009-M-FU-SRB-04A-2009,Serbia F4,Clay,32,S,20090803,5,103704,3,,Vladimir Obradovic,R,196,SRB,28.4928131417,103872,,,Dimitar Grabuloski,U,,MKD,27.742642026,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,469,89,994,13
-2009-M-FU-SRB-04A-2009,Serbia F4,Clay,32,S,20090803,6,105440,,Q,Arsenije Zlatanovic,R,193,SRB,19.6632443532,105586,,,Alexander Lazov,U,,BUL,19.0691307324,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1395,4,1076,10
+2009-M-FU-SRB-04A-2009,Serbia F4,Clay,32,S,20090803,6,105440,,Q,Arsenije Zlatanovic,R,193,SRB,19.6632443532,105586,,,Alexandar Lazov,U,,BUL,19.0691307324,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1395,4,1076,10
 2009-M-FU-SRB-04A-2009,Serbia F4,Clay,32,S,20090803,7,121180,,Q,Stefan Bojic,U,,SRB,19.3730321697,121485,,WC,Vukasin Teofanovic,U,,SRB,17.0239561944,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1524,2,,
 2009-M-FU-SRB-04A-2009,Serbia F4,Clay,32,S,20090803,8,105114,,WC,Dejan Katic,R,,SRB,21.4072553046,104910,5,,Tihomir Grozdanov,U,,BUL,22.264202601,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1369,4,586,60
 2009-M-FU-SRB-04A-2009,Serbia F4,Clay,32,S,20090803,9,105583,,,Dusan Lajovic,R,180,SRB,19.0937713895,105181,8,,Miljan Zekic,U,,SRB,21.0595482546,3-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,948,16,709,36
@@ -9215,7 +9215,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-SRB-05A-2009,Serbia F5,Clay,32,S,20090810,7,105302,,,Ante Pavic,R,,CRO,20.4271047228,105882,,Q,Stefano Travaglia,U,,ITA,17.6454483231,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,990,13,1391,4
 2009-M-FU-SRB-05A-2009,Serbia F5,Clay,32,S,20090810,8,104306,5,,Ivan Bjelica,R,,SRB,25.4839151266,104888,,Q,Martin Rmus,R,,SLO,22.4093086927,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,643,47,1153,8
 2009-M-FU-SRB-05A-2009,Serbia F5,Clay,32,S,20090810,9,105806,,Q,Mirza Basic,R,,BIH,18.0807665982,104481,8,,Aleksandar Cvetkov,U,,SRB,24.5749486653,2-6 6-4 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,1197,7,734,31
-2009-M-FU-SRB-05A-2009,Serbia F5,Clay,32,S,20090810,10,105586,,,Alexander Lazov,U,,BUL,19.0882956879,104878,,,Sasa Stojisavljevic,R,,SRB,22.4531143053,5-7 7-6(3) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1070,10,1023,12
+2009-M-FU-SRB-05A-2009,Serbia F5,Clay,32,S,20090810,10,105586,,,Alexandar Lazov,U,,BUL,19.0882956879,104878,,,Sasa Stojisavljevic,R,,SRB,22.4531143053,5-7 7-6(3) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1070,10,1023,12
 2009-M-FU-SRB-05A-2009,Serbia F5,Clay,32,S,20090810,11,105114,,Q,Dejan Katic,R,,SRB,21.4264202601,105630,,,Tomislav Ternar,U,,SLO,18.8993839836,3-6 6-3 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,1356,4,979,14
 2009-M-FU-SRB-05A-2009,Serbia F5,Clay,32,S,20090810,12,105254,3,,Nikola Mektic,R,,CRO,20.6269678303,105661,,,Ilija Vucic,R,145,SRB,18.7871321013,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,533,71,992,13
 2009-M-FU-SRB-05A-2009,Serbia F5,Clay,32,S,20090810,13,105583,,,Dusan Lajovic,R,180,SRB,19.112936345,109144,,LL,Silvio Dadic,R,,CRO,18.7570157426,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,939,16,1450,3
@@ -9226,7 +9226,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-SRB-05A-2009,Serbia F5,Clay,32,S,20090810,18,105045,,Q,Robert Belak,R,,SRB,21.7467488022,105181,6,,Miljan Zekic,U,,SRB,21.0787132101,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1185,7,700,36
 2009-M-FU-SRB-05A-2009,Serbia F5,Clay,32,S,20090810,19,103934,4,,Aleksander Slovic,L,,SRB,27.5044490075,105717,,,Tzvetan Mihov,R,,BUL,18.4750171116,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,630,50,1099,9
 2009-M-FU-SRB-05A-2009,Serbia F5,Clay,32,S,20090810,20,104306,5,,Ivan Bjelica,R,,SRB,25.4839151266,105302,,,Ante Pavic,R,,CRO,20.4271047228,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,643,47,990,13
-2009-M-FU-SRB-05A-2009,Serbia F5,Clay,32,S,20090810,21,105806,,Q,Mirza Basic,R,,BIH,18.0807665982,105586,,,Alexander Lazov,U,,BUL,19.0882956879,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1197,7,1070,10
+2009-M-FU-SRB-05A-2009,Serbia F5,Clay,32,S,20090810,21,105806,,Q,Mirza Basic,R,,BIH,18.0807665982,105586,,,Alexandar Lazov,U,,BUL,19.0882956879,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1197,7,1070,10
 2009-M-FU-SRB-05A-2009,Serbia F5,Clay,32,S,20090810,22,105114,,Q,Dejan Katic,R,,SRB,21.4264202601,105254,3,,Nikola Mektic,R,,CRO,20.6269678303,2-6 7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1356,4,533,71
 2009-M-FU-SRB-05A-2009,Serbia F5,Clay,32,S,20090810,23,105583,,,Dusan Lajovic,R,180,SRB,19.112936345,105073,,,Zoran Golubovic,R,,SLO,21.5742642026,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,939,16,886,19
 2009-M-FU-SRB-05A-2009,Serbia F5,Clay,32,S,20090810,24,105590,2,,Uladzimir Ignatik,R,,BLR,19.0746064339,105005,,,Ivan Djurdjevic,R,,SRB,21.9520876112,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,512,77,1082,10
@@ -10082,7 +10082,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-ITA-25A-2009,Italy F25,Hard,32,S,20090824,6,105882,,WC,Stefano Travaglia,U,,ITA,17.6837782341,105534,,,Erik Crepaldi,L,,ITA,19.3073237509,7-6(5) 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1378,4,779,25
 2009-M-FU-ITA-25A-2009,Italy F25,Hard,32,S,20090824,7,105155,,,Pedro Sousa,R,180,POR,21.2429842574,105452,,WC,Francesco Vilardo,R,,ITA,19.6550308008,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,670,40,1585,2
 2009-M-FU-ITA-25A-2009,Italy F25,Hard,32,S,20090824,8,104563,8,,Luca Vanni,R,,ITA,24.2217659138,104152,,,David Canudas Fernandez,U,,ESP,26.3983572895,6-4 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,546,65,620,49
-2009-M-FU-ITA-25A-2009,Italy F25,Hard,32,S,20090824,9,103437,7,,Francesco Piccari,R,,ITA,29.9630390144,110474,,Q,David Ohare,U,,IRL,19.2306639288,7-6(0) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,524,72,,
+2009-M-FU-ITA-25A-2009,Italy F25,Hard,32,S,20090824,9,103437,7,,Francesco Piccari,R,,ITA,29.9630390144,110474,,Q,David O'Hare,U,,IRL,19.2306639288,7-6(0) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,524,72,,
 2009-M-FU-ITA-25A-2009,Italy F25,Hard,32,S,20090824,10,104694,,,Mathieu Guenat,R,,SUI,23.4688569473,104038,,,Andrea Agazzi,U,,ITA,27.0882956879,7-6(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,564,62,982,12
 2009-M-FU-ITA-25A-2009,Italy F25,Hard,32,S,20090824,11,104622,,,Massimo Capone,R,,ITA,23.8658453114,104168,,,Enrico Iannuzzi,R,,ITA,26.3299110198,6-4 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,959,14,1008,12
 2009-M-FU-ITA-25A-2009,Italy F25,Hard,32,S,20090824,12,103110,3,,Daniele Bracciali,R,180,ITA,31.6194387406,105578,,Q,Cristian Rodriguez,R,,COL,19.1676933607,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,347,136,1375,4
@@ -10389,7 +10389,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-BUL-07A-2009,Bulgaria F7,Clay,32,S,20090831,3,104972,,,Mauricio Alvarez Guzman,R,,CHI,22.1437371663,105662,,LL,Tomislav Jotovski,R,,MKD,18.8446269678,2-4 RET,3,R32,,,,,,,,,,,,,,,,,,,,1341,4,1821,1
 2009-M-FU-BUL-07A-2009,Bulgaria F7,Clay,32,S,20090831,4,104791,8,,Oscar Sabate Bretos,R,,ESP,23.0006844627,104446,,,Dinko Halachev,U,,BUL,24.8569472964,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,715,33,1099,9
 2009-M-FU-BUL-07A-2009,Bulgaria F7,Clay,32,S,20090831,5,104910,4,,Tihomir Grozdanov,U,,BUL,22.340862423,110733,,Q,Adnan Al Mahmoud,R,,ROU,21.234770705,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,582,60,1647,2
-2009-M-FU-BUL-07A-2009,Bulgaria F7,Clay,32,S,20090831,6,105586,,,Alexander Lazov,U,,BUL,19.1457905544,104186,,,Gleb Alekseenko,R,,UKR,26.2861054073,6-4 6-7(6) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1030,11,809,23
+2009-M-FU-BUL-07A-2009,Bulgaria F7,Clay,32,S,20090831,6,105586,,,Alexandar Lazov,U,,BUL,19.1457905544,104186,,,Gleb Alekseenko,R,,UKR,26.2861054073,6-4 6-7(6) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1030,11,809,23
 2009-M-FU-BUL-07A-2009,Bulgaria F7,Clay,32,S,20090831,7,105665,,Q,Robert Coman,R,,ROU,18.8281998631,104428,,Q,Petar Trendafilov,R,,BUL,24.9691991786,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1449,3,1435,3
 2009-M-FU-BUL-07A-2009,Bulgaria F7,Clay,32,S,20090831,8,105181,7,,Miljan Zekic,U,,SRB,21.1362080767,121510,,WC,Dimitar Petrov,U,,BUL,15.8466803559,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,717,32,,
 2009-M-FU-BUL-07A-2009,Bulgaria F7,Clay,32,S,20090831,9,105124,,,Carlos Calderon Rodriguez,R,,ESP,21.4510609172,104481,6,,Aleksandar Cvetkov,U,,SRB,24.6324435318,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,718,32,721,31
@@ -10402,7 +10402,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-BUL-07A-2009,Bulgaria F7,Clay,32,S,20090831,16,104696,2,,Bogdan Leonte,R,,ROU,23.4825462012,120911,,WC,Nikola Dimitrov,R,,BUL,19.356605065,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,528,73,,
 2009-M-FU-BUL-07A-2009,Bulgaria F7,Clay,32,S,20090831,17,103872,,Q,Dimitar Grabuloski,U,,MKD,27.819301848,103936,,,Todor Enev,R,,BUL,27.5592060233,3-6 6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1087,9,799,24
 2009-M-FU-BUL-07A-2009,Bulgaria F7,Clay,32,S,20090831,18,104791,8,,Oscar Sabate Bretos,R,,ESP,23.0006844627,104972,,,Mauricio Alvarez Guzman,R,,CHI,22.1437371663,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,715,33,1341,4
-2009-M-FU-BUL-07A-2009,Bulgaria F7,Clay,32,S,20090831,19,104910,4,,Tihomir Grozdanov,U,,BUL,22.340862423,105586,,,Alexander Lazov,U,,BUL,19.1457905544,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,582,60,1030,11
+2009-M-FU-BUL-07A-2009,Bulgaria F7,Clay,32,S,20090831,19,104910,4,,Tihomir Grozdanov,U,,BUL,22.340862423,105586,,,Alexandar Lazov,U,,BUL,19.1457905544,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,582,60,1030,11
 2009-M-FU-BUL-07A-2009,Bulgaria F7,Clay,32,S,20090831,20,105665,,Q,Robert Coman,R,,ROU,18.8281998631,105181,7,,Miljan Zekic,U,,SRB,21.1362080767,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1449,3,717,32
 2009-M-FU-BUL-07A-2009,Bulgaria F7,Clay,32,S,20090831,21,105124,,,Carlos Calderon Rodriguez,R,,ESP,21.4510609172,110728,,Q,Valentin Palas,R,,ROU,21.8042436687,6-1 1-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,718,32,1744,1
 2009-M-FU-BUL-07A-2009,Bulgaria F7,Clay,32,S,20090831,22,105283,3,,Gerard Granollers,R,,ESP,20.5831622177,105516,,,Serafim Grozev,R,,BUL,19.4058863792,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,568,63,1270,5
@@ -10424,7 +10424,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-CRO-08A-2009,Croatia F8,Clay,32,S,20090831,7,102240,,Q,Kresimir Ritz,R,,CRO,36.1752224504,105209,,,Marko Mijacevic,R,,CRO,20.9993155373,1-6 6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1356,4,1270,5
 2009-M-FU-CRO-08A-2009,Croatia F8,Clay,32,S,20090831,8,105583,,,Dusan Lajovic,R,180,SRB,19.1704312115,104306,6,,Ivan Bjelica,R,,SRB,25.5414099932,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,758,28,547,66
 2009-M-FU-CRO-08A-2009,Croatia F8,Clay,32,S,20090831,9,105519,,WC,Marin Franjicevic,U,,CRO,19.3867214237,103704,8,,Vladimir Obradovic,R,196,SRB,28.5694729637,2-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1673,2,613,52
-2009-M-FU-CRO-08A-2009,Croatia F8,Clay,32,S,20090831,10,105015,,,Franco Skugor,R,193,CRO,21.9466119097,120672,,Q,Dino Salopek,R,,CRO,21.311430527,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,712,33,1346,4
+2009-M-FU-CRO-08A-2009,Croatia F8,Clay,32,S,20090831,10,105015,,,Franko Skugor,R,193,CRO,21.9466119097,120672,,Q,Dino Salopek,R,,CRO,21.311430527,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,712,33,1346,4
 2009-M-FU-CRO-08A-2009,Croatia F8,Clay,32,S,20090831,11,105661,,,Ilija Vucic,R,145,SRB,18.8446269678,105677,,,Nikola Cacic,R,,SRB,18.7323750856,7-6(3) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1035,11,1154,8
 2009-M-FU-CRO-08A-2009,Croatia F8,Clay,32,S,20090831,12,109371,,WC,Ivan Zovko,R,,CRO,21.311430527,104601,3,,Marin Bradaric,R,,CRO,23.9863107461,6-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,538,69
 2009-M-FU-CRO-08A-2009,Croatia F8,Clay,32,S,20090831,13,103934,5,,Aleksander Slovic,L,,SRB,27.5619438741,104888,,,Martin Rmus,R,,SLO,22.4668035592,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,552,65,1187,7
@@ -10435,16 +10435,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-CRO-08A-2009,Croatia F8,Clay,32,S,20090831,18,104191,7,,Ismar Gorcic,R,,BIH,26.2778918549,104948,,,Petar Jelenic,R,,CRO,22.2176591376,7-6(6) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,599,56,704,34
 2009-M-FU-CRO-08A-2009,Croatia F8,Clay,32,S,20090831,19,104399,4,,Mislav Hizak,U,,CRO,25.1307323751,104943,,,Ante Nakic Alfirevic,R,,CRO,22.2313483915,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,546,66,792,25
 2009-M-FU-CRO-08A-2009,Croatia F8,Clay,32,S,20090831,20,105583,,,Dusan Lajovic,R,180,SRB,19.1704312115,102240,,Q,Kresimir Ritz,R,,CRO,36.1752224504,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,758,28,1356,4
-2009-M-FU-CRO-08A-2009,Croatia F8,Clay,32,S,20090831,21,105015,,,Franco Skugor,R,193,CRO,21.9466119097,105519,,WC,Marin Franjicevic,U,,CRO,19.3867214237,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,712,33,1673,2
+2009-M-FU-CRO-08A-2009,Croatia F8,Clay,32,S,20090831,21,105015,,,Franko Skugor,R,193,CRO,21.9466119097,105519,,WC,Marin Franjicevic,U,,CRO,19.3867214237,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,712,33,1673,2
 2009-M-FU-CRO-08A-2009,Croatia F8,Clay,32,S,20090831,22,105661,,,Ilija Vucic,R,145,SRB,18.8446269678,109371,,WC,Ivan Zovko,R,,CRO,21.311430527,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1035,11,,
 2009-M-FU-CRO-08A-2009,Croatia F8,Clay,32,S,20090831,23,103934,5,,Aleksander Slovic,L,,SRB,27.5619438741,106207,,Q,Mate Pavic,L,,CRO,16.1587953457,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,552,65,,
 2009-M-FU-CRO-08A-2009,Croatia F8,Clay,32,S,20090831,24,105254,2,,Nikola Mektic,R,,CRO,20.6844626968,104275,,Q,Josko Topic,U,,CRO,25.7303216975,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,469,89,1406,3
 2009-M-FU-CRO-08A-2009,Croatia F8,Clay,32,S,20090831,25,105060,1,,Aldin Setkic,R,193,BIH,21.6947296372,104191,7,,Ismar Gorcic,R,,BIH,26.2778918549,6-4 7-6(4),3,QF,,,,,,,,,,,,,,,,,,,,482,86,599,56
 2009-M-FU-CRO-08A-2009,Croatia F8,Clay,32,S,20090831,26,104399,4,,Mislav Hizak,U,,CRO,25.1307323751,105583,,,Dusan Lajovic,R,180,SRB,19.1704312115,7-5 6-2,3,QF,,,,,,,,,,,,,,,,,,,,546,66,758,28
-2009-M-FU-CRO-08A-2009,Croatia F8,Clay,32,S,20090831,27,105015,,,Franco Skugor,R,193,CRO,21.9466119097,105661,,,Ilija Vucic,R,145,SRB,18.8446269678,7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,712,33,1035,11
+2009-M-FU-CRO-08A-2009,Croatia F8,Clay,32,S,20090831,27,105015,,,Franko Skugor,R,193,CRO,21.9466119097,105661,,,Ilija Vucic,R,145,SRB,18.8446269678,7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,712,33,1035,11
 2009-M-FU-CRO-08A-2009,Croatia F8,Clay,32,S,20090831,28,105254,2,,Nikola Mektic,R,,CRO,20.6844626968,103934,5,,Aleksander Slovic,L,,SRB,27.5619438741,2-6 6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,469,89,552,65
 2009-M-FU-CRO-08A-2009,Croatia F8,Clay,32,S,20090831,29,105060,1,,Aldin Setkic,R,193,BIH,21.6947296372,104399,4,,Mislav Hizak,U,,CRO,25.1307323751,3-6 7-6(5) 6-1,3,SF,,,,,,,,,,,,,,,,,,,,482,86,546,66
-2009-M-FU-CRO-08A-2009,Croatia F8,Clay,32,S,20090831,30,105254,2,,Nikola Mektic,R,,CRO,20.6844626968,105015,,,Franco Skugor,R,193,CRO,21.9466119097,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,469,89,712,33
+2009-M-FU-CRO-08A-2009,Croatia F8,Clay,32,S,20090831,30,105254,2,,Nikola Mektic,R,,CRO,20.6844626968,105015,,,Franko Skugor,R,193,CRO,21.9466119097,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,469,89,712,33
 2009-M-FU-CRO-08A-2009,Croatia F8,Clay,32,S,20090831,31,105254,2,,Nikola Mektic,R,,CRO,20.6844626968,105060,1,,Aldin Setkic,R,193,BIH,21.6947296372,2-6 6-4 6-2,3,F,,,,,,,,,,,,,,,,,,,,469,89,482,86
 2009-M-FU-GER-17A-2009,Germany F17,Clay,32,S,20090831,1,104853,1,,Jiri Skoloudik,R,,CZE,22.6420260096,105462,,,David Thurner,U,,GER,19.6331279945,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,557,65,1217,6
 2009-M-FU-GER-17A-2009,Germany F17,Clay,32,S,20090831,2,105599,,,Richard Waite,R,,GER,19.0855578371,105382,,,Jarryd Maher,R,,AUS,20.1149897331,6-3 6-7(4) 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,1092,9,839,21
@@ -10731,7 +10731,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-ARG-14A-2009,Argentina F14,Clay,32,S,20090907,4,104828,8,,Alejandro Kon,U,,ARG,22.8254620123,104867,,,German Gaich,U,,ARG,22.5763175907,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,497,82,805,24
 2009-M-FU-ARG-14A-2009,Argentina F14,Clay,32,S,20090907,5,103701,3,WC,Diego Hartfield,R,185,ARG,28.5995893224,104826,,,Federico Sansonetti,R,,URU,22.8364134155,7-6(4) 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,361,129,576,61
 2009-M-FU-ARG-14A-2009,Argentina F14,Clay,32,S,20090907,6,104221,,,Jonathan Gonzalia,R,,ARG,26.0999315537,120711,,Q,Stanislav Ichkov,R,,ARG,21.2594113621,5-7 6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,628,49,1227,6
-2009-M-FU-ARG-14A-2009,Argentina F14,Clay,32,S,20090907,7,105819,,Q,Guido Andreozzi,R,,ARG,18.0917180014,106043,,WC,Diego Sebastian Schwartzman,R,170,ARG,17.0595482546,6-0 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1151,8,,
+2009-M-FU-ARG-14A-2009,Argentina F14,Clay,32,S,20090907,7,105819,,Q,Guido Andreozzi,R,,ARG,18.0917180014,106043,,WC,Diego Schwartzman,R,170,ARG,17.0595482546,6-0 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1151,8,,
 2009-M-FU-ARG-14A-2009,Argentina F14,Clay,32,S,20090907,8,105120,5,,Andres Molteni,R,,ARG,21.4811772758,105582,,Q,Ignacio Martire,U,,ARG,19.1923340178,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,418,103,886,18
 2009-M-FU-ARG-14A-2009,Argentina F14,Clay,32,S,20090907,9,105899,,LL,Martin Cuevas,R,,URU,17.6481861739,103856,,,Juan Ferrer,U,,ARG,27.9397672827,4-5 RET,3,R32,,,,,,,,,,,,,,,,,,,,1133,8,745,28
 2009-M-FU-ARG-14A-2009,Argentina F14,Clay,32,S,20090907,10,104640,,,Pablo Galdon,R,,ARG,23.7754962355,121543,,WC,Francisco Aparicio,R,,ARG,18.5626283368,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1047,10,,
@@ -11067,7 +11067,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-TUR-08A-2009,Turkey F8,Hard,32,S,20090907,30,103612,3,Q,Alexey Kedryuk,R,193,KAZ,29.0814510609,104920,8,Q,Denys Molchanov,R,,UKR,22.3134839151,4-6 6-3 6-1,3,SF,,,,,,,,,,,,,,,,,,,,358,131,463,91
 2009-M-FU-TUR-08A-2009,Turkey F8,Hard,32,S,20090907,31,103612,3,Q,Alexey Kedryuk,R,193,KAZ,29.0814510609,105575,7,,Ricardas Berankis,R,175,LTU,19.2142368241,6-2 6-4,3,F,,,,,,,,,,,,,,,,,,,,358,131,422,101
 2009-M-FU-ARG-15A-2009,Argentina F15,Clay,32,S,20090914,1,104513,1,,Leandro Migani,R,,ARG,24.5366187543,105899,,Q,Martin Cuevas,R,,URU,17.6673511294,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,295,169,1084,8
-2009-M-FU-ARG-15A-2009,Argentina F15,Clay,32,S,20090914,2,106043,,Q,Diego Sebastian Schwartzman,R,170,ARG,17.0787132101,105110,,,Federico Cavallero,L,,ARG,21.53045859,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,615,48
+2009-M-FU-ARG-15A-2009,Argentina F15,Clay,32,S,20090914,2,106043,,Q,Diego Schwartzman,R,170,ARG,17.0787132101,105110,,,Federico Cavallero,L,,ARG,21.53045859,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,615,48
 2009-M-FU-ARG-15A-2009,Argentina F15,Clay,32,S,20090914,3,105819,,WC,Guido Andreozzi,R,,ARG,18.1108829569,104683,,Q,Gustavo Sterin,R,,ARG,23.5646817248,6-3 6-7(2) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1139,7,1566,2
 2009-M-FU-ARG-15A-2009,Argentina F15,Clay,32,S,20090914,4,104815,6,,Nicolas Jara Lozano,U,,ARG,22.9568788501,104687,,,Guillermo Bujniewicz,R,,ARG,23.5482546201,6-4 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,448,88,783,23
 2009-M-FU-ARG-15A-2009,Argentina F15,Clay,32,S,20090914,5,104080,3,,Alejandro Fabbri,U,,ARG,26.8829568789,105477,,,Marco Trungelliti,R,,ARG,19.6194387406,7-6(2) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,392,106,567,57
@@ -11082,7 +11082,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-ARG-15A-2009,Argentina F15,Clay,32,S,20090914,14,104867,,,German Gaich,U,,ARG,22.5954825462,103848,,,Agustin Tarantino,R,,ARG,27.9972621492,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,777,24,635,44
 2009-M-FU-ARG-15A-2009,Argentina F15,Clay,32,S,20090914,15,103856,,,Juan Ferrer,U,,ARG,27.9589322382,121544,,WC,Marcelo Herrera,R,,ARG,24.4900752909,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,729,28,,
 2009-M-FU-ARG-15A-2009,Argentina F15,Clay,32,S,20090914,16,104912,2,,Cristhian Ignacio Benedetti,R,,ARG,22.3627652293,105582,,Q,Ignacio Martire,U,,ARG,19.2114989733,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,353,122,849,18
-2009-M-FU-ARG-15A-2009,Argentina F15,Clay,32,S,20090914,17,104513,1,,Leandro Migani,R,,ARG,24.5366187543,106043,,Q,Diego Sebastian Schwartzman,R,170,ARG,17.0787132101,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,295,169,,
+2009-M-FU-ARG-15A-2009,Argentina F15,Clay,32,S,20090914,17,104513,1,,Leandro Migani,R,,ARG,24.5366187543,106043,,Q,Diego Schwartzman,R,170,ARG,17.0787132101,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,295,169,,
 2009-M-FU-ARG-15A-2009,Argentina F15,Clay,32,S,20090914,18,105819,,WC,Guido Andreozzi,R,,ARG,18.1108829569,104815,6,,Nicolas Jara Lozano,U,,ARG,22.9568788501,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1139,7,448,88
 2009-M-FU-ARG-15A-2009,Argentina F15,Clay,32,S,20090914,19,104016,,,Antonio Pastorino,U,,ARG,27.2525667351,104080,3,,Alejandro Fabbri,U,,ARG,26.8829568789,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,633,44,392,106
 2009-M-FU-ARG-15A-2009,Argentina F15,Clay,32,S,20090914,20,104221,,,Jonathan Gonzalia,R,,ARG,26.1190965092,105306,,LL,Rodrigo Gomez Saigos,L,,ARG,20.4955509925,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,743,27,865,17
@@ -11478,7 +11478,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-ARG-16A-2009,Argentina F16,Clay,32,S,20090921,7,105110,,,Federico Cavallero,L,,ARG,21.5496235455,121545,,WC,Carlos Alfredo Suppa,U,,ARG,18.2970568104,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,613,46,,
 2009-M-FU-ARG-16A-2009,Argentina F16,Clay,32,S,20090921,8,106032,,WC,Facundo Arguello,R,,ARG,17.1307323751,104148,7,,Lionel Noviski,R,,ARG,26.4969199179,5-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,1202,5,518,65
 2009-M-FU-ARG-16A-2009,Argentina F16,Clay,32,S,20090921,9,104826,8,,Federico Sansonetti,R,,URU,22.8747433265,105582,,,Ignacio Martire,U,,ARG,19.2306639288,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,558,57,842,18
-2009-M-FU-ARG-16A-2009,Argentina F16,Clay,32,S,20090921,10,104552,,,Juan Francisco Spina,U,,ARG,24.372347707,106043,,Q,Diego Sebastian Schwartzman,R,170,ARG,17.0978781656,6-4 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,812,20,,
+2009-M-FU-ARG-16A-2009,Argentina F16,Clay,32,S,20090921,10,104552,,,Juan Francisco Spina,U,,ARG,24.372347707,106043,,Q,Diego Schwartzman,R,170,ARG,17.0978781656,6-4 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,812,20,,
 2009-M-FU-ARG-16A-2009,Argentina F16,Clay,32,S,20090921,11,105753,,WC,Juan Vazquez Valenzuela,R,,ARG,18.4339493498,105306,,,Rodrigo Gomez Saigos,L,,ARG,20.514715948,6-4 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,862,17,889,15
 2009-M-FU-ARG-16A-2009,Argentina F16,Clay,32,S,20090921,12,104080,4,,Alejandro Fabbri,U,,ARG,26.9021218344,121546,,WC,Tomas Caprotta,U,,ARG,17.4620123203,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,399,101,,
 2009-M-FU-ARG-16A-2009,Argentina F16,Clay,32,S,20090921,13,105090,,,Marcos Conocente,R,,ARG,21.6153319644,105309,6,,Agustin Picco,U,,ARG,20.501026694,6-4 2-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,664,38,525,64
@@ -12307,7 +12307,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-USA-24A-2009,USA F24,Hard,32,S,20090928,30,104171,5,,Richard Bloomfield,R,185,GBR,26.4229979466,105404,2,,Michael Mcclune,R,188,USA,20.1013004791,7-6(3) 7-6(4),3,SF,,,,,,,,,,,,,,,,,,,,439,84,367,110
 2009-M-FU-USA-24A-2009,USA F24,Hard,32,S,20090928,31,105992,,,Ryan Harrison,R,183,USA,17.3935660507,104171,5,,Richard Bloomfield,R,185,GBR,26.4229979466,4-6 6-3 7-5,3,F,,,,,,,,,,,,,,,,,,,,574,52,439,84
 2009-M-FU-ARG-18A-2009,Argentina F18 FUTURES,Clay,32,S,20091005,1,104552,,,Juan Francisco Spina,U,,ARG,24.4106776181,104080,1,,Alejandro Fabbri,U,,ARG,26.9404517454,7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,837,17,362,112
-2009-M-FU-ARG-18A-2009,Argentina F18 FUTURES,Clay,32,S,20091005,2,106043,,Q,Diego Sebastian Schwartzman,R,170,ARG,17.1362080767,105709,,Q,Valentin Florez,R,,ARG,18.6557152635,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1789,1,1581,1
+2009-M-FU-ARG-18A-2009,Argentina F18 FUTURES,Clay,32,S,20091005,2,106043,,Q,Diego Schwartzman,R,170,ARG,17.1362080767,105709,,Q,Valentin Florez,R,,ARG,18.6557152635,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1789,1,1581,1
 2009-M-FU-ARG-18A-2009,Argentina F18 FUTURES,Clay,32,S,20091005,3,104777,,,Damian Guichonet,U,,ARG,23.1759069131,105105,,Q,Eduardo Piragine,U,,ARG,21.6125941136,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,802,20,,
 2009-M-FU-ARG-18A-2009,Argentina F18 FUTURES,Clay,32,S,20091005,4,104800,5,,Mauricio Estivariz,U,,BOL,23.0718685832,120189,,LL,Julian Rodriguez,U,,ARG,21.8617385352,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,728,26,,
 2009-M-FU-ARG-18A-2009,Argentina F18 FUTURES,Clay,32,S,20091005,5,104744,3,,Gaston Arturo Grimolizzi,U,,ARG,23.3401779603,120723,,Q,Nicolas Pizzi,L,,ARG,20.3504449008,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,494,69,,
@@ -12322,7 +12322,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-ARG-18A-2009,Argentina F18 FUTURES,Clay,32,S,20091005,14,105167,,,Juan Manuel Romanazzi,L,,ARG,21.3032169747,121606,,WC,Fabricio Varas,U,,ARG,18.9075975359,7-6(6) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1086,7,,
 2009-M-FU-ARG-18A-2009,Argentina F18 FUTURES,Clay,32,S,20091005,15,105532,,Q,Andres Kurdyla,U,,ARG,19.4277891855,105348,,Q,Santiago Maccio,U,,ARG,20.3422313484,7-6(6) 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2009-M-FU-ARG-18A-2009,Argentina F18 FUTURES,Clay,32,S,20091005,16,104923,,,Martin Rios Benitez,U,,ARG,22.3846680356,104815,2,,Nicolas Jara Lozano,U,,ARG,23.0143737166,3-6 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1199,5,426,89
-2009-M-FU-ARG-18A-2009,Argentina F18 FUTURES,Clay,32,S,20091005,17,106043,,Q,Diego Sebastian Schwartzman,R,170,ARG,17.1362080767,104552,,,Juan Francisco Spina,U,,ARG,24.4106776181,6-3 4-6 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,1789,1,837,17
+2009-M-FU-ARG-18A-2009,Argentina F18 FUTURES,Clay,32,S,20091005,17,106043,,Q,Diego Schwartzman,R,170,ARG,17.1362080767,104552,,,Juan Francisco Spina,U,,ARG,24.4106776181,6-3 4-6 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,1789,1,837,17
 2009-M-FU-ARG-18A-2009,Argentina F18 FUTURES,Clay,32,S,20091005,18,104800,5,,Mauricio Estivariz,U,,BOL,23.0718685832,104777,,,Damian Guichonet,U,,ARG,23.1759069131,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,728,26,802,20
 2009-M-FU-ARG-18A-2009,Argentina F18 FUTURES,Clay,32,S,20091005,19,106006,,WC,Agustin Velotti,R,,ARG,17.3661875428,104744,3,,Gaston Arturo Grimolizzi,U,,ARG,23.3401779603,6-3 2-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1704,1,494,69
 2009-M-FU-ARG-18A-2009,Argentina F18 FUTURES,Clay,32,S,20091005,20,104640,,,Pablo Galdon,R,,ARG,23.8521560575,105755,,Q,Alejo Prado,R,,ARG,18.46954141,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,901,13,,
@@ -12330,7 +12330,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-ARG-18A-2009,Argentina F18 FUTURES,Clay,32,S,20091005,22,103742,,,Diego Cristin,R,,ARG,28.501026694,121554,,LL,Roman Martin,U,,ARG,21.0732375086,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,988,10,1581,1
 2009-M-FU-ARG-18A-2009,Argentina F18 FUTURES,Clay,32,S,20091005,23,104538,,,Joaquin Jesus Monteferrario,R,,ARG,24.4791238877,105167,,,Juan Manuel Romanazzi,L,,ARG,21.3032169747,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1018,9,1086,7
 2009-M-FU-ARG-18A-2009,Argentina F18 FUTURES,Clay,32,S,20091005,24,104923,,,Martin Rios Benitez,U,,ARG,22.3846680356,105532,,Q,Andres Kurdyla,U,,ARG,19.4277891855,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,1199,5,,
-2009-M-FU-ARG-18A-2009,Argentina F18 FUTURES,Clay,32,S,20091005,25,104800,5,,Mauricio Estivariz,U,,BOL,23.0718685832,106043,,Q,Diego Sebastian Schwartzman,R,170,ARG,17.1362080767,7-5 6-4,3,QF,,,,,,,,,,,,,,,,,,,,728,26,1789,1
+2009-M-FU-ARG-18A-2009,Argentina F18 FUTURES,Clay,32,S,20091005,25,104800,5,,Mauricio Estivariz,U,,BOL,23.0718685832,106043,,Q,Diego Schwartzman,R,170,ARG,17.1362080767,7-5 6-4,3,QF,,,,,,,,,,,,,,,,,,,,728,26,1789,1
 2009-M-FU-ARG-18A-2009,Argentina F18 FUTURES,Clay,32,S,20091005,26,104640,,,Pablo Galdon,R,,ARG,23.8521560575,106006,,WC,Agustin Velotti,R,,ARG,17.3661875428,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,901,13,1704,1
 2009-M-FU-ARG-18A-2009,Argentina F18 FUTURES,Clay,32,S,20091005,27,103742,,,Diego Cristin,R,,ARG,28.501026694,105160,7,,Guillermo Duran,R,,ARG,21.3305954825,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,988,10,691,31
 2009-M-FU-ARG-18A-2009,Argentina F18 FUTURES,Clay,32,S,20091005,28,104923,,,Martin Rios Benitez,U,,ARG,22.3846680356,104538,,,Joaquin Jesus Monteferrario,R,,ARG,24.4791238877,6-3 1-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,1199,5,1018,9
@@ -13245,7 +13245,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-ARG-20A-2009,Argentina F20,Clay,32,S,20091019,7,105280,,Q,Leonel Videla,R,,ARG,20.7255304586,104683,,Q,Gustavo Sterin,R,,ARG,23.6605065024,6-3 0-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,1526,2
 2009-M-FU-ARG-20A-2009,Argentina F20,Clay,32,S,20091019,8,104828,5,,Alejandro Kon,U,,ARG,22.9404517454,104867,,,German Gaich,U,,ARG,22.6913073238,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,564,52,750,24
 2009-M-FU-ARG-20A-2009,Argentina F20,Clay,32,S,20091019,9,105110,8,,Federico Cavallero,L,,ARG,21.6262833676,121216,,Q,Rodrigo Albano,U,,ARG,19.4360027379,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,701,28,1226,4
-2009-M-FU-ARG-20A-2009,Argentina F20,Clay,32,S,20091019,10,106043,,Q,Diego Sebastian Schwartzman,R,170,ARG,17.1745379877,105348,,Q,Santiago Maccio,U,,ARG,20.3805612594,7-6(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1309,3,,
+2009-M-FU-ARG-20A-2009,Argentina F20,Clay,32,S,20091019,10,106043,,Q,Diego Schwartzman,R,170,ARG,17.1745379877,105348,,Q,Santiago Maccio,U,,ARG,20.3805612594,7-6(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1309,3,,
 2009-M-FU-ARG-20A-2009,Argentina F20,Clay,32,S,20091019,11,120723,,Q,Nicolas Pizzi,L,,ARG,20.3887748118,109011,,WC,Marcel Goodman,U,,USA,22.546201232,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2009-M-FU-ARG-20A-2009,Argentina F20,Clay,32,S,20091019,12,104640,,,Pablo Galdon,R,,ARG,23.8904859685,105033,,LL,Matias Castro,U,,ARG,21.9958932238,6-4 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,742,24,1033,8
 2009-M-FU-ARG-20A-2009,Argentina F20,Clay,32,S,20091019,13,105952,,WC,Renzo Olivo,R,,ARG,17.5961670089,104744,6,,Gaston Arturo Grimolizzi,U,,ARG,23.3785078713,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1631,1,670,32
@@ -13256,13 +13256,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-ARG-20A-2009,Argentina F20,Clay,32,S,20091019,18,105911,,WC,Andrea Collarini,L,,ARG,17.7166324435,104912,7,,Cristhian Ignacio Benedetti,R,,ARG,22.4585900068,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1416,2,602,44
 2009-M-FU-ARG-20A-2009,Argentina F20,Clay,32,S,20091019,19,104799,4,,Gaston Giussani,U,,ARG,23.1101984942,105582,,,Ignacio Martire,U,,ARG,19.3073237509,6-3 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,531,59,926,12
 2009-M-FU-ARG-20A-2009,Argentina F20,Clay,32,S,20091019,20,104828,5,,Alejandro Kon,U,,ARG,22.9404517454,105280,,Q,Leonel Videla,R,,ARG,20.7255304586,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,564,52,,
-2009-M-FU-ARG-20A-2009,Argentina F20,Clay,32,S,20091019,21,106043,,Q,Diego Sebastian Schwartzman,R,170,ARG,17.1745379877,105110,8,,Federico Cavallero,L,,ARG,21.6262833676,6-4 3-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1309,3,701,28
+2009-M-FU-ARG-20A-2009,Argentina F20,Clay,32,S,20091019,21,106043,,Q,Diego Schwartzman,R,170,ARG,17.1745379877,105110,8,,Federico Cavallero,L,,ARG,21.6262833676,6-4 3-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1309,3,701,28
 2009-M-FU-ARG-20A-2009,Argentina F20,Clay,32,S,20091019,22,104640,,,Pablo Galdon,R,,ARG,23.8904859685,120723,,Q,Nicolas Pizzi,L,,ARG,20.3887748118,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,742,24,,
 2009-M-FU-ARG-20A-2009,Argentina F20,Clay,32,S,20091019,23,104777,,,Damian Guichonet,U,,ARG,23.2142368241,105952,,WC,Renzo Olivo,R,,ARG,17.5961670089,4-6 6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,779,21,1631,1
 2009-M-FU-ARG-20A-2009,Argentina F20,Clay,32,S,20091019,24,104148,,,Lionel Noviski,R,,ARG,26.5735797399,105306,,,Rodrigo Gomez Saigos,L,,ARG,20.59137577,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,727,25,929,12
 2009-M-FU-ARG-20A-2009,Argentina F20,Clay,32,S,20091019,25,105911,,WC,Andrea Collarini,L,,ARG,17.7166324435,104815,1,,Nicolas Jara Lozano,U,,ARG,23.0527036277,6-4 2-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,1416,2,484,69
 2009-M-FU-ARG-20A-2009,Argentina F20,Clay,32,S,20091019,26,104828,5,,Alejandro Kon,U,,ARG,22.9404517454,104799,4,,Gaston Giussani,U,,ARG,23.1101984942,7-6(3) 4-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,564,52,531,59
-2009-M-FU-ARG-20A-2009,Argentina F20,Clay,32,S,20091019,27,104640,,,Pablo Galdon,R,,ARG,23.8904859685,106043,,Q,Diego Sebastian Schwartzman,R,170,ARG,17.1745379877,6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,742,24,1309,3
+2009-M-FU-ARG-20A-2009,Argentina F20,Clay,32,S,20091019,27,104640,,,Pablo Galdon,R,,ARG,23.8904859685,106043,,Q,Diego Schwartzman,R,170,ARG,17.1745379877,6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,742,24,1309,3
 2009-M-FU-ARG-20A-2009,Argentina F20,Clay,32,S,20091019,28,104148,,,Lionel Noviski,R,,ARG,26.5735797399,104777,,,Damian Guichonet,U,,ARG,23.2142368241,3-6 6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,727,25,779,21
 2009-M-FU-ARG-20A-2009,Argentina F20,Clay,32,S,20091019,29,105911,,WC,Andrea Collarini,L,,ARG,17.7166324435,104828,5,,Alejandro Kon,U,,ARG,22.9404517454,7-6(1) 6-2,3,SF,,,,,,,,,,,,,,,,,,,,1416,2,564,52
 2009-M-FU-ARG-20A-2009,Argentina F20,Clay,32,S,20091019,30,104640,,,Pablo Galdon,R,,ARG,23.8904859685,104148,,,Lionel Noviski,R,,ARG,26.5735797399,6-3 6-1,3,SF,,,,,,,,,,,,,,,,,,,,742,24,727,25
@@ -13733,7 +13733,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-VEN-09A-2009,Venezuela F9,Hard,32,S,20091019,30,105961,,,David Souto,L,,VEN,17.5660506502,103286,7,,Yohny Romero,R,,VEN,30.8856947296,6-2 7-6(3),3,SF,,,,,,,,,,,,,,,,,,,,1119,6,709,27
 2009-M-FU-VEN-09A-2009,Venezuela F9,Hard,32,S,20091019,31,105961,,,David Souto,L,,VEN,17.5660506502,105679,6,,Eduardo Struvay,R,,COL,18.8391512663,6-2 6-2,3,F,,,,,,,,,,,,,,,,,,,,1119,6,567,51
 2009-M-FU-ARG-21A-2009,Argentina F21 FUTURES,Clay,32,S,20091026,1,104513,1,,Leandro Migani,R,,ARG,24.6516084873,121295,,WC,Nicklas Wingord,R,,ARG,17.6262833676,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,272,167,,
-2009-M-FU-ARG-21A-2009,Argentina F21 FUTURES,Clay,32,S,20091026,2,106043,,WC,Diego Sebastian Schwartzman,R,170,ARG,17.1937029432,105582,,,Ignacio Martire,U,,ARG,19.3264887064,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1305,3,943,11
+2009-M-FU-ARG-21A-2009,Argentina F21 FUTURES,Clay,32,S,20091026,2,106043,,WC,Diego Schwartzman,R,170,ARG,17.1937029432,105582,,,Ignacio Martire,U,,ARG,19.3264887064,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1305,3,943,11
 2009-M-FU-ARG-21A-2009,Argentina F21 FUTURES,Clay,32,S,20091026,3,105110,,,Federico Cavallero,L,,ARG,21.6454483231,105911,,WC,Andrea Collarini,L,,ARG,17.735797399,6-4 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,697,28,1398,2
 2009-M-FU-ARG-21A-2009,Argentina F21 FUTURES,Clay,32,S,20091026,4,105306,,Q,Rodrigo Gomez Saigos,L,,ARG,20.6105407255,104221,7,,Jonathan Gonzalia,R,,ARG,26.2340862423,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,923,12,536,57
 2009-M-FU-ARG-21A-2009,Argentina F21 FUTURES,Clay,32,S,20091026,5,105120,3,,Andres Molteni,R,,ARG,21.6153319644,104687,,,Guillermo Bujniewicz,R,,ARG,23.6632443532,6-3 2-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,400,96,741,24
@@ -13748,7 +13748,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-ARG-21A-2009,Argentina F21 FUTURES,Clay,32,S,20091026,14,104912,,,Cristhian Ignacio Benedetti,R,,ARG,22.4777549624,105817,,Q,Kevin Konfederak,R,,ARG,18.2532511978,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,602,44,901,13
 2009-M-FU-ARG-21A-2009,Argentina F21 FUTURES,Clay,32,S,20091026,15,106006,,Q,Agustin Velotti,R,,ARG,17.4236824093,105090,,,Marcos Conocente,R,,ARG,21.711156742,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1275,3,574,49
 2009-M-FU-ARG-21A-2009,Argentina F21 FUTURES,Clay,32,S,20091026,16,104080,2,,Alejandro Fabbri,U,,ARG,26.9979466119,104744,,,Gaston Arturo Grimolizzi,U,,ARG,23.3976728268,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,361,115,699,28
-2009-M-FU-ARG-21A-2009,Argentina F21 FUTURES,Clay,32,S,20091026,17,104513,1,,Leandro Migani,R,,ARG,24.6516084873,106043,,WC,Diego Sebastian Schwartzman,R,170,ARG,17.1937029432,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,272,167,1305,3
+2009-M-FU-ARG-21A-2009,Argentina F21 FUTURES,Clay,32,S,20091026,17,104513,1,,Leandro Migani,R,,ARG,24.6516084873,106043,,WC,Diego Schwartzman,R,170,ARG,17.1937029432,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,272,167,1305,3
 2009-M-FU-ARG-21A-2009,Argentina F21 FUTURES,Clay,32,S,20091026,18,105110,,,Federico Cavallero,L,,ARG,21.6454483231,105306,,Q,Rodrigo Gomez Saigos,L,,ARG,20.6105407255,6-0 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,697,28,923,12
 2009-M-FU-ARG-21A-2009,Argentina F21 FUTURES,Clay,32,S,20091026,19,105120,3,,Andres Molteni,R,,ARG,21.6153319644,104538,,Q,Joaquin Jesus Monteferrario,R,,ARG,24.5366187543,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,400,96,1078,7
 2009-M-FU-ARG-21A-2009,Argentina F21 FUTURES,Clay,32,S,20091026,20,105477,6,,Marco Trungelliti,R,,ARG,19.7344284736,105298,,,Bruno Tiberti,U,,ARG,20.6543463381,3-6 6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,480,70,658,33
@@ -13771,7 +13771,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-BRA-25A-2009,Brazil F25,Clay,32,S,20091026,6,105411,,,Gustavo Junqueira De Andrade,R,,BRA,20.1204654346,105033,,,Matias Castro,U,,ARG,22.0150581793,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,751,23,1024,8
 2009-M-FU-BRA-25A-2009,Brazil F25,Clay,32,S,20091026,7,106123,,WC,Tiago Fernandes,R,,BRA,16.7392197125,105102,,,Goncalo Falcao,R,,POR,21.6755646817,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1294,3,1334,3
 2009-M-FU-BRA-25A-2009,Brazil F25,Clay,32,S,20091026,8,105877,,,Emilio Gomez,R,,ECU,17.9110198494,105350,6,,Ricardo Siggia,R,,BRA,20.3915126626,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,713,26,664,32
-2009-M-FU-BRA-25A-2009,Brazil F25,Clay,32,S,20091026,9,105015,8,,Franco Skugor,R,193,CRO,22.0999315537,103447,,,Renato Silveira,U,,BRA,30.0807665982,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,701,27,1203,4
+2009-M-FU-BRA-25A-2009,Brazil F25,Clay,32,S,20091026,9,105015,8,,Franko Skugor,R,193,CRO,22.0999315537,103447,,,Renato Silveira,U,,BRA,30.0807665982,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,701,27,1203,4
 2009-M-FU-BRA-25A-2009,Brazil F25,Clay,32,S,20091026,10,104923,,Q,Martin Rios Benitez,U,,ARG,22.4421629021,105849,,Q,Rodrigo Sanchez,U,,PER,18.1026694045,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,966,10,1208,4
 2009-M-FU-BRA-25A-2009,Brazil F25,Clay,32,S,20091026,11,105326,,Q,Marlon Oliveira,R,,BRA,20.514715948,105998,,WC,Eduardo Dischinger,R,,BRA,17.440109514,2-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1751,1,1366,2
 2009-M-FU-BRA-25A-2009,Brazil F25,Clay,32,S,20091026,12,104033,3,,Juan Pablo Villar,U,,ARG,27.2963723477,119936,,LL,Jose Nascimento,R,,BRA,23.6796714579,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,398,96,1291,3
@@ -13783,17 +13783,17 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-BRA-25A-2009,Brazil F25,Clay,32,S,20091026,18,105381,,,Thales Turini,U,,BRA,20.2737850787,109254,7,,Rodrigo Antonio Grilli,R,,BRA,29.9329226557,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,814,18,,
 2009-M-FU-BRA-25A-2009,Brazil F25,Clay,32,S,20091026,19,105498,4,,Rafael Camilo,U,,BRA,19.6221765914,105411,,,Gustavo Junqueira De Andrade,R,,BRA,20.1204654346,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,498,66,751,23
 2009-M-FU-BRA-25A-2009,Brazil F25,Clay,32,S,20091026,20,106123,,WC,Tiago Fernandes,R,,BRA,16.7392197125,105877,,,Emilio Gomez,R,,ECU,17.9110198494,5-7 6-4 3-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,1294,3,713,26
-2009-M-FU-BRA-25A-2009,Brazil F25,Clay,32,S,20091026,21,105015,8,,Franco Skugor,R,193,CRO,22.0999315537,104923,,Q,Martin Rios Benitez,U,,ARG,22.4421629021,6-4 6-7(5) 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,701,27,966,10
+2009-M-FU-BRA-25A-2009,Brazil F25,Clay,32,S,20091026,21,105015,8,,Franko Skugor,R,193,CRO,22.0999315537,104923,,Q,Martin Rios Benitez,U,,ARG,22.4421629021,6-4 6-7(5) 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,701,27,966,10
 2009-M-FU-BRA-25A-2009,Brazil F25,Clay,32,S,20091026,22,104033,3,,Juan Pablo Villar,U,,ARG,27.2963723477,105326,,Q,Marlon Oliveira,R,,BRA,20.514715948,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,398,96,1751,1
 2009-M-FU-BRA-25A-2009,Brazil F25,Clay,32,S,20091026,23,104608,5,,Rodrigo Guidolin,R,,BRA,24.0985626283,104492,,Q,Yuri Radomsky,U,,BRA,24.7556468172,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,462,74,,
 2009-M-FU-BRA-25A-2009,Brazil F25,Clay,32,S,20091026,24,104442,2,,Alexandre Bonatto,R,,BRA,25.0458590007,105712,,,Andre Baran,U,,BRA,18.6967830253,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,331,128,894,13
 2009-M-FU-BRA-25A-2009,Brazil F25,Clay,32,S,20091026,25,106105,,WC,Guilherme Clezar,R,,BRA,16.8186173854,105381,,,Thales Turini,U,,BRA,20.2737850787,1-6 7-6(2) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,,,814,18
 2009-M-FU-BRA-25A-2009,Brazil F25,Clay,32,S,20091026,26,106123,,WC,Tiago Fernandes,R,,BRA,16.7392197125,105498,4,,Rafael Camilo,U,,BRA,19.6221765914,7-6(10) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,1294,3,498,66
-2009-M-FU-BRA-25A-2009,Brazil F25,Clay,32,S,20091026,27,105015,8,,Franco Skugor,R,193,CRO,22.0999315537,104033,3,,Juan Pablo Villar,U,,ARG,27.2963723477,6-4 2-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,701,27,398,96
+2009-M-FU-BRA-25A-2009,Brazil F25,Clay,32,S,20091026,27,105015,8,,Franko Skugor,R,193,CRO,22.0999315537,104033,3,,Juan Pablo Villar,U,,ARG,27.2963723477,6-4 2-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,701,27,398,96
 2009-M-FU-BRA-25A-2009,Brazil F25,Clay,32,S,20091026,28,104442,2,,Alexandre Bonatto,R,,BRA,25.0458590007,104608,5,,Rodrigo Guidolin,R,,BRA,24.0985626283,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,331,128,462,74
 2009-M-FU-BRA-25A-2009,Brazil F25,Clay,32,S,20091026,29,106105,,WC,Guilherme Clezar,R,,BRA,16.8186173854,106123,,WC,Tiago Fernandes,R,,BRA,16.7392197125,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,,,1294,3
-2009-M-FU-BRA-25A-2009,Brazil F25,Clay,32,S,20091026,30,105015,8,,Franco Skugor,R,193,CRO,22.0999315537,104442,2,,Alexandre Bonatto,R,,BRA,25.0458590007,7-6(5) 6-4,3,SF,,,,,,,,,,,,,,,,,,,,701,27,331,128
-2009-M-FU-BRA-25A-2009,Brazil F25,Clay,32,S,20091026,31,105015,8,,Franco Skugor,R,193,CRO,22.0999315537,106105,,WC,Guilherme Clezar,R,,BRA,16.8186173854,6-1 7-6(5),3,F,,,,,,,,,,,,,,,,,,,,701,27,,
+2009-M-FU-BRA-25A-2009,Brazil F25,Clay,32,S,20091026,30,105015,8,,Franko Skugor,R,193,CRO,22.0999315537,104442,2,,Alexandre Bonatto,R,,BRA,25.0458590007,7-6(5) 6-4,3,SF,,,,,,,,,,,,,,,,,,,,701,27,331,128
+2009-M-FU-BRA-25A-2009,Brazil F25,Clay,32,S,20091026,31,105015,8,,Franko Skugor,R,193,CRO,22.0999315537,106105,,WC,Guilherme Clezar,R,,BRA,16.8186173854,6-1 7-6(5),3,F,,,,,,,,,,,,,,,,,,,,701,27,,
 2009-M-FU-CHI-04A-2009,Chile F4,Clay,32,S,20091026,1,104477,1,,Jorge Aguilar,R,,CHI,24.7967145791,105521,,,Juan Sebastian Vivanco,R,,ECU,19.5345653662,3-6 7-6(3) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,239,197,1056,7
 2009-M-FU-CHI-04A-2009,Chile F4,Clay,32,S,20091026,2,103742,,,Diego Cristin,R,,ARG,28.5585215606,103552,,WC,Carlos Gonzalez Leiva,R,,CHI,29.5058179329,6-1 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,662,32,,
 2009-M-FU-CHI-04A-2009,Chile F4,Clay,32,S,20091026,3,105625,,,Alvaro Raposo De Oliveira,U,,PER,19.1403148528,106057,,Q,Facundo Mena,R,,ARG,17.0924024641,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,922,12,1670,1
@@ -14077,7 +14077,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-ARG-22A-2009,Argentina F22 FUTURES,Clay,32,S,20091102,2,105274,,,Patricio Heras,R,,ARG,20.7802874743,105819,,,Guido Andreozzi,R,,ARG,18.2450376454,3-6 7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,823,17,872,14
 2009-M-FU-ARG-22A-2009,Argentina F22 FUTURES,Clay,32,S,20091102,3,105952,,WC,Renzo Olivo,R,,ARG,17.6344969199,121605,,WC,Diego Alberto Maronna,U,,ARG,16.4490075291,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1291,3,,
 2009-M-FU-ARG-22A-2009,Argentina F22 FUTURES,Clay,32,S,20091102,4,104148,,,Lionel Noviski,R,,ARG,26.6119096509,104221,6,,Jonathan Gonzalia,R,,ARG,26.2532511978,6-7(5) 7-6(3) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,677,30,529,57
-2009-M-FU-ARG-22A-2009,Argentina F22 FUTURES,Clay,32,S,20091102,5,105170,4,,Gonzalo Tur,U,,ARG,21.3607118412,106043,,Q,Diego Sebastian Schwartzman,R,170,ARG,17.2128678987,6-2 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,492,66,1170,5
+2009-M-FU-ARG-22A-2009,Argentina F22 FUTURES,Clay,32,S,20091102,5,105170,4,,Gonzalo Tur,U,,ARG,21.3607118412,106043,,Q,Diego Schwartzman,R,170,ARG,17.2128678987,6-2 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,492,66,1170,5
 2009-M-FU-ARG-22A-2009,Argentina F22 FUTURES,Clay,32,S,20091102,6,105899,,,Martin Cuevas,R,,URU,17.8015058179,121606,,WC,Fabricio Varas,U,,ARG,18.984257358,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,995,9,,
 2009-M-FU-ARG-22A-2009,Argentina F22 FUTURES,Clay,32,S,20091102,7,105911,,WC,Andrea Collarini,L,,ARG,17.7549623546,105753,,,Juan Vazquez Valenzuela,R,,ARG,18.5489390828,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,928,11,877,14
 2009-M-FU-ARG-22A-2009,Argentina F22 FUTURES,Clay,32,S,20091102,8,104828,7,,Alejandro Kon,U,,ARG,22.9787816564,105785,,,Juan Pablo Ortiz,L,,ARG,18.4010951403,3-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,528,58,812,18
@@ -14116,7 +14116,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-BRA-26A-2009,Brazil F26,Clay,32,S,20091102,10,105998,,WC,Eduardo Dischinger,R,,BRA,17.4592744695,121264,,WC,Oscar Jose Gutierrez,R,,BRA,16.5229295003,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2009-M-FU-BRA-26A-2009,Brazil F26,Clay,32,S,20091102,11,105712,,,Andre Baran,U,,BRA,18.7159479808,105674,,,Carlos Eduardo Severino,U,,BRA,18.9103353867,6-3 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,886,13,888,13
 2009-M-FU-BRA-26A-2009,Brazil F26,Clay,32,S,20091102,12,104033,3,,Juan Pablo Villar,U,,ARG,27.3155373032,106123,,SE,Tiago Fernandes,R,,BRA,16.758384668,3-6 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,424,88,1216,4
-2009-M-FU-BRA-26A-2009,Brazil F26,Clay,32,S,20091102,13,105015,8,,Franco Skugor,R,193,CRO,22.1190965092,119936,,Q,Jose Nascimento,R,,BRA,23.6988364134,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,701,27,1296,3
+2009-M-FU-BRA-26A-2009,Brazil F26,Clay,32,S,20091102,13,105015,8,,Franko Skugor,R,193,CRO,22.1190965092,119936,,Q,Jose Nascimento,R,,BRA,23.6988364134,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,701,27,1296,3
 2009-M-FU-BRA-26A-2009,Brazil F26,Clay,32,S,20091102,14,105700,,,Jose Pereira,R,,BRA,18.7679671458,120719,,Q,Willian Franco,U,,BRA,19.832991102,7-6(3) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,758,21,1216,4
 2009-M-FU-BRA-26A-2009,Brazil F26,Clay,32,S,20091102,15,105381,,,Thales Turini,U,,BRA,20.2929500342,106105,,WC,Guilherme Clezar,R,,BRA,16.8377823409,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,807,18,,
 2009-M-FU-BRA-26A-2009,Brazil F26,Clay,32,S,20091102,16,104442,2,,Alexandre Bonatto,R,,BRA,25.0650239562,105872,,Q,Christian Lindell,R,,SWE,17.9520876112,3-6 7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,318,137,1204,4
@@ -14126,7 +14126,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-BRA-26A-2009,Brazil F26,Clay,32,S,20091102,20,105061,,,Filippo Leonardi,R,,ITA,21.864476386,105411,,,Gustavo Junqueira De Andrade,R,,BRA,20.1396303901,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,768,21,766,21
 2009-M-FU-BRA-26A-2009,Brazil F26,Clay,32,S,20091102,21,105350,7,,Ricardo Siggia,R,,BRA,20.4106776181,105998,,WC,Eduardo Dischinger,R,,BRA,17.4592744695,3-6 6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,644,35,,
 2009-M-FU-BRA-26A-2009,Brazil F26,Clay,32,S,20091102,22,104033,3,,Juan Pablo Villar,U,,ARG,27.3155373032,105712,,,Andre Baran,U,,BRA,18.7159479808,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,424,88,886,13
-2009-M-FU-BRA-26A-2009,Brazil F26,Clay,32,S,20091102,23,105700,,,Jose Pereira,R,,BRA,18.7679671458,105015,8,,Franco Skugor,R,193,CRO,22.1190965092,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,758,21,701,27
+2009-M-FU-BRA-26A-2009,Brazil F26,Clay,32,S,20091102,23,105700,,,Jose Pereira,R,,BRA,18.7679671458,105015,8,,Franko Skugor,R,193,CRO,22.1190965092,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,758,21,701,27
 2009-M-FU-BRA-26A-2009,Brazil F26,Clay,32,S,20091102,24,104442,2,,Alexandre Bonatto,R,,BRA,25.0650239562,105381,,,Thales Turini,U,,BRA,20.2929500342,6-1 3-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,318,137,807,18
 2009-M-FU-BRA-26A-2009,Brazil F26,Clay,32,S,20091102,25,104713,1,,Juan Pablo Amado,R,,ARG,23.5865845311,109199,,Q,Diego Acosta,R,,ECU,17.5605749487,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,277,160,1302,3
 2009-M-FU-BRA-26A-2009,Brazil F26,Clay,32,S,20091102,26,105061,,,Filippo Leonardi,R,,ITA,21.864476386,104608,4,,Rodrigo Guidolin,R,,BRA,24.1177275838,4-6 7-5 6-2,3,QF,,,,,,,,,,,,,,,,,,,,768,21,470,74
@@ -14331,7 +14331,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-ARG-23A-2009,Argentina F23 FUTURES,Clay,32,S,20091109,8,104744,,,Gaston Arturo Grimolizzi,U,,ARG,23.4360027379,104221,6,Q,Jonathan Gonzalia,R,,ARG,26.2724161533,6-0 6-7(5) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,697,28,524,57
 2009-M-FU-ARG-23A-2009,Argentina F23 FUTURES,Clay,32,S,20091109,9,105817,,,Kevin Konfederak,R,,ARG,18.2915811088,104828,5,,Alejandro Kon,U,,ARG,22.9979466119,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,889,13,534,56
 2009-M-FU-ARG-23A-2009,Argentina F23 FUTURES,Clay,32,S,20091109,10,110745,,WC,Facundo Lugones,R,,ARG,17.3442847365,121608,,WC,Martin Parra,U,,ARG,24.7885010267,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2009-M-FU-ARG-23A-2009,Argentina F23 FUTURES,Clay,32,S,20091109,11,106043,,Q,Diego Sebastian Schwartzman,R,170,ARG,17.2320328542,111152,,Q,Federico Valsangiacomo,U,,SUI,16.2847364819,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1114,6,,
+2009-M-FU-ARG-23A-2009,Argentina F23 FUTURES,Clay,32,S,20091109,11,106043,,Q,Diego Schwartzman,R,170,ARG,17.2320328542,111152,,Q,Federico Valsangiacomo,U,,SUI,16.2847364819,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1114,6,,
 2009-M-FU-ARG-23A-2009,Argentina F23 FUTURES,Clay,32,S,20091109,12,105477,3,,Marco Trungelliti,R,,ARG,19.7727583847,105785,,,Juan Pablo Ortiz,L,,ARG,18.4202600958,4-6 7-6(1) 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,481,68,807,18
 2009-M-FU-ARG-23A-2009,Argentina F23 FUTURES,Clay,32,S,20091109,13,105911,,WC,Andrea Collarini,L,,ARG,17.7741273101,105090,7,,Marcos Conocente,R,,ARG,21.749486653,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,922,11,567,49
 2009-M-FU-ARG-23A-2009,Argentina F23 FUTURES,Clay,32,S,20091109,14,104640,,,Pablo Galdon,R,,ARG,23.947980835,121216,,Q,Rodrigo Albano,U,,ARG,19.4934976044,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,610,41,1232,4
@@ -14342,7 +14342,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-ARG-23A-2009,Argentina F23 FUTURES,Clay,32,S,20091109,19,105755,,LL,Alejo Prado,R,,ARG,18.5653661875,111203,,Q,Franco Scaravilli,U,,ARG,19.5482546201,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1672,1,,
 2009-M-FU-ARG-23A-2009,Argentina F23 FUTURES,Clay,32,S,20091109,20,104744,,,Gaston Arturo Grimolizzi,U,,ARG,23.4360027379,121607,,WC,Matias Bekerman,U,,ARG,17.8973305955,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,697,28,,
 2009-M-FU-ARG-23A-2009,Argentina F23 FUTURES,Clay,32,S,20091109,21,105817,,,Kevin Konfederak,R,,ARG,18.2915811088,110745,,WC,Facundo Lugones,R,,ARG,17.3442847365,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,889,13,,
-2009-M-FU-ARG-23A-2009,Argentina F23 FUTURES,Clay,32,S,20091109,22,105477,3,,Marco Trungelliti,R,,ARG,19.7727583847,106043,,Q,Diego Sebastian Schwartzman,R,170,ARG,17.2320328542,6-2 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,481,68,1114,6
+2009-M-FU-ARG-23A-2009,Argentina F23 FUTURES,Clay,32,S,20091109,22,105477,3,,Marco Trungelliti,R,,ARG,19.7727583847,106043,,Q,Diego Schwartzman,R,170,ARG,17.2320328542,6-2 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,481,68,1114,6
 2009-M-FU-ARG-23A-2009,Argentina F23 FUTURES,Clay,32,S,20091109,23,104640,,,Pablo Galdon,R,,ARG,23.947980835,105911,,WC,Andrea Collarini,L,,ARG,17.7741273101,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,610,41,922,11
 2009-M-FU-ARG-23A-2009,Argentina F23 FUTURES,Clay,32,S,20091109,24,104621,2,,Juan Manuel Valverde,R,,ARG,24.0821355236,105160,,,Guillermo Duran,R,,ARG,21.4264202601,6-2 1-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,462,75,647,34
 2009-M-FU-ARG-23A-2009,Argentina F23 FUTURES,Clay,32,S,20091109,25,104080,1,,Alejandro Fabbri,U,,ARG,27.0362765229,104912,8,,Cristhian Ignacio Benedetti,R,,ARG,22.5160848734,7-6(5) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,372,108,601,43
@@ -14574,7 +14574,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-CZE-04A-2009,Czech Rep F4,Carpet,32,S,20091116,3,104455,,,Daniel Lustig,R,190,CZE,24.9746748802,105422,,,Joshua Milton,R,,GBR,20.090349076,7-6(5) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,494,63,562,50
 2009-M-FU-CZE-04A-2009,Czech Rep F4,Carpet,32,S,20091116,4,104707,,,Denis Matsukevitch,R,190,RUS,23.6386036961,105132,5,,Jurgen Zopp,R,190,EST,21.6344969199,6-1 4-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,488,65,431,83
 2009-M-FU-CZE-04A-2009,Czech Rep F4,Carpet,32,S,20091116,5,103902,3,,Jan Mertl,R,190,CZE,27.8685831622,105719,,WC,Radim Urbanek,U,,CZE,18.7405886379,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,391,97,1041,7
-2009-M-FU-CZE-04A-2009,Czech Rep F4,Carpet,32,S,20091116,6,104914,,Q,Ervin Eleskovic,R,,SWE,22.5270362765,105015,,,Franco Skugor,R,193,CRO,22.1574264203,7-5 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,703,26,584,45
+2009-M-FU-CZE-04A-2009,Czech Rep F4,Carpet,32,S,20091116,6,104914,,Q,Ervin Eleskovic,R,,SWE,22.5270362765,105015,,,Franko Skugor,R,193,CRO,22.1574264203,7-5 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,703,26,584,45
 2009-M-FU-CZE-04A-2009,Czech Rep F4,Carpet,32,S,20091116,7,104320,,Q,Karel Triska,U,,CZE,25.7029431896,106210,,WC,Jiri Vesely,L,,CZE,16.3531827515,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,921,11,,
 2009-M-FU-CZE-04A-2009,Czech Rep F4,Carpet,32,S,20091116,8,103520,6,,Pavel Snobel,L,190,CZE,29.7166324435,105133,,Q,Lubomir Majsajdr,R,,CZE,21.6262833676,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,442,80,,
 2009-M-FU-CZE-04A-2009,Czech Rep F4,Carpet,32,S,20091116,9,104140,,,Dawid Olejniczak,R,,POL,26.71321013,105638,8,,Daniel Cox,R,170,GBR,19.1348391513,6-3 4-6 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,700,26,473,70
@@ -14986,7 +14986,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-M-FU-BRA-30A-2009,Brazil F30,Clay,32,S,20091130,12,104080,4,,Alejandro Fabbri,U,,ARG,27.0937713895,105381,,Q,Thales Turini,U,,BRA,20.3696098563,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,356,113,777,19
 2009-M-FU-BRA-30A-2009,Brazil F30,Clay,32,S,20091130,13,104033,7,,Juan Pablo Villar,U,,ARG,27.3921971253,103848,,,Agustin Tarantino,R,,ARG,28.2080766598,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,395,96,739,21
 2009-M-FU-BRA-30A-2009,Brazil F30,Clay,32,S,20091130,14,104377,,,Theodoros Angelinos,U,,GRE,25.5058179329,104608,,,Rodrigo Guidolin,R,,BRA,24.1943874059,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,555,48,528,54
-2009-M-FU-BRA-30A-2009,Brazil F30,Clay,32,S,20091130,15,105411,,Q,Gustavo Junqueira De Andrade,R,,BRA,20.2162902122,106043,,Q,Diego Sebastian Schwartzman,R,170,ARG,17.2895277207,3-6 7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,746,21,1035,7
+2009-M-FU-BRA-30A-2009,Brazil F30,Clay,32,S,20091130,15,105411,,Q,Gustavo Junqueira De Andrade,R,,BRA,20.2162902122,106043,,Q,Diego Schwartzman,R,170,ARG,17.2895277207,3-6 7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,746,21,1035,7
 2009-M-FU-BRA-30A-2009,Brazil F30,Clay,32,S,20091130,16,104442,2,,Alexandre Bonatto,R,,BRA,25.1416837782,104538,,Q,Joaquin Jesus Monteferrario,R,,ARG,24.6324435318,4-6 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,304,141,980,9
 2009-M-FU-BRA-30A-2009,Brazil F30,Clay,32,S,20091130,17,105584,,LL,Tiago Slonik,U,,BRA,19.4140999316,105700,,Q,Jose Pereira,R,,BRA,18.8446269678,1-6 7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,985,8,713,24
 2009-M-FU-BRA-30A-2009,Brazil F30,Clay,32,S,20091130,18,104221,,,Jonathan Gonzalia,R,,ARG,26.3299110198,105167,,Q,Juan Manuel Romanazzi,L,,ARG,21.4565366188,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,551,49,1042,7

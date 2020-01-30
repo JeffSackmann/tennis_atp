@@ -1301,7 +1301,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1999-M-SA-ESP-03A-1999d,Spain 3 Masters 4,Clay,32,S,19990226,29,117527,,Q,Oscar Martinez Dieguez,R,,ESP,25.0349075975,102650,,,Roberto Carretero,R,178,ESP,23.4825462012,6-1 6-1,3,SF,,,,,,,,,,,,,,,,,,,,,,358,90
 1999-M-SA-ESP-03A-1999d,Spain 3 Masters 4,Clay,32,S,19990226,30,102117,5,,Eduardo Nicolas,R,173,ESP,26.417522245,103242,,,Juan Giner,R,178,ESP,20.5722108145,6-1 3-6 6-1,3,SF,,,,,,,,,,,,,,,,,,,,319,106,451,61
 1999-M-SA-ESP-03A-1999d,Spain 3 Masters 4,Clay,32,S,19990226,31,102117,5,,Eduardo Nicolas,R,173,ESP,26.417522245,117527,,Q,Oscar Martinez Dieguez,R,,ESP,25.0349075975,6-3 6-1,3,F,,,,,,,,,,,,,,,,,,,,319,106,,
-1999-M-SA-AUS-01A-1999a,Australia 1 Masters 1,Clay,32,S,19990228,1,102381,1,,Werner Eschauer,R,188,AUT,24.8459958932,103508,,Q,Nick Mcdonald,R,,RSA,19.0417522245,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,575,33,,
+1999-M-SA-AUS-01A-1999a,Australia 1 Masters 1,Clay,32,S,19990228,1,102381,1,,Werner Eschauer,R,188,AUT,24.8459958932,103508,,Q,Nick McDonald,R,,RSA,19.0417522245,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,575,33,,
 1999-M-SA-AUS-01A-1999a,Australia 1 Masters 1,Clay,32,S,19990228,2,103207,,WC,Sergio Gaoni,R,,AUS,20.7556468172,102735,,,Cedric Kauffmann,R,,FRA,22.9979466119,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,840,11,470,54
 1999-M-SA-AUS-01A-1999a,Australia 1 Masters 1,Clay,32,S,19990228,3,102335,,,Taso Vasiliadis,R,,GRE,25.0349075975,103601,,,Sebastian Jaeger,R,,GER,18.598220397,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,435,65,737,17
 1999-M-SA-AUS-01A-1999a,Australia 1 Masters 1,Clay,32,S,19990228,4,100236,8,,John James,R,183,AUS,47.9835728953,103154,,,Jaymon Crabb,R,183,AUS,20.9856262834,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,699,19,482,50
@@ -1359,7 +1359,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1999-M-SA-AUS-01A-1999c,Australia 1 Masters 3,Clay,32,S,19990228,2,102852,,Q,Lee Pearson,R,,AUS,22.4804928131,103162,,,Dejan Petrovic,R,,SRB,20.9089664613,6-2 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,680,21,462,58
 1999-M-SA-AUS-01A-1999c,Australia 1 Masters 3,Clay,32,S,19990228,3,103179,,,Jurek Stasiak,R,,AUS,20.8542094456,102735,,,Cedric Kauffmann,R,,FRA,22.9979466119,6-4 7-6,3,R32,,,,,,,,,,,,,,,,,,,,468,55,470,54
 1999-M-SA-AUS-01A-1999c,Australia 1 Masters 3,Clay,32,S,19990228,4,102055,8,,Bertrand Madsen,R,,HAI,26.7843942505,103402,,,Peter Clarke,R,188,IRL,19.6468172485,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,443,63,446,63
-1999-M-SA-AUS-01A-1999c,Australia 1 Masters 3,Clay,32,S,19990228,5,102805,3,,Matthew Breen,R,,AUS,22.7159479808,103508,,Q,Nick Mcdonald,R,,RSA,19.0417522245,4-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,357,90,,
+1999-M-SA-AUS-01A-1999c,Australia 1 Masters 3,Clay,32,S,19990228,5,102805,3,,Matthew Breen,R,,AUS,22.7159479808,103508,,Q,Nick McDonald,R,,RSA,19.0417522245,4-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,357,90,,
 1999-M-SA-AUS-01A-1999c,Australia 1 Masters 3,Clay,32,S,19990228,6,103207,,Q,Sergio Gaoni,R,,AUS,20.7556468172,103459,,Q,Jordan Kerr,R,180,AUS,19.3456536619,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,840,11,630,26
 1999-M-SA-AUS-01A-1999c,Australia 1 Masters 3,Clay,32,S,19990228,7,102709,,,Martin Hromec,R,,SVK,23.1403148528,102707,,,Markus Wislsperger,R,,GER,23.1485284052,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,457,60,545,37
 1999-M-SA-AUS-01A-1999c,Australia 1 Masters 3,Clay,32,S,19990228,8,103516,,WC,Nathan Healey,R,180,AUS,19.0061601643,103066,5,,Mark Nielsen,R,185,NZL,21.3935660507,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,908,9,400,75
@@ -5242,7 +5242,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1999-M-FU-GER-05A-1999,Germany F4B,Clay,32,S,19990531,13,103457,8,,Petr Kralert,R,188,CZE,19.6112251882,103480,,,Martin Stepanek,R,,CZE,19.4633812457,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,327,106,413,72
 1999-M-FU-GER-05A-1999,Germany F4B,Clay,32,S,19990531,14,102207,,,Jan Weinzierl,R,,GER,26.0807665982,102858,,Q,Valentino Pest,R,175,GER,22.71321013,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,380,82,847,11
 1999-M-FU-GER-05A-1999,Germany F4B,Clay,32,S,19990531,15,103256,,Q,Ivan Vajda,R,,CRO,20.7364818617,103305,,WC,Daniel Elsner,R,183,GER,20.4024640657,6-4 6-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,391,77,561,36
-1999-M-FU-GER-05A-1999,Germany F4B,Clay,32,S,19990531,16,103508,,LL,Nick Mcdonald,R,,RSA,19.2908966461,109381,,Q,Stefan Imielski,U,,GER,19.1156741958,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1999-M-FU-GER-05A-1999,Germany F4B,Clay,32,S,19990531,16,103508,,LL,Nick McDonald,R,,RSA,19.2908966461,109381,,Q,Stefan Imielski,U,,GER,19.1156741958,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1999-M-FU-GER-05A-1999,Germany F4B,Clay,32,S,19990531,17,102872,1,,James Sekulov,R,180,AUS,22.6283367556,102689,,,Martin Spottl,R,180,AUT,23.5181382615,6-7 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,228,178,429,67
 1999-M-FU-GER-05A-1999,Germany F4B,Clay,32,S,19990531,18,103393,,,Yuri Schukin,R,188,KAZ,19.9288158795,117624,,LL,Markus Krimmer,U,,GER,17.2950034223,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,330,104,,
 1999-M-FU-GER-05A-1999,Germany F4B,Clay,32,S,19990531,19,102665,,,Damian Furmanski,R,,ARG,23.65229295,104259,,Q,Philipp Kohlschreiber,R,178,GER,15.6221765914,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,361,90,,
@@ -5250,7 +5250,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1999-M-FU-GER-05A-1999,Germany F4B,Clay,32,S,19990531,21,103318,,Q,Zeljko Krajan,R,178,CRO,20.3203285421,101982,5,,Jordi Mas,R,,ESP,27.5811088296,4-6 6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,411,73,282,135
 1999-M-FU-GER-05A-1999,Germany F4B,Clay,32,S,19990531,22,103302,,LL,Jan Krejci,R,,CZE,20.4106776181,102376,4,,Radovan Svetlik,R,,CZE,25.1334702259,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,645,24,278,140
 1999-M-FU-GER-05A-1999,Germany F4B,Clay,32,S,19990531,23,103457,8,,Petr Kralert,R,188,CZE,19.6112251882,102207,,,Jan Weinzierl,R,,GER,26.0807665982,7-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,327,106,380,82
-1999-M-FU-GER-05A-1999,Germany F4B,Clay,32,S,19990531,24,103256,,Q,Ivan Vajda,R,,CRO,20.7364818617,103508,,LL,Nick Mcdonald,R,,RSA,19.2908966461,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,391,77,,
+1999-M-FU-GER-05A-1999,Germany F4B,Clay,32,S,19990531,24,103256,,Q,Ivan Vajda,R,,CRO,20.7364818617,103508,,LL,Nick McDonald,R,,RSA,19.2908966461,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,391,77,,
 1999-M-FU-GER-05A-1999,Germany F4B,Clay,32,S,19990531,25,102872,1,,James Sekulov,R,180,AUS,22.6283367556,103393,,,Yuri Schukin,R,188,KAZ,19.9288158795,6-2 3-6 6-0,3,QF,,,,,,,,,,,,,,,,,,,,228,178,330,104
 1999-M-FU-GER-05A-1999,Germany F4B,Clay,32,S,19990531,26,102665,,,Damian Furmanski,R,,ARG,23.65229295,102304,6,,Grant Doyle,R,180,AUS,25.3880903491,5-7 7-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,361,90,290,130
 1999-M-FU-GER-05A-1999,Germany F4B,Clay,32,S,19990531,27,103318,,Q,Zeljko Krajan,R,178,CRO,20.3203285421,103302,,LL,Jan Krejci,R,,CZE,20.4106776181,4-6 6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,411,73,645,24
@@ -5439,7 +5439,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1999-M-SA-ESP-06A-1999a,Spain 6 Masters 1,Clay,24,S,19990604,23,117487,1,,Ignacio Truyol Turrion,R,,ESP,25.7932922656,103852,3,,Feliciano Lopez,L,188,ESP,17.6919917864,6-3 4-6 6-3,3,F,,,,,,,,,,,,,,,,,,,,,,545,39
 1999-M-SA-ESP-06A-1999b,Spain 6 Masters 2,Clay,32,S,19990604,1,117487,1,,Ignacio Truyol Turrion,R,,ESP,25.7932922656,103511,,,Jose Ezequiel Lido,R,,ESP,19.279945243,6-1 7-6,3,R32,,,,,,,,,,,,,,,,,,,,,,677,21
 1999-M-SA-ESP-06A-1999b,Spain 6 Masters 2,Clay,32,S,19990604,2,103169,,Q,Oscar Hernandez,R,180,ESP,21.1389459274,103490,,,Santiago Ventura,R,183,ESP,19.4004106776,6-4 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1297,1,407,73
-1999-M-SA-ESP-06A-1999b,Spain 6 Masters 2,Clay,32,S,19990604,3,117526,,Q,Alberto Gonzalez Lopez,U,,ESP,21.6947296372,103926,,WC,Daniel Munoz De La Nava,L,,ESP,17.3333333333,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1999-M-SA-ESP-06A-1999b,Spain 6 Masters 2,Clay,32,S,19990604,3,117526,,Q,Alberto Gonzalez Lopez,U,,ESP,21.6947296372,103926,,WC,Daniel Munoz de la Nava,L,,ESP,17.3333333333,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1999-M-SA-ESP-06A-1999b,Spain 6 Masters 2,Clay,32,S,19990604,4,103032,7,,Francisco Fogues,L,190,ESP,21.8151950719,103303,,,Angel Jose Martin,R,,ESP,20.4079397673,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,405,74,773,14
 1999-M-SA-ESP-06A-1999b,Spain 6 Masters 2,Clay,32,S,19990604,5,103852,4,,Feliciano Lopez,L,188,ESP,17.6919917864,103125,,,Joan Jimenez Guerra,R,,AND,21.3470225873,6-4 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,545,39,524,43
 1999-M-SA-ESP-06A-1999b,Spain 6 Masters 2,Clay,32,S,19990604,6,103231,,Q,Pedro Nieto,R,,ESP,20.8843258042,124484,,WC,Carlos Alvaro Del Rio,U,,ESP,19.9698836413,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,585,34,,
@@ -5475,7 +5475,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1999-M-SA-ESP-06A-1999c,Spain 6 Masters 3,Clay,32,S,19990604,5,103527,,Q,Julien Jeanpierre,R,188,FRA,19.2224503765,101953,4,Q,Kentaro Masuda,R,,JPN,27.7618069815,6-1 6-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1142,3,436,65
 1999-M-SA-ESP-06A-1999c,Spain 6 Masters 3,Clay,32,S,19990604,6,117487,,,Ignacio Truyol Turrion,R,,ESP,25.7932922656,103125,,,Joan Jimenez Guerra,R,,AND,21.3470225873,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,524,43
 1999-M-SA-ESP-06A-1999c,Spain 6 Masters 3,Clay,32,S,19990604,7,103448,,,Gabriel Trujillo Soler,R,,ESP,19.665982204,110477,,,Marcos Roy Girardi,R,,ESP,25.2210814511,3-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,698,19,684,20
-1999-M-SA-ESP-06A-1999c,Spain 6 Masters 3,Clay,32,S,19990604,8,103032,5,,Francisco Fogues,L,190,ESP,21.8151950719,103926,,WC,Daniel Munoz De La Nava,L,,ESP,17.3333333333,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,405,74,,
+1999-M-SA-ESP-06A-1999c,Spain 6 Masters 3,Clay,32,S,19990604,8,103032,5,,Francisco Fogues,L,190,ESP,21.8151950719,103926,,WC,Daniel Munoz de la Nava,L,,ESP,17.3333333333,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,405,74,,
 1999-M-SA-ESP-06A-1999c,Spain 6 Masters 3,Clay,32,S,19990604,9,103262,,,Marc Canovas,R,,ESP,20.7091033539,103165,6,,Gorka Fraile,R,180,ESP,21.1471594798,6-4 7-6,3,R32,,,,,,,,,,,,,,,,,,,,576,35,449,59
 1999-M-SA-ESP-06A-1999c,Spain 6 Masters 3,Clay,32,S,19990604,10,103476,,Q,Israel Vior Diaz,R,,ESP,19.5071868583,117536,,WC,Jorge Martin Fernandez,U,,ESP,18.7159479808,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1003,6,,
 1999-M-SA-ESP-06A-1999c,Spain 6 Masters 3,Clay,32,S,19990604,11,104269,,Q,Fernando Verdasco,L,188,ESP,15.5400410678,117551,,WC,Carlos Alberto Marcote Jimeno,U,,ESP,18.0533880903,7-5 6-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -5499,7 +5499,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1999-M-SA-ESP-06A-1999c,Spain 6 Masters 3,Clay,32,S,19990604,29,117487,,,Ignacio Truyol Turrion,R,,ESP,25.7932922656,103656,,,Albert Montanes,R,175,ESP,18.507871321,7-6 7-6,3,SF,,,,,,,,,,,,,,,,,,,,,,769,14
 1999-M-SA-ESP-06A-1999c,Spain 6 Masters 3,Clay,32,S,19990604,30,103852,8,,Feliciano Lopez,L,188,ESP,17.6919917864,104269,,Q,Fernando Verdasco,L,188,ESP,15.5400410678,4-6 6-1 6-4,3,SF,,,,,,,,,,,,,,,,,,,,545,39,,
 1999-M-SA-ESP-06A-1999c,Spain 6 Masters 3,Clay,32,S,19990604,31,117487,,,Ignacio Truyol Turrion,R,,ESP,25.7932922656,103852,8,,Feliciano Lopez,L,188,ESP,17.6919917864,6-3 7-6,3,F,,,,,,,,,,,,,,,,,,,,,,545,39
-1999-M-SA-ESP-06A-1999d,Spain 6 Masters 4,Clay,32,S,19990604,1,103186,1,,Emilio Viuda Hernandez,R,,ESP,21.0814510609,103926,,WC,Daniel Munoz De La Nava,L,,ESP,17.3333333333,2-6 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,352,93,,
+1999-M-SA-ESP-06A-1999d,Spain 6 Masters 4,Clay,32,S,19990604,1,103186,1,,Emilio Viuda Hernandez,R,,ESP,21.0814510609,103926,,WC,Daniel Munoz de la Nava,L,,ESP,17.3333333333,2-6 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,352,93,,
 1999-M-SA-ESP-06A-1999d,Spain 6 Masters 4,Clay,32,S,19990604,2,103476,,Q,Israel Vior Diaz,R,,ESP,19.5071868583,103262,,,Marc Canovas,R,,ESP,20.7091033539,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1003,6,576,35
 1999-M-SA-ESP-06A-1999d,Spain 6 Masters 4,Clay,32,S,19990604,3,103527,,Q,Julien Jeanpierre,R,188,FRA,19.2224503765,103231,,,Pedro Nieto,R,,ESP,20.8843258042,7-6 6-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1142,3,585,34
 1999-M-SA-ESP-06A-1999d,Spain 6 Masters 4,Clay,32,S,19990604,4,103125,7,,Joan Jimenez Guerra,R,,AND,21.3470225873,103340,,Q,Isaac Tortades,R,,ESP,20.2135523614,7-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,524,43,1142,3
@@ -6854,7 +6854,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1999-M-FU-TUR-01A-1999,Turkey F1,Hard,32,S,19990705,10,103354,,,Kamil Patel,R,,MRI,20.2546201232,103649,,WC,Esat Tanik,R,,TUR,18.6666666667,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,634,26,970,7
 1999-M-FU-TUR-01A-1999,Turkey F1,Hard,32,S,19990705,11,102972,,Q,Olivier Le Jeune,U,,FRA,22.2203969884,103313,,Q,Iain Bates,R,,GBR,20.4435318275,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,762,15
 1999-M-FU-TUR-01A-1999,Turkey F1,Hard,32,S,19990705,12,102842,3,,Toby Mitchell,R,,AUS,22.8720054757,101812,,,Raviv Weidenfeld,R,188,ISR,28.7282683094,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,415,73,744,16
-1999-M-FU-TUR-01A-1999,Turkey F1,Hard,32,S,19990705,13,103508,,Q,Nick Mcdonald,R,,RSA,19.3867214237,103529,7,,Aisam Ul Haq Qureshi,R,183,PAK,19.2991101985,6-4 5-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1306,1,505,49
+1999-M-FU-TUR-01A-1999,Turkey F1,Hard,32,S,19990705,13,103508,,Q,Nick McDonald,R,,RSA,19.3867214237,103529,7,,Aisam Ul Haq Qureshi,R,183,PAK,19.2991101985,6-4 5-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1306,1,505,49
 1999-M-FU-TUR-01A-1999,Turkey F1,Hard,32,S,19990705,14,103429,,Q,Peter Luczak,R,183,AUS,19.8439425051,103513,,,Glenn Knox,R,,AUS,19.3620807666,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,578,35
 1999-M-FU-TUR-01A-1999,Turkey F1,Hard,32,S,19990705,15,102978,,,Zbynek Mlynarik,R,175,AUT,22.1957563313,110478,,Q,Ferran Ventura Martell,R,,ESP,21.1663244353,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,645,25,1306,1
 1999-M-FU-TUR-01A-1999,Turkey F1,Hard,32,S,19990705,16,102347,2,,Dmitri Tomashevich,R,,UZB,25.3305954825,102552,,WC,Baris Ergun,R,,TUR,24.3175906913,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,347,100,1142,4
@@ -6864,7 +6864,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1999-M-FU-TUR-01A-1999,Turkey F1,Hard,32,S,19990705,20,103459,,,Jordan Kerr,R,180,AUS,19.6906228611,103007,,,Mounir El Aarej,R,,MAR,22.0506502396,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,545,42,577,36
 1999-M-FU-TUR-01A-1999,Turkey F1,Hard,32,S,19990705,21,102670,5,,Lior Dahan,R,,ISR,23.7234770705,103354,,,Kamil Patel,R,,MRI,20.2546201232,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,480,55,634,26
 1999-M-FU-TUR-01A-1999,Turkey F1,Hard,32,S,19990705,22,102842,3,,Toby Mitchell,R,,AUS,22.8720054757,102972,,Q,Olivier Le Jeune,U,,FRA,22.2203969884,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,415,73,,
-1999-M-FU-TUR-01A-1999,Turkey F1,Hard,32,S,19990705,23,103429,,Q,Peter Luczak,R,183,AUS,19.8439425051,103508,,Q,Nick Mcdonald,R,,RSA,19.3867214237,6-4 4-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,1306,1
+1999-M-FU-TUR-01A-1999,Turkey F1,Hard,32,S,19990705,23,103429,,Q,Peter Luczak,R,183,AUS,19.8439425051,103508,,Q,Nick McDonald,R,,RSA,19.3867214237,6-4 4-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,1306,1
 1999-M-FU-TUR-01A-1999,Turkey F1,Hard,32,S,19990705,24,102978,,,Zbynek Mlynarik,R,175,AUT,22.1957563313,102347,2,,Dmitri Tomashevich,R,,UZB,25.3305954825,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,645,25,347,100
 1999-M-FU-TUR-01A-1999,Turkey F1,Hard,32,S,19990705,25,103315,1,A,Kobi Ziv,R,,ISR,20.4407939767,102576,,,Simon Blanc,R,,FRA,24.2108145106,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,326,111,607,31
 1999-M-FU-TUR-01A-1999,Turkey F1,Hard,32,S,19990705,26,102903,4,Q,Eyal Erlich,R,183,ISR,22.5051334702,103459,,,Jordan Kerr,R,180,AUS,19.6906228611,6-2 6-7 6-2,3,QF,,,,,,,,,,,,,,,,,,,,455,61,545,42
@@ -8126,7 +8126,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1999-M-FU-ESP-05A-1999,Spain F5,Clay,32,S,19990802,1,103448,,,Gabriel Trujillo Soler,R,,ESP,19.8384668036,103656,1,,Albert Montanes,R,175,ESP,18.6803559206,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,566,38,374,90
 1999-M-FU-ESP-05A-1999,Spain F5,Clay,32,S,19990802,2,102402,,,Alberto Banus Sado,R,,ESP,25.1553730322,103695,,,Marc Marco Ripoll,R,,ESP,18.5297741273,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,591,34,784,14
 1999-M-FU-ESP-05A-1999,Spain F5,Clay,32,S,19990802,3,103316,,,Victor Romero,R,,MEX,20.514715948,117534,,WC,Carlos Herrero Tambo,U,,ESP,18.0616016427,4-6 6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,714,20,1313,1
-1999-M-FU-ESP-05A-1999,Spain F5,Clay,32,S,19990802,4,102899,7,,Antonio Navarro,R,,ESP,22.6036960986,103926,,Q,Daniel Munoz De La Nava,L,,ESP,17.5058179329,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,586,34,,
+1999-M-FU-ESP-05A-1999,Spain F5,Clay,32,S,19990802,4,102899,7,,Antonio Navarro,R,,ESP,22.6036960986,103926,,Q,Daniel Munoz de la Nava,L,,ESP,17.5058179329,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,586,34,,
 1999-M-FU-ESP-05A-1999,Spain F5,Clay,32,S,19990802,5,103555,,,Pedro Canovas,R,,ESP,19.2470910335,103125,3,,Joan Jimenez Guerra,R,,AND,21.5195071869,3-6 7-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,687,22,528,45
 1999-M-FU-ESP-05A-1999,Spain F5,Clay,32,S,19990802,6,117548,,WC,Rafael Garcia Alex,U,,ESP,17.6290212183,104091,,WC,Miguel Angel Lopez Jaen,R,188,ESP,16.6735112936,5-7 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1313,1
 1999-M-FU-ESP-05A-1999,Spain F5,Clay,32,S,19990802,7,103074,,Q,Stephan Clasohm,R,,AUS,21.7850787132,103733,,,Luben Pampoulov,R,,AUT,18.3846680356,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1313,1,879,10
@@ -9708,7 +9708,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1999-M-SA-RSA-01A-1999a,Central Africa Masters 1,Hard,24,S,19990918,5,102679,,,Gianluca Bazzica,R,,ITA,23.8631074606,122846,,,Duncan Krisjan,U,,RSA,21.4620123203,3-6 6-3 7-6,3,R32,,,,,,,,,,,,,,,,,,,,,,1232,2
 1999-M-SA-RSA-01A-1999a,Central Africa Masters 1,Hard,24,S,19990918,6,118516,,,Petrus Molefe,U,,BOT,23.6386036961,104143,,,Dirk Stegmann,R,,RSA,16.5174537988,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,948,8
 1999-M-SA-RSA-01A-1999a,Central Africa Masters 1,Hard,24,S,19990918,7,103611,,,Giancarlo Petrazzuolo,R,,ITA,19.099247091,103072,,,Jean Marcel Bourgaul Du Coudray,U,,MRI,21.9110198494,7-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1302,1,986,7
-1999-M-SA-RSA-01A-1999a,Central Africa Masters 1,Hard,24,S,19990918,8,103508,,,Nick Mcdonald,R,,RSA,19.5783709788,102750,,,Jon Hedman,R,,SWE,23.4907597536,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1232,2,1138,4
+1999-M-SA-RSA-01A-1999a,Central Africa Masters 1,Hard,24,S,19990918,8,103508,,,Nick McDonald,R,,RSA,19.5783709788,102750,,,Jon Hedman,R,,SWE,23.4907597536,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1232,2,1138,4
 1999-M-SA-RSA-01A-1999a,Central Africa Masters 1,Hard,24,S,19990918,9,102530,1,,Pieter Calitz,R,,RSA,24.5831622177,103462,,,Ashley Ford,R,,AUS,19.8658453114,4-6 6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,938,8,810,13
 1999-M-SA-RSA-01A-1999a,Central Africa Masters 1,Hard,24,S,19990918,10,103300,7,,Punch Maleka,R,,RSA,20.7091033539,103043,,,Coenie Van Wyk,R,,RSA,22.0342231348,5-7 6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,755,17,,
 1999-M-SA-RSA-01A-1999a,Central Africa Masters 1,Hard,24,S,19990918,11,102640,3,,Nicholas Chisholm,R,,RSA,24.0876112252,104069,,,Andrew Mcdade,R,,RSA,16.9117043121,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1302,1,,
@@ -9716,18 +9716,18 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1999-M-SA-RSA-01A-1999a,Central Africa Masters 1,Hard,24,S,19990918,13,103857,6,,Igor Kunitsyn,R,180,RUS,17.9520876112,102679,,,Gianluca Bazzica,R,,ITA,23.8631074606,6-3 6-7 6-0,3,R16,,,,,,,,,,,,,,,,,,,,411,77,,
 1999-M-SA-RSA-01A-1999a,Central Africa Masters 1,Hard,24,S,19990918,14,102995,4,,Mark Thompson,R,,NZL,22.2997946612,118516,,,Petrus Molefe,U,,BOT,23.6386036961,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 1999-M-SA-RSA-01A-1999a,Central Africa Masters 1,Hard,24,S,19990918,15,103611,,,Giancarlo Petrazzuolo,R,,ITA,19.099247091,103087,8,,Graeme Darlington,R,,GBR,21.7796030116,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1302,1,861,11
-1999-M-SA-RSA-01A-1999a,Central Africa Masters 1,Hard,24,S,19990918,16,103508,,,Nick Mcdonald,R,,RSA,19.5783709788,103146,2,,Shaun Rudman,R,,RSA,21.568788501,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1232,2,876,10
+1999-M-SA-RSA-01A-1999a,Central Africa Masters 1,Hard,24,S,19990918,16,103508,,,Nick McDonald,R,,RSA,19.5783709788,103146,2,,Shaun Rudman,R,,RSA,21.568788501,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1232,2,876,10
 1999-M-SA-RSA-01A-1999a,Central Africa Masters 1,Hard,24,S,19990918,17,102530,1,,Pieter Calitz,R,,RSA,24.5831622177,103300,7,,Punch Maleka,R,,RSA,20.7091033539,6-0 6-1,3,QF,,,,,,,,,,,,,,,,,,,,938,8,755,17
 1999-M-SA-RSA-01A-1999a,Central Africa Masters 1,Hard,24,S,19990918,18,102640,3,,Nicholas Chisholm,R,,RSA,24.0876112252,101683,5,,Donavan September,R,,RSA,29.6865160849,6-4 5-7 6-4,3,QF,,,,,,,,,,,,,,,,,,,,1302,1,624,30
 1999-M-SA-RSA-01A-1999a,Central Africa Masters 1,Hard,24,S,19990918,19,103857,6,,Igor Kunitsyn,R,180,RUS,17.9520876112,102995,4,,Mark Thompson,R,,NZL,22.2997946612,3-6 6-0 7-6,3,QF,,,,,,,,,,,,,,,,,,,,411,77,,
-1999-M-SA-RSA-01A-1999a,Central Africa Masters 1,Hard,24,S,19990918,20,103508,,,Nick Mcdonald,R,,RSA,19.5783709788,103611,,,Giancarlo Petrazzuolo,R,,ITA,19.099247091,6-4 3-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,1232,2,1302,1
+1999-M-SA-RSA-01A-1999a,Central Africa Masters 1,Hard,24,S,19990918,20,103508,,,Nick McDonald,R,,RSA,19.5783709788,103611,,,Giancarlo Petrazzuolo,R,,ITA,19.099247091,6-4 3-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,1232,2,1302,1
 1999-M-SA-RSA-01A-1999a,Central Africa Masters 1,Hard,24,S,19990918,21,102530,1,,Pieter Calitz,R,,RSA,24.5831622177,102640,3,,Nicholas Chisholm,R,,RSA,24.0876112252,7-6 6-7 4-0 RET,3,SF,,,,,,,,,,,,,,,,,,,,938,8,1302,1
-1999-M-SA-RSA-01A-1999a,Central Africa Masters 1,Hard,24,S,19990918,22,103857,6,,Igor Kunitsyn,R,180,RUS,17.9520876112,103508,,,Nick Mcdonald,R,,RSA,19.5783709788,6-4 7-6,3,SF,,,,,,,,,,,,,,,,,,,,411,77,1232,2
+1999-M-SA-RSA-01A-1999a,Central Africa Masters 1,Hard,24,S,19990918,22,103857,6,,Igor Kunitsyn,R,180,RUS,17.9520876112,103508,,,Nick McDonald,R,,RSA,19.5783709788,6-4 7-6,3,SF,,,,,,,,,,,,,,,,,,,,411,77,1232,2
 1999-M-SA-RSA-01A-1999a,Central Africa Masters 1,Hard,24,S,19990918,23,103857,6,,Igor Kunitsyn,R,180,RUS,17.9520876112,102530,1,,Pieter Calitz,R,,RSA,24.5831622177,6-2 6-7 6-2,3,F,,,,,,,,,,,,,,,,,,,,411,77,938,8
 1999-M-SA-RSA-01A-1999b,Central Africa Masters 2,Hard,32,S,19990918,1,102530,1,,Pieter Calitz,R,,RSA,24.5831622177,118516,,WC,Petrus Molefe,U,,BOT,23.6386036961,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,938,8,,
 1999-M-SA-RSA-01A-1999b,Central Africa Masters 2,Hard,32,S,19990918,2,103098,,,Johan Du Randt,U,,RSA,21.7221081451,102750,,,Jon Hedman,R,,SWE,23.4907597536,7-6 6-7 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1003,6,1138,4
 1999-M-SA-RSA-01A-1999b,Central Africa Masters 2,Hard,32,S,19990918,3,117650,,Q,Haydn Wakefield,U,,RSA,22.6721423682,103652,,Q,Matthew Yeates,R,,AUS,18.8336755647,3-6 6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1302,1,1095,4
-1999-M-SA-RSA-01A-1999b,Central Africa Masters 2,Hard,32,S,19990918,4,103072,,,Jean Marcel Bourgaul Du Coudray,U,,MRI,21.9110198494,103508,7,,Nick Mcdonald,R,,RSA,19.5783709788,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,986,7,1232,2
+1999-M-SA-RSA-01A-1999b,Central Africa Masters 2,Hard,32,S,19990918,4,103072,,,Jean Marcel Bourgaul Du Coudray,U,,MRI,21.9110198494,103508,7,,Nick McDonald,R,,RSA,19.5783709788,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,986,7,1232,2
 1999-M-SA-RSA-01A-1999b,Central Africa Masters 2,Hard,32,S,19990918,5,103087,,,Graeme Darlington,R,,GBR,21.7796030116,103300,4,,Punch Maleka,R,,RSA,20.7091033539,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,861,11,755,17
 1999-M-SA-RSA-01A-1999b,Central Africa Masters 2,Hard,32,S,19990918,6,103043,,,Coenie Van Wyk,R,,RSA,22.0342231348,123636,,WC,Ingo Manning,R,,RSA,18.3299110198,6-4 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1095,4
 1999-M-SA-RSA-01A-1999b,Central Africa Masters 2,Hard,32,S,19990918,7,102267,,WC,Gwinyai Tongoona,U,,ZIM,25.9247091034,124318,,WC,Tommaso Corrieri,U,,ITA,23.0828199863,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -9766,7 +9766,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1999-M-SA-RSA-01A-1999c,Central Africa Masters 3,Hard,32,S,19990918,9,103652,,,Matthew Yeates,R,,AUS,18.8336755647,103462,6,,Ashley Ford,R,,AUS,19.8658453114,6-2 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,1095,4,810,13
 1999-M-SA-RSA-01A-1999c,Central Africa Masters 3,Hard,32,S,19990918,10,102995,,Q,Mark Thompson,R,,NZL,22.2997946612,118902,,WC,Vusumuzi Khonza Majola,U,,ZIM,21.7932922656,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1999-M-SA-RSA-01A-1999c,Central Africa Masters 3,Hard,32,S,19990918,11,102530,,,Pieter Calitz,R,,RSA,24.5831622177,123636,,,Ingo Manning,R,,RSA,18.3299110198,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,938,8,1095,4
-1999-M-SA-RSA-01A-1999c,Central Africa Masters 3,Hard,32,S,19990918,12,103508,,,Nick Mcdonald,R,,RSA,19.5783709788,103360,3,,Pieter Joubert,U,,RSA,20.3887748118,6-4 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1232,2,691,22
+1999-M-SA-RSA-01A-1999c,Central Africa Masters 3,Hard,32,S,19990918,12,103508,,,Nick McDonald,R,,RSA,19.5783709788,103360,3,,Pieter Joubert,U,,RSA,20.3887748118,6-4 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1232,2,691,22
 1999-M-SA-RSA-01A-1999c,Central Africa Masters 3,Hard,32,S,19990918,13,103087,7,,Graeme Darlington,R,,GBR,21.7796030116,123637,,,Cornelius Krogscheepers,U,,RSA,23.1321013005,6-4 7-6,3,R32,,,,,,,,,,,,,,,,,,,,861,11,1038,5
 1999-M-SA-RSA-01A-1999c,Central Africa Masters 3,Hard,32,S,19990918,14,104069,,Q,Andrew Mcdade,R,,RSA,16.9117043121,102679,,Q,Gianluca Bazzica,R,,ITA,23.8631074606,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1999-M-SA-RSA-01A-1999c,Central Africa Masters 3,Hard,32,S,19990918,15,103098,,,Johan Du Randt,U,,RSA,21.7221081451,103629,,Q,Ciaran Moore,R,,RSA,19.0006844627,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1003,6,,
@@ -9776,15 +9776,15 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1999-M-SA-RSA-01A-1999c,Central Africa Masters 3,Hard,32,S,19990918,19,103072,,,Jean Marcel Bourgaul Du Coudray,U,,MRI,21.9110198494,104143,,,Dirk Stegmann,R,,RSA,16.5174537988,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,986,7,948,8
 1999-M-SA-RSA-01A-1999c,Central Africa Masters 3,Hard,32,S,19990918,20,103300,5,,Punch Maleka,R,,RSA,20.7091033539,122847,,Q,Shaun Smith,U,,RSA,21.4729637235,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,755,17,,
 1999-M-SA-RSA-01A-1999c,Central Africa Masters 3,Hard,32,S,19990918,21,102995,,Q,Mark Thompson,R,,NZL,22.2997946612,103652,,,Matthew Yeates,R,,AUS,18.8336755647,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,1095,4
-1999-M-SA-RSA-01A-1999c,Central Africa Masters 3,Hard,32,S,19990918,22,103508,,,Nick Mcdonald,R,,RSA,19.5783709788,102530,,,Pieter Calitz,R,,RSA,24.5831622177,6-7 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1232,2,938,8
+1999-M-SA-RSA-01A-1999c,Central Africa Masters 3,Hard,32,S,19990918,22,103508,,,Nick McDonald,R,,RSA,19.5783709788,102530,,,Pieter Calitz,R,,RSA,24.5831622177,6-7 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1232,2,938,8
 1999-M-SA-RSA-01A-1999c,Central Africa Masters 3,Hard,32,S,19990918,23,103087,7,,Graeme Darlington,R,,GBR,21.7796030116,104069,,Q,Andrew Mcdade,R,,RSA,16.9117043121,3-6 7-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,861,11,,
 1999-M-SA-RSA-01A-1999c,Central Africa Masters 3,Hard,32,S,19990918,24,101683,2,,Donavan September,R,,RSA,29.6865160849,103098,,,Johan Du Randt,U,,RSA,21.7221081451,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,624,30,1003,6
 1999-M-SA-RSA-01A-1999c,Central Africa Masters 3,Hard,32,S,19990918,25,103146,8,,Shaun Rudman,R,,RSA,21.568788501,103857,1,,Igor Kunitsyn,R,180,RUS,17.9520876112,6-1 1-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,876,10,411,77
 1999-M-SA-RSA-01A-1999c,Central Africa Masters 3,Hard,32,S,19990918,26,103300,5,,Punch Maleka,R,,RSA,20.7091033539,103072,,,Jean Marcel Bourgaul Du Coudray,U,,MRI,21.9110198494,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,755,17,986,7
-1999-M-SA-RSA-01A-1999c,Central Africa Masters 3,Hard,32,S,19990918,27,103508,,,Nick Mcdonald,R,,RSA,19.5783709788,102995,,Q,Mark Thompson,R,,NZL,22.2997946612,6-1 7-6,3,QF,,,,,,,,,,,,,,,,,,,,1232,2,,
+1999-M-SA-RSA-01A-1999c,Central Africa Masters 3,Hard,32,S,19990918,27,103508,,,Nick McDonald,R,,RSA,19.5783709788,102995,,Q,Mark Thompson,R,,NZL,22.2997946612,6-1 7-6,3,QF,,,,,,,,,,,,,,,,,,,,1232,2,,
 1999-M-SA-RSA-01A-1999c,Central Africa Masters 3,Hard,32,S,19990918,28,101683,2,,Donavan September,R,,RSA,29.6865160849,103087,7,,Graeme Darlington,R,,GBR,21.7796030116,6-7 6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,624,30,861,11
 1999-M-SA-RSA-01A-1999c,Central Africa Masters 3,Hard,32,S,19990918,29,103146,8,,Shaun Rudman,R,,RSA,21.568788501,103300,5,,Punch Maleka,R,,RSA,20.7091033539,6-3 4-6 7-5,3,SF,,,,,,,,,,,,,,,,,,,,876,10,755,17
-1999-M-SA-RSA-01A-1999c,Central Africa Masters 3,Hard,32,S,19990918,30,101683,2,,Donavan September,R,,RSA,29.6865160849,103508,,,Nick Mcdonald,R,,RSA,19.5783709788,7-6 7-5,3,SF,,,,,,,,,,,,,,,,,,,,624,30,1232,2
+1999-M-SA-RSA-01A-1999c,Central Africa Masters 3,Hard,32,S,19990918,30,101683,2,,Donavan September,R,,RSA,29.6865160849,103508,,,Nick McDonald,R,,RSA,19.5783709788,7-6 7-5,3,SF,,,,,,,,,,,,,,,,,,,,624,30,1232,2
 1999-M-SA-RSA-01A-1999c,Central Africa Masters 3,Hard,32,S,19990918,31,103146,8,,Shaun Rudman,R,,RSA,21.568788501,101683,2,,Donavan September,R,,RSA,29.6865160849,6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,876,10,624,30
 1999-M-SA-RSA-01A-1999d,Central Africa Masters 4,Hard,32,S,19990918,1,103857,1,,Igor Kunitsyn,R,180,RUS,17.9520876112,102679,,LL,Gianluca Bazzica,R,,ITA,23.8631074606,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,411,77,,
 1999-M-SA-RSA-01A-1999d,Central Africa Masters 4,Hard,32,S,19990918,2,118516,,WC,Petrus Molefe,U,,BOT,23.6386036961,123637,,,Cornelius Krogscheepers,U,,RSA,23.1321013005,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1038,5
@@ -9801,7 +9801,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1999-M-SA-RSA-01A-1999d,Central Africa Masters 4,Hard,32,S,19990918,13,103146,8,,Shaun Rudman,R,,RSA,21.568788501,122823,,Q,Lighton Ndefwai Muchinda,U,,ZAM,26.0616016427,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,876,10,,
 1999-M-SA-RSA-01A-1999d,Central Africa Masters 4,Hard,32,S,19990918,14,102530,,,Pieter Calitz,R,,RSA,24.5831622177,117689,,Q,David Mccabe,U,,AUS,20.6789869952,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,938,8,1302,1
 1999-M-SA-RSA-01A-1999d,Central Africa Masters 4,Hard,32,S,19990918,15,103043,,Q,Coenie Van Wyk,R,,RSA,22.0342231348,103072,,,Jean Marcel Bourgaul Du Coudray,U,,MRI,21.9110198494,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,986,7
-1999-M-SA-RSA-01A-1999d,Central Africa Masters 4,Hard,32,S,19990918,16,101683,2,LL,Donavan September,R,,RSA,29.6865160849,103508,,,Nick Mcdonald,R,,RSA,19.5783709788,6-1 3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,624,30,1232,2
+1999-M-SA-RSA-01A-1999d,Central Africa Masters 4,Hard,32,S,19990918,16,101683,2,LL,Donavan September,R,,RSA,29.6865160849,103508,,,Nick McDonald,R,,RSA,19.5783709788,6-1 3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,624,30,1232,2
 1999-M-SA-RSA-01A-1999d,Central Africa Masters 4,Hard,32,S,19990918,17,103857,1,,Igor Kunitsyn,R,180,RUS,17.9520876112,118516,,WC,Petrus Molefe,U,,BOT,23.6386036961,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,411,77,,
 1999-M-SA-RSA-01A-1999d,Central Africa Masters 4,Hard,32,S,19990918,18,103611,,,Giancarlo Petrazzuolo,R,,ITA,19.099247091,123636,,,Ingo Manning,R,,RSA,18.3299110198,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1302,1,1095,4
 1999-M-SA-RSA-01A-1999d,Central Africa Masters 4,Hard,32,S,19990918,19,118171,,Q,Stuart Duncan,U,,USA,23.241615332,104143,,,Dirk Stegmann,R,,RSA,16.5174537988,6-4 6-7 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,948,8
@@ -11124,7 +11124,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1999-M-SA-IND-02A-1999d,India 2 Masters 4,Hard,32,S,19991016,29,103290,3,,Radim Zitko,R,,CZE,20.8405201916,103062,,LL,Kunj Majmudar,R,,USA,22.0150581793,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,464,57,1232,2
 1999-M-SA-IND-02A-1999d,India 2 Masters 4,Hard,32,S,19991016,30,103475,,Q,Thomas Messmer,R,,GER,19.8767967146,102884,5,,Tom Chicoine,U,,USA,22.9158110883,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,949,8,500,48
 1999-M-SA-IND-02A-1999d,India 2 Masters 4,Hard,32,S,19991016,31,103290,3,,Radim Zitko,R,,CZE,20.8405201916,103475,,Q,Thomas Messmer,R,,GER,19.8767967146,4-6 6-4 6-2,3,F,,,,,,,,,,,,,,,,,,,,464,57,949,8
-1999-M-SA-RSA-02A-1999a,South Africa Masters 1,Hard,32,S,19991016,1,103130,1,,Louis Vosloo,R,178,RSA,21.697467488,103508,,,Nick Mcdonald,R,,RSA,19.6550308008,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,281,134,1232,2
+1999-M-SA-RSA-02A-1999a,South Africa Masters 1,Hard,32,S,19991016,1,103130,1,,Louis Vosloo,R,178,RSA,21.697467488,103508,,,Nick McDonald,R,,RSA,19.6550308008,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,281,134,1232,2
 1999-M-SA-RSA-02A-1999a,South Africa Masters 1,Hard,32,S,19991016,2,103512,,Q,Ivan Cinkus,R,,CRO,19.6413415469,122846,,Q,Duncan Krisjan,U,,RSA,21.5386721424,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,881,10,1232,2
 1999-M-SA-RSA-02A-1999a,South Africa Masters 1,Hard,32,S,19991016,3,103462,,,Ashley Ford,R,,AUS,19.9425051335,103362,,Q,Sonny Kayombo,U,,FRA,20.4599589322,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,818,13,,
 1999-M-SA-RSA-02A-1999a,South Africa Masters 1,Hard,32,S,19991016,4,102530,7,,Pieter Calitz,R,,RSA,24.6598220397,103573,,WC,Rik De Voest,R,180,RSA,19.3483915127,7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,959,7,663,25
@@ -11156,7 +11156,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1999-M-SA-RSA-02A-1999a,South Africa Masters 1,Hard,32,S,19991016,30,102763,2,,Benjamin Cassaigne,L,185,FRA,23.523613963,103568,8,,Valentin Sanon,R,,CIV,19.3921971253,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,1300,1,715,20
 1999-M-SA-RSA-02A-1999a,South Africa Masters 1,Hard,32,S,19991016,31,102763,2,,Benjamin Cassaigne,L,185,FRA,23.523613963,102530,7,,Pieter Calitz,R,,RSA,24.6598220397,6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,1300,1,959,7
 1999-M-SA-RSA-02A-1999b,South Africa Masters 2,Hard,24,S,19991016,1,102121,,,Holger Losch,R,,RSA,27.0362765229,103360,,,Pieter Joubert,U,,RSA,20.4654346338,3-6 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,685,22
-1999-M-SA-RSA-02A-1999b,South Africa Masters 2,Hard,24,S,19991016,2,103508,,,Nick Mcdonald,R,,RSA,19.6550308008,103679,,,Jeroen Masson,R,,BEL,18.7707049966,3-6 7-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1232,2,926,8
+1999-M-SA-RSA-02A-1999b,South Africa Masters 2,Hard,24,S,19991016,2,103508,,,Nick McDonald,R,,RSA,19.6550308008,103679,,,Jeroen Masson,R,,BEL,18.7707049966,3-6 7-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1232,2,926,8
 1999-M-SA-RSA-02A-1999b,South Africa Masters 2,Hard,24,S,19991016,3,103372,,,Kyle Rudman,R,,RSA,20.4052019165,103699,,,Fred Hemmes,R,183,NED,18.6995208761,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,987,6,,
 1999-M-SA-RSA-02A-1999b,South Africa Masters 2,Hard,24,S,19991016,4,102959,,,Marko Tkalec,R,178,SLO,22.5681040383,117491,,,Daniel Santl,U,,SLO,21.3716632444,6-3 6-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,511,45,1189,3
 1999-M-SA-RSA-02A-1999b,South Africa Masters 2,Hard,24,S,19991016,5,104158,,,Andrew Anderson,R,193,RSA,16.5092402464,103548,,,Eduardo Bergmann,R,,BRA,19.4825462012,6-3 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,741,18
@@ -11164,7 +11164,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1999-M-SA-RSA-02A-1999b,South Africa Masters 2,Hard,24,S,19991016,7,103462,,,Ashley Ford,R,,AUS,19.9425051335,101683,,,Donavan September,R,,RSA,29.7631759069,7-5 1-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,818,13,639,28
 1999-M-SA-RSA-02A-1999b,South Africa Masters 2,Hard,24,S,19991016,8,103383,,,Justin Megraw,R,,AUS,20.34770705,103146,,,Shaun Rudman,R,,RSA,21.6454483231,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,701,21,881,10
 1999-M-SA-RSA-02A-1999b,South Africa Masters 2,Hard,24,S,19991016,9,103130,1,,Louis Vosloo,R,178,RSA,21.697467488,102121,,,Holger Losch,R,,RSA,27.0362765229,5-7 6-1 7-6,3,R16,,,,,,,,,,,,,,,,,,,,281,134,,
-1999-M-SA-RSA-02A-1999b,South Africa Masters 2,Hard,24,S,19991016,10,103128,7,,Damien Roberts,R,,RSA,21.7056810404,103508,,,Nick Mcdonald,R,,RSA,19.6550308008,6-2 7-6,3,R16,,,,,,,,,,,,,,,,,,,,307,120,1232,2
+1999-M-SA-RSA-02A-1999b,South Africa Masters 2,Hard,24,S,19991016,10,103128,7,,Damien Roberts,R,,RSA,21.7056810404,103508,,,Nick McDonald,R,,RSA,19.6550308008,6-2 7-6,3,R16,,,,,,,,,,,,,,,,,,,,307,120,1232,2
 1999-M-SA-RSA-02A-1999b,South Africa Masters 2,Hard,24,S,19991016,11,103568,4,,Valentin Sanon,R,,CIV,19.3921971253,103372,,,Kyle Rudman,R,,RSA,20.4052019165,7-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,,715,20,987,6
 1999-M-SA-RSA-02A-1999b,South Africa Masters 2,Hard,24,S,19991016,12,102959,,,Marko Tkalec,R,178,SLO,22.5681040383,103300,6,,Punch Maleka,R,,RSA,20.7857631759,7-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,511,45,749,17
 1999-M-SA-RSA-02A-1999b,South Africa Masters 2,Hard,24,S,19991016,13,102640,5,,Nicholas Chisholm,R,,RSA,24.1642710472,104158,,,Andrew Anderson,R,193,RSA,16.5092402464,6-0 7-6,3,R16,,,,,,,,,,,,,,,,,,,,1300,1,,
@@ -11191,7 +11191,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1999-M-SA-RSA-02A-1999c,South Africa Masters 3,Hard,32,S,19991016,11,103372,,,Kyle Rudman,R,,RSA,20.4052019165,103383,,,Justin Megraw,R,,AUS,20.34770705,4-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,987,6,701,21
 1999-M-SA-RSA-02A-1999c,South Africa Masters 3,Hard,32,S,19991016,12,102640,,WC,Nicholas Chisholm,R,,RSA,24.1642710472,103198,3,,Justin Bower,L,190,RSA,21.3853524983,6-7 7-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1300,1,408,74
 1999-M-SA-RSA-02A-1999c,South Africa Masters 3,Hard,32,S,19991016,13,103568,,,Valentin Sanon,R,,CIV,19.3921971253,104051,8,,Andrej Kracman,R,,SLO,17.1362080767,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,715,20,534,41
-1999-M-SA-RSA-02A-1999c,South Africa Masters 3,Hard,32,S,19991016,14,103508,,WC,Nick Mcdonald,R,,RSA,19.6550308008,103360,,,Pieter Joubert,U,,RSA,20.4654346338,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1232,2,685,22
+1999-M-SA-RSA-02A-1999c,South Africa Masters 3,Hard,32,S,19991016,14,103508,,WC,Nick McDonald,R,,RSA,19.6550308008,103360,,,Pieter Joubert,U,,RSA,20.4654346338,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1232,2,685,22
 1999-M-SA-RSA-02A-1999c,South Africa Masters 3,Hard,32,S,19991016,15,102763,,SE,Benjamin Cassaigne,L,185,FRA,23.523613963,103512,,,Ivan Cinkus,R,,CRO,19.6413415469,6-4 7-6,3,R32,,,,,,,,,,,,,,,,,,,,1300,1,881,10
 1999-M-SA-RSA-02A-1999c,South Africa Masters 3,Hard,32,S,19991016,16,103128,2,,Damien Roberts,R,,RSA,21.7056810404,103362,,Q,Sonny Kayombo,U,,FRA,20.4599589322,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,307,120,,
 1999-M-SA-RSA-02A-1999c,South Africa Masters 3,Hard,32,S,19991016,17,103130,1,,Louis Vosloo,R,178,RSA,21.697467488,103146,,,Shaun Rudman,R,,RSA,21.6454483231,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,281,134,881,10
@@ -11200,7 +11200,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1999-M-SA-RSA-02A-1999c,South Africa Masters 3,Hard,32,S,19991016,20,101683,6,,Donavan September,R,,RSA,29.7631759069,104158,,Q,Andrew Anderson,R,193,RSA,16.5092402464,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,639,28,,
 1999-M-SA-RSA-02A-1999c,South Africa Masters 3,Hard,32,S,19991016,21,103462,,,Ashley Ford,R,,AUS,19.9425051335,103300,,,Punch Maleka,R,,RSA,20.7857631759,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,818,13,749,17
 1999-M-SA-RSA-02A-1999c,South Africa Masters 3,Hard,32,S,19991016,22,102640,,WC,Nicholas Chisholm,R,,RSA,24.1642710472,103372,,,Kyle Rudman,R,,RSA,20.4052019165,7-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,,1300,1,987,6
-1999-M-SA-RSA-02A-1999c,South Africa Masters 3,Hard,32,S,19991016,23,103568,,,Valentin Sanon,R,,CIV,19.3921971253,103508,,WC,Nick Mcdonald,R,,RSA,19.6550308008,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,715,20,1232,2
+1999-M-SA-RSA-02A-1999c,South Africa Masters 3,Hard,32,S,19991016,23,103568,,,Valentin Sanon,R,,CIV,19.3921971253,103508,,WC,Nick McDonald,R,,RSA,19.6550308008,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,715,20,1232,2
 1999-M-SA-RSA-02A-1999c,South Africa Masters 3,Hard,32,S,19991016,24,103128,2,,Damien Roberts,R,,RSA,21.7056810404,102763,,SE,Benjamin Cassaigne,L,185,FRA,23.523613963,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,307,120,1300,1
 1999-M-SA-RSA-02A-1999c,South Africa Masters 3,Hard,32,S,19991016,25,103130,1,,Louis Vosloo,R,178,RSA,21.697467488,103699,,Q,Fred Hemmes,R,183,NED,18.6995208761,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,281,134,,
 1999-M-SA-RSA-02A-1999c,South Africa Masters 3,Hard,32,S,19991016,26,102530,4,,Pieter Calitz,R,,RSA,24.6598220397,101683,6,,Donavan September,R,,RSA,29.7631759069,6-4 7-6,3,QF,,,,,,,,,,,,,,,,,,,,959,7,639,28
@@ -11219,7 +11219,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1999-M-SA-RSA-02A-1999d,South Africa Masters 4,Hard,32,S,19991016,8,103548,,,Eduardo Bergmann,R,,BRA,19.4825462012,103551,5,,Willem Petrus Meyer,U,,RSA,19.4688569473,1-6 6-3 7-6,3,R32,,,,,,,,,,,,,,,,,,,,741,18,521,43
 1999-M-SA-RSA-02A-1999d,South Africa Masters 4,Hard,32,S,19991016,9,103679,,,Jeroen Masson,R,,BEL,18.7707049966,104051,6,,Andrej Kracman,R,,SLO,17.1362080767,6-4 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,926,8,534,41
 1999-M-SA-RSA-02A-1999d,South Africa Masters 4,Hard,32,S,19991016,10,103383,,,Justin Megraw,R,,AUS,20.34770705,103087,,,Graeme Darlington,R,,GBR,21.8562628337,6-0 0-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,701,21,917,9
-1999-M-SA-RSA-02A-1999d,South Africa Masters 4,Hard,32,S,19991016,11,103300,,,Punch Maleka,R,,RSA,20.7857631759,103508,,WC,Nick Mcdonald,R,,RSA,19.6550308008,6-4 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,749,17,1232,2
+1999-M-SA-RSA-02A-1999d,South Africa Masters 4,Hard,32,S,19991016,11,103300,,,Punch Maleka,R,,RSA,20.7857631759,103508,,WC,Nick McDonald,R,,RSA,19.6550308008,6-4 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,749,17,1232,2
 1999-M-SA-RSA-02A-1999d,South Africa Masters 4,Hard,32,S,19991016,12,102959,4,,Marko Tkalec,R,178,SLO,22.5681040383,103568,,,Valentin Sanon,R,,CIV,19.3921971253,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,511,45,715,20
 1999-M-SA-RSA-02A-1999d,South Africa Masters 4,Hard,32,S,19991016,13,101683,7,,Donavan September,R,,RSA,29.7631759069,104158,,Q,Andrew Anderson,R,193,RSA,16.5092402464,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,639,28,,
 1999-M-SA-RSA-02A-1999d,South Africa Masters 4,Hard,32,S,19991016,14,102763,,Q,Benjamin Cassaigne,L,185,FRA,23.523613963,102995,,Q,Mark Thompson,R,,NZL,22.3764544832,4-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1300,1,,

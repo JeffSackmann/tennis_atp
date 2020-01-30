@@ -121,7 +121,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-FU-FRA-01A-2002,France F1,Clay,32,S,20020107,4,103799,7,WC,Eric Prodon,R,178,FRA,20.5311430527,106756,,Q,Christophe Dournes,U,,FRA,,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,316,102,,
 2002-M-FU-FRA-01A-2002,France F1,Clay,32,S,20020107,5,102617,4,,Kim Tiilikainen,R,180,FIN,26.5023956194,104023,,Q,Nicolas Renavand,R,,FRA,19.537303217,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,298,109,841,10
 2002-M-FU-FRA-01A-2002,France F1,Clay,32,S,20020107,6,102967,,,Marc Gicquel,R,188,FRA,24.7748117728,111467,,Q,Juan Antonio Saiz Panadero,U,,ESP,22.559890486,4-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,408,66,,
-2002-M-FU-FRA-01A-2002,France F1,Clay,32,S,20020107,7,102323,,,Regis Lavergne,R,,FRA,27.9425051335,103926,,Q,Daniel Munoz De La Nava,L,,ESP,19.9397672827,7-5 3-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,462,52,770,13
+2002-M-FU-FRA-01A-2002,France F1,Clay,32,S,20020107,7,102323,,,Regis Lavergne,R,,FRA,27.9425051335,103926,,Q,Daniel Munoz de la Nava,L,,ESP,19.9397672827,7-5 3-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,462,52,770,13
 2002-M-FU-FRA-01A-2002,France F1,Clay,32,S,20020107,8,101945,,WC,Thierry Guardiola,R,188,FRA,30.4202600958,102207,6,,Jan Weinzierl,R,,GER,28.6872005476,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,581,30,311,104
 2002-M-FU-FRA-01A-2002,France F1,Clay,32,S,20020107,9,102939,8,,Jean Baptiste Perlant,R,190,FRA,24.8733744011,102696,,Q,Guillaume Couillard,R,,MON,26.0780287474,7-6(5) 1-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,320,100,721,16
 2002-M-FU-FRA-01A-2002,France F1,Clay,32,S,20020107,10,103047,,,Julien Varlet,R,180,FRA,24.3312799452,102942,,,Vladimir Pavicevic,R,,SRB,24.8624229979,7-6(5) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,454,54,425,62
@@ -744,7 +744,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-FU-UAE-02A-2002,United Arab Emirates F2,Hard,32,S,20020128,31,103843,,,Marco Chiudinelli,R,185,SUI,20.3832991102,104499,,,Jimmy Wang,R,178,TPE,16.9691991786,7-6(0) 6-2,3,F,,,,,,,,,,,,,,,,,,,,364,80,400,68
 2002-M-FU-FRA-05A-2002,France F5,Hard,32,S,20020204,1,103592,1,Q,Jerome Haehnel,R,185,FRA,21.5605749487,102876,,,Gwenael Gueit,R,,FRA,25.2676249144,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,300,107,617,25
 2002-M-FU-FRA-05A-2002,France F5,Hard,32,S,20020204,2,102391,,,Charles Edouard Maria,R,,FRA,27.7180013689,103911,,,Julien Cassaigne,R,,FRA,20.0574948665,3-6 6-0 4-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,590,28,727,16
-2002-M-FU-FRA-05A-2002,France F5,Hard,32,S,20020204,3,103570,,LL,Fabian Roetschi,U,,SUI,21.697467488,104542,,WC,Jo Wilfried Tsonga,R,188,FRA,16.8021902806,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,849,10,892,8
+2002-M-FU-FRA-05A-2002,France F5,Hard,32,S,20020204,3,103570,,LL,Fabian Roetschi,U,,SUI,21.697467488,104542,,WC,Jo-Wilfried Tsonga,R,188,FRA,16.8021902806,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,849,10,892,8
 2002-M-FU-FRA-05A-2002,France F5,Hard,32,S,20020204,4,104273,,WC,Edouard Roger Vasselin,R,188,FRA,18.1875427789,103518,,LL,Cyril Martin,R,,FRA,21.9356605065,4-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1201,3,926,8
 2002-M-FU-FRA-05A-2002,France F5,Hard,32,S,20020204,5,103465,,LL,Paul Logtens,R,175,NED,22.2450376454,102931,,,Daniel Lencina Ribes,R,,LTU,24.9965776865,3-6 7-6(3) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,923,8,664,21
 2002-M-FU-FRA-05A-2002,France F5,Hard,32,S,20020204,6,104755,,WC,Richard Gasquet,R,185,FRA,15.6331279945,103685,,,Olivier Ramos,U,,FRA,21.067761807,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1314,2,675,20
@@ -872,7 +872,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-SA-ESP-02A-2002c,Spain 2 3,Clay,32,S,20020204,12,110478,,Q,Ferran Ventura Martell,R,,ESP,23.7535934292,103032,3,,Francisco Fogues,L,190,ESP,24.4982888433,1-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,278,119
 2002-M-SA-ESP-02A-2002c,Spain 2 3,Clay,32,S,20020204,13,103936,5,,Todor Enev,R,,BUL,19.9890485969,103399,,,Carlos Rexach Itoiz,U,,ESP,22.5900068446,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,354,85,432,61
 2002-M-SA-ESP-02A-2002c,Spain 2 3,Clay,32,S,20020204,14,104018,,Q,Jaime Garcia Lancha,U,,ESP,19.6386036961,103007,,,Mounir El Aarej,R,,MAR,24.6379192334,6-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,671,20,493,45
-2002-M-SA-ESP-02A-2002c,Spain 2 3,Clay,32,S,20020204,15,103925,,,Gabriel Moraru,R,180,ROU,20.0191649555,103926,,Q,Daniel Munoz De La Nava,L,,ESP,20.0164271047,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,555,34,772,13
+2002-M-SA-ESP-02A-2002c,Spain 2 3,Clay,32,S,20020204,15,103925,,,Gabriel Moraru,R,180,ROU,20.0191649555,103926,,Q,Daniel Munoz de la Nava,L,,ESP,20.0164271047,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,555,34,772,13
 2002-M-SA-ESP-02A-2002c,Spain 2 3,Clay,32,S,20020204,16,103868,2,,Ivan Navarro,R,183,ESP,20.295687885,104298,,WC,Angel Alonso Campos,R,,ESP,17.9986310746,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,262,131,,
 2002-M-SA-ESP-02A-2002c,Spain 2 3,Clay,32,S,20020204,17,102910,1,,Salvador Navarro,R,180,ESP,25.0732375086,103924,,,Marc Fornell Mestres,R,,ESP,20.0246406571,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,235,151,469,51
 2002-M-SA-ESP-02A-2002c,Spain 2 3,Clay,32,S,20020204,18,101869,,SE,Juan Luis Tati Rascon,R,,ESP,30.9295003422,103941,,,Sergei Pozdnev,R,,RUS,19.9698836413,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,627,24,528,38
@@ -1644,7 +1644,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-FU-FRA-06A-2002,France F6,Hard,32,S,20020311,2,102406,,,Thomas Dupre,R,,FRA,27.7535934292,102736,,WC,Maxime Boye,R,,FRA,26.0123203285,7-6(6) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,255,134,575,32
 2002-M-FU-FRA-06A-2002,France F6,Hard,32,S,20020311,3,104019,,Q,Kristof Vliegen,R,193,BEL,19.7180013689,101924,,Q,Stefano Pescosolido,R,185,ITA,30.7433264887,5-7 6-1 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,433,57,297,106
 2002-M-FU-FRA-06A-2002,France F6,Hard,32,S,20020311,4,104269,,LL,Fernando Verdasco,L,188,ESP,18.3189596167,103917,7,,Nicolas Mahut,R,190,FRA,20.1341546886,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,434,57,234,149
-2002-M-FU-FRA-06A-2002,France F6,Hard,32,S,20020311,5,104542,,Q,Jo Wilfried Tsonga,R,188,FRA,16.8980150582,103003,3,,Jean Francois Bachelot,R,183,FRA,24.7474332649,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,886,8,200,182
+2002-M-FU-FRA-06A-2002,France F6,Hard,32,S,20020311,5,104542,,Q,Jo-Wilfried Tsonga,R,188,FRA,16.8980150582,103003,3,,Jean Francois Bachelot,R,183,FRA,24.7474332649,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,886,8,200,182
 2002-M-FU-FRA-06A-2002,France F6,Hard,32,S,20020311,6,103693,,,Thierry Ascione,R,188,FRA,21.144421629,103986,,Q,Radoslav Lukaev,R,,BUL,19.8795345654,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,279,115,381,76
 2002-M-FU-FRA-06A-2002,France F6,Hard,32,S,20020311,7,102646,,WC,Dimitri Lorin,R,,FRA,26.546201232,102347,,,Dmitri Tomashevich,R,,UZB,28.0136892539,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,352,84,324,94
 2002-M-FU-FRA-06A-2002,France F6,Hard,32,S,20020311,8,102630,5,,Slimane Saoudi,L,,ALG,26.6338124572,102244,,Q,Gregory Girault,R,,FRA,28.643394935,7-6(2) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,224,158,675,19
@@ -1658,17 +1658,17 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-FU-FRA-06A-2002,France F6,Hard,32,S,20020311,16,103153,2,,Gilles Elseneer,R,188,BEL,24.0136892539,102284,,,Filippo Messori,R,173,ITA,28.3258042437,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,193,192,287,110
 2002-M-FU-FRA-06A-2002,France F6,Hard,32,S,20020311,17,102571,1,,Gregory Carraz,R,190,FRA,26.9212867899,102406,,,Thomas Dupre,R,,FRA,27.7535934292,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,179,214,255,134
 2002-M-FU-FRA-06A-2002,France F6,Hard,32,S,20020311,18,104019,,Q,Kristof Vliegen,R,193,BEL,19.7180013689,104269,,LL,Fernando Verdasco,L,188,ESP,18.3189596167,5-7 6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,433,57,434,57
-2002-M-FU-FRA-06A-2002,France F6,Hard,32,S,20020311,19,104542,,Q,Jo Wilfried Tsonga,R,188,FRA,16.8980150582,103693,,,Thierry Ascione,R,188,FRA,21.144421629,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,886,8,279,115
+2002-M-FU-FRA-06A-2002,France F6,Hard,32,S,20020311,19,104542,,Q,Jo-Wilfried Tsonga,R,188,FRA,16.8980150582,103693,,,Thierry Ascione,R,188,FRA,21.144421629,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,886,8,279,115
 2002-M-FU-FRA-06A-2002,France F6,Hard,32,S,20020311,20,102646,,WC,Dimitri Lorin,R,,FRA,26.546201232,102630,5,,Slimane Saoudi,L,,ALG,26.6338124572,6-2 6-7(5) 6-0,3,R16,,,,,,,,,,,,,,,,,,,,352,84,224,158
 2002-M-FU-FRA-06A-2002,France F6,Hard,32,S,20020311,21,103898,6,,Julien Benneteau,R,185,FRA,20.2217659138,102920,,,Diego Hipperdinger,R,,ESP,25.144421629,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,230,152,283,111
 2002-M-FU-FRA-06A-2002,France F6,Hard,32,S,20020311,22,103592,,,Jerome Haehnel,R,185,FRA,21.6563997262,103325,,LL,Wesley Moodie,R,196,RSA,23.0691307324,7-6(5) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,313,99,566,33
 2002-M-FU-FRA-06A-2002,France F6,Hard,32,S,20020311,23,103047,8,,Julien Varlet,R,180,FRA,24.5037645448,102967,,,Marc Gicquel,R,188,FRA,24.9472963723,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,236,147,322,94
 2002-M-FU-FRA-06A-2002,France F6,Hard,32,S,20020311,24,103153,2,,Gilles Elseneer,R,188,BEL,24.0136892539,101902,,,Stephane Huet,L,180,FRA,30.8774811773,4-6 7-6(4) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,193,192,290,107
 2002-M-FU-FRA-06A-2002,France F6,Hard,32,S,20020311,25,104019,,Q,Kristof Vliegen,R,193,BEL,19.7180013689,102571,1,,Gregory Carraz,R,190,FRA,26.9212867899,3-6 7-6(5) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,433,57,179,214
-2002-M-FU-FRA-06A-2002,France F6,Hard,32,S,20020311,26,104542,,Q,Jo Wilfried Tsonga,R,188,FRA,16.8980150582,102646,,WC,Dimitri Lorin,R,,FRA,26.546201232,7-6(2) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,886,8,352,84
+2002-M-FU-FRA-06A-2002,France F6,Hard,32,S,20020311,26,104542,,Q,Jo-Wilfried Tsonga,R,188,FRA,16.8980150582,102646,,WC,Dimitri Lorin,R,,FRA,26.546201232,7-6(2) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,886,8,352,84
 2002-M-FU-FRA-06A-2002,France F6,Hard,32,S,20020311,27,103592,,,Jerome Haehnel,R,185,FRA,21.6563997262,103898,6,,Julien Benneteau,R,185,FRA,20.2217659138,3-6 6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,313,99,230,152
 2002-M-FU-FRA-06A-2002,France F6,Hard,32,S,20020311,28,103153,2,,Gilles Elseneer,R,188,BEL,24.0136892539,103047,8,,Julien Varlet,R,180,FRA,24.5037645448,7-5 6-2,3,QF,,,,,,,,,,,,,,,,,,,,193,192,236,147
-2002-M-FU-FRA-06A-2002,France F6,Hard,32,S,20020311,29,104019,,Q,Kristof Vliegen,R,193,BEL,19.7180013689,104542,,Q,Jo Wilfried Tsonga,R,188,FRA,16.8980150582,6-3 2-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,433,57,886,8
+2002-M-FU-FRA-06A-2002,France F6,Hard,32,S,20020311,29,104019,,Q,Kristof Vliegen,R,193,BEL,19.7180013689,104542,,Q,Jo-Wilfried Tsonga,R,188,FRA,16.8980150582,6-3 2-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,433,57,886,8
 2002-M-FU-FRA-06A-2002,France F6,Hard,32,S,20020311,30,103592,,,Jerome Haehnel,R,185,FRA,21.6563997262,103153,2,,Gilles Elseneer,R,188,BEL,24.0136892539,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,313,99,193,192
 2002-M-FU-FRA-06A-2002,France F6,Hard,32,S,20020311,31,104019,,Q,Kristof Vliegen,R,193,BEL,19.7180013689,103592,,,Jerome Haehnel,R,185,FRA,21.6563997262,7-6(3) 7-6(3),3,F,,,,,,,,,,,,,,,,,,,,433,57,313,99
 2002-M-FU-IND-01A-2002,India F1,Hard,32,S,20020311,1,102566,,LL,Marian Leysek,R,,SVK,26.945927447,108648,,WC,Michael Mora,U,,PHI,24.4709103354,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1216,3,,
@@ -1998,7 +1998,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-SA-EGY-01A-2002d,Egypt 1 4,Clay,32,S,20020318,31,103565,,,Stephane Robert,R,185,FRA,21.8343600274,102646,4,,Dimitri Lorin,R,,FRA,26.5653661875,7-6(2) 6-3,3,F,,,,,,,,,,,,,,,,,,,,525,38,353,84
 2002-M-FU-FRA-07A-2002,France F7,Hard,32,S,20020318,1,102571,1,,Gregory Carraz,R,190,FRA,26.9404517454,104034,,,Dmitry Vlasov,R,188,RUS,19.6851471595,3-6 7-6(3) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,178,214,323,94
 2002-M-FU-FRA-07A-2002,France F7,Hard,32,S,20020318,2,102763,,Q,Benjamin Cassaigne,L,185,FRA,25.9575633128,104019,,SE,Kristof Vliegen,R,193,BEL,19.7371663244,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,370,79,436,57
-2002-M-FU-FRA-07A-2002,France F7,Hard,32,S,20020318,3,103733,,LL,Luben Pampoulov,R,,AUT,21.0102669405,104542,,SE,Jo Wilfried Tsonga,R,188,FRA,16.9171800137,3-6 6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,496,44,889,8
+2002-M-FU-FRA-07A-2002,France F7,Hard,32,S,20020318,3,103733,,LL,Luben Pampoulov,R,,AUT,21.0102669405,104542,,SE,Jo-Wilfried Tsonga,R,188,FRA,16.9171800137,3-6 6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,496,44,889,8
 2002-M-FU-FRA-07A-2002,France F7,Hard,32,S,20020318,4,103553,,LL,Alun Jones,R,180,AUS,21.8918548939,102466,8,,Jan Kroslak,R,188,SVK,27.4168377823,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,428,59,275,119
 2002-M-FU-FRA-07A-2002,France F7,Hard,32,S,20020318,5,103503,,,Robin Vik,R,183,CZE,22.1136208077,118659,,LL,Laurent Huet,U,,FRA,22.0643394935,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,357,84,,
 2002-M-FU-FRA-07A-2002,France F7,Hard,32,S,20020318,6,103250,,Q,Rodolphe Cadart,L,183,FRA,23.6084873374,104402,,WC,Clement Morel,R,,MON,17.6700889802,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,458,53,1250,2
@@ -2463,7 +2463,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-FU-JAM-01A-2002,Jamaica F1,Hard,32,S,20020408,8,103065,5,,Kepler Orellana,R,,VEN,24.4982888433,108858,,WC,Jermaine Smith,U,,JAM,23.1841204654,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,567,33,,
 2002-M-FU-JAM-01A-2002,Jamaica F1,Hard,32,S,20020408,9,103885,7,,Daniel Lesske,U,,GER,20.34770705,102496,,WC,Scott Willinsky,R,,JAM,27.3073237509,6-2 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,587,30,1370,1
 2002-M-FU-JAM-01A-2002,Jamaica F1,Hard,32,S,20020408,10,103623,,,Jacob Adaktusson,R,,SWE,21.6016427105,104210,,WC,Ryan Russell,L,,JAM,18.7570157426,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,701,17,,
-2002-M-FU-JAM-01A-2002,Jamaica F1,Hard,32,S,20020408,11,104166,,,Alex Bogomolov Jr,R,178,RUS,18.9596167009,103508,,Q,Nick Mcdonald,R,,RSA,22.1464750171,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,668,19,1086,4
+2002-M-FU-JAM-01A-2002,Jamaica F1,Hard,32,S,20020408,11,104166,,,Alex Bogomolov Jr,R,178,RUS,18.9596167009,103508,,Q,Nick McDonald,R,,RSA,22.1464750171,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,668,19,1086,4
 2002-M-FU-JAM-01A-2002,Jamaica F1,Hard,32,S,20020408,12,103648,,LL,John Thivolle,U,,FRA,21.4318959617,103810,,,Philipp Hammer,R,,GER,20.720054757,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1235,2,703,17
 2002-M-FU-JAM-01A-2002,Jamaica F1,Hard,32,S,20020408,13,103055,,,Cary Franklin,L,,USA,24.5393566051,102876,8,,Gwenael Gueit,R,,FRA,25.440109514,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,700,17,611,26
 2002-M-FU-JAM-01A-2002,Jamaica F1,Hard,32,S,20020408,14,104211,,Q,Roman Valent,R,183,SUI,18.7515400411,104219,,,Stephane Bohli,R,185,SUI,18.7049965777,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,577,31,750,14
@@ -2519,7 +2519,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-SA-ESP-04A-2002a,Spain 4 1,Clay,24,S,20020408,2,103382,,,Guillermo Platel,R,,ESP,22.8391512663,103340,,,Isaac Tortades,R,,ESP,23.0691307324,4-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,655,21,945,7
 2002-M-SA-ESP-04A-2002a,Spain 4 1,Clay,24,S,20020408,3,103578,,,Antonio Alcaraz,U,,ESP,21.7960301164,104091,,,Miguel Angel Lopez Jaen,R,188,ESP,19.356605065,6-4 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,642,22,453,54
 2002-M-SA-ESP-04A-2002a,Spain 4 1,Clay,24,S,20020408,4,104099,,,Israel Matos Gil,U,,ESP,19.3155373032,103738,,,Francesc Lleal,U,,ESP,21.0458590007,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,653,21,629,23
-2002-M-SA-ESP-04A-2002a,Spain 4 1,Clay,24,S,20020408,5,104542,,,Jo Wilfried Tsonga,R,188,FRA,16.9746748802,104041,,,Sergi Arumi,R,,ESP,19.6960985626,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,707,16,1235,2
+2002-M-SA-ESP-04A-2002a,Spain 4 1,Clay,24,S,20020408,5,104542,,,Jo-Wilfried Tsonga,R,188,FRA,16.9746748802,104041,,,Sergi Arumi,R,,ESP,19.6960985626,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,707,16,1235,2
 2002-M-SA-ESP-04A-2002a,Spain 4 1,Clay,24,S,20020408,6,104397,,,Laurent Recouderc,R,,FRA,17.7440109514,103796,,,Marcos Jimenez Letrado,U,,ESP,20.7912388775,6-1 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,1370,1,864,9
 2002-M-SA-ESP-04A-2002a,Spain 4 1,Clay,24,S,20020408,7,104593,,,Daniel Gimeno Traver,R,185,ESP,16.6680355921,103543,,,David Marrero,R,185,ESP,21.9986310746,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,682,18
 2002-M-SA-ESP-04A-2002a,Spain 4 1,Clay,24,S,20020408,8,101953,,,Kentaro Masuda,R,,JPN,30.6173853525,102736,,,Maxime Boye,R,,FRA,26.0889801506,7-6(9) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,959,7,580,31
@@ -2527,7 +2527,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-SA-ESP-04A-2002a,Spain 4 1,Clay,24,S,20020408,10,102506,5,,Quino Munoz,R,178,ESP,27.2580424367,103382,,,Guillermo Platel,R,,ESP,22.8391512663,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,357,86,655,21
 2002-M-SA-ESP-04A-2002a,Spain 4 1,Clay,24,S,20020408,11,103578,,,Antonio Alcaraz,U,,ESP,21.7960301164,103365,3,,Javier Garcia Sintes,R,,ESP,22.9349760438,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,642,22,396,71
 2002-M-SA-ESP-04A-2002a,Spain 4 1,Clay,24,S,20020408,12,104099,,,Israel Matos Gil,U,,ESP,19.3155373032,103924,6,,Marc Fornell Mestres,R,,ESP,20.1971252567,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,653,21,452,54
-2002-M-SA-ESP-04A-2002a,Spain 4 1,Clay,24,S,20020408,13,103685,7,,Olivier Ramos,U,,FRA,21.2402464066,104542,,,Jo Wilfried Tsonga,R,188,FRA,16.9746748802,4-6 6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,664,20,707,16
+2002-M-SA-ESP-04A-2002a,Spain 4 1,Clay,24,S,20020408,13,103685,7,,Olivier Ramos,U,,FRA,21.2402464066,104542,,,Jo-Wilfried Tsonga,R,188,FRA,16.9746748802,4-6 6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,664,20,707,16
 2002-M-SA-ESP-04A-2002a,Spain 4 1,Clay,24,S,20020408,14,103873,4,,Antonio Baldellou Esteva,U,,ESP,20.4134154689,104397,,,Laurent Recouderc,R,,FRA,17.7440109514,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,553,35,1370,1
 2002-M-SA-ESP-04A-2002a,Spain 4 1,Clay,24,S,20020408,15,104593,,,Daniel Gimeno Traver,R,185,ESP,16.6680355921,104198,8,,Guillermo Garcia Lopez,R,188,ESP,18.8446269678,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,690,17
 2002-M-SA-ESP-04A-2002a,Spain 4 1,Clay,24,S,20020408,16,103490,2,,Santiago Ventura,R,183,ESP,22.2559890486,101953,,,Kentaro Masuda,R,,JPN,30.6173853525,7-6(6) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,517,40,959,7
@@ -2545,7 +2545,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-SA-ESP-04A-2002b,Spain 4 2,Clay,32,S,20020408,5,102506,3,,Quino Munoz,R,178,ESP,27.2580424367,103543,,,David Marrero,R,185,ESP,21.9986310746,6-1 5-7 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,357,86,682,18
 2002-M-SA-ESP-04A-2002b,Spain 4 2,Clay,32,S,20020408,6,104099,,,Israel Matos Gil,U,,ESP,19.3155373032,104189,,WC,Antonio Zaragoza,U,,ESP,18.8802190281,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,653,21,1050,5
 2002-M-SA-ESP-04A-2002b,Spain 4 2,Clay,32,S,20020408,7,104198,,,Guillermo Garcia Lopez,R,188,ESP,18.8446269678,103364,,Q,Javier Genaro Martinez,R,,ESP,22.9377138946,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,690,17,1370,1
-2002-M-SA-ESP-04A-2002b,Spain 4 2,Clay,32,S,20020408,8,104542,,,Jo Wilfried Tsonga,R,188,FRA,16.9746748802,103685,7,,Olivier Ramos,U,,FRA,21.2402464066,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,707,16,664,20
+2002-M-SA-ESP-04A-2002b,Spain 4 2,Clay,32,S,20020408,8,104542,,,Jo-Wilfried Tsonga,R,188,FRA,16.9746748802,103685,7,,Olivier Ramos,U,,FRA,21.2402464066,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,707,16,664,20
 2002-M-SA-ESP-04A-2002b,Spain 4 2,Clay,32,S,20020408,9,103490,5,,Santiago Ventura,R,183,ESP,22.2559890486,102216,,Q,Mark Joachim,R,,GER,28.9117043121,6-3 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,517,40,,
 2002-M-SA-ESP-04A-2002b,Spain 4 2,Clay,32,S,20020408,10,103796,,,Marcos Jimenez Letrado,U,,ESP,20.7912388775,103491,,Q,Mads Gottlieb,U,,DEN,22.2477754962,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,864,9,1005,6
 2002-M-SA-ESP-04A-2002b,Spain 4 2,Clay,32,S,20020408,11,103382,,,Guillermo Platel,R,,ESP,22.8391512663,103738,,,Francesc Lleal,U,,ESP,21.0458590007,6-0 6-7(5) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,655,21,629,23
@@ -2557,7 +2557,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-SA-ESP-04A-2002b,Spain 4 2,Clay,32,S,20020408,17,103242,1,,Juan Giner,R,178,ESP,23.6960985626,104397,,Q,Laurent Recouderc,R,,FRA,17.7440109514,6-3 6-7(5) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,301,103,1370,1
 2002-M-SA-ESP-04A-2002b,Spain 4 2,Clay,32,S,20020408,18,103578,,,Antonio Alcaraz,U,,ESP,21.7960301164,102736,8,,Maxime Boye,R,,FRA,26.0889801506,6-3 1-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,642,22,580,31
 2002-M-SA-ESP-04A-2002b,Spain 4 2,Clay,32,S,20020408,19,104099,,,Israel Matos Gil,U,,ESP,19.3155373032,102506,3,,Quino Munoz,R,178,ESP,27.2580424367,6-4 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,653,21,357,86
-2002-M-SA-ESP-04A-2002b,Spain 4 2,Clay,32,S,20020408,20,104198,,,Guillermo Garcia Lopez,R,188,ESP,18.8446269678,104542,,,Jo Wilfried Tsonga,R,188,FRA,16.9746748802,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,690,17,707,16
+2002-M-SA-ESP-04A-2002b,Spain 4 2,Clay,32,S,20020408,20,104198,,,Guillermo Garcia Lopez,R,188,ESP,18.8446269678,104542,,,Jo-Wilfried Tsonga,R,188,FRA,16.9746748802,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,690,17,707,16
 2002-M-SA-ESP-04A-2002b,Spain 4 2,Clay,32,S,20020408,21,103490,5,,Santiago Ventura,R,183,ESP,22.2559890486,103796,,,Marcos Jimenez Letrado,U,,ESP,20.7912388775,7-6(3) 6-0,3,R16,,,,,,,,,,,,,,,,,,,,517,40,864,9
 2002-M-SA-ESP-04A-2002b,Spain 4 2,Clay,32,S,20020408,22,104091,,Q,Miguel Angel Lopez Jaen,R,188,ESP,19.356605065,103382,,,Guillermo Platel,R,,ESP,22.8391512663,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,453,54,655,21
 2002-M-SA-ESP-04A-2002b,Spain 4 2,Clay,32,S,20020408,23,103873,6,,Antonio Baldellou Esteva,U,,ESP,20.4134154689,102828,,,Roberto Menendez,R,,ESP,25.7467488022,4-6 6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,553,35,641,22
@@ -2605,7 +2605,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-SA-ESP-04A-2002d,Spain 4 4,Clay,32,S,20020408,3,103340,,Q,Isaac Tortades,R,,ESP,23.0691307324,104099,,,Israel Matos Gil,U,,ESP,19.3155373032,6-4 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,945,7,653,21
 2002-M-SA-ESP-04A-2002d,Spain 4 4,Clay,32,S,20020408,4,103490,6,,Santiago Ventura,R,183,ESP,22.2559890486,102402,,,Alberto Banus Sado,R,,ESP,27.8384668036,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,517,40,666,20
 2002-M-SA-ESP-04A-2002d,Spain 4 4,Clay,32,S,20020408,5,103924,4,,Marc Fornell Mestres,R,,ESP,20.1971252567,102828,,,Roberto Menendez,R,,ESP,25.7467488022,7-6(5) 5-7 6-1,3,R32,,,,,,,,,,,,,,,,,,,,452,54,641,22
-2002-M-SA-ESP-04A-2002d,Spain 4 4,Clay,32,S,20020408,6,104542,,Q,Jo Wilfried Tsonga,R,188,FRA,16.9746748802,118720,,WC,Vicente Joli Viera,U,,ESP,17.1197809719,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,707,16,,
+2002-M-SA-ESP-04A-2002d,Spain 4 4,Clay,32,S,20020408,6,104542,,Q,Jo-Wilfried Tsonga,R,188,FRA,16.9746748802,118720,,WC,Vicente Joli Viera,U,,ESP,17.1197809719,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,707,16,,
 2002-M-SA-ESP-04A-2002d,Spain 4 4,Clay,32,S,20020408,7,104041,,Q,Sergi Arumi,R,,ESP,19.6960985626,103947,,,Ivan Esquerdo,U,,ESP,20.1095140315,6-4 7-6(0),3,R32,,,,,,,,,,,,,,,,,,,,1235,2,591,29
 2002-M-SA-ESP-04A-2002d,Spain 4 4,Clay,32,S,20020408,8,102736,8,,Maxime Boye,R,,FRA,26.0889801506,103476,,Q,Israel Vior Diaz,R,,ESP,22.3627652293,7-6(2) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,580,31,1068,5
 2002-M-SA-ESP-04A-2002d,Spain 4 4,Clay,32,S,20020408,9,117487,,,Ignacio Truyol Turrion,R,,ESP,28.6488706366,104091,5,,Miguel Angel Lopez Jaen,R,188,ESP,19.356605065,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,453,54
@@ -2618,7 +2618,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-SA-ESP-04A-2002d,Spain 4 4,Clay,32,S,20020408,16,102506,2,,Quino Munoz,R,178,ESP,27.2580424367,103854,,Q,Raul Morant,U,,ESP,20.5393566051,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,357,86,983,6
 2002-M-SA-ESP-04A-2002d,Spain 4 4,Clay,32,S,20020408,17,103242,1,,Juan Giner,R,178,ESP,23.6960985626,103382,,,Guillermo Platel,R,,ESP,22.8391512663,W/O,3,R16,,,,,,,,,,,,,,,,,,,,301,103,655,21
 2002-M-SA-ESP-04A-2002d,Spain 4 4,Clay,32,S,20020408,18,103490,6,,Santiago Ventura,R,183,ESP,22.2559890486,103340,,Q,Isaac Tortades,R,,ESP,23.0691307324,6-3 2-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,517,40,945,7
-2002-M-SA-ESP-04A-2002d,Spain 4 4,Clay,32,S,20020408,19,103924,4,,Marc Fornell Mestres,R,,ESP,20.1971252567,104542,,Q,Jo Wilfried Tsonga,R,188,FRA,16.9746748802,3-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,452,54,707,16
+2002-M-SA-ESP-04A-2002d,Spain 4 4,Clay,32,S,20020408,19,103924,4,,Marc Fornell Mestres,R,,ESP,20.1971252567,104542,,Q,Jo-Wilfried Tsonga,R,188,FRA,16.9746748802,3-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,452,54,707,16
 2002-M-SA-ESP-04A-2002d,Spain 4 4,Clay,32,S,20020408,20,102736,8,,Maxime Boye,R,,FRA,26.0889801506,104041,,Q,Sergi Arumi,R,,ESP,19.6960985626,1-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,580,31,1235,2
 2002-M-SA-ESP-04A-2002d,Spain 4 4,Clay,32,S,20020408,21,103578,,,Antonio Alcaraz,U,,ESP,21.7960301164,117487,,,Ignacio Truyol Turrion,R,,ESP,28.6488706366,7-6(0) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,642,22,,
 2002-M-SA-ESP-04A-2002d,Spain 4 4,Clay,32,S,20020408,22,103365,3,,Javier Garcia Sintes,R,,ESP,22.9349760438,103685,,,Olivier Ramos,U,,FRA,21.2402464066,6-3 5-7 6-2,3,R16,,,,,,,,,,,,,,,,,,,,396,71,664,20
@@ -2948,7 +2948,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-FU-JAM-03A-2002,Jamaica F3,Hard,32,S,20020422,5,103590,4,,Michael Quintero,R,,COL,21.7796030116,102875,,Q,Luke Smith,R,188,AUS,25.4893908282,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,472,50,713,16
 2002-M-FU-JAM-03A-2002,Jamaica F3,Hard,32,S,20020422,6,102789,,,Jay Gooding,R,188,AUS,25.9411362081,102990,,Q,Leif Meineke,U,,GER,24.9418206708,6-4 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,710,17,872,9
 2002-M-FU-JAM-03A-2002,Jamaica F3,Hard,32,S,20020422,7,103363,,,Diego Ayala,R,175,USA,22.9815195072,103810,,,Philipp Hammer,R,,GER,20.758384668,6-3 6-7(2) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,591,30,707,17
-2002-M-FU-JAM-03A-2002,Jamaica F3,Hard,32,S,20020422,8,103065,5,,Kepler Orellana,R,,VEN,24.5366187543,103508,,Q,Nick Mcdonald,R,,RSA,22.1848049281,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,503,45,1085,4
+2002-M-FU-JAM-03A-2002,Jamaica F3,Hard,32,S,20020422,8,103065,5,,Kepler Orellana,R,,VEN,24.5366187543,103508,,Q,Nick McDonald,R,,RSA,22.1848049281,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,503,45,1085,4
 2002-M-FU-JAM-03A-2002,Jamaica F3,Hard,32,S,20020422,9,104211,7,,Roman Valent,R,183,SUI,18.7898699521,103910,,,Tres Davis,R,180,USA,20.2710472279,6-1 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,529,39,687,18
 2002-M-FU-JAM-03A-2002,Jamaica F3,Hard,32,S,20020422,10,104460,,WC,Dustin Brown,R,196,GER,17.3689253936,102876,,,Gwenael Gueit,R,,FRA,25.4784394251,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1370,1,611,26
 2002-M-FU-JAM-03A-2002,Jamaica F3,Hard,32,S,20020422,11,103911,,,Julien Cassaigne,R,,FRA,20.2683093771,104113,,,Carlos Salamanca,L,196,COL,19.266255989,5-7 7-6(4) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,657,21,624,24
@@ -3706,7 +3706,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-FU-JAM-04A-2002,Jamaica F4,Hard,32,S,20020506,12,103225,4,,Simon Larose,R,190,CAN,23.8548939083,103943,,,Vinicius Bortolatto,R,,BRA,20.1998631075,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,514,42,805,11
 2002-M-FU-JAM-04A-2002,Jamaica F4,Hard,32,S,20020506,13,103775,5,,Felipe Parada,R,175,CHI,20.9719370294,103307,,Q,Matt Daly,U,,USA,23.3100616016,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,553,36,,
 2002-M-FU-JAM-04A-2002,Jamaica F4,Hard,32,S,20020506,14,104460,,WC,Dustin Brown,R,196,GER,17.4072553046,106653,,Q,Brandon Fallon,U,,USA,,7-6(2) 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1313,2,,
-2002-M-FU-JAM-04A-2002,Jamaica F4,Hard,32,S,20020506,15,103508,,Q,Nick Mcdonald,R,,RSA,22.2231348392,103730,,,Jonathan Marray,R,,GBR,21.1553730322,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1090,4,707,17
+2002-M-FU-JAM-04A-2002,Jamaica F4,Hard,32,S,20020506,15,103508,,Q,Nick McDonald,R,,RSA,22.2231348392,103730,,,Jonathan Marray,R,,GBR,21.1553730322,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1090,4,707,17
 2002-M-FU-JAM-04A-2002,Jamaica F4,Hard,32,S,20020506,16,103699,2,,Fred Hemmes,R,183,NED,21.2676249144,103058,,,Juan Felipe Yanez,R,,CHI,24.605065024,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,462,54,738,15
 2002-M-FU-JAM-04A-2002,Jamaica F4,Hard,32,S,20020506,17,103077,1,,Konstantinos Economidis,R,188,GRE,24.5065023956,103635,,Q,Andrew Derer,U,,AUS,21.6098562628,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,258,130,744,15
 2002-M-FU-JAM-04A-2002,Jamaica F4,Hard,32,S,20020506,18,104027,,,Pablo Gonzalez,R,178,COL,19.8439425051,104113,6,,Carlos Salamanca,L,196,COL,19.3045859001,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,682,19,624,24
@@ -3715,7 +3715,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-FU-JAM-04A-2002,Jamaica F4,Hard,32,S,20020506,21,103559,7,,David Sherwood,R,193,GBR,21.9986310746,104243,,,Oscar Posada,R,,VEN,18.6475017112,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,632,24,841,10
 2002-M-FU-JAM-04A-2002,Jamaica F4,Hard,32,S,20020506,22,103225,4,,Simon Larose,R,190,CAN,23.8548939083,102875,,,Luke Smith,R,188,AUS,25.5277207392,6-4 4-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,514,42,703,17
 2002-M-FU-JAM-04A-2002,Jamaica F4,Hard,32,S,20020506,23,103775,5,,Felipe Parada,R,175,CHI,20.9719370294,104460,,WC,Dustin Brown,R,196,GER,17.4072553046,6-7(3) 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,553,36,1313,2
-2002-M-FU-JAM-04A-2002,Jamaica F4,Hard,32,S,20020506,24,103699,2,,Fred Hemmes,R,183,NED,21.2676249144,103508,,Q,Nick Mcdonald,R,,RSA,22.2231348392,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,462,54,1090,4
+2002-M-FU-JAM-04A-2002,Jamaica F4,Hard,32,S,20020506,24,103699,2,,Fred Hemmes,R,183,NED,21.2676249144,103508,,Q,Nick McDonald,R,,RSA,22.2231348392,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,462,54,1090,4
 2002-M-FU-JAM-04A-2002,Jamaica F4,Hard,32,S,20020506,25,103077,1,,Konstantinos Economidis,R,188,GRE,24.5065023956,104027,,,Pablo Gonzalez,R,178,COL,19.8439425051,6-3 6-0,3,QF,,,,,,,,,,,,,,,,,,,,258,130,682,19
 2002-M-FU-JAM-04A-2002,Jamaica F4,Hard,32,S,20020506,26,103065,3,,Kepler Orellana,R,,VEN,24.5749486653,103053,,,Nikos Rovas,R,,GRE,24.6242299795,6-4 3-6 6-0,3,QF,,,,,,,,,,,,,,,,,,,,475,51,753,15
 2002-M-FU-JAM-04A-2002,Jamaica F4,Hard,32,S,20020506,27,103559,7,,David Sherwood,R,193,GBR,21.9986310746,103225,4,,Simon Larose,R,190,CAN,23.8548939083,6-1 1-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,632,24,514,42
@@ -3999,7 +3999,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-FU-JAM-05A-2002,Jamaica F5,Hard,32,S,20020513,3,102789,,,Jay Gooding,R,188,AUS,25.9986310746,103730,,,Jonathan Marray,R,,GBR,21.1745379877,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,699,18,708,17
 2002-M-FU-JAM-05A-2002,Jamaica F5,Hard,32,S,20020513,4,103388,8,,Rafael De Mesa,R,,USA,22.9130732375,118300,,WC,Kevron Bennett,R,,JAM,19.2525667351,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,631,24,,
 2002-M-FU-JAM-05A-2002,Jamaica F5,Hard,32,S,20020513,5,103065,4,,Kepler Orellana,R,,VEN,24.5941136208,104243,,,Oscar Posada,R,,VEN,18.6666666667,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,475,51,838,10
-2002-M-FU-JAM-05A-2002,Jamaica F5,Hard,32,S,20020513,6,102990,,Q,Leif Meineke,U,,GER,24.9993155373,103508,,Q,Nick Mcdonald,R,,RSA,22.2422997947,6-4 5-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,872,9,1090,4
+2002-M-FU-JAM-05A-2002,Jamaica F5,Hard,32,S,20020513,6,102990,,Q,Leif Meineke,U,,GER,24.9993155373,103508,,Q,Nick McDonald,R,,RSA,22.2422997947,6-4 5-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,872,9,1090,4
 2002-M-FU-JAM-05A-2002,Jamaica F5,Hard,32,S,20020513,7,103123,,Q,Michal Ciszek,U,,CAN,24.3039014374,103559,,,David Sherwood,R,193,GBR,22.0177960301,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,902,8,633,24
 2002-M-FU-JAM-05A-2002,Jamaica F5,Hard,32,S,20020513,8,104113,7,,Carlos Salamanca,L,196,COL,19.3237508556,104199,,Q,Sebastian Quintero,R,,COL,18.9404517454,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,625,24,922,7
 2002-M-FU-JAM-05A-2002,Jamaica F5,Hard,32,S,20020513,9,103053,,,Nikos Rovas,R,,GRE,24.643394935,103775,6,,Felipe Parada,R,175,CHI,20.9911019849,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,749,15,557,35
@@ -4242,7 +4242,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-FU-ITA-03A-2002,Italy F3,Clay,32,S,20020520,29,102243,4,SE,Marcelo Charpentier,L,180,ARG,28.8569472964,102738,,WC,Stefano Tarallo,R,185,ITA,26.1984941821,7-5 6-2,3,SF,,,,,,,,,,,,,,,,,,,,352,86,607,27
 2002-M-FU-ITA-03A-2002,Italy F3,Clay,32,S,20020520,30,103138,7,,Gianluca Luddi,R,,ITA,24.2874743326,103587,6,,Andres Dellatorre,R,190,ARG,21.8617385352,6-2 6-1,3,SF,,,,,,,,,,,,,,,,,,,,411,67,361,83
 2002-M-FU-ITA-03A-2002,Italy F3,Clay,32,S,20020520,31,103138,7,,Gianluca Luddi,R,,ITA,24.2874743326,102243,4,SE,Marcelo Charpentier,L,180,ARG,28.8569472964,7-6(4) 6-7(5) 6-2,3,F,,,,,,,,,,,,,,,,,,,,411,67,352,86
-2002-M-FU-JAM-06A-2002,Jamaica F6,Hard,32,S,20020520,1,103077,1,WC,Konstantinos Economidis,R,188,GRE,24.5448323066,103508,,LL,Nick Mcdonald,R,,RSA,22.2614647502,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,244,142,1036,5
+2002-M-FU-JAM-06A-2002,Jamaica F6,Hard,32,S,20020520,1,103077,1,WC,Konstantinos Economidis,R,188,GRE,24.5448323066,103508,,LL,Nick McDonald,R,,RSA,22.2614647502,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,244,142,1036,5
 2002-M-FU-JAM-06A-2002,Jamaica F6,Hard,32,S,20020520,2,103123,,,Michal Ciszek,U,,CAN,24.3230663929,104460,,WC,Dustin Brown,R,196,GER,17.4455852156,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,898,8,1203,3
 2002-M-FU-JAM-06A-2002,Jamaica F6,Hard,32,S,20020520,3,103058,,,Juan Felipe Yanez,R,,CHI,24.643394935,118853,,WC,Rayne Russell,U,,JAM,16.6926762491,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,730,15,,
 2002-M-FU-JAM-06A-2002,Jamaica F6,Hard,32,S,20020520,4,104169,8,,Kc Corkery,U,190,USA,19.0663928816,104210,,WC,Ryan Russell,L,,JAM,18.8720054757,6-7(4) 7-6(6) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,629,24,1302,2
@@ -5774,7 +5774,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-FU-RWA-01A-2002,Rwanda F1,Clay,32,S,20020617,4,102971,5,,Christophe Bosio,R,,FRA,25.18275154,118822,,Q,Daniel Ruyange,U,,UGA,16.6187542779,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,714,16,,
 2002-M-FU-RWA-01A-2002,Rwanda F1,Clay,32,S,20020617,5,103692,4,,Jakub Hasek,L,,CZE,21.4127310062,118823,,LL,Claude Mpazimaka,U,,RWA,20.8733744011,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,725,16,,
 2002-M-FU-RWA-01A-2002,Rwanda F1,Clay,32,S,20020617,6,101996,,Q,David Mullins,R,,IRL,30.507871321,118824,,Q,Sebastian Mtupili,U,,TAN,29.067761807,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2002-M-FU-RWA-01A-2002,Rwanda F1,Clay,32,S,20020617,7,103508,,,Nick Mcdonald,R,,RSA,22.3381245722,118825,,Q,Jean Claude Gasigwa,U,,RWA,18.9431895962,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1381,1,,
+2002-M-FU-RWA-01A-2002,Rwanda F1,Clay,32,S,20020617,7,103508,,,Nick McDonald,R,,RSA,22.3381245722,118825,,Q,Jean Claude Gasigwa,U,,RWA,18.9431895962,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1381,1,,
 2002-M-FU-RWA-01A-2002,Rwanda F1,Clay,32,S,20020617,8,102696,6,,Guillaume Couillard,R,,MON,26.5188227242,103482,,Q,Robert Gustafsson,U,,SWE,22.4969199179,7-6(5) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,751,14,1381,1
 2002-M-FU-RWA-01A-2002,Rwanda F1,Clay,32,S,20020617,9,103413,8,,Genius Chidzikwe,R,,ZIM,22.8720054757,118569,,LL,Sunesh Vather,U,,RSA,18.2067077344,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,829,10,,
 2002-M-FU-RWA-01A-2002,Rwanda F1,Clay,32,S,20020617,10,103568,,,Valentin Sanon,R,,CIV,22.0752908966,103449,,,Mohamed Dakki,U,,MAR,22.71321013,6-3 6-7(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1074,5,1191,3
@@ -5787,7 +5787,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-FU-RWA-01A-2002,Rwanda F1,Clay,32,S,20020617,17,103765,1,,Mohamed Sekou Drame,U,,FRA,21.1170431211,108901,,Q,Zibusiso Ncube,U,,ZIM,23.627652293,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,369,77,,
 2002-M-FU-RWA-01A-2002,Rwanda F1,Clay,32,S,20020617,18,102971,5,,Christophe Bosio,R,,FRA,25.18275154,103576,,,Barry Fulcher,U,,GBR,22.0177960301,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,714,16,848,10
 2002-M-FU-RWA-01A-2002,Rwanda F1,Clay,32,S,20020617,19,101996,,Q,David Mullins,R,,IRL,30.507871321,103692,4,,Jakub Hasek,L,,CZE,21.4127310062,6-7(5) 7-6(3) 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,,,725,16
-2002-M-FU-RWA-01A-2002,Rwanda F1,Clay,32,S,20020617,20,102696,6,,Guillaume Couillard,R,,MON,26.5188227242,103508,,,Nick Mcdonald,R,,RSA,22.3381245722,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,751,14,1381,1
+2002-M-FU-RWA-01A-2002,Rwanda F1,Clay,32,S,20020617,20,102696,6,,Guillaume Couillard,R,,MON,26.5188227242,103508,,,Nick McDonald,R,,RSA,22.3381245722,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,751,14,1381,1
 2002-M-FU-RWA-01A-2002,Rwanda F1,Clay,32,S,20020617,21,103413,8,,Genius Chidzikwe,R,,ZIM,22.8720054757,103568,,,Valentin Sanon,R,,CIV,22.0752908966,6-3 1-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,829,10,1074,5
 2002-M-FU-RWA-01A-2002,Rwanda F1,Clay,32,S,20020617,22,102876,3,,Gwenael Gueit,R,,FRA,25.6317590691,103842,,,Rouslan Nourmatov,R,,RUS,20.7693360712,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,617,26,1311,2
 2002-M-FU-RWA-01A-2002,Rwanda F1,Clay,32,S,20020617,23,102556,,WC,Claude Ngoran,L,190,CIV,27.2498288843,104228,7,,Guillem Burniol,R,,ESP,18.841889117,7-6(3) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,792,12
@@ -6142,7 +6142,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-FU-RWA-02A-2002,Rwanda F2,Clay,32,S,20020624,8,102267,,,Gwinyai Tongoona,U,,ZIM,28.7036276523,103576,8,,Barry Fulcher,U,,GBR,22.0369609856,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,989,6,851,10
 2002-M-FU-RWA-02A-2002,Rwanda F2,Clay,32,S,20020624,9,104228,6,,Guillem Burniol,R,,ESP,18.8610540726,108901,,Q,Zibusiso Ncube,U,,ZIM,23.6468172485,3-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,795,12,,
 2002-M-FU-RWA-02A-2002,Rwanda F2,Clay,32,S,20020624,10,103226,,,Walid Jallali,R,,TUN,23.9835728953,118830,,LL,Jessie Koti,U,,ZIM,23.2060232717,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1310,2,,
-2002-M-FU-RWA-02A-2002,Rwanda F2,Clay,32,S,20020624,11,103508,,,Nick Mcdonald,R,,RSA,22.3572895277,118825,,Q,Jean Claude Gasigwa,U,,RWA,18.9623545517,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1381,1,,
+2002-M-FU-RWA-02A-2002,Rwanda F2,Clay,32,S,20020624,11,103508,,,Nick McDonald,R,,RSA,22.3572895277,118825,,Q,Jean Claude Gasigwa,U,,RWA,18.9623545517,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1381,1,,
 2002-M-FU-RWA-02A-2002,Rwanda F2,Clay,32,S,20020624,12,103692,4,,Jakub Hasek,L,,CZE,21.4318959617,103842,,,Rouslan Nourmatov,R,,RUS,20.7885010267,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,730,16,1310,2
 2002-M-FU-RWA-02A-2002,Rwanda F2,Clay,32,S,20020624,13,102696,5,,Guillaume Couillard,R,,MON,26.5379876797,118827,,Q,Ata Khatib,R,,GBR,19.5126625599,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,751,14,,
 2002-M-FU-RWA-02A-2002,Rwanda F2,Clay,32,S,20020624,14,108853,,WC,Allan Cooper,U,,KEN,24.9253935661,118826,,,Johannes Prins,U,,RSA,24.4873374401,6-7(3) 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1252,2
@@ -6153,7 +6153,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-FU-RWA-02A-2002,Rwanda F2,Clay,32,S,20020624,19,102971,3,,Christophe Bosio,R,,FRA,25.2019164956,102556,,WC,Claude Ngoran,L,190,CIV,27.2689938398,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,716,16,,
 2002-M-FU-RWA-02A-2002,Rwanda F2,Clay,32,S,20020624,20,102267,,,Gwinyai Tongoona,U,,ZIM,28.7036276523,103568,,,Valentin Sanon,R,,CIV,22.0944558522,6-3 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,989,6,1219,3
 2002-M-FU-RWA-02A-2002,Rwanda F2,Clay,32,S,20020624,21,104228,6,,Guillem Burniol,R,,ESP,18.8610540726,103226,,,Walid Jallali,R,,TUN,23.9835728953,7-6(6) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,795,12,1310,2
-2002-M-FU-RWA-02A-2002,Rwanda F2,Clay,32,S,20020624,22,103692,4,,Jakub Hasek,L,,CZE,21.4318959617,103508,,,Nick Mcdonald,R,,RSA,22.3572895277,6-3 6-7(3) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,730,16,1381,1
+2002-M-FU-RWA-02A-2002,Rwanda F2,Clay,32,S,20020624,22,103692,4,,Jakub Hasek,L,,CZE,21.4318959617,103508,,,Nick McDonald,R,,RSA,22.3572895277,6-3 6-7(3) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,730,16,1381,1
 2002-M-FU-RWA-02A-2002,Rwanda F2,Clay,32,S,20020624,23,102696,5,,Guillaume Couillard,R,,MON,26.5379876797,108853,,WC,Allan Cooper,U,,KEN,24.9253935661,5-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,751,14,,
 2002-M-FU-RWA-02A-2002,Rwanda F2,Clay,32,S,20020624,24,103482,,Q,Robert Gustafsson,U,,SWE,22.5160848734,104153,,Q,Heinrich Heyl,R,,RSA,19.2306639288,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1381,1,,
 2002-M-FU-RWA-02A-2002,Rwanda F2,Clay,32,S,20020624,25,103413,7,,Genius Chidzikwe,R,,ZIM,22.8911704312,104171,,,Richard Bloomfield,R,185,GBR,19.1594798084,6-7(4) 6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,829,10,1109,4
@@ -6363,7 +6363,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-FU-KEN-01A-2002,Kenya F1,Hard,32,S,20020701,12,118826,,,Johannes Prins,U,,RSA,24.5065023956,118831,,LL,Prabhjit Singh,U,,IND,19.9835728953,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1252,2,,
 2002-M-FU-KEN-01A-2002,Kenya F1,Hard,32,S,20020701,13,104171,8,,Richard Bloomfield,R,185,GBR,19.1786447639,118830,,Q,Jessie Koti,U,,ZIM,23.2251882272,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1109,4,,
 2002-M-FU-KEN-01A-2002,Kenya F1,Hard,32,S,20020701,14,118832,,Q,Gurverinder Sahota Singh,U,,IND,26.8747433265,118833,,Q,Francis Thuku Mwangi,U,,KEN,20.1505817933,6-1 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2002-M-FU-KEN-01A-2002,Kenya F1,Hard,32,S,20020701,15,103508,,,Nick Mcdonald,R,,RSA,22.3764544832,118834,,LL,Nixon Wekesa,U,,KEN,23.0034223135,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1381,1,,
+2002-M-FU-KEN-01A-2002,Kenya F1,Hard,32,S,20020701,15,103508,,,Nick McDonald,R,,RSA,22.3764544832,118834,,LL,Nixon Wekesa,U,,KEN,23.0034223135,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1381,1,,
 2002-M-FU-KEN-01A-2002,Kenya F1,Hard,32,S,20020701,16,102876,2,,Gwenael Gueit,R,,FRA,25.6700889802,118521,,LL,Ruslan Legar,U,,ISR,17.7002053388,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,626,26,,
 2002-M-FU-KEN-01A-2002,Kenya F1,Hard,32,S,20020701,17,103482,,,Robert Gustafsson,U,,SWE,22.5352498289,103098,1,,Johan Du Randt,U,,RSA,24.5201916496,6-3 4-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1381,1,598,29
 2002-M-FU-KEN-01A-2002,Kenya F1,Hard,32,S,20020701,18,101996,,Q,David Mullins,R,,IRL,30.546201232,103044,6,,Benoit Foucher,R,,FRA,24.8186173854,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,889,9
@@ -6372,11 +6372,11 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-FU-KEN-01A-2002,Kenya F1,Hard,32,S,20020701,21,103931,,,Andreas Spaniol,U,,GER,20.3969883641,102556,,Q,Claude Ngoran,L,190,CIV,27.2881587953,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1310,2,,
 2002-M-FU-KEN-01A-2002,Kenya F1,Hard,32,S,20020701,22,103568,,,Valentin Sanon,R,,CIV,22.1136208077,118826,,,Johannes Prins,U,,RSA,24.5065023956,2-6 6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1219,3,1252,2
 2002-M-FU-KEN-01A-2002,Kenya F1,Hard,32,S,20020701,23,104171,8,,Richard Bloomfield,R,185,GBR,19.1786447639,118832,,Q,Gurverinder Sahota Singh,U,,IND,26.8747433265,6-0 6-0,3,R16,,,,,,,,,,,,,,,,,,,,1109,4,,
-2002-M-FU-KEN-01A-2002,Kenya F1,Hard,32,S,20020701,24,103508,,,Nick Mcdonald,R,,RSA,22.3764544832,102876,2,,Gwenael Gueit,R,,FRA,25.6700889802,6-0 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1381,1,626,26
+2002-M-FU-KEN-01A-2002,Kenya F1,Hard,32,S,20020701,24,103508,,,Nick McDonald,R,,RSA,22.3764544832,102876,2,,Gwenael Gueit,R,,FRA,25.6700889802,6-0 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1381,1,626,26
 2002-M-FU-KEN-01A-2002,Kenya F1,Hard,32,S,20020701,25,101996,,Q,David Mullins,R,,IRL,30.546201232,103482,,,Robert Gustafsson,U,,SWE,22.5352498289,7-5 7-6(2),3,QF,,,,,,,,,,,,,,,,,,,,,,1381,1
 2002-M-FU-KEN-01A-2002,Kenya F1,Hard,32,S,20020701,26,103226,,,Walid Jallali,R,,TUN,24.0027378508,103449,,,Mohamed Dakki,U,,MAR,22.7515400411,6-2 7-6(6),3,QF,,,,,,,,,,,,,,,,,,,,1310,2,1191,3
 2002-M-FU-KEN-01A-2002,Kenya F1,Hard,32,S,20020701,27,103931,,,Andreas Spaniol,U,,GER,20.3969883641,103568,,,Valentin Sanon,R,,CIV,22.1136208077,6-3 7-6(4),3,QF,,,,,,,,,,,,,,,,,,,,1310,2,1219,3
-2002-M-FU-KEN-01A-2002,Kenya F1,Hard,32,S,20020701,28,104171,8,,Richard Bloomfield,R,185,GBR,19.1786447639,103508,,,Nick Mcdonald,R,,RSA,22.3764544832,7-5 5-7 6-4,3,QF,,,,,,,,,,,,,,,,,,,,1109,4,1381,1
+2002-M-FU-KEN-01A-2002,Kenya F1,Hard,32,S,20020701,28,104171,8,,Richard Bloomfield,R,185,GBR,19.1786447639,103508,,,Nick McDonald,R,,RSA,22.3764544832,7-5 5-7 6-4,3,QF,,,,,,,,,,,,,,,,,,,,1109,4,1381,1
 2002-M-FU-KEN-01A-2002,Kenya F1,Hard,32,S,20020701,29,103226,,,Walid Jallali,R,,TUN,24.0027378508,101996,,Q,David Mullins,R,,IRL,30.546201232,2-6 6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,1310,2,,
 2002-M-FU-KEN-01A-2002,Kenya F1,Hard,32,S,20020701,30,104171,8,,Richard Bloomfield,R,185,GBR,19.1786447639,103931,,,Andreas Spaniol,U,,GER,20.3969883641,6-1 0-6 7-6(1),3,SF,,,,,,,,,,,,,,,,,,,,1109,4,1310,2
 2002-M-FU-KEN-01A-2002,Kenya F1,Hard,32,S,20020701,31,103226,,,Walid Jallali,R,,TUN,24.0027378508,104171,8,,Richard Bloomfield,R,185,GBR,19.1786447639,6-3 6-3,3,F,,,,,,,,,,,,,,,,,,,,1310,2,1109,4
@@ -6544,7 +6544,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-FU-FRA-12A-2002,France F12,Clay,32,S,20020708,7,103362,,,Sonny Kayombo,U,,FRA,23.2005475702,103241,,,Lars Zimmermann,R,,GER,23.9507186858,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,633,25,616,27
 2002-M-FU-FRA-12A-2002,France F12,Clay,32,S,20020708,8,103004,,Q,Guillaume Legat,R,,FRA,25.0704996578,102637,8,,Julien Couly,R,,FRA,26.9158110883,7-6(10) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,431,61
 2002-M-FU-FRA-12A-2002,France F12,Clay,32,S,20020708,9,103668,6,,Lazar Magdincev,R,,MKD,21.5605749487,103547,,,Anton Kokurin,R,,UZB,22.2258726899,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,380,75,613,28
-2002-M-FU-FRA-12A-2002,France F12,Clay,32,S,20020708,10,104542,,WC,Jo Wilfried Tsonga,R,188,FRA,17.2238193018,104515,,WC,Mathieu Montcourt,R,183,FRA,17.3442847365,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,693,18,,
+2002-M-FU-FRA-12A-2002,France F12,Clay,32,S,20020708,10,104542,,WC,Jo-Wilfried Tsonga,R,188,FRA,17.2238193018,104515,,WC,Mathieu Montcourt,R,183,FRA,17.3442847365,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,693,18,,
 2002-M-FU-FRA-12A-2002,France F12,Clay,32,S,20020708,11,102354,,,Jerome Hanquez,R,185,FRA,28.3258042437,104397,,Q,Laurent Recouderc,R,,FRA,17.993155373,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,434,60,1145,4
 2002-M-FU-FRA-12A-2002,France F12,Clay,32,S,20020708,12,102690,3,,Matteo Colla,R,,ITA,26.6228610541,102044,,Q,Cedric Lenoir,R,,FRA,30.2203969884,6-4 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,330,89,1034,5
 2002-M-FU-FRA-12A-2002,France F12,Clay,32,S,20020708,13,102323,5,,Regis Lavergne,R,,FRA,28.4407939767,103961,,Q,Bertrand Contzler,U,,FRA,20.295687885,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,415,65,1108,4
@@ -6555,16 +6555,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-FU-FRA-12A-2002,France F12,Clay,32,S,20020708,18,104402,,WC,Clement Morel,R,,MON,17.9767282683,103658,7,,Jordane Doble,R,,FRA,21.5961670089,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1262,2,438,59
 2002-M-FU-FRA-12A-2002,France F12,Clay,32,S,20020708,19,103685,,,Olivier Ramos,U,,FRA,21.4893908282,103726,4,,Jean Christophe Faurel,R,175,FRA,21.3388090349,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,660,22,389,73
 2002-M-FU-FRA-12A-2002,France F12,Clay,32,S,20020708,20,103004,,Q,Guillaume Legat,R,,FRA,25.0704996578,103362,,,Sonny Kayombo,U,,FRA,23.2005475702,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,633,25
-2002-M-FU-FRA-12A-2002,France F12,Clay,32,S,20020708,21,104542,,WC,Jo Wilfried Tsonga,R,188,FRA,17.2238193018,103668,6,,Lazar Magdincev,R,,MKD,21.5605749487,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,693,18,380,75
+2002-M-FU-FRA-12A-2002,France F12,Clay,32,S,20020708,21,104542,,WC,Jo-Wilfried Tsonga,R,188,FRA,17.2238193018,103668,6,,Lazar Magdincev,R,,MKD,21.5605749487,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,693,18,380,75
 2002-M-FU-FRA-12A-2002,France F12,Clay,32,S,20020708,22,102354,,,Jerome Hanquez,R,185,FRA,28.3258042437,102690,3,,Matteo Colla,R,,ITA,26.6228610541,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,434,60,330,89
 2002-M-FU-FRA-12A-2002,France F12,Clay,32,S,20020708,23,102323,5,,Regis Lavergne,R,,FRA,28.4407939767,103787,,SE,Walter Orth,U,,GER,21.0869267625,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,415,65,809,12
 2002-M-FU-FRA-12A-2002,France F12,Clay,32,S,20020708,24,104110,,Q,Julien Maigret,R,,FRA,19.4907597536,102958,,LL,Julien Cuaz,R,,FRA,25.3086926762,6-1 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1057,5,774,13
 2002-M-FU-FRA-12A-2002,France F12,Clay,32,S,20020708,25,103898,1,WC,Julien Benneteau,R,185,FRA,20.5475701574,104402,,WC,Clement Morel,R,,MON,17.9767282683,7-5 6-4,3,QF,,,,,,,,,,,,,,,,,,,,213,169,1262,2
 2002-M-FU-FRA-12A-2002,France F12,Clay,32,S,20020708,26,103004,,Q,Guillaume Legat,R,,FRA,25.0704996578,103685,,,Olivier Ramos,U,,FRA,21.4893908282,7-6(2) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,660,22
-2002-M-FU-FRA-12A-2002,France F12,Clay,32,S,20020708,27,104542,,WC,Jo Wilfried Tsonga,R,188,FRA,17.2238193018,102354,,,Jerome Hanquez,R,185,FRA,28.3258042437,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,693,18,434,60
+2002-M-FU-FRA-12A-2002,France F12,Clay,32,S,20020708,27,104542,,WC,Jo-Wilfried Tsonga,R,188,FRA,17.2238193018,102354,,,Jerome Hanquez,R,185,FRA,28.3258042437,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,693,18,434,60
 2002-M-FU-FRA-12A-2002,France F12,Clay,32,S,20020708,28,102323,5,,Regis Lavergne,R,,FRA,28.4407939767,104110,,Q,Julien Maigret,R,,FRA,19.4907597536,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,415,65,1057,5
 2002-M-FU-FRA-12A-2002,France F12,Clay,32,S,20020708,29,103004,,Q,Guillaume Legat,R,,FRA,25.0704996578,103898,1,WC,Julien Benneteau,R,185,FRA,20.5475701574,6-1 3-4 RET,3,SF,,,,,,,,,,,,,,,,,,,,,,213,169
-2002-M-FU-FRA-12A-2002,France F12,Clay,32,S,20020708,30,102323,5,,Regis Lavergne,R,,FRA,28.4407939767,104542,,WC,Jo Wilfried Tsonga,R,188,FRA,17.2238193018,6-4 7-5,3,SF,,,,,,,,,,,,,,,,,,,,415,65,693,18
+2002-M-FU-FRA-12A-2002,France F12,Clay,32,S,20020708,30,102323,5,,Regis Lavergne,R,,FRA,28.4407939767,104542,,WC,Jo-Wilfried Tsonga,R,188,FRA,17.2238193018,6-4 7-5,3,SF,,,,,,,,,,,,,,,,,,,,415,65,693,18
 2002-M-FU-FRA-12A-2002,France F12,Clay,32,S,20020708,31,102323,5,,Regis Lavergne,R,,FRA,28.4407939767,103004,,Q,Guillaume Legat,R,,FRA,25.0704996578,6-4 6-4,3,F,,,,,,,,,,,,,,,,,,,,415,65,,
 2002-M-FU-SVK-03A-2002,Slovak Rep F2,Clay,32,S,20020708,1,104225,1,,Jan Hajek,R,180,CZE,18.9185489391,103614,,,Josef Nesticky,R,,CZE,21.9055441478,4-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,350,83,673,20
 2002-M-FU-SVK-03A-2002,Slovak Rep F2,Clay,32,S,20020708,2,104278,,Q,Matt Bocko,U,,USA,18.5708418891,103779,,,Tobias Koeck,U,,AUT,21.1307323751,5-7 6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1233,3,658,22
@@ -6726,7 +6726,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-FU-FRA-13A-2002,France F13,Clay,32,S,20020715,3,102261,,,Fabrice Betencourt,R,,FRA,28.8240930869,111483,,WC,Jean Baptiste Robin,L,,FRA,17.1663244353,6-4 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,608,27,,
 2002-M-FU-FRA-13A-2002,France F13,Clay,32,S,20020715,4,102579,,Q,Xavier Audouy,U,,FRA,27.2224503765,103547,8,,Anton Kokurin,R,,UZB,22.2450376454,6-4 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,1255,2,604,28
 2002-M-FU-FRA-13A-2002,France F13,Clay,32,S,20020715,5,102637,4,,Julien Couly,R,,FRA,26.9349760438,103648,,Q,John Thivolle,U,,FRA,21.7002053388,6-2 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,426,61,1206,3
-2002-M-FU-FRA-13A-2002,France F13,Clay,32,S,20020715,6,104542,,SE,Jo Wilfried Tsonga,R,188,FRA,17.2429842574,103004,,SE,Guillaume Legat,R,,FRA,25.0896646133,6-7(3) 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,696,18,,
+2002-M-FU-FRA-13A-2002,France F13,Clay,32,S,20020715,6,104542,,SE,Jo-Wilfried Tsonga,R,188,FRA,17.2429842574,103004,,SE,Guillaume Legat,R,,FRA,25.0896646133,6-7(3) 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,696,18,,
 2002-M-FU-FRA-13A-2002,France F13,Clay,32,S,20020715,7,103531,,,Thomas Oger,U,,MON,22.3134839151,103534,,,Nicolas Devilder,L,173,FRA,22.3052703628,7-5 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,698,18,689,19
 2002-M-FU-FRA-13A-2002,France F13,Clay,32,S,20020715,8,102937,6,,Sebastien Lami,R,,FRA,25.4236824093,102244,,,Gregory Girault,R,,FRA,28.9883641342,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,453,53,668,21
 2002-M-FU-FRA-13A-2002,France F13,Clay,32,S,20020715,9,103675,7,,Diego Junqueira,L,178,ARG,21.5441478439,104023,,LL,Nicolas Renavand,R,,FRA,20.0547570157,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,617,27,807,12
@@ -6739,7 +6739,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-FU-FRA-13A-2002,France F13,Clay,32,S,20020715,16,103726,2,,Jean Christophe Faurel,R,175,FRA,21.3579739904,103685,,,Olivier Ramos,U,,FRA,21.5085557837,2-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,382,73,659,22
 2002-M-FU-FRA-13A-2002,France F13,Clay,32,S,20020715,17,104110,,WC,Julien Maigret,R,,FRA,19.5099247091,102939,1,WC,Jean Baptiste Perlant,R,190,FRA,25.3908281999,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1052,5,436,59
 2002-M-FU-FRA-13A-2002,France F13,Clay,32,S,20020715,18,102579,,Q,Xavier Audouy,U,,FRA,27.2224503765,102261,,,Fabrice Betencourt,R,,FRA,28.8240930869,3-6 6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1255,2,608,27
-2002-M-FU-FRA-13A-2002,France F13,Clay,32,S,20020715,19,102637,4,,Julien Couly,R,,FRA,26.9349760438,104542,,SE,Jo Wilfried Tsonga,R,188,FRA,17.2429842574,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,426,61,696,18
+2002-M-FU-FRA-13A-2002,France F13,Clay,32,S,20020715,19,102637,4,,Julien Couly,R,,FRA,26.9349760438,104542,,SE,Jo-Wilfried Tsonga,R,188,FRA,17.2429842574,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,426,61,696,18
 2002-M-FU-FRA-13A-2002,France F13,Clay,32,S,20020715,20,102937,6,,Sebastien Lami,R,,FRA,25.4236824093,103531,,,Thomas Oger,U,,MON,22.3134839151,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,453,53,698,18
 2002-M-FU-FRA-13A-2002,France F13,Clay,32,S,20020715,21,103675,7,,Diego Junqueira,L,178,ARG,21.5441478439,103691,,,Baptiste Dupuy,L,,FRA,21.492128679,7-5 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,617,27,688,19
 2002-M-FU-FRA-13A-2002,France F13,Clay,32,S,20020715,22,103527,,Q,Julien Jeanpierre,R,188,FRA,22.3463381246,102323,3,,Regis Lavergne,R,,FRA,28.4599589322,7-6(4) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,828,11,407,65
@@ -7098,7 +7098,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-SA-GHA-01A-2002a,West Africa 1,Hard,32,S,20020715,11,118765,,,Kwami Gakpo,U,,TOG,18.4722792608,104464,,,Abdul Mumin Babalola,L,,NGR,17.5797399042,6-2 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2002-M-SA-GHA-01A-2002a,West Africa 1,Hard,32,S,20020715,12,103098,4,,Johan Du Randt,U,,RSA,24.5585215606,103355,,,Sunday Maku,U,,NGR,23.2826830938,6-4 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,553,35,1170,3
 2002-M-SA-GHA-01A-2002a,West Africa 1,Hard,32,S,20020715,13,104235,7,,Matwe Middelkoop,R,,NED,18.8637919233,108667,,WC,Kwasi Ahenkora,U,,GHA,20.2765229295,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1311,2,,
-2002-M-SA-GHA-01A-2002a,West Africa 1,Hard,32,S,20020715,14,103508,,Q,Nick Mcdonald,R,,RSA,22.4147843943,108668,,Q,Frederick Egyir,U,,GHA,21.6563997262,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1072,5,,
+2002-M-SA-GHA-01A-2002a,West Africa 1,Hard,32,S,20020715,14,103508,,Q,Nick McDonald,R,,RSA,22.4147843943,108668,,Q,Frederick Egyir,U,,GHA,21.6563997262,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1072,5,,
 2002-M-SA-GHA-01A-2002a,West Africa 1,Hard,32,S,20020715,15,103568,,WC,Valentin Sanon,R,,CIV,22.1519507187,118767,,WC,Ajayi Ayodeji,U,,NGR,20.5092402464,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,960,7,,
 2002-M-SA-GHA-01A-2002a,West Africa 1,Hard,32,S,20020715,16,103765,2,,Mohamed Sekou Drame,U,,FRA,21.1937029432,117966,,,Ronald Rugimbana,U,,TAN,25.0622861054,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,350,81,,
 2002-M-SA-GHA-01A-2002a,West Africa 1,Hard,32,S,20020715,17,102802,1,,Gunther Darkey,R,,GHA,26.0999315537,103263,,,Justin Layne,R,,GBR,23.819301848,6-3 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,874,9,928,7
@@ -7107,16 +7107,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-SA-GHA-01A-2002a,West Africa 1,Hard,32,S,20020715,20,103993,6,,Chris Lewis,U,,GBR,20.180698152,103614,,,Josef Nesticky,R,,CZE,21.9247091034,7-6(3) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1206,3,674,20
 2002-M-SA-GHA-01A-2002a,West Africa 1,Hard,32,S,20020715,21,104158,8,,Andrew Anderson,R,193,RSA,19.2689938398,118919,,Q,Andrey Kozhemyakin,U,,RUS,20.4106776181,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1400,1,,
 2002-M-SA-GHA-01A-2002a,West Africa 1,Hard,32,S,20020715,22,103098,4,,Johan Du Randt,U,,RSA,24.5585215606,118765,,,Kwami Gakpo,U,,TOG,18.4722792608,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,553,35,,
-2002-M-SA-GHA-01A-2002a,West Africa 1,Hard,32,S,20020715,23,103508,,Q,Nick Mcdonald,R,,RSA,22.4147843943,104235,7,,Matwe Middelkoop,R,,NED,18.8637919233,7-6(3) 6-0,3,R16,,,,,,,,,,,,,,,,,,,,1072,5,1311,2
+2002-M-SA-GHA-01A-2002a,West Africa 1,Hard,32,S,20020715,23,103508,,Q,Nick McDonald,R,,RSA,22.4147843943,104235,7,,Matwe Middelkoop,R,,NED,18.8637919233,7-6(3) 6-0,3,R16,,,,,,,,,,,,,,,,,,,,1072,5,1311,2
 2002-M-SA-GHA-01A-2002a,West Africa 1,Hard,32,S,20020715,24,103568,,WC,Valentin Sanon,R,,CIV,22.1519507187,103765,2,,Mohamed Sekou Drame,U,,FRA,21.1937029432,3-6 7-6(9) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,960,7,350,81
 2002-M-SA-GHA-01A-2002a,West Africa 1,Hard,32,S,20020715,25,102802,1,,Gunther Darkey,R,,GHA,26.0999315537,103636,,Q,Federico Torresi,R,,ITA,21.7960301164,7-5 6-2,3,QF,,,,,,,,,,,,,,,,,,,,874,9,852,10
 2002-M-SA-GHA-01A-2002a,West Africa 1,Hard,32,S,20020715,26,102556,3,,Claude Ngoran,L,190,CIV,27.3264887064,103993,6,,Chris Lewis,U,,GBR,20.180698152,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,1145,4,1206,3
 2002-M-SA-GHA-01A-2002a,West Africa 1,Hard,32,S,20020715,27,103098,4,,Johan Du Randt,U,,RSA,24.5585215606,104158,8,,Andrew Anderson,R,193,RSA,19.2689938398,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,553,35,1400,1
-2002-M-SA-GHA-01A-2002a,West Africa 1,Hard,32,S,20020715,28,103568,,WC,Valentin Sanon,R,,CIV,22.1519507187,103508,,Q,Nick Mcdonald,R,,RSA,22.4147843943,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,960,7,1072,5
+2002-M-SA-GHA-01A-2002a,West Africa 1,Hard,32,S,20020715,28,103568,,WC,Valentin Sanon,R,,CIV,22.1519507187,103508,,Q,Nick McDonald,R,,RSA,22.4147843943,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,960,7,1072,5
 2002-M-SA-GHA-01A-2002a,West Africa 1,Hard,32,S,20020715,29,102556,3,,Claude Ngoran,L,190,CIV,27.3264887064,102802,1,,Gunther Darkey,R,,GHA,26.0999315537,6-0 6-1,3,SF,,,,,,,,,,,,,,,,,,,,1145,4,874,9
 2002-M-SA-GHA-01A-2002a,West Africa 1,Hard,32,S,20020715,30,103568,,WC,Valentin Sanon,R,,CIV,22.1519507187,103098,4,,Johan Du Randt,U,,RSA,24.5585215606,2-6 7-5 6-4,3,SF,,,,,,,,,,,,,,,,,,,,960,7,553,35
 2002-M-SA-GHA-01A-2002a,West Africa 1,Hard,32,S,20020715,31,102556,3,,Claude Ngoran,L,190,CIV,27.3264887064,103568,,WC,Valentin Sanon,R,,CIV,22.1519507187,6-4 6-2,3,F,,,,,,,,,,,,,,,,,,,,1145,4,960,7
-2002-M-SA-GHA-01A-2002b,West Africa 2,Hard,24,S,20020715,1,103508,,,Nick Mcdonald,R,,RSA,22.4147843943,108901,,,Zibusiso Ncube,U,,ZIM,23.704312115,6-3 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,1072,5,1400,1
+2002-M-SA-GHA-01A-2002b,West Africa 2,Hard,24,S,20020715,1,103508,,,Nick McDonald,R,,RSA,22.4147843943,108901,,,Zibusiso Ncube,U,,ZIM,23.704312115,6-3 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,1072,5,1400,1
 2002-M-SA-GHA-01A-2002b,West Africa 2,Hard,24,S,20020715,2,104235,,,Matwe Middelkoop,R,,NED,18.8637919233,118919,,,Andrey Kozhemyakin,U,,RUS,20.4106776181,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1311,2,,
 2002-M-SA-GHA-01A-2002b,West Africa 2,Hard,24,S,20020715,3,104464,,,Abdul Mumin Babalola,L,,NGR,17.5797399042,103614,,,Josef Nesticky,R,,CZE,21.9247091034,3-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,674,20
 2002-M-SA-GHA-01A-2002b,West Africa 2,Hard,24,S,20020715,4,117966,,,Ronald Rugimbana,U,,TAN,25.0622861054,102888,,,Toyin Dairo,U,,NGR,25.6454483231,6-3 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -7124,7 +7124,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-SA-GHA-01A-2002b,West Africa 2,Hard,24,S,20020715,6,118555,,,Ibrahim Kabiru,U,,NGR,22.5489390828,118767,,,Ajayi Ayodeji,U,,NGR,20.5092402464,4-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2002-M-SA-GHA-01A-2002b,West Africa 2,Hard,24,S,20020715,7,103636,,,Federico Torresi,R,,ITA,21.7960301164,118765,,,Kwami Gakpo,U,,TOG,18.4722792608,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,852,10,,
 2002-M-SA-GHA-01A-2002b,West Africa 2,Hard,24,S,20020715,8,103263,,,Justin Layne,R,,GBR,23.819301848,111127,,,Remco Pondman,R,,NED,22.9514031485,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,928,7,1255,2
-2002-M-SA-GHA-01A-2002b,West Africa 2,Hard,24,S,20020715,9,102556,1,,Claude Ngoran,L,190,CIV,27.3264887064,103508,,,Nick Mcdonald,R,,RSA,22.4147843943,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1145,4,1072,5
+2002-M-SA-GHA-01A-2002b,West Africa 2,Hard,24,S,20020715,9,102556,1,,Claude Ngoran,L,190,CIV,27.3264887064,103508,,,Nick McDonald,R,,RSA,22.4147843943,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1145,4,1072,5
 2002-M-SA-GHA-01A-2002b,West Africa 2,Hard,24,S,20020715,10,103413,6,,Genius Chidzikwe,R,,ZIM,22.9486652977,104235,,,Matwe Middelkoop,R,,NED,18.8637919233,7-6(5) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,666,21,1311,2
 2002-M-SA-GHA-01A-2002b,West Africa 2,Hard,24,S,20020715,11,103098,3,,Johan Du Randt,U,,RSA,24.5585215606,104464,,,Abdul Mumin Babalola,L,,NGR,17.5797399042,6-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,553,35,,
 2002-M-SA-GHA-01A-2002b,West Africa 2,Hard,24,S,20020715,12,103993,5,,Chris Lewis,U,,GBR,20.180698152,117966,,,Ronald Rugimbana,U,,TAN,25.0622861054,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1206,3,,
@@ -7154,7 +7154,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-SA-GHA-01A-2002c,West Africa 3,Hard,32,S,20020715,13,102802,6,,Gunther Darkey,R,,GHA,26.0999315537,108667,,WC,Kwasi Ahenkora,U,,GHA,20.2765229295,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,874,9,,
 2002-M-SA-GHA-01A-2002c,West Africa 3,Hard,32,S,20020715,14,118765,,WC,Kwami Gakpo,U,,TOG,18.4722792608,125125,,Q,Simeon Olakunle,U,,NGR,15.819301848,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2002-M-SA-GHA-01A-2002c,West Africa 3,Hard,32,S,20020715,15,103993,,,Chris Lewis,U,,GBR,20.180698152,118919,,Q,Andrey Kozhemyakin,U,,RUS,20.4106776181,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1206,3,,
-2002-M-SA-GHA-01A-2002c,West Africa 3,Hard,32,S,20020715,16,103098,2,,Johan Du Randt,U,,RSA,24.5585215606,103508,,,Nick Mcdonald,R,,RSA,22.4147843943,7-6(6) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,553,35,1072,5
+2002-M-SA-GHA-01A-2002c,West Africa 3,Hard,32,S,20020715,16,103098,2,,Johan Du Randt,U,,RSA,24.5585215606,103508,,,Nick McDonald,R,,RSA,22.4147843943,7-6(6) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,553,35,1072,5
 2002-M-SA-GHA-01A-2002c,West Africa 3,Hard,32,S,20020715,17,102556,,,Claude Ngoran,L,190,CIV,27.3264887064,103765,1,,Mohamed Sekou Drame,U,,FRA,21.1937029432,7-6(4) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1145,4,350,81
 2002-M-SA-GHA-01A-2002c,West Africa 3,Hard,32,S,20020715,18,104158,,,Andrew Anderson,R,193,RSA,19.2689938398,104138,,,Henry Adjei Darko,U,,GHA,19.3757700205,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1400,1,1400,1
 2002-M-SA-GHA-01A-2002c,West Africa 3,Hard,32,S,20020715,19,103413,3,,Genius Chidzikwe,R,,ZIM,22.9486652977,103355,,,Sunday Maku,U,,NGR,23.2826830938,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,666,21,1170,3
@@ -7175,7 +7175,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-SA-GHA-01A-2002d,West Africa 4,Hard,32,S,20020715,3,111594,,Q,Ben Haran,U,,GBR,24.3367556468,108901,,,Zibusiso Ncube,U,,ZIM,23.704312115,6-7(2) 7-6(5) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1400,1
 2002-M-SA-GHA-01A-2002d,West Africa 4,Hard,32,S,20020715,4,103263,,,Justin Layne,R,,GBR,23.819301848,125125,,LL,Simeon Olakunle,U,,NGR,15.819301848,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,928,7,,
 2002-M-SA-GHA-01A-2002d,West Africa 4,Hard,32,S,20020715,5,103413,4,,Genius Chidzikwe,R,,ZIM,22.9486652977,103355,,WC,Sunday Maku,U,,NGR,23.2826830938,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,666,21,1170,3
-2002-M-SA-GHA-01A-2002d,West Africa 4,Hard,32,S,20020715,6,104235,,,Matwe Middelkoop,R,,NED,18.8637919233,103508,,,Nick Mcdonald,R,,RSA,22.4147843943,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1311,2,1072,5
+2002-M-SA-GHA-01A-2002d,West Africa 4,Hard,32,S,20020715,6,104235,,,Matwe Middelkoop,R,,NED,18.8637919233,103508,,,Nick McDonald,R,,RSA,22.4147843943,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1311,2,1072,5
 2002-M-SA-GHA-01A-2002d,West Africa 4,Hard,32,S,20020715,7,111127,,,Remco Pondman,R,,NED,22.9514031485,103070,,,Christophe Pognon,R,,BEN,24.758384668,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1255,2,1016,5
 2002-M-SA-GHA-01A-2002d,West Africa 4,Hard,32,S,20020715,8,102802,7,,Gunther Darkey,R,,GHA,26.0999315537,118919,,Q,Andrey Kozhemyakin,U,,RUS,20.4106776181,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,874,9,,
 2002-M-SA-GHA-01A-2002d,West Africa 4,Hard,32,S,20020715,9,104158,,,Andrew Anderson,R,193,RSA,19.2689938398,103636,6,,Federico Torresi,R,,ITA,21.7960301164,6-3 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,1400,1,852,10
@@ -7273,7 +7273,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-FU-FRA-14A-2002,France F14,Hard,32,S,20020722,8,102937,6,,Sebastien Lami,R,,FRA,25.4428473648,103685,,,Olivier Ramos,U,,FRA,21.5277207392,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,448,55,639,25
 2002-M-FU-FRA-14A-2002,France F14,Hard,32,S,20020722,9,102958,,WC,Julien Cuaz,R,,FRA,25.3470225873,103849,8,,Francesco Aldi,R,175,ITA,20.8432580424,7-6(5) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,765,14,482,48
 2002-M-FU-FRA-14A-2002,France F14,Hard,32,S,20020722,10,103961,,Q,Bertrand Contzler,U,,FRA,20.334017796,118428,,Q,Cyril Spanelis,U,,FRA,22.7597535934,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1109,4,,
-2002-M-FU-FRA-14A-2002,France F14,Hard,32,S,20020722,11,104542,,,Jo Wilfried Tsonga,R,188,FRA,17.2621492129,104023,,WC,Nicolas Renavand,R,,FRA,20.0739219713,5-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,647,24,810,12
+2002-M-FU-FRA-14A-2002,France F14,Hard,32,S,20020722,11,104542,,,Jo-Wilfried Tsonga,R,188,FRA,17.2621492129,104023,,WC,Nicolas Renavand,R,,FRA,20.0739219713,5-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,647,24,810,12
 2002-M-FU-FRA-14A-2002,France F14,Hard,32,S,20020722,12,102736,,,Maxime Boye,R,,FRA,26.3764544832,118701,,LL,Guillaume Bottero,U,,FRA,22.855578371,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,590,32,,
 2002-M-FU-FRA-14A-2002,France F14,Hard,32,S,20020722,13,103733,7,,Luben Pampoulov,R,,AUT,21.3552361396,102781,,,Christian Dillschneider,R,,SUI,26.2395619439,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,464,52,642,25
 2002-M-FU-FRA-14A-2002,France F14,Hard,32,S,20020722,14,103984,,LL,Julien Mathieu,R,,FRA,20.2491444216,104468,,LL,Gilles Simon,R,183,FRA,17.5660506502,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1313,2,,
@@ -7284,12 +7284,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-FU-FRA-14A-2002,France F14,Hard,32,S,20020722,19,102637,4,,Julien Couly,R,,FRA,26.9541409993,118700,,Q,Loic Armand,U,,FRA,23.704312115,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,426,60,,
 2002-M-FU-FRA-14A-2002,France F14,Hard,32,S,20020722,20,102937,6,,Sebastien Lami,R,,FRA,25.4428473648,103723,,Q,Julien Maes,R,,FRA,21.3935660507,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,448,55,,
 2002-M-FU-FRA-14A-2002,France F14,Hard,32,S,20020722,21,103961,,Q,Bertrand Contzler,U,,FRA,20.334017796,102958,,WC,Julien Cuaz,R,,FRA,25.3470225873,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1109,4,765,14
-2002-M-FU-FRA-14A-2002,France F14,Hard,32,S,20020722,22,104542,,,Jo Wilfried Tsonga,R,188,FRA,17.2621492129,102736,,,Maxime Boye,R,,FRA,26.3764544832,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,647,24,590,32
+2002-M-FU-FRA-14A-2002,France F14,Hard,32,S,20020722,22,104542,,,Jo-Wilfried Tsonga,R,188,FRA,17.2621492129,102736,,,Maxime Boye,R,,FRA,26.3764544832,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,647,24,590,32
 2002-M-FU-FRA-14A-2002,France F14,Hard,32,S,20020722,23,103984,,LL,Julien Mathieu,R,,FRA,20.2491444216,103733,7,,Luben Pampoulov,R,,AUT,21.3552361396,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1313,2,464,52
 2002-M-FU-FRA-14A-2002,France F14,Hard,32,S,20020722,24,103044,,Q,Benoit Foucher,R,,FRA,24.8761122519,103726,2,,Jean Christophe Faurel,R,175,FRA,21.3771389459,6-7(3) 2-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,897,9,400,68
 2002-M-FU-FRA-14A-2002,France F14,Hard,32,S,20020722,25,103534,,,Nicolas Devilder,L,173,FRA,22.3244353183,103917,1,,Nicolas Mahut,R,190,FRA,20.4982888433,7-6(3) 7-6(6),3,QF,,,,,,,,,,,,,,,,,,,,682,21,210,168
 2002-M-FU-FRA-14A-2002,France F14,Hard,32,S,20020722,26,102637,4,,Julien Couly,R,,FRA,26.9541409993,102937,6,,Sebastien Lami,R,,FRA,25.4428473648,6-3 7-6(3),3,QF,,,,,,,,,,,,,,,,,,,,426,60,448,55
-2002-M-FU-FRA-14A-2002,France F14,Hard,32,S,20020722,27,103961,,Q,Bertrand Contzler,U,,FRA,20.334017796,104542,,,Jo Wilfried Tsonga,R,188,FRA,17.2621492129,7-5 6-0,3,QF,,,,,,,,,,,,,,,,,,,,1109,4,647,24
+2002-M-FU-FRA-14A-2002,France F14,Hard,32,S,20020722,27,103961,,Q,Bertrand Contzler,U,,FRA,20.334017796,104542,,,Jo-Wilfried Tsonga,R,188,FRA,17.2621492129,7-5 6-0,3,QF,,,,,,,,,,,,,,,,,,,,1109,4,647,24
 2002-M-FU-FRA-14A-2002,France F14,Hard,32,S,20020722,28,103044,,Q,Benoit Foucher,R,,FRA,24.8761122519,103984,,LL,Julien Mathieu,R,,FRA,20.2491444216,6-4 7-6(3),3,QF,,,,,,,,,,,,,,,,,,,,897,9,1313,2
 2002-M-FU-FRA-14A-2002,France F14,Hard,32,S,20020722,29,103534,,,Nicolas Devilder,L,173,FRA,22.3244353183,102637,4,,Julien Couly,R,,FRA,26.9541409993,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,682,21,426,60
 2002-M-FU-FRA-14A-2002,France F14,Hard,32,S,20020722,30,103961,,Q,Bertrand Contzler,U,,FRA,20.334017796,103044,,Q,Benoit Foucher,R,,FRA,24.8761122519,7-6(4) 6-7(4) 6-2,3,SF,,,,,,,,,,,,,,,,,,,,1109,4,897,9
@@ -8283,7 +8283,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-FU-NGR-01A-2002,Nigeria F1,Hard,32,S,20020812,11,118767,,LL,Ajayi Ayodeji,U,,NGR,20.5859000684,109047,,Q,Andre Santos,U,,BRA,19.7371663244,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2002-M-FU-NGR-01A-2002,Nigeria F1,Hard,32,S,20020812,12,103098,4,,Johan Du Randt,U,,RSA,24.6351813826,118556,,LL,Musa Braimoh,U,,NGR,28.0465434634,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,451,54,,
 2002-M-FU-NGR-01A-2002,Nigeria F1,Hard,32,S,20020812,13,104005,6,,Tomer Suissa,U,,ISR,20.2108145106,118768,,Q,Sunday Igbinovia,U,,NGR,15.7371663244,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,584,31,,
-2002-M-FU-NGR-01A-2002,Nigeria F1,Hard,32,S,20020812,14,103993,,Q,Chris Lewis,U,,GBR,20.257357974,103508,,,Nick Mcdonald,R,,RSA,22.4914442163,6-4 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1208,3,933,8
+2002-M-FU-NGR-01A-2002,Nigeria F1,Hard,32,S,20020812,14,103993,,Q,Chris Lewis,U,,GBR,20.257357974,103508,,,Nick McDonald,R,,RSA,22.4914442163,6-4 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1208,3,933,8
 2002-M-FU-NGR-01A-2002,Nigeria F1,Hard,32,S,20020812,15,102556,,,Claude Ngoran,L,190,CIV,27.4031485284,109192,,WC,Gabriel Out,R,,NGR,27.1622176591,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,533,38,,
 2002-M-FU-NGR-01A-2002,Nigeria F1,Hard,32,S,20020812,16,103765,2,,Mohamed Sekou Drame,U,,FRA,21.2703627652,104158,,Q,Andrew Anderson,R,193,RSA,19.3456536619,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,310,97,1041,5
 2002-M-FU-NGR-01A-2002,Nigeria F1,Hard,32,S,20020812,17,102763,1,,Benjamin Cassaigne,L,185,FRA,26.3600273785,104138,,WC,Henry Adjei Darko,U,,GHA,19.4524298426,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,338,86,1109,4
@@ -8710,7 +8710,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-FU-NGR-02A-2002,Nigeria F2,Hard,32,S,20020819,12,102556,4,,Claude Ngoran,L,190,CIV,27.4223134839,118770,,LL,Chizoba Mba,U,,NGR,16.6844626968,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,533,38,,
 2002-M-FU-NGR-02A-2002,Nigeria F2,Hard,32,S,20020819,13,103881,7,,Meir Deri,R,,ISR,20.720054757,104311,,,Leonardo Tavares,R,,POR,18.4941820671,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,611,28,1088,4
 2002-M-FU-NGR-02A-2002,Nigeria F2,Hard,32,S,20020819,14,103993,,Q,Chris Lewis,U,,GBR,20.2765229295,117966,,Q,Ronald Rugimbana,U,,TAN,25.158110883,6-4 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,841,11,1253,2
-2002-M-FU-NGR-02A-2002,Nigeria F2,Hard,32,S,20020819,15,103354,,,Kamil Patel,R,,MRI,23.3785078713,103508,,,Nick Mcdonald,R,,RSA,22.5106091718,3-6 7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1073,5,926,8
+2002-M-FU-NGR-02A-2002,Nigeria F2,Hard,32,S,20020819,15,103354,,,Kamil Patel,R,,MRI,23.3785078713,103508,,,Nick McDonald,R,,RSA,22.5106091718,3-6 7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1073,5,926,8
 2002-M-FU-NGR-02A-2002,Nigeria F2,Hard,32,S,20020819,16,102763,2,,Benjamin Cassaigne,L,185,FRA,26.379192334,118553,,WC,Alfred Koripamo,U,,NGR,24.5311430527,7-6(4) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,337,86,,
 2002-M-FU-NGR-02A-2002,Nigeria F2,Hard,32,S,20020819,17,103765,1,,Mohamed Sekou Drame,U,,FRA,21.2895277207,118555,,Q,Ibrahim Kabiru,U,,NGR,22.6447638604,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,403,64,1253,2
 2002-M-FU-NGR-02A-2002,Nigeria F2,Hard,32,S,20020819,18,103692,5,,Jakub Hasek,L,,CZE,21.5852156057,111127,,Q,Remco Pondman,R,,NED,23.0472279261,7-6(3) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,571,33,1128,4
@@ -9114,7 +9114,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-SA-SUI-02A-2002a,Switzerland 2 1,Clay,32,S,20020826,13,102958,6,,Julien Cuaz,R,,FRA,25.4428473648,103327,,,Alessandro Motti,L,,ITA,23.5099247091,7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,706,18,900,9
 2002-M-SA-SUI-02A-2002a,Switzerland 2 1,Clay,32,S,20020826,14,118378,,Q,Luca Bonati,R,,ITA,23.6577686516,104174,,,Alessandro Accardo,L,,ITA,19.3237508556,2-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,911,8
 2002-M-SA-SUI-02A-2002a,Switzerland 2 1,Clay,32,S,20020826,15,104419,,WC,Mohammed Fetov,R,,SUI,17.9876796715,104657,,Q,Stefan Kilchhofer,R,,SUI,16.643394935,6-2 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,1255,2,,
-2002-M-SA-SUI-02A-2002a,Switzerland 2 1,Clay,32,S,20020826,16,104527,2,,Stanislas Wawrinka,R,183,SUI,17.4127310062,104411,,WC,Amar Zubcevic,U,,SUI,18.045174538,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1041,5,,
+2002-M-SA-SUI-02A-2002a,Switzerland 2 1,Clay,32,S,20020826,16,104527,2,,Stan Wawrinka,R,183,SUI,17.4127310062,104411,,WC,Amar Zubcevic,U,,SUI,18.045174538,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1041,5,,
 2002-M-SA-SUI-02A-2002a,Switzerland 2 1,Clay,32,S,20020826,17,104183,1,,Alexander Flock,R,190,GER,19.2826830938,104062,,,Alejandro Vargas Aboy,U,,ESP,19.9260780287,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,785,14,,
 2002-M-SA-SUI-02A-2002a,Switzerland 2 1,Clay,32,S,20020826,18,103460,5,,Konstantin Don Gruber,R,183,AUT,22.8309377139,104217,,,Simon Stadler,L,183,GER,19.1019849418,6-3 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1005,6,628,27
 2002-M-SA-SUI-02A-2002a,Switzerland 2 1,Clay,32,S,20020826,19,103787,,,Walter Orth,U,,GER,21.2210814511,123669,,WC,Marco Beeler,R,,SUI,18.0424366872,7-5 7-5,3,R16,,,,,,,,,,,,,,,,,,,,832,12,,
@@ -9122,16 +9122,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-SA-SUI-02A-2002a,Switzerland 2 1,Clay,32,S,20020826,21,104219,8,,Stephane Bohli,R,185,SUI,19.0882956879,103648,,Q,John Thivolle,U,,FRA,21.8151950719,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,700,18,1141,4
 2002-M-SA-SUI-02A-2002a,Switzerland 2 1,Clay,32,S,20020826,22,103646,4,,Lars Uebel,R,,GER,21.864476386,103342,,,Miha Gregorc,R,,SLO,23.4496919918,6-4 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,679,21,,
 2002-M-SA-SUI-02A-2002a,Switzerland 2 1,Clay,32,S,20020826,23,102958,6,,Julien Cuaz,R,,FRA,25.4428473648,118378,,Q,Luca Bonati,R,,ITA,23.6577686516,6-3 3-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,706,18,,
-2002-M-SA-SUI-02A-2002a,Switzerland 2 1,Clay,32,S,20020826,24,104527,2,,Stanislas Wawrinka,R,183,SUI,17.4127310062,104419,,WC,Mohammed Fetov,R,,SUI,17.9876796715,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1041,5,1255,2
+2002-M-SA-SUI-02A-2002a,Switzerland 2 1,Clay,32,S,20020826,24,104527,2,,Stan Wawrinka,R,183,SUI,17.4127310062,104419,,WC,Mohammed Fetov,R,,SUI,17.9876796715,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1041,5,1255,2
 2002-M-SA-SUI-02A-2002a,Switzerland 2 1,Clay,32,S,20020826,25,104183,1,,Alexander Flock,R,190,GER,19.2826830938,103460,5,,Konstantin Don Gruber,R,183,AUT,22.8309377139,7-6(6) 6-7(3) 7-5,3,QF,,,,,,,,,,,,,,,,,,,,785,14,1005,6
 2002-M-SA-SUI-02A-2002a,Switzerland 2 1,Clay,32,S,20020826,26,103901,7,,Alessandro Piccari,R,,ITA,20.643394935,103787,,,Walter Orth,U,,GER,21.2210814511,7-6(8) 7-5,3,QF,,,,,,,,,,,,,,,,,,,,918,8,832,12
 2002-M-SA-SUI-02A-2002a,Switzerland 2 1,Clay,32,S,20020826,27,104219,8,,Stephane Bohli,R,185,SUI,19.0882956879,103646,4,,Lars Uebel,R,,GER,21.864476386,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,700,18,679,21
-2002-M-SA-SUI-02A-2002a,Switzerland 2 1,Clay,32,S,20020826,28,102958,6,,Julien Cuaz,R,,FRA,25.4428473648,104527,2,,Stanislas Wawrinka,R,183,SUI,17.4127310062,4-6 6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,706,18,1041,5
+2002-M-SA-SUI-02A-2002a,Switzerland 2 1,Clay,32,S,20020826,28,102958,6,,Julien Cuaz,R,,FRA,25.4428473648,104527,2,,Stan Wawrinka,R,183,SUI,17.4127310062,4-6 6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,706,18,1041,5
 2002-M-SA-SUI-02A-2002a,Switzerland 2 1,Clay,32,S,20020826,29,104183,1,,Alexander Flock,R,190,GER,19.2826830938,103901,7,,Alessandro Piccari,R,,ITA,20.643394935,5-7 6-3 7-6(4),3,SF,,,,,,,,,,,,,,,,,,,,785,14,918,8
 2002-M-SA-SUI-02A-2002a,Switzerland 2 1,Clay,32,S,20020826,30,104219,8,,Stephane Bohli,R,185,SUI,19.0882956879,102958,6,,Julien Cuaz,R,,FRA,25.4428473648,6-1 6-2,3,SF,,,,,,,,,,,,,,,,,,,,700,18,706,18
 2002-M-SA-SUI-02A-2002a,Switzerland 2 1,Clay,32,S,20020826,31,104183,1,,Alexander Flock,R,190,GER,19.2826830938,104219,8,,Stephane Bohli,R,185,SUI,19.0882956879,6-4 6-4,3,F,,,,,,,,,,,,,,,,,,,,785,14,700,18
 2002-M-SA-SUI-02A-2002b,Switzerland 2 2,Clay,32,S,20020826,1,103967,1,,Michael Lammer,R,185,SUI,20.4216290212,104419,,WC,Mohammed Fetov,R,,SUI,17.9876796715,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,592,30,1255,2
-2002-M-SA-SUI-02A-2002b,Switzerland 2 2,Clay,32,S,20020826,2,103777,,Q,Patrick Knobloch,U,,GER,21.2676249144,104527,,,Stanislas Wawrinka,R,183,SUI,17.4127310062,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1058,5,1041,5
+2002-M-SA-SUI-02A-2002b,Switzerland 2 2,Clay,32,S,20020826,2,103777,,Q,Patrick Knobloch,U,,GER,21.2676249144,104527,,,Stan Wawrinka,R,183,SUI,17.4127310062,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1058,5,1041,5
 2002-M-SA-SUI-02A-2002b,Switzerland 2 2,Clay,32,S,20020826,3,103570,,,Fabian Roetschi,U,,SUI,22.2532511978,104411,,WC,Amar Zubcevic,U,,SUI,18.045174538,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,759,15,,
 2002-M-SA-SUI-02A-2002b,Switzerland 2 2,Clay,32,S,20020826,4,103646,5,,Lars Uebel,R,,GER,21.864476386,104657,,WC,Stefan Kilchhofer,R,,SUI,16.643394935,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,679,21,,
 2002-M-SA-SUI-02A-2002b,Switzerland 2 2,Clay,32,S,20020826,5,104217,3,,Simon Stadler,L,183,GER,19.1019849418,103662,,,Holger Fischer,R,,GER,21.7056810404,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,628,27,852,10
@@ -9168,7 +9168,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-SA-SUI-02A-2002c,Switzerland 2 3,Clay,32,S,20020826,5,104217,3,,Simon Stadler,L,183,GER,19.1019849418,103933,,Q,Victor Sanchez Gil,U,,ESP,20.5503080082,4-6 7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,628,27,1322,2
 2002-M-SA-SUI-02A-2002c,Switzerland 2 3,Clay,32,S,20020826,6,103787,,,Walter Orth,U,,GER,21.2210814511,103667,,,Bernat Mas Avellaneda,U,,ESP,21.6947296372,7-6(0) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,832,12,918,8
 2002-M-SA-SUI-02A-2002c,Switzerland 2 3,Clay,32,S,20020826,7,104183,,Q,Alexander Flock,R,190,GER,19.2826830938,103793,,Q,Martin Vacek,R,,CZE,21.196440794,3-6 6-3 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,785,14,1105,4
-2002-M-SA-SUI-02A-2002c,Switzerland 2 3,Clay,32,S,20020826,8,104527,,,Stanislas Wawrinka,R,183,SUI,17.4127310062,103772,6,,Matteo Galli,U,,ITA,21.2895277207,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1041,5,696,19
+2002-M-SA-SUI-02A-2002c,Switzerland 2 3,Clay,32,S,20020826,8,104527,,,Stan Wawrinka,R,183,SUI,17.4127310062,103772,6,,Matteo Galli,U,,ITA,21.2895277207,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1041,5,696,19
 2002-M-SA-SUI-02A-2002c,Switzerland 2 3,Clay,32,S,20020826,9,102676,,,Matthieu Amgwerd,R,,SUI,26.8309377139,103844,8,Q,Igor Fejzula,U,,SRB,20.9555099247,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,954,7,710,18
 2002-M-SA-SUI-02A-2002c,Switzerland 2 3,Clay,32,S,20020826,10,103460,,,Konstantin Don Gruber,R,183,AUT,22.8309377139,118484,,Q,Jerome Ferrari,U,,SUI,22.6995208761,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1005,6,,
 2002-M-SA-SUI-02A-2002c,Switzerland 2 3,Clay,32,S,20020826,11,103327,,,Alessandro Motti,L,,ITA,23.5099247091,104219,,,Stephane Bohli,R,185,SUI,19.0882956879,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,900,9,700,18
@@ -9180,18 +9180,18 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-SA-SUI-02A-2002c,Switzerland 2 3,Clay,32,S,20020826,17,103967,1,,Michael Lammer,R,185,SUI,20.4216290212,103570,,,Fabian Roetschi,U,,SUI,22.2532511978,W/O,3,R16,,,,,,,,,,,,,,,,,,,,592,30,759,15
 2002-M-SA-SUI-02A-2002c,Switzerland 2 3,Clay,32,S,20020826,18,103646,5,,Lars Uebel,R,,GER,21.864476386,104419,,WC,Mohammed Fetov,R,,SUI,17.9876796715,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,679,21,1255,2
 2002-M-SA-SUI-02A-2002c,Switzerland 2 3,Clay,32,S,20020826,19,104217,3,,Simon Stadler,L,183,GER,19.1019849418,103787,,,Walter Orth,U,,GER,21.2210814511,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,628,27,832,12
-2002-M-SA-SUI-02A-2002c,Switzerland 2 3,Clay,32,S,20020826,20,104527,,,Stanislas Wawrinka,R,183,SUI,17.4127310062,104183,,Q,Alexander Flock,R,190,GER,19.2826830938,4-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1041,5,785,14
+2002-M-SA-SUI-02A-2002c,Switzerland 2 3,Clay,32,S,20020826,20,104527,,,Stan Wawrinka,R,183,SUI,17.4127310062,104183,,Q,Alexander Flock,R,190,GER,19.2826830938,4-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1041,5,785,14
 2002-M-SA-SUI-02A-2002c,Switzerland 2 3,Clay,32,S,20020826,21,103460,,,Konstantin Don Gruber,R,183,AUT,22.8309377139,102676,,,Matthieu Amgwerd,R,,SUI,26.8309377139,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1005,6,954,7
 2002-M-SA-SUI-02A-2002c,Switzerland 2 3,Clay,32,S,20020826,22,104062,,Q,Alejandro Vargas Aboy,U,,ESP,19.9260780287,103327,,,Alessandro Motti,L,,ITA,23.5099247091,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,900,9
 2002-M-SA-SUI-02A-2002c,Switzerland 2 3,Clay,32,S,20020826,23,104174,,Q,Alessandro Accardo,L,,ITA,19.3237508556,102958,7,,Julien Cuaz,R,,FRA,25.4428473648,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,911,8,706,18
 2002-M-SA-SUI-02A-2002c,Switzerland 2 3,Clay,32,S,20020826,24,103901,,,Alessandro Piccari,R,,ITA,20.643394935,103615,,,Patrick Schnidrig,U,,SUI,22.0396988364,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,918,8,912,8
 2002-M-SA-SUI-02A-2002c,Switzerland 2 3,Clay,32,S,20020826,25,103646,5,,Lars Uebel,R,,GER,21.864476386,103967,1,,Michael Lammer,R,185,SUI,20.4216290212,6-0 6-3,3,QF,,,,,,,,,,,,,,,,,,,,679,21,592,30
-2002-M-SA-SUI-02A-2002c,Switzerland 2 3,Clay,32,S,20020826,26,104527,,,Stanislas Wawrinka,R,183,SUI,17.4127310062,104217,3,,Simon Stadler,L,183,GER,19.1019849418,6-3 6-7(6) 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,1041,5,628,27
+2002-M-SA-SUI-02A-2002c,Switzerland 2 3,Clay,32,S,20020826,26,104527,,,Stan Wawrinka,R,183,SUI,17.4127310062,104217,3,,Simon Stadler,L,183,GER,19.1019849418,6-3 6-7(6) 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,1041,5,628,27
 2002-M-SA-SUI-02A-2002c,Switzerland 2 3,Clay,32,S,20020826,27,103460,,,Konstantin Don Gruber,R,183,AUT,22.8309377139,104062,,Q,Alejandro Vargas Aboy,U,,ESP,19.9260780287,6-0 6-2,3,QF,,,,,,,,,,,,,,,,,,,,1005,6,,
 2002-M-SA-SUI-02A-2002c,Switzerland 2 3,Clay,32,S,20020826,28,103901,,,Alessandro Piccari,R,,ITA,20.643394935,104174,,Q,Alessandro Accardo,L,,ITA,19.3237508556,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,918,8,911,8
-2002-M-SA-SUI-02A-2002c,Switzerland 2 3,Clay,32,S,20020826,29,104527,,,Stanislas Wawrinka,R,183,SUI,17.4127310062,103646,5,,Lars Uebel,R,,GER,21.864476386,2-6 6-1 6-4,3,SF,,,,,,,,,,,,,,,,,,,,1041,5,679,21
+2002-M-SA-SUI-02A-2002c,Switzerland 2 3,Clay,32,S,20020826,29,104527,,,Stan Wawrinka,R,183,SUI,17.4127310062,103646,5,,Lars Uebel,R,,GER,21.864476386,2-6 6-1 6-4,3,SF,,,,,,,,,,,,,,,,,,,,1041,5,679,21
 2002-M-SA-SUI-02A-2002c,Switzerland 2 3,Clay,32,S,20020826,30,103460,,,Konstantin Don Gruber,R,183,AUT,22.8309377139,103901,,,Alessandro Piccari,R,,ITA,20.643394935,4-6 6-4 6-1,3,SF,,,,,,,,,,,,,,,,,,,,1005,6,918,8
-2002-M-SA-SUI-02A-2002c,Switzerland 2 3,Clay,32,S,20020826,31,104527,,,Stanislas Wawrinka,R,183,SUI,17.4127310062,103460,,,Konstantin Don Gruber,R,183,AUT,22.8309377139,6-4 4-6 6-4,3,F,,,,,,,,,,,,,,,,,,,,1041,5,1005,6
+2002-M-SA-SUI-02A-2002c,Switzerland 2 3,Clay,32,S,20020826,31,104527,,,Stan Wawrinka,R,183,SUI,17.4127310062,103460,,,Konstantin Don Gruber,R,183,AUT,22.8309377139,6-4 4-6 6-4,3,F,,,,,,,,,,,,,,,,,,,,1041,5,1005,6
 2002-M-SA-SUI-02A-2002d,Switzerland 2 4,Clay,24,S,20020826,1,103570,,,Fabian Roetschi,U,,SUI,22.2532511978,104419,,,Mohammed Fetov,R,,SUI,17.9876796715,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,759,15,1255,2
 2002-M-SA-SUI-02A-2002d,Switzerland 2 4,Clay,24,S,20020826,2,104217,,,Simon Stadler,L,183,GER,19.1019849418,103342,,,Miha Gregorc,R,,SLO,23.4496919918,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,628,27,,
 2002-M-SA-SUI-02A-2002d,Switzerland 2 4,Clay,24,S,20020826,3,103615,,,Patrick Schnidrig,U,,SUI,22.0396988364,103777,,,Patrick Knobloch,U,,GER,21.2676249144,6-4 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,912,8,1058,5
@@ -9207,13 +9207,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-SA-SUI-02A-2002d,Switzerland 2 4,Clay,24,S,20020826,13,103967,6,,Michael Lammer,R,185,SUI,20.4216290212,101720,,,Agustin Garizzio,R,185,ARG,32.4380561259,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,592,30,1255,2
 2002-M-SA-SUI-02A-2002d,Switzerland 2 4,Clay,24,S,20020826,14,103327,,,Alessandro Motti,L,,ITA,23.5099247091,104219,3,,Stephane Bohli,R,185,SUI,19.0882956879,6-4 2-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,900,9,700,18
 2002-M-SA-SUI-02A-2002d,Switzerland 2 4,Clay,24,S,20020826,15,103646,7,,Lars Uebel,R,,GER,21.864476386,103738,,,Francesc Lleal,U,,ESP,21.4291581109,3-6 6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,679,21,834,12
-2002-M-SA-SUI-02A-2002d,Switzerland 2 4,Clay,24,S,20020826,16,104527,2,,Stanislas Wawrinka,R,183,SUI,17.4127310062,104174,,,Alessandro Accardo,L,,ITA,19.3237508556,6-2 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,1041,5,911,8
+2002-M-SA-SUI-02A-2002d,Switzerland 2 4,Clay,24,S,20020826,16,104527,2,,Stan Wawrinka,R,183,SUI,17.4127310062,104174,,,Alessandro Accardo,L,,ITA,19.3237508556,6-2 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,1041,5,911,8
 2002-M-SA-SUI-02A-2002d,Switzerland 2 4,Clay,24,S,20020826,17,104217,,,Simon Stadler,L,183,GER,19.1019849418,103570,,,Fabian Roetschi,U,,SUI,22.2532511978,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,628,27,759,15
 2002-M-SA-SUI-02A-2002d,Switzerland 2 4,Clay,24,S,20020826,18,103460,8,,Konstantin Don Gruber,R,183,AUT,22.8309377139,102958,4,,Julien Cuaz,R,,FRA,25.4428473648,6-2 4-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,1005,6,706,18
 2002-M-SA-SUI-02A-2002d,Switzerland 2 4,Clay,24,S,20020826,19,103967,6,,Michael Lammer,R,185,SUI,20.4216290212,103327,,,Alessandro Motti,L,,ITA,23.5099247091,6-2 6-0,3,QF,,,,,,,,,,,,,,,,,,,,592,30,900,9
-2002-M-SA-SUI-02A-2002d,Switzerland 2 4,Clay,24,S,20020826,20,104527,2,,Stanislas Wawrinka,R,183,SUI,17.4127310062,103646,7,,Lars Uebel,R,,GER,21.864476386,7-5 6-4,3,QF,,,,,,,,,,,,,,,,,,,,1041,5,679,21
+2002-M-SA-SUI-02A-2002d,Switzerland 2 4,Clay,24,S,20020826,20,104527,2,,Stan Wawrinka,R,183,SUI,17.4127310062,103646,7,,Lars Uebel,R,,GER,21.864476386,7-5 6-4,3,QF,,,,,,,,,,,,,,,,,,,,1041,5,679,21
 2002-M-SA-SUI-02A-2002d,Switzerland 2 4,Clay,24,S,20020826,21,103460,8,,Konstantin Don Gruber,R,183,AUT,22.8309377139,104217,,,Simon Stadler,L,183,GER,19.1019849418,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,1005,6,628,27
-2002-M-SA-SUI-02A-2002d,Switzerland 2 4,Clay,24,S,20020826,22,103967,6,,Michael Lammer,R,185,SUI,20.4216290212,104527,2,,Stanislas Wawrinka,R,183,SUI,17.4127310062,7-6(1) 7-6(0),3,SF,,,,,,,,,,,,,,,,,,,,592,30,1041,5
+2002-M-SA-SUI-02A-2002d,Switzerland 2 4,Clay,24,S,20020826,22,103967,6,,Michael Lammer,R,185,SUI,20.4216290212,104527,2,,Stan Wawrinka,R,183,SUI,17.4127310062,7-6(1) 7-6(0),3,SF,,,,,,,,,,,,,,,,,,,,592,30,1041,5
 2002-M-SA-SUI-02A-2002d,Switzerland 2 4,Clay,24,S,20020826,23,103967,6,,Michael Lammer,R,185,SUI,20.4216290212,103460,8,,Konstantin Don Gruber,R,183,AUT,22.8309377139,6-4 6-4,3,F,,,,,,,,,,,,,,,,,,,,592,30,1005,6
 2002-M-FU-TUN-01A-2002,Tunisia F1,Hard,32,S,20020826,1,104198,,,Guillermo Garcia Lopez,R,188,ESP,19.227926078,102201,1,Q,Lionel Roux,R,185,FRA,29.3716632444,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,531,38,282,106
 2002-M-FU-TUN-01A-2002,Tunisia F1,Hard,32,S,20020826,2,117549,,Q,Jose Luis Lara Salinas,U,,ESP,21.1362080767,109225,,WC,Issam Jellali,R,,TUN,21.4291581109,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1255,2,1234,3
@@ -10119,7 +10119,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-FU-FRA-17A-2002,France F17,Hard,32,S,20020923,11,102937,,Q,Sebastien Lami,R,,FRA,25.6153319644,103658,,Q,Jordane Doble,R,,FRA,21.8069815195,7-6(4) 2-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,421,57,574,31
 2002-M-FU-FRA-17A-2002,France F17,Hard,32,S,20020923,12,103328,,,Andres Pedroso,R,,USA,23.5865845311,102967,4,,Marc Gicquel,R,188,FRA,25.4839151266,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,329,87,280,106
 2002-M-FU-FRA-17A-2002,France F17,Hard,32,S,20020923,13,102781,,Q,Christian Dillschneider,R,,SUI,26.4120465435,102958,,LL,Julien Cuaz,R,,FRA,25.5195071869,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,658,22,616,27
-2002-M-FU-FRA-17A-2002,France F17,Hard,32,S,20020923,14,104542,,WC,Jo Wilfried Tsonga,R,188,FRA,17.4346338125,103739,,,Jose De Armas,R,,VEN,21.4976043806,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,680,20,316,92
+2002-M-FU-FRA-17A-2002,France F17,Hard,32,S,20020923,14,104542,,WC,Jo-Wilfried Tsonga,R,188,FRA,17.4346338125,103739,,,Jose De Armas,R,,VEN,21.4976043806,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,680,20,316,92
 2002-M-FU-FRA-17A-2002,France F17,Hard,32,S,20020923,15,102572,,,Igor Gaudi,R,188,ITA,27.4551676934,102807,,,Rodrigo Monte,R,,BRA,26.2751540041,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,375,70,306,95
 2002-M-FU-FRA-17A-2002,France F17,Hard,32,S,20020923,16,104327,,Q,Steve Darcis,R,178,BEL,18.5297741273,103898,2,,Julien Benneteau,R,185,FRA,20.758384668,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,225,152
 2002-M-FU-FRA-17A-2002,France F17,Hard,32,S,20020923,17,104211,,,Roman Valent,R,183,SUI,19.2114989733,103580,1,,Alexander Peya,R,183,AUT,22.2395619439,6-3 6-7(5) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,336,80,196,181
@@ -10128,14 +10128,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-FU-FRA-17A-2002,France F17,Hard,32,S,20020923,20,102406,7,,Thomas Dupre,R,,FRA,28.2902121834,117592,,WC,Sebastien Guillemart,U,,FRA,24.7748117728,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,298,98,,
 2002-M-FU-FRA-17A-2002,France F17,Hard,32,S,20020923,21,103726,,Q,Jean Christophe Faurel,R,175,FRA,21.5496235455,104143,,,Dirk Stegmann,R,,RSA,19.5455167693,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,380,69,369,72
 2002-M-FU-FRA-17A-2002,France F17,Hard,32,S,20020923,22,102937,,Q,Sebastien Lami,R,,FRA,25.6153319644,103328,,,Andres Pedroso,R,,USA,23.5865845311,6-3 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,421,57,329,87
-2002-M-FU-FRA-17A-2002,France F17,Hard,32,S,20020923,23,104542,,WC,Jo Wilfried Tsonga,R,188,FRA,17.4346338125,102781,,Q,Christian Dillschneider,R,,SUI,26.4120465435,7-6(2) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,680,20,658,22
+2002-M-FU-FRA-17A-2002,France F17,Hard,32,S,20020923,23,104542,,WC,Jo-Wilfried Tsonga,R,188,FRA,17.4346338125,102781,,Q,Christian Dillschneider,R,,SUI,26.4120465435,7-6(2) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,680,20,658,22
 2002-M-FU-FRA-17A-2002,France F17,Hard,32,S,20020923,24,104327,,Q,Steve Darcis,R,178,BEL,18.5297741273,102572,,,Igor Gaudi,R,188,ITA,27.4551676934,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,375,70
 2002-M-FU-FRA-17A-2002,France F17,Hard,32,S,20020923,25,103573,6,,Rik De Voest,R,180,RSA,22.2997946612,104211,,,Roman Valent,R,183,SUI,19.2114989733,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,244,131,336,80
 2002-M-FU-FRA-17A-2002,France F17,Hard,32,S,20020923,26,103917,3,,Nicolas Mahut,R,190,FRA,20.6707734428,102406,7,,Thomas Dupre,R,,FRA,28.2902121834,6-6 RET,3,QF,,,,,,,,,,,,,,,,,,,,257,120,298,98
 2002-M-FU-FRA-17A-2002,France F17,Hard,32,S,20020923,27,103726,,Q,Jean Christophe Faurel,R,175,FRA,21.5496235455,102937,,Q,Sebastien Lami,R,,FRA,25.6153319644,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,380,69,421,57
-2002-M-FU-FRA-17A-2002,France F17,Hard,32,S,20020923,28,104542,,WC,Jo Wilfried Tsonga,R,188,FRA,17.4346338125,104327,,Q,Steve Darcis,R,178,BEL,18.5297741273,2-3 RET,3,QF,,,,,,,,,,,,,,,,,,,,680,20,,
+2002-M-FU-FRA-17A-2002,France F17,Hard,32,S,20020923,28,104542,,WC,Jo-Wilfried Tsonga,R,188,FRA,17.4346338125,104327,,Q,Steve Darcis,R,178,BEL,18.5297741273,2-3 RET,3,QF,,,,,,,,,,,,,,,,,,,,680,20,,
 2002-M-FU-FRA-17A-2002,France F17,Hard,32,S,20020923,29,103917,3,,Nicolas Mahut,R,190,FRA,20.6707734428,103573,6,,Rik De Voest,R,180,RSA,22.2997946612,6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,257,120,244,131
-2002-M-FU-FRA-17A-2002,France F17,Hard,32,S,20020923,30,103726,,Q,Jean Christophe Faurel,R,175,FRA,21.5496235455,104542,,WC,Jo Wilfried Tsonga,R,188,FRA,17.4346338125,7-6(4) 6-3,3,SF,,,,,,,,,,,,,,,,,,,,380,69,680,20
+2002-M-FU-FRA-17A-2002,France F17,Hard,32,S,20020923,30,103726,,Q,Jean Christophe Faurel,R,175,FRA,21.5496235455,104542,,WC,Jo-Wilfried Tsonga,R,188,FRA,17.4346338125,7-6(4) 6-3,3,SF,,,,,,,,,,,,,,,,,,,,380,69,680,20
 2002-M-FU-FRA-17A-2002,France F17,Hard,32,S,20020923,31,103917,3,,Nicolas Mahut,R,190,FRA,20.6707734428,103726,,Q,Jean Christophe Faurel,R,175,FRA,21.5496235455,7-6(4) 4-6 6-2,3,F,,,,,,,,,,,,,,,,,,,,257,120,380,69
 2002-M-FU-GBR-08A-2002,Great Britain F8,Hard,32,S,20020923,1,103080,,,Paul Hanley,R,183,AUS,24.8624229979,103098,1,,Johan Du Randt,U,,RSA,24.7501711157,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,846,10,338,79
 2002-M-FU-GBR-08A-2002,Great Britain F8,Hard,32,S,20020923,2,102637,,,Julien Couly,R,,FRA,27.1266255989,103945,,,Simon Dickson,R,,GBR,20.5749486653,7-6(4) 6-7(1) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,591,29,573,31
@@ -10360,7 +10360,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-FU-FRA-18A-2002,France F18,Hard,32,S,20020930,5,103208,,Q,Jean Michel Pequery,R,,FRA,24.3367556468,102807,4,,Rodrigo Monte,R,,BRA,26.2943189596,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,832,11,302,95
 2002-M-FU-FRA-18A-2002,France F18,Hard,32,S,20020930,6,103956,,,Stefan Wauters,R,,BEL,20.553045859,102646,,,Dimitri Lorin,R,,FRA,27.1019849418,1-6 7-6(0) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,404,61,500,42
 2002-M-FU-FRA-18A-2002,France F18,Hard,32,S,20020930,7,104143,,,Dirk Stegmann,R,,RSA,19.5646817248,103984,,Q,Julien Mathieu,R,,FRA,20.4407939767,6-4 5-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,368,72,1091,4
-2002-M-FU-FRA-18A-2002,France F18,Hard,32,S,20020930,8,104542,,SE,Jo Wilfried Tsonga,R,188,FRA,17.453798768,103679,8,,Jeroen Masson,R,,BEL,21.7412731006,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,684,20,288,101
+2002-M-FU-FRA-18A-2002,France F18,Hard,32,S,20020930,8,104542,,SE,Jo-Wilfried Tsonga,R,188,FRA,17.453798768,103679,8,,Jeroen Masson,R,,BEL,21.7412731006,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,684,20,288,101
 2002-M-FU-FRA-18A-2002,France F18,Hard,32,S,20020930,9,102763,6,,Benjamin Cassaigne,L,185,FRA,26.4941820671,104402,,WC,Clement Morel,R,,MON,18.2067077344,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,317,91,861,10
 2002-M-FU-FRA-18A-2002,France F18,Hard,32,S,20020930,10,103726,,SE,Jean Christophe Faurel,R,175,FRA,21.568788501,103358,,,Nicolas Todero,R,183,ARG,23.4606433949,2-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,370,72,339,81
 2002-M-FU-FRA-18A-2002,France F18,Hard,32,S,20020930,11,104273,,,Edouard Roger Vasselin,R,188,FRA,18.8391512663,104023,,Q,Nicolas Renavand,R,,FRA,20.2655715264,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,445,51,982,6
@@ -10372,7 +10372,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-FU-FRA-18A-2002,France F18,Hard,32,S,20020930,17,103573,1,,Rik De Voest,R,180,RSA,22.3189596167,102937,,,Sebastien Lami,R,,FRA,25.6344969199,2-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,233,139,420,57
 2002-M-FU-FRA-18A-2002,France F18,Hard,32,S,20020930,18,102658,,Q,Marc Bauer,R,,FRA,27.0198494182,103739,5,,Jose De Armas,R,,VEN,21.5167693361,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,926,7,311,92
 2002-M-FU-FRA-18A-2002,France F18,Hard,32,S,20020930,19,103208,,Q,Jean Michel Pequery,R,,FRA,24.3367556468,103956,,,Stefan Wauters,R,,BEL,20.553045859,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,832,11,404,61
-2002-M-FU-FRA-18A-2002,France F18,Hard,32,S,20020930,20,104143,,,Dirk Stegmann,R,,RSA,19.5646817248,104542,,SE,Jo Wilfried Tsonga,R,188,FRA,17.453798768,5-7 7-6(5) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,368,72,684,20
+2002-M-FU-FRA-18A-2002,France F18,Hard,32,S,20020930,20,104143,,,Dirk Stegmann,R,,RSA,19.5646817248,104542,,SE,Jo-Wilfried Tsonga,R,188,FRA,17.453798768,5-7 7-6(5) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,368,72,684,20
 2002-M-FU-FRA-18A-2002,France F18,Hard,32,S,20020930,21,102763,6,,Benjamin Cassaigne,L,185,FRA,26.4941820671,103726,,SE,Jean Christophe Faurel,R,175,FRA,21.568788501,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,317,91,370,72
 2002-M-FU-FRA-18A-2002,France F18,Hard,32,S,20020930,22,102959,3,,Marko Tkalec,R,178,SLO,25.5386721424,104273,,,Edouard Roger Vasselin,R,188,FRA,18.8391512663,4-6 7-6(1) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,273,110,445,51
 2002-M-FU-FRA-18A-2002,France F18,Hard,32,S,20020930,23,103328,7,,Andres Pedroso,R,,USA,23.6057494867,104468,,Q,Gilles Simon,R,183,FRA,17.7577002053,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,327,87,,
@@ -10842,7 +10842,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-FU-ESP-18A-2002,Spain F18,Hard,32,S,20021007,7,104041,,,Sergi Arumi,R,,ESP,20.1943874059,103974,,Q,Aivaras Balzekas,U,,LTU,20.4982888433,7-6(7) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,573,30,1007,6
 2002-M-FU-ESP-18A-2002,Spain F18,Hard,32,S,20021007,8,103936,6,,Todor Enev,R,,BUL,20.6598220397,104597,,Q,Nicolas Almagro,R,183,ESP,17.1279945243,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,464,47,802,12
 2002-M-FU-ESP-18A-2002,Spain F18,Hard,32,S,20021007,9,104054,,WC,Daniel Monedero,R,,ESP,20.1040383299,103947,7,Q,Ivan Esquerdo,U,,ESP,20.6078028747,6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,838,11,480,43
-2002-M-FU-ESP-18A-2002,Spain F18,Hard,32,S,20021007,10,104527,,,Stanislas Wawrinka,R,183,SUI,17.5277207392,103904,,WC,Alberto Soriano,U,,ESP,20.7501711157,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,708,17,975,6
+2002-M-FU-ESP-18A-2002,Spain F18,Hard,32,S,20021007,10,104527,,,Stan Wawrinka,R,183,SUI,17.5277207392,103904,,WC,Alberto Soriano,U,,ESP,20.7501711157,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,708,17,975,6
 2002-M-FU-ESP-18A-2002,Spain F18,Hard,32,S,20021007,11,104614,,WC,Javier Foronda Bolanos,U,,ESP,17.0239561944,103030,,Q,Norikazu Sugiyama,R,178,JPN,25.1909650924,6-3 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1217,3,1069,5
 2002-M-FU-ESP-18A-2002,Spain F18,Hard,32,S,20021007,12,104027,4,,Pablo Gonzalez,R,178,COL,20.2655715264,104073,,Q,Jose Pablo Serna,U,,ESP,19.9671457906,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,431,54,1052,5
 2002-M-FU-ESP-18A-2002,Spain F18,Hard,32,S,20021007,13,104198,5,,Guillermo Garcia Lopez,R,188,ESP,19.3429158111,103382,,,Guillermo Platel,R,,ESP,23.3374401095,6-4 2-6 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,405,60,634,25
@@ -10853,13 +10853,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-FU-ESP-18A-2002,Spain F18,Hard,32,S,20021007,18,103868,8,LL,Ivan Navarro,R,183,ESP,20.9664613279,102577,,,Steven Randjelovic,R,,AUS,27.4633812457,6-3 6-7(4) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,496,41,722,17
 2002-M-FU-ESP-18A-2002,Spain F18,Hard,32,S,20021007,19,104280,,Q,Rafael Moreno Negrin,R,,ESP,18.8008213552,104149,3,SE,Adrian Cruciat,R,,ROU,19.5208761123,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1019,5,408,59
 2002-M-FU-ESP-18A-2002,Spain F18,Hard,32,S,20021007,20,103936,6,,Todor Enev,R,,BUL,20.6598220397,104041,,,Sergi Arumi,R,,ESP,20.1943874059,6-4 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,464,47,573,30
-2002-M-FU-ESP-18A-2002,Spain F18,Hard,32,S,20021007,21,104527,,,Stanislas Wawrinka,R,183,SUI,17.5277207392,104054,,WC,Daniel Monedero,R,,ESP,20.1040383299,5-7 7-6(4) 7-6(1),3,R16,,,,,,,,,,,,,,,,,,,,708,17,838,11
+2002-M-FU-ESP-18A-2002,Spain F18,Hard,32,S,20021007,21,104527,,,Stan Wawrinka,R,183,SUI,17.5277207392,104054,,WC,Daniel Monedero,R,,ESP,20.1040383299,5-7 7-6(4) 7-6(1),3,R16,,,,,,,,,,,,,,,,,,,,708,17,838,11
 2002-M-FU-ESP-18A-2002,Spain F18,Hard,32,S,20021007,22,104027,4,,Pablo Gonzalez,R,178,COL,20.2655715264,104614,,WC,Javier Foronda Bolanos,U,,ESP,17.0239561944,7-5 7-6(7),3,R16,,,,,,,,,,,,,,,,,,,,431,54,1217,3
 2002-M-FU-ESP-18A-2002,Spain F18,Hard,32,S,20021007,23,104198,5,,Guillermo Garcia Lopez,R,188,ESP,19.3429158111,104338,,,Juan Monaco,R,185,ARG,18.5242984257,6-3 3-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,405,60,641,24
 2002-M-FU-ESP-18A-2002,Spain F18,Hard,32,S,20021007,24,104268,,,Alejandro Falla,L,185,COL,18.8966461328,104084,,Q,Carlos Poch Gradin,L,185,ESP,19.909650924,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,604,27,1122,4
 2002-M-FU-ESP-18A-2002,Spain F18,Hard,32,S,20021007,25,103691,,,Baptiste Dupuy,L,,FRA,21.7221081451,103868,8,LL,Ivan Navarro,R,183,ESP,20.9664613279,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,663,23,496,41
 2002-M-FU-ESP-18A-2002,Spain F18,Hard,32,S,20021007,26,104280,,Q,Rafael Moreno Negrin,R,,ESP,18.8008213552,103936,6,,Todor Enev,R,,BUL,20.6598220397,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,1019,5,464,47
-2002-M-FU-ESP-18A-2002,Spain F18,Hard,32,S,20021007,27,104027,4,,Pablo Gonzalez,R,178,COL,20.2655715264,104527,,,Stanislas Wawrinka,R,183,SUI,17.5277207392,7-6(3) 3-6 7-5,3,QF,,,,,,,,,,,,,,,,,,,,431,54,708,17
+2002-M-FU-ESP-18A-2002,Spain F18,Hard,32,S,20021007,27,104027,4,,Pablo Gonzalez,R,178,COL,20.2655715264,104527,,,Stan Wawrinka,R,183,SUI,17.5277207392,7-6(3) 3-6 7-5,3,QF,,,,,,,,,,,,,,,,,,,,431,54,708,17
 2002-M-FU-ESP-18A-2002,Spain F18,Hard,32,S,20021007,28,104268,,,Alejandro Falla,L,185,COL,18.8966461328,104198,5,,Guillermo Garcia Lopez,R,188,ESP,19.3429158111,6-4 3-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,604,27,405,60
 2002-M-FU-ESP-18A-2002,Spain F18,Hard,32,S,20021007,29,104280,,Q,Rafael Moreno Negrin,R,,ESP,18.8008213552,103691,,,Baptiste Dupuy,L,,FRA,21.7221081451,7-5 6-3,3,SF,,,,,,,,,,,,,,,,,,,,1019,5,663,23
 2002-M-FU-ESP-18A-2002,Spain F18,Hard,32,S,20021007,30,104027,4,,Pablo Gonzalez,R,178,COL,20.2655715264,104268,,,Alejandro Falla,L,185,COL,18.8966461328,4-6 6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,431,54,604,27
@@ -10962,7 +10962,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-FU-JAM-16A-2002,Jamaica F16,Hard,32,S,20021014,3,117434,,Q,Tiago Ruffoni,R,,BRA,22.3874058864,109657,,WC,Edwin Kerkhoven,U,,NED,21.6673511294,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1379,1
 2002-M-FU-JAM-16A-2002,Jamaica F16,Hard,32,S,20021014,4,103493,5,,Eduardo Bohrer,R,,BRA,22.7405886379,102496,,WC,Scott Willinsky,R,,JAM,27.8247775496,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,402,61,1005,6
 2002-M-FU-JAM-16A-2002,Jamaica F16,Hard,32,S,20021014,5,102978,4,,Zbynek Mlynarik,R,175,AUT,25.4729637235,102655,,,Jimy Szymanski,R,175,VEN,27.0800821355,6-7(6) 6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,363,71,641,24
-2002-M-FU-JAM-16A-2002,Jamaica F16,Hard,32,S,20021014,6,104542,,,Jo Wilfried Tsonga,R,188,FRA,17.492128679,104569,,Q,Lado Chikhladze,R,,GEO,17.3305954825,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,585,29,,
+2002-M-FU-JAM-16A-2002,Jamaica F16,Hard,32,S,20021014,6,104542,,,Jo-Wilfried Tsonga,R,188,FRA,17.492128679,104569,,Q,Lado Chikhladze,R,,GEO,17.3305954825,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,585,29,,
 2002-M-FU-JAM-16A-2002,Jamaica F16,Hard,32,S,20021014,7,103419,,,Gabriel Montilla,R,,PUR,23.1759069131,104605,,Q,Adam Vejmelka,R,,CZE,17.0787132101,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,702,18,1064,5
 2002-M-FU-JAM-16A-2002,Jamaica F16,Hard,32,S,20021014,8,103545,8,,Philipp Mullner,R,,AUT,22.507871321,103845,,,Lesley Joseph,U,,USA,21.0814510609,5-7 6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,515,38,842,11
 2002-M-FU-JAM-16A-2002,Jamaica F16,Hard,32,S,20021014,9,103455,7,,Michal Mertinak,R,180,SVK,23.0088980151,104230,,Q,Daniel Koellerer,R,180,AUT,19.1594798084,6-4 0-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,460,49,1086,4
@@ -10975,17 +10975,17 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-FU-JAM-16A-2002,Jamaica F16,Hard,32,S,20021014,16,104259,2,,Philipp Kohlschreiber,R,178,GER,18.9952087611,111702,,Q,Mikhail Lew,L,,CAN,17.1991786448,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,278,106,,
 2002-M-FU-JAM-16A-2002,Jamaica F16,Hard,32,S,20021014,17,102735,,,Cedric Kauffmann,R,,FRA,26.6201232033,103898,1,,Julien Benneteau,R,185,FRA,20.8158795346,6-0 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,686,20,246,124
 2002-M-FU-JAM-16A-2002,Jamaica F16,Hard,32,S,20021014,18,103493,5,,Eduardo Bohrer,R,,BRA,22.7405886379,117434,,Q,Tiago Ruffoni,R,,BRA,22.3874058864,7-6(0) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,402,61,,
-2002-M-FU-JAM-16A-2002,Jamaica F16,Hard,32,S,20021014,19,104542,,,Jo Wilfried Tsonga,R,188,FRA,17.492128679,102978,4,,Zbynek Mlynarik,R,175,AUT,25.4729637235,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,585,29,363,71
+2002-M-FU-JAM-16A-2002,Jamaica F16,Hard,32,S,20021014,19,104542,,,Jo-Wilfried Tsonga,R,188,FRA,17.492128679,102978,4,,Zbynek Mlynarik,R,175,AUT,25.4729637235,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,585,29,363,71
 2002-M-FU-JAM-16A-2002,Jamaica F16,Hard,32,S,20021014,20,103545,8,,Philipp Mullner,R,,AUT,22.507871321,103419,,,Gabriel Montilla,R,,PUR,23.1759069131,1-6 6-3 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,515,38,702,18
 2002-M-FU-JAM-16A-2002,Jamaica F16,Hard,32,S,20021014,21,103455,7,,Michal Mertinak,R,180,SVK,23.0088980151,103389,,Q,Kyle Porter,U,,USA,23.3319644079,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,460,49,1070,4
 2002-M-FU-JAM-16A-2002,Jamaica F16,Hard,32,S,20021014,22,103520,3,,Pavel Snobel,L,190,CZE,22.6255989049,104210,,,Ryan Russell,L,,JAM,19.2744695414,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,338,78,621,26
 2002-M-FU-JAM-16A-2002,Jamaica F16,Hard,32,S,20021014,23,104273,6,,Edouard Roger Vasselin,R,188,FRA,18.8774811773,104203,,,Darko Madjarovski,R,,SRB,19.3264887064,7-6(4) 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,436,52,575,30
 2002-M-FU-JAM-16A-2002,Jamaica F16,Hard,32,S,20021014,24,104259,2,,Philipp Kohlschreiber,R,178,GER,18.9952087611,108628,,Q,Jhonnatan Medina Alvarez,L,,VEN,20.7529089665,2-6 6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,278,106,,
 2002-M-FU-JAM-16A-2002,Jamaica F16,Hard,32,S,20021014,25,102735,,,Cedric Kauffmann,R,,FRA,26.6201232033,103493,5,,Eduardo Bohrer,R,,BRA,22.7405886379,4-6 6-4 6-0,3,QF,,,,,,,,,,,,,,,,,,,,686,20,402,61
-2002-M-FU-JAM-16A-2002,Jamaica F16,Hard,32,S,20021014,26,104542,,,Jo Wilfried Tsonga,R,188,FRA,17.492128679,103545,8,,Philipp Mullner,R,,AUT,22.507871321,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,585,29,515,38
+2002-M-FU-JAM-16A-2002,Jamaica F16,Hard,32,S,20021014,26,104542,,,Jo-Wilfried Tsonga,R,188,FRA,17.492128679,103545,8,,Philipp Mullner,R,,AUT,22.507871321,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,585,29,515,38
 2002-M-FU-JAM-16A-2002,Jamaica F16,Hard,32,S,20021014,27,103520,3,,Pavel Snobel,L,190,CZE,22.6255989049,103455,7,,Michal Mertinak,R,180,SVK,23.0088980151,7-6(3) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,338,78,460,49
 2002-M-FU-JAM-16A-2002,Jamaica F16,Hard,32,S,20021014,28,104259,2,,Philipp Kohlschreiber,R,178,GER,18.9952087611,104273,6,,Edouard Roger Vasselin,R,188,FRA,18.8774811773,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,278,106,436,52
-2002-M-FU-JAM-16A-2002,Jamaica F16,Hard,32,S,20021014,29,102735,,,Cedric Kauffmann,R,,FRA,26.6201232033,104542,,,Jo Wilfried Tsonga,R,188,FRA,17.492128679,7-6(2) 7-5,3,SF,,,,,,,,,,,,,,,,,,,,686,20,585,29
+2002-M-FU-JAM-16A-2002,Jamaica F16,Hard,32,S,20021014,29,102735,,,Cedric Kauffmann,R,,FRA,26.6201232033,104542,,,Jo-Wilfried Tsonga,R,188,FRA,17.492128679,7-6(2) 7-5,3,SF,,,,,,,,,,,,,,,,,,,,686,20,585,29
 2002-M-FU-JAM-16A-2002,Jamaica F16,Hard,32,S,20021014,30,104259,2,,Philipp Kohlschreiber,R,178,GER,18.9952087611,103520,3,,Pavel Snobel,L,190,CZE,22.6255989049,7-6(2) 0-0 RET,3,SF,,,,,,,,,,,,,,,,,,,,278,106,338,78
 2002-M-FU-JAM-16A-2002,Jamaica F16,Hard,32,S,20021014,31,102735,,,Cedric Kauffmann,R,,FRA,26.6201232033,104259,2,,Philipp Kohlschreiber,R,178,GER,18.9952087611,6-2 6-2,3,F,,,,,,,,,,,,,,,,,,,,686,20,278,106
 2002-M-SA-ESP-06A-2002a,Spain 6 1,Clay,32,S,20021014,1,104149,1,,Adrian Cruciat,R,,ROU,19.5400410678,123695,,WC,Noel Garberi Fernandez,U,,ESP,18.006844627,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,366,71,,
@@ -11173,7 +11173,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-FU-JAM-17A-2002,Jamaica F17,Hard,32,S,20021021,5,103957,,,Benjamin Kohlloeffel,L,,GER,20.6078028747,104259,3,,Philipp Kohlschreiber,R,178,GER,19.0143737166,5-7 7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,574,30,271,106
 2002-M-FU-JAM-17A-2002,Jamaica F17,Hard,32,S,20021021,6,104126,,,Adam Kennedy,R,,AUS,19.6960985626,104361,,Q,Michel Koning,R,,NED,18.4722792608,7-6(2) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,501,40,,
 2002-M-FU-JAM-17A-2002,Jamaica F17,Hard,32,S,20021021,7,103399,,,Carlos Rexach Itoiz,U,,ESP,23.2991101985,104460,,WC,Dustin Brown,R,196,GER,17.8672142368,7-6(3) 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,558,32,751,16
-2002-M-FU-JAM-17A-2002,Jamaica F17,Hard,32,S,20021021,8,103431,8,,Brandon Hawk,R,,USA,23.1321013005,104542,,SE,Jo Wilfried Tsonga,R,188,FRA,17.5112936345,6-4 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,387,65,590,29
+2002-M-FU-JAM-17A-2002,Jamaica F17,Hard,32,S,20021021,8,103431,8,,Brandon Hawk,R,,USA,23.1321013005,104542,,SE,Jo-Wilfried Tsonga,R,188,FRA,17.5112936345,6-4 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,387,65,590,29
 2002-M-FU-JAM-17A-2002,Jamaica F17,Hard,32,S,20021021,9,102978,6,,Zbynek Mlynarik,R,175,AUT,25.492128679,109450,,WC,Michael Birzon,U,,USA,19.8083504449,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,360,71,,
 2002-M-FU-JAM-17A-2002,Jamaica F17,Hard,32,S,20021021,10,104486,,WC,Horia Tecau,R,193,ROU,17.7522245038,103455,,,Michal Mertinak,R,180,SVK,23.0280629706,2-6 7-6(6) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,439,52
 2002-M-FU-JAM-17A-2002,Jamaica F17,Hard,32,S,20021021,11,103545,,,Philipp Mullner,R,,AUT,22.5270362765,104230,,Q,Daniel Koellerer,R,180,AUT,19.1786447639,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,513,38,1084,4
@@ -11241,7 +11241,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-FU-NAM-01A-2002,Namibia F1,Hard,32,S,20021021,11,118575,,WC,Johan Theron,U,,NAM,27.1156741958,118569,,WC,Sunesh Vather,U,,RSA,18.5516769336,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2002-M-FU-NAM-01A-2002,Namibia F1,Hard,32,S,20021021,12,103339,4,,Wesley Whitehouse,L,190,RSA,23.6084873374,101702,,Q,Michael De Jongh,R,,RSA,32.6844626968,4-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,702,18,,
 2002-M-FU-NAM-01A-2002,Namibia F1,Hard,32,S,20021021,13,103621,6,,Igor Levine,U,,RUS,22.1574264203,118580,,WC,Nicky Buys,U,,NAM,20.5639972621,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,888,9,,
-2002-M-FU-NAM-01A-2002,Namibia F1,Hard,32,S,20021021,14,103072,,Q,Jean Marcel Bourgaul Du Coudray,U,,MRI,25.015742642,103508,,,Nick Mcdonald,R,,RSA,22.6830937714,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,910,8
+2002-M-FU-NAM-01A-2002,Namibia F1,Hard,32,S,20021021,14,103072,,Q,Jean Marcel Bourgaul Du Coudray,U,,MRI,25.015742642,103508,,,Nick McDonald,R,,RSA,22.6830937714,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,910,8
 2002-M-FU-NAM-01A-2002,Namibia F1,Hard,32,S,20021021,15,102177,,Q,Johannes Saayman,R,,RSA,29.6563997262,104158,,,Andrew Anderson,R,193,RSA,19.537303217,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,931,7
 2002-M-FU-NAM-01A-2002,Namibia F1,Hard,32,S,20021021,16,104143,2,,Dirk Stegmann,R,,RSA,19.6221765914,102973,,,Ruben De Kleijn,R,,NED,25.5058179329,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,342,77,968,6
 2002-M-FU-NAM-01A-2002,Namibia F1,Hard,32,S,20021021,17,103098,1,,Johan Du Randt,U,,RSA,24.8268309377,117966,,,Ronald Rugimbana,U,,TAN,25.3305954825,6-1 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,333,79,1182,3
@@ -11293,7 +11293,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-FU-NAM-02A-2002,Botswana F1,Hard,32,S,20021028,1,103472,1,,Karim Maamoun,R,,EGY,22.9431895962,104695,,Q,Fritz Wolmarans,R,,RSA,16.643394935,6-3 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,427,54,,
 2002-M-FU-NAM-02A-2002,Botswana F1,Hard,32,S,20021028,2,101702,,Q,Michael De Jongh,R,,RSA,32.7036276523,118516,,WC,Petrus Molefe,U,,BOT,26.7624914442,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2002-M-FU-NAM-02A-2002,Botswana F1,Hard,32,S,20021028,3,103907,,,Kabelo Maleka,R,,RSA,20.8021902806,104153,,,Heinrich Heyl,R,,RSA,19.575633128,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1060,4,1286,2
-2002-M-FU-NAM-02A-2002,Botswana F1,Hard,32,S,20021028,4,103508,,,Nick Mcdonald,R,,RSA,22.7022587269,103621,7,,Igor Levine,U,,RUS,22.1765913758,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,908,8,885,9
+2002-M-FU-NAM-02A-2002,Botswana F1,Hard,32,S,20021028,4,103508,,,Nick McDonald,R,,RSA,22.7022587269,103621,7,,Igor Levine,U,,RUS,22.1765913758,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,908,8,885,9
 2002-M-FU-NAM-02A-2002,Botswana F1,Hard,32,S,20021028,5,103339,3,,Wesley Whitehouse,L,190,RSA,23.627652293,118348,,Q,Arnaud Le Cloerec,U,,FRA,20.1122518823,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,696,18,,
 2002-M-FU-NAM-02A-2002,Botswana F1,Hard,32,S,20021028,6,102973,,,Ruben De Kleijn,R,,NED,25.5249828884,118145,,Q,Craig Jaffe,U,,RSA,21.5523613963,7-6(6) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,968,6,,
 2002-M-FU-NAM-02A-2002,Botswana F1,Hard,32,S,20021028,7,103300,,,Punch Maleka,R,,RSA,23.832991102,109047,,,Andre Santos,U,,BRA,19.947980835,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1135,3,1352,1
@@ -11307,7 +11307,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-FU-NAM-02A-2002,Botswana F1,Hard,32,S,20021028,15,103991,,,Boy Wijnmalen,U,,NED,20.4873374401,109001,,,Trent Aaron,R,,USA,33.3388090349,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,898,8,1352,1
 2002-M-FU-NAM-02A-2002,Botswana F1,Hard,32,S,20021028,16,103413,2,,Genius Chidzikwe,R,,ZIM,23.2361396304,102317,,,Alexei Ageev,U,,RUS,28.7501711157,6-4 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,599,27,1092,4
 2002-M-FU-NAM-02A-2002,Botswana F1,Hard,32,S,20021028,17,101702,,Q,Michael De Jongh,R,,RSA,32.7036276523,103472,1,,Karim Maamoun,R,,EGY,22.9431895962,2-6 6-2 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,,,427,54
-2002-M-FU-NAM-02A-2002,Botswana F1,Hard,32,S,20021028,18,103907,,,Kabelo Maleka,R,,RSA,20.8021902806,103508,,,Nick Mcdonald,R,,RSA,22.7022587269,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1060,4,908,8
+2002-M-FU-NAM-02A-2002,Botswana F1,Hard,32,S,20021028,18,103907,,,Kabelo Maleka,R,,RSA,20.8021902806,103508,,,Nick McDonald,R,,RSA,22.7022587269,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1060,4,908,8
 2002-M-FU-NAM-02A-2002,Botswana F1,Hard,32,S,20021028,19,103339,3,,Wesley Whitehouse,L,190,RSA,23.627652293,102973,,,Ruben De Kleijn,R,,NED,25.5249828884,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,696,18,968,6
 2002-M-FU-NAM-02A-2002,Botswana F1,Hard,32,S,20021028,20,103020,5,,Guillermo Carter,R,,MEX,25.3086926762,103300,,,Punch Maleka,R,,RSA,23.832991102,3-6 6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,867,10,1135,3
 2002-M-FU-NAM-02A-2002,Botswana F1,Hard,32,S,20021028,21,102972,8,,Olivier Le Jeune,U,,FRA,25.5359342916,117966,,,Ronald Rugimbana,U,,TAN,25.3497604381,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1004,5,1167,3
@@ -11565,7 +11565,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-FU-JAM-18A-2002,Jamaica F18,Clay,32,S,20021028,2,102735,,,Cedric Kauffmann,R,,FRA,26.6584531143,104460,,WC,Dustin Brown,R,196,GER,17.8863791923,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,555,32,736,16
 2002-M-FU-JAM-18A-2002,Jamaica F18,Clay,32,S,20021028,3,104203,,,Darko Madjarovski,R,,SRB,19.3648186174,118583,,Q,Scott Crichlow,R,,USA,27.3456536619,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,562,31,,
 2002-M-FU-JAM-18A-2002,Jamaica F18,Clay,32,S,20021028,4,104112,,Q,Benjamin Balleret,R,185,MON,19.7837097878,103431,6,,Brandon Hawk,R,,USA,23.151266256,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,397,63
-2002-M-FU-JAM-18A-2002,Jamaica F18,Clay,32,S,20021028,5,104542,,,Jo Wilfried Tsonga,R,188,FRA,17.53045859,103065,3,,Kepler Orellana,R,,VEN,25.054072553,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,541,33,353,74
+2002-M-FU-JAM-18A-2002,Jamaica F18,Clay,32,S,20021028,5,104542,,,Jo-Wilfried Tsonga,R,188,FRA,17.53045859,103065,3,,Kepler Orellana,R,,VEN,25.054072553,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,541,33,353,74
 2002-M-FU-JAM-18A-2002,Jamaica F18,Clay,32,S,20021028,6,103389,,Q,Kyle Porter,U,,USA,23.370294319,104568,,WC,Amadeus Fulford Jones,U,,GBR,17.3689253936,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,974,6,,
 2002-M-FU-JAM-18A-2002,Jamaica F18,Clay,32,S,20021028,7,102753,,,Wolfgang Schranz,R,178,AUT,26.6091718001,104486,,WC,Horia Tecau,R,193,ROU,17.7713894593,7-5 1-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,570,30,,
 2002-M-FU-JAM-18A-2002,Jamaica F18,Clay,32,S,20021028,8,103820,5,,Alan Mackin,R,183,GBR,21.2128678987,103570,,,Fabian Roetschi,U,,SUI,22.4257357974,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,368,68,726,16
@@ -11579,17 +11579,17 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-FU-JAM-18A-2002,Jamaica F18,Clay,32,S,20021028,16,104308,,Q,Michal Przysiezny,R,185,POL,18.6967830253,103520,2,,Pavel Snobel,L,190,CZE,22.6639288159,6-0 7-6(10),3,R32,,,,,,,,,,,,,,,,,,,,908,8,306,90
 2002-M-FU-JAM-18A-2002,Jamaica F18,Clay,32,S,20021028,17,102735,,,Cedric Kauffmann,R,,FRA,26.6584531143,103399,,,Carlos Rexach Itoiz,U,,ESP,23.318275154,6-4 2-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,555,32,556,32
 2002-M-FU-JAM-18A-2002,Jamaica F18,Clay,32,S,20021028,18,104203,,,Darko Madjarovski,R,,SRB,19.3648186174,104112,,Q,Benjamin Balleret,R,185,MON,19.7837097878,W/O,3,R16,,,,,,,,,,,,,,,,,,,,562,31,,
-2002-M-FU-JAM-18A-2002,Jamaica F18,Clay,32,S,20021028,19,104542,,,Jo Wilfried Tsonga,R,188,FRA,17.53045859,103389,,Q,Kyle Porter,U,,USA,23.370294319,6-1 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,541,33,974,6
+2002-M-FU-JAM-18A-2002,Jamaica F18,Clay,32,S,20021028,19,104542,,,Jo-Wilfried Tsonga,R,188,FRA,17.53045859,103389,,Q,Kyle Porter,U,,USA,23.370294319,6-1 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,541,33,974,6
 2002-M-FU-JAM-18A-2002,Jamaica F18,Clay,32,S,20021028,20,103820,5,,Alan Mackin,R,183,GBR,21.2128678987,102753,,,Wolfgang Schranz,R,178,AUT,26.6091718001,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,368,68,570,30
 2002-M-FU-JAM-18A-2002,Jamaica F18,Clay,32,S,20021028,21,103545,,,Philipp Mullner,R,,AUT,22.546201232,102514,7,,Petr Dezort,R,,CZE,27.7782340862,3-6 7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,493,40,388,65
 2002-M-FU-JAM-18A-2002,Jamaica F18,Clay,32,S,20021028,22,104230,,Q,Daniel Koellerer,R,180,AUT,19.1978097194,104126,,,Adam Kennedy,R,,AUS,19.7152635181,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1074,4,496,40
 2002-M-FU-JAM-18A-2002,Jamaica F18,Clay,32,S,20021028,23,102457,,,Miles Maclagan,R,180,GBR,28.0958247775,103493,8,,Eduardo Bohrer,R,,BRA,22.7789185489,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,531,34,412,60
 2002-M-FU-JAM-18A-2002,Jamaica F18,Clay,32,S,20021028,24,104308,,Q,Michal Przysiezny,R,185,POL,18.6967830253,103455,,,Michal Mertinak,R,180,SVK,23.0472279261,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,908,8,433,53
 2002-M-FU-JAM-18A-2002,Jamaica F18,Clay,32,S,20021028,25,104203,,,Darko Madjarovski,R,,SRB,19.3648186174,102735,,,Cedric Kauffmann,R,,FRA,26.6584531143,6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,562,31,555,32
-2002-M-FU-JAM-18A-2002,Jamaica F18,Clay,32,S,20021028,26,104542,,,Jo Wilfried Tsonga,R,188,FRA,17.53045859,103820,5,,Alan Mackin,R,183,GBR,21.2128678987,2-6 6-2 6-0,3,QF,,,,,,,,,,,,,,,,,,,,541,33,368,68
+2002-M-FU-JAM-18A-2002,Jamaica F18,Clay,32,S,20021028,26,104542,,,Jo-Wilfried Tsonga,R,188,FRA,17.53045859,103820,5,,Alan Mackin,R,183,GBR,21.2128678987,2-6 6-2 6-0,3,QF,,,,,,,,,,,,,,,,,,,,541,33,368,68
 2002-M-FU-JAM-18A-2002,Jamaica F18,Clay,32,S,20021028,27,104230,,Q,Daniel Koellerer,R,180,AUT,19.1978097194,103545,,,Philipp Mullner,R,,AUT,22.546201232,7-6(3) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,1074,4,493,40
 2002-M-FU-JAM-18A-2002,Jamaica F18,Clay,32,S,20021028,28,102457,,,Miles Maclagan,R,180,GBR,28.0958247775,104308,,Q,Michal Przysiezny,R,185,POL,18.6967830253,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,531,34,908,8
-2002-M-FU-JAM-18A-2002,Jamaica F18,Clay,32,S,20021028,29,104203,,,Darko Madjarovski,R,,SRB,19.3648186174,104542,,,Jo Wilfried Tsonga,R,188,FRA,17.53045859,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,562,31,541,33
+2002-M-FU-JAM-18A-2002,Jamaica F18,Clay,32,S,20021028,29,104203,,,Darko Madjarovski,R,,SRB,19.3648186174,104542,,,Jo-Wilfried Tsonga,R,188,FRA,17.53045859,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,562,31,541,33
 2002-M-FU-JAM-18A-2002,Jamaica F18,Clay,32,S,20021028,30,104230,,Q,Daniel Koellerer,R,180,AUT,19.1978097194,102457,,,Miles Maclagan,R,180,GBR,28.0958247775,2-6 6-3 6-0,3,SF,,,,,,,,,,,,,,,,,,,,1074,4,531,34
 2002-M-FU-JAM-18A-2002,Jamaica F18,Clay,32,S,20021028,31,104230,,Q,Daniel Koellerer,R,180,AUT,19.1978097194,104203,,,Darko Madjarovski,R,,SRB,19.3648186174,6-1 6-3,3,F,,,,,,,,,,,,,,,,,,,,1074,4,562,31
 2002-M-FU-MEX-16A-2002,Mexico F16,Clay,32,S,20021028,1,104535,,LL,Daniel Garza,R,,MEX,17.5550992471,103746,1,,Miguel Gallardo Valles,R,,MEX,21.5550992471,6-3 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,1033,5,191,186
@@ -11849,7 +11849,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-FU-ZIM-01A-2002,Zimbabwe F1,Hard,32,S,20021104,7,118145,,Q,Craig Jaffe,U,,RSA,21.5715263518,103991,,,Boy Wijnmalen,U,,NED,20.5065023956,2-6 6-3 4-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,873,9
 2002-M-FU-ZIM-01A-2002,Zimbabwe F1,Hard,32,S,20021104,8,102267,7,,Gwinyai Tongoona,U,,ZIM,29.067761807,118900,,Q,Roberto Bianco,U,,RSA,19.4332648871,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,755,14,,
 2002-M-FU-ZIM-01A-2002,Zimbabwe F1,Hard,32,S,20021104,9,102177,,Q,Johannes Saayman,R,,RSA,29.6947296372,103621,8,,Igor Levine,U,,RUS,22.1957563313,7-6(5) 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1349,1,878,9
-2002-M-FU-ZIM-01A-2002,Zimbabwe F1,Hard,32,S,20021104,10,103508,,,Nick Mcdonald,R,,RSA,22.7214236824,118901,,WC,Namkara Bvunzawabaya,U,,ZIM,23.1074606434,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,902,8,,
+2002-M-FU-ZIM-01A-2002,Zimbabwe F1,Hard,32,S,20021104,10,103508,,,Nick McDonald,R,,RSA,22.7214236824,118901,,WC,Namkara Bvunzawabaya,U,,ZIM,23.1074606434,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,902,8,,
 2002-M-FU-ZIM-01A-2002,Zimbabwe F1,Hard,32,S,20021104,11,104695,,Q,Fritz Wolmarans,R,,RSA,16.6625598905,104246,,WC,Motaz Abou El Khair,U,,EGY,19.1238877481,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1349,1
 2002-M-FU-ZIM-01A-2002,Zimbabwe F1,Hard,32,S,20021104,12,103339,4,,Wesley Whitehouse,L,190,RSA,23.6468172485,118902,,WC,Vusumuzi Khonza Majola,U,,ZIM,24.9363449692,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,573,30,,
 2002-M-FU-ZIM-01A-2002,Zimbabwe F1,Hard,32,S,20021104,13,103864,5,,Mohamed Mamoun,R,,EGY,21.054072553,109001,,Q,Trent Aaron,R,,USA,33.3579739904,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,771,14,1349,1
@@ -11860,13 +11860,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-FU-ZIM-01A-2002,Zimbabwe F1,Hard,32,S,20021104,18,102317,,,Alexei Ageev,U,,RUS,28.7693360712,111127,,,Remco Pondman,R,,NED,23.2580424367,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1086,4,1098,4
 2002-M-FU-ZIM-01A-2002,Zimbabwe F1,Hard,32,S,20021104,19,103413,3,,Genius Chidzikwe,R,,ZIM,23.2553045859,118899,,WC,Martin Dzuwa,U,,ZIM,24.4845995893,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,679,19,,
 2002-M-FU-ZIM-01A-2002,Zimbabwe F1,Hard,32,S,20021104,20,102267,7,,Gwinyai Tongoona,U,,ZIM,29.067761807,118145,,Q,Craig Jaffe,U,,RSA,21.5715263518,6-0 6-0,3,R16,,,,,,,,,,,,,,,,,,,,755,14,,
-2002-M-FU-ZIM-01A-2002,Zimbabwe F1,Hard,32,S,20021104,21,103508,,,Nick Mcdonald,R,,RSA,22.7214236824,102177,,Q,Johannes Saayman,R,,RSA,29.6947296372,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,902,8,1349,1
+2002-M-FU-ZIM-01A-2002,Zimbabwe F1,Hard,32,S,20021104,21,103508,,,Nick McDonald,R,,RSA,22.7214236824,102177,,Q,Johannes Saayman,R,,RSA,29.6947296372,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,902,8,1349,1
 2002-M-FU-ZIM-01A-2002,Zimbabwe F1,Hard,32,S,20021104,22,103339,4,,Wesley Whitehouse,L,190,RSA,23.6468172485,104695,,Q,Fritz Wolmarans,R,,RSA,16.6625598905,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,573,30,,
 2002-M-FU-ZIM-01A-2002,Zimbabwe F1,Hard,32,S,20021104,23,104158,,,Andrew Anderson,R,193,RSA,19.575633128,103864,5,,Mohamed Mamoun,R,,EGY,21.054072553,7-6(9) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,919,7,771,14
 2002-M-FU-ZIM-01A-2002,Zimbabwe F1,Hard,32,S,20021104,24,104360,,Q,Adam Chadaj,L,178,POL,18.5106091718,104153,,,Heinrich Heyl,R,,RSA,19.5947980835,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1349,1,1284,2
 2002-M-FU-ZIM-01A-2002,Zimbabwe F1,Hard,32,S,20021104,25,103300,,,Punch Maleka,R,,RSA,23.8521560575,102317,,,Alexei Ageev,U,,RUS,28.7693360712,6-2 5-7 7-5,3,QF,,,,,,,,,,,,,,,,,,,,,,1086,4
 2002-M-FU-ZIM-01A-2002,Zimbabwe F1,Hard,32,S,20021104,26,103413,3,,Genius Chidzikwe,R,,ZIM,23.2553045859,102267,7,,Gwinyai Tongoona,U,,ZIM,29.067761807,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,679,19,755,14
-2002-M-FU-ZIM-01A-2002,Zimbabwe F1,Hard,32,S,20021104,27,103339,4,,Wesley Whitehouse,L,190,RSA,23.6468172485,103508,,,Nick Mcdonald,R,,RSA,22.7214236824,4-6 6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,573,30,902,8
+2002-M-FU-ZIM-01A-2002,Zimbabwe F1,Hard,32,S,20021104,27,103339,4,,Wesley Whitehouse,L,190,RSA,23.6468172485,103508,,,Nick McDonald,R,,RSA,22.7214236824,4-6 6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,573,30,902,8
 2002-M-FU-ZIM-01A-2002,Zimbabwe F1,Hard,32,S,20021104,28,104360,,Q,Adam Chadaj,L,178,POL,18.5106091718,104158,,,Andrew Anderson,R,193,RSA,19.575633128,4-6 7-6(3) 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,1349,1,919,7
 2002-M-FU-ZIM-01A-2002,Zimbabwe F1,Hard,32,S,20021104,29,103413,3,,Genius Chidzikwe,R,,ZIM,23.2553045859,103300,,,Punch Maleka,R,,RSA,23.8521560575,6-1 6-2,3,SF,,,,,,,,,,,,,,,,,,,,679,19,,
 2002-M-FU-ZIM-01A-2002,Zimbabwe F1,Hard,32,S,20021104,30,103339,4,,Wesley Whitehouse,L,190,RSA,23.6468172485,104360,,Q,Adam Chadaj,L,178,POL,18.5106091718,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,573,30,1349,1

@@ -33,7 +33,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-SA-ESP-01A-2004a,Spain 1 1,Clay,32,S,20040105,1,104593,1,,Daniel Gimeno Traver,R,185,ESP,18.4120465435,103608,,,Mario Munoz Bejarano,R,,ESP,23.4223134839,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,799,13,483,48
 2004-M-SA-ESP-01A-2004a,Spain 1 1,Clay,32,S,20040105,2,103365,,,Javier Garcia Sintes,R,,ESP,24.6789869952,104529,,Q,David Villanueva Perez,R,,ESP,18.7707049966,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,400,72,944,7
 2004-M-SA-ESP-01A-2004a,Spain 1 1,Clay,32,S,20040105,3,103577,,,Christopher Kas,R,188,GER,23.5619438741,103118,,,Ion Moldovan,R,188,ROU,25.9657768652,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,721,18,354,87
-2004-M-SA-ESP-01A-2004a,Spain 1 1,Clay,32,S,20040105,4,103242,,,Juan Giner,R,178,ESP,25.440109514,103926,7,,Daniel Munoz De La Nava,L,,ESP,21.9329226557,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,515,41,567,33
+2004-M-SA-ESP-01A-2004a,Spain 1 1,Clay,32,S,20040105,4,103242,,,Juan Giner,R,178,ESP,25.440109514,103926,7,,Daniel Munoz de la Nava,L,,ESP,21.9329226557,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,515,41,567,33
 2004-M-SA-ESP-01A-2004a,Spain 1 1,Clay,32,S,20040105,5,104195,4,,Simone Vagnozzi,R,173,ITA,20.6023271732,103904,,,Alberto Soriano,U,,ESP,21.9958932238,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,656,24,687,20
 2004-M-SA-ESP-01A-2004a,Spain 1 1,Clay,32,S,20040105,6,103963,,,Filip Urban,R,193,POL,21.787816564,119154,,Q,Borja Martinez Lejarza,U,,ESP,16.2655715264,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,638,25,,
 2004-M-SA-ESP-01A-2004a,Spain 1 1,Clay,32,S,20040105,7,104317,,WC,David Luque Velasco,U,,ESP,19.8439425051,119320,,Q,Jaume Barberan Miquel,U,,ESP,24.514715948,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,954,7,,
@@ -70,7 +70,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-SA-ESP-01A-2004b,Spain 1 2,Clay,24,S,20040105,7,103796,,,Marcos Jimenez Letrado,U,,ESP,22.5352498289,103365,,,Javier Garcia Sintes,R,,ESP,24.6789869952,6-3 1-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,543,37,400,72
 2004-M-SA-ESP-01A-2004b,Spain 1 2,Clay,24,S,20040105,8,104145,,,Vjekoslav Skenderovic,U,,CRO,20.7967145791,103165,,,Gorka Fraile,R,180,ESP,25.7467488022,5-7 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,578,31,267,127
 2004-M-SA-ESP-01A-2004b,Spain 1 2,Clay,24,S,20040105,9,104593,1,,Daniel Gimeno Traver,R,185,ESP,18.4120465435,103543,,,David Marrero,R,185,ESP,23.742642026,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,799,13,593,30
-2004-M-SA-ESP-01A-2004b,Spain 1 2,Clay,24,S,20040105,10,103608,,,Mario Munoz Bejarano,R,,ESP,23.4223134839,103926,8,,Daniel Munoz De La Nava,L,,ESP,21.9329226557,7-6(2) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,483,48,567,33
+2004-M-SA-ESP-01A-2004b,Spain 1 2,Clay,24,S,20040105,10,103608,,,Mario Munoz Bejarano,R,,ESP,23.4223134839,103926,8,,Daniel Munoz de la Nava,L,,ESP,21.9329226557,7-6(2) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,483,48,567,33
 2004-M-SA-ESP-01A-2004b,Spain 1 2,Clay,24,S,20040105,11,103364,3,,Javier Genaro Martinez,R,,ESP,24.681724846,103118,,,Ion Moldovan,R,188,ROU,25.9657768652,4-6 7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,395,73,354,87
 2004-M-SA-ESP-01A-2004b,Spain 1 2,Clay,24,S,20040105,12,104170,,,Hector Ruiz Cadenas,U,,ESP,20.6926762491,103242,6,,Juan Giner,R,178,ESP,25.440109514,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1432,1,515,41
 2004-M-SA-ESP-01A-2004b,Spain 1 2,Clay,24,S,20040105,13,103925,7,,Gabriel Moraru,R,180,ROU,21.9356605065,104194,,,Ruben Merchan,R,,ESP,20.6105407255,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,385,76,925,8
@@ -89,7 +89,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-SA-ESP-01A-2004c,Spain 1 3,Clay,32,S,20040105,3,104593,,Q,Daniel Gimeno Traver,R,185,ESP,18.4120465435,104668,,Q,David Diaz Ventura,U,,ESP,17.9466119097,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,799,13,1432,1
 2004-M-SA-ESP-01A-2004c,Spain 1 3,Clay,32,S,20040105,4,103365,6,,Javier Garcia Sintes,R,,ESP,24.6789869952,103515,,Q,Filip Aniola,R,,POL,23.8603696099,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,400,72,819,12
 2004-M-SA-ESP-01A-2004c,Spain 1 3,Clay,32,S,20040105,5,103925,4,,Gabriel Moraru,R,180,ROU,21.9356605065,103796,,,Marcos Jimenez Letrado,U,,ESP,22.5352498289,2-6 6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,385,76,543,37
-2004-M-SA-ESP-01A-2004c,Spain 1 3,Clay,32,S,20040105,6,103926,,,Daniel Munoz De La Nava,L,,ESP,21.9329226557,103873,,PR,Antonio Baldellou Esteva,U,,ESP,22.1574264203,6-1 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,567,33,835,11
+2004-M-SA-ESP-01A-2004c,Spain 1 3,Clay,32,S,20040105,6,103926,,,Daniel Munoz de la Nava,L,,ESP,21.9329226557,103873,,PR,Antonio Baldellou Esteva,U,,ESP,22.1574264203,6-1 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,567,33,835,11
 2004-M-SA-ESP-01A-2004c,Spain 1 3,Clay,32,S,20040105,7,103904,,,Alberto Soriano,U,,ESP,21.9958932238,104197,,Q,David Ortiz Djian,R,,ESP,20.5941136208,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,687,20,1080,5
 2004-M-SA-ESP-01A-2004c,Spain 1 3,Clay,32,S,20040105,8,103963,,,Filip Urban,R,193,POL,21.787816564,102135,8,,Emilio Benfele Alvarez,R,183,ESP,31.1375770021,5-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,638,25,415,66
 2004-M-SA-ESP-01A-2004c,Spain 1 3,Clay,32,S,20040105,9,103364,5,,Javier Genaro Martinez,R,,ESP,24.681724846,103543,,,David Marrero,R,185,ESP,23.742642026,7-6(4) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,395,73,593,30
@@ -102,7 +102,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-SA-ESP-01A-2004c,Spain 1 3,Clay,32,S,20040105,16,102836,2,,Rogier Wassen,R,190,NED,27.4058863792,104831,,SE,Bartolome Salva Vidal,L,183,ESP,17.1252566735,1-6 7-6(1) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,351,88,771,15
 2004-M-SA-ESP-01A-2004c,Spain 1 3,Clay,32,S,20040105,17,103242,,,Juan Giner,R,178,ESP,25.440109514,103165,1,,Gorka Fraile,R,180,ESP,25.7467488022,7-6(0) 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,515,41,267,127
 2004-M-SA-ESP-01A-2004c,Spain 1 3,Clay,32,S,20040105,18,104593,,Q,Daniel Gimeno Traver,R,185,ESP,18.4120465435,103365,6,,Javier Garcia Sintes,R,,ESP,24.6789869952,7-6(6) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,799,13,400,72
-2004-M-SA-ESP-01A-2004c,Spain 1 3,Clay,32,S,20040105,19,103925,4,,Gabriel Moraru,R,180,ROU,21.9356605065,103926,,,Daniel Munoz De La Nava,L,,ESP,21.9329226557,6-2 2-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,385,76,567,33
+2004-M-SA-ESP-01A-2004c,Spain 1 3,Clay,32,S,20040105,19,103925,4,,Gabriel Moraru,R,180,ROU,21.9356605065,103926,,,Daniel Munoz de la Nava,L,,ESP,21.9329226557,6-2 2-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,385,76,567,33
 2004-M-SA-ESP-01A-2004c,Spain 1 3,Clay,32,S,20040105,20,103963,,,Filip Urban,R,193,POL,21.787816564,103904,,,Alberto Soriano,U,,ESP,21.9958932238,1-6 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,638,25,687,20
 2004-M-SA-ESP-01A-2004c,Spain 1 3,Clay,32,S,20040105,21,103364,5,,Javier Genaro Martinez,R,,ESP,24.681724846,104194,,Q,Ruben Merchan,R,,ESP,20.6105407255,4-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,395,73,925,8
 2004-M-SA-ESP-01A-2004c,Spain 1 3,Clay,32,S,20040105,22,103118,3,,Ion Moldovan,R,188,ROU,25.9657768652,104666,,WC,Pedro Clar Rossello,R,,ESP,17.9493497604,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,354,87,,
@@ -117,7 +117,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-SA-ESP-01A-2004c,Spain 1 3,Clay,32,S,20040105,31,104593,,Q,Daniel Gimeno Traver,R,185,ESP,18.4120465435,103364,5,,Javier Genaro Martinez,R,,ESP,24.681724846,6-2 6-2,3,F,,,,,,,,,,,,,,,,,,,,799,13,395,73
 2004-M-SA-ESP-01A-2004d,Spain 1 4,Clay,32,S,20040105,1,103577,,,Christopher Kas,R,188,GER,23.5619438741,103165,1,,Gorka Fraile,R,180,ESP,25.7467488022,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,721,18,267,127
 2004-M-SA-ESP-01A-2004d,Spain 1 4,Clay,32,S,20040105,2,119325,,Q,David Serrano Gamez,R,,ESP,17.7056810404,104666,,WC,Pedro Clar Rossello,R,,ESP,17.9493497604,6-7(3) 6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2004-M-SA-ESP-01A-2004d,Spain 1 4,Clay,32,S,20040105,3,103926,,,Daniel Munoz De La Nava,L,,ESP,21.9329226557,103515,,LL,Filip Aniola,R,,POL,23.8603696099,6-7(5) 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,567,33,819,12
+2004-M-SA-ESP-01A-2004d,Spain 1 4,Clay,32,S,20040105,3,103926,,,Daniel Munoz de la Nava,L,,ESP,21.9329226557,103515,,LL,Filip Aniola,R,,POL,23.8603696099,6-7(5) 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,567,33,819,12
 2004-M-SA-ESP-01A-2004d,Spain 1 4,Clay,32,S,20040105,4,103925,5,,Gabriel Moraru,R,180,ROU,21.9356605065,103399,,Q,Carlos Rexach Itoiz,U,,ESP,24.5065023956,6-3 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,385,76,1344,2
 2004-M-SA-ESP-01A-2004d,Spain 1 4,Clay,32,S,20040105,5,103543,,,David Marrero,R,185,ESP,23.742642026,102836,3,,Rogier Wassen,R,190,NED,27.4058863792,7-6(3) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,593,30,351,88
 2004-M-SA-ESP-01A-2004d,Spain 1 4,Clay,32,S,20040105,6,103608,,,Mario Munoz Bejarano,R,,ESP,23.4223134839,104197,,WC,David Ortiz Djian,R,,ESP,20.5941136208,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,483,48,1080,5
@@ -132,18 +132,18 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-SA-ESP-01A-2004d,Spain 1 4,Clay,32,S,20040105,15,103904,,,Alberto Soriano,U,,ESP,21.9958932238,103599,,Q,Jordi Marse Vidri,U,,ESP,23.4579055441,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,687,20,930,8
 2004-M-SA-ESP-01A-2004d,Spain 1 4,Clay,32,S,20040105,16,104170,,Q,Hector Ruiz Cadenas,U,,ESP,20.6926762491,102607,2,,Juan Balcells,R,190,ESP,28.5448323066,6-3 RET,3,R32,,,,,,,,,,,,,,,,,,,,1432,1,337,92
 2004-M-SA-ESP-01A-2004d,Spain 1 4,Clay,32,S,20040105,17,103577,,,Christopher Kas,R,188,GER,23.5619438741,119325,,Q,David Serrano Gamez,R,,ESP,17.7056810404,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,721,18,,
-2004-M-SA-ESP-01A-2004d,Spain 1 4,Clay,32,S,20040105,18,103926,,,Daniel Munoz De La Nava,L,,ESP,21.9329226557,103925,5,,Gabriel Moraru,R,180,ROU,21.9356605065,1-6 6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,567,33,385,76
+2004-M-SA-ESP-01A-2004d,Spain 1 4,Clay,32,S,20040105,18,103926,,,Daniel Munoz de la Nava,L,,ESP,21.9329226557,103925,5,,Gabriel Moraru,R,180,ROU,21.9356605065,1-6 6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,567,33,385,76
 2004-M-SA-ESP-01A-2004d,Spain 1 4,Clay,32,S,20040105,19,103543,,,David Marrero,R,185,ESP,23.742642026,103608,,,Mario Munoz Bejarano,R,,ESP,23.4223134839,6-2 3-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,593,30,483,48
 2004-M-SA-ESP-01A-2004d,Spain 1 4,Clay,32,S,20040105,20,104831,,WC,Bartolome Salva Vidal,L,183,ESP,17.1252566735,103365,7,,Javier Garcia Sintes,R,,ESP,24.6789869952,1-6 7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,771,15,400,72
 2004-M-SA-ESP-01A-2004d,Spain 1 4,Clay,32,S,20040105,21,103796,,,Marcos Jimenez Letrado,U,,ESP,22.5352498289,104593,,Q,Daniel Gimeno Traver,R,185,ESP,18.4120465435,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,543,37,799,13
 2004-M-SA-ESP-01A-2004d,Spain 1 4,Clay,32,S,20040105,22,104145,,,Vjekoslav Skenderovic,U,,CRO,20.7967145791,103242,,,Juan Giner,R,178,ESP,25.440109514,1-6 6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,578,31,515,41
 2004-M-SA-ESP-01A-2004d,Spain 1 4,Clay,32,S,20040105,23,104195,,,Simone Vagnozzi,R,173,ITA,20.6023271732,102153,8,,German Puentes,R,173,ESP,31.0472279261,6-2 4-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,656,24,406,70
 2004-M-SA-ESP-01A-2004d,Spain 1 4,Clay,32,S,20040105,24,104170,,Q,Hector Ruiz Cadenas,U,,ESP,20.6926762491,103904,,,Alberto Soriano,U,,ESP,21.9958932238,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1432,1,687,20
-2004-M-SA-ESP-01A-2004d,Spain 1 4,Clay,32,S,20040105,25,103926,,,Daniel Munoz De La Nava,L,,ESP,21.9329226557,103577,,,Christopher Kas,R,188,GER,23.5619438741,6-2 6-0,3,QF,,,,,,,,,,,,,,,,,,,,567,33,721,18
+2004-M-SA-ESP-01A-2004d,Spain 1 4,Clay,32,S,20040105,25,103926,,,Daniel Munoz de la Nava,L,,ESP,21.9329226557,103577,,,Christopher Kas,R,188,GER,23.5619438741,6-2 6-0,3,QF,,,,,,,,,,,,,,,,,,,,567,33,721,18
 2004-M-SA-ESP-01A-2004d,Spain 1 4,Clay,32,S,20040105,26,104831,,WC,Bartolome Salva Vidal,L,183,ESP,17.1252566735,103543,,,David Marrero,R,185,ESP,23.742642026,6-0 2-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,771,15,593,30
 2004-M-SA-ESP-01A-2004d,Spain 1 4,Clay,32,S,20040105,27,104145,,,Vjekoslav Skenderovic,U,,CRO,20.7967145791,103796,,,Marcos Jimenez Letrado,U,,ESP,22.5352498289,7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,578,31,543,37
 2004-M-SA-ESP-01A-2004d,Spain 1 4,Clay,32,S,20040105,28,104195,,,Simone Vagnozzi,R,173,ITA,20.6023271732,104170,,Q,Hector Ruiz Cadenas,U,,ESP,20.6926762491,6-2 7-6(2),3,QF,,,,,,,,,,,,,,,,,,,,656,24,1432,1
-2004-M-SA-ESP-01A-2004d,Spain 1 4,Clay,32,S,20040105,29,104831,,WC,Bartolome Salva Vidal,L,183,ESP,17.1252566735,103926,,,Daniel Munoz De La Nava,L,,ESP,21.9329226557,6-4 4-6 4-1 RET,3,SF,,,,,,,,,,,,,,,,,,,,771,15,567,33
+2004-M-SA-ESP-01A-2004d,Spain 1 4,Clay,32,S,20040105,29,104831,,WC,Bartolome Salva Vidal,L,183,ESP,17.1252566735,103926,,,Daniel Munoz de la Nava,L,,ESP,21.9329226557,6-4 4-6 4-1 RET,3,SF,,,,,,,,,,,,,,,,,,,,771,15,567,33
 2004-M-SA-ESP-01A-2004d,Spain 1 4,Clay,32,S,20040105,30,104195,,,Simone Vagnozzi,R,173,ITA,20.6023271732,104145,,,Vjekoslav Skenderovic,U,,CRO,20.7967145791,4-6 6-2 7-5,3,SF,,,,,,,,,,,,,,,,,,,,656,24,578,31
 2004-M-SA-ESP-01A-2004d,Spain 1 4,Clay,32,S,20040105,31,104831,,WC,Bartolome Salva Vidal,L,183,ESP,17.1252566735,104195,,,Simone Vagnozzi,R,173,ITA,20.6023271732,6-0 6-1,3,F,,,,,,,,,,,,,,,,,,,,771,15,656,24
 2004-M-FU-ESA-01A-2004,El Salvador F1,Clay,32,S,20040112,1,103746,1,,Miguel Gallardo Valles,R,,MEX,22.7624914442,105053,,Q,Santiago Giraldo,R,188,COL,16.1259411362,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,221,162,1433,1
@@ -492,7 +492,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-FRA-02A-2004,France F2,Hard,32,S,20040126,3,104058,,Q,Floris Kilian,R,,NED,21.3798767967,102861,,Q,Timothy Aerts,R,,BEL,27.3648186174,4-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,594,30
 2004-M-FU-FRA-02A-2004,France F2,Hard,32,S,20040126,4,103527,5,,Julien Jeanpierre,R,188,FRA,23.8795345654,103592,,,Jerome Haehnel,R,185,FRA,23.5345653662,7-6(3) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,271,127,334,94
 2004-M-FU-FRA-02A-2004,France F2,Hard,32,S,20040126,5,102630,4,,Slimane Saoudi,L,,ALG,28.5119780972,103218,,LL,Manuel Jorquera,R,,ITA,25.6235455168,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,268,128,643,25
-2004-M-FU-FRA-02A-2004,France F2,Hard,32,S,20040126,6,104542,,,Jo Wilfried Tsonga,R,188,FRA,18.7761806982,103924,,,Marc Fornell Mestres,R,,ESP,21.9986310746,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,396,73,357,85
+2004-M-FU-FRA-02A-2004,France F2,Hard,32,S,20040126,6,104542,,,Jo-Wilfried Tsonga,R,188,FRA,18.7761806982,103924,,,Marc Fornell Mestres,R,,ESP,21.9986310746,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,396,73,357,85
 2004-M-FU-FRA-02A-2004,France F2,Hard,32,S,20040126,7,104367,,Q,Charly Villeneuve,R,,FRA,19.6988364134,102690,,,Matteo Colla,R,,ITA,28.1752224504,1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,1433,1,359,85
 2004-M-FU-FRA-02A-2004,France F2,Hard,32,S,20040126,8,102323,,Q,Regis Lavergne,R,,FRA,29.993155373,103849,6,,Francesco Aldi,R,175,ITA,22.3572895277,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,556,35,275,125
 2004-M-FU-FRA-02A-2004,France F2,Hard,32,S,20040126,9,103208,8,,Jean Michel Pequery,R,,FRA,25.659137577,109275,,Q,Yann Dupuy,R,,FRA,25.7686516085,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,304,109,1433,1
@@ -505,17 +505,17 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-FRA-02A-2004,France F2,Hard,32,S,20040126,16,104191,,,Ismar Gorcic,R,,BIH,20.681724846,102167,2,,Juan Albert Viloca Puig,R,185,ESP,31.022587269,6-3 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,471,51,229,158
 2004-M-FU-FRA-02A-2004,France F2,Hard,32,S,20040126,17,103534,,,Nicolas Devilder,L,173,FRA,23.8384668036,103722,1,WC,Florent Serra,R,180,FRA,22.9075975359,6-4 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,367,82,208,176
 2004-M-FU-FRA-02A-2004,France F2,Hard,32,S,20040126,18,103527,5,,Julien Jeanpierre,R,188,FRA,23.8795345654,104058,,Q,Floris Kilian,R,,NED,21.3798767967,6-3 4-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,271,127,,
-2004-M-FU-FRA-02A-2004,France F2,Hard,32,S,20040126,19,104542,,,Jo Wilfried Tsonga,R,188,FRA,18.7761806982,102630,4,,Slimane Saoudi,L,,ALG,28.5119780972,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,396,73,268,128
+2004-M-FU-FRA-02A-2004,France F2,Hard,32,S,20040126,19,104542,,,Jo-Wilfried Tsonga,R,188,FRA,18.7761806982,102630,4,,Slimane Saoudi,L,,ALG,28.5119780972,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,396,73,268,128
 2004-M-FU-FRA-02A-2004,France F2,Hard,32,S,20040126,20,102323,,Q,Regis Lavergne,R,,FRA,29.993155373,104367,,Q,Charly Villeneuve,R,,FRA,19.6988364134,6-4 6-7(5) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,556,35,1433,1
 2004-M-FU-FRA-02A-2004,France F2,Hard,32,S,20040126,21,102967,,,Marc Gicquel,R,188,FRA,26.8254620123,103208,8,,Jean Michel Pequery,R,,FRA,25.659137577,6-4 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,414,67,304,109
 2004-M-FU-FRA-02A-2004,France F2,Hard,32,S,20040126,22,103868,3,,Ivan Navarro,R,183,ESP,22.2696783025,104181,,,Victor Ionita,R,185,ROU,20.7118412047,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,266,131,467,53
 2004-M-FU-FRA-02A-2004,France F2,Hard,32,S,20040126,23,104468,,WC,Gilles Simon,R,183,FRA,19.0800821355,102603,,LL,Melvyn Op Der Heijde,R,180,NED,28.6269678303,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,489,47,688,20
 2004-M-FU-FRA-02A-2004,France F2,Hard,32,S,20040126,24,103117,,Q,Lassi Ketola,R,,FIN,26.0260095825,104191,,,Ismar Gorcic,R,,BIH,20.681724846,6-3 5-7 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1251,3,471,51
 2004-M-FU-FRA-02A-2004,France F2,Hard,32,S,20040126,25,103527,5,,Julien Jeanpierre,R,188,FRA,23.8795345654,103534,,,Nicolas Devilder,L,173,FRA,23.8384668036,4-6 6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,271,127,367,82
-2004-M-FU-FRA-02A-2004,France F2,Hard,32,S,20040126,26,104542,,,Jo Wilfried Tsonga,R,188,FRA,18.7761806982,102323,,Q,Regis Lavergne,R,,FRA,29.993155373,W/O,3,QF,,,,,,,,,,,,,,,,,,,,396,73,556,35
+2004-M-FU-FRA-02A-2004,France F2,Hard,32,S,20040126,26,104542,,,Jo-Wilfried Tsonga,R,188,FRA,18.7761806982,102323,,Q,Regis Lavergne,R,,FRA,29.993155373,W/O,3,QF,,,,,,,,,,,,,,,,,,,,396,73,556,35
 2004-M-FU-FRA-02A-2004,France F2,Hard,32,S,20040126,27,102967,,,Marc Gicquel,R,188,FRA,26.8254620123,103868,3,,Ivan Navarro,R,183,ESP,22.2696783025,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,414,67,266,131
 2004-M-FU-FRA-02A-2004,France F2,Hard,32,S,20040126,28,104468,,WC,Gilles Simon,R,183,FRA,19.0800821355,103117,,Q,Lassi Ketola,R,,FIN,26.0260095825,6-4 3-6 7-5,3,QF,,,,,,,,,,,,,,,,,,,,489,47,1251,3
-2004-M-FU-FRA-02A-2004,France F2,Hard,32,S,20040126,29,103527,5,,Julien Jeanpierre,R,188,FRA,23.8795345654,104542,,,Jo Wilfried Tsonga,R,188,FRA,18.7761806982,6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,271,127,396,73
+2004-M-FU-FRA-02A-2004,France F2,Hard,32,S,20040126,29,103527,5,,Julien Jeanpierre,R,188,FRA,23.8795345654,104542,,,Jo-Wilfried Tsonga,R,188,FRA,18.7761806982,6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,271,127,396,73
 2004-M-FU-FRA-02A-2004,France F2,Hard,32,S,20040126,30,102967,,,Marc Gicquel,R,188,FRA,26.8254620123,104468,,WC,Gilles Simon,R,183,FRA,19.0800821355,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,414,67,489,47
 2004-M-FU-FRA-02A-2004,France F2,Hard,32,S,20040126,31,102967,,,Marc Gicquel,R,188,FRA,26.8254620123,103527,5,,Julien Jeanpierre,R,188,FRA,23.8795345654,3-6 6-2 7-6(4),3,F,,,,,,,,,,,,,,,,,,,,414,67,271,127
 2004-M-FU-USA-03A-2004,USA F3,Hard,32,S,20040126,1,103845,,LL,Lesley Joseph,U,,USA,22.3655030801,103739,1,,Jose De Armas,R,,VEN,22.8391512663,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,544,37,315,103
@@ -668,7 +668,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-FRA-03A-2004,France F3,Hard,32,S,20040202,1,104217,,Q,Simon Stadler,L,183,GER,20.5393566051,102630,1,,Slimane Saoudi,L,,ALG,28.5311430527,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,890,9,275,125
 2004-M-FU-FRA-03A-2004,France F3,Hard,32,S,20040202,2,104663,,WC,Sebastien Louis,U,,FRA,18.0506502396,104039,,Q,Petar Popovic,U,,SRB,21.5195071869,3-6 6-4 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,1425,1,1340,2
 2004-M-FU-FRA-03A-2004,France F3,Hard,32,S,20040202,3,103961,,,Bertrand Contzler,U,,FRA,21.8672142368,103218,,,Manuel Jorquera,R,,ITA,25.6427104723,6-2 2-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,466,53,626,26
-2004-M-FU-FRA-03A-2004,France F3,Hard,32,S,20040202,4,104542,6,,Jo Wilfried Tsonga,R,188,FRA,18.7953456537,103858,,Q,Frederic Jeanclaude,L,,FRA,22.3353867214,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,394,73,932,8
+2004-M-FU-FRA-03A-2004,France F3,Hard,32,S,20040202,4,104542,6,,Jo-Wilfried Tsonga,R,188,FRA,18.7953456537,103858,,Q,Frederic Jeanclaude,L,,FRA,22.3353867214,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,394,73,932,8
 2004-M-FU-FRA-03A-2004,France F3,Hard,32,S,20040202,5,103726,4,,Jean Christophe Faurel,R,175,FRA,22.9103353867,103117,,Q,Lassi Ketola,R,,FIN,26.045174538,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,318,100,1246,3
 2004-M-FU-FRA-03A-2004,France F3,Hard,32,S,20040202,6,104227,,WC,Augustin Gensse,R,,FRA,20.4818617385,103653,,,Jasper Smit,R,,NED,23.2087611225,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,743,16,603,29
 2004-M-FU-FRA-03A-2004,France F3,Hard,32,S,20040202,7,104402,,,Clement Morel,R,,MON,19.5482546201,102658,,,Marc Bauer,R,,FRA,28.3613963039,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,582,31,492,46
@@ -682,7 +682,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-FRA-03A-2004,France F3,Hard,32,S,20040202,15,104215,,Q,Andrei Gorban,U,,MDA,20.5420944559,103425,,WC,Nicolas Tourte,L,,FRA,24.4599589322,6-3 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1170,3,585,30
 2004-M-FU-FRA-03A-2004,France F3,Hard,32,S,20040202,16,103691,,Q,Baptiste Dupuy,L,,FRA,23.0444900753,102937,,LL,Sebastien Lami,R,,FRA,26.9760438056,1-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,705,19,775,14
 2004-M-FU-FRA-03A-2004,France F3,Hard,32,S,20040202,17,104217,,Q,Simon Stadler,L,183,GER,20.5393566051,104663,,WC,Sebastien Louis,U,,FRA,18.0506502396,6-2 6-7(5) 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,890,9,1425,1
-2004-M-FU-FRA-03A-2004,France F3,Hard,32,S,20040202,18,103961,,,Bertrand Contzler,U,,FRA,21.8672142368,104542,6,,Jo Wilfried Tsonga,R,188,FRA,18.7953456537,7-6(4) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,466,53,394,73
+2004-M-FU-FRA-03A-2004,France F3,Hard,32,S,20040202,18,103961,,,Bertrand Contzler,U,,FRA,21.8672142368,104542,6,,Jo-Wilfried Tsonga,R,188,FRA,18.7953456537,7-6(4) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,466,53,394,73
 2004-M-FU-FRA-03A-2004,France F3,Hard,32,S,20040202,19,103726,4,,Jean Christophe Faurel,R,175,FRA,22.9103353867,104227,,WC,Augustin Gensse,R,,FRA,20.4818617385,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,318,100,743,16
 2004-M-FU-FRA-03A-2004,France F3,Hard,32,S,20040202,20,102967,7,,Marc Gicquel,R,188,FRA,26.8446269678,104402,,,Clement Morel,R,,MON,19.5482546201,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,389,74,582,31
 2004-M-FU-FRA-03A-2004,France F3,Hard,32,S,20040202,21,104468,,,Gilles Simon,R,183,FRA,19.099247091,104049,5,,Gary Lugassy,L,,FRA,21.453798768,6-3 3-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,461,54,340,88
@@ -1663,7 +1663,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-POR-01A-2004,Portugal F1,Hard,32,S,20040301,5,104332,4,,Philipp Petzschner,R,185,GER,19.9370294319,103675,,,Diego Junqueira,L,178,ARG,23.1731690623,7-6(6) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,362,82,579,31
 2004-M-FU-POR-01A-2004,Portugal F1,Hard,32,S,20040301,6,104311,,WC,Leonardo Tavares,R,,POR,20.0273785079,104772,,WC,Jose Ricardo Nunes,R,,POR,17.6043805613,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,733,17,,
 2004-M-FU-POR-01A-2004,Portugal F1,Hard,32,S,20040301,7,104686,,Q,Christoph Steiner,U,,AUT,18.0123203285,104614,,Q,Javier Foronda Bolanos,U,,ESP,18.4229979466,7-5 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,1418,1,785,13
-2004-M-FU-POR-01A-2004,Portugal F1,Hard,32,S,20040301,8,103926,,,Daniel Munoz De La Nava,L,,ESP,22.0862422998,103490,6,,Santiago Ventura,R,183,ESP,24.1533196441,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,558,34,363,82
+2004-M-FU-POR-01A-2004,Portugal F1,Hard,32,S,20040301,8,103926,,,Daniel Munoz de la Nava,L,,ESP,22.0862422998,103490,6,,Santiago Ventura,R,183,ESP,24.1533196441,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,558,34,363,82
 2004-M-FU-POR-01A-2004,Portugal F1,Hard,32,S,20040301,9,104134,5,,Bastian Gronefeld,L,,GER,21.0184804928,103033,,,Helder Lopes,R,,POR,26.5653661875,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,380,76,620,26
 2004-M-FU-POR-01A-2004,Portugal F1,Hard,32,S,20040301,10,104023,,,Nicolas Renavand,R,,FRA,21.6837782341,103653,,,Jasper Smit,R,,NED,23.2854209446,6-3 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,490,46,593,29
 2004-M-FU-POR-01A-2004,Portugal F1,Hard,32,S,20040301,11,104504,,Q,Ross Hutchins,R,190,GBR,19.0198494182,103796,,,Marcos Jimenez Letrado,U,,ESP,22.688569473,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,988,6,561,33
@@ -1675,13 +1675,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-POR-01A-2004,Portugal F1,Hard,32,S,20040301,17,103679,,Q,Jeroen Masson,R,,BEL,23.1594798084,104081,1,,Boris Pashanski,R,180,SRB,21.325119781,5-7 6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,589,29,197,178
 2004-M-FU-POR-01A-2004,Portugal F1,Hard,32,S,20040301,18,103891,,,Alexandros Jakupovic,R,,GRE,22.212183436,104523,,Q,Frederico Gil,R,178,POR,18.9377138946,7-5 4-6 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,634,25,1135,4
 2004-M-FU-POR-01A-2004,Portugal F1,Hard,32,S,20040301,19,104332,4,,Philipp Petzschner,R,185,GER,19.9370294319,104311,,WC,Leonardo Tavares,R,,POR,20.0273785079,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,362,82,733,17
-2004-M-FU-POR-01A-2004,Portugal F1,Hard,32,S,20040301,20,103926,,,Daniel Munoz De La Nava,L,,ESP,22.0862422998,104686,,Q,Christoph Steiner,U,,AUT,18.0123203285,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,558,34,1418,1
+2004-M-FU-POR-01A-2004,Portugal F1,Hard,32,S,20040301,20,103926,,,Daniel Munoz de la Nava,L,,ESP,22.0862422998,104686,,Q,Christoph Steiner,U,,AUT,18.0123203285,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,558,34,1418,1
 2004-M-FU-POR-01A-2004,Portugal F1,Hard,32,S,20040301,21,104134,5,,Bastian Gronefeld,L,,GER,21.0184804928,104023,,,Nicolas Renavand,R,,FRA,21.6837782341,6-4 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,380,76,490,46
 2004-M-FU-POR-01A-2004,Portugal F1,Hard,32,S,20040301,22,104559,3,,Teymuraz Gabashvili,R,188,RUS,18.7734428474,104504,,Q,Ross Hutchins,R,190,GBR,19.0198494182,3-6 6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,273,126,988,6
 2004-M-FU-POR-01A-2004,Portugal F1,Hard,32,S,20040301,23,103437,,,Francesco Piccari,R,,ITA,24.4818617385,102927,,,Boris Borgula,R,,SVK,27.0855578371,7-6(6) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,528,38,526,38
 2004-M-FU-POR-01A-2004,Portugal F1,Hard,32,S,20040301,24,104198,2,,Guillermo Garcia Lopez,R,188,ESP,20.7419575633,104011,,,Lefteris Alexiou,R,,GRE,21.7440109514,2-6 6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,239,149,527,38
 2004-M-FU-POR-01A-2004,Portugal F1,Hard,32,S,20040301,25,103679,,Q,Jeroen Masson,R,,BEL,23.1594798084,103891,,,Alexandros Jakupovic,R,,GRE,22.212183436,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,589,29,634,25
-2004-M-FU-POR-01A-2004,Portugal F1,Hard,32,S,20040301,26,104332,4,,Philipp Petzschner,R,185,GER,19.9370294319,103926,,,Daniel Munoz De La Nava,L,,ESP,22.0862422998,7-5 4-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,362,82,558,34
+2004-M-FU-POR-01A-2004,Portugal F1,Hard,32,S,20040301,26,104332,4,,Philipp Petzschner,R,185,GER,19.9370294319,103926,,,Daniel Munoz de la Nava,L,,ESP,22.0862422998,7-5 4-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,362,82,558,34
 2004-M-FU-POR-01A-2004,Portugal F1,Hard,32,S,20040301,27,104134,5,,Bastian Gronefeld,L,,GER,21.0184804928,104559,3,,Teymuraz Gabashvili,R,188,RUS,18.7734428474,4-6 7-6(3) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,380,76,273,126
 2004-M-FU-POR-01A-2004,Portugal F1,Hard,32,S,20040301,28,104198,2,,Guillermo Garcia Lopez,R,188,ESP,20.7419575633,103437,,,Francesco Piccari,R,,ITA,24.4818617385,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,239,149,528,38
 2004-M-FU-POR-01A-2004,Portugal F1,Hard,32,S,20040301,29,104332,4,,Philipp Petzschner,R,185,GER,19.9370294319,103679,,Q,Jeroen Masson,R,,BEL,23.1594798084,6-2 4-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,362,82,589,29
@@ -2131,7 +2131,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-FRA-04A-2004,France F4,Hard,32,S,20040308,1,103032,1,,Francisco Fogues,L,190,ESP,26.5872689938,103961,,Q,Bertrand Contzler,U,,FRA,21.9630390144,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,197,175,483,48
 2004-M-FU-FRA-04A-2004,France F4,Hard,32,S,20040308,2,103716,,,Uros Vico,R,188,ITA,23.0472279261,103003,,,Jean Francois Bachelot,R,183,FRA,26.7405886379,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,279,122,272,126
 2004-M-FU-FRA-04A-2004,France F4,Hard,32,S,20040308,3,103726,,,Jean Christophe Faurel,R,175,FRA,23.0061601643,105095,,Q,Evgeny Korolev,R,185,KAZ,16.0629705681,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,238,150,1146,4
-2004-M-FU-FRA-04A-2004,France F4,Hard,32,S,20040308,4,104542,,WC,Jo Wilfried Tsonga,R,188,FRA,18.8911704312,104219,8,,Stephane Bohli,R,185,SUI,20.6214921287,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,437,61,258,134
+2004-M-FU-FRA-04A-2004,France F4,Hard,32,S,20040308,4,104542,,WC,Jo-Wilfried Tsonga,R,188,FRA,18.8911704312,104219,8,,Stephane Bohli,R,185,SUI,20.6214921287,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,437,61,258,134
 2004-M-FU-FRA-04A-2004,France F4,Hard,32,S,20040308,5,103534,,,Nicolas Devilder,L,173,FRA,23.9534565366,103808,4,,Potito Starace,R,188,ITA,22.6502395619,4-5 RET,3,R32,,,,,,,,,,,,,,,,,,,,284,119,241,148
 2004-M-FU-FRA-04A-2004,France F4,Hard,32,S,20040308,6,104721,,WC,Josselin Ouanna,R,193,FRA,17.9000684463,102896,,SE,Giuseppe Menga,R,,ITA,27.227926078,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,463,53,548,35
 2004-M-FU-FRA-04A-2004,France F4,Hard,32,S,20040308,7,102967,,WC,Marc Gicquel,R,188,FRA,26.9404517454,104495,,Q,Florin Mergea,R,180,ROU,19.112936345,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,347,88,446,58
@@ -2145,7 +2145,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-FRA-04A-2004,France F4,Hard,32,S,20040308,15,104049,,,Gary Lugassy,L,,FRA,21.5496235455,103480,,,Martin Stepanek,R,,CZE,24.2354551677,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,344,90,286,118
 2004-M-FU-FRA-04A-2004,France F4,Hard,32,S,20040308,16,103722,2,,Florent Serra,R,180,FRA,23.022587269,103918,,Q,Dominique Coene,R,,BEL,22.12183436,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,205,169,650,23
 2004-M-FU-FRA-04A-2004,France F4,Hard,32,S,20040308,17,103716,,,Uros Vico,R,188,ITA,23.0472279261,103032,1,,Francisco Fogues,L,190,ESP,26.5872689938,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,279,122,197,175
-2004-M-FU-FRA-04A-2004,France F4,Hard,32,S,20040308,18,103726,,,Jean Christophe Faurel,R,175,FRA,23.0061601643,104542,,WC,Jo Wilfried Tsonga,R,188,FRA,18.8911704312,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,238,150,437,61
+2004-M-FU-FRA-04A-2004,France F4,Hard,32,S,20040308,18,103726,,,Jean Christophe Faurel,R,175,FRA,23.0061601643,104542,,WC,Jo-Wilfried Tsonga,R,188,FRA,18.8911704312,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,238,150,437,61
 2004-M-FU-FRA-04A-2004,France F4,Hard,32,S,20040308,19,104721,,WC,Josselin Ouanna,R,193,FRA,17.9000684463,103534,,,Nicolas Devilder,L,173,FRA,23.9534565366,6-4 3-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,463,53,284,119
 2004-M-FU-FRA-04A-2004,France F4,Hard,32,S,20040308,20,103868,7,,Ivan Navarro,R,183,ESP,22.3846680356,102967,,WC,Marc Gicquel,R,188,FRA,26.9404517454,7-6(5) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,270,126,347,88
 2004-M-FU-FRA-04A-2004,France F4,Hard,32,S,20040308,21,103238,6,,Jean Claude Scherrer,R,188,SUI,25.6344969199,104361,,SE,Michel Koning,R,,NED,19.8521560575,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,282,121,794,13
@@ -2262,7 +2262,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-POR-02A-2004,Portugal F2,Hard,32,S,20040309,8,103437,,,Francesco Piccari,R,,ITA,24.501026694,102920,6,,Diego Hipperdinger,R,,ESP,27.1375770021,3-6 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,531,38,364,84
 2004-M-FU-POR-02A-2004,Portugal F2,Hard,32,S,20040309,9,104371,5,,Ivo Minar,R,183,CZE,19.7973990418,104349,,,Rui Machado,R,178,POR,19.909650924,6-2 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,368,83,480,48
 2004-M-FU-POR-02A-2004,Portugal F2,Hard,32,S,20040309,10,104161,,Q,Tomislav Peric,R,,CRO,20.9117043121,104523,,WC,Frederico Gil,R,178,POR,18.9568788501,7-6(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,713,18,1131,4
-2004-M-FU-POR-02A-2004,Portugal F2,Hard,32,S,20040309,11,103926,,,Daniel Munoz De La Nava,L,,ESP,22.1054072553,103007,,,Mounir El Aarej,R,,MAR,26.726899384,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,559,34,417,67
+2004-M-FU-POR-02A-2004,Portugal F2,Hard,32,S,20040309,11,103926,,,Daniel Munoz de la Nava,L,,ESP,22.1054072553,103007,,,Mounir El Aarej,R,,MAR,26.726899384,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,559,34,417,67
 2004-M-FU-POR-02A-2004,Portugal F2,Hard,32,S,20040309,12,104467,4,Q,Lamine Ouahab,R,185,ALG,19.2087611225,103250,,Q,Rodolphe Cadart,L,183,FRA,25.582477755,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,305,107,427,65
 2004-M-FU-POR-02A-2004,Portugal F2,Hard,32,S,20040309,13,102574,,Q,Gabriel Trifu,R,193,ROU,28.900752909,103490,8,,Santiago Ventura,R,183,ESP,24.1724845996,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1146,4,362,85
 2004-M-FU-POR-02A-2004,Portugal F2,Hard,32,S,20040309,14,104619,,Q,Jesse Huta Galung,R,188,NED,18.4202600958,103380,,Q,Torsten Wolpers,R,,GER,24.7885010267,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1264,2,,
@@ -2273,7 +2273,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-POR-02A-2004,Portugal F2,Hard,32,S,20040309,19,103679,,SE,Jeroen Masson,R,,BEL,23.1786447639,104468,,,Gilles Simon,R,183,FRA,19.1950718686,6-4 3-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,612,27,404,71
 2004-M-FU-POR-02A-2004,Portugal F2,Hard,32,S,20040309,20,103437,,,Francesco Piccari,R,,ITA,24.501026694,104402,,LL,Clement Morel,R,,MON,19.6440793977,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,531,38,587,30
 2004-M-FU-POR-02A-2004,Portugal F2,Hard,32,S,20040309,21,104371,5,,Ivo Minar,R,183,CZE,19.7973990418,104161,,Q,Tomislav Peric,R,,CRO,20.9117043121,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,368,83,713,18
-2004-M-FU-POR-02A-2004,Portugal F2,Hard,32,S,20040309,22,104467,4,Q,Lamine Ouahab,R,185,ALG,19.2087611225,103926,,,Daniel Munoz De La Nava,L,,ESP,22.1054072553,7-6(5) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,305,107,559,34
+2004-M-FU-POR-02A-2004,Portugal F2,Hard,32,S,20040309,22,104467,4,Q,Lamine Ouahab,R,185,ALG,19.2087611225,103926,,,Daniel Munoz de la Nava,L,,ESP,22.1054072553,7-6(5) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,305,107,559,34
 2004-M-FU-POR-02A-2004,Portugal F2,Hard,32,S,20040309,23,102574,,Q,Gabriel Trifu,R,193,ROU,28.900752909,104619,,Q,Jesse Huta Galung,R,188,NED,18.4202600958,6-1 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,1146,4,1264,2
 2004-M-FU-POR-02A-2004,Portugal F2,Hard,32,S,20040309,24,104198,2,,Guillermo Garcia Lopez,R,188,ESP,20.7611225188,104084,,WC,Carlos Poch Gradin,L,185,ESP,21.3278576318,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,240,149,733,17
 2004-M-FU-POR-02A-2004,Portugal F2,Hard,32,S,20040309,25,102927,,,Boris Borgula,R,,SVK,27.1047227926,104134,,,Bastian Gronefeld,L,,GER,21.0376454483,4-6 6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,522,39,388,76
@@ -2323,7 +2323,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-FRA-05A-2004,France F5,Hard,32,S,20040315,7,102920,,,Diego Hipperdinger,R,,ESP,27.1567419576,103918,,LL,Dominique Coene,R,,BEL,22.1409993155,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,364,84,650,23
 2004-M-FU-FRA-05A-2004,France F5,Hard,32,S,20040315,8,103003,6,,Jean Francois Bachelot,R,183,FRA,26.7597535934,104467,,,Lamine Ouahab,R,185,ALG,19.227926078,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,272,126,305,107
 2004-M-FU-FRA-05A-2004,France F5,Hard,32,S,20040315,9,103238,,SE,Jean Claude Scherrer,R,188,SUI,25.6536618754,103868,5,,Ivan Navarro,R,183,ESP,22.4038329911,6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,282,121,270,126
-2004-M-FU-FRA-05A-2004,France F5,Hard,32,S,20040315,10,104542,,,Jo Wilfried Tsonga,R,188,FRA,18.9103353867,103521,,,Andrea Stoppini,R,190,ITA,24.0410677618,6-4 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,437,61,442,59
+2004-M-FU-FRA-05A-2004,France F5,Hard,32,S,20040315,10,104542,,,Jo-Wilfried Tsonga,R,188,FRA,18.9103353867,103521,,,Andrea Stoppini,R,190,ITA,24.0410677618,6-4 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,437,61,442,59
 2004-M-FU-FRA-05A-2004,France F5,Hard,32,S,20040315,11,104721,,WC,Josselin Ouanna,R,193,FRA,17.9192334018,102032,,WC,Gustavo Gomez,U,,ARG,31.9945242984,6-4 6-7(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,463,53,1332,2
 2004-M-FU-FRA-05A-2004,France F5,Hard,32,S,20040315,12,104219,4,,Stephane Bohli,R,185,SUI,20.6406570842,103314,,LL,Josh Goffi,R,,BRA,25.1389459274,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,258,134,549,35
 2004-M-FU-FRA-05A-2004,France F5,Hard,32,S,20040315,13,103860,7,,Timo Nieminen,R,185,FIN,22.4394250513,104569,,Q,Lado Chikhladze,R,,GEO,18.7488021903,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,276,123,1264,2
@@ -2334,7 +2334,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-FRA-05A-2004,France F5,Hard,32,S,20040315,18,103716,8,,Uros Vico,R,188,ITA,23.0663928816,103961,,WC,Bertrand Contzler,U,,FRA,21.9822039699,3-6 6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,279,122,483,48
 2004-M-FU-FRA-05A-2004,France F5,Hard,32,S,20040315,19,102967,,,Marc Gicquel,R,188,FRA,26.9596167009,103208,,,Jean Michel Pequery,R,,FRA,25.7932922656,7-6(0) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,347,88,319,101
 2004-M-FU-FRA-05A-2004,France F5,Hard,32,S,20040315,20,103003,6,,Jean Francois Bachelot,R,183,FRA,26.7597535934,102920,,,Diego Hipperdinger,R,,ESP,27.1567419576,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,272,126,364,84
-2004-M-FU-FRA-05A-2004,France F5,Hard,32,S,20040315,21,103238,,SE,Jean Claude Scherrer,R,188,SUI,25.6536618754,104542,,,Jo Wilfried Tsonga,R,188,FRA,18.9103353867,7-6(7) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,282,121,437,61
+2004-M-FU-FRA-05A-2004,France F5,Hard,32,S,20040315,21,103238,,SE,Jean Claude Scherrer,R,188,SUI,25.6536618754,104542,,,Jo-Wilfried Tsonga,R,188,FRA,18.9103353867,7-6(7) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,282,121,437,61
 2004-M-FU-FRA-05A-2004,France F5,Hard,32,S,20040315,22,104219,4,,Stephane Bohli,R,185,SUI,20.6406570842,104721,,WC,Josselin Ouanna,R,193,FRA,17.9192334018,7-6(7) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,258,134,463,53
 2004-M-FU-FRA-05A-2004,France F5,Hard,32,S,20040315,23,104095,,Q,David Guez,R,185,FRA,21.2676249144,103860,7,,Timo Nieminen,R,185,FIN,22.4394250513,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,752,15,276,123
 2004-M-FU-FRA-05A-2004,France F5,Hard,32,S,20040315,24,104433,2,,Frank Dancevic,R,185,CAN,19.4661190965,102567,,,George Bastl,R,183,SUI,28.9555099247,7-6(4) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,209,164,285,119
@@ -2784,7 +2784,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-ITA-02A-2004,Italy F2,Clay,32,S,20040405,11,104736,,Q,Farrukh Dustov,R,196,UZB,17.8726899384,104382,,Q,Markus Bayer,L,,GER,19.8138261465,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,500,46,769,15
 2004-M-FU-ITA-02A-2004,Italy F2,Clay,32,S,20040405,12,103393,4,,Yuri Schukin,R,188,KAZ,24.7775496235,102690,,,Matteo Colla,R,,ITA,28.3668720055,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,272,130,356,89
 2004-M-FU-ITA-02A-2004,Italy F2,Clay,32,S,20040405,13,103587,5,,Andres Dellatorre,R,190,ARG,23.7399041752,103216,,PR,Clemens Trimmel,R,185,AUT,25.826146475,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,285,119,,
-2004-M-FU-ITA-02A-2004,Italy F2,Clay,32,S,20040405,14,103521,,,Andrea Stoppini,R,190,ITA,24.0985626283,104542,,,Jo Wilfried Tsonga,R,188,FRA,18.9678302533,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,446,59,462,54
+2004-M-FU-ITA-02A-2004,Italy F2,Clay,32,S,20040405,14,103521,,,Andrea Stoppini,R,190,ITA,24.0985626283,104542,,,Jo-Wilfried Tsonga,R,188,FRA,18.9678302533,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,446,59,462,54
 2004-M-FU-ITA-02A-2004,Italy F2,Clay,32,S,20040405,15,103490,,,Santiago Ventura,R,183,ESP,24.2491444216,103702,,WC,Stefano Ianni,R,,ITA,23.1759069131,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,368,85,835,11
 2004-M-FU-ITA-02A-2004,Italy F2,Clay,32,S,20040405,16,104112,,Q,Benjamin Balleret,R,185,MON,21.2210814511,102944,2,,Stefano Cobolli,R,175,ITA,27.0937713895,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,721,18,253,142
 2004-M-FU-ITA-02A-2004,Italy F2,Clay,32,S,20040405,17,102554,1,,Diego Moyano,R,175,ARG,29.0622861054,103796,,SE,Marcos Jimenez Letrado,U,,ESP,22.7843942505,6-3 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,231,156,559,35
@@ -2803,10 +2803,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-ITA-02A-2004,Italy F2,Clay,32,S,20040405,30,103587,5,,Andres Dellatorre,R,190,ARG,23.7399041752,104354,,,Daniele Giorgini,R,180,ITA,19.947980835,2-6 6-1 7-6(5),3,SF,,,,,,,,,,,,,,,,,,,,285,119,380,81
 2004-M-FU-ITA-02A-2004,Italy F2,Clay,32,S,20040405,31,103587,5,,Andres Dellatorre,R,190,ARG,23.7399041752,102554,1,,Diego Moyano,R,175,ARG,29.0622861054,6-2 7-5,3,F,,,,,,,,,,,,,,,,,,,,285,119,231,156
 2004-M-FU-FRA-07A-2004,France F7,Clay,32,S,20040412,1,103534,1,,Nicolas Devilder,L,173,FRA,24.0492813142,104721,,,Josselin Ouanna,R,193,FRA,17.9958932238,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,257,137,449,58
-2004-M-FU-FRA-07A-2004,France F7,Clay,32,S,20040412,2,103608,,,Mario Munoz Bejarano,R,,ESP,23.6906228611,104542,,,Jo Wilfried Tsonga,R,188,FRA,18.9869952088,4-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,464,53,461,54
+2004-M-FU-FRA-07A-2004,France F7,Clay,32,S,20040412,2,103608,,,Mario Munoz Bejarano,R,,ESP,23.6906228611,104542,,,Jo-Wilfried Tsonga,R,188,FRA,18.9869952088,4-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,464,53,461,54
 2004-M-FU-FRA-07A-2004,France F7,Clay,32,S,20040412,3,103947,,,Ivan Esquerdo,U,,ESP,22.12183436,104067,,Q,Goran Tosic,R,,MNE,21.5140314853,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,469,52,931,8
 2004-M-FU-FRA-07A-2004,France F7,Clay,32,S,20040412,4,103088,8,,Xavier Pujo,R,180,FRA,26.3518138261,103250,,,Rodolphe Cadart,L,183,FRA,25.6783025325,1-6 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,413,69,496,47
-2004-M-FU-FRA-07A-2004,France F7,Clay,32,S,20040412,5,103799,3,,Eric Prodon,R,178,FRA,22.7926078029,103926,,,Daniel Munoz De La Nava,L,,ESP,22.2012320329,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,337,94,546,37
+2004-M-FU-FRA-07A-2004,France F7,Clay,32,S,20040412,5,103799,3,,Eric Prodon,R,178,FRA,22.7926078029,103926,,,Daniel Munoz de la Nava,L,,ESP,22.2012320329,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,337,94,546,37
 2004-M-FU-FRA-07A-2004,France F7,Clay,32,S,20040412,6,104792,,WC,Gael Monfils,R,193,FRA,17.6125941136,118916,,WC,Laurent Silvy,U,,FRA,24.5037645448,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,681,21,,
 2004-M-FU-FRA-07A-2004,France F7,Clay,32,S,20040412,7,104023,,,Nicolas Renavand,R,,FRA,21.7987679671,102696,,Q,Guillaume Couillard,R,,MON,28.3394934976,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,494,47,631,25
 2004-M-FU-FRA-07A-2004,France F7,Clay,32,S,20040412,8,102967,5,,Marc Gicquel,R,188,FRA,27.0362765229,103007,,,Mounir El Aarej,R,,MAR,26.8227241615,2-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,327,98,452,57
@@ -3084,7 +3084,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-ITA-04A-2004,Italy F4,Clay,32,S,20040419,9,104925,,Q,Novak Djokovic,R,188,SRB,16.9117043121,103467,5,,Victor Bruthans,R,,SVK,24.4435318275,6-1 2-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,600,28,289,115
 2004-M-FU-ITA-04A-2004,Italy F4,Clay,32,S,20040419,10,104051,,Q,Andrej Kracman,R,,SLO,21.659137577,104378,,,Yordan Kanev,R,,BUL,19.8850102669,6-3 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,985,6,427,64
 2004-M-FU-ITA-04A-2004,Italy F4,Clay,32,S,20040419,11,104792,,Q,Gael Monfils,R,193,FRA,17.6317590691,104445,,SE,Jose Antonio Sanchez De Luna,R,,ESP,19.5017111567,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,669,22,533,39
-2004-M-FU-ITA-04A-2004,Italy F4,Clay,32,S,20040419,12,102239,3,,Francisco Costa,R,180,BRA,30.8090349076,104542,,,Jo Wilfried Tsonga,R,188,FRA,19.0061601643,7-6(6) 3-6 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,306,107,460,54
+2004-M-FU-ITA-04A-2004,Italy F4,Clay,32,S,20040419,12,102239,3,,Francisco Costa,R,180,BRA,30.8090349076,104542,,,Jo-Wilfried Tsonga,R,188,FRA,19.0061601643,7-6(6) 3-6 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,306,107,460,54
 2004-M-FU-ITA-04A-2004,Italy F4,Clay,32,S,20040419,13,104164,,Q,Marco Pedrini,U,,ITA,21.0020533881,104004,6,,Filip Prpic,R,173,SWE,21.9000684463,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,527,40,291,114
 2004-M-FU-ITA-04A-2004,Italy F4,Clay,32,S,20040419,14,104721,,,Josselin Ouanna,R,193,FRA,18.0150581793,102807,,PR,Rodrigo Monte,R,,BRA,27.8466803559,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,434,61,,
 2004-M-FU-ITA-04A-2004,Italy F4,Clay,32,S,20040419,15,104099,,Q,Israel Matos Gil,U,,ESP,21.3470225873,104602,,WC,Andrea Falgheri,R,,ITA,18.6091718001,4-6 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,577,31,,
@@ -3205,7 +3205,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-ALG-01A-2004,Algeria F1,Clay,32,S,20040426,6,103614,,,Josef Nesticky,R,,CZE,23.7070499658,102254,,WC,Ouassel Hared,R,,ALG,30.6557152635,3-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,979,7,1202,3
 2004-M-FU-ALG-01A-2004,Algeria F1,Clay,32,S,20040426,7,119220,,Q,Igor Muguruza,R,,VEN,20.1368925394,103785,,,Luis Feo Bernabe,U,,ESP,22.8993839836,3-6 6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1417,1,938,8
 2004-M-FU-ALG-01A-2004,Algeria F1,Clay,32,S,20040426,8,104402,7,,Clement Morel,R,,MON,19.7782340862,108914,,WC,Rachid Baba Aissa,U,,ALG,20.7173169062,6-7(5) 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,604,28,,
-2004-M-FU-ALG-01A-2004,Algeria F1,Clay,32,S,20040426,9,103773,,Q,Markus Kanellos,R,,AUT,22.9541409993,104542,6,,Jo Wilfried Tsonga,R,188,FRA,19.0253251198,7-6(3) 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1166,3,462,54
+2004-M-FU-ALG-01A-2004,Algeria F1,Clay,32,S,20040426,9,103773,,Q,Markus Kanellos,R,,AUT,22.9541409993,104542,6,,Jo-Wilfried Tsonga,R,188,FRA,19.0253251198,7-6(3) 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1166,3,462,54
 2004-M-FU-ALG-01A-2004,Algeria F1,Clay,32,S,20040426,10,103029,,,Mehdi Tahiri,R,183,MAR,26.7460643395,104323,,,Photos Kallias,L,,CYP,20.1396303901,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,658,23,1018,6
 2004-M-FU-ALG-01A-2004,Algeria F1,Clay,32,S,20040426,11,104580,,,Haithem Abid,L,,TUN,18.7761806982,110703,,WC,Badr Bouabdellah,R,,MAR,,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,796,13,,
 2004-M-FU-ALG-01A-2004,Algeria F1,Clay,32,S,20040426,12,103545,3,,Philipp Mullner,R,,AUT,24.0410677618,104231,,,Enrico Wellenfeld,U,,ITA,20.6844626968,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,343,90,990,6
@@ -3239,7 +3239,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-ARG-01A-2004,Argentina F1,Clay,32,S,20040426,9,104208,8,,Damian Patriarca,R,,ARG,20.8295687885,118933,,Q,Lucas Miller,U,,ARG,20.1587953457,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,449,56,,
 2004-M-FU-ARG-01A-2004,Argentina F1,Clay,32,S,20040426,10,104253,,,Juan Martin Aranguren,R,,ARG,20.553045859,104123,,,Luciano Vitullo,R,,ARG,21.2265571526,1-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,723,18,796,13
 2004-M-FU-ARG-01A-2004,Argentina F1,Clay,32,S,20040426,11,103121,,,Matias Oneille,R,,ARG,26.2614647502,104826,,Q,Federico Sansonetti,R,,URU,17.4702258727,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,571,32,1417,1
-2004-M-FU-ARG-01A-2004,Argentina F1,Clay,32,S,20040426,12,104122,4,,Carlos Berlocq,R,183,ARG,21.2265571526,105223,,WC,Juan Martin Del Potro,R,198,ARG,15.5893223819,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,352,88,,
+2004-M-FU-ARG-01A-2004,Argentina F1,Clay,32,S,20040426,12,104122,4,,Carlos Berlocq,R,183,ARG,21.2265571526,105223,,WC,Juan Martin del Potro,R,198,ARG,15.5893223819,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,352,88,,
 2004-M-FU-ARG-01A-2004,Argentina F1,Clay,32,S,20040426,13,104016,7,,Antonio Pastorino,U,,ARG,21.8672142368,103634,,,Emiliano Redondi,R,,ARG,23.6084873374,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,442,59,849,11
 2004-M-FU-ARG-01A-2004,Argentina F1,Clay,32,S,20040426,14,104503,,Q,Guillermo Hormazabal,R,,CHI,19.1813826146,103848,,,Agustin Tarantino,R,,ARG,22.6119096509,6-4 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,843,11,692,20
 2004-M-FU-ARG-01A-2004,Argentina F1,Clay,32,S,20040426,15,103850,,,Sebastian Decoud,L,178,ARG,22.6036960986,104395,,,Marcel Felder,R,,URU,19.7973990418,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,513,43,638,25
@@ -3300,7 +3300,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-GBR-01A-2004,Great Britain F1,Clay,32,S,20040426,8,103559,,,David Sherwood,R,193,GBR,23.9726214921,103635,7,,Andrew Derer,U,,AUS,23.5838466804,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,581,30,440,59
 2004-M-FU-GBR-01A-2004,Great Britain F1,Clay,32,S,20040426,9,103327,,,Alessandro Motti,L,,ITA,25.1772758385,104721,6,,Josselin Ouanna,R,193,FRA,18.0342231348,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,569,32,436,61
 2004-M-FU-GBR-01A-2004,Great Britain F1,Clay,32,S,20040426,10,104388,,WC,Morgan Phillips,U,,GBR,19.8412046543,104114,,LL,Michael Ouvarov,R,,GBR,21.273100616,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1202,3,694,20
-2004-M-FU-GBR-01A-2004,Great Britain F1,Clay,32,S,20040426,11,103926,,,Daniel Munoz De La Nava,L,,ESP,22.2395619439,104406,,Q,Naim Lalji,U,,GBR,19.7590691307,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,547,37,1029,6
+2004-M-FU-GBR-01A-2004,Great Britain F1,Clay,32,S,20040426,11,103926,,,Daniel Munoz de la Nava,L,,ESP,22.2395619439,104406,,Q,Naim Lalji,U,,GBR,19.7590691307,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,547,37,1029,6
 2004-M-FU-GBR-01A-2004,Great Britain F1,Clay,32,S,20040426,12,103490,3,,Santiago Ventura,R,183,ESP,24.3066392882,111698,,Q,Craig Evans,L,,GBR,20.2819986311,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,335,93,,
 2004-M-FU-GBR-01A-2004,Great Britain F1,Clay,32,S,20040426,13,104792,,SE,Gael Monfils,R,193,FRA,17.6509240246,103538,8,,James Auckland,R,,GBR,24.0684462697,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,637,25,446,58
 2004-M-FU-GBR-01A-2004,Great Britain F1,Clay,32,S,20040426,14,110564,,Q,Nick Cavaday,R,,GBR,17.9520876112,104506,,Q,David Brewer,R,,GBR,19.1676933607,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1335,2
@@ -3311,7 +3311,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-GBR-01A-2004,Great Britain F1,Clay,32,S,20040426,19,102512,4,,Joseph Sirianni,R,175,AUS,29.273100616,103608,,,Mario Munoz Bejarano,R,,ESP,23.7289527721,7-6(4) 6-0,3,R16,,,,,,,,,,,,,,,,,,,,345,90,459,55
 2004-M-FU-GBR-01A-2004,Great Britain F1,Clay,32,S,20040426,20,103559,,,David Sherwood,R,193,GBR,23.9726214921,104747,,WC,Tom Rushby,R,,GBR,17.8945927447,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,581,30,1202,3
 2004-M-FU-GBR-01A-2004,Great Britain F1,Clay,32,S,20040426,21,103327,,,Alessandro Motti,L,,ITA,25.1772758385,104388,,WC,Morgan Phillips,U,,GBR,19.8412046543,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,569,32,1202,3
-2004-M-FU-GBR-01A-2004,Great Britain F1,Clay,32,S,20040426,22,103490,3,,Santiago Ventura,R,183,ESP,24.3066392882,103926,,,Daniel Munoz De La Nava,L,,ESP,22.2395619439,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,335,93,547,37
+2004-M-FU-GBR-01A-2004,Great Britain F1,Clay,32,S,20040426,22,103490,3,,Santiago Ventura,R,183,ESP,24.3066392882,103926,,,Daniel Munoz de la Nava,L,,ESP,22.2395619439,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,335,93,547,37
 2004-M-FU-GBR-01A-2004,Great Britain F1,Clay,32,S,20040426,23,104792,,SE,Gael Monfils,R,193,FRA,17.6509240246,110564,,Q,Nick Cavaday,R,,GBR,17.9520876112,6-1 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,637,25,,
 2004-M-FU-GBR-01A-2004,Great Britain F1,Clay,32,S,20040426,24,104004,2,,Filip Prpic,R,173,SWE,21.9192334018,104590,,Q,Tom Burn,R,,GBR,18.7405886379,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,293,114,811,12
 2004-M-FU-GBR-01A-2004,Great Britain F1,Clay,32,S,20040426,25,104372,1,,Alex Bogdanovic,L,183,GBR,19.9288158795,103796,,,Marcos Jimenez Letrado,U,,ESP,22.841889117,6-1 6-0,3,QF,,,,,,,,,,,,,,,,,,,,252,139,532,40
@@ -3452,7 +3452,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-ALG-02A-2004,Algeria F2,Clay,32,S,20040503,5,104095,,,David Guez,R,185,FRA,21.401779603,102630,3,,Slimane Saoudi,L,,ALG,28.7802874743,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,651,23,339,92
 2004-M-FU-ALG-02A-2004,Algeria F2,Clay,32,S,20040503,6,103614,,,Josef Nesticky,R,,CZE,23.7262149213,110703,,WC,Badr Bouabdellah,R,,MAR,,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,977,7,,
 2004-M-FU-ALG-02A-2004,Algeria F2,Clay,32,S,20040503,7,103858,,,Frederic Jeanclaude,L,,FRA,22.5845311431,108914,,WC,Rachid Baba Aissa,U,,ALG,20.7364818617,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,970,7,,
-2004-M-FU-ALG-02A-2004,Algeria F2,Clay,32,S,20040503,8,104542,6,,Jo Wilfried Tsonga,R,188,FRA,19.0444900753,104185,,,Dusan Karol,R,,CZE,20.9582477755,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,462,54,764,15
+2004-M-FU-ALG-02A-2004,Algeria F2,Clay,32,S,20040503,8,104542,6,,Jo-Wilfried Tsonga,R,188,FRA,19.0444900753,104185,,,Dusan Karol,R,,CZE,20.9582477755,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,462,54,764,15
 2004-M-FU-ALG-02A-2004,Algeria F2,Clay,32,S,20040503,9,111540,,Q,Hicham Fathi El Idrissi,U,,MAR,22.945927447,119354,,LL,Roger Lacaci Dominguez,U,,ESP,22.3709787817,6-1 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2004-M-FU-ALG-02A-2004,Algeria F2,Clay,32,S,20040503,10,102033,,,Abdelhak Hameurlaine,R,,ALG,32.1232032854,102254,,WC,Ouassel Hared,R,,ALG,30.674880219,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1253,2,1409,1
 2004-M-FU-ALG-02A-2004,Algeria F2,Clay,32,S,20040503,11,103773,,Q,Markus Kanellos,R,,AUT,22.9733059548,104364,,,Nils Muschiol,R,,GER,19.9945242984,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1156,3,795,13
@@ -3464,7 +3464,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-ALG-02A-2004,Algeria F2,Clay,32,S,20040503,17,103708,1,,Jaroslav Pospisil,R,,CZE,23.227926078,104580,,,Haithem Abid,L,,TUN,18.7953456537,7-5 1-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,296,112,793,13
 2004-M-FU-ALG-02A-2004,Algeria F2,Clay,32,S,20040503,18,104111,,Q,Georg Novak,R,,AUT,21.3059548255,103756,8,LL,Stefano Mocci,R,,ITA,23.0335386721,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1005,6,649,23
 2004-M-FU-ALG-02A-2004,Algeria F2,Clay,32,S,20040503,19,104095,,,David Guez,R,185,FRA,21.401779603,103614,,,Josef Nesticky,R,,CZE,23.7262149213,6-1 3-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,651,23,977,7
-2004-M-FU-ALG-02A-2004,Algeria F2,Clay,32,S,20040503,20,103858,,,Frederic Jeanclaude,L,,FRA,22.5845311431,104542,6,,Jo Wilfried Tsonga,R,188,FRA,19.0444900753,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,970,7,462,54
+2004-M-FU-ALG-02A-2004,Algeria F2,Clay,32,S,20040503,20,103858,,,Frederic Jeanclaude,L,,FRA,22.5845311431,104542,6,,Jo-Wilfried Tsonga,R,188,FRA,19.0444900753,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,970,7,462,54
 2004-M-FU-ALG-02A-2004,Algeria F2,Clay,32,S,20040503,21,102033,,,Abdelhak Hameurlaine,R,,ALG,32.1232032854,111540,,Q,Hicham Fathi El Idrissi,U,,MAR,22.945927447,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1253,2,,
 2004-M-FU-ALG-02A-2004,Algeria F2,Clay,32,S,20040503,22,103773,,Q,Markus Kanellos,R,,AUT,22.9733059548,103827,,,Fabio Colangelo,R,,ITA,22.688569473,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1156,3,785,14
 2004-M-FU-ALG-02A-2004,Algeria F2,Clay,32,S,20040503,23,103785,,,Luis Feo Bernabe,U,,ESP,22.9185489391,118985,,Q,Kamil Filali,U,,MAR,19.4661190965,1-6 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,930,8,1409,1
@@ -3686,7 +3686,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-GER-06A-2004,Germany F6,Clay,32,S,20040503,30,104676,,,Andreas Beck,L,190,GER,18.2395619439,103925,3,,Gabriel Moraru,R,180,ROU,22.2614647502,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,567,32,293,114
 2004-M-FU-GER-06A-2004,Germany F6,Clay,32,S,20040503,31,104557,,Q,Andis Juska,R,,LAT,18.9486652977,104676,,,Andreas Beck,L,190,GER,18.2395619439,6-4 6-1,3,F,,,,,,,,,,,,,,,,,,,,755,15,567,32
 2004-M-FU-GBR-02A-2004,Great Britain F2,Clay,32,S,20040503,1,103573,1,,Rik De Voest,R,180,RSA,23.909650924,104506,,WC,David Brewer,R,,GBR,19.1868583162,6-1 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,211,180,1327,2
-2004-M-FU-GBR-02A-2004,Great Britain F2,Clay,32,S,20040503,2,103926,,,Daniel Munoz De La Nava,L,,ESP,22.2587268994,102902,,,Thomas Blake,R,,USA,27.3429158111,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,548,37,512,43
+2004-M-FU-GBR-02A-2004,Great Britain F2,Clay,32,S,20040503,2,103926,,,Daniel Munoz de la Nava,L,,ESP,22.2587268994,102902,,,Thomas Blake,R,,USA,27.3429158111,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,548,37,512,43
 2004-M-FU-GBR-02A-2004,Great Britain F2,Clay,32,S,20040503,3,104406,,Q,Naim Lalji,U,,GBR,19.7782340862,111603,,Q,Richard Brooks,L,,GBR,22.893908282,6-3 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1024,6,,
 2004-M-FU-GBR-02A-2004,Great Britain F2,Clay,32,S,20040503,4,102512,8,,Joseph Sirianni,R,175,AUS,29.2922655715,111350,,,Matthew Brown,R,,GBR,17.711156742,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,345,89,,
 2004-M-FU-GBR-02A-2004,Great Britain F2,Clay,32,S,20040503,5,104372,3,,Alex Bogdanovic,L,183,GBR,19.947980835,104792,,,Gael Monfils,R,193,FRA,17.6700889802,6-7(5) 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,250,141,544,37
@@ -3701,7 +3701,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-GBR-02A-2004,Great Britain F2,Clay,32,S,20040503,14,103570,,Q,Fabian Roetschi,U,,SUI,23.9397672827,103913,,,Ian Flanagan,U,,GBR,22.2970568104,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1103,4,914,8
 2004-M-FU-GBR-02A-2004,Great Britain F2,Clay,32,S,20040503,15,103635,,,Andrew Derer,U,,AUS,23.6030116359,110564,,WC,Nick Cavaday,R,,GBR,17.9712525667,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,442,59,,
 2004-M-FU-GBR-02A-2004,Great Britain F2,Clay,32,S,20040503,16,103238,2,,Jean Claude Scherrer,R,188,SUI,25.787816564,104415,,Q,Colin Fleming,R,188,GBR,19.7207392197,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,245,145,1087,4
-2004-M-FU-GBR-02A-2004,Great Britain F2,Clay,32,S,20040503,17,103926,,,Daniel Munoz De La Nava,L,,ESP,22.2587268994,103573,1,,Rik De Voest,R,180,RSA,23.909650924,1-6 6-3 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,548,37,211,180
+2004-M-FU-GBR-02A-2004,Great Britain F2,Clay,32,S,20040503,17,103926,,,Daniel Munoz de la Nava,L,,ESP,22.2587268994,103573,1,,Rik De Voest,R,180,RSA,23.909650924,1-6 6-3 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,548,37,211,180
 2004-M-FU-GBR-02A-2004,Great Britain F2,Clay,32,S,20040503,18,102512,8,,Joseph Sirianni,R,175,AUS,29.2922655715,104406,,Q,Naim Lalji,U,,GBR,19.7782340862,6-4 RET,3,R16,,,,,,,,,,,,,,,,,,,,345,89,1024,6
 2004-M-FU-GBR-02A-2004,Great Britain F2,Clay,32,S,20040503,19,104372,3,,Alex Bogdanovic,L,183,GBR,19.947980835,104747,,Q,Tom Rushby,R,,GBR,17.9137577002,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,250,141,1191,3
 2004-M-FU-GBR-02A-2004,Great Britain F2,Clay,32,S,20040503,20,103490,6,,Santiago Ventura,R,183,ESP,24.3258042437,103559,,,David Sherwood,R,193,GBR,23.9917864476,6-4 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,337,93,580,30
@@ -3709,13 +3709,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-GBR-02A-2004,Great Britain F2,Clay,32,S,20040503,22,104004,4,Q,Filip Prpic,R,173,SWE,21.9383983573,104779,,WC,Jamie Baker,R,,GBR,17.7440109514,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,291,114,1191,3
 2004-M-FU-GBR-02A-2004,Great Britain F2,Clay,32,S,20040503,23,103465,7,,Paul Logtens,R,175,NED,24.4873374401,103570,,Q,Fabian Roetschi,U,,SUI,23.9397672827,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,338,93,1103,4
 2004-M-FU-GBR-02A-2004,Great Britain F2,Clay,32,S,20040503,24,103635,,,Andrew Derer,U,,AUS,23.6030116359,103238,2,,Jean Claude Scherrer,R,188,SUI,25.787816564,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,442,59,245,145
-2004-M-FU-GBR-02A-2004,Great Britain F2,Clay,32,S,20040503,25,103926,,,Daniel Munoz De La Nava,L,,ESP,22.2587268994,102512,8,,Joseph Sirianni,R,175,AUS,29.2922655715,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,548,37,345,89
+2004-M-FU-GBR-02A-2004,Great Britain F2,Clay,32,S,20040503,25,103926,,,Daniel Munoz de la Nava,L,,ESP,22.2587268994,102512,8,,Joseph Sirianni,R,175,AUS,29.2922655715,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,548,37,345,89
 2004-M-FU-GBR-02A-2004,Great Britain F2,Clay,32,S,20040503,26,103490,6,,Santiago Ventura,R,183,ESP,24.3258042437,104372,3,,Alex Bogdanovic,L,183,GBR,19.947980835,6-7(4) 6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,337,93,250,141
 2004-M-FU-GBR-02A-2004,Great Britain F2,Clay,32,S,20040503,27,103799,5,Q,Eric Prodon,R,178,FRA,22.8501026694,104004,4,Q,Filip Prpic,R,173,SWE,21.9383983573,6-4 5-7 6-4,3,QF,,,,,,,,,,,,,,,,,,,,329,96,291,114
 2004-M-FU-GBR-02A-2004,Great Britain F2,Clay,32,S,20040503,28,103465,7,,Paul Logtens,R,175,NED,24.4873374401,103635,,,Andrew Derer,U,,AUS,23.6030116359,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,338,93,442,59
-2004-M-FU-GBR-02A-2004,Great Britain F2,Clay,32,S,20040503,29,103926,,,Daniel Munoz De La Nava,L,,ESP,22.2587268994,103490,6,,Santiago Ventura,R,183,ESP,24.3258042437,1-6 6-0 6-3,3,SF,,,,,,,,,,,,,,,,,,,,548,37,337,93
+2004-M-FU-GBR-02A-2004,Great Britain F2,Clay,32,S,20040503,29,103926,,,Daniel Munoz de la Nava,L,,ESP,22.2587268994,103490,6,,Santiago Ventura,R,183,ESP,24.3258042437,1-6 6-0 6-3,3,SF,,,,,,,,,,,,,,,,,,,,548,37,337,93
 2004-M-FU-GBR-02A-2004,Great Britain F2,Clay,32,S,20040503,30,103799,5,Q,Eric Prodon,R,178,FRA,22.8501026694,103465,7,,Paul Logtens,R,175,NED,24.4873374401,6-2 7-6(2),3,SF,,,,,,,,,,,,,,,,,,,,329,96,338,93
-2004-M-FU-GBR-02A-2004,Great Britain F2,Clay,32,S,20040503,31,103799,5,Q,Eric Prodon,R,178,FRA,22.8501026694,103926,,,Daniel Munoz De La Nava,L,,ESP,22.2587268994,6-4 6-3,3,F,,,,,,,,,,,,,,,,,,,,329,96,548,37
+2004-M-FU-GBR-02A-2004,Great Britain F2,Clay,32,S,20040503,31,103799,5,Q,Eric Prodon,R,178,FRA,22.8501026694,103926,,,Daniel Munoz de la Nava,L,,ESP,22.2587268994,6-4 6-3,3,F,,,,,,,,,,,,,,,,,,,,329,96,548,37
 2004-M-FU-HUN-01A-2004,Hungary F1,Clay,32,S,20040503,1,102807,,Q,Rodrigo Monte,R,,BRA,27.8850102669,103154,1,,Jaymon Crabb,R,183,AUS,26.160164271,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,378,78
 2004-M-FU-HUN-01A-2004,Hungary F1,Clay,32,S,20040503,2,104320,,Q,Karel Triska,U,,CZE,20.1642710472,119303,,Q,Marko Sabolcki,U,,SLO,19.8658453114,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1001,6,,
 2004-M-FU-HUN-01A-2004,Hungary F1,Clay,32,S,20040503,3,119198,,Q,Marek Sramek,R,,SVK,20.7008898015,104301,,,Frantisek Polyak,R,,SVK,20.2327173169,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1253,2,817,12
@@ -4004,7 +4004,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-ARG-03A-2004,Argentina F3,Clay,32,S,20040510,7,104477,,,Jorge Aguilar,R,,CHI,19.3347022587,103419,,,Gabriel Montilla,R,,PUR,24.7474332649,6-7(5) 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,660,23,1025,6
 2004-M-FU-ARG-03A-2004,Argentina F3,Clay,32,S,20040510,8,103848,,,Agustin Tarantino,R,,ARG,22.6502395619,103675,8,,Diego Junqueira,L,178,ARG,23.3648186174,6-3 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,690,20,624,26
 2004-M-FU-ARG-03A-2004,Argentina F3,Clay,32,S,20040510,9,103850,7,,Sebastian Decoud,L,178,ARG,22.6420260096,104651,,LL,Martin Alund,R,,ARG,18.3709787817,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,513,43,1253,2
-2004-M-FU-ARG-03A-2004,Argentina F3,Clay,32,S,20040510,10,105223,,WC,Juan Martin Del Potro,R,198,ARG,15.627652293,104482,,Q,Matias Niemiz,R,,ARG,19.3237508556,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1408,1
+2004-M-FU-ARG-03A-2004,Argentina F3,Clay,32,S,20040510,10,105223,,WC,Juan Martin del Potro,R,198,ARG,15.627652293,104482,,Q,Matias Niemiz,R,,ARG,19.3237508556,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1408,1
 2004-M-FU-ARG-03A-2004,Argentina F3,Clay,32,S,20040510,11,104148,,,Lionel Noviski,R,,ARG,21.1307323751,104442,,,Alexandre Bonatto,R,,BRA,19.5838466804,4-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,657,23,646,24
 2004-M-FU-ARG-03A-2004,Argentina F3,Clay,32,S,20040510,12,104122,4,,Carlos Berlocq,R,183,ARG,21.2648870637,104655,,Q,Pablo Cuevas,R,180,URU,18.3545516769,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,345,90,1408,1
 2004-M-FU-ARG-03A-2004,Argentina F3,Clay,32,S,20040510,13,104016,6,,Antonio Pastorino,U,,ARG,21.9055441478,104547,,WC,Horacio Zeballos,L,188,ARG,19.0362765229,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,442,60,1131,4
@@ -4015,7 +4015,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-ARG-03A-2004,Argentina F3,Clay,32,S,20040510,18,104080,5,,Alejandro Fabbri,U,,ARG,21.5359342916,103742,,,Diego Cristin,R,,ARG,23.0965092402,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,429,63,853,11
 2004-M-FU-ARG-03A-2004,Argentina F3,Clay,32,S,20040510,19,103916,3,,Cristian Villagran,R,180,ARG,22.302532512,108628,,,Jhonnatan Medina Alvarez,L,,VEN,22.3244353183,6-3 4-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,318,101,,
 2004-M-FU-ARG-03A-2004,Argentina F3,Clay,32,S,20040510,20,103848,,,Agustin Tarantino,R,,ARG,22.6502395619,104477,,,Jorge Aguilar,R,,CHI,19.3347022587,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,690,20,660,23
-2004-M-FU-ARG-03A-2004,Argentina F3,Clay,32,S,20040510,21,103850,7,,Sebastian Decoud,L,178,ARG,22.6420260096,105223,,WC,Juan Martin Del Potro,R,198,ARG,15.627652293,4-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,513,43,,
+2004-M-FU-ARG-03A-2004,Argentina F3,Clay,32,S,20040510,21,103850,7,,Sebastian Decoud,L,178,ARG,22.6420260096,105223,,WC,Juan Martin del Potro,R,198,ARG,15.627652293,4-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,513,43,,
 2004-M-FU-ARG-03A-2004,Argentina F3,Clay,32,S,20040510,22,104122,4,,Carlos Berlocq,R,183,ARG,21.2648870637,104148,,,Lionel Noviski,R,,ARG,21.1307323751,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,345,90,657,23
 2004-M-FU-ARG-03A-2004,Argentina F3,Clay,32,S,20040510,23,104016,6,,Antonio Pastorino,U,,ARG,21.9055441478,104599,,,Matias De Genaro,U,,ARG,18.7049965777,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,442,60,897,9
 2004-M-FU-ARG-03A-2004,Argentina F3,Clay,32,S,20040510,24,104314,2,,Brian Dabul,L,170,ARG,20.2080766598,104513,,Q,Leandro Migani,R,,ARG,19.189596167,7-5 6-7(7) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,333,94,1327,2
@@ -4102,7 +4102,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-ITA-07A-2004,Italy F7,Clay,32,S,20040510,12,104191,4,,Ismar Gorcic,R,,BIH,20.9691991786,104387,,Q,Massimo Bosa,R,,ITA,19.8795345654,6-2 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,466,53,1227,3
 2004-M-FU-ITA-07A-2004,Italy F7,Clay,32,S,20040510,13,103437,8,,Francesco Piccari,R,,ITA,24.6735112936,118128,,Q,Alessandro Rondinelli,U,,ITA,26.0807665982,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,533,39,1327,2
 2004-M-FU-ITA-07A-2004,Italy F7,Clay,32,S,20040510,14,103697,,Q,Marcio Torres,R,185,BRA,23.2908966461,104686,,Q,Christoph Steiner,U,,AUT,18.2039698836,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,847,11,1327,2
-2004-M-FU-ITA-07A-2004,Italy F7,Clay,32,S,20040510,15,103926,,,Daniel Munoz De La Nava,L,,ESP,22.2778918549,103213,,,Matteo Gotti,R,,ITA,25.9329226557,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,546,37,577,31
+2004-M-FU-ITA-07A-2004,Italy F7,Clay,32,S,20040510,15,103926,,,Daniel Munoz de la Nava,L,,ESP,22.2778918549,103213,,,Matteo Gotti,R,,ITA,25.9329226557,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,546,37,577,31
 2004-M-FU-ITA-07A-2004,Italy F7,Clay,32,S,20040510,16,103679,2,,Jeroen Masson,R,,BEL,23.3511293634,118384,,Q,Laurent Bondaz,L,,ITA,25.4674880219,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,380,77,,
 2004-M-FU-ITA-07A-2004,Italy F7,Clay,32,S,20040510,17,103587,1,SE,Andres Dellatorre,R,190,ARG,23.8357289528,104206,,Q,Alberto Giraudo,L,,ITA,20.8706365503,3-6 7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,276,125,913,8
 2004-M-FU-ITA-07A-2004,Italy F7,Clay,32,S,20040510,18,103058,7,,Juan Felipe Yanez,R,,CHI,26.6173853525,103636,,,Federico Torresi,R,,ITA,23.6167008898,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,516,42,591,29
@@ -4111,7 +4111,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-ITA-07A-2004,Italy F7,Clay,32,S,20040510,21,103966,5,,Massimo Ocera,U,,ITA,22.1300479124,104926,,WC,Fabio Fognini,R,178,ITA,16.9637234771,6-7(5) 6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,479,50,1086,4
 2004-M-FU-ITA-07A-2004,Italy F7,Clay,32,S,20040510,22,104191,4,,Ismar Gorcic,R,,BIH,20.9691991786,104047,,Q,Nicolo Cotto,L,,ITA,21.7330595483,7-6(6) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,466,53,921,8
 2004-M-FU-ITA-07A-2004,Italy F7,Clay,32,S,20040510,23,103437,8,,Francesco Piccari,R,,ITA,24.6735112936,103697,,Q,Marcio Torres,R,185,BRA,23.2908966461,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,533,39,847,11
-2004-M-FU-ITA-07A-2004,Italy F7,Clay,32,S,20040510,24,103679,2,,Jeroen Masson,R,,BEL,23.3511293634,103926,,,Daniel Munoz De La Nava,L,,ESP,22.2778918549,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,380,77,546,37
+2004-M-FU-ITA-07A-2004,Italy F7,Clay,32,S,20040510,24,103679,2,,Jeroen Masson,R,,BEL,23.3511293634,103926,,,Daniel Munoz de la Nava,L,,ESP,22.2778918549,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,380,77,546,37
 2004-M-FU-ITA-07A-2004,Italy F7,Clay,32,S,20040510,25,103587,1,SE,Andres Dellatorre,R,190,ARG,23.8357289528,103058,7,,Juan Felipe Yanez,R,,CHI,26.6173853525,7-5 6-7(3) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,276,125,516,42
 2004-M-FU-ITA-07A-2004,Italy F7,Clay,32,S,20040510,26,103156,,,Alessandro Da Col,R,,ITA,26.1656399726,104131,,,David Novak,L,,CZE,21.2128678987,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,618,26,717,18
 2004-M-FU-ITA-07A-2004,Italy F7,Clay,32,S,20040510,27,103966,5,,Massimo Ocera,U,,ITA,22.1300479124,104191,4,,Ismar Gorcic,R,,BIH,20.9691991786,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,479,50,466,53
@@ -5123,7 +5123,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-ESP-09A-2004,Spain F9,Hard,32,S,20040531,10,118818,,LL,Omer Abramovich,R,,ISR,19.9041752225,103954,,Q,Christian Banzer,R,,GER,22.2231348392,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1197,3,,
 2004-M-FU-ESP-09A-2004,Spain F9,Hard,32,S,20040531,11,119328,,Q,Kevin Abele,R,,GER,19.1649555099,119327,,Q,Isaias Rodriguez Perez,U,,ESP,23.1238877481,6-2 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2004-M-FU-ESP-09A-2004,Spain F9,Hard,32,S,20040531,12,102828,3,SE,Roberto Menendez,R,,ESP,27.8932238193,119329,,Q,Dan Cottier,U,,GBR,20.4681724846,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,373,82,,
-2004-M-FU-ESP-09A-2004,Spain F9,Hard,32,S,20040531,13,103926,7,,Daniel Munoz De La Nava,L,,ESP,22.3353867214,118250,,Q,Jorge Jimenez Letrado,U,,ESP,25.0184804928,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,480,50,,
+2004-M-FU-ESP-09A-2004,Spain F9,Hard,32,S,20040531,13,103926,7,,Daniel Munoz de la Nava,L,,ESP,22.3353867214,118250,,Q,Jorge Jimenez Letrado,U,,ESP,25.0184804928,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,480,50,,
 2004-M-FU-ESP-09A-2004,Spain F9,Hard,32,S,20040531,14,103213,,,Matteo Gotti,R,,ITA,25.9904175222,118318,,WC,Acaymo Medina Rivero,R,,ESP,20.8706365503,6-4 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,584,31,1331,2
 2004-M-FU-ESP-09A-2004,Spain F9,Hard,32,S,20040531,15,104470,,,Komlavi Loglo,R,183,TOG,19.4168377823,104058,,,Floris Kilian,R,,NED,21.7248459959,4-6 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,797,14,918,8
 2004-M-FU-ESP-09A-2004,Spain F9,Hard,32,S,20040531,16,103425,,,Nicolas Tourte,L,,FRA,24.7857631759,103622,2,,Bo Ram Cha,R,,KOR,23.7618069815,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,597,29,313,109
@@ -5133,7 +5133,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-ESP-09A-2004,Spain F9,Hard,32,S,20040531,20,104207,,Q,Tony Holzinger,R,,GER,20.9281314168,104614,,,Javier Foronda Bolanos,U,,ESP,18.6721423682,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1054,5,792,14
 2004-M-FU-ESP-09A-2004,Spain F9,Hard,32,S,20040531,21,104445,5,,Jose Antonio Sanchez De Luna,R,,ESP,19.6167008898,118818,,LL,Omer Abramovich,R,,ISR,19.9041752225,6-4 3-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,434,63,1197,3
 2004-M-FU-ESP-09A-2004,Spain F9,Hard,32,S,20040531,22,102828,3,SE,Roberto Menendez,R,,ESP,27.8932238193,119328,,Q,Kevin Abele,R,,GER,19.1649555099,7-6(6) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,373,82,,
-2004-M-FU-ESP-09A-2004,Spain F9,Hard,32,S,20040531,23,103213,,,Matteo Gotti,R,,ITA,25.9904175222,103926,7,,Daniel Munoz De La Nava,L,,ESP,22.3353867214,6-3 4-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,584,31,480,50
+2004-M-FU-ESP-09A-2004,Spain F9,Hard,32,S,20040531,23,103213,,,Matteo Gotti,R,,ITA,25.9904175222,103926,7,,Daniel Munoz de la Nava,L,,ESP,22.3353867214,6-3 4-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,584,31,480,50
 2004-M-FU-ESP-09A-2004,Spain F9,Hard,32,S,20040531,24,104470,,,Komlavi Loglo,R,183,TOG,19.4168377823,103425,,,Nicolas Tourte,L,,FRA,24.7857631759,4-6 7-6(5) 7-6(7),3,R16,,,,,,,,,,,,,,,,,,,,797,14,597,29
 2004-M-FU-ESP-09A-2004,Spain F9,Hard,32,S,20040531,25,104280,,,Rafael Moreno Negrin,R,,ESP,20.4490075291,103635,6,,Andrew Derer,U,,AUS,23.6796714579,3-6 6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,720,18,438,62
 2004-M-FU-ESP-09A-2004,Spain F9,Hard,32,S,20040531,26,103154,4,,Jaymon Crabb,R,183,AUS,26.2368240931,104207,,Q,Tony Holzinger,R,,GER,20.9281314168,2-6 6-3 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,395,74,1054,5
@@ -5513,7 +5513,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-ESP-10A-2004,Spain F10,Hard,32,S,20040607,5,103154,3,,Jaymon Crabb,R,183,AUS,26.2559890486,101772,,,Andrei Cherkasov,R,180,RUS,33.9274469541,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,397,72,531,39
 2004-M-FU-ESP-10A-2004,Spain F10,Hard,32,S,20040607,6,104207,,Q,Tony Holzinger,R,,GER,20.9472963723,104073,,Q,Jose Pablo Serna,U,,ESP,21.6344969199,7-6(8) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1058,5,1326,2
 2004-M-FU-ESP-10A-2004,Spain F10,Hard,32,S,20040607,7,103213,,,Matteo Gotti,R,,ITA,26.0095824778,118818,,,Omer Abramovich,R,,ISR,19.923340178,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,580,32,1200,3
-2004-M-FU-ESP-10A-2004,Spain F10,Hard,32,S,20040607,8,103926,6,,Daniel Munoz De La Nava,L,,ESP,22.3545516769,104130,,WC,Ross Connolly,R,,GBR,21.2977412731,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,483,48,,
+2004-M-FU-ESP-10A-2004,Spain F10,Hard,32,S,20040607,8,103926,6,,Daniel Munoz de la Nava,L,,ESP,22.3545516769,104130,,WC,Ross Connolly,R,,GBR,21.2977412731,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,483,48,,
 2004-M-FU-ESP-10A-2004,Spain F10,Hard,32,S,20040607,9,103635,5,,Andrew Derer,U,,AUS,23.6988364134,104280,,,Rafael Moreno Negrin,R,,ESP,20.4681724846,2-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,425,62,731,17
 2004-M-FU-ESP-10A-2004,Spain F10,Hard,32,S,20040607,10,104054,,,Daniel Monedero,R,,ESP,21.7713894593,104176,,Q,Ricardo Soriano Gallo,U,,ESP,21.0924024641,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,657,23,1237,3
 2004-M-FU-ESP-10A-2004,Spain F10,Hard,32,S,20040607,11,103399,,WC,Carlos Rexach Itoiz,U,,ESP,24.9281314168,104544,,Q,Ricardo Villacorta Alonso,R,,ESP,19.1211498973,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1421,1,,
@@ -5525,18 +5525,18 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-ESP-10A-2004,Spain F10,Hard,32,S,20040607,17,104402,,,Clement Morel,R,,MON,19.8932238193,103364,1,,Javier Genaro Martinez,R,,ESP,25.1033538672,5-7 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,589,31,274,123
 2004-M-FU-ESP-10A-2004,Spain F10,Hard,32,S,20040607,18,104470,,,Komlavi Loglo,R,183,TOG,19.4360027379,103947,7,,Ivan Esquerdo,U,,ESP,22.2751540041,6-4 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,771,15,486,47
 2004-M-FU-ESP-10A-2004,Spain F10,Hard,32,S,20040607,19,103154,3,,Jaymon Crabb,R,183,AUS,26.2559890486,104207,,Q,Tony Holzinger,R,,GER,20.9472963723,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,397,72,1058,5
-2004-M-FU-ESP-10A-2004,Spain F10,Hard,32,S,20040607,20,103926,6,,Daniel Munoz De La Nava,L,,ESP,22.3545516769,103213,,,Matteo Gotti,R,,ITA,26.0095824778,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,483,48,580,32
+2004-M-FU-ESP-10A-2004,Spain F10,Hard,32,S,20040607,20,103926,6,,Daniel Munoz de la Nava,L,,ESP,22.3545516769,103213,,,Matteo Gotti,R,,ITA,26.0095824778,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,483,48,580,32
 2004-M-FU-ESP-10A-2004,Spain F10,Hard,32,S,20040607,21,104054,,,Daniel Monedero,R,,ESP,21.7713894593,103635,5,,Andrew Derer,U,,AUS,23.6988364134,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,657,23,425,62
 2004-M-FU-ESP-10A-2004,Spain F10,Hard,32,S,20040607,22,103399,,WC,Carlos Rexach Itoiz,U,,ESP,24.9281314168,103922,,WC,Marcos Conde Jackson,R,,ESP,22.3682409309,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1421,1,1146,4
 2004-M-FU-ESP-10A-2004,Spain F10,Hard,32,S,20040607,23,104831,8,,Bartolome Salva Vidal,L,183,ESP,17.5468856947,104421,,,Martin Vilarrubi,R,,URU,19.7618069815,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,518,41,811,13
 2004-M-FU-ESP-10A-2004,Spain F10,Hard,32,S,20040607,24,103622,2,,Bo Ram Cha,R,,KOR,23.780971937,104437,,,Dekel Valtzer,U,,ISR,19.6769336071,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,319,102,850,11
 2004-M-FU-ESP-10A-2004,Spain F10,Hard,32,S,20040607,25,104470,,,Komlavi Loglo,R,183,TOG,19.4360027379,104402,,,Clement Morel,R,,MON,19.8932238193,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,771,15,589,31
-2004-M-FU-ESP-10A-2004,Spain F10,Hard,32,S,20040607,26,103926,6,,Daniel Munoz De La Nava,L,,ESP,22.3545516769,103154,3,,Jaymon Crabb,R,183,AUS,26.2559890486,6-7(2) 7-5 6-2,3,QF,,,,,,,,,,,,,,,,,,,,483,48,397,72
+2004-M-FU-ESP-10A-2004,Spain F10,Hard,32,S,20040607,26,103926,6,,Daniel Munoz de la Nava,L,,ESP,22.3545516769,103154,3,,Jaymon Crabb,R,183,AUS,26.2559890486,6-7(2) 7-5 6-2,3,QF,,,,,,,,,,,,,,,,,,,,483,48,397,72
 2004-M-FU-ESP-10A-2004,Spain F10,Hard,32,S,20040607,27,103399,,WC,Carlos Rexach Itoiz,U,,ESP,24.9281314168,104054,,,Daniel Monedero,R,,ESP,21.7713894593,6-7(3) 6-1 7-6,3,QF,,,,,,,,,,,,,,,,,,,,1421,1,657,23
 2004-M-FU-ESP-10A-2004,Spain F10,Hard,32,S,20040607,28,104831,8,,Bartolome Salva Vidal,L,183,ESP,17.5468856947,103622,2,,Bo Ram Cha,R,,KOR,23.780971937,6-2 1-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,518,41,319,102
-2004-M-FU-ESP-10A-2004,Spain F10,Hard,32,S,20040607,29,103926,6,,Daniel Munoz De La Nava,L,,ESP,22.3545516769,104470,,,Komlavi Loglo,R,183,TOG,19.4360027379,6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,483,48,771,15
+2004-M-FU-ESP-10A-2004,Spain F10,Hard,32,S,20040607,29,103926,6,,Daniel Munoz de la Nava,L,,ESP,22.3545516769,104470,,,Komlavi Loglo,R,183,TOG,19.4360027379,6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,483,48,771,15
 2004-M-FU-ESP-10A-2004,Spain F10,Hard,32,S,20040607,30,104831,8,,Bartolome Salva Vidal,L,183,ESP,17.5468856947,103399,,WC,Carlos Rexach Itoiz,U,,ESP,24.9281314168,7-6(4) 6-2,3,SF,,,,,,,,,,,,,,,,,,,,518,41,1421,1
-2004-M-FU-ESP-10A-2004,Spain F10,Hard,32,S,20040607,31,104831,8,,Bartolome Salva Vidal,L,183,ESP,17.5468856947,103926,6,,Daniel Munoz De La Nava,L,,ESP,22.3545516769,7-6(4) 2-6 6-4,3,F,,,,,,,,,,,,,,,,,,,,518,41,483,48
+2004-M-FU-ESP-10A-2004,Spain F10,Hard,32,S,20040607,31,104831,8,,Bartolome Salva Vidal,L,183,ESP,17.5468856947,103926,6,,Daniel Munoz de la Nava,L,,ESP,22.3545516769,7-6(4) 2-6 6-4,3,F,,,,,,,,,,,,,,,,,,,,518,41,483,48
 2004-M-FU-TUN-01A-2004,Tunisia F1,Clay,32,S,20040607,1,104384,,,Pablo Santos,R,183,ESP,19.9780971937,103568,1,,Valentin Sanon,R,,CIV,24.0492813142,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,716,18,382,76
 2004-M-FU-TUN-01A-2004,Tunisia F1,Clay,32,S,20040607,2,104376,,Q,David Ollivier Baquero,U,,ESP,20.0246406571,104040,,,Adam Thompson,R,,NZL,21.8617385352,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1421,1,813,13
 2004-M-FU-TUN-01A-2004,Tunisia F1,Clay,32,S,20040607,3,118475,,Q,Georges Israel,R,,FRA,21.054072553,109050,,WC,Wael Kilani,R,,TUN,15.7481177276,6-0 2-6 4-3 RET,3,R32,,,,,,,,,,,,,,,,,,,,1326,2,,
@@ -5823,8 +5823,8 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-ESP-11A-2004,Spain F11,Hard,32,S,20040614,5,103154,4,,Jaymon Crabb,R,183,AUS,26.2751540041,104073,,Q,Jose Pablo Serna,U,,ESP,21.6536618754,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,360,84,1330,2
 2004-M-FU-ESP-11A-2004,Spain F11,Hard,32,S,20040614,6,103947,,,Ivan Esquerdo,U,,ESP,22.2943189596,104130,,WC,Ross Connolly,R,,GBR,21.3169062286,4-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,531,39,,
 2004-M-FU-ESP-11A-2004,Spain F11,Hard,32,S,20040614,7,104516,,Q,Arnau Brugues Davi,L,183,ESP,19.2772073922,118250,,Q,Jorge Jimenez Letrado,U,,ESP,25.0568104038,3-6 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1237,3,,
-2004-M-FU-ESP-11A-2004,Spain F11,Hard,32,S,20040614,8,104542,7,,Jo Wilfried Tsonga,R,188,FRA,19.1594798084,104470,,,Komlavi Loglo,R,183,TOG,19.4551676934,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,461,52,570,33
-2004-M-FU-ESP-11A-2004,Spain F11,Hard,32,S,20040614,9,103926,8,,Daniel Munoz De La Nava,L,,ESP,22.3737166324,104161,,,Tomislav Peric,R,,CRO,21.1800136893,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,478,49,742,17
+2004-M-FU-ESP-11A-2004,Spain F11,Hard,32,S,20040614,8,104542,7,,Jo-Wilfried Tsonga,R,188,FRA,19.1594798084,104470,,,Komlavi Loglo,R,183,TOG,19.4551676934,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,461,52,570,33
+2004-M-FU-ESP-11A-2004,Spain F11,Hard,32,S,20040614,9,103926,8,,Daniel Munoz de la Nava,L,,ESP,22.3737166324,104161,,,Tomislav Peric,R,,CRO,21.1800136893,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,478,49,742,17
 2004-M-FU-ESP-11A-2004,Spain F11,Hard,32,S,20040614,10,104402,,,Clement Morel,R,,MON,19.9123887748,103213,,,Matteo Gotti,R,,ITA,26.0287474333,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,591,31,562,35
 2004-M-FU-ESP-11A-2004,Spain F11,Hard,32,S,20040614,11,119121,,Q,Ignasi Villacampa Roses,R,,ESP,18.3271731691,104280,,,Rafael Moreno Negrin,R,,ESP,20.4873374401,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,669,22
 2004-M-FU-ESP-11A-2004,Spain F11,Hard,32,S,20040614,12,104421,,Q,Martin Vilarrubi,R,,URU,19.780971937,103065,3,,Kepler Orellana,R,,VEN,26.6830937714,2-6 7-6(2) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,815,13,341,91
@@ -5835,18 +5835,18 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-ESP-11A-2004,Spain F11,Hard,32,S,20040614,17,103622,1,,Bo Ram Cha,R,,KOR,23.8001368925,104831,,,Bartolome Salva Vidal,L,183,ESP,17.5660506502,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,317,102,515,41
 2004-M-FU-ESP-11A-2004,Spain F11,Hard,32,S,20040614,18,104054,,,Daniel Monedero,R,,ESP,21.7905544148,103399,,WC,Carlos Rexach Itoiz,U,,ESP,24.9472963723,1-6 7-6(8) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,658,23,1430,1
 2004-M-FU-ESP-11A-2004,Spain F11,Hard,32,S,20040614,19,103947,,,Ivan Esquerdo,U,,ESP,22.2943189596,103154,4,,Jaymon Crabb,R,183,AUS,26.2751540041,6-2 3-6 7-6(0),3,R16,,,,,,,,,,,,,,,,,,,,531,39,360,84
-2004-M-FU-ESP-11A-2004,Spain F11,Hard,32,S,20040614,20,104542,7,,Jo Wilfried Tsonga,R,188,FRA,19.1594798084,104516,,Q,Arnau Brugues Davi,L,183,ESP,19.2772073922,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,461,52,1237,3
-2004-M-FU-ESP-11A-2004,Spain F11,Hard,32,S,20040614,21,103926,8,,Daniel Munoz De La Nava,L,,ESP,22.3737166324,104402,,,Clement Morel,R,,MON,19.9123887748,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,478,49,591,31
+2004-M-FU-ESP-11A-2004,Spain F11,Hard,32,S,20040614,20,104542,7,,Jo-Wilfried Tsonga,R,188,FRA,19.1594798084,104516,,Q,Arnau Brugues Davi,L,183,ESP,19.2772073922,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,461,52,1237,3
+2004-M-FU-ESP-11A-2004,Spain F11,Hard,32,S,20040614,21,103926,8,,Daniel Munoz de la Nava,L,,ESP,22.3737166324,104402,,,Clement Morel,R,,MON,19.9123887748,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,478,49,591,31
 2004-M-FU-ESP-11A-2004,Spain F11,Hard,32,S,20040614,22,119121,,Q,Ignasi Villacampa Roses,R,,ESP,18.3271731691,104421,,Q,Martin Vilarrubi,R,,URU,19.780971937,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,815,13
 2004-M-FU-ESP-11A-2004,Spain F11,Hard,32,S,20040614,23,102828,6,,Roberto Menendez,R,,ESP,27.9315537303,104084,,,Carlos Poch Gradin,L,185,ESP,21.5961670089,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,437,59,756,16
 2004-M-FU-ESP-11A-2004,Spain F11,Hard,32,S,20040614,24,103824,2,,Orest Tereshchuk,R,,UKR,22.8227241615,101772,,,Andrei Cherkasov,R,180,RUS,33.9466119097,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,318,100,557,35
 2004-M-FU-ESP-11A-2004,Spain F11,Hard,32,S,20040614,25,104054,,,Daniel Monedero,R,,ESP,21.7905544148,103622,1,,Bo Ram Cha,R,,KOR,23.8001368925,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,658,23,317,102
-2004-M-FU-ESP-11A-2004,Spain F11,Hard,32,S,20040614,26,104542,7,,Jo Wilfried Tsonga,R,188,FRA,19.1594798084,103947,,,Ivan Esquerdo,U,,ESP,22.2943189596,6-2 6-0,3,QF,,,,,,,,,,,,,,,,,,,,461,52,531,39
-2004-M-FU-ESP-11A-2004,Spain F11,Hard,32,S,20040614,27,103926,8,,Daniel Munoz De La Nava,L,,ESP,22.3737166324,119121,,Q,Ignasi Villacampa Roses,R,,ESP,18.3271731691,6-3 6-0,3,QF,,,,,,,,,,,,,,,,,,,,478,49,,
+2004-M-FU-ESP-11A-2004,Spain F11,Hard,32,S,20040614,26,104542,7,,Jo-Wilfried Tsonga,R,188,FRA,19.1594798084,103947,,,Ivan Esquerdo,U,,ESP,22.2943189596,6-2 6-0,3,QF,,,,,,,,,,,,,,,,,,,,461,52,531,39
+2004-M-FU-ESP-11A-2004,Spain F11,Hard,32,S,20040614,27,103926,8,,Daniel Munoz de la Nava,L,,ESP,22.3737166324,119121,,Q,Ignasi Villacampa Roses,R,,ESP,18.3271731691,6-3 6-0,3,QF,,,,,,,,,,,,,,,,,,,,478,49,,
 2004-M-FU-ESP-11A-2004,Spain F11,Hard,32,S,20040614,28,103824,2,,Orest Tereshchuk,R,,UKR,22.8227241615,102828,6,,Roberto Menendez,R,,ESP,27.9315537303,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,318,100,437,59
-2004-M-FU-ESP-11A-2004,Spain F11,Hard,32,S,20040614,29,104542,7,,Jo Wilfried Tsonga,R,188,FRA,19.1594798084,104054,,,Daniel Monedero,R,,ESP,21.7905544148,6-3 6-0,3,SF,,,,,,,,,,,,,,,,,,,,461,52,658,23
-2004-M-FU-ESP-11A-2004,Spain F11,Hard,32,S,20040614,30,103926,8,,Daniel Munoz De La Nava,L,,ESP,22.3737166324,103824,2,,Orest Tereshchuk,R,,UKR,22.8227241615,7-5 6-2,3,SF,,,,,,,,,,,,,,,,,,,,478,49,318,100
-2004-M-FU-ESP-11A-2004,Spain F11,Hard,32,S,20040614,31,104542,7,,Jo Wilfried Tsonga,R,188,FRA,19.1594798084,103926,8,,Daniel Munoz De La Nava,L,,ESP,22.3737166324,7-5 6-3,3,F,,,,,,,,,,,,,,,,,,,,461,52,478,49
+2004-M-FU-ESP-11A-2004,Spain F11,Hard,32,S,20040614,29,104542,7,,Jo-Wilfried Tsonga,R,188,FRA,19.1594798084,104054,,,Daniel Monedero,R,,ESP,21.7905544148,6-3 6-0,3,SF,,,,,,,,,,,,,,,,,,,,461,52,658,23
+2004-M-FU-ESP-11A-2004,Spain F11,Hard,32,S,20040614,30,103926,8,,Daniel Munoz de la Nava,L,,ESP,22.3737166324,103824,2,,Orest Tereshchuk,R,,UKR,22.8227241615,7-5 6-2,3,SF,,,,,,,,,,,,,,,,,,,,478,49,318,100
+2004-M-FU-ESP-11A-2004,Spain F11,Hard,32,S,20040614,31,104542,7,,Jo-Wilfried Tsonga,R,188,FRA,19.1594798084,103926,8,,Daniel Munoz de la Nava,L,,ESP,22.3737166324,7-5 6-3,3,F,,,,,,,,,,,,,,,,,,,,461,52,478,49
 2004-M-FU-TUN-02A-2004,Tunisia F2,Clay,32,S,20040614,1,104384,,,Pablo Santos,R,183,ESP,19.9972621492,103612,1,,Alexey Kedryuk,R,193,KAZ,23.8494182067,7-6(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,726,18,382,76
 2004-M-FU-TUN-02A-2004,Tunisia F2,Clay,32,S,20040614,2,104248,,Q,Cyril Baudin,U,,FRA,20.7310061602,103029,,,Mehdi Tahiri,R,183,MAR,26.8802190281,6-4 5-7 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,739,17
 2004-M-FU-TUN-02A-2004,Tunisia F2,Clay,32,S,20040614,3,109281,,Q,Tommaso Cafferata,U,,ITA,,119200,,WC,Youssef Miled,U,,TUN,20.7419575633,7-5 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,1430,1,,
@@ -6746,7 +6746,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-FRA-10A-2004,France F10,Clay,32,S,20040705,6,103949,,,Ivan Cerovic,L,190,CRO,22.3463381246,104663,,WC,Sebastien Louis,U,,FRA,18.4722792608,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,507,43,1342,2
 2004-M-FU-FRA-10A-2004,France F10,Clay,32,S,20040705,7,111483,,WC,Jean Baptiste Robin,L,,FRA,19.1403148528,104027,,,Pablo Gonzalez,R,178,COL,22.0095824778,7-6(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,446,57
 2004-M-FU-FRA-10A-2004,France F10,Clay,32,S,20040705,8,103961,7,,Bertrand Contzler,U,,FRA,22.288843258,104110,,Q,Julien Maigret,R,,FRA,21.4839151266,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,440,58,1175,4
-2004-M-FU-FRA-10A-2004,France F10,Clay,32,S,20040705,9,103926,,,Daniel Munoz De La Nava,L,,ESP,22.431211499,103765,8,,Mohamed Sekou Drame,U,,FRA,23.1676933607,6-0 3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,407,70,437,58
+2004-M-FU-FRA-10A-2004,France F10,Clay,32,S,20040705,9,103926,,,Daniel Munoz de la Nava,L,,ESP,22.431211499,103765,8,,Mohamed Sekou Drame,U,,FRA,23.1676933607,6-0 3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,407,70,437,58
 2004-M-FU-FRA-10A-2004,France F10,Clay,32,S,20040705,10,104402,,Q,Clement Morel,R,,MON,19.9698836413,104112,,,Benjamin Balleret,R,185,MON,21.4702258727,1-6 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,603,30,584,32
 2004-M-FU-FRA-10A-2004,France F10,Clay,32,S,20040705,11,104721,,,Josselin Ouanna,R,193,FRA,18.2258726899,104367,,Q,Charly Villeneuve,R,,FRA,20.1396303901,4-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,513,41,1253,3
 2004-M-FU-FRA-10A-2004,France F10,Clay,32,S,20040705,12,104095,,,David Guez,R,185,FRA,21.5742642026,104314,3,,Brian Dabul,L,170,ARG,20.3613963039,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,559,34,352,86
@@ -6758,13 +6758,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-FRA-10A-2004,France F10,Clay,32,S,20040705,18,103524,,,Diego Alvarez,R,,ARG,24.3312799452,103635,6,,Andrew Derer,U,,AUS,23.7754962355,7-6(4) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,586,31,394,72
 2004-M-FU-FRA-10A-2004,France F10,Clay,32,S,20040705,19,103949,,,Ivan Cerovic,L,190,CRO,22.3463381246,104194,,,Ruben Merchan,R,,ESP,21.1088295688,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,507,43,597,30
 2004-M-FU-FRA-10A-2004,France F10,Clay,32,S,20040705,20,103961,7,,Bertrand Contzler,U,,FRA,22.288843258,111483,,WC,Jean Baptiste Robin,L,,FRA,19.1403148528,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,440,58,,
-2004-M-FU-FRA-10A-2004,France F10,Clay,32,S,20040705,21,103926,,,Daniel Munoz De La Nava,L,,ESP,22.431211499,104402,,Q,Clement Morel,R,,MON,19.9698836413,6-4 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,407,70,603,30
+2004-M-FU-FRA-10A-2004,France F10,Clay,32,S,20040705,21,103926,,,Daniel Munoz de la Nava,L,,ESP,22.431211499,104402,,Q,Clement Morel,R,,MON,19.9698836413,6-4 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,407,70,603,30
 2004-M-FU-FRA-10A-2004,France F10,Clay,32,S,20040705,22,104721,,,Josselin Ouanna,R,193,FRA,18.2258726899,104095,,,David Guez,R,185,FRA,21.5742642026,3-6 6-4 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,513,41,559,34
 2004-M-FU-FRA-10A-2004,France F10,Clay,32,S,20040705,23,104397,5,,Laurent Recouderc,R,,FRA,19.9863107461,107553,,,Laurent Gabail,U,,FRA,,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,397,71,585,31
 2004-M-FU-FRA-10A-2004,France F10,Clay,32,S,20040705,24,102646,,PR,Dimitri Lorin,R,,FRA,28.8651608487,102579,,Q,Xavier Audouy,U,,FRA,29.196440794,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,715,18,699,20
 2004-M-FU-FRA-10A-2004,France F10,Clay,32,S,20040705,25,102958,,LL,Julien Cuaz,R,,FRA,27.3018480493,103524,,,Diego Alvarez,R,,ARG,24.3312799452,3-6 6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,1101,4,586,31
 2004-M-FU-FRA-10A-2004,France F10,Clay,32,S,20040705,26,103961,7,,Bertrand Contzler,U,,FRA,22.288843258,103949,,,Ivan Cerovic,L,190,CRO,22.3463381246,6-2 7-5,3,QF,,,,,,,,,,,,,,,,,,,,440,58,507,43
-2004-M-FU-FRA-10A-2004,France F10,Clay,32,S,20040705,27,104721,,,Josselin Ouanna,R,193,FRA,18.2258726899,103926,,,Daniel Munoz De La Nava,L,,ESP,22.431211499,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,513,41,407,70
+2004-M-FU-FRA-10A-2004,France F10,Clay,32,S,20040705,27,104721,,,Josselin Ouanna,R,193,FRA,18.2258726899,103926,,,Daniel Munoz de la Nava,L,,ESP,22.431211499,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,513,41,407,70
 2004-M-FU-FRA-10A-2004,France F10,Clay,32,S,20040705,28,102646,,PR,Dimitri Lorin,R,,FRA,28.8651608487,104397,5,,Laurent Recouderc,R,,FRA,19.9863107461,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,715,18,397,71
 2004-M-FU-FRA-10A-2004,France F10,Clay,32,S,20040705,29,103961,7,,Bertrand Contzler,U,,FRA,22.288843258,102958,,LL,Julien Cuaz,R,,FRA,27.3018480493,6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,440,58,1101,4
 2004-M-FU-FRA-10A-2004,France F10,Clay,32,S,20040705,30,104721,,,Josselin Ouanna,R,193,FRA,18.2258726899,102646,,PR,Dimitri Lorin,R,,FRA,28.8651608487,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,513,41,715,18
@@ -8556,7 +8556,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-CRO-04A-2004,Croatia F4,Clay,32,S,20040816,3,103757,,,Theodor Devoty,U,,CZE,23.3155373032,102514,,,Petr Dezort,R,,CZE,29.5797399042,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,976,6,719,17
 2004-M-FU-CRO-04A-2004,Croatia F4,Clay,32,S,20040816,4,104120,6,,Peter Capkovic,R,,SVK,21.5386721424,104583,,Q,Filip Polasek,R,196,SVK,19.0718685832,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,602,27,1230,3
 2004-M-FU-CRO-04A-2004,Croatia F4,Clay,32,S,20040816,5,104301,,,Frantisek Polyak,R,,SVK,20.5201916496,103949,3,,Ivan Cerovic,L,190,CRO,22.4613278576,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,650,22,450,55
-2004-M-FU-CRO-04A-2004,Croatia F4,Clay,32,S,20040816,6,104320,,,Karel Triska,U,,CZE,20.4517453799,105015,,WC,Franco Skugor,R,193,CRO,16.9062286105,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,833,11,1428,1
+2004-M-FU-CRO-04A-2004,Croatia F4,Clay,32,S,20040816,6,104320,,,Karel Triska,U,,CZE,20.4517453799,105015,,WC,Franko Skugor,R,193,CRO,16.9062286105,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,833,11,1428,1
 2004-M-FU-CRO-04A-2004,Croatia F4,Clay,32,S,20040816,7,104046,,,Bostjan Osabnik,R,,SLO,22.0260095825,111355,,WC,Filip Siladi,R,,CRO,16.9062286105,4-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,715,18,,
 2004-M-FU-CRO-04A-2004,Croatia F4,Clay,32,S,20040816,8,104247,7,,Sebo Kiss,U,,HUN,20.9062286105,104483,,Q,Gordan Peranec,U,,CRO,19.5865845311,6-3 3-6 7-6(10),3,R32,,,,,,,,,,,,,,,,,,,,601,27,1121,4
 2004-M-FU-CRO-04A-2004,Croatia F4,Clay,32,S,20040816,9,110478,5,,Ferran Ventura Martell,R,,ESP,26.2833675565,104471,,,Ivan Dodig,R,183,CRO,19.6194387406,5-7 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,857,10
@@ -9426,7 +9426,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-MEX-12A-2004,Mexico F10,Hard,32,S,20040830,13,109544,,LL,Anthony Law,R,,GBR,25.5414099932,118980,,WC,Jose Diego Martinez Benet,U,,MEX,18.6146475017,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2004-M-FU-MEX-12A-2004,Mexico F10,Hard,32,S,20040830,14,103316,,Q,Victor Romero,R,,MEX,25.5934291581,109496,,,Whi Kim,U,,USA,22.9486652977,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1033,6
 2004-M-FU-MEX-12A-2004,Mexico F10,Hard,32,S,20040830,15,103554,,,Keith From,R,,USA,24.3394934976,102098,,Q,Gerardo Morones,R,,MEX,32.0629705681,6-7(5) 7-6(4) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1325,2,,
-2004-M-FU-MEX-12A-2004,Mexico F10,Hard,32,S,20040830,16,103060,2,,Alejandro Hernandez,R,180,MEX,26.9130732375,105223,,WC,Juan Martin Del Potro,R,198,ARG,15.9342915811,6-4 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,264,136,,
+2004-M-FU-MEX-12A-2004,Mexico F10,Hard,32,S,20040830,16,103060,2,,Alejandro Hernandez,R,180,MEX,26.9130732375,105223,,WC,Juan Martin del Potro,R,198,ARG,15.9342915811,6-4 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,264,136,,
 2004-M-FU-MEX-12A-2004,Mexico F10,Hard,32,S,20040830,17,103746,1,,Miguel Gallardo Valles,R,,MEX,23.394934976,103905,,LL,Ricardo Chile Fonte,U,,CUB,22.6447638604,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,222,171,1204,3
 2004-M-FU-MEX-12A-2004,Mexico F10,Hard,32,S,20040830,18,104466,6,,Robert Haybittel,R,,AUS,19.6933607118,104520,,,Sebastian Salas,U,,MEX,19.4661190965,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,670,22,950,7
 2004-M-FU-MEX-12A-2004,Mexico F10,Hard,32,S,20040830,19,104179,3,,Bruno Echagaray,R,183,MEX,21.3141683778,108651,,Q,Sandor Martinez Breijo,R,,CUB,23.4442162902,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,374,78,,
@@ -9971,7 +9971,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-ARG-06A-2004,Argentina F6,Clay,32,S,20040913,31,104314,4,,Brian Dabul,L,170,ARG,20.553045859,102554,2,,Diego Moyano,R,175,ARG,29.5030800821,7-6(1) 6-1,3,F,,,,,,,,,,,,,,,,,,,,313,102,329,93
 2004-M-FU-ECU-03A-2004,Ecuador F3,Hard,32,S,20040913,1,102740,1,,Francisco Rodriguez,R,,PAR,28.514715948,108949,,WC,Jose Zunino,R,,ECU,17.6235455168,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,380,72,,
 2004-M-FU-ECU-03A-2004,Ecuador F3,Hard,32,S,20040913,2,103097,,,Trevor Spracklin,R,190,USA,26.7405886379,103407,,,Matt Klinger,U,,CAN,25.1608487337,6-7(6) 7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1216,3,755,16
-2004-M-FU-ECU-03A-2004,Ecuador F3,Hard,32,S,20040913,3,104008,,,Carlos Avellan,R,,ECU,22.288843258,105223,,Q,Juan Martin Del Potro,R,198,ARG,15.9726214921,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,634,24,1416,1
+2004-M-FU-ECU-03A-2004,Ecuador F3,Hard,32,S,20040913,3,104008,,,Carlos Avellan,R,,ECU,22.288843258,105223,,Q,Juan Martin del Potro,R,198,ARG,15.9726214921,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,634,24,1416,1
 2004-M-FU-ECU-03A-2004,Ecuador F3,Hard,32,S,20040913,4,103850,5,,Sebastian Decoud,L,178,ARG,22.9869952088,104415,,,Colin Fleming,R,188,GBR,20.0848733744,6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,614,26,1216,3
 2004-M-FU-ECU-03A-2004,Ecuador F3,Hard,32,S,20040913,5,103123,4,,Michal Ciszek,U,,CAN,26.6420260096,119051,,Q,Sebastian Cannata,L,,ARG,20.5284052019,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,571,31,,
 2004-M-FU-ECU-03A-2004,Ecuador F3,Hard,32,S,20040913,6,104089,,Q,Romain Jurd,R,,FRA,21.8124572211,104260,,,Johny De Leon,R,,ECU,20.9089664613,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,872,9
@@ -10255,7 +10255,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-ESP-23A-2004,Spain F23,Hard,32,S,20040913,13,101869,,,Juan Luis Tati Rascon,R,,ESP,33.5359342916,104470,8,,Komlavi Loglo,R,183,TOG,19.704312115,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,529,36,455,53
 2004-M-FU-ESP-23A-2004,Spain F23,Hard,32,S,20040913,14,102506,,WC,Quino Munoz,R,178,ESP,29.6919917864,103543,,Q,David Marrero,R,185,ESP,24.4325804244,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,866,9,504,42
 2004-M-FU-ESP-23A-2004,Spain F23,Hard,32,S,20040913,15,104161,,Q,Tomislav Peric,R,,CRO,21.4291581109,119206,,WC,Jesus Martinez Mozo,U,,ESP,17.4264202601,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,536,35,,
-2004-M-FU-ESP-23A-2004,Spain F23,Hard,32,S,20040913,16,103926,2,,Daniel Munoz De La Nava,L,,ESP,22.6228610541,104629,,SE,Adrian Menendez Maceiras,R,,ESP,18.8774811773,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,364,78,907,8
+2004-M-FU-ESP-23A-2004,Spain F23,Hard,32,S,20040913,16,103926,2,,Daniel Munoz de la Nava,L,,ESP,22.6228610541,104629,,SE,Adrian Menendez Maceiras,R,,ESP,18.8774811773,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,364,78,907,8
 2004-M-FU-ESP-23A-2004,Spain F23,Hard,32,S,20040913,17,105138,,Q,Roberto Bautista Agut,R,183,ESP,16.4161533196,103679,1,,Jeroen Masson,R,,BEL,23.6960985626,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,318,100
 2004-M-FU-ESP-23A-2004,Spain F23,Hard,32,S,20040913,18,104021,6,,Marco Mirnegg,R,180,AUT,22.2231348392,104059,,Q,Rasmus Norby,R,183,DEN,22.0095824778,7-6(3) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,459,51,964,7
 2004-M-FU-ESP-23A-2004,Spain F23,Hard,32,S,20040913,19,117515,,Q,Daniel Dolbea,R,,GER,28.2819986311,103947,4,,Ivan Esquerdo,U,,ESP,22.5434633812,6-4 3-6 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,,,463,50
@@ -10263,7 +10263,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-ESP-23A-2004,Spain F23,Hard,32,S,20040913,21,104614,,,Javier Foronda Bolanos,U,,ESP,18.9596167009,104280,,LL,Rafael Moreno Negrin,R,,ESP,20.7364818617,6-4 5-7 7-5,3,R16,,,,,,,,,,,,,,,,,,,,505,41,872,9
 2004-M-FU-ESP-23A-2004,Spain F23,Hard,32,S,20040913,22,103966,3,,Massimo Ocera,U,,ITA,22.4750171116,103796,,,Marcos Jimenez Letrado,U,,ESP,23.2251882272,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,502,42,464,50
 2004-M-FU-ESP-23A-2004,Spain F23,Hard,32,S,20040913,23,101869,,,Juan Luis Tati Rascon,R,,ESP,33.5359342916,102506,,WC,Quino Munoz,R,178,ESP,29.6919917864,3-6 7-6(2) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,529,36,866,9
-2004-M-FU-ESP-23A-2004,Spain F23,Hard,32,S,20040913,24,104161,,Q,Tomislav Peric,R,,CRO,21.4291581109,103926,2,,Daniel Munoz De La Nava,L,,ESP,22.6228610541,7-6(9) 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,536,35,364,78
+2004-M-FU-ESP-23A-2004,Spain F23,Hard,32,S,20040913,24,104161,,Q,Tomislav Peric,R,,CRO,21.4291581109,103926,2,,Daniel Munoz de la Nava,L,,ESP,22.6228610541,7-6(9) 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,536,35,364,78
 2004-M-FU-ESP-23A-2004,Spain F23,Hard,32,S,20040913,25,104021,6,,Marco Mirnegg,R,180,AUT,22.2231348392,105138,,Q,Roberto Bautista Agut,R,183,ESP,16.4161533196,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,459,51,,
 2004-M-FU-ESP-23A-2004,Spain F23,Hard,32,S,20040913,26,103823,,,Denis Gremelmayr,L,183,GER,23.0773442847,117515,,Q,Daniel Dolbea,R,,GER,28.2819986311,6-2 7-5,3,QF,,,,,,,,,,,,,,,,,,,,701,19,,
 2004-M-FU-ESP-23A-2004,Spain F23,Hard,32,S,20040913,27,103966,3,,Massimo Ocera,U,,ITA,22.4750171116,104614,,,Javier Foronda Bolanos,U,,ESP,18.9596167009,6-2 4-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,502,42,505,41
@@ -10608,7 +10608,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-ESP-24A-2004,Spain F24,Hard,32,S,20040920,2,103947,,,Ivan Esquerdo,U,,ESP,22.5626283368,103796,,,Marcos Jimenez Letrado,U,,ESP,23.2443531828,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,461,50,462,50
 2004-M-FU-ESP-24A-2004,Spain F24,Hard,32,S,20040920,3,104284,,,Frank Condor,U,,ESP,20.6954140999,103543,,Q,David Marrero,R,185,ESP,24.4517453799,7-5 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,539,35,492,42
 2004-M-FU-ESP-24A-2004,Spain F24,Hard,32,S,20040920,4,104054,6,,Daniel Monedero,R,,ESP,22.0588637919,103378,,,Bernard Parun,R,,GER,25.3278576318,7-6(6) 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,432,57,523,37
-2004-M-FU-ESP-24A-2004,Spain F24,Hard,32,S,20040920,5,103926,4,,Daniel Munoz De La Nava,L,,ESP,22.6420260096,119121,,Q,Ignasi Villacampa Roses,R,,ESP,18.5954825462,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,363,78,,
+2004-M-FU-ESP-24A-2004,Spain F24,Hard,32,S,20040920,5,103926,4,,Daniel Munoz de la Nava,L,,ESP,22.6420260096,119121,,Q,Ignasi Villacampa Roses,R,,ESP,18.5954825462,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,363,78,,
 2004-M-FU-ESP-24A-2004,Spain F24,Hard,32,S,20040920,6,104021,,,Marco Mirnegg,R,180,AUT,22.2422997947,104134,,,Bastian Gronefeld,L,,GER,21.5742642026,7-6(6) 7-6(8),3,R32,,,,,,,,,,,,,,,,,,,,407,63,498,41
 2004-M-FU-ESP-24A-2004,Spain F24,Hard,32,S,20040920,7,104470,,,Komlavi Loglo,R,183,TOG,19.7234770705,103966,,,Massimo Ocera,U,,ITA,22.4941820671,6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,452,53,491,42
 2004-M-FU-ESP-24A-2004,Spain F24,Hard,32,S,20040920,8,103641,,Q,Cesar Ferrer Victoria,L,,ESP,23.9507186858,104384,8,,Pablo Santos,R,183,ESP,20.2655715264,4-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,730,18,449,53
@@ -10622,7 +10622,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-ESP-24A-2004,Spain F24,Hard,32,S,20040920,16,103032,2,,Francisco Fogues,L,190,ESP,27.1238877481,103886,,WC,Luis Antonio Perez Perez,R,,ESP,22.7980835044,2-6 6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,336,88,1033,5
 2004-M-FU-ESP-24A-2004,Spain F24,Hard,32,S,20040920,17,103364,1,,Javier Genaro Martinez,R,,ESP,25.3908281999,103947,,,Ivan Esquerdo,U,,ESP,22.5626283368,6-4 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,249,146,461,50
 2004-M-FU-ESP-24A-2004,Spain F24,Hard,32,S,20040920,18,104284,,,Frank Condor,U,,ESP,20.6954140999,104054,6,,Daniel Monedero,R,,ESP,22.0588637919,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,539,35,432,57
-2004-M-FU-ESP-24A-2004,Spain F24,Hard,32,S,20040920,19,104021,,,Marco Mirnegg,R,180,AUT,22.2422997947,103926,4,,Daniel Munoz De La Nava,L,,ESP,22.6420260096,5-7 6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,407,63,363,78
+2004-M-FU-ESP-24A-2004,Spain F24,Hard,32,S,20040920,19,104021,,,Marco Mirnegg,R,180,AUT,22.2422997947,103926,4,,Daniel Munoz de la Nava,L,,ESP,22.6420260096,5-7 6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,407,63,363,78
 2004-M-FU-ESP-24A-2004,Spain F24,Hard,32,S,20040920,20,103641,,Q,Cesar Ferrer Victoria,L,,ESP,23.9507186858,104470,,,Komlavi Loglo,R,183,TOG,19.7234770705,6-2 4-6 7-6(9),3,R16,,,,,,,,,,,,,,,,,,,,730,18,452,53
 2004-M-FU-ESP-24A-2004,Spain F24,Hard,32,S,20040920,21,104719,7,,Marcel Granollers,R,190,ESP,18.4421629021,104161,,Q,Tomislav Peric,R,,CRO,21.4483230664,6-7(3) 7-6(13) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,424,59,541,35
 2004-M-FU-ESP-24A-2004,Spain F24,Hard,32,S,20040920,22,103823,,,Denis Gremelmayr,L,183,GER,23.0965092402,102994,,,Esteban Carril,R,,ESP,27.3264887064,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,720,18,495,41
@@ -11003,7 +11003,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-ESP-25A-2004,Spain F25,Hard,32,S,20040927,2,104437,,,Dekel Valtzer,U,,ISR,19.9835728953,102994,,,Esteban Carril,R,,ESP,27.3456536619,7-6(2) 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,763,15,496,41
 2004-M-FU-ESP-25A-2004,Spain F25,Hard,32,S,20040927,3,104719,,,Marcel Granollers,R,190,ESP,18.4613278576,104869,,Q,Sergei Bubka,R,,UKR,17.6290212183,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,424,59,1172,3
 2004-M-FU-ESP-25A-2004,Spain F25,Hard,32,S,20040927,4,103336,5,,Marko Neunteibl,U,,AUT,25.5523613963,104103,,Q,Arkaitz Manzarbeitia Ugate,U,,ESP,21.7467488022,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,373,75,875,9
-2004-M-FU-ESP-25A-2004,Spain F25,Hard,32,S,20040927,5,103926,4,,Daniel Munoz De La Nava,L,,ESP,22.6611909651,103947,,,Ivan Esquerdo,U,,ESP,22.5817932923,6-2 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,365,78,457,51
+2004-M-FU-ESP-25A-2004,Spain F25,Hard,32,S,20040927,5,103926,4,,Daniel Munoz de la Nava,L,,ESP,22.6611909651,103947,,,Ivan Esquerdo,U,,ESP,22.5817932923,6-2 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,365,78,457,51
 2004-M-FU-ESP-25A-2004,Spain F25,Hard,32,S,20040927,6,104280,,,Rafael Moreno Negrin,R,,ESP,20.7748117728,111603,,Q,Richard Brooks,L,,GBR,23.2963723477,7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,826,11,,
 2004-M-FU-ESP-25A-2004,Spain F25,Hard,32,S,20040927,7,104284,,,Frank Condor,U,,ESP,20.7145790554,104629,,WC,Adrian Menendez Maceiras,R,,ESP,18.9158110883,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,543,35,824,11
 2004-M-FU-ESP-25A-2004,Spain F25,Hard,32,S,20040927,8,104021,7,,Marco Mirnegg,R,180,AUT,22.2614647502,103424,,Q,Tobias Clemens,R,185,GER,25.1225188227,5-7 6-4 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,394,66,1416,1
@@ -11017,14 +11017,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-ESP-25A-2004,Spain F25,Hard,32,S,20040927,16,103448,2,Q,Gabriel Trujillo Soler,R,,ESP,24.9938398357,104091,,,Miguel Angel Lopez Jaen,R,188,ESP,21.8288843258,0-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,331,89,692,20
 2004-M-FU-ESP-25A-2004,Spain F25,Hard,32,S,20040927,17,103936,1,,Todor Enev,R,,BUL,22.6338124572,104437,,,Dekel Valtzer,U,,ISR,19.9835728953,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,283,118,763,15
 2004-M-FU-ESP-25A-2004,Spain F25,Hard,32,S,20040927,18,104719,,,Marcel Granollers,R,190,ESP,18.4613278576,103336,5,,Marko Neunteibl,U,,AUT,25.5523613963,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,424,59,373,75
-2004-M-FU-ESP-25A-2004,Spain F25,Hard,32,S,20040927,19,103926,4,,Daniel Munoz De La Nava,L,,ESP,22.6611909651,104280,,,Rafael Moreno Negrin,R,,ESP,20.7748117728,6-7(8) 6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,365,78,826,11
+2004-M-FU-ESP-25A-2004,Spain F25,Hard,32,S,20040927,19,103926,4,,Daniel Munoz de la Nava,L,,ESP,22.6611909651,104280,,,Rafael Moreno Negrin,R,,ESP,20.7748117728,6-7(8) 6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,365,78,826,11
 2004-M-FU-ESP-25A-2004,Spain F25,Hard,32,S,20040927,20,104021,7,,Marco Mirnegg,R,180,AUT,22.2614647502,104284,,,Frank Condor,U,,ESP,20.7145790554,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,394,66,543,35
 2004-M-FU-ESP-25A-2004,Spain F25,Hard,32,S,20040927,21,104149,6,,Adrian Cruciat,R,,ROU,21.4948665298,104955,,WC,Javier Ruiz Gonzalez,U,,ESP,17.2813141684,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,387,69,1416,1
 2004-M-FU-ESP-25A-2004,Spain F25,Hard,32,S,20040927,22,104207,,Q,Tony Holzinger,R,,GER,21.2539356605,104516,,Q,Arnau Brugues Davi,L,183,ESP,19.5646817248,6-7(5) 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1029,5,1061,5
 2004-M-FU-ESP-25A-2004,Spain F25,Hard,32,S,20040927,23,103796,,,Marcos Jimenez Letrado,U,,ESP,23.2635181383,102828,,,Roberto Menendez,R,,ESP,28.219028063,7-6(7) 6-7(4) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,563,33,562,33
 2004-M-FU-ESP-25A-2004,Spain F25,Hard,32,S,20040927,24,103823,,,Denis Gremelmayr,L,183,GER,23.1156741958,103448,2,Q,Gabriel Trujillo Soler,R,,ESP,24.9938398357,6-7(4) 7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,580,30,331,89
 2004-M-FU-ESP-25A-2004,Spain F25,Hard,32,S,20040927,25,104719,,,Marcel Granollers,R,190,ESP,18.4613278576,103936,1,,Todor Enev,R,,BUL,22.6338124572,6-7(5) 6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,424,59,283,118
-2004-M-FU-ESP-25A-2004,Spain F25,Hard,32,S,20040927,26,104021,7,,Marco Mirnegg,R,180,AUT,22.2614647502,103926,4,,Daniel Munoz De La Nava,L,,ESP,22.6611909651,6-3 3-6 7-6(3),3,QF,,,,,,,,,,,,,,,,,,,,394,66,365,78
+2004-M-FU-ESP-25A-2004,Spain F25,Hard,32,S,20040927,26,104021,7,,Marco Mirnegg,R,180,AUT,22.2614647502,103926,4,,Daniel Munoz de la Nava,L,,ESP,22.6611909651,6-3 3-6 7-6(3),3,QF,,,,,,,,,,,,,,,,,,,,394,66,365,78
 2004-M-FU-ESP-25A-2004,Spain F25,Hard,32,S,20040927,27,104207,,Q,Tony Holzinger,R,,GER,21.2539356605,104149,6,,Adrian Cruciat,R,,ROU,21.4948665298,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,1029,5,387,69
 2004-M-FU-ESP-25A-2004,Spain F25,Hard,32,S,20040927,28,103823,,,Denis Gremelmayr,L,183,GER,23.1156741958,103796,,,Marcos Jimenez Letrado,U,,ESP,23.2635181383,1-6 6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,580,30,563,33
 2004-M-FU-ESP-25A-2004,Spain F25,Hard,32,S,20040927,29,104719,,,Marcel Granollers,R,190,ESP,18.4613278576,104021,7,,Marco Mirnegg,R,180,AUT,22.2614647502,6-4 0-6 6-1,3,SF,,,,,,,,,,,,,,,,,,,,424,59,394,66
@@ -11872,7 +11872,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-CHI-03A-2004,Chile F1,Clay,32,S,20041018,11,103712,,,Rodolfo Daruich,U,,ARG,23.6714579055,105070,,Q,Hans Podlipnik Castillo,R,,CHI,16.7748117728,6-1 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,772,14,,
 2004-M-FU-CHI-03A-2004,Chile F1,Clay,32,S,20041018,12,104148,,,Lionel Noviski,R,,ARG,21.5715263518,103336,4,,Marko Neunteibl,U,,AUT,25.6098562628,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,707,20,469,48
 2004-M-FU-CHI-03A-2004,Chile F1,Clay,32,S,20041018,13,104016,5,,Antonio Pastorino,U,,ARG,22.3463381246,119531,,Q,Davor Zink,U,,CHI,20.2655715264,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,530,37,,
-2004-M-FU-CHI-03A-2004,Chile F1,Clay,32,S,20041018,14,105223,,,Juan Martin Del Potro,R,198,ARG,16.0684462697,103670,,,Alvaro Loyola,R,,CHI,23.8275154004,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1427,1,916,8
+2004-M-FU-CHI-03A-2004,Chile F1,Clay,32,S,20041018,14,105223,,,Juan Martin del Potro,R,198,ARG,16.0684462697,103670,,,Alvaro Loyola,R,,CHI,23.8275154004,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1427,1,916,8
 2004-M-FU-CHI-03A-2004,Chile F1,Clay,32,S,20041018,15,103404,,,Juan Ignacio Destefano,U,,ARG,25.2676249144,105115,,Q,Pedro Graber Anguita,R,,CHI,16.6160164271,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,999,6,,
 2004-M-FU-CHI-03A-2004,Chile F1,Clay,32,S,20041018,16,102554,2,,Diego Moyano,R,175,ARG,29.5989048597,118874,,WC,Carlos Rios,L,,CHI,19.394934976,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,313,98,,
 2004-M-FU-CHI-03A-2004,Chile F1,Clay,32,S,20041018,17,103594,1,,Oliver Marach,R,185,AUT,24.257357974,103572,,Q,Luis Hormazabal,R,,CHI,24.3696098563,6-4 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,255,144,,
@@ -11881,7 +11881,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-CHI-03A-2004,Chile F1,Clay,32,S,20041018,20,103546,,,Patricio Arquez,R,,ARG,24.5174537988,119556,,WC,Alejandro Breve Nieto,U,,CHI,17.1909650924,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,861,10,,
 2004-M-FU-CHI-03A-2004,Chile F1,Clay,32,S,20041018,21,104037,8,,Phillip Harboe,R,,CHI,22.2477754962,104239,,Q,Diego Lopez,U,,ARG,21.1143052704,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,580,31,,
 2004-M-FU-CHI-03A-2004,Chile F1,Clay,32,S,20041018,22,104148,,,Lionel Noviski,R,,ARG,21.5715263518,103712,,,Rodolfo Daruich,U,,ARG,23.6714579055,6-1 2-6 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,707,20,772,14
-2004-M-FU-CHI-03A-2004,Chile F1,Clay,32,S,20041018,23,104016,5,,Antonio Pastorino,U,,ARG,22.3463381246,105223,,,Juan Martin Del Potro,R,198,ARG,16.0684462697,2-6 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,530,37,1427,1
+2004-M-FU-CHI-03A-2004,Chile F1,Clay,32,S,20041018,23,104016,5,,Antonio Pastorino,U,,ARG,22.3463381246,105223,,,Juan Martin del Potro,R,198,ARG,16.0684462697,2-6 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,530,37,1427,1
 2004-M-FU-CHI-03A-2004,Chile F1,Clay,32,S,20041018,24,102554,2,,Diego Moyano,R,175,ARG,29.5989048597,103404,,,Juan Ignacio Destefano,U,,ARG,25.2676249144,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,313,98,999,6
 2004-M-FU-CHI-03A-2004,Chile F1,Clay,32,S,20041018,25,103594,1,,Oliver Marach,R,185,AUT,24.257357974,104395,7,,Marcel Felder,R,,URU,20.2765229295,6-0 6-4,3,QF,,,,,,,,,,,,,,,,,,,,255,144,570,33
 2004-M-FU-CHI-03A-2004,Chile F1,Clay,32,S,20041018,26,104154,3,,Paul Capdeville,R,190,CHI,21.5468856947,103546,,,Patricio Arquez,R,,ARG,24.5174537988,7-6(1) 7-5,3,QF,,,,,,,,,,,,,,,,,,,,421,58,861,10
@@ -11929,7 +11929,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-FRA-18A-2004,France F19,Hard,32,S,20041018,6,103047,,,Julien Varlet,R,180,FRA,27.1101984942,104871,,WC,Jeremy Chardy,R,188,FRA,17.6810403833,6-2 2-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,409,61,1142,3
 2004-M-FU-FRA-18A-2004,France F19,Hard,32,S,20041018,7,103341,,LL,Sylvain Mathias,U,,FRA,25.5989048597,119540,,Q,Heiner Tadault,R,,FRA,21.2539356605,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2004-M-FU-FRA-18A-2004,France F19,Hard,32,S,20041018,8,103938,5,,Igor Zelenay,R,198,SVK,22.6858316222,104924,,WC,Alexandre Penaud,U,,FRA,17.4154688569,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,340,86,,
-2004-M-FU-FRA-18A-2004,France F19,Hard,32,S,20041018,9,103926,8,,Daniel Munoz De La Nava,L,,ESP,22.7186858316,103003,,,Jean Francois Bachelot,R,183,FRA,27.3538672142,5-7 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,369,75,345,85
+2004-M-FU-FRA-18A-2004,France F19,Hard,32,S,20041018,9,103926,8,,Daniel Munoz de la Nava,L,,ESP,22.7186858316,103003,,,Jean Francois Bachelot,R,183,FRA,27.3538672142,5-7 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,369,75,345,85
 2004-M-FU-FRA-18A-2004,France F19,Hard,32,S,20041018,10,102579,,Q,Xavier Audouy,U,,FRA,29.4839151266,104397,,WC,Laurent Recouderc,R,,FRA,20.2737850787,7-6(3) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,672,23,528,37
 2004-M-FU-FRA-18A-2004,France F19,Hard,32,S,20041018,11,104023,,LL,Nicolas Renavand,R,,FRA,22.3162217659,104808,,LL,Philippe Frayssinoux,R,190,FRA,18.0780287474,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,556,34,1427,1
 2004-M-FU-FRA-18A-2004,France F19,Hard,32,S,20041018,12,104191,,,Ismar Gorcic,R,,BIH,21.4099931554,104495,4,,Florin Mergea,R,180,ROU,19.7262149213,6-4 5-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,483,46,284,117
@@ -11941,7 +11941,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-FRA-18A-2004,France F19,Hard,32,S,20041018,18,103961,,,Bertrand Contzler,U,,FRA,22.5763175907,103949,7,,Ivan Cerovic,L,190,CRO,22.6338124572,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,322,93,368,75
 2004-M-FU-FRA-18A-2004,France F19,Hard,32,S,20041018,19,104112,,,Benjamin Balleret,R,185,MON,21.7577002053,103047,,,Julien Varlet,R,180,FRA,27.1101984942,2-6 6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,515,40,409,61
 2004-M-FU-FRA-18A-2004,France F19,Hard,32,S,20041018,20,103938,5,,Igor Zelenay,R,198,SVK,22.6858316222,103341,,LL,Sylvain Mathias,U,,FRA,25.5989048597,6-4 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,340,86,,
-2004-M-FU-FRA-18A-2004,France F19,Hard,32,S,20041018,21,102579,,Q,Xavier Audouy,U,,FRA,29.4839151266,103926,8,,Daniel Munoz De La Nava,L,,ESP,22.7186858316,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,672,23,369,75
+2004-M-FU-FRA-18A-2004,France F19,Hard,32,S,20041018,21,102579,,Q,Xavier Audouy,U,,FRA,29.4839151266,103926,8,,Daniel Munoz de la Nava,L,,ESP,22.7186858316,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,672,23,369,75
 2004-M-FU-FRA-18A-2004,France F19,Hard,32,S,20041018,22,104023,,LL,Nicolas Renavand,R,,FRA,22.3162217659,104191,,,Ismar Gorcic,R,,BIH,21.4099931554,2-6 7-6(1) 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,556,34,483,46
 2004-M-FU-FRA-18A-2004,France F19,Hard,32,S,20041018,23,104272,,,Torsten Popp,R,,GER,20.8980150582,104721,6,,Josselin Ouanna,R,193,FRA,18.5133470226,3-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,454,51,335,88
 2004-M-FU-FRA-18A-2004,France F19,Hard,32,S,20041018,24,105173,,Q,Adrian Mannarino,L,183,FRA,16.3039014374,103953,,Q,Olivier Charroin,L,,FRA,22.6091718001,1-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,1427,1
@@ -12289,7 +12289,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-FRA-19A-2004,France F20,Hard,32,S,20041025,2,104248,,LL,Cyril Baudin,U,,FRA,21.0951403149,104390,,Q,Jonathan Hilaire,R,,FRA,20.3285420945,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,663,23,763,15
 2004-M-FU-FRA-19A-2004,France F20,Hard,32,S,20041025,3,104402,,,Clement Morel,R,,MON,20.2765229295,107670,,Q,Mariano Pettigrosso,U,,ARG,,6-4 6-7(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,670,23,816,12
 2004-M-FU-FRA-19A-2004,France F20,Hard,32,S,20041025,4,104095,5,,David Guez,R,185,FRA,21.8809034908,104871,,WC,Jeremy Chardy,R,188,FRA,17.7002053388,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,412,61,1148,3
-2004-M-FU-FRA-19A-2004,France F20,Hard,32,S,20041025,5,103926,3,,Daniel Munoz De La Nava,L,,ESP,22.7378507871,103226,,Q,Walid Jallali,R,,TUN,26.3216974675,7-6(5) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,372,73,718,19
+2004-M-FU-FRA-19A-2004,France F20,Hard,32,S,20041025,5,103926,3,,Daniel Munoz de la Nava,L,,ESP,22.7378507871,103226,,Q,Walid Jallali,R,,TUN,26.3216974675,7-6(5) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,372,73,718,19
 2004-M-FU-FRA-19A-2004,France F20,Hard,32,S,20041025,6,103029,,,Mehdi Tahiri,R,183,MAR,27.2443531828,104850,,Q,Jonathan Dasnieres De Veigy,L,,FRA,17.8042436687,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,544,36,,
 2004-M-FU-FRA-19A-2004,France F20,Hard,32,S,20041025,7,104183,,,Alexander Flock,R,190,GER,21.4483230664,103250,,WC,Rodolphe Cadart,L,183,FRA,26.2149212868,6-7(13) 7-6(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,477,47,658,23
 2004-M-FU-FRA-19A-2004,France F20,Hard,32,S,20041025,8,104079,8,,Marius Zay,U,,GER,22.0013689254,104350,,,Alex Vittur,U,,ITA,20.5393566051,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,484,46,614,27
@@ -12303,7 +12303,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-FRA-19A-2004,France F20,Hard,32,S,20041025,16,103003,2,,Jean Francois Bachelot,R,183,FRA,27.3730321697,104023,,,Nicolas Renavand,R,,FRA,22.3353867214,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,343,85,563,34
 2004-M-FU-FRA-19A-2004,France F20,Hard,32,S,20041025,17,104468,1,SE,Gilles Simon,R,183,FRA,19.8275154004,104248,,LL,Cyril Baudin,U,,FRA,21.0951403149,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,179,222,663,23
 2004-M-FU-FRA-19A-2004,France F20,Hard,32,S,20041025,18,104402,,,Clement Morel,R,,MON,20.2765229295,104095,5,,David Guez,R,185,FRA,21.8809034908,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,670,23,412,61
-2004-M-FU-FRA-19A-2004,France F20,Hard,32,S,20041025,19,103029,,,Mehdi Tahiri,R,183,MAR,27.2443531828,103926,3,,Daniel Munoz De La Nava,L,,ESP,22.7378507871,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,544,36,372,73
+2004-M-FU-FRA-19A-2004,France F20,Hard,32,S,20041025,19,103029,,,Mehdi Tahiri,R,183,MAR,27.2443531828,103926,3,,Daniel Munoz de la Nava,L,,ESP,22.7378507871,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,544,36,372,73
 2004-M-FU-FRA-19A-2004,France F20,Hard,32,S,20041025,20,104183,,,Alexander Flock,R,190,GER,21.4483230664,104079,8,,Marius Zay,U,,GER,22.0013689254,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,477,47,484,46
 2004-M-FU-FRA-19A-2004,France F20,Hard,32,S,20041025,21,104272,6,,Torsten Popp,R,,GER,20.9171800137,104257,,WC,Pierre Metenier,U,,FRA,21.029431896,3-6 6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,441,54,,
 2004-M-FU-FRA-19A-2004,France F20,Hard,32,S,20041025,22,104351,,Q,Benjamin Dracos,U,,FRA,20.5229295003,107016,,Q,Florent Scaccianoce,U,,FRA,,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1180,3,1428,1
@@ -12739,7 +12739,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-BRA-12A-2004,Brazil F12,Clay,32,S,20041101,3,104442,,,Alexandre Bonatto,R,,BRA,20.0629705681,119591,,WC,Andre Cervelatti,U,,BRA,25.196440794,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,749,17,,
 2004-M-FU-BRA-12A-2004,Brazil F12,Clay,32,S,20041101,4,103904,8,,Alberto Soriano,U,,ESP,22.8199863107,118932,,Q,Francisco Beltrami,R,,ARG,18.4038329911,7-5 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,607,29,,
 2004-M-FU-BRA-12A-2004,Brazil F12,Clay,32,S,20041101,5,103987,4,,Alessandro Camarco,R,,BRA,22.5215605749,105064,,Q,Thomaz Bellucci,L,188,BRA,16.8405201916,3-6 6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,499,43,1431,1
-2004-M-FU-BRA-12A-2004,Brazil F12,Clay,32,S,20041101,6,105223,,Q,Juan Martin Del Potro,R,198,ARG,16.1067761807,104060,,WC,Henrique Mello,U,,BRA,22.1409993155,6-0 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1318,2,1431,1
+2004-M-FU-BRA-12A-2004,Brazil F12,Clay,32,S,20041101,6,105223,,Q,Juan Martin del Potro,R,198,ARG,16.1067761807,104060,,WC,Henrique Mello,U,,BRA,22.1409993155,6-0 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1318,2,1431,1
 2004-M-FU-BRA-12A-2004,Brazil F12,Clay,32,S,20041101,7,104513,,Q,Leandro Migani,R,,ARG,19.6687200548,104367,,,Charly Villeneuve,R,,FRA,20.4654346338,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1318,2,908,8
 2004-M-FU-BRA-12A-2004,Brazil F12,Clay,32,S,20041101,8,103848,7,,Agustin Tarantino,R,,ARG,23.1293634497,103493,,,Eduardo Bohrer,R,,BRA,24.7912388775,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,597,30,616,27
 2004-M-FU-BRA-12A-2004,Brazil F12,Clay,32,S,20041101,9,104007,5,,Andre Ghem,R,193,BRA,22.4284736482,118406,,,Felipe Lemos,U,,BRA,20.977412731,3-6 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,532,38,,
@@ -12752,14 +12752,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-BRA-12A-2004,Brazil F12,Clay,32,S,20041101,16,103883,2,,Lucas Engel,U,,BRA,22.9185489391,104738,,Q,Caio Zampieri,R,183,BRA,18.4339493498,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,480,47,1318,2
 2004-M-FU-BRA-12A-2004,Brazil F12,Clay,32,S,20041101,17,102239,1,,Francisco Costa,R,180,BRA,31.3456536619,103563,,,Gabriel Pitta,R,,BRA,24.4736481862,6-2 3-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,336,87,632,26
 2004-M-FU-BRA-12A-2004,Brazil F12,Clay,32,S,20041101,18,104442,,,Alexandre Bonatto,R,,BRA,20.0629705681,103904,8,,Alberto Soriano,U,,ESP,22.8199863107,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,749,17,607,29
-2004-M-FU-BRA-12A-2004,Brazil F12,Clay,32,S,20041101,19,105223,,Q,Juan Martin Del Potro,R,198,ARG,16.1067761807,103987,4,,Alessandro Camarco,R,,BRA,22.5215605749,6-3 4-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,1318,2,499,43
+2004-M-FU-BRA-12A-2004,Brazil F12,Clay,32,S,20041101,19,105223,,Q,Juan Martin del Potro,R,198,ARG,16.1067761807,103987,4,,Alessandro Camarco,R,,BRA,22.5215605749,6-3 4-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,1318,2,499,43
 2004-M-FU-BRA-12A-2004,Brazil F12,Clay,32,S,20041101,20,103848,7,,Agustin Tarantino,R,,ARG,23.1293634497,104513,,Q,Leandro Migani,R,,ARG,19.6687200548,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,597,30,1318,2
 2004-M-FU-BRA-12A-2004,Brazil F12,Clay,32,S,20041101,21,104007,5,,Andre Ghem,R,193,BRA,22.4284736482,104085,,WC,Henrique Pinto Silva,R,,BRA,21.9603011636,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,532,38,841,11
 2004-M-FU-BRA-12A-2004,Brazil F12,Clay,32,S,20041101,22,103770,3,,Kevin Sorensen,R,183,IRL,23.4798083504,118596,,Q,Carlos Cirne Lima,R,,BRA,20.2464065708,6-3 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,465,49,1431,1
 2004-M-FU-BRA-12A-2004,Brazil F12,Clay,32,S,20041101,23,103999,6,,Thiago Alves,R,178,BRA,22.4476386037,104550,,Q,Ricardo Hocevar,R,180,BRA,19.4934976044,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,486,45,1318,2
 2004-M-FU-BRA-12A-2004,Brazil F12,Clay,32,S,20041101,24,103883,2,,Lucas Engel,U,,BRA,22.9185489391,102242,,,Bart Beks,R,,NED,31.3292265572,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,480,47,611,28
 2004-M-FU-BRA-12A-2004,Brazil F12,Clay,32,S,20041101,25,102239,1,,Francisco Costa,R,180,BRA,31.3456536619,104442,,,Alexandre Bonatto,R,,BRA,20.0629705681,7-6(3) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,336,87,749,17
-2004-M-FU-BRA-12A-2004,Brazil F12,Clay,32,S,20041101,26,103848,7,,Agustin Tarantino,R,,ARG,23.1293634497,105223,,Q,Juan Martin Del Potro,R,198,ARG,16.1067761807,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,597,30,1318,2
+2004-M-FU-BRA-12A-2004,Brazil F12,Clay,32,S,20041101,26,103848,7,,Agustin Tarantino,R,,ARG,23.1293634497,105223,,Q,Juan Martin del Potro,R,198,ARG,16.1067761807,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,597,30,1318,2
 2004-M-FU-BRA-12A-2004,Brazil F12,Clay,32,S,20041101,27,104007,5,,Andre Ghem,R,193,BRA,22.4284736482,103770,3,,Kevin Sorensen,R,183,IRL,23.4798083504,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,532,38,465,49
 2004-M-FU-BRA-12A-2004,Brazil F12,Clay,32,S,20041101,28,103999,6,,Thiago Alves,R,178,BRA,22.4476386037,103883,2,,Lucas Engel,U,,BRA,22.9185489391,4-6 6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,486,45,480,47
 2004-M-FU-BRA-12A-2004,Brazil F12,Clay,32,S,20041101,29,102239,1,,Francisco Costa,R,180,BRA,31.3456536619,103848,7,,Agustin Tarantino,R,,ARG,23.1293634497,7-5 7-5,3,SF,,,,,,,,,,,,,,,,,,,,336,87,597,30
@@ -12894,7 +12894,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-BRA-13A-2004,Brazil F13,Clay,32,S,20041108,3,104085,,,Henrique Pinto Silva,R,,BRA,21.9794661191,105064,,Q,Thomaz Bellucci,L,188,BRA,16.8596851472,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,859,10,1431,1
 2004-M-FU-BRA-13A-2004,Brazil F13,Clay,32,S,20041108,4,104655,,,Pablo Cuevas,R,180,URU,18.8528405202,103563,8,,Gabriel Pitta,R,,BRA,24.4928131417,6-2 3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,863,10,636,26
 2004-M-FU-BRA-13A-2004,Brazil F13,Clay,32,S,20041108,5,103999,3,,Thiago Alves,R,178,BRA,22.4668035592,103233,,WC,Leonardo Silva,R,,BRA,26.3162217659,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,433,57,,
-2004-M-FU-BRA-13A-2004,Brazil F13,Clay,32,S,20041108,6,105223,,Q,Juan Martin Del Potro,R,198,ARG,16.1259411362,119529,,Q,Bernardo Omar Palacios,L,,ARG,19.8001368925,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1317,2,1156,3
+2004-M-FU-BRA-13A-2004,Brazil F13,Clay,32,S,20041108,6,105223,,Q,Juan Martin del Potro,R,198,ARG,16.1259411362,119529,,Q,Bernardo Omar Palacios,L,,ARG,19.8001368925,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1317,2,1156,3
 2004-M-FU-BRA-13A-2004,Brazil F13,Clay,32,S,20041108,7,104063,,,Mait Kunnap,R,,EST,22.1273100616,104550,,WC,Ricardo Hocevar,R,180,BRA,19.5126625599,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,953,7,1231,3
 2004-M-FU-BRA-13A-2004,Brazil F13,Clay,32,S,20041108,8,104903,,,Andre Miele,R,,BRA,17.5770020534,104605,7,,Adam Vejmelka,R,,CZE,19.1485284052,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1143,4,621,27
 2004-M-FU-BRA-13A-2004,Brazil F13,Clay,32,S,20041108,9,104300,,,Eduardo Portal,L,,BRA,20.7556468172,102242,6,,Bart Beks,R,,NED,31.3483915127,6-3 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,900,8,605,29
@@ -12907,7 +12907,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-BRA-13A-2004,Brazil F13,Clay,32,S,20041108,16,118406,,,Felipe Lemos,U,,BRA,20.9965776865,103770,2,,Kevin Sorensen,R,183,IRL,23.498973306,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,459,52
 2004-M-FU-BRA-13A-2004,Brazil F13,Clay,32,S,20041108,17,104900,,Q,Raony Carvalho,R,,BRA,17.582477755,104440,,Q,Eric Gomes,R,,BRA,20.0848733744,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1317,2,1317,2
 2004-M-FU-BRA-13A-2004,Brazil F13,Clay,32,S,20041108,18,104655,,,Pablo Cuevas,R,180,URU,18.8528405202,104085,,,Henrique Pinto Silva,R,,BRA,21.9794661191,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,863,10,859,10
-2004-M-FU-BRA-13A-2004,Brazil F13,Clay,32,S,20041108,19,103999,3,,Thiago Alves,R,178,BRA,22.4668035592,105223,,Q,Juan Martin Del Potro,R,198,ARG,16.1259411362,5-7 7-6(5) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,433,57,1317,2
+2004-M-FU-BRA-13A-2004,Brazil F13,Clay,32,S,20041108,19,103999,3,,Thiago Alves,R,178,BRA,22.4668035592,105223,,Q,Juan Martin del Potro,R,198,ARG,16.1259411362,5-7 7-6(5) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,433,57,1317,2
 2004-M-FU-BRA-13A-2004,Brazil F13,Clay,32,S,20041108,20,104063,,,Mait Kunnap,R,,EST,22.1273100616,104903,,,Andre Miele,R,,BRA,17.5770020534,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,953,7,1143,4
 2004-M-FU-BRA-13A-2004,Brazil F13,Clay,32,S,20041108,21,104300,,,Eduardo Portal,L,,BRA,20.7556468172,119399,,LL,Felipe Fingerl,U,,BRA,19.2744695414,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,900,8,1231,3
 2004-M-FU-BRA-13A-2004,Brazil F13,Clay,32,S,20041108,22,104007,4,,Andre Ghem,R,193,BRA,22.4476386037,104513,,Q,Leandro Migani,R,,ARG,19.6878850103,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,542,37,1317,2
@@ -13497,7 +13497,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-ESP-31A-2004,Spain F31,Clay,32,S,20041115,2,104739,,LL,Guillermo Alcaide,R,188,ESP,18.4722792608,105008,,Q,Ignacio Coll Riudavets,R,,ESP,17.196440794,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1320,2,1428,1
 2004-M-FU-ESP-31A-2004,Spain F31,Clay,32,S,20041115,3,104194,,,Ruben Merchan,R,,ESP,21.4729637235,119544,,WC,Cornelio Puye Sale,U,,ESP,17.158110883,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,547,36,,
 2004-M-FU-ESP-31A-2004,Spain F31,Clay,32,S,20041115,4,104384,8,,Pablo Santos,R,183,ESP,20.4188911704,103954,,Q,Christian Banzer,R,,GER,22.6830937714,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,451,53,,
-2004-M-FU-ESP-31A-2004,Spain F31,Clay,32,S,20041115,5,103926,3,,Daniel Munoz De La Nava,L,,ESP,22.7953456537,103927,,LL,Jose Carlos Garcia Sanchez,U,,ESP,22.7953456537,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,375,73,868,10
+2004-M-FU-ESP-31A-2004,Spain F31,Clay,32,S,20041115,5,103926,3,,Daniel Munoz de la Nava,L,,ESP,22.7953456537,103927,,LL,Jose Carlos Garcia Sanchez,U,,ESP,22.7953456537,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,375,73,868,10
 2004-M-FU-ESP-31A-2004,Spain F31,Clay,32,S,20041115,6,103922,,Q,Marcos Conde Jackson,R,,ESP,22.8090349076,104280,,Q,Rafael Moreno Negrin,R,,ESP,20.9089664613,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,809,13,786,14
 2004-M-FU-ESP-31A-2004,Spain F31,Clay,32,S,20041115,7,103399,,Q,Carlos Rexach Itoiz,U,,ESP,25.3689253936,104376,,Q,David Ollivier Baquero,U,,ESP,20.4654346338,6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,845,11,1320,2
 2004-M-FU-ESP-31A-2004,Spain F31,Clay,32,S,20041115,8,104170,5,,Hector Ruiz Cadenas,U,,ESP,21.5550992471,118318,,LL,Acaymo Medina Rivero,R,,ESP,21.3305954825,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,418,60,1428,1
@@ -13511,19 +13511,19 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-ESP-31A-2004,Spain F31,Clay,32,S,20041115,16,103912,,Q,Mario Radic,R,188,CRO,22.8364134155,103365,2,,Javier Garcia Sintes,R,,ESP,25.5414099932,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,340,84
 2004-M-FU-ESP-31A-2004,Spain F31,Clay,32,S,20041115,17,104585,,,Gyorgy Balazs,R,,HUN,19.3127994524,104739,,LL,Guillermo Alcaide,R,188,ESP,18.4722792608,2-6 7-6(2) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,722,19,1320,2
 2004-M-FU-ESP-31A-2004,Spain F31,Clay,32,S,20041115,18,104194,,,Ruben Merchan,R,,ESP,21.4729637235,104384,8,,Pablo Santos,R,183,ESP,20.4188911704,W/O,3,R16,,,,,,,,,,,,,,,,,,,,547,36,451,53
-2004-M-FU-ESP-31A-2004,Spain F31,Clay,32,S,20041115,19,103926,3,,Daniel Munoz De La Nava,L,,ESP,22.7953456537,103922,,Q,Marcos Conde Jackson,R,,ESP,22.8090349076,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,375,73,809,13
+2004-M-FU-ESP-31A-2004,Spain F31,Clay,32,S,20041115,19,103926,3,,Daniel Munoz de la Nava,L,,ESP,22.7953456537,103922,,Q,Marcos Conde Jackson,R,,ESP,22.8090349076,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,375,73,809,13
 2004-M-FU-ESP-31A-2004,Spain F31,Clay,32,S,20041115,20,103399,,Q,Carlos Rexach Itoiz,U,,ESP,25.3689253936,104170,5,,Hector Ruiz Cadenas,U,,ESP,21.5550992471,3-6 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,845,11,418,60
 2004-M-FU-ESP-31A-2004,Spain F31,Clay,32,S,20041115,21,104284,,,Frank Condor,U,,ESP,20.848733744,104831,7,,Bartolome Salva Vidal,L,183,ESP,17.9876796715,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,511,42,428,58
 2004-M-FU-ESP-31A-2004,Spain F31,Clay,32,S,20041115,22,104349,,,Rui Machado,R,178,POR,20.5995893224,103543,,,David Marrero,R,185,ESP,24.605065024,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,454,53,529,40
 2004-M-FU-ESP-31A-2004,Spain F31,Clay,32,S,20041115,23,104062,6,,Alejandro Vargas Aboy,U,,ESP,22.1492128679,109058,,WC,Narciso Reyes Rygh,R,,ESP,24.8678986995,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,421,59,,
 2004-M-FU-ESP-31A-2004,Spain F31,Clay,32,S,20041115,24,103912,,Q,Mario Radic,R,188,CRO,22.8364134155,104185,,,Dusan Karol,R,,CZE,21.4948665298,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,475,49
 2004-M-FU-ESP-31A-2004,Spain F31,Clay,32,S,20041115,25,104585,,,Gyorgy Balazs,R,,HUN,19.3127994524,104194,,,Ruben Merchan,R,,ESP,21.4729637235,6-3 7-6(6),3,QF,,,,,,,,,,,,,,,,,,,,722,19,547,36
-2004-M-FU-ESP-31A-2004,Spain F31,Clay,32,S,20041115,26,103926,3,,Daniel Munoz De La Nava,L,,ESP,22.7953456537,103399,,Q,Carlos Rexach Itoiz,U,,ESP,25.3689253936,3-6 6-4 7-6(1),3,QF,,,,,,,,,,,,,,,,,,,,375,73,845,11
+2004-M-FU-ESP-31A-2004,Spain F31,Clay,32,S,20041115,26,103926,3,,Daniel Munoz de la Nava,L,,ESP,22.7953456537,103399,,Q,Carlos Rexach Itoiz,U,,ESP,25.3689253936,3-6 6-4 7-6(1),3,QF,,,,,,,,,,,,,,,,,,,,375,73,845,11
 2004-M-FU-ESP-31A-2004,Spain F31,Clay,32,S,20041115,27,104284,,,Frank Condor,U,,ESP,20.848733744,104349,,,Rui Machado,R,178,POR,20.5995893224,5-7 6-3 7-5,3,QF,,,,,,,,,,,,,,,,,,,,511,42,454,53
 2004-M-FU-ESP-31A-2004,Spain F31,Clay,32,S,20041115,28,103912,,Q,Mario Radic,R,188,CRO,22.8364134155,104062,6,,Alejandro Vargas Aboy,U,,ESP,22.1492128679,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,421,59
-2004-M-FU-ESP-31A-2004,Spain F31,Clay,32,S,20041115,29,103926,3,,Daniel Munoz De La Nava,L,,ESP,22.7953456537,104585,,,Gyorgy Balazs,R,,HUN,19.3127994524,7-5 6-2,3,SF,,,,,,,,,,,,,,,,,,,,375,73,722,19
+2004-M-FU-ESP-31A-2004,Spain F31,Clay,32,S,20041115,29,103926,3,,Daniel Munoz de la Nava,L,,ESP,22.7953456537,104585,,,Gyorgy Balazs,R,,HUN,19.3127994524,7-5 6-2,3,SF,,,,,,,,,,,,,,,,,,,,375,73,722,19
 2004-M-FU-ESP-31A-2004,Spain F31,Clay,32,S,20041115,30,104284,,,Frank Condor,U,,ESP,20.848733744,103912,,Q,Mario Radic,R,188,CRO,22.8364134155,6-3 2-6 6-1,3,SF,,,,,,,,,,,,,,,,,,,,511,42,,
-2004-M-FU-ESP-31A-2004,Spain F31,Clay,32,S,20041115,31,104284,,,Frank Condor,U,,ESP,20.848733744,103926,3,,Daniel Munoz De La Nava,L,,ESP,22.7953456537,7-6(3) 3-6 6-4,3,F,,,,,,,,,,,,,,,,,,,,511,42,375,73
+2004-M-FU-ESP-31A-2004,Spain F31,Clay,32,S,20041115,31,104284,,,Frank Condor,U,,ESP,20.848733744,103926,3,,Daniel Munoz de la Nava,L,,ESP,22.7953456537,7-6(3) 3-6 6-4,3,F,,,,,,,,,,,,,,,,,,,,511,42,375,73
 2004-M-FU-TUN-04A-2004,Tunisia F4,Hard,32,S,20041115,1,104228,1,,Guillem Burniol,R,,ESP,21.2566735113,103941,,,Sergei Pozdnev,R,,RUS,22.7488021903,6-4 1-6 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,383,68,621,27
 2004-M-FU-TUN-04A-2004,Tunisia F4,Hard,32,S,20041115,2,110561,,Q,Pawel Dilaj,R,,POL,,104849,,WC,Hakim Rezgui,U,,TUN,17.8726899384,3-6 6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2004-M-FU-TUN-04A-2004,Tunisia F4,Hard,32,S,20041115,3,104807,,Q,Mehdi Ziadi,R,,MAR,18.1546885695,104304,,,Stefan Wiespeiner,R,,AUT,20.7638603696,6-2 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,1028,5,774,15
@@ -13558,7 +13558,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-URU-02A-2004,Uruguay F1,Clay,32,S,20041115,1,104216,1,,Maximo Gonzalez,R,175,ARG,21.325119781,104367,,LL,Charly Villeneuve,R,,FRA,20.5037645448,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,518,41,839,11
 2004-M-FU-URU-02A-2004,Uruguay F1,Clay,32,S,20041115,2,103624,,Q,Sebastian Uriarte,R,,ARG,24.2080766598,119157,,WC,Diego Ksiazenicki,U,,URU,17.8015058179,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1035,5,,
 2004-M-FU-URU-02A-2004,Uruguay F1,Clay,32,S,20041115,3,104655,,WC,Pablo Cuevas,R,180,URU,18.8720054757,104421,,,Martin Vilarrubi,R,,URU,20.2026009582,7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,863,10,785,14
-2004-M-FU-URU-02A-2004,Uruguay F1,Clay,32,S,20041115,4,103675,5,,Diego Junqueira,L,178,ARG,23.8822724162,105223,,Q,Juan Martin Del Potro,R,198,ARG,16.1451060917,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,576,33,1117,4
+2004-M-FU-URU-02A-2004,Uruguay F1,Clay,32,S,20041115,4,103675,5,,Diego Junqueira,L,178,ARG,23.8822724162,105223,,Q,Juan Martin del Potro,R,198,ARG,16.1451060917,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,576,33,1117,4
 2004-M-FU-URU-02A-2004,Uruguay F1,Clay,32,S,20041115,5,104253,4,,Juan Martin Aranguren,R,,ARG,21.1088295688,104547,,,Horacio Zeballos,L,188,ARG,19.5537303217,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,543,37,685,22
 2004-M-FU-URU-02A-2004,Uruguay F1,Clay,32,S,20041115,6,103095,,Q,Patricio Rudi,R,,ARG,26.9158110883,103742,,,Diego Cristin,R,,ARG,23.613963039,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,895,8,863,10
 2004-M-FU-URU-02A-2004,Uruguay F1,Clay,32,S,20041115,7,104926,,,Fabio Fognini,R,178,ITA,17.4811772758,104513,,Q,Leandro Migani,R,,ARG,19.7070499658,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,802,13,1233,3
@@ -13622,7 +13622,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-ARG-07A-2004,Argentina F7,Clay,32,S,20041122,3,103712,,,Rodolfo Daruich,U,,ARG,23.7672826831,104477,,,Jorge Aguilar,R,,CHI,19.871321013,6-4 5-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,772,15,592,31
 2004-M-FU-ARG-07A-2004,Argentina F7,Clay,32,S,20041122,4,104148,6,,Lionel Noviski,R,,ARG,21.6673511294,103689,,,Guillermo Carry,L,,ARG,23.8521560575,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,575,33,744,18
 2004-M-FU-ARG-07A-2004,Argentina F7,Clay,32,S,20041122,5,104016,4,,Antonio Pastorino,U,,ARG,22.4421629021,103775,,,Felipe Parada,R,175,CHI,23.5208761123,3-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,548,37,606,29
-2004-M-FU-ARG-07A-2004,Argentina F7,Clay,32,S,20041122,6,105223,,WC,Juan Martin Del Potro,R,198,ARG,16.1642710472,104713,,SE,Juan Pablo Amado,R,,ARG,18.6420260096,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1077,5,998,6
+2004-M-FU-ARG-07A-2004,Argentina F7,Clay,32,S,20041122,6,105223,,WC,Juan Martin del Potro,R,198,ARG,16.1642710472,104713,,SE,Juan Pablo Amado,R,,ARG,18.6420260096,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1077,5,998,6
 2004-M-FU-ARG-07A-2004,Argentina F7,Clay,32,S,20041122,7,104640,,WC,Pablo Galdon,R,,ARG,18.984257358,103546,,,Patricio Arquez,R,,ARG,24.6132785763,6-4 4-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,998,6,890,9
 2004-M-FU-ARG-07A-2004,Argentina F7,Clay,32,S,20041122,8,103634,8,,Emiliano Redondi,R,,ARG,24.1834360027,104367,,LL,Charly Villeneuve,R,,FRA,20.5229295003,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,443,57,843,11
 2004-M-FU-ARG-07A-2004,Argentina F7,Clay,32,S,20041122,9,103848,7,,Agustin Tarantino,R,,ARG,23.1868583162,104851,,Q,Gianluca Naso,R,,ITA,17.87816564,2-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,518,42,1008,6
@@ -13635,7 +13635,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-ARG-07A-2004,Argentina F7,Clay,32,S,20041122,16,104208,2,,Damian Patriarca,R,,ARG,21.4045174538,104826,,Q,Federico Sansonetti,R,,URU,18.045174538,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,340,88,,
 2004-M-FU-ARG-07A-2004,Argentina F7,Clay,32,S,20041122,17,104547,,,Horacio Zeballos,L,188,ARG,19.5728952772,103587,1,,Andres Dellatorre,R,190,ARG,24.372347707,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,687,22,300,110
 2004-M-FU-ARG-07A-2004,Argentina F7,Clay,32,S,20041122,18,103712,,,Rodolfo Daruich,U,,ARG,23.7672826831,104148,6,,Lionel Noviski,R,,ARG,21.6673511294,2-6 6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,772,15,575,33
-2004-M-FU-ARG-07A-2004,Argentina F7,Clay,32,S,20041122,19,104016,4,,Antonio Pastorino,U,,ARG,22.4421629021,105223,,WC,Juan Martin Del Potro,R,198,ARG,16.1642710472,5-7 6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,548,37,1077,5
+2004-M-FU-ARG-07A-2004,Argentina F7,Clay,32,S,20041122,19,104016,4,,Antonio Pastorino,U,,ARG,22.4421629021,105223,,WC,Juan Martin del Potro,R,198,ARG,16.1642710472,5-7 6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,548,37,1077,5
 2004-M-FU-ARG-07A-2004,Argentina F7,Clay,32,S,20041122,20,103634,8,,Emiliano Redondi,R,,ARG,24.1834360027,104640,,WC,Pablo Galdon,R,,ARG,18.984257358,6-4 3-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,443,57,998,6
 2004-M-FU-ARG-07A-2004,Argentina F7,Clay,32,S,20041122,21,104926,,,Fabio Fognini,R,178,ITA,17.5003422313,103848,7,,Agustin Tarantino,R,,ARG,23.1868583162,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,786,14,518,42
 2004-M-FU-ARG-07A-2004,Argentina F7,Clay,32,S,20041122,22,104216,3,,Maximo Gonzalez,R,175,ARG,21.3442847365,104421,,,Martin Vilarrubi,R,,URU,20.2217659138,3-6 6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,516,42,808,13
@@ -13892,7 +13892,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-ESP-32A-2004,Spain F32,Clay,32,S,20041122,2,103543,,,David Marrero,R,185,ESP,24.6242299795,103399,,,Carlos Rexach Itoiz,U,,ESP,25.3880903491,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,532,40,847,11
 2004-M-FU-ESP-32A-2004,Spain F32,Clay,32,S,20041122,3,103922,,,Marcos Conde Jackson,R,,ESP,22.8281998631,118318,,WC,Acaymo Medina Rivero,R,,ESP,21.3497604381,6-1 4-6 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,813,13,1447,1
 2004-M-FU-ESP-32A-2004,Spain F32,Clay,32,S,20041122,4,104170,5,,Hector Ruiz Cadenas,U,,ESP,21.5742642026,105008,,Q,Ignacio Coll Riudavets,R,,ESP,17.2156057495,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,427,60,1447,1
-2004-M-FU-ESP-32A-2004,Spain F32,Clay,32,S,20041122,5,103926,3,,Daniel Munoz De La Nava,L,,ESP,22.8145106092,104284,,,Frank Condor,U,,ESP,20.8678986995,7-6(2) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,380,73,515,42
+2004-M-FU-ESP-32A-2004,Spain F32,Clay,32,S,20041122,5,103926,3,,Daniel Munoz de la Nava,L,,ESP,22.8145106092,104284,,,Frank Condor,U,,ESP,20.8678986995,7-6(2) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,380,73,515,42
 2004-M-FU-ESP-32A-2004,Spain F32,Clay,32,S,20041122,6,103873,,,Antonio Baldellou Esteva,U,,ESP,23.0390143737,103927,,,Jose Carlos Garcia Sanchez,U,,ESP,22.8145106092,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,494,46,872,10
 2004-M-FU-ESP-32A-2004,Spain F32,Clay,32,S,20041122,7,103599,,,Jordi Marse Vidri,U,,ESP,24.3394934976,102859,,Q,Luis Maria Zapata,U,,ESP,28.1916495551,6-7(6) 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,803,13,1017,6
 2004-M-FU-ESP-32A-2004,Spain F32,Clay,32,S,20041122,8,104194,,,Ruben Merchan,R,,ESP,21.492128679,104185,8,,Dusan Karol,R,,CZE,21.5140314853,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,553,36,473,50
@@ -13906,19 +13906,19 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-ESP-32A-2004,Spain F32,Clay,32,S,20041122,16,103912,,PR,Mario Radic,R,188,CRO,22.855578371,103365,2,,Javier Garcia Sintes,R,,ESP,25.5605749487,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,347,84
 2004-M-FU-ESP-32A-2004,Spain F32,Clay,32,S,20041122,17,103543,,,David Marrero,R,185,ESP,24.6242299795,103448,1,,Gabriel Trujillo Soler,R,,ESP,25.1471594798,6-7(2) 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,532,40,335,90
 2004-M-FU-ESP-32A-2004,Spain F32,Clay,32,S,20041122,18,104170,5,,Hector Ruiz Cadenas,U,,ESP,21.5742642026,103922,,,Marcos Conde Jackson,R,,ESP,22.8281998631,5-7 7-6(5) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,427,60,813,13
-2004-M-FU-ESP-32A-2004,Spain F32,Clay,32,S,20041122,19,103926,3,,Daniel Munoz De La Nava,L,,ESP,22.8145106092,103873,,,Antonio Baldellou Esteva,U,,ESP,23.0390143737,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,380,73,494,46
+2004-M-FU-ESP-32A-2004,Spain F32,Clay,32,S,20041122,19,103926,3,,Daniel Munoz de la Nava,L,,ESP,22.8145106092,103873,,,Antonio Baldellou Esteva,U,,ESP,23.0390143737,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,380,73,494,46
 2004-M-FU-ESP-32A-2004,Spain F32,Clay,32,S,20041122,20,104194,,,Ruben Merchan,R,,ESP,21.492128679,103599,,,Jordi Marse Vidri,U,,ESP,24.3394934976,7-6(3) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,553,36,803,13
 2004-M-FU-ESP-32A-2004,Spain F32,Clay,32,S,20041122,21,104349,7,,Rui Machado,R,178,POR,20.6187542779,118475,,Q,Georges Israel,R,,FRA,21.5140314853,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,459,53,1253,3
 2004-M-FU-ESP-32A-2004,Spain F32,Clay,32,S,20041122,22,102828,,,Roberto Menendez,R,,ESP,28.372347707,104585,,,Gyorgy Balazs,R,,HUN,19.3319644079,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,580,33,731,19
 2004-M-FU-ESP-32A-2004,Spain F32,Clay,32,S,20041122,23,104062,6,,Alejandro Vargas Aboy,U,,ESP,22.1683778234,104280,,,Rafael Moreno Negrin,R,,ESP,20.9281314168,6-3 3-6 6-0,3,R16,,,,,,,,,,,,,,,,,,,,434,59,792,14
 2004-M-FU-ESP-32A-2004,Spain F32,Clay,32,S,20041122,24,103912,,PR,Mario Radic,R,188,CRO,22.855578371,107656,,Q,Marco Gualdi,U,,ITA,,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,1008,6
 2004-M-FU-ESP-32A-2004,Spain F32,Clay,32,S,20041122,25,103543,,,David Marrero,R,185,ESP,24.6242299795,104170,5,,Hector Ruiz Cadenas,U,,ESP,21.5742642026,6-1 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,532,40,427,60
-2004-M-FU-ESP-32A-2004,Spain F32,Clay,32,S,20041122,26,103926,3,,Daniel Munoz De La Nava,L,,ESP,22.8145106092,104194,,,Ruben Merchan,R,,ESP,21.492128679,4-6 6-3 5-5 RET,3,QF,,,,,,,,,,,,,,,,,,,,380,73,553,36
+2004-M-FU-ESP-32A-2004,Spain F32,Clay,32,S,20041122,26,103926,3,,Daniel Munoz de la Nava,L,,ESP,22.8145106092,104194,,,Ruben Merchan,R,,ESP,21.492128679,4-6 6-3 5-5 RET,3,QF,,,,,,,,,,,,,,,,,,,,380,73,553,36
 2004-M-FU-ESP-32A-2004,Spain F32,Clay,32,S,20041122,27,104349,7,,Rui Machado,R,178,POR,20.6187542779,102828,,,Roberto Menendez,R,,ESP,28.372347707,5-7 6-4 6-0,3,QF,,,,,,,,,,,,,,,,,,,,459,53,580,33
 2004-M-FU-ESP-32A-2004,Spain F32,Clay,32,S,20041122,28,103912,,PR,Mario Radic,R,188,CRO,22.855578371,104062,6,,Alejandro Vargas Aboy,U,,ESP,22.1683778234,1-0 RET,3,QF,,,,,,,,,,,,,,,,,,,,,,434,59
-2004-M-FU-ESP-32A-2004,Spain F32,Clay,32,S,20041122,29,103926,3,,Daniel Munoz De La Nava,L,,ESP,22.8145106092,103543,,,David Marrero,R,185,ESP,24.6242299795,3-6 7-6(8) 6-4,3,SF,,,,,,,,,,,,,,,,,,,,380,73,532,40
+2004-M-FU-ESP-32A-2004,Spain F32,Clay,32,S,20041122,29,103926,3,,Daniel Munoz de la Nava,L,,ESP,22.8145106092,103543,,,David Marrero,R,185,ESP,24.6242299795,3-6 7-6(8) 6-4,3,SF,,,,,,,,,,,,,,,,,,,,380,73,532,40
 2004-M-FU-ESP-32A-2004,Spain F32,Clay,32,S,20041122,30,104349,7,,Rui Machado,R,178,POR,20.6187542779,103912,,PR,Mario Radic,R,188,CRO,22.855578371,6-2 7-5,3,SF,,,,,,,,,,,,,,,,,,,,459,53,,
-2004-M-FU-ESP-32A-2004,Spain F32,Clay,32,S,20041122,31,103926,3,,Daniel Munoz De La Nava,L,,ESP,22.8145106092,104349,7,,Rui Machado,R,178,POR,20.6187542779,5-7 7-6(7) 7-6(4),3,F,,,,,,,,,,,,,,,,,,,,380,73,459,53
+2004-M-FU-ESP-32A-2004,Spain F32,Clay,32,S,20041122,31,103926,3,,Daniel Munoz de la Nava,L,,ESP,22.8145106092,104349,7,,Rui Machado,R,178,POR,20.6187542779,5-7 7-6(7) 7-6(4),3,F,,,,,,,,,,,,,,,,,,,,380,73,459,53
 2004-M-FU-TUN-05A-2004,Tunisia F5,Hard,32,S,20041122,1,104228,1,,Guillem Burniol,R,,ESP,21.2758384668,105114,,Q,Dejan Katic,R,,SRB,16.7118412047,6-4 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,391,68,1339,2
 2004-M-FU-TUN-05A-2004,Tunisia F5,Hard,32,S,20041122,2,104304,,Q,Stefan Wiespeiner,R,,AUT,20.7830253251,104191,,,Ismar Gorcic,R,,BIH,21.5058179329,6-3 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,778,15,602,30
 2004-M-FU-TUN-05A-2004,Tunisia F5,Hard,32,S,20041122,3,119293,,Q,Dejan Ramadanovic,R,,SRB,20.6023271732,109050,,WC,Wael Kilani,R,,TUN,16.2080766598,6-2 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,,,,

@@ -963,7 +963,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-COL-01A-2011,Colombia F1,Clay,32,S,20110131,9,105292,,,Alejandro Gonzalez,R,,COL,21.9794661191,104640,5,,Pablo Galdon,R,,ARG,25.1745379877,4-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,375,110,285,161
 2011-M-FU-COL-01A-2011,Colombia F1,Clay,32,S,20110131,10,105679,,,Eduardo Struvay,R,,COL,20.1232032854,106294,,WC,Pedro Pablo Ruiz,R,,COL,16.977412731,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,487,65,,
 2011-M-FU-COL-01A-2011,Colombia F1,Clay,32,S,20110131,11,104651,,,Martin Alund,R,,ARG,25.0978781656,105935,,,Duilio Beretta,R,,PER,18.932238193,6-7(4) 7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,348,125,807,14
-2011-M-FU-COL-01A-2011,Colombia F1,Clay,32,S,20110131,12,106043,,,Diego Sebastian Schwartzman,R,170,ARG,18.4585900068,103850,3,,Sebastian Decoud,L,178,ARG,29.3689253936,1-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,416,92,227,216
+2011-M-FU-COL-01A-2011,Colombia F1,Clay,32,S,20110131,12,106043,,,Diego Schwartzman,R,170,ARG,18.4585900068,103850,3,,Sebastian Decoud,L,178,ARG,29.3689253936,1-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,416,92,227,216
 2011-M-FU-COL-01A-2011,Colombia F1,Clay,32,S,20110131,13,103524,,,Diego Alvarez,R,,ARG,30.9048596851,105180,7,,Daniel Dutra Da Silva,L,175,BRA,22.5735797399,W/O,3,R32,,,,,,,,,,,,,,,,,,,,458,72,311,147
 2011-M-FU-COL-01A-2011,Colombia F1,Clay,32,S,20110131,14,105944,,WC,Juan Sebastian Gomez,R,,COL,18.9075975359,121818,,Q,Cristian Chavez,R,,COL,18.8528405202,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,827,13,1309,2
 2011-M-FU-COL-01A-2011,Colombia F1,Clay,32,S,20110131,15,106428,,Q,Mateo Andres Ruiz Naranjo,R,,COL,14.546201232,122038,,WC,Eduardo Cabrera,U,,COL,16.4490075291,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -973,7 +973,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-COL-01A-2011,Colombia F1,Clay,32,S,20110131,19,105120,4,,Andres Molteni,R,,ARG,22.8802190281,104535,,,Daniel Garza,R,,MEX,25.8151950719,6-1 6-6 RET,3,R16,,,,,,,,,,,,,,,,,,,,246,197,439,81
 2011-M-FU-COL-01A-2011,Colombia F1,Clay,32,S,20110131,20,105456,,,Sergio Galdos,R,,PER,21.0787132101,105940,,LL,Sebastian Lopez,U,,COL,18.9130732375,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,822,14,1600,1
 2011-M-FU-COL-01A-2011,Colombia F1,Clay,32,S,20110131,21,105292,,,Alejandro Gonzalez,R,,COL,21.9794661191,105679,,,Eduardo Struvay,R,,COL,20.1232032854,4-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,375,110,487,65
-2011-M-FU-COL-01A-2011,Colombia F1,Clay,32,S,20110131,22,104651,,,Martin Alund,R,,ARG,25.0978781656,106043,,,Diego Sebastian Schwartzman,R,170,ARG,18.4585900068,6-0 2-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,348,125,416,92
+2011-M-FU-COL-01A-2011,Colombia F1,Clay,32,S,20110131,22,104651,,,Martin Alund,R,,ARG,25.0978781656,106043,,,Diego Schwartzman,R,170,ARG,18.4585900068,6-0 2-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,348,125,416,92
 2011-M-FU-COL-01A-2011,Colombia F1,Clay,32,S,20110131,23,105944,,WC,Juan Sebastian Gomez,R,,COL,18.9075975359,103524,,,Diego Alvarez,R,,ARG,30.9048596851,6-2 2-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,827,13,458,72
 2011-M-FU-COL-01A-2011,Colombia F1,Clay,32,S,20110131,24,103607,2,,Victor Estrella,R,173,DOM,30.4969199179,106428,,Q,Mateo Andres Ruiz Naranjo,R,,COL,14.546201232,6-0 6-0,3,R16,,,,,,,,,,,,,,,,,,,,221,226,,
 2011-M-FU-COL-01A-2011,Colombia F1,Clay,32,S,20110131,25,108701,1,WC,Juan Sebastian Cabal,R,,COL,24.7693360712,105671,,,Gastao Elias,R,178,POR,20.1861738535,7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,190,277,419,91
@@ -1149,7 +1149,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-COL-02A-2011,Colombia F2,Hard,32,S,20110207,1,108701,1,,Juan Sebastian Cabal,R,,COL,24.7885010267,122039,,Q,Francisco Mendieta,U,,COL,16.8624229979,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,189,277,,
 2011-M-FU-COL-02A-2011,Colombia F2,Hard,32,S,20110207,2,105944,,WC,Juan Sebastian Gomez,R,,COL,18.9267624914,105912,,,Diego Galeano,R,,PAR,19.0171115674,6-7(6) 7-6(1) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,829,13,865,11
 2011-M-FU-COL-02A-2011,Colombia F2,Hard,32,S,20110207,3,105940,,WC,Sebastian Lopez,U,,COL,18.932238193,122040,,Q,Eric Fleming,U,,USA,26.7597535934,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1606,1,,
-2011-M-FU-COL-02A-2011,Colombia F2,Hard,32,S,20110207,4,106043,8,,Diego Sebastian Schwartzman,R,170,ARG,18.4777549624,104906,,,Sebastian Serrano,U,,COL,23.7919233402,6-2 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,416,91,841,13
+2011-M-FU-COL-02A-2011,Colombia F2,Hard,32,S,20110207,4,106043,8,,Diego Schwartzman,R,170,ARG,18.4777549624,104906,,,Sebastian Serrano,U,,COL,23.7919233402,6-2 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,416,91,841,13
 2011-M-FU-COL-02A-2011,Colombia F2,Hard,32,S,20110207,5,105120,3,,Andres Molteni,R,,ARG,22.8993839836,122041,,Q,Lucas Okita,U,,ARG,18.0752908966,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,247,196,,
 2011-M-FU-COL-02A-2011,Colombia F2,Hard,32,S,20110207,6,105522,,Q,Francisco Carbajal,R,,PER,20.8076659822,106181,,WC,Felipe Mantilla,R,,COL,17.7467488022,5-7 6-2 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,1425,2,1711,1
 2011-M-FU-COL-02A-2011,Colombia F2,Hard,32,S,20110207,7,106294,,Q,Pedro Pablo Ruiz,R,,COL,16.9965776865,122042,,Q,Juan Jose Mateus Rubiano,R,,COL,16.9609856263,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -1163,14 +1163,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-COL-02A-2011,Colombia F2,Hard,32,S,20110207,15,105273,,,Mauricio Echazu,R,,PER,22.045174538,121818,,WC,Cristian Chavez,R,,COL,18.8720054757,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,504,61,1308,2
 2011-M-FU-COL-02A-2011,Colombia F2,Hard,32,S,20110207,16,103850,2,,Sebastian Decoud,L,178,ARG,29.3880903491,104854,,Q,Joel Kincaid,U,,USA,24.0711841205,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,227,216,,
 2011-M-FU-COL-02A-2011,Colombia F2,Hard,32,S,20110207,17,108701,1,,Juan Sebastian Cabal,R,,COL,24.7885010267,105944,,WC,Juan Sebastian Gomez,R,,COL,18.9267624914,7-5 7-5,3,R16,,,,,,,,,,,,,,,,,,,,189,277,829,13
-2011-M-FU-COL-02A-2011,Colombia F2,Hard,32,S,20110207,18,106043,8,,Diego Sebastian Schwartzman,R,170,ARG,18.4777549624,105940,,WC,Sebastian Lopez,U,,COL,18.932238193,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,416,91,1606,1
+2011-M-FU-COL-02A-2011,Colombia F2,Hard,32,S,20110207,18,106043,8,,Diego Schwartzman,R,170,ARG,18.4777549624,105940,,WC,Sebastian Lopez,U,,COL,18.932238193,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,416,91,1606,1
 2011-M-FU-COL-02A-2011,Colombia F2,Hard,32,S,20110207,19,105120,3,,Andres Molteni,R,,ARG,22.8993839836,105522,,Q,Francisco Carbajal,R,,PER,20.8076659822,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,247,196,1425,2
 2011-M-FU-COL-02A-2011,Colombia F2,Hard,32,S,20110207,20,104291,5,,Malek Jaziri,R,185,TUN,27.0499657769,106294,,Q,Pedro Pablo Ruiz,R,,COL,16.9965776865,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,344,130,,
 2011-M-FU-COL-02A-2011,Colombia F2,Hard,32,S,20110207,21,104673,6,,Julio Cesar Campozano,R,,ECU,25.0184804928,103932,,Q,Mario Eckardt,L,,GER,29.0020533881,6-2 5-7 6-3,3,R16,,,,,,,,,,,,,,,,,,,,380,110,1290,2
 2011-M-FU-COL-02A-2011,Colombia F2,Hard,32,S,20110207,22,105671,,,Gastao Elias,R,178,POR,20.205338809,104912,,,Cristhian Ignacio Benedetti,R,,ARG,23.7618069815,6-0 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,414,91,517,55
 2011-M-FU-COL-02A-2011,Colombia F2,Hard,32,S,20110207,23,105292,7,,Alejandro Gonzalez,R,,COL,21.9986310746,105274,,,Patricio Heras,R,,ARG,22.045174538,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,377,110,473,68
 2011-M-FU-COL-02A-2011,Colombia F2,Hard,32,S,20110207,24,103850,2,,Sebastian Decoud,L,178,ARG,29.3880903491,105273,,,Mauricio Echazu,R,,PER,22.045174538,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,227,216,504,61
-2011-M-FU-COL-02A-2011,Colombia F2,Hard,32,S,20110207,25,108701,1,,Juan Sebastian Cabal,R,,COL,24.7885010267,106043,8,,Diego Sebastian Schwartzman,R,170,ARG,18.4777549624,7-6(4) 3-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,189,277,416,91
+2011-M-FU-COL-02A-2011,Colombia F2,Hard,32,S,20110207,25,108701,1,,Juan Sebastian Cabal,R,,COL,24.7885010267,106043,8,,Diego Schwartzman,R,170,ARG,18.4777549624,7-6(4) 3-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,189,277,416,91
 2011-M-FU-COL-02A-2011,Colombia F2,Hard,32,S,20110207,26,104291,5,,Malek Jaziri,R,185,TUN,27.0499657769,105120,3,,Andres Molteni,R,,ARG,22.8993839836,6-3 6-7(1) 7-5,3,QF,,,,,,,,,,,,,,,,,,,,344,130,247,196
 2011-M-FU-COL-02A-2011,Colombia F2,Hard,32,S,20110207,27,105671,,,Gastao Elias,R,178,POR,20.205338809,104673,6,,Julio Cesar Campozano,R,,ECU,25.0184804928,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,414,91,380,110
 2011-M-FU-COL-02A-2011,Colombia F2,Hard,32,S,20110207,28,105292,7,,Alejandro Gonzalez,R,,COL,21.9986310746,103850,2,,Sebastian Decoud,L,178,ARG,29.3880903491,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,377,110,227,216
@@ -1334,7 +1334,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-CRO-01A-2011,Croatia F1,Hard,32,S,20110214,31,104487,6,,Marcel Zimmermann,R,183,GER,26.0670773443,105806,,Q,Mirza Basic,R,,BIH,19.5947980835,6-3 5-7 6-4,3,F,,,,,,,,,,,,,,,,,,,,344,131,463,70
 2011-M-FU-ESP-06A-2011,Spain F6,Clay,32,S,20110214,1,105515,,Q,Jordi Samper Montana,U,,ESP,20.8624229979,106175,,LL,Ricardo Rodriguez,R,,VEN,17.7987679671,6-1 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,882,11,1295,2
 2011-M-FU-ESP-06A-2011,Spain F6,Clay,32,S,20110214,2,106117,,,Carlos Boluda Purkiss,R,165,ESP,18.0616016427,104298,,WC,Angel Alonso Campos,R,,ESP,27.0253251198,2-6 6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,590,39,1606,1
-2011-M-FU-ESP-06A-2011,Spain F6,Clay,32,S,20110214,3,105183,,,Agustin Boje Ordonez,U,,ESP,22.5735797399,106238,,WC,Andres Artunedo Martinavarr,R,,ESP,17.4182067077,6-4 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,505,60,1193,3
+2011-M-FU-ESP-06A-2011,Spain F6,Clay,32,S,20110214,3,105183,,,Agustin Boje Ordonez,U,,ESP,22.5735797399,106238,,WC,Andres Artunedo Martinavarro,R,,ESP,17.4182067077,6-4 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,505,60,1193,3
 2011-M-FU-ESP-06A-2011,Spain F6,Clay,32,S,20110214,4,103924,9,,Marc Fornell Mestres,R,,ESP,29.0513347023,105731,,,Steven Diez,R,,CAN,19.9151266256,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,446,77,460,72
 2011-M-FU-ESP-06A-2011,Spain F6,Clay,32,S,20110214,5,104666,4,,Pedro Clar Rossello,R,,ESP,25.0595482546,106148,,Q,Roberto Carballes Baena,R,,ESP,17.8973305955,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,306,153,654,27
 2011-M-FU-ESP-06A-2011,Spain F6,Clay,32,S,20110214,6,105961,,,David Souto,L,,VEN,18.8884325804,104764,,WC,Salvador Rodriguez Mayoralas,U,,ESP,24.6132785763,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,445,77,1419,2
@@ -1847,7 +1847,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-POR-02A-2011,Portugal F2,Hard,32,S,20110307,9,104388,,,Morgan Phillips,U,,GBR,26.7022587269,105731,7,,Steven Diez,R,,CAN,19.9726214921,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,525,52,462,72
 2011-M-FU-POR-02A-2011,Portugal F2,Hard,32,S,20110307,10,106393,,WC,Frederico Ferreira Silva,L,,POR,15.9698836413,104425,,Q,Goncalo Pereira,R,,POR,26.4969199179,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,775,17
 2011-M-FU-POR-02A-2011,Portugal F2,Hard,32,S,20110307,11,103891,,,Alexandros Jakupovic,R,,GRE,29.2265571526,105008,,PR,Ignacio Coll Riudavets,R,,ESP,23.5017111567,4-6 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,584,40,770,17
-2011-M-FU-POR-02A-2011,Portugal F2,Hard,32,S,20110307,12,106238,,Q,Andres Artunedo Martinavarr,R,,ESP,17.4757015743,104587,3,,Claudio Grassi,U,,ITA,25.6153319644,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1196,3,387,106
+2011-M-FU-POR-02A-2011,Portugal F2,Hard,32,S,20110307,12,106238,,Q,Andres Artunedo Martinavarro,R,,ESP,17.4757015743,104587,3,,Claudio Grassi,U,,ITA,25.6153319644,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1196,3,387,106
 2011-M-FU-POR-02A-2011,Portugal F2,Hard,32,S,20110307,13,105025,,,Carl Bergman,L,,SWE,23.4058863792,105961,6,,David Souto,L,,VEN,18.945927447,2-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,532,50,443,77
 2011-M-FU-POR-02A-2011,Portugal F2,Hard,32,S,20110307,14,104743,,,Kamil Capkovic,R,,SVK,24.7611225188,105263,,,Joel Lindner,L,,AUS,22.1656399726,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,602,36,603,36
 2011-M-FU-POR-02A-2011,Portugal F2,Hard,32,S,20110307,15,105460,,Q,Matthew Short,U,,GBR,21.158110883,105848,,WC,Martin Trueva,R,,POR,19.4633812457,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,992,7,877,11
@@ -1857,12 +1857,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-POR-02A-2011,Portugal F2,Hard,32,S,20110307,19,105300,,Q,Sergio Gutierrez Ferrol,R,,ESP,22.0041067762,105529,,,Carlos Gomez Herrera,R,,ESP,20.8514715948,6-3 RET,3,R16,,,,,,,,,,,,,,,,,,,,315,145,574,42
 2011-M-FU-POR-02A-2011,Portugal F2,Hard,32,S,20110307,20,105283,5,,Gerard Granollers,R,,ESP,22.0971937029,105633,,,Mohamed Safwat,R,183,EGY,20.462696783,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,393,103,541,48
 2011-M-FU-POR-02A-2011,Portugal F2,Hard,32,S,20110307,21,104388,,,Morgan Phillips,U,,GBR,26.7022587269,106393,,WC,Frederico Ferreira Silva,L,,POR,15.9698836413,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,525,52,,
-2011-M-FU-POR-02A-2011,Portugal F2,Hard,32,S,20110307,22,106238,,Q,Andres Artunedo Martinavarr,R,,ESP,17.4757015743,103891,,,Alexandros Jakupovic,R,,GRE,29.2265571526,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1196,3,584,40
+2011-M-FU-POR-02A-2011,Portugal F2,Hard,32,S,20110307,22,106238,,Q,Andres Artunedo Martinavarro,R,,ESP,17.4757015743,103891,,,Alexandros Jakupovic,R,,GRE,29.2265571526,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1196,3,584,40
 2011-M-FU-POR-02A-2011,Portugal F2,Hard,32,S,20110307,23,104743,,,Kamil Capkovic,R,,SVK,24.7611225188,105025,,,Carl Bergman,L,,SWE,23.4058863792,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,602,36,532,50
 2011-M-FU-POR-02A-2011,Portugal F2,Hard,32,S,20110307,24,105460,,Q,Matthew Short,U,,GBR,21.158110883,104713,2,,Juan Pablo Amado,R,,ARG,24.9281314168,6-0 2-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,992,7,370,115
 2011-M-FU-POR-02A-2011,Portugal F2,Hard,32,S,20110307,25,105109,,,Marc Sieber,L,178,GER,23.0198494182,105894,1,,Javier Marti,R,,ESP,19.151266256,4-6 6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,614,34,295,157
 2011-M-FU-POR-02A-2011,Portugal F2,Hard,32,S,20110307,26,105283,5,,Gerard Granollers,R,,ESP,22.0971937029,105300,,Q,Sergio Gutierrez Ferrol,R,,ESP,22.0041067762,7-5 6-4,3,QF,,,,,,,,,,,,,,,,,,,,393,103,315,145
-2011-M-FU-POR-02A-2011,Portugal F2,Hard,32,S,20110307,27,104388,,,Morgan Phillips,U,,GBR,26.7022587269,106238,,Q,Andres Artunedo Martinavarr,R,,ESP,17.4757015743,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,525,52,1196,3
+2011-M-FU-POR-02A-2011,Portugal F2,Hard,32,S,20110307,27,104388,,,Morgan Phillips,U,,GBR,26.7022587269,106238,,Q,Andres Artunedo Martinavarro,R,,ESP,17.4757015743,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,525,52,1196,3
 2011-M-FU-POR-02A-2011,Portugal F2,Hard,32,S,20110307,28,104743,,,Kamil Capkovic,R,,SVK,24.7611225188,105460,,Q,Matthew Short,U,,GBR,21.158110883,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,602,36,992,7
 2011-M-FU-POR-02A-2011,Portugal F2,Hard,32,S,20110307,29,105283,5,,Gerard Granollers,R,,ESP,22.0971937029,105109,,,Marc Sieber,L,178,GER,23.0198494182,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,393,103,614,34
 2011-M-FU-POR-02A-2011,Portugal F2,Hard,32,S,20110307,30,104743,,,Kamil Capkovic,R,,SVK,24.7611225188,104388,,,Morgan Phillips,U,,GBR,26.7022587269,6-3 3-6 6-1,3,SF,,,,,,,,,,,,,,,,,,,,602,36,525,52
@@ -1871,7 +1871,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-POR-02A-2011,Portugal F2,Hard,32,S,20110307,606,105460,13,,Matthew Short,U,,GBR,21.158110883,105161,2,,Yann Marti,R,173,SUI,22.7460643395,7-5 7-6(4),3,Q4,,,,,,,,,,,,,,,,,,,,992,7,593,38
 2011-M-FU-POR-02A-2011,Portugal F2,Hard,32,S,20110307,607,105782,10,,Enrique Lopez Perez,R,,ESP,19.7590691307,105168,3,,Bart Govaerts,L,,BEL,22.7186858316,7-6(6) 6-3,3,Q4,,,,,,,,,,,,,,,,,,,,858,12,715,21
 2011-M-FU-POR-02A-2011,Portugal F2,Hard,32,S,20110307,608,104740,9,,Steven Moneke,R,,GER,24.7775496235,105102,,,Goncalo Falcao,R,,POR,23.0362765229,6-3 6-2,3,Q4,,,,,,,,,,,,,,,,,,,,815,14,1749,1
-2011-M-FU-POR-02A-2011,Portugal F2,Hard,32,S,20110307,609,106238,,,Andres Artunedo Martinavarr,R,,ESP,17.4757015743,104360,5,,Adam Chadaj,L,178,POL,26.8473648186,4-6 6-2 6-2,3,Q4,,,,,,,,,,,,,,,,,,,,1196,3,755,18
+2011-M-FU-POR-02A-2011,Portugal F2,Hard,32,S,20110307,609,106238,,,Andres Artunedo Martinavarro,R,,ESP,17.4757015743,104360,5,,Adam Chadaj,L,178,POL,26.8473648186,4-6 6-2 6-2,3,Q4,,,,,,,,,,,,,,,,,,,,1196,3,755,18
 2011-M-FU-POR-02A-2011,Portugal F2,Hard,32,S,20110307,610,105014,6,,Antal Van Der Duim,R,,NED,23.4715947981,105990,14,,Francisco Dias,R,,POR,18.8473648186,6-4 7-5,3,Q4,,,,,,,,,,,,,,,,,,,,767,17,1018,6
 2011-M-FU-POR-02A-2011,Portugal F2,Hard,32,S,20110307,611,106121,11,,Taro Daniel,R,,JPN,18.1054072553,103955,,,Mauro Bosio,R,,ITA,28.9883641342,6-3 6-7(3) 6-0,3,Q4,,,,,,,,,,,,,,,,,,,,895,10,,
 2011-M-FU-POR-02A-2011,Portugal F2,Hard,32,S,20110307,612,104425,8,,Goncalo Pereira,R,,POR,26.4969199179,103641,15,,Cesar Ferrer Victoria,L,,ESP,30.4093086927,6-1 6-3,3,Q4,,,,,,,,,,,,,,,,,,,,775,17,1021,6
@@ -2140,7 +2140,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-POR-03A-2011,Portugal F3,Hard,32,S,20110314,7,105008,,PR,Ignacio Coll Riudavets,R,,ESP,23.5017111567,106249,,WC,Joao Domingues,R,,POR,17.4182067077,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,770,17,,
 2011-M-FU-POR-03A-2011,Portugal F3,Hard,32,S,20110314,8,105183,5,,Agustin Boje Ordonez,U,,ESP,22.6310746064,106400,,Q,Adam Sanjurjo Hermida,R,,ESP,15.8685831622,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,501,59,,
 2011-M-FU-POR-03A-2011,Portugal F3,Hard,32,S,20110314,9,105633,8,,Mohamed Safwat,R,183,EGY,20.462696783,105462,,,David Thurner,U,,GER,21.1471594798,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,541,48,727,20
-2011-M-FU-POR-03A-2011,Portugal F3,Hard,32,S,20110314,10,106238,,SE,Andres Artunedo Martinavarr,R,,ESP,17.4757015743,105998,,Q,Eduardo Dischinger,R,,BRA,18.8008213552,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1196,3,1100,5
+2011-M-FU-POR-03A-2011,Portugal F3,Hard,32,S,20110314,10,106238,,SE,Andres Artunedo Martinavarro,R,,ESP,17.4757015743,105998,,Q,Eduardo Dischinger,R,,BRA,18.8008213552,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1196,3,1100,5
 2011-M-FU-POR-03A-2011,Portugal F3,Hard,32,S,20110314,11,105239,,Q,Daniel Glancy,U,,IRL,22.3107460643,121798,,LL,Stefan Sterland Markovic,U,,GBR,18.8008213552,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1094,5,1439,1
 2011-M-FU-POR-03A-2011,Portugal F3,Hard,32,S,20110314,12,104360,,,Adam Chadaj,L,178,POL,26.8473648186,104004,4,,Filip Prpic,R,173,SWE,28.7802874743,3-6 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,755,18,403,97
 2011-M-FU-POR-03A-2011,Portugal F3,Hard,32,S,20110314,13,105025,7,,Carl Bergman,L,,SWE,23.4058863792,103641,,LL,Cesar Ferrer Victoria,L,,ESP,30.4093086927,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,532,50,1021,6
@@ -2151,7 +2151,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-POR-03A-2011,Portugal F3,Hard,32,S,20110314,18,104388,6,,Morgan Phillips,U,,GBR,26.7022587269,104772,,WC,Jose Ricardo Nunes,R,,POR,24.6187542779,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,525,52,,
 2011-M-FU-POR-03A-2011,Portugal F3,Hard,32,S,20110314,19,105283,3,,Gerard Granollers,R,,ESP,22.0971937029,105990,,WC,Francisco Dias,R,,POR,18.8473648186,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,393,103,1018,6
 2011-M-FU-POR-03A-2011,Portugal F3,Hard,32,S,20110314,20,105183,5,,Agustin Boje Ordonez,U,,ESP,22.6310746064,105008,,PR,Ignacio Coll Riudavets,R,,ESP,23.5017111567,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,501,59,770,17
-2011-M-FU-POR-03A-2011,Portugal F3,Hard,32,S,20110314,21,105633,8,,Mohamed Safwat,R,183,EGY,20.462696783,106238,,SE,Andres Artunedo Martinavarr,R,,ESP,17.4757015743,4-6 6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,541,48,1196,3
+2011-M-FU-POR-03A-2011,Portugal F3,Hard,32,S,20110314,21,105633,8,,Mohamed Safwat,R,183,EGY,20.462696783,106238,,SE,Andres Artunedo Martinavarro,R,,ESP,17.4757015743,4-6 6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,541,48,1196,3
 2011-M-FU-POR-03A-2011,Portugal F3,Hard,32,S,20110314,22,104360,,,Adam Chadaj,L,178,POL,26.8473648186,105239,,Q,Daniel Glancy,U,,IRL,22.3107460643,7-5 6-0,3,R16,,,,,,,,,,,,,,,,,,,,755,18,1094,5
 2011-M-FU-POR-03A-2011,Portugal F3,Hard,32,S,20110314,23,105025,7,,Carl Bergman,L,,SWE,23.4058863792,103891,,,Alexandros Jakupovic,R,,GRE,29.2265571526,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,532,50,584,40
 2011-M-FU-POR-03A-2011,Portugal F3,Hard,32,S,20110314,24,104743,,,Kamil Capkovic,R,,SVK,24.7611225188,103955,,Q,Mauro Bosio,R,,ITA,28.9883641342,6-4 7-6(0),3,R16,,,,,,,,,,,,,,,,,,,,602,36,,
@@ -2558,7 +2558,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-TUR-10A-2011,Turkey F10,Clay,32,S,20110321,13,105181,8,,Miljan Zekic,U,,SRB,22.688569473,105168,,,Bart Govaerts,L,,BEL,22.7570157426,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,517,57,717,21
 2011-M-FU-TUR-10A-2011,Turkey F10,Clay,32,S,20110321,14,104609,,Q,Omar Hedayet,R,,EGY,25.4948665298,104603,,Q,Andrei Ciumac,L,,MDA,25.5249828884,2-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1040,6,936,9
 2011-M-FU-TUR-10A-2011,Turkey F10,Clay,32,S,20110321,15,105918,,Q,Alessandro Colella,L,,ITA,19.1074606434,106064,,Q,Lucas Renard,R,,SWE,18.46954141,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,981,7,1232,3
-2011-M-FU-TUR-10A-2011,Turkey F10,Clay,32,S,20110321,16,105032,2,,Samuel Groth,R,,AUS,23.4195756331,105551,,WC,Anil Yuksel,L,,TUR,20.8377823409,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,264,179,1102,5
+2011-M-FU-TUR-10A-2011,Turkey F10,Clay,32,S,20110321,16,105032,2,,Sam Groth,R,,AUS,23.4195756331,105551,,WC,Anil Yuksel,L,,TUR,20.8377823409,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,264,179,1102,5
 2011-M-FU-TUR-10A-2011,Turkey F10,Clay,32,S,20110321,17,105876,,,Patrik Brydolf,R,,SWE,19.3127994524,105636,,,Romain Sichez,U,,FRA,20.4873374401,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,623,34,738,20
 2011-M-FU-TUR-10A-2011,Turkey F10,Clay,32,S,20110321,18,105430,6,,Radu Albot,R,,MDA,21.3552361396,106220,,Q,Dimitar Kuzmanov,R,,BUL,17.6454483231,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,444,79,1065,5
 2011-M-FU-TUR-10A-2011,Turkey F10,Clay,32,S,20110321,19,105711,,,Dino Marcan,R,,CRO,20.1013004791,105292,3,,Alejandro Gonzalez,R,,COL,22.1136208077,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,679,24,357,121
@@ -2566,7 +2566,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-TUR-10A-2011,Turkey F10,Clay,32,S,20110321,21,105222,,,Jakub Lustyk,R,,CZE,22.4887063655,104598,5,,David Savic,R,,SRB,25.5742642026,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,732,20,504,61
 2011-M-FU-TUR-10A-2011,Turkey F10,Clay,32,S,20110321,22,104186,,,Gleb Alekseenko,R,,UKR,27.8384668036,105796,,WC,Barkin Yalcinkale,U,,TUR,19.7371663244,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,683,24,,
 2011-M-FU-TUR-10A-2011,Turkey F10,Clay,32,S,20110321,23,105181,8,,Miljan Zekic,U,,SRB,22.688569473,104609,,Q,Omar Hedayet,R,,EGY,25.4948665298,6-7(2) 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,517,57,1040,6
-2011-M-FU-TUR-10A-2011,Turkey F10,Clay,32,S,20110321,24,105918,,Q,Alessandro Colella,L,,ITA,19.1074606434,105032,2,,Samuel Groth,R,,AUS,23.4195756331,3-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,981,7,264,179
+2011-M-FU-TUR-10A-2011,Turkey F10,Clay,32,S,20110321,24,105918,,Q,Alessandro Colella,L,,ITA,19.1074606434,105032,2,,Sam Groth,R,,AUS,23.4195756331,3-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,981,7,264,179
 2011-M-FU-TUR-10A-2011,Turkey F10,Clay,32,S,20110321,25,105876,,,Patrik Brydolf,R,,SWE,19.3127994524,105430,6,,Radu Albot,R,,MDA,21.3552361396,7-6(1) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,623,34,444,79
 2011-M-FU-TUR-10A-2011,Turkey F10,Clay,32,S,20110321,26,105888,,Q,Toni Androic,R,,CRO,19.227926078,105711,,,Dino Marcan,R,,CRO,20.1013004791,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,786,16,679,24
 2011-M-FU-TUR-10A-2011,Turkey F10,Clay,32,S,20110321,27,104186,,,Gleb Alekseenko,R,,UKR,27.8384668036,105222,,,Jakub Lustyk,R,,CZE,22.4887063655,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,683,24,732,20
@@ -2624,7 +2624,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-CHI-01A-2011,Chile F1,Clay,32,S,20110328,9,105601,5,,Cristobal Saavedra Corvalan,R,,CHI,20.6351813826,105948,,Q,Federico Coria,R,,ARG,19.0308008214,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,402,97,1030,6
 2011-M-FU-CHI-01A-2011,Chile F1,Clay,32,S,20110328,10,104538,,,Joaquin Jesus Monteferrario,R,,ARG,25.9356605065,105334,,Q,Luis David Martinez,U,,VEN,21.8562628337,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,542,50,827,14
 2011-M-FU-CHI-01A-2011,Chile F1,Clay,32,S,20110328,11,105952,,,Renzo Olivo,R,,ARG,19.0143737166,105935,,Q,Duilio Beretta,R,,PER,19.0663928816,3-6 6-3 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,613,35,817,14
-2011-M-FU-CHI-01A-2011,Chile F1,Clay,32,S,20110328,12,106043,4,,Diego Sebastian Schwartzman,R,170,ARG,18.5927446954,105607,,Q,Gabriel Alejandro Hidalgo,R,,ARG,20.6214921287,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,397,98,790,16
+2011-M-FU-CHI-01A-2011,Chile F1,Clay,32,S,20110328,12,106043,4,,Diego Schwartzman,R,170,ARG,18.5927446954,105607,,Q,Gabriel Alejandro Hidalgo,R,,ARG,20.6214921287,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,397,98,790,16
 2011-M-FU-CHI-01A-2011,Chile F1,Clay,32,S,20110328,13,105499,,,Christopher Diaz Figueroa,R,,GUA,21.0184804928,103201,7,,Adrian Garcia,R,175,CHI,32.8213552361,6-3 4-6 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,476,69,432,84
 2011-M-FU-CHI-01A-2011,Chile F1,Clay,32,S,20110328,14,104621,,,Juan Manuel Valverde,R,,ARG,25.4428473648,105753,,Q,Juan Vazquez Valenzuela,R,,ARG,19.9288158795,1-6 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,629,33,1697,1
 2011-M-FU-CHI-01A-2011,Chile F1,Clay,32,S,20110328,15,105423,,,Danilo Ferraz,L,,BRA,21.4291581109,103524,,,Diego Alvarez,R,,ARG,31.0390143737,5-7 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,624,34,481,67
@@ -2634,15 +2634,15 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-CHI-01A-2011,Chile F1,Clay,32,S,20110328,19,105933,,JE,Roberto Quiroz,L,,ECU,19.0718685832,105845,,WC,Nicolas Gustavo Kauer,U,,CHI,19.5099247091,7-6(2) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1697,1,1084,5
 2011-M-FU-CHI-01A-2011,Chile F1,Clay,32,S,20110328,20,105678,8,,Axel Michon,L,,FRA,20.2600958248,105771,,Q,Nicolas Alejandro De Gregorio,R,,ARG,19.8631074606,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,445,78,1723,1
 2011-M-FU-CHI-01A-2011,Chile F1,Clay,32,S,20110328,21,105601,5,,Cristobal Saavedra Corvalan,R,,CHI,20.6351813826,104538,,,Joaquin Jesus Monteferrario,R,,ARG,25.9356605065,7-6(3) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,402,97,542,50
-2011-M-FU-CHI-01A-2011,Chile F1,Clay,32,S,20110328,22,106043,4,,Diego Sebastian Schwartzman,R,170,ARG,18.5927446954,105952,,,Renzo Olivo,R,,ARG,19.0143737166,5-7 6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,397,98,613,35
+2011-M-FU-CHI-01A-2011,Chile F1,Clay,32,S,20110328,22,106043,4,,Diego Schwartzman,R,170,ARG,18.5927446954,105952,,,Renzo Olivo,R,,ARG,19.0143737166,5-7 6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,397,98,613,35
 2011-M-FU-CHI-01A-2011,Chile F1,Clay,32,S,20110328,23,104621,,,Juan Manuel Valverde,R,,ARG,25.4428473648,105499,,,Christopher Diaz Figueroa,R,,GUA,21.0184804928,3-6 7-5 7-6(1),3,R16,,,,,,,,,,,,,,,,,,,,629,33,476,69
 2011-M-FU-CHI-01A-2011,Chile F1,Clay,32,S,20110328,24,105288,2,,Guillermo Rivera Aranguiz,R,,CHI,22.1273100616,105423,,,Danilo Ferraz,L,,BRA,21.4291581109,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,344,128,624,34
 2011-M-FU-CHI-01A-2011,Chile F1,Clay,32,S,20110328,25,105882,6,,Stefano Travaglia,U,,ITA,19.2553045859,105293,,Q,Ricardo Urzua Rivera,R,,CHI,22.1054072553,6-1 2-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,429,85,846,13
 2011-M-FU-CHI-01A-2011,Chile F1,Clay,32,S,20110328,26,105678,8,,Axel Michon,L,,FRA,20.2600958248,105933,,JE,Roberto Quiroz,L,,ECU,19.0718685832,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,445,78,1697,1
-2011-M-FU-CHI-01A-2011,Chile F1,Clay,32,S,20110328,27,106043,4,,Diego Sebastian Schwartzman,R,170,ARG,18.5927446954,105601,5,,Cristobal Saavedra Corvalan,R,,CHI,20.6351813826,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,397,98,402,97
+2011-M-FU-CHI-01A-2011,Chile F1,Clay,32,S,20110328,27,106043,4,,Diego Schwartzman,R,170,ARG,18.5927446954,105601,5,,Cristobal Saavedra Corvalan,R,,CHI,20.6351813826,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,397,98,402,97
 2011-M-FU-CHI-01A-2011,Chile F1,Clay,32,S,20110328,28,105288,2,,Guillermo Rivera Aranguiz,R,,CHI,22.1273100616,104621,,,Juan Manuel Valverde,R,,ARG,25.4428473648,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,344,128,629,33
 2011-M-FU-CHI-01A-2011,Chile F1,Clay,32,S,20110328,29,105882,6,,Stefano Travaglia,U,,ITA,19.2553045859,105678,8,,Axel Michon,L,,FRA,20.2600958248,6-1 7-5,3,SF,,,,,,,,,,,,,,,,,,,,429,85,445,78
-2011-M-FU-CHI-01A-2011,Chile F1,Clay,32,S,20110328,30,105288,2,,Guillermo Rivera Aranguiz,R,,CHI,22.1273100616,106043,4,,Diego Sebastian Schwartzman,R,170,ARG,18.5927446954,7-6(3) 6-1,3,SF,,,,,,,,,,,,,,,,,,,,344,128,397,98
+2011-M-FU-CHI-01A-2011,Chile F1,Clay,32,S,20110328,30,105288,2,,Guillermo Rivera Aranguiz,R,,CHI,22.1273100616,106043,4,,Diego Schwartzman,R,170,ARG,18.5927446954,7-6(3) 6-1,3,SF,,,,,,,,,,,,,,,,,,,,344,128,397,98
 2011-M-FU-CHI-01A-2011,Chile F1,Clay,32,S,20110328,31,105882,6,,Stefano Travaglia,U,,ITA,19.2553045859,105288,2,,Guillermo Rivera Aranguiz,R,,CHI,22.1273100616,6-2 6-4,3,F,,,,,,,,,,,,,,,,,,,,429,85,344,128
 2011-M-FU-CRO-04A-2011,Croatia F4,Clay,32,S,20110328,1,104850,1,,Jonathan Dasnieres De Veigy,L,,FRA,24.205338809,104699,,,Marco Simoni,U,,ITA,25.0184804928,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,274,171,602,37
 2011-M-FU-CRO-04A-2011,Croatia F4,Clay,32,S,20110328,2,105613,,,Norbert Gombos,R,,SVK,20.6023271732,106271,,,Robert Rumler,R,,CZE,17.3004791239,7-5 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,550,47,695,23
@@ -2889,7 +2889,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-CHI-02A-2011,Chile F2,Clay,32,S,20110404,2,105861,,Q,Caio Silva,U,,BRA,19.4688569473,105293,,WC,Ricardo Urzua Rivera,R,,CHI,22.1437371663,6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,1172,4,869,12
 2011-M-FU-CHI-02A-2011,Chile F2,Clay,32,S,20110404,3,103524,,,Diego Alvarez,R,,ARG,31.0773442847,105635,,WC,Jorge Montero,R,,CHI,20.5338809035,2-6 7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,479,67,1277,3
 2011-M-FU-CHI-02A-2011,Chile F2,Clay,32,S,20110404,4,105678,8,,Axel Michon,L,,FRA,20.2984257358,105338,,,Maximiliano Estevez,L,,ARG,21.87816564,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,444,79,645,29
-2011-M-FU-CHI-02A-2011,Chile F2,Clay,32,S,20110404,5,106043,4,,Diego Sebastian Schwartzman,R,170,ARG,18.6310746064,105820,,,Juan Carlos Saez,R,,CHI,19.6632443532,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,402,98,671,26
+2011-M-FU-CHI-02A-2011,Chile F2,Clay,32,S,20110404,5,106043,4,,Diego Schwartzman,R,170,ARG,18.6310746064,105820,,,Juan Carlos Saez,R,,CHI,19.6632443532,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,402,98,671,26
 2011-M-FU-CHI-02A-2011,Chile F2,Clay,32,S,20110404,6,105607,,Q,Gabriel Alejandro Hidalgo,R,,ARG,20.6598220397,105350,,,Ricardo Siggia,R,,BRA,21.8288843258,6-4 5-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,792,16,687,24
 2011-M-FU-CHI-02A-2011,Chile F2,Clay,32,S,20110404,7,105862,,WC,Javier Munoz,R,,CHI,19.4661190965,105948,,Q,Federico Coria,R,,ARG,19.0691307324,6-2 0-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,866,12,1031,6
 2011-M-FU-CHI-02A-2011,Chile F2,Clay,32,S,20110404,8,105819,,,Guido Andreozzi,R,,ARG,19.6632443532,103201,7,,Adrian Garcia,R,175,CHI,32.8596851472,6-3 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,634,30,529,52
@@ -2903,14 +2903,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-CHI-02A-2011,Chile F2,Clay,32,S,20110404,16,105693,,Q,Alex Theiler,R,,CHI,20.2245037645,105499,,,Christopher Diaz Figueroa,R,,GUA,21.0568104038,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,939,9,476,69
 2011-M-FU-CHI-02A-2011,Chile F2,Clay,32,S,20110404,17,105558,1,,Guillaume Rufin,R,188,FRA,20.8569472964,105861,,Q,Caio Silva,U,,BRA,19.4688569473,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,297,158,1172,4
 2011-M-FU-CHI-02A-2011,Chile F2,Clay,32,S,20110404,18,105678,8,,Axel Michon,L,,FRA,20.2984257358,103524,,,Diego Alvarez,R,,ARG,31.0773442847,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,444,79,479,67
-2011-M-FU-CHI-02A-2011,Chile F2,Clay,32,S,20110404,19,106043,4,,Diego Sebastian Schwartzman,R,170,ARG,18.6310746064,105607,,Q,Gabriel Alejandro Hidalgo,R,,ARG,20.6598220397,7-6(4) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,402,98,792,16
+2011-M-FU-CHI-02A-2011,Chile F2,Clay,32,S,20110404,19,106043,4,,Diego Schwartzman,R,170,ARG,18.6310746064,105607,,Q,Gabriel Alejandro Hidalgo,R,,ARG,20.6598220397,7-6(4) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,402,98,792,16
 2011-M-FU-CHI-02A-2011,Chile F2,Clay,32,S,20110404,20,105819,,,Guido Andreozzi,R,,ARG,19.6632443532,105862,,WC,Javier Munoz,R,,CHI,19.4661190965,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,634,30,866,12
 2011-M-FU-CHI-02A-2011,Chile F2,Clay,32,S,20110404,21,105882,6,,Stefano Travaglia,U,,ITA,19.2936344969,105952,,,Renzo Olivo,R,,ARG,19.0527036277,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,432,85,607,35
 2011-M-FU-CHI-02A-2011,Chile F2,Clay,32,S,20110404,22,104503,3,,Guillermo Hormazabal,R,,CHI,26.1190965092,104828,,Q,Alejandro Kon,U,,ARG,24.3969883641,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,397,100,735,20
 2011-M-FU-CHI-02A-2011,Chile F2,Clay,32,S,20110404,23,105601,5,,Cristobal Saavedra Corvalan,R,,CHI,20.6735112936,105899,,,Martin Cuevas,R,,URU,19.2197125257,6-1 4-6 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,408,97,693,23
 2011-M-FU-CHI-02A-2011,Chile F2,Clay,32,S,20110404,24,105935,,Q,Duilio Beretta,R,,PER,19.1047227926,105693,,Q,Alex Theiler,R,,CHI,20.2245037645,6-4 4-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,817,14,939,9
 2011-M-FU-CHI-02A-2011,Chile F2,Clay,32,S,20110404,25,105558,1,,Guillaume Rufin,R,188,FRA,20.8569472964,105678,8,,Axel Michon,L,,FRA,20.2984257358,6-0 6-0,3,QF,,,,,,,,,,,,,,,,,,,,297,158,444,79
-2011-M-FU-CHI-02A-2011,Chile F2,Clay,32,S,20110404,26,105819,,,Guido Andreozzi,R,,ARG,19.6632443532,106043,4,,Diego Sebastian Schwartzman,R,170,ARG,18.6310746064,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,634,30,402,98
+2011-M-FU-CHI-02A-2011,Chile F2,Clay,32,S,20110404,26,105819,,,Guido Andreozzi,R,,ARG,19.6632443532,106043,4,,Diego Schwartzman,R,170,ARG,18.6310746064,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,634,30,402,98
 2011-M-FU-CHI-02A-2011,Chile F2,Clay,32,S,20110404,27,105882,6,,Stefano Travaglia,U,,ITA,19.2936344969,104503,3,,Guillermo Hormazabal,R,,CHI,26.1190965092,6-3 7-6(4),3,QF,,,,,,,,,,,,,,,,,,,,432,85,397,100
 2011-M-FU-CHI-02A-2011,Chile F2,Clay,32,S,20110404,28,105935,,Q,Duilio Beretta,R,,PER,19.1047227926,105601,5,,Cristobal Saavedra Corvalan,R,,CHI,20.6735112936,6-3 6-7(5) 6-1,3,QF,,,,,,,,,,,,,,,,,,,,817,14,408,97
 2011-M-FU-CHI-02A-2011,Chile F2,Clay,32,S,20110404,29,105558,1,,Guillaume Rufin,R,188,FRA,20.8569472964,105819,,,Guido Andreozzi,R,,ARG,19.6632443532,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,297,158,634,30
@@ -3125,7 +3125,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-ARG-01A-2011,Argentina F1,Clay,32,S,20110411,13,104148,8,,Lionel Noviski,R,,ARG,28.0492813142,104683,,Q,Gustavo Sterin,R,,ARG,25.1362080767,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,589,37,1000,7
 2011-M-FU-ARG-01A-2011,Argentina F1,Clay,32,S,20110411,14,106057,,Q,Facundo Mena,R,,ARG,18.5489390828,105309,,,Agustin Picco,U,,ARG,22.0533880903,7-6(5) 7-6(0),3,R32,,,,,,,,,,,,,,,,,,,,1046,6,605,35
 2011-M-FU-ARG-01A-2011,Argentina F1,Clay,32,S,20110411,15,105952,,,Renzo Olivo,R,,ARG,19.0718685832,104828,,,Alejandro Kon,U,,ARG,24.4161533196,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,597,36,736,20
-2011-M-FU-ARG-01A-2011,Argentina F1,Clay,32,S,20110411,16,106043,2,,Diego Sebastian Schwartzman,R,170,ARG,18.6502395619,106228,,WC,Juan Ignacio Londero,R,,ARG,17.6536618754,7-6(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,392,103,772,17
+2011-M-FU-ARG-01A-2011,Argentina F1,Clay,32,S,20110411,16,106043,2,,Diego Schwartzman,R,170,ARG,18.6502395619,106228,,WC,Juan Ignacio Londero,R,,ARG,17.6536618754,7-6(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,392,103,772,17
 2011-M-FU-ARG-01A-2011,Argentina F1,Clay,32,S,20110411,17,104713,1,,Juan Pablo Amado,R,,ARG,25.0239561944,105766,,,Ryusei Makiguchi,U,,BOL,19.9397672827,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,371,116,842,13
 2011-M-FU-ARG-01A-2011,Argentina F1,Clay,32,S,20110411,18,106006,7,,Agustin Velotti,R,,ARG,18.8802190281,105755,,Q,Alejo Prado,R,,ARG,19.9835728953,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,550,47,1259,3
 2011-M-FU-ARG-01A-2011,Argentina F1,Clay,32,S,20110411,19,105160,3,,Guillermo Duran,R,,ARG,22.8446269678,105830,,,Hicham Khaddari,R,,MAR,19.6440793977,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,417,93,969,8
@@ -3133,14 +3133,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-ARG-01A-2011,Argentina F1,Clay,32,S,20110411,21,105899,,,Martin Cuevas,R,,URU,19.2388774812,104057,,Q,Alejandro Poberaj,R,,ARG,28.59137577,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,691,24,,
 2011-M-FU-ARG-01A-2011,Argentina F1,Clay,32,S,20110411,22,105819,,,Guido Andreozzi,R,,ARG,19.6824093087,105745,,Q,Andres Ceppo,U,,ARG,20.0082135524,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,634,30,1382,2
 2011-M-FU-ARG-01A-2011,Argentina F1,Clay,32,S,20110411,23,104148,8,,Lionel Noviski,R,,ARG,28.0492813142,106057,,Q,Facundo Mena,R,,ARG,18.5489390828,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,589,37,1046,6
-2011-M-FU-ARG-01A-2011,Argentina F1,Clay,32,S,20110411,24,106043,2,,Diego Sebastian Schwartzman,R,170,ARG,18.6502395619,105952,,,Renzo Olivo,R,,ARG,19.0718685832,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,392,103,597,36
+2011-M-FU-ARG-01A-2011,Argentina F1,Clay,32,S,20110411,24,106043,2,,Diego Schwartzman,R,170,ARG,18.6502395619,105952,,,Renzo Olivo,R,,ARG,19.0718685832,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,392,103,597,36
 2011-M-FU-ARG-01A-2011,Argentina F1,Clay,32,S,20110411,25,106006,7,,Agustin Velotti,R,,ARG,18.8802190281,104713,1,,Juan Pablo Amado,R,,ARG,25.0239561944,6-2 6-7(3) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,550,47,371,116
 2011-M-FU-ARG-01A-2011,Argentina F1,Clay,32,S,20110411,26,105160,3,,Guillermo Duran,R,,ARG,22.8446269678,105607,,,Gabriel Alejandro Hidalgo,R,,ARG,20.6789869952,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,417,93,793,16
 2011-M-FU-ARG-01A-2011,Argentina F1,Clay,32,S,20110411,27,105819,,,Guido Andreozzi,R,,ARG,19.6824093087,105899,,,Martin Cuevas,R,,URU,19.2388774812,6-4 6-0,3,QF,,,,,,,,,,,,,,,,,,,,634,30,691,24
-2011-M-FU-ARG-01A-2011,Argentina F1,Clay,32,S,20110411,28,106043,2,,Diego Sebastian Schwartzman,R,170,ARG,18.6502395619,104148,8,,Lionel Noviski,R,,ARG,28.0492813142,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,392,103,589,37
+2011-M-FU-ARG-01A-2011,Argentina F1,Clay,32,S,20110411,28,106043,2,,Diego Schwartzman,R,170,ARG,18.6502395619,104148,8,,Lionel Noviski,R,,ARG,28.0492813142,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,392,103,589,37
 2011-M-FU-ARG-01A-2011,Argentina F1,Clay,32,S,20110411,29,106006,7,,Agustin Velotti,R,,ARG,18.8802190281,105160,3,,Guillermo Duran,R,,ARG,22.8446269678,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,550,47,417,93
-2011-M-FU-ARG-01A-2011,Argentina F1,Clay,32,S,20110411,30,106043,2,,Diego Sebastian Schwartzman,R,170,ARG,18.6502395619,105819,,,Guido Andreozzi,R,,ARG,19.6824093087,6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,392,103,634,30
-2011-M-FU-ARG-01A-2011,Argentina F1,Clay,32,S,20110411,31,106006,7,,Agustin Velotti,R,,ARG,18.8802190281,106043,2,,Diego Sebastian Schwartzman,R,170,ARG,18.6502395619,6-2 6-3,3,F,,,,,,,,,,,,,,,,,,,,550,47,392,103
+2011-M-FU-ARG-01A-2011,Argentina F1,Clay,32,S,20110411,30,106043,2,,Diego Schwartzman,R,170,ARG,18.6502395619,105819,,,Guido Andreozzi,R,,ARG,19.6824093087,6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,392,103,634,30
+2011-M-FU-ARG-01A-2011,Argentina F1,Clay,32,S,20110411,31,106006,7,,Agustin Velotti,R,,ARG,18.8802190281,106043,2,,Diego Schwartzman,R,170,ARG,18.6502395619,6-2 6-3,3,F,,,,,,,,,,,,,,,,,,,,550,47,392,103
 2011-M-FU-BRA-09A-2011,Brazil F9,Clay,32,S,20110411,1,104608,1,,Rodrigo Guidolin,R,,BRA,25.5550992471,121194,,LL,Franco Echenique,U,,ARG,19.0855578371,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,360,122,,
 2011-M-FU-BRA-09A-2011,Brazil F9,Clay,32,S,20110411,2,106088,,,Daniel Schmitt,U,,BRA,18.3764544832,105979,,Q,Augusto Laranja,R,,BRA,18.9869952088,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1142,4,1036,6
 2011-M-FU-BRA-09A-2011,Brazil F9,Clay,32,S,20110411,3,103969,,Q,Roman Borvanov,R,,MDA,29.029431896,105712,,,Andre Baran,U,,BRA,20.1533196441,7-6(1) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,338,136,1242,3
@@ -3424,7 +3424,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-ARG-02A-2011,Argentina F2,Clay,32,S,20110418,2,106006,,,Agustin Velotti,R,,ARG,18.8993839836,105745,,WC,Andres Ceppo,U,,ARG,20.0273785079,7-6(2) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,550,47,1377,2
 2011-M-FU-ARG-02A-2011,Argentina F2,Clay,32,S,20110418,3,105338,,,Maximiliano Estevez,L,,ARG,21.916495551,105753,,Q,Juan Vazquez Valenzuela,R,,ARG,20.0054757016,6-7(3) 7-6(6) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,646,29,1728,1
 2011-M-FU-ARG-02A-2011,Argentina F2,Clay,32,S,20110418,4,105709,,Q,Valentin Florez,R,,ARG,20.1889117043,103524,7,,Diego Alvarez,R,,ARG,31.1156741958,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1728,1,480,67
-2011-M-FU-ARG-02A-2011,Argentina F2,Clay,32,S,20110418,5,106043,3,,Diego Sebastian Schwartzman,R,170,ARG,18.6694045175,106164,,WC,Tomas Lipovsek Puches,U,,ARG,18.0013689254,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,393,104,,
+2011-M-FU-ARG-02A-2011,Argentina F2,Clay,32,S,20110418,5,106043,3,,Diego Schwartzman,R,170,ARG,18.6694045175,106164,,WC,Tomas Lipovsek Puches,U,,ARG,18.0013689254,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,393,104,,
 2011-M-FU-ARG-02A-2011,Argentina F2,Clay,32,S,20110418,6,105819,,,Guido Andreozzi,R,,ARG,19.7015742642,106228,,,Juan Ignacio Londero,R,,ARG,17.6728268309,6-0 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,597,36,767,17
 2011-M-FU-ARG-02A-2011,Argentina F2,Clay,32,S,20110418,7,105817,,Q,Kevin Konfederak,R,,ARG,19.7289527721,105952,,,Renzo Olivo,R,,ARG,19.0910335387,4-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1004,7,591,37
 2011-M-FU-ARG-02A-2011,Argentina F2,Clay,32,S,20110418,8,105601,5,,Cristobal Saavedra Corvalan,R,,CHI,20.7118412047,104828,,,Alejandro Kon,U,,ARG,24.4353182752,7-6(4) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,406,98,741,19
@@ -3438,7 +3438,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-ARG-02A-2011,Argentina F2,Clay,32,S,20110418,16,104713,2,,Juan Pablo Amado,R,,ARG,25.0431211499,104687,,Q,Guillermo Bujniewicz,R,,ARG,25.1389459274,5-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,370,116,834,13
 2011-M-FU-ARG-02A-2011,Argentina F2,Clay,32,S,20110418,17,106032,1,,Facundo Arguello,R,,ARG,18.7022587269,106006,,,Agustin Velotti,R,,ARG,18.8993839836,1-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,338,135,550,47
 2011-M-FU-ARG-02A-2011,Argentina F2,Clay,32,S,20110418,18,105709,,Q,Valentin Florez,R,,ARG,20.1889117043,105338,,,Maximiliano Estevez,L,,ARG,21.916495551,6-0 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1728,1,646,29
-2011-M-FU-ARG-02A-2011,Argentina F2,Clay,32,S,20110418,19,105819,,,Guido Andreozzi,R,,ARG,19.7015742642,106043,3,,Diego Sebastian Schwartzman,R,170,ARG,18.6694045175,6-0 2-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,597,36,393,104
+2011-M-FU-ARG-02A-2011,Argentina F2,Clay,32,S,20110418,19,105819,,,Guido Andreozzi,R,,ARG,19.7015742642,106043,3,,Diego Schwartzman,R,170,ARG,18.6694045175,6-0 2-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,597,36,393,104
 2011-M-FU-ARG-02A-2011,Argentina F2,Clay,32,S,20110418,20,105601,5,,Cristobal Saavedra Corvalan,R,,CHI,20.7118412047,105817,,Q,Kevin Konfederak,R,,ARG,19.7289527721,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,406,98,1004,7
 2011-M-FU-ARG-02A-2011,Argentina F2,Clay,32,S,20110418,21,105729,,,Nicolas Pastor,R,,ARG,20.1013004791,104538,,,Joaquin Jesus Monteferrario,R,,ARG,26.0123203285,7-6(8) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,539,50,535,51
 2011-M-FU-ARG-02A-2011,Argentina F2,Clay,32,S,20110418,22,104148,,,Lionel Noviski,R,,ARG,28.0684462697,106182,,WC,Dante Gennaro,R,,ARG,17.9274469541,7-5 4-6 3-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,589,37,1526,1
@@ -3832,7 +3832,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-ESP-13A-2011,Spain F13,Clay,32,S,20110425,7,106121,,Q,Taro Daniel,R,,JPN,18.2395619439,105118,,,Dorian Descloix,R,193,FRA,23.112936345,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,753,18,688,23
 2011-M-FU-ESP-13A-2011,Spain F13,Clay,32,S,20110425,8,106148,,,Roberto Carballes Baena,R,,ESP,18.0889801506,105758,6,,Juan Lizariturry,U,,ESP,20.0136892539,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,550,47,531,53
 2011-M-FU-ESP-13A-2011,Spain F13,Clay,32,S,20110425,9,105876,7,,Patrik Brydolf,R,,SWE,19.40862423,104699,,,Marco Simoni,U,,ITA,25.1143052704,5-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,566,43,588,38
-2011-M-FU-ESP-13A-2011,Spain F13,Clay,32,S,20110425,10,106238,,Q,Andres Artunedo Martinavarr,R,,ESP,17.6098562628,104467,,,Lamine Ouahab,R,185,ALG,26.3381245722,3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,1022,6,579,39
+2011-M-FU-ESP-13A-2011,Spain F13,Clay,32,S,20110425,10,106238,,Q,Andres Artunedo Martinavarro,R,,ESP,17.6098562628,104467,,,Lamine Ouahab,R,185,ALG,26.3381245722,3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,1022,6,579,39
 2011-M-FU-ESP-13A-2011,Spain F13,Clay,32,S,20110425,11,105263,,,Joel Lindner,L,,AUS,22.2997946612,105629,,,Rafael Mazon Hernandez,U,,ESP,20.6078028747,7-6(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,593,37,733,20
 2011-M-FU-ESP-13A-2011,Spain F13,Clay,32,S,20110425,12,105515,,WC,Jordi Samper Montana,U,,ESP,21.054072553,103448,3,,Gabriel Trujillo Soler,R,,ESP,31.5674195756,6-7(4) 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,807,15,385,107
 2011-M-FU-ESP-13A-2011,Spain F13,Clay,32,S,20110425,13,104622,,,Massimo Capone,R,,ITA,25.5331964408,104264,8,,Marco Viola,R,,ITA,27.4907597536,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,641,30,577,40
@@ -3843,13 +3843,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-ESP-13A-2011,Spain F13,Clay,32,S,20110425,18,104581,5,,David Estruch,R,,ESP,25.7631759069,105008,,Q,Ignacio Coll Riudavets,R,,ESP,23.6358658453,4-6 7-6(2) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,473,69,816,14
 2011-M-FU-ESP-13A-2011,Spain F13,Clay,32,S,20110425,19,104740,,Q,Steven Moneke,R,,GER,24.9117043121,105124,,,Carlos Calderon Rodriguez,R,,ESP,23.099247091,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,707,21,675,25
 2011-M-FU-ESP-13A-2011,Spain F13,Clay,32,S,20110425,20,106148,,,Roberto Carballes Baena,R,,ESP,18.0889801506,106121,,Q,Taro Daniel,R,,JPN,18.2395619439,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,550,47,753,18
-2011-M-FU-ESP-13A-2011,Spain F13,Clay,32,S,20110425,21,106238,,Q,Andres Artunedo Martinavarr,R,,ESP,17.6098562628,105876,7,,Patrik Brydolf,R,,SWE,19.40862423,7-5 3-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1022,6,566,43
+2011-M-FU-ESP-13A-2011,Spain F13,Clay,32,S,20110425,21,106238,,Q,Andres Artunedo Martinavarro,R,,ESP,17.6098562628,105876,7,,Patrik Brydolf,R,,SWE,19.40862423,7-5 3-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1022,6,566,43
 2011-M-FU-ESP-13A-2011,Spain F13,Clay,32,S,20110425,22,105515,,WC,Jordi Samper Montana,U,,ESP,21.054072553,105263,,,Joel Lindner,L,,AUS,22.2997946612,6-2 5-7 6-2,3,R16,,,,,,,,,,,,,,,,,,,,807,15,593,37
 2011-M-FU-ESP-13A-2011,Spain F13,Clay,32,S,20110425,23,106177,,WC,Oriol Roca Batalla,R,,ESP,17.9849418207,104622,,,Massimo Capone,R,,ITA,25.5331964408,6-0 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,1344,2,641,30
 2011-M-FU-ESP-13A-2011,Spain F13,Clay,32,S,20110425,24,104969,,Q,Matthias Kolbe,L,,GER,23.8028747433,105427,,,Milos Sekulic,R,,SWE,21.4702258727,2-6 6-4 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,828,13,702,22
 2011-M-FU-ESP-13A-2011,Spain F13,Clay,32,S,20110425,25,104581,5,,David Estruch,R,,ESP,25.7631759069,104360,,,Adam Chadaj,L,178,POL,26.9815195072,7-6(2) 2-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,473,69,650,28
 2011-M-FU-ESP-13A-2011,Spain F13,Clay,32,S,20110425,26,106148,,,Roberto Carballes Baena,R,,ESP,18.0889801506,104740,,Q,Steven Moneke,R,,GER,24.9117043121,0-6 6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,550,47,707,21
-2011-M-FU-ESP-13A-2011,Spain F13,Clay,32,S,20110425,27,105515,,WC,Jordi Samper Montana,U,,ESP,21.054072553,106238,,Q,Andres Artunedo Martinavarr,R,,ESP,17.6098562628,6-1 4-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,807,15,1022,6
+2011-M-FU-ESP-13A-2011,Spain F13,Clay,32,S,20110425,27,105515,,WC,Jordi Samper Montana,U,,ESP,21.054072553,106238,,Q,Andres Artunedo Martinavarro,R,,ESP,17.6098562628,6-1 4-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,807,15,1022,6
 2011-M-FU-ESP-13A-2011,Spain F13,Clay,32,S,20110425,28,104969,,Q,Matthias Kolbe,L,,GER,23.8028747433,106177,,WC,Oriol Roca Batalla,R,,ESP,17.9849418207,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,828,13,1344,2
 2011-M-FU-ESP-13A-2011,Spain F13,Clay,32,S,20110425,29,106148,,,Roberto Carballes Baena,R,,ESP,18.0889801506,104581,5,,David Estruch,R,,ESP,25.7631759069,4-6 6-1 6-3,3,SF,,,,,,,,,,,,,,,,,,,,550,47,473,69
 2011-M-FU-ESP-13A-2011,Spain F13,Clay,32,S,20110425,30,105515,,WC,Jordi Samper Montana,U,,ESP,21.054072553,104969,,Q,Matthias Kolbe,L,,GER,23.8028747433,7-6(7) 6-1,3,SF,,,,,,,,,,,,,,,,,,,,807,15,828,13
@@ -3966,7 +3966,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-ARG-04A-2011,Argentina F4,Clay,32,S,20110502,9,105952,,,Renzo Olivo,R,,ARG,19.1293634497,105601,5,,Cristobal Saavedra Corvalan,R,,CHI,20.7501711157,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,581,38,391,106
 2011-M-FU-ARG-04A-2011,Argentina F4,Clay,32,S,20110502,10,104538,,,Joaquin Jesus Monteferrario,R,,ARG,26.0506502396,105822,,,Rodrigo Scattareggia,R,,ARG,19.7371663244,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,530,53,955,8
 2011-M-FU-ARG-04A-2011,Argentina F4,Clay,32,S,20110502,11,105785,,,Juan Pablo Ortiz,L,,ARG,19.8959616701,105309,,,Agustin Picco,U,,ARG,22.1108829569,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,701,22,594,36
-2011-M-FU-ARG-04A-2011,Argentina F4,Clay,32,S,20110502,12,106043,3,,Diego Sebastian Schwartzman,R,170,ARG,18.7077344285,105033,,Q,Matias Castro,U,,ARG,23.5290896646,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,375,113,1284,3
+2011-M-FU-ARG-04A-2011,Argentina F4,Clay,32,S,20110502,12,106043,3,,Diego Schwartzman,R,170,ARG,18.7077344285,105033,,Q,Matias Castro,U,,ARG,23.5290896646,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,375,113,1284,3
 2011-M-FU-ARG-04A-2011,Argentina F4,Clay,32,S,20110502,13,105160,7,,Guillermo Duran,R,,ARG,22.9021218344,105846,,Q,Fabricio Burdisso,R,,ARG,19.6221765914,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,404,99,1381,2
 2011-M-FU-ARG-04A-2011,Argentina F4,Clay,32,S,20110502,14,104923,,,Martin Rios Benitez,U,,ARG,23.9561943874,104859,,WC,Juan Manuel Agasarkissian,U,,ARG,24.2628336756,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,975,8,1042,6
 2011-M-FU-ARG-04A-2011,Argentina F4,Clay,32,S,20110502,15,104828,,,Alejandro Kon,U,,ARG,24.4736481862,105338,,,Maximiliano Estevez,L,,ARG,21.954825462,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,996,7,685,23
@@ -3976,16 +3976,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-ARG-04A-2011,Argentina F4,Clay,32,S,20110502,19,105729,,,Nicolas Pastor,R,,ARG,20.1396303901,105948,,WC,Federico Coria,R,,ARG,19.1457905544,6-3 3-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,520,54,1044,6
 2011-M-FU-ARG-04A-2011,Argentina F4,Clay,32,S,20110502,20,104651,6,,Martin Alund,R,,ARG,25.3470225873,105819,,,Guido Andreozzi,R,,ARG,19.7399041752,3-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,403,99,562,44
 2011-M-FU-ARG-04A-2011,Argentina F4,Clay,32,S,20110502,21,105952,,,Renzo Olivo,R,,ARG,19.1293634497,104538,,,Joaquin Jesus Monteferrario,R,,ARG,26.0506502396,6-4 4-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,581,38,530,53
-2011-M-FU-ARG-04A-2011,Argentina F4,Clay,32,S,20110502,22,106043,3,,Diego Sebastian Schwartzman,R,170,ARG,18.7077344285,105785,,,Juan Pablo Ortiz,L,,ARG,19.8959616701,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,375,113,701,22
+2011-M-FU-ARG-04A-2011,Argentina F4,Clay,32,S,20110502,22,106043,3,,Diego Schwartzman,R,170,ARG,18.7077344285,105785,,,Juan Pablo Ortiz,L,,ARG,19.8959616701,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,375,113,701,22
 2011-M-FU-ARG-04A-2011,Argentina F4,Clay,32,S,20110502,23,105160,7,,Guillermo Duran,R,,ARG,22.9021218344,104923,,,Martin Rios Benitez,U,,ARG,23.9561943874,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,404,99,975,8
 2011-M-FU-ARG-04A-2011,Argentina F4,Clay,32,S,20110502,24,104713,2,,Juan Pablo Amado,R,,ARG,25.0814510609,104828,,,Alejandro Kon,U,,ARG,24.4736481862,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,358,119,996,7
 2011-M-FU-ARG-04A-2011,Argentina F4,Clay,32,S,20110502,25,106032,1,,Facundo Arguello,R,,ARG,18.7405886379,105899,,,Martin Cuevas,R,,URU,19.2963723477,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,312,153,661,27
 2011-M-FU-ARG-04A-2011,Argentina F4,Clay,32,S,20110502,26,104651,6,,Martin Alund,R,,ARG,25.3470225873,105729,,,Nicolas Pastor,R,,ARG,20.1396303901,6-0 4-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,403,99,520,54
-2011-M-FU-ARG-04A-2011,Argentina F4,Clay,32,S,20110502,27,106043,3,,Diego Sebastian Schwartzman,R,170,ARG,18.7077344285,105952,,,Renzo Olivo,R,,ARG,19.1293634497,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,375,113,581,38
+2011-M-FU-ARG-04A-2011,Argentina F4,Clay,32,S,20110502,27,106043,3,,Diego Schwartzman,R,170,ARG,18.7077344285,105952,,,Renzo Olivo,R,,ARG,19.1293634497,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,375,113,581,38
 2011-M-FU-ARG-04A-2011,Argentina F4,Clay,32,S,20110502,28,104713,2,,Juan Pablo Amado,R,,ARG,25.0814510609,105160,7,,Guillermo Duran,R,,ARG,22.9021218344,6-3 7-6(3),3,QF,,,,,,,,,,,,,,,,,,,,358,119,404,99
 2011-M-FU-ARG-04A-2011,Argentina F4,Clay,32,S,20110502,29,104651,6,,Martin Alund,R,,ARG,25.3470225873,106032,1,,Facundo Arguello,R,,ARG,18.7405886379,6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,403,99,312,153
-2011-M-FU-ARG-04A-2011,Argentina F4,Clay,32,S,20110502,30,106043,3,,Diego Sebastian Schwartzman,R,170,ARG,18.7077344285,104713,2,,Juan Pablo Amado,R,,ARG,25.0814510609,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,375,113,358,119
-2011-M-FU-ARG-04A-2011,Argentina F4,Clay,32,S,20110502,31,104651,6,,Martin Alund,R,,ARG,25.3470225873,106043,3,,Diego Sebastian Schwartzman,R,170,ARG,18.7077344285,6-4 6-1,3,F,,,,,,,,,,,,,,,,,,,,403,99,375,113
+2011-M-FU-ARG-04A-2011,Argentina F4,Clay,32,S,20110502,30,106043,3,,Diego Schwartzman,R,170,ARG,18.7077344285,104713,2,,Juan Pablo Amado,R,,ARG,25.0814510609,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,375,113,358,119
+2011-M-FU-ARG-04A-2011,Argentina F4,Clay,32,S,20110502,31,104651,6,,Martin Alund,R,,ARG,25.3470225873,106043,3,,Diego Schwartzman,R,170,ARG,18.7077344285,6-4 6-1,3,F,,,,,,,,,,,,,,,,,,,,403,99,375,113
 2011-M-FU-BIH-01A-2011,Bosnia & Herzegovina F1,Clay,32,S,20110502,1,105060,1,,Aldin Setkic,R,193,BIH,23.3620807666,104275,,,Josko Topic,U,,CRO,27.3976728268,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,382,109,866,11
 2011-M-FU-BIH-01A-2011,Bosnia & Herzegovina F1,Clay,32,S,20110502,2,105711,,,Dino Marcan,R,,CRO,20.2162902122,104939,,,Bjorn Propst,R,,AUT,23.9069130732,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,647,29,783,16
 2011-M-FU-BIH-01A-2011,Bosnia & Herzegovina F1,Clay,32,S,20110502,3,104878,,Q,Sasa Stojisavljevic,R,,SRB,24.1779603012,105440,,,Arsenije Zlatanovic,R,193,SRB,21.4072553046,7-6(11) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1412,2,640,30
@@ -4346,7 +4346,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-ARG-05A-2011,Argentina F5,Clay,32,S,20110509,9,106228,,,Juan Ignacio Londero,R,,ARG,17.7303216975,105338,8,,Maximiliano Estevez,L,,ARG,21.9739904175,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,765,17,677,24
 2011-M-FU-ARG-05A-2011,Argentina F5,Clay,32,S,20110509,10,104828,,,Alejandro Kon,U,,ARG,24.4928131417,122142,,WC,Esteban Adrian Contreras,U,,ARG,17.4976043806,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,934,9,,
 2011-M-FU-ARG-05A-2011,Argentina F5,Clay,32,S,20110509,11,105817,,,Kevin Konfederak,R,,ARG,19.7864476386,105846,,WC,Fabricio Burdisso,R,,ARG,19.6413415469,6-3 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,976,8,1386,2
-2011-M-FU-ARG-05A-2011,Argentina F5,Clay,32,S,20110509,12,106043,3,,Diego Sebastian Schwartzman,R,170,ARG,18.726899384,105785,,,Juan Pablo Ortiz,L,,ARG,19.9151266256,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,369,113,702,22
+2011-M-FU-ARG-05A-2011,Argentina F5,Clay,32,S,20110509,12,106043,3,,Diego Schwartzman,R,170,ARG,18.726899384,105785,,,Juan Pablo Ortiz,L,,ARG,19.9151266256,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,369,113,702,22
 2011-M-FU-ARG-05A-2011,Argentina F5,Clay,32,S,20110509,13,105952,7,,Renzo Olivo,R,,ARG,19.1485284052,105709,,WC,Valentin Florez,R,,ARG,20.2464065708,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,585,37,1247,3
 2011-M-FU-ARG-05A-2011,Argentina F5,Clay,32,S,20110509,14,104859,,,Juan Manuel Agasarkissian,U,,ARG,24.2819986311,122143,,Q,Jose Maria Paez,U,,ARG,20.9828884326,6-2 6-7(4) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1047,6,,
 2011-M-FU-ARG-05A-2011,Argentina F5,Clay,32,S,20110509,15,105607,,,Gabriel Alejandro Hidalgo,R,,ARG,20.7556468172,105822,,,Rodrigo Scattareggia,R,,ARG,19.7563312799,7-6(2) 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,749,19,924,9
@@ -4356,16 +4356,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-ARG-05A-2011,Argentina F5,Clay,32,S,20110509,19,104651,4,,Martin Alund,R,,ARG,25.3661875428,106242,,Q,Mauricio Perez Mota,U,,ARG,17.6290212183,6-0 6-0,3,R16,,,,,,,,,,,,,,,,,,,,384,105,1320,2
 2011-M-FU-ARG-05A-2011,Argentina F5,Clay,32,S,20110509,20,105819,6,,Guido Andreozzi,R,,ARG,19.7590691307,105240,,Q,Marcos Remondegui,U,,ARG,22.4613278576,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,557,44,,
 2011-M-FU-ARG-05A-2011,Argentina F5,Clay,32,S,20110509,21,106228,,,Juan Ignacio Londero,R,,ARG,17.7303216975,104828,,,Alejandro Kon,U,,ARG,24.4928131417,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,765,17,934,9
-2011-M-FU-ARG-05A-2011,Argentina F5,Clay,32,S,20110509,22,106043,3,,Diego Sebastian Schwartzman,R,170,ARG,18.726899384,105817,,,Kevin Konfederak,R,,ARG,19.7864476386,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,369,113,976,8
+2011-M-FU-ARG-05A-2011,Argentina F5,Clay,32,S,20110509,22,106043,3,,Diego Schwartzman,R,170,ARG,18.726899384,105817,,,Kevin Konfederak,R,,ARG,19.7864476386,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,369,113,976,8
 2011-M-FU-ARG-05A-2011,Argentina F5,Clay,32,S,20110509,23,105952,7,,Renzo Olivo,R,,ARG,19.1485284052,104859,,,Juan Manuel Agasarkissian,U,,ARG,24.2819986311,7-6(6) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,585,37,1047,6
 2011-M-FU-ARG-05A-2011,Argentina F5,Clay,32,S,20110509,24,104713,2,,Juan Pablo Amado,R,,ARG,25.1006160164,105607,,,Gabriel Alejandro Hidalgo,R,,ARG,20.7556468172,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,353,120,749,19
 2011-M-FU-ARG-05A-2011,Argentina F5,Clay,32,S,20110509,25,105477,1,,Marco Trungelliti,R,,ARG,21.2676249144,105729,5,,Nicolas Pastor,R,,ARG,20.1587953457,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,352,122,498,60
 2011-M-FU-ARG-05A-2011,Argentina F5,Clay,32,S,20110509,26,104651,4,,Martin Alund,R,,ARG,25.3661875428,105819,6,,Guido Andreozzi,R,,ARG,19.7590691307,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,384,105,557,44
-2011-M-FU-ARG-05A-2011,Argentina F5,Clay,32,S,20110509,27,106043,3,,Diego Sebastian Schwartzman,R,170,ARG,18.726899384,106228,,,Juan Ignacio Londero,R,,ARG,17.7303216975,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,369,113,765,17
+2011-M-FU-ARG-05A-2011,Argentina F5,Clay,32,S,20110509,27,106043,3,,Diego Schwartzman,R,170,ARG,18.726899384,106228,,,Juan Ignacio Londero,R,,ARG,17.7303216975,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,369,113,765,17
 2011-M-FU-ARG-05A-2011,Argentina F5,Clay,32,S,20110509,28,104713,2,,Juan Pablo Amado,R,,ARG,25.1006160164,105952,7,,Renzo Olivo,R,,ARG,19.1485284052,7-6(3) 7-5,3,QF,,,,,,,,,,,,,,,,,,,,353,120,585,37
 2011-M-FU-ARG-05A-2011,Argentina F5,Clay,32,S,20110509,29,105477,1,,Marco Trungelliti,R,,ARG,21.2676249144,104651,4,,Martin Alund,R,,ARG,25.3661875428,7-5 6-3,3,SF,,,,,,,,,,,,,,,,,,,,352,122,384,105
-2011-M-FU-ARG-05A-2011,Argentina F5,Clay,32,S,20110509,30,106043,3,,Diego Sebastian Schwartzman,R,170,ARG,18.726899384,104713,2,,Juan Pablo Amado,R,,ARG,25.1006160164,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,369,113,353,120
-2011-M-FU-ARG-05A-2011,Argentina F5,Clay,32,S,20110509,31,105477,1,,Marco Trungelliti,R,,ARG,21.2676249144,106043,3,,Diego Sebastian Schwartzman,R,170,ARG,18.726899384,6-4 6-2,3,F,,,,,,,,,,,,,,,,,,,,352,122,369,113
+2011-M-FU-ARG-05A-2011,Argentina F5,Clay,32,S,20110509,30,106043,3,,Diego Schwartzman,R,170,ARG,18.726899384,104713,2,,Juan Pablo Amado,R,,ARG,25.1006160164,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,369,113,353,120
+2011-M-FU-ARG-05A-2011,Argentina F5,Clay,32,S,20110509,31,105477,1,,Marco Trungelliti,R,,ARG,21.2676249144,106043,3,,Diego Schwartzman,R,170,ARG,18.726899384,6-4 6-2,3,F,,,,,,,,,,,,,,,,,,,,352,122,369,113
 2011-M-FU-BIH-02A-2011,Bosnia & Herzegovina F2,Clay,32,S,20110509,1,105060,1,,Aldin Setkic,R,193,BIH,23.3812457221,105410,,Q,Dragos Cristian Mirtea,R,,ROU,21.659137577,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,375,109,1050,6
 2011-M-FU-BIH-02A-2011,Bosnia & Herzegovina F2,Clay,32,S,20110509,2,104939,,,Bjorn Propst,R,,AUT,23.9260780287,105901,,,Antonio Lupieri,U,,CRO,19.2991101985,5-7 6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,779,16,874,11
 2011-M-FU-BIH-02A-2011,Bosnia & Herzegovina F2,Clay,32,S,20110509,3,106000,,WC,Damir Dzumhur,R,172,BIH,18.9678302533,106414,,WC,Janicije Sasha Karic,R,183,USA,15.6577686516,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1075,5,,
@@ -4434,7 +4434,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-BUL-02A-2011,Bulgaria F2,Clay,32,S,20110509,4,105331,5,,Petru Alexandru Luncanu,L,185,ROU,22.0041067762,105665,,,Robert Coman,R,,ROU,20.514715948,3-6 7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,576,38,655,27
 2011-M-FU-BUL-02A-2011,Bulgaria F2,Clay,32,S,20110509,5,105426,3,,Michael Linzer,R,,AUT,21.5140314853,105557,,Q,Gibril Diarra,U,,AUT,20.9527720739,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,462,71,,
 2011-M-FU-BUL-02A-2011,Bulgaria F2,Clay,32,S,20110509,6,103936,,,Todor Enev,R,,BUL,29.2457221081,106078,,Q,Egor Gerasimov,R,,BLR,18.4887063655,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,777,16,1403,2
-2011-M-FU-BUL-02A-2011,Bulgaria F2,Clay,32,S,20110509,7,105586,,WC,Alexander Lazov,U,,BUL,20.8323066393,102687,,,Herbert Wiltschnig,R,185,AUT,35.4633812457,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1366,2,675,24
+2011-M-FU-BUL-02A-2011,Bulgaria F2,Clay,32,S,20110509,7,105586,,WC,Alexandar Lazov,U,,BUL,20.8323066393,102687,,,Herbert Wiltschnig,R,185,AUT,35.4633812457,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1366,2,675,24
 2011-M-FU-BUL-02A-2011,Bulgaria F2,Clay,32,S,20110509,8,104969,,,Matthias Kolbe,L,,GER,23.8412046543,104186,7,,Gleb Alekseenko,R,,UKR,27.9726214921,6-4 2-6 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,736,19,612,32
 2011-M-FU-BUL-02A-2011,Bulgaria F2,Clay,32,S,20110509,9,104910,6,,Tihomir Grozdanov,U,,BUL,24.0273785079,105602,,,Ilya Lebedev,U,,RUS,20.7693360712,3-6 6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,551,45,1145,4
 2011-M-FU-BUL-02A-2011,Bulgaria F2,Clay,32,S,20110509,10,106248,,,Edoardo Eremin,R,,ITA,17.5906913073,105608,,Q,Georgi Jordanov,U,,BUL,20.7529089665,6-2 3-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,922,9,,
@@ -4447,13 +4447,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-BUL-02A-2011,Bulgaria F2,Clay,32,S,20110509,17,105152,1,,Marcin Gawron,U,,POL,22.9541409993,105094,,,Paris Gemouchidis,R,175,GRE,23.2361396304,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,360,117,678,24
 2011-M-FU-BUL-02A-2011,Bulgaria F2,Clay,32,S,20110509,18,105331,5,,Petru Alexandru Luncanu,L,185,ROU,22.0041067762,106220,,,Dimitar Kuzmanov,R,,BUL,17.7796030116,4-6 6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,576,38,989,7
 2011-M-FU-BUL-02A-2011,Bulgaria F2,Clay,32,S,20110509,19,105426,3,,Michael Linzer,R,,AUT,21.5140314853,103936,,,Todor Enev,R,,BUL,29.2457221081,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,462,71,777,16
-2011-M-FU-BUL-02A-2011,Bulgaria F2,Clay,32,S,20110509,20,105586,,WC,Alexander Lazov,U,,BUL,20.8323066393,104969,,,Matthias Kolbe,L,,GER,23.8412046543,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1366,2,736,19
+2011-M-FU-BUL-02A-2011,Bulgaria F2,Clay,32,S,20110509,20,105586,,WC,Alexandar Lazov,U,,BUL,20.8323066393,104969,,,Matthias Kolbe,L,,GER,23.8412046543,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1366,2,736,19
 2011-M-FU-BUL-02A-2011,Bulgaria F2,Clay,32,S,20110509,21,104910,6,,Tihomir Grozdanov,U,,BUL,24.0273785079,106248,,,Edoardo Eremin,R,,ITA,17.5906913073,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,551,45,922,9
 2011-M-FU-BUL-02A-2011,Bulgaria F2,Clay,32,S,20110509,22,104704,4,,Victor Mugurel Anagnastopol,R,,ROU,25.1279945243,105305,,,Valentin Dimov,R,,BUL,22.1574264203,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,504,58,963,8
 2011-M-FU-BUL-02A-2011,Bulgaria F2,Clay,32,S,20110509,23,104937,,Q,Ilie Aurelian Giurgiu,R,,ROU,23.9288158795,105628,8,,Riccardo Sinicropi,R,,ITA,20.6543463381,2-6 6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,620,31
 2011-M-FU-BUL-02A-2011,Bulgaria F2,Clay,32,S,20110509,24,105678,2,,Axel Michon,L,,FRA,20.3942505133,105715,,Q,Jeroen Benard,R,,NED,20.2245037645,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,418,89,1309,2
 2011-M-FU-BUL-02A-2011,Bulgaria F2,Clay,32,S,20110509,25,105152,1,,Marcin Gawron,U,,POL,22.9541409993,105331,5,,Petru Alexandru Luncanu,L,185,ROU,22.0041067762,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,360,117,576,38
-2011-M-FU-BUL-02A-2011,Bulgaria F2,Clay,32,S,20110509,26,105426,3,,Michael Linzer,R,,AUT,21.5140314853,105586,,WC,Alexander Lazov,U,,BUL,20.8323066393,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,462,71,1366,2
+2011-M-FU-BUL-02A-2011,Bulgaria F2,Clay,32,S,20110509,26,105426,3,,Michael Linzer,R,,AUT,21.5140314853,105586,,WC,Alexandar Lazov,U,,BUL,20.8323066393,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,462,71,1366,2
 2011-M-FU-BUL-02A-2011,Bulgaria F2,Clay,32,S,20110509,27,104704,4,,Victor Mugurel Anagnastopol,R,,ROU,25.1279945243,104910,6,,Tihomir Grozdanov,U,,BUL,24.0273785079,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,504,58,551,45
 2011-M-FU-BUL-02A-2011,Bulgaria F2,Clay,32,S,20110509,28,105678,2,,Axel Michon,L,,FRA,20.3942505133,104937,,Q,Ilie Aurelian Giurgiu,R,,ROU,23.9288158795,6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,418,89,,
 2011-M-FU-BUL-02A-2011,Bulgaria F2,Clay,32,S,20110509,29,105426,3,,Michael Linzer,R,,AUT,21.5140314853,105152,1,,Marcin Gawron,U,,POL,22.9541409993,1-6 7-6(0) 6-1,3,SF,,,,,,,,,,,,,,,,,,,,462,71,360,117
@@ -4691,7 +4691,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-ESP-15A-2011,Spain F15,Clay,32,S,20110509,13,104627,8,,Boy Westerhof,R,,NED,25.5386721424,109092,,LL,Zhuo Qing Zhou,R,,CHN,22.3189596167,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,603,34,1731,1
 2011-M-FU-ESP-15A-2011,Spain F15,Clay,32,S,20110509,14,105581,,WC,Gerard Gallego Bertran,L,,ESP,20.8596851472,106177,,,Oriol Roca Batalla,R,,ESP,18.0232717317,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1153,4,1129,4
 2011-M-FU-ESP-15A-2011,Spain F15,Clay,32,S,20110509,15,106091,,,Vladislav Dubinsky,R,,RUS,18.4476386037,122086,,Q,Emilio Sanchis Hernandez,R,,ESP,27.9370294319,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1265,3,,
-2011-M-FU-ESP-15A-2011,Spain F15,Clay,32,S,20110509,16,103448,2,,Gabriel Trujillo Soler,R,,ESP,31.6057494867,106238,,,Andres Artunedo Martinavarr,R,,ESP,17.6481861739,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,415,92,955,8
+2011-M-FU-ESP-15A-2011,Spain F15,Clay,32,S,20110509,16,103448,2,,Gabriel Trujillo Soler,R,,ESP,31.6057494867,106238,,,Andres Artunedo Martinavarro,R,,ESP,17.6481861739,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,415,92,955,8
 2011-M-FU-ESP-15A-2011,Spain F15,Clay,32,S,20110509,17,105311,1,,Joao Sousa,R,185,POR,22.1081451061,106322,,,David Perez Sanz,U,,ESP,16.9828884326,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,236,207,1309,2
 2011-M-FU-ESP-15A-2011,Spain F15,Clay,32,S,20110509,18,106121,,,Taro Daniel,R,,JPN,18.2778918549,105731,5,,Steven Diez,R,,CAN,20.1451060917,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,746,19,407,95
 2011-M-FU-ESP-15A-2011,Spain F15,Clay,32,S,20110509,19,105438,3,,Inigo Cervantes Huegun,R,,ESP,21.4373716632,105782,,,Enrique Lopez Perez,R,,ESP,19.9315537303,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,435,80,810,15
@@ -4915,7 +4915,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-BUL-03A-2011,Bulgaria F3,Clay,32,S,20110516,4,104699,7,,Marco Simoni,U,,ITA,25.1718001369,105748,,Q,Vladzimir Kruk,R,,BLR,20.0985626283,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,573,40,1438,2
 2011-M-FU-BUL-03A-2011,Bulgaria F3,Clay,32,S,20110516,5,104704,3,,Victor Mugurel Anagnastopol,R,,ROU,25.1471594798,105557,,Q,Gibril Diarra,U,,AUT,20.9719370294,7-6(3) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,496,59,1675,1
 2011-M-FU-BUL-03A-2011,Bulgaria F3,Clay,32,S,20110516,6,105665,,,Robert Coman,R,,ROU,20.5338809035,122168,,WC,Joseph Kasnetz,R,,USA,19.6687200548,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,667,25,,
-2011-M-FU-BUL-03A-2011,Bulgaria F3,Clay,32,S,20110516,7,104801,,,James Feaver,L,,GBR,24.6789869952,105586,,WC,Alexander Lazov,U,,BUL,20.8514715948,6-2 4-6 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,791,16,1361,2
+2011-M-FU-BUL-03A-2011,Bulgaria F3,Clay,32,S,20110516,7,104801,,,James Feaver,L,,GBR,24.6789869952,105586,,WC,Alexandar Lazov,U,,BUL,20.8514715948,6-2 4-6 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,791,16,1361,2
 2011-M-FU-BUL-03A-2011,Bulgaria F3,Clay,32,S,20110516,8,103687,8,,Enrico Burzi,U,,ITA,30.3326488706,105094,,,Paris Gemouchidis,R,175,GRE,23.2553045859,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,589,36,677,24
 2011-M-FU-BUL-03A-2011,Bulgaria F3,Clay,32,S,20110516,9,105331,6,,Petru Alexandru Luncanu,L,185,ROU,22.0232717317,109646,,Q,Adrian Marin Dancescu,R,,ROU,21.8453114305,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,576,39,1390,2
 2011-M-FU-BUL-03A-2011,Bulgaria F3,Clay,32,S,20110516,10,105608,,WC,Georgi Jordanov,U,,BUL,20.772073922,102687,,,Herbert Wiltschnig,R,185,AUT,35.4825462012,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,687,23
@@ -5264,7 +5264,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-ESP-16A-2011,Spain F16,Clay,32,S,20110516,12,104091,3,,Miguel Angel Lopez Jaen,R,188,ESP,28.4599589322,105789,,,Marc Giner,R,,ESP,19.909650924,6-4 3-6 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,430,81,733,20
 2011-M-FU-ESP-16A-2011,Spain F16,Clay,32,S,20110516,13,105008,,,Ignacio Coll Riudavets,R,,ESP,23.6933607118,104532,6,,Jose Checa Calvo,L,,ESP,26.1190965092,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,786,16,463,68
 2011-M-FU-ESP-16A-2011,Spain F16,Clay,32,S,20110516,14,105118,,,Dorian Descloix,R,193,FRA,23.1704312115,121286,,Q,Jeremias Lima Perez,U,,ESP,22.1163586585,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,679,24,1527,1
-2011-M-FU-ESP-16A-2011,Spain F16,Clay,32,S,20110516,15,106322,,Q,David Perez Sanz,U,,ESP,17.0020533881,106238,,,Andres Artunedo Martinavarr,R,,ESP,17.6673511294,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1302,2,956,8
+2011-M-FU-ESP-16A-2011,Spain F16,Clay,32,S,20110516,15,106322,,Q,David Perez Sanz,U,,ESP,17.0020533881,106238,,,Andres Artunedo Martinavarro,R,,ESP,17.6673511294,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1302,2,956,8
 2011-M-FU-ESP-16A-2011,Spain F16,Clay,32,S,20110516,16,103448,2,,Gabriel Trujillo Soler,R,,ESP,31.6249144422,105629,,,Rafael Mazon Hernandez,U,,ESP,20.6652977413,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,394,98,722,21
 2011-M-FU-ESP-16A-2011,Spain F16,Clay,32,S,20110516,17,105731,1,,Steven Diez,R,,CAN,20.1642710472,105848,,,Martin Trueva,R,,POR,19.6550308008,7-5 7-5,3,R16,,,,,,,,,,,,,,,,,,,,441,78,938,9
 2011-M-FU-ESP-16A-2011,Spain F16,Clay,32,S,20110516,18,104581,5,,David Estruch,R,,ESP,25.8206707734,106203,,Q,Pedro Sakamoto,U,,BRA,17.87816564,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,470,67,1252,3
@@ -5656,7 +5656,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-PAR-02A-2011,Paraguay F2,Clay,32,S,20110523,1,105180,1,,Daniel Dutra Da Silva,L,175,BRA,22.8802190281,105912,,SE,Diego Galeano,R,,PAR,19.3045859001,4-6 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,319,144,873,11
 2011-M-FU-PAR-02A-2011,Paraguay F2,Clay,32,S,20110523,2,105367,,,Daniel Alejandro Lopez Cassaccia,R,,PAR,21.8863791923,105729,,,Nicolas Pastor,R,,ARG,20.1971252567,5-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,801,16,479,64
 2011-M-FU-PAR-02A-2011,Paraguay F2,Clay,32,S,20110523,3,105819,,,Guido Andreozzi,R,,ARG,19.7973990418,105846,,Q,Fabricio Burdisso,R,,ARG,19.6796714579,6-0 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,545,47,1417,2
-2011-M-FU-PAR-02A-2011,Paraguay F2,Clay,32,S,20110523,4,105709,,Q,Valentin Florez,R,,ARG,20.2847364819,106043,5,,Diego Sebastian Schwartzman,R,170,ARG,18.765229295,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1270,3,342,126
+2011-M-FU-PAR-02A-2011,Paraguay F2,Clay,32,S,20110523,4,105709,,Q,Valentin Florez,R,,ARG,20.2847364819,106043,5,,Diego Schwartzman,R,170,ARG,18.765229295,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1270,3,342,126
 2011-M-FU-PAR-02A-2011,Paraguay F2,Clay,32,S,20110523,5,104713,3,,Juan Pablo Amado,R,,ARG,25.1389459274,105742,,Q,Santiago Celia,U,,ARG,20.1314168378,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,336,131,989,7
 2011-M-FU-PAR-02A-2011,Paraguay F2,Clay,32,S,20110523,6,106004,,LL,Jose Maria Paniagua,U,,ARG,19.0006844627,121958,,WC,Derlis Maciel,R,,PAR,16.7939767283,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1164,4,,
 2011-M-FU-PAR-02A-2011,Paraguay F2,Clay,32,S,20110523,7,104658,,WC,Gustavo Ramirez,U,,PAR,25.3771389459,106228,,,Juan Ignacio Londero,R,,ARG,17.7686516085,6-0 3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,1123,4,738,20
@@ -6319,7 +6319,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-ARG-06A-2011,Argentina F6,Clay,32,S,20110606,13,104538,6,,Joaquin Jesus Monteferrario,R,,ARG,26.1464750171,105785,,,Juan Pablo Ortiz,L,,ARG,19.9917864476,6-2 0-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,528,53,719,22
 2011-M-FU-ARG-06A-2011,Argentina F6,Clay,32,S,20110606,14,105854,,WC,Bruno Hamann,R,,ARG,19.6714579055,105822,,,Rodrigo Scattareggia,R,,ARG,19.832991102,2-6 7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,941,9
 2011-M-FU-ARG-06A-2011,Argentina F6,Clay,32,S,20110606,15,105465,,,Armando Javier Boschetti,U,,ARG,21.3880903491,106228,,,Juan Ignacio Londero,R,,ARG,17.8069815195,6-3 6-7(3) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,947,9,746,20
-2011-M-FU-ARG-06A-2011,Argentina F6,Clay,32,S,20110606,16,106043,2,WC,Diego Sebastian Schwartzman,R,170,ARG,18.803559206,106301,,WC,Mateo Nicolas Martinez,R,,ARG,17.2539356605,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,338,126,,
+2011-M-FU-ARG-06A-2011,Argentina F6,Clay,32,S,20110606,16,106043,2,WC,Diego Schwartzman,R,170,ARG,18.803559206,106301,,WC,Mateo Nicolas Martinez,R,,ARG,17.2539356605,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,338,126,,
 2011-M-FU-ARG-06A-2011,Argentina F6,Clay,32,S,20110606,17,104713,1,,Juan Pablo Amado,R,,ARG,25.1772758385,105948,,,Federico Coria,R,,ARG,19.241615332,2-6 6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,327,133,1017,7
 2011-M-FU-ARG-06A-2011,Argentina F6,Clay,32,S,20110606,18,104912,5,,Cristhian Ignacio Benedetti,R,,ARG,24.0876112252,104923,,,Martin Rios Benitez,U,,ARG,24.052019165,6-7(6) 6-3 7-6(9),3,R16,,,,,,,,,,,,,,,,,,,,517,54,960,9
 2011-M-FU-ARG-06A-2011,Argentina F6,Clay,32,S,20110606,19,105607,,,Gabriel Alejandro Hidalgo,R,,ARG,20.8323066393,105601,3,,Cristobal Saavedra Corvalan,R,,CHI,20.8459958932,6-2 3-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,757,19,369,110
@@ -6327,11 +6327,11 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-ARG-06A-2011,Argentina F6,Clay,32,S,20110606,21,105456,,,Sergio Galdos,R,,PER,21.4236824093,105952,7,,Renzo Olivo,R,,ARG,19.2251882272,5-7 6-4 7-6(7),3,R16,,,,,,,,,,,,,,,,,,,,789,17,587,39
 2011-M-FU-ARG-06A-2011,Argentina F6,Clay,32,S,20110606,22,105160,4,,Guillermo Duran,R,,ARG,22.9979466119,105862,,,Javier Munoz,R,,CHI,19.6386036961,4-6 6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,410,89,868,12
 2011-M-FU-ARG-06A-2011,Argentina F6,Clay,32,S,20110606,23,104538,6,,Joaquin Jesus Monteferrario,R,,ARG,26.1464750171,105854,,WC,Bruno Hamann,R,,ARG,19.6714579055,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,528,53,,
-2011-M-FU-ARG-06A-2011,Argentina F6,Clay,32,S,20110606,24,106043,2,WC,Diego Sebastian Schwartzman,R,170,ARG,18.803559206,105465,,,Armando Javier Boschetti,U,,ARG,21.3880903491,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,338,126,947,9
+2011-M-FU-ARG-06A-2011,Argentina F6,Clay,32,S,20110606,24,106043,2,WC,Diego Schwartzman,R,170,ARG,18.803559206,105465,,,Armando Javier Boschetti,U,,ARG,21.3880903491,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,338,126,947,9
 2011-M-FU-ARG-06A-2011,Argentina F6,Clay,32,S,20110606,25,104912,5,,Cristhian Ignacio Benedetti,R,,ARG,24.0876112252,104713,1,,Juan Pablo Amado,R,,ARG,25.1772758385,0-6 6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,517,54,327,133
 2011-M-FU-ARG-06A-2011,Argentina F6,Clay,32,S,20110606,26,105817,,,Kevin Konfederak,R,,ARG,19.8631074606,105607,,,Gabriel Alejandro Hidalgo,R,,ARG,20.8323066393,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,932,10,757,19
 2011-M-FU-ARG-06A-2011,Argentina F6,Clay,32,S,20110606,27,105160,4,,Guillermo Duran,R,,ARG,22.9979466119,105456,,,Sergio Galdos,R,,PER,21.4236824093,3-6 6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,410,89,789,17
-2011-M-FU-ARG-06A-2011,Argentina F6,Clay,32,S,20110606,28,104538,6,,Joaquin Jesus Monteferrario,R,,ARG,26.1464750171,106043,2,WC,Diego Sebastian Schwartzman,R,170,ARG,18.803559206,2-6 6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,528,53,338,126
+2011-M-FU-ARG-06A-2011,Argentina F6,Clay,32,S,20110606,28,104538,6,,Joaquin Jesus Monteferrario,R,,ARG,26.1464750171,106043,2,WC,Diego Schwartzman,R,170,ARG,18.803559206,2-6 6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,528,53,338,126
 2011-M-FU-ARG-06A-2011,Argentina F6,Clay,32,S,20110606,29,105817,,,Kevin Konfederak,R,,ARG,19.8631074606,104912,5,,Cristhian Ignacio Benedetti,R,,ARG,24.0876112252,6-3 6-1,3,SF,,,,,,,,,,,,,,,,,,,,932,10,517,54
 2011-M-FU-ARG-06A-2011,Argentina F6,Clay,32,S,20110606,30,105160,4,,Guillermo Duran,R,,ARG,22.9979466119,104538,6,,Joaquin Jesus Monteferrario,R,,ARG,26.1464750171,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,410,89,528,53
 2011-M-FU-ARG-06A-2011,Argentina F6,Clay,32,S,20110606,31,105817,,,Kevin Konfederak,R,,ARG,19.8631074606,105160,4,,Guillermo Duran,R,,ARG,22.9979466119,6-4 2-6 7-5,3,F,,,,,,,,,,,,,,,,,,,,932,10,410,89
@@ -6722,7 +6722,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-ARG-07A-2011,Argentina F7,Clay,32,S,20110613,13,105729,7,,Nicolas Pastor,R,,ARG,20.2546201232,111508,,WC,Juan Ignacio Galarza,R,,ARG,17.2375085558,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,507,59,,
 2011-M-FU-ARG-07A-2011,Argentina F7,Clay,32,S,20110613,14,105817,,SE,Kevin Konfederak,R,,ARG,19.8822724162,110745,,Q,Facundo Lugones,R,,ARG,18.9349760438,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,930,10,,
 2011-M-FU-ARG-07A-2011,Argentina F7,Clay,32,S,20110613,15,104538,,,Joaquin Jesus Monteferrario,R,,ARG,26.1656399726,103962,,WC,Sebastian Losavio,U,,ARG,29.2265571526,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,533,53,1672,1
-2011-M-FU-ARG-07A-2011,Argentina F7,Clay,32,S,20110613,16,106043,2,,Diego Sebastian Schwartzman,R,170,ARG,18.8227241615,105911,,,Andrea Collarini,L,,ARG,19.3648186174,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,350,117,698,24
+2011-M-FU-ARG-07A-2011,Argentina F7,Clay,32,S,20110613,16,106043,2,,Diego Schwartzman,R,170,ARG,18.8227241615,105911,,,Andrea Collarini,L,,ARG,19.3648186174,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,350,117,698,24
 2011-M-FU-ARG-07A-2011,Argentina F7,Clay,32,S,20110613,17,104713,1,,Juan Pablo Amado,R,,ARG,25.196440794,105956,,Q,Francisco Arrechea,U,,ARG,19.2334017796,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,327,133,1728,1
 2011-M-FU-ARG-07A-2011,Argentina F7,Clay,32,S,20110613,18,105274,6,,Patricio Heras,R,,ARG,22.3901437372,105952,,,Renzo Olivo,R,,ARG,19.2443531828,7-6(4) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,463,70,589,39
 2011-M-FU-ARG-07A-2011,Argentina F7,Clay,32,S,20110613,19,105160,4,,Guillermo Duran,R,,ARG,23.0171115674,104912,,,Cristhian Ignacio Benedetti,R,,ARG,24.1067761807,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,416,84,523,54
@@ -6730,14 +6730,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-ARG-07A-2011,Argentina F7,Clay,32,S,20110613,21,105935,8,,Duilio Beretta,R,,PER,19.2963723477,105884,,Q,Matias Salinas,U,,ARG,19.4743326489,4-6 6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,481,64,,
 2011-M-FU-ARG-07A-2011,Argentina F7,Clay,32,S,20110613,22,106105,3,,Guilherme Clezar,R,,BRA,18.4476386037,104683,,Q,Gustavo Sterin,R,,ARG,25.3086926762,5-7 6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,402,92,824,15
 2011-M-FU-ARG-07A-2011,Argentina F7,Clay,32,S,20110613,23,105817,,SE,Kevin Konfederak,R,,ARG,19.8822724162,105729,7,,Nicolas Pastor,R,,ARG,20.2546201232,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,930,10,507,59
-2011-M-FU-ARG-07A-2011,Argentina F7,Clay,32,S,20110613,24,106043,2,,Diego Sebastian Schwartzman,R,170,ARG,18.8227241615,104538,,,Joaquin Jesus Monteferrario,R,,ARG,26.1656399726,7-6(4) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,350,117,533,53
+2011-M-FU-ARG-07A-2011,Argentina F7,Clay,32,S,20110613,24,106043,2,,Diego Schwartzman,R,170,ARG,18.8227241615,104538,,,Joaquin Jesus Monteferrario,R,,ARG,26.1656399726,7-6(4) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,350,117,533,53
 2011-M-FU-ARG-07A-2011,Argentina F7,Clay,32,S,20110613,25,104713,1,,Juan Pablo Amado,R,,ARG,25.196440794,105274,6,,Patricio Heras,R,,ARG,22.3901437372,6-2 2-6 7-6(2),3,QF,,,,,,,,,,,,,,,,,,,,327,133,463,70
 2011-M-FU-ARG-07A-2011,Argentina F7,Clay,32,S,20110613,26,105160,4,,Guillermo Duran,R,,ARG,23.0171115674,105550,,,Guido Pella,L,185,ARG,21.0732375086,6-1 1-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,416,84,493,61
 2011-M-FU-ARG-07A-2011,Argentina F7,Clay,32,S,20110613,27,106105,3,,Guilherme Clezar,R,,BRA,18.4476386037,105935,8,,Duilio Beretta,R,,PER,19.2963723477,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,402,92,481,64
-2011-M-FU-ARG-07A-2011,Argentina F7,Clay,32,S,20110613,28,106043,2,,Diego Sebastian Schwartzman,R,170,ARG,18.8227241615,105817,,SE,Kevin Konfederak,R,,ARG,19.8822724162,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,350,117,930,10
+2011-M-FU-ARG-07A-2011,Argentina F7,Clay,32,S,20110613,28,106043,2,,Diego Schwartzman,R,170,ARG,18.8227241615,105817,,SE,Kevin Konfederak,R,,ARG,19.8822724162,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,350,117,930,10
 2011-M-FU-ARG-07A-2011,Argentina F7,Clay,32,S,20110613,29,104713,1,,Juan Pablo Amado,R,,ARG,25.196440794,105160,4,,Guillermo Duran,R,,ARG,23.0171115674,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,327,133,416,84
-2011-M-FU-ARG-07A-2011,Argentina F7,Clay,32,S,20110613,30,106043,2,,Diego Sebastian Schwartzman,R,170,ARG,18.8227241615,106105,3,,Guilherme Clezar,R,,BRA,18.4476386037,6-4 3-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,350,117,402,92
-2011-M-FU-ARG-07A-2011,Argentina F7,Clay,32,S,20110613,31,104713,1,,Juan Pablo Amado,R,,ARG,25.196440794,106043,2,,Diego Sebastian Schwartzman,R,170,ARG,18.8227241615,4-6 6-4 6-4,3,F,,,,,,,,,,,,,,,,,,,,327,133,350,117
+2011-M-FU-ARG-07A-2011,Argentina F7,Clay,32,S,20110613,30,106043,2,,Diego Schwartzman,R,170,ARG,18.8227241615,106105,3,,Guilherme Clezar,R,,BRA,18.4476386037,6-4 3-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,350,117,402,92
+2011-M-FU-ARG-07A-2011,Argentina F7,Clay,32,S,20110613,31,104713,1,,Juan Pablo Amado,R,,ARG,25.196440794,106043,2,,Diego Schwartzman,R,170,ARG,18.8227241615,4-6 6-4 6-4,3,F,,,,,,,,,,,,,,,,,,,,327,133,350,117
 2011-M-FU-CHN-08A-2011,China F8,Hard,32,S,20110613,1,105001,1,,Mao Xin Gong,R,178,CHN,23.8028747433,104555,,,Dylan Seong Kwan Kim,R,,KOR,26.083504449,3-6 5-3 RET,3,R32,,,,,,,,,,,,,,,,,,,,356,114,1081,5
 2011-M-FU-CHN-08A-2011,China F8,Hard,32,S,20110613,2,105365,,Q,Yi Feng Li,U,,CHN,21.9575633128,105927,,WC,Bei Liu,R,,CHN,19.3237508556,7-6(5) 2-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1672,1,1151,4
 2011-M-FU-CHN-08A-2011,China F8,Hard,32,S,20110613,3,105999,,,Bowen Ouyang,L,,CHN,19.0663928816,104636,,,Yao Lun Chang,R,,TPE,25.5770020534,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1120,5,1120,5
@@ -7000,7 +7000,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-ESP-20A-2011,Spain F20,Hard,32,S,20110613,12,104920,4,,Denys Molchanov,R,,UKR,24.076659822,105751,,,Roberto Ortega Olmedo,U,,ESP,20.1642710472,6-1 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,345,121,708,23
 2011-M-FU-ESP-20A-2011,Spain F20,Hard,32,S,20110613,13,104091,8,,Miguel Angel Lopez Jaen,R,188,ESP,28.5366187543,105314,,Q,Javier Pulgar Garcia,U,,ESP,22.1875427789,6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,432,81,1333,2
 2011-M-FU-ESP-20A-2011,Spain F20,Hard,32,S,20110613,14,105629,,,Rafael Mazon Hernandez,U,,ESP,20.7419575633,122184,,WC,Inigo Landaluce,U,,ESP,18.4585900068,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,707,23,,
-2011-M-FU-ESP-20A-2011,Spain F20,Hard,32,S,20110613,15,106238,,,Andres Artunedo Martinavarr,R,,ESP,17.7440109514,120926,,WC,Oleksandr Kazakov,U,,UKR,20.0684462697,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,969,8,,
+2011-M-FU-ESP-20A-2011,Spain F20,Hard,32,S,20110613,15,106238,,,Andres Artunedo Martinavarro,R,,ESP,17.7440109514,120926,,WC,Oleksandr Kazakov,U,,UKR,20.0684462697,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,969,8,,
 2011-M-FU-ESP-20A-2011,Spain F20,Hard,32,S,20110613,16,105731,,,Steven Diez,R,,CAN,20.2409308693,106347,,Q,Alexey Nesterov,U,,KAZ,16.8624229979,6-4 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,466,69,1728,1
 2011-M-FU-ESP-20A-2011,Spain F20,Hard,32,S,20110613,17,105529,,,Carlos Gomez Herrera,R,,ESP,21.1197809719,105349,1,,Harri Heliovaara,R,,FIN,22.0232717317,6-4 2-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,562,46,298,154
 2011-M-FU-ESP-20A-2011,Spain F20,Hard,32,S,20110613,18,105050,,,Michael Look,R,,AUS,23.5509924709,105774,,,Igor Bujdo,U,,POL,20.0848733744,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,459,71,803,16
@@ -7009,14 +7009,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-ESP-20A-2011,Spain F20,Hard,32,S,20110613,21,105609,5,,Ilya Belyaev,R,180,RUS,20.8432580424,106187,,,Denis Yevseyev,U,,KAZ,18.0588637919,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,334,129,1085,5
 2011-M-FU-ESP-20A-2011,Spain F20,Hard,32,S,20110613,22,104920,4,,Denys Molchanov,R,,UKR,24.076659822,105581,,,Gerard Gallego Bertran,L,,ESP,20.9555099247,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,345,121,1097,5
 2011-M-FU-ESP-20A-2011,Spain F20,Hard,32,S,20110613,23,104091,8,,Miguel Angel Lopez Jaen,R,188,ESP,28.5366187543,105629,,,Rafael Mazon Hernandez,U,,ESP,20.7419575633,7-6(6) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,432,81,707,23
-2011-M-FU-ESP-20A-2011,Spain F20,Hard,32,S,20110613,24,106238,,,Andres Artunedo Martinavarr,R,,ESP,17.7440109514,105731,,,Steven Diez,R,,CAN,20.2409308693,7-5 3-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,969,8,466,69
+2011-M-FU-ESP-20A-2011,Spain F20,Hard,32,S,20110613,24,106238,,,Andres Artunedo Martinavarro,R,,ESP,17.7440109514,105731,,,Steven Diez,R,,CAN,20.2409308693,7-5 3-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,969,8,466,69
 2011-M-FU-ESP-20A-2011,Spain F20,Hard,32,S,20110613,25,105050,,,Michael Look,R,,AUS,23.5509924709,105529,,,Carlos Gomez Herrera,R,,ESP,21.1197809719,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,459,71,562,46
 2011-M-FU-ESP-20A-2011,Spain F20,Hard,32,S,20110613,26,104516,3,,Arnau Brugues Davi,L,183,ESP,26.2724161533,106120,,WC,Ricardo Ojeda Lara,U,,ESP,18.3764544832,6-0 6-0,3,QF,,,,,,,,,,,,,,,,,,,,263,180,1840,1
 2011-M-FU-ESP-20A-2011,Spain F20,Hard,32,S,20110613,27,105609,5,,Ilya Belyaev,R,180,RUS,20.8432580424,104920,4,,Denys Molchanov,R,,UKR,24.076659822,3-6 6-3 RET,3,QF,,,,,,,,,,,,,,,,,,,,334,129,345,121
-2011-M-FU-ESP-20A-2011,Spain F20,Hard,32,S,20110613,28,106238,,,Andres Artunedo Martinavarr,R,,ESP,17.7440109514,104091,8,,Miguel Angel Lopez Jaen,R,188,ESP,28.5366187543,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,969,8,432,81
+2011-M-FU-ESP-20A-2011,Spain F20,Hard,32,S,20110613,28,106238,,,Andres Artunedo Martinavarro,R,,ESP,17.7440109514,104091,8,,Miguel Angel Lopez Jaen,R,188,ESP,28.5366187543,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,969,8,432,81
 2011-M-FU-ESP-20A-2011,Spain F20,Hard,32,S,20110613,29,104516,3,,Arnau Brugues Davi,L,183,ESP,26.2724161533,105050,,,Michael Look,R,,AUS,23.5509924709,6-3 6-7(5) 6-3,3,SF,,,,,,,,,,,,,,,,,,,,263,180,459,71
-2011-M-FU-ESP-20A-2011,Spain F20,Hard,32,S,20110613,30,106238,,,Andres Artunedo Martinavarr,R,,ESP,17.7440109514,105609,5,,Ilya Belyaev,R,180,RUS,20.8432580424,0-6 6-4 7-5,3,SF,,,,,,,,,,,,,,,,,,,,969,8,334,129
-2011-M-FU-ESP-20A-2011,Spain F20,Hard,32,S,20110613,31,104516,3,,Arnau Brugues Davi,L,183,ESP,26.2724161533,106238,,,Andres Artunedo Martinavarr,R,,ESP,17.7440109514,6-2 6-3,3,F,,,,,,,,,,,,,,,,,,,,263,180,969,8
+2011-M-FU-ESP-20A-2011,Spain F20,Hard,32,S,20110613,30,106238,,,Andres Artunedo Martinavarro,R,,ESP,17.7440109514,105609,5,,Ilya Belyaev,R,180,RUS,20.8432580424,0-6 6-4 7-5,3,SF,,,,,,,,,,,,,,,,,,,,969,8,334,129
+2011-M-FU-ESP-20A-2011,Spain F20,Hard,32,S,20110613,31,104516,3,,Arnau Brugues Davi,L,183,ESP,26.2724161533,106238,,,Andres Artunedo Martinavarro,R,,ESP,17.7440109514,6-2 6-3,3,F,,,,,,,,,,,,,,,,,,,,263,180,969,8
 2011-M-FU-USA-14A-2011,USA F14,Hard,32,S,20110613,1,105229,1,,Philip Bester,R,188,CAN,22.6830937714,122187,,WC,Georgy Tchoukhleb,U,,RUS,26.0287474333,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,244,199,,
 2011-M-FU-USA-14A-2011,USA F14,Hard,32,S,20110613,2,104758,,SE,Antoine Benneteau,R,,FRA,24.9527720739,104899,,Q,Nathaniel Gorham,U,,USA,24.1779603012,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1255,3,1728,1
 2011-M-FU-USA-14A-2011,USA F14,Hard,32,S,20110613,3,105871,,,Sekou Bangoura,R,,USA,19.5674195756,104956,,Q,Guillermo Gomez Diaz,U,,ESP,23.9863107461,7-6(5) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1044,6,,
@@ -7094,7 +7094,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-ARG-08A-2011,Argentina F8,Clay,32,S,20110620,13,105160,5,,Guillermo Duran,R,,ARG,23.0362765229,104538,,,Joaquin Jesus Monteferrario,R,,ARG,26.1848049281,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,421,84,513,59
 2011-M-FU-ARG-08A-2011,Argentina F8,Clay,32,S,20110620,14,105952,,,Renzo Olivo,R,,ARG,19.2635181383,105771,,Q,Nicolas Alejandro De Gregorio,R,,ARG,20.1122518823,6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,590,40,1451,2
 2011-M-FU-ARG-08A-2011,Argentina F8,Clay,32,S,20110620,15,105607,,,Gabriel Alejandro Hidalgo,R,,ARG,20.8706365503,103524,,,Diego Alvarez,R,,ARG,31.2881587953,6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,754,19,508,59
-2011-M-FU-ARG-08A-2011,Argentina F8,Clay,32,S,20110620,16,106043,2,,Diego Sebastian Schwartzman,R,170,ARG,18.841889117,106231,,Q,Facundo Manzanares,U,,ARG,17.8042436687,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,353,118,,
+2011-M-FU-ARG-08A-2011,Argentina F8,Clay,32,S,20110620,16,106043,2,,Diego Schwartzman,R,170,ARG,18.841889117,106231,,Q,Facundo Manzanares,U,,ARG,17.8042436687,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,353,118,,
 2011-M-FU-ARG-08A-2011,Argentina F8,Clay,32,S,20110620,17,106032,1,,Facundo Arguello,R,,ARG,18.8747433265,105348,,Q,Santiago Maccio,U,,ARG,22.0479123888,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,305,147,,
 2011-M-FU-ARG-08A-2011,Argentina F8,Clay,32,S,20110620,18,106006,6,,Agustin Velotti,R,,ARG,19.0718685832,105766,,Q,Ryusei Makiguchi,U,,BOL,20.1314168378,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,444,77,766,18
 2011-M-FU-ARG-08A-2011,Argentina F8,Clay,32,S,20110620,19,104608,3,,Rodrigo Guidolin,R,,BRA,25.7467488022,106228,,,Juan Ignacio Londero,R,,ARG,17.8453114305,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,354,116,745,20
@@ -7102,11 +7102,11 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-ARG-08A-2011,Argentina F8,Clay,32,S,20110620,21,105935,8,,Duilio Beretta,R,,PER,19.3155373032,105911,,,Andrea Collarini,L,,ARG,19.3839835729,3-6 7-6(3) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,488,64,695,24
 2011-M-FU-ARG-08A-2011,Argentina F8,Clay,32,S,20110620,22,105899,,,Martin Cuevas,R,,URU,19.4305270363,106105,4,,Guilherme Clezar,R,,BRA,18.4668035592,7-6(5) 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,642,31,402,92
 2011-M-FU-ARG-08A-2011,Argentina F8,Clay,32,S,20110620,23,105952,,,Renzo Olivo,R,,ARG,19.2635181383,105160,5,,Guillermo Duran,R,,ARG,23.0362765229,7-6(4) 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,590,40,421,84
-2011-M-FU-ARG-08A-2011,Argentina F8,Clay,32,S,20110620,24,106043,2,,Diego Sebastian Schwartzman,R,170,ARG,18.841889117,105607,,,Gabriel Alejandro Hidalgo,R,,ARG,20.8706365503,6-4 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,353,118,754,19
+2011-M-FU-ARG-08A-2011,Argentina F8,Clay,32,S,20110620,24,106043,2,,Diego Schwartzman,R,170,ARG,18.841889117,105607,,,Gabriel Alejandro Hidalgo,R,,ARG,20.8706365503,6-4 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,353,118,754,19
 2011-M-FU-ARG-08A-2011,Argentina F8,Clay,32,S,20110620,25,106032,1,,Facundo Arguello,R,,ARG,18.8747433265,106006,6,,Agustin Velotti,R,,ARG,19.0718685832,3-6 6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,305,147,444,77
 2011-M-FU-ARG-08A-2011,Argentina F8,Clay,32,S,20110620,26,105550,,,Guido Pella,L,185,ARG,21.0924024641,104608,3,,Rodrigo Guidolin,R,,BRA,25.7467488022,3-6 6-3 6-0,3,QF,,,,,,,,,,,,,,,,,,,,495,61,354,116
 2011-M-FU-ARG-08A-2011,Argentina F8,Clay,32,S,20110620,27,105935,8,,Duilio Beretta,R,,PER,19.3155373032,105899,,,Martin Cuevas,R,,URU,19.4305270363,6-4 2-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,488,64,642,31
-2011-M-FU-ARG-08A-2011,Argentina F8,Clay,32,S,20110620,28,105952,,,Renzo Olivo,R,,ARG,19.2635181383,106043,2,,Diego Sebastian Schwartzman,R,170,ARG,18.841889117,6-2 6-7(2) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,590,40,353,118
+2011-M-FU-ARG-08A-2011,Argentina F8,Clay,32,S,20110620,28,105952,,,Renzo Olivo,R,,ARG,19.2635181383,106043,2,,Diego Schwartzman,R,170,ARG,18.841889117,6-2 6-7(2) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,590,40,353,118
 2011-M-FU-ARG-08A-2011,Argentina F8,Clay,32,S,20110620,29,106032,1,,Facundo Arguello,R,,ARG,18.8747433265,105550,,,Guido Pella,L,185,ARG,21.0924024641,2-6 6-4 6-1,3,SF,,,,,,,,,,,,,,,,,,,,305,147,495,61
 2011-M-FU-ARG-08A-2011,Argentina F8,Clay,32,S,20110620,30,105935,8,,Duilio Beretta,R,,PER,19.3155373032,105952,,,Renzo Olivo,R,,ARG,19.2635181383,6-2 7-6(8),3,SF,,,,,,,,,,,,,,,,,,,,488,64,590,40
 2011-M-FU-ARG-08A-2011,Argentina F8,Clay,32,S,20110620,31,106032,1,,Facundo Arguello,R,,ARG,18.8747433265,105935,8,,Duilio Beretta,R,,PER,19.3155373032,3-6 6-2 7-6(4),3,F,,,,,,,,,,,,,,,,,,,,305,147,488,64
@@ -8619,7 +8619,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-ESP-24A-2011,Spain F24,Clay,32,S,20110711,11,104807,,Q,Mehdi Ziadi,R,,MAR,24.8049281314,106179,,Q,Amerigo Contini,R,,ITA,18.1875427789,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,638,30,1727,1
 2011-M-FU-ESP-24A-2011,Spain F24,Clay,32,S,20110711,12,104944,3,,Niels Desein,R,,BEL,24.0876112252,106028,,WC,Ivan Gomez Mantilla,R,,ESP,19.0061601643,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,553,47,1351,2
 2011-M-FU-ESP-24A-2011,Spain F24,Clay,32,S,20110711,13,103687,6,,Enrico Burzi,U,,ITA,30.4859685147,106121,,,Taro Daniel,R,,JPN,18.4503764545,3-6 6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,536,52,620,34
-2011-M-FU-ESP-24A-2011,Spain F24,Clay,32,S,20110711,14,106238,,,Andres Artunedo Martinavarr,R,,ESP,17.8206707734,105629,,,Rafael Mazon Hernandez,U,,ESP,20.8186173854,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,701,23,685,26
+2011-M-FU-ESP-24A-2011,Spain F24,Clay,32,S,20110711,14,106238,,,Andres Artunedo Martinavarro,R,,ESP,17.8206707734,105629,,,Rafael Mazon Hernandez,U,,ESP,20.8186173854,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,701,23,685,26
 2011-M-FU-ESP-24A-2011,Spain F24,Clay,32,S,20110711,15,106403,,WC,Albert Alcaraz Ivorra,R,,ESP,16.1560574949,106368,,LL,Ramkumar Ramanathan,R,,IND,16.6707734428,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1578,1,927,9
 2011-M-FU-ESP-24A-2011,Spain F24,Clay,32,S,20110711,16,104581,2,,David Estruch,R,,ESP,25.9739904175,106322,,LL,David Perez Sanz,U,,ESP,17.1553730322,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,431,82,1088,5
 2011-M-FU-ESP-24A-2011,Spain F24,Clay,32,S,20110711,17,105609,1,,Ilya Belyaev,R,180,RUS,20.9199178645,104835,,Q,Roberto Rodriguez Alonso,U,,ESP,24.6187542779,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,312,141,1115,5
@@ -8628,7 +8628,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-ESP-24A-2011,Spain F24,Clay,32,S,20110711,20,104264,8,,Marco Viola,R,,ITA,27.7015742642,103294,,,Christophe Rochus,R,170,BEL,32.5694729637,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,599,37,687,25
 2011-M-FU-ESP-24A-2011,Spain F24,Clay,32,S,20110711,21,105974,,,Maverick Banes,R,,AUS,19.2498288843,105758,7,,Juan Lizariturry,U,,ESP,20.2245037645,6-2 3-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,883,11,547,48
 2011-M-FU-ESP-24A-2011,Spain F24,Clay,32,S,20110711,22,104944,3,,Niels Desein,R,,BEL,24.0876112252,104807,,Q,Mehdi Ziadi,R,,MAR,24.8049281314,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,553,47,638,30
-2011-M-FU-ESP-24A-2011,Spain F24,Clay,32,S,20110711,23,103687,6,,Enrico Burzi,U,,ITA,30.4859685147,106238,,,Andres Artunedo Martinavarr,R,,ESP,17.8206707734,1-6 6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,536,52,701,23
+2011-M-FU-ESP-24A-2011,Spain F24,Clay,32,S,20110711,23,103687,6,,Enrico Burzi,U,,ITA,30.4859685147,106238,,,Andres Artunedo Martinavarro,R,,ESP,17.8206707734,1-6 6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,536,52,701,23
 2011-M-FU-ESP-24A-2011,Spain F24,Clay,32,S,20110711,24,104581,2,,David Estruch,R,,ESP,25.9739904175,106403,,WC,Albert Alcaraz Ivorra,R,,ESP,16.1560574949,7-5 7-5,3,R16,,,,,,,,,,,,,,,,,,,,431,82,1578,1
 2011-M-FU-ESP-24A-2011,Spain F24,Clay,32,S,20110711,25,105609,1,,Ilya Belyaev,R,180,RUS,20.9199178645,104084,5,,Carlos Poch Gradin,L,185,ESP,28.6680355921,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,312,141,,
 2011-M-FU-ESP-24A-2011,Spain F24,Clay,32,S,20110711,26,104091,4,,Miguel Angel Lopez Jaen,R,188,ESP,28.6132785763,104264,8,,Marco Viola,R,,ITA,27.7015742642,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,510,59,599,37
@@ -8887,7 +8887,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-ITA-19A-2011,Italy F19,Clay,32,S,20110718,31,104963,2,,Yannick Mertens,R,,BEL,24.0629705681,105729,,,Nicolas Pastor,R,,ARG,20.3504449008,6-4 5-7 6-2,3,F,,,,,,,,,,,,,,,,,,,,230,220,497,62
 2011-M-FU-ESP-25A-2011,Spain F25,Clay,32,S,20110718,1,105609,1,,Ilya Belyaev,R,180,RUS,20.93908282,105664,,Q,Ivan Arenas Gualda,U,,ESP,20.7118412047,7-5 5-7 6-1,3,R32,,,,,,,,,,,,,,,,,,,,314,141,958,8
 2011-M-FU-ESP-25A-2011,Spain F25,Clay,32,S,20110718,2,105751,,,Roberto Ortega Olmedo,U,,ESP,20.2600958248,105124,,,Carlos Calderon Rodriguez,R,,ESP,23.3292265572,6-2 5-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,649,30,625,33
-2011-M-FU-ESP-25A-2011,Spain F25,Clay,32,S,20110718,3,105574,,Q,Jean Marc Werner,R,,GER,21.0732375086,106238,,WC,Andres Artunedo Martinavarr,R,,ESP,17.839835729,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1682,1,702,23
+2011-M-FU-ESP-25A-2011,Spain F25,Clay,32,S,20110718,3,105574,,Q,Jean Marc Werner,R,,GER,21.0732375086,106238,,WC,Andres Artunedo Martinavarro,R,,ESP,17.839835729,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1682,1,702,23
 2011-M-FU-ESP-25A-2011,Spain F25,Clay,32,S,20110718,4,104084,6,,Carlos Poch Gradin,L,185,ESP,28.6872005476,105581,,Q,Gerard Gallego Bertran,L,,ESP,21.0513347023,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,528,55,1051,6
 2011-M-FU-ESP-25A-2011,Spain F25,Clay,32,S,20110718,5,105591,4,,Matt Reid,R,,AUS,21.0020533881,105789,,,Marc Giner,R,,ESP,20.0821355236,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,445,79,709,23
 2011-M-FU-ESP-25A-2011,Spain F25,Clay,32,S,20110718,6,105629,,,Rafael Mazon Hernandez,U,,ESP,20.8377823409,106197,,WC,Samuel Ribeiro Navarrete,U,,ESP,18.0971937029,3-6 6-4 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,685,26,,
@@ -9722,7 +9722,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-ARG-10A-2011,Argentina F10,Clay,32,S,20110808,13,103689,7,,Guillermo Carry,L,,ARG,30.559890486,120186,,Q,Nicolas Andres Rodriguez,R,,ARG,23.2936344969,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,665,27,,
 2011-M-FU-ARG-10A-2011,Argentina F10,Clay,32,S,20110808,14,106057,,,Facundo Mena,R,,ARG,18.8747433265,105488,,,Jose Benitez,U,,PAR,21.440109514,7-6(7) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,882,12,1048,6
 2011-M-FU-ARG-10A-2011,Argentina F10,Clay,32,S,20110808,15,105298,,Q,Bruno Tiberti,U,,ARG,22.4366872005,105740,,Q,Francesco Garzelli,R,,ITA,20.3422313484,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2011-M-FU-ARG-10A-2011,Argentina F10,Clay,32,S,20110808,16,106043,2,,Diego Sebastian Schwartzman,R,170,ARG,18.9760438056,106301,,WC,Mateo Nicolas Martinez,R,,ARG,17.4264202601,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,347,123,1802,1
+2011-M-FU-ARG-10A-2011,Argentina F10,Clay,32,S,20110808,16,106043,2,,Diego Schwartzman,R,170,ARG,18.9760438056,106301,,WC,Mateo Nicolas Martinez,R,,ARG,17.4264202601,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,347,123,1802,1
 2011-M-FU-ARG-10A-2011,Argentina F10,Clay,32,S,20110808,17,103850,1,,Sebastian Decoud,L,178,ARG,29.8863791923,105948,,,Federico Coria,R,,ARG,19.4140999316,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,255,191,883,12
 2011-M-FU-ARG-10A-2011,Argentina F10,Clay,32,S,20110808,18,105911,,,Andrea Collarini,L,,ARG,19.5181382615,106164,,WC,Tomas Lipovsek Puches,U,,ARG,18.3080082136,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,765,18,,
 2011-M-FU-ARG-10A-2011,Argentina F10,Clay,32,S,20110808,19,104033,3,,Juan Pablo Villar,U,,ARG,29.0787132101,104513,,PR,Leandro Migani,R,,ARG,26.4339493498,1-6 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,402,97,1421,2
@@ -9730,13 +9730,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-ARG-10A-2011,Argentina F10,Clay,32,S,20110808,21,105607,,,Gabriel Alejandro Hidalgo,R,,ARG,21.0047912389,104621,,,Juan Manuel Valverde,R,,ARG,25.826146475,6-7(4) 6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,736,20,779,17
 2011-M-FU-ARG-10A-2011,Argentina F10,Clay,32,S,20110808,22,105274,4,,Patricio Heras,R,,ARG,22.5434633812,104828,,,Alejandro Kon,U,,ARG,24.7419575633,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,500,62,899,11
 2011-M-FU-ARG-10A-2011,Argentina F10,Clay,32,S,20110808,23,103689,7,,Guillermo Carry,L,,ARG,30.559890486,106057,,,Facundo Mena,R,,ARG,18.8747433265,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,665,27,882,12
-2011-M-FU-ARG-10A-2011,Argentina F10,Clay,32,S,20110808,24,106043,2,,Diego Sebastian Schwartzman,R,170,ARG,18.9760438056,105298,,Q,Bruno Tiberti,U,,ARG,22.4366872005,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,347,123,,
+2011-M-FU-ARG-10A-2011,Argentina F10,Clay,32,S,20110808,24,106043,2,,Diego Schwartzman,R,170,ARG,18.9760438056,105298,,Q,Bruno Tiberti,U,,ARG,22.4366872005,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,347,123,,
 2011-M-FU-ARG-10A-2011,Argentina F10,Clay,32,S,20110808,25,105911,,,Andrea Collarini,L,,ARG,19.5181382615,103850,1,,Sebastian Decoud,L,178,ARG,29.8863791923,6-4 7-6(9),3,QF,,,,,,,,,,,,,,,,,,,,765,18,255,191
 2011-M-FU-ARG-10A-2011,Argentina F10,Clay,32,S,20110808,26,104033,3,,Juan Pablo Villar,U,,ARG,29.0787132101,105709,,,Valentin Florez,R,,ARG,20.4955509925,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,402,97,968,8
 2011-M-FU-ARG-10A-2011,Argentina F10,Clay,32,S,20110808,27,105274,4,,Patricio Heras,R,,ARG,22.5434633812,105607,,,Gabriel Alejandro Hidalgo,R,,ARG,21.0047912389,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,500,62,736,20
-2011-M-FU-ARG-10A-2011,Argentina F10,Clay,32,S,20110808,28,106043,2,,Diego Sebastian Schwartzman,R,170,ARG,18.9760438056,103689,7,,Guillermo Carry,L,,ARG,30.559890486,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,347,123,665,27
+2011-M-FU-ARG-10A-2011,Argentina F10,Clay,32,S,20110808,28,106043,2,,Diego Schwartzman,R,170,ARG,18.9760438056,103689,7,,Guillermo Carry,L,,ARG,30.559890486,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,347,123,665,27
 2011-M-FU-ARG-10A-2011,Argentina F10,Clay,32,S,20110808,29,105911,,,Andrea Collarini,L,,ARG,19.5181382615,104033,3,,Juan Pablo Villar,U,,ARG,29.0787132101,6-0 6-4,3,SF,,,,,,,,,,,,,,,,,,,,765,18,402,97
-2011-M-FU-ARG-10A-2011,Argentina F10,Clay,32,S,20110808,30,105274,4,,Patricio Heras,R,,ARG,22.5434633812,106043,2,,Diego Sebastian Schwartzman,R,170,ARG,18.9760438056,6-4 2-6 7-5,3,SF,,,,,,,,,,,,,,,,,,,,500,62,347,123
+2011-M-FU-ARG-10A-2011,Argentina F10,Clay,32,S,20110808,30,105274,4,,Patricio Heras,R,,ARG,22.5434633812,106043,2,,Diego Schwartzman,R,170,ARG,18.9760438056,6-4 2-6 7-5,3,SF,,,,,,,,,,,,,,,,,,,,500,62,347,123
 2011-M-FU-ARG-10A-2011,Argentina F10,Clay,32,S,20110808,31,105911,,,Andrea Collarini,L,,ARG,19.5181382615,105274,4,,Patricio Heras,R,,ARG,22.5434633812,6-4 6-3,3,F,,,,,,,,,,,,,,,,,,,,765,18,500,62
 2011-M-FU-ARG-10A-2011,Argentina F10,Clay,32,S,20110808,606,106242,1,,Mauricio Perez Mota,U,,ARG,17.87816564,106231,,,Facundo Manzanares,U,,ARG,17.9383983573,7-6(4) 6-1,3,Q4,,,,,,,,,,,,,,,,,,,,1280,3,,
 2011-M-FU-ARG-10A-2011,Argentina F10,Clay,32,S,20110808,607,106162,,,Franco Agamenone,U,,ARG,18.3134839151,105167,2,,Juan Manuel Romanazzi,L,,ARG,23.1430527036,6-4 6-3,3,Q4,,,,,,,,,,,,,,,,,,,,,,1306,3
@@ -10790,7 +10790,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-ESP-29A-2011,Spain F29,Clay,32,S,20110815,12,105824,,Q,Kirill Dmitriev,U,,RUS,20.0164271047,122315,,WC,Pedro Ecenarro Del Rio,U,,ESP,15.9014373717,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1322,3,,
 2011-M-FU-ESP-29A-2011,Spain F29,Clay,32,S,20110815,13,104532,5,,Jose Checa Calvo,L,,ESP,26.3682409309,105851,,,Florent Diep,U,,FRA,19.8904859685,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,520,55,711,22
 2011-M-FU-ESP-29A-2011,Spain F29,Clay,32,S,20110815,14,106175,,,Ricardo Rodriguez,R,,VEN,18.2970568104,105629,,,Rafael Mazon Hernandez,U,,ESP,20.9144421629,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,878,12,671,27
-2011-M-FU-ESP-29A-2011,Spain F29,Clay,32,S,20110815,15,106238,,,Andres Artunedo Martinavarr,R,,ESP,17.916495551,106347,,LL,Alexey Nesterov,U,,KAZ,17.0349075975,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,693,24,1805,1
+2011-M-FU-ESP-29A-2011,Spain F29,Clay,32,S,20110815,15,106238,,,Andres Artunedo Martinavarro,R,,ESP,17.916495551,106347,,LL,Alexey Nesterov,U,,KAZ,17.0349075975,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,693,24,1805,1
 2011-M-FU-ESP-29A-2011,Spain F29,Clay,32,S,20110815,16,105961,2,,David Souto,L,,VEN,19.3867214237,104835,,,Roberto Rodriguez Alonso,U,,ESP,24.7145790554,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,376,107,1016,7
 2011-M-FU-ESP-29A-2011,Spain F29,Clay,32,S,20110815,17,104633,1,,Mathieu Rodrigues,R,,FRA,25.7686516085,105789,,,Marc Giner,R,,ESP,20.1587953457,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,360,115,583,41
 2011-M-FU-ESP-29A-2011,Spain F29,Clay,32,S,20110815,18,105787,6,,Hiroyasu Ehara,R,,JPN,20.1587953457,106177,,,Oriol Roca Batalla,R,,ESP,18.2915811088,7-6(6) 1-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,532,52,901,11
@@ -10799,13 +10799,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-ESP-29A-2011,Spain F29,Clay,32,S,20110815,21,105124,8,,Carlos Calderon Rodriguez,R,,ESP,23.4058863792,104238,,Q,Jaume Santo Valdivieso,R,,ESP,27.9397672827,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,615,34,,
 2011-M-FU-ESP-29A-2011,Spain F29,Clay,32,S,20110815,22,105824,,Q,Kirill Dmitriev,U,,RUS,20.0164271047,105664,,,Ivan Arenas Gualda,U,,ESP,20.7885010267,5-7 6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1322,3,977,8
 2011-M-FU-ESP-29A-2011,Spain F29,Clay,32,S,20110815,23,106175,,,Ricardo Rodriguez,R,,VEN,18.2970568104,104532,5,,Jose Checa Calvo,L,,ESP,26.3682409309,6-3 2-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,878,12,520,55
-2011-M-FU-ESP-29A-2011,Spain F29,Clay,32,S,20110815,24,106238,,,Andres Artunedo Martinavarr,R,,ESP,17.916495551,105961,2,,David Souto,L,,VEN,19.3867214237,6-2 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,693,24,376,107
+2011-M-FU-ESP-29A-2011,Spain F29,Clay,32,S,20110815,24,106238,,,Andres Artunedo Martinavarro,R,,ESP,17.916495551,105961,2,,David Souto,L,,VEN,19.3867214237,6-2 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,693,24,376,107
 2011-M-FU-ESP-29A-2011,Spain F29,Clay,32,S,20110815,25,104633,1,,Mathieu Rodrigues,R,,FRA,25.7686516085,105787,6,,Hiroyasu Ehara,R,,JPN,20.1587953457,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,360,115,532,52
 2011-M-FU-ESP-29A-2011,Spain F29,Clay,32,S,20110815,26,106148,3,,Roberto Carballes Baena,R,,ESP,18.3956194387,106121,7,,Taro Daniel,R,,JPN,18.546201232,6-0 6-0,3,QF,,,,,,,,,,,,,,,,,,,,440,79,581,42
 2011-M-FU-ESP-29A-2011,Spain F29,Clay,32,S,20110815,27,105124,8,,Carlos Calderon Rodriguez,R,,ESP,23.4058863792,105824,,Q,Kirill Dmitriev,U,,RUS,20.0164271047,6-1 1-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,615,34,1322,3
-2011-M-FU-ESP-29A-2011,Spain F29,Clay,32,S,20110815,28,106238,,,Andres Artunedo Martinavarr,R,,ESP,17.916495551,106175,,,Ricardo Rodriguez,R,,VEN,18.2970568104,7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,693,24,878,12
+2011-M-FU-ESP-29A-2011,Spain F29,Clay,32,S,20110815,28,106238,,,Andres Artunedo Martinavarro,R,,ESP,17.916495551,106175,,,Ricardo Rodriguez,R,,VEN,18.2970568104,7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,693,24,878,12
 2011-M-FU-ESP-29A-2011,Spain F29,Clay,32,S,20110815,29,104633,1,,Mathieu Rodrigues,R,,FRA,25.7686516085,106148,3,,Roberto Carballes Baena,R,,ESP,18.3956194387,6-7(4) 6-2 6-1,3,SF,,,,,,,,,,,,,,,,,,,,360,115,440,79
-2011-M-FU-ESP-29A-2011,Spain F29,Clay,32,S,20110815,30,105124,8,,Carlos Calderon Rodriguez,R,,ESP,23.4058863792,106238,,,Andres Artunedo Martinavarr,R,,ESP,17.916495551,6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,615,34,693,24
+2011-M-FU-ESP-29A-2011,Spain F29,Clay,32,S,20110815,30,105124,8,,Carlos Calderon Rodriguez,R,,ESP,23.4058863792,106238,,,Andres Artunedo Martinavarro,R,,ESP,17.916495551,6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,615,34,693,24
 2011-M-FU-ESP-29A-2011,Spain F29,Clay,32,S,20110815,31,104633,1,,Mathieu Rodrigues,R,,FRA,25.7686516085,105124,8,,Carlos Calderon Rodriguez,R,,ESP,23.4058863792,6-4 6-3,3,F,,,,,,,,,,,,,,,,,,,,360,115,615,34
 2011-M-FU-ARG-12A-2011,Argentina F12,Clay,32,S,20110822,1,104033,1,,Juan Pablo Villar,U,,ARG,29.1170431211,106301,,Q,Mateo Nicolas Martinez,R,,ARG,17.4647501711,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,389,102,1848,1
 2011-M-FU-ARG-12A-2011,Argentina F12,Clay,32,S,20110822,2,104683,,,Gustavo Sterin,R,,ARG,25.5003422313,106002,,,Tomas Buchhass,R,,ARG,19.2553045859,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,841,14,983,8
@@ -11273,7 +11273,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-SRB-08A-2011,Serbia F8,Clay,32,S,20110822,30,104067,5,,Goran Tosic,R,,MNE,28.8733744011,106065,,,Marco Cecchinato,R,,ITA,18.8911704312,3-6 6-1 6-0,3,SF,,,,,,,,,,,,,,,,,,,,458,76,750,19
 2011-M-FU-SRB-08A-2011,Serbia F8,Clay,32,S,20110822,31,104306,6,,Ivan Bjelica,R,,SRB,27.5154004107,104067,5,,Goran Tosic,R,,MNE,28.8733744011,7-6(3) 6-2,3,F,,,,,,,,,,,,,,,,,,,,506,61,458,76
 2011-M-FU-ESP-30A-2011,Spain F30,Hard,32,S,20110822,1,105257,1,,David Rice,R,,GBR,22.636550308,105313,,,Jaime Pulgar Garcia,U,,ESP,22.379192334,4-6 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,430,84,971,8
-2011-M-FU-ESP-30A-2011,Spain F30,Hard,32,S,20110822,2,106238,,,Andres Artunedo Martinavarr,R,,ESP,17.9356605065,105156,,,Federico Zeballos,U,,BOL,23.227926078,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,693,24,686,25
+2011-M-FU-ESP-30A-2011,Spain F30,Hard,32,S,20110822,2,106238,,,Andres Artunedo Martinavarro,R,,ESP,17.9356605065,105156,,,Federico Zeballos,U,,BOL,23.227926078,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,693,24,686,25
 2011-M-FU-ESP-30A-2011,Spain F30,Hard,32,S,20110822,3,105664,,,Ivan Arenas Gualda,U,,ESP,20.8076659822,106322,,,David Perez Sanz,U,,ESP,17.2703627652,6-4 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,980,8,1059,6
 2011-M-FU-ESP-30A-2011,Spain F30,Hard,32,S,20110822,4,106121,5,,Taro Daniel,R,,JPN,18.5653661875,105836,,,Jules Marie,R,,FRA,19.9726214921,3-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,582,42,817,15
 2011-M-FU-ESP-30A-2011,Spain F30,Hard,32,S,20110822,5,105150,4,,Pablo Martin Adalia,R,,ESP,23.2553045859,122316,,WC,David De Leon Elias,R,,ESP,16.720054757,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,566,45,,
@@ -11288,7 +11288,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-ESP-30A-2011,Spain F30,Hard,32,S,20110822,14,106175,,,Ricardo Rodriguez,R,,VEN,18.3162217659,106179,,Q,Amerigo Contini,R,,ITA,18.302532512,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,880,12,1764,1
 2011-M-FU-ESP-30A-2011,Spain F30,Hard,32,S,20110822,15,105824,,Q,Kirill Dmitriev,U,,RUS,20.0355920602,121825,,Q,Ivan Martinez Montoro,U,,ESP,18.135523614,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1321,3,,
 2011-M-FU-ESP-30A-2011,Spain F30,Hard,32,S,20110822,16,104084,2,,Carlos Poch Gradin,L,185,ESP,28.7830253251,110551,,Q,Mohamed Nazim Khan,U,,MAS,18.1519507187,3-6 7-6(5) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,573,44,,
-2011-M-FU-ESP-30A-2011,Spain F30,Hard,32,S,20110822,17,106238,,,Andres Artunedo Martinavarr,R,,ESP,17.9356605065,105257,1,,David Rice,R,,GBR,22.636550308,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,693,24,430,84
+2011-M-FU-ESP-30A-2011,Spain F30,Hard,32,S,20110822,17,106238,,,Andres Artunedo Martinavarro,R,,ESP,17.9356605065,105257,1,,David Rice,R,,GBR,22.636550308,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,693,24,430,84
 2011-M-FU-ESP-30A-2011,Spain F30,Hard,32,S,20110822,18,105664,,,Ivan Arenas Gualda,U,,ESP,20.8076659822,106121,5,,Taro Daniel,R,,JPN,18.5653661875,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,980,8,582,42
 2011-M-FU-ESP-30A-2011,Spain F30,Hard,32,S,20110822,19,105150,4,,Pablo Martin Adalia,R,,ESP,23.2553045859,105782,,,Enrique Lopez Perez,R,,ESP,20.219028063,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,566,45,700,24
 2011-M-FU-ESP-30A-2011,Spain F30,Hard,32,S,20110822,20,105751,7,,Roberto Ortega Olmedo,U,,ESP,20.3559206023,106001,,,Javier Banos Pantoja,U,,ESP,19.2553045859,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,655,29,1180,4
@@ -11296,7 +11296,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-ESP-30A-2011,Spain F30,Hard,32,S,20110822,22,104091,3,,Miguel Angel Lopez Jaen,R,188,ESP,28.7282683094,106003,,Q,Marcos Esparcia Omedas,U,,ESP,19.2525667351,6-3 3-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,527,55,1891,1
 2011-M-FU-ESP-30A-2011,Spain F30,Hard,32,S,20110822,23,106175,,,Ricardo Rodriguez,R,,VEN,18.3162217659,105124,6,,Carlos Calderon Rodriguez,R,,ESP,23.4250513347,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,880,12,620,34
 2011-M-FU-ESP-30A-2011,Spain F30,Hard,32,S,20110822,24,104084,2,,Carlos Poch Gradin,L,185,ESP,28.7830253251,105824,,Q,Kirill Dmitriev,U,,RUS,20.0355920602,3-6 6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,573,44,1321,3
-2011-M-FU-ESP-30A-2011,Spain F30,Hard,32,S,20110822,25,105664,,,Ivan Arenas Gualda,U,,ESP,20.8076659822,106238,,,Andres Artunedo Martinavarr,R,,ESP,17.9356605065,7-6(3) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,980,8,693,24
+2011-M-FU-ESP-30A-2011,Spain F30,Hard,32,S,20110822,25,105664,,,Ivan Arenas Gualda,U,,ESP,20.8076659822,106238,,,Andres Artunedo Martinavarro,R,,ESP,17.9356605065,7-6(3) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,980,8,693,24
 2011-M-FU-ESP-30A-2011,Spain F30,Hard,32,S,20110822,26,105751,7,,Roberto Ortega Olmedo,U,,ESP,20.3559206023,105150,4,,Pablo Martin Adalia,R,,ESP,23.2553045859,6-4 2-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,655,29,566,45
 2011-M-FU-ESP-30A-2011,Spain F30,Hard,32,S,20110822,27,104091,3,,Miguel Angel Lopez Jaen,R,188,ESP,28.7282683094,105629,8,,Rafael Mazon Hernandez,U,,ESP,20.9336071184,4-6 6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,527,55,672,27
 2011-M-FU-ESP-30A-2011,Spain F30,Hard,32,S,20110822,28,106175,,,Ricardo Rodriguez,R,,VEN,18.3162217659,104084,2,,Carlos Poch Gradin,L,185,ESP,28.7830253251,7-6(3) 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,880,12,573,44
@@ -11592,7 +11592,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-NED-06A-2011,Netherlands F6,Clay,32,S,20110829,8,106048,,WC,Alban Meuffels,U,,NED,19.0116358658,105917,7,,Gianni Mina,R,185,FRA,19.5509924709,6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,1050,6,416,91
 2011-M-FU-NED-06A-2011,Netherlands F6,Clay,32,S,20110829,9,105014,5,,Antal Van Der Duim,R,,NED,23.9507186858,105521,,,Juan Sebastian Vivanco,R,,ECU,21.3744010951,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,406,95,874,12
 2011-M-FU-NED-06A-2011,Netherlands F6,Clay,32,S,20110829,10,105445,,Q,Yannick Ebbinghaus,U,,NED,21.697467488,104946,,LL,Olaf De Weerdt,U,,BEL,24.219028063,6-1 2-6 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,1360,2,,
-2011-M-FU-NED-06A-2011,Netherlands F6,Clay,32,S,20110829,11,104485,,,Nick Van Der Meer,U,,NED,26.6091718001,122298,,WC,Botic Van De Zandschulp,U,,NED,15.9014373717,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,548,49,,
+2011-M-FU-NED-06A-2011,Netherlands F6,Clay,32,S,20110829,11,104485,,,Nick Van Der Meer,U,,NED,26.6091718001,122298,,WC,Botic van de Zandschulp,U,,NED,15.9014373717,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,548,49,,
 2011-M-FU-NED-06A-2011,Netherlands F6,Clay,32,S,20110829,12,103534,3,,Nicolas Devilder,L,173,FRA,31.4277891855,122299,,LL,Dean Tjin A Ton,R,,NED,18.1437371663,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,304,150,,
 2011-M-FU-NED-06A-2011,Netherlands F6,Clay,32,S,20110829,13,105838,8,,Julien Obry,R,,FRA,19.9835728953,105199,,Q,Stephan Fransen,R,,NED,23.0554414784,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,487,67,1498,2
 2011-M-FU-NED-06A-2011,Netherlands F6,Clay,32,S,20110829,14,105388,,Q,Lennert Van Der Linden,R,,NED,22.083504449,105416,,Q,Kim Moellers,U,,GER,21.9247091034,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1314,3,1614,1
@@ -12458,7 +12458,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-ESP-33A-2011,Spain F33,Hard,32,S,20110912,6,105922,,LL,Borja Rodriguez Manzano,L,,ESP,19.5838466804,105156,,,Federico Zeballos,U,,BOL,23.2854209446,3-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1314,3,700,24
 2011-M-FU-ESP-33A-2011,Spain F33,Hard,32,S,20110912,7,105736,,Q,Sergio Magro Moreno,U,,ESP,20.4654346338,105646,,,Mark Vervoort,U,,NED,20.9308692676,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,973,8
 2011-M-FU-ESP-33A-2011,Spain F33,Hard,32,S,20110912,8,105529,7,,Carlos Gomez Herrera,R,,ESP,21.3689253936,106120,,Q,Ricardo Ojeda Lara,U,,ESP,18.6255989049,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,671,28,1109,5
-2011-M-FU-ESP-33A-2011,Spain F33,Hard,32,S,20110912,9,106238,8,,Andres Artunedo Martinavarr,R,,ESP,17.993155373,106001,,WC,Javier Banos Pantoja,U,,ESP,19.3127994524,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,624,34,1124,5
+2011-M-FU-ESP-33A-2011,Spain F33,Hard,32,S,20110912,9,106238,8,,Andres Artunedo Martinavarro,R,,ESP,17.993155373,106001,,WC,Javier Banos Pantoja,U,,ESP,19.3127994524,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,624,34,1124,5
 2011-M-FU-ESP-33A-2011,Spain F33,Hard,32,S,20110912,10,106175,,,Ricardo Rodriguez,R,,VEN,18.3737166324,106028,,LL,Ivan Gomez Mantilla,R,,ESP,19.1786447639,6-4 5-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,729,21,1483,2
 2011-M-FU-ESP-33A-2011,Spain F33,Hard,32,S,20110912,11,105664,,,Ivan Arenas Gualda,U,,ESP,20.8651608487,105756,,WC,Antonio Garcia Sanchez,U,,ESP,20.4052019165,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,743,20,1787,1
 2011-M-FU-ESP-33A-2011,Spain F33,Hard,32,S,20110912,12,105599,,,Richard Waite,R,,GER,21.1170431211,105645,3,,Alexander Lobkov,R,,RUS,20.9308692676,6-3 1-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,746,20,406,95
@@ -12470,17 +12470,17 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-ESP-33A-2011,Spain F33,Hard,32,S,20110912,18,105751,,,Roberto Ortega Olmedo,U,,ESP,20.4134154689,105150,5,,Pablo Martin Adalia,R,,ESP,23.3127994524,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,639,33,593,40
 2011-M-FU-ESP-33A-2011,Spain F33,Hard,32,S,20110912,19,104532,4,,Jose Checa Calvo,L,,ESP,26.4449007529,105922,,LL,Borja Rodriguez Manzano,L,,ESP,19.5838466804,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,530,54,1314,3
 2011-M-FU-ESP-33A-2011,Spain F33,Hard,32,S,20110912,20,105736,,Q,Sergio Magro Moreno,U,,ESP,20.4654346338,105529,7,,Carlos Gomez Herrera,R,,ESP,21.3689253936,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,671,28
-2011-M-FU-ESP-33A-2011,Spain F33,Hard,32,S,20110912,21,106238,8,,Andres Artunedo Martinavarr,R,,ESP,17.993155373,106175,,,Ricardo Rodriguez,R,,VEN,18.3737166324,6-7(2) 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,624,34,729,21
+2011-M-FU-ESP-33A-2011,Spain F33,Hard,32,S,20110912,21,106238,8,,Andres Artunedo Martinavarro,R,,ESP,17.993155373,106175,,,Ricardo Rodriguez,R,,VEN,18.3737166324,6-7(2) 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,624,34,729,21
 2011-M-FU-ESP-33A-2011,Spain F33,Hard,32,S,20110912,22,105599,,,Richard Waite,R,,GER,21.1170431211,105664,,,Ivan Arenas Gualda,U,,ESP,20.8651608487,6-3 6-7(6) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,746,20,743,20
 2011-M-FU-ESP-33A-2011,Spain F33,Hard,32,S,20110912,23,106322,,Q,David Perez Sanz,U,,ESP,17.3278576318,104084,6,,Carlos Poch Gradin,L,185,ESP,28.8405201916,0-6 7-6(8) 7-6(7),3,R16,,,,,,,,,,,,,,,,,,,,1003,7,603,38
 2011-M-FU-ESP-33A-2011,Spain F33,Hard,32,S,20110912,24,106016,,Q,Yanais Laurent,R,,FRA,19.266255989,105824,,Q,Kirill Dmitriev,U,,RUS,20.0930869268,6-2 4-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1297,3,1054,6
 2011-M-FU-ESP-33A-2011,Spain F33,Hard,32,S,20110912,25,105782,,,Enrique Lopez Perez,R,,ESP,20.2765229295,105751,,,Roberto Ortega Olmedo,U,,ESP,20.4134154689,6-7(4) 6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,696,25,639,33
 2011-M-FU-ESP-33A-2011,Spain F33,Hard,32,S,20110912,26,104532,4,,Jose Checa Calvo,L,,ESP,26.4449007529,105736,,Q,Sergio Magro Moreno,U,,ESP,20.4654346338,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,530,54,,
-2011-M-FU-ESP-33A-2011,Spain F33,Hard,32,S,20110912,27,106238,8,,Andres Artunedo Martinavarr,R,,ESP,17.993155373,105599,,,Richard Waite,R,,GER,21.1170431211,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,624,34,746,20
+2011-M-FU-ESP-33A-2011,Spain F33,Hard,32,S,20110912,27,106238,8,,Andres Artunedo Martinavarro,R,,ESP,17.993155373,105599,,,Richard Waite,R,,GER,21.1170431211,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,624,34,746,20
 2011-M-FU-ESP-33A-2011,Spain F33,Hard,32,S,20110912,28,106322,,Q,David Perez Sanz,U,,ESP,17.3278576318,106016,,Q,Yanais Laurent,R,,FRA,19.266255989,6-2 3-6 7-6(4),3,QF,,,,,,,,,,,,,,,,,,,,1003,7,1297,3
 2011-M-FU-ESP-33A-2011,Spain F33,Hard,32,S,20110912,29,104532,4,,Jose Checa Calvo,L,,ESP,26.4449007529,105782,,,Enrique Lopez Perez,R,,ESP,20.2765229295,7-6(10) 6-7(17) 6-2,3,SF,,,,,,,,,,,,,,,,,,,,530,54,696,25
-2011-M-FU-ESP-33A-2011,Spain F33,Hard,32,S,20110912,30,106238,8,,Andres Artunedo Martinavarr,R,,ESP,17.993155373,106322,,Q,David Perez Sanz,U,,ESP,17.3278576318,7-6(5) 6-2,3,SF,,,,,,,,,,,,,,,,,,,,624,34,1003,7
-2011-M-FU-ESP-33A-2011,Spain F33,Hard,32,S,20110912,31,106238,8,,Andres Artunedo Martinavarr,R,,ESP,17.993155373,104532,4,,Jose Checa Calvo,L,,ESP,26.4449007529,6-2 1-0 RET,3,F,,,,,,,,,,,,,,,,,,,,624,34,530,54
+2011-M-FU-ESP-33A-2011,Spain F33,Hard,32,S,20110912,30,106238,8,,Andres Artunedo Martinavarro,R,,ESP,17.993155373,106322,,Q,David Perez Sanz,U,,ESP,17.3278576318,7-6(5) 6-2,3,SF,,,,,,,,,,,,,,,,,,,,624,34,1003,7
+2011-M-FU-ESP-33A-2011,Spain F33,Hard,32,S,20110912,31,106238,8,,Andres Artunedo Martinavarro,R,,ESP,17.993155373,104532,4,,Jose Checa Calvo,L,,ESP,26.4449007529,6-2 1-0 RET,3,F,,,,,,,,,,,,,,,,,,,,624,34,530,54
 2011-M-FU-SWE-04A-2011,Sweden F4,Hard,32,S,20110912,1,104995,,Q,Daniel Kumlin,U,,SWE,24.0739219713,105113,1,,Patrik Rosenholm,R,,SWE,23.5208761123,2-6 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1629,1,439,84
 2011-M-FU-SWE-04A-2011,Sweden F4,Hard,32,S,20110912,2,105757,,,Sandro Ehrat,R,180,SUI,20.4024640657,105980,,WC,Viktor Odenbrink,R,,SWE,19.4058863792,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,809,15,,
 2011-M-FU-SWE-04A-2011,Sweden F4,Hard,32,S,20110912,3,105971,,Q,Kalle Averfalk,R,,SWE,19.4305270363,105908,,,Robin Olin,R,,SWE,19.627652293,6-2 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,1400,2,912,10
@@ -12933,7 +12933,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-ESP-34A-2011,Spain F34,Hard,32,S,20110919,10,105574,,Q,Jean Marc Werner,R,,GER,21.2457221081,106120,,Q,Ricardo Ojeda Lara,U,,ESP,18.6447638604,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1182,4,1105,5
 2011-M-FU-ESP-34A-2011,Spain F34,Hard,32,S,20110919,11,105460,,,Matthew Short,U,,GBR,21.6947296372,105126,,Q,Enrico Alonso De Pedro,U,,GER,23.4907597536,6-3 1-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,853,13,1630,1
 2011-M-FU-ESP-34A-2011,Spain F34,Hard,32,S,20110919,12,105150,4,,Pablo Martin Adalia,R,,ESP,23.3319644079,105313,,,Jaime Pulgar Garcia,U,,ESP,22.4558521561,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,595,40,963,8
-2011-M-FU-ESP-34A-2011,Spain F34,Hard,32,S,20110919,13,106238,7,,Andres Artunedo Martinavarr,R,,ESP,18.0123203285,105646,,,Mark Vervoort,U,,NED,20.9500342231,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,626,34,952,9
+2011-M-FU-ESP-34A-2011,Spain F34,Hard,32,S,20110919,13,106238,7,,Andres Artunedo Martinavarro,R,,ESP,18.0123203285,105646,,,Mark Vervoort,U,,NED,20.9500342231,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,626,34,952,9
 2011-M-FU-ESP-34A-2011,Spain F34,Hard,32,S,20110919,14,105736,,WC,Sergio Magro Moreno,U,,ESP,20.4845995893,111148,,WC,Jose Antonio Salazar Martin,R,,ESP,17.3716632444,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2011-M-FU-ESP-34A-2011,Spain F34,Hard,32,S,20110919,15,106091,,,Vladislav Dubinsky,R,,RUS,18.8117727584,106016,,Q,Yanais Laurent,R,,FRA,19.2854209446,7-6(3) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,915,10,1188,4
 2011-M-FU-ESP-34A-2011,Spain F34,Hard,32,S,20110919,16,105599,,,Richard Waite,R,,GER,21.1362080767,104388,2,,Morgan Phillips,U,,GBR,27.2388774812,7-6(4) 4-6 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,755,20,478,69
@@ -12943,15 +12943,15 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-ESP-34A-2011,Spain F34,Hard,32,S,20110919,20,105751,8,,Roberto Ortega Olmedo,U,,ESP,20.4325804244,106187,,,Denis Yevseyev,U,,KAZ,18.3271731691,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,645,33,759,19
 2011-M-FU-ESP-34A-2011,Spain F34,Hard,32,S,20110919,21,105529,6,,Carlos Gomez Herrera,R,,ESP,21.3880903491,105574,,Q,Jean Marc Werner,R,,GER,21.2457221081,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,674,28,1182,4
 2011-M-FU-ESP-34A-2011,Spain F34,Hard,32,S,20110919,22,105150,4,,Pablo Martin Adalia,R,,ESP,23.3319644079,105460,,,Matthew Short,U,,GBR,21.6947296372,3-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,595,40,853,13
-2011-M-FU-ESP-34A-2011,Spain F34,Hard,32,S,20110919,23,106238,7,,Andres Artunedo Martinavarr,R,,ESP,18.0123203285,105736,,WC,Sergio Magro Moreno,U,,ESP,20.4845995893,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,626,34,,
+2011-M-FU-ESP-34A-2011,Spain F34,Hard,32,S,20110919,23,106238,7,,Andres Artunedo Martinavarro,R,,ESP,18.0123203285,105736,,WC,Sergio Magro Moreno,U,,ESP,20.4845995893,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,626,34,,
 2011-M-FU-ESP-34A-2011,Spain F34,Hard,32,S,20110919,24,105599,,,Richard Waite,R,,GER,21.1362080767,106091,,,Vladislav Dubinsky,R,,RUS,18.8117727584,W/O,3,R16,,,,,,,,,,,,,,,,,,,,755,20,915,10
 2011-M-FU-ESP-34A-2011,Spain F34,Hard,32,S,20110919,25,105645,1,,Alexander Lobkov,R,,RUS,20.9500342231,106001,,WC,Javier Banos Pantoja,U,,ESP,19.3319644079,6-1 6-0,3,QF,,,,,,,,,,,,,,,,,,,,432,85,1114,5
 2011-M-FU-ESP-34A-2011,Spain F34,Hard,32,S,20110919,26,104532,3,,Jose Checa Calvo,L,,ESP,26.4640657084,105751,8,,Roberto Ortega Olmedo,U,,ESP,20.4325804244,7-6(2) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,529,56,645,33
 2011-M-FU-ESP-34A-2011,Spain F34,Hard,32,S,20110919,27,105150,4,,Pablo Martin Adalia,R,,ESP,23.3319644079,105529,6,,Carlos Gomez Herrera,R,,ESP,21.3880903491,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,595,40,674,28
-2011-M-FU-ESP-34A-2011,Spain F34,Hard,32,S,20110919,28,106238,7,,Andres Artunedo Martinavarr,R,,ESP,18.0123203285,105599,,,Richard Waite,R,,GER,21.1362080767,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,626,34,755,20
+2011-M-FU-ESP-34A-2011,Spain F34,Hard,32,S,20110919,28,106238,7,,Andres Artunedo Martinavarro,R,,ESP,18.0123203285,105599,,,Richard Waite,R,,GER,21.1362080767,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,626,34,755,20
 2011-M-FU-ESP-34A-2011,Spain F34,Hard,32,S,20110919,29,105645,1,,Alexander Lobkov,R,,RUS,20.9500342231,104532,3,,Jose Checa Calvo,L,,ESP,26.4640657084,3-6 6-3 6-0,3,SF,,,,,,,,,,,,,,,,,,,,432,85,529,56
-2011-M-FU-ESP-34A-2011,Spain F34,Hard,32,S,20110919,30,106238,7,,Andres Artunedo Martinavarr,R,,ESP,18.0123203285,105150,4,,Pablo Martin Adalia,R,,ESP,23.3319644079,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,626,34,595,40
-2011-M-FU-ESP-34A-2011,Spain F34,Hard,32,S,20110919,31,106238,7,,Andres Artunedo Martinavarr,R,,ESP,18.0123203285,105645,1,,Alexander Lobkov,R,,RUS,20.9500342231,3-6 6-1 3-0 RET,3,F,,,,,,,,,,,,,,,,,,,,626,34,432,85
+2011-M-FU-ESP-34A-2011,Spain F34,Hard,32,S,20110919,30,106238,7,,Andres Artunedo Martinavarro,R,,ESP,18.0123203285,105150,4,,Pablo Martin Adalia,R,,ESP,23.3319644079,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,626,34,595,40
+2011-M-FU-ESP-34A-2011,Spain F34,Hard,32,S,20110919,31,106238,7,,Andres Artunedo Martinavarro,R,,ESP,18.0123203285,105645,1,,Alexander Lobkov,R,,RUS,20.9500342231,3-6 6-1 3-0 RET,3,F,,,,,,,,,,,,,,,,,,,,626,34,432,85
 2011-M-FU-SWE-05A-2011,Sweden F5,Hard,32,S,20110919,1,103860,1,,Timo Nieminen,R,185,FIN,29.9520876112,122364,,Q,Nima Madani,U,,SWE,18.212183436,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,307,148,,
 2011-M-FU-SWE-05A-2011,Sweden F5,Hard,32,S,20110919,2,106048,,Q,Alban Meuffels,U,,NED,19.0691307324,106013,,WC,Pierre Bonfre,L,,SWE,19.2963723477,6-4 4-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,997,7,1411,2
 2011-M-FU-SWE-05A-2011,Sweden F5,Hard,32,S,20110919,3,105588,,,Emilien Firmin,R,,FRA,21.1909650924,121893,,WC,Oskar Wikberg,R,,SWE,17.9958932238,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,869,12,,
@@ -13570,7 +13570,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-AUS-08A-2011,Australia F8,Hard,32,S,20111003,11,105003,,,Wan Gao,U,,CHN,24.1095140315,104702,,Q,Michael Leong,R,,SOL,25.5441478439,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,929,10,,
 2011-M-FU-AUS-08A-2011,Australia F8,Hard,32,S,20111003,12,105050,4,,Michael Look,R,,AUS,23.8576317591,105727,,WC,Aaron Leeder Chard,U,,AUS,20.5749486653,5-7 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,403,97,1891,1
 2011-M-FU-AUS-08A-2011,Australia F8,Hard,32,S,20111003,13,105059,5,,Kento Takeuchi,L,,JPN,23.7891854894,106109,,,Alex Bolt,L,,AUS,18.7405886379,6-3 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,559,49,825,14
-2011-M-FU-AUS-08A-2011,Australia F8,Hard,32,S,20111003,14,106331,,WC,Christopher Oconnell,U,,AUS,17.3333333333,122155,,Q,Robert Howe,R,,AUS,19.6002737851,7-6(5) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2011-M-FU-AUS-08A-2011,Australia F8,Hard,32,S,20111003,14,106331,,WC,Christopher O'Connell,U,,AUS,17.3333333333,122155,,Q,Robert Howe,R,,AUS,19.6002737851,7-6(5) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2011-M-FU-AUS-08A-2011,Australia F8,Hard,32,S,20111003,15,105965,,Q,Gavin Van Peperzeel,R,,AUS,19.5126625599,106225,,,Andrew Whittington,R,,AUS,18.1437371663,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1805,1,1173,4
 2011-M-FU-AUS-08A-2011,Australia F8,Hard,32,S,20111003,16,105591,2,,Matt Reid,R,,AUS,21.2128678987,106254,,Q,Calum Puttergill,U,,AUS,17.9466119097,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,328,136,,
 2011-M-FU-AUS-08A-2011,Australia F8,Hard,32,S,20111003,17,106093,1,,Benjamin Mitchell,R,,AUS,18.8391512663,105429,,,Scott Puodziunas,U,,AUS,21.8973305955,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,305,152,1805,1
@@ -13579,7 +13579,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-AUS-08A-2011,Australia F8,Hard,32,S,20111003,20,105881,8,,Matthew Barton,R,,AUS,19.7919233402,104288,,,Leon Frost,R,,AUS,27.7097878166,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,765,19,900,11
 2011-M-FU-AUS-08A-2011,Australia F8,Hard,32,S,20111003,21,105264,7,,Isaac Frost,R,,AUS,22.7378507871,106367,,WC,Rhys Michael Johnson,U,,AUS,16.9034907598,7-6(3) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,493,67,,
 2011-M-FU-AUS-08A-2011,Australia F8,Hard,32,S,20111003,22,105050,4,,Michael Look,R,,AUS,23.8576317591,105003,,,Wan Gao,U,,CHN,24.1095140315,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,403,97,929,10
-2011-M-FU-AUS-08A-2011,Australia F8,Hard,32,S,20111003,23,105059,5,,Kento Takeuchi,L,,JPN,23.7891854894,106331,,WC,Christopher Oconnell,U,,AUS,17.3333333333,6-4 2-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,559,49,,
+2011-M-FU-AUS-08A-2011,Australia F8,Hard,32,S,20111003,23,105059,5,,Kento Takeuchi,L,,JPN,23.7891854894,106331,,WC,Christopher O'Connell,U,,AUS,17.3333333333,6-4 2-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,559,49,,
 2011-M-FU-AUS-08A-2011,Australia F8,Hard,32,S,20111003,24,105591,2,,Matt Reid,R,,AUS,21.2128678987,105965,,Q,Gavin Van Peperzeel,R,,AUS,19.5126625599,6-4 6-7(4) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,328,136,1805,1
 2011-M-FU-AUS-08A-2011,Australia F8,Hard,32,S,20111003,25,106093,1,,Benjamin Mitchell,R,,AUS,18.8391512663,104907,6,,Jose Rubin Statham,R,183,NZL,24.4407939767,7-6(3) 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,305,152,604,39
 2011-M-FU-AUS-08A-2011,Australia F8,Hard,32,S,20111003,26,105454,3,,Brydan Klein,R,183,AUS,21.7549623546,105881,8,,Matthew Barton,R,,AUS,19.7919233402,6-4 4-6 7-5,3,QF,,,,,,,,,,,,,,,,,,,,381,108,765,19
@@ -14003,7 +14003,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-AUS-09A-2011,Australia F9,Hard,32,S,20111010,10,106225,,,Andrew Whittington,R,,AUS,18.1629021218,105003,,,Wan Gao,U,,CHN,24.128678987,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1161,4,925,10
 2011-M-FU-AUS-09A-2011,Australia F9,Hard,32,S,20111010,11,106254,,Q,Calum Puttergill,U,,AUS,17.9657768652,105744,,,Yilun Wang,U,,CHN,20.5092402464,5-7 6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,1636,1
 2011-M-FU-AUS-09A-2011,Australia F9,Hard,32,S,20111010,12,105454,4,,Brydan Klein,R,183,AUS,21.7741273101,106109,,,Alex Bolt,L,,AUS,18.7597535934,6-4 7-6(0),3,R32,,,,,,,,,,,,,,,,,,,,374,108,824,14
-2011-M-FU-AUS-09A-2011,Australia F9,Hard,32,S,20111010,13,106034,7,,Yasutaka Uchiyama,R,,JPN,19.1786447639,106331,,WC,Christopher Oconnell,U,,AUS,17.3524982888,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,555,50,,
+2011-M-FU-AUS-09A-2011,Australia F9,Hard,32,S,20111010,13,106034,7,,Yasutaka Uchiyama,R,,JPN,19.1786447639,106331,,WC,Christopher O'Connell,U,,AUS,17.3524982888,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,555,50,,
 2011-M-FU-AUS-09A-2011,Australia F9,Hard,32,S,20111010,14,105210,,Q,Zach Itzstein,R,,AUS,23.1019849418,119731,,Q,Kotaro Isobe,U,,JPN,36.4900752909,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,1747,1
 2011-M-FU-AUS-09A-2011,Australia F9,Hard,32,S,20111010,15,104702,,Q,Michael Leong,R,,SOL,25.5633127995,104288,,,Leon Frost,R,,AUS,27.7289527721,3-6 1-3 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,905,11
 2011-M-FU-AUS-09A-2011,Australia F9,Hard,32,S,20111010,16,105591,2,,Matt Reid,R,,AUS,21.2320328542,122155,,Q,Robert Howe,R,,AUS,19.6194387406,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,325,136,,
@@ -14271,7 +14271,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-MAR-08A-2011,Morocco F8,Clay,32,S,20111010,30,105678,2,,Axel Michon,L,,FRA,20.8158795346,105433,,,Roman Jebavy,R,,CZE,21.8973305955,6-1 6-2,3,SF,,,,,,,,,,,,,,,,,,,,285,164,475,73
 2011-M-FU-MAR-08A-2011,Morocco F8,Clay,32,S,20111010,31,105678,2,,Axel Michon,L,,FRA,20.8158795346,104970,1,,Matteo Viola,R,,ITA,24.2600958248,6-1 2-6 6-4,3,F,,,,,,,,,,,,,,,,,,,,285,164,213,236
 2011-M-FU-ESP-37A-2011,Spain F37,Clay,32,S,20111010,1,105128,1,,Guillermo Olaso,U,,ESP,23.5427789185,106050,,Q,Libor Salaba,R,,CZE,19.1211498973,4-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,185,278,880,12
-2011-M-FU-ESP-37A-2011,Spain F37,Clay,32,S,20111010,2,106354,,Q,Eduard Esteve Lobato,R,,ESP,17.0595482546,106238,,,Andres Artunedo Martinavarr,R,,ESP,18.0698151951,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1438,2,486,68
+2011-M-FU-ESP-37A-2011,Spain F37,Clay,32,S,20111010,2,106354,,Q,Eduard Esteve Lobato,R,,ESP,17.0595482546,106238,,,Andres Artunedo Martinavarro,R,,ESP,18.0698151951,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1438,2,486,68
 2011-M-FU-ESP-37A-2011,Spain F37,Clay,32,S,20111010,3,103924,,,Marc Fornell Mestres,R,,ESP,29.7029431896,106281,,,Liam Broady,L,,GBR,17.7631759069,7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,581,46,667,29
 2011-M-FU-ESP-37A-2011,Spain F37,Clay,32,S,20111010,4,105906,7,,Kevin Krawietz,R,190,GER,19.7097878166,104084,,,Carlos Poch Gradin,L,185,ESP,28.9171800137,4-6 6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,366,111,605,40
 2011-M-FU-ESP-37A-2011,Spain F37,Clay,32,S,20111010,5,105438,3,,Inigo Cervantes Huegun,R,,ESP,21.8590006845,105731,,LL,Steven Diez,R,,CAN,20.5667351129,5-7 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,230,219,455,78
@@ -14739,7 +14739,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-ARG-21A-2011,Argentina F21,Clay,32,S,20111024,2,104513,,,Leandro Migani,R,,ARG,26.6447638604,105753,,,Juan Vazquez Valenzuela,R,,ARG,20.5229295003,4-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,646,32,892,12
 2011-M-FU-ARG-21A-2011,Argentina F21,Clay,32,S,20111024,3,105338,,,Maximiliano Estevez,L,,ARG,22.4339493498,105549,,Q,Mateo Galdon,U,,ARG,21.440109514,6-2 2-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,591,41,1525,1
 2011-M-FU-ARG-21A-2011,Argentina F21,Clay,32,S,20111024,4,105709,,,Valentin Florez,R,,ARG,20.7063655031,104253,6,,Juan Martin Aranguren,R,,ARG,28.0465434634,6-4 1-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,890,12,516,60
-2011-M-FU-ARG-21A-2011,Argentina F21,Clay,32,S,20111024,5,106043,4,,Diego Sebastian Schwartzman,R,170,ARG,19.1868583162,106228,,,Juan Ignacio Londero,R,,ARG,18.1902806297,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,400,98,726,22
+2011-M-FU-ARG-21A-2011,Argentina F21,Clay,32,S,20111024,5,106043,4,,Diego Schwartzman,R,170,ARG,19.1868583162,106228,,,Juan Ignacio Londero,R,,ARG,18.1902806297,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,400,98,726,22
 2011-M-FU-ARG-21A-2011,Argentina F21,Clay,32,S,20111024,6,104799,,Q,Gaston Giussani,U,,ARG,25.1225188227,121651,,Q,Cristobal Grandon Diaz,U,,CHI,20.3942505133,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1049,6,,
 2011-M-FU-ARG-21A-2011,Argentina F21,Clay,32,S,20111024,7,104221,,,Jonathan Gonzalia,R,,ARG,28.2272416153,105167,,LL,Juan Manuel Romanazzi,L,,ARG,23.3538672142,6-2 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,630,34,1074,6
 2011-M-FU-ARG-21A-2011,Argentina F21,Clay,32,S,20111024,8,104621,7,,Juan Manuel Valverde,R,,ARG,26.0369609856,106202,,Q,Mateo Facundo Cressa,U,,ARG,18.3299110198,3-6 7-6(4) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,539,52,1376,2
@@ -14753,14 +14753,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-ARG-21A-2011,Argentina F21,Clay,32,S,20111024,16,105627,,,Giorgio Portaluri,R,,ITA,21.1143052704,104033,2,,Juan Pablo Villar,U,,ARG,29.2895277207,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,756,19,369,114
 2011-M-FU-ARG-21A-2011,Argentina F21,Clay,32,S,20111024,17,104513,,,Leandro Migani,R,,ARG,26.6447638604,104057,,Q,Alejandro Poberaj,R,,ARG,29.1279945243,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,646,32,1259,3
 2011-M-FU-ARG-21A-2011,Argentina F21,Clay,32,S,20111024,18,105338,,,Maximiliano Estevez,L,,ARG,22.4339493498,105709,,,Valentin Florez,R,,ARG,20.7063655031,7-6(3) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,591,41,890,12
-2011-M-FU-ARG-21A-2011,Argentina F21,Clay,32,S,20111024,19,106043,4,,Diego Sebastian Schwartzman,R,170,ARG,19.1868583162,104799,,Q,Gaston Giussani,U,,ARG,25.1225188227,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,400,98,1049,6
+2011-M-FU-ARG-21A-2011,Argentina F21,Clay,32,S,20111024,19,106043,4,,Diego Schwartzman,R,170,ARG,19.1868583162,104799,,Q,Gaston Giussani,U,,ARG,25.1225188227,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,400,98,1049,6
 2011-M-FU-ARG-21A-2011,Argentina F21,Clay,32,S,20111024,20,104621,7,,Juan Manuel Valverde,R,,ARG,26.0369609856,104221,,,Jonathan Gonzalia,R,,ARG,28.2272416153,6-3 1-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,539,52,630,34
 2011-M-FU-ARG-21A-2011,Argentina F21,Clay,32,S,20111024,21,105911,5,,Andrea Collarini,L,,ARG,19.7289527721,105948,,,Federico Coria,R,,ARG,19.6249144422,6-2 1-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,470,74,831,14
 2011-M-FU-ARG-21A-2011,Argentina F21,Clay,32,S,20111024,22,105160,3,,Guillermo Duran,R,,ARG,23.3812457221,104687,,Q,Guillermo Bujniewicz,R,,ARG,25.6563997262,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,414,93,1194,4
 2011-M-FU-ARG-21A-2011,Argentina F21,Clay,32,S,20111024,23,105952,8,,Renzo Olivo,R,,ARG,19.6084873374,106380,,WC,Gonzalo Villanueva,R,,ARG,16.7775496235,6-0 6-0,3,R16,,,,,,,,,,,,,,,,,,,,573,46,,
 2011-M-FU-ARG-21A-2011,Argentina F21,Clay,32,S,20111024,24,106431,,WC,Francisco Bahamonde,R,,ARG,14.9596167009,105627,,,Giorgio Portaluri,R,,ITA,21.1143052704,6-3 3-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,756,19
 2011-M-FU-ARG-21A-2011,Argentina F21,Clay,32,S,20111024,25,104513,,,Leandro Migani,R,,ARG,26.6447638604,105338,,,Maximiliano Estevez,L,,ARG,22.4339493498,6-1 3-3 RET,3,QF,,,,,,,,,,,,,,,,,,,,646,32,591,41
-2011-M-FU-ARG-21A-2011,Argentina F21,Clay,32,S,20111024,26,104621,7,,Juan Manuel Valverde,R,,ARG,26.0369609856,106043,4,,Diego Sebastian Schwartzman,R,170,ARG,19.1868583162,2-6 6-4 6-5 RET,3,QF,,,,,,,,,,,,,,,,,,,,539,52,400,98
+2011-M-FU-ARG-21A-2011,Argentina F21,Clay,32,S,20111024,26,104621,7,,Juan Manuel Valverde,R,,ARG,26.0369609856,106043,4,,Diego Schwartzman,R,170,ARG,19.1868583162,2-6 6-4 6-5 RET,3,QF,,,,,,,,,,,,,,,,,,,,539,52,400,98
 2011-M-FU-ARG-21A-2011,Argentina F21,Clay,32,S,20111024,27,105160,3,,Guillermo Duran,R,,ARG,23.3812457221,105911,5,,Andrea Collarini,L,,ARG,19.7289527721,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,414,93,470,74
 2011-M-FU-ARG-21A-2011,Argentina F21,Clay,32,S,20111024,28,105952,8,,Renzo Olivo,R,,ARG,19.6084873374,106431,,WC,Francisco Bahamonde,R,,ARG,14.9596167009,6-0 6-0,3,QF,,,,,,,,,,,,,,,,,,,,573,46,,
 2011-M-FU-ARG-21A-2011,Argentina F21,Clay,32,S,20111024,29,104513,,,Leandro Migani,R,,ARG,26.6447638604,104621,7,,Juan Manuel Valverde,R,,ARG,26.0369609856,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,646,32,539,52
@@ -15166,7 +15166,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-AUS-11A-2011,Australia F11,Hard,32,S,20111031,10,106132,,,Toby Martin,R,,GBR,18.6940451745,111451,,WC,Bradley Mousley,U,,AUS,15.8247775496,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1110,5,,
 2011-M-FU-AUS-11A-2011,Australia F11,Hard,32,S,20111031,11,105924,,,Richard Gabb,R,,GBR,19.7152635181,104844,,,Robert Mckenzie,R,,AUS,24.8596851472,6-7(5) 7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,975,8,1097,5
 2011-M-FU-AUS-11A-2011,Australia F11,Hard,32,S,20111031,12,105050,3,,Michael Look,R,,AUS,23.9342915811,105520,,,Nathan Willis,R,,AUS,21.5523613963,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,394,98,1519,1
-2011-M-FU-AUS-11A-2011,Australia F11,Hard,32,S,20111031,13,104907,7,,Jose Rubin Statham,R,183,NZL,24.5174537988,106331,,WC,Christopher Oconnell,U,,AUS,17.4099931554,6-2 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,600,38,1634,1
+2011-M-FU-AUS-11A-2011,Australia F11,Hard,32,S,20111031,13,104907,7,,Jose Rubin Statham,R,183,NZL,24.5174537988,106331,,WC,Christopher O'Connell,U,,AUS,17.4099931554,6-2 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,600,38,1634,1
 2011-M-FU-AUS-11A-2011,Australia F11,Hard,32,S,20111031,14,105429,,,Scott Puodziunas,U,,AUS,21.9739904175,106413,,Q,Robin Marc Pfister,U,,AUS,16.2217659138,6-7(8) 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1429,2,,
 2011-M-FU-AUS-11A-2011,Australia F11,Hard,32,S,20111031,15,104363,,,Yuri Bezeruk,R,,AUS,27.498973306,104833,,,Scott Robertson,R,,AUS,24.9418206708,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1857,1,1126,5
 2011-M-FU-AUS-11A-2011,Australia F11,Hard,32,S,20111031,16,105965,,WC,Gavin Van Peperzeel,R,,AUS,19.5893223819,122344,,LL,Manuel Lauter,U,,AUT,25.5550992471,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1455,2,,
@@ -15514,7 +15514,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-TPE-03A-2011,Chinese Taipei F3,Clay,32,S,20111107,9,106237,7,,Chieh Fu Wang,U,,TPE,18.1546885695,105448,,WC,Hsien Yin Peng,U,,TPE,21.8754277892,6-7(4) 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,862,12,,
 2011-M-FU-TPE-03A-2011,Chinese Taipei F3,Clay,32,S,20111107,10,106176,,WC,Kuan Lee,U,,TPE,18.5215605749,119731,,LL,Kotaro Isobe,U,,JPN,36.5667351129,7-6(0) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,1866,1
 2011-M-FU-TPE-03A-2011,Chinese Taipei F3,Clay,32,S,20111107,11,105937,,Q,Jui Mao,U,,TPE,19.6906228611,122196,,WC,Ting Yu Chuang,U,,TPE,18.5379876797,6-3 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2011-M-FU-TPE-03A-2011,Chinese Taipei F3,Clay,32,S,20111107,12,106066,4,,Victor Baluda,R,,RUS,19.1019849418,105586,,,Alexander Lazov,U,,BUL,21.3305954825,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,565,46,1339,2
+2011-M-FU-TPE-03A-2011,Chinese Taipei F3,Clay,32,S,20111107,12,106066,4,,Victor Baluda,R,,RUS,19.1019849418,105586,,,Alexandar Lazov,U,,BUL,21.3305954825,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,565,46,1339,2
 2011-M-FU-TPE-03A-2011,Chinese Taipei F3,Clay,32,S,20111107,13,105946,6,,Liang Chi Huang,R,,TPE,19.665982204,119712,,Q,Chin Yu Huang,L,,TPE,24.7282683094,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,684,25,,
 2011-M-FU-TPE-03A-2011,Chinese Taipei F3,Clay,32,S,20111107,14,105006,,,Chu Huan Yi,L,,TPE,24.1861738535,122452,,Q,Yu Chi Chang,U,,TPE,21.4455852156,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1119,5,,
 2011-M-FU-TPE-03A-2011,Chinese Taipei F3,Clay,32,S,20111107,15,106200,,Q,Federico Margini,R,,ITA,18.3737166324,104605,,PR,Adam Vejmelka,R,,CZE,26.1437371663,6-4 5-7 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,1941,1,1273,3
@@ -15835,7 +15835,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-TPE-04A-2011,Chinese Taipei F4,Clay,32,S,20111114,12,105142,3,,Arata Onozawa,U,,JPN,23.5455167693,122196,,Q,Ting Yu Chuang,U,,TPE,18.5571526352,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,478,70,,
 2011-M-FU-TPE-04A-2011,Chinese Taipei F4,Clay,32,S,20111114,13,105059,5,,Kento Takeuchi,L,,JPN,23.9041752225,105507,,,Cheong Eui Kim,R,,KOR,21.6454483231,4-6 7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,538,53,837,13
 2011-M-FU-TPE-04A-2011,Chinese Taipei F4,Clay,32,S,20111114,14,105448,,Q,Hsien Yin Peng,U,,TPE,21.8945927447,106305,,,Chih Jen Ho,U,,TPE,17.659137577,6-1 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1254,3
-2011-M-FU-TPE-04A-2011,Chinese Taipei F4,Clay,32,S,20111114,15,105586,,Q,Alexander Lazov,U,,BUL,21.3497604381,122453,,Q,Hao Hsiang Liao,U,,TPE,21.9849418207,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1345,2,,
+2011-M-FU-TPE-04A-2011,Chinese Taipei F4,Clay,32,S,20111114,15,105586,,Q,Alexandar Lazov,U,,BUL,21.3497604381,122453,,Q,Hao Hsiang Liao,U,,TPE,21.9849418207,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1345,2,,
 2011-M-FU-TPE-04A-2011,Chinese Taipei F4,Clay,32,S,20111114,16,104251,2,,Ti Chen,R,183,TPE,28.1149897331,106411,,,Wei Jen Chen,U,,TPE,16.3121149897,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,322,133,1353,2
 2011-M-FU-TPE-04A-2011,Chinese Taipei F4,Clay,32,S,20111114,17,104681,1,,Sebastian Rieschick,R,,GER,25.7440109514,106396,,WC,Cheng Yu Yu,U,,TPE,16.6187542779,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,262,185,,
 2011-M-FU-TPE-04A-2011,Chinese Taipei F4,Clay,32,S,20111114,18,103549,,PR,Dario Perez,R,,ARG,31.5728952772,105026,6,,Takuto Niki,U,,JPN,24.090349076,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,552,48
@@ -15844,7 +15844,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-TPE-04A-2011,Chinese Taipei F4,Clay,32,S,20111114,21,105946,8,,Liang Chi Huang,R,,TPE,19.6851471595,105681,,,Soong Jae Cho,R,,KOR,20.900752909,6-2 4-6 6-0,3,R16,,,,,,,,,,,,,,,,,,,,694,24,644,31
 2011-M-FU-TPE-04A-2011,Chinese Taipei F4,Clay,32,S,20111114,22,105142,3,,Arata Onozawa,U,,JPN,23.5455167693,104605,,PR,Adam Vejmelka,R,,CZE,26.1629021218,4-6 6-4 7-6(12),3,R16,,,,,,,,,,,,,,,,,,,,478,70,1275,3
 2011-M-FU-TPE-04A-2011,Chinese Taipei F4,Clay,32,S,20111114,23,105448,,Q,Hsien Yin Peng,U,,TPE,21.8945927447,105059,5,,Kento Takeuchi,L,,JPN,23.9041752225,6-4 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,,,538,53
-2011-M-FU-TPE-04A-2011,Chinese Taipei F4,Clay,32,S,20111114,24,104251,2,,Ti Chen,R,183,TPE,28.1149897331,105586,,Q,Alexander Lazov,U,,BUL,21.3497604381,7-6(2) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,322,133,1345,2
+2011-M-FU-TPE-04A-2011,Chinese Taipei F4,Clay,32,S,20111114,24,104251,2,,Ti Chen,R,183,TPE,28.1149897331,105586,,Q,Alexandar Lazov,U,,BUL,21.3497604381,7-6(2) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,322,133,1345,2
 2011-M-FU-TPE-04A-2011,Chinese Taipei F4,Clay,32,S,20111114,25,104681,1,,Sebastian Rieschick,R,,GER,25.7440109514,103549,,PR,Dario Perez,R,,ARG,31.5728952772,5-2 RET,3,QF,,,,,,,,,,,,,,,,,,,,262,185,,
 2011-M-FU-TPE-04A-2011,Chinese Taipei F4,Clay,32,S,20111114,26,106066,7,,Victor Baluda,R,,RUS,19.1211498973,105504,4,,Nikolaus Moser,R,,AUT,21.6509240246,6-4 5-7 6-4,3,QF,,,,,,,,,,,,,,,,,,,,569,45,523,58
 2011-M-FU-TPE-04A-2011,Chinese Taipei F4,Clay,32,S,20111114,27,105946,8,,Liang Chi Huang,R,,TPE,19.6851471595,105142,3,,Arata Onozawa,U,,JPN,23.5455167693,5-2 RET,3,QF,,,,,,,,,,,,,,,,,,,,694,24,478,70
@@ -16057,7 +16057,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-AUS-13A-2011,Australia F13,Hard,32,S,20111121,10,106291,,WC,Luke Saville,R,,AUS,17.8015058179,106132,,,Toby Martin,R,,GBR,18.7515400411,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,938,9
 2011-M-FU-AUS-13A-2011,Australia F13,Hard,32,S,20111121,11,105525,,,Dane Propoggia,R,,AUS,21.5770020534,106314,,WC,Jack Schipanski,R,,AUS,17.5989048597,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,678,26,1919,1
 2011-M-FU-AUS-13A-2011,Australia F13,Hard,32,S,20111121,12,105591,3,,Matt Reid,R,,AUS,21.3470225873,106109,,,Alex Bolt,L,,AUS,18.8747433265,6-2 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,315,141,892,11
-2011-M-FU-AUS-13A-2011,Australia F13,Hard,32,S,20111121,13,105032,7,WC,Samuel Groth,R,,AUS,24.090349076,105965,,Q,Gavin Van Peperzeel,R,,AUS,19.6468172485,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,518,58,1053,6
+2011-M-FU-AUS-13A-2011,Australia F13,Hard,32,S,20111121,13,105032,7,WC,Sam Groth,R,,AUS,24.090349076,105965,,Q,Gavin Van Peperzeel,R,,AUS,19.6468172485,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,518,58,1053,6
 2011-M-FU-AUS-13A-2011,Australia F13,Hard,32,S,20111121,14,104363,,Q,Yuri Bezeruk,R,,AUS,27.5564681725,105428,,,Marcus Daniell,R,190,NZL,22.0314852841,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1101,5,722,21
 2011-M-FU-AUS-13A-2011,Australia F13,Hard,32,S,20111121,15,104288,,,Leon Frost,R,,AUS,27.8439425051,104844,,,Robert Mckenzie,R,,AUS,24.9171800137,6-2 5-7 3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,926,10,1105,5
 2011-M-FU-AUS-13A-2011,Australia F13,Hard,32,S,20111121,16,105084,2,,James Lemke,R,,AUS,23.8220396988,106098,,,Anton Bettink,U,,NZL,18.9431895962,6-3 6-7(5) 4-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,296,155,1176,4
@@ -16067,14 +16067,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-AUS-13A-2011,Australia F13,Hard,32,S,20111121,20,105030,5,,Michael Venus,R,,NZL,24.0985626283,106225,,,Andrew Whittington,R,,AUS,18.2778918549,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,422,89,993,7
 2011-M-FU-AUS-13A-2011,Australia F13,Hard,32,S,20111121,21,106291,,WC,Luke Saville,R,,AUS,17.8015058179,105924,,,Richard Gabb,R,,GBR,19.7727583847,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,928,10
 2011-M-FU-AUS-13A-2011,Australia F13,Hard,32,S,20111121,22,105591,3,,Matt Reid,R,,AUS,21.3470225873,105525,,,Dane Propoggia,R,,AUS,21.5770020534,6-2 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,315,141,678,26
-2011-M-FU-AUS-13A-2011,Australia F13,Hard,32,S,20111121,23,105032,7,WC,Samuel Groth,R,,AUS,24.090349076,104363,,Q,Yuri Bezeruk,R,,AUS,27.5564681725,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,518,58,1101,5
+2011-M-FU-AUS-13A-2011,Australia F13,Hard,32,S,20111121,23,105032,7,WC,Sam Groth,R,,AUS,24.090349076,104363,,Q,Yuri Bezeruk,R,,AUS,27.5564681725,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,518,58,1101,5
 2011-M-FU-AUS-13A-2011,Australia F13,Hard,32,S,20111121,24,105084,2,,James Lemke,R,,AUS,23.8220396988,104288,,,Leon Frost,R,,AUS,27.8439425051,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,296,155,926,10
 2011-M-FU-AUS-13A-2011,Australia F13,Hard,32,S,20111121,25,106093,1,,Benjamin Mitchell,R,,AUS,18.9733059548,104907,8,,Jose Rubin Statham,R,183,NZL,24.5749486653,4-6 6-2 7-6(11),3,QF,,,,,,,,,,,,,,,,,,,,250,193,529,54
 2011-M-FU-AUS-13A-2011,Australia F13,Hard,32,S,20111121,26,105050,4,,Michael Look,R,,AUS,23.9917864476,105030,5,,Michael Venus,R,,NZL,24.0985626283,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,356,117,422,89
 2011-M-FU-AUS-13A-2011,Australia F13,Hard,32,S,20111121,27,105591,3,,Matt Reid,R,,AUS,21.3470225873,106291,,WC,Luke Saville,R,,AUS,17.8015058179,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,315,141,,
-2011-M-FU-AUS-13A-2011,Australia F13,Hard,32,S,20111121,28,105032,7,WC,Samuel Groth,R,,AUS,24.090349076,105084,2,,James Lemke,R,,AUS,23.8220396988,6-0 6-2,3,QF,,,,,,,,,,,,,,,,,,,,518,58,296,155
+2011-M-FU-AUS-13A-2011,Australia F13,Hard,32,S,20111121,28,105032,7,WC,Sam Groth,R,,AUS,24.090349076,105084,2,,James Lemke,R,,AUS,23.8220396988,6-0 6-2,3,QF,,,,,,,,,,,,,,,,,,,,518,58,296,155
 2011-M-FU-AUS-13A-2011,Australia F13,Hard,32,S,20111121,29,106093,1,,Benjamin Mitchell,R,,AUS,18.9733059548,105050,4,,Michael Look,R,,AUS,23.9917864476,7-6(7) 6-1,3,SF,,,,,,,,,,,,,,,,,,,,250,193,356,117
-2011-M-FU-AUS-13A-2011,Australia F13,Hard,32,S,20111121,30,105591,3,,Matt Reid,R,,AUS,21.3470225873,105032,7,WC,Samuel Groth,R,,AUS,24.090349076,7-6(10) 6-2,3,SF,,,,,,,,,,,,,,,,,,,,315,141,518,58
+2011-M-FU-AUS-13A-2011,Australia F13,Hard,32,S,20111121,30,105591,3,,Matt Reid,R,,AUS,21.3470225873,105032,7,WC,Sam Groth,R,,AUS,24.090349076,7-6(10) 6-2,3,SF,,,,,,,,,,,,,,,,,,,,315,141,518,58
 2011-M-FU-AUS-13A-2011,Australia F13,Hard,32,S,20111121,31,105591,3,,Matt Reid,R,,AUS,21.3470225873,106093,1,,Benjamin Mitchell,R,,AUS,18.9733059548,7-6(6) 4-6 6-1,3,F,,,,,,,,,,,,,,,,,,,,315,141,250,193
 2011-M-FU-BRA-40A-2011,Brazil F40,Clay,32,S,20111121,1,104007,1,Q,Andre Ghem,R,193,BRA,29.4811772758,106113,,WC,Gabriel Vicentini Pereira,R,,BRA,18.8637919233,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,288,160,1176,4
 2011-M-FU-BRA-40A-2011,Brazil F40,Clay,32,S,20111121,2,105326,,,Marlon Oliveira,R,,BRA,22.5845311431,105140,,Q,Joshua Zavala,U,,USA,23.5783709788,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,816,15,969,8
@@ -16110,7 +16110,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-CHI-14A-2011,Chile F14,Clay,32,S,20111121,1,105288,1,,Guillermo Rivera Aranguiz,R,,CHI,22.7980835044,105303,,,Rodrigo Perez,R,,CHI,22.7077344285,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,305,147,817,15
 2011-M-FU-CHI-14A-2011,Chile F14,Clay,32,S,20111121,2,106209,,WC,Matias Sborowitz,R,,CHI,18.3682409309,105883,,Q,Ignacio Lehyt,R,,CHI,19.923340178,5-7 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,955,8,1135,5
 2011-M-FU-CHI-14A-2011,Chile F14,Clay,32,S,20111121,3,105745,,Q,Andres Ceppo,U,,ARG,20.6214921287,106228,,,Juan Ignacio Londero,R,,ARG,18.2669404517,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1082,6,661,28
-2011-M-FU-CHI-14A-2011,Chile F14,Clay,32,S,20111121,4,106043,6,,Diego Sebastian Schwartzman,R,170,ARG,19.2635181383,106222,,Q,Felipe Fritz,R,,CHI,18.3080082136,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,405,95,1813,1
+2011-M-FU-CHI-14A-2011,Chile F14,Clay,32,S,20111121,4,106043,6,,Diego Schwartzman,R,170,ARG,19.2635181383,106222,,Q,Felipe Fritz,R,,CHI,18.3080082136,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,405,95,1813,1
 2011-M-FU-CHI-14A-2011,Chile F14,Clay,32,S,20111121,5,104477,3,,Jorge Aguilar,R,,CHI,26.8665297741,105521,,,Juan Sebastian Vivanco,R,,ECU,21.6043805613,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,329,130,706,23
 2011-M-FU-CHI-14A-2011,Chile F14,Clay,32,S,20111121,6,105456,,,Sergio Galdos,R,,PER,21.8836413415,105968,,WC,David Fleming,U,,CHI,19.627652293,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,659,28,1318,3
 2011-M-FU-CHI-14A-2011,Chile F14,Clay,32,S,20111121,7,104683,,,Gustavo Sterin,R,,ARG,25.749486653,105802,,Q,Juan Ignacio Amarante,U,,ARG,20.3696098563,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,772,18,831,13
@@ -16124,20 +16124,20 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-CHI-14A-2011,Chile F14,Clay,32,S,20111121,15,104274,,,Giulio Torroni,U,,ITA,27.9534565366,105061,,,Filippo Leonardi,R,,ITA,23.9151266256,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,579,42,569,45
 2011-M-FU-CHI-14A-2011,Chile F14,Clay,32,S,20111121,16,104503,2,,Guillermo Hormazabal,R,,CHI,26.7515400411,105941,,Q,Felipe Rios,R,,CHI,19.7152635181,6-4 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,308,145,977,8
 2011-M-FU-CHI-14A-2011,Chile F14,Clay,32,S,20111121,17,106209,,WC,Matias Sborowitz,R,,CHI,18.3682409309,105288,1,,Guillermo Rivera Aranguiz,R,,CHI,22.7980835044,4-6 7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,955,8,305,147
-2011-M-FU-CHI-14A-2011,Chile F14,Clay,32,S,20111121,18,106043,6,,Diego Sebastian Schwartzman,R,170,ARG,19.2635181383,105745,,Q,Andres Ceppo,U,,ARG,20.6214921287,6-1 2-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,405,95,1082,6
+2011-M-FU-CHI-14A-2011,Chile F14,Clay,32,S,20111121,18,106043,6,,Diego Schwartzman,R,170,ARG,19.2635181383,105745,,Q,Andres Ceppo,U,,ARG,20.6214921287,6-1 2-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,405,95,1082,6
 2011-M-FU-CHI-14A-2011,Chile F14,Clay,32,S,20111121,19,104477,3,,Jorge Aguilar,R,,CHI,26.8665297741,105456,,,Sergio Galdos,R,,PER,21.8836413415,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,329,130,659,28
 2011-M-FU-CHI-14A-2011,Chile F14,Clay,32,S,20111121,20,104713,5,,Juan Pablo Amado,R,,ARG,25.6372347707,104683,,,Gustavo Sterin,R,,ARG,25.749486653,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,399,97,772,18
 2011-M-FU-CHI-14A-2011,Chile F14,Clay,32,S,20111121,21,105274,7,,Patricio Heras,R,,ARG,22.8309377139,105753,,Q,Juan Vazquez Valenzuela,R,,ARG,20.5995893224,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,457,79,871,12
 2011-M-FU-CHI-14A-2011,Chile F14,Clay,32,S,20111121,22,105070,4,,Hans Podlipnik Castillo,R,,CHI,23.8658453114,105862,,,Javier Munoz,R,,CHI,20.0985626283,1-6 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,344,124,672,27
 2011-M-FU-CHI-14A-2011,Chile F14,Clay,32,S,20111121,23,105273,8,,Mauricio Echazu,R,,PER,22.8309377139,103552,,Q,Carlos Gonzalez Leiva,R,,CHI,31.575633128,1-6 6-3 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,548,48,1106,5
 2011-M-FU-CHI-14A-2011,Chile F14,Clay,32,S,20111121,24,104503,2,,Guillermo Hormazabal,R,,CHI,26.7515400411,104274,,,Giulio Torroni,U,,ITA,27.9534565366,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,308,145,579,42
-2011-M-FU-CHI-14A-2011,Chile F14,Clay,32,S,20111121,25,106043,6,,Diego Sebastian Schwartzman,R,170,ARG,19.2635181383,106209,,WC,Matias Sborowitz,R,,CHI,18.3682409309,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,405,95,955,8
+2011-M-FU-CHI-14A-2011,Chile F14,Clay,32,S,20111121,25,106043,6,,Diego Schwartzman,R,170,ARG,19.2635181383,106209,,WC,Matias Sborowitz,R,,CHI,18.3682409309,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,405,95,955,8
 2011-M-FU-CHI-14A-2011,Chile F14,Clay,32,S,20111121,26,104713,5,,Juan Pablo Amado,R,,ARG,25.6372347707,104477,3,,Jorge Aguilar,R,,CHI,26.8665297741,7-6(6) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,399,97,329,130
 2011-M-FU-CHI-14A-2011,Chile F14,Clay,32,S,20111121,27,105274,7,,Patricio Heras,R,,ARG,22.8309377139,105070,4,,Hans Podlipnik Castillo,R,,CHI,23.8658453114,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,457,79,344,124
 2011-M-FU-CHI-14A-2011,Chile F14,Clay,32,S,20111121,28,104503,2,,Guillermo Hormazabal,R,,CHI,26.7515400411,105273,8,,Mauricio Echazu,R,,PER,22.8309377139,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,308,145,548,48
-2011-M-FU-CHI-14A-2011,Chile F14,Clay,32,S,20111121,29,106043,6,,Diego Sebastian Schwartzman,R,170,ARG,19.2635181383,104713,5,,Juan Pablo Amado,R,,ARG,25.6372347707,7-5 6-2,3,SF,,,,,,,,,,,,,,,,,,,,405,95,399,97
+2011-M-FU-CHI-14A-2011,Chile F14,Clay,32,S,20111121,29,106043,6,,Diego Schwartzman,R,170,ARG,19.2635181383,104713,5,,Juan Pablo Amado,R,,ARG,25.6372347707,7-5 6-2,3,SF,,,,,,,,,,,,,,,,,,,,405,95,399,97
 2011-M-FU-CHI-14A-2011,Chile F14,Clay,32,S,20111121,30,104503,2,,Guillermo Hormazabal,R,,CHI,26.7515400411,105274,7,,Patricio Heras,R,,ARG,22.8309377139,6-2 7-6(3),3,SF,,,,,,,,,,,,,,,,,,,,308,145,457,79
-2011-M-FU-CHI-14A-2011,Chile F14,Clay,32,S,20111121,31,106043,6,,Diego Sebastian Schwartzman,R,170,ARG,19.2635181383,104503,2,,Guillermo Hormazabal,R,,CHI,26.7515400411,6-0 6-3,3,F,,,,,,,,,,,,,,,,,,,,405,95,308,145
+2011-M-FU-CHI-14A-2011,Chile F14,Clay,32,S,20111121,31,106043,6,,Diego Schwartzman,R,170,ARG,19.2635181383,104503,2,,Guillermo Hormazabal,R,,CHI,26.7515400411,6-0 6-3,3,F,,,,,,,,,,,,,,,,,,,,405,95,308,145
 2011-M-FU-CZE-05A-2011,Czech Republic F5,Carpet,32,S,20111121,1,103902,1,,Jan Mertl,R,190,CZE,29.8809034908,106307,,WC,Patrik Fabian,L,,SVK,17.6728268309,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,185,271,,
 2011-M-FU-CZE-05A-2011,Czech Republic F5,Carpet,32,S,20111121,2,105613,,,Norbert Gombos,R,,SVK,21.273100616,105889,,Q,Nico Matic,R,,GER,19.8877481177,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,474,73,1235,3
 2011-M-FU-CZE-05A-2011,Czech Republic F5,Carpet,32,S,20111121,3,105029,,,Sergey Betov,R,,BLR,24.1013004791,104853,,,Jiri Skoloudik,R,,CZE,24.8651608487,6-7(4) 6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,553,47,629,34
@@ -16270,7 +16270,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-CHI-15A-2011,Chile F15,Clay,32,S,20111128,6,105273,,,Mauricio Echazu,R,,PER,22.8501026694,105713,,Q,Victor Morales,R,,CHI,20.7857631759,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,576,43,849,13
 2011-M-FU-CHI-15A-2011,Chile F15,Clay,32,S,20111128,7,105293,,Q,Ricardo Urzua Rivera,R,,CHI,22.7953456537,105771,,Q,Nicolas Alejandro De Gregorio,R,,ARG,20.553045859,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,815,15,1947,1
 2011-M-FU-CHI-15A-2011,Chile F15,Clay,32,S,20111128,8,105070,8,,Hans Podlipnik Castillo,R,,CHI,23.8850102669,106289,,Q,Marcelo Plaza,R,,CHI,17.8343600274,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,338,128,1301,3
-2011-M-FU-CHI-15A-2011,Chile F15,Clay,32,S,20111128,9,106043,,,Diego Sebastian Schwartzman,R,170,ARG,19.2826830938,105288,5,,Guillermo Rivera Aranguiz,R,,CHI,22.81724846,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,404,95,309,147
+2011-M-FU-CHI-15A-2011,Chile F15,Clay,32,S,20111128,9,106043,,,Diego Schwartzman,R,170,ARG,19.2826830938,105288,5,,Guillermo Rivera Aranguiz,R,,CHI,22.81724846,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,404,95,309,147
 2011-M-FU-CHI-15A-2011,Chile F15,Clay,32,S,20111128,10,105274,,,Patricio Heras,R,,ARG,22.8501026694,103552,,Q,Carlos Gonzalez Leiva,R,,CHI,31.5947980835,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,454,79,997,7
 2011-M-FU-CHI-15A-2011,Chile F15,Clay,32,S,20111128,11,106057,,,Facundo Mena,R,,ARG,19.1813826146,105941,,WC,Felipe Rios,R,,CHI,19.7344284736,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,560,46,984,8
 2011-M-FU-CHI-15A-2011,Chile F15,Clay,32,S,20111128,12,104651,3,,Martin Alund,R,,ARG,25.9219712526,105862,,Q,Javier Munoz,R,,CHI,20.1177275838,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,239,201,660,29
@@ -16282,13 +16282,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-CHI-15A-2011,Chile F15,Clay,32,S,20111128,18,105883,,LL,Ignacio Lehyt,R,,CHI,19.9425051335,104477,7,,Jorge Aguilar,R,,CHI,26.8856947296,2-6 6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1131,5,332,130
 2011-M-FU-CHI-15A-2011,Chile F15,Clay,32,S,20111128,19,105601,4,,Cristobal Saavedra Corvalan,R,,CHI,21.325119781,105273,,,Mauricio Echazu,R,,PER,22.8501026694,4-6 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,286,160,576,43
 2011-M-FU-CHI-15A-2011,Chile F15,Clay,32,S,20111128,20,105070,8,,Hans Podlipnik Castillo,R,,CHI,23.8850102669,105293,,Q,Ricardo Urzua Rivera,R,,CHI,22.7953456537,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,338,128,815,15
-2011-M-FU-CHI-15A-2011,Chile F15,Clay,32,S,20111128,21,106043,,,Diego Sebastian Schwartzman,R,170,ARG,19.2826830938,105274,,,Patricio Heras,R,,ARG,22.8501026694,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,404,95,454,79
+2011-M-FU-CHI-15A-2011,Chile F15,Clay,32,S,20111128,21,106043,,,Diego Schwartzman,R,170,ARG,19.2826830938,105274,,,Patricio Heras,R,,ARG,22.8501026694,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,404,95,454,79
 2011-M-FU-CHI-15A-2011,Chile F15,Clay,32,S,20111128,22,104651,3,,Martin Alund,R,,ARG,25.9219712526,106057,,,Facundo Mena,R,,ARG,19.1813826146,7-6(3) 6-0,3,R16,,,,,,,,,,,,,,,,,,,,239,201,560,46
 2011-M-FU-CHI-15A-2011,Chile F15,Clay,32,S,20111128,23,104503,6,,Guillermo Hormazabal,R,,CHI,26.7707049966,105160,,,Guillermo Duran,R,,ARG,23.4770704997,4-6 6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,311,144,403,95
 2011-M-FU-CHI-15A-2011,Chile F15,Clay,32,S,20111128,24,104965,2,,Pavol Cervenak,R,,SVK,24.4106776181,105820,,,Juan Carlos Saez,R,,CHI,20.3148528405,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,205,238,606,37
 2011-M-FU-CHI-15A-2011,Chile F15,Clay,32,S,20111128,25,105753,,Q,Juan Vazquez Valenzuela,R,,ARG,20.6187542779,105883,,LL,Ignacio Lehyt,R,,CHI,19.9425051335,7-6(3) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,881,12,1131,5
 2011-M-FU-CHI-15A-2011,Chile F15,Clay,32,S,20111128,26,105601,4,,Cristobal Saavedra Corvalan,R,,CHI,21.325119781,105070,8,,Hans Podlipnik Castillo,R,,CHI,23.8850102669,6-3 7-5,3,QF,,,,,,,,,,,,,,,,,,,,286,160,338,128
-2011-M-FU-CHI-15A-2011,Chile F15,Clay,32,S,20111128,27,104651,3,,Martin Alund,R,,ARG,25.9219712526,106043,,,Diego Sebastian Schwartzman,R,170,ARG,19.2826830938,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,239,201,404,95
+2011-M-FU-CHI-15A-2011,Chile F15,Clay,32,S,20111128,27,104651,3,,Martin Alund,R,,ARG,25.9219712526,106043,,,Diego Schwartzman,R,170,ARG,19.2826830938,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,239,201,404,95
 2011-M-FU-CHI-15A-2011,Chile F15,Clay,32,S,20111128,28,104965,2,,Pavol Cervenak,R,,SVK,24.4106776181,104503,6,,Guillermo Hormazabal,R,,CHI,26.7707049966,7-6(6) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,205,238,311,144
 2011-M-FU-CHI-15A-2011,Chile F15,Clay,32,S,20111128,29,105753,,Q,Juan Vazquez Valenzuela,R,,ARG,20.6187542779,105601,4,,Cristobal Saavedra Corvalan,R,,CHI,21.325119781,6-4 6-1,3,SF,,,,,,,,,,,,,,,,,,,,881,12,286,160
 2011-M-FU-CHI-15A-2011,Chile F15,Clay,32,S,20111128,30,104651,3,,Martin Alund,R,,ARG,25.9219712526,104965,2,,Pavol Cervenak,R,,SVK,24.4106776181,7-5 6-7(4) 7-5,3,SF,,,,,,,,,,,,,,,,,,,,239,201,205,238
@@ -16523,7 +16523,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-BRA-43A-2011,Brazil F43,Clay,32,S,20111212,11,105140,,Q,Joshua Zavala,U,,USA,23.6358658453,105771,,Q,Nicolas Alejandro De Gregorio,R,,ARG,20.59137577,7-6(2) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,826,14,1948,1
 2011-M-FU-BRA-43A-2011,Brazil F43,Clay,32,S,20111212,12,105571,,,Fabricio Neis,U,,BRA,21.492128679,104033,3,,Juan Pablo Villar,U,,ARG,29.4236824093,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,710,23,435,84
 2011-M-FU-BRA-43A-2011,Brazil F43,Clay,32,S,20111212,13,105381,5,,Thales Turini,U,,BRA,22.4010951403,105753,,,Juan Vazquez Valenzuela,R,,ARG,20.6570841889,4-6 7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,480,72,708,23
-2011-M-FU-BRA-43A-2011,Brazil F43,Clay,32,S,20111212,14,105740,,Q,Francesco Garzelli,R,,ITA,20.6872005476,110778,,WC,Joao Lucas Magalhaes Hueb De Menezes,R,,BRA,14.984257358,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,915,10,,
+2011-M-FU-BRA-43A-2011,Brazil F43,Clay,32,S,20111212,14,105740,,Q,Francesco Garzelli,R,,ITA,20.6872005476,110778,,WC,Joao Menezes,R,,BRA,14.984257358,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,915,10,,
 2011-M-FU-BRA-43A-2011,Brazil F43,Clay,32,S,20111212,15,105861,,Q,Caio Silva,U,,BRA,20.1587953457,105326,,,Marlon Oliveira,R,,BRA,22.6420260096,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,949,9,817,15
 2011-M-FU-BRA-43A-2011,Brazil F43,Clay,32,S,20111212,16,105426,2,,Michael Linzer,R,,AUT,22.1081451061,105998,,,Eduardo Dischinger,R,,BRA,19.5674195756,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,351,121,782,17
 2011-M-FU-BRA-43A-2011,Brazil F43,Clay,32,S,20111212,17,104651,1,,Martin Alund,R,,ARG,25.9603011636,106203,,,Pedro Sakamoto,U,,BRA,18.4531143053,3-6 6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,221,219,858,13
@@ -16607,7 +16607,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-BRA-44A-2011,Brazil F44,Clay,32,S,20111219,2,105100,,,Edward Corrie,U,,GBR,23.8247775496,109333,,WC,Pedro Guimaraes,R,,BRA,17.6290212183,7-6(3) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,746,19,,
 2011-M-FU-BRA-44A-2011,Brazil F44,Clay,32,S,20111219,3,105998,,,Eduardo Dischinger,R,,BRA,19.5865845311,106203,,,Pedro Sakamoto,U,,BRA,18.4722792608,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,770,18,881,12
 2011-M-FU-BRA-44A-2011,Brazil F44,Clay,32,S,20111219,4,105338,5,,Maximiliano Estevez,L,,ARG,22.5872689938,105861,,,Caio Silva,U,,BRA,20.1779603012,6-4 0-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,525,56,950,9
-2011-M-FU-BRA-44A-2011,Brazil F44,Clay,32,S,20111219,5,105426,3,,Michael Linzer,R,,AUT,22.1273100616,110778,,Q,Joao Lucas Magalhaes Hueb De Menezes,R,,BRA,15.0034223135,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,351,121,,
+2011-M-FU-BRA-44A-2011,Brazil F44,Clay,32,S,20111219,5,105426,3,,Michael Linzer,R,,AUT,22.1273100616,110778,,Q,Joao Menezes,R,,BRA,15.0034223135,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,351,121,,
 2011-M-FU-BRA-44A-2011,Brazil F44,Clay,32,S,20111219,6,105674,,,Carlos Eduardo Severino,U,,BRA,21.0376454483,105979,,,Augusto Laranja,R,,BRA,19.6769336071,7-6(7) 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1153,4,797,16
 2011-M-FU-BRA-44A-2011,Brazil F44,Clay,32,S,20111219,7,106165,,,Diego Hidalgo,U,,ECU,18.6694045175,122477,,WC,Asdrubal Gobernate,U,,BRA,16.5886379192,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1179,4,,
 2011-M-FU-BRA-44A-2011,Brazil F44,Clay,32,S,20111219,8,106219,,,Raul Francisquiny,U,,BRA,18.3983572895,106248,6,,Edoardo Eremin,R,,ITA,18.2039698836,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1010,7,579,42

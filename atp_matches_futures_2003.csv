@@ -41,7 +41,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-FRA-01A-2003,France F1,Clay,32,S,20030106,9,102354,5,,Jerome Hanquez,R,185,FRA,28.8240930869,102254,,Q,Ouassel Hared,R,,ALG,29.3524982888,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,312,87,1331,1
 2003-M-FU-FRA-01A-2003,France F1,Clay,32,S,20030106,10,106796,,WC,Cyril Mokaiesh,R,,FRA,,118915,,WC,Jean Baptiste Gorrieri,U,,FRA,20.1943874059,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2003-M-FU-FRA-01A-2003,France F1,Clay,32,S,20030106,11,102958,,Q,Julien Cuaz,R,,FRA,25.8069815195,111483,,WC,Jean Baptiste Robin,L,,FRA,17.6454483231,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,604,27,,
-2003-M-FU-FRA-01A-2003,France F1,Clay,32,S,20030106,12,103917,3,,Nicolas Mahut,R,190,FRA,20.9582477755,104527,,Q,Stanislas Wawrinka,R,183,SUI,17.7768651608,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,273,106,662,21
+2003-M-FU-FRA-01A-2003,France F1,Clay,32,S,20030106,12,103917,3,,Nicolas Mahut,R,190,FRA,20.9582477755,104527,,Q,Stan Wawrinka,R,183,SUI,17.7768651608,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,273,106,662,21
 2003-M-FU-FRA-01A-2003,France F1,Clay,32,S,20030106,13,102207,7,,Jan Weinzierl,R,,GER,29.6837782341,118916,,Q,Laurent Silvy,U,,FRA,23.2388774812,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,318,86,,
 2003-M-FU-FRA-01A-2003,France F1,Clay,32,S,20030106,14,103918,,,Dominique Coene,R,,BEL,20.9527720739,102167,,Q,Juan Albert Viloca Puig,R,185,ESP,29.9685147159,6-4 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,465,44,410,57
 2003-M-FU-FRA-01A-2003,France F1,Clay,32,S,20030106,15,103565,,,Stephane Robert,R,185,FRA,22.6392881588,103592,,,Jerome Haehnel,R,185,FRA,22.4804928131,7-6(4) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,331,82,373,67
@@ -125,7 +125,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-IND-01A-2003,India F1,Grass,32,S,20030106,31,103936,5,,Todor Enev,R,,BUL,20.9089664613,102667,3,,Satoshi Iwabuchi,L,175,JPN,27.2498288843,6-2 6-2,3,F,,,,,,,,,,,,,,,,,,,,489,41,385,64
 2003-M-SA-ESP-01A-2003a,Spain 1 1,Clay,24,S,20030106,1,103695,,,Marc Marco Ripoll,R,,ESP,21.9603011636,102828,,,Roberto Menendez,R,,ESP,26.4941820671,2-6 6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,497,39,386,64
 2003-M-SA-ESP-01A-2003a,Spain 1 1,Clay,24,S,20030106,2,104091,,,Miguel Angel Lopez Jaen,R,188,ESP,20.1040383299,103490,,,Santiago Ventura,R,183,ESP,23.0034223135,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,447,50,298,94
-2003-M-SA-ESP-01A-2003a,Spain 1 1,Clay,24,S,20030106,3,103926,,,Daniel Munoz De La Nava,L,,ESP,20.9363449692,101953,,,Kentaro Masuda,R,,JPN,31.3648186174,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,519,37
+2003-M-SA-ESP-01A-2003a,Spain 1 1,Clay,24,S,20030106,3,103926,,,Daniel Munoz de la Nava,L,,ESP,20.9363449692,101953,,,Kentaro Masuda,R,,JPN,31.3648186174,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,519,37
 2003-M-SA-ESP-01A-2003a,Spain 1 1,Clay,24,S,20030106,4,103390,,,Artemon Apostu Efremov,R,,ROU,23.5509924709,104831,,,Bartolome Salva Vidal,L,183,ESP,16.128678987,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,524,36,1278,2
 2003-M-SA-ESP-01A-2003a,Spain 1 1,Clay,24,S,20030106,5,103873,,,Antonio Baldellou Esteva,U,,ESP,21.1608487337,103608,,,Mario Munoz Bejarano,R,,ESP,22.4257357974,6-7(4) 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,496,39,959,6
 2003-M-SA-ESP-01A-2003a,Spain 1 1,Clay,24,S,20030106,6,102153,,,German Puentes,R,173,ESP,30.0506502396,103868,,,Ivan Navarro,R,183,ESP,21.2156057495,3-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,409,58,606,27
@@ -133,7 +133,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-SA-ESP-01A-2003a,Spain 1 1,Clay,24,S,20030106,8,103165,,,Gorka Fraile,R,180,ESP,24.7501711157,103599,,,Jordi Marse Vidri,U,,ESP,22.4613278576,7-6(6) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,244,120,760,14
 2003-M-SA-ESP-01A-2003a,Spain 1 1,Clay,24,S,20030106,9,103988,1,,Mariano Albert Ferrando,R,,ESP,20.6981519507,103695,,,Marc Marco Ripoll,R,,ESP,21.9603011636,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,290,100,497,39
 2003-M-SA-ESP-01A-2003a,Spain 1 1,Clay,24,S,20030106,10,104091,,,Miguel Angel Lopez Jaen,R,188,ESP,20.1040383299,103364,7,,Javier Genaro Martinez,R,,ESP,23.6851471595,6-3 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,447,50,1278,2
-2003-M-SA-ESP-01A-2003a,Spain 1 1,Clay,24,S,20030106,11,104597,3,,Nicolas Almagro,R,183,ESP,17.3771389459,103926,,,Daniel Munoz De La Nava,L,,ESP,20.9363449692,1-6 6-2 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,737,15,,
+2003-M-SA-ESP-01A-2003a,Spain 1 1,Clay,24,S,20030106,11,104597,3,,Nicolas Almagro,R,183,ESP,17.3771389459,103926,,,Daniel Munoz de la Nava,L,,ESP,20.9363449692,1-6 6-2 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,737,15,,
 2003-M-SA-ESP-01A-2003a,Spain 1 1,Clay,24,S,20030106,12,103390,,,Artemon Apostu Efremov,R,,ROU,23.5509924709,103118,8,,Ion Moldovan,R,188,ROU,24.9691991786,7-5 7-6(7),3,R16,,,,,,,,,,,,,,,,,,,,524,36,676,20
 2003-M-SA-ESP-01A-2003a,Spain 1 1,Clay,24,S,20030106,13,103365,6,,Javier Garcia Sintes,R,,ESP,23.6824093087,103873,,,Antonio Baldellou Esteva,U,,ESP,21.1608487337,5-7 6-3 RET,3,R16,,,,,,,,,,,,,,,,,,,,450,48,496,39
 2003-M-SA-ESP-01A-2003a,Spain 1 1,Clay,24,S,20030106,14,104225,4,,Jan Hajek,R,180,CZE,19.4168377823,102153,,,German Puentes,R,173,ESP,30.0506502396,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,219,143,409,58
@@ -148,7 +148,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-SA-ESP-01A-2003a,Spain 1 1,Clay,24,S,20030106,23,104225,4,,Jan Hajek,R,180,CZE,19.4168377823,103988,1,,Mariano Albert Ferrando,R,,ESP,20.6981519507,4-2 RET,3,F,,,,,,,,,,,,,,,,,,,,219,143,290,100
 2003-M-SA-ESP-01A-2003b,Spain 1 2,Clay,32,S,20030106,1,103988,1,,Mariano Albert Ferrando,R,,ESP,20.6981519507,103873,,,Antonio Baldellou Esteva,U,,ESP,21.1608487337,4-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,290,100,496,39
 2003-M-SA-ESP-01A-2003b,Spain 1 2,Clay,32,S,20030106,2,103390,,,Artemon Apostu Efremov,R,,ROU,23.5509924709,104452,,Q,Arnaud Segodo,L,,BEN,18.1492128679,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,524,36,1068,4
-2003-M-SA-ESP-01A-2003b,Spain 1 2,Clay,32,S,20030106,3,104214,,,Igor Andreev,R,185,RUS,19.4825462012,103926,,,Daniel Munoz De La Nava,L,,ESP,20.9363449692,6-4 6-7(6) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,289,100,,
+2003-M-SA-ESP-01A-2003b,Spain 1 2,Clay,32,S,20030106,3,104214,,,Igor Andreev,R,185,RUS,19.4825462012,103926,,,Daniel Munoz de la Nava,L,,ESP,20.9363449692,6-4 6-7(6) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,289,100,,
 2003-M-SA-ESP-01A-2003b,Spain 1 2,Clay,32,S,20030106,4,103365,5,,Javier Garcia Sintes,R,,ESP,23.6824093087,103030,,Q,Norikazu Sugiyama,R,178,JPN,25.440109514,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,450,48,827,11
 2003-M-SA-ESP-01A-2003b,Spain 1 2,Clay,32,S,20030106,5,104225,3,,Jan Hajek,R,180,CZE,19.4168377823,123681,,WC,Wenceslao Robles Febrer,U,,ESP,19.266255989,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,219,143,,
 2003-M-SA-ESP-01A-2003b,Spain 1 2,Clay,32,S,20030106,6,103599,,Q,Jordi Marse Vidri,U,,ESP,22.4613278576,102828,,,Roberto Menendez,R,,ESP,26.4941820671,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,760,14,386,64
@@ -217,7 +217,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-SA-ESP-01A-2003d,Spain 1 4,Clay,32,S,20030106,7,103365,,,Javier Garcia Sintes,R,,ESP,23.6824093087,103947,,,Ivan Esquerdo,U,,ESP,20.8569472964,1-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,450,48,500,39
 2003-M-SA-ESP-01A-2003d,Spain 1 4,Clay,32,S,20030106,8,104091,,Q,Miguel Angel Lopez Jaen,R,188,ESP,20.1040383299,102828,8,,Roberto Menendez,R,,ESP,26.4941820671,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,447,50,386,64
 2003-M-SA-ESP-01A-2003d,Spain 1 4,Clay,32,S,20030106,9,103490,5,,Santiago Ventura,R,183,ESP,23.0034223135,104372,,,Alex Bogdanovic,L,183,GBR,18.6255989049,1-6 6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,298,94,459,46
-2003-M-SA-ESP-01A-2003d,Spain 1 4,Clay,32,S,20030106,10,103926,,Q,Daniel Munoz De La Nava,L,,ESP,20.9363449692,104831,,WC,Bartolome Salva Vidal,L,183,ESP,16.128678987,5-7 6-0 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,1278,2
+2003-M-SA-ESP-01A-2003d,Spain 1 4,Clay,32,S,20030106,10,103926,,Q,Daniel Munoz de la Nava,L,,ESP,20.9363449692,104831,,WC,Bartolome Salva Vidal,L,183,ESP,16.128678987,5-7 6-0 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,1278,2
 2003-M-SA-ESP-01A-2003d,Spain 1 4,Clay,32,S,20030106,11,103873,,,Antonio Baldellou Esteva,U,,ESP,21.1608487337,103125,,Q,Joan Jimenez Guerra,R,,AND,24.9500342231,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,496,39,689,19
 2003-M-SA-ESP-01A-2003d,Spain 1 4,Clay,32,S,20030106,12,103988,4,,Mariano Albert Ferrando,R,,ESP,20.6981519507,101953,,,Kentaro Masuda,R,,JPN,31.3648186174,6-0 7-5,3,R32,,,,,,,,,,,,,,,,,,,,290,100,519,37
 2003-M-SA-ESP-01A-2003d,Spain 1 4,Clay,32,S,20030106,13,103032,7,,Francisco Fogues,L,190,ESP,25.4182067077,104073,,Q,Jose Pablo Serna,U,,ESP,20.2162902122,6-7(2) 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,349,74,978,6
@@ -228,7 +228,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-SA-ESP-01A-2003d,Spain 1 4,Clay,32,S,20030106,18,103390,,,Artemon Apostu Efremov,R,,ROU,23.5509924709,104597,,Q,Nicolas Almagro,R,183,ESP,17.3771389459,7-6(4) 2-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,524,36,737,15
 2003-M-SA-ESP-01A-2003d,Spain 1 4,Clay,32,S,20030106,19,102153,,,German Puentes,R,173,ESP,30.0506502396,104214,3,,Igor Andreev,R,185,RUS,19.4825462012,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,409,58,289,100
 2003-M-SA-ESP-01A-2003d,Spain 1 4,Clay,32,S,20030106,20,103365,,,Javier Garcia Sintes,R,,ESP,23.6824093087,104091,,Q,Miguel Angel Lopez Jaen,R,188,ESP,20.1040383299,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,450,48,447,50
-2003-M-SA-ESP-01A-2003d,Spain 1 4,Clay,32,S,20030106,21,103490,5,,Santiago Ventura,R,183,ESP,23.0034223135,103926,,Q,Daniel Munoz De La Nava,L,,ESP,20.9363449692,7-5 4-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,298,94,,
+2003-M-SA-ESP-01A-2003d,Spain 1 4,Clay,32,S,20030106,21,103490,5,,Santiago Ventura,R,183,ESP,23.0034223135,103926,,Q,Daniel Munoz de la Nava,L,,ESP,20.9363449692,7-5 4-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,298,94,,
 2003-M-SA-ESP-01A-2003d,Spain 1 4,Clay,32,S,20030106,22,103988,4,,Mariano Albert Ferrando,R,,ESP,20.6981519507,103873,,,Antonio Baldellou Esteva,U,,ESP,21.1608487337,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,290,100,496,39
 2003-M-SA-ESP-01A-2003d,Spain 1 4,Clay,32,S,20030106,23,103032,7,,Francisco Fogues,L,190,ESP,25.4182067077,103599,,Q,Jordi Marse Vidri,U,,ESP,22.4613278576,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,349,74,760,14
 2003-M-SA-ESP-01A-2003d,Spain 1 4,Clay,32,S,20030106,24,103118,,Q,Ion Moldovan,R,188,ROU,24.9691991786,103364,,WC,Javier Genaro Martinez,R,,ESP,23.6851471595,6-3 6-7(2) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,676,20,1278,2
@@ -276,7 +276,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-FRA-02A-2003,France F2,Clay,32,S,20030113,4,103565,,,Stephane Robert,R,185,FRA,22.6584531143,104149,8,,Adrian Cruciat,R,,ROU,19.7891854894,6-4 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,329,82,327,83
 2003-M-FU-FRA-02A-2003,France F2,Clay,32,S,20030113,5,102861,,Q,Timothy Aerts,R,,BEL,26.3299110198,103917,3,,Nicolas Mahut,R,190,FRA,20.977412731,2-6 7-6(3) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,834,10,273,106
 2003-M-FU-FRA-02A-2003,France F2,Clay,32,S,20030113,6,102323,,,Regis Lavergne,R,,FRA,28.9582477755,103527,,,Julien Jeanpierre,R,188,FRA,22.8446269678,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,335,80,379,65
-2003-M-FU-FRA-02A-2003,France F2,Clay,32,S,20030113,7,104527,,Q,Stanislas Wawrinka,R,183,SUI,17.7960301164,104468,,WC,Gilles Simon,R,183,FRA,18.045174538,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,662,21,1331,1
+2003-M-FU-FRA-02A-2003,France F2,Clay,32,S,20030113,7,104527,,Q,Stan Wawrinka,R,183,SUI,17.7960301164,104468,,WC,Gilles Simon,R,183,FRA,18.045174538,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,662,21,1331,1
 2003-M-FU-FRA-02A-2003,France F2,Clay,32,S,20030113,8,102167,,,Juan Albert Viloca Puig,R,185,ESP,29.9876796715,102207,6,,Jan Weinzierl,R,,GER,29.7029431896,3-6 6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,409,57,316,86
 2003-M-FU-FRA-02A-2003,France F2,Clay,32,S,20030113,9,103918,,LL,Dominique Coene,R,,BEL,20.9719370294,104081,7,,Boris Pashanski,R,180,SRB,20.1943874059,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,465,44,326,83
 2003-M-FU-FRA-02A-2003,France F2,Clay,32,S,20030113,10,104273,,,Edouard Roger Vasselin,R,188,FRA,19.1266255989,103691,,Q,Baptiste Dupuy,L,,FRA,21.9904175222,4-6 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,417,54,623,25
@@ -289,7 +289,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-FRA-02A-2003,France F2,Clay,32,S,20030113,17,103088,,SE,Xavier Pujo,R,180,FRA,25.106091718,103693,,,Thierry Ascione,R,188,FRA,21.9876796715,2-6 6-4 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,503,38,360,71
 2003-M-FU-FRA-02A-2003,France F2,Clay,32,S,20030113,18,102939,,,Jean Baptiste Perlant,R,190,FRA,25.8891170431,103565,,,Stephane Robert,R,185,FRA,22.6584531143,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,358,71,329,82
 2003-M-FU-FRA-02A-2003,France F2,Clay,32,S,20030113,19,102323,,,Regis Lavergne,R,,FRA,28.9582477755,102861,,Q,Timothy Aerts,R,,BEL,26.3299110198,7-5 6-7(4) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,335,80,834,10
-2003-M-FU-FRA-02A-2003,France F2,Clay,32,S,20030113,20,102167,,,Juan Albert Viloca Puig,R,185,ESP,29.9876796715,104527,,Q,Stanislas Wawrinka,R,183,SUI,17.7960301164,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,409,57,662,21
+2003-M-FU-FRA-02A-2003,France F2,Clay,32,S,20030113,20,102167,,,Juan Albert Viloca Puig,R,185,ESP,29.9876796715,104527,,Q,Stan Wawrinka,R,183,SUI,17.7960301164,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,409,57,662,21
 2003-M-FU-FRA-02A-2003,France F2,Clay,32,S,20030113,21,103918,,LL,Dominique Coene,R,,BEL,20.9719370294,104273,,,Edouard Roger Vasselin,R,188,FRA,19.1266255989,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,465,44,417,54
 2003-M-FU-FRA-02A-2003,France F2,Clay,32,S,20030113,22,103202,4,,Oscar Serrano,R,173,ESP,24.6379192334,103208,,Q,Jean Michel Pequery,R,,FRA,24.6242299795,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,280,104,504,38
 2003-M-FU-FRA-02A-2003,France F2,Clay,32,S,20030113,23,103592,,,Jerome Haehnel,R,185,FRA,22.4996577687,104182,,Q,Sasa Tuksar,R,180,CRO,19.6741957563,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,372,67,421,53
@@ -852,7 +852,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-USA-03A-2003,USA F3,Hard,32,S,20030127,30,103699,8,Q,Fred Hemmes,R,183,NED,21.9958932238,104433,,,Frank Dancevic,R,185,CAN,18.3353867214,7-6(4) 6-3,3,SF,,,,,,,,,,,,,,,,,,,,386,64,380,64
 2003-M-FU-USA-03A-2003,USA F3,Hard,32,S,20030127,31,103699,8,Q,Fred Hemmes,R,183,NED,21.9958932238,102469,,SE,Solon Peppas,R,,GRE,28.257357974,6-0 6-4,3,F,,,,,,,,,,,,,,,,,,,,386,64,617,26
 2003-M-FU-FRA-05A-2003,France F5,Hard,32,S,20030203,1,104515,,WC,Mathieu Montcourt,R,183,FRA,17.9192334018,102630,1,,Slimane Saoudi,L,,ALG,27.5345653662,7-6(6) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1187,3,280,106
-2003-M-FU-FRA-05A-2003,France F5,Hard,32,S,20030203,2,104542,,WC,Jo Wilfried Tsonga,R,188,FRA,17.7987679671,104110,,WC,Julien Maigret,R,,FRA,20.0657084189,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,495,39,601,27
+2003-M-FU-FRA-05A-2003,France F5,Hard,32,S,20030203,2,104542,,WC,Jo-Wilfried Tsonga,R,188,FRA,17.7987679671,104110,,WC,Julien Maigret,R,,FRA,20.0657084189,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,495,39,601,27
 2003-M-FU-FRA-05A-2003,France F5,Hard,32,S,20030203,3,103918,,,Dominique Coene,R,,BEL,21.029431896,103314,,LL,Josh Goffi,R,,BRA,24.0273785079,3-6 6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,569,31,739,15
 2003-M-FU-FRA-05A-2003,France F5,Hard,32,S,20030203,4,102763,6,,Benjamin Cassaigne,L,185,FRA,26.8391512663,103465,,,Paul Logtens,R,175,NED,23.241615332,7-6(7) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,339,79,588,29
 2003-M-FU-FRA-05A-2003,France F5,Hard,32,S,20030203,5,103208,,,Jean Michel Pequery,R,,FRA,24.681724846,102207,4,,Jan Weinzierl,R,,GER,29.7604380561,3-6 6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,491,40,324,84
@@ -867,7 +867,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-FRA-05A-2003,France F5,Hard,32,S,20030203,14,104721,,WC,Josselin Ouanna,R,193,FRA,16.8076659822,102261,,,Fabrice Betencourt,R,,FRA,29.3798767967,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,600,27
 2003-M-FU-FRA-05A-2003,France F5,Hard,32,S,20030203,15,104402,,Q,Clement Morel,R,,MON,18.5516769336,102646,,,Dimitri Lorin,R,,FRA,27.446954141,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,839,10,513,37
 2003-M-FU-FRA-05A-2003,France F5,Hard,32,S,20030203,16,102391,,,Charles Edouard Maria,R,,FRA,28.7145790554,103679,2,,Jeroen Masson,R,,BEL,22.0862422998,6-2 5-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,595,27,296,97
-2003-M-FU-FRA-05A-2003,France F5,Hard,32,S,20030203,17,104542,,WC,Jo Wilfried Tsonga,R,188,FRA,17.7987679671,104515,,WC,Mathieu Montcourt,R,183,FRA,17.9192334018,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,495,39,1187,3
+2003-M-FU-FRA-05A-2003,France F5,Hard,32,S,20030203,17,104542,,WC,Jo-Wilfried Tsonga,R,188,FRA,17.7987679671,104515,,WC,Mathieu Montcourt,R,183,FRA,17.9192334018,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,495,39,1187,3
 2003-M-FU-FRA-05A-2003,France F5,Hard,32,S,20030203,18,103918,,,Dominique Coene,R,,BEL,21.029431896,102763,6,,Benjamin Cassaigne,L,185,FRA,26.8391512663,3-6 6-3 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,569,31,339,79
 2003-M-FU-FRA-05A-2003,France F5,Hard,32,S,20030203,19,103208,,,Jean Michel Pequery,R,,FRA,24.681724846,103849,,,Francesco Aldi,R,175,ITA,21.3798767967,6-4 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,491,40,608,26
 2003-M-FU-FRA-05A-2003,France F5,Hard,32,S,20030203,20,103716,5,,Uros Vico,R,188,ITA,21.954825462,104397,,Q,Laurent Recouderc,R,,FRA,18.5681040383,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,325,83,902,8
@@ -875,11 +875,11 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-FRA-05A-2003,France F5,Hard,32,S,20030203,22,104137,,Q,Bart Van Delft,U,,NED,19.9397672827,102354,3,,Jerome Hanquez,R,185,FRA,28.900752909,6-3 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,990,6,313,87
 2003-M-FU-FRA-05A-2003,France F5,Hard,32,S,20030203,23,103592,7,,Jerome Haehnel,R,185,FRA,22.5571526352,104721,,WC,Josselin Ouanna,R,193,FRA,16.8076659822,7-6(1) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,352,73,,
 2003-M-FU-FRA-05A-2003,France F5,Hard,32,S,20030203,24,102391,,,Charles Edouard Maria,R,,FRA,28.7145790554,104402,,Q,Clement Morel,R,,MON,18.5516769336,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,595,27,839,10
-2003-M-FU-FRA-05A-2003,France F5,Hard,32,S,20030203,25,104542,,WC,Jo Wilfried Tsonga,R,188,FRA,17.7987679671,103918,,,Dominique Coene,R,,BEL,21.029431896,6-3 3-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,495,39,569,31
+2003-M-FU-FRA-05A-2003,France F5,Hard,32,S,20030203,25,104542,,WC,Jo-Wilfried Tsonga,R,188,FRA,17.7987679671,103918,,,Dominique Coene,R,,BEL,21.029431896,6-3 3-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,495,39,569,31
 2003-M-FU-FRA-05A-2003,France F5,Hard,32,S,20030203,26,103716,5,,Uros Vico,R,188,ITA,21.954825462,103208,,,Jean Michel Pequery,R,,FRA,24.681724846,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,325,83,491,40
 2003-M-FU-FRA-05A-2003,France F5,Hard,32,S,20030203,27,103957,,,Benjamin Kohlloeffel,L,,GER,20.8952772074,104137,,Q,Bart Van Delft,U,,NED,19.9397672827,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,514,37,990,6
 2003-M-FU-FRA-05A-2003,France F5,Hard,32,S,20030203,28,103592,7,,Jerome Haehnel,R,185,FRA,22.5571526352,102391,,,Charles Edouard Maria,R,,FRA,28.7145790554,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,352,73,595,27
-2003-M-FU-FRA-05A-2003,France F5,Hard,32,S,20030203,29,103716,5,,Uros Vico,R,188,ITA,21.954825462,104542,,WC,Jo Wilfried Tsonga,R,188,FRA,17.7987679671,6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,325,83,495,39
+2003-M-FU-FRA-05A-2003,France F5,Hard,32,S,20030203,29,103716,5,,Uros Vico,R,188,ITA,21.954825462,104542,,WC,Jo-Wilfried Tsonga,R,188,FRA,17.7987679671,6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,325,83,495,39
 2003-M-FU-FRA-05A-2003,France F5,Hard,32,S,20030203,30,103592,7,,Jerome Haehnel,R,185,FRA,22.5571526352,103957,,,Benjamin Kohlloeffel,L,,GER,20.8952772074,6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,352,73,514,37
 2003-M-FU-FRA-05A-2003,France F5,Hard,32,S,20030203,31,103592,7,,Jerome Haehnel,R,185,FRA,22.5571526352,103716,5,,Uros Vico,R,188,ITA,21.954825462,6-2 6-0,3,F,,,,,,,,,,,,,,,,,,,,352,73,325,83
 2003-M-FU-POR-01A-2003,Portugal F1,Clay,32,S,20030203,1,104534,,,Dudi Sela,R,175,ISR,17.8343600274,103577,1,,Christopher Kas,R,188,GER,22.6420260096,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,471,43,263,110
@@ -1309,7 +1309,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-GBR-04A-2003,Great Britain F4,Hard,32,S,20030217,30,101924,,,Stefano Pescosolido,R,185,ITA,31.6824093087,104171,,WC,Richard Bloomfield,R,185,GBR,19.8110882957,6-1 6-2,3,SF,,,,,,,,,,,,,,,,,,,,289,101,599,27
 2003-M-FU-GBR-04A-2003,Great Britain F4,Hard,32,S,20030217,31,102169,,,Michael Joyce,R,180,USA,30.0424366872,101924,,,Stefano Pescosolido,R,185,ITA,31.6824093087,6-4 3-6 6-2,3,F,,,,,,,,,,,,,,,,,,,,311,90,289,101
 2003-M-FU-NGR-01A-2003,Nigeria F1,Hard,32,S,20030217,1,103911,1,,Julien Cassaigne,R,,FRA,21.0924024641,102244,,,Gregory Girault,R,,FRA,29.582477755,6-7(3) 6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,400,60,782,12
-2003-M-FU-NGR-01A-2003,Nigeria F1,Hard,32,S,20030217,2,103226,,,Walid Jallali,R,,TUN,24.6351813826,103508,,,Nick Mcdonald,R,,RSA,23.0088980151,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,704,17,823,11
+2003-M-FU-NGR-01A-2003,Nigeria F1,Hard,32,S,20030217,2,103226,,,Walid Jallali,R,,TUN,24.6351813826,103508,,,Nick McDonald,R,,RSA,23.0088980151,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,704,17,823,11
 2003-M-FU-NGR-01A-2003,Nigeria F1,Hard,32,S,20030217,3,104158,,,Andrew Anderson,R,193,RSA,19.8631074606,103399,,,Carlos Rexach Itoiz,U,,ESP,23.6249144422,7-6(2) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,842,10,612,26
 2003-M-FU-NGR-01A-2003,Nigeria F1,Hard,32,S,20030217,4,104360,,LL,Adam Chadaj,L,178,POL,18.7980835044,102267,,,Gwinyai Tongoona,U,,ZIM,29.3552361396,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,880,8,689,18
 2003-M-FU-NGR-01A-2003,Nigeria F1,Hard,32,S,20030217,5,104203,4,,Darko Madjarovski,R,,SRB,19.6714579055,103125,,,Joan Jimenez Guerra,R,,AND,25.0650239562,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,476,43,680,19
@@ -1469,7 +1469,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-NGR-02A-2003,Nigeria F2,Hard,32,S,20030224,4,104005,6,,Tomer Suissa,U,,ISR,20.7474332649,103226,,,Walid Jallali,R,,TUN,24.6543463381,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,544,33,703,17
 2003-M-FU-NGR-02A-2003,Nigeria F2,Hard,32,S,20030224,5,103692,3,,Jakub Hasek,L,,CZE,22.1026694045,104464,,WC,Abdul Mumin Babalola,L,,NGR,18.1930184805,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,475,43,1020,5
 2003-M-FU-NGR-02A-2003,Nigeria F2,Hard,32,S,20030224,6,104439,,,Vadim Davletshin,U,,RUS,18.3819301848,102267,,,Gwinyai Tongoona,U,,ZIM,29.3744010951,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,834,10,689,18
-2003-M-FU-NGR-02A-2003,Nigeria F2,Hard,32,S,20030224,7,103674,,WC,Jonathan Igbinovia,R,,NGR,22.160164271,103508,,,Nick Mcdonald,R,,RSA,23.0280629706,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1129,3,821,11
+2003-M-FU-NGR-02A-2003,Nigeria F2,Hard,32,S,20030224,7,103674,,WC,Jonathan Igbinovia,R,,NGR,22.160164271,103508,,,Nick McDonald,R,,RSA,23.0280629706,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1129,3,821,11
 2003-M-FU-NGR-02A-2003,Nigeria F2,Hard,32,S,20030224,8,103551,8,,Willem Petrus Meyer,U,,RSA,22.841889117,104470,,WC,Komlavi Loglo,R,183,TOG,18.1519507187,6-2 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,599,27,,
 2003-M-FU-NGR-02A-2003,Nigeria F2,Hard,32,S,20030224,9,104467,,,Lamine Ouahab,R,185,ALG,18.173853525,103677,5,,Andreas Fasching,U,,AUT,22.1464750171,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,685,18,529,35
 2003-M-FU-NGR-02A-2003,Nigeria F2,Hard,32,S,20030224,10,102579,,,Xavier Audouy,U,,FRA,27.8357289528,103399,,,Carlos Rexach Itoiz,U,,ESP,23.6440793977,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,810,11,612,26
@@ -1535,7 +1535,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-ESP-04A-2003,Spain F4,Clay,32,S,20030224,8,103565,8,,Stephane Robert,R,185,FRA,22.7734428474,101953,,,Kentaro Masuda,R,,JPN,31.498973306,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,353,75,501,39
 2003-M-FU-ESP-04A-2003,Spain F4,Clay,32,S,20030224,9,104149,7,,Adrian Cruciat,R,,ROU,19.9041752225,118987,,WC,Rafael Domene Alcaraz,U,,ESP,21.7412731006,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,329,86,,
 2003-M-FU-ESP-04A-2003,Spain F4,Clay,32,S,20030224,10,103904,,Q,Alberto Soriano,U,,ESP,21.1334702259,103691,,Q,Baptiste Dupuy,L,,FRA,22.1054072553,6-2 3-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,912,7,620,25
-2003-M-FU-ESP-04A-2003,Spain F4,Clay,32,S,20030224,11,104527,,Q,Stanislas Wawrinka,R,183,SUI,17.9110198494,103947,,,Ivan Esquerdo,U,,ESP,20.9911019849,4-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,645,22,488,41
+2003-M-FU-ESP-04A-2003,Spain F4,Clay,32,S,20030224,11,104527,,Q,Stan Wawrinka,R,183,SUI,17.9110198494,103947,,,Ivan Esquerdo,U,,ESP,20.9911019849,4-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,645,22,488,41
 2003-M-FU-ESP-04A-2003,Spain F4,Clay,32,S,20030224,12,103490,4,,Santiago Ventura,R,183,ESP,23.1375770021,102153,,,German Puentes,R,173,ESP,30.1848049281,6-0 7-5,3,R32,,,,,,,,,,,,,,,,,,,,289,101,405,60
 2003-M-FU-ESP-04A-2003,Spain F4,Clay,32,S,20030224,13,104597,,Q,Nicolas Almagro,R,183,ESP,17.5112936345,104081,6,,Boris Pashanski,R,180,SRB,20.3093771389,6-3 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,527,35,324,87
 2003-M-FU-ESP-04A-2003,Spain F4,Clay,32,S,20030224,14,104230,,SE,Daniel Koellerer,R,180,AUT,19.523613963,104099,,Q,Israel Matos Gil,U,,ESP,20.1971252567,5-7 7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,635,23,737,15
@@ -1546,16 +1546,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-ESP-04A-2003,Spain F4,Clay,32,S,20030224,19,103448,,,Gabriel Trujillo Soler,R,,ESP,23.4031485284,104214,3,,Igor Andreev,R,185,RUS,19.6167008898,6-3 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,420,55,282,105
 2003-M-FU-ESP-04A-2003,Spain F4,Clay,32,S,20030224,20,104196,,Q,Carlos Cuadrado,R,180,ESP,19.7344284736,103565,8,,Stephane Robert,R,185,FRA,22.7734428474,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,566,31,353,75
 2003-M-FU-ESP-04A-2003,Spain F4,Clay,32,S,20030224,21,103904,,Q,Alberto Soriano,U,,ESP,21.1334702259,104149,7,,Adrian Cruciat,R,,ROU,19.9041752225,6-3 4-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,912,7,329,86
-2003-M-FU-ESP-04A-2003,Spain F4,Clay,32,S,20030224,22,104527,,Q,Stanislas Wawrinka,R,183,SUI,17.9110198494,103490,4,,Santiago Ventura,R,183,ESP,23.1375770021,6-1 6-7(11) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,645,22,289,101
+2003-M-FU-ESP-04A-2003,Spain F4,Clay,32,S,20030224,22,104527,,Q,Stan Wawrinka,R,183,SUI,17.9110198494,103490,4,,Santiago Ventura,R,183,ESP,23.1375770021,6-1 6-7(11) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,645,22,289,101
 2003-M-FU-ESP-04A-2003,Spain F4,Clay,32,S,20030224,23,104597,,Q,Nicolas Almagro,R,183,ESP,17.5112936345,104230,,SE,Daniel Koellerer,R,180,AUT,19.523613963,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,527,35,635,23
 2003-M-FU-ESP-04A-2003,Spain F4,Clay,32,S,20030224,24,103165,2,,Gorka Fraile,R,180,ESP,24.8843258042,103088,,,Xavier Pujo,R,180,FRA,25.2210814511,7-6(4) 5-2 RET,3,R16,,,,,,,,,,,,,,,,,,,,249,120,368,68
 2003-M-FU-ESP-04A-2003,Spain F4,Clay,32,S,20030224,25,103868,,Q,Ivan Navarro,R,183,ESP,21.3497604381,104559,,Q,Teymuraz Gabashvili,R,188,RUS,17.7577002053,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,594,28,876,8
 2003-M-FU-ESP-04A-2003,Spain F4,Clay,32,S,20030224,26,103448,,,Gabriel Trujillo Soler,R,,ESP,23.4031485284,104196,,Q,Carlos Cuadrado,R,180,ESP,19.7344284736,7-5 3-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,420,55,566,31
-2003-M-FU-ESP-04A-2003,Spain F4,Clay,32,S,20030224,27,104527,,Q,Stanislas Wawrinka,R,183,SUI,17.9110198494,103904,,Q,Alberto Soriano,U,,ESP,21.1334702259,6-7(4) 7-5 7-6(4),3,QF,,,,,,,,,,,,,,,,,,,,645,22,912,7
+2003-M-FU-ESP-04A-2003,Spain F4,Clay,32,S,20030224,27,104527,,Q,Stan Wawrinka,R,183,SUI,17.9110198494,103904,,Q,Alberto Soriano,U,,ESP,21.1334702259,6-7(4) 7-5 7-6(4),3,QF,,,,,,,,,,,,,,,,,,,,645,22,912,7
 2003-M-FU-ESP-04A-2003,Spain F4,Clay,32,S,20030224,28,104597,,Q,Nicolas Almagro,R,183,ESP,17.5112936345,103165,2,,Gorka Fraile,R,180,ESP,24.8843258042,7-6(2) 7-5,3,QF,,,,,,,,,,,,,,,,,,,,527,35,249,120
 2003-M-FU-ESP-04A-2003,Spain F4,Clay,32,S,20030224,29,103868,,Q,Ivan Navarro,R,183,ESP,21.3497604381,103448,,,Gabriel Trujillo Soler,R,,ESP,23.4031485284,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,594,28,420,55
-2003-M-FU-ESP-04A-2003,Spain F4,Clay,32,S,20030224,30,104527,,Q,Stanislas Wawrinka,R,183,SUI,17.9110198494,104597,,Q,Nicolas Almagro,R,183,ESP,17.5112936345,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,645,22,527,35
-2003-M-FU-ESP-04A-2003,Spain F4,Clay,32,S,20030224,31,103868,,Q,Ivan Navarro,R,183,ESP,21.3497604381,104527,,Q,Stanislas Wawrinka,R,183,SUI,17.9110198494,6-7(5) 6-4 6-0,3,F,,,,,,,,,,,,,,,,,,,,594,28,645,22
+2003-M-FU-ESP-04A-2003,Spain F4,Clay,32,S,20030224,30,104527,,Q,Stan Wawrinka,R,183,SUI,17.9110198494,104597,,Q,Nicolas Almagro,R,183,ESP,17.5112936345,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,645,22,527,35
+2003-M-FU-ESP-04A-2003,Spain F4,Clay,32,S,20030224,31,103868,,Q,Ivan Navarro,R,183,ESP,21.3497604381,104527,,Q,Stan Wawrinka,R,183,SUI,17.9110198494,6-7(5) 6-4 6-0,3,F,,,,,,,,,,,,,,,,,,,,594,28,645,22
 2003-M-FU-USA-05A-2003,USA F5,Hard,32,S,20030224,1,103248,1,,Harel Levy,R,185,ISR,24.5557837098,104179,,,Bruno Echagaray,R,183,MEX,19.8001368925,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,250,119,490,41
 2003-M-FU-USA-05A-2003,USA F5,Hard,32,S,20030224,2,104141,,,Dmitri Sitak,R,183,RUS,19.9780971937,103610,,LL,Mirko Pehar,R,,USA,22.5544147844,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,458,46,613,26
 2003-M-FU-USA-05A-2003,USA F5,Hard,32,S,20030224,3,103269,,Q,Huntley Montgomery,U,,USA,24.3969883641,102469,,Q,Solon Peppas,R,,GRE,28.334017796,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,456,46,543,33
@@ -1742,7 +1742,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-SA-ESP-02A-2003a,Spain 2 1,Clay,24,S,20030303,6,104062,,,Alejandro Vargas Aboy,U,,ESP,20.4435318275,103873,,,Antonio Baldellou Esteva,U,,ESP,21.3141683778,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1038,5,495,39
 2003-M-SA-ESP-02A-2003a,Spain 2 1,Clay,24,S,20030303,7,104719,,,Marcel Granollers,R,190,ESP,16.8898015058,104041,,,Sergi Arumi,R,,ESP,20.5968514716,6-0 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,958,6,555,32
 2003-M-SA-ESP-02A-2003a,Spain 2 1,Clay,24,S,20030303,8,104091,,,Miguel Angel Lopez Jaen,R,188,ESP,20.257357974,103608,,,Mario Munoz Bejarano,R,,ESP,22.5790554415,5-7 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,403,61,1093,4
-2003-M-SA-ESP-02A-2003a,Spain 2 1,Clay,24,S,20030303,9,104527,1,,Stanislas Wawrinka,R,183,SUI,17.9301848049,104421,,,Martin Vilarrubi,R,,URU,18.4969199179,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,643,22,1093,4
+2003-M-SA-ESP-02A-2003a,Spain 2 1,Clay,24,S,20030303,9,104527,1,,Stan Wawrinka,R,183,SUI,17.9301848049,104421,,,Martin Vilarrubi,R,,URU,18.4969199179,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,643,22,1093,4
 2003-M-SA-ESP-02A-2003a,Spain 2 1,Clay,24,S,20030303,10,104831,,,Bartolome Salva Vidal,L,183,ESP,16.2819986311,103988,7,,Mariano Albert Ferrando,R,,ESP,20.8514715948,1-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,1277,2,244,124
 2003-M-SA-ESP-02A-2003a,Spain 2 1,Clay,24,S,20030303,11,104196,4,,Carlos Cuadrado,R,180,ESP,19.7535934292,103448,,,Gabriel Trujillo Soler,R,,ESP,23.4223134839,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,564,31,422,55
 2003-M-SA-ESP-02A-2003a,Spain 2 1,Clay,24,S,20030303,12,104016,6,,Antonio Pastorino,U,,ARG,20.7173169062,110478,,,Ferran Ventura Martell,R,,ESP,24.8268309377,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,465,44,,
@@ -1750,18 +1750,18 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-SA-ESP-02A-2003a,Spain 2 1,Clay,24,S,20030303,14,103924,3,,Marc Fornell Mestres,R,,ESP,21.0978781656,104062,,,Alejandro Vargas Aboy,U,,ESP,20.4435318275,6-4 6-7(3) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,307,94,1038,5
 2003-M-SA-ESP-02A-2003a,Spain 2 1,Clay,24,S,20030303,15,104559,5,,Teymuraz Gabashvili,R,188,RUS,17.7768651608,104719,,,Marcel Granollers,R,190,ESP,16.8898015058,7-6(1) 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,881,8,958,6
 2003-M-SA-ESP-02A-2003a,Spain 2 1,Clay,24,S,20030303,16,103854,2,,Raul Morant,U,,ESP,21.440109514,104091,,,Miguel Angel Lopez Jaen,R,188,ESP,20.257357974,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,488,40,403,61
-2003-M-SA-ESP-02A-2003a,Spain 2 1,Clay,24,S,20030303,17,104527,1,,Stanislas Wawrinka,R,183,SUI,17.9301848049,104831,,,Bartolome Salva Vidal,L,183,ESP,16.2819986311,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,643,22,1277,2
+2003-M-SA-ESP-02A-2003a,Spain 2 1,Clay,24,S,20030303,17,104527,1,,Stan Wawrinka,R,183,SUI,17.9301848049,104831,,,Bartolome Salva Vidal,L,183,ESP,16.2819986311,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,643,22,1277,2
 2003-M-SA-ESP-02A-2003a,Spain 2 1,Clay,24,S,20030303,18,104196,4,,Carlos Cuadrado,R,180,ESP,19.7535934292,104016,6,,Antonio Pastorino,U,,ARG,20.7173169062,6-4 7-6(2),3,QF,,,,,,,,,,,,,,,,,,,,564,31,465,44
 2003-M-SA-ESP-02A-2003a,Spain 2 1,Clay,24,S,20030303,19,102167,,,Juan Albert Viloca Puig,R,185,ESP,30.12183436,103924,3,,Marc Fornell Mestres,R,,ESP,21.0978781656,6-1 4-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,418,57,307,94
 2003-M-SA-ESP-02A-2003a,Spain 2 1,Clay,24,S,20030303,20,104559,5,,Teymuraz Gabashvili,R,188,RUS,17.7768651608,103854,2,,Raul Morant,U,,ESP,21.440109514,6-2 7-5,3,QF,,,,,,,,,,,,,,,,,,,,881,8,488,40
-2003-M-SA-ESP-02A-2003a,Spain 2 1,Clay,24,S,20030303,21,104527,1,,Stanislas Wawrinka,R,183,SUI,17.9301848049,104196,4,,Carlos Cuadrado,R,180,ESP,19.7535934292,6-3 5-7 6-3,3,SF,,,,,,,,,,,,,,,,,,,,643,22,564,31
+2003-M-SA-ESP-02A-2003a,Spain 2 1,Clay,24,S,20030303,21,104527,1,,Stan Wawrinka,R,183,SUI,17.9301848049,104196,4,,Carlos Cuadrado,R,180,ESP,19.7535934292,6-3 5-7 6-3,3,SF,,,,,,,,,,,,,,,,,,,,643,22,564,31
 2003-M-SA-ESP-02A-2003a,Spain 2 1,Clay,24,S,20030303,22,102167,,,Juan Albert Viloca Puig,R,185,ESP,30.12183436,104559,5,,Teymuraz Gabashvili,R,188,RUS,17.7768651608,4-6 6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,418,57,881,8
-2003-M-SA-ESP-02A-2003a,Spain 2 1,Clay,24,S,20030303,23,104527,1,,Stanislas Wawrinka,R,183,SUI,17.9301848049,102167,,,Juan Albert Viloca Puig,R,185,ESP,30.12183436,6-4 6-0,3,F,,,,,,,,,,,,,,,,,,,,643,22,418,57
+2003-M-SA-ESP-02A-2003a,Spain 2 1,Clay,24,S,20030303,23,104527,1,,Stan Wawrinka,R,183,SUI,17.9301848049,102167,,,Juan Albert Viloca Puig,R,185,ESP,30.12183436,6-4 6-0,3,F,,,,,,,,,,,,,,,,,,,,643,22,418,57
 2003-M-SA-ESP-02A-2003b,Spain 2 2,Clay,32,S,20030303,1,104041,,Q,Sergi Arumi,R,,ESP,20.5968514716,104196,1,,Carlos Cuadrado,R,180,ESP,19.7535934292,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,555,32,564,31
 2003-M-SA-ESP-02A-2003b,Spain 2 2,Clay,32,S,20030303,2,104062,,,Alejandro Vargas Aboy,U,,ESP,20.4435318275,103543,,Q,David Marrero,R,185,ESP,22.8993839836,6-4 5-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1038,5,539,34
 2003-M-SA-ESP-02A-2003b,Spain 2 2,Clay,32,S,20030303,3,104496,,Q,Luis Manuel Flores,L,,MEX,18.0807665982,102931,,,Daniel Lencina Ribes,R,,LTU,26.0698151951,2-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1186,3,679,19
 2003-M-SA-ESP-02A-2003b,Spain 2 2,Clay,32,S,20030303,4,104559,,,Teymuraz Gabashvili,R,188,RUS,17.7768651608,102167,6,,Juan Albert Viloca Puig,R,185,ESP,30.12183436,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,881,8,418,57
-2003-M-SA-ESP-02A-2003b,Spain 2 2,Clay,32,S,20030303,5,104527,4,,Stanislas Wawrinka,R,183,SUI,17.9301848049,103364,,Q,Javier Genaro Martinez,R,,ESP,23.8384668036,7-6(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,643,22,958,6
+2003-M-SA-ESP-02A-2003b,Spain 2 2,Clay,32,S,20030303,5,104527,4,,Stan Wawrinka,R,183,SUI,17.9301848049,103364,,Q,Javier Genaro Martinez,R,,ESP,23.8384668036,7-6(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,643,22,958,6
 2003-M-SA-ESP-02A-2003b,Spain 2 2,Clay,32,S,20030303,6,101953,,Q,Kentaro Masuda,R,,JPN,31.5181382615,103641,,,Cesar Ferrer Victoria,L,,ESP,22.3983572895,6-1 4-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,517,37,,
 2003-M-SA-ESP-02A-2003b,Spain 2 2,Clay,32,S,20030303,7,103873,,,Antonio Baldellou Esteva,U,,ESP,21.3141683778,104222,,,Nikola Ciric,L,,SRB,19.5838466804,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,495,39,785,12
 2003-M-SA-ESP-02A-2003b,Spain 2 2,Clay,32,S,20030303,8,103448,,,Gabriel Trujillo Soler,R,,ESP,23.4223134839,103988,5,,Mariano Albert Ferrando,R,,ESP,20.8514715948,6-3 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,422,55,244,124
@@ -1775,19 +1775,19 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-SA-ESP-02A-2003b,Spain 2 2,Clay,32,S,20030303,16,103924,2,,Marc Fornell Mestres,R,,ESP,21.0978781656,103399,,Q,Carlos Rexach Itoiz,U,,ESP,23.6632443532,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,307,94,612,26
 2003-M-SA-ESP-02A-2003b,Spain 2 2,Clay,32,S,20030303,17,104062,,,Alejandro Vargas Aboy,U,,ESP,20.4435318275,104041,,Q,Sergi Arumi,R,,ESP,20.5968514716,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1038,5,555,32
 2003-M-SA-ESP-02A-2003b,Spain 2 2,Clay,32,S,20030303,18,104559,,,Teymuraz Gabashvili,R,188,RUS,17.7768651608,104496,,Q,Luis Manuel Flores,L,,MEX,18.0807665982,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,881,8,1186,3
-2003-M-SA-ESP-02A-2003b,Spain 2 2,Clay,32,S,20030303,19,104527,4,,Stanislas Wawrinka,R,183,SUI,17.9301848049,101953,,Q,Kentaro Masuda,R,,JPN,31.5181382615,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,643,22,517,37
+2003-M-SA-ESP-02A-2003b,Spain 2 2,Clay,32,S,20030303,19,104527,4,,Stan Wawrinka,R,183,SUI,17.9301848049,101953,,Q,Kentaro Masuda,R,,JPN,31.5181382615,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,643,22,517,37
 2003-M-SA-ESP-02A-2003b,Spain 2 2,Clay,32,S,20030303,20,103448,,,Gabriel Trujillo Soler,R,,ESP,23.4223134839,103873,,,Antonio Baldellou Esteva,U,,ESP,21.3141683778,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,422,55,495,39
 2003-M-SA-ESP-02A-2003b,Spain 2 2,Clay,32,S,20030303,21,104421,,,Martin Vilarrubi,R,,URU,18.4969199179,102920,7,,Diego Hipperdinger,R,,ESP,26.12183436,1-6 6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,1093,4,540,34
 2003-M-SA-ESP-02A-2003b,Spain 2 2,Clay,32,S,20030303,22,110478,,WC,Ferran Ventura Martell,R,,ESP,24.8268309377,103608,,Q,Mario Munoz Bejarano,R,,ESP,22.5790554415,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,1093,4
 2003-M-SA-ESP-02A-2003b,Spain 2 2,Clay,32,S,20030303,23,103854,8,,Raul Morant,U,,ESP,21.440109514,104831,,Q,Bartolome Salva Vidal,L,183,ESP,16.2819986311,6-3 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,488,40,1277,2
 2003-M-SA-ESP-02A-2003b,Spain 2 2,Clay,32,S,20030303,24,104091,,,Miguel Angel Lopez Jaen,R,188,ESP,20.257357974,103924,2,,Marc Fornell Mestres,R,,ESP,21.0978781656,7-6(4) 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,403,61,307,94
 2003-M-SA-ESP-02A-2003b,Spain 2 2,Clay,32,S,20030303,25,104559,,,Teymuraz Gabashvili,R,188,RUS,17.7768651608,104062,,,Alejandro Vargas Aboy,U,,ESP,20.4435318275,6-3 6-7(4) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,881,8,1038,5
-2003-M-SA-ESP-02A-2003b,Spain 2 2,Clay,32,S,20030303,26,104527,4,,Stanislas Wawrinka,R,183,SUI,17.9301848049,103448,,,Gabriel Trujillo Soler,R,,ESP,23.4223134839,6-7(7) 6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,643,22,422,55
+2003-M-SA-ESP-02A-2003b,Spain 2 2,Clay,32,S,20030303,26,104527,4,,Stan Wawrinka,R,183,SUI,17.9301848049,103448,,,Gabriel Trujillo Soler,R,,ESP,23.4223134839,6-7(7) 6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,643,22,422,55
 2003-M-SA-ESP-02A-2003b,Spain 2 2,Clay,32,S,20030303,27,110478,,WC,Ferran Ventura Martell,R,,ESP,24.8268309377,104421,,,Martin Vilarrubi,R,,URU,18.4969199179,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,1093,4
 2003-M-SA-ESP-02A-2003b,Spain 2 2,Clay,32,S,20030303,28,103854,8,,Raul Morant,U,,ESP,21.440109514,104091,,,Miguel Angel Lopez Jaen,R,188,ESP,20.257357974,7-5 5-7 7-5,3,QF,,,,,,,,,,,,,,,,,,,,488,40,403,61
-2003-M-SA-ESP-02A-2003b,Spain 2 2,Clay,32,S,20030303,29,104527,4,,Stanislas Wawrinka,R,183,SUI,17.9301848049,104559,,,Teymuraz Gabashvili,R,188,RUS,17.7768651608,2-6 6-4 7-6(2),3,SF,,,,,,,,,,,,,,,,,,,,643,22,881,8
+2003-M-SA-ESP-02A-2003b,Spain 2 2,Clay,32,S,20030303,29,104527,4,,Stan Wawrinka,R,183,SUI,17.9301848049,104559,,,Teymuraz Gabashvili,R,188,RUS,17.7768651608,2-6 6-4 7-6(2),3,SF,,,,,,,,,,,,,,,,,,,,643,22,881,8
 2003-M-SA-ESP-02A-2003b,Spain 2 2,Clay,32,S,20030303,30,103854,8,,Raul Morant,U,,ESP,21.440109514,110478,,WC,Ferran Ventura Martell,R,,ESP,24.8268309377,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,488,40,,
-2003-M-SA-ESP-02A-2003b,Spain 2 2,Clay,32,S,20030303,31,104527,4,,Stanislas Wawrinka,R,183,SUI,17.9301848049,103854,8,,Raul Morant,U,,ESP,21.440109514,6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,643,22,488,40
+2003-M-SA-ESP-02A-2003b,Spain 2 2,Clay,32,S,20030303,31,104527,4,,Stan Wawrinka,R,183,SUI,17.9301848049,103854,8,,Raul Morant,U,,ESP,21.440109514,6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,643,22,488,40
 2003-M-SA-ESP-02A-2003c,Spain 2 3,Clay,32,S,20030303,1,104559,,Q,Teymuraz Gabashvili,R,188,RUS,17.7768651608,101953,,LL,Kentaro Masuda,R,,JPN,31.5181382615,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,881,8,517,37
 2003-M-SA-ESP-02A-2003c,Spain 2 3,Clay,32,S,20030303,2,103641,,PR,Cesar Ferrer Victoria,L,,ESP,22.3983572895,104333,,LL,Atsuo Ogawa,R,,JPN,18.9377138946,2-6 7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,998,6
 2003-M-SA-ESP-02A-2003c,Spain 2 3,Clay,32,S,20030303,3,103364,,Q,Javier Genaro Martinez,R,,ESP,23.8384668036,103902,,,Jan Mertl,R,190,CZE,21.1608487337,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,958,6,611,26
@@ -1797,7 +1797,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-SA-ESP-02A-2003c,Spain 2 3,Clay,32,S,20030303,7,102504,,,Vitali Chvets,U,,BLR,28.167008898,125127,,WC,Lluis Soler Jimenez,U,,ESP,16.6707734428,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,557,32,,
 2003-M-SA-ESP-02A-2003c,Spain 2 3,Clay,32,S,20030303,8,103854,8,,Raul Morant,U,,ESP,21.440109514,103543,,,David Marrero,R,185,ESP,22.8993839836,6-2 2-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,488,40,539,34
 2003-M-SA-ESP-02A-2003c,Spain 2 3,Clay,32,S,20030303,9,103448,5,,Gabriel Trujillo Soler,R,,ESP,23.4223134839,104445,,Q,Jose Antonio Sanchez De Luna,R,,ESP,18.3709787817,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,422,55,1116,4
-2003-M-SA-ESP-02A-2003c,Spain 2 3,Clay,32,S,20030303,10,104527,,SE,Stanislas Wawrinka,R,183,SUI,17.9301848049,103399,,,Carlos Rexach Itoiz,U,,ESP,23.6632443532,2-6 6-0 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,643,22,612,26
+2003-M-SA-ESP-02A-2003c,Spain 2 3,Clay,32,S,20030303,10,104527,,SE,Stan Wawrinka,R,183,SUI,17.9301848049,103399,,,Carlos Rexach Itoiz,U,,ESP,23.6632443532,2-6 6-0 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,643,22,612,26
 2003-M-SA-ESP-02A-2003c,Spain 2 3,Clay,32,S,20030303,11,104421,,Q,Martin Vilarrubi,R,,URU,18.4969199179,103695,,,Marc Marco Ripoll,R,,ESP,22.1136208077,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1093,4,544,33
 2003-M-SA-ESP-02A-2003c,Spain 2 3,Clay,32,S,20030303,12,104091,3,,Miguel Angel Lopez Jaen,R,188,ESP,20.257357974,104831,,Q,Bartolome Salva Vidal,L,183,ESP,16.2819986311,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,403,61,1277,2
 2003-M-SA-ESP-02A-2003c,Spain 2 3,Clay,32,S,20030303,13,104062,,SE,Alejandro Vargas Aboy,U,,ESP,20.4435318275,110478,7,,Ferran Ventura Martell,R,,ESP,24.8268309377,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1038,5,,
@@ -1808,16 +1808,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-SA-ESP-02A-2003c,Spain 2 3,Clay,32,S,20030303,18,104016,6,,Antonio Pastorino,U,,ARG,20.7173169062,103364,,Q,Javier Genaro Martinez,R,,ESP,23.8384668036,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,465,44,958,6
 2003-M-SA-ESP-02A-2003c,Spain 2 3,Clay,32,S,20030303,19,104719,,WC,Marcel Granollers,R,190,ESP,16.8898015058,102167,4,,Juan Albert Viloca Puig,R,185,ESP,30.12183436,7-5 6-0,3,R16,,,,,,,,,,,,,,,,,,,,958,6,418,57
 2003-M-SA-ESP-02A-2003c,Spain 2 3,Clay,32,S,20030303,20,103854,8,,Raul Morant,U,,ESP,21.440109514,102504,,,Vitali Chvets,U,,BLR,28.167008898,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,488,40,557,32
-2003-M-SA-ESP-02A-2003c,Spain 2 3,Clay,32,S,20030303,21,104527,,SE,Stanislas Wawrinka,R,183,SUI,17.9301848049,103448,5,,Gabriel Trujillo Soler,R,,ESP,23.4223134839,6-4 6-7(5) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,643,22,422,55
+2003-M-SA-ESP-02A-2003c,Spain 2 3,Clay,32,S,20030303,21,104527,,SE,Stan Wawrinka,R,183,SUI,17.9301848049,103448,5,,Gabriel Trujillo Soler,R,,ESP,23.4223134839,6-4 6-7(5) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,643,22,422,55
 2003-M-SA-ESP-02A-2003c,Spain 2 3,Clay,32,S,20030303,22,104421,,Q,Martin Vilarrubi,R,,URU,18.4969199179,104091,3,,Miguel Angel Lopez Jaen,R,188,ESP,20.257357974,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1093,4,403,61
 2003-M-SA-ESP-02A-2003c,Spain 2 3,Clay,32,S,20030303,23,104222,,Q,Nikola Ciric,L,,SRB,19.5838466804,104062,,SE,Alejandro Vargas Aboy,U,,ESP,20.4435318275,6-2 3-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,785,12,1038,5
 2003-M-SA-ESP-02A-2003c,Spain 2 3,Clay,32,S,20030303,24,104196,,,Carlos Cuadrado,R,180,ESP,19.7535934292,102920,,,Diego Hipperdinger,R,,ESP,26.12183436,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,564,31,540,34
 2003-M-SA-ESP-02A-2003c,Spain 2 3,Clay,32,S,20030303,25,104016,6,,Antonio Pastorino,U,,ARG,20.7173169062,104559,,Q,Teymuraz Gabashvili,R,188,RUS,17.7768651608,7-6(5) 6-1,3,QF,,,,,,,,,,,,,,,,,,,,465,44,881,8
 2003-M-SA-ESP-02A-2003c,Spain 2 3,Clay,32,S,20030303,26,104719,,WC,Marcel Granollers,R,190,ESP,16.8898015058,103854,8,,Raul Morant,U,,ESP,21.440109514,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,958,6,488,40
-2003-M-SA-ESP-02A-2003c,Spain 2 3,Clay,32,S,20030303,27,104527,,SE,Stanislas Wawrinka,R,183,SUI,17.9301848049,104421,,Q,Martin Vilarrubi,R,,URU,18.4969199179,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,643,22,1093,4
+2003-M-SA-ESP-02A-2003c,Spain 2 3,Clay,32,S,20030303,27,104527,,SE,Stan Wawrinka,R,183,SUI,17.9301848049,104421,,Q,Martin Vilarrubi,R,,URU,18.4969199179,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,643,22,1093,4
 2003-M-SA-ESP-02A-2003c,Spain 2 3,Clay,32,S,20030303,28,104196,,,Carlos Cuadrado,R,180,ESP,19.7535934292,104222,,Q,Nikola Ciric,L,,SRB,19.5838466804,6-4 4-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,564,31,785,12
 2003-M-SA-ESP-02A-2003c,Spain 2 3,Clay,32,S,20030303,29,104016,6,,Antonio Pastorino,U,,ARG,20.7173169062,104719,,WC,Marcel Granollers,R,190,ESP,16.8898015058,6-4 0-6 7-5,3,SF,,,,,,,,,,,,,,,,,,,,465,44,958,6
-2003-M-SA-ESP-02A-2003c,Spain 2 3,Clay,32,S,20030303,30,104196,,,Carlos Cuadrado,R,180,ESP,19.7535934292,104527,,SE,Stanislas Wawrinka,R,183,SUI,17.9301848049,6-4 4-6 6-4,3,SF,,,,,,,,,,,,,,,,,,,,564,31,643,22
+2003-M-SA-ESP-02A-2003c,Spain 2 3,Clay,32,S,20030303,30,104196,,,Carlos Cuadrado,R,180,ESP,19.7535934292,104527,,SE,Stan Wawrinka,R,183,SUI,17.9301848049,6-4 4-6 6-4,3,SF,,,,,,,,,,,,,,,,,,,,564,31,643,22
 2003-M-SA-ESP-02A-2003c,Spain 2 3,Clay,32,S,20030303,31,104196,,,Carlos Cuadrado,R,180,ESP,19.7535934292,104016,6,,Antonio Pastorino,U,,ARG,20.7173169062,7-6(2) 6-1,3,F,,,,,,,,,,,,,,,,,,,,564,31,465,44
 2003-M-SA-ESP-02A-2003d,Spain 2 4,Clay,32,S,20030303,1,103988,1,,Mariano Albert Ferrando,R,,ESP,20.8514715948,101953,,LL,Kentaro Masuda,R,,JPN,31.5181382615,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,244,124,517,37
 2003-M-SA-ESP-02A-2003d,Spain 2 4,Clay,32,S,20030303,2,104196,,,Carlos Cuadrado,R,180,ESP,19.7535934292,104222,,Q,Nikola Ciric,L,,SRB,19.5838466804,1-6 6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,564,31,785,12
@@ -1831,7 +1831,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-SA-ESP-02A-2003d,Spain 2 4,Clay,32,S,20030303,10,103873,,,Antonio Baldellou Esteva,U,,ESP,21.3141683778,118797,,WC,Narcis Pelach Torres,R,,ESP,20.180698152,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,495,39,,
 2003-M-SA-ESP-02A-2003d,Spain 2 4,Clay,32,S,20030303,11,103695,,,Marc Marco Ripoll,R,,ESP,22.1136208077,119321,,WC,Roberto Velilla Jerez,R,,ESP,15.446954141,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,544,33,,
 2003-M-SA-ESP-02A-2003d,Spain 2 4,Clay,32,S,20030303,12,102167,3,,Juan Albert Viloca Puig,R,185,ESP,30.12183436,104955,,WC,Javier Ruiz Gonzalez,U,,ESP,15.7097878166,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,418,57,,
-2003-M-SA-ESP-02A-2003d,Spain 2 4,Clay,32,S,20030303,13,104527,,SE,Stanislas Wawrinka,R,183,SUI,17.9301848049,104091,5,,Miguel Angel Lopez Jaen,R,188,ESP,20.257357974,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,643,22,403,61
+2003-M-SA-ESP-02A-2003d,Spain 2 4,Clay,32,S,20030303,13,104527,,SE,Stan Wawrinka,R,183,SUI,17.9301848049,104091,5,,Miguel Angel Lopez Jaen,R,188,ESP,20.257357974,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,643,22,403,61
 2003-M-SA-ESP-02A-2003d,Spain 2 4,Clay,32,S,20030303,14,102931,,Q,Daniel Lencina Ribes,R,,LTU,26.0698151951,102504,,,Vitali Chvets,U,,BLR,28.167008898,3-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,679,19,557,32
 2003-M-SA-ESP-02A-2003d,Spain 2 4,Clay,32,S,20030303,15,104559,,Q,Teymuraz Gabashvili,R,188,RUS,17.7768651608,104197,,Q,David Ortiz Djian,R,,ESP,19.7508555784,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,881,8,1038,5
 2003-M-SA-ESP-02A-2003d,Spain 2 4,Clay,32,S,20030303,16,103924,2,,Marc Fornell Mestres,R,,ESP,21.0978781656,125127,,WC,Lluis Soler Jimenez,U,,ESP,16.6707734428,7-6(6) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,307,94,,
@@ -1841,12 +1841,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-SA-ESP-02A-2003d,Spain 2 4,Clay,32,S,20030303,20,102920,,,Diego Hipperdinger,R,,ESP,26.12183436,104016,7,,Antonio Pastorino,U,,ARG,20.7173169062,7-5 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,540,34,465,44
 2003-M-SA-ESP-02A-2003d,Spain 2 4,Clay,32,S,20030303,21,104062,,Q,Alejandro Vargas Aboy,U,,ESP,20.4435318275,103873,,,Antonio Baldellou Esteva,U,,ESP,21.3141683778,4-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1038,5,495,39
 2003-M-SA-ESP-02A-2003d,Spain 2 4,Clay,32,S,20030303,22,102167,3,,Juan Albert Viloca Puig,R,185,ESP,30.12183436,103695,,,Marc Marco Ripoll,R,,ESP,22.1136208077,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,418,57,544,33
-2003-M-SA-ESP-02A-2003d,Spain 2 4,Clay,32,S,20030303,23,104527,,SE,Stanislas Wawrinka,R,183,SUI,17.9301848049,102931,,Q,Daniel Lencina Ribes,R,,LTU,26.0698151951,7-6(5) 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,643,22,679,19
+2003-M-SA-ESP-02A-2003d,Spain 2 4,Clay,32,S,20030303,23,104527,,SE,Stan Wawrinka,R,183,SUI,17.9301848049,102931,,Q,Daniel Lencina Ribes,R,,LTU,26.0698151951,7-6(5) 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,643,22,679,19
 2003-M-SA-ESP-02A-2003d,Spain 2 4,Clay,32,S,20030303,24,103924,2,,Marc Fornell Mestres,R,,ESP,21.0978781656,104559,,Q,Teymuraz Gabashvili,R,188,RUS,17.7768651608,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,307,94,881,8
 2003-M-SA-ESP-02A-2003d,Spain 2 4,Clay,32,S,20030303,25,103988,1,,Mariano Albert Ferrando,R,,ESP,20.8514715948,103854,8,,Raul Morant,U,,ESP,21.440109514,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,244,124,488,40
 2003-M-SA-ESP-02A-2003d,Spain 2 4,Clay,32,S,20030303,26,102920,,,Diego Hipperdinger,R,,ESP,26.12183436,103448,4,,Gabriel Trujillo Soler,R,,ESP,23.4223134839,6-4 7-6(2),3,QF,,,,,,,,,,,,,,,,,,,,540,34,422,55
 2003-M-SA-ESP-02A-2003d,Spain 2 4,Clay,32,S,20030303,27,102167,3,,Juan Albert Viloca Puig,R,185,ESP,30.12183436,104062,,Q,Alejandro Vargas Aboy,U,,ESP,20.4435318275,2-6 6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,418,57,1038,5
-2003-M-SA-ESP-02A-2003d,Spain 2 4,Clay,32,S,20030303,28,103924,2,,Marc Fornell Mestres,R,,ESP,21.0978781656,104527,,SE,Stanislas Wawrinka,R,183,SUI,17.9301848049,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,307,94,643,22
+2003-M-SA-ESP-02A-2003d,Spain 2 4,Clay,32,S,20030303,28,103924,2,,Marc Fornell Mestres,R,,ESP,21.0978781656,104527,,SE,Stan Wawrinka,R,183,SUI,17.9301848049,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,307,94,643,22
 2003-M-SA-ESP-02A-2003d,Spain 2 4,Clay,32,S,20030303,29,103988,1,,Mariano Albert Ferrando,R,,ESP,20.8514715948,102920,,,Diego Hipperdinger,R,,ESP,26.12183436,7-5 6-2,3,SF,,,,,,,,,,,,,,,,,,,,244,124,540,34
 2003-M-SA-ESP-02A-2003d,Spain 2 4,Clay,32,S,20030303,30,103924,2,,Marc Fornell Mestres,R,,ESP,21.0978781656,102167,3,,Juan Albert Viloca Puig,R,185,ESP,30.12183436,7-6(5) 1-6 6-1,3,SF,,,,,,,,,,,,,,,,,,,,307,94,418,57
 2003-M-SA-ESP-02A-2003d,Spain 2 4,Clay,32,S,20030303,31,103924,2,,Marc Fornell Mestres,R,,ESP,21.0978781656,103988,1,,Mariano Albert Ferrando,R,,ESP,20.8514715948,6-4 3-6 3-1 RET,3,F,,,,,,,,,,,,,,,,,,,,307,94,244,124
@@ -1980,7 +1980,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-FRA-06A-2003,France F6,Hard,32,S,20030310,12,101924,3,,Stefano Pescosolido,R,185,ITA,31.7399041752,103592,,,Jerome Haehnel,R,185,FRA,22.6529774127,6-3 5-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,224,140,319,88
 2003-M-FU-FRA-06A-2003,France F6,Hard,32,S,20030310,13,104259,7,,Philipp Kohlschreiber,R,178,GER,19.3976728268,118657,,WC,Jason Gouget,U,,FRA,21.9329226557,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,332,82,,
 2003-M-FU-FRA-06A-2003,France F6,Hard,32,S,20030310,14,102958,,Q,Julien Cuaz,R,,FRA,25.9794661191,102244,,Q,Gregory Girault,R,,FRA,29.6399726215,4-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,660,21,737,15
-2003-M-FU-FRA-06A-2003,France F6,Hard,32,S,20030310,15,104542,,WC,Jo Wilfried Tsonga,R,188,FRA,17.8945927447,104468,,Q,Gilles Simon,R,183,FRA,18.1984941821,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,395,62,1334,1
+2003-M-FU-FRA-06A-2003,France F6,Hard,32,S,20030310,15,104542,,WC,Jo-Wilfried Tsonga,R,188,FRA,17.8945927447,104468,,Q,Gilles Simon,R,183,FRA,18.1984941821,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,395,62,1334,1
 2003-M-FU-FRA-06A-2003,France F6,Hard,32,S,20030310,16,104372,,Q,Alex Bogdanovic,L,183,GBR,18.7980835044,103898,2,,Julien Benneteau,R,185,FRA,21.2183436003,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,507,38,194,181
 2003-M-FU-FRA-06A-2003,France F6,Hard,32,S,20030310,17,102406,,WC,Thomas Dupre,R,,FRA,28.7501711157,103716,,,Uros Vico,R,188,ITA,22.0506502396,6-7(3) 6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,355,72,301,97
 2003-M-FU-FRA-06A-2003,France F6,Hard,32,S,20030310,18,103208,,Q,Jean Michel Pequery,R,,FRA,24.7775496235,104214,8,,Igor Andreev,R,185,RUS,19.6550308008,7-6(7) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,451,47,278,106
@@ -1989,13 +1989,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-FRA-06A-2003,France F6,Hard,32,S,20030310,21,102630,6,,Slimane Saoudi,L,,ALG,27.6303901437,102354,,,Jerome Hanquez,R,185,FRA,28.9965776865,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,260,114,335,79
 2003-M-FU-FRA-06A-2003,France F6,Hard,32,S,20030310,22,101924,3,,Stefano Pescosolido,R,185,ITA,31.7399041752,102763,,,Benjamin Cassaigne,L,185,FRA,26.9349760438,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,224,140,337,79
 2003-M-FU-FRA-06A-2003,France F6,Hard,32,S,20030310,23,102958,,Q,Julien Cuaz,R,,FRA,25.9794661191,104259,7,,Philipp Kohlschreiber,R,178,GER,19.3976728268,7-5 6-0,3,R16,,,,,,,,,,,,,,,,,,,,660,21,332,82
-2003-M-FU-FRA-06A-2003,France F6,Hard,32,S,20030310,24,104542,,WC,Jo Wilfried Tsonga,R,188,FRA,17.8945927447,104372,,Q,Alex Bogdanovic,L,183,GBR,18.7980835044,W/O,3,R16,,,,,,,,,,,,,,,,,,,,395,62,507,38
+2003-M-FU-FRA-06A-2003,France F6,Hard,32,S,20030310,24,104542,,WC,Jo-Wilfried Tsonga,R,188,FRA,17.8945927447,104372,,Q,Alex Bogdanovic,L,183,GBR,18.7980835044,W/O,3,R16,,,,,,,,,,,,,,,,,,,,395,62,507,38
 2003-M-FU-FRA-06A-2003,France F6,Hard,32,S,20030310,25,102406,,WC,Thomas Dupre,R,,FRA,28.7501711157,103208,,Q,Jean Michel Pequery,R,,FRA,24.7775496235,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,355,72,451,47
 2003-M-FU-FRA-06A-2003,France F6,Hard,32,S,20030310,26,103032,,,Francisco Fogues,L,190,ESP,25.5906913073,102533,5,,Jens Knippschild,R,190,GER,28.0629705681,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,307,94,255,117
 2003-M-FU-FRA-06A-2003,France F6,Hard,32,S,20030310,27,101924,3,,Stefano Pescosolido,R,185,ITA,31.7399041752,102630,6,,Slimane Saoudi,L,,ALG,27.6303901437,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,224,140,260,114
-2003-M-FU-FRA-06A-2003,France F6,Hard,32,S,20030310,28,104542,,WC,Jo Wilfried Tsonga,R,188,FRA,17.8945927447,102958,,Q,Julien Cuaz,R,,FRA,25.9794661191,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,395,62,660,21
+2003-M-FU-FRA-06A-2003,France F6,Hard,32,S,20030310,28,104542,,WC,Jo-Wilfried Tsonga,R,188,FRA,17.8945927447,102958,,Q,Julien Cuaz,R,,FRA,25.9794661191,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,395,62,660,21
 2003-M-FU-FRA-06A-2003,France F6,Hard,32,S,20030310,29,103032,,,Francisco Fogues,L,190,ESP,25.5906913073,102406,,WC,Thomas Dupre,R,,FRA,28.7501711157,6-7(4) 6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,307,94,355,72
-2003-M-FU-FRA-06A-2003,France F6,Hard,32,S,20030310,30,101924,3,,Stefano Pescosolido,R,185,ITA,31.7399041752,104542,,WC,Jo Wilfried Tsonga,R,188,FRA,17.8945927447,6-2 0-6 6-0,3,SF,,,,,,,,,,,,,,,,,,,,224,140,395,62
+2003-M-FU-FRA-06A-2003,France F6,Hard,32,S,20030310,30,101924,3,,Stefano Pescosolido,R,185,ITA,31.7399041752,104542,,WC,Jo-Wilfried Tsonga,R,188,FRA,17.8945927447,6-2 0-6 6-0,3,SF,,,,,,,,,,,,,,,,,,,,224,140,395,62
 2003-M-FU-FRA-06A-2003,France F6,Hard,32,S,20030310,31,101924,3,,Stefano Pescosolido,R,185,ITA,31.7399041752,103032,,,Francisco Fogues,L,190,ESP,25.5906913073,6-3 3-6 6-4,3,F,,,,,,,,,,,,,,,,,,,,224,140,307,94
 2003-M-FU-NZL-03A-2003,New Zealand F3,Hard,32,S,20030310,1,103098,1,,Johan Du Randt,U,,RSA,25.2101300479,103407,,,Matt Klinger,U,,CAN,23.6468172485,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,373,67,682,19
 2003-M-FU-NZL-03A-2003,New Zealand F3,Hard,32,S,20030310,2,104261,,,Peng Sun,R,,CHN,19.3894592745,103378,,,Bernard Parun,R,,GER,23.794661191,6-3 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,611,26,671,20
@@ -2074,7 +2074,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-FRA-07A-2003,France F7,Hard,32,S,20030317,13,104332,,LL,Philipp Petzschner,R,185,GER,18.9787816564,101924,8,,Stefano Pescosolido,R,185,ITA,31.7590691307,7-6(4) 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,327,85,229,140
 2003-M-FU-FRA-07A-2003,France F7,Hard,32,S,20030317,14,103110,,,Daniele Bracciali,R,180,ITA,25.1800136893,104211,,Q,Roman Valent,R,183,SUI,19.6906228611,7-6(2) 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,233,137,320,88
 2003-M-FU-FRA-07A-2003,France F7,Hard,32,S,20030317,15,103208,,Q,Jean Michel Pequery,R,,FRA,24.7967145791,103254,,,Yves Allegro,R,183,SUI,24.5612594114,1-6 7-6(3) 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,454,47,252,126
-2003-M-FU-FRA-07A-2003,France F7,Hard,32,S,20030317,16,104542,,SE,Jo Wilfried Tsonga,R,188,FRA,17.9137577002,103573,2,,Rik De Voest,R,180,RSA,22.7789185489,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,395,62,170,215
+2003-M-FU-FRA-07A-2003,France F7,Hard,32,S,20030317,16,104542,,SE,Jo-Wilfried Tsonga,R,188,FRA,17.9137577002,103573,2,,Rik De Voest,R,180,RSA,22.7789185489,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,395,62,170,215
 2003-M-FU-FRA-07A-2003,France F7,Hard,32,S,20030317,17,104386,1,,Janko Tipsarevic,R,180,SRB,18.7323750856,103060,,Q,Alejandro Hernandez,R,180,MEX,25.4565366188,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,165,227,500,39
 2003-M-FU-FRA-07A-2003,France F7,Hard,32,S,20030317,18,103917,7,,Nicolas Mahut,R,190,FRA,21.1498973306,104180,,,Gilles Muller,L,193,LUX,19.8548939083,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,215,156,273,109
 2003-M-FU-FRA-07A-2003,France F7,Hard,32,S,20030317,19,103801,,Q,Marc Steger,L,,FRA,21.7002053388,104259,,,Philipp Kohlschreiber,R,178,GER,19.4168377823,6-4 3-6 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,906,7,330,82
@@ -2082,7 +2082,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-FRA-07A-2003,France F7,Hard,32,S,20030317,21,103281,,,Ladislav Svarc,R,188,SVK,24.3394934976,103580,5,,Alexander Peya,R,183,AUT,22.7186858316,6-7(2) 7-6(4) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,308,92,198,177
 2003-M-FU-FRA-07A-2003,France F7,Hard,32,S,20030317,22,104026,4,,Joachim Johansson,R,198,SWE,20.7091033539,102658,,Q,Marc Bauer,R,,FRA,27.4798083504,6-2 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,203,167,725,15
 2003-M-FU-FRA-07A-2003,France F7,Hard,32,S,20030317,23,103110,,,Daniele Bracciali,R,180,ITA,25.1800136893,104332,,LL,Philipp Petzschner,R,185,GER,18.9787816564,6-3 3-6 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,233,137,327,85
-2003-M-FU-FRA-07A-2003,France F7,Hard,32,S,20030317,24,103208,,Q,Jean Michel Pequery,R,,FRA,24.7967145791,104542,,SE,Jo Wilfried Tsonga,R,188,FRA,17.9137577002,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,454,47,395,62
+2003-M-FU-FRA-07A-2003,France F7,Hard,32,S,20030317,24,103208,,Q,Jean Michel Pequery,R,,FRA,24.7967145791,104542,,SE,Jo-Wilfried Tsonga,R,188,FRA,17.9137577002,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,454,47,395,62
 2003-M-FU-FRA-07A-2003,France F7,Hard,32,S,20030317,25,103917,7,,Nicolas Mahut,R,190,FRA,21.1498973306,104386,1,,Janko Tipsarevic,R,180,SRB,18.7323750856,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,215,156,165,227
 2003-M-FU-FRA-07A-2003,France F7,Hard,32,S,20030317,26,102533,,,Jens Knippschild,R,190,GER,28.0821355236,103801,,Q,Marc Steger,L,,FRA,21.7002053388,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,258,117,906,7
 2003-M-FU-FRA-07A-2003,France F7,Hard,32,S,20030317,27,104026,4,,Joachim Johansson,R,198,SWE,20.7091033539,103281,,,Ladislav Svarc,R,188,SVK,24.3394934976,6-4 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,203,167,308,92
@@ -2191,7 +2191,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-FRA-08A-2003,France F8,Carpet,32,S,20030324,6,103503,,,Robin Vik,R,183,CZE,23.1293634497,103967,,Q,Michael Lammer,R,185,SUI,20.9965776865,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,293,99,383,64
 2003-M-FU-FRA-08A-2003,France F8,Carpet,32,S,20030324,7,103535,,,Olivier Patience,R,180,FRA,22.9952087611,102244,,Q,Gregory Girault,R,,FRA,29.6783025325,6-7(8) 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,255,122,730,15
 2003-M-FU-FRA-08A-2003,France F8,Carpet,32,S,20030324,8,103193,,WC,Peter Wessels,R,196,NED,24.8788501027,104217,,LL,Simon Stadler,L,183,GER,19.6769336071,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,412,59,479,41
-2003-M-FU-FRA-08A-2003,France F8,Carpet,32,S,20030324,9,103917,7,,Nicolas Mahut,R,190,FRA,21.1690622861,104542,,WC,Jo Wilfried Tsonga,R,188,FRA,17.9329226557,7-6(6) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,215,156,395,62
+2003-M-FU-FRA-08A-2003,France F8,Carpet,32,S,20030324,9,103917,7,,Nicolas Mahut,R,190,FRA,21.1690622861,104542,,WC,Jo-Wilfried Tsonga,R,188,FRA,17.9329226557,7-6(6) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,215,156,395,62
 2003-M-FU-FRA-08A-2003,France F8,Carpet,32,S,20030324,10,103060,,LL,Alejandro Hernandez,R,180,MEX,25.4757015743,103824,,LL,Orest Tereshchuk,R,,UKR,21.5961670089,6-4 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,500,39,332,82
 2003-M-FU-FRA-08A-2003,France F8,Carpet,32,S,20030324,11,104121,,Q,Tobias Summerer,R,185,GER,20.1396303901,104211,,,Roman Valent,R,183,SUI,19.7097878166,3-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,667,20,320,88
 2003-M-FU-FRA-08A-2003,France F8,Carpet,32,S,20030324,12,103693,4,,Thierry Ascione,R,188,FRA,22.1793292266,103254,,,Yves Allegro,R,183,SUI,24.5804243669,5-7 7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,207,163,252,126
@@ -3145,7 +3145,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-CHN-02A-2003,China F2,Hard,32,S,20030421,30,103830,4,,Shao Xuan Zeng,R,185,CHN,21.6427104723,104453,,,Michael Ryderstedt,L,188,SWE,18.4366872005,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,606,26,910,8
 2003-M-FU-CHN-02A-2003,China F2,Hard,32,S,20030421,31,103337,1,,Ben Qiang Zhu,R,,CHN,24.1067761807,103830,4,,Shao Xuan Zeng,R,185,CHN,21.6427104723,6-2 1-0 RET,3,F,,,,,,,,,,,,,,,,,,,,333,80,606,26
 2003-M-FU-GER-04A-2003,Germany F1,Clay,32,S,20030421,1,102472,1,,Marcello Craca,R,180,GER,28.4818617385,102135,,Q,Emilio Benfele Alvarez,R,183,ESP,30.4284736482,7-6(10) 5-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,274,107,514,37
-2003-M-FU-GER-04A-2003,Germany F1,Clay,32,S,20030421,2,102600,,,David Miketa,R,183,CZE,27.8795345654,104542,,,Jo Wilfried Tsonga,R,188,FRA,18.0095824778,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,424,56,385,63
+2003-M-FU-GER-04A-2003,Germany F1,Clay,32,S,20030421,2,102600,,,David Miketa,R,183,CZE,27.8795345654,104542,,,Jo-Wilfried Tsonga,R,188,FRA,18.0095824778,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,424,56,385,63
 2003-M-FU-GER-04A-2003,Germany F1,Clay,32,S,20030421,3,103480,,,Martin Stepanek,R,,CZE,23.3538672142,104066,,Q,Pavel Lobanov,U,,RUS,20.553045859,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,391,62,751,14
 2003-M-FU-GER-04A-2003,Germany F1,Clay,32,S,20030421,4,104259,7,,Philipp Kohlschreiber,R,178,GER,19.5126625599,103925,,,Gabriel Moraru,R,180,ROU,21.2265571526,6-3 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,327,82,479,43
 2003-M-FU-GER-04A-2003,Germany F1,Clay,32,S,20030421,5,103646,,,Lars Uebel,R,,GER,22.5160848734,103503,3,Q,Robin Vik,R,183,CZE,23.2060232717,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,473,43,290,100
@@ -3451,7 +3451,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-GER-05A-2003,Germany F2,Clay,32,S,20030428,3,103950,,LL,Marcin Golab,U,,POL,21.158110883,111317,,WC,Florian Lemke,R,,GER,19.2963723477,6-1 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,644,22,1148,3
 2003-M-FU-GER-05A-2003,Germany F2,Clay,32,S,20030428,4,102861,,Q,Timothy Aerts,R,,BEL,26.6173853525,103582,10,,Michael Berrer,L,193,GER,22.8227241615,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,586,28,421,57
 2003-M-FU-GER-05A-2003,Germany F2,Clay,32,S,20030428,5,104010,4,,Dieter Kindlmann,R,183,GER,20.900752909,104490,,LL,Peter Steinberger,R,,GER,18.2614647502,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,322,86,,
-2003-M-FU-GER-05A-2003,Germany F2,Clay,32,S,20030428,6,103926,,LL,Daniel Munoz De La Nava,L,,ESP,21.2429842574,103116,,,Florian Jeschonek,R,,GER,25.2785763176,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1217,2,560,32
+2003-M-FU-GER-05A-2003,Germany F2,Clay,32,S,20030428,6,103926,,LL,Daniel Munoz de la Nava,L,,ESP,21.2429842574,103116,,,Florian Jeschonek,R,,GER,25.2785763176,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1217,2,560,32
 2003-M-FU-GER-05A-2003,Germany F2,Clay,32,S,20030428,7,103646,,,Lars Uebel,R,,GER,22.5352498289,104074,,Q,Peter Mayer Tischer,U,,GER,20.5229295003,7-6(3) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,472,44,1094,4
 2003-M-FU-GER-05A-2003,Germany F2,Clay,32,S,20030428,8,103967,7,,Michael Lammer,R,185,SUI,21.0924024641,102875,,,Luke Smith,R,188,AUS,26.5051334702,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,354,74,566,31
 2003-M-FU-GER-05A-2003,Germany F2,Clay,32,S,20030428,9,103592,8,,Jerome Haehnel,R,185,FRA,22.7871321013,103601,,,Sebastian Jaeger,R,,GER,22.7570157426,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,367,70,715,16
@@ -3461,19 +3461,19 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-GER-05A-2003,Germany F2,Clay,32,S,20030428,13,102207,5,,Jan Weinzierl,R,,GER,29.9904175222,103662,,Q,Holger Fischer,R,,GER,22.3764544832,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,341,79,740,14
 2003-M-FU-GER-05A-2003,Germany F2,Clay,32,S,20030428,14,103925,,,Gabriel Moraru,R,180,ROU,21.2457221081,104676,,WC,Andreas Beck,L,190,GER,17.2238193018,2-6 6-4 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,480,43,1109,4
 2003-M-FU-GER-05A-2003,Germany F2,Clay,32,S,20030428,15,103761,,LL,Tomas Cakl,R,178,CZE,22.006844627,103465,,Q,Paul Logtens,R,175,NED,23.4715947981,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,574,29,638,23
-2003-M-FU-GER-05A-2003,Germany F2,Clay,32,S,20030428,16,104542,9,,Jo Wilfried Tsonga,R,188,FRA,18.0287474333,102793,,,Fredrik Loven,R,,SWE,26.9240246407,6-3 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,386,63,575,29
+2003-M-FU-GER-05A-2003,Germany F2,Clay,32,S,20030428,16,104542,9,,Jo-Wilfried Tsonga,R,188,FRA,18.0287474333,102793,,,Fredrik Loven,R,,SWE,26.9240246407,6-3 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,386,63,575,29
 2003-M-FU-GER-05A-2003,Germany F2,Clay,32,S,20030428,17,102472,1,,Marcello Craca,R,180,GER,28.501026694,104382,,Q,Markus Bayer,L,,GER,18.8747433265,6-1 7-6(11),3,R16,,,,,,,,,,,,,,,,,,,,276,107,931,7
 2003-M-FU-GER-05A-2003,Germany F2,Clay,32,S,20030428,18,102861,,Q,Timothy Aerts,R,,BEL,26.6173853525,103950,,LL,Marcin Golab,U,,POL,21.158110883,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,586,28,644,22
-2003-M-FU-GER-05A-2003,Germany F2,Clay,32,S,20030428,19,104010,4,,Dieter Kindlmann,R,183,GER,20.900752909,103926,,LL,Daniel Munoz De La Nava,L,,ESP,21.2429842574,6-4 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,322,86,1217,2
+2003-M-FU-GER-05A-2003,Germany F2,Clay,32,S,20030428,19,104010,4,,Dieter Kindlmann,R,183,GER,20.900752909,103926,,LL,Daniel Munoz de la Nava,L,,ESP,21.2429842574,6-4 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,322,86,1217,2
 2003-M-FU-GER-05A-2003,Germany F2,Clay,32,S,20030428,20,103967,7,,Michael Lammer,R,185,SUI,21.0924024641,103646,,,Lars Uebel,R,,GER,22.5352498289,3-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,354,74,472,44
 2003-M-FU-GER-05A-2003,Germany F2,Clay,32,S,20030428,21,103592,8,,Jerome Haehnel,R,185,FRA,22.7871321013,103537,,Q,Andreas Kauntz,R,,GER,23.0828199863,6-0 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,367,70,1055,5
 2003-M-FU-GER-05A-2003,Germany F2,Clay,32,S,20030428,22,102817,,,Edwin Kempes,R,188,NED,26.8446269678,103877,3,,Mike Scheidweiler,R,188,LUX,21.4510609172,6-4 3-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,446,50,309,90
 2003-M-FU-GER-05A-2003,Germany F2,Clay,32,S,20030428,23,102207,5,,Jan Weinzierl,R,,GER,29.9904175222,103925,,,Gabriel Moraru,R,180,ROU,21.2457221081,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,341,79,480,43
-2003-M-FU-GER-05A-2003,Germany F2,Clay,32,S,20030428,24,104542,9,,Jo Wilfried Tsonga,R,188,FRA,18.0287474333,103761,,LL,Tomas Cakl,R,178,CZE,22.006844627,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,386,63,574,29
+2003-M-FU-GER-05A-2003,Germany F2,Clay,32,S,20030428,24,104542,9,,Jo-Wilfried Tsonga,R,188,FRA,18.0287474333,103761,,LL,Tomas Cakl,R,178,CZE,22.006844627,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,386,63,574,29
 2003-M-FU-GER-05A-2003,Germany F2,Clay,32,S,20030428,25,102472,1,,Marcello Craca,R,180,GER,28.501026694,102861,,Q,Timothy Aerts,R,,BEL,26.6173853525,4-6 6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,276,107,586,28
 2003-M-FU-GER-05A-2003,Germany F2,Clay,32,S,20030428,26,103967,7,,Michael Lammer,R,185,SUI,21.0924024641,104010,4,,Dieter Kindlmann,R,183,GER,20.900752909,3-6 6-3 6-0,3,QF,,,,,,,,,,,,,,,,,,,,354,74,322,86
 2003-M-FU-GER-05A-2003,Germany F2,Clay,32,S,20030428,27,103592,8,,Jerome Haehnel,R,185,FRA,22.7871321013,102817,,,Edwin Kempes,R,188,NED,26.8446269678,6-4 6-0,3,QF,,,,,,,,,,,,,,,,,,,,367,70,446,50
-2003-M-FU-GER-05A-2003,Germany F2,Clay,32,S,20030428,28,102207,5,,Jan Weinzierl,R,,GER,29.9904175222,104542,9,,Jo Wilfried Tsonga,R,188,FRA,18.0287474333,6-1 6-0,3,QF,,,,,,,,,,,,,,,,,,,,341,79,386,63
+2003-M-FU-GER-05A-2003,Germany F2,Clay,32,S,20030428,28,102207,5,,Jan Weinzierl,R,,GER,29.9904175222,104542,9,,Jo-Wilfried Tsonga,R,188,FRA,18.0287474333,6-1 6-0,3,QF,,,,,,,,,,,,,,,,,,,,341,79,386,63
 2003-M-FU-GER-05A-2003,Germany F2,Clay,32,S,20030428,29,102472,1,,Marcello Craca,R,180,GER,28.501026694,103967,7,,Michael Lammer,R,185,SUI,21.0924024641,6-3 4-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,276,107,354,74
 2003-M-FU-GER-05A-2003,Germany F2,Clay,32,S,20030428,30,102207,5,,Jan Weinzierl,R,,GER,29.9904175222,103592,8,,Jerome Haehnel,R,185,FRA,22.7871321013,4-6 6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,341,79,367,70
 2003-M-FU-GER-05A-2003,Germany F2,Clay,32,S,20030428,31,102472,1,,Marcello Craca,R,180,GER,28.501026694,102207,5,,Jan Weinzierl,R,,GER,29.9904175222,6-3 6-3,3,F,,,,,,,,,,,,,,,,,,,,276,107,341,79
@@ -3879,7 +3879,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-GER-06A-2003,Germany F3,Clay,32,S,20030505,5,103586,,,Mariusz Fyrstenberg,L,193,POL,22.8227241615,102809,3,,Axel Pretzsch,R,185,GER,26.8829568789,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,433,53,298,98
 2003-M-FU-GER-06A-2003,Germany F3,Clay,32,S,20030505,6,104134,,WC,Bastian Gronefeld,L,,GER,20.1943874059,104235,,Q,Matwe Middelkoop,R,,NED,19.6687200548,6-2 5-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,555,32,863,9
 2003-M-FU-GER-06A-2003,Germany F3,Clay,32,S,20030505,7,103582,,,Michael Berrer,L,193,GER,22.841889117,103116,,,Florian Jeschonek,R,,GER,25.2977412731,6-4 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,435,53,562,32
-2003-M-FU-GER-06A-2003,Germany F3,Clay,32,S,20030505,8,104527,8,,Stanislas Wawrinka,R,183,SUI,18.1026694045,103957,,,Benjamin Kohlloeffel,L,,GER,21.144421629,6-3 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,387,63,461,48
+2003-M-FU-GER-06A-2003,Germany F3,Clay,32,S,20030505,8,104527,8,,Stan Wawrinka,R,183,SUI,18.1026694045,103957,,,Benjamin Kohlloeffel,L,,GER,21.144421629,6-3 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,387,63,461,48
 2003-M-FU-GER-06A-2003,Germany F3,Clay,32,S,20030505,9,104160,,LL,Lukas Dlouhy,R,185,CZE,20.0711841205,102107,5,,Jan Frode Andersen,L,190,NOR,30.6803559206,7-5 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,414,57,336,80
 2003-M-FU-GER-06A-2003,Germany F3,Clay,32,S,20030505,10,102817,,,Edwin Kempes,R,188,NED,26.8637919233,103938,,,Igor Zelenay,R,198,SVK,21.2292950034,2-6 6-3 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,447,50,391,63
 2003-M-FU-GER-06A-2003,Germany F3,Clay,32,S,20030505,11,102600,,,David Miketa,R,183,CZE,27.9178644764,106764,,WC,Christopher Koderisch,U,180,GER,18.4394250513,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,424,54,1346,1
@@ -3891,7 +3891,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-GER-06A-2003,Germany F3,Clay,32,S,20030505,17,104121,,Q,Tobias Summerer,R,185,GER,20.2546201232,103728,,LL,Christian Magg,R,,AUT,22.1574264203,6-3 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,655,21,900,8
 2003-M-FU-GER-06A-2003,Germany F3,Clay,32,S,20030505,18,102100,,,Bartlomiej Dabrowski,R,,POL,30.7049965777,103823,7,,Denis Gremelmayr,L,183,GER,21.7166324435,6-2 3-6 6-0,3,R16,,,,,,,,,,,,,,,,,,,,456,49,364,70
 2003-M-FU-GER-06A-2003,Germany F3,Clay,32,S,20030505,19,103586,,,Mariusz Fyrstenberg,L,193,POL,22.8227241615,104134,,WC,Bastian Gronefeld,L,,GER,20.1943874059,7-6(6) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,433,53,555,32
-2003-M-FU-GER-06A-2003,Germany F3,Clay,32,S,20030505,20,103582,,,Michael Berrer,L,193,GER,22.841889117,104527,8,,Stanislas Wawrinka,R,183,SUI,18.1026694045,4-6 6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,435,53,387,63
+2003-M-FU-GER-06A-2003,Germany F3,Clay,32,S,20030505,20,103582,,,Michael Berrer,L,193,GER,22.841889117,104527,8,,Stan Wawrinka,R,183,SUI,18.1026694045,4-6 6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,435,53,387,63
 2003-M-FU-GER-06A-2003,Germany F3,Clay,32,S,20030505,21,102817,,,Edwin Kempes,R,188,NED,26.8637919233,104160,,LL,Lukas Dlouhy,R,185,CZE,20.0711841205,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,447,50,414,57
 2003-M-FU-GER-06A-2003,Germany F3,Clay,32,S,20030505,22,104259,4,,Philipp Kohlschreiber,R,178,GER,19.5509924709,102600,,,David Miketa,R,183,CZE,27.9178644764,6-3 3-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,341,78,424,54
 2003-M-FU-GER-06A-2003,Germany F3,Clay,32,S,20030505,23,102207,6,,Jan Weinzierl,R,,GER,30.0095824778,102469,,Q,Solon Peppas,R,,GRE,28.5256673511,6-4 3-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,350,75,549,33
@@ -4125,7 +4125,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-SA-POR-01A-2003a,Portugal 1 1,Clay,24,S,20030505,3,104311,,,Leonardo Tavares,R,,POR,19.2032854209,111603,,,Richard Brooks,L,,GBR,21.8973305955,7-6(3) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,891,8,1036,5
 2003-M-SA-POR-01A-2003a,Portugal 1 1,Clay,24,S,20030505,4,104614,,,Javier Foronda Bolanos,U,,ESP,17.5989048597,103844,,,Igor Fejzula,U,,SRB,21.6454483231,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1188,3,794,12
 2003-M-SA-POR-01A-2003a,Portugal 1 1,Clay,24,S,20030505,5,104103,,,Arkaitz Manzarbeitia Ugate,U,,ESP,20.34770705,104174,,,Alessandro Accardo,L,,ITA,20.0136892539,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1346,1,815,11
-2003-M-SA-POR-01A-2003a,Portugal 1 1,Clay,24,S,20030505,6,103926,,,Daniel Munoz De La Nava,L,,ESP,21.2621492129,118240,,A,Iverson Barros,R,,BRA,20.8049281314,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1226,2,1346,1
+2003-M-SA-POR-01A-2003a,Portugal 1 1,Clay,24,S,20030505,6,103926,,,Daniel Munoz de la Nava,L,,ESP,21.2621492129,118240,,A,Iverson Barros,R,,BRA,20.8049281314,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1226,2,1346,1
 2003-M-SA-POR-01A-2003a,Portugal 1 1,Clay,24,S,20030505,7,103382,,,Guillermo Platel,R,,ESP,23.9123887748,103468,,,Harsh Mankad,R,173,IND,23.4825462012,2-6 7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,660,21,365,70
 2003-M-SA-POR-01A-2003a,Portugal 1 1,Clay,24,S,20030505,8,103995,,,Pedro Leao,R,,POR,20.9828884326,104383,,,Diogo Rocha,R,,POR,18.8884325804,7-5 RET,3,R32,,,,,,,,,,,,,,,,,,,,896,8,917,7
 2003-M-SA-POR-01A-2003a,Portugal 1 1,Clay,24,S,20030505,9,103860,1,,Timo Nieminen,R,185,FIN,21.5770020534,104416,,,Tiago Godinho,R,,POR,18.7241615332,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,454,50,852,10
@@ -4133,7 +4133,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-SA-POR-01A-2003a,Portugal 1 1,Clay,24,S,20030505,11,103883,4,,Lucas Engel,U,,BRA,21.4236824093,104311,,,Leonardo Tavares,R,,POR,19.2032854209,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,367,69,891,8
 2003-M-SA-POR-01A-2003a,Portugal 1 1,Clay,24,S,20030505,12,103748,8,,Jan Minar,R,,CZE,22.0698151951,104614,,,Javier Foronda Bolanos,U,,ESP,17.5989048597,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,445,51,1188,3
 2003-M-SA-POR-01A-2003a,Portugal 1 1,Clay,24,S,20030505,13,104103,,,Arkaitz Manzarbeitia Ugate,U,,ESP,20.34770705,103033,5,,Helder Lopes,R,,POR,25.7412731006,3-6 6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1346,1,525,36
-2003-M-SA-POR-01A-2003a,Portugal 1 1,Clay,24,S,20030505,14,104721,3,,Josselin Ouanna,R,193,FRA,17.0568104038,103926,,,Daniel Munoz De La Nava,L,,ESP,21.2621492129,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1346,1,1226,2
+2003-M-SA-POR-01A-2003a,Portugal 1 1,Clay,24,S,20030505,14,104721,3,,Josselin Ouanna,R,193,FRA,17.0568104038,103926,,,Daniel Munoz de la Nava,L,,ESP,21.2621492129,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1346,1,1226,2
 2003-M-SA-POR-01A-2003a,Portugal 1 1,Clay,24,S,20030505,15,103382,,,Guillermo Platel,R,,ESP,23.9123887748,102656,7,,Tommi Lenho,R,,FIN,27.6303901437,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,660,21,1053,5
 2003-M-SA-POR-01A-2003a,Portugal 1 1,Clay,24,S,20030505,16,104349,2,,Rui Machado,R,178,POR,19.0663928816,103995,,,Pedro Leao,R,,POR,20.9828884326,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,945,7,896,8
 2003-M-SA-POR-01A-2003a,Portugal 1 1,Clay,24,S,20030505,17,104792,,,Gael Monfils,R,193,FRA,16.6735112936,103860,1,,Timo Nieminen,R,185,FIN,21.5770020534,7-6(3) 1-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,454,50
@@ -4146,7 +4146,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-SA-POR-01A-2003b,Portugal 1 2,Clay,32,S,20030505,1,103860,1,,Timo Nieminen,R,185,FIN,21.5770020534,110679,,WC,Hugo Anao,U,,POR,,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,454,50,,
 2003-M-SA-POR-01A-2003b,Portugal 1 2,Clay,32,S,20030505,2,104792,,,Gael Monfils,R,193,FRA,16.6735112936,104416,,,Tiago Godinho,R,,POR,18.7241615332,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,852,10
 2003-M-SA-POR-01A-2003b,Portugal 1 2,Clay,32,S,20030505,3,103468,,,Harsh Mankad,R,173,IND,23.4825462012,104311,,Q,Leonardo Tavares,R,,POR,19.2032854209,3-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,365,70,891,8
-2003-M-SA-POR-01A-2003b,Portugal 1 2,Clay,32,S,20030505,4,103926,,,Daniel Munoz De La Nava,L,,ESP,21.2621492129,104103,7,,Arkaitz Manzarbeitia Ugate,U,,ESP,20.34770705,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1226,2,1346,1
+2003-M-SA-POR-01A-2003b,Portugal 1 2,Clay,32,S,20030505,4,103926,,,Daniel Munoz de la Nava,L,,ESP,21.2621492129,104103,7,,Arkaitz Manzarbeitia Ugate,U,,ESP,20.34770705,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1226,2,1346,1
 2003-M-SA-POR-01A-2003b,Portugal 1 2,Clay,32,S,20030505,5,104721,4,,Josselin Ouanna,R,193,FRA,17.0568104038,118240,,,Iverson Barros,R,,BRA,20.8049281314,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1346,1,1346,1
 2003-M-SA-POR-01A-2003b,Portugal 1 2,Clay,32,S,20030505,6,103995,,Q,Pedro Leao,R,,POR,20.9828884326,103125,,,Joan Jimenez Guerra,R,,AND,25.2758384668,6-2 3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,896,8,686,19
 2003-M-SA-POR-01A-2003b,Portugal 1 2,Clay,32,S,20030505,7,103724,,Q,Jose Manuel Garcia Rodriguez,R,,ESP,22.1765913758,103844,,,Igor Fejzula,U,,SRB,21.6454483231,6-7(4) 6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,794,12
@@ -4160,7 +4160,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-SA-POR-01A-2003b,Portugal 1 2,Clay,32,S,20030505,15,103382,,,Guillermo Platel,R,,ESP,23.9123887748,111603,,Q,Richard Brooks,L,,GBR,21.8973305955,6-4 6-7(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,660,21,1036,5
 2003-M-SA-POR-01A-2003b,Portugal 1 2,Clay,32,S,20030505,16,104349,2,,Rui Machado,R,178,POR,19.0663928816,117549,,,Jose Luis Lara Salinas,U,,ESP,21.826146475,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,945,7,1094,4
 2003-M-SA-POR-01A-2003b,Portugal 1 2,Clay,32,S,20030505,17,103860,1,,Timo Nieminen,R,185,FIN,21.5770020534,104792,,,Gael Monfils,R,193,FRA,16.6735112936,3-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,454,50,,
-2003-M-SA-POR-01A-2003b,Portugal 1 2,Clay,32,S,20030505,18,103468,,,Harsh Mankad,R,173,IND,23.4825462012,103926,,,Daniel Munoz De La Nava,L,,ESP,21.2621492129,1-6 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,365,70,1226,2
+2003-M-SA-POR-01A-2003b,Portugal 1 2,Clay,32,S,20030505,18,103468,,,Harsh Mankad,R,173,IND,23.4825462012,103926,,,Daniel Munoz de la Nava,L,,ESP,21.2621492129,1-6 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,365,70,1226,2
 2003-M-SA-POR-01A-2003b,Portugal 1 2,Clay,32,S,20030505,19,104721,4,,Josselin Ouanna,R,193,FRA,17.0568104038,103995,,Q,Pedro Leao,R,,POR,20.9828884326,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1346,1,896,8
 2003-M-SA-POR-01A-2003b,Portugal 1 2,Clay,32,S,20030505,20,103033,5,,Helder Lopes,R,,POR,25.7412731006,103724,,Q,Jose Manuel Garcia Rodriguez,R,,ESP,22.1765913758,7-6(3) 3-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,525,36,,
 2003-M-SA-POR-01A-2003b,Portugal 1 2,Clay,32,S,20030505,21,103748,,,Jan Minar,R,,CZE,22.0698151951,104383,6,,Diogo Rocha,R,,POR,18.8884325804,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,445,51,917,7
@@ -4187,7 +4187,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-SA-POR-01A-2003c,Portugal 1 3,Clay,32,S,20030505,11,104792,,Q,Gael Monfils,R,193,FRA,16.6735112936,104103,,Q,Arkaitz Manzarbeitia Ugate,U,,ESP,20.34770705,2-6 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1346,1
 2003-M-SA-POR-01A-2003c,Portugal 1 3,Clay,32,S,20030505,12,103860,4,,Timo Nieminen,R,185,FIN,21.5770020534,118868,,WC,Manuel Costa Matos,U,,POR,21.0102669405,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,454,50,,
 2003-M-SA-POR-01A-2003c,Portugal 1 3,Clay,32,S,20030505,13,103033,5,,Helder Lopes,R,,POR,25.7412731006,109441,,WC,Joao Ferreira,R,,POR,17.0869267625,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,525,36,,
-2003-M-SA-POR-01A-2003c,Portugal 1 3,Clay,32,S,20030505,14,104174,,,Alessandro Accardo,L,,ITA,20.0136892539,103926,,PR,Daniel Munoz De La Nava,L,,ESP,21.2621492129,6-1 6-7(3) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,815,11,1226,2
+2003-M-SA-POR-01A-2003c,Portugal 1 3,Clay,32,S,20030505,14,104174,,,Alessandro Accardo,L,,ITA,20.0136892539,103926,,PR,Daniel Munoz de la Nava,L,,ESP,21.2621492129,6-1 6-7(3) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,815,11,1226,2
 2003-M-SA-POR-01A-2003c,Portugal 1 3,Clay,32,S,20030505,15,104349,,,Rui Machado,R,178,POR,19.0663928816,104614,,Q,Javier Foronda Bolanos,U,,ESP,17.5989048597,6-3 1-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,945,7,1188,3
 2003-M-SA-POR-01A-2003c,Portugal 1 3,Clay,32,S,20030505,16,103883,2,SE,Lucas Engel,U,,BRA,21.4236824093,104311,,,Leonardo Tavares,R,,POR,19.2032854209,6-1 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,367,69,891,8
 2003-M-SA-POR-01A-2003c,Portugal 1 3,Clay,32,S,20030505,17,104062,,,Alejandro Vargas Aboy,U,,ESP,20.6160164271,103468,1,,Harsh Mankad,R,173,IND,23.4825462012,6-3 1-6 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,867,9,365,70
@@ -4211,7 +4211,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-SA-POR-01A-2003d,Portugal 1 4,Clay,32,S,20030505,4,103748,5,,Jan Minar,R,,CZE,22.0698151951,104523,,WC,Frederico Gil,R,178,POR,18.1136208077,4-6 7-6(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,445,51,1087,4
 2003-M-SA-POR-01A-2003d,Portugal 1 4,Clay,32,S,20030505,5,103883,3,Q,Lucas Engel,U,,BRA,21.4236824093,103483,,LL,James Shortall,R,,NZL,23.3593429158,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,367,69,1188,3
 2003-M-SA-POR-01A-2003d,Portugal 1 4,Clay,32,S,20030505,6,104383,,,Diogo Rocha,R,,POR,18.8884325804,118240,,Q,Iverson Barros,R,,BRA,20.8049281314,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,917,7,1346,1
-2003-M-SA-POR-01A-2003d,Portugal 1 4,Clay,32,S,20030505,7,103926,,PR,Daniel Munoz De La Nava,L,,ESP,21.2621492129,104311,,,Leonardo Tavares,R,,POR,19.2032854209,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1226,2,891,8
+2003-M-SA-POR-01A-2003d,Portugal 1 4,Clay,32,S,20030505,7,103926,,PR,Daniel Munoz de la Nava,L,,ESP,21.2621492129,104311,,,Leonardo Tavares,R,,POR,19.2032854209,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1226,2,891,8
 2003-M-SA-POR-01A-2003d,Portugal 1 4,Clay,32,S,20030505,8,103125,8,,Joan Jimenez Guerra,R,,AND,25.2758384668,104174,,,Alessandro Accardo,L,,ITA,20.0136892539,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,686,19,815,11
 2003-M-SA-POR-01A-2003d,Portugal 1 4,Clay,32,S,20030505,9,103382,7,,Guillermo Platel,R,,ESP,23.9123887748,109077,,WC,Peter Rodrigues,L,,POR,17.4976043806,3-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,660,21,1346,1
 2003-M-SA-POR-01A-2003d,Portugal 1 4,Clay,32,S,20030505,10,104349,,,Rui Machado,R,178,POR,19.0663928816,111603,,,Richard Brooks,L,,GBR,21.8973305955,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,945,7,1036,5
@@ -4224,7 +4224,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-SA-POR-01A-2003d,Portugal 1 4,Clay,32,S,20030505,17,104416,,,Tiago Godinho,R,,POR,18.7241615332,102955,,LL,Saurav Panja,R,,IND,26.1382614648,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,852,10,1346,1
 2003-M-SA-POR-01A-2003d,Portugal 1 4,Clay,32,S,20030505,18,104103,,Q,Arkaitz Manzarbeitia Ugate,U,,ESP,20.34770705,103748,5,,Jan Minar,R,,CZE,22.0698151951,6-4 5-7 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1346,1,445,51
 2003-M-SA-POR-01A-2003d,Portugal 1 4,Clay,32,S,20030505,19,103883,3,Q,Lucas Engel,U,,BRA,21.4236824093,104383,,,Diogo Rocha,R,,POR,18.8884325804,6-1 4-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,367,69,917,7
-2003-M-SA-POR-01A-2003d,Portugal 1 4,Clay,32,S,20030505,20,103125,8,,Joan Jimenez Guerra,R,,AND,25.2758384668,103926,,PR,Daniel Munoz De La Nava,L,,ESP,21.2621492129,6-4 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,686,19,1226,2
+2003-M-SA-POR-01A-2003d,Portugal 1 4,Clay,32,S,20030505,20,103125,8,,Joan Jimenez Guerra,R,,AND,25.2758384668,103926,,PR,Daniel Munoz de la Nava,L,,ESP,21.2621492129,6-4 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,686,19,1226,2
 2003-M-SA-POR-01A-2003d,Portugal 1 4,Clay,32,S,20030505,21,104349,,,Rui Machado,R,178,POR,19.0663928816,103382,7,,Guillermo Platel,R,,ESP,23.9123887748,2-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,945,7,660,21
 2003-M-SA-POR-01A-2003d,Portugal 1 4,Clay,32,S,20030505,22,103860,4,,Timo Nieminen,R,185,FIN,21.5770020534,102656,,Q,Tommi Lenho,R,,FIN,27.6303901437,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,454,50,1053,5
 2003-M-SA-POR-01A-2003d,Portugal 1 4,Clay,32,S,20030505,23,117549,,Q,Jose Luis Lara Salinas,U,,ESP,21.826146475,103033,6,,Helder Lopes,R,,POR,25.7412731006,6-7(4) 7-6(4) 4-3,3,R16,,,,,,,,,,,,,,,,,,,,1094,4,525,36
@@ -4566,12 +4566,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-ITA-07A-2003,Italy F7,Clay,32,S,20030512,3,103156,,Q,Alessandro Da Col,R,,ITA,25.1690622861,104206,,Q,Alberto Giraudo,L,,ITA,19.8740588638,6-3 3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,599,27,,
 2003-M-FU-ITA-07A-2003,Italy F7,Clay,32,S,20030512,4,104195,6,,Simone Vagnozzi,R,173,ITA,19.9507186858,118378,,WC,Luca Bonati,R,,ITA,24.3668720055,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,374,67,,
 2003-M-FU-ITA-07A-2003,Italy F7,Clay,32,S,20030512,5,103801,,LL,Marc Steger,L,,FRA,21.8535249829,103138,,,Gianluca Luddi,R,,ITA,25.2648870637,2-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,790,12,470,46
-2003-M-FU-ITA-07A-2003,Italy F7,Clay,32,S,20030512,6,104527,,,Stanislas Wawrinka,R,183,SUI,18.12183436,103611,,Q,Giancarlo Petrazzuolo,R,,ITA,22.7597535934,6-0 7-5,3,R32,,,,,,,,,,,,,,,,,,,,387,63,682,19
+2003-M-FU-ITA-07A-2003,Italy F7,Clay,32,S,20030512,6,104527,,,Stan Wawrinka,R,183,SUI,18.12183436,103611,,Q,Giancarlo Petrazzuolo,R,,ITA,22.7597535934,6-0 7-5,3,R32,,,,,,,,,,,,,,,,,,,,387,63,682,19
 2003-M-FU-ITA-07A-2003,Italy F7,Clay,32,S,20030512,7,103290,,,Radim Zitko,R,,CZE,24.424366872,103437,,Q,Francesco Piccari,R,,ITA,23.6769336071,6-0 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,388,63,607,26
 2003-M-FU-ITA-07A-2003,Italy F7,Clay,32,S,20030512,8,103306,5,,Florian Allgauer,R,,ITA,24.3422313484,103849,,SE,Francesco Aldi,R,175,ITA,21.6481861739,2-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,350,75,555,32
 2003-M-FU-ITA-07A-2003,Italy F7,Clay,32,S,20030512,9,104230,7,,Daniel Koellerer,R,180,AUT,19.7344284736,104273,,,Edouard Roger Vasselin,R,188,FRA,19.4524298426,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,376,66,438,52
 2003-M-FU-ITA-07A-2003,Italy F7,Clay,32,S,20030512,10,102002,,Q,Davide Scala,R,180,ITA,31.356605065,104468,,Q,Gilles Simon,R,183,FRA,18.3709787817,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,811,11,1348,1
-2003-M-FU-ITA-07A-2003,Italy F7,Clay,32,S,20030512,11,104736,,Q,Farrukh Dustov,R,196,UZB,16.9719370294,104542,,,Jo Wilfried Tsonga,R,188,FRA,18.0670773443,7-6(5) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1285,2,385,64
+2003-M-FU-ITA-07A-2003,Italy F7,Clay,32,S,20030512,11,104736,,Q,Farrukh Dustov,R,196,UZB,16.9719370294,104542,,,Jo-Wilfried Tsonga,R,188,FRA,18.0670773443,7-6(5) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1285,2,385,64
 2003-M-FU-ITA-07A-2003,Italy F7,Clay,32,S,20030512,12,103626,4,,Tomas Tenconi,R,178,ITA,22.6858316222,104359,,WC,Matteo Volante,U,,ITA,19.0335386721,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,295,98,,
 2003-M-FU-ITA-07A-2003,Italy F7,Clay,32,S,20030512,13,103521,8,,Andrea Stoppini,R,190,ITA,23.1978097194,104051,,,Andrej Kracman,R,,SLO,20.720054757,7-5 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,377,66,401,60
 2003-M-FU-ITA-07A-2003,Italy F7,Clay,32,S,20030512,14,103947,,,Ivan Esquerdo,U,,ESP,21.2019164956,104354,,WC,Daniele Giorgini,R,180,ITA,19.0472279261,6-4 1-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,451,50,733,15
@@ -4579,17 +4579,17 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-ITA-07A-2003,Italy F7,Clay,32,S,20030512,16,103007,,,Mounir El Aarej,R,,MAR,25.9028062971,103716,2,WC,Uros Vico,R,188,ITA,22.2231348392,6-4 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,466,47,281,104
 2003-M-FU-ITA-07A-2003,Italy F7,Clay,32,S,20030512,17,102690,,,Matteo Colla,R,,ITA,27.4661190965,103577,1,SE,Christopher Kas,R,188,GER,22.9103353867,6-1 7-6(7),3,R16,,,,,,,,,,,,,,,,,,,,473,46,266,112
 2003-M-FU-ITA-07A-2003,Italy F7,Clay,32,S,20030512,18,104195,6,,Simone Vagnozzi,R,173,ITA,19.9507186858,103156,,Q,Alessandro Da Col,R,,ITA,25.1690622861,6-7(2) 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,374,67,599,27
-2003-M-FU-ITA-07A-2003,Italy F7,Clay,32,S,20030512,19,104527,,,Stanislas Wawrinka,R,183,SUI,18.12183436,103801,,LL,Marc Steger,L,,FRA,21.8535249829,3-6 6-3 7-6(10),3,R16,,,,,,,,,,,,,,,,,,,,387,63,790,12
+2003-M-FU-ITA-07A-2003,Italy F7,Clay,32,S,20030512,19,104527,,,Stan Wawrinka,R,183,SUI,18.12183436,103801,,LL,Marc Steger,L,,FRA,21.8535249829,3-6 6-3 7-6(10),3,R16,,,,,,,,,,,,,,,,,,,,387,63,790,12
 2003-M-FU-ITA-07A-2003,Italy F7,Clay,32,S,20030512,20,103290,,,Radim Zitko,R,,CZE,24.424366872,103306,5,,Florian Allgauer,R,,ITA,24.3422313484,7-6(7) 2-2 RET,3,R16,,,,,,,,,,,,,,,,,,,,388,63,350,75
 2003-M-FU-ITA-07A-2003,Italy F7,Clay,32,S,20030512,21,104230,7,,Daniel Koellerer,R,180,AUT,19.7344284736,102002,,Q,Davide Scala,R,180,ITA,31.356605065,4-6 6-2 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,376,66,811,11
 2003-M-FU-ITA-07A-2003,Italy F7,Clay,32,S,20030512,22,103626,4,,Tomas Tenconi,R,178,ITA,22.6858316222,104736,,Q,Farrukh Dustov,R,196,UZB,16.9719370294,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,295,98,1285,2
 2003-M-FU-ITA-07A-2003,Italy F7,Clay,32,S,20030512,23,103947,,,Ivan Esquerdo,U,,ESP,21.2019164956,103521,8,,Andrea Stoppini,R,190,ITA,23.1978097194,6-4 0-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,451,50,377,66
 2003-M-FU-ITA-07A-2003,Italy F7,Clay,32,S,20030512,24,102920,,,Diego Hipperdinger,R,,ESP,26.3134839151,103007,,,Mounir El Aarej,R,,MAR,25.9028062971,4-6 6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,502,40,466,47
 2003-M-FU-ITA-07A-2003,Italy F7,Clay,32,S,20030512,25,102690,,,Matteo Colla,R,,ITA,27.4661190965,104195,6,,Simone Vagnozzi,R,173,ITA,19.9507186858,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,473,46,374,67
-2003-M-FU-ITA-07A-2003,Italy F7,Clay,32,S,20030512,26,104527,,,Stanislas Wawrinka,R,183,SUI,18.12183436,103290,,,Radim Zitko,R,,CZE,24.424366872,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,387,63,388,63
+2003-M-FU-ITA-07A-2003,Italy F7,Clay,32,S,20030512,26,104527,,,Stan Wawrinka,R,183,SUI,18.12183436,103290,,,Radim Zitko,R,,CZE,24.424366872,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,387,63,388,63
 2003-M-FU-ITA-07A-2003,Italy F7,Clay,32,S,20030512,27,103626,4,,Tomas Tenconi,R,178,ITA,22.6858316222,104230,7,,Daniel Koellerer,R,180,AUT,19.7344284736,6-1 1-0 RET,3,QF,,,,,,,,,,,,,,,,,,,,295,98,376,66
 2003-M-FU-ITA-07A-2003,Italy F7,Clay,32,S,20030512,28,102920,,,Diego Hipperdinger,R,,ESP,26.3134839151,103947,,,Ivan Esquerdo,U,,ESP,21.2019164956,4-6 6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,502,40,451,50
-2003-M-FU-ITA-07A-2003,Italy F7,Clay,32,S,20030512,29,102690,,,Matteo Colla,R,,ITA,27.4661190965,104527,,,Stanislas Wawrinka,R,183,SUI,18.12183436,6-3 6-1,3,SF,,,,,,,,,,,,,,,,,,,,473,46,387,63
+2003-M-FU-ITA-07A-2003,Italy F7,Clay,32,S,20030512,29,102690,,,Matteo Colla,R,,ITA,27.4661190965,104527,,,Stan Wawrinka,R,183,SUI,18.12183436,6-3 6-1,3,SF,,,,,,,,,,,,,,,,,,,,473,46,387,63
 2003-M-FU-ITA-07A-2003,Italy F7,Clay,32,S,20030512,30,103626,4,,Tomas Tenconi,R,178,ITA,22.6858316222,102920,,,Diego Hipperdinger,R,,ESP,26.3134839151,6-4 6-0,3,SF,,,,,,,,,,,,,,,,,,,,295,98,502,40
 2003-M-FU-ITA-07A-2003,Italy F7,Clay,32,S,20030512,31,103626,4,,Tomas Tenconi,R,178,ITA,22.6858316222,102690,,,Matteo Colla,R,,ITA,27.4661190965,6-2 7-6(5),3,F,,,,,,,,,,,,,,,,,,,,295,98,473,46
 2003-M-FU-JAM-05A-2003,Jamaica F5,Hard,32,S,20030512,1,104158,,,Andrew Anderson,R,193,RSA,20.0930869268,103098,1,,Johan Du Randt,U,,RSA,25.3826146475,7-5 4-6 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,771,13,355,74
@@ -6924,7 +6924,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-FRA-12A-2003,France F12,Clay,32,S,20030707,6,104390,,Q,Jonathan Hilaire,R,,FRA,19.0253251198,102261,,,Fabrice Betencourt,R,,FRA,29.8015058179,2-6 6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,544,34
 2003-M-FU-FRA-12A-2003,France F12,Clay,32,S,20030707,7,104402,,WC,Clement Morel,R,,MON,18.9733059548,104663,,Q,Sebastien Louis,U,,FRA,17.4757015743,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,705,17,,
 2003-M-FU-FRA-12A-2003,France F12,Clay,32,S,20030707,8,103801,,Q,Marc Steger,L,,FRA,22.006844627,103679,5,,Jeroen Masson,R,,BEL,22.507871321,4-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,759,13,382,70
-2003-M-FU-FRA-12A-2003,France F12,Clay,32,S,20030707,9,102354,6,,Jerome Hanquez,R,185,FRA,29.3223819302,104542,,WC,Jo Wilfried Tsonga,R,188,FRA,18.2203969884,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,424,59,390,68
+2003-M-FU-FRA-12A-2003,France F12,Clay,32,S,20030707,9,102354,6,,Jerome Hanquez,R,185,FRA,29.3223819302,104542,,WC,Jo-Wilfried Tsonga,R,188,FRA,18.2203969884,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,424,59,390,68
 2003-M-FU-FRA-12A-2003,France F12,Clay,32,S,20030707,10,104023,,Q,Nicolas Renavand,R,,FRA,21.0321697467,111483,,WC,Jean Baptiste Robin,L,,FRA,18.1437371663,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,877,8,,
 2003-M-FU-FRA-12A-2003,France F12,Clay,32,S,20030707,11,103726,,,Jean Christophe Faurel,R,175,FRA,22.3353867214,102201,,,Lionel Roux,R,185,FRA,30.2340862423,6-3 5-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,433,58,426,58
 2003-M-FU-FRA-12A-2003,France F12,Clay,32,S,20030707,12,103961,,Q,Bertrand Contzler,U,,FRA,21.2922655715,104219,3,,Stephane Bohli,R,185,SUI,19.9507186858,6-4 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,570,30,290,101
@@ -7023,7 +7023,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-ESP-13A-2003,Spain F13,Clay,32,S,20030707,12,102828,3,Q,Roberto Menendez,R,,ESP,26.9924709103,102994,,,Esteban Carril,R,,ESP,26.1190965092,6-7(5) 7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,292,100,606,26
 2003-M-FU-ESP-13A-2003,Spain F13,Clay,32,S,20030707,13,104268,6,,Alejandro Falla,L,185,COL,19.6440793977,103796,,,Marcos Jimenez Letrado,U,,ESP,22.0369609856,7-6(2) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,407,63,707,17
 2003-M-FU-ESP-13A-2003,Spain F13,Clay,32,S,20030707,14,104170,,Q,Hector Ruiz Cadenas,U,,ESP,20.1943874059,119094,,WC,Alejandro Juan Rodriguez,U,,ESP,18.0205338809,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1277,2,,
-2003-M-FU-ESP-13A-2003,Spain F13,Clay,32,S,20030707,15,103926,,PR,Daniel Munoz De La Nava,L,,ESP,21.4346338125,103364,,,Javier Genaro Martinez,R,,ESP,24.1834360027,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1019,5,530,35
+2003-M-FU-ESP-13A-2003,Spain F13,Clay,32,S,20030707,15,103926,,PR,Daniel Munoz de la Nava,L,,ESP,21.4346338125,103364,,,Javier Genaro Martinez,R,,ESP,24.1834360027,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1019,5,530,35
 2003-M-FU-ESP-13A-2003,Spain F13,Clay,32,S,20030707,16,104597,2,Q,Nicolas Almagro,R,183,ESP,17.8754277892,104445,,Q,Jose Antonio Sanchez De Luna,R,,ESP,18.7159479808,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,283,106,840,10
 2003-M-FU-ESP-13A-2003,Spain F13,Clay,32,S,20030707,17,103337,1,,Ben Qiang Zhu,R,,CHN,24.3175906913,104099,,,Israel Matos Gil,U,,ESP,20.5612594114,7-6(2) 2-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,381,70,743,15
 2003-M-FU-ESP-13A-2003,Spain F13,Clay,32,S,20030707,18,104198,5,,Guillermo Garcia Lopez,R,188,ESP,20.090349076,104719,,,Marcel Granollers,R,190,ESP,17.234770705,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,320,87,747,14
@@ -7032,7 +7032,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-ESP-13A-2003,Spain F13,Clay,32,S,20030707,21,103448,8,,Gabriel Trujillo Soler,R,,ESP,23.7672826831,103849,,,Francesco Aldi,R,175,ITA,21.8015058179,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,431,58,540,34
 2003-M-FU-ESP-13A-2003,Spain F13,Clay,32,S,20030707,22,104196,,Q,Carlos Cuadrado,R,180,ESP,20.0985626283,102828,3,Q,Roberto Menendez,R,,ESP,26.9924709103,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,442,54,292,100
 2003-M-FU-ESP-13A-2003,Spain F13,Clay,32,S,20030707,23,104268,6,,Alejandro Falla,L,185,COL,19.6440793977,104170,,Q,Hector Ruiz Cadenas,U,,ESP,20.1943874059,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,407,63,1277,2
-2003-M-FU-ESP-13A-2003,Spain F13,Clay,32,S,20030707,24,104597,2,Q,Nicolas Almagro,R,183,ESP,17.8754277892,103926,,PR,Daniel Munoz De La Nava,L,,ESP,21.4346338125,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,283,106,1019,5
+2003-M-FU-ESP-13A-2003,Spain F13,Clay,32,S,20030707,24,104597,2,Q,Nicolas Almagro,R,183,ESP,17.8754277892,103926,,PR,Daniel Munoz de la Nava,L,,ESP,21.4346338125,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,283,106,1019,5
 2003-M-FU-ESP-13A-2003,Spain F13,Clay,32,S,20030707,25,104198,5,,Guillermo Garcia Lopez,R,188,ESP,20.090349076,103337,1,,Ben Qiang Zhu,R,,CHN,24.3175906913,5-0 RET,3,QF,,,,,,,,,,,,,,,,,,,,320,87,381,70
 2003-M-FU-ESP-13A-2003,Spain F13,Clay,32,S,20030707,26,104091,4,,Miguel Angel Lopez Jaen,R,188,ESP,20.6023271732,103868,,,Ivan Navarro,R,183,ESP,21.7138945927,7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,312,91,412,62
 2003-M-FU-ESP-13A-2003,Spain F13,Clay,32,S,20030707,27,103448,8,,Gabriel Trujillo Soler,R,,ESP,23.7672826831,104196,,Q,Carlos Cuadrado,R,180,ESP,20.0985626283,7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,431,58,442,54
@@ -7524,7 +7524,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-FRA-14A-2003,France F14,Hard,32,S,20030721,2,102985,,,Gustavo Marcaccio,R,,ARG,26.2149212868,102637,,WC,Julien Couly,R,,FRA,27.9507186858,6-3 3-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,571,31,662,21
 2003-M-FU-FRA-14A-2003,France F14,Hard,32,S,20030721,3,104095,,Q,David Guez,R,185,FRA,20.6160164271,104017,,Q,Ludwig Pellerin,R,,FRA,21.1006160164,5-7 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1358,1,,
 2003-M-FU-FRA-14A-2003,France F14,Hard,32,S,20030721,4,104203,7,,Darko Madjarovski,R,,SRB,20.0930869268,102406,,,Thomas Dupre,R,,FRA,29.1143052704,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,444,55,511,39
-2003-M-FU-FRA-14A-2003,France F14,Hard,32,S,20030721,5,104542,3,,Jo Wilfried Tsonga,R,188,FRA,18.2587268994,117592,,Q,Sebastien Guillemart,U,,FRA,25.5989048597,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,395,67,1358,1
+2003-M-FU-FRA-14A-2003,France F14,Hard,32,S,20030721,5,104542,3,,Jo-Wilfried Tsonga,R,188,FRA,18.2587268994,117592,,Q,Sebastien Guillemart,U,,FRA,25.5989048597,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,395,67,1358,1
 2003-M-FU-FRA-14A-2003,France F14,Hard,32,S,20030721,6,104792,,Q,Gael Monfils,R,193,FRA,16.8843258042,104190,,Q,Benoit Bottero,R,,FRA,20.1642710472,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1046,4,,
 2003-M-FU-FRA-14A-2003,France F14,Hard,32,S,20030721,7,103961,,,Bertrand Contzler,U,,FRA,21.3305954825,103891,,,Alexandros Jakupovic,R,,GRE,21.5989048597,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,568,31,641,23
 2003-M-FU-FRA-14A-2003,France F14,Hard,32,S,20030721,8,103938,8,,Igor Zelenay,R,198,SVK,21.440109514,118428,,Q,Cyril Spanelis,U,,FRA,23.7563312799,6-7(8) 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,449,53,,
@@ -7538,19 +7538,19 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-FRA-14A-2003,France F14,Hard,32,S,20030721,16,103679,2,,Jeroen Masson,R,,BEL,22.546201232,103782,,,Rameez Junaid,R,,AUS,22.1546885695,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,362,75,628,24
 2003-M-FU-FRA-14A-2003,France F14,Hard,32,S,20030721,17,102967,1,,Marc Gicquel,R,188,FRA,26.3080082136,102985,,,Gustavo Marcaccio,R,,ARG,26.2149212868,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,321,92,571,31
 2003-M-FU-FRA-14A-2003,France F14,Hard,32,S,20030721,18,104203,7,,Darko Madjarovski,R,,SRB,20.0930869268,104095,,Q,David Guez,R,185,FRA,20.6160164271,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,444,55,1358,1
-2003-M-FU-FRA-14A-2003,France F14,Hard,32,S,20030721,19,104542,3,,Jo Wilfried Tsonga,R,188,FRA,18.2587268994,104792,,Q,Gael Monfils,R,193,FRA,16.8843258042,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,395,67,1046,4
+2003-M-FU-FRA-14A-2003,France F14,Hard,32,S,20030721,19,104542,3,,Jo-Wilfried Tsonga,R,188,FRA,18.2587268994,104792,,Q,Gael Monfils,R,193,FRA,16.8843258042,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,395,67,1046,4
 2003-M-FU-FRA-14A-2003,France F14,Hard,32,S,20030721,20,103961,,,Bertrand Contzler,U,,FRA,21.3305954825,103938,8,,Igor Zelenay,R,198,SVK,21.440109514,2-6 6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,568,31,449,53
 2003-M-FU-FRA-14A-2003,France F14,Hard,32,S,20030721,21,102763,5,,Benjamin Cassaigne,L,185,FRA,27.2991101985,104663,,WC,Sebastien Louis,U,,FRA,17.5140314853,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,428,59,,
 2003-M-FU-FRA-14A-2003,France F14,Hard,32,S,20030721,22,102658,,,Marc Bauer,R,,FRA,27.8247775496,102354,4,,Jerome Hanquez,R,185,FRA,29.3607118412,6-3 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,508,39,436,57
 2003-M-FU-FRA-14A-2003,France F14,Hard,32,S,20030721,23,103726,6,SE,Jean Christophe Faurel,R,175,FRA,22.3737166324,104110,,,Julien Maigret,R,,FRA,20.5256673511,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,348,81,599,28
 2003-M-FU-FRA-14A-2003,France F14,Hard,32,S,20030721,24,103679,2,,Jeroen Masson,R,,BEL,22.546201232,103984,,LL,Julien Mathieu,R,,FRA,21.2457221081,7-6(8) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,362,75,1010,5
 2003-M-FU-FRA-14A-2003,France F14,Hard,32,S,20030721,25,102967,1,,Marc Gicquel,R,188,FRA,26.3080082136,104203,7,,Darko Madjarovski,R,,SRB,20.0930869268,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,321,92,444,55
-2003-M-FU-FRA-14A-2003,France F14,Hard,32,S,20030721,26,104542,3,,Jo Wilfried Tsonga,R,188,FRA,18.2587268994,103961,,,Bertrand Contzler,U,,FRA,21.3305954825,3-1 RET,3,QF,,,,,,,,,,,,,,,,,,,,395,67,568,31
+2003-M-FU-FRA-14A-2003,France F14,Hard,32,S,20030721,26,104542,3,,Jo-Wilfried Tsonga,R,188,FRA,18.2587268994,103961,,,Bertrand Contzler,U,,FRA,21.3305954825,3-1 RET,3,QF,,,,,,,,,,,,,,,,,,,,395,67,568,31
 2003-M-FU-FRA-14A-2003,France F14,Hard,32,S,20030721,27,102763,5,,Benjamin Cassaigne,L,185,FRA,27.2991101985,102658,,,Marc Bauer,R,,FRA,27.8247775496,6-4 3-6 7-6(3),3,QF,,,,,,,,,,,,,,,,,,,,428,59,508,39
 2003-M-FU-FRA-14A-2003,France F14,Hard,32,S,20030721,28,103726,6,SE,Jean Christophe Faurel,R,175,FRA,22.3737166324,103679,2,,Jeroen Masson,R,,BEL,22.546201232,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,348,81,362,75
-2003-M-FU-FRA-14A-2003,France F14,Hard,32,S,20030721,29,104542,3,,Jo Wilfried Tsonga,R,188,FRA,18.2587268994,102967,1,,Marc Gicquel,R,188,FRA,26.3080082136,7-6(3) 0-6 7-6(4),3,SF,,,,,,,,,,,,,,,,,,,,395,67,321,92
+2003-M-FU-FRA-14A-2003,France F14,Hard,32,S,20030721,29,104542,3,,Jo-Wilfried Tsonga,R,188,FRA,18.2587268994,102967,1,,Marc Gicquel,R,188,FRA,26.3080082136,7-6(3) 0-6 7-6(4),3,SF,,,,,,,,,,,,,,,,,,,,395,67,321,92
 2003-M-FU-FRA-14A-2003,France F14,Hard,32,S,20030721,30,102763,5,,Benjamin Cassaigne,L,185,FRA,27.2991101985,103726,6,SE,Jean Christophe Faurel,R,175,FRA,22.3737166324,6-1 2-6 7-5,3,SF,,,,,,,,,,,,,,,,,,,,428,59,348,81
-2003-M-FU-FRA-14A-2003,France F14,Hard,32,S,20030721,31,102763,5,,Benjamin Cassaigne,L,185,FRA,27.2991101985,104542,3,,Jo Wilfried Tsonga,R,188,FRA,18.2587268994,7-5 6-1,3,F,,,,,,,,,,,,,,,,,,,,428,59,395,67
+2003-M-FU-FRA-14A-2003,France F14,Hard,32,S,20030721,31,102763,5,,Benjamin Cassaigne,L,185,FRA,27.2991101985,104542,3,,Jo-Wilfried Tsonga,R,188,FRA,18.2587268994,7-5 6-1,3,F,,,,,,,,,,,,,,,,,,,,428,59,395,67
 2003-M-SA-ITA-04A-2003a,Italy 4 1,Clay,32,S,20030721,1,104134,1,,Bastian Gronefeld,L,,GER,20.4052019165,103522,,,Nahuel Fracassi,U,,ITA,23.3894592745,6-1 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,523,37,1223,2
 2003-M-SA-ITA-04A-2003a,Italy 4 1,Clay,32,S,20030721,2,104226,,Q,Bastian Knittel,L,,GER,19.9507186858,104400,,,Daniel Schubert,R,,GER,19.0143737166,5-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,834,10,730,15
 2003-M-SA-ITA-04A-2003a,Italy 4 1,Clay,32,S,20030721,3,104473,,Q,Walter Trusendi,U,,ITA,18.5434633812,103156,,Q,Alessandro Da Col,R,,ITA,25.3607118412,5-7 6-1 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,,,647,22
@@ -7738,7 +7738,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-ESP-15A-2003,Spain F15,Clay,32,S,20030721,7,103608,,,Mario Munoz Bejarano,R,,ESP,22.9623545517,119120,,WC,Juli Signes Perez,U,,ESP,16.0027378508,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,766,13,,
 2003-M-FU-ESP-15A-2003,Spain F15,Clay,32,S,20030721,8,104317,,Q,David Luque Velasco,U,,ESP,19.3839835729,103830,5,,Shao Xuan Zeng,R,185,CHN,21.8918548939,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1358,1,507,39
 2003-M-FU-ESP-15A-2003,Spain F15,Clay,32,S,20030721,9,103775,,,Felipe Parada,R,175,CHI,22.1793292266,104308,8,LL,Michal Przysiezny,R,185,POL,19.4250513347,6-2 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,562,32,550,33
-2003-M-FU-ESP-15A-2003,Spain F15,Clay,32,S,20030721,10,103926,,PR,Daniel Munoz De La Nava,L,,ESP,21.4729637235,104228,,,Guillem Burniol,R,,ESP,19.9342915811,7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,984,6,795,12
+2003-M-FU-ESP-15A-2003,Spain F15,Clay,32,S,20030721,10,103926,,PR,Daniel Munoz de la Nava,L,,ESP,21.4729637235,104228,,,Guillem Burniol,R,,ESP,19.9342915811,7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,984,6,795,12
 2003-M-FU-ESP-15A-2003,Spain F15,Clay,32,S,20030721,11,103641,,,Cesar Ferrer Victoria,L,,ESP,22.7816563997,102931,,,Daniel Lencina Ribes,R,,LTU,26.4531143053,7-6(6) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,748,14,708,17
 2003-M-FU-ESP-15A-2003,Spain F15,Clay,32,S,20030721,12,103448,3,,Gabriel Trujillo Soler,R,,ESP,23.8056125941,104445,,Q,Jose Antonio Sanchez De Luna,R,,ESP,18.7542778919,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,422,61,880,9
 2003-M-FU-ESP-15A-2003,Spain F15,Clay,32,S,20030721,13,103364,6,,Javier Genaro Martinez,R,,ESP,24.2217659138,104324,,WC,Juan Miguel Such Perez,U,,ESP,19.3648186174,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,536,35,,
@@ -7749,17 +7749,17 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-ESP-15A-2003,Spain F15,Clay,32,S,20030721,18,104349,7,,Rui Machado,R,178,POR,19.2772073922,104284,,Q,Frank Condor,U,,ESP,19.5263518138,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,547,33,1106,4
 2003-M-FU-ESP-15A-2003,Spain F15,Clay,32,S,20030721,19,104719,,,Marcel Granollers,R,190,ESP,17.273100616,104831,,Q,Bartolome Salva Vidal,L,183,ESP,16.6652977413,6-4 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,737,15,875,9
 2003-M-FU-ESP-15A-2003,Spain F15,Clay,32,S,20030721,20,103608,,,Mario Munoz Bejarano,R,,ESP,22.9623545517,104317,,Q,David Luque Velasco,U,,ESP,19.3839835729,7-6(4) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,766,13,1358,1
-2003-M-FU-ESP-15A-2003,Spain F15,Clay,32,S,20030721,21,103926,,PR,Daniel Munoz De La Nava,L,,ESP,21.4729637235,103775,,,Felipe Parada,R,175,CHI,22.1793292266,1-6 7-6(3) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,984,6,562,32
+2003-M-FU-ESP-15A-2003,Spain F15,Clay,32,S,20030721,21,103926,,PR,Daniel Munoz de la Nava,L,,ESP,21.4729637235,103775,,,Felipe Parada,R,175,CHI,22.1793292266,1-6 7-6(3) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,984,6,562,32
 2003-M-FU-ESP-15A-2003,Spain F15,Clay,32,S,20030721,22,103448,3,,Gabriel Trujillo Soler,R,,ESP,23.8056125941,103641,,,Cesar Ferrer Victoria,L,,ESP,22.7816563997,6-2 2-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,422,61,748,14
 2003-M-FU-ESP-15A-2003,Spain F15,Clay,32,S,20030721,23,103364,6,,Javier Genaro Martinez,R,,ESP,24.2217659138,119121,,Q,Ignasi Villacampa Roses,R,,ESP,17.4264202601,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,536,35,,
 2003-M-FU-ESP-15A-2003,Spain F15,Clay,32,S,20030721,24,103337,2,,Ben Qiang Zhu,R,,CHN,24.3559206023,103624,,Q,Sebastian Uriarte,R,,ARG,22.8856947296,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,371,73,,
 2003-M-FU-ESP-15A-2003,Spain F15,Clay,32,S,20030721,25,104091,1,SE,Miguel Angel Lopez Jaen,R,188,ESP,20.6406570842,104349,7,,Rui Machado,R,178,POR,19.2772073922,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,316,94,547,33
 2003-M-FU-ESP-15A-2003,Spain F15,Clay,32,S,20030721,26,103608,,,Mario Munoz Bejarano,R,,ESP,22.9623545517,104719,,,Marcel Granollers,R,190,ESP,17.273100616,5-7 6-1 7-5,3,QF,,,,,,,,,,,,,,,,,,,,766,13,737,15
-2003-M-FU-ESP-15A-2003,Spain F15,Clay,32,S,20030721,27,103926,,PR,Daniel Munoz De La Nava,L,,ESP,21.4729637235,103448,3,,Gabriel Trujillo Soler,R,,ESP,23.8056125941,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,984,6,422,61
+2003-M-FU-ESP-15A-2003,Spain F15,Clay,32,S,20030721,27,103926,,PR,Daniel Munoz de la Nava,L,,ESP,21.4729637235,103448,3,,Gabriel Trujillo Soler,R,,ESP,23.8056125941,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,984,6,422,61
 2003-M-FU-ESP-15A-2003,Spain F15,Clay,32,S,20030721,28,103364,6,,Javier Genaro Martinez,R,,ESP,24.2217659138,103337,2,,Ben Qiang Zhu,R,,CHN,24.3559206023,6-1 6-7(6) 7-5,3,QF,,,,,,,,,,,,,,,,,,,,536,35,371,73
 2003-M-FU-ESP-15A-2003,Spain F15,Clay,32,S,20030721,29,103608,,,Mario Munoz Bejarano,R,,ESP,22.9623545517,104091,1,SE,Miguel Angel Lopez Jaen,R,188,ESP,20.6406570842,2-6 7-6(5) 7-5,3,SF,,,,,,,,,,,,,,,,,,,,766,13,316,94
-2003-M-FU-ESP-15A-2003,Spain F15,Clay,32,S,20030721,30,103926,,PR,Daniel Munoz De La Nava,L,,ESP,21.4729637235,103364,6,,Javier Genaro Martinez,R,,ESP,24.2217659138,7-6(6) 6-2,3,SF,,,,,,,,,,,,,,,,,,,,984,6,536,35
-2003-M-FU-ESP-15A-2003,Spain F15,Clay,32,S,20030721,31,103608,,,Mario Munoz Bejarano,R,,ESP,22.9623545517,103926,,PR,Daniel Munoz De La Nava,L,,ESP,21.4729637235,6-3 6-2,3,F,,,,,,,,,,,,,,,,,,,,766,13,984,6
+2003-M-FU-ESP-15A-2003,Spain F15,Clay,32,S,20030721,30,103926,,PR,Daniel Munoz de la Nava,L,,ESP,21.4729637235,103364,6,,Javier Genaro Martinez,R,,ESP,24.2217659138,7-6(6) 6-2,3,SF,,,,,,,,,,,,,,,,,,,,984,6,536,35
+2003-M-FU-ESP-15A-2003,Spain F15,Clay,32,S,20030721,31,103608,,,Mario Munoz Bejarano,R,,ESP,22.9623545517,103926,,PR,Daniel Munoz de la Nava,L,,ESP,21.4729637235,6-3 6-2,3,F,,,,,,,,,,,,,,,,,,,,766,13,984,6
 2003-M-FU-USA-21A-2003,USA F21,Hard,32,S,20030721,1,104071,1,,Raven Klaasen,R,180,RSA,20.7611225188,108915,,Q,Luis Haddock,U,,PUR,21.4373716632,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,333,85,,
 2003-M-FU-USA-21A-2003,USA F21,Hard,32,S,20030721,2,119055,,WC,Matias Oddone,U,,ARG,23.7837097878,104169,,,Kc Corkery,U,190,USA,20.2354551677,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,688,18
 2003-M-FU-USA-21A-2003,USA F21,Hard,32,S,20030721,3,103977,,WC,Nicholas Monroe,R,178,USA,21.273100616,118704,,Q,Alexei Zharinov,U,,RUS,21.9712525667,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,1358,1
@@ -7887,7 +7887,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-ESP-16A-2003,Spain F16,Clay,32,S,20030728,1,103337,1,,Ben Qiang Zhu,R,,CHN,24.3750855578,104228,,Q,Guillem Burniol,R,,ESP,19.9534565366,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,373,73,802,12
 2003-M-FU-ESP-16A-2003,Spain F16,Clay,32,S,20030728,2,103653,,,Jasper Smit,R,,NED,22.6913073238,119086,,WC,Ivan Estevez Caballero,U,,ESP,21.8836413415,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,714,16,,
 2003-M-FU-ESP-16A-2003,Spain F16,Clay,32,S,20030728,3,104084,,Q,Carlos Poch Gradin,L,185,ESP,20.7145790554,103641,,,Cesar Ferrer Victoria,L,,ESP,22.8008213552,6-4 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,904,8,746,14
-2003-M-FU-ESP-16A-2003,Spain F16,Clay,32,S,20030728,4,103926,,PR,Daniel Munoz De La Nava,L,,ESP,21.492128679,103364,6,,Javier Genaro Martinez,R,,ESP,24.2409308693,7-6(6) 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,983,6,535,36
+2003-M-FU-ESP-16A-2003,Spain F16,Clay,32,S,20030728,4,103926,,PR,Daniel Munoz de la Nava,L,,ESP,21.492128679,103364,6,,Javier Genaro Martinez,R,,ESP,24.2409308693,7-6(6) 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,983,6,535,36
 2003-M-FU-ESP-16A-2003,Spain F16,Clay,32,S,20030728,5,104532,,Q,Jose Checa Calvo,L,,ESP,18.3189596167,118795,,LL,Federico Soriano Gallo,U,,ESP,18.6036960986,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,940,7,1288,2
 2003-M-FU-ESP-16A-2003,Spain F16,Clay,32,S,20030728,6,104384,,Q,Pablo Santos,R,183,ESP,19.1156741958,104416,,,Tiago Godinho,R,,POR,18.9541409993,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1360,1,758,14
 2003-M-FU-ESP-16A-2003,Spain F16,Clay,32,S,20030728,7,102931,,,Daniel Lencina Ribes,R,,LTU,26.4722792608,104529,,WC,David Villanueva Perez,R,,ESP,18.3299110198,6-4 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,703,17,917,7
@@ -7901,7 +7901,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-ESP-16A-2003,Spain F16,Clay,32,S,20030728,15,103796,,,Marcos Jimenez Letrado,U,,ESP,22.0944558522,119121,,Q,Ignasi Villacampa Roses,R,,ESP,17.4455852156,3-6 6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,732,15,,
 2003-M-FU-ESP-16A-2003,Spain F16,Clay,32,S,20030728,16,104311,,,Leonardo Tavares,R,,POR,19.4332648871,103947,2,,Ivan Esquerdo,U,,ESP,21.4127310062,2-6 7-5 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,771,13,463,51
 2003-M-FU-ESP-16A-2003,Spain F16,Clay,32,S,20030728,17,103653,,,Jasper Smit,R,,NED,22.6913073238,103337,1,,Ben Qiang Zhu,R,,CHN,24.3750855578,6-2 1-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,714,16,373,73
-2003-M-FU-ESP-16A-2003,Spain F16,Clay,32,S,20030728,18,104084,,Q,Carlos Poch Gradin,L,185,ESP,20.7145790554,103926,,PR,Daniel Munoz De La Nava,L,,ESP,21.492128679,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,904,8,983,6
+2003-M-FU-ESP-16A-2003,Spain F16,Clay,32,S,20030728,18,104084,,Q,Carlos Poch Gradin,L,185,ESP,20.7145790554,103926,,PR,Daniel Munoz de la Nava,L,,ESP,21.492128679,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,904,8,983,6
 2003-M-FU-ESP-16A-2003,Spain F16,Clay,32,S,20030728,19,104384,,Q,Pablo Santos,R,183,ESP,19.1156741958,104532,,Q,Jose Checa Calvo,L,,ESP,18.3189596167,6-2 4-2 RET,3,R16,,,,,,,,,,,,,,,,,,,,1360,1,940,7
 2003-M-FU-ESP-16A-2003,Spain F16,Clay,32,S,20030728,20,104349,7,,Rui Machado,R,178,POR,19.2963723477,102931,,,Daniel Lencina Ribes,R,,LTU,26.4722792608,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,552,33,703,17
 2003-M-FU-ESP-16A-2003,Spain F16,Clay,32,S,20030728,21,103608,,SE,Mario Munoz Bejarano,R,,ESP,22.9815195072,104197,,Q,David Ortiz Djian,R,,ESP,20.1533196441,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,752,14,948,7
@@ -8135,7 +8135,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-ESP-17A-2003,Spain F17,Clay,32,S,20030804,1,104597,1,,Nicolas Almagro,R,183,ESP,17.9520876112,104614,,LL,Javier Foronda Bolanos,U,,ESP,17.8480492813,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,210,166,1024,5
 2003-M-FU-ESP-17A-2003,Spain F17,Clay,32,S,20030804,2,103382,,,Guillermo Platel,R,,ESP,24.1615331964,104324,,WC,Juan Miguel Such Perez,U,,ESP,19.4031485284,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,745,14,,
 2003-M-FU-ESP-17A-2003,Spain F17,Clay,32,S,20030804,3,104388,,Q,Morgan Phillips,U,,GBR,19.112936345,103641,,Q,Cesar Ferrer Victoria,L,,ESP,22.8199863107,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,729,15
-2003-M-FU-ESP-17A-2003,Spain F17,Clay,32,S,20030804,4,103926,,WC,Daniel Munoz De La Nava,L,,ESP,21.5112936345,103465,5,,Paul Logtens,R,175,NED,23.7399041752,6-2 2-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,740,14,476,47
+2003-M-FU-ESP-17A-2003,Spain F17,Clay,32,S,20030804,4,103926,,WC,Daniel Munoz de la Nava,L,,ESP,21.5112936345,103465,5,,Paul Logtens,R,175,NED,23.7399041752,6-2 2-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,740,14,476,47
 2003-M-FU-ESP-17A-2003,Spain F17,Clay,32,S,20030804,5,103337,3,,Ben Qiang Zhu,R,,CHN,24.3942505133,103125,,,Joan Jimenez Guerra,R,,AND,25.5249828884,6-2 3-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,373,75,720,16
 2003-M-FU-ESP-17A-2003,Spain F17,Clay,32,S,20030804,6,104099,,,Israel Matos Gil,U,,ESP,20.6379192334,102859,,Q,Luis Maria Zapata,U,,ESP,26.8884325804,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,708,17,,
 2003-M-FU-ESP-17A-2003,Spain F17,Clay,32,S,20030804,7,104719,,,Marcel Granollers,R,190,ESP,17.311430527,104084,,SE,Carlos Poch Gradin,L,185,ESP,20.733744011,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,686,18,907,8
@@ -8149,7 +8149,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-ESP-17A-2003,Spain F17,Clay,32,S,20030804,15,103599,,LL,Jordi Marse Vidri,U,,ESP,23.0362765229,103399,,,Carlos Rexach Itoiz,U,,ESP,24.0848733744,6-3 3-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,748,14,706,17
 2003-M-FU-ESP-17A-2003,Spain F17,Clay,32,S,20030804,16,103868,2,,Ivan Navarro,R,183,ESP,21.7905544148,103658,,PR,Jordane Doble,R,,FRA,22.6694045175,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,322,96,1007,5
 2003-M-FU-ESP-17A-2003,Spain F17,Clay,32,S,20030804,17,104597,1,,Nicolas Almagro,R,183,ESP,17.9520876112,103382,,,Guillermo Platel,R,,ESP,24.1615331964,6-1 7-6(0),3,R16,,,,,,,,,,,,,,,,,,,,210,166,745,14
-2003-M-FU-ESP-17A-2003,Spain F17,Clay,32,S,20030804,18,104388,,Q,Morgan Phillips,U,,GBR,19.112936345,103926,,WC,Daniel Munoz De La Nava,L,,ESP,21.5112936345,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,740,14
+2003-M-FU-ESP-17A-2003,Spain F17,Clay,32,S,20030804,18,104388,,Q,Morgan Phillips,U,,GBR,19.112936345,103926,,WC,Daniel Munoz de la Nava,L,,ESP,21.5112936345,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,740,14
 2003-M-FU-ESP-17A-2003,Spain F17,Clay,32,S,20030804,19,103337,3,,Ben Qiang Zhu,R,,CHN,24.3942505133,104099,,,Israel Matos Gil,U,,ESP,20.6379192334,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,373,75,708,17
 2003-M-FU-ESP-17A-2003,Spain F17,Clay,32,S,20030804,20,104719,,,Marcel Granollers,R,190,ESP,17.311430527,103364,8,,Javier Genaro Martinez,R,,ESP,24.2600958248,W/O,3,R16,,,,,,,,,,,,,,,,,,,,686,18,510,39
 2003-M-FU-ESP-17A-2003,Spain F17,Clay,32,S,20030804,21,103365,7,,Javier Garcia Sintes,R,,ESP,24.257357974,104445,,SE,Jose Antonio Sanchez De Luna,R,,ESP,18.7926078029,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,529,37,880,9
@@ -8589,7 +8589,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-SA-SCG-01A-2003d,Serbia & Montenegro 1 4,Clay,32,S,20030811,29,103162,5,,Dejan Petrovic,R,,SRB,25.3552361396,104222,6,,Nikola Ciric,L,,SRB,20.0246406571,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,789,12,691,18
 2003-M-SA-SCG-01A-2003d,Serbia & Montenegro 1 4,Clay,32,S,20030811,30,103666,3,,Ilia Kushev,R,,BUL,22.6584531143,103901,7,,Alessandro Piccari,R,,ITA,21.6016427105,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,714,16,814,11
 2003-M-SA-SCG-01A-2003d,Serbia & Montenegro 1 4,Clay,32,S,20030811,31,103162,5,,Dejan Petrovic,R,,SRB,25.3552361396,103666,3,,Ilia Kushev,R,,BUL,22.6584531143,2-6 7-5 6-3,3,F,,,,,,,,,,,,,,,,,,,,789,12,714,16
-2003-M-FU-ESP-18A-2003,Spain F18,Clay,32,S,20030811,1,102828,1,,Roberto Menendez,R,,ESP,27.0882956879,103926,,,Daniel Munoz De La Nava,L,,ESP,21.53045859,6-0 7-5,3,R32,,,,,,,,,,,,,,,,,,,,315,98,734,15
+2003-M-FU-ESP-18A-2003,Spain F18,Clay,32,S,20030811,1,102828,1,,Roberto Menendez,R,,ESP,27.0882956879,103926,,,Daniel Munoz de la Nava,L,,ESP,21.53045859,6-0 7-5,3,R32,,,,,,,,,,,,,,,,,,,,315,98,734,15
 2003-M-FU-ESP-18A-2003,Spain F18,Clay,32,S,20030811,2,103399,,,Carlos Rexach Itoiz,U,,ESP,24.1040383299,119128,,LL,Ian Vazquez Rowe,U,,ESP,18.6146475017,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,721,16,,
 2003-M-FU-ESP-18A-2003,Spain F18,Clay,32,S,20030811,3,104523,,Q,Frederico Gil,R,178,POR,18.3819301848,103641,,,Cesar Ferrer Victoria,L,,ESP,22.8391512663,7-6(3) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1175,3,732,15
 2003-M-FU-ESP-18A-2003,Spain F18,Clay,32,S,20030811,4,104311,,,Leonardo Tavares,R,,POR,19.4715947981,104280,6,,Rafael Moreno Negrin,R,,ESP,19.6440793977,6-4 4-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,723,16,511,39
@@ -8684,7 +8684,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-USA-24A-2003,USA F24,Hard,32,S,20030811,31,104071,2,,Raven Klaasen,R,180,RSA,20.8186173854,102655,,Q,Jimy Szymanski,R,175,VEN,27.9041752225,6-3 6-3,3,F,,,,,,,,,,,,,,,,,,,,383,73,962,6
 2003-M-FU-ARG-01A-2003,Argentina F1,Clay,32,S,20030818,1,104253,,,Juan Martin Aranguren,R,,ARG,19.8631074606,104016,1,,Antonio Pastorino,U,,ARG,21.1772758385,2-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,747,15,357,81
 2003-M-FU-ARG-01A-2003,Argentina F1,Clay,32,S,20030818,2,103121,,,Matias Oneille,R,,ARG,25.5715263518,104221,,LL,Jonathan Gonzalia,R,,ARG,20.0438056126,4-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,710,17,1100,4
-2003-M-FU-ARG-01A-2003,Argentina F1,Clay,32,S,20030818,3,103742,,,Diego Cristin,R,,ARG,22.3682409309,105223,,WC,Juan Martin Del Potro,R,198,ARG,14.8993839836,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,948,7,,
+2003-M-FU-ARG-01A-2003,Argentina F1,Clay,32,S,20030818,3,103742,,,Diego Cristin,R,,ARG,22.3682409309,105223,,WC,Juan Martin del Potro,R,198,ARG,14.8993839836,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,948,7,,
 2003-M-FU-ARG-01A-2003,Argentina F1,Clay,32,S,20030818,4,104080,7,,Alejandro Fabbri,U,,ARG,20.8076659822,103549,,,Dario Perez,R,,ARG,23.3319644079,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,610,26,917,8
 2003-M-FU-ARG-01A-2003,Argentina F1,Clay,32,S,20030818,5,103850,4,,Sebastian Decoud,L,178,ARG,21.9137577002,104828,,Q,Alejandro Kon,U,,ARG,16.7693360712,6-4 4-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,451,52,,
 2003-M-FU-ARG-01A-2003,Argentina F1,Clay,32,S,20030818,6,104477,,,Jorge Aguilar,R,,CHI,18.6064339493,104552,,,Juan Francisco Spina,U,,ARG,18.2778918549,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,694,18,994,5
@@ -9177,7 +9177,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-ARG-02A-2003,Argentina F2,Clay,32,S,20030825,5,104016,3,,Antonio Pastorino,U,,ARG,21.196440794,104513,,WC,Leandro Migani,R,,ARG,18.4804928131,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,396,70,,
 2003-M-FU-ARG-02A-2003,Argentina F2,Clay,32,S,20030825,6,104221,,Q,Jonathan Gonzalia,R,,ARG,20.0629705681,103549,,Q,Dario Perez,R,,ARG,23.3511293634,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1106,4,924,8
 2003-M-FU-ARG-02A-2003,Argentina F2,Clay,32,S,20030825,7,104477,,,Jorge Aguilar,R,,CHI,18.6255989049,118935,,WC,Cristobal Aguirre,U,,ARG,25.0130047912,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,702,18,,
-2003-M-FU-ARG-02A-2003,Argentina F2,Clay,32,S,20030825,8,104338,5,,Juan Monaco,R,185,ARG,19.4058863792,105223,,WC,Juan Martin Del Potro,R,198,ARG,14.9185489391,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,406,66,,
+2003-M-FU-ARG-02A-2003,Argentina F2,Clay,32,S,20030825,8,104338,5,,Juan Monaco,R,185,ARG,19.4058863792,105223,,WC,Juan Martin del Potro,R,198,ARG,14.9185489391,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,406,66,,
 2003-M-FU-ARG-02A-2003,Argentina F2,Clay,32,S,20030825,9,104122,6,,Carlos Berlocq,R,183,ARG,20.5557837098,103357,,,Javier Taborga,R,,BOL,24.3613963039,4-6 6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,434,56,523,38
 2003-M-FU-ARG-02A-2003,Argentina F2,Clay,32,S,20030825,10,102985,,,Gustavo Marcaccio,R,,ARG,26.3107460643,104902,,WC,Juan Pablo Yunis,R,,ARG,16.372347707,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,572,31,,
 2003-M-FU-ARG-02A-2003,Argentina F2,Clay,32,S,20030825,11,104080,,,Alejandro Fabbri,U,,ARG,20.8268309377,101961,,Q,Martin Stringari,R,188,ARG,31.9561943874,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,615,26,1221,3
@@ -9636,7 +9636,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-ARG-03A-2003,Argentina F3,Clay,32,S,20030901,7,118233,,Q,Gonzalo Goberna,U,,ARG,19.0088980151,118152,,Q,Jose Luis Desena,U,,ARG,21.5961670089,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2003-M-FU-ARG-03A-2003,Argentina F3,Clay,32,S,20030901,8,103622,7,,Bo Ram Cha,R,,KOR,23.0143737166,111480,,LL,Alberto Sottocorno,R,,BOL,18.9212867899,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,582,30,1382,1
 2003-M-FU-ARG-03A-2003,Argentina F3,Clay,32,S,20030901,9,103121,,,Matias Oneille,R,,ARG,25.6098562628,102985,6,,Gustavo Marcaccio,R,,ARG,26.3299110198,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,713,17,572,31
-2003-M-FU-ARG-03A-2003,Argentina F3,Clay,32,S,20030901,10,103404,,WC,Juan Ignacio Destefano,U,,ARG,24.1368925394,105223,,WC,Juan Martin Del Potro,R,198,ARG,14.9377138946,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1248,2,,
+2003-M-FU-ARG-03A-2003,Argentina F3,Clay,32,S,20030901,10,103404,,WC,Juan Ignacio Destefano,U,,ARG,24.1368925394,105223,,WC,Juan Martin del Potro,R,198,ARG,14.9377138946,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1248,2,,
 2003-M-FU-ARG-03A-2003,Argentina F3,Clay,32,S,20030901,11,118435,,Q,Esteban Zanetti,U,,ARG,21.6235455168,103546,,,Patricio Arquez,R,,ARG,23.3867214237,6-2 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,639,23
 2003-M-FU-ARG-03A-2003,Argentina F3,Clay,32,S,20030901,12,104314,4,,Brian Dabul,L,170,ARG,19.5181382615,104080,,,Alejandro Fabbri,U,,ARG,20.8459958932,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,510,39,615,26
 2003-M-FU-ARG-03A-2003,Argentina F3,Clay,32,S,20030901,13,104919,,WC,Leonardo Mayer,R,188,ARG,16.2984257358,104008,8,,Carlos Avellan,R,,ECU,21.2539356605,6-3 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,614,26
@@ -9816,7 +9816,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-ESP-21A-2003,Spain F21,Clay,32,S,20030901,1,102828,1,,Roberto Menendez,R,,ESP,27.1457905544,119162,,Q,Marcos Alvarez Garrido,U,,ESP,15.5537303217,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,310,103,,
 2003-M-FU-ESP-21A-2003,Spain F21,Clay,32,S,20030901,2,104384,,Q,Pablo Santos,R,183,ESP,19.2114989733,107553,,,Laurent Gabail,U,,FRA,,6-2 1-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1178,3,601,27
 2003-M-FU-ESP-21A-2003,Spain F21,Clay,32,S,20030901,3,103904,,,Alberto Soriano,U,,ESP,21.6509240246,104516,,Q,Arnau Brugues Davi,L,183,ESP,18.4914442163,7-6(1) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,729,16,1382,1
-2003-M-FU-ESP-21A-2003,Spain F21,Clay,32,S,20030901,4,103926,,,Daniel Munoz De La Nava,L,,ESP,21.5879534565,103543,8,,David Marrero,R,185,ESP,23.3976728268,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,730,16,518,38
+2003-M-FU-ESP-21A-2003,Spain F21,Clay,32,S,20030901,4,103926,,,Daniel Munoz de la Nava,L,,ESP,21.5879534565,103543,8,,David Marrero,R,185,ESP,23.3976728268,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,730,16,518,38
 2003-M-FU-ESP-21A-2003,Spain F21,Clay,32,S,20030901,5,103448,3,,Gabriel Trujillo Soler,R,,ESP,23.9206023272,117564,,WC,Alejandro Sorrentini Gutierrez,U,,ESP,22.4996577687,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,431,58,,
 2003-M-FU-ESP-21A-2003,Spain F21,Clay,32,S,20030901,6,118985,,Q,Kamil Filali,U,,MAR,18.7953456537,104668,,Q,David Diaz Ventura,U,,ESP,17.6016427105,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,1382,1
 2003-M-FU-ESP-21A-2003,Spain F21,Clay,32,S,20030901,7,104831,,Q,Bartolome Salva Vidal,L,183,ESP,16.7802874743,104284,,Q,Frank Condor,U,,ESP,19.6413415469,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,772,14,1308,2
@@ -9830,14 +9830,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-ESP-21A-2003,Spain F21,Clay,32,S,20030901,15,104445,,,Jose Antonio Sanchez De Luna,R,,ESP,18.8692676249,103029,,,Mehdi Tahiri,R,183,MAR,26.0944558522,6-4 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,642,23,664,21
 2003-M-FU-ESP-21A-2003,Spain F21,Clay,32,S,20030901,16,102920,2,,Diego Hipperdinger,R,,ESP,26.6201232033,103608,,,Mario Munoz Bejarano,R,,ESP,23.0773442847,2-6 7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,353,83,597,28
 2003-M-FU-ESP-21A-2003,Spain F21,Clay,32,S,20030901,17,104384,,Q,Pablo Santos,R,183,ESP,19.2114989733,102828,1,,Roberto Menendez,R,,ESP,27.1457905544,7-6(8) 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,1178,3,310,103
-2003-M-FU-ESP-21A-2003,Spain F21,Clay,32,S,20030901,18,103926,,,Daniel Munoz De La Nava,L,,ESP,21.5879534565,103904,,,Alberto Soriano,U,,ESP,21.6509240246,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,730,16,729,16
+2003-M-FU-ESP-21A-2003,Spain F21,Clay,32,S,20030901,18,103926,,,Daniel Munoz de la Nava,L,,ESP,21.5879534565,103904,,,Alberto Soriano,U,,ESP,21.6509240246,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,730,16,729,16
 2003-M-FU-ESP-21A-2003,Spain F21,Clay,32,S,20030901,19,103448,3,,Gabriel Trujillo Soler,R,,ESP,23.9206023272,118985,,Q,Kamil Filali,U,,MAR,18.7953456537,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,431,58,,
 2003-M-FU-ESP-21A-2003,Spain F21,Clay,32,S,20030901,20,102963,5,,Robert Lindstedt,R,190,SWE,26.4531143053,104831,,Q,Bartolome Salva Vidal,L,183,ESP,16.7802874743,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,467,49,772,14
 2003-M-FU-ESP-21A-2003,Spain F21,Clay,32,S,20030901,21,102994,,,Esteban Carril,R,,ESP,26.2724161533,102603,6,,Melvyn Op Der Heijde,R,180,NED,28.2245037645,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,681,20,504,42
 2003-M-FU-ESP-21A-2003,Spain F21,Clay,32,S,20030901,22,103007,4,,Mounir El Aarej,R,,MAR,26.2094455852,102579,,,Xavier Audouy,U,,FRA,28.3531827515,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,444,54,694,19
 2003-M-FU-ESP-21A-2003,Spain F21,Clay,32,S,20030901,23,103724,,WC,Jose Manuel Garcia Rodriguez,R,,ESP,22.5023956194,104719,,,Marcel Granollers,R,190,ESP,17.3880903491,6-3 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,827,11,676,20
 2003-M-FU-ESP-21A-2003,Spain F21,Clay,32,S,20030901,24,104445,,,Jose Antonio Sanchez De Luna,R,,ESP,18.8692676249,102920,2,,Diego Hipperdinger,R,,ESP,26.6201232033,3-6 7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,642,23,353,83
-2003-M-FU-ESP-21A-2003,Spain F21,Clay,32,S,20030901,25,104384,,Q,Pablo Santos,R,183,ESP,19.2114989733,103926,,,Daniel Munoz De La Nava,L,,ESP,21.5879534565,6-4 7-6(3),3,QF,,,,,,,,,,,,,,,,,,,,1178,3,730,16
+2003-M-FU-ESP-21A-2003,Spain F21,Clay,32,S,20030901,25,104384,,Q,Pablo Santos,R,183,ESP,19.2114989733,103926,,,Daniel Munoz de la Nava,L,,ESP,21.5879534565,6-4 7-6(3),3,QF,,,,,,,,,,,,,,,,,,,,1178,3,730,16
 2003-M-FU-ESP-21A-2003,Spain F21,Clay,32,S,20030901,26,103448,3,,Gabriel Trujillo Soler,R,,ESP,23.9206023272,102963,5,,Robert Lindstedt,R,190,SWE,26.4531143053,5-1 RET,3,QF,,,,,,,,,,,,,,,,,,,,431,58,467,49
 2003-M-FU-ESP-21A-2003,Spain F21,Clay,32,S,20030901,27,103007,4,,Mounir El Aarej,R,,MAR,26.2094455852,102994,,,Esteban Carril,R,,ESP,26.2724161533,6-4 6-7(1) 6-1,3,QF,,,,,,,,,,,,,,,,,,,,444,54,681,20
 2003-M-FU-ESP-21A-2003,Spain F21,Clay,32,S,20030901,28,104445,,,Jose Antonio Sanchez De Luna,R,,ESP,18.8692676249,103724,,WC,Jose Manuel Garcia Rodriguez,R,,ESP,22.5023956194,6-1 4-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,642,23,827,11
@@ -10038,7 +10038,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-ESP-22A-2003,Spain F22,Hard,32,S,20030908,6,104629,,Q,Adrian Menendez Maceiras,R,,ESP,17.8617385352,117540,,WC,Jesus Escribano Joven,U,,ESP,25.6892539357,6-4 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2003-M-FU-ESP-22A-2003,Spain F22,Hard,32,S,20030908,7,104595,,Q,Sascha Kloer,R,,GER,18.0616016427,119165,,WC,Carlos Garcia De Andoain,U,,ESP,15.9534565366,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1072,4,,
 2003-M-FU-ESP-22A-2003,Spain F22,Hard,32,S,20030908,8,107670,,LL,Mariano Pettigrosso,U,,ARG,,103364,5,,Javier Genaro Martinez,R,,ESP,24.3559206023,7-5 4-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1252,2,514,40
-2003-M-FU-ESP-22A-2003,Spain F22,Hard,32,S,20030908,9,104395,6,,Marcel Felder,R,,URU,19.1649555099,103926,,,Daniel Munoz De La Nava,L,,ESP,21.607118412,3-6 7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,585,29,731,16
+2003-M-FU-ESP-22A-2003,Spain F22,Hard,32,S,20030908,9,104395,6,,Marcel Felder,R,,URU,19.1649555099,103926,,,Daniel Munoz de la Nava,L,,ESP,21.607118412,3-6 7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,585,29,731,16
 2003-M-FU-ESP-22A-2003,Spain F22,Hard,32,S,20030908,10,104084,,Q,Carlos Poch Gradin,L,185,ESP,20.8295687885,118978,,Q,Sebastian Schluter,U,,GER,20.5229295003,6-3 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,861,10,,
 2003-M-FU-ESP-22A-2003,Spain F22,Hard,32,S,20030908,11,102948,,,Oliver Freelove,R,,GBR,26.5106091718,102750,,,Jon Hedman,R,,SWE,27.4770704997,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,670,21,740,16
 2003-M-FU-ESP-22A-2003,Spain F22,Hard,32,S,20030908,12,103490,4,,Santiago Ventura,R,183,ESP,23.6741957563,104614,,Q,Javier Foronda Bolanos,U,,ESP,17.9438740589,6-4 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,403,69,921,8
@@ -10123,7 +10123,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-BOL-02A-2003,Bolivia F2,Clay,32,S,20030915,29,104027,3,,Pablo Gonzalez,R,178,COL,21.2046543463,104122,1,,Carlos Berlocq,R,183,ARG,20.6132785763,6-3 6-0,3,SF,,,,,,,,,,,,,,,,,,,,433,58,408,65
 2003-M-FU-BOL-02A-2003,Bolivia F2,Clay,32,S,20030915,30,103689,7,,Guillermo Carry,L,,ARG,22.6639288159,103546,8,,Patricio Arquez,R,,ARG,23.4250513347,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,578,30,633,24
 2003-M-FU-BOL-02A-2003,Bolivia F2,Clay,32,S,20030915,31,104027,3,,Pablo Gonzalez,R,178,COL,21.2046543463,103689,7,,Guillermo Carry,L,,ARG,22.6639288159,7-5 6-3,3,F,,,,,,,,,,,,,,,,,,,,433,58,578,30
-2003-M-FU-FRA-16A-2003,France F16,Hard,32,S,20030915,1,104542,1,,Jo Wilfried Tsonga,R,188,FRA,18.4120465435,103801,,WC,Marc Steger,L,,FRA,22.1984941821,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,372,79,733,16
+2003-M-FU-FRA-16A-2003,France F16,Hard,32,S,20030915,1,104542,1,,Jo-Wilfried Tsonga,R,188,FRA,18.4120465435,103801,,WC,Marc Steger,L,,FRA,22.1984941821,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,372,79,733,16
 2003-M-FU-FRA-16A-2003,France F16,Hard,32,S,20030915,2,104183,,,Alexander Flock,R,190,GER,20.3367556468,104515,,WC,Mathieu Montcourt,R,183,FRA,18.5325119781,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,469,48,944,7
 2003-M-FU-FRA-16A-2003,France F16,Hard,32,S,20030915,3,102965,,,Jamie Delgado,R,178,GBR,26.4859685147,119037,,WC,Philippe Haas,U,,FRA,20.4161533196,7-6(3) 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,526,37,,
 2003-M-FU-FRA-16A-2003,France F16,Hard,32,S,20030915,4,105095,,Q,Evgeny Korolev,R,185,KAZ,15.5838466804,104141,5,,Dmitri Sitak,R,183,RUS,20.5338809035,6-3 5-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1234,3,359,84
@@ -10139,7 +10139,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-FRA-16A-2003,France F16,Hard,32,S,20030915,14,104721,,,Josselin Ouanna,R,193,FRA,17.4209445585,104792,,,Gael Monfils,R,193,FRA,17.0376454483,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,609,26,944,7
 2003-M-FU-FRA-16A-2003,France F16,Hard,32,S,20030915,15,103658,,PR,Jordane Doble,R,,FRA,22.7843942505,111306,,Q,Christian Chao,R,,FRA,19.6714579055,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1326,2,,
 2003-M-FU-FRA-16A-2003,France F16,Hard,32,S,20030915,16,104211,2,,Roman Valent,R,183,SUI,20.1889117043,107553,,,Laurent Gabail,U,,FRA,,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,395,72,600,27
-2003-M-FU-FRA-16A-2003,France F16,Hard,32,S,20030915,17,104542,1,,Jo Wilfried Tsonga,R,188,FRA,18.4120465435,104183,,,Alexander Flock,R,190,GER,20.3367556468,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,372,79,469,48
+2003-M-FU-FRA-16A-2003,France F16,Hard,32,S,20030915,17,104542,1,,Jo-Wilfried Tsonga,R,188,FRA,18.4120465435,104183,,,Alexander Flock,R,190,GER,20.3367556468,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,372,79,469,48
 2003-M-FU-FRA-16A-2003,France F16,Hard,32,S,20030915,18,102965,,,Jamie Delgado,R,178,GBR,26.4859685147,105095,,Q,Evgeny Korolev,R,185,KAZ,15.5838466804,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,526,37,1234,3
 2003-M-FU-FRA-16A-2003,France F16,Hard,32,S,20030915,19,107891,,Q,Olivier Vandewiele,R,,FRA,,103148,,Q,Norbert Mazany,R,,HUN,25.568788501,7-6(7) 6-7(4) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1411,1,944,7
 2003-M-FU-FRA-16A-2003,France F16,Hard,32,S,20030915,20,103582,7,,Michael Berrer,L,193,GER,23.2060232717,117577,,Q,Rene Hohm,U,,GER,26.4010951403,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,447,53,1411,1
@@ -10147,7 +10147,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-FRA-16A-2003,France F16,Hard,32,S,20030915,22,103208,4,,Jean Michel Pequery,R,,FRA,25.2950034223,103938,,,Igor Zelenay,R,198,SVK,21.5934291581,6-3 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,416,62,506,42
 2003-M-FU-FRA-16A-2003,France F16,Hard,32,S,20030915,23,104721,,,Josselin Ouanna,R,193,FRA,17.4209445585,103993,,,Chris Lewis,U,,GBR,21.3497604381,6-0 6-7(1) 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,609,26,517,39
 2003-M-FU-FRA-16A-2003,France F16,Hard,32,S,20030915,24,104211,2,,Roman Valent,R,183,SUI,20.1889117043,103658,,PR,Jordane Doble,R,,FRA,22.7843942505,6-7(4) 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,395,72,1326,2
-2003-M-FU-FRA-16A-2003,France F16,Hard,32,S,20030915,25,102965,,,Jamie Delgado,R,178,GBR,26.4859685147,104542,1,,Jo Wilfried Tsonga,R,188,FRA,18.4120465435,6-2 3-6 7-6(6),3,QF,,,,,,,,,,,,,,,,,,,,526,37,372,79
+2003-M-FU-FRA-16A-2003,France F16,Hard,32,S,20030915,25,102965,,,Jamie Delgado,R,178,GBR,26.4859685147,104542,1,,Jo-Wilfried Tsonga,R,188,FRA,18.4120465435,6-2 3-6 7-6(6),3,QF,,,,,,,,,,,,,,,,,,,,526,37,372,79
 2003-M-FU-FRA-16A-2003,France F16,Hard,32,S,20030915,26,103582,7,,Michael Berrer,L,193,GER,23.2060232717,107891,,Q,Olivier Vandewiele,R,,FRA,,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,447,53,1411,1
 2003-M-FU-FRA-16A-2003,France F16,Hard,32,S,20030915,27,103208,4,,Jean Michel Pequery,R,,FRA,25.2950034223,102176,,Q,Arnaud Magnin,U,,FRA,30.5681040383,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,416,62,,
 2003-M-FU-FRA-16A-2003,France F16,Hard,32,S,20030915,28,104211,2,,Roman Valent,R,183,SUI,20.1889117043,104721,,,Josselin Ouanna,R,193,FRA,17.4209445585,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,395,72,609,26
@@ -10315,7 +10315,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-ESP-23A-2003,Spain F23,Hard,32,S,20030915,4,103991,,LL,Boy Wijnmalen,U,,NED,21.3689253936,103619,,Q,Mustafa Ghouse,R,185,IND,23.0718685832,6-2 7-6(9),3,R32,,,,,,,,,,,,,,,,,,,,734,16,772,14
 2003-M-FU-ESP-23A-2003,Spain F23,Hard,32,S,20030915,5,103936,3,,Todor Enev,R,,BUL,21.5989048597,102579,,,Xavier Audouy,U,,FRA,28.3915126626,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,366,81,688,20
 2003-M-FU-ESP-23A-2003,Spain F23,Hard,32,S,20030915,6,104395,,Q,Marcel Felder,R,,URU,19.1841204654,103543,,,David Marrero,R,185,ESP,23.4360027379,3-6 7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,583,29,545,35
-2003-M-FU-ESP-23A-2003,Spain F23,Hard,32,S,20030915,7,103926,,,Daniel Munoz De La Nava,L,,ESP,21.6262833676,103641,,,Cesar Ferrer Victoria,L,,ESP,22.9349760438,6-2 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,695,19,751,15
+2003-M-FU-ESP-23A-2003,Spain F23,Hard,32,S,20030915,7,103926,,,Daniel Munoz de la Nava,L,,ESP,21.6262833676,103641,,,Cesar Ferrer Victoria,L,,ESP,22.9349760438,6-2 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,695,19,751,15
 2003-M-FU-ESP-23A-2003,Spain F23,Hard,32,S,20030915,8,103493,5,,Eduardo Bohrer,R,,BRA,23.6605065024,103886,,WC,Luis Antonio Perez Perez,R,,ESP,21.7823408624,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,494,43,,
 2003-M-FU-ESP-23A-2003,Spain F23,Hard,32,S,20030915,9,104532,,Q,Jose Checa Calvo,L,,ESP,18.4531143053,104149,7,,Adrian Cruciat,R,,ROU,20.4599589322,6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,957,7,466,49
 2003-M-FU-ESP-23A-2003,Spain F23,Hard,32,S,20030915,10,103796,,Q,Marcos Jimenez Letrado,U,,ESP,22.2286105407,102519,,,Marcio Carlsson,R,175,BRA,28.6406570842,6-3 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,754,15,587,29
@@ -10328,7 +10328,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-ESP-23A-2003,Spain F23,Hard,32,S,20030915,17,103364,,,Javier Genaro Martinez,R,,ESP,24.3750855578,104091,1,Q,Miguel Angel Lopez Jaen,R,188,ESP,20.7939767283,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,512,40,282,121
 2003-M-FU-ESP-23A-2003,Spain F23,Hard,32,S,20030915,18,103991,,LL,Boy Wijnmalen,U,,NED,21.3689253936,103636,,,Federico Torresi,R,,ITA,22.9650924025,4-6 7-6(4) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,734,16,612,26
 2003-M-FU-ESP-23A-2003,Spain F23,Hard,32,S,20030915,19,103936,3,,Todor Enev,R,,BUL,21.5989048597,104395,,Q,Marcel Felder,R,,URU,19.1841204654,6-4 3-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,366,81,583,29
-2003-M-FU-ESP-23A-2003,Spain F23,Hard,32,S,20030915,20,103493,5,,Eduardo Bohrer,R,,BRA,23.6605065024,103926,,,Daniel Munoz De La Nava,L,,ESP,21.6262833676,6-4 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,494,43,695,19
+2003-M-FU-ESP-23A-2003,Spain F23,Hard,32,S,20030915,20,103493,5,,Eduardo Bohrer,R,,BRA,23.6605065024,103926,,,Daniel Munoz de la Nava,L,,ESP,21.6262833676,6-4 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,494,43,695,19
 2003-M-FU-ESP-23A-2003,Spain F23,Hard,32,S,20030915,21,103796,,Q,Marcos Jimenez Letrado,U,,ESP,22.2286105407,104532,,Q,Jose Checa Calvo,L,,ESP,18.4531143053,5-7 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,754,15,957,7
 2003-M-FU-ESP-23A-2003,Spain F23,Hard,32,S,20030915,22,103490,4,,Santiago Ventura,R,183,ESP,23.6933607118,104084,,SE,Carlos Poch Gradin,L,185,ESP,20.848733744,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,434,57,858,10
 2003-M-FU-ESP-23A-2003,Spain F23,Hard,32,S,20030915,23,104614,,WC,Javier Foronda Bolanos,U,,ESP,17.9630390144,101869,6,,Juan Luis Tati Rascon,R,,ESP,32.5393566051,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,925,8,446,54
@@ -10561,7 +10561,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-FRA-17A-2003,France F17,Hard,32,S,20030922,10,102322,,LL,Philippe Pasquier,R,,FRA,29.6481861739,103646,,,Lars Uebel,R,,GER,22.9377138946,6-3 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,450,54
 2003-M-FU-FRA-17A-2003,France F17,Hard,32,S,20030922,11,103582,,,Michael Berrer,L,193,GER,23.2251882272,104211,,,Roman Valent,R,183,SUI,20.2080766598,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,452,53,401,72
 2003-M-FU-FRA-17A-2003,France F17,Hard,32,S,20030922,12,103592,4,,Jerome Haehnel,R,185,FRA,23.189596167,117577,,Q,Rene Hohm,U,,GER,26.4202600958,7-6(3) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,284,120,1428,1
-2003-M-FU-FRA-17A-2003,France F17,Hard,32,S,20030922,13,104542,,,Jo Wilfried Tsonga,R,188,FRA,18.431211499,104332,6,,Philipp Petzschner,R,185,GER,19.4962354552,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,374,79,334,97
+2003-M-FU-FRA-17A-2003,France F17,Hard,32,S,20030922,13,104542,,,Jo-Wilfried Tsonga,R,188,FRA,18.431211499,104332,6,,Philipp Petzschner,R,185,GER,19.4962354552,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,374,79,334,97
 2003-M-FU-FRA-17A-2003,France F17,Hard,32,S,20030922,14,106605,,WC,Baptiste Ranoldi,U,,FRA,,104792,,Q,Gael Monfils,R,193,FRA,17.0568104038,7-6(5) 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,1058,5,955,7
 2003-M-FU-FRA-17A-2003,France F17,Hard,32,S,20030922,15,107891,,Q,Olivier Vandewiele,R,,FRA,,109140,,LL,Aleksey Malajko,R,,GER,18.6776180698,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1428,1,1428,1
 2003-M-FU-FRA-17A-2003,France F17,Hard,32,S,20030922,16,103981,,LL,Romano Frantzen,L,,NED,21.4291581109,103148,,Q,Norbert Mazany,R,,HUN,25.5879534565,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,955,7
@@ -10571,14 +10571,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-FRA-17A-2003,France F17,Hard,32,S,20030922,20,104721,,WC,Josselin Ouanna,R,193,FRA,17.440109514,102763,8,,Benjamin Cassaigne,L,185,FRA,27.4715947981,7-6(7) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,601,27,346,94
 2003-M-FU-FRA-17A-2003,France F17,Hard,32,S,20030922,21,103208,,SE,Jean Michel Pequery,R,,FRA,25.3141683778,102322,,LL,Philippe Pasquier,R,,FRA,29.6481861739,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,421,63,,
 2003-M-FU-FRA-17A-2003,France F17,Hard,32,S,20030922,22,103582,,,Michael Berrer,L,193,GER,23.2251882272,103592,4,,Jerome Haehnel,R,185,FRA,23.189596167,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,452,53,284,120
-2003-M-FU-FRA-17A-2003,France F17,Hard,32,S,20030922,23,104542,,,Jo Wilfried Tsonga,R,188,FRA,18.431211499,106605,,WC,Baptiste Ranoldi,U,,FRA,,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,374,79,1058,5
+2003-M-FU-FRA-17A-2003,France F17,Hard,32,S,20030922,23,104542,,,Jo-Wilfried Tsonga,R,188,FRA,18.431211499,106605,,WC,Baptiste Ranoldi,U,,FRA,,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,374,79,1058,5
 2003-M-FU-FRA-17A-2003,France F17,Hard,32,S,20030922,24,107891,,Q,Olivier Vandewiele,R,,FRA,,103981,,LL,Romano Frantzen,L,,NED,21.4291581109,1-6 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1428,1,,
 2003-M-FU-FRA-17A-2003,France F17,Hard,32,S,20030922,25,103748,,,Jan Minar,R,,CZE,22.4531143053,103726,7,,Jean Christophe Faurel,R,175,FRA,22.546201232,7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,385,76,310,108
 2003-M-FU-FRA-17A-2003,France F17,Hard,32,S,20030922,26,104721,,WC,Josselin Ouanna,R,193,FRA,17.440109514,102630,3,,Slimane Saoudi,L,,ALG,28.167008898,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,601,27,252,137
 2003-M-FU-FRA-17A-2003,France F17,Hard,32,S,20030922,27,103208,,SE,Jean Michel Pequery,R,,FRA,25.3141683778,103582,,,Michael Berrer,L,193,GER,23.2251882272,6-7(2) 6-3 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,421,63,452,53
-2003-M-FU-FRA-17A-2003,France F17,Hard,32,S,20030922,28,104542,,,Jo Wilfried Tsonga,R,188,FRA,18.431211499,107891,,Q,Olivier Vandewiele,R,,FRA,,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,374,79,1428,1
+2003-M-FU-FRA-17A-2003,France F17,Hard,32,S,20030922,28,104542,,,Jo-Wilfried Tsonga,R,188,FRA,18.431211499,107891,,Q,Olivier Vandewiele,R,,FRA,,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,374,79,1428,1
 2003-M-FU-FRA-17A-2003,France F17,Hard,32,S,20030922,29,103748,,,Jan Minar,R,,CZE,22.4531143053,104721,,WC,Josselin Ouanna,R,193,FRA,17.440109514,6-2 7-5,3,SF,,,,,,,,,,,,,,,,,,,,385,76,601,27
-2003-M-FU-FRA-17A-2003,France F17,Hard,32,S,20030922,30,103208,,SE,Jean Michel Pequery,R,,FRA,25.3141683778,104542,,,Jo Wilfried Tsonga,R,188,FRA,18.431211499,7-5 7-5,3,SF,,,,,,,,,,,,,,,,,,,,421,63,374,79
+2003-M-FU-FRA-17A-2003,France F17,Hard,32,S,20030922,30,103208,,SE,Jean Michel Pequery,R,,FRA,25.3141683778,104542,,,Jo-Wilfried Tsonga,R,188,FRA,18.431211499,7-5 7-5,3,SF,,,,,,,,,,,,,,,,,,,,421,63,374,79
 2003-M-FU-FRA-17A-2003,France F17,Hard,32,S,20030922,31,103208,,SE,Jean Michel Pequery,R,,FRA,25.3141683778,103748,,,Jan Minar,R,,CZE,22.4531143053,7-5 7-6(9),3,F,,,,,,,,,,,,,,,,,,,,421,63,385,76
 2003-M-FU-GBR-10A-2003,Great Britain F10,Hard,32,S,20030922,1,111350,,Q,Matthew Brown,R,,GBR,17.0978781656,103754,1,,Mark Hilton,L,170,GBR,22.4229979466,5-7 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,410,67
 2003-M-FU-GBR-10A-2003,Great Britain F10,Hard,32,S,20030922,2,104047,,Q,Nicolo Cotto,L,,ITA,21.1006160164,104418,,WC,Matthew Smith,R,,GBR,19.0855578371,6-4 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,988,6,1006,6
@@ -10710,7 +10710,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-ESP-24A-2003,Spain F24,Hard,32,S,20030922,4,103568,5,,Valentin Sanon,R,,CIV,23.3401779603,104614,,SE,Javier Foronda Bolanos,U,,ESP,17.9822039699,7-6(4) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,431,59,934,8
 2003-M-FU-ESP-24A-2003,Spain F24,Hard,32,S,20030922,5,104452,4,,Arnaud Segodo,L,,BEN,18.8583162218,104395,,,Marcel Felder,R,,URU,19.2032854209,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,367,81,580,30
 2003-M-FU-ESP-24A-2003,Spain F24,Hard,32,S,20030922,6,103156,,Q,Alessandro Da Col,R,,ITA,25.5331964408,119208,,WC,Jose Enrique De La Torre Sanchez,U,,ESP,18.598220397,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,635,24,,
-2003-M-FU-ESP-24A-2003,Spain F24,Hard,32,S,20030922,7,103926,,WC,Daniel Munoz De La Nava,L,,ESP,21.6454483231,119206,,WC,Jesus Martinez Mozo,U,,ESP,16.4490075291,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,695,19,,
+2003-M-FU-ESP-24A-2003,Spain F24,Hard,32,S,20030922,7,103926,,WC,Daniel Munoz de la Nava,L,,ESP,21.6454483231,119206,,WC,Jesus Martinez Mozo,U,,ESP,16.4490075291,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,695,19,,
 2003-M-FU-ESP-24A-2003,Spain F24,Hard,32,S,20030922,8,104149,8,,Adrian Cruciat,R,,ROU,20.4791238877,103493,,,Eduardo Bohrer,R,,BRA,23.6796714579,7-6(5) 4-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,468,49,501,43
 2003-M-FU-ESP-24A-2003,Spain F24,Hard,32,S,20030922,9,103490,6,,Santiago Ventura,R,183,ESP,23.7125256674,103796,,SE,Marcos Jimenez Letrado,U,,ESP,22.2477754962,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,433,59,772,14
 2003-M-FU-ESP-24A-2003,Spain F24,Hard,32,S,20030922,10,102994,,Q,Esteban Carril,R,,ESP,26.3299110198,104384,,Q,Pablo Santos,R,183,ESP,19.2689938398,3-6 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,568,32,837,11
@@ -10723,16 +10723,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-ESP-24A-2003,Spain F24,Hard,32,S,20030922,17,104262,,,Flavio Cipolla,R,173,ITA,19.923340178,104091,1,,Miguel Angel Lopez Jaen,R,188,ESP,20.8131416838,4-6 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,510,42,293,114
 2003-M-FU-ESP-24A-2003,Spain F24,Hard,32,S,20030922,18,103364,,,Javier Genaro Martinez,R,,ESP,24.3942505133,103568,5,,Valentin Sanon,R,,CIV,23.3401779603,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,517,40,431,59
 2003-M-FU-ESP-24A-2003,Spain F24,Hard,32,S,20030922,19,103156,,Q,Alessandro Da Col,R,,ITA,25.5331964408,104452,4,,Arnaud Segodo,L,,BEN,18.8583162218,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,635,24,367,81
-2003-M-FU-ESP-24A-2003,Spain F24,Hard,32,S,20030922,20,103926,,WC,Daniel Munoz De La Nava,L,,ESP,21.6454483231,104149,8,,Adrian Cruciat,R,,ROU,20.4791238877,4-6 6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,695,19,468,49
+2003-M-FU-ESP-24A-2003,Spain F24,Hard,32,S,20030922,20,103926,,WC,Daniel Munoz de la Nava,L,,ESP,21.6454483231,104149,8,,Adrian Cruciat,R,,ROU,20.4791238877,4-6 6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,695,19,468,49
 2003-M-FU-ESP-24A-2003,Spain F24,Hard,32,S,20030922,21,103490,6,,Santiago Ventura,R,183,ESP,23.7125256674,102994,,Q,Esteban Carril,R,,ESP,26.3299110198,7-6(1) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,433,59,568,32
 2003-M-FU-ESP-24A-2003,Spain F24,Hard,32,S,20030922,22,103936,3,,Todor Enev,R,,BUL,21.6180698152,104532,,Q,Jose Checa Calvo,L,,ESP,18.4722792608,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,369,81,966,7
 2003-M-FU-ESP-24A-2003,Spain F24,Hard,32,S,20030922,23,103947,7,,Ivan Esquerdo,U,,ESP,21.5660506502,103636,,,Federico Torresi,R,,ITA,22.984257358,7-5 5-7 6-3,3,R16,,,,,,,,,,,,,,,,,,,,444,55,615,26
 2003-M-FU-ESP-24A-2003,Spain F24,Hard,32,S,20030922,24,103924,2,,Marc Fornell Mestres,R,,ESP,21.6536618754,103543,,,David Marrero,R,185,ESP,23.4551676934,7-6(5) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,337,96,548,35
 2003-M-FU-ESP-24A-2003,Spain F24,Hard,32,S,20030922,25,103364,,,Javier Genaro Martinez,R,,ESP,24.3942505133,104262,,,Flavio Cipolla,R,173,ITA,19.923340178,6-1 2-6 7-5,3,QF,,,,,,,,,,,,,,,,,,,,517,40,510,42
-2003-M-FU-ESP-24A-2003,Spain F24,Hard,32,S,20030922,26,103926,,WC,Daniel Munoz De La Nava,L,,ESP,21.6454483231,103156,,Q,Alessandro Da Col,R,,ITA,25.5331964408,6-3 RET,3,QF,,,,,,,,,,,,,,,,,,,,695,19,635,24
+2003-M-FU-ESP-24A-2003,Spain F24,Hard,32,S,20030922,26,103926,,WC,Daniel Munoz de la Nava,L,,ESP,21.6454483231,103156,,Q,Alessandro Da Col,R,,ITA,25.5331964408,6-3 RET,3,QF,,,,,,,,,,,,,,,,,,,,695,19,635,24
 2003-M-FU-ESP-24A-2003,Spain F24,Hard,32,S,20030922,27,103936,3,,Todor Enev,R,,BUL,21.6180698152,103490,6,,Santiago Ventura,R,183,ESP,23.7125256674,7-6(12) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,369,81,433,59
 2003-M-FU-ESP-24A-2003,Spain F24,Hard,32,S,20030922,28,103924,2,,Marc Fornell Mestres,R,,ESP,21.6536618754,103947,7,,Ivan Esquerdo,U,,ESP,21.5660506502,7-6(5) 6-0,3,QF,,,,,,,,,,,,,,,,,,,,337,96,444,55
-2003-M-FU-ESP-24A-2003,Spain F24,Hard,32,S,20030922,29,103364,,,Javier Genaro Martinez,R,,ESP,24.3942505133,103926,,WC,Daniel Munoz De La Nava,L,,ESP,21.6454483231,7-5 7-6(5),3,SF,,,,,,,,,,,,,,,,,,,,517,40,695,19
+2003-M-FU-ESP-24A-2003,Spain F24,Hard,32,S,20030922,29,103364,,,Javier Genaro Martinez,R,,ESP,24.3942505133,103926,,WC,Daniel Munoz de la Nava,L,,ESP,21.6454483231,7-5 7-6(5),3,SF,,,,,,,,,,,,,,,,,,,,517,40,695,19
 2003-M-FU-ESP-24A-2003,Spain F24,Hard,32,S,20030922,30,103936,3,,Todor Enev,R,,BUL,21.6180698152,103924,2,,Marc Fornell Mestres,R,,ESP,21.6536618754,7-5 6-4,3,SF,,,,,,,,,,,,,,,,,,,,369,81,337,96
 2003-M-FU-ESP-24A-2003,Spain F24,Hard,32,S,20030922,31,103936,3,,Todor Enev,R,,BUL,21.6180698152,103364,,,Javier Genaro Martinez,R,,ESP,24.3942505133,6-1 6-1,3,F,,,,,,,,,,,,,,,,,,,,369,81,517,40
 2003-M-FU-SWE-02A-2003,Sweden F2,Hard,32,S,20030922,1,103623,,Q,Jacob Adaktusson,R,,SWE,23.0581793292,104026,1,,Joachim Johansson,R,198,SWE,21.2265571526,7-6(2) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,595,28,179,203
@@ -11083,7 +11083,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-ESP-25A-2003,Spain F25,Hard,32,S,20030929,13,104149,5,,Adrian Cruciat,R,,ROU,20.4982888433,104176,,LL,Ricardo Soriano Gallo,U,,ESP,20.4024640657,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,469,49,1257,3
 2003-M-FU-ESP-25A-2003,Spain F25,Hard,32,S,20030929,14,104572,,LL,Eric Scherer,R,,GER,18.2751540041,102519,,,Marcio Carlsson,R,175,BRA,28.6789869952,3-6 6-4 3-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,1135,4,591,29
 2003-M-FU-ESP-25A-2003,Spain F25,Hard,32,S,20030929,15,104054,,WC,Daniel Monedero,R,,ESP,21.0814510609,104629,,WC,Adrian Menendez Maceiras,R,,ESP,17.9192334018,4-6 6-3 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,1442,1,1442,1
-2003-M-FU-ESP-25A-2003,Spain F25,Hard,32,S,20030929,16,103936,2,,Todor Enev,R,,BUL,21.6372347707,103926,,,Daniel Munoz De La Nava,L,,ESP,21.6646132786,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,362,86,688,20
+2003-M-FU-ESP-25A-2003,Spain F25,Hard,32,S,20030929,16,103936,2,,Todor Enev,R,,BUL,21.6372347707,103926,,,Daniel Munoz de la Nava,L,,ESP,21.6646132786,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,362,86,688,20
 2003-M-FU-ESP-25A-2003,Spain F25,Hard,32,S,20030929,17,103924,1,SE,Marc Fornell Mestres,R,,ESP,21.6728268309,104501,,,Xin Yuan Yu,L,,CHN,18.6228610541,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,367,84,569,31
 2003-M-FU-ESP-25A-2003,Spain F25,Hard,32,S,20030929,18,103927,,Q,Jose Carlos Garcia Sanchez,U,,ESP,21.6646132786,103493,6,,Eduardo Bohrer,R,,BRA,23.6988364134,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1109,4,486,46
 2003-M-FU-ESP-25A-2003,Spain F25,Hard,32,S,20030929,19,104242,3,,Jan Masik,R,,CZE,20.0492813142,104395,,,Marcel Felder,R,,URU,19.2224503765,3-6 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,419,63,575,31
@@ -11163,7 +11163,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-CHI-05A-2003,Chile F5,Clay,32,S,20031006,31,103701,3,,Diego Hartfield,R,185,ARG,22.6776180698,104314,7,,Brian Dabul,L,170,ARG,19.613963039,6-4 6-4,3,F,,,,,,,,,,,,,,,,,,,,411,65,568,32
 2003-M-FU-COL-03A-2003,Colombia F1,Clay,32,S,20031006,1,103336,1,,Marko Neunteibl,U,,AUT,24.5749486653,104253,,,Juan Martin Aranguren,R,,ARG,19.9972621492,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,274,128,802,13
 2003-M-FU-COL-03A-2003,Colombia F1,Clay,32,S,20031006,2,103809,,,Diogo Cruz,U,,BRA,22.2176591376,104113,,,Carlos Salamanca,L,196,COL,20.7227926078,6-3 3-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,929,8,858,10
-2003-M-FU-COL-03A-2003,Colombia F1,Clay,32,S,20031006,3,103926,,,Daniel Munoz De La Nava,L,,ESP,21.6837782341,118734,,Q,Carlos Joya,U,,COL,29.3552361396,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,625,26,,
+2003-M-FU-COL-03A-2003,Colombia F1,Clay,32,S,20031006,3,103926,,,Daniel Munoz de la Nava,L,,ESP,21.6837782341,118734,,Q,Carlos Joya,U,,COL,29.3552361396,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,625,26,,
 2003-M-FU-COL-03A-2003,Colombia F1,Clay,32,S,20031006,4,103850,7,,Sebastian Decoud,L,178,ARG,22.0479123888,104438,,Q,Oscar Rodriguez Sanchez,U,,COL,18.9952087611,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,493,45,979,6
 2003-M-FU-COL-03A-2003,Colombia F1,Clay,32,S,20031006,5,104027,4,,Pablo Gonzalez,R,178,COL,21.2621492129,104260,,,Johny De Leon,R,,ECU,19.9698836413,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,382,77,1061,5
 2003-M-FU-COL-03A-2003,Colombia F1,Clay,32,S,20031006,6,105053,,WC,Santiago Giraldo,R,188,COL,15.8576317591,109532,,WC,Erasmo Vazquez,R,,MEX,,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -11178,7 +11178,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-COL-03A-2003,Colombia F1,Clay,32,S,20031006,15,104199,,Q,Sebastian Quintero,R,,COL,20.3394934976,104096,,Q,Sat Galan,R,,COL,20.8240930869,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1132,4,1341,2
 2003-M-FU-COL-03A-2003,Colombia F1,Clay,32,S,20031006,16,103590,2,,Michael Quintero,R,,COL,23.2361396304,109518,,WC,Christopher Clayton,U,,USA,,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,351,91,1442,1
 2003-M-FU-COL-03A-2003,Colombia F1,Clay,32,S,20031006,17,103336,1,,Marko Neunteibl,U,,AUT,24.5749486653,103809,,,Diogo Cruz,U,,BRA,22.2176591376,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,274,128,929,8
-2003-M-FU-COL-03A-2003,Colombia F1,Clay,32,S,20031006,18,103850,7,,Sebastian Decoud,L,178,ARG,22.0479123888,103926,,,Daniel Munoz De La Nava,L,,ESP,21.6837782341,6-4 1-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,493,45,625,26
+2003-M-FU-COL-03A-2003,Colombia F1,Clay,32,S,20031006,18,103850,7,,Sebastian Decoud,L,178,ARG,22.0479123888,103926,,,Daniel Munoz de la Nava,L,,ESP,21.6837782341,6-4 1-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,493,45,625,26
 2003-M-FU-COL-03A-2003,Colombia F1,Clay,32,S,20031006,19,104027,4,,Pablo Gonzalez,R,178,COL,21.2621492129,105053,,WC,Santiago Giraldo,R,188,COL,15.8576317591,7-5 6-0,3,R16,,,,,,,,,,,,,,,,,,,,382,77,,
 2003-M-FU-COL-03A-2003,Colombia F1,Clay,32,S,20031006,20,103689,8,,Guillermo Carry,L,,ARG,22.7214236824,103334,,,Ronaldo Carvalho,R,,BRA,24.6023271732,6-4 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,512,42,553,35
 2003-M-FU-COL-03A-2003,Colombia F1,Clay,32,S,20031006,21,103742,,,Diego Cristin,R,,ARG,22.5023956194,104474,,Q,Leonardo Kirche,R,188,BRA,18.7515400411,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1061,5,1153,4
@@ -11383,7 +11383,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-COL-04A-2003,Colombia F2,Clay,32,S,20031013,3,104438,,Q,Oscar Rodriguez Sanchez,U,,COL,19.0143737166,104857,,WC,Robert Farah,R,193,COL,16.7282683094,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,987,6,1172,3
 2003-M-FU-COL-04A-2003,Colombia F2,Clay,32,S,20031013,4,104021,8,,Marco Mirnegg,R,180,AUT,21.3032169747,103742,,Q,Diego Cristin,R,,ARG,22.5215605749,1-6 7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,463,49,1066,5
 2003-M-FU-COL-04A-2003,Colombia F2,Clay,32,S,20031013,5,104136,3,,Santiago Gonzalez,R,190,MEX,20.6324435318,105053,,WC,Santiago Giraldo,R,188,COL,15.8767967146,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,318,102,,
-2003-M-FU-COL-04A-2003,Colombia F2,Clay,32,S,20031013,6,103926,,,Daniel Munoz De La Nava,L,,ESP,21.7029431896,103689,,,Guillermo Carry,L,,ARG,22.7405886379,6-3 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,628,26,508,42
+2003-M-FU-COL-04A-2003,Colombia F2,Clay,32,S,20031013,6,103926,,,Daniel Munoz de la Nava,L,,ESP,21.7029431896,103689,,,Guillermo Carry,L,,ARG,22.7405886379,6-3 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,628,26,508,42
 2003-M-FU-COL-04A-2003,Colombia F2,Clay,32,S,20031013,7,103334,,,Ronaldo Carvalho,R,,BRA,24.6214921287,103021,,,Ricardo Schlachter,R,,BRA,26.2669404517,6-3 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,594,30,720,18
 2003-M-FU-COL-04A-2003,Colombia F2,Clay,32,S,20031013,8,104122,5,,Carlos Berlocq,R,183,ARG,20.6899383984,103357,,,Javier Taborga,R,,BOL,24.4955509925,7-6(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,350,91,564,33
 2003-M-FU-COL-04A-2003,Colombia F2,Clay,32,S,20031013,9,104253,,,Juan Martin Aranguren,R,,ARG,20.0164271047,103883,7,,Lucas Engel,U,,BRA,21.864476386,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,805,13,432,60
@@ -11396,14 +11396,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-COL-04A-2003,Colombia F2,Clay,32,S,20031013,16,104268,2,,Alejandro Falla,L,185,COL,19.9123887748,104260,,Q,Johny De Leon,R,,ECU,19.9890485969,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,308,109,1066,5
 2003-M-FU-COL-04A-2003,Colombia F2,Clay,32,S,20031013,17,109518,,Q,Christopher Clayton,U,,USA,,103336,1,,Marko Neunteibl,U,,AUT,24.5941136208,2-6 7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,272,127
 2003-M-FU-COL-04A-2003,Colombia F2,Clay,32,S,20031013,18,104021,8,,Marco Mirnegg,R,180,AUT,21.3032169747,104438,,Q,Oscar Rodriguez Sanchez,U,,COL,19.0143737166,6-4 3-6 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,463,49,987,6
-2003-M-FU-COL-04A-2003,Colombia F2,Clay,32,S,20031013,19,103926,,,Daniel Munoz De La Nava,L,,ESP,21.7029431896,104136,3,,Santiago Gonzalez,R,190,MEX,20.6324435318,7-6(5) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,628,26,318,102
+2003-M-FU-COL-04A-2003,Colombia F2,Clay,32,S,20031013,19,103926,,,Daniel Munoz de la Nava,L,,ESP,21.7029431896,104136,3,,Santiago Gonzalez,R,190,MEX,20.6324435318,7-6(5) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,628,26,318,102
 2003-M-FU-COL-04A-2003,Colombia F2,Clay,32,S,20031013,20,103334,,,Ronaldo Carvalho,R,,BRA,24.6214921287,104122,5,,Carlos Berlocq,R,183,ARG,20.6899383984,7-6(5) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,594,30,350,91
 2003-M-FU-COL-04A-2003,Colombia F2,Clay,32,S,20031013,21,104199,,Q,Sebastian Quintero,R,,COL,20.3586584531,104253,,,Juan Martin Aranguren,R,,ARG,20.0164271047,7-6(5) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1136,4,805,13
 2003-M-FU-COL-04A-2003,Colombia F2,Clay,32,S,20031013,22,103590,4,,Michael Quintero,R,,COL,23.2553045859,104698,,Q,Diego Cubas,R,,BRA,17.582477755,7-5 2-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,357,89,1254,3
 2003-M-FU-COL-04A-2003,Colombia F2,Clay,32,S,20031013,23,103987,,,Alessandro Camarco,R,,BRA,21.4674880219,104027,6,,Pablo Gonzalez,R,178,COL,21.2813141684,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,543,37,382,77
 2003-M-FU-COL-04A-2003,Colombia F2,Clay,32,S,20031013,24,104268,2,,Alejandro Falla,L,185,COL,19.9123887748,104008,,,Carlos Avellan,R,,ECU,21.3689253936,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,308,109,595,30
 2003-M-FU-COL-04A-2003,Colombia F2,Clay,32,S,20031013,25,104021,8,,Marco Mirnegg,R,180,AUT,21.3032169747,109518,,Q,Christopher Clayton,U,,USA,,6-1 5-7 6-1,3,QF,,,,,,,,,,,,,,,,,,,,463,49,,
-2003-M-FU-COL-04A-2003,Colombia F2,Clay,32,S,20031013,26,103334,,,Ronaldo Carvalho,R,,BRA,24.6214921287,103926,,,Daniel Munoz De La Nava,L,,ESP,21.7029431896,6-3 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,594,30,628,26
+2003-M-FU-COL-04A-2003,Colombia F2,Clay,32,S,20031013,26,103334,,,Ronaldo Carvalho,R,,BRA,24.6214921287,103926,,,Daniel Munoz de la Nava,L,,ESP,21.7029431896,6-3 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,594,30,628,26
 2003-M-FU-COL-04A-2003,Colombia F2,Clay,32,S,20031013,27,103590,4,,Michael Quintero,R,,COL,23.2553045859,104199,,Q,Sebastian Quintero,R,,COL,20.3586584531,4-6 6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,357,89,1136,4
 2003-M-FU-COL-04A-2003,Colombia F2,Clay,32,S,20031013,28,104268,2,,Alejandro Falla,L,185,COL,19.9123887748,103987,,,Alessandro Camarco,R,,BRA,21.4674880219,7-5 4-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,308,109,543,37
 2003-M-FU-COL-04A-2003,Colombia F2,Clay,32,S,20031013,29,104021,8,,Marco Mirnegg,R,180,AUT,21.3032169747,103334,,,Ronaldo Carvalho,R,,BRA,24.6214921287,6-7(1) 7-6(8) 7-5,3,SF,,,,,,,,,,,,,,,,,,,,463,49,594,30
@@ -11782,7 +11782,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-FRA-21A-2003,France F21,Hard,32,S,20031020,7,102939,,WC,Jean Baptiste Perlant,R,190,FRA,26.6557152635,104023,,LL,Nicolas Renavand,R,,FRA,21.3196440794,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,609,28,546,37
 2003-M-FU-FRA-21A-2003,France F21,Hard,32,S,20031020,8,104468,,WC,Gilles Simon,R,183,FRA,18.8117727584,104534,5,,Dudi Sela,R,175,ISR,18.5434633812,7-6(4) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,566,34,260,134
 2003-M-FU-FRA-21A-2003,France F21,Hard,32,S,20031020,9,102967,,,Marc Gicquel,R,188,FRA,26.5571526352,103527,8,,Julien Jeanpierre,R,188,FRA,23.6112251882,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,377,81,273,127
-2003-M-FU-FRA-21A-2003,France F21,Hard,32,S,20031020,10,104542,,,Jo Wilfried Tsonga,R,188,FRA,18.507871321,103991,,SE,Boy Wijnmalen,U,,NED,21.4647501711,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,371,82,689,20
+2003-M-FU-FRA-21A-2003,France F21,Hard,32,S,20031020,10,104542,,,Jo-Wilfried Tsonga,R,188,FRA,18.507871321,103991,,SE,Boy Wijnmalen,U,,NED,21.4647501711,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,371,82,689,20
 2003-M-FU-FRA-21A-2003,France F21,Hard,32,S,20031020,11,103748,,,Jan Minar,R,,CZE,22.5297741273,101806,,,Marc Kevin Goellner,R,196,GER,33.0759753593,4-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,331,96,317,103
 2003-M-FU-FRA-21A-2003,France F21,Hard,32,S,20031020,12,103893,4,,Paolo Lorenzi,R,183,ITA,21.8453114305,104351,,Q,Benjamin Dracos,U,,FRA,19.5071868583,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,255,140,,
 2003-M-FU-FRA-21A-2003,France F21,Hard,32,S,20031020,13,104252,6,,Florian Mayer,R,190,GER,20.0410677618,102920,,,Diego Hipperdinger,R,,ESP,26.7542778919,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,258,137,341,92
@@ -11793,7 +11793,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-FRA-21A-2003,France F21,Hard,32,S,20031020,18,103003,7,,Jean Francois Bachelot,R,183,FRA,26.3572895277,104273,,,Edouard Roger Vasselin,R,188,FRA,19.8932238193,6-3 3-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,268,129,300,111
 2003-M-FU-FRA-21A-2003,France F21,Hard,32,S,20031020,19,103565,3,,Stephane Robert,R,185,FRA,23.4250513347,103691,,Q,Baptiste Dupuy,L,,FRA,22.7570157426,3-6 7-6(2) 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,233,155,673,22
 2003-M-FU-FRA-21A-2003,France F21,Hard,32,S,20031020,20,102939,,WC,Jean Baptiste Perlant,R,190,FRA,26.6557152635,104468,,WC,Gilles Simon,R,183,FRA,18.8117727584,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,609,28,566,34
-2003-M-FU-FRA-21A-2003,France F21,Hard,32,S,20031020,21,102967,,,Marc Gicquel,R,188,FRA,26.5571526352,104542,,,Jo Wilfried Tsonga,R,188,FRA,18.507871321,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,377,81,371,82
+2003-M-FU-FRA-21A-2003,France F21,Hard,32,S,20031020,21,102967,,,Marc Gicquel,R,188,FRA,26.5571526352,104542,,,Jo-Wilfried Tsonga,R,188,FRA,18.507871321,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,377,81,371,82
 2003-M-FU-FRA-21A-2003,France F21,Hard,32,S,20031020,22,103748,,,Jan Minar,R,,CZE,22.5297741273,103893,4,,Paolo Lorenzi,R,183,ITA,21.8453114305,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,331,96,255,140
 2003-M-FU-FRA-21A-2003,France F21,Hard,32,S,20031020,23,102406,,SE,Thomas Dupre,R,,FRA,29.363449692,104252,6,,Florian Mayer,R,190,GER,20.0410677618,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,629,26,258,137
 2003-M-FU-FRA-21A-2003,France F21,Hard,32,S,20031020,24,103722,2,,Florent Serra,R,180,FRA,22.6392881588,104049,,WC,Gary Lugassy,L,,FRA,21.1663244353,7-6(5) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,226,158,435,59
@@ -13398,7 +13398,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-ESP-29A-2003,Spain F29,Clay,32,S,20031201,12,102828,3,,Roberto Menendez,R,,ESP,27.394934976,118592,,Q,Jordi Gil Fernandez,U,,ESP,20.3586584531,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,340,92,,
 2003-M-FU-ESP-29A-2003,Spain F29,Clay,32,S,20031201,13,103490,7,,Santiago Ventura,R,183,ESP,23.9041752225,109508,,WC,Angel Garcia Lopez,R,,MEX,22.7515400411,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,419,64,,
 2003-M-FU-ESP-29A-2003,Spain F29,Clay,32,S,20031201,14,104739,,Q,Guillermo Alcaide,R,188,ESP,17.5140314853,119216,,WC,Borja Vazquez Gonzalez,U,,ESP,31.8247775496,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2003-M-FU-ESP-29A-2003,Spain F29,Clay,32,S,20031201,15,103926,,,Daniel Munoz De La Nava,L,,ESP,21.8370978782,104470,,,Komlavi Loglo,R,183,TOG,18.9185489391,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,594,30,693,19
+2003-M-FU-ESP-29A-2003,Spain F29,Clay,32,S,20031201,15,103926,,,Daniel Munoz de la Nava,L,,ESP,21.8370978782,104470,,,Komlavi Loglo,R,183,TOG,18.9185489391,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,594,30,693,19
 2003-M-FU-ESP-29A-2003,Spain F29,Clay,32,S,20031201,16,104062,,,Alejandro Vargas Aboy,U,,ESP,21.1909650924,103868,2,,Ivan Navarro,R,183,ESP,22.1163586585,6-2 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,489,45,280,121
 2003-M-FU-ESP-29A-2003,Spain F29,Clay,32,S,20031201,17,102167,1,,Juan Albert Viloca Puig,R,185,ESP,30.8692676249,103796,,,Marcos Jimenez Letrado,U,,ESP,22.4394250513,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,237,150,546,36
 2003-M-FU-ESP-29A-2003,Spain F29,Clay,32,S,20031201,18,104228,,,Guillem Burniol,R,,ESP,20.2984257358,103648,,Q,John Thivolle,U,,FRA,23.0800821355,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,663,22,884,9
@@ -13407,7 +13407,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-ESP-29A-2003,Spain F29,Clay,32,S,20031201,21,102792,,Q,Carlos Castellanos,R,,ESP,27.537303217,103448,5,,Gabriel Trujillo Soler,R,,ESP,24.1697467488,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1239,3,392,72
 2003-M-FU-ESP-29A-2003,Spain F29,Clay,32,S,20031201,22,102828,3,,Roberto Menendez,R,,ESP,27.394934976,104099,,,Israel Matos Gil,U,,ESP,20.9637234771,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,340,92,626,27
 2003-M-FU-ESP-29A-2003,Spain F29,Clay,32,S,20031201,23,103490,7,,Santiago Ventura,R,183,ESP,23.9041752225,104739,,Q,Guillermo Alcaide,R,188,ESP,17.5140314853,7-5 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,419,64,,
-2003-M-FU-ESP-29A-2003,Spain F29,Clay,32,S,20031201,24,104062,,,Alejandro Vargas Aboy,U,,ESP,21.1909650924,103926,,,Daniel Munoz De La Nava,L,,ESP,21.8370978782,6-3 1-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,489,45,594,30
+2003-M-FU-ESP-29A-2003,Spain F29,Clay,32,S,20031201,24,104062,,,Alejandro Vargas Aboy,U,,ESP,21.1909650924,103926,,,Daniel Munoz de la Nava,L,,ESP,21.8370978782,6-3 1-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,489,45,594,30
 2003-M-FU-ESP-29A-2003,Spain F29,Clay,32,S,20031201,25,102167,1,,Juan Albert Viloca Puig,R,185,ESP,30.8692676249,104228,,,Guillem Burniol,R,,ESP,20.2984257358,6-6 DEF,3,QF,,,,,,,,,,,,,,,,,,,,237,150,663,22
 2003-M-FU-ESP-29A-2003,Spain F29,Clay,32,S,20031201,26,102153,6,,German Puentes,R,173,ESP,30.9514031485,103029,,,Mehdi Tahiri,R,183,MAR,26.3436002738,6-1 7-5,3,QF,,,,,,,,,,,,,,,,,,,,412,66,618,27
 2003-M-FU-ESP-29A-2003,Spain F29,Clay,32,S,20031201,27,102828,3,,Roberto Menendez,R,,ESP,27.394934976,102792,,Q,Carlos Castellanos,R,,ESP,27.537303217,6-1 7-6(2),3,QF,,,,,,,,,,,,,,,,,,,,340,92,1239,3
@@ -13450,7 +13450,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-ESP-30A-2003,Spain F30,Hard,32,S,20031208,2,104614,,Q,Javier Foronda Bolanos,U,,ESP,18.1930184805,104161,,,Tomislav Peric,R,,CRO,20.6625598905,7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,816,12,625,27
 2003-M-FU-ESP-30A-2003,Spain F30,Hard,32,S,20031208,3,104557,,Q,Andis Juska,R,,LAT,18.546201232,110669,,WC,Jorge Vazquez Catoira,U,,ESP,18.1629021218,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,947,7,,
 2003-M-FU-ESP-30A-2003,Spain F30,Hard,32,S,20031208,4,102994,7,,Esteban Carril,R,,ESP,26.5407255305,104516,,Q,Arnau Brugues Davi,L,183,ESP,18.7597535934,4-6 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,481,48,1342,2
-2003-M-FU-ESP-30A-2003,Spain F30,Hard,32,S,20031208,5,103926,,,Daniel Munoz De La Nava,L,,ESP,21.8562628337,104452,4,,Arnaud Segodo,L,,BEN,19.0691307324,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,595,30,360,85
+2003-M-FU-ESP-30A-2003,Spain F30,Hard,32,S,20031208,5,103926,,,Daniel Munoz de la Nava,L,,ESP,21.8562628337,104452,4,,Arnaud Segodo,L,,BEN,19.0691307324,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,595,30,360,85
 2003-M-FU-ESP-30A-2003,Spain F30,Hard,32,S,20031208,6,104779,,Q,Jamie Baker,R,,GBR,17.3415468857,103029,,,Mehdi Tahiri,R,183,MAR,26.3627652293,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,620,27
 2003-M-FU-ESP-30A-2003,Spain F30,Hard,32,S,20031208,7,104207,,Q,Tony Holzinger,R,,GER,20.4490075291,104149,,,Adrian Cruciat,R,,ROU,20.6899383984,3-6 7-6(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1114,4,559,35
 2003-M-FU-ESP-30A-2003,Spain F30,Hard,32,S,20031208,8,104049,5,,Gary Lugassy,L,,FRA,21.3004791239,103796,,,Marcos Jimenez Letrado,U,,ESP,22.4585900068,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,379,78,544,36
@@ -13464,14 +13464,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-M-FU-ESP-30A-2003,Spain F30,Hard,32,S,20031208,16,103868,2,,Ivan Navarro,R,183,ESP,22.135523614,104183,,,Alexander Flock,R,190,GER,20.5667351129,6-7(5) 7-6(2) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,265,130,732,17
 2003-M-FU-ESP-30A-2003,Spain F30,Hard,32,S,20031208,17,104597,1,WC,Nicolas Almagro,R,183,ESP,18.2970568104,104614,,Q,Javier Foronda Bolanos,U,,ESP,18.1930184805,7-6(4) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,153,250,816,12
 2003-M-FU-ESP-30A-2003,Spain F30,Hard,32,S,20031208,18,104557,,Q,Andis Juska,R,,LAT,18.546201232,102994,7,,Esteban Carril,R,,ESP,26.5407255305,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,947,7,481,48
-2003-M-FU-ESP-30A-2003,Spain F30,Hard,32,S,20031208,19,103926,,,Daniel Munoz De La Nava,L,,ESP,21.8562628337,104779,,Q,Jamie Baker,R,,GBR,17.3415468857,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,595,30,,
+2003-M-FU-ESP-30A-2003,Spain F30,Hard,32,S,20031208,19,103926,,,Daniel Munoz de la Nava,L,,ESP,21.8562628337,104779,,Q,Jamie Baker,R,,GBR,17.3415468857,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,595,30,,
 2003-M-FU-ESP-30A-2003,Spain F30,Hard,32,S,20031208,20,104049,5,,Gary Lugassy,L,,FRA,21.3004791239,104207,,Q,Tony Holzinger,R,,GER,20.4490075291,7-6(4) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,379,78,1114,4
 2003-M-FU-ESP-30A-2003,Spain F30,Hard,32,S,20031208,21,102658,8,,Marc Bauer,R,,FRA,28.2080766598,102506,,,Quino Munoz,R,178,ESP,28.9253935661,7-6(4) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,495,44,696,19
 2003-M-FU-ESP-30A-2003,Spain F30,Hard,32,S,20031208,22,104228,,,Guillem Burniol,R,,ESP,20.3175906913,103927,,Q,Jose Carlos Garcia Sanchez,U,,ESP,21.8562628337,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,665,22,950,7
 2003-M-FU-ESP-30A-2003,Spain F30,Hard,32,S,20031208,23,104023,,,Nicolas Renavand,R,,FRA,21.453798768,104054,,,Daniel Monedero,R,,ESP,21.273100616,7-6(1) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,538,37,760,15
 2003-M-FU-ESP-30A-2003,Spain F30,Hard,32,S,20031208,24,104099,,,Israel Matos Gil,U,,ESP,20.9828884326,103868,2,,Ivan Navarro,R,183,ESP,22.135523614,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,627,27,265,130
 2003-M-FU-ESP-30A-2003,Spain F30,Hard,32,S,20031208,25,104557,,Q,Andis Juska,R,,LAT,18.546201232,104597,1,WC,Nicolas Almagro,R,183,ESP,18.2970568104,3-6 6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,947,7,153,250
-2003-M-FU-ESP-30A-2003,Spain F30,Hard,32,S,20031208,26,104049,5,,Gary Lugassy,L,,FRA,21.3004791239,103926,,,Daniel Munoz De La Nava,L,,ESP,21.8562628337,6-2 4-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,379,78,595,30
+2003-M-FU-ESP-30A-2003,Spain F30,Hard,32,S,20031208,26,104049,5,,Gary Lugassy,L,,FRA,21.3004791239,103926,,,Daniel Munoz de la Nava,L,,ESP,21.8562628337,6-2 4-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,379,78,595,30
 2003-M-FU-ESP-30A-2003,Spain F30,Hard,32,S,20031208,27,104228,,,Guillem Burniol,R,,ESP,20.3175906913,102658,8,,Marc Bauer,R,,FRA,28.2080766598,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,665,22,495,44
 2003-M-FU-ESP-30A-2003,Spain F30,Hard,32,S,20031208,28,104023,,,Nicolas Renavand,R,,FRA,21.453798768,104099,,,Israel Matos Gil,U,,ESP,20.9828884326,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,538,37,627,27
 2003-M-FU-ESP-30A-2003,Spain F30,Hard,32,S,20031208,29,104049,5,,Gary Lugassy,L,,FRA,21.3004791239,104557,,Q,Andis Juska,R,,LAT,18.546201232,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,379,78,947,7

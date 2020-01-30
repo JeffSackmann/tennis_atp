@@ -7,8 +7,8 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1973-580,Australian Open,Grass,64,G,19721226,6,100025,9,,Barry Phillips Moore,R,173,AUS,35.4661190965,100003,,,Frank Sedgman,R,,AUS,45.234770705,6-4 4-6 6-2,5,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-580,Australian Open,Grass,64,G,19721226,7,107760,,,Max Senior,R,,AUS,,100273,,,Kim Warwick,R,183,AUS,20.7173169062,6-4 3-6 14-12,5,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-580,Australian Open,Grass,64,G,19721226,8,100257,,,Ross Case,R,,AUS,21.1526351814,100346,,,Paul Kronk,R,,AUS,18.2614647502,6-4 6-3,5,R64,,,,,,,,,,,,,,,,,,,,,,,
-1973-580,Australian Open,Grass,64,G,19721226,9,100278,,,Frank Gebert,R,,GER,20.5420944559,100234,,,Allan Mcdonald,R,,AUS,21.8234086242,7-6 4-6 6-3,5,R64,,,,,,,,,,,,,,,,,,,,,,,
-1973-580,Australian Open,Grass,64,G,19721226,10,100085,,,Hans Jaochim Plotz,R,,GER,28.8323066393,100271,,,Jean Francois Caujolle,L,,FRA,20.7392197125,6-0 3-6 7-5,5,R64,,,,,,,,,,,,,,,,,,,,,,,
+1973-580,Australian Open,Grass,64,G,19721226,9,100278,,,Frank Gebert,R,,GER,20.5420944559,100234,,,Allan McDonald,R,,AUS,21.8234086242,7-6 4-6 6-3,5,R64,,,,,,,,,,,,,,,,,,,,,,,
+1973-580,Australian Open,Grass,64,G,19721226,10,100085,,,Hans Joachim Ploetz,R,,GER,28.8323066393,100271,,,Jean Francois Caujolle,L,,FRA,20.7392197125,6-0 3-6 7-5,5,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-580,Australian Open,Grass,64,G,19721226,11,100382,,,Chris Kachel,R,,AUS,17.5222450376,100079,,,Bill Bowrey,R,,AUS,29.0047912389,6-2 6-3,5,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-580,Australian Open,Grass,64,G,19721226,12,100135,12,,Onny Parun,R,188,NZL,25.7002053388,100176,,,Hans Kary,L,,AUT,23.8384668036,6-4 7-6,5,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-580,Australian Open,Grass,64,G,19721226,13,100185,11,,Patrick Proisy,R,180,FRA,23.2936344969,108525,,,William Durham,R,,AUS,,7-6 3-6 6-3,5,R64,,,,,,,,,,,,,,,,,,,,,,,
@@ -29,7 +29,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1973-580,Australian Open,Grass,64,G,19721226,28,100193,,,Wanaro Ngodrella,R,,FRA,23.1868583162,100025,9,,Barry Phillips Moore,R,173,AUS,35.4661190965,6-4 7-6 7-6,5,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-580,Australian Open,Grass,64,G,19721226,29,100092,4,,Alex Metreveli,R,,RUS,28.1478439425,107760,,,Max Senior,R,,AUS,,6-2 4-6 6-2 6-2,5,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-580,Australian Open,Grass,64,G,19721226,30,100257,,,Ross Case,R,,AUS,21.1526351814,100278,,,Frank Gebert,R,,GER,20.5420944559,6-4 3-6 6-4 6-2,5,R32,,,,,,,,,,,,,,,,,,,,,,,
-1973-580,Australian Open,Grass,64,G,19721226,31,100219,5,,Geoff Masters,R,,AUS,22.2696783025,100085,,,Hans Jaochim Plotz,R,,GER,28.8323066393,6-2 6-3 6-1,5,R32,,,,,,,,,,,,,,,,,,,,,,,
+1973-580,Australian Open,Grass,64,G,19721226,31,100219,5,,Geoff Masters,R,,AUS,22.2696783025,100085,,,Hans Joachim Ploetz,R,,GER,28.8323066393,6-2 6-3 6-1,5,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-580,Australian Open,Grass,64,G,19721226,32,100135,12,,Onny Parun,R,188,NZL,25.7002053388,100382,,,Chris Kachel,R,,AUS,17.5222450376,6-1 6-2 6-2,5,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-580,Australian Open,Grass,64,G,19721226,33,100185,11,,Patrick Proisy,R,180,FRA,23.2936344969,108519,,,William Coghlan,R,,AUS,,6-3 6-3 6-4,5,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-580,Australian Open,Grass,64,G,19721226,34,100199,,,Patrice Dominguez,L,173,FRA,22.9541409993,100244,6,,John Alexander,R,190,AUS,21.4811772758,7-6 6-7 3-6 6-3 11-9,5,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -1010,7 +1010,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1973-410,Monte Carlo,Clay,48,A,19730414,6,100170,,,Bernard Mignot,R,,BEL,24.3613963039,100104,,Q,D Richard Russell,R,,JAM,27.5975359343,7-6 7-5,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-410,Monte Carlo,Clay,48,A,19730414,7,106594,,,Attila Korpas,R,,GER,,100152,,,David Lloyd,R,,GBR,25.2785763176,0-6 6-4 7-5,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-410,Monte Carlo,Clay,48,A,19730414,8,100274,,Q,Eric Deblicker,R,,FRA,20.9911019849,107728,,,Massimo Di Domenico,R,,ITA,,7-6 6-4,3,R64,,,,,,,,,,,,,,,,,,,,,,,
-1973-410,Monte Carlo,Clay,48,A,19730414,9,100234,,Q,Allan Mcdonald,R,,AUS,22.12183436,100205,,,Paul Gerken,R,185,USA,23.0828199863,3-6 6-1 11-9,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1973-410,Monte Carlo,Clay,48,A,19730414,9,100234,,Q,Allan McDonald,R,,AUS,22.12183436,100205,,,Paul Gerken,R,185,USA,23.0828199863,3-6 6-1 11-9,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-410,Monte Carlo,Clay,48,A,19730414,10,100050,,,Martin Mulligan,R,,AUS,32.4873374401,100343,,,John Lloyd,R,178,GBR,18.6310746064,2-6 6-4 6-1,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-410,Monte Carlo,Clay,48,A,19730414,11,100200,,,Antonio Zugarelli,R,,ITA,23.2388774812,100032,,Q,Patricio Rodriguez Chi,R,188,CHI,34.3162217659,6-3 6-2,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-410,Monte Carlo,Clay,48,A,19730414,12,100176,,,Hans Kary,L,,AUT,24.1368925394,108477,,,Vincenzo Franchitti,R,,ITA,,1-6 6-1 6-2,3,R64,,,,,,,,,,,,,,,,,,,,,,,
@@ -1026,7 +1026,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1973-410,Monte Carlo,Clay,48,A,19730414,22,100170,,,Bernard Mignot,R,,BEL,24.3613963039,100179,,,Karl Meiler,R,178,GER,23.9561943874,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-410,Monte Carlo,Clay,48,A,19730414,23,100035,6,,Ion Tiriac,R,,ROU,33.9329226557,106594,,,Attila Korpas,R,,GER,,6-1 7-6,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-410,Monte Carlo,Clay,48,A,19730414,24,100160,,,Georges Goven,R,173,FRA,24.9664613279,100274,,Q,Eric Deblicker,R,,FRA,20.9911019849,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-1973-410,Monte Carlo,Clay,48,A,19730414,25,100123,,,Patrick Hombergen,R,,BEL,26.598220397,100234,,Q,Allan Mcdonald,R,,AUS,22.12183436,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1973-410,Monte Carlo,Clay,48,A,19730414,25,100123,,,Patrick Hombergen,R,,BEL,26.598220397,100234,,Q,Allan McDonald,R,,AUS,22.12183436,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-410,Monte Carlo,Clay,48,A,19730414,26,100050,,,Martin Mulligan,R,,AUS,32.4873374401,100026,5,,Andres Gimeno,R,185,ESP,35.6960985626,6-3 5-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-410,Monte Carlo,Clay,48,A,19730414,27,100064,,,Juan Gisbert,R,,ESP,31.0253251198,100200,,,Antonio Zugarelli,R,,ITA,23.2388774812,6-3 6-7 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-410,Monte Carlo,Clay,48,A,19730414,28,100185,4,,Patrick Proisy,R,180,FRA,23.5920602327,100176,,,Hans Kary,L,,AUT,24.1368925394,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -1230,7 +1230,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1973-2026,Madrid,Clay,64,A,19730423,7,100205,,,Paul Gerken,R,185,USA,23.1074606434,108477,,,Vincenzo Franchitti,R,,ITA,,6-0 6-0,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-2026,Madrid,Clay,64,A,19730423,8,100273,,,Kim Warwick,R,183,AUS,21.0403832991,110420,,,E Chavez,U,,UNK,,6-4 4-6 6-3,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-2026,Madrid,Clay,64,A,19730423,9,100200,,,Antonio Zugarelli,R,,ITA,23.2635181383,106629,,,Birger Andersson,R,,SWE,,6-3 6-4,3,R64,,,,,,,,,,,,,,,,,,,,,,,
-1973-2026,Madrid,Clay,64,A,19730423,10,110421,,,Pato Rodriquez,U,,UNK,,109915,,,U Mcdonald,R,,UNK,,6-2 6-4,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1973-2026,Madrid,Clay,64,A,19730423,10,110421,,,Pato Rodriquez,U,,UNK,,109915,,,U McDonald,R,,UNK,,6-2 6-4,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-2026,Madrid,Clay,64,A,19730423,11,100172,,,Modesto Tito Vazquez,R,173,ESP,24.3066392882,100512,,,Robert Reininger,R,185,AUT,15.3073237509,6-2 6-4,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-2026,Madrid,Clay,64,A,19730423,12,109771,,,Jairo Velasco,R,,ESP,25.9575633128,107457,,,Juan Ignacio Muntanola,R,,ESP,,6-2 6-0,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-2026,Madrid,Clay,64,A,19730423,13,107453,,,Juan Couder,R,,ESP,,100182,,,Mike Estep,R,173,USA,23.7618069815,6-4 2-6 6-5 ABN,3,R64,,,,,,,,,,,,,,,,,,,,,,,
@@ -1512,7 +1512,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1973-520,Roland Garros,Clay,128,G,19730521,24,108342,,,Tadeusz Nowicki,R,,POL,,100088,,,Patricio Cornejo,R,180,CHI,28.9555099247,3-6 6-4 6-2,5,R128,,,,,,,,,,,,,,,,,,,,,,,
 1973-520,Roland Garros,Clay,128,G,19730521,25,100076,,,Milan Holecek,R,190,CZE,29.5770020534,100087,6,,John Newcombe,R,183,AUS,28.9938398357,7-5 6-1,5,R128,,,,,,,,,,,,,,,,,,,,,,,
 1973-520,Roland Garros,Clay,128,G,19730521,26,100045,,,John Paish,L,,GBR,33.1608487337,100118,,,Ivan Molina,L,,COL,26.9295003422,7-5 1-6 6-1,5,R128,,,,,,,,,,,,,,,,,,,,,,,
-1973-520,Roland Garros,Clay,128,G,19730521,27,100137,,,Han Jurgen Pohmann,R,,GER,25.9958932238,100270,,,Anand Amritraj,R,185,IND,21.1690622861,6-4 6-2,5,R128,,,,,,,,,,,,,,,,,,,,,,,
+1973-520,Roland Garros,Clay,128,G,19730521,27,100137,,,Hans Jurgen Pohmann,R,,GER,25.9958932238,100270,,,Anand Amritraj,R,185,IND,21.1690622861,6-4 6-2,5,R128,,,,,,,,,,,,,,,,,,,,,,,
 1973-520,Roland Garros,Clay,128,G,19730521,28,100331,,,Jean Louis Haillet,R,,FRA,19.0390143737,100186,,,Jeff Borowiak,R,193,USA,23.65229295,7-6 7-6,5,R128,,,,,,,,,,,,,,,,,,,,,,,
 1973-520,Roland Garros,Clay,128,G,19730521,29,100127,,,Tom Gorman,R,180,USA,26.4202600958,100185,11,,Patrick Proisy,R,180,FRA,23.6933607118,6-7 6-3 6-1,5,R128,,,,,,,,,,,,,,,,,,,,,,,
 1973-520,Roland Garros,Clay,128,G,19730521,30,100172,,,Modesto Tito Vazquez,R,173,ESP,24.3832991102,100105,,,Allan Stone,R,,AUS,27.6002737851,7-6 4-6 8-6,5,R128,,,,,,,,,,,,,,,,,,,,,,,
@@ -1563,7 +1563,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1973-520,Roland Garros,Clay,128,G,19730521,75,100113,14,,Jan Kodes,R,175,CZE,27.2224503765,100133,,,Pat Cramer,R,,RSA,26.1683778234,6-1 6-0,5,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-520,Roland Garros,Clay,128,G,19730521,76,100091,,,Colin Dibley,R,188,AUS,28.6680355921,108342,,,Tadeusz Nowicki,R,,POL,,6-4 6-4,5,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-520,Roland Garros,Clay,128,G,19730521,77,100076,,,Milan Holecek,R,190,CZE,29.5770020534,100045,,,John Paish,L,,GBR,33.1608487337,7-6 6-4,5,R64,,,,,,,,,,,,,,,,,,,,,,,
-1973-520,Roland Garros,Clay,128,G,19730521,78,100137,,,Han Jurgen Pohmann,R,,GER,25.9958932238,100331,,,Jean Louis Haillet,R,,FRA,19.0390143737,6-2 6-4,5,R64,,,,,,,,,,,,,,,,,,,,,,,
+1973-520,Roland Garros,Clay,128,G,19730521,78,100137,,,Hans Jurgen Pohmann,R,,GER,25.9958932238,100331,,,Jean Louis Haillet,R,,FRA,19.0390143737,6-2 6-4,5,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-520,Roland Garros,Clay,128,G,19730521,79,100127,,,Tom Gorman,R,180,USA,26.4202600958,100172,,,Modesto Tito Vazquez,R,173,ESP,24.3832991102,6-3 6-3,5,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-520,Roland Garros,Clay,128,G,19730521,80,100135,,,Onny Parun,R,188,NZL,26.0999315537,100050,,,Martin Mulligan,R,,AUS,32.5886379192,6-4 7-5,5,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-520,Roland Garros,Clay,128,G,19730521,81,100037,,,Nikola Pilic,L,,CRO,33.7330595483,100343,,,John Lloyd,R,178,GBR,18.7323750856,6-1 6-7 6-0,5,R64,,,,,,,,,,,,,,,,,,,,,,,
@@ -1588,7 +1588,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1973-520,Roland Garros,Clay,128,G,19730521,100,100058,10,,Roger Taylor,L,,GBR,31.6002737851,100081,,,Charlie Pasarell,R,,USA,29.2703627652,6-2 4-6 3-6 6-3 7-5,5,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-520,Roland Garros,Clay,128,G,19730521,101,100039,,,Boro Jovanovic,R,,CRO,33.582477755,100297,,,Corrado Barazzutti,R,178,ITA,20.2491444216,6-2 6-1 7-5,5,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-520,Roland Garros,Clay,128,G,19730521,102,100113,14,,Jan Kodes,R,175,CZE,27.2224503765,100091,,,Colin Dibley,R,188,AUS,28.6680355921,6-3 6-4 1-6 6-1,5,R32,,,,,,,,,,,,,,,,,,,,,,,
-1973-520,Roland Garros,Clay,128,G,19730521,103,100076,,,Milan Holecek,R,190,CZE,29.5770020534,100137,,,Han Jurgen Pohmann,R,,GER,25.9958932238,6-4 3-6 6-0 4-6 8-6,5,R32,,,,,,,,,,,,,,,,,,,,,,,
+1973-520,Roland Garros,Clay,128,G,19730521,103,100076,,,Milan Holecek,R,190,CZE,29.5770020534,100137,,,Hans Jurgen Pohmann,R,,GER,25.9958932238,6-4 3-6 6-0 4-6 8-6,5,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-520,Roland Garros,Clay,128,G,19730521,104,100127,,,Tom Gorman,R,180,USA,26.4202600958,100135,,,Onny Parun,R,188,NZL,26.0999315537,6-4 6-3 6-3,5,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-520,Roland Garros,Clay,128,G,19730521,105,100037,,,Nikola Pilic,L,,CRO,33.7330595483,100203,,,Phil Dent,R,183,AUS,23.2635181383,3-6 7-5 7-6 6-3,5,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-520,Roland Garros,Clay,128,G,19730521,106,100066,,,Frank Froehling,R,190,USA,31.0061601643,100193,,,Wanaro Ngodrella,R,,FRA,23.5865845311,6-4 6-3 6-4,5,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -1712,7 +1712,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1973-277,Berlin,Hard,32,A,19730610,2,100117,,,Butch Seewagen,R,188,USA,26.9924709103,100239,,,Hans Engert,R,,GER,22.135523614,7-5 7-6 6-1,5,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-277,Berlin,Hard,32,A,19730610,3,100083,,,Nicola Spear,R,,SRB,29.2977412731,100180,,,Bill Lloyd,R,,AUS,24.0930869268,6-4 6-4 3-6 6-4,5,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-277,Berlin,Hard,32,A,19730610,4,106594,,,Attila Korpas,R,,GER,,100309,,,Raul Ramirez,R,183,MEX,19.9726214921,6-3 7-5 6-4,5,R32,,,,,,,,,,,,,,,,,,,,,,,
-1973-277,Berlin,Hard,32,A,19730610,5,100137,,,Han Jurgen Pohmann,R,,GER,26.0506502396,107993,,,Peter Pokorny,R,,AUT,,6-4 7-6 6-3,5,R32,,,,,,,,,,,,,,,,,,,,,,,
+1973-277,Berlin,Hard,32,A,19730610,5,100137,,,Hans Jurgen Pohmann,R,,GER,26.0506502396,107993,,,Peter Pokorny,R,,AUT,,6-4 7-6 6-3,5,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-277,Berlin,Hard,32,A,19730610,6,100054,,,Jose Mandarino,R,173,BRA,32.2080766598,100133,,,Pat Cramer,R,,RSA,26.2231348392,4-6 3-6 6-1 6-4 6-3,5,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-277,Berlin,Hard,32,A,19730610,7,100182,,,Mike Estep,R,173,USA,23.8932238193,100346,,,Paul Kronk,R,,AUS,18.7159479808,7-6 6-3 6-4,5,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-277,Berlin,Hard,32,A,19730610,8,100325,,,Ulrich Pinner,R,,GER,19.3374401095,110209,,,Jackie Cooper,U,,USA,28.9418206708,6-0 4-6 7-5 6-3,5,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -1726,26 +1726,26 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1973-277,Berlin,Hard,32,A,19730610,16,100179,,,Karl Meiler,R,178,GER,24.1122518823,107092,,,Geza Varga,R,,HUN,,5-7 7-5 6-3 6-7 6-2,5,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-277,Berlin,Hard,32,A,19730610,17,100161,,,Jurgen Fassbender,R,,GER,25.0349075975,100117,,,Butch Seewagen,R,188,USA,26.9924709103,6-3 6-2 6-3,5,R16,,,,,,,,,,,,,,,,,,,,,,,
 1973-277,Berlin,Hard,32,A,19730610,18,106594,,,Attila Korpas,R,,GER,,100083,,,Nicola Spear,R,,SRB,29.2977412731,4-6 7-5 6-3 6-3,5,R16,,,,,,,,,,,,,,,,,,,,,,,
-1973-277,Berlin,Hard,32,A,19730610,19,100137,,,Han Jurgen Pohmann,R,,GER,26.0506502396,100054,,,Jose Mandarino,R,173,BRA,32.2080766598,7-6 6-3 6-4,5,R16,,,,,,,,,,,,,,,,,,,,,,,
+1973-277,Berlin,Hard,32,A,19730610,19,100137,,,Hans Jurgen Pohmann,R,,GER,26.0506502396,100054,,,Jose Mandarino,R,173,BRA,32.2080766598,7-6 6-3 6-4,5,R16,,,,,,,,,,,,,,,,,,,,,,,
 1973-277,Berlin,Hard,32,A,19730610,20,100325,,,Ulrich Pinner,R,,GER,19.3374401095,100182,,,Mike Estep,R,173,USA,23.8932238193,6-2 6-3 7-6 6-1,5,R16,,,,,,,,,,,,,,,,,,,,,,,
 1973-277,Berlin,Hard,32,A,19730610,21,100056,,,Harald Elschenbroich,R,,GER,31.9753593429,199999,,,U Unknown,U,,UNK,,6-3 6-4 6-4,5,R16,,,,,,,,,,,,,,,,,,,,,,,
 1973-277,Berlin,Hard,32,A,19730610,22,100232,,,Eddie Dibbs,R,170,USA,22.2943189596,107034,,,Frank Falderbaum,R,,GER,,6-3 7-5 6-1,5,R16,,,,,,,,,,,,,,,,,,,,,,,
 1973-277,Berlin,Hard,32,A,19730610,23,100170,,,Bernard Mignot,R,,BEL,24.5174537988,100176,,,Hans Kary,L,,AUT,24.2929500342,6-1 7-5 6-0,5,R16,,,,,,,,,,,,,,,,,,,,,,,
 1973-277,Berlin,Hard,32,A,19730610,24,100179,,,Karl Meiler,R,178,GER,24.1122518823,100076,,,Milan Holecek,R,190,CZE,29.6317590691,6-3 6-4 6-3,5,R16,,,,,,,,,,,,,,,,,,,,,,,
 1973-277,Berlin,Hard,32,A,19730610,25,100161,,,Jurgen Fassbender,R,,GER,25.0349075975,106594,,,Attila Korpas,R,,GER,,6-3 6-4 6-4,5,QF,,,,,,,,,,,,,,,,,,,,,,,
-1973-277,Berlin,Hard,32,A,19730610,26,100137,,,Han Jurgen Pohmann,R,,GER,26.0506502396,100325,,,Ulrich Pinner,R,,GER,19.3374401095,2-6 6-4 6-3 6-3,5,QF,,,,,,,,,,,,,,,,,,,,,,,
+1973-277,Berlin,Hard,32,A,19730610,26,100137,,,Hans Jurgen Pohmann,R,,GER,26.0506502396,100325,,,Ulrich Pinner,R,,GER,19.3374401095,2-6 6-4 6-3 6-3,5,QF,,,,,,,,,,,,,,,,,,,,,,,
 1973-277,Berlin,Hard,32,A,19730610,27,100232,,,Eddie Dibbs,R,170,USA,22.2943189596,100056,,,Harald Elschenbroich,R,,GER,31.9753593429,3-6 7-5 6-3 6-1,5,QF,,,,,,,,,,,,,,,,,,,,,,,
 1973-277,Berlin,Hard,32,A,19730610,28,100179,,,Karl Meiler,R,178,GER,24.1122518823,100170,,,Bernard Mignot,R,,BEL,24.5174537988,6-4 7-6 6-1,5,QF,,,,,,,,,,,,,,,,,,,,,,,
-1973-277,Berlin,Hard,32,A,19730610,29,100137,,,Han Jurgen Pohmann,R,,GER,26.0506502396,100161,,,Jurgen Fassbender,R,,GER,25.0349075975,6-1 6-1 6-2,5,SF,,,,,,,,,,,,,,,,,,,,,,,
+1973-277,Berlin,Hard,32,A,19730610,29,100137,,,Hans Jurgen Pohmann,R,,GER,26.0506502396,100161,,,Jurgen Fassbender,R,,GER,25.0349075975,6-1 6-1 6-2,5,SF,,,,,,,,,,,,,,,,,,,,,,,
 1973-277,Berlin,Hard,32,A,19730610,30,100179,,,Karl Meiler,R,178,GER,24.1122518823,100232,,,Eddie Dibbs,R,170,USA,22.2943189596,7-6 6-3 6-1,5,SF,,,,,,,,,,,,,,,,,,,,,,,
-1973-277,Berlin,Hard,32,A,19730610,31,100137,,,Han Jurgen Pohmann,R,,GER,26.0506502396,100179,,,Karl Meiler,R,178,GER,24.1122518823,6-3 3-6 6-3 6-3,5,F,,,,,,,,,,,,,,,,,,,,,,,
+1973-277,Berlin,Hard,32,A,19730610,31,100137,,,Hans Jurgen Pohmann,R,,GER,26.0506502396,100179,,,Karl Meiler,R,178,GER,24.1122518823,6-3 3-6 6-3 6-3,5,F,,,,,,,,,,,,,,,,,,,,,,,
 1973-414,Hamburg,Clay,64,A,19730611,1,100239,,,Hans Engert,R,,GER,22.1382614648,100149,,,Toshiro Sakai,R,,JPN,25.5496235455,7-6 1-6 6-3,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-414,Hamburg,Clay,64,A,19730611,2,100205,,,Paul Gerken,R,185,USA,23.241615332,100070,,,Jan Kukal,R,,CZE,30.7433264887,6-2 7-6,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-414,Hamburg,Clay,64,A,19730611,3,100025,,,Barry Phillips Moore,R,173,AUS,35.923340178,100110,,,Terry Addison,R,180,AUS,27.4140999316,6-3 4-6 6-2,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-414,Hamburg,Clay,64,A,19730611,4,107284,,,Janos Benyik,R,,HUN,,100066,,,Frank Froehling,R,190,USA,31.0636550308,2-6 6-2 6-3,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-414,Hamburg,Clay,64,A,19730611,5,100278,,,Frank Gebert,R,,GER,20.9993155373,100193,,,Wanaro Ngodrella,R,,FRA,23.6440793977,6-1 7-6,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-414,Hamburg,Clay,64,A,19730611,6,100115,,,Jaime Fillol,R,180,CHI,27.022587269,100176,,,Hans Kary,L,,AUT,24.295687885,2-6 6-2 6-1,3,R64,,,,,,,,,,,,,,,,,,,,,,,
-1973-414,Hamburg,Clay,64,A,19730611,7,100137,,,Han Jurgen Pohmann,R,,GER,26.0533880903,100085,,,Hans Jaochim Plotz,R,,GER,29.2895277207,6-4 6-1,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1973-414,Hamburg,Clay,64,A,19730611,7,100137,,,Hans Jurgen Pohmann,R,,GER,26.0533880903,100085,,,Hans Joachim Ploetz,R,,GER,29.2895277207,6-4 6-1,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-414,Hamburg,Clay,64,A,19730611,8,100282,,,Guillermo Vilas,L,180,ARG,20.8158795346,100130,,,Vladimir Zednik,R,,CZE,26.3572895277,6-2 6-1,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-414,Hamburg,Clay,64,A,19730611,9,100056,,,Harald Elschenbroich,R,,GER,31.9780971937,109922,,,Harald Neuner,R,,GER,19.1868583162,6-3 6-3,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-414,Hamburg,Clay,64,A,19730611,10,100139,,,Gerald Battrick,R,178,GBR,26.0424366872,100080,,,Szabolcz Baranyi,R,,HUN,29.3607118412,6-3 7-5,3,R64,,,,,,,,,,,,,,,,,,,,,,,
@@ -1772,7 +1772,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1973-414,Hamburg,Clay,64,A,19730611,31,100087,,,John Newcombe,R,183,AUS,29.0513347023,100239,,,Hans Engert,R,,GER,22.1382614648,7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-414,Hamburg,Clay,64,A,19730611,32,100205,,,Paul Gerken,R,185,USA,23.241615332,100025,,,Barry Phillips Moore,R,173,AUS,35.923340178,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-414,Hamburg,Clay,64,A,19730611,33,100278,,,Frank Gebert,R,,GER,20.9993155373,107284,,,Janos Benyik,R,,HUN,,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-1973-414,Hamburg,Clay,64,A,19730611,34,100115,,,Jaime Fillol,R,180,CHI,27.022587269,100137,,,Han Jurgen Pohmann,R,,GER,26.0533880903,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1973-414,Hamburg,Clay,64,A,19730611,34,100115,,,Jaime Fillol,R,180,CHI,27.022587269,100137,,,Hans Jurgen Pohmann,R,,GER,26.0533880903,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-414,Hamburg,Clay,64,A,19730611,35,100174,,,Manuel Orantes,L,178,ESP,24.3422313484,100282,,,Guillermo Vilas,L,180,ARG,20.8158795346,3-6 6-0 11-9,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-414,Hamburg,Clay,64,A,19730611,36,100056,,,Harald Elschenbroich,R,,GER,31.9780971937,100139,,,Gerald Battrick,R,178,GBR,26.0424366872,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-414,Hamburg,Clay,64,A,19730611,37,100286,,,Harold Solomon,R,168,USA,20.7310061602,100257,,,Ross Case,R,,AUS,21.6098562628,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -1842,7 +1842,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1973-311,Queen's Club,Grass,64,A,19730617,1,100084,,,Tom Okker,R,178,NED,29.3169062286,100139,,,Gerald Battrick,R,178,GBR,26.0588637919,7-5 6-3,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-311,Queen's Club,Grass,64,A,19730617,2,100092,,,Alex Metreveli,R,,RUS,28.6214921287,100219,,,Geoff Masters,R,,AUS,22.7433264887,7-5 1-6 6-3,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-311,Queen's Club,Grass,64,A,19730617,3,100162,,,Brian Fairlie,R,,NZL,25.0102669405,100144,,,Robert Lutz,R,180,USA,25.8015058179,9-8 6-2,3,R64,,,,,,,,,,,,,,,,,,,,,,,
-1973-311,Queen's Club,Grass,64,A,19730617,4,100261,,,Brian Gottfried,R,183,USA,21.3880903491,100137,,,Han Jurgen Pohmann,R,,GER,26.0698151951,W/O,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1973-311,Queen's Club,Grass,64,A,19730617,4,100261,,,Brian Gottfried,R,183,USA,21.3880903491,100137,,,Hans Jurgen Pohmann,R,,GER,26.0698151951,W/O,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-311,Queen's Club,Grass,64,A,19730617,5,100284,,,Jimmy Connors,L,178,USA,20.7885010267,100025,,,Barry Phillips Moore,R,173,AUS,35.9397672827,6-3 6-2,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-311,Queen's Club,Grass,64,A,19730617,6,109944,,,Greg Cooper,R,,USA,,100022,,,Roy Emerson,R,183,AUS,36.6187542779,W/O,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-311,Queen's Club,Grass,64,A,19730617,7,100161,,,Jurgen Fassbender,R,,GER,25.054072553,100127,,,Tom Gorman,R,180,USA,26.4941820671,6-4 6-2,3,R64,,,,,,,,,,,,,,,,,,,,,,,
@@ -1917,7 +1917,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1973-2049,Eastbourne,Grass,32,A,19730623,29,100199,,,Patrice Dominguez,L,173,FRA,23.4442162902,100105,,,Allan Stone,R,,AUS,27.6906228611,9-8 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,,
 1973-2049,Eastbourne,Grass,32,A,19730623,30,100073,,,Mark Cox,L,,GBR,29.9685147159,100135,,,Onny Parun,R,188,NZL,26.1902806297,9-8 4-6 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,,
 1973-2049,Eastbourne,Grass,32,A,19730623,31,100073,,,Mark Cox,L,,GBR,29.9685147159,100199,,,Patrice Dominguez,L,173,FRA,23.4442162902,6-2 2-6 6-3,3,F,,,,,,,,,,,,,,,,,,,,,,,
-1973-540,Wimbledon,Grass,128,G,19730625,1,100119,1,,Ilie Nastase,R,183,ROU,26.9349760438,100085,,Q,Hans Jaochim Plotz,R,,GER,29.3278576318,6-3 7-5 6-2,5,R128,,,,,,,,,,,,,,,,,,,,,,,
+1973-540,Wimbledon,Grass,128,G,19730625,1,100119,1,,Ilie Nastase,R,183,ROU,26.9349760438,100085,,Q,Hans Joachim Ploetz,R,,GER,29.3278576318,6-3 7-5 6-2,5,R128,,,,,,,,,,,,,,,,,,,,,,,
 1973-540,Wimbledon,Grass,128,G,19730625,2,100118,,,Ivan Molina,L,,COL,27.0253251198,100093,,LL,William Brown,R,,USA,28.4435318275,6-4 9-7 8-9 6-3,5,R128,,,,,,,,,,,,,,,,,,,,,,,
 1973-540,Wimbledon,Grass,128,G,19730625,3,100176,,,Hans Kary,L,,AUT,24.334017796,110102,,LL,Phil Siviter,R,,GBR,20.2765229295,6-4 7-9 6-1 6-2,5,R128,,,,,,,,,,,,,,,,,,,,,,,
 1973-540,Wimbledon,Grass,128,G,19730625,4,100149,,Q,Toshiro Sakai,R,,JPN,25.5879534565,100067,,LL,Frew Mcmillan,R,183,RSA,31.099247091,6-1 3-6 9-8 6-4,5,R128,,,,,,,,,,,,,,,,,,,,,,,
@@ -1932,10 +1932,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1973-540,Wimbledon,Grass,128,G,19730625,13,100223,,LL,Jeff Simpson,R,,NZL,22.6557152635,100012,,,Nicola Pietrangeli,R,,ITA,39.7864476386,8-6 2-6 7-5 3-6 7-5,5,R128,,,,,,,,,,,,,,,,,,,,,,,
 1973-540,Wimbledon,Grass,128,G,19730625,14,100299,,LL,James Chico Hagey,R,,USA,20.3285420945,100013,,,Neale Fraser,L,,AUS,39.7262149213,6-4 7-5 8-6,5,R128,,,,,,,,,,,,,,,,,,,,,,,
 1973-540,Wimbledon,Grass,128,G,19730625,15,100147,,Q,Marcello Lara,R,,MEX,25.7221081451,100045,,,John Paish,L,,GBR,33.2566735113,5-7 6-4 7-5 6-2,5,R128,,,,,,,,,,,,,,,,,,,,,,,
-1973-540,Wimbledon,Grass,128,G,19730625,16,100137,,,Han Jurgen Pohmann,R,,GER,26.0917180014,110247,,LL,Colin Mchugo,R,,GBR,27.5564681725,6-3 6-4 6-4,5,R128,,,,,,,,,,,,,,,,,,,,,,,
+1973-540,Wimbledon,Grass,128,G,19730625,16,100137,,,Hans Jurgen Pohmann,R,,GER,26.0917180014,110247,,LL,Colin Mchugo,R,,GBR,27.5564681725,6-3 6-4 6-4,5,R128,,,,,,,,,,,,,,,,,,,,,,,
 1973-540,Wimbledon,Grass,128,G,19730625,17,100092,4,,Alex Metreveli,R,,RUS,28.643394935,109815,,LL,Stanley Matthews,R,,GBR,27.5947980835,6-3 6-4 9-8,5,R128,,,,,,,,,,,,,,,,,,,,,,,
 1973-540,Wimbledon,Grass,128,G,19730625,18,100178,,Q,Bob Giltinan,R,,AUS,24.2162902122,108118,,LL,Robert Machan,R,,HUN,,6-3 6-4 6-3,5,R128,,,,,,,,,,,,,,,,,,,,,,,
-1973-540,Wimbledon,Grass,128,G,19730625,19,100234,,Q,Allan Mcdonald,R,,AUS,22.3189596167,107132,,LL,Greg Braun,R,,AUS,,6-4 6-4 6-2,5,R128,,,,,,,,,,,,,,,,,,,,,,,
+1973-540,Wimbledon,Grass,128,G,19730625,19,100234,,Q,Allan McDonald,R,,AUS,22.3189596167,107132,,LL,Greg Braun,R,,AUS,,6-4 6-4 6-2,5,R128,,,,,,,,,,,,,,,,,,,,,,,
 1973-540,Wimbledon,Grass,128,G,19730625,20,100125,,,John Cooper,R,,AUS,26.6392881588,100068,,,Herb Fitzgibbon,R,,USA,30.9486652977,6-3 8-9 6-3 9-7,5,R128,,,,,,,,,,,,,,,,,,,,,,,
 1973-540,Wimbledon,Grass,128,G,19730625,21,100204,,LL,Pancho Walthall,R,,USA,23.3538672142,108342,,,Tadeusz Nowicki,R,,POL,,6-4 3-6 6-8 6-3 6-2,5,R128,,,,,,,,,,,,,,,,,,,,,,,
 1973-540,Wimbledon,Grass,128,G,19730625,22,100312,,LL,Chiraid Mukherjea,R,,IND,19.8631074606,100239,,Q,Hans Engert,R,,GER,22.1765913758,6-4 7-5 8-9 6-4,5,R128,,,,,,,,,,,,,,,,,,,,,,,
@@ -1988,9 +1988,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1973-540,Wimbledon,Grass,128,G,19730625,69,100161,8,,Jurgen Fassbender,R,,GER,25.0759753593,107425,,LL,Jose Moreno,R,,ESP,,6-3 6-4 6-4,5,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-540,Wimbledon,Grass,128,G,19730625,70,100111,,,Ray Keldie,R,,AUS,27.4360027379,100288,,Q,Tenny Svensson,R,,SWE,20.758384668,6-4 8-9 6-0 6-4,5,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-540,Wimbledon,Grass,128,G,19730625,71,100223,,LL,Jeff Simpson,R,,NZL,22.6557152635,100299,,LL,James Chico Hagey,R,,USA,20.3285420945,8-6 6-4 8-9 6-3,5,R64,,,,,,,,,,,,,,,,,,,,,,,
-1973-540,Wimbledon,Grass,128,G,19730625,72,100137,,,Han Jurgen Pohmann,R,,GER,26.0917180014,100147,,Q,Marcello Lara,R,,MEX,25.7221081451,2-6 7-5 2-6 6-1 7-5,5,R64,,,,,,,,,,,,,,,,,,,,,,,
+1973-540,Wimbledon,Grass,128,G,19730625,72,100137,,,Hans Jurgen Pohmann,R,,GER,26.0917180014,100147,,Q,Marcello Lara,R,,MEX,25.7221081451,2-6 7-5 2-6 6-1 7-5,5,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-540,Wimbledon,Grass,128,G,19730625,73,100092,4,,Alex Metreveli,R,,RUS,28.643394935,100178,,Q,Bob Giltinan,R,,AUS,24.2162902122,6-4 6-2 7-5,5,R64,,,,,,,,,,,,,,,,,,,,,,,
-1973-540,Wimbledon,Grass,128,G,19730625,74,100125,,,John Cooper,R,,AUS,26.6392881588,100234,,Q,Allan Mcdonald,R,,AUS,22.3189596167,6-4 4-6 4-6 7-5 9-7,5,R64,,,,,,,,,,,,,,,,,,,,,,,
+1973-540,Wimbledon,Grass,128,G,19730625,74,100125,,,John Cooper,R,,AUS,26.6392881588,100234,,Q,Allan McDonald,R,,AUS,22.3189596167,6-4 4-6 4-6 7-5 9-7,5,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-540,Wimbledon,Grass,128,G,19730625,75,100204,,LL,Pancho Walthall,R,,USA,23.3538672142,100312,,LL,Chiraid Mukherjea,R,,IND,19.8631074606,3-6 6-1 6-1 9-8,5,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-540,Wimbledon,Grass,128,G,19730625,76,100266,,,John Feaver,R,190,GBR,21.3552361396,100265,,LL,Cliff Letcher,R,,AUS,21.3744010951,9-8 6-4 9-8,5,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-540,Wimbledon,Grass,128,G,19730625,77,100284,5,,Jimmy Connors,L,178,USA,20.810403833,100152,,,David Lloyd,R,,GBR,25.4757015743,6-4 6-3 5-7 6-2,5,R64,,,,,,,,,,,,,,,,,,,,,,,
@@ -2016,7 +2016,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1973-540,Wimbledon,Grass,128,G,19730625,97,100119,1,,Ilie Nastase,R,183,ROU,26.9349760438,100149,,Q,Toshiro Sakai,R,,JPN,25.5879534565,7-5 6-2 6-4,5,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-540,Wimbledon,Grass,128,G,19730625,98,100272,,,Sandy Mayer,R,178,USA,21.2210814511,100130,,LL,Vladimir Zednik,R,,CZE,26.3956194387,8-6 7-5 6-0,5,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-540,Wimbledon,Grass,128,G,19730625,99,100161,8,,Jurgen Fassbender,R,,GER,25.0759753593,100111,,,Ray Keldie,R,,AUS,27.4360027379,6-2 5-7 4-6 7-5 15-13,5,R32,,,,,,,,,,,,,,,,,,,,,,,
-1973-540,Wimbledon,Grass,128,G,19730625,100,100137,,,Han Jurgen Pohmann,R,,GER,26.0917180014,100223,,LL,Jeff Simpson,R,,NZL,22.6557152635,4-6 7-5 6-3 6-4,5,R32,,,,,,,,,,,,,,,,,,,,,,,
+1973-540,Wimbledon,Grass,128,G,19730625,100,100137,,,Hans Jurgen Pohmann,R,,GER,26.0917180014,100223,,LL,Jeff Simpson,R,,NZL,22.6557152635,4-6 7-5 6-3 6-4,5,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-540,Wimbledon,Grass,128,G,19730625,101,100092,4,,Alex Metreveli,R,,RUS,28.643394935,100125,,,John Cooper,R,,AUS,26.6392881588,6-2 6-3 6-1,5,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-540,Wimbledon,Grass,128,G,19730625,102,100266,,,John Feaver,R,190,GBR,21.3552361396,100204,,LL,Pancho Walthall,R,,USA,23.3538672142,7-5 6-1 9-8,5,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-540,Wimbledon,Grass,128,G,19730625,103,100284,5,,Jimmy Connors,L,178,USA,20.810403833,100326,,LL,Russell Simpson,R,188,NZL,19.3374401095,6-2 6-1 6-2,5,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -2030,7 +2030,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1973-540,Wimbledon,Grass,128,G,19730625,111,107264,,LL,Jaidip Mukherjea,R,,IND,,107140,,LL,Greg Perkins,R,,AUS,,9-8 6-4 6-3,5,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-540,Wimbledon,Grass,128,G,19730625,112,100113,2,,Jan Kodes,R,175,CZE,27.318275154,100171,,Q,John Yuill,R,,RSA,24.5338809035,6-1 7-5 6-2,5,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-540,Wimbledon,Grass,128,G,19730625,113,100272,,,Sandy Mayer,R,178,USA,21.2210814511,100119,1,,Ilie Nastase,R,183,ROU,26.9349760438,6-4 8-6 6-8 6-4,5,R16,,,,,,,,,,,,,,,,,,,,,,,
-1973-540,Wimbledon,Grass,128,G,19730625,114,100161,8,,Jurgen Fassbender,R,,GER,25.0759753593,100137,,,Han Jurgen Pohmann,R,,GER,26.0917180014,6-2 7-5 6-3,5,R16,,,,,,,,,,,,,,,,,,,,,,,
+1973-540,Wimbledon,Grass,128,G,19730625,114,100161,8,,Jurgen Fassbender,R,,GER,25.0759753593,100137,,,Hans Jurgen Pohmann,R,,GER,26.0917180014,6-2 7-5 6-3,5,R16,,,,,,,,,,,,,,,,,,,,,,,
 1973-540,Wimbledon,Grass,128,G,19730625,115,100092,4,,Alex Metreveli,R,,RUS,28.643394935,100266,,,John Feaver,R,190,GBR,21.3552361396,8-6 6-4 6-1,5,R16,,,,,,,,,,,,,,,,,,,,,,,
 1973-540,Wimbledon,Grass,128,G,19730625,116,100284,5,,Jimmy Connors,L,178,USA,20.810403833,100354,,LL,Bernard Mitton,R,188,RSA,18.6255989049,6-3 6-3 6-2,5,R16,,,,,,,,,,,,,,,,,,,,,,,
 1973-540,Wimbledon,Grass,128,G,19730625,117,100437,6,,Bjorn Borg,R,180,SWE,17.0513347023,100080,,,Szabolcz Baranyi,R,,HUN,29.3990417522,6-3 6-2 6-8 5-7 6-1,5,R16,,,,,,,,,,,,,,,,,,,,,,,
@@ -2076,20 +2076,20 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1973-316,Bastad,Clay,32,A,19730709,30,100174,,,Manuel Orantes,L,178,ESP,24.4188911704,107561,,,Leif Johansson,R,,SWE,,6-3 6-0 6-0,5,SF,,,,,,,,,,,,,,,,,,,,,,,
 1973-316,Bastad,Clay,32,A,19730709,31,100126,,,Stan Smith,R,193,USA,26.5681040383,100174,,,Manuel Orantes,L,178,ESP,24.4188911704,6-4 6-2 7-6,5,F,,,,,,,,,,,,,,,,,,,,,,,
 1973-661,Dusseldorf,Clay,16,A,19730709,1,100161,,,Jurgen Fassbender,R,,GER,25.1143052704,106616,,,Bernard Montrenaud,R,,FRA,,6-4 2-6 6-1 4-6 7-5,5,R16,,,,,,,,,,,,,,,,,,,,,,,
-1973-661,Dusseldorf,Clay,16,A,19730709,2,100033,,,Wilhelm Bungert,R,188,GER,34.2724161533,100234,,,Allan Mcdonald,R,,AUS,22.3572895277,6-4 8-6 7-5,5,R16,,,,,,,,,,,,,,,,,,,,,,,
+1973-661,Dusseldorf,Clay,16,A,19730709,2,100033,,,Wilhelm Bungert,R,188,GER,34.2724161533,100234,,,Allan McDonald,R,,AUS,22.3572895277,6-4 8-6 7-5,5,R16,,,,,,,,,,,,,,,,,,,,,,,
 1973-661,Dusseldorf,Clay,16,A,19730709,3,106594,,,Attila Korpas,R,,GER,,100149,,,Toshiro Sakai,R,,JPN,25.6262833676,6-4 6-3 6-3,5,R16,,,,,,,,,,,,,,,,,,,,,,,
 1973-661,Dusseldorf,Clay,16,A,19730709,4,100056,,,Harald Elschenbroich,R,,GER,32.0547570157,107993,,,Peter Pokorny,R,,AUT,,W/O,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 1973-661,Dusseldorf,Clay,16,A,19730709,5,100325,,,Ulrich Pinner,R,,GER,19.4168377823,100064,,,Juan Gisbert,R,,ESP,31.2607802875,6-3 6-4 6-2,5,R16,,,,,,,,,,,,,,,,,,,,,,,
 1973-661,Dusseldorf,Clay,16,A,19730709,6,100170,,,Bernard Mignot,R,,BEL,24.5968514716,100009,,,Istvan Gulyas,R,,HUN,41.735797399,6-4 6-2 6-4,5,R16,,,,,,,,,,,,,,,,,,,,,,,
-1973-661,Dusseldorf,Clay,16,A,19730709,7,100137,,,Han Jurgen Pohmann,R,,GER,26.1300479124,107264,,,Jaidip Mukherjea,R,,IND,,6-4 6-0 6-3,5,R16,,,,,,,,,,,,,,,,,,,,,,,
+1973-661,Dusseldorf,Clay,16,A,19730709,7,100137,,,Hans Jurgen Pohmann,R,,GER,26.1300479124,107264,,,Jaidip Mukherjea,R,,IND,,6-4 6-0 6-3,5,R16,,,,,,,,,,,,,,,,,,,,,,,
 1973-661,Dusseldorf,Clay,16,A,19730709,8,100035,,,Ion Tiriac,R,,ROU,34.1683778234,100403,,,Rolf Gehring,R,185,GER,17.620807666,6-3 6-1 6-2,5,R16,,,,,,,,,,,,,,,,,,,,,,,
 1973-661,Dusseldorf,Clay,16,A,19730709,9,100161,,,Jurgen Fassbender,R,,GER,25.1143052704,100033,,,Wilhelm Bungert,R,188,GER,34.2724161533,6-2 6-4 6-2,5,QF,,,,,,,,,,,,,,,,,,,,,,,
 1973-661,Dusseldorf,Clay,16,A,19730709,10,100056,,,Harald Elschenbroich,R,,GER,32.0547570157,106594,,,Attila Korpas,R,,GER,,6-4 6-4 9-8,5,QF,,,,,,,,,,,,,,,,,,,,,,,
 1973-661,Dusseldorf,Clay,16,A,19730709,11,100325,,,Ulrich Pinner,R,,GER,19.4168377823,100170,,,Bernard Mignot,R,,BEL,24.5968514716,6-3 4-6 6-4 5-7 6-4,5,QF,,,,,,,,,,,,,,,,,,,,,,,
-1973-661,Dusseldorf,Clay,16,A,19730709,12,100137,,,Han Jurgen Pohmann,R,,GER,26.1300479124,100035,,,Ion Tiriac,R,,ROU,34.1683778234,6-1 6-3 5-7 6-4,5,QF,,,,,,,,,,,,,,,,,,,,,,,
+1973-661,Dusseldorf,Clay,16,A,19730709,12,100137,,,Hans Jurgen Pohmann,R,,GER,26.1300479124,100035,,,Ion Tiriac,R,,ROU,34.1683778234,6-1 6-3 5-7 6-4,5,QF,,,,,,,,,,,,,,,,,,,,,,,
 1973-661,Dusseldorf,Clay,16,A,19730709,13,100161,,,Jurgen Fassbender,R,,GER,25.1143052704,100056,,,Harald Elschenbroich,R,,GER,32.0547570157,6-1 7-9 4-6 6-4 6-3,5,SF,,,,,,,,,,,,,,,,,,,,,,,
-1973-661,Dusseldorf,Clay,16,A,19730709,14,100137,,,Han Jurgen Pohmann,R,,GER,26.1300479124,100325,,,Ulrich Pinner,R,,GER,19.4168377823,7-5 9-8 6-4,5,SF,,,,,,,,,,,,,,,,,,,,,,,
-1973-661,Dusseldorf,Clay,16,A,19730709,15,100137,,,Han Jurgen Pohmann,R,,GER,26.1300479124,100161,,,Jurgen Fassbender,R,,GER,25.1143052704,6-2 6-3 6-3,5,F,,,,,,,,,,,,,,,,,,,,,,,
+1973-661,Dusseldorf,Clay,16,A,19730709,14,100137,,,Hans Jurgen Pohmann,R,,GER,26.1300479124,100325,,,Ulrich Pinner,R,,GER,19.4168377823,7-5 9-8 6-4,5,SF,,,,,,,,,,,,,,,,,,,,,,,
+1973-661,Dusseldorf,Clay,16,A,19730709,15,100137,,,Hans Jurgen Pohmann,R,,GER,26.1300479124,100161,,,Jurgen Fassbender,R,,GER,25.1143052704,6-2 6-3 6-3,5,F,,,,,,,,,,,,,,,,,,,,,,,
 1973-2050,Newport,Grass,64,A,19730709,238,100273,,,Kim Warwick,R,183,AUS,21.2511978097,201644,,,Rob Wallace,R,,GBR,,6-4 6-4,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-2050,Newport,Grass,64,A,19730709,239,100058,,,Roger Taylor,L,,GBR,31.7344284736,110146,,,Geoff Griffiths,U,,UNK,,6-4 6-0,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-2050,Newport,Grass,64,A,19730709,240,100364,,,Jonathan Smith,R,188,GBR,18.4421629021,100145,,,Dick Dell,R,,USA,25.7768651608,W/O,3,R64,,,,,,,,,,,,,,,,,,,,,,,
@@ -2761,7 +2761,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1973-707,South Orange,Grass,32,A,19730820,31,100091,8,,Colin Dibley,R,188,AUS,28.9171800137,100321,7,,Vijay Amritraj,R,193,IND,19.6824093087,6-4 6-7 6-4,3,F,,,,,,,,,,,,,,,,,,,,,,,
 1973-560,US Open,Grass,128,G,19730829,1,100126,1,,Stan Smith,R,193,USA,26.7077344285,100185,,,Patrick Proisy,R,180,FRA,23.9671457906,6-4 5-0 RET,5,R128,,,,,,,,,,,,,,,,,,,,,,,
 1973-560,US Open,Grass,128,G,19730829,2,100461,,,Billy Martin,R,178,USA,16.6762491444,100172,,,Modesto Tito Vazquez,R,173,ESP,24.6570841889,6-0 6-1 6-1,5,R128,,,,,,,,,,,,,,,,,,,,,,,
-1973-560,US Open,Grass,128,G,19730829,3,100255,,,Roscoe Tanner,L,183,USA,21.8726899384,100137,,,Han Jurgen Pohmann,R,,GER,26.2696783025,6-2 7-6 6-4,5,R128,,,,,,,,,,,,,,,,,,,,,,,
+1973-560,US Open,Grass,128,G,19730829,3,100255,,,Roscoe Tanner,L,183,USA,21.8726899384,100137,,,Hans Jurgen Pohmann,R,,GER,26.2696783025,6-2 7-6 6-4,5,R128,,,,,,,,,,,,,,,,,,,,,,,
 1973-560,US Open,Grass,128,G,19730829,4,100219,,,Geoff Masters,R,,AUS,22.9431895962,100078,,,Clark Graebner,R,188,USA,29.8179329227,4-6 6-7 6-1 6-4 7-5,5,R128,,,,,,,,,,,,,,,,,,,,,,,
 1973-560,US Open,Grass,128,G,19730829,5,100127,13,,Tom Gorman,R,180,USA,26.6940451745,100232,,,Eddie Dibbs,R,170,USA,22.5133470226,6-3 6-1 6-2,5,R128,,,,,,,,,,,,,,,,,,,,,,,
 1973-560,US Open,Grass,128,G,19730829,6,100098,,,Ove Nils Bengtson,R,196,SWE,28.3997262149,106589,,,Arthur Carrington,R,,USA,,6-3 6-4 6-3,5,R128,,,,,,,,,,,,,,,,,,,,,,,
@@ -3238,7 +3238,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1973-428,Tokyo,,64,A,19731014,5,100116,,,Sherwood Stewart,R,188,USA,27.356605065,100067,,,Frew Mcmillan,R,183,RSA,31.4031485284,6-2 6-3,3,R64,,,,,,,,,,,,,,,,,,,,164,0,65,0
 1973-428,Tokyo,,64,A,19731014,6,100141,,,Zeljko Franulovic,R,,CRO,26.3381245722,100158,,,John Bartlett,R,188,AUS,25.5770020534,6-2 7-6,3,R64,,,,,,,,,,,,,,,,,,,,77,0,93,0
 1973-428,Tokyo,,64,A,19731014,7,100093,,,William Brown,R,,USA,28.7474332649,100146,,,Jun Kamiwazumi,R,,JPN,26.0369609856,7-5 2-6 7-6,3,R64,,,,,,,,,,,,,,,,,,,,,,79,0
-1973-428,Tokyo,,64,A,19731014,8,100137,,,Han Jurgen Pohmann,R,,GER,26.3956194387,108254,,,Shinya Tanaka,R,,JPN,,6-2 6-2,3,R64,,,,,,,,,,,,,,,,,,,,114,0,,
+1973-428,Tokyo,,64,A,19731014,8,100137,,,Hans Jurgen Pohmann,R,,GER,26.3956194387,108254,,,Shinya Tanaka,R,,JPN,,6-2 6-2,3,R64,,,,,,,,,,,,,,,,,,,,114,0,,
 1973-428,Tokyo,,64,A,19731014,9,100206,,,Kenichi Hirai,R,,JPN,23.5728952772,106996,,,Felix Ponte,R,,PER,,6-3 7-5,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-428,Tokyo,,64,A,19731014,10,100186,,,Jeff Borowiak,R,193,USA,24.052019165,100147,,,Marcello Lara,R,,MEX,26.0260095825,6-2 6-3,3,R64,,,,,,,,,,,,,,,,,,,,90,0,86,0
 1973-428,Tokyo,,64,A,19731014,11,100201,,,Syd Ball,R,188,AUS,23.7207392197,100049,,,Jim Mcmanus,L,175,USA,33.0759753593,6-2 4-6 6-3,3,R64,,,,,,,,,,,,,,,,,,,,199,0,90,0
@@ -3254,7 +3254,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1973-428,Tokyo,,64,A,19731014,21,100261,,,Brian Gottfried,R,183,USA,21.7138945927,100116,,,Sherwood Stewart,R,188,USA,27.356605065,6-7 7-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,20,0,164,0
 1973-428,Tokyo,,64,A,19731014,22,100141,,,Zeljko Franulovic,R,,CRO,26.3381245722,100257,,,Ross Case,R,,AUS,21.9520876112,6-2 4-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,77,0,49,0
 1973-428,Tokyo,,64,A,19731014,23,100081,,,Charlie Pasarell,R,,USA,29.6700889802,100093,,,William Brown,R,,USA,28.7474332649,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,44,0,,
-1973-428,Tokyo,,64,A,19731014,24,100137,,,Han Jurgen Pohmann,R,,GER,26.3956194387,100321,,,Vijay Amritraj,R,193,IND,19.832991102,6-7 6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,114,0,22,0
+1973-428,Tokyo,,64,A,19731014,24,100137,,,Hans Jurgen Pohmann,R,,GER,26.3956194387,100321,,,Vijay Amritraj,R,193,IND,19.832991102,6-7 6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,114,0,22,0
 1973-428,Tokyo,,64,A,19731014,25,100127,,,Tom Gorman,R,180,USA,26.8199863107,100206,,,Kenichi Hirai,R,,JPN,23.5728952772,6-2 0-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,16,0,,
 1973-428,Tokyo,,64,A,19731014,26,100186,,,Jeff Borowiak,R,193,USA,24.052019165,100017,,,Mal Anderson,R,,AUS,38.6173853525,6-2 7-6,3,R32,,,,,,,,,,,,,,,,,,,,90,0,,
 1973-428,Tokyo,,64,A,19731014,27,100309,,,Raul Ramirez,R,183,MEX,20.3175906913,100201,,,Syd Ball,R,188,AUS,23.7207392197,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,32,0,199,0
@@ -3266,16 +3266,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1973-428,Tokyo,,64,A,19731014,33,100087,,,John Newcombe,R,183,AUS,29.3935660507,100219,,,Geoff Masters,R,,AUS,23.0691307324,6-3 5-7 6-2,3,R16,,,,,,,,,,,,,,,,,,,,2,0,56,0
 1973-428,Tokyo,,64,A,19731014,34,100091,,,Colin Dibley,R,188,AUS,29.067761807,100076,,,Milan Holecek,R,190,CZE,29.9767282683,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,36,0,80,0
 1973-428,Tokyo,,64,A,19731014,35,100261,,,Brian Gottfried,R,183,USA,21.7138945927,100141,,,Zeljko Franulovic,R,,CRO,26.3381245722,6-3 7-6,3,R16,,,,,,,,,,,,,,,,,,,,20,0,77,0
-1973-428,Tokyo,,64,A,19731014,36,100137,,,Han Jurgen Pohmann,R,,GER,26.3956194387,100081,,,Charlie Pasarell,R,,USA,29.6700889802,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,114,0,44,0
+1973-428,Tokyo,,64,A,19731014,36,100137,,,Hans Jurgen Pohmann,R,,GER,26.3956194387,100081,,,Charlie Pasarell,R,,USA,29.6700889802,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,114,0,44,0
 1973-428,Tokyo,,64,A,19731014,37,100186,,,Jeff Borowiak,R,193,USA,24.052019165,100127,,,Tom Gorman,R,180,USA,26.8199863107,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,90,0,16,0
 1973-428,Tokyo,,64,A,19731014,38,100055,,,Cliff Drysdale,R,188,RSA,32.386036961,100309,,,Raul Ramirez,R,183,MEX,20.3175906913,6-7 6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,27,0,32,0
 1973-428,Tokyo,,64,A,19731014,39,100273,,,Kim Warwick,R,183,AUS,21.5167693361,100161,,,Jurgen Fassbender,R,,GER,25.3798767967,3-6 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,107,0,115,0
 1973-428,Tokyo,,64,A,19731014,40,100016,,,Ken Rosewall,R,175,AUS,38.9486652977,100149,,,Toshiro Sakai,R,,JPN,25.8918548939,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,7,0,75,0
 1973-428,Tokyo,,64,A,19731014,41,100087,,,John Newcombe,R,183,AUS,29.3935660507,100091,,,Colin Dibley,R,188,AUS,29.067761807,7-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,2,0,36,0
-1973-428,Tokyo,,64,A,19731014,42,100137,,,Han Jurgen Pohmann,R,,GER,26.3956194387,100261,,,Brian Gottfried,R,183,USA,21.7138945927,7-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,114,0,20,0
+1973-428,Tokyo,,64,A,19731014,42,100137,,,Hans Jurgen Pohmann,R,,GER,26.3956194387,100261,,,Brian Gottfried,R,183,USA,21.7138945927,7-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,114,0,20,0
 1973-428,Tokyo,,64,A,19731014,43,100055,,,Cliff Drysdale,R,188,RSA,32.386036961,100186,,,Jeff Borowiak,R,193,USA,24.052019165,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,27,0,90,0
 1973-428,Tokyo,,64,A,19731014,44,100016,,,Ken Rosewall,R,175,AUS,38.9486652977,100273,,,Kim Warwick,R,183,AUS,21.5167693361,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,7,0,107,0
-1973-428,Tokyo,,64,A,19731014,45,100087,,,John Newcombe,R,183,AUS,29.3935660507,100137,,,Han Jurgen Pohmann,R,,GER,26.3956194387,6-0 6-3,3,SF,,,,,,,,,,,,,,,,,,,,2,0,114,0
+1973-428,Tokyo,,64,A,19731014,45,100087,,,John Newcombe,R,183,AUS,29.3935660507,100137,,,Hans Jurgen Pohmann,R,,GER,26.3956194387,6-0 6-3,3,SF,,,,,,,,,,,,,,,,,,,,2,0,114,0
 1973-428,Tokyo,,64,A,19731014,46,100016,,,Ken Rosewall,R,175,AUS,38.9486652977,100055,,,Cliff Drysdale,R,188,RSA,32.386036961,6-4 7-5,3,SF,,,,,,,,,,,,,,,,,,,,7,0,27,0
 1973-428,Tokyo,,64,A,19731014,47,100016,,,Ken Rosewall,R,175,AUS,38.9486652977,100087,,,John Newcombe,R,183,AUS,29.3935660507,6-1 6-4,3,F,,,,,,,,,,,,,,,,,,,,7,0,2,0
 1973-D015,Davis Cup AME PR: CAR vs CAN,Hard,4,D,19731019,1,110115,,,Tony Bardsley,R,,CAN,28.6899383984,110447,,,Leo Rolle,U,,UNK,,6-1 6-4 7-5,5,RR,,,,,,,,,,,,,,,,,,,,,,,
@@ -3349,14 +3349,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1973-362,Manila,Hard,32,A,19731021,277,100105,,,Allan Stone,R,,AUS,28.0191649555,199999,,,U Unknown,U,,UNK,,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,55,0,,
 1973-362,Manila,Hard,32,A,19731021,278,100116,,,Sherwood Stewart,R,188,USA,27.3757700205,199999,,,U Unknown,U,,UNK,,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,164,0,,
 1973-362,Manila,Hard,32,A,19731021,279,106996,,,Felix Ponte,R,,PER,,199999,,,U Unknown,U,,UNK,,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-1973-362,Manila,Hard,32,A,19731021,280,100137,,,Han Jurgen Pohmann,R,,GER,26.4147843943,199999,,,U Unknown,U,,UNK,,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,114,0,,
+1973-362,Manila,Hard,32,A,19731021,280,100137,,,Hans Jurgen Pohmann,R,,GER,26.4147843943,199999,,,U Unknown,U,,UNK,,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,114,0,,
 1973-362,Manila,Hard,32,A,19731021,281,100081,,,Charlie Pasarell,R,,USA,29.6892539357,100206,,,Kenichi Hirai,R,,JPN,23.5920602327,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,44,0,,
 1973-362,Manila,Hard,32,A,19731021,282,100219,,,Geoff Masters,R,,AUS,23.0882956879,199999,,,U Unknown,U,,UNK,,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,56,0,,
 1973-362,Manila,Hard,32,A,19731021,283,100147,,,Marcello Lara,R,,MEX,26.045174538,199999,,,U Unknown,U,,UNK,,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,86,0,,
 1973-362,Manila,Hard,32,A,19731021,284,100346,,,Paul Kronk,R,,AUS,19.0800821355,199999,,,U Unknown,U,,UNK,,2-6 6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,142,0,,
 1973-362,Manila,Hard,32,A,19731021,285,100076,,,Milan Holecek,R,190,CZE,29.9958932238,199999,,,U Unknown,U,,UNK,,W/O,3,R32,,,,,,,,,,,,,,,,,,,,80,0,,
 1973-362,Manila,Hard,32,A,19731021,286,100105,,,Allan Stone,R,,AUS,28.0191649555,100346,,,Paul Kronk,R,,AUS,19.0800821355,6-1 7-6,3,R16,,,,,,,,,,,,,,,,,,,,55,0,142,0
-1973-362,Manila,Hard,32,A,19731021,287,100137,,,Han Jurgen Pohmann,R,,GER,26.4147843943,100081,,,Charlie Pasarell,R,,USA,29.6892539357,6-4 2-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,114,0,44,0
+1973-362,Manila,Hard,32,A,19731021,287,100137,,,Hans Jurgen Pohmann,R,,GER,26.4147843943,100081,,,Charlie Pasarell,R,,USA,29.6892539357,6-4 2-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,114,0,44,0
 1973-362,Manila,Hard,32,A,19731021,288,100087,,,John Newcombe,R,183,AUS,29.4127310062,111033,,,Kiyoshi Tanabe,U,,JPN,25.4976043806,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,2,0,,
 1973-362,Manila,Hard,32,A,19731021,289,100219,,,Geoff Masters,R,,AUS,23.0882956879,100116,,,Sherwood Stewart,R,188,USA,27.3757700205,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,56,0,164,0
 1973-362,Manila,Hard,32,A,19731021,290,100076,,,Milan Holecek,R,190,CZE,29.9958932238,100147,,,Marcello Lara,R,,MEX,26.045174538,7-5 7-5,3,R16,,,,,,,,,,,,,,,,,,,,80,0,86,0
@@ -3366,7 +3366,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1973-362,Manila,Hard,32,A,19731021,294,100087,,,John Newcombe,R,183,AUS,29.4127310062,100076,,,Milan Holecek,R,190,CZE,29.9958932238,6-3 5-7 6-4,3,QF,,,,,,,,,,,,,,,,,,,,2,0,80,0
 1973-362,Manila,Hard,32,A,19731021,295,100219,,,Geoff Masters,R,,AUS,23.0882956879,100161,,,Jurgen Fassbender,R,,GER,25.3990417522,7-5 5-7 6-4,3,QF,,,,,,,,,,,,,,,,,,,,56,0,115,0
 1973-362,Manila,Hard,32,A,19731021,296,100091,,,Colin Dibley,R,188,AUS,29.0869267625,100105,,,Allan Stone,R,,AUS,28.0191649555,7-5 3-6 7-6,3,QF,,,,,,,,,,,,,,,,,,,,36,0,55,0
-1973-362,Manila,Hard,32,A,19731021,297,100257,,,Ross Case,R,,AUS,21.9712525667,100137,,,Han Jurgen Pohmann,R,,GER,26.4147843943,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,49,0,114,0
+1973-362,Manila,Hard,32,A,19731021,297,100257,,,Ross Case,R,,AUS,21.9712525667,100137,,,Hans Jurgen Pohmann,R,,GER,26.4147843943,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,49,0,114,0
 1973-362,Manila,Hard,32,A,19731021,298,100219,,,Geoff Masters,R,,AUS,23.0882956879,100091,,,Colin Dibley,R,188,AUS,29.0869267625,5-7 6-2 7-6,3,SF,,,,,,,,,,,,,,,,,,,,56,0,36,0
 1973-362,Manila,Hard,32,A,19731021,299,100257,,,Ross Case,R,,AUS,21.9712525667,100087,,,John Newcombe,R,183,AUS,29.4127310062,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,49,0,2,0
 1973-362,Manila,Hard,32,A,19731021,300,100257,,,Ross Case,R,,AUS,21.9712525667,100219,,,Geoff Masters,R,,AUS,23.0882956879,6-1 6-0,3,F,,,,,,,,,,,,,,,,,,,,49,0,56,0
@@ -3415,7 +3415,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1973-379,Prague,Clay,32,A,19731028,12,100437,,,Bjorn Borg,R,180,SWE,17.3935660507,108342,,,Tadeusz Nowicki,R,,POL,,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,28,0,119,0
 1973-379,Prague,Clay,32,A,19731028,13,100135,,,Onny Parun,R,188,NZL,26.5379876797,100332,,,Balazs Taroczy,R,183,HUN,19.4715947981,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,35,0,,
 1973-379,Prague,Clay,32,A,19731028,14,100220,,,Jiri Hrebec,R,,CZE,23.1074606434,108118,,,Robert Machan,R,,HUN,,6-4 7-6,3,R32,,,,,,,,,,,,,,,,,,,,43,0,176,0
-1973-379,Prague,Clay,32,A,19731028,15,100228,,,Kjell Johansson,R,,SWE,22.7077344285,109915,,,U Mcdonald,R,,UNK,,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,71,0,,
+1973-379,Prague,Clay,32,A,19731028,15,100228,,,Kjell Johansson,R,,SWE,22.7077344285,109915,,,U McDonald,R,,UNK,,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,71,0,,
 1973-379,Prague,Clay,32,A,19731028,16,100058,,,Roger Taylor,L,,GBR,32.038329911,100107,,,Robert Rheinberger,R,,AUS,27.9425051335,6-3 7-6,3,R32,,,,,,,,,,,,,,,,,,,,12,0,,
 1973-379,Prague,Clay,32,A,19731028,17,100113,,,Jan Kodes,R,175,CZE,27.6605065024,107279,,,Jan Simbera,R,,CZE,,6-4 3-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,8,0,,
 1973-379,Prague,Clay,32,A,19731028,18,100130,,,Vladimir Zednik,R,,CZE,26.7378507871,100282,,,Guillermo Vilas,L,180,ARG,21.196440794,7-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,84,0,31,0
@@ -3456,7 +3456,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1973-2011,Tehran,Clay,64,A,19731028,22,100105,,,Allan Stone,R,,AUS,28.038329911,100065,,,Terry Ryan,R,,RSA,31.5044490075,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,55,0,107,0
 1973-2011,Tehran,Clay,64,A,19731028,23,100161,,,Jurgen Fassbender,R,,GER,25.4182067077,109832,,,Ezzat Nemati,U,,UAE,,6-2 7-6,3,R32,,,,,,,,,,,,,,,,,,,,115,0,,
 1973-2011,Tehran,Clay,64,A,19731028,24,100201,,,Syd Ball,R,188,AUS,23.7590691307,100193,,,Wanaro Ngodrella,R,,FRA,24.0246406571,6-3 7-6,3,R32,,,,,,,,,,,,,,,,,,,,199,0,71,0
-1973-2011,Tehran,Clay,64,A,19731028,25,100137,,,Han Jurgen Pohmann,R,,GER,26.4339493498,107825,,,Mohammad Hossein Akbari,R,,IRI,,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,114,0,,
+1973-2011,Tehran,Clay,64,A,19731028,25,100137,,,Hans Jurgen Pohmann,R,,GER,26.4339493498,107825,,,Mohammad Hossein Akbari,R,,IRI,,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,114,0,,
 1973-2011,Tehran,Clay,64,A,19731028,26,100081,,,Charlie Pasarell,R,,USA,29.7084188912,100215,,,Fred Mcnair,R,183,USA,23.2689938398,4-6 7-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,44,0,189,0
 1973-2011,Tehran,Clay,64,A,19731028,27,100219,,,Geoff Masters,R,,AUS,23.1074606434,110353,,,Moharram Ali Khodai,U,,IRI,16.0355920602,2-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,56,0,,
 1973-2011,Tehran,Clay,64,A,19731028,28,100029,,,Rod Laver,L,173,AUS,35.2197125257,100277,,,Jacques Thamin,R,,FRA,21.4318959617,,5,R32,,,,,,,,,,,,,,,,,,,,10,0,137,0
@@ -3468,13 +3468,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1973-2011,Tehran,Clay,64,A,19731028,34,100309,,,Raul Ramirez,R,183,MEX,20.3559206023,100030,,,Fred Stolle,R,190,AUS,35.0554414784,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,32,0,40,0
 1973-2011,Tehran,Clay,64,A,19731028,35,100141,,,Zeljko Franulovic,R,,CRO,26.3764544832,100105,,,Allan Stone,R,,AUS,28.038329911,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,77,0,55,0
 1973-2011,Tehran,Clay,64,A,19731028,36,100201,,,Syd Ball,R,188,AUS,23.7590691307,100161,,,Jurgen Fassbender,R,,GER,25.4182067077,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,199,0,115,0
-1973-2011,Tehran,Clay,64,A,19731028,37,100137,,,Han Jurgen Pohmann,R,,GER,26.4339493498,100081,,,Charlie Pasarell,R,,USA,29.7084188912,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,114,0,44,0
+1973-2011,Tehran,Clay,64,A,19731028,37,100137,,,Hans Jurgen Pohmann,R,,GER,26.4339493498,100081,,,Charlie Pasarell,R,,USA,29.7084188912,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,114,0,44,0
 1973-2011,Tehran,Clay,64,A,19731028,38,100029,,,Rod Laver,L,173,AUS,35.2197125257,100219,,,Geoff Masters,R,,AUS,23.1074606434,7-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,10,0,56,0
 1973-2011,Tehran,Clay,64,A,19731028,39,100178,,,Bob Giltinan,R,,AUS,24.5585215606,100223,,,Jeff Simpson,R,,NZL,22.9979466119,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,123,0,83,0
 1973-2011,Tehran,Clay,64,A,19731028,40,100087,,,John Newcombe,R,183,AUS,29.4318959617,100121,,,Raymond Moore,R,183,RSA,27.1786447639,7-6 4-6 8-6,3,R16,,,,,,,,,,,,,,,,,,,,2,0,39,0
 1973-2011,Tehran,Clay,64,A,19731028,41,100309,,,Raul Ramirez,R,183,MEX,20.3559206023,100119,,,Ilie Nastase,R,183,ROU,27.2772073922,7-6 6-7 9-7,3,QF,,,,,,,,,,,,,,,,,,,,32,0,1,0
 1973-2011,Tehran,Clay,64,A,19731028,42,100141,,,Zeljko Franulovic,R,,CRO,26.3764544832,100201,,,Syd Ball,R,188,AUS,23.7590691307,6-3 6-7 6-2,3,QF,,,,,,,,,,,,,,,,,,,,77,0,199,0
-1973-2011,Tehran,Clay,64,A,19731028,43,100029,,,Rod Laver,L,173,AUS,35.2197125257,100137,,,Han Jurgen Pohmann,R,,GER,26.4339493498,6-0 6-3,3,QF,,,,,,,,,,,,,,,,,,,,10,0,114,0
+1973-2011,Tehran,Clay,64,A,19731028,43,100029,,,Rod Laver,L,173,AUS,35.2197125257,100137,,,Hans Jurgen Pohmann,R,,GER,26.4339493498,6-0 6-3,3,QF,,,,,,,,,,,,,,,,,,,,10,0,114,0
 1973-2011,Tehran,Clay,64,A,19731028,44,100087,,,John Newcombe,R,183,AUS,29.4318959617,100178,,,Bob Giltinan,R,,AUS,24.5585215606,6-3 6-0,3,QF,,,,,,,,,,,,,,,,,,,,2,0,123,0
 1973-2011,Tehran,Clay,64,A,19731028,45,100309,,,Raul Ramirez,R,183,MEX,20.3559206023,100141,,,Zeljko Franulovic,R,,CRO,26.3764544832,4-6 7-5 6-2,3,SF,,,,,,,,,,,,,,,,,,,,32,0,77,0
 1973-2011,Tehran,Clay,64,A,19731028,46,100087,,,John Newcombe,R,183,AUS,29.4318959617,100029,,,Rod Laver,L,173,AUS,35.2197125257,7-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,2,0,10,0
@@ -3602,7 +3602,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1973-429,Stockholm,Hard,64,A,19731104,12,100139,,,Gerald Battrick,R,178,GBR,26.4421629021,100421,,,Jan Norback,R,,SWE,17.6646132786,6-0 6-2,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-429,Stockholm,Hard,64,A,19731104,13,100235,,,Antonio Munoz,R,,ESP,22.6803559206,106899,,,Douglas Palm,R,,SWE,,6-3 4-6 6-3,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-429,Stockholm,Hard,64,A,19731104,14,100332,,,Balazs Taroczy,R,183,HUN,19.4907597536,100262,,,Rolf Norberg,R,,SWE,21.7604380561,7-5 2-6 6-3,3,R64,,,,,,,,,,,,,,,,,,,,,,,
-1973-429,Stockholm,Hard,64,A,19731104,15,106629,,,Birger Andersson,R,,SWE,,100137,,,Han Jurgen Pohmann,R,,GER,26.4531143053,6-3 6-2,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1973-429,Stockholm,Hard,64,A,19731104,15,106629,,,Birger Andersson,R,,SWE,,100137,,,Hans Jurgen Pohmann,R,,GER,26.4531143053,6-3 6-2,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-429,Stockholm,Hard,64,A,19731104,16,107892,,,Olle Palmer,R,,SWE,,108362,,,Terje Larsen,L,,SWE,,7-6 6-1,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-429,Stockholm,Hard,64,A,19731104,17,100126,1,,Stan Smith,R,193,USA,26.8911704312,100106,,,Graham Stilwell,R,173,GBR,27.9698836413,6-3 7-6,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-429,Stockholm,Hard,64,A,19731104,18,100121,,,Raymond Moore,R,183,RSA,27.1978097194,106631,,,Bo Holmstrom,R,,SWE,,7-6 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -3680,7 +3680,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1973-2016,London,Carpet,32,A,19731117,8,100185,,,Patrick Proisy,R,180,FRA,24.1861738535,100343,,,John Lloyd,R,178,GBR,19.2251882272,6-1 3-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-2016,London,Carpet,32,A,19731117,9,100186,,,Jeff Borowiak,R,193,USA,24.1451060917,100317,,,Stephen Warboys,R,,GBR,20.0629705681,6-1 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-2016,London,Carpet,32,A,19731117,10,100127,,,Tom Gorman,R,180,USA,26.9130732375,100106,,,Graham Stilwell,R,173,GBR,28.0054757016,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-1973-2016,London,Carpet,32,A,19731117,11,100073,,,Mark Cox,L,,GBR,30.3709787817,100137,,,Han Jurgen Pohmann,R,,GER,26.4887063655,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1973-2016,London,Carpet,32,A,19731117,11,100073,,,Mark Cox,L,,GBR,30.3709787817,100137,,,Hans Jurgen Pohmann,R,,GER,26.4887063655,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-2016,London,Carpet,32,A,19731117,12,100437,,,Bjorn Borg,R,180,SWE,17.4483230664,100174,,,Manuel Orantes,L,178,ESP,24.7775496235,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-2016,London,Carpet,32,A,19731117,13,100035,,,Ion Tiriac,R,,ROU,34.5270362765,100047,,,Bob Carmichael,R,183,AUS,33.3716632444,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-2016,London,Carpet,32,A,19731117,14,100074,,,Arthur Ashe,R,185,USA,30.3572895277,100199,,,Patrice Dominguez,L,173,FRA,23.8466803559,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -3780,7 +3780,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1973-426,Johannesburg,Hard,32,A,19731127,10,100139,,,Gerald Battrick,R,178,GBR,26.5051334702,100120,,,Robert Maud,R,180,RSA,27.2936344969,0-6 7-6 6-3 6-3,5,R32,,,,,,,,,,,,,,,,,,,,65,0,69,0
 1973-426,Johannesburg,Hard,32,A,19731127,11,100173,,,Andrew Pattison,R,188,USA,24.8240930869,100171,,,John Yuill,R,,RSA,24.9582477755,6-4 6-2 6-0,5,R32,,,,,,,,,,,,,,,,,,,,52,0,,
 1973-426,Johannesburg,Hard,32,A,19731127,12,100115,,,Jaime Fillol,R,180,CHI,27.485284052,100237,,,Bill Freer,R,,RSA,22.7214236824,6-4 6-4 6-2,5,R32,,,,,,,,,,,,,,,,,,,,18,0,,
-1973-426,Johannesburg,Hard,32,A,19731127,13,100073,,,Mark Cox,L,,GBR,30.3983572895,100137,,,Han Jurgen Pohmann,R,,GER,26.5160848734,6-1 6-3 6-4,5,R32,,,,,,,,,,,,,,,,,,,,21,0,130,0
+1973-426,Johannesburg,Hard,32,A,19731127,13,100073,,,Mark Cox,L,,GBR,30.3983572895,100137,,,Hans Jurgen Pohmann,R,,GER,26.5160848734,6-1 6-3 6-4,5,R32,,,,,,,,,,,,,,,,,,,,21,0,130,0
 1973-426,Johannesburg,Hard,32,A,19731127,14,100161,,,Jurgen Fassbender,R,,GER,25.5003422313,109745,,,Lew Hoad,R,,AUS,39.0116358658,6-1 6-1 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,39,0,,
 1973-426,Johannesburg,Hard,32,A,19731127,15,100047,,,Bob Carmichael,R,183,AUS,33.3990417522,100169,,,Ian Fletcher,R,,AUS,24.9883641342,6-3 6-1 6-3,5,R32,,,,,,,,,,,,,,,,,,,,78,0,84,0
 1973-426,Johannesburg,Hard,32,A,19731127,16,100284,,,Jimmy Connors,L,178,USA,21.234770705,108052,,,Rauty Krog,R,,RSA,,6-0 6-3 6-3,5,R32,,,,,,,,,,,,,,,,,,,,3,0,,
