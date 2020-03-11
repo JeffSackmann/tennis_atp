@@ -10,7 +10,7 @@ ATP rankings are mostly complete from 1985 to the present. 1982 is missing, and 
 
 Results and stats: There are up to three files per season: One for tour-level main draw matches (e.g. 'atp_matches_2014.csv'), one for tour-level qualifying and challenger main-draw matches, and one for futures matches.
 
-The different tournament tiers are represented by single letters: 'G' = Grand Slams, 'M' = Masters 100s, 'A' = other tour-level events, 'C' = Challengers, 'S' = Satellites/ITFs, 'F' = Tour finals and other season-ending events, and 'D' = Davis Cup.
+Most of the columns in the results files are self-explanatory. I've also included a matches_data_dictionary.txt file to spell things out a bit more.
 
 To make the results files easier for more people to use, I've included a fair bit of redundancy with the biographical and ranking files: each row contains several columns of biographical information, along with ranking and ranking points, for both players. Ranking data, as well as age, are as of tourney_date, which is almost always the Monday at or near the beginning of the event.
 
