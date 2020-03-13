@@ -87,3 +87,13 @@ winner_rank_points
 - number of ranking points, where available
 loser_rank
 loser_rank_points
+
+* _doubles_ files notes
+
+The matches_doubles files have similar columns, though not all in the same order.
+
+The identifying information for each player refers to 'winner1', 'winner2', 'loser1', and 'loser2'. The labels 1 and 2 are not assigned for any particular reason.
+
+In general, the tournament IDs for doubles results are the same as for singles results (so, for instance, you can see which players entered both draws at the same event), though this is not guaranteed for every single tournament, since some of the data came from different sources.
+
+The stats columns ('w_ace' etc) are per *team*, not per player. That's a function of how tennis stats are typically recorded, not a decision on my part.

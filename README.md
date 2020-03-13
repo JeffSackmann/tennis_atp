@@ -18,11 +18,15 @@ MatchStats are included where I have them. In general, that means 1991-present f
 
 There are some tour-level matches with missing stats. Some are missing because ATP doesn't have them. Others I've deleted because they didn't pass some sanity check (loser won 60% of points, or match time was under 20 minutes, etc). Also, Davis Cup matches are included in the tour-level files, but there are no stats for Davis Cup matches until the last few seasons.
 
----
+# Doubles
 
-Please read, understand, and abide by the license below. It seems like a reasonable thing to ask, given the hundreds of hours I've put into amassing and maintaining this dataset. Unfortunately, a few bad apples have violated the license, and when people do that, it makes me considerably less motivated to continue updating. That's one reason why I no longer keep these files completely up-to-date.
+I've added tour-level doubles back to 2000. Filenames follow the convention atp_matches_doubles_yyyy.csv. I may eventually be able to add tour-level doubles from before 2000, as well as lower-level doubles for some years. Most of the columns are the same, though in a different order.
 
----
+# Attention
+
+Please read, understand, and abide by the license below. It seems like a reasonable thing to ask, given the hundreds of hours I've put into amassing and maintaining this dataset. Unfortunately, a few bad apples have violated the license, and when people do that, it makes me considerably less motivated to continue updating.
+
+Also, if you're using this for academic/research purposes (great!), take a minute and cite it properly. It's not that hard, it helps others find a useful resource, and let's face it, you should be doing it anyway.
 
 # License
 
