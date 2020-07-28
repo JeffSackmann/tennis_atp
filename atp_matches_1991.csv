@@ -1366,9 +1366,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-D069,Davis Cup G2 QF: LUX vs MON,Hard,4,D,19910503,4,100991,,,Johnny Goudenbour,R,178,LUX,27.3264887064,110794,,,Jerome Seguin,U,,MON,21.5003422313,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,879,3,,
 1991-D069,Davis Cup G2 QF: LUX vs MON,Hard,4,D,19910503,5,107263,,,Jacques Radoux,R,,LUX,,111060,,,Christian Collange,U,,MON,23.8904859685,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,1018,1,,
 1991-D075,Davis Cup G2 QF: MLT vs TUR,Hard,4,D,19910503,1,101121,,,Alaaddin Karagoz,R,,TUR,26.0643394935,107117,,,Gordon Asciak,R,,MLT,,6-2 4-6 6-3 3-6 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,,
-1991-D075,Davis Cup G2 QF: MLT vs TUR,Hard,4,D,19910503,2,110866,,,Christopher Gatt,U,,MLT,24.733744011,109480,,,Yavuz Erkangil,R,,BOL,16.4435318275,7-6(3) 6-2 4-6 6-0,5,RR,,,,,,,,,,,,,,,,,,,,,,,
+1991-D075,Davis Cup G2 QF: MLT vs TUR,Hard,4,D,19910503,2,110866,,,Christopher Gatt,U,,MLT,24.733744011,109480,,,Yavuz Erkangil,R,,TUR,24.1587953457,7-6(3) 6-2 4-6 6-0,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1991-D075,Davis Cup G2 QF: MLT vs TUR,Hard,4,D,19910503,4,101121,,,Alaaddin Karagoz,R,,TUR,26.0643394935,110866,,,Christopher Gatt,U,,MLT,24.733744011,4-6 6-1 3-6 7-6(3) 9-7,5,RR,,,,,,,,,,,,,,,,,,,,,,,
-1991-D075,Davis Cup G2 QF: MLT vs TUR,Hard,4,D,19910503,5,109480,,,Yavuz Erkangil,R,,BOL,16.4435318275,107117,,,Gordon Asciak,R,,MLT,,2-6 6-1 7-6(4) 4-6 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
+1991-D075,Davis Cup G2 QF: MLT vs TUR,Hard,4,D,19910503,5,109480,,,Yavuz Erkangil,R,,TUR,24.1587953457,107117,,,Gordon Asciak,R,,MLT,,2-6 6-1 7-6(4) 4-6 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1991-D018,Davis Cup G2 QF: NOR vs BUL,Carpet,4,D,19910503,1,110867,,,Anders Haseth,U,,NOR,22.6201232033,101969,,,Orlin Stanoytchev,R,185,BUL,19.5947980835,3-6 6-1 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1991-D018,Davis Cup G2 QF: NOR vs BUL,Carpet,4,D,19910503,2,102104,,,Christian Ruud,R,188,NOR,18.6776180698,101236,,,Krassimir Lazarov,R,,BUL,25.1471594798,6-3 7-6(5) 7-6(1),5,RR,,,,,,,,,,,,,,,,,,,,,,1018,1
 1991-D018,Davis Cup G2 QF: NOR vs BUL,Carpet,4,D,19910503,4,110867,,,Anders Haseth,U,,NOR,22.6201232033,101236,,,Krassimir Lazarov,R,,BUL,25.1471594798,6-2 4-6 8-6,3,RR,,,,,,,,,,,,,,,,,,,,,,1018,1
@@ -1899,17 +1899,17 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-D041,Davis Cup G2 QF: EGY vs GHA,Clay,4,D,19910614,4,102362,,,Amro Ghoneim,R,,EGY,17.2292950034,108815,,,Kojo Atiso,U,,GHA,24.5667351129,7-6(4) 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1991-D041,Davis Cup G2 QF: EGY vs GHA,Clay,4,D,19910614,5,107182,,,Hassan El Arousy,R,,EGY,20.3258042437,108827,,,Mike Amoah,U,,GHA,17.2457221081,6-7(5) 7-6(4) 8-6,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1991-D072,Davis Cup G2 QF: MAS vs TPE,Hard,4,D,19910614,1,101764,,,Yu Hui Lien,R,,TPE,20.9746748802,101662,,,Selvam Veerasingam,R,,MAS,21.5852156057,5-7 6-3 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
-1991-D072,Davis Cup G2 QF: MAS vs TPE,Hard,4,D,19910614,2,101349,,,Adam Malik,R,193,MAS,24.0848733744,109456,,,Chung Hsing Liu,U,,MEX,,6-3 6-4 6-2,5,RR,,,,,,,,,,,,,,,,,,,,468,27,,
+1991-D072,Davis Cup G2 QF: MAS vs TPE,Hard,4,D,19910614,2,101349,,,Adam Malik,R,193,MAS,24.0848733744,109456,,,Chung Hsing Liu,R,,TPE,26.7761806982,6-3 6-4 6-2,5,RR,,,,,,,,,,,,,,,,,,,,468,27,,
 1991-D072,Davis Cup G2 QF: MAS vs TPE,Hard,4,D,19910614,4,101349,,,Adam Malik,R,193,MAS,24.0848733744,101764,,,Yu Hui Lien,R,,TPE,20.9746748802,6-3 6-4 7-6(4),5,RR,,,,,,,,,,,,,,,,,,,,468,27,,
-1991-D072,Davis Cup G2 QF: MAS vs TPE,Hard,4,D,19910614,5,109456,,,Chung Hsing Liu,U,,MEX,,101662,,,Selvam Veerasingam,R,,MAS,21.5852156057,7-6(4) 6-7(5) 7-6(6) 6-3,5,RR,,,,,,,,,,,,,,,,,,,,,,,
+1991-D072,Davis Cup G2 QF: MAS vs TPE,Hard,4,D,19910614,5,109456,,,Chung Hsing Liu,R,,TPE,26.7761806982,101662,,,Selvam Veerasingam,R,,MAS,21.5852156057,7-6(4) 6-7(5) 7-6(6) 6-3,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1991-D052,Davis Cup G2 QF: SIN vs HKG,Hard,4,D,19910614,1,106782,,,Colin Grant,R,,HKG,,110828,,,Wai Yaw Liu,U,,SIN,26.4640657084,6-0 6-0 6-0,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1991-D052,Davis Cup G2 QF: SIN vs HKG,Hard,4,D,19910614,2,108831,,,Michael Walker,U,,HKG,25.1362080767,108883,,,Kuen Yiep Ho,U,,SIN,20.386036961,6-1 6-0 6-1,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1991-D052,Davis Cup G2 QF: SIN vs HKG,Hard,4,D,19910614,4,108831,,,Michael Walker,U,,HKG,25.1362080767,109002,,,Tung Yi Kho,R,,SIN,19.3894592745,6-1 6-0 6-3,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1991-D052,Davis Cup G2 QF: SIN vs HKG,Hard,4,D,19910614,5,107586,,,Lui Pang,R,,HKG,,108883,,,Kuen Yiep Ho,U,,SIN,20.386036961,6-2 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,,
-1991-D071,Davis Cup G2 SF: LUX vs TUR,Hard,4,D,19910614,1,100991,,,Johnny Goudenbour,R,178,LUX,27.4414784394,109480,,,Yavuz Erkangil,R,,BOL,16.5585215606,6-4 6-0 6-4,5,RR,,,,,,,,,,,,,,,,,,,,913,3,,
+1991-D071,Davis Cup G2 SF: LUX vs TUR,Hard,4,D,19910614,1,100991,,,Johnny Goudenbour,R,178,LUX,27.4414784394,109480,,,Yavuz Erkangil,R,,TUR,24.2737850787,6-4 6-0 6-4,5,RR,,,,,,,,,,,,,,,,,,,,913,3,,
 1991-D071,Davis Cup G2 SF: LUX vs TUR,Hard,4,D,19910614,2,107263,,,Jacques Radoux,R,,LUX,,101121,,,Alaaddin Karagoz,R,,TUR,26.1793292266,6-2 6-1 6-1,5,RR,,,,,,,,,,,,,,,,,,,,1052,1,,
 1991-D071,Davis Cup G2 SF: LUX vs TUR,Hard,4,D,19910614,4,100991,,,Johnny Goudenbour,R,178,LUX,27.4414784394,101121,,,Alaaddin Karagoz,R,,TUR,26.1793292266,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,913,3,,
-1991-D071,Davis Cup G2 SF: LUX vs TUR,Hard,4,D,19910614,5,107263,,,Jacques Radoux,R,,LUX,,109480,,,Yavuz Erkangil,R,,BOL,16.5585215606,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,1052,1,,
+1991-D071,Davis Cup G2 SF: LUX vs TUR,Hard,4,D,19910614,5,107263,,,Jacques Radoux,R,,LUX,,109480,,,Yavuz Erkangil,R,,TUR,24.2737850787,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,1052,1,,
 1991-D050,Davis Cup G2 SF: NOR vs GRE,Clay,4,D,19910614,1,102104,,,Christian Ruud,R,188,NOR,18.7926078029,101448,,,Tasos Bavelas,L,,GRE,23.2826830938,6-3 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,594,15
 1991-D050,Davis Cup G2 SF: NOR vs GRE,Clay,4,D,19910614,2,101369,,,Bent Ove Pedersen,R,185,NOR,23.9151266256,100619,,,George Kalovelonis,R,190,GRE,31.7973990418,6-4 6-3 2-6 3-6 8-6,5,RR,,,,,,,,,,,,,,,,,,,,1052,1,1052,1
 1991-D050,Davis Cup G2 SF: NOR vs GRE,Clay,4,D,19910614,4,101448,,,Tasos Bavelas,L,,GRE,23.2826830938,101369,,,Bent Ove Pedersen,R,185,NOR,23.9151266256,1-6 7-5 10-8,3,RR,,,,,,,,,,,,,,,,,,,,594,15,1052,1
@@ -2319,9 +2319,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-D065,Davis Cup G2 SF: KEN vs NGR,Clay,4,D,19910719,4,101365,,,Paul Wekesa,R,188,KEN,24.0355920602,100553,,,Nduka Odizor,R,183,NGR,32.9308692676,7-5 6-4 6-1,5,RR,,,,,,,,,,,,,,,,,,,,263,86,211,131
 1991-D065,Davis Cup G2 SF: KEN vs NGR,Clay,4,D,19910719,5,108548,,,Yakubu Suleiman,R,,NGR,,106941,,,Eno Polo,R,,KEN,,6-3 4-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,684,11
 1991-D079,Davis Cup G2 SF: TPE vs PAK,Hard,4,D,19910719,1,101764,,,Yu Hui Lien,R,,TPE,21.0704996578,108844,,,Hamed Ul Haq,U,,PAK,29.3716632444,6-3 6-3 6-3,5,RR,,,,,,,,,,,,,,,,,,,,,,,
-1991-D079,Davis Cup G2 SF: TPE vs PAK,Hard,4,D,19910719,2,109456,,,Chung Hsing Liu,U,,MEX,,100890,,,Rashid Malik,R,,PAK,28.4462696783,7-6(3) 6-3 6-0,5,RR,,,,,,,,,,,,,,,,,,,,,,,
+1991-D079,Davis Cup G2 SF: TPE vs PAK,Hard,4,D,19910719,2,109456,,,Chung Hsing Liu,R,,TPE,26.8720054757,100890,,,Rashid Malik,R,,PAK,28.4462696783,7-6(3) 6-3 6-0,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1991-D079,Davis Cup G2 SF: TPE vs PAK,Hard,4,D,19910719,4,102119,,,Chih Jung Chen,R,,TPE,18.803559206,102068,,,Omer Rashid,R,,PAK,19.1101984942,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1991-D079,Davis Cup G2 SF: TPE vs PAK,Hard,4,D,19910719,5,109456,,,Chung Hsing Liu,U,,MEX,,108844,,,Hamed Ul Haq,U,,PAK,29.3716632444,6-2 3-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1991-D079,Davis Cup G2 SF: TPE vs PAK,Hard,4,D,19910719,5,109456,,,Chung Hsing Liu,R,,TPE,26.8720054757,108844,,,Hamed Ul Haq,U,,PAK,29.3716632444,6-2 3-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1991-421,Canada Masters,Hard,56,M,19910722,1,101332,,,Gilad Bloom,L,173,ISR,24.3915126626,101242,,,Brad Pearce,R,175,USA,25.3360711841,6-4 6-1,3,R64,68,1,2,47,26,20,12,8,3,4,0,2,56,34,18,10,9,2,7,104,395,145,245
 1991-421,Canada Masters,Hard,56,M,19910722,2,101543,,,Jeff Tarango,L,180,USA,22.6666666667,101354,,WC,Andrew Sznajder,R,175,CAN,24.1587953457,6-4 6-3,3,R64,82,1,3,70,41,30,15,10,3,3,5,3,52,29,22,11,9,1,3,108,374,149,232
 1991-421,Canada Masters,Hard,56,M,19910722,3,100923,15,,Wally Masur,R,180,AUS,28.1916495551,101185,,,Mark Woodforde,L,188,AUS,25.826146475,6-3 6-4,3,R64,68,3,0,61,41,32,8,10,5,7,0,5,58,36,23,8,9,3,7,57,568,100,407
@@ -3001,7 +3001,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-322,Geneva,Clay,32,A,19910909,11,107798,,Q,Miguel Merz,R,,ESA,,101133,,,Patrick Baur,R,188,GER,26.3518138261,3-6 7-6(5) 7-5,3,R32,190,3,0,119,63,43,30,16,10,14,1,2,117,69,42,27,17,9,13,460,34,80,433
 1991-322,Geneva,Clay,32,A,19910909,12,101511,4,,Horst Skoff,R,175,AUT,23.0472279261,102001,,,German Lopez,R,193,ESP,19.6960985626,6-2 6-0,3,R32,56,5,0,45,21,18,15,7,3,3,8,1,39,17,13,4,7,3,8,25,949,105,357
 1991-322,Geneva,Clay,32,A,19910909,13,101594,,Q,Carsten Arriens,R,193,GER,22.4120465435,101481,8,,Omar Camporese,R,188,ITA,23.3374401095,6-3 6-4,3,R32,76,3,2,73,53,38,7,10,5,7,4,1,59,18,12,20,9,4,8,395,45,33,808
-1991-322,Geneva,Clay,32,A,19910909,14,101761,,,Jaime Oncins,R,196,BRA,21.2320328542,102378,,Q,Juan Gisbert Jr,R,198,ESP,17.4072553046,6-4 7-5,3,R32,112,0,1,68,37,26,17,11,3,5,0,1,71,40,24,17,11,10,14,100,365,,
+1991-322,Geneva,Clay,32,A,19910909,14,101761,,,Jaime Oncins,R,196,BRA,21.2320328542,102378,,Q,Juan Gisbert Jr,R,198,ESP,17.4072553046,6-4 7-5,3,R32,112,0,1,68,37,26,17,11,3,5,0,1,71,40,24,17,11,10,14,100,365,601,17
 1991-322,Geneva,Clay,32,A,19910909,15,101421,,,Veli Paloheimo,R,183,FIN,23.7399041752,101086,,,Ronald Agenor,R,180,USA,26.8199863107,7-6(5) 4-6 6-4,3,R32,148,2,6,104,88,56,6,16,8,13,1,3,113,90,56,7,16,8,13,60,526,44,660
 1991-322,Geneva,Clay,32,A,19910909,16,101063,,,Jordi Arrese,R,175,ESP,27.0280629706,101772,2,,Andrei Cherkasov,R,180,RUS,21.18275154,6-4 4-6 6-1,3,R32,145,2,0,91,80,43,6,13,3,8,0,5,92,40,20,24,14,8,16,49,616,16,1193
 1991-322,Geneva,Clay,32,A,19910909,17,101843,1,,Sergi Bruguera,R,188,ESP,20.6461327858,101147,,WC,Claudio Mezzadri,R,180,SUI,26.2477754962,7-6(6) 1-6 6-1,3,R16,140,4,0,99,59,39,19,13,7,11,1,3,99,54,40,18,13,12,16,9,1578,130,272
