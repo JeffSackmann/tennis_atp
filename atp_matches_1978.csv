@@ -66,7 +66,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1978-205,Lagos,Clay,32,A,19780305,31,100228,3,,Kjell Johansson,R,,SWE,27.0581793292,100287,4,,Robin Drysdale,R,,GBR,25.4592744695,9-8 6-3,3,F,,,,,,,,,,,,,,,,,,,,66,0,85,0
 1978-206,Cairo,Clay,16,A,19780312,1,100300,1,,Jose Higueras,R,178,ESP,25.029431896,100160,,,Georges Goven,R,173,FRA,29.8754277892,6-2 6-7 6-4,3,R16,,,,,,,,,,,,,,,,,,,,29,0,71,0
 1978-206,Cairo,Clay,16,A,19780312,2,100199,,,Patrice Dominguez,L,173,FRA,28.1615331964,100162,,,Brian Fairlie,R,,NZL,29.7440109514,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,85,0,90,0
-1978-206,Cairo,Clay,16,A,19780312,3,100161,,,Jurgen Fassbender,R,,GER,29.787816564,100287,,,Robin Drysdale,R,,GBR,25.4784394251,,5,R16,,,,,,,,,,,,,,,,,,,,65,0,85,0
+1978-206,Cairo,Clay,16,A,19780312,3,100161,,,Jurgen Fassbender,R,,GER,29.787816564,100287,,,Robin Drysdale,R,,GBR,25.4784394251,UNK,5,R16,,,,,,,,,,,,,,,,,,,,65,0,85,0
 1978-206,Cairo,Clay,16,A,19780312,4,100062,3,,Francois Jauffret,R,180,FRA,36.0848733744,100211,,Q,Louk Sanders,R,,NED,27.8412046543,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,57,0,99,0
 1978-206,Cairo,Clay,16,A,19780312,5,100274,,,Eric Deblicker,R,,FRA,25.9000684463,100148,4,,Ismail El Shafei,R,,EGY,30.3216974675,6-7 7-5 10-8,3,R16,,,,,,,,,,,,,,,,,,,,96,0,79,0
 1978-206,Cairo,Clay,16,A,19780312,6,100298,,,George Hardie,L,,USA,25.0568104038,100278,,,Frank Gebert,R,,GER,25.749486653,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,112,0,91,0
@@ -1273,7 +1273,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1978-359,Bogota,Clay,32,A,19781119,10,100403,,,Rolf Gehring,R,185,GER,22.984257358,100258,,,Jorge Andrew,R,,VEN,27.0472279261,6-7 7-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1978-359,Bogota,Clay,32,A,19781119,11,100526,,,Ricardo Ycaza,R,183,ECU,20.7556468172,100615,,Q,Gianluca Rinaldini,R,,ITA,19.2772073922,6-0 2-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1978-359,Bogota,Clay,32,A,19781119,12,100474,4,,Chris Lewis,R,180,NZL,21.697467488,100088,,,Patricio Cornejo,R,180,CHI,34.4531143053,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-1978-359,Bogota,Clay,32,A,19781119,13,100173,7,,Andrew Pattison,R,188,USA,29.8015058179,100202,,Q,George Amaya,L,173,USA,28.7665982204,,5,R32,,,,,,,,,,,,,,,,,,,,,,,
+1978-359,Bogota,Clay,32,A,19781119,13,100173,7,,Andrew Pattison,R,188,USA,29.8015058179,100202,,Q,George Amaya,L,173,USA,28.7665982204,UNK,5,R32,,,,,,,,,,,,,,,,,,,,,,,
 1978-359,Bogota,Clay,32,A,19781119,14,100585,,,Van Winitsky,L,185,USA,19.6906228611,100622,,Q,Patrizio Parrini,R,,ITA,19.2060232717,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1978-359,Bogota,Clay,32,A,19781119,15,100356,,,Paul Mcnamee,R,178,AUS,24.0191649555,100233,,,Ricardo Cano,R,170,ARG,27.7289527721,6-4 3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1978-359,Bogota,Clay,32,A,19781119,16,100555,2,,Jose Luis Clerc,R,185,ARG,20.2600958248,100199,,,Patrice Dominguez,L,173,FRA,28.8514715948,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -1282,12 +1282,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1978-359,Bogota,Clay,32,A,19781119,19,109771,,,Jairo Velasco,R,,ESP,31.5318275154,100118,,,Ivan Molina,L,,COL,32.4271047228,4-6 1-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 1978-359,Bogota,Clay,32,A,19781119,20,100395,6,,Victor Pecci,R,193,PAR,23.0965092402,100198,,,Alvaro Betancur,R,,COL,28.8761122519,6-3 4-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 1978-359,Bogota,Clay,32,A,19781119,21,100403,,,Rolf Gehring,R,185,GER,22.984257358,100115,5,,Jaime Fillol,R,180,CHI,32.462696783,2-6 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,,
-1978-359,Bogota,Clay,32,A,19781119,22,100474,4,,Chris Lewis,R,180,NZL,21.697467488,100526,,,Ricardo Ycaza,R,183,ECU,20.7556468172,,5,R16,,,,,,,,,,,,,,,,,,,,,,,
+1978-359,Bogota,Clay,32,A,19781119,22,100474,4,,Chris Lewis,R,180,NZL,21.697467488,100526,,,Ricardo Ycaza,R,183,ECU,20.7556468172,UNK,5,R16,,,,,,,,,,,,,,,,,,,,,,,
 1978-359,Bogota,Clay,32,A,19781119,23,100173,7,,Andrew Pattison,R,188,USA,29.8015058179,100585,,,Van Winitsky,L,185,USA,19.6906228611,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 1978-359,Bogota,Clay,32,A,19781119,24,100356,,,Paul Mcnamee,R,178,AUS,24.0191649555,100555,2,,Jose Luis Clerc,R,185,ARG,20.2600958248,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,,
-1978-359,Bogota,Clay,32,A,19781119,25,100453,,LL,Jose Luis Damiani,R,185,URU,21.993155373,100300,1,,Jose Higueras,R,178,ESP,25.7193702943,,5,QF,,,,,,,,,,,,,,,,,,,,,,,
+1978-359,Bogota,Clay,32,A,19781119,25,100453,,LL,Jose Luis Damiani,R,185,URU,21.993155373,100300,1,,Jose Higueras,R,178,ESP,25.7193702943,UNK,5,QF,,,,,,,,,,,,,,,,,,,,,,,
 1978-359,Bogota,Clay,32,A,19781119,26,100395,6,,Victor Pecci,R,193,PAR,23.0965092402,109771,,,Jairo Velasco,R,,ESP,31.5318275154,2-6 6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,,,,
-1978-359,Bogota,Clay,32,A,19781119,27,100403,,,Rolf Gehring,R,185,GER,22.984257358,100474,4,,Chris Lewis,R,180,NZL,21.697467488,,5,QF,,,,,,,,,,,,,,,,,,,,,,,
+1978-359,Bogota,Clay,32,A,19781119,27,100403,,,Rolf Gehring,R,185,GER,22.984257358,100474,4,,Chris Lewis,R,180,NZL,21.697467488,UNK,5,QF,,,,,,,,,,,,,,,,,,,,,,,
 1978-359,Bogota,Clay,32,A,19781119,28,100356,,,Paul Mcnamee,R,178,AUS,24.0191649555,100173,7,,Andrew Pattison,R,188,USA,29.8015058179,6-1 7-6,3,QF,,,,,,,,,,,,,,,,,,,,,,,
 1978-359,Bogota,Clay,32,A,19781119,29,100395,6,,Victor Pecci,R,193,PAR,23.0965092402,100453,,LL,Jose Luis Damiani,R,185,URU,21.993155373,6-2 7-5,3,SF,,,,,,,,,,,,,,,,,,,,,,,
 1978-359,Bogota,Clay,32,A,19781119,30,100403,,,Rolf Gehring,R,185,GER,22.984257358,100356,,,Paul Mcnamee,R,178,AUS,24.0191649555,6-3 7-6,3,SF,,,,,,,,,,,,,,,,,,,,,,,
@@ -3027,7 +3027,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1978-610,Dallas WCT,Carpet,8,A,19780509,2,100342,,,Vitas Gerulaitis,R,183,USA,23.7864476386,100309,,,Raul Ramirez,R,183,MEX,24.8843258042,6-1 2-6 6-2 6-1,5,QF,,,,,,,,,,,,,,,,,,,,4,0,9,0
 1978-610,Dallas WCT,Carpet,8,A,19780509,3,100232,,,Eddie Dibbs,R,170,USA,27.2060232717,100119,,,Ilie Nastase,R,183,ROU,31.8056125941,6-3 6-3 6-0,5,QF,,,,,,,,,,,,,,,,,,,,6,0,10,0
 1978-610,Dallas WCT,Carpet,8,A,19780509,4,100297,,,Corrado Barazzutti,R,178,ITA,25.2156057495,100261,,,Brian Gottfried,R,183,USA,26.2806297057,6-4 2-6 1-6 6-1 6-3,5,QF,,,,,,,,,,,,,,,,,,,,11,0,5,0
-1978-610,Dallas WCT,Carpet,8,A,19780509,5,100342,,,Vitas Gerulaitis,R,183,USA,23.7864476386,100437,,,Bjorn Borg,R,180,SWE,21.9219712526,W/O,3,SF,,,,,,,,,,,,,,,,,,,,4,0,3,0
+1978-610,Dallas WCT,Carpet,8,A,19780509,5,100342,,,Vitas Gerulaitis,R,183,USA,23.7864476386,100437,,,Bjorn Borg,R,180,SWE,21.9219712526,W/O,5,SF,,,,,,,,,,,,,,,,,,,,4,0,3,0
 1978-610,Dallas WCT,Carpet,8,A,19780509,6,100232,,,Eddie Dibbs,R,170,USA,27.2060232717,100297,,,Corrado Barazzutti,R,178,ITA,25.2156057495,6-2 7-6 6-4,5,SF,,,,,,,,,,,,,,,,,,,,6,0,11,0
 1978-610,Dallas WCT,Carpet,8,A,19780509,7,100342,,,Vitas Gerulaitis,R,183,USA,23.7864476386,100232,,,Eddie Dibbs,R,170,USA,27.2060232717,6-3 6-2 6-1,5,F,,,,,,,,,,,,,,,,,,,,4,0,6,0
 1978-615,Nations Cup,Clay,16,A,19780508,1,100255,,,Roscoe Tanner,L,183,USA,26.5626283368,100203,,,Phil Dent,R,183,AUS,28.2272416153,6-2 7-6,3,RR,,,,,,,,,,,,,,,,,,,,23,0,19,0
@@ -3829,12 +3829,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1978-D030,Davis Cup EUR F: SWE vs HUN,Clay,4,D,19780915,1,100228,,,Kjell Johansson,R,,SWE,27.5893223819,100332,,,Balazs Taroczy,R,183,HUN,24.3531827515,7-5 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1978-D030,Davis Cup EUR F: SWE vs HUN,Clay,4,D,19780915,2,100437,,,Bjorn Borg,R,180,SWE,22.2751540041,100142,,,Peter Szoke,R,,HUN,31.1047227926,6-2 6-0 6-0,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1978-D030,Davis Cup EUR F: SWE vs HUN,Clay,4,D,19780915,4,100228,,,Kjell Johansson,R,,SWE,27.5893223819,100142,,,Peter Szoke,R,,HUN,31.1047227926,3-6 7-5 6-1 3-6 6-1,5,RR,,,,,,,,,,,,,,,,,,,,,,,
-1978-D031,Davis Cup G1 QF: IND vs INA,,4,D,19781205,1,100281,,,Sashi Menon,R,180,IND,26.3216974675,109881,,,Atet Wijono,R,,IND,,7-5 6-0 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
+1978-D031,Davis Cup G1 QF: IND vs INA,,4,D,19781205,1,100281,,,Sashi Menon,R,180,IND,26.3216974675,109881,,,Atet Wijono,R,,INA,27.7371663244,7-5 6-0 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1978-D031,Davis Cup G1 QF: IND vs INA,,4,D,19781205,2,100270,,,Anand Amritraj,R,185,IND,26.7104722793,107473,,,Justedjo Tarik,R,,INA,25.2648870637,6-4 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
-1978-D031,Davis Cup G1 QF: IND vs INA,,4,D,19781205,4,109881,,,Atet Wijono,R,,IND,,100270,,,Anand Amritraj,R,185,IND,26.7104722793,W/O,5,RR,,,,,,,,,,,,,,,,,,,,,,,
+1978-D031,Davis Cup G1 QF: IND vs INA,,4,D,19781205,4,109881,,,Atet Wijono,R,,INA,27.7371663244,100270,,,Anand Amritraj,R,185,IND,26.7104722793,W/O,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1978-D031,Davis Cup G1 QF: IND vs INA,,4,D,19781205,5,100281,,,Sashi Menon,R,180,IND,26.3216974675,107473,,,Justedjo Tarik,R,,INA,25.2648870637,7-5 4-6 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1978-D032,Davis Cup G1 PR: INA vs TPE,,4,D,19781103,1,107473,,,Justedjo Tarik,R,,INA,25.1772758385,110833,,,Huang Jung Hsu,U,,TPE,23.4661190965,6-4 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
-1978-D032,Davis Cup G1 PR: INA vs TPE,,4,D,19781103,2,109881,,,Atet Wijono,R,,IND,,110141,,,Chang Rung Wu,R,,TPE,21.3305954825,6-3 6-1 6-1,5,RR,,,,,,,,,,,,,,,,,,,,,,,
+1978-D032,Davis Cup G1 PR: INA vs TPE,,4,D,19781103,2,109881,,,Atet Wijono,R,,INA,27.6495550992,110141,,,Chang Rung Wu,R,,TPE,21.3305954825,6-3 6-1 6-1,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1978-D032,Davis Cup G1 PR: INA vs TPE,,4,D,19781103,4,107473,,,Justedjo Tarik,R,,INA,25.1772758385,110141,,,Chang Rung Wu,R,,TPE,21.3305954825,6-2 6-2 3-6 6-0,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1978-D033,Davis Cup EUR SF: IND vs NZL,,4,D,19780119,2,100135,,,Onny Parun,R,188,NZL,30.765229295,100270,,,Anand Amritraj,R,185,IND,25.8343600274,6-4 3-6 9-7 6-3,5,RR,,,,,,,,,,,,,,,,,,,,146,0,115,0
 1978-D033,Davis Cup EUR SF: IND vs NZL,,4,D,19780119,4,100281,,,Sashi Menon,R,180,IND,25.4455852156,100135,,,Onny Parun,R,188,NZL,30.765229295,6-3 6-4 6-2,5,RR,,,,,,,,,,,,,,,,,,,,175,0,146,0

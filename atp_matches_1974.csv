@@ -465,7 +465,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1974-2036,Omaha,,32,A,19740127,1,107217,,,Ian Crookenden,R,,NZL,,109787,,,Cm Robinson,U,,UNK,,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1974-2036,Omaha,,32,A,19740127,2,100038,,,Jaime Pinto Bravo,R,,CHI,34.302532512,100266,,,John Feaver,R,190,GBR,21.9466119097,6-2 6-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1974-2036,Omaha,,32,A,19740127,3,100245,,,Jeff Austin,R,,USA,22.5653661875,100270,,,Anand Amritraj,R,185,IND,21.8562628337,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-1974-2036,Omaha,,32,A,19740127,4,100161,,,Jurgen Fassbender,R,,GER,25.6673511294,107235,,,Ionel Santeiu,R,,ROU,,,5,R32,,,,,,,,,,,,,,,,,,,,,,,
+1974-2036,Omaha,,32,A,19740127,4,100161,,,Jurgen Fassbender,R,,GER,25.6673511294,107235,,,Ionel Santeiu,R,,ROU,,UNK,5,R32,,,,,,,,,,,,,,,,,,,,,,,
 1974-2036,Omaha,,32,A,19740127,5,100169,,,Ian Fletcher,R,,AUS,25.1553730322,100208,,,Dick R Bohrnstedt,R,,USA,23.7508555784,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1974-2036,Omaha,,32,A,19740127,6,100367,,,Belus Prajoux,R,170,CHI,18.9158110883,100216,,,Charles Owens,R,,USA,23.4934976044,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1974-2036,Omaha,,32,A,19740127,7,100342,,,Vitas Gerulaitis,R,183,USA,19.5071868583,100223,,,Jeff Simpson,R,,NZL,23.2470910335,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -722,7 +722,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1974-301,Auckland,Grass,32,A,19740107,290,100090,,,Dick Crealy,R,,AUS,29.3032169747,100169,,,Ian Fletcher,R,,AUS,25.1006160164,6-4 7-6 6-3,5,R16,,,,,,,,,,,,,,,,,,,,,,,
 1974-301,Auckland,Grass,32,A,19740107,291,100257,,,Ross Case,R,,AUS,22.1848049281,202581,,,Wanaro Ngodrella,U,,FRA,24.2217659138,6-3 7-6 7-6,5,R16,,,,,,,,,,,,,,,,,,,,,,,
 1974-301,Auckland,Grass,32,A,19740107,292,100437,,,Bjorn Borg,R,180,SWE,17.5879534565,100266,,,John Feaver,R,190,GBR,21.8918548939,6-4 6-2 3-6 6-2,5,R16,,,,,,,,,,,,,,,,,,,,,,,
-1974-301,Auckland,Grass,32,A,19740107,293,100201,,,Syd Ball,R,188,AUS,23.9534565366,100326,,,Russell Simpson,R,188,NZL,19.8740588638,6-3 6-3 RET,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1974-301,Auckland,Grass,32,A,19740107,293,100201,,,Syd Ball,R,188,AUS,23.9534565366,100326,,,Russell Simpson,R,188,NZL,19.8740588638,6-3 6-3 RET,5,R16,,,,,,,,,,,,,,,,,,,,,,,
 1974-301,Auckland,Grass,32,A,19740107,294,100135,,,Onny Parun,R,188,NZL,26.7323750856,100201,,,Syd Ball,R,188,AUS,23.9534565366,7-5 5-7 4-6 6-2 6-4,5,QF,,,,,,,,,,,,,,,,,,,,,,,
 1974-301,Auckland,Grass,32,A,19740107,295,100091,,,Colin Dibley,R,188,AUS,29.3004791239,100178,,,Bob Giltinan,R,,AUS,24.7529089665,4-6 6-1 6-3 2-6 6-3,5,QF,,,,,,,,,,,,,,,,,,,,,,,
 1974-301,Auckland,Grass,32,A,19740107,296,100257,,,Ross Case,R,,AUS,22.1848049281,100105,,,Allan Stone,R,,AUS,28.2327173169,6-7 2-6 7-5 6-1 6-2,5,QF,,,,,,,,,,,,,,,,,,,,,,,
@@ -737,7 +737,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1974-302,Toronto WCT,Carpet,32,A,19740217,5,100060,,,Marty Riessen,R,185,USA,32.205338809,100129,,,Jean Baptiste Chanfreau,R,,FRA,27.0855578371,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1974-302,Toronto WCT,Carpet,32,A,19740217,6,100185,,,Patrick Proisy,R,180,FRA,24.4380561259,100095,,,Tony Bardsley,R,,CAN,29.0212183436,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1974-302,Toronto WCT,Carpet,32,A,19740217,7,100040,,,Bob Hewitt,R,190,RSA,34.0999315537,100182,,,Mike Estep,R,173,USA,24.5831622177,3-6 7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-1974-302,Toronto WCT,Carpet,32,A,19740217,8,100199,,,Patrice Dominguez,L,173,FRA,24.0985626283,100049,,,Jim Mcmanus,L,175,USA,33.4209445585,,5,R32,,,,,,,,,,,,,,,,,,,,,,,
+1974-302,Toronto WCT,Carpet,32,A,19740217,8,100199,,,Patrice Dominguez,L,173,FRA,24.0985626283,100049,,,Jim Mcmanus,L,175,USA,33.4209445585,UNK,5,R32,,,,,,,,,,,,,,,,,,,,,,,
 1974-302,Toronto WCT,Carpet,32,A,19740217,9,100100,,,Tony Roche,L,178,AUS,28.7556468172,100057,,,Pierre Barthes,R,,FRA,32.4298425736,6-4 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1974-302,Toronto WCT,Carpet,32,A,19740217,10,100173,,,Andrew Pattison,R,188,USA,25.0485968515,100133,,,Pat Cramer,R,,RSA,26.9130732375,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1974-302,Toronto WCT,Carpet,32,A,19740217,11,100084,,,Tom Okker,R,178,NED,29.9876796715,109795,,,Keith Carpenter,R,188,CAN,32.5420944559,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -776,7 +776,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1974-303,Buenos Aires,Clay,32,A,19741124,282,100088,,,Patricio Cornejo,R,180,CHI,30.4668035592,107215,,,Hugo Varela,R,,ARG,,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1974-303,Buenos Aires,Clay,32,A,19741124,283,100233,,,Ricardo Cano,R,170,ARG,23.742642026,100032,,,Patricio Rodriguez Chi,R,188,CHI,35.9288158795,4-6 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1974-303,Buenos Aires,Clay,32,A,19741124,284,100155,,,Ramiro Benavides,R,,BOL,26.81724846,100176,,,Hans Kary,L,,AUT,25.749486653,7-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-1974-303,Buenos Aires,Clay,32,A,19741124,285,100080,,,Szabolcz Baranyi,R,,HUN,30.8145106092,100111,,,Ray Keldie,R,,AUS,28.8514715948,6-0 7-6 6-4,5,R32,,,,,,,,,,,,,,,,,,,,,,,
+1974-303,Buenos Aires,Clay,32,A,19741124,285,100080,,,Szabolcz Baranyi,R,,HUN,30.8145106092,100111,,,Ray Keldie,R,,AUS,28.8514715948,6-0 6-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1974-303,Buenos Aires,Clay,32,A,19741124,286,100282,,,Guillermo Vilas,L,180,ARG,22.2696783025,100080,,,Szabolcz Baranyi,R,,HUN,30.8145106092,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 1974-303,Buenos Aires,Clay,32,A,19741124,287,100395,,,Victor Pecci,R,193,PAR,19.1101984942,125578,,,Tomas Lynch,U,,ARG,24.9171800137,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 1974-303,Buenos Aires,Clay,32,A,19741124,288,100174,,,Manuel Orantes,L,178,ESP,25.7960301164,100142,,,Peter Szoke,R,,HUN,27.2963723477,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,,
@@ -838,7 +838,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1974-309,Madrid,Clay,64,A,19741013,13,100309,6,,Raul Ramirez,R,183,MEX,21.3141683778,100176,,,Hans Kary,L,,AUT,25.6344969199,6-7 7-6,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1974-309,Madrid,Clay,64,A,19741013,14,109796,,,Tito Vasquez,U,,ARG,,100359,,,Richard Lewis,L,,GBR,19.8521560575,6-2 6-3,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1974-309,Madrid,Clay,64,A,19741013,15,100220,11,,Jiri Hrebec,R,,CZE,24.0657084189,100343,,,John Lloyd,R,178,GBR,20.128678987,4-6 6-3 6-0,3,R64,,,,,,,,,,,,,,,,,,,,,,,
-1974-309,Madrid,Clay,64,A,19741013,16,100121,,,Raymond Moore,R,183,RSA,28.1368925394,107429,,,Jose Castanon,R,,ESP,,,5,R64,,,,,,,,,,,,,,,,,,,,,,,
+1974-309,Madrid,Clay,64,A,19741013,16,100121,,,Raymond Moore,R,183,RSA,28.1368925394,107429,,,Jose Castanon,R,,ESP,,UNK,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1974-309,Madrid,Clay,64,A,19741013,17,100171,,,John Yuill,R,,RSA,25.8343600274,100228,,,Kjell Johansson,R,,SWE,23.665982204,6-2 4-6 6-2,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1974-309,Madrid,Clay,64,A,19741013,18,100235,,,Antonio Munoz,R,,ESP,23.6194387406,100261,12,,Brian Gottfried,R,183,USA,22.7104722793,7-5 3-6 6-3,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1974-309,Madrid,Clay,64,A,19741013,19,100288,,,Tenny Svensson,R,,SWE,22.0588637919,100278,,,Frank Gebert,R,,GER,22.3381245722,4-6 6-2 6-4,3,R64,,,,,,,,,,,,,,,,,,,,,,,
@@ -923,7 +923,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1974-310,Florence,Clay,32,A,19740512,300,100214,,,Adriano Panatta,R,183,ITA,23.8412046543,100249,,,Paolo Bertolucci,R,175,ITA,22.7734428474,6-3 6-1,3,F,,,,,,,,,,,,,,,,,,,,,,,
 1974-312,Bologna WCT,Carpet,32,A,19740217,1,100113,2,,Jan Kodes,R,175,CZE,27.9671457906,100139,,,Gerald Battrick,R,178,GBR,26.7296372348,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1974-312,Bologna WCT,Carpet,32,A,19740217,2,100091,,,Colin Dibley,R,188,AUS,29.4127310062,100286,,,Harold Solomon,R,168,USA,21.4182067077,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-1974-312,Bologna WCT,Carpet,32,A,19740217,3,100098,,,Ove Nils Bengtson,R,196,SWE,28.8706365503,100146,,,Jun Kamiwazumi,R,,JPN,26.3819301848,,5,R32,,,,,,,,,,,,,,,,,,,,,,,
+1974-312,Bologna WCT,Carpet,32,A,19740217,3,100098,,,Ove Nils Bengtson,R,196,SWE,28.8706365503,100146,,,Jun Kamiwazumi,R,,JPN,26.3819301848,UNK,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1974-312,Bologna WCT,Carpet,32,A,19740217,4,100035,,,Ion Tiriac,R,,ROU,34.7789185489,100255,8,,Roscoe Tanner,L,183,USA,22.3436002738,7-6(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1974-312,Bologna WCT,Carpet,32,A,19740217,5,100073,7,,Mark Cox,L,,GBR,30.6228610541,106971,,,Ezio Di Matteo,R,,ITA,,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1974-312,Bologna WCT,Carpet,32,A,19740217,6,100064,,,Juan Gisbert,R,,ESP,31.871321013,100196,,,Haroon Rahim,R,,PAK,24.2655715264,6-2 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -988,7 +988,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1974-316,Bastad,Clay,32,A,19740708,3,100297,,,Corrado Barazzutti,R,178,ITA,21.3798767967,100085,,,Hans Joachim Ploetz,R,,GER,30.3627652293,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,40,0,111,0
 1974-316,Bastad,Clay,32,A,19740708,4,108342,,,Tadeusz Nowicki,R,,POL,,100038,,,Jaime Pinto Bravo,R,,CHI,34.7460643395,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,214,0,77,0
 1974-316,Bastad,Clay,32,A,19740708,5,100135,,,Onny Parun,R,188,NZL,27.2306639288,107969,,,Per Jemsby,R,,SWE,,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,36,0,255,0
-1974-316,Bastad,Clay,32,A,19740708,6,100050,,,Martin Mulligan,R,,AUS,33.7193702943,100228,,,Kjell Johansson,R,,SWE,23.4004106776,,5,R32,,,,,,,,,,,,,,,,,,,,174,0,132,0
+1974-316,Bastad,Clay,32,A,19740708,6,100050,,,Martin Mulligan,R,,AUS,33.7193702943,100228,,,Kjell Johansson,R,,SWE,23.4004106776,UNK,3,R32,,,,,,,,,,,,,,,,,,,,174,0,132,0
 1974-316,Bastad,Clay,32,A,19740708,7,100200,,,Antonio Zugarelli,R,,ITA,24.4709103354,108362,,,Terje Larsen,L,,SWE,,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,68,0,,
 1974-316,Bastad,Clay,32,A,19740708,8,100176,,,Hans Kary,L,,AUT,25.3689253936,100098,,,Ove Nils Bengtson,R,196,SWE,29.2566735113,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,135,0,70,0
 1974-316,Bastad,Clay,32,A,19740708,9,107561,,,Leif Johansson,R,,SWE,,100146,,,Jun Kamiwazumi,R,,JPN,26.7679671458,6-2 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,118,0,99,0
@@ -1577,7 +1577,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1974-362,Manila,Hard,32,A,19741116,24,100109,,,Jun Kuki,R,,JPN,28.8843258042,100255,,,Roscoe Tanner,L,183,USA,23.0882956879,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 1974-362,Manila,Hard,32,A,19741116,25,100087,,,John Newcombe,R,183,AUS,30.4832306639,100058,,,Roger Taylor,L,,GBR,33.0896646133,6-3 7-5,3,QF,,,,,,,,,,,,,,,,,,,,,,,
 1974-362,Manila,Hard,32,A,19741116,26,100148,,,Ismail El Shafei,R,,EGY,27.0034223135,100492,,,John Austin,R,193,USA,17.2950034223,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,,,,
-1974-362,Manila,Hard,32,A,19741116,27,100137,,,Hans Jurgen Pohmann,R,,GER,27.485284052,100215,,,Fred Mcnair,R,183,USA,24.3203285421,,5,QF,,,,,,,,,,,,,,,,,,,,,,,
+1974-362,Manila,Hard,32,A,19741116,27,100137,,,Hans Jurgen Pohmann,R,,GER,27.485284052,100215,,,Fred Mcnair,R,183,USA,24.3203285421,UNK,5,QF,,,,,,,,,,,,,,,,,,,,,,,
 1974-362,Manila,Hard,32,A,19741116,28,100109,,,Jun Kuki,R,,JPN,28.8843258042,100161,,,Jurgen Fassbender,R,,GER,26.46954141,6-1 1-6 7-6,3,QF,,,,,,,,,,,,,,,,,,,,,,,
 1974-362,Manila,Hard,32,A,19741116,29,100148,,,Ismail El Shafei,R,,EGY,27.0034223135,100087,,,John Newcombe,R,183,AUS,30.4832306639,6-4 7-6,3,SF,,,,,,,,,,,,,,,,,,,,,,,
 1974-362,Manila,Hard,32,A,19741116,30,100137,,,Hans Jurgen Pohmann,R,,GER,27.485284052,100109,,,Jun Kuki,R,,JPN,28.8843258042,6-1 6-0,3,SF,,,,,,,,,,,,,,,,,,,,,,,
@@ -1910,10 +1910,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1974-414,Hamburg,Clay,64,A,19740520,26,100232,3,,Eddie Dibbs,R,170,USA,23.2361396304,100137,,,Hans Jurgen Pohmann,R,,GER,26.9924709103,4-6 6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 1974-414,Hamburg,Clay,64,A,19740520,27,100220,7,,Jiri Hrebec,R,,CZE,23.665982204,100161,,,Jurgen Fassbender,R,,GER,25.9767282683,1-6 6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 1974-414,Hamburg,Clay,64,A,19740520,28,100115,2,,Jaime Fillol,R,180,CHI,27.961670089,100076,,,Milan Holecek,R,190,CZE,30.5735797399,1-6 6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,,
-1974-414,Hamburg,Clay,64,A,19740520,29,100282,8,,Guillermo Vilas,L,180,ARG,21.7549623546,100062,,,Francois Jauffret,R,180,FRA,32.2737850787,6-2 4-2 RET,3,QF,,,,,,,,,,,,,,,,,,,,,,,
+1974-414,Hamburg,Clay,64,A,19740520,29,100282,8,,Guillermo Vilas,L,180,ARG,21.7549623546,100062,,,Francois Jauffret,R,180,FRA,32.2737850787,6-2 4-2 RET,5,QF,,,,,,,,,,,,,,,,,,,,,,,
 1974-414,Hamburg,Clay,64,A,19740520,30,100085,,,Hans Joachim Ploetz,R,,GER,30.2286105407,100185,,,Patrick Proisy,R,180,FRA,24.6899383984,2-6 4-6 7-5 6-2 6-2,5,QF,,,,,,,,,,,,,,,,,,,,,,,
 1974-414,Hamburg,Clay,64,A,19740520,31,100232,3,,Eddie Dibbs,R,170,USA,23.2361396304,109921,,,Eugenio Munoz,R,,ESP,,6-4 6-4 6-4,5,QF,,,,,,,,,,,,,,,,,,,,,,,
-1974-414,Hamburg,Clay,64,A,19740520,32,100115,2,,Jaime Fillol,R,180,CHI,27.961670089,100220,7,,Jiri Hrebec,R,,CZE,23.665982204,4-6 6-3 7-6 4-6 10-9 RET,3,QF,,,,,,,,,,,,,,,,,,,,,,,
+1974-414,Hamburg,Clay,64,A,19740520,32,100115,2,,Jaime Fillol,R,180,CHI,27.961670089,100220,7,,Jiri Hrebec,R,,CZE,23.665982204,4-6 6-3 7-6 4-6 10-9 RET,5,QF,,,,,,,,,,,,,,,,,,,,,,,
 1974-414,Hamburg,Clay,64,A,19740520,33,100085,,,Hans Joachim Ploetz,R,,GER,30.2286105407,100282,8,,Guillermo Vilas,L,180,ARG,21.7549623546,6-3 4-6 4-6 7-6 6-0,5,SF,,,,,,,,,,,,,,,,,,,,,,,
 1974-414,Hamburg,Clay,64,A,19740520,34,100232,3,,Eddie Dibbs,R,170,USA,23.2361396304,100115,2,,Jaime Fillol,R,180,CHI,27.961670089,7-6 7-5 2-6 6-3,5,SF,,,,,,,,,,,,,,,,,,,,,,,
 1974-414,Hamburg,Clay,64,A,19740520,35,100232,3,,Eddie Dibbs,R,170,USA,23.2361396304,100085,,,Hans Joachim Ploetz,R,,GER,30.2286105407,6-2 6-2 6-3,5,F,,,,,,,,,,,,,,,,,,,,,,,
@@ -1989,7 +1989,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1974-417,Boston,Clay,64,A,19740826,7,100086,,,Frantisek Pala,L,,CZE,30.4120465435,100035,,,Ion Tiriac,R,,ROU,35.2991101985,6-4 6-0,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1974-417,Boston,Clay,64,A,19740826,8,100148,,,Ismail El Shafei,R,,EGY,26.7789185489,100083,,,Nicola Spear,R,,SRB,30.507871321,6-4 4-6 6-4,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1974-417,Boston,Clay,64,A,19740826,9,100119,,,Ilie Nastase,R,183,ROU,28.1040383299,100251,,,Grover Raz Reid,R,,USA,22.9979466119,6-4 6-1,3,R64,,,,,,,,,,,,,,,,,,,,,,,
-1974-417,Boston,Clay,64,A,19740826,10,100058,,,Roger Taylor,L,,GBR,32.8651608487,100064,,,Juan Gisbert,R,,ESP,32.3915126626,4-Jun,5,R64,,,,,,,,,,,,,,,,,,,,,,,
+1974-417,Boston,Clay,64,A,19740826,10,100058,,,Roger Taylor,L,,GBR,32.8651608487,100064,,,Juan Gisbert,R,,ESP,32.3915126626,6-4 ?-?,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1974-417,Boston,Clay,64,A,19740826,11,100286,,,Harold Solomon,R,168,USA,21.9383983573,100179,,,Karl Meiler,R,178,GER,25.3223819302,6-4 7-6,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1974-417,Boston,Clay,64,A,19740826,12,100076,,,Milan Holecek,R,190,CZE,30.841889117,100160,,,Georges Goven,R,173,FRA,26.3326488706,4-6 7-5 6-4,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1974-417,Boston,Clay,64,A,19740826,13,100282,,,Guillermo Vilas,L,180,ARG,22.0232717317,100101,,,Mike Belkin,R,,CAN,29.158110883,6-2 6-2,3,R64,,,,,,,,,,,,,,,,,,,,,,,
@@ -2464,7 +2464,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1974-426,Johannesburg WCT,Hard,32,A,19740415,10,100171,,,John Yuill,R,,RSA,25.3388090349,100182,,,Mike Estep,R,173,USA,24.7392197125,4-6 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1974-426,Johannesburg WCT,Hard,32,A,19740415,11,100174,,,Manuel Orantes,L,178,ESP,25.1854893908,109948,,,Clive Brebnor,U,,RSA,,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1974-426,Johannesburg WCT,Hard,32,A,19740415,12,100244,6,,John Alexander,R,190,AUS,22.7816563997,109949,,,G Silberman,U,,RSA,,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-1974-426,Johannesburg WCT,Hard,32,A,19740415,13,100203,7,,Phil Dent,R,183,AUS,24.1642710472,100056,,,Harald Elschenbroich,R,,GER,32.8213552361,5-Jul,5,R32,,,,,,,,,,,,,,,,,,,,,,,
+1974-426,Johannesburg WCT,Hard,32,A,19740415,13,100203,7,,Phil Dent,R,183,AUS,24.1642710472,100056,,,Harald Elschenbroich,R,,GER,32.8213552361,7-5 ?-?,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1974-426,Johannesburg WCT,Hard,32,A,19740415,14,100354,,,Bernard Mitton,R,188,RSA,19.4305270363,109950,,,Francois Van Der Merwe,R,,RSA,,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1974-426,Johannesburg WCT,Hard,32,A,19740415,15,100377,,,Colin Dowdeswell,R,185,GBR,18.9267624914,100114,,,Ray Ruffels,R,,AUS,28.0629705681,6-4 3-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1974-426,Johannesburg WCT,Hard,32,A,19740415,16,100127,1,,Tom Gorman,R,180,USA,27.3210130048,100129,,,Jean Baptiste Chanfreau,R,,FRA,27.241615332,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -2659,7 +2659,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1974-494,Jakarta,Hard,32,A,19741103,271,100273,,,Kim Warwick,R,183,AUS,22.5708418891,100146,,,Jun Kamiwazumi,R,,JPN,27.0910335387,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1974-494,Jakarta,Hard,32,A,19741103,272,100030,,,Fred Stolle,R,190,AUS,36.0711841205,100147,,,Marcello Lara,R,,MEX,27.0800821355,3-6 6-2 7-6,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1974-494,Jakarta,Hard,32,A,19741103,273,100116,,,Sherwood Stewart,R,188,USA,28.4106776181,202699,,,Mazizat Sofyan,U,,INA,36.7063655031,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-1974-494,Jakarta,Hard,32,A,19741103,274,100215,,,Fred Mcnair,R,183,USA,24.2847364819,109881,,,Atet Wijono,R,,IND,,6-4 6-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1974-494,Jakarta,Hard,32,A,19741103,274,100215,,,Fred Mcnair,R,183,USA,24.2847364819,109881,,,Atet Wijono,R,,INA,23.6495550992,6-4 6-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1974-494,Jakarta,Hard,32,A,19741103,275,100109,,,Jun Kuki,R,,JPN,28.848733744,100178,,,Bob Giltinan,R,,AUS,25.5742642026,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1974-494,Jakarta,Hard,32,A,19741103,276,100151,,,Karl Coombes,R,180,AUS,26.8802190281,107473,,,Justedjo Tarik,R,,INA,21.1772758385,7-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1974-494,Jakarta,Hard,32,A,19741103,277,100201,,,Syd Ball,R,188,AUS,24.7748117728,110214,,,Samudra Sangitan,U,,UNK,,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -2694,7 +2694,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1974-520,Roland Garros,Clay,128,G,19740603,6,100122,,,Julian Ganzabal,R,,ARG,27.7727583847,100032,,,Patricio Rodriguez Chi,R,188,CHI,35.4524298426,6-3 6-1,5,R128,,,,,,,,,,,,,,,,,,,,149,0,208,0
 1974-520,Roland Garros,Clay,128,G,19740603,7,100332,,,Balazs Taroczy,R,183,HUN,20.0684462697,100223,,,Jeff Simpson,R,,NZL,23.5947980835,6-4 6-4,5,R128,,,,,,,,,,,,,,,,,,,,136,0,74,0
 1974-520,Roland Garros,Clay,128,G,19740603,8,100172,,,Modesto Tito Vazquez,R,173,ESP,25.4182067077,100258,,,Jorge Andrew,R,,VEN,22.5845311431,2-6 6-4 6-4,5,R128,,,,,,,,,,,,,,,,,,,,105,0,210,0
-1974-520,Roland Garros,Clay,128,G,19740603,9,100214,7,,Adriano Panatta,R,183,ITA,23.9014373717,100039,,,Boro Jovanovic,R,,CRO,34.6173853525,6-4 2-1 ABD,5,R128,,,,,,,,,,,,,,,,,,,,26,0,78,0
+1974-520,Roland Garros,Clay,128,G,19740603,9,100214,7,,Adriano Panatta,R,183,ITA,23.9014373717,100039,,,Boro Jovanovic,R,,CRO,34.6173853525,6-4 2-1 RET,5,R128,,,,,,,,,,,,,,,,,,,,26,0,78,0
 1974-520,Roland Garros,Clay,128,G,19740603,10,100137,,,Hans Jurgen Pohmann,R,,GER,27.0308008214,107488,,,Keith Hancock,R,,AUS,,7-5 7-5,5,R128,,,,,,,,,,,,,,,,,,,,48,0,126,0
 1974-520,Roland Garros,Clay,128,G,19740603,11,100171,,,John Yuill,R,,RSA,25.4729637235,100792,,,Adrian Marcu,R,190,ROU,,6-3 6-2,5,R128,,,,,,,,,,,,,,,,,,,,131,0,,
 1974-520,Roland Garros,Clay,128,G,19740603,12,110020,,,Jean Lovera,R,,FRA,,109814,,,Donald Dell,R,185,USA,35.961670089,6-2 6-2,5,R128,,,,,,,,,,,,,,,,,,,,,,,
@@ -2735,7 +2735,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1974-520,Roland Garros,Clay,128,G,19740603,47,108421,,,Toma Ovici,R,,ROU,,100150,,,Lito Alvarez,R,,ARG,26.4941820671,6-2 6-3,5,R128,,,,,,,,,,,,,,,,,,,,169,0,221,0
 1974-520,Roland Garros,Clay,128,G,19740603,48,100437,3,,Bjorn Borg,R,180,SWE,17.9904175222,100271,,,Jean Francois Caujolle,L,,FRA,22.173853525,4-6 6-0 6-4,5,R128,,,,,,,,,,,,,,,,,,,,8,0,217,0
 1974-520,Roland Garros,Clay,128,G,19740603,49,100300,,,Jose Higueras,R,178,ESP,21.2566735113,100054,,,Jose Mandarino,R,173,BRA,33.1882272416,6-4 6-4,5,R128,,,,,,,,,,,,,,,,,,,,127,0,172,0
-1974-520,Roland Garros,Clay,128,G,19740603,50,100071,,,Jean Claude Barclay,R,,FRA,31.4250513347,100049,,,Jim Mcmanus,L,175,USA,33.711156742,6-0 2-0 ABD,5,R128,,,,,,,,,,,,,,,,,,,,235,0,93,0
+1974-520,Roland Garros,Clay,128,G,19740603,50,100071,,,Jean Claude Barclay,R,,FRA,31.4250513347,100049,,,Jim Mcmanus,L,175,USA,33.711156742,6-0 2-0 RET,5,R128,,,,,,,,,,,,,,,,,,,,235,0,93,0
 1974-520,Roland Garros,Clay,128,G,19740603,51,100186,,,Jeff Borowiak,R,193,USA,24.6872005476,100243,,,Steve Krulevitz,R,175,USA,23.0116358658,6-3 6-2,5,R128,,,,,,,,,,,,,,,,,,,,42,0,137,0
 1974-520,Roland Garros,Clay,128,G,19740603,52,100060,13,,Marty Riessen,R,185,USA,32.4955509925,100176,,,Hans Kary,L,,AUT,25.273100616,1-6 6-4 6-3,5,R128,,,,,,,,,,,,,,,,,,,,14,0,135,0
 1974-520,Roland Garros,Clay,128,G,19740603,53,100286,,,Harold Solomon,R,168,USA,21.7084188912,108118,,,Robert Machan,R,,HUN,,1-6 6-4 6-2,5,R128,,,,,,,,,,,,,,,,,,,,43,0,213,0
@@ -3301,7 +3301,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1974-657,Hampton,Carpet,64,A,19740310,25,100176,,,Hans Kary,L,,AUT,25.0403832991,100141,,,Zeljko Franulovic,R,,CRO,26.7405886379,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 1974-657,Hampton,Carpet,64,A,19740310,26,100332,,,Balazs Taroczy,R,183,HUN,19.8357289528,100179,,,Karl Meiler,R,178,GER,24.8596851472,6-2 6-7 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 1974-657,Hampton,Carpet,64,A,19740310,27,100160,,,Georges Goven,R,173,FRA,25.8699520876,100133,,,Pat Cramer,R,,RSA,26.970568104,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,,
-1974-657,Hampton,Carpet,64,A,19740310,28,100037,,,Nikola Pilic,L,,CRO,34.5352498289,107277,,,Jan Pisecky,R,,CZE,,,5,R16,,,,,,,,,,,,,,,,,,,,,,,
+1974-657,Hampton,Carpet,64,A,19740310,28,100037,,,Nikola Pilic,L,,CRO,34.5352498289,107277,,,Jan Pisecky,R,,CZE,,UNK,5,R16,,,,,,,,,,,,,,,,,,,,,,,
 1974-657,Hampton,Carpet,64,A,19740310,29,100461,,,Billy Martin,R,178,USA,17.2046543463,100038,,,Jaime Pinto Bravo,R,,CHI,34.417522245,7-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 1974-657,Hampton,Carpet,64,A,19740310,30,100161,,,Jurgen Fassbender,R,,GER,25.7823408624,100342,,,Vitas Gerulaitis,R,183,USA,19.6221765914,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 1974-657,Hampton,Carpet,64,A,19740310,31,100119,,,Ilie Nastase,R,183,ROU,27.6413415469,100300,,,Jose Higueras,R,178,ESP,21.0239561944,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,,
@@ -4065,10 +4065,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1974-D038,Davis Cup EUR PR: POL vs HUN,,4,D,19740419,4,100142,,,Peter Szoke,R,,HUN,26.6967830253,107255,,,Jacek Niedzwiedzki,R,,POL,,3-6 6-1 6-3 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1974-D038,Davis Cup EUR PR: POL vs HUN,,4,D,19740419,5,100280,,,Wojtek Fibak,R,183,POL,21.7084188912,100332,,,Balazs Taroczy,R,183,HUN,19.9452429843,4-6 6-4 5-7 7-5 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1974-D039,Davis Cup G1 PR: INA vs JPN,,4,D,19741115,1,100146,,,Jun Kamiwazumi,R,,JPN,27.1238877481,110024,,,Gondo Widjojo,R,,INA,,6-4 6-3 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
-1974-D039,Davis Cup G1 PR: INA vs JPN,,4,D,19741115,2,100149,,,Toshiro Sakai,R,,JPN,26.9787816564,109881,,,Atet Wijono,R,,IND,,6-4 6-3 6-1,5,RR,,,,,,,,,,,,,,,,,,,,,,,
+1974-D039,Davis Cup G1 PR: INA vs JPN,,4,D,19741115,2,100149,,,Toshiro Sakai,R,,JPN,26.9787816564,109881,,,Atet Wijono,R,,INA,23.6824093087,6-4 6-3 6-1,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1974-D039,Davis Cup G1 PR: INA vs JPN,,4,D,19741115,4,100206,,,Kenichi Hirai,R,,JPN,24.6598220397,110983,,,Hadiman Hadiman,U,,INA,23.961670089,6-4 6-4 7-5,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1974-D039,Davis Cup G1 PR: INA vs JPN,,4,D,19741115,5,125694,,,Sochio Kato,U,,JPN,26.2559890486,110214,,,Samudra Sangitan,U,,UNK,,6-3 8-6 6-3,5,RR,,,,,,,,,,,,,,,,,,,,,,,
-1974-D040,Davis Cup WG PR: PHI vs INA,,4,D,19740405,1,106910,,,Eddie Cruz,R,,PHI,,109881,,,Atet Wijono,R,,IND,,6-1 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,,
+1974-D040,Davis Cup WG PR: PHI vs INA,,4,D,19740405,1,106910,,,Eddie Cruz,R,,PHI,,109881,,,Atet Wijono,R,,INA,23.0691307324,6-1 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1974-D040,Davis Cup WG PR: PHI vs INA,,4,D,19740405,2,108172,,,Romeo Rafon,R,,PHI,,110024,,,Gondo Widjojo,R,,INA,,2-6 4-6 6-3 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1974-D040,Davis Cup WG PR: PHI vs INA,,4,D,19740405,4,110983,,,Hadiman Hadiman,U,,INA,23.3483915127,125687,,,Bien Dimalanta,U,,PHI,25.0403832991,9-11 6-4 6-0 6-3,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1974-D041,Davis Cup EUR SF: IND vs JPN,,4,D,19740503,1,100321,,,Vijay Amritraj,R,193,IND,20.3832991102,100149,,,Toshiro Sakai,R,,JPN,26.4421629021,3-6 6-0 3-6 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,,

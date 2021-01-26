@@ -404,7 +404,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1976-277,Berlin,Hard,32,A,19760620,27,100233,,,Ricardo Cano,R,170,ARG,25.3141683778,100280,,,Wojtek Fibak,R,183,POL,23.8795345654,6-4 4-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,49,0,32,0
 1976-277,Berlin,Hard,32,A,19760620,28,100137,,,Hans Jurgen Pohmann,R,,GER,29.0787132101,100444,,,Werner Zirngibl,R,,GER,19.7919233402,6-7 7-5 6-2,3,QF,,,,,,,,,,,,,,,,,,,,72,0,123,0
 1976-277,Berlin,Hard,32,A,19760620,29,100395,,,Victor Pecci,R,193,PAR,20.681724846,100122,,,Julian Ganzabal,R,,ARG,29.8206707734,6-3 6-4 6-3,5,SF,,,,,,,,,,,,,,,,,,,,55,0,92,0
-1976-277,Berlin,Hard,32,A,19760620,30,100137,,,Hans Jurgen Pohmann,R,,GER,29.0787132101,100233,,,Ricardo Cano,R,170,ARG,25.3141683778,,5,SF,,,,,,,,,,,,,,,,,,,,72,0,49,0
+1976-277,Berlin,Hard,32,A,19760620,30,100137,,,Hans Jurgen Pohmann,R,,GER,29.0787132101,100233,,,Ricardo Cano,R,170,ARG,25.3141683778,UNK,5,SF,,,,,,,,,,,,,,,,,,,,72,0,49,0
 1976-277,Berlin,Hard,32,A,19760620,31,100395,,,Victor Pecci,R,193,PAR,20.681724846,100137,,,Hans Jurgen Pohmann,R,,GER,29.0787132101,6-1 6-2 5-7 6-3,5,F,,,,,,,,,,,,,,,,,,,,55,0,72,0
 1976-278,Barcelona,Clay,64,A,19760404,1,100174,,,Manuel Orantes,L,178,ESP,27.1567419576,100142,,,Peter Szoke,R,,HUN,28.6570841889,6-4 6-0,3,R64,,,,,,,,,,,,,,,,,,,,5,0,138,0
 1976-278,Barcelona,Clay,64,A,19760404,2,106629,,,Birger Andersson,R,,SWE,,100238,,,Rick Fisher,R,,USA,25.0184804928,6-2 6-3,3,R64,,,,,,,,,,,,,,,,,,,,95,0,157,0
@@ -636,12 +636,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1976-308,Munich,Clay,32,A,19760504,23,100064,,,Juan Gisbert,R,,ESP,34.0807665982,100137,,,Hans Jurgen Pohmann,R,,GER,28.9500342231,1-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,41,0,74,0
 1976-308,Munich,Clay,32,A,19760504,24,100113,,,Jan Kodes,R,175,CZE,30.1765913758,100090,,,Dick Crealy,R,,AUS,31.6249144422,6-2 1-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,19,0,56,0
 1976-308,Munich,Clay,32,A,19760504,25,100174,,,Manuel Orantes,L,178,ESP,27.2388774812,100062,,,Francois Jauffret,R,180,FRA,34.2313483915,6-2 6-0,3,QF,,,,,,,,,,,,,,,,,,,,5,0,39,0
-1976-308,Munich,Clay,32,A,19760504,26,100176,,,Hans Kary,L,,AUT,27.1923340178,100279,,,Mike Cahill,R,183,USA,23.8795345654,,5,QF,,,,,,,,,,,,,,,,,,,,84,0,79,0
-1976-308,Munich,Clay,32,A,19760504,27,100179,,,Karl Meiler,R,178,GER,27.0116358658,100220,,,Jiri Hrebec,R,,CZE,25.6235455168,,5,QF,,,,,,,,,,,,,,,,,,,,31,0,53,0
-1976-308,Munich,Clay,32,A,19760504,28,100113,,,Jan Kodes,R,175,CZE,30.1765913758,100064,,,Juan Gisbert,R,,ESP,34.0807665982,,5,QF,,,,,,,,,,,,,,,,,,,,19,0,41,0
-1976-308,Munich,Clay,32,A,19760504,29,100174,,,Manuel Orantes,L,178,ESP,27.2388774812,100176,,,Hans Kary,L,,AUT,27.1923340178,,5,SF,,,,,,,,,,,,,,,,,,,,5,0,84,0
-1976-308,Munich,Clay,32,A,19760504,30,100179,,,Karl Meiler,R,178,GER,27.0116358658,100113,,,Jan Kodes,R,175,CZE,30.1765913758,,5,SF,,,,,,,,,,,,,,,,,,,,31,0,19,0
-1976-308,Munich,Clay,32,A,19760504,31,100174,,,Manuel Orantes,L,178,ESP,27.2388774812,100179,,,Karl Meiler,R,178,GER,27.0116358658,,5,F,,,,,,,,,,,,,,,,,,,,5,0,31,0
+1976-308,Munich,Clay,32,A,19760504,26,100176,,,Hans Kary,L,,AUT,27.1923340178,100279,,,Mike Cahill,R,183,USA,23.8795345654,UNK,3,QF,,,,,,,,,,,,,,,,,,,,84,0,79,0
+1976-308,Munich,Clay,32,A,19760504,27,100179,,,Karl Meiler,R,178,GER,27.0116358658,100220,,,Jiri Hrebec,R,,CZE,25.6235455168,UNK,3,QF,,,,,,,,,,,,,,,,,,,,31,0,53,0
+1976-308,Munich,Clay,32,A,19760504,28,100113,,,Jan Kodes,R,175,CZE,30.1765913758,100064,,,Juan Gisbert,R,,ESP,34.0807665982,UNK,3,QF,,,,,,,,,,,,,,,,,,,,19,0,41,0
+1976-308,Munich,Clay,32,A,19760504,29,100174,,,Manuel Orantes,L,178,ESP,27.2388774812,100176,,,Hans Kary,L,,AUT,27.1923340178,UNK,3,SF,,,,,,,,,,,,,,,,,,,,5,0,84,0
+1976-308,Munich,Clay,32,A,19760504,30,100179,,,Karl Meiler,R,178,GER,27.0116358658,100113,,,Jan Kodes,R,175,CZE,30.1765913758,UNK,3,SF,,,,,,,,,,,,,,,,,,,,31,0,19,0
+1976-308,Munich,Clay,32,A,19760504,31,100174,,,Manuel Orantes,L,178,ESP,27.2388774812,100179,,,Karl Meiler,R,178,GER,27.0116358658,UNK,3,F,,,,,,,,,,,,,,,,,,,,5,0,31,0
 1976-309,Madrid,Clay,64,A,19760425,1,100376,,,Buster C Mottram,R,,GBR,21.0020533881,106558,,,Aniceto Alvarez,R,,ESP,,6-2 6-3,3,R64,,,,,,,,,,,,,,,,,,,,34,0,,
 1976-309,Madrid,Clay,64,A,19760425,2,100258,,,Jorge Andrew,R,,VEN,24.4791238877,107457,,,Juan Ignacio Muntanola,R,,ESP,,7-6 6-2,3,R64,,,,,,,,,,,,,,,,,,,,138,0,148,0
 1976-309,Madrid,Clay,64,A,19760425,3,100058,,,Roger Taylor,L,,GBR,34.5297741273,108141,,,Rocky Vasquez,R,,USA,,6-4 6-4,3,R64,,,,,,,,,,,,,,,,,,,,52,0,308,0
@@ -923,8 +923,8 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1976-319,Kitzbuhel,Clay,64,A,19760718,45,100113,,,Jan Kodes,R,175,CZE,30.3819301848,100137,,,Hans Jurgen Pohmann,R,,GER,29.1553730322,6-0 7-6,3,SF,,,,,,,,,,,,,,,,,,,,25,0,72,0
 1976-319,Kitzbuhel,Clay,64,A,19760718,46,100174,,,Manuel Orantes,L,178,ESP,27.4442162902,100062,,,Francois Jauffret,R,180,FRA,34.4366872005,4-6 6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,5,0,35,0
 1976-319,Kitzbuhel,Clay,64,A,19760718,47,100174,,,Manuel Orantes,L,178,ESP,27.4442162902,100113,,,Jan Kodes,R,175,CZE,30.3819301848,7-6 6-2 7-6,5,F,,,,,,,,,,,,,,,,,,,,5,0,25,0
-1976-320,Cleveland,Carpet,32,A,19760129,1,100252,,,Tim Gullikson,R,180,USA,24.3915126626,100102,,,Joaquin Loyo Mayo,R,,MEX,30.4531143053,,5,R32,,,,,,,,,,,,,,,,,,,,172,0,117,0
-1976-320,Cleveland,Carpet,32,A,19760129,2,100428,,,Gene Mayer,R,183,USA,19.8001368925,100411,,,Pavel Slozil,R,173,CZE,20.0848733744,,5,R32,,,,,,,,,,,,,,,,,,,,144,0,218,0
+1976-320,Cleveland,Carpet,32,A,19760129,1,100252,,,Tim Gullikson,R,180,USA,24.3915126626,100102,,,Joaquin Loyo Mayo,R,,MEX,30.4531143053,UNK,3,R32,,,,,,,,,,,,,,,,,,,,172,0,117,0
+1976-320,Cleveland,Carpet,32,A,19760129,2,100428,,,Gene Mayer,R,183,USA,19.8001368925,100411,,,Pavel Slozil,R,173,CZE,20.0848733744,UNK,3,R32,,,,,,,,,,,,,,,,,,,,144,0,218,0
 1976-320,Cleveland,Carpet,32,A,19760129,3,100092,1,,Alex Metreveli,R,,RUS,31.2388774812,100201,,,Syd Ball,R,188,AUS,26.0123203285,1-6 7-5 7-5,3,R16,,,,,,,,,,,,,,,,,,,,47,0,116,0
 1976-320,Cleveland,Carpet,32,A,19760129,4,100474,,,Chris Lewis,R,180,NZL,18.8911704312,100434,,,Tomas Smid,R,190,CZE,19.6933607118,6-0 2-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 1976-320,Cleveland,Carpet,32,A,19760129,5,100301,,,Jim Delaney,R,,USA,22.8829568789,100252,,,Tim Gullikson,R,180,USA,24.3915126626,6-3 2-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,73,0,172,0
@@ -1600,10 +1600,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1976-3935,WCT Challenge Cup,Hard,8,A,19760215,3,100074,,,Arthur Ashe,R,185,USA,32.6023271732,100309,,,Raul Ramirez,R,183,MEX,22.6557152635,6-2 7-6 6-1,5,RR,,,,,,,,,,,,,,,,,,,,4,0,13,0
 1976-3935,WCT Challenge Cup,Hard,8,A,19760215,4,100074,,,Arthur Ashe,R,185,USA,32.6023271732,100016,,,Ken Rosewall,R,175,AUS,41.28678987,2-6 6-4 6-2 6-2,5,SF,,,,,,,,,,,,,,,,,,,,4,0,6,0
 1976-3935,WCT Challenge Cup,Hard,8,A,19760215,5,100119,,,Ilie Nastase,R,183,ROU,29.5770020534,100074,,,Arthur Ashe,R,185,USA,32.6023271732,6-3 1-6 6-7 6-3 6-1,5,F,,,,,,,,,,,,,,,,,,,,7,0,4,0
-1976-3935,WCT Challenge Cup,Hard,8,A,19760215,6,100437,,,Bjorn Borg,R,180,SWE,19.6933607118,100309,,,Raul Ramirez,R,183,MEX,22.6557152635,6-3 4-6 6-3 3-0 RET,3,RR,,,,,,,,,,,,,,,,,,,,3,0,13,0
+1976-3935,WCT Challenge Cup,Hard,8,A,19760215,6,100437,,,Bjorn Borg,R,180,SWE,19.6933607118,100309,,,Raul Ramirez,R,183,MEX,22.6557152635,6-3 4-6 6-3 3-0 RET,5,RR,,,,,,,,,,,,,,,,,,,,3,0,13,0
 1976-3935,WCT Challenge Cup,Hard,8,A,19760215,7,100437,,,Bjorn Borg,R,180,SWE,19.6933607118,100087,,,John Newcombe,R,183,AUS,31.7316906229,2-6 7-5 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,,3,0,20,0
 1976-3935,WCT Challenge Cup,Hard,8,A,19760215,8,100119,,,Ilie Nastase,R,183,ROU,29.5770020534,100437,,,Bjorn Borg,R,180,SWE,19.6933607118,6-1 3-6 4-6 6-3 6-4,5,SF,,,,,,,,,,,,,,,,,,,,7,0,3,0
-1976-3935,WCT Challenge Cup,Hard,8,A,19760215,9,100087,,,John Newcombe,R,183,AUS,31.7316906229,100309,,,Raul Ramirez,R,183,MEX,22.6557152635,6-4 6-1 3-6 5-7 6-2 RET,3,RR,,,,,,,,,,,,,,,,,,,,20,0,13,0
+1976-3935,WCT Challenge Cup,Hard,8,A,19760215,9,100087,,,John Newcombe,R,183,AUS,31.7316906229,100309,,,Raul Ramirez,R,183,MEX,22.6557152635,6-4 6-1 3-6 5-7 6-2 RET,5,RR,,,,,,,,,,,,,,,,,,,,20,0,13,0
 1976-3935,WCT Challenge Cup,Hard,8,A,19760215,10,100119,,,Ilie Nastase,R,183,ROU,29.5770020534,100244,,,John Alexander,R,190,AUS,24.6187542779,6-3 6-4 7-6,5,RR,,,,,,,,,,,,,,,,,,,,7,0,8,0
 1976-3935,WCT Challenge Cup,Hard,8,A,19760215,11,100119,,,Ilie Nastase,R,183,ROU,29.5770020534,100029,,,Rod Laver,L,173,AUS,37.5195071869,7-6 6-1 4-6 6-3,5,RR,,,,,,,,,,,,,,,,,,,,7,0,10,0
 1976-3935,WCT Challenge Cup,Hard,8,A,19760215,12,100119,,,Ilie Nastase,R,183,ROU,29.5770020534,100016,,,Ken Rosewall,R,175,AUS,41.28678987,6-0 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,,7,0,6,0
@@ -2631,7 +2631,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1976-520,Roland Garros,Clay,128,G,19760531,12,100139,,,Gerald Battrick,R,178,GBR,29.0130047912,100263,,,John Andrews,R,,USA,24.3175906913,6-4 6-4 7-6,5,R128,,,,,,,,,,,,,,,,,,,,112,0,70,0
 1976-520,Roland Garros,Clay,128,G,19760531,13,100261,10,,Brian Gottfried,R,183,USA,24.3422313484,109771,,,Jairo Velasco,R,,ESP,29.0622861054,7-5 6-1 7-5,5,R128,,,,,,,,,,,,,,,,,,,,23,0,,
 1976-520,Roland Garros,Clay,128,G,19760531,14,100150,,,Lito Alvarez,R,,ARG,28.4873374401,100180,,,Bill Lloyd,R,,AUS,27.0663928816,7-6 4-6 7-6 7-6,5,R128,,,,,,,,,,,,,,,,,,,,104,0,282,0
-1976-520,Roland Garros,Clay,128,G,19760531,15,100325,,,Ulrich Pinner,R,,GER,22.3107460643,107457,,,Juan Ignacio Muntanola,R,,ESP,,6-1 1-0 ABD,5,R128,,,,,,,,,,,,,,,,,,,,60,0,148,0
+1976-520,Roland Garros,Clay,128,G,19760531,15,100325,,,Ulrich Pinner,R,,GER,22.3107460643,107457,,,Juan Ignacio Muntanola,R,,ESP,,6-1 1-0 RET,5,R128,,,,,,,,,,,,,,,,,,,,60,0,148,0
 1976-520,Roland Garros,Clay,128,G,19760531,16,100037,,,Nikola Pilic,L,,CRO,36.7611225188,100049,,,Jim Mcmanus,L,175,USA,35.704312115,6-2 2-6 7-6 6-1,5,R128,,,,,,,,,,,,,,,,,,,,50,0,152,0
 1976-520,Roland Garros,Clay,128,G,19760531,17,100074,4,,Arthur Ashe,R,185,USA,32.8925393566,100251,,,Grover Raz Reid,R,,USA,24.7611225188,7-6 6-3 7-5,5,R128,,,,,,,,,,,,,,,,,,,,4,0,117,0
 1976-520,Roland Garros,Clay,128,G,19760531,18,100121,,,Raymond Moore,R,183,RSA,29.7686516085,100158,,,John Bartlett,R,188,AUS,28.205338809,6-0 6-2 6-4,5,R128,,,,,,,,,,,,,,,,,,,,61,0,179,0
@@ -2727,7 +2727,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1976-520,Roland Garros,Clay,128,G,19760531,108,100174,3,,Manuel Orantes,L,178,ESP,27.3127994524,100122,,,Julian Ganzabal,R,,ARG,29.7659137577,6-0 6-3 6-4,5,R32,,,,,,,,,,,,,,,,,,,,5,0,125,0
 1976-520,Roland Garros,Clay,128,G,19760531,109,100141,,,Zeljko Franulovic,R,,CRO,28.9664613279,100025,,,Barry Phillips Moore,R,173,AUS,38.893908282,3-6 7-6 6-2 4-6 6-4,5,R32,,,,,,,,,,,,,,,,,,,,68,0,128,0
 1976-520,Roland Garros,Clay,128,G,19760531,110,100214,8,,Adriano Panatta,R,183,ITA,25.8945927447,100220,,,Jiri Hrebec,R,,CZE,25.697467488,7-5 6-3 6-4,5,R32,,,,,,,,,,,,,,,,,,,,14,0,53,0
-1976-520,Roland Garros,Clay,128,G,19760531,111,100062,16,,Francois Jauffret,R,180,FRA,34.3052703628,100300,,,Jose Higueras,R,178,ESP,23.2498288843,7-5 2-6 6-7 6-4 1-2 ABD,5,R32,,,,,,,,,,,,,,,,,,,,39,0,46,0
+1976-520,Roland Garros,Clay,128,G,19760531,111,100062,16,,Francois Jauffret,R,180,FRA,34.3052703628,100300,,,Jose Higueras,R,178,ESP,23.2498288843,7-5 2-6 6-7 6-4 1-2 RET,5,R32,,,,,,,,,,,,,,,,,,,,39,0,46,0
 1976-520,Roland Garros,Clay,128,G,19760531,112,100437,1,,Bjorn Borg,R,180,SWE,19.9835728953,100200,,,Antonio Zugarelli,R,,ITA,26.3682409309,6-3 6-4 6-4,5,R32,,,,,,,,,,,,,,,,,,,,3,0,90,0
 1976-520,Roland Garros,Clay,128,G,19760531,113,100282,2,,Guillermo Vilas,L,180,ARG,23.7864476386,100297,15,,Corrado Barazzutti,R,178,ITA,23.2772073922,6-2 6-2 6-3,5,R16,,,,,,,,,,,,,,,,,,,,2,0,40,0
 1976-520,Roland Garros,Clay,128,G,19760531,114,100286,7,,Harold Solomon,R,168,USA,23.7015742642,100261,10,,Brian Gottfried,R,183,USA,24.3422313484,1-6 7-5 6-3 6-2,5,R16,,,,,,,,,,,,,,,,,,,,17,0,23,0
@@ -3167,22 +3167,22 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1976-654,Sacramento,Carpet,16,A,19760422,14,100047,,,Bob Carmichael,R,183,AUS,35.8001368925,100196,,,Haroon Rahim,R,,PAK,26.4421629021,5-7 6-4 7-5,3,SF,,,,,,,,,,,,,,,,,,,,71,0,74,0
 1976-654,Sacramento,Carpet,16,A,19760422,15,100127,,,Tom Gorman,R,180,USA,29.3415468857,100047,,,Bob Carmichael,R,183,AUS,35.8001368925,6-2 6-4,3,F,,,,,,,,,,,,,,,,,,,,45,0,71,0
 1976-655,Palma,Clay,64,A,19760418,1,100376,,,Buster C Mottram,R,,GBR,20.9828884326,100298,,,George Hardie,L,,USA,23.1594798084,6-2 6-3,3,R64,,,,,,,,,,,,,,,,,,,,34,0,107,0
-1976-655,Palma,Clay,64,A,19760418,2,100249,,,Paolo Bertolucci,R,175,ITA,24.7091033539,100288,,,Tenny Svensson,R,,SWE,23.5728952772,,5,R64,,,,,,,,,,,,,,,,,,,,57,0,131,0
-1976-655,Palma,Clay,64,A,19760418,3,100281,,,Sashi Menon,R,180,IND,23.6906228611,107429,,,Jose Castanon,R,,ESP,,,5,R64,,,,,,,,,,,,,,,,,,,,88,0,222,0
-1976-655,Palma,Clay,64,A,19760418,4,100337,,,Mark Edmondson,R,185,AUS,21.8179329227,100343,,,John Lloyd,R,178,GBR,21.6427104723,,5,R64,,,,,,,,,,,,,,,,,,,,212,0,93,0
-1976-655,Palma,Clay,64,A,19760418,5,100221,,,Carlos Kirmayr,R,173,BRA,25.568788501,100139,,,Gerald Battrick,R,178,GBR,28.8952772074,,5,R64,,,,,,,,,,,,,,,,,,,,103,0,112,0
-1976-655,Palma,Clay,64,A,19760418,6,100235,,,Antonio Munoz,R,,ESP,25.1334702259,110137,,,U Fischtel,U,,UNK,,,5,R64,,,,,,,,,,,,,,,,,,,,130,0,,
-1976-655,Palma,Clay,64,A,19760418,7,107457,,,Juan Ignacio Muntanola,R,,ESP,,106945,,,Enrique Caviglia,R,,ARG,,,5,R64,,,,,,,,,,,,,,,,,,,,148,0,,
-1976-655,Palma,Clay,64,A,19760418,8,100058,,,Roger Taylor,L,,GBR,34.5106091718,100263,,,John Andrews,R,,USA,24.1998631075,,5,R64,,,,,,,,,,,,,,,,,,,,52,0,70,0
-1976-655,Palma,Clay,64,A,19760418,9,106629,,,Birger Andersson,R,,SWE,,100137,,,Hans Jurgen Pohmann,R,,GER,28.9062286105,,5,R64,,,,,,,,,,,,,,,,,,,,95,0,74,0
-1976-655,Palma,Clay,64,A,19760418,10,108192,,,Sachio Kato,R,,JPN,,100292,,,Alvaro Fillol,R,178,CHI,23.370294319,,5,R64,,,,,,,,,,,,,,,,,,,,282,0,264,0
-1976-655,Palma,Clay,64,A,19760418,11,100243,,,Steve Krulevitz,R,175,USA,24.887063655,100271,,,Jean Francois Caujolle,L,,FRA,24.0492813142,,5,R64,,,,,,,,,,,,,,,,,,,,131,0,101,0
-1976-655,Palma,Clay,64,A,19760418,12,100193,,,Wanaro N'Godrella,R,,FRA,26.4969199179,100025,,,Barry Phillips Moore,R,173,AUS,38.7761806982,,5,R64,,,,,,,,,,,,,,,,,,,,199,0,128,0
-1976-655,Palma,Clay,64,A,19760418,13,100369,,,Herve Gauvain,R,180,FRA,21.1252566735,100171,,,John Yuill,R,,RSA,27.3483915127,,5,R64,,,,,,,,,,,,,,,,,,,,373,0,147,0
-1976-655,Palma,Clay,64,A,19760418,14,100083,,,Nicola Spear,R,,SRB,32.1533196441,100396,,,Martin Robinson,L,,GBR,20.4982888433,,5,R64,,,,,,,,,,,,,,,,,,,,92,0,105,0
-1976-655,Palma,Clay,64,A,19760418,15,109771,,,Jairo Velasco,R,,ESP,28.9445585216,100064,,,Juan Gisbert,R,,ESP,34.0369609856,,5,R64,,,,,,,,,,,,,,,,,,,,,,41,0
-1976-655,Palma,Clay,64,A,19760418,16,100124,,,Steve Turner,R,,USA,29.5030800821,107425,,,Jose Moreno,R,,ESP,,,5,R64,,,,,,,,,,,,,,,,,,,,150,0,222,0
-1976-655,Palma,Clay,64,A,19760418,17,100376,,,Buster C Mottram,R,,GBR,20.9828884326,100155,,,Ramiro Benavides,R,,BOL,28.2162902122,,5,R32,,,,,,,,,,,,,,,,,,,,34,0,153,0
+1976-655,Palma,Clay,64,A,19760418,2,100249,,,Paolo Bertolucci,R,175,ITA,24.7091033539,100288,,,Tenny Svensson,R,,SWE,23.5728952772,UNK,3,R64,,,,,,,,,,,,,,,,,,,,57,0,131,0
+1976-655,Palma,Clay,64,A,19760418,3,100281,,,Sashi Menon,R,180,IND,23.6906228611,107429,,,Jose Castanon,R,,ESP,,UNK,3,R64,,,,,,,,,,,,,,,,,,,,88,0,222,0
+1976-655,Palma,Clay,64,A,19760418,4,100337,,,Mark Edmondson,R,185,AUS,21.8179329227,100343,,,John Lloyd,R,178,GBR,21.6427104723,UNK,3,R64,,,,,,,,,,,,,,,,,,,,212,0,93,0
+1976-655,Palma,Clay,64,A,19760418,5,100221,,,Carlos Kirmayr,R,173,BRA,25.568788501,100139,,,Gerald Battrick,R,178,GBR,28.8952772074,UNK,3,R64,,,,,,,,,,,,,,,,,,,,103,0,112,0
+1976-655,Palma,Clay,64,A,19760418,6,100235,,,Antonio Munoz,R,,ESP,25.1334702259,110137,,,U Fischtel,U,,UNK,,UNK,3,R64,,,,,,,,,,,,,,,,,,,,130,0,,
+1976-655,Palma,Clay,64,A,19760418,7,107457,,,Juan Ignacio Muntanola,R,,ESP,,106945,,,Enrique Caviglia,R,,ARG,,UNK,3,R64,,,,,,,,,,,,,,,,,,,,148,0,,
+1976-655,Palma,Clay,64,A,19760418,8,100058,,,Roger Taylor,L,,GBR,34.5106091718,100263,,,John Andrews,R,,USA,24.1998631075,UNK,3,R64,,,,,,,,,,,,,,,,,,,,52,0,70,0
+1976-655,Palma,Clay,64,A,19760418,9,106629,,,Birger Andersson,R,,SWE,,100137,,,Hans Jurgen Pohmann,R,,GER,28.9062286105,UNK,3,R64,,,,,,,,,,,,,,,,,,,,95,0,74,0
+1976-655,Palma,Clay,64,A,19760418,10,108192,,,Sachio Kato,R,,JPN,,100292,,,Alvaro Fillol,R,178,CHI,23.370294319,UNK,3,R64,,,,,,,,,,,,,,,,,,,,282,0,264,0
+1976-655,Palma,Clay,64,A,19760418,11,100243,,,Steve Krulevitz,R,175,USA,24.887063655,100271,,,Jean Francois Caujolle,L,,FRA,24.0492813142,UNK,3,R64,,,,,,,,,,,,,,,,,,,,131,0,101,0
+1976-655,Palma,Clay,64,A,19760418,12,100193,,,Wanaro N'Godrella,R,,FRA,26.4969199179,100025,,,Barry Phillips Moore,R,173,AUS,38.7761806982,UNK,3,R64,,,,,,,,,,,,,,,,,,,,199,0,128,0
+1976-655,Palma,Clay,64,A,19760418,13,100369,,,Herve Gauvain,R,180,FRA,21.1252566735,100171,,,John Yuill,R,,RSA,27.3483915127,UNK,3,R64,,,,,,,,,,,,,,,,,,,,373,0,147,0
+1976-655,Palma,Clay,64,A,19760418,14,100083,,,Nicola Spear,R,,SRB,32.1533196441,100396,,,Martin Robinson,L,,GBR,20.4982888433,UNK,3,R64,,,,,,,,,,,,,,,,,,,,92,0,105,0
+1976-655,Palma,Clay,64,A,19760418,15,109771,,,Jairo Velasco,R,,ESP,28.9445585216,100064,,,Juan Gisbert,R,,ESP,34.0369609856,UNK,3,R64,,,,,,,,,,,,,,,,,,,,,,41,0
+1976-655,Palma,Clay,64,A,19760418,16,100124,,,Steve Turner,R,,USA,29.5030800821,107425,,,Jose Moreno,R,,ESP,,UNK,3,R64,,,,,,,,,,,,,,,,,,,,150,0,222,0
+1976-655,Palma,Clay,64,A,19760418,17,100376,,,Buster C Mottram,R,,GBR,20.9828884326,100155,,,Ramiro Benavides,R,,BOL,28.2162902122,UNK,3,R32,,,,,,,,,,,,,,,,,,,,34,0,153,0
 1976-655,Palma,Clay,64,A,19760418,18,100249,,,Paolo Bertolucci,R,175,ITA,24.7091033539,100281,,,Sashi Menon,R,180,IND,23.6906228611,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,57,0,88,0
 1976-655,Palma,Clay,64,A,19760418,19,100337,,,Mark Edmondson,R,185,AUS,21.8179329227,100150,,,Lito Alvarez,R,,ARG,28.3696098563,7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,212,0,104,0
 1976-655,Palma,Clay,64,A,19760418,20,100228,,,Kjell Johansson,R,,SWE,25.1800136893,100221,,,Carlos Kirmayr,R,173,BRA,25.568788501,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,97,0,103,0
@@ -3796,9 +3796,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1976-D005,Davis Cup AME PR: ARG vs ECU,Clay,4,D,19761112,2,107000,,,Fernando Dalla Fontana,R,,ARG,,107799,,,Miguel Olvera,R,,ECU,,5-7 8-6 6-1 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1976-D005,Davis Cup AME PR: ARG vs ECU,Clay,4,D,19761112,4,100555,,,Jose Luis Clerc,R,185,ARG,18.2422997947,110799,,,Colon Nunez,U,,ECU,21.5989048597,6-3 6-1 6-1,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1976-D005,Davis Cup AME PR: ARG vs ECU,Clay,4,D,19761112,5,100526,,,Ricardo Ycaza,R,183,ECU,18.7378507871,107000,,,Fernando Dalla Fontana,R,,ARG,,6-3 12-10 6-3,5,RR,,,,,,,,,,,,,,,,,,,,,,,
-1976-D006,Davis Cup AME SF: AUS vs INA,Grass,4,D,19760109,1,100100,,,Tony Roche,L,178,AUS,30.6475017112,109881,,,Atet Wijono,R,,IND,,6-0 6-0 6-0,5,RR,,,,,,,,,,,,,,,,,,,,12,0,,
+1976-D006,Davis Cup AME SF: AUS vs INA,Grass,4,D,19760109,1,100100,,,Tony Roche,L,178,AUS,30.6475017112,109881,,,Atet Wijono,R,,INA,24.8323066393,6-0 6-0 6-0,5,RR,,,,,,,,,,,,,,,,,,,,12,0,,
 1976-D006,Davis Cup AME SF: AUS vs INA,Grass,4,D,19760109,2,100087,,,John Newcombe,R,183,AUS,31.6303901437,110024,,,Gondo Widjojo,R,,INA,,6-1 6-2 7-5,5,RR,,,,,,,,,,,,,,,,,,,,20,0,,
-1976-D006,Davis Cup AME SF: AUS vs INA,Grass,4,D,19760109,4,100087,,,John Newcombe,R,183,AUS,31.6303901437,109881,,,Atet Wijono,R,,IND,,6-2 6-1 6-1,5,RR,,,,,,,,,,,,,,,,,,,,20,0,,
+1976-D006,Davis Cup AME SF: AUS vs INA,Grass,4,D,19760109,4,100087,,,John Newcombe,R,183,AUS,31.6303901437,109881,,,Atet Wijono,R,,INA,24.8323066393,6-2 6-1 6-1,5,RR,,,,,,,,,,,,,,,,,,,,20,0,,
 1976-D006,Davis Cup AME SF: AUS vs INA,Grass,4,D,19760109,5,100100,,,Tony Roche,L,178,AUS,30.6475017112,107473,,,Justedjo Tarik,R,,INA,22.3600273785,6-3 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,,12,0,,
 1976-D007,Davis Cup WG SF: ITA vs AUS,Clay,4,D,19760924,1,100297,,,Corrado Barazzutti,R,178,ITA,23.5947980835,100087,,,John Newcombe,R,183,AUS,32.3394934976,7-5 6-1 6-4,5,RR,,,,,,,,,,,,,,,,,,,,21,0,16,0
 1976-D007,Davis Cup WG SF: ITA vs AUS,Clay,4,D,19760924,2,100244,,,John Alexander,R,190,AUS,25.2265571526,100214,,,Adriano Panatta,R,183,ITA,26.212183436,7-5 6-3 6-4,5,RR,,,,,,,,,,,,,,,,,,,,20,0,6,0
