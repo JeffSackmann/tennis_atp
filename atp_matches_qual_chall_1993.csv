@@ -69,7 +69,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1993-787,Bangalore CH,Clay,32,C,19930125,6,101682,,,David Adams,R,188,RSA,23.0362765229,102039,,WC,Gaurav Natekar,R,,IND,20.7912388775,4-6 6-0 7-6,3,R32,,,,,,,,,,,,,,,,,,,,331,66,706,11
 1993-787,Bangalore CH,Clay,32,C,19930125,7,102247,5,,Andrea Gaudenzi,R,183,ITA,19.4715947981,102113,,,Daniele Musa,R,183,ITA,20.3559206023,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,264,106,305,82
 1993-787,Bangalore CH,Clay,32,C,19930125,8,102084,6,,Simon Touzil,R,185,GER,20.5284052019,101975,,,Martin Zumpft,R,180,GER,21.273100616,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,271,104,583,19
-1993-787,Bangalore CH,Clay,32,C,19930125,9,108479,,Q,Vinod Ramachandran,R,,IND,,209473,,LL,Sharad Kohli,R,,IND,16.4982888433,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1993-787,Bangalore CH,Clay,32,C,19930125,9,108479,,Q,Vinod Ramachandran,R,,IND,19.2854209446,209473,,LL,Sharad Kohli,R,,IND,16.4982888433,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1993-787,Bangalore CH,Clay,32,C,19930125,10,101550,,,Al Parker,R,188,USA,24.0739219713,108333,,Q,Suhel Malhotra,R,,IND,,4-6 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,370,54,,
 1993-787,Bangalore CH,Clay,32,C,19930125,11,101515,7,,Donald Johnson,L,190,USA,24.3586584531,101431,,Q,Sascha Grabow,L,188,GER,25.0102669405,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,290,88,,
 1993-787,Bangalore CH,Clay,32,C,19930125,12,101389,,,Oren Motevassel,L,170,USA,25.3990417522,101260,,,Sean Cole,R,,GBR,26.6310746064,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,318,72,329,67
@@ -78,7 +78,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1993-787,Bangalore CH,Clay,32,C,19930125,15,101367,,,Igor Saric,R,190,CRO,25.5441478439,101760,8,,David Kass,R,180,USA,22.5927446954,7-6 3-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,402,46,300,83
 1993-787,Bangalore CH,Clay,32,C,19930125,16,101365,,,Paul Wekesa,R,188,KEN,25.5496235455,101680,,WC,Zeeshan Ali,R,180,IND,23.0472279261,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,366,55,416,42
 1993-787,Bangalore CH,Clay,32,C,19930125,17,102247,5,,Andrea Gaudenzi,R,183,ITA,19.4715947981,101682,,,David Adams,R,188,RSA,23.0362765229,6-2 7-6,3,R16,,,,,,,,,,,,,,,,,,,,264,106,331,66
-1993-787,Bangalore CH,Clay,32,C,19930125,18,102084,6,,Simon Touzil,R,185,GER,20.5284052019,108479,,Q,Vinod Ramachandran,R,,IND,,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,271,104,,
+1993-787,Bangalore CH,Clay,32,C,19930125,18,102084,6,,Simon Touzil,R,185,GER,20.5284052019,108479,,Q,Vinod Ramachandran,R,,IND,19.2854209446,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,271,104,,
 1993-787,Bangalore CH,Clay,32,C,19930125,19,102133,,,Laurence Tieleman,R,180,ITA,20.1779603012,101550,,,Al Parker,R,188,USA,24.0739219713,6-4 7-6,3,R16,,,,,,,,,,,,,,,,,,,,248,119,370,54
 1993-787,Bangalore CH,Clay,32,C,19930125,20,101389,,,Oren Motevassel,L,170,USA,25.3990417522,101515,7,,Donald Johnson,L,190,USA,24.3586584531,2-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,318,72,290,88
 1993-787,Bangalore CH,Clay,32,C,19930125,21,100794,,WC,Srinivasan Vasudevan,R,190,IND,31.0390143737,102276,,,Sandeep Kirtane,R,,IND,19.227926078,4-6 7-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,773,7,751,8
@@ -222,7 +222,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1993-254,Vancouver CH,Hard,32,C,19930208,7,102104,,Q,Christian Ruud,R,188,NOR,20.4599589322,101868,,Q,Dick Norman,L,203,BEL,21.9438740589,4-6 6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,265,105,503,28
 1993-254,Vancouver CH,Hard,32,C,19930208,8,100773,,Q,Brian Joelson,R,183,USA,31.3593429158,101719,6,,Frederic Fontang,R,183,FRA,22.8966461328,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,313,77,156,272
 1993-254,Vancouver CH,Hard,32,C,19930208,9,102226,,,David Witt,R,190,USA,19.6878850103,101066,5,,Richard Matuszewski,R,188,USA,28.4216290212,3-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,212,161,150,281
-1993-254,Vancouver CH,Hard,32,C,19930208,10,107022,,,Francesco Michelotti,R,,ITA,,100752,,,Ramesh Krishnan,R,170,IND,31.6796714579,7-6 2-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,273,101,217,153
+1993-254,Vancouver CH,Hard,32,C,19930208,10,107022,,,Francesco Michelotti,R,,ITA,23.2963723477,100752,,,Ramesh Krishnan,R,170,IND,31.6796714579,7-6 2-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,273,101,217,153
 1993-254,Vancouver CH,Hard,32,C,19930208,11,101865,,WC,Albert Chang,R,183,CAN,21.9493497604,102147,,,Oliver Fernandez,R,175,MEX,20.1724845996,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,360,58,193,186
 1993-254,Vancouver CH,Hard,32,C,19930208,12,101354,3,,Andrew Sznajder,R,175,CAN,25.711156742,100997,,,Roger Smith,R,185,BAH,29.054072553,6-1 5-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,137,313,174,214
 1993-254,Vancouver CH,Hard,32,C,19930208,13,101593,8,,Chris Garner,R,180,USA,23.8412046543,102368,,WC,Brian Dunn,R,201,USA,18.8473648186,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,177,205,441,37
@@ -233,13 +233,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1993-254,Vancouver CH,Hard,32,C,19930208,18,101224,,,Kenny Thorne,R,188,USA,27.0417522245,101435,,WC,Brian Gyetko,R,183,CAN,25.0376454483,4-6 6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,171,216,498,28
 1993-254,Vancouver CH,Hard,32,C,19930208,19,101106,,,Peter Lundgren,R,185,SWE,28.0273785079,100772,,,Kelly Evernden,R,175,NZL,31.3839835729,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,186,192,241,125
 1993-254,Vancouver CH,Hard,32,C,19930208,20,100773,,Q,Brian Joelson,R,183,USA,31.3593429158,102104,,Q,Christian Ruud,R,188,NOR,20.4599589322,5-7 6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,313,77,265,105
-1993-254,Vancouver CH,Hard,32,C,19930208,21,107022,,,Francesco Michelotti,R,,ITA,,102226,,,David Witt,R,190,USA,19.6878850103,6-2 6-7 7-6,3,R16,,,,,,,,,,,,,,,,,,,,273,101,212,161
+1993-254,Vancouver CH,Hard,32,C,19930208,21,107022,,,Francesco Michelotti,R,,ITA,23.2963723477,102226,,,David Witt,R,190,USA,19.6878850103,6-2 6-7 7-6,3,R16,,,,,,,,,,,,,,,,,,,,273,101,212,161
 1993-254,Vancouver CH,Hard,32,C,19930208,22,101865,,WC,Albert Chang,R,183,CAN,21.9493497604,101354,3,,Andrew Sznajder,R,175,CAN,25.711156742,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,360,58,137,313
 1993-254,Vancouver CH,Hard,32,C,19930208,23,101593,8,,Chris Garner,R,180,USA,23.8412046543,102158,,,Patrick Rafter,R,185,AUS,20.1149897331,6-2 3-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,,177,205,224,145
 1993-254,Vancouver CH,Hard,32,C,19930208,24,102205,,,Sebastien Lareau,R,183,CAN,19.7864476386,101312,2,,Robbie Weiss,R,183,USA,26.1902806297,3-6 6-4 7-6,3,R16,,,,,,,,,,,,,,,,,,,,203,171,118,370
 1993-254,Vancouver CH,Hard,32,C,19930208,25,101224,,,Kenny Thorne,R,188,USA,27.0417522245,101687,,Q,David Dilucia,R,173,USA,23.0663928816,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,171,216,319,74
 1993-254,Vancouver CH,Hard,32,C,19930208,26,101106,,,Peter Lundgren,R,185,SWE,28.0273785079,100773,,Q,Brian Joelson,R,183,USA,31.3593429158,6-0 6-2,3,QF,,,,,,,,,,,,,,,,,,,,186,192,313,77
-1993-254,Vancouver CH,Hard,32,C,19930208,27,101865,,WC,Albert Chang,R,183,CAN,21.9493497604,107022,,,Francesco Michelotti,R,,ITA,,7-6 7-6,3,QF,,,,,,,,,,,,,,,,,,,,360,58,273,101
+1993-254,Vancouver CH,Hard,32,C,19930208,27,101865,,WC,Albert Chang,R,183,CAN,21.9493497604,107022,,,Francesco Michelotti,R,,ITA,23.2963723477,7-6 7-6,3,QF,,,,,,,,,,,,,,,,,,,,360,58,273,101
 1993-254,Vancouver CH,Hard,32,C,19930208,28,101593,8,,Chris Garner,R,180,USA,23.8412046543,102205,,,Sebastien Lareau,R,183,CAN,19.7864476386,6-3 3-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,177,205,203,171
 1993-254,Vancouver CH,Hard,32,C,19930208,29,101224,,,Kenny Thorne,R,188,USA,27.0417522245,101106,,,Peter Lundgren,R,185,SWE,28.0273785079,7-6 6-4,3,SF,,,,,,,,,,,,,,,,,,,,171,216,186,192
 1993-254,Vancouver CH,Hard,32,C,19930208,30,101865,,WC,Albert Chang,R,183,CAN,21.9493497604,101593,8,,Chris Garner,R,180,USA,23.8412046543,7-5 6-2,3,SF,,,,,,,,,,,,,,,,,,,,360,58,177,205
@@ -435,7 +435,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1993-848,Garmisch CH,Carpet,32,C,19930301,3,101058,,,Francisco Yunis,R,190,ARG,28.5503080082,102564,,WC,Filip Roj,R,,GER,17.9301848049,6-1 4-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,234,135,,
 1993-848,Garmisch CH,Carpet,32,C,19930301,4,101866,7,,David Rikl,L,178,CZE,22.006844627,101849,,,Nicola Bruno,R,178,ITA,22.0944558522,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,146,297,217,159
 1993-848,Garmisch CH,Carpet,32,C,19930301,5,101792,4,,Slava Dosedel,R,183,CZE,22.546201232,101383,,,Stephane Sansoni,R,180,FRA,25.5523613963,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,122,351,227,141
-1993-848,Garmisch CH,Carpet,32,C,19930301,6,101050,,,Martin Laurendeau,R,190,CAN,28.6406570842,109352,,WC,Michael Gardemann,R,,GER,,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,266,109,,
+1993-848,Garmisch CH,Carpet,32,C,19930301,6,101050,,,Martin Laurendeau,R,190,CAN,28.6406570842,109352,,WC,Michael Gardemann,R,,GER,17.6673511294,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,266,109,,
 1993-848,Garmisch CH,Carpet,32,C,19930301,7,102588,,WC,Lars Rehmann,R,196,GER,17.7796030116,101143,,Q,Branislav Stankovic,R,175,SVK,27.7535934292,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,616,17,259,116
 1993-848,Garmisch CH,Carpet,32,C,19930301,8,101123,6,,Alexander Mronz,R,188,GER,27.8986995209,101227,,,Daniel Marco,R,178,ESP,27.0800821355,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,137,315,197,186
 1993-848,Garmisch CH,Carpet,32,C,19930301,9,101133,5,,Patrick Baur,R,188,GER,27.8275154004,102233,,,Leander Paes,R,178,IND,19.704312115,7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,133,325,204,179
@@ -686,13 +686,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1993-217,Nagoya CH,Hard,32,C,19930419,6,101280,,,Mikael Stadling,L,188,SWE,26.6913073238,102409,,WC,Naoki Arimoto,R,,JPN,18.8528405202,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,345,72,,
 1993-217,Nagoya CH,Hard,32,C,19930419,7,108369,,Q,Tetsuya Sato,R,,JPN,,100752,,,Ramesh Krishnan,R,170,IND,31.871321013,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,706,12,274,104
 1993-217,Nagoya CH,Hard,32,C,19930419,8,102158,5,,Patrick Rafter,R,185,AUS,20.3066392882,101477,,,Chris Bailey,R,196,GBR,24.9719370294,7-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,203,178,285,97
-1993-217,Nagoya CH,Hard,32,C,19930419,9,101788,6,,Doug Flach,R,183,USA,22.6913073238,108443,,Q,Toshitsugu Mori,R,,JPN,,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,212,169,866,6
+1993-217,Nagoya CH,Hard,32,C,19930419,9,101788,6,,Doug Flach,R,183,USA,22.6913073238,108443,,Q,Toshitsugu Mori,R,,JPN,23.3237508556,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,212,169,866,6
 1993-217,Nagoya CH,Hard,32,C,19930419,10,102348,,,Hideki Kaneko,R,,JPN,19.1211498973,101499,,WC,Eduardo Furusho,L,168,JPN,24.7857631759,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,330,77,629,17
 1993-217,Nagoya CH,Hard,32,C,19930419,11,101906,,,Yasufumi Yamamoto,R,175,JPN,21.9630390144,102282,,LL,Tetsuya Chaen,R,,JPN,19.4524298426,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,520,28,783,8
 1993-217,Nagoya CH,Hard,32,C,19930419,12,101864,3,,Fernon Wibier,R,188,NED,22.1464750171,101279,,,Philippe Pech,L,180,FRA,26.6940451745,7-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,198,181,318,80
-1993-217,Nagoya CH,Hard,32,C,19930419,13,102061,8,,Kevin Ullyett,R,178,ZIM,20.9062286105,108347,,Q,Takashi Murakami,R,,JPN,,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,230,144,918,4
+1993-217,Nagoya CH,Hard,32,C,19930419,13,102061,8,,Kevin Ullyett,R,178,ZIM,20.9062286105,108347,,Q,Takashi Murakami,R,,JPN,27.2525667351,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,230,144,918,4
 1993-217,Nagoya CH,Hard,32,C,19930419,14,101597,,,Louis Gloria,L,175,USA,24.0109514031,101865,,,Albert Chang,R,183,CAN,22.1409993155,7-6 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,300,88,253,118
-1993-217,Nagoya CH,Hard,32,C,19930419,15,102010,,,Clinton Marsh,R,188,RSA,21.2484599589,107201,,LL,Hidehiko Tanizawa,R,,JPN,,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,263,110,636,17
+1993-217,Nagoya CH,Hard,32,C,19930419,15,102010,,,Clinton Marsh,R,188,RSA,21.2484599589,107201,,LL,Hidehiko Tanizawa,R,,JPN,21.3716632444,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,263,110,636,17
 1993-217,Nagoya CH,Hard,32,C,19930419,16,102035,2,,Jonas Bjorkman,R,183,SWE,21.0732375086,101515,,,Donald Johnson,L,190,USA,24.6078028747,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,184,206,335,75
 1993-217,Nagoya CH,Hard,32,C,19930419,17,100837,1,,Jeremy Bates,R,180,GBR,30.8336755647,101576,,WC,Ryuso Tsujino,R,,JPN,24.1478439425,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,81,518,494,31
 1993-217,Nagoya CH,Hard,32,C,19930419,18,102304,,,Grant Doyle,R,180,AUS,19.2744695414,101783,7,,Mark Petchey,R,183,GBR,22.7159479808,6-7 6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,328,78,224,157
@@ -741,7 +741,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1993-849,Riemerling CH,Clay,32,C,19930419,30,102135,,,Emilio Benfele Alvarez,R,183,ESP,20.424366872,101924,2,,Stefano Pescosolido,R,185,ITA,21.8507871321,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,206,174,133,328
 1993-849,Riemerling CH,Clay,32,C,19930419,31,102135,,,Emilio Benfele Alvarez,R,183,ESP,20.424366872,101552,,,Xavier Daufresne,R,193,BEL,24.3175906913,6-2 6-2,3,F,,,,,,,,,,,,,,,,,,,,206,174,228,149
 1993-746,Sao Paulo1 CH,Clay,32,C,19930419,1,101991,1,,Mauricio Hadad,R,170,COL,21.3661875428,101968,,,Ola Kristiansson,R,188,SWE,21.5715263518,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,128,335,288,94
-1993-746,Sao Paulo1 CH,Clay,32,C,19930419,2,101926,,,Andrei Merinov,L,183,RUS,21.8234086242,107022,,,Francesco Michelotti,R,,ITA,,6-4 6-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,243,136,259,116
+1993-746,Sao Paulo1 CH,Clay,32,C,19930419,2,101926,,,Andrei Merinov,L,183,RUS,21.8234086242,107022,,,Francesco Michelotti,R,,ITA,23.4880219028,6-4 6-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,243,136,259,116
 1993-746,Sao Paulo1 CH,Clay,32,C,19930419,3,101912,,,Felipe Rivera,R,183,CHI,21.9438740589,101339,,,Agustin Moreno,R,180,MEX,26.0533880903,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,239,139,275,102
 1993-746,Sao Paulo1 CH,Clay,32,C,19930419,4,100865,8,,Marcelo Ingaramo,L,178,ARG,30.5160848734,100917,,WC,Nelson Aerts,R,188,BRA,29.9849418207,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,225,156,361,64
 1993-746,Sao Paulo1 CH,Clay,32,C,19930419,5,101897,3,,Fernando Meligeni,L,180,BRA,22.0205338809,100949,,LL,Mauro Menezes,R,193,BRA,29.7303216975,7-5 7-6,3,R32,,,,,,,,,,,,,,,,,,,,181,219,654,15
@@ -834,9 +834,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1993-333,Taipei CH,Hard,32,C,19930426,30,101727,6,,Jason Stoltenberg,R,185,AUS,23.06091718,102158,,,Patrick Rafter,R,185,AUS,20.3258042437,6-1 6-3,3,SF,,,,,,,,,,,,,,,,,,,,118,351,184,215
 1993-333,Taipei CH,Hard,32,C,19930426,31,101727,6,,Jason Stoltenberg,R,185,AUS,23.06091718,101066,,,Richard Matuszewski,R,188,USA,28.6324435318,6-0 6-3,3,F,,,,,,,,,,,,,,,,,,,,118,351,147,289
 1993-216,Jerusalem CH,Hard,32,C,19930503,1,102247,,,Andrea Gaudenzi,R,183,ITA,19.7590691307,101500,1,,Christian Saceanu,R,190,GER,24.8186173854,3-6 7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,186,210,143,298
-1993-216,Jerusalem CH,Hard,32,C,19930503,2,106515,,Q,Amit Ben David,R,,ISR,,101420,,,Vaclav Roubicek,R,185,CZE,25.3880903491,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1069,2,272,105
+1993-216,Jerusalem CH,Hard,32,C,19930503,2,106515,,Q,Amit Ben David,R,,ISR,19.8412046543,101420,,,Vaclav Roubicek,R,185,CZE,25.3880903491,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1069,2,272,105
 1993-216,Jerusalem CH,Hard,32,C,19930503,3,102104,,,Christian Ruud,R,188,NOR,20.6899383984,106820,,Q,Danny Erez,R,,ISR,,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,266,111,,
-1993-216,Jerusalem CH,Hard,32,C,19930503,4,107022,,,Francesco Michelotti,R,,ITA,,101873,,LL,Valentin Frieden,R,,SUI,22.1629021218,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,260,116,421,45
+1993-216,Jerusalem CH,Hard,32,C,19930503,4,107022,,,Francesco Michelotti,R,,ITA,23.5263518138,101873,,LL,Valentin Frieden,R,,SUI,22.1629021218,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,260,116,421,45
 1993-216,Jerusalem CH,Hard,32,C,19930503,5,101332,4,,Gilad Bloom,L,173,ISR,26.173853525,100770,,,Peter Moraing,R,193,GER,31.6358658453,7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,165,251,257,117
 1993-216,Jerusalem CH,Hard,32,C,19930503,6,101876,,,Massimo Ardinghi,R,175,ITA,22.160164271,101938,,,Bernardo Mota,R,178,POR,21.8042436687,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,209,173,250,126
 1993-216,Jerusalem CH,Hard,32,C,19930503,7,102344,,,Karol Kucera,R,188,SVK,19.1649555099,101886,,WC,Ohad Weinberg,R,,ISR,22.1245722108,6-2 7-6,3,R32,,,,,,,,,,,,,,,,,,,,214,164,443,41
@@ -849,19 +849,19 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1993-216,Jerusalem CH,Hard,32,C,19930503,14,102669,,WC,Noam Behr,L,188,ISR,17.5550992471,101783,,,Mark Petchey,R,183,GBR,22.7542778919,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,622,18,228,156
 1993-216,Jerusalem CH,Hard,32,C,19930503,15,102139,,WC,Eyal Ran,R,183,ISR,20.4462696783,101207,,,Michael Daniel,R,188,ISR,27.446954141,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,377,60,285,98
 1993-216,Jerusalem CH,Hard,32,C,19930503,16,102090,,WC,Ofer Sela,R,188,ISR,20.7802874743,101897,2,,Fernando Meligeni,L,180,BRA,22.0588637919,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,444,41,160,260
-1993-216,Jerusalem CH,Hard,32,C,19930503,17,102247,,,Andrea Gaudenzi,R,183,ITA,19.7590691307,106515,,Q,Amit Ben David,R,,ISR,,4-6 6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,186,210,1069,2
-1993-216,Jerusalem CH,Hard,32,C,19930503,18,107022,,,Francesco Michelotti,R,,ITA,,102104,,,Christian Ruud,R,188,NOR,20.6899383984,7-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,260,116,266,111
+1993-216,Jerusalem CH,Hard,32,C,19930503,17,102247,,,Andrea Gaudenzi,R,183,ITA,19.7590691307,106515,,Q,Amit Ben David,R,,ISR,19.8412046543,4-6 6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,186,210,1069,2
+1993-216,Jerusalem CH,Hard,32,C,19930503,18,107022,,,Francesco Michelotti,R,,ITA,23.5263518138,102104,,,Christian Ruud,R,188,NOR,20.6899383984,7-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,260,116,266,111
 1993-216,Jerusalem CH,Hard,32,C,19930503,19,101332,4,,Gilad Bloom,L,173,ISR,26.173853525,101876,,,Massimo Ardinghi,R,175,ITA,22.160164271,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,165,251,209,173
 1993-216,Jerusalem CH,Hard,32,C,19930503,20,102344,,,Karol Kucera,R,188,SVK,19.1649555099,101417,,,Mario Rincon,R,,COL,25.4154688569,4-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,214,164,220,162
 1993-216,Jerusalem CH,Hard,32,C,19930503,21,101866,5,,David Rikl,L,178,CZE,22.1793292266,101237,,,Danilo Marcelino,R,193,BRA,27.1540041068,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,168,247,198,184
 1993-216,Jerusalem CH,Hard,32,C,19930503,22,101123,3,,Alexander Mronz,R,188,GER,28.0711841205,101947,,,Vincenzo Santopadre,L,183,ITA,21.7275838467,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,188,209,286,97
 1993-216,Jerusalem CH,Hard,32,C,19930503,23,101862,7,,Maurice Ruah,R,178,VEN,22.2012320329,102669,,WC,Noam Behr,L,188,ISR,17.5550992471,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,195,195,622,18
 1993-216,Jerusalem CH,Hard,32,C,19930503,24,102139,,WC,Eyal Ran,R,183,ISR,20.4462696783,102090,,WC,Ofer Sela,R,188,ISR,20.7802874743,6-4 7-6,3,R16,,,,,,,,,,,,,,,,,,,,377,60,444,41
-1993-216,Jerusalem CH,Hard,32,C,19930503,25,107022,,,Francesco Michelotti,R,,ITA,,102247,,,Andrea Gaudenzi,R,183,ITA,19.7590691307,6-7 7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,260,116,186,210
+1993-216,Jerusalem CH,Hard,32,C,19930503,25,107022,,,Francesco Michelotti,R,,ITA,23.5263518138,102247,,,Andrea Gaudenzi,R,183,ITA,19.7590691307,6-7 7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,260,116,186,210
 1993-216,Jerusalem CH,Hard,32,C,19930503,26,101332,4,,Gilad Bloom,L,173,ISR,26.173853525,102344,,,Karol Kucera,R,188,SVK,19.1649555099,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,165,251,214,164
 1993-216,Jerusalem CH,Hard,32,C,19930503,27,101866,5,,David Rikl,L,178,CZE,22.1793292266,101123,3,,Alexander Mronz,R,188,GER,28.0711841205,5-7 6-3 7-6,3,QF,,,,,,,,,,,,,,,,,,,,168,247,188,209
 1993-216,Jerusalem CH,Hard,32,C,19930503,28,101862,7,,Maurice Ruah,R,178,VEN,22.2012320329,102139,,WC,Eyal Ran,R,183,ISR,20.4462696783,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,195,195,377,60
-1993-216,Jerusalem CH,Hard,32,C,19930503,29,101332,4,,Gilad Bloom,L,173,ISR,26.173853525,107022,,,Francesco Michelotti,R,,ITA,,5-7 6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,165,251,260,116
+1993-216,Jerusalem CH,Hard,32,C,19930503,29,101332,4,,Gilad Bloom,L,173,ISR,26.173853525,107022,,,Francesco Michelotti,R,,ITA,23.5263518138,5-7 6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,165,251,260,116
 1993-216,Jerusalem CH,Hard,32,C,19930503,30,101862,7,,Maurice Ruah,R,178,VEN,22.2012320329,101866,5,,David Rikl,L,178,CZE,22.1793292266,6-2 2-6 7-6,3,SF,,,,,,,,,,,,,,,,,,,,195,195,168,247
 1993-216,Jerusalem CH,Hard,32,C,19930503,31,101332,4,,Gilad Bloom,L,173,ISR,26.173853525,101862,7,,Maurice Ruah,R,178,VEN,22.2012320329,7-6 6-4,3,F,,,,,,,,,,,,,,,,,,,,165,251,195,195
 1993-742,Kuala Lumpur1 CH,Hard,32,C,19930503,1,101150,1,,Gianluca Pozzi,L,180,ITA,27.8767967146,109232,,WC,Terence Chia,R,,MAS,,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,80,510,,
@@ -932,7 +932,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1993-851,Dresden CH,Clay,32,C,19930510,4,101634,,Q,Milan Palme,R,183,GER,23.7371663244,101398,7,,Neil Borwick,L,193,AUS,25.6509240246,6-3 4-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,281,100,124,347
 1993-851,Dresden CH,Clay,32,C,19930510,5,101490,,,Daniel Orsanic,L,183,ARG,24.9117043121,101727,3,,Jason Stoltenberg,R,185,AUS,23.099247091,4-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,125,346,96,437
 1993-851,Dresden CH,Clay,32,C,19930510,6,102019,,WC,Dirk Dier,R,185,GER,21.2292950034,101459,,,Tomas Nydahl,R,185,SWE,25.1362080767,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,197,198,161,258
-1993-851,Dresden CH,Clay,32,C,19930510,7,107022,,,Francesco Michelotti,R,,ITA,,101482,,,Markus Zoecke,R,196,GER,24.9993155373,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,234,146,133,329
+1993-851,Dresden CH,Clay,32,C,19930510,7,107022,,,Francesco Michelotti,R,,ITA,23.5455167693,101482,,,Markus Zoecke,R,196,GER,24.9993155373,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,234,146,133,329
 1993-851,Dresden CH,Clay,32,C,19930510,8,101721,,Q,Markus Zillner,L,178,GER,23.1430527036,101416,6,,Joao Cunha Silva,R,173,POR,25.4510609172,5-7 6-2 7-6,3,R32,,,,,,,,,,,,,,,,,,,,298,89,122,350
 1993-851,Dresden CH,Clay,32,C,19930510,9,101460,5,,Jose Francisco Altur,L,190,ESP,25.1279945243,101835,,,Arne Thoms,R,188,GER,22.3545516769,6-1 5-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,113,365,151,283
 1993-851,Dresden CH,Clay,32,C,19930510,10,101945,,,Thierry Guardiola,R,188,FRA,21.7577002053,101681,,,Chris Wilkinson,R,180,GBR,23.3429158111,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,152,277,175,241
@@ -945,13 +945,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1993-851,Dresden CH,Clay,32,C,19930510,17,100628,,,Michiel Schapers,R,201,NED,33.5797399042,101407,,,David Engel,R,180,SWE,25.5633127995,6-7 6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,153,274,168,247
 1993-851,Dresden CH,Clay,32,C,19930510,18,101373,,,Karsten Braasch,L,180,GER,25.8234086242,101634,,Q,Milan Palme,R,183,GER,23.7371663244,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,121,353,281,100
 1993-851,Dresden CH,Clay,32,C,19930510,19,102019,,WC,Dirk Dier,R,185,GER,21.2292950034,101490,,,Daniel Orsanic,L,183,ARG,24.9117043121,1-6 6-3 RET,3,R16,,,,,,,,,,,,,,,,,,,,197,198,125,346
-1993-851,Dresden CH,Clay,32,C,19930510,20,107022,,,Francesco Michelotti,R,,ITA,,101721,,Q,Markus Zillner,L,178,GER,23.1430527036,6-4 3-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,,234,146,298,89
+1993-851,Dresden CH,Clay,32,C,19930510,20,107022,,,Francesco Michelotti,R,,ITA,23.5455167693,101721,,Q,Markus Zillner,L,178,GER,23.1430527036,6-4 3-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,,234,146,298,89
 1993-851,Dresden CH,Clay,32,C,19930510,21,101460,5,,Jose Francisco Altur,L,190,ESP,25.1279945243,101945,,,Thierry Guardiola,R,188,FRA,21.7577002053,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,113,365,152,277
 1993-851,Dresden CH,Clay,32,C,19930510,22,101888,4,,Daniel Vacek,R,190,CZE,22.1081451061,101912,,Q,Felipe Rivera,R,183,CHI,22.0013689254,2-6 7-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,104,408,244,130
 1993-851,Dresden CH,Clay,32,C,19930510,23,101337,8,,Martin Strelba,R,190,CZE,26.135523614,101123,,,Alexander Mronz,R,188,GER,28.090349076,3-6 6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,119,355,184,223
 1993-851,Dresden CH,Clay,32,C,19930510,24,101866,,,David Rikl,L,178,CZE,22.1984941821,101961,,,Martin Stringari,R,188,ARG,21.6646132786,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,154,272,134,328
 1993-851,Dresden CH,Clay,32,C,19930510,25,101373,,,Karsten Braasch,L,180,GER,25.8234086242,100628,,,Michiel Schapers,R,201,NED,33.5797399042,6-7 6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,121,353,153,274
-1993-851,Dresden CH,Clay,32,C,19930510,26,102019,,WC,Dirk Dier,R,185,GER,21.2292950034,107022,,,Francesco Michelotti,R,,ITA,,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,197,198,234,146
+1993-851,Dresden CH,Clay,32,C,19930510,26,102019,,WC,Dirk Dier,R,185,GER,21.2292950034,107022,,,Francesco Michelotti,R,,ITA,23.5455167693,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,197,198,234,146
 1993-851,Dresden CH,Clay,32,C,19930510,27,101888,4,,Daniel Vacek,R,190,CZE,22.1081451061,101460,5,,Jose Francisco Altur,L,190,ESP,25.1279945243,6-4 3-6 7-6,3,QF,,,,,,,,,,,,,,,,,,,,104,408,113,365
 1993-851,Dresden CH,Clay,32,C,19930510,28,101866,,,David Rikl,L,178,CZE,22.1984941821,101337,8,,Martin Strelba,R,190,CZE,26.135523614,6-7 6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,154,272,119,355
 1993-851,Dresden CH,Clay,32,C,19930510,29,101373,,,Karsten Braasch,L,180,GER,25.8234086242,102019,,WC,Dirk Dier,R,185,GER,21.2292950034,4-6 6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,121,353,197,198
@@ -998,7 +998,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1993-852,Bochum CH,Clay,32,C,19930524,8,101332,5,,Gilad Bloom,L,173,ISR,26.2313483915,101552,,,Xavier Daufresne,R,193,BEL,24.4134154689,7-5 2-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,137,312,199,193
 1993-852,Bochum CH,Clay,32,C,19930524,9,101962,6,,Younes El Aynaoui,R,193,MAR,21.697467488,101123,,,Alexander Mronz,R,188,GER,28.128678987,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,157,261,182,230
 1993-852,Bochum CH,Clay,32,C,19930524,10,102084,,,Simon Touzil,R,185,GER,20.8733744011,100829,,WC,Jan Gunnarsson,R,185,SWE,30.984257358,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,184,227,344,70
-1993-852,Bochum CH,Clay,32,C,19930524,11,101058,,,Francisco Yunis,R,190,ARG,28.7802874743,109352,,WC,Michael Gardemann,R,,GER,,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,205,174,1134,1
+1993-852,Bochum CH,Clay,32,C,19930524,11,101058,,,Francisco Yunis,R,190,ARG,28.7802874743,109352,,WC,Michael Gardemann,R,,GER,17.8973305955,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,205,174,1134,1
 1993-852,Bochum CH,Clay,32,C,19930524,12,100944,3,,Mikael Pernfors,R,173,SWE,29.8562628337,101639,,,Lan Bale,R,175,RSA,23.7097878166,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,129,335,197,198
 1993-852,Bochum CH,Clay,32,C,19930524,13,102694,,WC,Lars Burgsmuller,R,183,GER,17.4647501711,101407,7,,David Engel,R,180,SWE,25.6016427105,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,450,41,150,284
 1993-852,Bochum CH,Clay,32,C,19930524,14,101417,,,Mario Rincon,R,,COL,25.4729637235,101284,,,Lars Anders Wahlgren,R,193,SWE,26.7488021903,4-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,207,171,232,148
@@ -1085,7 +1085,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1993-853,Kosice CH,Clay,32,C,19930614,2,102375,,,Dinu Pescariu,R,185,ROU,19.1731690623,101957,,,Milen Velev,R,,BUL,21.7768651608,3-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,249,128,202,175
 1993-853,Kosice CH,Clay,32,C,19930614,3,101912,,,Felipe Rivera,R,183,CHI,22.0971937029,101383,,,Stephane Sansoni,R,180,FRA,25.839835729,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,236,141,218,155
 1993-853,Kosice CH,Clay,32,C,19930614,4,101119,,WC,Marian Vajda,R,173,SVK,28.2245037645,101417,8,,Mario Rincon,R,,COL,25.53045859,3-6 6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,372,61,200,177
-1993-853,Kosice CH,Clay,32,C,19930614,5,101945,4,,Thierry Guardiola,R,188,FRA,21.8535249829,107022,,,Francesco Michelotti,R,,ITA,,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,182,226,229,148
+1993-853,Kosice CH,Clay,32,C,19930614,5,101945,4,,Thierry Guardiola,R,188,FRA,21.8535249829,107022,,,Francesco Michelotti,R,,ITA,23.6413415469,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,182,226,229,148
 1993-853,Kosice CH,Clay,32,C,19930614,6,101468,,,Gerard Solves,R,185,FRA,25.1854893908,101780,,,Alejo Mancisidor,R,183,ESP,22.8720054757,6-3 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,253,124,225,151
 1993-853,Kosice CH,Clay,32,C,19930614,7,102085,,Q,Sasa Hirszon,R,185,CRO,20.9171800137,101143,,,Branislav Stankovic,R,175,SVK,28.0410677618,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,279,106,222,152
 1993-853,Kosice CH,Clay,32,C,19930614,8,102610,,Q,Albert Costa,R,180,ESP,17.9712525667,101829,6,,Federico Sanchez,R,168,ESP,22.5270362765,6-2 7-6,3,R32,,,,,,,,,,,,,,,,,,,,367,62,163,257
@@ -1186,7 +1186,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1993-313,Bristol CH,Grass,32,C,19930705,10,102031,,,Sandor Noszaly,R,193,HUN,21.3032169747,101311,,,Kent Kinnear,R,196,USA,26.5954825462,6-3 7-6,3,R32,,,,,,,,,,,,,,,,,,,,301,91,275,107
 1993-313,Bristol CH,Grass,32,C,19930705,11,101849,,,Nicola Bruno,R,178,ITA,22.4394250513,102284,,,Filippo Messori,R,173,ITA,19.6440793977,7-6 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,291,101,250,127
 1993-313,Bristol CH,Grass,32,C,19930705,12,101956,4,,Mark Knowles,R,190,BAH,21.8343600274,102006,,Q,Brent Larkham,R,178,AUS,21.4893908282,5-7 7-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,237,139,299,93
-1993-313,Bristol CH,Grass,32,C,19930705,13,101876,,,Massimo Ardinghi,R,175,ITA,22.3326488706,107022,8,,Francesco Michelotti,R,,ITA,,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,232,142,233,140
+1993-313,Bristol CH,Grass,32,C,19930705,13,101876,,,Massimo Ardinghi,R,175,ITA,22.3326488706,107022,8,,Francesco Michelotti,R,,ITA,23.6988364134,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,232,142,233,140
 1993-313,Bristol CH,Grass,32,C,19930705,14,102083,,WC,Nick Gould,R,,GBR,20.9883641342,101947,,,Vincenzo Santopadre,L,183,ITA,21.9000684463,3-6 7-5 7-6,3,R32,,,,,,,,,,,,,,,,,,,,462,42,271,109
 1993-313,Bristol CH,Grass,32,C,19930705,15,101096,,,Gary Muller,L,190,RSA,28.5201916496,101731,,,Nuno Marques,L,190,POR,23.2388774812,7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,261,119,251,126
 1993-313,Bristol CH,Grass,32,C,19930705,16,101681,2,,Chris Wilkinson,R,180,GBR,23.4962354552,101270,,,Thomas Gollwitzer,R,178,GER,26.9486652977,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,131,323,249,128
@@ -1403,7 +1403,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1993-221,Tampere CH,Clay,32,C,19930712,10,102284,,,Filippo Messori,R,173,ITA,19.6632443532,102000,,WC,Aki Rahunen,R,175,FIN,21.5496235455,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,252,128,953,4
 1993-221,Tampere CH,Clay,32,C,19930712,11,102538,,WC,Tuomas Ketola,R,185,FIN,18.3874058864,101244,,Q,Johan Donar,R,180,SWE,27.3018480493,6-7 7-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,534,29,700,14
 1993-221,Tampere CH,Clay,32,C,19930712,12,101417,4,,Mario Rincon,R,,COL,25.607118412,101989,,Q,Patrik Langvardt,R,,DEN,21.5989048597,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,198,183,437,46
-1993-221,Tampere CH,Clay,32,C,19930712,13,107022,,,Francesco Michelotti,R,,ITA,,102344,8,,Karol Kucera,R,188,SVK,19.356605065,7-5 7-6,3,R32,,,,,,,,,,,,,,,,,,,,237,140,229,147
+1993-221,Tampere CH,Clay,32,C,19930712,13,107022,,,Francesco Michelotti,R,,ITA,23.7180013689,102344,8,,Karol Kucera,R,188,SVK,19.356605065,7-5 7-6,3,R32,,,,,,,,,,,,,,,,,,,,237,140,229,147
 1993-221,Tampere CH,Clay,32,C,19930712,14,101468,,,Gerard Solves,R,185,FRA,25.2621492129,101502,,Q,Torben Theine,L,183,GER,25.0047912389,6-3 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,188,201,464,40
 1993-221,Tampere CH,Clay,32,C,19930712,15,101876,,,Massimo Ardinghi,R,175,ITA,22.3518138261,101634,,,Milan Palme,R,183,GER,23.909650924,6-2 7-6,3,R32,,,,,,,,,,,,,,,,,,,,235,142,321,79
 1993-221,Tampere CH,Clay,32,C,19930712,16,101552,2,,Xavier Daufresne,R,193,BEL,24.5475701574,101861,,,Thomas Buchmayer,L,185,AUT,22.4065708419,6-1 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,176,231,255,126
@@ -1413,7 +1413,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1993-221,Tampere CH,Clay,32,C,19930712,20,102104,,,Christian Ruud,R,188,NOR,20.8815879535,101715,,,Jose Antonio Pepe Conde,R,175,ESP,23.3374401095,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,236,140,286,102
 1993-221,Tampere CH,Clay,32,C,19930712,21,102001,6,,German Lopez,R,193,ESP,21.5359342916,102284,,,Filippo Messori,R,173,ITA,19.6632443532,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,212,163,252,128
 1993-221,Tampere CH,Clay,32,C,19930712,22,102538,,WC,Tuomas Ketola,R,185,FIN,18.3874058864,101417,4,,Mario Rincon,R,,COL,25.607118412,7-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,534,29,198,183
-1993-221,Tampere CH,Clay,32,C,19930712,23,101468,,,Gerard Solves,R,185,FRA,25.2621492129,107022,,,Francesco Michelotti,R,,ITA,,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,188,201,237,140
+1993-221,Tampere CH,Clay,32,C,19930712,23,101468,,,Gerard Solves,R,185,FRA,25.2621492129,107022,,,Francesco Michelotti,R,,ITA,23.7180013689,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,188,201,237,140
 1993-221,Tampere CH,Clay,32,C,19930712,24,101552,2,,Xavier Daufresne,R,193,BEL,24.5475701574,101876,,,Massimo Ardinghi,R,175,ITA,22.3518138261,6-3 3-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,176,231,235,142
 1993-221,Tampere CH,Clay,32,C,19930712,25,101421,,WC,Veli Paloheimo,R,183,FIN,25.5797399042,101324,,,Ulf Stenlund,R,180,SWE,26.4722792608,7-5 6-7 6-1,3,QF,,,,,,,,,,,,,,,,,,,,640,18,238,139
 1993-221,Tampere CH,Clay,32,C,19930712,26,102104,,,Christian Ruud,R,188,NOR,20.8815879535,101284,,,Lars Anders Wahlgren,R,193,SWE,26.8829568789,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,236,140,243,134
@@ -1520,7 +1520,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1993-833,Oberstaufen CH,Clay,32,C,19930719,3,100865,,,Marcelo Ingaramo,L,178,ARG,30.765229295,102652,,WC,Christian Vinck,L,183,GER,17.8754277892,6-2 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,217,163,793,9
 1993-833,Oberstaufen CH,Clay,32,C,19930719,4,102378,8,,Juan Gisbert Jr,R,198,ESP,19.266255989,102516,,WC,Christian Tambue,R,,GER,18.4969199179,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,153,270,727,13
 1993-833,Oberstaufen CH,Clay,32,C,19930719,5,101243,3,,Roberto Azar,L,185,ARG,27.3292265572,102173,,Q,Rainer Falenti,R,,AUT,20.4216290212,6-4 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,94,450,394,55
-1993-833,Oberstaufen CH,Clay,32,C,19930719,6,101531,,,Mario Visconti,R,185,ITA,24.7364818617,107022,,,Francesco Michelotti,R,,ITA,,6-4 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,174,235,238,146
+1993-833,Oberstaufen CH,Clay,32,C,19930719,6,101531,,,Mario Visconti,R,185,ITA,24.7364818617,107022,,,Francesco Michelotti,R,,ITA,23.7371663244,6-4 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,174,235,238,146
 1993-833,Oberstaufen CH,Clay,32,C,19930719,7,101957,,,Milen Velev,R,,BUL,21.8726899384,101421,,,Veli Paloheimo,R,183,FIN,25.5989048597,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,194,192,520,32
 1993-833,Oberstaufen CH,Clay,32,C,19930719,8,101430,5,,Sergio Cortes,R,170,CHI,25.5195071869,101926,,,Andrei Merinov,L,183,RUS,22.0725530459,4-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,115,356,185,213
 1993-833,Oberstaufen CH,Clay,32,C,19930719,9,101660,,,Francisco Montana,R,183,USA,23.7015742642,101767,6,,Lars Jonsson,R,188,SWE,23.06091718,7-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,172,241,136,307
@@ -1671,7 +1671,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1993-689,Cincinnati CH,Hard,32,C,19930802,30,101788,,Q,Doug Flach,R,183,USA,22.9787816564,102110,,Q,Daniel Nestor,L,190,CAN,20.9089664613,6-1 6-3,3,SF,,,,,,,,,,,,,,,,,,,,221,159,338,71
 1993-689,Cincinnati CH,Hard,32,C,19930802,31,101788,,Q,Doug Flach,R,183,USA,22.9787816564,101312,4,,Robbie Weiss,R,183,USA,26.6694045175,7-6 6-7 6-4,3,F,,,,,,,,,,,,,,,,,,,,221,159,117,347
 1993-226,Istanbul CH,Hard,32,C,19930802,1,101358,1,,Olivier Delaitre,R,170,FRA,26.1711156742,102375,,WC,Dinu Pescariu,R,185,ROU,19.3073237509,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,96,446,212,168
-1993-226,Istanbul CH,Hard,32,C,19930802,2,101121,,,Alaaddin Karagoz,R,,TUR,28.3258042437,107022,,,Francesco Michelotti,R,,ITA,,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,869,7,245,136
+1993-226,Istanbul CH,Hard,32,C,19930802,2,101121,,,Alaaddin Karagoz,R,,TUR,28.3258042437,107022,,,Francesco Michelotti,R,,ITA,23.7754962355,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,869,7,245,136
 1993-226,Istanbul CH,Hard,32,C,19930802,3,101682,,Q,David Adams,R,188,RSA,23.5728952772,101561,,,Nicklas Utgren,R,188,SWE,24.553045859,3-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,268,115,211,169
 1993-226,Istanbul CH,Hard,32,C,19930802,4,100997,7,,Roger Smith,R,185,BAH,29.5331964408,101417,,,Mario Rincon,R,,COL,25.6646132786,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,185,214,197,189
 1993-226,Istanbul CH,Hard,32,C,19930802,5,101783,,,Mark Petchey,R,183,GBR,23.0034223135,101179,3,,Jean Philippe Fleurian,R,185,FRA,27.8904859685,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,227,148,133,327
@@ -1711,9 +1711,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1993-273,Liege CH,Clay,32,C,19930809,8,101659,5,,Jan Apell,L,183,SWE,23.7618069815,100865,,,Marcelo Ingaramo,L,178,ARG,30.8227241615,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,169,239,245,132
 1993-273,Liege CH,Clay,32,C,19930809,9,102104,6,,Christian Ruud,R,188,NOR,20.9582477755,102419,,Q,Christophe Van Garsse,R,185,BEL,19.1348391513,3-6 7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,173,233,293,97
 1993-273,Liege CH,Clay,32,C,19930809,10,102344,,,Karol Kucera,R,188,SVK,19.4332648871,102491,,Q,Alex Radulescu,R,185,GER,18.6721423682,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,230,147,296,95
-1993-273,Liege CH,Clay,32,C,19930809,11,102198,,,Paul Kilderry,R,175,AUS,20.3285420945,107022,,,Francesco Michelotti,R,,ITA,,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,215,165,247,130
+1993-273,Liege CH,Clay,32,C,19930809,11,102198,,,Paul Kilderry,R,175,AUS,20.3285420945,107022,,,Francesco Michelotti,R,,ITA,23.794661191,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,215,165,247,130
 1993-273,Liege CH,Clay,32,C,19930809,12,101473,,,Jozsef Krocsko,R,180,HUN,25.3032169747,101829,4,,Federico Sanchez,R,168,ESP,22.6803559206,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,208,176,189,212
-1993-273,Liege CH,Clay,32,C,19930809,13,101174,7,,Fernando Roese,R,190,BRA,27.9589322382,107675,,WC,Mario Mertens,R,,BEL,,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,181,221,,
+1993-273,Liege CH,Clay,32,C,19930809,13,101174,7,,Fernando Roese,R,190,BRA,27.9589322382,107675,,WC,Mario Mertens,R,,BEL,20.9993155373,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,181,221,,
 1993-273,Liege CH,Clay,32,C,19930809,14,101660,,,Francisco Montana,R,183,USA,23.7590691307,102284,,,Filippo Messori,R,173,ITA,19.7399041752,6-3 7-6,3,R32,,,,,,,,,,,,,,,,,,,,194,203,242,132
 1993-273,Liege CH,Clay,32,C,19930809,15,102339,,WC,Kris Goossens,R,180,BEL,19.4661190965,101324,,,Ulf Stenlund,R,180,SWE,26.5489390828,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,375,58,222,152
 1993-273,Liege CH,Clay,32,C,19930809,16,101957,2,,Milen Velev,R,,BUL,21.9301848049,101383,,,Stephane Sansoni,R,180,FRA,25.993155373,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,148,288,250,127
@@ -1763,9 +1763,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1993-783,Segovia CH,Hard,32,C,19930809,29,101233,6,,Alex Antonitsch,R,188,AUT,27.498973306,102167,,Q,Juan Albert Viloca Puig,R,185,ESP,20.5585215606,6-1 6-1,3,SF,,,,,,,,,,,,,,,,,,,,99,426,539,30
 1993-783,Segovia CH,Hard,32,C,19930809,30,102146,4,,Jordi Burillo,R,188,ESP,20.6707734428,101439,2,,Javier Sanchez,R,178,ESP,25.5195071869,6-0 7-6,3,SF,,,,,,,,,,,,,,,,,,,,96,469,34,912
 1993-783,Segovia CH,Hard,32,C,19930809,31,101233,6,,Alex Antonitsch,R,188,AUT,27.498973306,102146,4,,Jordi Burillo,R,188,ESP,20.6707734428,6-3 6-3,3,F,,,,,,,,,,,,,,,,,,,,99,426,96,469
-1993-666,Bronx CH,Hard,32,C,19930816,1,101681,1,,Chris Wilkinson,R,180,GBR,23.6112251882,108008,,WC,Phillip Williamson,R,,USA,,6-4 7-6,3,R32,,,,,,,,,,,,,,,,,,,,130,331,604,24
+1993-666,Bronx CH,Hard,32,C,19930816,1,101681,1,,Chris Wilkinson,R,180,GBR,23.6112251882,108008,,WC,Phillip Williamson,R,,USA,28.2162902122,6-4 7-6,3,R32,,,,,,,,,,,,,,,,,,,,130,331,604,24
 1993-666,Bronx CH,Hard,32,C,19930816,2,102061,,,Kevin Ullyett,R,178,ZIM,21.2320328542,102304,,,Grant Doyle,R,180,AUS,19.6002737851,6-3 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,198,193,225,149
-1993-666,Bronx CH,Hard,32,C,19930816,3,101477,,,Chris Bailey,R,196,GBR,25.2977412731,107022,,,Francesco Michelotti,R,,ITA,,7-5 7-6,3,R32,,,,,,,,,,,,,,,,,,,,190,203,251,125
+1993-666,Bronx CH,Hard,32,C,19930816,3,101477,,,Chris Bailey,R,196,GBR,25.2977412731,107022,,,Francesco Michelotti,R,,ITA,23.8138261465,7-5 7-6,3,R32,,,,,,,,,,,,,,,,,,,,190,203,251,125
 1993-666,Bronx CH,Hard,32,C,19930816,4,101865,,,Albert Chang,R,183,CAN,22.4668035592,101407,7,,David Engel,R,180,SWE,25.8316221766,6-4 7-6,3,R32,,,,,,,,,,,,,,,,,,,,268,115,178,222
 1993-666,Bronx CH,Hard,32,C,19930816,5,102198,,,Paul Kilderry,R,175,AUS,20.34770705,101862,3,,Maurice Ruah,R,178,VEN,22.4887063655,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,220,152,160,260
 1993-666,Bronx CH,Hard,32,C,19930816,6,102233,,,Leander Paes,R,178,IND,20.1642710472,101237,,,Danilo Marcelino,R,193,BRA,27.4414784394,5-7 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,208,175,257,122
@@ -1899,7 +1899,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1993-365,Sao Paulo2 CH,Clay,32,C,19930906,10,101992,,,Pietro Angelini,R,,ITA,21.7303216975,101760,,,David Kass,R,180,USA,23.2060232717,1-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,310,87,296,95
 1993-365,Sao Paulo2 CH,Clay,32,C,19930906,11,101237,,,Danilo Marcelino,R,193,BRA,27.4798083504,101947,,,Vincenzo Santopadre,L,183,ITA,22.0533880903,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,269,113,265,114
 1993-365,Sao Paulo2 CH,Clay,32,C,19930906,12,101354,3,,Andrew Sznajder,R,175,CAN,26.2669404517,108520,,WC,William Kyriakos,R,,BRA,,6-2 0-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,147,294,388,56
-1993-365,Sao Paulo2 CH,Clay,32,C,19930906,13,101732,8,,Pietro Pennisi,L,173,ITA,23.3867214237,107022,,,Francesco Michelotti,R,,ITA,,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,230,142,271,111
+1993-365,Sao Paulo2 CH,Clay,32,C,19930906,13,101732,8,,Pietro Pennisi,L,173,ITA,23.3867214237,107022,,,Francesco Michelotti,R,,ITA,23.8521560575,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,230,142,271,111
 1993-365,Sao Paulo2 CH,Clay,32,C,19930906,14,101641,,,Jose Luis Noriega,R,178,PER,23.9589322382,101626,,Q,Stephen Noteboom,R,185,NED,24.0821355236,3-6 6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,283,101,500,37
 1993-365,Sao Paulo2 CH,Clay,32,C,19930906,15,101602,,Q,Jack Waite,R,185,USA,24.3312799452,102477,,,Gaston Etlis,R,185,ARG,18.8199863107,7-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,525,34,252,127
 1993-365,Sao Paulo2 CH,Clay,32,C,19930906,16,101809,2,,Nicolas Pereira,R,188,VEN,22.9185489391,101574,,,Alejandro Aramburu,R,175,PER,24.5393566051,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,144,306,273,108
@@ -1956,7 +1956,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1993-369,Budapest CH,Clay,32,C,19930913,5,101179,3,,Jean Philippe Fleurian,R,185,FRA,28.0054757016,101473,,,Jozsef Krocsko,R,180,HUN,25.3990417522,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,124,341,177,221
 1993-369,Budapest CH,Clay,32,C,19930913,6,101502,,Q,Torben Theine,L,183,GER,25.1772758385,101531,,,Mario Visconti,R,185,ITA,24.8898015058,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,457,44,162,254
 1993-369,Budapest CH,Clay,32,C,19930913,7,102389,,LL,Alexander Krell,R,,AUT,19.3319644079,102028,,,Massimo Valeri,R,185,ITA,21.5030800821,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,708,15,194,191
-1993-369,Budapest CH,Clay,32,C,19930913,8,101552,6,,Xavier Daufresne,R,193,BEL,24.720054757,107566,,WC,Levente Baratosi,R,,HUN,,6-1 5-7 6-1,3,R32,,,,,,,,,,,,,,,,,,,,151,276,708,15
+1993-369,Budapest CH,Clay,32,C,19930913,8,101552,6,,Xavier Daufresne,R,193,BEL,24.720054757,107566,,WC,Levente Baratosi,R,,HUN,22.2696783025,6-1 5-7 6-1,3,R32,,,,,,,,,,,,,,,,,,,,151,276,708,15
 1993-369,Budapest CH,Clay,32,C,19930913,9,102338,5,,Yevgeny Kafelnikov,R,190,RUS,19.5674195756,101672,,,Michael Geserer,R,190,GER,23.7481177276,7-6 5-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,134,323,231,138
 1993-369,Budapest CH,Clay,32,C,19930913,10,102084,,,Simon Touzil,R,185,GER,21.1800136893,102173,,Q,Rainer Falenti,R,,AUT,20.5749486653,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,190,197,359,64
 1993-369,Budapest CH,Clay,32,C,19930913,11,101593,,,Chris Garner,R,180,USA,24.4353182752,101468,,,Gerard Solves,R,185,FRA,25.4346338125,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,157,261,161,254
@@ -1984,12 +1984,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1993-512,Natal CH,Clay,32,C,19930913,2,100865,,,Marcelo Ingaramo,L,178,ARG,30.9185489391,109263,,WC,Pj Langone,R,,USA,,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,242,131,,
 1993-512,Natal CH,Clay,32,C,19930913,3,102477,,,Gaston Etlis,R,185,ARG,18.8583162218,101608,,Q,Tom Kempers,R,188,NED,24.2847364819,7-5 2-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,250,124,362,63
 1993-512,Natal CH,Clay,32,C,19930913,4,101977,8,,Patricio Arnold,R,183,ARG,21.9000684463,102284,,,Filippo Messori,R,173,ITA,19.8357289528,3-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,208,165,240,133
-1993-512,Natal CH,Clay,32,C,19930913,5,101991,4,,Mauricio Hadad,R,170,COL,21.7686516085,107022,,,Francesco Michelotti,R,,ITA,,6-4 1-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,152,275,270,111
+1993-512,Natal CH,Clay,32,C,19930913,5,101991,4,,Mauricio Hadad,R,170,COL,21.7686516085,107022,,,Francesco Michelotti,R,,ITA,23.8904859685,6-4 1-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,152,275,270,111
 1993-512,Natal CH,Clay,32,C,19930913,6,102002,,LL,Davide Scala,R,180,ITA,21.697467488,102223,,,Karim Alami,R,185,MAR,20.3066392882,6-4 5-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,375,61,207,166
 1993-512,Natal CH,Clay,32,C,19930913,7,101710,,,Martin Blackman,R,188,USA,23.5263518138,101615,,Q,Otavio Della,R,170,BRA,24.2272416153,3-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,273,108,398,54
 1993-512,Natal CH,Clay,32,C,19930913,8,100652,,WC,Cassio Motta,R,180,BRA,33.5578370979,101745,5,,Roberto Jabali,R,190,BRA,23.3292265572,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,294,96,215,156
 1993-512,Natal CH,Clay,32,C,19930913,9,101992,,Q,Pietro Angelini,R,,ITA,21.7686516085,101864,6,,Fernon Wibier,R,188,NED,22.5489390828,1-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,285,100,202,178
-1993-512,Natal CH,Clay,32,C,19930913,10,101574,,,Alejandro Aramburu,R,175,PER,24.5776865161,108480,,WC,Vitor Martins,R,,BRA,,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,271,109,1153,2
+1993-512,Natal CH,Clay,32,C,19930913,10,101574,,,Alejandro Aramburu,R,175,PER,24.5776865161,108480,,WC,Vitor Martins,R,,BRA,18.6830937714,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,271,109,1153,2
 1993-512,Natal CH,Clay,32,C,19930913,11,102463,,,Lucas Arnold Ker,R,180,ARG,18.9212867899,101947,,,Vincenzo Santopadre,L,183,ITA,22.0917180014,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,257,117,261,115
 1993-512,Natal CH,Clay,32,C,19930913,12,101897,3,,Fernando Meligeni,L,180,BRA,22.4229979466,101876,,,Massimo Ardinghi,R,175,ITA,22.5242984257,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,99,453,248,129
 1993-512,Natal CH,Clay,32,C,19930913,13,101417,7,,Mario Rincon,R,,COL,25.7796030116,101483,,,Ricardo Camargo,R,180,BRA,25.3333333333,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,228,143,526,34
@@ -2042,21 +2042,21 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1993-359,Bogota CH,Clay,32,C,19930920,29,101991,4,,Mauricio Hadad,R,170,COL,21.787816564,101490,1,,Daniel Orsanic,L,183,ARG,25.2758384668,7-5 6-3,3,SF,,,,,,,,,,,,,,,,,,,,143,299,133,332
 1993-359,Bogota CH,Clay,32,C,19930920,30,101430,6,,Sergio Cortes,R,170,CHI,25.6919917864,102839,,Q,Nicolas Lapentti,R,188,ECU,17.1033538672,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,157,268,460,44
 1993-359,Bogota CH,Clay,32,C,19930920,31,101991,4,,Mauricio Hadad,R,170,COL,21.787816564,101430,6,,Sergio Cortes,R,170,CHI,25.6919917864,2-6 6-3 6-0,3,F,,,,,,,,,,,,,,,,,,,,143,299,157,268
-1993-513,Caracas2 CH,Hard,32,C,19930920,1,101788,1,,Doug Flach,R,183,USA,23.112936345,108554,,WC,Yaser Zaatini,R,,VEN,,7-5 5-7 7-5,3,R32,,,,,,,,,,,,,,,,,,,,123,349,571,27
+1993-513,Caracas2 CH,Hard,32,C,19930920,1,101788,1,,Doug Flach,R,183,USA,23.112936345,108554,,WC,Yaser Zaatini,R,,VEN,23.2005475702,7-5 5-7 7-5,3,R32,,,,,,,,,,,,,,,,,,,,123,349,571,27
 1993-513,Caracas2 CH,Hard,32,C,19930920,2,101690,,WC,Juan Carlos Bianchi,R,,VEN,23.6605065024,101441,,,Martin Sinner,R,180,GER,25.6180698152,6-3 0-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,894,6,298,96
 1993-513,Caracas2 CH,Hard,32,C,19930920,3,101641,,,Jose Luis Noriega,R,178,PER,24.0164271047,102284,,,Filippo Messori,R,173,ITA,19.8548939083,2-6 6-0 7-6,3,R32,,,,,,,,,,,,,,,,,,,,267,114,244,134
 1993-513,Caracas2 CH,Hard,32,C,19930920,4,101783,7,,Mark Petchey,R,183,GBR,23.1375770021,102132,,Q,Ivan Baron,R,185,USA,20.8542094456,4-6 6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,203,177,527,35
-1993-513,Caracas2 CH,Hard,32,C,19930920,5,101862,4,,Maurice Ruah,R,178,VEN,22.5845311431,108229,,Q,Sebastien Hette,R,,FRA,,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,171,240,487,40
+1993-513,Caracas2 CH,Hard,32,C,19930920,5,101862,4,,Maurice Ruah,R,178,VEN,22.5845311431,108229,,Q,Sebastien Hette,R,,FRA,21.2813141684,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,171,240,487,40
 1993-513,Caracas2 CH,Hard,32,C,19930920,6,101597,,,Louis Gloria,L,175,USA,24.4325804244,101585,,,Fabio Silberberg,L,190,BRA,24.4900752909,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,242,136,300,95
 1993-513,Caracas2 CH,Hard,32,C,19930920,7,101237,,,Danilo Marcelino,R,193,BRA,27.537303217,101992,,,Pietro Angelini,R,,ITA,21.787816564,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,265,115,262,116
 1993-513,Caracas2 CH,Hard,32,C,19930920,8,101767,5,,Lars Jonsson,R,188,SWE,23.2334017796,108034,,Q,Rafael Rangel,R,,MEX,,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,180,219,607,24
 1993-513,Caracas2 CH,Hard,32,C,19930920,9,101864,6,,Fernon Wibier,R,188,NED,22.5681040383,101339,,,Agustin Moreno,R,180,MEX,26.4750171116,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,201,178,305,92
 1993-513,Caracas2 CH,Hard,32,C,19930920,10,101710,,,Martin Blackman,R,188,USA,23.5455167693,102477,,,Gaston Etlis,R,185,ARG,18.8774811773,7-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,269,114,247,131
-1993-513,Caracas2 CH,Hard,32,C,19930920,11,101608,,,Tom Kempers,R,188,NED,24.3039014374,106821,,WC,Dante Magnoni,R,,VEN,,4-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,362,67,727,14
+1993-513,Caracas2 CH,Hard,32,C,19930920,11,101608,,,Tom Kempers,R,188,NED,24.3039014374,106821,,WC,Dante Magnoni,R,,VEN,20.848733744,4-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,362,67,727,14
 1993-513,Caracas2 CH,Hard,32,C,19930920,12,101066,3,,Richard Matuszewski,R,188,USA,29.0349075975,101050,,,Martin Laurendeau,R,190,CAN,29.196440794,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,144,298,279,106
 1993-513,Caracas2 CH,Hard,32,C,19930920,13,101584,8,,Keith Evans,R,188,USA,24.4982888433,102002,,Q,Davide Scala,R,180,ITA,21.7166324435,6-1 6-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,223,153,359,68
 1993-513,Caracas2 CH,Hard,32,C,19930920,14,101699,,,Alois Beust,R,,FRA,23.613963039,102655,,WC,Jimy Szymanski,R,175,VEN,18.0150581793,2-6 7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,382,61,602,24
-1993-513,Caracas2 CH,Hard,32,C,19930920,15,107022,,,Francesco Michelotti,R,,ITA,,102152,,,Pablo Campana,R,180,ECU,20.7611225188,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,275,111,339,77
+1993-513,Caracas2 CH,Hard,32,C,19930920,15,107022,,,Francesco Michelotti,R,,ITA,23.909650924,102152,,,Pablo Campana,R,180,ECU,20.7611225188,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,275,111,339,77
 1993-513,Caracas2 CH,Hard,32,C,19930920,16,101809,2,,Nicolas Pereira,R,188,VEN,22.9760438056,102106,,,Davide Sanguinetti,R,188,ITA,21.0704996578,7-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,139,317,290,97
 1993-513,Caracas2 CH,Hard,32,C,19930920,17,101788,1,,Doug Flach,R,183,USA,23.112936345,101690,,WC,Juan Carlos Bianchi,R,,VEN,23.6605065024,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,123,349,894,6
 1993-513,Caracas2 CH,Hard,32,C,19930920,18,101783,7,,Mark Petchey,R,183,GBR,23.1375770021,101641,,,Jose Luis Noriega,R,178,PER,24.0164271047,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,203,177,267,114
@@ -2065,7 +2065,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1993-513,Caracas2 CH,Hard,32,C,19930920,21,101710,,,Martin Blackman,R,188,USA,23.5455167693,101864,6,,Fernon Wibier,R,188,NED,22.5681040383,6-4 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,269,114,201,178
 1993-513,Caracas2 CH,Hard,32,C,19930920,22,101066,3,,Richard Matuszewski,R,188,USA,29.0349075975,101608,,,Tom Kempers,R,188,NED,24.3039014374,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,144,298,362,67
 1993-513,Caracas2 CH,Hard,32,C,19930920,23,101584,8,,Keith Evans,R,188,USA,24.4982888433,101699,,,Alois Beust,R,,FRA,23.613963039,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,223,153,382,61
-1993-513,Caracas2 CH,Hard,32,C,19930920,24,101809,2,,Nicolas Pereira,R,188,VEN,22.9760438056,107022,,,Francesco Michelotti,R,,ITA,,7-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,139,317,275,111
+1993-513,Caracas2 CH,Hard,32,C,19930920,24,101809,2,,Nicolas Pereira,R,188,VEN,22.9760438056,107022,,,Francesco Michelotti,R,,ITA,23.909650924,7-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,139,317,275,111
 1993-513,Caracas2 CH,Hard,32,C,19930920,25,101783,7,,Mark Petchey,R,183,GBR,23.1375770021,101788,1,,Doug Flach,R,183,USA,23.112936345,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,203,177,123,349
 1993-513,Caracas2 CH,Hard,32,C,19930920,26,101237,,,Danilo Marcelino,R,193,BRA,27.537303217,101862,4,,Maurice Ruah,R,178,VEN,22.5845311431,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,265,115,171,240
 1993-513,Caracas2 CH,Hard,32,C,19930920,27,101710,,,Martin Blackman,R,188,USA,23.5455167693,101066,3,,Richard Matuszewski,R,188,USA,29.0349075975,6-7 6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,269,114,144,298
@@ -2087,7 +2087,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1993-841,Fairfield CH,Hard,32,C,19930920,12,102235,4,,Tommy Ho,L,183,USA,20.2600958248,101366,,WC,David Macpherson,L,175,AUS,26.2176591376,6-4 6-7 7-6,3,R32,,,,,,,,,,,,,,,,,,,,140,307,,
 1993-841,Fairfield CH,Hard,32,C,19930920,13,101629,,,Matt Lucena,R,178,USA,24.128678987,101061,8,,Jimmy Arias,R,175,USA,29.0951403149,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,354,70,188,200
 1993-841,Fairfield CH,Hard,32,C,19930920,14,101211,,LL,Otis Smith,L,180,USA,27.7837097878,109414,,WC,Jing Li,R,,CHN,,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1123,2,,
-1993-841,Fairfield CH,Hard,32,C,19930920,15,102286,,Q,Wayne Black,R,170,ZIM,19.8494182067,106726,,LL,Chris Cocotos,R,,USA,,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,501,38,940,5
+1993-841,Fairfield CH,Hard,32,C,19930920,15,102286,,Q,Wayne Black,R,170,ZIM,19.8494182067,106726,,LL,Chris Cocotos,R,,USA,21.440109514,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,501,38,940,5
 1993-841,Fairfield CH,Hard,32,C,19930920,16,101932,2,,Jared Palmer,R,190,USA,22.2203969884,101688,,,Geoff Grant,R,183,USA,23.6769336071,7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,111,393,335,77
 1993-841,Fairfield CH,Hard,32,C,19930920,17,101093,,WC,Steve Devries,R,180,USA,28.7830253251,102053,,,Brian Macphie,L,180,USA,21.3607118412,6-7 6-0 2-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,717,15,373,63
 1993-841,Fairfield CH,Hard,32,C,19930920,18,101422,,,Mark Kaplan,R,185,RSA,25.7522245038,102169,,,Michael Joyce,R,180,USA,20.6324435318,7-6 4-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,272,112,271,112
@@ -2274,7 +2274,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1993-692,Cotia CH,Hard,32,C,19931004,13,102024,7,,Hernan Gumy,R,188,ARG,21.582477755,100652,,,Cassio Motta,R,180,BRA,33.6153319644,6-3 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,221,158,275,109
 1993-692,Cotia CH,Hard,32,C,19931004,14,101356,,Q,Buff Farrow,R,170,USA,26.3545516769,101867,,,Pablo Escribano,R,,ARG,22.598220397,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,447,45,238,141
 1993-692,Cotia CH,Hard,32,C,19931004,15,101574,,,Alejandro Aramburu,R,175,PER,24.6351813826,102463,,,Lucas Arnold Ker,R,180,ARG,18.9787816564,7-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,259,122,246,132
-1993-692,Cotia CH,Hard,32,C,19931004,16,101961,2,,Martin Stringari,R,188,ARG,22.0670773443,108242,,WC,Sergio Naufel,R,,BRA,,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,172,238,,
+1993-692,Cotia CH,Hard,32,C,19931004,16,101961,2,,Martin Stringari,R,188,ARG,22.0670773443,108242,,WC,Sergio Naufel,R,,BRA,21.2566735113,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,172,238,,
 1993-692,Cotia CH,Hard,32,C,19931004,17,101641,,,Jose Luis Noriega,R,178,PER,24.0547570157,100892,,Q,Alexandre Hocevar,R,190,BRA,30.6228610541,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,257,123,659,19
 1993-692,Cotia CH,Hard,32,C,19931004,18,102106,,,Davide Sanguinetti,R,188,ITA,21.1088295688,102284,,,Filippo Messori,R,173,ITA,19.8932238193,4-6 7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,291,98,233,144
 1993-692,Cotia CH,Hard,32,C,19931004,19,101462,3,,Francisco Roig,R,175,ESP,25.5085557837,101585,,,Fabio Silberberg,L,190,BRA,24.5284052019,7-5 4-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,164,250,315,81
@@ -2419,7 +2419,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1993-514,Caracas3 CH,Hard,32,C,19931018,3,102053,,Q,Brian Macphie,L,180,USA,21.4373716632,101864,,,Fernon Wibier,R,188,NED,22.6447638604,7-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,343,72,209,179
 1993-514,Caracas3 CH,Hard,32,C,19931018,4,101552,7,,Xavier Daufresne,R,193,BEL,24.8158795346,101061,,,Jimmy Arias,R,175,USA,29.1718001369,6-4 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,139,297,193,202
 1993-514,Caracas3 CH,Hard,32,C,19931018,5,102133,4,,Laurence Tieleman,R,180,ITA,20.9253935661,101495,,,Miguel Tobon,R,185,COL,25.3223819302,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,134,319,265,119
-1993-514,Caracas3 CH,Hard,32,C,19931018,6,101626,,Q,Stephen Noteboom,R,185,NED,24.2162902122,108554,,WC,Yaser Zaatini,R,,VEN,,5-7 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,401,56,572,28
+1993-514,Caracas3 CH,Hard,32,C,19931018,6,101626,,Q,Stephen Noteboom,R,185,NED,24.2162902122,108554,,WC,Yaser Zaatini,R,,VEN,23.2772073922,5-7 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,401,56,572,28
 1993-514,Caracas3 CH,Hard,32,C,19931018,7,102655,,WC,Jimy Szymanski,R,175,VEN,18.0917180014,102434,,Q,Vincent Spadea,R,183,USA,19.2498288843,2-6 6-4 7-6,3,R32,,,,,,,,,,,,,,,,,,,,602,25,290,100
 1993-514,Caracas3 CH,Hard,32,C,19931018,8,101711,6,,Alex Obrien,R,185,USA,23.6167008898,101354,,,Andrew Sznajder,R,175,CAN,26.4010951403,6-3 7-6,3,R32,,,,,,,,,,,,,,,,,,,,132,321,211,178
 1993-514,Caracas3 CH,Hard,32,C,19931018,9,100997,,,Roger Smith,R,185,BAH,29.7440109514,101593,5,,Chris Garner,R,180,USA,24.5311430527,6-3 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,200,191,147,290
@@ -2514,14 +2514,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1993-836,Reunion Island CH,Hard,32,C,19931018,5,101498,,Q,Clinton Ferreira,R,,RSA,25.28678987,101468,3,,Gerard Solves,R,185,FRA,25.53045859,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,727,15,157,262
 1993-836,Reunion Island CH,Hard,32,C,19931018,6,101383,,,Stephane Sansoni,R,180,FRA,26.1848049281,102426,,,Juan Ignacio Carrasco,L,185,ESP,19.2772073922,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,256,127,366,67
 1993-836,Reunion Island CH,Hard,32,C,19931018,7,101747,,Q,Michael Zimmerman,R,,USA,23.4168377823,102300,,Q,Gouichi Motomura,R,173,JPN,19.8138261465,1-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,548,31,570,29
-1993-836,Reunion Island CH,Hard,32,C,19931018,8,101145,5,,Jonathan Canter,R,185,USA,28.372347707,108229,,,Sebastien Hette,R,,FRA,,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,198,193,459,45
+1993-836,Reunion Island CH,Hard,32,C,19931018,8,101145,5,,Jonathan Canter,R,185,USA,28.372347707,108229,,,Sebastien Hette,R,,FRA,21.3579739904,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,198,193,459,45
 1993-836,Reunion Island CH,Hard,32,C,19931018,9,101365,6,,Paul Wekesa,R,188,KEN,26.2970568104,101906,,,Yasufumi Yamamoto,R,175,JPN,22.4613278576,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,229,158,333,77
 1993-836,Reunion Island CH,Hard,32,C,19931018,10,102179,,WC,Antony Dupuis,R,185,FRA,20.6461327858,102010,,,Clinton Marsh,R,188,RSA,21.7467488022,7-6 2-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,733,15,299,94
 1993-836,Reunion Island CH,Hard,32,C,19931018,11,102367,,WC,Nicolas Kischkewitz,R,,FRA,19.5400410678,101608,,,Tom Kempers,R,188,NED,24.3805612594,7-6 4-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,322,79,369,65
 1993-836,Reunion Island CH,Hard,32,C,19931018,12,101285,,,Thierry Champion,R,183,FRA,27.1321013005,101639,4,,Lan Bale,R,175,RSA,24.1122518823,7-5 5-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,278,107,180,223
 1993-836,Reunion Island CH,Hard,32,C,19931018,13,102062,,,Guillaume Marx,R,,FRA,21.401779603,101902,8,,Stephane Huet,L,180,FRA,22.4832306639,6-1 6-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,285,102,251,128
 1993-836,Reunion Island CH,Hard,32,C,19931018,14,101449,,,Bertrand Lemercier,R,,FRA,25.6317590691,190046,,WC,Frederic Sibilla,R,,FRA,,6-7 6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,671,20,,
-1993-836,Reunion Island CH,Hard,32,C,19931018,15,101959,,,Robert Eriksson,R,,SWE,22.1136208077,106584,,LL,Arnaud Casagrande,R,,FRA,,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,409,55,517,35
+1993-836,Reunion Island CH,Hard,32,C,19931018,15,101959,,,Robert Eriksson,R,,SWE,22.1136208077,106584,,LL,Arnaud Casagrande,R,,FRA,22.5051334702,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,409,55,517,35
 1993-836,Reunion Island CH,Hard,32,C,19931018,16,101086,2,,Ronald Agenor,R,180,USA,28.9281314168,108369,,LL,Tetsuya Sato,R,,JPN,,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,95,478,550,31
 1993-836,Reunion Island CH,Hard,32,C,19931018,17,101543,1,,Jeff Tarango,L,180,USA,24.9089664613,101566,,,Fabien Cousin,R,,BEL,24.7392197125,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,94,487,296,96
 1993-836,Reunion Island CH,Hard,32,C,19931018,18,106799,,Q,Daiji Morii,R,,JPN,,101422,7,,Mark Kaplan,R,185,RSA,25.8288843258,6-4 2-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,598,26,216,171
@@ -2702,7 +2702,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1993-691,Rogaska CH,Carpet,32,C,19931122,7,101119,,,Marian Vajda,R,173,SVK,28.6652977413,101731,,,Nuno Marques,L,190,POR,23.6221765914,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,271,114,215,165
 1993-691,Rogaska CH,Carpet,32,C,19931122,8,102344,6,,Karol Kucera,R,188,SVK,19.7207392197,101929,,,Joost Winnink,R,180,NED,22.3983572895,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,181,210,279,109
 1993-691,Rogaska CH,Carpet,32,C,19931122,9,101353,,,Lionel Barthez,R,180,FRA,26.5160848734,101926,5,,Andrei Merinov,L,183,RUS,22.417522245,7-5 7-6,3,R32,,,,,,,,,,,,,,,,,,,,224,153,180,211
-1993-691,Rogaska CH,Carpet,32,C,19931122,10,107022,,,Francesco Michelotti,R,,ITA,,109514,,WC,Peter Netzer,R,,GER,,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,310,88,,
+1993-691,Rogaska CH,Carpet,32,C,19931122,10,107022,,,Francesco Michelotti,R,,ITA,24.0821355236,109514,,WC,Peter Netzer,R,,GER,18.5626283368,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,310,88,,
 1993-691,Rogaska CH,Carpet,32,C,19931122,11,101567,,Q,Hendrik Jan Davids,L,183,NED,24.810403833,101441,,Q,Martin Sinner,R,180,GER,25.7905544148,6-4 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,515,36,347,75
 1993-691,Rogaska CH,Carpet,32,C,19931122,12,102378,3,,Juan Gisbert Jr,R,198,ESP,19.6112251882,101765,,,Tomas Anzari,R,180,CZE,23.4140999316,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,154,254,285,104
 1993-691,Rogaska CH,Carpet,32,C,19931122,13,102491,8,,Alex Radulescu,R,185,GER,18.9596167009,101270,,,Thomas Gollwitzer,R,178,GER,27.3319644079,7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,202,178,222,157
@@ -2713,13 +2713,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1993-691,Rogaska CH,Carpet,32,C,19931122,18,102164,,WC,Radovoin Forgacs,R,,CZE,20.8706365503,101531,7,,Mario Visconti,R,185,ITA,25.0814510609,7-6 3-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,906,7,191,195
 1993-691,Rogaska CH,Carpet,32,C,19931122,19,101332,4,,Gilad Bloom,L,173,ISR,26.7296372348,101566,,,Fabien Cousin,R,,BEL,24.8350444901,7-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,172,229,294,93
 1993-691,Rogaska CH,Carpet,32,C,19931122,20,102344,6,,Karol Kucera,R,188,SVK,19.7207392197,101119,,,Marian Vajda,R,173,SVK,28.6652977413,5-7 6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,181,210,271,114
-1993-691,Rogaska CH,Carpet,32,C,19931122,21,107022,,,Francesco Michelotti,R,,ITA,,101353,,,Lionel Barthez,R,180,FRA,26.5160848734,6-3 7-6,3,R16,,,,,,,,,,,,,,,,,,,,310,88,224,153
+1993-691,Rogaska CH,Carpet,32,C,19931122,21,107022,,,Francesco Michelotti,R,,ITA,24.0821355236,101353,,,Lionel Barthez,R,180,FRA,26.5160848734,6-3 7-6,3,R16,,,,,,,,,,,,,,,,,,,,310,88,224,153
 1993-691,Rogaska CH,Carpet,32,C,19931122,22,101567,,Q,Hendrik Jan Davids,L,183,NED,24.810403833,102378,3,,Juan Gisbert Jr,R,198,ESP,19.6112251882,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,515,36,154,254
 1993-691,Rogaska CH,Carpet,32,C,19931122,23,102491,8,,Alex Radulescu,R,185,GER,18.9596167009,101970,,WC,Iztok Bozic,R,,SLO,22.1546885695,6-7 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,202,178,442,49
 1993-691,Rogaska CH,Carpet,32,C,19931122,24,101685,2,,Markus Naewie,R,190,GER,23.8740588638,102272,,Q,Branislav Galik,R,,SVK,20.090349076,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,136,304,452,47
 1993-691,Rogaska CH,Carpet,32,C,19931122,25,102338,1,,Yevgeny Kafelnikov,R,190,RUS,19.7590691307,102164,,WC,Radovoin Forgacs,R,,CZE,20.8706365503,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,104,438,906,7
 1993-691,Rogaska CH,Carpet,32,C,19931122,26,102344,6,,Karol Kucera,R,188,SVK,19.7207392197,101332,4,,Gilad Bloom,L,173,ISR,26.7296372348,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,181,210,172,229
-1993-691,Rogaska CH,Carpet,32,C,19931122,27,101567,,Q,Hendrik Jan Davids,L,183,NED,24.810403833,107022,,,Francesco Michelotti,R,,ITA,,6-0 6-3,3,QF,,,,,,,,,,,,,,,,,,,,515,36,310,88
+1993-691,Rogaska CH,Carpet,32,C,19931122,27,101567,,Q,Hendrik Jan Davids,L,183,NED,24.810403833,107022,,,Francesco Michelotti,R,,ITA,24.0821355236,6-0 6-3,3,QF,,,,,,,,,,,,,,,,,,,,515,36,310,88
 1993-691,Rogaska CH,Carpet,32,C,19931122,28,102491,8,,Alex Radulescu,R,185,GER,18.9596167009,101685,2,,Markus Naewie,R,190,GER,23.8740588638,6-3 4-0 RET,3,QF,,,,,,,,,,,,,,,,,,,,202,178,136,304
 1993-691,Rogaska CH,Carpet,32,C,19931122,29,102338,1,,Yevgeny Kafelnikov,R,190,RUS,19.7590691307,102344,6,,Karol Kucera,R,188,SVK,19.7207392197,6-4 7-5,3,SF,,,,,,,,,,,,,,,,,,,,104,438,181,210
 1993-691,Rogaska CH,Carpet,32,C,19931122,30,101567,,Q,Hendrik Jan Davids,L,183,NED,24.810403833,102491,8,,Alex Radulescu,R,185,GER,18.9596167009,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,515,36,202,178

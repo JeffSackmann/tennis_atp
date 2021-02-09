@@ -6657,7 +6657,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-NOR-01A-2006,Norway F1,Hard,32,S,20060605,1,103899,1,Q,Stian Boretti,R,188,NOR,24.4572210815,108685,,WC,Frederick Sletting Johnsen,R,,NOR,19.7289527721,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,444,62,,
 2006-M-FU-NOR-01A-2006,Norway F1,Hard,32,S,20060605,2,104964,,,Victor Kolik,R,,ISR,18.932238193,104190,,LL,Benoit Bottero,R,,FRA,23.0390143737,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,795,17,967,10
 2006-M-FU-NOR-01A-2006,Norway F1,Hard,32,S,20060605,3,103859,,Q,James Cerretani,L,185,USA,24.6735112936,104587,,,Claudio Grassi,U,,ITA,20.8624229979,6-0 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,700,24,1062,7
-2006-M-FU-NOR-01A-2006,Norway F1,Hard,32,S,20060605,4,107098,,Q,Gilles Kremer,R,,LUX,,104914,7,,Ervin Eleskovic,R,,SWE,19.0773442847,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1529,1,618,32
+2006-M-FU-NOR-01A-2006,Norway F1,Hard,32,S,20060605,4,107098,,Q,Gilles Kremer,R,,LUX,24.8898015058,104914,7,,Ervin Eleskovic,R,,SWE,19.0773442847,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1529,1,618,32
 2006-M-FU-NOR-01A-2006,Norway F1,Hard,32,S,20060605,5,104059,,,Rasmus Norby,R,183,DEN,23.7344284736,111717,,LL,Richard Wire,U,,GBR,19.1211498973,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,854,14,1529,1
 2006-M-FU-NOR-01A-2006,Norway F1,Hard,32,S,20060605,6,104577,,,Richard Irwin,R,,GBR,20.8980150582,107552,,,Laurent Bram,R,,LUX,22.1793292266,7-6(6) 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,750,20,1033,8
 2006-M-FU-NOR-01A-2006,Norway F1,Hard,32,S,20060605,7,103880,,Q,Arnar Sigurdsson,U,,ISL,24.5284052019,104827,,,Remko De Rijke,R,,NED,19.5783709788,4-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1529,1,1101,6
@@ -6671,7 +6671,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-NOR-01A-2006,Norway F1,Hard,32,S,20060605,15,105051,,,Matthew Ebden,R,188,AUS,18.5242984257,104142,,,Peter Shults,U,,USA,23.2525667351,6-4 4-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1331,3,1071,7
 2006-M-FU-NOR-01A-2006,Norway F1,Hard,32,S,20060605,16,104557,2,,Andis Juska,R,,LAT,21.0376454483,106744,,,Christian Johansson,U,,SWE,,6-1 6-7(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,478,55,1152,5
 2006-M-FU-NOR-01A-2006,Norway F1,Hard,32,S,20060605,17,103899,1,Q,Stian Boretti,R,188,NOR,24.4572210815,104964,,,Victor Kolik,R,,ISR,18.932238193,3-6 6-2 7-6(1),3,R16,,,,,,,,,,,,,,,,,,,,444,62,795,17
-2006-M-FU-NOR-01A-2006,Norway F1,Hard,32,S,20060605,18,103859,,Q,James Cerretani,L,185,USA,24.6735112936,107098,,Q,Gilles Kremer,R,,LUX,,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,700,24,1529,1
+2006-M-FU-NOR-01A-2006,Norway F1,Hard,32,S,20060605,18,103859,,Q,James Cerretani,L,185,USA,24.6735112936,107098,,Q,Gilles Kremer,R,,LUX,24.8898015058,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,700,24,1529,1
 2006-M-FU-NOR-01A-2006,Norway F1,Hard,32,S,20060605,19,104059,,,Rasmus Norby,R,183,DEN,23.7344284736,104577,,,Richard Irwin,R,,GBR,20.8980150582,7-6(5) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,854,14,750,20
 2006-M-FU-NOR-01A-2006,Norway F1,Hard,32,S,20060605,20,103630,5,,Martijn Van Haasteren,R,,AHO,25.7275838467,103880,,Q,Arnar Sigurdsson,U,,ISL,24.5284052019,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,526,45,1529,1
 2006-M-FU-NOR-01A-2006,Norway F1,Hard,32,S,20060605,21,104469,,WC,Erling Tveit,L,,NOR,21.4346338125,104644,8,,Riccardo Ghedin,R,188,ITA,20.4982888433,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,658,28
@@ -7101,7 +7101,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-NOR-02A-2006,Norway F2,Hard,32,S,20060612,11,104573,,,Jerome Becker,R,,GER,20.9719370294,104577,,,Richard Irwin,R,,GBR,20.9171800137,6-1 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,1004,8,743,20
 2006-M-FU-NOR-02A-2006,Norway F2,Hard,32,S,20060612,12,105021,4,,Andrew Coelho,L,180,AUS,18.6940451745,105051,,Q,Matthew Ebden,R,188,AUS,18.5434633812,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,552,41,1328,3
 2006-M-FU-NOR-02A-2006,Norway F2,Hard,32,S,20060612,13,104914,5,,Ervin Eleskovic,R,,SWE,19.0965092402,104587,,,Claudio Grassi,U,,ITA,20.8815879535,4-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,616,32,946,10
-2006-M-FU-NOR-02A-2006,Norway F2,Hard,32,S,20060612,14,104469,,WC,Erling Tveit,L,,NOR,21.453798768,107098,,Q,Gilles Kremer,R,,LUX,,6-2 5-7 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,1517,1
+2006-M-FU-NOR-02A-2006,Norway F2,Hard,32,S,20060612,14,104469,,WC,Erling Tveit,L,,NOR,21.453798768,107098,,Q,Gilles Kremer,R,,LUX,24.9089664613,6-2 5-7 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,1517,1
 2006-M-FU-NOR-02A-2006,Norway F2,Hard,32,S,20060612,15,104142,,,Peter Shults,U,,USA,23.2717316906,107552,,,Laurent Bram,R,,LUX,22.1984941821,6-7(5) 6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1051,7,1020,8
 2006-M-FU-NOR-02A-2006,Norway F2,Hard,32,S,20060612,16,104557,2,,Andis Juska,R,,LAT,21.0568104038,105122,,WC,Karlis Lejnieks,R,,LAT,18.2395619439,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,452,59,1517,1
 2006-M-FU-NOR-02A-2006,Norway F2,Hard,32,S,20060612,17,105032,,Q,Sam Groth,R,,AUS,18.6475017112,103880,,Q,Arnar Sigurdsson,U,,ISL,24.5475701574,6-2 3-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1273,3,1517,1
@@ -7935,7 +7935,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-IRI-01A-2006,Iran F1,Clay,32,S,20060626,8,103914,7,,Omar Awadhy,R,,UAE,24.4407939767,104726,,,Davor Kuseta,R,,CRO,20.1615331964,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,894,12,1217,4
 2006-M-FU-IRI-01A-2006,Iran F1,Clay,32,S,20060626,9,104879,8,,Myles Blake,R,,GBR,19.3264887064,104015,,,Mohammed Mohazebnia,L,,IRI,24.0410677618,7-6(10) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,929,11,1171,5
 2006-M-FU-IRI-01A-2006,Iran F1,Clay,32,S,20060626,10,109355,,Q,Milan Petercak,U,,SVK,20.7501711157,119796,,WC,Amir Shirazi,U,,IRI,23.7371663244,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1425,2,1528,1
-2006-M-FU-IRI-01A-2006,Iran F1,Clay,32,S,20060626,11,106991,,WC,Farshad Talavar,U,,IRI,,119794,,,Ali Javaheriyan,U,,IRI,21.0321697467,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1425,2,1192,4
+2006-M-FU-IRI-01A-2006,Iran F1,Clay,32,S,20060626,11,106991,,WC,Farshad Talavar,U,,IRI,30.083504449,119794,,,Ali Javaheriyan,U,,IRI,21.0321697467,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1425,2,1192,4
 2006-M-FU-IRI-01A-2006,Iran F1,Clay,32,S,20060626,12,104246,4,,Motaz Abou El Khair,U,,EGY,22.765229295,119941,,LL,Ashkan Shahgholi,R,,IRI,28.1724845996,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,703,24,1528,1
 2006-M-FU-IRI-01A-2006,Iran F1,Clay,32,S,20060626,13,104151,6,,Jan Stancik,U,,SVK,23.2388774812,103776,,,Alexei Filenkov,R,,RUS,25.1088295688,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,880,13,1171,5
 2006-M-FU-IRI-01A-2006,Iran F1,Clay,32,S,20060626,14,104728,,,Andemir Karanashev,R,,RUS,20.1314168378,120340,,Q,Farzad Sadeghi,U,,DEN,25.8918548939,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1075,6,,
@@ -7946,12 +7946,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-IRI-01A-2006,Iran F1,Clay,32,S,20060626,19,103651,3,,Alexander Satschko,R,180,GER,25.6180698152,117992,,LL,Diago Sakurai,U,,JPN,22.045174538,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2006-M-FU-IRI-01A-2006,Iran F1,Clay,32,S,20060626,20,103914,7,,Omar Awadhy,R,,UAE,24.4407939767,104236,,Q,Rouzbeh Kamran,U,,IRI,22.8117727584,3-6 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,894,12,1425,2
 2006-M-FU-IRI-01A-2006,Iran F1,Clay,32,S,20060626,21,104879,8,,Myles Blake,R,,GBR,19.3264887064,109355,,Q,Milan Petercak,U,,SVK,20.7501711157,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,929,11,1425,2
-2006-M-FU-IRI-01A-2006,Iran F1,Clay,32,S,20060626,22,106991,,WC,Farshad Talavar,U,,IRI,,104246,4,,Motaz Abou El Khair,U,,EGY,22.765229295,7-5 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1425,2,703,24
+2006-M-FU-IRI-01A-2006,Iran F1,Clay,32,S,20060626,22,106991,,WC,Farshad Talavar,U,,IRI,30.083504449,104246,4,,Motaz Abou El Khair,U,,EGY,22.765229295,7-5 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1425,2,703,24
 2006-M-FU-IRI-01A-2006,Iran F1,Clay,32,S,20060626,23,104151,6,,Jan Stancik,U,,SVK,23.2388774812,104728,,,Andemir Karanashev,R,,RUS,20.1314168378,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,880,13,1075,6
 2006-M-FU-IRI-01A-2006,Iran F1,Clay,32,S,20060626,24,103467,2,,Victor Bruthans,R,,SVK,26.6283367556,105016,,Q,Serguei Tarasevitch,R,,BLR,18.7624914442,2-6 6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,349,95,1086,6
 2006-M-FU-IRI-01A-2006,Iran F1,Clay,32,S,20060626,25,104230,1,,Daniel Koellerer,R,180,AUT,22.8583162218,104583,5,,Filip Polasek,R,196,SVK,20.9308692676,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,177,235,841,14
 2006-M-FU-IRI-01A-2006,Iran F1,Clay,32,S,20060626,26,103651,3,,Alexander Satschko,R,180,GER,25.6180698152,103914,7,,Omar Awadhy,R,,UAE,24.4407939767,W/O,3,QF,,,,,,,,,,,,,,,,,,,,,,894,12
-2006-M-FU-IRI-01A-2006,Iran F1,Clay,32,S,20060626,27,104879,8,,Myles Blake,R,,GBR,19.3264887064,106991,,WC,Farshad Talavar,U,,IRI,,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,929,11,1425,2
+2006-M-FU-IRI-01A-2006,Iran F1,Clay,32,S,20060626,27,104879,8,,Myles Blake,R,,GBR,19.3264887064,106991,,WC,Farshad Talavar,U,,IRI,30.083504449,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,929,11,1425,2
 2006-M-FU-IRI-01A-2006,Iran F1,Clay,32,S,20060626,28,103467,2,,Victor Bruthans,R,,SVK,26.6283367556,104151,6,,Jan Stancik,U,,SVK,23.2388774812,7-6(6) 1-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,349,95,880,13
 2006-M-FU-IRI-01A-2006,Iran F1,Clay,32,S,20060626,29,104230,1,,Daniel Koellerer,R,180,AUT,22.8583162218,103651,3,,Alexander Satschko,R,180,GER,25.6180698152,6-1 3-6 6-4,3,SF,,,,,,,,,,,,,,,,,,,,177,235,,
 2006-M-FU-IRI-01A-2006,Iran F1,Clay,32,S,20060626,30,103467,2,,Victor Bruthans,R,,SVK,26.6283367556,104879,8,,Myles Blake,R,,GBR,19.3264887064,6-1 6-0,3,SF,,,,,,,,,,,,,,,,,,,,349,95,929,11
@@ -8312,7 +8312,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-IRI-02A-2006,Iran F2,Clay,32,S,20060703,13,104879,8,,Myles Blake,R,,GBR,19.3456536619,109606,,Q,Amir Soheil Mohseni,U,,IRI,26.1245722108,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,929,11,1528,1
 2006-M-FU-IRI-02A-2006,Iran F2,Clay,32,S,20060703,14,103776,,,Alexei Filenkov,R,,RUS,25.1279945243,108928,,WC,Saeid Ahmadvand,L,,IRI,30.2833675565,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1171,5,1528,1
 2006-M-FU-IRI-02A-2006,Iran F2,Clay,32,S,20060703,15,104015,,,Mohammed Mohazebnia,L,,IRI,24.0602327173,119794,,,Ali Javaheriyan,U,,IRI,21.0513347023,7-6(3) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1171,5,1192,4
-2006-M-FU-IRI-02A-2006,Iran F2,Clay,32,S,20060703,16,103467,2,,Victor Bruthans,R,,SVK,26.6475017112,106991,,WC,Farshad Talavar,U,,IRI,,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,349,95,1425,2
+2006-M-FU-IRI-02A-2006,Iran F2,Clay,32,S,20060703,16,103467,2,,Victor Bruthans,R,,SVK,26.6475017112,106991,,WC,Farshad Talavar,U,,IRI,30.1026694045,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,349,95,1425,2
 2006-M-FU-IRI-02A-2006,Iran F2,Clay,32,S,20060703,17,104230,1,,Daniel Koellerer,R,180,AUT,22.8774811773,104726,,,Davor Kuseta,R,,CRO,20.180698152,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,177,235,1217,4
 2006-M-FU-IRI-02A-2006,Iran F2,Clay,32,S,20060703,18,104151,6,,Jan Stancik,U,,SVK,23.2580424367,104728,,LL,Andemir Karanashev,R,,RUS,20.1505817933,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,880,13,1075,6
 2006-M-FU-IRI-02A-2006,Iran F2,Clay,32,S,20060703,19,104992,,,Syrym Abdukhalikov,R,,KAZ,18.9048596851,104773,,WC,Omid Souri,R,,IRI,19.9315537303,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1137,5,,
@@ -8586,7 +8586,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-GER-08A-2006,Germany F8,Clay,32,S,20060710,8,104510,,,Stefan Seifert,L,,GER,21.3607118412,104657,8,,Stefan Kilchhofer,R,,SUI,20.514715948,7-6(3) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1002,8,776,18
 2006-M-FU-GER-08A-2006,Germany F8,Clay,32,S,20060710,9,103699,,Q,Fred Hemmes,R,183,NED,25.4455852156,104460,5,SE,Dustin Brown,R,196,GER,21.5852156057,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,572,39
 2006-M-FU-GER-08A-2006,Germany F8,Clay,32,S,20060710,10,104315,,,Kevin Deden,R,,GER,22.3709787817,104455,,,Daniel Lustig,R,190,CZE,21.620807666,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,749,20,856,14
-2006-M-FU-GER-08A-2006,Germany F8,Clay,32,S,20060710,11,103696,,,Sven Swinnen,R,190,SUI,25.4620123203,107098,,LL,Gilles Kremer,R,,LUX,,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,845,14,1535,1
+2006-M-FU-GER-08A-2006,Germany F8,Clay,32,S,20060710,11,103696,,,Sven Swinnen,R,190,SUI,25.4620123203,107098,,LL,Gilles Kremer,R,,LUX,24.9856262834,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,845,14,1535,1
 2006-M-FU-GER-08A-2006,Germany F8,Clay,32,S,20060710,12,104586,3,,Lukas Rosol,R,196,CZE,20.9609856263,109168,,Q,Sascha Hesse,R,,GER,26.8911704312,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,483,52,1117,5
 2006-M-FU-GER-08A-2006,Germany F8,Clay,32,S,20060710,13,104573,,,Jerome Becker,R,,GER,21.0485968515,103406,6,WC,Ralph Grambow,R,,GER,26.9897330595,6-7(1) 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,978,9,647,29
 2006-M-FU-GER-08A-2006,Germany F8,Clay,32,S,20060710,14,118685,,Q,Markus Hornung,R,,GER,26.2997946612,118707,,Q,Lennart Maack,U,,GER,24.3285420945,6-0 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -8806,7 +8806,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-BEL-01A-2006,Belgium F1,Clay,32,S,20060717,11,104358,,Q,Bas Van Der Valk,L,,NED,22.2258726899,120099,,Q,Pim Van Mele,L,,BEL,24.7556468172,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1237,4,,
 2006-M-FU-BEL-01A-2006,Belgium F1,Clay,32,S,20060717,12,103658,3,,Jordane Doble,R,,FRA,25.620807666,103088,,,Xavier Pujo,R,180,FRA,28.6132785763,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,451,60,583,37
 2006-M-FU-BEL-01A-2006,Belgium F1,Clay,32,S,20060717,13,104185,7,,Dusan Karol,R,,CZE,23.1622176591,105421,,Q,Michal Konecny,L,,CZE,16.758384668,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,506,51,1537,1
-2006-M-FU-BEL-01A-2006,Belgium F1,Clay,32,S,20060717,14,107098,,Q,Gilles Kremer,R,,LUX,,103869,,Q,Thomas Schoeck,U,,GER,24.7145790554,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1537,1,,
+2006-M-FU-BEL-01A-2006,Belgium F1,Clay,32,S,20060717,14,107098,,Q,Gilles Kremer,R,,LUX,25.0047912389,103869,,Q,Thomas Schoeck,U,,GER,24.7145790554,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1537,1,,
 2006-M-FU-BEL-01A-2006,Belgium F1,Clay,32,S,20060717,15,103406,,,Ralph Grambow,R,,GER,27.0088980151,105096,,WC,Julien Dubail,R,,BEL,18.4202600958,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,643,30,,
 2006-M-FU-BEL-01A-2006,Belgium F1,Clay,32,S,20060717,16,104793,,,Nikita Kryvonos,R,,USA,19.8740588638,103641,2,,Cesar Ferrer Victoria,L,,ESP,25.7713894593,0-6 6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,528,47,385,80
 2006-M-FU-BEL-01A-2006,Belgium F1,Clay,32,S,20060717,17,104140,1,,Dawid Olejniczak,R,,POL,23.3785078713,103527,,,Julien Jeanpierre,R,188,FRA,26.3518138261,7-5 7-5,3,R16,,,,,,,,,,,,,,,,,,,,334,101,582,37
@@ -8815,7 +8815,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-BEL-01A-2006,Belgium F1,Clay,32,S,20060717,20,105043,,,Marek Semjan,U,,SVK,18.6913073238,104295,5,,Raphael Durek,R,188,AUS,22.4531143053,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,787,18,494,52
 2006-M-FU-BEL-01A-2006,Belgium F1,Clay,32,S,20060717,21,104586,6,,Lukas Rosol,R,196,CZE,20.9801505818,104944,,,Niels Desein,R,,BEL,19.1047227926,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,493,52,945,10
 2006-M-FU-BEL-01A-2006,Belgium F1,Clay,32,S,20060717,22,104358,,Q,Bas Van Der Valk,L,,NED,22.2258726899,103658,3,,Jordane Doble,R,,FRA,25.620807666,7-6(2) 1-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1237,4,451,60
-2006-M-FU-BEL-01A-2006,Belgium F1,Clay,32,S,20060717,23,104185,7,,Dusan Karol,R,,CZE,23.1622176591,107098,,Q,Gilles Kremer,R,,LUX,,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,506,51,1537,1
+2006-M-FU-BEL-01A-2006,Belgium F1,Clay,32,S,20060717,23,104185,7,,Dusan Karol,R,,CZE,23.1622176591,107098,,Q,Gilles Kremer,R,,LUX,25.0047912389,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,506,51,1537,1
 2006-M-FU-BEL-01A-2006,Belgium F1,Clay,32,S,20060717,24,104793,,,Nikita Kryvonos,R,,USA,19.8740588638,103406,,,Ralph Grambow,R,,GER,27.0088980151,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,528,47,643,30
 2006-M-FU-BEL-01A-2006,Belgium F1,Clay,32,S,20060717,25,104965,8,,Pavol Cervenak,R,,SVK,19.0444900753,104140,1,,Dawid Olejniczak,R,,POL,23.3785078713,6-1 4-6 7-6(4),3,QF,,,,,,,,,,,,,,,,,,,,430,66,334,101
 2006-M-FU-BEL-01A-2006,Belgium F1,Clay,32,S,20060717,26,107891,,,Olivier Vandewiele,R,,FRA,,105043,,,Marek Semjan,U,,SVK,18.6913073238,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,530,47,787,18
@@ -11078,7 +11078,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-IRI-03A-2006,Iran F3,Clay,32,S,20060821,5,104696,3,,Bogdan Leonte,R,,ROU,20.4544832307,109355,,LL,Milan Petercak,U,,SVK,20.9034907598,6-3 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,655,30,1447,2
 2006-M-FU-IRI-03A-2006,Iran F3,Clay,32,S,20060821,6,105236,,Q,Pirmin Haenle,R,,GER,17.8042436687,119699,,Q,Alaatin Bora Gerceker,R,,TUR,24.7748117728,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1151,5,,
 2006-M-FU-IRI-03A-2006,Iran F3,Clay,32,S,20060821,7,103050,,,Shahab Hassani Nafez,R,,IRI,28.9281314168,119796,,WC,Amir Shirazi,U,,IRI,23.8904859685,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1084,6,1571,1
-2006-M-FU-IRI-03A-2006,Iran F3,Clay,32,S,20060821,8,103875,8,,Anoosha Shahgholi,U,,IRI,24.7775496235,106991,,,Farshad Talavar,U,,IRI,,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1055,7,1136,5
+2006-M-FU-IRI-03A-2006,Iran F3,Clay,32,S,20060821,8,103875,8,,Anoosha Shahgholi,U,,IRI,24.7775496235,106991,,,Farshad Talavar,U,,IRI,30.2368240931,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1055,7,1136,5
 2006-M-FU-IRI-03A-2006,Iran F3,Clay,32,S,20060821,9,104512,,,Ergun Zorlu,R,,TUR,21.4702258727,104992,6,,Syrym Abdukhalikov,R,,KAZ,19.0390143737,4-6 7-6(2) 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,1039,7,829,16
 2006-M-FU-IRI-03A-2006,Iran F3,Clay,32,S,20060821,10,108928,,WC,Saeid Ahmadvand,L,,IRI,30.417522245,119870,,Q,Ned Boone,R,,GBR,19.1704312115,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1571,1,,
 2006-M-FU-IRI-03A-2006,Iran F3,Clay,32,S,20060821,11,119864,,,Ernest Zurabian,U,,UKR,22.5735797399,117992,,Q,Diago Sakurai,U,,JPN,22.1984941821,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1097,6,,
@@ -11443,7 +11443,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-GER-15A-2006,Germany F14,Clay,32,S,20060828,29,105109,,Q,Marc Sieber,L,178,GER,18.4969199179,104455,,,Daniel Lustig,R,190,CZE,21.7549623546,7-6(5) 6-2,3,SF,,,,,,,,,,,,,,,,,,,,1325,3,1041,7
 2006-M-FU-GER-15A-2006,Germany F14,Clay,32,S,20060828,30,102473,4,,Thomas Schiessling,R,180,AUT,31.8220396988,103537,,Q,Andreas Kauntz,R,,GER,26.417522245,6-3 6-0,3,SF,,,,,,,,,,,,,,,,,,,,757,20,1550,1
 2006-M-FU-GER-15A-2006,Germany F14,Clay,32,S,20060828,31,102473,4,,Thomas Schiessling,R,180,AUT,31.8220396988,105109,,Q,Marc Sieber,L,178,GER,18.4969199179,6-0 6-0,3,F,,,,,,,,,,,,,,,,,,,,757,20,1325,3
-2006-M-FU-IRI-04A-2006,Iran F4,Clay,32,S,20060828,1,103651,1,,Alexander Satschko,R,180,GER,25.7905544148,106991,,,Farshad Talavar,U,,IRI,,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,318,113,1133,5
+2006-M-FU-IRI-04A-2006,Iran F4,Clay,32,S,20060828,1,103651,1,,Alexander Satschko,R,180,GER,25.7905544148,106991,,,Farshad Talavar,U,,IRI,30.2559890486,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,318,113,1133,5
 2006-M-FU-IRI-04A-2006,Iran F4,Clay,32,S,20060828,2,104512,,,Ergun Zorlu,R,,TUR,21.4893908282,104015,,,Mohammed Mohazebnia,L,,IRI,24.2135523614,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1035,7,1232,4
 2006-M-FU-IRI-04A-2006,Iran F4,Clay,32,S,20060828,3,103803,,,Ashkan Shokoofi,U,,IRI,25.1362080767,103776,,,Alexei Filenkov,R,,RUS,25.2813141684,6-1 5-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1083,6,1232,4
 2006-M-FU-IRI-04A-2006,Iran F4,Clay,32,S,20060828,4,104246,7,,Motaz Abou El Khair,U,,EGY,22.9377138946,108928,,WC,Saeid Ahmadvand,L,,IRI,30.4366872005,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,855,14,1550,1
@@ -14787,7 +14787,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-IRI-06A-2006,Iran F6,Clay,32,S,20061106,10,103006,,Q,Erik Csarnakovics,R,,SVK,29.3963039014,102753,,,Wolfgang Schranz,R,178,AUT,30.6338124572,4-6 RET,3,R32,,,,,,,,,,,,,,,,,,,,1225,4,832,15
 2006-M-FU-IRI-06A-2006,Iran F6,Clay,32,S,20061106,11,103262,,Q,Marc Canovas,R,,ESP,28.1451060917,103803,,,Ashkan Shokoofi,U,,IRI,25.3278576318,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1540,1,1094,6
 2006-M-FU-IRI-06A-2006,Iran F6,Clay,32,S,20061106,12,103600,4,,Mohammad Ghareeb,R,,KUW,26.2915811088,119610,,Q,Francisco Malfitani,U,,ARG,18.9486652977,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,378,88,,
-2006-M-FU-IRI-06A-2006,Iran F6,Clay,32,S,20061106,13,104185,7,,Dusan Karol,R,,CZE,23.4688569473,106991,,WC,Farshad Talavar,U,,IRI,,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,504,53,1275,3
+2006-M-FU-IRI-06A-2006,Iran F6,Clay,32,S,20061106,13,104185,7,,Dusan Karol,R,,CZE,23.4688569473,106991,,WC,Farshad Talavar,U,,IRI,30.4476386037,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,504,53,1275,3
 2006-M-FU-IRI-06A-2006,Iran F6,Clay,32,S,20061106,14,104616,,,Ahmed Shebl Morsy,R,,EGY,21.0978781656,105103,,,Pavel Katliarov,R,,BLR,18.7049965777,6-1 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,900,12,874,13
 2006-M-FU-IRI-06A-2006,Iran F6,Clay,32,S,20061106,15,105101,,,Blazej Koniusz,R,,POL,18.7049965777,104674,,Q,Bertram Steinberger,R,,AUT,20.7611225188,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,896,12,1225,4
 2006-M-FU-IRI-06A-2006,Iran F6,Clay,32,S,20061106,16,104605,2,,Adam Vejmelka,R,,CZE,21.1416837782,104111,,Q,Georg Novak,R,,AUT,23.8165639973,7-6(5) 2-6 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,335,107,1032,8

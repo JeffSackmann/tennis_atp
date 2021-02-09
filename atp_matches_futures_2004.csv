@@ -302,7 +302,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-FRA-01A-2004,France F1,Clay,32,S,20040119,30,102967,,,Marc Gicquel,R,188,FRA,26.8062970568,103592,4,,Jerome Haehnel,R,185,FRA,23.5154004107,6-1 6-3,3,SF,,,,,,,,,,,,,,,,,,,,414,67,334,94
 2004-M-FU-FRA-01A-2004,France F1,Clay,32,S,20040119,31,103726,5,,Jean Christophe Faurel,R,175,FRA,22.8720054757,102967,,,Marc Gicquel,R,188,FRA,26.8062970568,7-5 2-6 7-6(5),3,F,,,,,,,,,,,,,,,,,,,,336,93,414,67
 2004-M-FU-GER-03A-2004,Germany F3,Hard,32,S,20040119,1,103393,1,,Yuri Schukin,R,188,KAZ,24.5667351129,104885,,WC,Philipp Piyamongkol,U,,GER,16.8624229979,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,213,171,,
-2004-M-FU-GER-03A-2004,Germany F3,Hard,32,S,20040119,2,103929,,Q,Philipp Marx,R,188,GER,21.9575633128,107098,,Q,Gilles Kremer,R,,LUX,,7-6(2) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,659,24,905,9
+2004-M-FU-GER-03A-2004,Germany F3,Hard,32,S,20040119,2,103929,,Q,Philipp Marx,R,188,GER,21.9575633128,107098,,Q,Gilles Kremer,R,,LUX,22.5133470226,7-6(2) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,659,24,905,9
 2004-M-FU-GER-03A-2004,Germany F3,Hard,32,S,20040119,3,104034,,,Dmitry Vlasov,R,188,RUS,21.5249828884,103735,,,Lovro Zovko,R,190,CRO,22.8391512663,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,342,90,319,102
 2004-M-FU-GER-03A-2004,Germany F3,Hard,32,S,20040119,4,103967,5,,Michael Lammer,R,185,SUI,21.8206707734,104134,,,Bastian Gronefeld,L,,GER,20.9034907598,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,296,113,381,77
 2004-M-FU-GER-03A-2004,Germany F3,Hard,32,S,20040119,5,103238,3,,Jean Claude Scherrer,R,188,SUI,25.5003422313,104233,,Q,Frederik Nielsen,R,190,DEN,20.3969883641,7-5 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,278,123,663,23
@@ -1002,7 +1002,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-CAN-01A-2004,Canada F1,Hard,32,S,20040216,10,103161,,,Ryan Sachire,R,198,USA,25.8754277892,103175,,,Toshihide Matsui,R,180,JPN,25.8288843258,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,506,44,478,50
 2004-M-FU-CAN-01A-2004,Canada F1,Hard,32,S,20040216,11,103123,,Q,Michal Ciszek,U,,CAN,26.0670773443,102677,,LL,Kiantki Thomas,R,,USA,28.3039014374,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1337,2,843,11
 2004-M-FU-CAN-01A-2004,Canada F1,Hard,32,S,20040216,12,103991,,LL,Boy Wijnmalen,U,,NED,21.7905544148,103465,4,,Paul Logtens,R,175,NED,24.2765229295,7-6(5) 5-7 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,656,23,333,93
-2004-M-FU-CAN-01A-2004,Canada F1,Hard,32,S,20040216,13,103623,8,,Jacob Adaktusson,R,,SWE,23.4606433949,107098,,Q,Gilles Kremer,R,,LUX,,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,382,75,901,9
+2004-M-FU-CAN-01A-2004,Canada F1,Hard,32,S,20040216,13,103623,8,,Jacob Adaktusson,R,,SWE,23.4606433949,107098,,Q,Gilles Kremer,R,,LUX,22.5900068446,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,382,75,901,9
 2004-M-FU-CAN-01A-2004,Canada F1,Hard,32,S,20040216,14,104486,,Q,Horia Tecau,R,193,ROU,19.0746064339,102242,,Q,Bart Beks,R,,NED,30.6201232033,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,930,8,806,13
 2004-M-FU-CAN-01A-2004,Canada F1,Hard,32,S,20040216,15,104330,,,Rajeev Ram,R,193,USA,19.9151266256,104224,,Q,Travis Rettenmaier,R,188,USA,20.5311430527,7-6(1) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,456,57,742,17
 2004-M-FU-CAN-01A-2004,Canada F1,Hard,32,S,20040216,16,103976,2,,Juan Pablo Brzezicki,R,178,ARG,21.8480492813,104429,,Q,Kean Feeder,U,,USA,19.4223134839,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,231,154,586,30
@@ -1124,7 +1124,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-CAN-02A-2004,Canada F2,Hard,32,S,20040223,8,103623,6,,Jacob Adaktusson,R,,SWE,23.4798083504,103175,,,Toshihide Matsui,R,180,JPN,25.8480492813,6-3 1-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,379,75,475,50
 2004-M-FU-CAN-02A-2004,Canada F2,Hard,32,S,20040223,9,103752,5,,Simon Greul,R,185,GER,22.8637919233,105229,,WC,Philip Bester,R,188,CAN,15.3812457221,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,364,80,,
 2004-M-FU-CAN-02A-2004,Canada F2,Hard,32,S,20040223,10,104495,,,Florin Mergea,R,180,ROU,19.0746064339,104486,,Q,Horia Tecau,R,193,ROU,19.0937713895,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,467,52,928,8
-2004-M-FU-CAN-02A-2004,Canada F2,Hard,32,S,20040223,11,107098,,Q,Gilles Kremer,R,,LUX,,104235,,,Matwe Middelkoop,R,,NED,20.4736481862,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,899,9,574,31
+2004-M-FU-CAN-02A-2004,Canada F2,Hard,32,S,20040223,11,107098,,Q,Gilles Kremer,R,,LUX,22.6091718001,104235,,,Matwe Middelkoop,R,,NED,20.4736481862,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,899,9,574,31
 2004-M-FU-CAN-02A-2004,Canada F2,Hard,32,S,20040223,12,103465,3,,Paul Logtens,R,175,NED,24.295687885,103665,,,Ryan Haviland,U,,USA,23.1978097194,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,332,93,524,38
 2004-M-FU-CAN-02A-2004,Canada F2,Hard,32,S,20040223,13,104330,7,,Rajeev Ram,R,193,USA,19.9342915811,104537,,WC,Dejan Cvetkovic,R,,CAN,18.8637919233,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,452,57,709,18
 2004-M-FU-CAN-02A-2004,Canada F2,Hard,32,S,20040223,14,104429,,,Kean Feeder,U,,USA,19.4414784394,104695,,Q,Fritz Wolmarans,R,,RSA,17.9657768652,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,580,30,975,6
@@ -1135,7 +1135,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-CAN-02A-2004,Canada F2,Hard,32,S,20040223,19,104224,,LL,Travis Rettenmaier,R,188,USA,20.5503080082,104049,4,,Gary Lugassy,L,,FRA,21.5112936345,6-7(6) 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,736,17,338,90
 2004-M-FU-CAN-02A-2004,Canada F2,Hard,32,S,20040223,20,103623,6,,Jacob Adaktusson,R,,SWE,23.4798083504,119283,,Q,Bart Scott,R,,USA,23.0527036277,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,379,75,,
 2004-M-FU-CAN-02A-2004,Canada F2,Hard,32,S,20040223,21,104495,,,Florin Mergea,R,180,ROU,19.0746064339,103752,5,,Simon Greul,R,185,GER,22.8637919233,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,467,52,364,80
-2004-M-FU-CAN-02A-2004,Canada F2,Hard,32,S,20040223,22,103465,3,,Paul Logtens,R,175,NED,24.295687885,107098,,Q,Gilles Kremer,R,,LUX,,6-2 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,332,93,899,9
+2004-M-FU-CAN-02A-2004,Canada F2,Hard,32,S,20040223,22,103465,3,,Paul Logtens,R,175,NED,24.295687885,107098,,Q,Gilles Kremer,R,,LUX,22.6091718001,6-2 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,332,93,899,9
 2004-M-FU-CAN-02A-2004,Canada F2,Hard,32,S,20040223,23,104330,7,,Rajeev Ram,R,193,USA,19.9342915811,104429,,,Kean Feeder,U,,USA,19.4414784394,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,452,57,580,30
 2004-M-FU-CAN-02A-2004,Canada F2,Hard,32,S,20040223,24,103560,2,,Kj Hippensteel,L,190,USA,23.794661191,104227,,Q,Augustin Gensse,R,,FRA,20.5393566051,6-4 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,322,98,718,17
 2004-M-FU-CAN-02A-2004,Canada F2,Hard,32,S,20040223,25,103976,1,,Juan Pablo Brzezicki,R,178,ARG,21.8672142368,103131,,,Michihisa Onoda,R,,JPN,26.0616016427,7-6(3) 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,228,154,521,39
@@ -2137,7 +2137,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-FRA-04A-2004,France F4,Hard,32,S,20040308,7,102967,,WC,Marc Gicquel,R,188,FRA,26.9404517454,104495,,Q,Florin Mergea,R,180,ROU,19.112936345,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,347,88,446,58
 2004-M-FU-FRA-04A-2004,France F4,Hard,32,S,20040308,8,103868,7,,Ivan Navarro,R,183,ESP,22.3846680356,103521,,,Andrea Stoppini,R,190,ITA,24.0219028063,6-7(3) 7-6(3) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,270,126,442,59
 2004-M-FU-FRA-04A-2004,France F4,Hard,32,S,20040308,9,103238,6,,Jean Claude Scherrer,R,188,SUI,25.6344969199,104095,,Q,David Guez,R,185,FRA,21.2484599589,1-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,282,121,752,15
-2004-M-FU-FRA-04A-2004,France F4,Hard,32,S,20040308,10,104361,,SE,Michel Koning,R,,NED,19.8521560575,107098,,Q,Gilles Kremer,R,,LUX,,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,794,13,878,10
+2004-M-FU-FRA-04A-2004,France F4,Hard,32,S,20040308,10,104361,,SE,Michel Koning,R,,NED,19.8521560575,107098,,Q,Gilles Kremer,R,,LUX,22.6475017112,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,794,13,878,10
 2004-M-FU-FRA-04A-2004,France F4,Hard,32,S,20040308,11,104620,,Q,Simone Bolelli,R,183,ITA,18.4147843943,118657,,WC,Jason Gouget,U,,FRA,22.9295003422,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,563,33,,
 2004-M-FU-FRA-04A-2004,France F4,Hard,32,S,20040308,12,104334,,Q,Alberto Brizzi,R,,ITA,19.9507186858,103082,3,,Markus Hantschk,R,188,GER,26.2997946612,2-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,550,35,233,151
 2004-M-FU-FRA-04A-2004,France F4,Hard,32,S,20040308,13,104273,5,,Edouard Roger Vasselin,R,188,FRA,20.2765229295,102630,,,Slimane Saoudi,L,,ALG,28.6269678303,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,244,146,295,114
@@ -2545,7 +2545,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-GRE-02A-2004,Greece F2,Hard,32,S,20040329,12,104014,4,,Lee Childs,R,,GBR,21.7987679671,104402,,Q,Clement Morel,R,,MON,19.7015742642,7-6(0) 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,279,122,588,31
 2004-M-FU-GRE-02A-2004,Greece F2,Hard,32,S,20040329,13,103587,6,,Andres Dellatorre,R,190,ARG,23.7207392197,104371,,,Ivo Minar,R,183,CZE,19.8548939083,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,284,119,337,91
 2004-M-FU-GRE-02A-2004,Greece F2,Hard,32,S,20040329,14,104468,,,Gilles Simon,R,183,FRA,19.2525667351,104107,,SE,Andrew Banks,L,,GBR,21.2265571526,3-6 7-6(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,403,72,686,20
-2004-M-FU-GRE-02A-2004,Greece F2,Hard,32,S,20040329,15,103568,,,Valentin Sanon,R,,CIV,23.8576317591,107098,,Q,Gilles Kremer,R,,LUX,,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,339,90,884,10
+2004-M-FU-GRE-02A-2004,Greece F2,Hard,32,S,20040329,15,103568,,,Valentin Sanon,R,,CIV,23.8576317591,107098,,Q,Gilles Kremer,R,,LUX,22.7049965777,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,339,90,884,10
 2004-M-FU-GRE-02A-2004,Greece F2,Hard,32,S,20040329,16,104372,2,,Alex Bogdanovic,L,183,GBR,19.8521560575,104334,,Q,Alberto Brizzi,R,,ITA,20.0082135524,6-4 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,259,134,556,36
 2004-M-FU-GRE-02A-2004,Greece F2,Hard,32,S,20040329,17,104211,,,Roman Valent,R,183,SUI,20.7255304586,104660,,Q,Sergiy Stakhovsky,R,193,UKR,18.2258726899,6-4 2-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,414,68,497,46
 2004-M-FU-GRE-02A-2004,Greece F2,Hard,32,S,20040329,18,104467,7,,Lamine Ouahab,R,185,ALG,19.266255989,103666,,,Ilia Kushev,R,,BUL,23.2908966461,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,305,109,388,77
@@ -3881,7 +3881,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-ROU-01A-2004,Romania F1,Clay,32,S,20040503,8,103724,5,,Jose Manuel Garcia Rodriguez,R,,ESP,23.1731690623,103903,,Q,Nikola Vidovic,R,,SRB,22.3244353183,6-2 7-6(0),3,R32,,,,,,,,,,,,,,,,,,,,663,22,1066,5
 2004-M-FU-ROU-01A-2004,Romania F1,Clay,32,S,20040503,9,103651,7,,Alexander Satschko,R,180,GER,23.4715947981,119333,,Q,Dietmar Rautenbach,R,,CAN,22.2039698836,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2004-M-FU-ROU-01A-2004,Romania F1,Clay,32,S,20040503,10,104079,,,Marius Zay,U,,GER,21.5222450376,119043,,Q,Alberto Cornelio Martinez,U,,ESP,19.7919233402,3-6 7-6(1) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,914,8,,
-2004-M-FU-ROU-01A-2004,Romania F1,Clay,32,S,20040503,11,104410,,Q,Andrei Mlendea,U,,ROU,19.7481177276,107098,,,Gilles Kremer,R,,LUX,,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1132,4,879,10
+2004-M-FU-ROU-01A-2004,Romania F1,Clay,32,S,20040503,11,104410,,Q,Andrei Mlendea,U,,ROU,19.7481177276,107098,,,Gilles Kremer,R,,LUX,22.8008213552,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1132,4,879,10
 2004-M-FU-ROU-01A-2004,Romania F1,Clay,32,S,20040503,12,104149,4,,Adrian Cruciat,R,,ROU,21.0924024641,104220,,WC,Adrian Barbu,R,,ROU,20.7638603696,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,668,22,846,11
 2004-M-FU-ROU-01A-2004,Romania F1,Clay,32,S,20040503,13,104304,,,Stefan Wiespeiner,R,,AUT,20.2272416153,103643,8,,Lauri Kiiski,R,,FIN,23.5619438741,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1024,6,730,17
 2004-M-FU-ROU-01A-2004,Romania F1,Clay,32,S,20040503,14,103222,,Q,Sergei Krotiouk,R,,RUS,25.8672142368,119334,,WC,Victor Frunza,U,,ROU,17.620807666,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,780,14,,
@@ -4213,7 +4213,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-MEX-06A-2004,Mexico F6,Hard,32,S,20040510,30,103910,,Q,Tres Davis,R,180,USA,22.3216974675,103492,,SE,Pablo Martinez,R,,MEX,24.3175906913,6-7(17) 6-3 6-1,3,SF,,,,,,,,,,,,,,,,,,,,1408,1,878,10
 2004-M-FU-MEX-06A-2004,Mexico F6,Hard,32,S,20040510,31,103910,,Q,Tres Davis,R,180,USA,22.3216974675,103265,,Q,Juan Ignacio Cerda,R,,CHI,25.6235455168,6-3 6-1,3,F,,,,,,,,,,,,,,,,,,,,1408,1,805,13
 2004-M-FU-ROU-02A-2004,Romania F2,Clay,32,S,20040510,1,119043,,Q,Alberto Cornelio Martinez,U,,ESP,19.8110882957,104181,1,,Victor Ionita,R,185,ROU,20.9993155373,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,504,45
-2004-M-FU-ROU-02A-2004,Romania F2,Clay,32,S,20040510,2,104494,,SE,Adrian Ungur,R,178,ROU,19.2881587953,107098,,,Gilles Kremer,R,,LUX,,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1120,4,1032,6
+2004-M-FU-ROU-02A-2004,Romania F2,Clay,32,S,20040510,2,104494,,SE,Adrian Ungur,R,178,ROU,19.2881587953,107098,,,Gilles Kremer,R,,LUX,22.8199863107,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1120,4,1032,6
 2004-M-FU-ROU-02A-2004,Romania F2,Clay,32,S,20040510,3,103222,,,Sergei Krotiouk,R,,RUS,25.8863791923,119033,,WC,Mihai Lucian Ciuntea,U,,ROU,20.2108145106,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,783,14,,
 2004-M-FU-ROU-02A-2004,Romania F2,Clay,32,S,20040510,4,103643,7,,Lauri Kiiski,R,,FIN,23.5811088296,119335,,WC,Gabriel Bogdan Ciuntea,U,,ROU,17.53045859,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,733,17,,
 2004-M-FU-ROU-02A-2004,Romania F2,Clay,32,S,20040510,5,104285,,,Patrick Schmolzer,R,,AUT,20.3285420945,104145,3,,Vjekoslav Skenderovic,U,,CRO,21.1416837782,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,810,13,582,30
@@ -4431,7 +4431,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-MEX-07A-2004,Mexico F6A,Hard,32,S,20040517,31,103493,6,,Eduardo Bohrer,R,,BRA,24.3312799452,103826,,WC,Carlos Palencia,R,,MEX,22.7351129363,6-2 3-6 6-1,3,F,,,,,,,,,,,,,,,,,,,,566,33,1416,1
 2004-M-FU-ROU-03A-2004,Romania F3,Clay,32,S,20040517,1,104327,1,,Steve Darcis,R,178,BEL,20.1779603012,103658,,,Jordane Doble,R,,FRA,23.4551676934,6-2 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,452,57,921,8
 2004-M-FU-ROU-03A-2004,Romania F3,Clay,32,S,20040517,2,119337,,Q,Daniel Plasa,U,,GER,22.1026694045,119338,,Q,Alin Zorila,U,,ROU,21.1389459274,6-4 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2004-M-FU-ROU-03A-2004,Romania F3,Clay,32,S,20040517,3,107098,,,Gilles Kremer,R,,LUX,,104079,,,Marius Zay,U,,GER,21.5605749487,3-6 6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1029,6,866,10
+2004-M-FU-ROU-03A-2004,Romania F3,Clay,32,S,20040517,3,107098,,,Gilles Kremer,R,,LUX,22.8391512663,104079,,,Marius Zay,U,,GER,21.5605749487,3-6 6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1029,6,866,10
 2004-M-FU-ROU-03A-2004,Romania F3,Clay,32,S,20040517,4,104271,8,,Philipp Mukhometov,R,,RUS,20.476386037,103904,,,Alberto Soriano,U,,ESP,22.3600273785,3-6 6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,668,22,639,25
 2004-M-FU-ROU-03A-2004,Romania F3,Clay,32,S,20040517,5,104181,3,,Victor Ionita,R,185,ROU,21.0184804928,111720,,WC,Mihai Nichifor,R,,ROU,16.476386037,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,502,45,,
 2004-M-FU-ROU-03A-2004,Romania F3,Clay,32,S,20040517,6,103901,,,Alessandro Piccari,R,,ITA,22.3682409309,104696,,WC,Bogdan Leonte,R,,ROU,18.1930184805,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,963,7,,
@@ -4446,7 +4446,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-ROU-03A-2004,Romania F3,Clay,32,S,20040517,15,104178,,Q,Max Raditschnigg,L,,AUT,21.0321697467,104410,,Q,Andrei Mlendea,U,,ROU,19.7864476386,2-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,1068,5
 2004-M-FU-ROU-03A-2004,Romania F3,Clay,32,S,20040517,16,111350,,LL,Matthew Brown,R,,GBR,17.749486653,119340,,Q,Elliot Wronski,U,,GBR,18.1875427789,6-4 4-6 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2004-M-FU-ROU-03A-2004,Romania F3,Clay,32,S,20040517,17,104327,1,,Steve Darcis,R,178,BEL,20.1779603012,119337,,Q,Daniel Plasa,U,,GER,22.1026694045,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,452,57,,
-2004-M-FU-ROU-03A-2004,Romania F3,Clay,32,S,20040517,18,104271,8,,Philipp Mukhometov,R,,RUS,20.476386037,107098,,,Gilles Kremer,R,,LUX,,6-3 0-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,668,22,1029,6
+2004-M-FU-ROU-03A-2004,Romania F3,Clay,32,S,20040517,18,104271,8,,Philipp Mukhometov,R,,RUS,20.476386037,107098,,,Gilles Kremer,R,,LUX,22.8391512663,6-3 0-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,668,22,1029,6
 2004-M-FU-ROU-03A-2004,Romania F3,Clay,32,S,20040517,19,104181,3,,Victor Ionita,R,185,ROU,21.0184804928,103901,,,Alessandro Piccari,R,,ITA,22.3682409309,6-2 4-6 6-0,3,R16,,,,,,,,,,,,,,,,,,,,502,45,963,7
 2004-M-FU-ROU-03A-2004,Romania F3,Clay,32,S,20040517,20,104137,,,Bart Van Delft,U,,NED,21.2238193018,119217,,Q,Marcin Maszczyk,U,,POL,20.6926762491,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,765,15,,
 2004-M-FU-ROU-03A-2004,Romania F3,Clay,32,S,20040517,21,104003,,,Victor Crivoi,R,185,ROU,21.9794661191,104100,5,,Evgueni Smirnov,U,,RUS,21.4182067077,7-6(9) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,683,21,564,33
@@ -4957,7 +4957,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-JPN-05A-2004,Japan F5,Hard,32,S,20040531,30,103682,6,,Kyu Tae Im,R,185,KOR,23.3976728268,103030,5,,Norikazu Sugiyama,R,178,JPN,26.8391512663,7-6(2) 6-2,3,SF,,,,,,,,,,,,,,,,,,,,552,35,528,41
 2004-M-FU-JPN-05A-2004,Japan F5,Hard,32,S,20040531,31,103682,6,,Kyu Tae Im,R,185,KOR,23.3976728268,103131,4,,Michihisa Onoda,R,,JPN,26.3299110198,4-6 7-6(5) 7-5,3,F,,,,,,,,,,,,,,,,,,,,552,35,406,71
 2004-M-FU-KUW-01A-2004,Kuwait F1,Hard,32,S,20040531,1,104004,1,Q,Filip Prpic,R,173,SWE,22.0150581793,109460,,Q,Benjamin Althaus,U,,GER,,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,299,113,,
-2004-M-FU-KUW-01A-2004,Kuwait F1,Hard,32,S,20040531,2,107098,,,Gilles Kremer,R,,LUX,,104895,,WC,Abdullah Maqdas,U,,KUW,17.1690622861,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1031,6,,
+2004-M-FU-KUW-01A-2004,Kuwait F1,Hard,32,S,20040531,2,107098,,,Gilles Kremer,R,,LUX,22.8774811773,104895,,WC,Abdullah Maqdas,U,,KUW,17.1690622861,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1031,6,,
 2004-M-FU-KUW-01A-2004,Kuwait F1,Hard,32,S,20040531,3,103614,,,Josef Nesticky,R,,CZE,23.8028747433,119396,,LL,Massimo Puci,U,,ITA,33.3990417522,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,943,8,,
 2004-M-FU-KUW-01A-2004,Kuwait F1,Hard,32,S,20040531,4,118557,,,Gouram Kostava,U,,GEO,28.7474332649,104114,8,,Michael Ouvarov,R,,GBR,21.3689253936,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1415,1,704,20
 2004-M-FU-KUW-01A-2004,Kuwait F1,Hard,32,S,20040531,5,103523,4,,Rohan Bopanna,R,190,IND,24.2409308693,108618,,LL,Karim Alayli,R,,LIB,21.1882272416,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,474,51,1415,1
@@ -4972,7 +4972,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-KUW-01A-2004,Kuwait F1,Hard,32,S,20040531,14,103692,,,Jakub Hasek,L,,CZE,23.3675564682,119168,,WC,Amir Mohamed Ebrahim Bayoumi,U,,QAT,19.3675564682,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,744,17,,
 2004-M-FU-KUW-01A-2004,Kuwait F1,Hard,32,S,20040531,15,104459,,Q,Arkady Bassetti,U,,ITA,19.485284052,109605,,Q,Tobias Raab,U,,GER,21.7275838467,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,905,9,1415,1
 2004-M-FU-KUW-01A-2004,Kuwait F1,Hard,32,S,20040531,16,103422,2,,Sebastian Fitz,R,,GER,24.8021902806,103914,,,Omar Awadhy,R,,UAE,22.3709787817,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,367,84,1035,5
-2004-M-FU-KUW-01A-2004,Kuwait F1,Hard,32,S,20040531,17,104004,1,Q,Filip Prpic,R,173,SWE,22.0150581793,107098,,,Gilles Kremer,R,,LUX,,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,299,113,1031,6
+2004-M-FU-KUW-01A-2004,Kuwait F1,Hard,32,S,20040531,17,104004,1,Q,Filip Prpic,R,173,SWE,22.0150581793,107098,,,Gilles Kremer,R,,LUX,22.8774811773,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,299,113,1031,6
 2004-M-FU-KUW-01A-2004,Kuwait F1,Hard,32,S,20040531,18,103614,,,Josef Nesticky,R,,CZE,23.8028747433,118557,,,Gouram Kostava,U,,GEO,28.7474332649,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,943,8,1415,1
 2004-M-FU-KUW-01A-2004,Kuwait F1,Hard,32,S,20040531,19,103523,4,,Rohan Bopanna,R,190,IND,24.2409308693,119397,,WC,Mohammed Abdel Aziz Al Nuaimi,U,,UAE,17.9329226557,W/O,3,R16,,,,,,,,,,,,,,,,,,,,474,51,,
 2004-M-FU-KUW-01A-2004,Kuwait F1,Hard,32,S,20040531,20,103600,,,Mohammad Ghareeb,R,,KUW,23.8576317591,102864,5,Q,Frank Moser,R,193,GER,27.6851471595,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,902,9,488,48
@@ -5333,7 +5333,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-KUW-02A-2004,Kuwait F2,Hard,32,S,20040607,11,104575,,,Jochen Matschke,R,,GER,18.9240246407,103614,,,Josef Nesticky,R,,CZE,23.8220396988,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,992,7,910,9
 2004-M-FU-KUW-02A-2004,Kuwait F2,Hard,32,S,20040607,12,103657,3,SE,Ivo Klec,R,183,SVK,23.523613963,108983,,Q,Ali Ismaeel,U,,KUW,16.4325804244,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,410,67,,
 2004-M-FU-KUW-02A-2004,Kuwait F2,Hard,32,S,20040607,13,102864,5,,Frank Moser,R,193,GER,27.704312115,108985,,LL,Ali Ghareeb,U,,KUW,18.2286105407,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,479,48,,
-2004-M-FU-KUW-02A-2004,Kuwait F2,Hard,32,S,20040607,14,107098,,,Gilles Kremer,R,,LUX,,110856,,WC,Abdul Rahman Shehab,R,,BRN,33.2156057495,6-2 1-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,992,7,1421,1
+2004-M-FU-KUW-02A-2004,Kuwait F2,Hard,32,S,20040607,14,107098,,,Gilles Kremer,R,,LUX,22.8966461328,110856,,WC,Abdul Rahman Shehab,R,,BRN,33.2156057495,6-2 1-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,992,7,1421,1
 2004-M-FU-KUW-02A-2004,Kuwait F2,Hard,32,S,20040607,15,103600,,,Mohammad Ghareeb,R,,KUW,23.8767967146,108925,,Q,Ahmad Rabeea Muhammad,R,,KUW,17.1909650924,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,903,9,,
 2004-M-FU-KUW-02A-2004,Kuwait F2,Hard,32,S,20040607,16,103422,2,,Sebastian Fitz,R,,GER,24.8213552361,118949,,LL,Farzad Heidari,R,,IRI,19.151266256,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,343,92,,
 2004-M-FU-KUW-02A-2004,Kuwait F2,Hard,32,S,20040607,17,104004,1,,Filip Prpic,R,173,SWE,22.0342231348,118557,,Q,Gouram Kostava,U,,GEO,28.7665982204,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,333,95,1421,1
@@ -5342,7 +5342,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-KUW-02A-2004,Kuwait F2,Hard,32,S,20040607,20,103619,7,,Mustafa Ghouse,R,185,IND,23.8001368925,104895,,WC,Abdullah Maqdas,U,,KUW,17.1882272416,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,669,22,,
 2004-M-FU-KUW-02A-2004,Kuwait F2,Hard,32,S,20040607,21,108628,8,,Jhonnatan Medina Alvarez,L,,VEN,22.4010951403,108618,,Q,Karim Alayli,R,,LIB,21.2073921971,6-4 2-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,1421,1
 2004-M-FU-KUW-02A-2004,Kuwait F2,Hard,32,S,20040607,22,103657,3,SE,Ivo Klec,R,183,SVK,23.523613963,104575,,,Jochen Matschke,R,,GER,18.9240246407,3-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,410,67,992,7
-2004-M-FU-KUW-02A-2004,Kuwait F2,Hard,32,S,20040607,23,102864,5,,Frank Moser,R,193,GER,27.704312115,107098,,,Gilles Kremer,R,,LUX,,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,479,48,992,7
+2004-M-FU-KUW-02A-2004,Kuwait F2,Hard,32,S,20040607,23,102864,5,,Frank Moser,R,193,GER,27.704312115,107098,,,Gilles Kremer,R,,LUX,22.8966461328,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,479,48,992,7
 2004-M-FU-KUW-02A-2004,Kuwait F2,Hard,32,S,20040607,24,103600,,,Mohammad Ghareeb,R,,KUW,23.8767967146,103422,2,,Sebastian Fitz,R,,GER,24.8213552361,6-2 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,903,9,343,92
 2004-M-FU-KUW-02A-2004,Kuwait F2,Hard,32,S,20040607,25,104004,1,,Filip Prpic,R,173,SWE,22.0342231348,104459,,,Arkady Bassetti,U,,ITA,19.5044490075,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,333,95,886,10
 2004-M-FU-KUW-02A-2004,Kuwait F2,Hard,32,S,20040607,26,103619,7,,Mustafa Ghouse,R,185,IND,23.8001368925,103523,4,,Rohan Bopanna,R,190,IND,24.2600958248,6-4 7-6(3),3,QF,,,,,,,,,,,,,,,,,,,,669,22,480,48
@@ -7817,7 +7817,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-INA-01A-2004,Indonesia F1,Hard,32,S,20040802,31,103377,5,,Seung Hoon Lee,R,,KOR,25.1991786448,103220,8,,Oh Hee Kwon,R,,KOR,26.1245722108,3-6 6-4 7-6(2),3,F,,,,,,,,,,,,,,,,,,,,736,17,709,18
 2004-M-FU-IRI-01A-2004,Iran F1,Clay,32,S,20040802,1,104453,1,,Michael Ryderstedt,L,188,SWE,19.7207392197,104454,,,Murad Inoyatov,R,,UZB,19.7180013689,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,341,89,936,8
 2004-M-FU-IRI-01A-2004,Iran F1,Clay,32,S,20040802,2,103875,,WC,Anoosha Shahgholi,U,,IRI,22.726899384,103776,,,Alexei Filenkov,R,,RUS,23.2114989733,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,994,6,1212,3
-2004-M-FU-IRI-01A-2004,Iran F1,Clay,32,S,20040802,3,103600,,,Mohammad Ghareeb,R,,KUW,24.0301163587,106991,,,Farshad Talavar,U,,IRI,,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,711,18,994,6
+2004-M-FU-IRI-01A-2004,Iran F1,Clay,32,S,20040802,3,103600,,,Mohammad Ghareeb,R,,KUW,24.0301163587,106991,,,Farshad Talavar,U,,IRI,28.1861738535,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,711,18,994,6
 2004-M-FU-IRI-01A-2004,Iran F1,Clay,32,S,20040802,4,103614,,,Josef Nesticky,R,,CZE,23.9753593429,103692,8,,Jakub Hasek,L,,CZE,23.5400410678,7-5 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,830,12,695,20
 2004-M-FU-IRI-01A-2004,Iran F1,Clay,32,S,20040802,5,104272,3,,Torsten Popp,R,,GER,20.6872005476,109606,,WC,Amir Soheil Mohseni,U,,IRI,24.2080766598,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,489,48,,
 2004-M-FU-IRI-01A-2004,Iran F1,Clay,32,S,20040802,6,104254,,Q,Charles Roche,R,,FRA,20.8186173854,119472,,Q,Tomas Banczi,U,,SVK,23.4962354552,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1090,5,,
@@ -8130,7 +8130,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-IRI-02A-2004,Iran F2,Clay,32,S,20040809,3,104454,,,Murad Inoyatov,R,,UZB,19.7371663244,108926,,Q,David Kvernadze,R,,GEO,18.6009582478,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,966,7,,
 2004-M-FU-IRI-02A-2004,Iran F2,Clay,32,S,20040809,4,104291,7,,Malek Jaziri,R,185,TUN,20.553045859,108928,,WC,Saeid Ahmadvand,L,,IRI,28.386036961,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,659,22,,
 2004-M-FU-IRI-02A-2004,Iran F2,Clay,32,S,20040809,5,104112,4,,Benjamin Balleret,R,185,MON,21.5660506502,103050,,WC,Shahab Hassani Nafez,R,,IRI,26.8966461328,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,586,29,1236,3
-2004-M-FU-IRI-02A-2004,Iran F2,Clay,32,S,20040809,6,106991,,,Farshad Talavar,U,,IRI,,104479,,,Sarvar Ikramov,R,,UZB,19.5783709788,6-2 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,987,6,852,11
+2004-M-FU-IRI-02A-2004,Iran F2,Clay,32,S,20040809,6,106991,,,Farshad Talavar,U,,IRI,28.205338809,104479,,,Sarvar Ikramov,R,,UZB,19.5783709788,6-2 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,987,6,852,11
 2004-M-FU-IRI-02A-2004,Iran F2,Clay,32,S,20040809,7,103803,,WC,Ashkan Shokoofi,U,,IRI,23.0855578371,104348,,Q,Dias Doskarayev,U,,KAZ,20.334017796,6-1 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1428,1,1428,1
 2004-M-FU-IRI-02A-2004,Iran F2,Clay,32,S,20040809,8,104580,5,,Haithem Abid,L,,TUN,19.0636550308,104254,,,Charles Roche,R,,FRA,20.8377823409,6-7(2) 6-3 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,615,26,1081,5
 2004-M-FU-IRI-02A-2004,Iran F2,Clay,32,S,20040809,9,104402,6,,Clement Morel,R,,MON,20.0657084189,103776,,Q,Alexei Filenkov,R,,RUS,23.2306639288,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,650,23,1198,3
@@ -8143,7 +8143,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-IRI-02A-2004,Iran F2,Clay,32,S,20040809,16,103149,2,,Mathias Hellstrom,R,,SWE,26.4640657084,103614,,,Josef Nesticky,R,,CZE,23.9945242984,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,460,53,831,12
 2004-M-FU-IRI-02A-2004,Iran F2,Clay,32,S,20040809,17,104453,1,,Michael Ryderstedt,L,188,SWE,19.7399041752,108621,,WC,Seyed Akbar Taheri Rahaghi,U,,IRI,30.7624914442,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,342,89,,
 2004-M-FU-IRI-02A-2004,Iran F2,Clay,32,S,20040809,18,104454,,,Murad Inoyatov,R,,UZB,19.7371663244,104291,7,,Malek Jaziri,R,185,TUN,20.553045859,7-6(7) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,966,7,659,22
-2004-M-FU-IRI-02A-2004,Iran F2,Clay,32,S,20040809,19,104112,4,,Benjamin Balleret,R,185,MON,21.5660506502,106991,,,Farshad Talavar,U,,IRI,,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,586,29,987,6
+2004-M-FU-IRI-02A-2004,Iran F2,Clay,32,S,20040809,19,104112,4,,Benjamin Balleret,R,185,MON,21.5660506502,106991,,,Farshad Talavar,U,,IRI,28.205338809,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,586,29,987,6
 2004-M-FU-IRI-02A-2004,Iran F2,Clay,32,S,20040809,20,104580,5,,Haithem Abid,L,,TUN,19.0636550308,103803,,WC,Ashkan Shokoofi,U,,IRI,23.0855578371,7-6(4) 6-7(7) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,615,26,1428,1
 2004-M-FU-IRI-02A-2004,Iran F2,Clay,32,S,20040809,21,104402,6,,Clement Morel,R,,MON,20.0657084189,104236,,Q,Rouzbeh Kamran,U,,IRI,20.9336071184,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,650,23,1327,2
 2004-M-FU-IRI-02A-2004,Iran F2,Clay,32,S,20040809,22,104272,3,,Torsten Popp,R,,GER,20.7063655031,108893,,Q,Tarek Ben Soltane,U,,TUN,19.5619438741,2-6 6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,492,47,1428,1
@@ -9147,7 +9147,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-SA-SUI-02A-2004b,Switzerland 2 2,Clay,32,S,20040823,5,103770,,SE,Kevin Sorensen,R,183,IRL,23.2881587953,104040,4,,Adam Thompson,R,,NZL,22.0725530459,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,975,7,677,21
 2004-M-SA-SUI-02A-2004b,Switzerland 2 2,Clay,32,S,20040823,6,104388,,,Morgan Phillips,U,,GBR,20.167008898,104666,,Q,Pedro Clar Rossello,R,,ESP,18.5817932923,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1087,5,,
 2004-M-SA-SUI-02A-2004b,Switzerland 2 2,Clay,32,S,20040823,7,103772,,,Matteo Galli,U,,ITA,23.2826830938,104519,,Q,Roman Vogeli,R,,CZE,19.446954141,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,910,8,1022,6
-2004-M-SA-SUI-02A-2004b,Switzerland 2 2,Clay,32,S,20040823,8,104226,7,,Bastian Knittel,L,,GER,21.0431211499,107098,,,Gilles Kremer,R,,LUX,,W/O,3,R32,,,,,,,,,,,,,,,,,,,,774,14,979,7
+2004-M-SA-SUI-02A-2004b,Switzerland 2 2,Clay,32,S,20040823,8,104226,7,,Bastian Knittel,L,,GER,21.0431211499,107098,,,Gilles Kremer,R,,LUX,23.1074606434,W/O,3,R32,,,,,,,,,,,,,,,,,,,,774,14,979,7
 2004-M-SA-SUI-02A-2004b,Switzerland 2 2,Clay,32,S,20040823,9,104047,8,,Nicolo Cotto,L,,ITA,22.0205338809,111345,,WC,Michael Kurz,U,,SUI,18.045174538,7-6(6) 1-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,777,14,1261,2
 2004-M-SA-SUI-02A-2004b,Switzerland 2 2,Clay,32,S,20040823,10,103651,,,Alexander Satschko,R,180,GER,23.7782340862,103616,,Q,Andre Van Der Merwe B,R,,RSA,24.0219028063,6-1 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2004-M-SA-SUI-02A-2004b,Switzerland 2 2,Clay,32,S,20040823,11,104657,,SE,Stefan Kilchhofer,R,,SUI,18.636550308,104411,,Q,Amar Zubcevic,U,,SUI,20.038329911,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1121,4,,
@@ -9180,7 +9180,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-SA-SUI-02A-2004c,Switzerland 2 3,Clay,32,S,20040823,7,104047,,,Nicolo Cotto,L,,ITA,22.0205338809,104363,,Q,Yuri Bezeruk,R,,AUS,20.3121149897,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,777,14,1317,2
 2004-M-SA-SUI-02A-2004c,Switzerland 2 3,Clay,32,S,20040823,8,103651,8,,Alexander Satschko,R,180,GER,23.7782340862,104694,,WC,Mathieu Guenat,R,,SUI,18.4668035592,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2004-M-SA-SUI-02A-2004c,Switzerland 2 3,Clay,32,S,20040823,9,104226,,,Bastian Knittel,L,,GER,21.0431211499,104139,5,,Sebastian Linda,R,,GER,21.4839151266,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,774,14,652,22
-2004-M-SA-SUI-02A-2004c,Switzerland 2 3,Clay,32,S,20040823,10,103570,,,Fabian Roetschi,U,,SUI,24.2464065708,107098,,,Gilles Kremer,R,,LUX,,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1004,6,979,7
+2004-M-SA-SUI-02A-2004c,Switzerland 2 3,Clay,32,S,20040823,10,103570,,,Fabian Roetschi,U,,SUI,24.2464065708,107098,,,Gilles Kremer,R,,LUX,23.1074606434,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1004,6,979,7
 2004-M-SA-SUI-02A-2004c,Switzerland 2 3,Clay,32,S,20040823,11,104074,,,Peter Mayer Tischer,U,,GER,21.8453114305,104411,,Q,Amar Zubcevic,U,,SUI,20.038329911,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,949,7,,
 2004-M-SA-SUI-02A-2004c,Switzerland 2 3,Clay,32,S,20040823,12,104084,,,Carlos Poch Gradin,L,185,ESP,21.787816564,103647,4,,Jun Kato,R,173,JPN,23.8275154004,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,752,16,639,24
 2004-M-SA-SUI-02A-2004c,Switzerland 2 3,Clay,32,S,20040823,13,103785,,,Luis Feo Bernabe,U,,ESP,23.2251882272,104040,6,,Adam Thompson,R,,NZL,22.0725530459,6-2 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,800,13,677,21
@@ -12299,7 +12299,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-FRA-19A-2004,France F20,Hard,32,S,20041025,12,104351,,Q,Benjamin Dracos,U,,FRA,20.5229295003,103047,4,,Julien Varlet,R,180,FRA,27.1293634497,6-3 3-6 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,1180,3,410,61
 2004-M-FU-FRA-19A-2004,France F20,Hard,32,S,20041025,13,103425,7,,Nicolas Tourte,L,,FRA,25.1882272416,104758,,WC,Antoine Benneteau,R,,FRA,18.3216974675,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,464,50,1311,2
 2004-M-FU-FRA-19A-2004,France F20,Hard,32,S,20041025,14,102630,,,Slimane Saoudi,L,,ALG,29.2594113621,103858,,,Frederic Jeanclaude,L,,FRA,23.0636550308,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,507,41,611,28
-2004-M-FU-FRA-19A-2004,France F20,Hard,32,S,20041025,15,107098,,Q,Gilles Kremer,R,,LUX,,103327,,,Alessandro Motti,L,,ITA,25.6755646817,3-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1021,6,734,18
+2004-M-FU-FRA-19A-2004,France F20,Hard,32,S,20041025,15,107098,,Q,Gilles Kremer,R,,LUX,23.279945243,103327,,,Alessandro Motti,L,,ITA,25.6755646817,3-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1021,6,734,18
 2004-M-FU-FRA-19A-2004,France F20,Hard,32,S,20041025,16,103003,2,,Jean Francois Bachelot,R,183,FRA,27.3730321697,104023,,,Nicolas Renavand,R,,FRA,22.3353867214,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,343,85,563,34
 2004-M-FU-FRA-19A-2004,France F20,Hard,32,S,20041025,17,104468,1,SE,Gilles Simon,R,183,FRA,19.8275154004,104248,,LL,Cyril Baudin,U,,FRA,21.0951403149,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,179,222,663,23
 2004-M-FU-FRA-19A-2004,France F20,Hard,32,S,20041025,18,104402,,,Clement Morel,R,,MON,20.2765229295,104095,5,,David Guez,R,185,FRA,21.8809034908,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,670,23,412,61
@@ -12308,7 +12308,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-M-FU-FRA-19A-2004,France F20,Hard,32,S,20041025,21,104272,6,,Torsten Popp,R,,GER,20.9171800137,104257,,WC,Pierre Metenier,U,,FRA,21.029431896,3-6 6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,441,54,,
 2004-M-FU-FRA-19A-2004,France F20,Hard,32,S,20041025,22,104351,,Q,Benjamin Dracos,U,,FRA,20.5229295003,107016,,Q,Florent Scaccianoce,U,,FRA,,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1180,3,1428,1
 2004-M-FU-FRA-19A-2004,France F20,Hard,32,S,20041025,23,103425,7,,Nicolas Tourte,L,,FRA,25.1882272416,102630,,,Slimane Saoudi,L,,ALG,29.2594113621,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,464,50,507,41
-2004-M-FU-FRA-19A-2004,France F20,Hard,32,S,20041025,24,103003,2,,Jean Francois Bachelot,R,183,FRA,27.3730321697,107098,,Q,Gilles Kremer,R,,LUX,,6-4 6-7(5) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,343,85,1021,6
+2004-M-FU-FRA-19A-2004,France F20,Hard,32,S,20041025,24,103003,2,,Jean Francois Bachelot,R,183,FRA,27.3730321697,107098,,Q,Gilles Kremer,R,,LUX,23.279945243,6-4 6-7(5) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,343,85,1021,6
 2004-M-FU-FRA-19A-2004,France F20,Hard,32,S,20041025,25,104468,1,SE,Gilles Simon,R,183,FRA,19.8275154004,104402,,,Clement Morel,R,,MON,20.2765229295,6-7(7) 6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,179,222,670,23
 2004-M-FU-FRA-19A-2004,France F20,Hard,32,S,20041025,26,104183,,,Alexander Flock,R,190,GER,21.4483230664,103029,,,Mehdi Tahiri,R,183,MAR,27.2443531828,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,477,47,544,36
 2004-M-FU-FRA-19A-2004,France F20,Hard,32,S,20041025,27,104272,6,,Torsten Popp,R,,GER,20.9171800137,104351,,Q,Benjamin Dracos,U,,FRA,20.5229295003,6-1 RET,3,QF,,,,,,,,,,,,,,,,,,,,441,54,1180,3

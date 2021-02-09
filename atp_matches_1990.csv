@@ -250,9 +250,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1990-580,Australian Open,Hard,128,G,19900115,125,100656,1,,Ivan Lendl,R,188,USA,29.8590006845,100676,12,,Yannick Noah,R,193,FRA,29.6618754278,6-4 6-1 6-2,5,SF,,,,,,,,,,,,,,,,,,,,1,2913,13,861
 1990-580,Australian Open,Hard,128,G,19900115,126,101222,3,,Stefan Edberg,R,188,SWE,23.9890485969,101062,8,,Mats Wilander,R,183,SWE,25.3990417522,6-1 6-1 6-2,5,SF,,,,,,,,,,,,,,,,,,,,3,2111,15,842
 1990-580,Australian Open,Hard,128,G,19900115,127,100656,1,,Ivan Lendl,R,188,USA,29.8590006845,101222,3,,Stefan Edberg,R,188,SWE,23.9890485969,4-6 7-6 5-2 RET,5,F,,,,,,,,,,,,,,,,,,,,1,2913,3,2111
-1990-D001,Davis Cup G2 R1: ALG vs EGY,Clay,4,D,19900201,1,108056,,,Reda Galou,R,,ALG,,100796,,,Ahmed El Mehelmy,R,183,EGY,28.0109514031,4-6 7-5 7-6(3) 1-6 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
-1990-D001,Davis Cup G2 R1: ALG vs EGY,Clay,4,D,19900201,2,102018,,,Tamer El Sawy,R,188,EGY,17.9657768652,107827,,,Moncef Zehar,R,,ALG,,6-3 6-7(2) 7-6(1) 6-1,5,RR,,,,,,,,,,,,,,,,,,,,,,1091,1
-1990-D001,Davis Cup G2 R1: ALG vs EGY,Clay,4,D,19900201,4,102018,,,Tamer El Sawy,R,188,EGY,17.9657768652,108056,,,Reda Galou,R,,ALG,,6-1 6-3 6-1,5,RR,,,,,,,,,,,,,,,,,,,,,,,
+1990-D001,Davis Cup G2 R1: ALG vs EGY,Clay,4,D,19900201,1,108056,,,Reda Galou,R,,ALG,24.9226557153,100796,,,Ahmed El Mehelmy,R,183,EGY,28.0109514031,4-6 7-5 7-6(3) 1-6 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
+1990-D001,Davis Cup G2 R1: ALG vs EGY,Clay,4,D,19900201,2,102018,,,Tamer El Sawy,R,188,EGY,17.9657768652,107827,,,Moncef Zehar,R,,ALG,21.9466119097,6-3 6-7(2) 7-6(1) 6-1,5,RR,,,,,,,,,,,,,,,,,,,,,,1091,1
+1990-D001,Davis Cup G2 R1: ALG vs EGY,Clay,4,D,19900201,4,102018,,,Tamer El Sawy,R,188,EGY,17.9657768652,108056,,,Reda Galou,R,,ALG,24.9226557153,6-1 6-3 6-1,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1990-D001,Davis Cup G2 R1: ALG vs EGY,Clay,4,D,19900201,5,108810,,,Khaled El Salawy,U,,EGY,19.7453798768,102033,,,Abdelhak Hameurlaine,R,,ALG,17.864476386,7-5 3-6 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1990-D073,Davis Cup WG R1: NZL vs YUG,Grass,4,D,19900201,1,100772,,,Kelly Evernden,R,175,NZL,28.3559206023,100946,,,Slobodan Zivojinovic,R,198,YUG,26.5215605749,6-7(1) 3-6 6-3 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,,58,369,91,259
 1990-D073,Davis Cup WG R1: NZL vs YUG,Grass,4,D,19900201,2,101601,,,Brett Steven,R,185,NZL,20.758384668,101030,,,Goran Prpic,R,180,CRO,25.7385352498,6-4 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,,447,28,45,431
@@ -290,10 +290,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1990-D019,Davis Cup G2 R1: BRN vs IRQ,Hard,4,D,19900202,2,108754,,,Esam Abdulaal,R,,BRN,20.4681724846,110821,,,Kadhim Kadhim,U,,IRQ,,6-2 7-6(4) 2-6 6-1,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1990-D019,Davis Cup G2 R1: BRN vs IRQ,Hard,4,D,19900202,4,110821,,,Kadhim Kadhim,U,,IRQ,,110851,,,Mohammed Ahmed Saleh,U,,BRN,17.5578370979,6-0 6-4 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1990-D019,Davis Cup G2 R1: BRN vs IRQ,Hard,4,D,19900202,5,108754,,,Esam Abdulaal,R,,BRN,20.4681724846,110819,,,Ali Kadhim,U,,IRQ,,6-4 6-1 6-0,5,RR,,,,,,,,,,,,,,,,,,,,,,,
-1990-D032,Davis Cup G2 R1: CIV vs KEN,Hard,4,D,19900202,1,101630,,,Clement Ngoran,R,178,CIV,20.4791238877,106941,,,Eno Polo,R,,KEN,,6-4 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,482,24,1091,1
+1990-D032,Davis Cup G2 R1: CIV vs KEN,Hard,4,D,19900202,1,101630,,,Clement Ngoran,R,178,CIV,20.4791238877,106941,,,Eno Polo,R,,KEN,22.6694045175,6-4 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,482,24,1091,1
 1990-D032,Davis Cup G2 R1: CIV vs KEN,Hard,4,D,19900202,2,107310,,,Jean Nabi,R,,CIV,16.2354551677,107534,,,Kush Bhardwaj,R,,KEN,,6-3 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,,935,3,,
 1990-D032,Davis Cup G2 R1: CIV vs KEN,Hard,4,D,19900202,4,101630,,,Clement Ngoran,R,178,CIV,20.4791238877,107534,,,Kush Bhardwaj,R,,KEN,,7-5 6-2,3,RR,,,,,,,,,,,,,,,,,,,,482,24,,
-1990-D032,Davis Cup G2 R1: CIV vs KEN,Hard,4,D,19900202,5,106941,,,Eno Polo,R,,KEN,,107310,,,Jean Nabi,R,,CIV,16.2354551677,6-4 7-5,3,RR,,,,,,,,,,,,,,,,,,,,1091,1,935,3
+1990-D032,Davis Cup G2 R1: CIV vs KEN,Hard,4,D,19900202,5,106941,,,Eno Polo,R,,KEN,22.6694045175,107310,,,Jean Nabi,R,,CIV,16.2354551677,6-4 7-5,3,RR,,,,,,,,,,,,,,,,,,,,1091,1,935,3
 1990-D036,Davis Cup G2 R1: COL vs GUA,Clay,4,D,19900202,1,101991,,,Mauricio Hadad,R,170,COL,18.1464750171,108583,,,Daniel Chavez Morales,U,,GUA,24.0054757016,6-0 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,,333,52,,
 1990-D036,Davis Cup G2 R1: COL vs GUA,Clay,4,D,19900202,2,100795,,,Alvaro Jordan,R,185,COL,28.0574948665,110909,,,Fabio Sical,U,,GUA,30.7597535934,6-4 6-1 7-5,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1990-D036,Davis Cup G2 R1: COL vs GUA,Clay,4,D,19900202,4,100795,,,Alvaro Jordan,R,185,COL,28.0574948665,108583,,,Daniel Chavez Morales,U,,GUA,24.0054757016,7-6(3) 7-5 6-1,5,RR,,,,,,,,,,,,,,,,,,,,,,,
@@ -873,9 +873,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1990-D030,Davis Cup G1 QF: CHN vs PHI,Clay,4,D,19900330,2,101701,,,Bing Pan,R,185,CHN,20.1122518823,106819,,,Danilo Pila,R,,PHI,,6-0 6-0 6-0,5,RR,,,,,,,,,,,,,,,,,,,,1041,2,834,5
 1990-D030,Davis Cup G1 QF: CHN vs PHI,Clay,4,D,19900330,4,101701,,,Bing Pan,R,185,CHN,20.1122518823,108161,,,Roland So,R,,PHI,,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,1041,2,,
 1990-D030,Davis Cup G1 QF: CHN vs PHI,Clay,4,D,19900330,5,101577,,,Jia Ping Xia,R,165,CHN,21.067761807,106819,,,Danilo Pila,R,,PHI,,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,627,12,834,5
-1990-D055,Davis Cup G1 QF: IND vs JPN,Grass,4,D,19900330,1,101680,,,Zeeshan Ali,R,180,IND,20.2299794661,107201,,,Hidehiko Tanizawa,R,,JPN,,6-4 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,,355,48,834,5
+1990-D055,Davis Cup G1 QF: IND vs JPN,Grass,4,D,19900330,1,101680,,,Zeeshan Ali,R,180,IND,20.2299794661,107201,,,Hidehiko Tanizawa,R,,JPN,18.3052703628,6-4 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,,355,48,834,5
 1990-D055,Davis Cup G1 QF: IND vs JPN,Grass,4,D,19900330,2,100794,,,Srinivasan Vasudevan,R,190,IND,28.2217659138,101412,,,Shuzo Matsuoka,R,185,JPN,22.3846680356,6-4 6-1 7-6(6),5,RR,,,,,,,,,,,,,,,,,,,,386,41,312,59
-1990-D055,Davis Cup G1 QF: IND vs JPN,Grass,4,D,19900330,4,100794,,,Srinivasan Vasudevan,R,190,IND,28.2217659138,107201,,,Hidehiko Tanizawa,R,,JPN,,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,386,41,834,5
+1990-D055,Davis Cup G1 QF: IND vs JPN,Grass,4,D,19900330,4,100794,,,Srinivasan Vasudevan,R,190,IND,28.2217659138,107201,,,Hidehiko Tanizawa,R,,JPN,18.3052703628,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,386,41,834,5
 1990-D055,Davis Cup G1 QF: IND vs JPN,Grass,4,D,19900330,5,101412,,,Shuzo Matsuoka,R,185,JPN,22.3846680356,101680,,,Zeeshan Ali,R,180,IND,20.2299794661,6-1 7-6(4),3,RR,,,,,,,,,,,,,,,,,,,,312,59,355,48
 1990-D025,Davis Cup G1 SF: PAR vs CAN,Clay,4,D,19900330,1,101354,,,Andrew Sznajder,R,175,CAN,22.8364134155,100825,,,Hugo Chapacu,R,178,PAR,27.8904859685,6-2 6-4 6-2,5,RR,,,,,,,,,,,,,,,,,,,,69,340,933,3
 1990-D025,Davis Cup G1 SF: PAR vs CAN,Clay,4,D,19900330,2,100864,,,Martin Wostenholme,R,183,CAN,27.4551676934,100395,,,Victor Pecci,R,193,PAR,34.4449007529,6-4 6-2 3-6 6-0,5,RR,,,,,,,,,,,,,,,,,,,,130,200,,
@@ -1104,7 +1104,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1990-329,Tokyo Outdoor,Hard,56,A,19900409,5,101064,,Q,David Lewis,R,180,NZL,25.5961670089,101154,,,Simon Youl,R,185,AUS,24.772073922,6-3 6-4,3,R64,,,,,,,,,,,,,,,,,,,,351,49,112,247
 1990-329,Tokyo Outdoor,Hard,56,A,19900409,6,100946,,,Slobodan Zivojinovic,R,198,YUG,26.71321013,100551,,,Brad Drewett,L,185,AUS,31.7234770705,6-1 6-1,3,R64,,,,,,,,,,,,,,,,,,,,116,239,159,157
 1990-329,Tokyo Outdoor,Hard,56,A,19900409,7,100815,,,David Pate,R,183,USA,27.9808350445,101295,,WC,Toshihisa Tsuchihashi,R,,JPN,23.4743326489,6-2 6-3,3,R64,,,,,,,,,,,,,,,,,,,,133,202,423,33
-1990-329,Tokyo Outdoor,Hard,56,A,19900409,8,101205,,,Grant Connell,L,185,CAN,24.3915126626,107201,,WC,Hidehiko Tanizawa,R,,JPN,,6-3 6-2,3,R64,,,,,,,,,,,,,,,,,,,,94,279,824,5
+1990-329,Tokyo Outdoor,Hard,56,A,19900409,8,101205,,,Grant Connell,L,185,CAN,24.3915126626,107201,,WC,Hidehiko Tanizawa,R,,JPN,18.3436002738,6-3 6-2,3,R64,,,,,,,,,,,,,,,,,,,,94,279,824,5
 1990-329,Tokyo Outdoor,Hard,56,A,19900409,9,100962,14,,Thomas Hogstedt,R,190,SWE,26.5489390828,100930,,,Paul Vojtischek,R,188,GER,26.8227241615,7-6 6-3,3,R64,,,,,,,,,,,,,,,,,,,,80,312,143,186
 1990-329,Tokyo Outdoor,Hard,56,A,19900409,10,101234,,,Patrik Kuhnen,R,190,GER,24.1560574949,100772,11,,Kelly Evernden,R,175,NZL,28.5475701574,7-6 6-3,3,R64,,,,,,,,,,,,,,,,,,,,126,220,61,394
 1990-329,Tokyo Outdoor,Hard,56,A,19900409,11,101889,,,Todd Woodbridge,R,178,AUS,19.0198494182,101066,,,Richard Matuszewski,R,188,USA,25.5852156057,6-4 4-6 7-5,3,R64,,,,,,,,,,,,,,,,,,,,136,197,103,262
@@ -1397,10 +1397,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1990-D015,Davis Cup G1 SF: BEL vs HUN,Clay,4,D,19900504,2,101642,,,Bart Wuyts,R,178,BEL,20.6214921287,101664,,,Andras Lanyi,R,,HUN,20.424366872,6-1 6-1 6-2,5,RR,,,,,,,,,,,,,,,,,,,,176,144,621,12
 1990-D015,Davis Cup G1 SF: BEL vs HUN,Clay,4,D,19900504,4,100995,,,Eduardo Masso,L,178,BEL,26.2997946612,101664,,,Andras Lanyi,R,,HUN,20.424366872,6-2 4-6 7-5 6-3,5,RR,,,,,,,,,,,,,,,,,,,,318,58,621,12
 1990-D015,Davis Cup G1 SF: BEL vs HUN,Clay,4,D,19900504,5,101642,,,Bart Wuyts,R,178,BEL,20.6214921287,102031,,,Sandor Noszaly,R,193,HUN,18.12183436,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,176,144,607,13
-1990-D027,Davis Cup G1 SF: CHN vs INA,Hard,4,D,19900504,1,101577,,,Jia Ping Xia,R,165,CHN,21.1635865845,106811,,,Daniel Heryanto,R,,INA,,3-6 6-3 7-5 2-6 6-3,5,RR,,,,,,,,,,,,,,,,,,,,612,12,587,14
-1990-D027,Davis Cup G1 SF: CHN vs INA,Hard,4,D,19900504,2,101701,,,Bing Pan,R,185,CHN,20.2080766598,108332,,,Suharyadi Suharyadi,R,,INA,,3-6 3-6 6-4 6-1 6-3,5,RR,,,,,,,,,,,,,,,,,,,,1013,2,433,31
-1990-D027,Davis Cup G1 SF: CHN vs INA,Hard,4,D,19900504,4,101701,,,Bing Pan,R,185,CHN,20.2080766598,106811,,,Daniel Heryanto,R,,INA,,6-3 6-1 6-2,5,RR,,,,,,,,,,,,,,,,,,,,1013,2,587,14
-1990-D027,Davis Cup G1 SF: CHN vs INA,Hard,4,D,19900504,5,101577,,,Jia Ping Xia,R,165,CHN,21.1635865845,108332,,,Suharyadi Suharyadi,R,,INA,,7-5 6-0,3,RR,,,,,,,,,,,,,,,,,,,,612,12,433,31
+1990-D027,Davis Cup G1 SF: CHN vs INA,Hard,4,D,19900504,1,101577,,,Jia Ping Xia,R,165,CHN,21.1635865845,106811,,,Daniel Heryanto,R,,INA,20.4134154689,3-6 6-3 7-5 2-6 6-3,5,RR,,,,,,,,,,,,,,,,,,,,612,12,587,14
+1990-D027,Davis Cup G1 SF: CHN vs INA,Hard,4,D,19900504,2,101701,,,Bing Pan,R,185,CHN,20.2080766598,108332,,,Suharyadi Suharyadi,R,,INA,25.2046543463,3-6 3-6 6-4 6-1 6-3,5,RR,,,,,,,,,,,,,,,,,,,,1013,2,433,31
+1990-D027,Davis Cup G1 SF: CHN vs INA,Hard,4,D,19900504,4,101701,,,Bing Pan,R,185,CHN,20.2080766598,106811,,,Daniel Heryanto,R,,INA,20.4134154689,6-3 6-1 6-2,5,RR,,,,,,,,,,,,,,,,,,,,1013,2,587,14
+1990-D027,Davis Cup G1 SF: CHN vs INA,Hard,4,D,19900504,5,101577,,,Jia Ping Xia,R,165,CHN,21.1635865845,108332,,,Suharyadi Suharyadi,R,,INA,25.2046543463,7-5 6-0,3,RR,,,,,,,,,,,,,,,,,,,,612,12,433,31
 1990-D040,Davis Cup G1 SF: DEN vs FIN,Carpet,4,D,19900504,1,102000,,,Aki Rahunen,R,175,FIN,18.3490759754,101149,,,Morten Christensen,R,190,DEN,24.8733744011,7-5 7-6(4) 6-3,5,RR,,,,,,,,,,,,,,,,,,,,79,337,529,19
 1990-D040,Davis Cup G1 SF: DEN vs FIN,Carpet,4,D,19900504,2,101264,,,Michael Tauson,R,193,DEN,23.8466803559,101421,,,Veli Paloheimo,R,183,FIN,22.379192334,6-1 7-5 3-6 4-6 6-3,5,RR,,,,,,,,,,,,,,,,,,,,126,224,76,348
 1990-D040,Davis Cup G1 SF: DEN vs FIN,Carpet,4,D,19900504,4,101421,,,Veli Paloheimo,R,183,FIN,22.379192334,101149,,,Morten Christensen,R,190,DEN,24.8733744011,1-6 4-6 6-3 7-5 6-4,5,RR,,,,,,,,,,,,,,,,,,,,76,348,529,19
@@ -2072,7 +2072,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1990-540,Wimbledon,Grass,128,G,19900625,58,100809,,,Juan Aguilera,R,183,ESP,28.2600958248,101337,,,Martin Strelba,R,190,CZE,23.2607802875,6-3 7-5 6-3,5,R128,,,,,,,,,,,,,,,,,,,,16,1006,105,295
 1990-540,Wimbledon,Grass,128,G,19900625,59,101138,,WC,Pat Cash,R,183,AUS,25.0787132101,101432,,Q,Dimitri Poliakov,R,183,UKR,22.431211499,4-6 7-6 5-7 6-4 6-1,5,R128,,,,,,,,,,,,,,,,,,,,142,207,253,81
 1990-540,Wimbledon,Grass,128,G,19900625,60,101971,,,Johan Anderson,R,183,AUS,18.7378507871,100768,,WC,Nick Brown,R,190,GBR,28.8076659822,6-4 6-2 7-6,5,R128,,,,,,,,,,,,,,,,,,,,104,295,164,166
-1990-540,Wimbledon,Grass,128,G,19900625,61,100967,,,Dan Goldie,R,188,USA,26.726899384,108043,,Q,Ralph Kok,R,,NED,,7-5 6-1 7-5,5,R128,,,,,,,,,,,,,,,,,,,,59,457,428,34
+1990-540,Wimbledon,Grass,128,G,19900625,61,100967,,,Dan Goldie,R,188,USA,26.726899384,108043,,Q,Ralph Kok,R,,NED,22.6858316222,7-5 6-1 7-5,5,R128,,,,,,,,,,,,,,,,,,,,59,457,428,34
 1990-540,Wimbledon,Grass,128,G,19900625,62,100926,,Q,Ken Flach,R,185,USA,27.0882956879,100628,,,Michiel Schapers,R,201,NED,30.7049965777,6-4 7-6 6-3,5,R128,,,,,,,,,,,,,,,,,,,,191,130,133,226
 1990-540,Wimbledon,Grass,128,G,19900625,63,100923,,,Wally Masur,R,180,AUS,27.1184120465,101772,,,Andrei Cherkasov,R,180,RUS,19.9753593429,6-3 6-4 6-2,5,R128,,,,,,,,,,,,,,,,,,,,30,636,65,438
 1990-540,Wimbledon,Grass,128,G,19900625,64,101414,2,,Boris Becker,R,190,GER,22.5900068446,101955,,Q,Luis Herrera,L,170,MEX,18.8281998631,7-6 7-6 7-5,5,R128,,,,,,,,,,,,,,,,,,,,2,2752,199,121
@@ -2874,7 +2874,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1990-560,US Open,Hard,128,G,19900827,42,101226,,Q,Johan Carlsson,R,183,SWE,24.5749486653,101066,,Q,Richard Matuszewski,R,188,USA,25.9685147159,3-6 6-2 6-1 6-2,5,R128,,,,,,,,,,,,,,,,,,,,215,112,198,125
 1990-560,US Open,Hard,128,G,19900827,43,101750,,Q,Cristiano Caratti,R,178,ITA,20.2600958248,101789,,WC,Steve Bryan,R,178,USA,20.0465434634,6-2 7-5 2-6 6-2,5,R128,,,,,,,,,,,,,,,,,,,,126,269,370,40
 1990-560,US Open,Hard,128,G,19900827,44,101196,,,Derrick Rostagno,R,185,USA,24.8377823409,101109,,,Tarik Benhabiles,R,175,FRA,25.5550992471,6-4 6-2 6-2,5,R128,,,,,,,,,,,,,,,,,,,,38,661,95,341
-1990-560,US Open,Hard,128,G,19900827,45,100747,,,Glenn Layendecker,L,185,USA,29.3004791239,106874,,Q,Dick Bosse,R,,RSA,,3-6 6-3 6-3 7-6,5,R128,,,,,,,,,,,,,,,,,,,,98,335,361,42
+1990-560,US Open,Hard,128,G,19900827,45,100747,,,Glenn Layendecker,L,185,USA,29.3004791239,106874,,Q,Dick Bosse,R,,RSA,23.0718685832,3-6 6-3 6-3 7-6,5,R128,,,,,,,,,,,,,,,,,,,,98,335,361,42
 1990-560,US Open,Hard,128,G,19900827,46,101686,,,Franco Davin,L,173,ARG,20.6242299795,100939,,,Joey Rive,L,185,USA,27.1375770021,6-4 6-4 7-6,5,R128,,,,,,,,,,,,,,,,,,,,51,556,107,317
 1990-560,US Open,Hard,128,G,19900827,47,101434,,,Petr Korda,L,190,CZE,22.5927446954,101117,,,Eric Jelen,R,180,GER,25.4620123203,2-6 6-3 6-0 6-3,5,R128,,,,,,,,,,,,,,,,,,,,33,709,63,475
 1990-560,US Open,Hard,128,G,19900827,48,101736,4,,Andre Agassi,R,180,USA,20.3285420945,101205,,,Grant Connell,L,185,CAN,24.7748117728,6-4 6-2 6-2,5,R128,,,,,,,,,,,,,,,,,,,,4,2103,90,348
@@ -3301,7 +3301,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1990-330,Tel Aviv,Hard,32,A,19901008,11,101851,,,Alexis Hombrecher,R,196,GER,19.6906228611,101726,,WC,Boaz Merenstein,L,180,ISR,20.514715948,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,389,37,428,31
 1990-330,Tel Aviv,Hard,32,A,19901008,12,101440,4,,Mark Koevermans,R,185,NED,22.6776180698,101389,,Q,Oren Motevassel,L,170,USA,23.1184120465,6-3 1-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,50,564,980,1
 1990-330,Tel Aviv,Hard,32,A,19901008,13,107093,,Q,Gil Kovalski,R,,ISR,,101707,,LL,Yuval Karutzi,R,,ISR,20.6269678303,7-5 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-1990-330,Tel Aviv,Hard,32,A,19901008,14,100553,,,Nduka Odizor,R,183,NGR,32.1642710472,108571,,WC,Yuval Hirsch,R,,ISR,,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,181,157,980,1
+1990-330,Tel Aviv,Hard,32,A,19901008,14,100553,,,Nduka Odizor,R,183,NGR,32.1642710472,108571,,WC,Yuval Hirsch,R,,ISR,19.6002737851,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,181,157,980,1
 1990-330,Tel Aviv,Hard,32,A,19901008,15,100866,,,Shahar Perkiss,R,193,ISR,27.9835728953,101965,,,Wayne Ferreira,R,185,RSA,19.0636550308,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,219,110,149,212
 1990-330,Tel Aviv,Hard,32,A,19901008,16,101195,2,,Amos Mansdorf,R,175,ISR,24.9664613279,101812,,,Raviv Weidenfeld,R,188,ISR,19.9890485969,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,32,744,269,83
 1990-330,Tel Aviv,Hard,32,A,19901008,17,101230,1,,Andrei Chesnokov,R,188,RUS,24.6789869952,100935,,,Michael Robertson,R,185,USA,27.2689938398,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,12,1289,225,106

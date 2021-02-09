@@ -622,7 +622,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-SA-AUS-01A-2002c,Australia 1 3,Hard,32,S,20020128,2,102875,,WC,Luke Smith,R,188,AUS,25.2594113621,103643,,,Lauri Kiiski,R,,FIN,21.3004791239,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,995,6,550,34
 2002-M-SA-AUS-01A-2002c,Australia 1 3,Hard,32,S,20020128,3,103378,,,Bernard Parun,R,,GER,22.6830937714,103179,,,Jurek Stasiak,R,,AUS,23.7672826831,6-3 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,643,23,764,14
 2002-M-SA-AUS-01A-2002c,Australia 1 3,Hard,32,S,20020128,4,103094,,,Doug Root,R,,USA,24.1177275838,104143,8,,Dirk Stegmann,R,,RSA,18.893908282,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,763,14,479,47
-2002-M-SA-AUS-01A-2002c,Australia 1 3,Hard,32,S,20020128,5,104026,4,,Joachim Johansson,R,198,SWE,19.5783709788,107098,,Q,Gilles Kremer,R,,LUX,,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,388,73,,
+2002-M-SA-AUS-01A-2002c,Australia 1 3,Hard,32,S,20020128,5,104026,4,,Joachim Johansson,R,198,SWE,19.5783709788,107098,,Q,Gilles Kremer,R,,LUX,20.5393566051,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,388,73,,
 2002-M-SA-AUS-01A-2002c,Australia 1 3,Hard,32,S,20020128,6,102793,,,Fredrik Loven,R,,SWE,25.6783025325,103369,,,Melle Van Gemerden,R,183,NED,22.7241615332,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,573,31,558,34
 2002-M-SA-AUS-01A-2002c,Australia 1 3,Hard,32,S,20020128,7,103483,,Q,James Shortall,R,,NZL,22.0944558522,103218,,,Manuel Jorquera,R,,ITA,23.6303901437,3-6 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,822,11,551,34
 2002-M-SA-AUS-01A-2002c,Australia 1 3,Hard,32,S,20020128,8,104379,,SE,Todd Reid,R,180,AUS,17.6536618754,103385,6,,Paul Baccanello,R,183,AUS,22.6310746064,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,731,15,408,65
@@ -2224,7 +2224,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-FU-FRA-09A-2002,France F9,Clay,32,S,20020401,9,102687,7,,Herbert Wiltschnig,R,185,AUT,26.3600273785,118348,,WC,Arnaud Le Cloerec,U,,FRA,19.537303217,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,295,107,,
 2002-M-FU-FRA-09A-2002,France F9,Clay,32,S,20020401,10,103799,,,Eric Prodon,R,178,FRA,20.7611225188,103931,,Q,Andreas Spaniol,U,,GER,20.1478439425,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,342,90,,
 2002-M-FU-FRA-09A-2002,France F9,Clay,32,S,20020401,11,102939,,,Jean Baptiste Perlant,R,190,FRA,25.1033538672,103658,,,Jordane Doble,R,,FRA,21.3278576318,1-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,335,91,404,69
-2002-M-FU-FRA-09A-2002,France F9,Clay,32,S,20020401,12,103898,3,,Julien Benneteau,R,185,FRA,20.2792607803,107098,,WC,Gilles Kremer,R,,LUX,,6-3 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,227,156,,
+2002-M-FU-FRA-09A-2002,France F9,Clay,32,S,20020401,12,103898,3,,Julien Benneteau,R,185,FRA,20.2792607803,107098,,WC,Gilles Kremer,R,,LUX,20.7118412047,6-3 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,227,156,,
 2002-M-FU-FRA-09A-2002,France F9,Clay,32,S,20020401,13,103726,6,,Jean Christophe Faurel,R,175,FRA,21.0704996578,102753,,Q,Wolfgang Schranz,R,178,AUT,26.0342231348,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,287,112,780,12
 2002-M-FU-FRA-09A-2002,France F9,Clay,32,S,20020401,14,102937,,Q,Sebastien Lami,R,,FRA,25.1362080767,103448,,,Gabriel Trujillo Soler,R,,ESP,22.5023956194,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,484,46,344,89
 2002-M-FU-FRA-09A-2002,France F9,Clay,32,S,20020401,15,104110,,WC,Julien Maigret,R,,FRA,19.2224503765,103088,,Q,Xavier Pujo,R,180,FRA,24.3203285421,2-6 6-4 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,,,586,30
@@ -5900,7 +5900,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-FU-CAN-03A-2002,Canada F3,Hard,32,S,20020624,6,103255,,,Trace Fielding,U,,USA,23.8110882957,118692,,Q,Jason Ontog,U,,USA,21.7412731006,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,573,33,,
 2002-M-FU-CAN-03A-2002,Canada F3,Hard,32,S,20020624,7,103468,,,Harsh Mankad,R,173,IND,22.6201232033,104414,,Q,Morgan Wilson,U,,AUS,17.8672142368,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1219,3,984,6
 2002-M-FU-CAN-03A-2002,Canada F3,Hard,32,S,20020624,8,104123,7,,Luciano Vitullo,R,,ARG,19.3867214237,103407,,WC,Matt Klinger,U,,CAN,22.9377138946,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,563,34,1008,6
-2002-M-FU-CAN-03A-2002,Canada F3,Hard,32,S,20020624,9,103911,8,Q,Julien Cassaigne,R,,FRA,20.4407939767,107098,,Q,Gilles Kremer,R,,LUX,,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,589,30,,
+2002-M-FU-CAN-03A-2002,Canada F3,Hard,32,S,20020624,9,103911,8,Q,Julien Cassaigne,R,,FRA,20.4407939767,107098,,Q,Gilles Kremer,R,,LUX,20.9418206708,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,589,30,,
 2002-M-FU-CAN-03A-2002,Canada F3,Hard,32,S,20020624,10,102849,,,Marc Silva,R,,USA,25.8151950719,103388,,,Rafael De Mesa,R,,USA,23.0280629706,4-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,625,26,618,27
 2002-M-FU-CAN-03A-2002,Canada F3,Hard,32,S,20020624,11,103253,,WC,Andrew Nisker,U,,CAN,23.8412046543,104537,,WC,Dejan Cvetkovic,R,,CAN,17.196440794,4-6 7-6(7) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,834,10,,
 2002-M-FU-CAN-03A-2002,Canada F3,Hard,32,S,20020624,12,103230,4,,Tasuku Iwami,L,168,JPN,23.9589322382,102875,,,Luke Smith,R,188,AUS,25.6618754278,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,452,56,633,25
@@ -12474,7 +12474,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-FU-JAM-20A-2002,Jamaica F20,Hard,32,S,20021202,12,103762,3,,John Paul Fruttero,R,185,USA,21.5906913073,102496,,WC,Scott Willinsky,R,,JAM,27.9589322382,6-7(9) 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,511,37,1052,5
 2002-M-FU-JAM-20A-2002,Jamaica F20,Hard,32,S,20021202,13,102920,5,,Diego Hipperdinger,R,,ESP,25.8726899384,118908,,WC,John De Paolo,U,,USA,18.3216974675,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,560,32,,
 2002-M-FU-JAM-20A-2002,Jamaica F20,Hard,32,S,20021202,14,103030,,Q,Norikazu Sugiyama,R,178,JPN,25.3442847365,118788,,WC,Steven Kane,R,,USA,20.1451060917,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1052,5,1342,1
-2002-M-FU-JAM-20A-2002,Jamaica F20,Hard,32,S,20021202,15,102740,,LL,Francisco Rodriguez,R,,PAR,26.7323750856,107098,,Q,Gilles Kremer,R,,LUX,,6-7(5) 6-2 7-6(8),3,R32,,,,,,,,,,,,,,,,,,,,640,23,,
+2002-M-FU-JAM-20A-2002,Jamaica F20,Hard,32,S,20021202,15,102740,,LL,Francisco Rodriguez,R,,PAR,26.7323750856,107098,,Q,Gilles Kremer,R,,LUX,21.3826146475,6-7(5) 6-2 7-6(8),3,R32,,,,,,,,,,,,,,,,,,,,640,23,,
 2002-M-FU-JAM-20A-2002,Jamaica F20,Hard,32,S,20021202,16,102849,2,,Marc Silva,R,,USA,26.2559890486,108663,,LL,Bjorn Munroe,R,,BAH,24.052019165,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,368,68,,
 2002-M-FU-JAM-20A-2002,Jamaica F20,Hard,32,S,20021202,17,103820,1,Q,Alan Mackin,R,183,GBR,21.3086926762,103610,,,Mirko Pehar,R,,USA,22.3244353183,6-3 4-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,342,77,621,25
 2002-M-FU-JAM-20A-2002,Jamaica F20,Hard,32,S,20021202,18,104338,,,Juan Monaco,R,185,ARG,18.6776180698,103407,,,Matt Klinger,U,,CAN,23.3785078713,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,602,27,742,15
@@ -12625,7 +12625,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-FU-JAM-22A-2002,Jamaica F22,Hard,32,S,20021216,8,102864,6,,Frank Moser,R,193,GER,26.2286105407,109013,,Q,Kyle Kliegerman,U,,USA,23.7070499658,6-2 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,379,66,1278,2
 2002-M-FU-JAM-22A-2002,Jamaica F22,Hard,32,S,20021216,9,104141,8,,Dmitri Sitak,R,183,RUS,19.7864476386,103055,,LL,Cary Franklin,L,,USA,25.2292950034,3-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,542,34,928,7
 2002-M-FU-JAM-22A-2002,Jamaica F22,Hard,32,S,20021216,10,104133,,Q,Ytai Abougzir,R,,USA,19.8138261465,104272,,SE,Torsten Popp,R,,GER,19.0581793292,3-5 RET,3,R32,,,,,,,,,,,,,,,,,,,,1184,3,947,6
-2002-M-FU-JAM-22A-2002,Jamaica F22,Hard,32,S,20021216,11,107098,,Q,Gilles Kremer,R,,LUX,,103929,,,Philipp Marx,R,188,GER,20.8651608487,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,570,31
+2002-M-FU-JAM-22A-2002,Jamaica F22,Hard,32,S,20021216,11,107098,,Q,Gilles Kremer,R,,LUX,21.4209445585,103929,,,Philipp Marx,R,188,GER,20.8651608487,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,570,31
 2002-M-FU-JAM-22A-2002,Jamaica F22,Hard,32,S,20021216,12,103820,3,,Alan Mackin,R,183,GBR,21.3470225873,103847,,Q,Adrian Bohane,L,,USA,21.2511978097,4-6 6-0 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,340,79,,
 2002-M-FU-JAM-22A-2002,Jamaica F22,Hard,32,S,20021216,13,103828,5,,Jean Julien Rojer,R,183,AHO,21.3086926762,102496,,WC,Scott Willinsky,R,,JAM,27.9972621492,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,335,81,938,7
 2002-M-FU-JAM-22A-2002,Jamaica F22,Hard,32,S,20021216,14,103949,,,Ivan Cerovic,L,190,CRO,20.7939767283,104210,,,Ryan Russell,L,,JAM,19.446954141,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,622,25,534,35
@@ -12636,7 +12636,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-M-FU-JAM-22A-2002,Jamaica F22,Hard,32,S,20021216,19,104077,,Q,Hamid Mirzadeh,U,,USA,20.1505817933,111482,,LL,Gerald Bremond,U,,FRA,18.7871321013,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1027,5,1278,2
 2002-M-FU-JAM-22A-2002,Jamaica F22,Hard,32,S,20021216,20,102864,6,,Frank Moser,R,193,GER,26.2286105407,109450,,WC,Michael Birzon,U,,USA,19.961670089,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,379,66,,
 2002-M-FU-JAM-22A-2002,Jamaica F22,Hard,32,S,20021216,21,104141,8,,Dmitri Sitak,R,183,RUS,19.7864476386,104133,,Q,Ytai Abougzir,R,,USA,19.8138261465,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,542,34,1184,3
-2002-M-FU-JAM-22A-2002,Jamaica F22,Hard,32,S,20021216,22,103820,3,,Alan Mackin,R,183,GBR,21.3470225873,107098,,Q,Gilles Kremer,R,,LUX,,7-6(3) 4-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,340,79,,
+2002-M-FU-JAM-22A-2002,Jamaica F22,Hard,32,S,20021216,22,103820,3,,Alan Mackin,R,183,GBR,21.3470225873,107098,,Q,Gilles Kremer,R,,LUX,21.4209445585,7-6(3) 4-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,340,79,,
 2002-M-FU-JAM-22A-2002,Jamaica F22,Hard,32,S,20021216,23,103828,5,,Jean Julien Rojer,R,183,AHO,21.3086926762,103949,,,Ivan Cerovic,L,190,CRO,20.7939767283,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,335,81,622,25
 2002-M-FU-JAM-22A-2002,Jamaica F22,Hard,32,S,20021216,24,103407,,LL,Matt Klinger,U,,CAN,23.4168377823,103597,,LL,Mario Alvarez,R,,USA,22.4093086927,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,712,17,1116,4
 2002-M-FU-JAM-22A-2002,Jamaica F22,Hard,32,S,20021216,25,104460,,,Dustin Brown,R,196,GER,18.0205338809,103770,,LL,Kevin Sorensen,R,183,IRL,21.6016427105,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,725,16,967,6

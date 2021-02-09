@@ -2479,7 +2479,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-360,Casablanca,Clay,32,A,20080518,719,105166,7,,Peter Polansky,R,180,CAN,19.9260780287,104635,3,,Robert Smeets,L,188,AUS,22.5215605749,6-3 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,272,137,168,262
 2008-360,Casablanca,Clay,32,A,20080518,720,104753,4,,Woong Sun Jun,R,190,KOR,21.9301848049,103924,5,,Marc Fornell Mestres,R,,ESP,26.3107460643,6-3 4-6 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,236,165,255,147
 2008-3618,Astana CH,Hard,32,C,20081103,1,104098,1,,Dmitry Tursunov,R,185,RUS,25.8945927447,104739,,,Guillermo Alcaide,R,188,ESP,22.4394250513,7-6(5) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,25,1153,319,112
-2008-3618,Astana CH,Hard,32,C,20081103,2,104753,,,Woong Sun Jun,R,190,KOR,22.3901437372,105932,,WC,Nikoloz Basilashvili,R,185,RUS,16.6954140999,3-6 6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,255,146,1231,4
+2008-3618,Astana CH,Hard,32,C,20081103,2,104753,,,Woong Sun Jun,R,190,KOR,22.3901437372,105932,,WC,Nikoloz Basilashvili,R,185,GEO,16.6954140999,3-6 6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,255,146,1231,4
 2008-3618,Astana CH,Hard,32,C,20081103,3,103612,,,Alexey Kedryuk,R,193,KAZ,28.2381930185,104463,,Q,Dmitriy Makeyev,U,,KAZ,23.8904859685,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,408,77,1233,4
 2008-3618,Astana CH,Hard,32,C,20081103,4,104397,8,,Laurent Recouderc,R,,FRA,24.3175906913,105136,,Q,Andrei Plotniy,U,,RUS,20.5749486653,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,200,205,765,21
 2008-3618,Astana CH,Hard,32,C,20081103,5,103862,4,,Michail Elgin,R,183,RUS,27.0554414784,109498,,LL,Dmitry Resnyanskiy,U,,KAZ,18.4147843943,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,132,370,,
@@ -4293,15 +4293,15 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-439,Umag,Clay,28,A,20080714,710,104004,2,,Filip Prpic,R,173,SWE,26.135523614,103063,5,,Sebastien De Chaunac,R,183,FRA,30.7679671458,7-5 3-6 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,230,162,265,140
 2008-439,Umag,Clay,28,A,20080714,711,103437,3,,Francesco Piccari,R,,ITA,28.8514715948,105015,8,,Franko Skugor,R,193,CRO,20.8158795346,6-4 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,234,159,310,116
 2008-439,Umag,Clay,28,A,20080714,712,104851,4,,Gianluca Naso,R,,ITA,21.5195071869,103103,6,,Dominik Hrbaty,R,183,SVK,30.5242984257,6-3 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,238,155,269,136
-2008-440,s-Hertogenbosch,Grass,32,A,20080615,701,102836,,WC,Rogier Wassen,R,190,NED,31.8521560575,104267,,,Maxime Bonami,R,,FRA,24.5941136208,4-6 6-1 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,,,1416,2
-2008-440,s-Hertogenbosch,Grass,32,A,20080615,702,105157,,,Patrick Eichenberger,L,,SUI,20.038329911,103735,,,Lovro Zovko,R,190,CRO,27.2470910335,6-3 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,789,18,486,54
-2008-440,s-Hertogenbosch,Grass,32,A,20080615,703,103716,,,Uros Vico,R,188,ITA,27.3210130048,104667,8,,Philipp Oswald,R,,AUT,22.3956194387,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,681,26,402,77
-2008-440,s-Hertogenbosch,Grass,32,A,20080615,704,104038,,,Andrea Agazzi,U,,ITA,25.9000684463,110566,,WC,Alexander Nonnekes,R,,NED,24.0958247775,6-7(6) 7-6(7) 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,1086,6,,
-2008-440,s-Hertogenbosch,Grass,32,A,20080615,705,102963,,,Robert Lindstedt,R,190,SWE,31.2443531828,102694,,,Lars Burgsmuller,R,183,GER,32.5284052019,4-6 6-3 7-6(4),3,Q1,,,,,,,,,,,,,,,,,,,,,,547,43
-2008-440,s-Hertogenbosch,Grass,32,A,20080615,706,103435,,,Massimo Dellacqua,R,193,ITA,28.7775496235,105657,,,Marius Copil,R,193,ROU,17.6646132786,7-6(3) 7-6(2),3,Q1,,,,,,,,,,,,,,,,,,,,472,57,758,20
-2008-440,s-Hertogenbosch,Grass,32,A,20080615,707,102585,,,Sebastian Prieto,R,180,ARG,33.0787132101,110567,,WC,Kevin Lietar,U,,FRA,,6-4 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
-2008-440,s-Hertogenbosch,Grass,32,A,20080615,708,103869,,,Thomas Schoeck,U,,GER,26.6310746064,103704,,,Vladimir Obradovic,R,196,SRB,27.3620807666,6-4 4-6 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,828,15,409,76
-2008-440,s-Hertogenbosch,Grass,32,A,20080615,709,104006,,,Alexandre Renard,R,,FRA,26.0506502396,103964,,,Tobias Klein,R,170,GER,26.2340862423,6-4 3-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,638,31,1380,2
+2008-440,s Hertogenbosch,Grass,32,A,20080615,701,102836,,WC,Rogier Wassen,R,190,NED,31.8521560575,104267,,,Maxime Bonami,R,,FRA,24.5941136208,4-6 6-1 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,,,1416,2
+2008-440,s Hertogenbosch,Grass,32,A,20080615,702,105157,,,Patrick Eichenberger,L,,SUI,20.038329911,103735,,,Lovro Zovko,R,190,CRO,27.2470910335,6-3 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,789,18,486,54
+2008-440,s Hertogenbosch,Grass,32,A,20080615,703,103716,,,Uros Vico,R,188,ITA,27.3210130048,104667,8,,Philipp Oswald,R,,AUT,22.3956194387,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,681,26,402,77
+2008-440,s Hertogenbosch,Grass,32,A,20080615,704,104038,,,Andrea Agazzi,U,,ITA,25.9000684463,110566,,WC,Alexander Nonnekes,R,,NED,24.0958247775,6-7(6) 7-6(7) 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,1086,6,,
+2008-440,s Hertogenbosch,Grass,32,A,20080615,705,102963,,,Robert Lindstedt,R,190,SWE,31.2443531828,102694,,,Lars Burgsmuller,R,183,GER,32.5284052019,4-6 6-3 7-6(4),3,Q1,,,,,,,,,,,,,,,,,,,,,,547,43
+2008-440,s Hertogenbosch,Grass,32,A,20080615,706,103435,,,Massimo Dellacqua,R,193,ITA,28.7775496235,105657,,,Marius Copil,R,193,ROU,17.6646132786,7-6(3) 7-6(2),3,Q1,,,,,,,,,,,,,,,,,,,,472,57,758,20
+2008-440,s Hertogenbosch,Grass,32,A,20080615,707,102585,,,Sebastian Prieto,R,180,ARG,33.0787132101,110567,,WC,Kevin Lietar,U,,FRA,,6-4 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+2008-440,s Hertogenbosch,Grass,32,A,20080615,708,103869,,,Thomas Schoeck,U,,GER,26.6310746064,103704,,,Vladimir Obradovic,R,196,SRB,27.3620807666,6-4 4-6 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,828,15,409,76
+2008-440,s Hertogenbosch,Grass,32,A,20080615,709,104006,,,Alexandre Renard,R,,FRA,26.0506502396,103964,,,Tobias Klein,R,170,GER,26.2340862423,6-4 3-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,638,31,1380,2
 2008-443,Napoli CH,Clay,32,C,20080331,1,103808,1,,Potito Starace,R,188,ITA,26.6940451745,103252,,,Alberto Martin,R,175,ESP,29.5934291581,7-6(3) 4-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,37,925,138,327
 2008-443,Napoli CH,Clay,32,C,20080331,2,104592,,Q,Ilija Bozoljac,R,193,SRB,22.6420260096,104273,,,Edouard Roger Vasselin,R,188,FRA,24.3203285421,6-2 4-6 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,246,164,113,396
 2008-443,Napoli CH,Clay,32,C,20080331,3,104586,,Q,Lukas Rosol,R,196,CZE,22.6666666667,104979,,,Andrey Golubev,R,185,KAZ,20.6735112936,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,270,146,140,325

@@ -311,7 +311,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1994-776,Indian Wells CH,Hard,32,C,19940221,31,101789,3,,Steve Bryan,R,178,USA,23.5345653662,101358,1,,Olivier Delaitre,R,170,FRA,26.726899384,6-3 RET,3,F,,,,,,,,,,,,,,,,,,,,106,418,90,506
 1994-532,Belem CH,Hard,32,C,19940228,1,100954,1,,Luiz Mattar,R,183,BRA,30.5325119781,102302,,WC,Marcelo Saliola,L,178,BRA,20.1615331964,7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,57,664,635,22
 1994-532,Belem CH,Hard,32,C,19940228,2,101745,,,Roberto Jabali,R,190,BRA,23.7891854894,101495,,,Miguel Tobon,R,185,COL,25.6865160849,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,162,240,279,110
-1994-532,Belem CH,Hard,32,C,19940228,3,101710,,,Martin Blackman,R,188,USA,23.9863107461,108502,,WC,Wayne Boich,R,,USA,,4-6 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,201,182,,
+1994-532,Belem CH,Hard,32,C,19940228,3,101710,,,Martin Blackman,R,188,USA,23.9863107461,108502,,WC,Wayne Boich,R,,USA,18.765229295,4-6 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,201,182,,
 1994-532,Belem CH,Hard,32,C,19940228,4,101961,8,,Martin Stringari,R,188,ARG,22.46954141,102214,,,Oscar Ortiz,L,183,MEX,20.8076659822,6-2 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,193,195,251,133
 1994-532,Belem CH,Hard,32,C,19940228,5,101809,3,,Nicolas Pereira,R,188,VEN,23.4168377823,101574,,,Alejandro Aramburu,R,175,PER,25.0376454483,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,135,295,261,120
 1994-532,Belem CH,Hard,32,C,19940228,6,101422,,,Mark Kaplan,R,185,RSA,26.1930184805,100865,,,Marcelo Ingaramo,L,178,ARG,31.3785078713,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,235,147,270,116
@@ -416,7 +416,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1994-213,San Luis Potosi CH,Clay,32,C,19940328,12,101368,,,Christian Miniussi,R,185,ARG,26.7296372348,101154,4,,Simon Youl,R,185,AUS,28.7392197125,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,167,233,155,247
 1994-213,San Luis Potosi CH,Clay,32,C,19940328,13,101864,7,,Fernon Wibier,R,188,NED,23.0855578371,101608,,Q,Tom Kempers,R,188,NED,24.8213552361,7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,161,238,288,108
 1994-213,San Luis Potosi CH,Clay,32,C,19940328,14,102147,,,Oliver Fernandez,R,175,MEX,21.3032169747,102219,,Q,Juan Garat,R,180,ARG,20.8651608487,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,180,220,529,36
-1994-213,San Luis Potosi CH,Clay,32,C,19940328,15,101270,,,Thomas Gollwitzer,R,178,GER,27.6769336071,108502,,WC,Wayne Boich,R,,USA,,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,191,199,1179,1
+1994-213,San Luis Potosi CH,Clay,32,C,19940328,15,101270,,,Thomas Gollwitzer,R,178,GER,27.6769336071,108502,,WC,Wayne Boich,R,,USA,18.841889117,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,191,199,1179,1
 1994-213,San Luis Potosi CH,Clay,32,C,19940328,16,101809,2,,Nicolas Pereira,R,188,VEN,23.4934976044,100997,,,Roger Smith,R,185,BAH,30.1848049281,6-3 7-6,3,R32,,,,,,,,,,,,,,,,,,,,139,295,208,180
 1994-213,San Luis Potosi CH,Clay,32,C,19940328,17,101214,1,,Bryan Shelton,R,185,USA,28.2628336756,102113,,,Daniele Musa,R,183,ITA,21.5441478439,7-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,93,490,165,236
 1994-213,San Luis Potosi CH,Clay,32,C,19940328,18,101977,8,,Patricio Arnold,R,183,ARG,22.4366872005,102477,,,Gaston Etlis,R,185,ARG,19.394934976,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,162,237,198,192
@@ -448,7 +448,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1994-534,Puerto Vallarta CH,Hard,32,C,19940404,13,101270,,,Thomas Gollwitzer,R,178,GER,27.6960985626,102139,8,,Eyal Ran,R,183,ISR,21.3661875428,6-2 6-7 6-1,3,R32,,,,,,,,,,,,,,,,,,,,203,186,177,212
 1994-534,Puerto Vallarta CH,Hard,32,C,19940404,14,101955,,,Luis Herrera,L,170,MEX,22.6036960986,101865,,,Albert Chang,R,183,CAN,23.099247091,6-2 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,140,295,170,226
 1994-534,Puerto Vallarta CH,Hard,32,C,19940404,15,101374,,WC,Leonardo Lavalle,L,188,MEX,26.7241615332,101237,,,Danilo Marcelino,R,193,BRA,28.0739219713,3-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,479,43,185,203
-1994-534,Puerto Vallarta CH,Hard,32,C,19940404,16,101809,2,,Nicolas Pereira,R,188,VEN,23.5126625599,108502,,WC,Wayne Boich,R,,USA,,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,119,378,1143,2
+1994-534,Puerto Vallarta CH,Hard,32,C,19940404,16,101809,2,,Nicolas Pereira,R,188,VEN,23.5126625599,108502,,WC,Wayne Boich,R,,USA,18.8610540726,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,119,378,1143,2
 1994-534,Puerto Vallarta CH,Hard,32,C,19940404,17,102219,,Q,Juan Garat,R,180,ARG,20.8843258042,103060,,WC,Alejandro Hernandez,R,180,MEX,16.5065023956,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,558,31,699,16
 1994-534,Puerto Vallarta CH,Hard,32,C,19940404,18,102169,,,Michael Joyce,R,180,USA,21.1690622861,101224,,,Kenny Thorne,R,188,USA,28.1916495551,7-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,194,192,209,176
 1994-534,Puerto Vallarta CH,Hard,32,C,19940404,19,101145,,,Jonathan Canter,R,185,USA,28.8323066393,101154,4,,Simon Youl,R,185,AUS,28.758384668,7-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,176,213,160,247
@@ -499,7 +499,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1994-217,Nagoya CH,Hard,32,C,19940418,2,102304,,,Grant Doyle,R,180,AUS,20.2710472279,102863,,WC,Takao Suzuki,R,175,JPN,17.5742642026,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,239,146,,
 1994-217,Nagoya CH,Hard,32,C,19940418,3,102419,,,Christophe Van Garsse,R,185,BEL,19.8247775496,101422,,,Mark Kaplan,R,185,RSA,26.3271731691,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,263,119,217,168
 1994-217,Nagoya CH,Hard,32,C,19940418,4,101865,7,,Albert Chang,R,183,CAN,23.1375770021,101833,,,Michael Tebbutt,L,190,AUS,23.3210130048,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,171,217,152,249
-1994-217,Nagoya CH,Hard,32,C,19940418,5,101332,3,,Gilad Bloom,L,173,ISR,27.1321013005,108443,,Q,Toshitsugu Mori,R,,JPN,,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,156,244,687,17
+1994-217,Nagoya CH,Hard,32,C,19940418,5,101332,3,,Gilad Bloom,L,173,ISR,27.1321013005,108443,,Q,Toshitsugu Mori,R,,JPN,24.3203285421,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,156,244,687,17
 1994-217,Nagoya CH,Hard,32,C,19940418,6,102882,,Q,Mark Philippoussis,R,196,AUS,17.4428473648,101576,,WC,Ryuso Tsujino,R,,JPN,25.144421629,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,426,54,410,59
 1994-217,Nagoya CH,Hard,32,C,19940418,7,102743,,Q,Ben Ellwood,R,178,AUS,18.0999315537,101709,,,Roland Thornqvist,R,,SWE,24.1259411362,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,404,60,309,97
 1994-217,Nagoya CH,Hard,32,C,19940418,8,102061,6,,Kevin Ullyett,R,178,ZIM,21.9028062971,101871,,,Alexander Reichel,R,193,USA,23.1266255989,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,165,228,374,68
@@ -715,7 +715,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1994-549,Malta CH,Clay,32,C,19940502,1,102118,,,Radomir Vasek,R,188,CZE,21.6043805613,101270,1,,Thomas Gollwitzer,R,178,GER,27.7727583847,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,284,110,176,213
 1994-549,Malta CH,Clay,32,C,19940502,2,101732,,Q,Pietro Pennisi,L,173,ITA,24.0574948665,101419,,Q,Frank Dennhardt,L,188,GER,26.4038329911,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,238,146,,
 1994-549,Malta CH,Clay,32,C,19940502,3,102030,,,Andrew Foster,R,190,GBR,22.1273100616,102050,,,Marco Meneschincheri,L,180,ITA,22.0177960301,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,225,162,255,128
-1994-549,Malta CH,Clay,32,C,19940502,4,101473,7,,Jozsef Krocsko,R,180,HUN,26.0314852841,109309,,WC,Steven Schranz,R,,MLT,,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,210,180,,
+1994-549,Malta CH,Clay,32,C,19940502,4,101473,7,,Jozsef Krocsko,R,180,HUN,26.0314852841,109309,,WC,Steven Schranz,R,,MLT,27.4223134839,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,210,180,,
 1994-549,Malta CH,Clay,32,C,19940502,5,101672,4,,Michael Geserer,R,190,GER,24.3805612594,109310,,LL,Duncan Sillato,R,,MLT,,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,200,193,,
 1994-549,Malta CH,Clay,32,C,19940502,6,101567,,,Hendrik Jan Davids,L,183,NED,25.2511978097,101534,,,Libor Nemecek,R,168,CZE,25.5140314853,7-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,296,102,211,179
 1994-549,Malta CH,Clay,32,C,19940502,7,101608,,,Tom Kempers,R,188,NED,24.9171800137,101885,,,Wayne Arthurs,L,190,AUS,23.1238877481,6-3 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,267,118,304,99
@@ -744,7 +744,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1994-549,Malta CH,Clay,32,C,19940502,30,101441,,,Martin Sinner,R,180,GER,26.2313483915,101365,6,,Paul Wekesa,R,188,KEN,26.8336755647,7-6 3-0 RET,3,SF,,,,,,,,,,,,,,,,,,,,261,121,215,171
 1994-549,Malta CH,Clay,32,C,19940502,31,101567,,,Hendrik Jan Davids,L,183,NED,25.2511978097,101441,,,Martin Sinner,R,180,GER,26.2313483915,6-4 7-6,3,F,,,,,,,,,,,,,,,,,,,,296,102,261,121
 1994-536,Manila CH,Hard,32,C,19940502,1,101123,1,,Alexander Mronz,R,188,GER,29.067761807,102139,,,Eyal Ran,R,183,ISR,21.4428473648,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,127,349,172,221
-1994-536,Manila CH,Hard,32,C,19940502,2,100997,,,Roger Smith,R,185,BAH,30.2806297057,108443,,Q,Toshitsugu Mori,R,,JPN,,2-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,206,186,689,17
+1994-536,Manila CH,Hard,32,C,19940502,2,100997,,,Roger Smith,R,185,BAH,30.2806297057,108443,,Q,Toshitsugu Mori,R,,JPN,24.3586584531,2-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,206,186,689,17
 1994-536,Manila CH,Hard,32,C,19940502,3,101204,,,Eric Amend,R,180,USA,28.4544832307,108886,,WC,Michael John Misa,U,,PHI,20.2491444216,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,307,97,,
 1994-536,Manila CH,Hard,32,C,19940502,4,101776,7,,Sandon Stolle,R,193,AUS,23.8028747433,101349,,Q,Adam Malik,R,193,MAS,26.9787816564,6-4 1-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,150,254,781,11
 1994-536,Manila CH,Hard,32,C,19940502,5,101066,3,,Richard Matuszewski,R,188,USA,29.6481861739,102215,,,Joshua Eagle,R,183,AUS,20.977412731,6-1 0-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,166,230,244,140
@@ -877,7 +877,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1994-852,Bochum CH,Clay,32,C,19940523,8,101732,,,Pietro Pennisi,L,173,ITA,24.1149897331,101416,5,,Joao Cunha Silva,R,173,POR,26.4859685147,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,258,128,160,244
 1994-852,Bochum CH,Clay,32,C,19940523,9,102394,6,,Johan Van Herck,R,185,BEL,19.9972621492,101407,,,David Engel,R,180,SWE,26.598220397,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,172,224,206,184
 1994-852,Bochum CH,Clay,32,C,19940523,10,102465,,LL,Gabriel Silberstein,R,178,CHI,19.5975359343,101016,,,Marcos Aurelio Gorriz,L,185,ESP,30.2176591376,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,324,93,212,181
-1994-852,Bochum CH,Clay,32,C,19940523,11,102224,,,Miguel Pastura,R,,ARG,20.9883641342,109352,,WC,Michael Gardemann,R,,GER,,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,220,168,1175,1
+1994-852,Bochum CH,Clay,32,C,19940523,11,102224,,,Miguel Pastura,R,,ARG,20.9883641342,109352,,WC,Michael Gardemann,R,,GER,18.893908282,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,220,168,1175,1
 1994-852,Bochum CH,Clay,32,C,19940523,12,102029,4,,Filip Dewulf,R,190,BEL,22.1875427789,101534,,,Libor Nemecek,R,168,CZE,25.5715263518,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,145,269,201,191
 1994-852,Bochum CH,Clay,32,C,19940523,13,101270,8,,Thomas Gollwitzer,R,178,GER,27.8302532512,102375,,,Dinu Pescariu,R,185,ROU,20.1122518823,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,174,220,257,130
 1994-852,Bochum CH,Clay,32,C,19940523,14,101420,,Q,Vaclav Roubicek,R,185,CZE,26.4421629021,101641,,,Jose Luis Noriega,R,178,PER,24.6872005476,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,360,78,175,218
@@ -909,7 +909,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1994-528,Bombay CH,Hard,32,C,19940523,9,107783,,,Michael Roberts,R,,USA,,102165,,LL,Srinath Prahlad,R,,IND,21.3689253936,7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,476,44,,
 1994-528,Bombay CH,Hard,32,C,19940523,10,101869,,,Juan Luis Tati Rascon,R,,ESP,23.2251882272,101492,,,Sander Groen,L,190,NED,25.9329226557,4-6 6-4 7-6,3,R32,,,,,,,,,,,,,,,,,,,,376,73,357,79
 1994-528,Bombay CH,Hard,32,C,19940523,11,102039,,WC,Gaurav Natekar,R,,IND,22.1327857632,101740,,,Sascha Nensel,R,180,GER,24.038329911,6-2 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,613,24,365,76
-1994-528,Bombay CH,Hard,32,C,19940523,12,101929,4,,Joost Winnink,R,180,NED,22.8966461328,108479,,LL,Vinod Ramachandran,R,,IND,,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,280,116,845,9
+1994-528,Bombay CH,Hard,32,C,19940523,12,101929,4,,Joost Winnink,R,180,NED,22.8966461328,108479,,LL,Vinod Ramachandran,R,,IND,20.6269678303,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,280,116,845,9
 1994-528,Bombay CH,Hard,32,C,19940523,13,101680,,,Zeeshan Ali,R,180,IND,24.3887748118,101204,7,,Eric Amend,R,180,USA,28.5119780972,2-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,526,35,304,104
 1994-528,Bombay CH,Hard,32,C,19940523,14,102272,,,Branislav Galik,R,,SVK,20.5886379192,108170,,,Roman Ruppenthal,R,,GER,,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,341,85,411,60
 1994-528,Bombay CH,Hard,32,C,19940523,15,107363,,LL,Joern Grunewald,R,,GER,,101662,,Q,Selvam Veerasingam,R,,MAS,24.5366187543,6-2 1-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,653,20,920,6
@@ -1066,7 +1066,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1994-225,Campinas CH,Clay,32,C,19940606,11,102645,,,Pier Squillari,R,,ARG,18.7898699521,102152,,,Pablo Campana,R,180,ECU,21.4702258727,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,745,13,609,25
 1994-225,Campinas CH,Clay,32,C,19940606,12,101761,4,,Jaime Oncins,R,196,BRA,23.9726214921,108520,,Q,William Kyriakos,R,,BRA,,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,168,234,684,18
 1994-225,Campinas CH,Clay,32,C,19940606,13,101417,7,,Mario Rincon,R,,COL,26.507871321,101243,,,Roberto Azar,L,185,ARG,28.2108145106,6-1 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,245,146,316,94
-1994-225,Campinas CH,Clay,32,C,19940606,14,108480,,Q,Vitor Martins,R,,BRA,,102372,,,Sule Ladipo,R,180,NGR,20.1587953457,6-4 5-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1183,1,299,103
+1994-225,Campinas CH,Clay,32,C,19940606,14,108480,,Q,Vitor Martins,R,,BRA,19.4113620808,102372,,,Sule Ladipo,R,180,NGR,20.1587953457,6-4 5-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1183,1,299,103
 1994-225,Campinas CH,Clay,32,C,19940606,15,106533,,,Andres Alarcon,R,,ECU,,101981,,,Sascha Bandermann,L,180,GER,22.6036960986,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,963,5,448,50
 1994-225,Campinas CH,Clay,32,C,19940606,16,101897,2,,Fernando Meligeni,L,180,BRA,23.151266256,103084,,Q,Guillermo Canas,R,185,ARG,16.5284052019,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,99,451,887,7
 1994-225,Campinas CH,Clay,32,C,19940606,17,102463,,,Lucas Arnold Ker,R,180,ARG,19.6495550992,100865,,,Marcelo Ingaramo,L,178,ARG,31.6468172485,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,321,93,341,85
@@ -1075,7 +1075,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1994-225,Campinas CH,Clay,32,C,19940606,20,101641,5,,Jose Luis Noriega,R,178,PER,24.7255304586,102192,,Q,Luis Adrian Morejon,R,178,ECU,21.1909650924,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,199,198,618,24
 1994-225,Campinas CH,Clay,32,C,19940606,21,101688,,,Geoff Grant,R,183,USA,24.386036961,102132,,,Ivan Baron,R,185,USA,21.5633127995,7-5 6-7 6-2,3,R16,,,,,,,,,,,,,,,,,,,,391,67,322,92
 1994-225,Campinas CH,Clay,32,C,19940606,22,101761,4,,Jaime Oncins,R,196,BRA,23.9726214921,102645,,,Pier Squillari,R,,ARG,18.7898699521,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,168,234,745,13
-1994-225,Campinas CH,Clay,32,C,19940606,23,101417,7,,Mario Rincon,R,,COL,26.507871321,108480,,Q,Vitor Martins,R,,BRA,,4-6 7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,245,146,1183,1
+1994-225,Campinas CH,Clay,32,C,19940606,23,101417,7,,Mario Rincon,R,,COL,26.507871321,108480,,Q,Vitor Martins,R,,BRA,19.4113620808,4-6 7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,245,146,1183,1
 1994-225,Campinas CH,Clay,32,C,19940606,24,101897,2,,Fernando Meligeni,L,180,BRA,23.151266256,106533,,,Andres Alarcon,R,,ECU,,6-3 7-6,3,R16,,,,,,,,,,,,,,,,,,,,99,451,963,5
 1994-225,Campinas CH,Clay,32,C,19940606,25,102259,,,Jerome Golmard,L,188,FRA,20.7392197125,102463,,,Lucas Arnold Ker,R,180,ARG,19.6495550992,6-0 6-3,3,QF,,,,,,,,,,,,,,,,,,,,286,110,321,93
 1994-225,Campinas CH,Clay,32,C,19940606,26,101641,5,,Jose Luis Noriega,R,178,PER,24.7255304586,101977,3,,Patricio Arnold,R,183,ARG,22.6283367556,6-2 4-6 7-6,3,QF,,,,,,,,,,,,,,,,,,,,199,198,136,303
@@ -1366,7 +1366,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1994-684,Eisenach CH,Clay,32,C,19940704,1,102694,,WC,Lars Burgsmuller,R,183,GER,18.5763175907,101123,1,,Alexander Mronz,R,188,GER,29.2402464066,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,230,163,117,385
 1994-684,Eisenach CH,Clay,32,C,19940704,2,101672,,,Michael Geserer,R,190,GER,24.553045859,101473,,,Jozsef Krocsko,R,180,HUN,26.2039698836,1-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,257,141,193,204
 1994-684,Eisenach CH,Clay,32,C,19940704,3,102533,,WC,Jens Knippschild,R,190,GER,19.3812457221,107113,,,Gonzalo Lopez Fabero,R,,ESP,,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,240,155,235,160
-1994-684,Eisenach CH,Clay,32,C,19940704,4,101441,7,,Martin Sinner,R,180,GER,26.4038329911,106493,,WC,Alexander Windisch,R,,GER,,6-1 6-7 6-1,3,R32,,,,,,,,,,,,,,,,,,,,145,287,,
+1994-684,Eisenach CH,Clay,32,C,19940704,4,101441,7,,Martin Sinner,R,180,GER,26.4038329911,106493,,WC,Alexander Windisch,R,,GER,26.2751540041,6-1 6-7 6-1,3,R32,,,,,,,,,,,,,,,,,,,,145,287,,
 1994-684,Eisenach CH,Clay,32,C,19940704,5,101430,3,,Sergio Cortes,R,170,CHI,26.4777549624,101460,,,Jose Francisco Altur,L,190,ESP,26.2778918549,6-3 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,141,291,218,176
 1994-684,Eisenach CH,Clay,32,C,19940704,6,102588,,,Lars Rehmann,R,196,GER,19.1211498973,102113,,,Daniele Musa,R,183,ITA,21.8124572211,7-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,192,205,184,215
 1994-684,Eisenach CH,Clay,32,C,19940704,7,102224,,,Miguel Pastura,R,,ARG,21.1033538672,102419,,LL,Christophe Van Garsse,R,185,BEL,20.0355920602,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,217,176,262,135
@@ -1496,7 +1496,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1994-685,Oostende CH,Clay,32,C,19940711,7,102588,,,Lars Rehmann,R,196,GER,19.1403148528,101460,,,Jose Francisco Altur,L,190,ESP,26.2970568104,4-6 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,158,268,231,162
 1994-685,Oostende CH,Clay,32,C,19940711,8,102028,,,Massimo Valeri,R,185,ITA,22.3271731691,102339,6,,Kris Goossens,R,180,BEL,20.386036961,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,267,128,178,230
 1994-685,Oostende CH,Clay,32,C,19940711,9,102113,7,,Daniele Musa,R,183,ITA,21.8316221766,101270,,,Thomas Gollwitzer,R,178,GER,27.9644079398,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,192,215,170,245
-1994-685,Oostende CH,Clay,32,C,19940711,10,101685,,,Markus Naewie,R,190,GER,24.5065023956,108569,,WC,Yuri Soberon,R,,BEL,,3-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,251,148,,
+1994-685,Oostende CH,Clay,32,C,19940711,10,101685,,,Markus Naewie,R,190,GER,24.5065023956,108569,,WC,Yuri Soberon,R,,BEL,18.5106091718,3-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,251,148,,
 1994-685,Oostende CH,Clay,32,C,19940711,11,101473,,,Jozsef Krocsko,R,180,HUN,26.2231348392,101626,,Q,Stephen Noteboom,R,185,NED,24.9445585216,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,198,204,411,68
 1994-685,Oostende CH,Clay,32,C,19940711,12,107113,,Q,Gonzalo Lopez Fabero,R,,ESP,,102029,3,,Filip Dewulf,R,190,BEL,22.3216974675,6-1 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,232,161,127,337
 1994-685,Oostende CH,Clay,32,C,19940711,13,102092,,WC,Tom Vanhoudt,R,183,BEL,21.9520876112,101864,5,,Fernon Wibier,R,188,NED,23.3730321697,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,379,77,177,233
@@ -1922,7 +1922,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1994-783,Segovia CH,Hard,32,C,19940808,30,101482,2,,Markus Zoecke,R,196,GER,26.2450376454,101365,,,Paul Wekesa,R,188,KEN,27.1019849418,6-3 6-7 6-3,3,SF,,,,,,,,,,,,,,,,,,,,72,591,194,211
 1994-783,Segovia CH,Hard,32,C,19940808,31,101549,8,,Rodolphe Gilbert,L,183,FRA,25.6536618754,101482,2,,Markus Zoecke,R,196,GER,26.2450376454,6-2 6-4,3,F,,,,,,,,,,,,,,,,,,,,106,441,72,591
 1994-666,Bronx CH,Hard,32,C,19940815,1,102562,,,Jiri Novak,R,190,CZE,19.4004106776,101150,1,,Gianluca Pozzi,L,180,ITA,29.1608487337,6-3 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,200,209,131,340
-1994-666,Bronx CH,Hard,32,C,19940815,2,101747,,WC,Michael Zimmerman,R,,USA,24.2409308693,106726,,Q,Chris Cocotos,R,,USA,,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,380,74,1072,4
+1994-666,Bronx CH,Hard,32,C,19940815,2,101747,,WC,Michael Zimmerman,R,,USA,24.2409308693,106726,,Q,Chris Cocotos,R,,USA,22.340862423,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,380,74,1072,4
 1994-666,Bronx CH,Hard,32,C,19940815,3,102304,,,Grant Doyle,R,180,AUS,20.5968514716,101435,,,Brian Gyetko,R,183,CAN,26.5516769336,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,337,92,313,101
 1994-666,Bronx CH,Hard,32,C,19940815,4,101780,8,,Alejo Mancisidor,R,183,ESP,24.0410677618,102139,,,Eyal Ran,R,183,ISR,21.7303216975,6-0 7-6,3,R32,,,,,,,,,,,,,,,,,,,,180,231,197,213
 1994-666,Bronx CH,Hard,32,C,19940815,5,102118,,,Radomir Vasek,R,188,CZE,21.8918548939,101422,4,,Mark Kaplan,R,185,RSA,26.6529774127,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,224,180,162,274
@@ -2117,7 +2117,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1994-477,Azores CH,Hard,32,C,19940905,8,102139,6,,Eyal Ran,R,183,ISR,21.7686516085,102140,,WC,Bruno Fragoso,R,,POR,21.7631759069,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,231,168,944,6
 1994-477,Azores CH,Hard,32,C,19940905,9,101416,5,,Joao Cunha Silva,R,173,POR,26.7542778919,101959,,,Robert Eriksson,R,,SWE,22.9760438056,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,190,220,327,100
 1994-477,Azores CH,Hard,32,C,19940905,10,102132,,,Ivan Baron,R,185,USA,21.7932922656,101989,,,Patrik Langvardt,R,,DEN,22.7296372348,6-7 6-3 7-6,3,R32,,,,,,,,,,,,,,,,,,,,259,138,406,67
-1994-477,Azores CH,Hard,32,C,19940905,11,102343,,,Andre Mota,R,,POR,20.4873374401,109695,,,Paulo Couto,R,,POR,,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1994-477,Azores CH,Hard,32,C,19940905,11,102343,,,Andre Mota,R,,POR,20.4873374401,109695,,,Paulo Couto,R,,POR,16.3887748118,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1994-477,Azores CH,Hard,32,C,19940905,12,101775,,,Frederik Fetterlein,R,190,DEN,24.1341546886,101353,4,,Lionel Barthez,R,180,FRA,27.2826830938,6-2 2-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,286,119,176,246
 1994-477,Azores CH,Hard,32,C,19940905,13,101681,8,,Chris Wilkinson,R,180,GBR,24.6461327858,101868,,,Dick Norman,L,203,BEL,23.4962354552,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,233,166,237,161
 1994-477,Azores CH,Hard,32,C,19940905,14,101968,,,Ola Kristiansson,R,188,SWE,22.932238193,101869,,,Juan Luis Tati Rascon,R,,ESP,23.4934976044,7-5 5-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,379,79,250,145
@@ -2333,7 +2333,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1994-693,Recife CH,Hard,32,C,19940926,7,101660,,,Francisco Montana,R,183,USA,24.8898015058,102224,,,Miguel Pastura,R,,ARG,21.3333333333,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,248,149,262,138
 1994-693,Recife CH,Hard,32,C,19940926,8,102113,5,,Daniele Musa,R,183,ITA,22.0424366872,102132,,,Ivan Baron,R,185,USA,21.8699520876,7-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,174,251,276,131
 1994-693,Recife CH,Hard,32,C,19940926,9,101719,,,Frederic Fontang,R,183,FRA,24.5256673511,101552,6,,Xavier Daufresne,R,193,BEL,25.7549623546,7-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,238,160,177,248
-1994-693,Recife CH,Hard,32,C,19940926,10,100892,,Q,Alexandre Hocevar,R,190,BRA,31.6002737851,108480,,WC,Vitor Martins,R,,BRA,,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,587,29,754,14
+1994-693,Recife CH,Hard,32,C,19940926,10,100892,,Q,Alexandre Hocevar,R,190,BRA,31.6002737851,108480,,WC,Vitor Martins,R,,BRA,19.7180013689,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,587,29,754,14
 1994-693,Recife CH,Hard,32,C,19940926,11,101788,,,Doug Flach,R,183,USA,24.128678987,209464,,WC,Maurice Arraes,R,,BRA,18.288843258,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,263,138,,
 1994-693,Recife CH,Hard,32,C,19940926,12,101710,,,Martin Blackman,R,188,USA,24.5612594114,101829,4,,Federico Sanchez,R,168,ESP,23.8110882957,6-4 7-6,3,R32,,,,,,,,,,,,,,,,,,,,268,135,153,299
 1994-693,Recife CH,Hard,32,C,19940926,13,102245,,WC,Egberto Caldas,R,,BRA,21.18275154,101977,8,,Patricio Arnold,R,183,ARG,22.9349760438,7-6 3-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,398,70,198,209
@@ -2494,7 +2494,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1994-836,Reunion Island CH,Hard,32,C,19941010,13,101133,8,,Patrick Baur,R,188,GER,29.4373716632,101975,,,Martin Zumpft,R,180,GER,22.9979466119,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,211,191,347,89
 1994-836,Reunion Island CH,Hard,32,C,19941010,14,101406,,,Wojtek Kowalski,R,183,POL,27.0006844627,102524,,Q,Neville Godwin,R,173,RSA,19.6906228611,4-6 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,223,180,351,88
 1994-836,Reunion Island CH,Hard,32,C,19941010,15,102486,,WC,Mark Sibilla,R,,FRA,19.8795345654,101481,,,Omar Camporese,R,188,ITA,26.4229979466,7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1223,1,252,142
-1994-836,Reunion Island CH,Hard,32,C,19941010,16,101532,2,,Francisco Clavet,L,183,ESP,25.9603011636,106584,,Q,Arnaud Casagrande,R,,FRA,,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,67,665,834,10
+1994-836,Reunion Island CH,Hard,32,C,19941010,16,101532,2,,Francisco Clavet,L,183,ESP,25.9603011636,106584,,Q,Arnaud Casagrande,R,,FRA,23.4825462012,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,67,665,834,10
 1994-836,Reunion Island CH,Hard,32,C,19941010,17,101672,,,Michael Geserer,R,190,GER,24.8213552361,101086,1,,Ronald Agenor,R,180,USA,29.9055441478,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,254,139,50,788
 1994-836,Reunion Island CH,Hard,32,C,19941010,18,102133,7,,Laurence Tieleman,R,180,ITA,21.9028062971,100955,,Q,Yahiya Doumbia,R,185,SEN,31.1266255989,2-6 6-2 7-6,3,R16,,,,,,,,,,,,,,,,,,,,199,203,543,34
 1994-836,Reunion Island CH,Hard,32,C,19941010,19,101732,,,Pietro Pennisi,L,173,ITA,24.4982888433,101962,3,,Younes El Aynaoui,R,193,MAR,23.0773442847,6-7 6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,307,110,97,499
@@ -2542,7 +2542,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1994-543,Guayaquil CH,Clay,32,C,19941017,30,102854,,Q,Sjeng Schalken,R,193,NED,18.1054072553,101780,2,,Alejo Mancisidor,R,183,ESP,24.2135523614,2-6 6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,234,163,135,346
 1994-543,Guayaquil CH,Clay,32,C,19941017,31,102854,,Q,Sjeng Schalken,R,193,NED,18.1054072553,102104,6,,Christian Ruud,R,188,NOR,22.1464750171,6-1 6-4,3,F,,,,,,,,,,,,,,,,,,,,234,163,124,386
 1994-761,Jakarta CH,Hard,32,C,19941017,1,102233,1,,Leander Paes,R,178,IND,21.3333333333,102843,,WC,Suwandi Suwandi,R,178,INA,18.1546885695,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,148,306,451,52
-1994-761,Jakarta CH,Hard,32,C,19941017,2,108443,,Q,Toshitsugu Mori,R,,JPN,,102207,,,Jan Weinzierl,R,,GER,21.4620123203,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,680,20,249,144
+1994-761,Jakarta CH,Hard,32,C,19941017,2,108443,,Q,Toshitsugu Mori,R,,JPN,24.8186173854,102207,,,Jan Weinzierl,R,,GER,21.4620123203,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,680,20,249,144
 1994-761,Jakarta CH,Hard,32,C,19941017,3,100876,,,Bong Soo Kim,R,180,KOR,31.8795345654,102365,,WC,Donny Susetyo,R,170,INA,20.5557837098,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,334,94,683,19
 1994-761,Jakarta CH,Hard,32,C,19941017,4,102466,7,,Jan Kroslak,R,188,SVK,20.0,101444,,WC,Bonit Wiryawan,R,173,INA,26.6830937714,4-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,247,145,536,35
 1994-761,Jakarta CH,Hard,32,C,19941017,5,102133,3,,Laurence Tieleman,R,180,ITA,21.9219712526,101691,,Q,Florian Krumrey,R,190,GER,24.720054757,7-6 1-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,167,273,495,42
@@ -2557,7 +2557,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1994-761,Jakarta CH,Hard,32,C,19941017,14,102108,,LL,Ari Nathan,R,185,USA,22.1273100616,101237,,,Danilo Marcelino,R,193,BRA,28.6105407255,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,745,14,367,81
 1994-761,Jakarta CH,Hard,32,C,19941017,15,101591,,,Danny Sapsford,R,173,GBR,25.5386721424,101975,,,Martin Zumpft,R,180,GER,23.0171115674,2-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,327,98,345,90
 1994-761,Jakarta CH,Hard,32,C,19941017,16,102214,2,,Oscar Ortiz,L,183,MEX,21.440109514,107149,,,Gunther Vanderveeren,R,,BEL,,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,188,221,404,69
-1994-761,Jakarta CH,Hard,32,C,19941017,17,102233,1,,Leander Paes,R,178,IND,21.3333333333,108443,,Q,Toshitsugu Mori,R,,JPN,,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,148,306,680,20
+1994-761,Jakarta CH,Hard,32,C,19941017,17,102233,1,,Leander Paes,R,178,IND,21.3333333333,108443,,Q,Toshitsugu Mori,R,,JPN,24.8186173854,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,148,306,680,20
 1994-761,Jakarta CH,Hard,32,C,19941017,18,100876,,,Bong Soo Kim,R,180,KOR,31.8795345654,102466,7,,Jan Kroslak,R,188,SVK,20.0,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,334,94,247,145
 1994-761,Jakarta CH,Hard,32,C,19941017,19,102405,,Q,Mahesh Bhupathi,R,185,IND,20.3613963039,102133,3,,Laurence Tieleman,R,180,ITA,21.9219712526,1-6 7-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,493,43,167,273
 1994-761,Jakarta CH,Hard,32,C,19941017,20,101119,,,Marian Vajda,R,173,SVK,29.5660506502,102092,,,Tom Vanhoudt,R,183,BEL,22.2203969884,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,323,100,415,63
@@ -2855,7 +2855,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1994-843,Sao Luis CH,Hard,32,C,19941205,2,102245,,,Egberto Caldas,R,,BRA,21.3552361396,102224,,,Miguel Pastura,R,,ARG,21.5058179329,6-1 7-6,3,R32,,,,,,,,,,,,,,,,,,,,372,75,239,155
 1994-843,Sao Luis CH,Hard,32,C,19941205,3,101237,,,Danilo Marcelino,R,193,BRA,28.7255304586,101585,,,Fabio Silberberg,L,190,BRA,25.6783025325,7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,376,73,296,111
 1994-843,Sao Luis CH,Hard,32,C,19941205,4,101574,8,,Alejandro Aramburu,R,175,PER,25.7850787132,101516,,Q,Joao Zwetsch,R,180,BRA,26.2094455852,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,220,179,603,26
-1994-843,Sao Luis CH,Hard,32,C,19941205,5,101745,4,,Roberto Jabali,R,190,BRA,24.5366187543,108480,,WC,Vitor Martins,R,,BRA,,4-6 6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,149,304,724,15
+1994-843,Sao Luis CH,Hard,32,C,19941205,5,101745,4,,Roberto Jabali,R,190,BRA,24.5366187543,108480,,WC,Vitor Martins,R,,BRA,19.8904859685,4-6 6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,149,304,724,15
 1994-843,Sao Luis CH,Hard,32,C,19941205,6,101416,,,Joao Cunha Silva,R,173,POR,27.0034223135,102168,,,Hector Moretti,R,170,ARG,21.8343600274,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,235,158,285,118
 1994-843,Sao Luis CH,Hard,32,C,19941205,7,102519,,,Marcio Carlsson,R,175,BRA,19.8439425051,102644,,,Franco Squillari,L,183,ARG,19.2689938398,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,323,97,302,107
 1994-843,Sao Luis CH,Hard,32,C,19941205,8,100997,5,,Roger Smith,R,185,BAH,30.855578371,107156,,WC,Gustavo Silva,R,,BRA,,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,172,251,857,8
