@@ -12640,7 +12640,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-ECU-02A-2019,M25 Portoviejo,Clay,32,S,20190805,29,144642,,,Marcelo Tomas Barrios Vera,U,,CHI,21.6509240246,105273,,,Mauricio Echazu,R,,PER,30.5352498289,6-4 6-0,3,SF,,,,,,,,,,,,,,,,,,,,302,132,528,50
 2019-M-ITF-ECU-02A-2019,M25 Portoviejo,Clay,32,S,20190805,30,126663,2,,Juan Pablo Ficovich,R,,ARG,22.5270362765,200711,3,,Nicolas Mejia,R,,COL,19.4798083504,6-2 6-1,3,SF,,,,,,,,,,,,,,,,,,,,369,98,446,71
 2019-M-ITF-ECU-02A-2019,M25 Portoviejo,Clay,32,S,20190805,31,144642,,,Marcelo Tomas Barrios Vera,U,,CHI,21.6509240246,126663,2,,Juan Pablo Ficovich,R,,ARG,22.5270362765,6-2 6-0,3,F,,,,,,,,,,,,,,,,,,,,302,132,369,98
-2019-M-ITF-RSA-01A-2019,M15 Johannesburg,Hard,32,S,20190923,1,111761,,,Benjamin Lock,R,,ZIM,26.5544147844,209278,,Q,Alec Beckley,U,,RSA,,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,464,66,,
+2019-M-ITF-RSA-01A-2019,M15 Johannesburg,Hard,32,S,20190923,1,111761,,,Benjamin Lock,R,,ZIM,26.5544147844,209278,,Q,Alec Beckley,U,,RSA,18.264202601,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,464,66,,
 2019-M-ITF-RSA-01A-2019,M15 Johannesburg,Hard,32,S,20190923,2,104587,,Q,Claudio Grassi,U,,ITA,34.1629021218,132456,,,Vasilios Caripi,U,,RSA,27.9863107461,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2019-M-ITF-RSA-01A-2019,M15 Johannesburg,Hard,32,S,20190923,3,209279,,,Terence Atmane,L,,FRA,,208186,,,Preston Brown,U,,USA,18.083504449,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,1976,1
 2019-M-ITF-RSA-01A-2019,M15 Johannesburg,Hard,32,S,20190923,4,200250,8,,Mehluli Don Ayanda Sibanda,R,,ZIM,19.8795345654,208403,,,Joubert Klopper,R,,RSA,18.1437371663,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1074,7,,
@@ -12648,7 +12648,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-RSA-01A-2019,M15 Johannesburg,Hard,32,S,20190923,6,105440,,,Arsenije Zlatanovic,R,193,SRB,29.8015058179,200617,,,Emmanuel Luria,U,,ISR,21.1526351814,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1184,5,1589,2
 2019-M-ITF-RSA-01A-2019,M15 Johannesburg,Hard,32,S,20190923,7,200487,,,Jordan Hasson,U,,ISR,19.947980835,122081,,,Luis Britto,R,,BRA,26.250513347,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1110,7,1367,3
 2019-M-ITF-RSA-01A-2019,M15 Johannesburg,Hard,32,S,20190923,8,200511,6,,Lance Pierre Du Toit,R,,RSA,20.6872005476,139052,,,Muzingaye Dickson Andile Sibanda,U,,ZIM,21.9575633128,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,903,13,1692,1
-2019-M-ITF-RSA-01A-2019,M15 Johannesburg,Hard,32,S,20190923,9,106085,,,Hamid Reza Nadaf,R,,IRI,26.841889117,209281,,Q,Dylan Salton,U,,RSA,,5-7 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,860,15,,
+2019-M-ITF-RSA-01A-2019,M15 Johannesburg,Hard,32,S,20190923,9,106085,,,Hamid Reza Nadaf,R,,IRI,26.841889117,209281,,Q,Dylan Salton,U,,RSA,17.0376454483,5-7 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,860,15,,
 2019-M-ITF-RSA-01A-2019,M15 Johannesburg,Hard,32,S,20190923,10,207835,,,Michael John Every,R,,AHO,25.440109514,207997,,,Len Schouten,R,,NED,20.5174537988,7-6(5) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1263,4,1351,3
 2019-M-ITF-RSA-01A-2019,M15 Johannesburg,Hard,32,S,20190923,11,144747,,,Courtney John Lock,R,,ZIM,22.9295003422,206407,,Q,Munashe Chingono,R,,ZIM,22.8391512663,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1599,2,,
 2019-M-ITF-RSA-01A-2019,M15 Johannesburg,Hard,32,S,20190923,12,200574,4,,Alexander Donski,U,,CAN,21.144421629,207812,,,Charl Morgan,R,,RSA,18.160164271,6-0 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,791,18,1246,4
@@ -14500,7 +14500,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-EST-02A-2019,M15 Parnu,Hard,32,S,20191028,30,104901,,,Vladimir Ivanov,R,,EST,32.5503080082,137762,,,Lasse Muscheites,R,,GER,23.5071868583,6-4 3-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,786,20,1858,1
 2019-M-ITF-EST-02A-2019,M15 Parnu,Hard,32,S,20191028,31,126185,,,Evgenii Tiurnev,U,,RUS,22.5544147844,104901,,,Vladimir Ivanov,R,,EST,32.5503080082,6-2 7-6(2),3,F,,,,,,,,,,,,,,,,,,,,415,84,786,20
 2019-M-ITF-RSA-02A-2019,M15 Pretoria,Hard,32,S,20190930,1,111761,,,Benjamin Lock,R,,ZIM,26.5735797399,208122,,WC,Thabo Ncube,R,,ZIM,18.4558521561,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,466,66,,
-2019-M-ITF-RSA-02A-2019,M15 Pretoria,Hard,32,S,20190930,2,209281,,Q,Dylan Salton,U,,RSA,,121723,,,Lance Cohen,U,,RSA,31.6303901437,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2019-M-ITF-RSA-02A-2019,M15 Pretoria,Hard,32,S,20190930,2,209281,,Q,Dylan Salton,U,,RSA,17.0568104038,121723,,,Lance Cohen,U,,RSA,31.6303901437,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2019-M-ITF-RSA-02A-2019,M15 Pretoria,Hard,32,S,20190930,3,209288,,WC,Chrisjan Van Wyk,R,,RSA,,139052,,,Muzingaye Dickson Andile Sibanda,U,,ZIM,21.9767282683,6-2 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,1708,1
 2019-M-ITF-RSA-02A-2019,M15 Pretoria,Hard,32,S,20190930,4,126441,7,,Marco Brugnerotto,L,,ITA,23.394934976,124167,,,Vaughn Hunter,L,,RSA,25.0266940452,0-6 7-6(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,953,11,,
 2019-M-ITF-RSA-02A-2019,M15 Pretoria,Hard,32,S,20190930,5,200574,,,Alexander Donski,U,,CAN,21.1635865845,207812,,,Charl Morgan,R,,RSA,18.1793292266,2-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,801,18,1244,4
@@ -14515,7 +14515,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-RSA-02A-2019,M15 Pretoria,Hard,32,S,20190930,14,200487,,,Jordan Hasson,U,,ISR,19.9671457906,200617,,,Emmanuel Luria,U,,ISR,21.1718001369,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1110,7,1978,1
 2019-M-ITF-RSA-02A-2019,M15 Pretoria,Hard,32,S,20190930,15,126388,,,Raheel Manji,R,,CAN,22.3463381246,208186,,,Preston Brown,U,,USA,18.1026694045,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,1988,1
 2019-M-ITF-RSA-02A-2019,M15 Pretoria,Hard,32,S,20190930,16,126536,2,,David Pichler,R,,AUT,23.6112251882,207980,,,Alexey Dubinin,R,,RUS,20.8213552361,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,545,48,,
-2019-M-ITF-RSA-02A-2019,M15 Pretoria,Hard,32,S,20190930,17,111761,,,Benjamin Lock,R,,ZIM,26.5735797399,209281,,Q,Dylan Salton,U,,RSA,,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,466,66,,
+2019-M-ITF-RSA-02A-2019,M15 Pretoria,Hard,32,S,20190930,17,111761,,,Benjamin Lock,R,,ZIM,26.5735797399,209281,,Q,Dylan Salton,U,,RSA,17.0568104038,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,466,66,,
 2019-M-ITF-RSA-02A-2019,M15 Pretoria,Hard,32,S,20190930,18,126441,7,,Marco Brugnerotto,L,,ITA,23.394934976,209288,,WC,Chrisjan Van Wyk,R,,RSA,,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,953,11,,
 2019-M-ITF-RSA-02A-2019,M15 Pretoria,Hard,32,S,20190930,19,200574,,,Alexander Donski,U,,CAN,21.1635865845,144738,,WC,Joshua Luck,U,,RSA,23.8603696099,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,801,18,1911,1
 2019-M-ITF-RSA-02A-2019,M15 Pretoria,Hard,32,S,20190930,20,105440,,,Arsenije Zlatanovic,R,193,SRB,29.8206707734,200511,6,,Lance Pierre Du Toit,R,,RSA,20.7063655031,6-1 3-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1247,4,904,13
@@ -14823,7 +14823,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-MOZ-01A-2019,M15 Maputo,Hard,32,S,20191104,12,123812,4,,Jose Fco Vidal Azorin,U,,ESP,26.3956194387,134545,,,Alexis Canter,U,,GBR,21.4209445585,7-6(2) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,588,40,838,17
 2019-M-ITF-MOZ-01A-2019,M15 Maputo,Hard,32,S,20191104,13,126092,,,Dennis Uspensky,U,,USA,23.0335386721,200016,,Q,Alex Solanki,U,,IND,20.6570841889,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,685,29,,
 2019-M-ITF-MOZ-01A-2019,M15 Maputo,Hard,32,S,20191104,14,117359,,,Jake Delaney,U,,AUS,22.4750171116,209046,,Q,Atharva Sharma,R,,IND,,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1549,2,1709,1
-2019-M-ITF-MOZ-01A-2019,M15 Maputo,Hard,32,S,20191104,15,111801,,PR,Rishab Agarwal,R,,IND,23.9151266256,209281,,,Dylan Salton,U,,RSA,,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1102,7,1709,1
+2019-M-ITF-MOZ-01A-2019,M15 Maputo,Hard,32,S,20191104,15,111801,,PR,Rishab Agarwal,R,,IND,23.9151266256,209281,,,Dylan Salton,U,,RSA,17.1526351814,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1102,7,1709,1
 2019-M-ITF-MOZ-01A-2019,M15 Maputo,Hard,32,S,20191104,16,105626,2,,Takanyi Garanganga,R,,ZIM,29.1608487337,207139,,,Palaphoom Kovapitukted,U,,THA,19.9151266256,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,525,54,1095,7
 2019-M-ITF-MOZ-01A-2019,M15 Maputo,Hard,32,S,20191104,17,111761,,,Benjamin Lock,R,,ZIM,26.6694045175,133810,,,Sprithvi Sekhar,U,,IND,26.0862422998,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,442,76,1799,1
 2019-M-ITF-MOZ-01A-2019,M15 Maputo,Hard,32,S,20191104,18,208322,6,,Eric Vanshelboim,U,,UKR,18.3052703628,200297,,,Aziz Ouakaa,U,,TUN,20.2436687201,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,722,25,915,13
@@ -14841,7 +14841,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-MOZ-01A-2019,M15 Maputo,Hard,32,S,20191104,30,105626,2,,Takanyi Garanganga,R,,ZIM,29.1608487337,105560,,,Kelsey Stevenson,R,,CAN,29.4346338125,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,525,54,830,17
 2019-M-ITF-MOZ-01A-2019,M15 Maputo,Hard,32,S,20191104,31,106322,,,David Perez Sanz,U,,ESP,25.4729637235,105626,2,,Takanyi Garanganga,R,,ZIM,29.1608487337,7-5 6-3,3,F,,,,,,,,,,,,,,,,,,,,561,43,525,54
 2019-M-ITF-MOZ-02A-2019,M15 Maputo,Hard,32,S,20191111,1,111761,,,Benjamin Lock,R,,ZIM,26.688569473,110771,,,Jatin Dahiya,U,,IND,27.1156741958,5-7 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,442,76,1081,7
-2019-M-ITF-MOZ-02A-2019,M15 Maputo,Hard,32,S,20191111,2,209281,,,Dylan Salton,U,,RSA,,207139,,,Palaphoom Kovapitukted,U,,THA,19.9342915811,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1700,1,1096,7
+2019-M-ITF-MOZ-02A-2019,M15 Maputo,Hard,32,S,20191111,2,209281,,,Dylan Salton,U,,RSA,17.1718001369,207139,,,Palaphoom Kovapitukted,U,,THA,19.9342915811,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1700,1,1096,7
 2019-M-ITF-MOZ-02A-2019,M15 Maputo,Hard,32,S,20191111,3,111801,,,Rishab Agarwal,R,,IND,23.9342915811,200016,,Q,Alex Solanki,U,,IND,20.6762491444,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1101,7,,
 2019-M-ITF-MOZ-02A-2019,M15 Maputo,Hard,32,S,20191111,4,208322,6,,Eric Vanshelboim,U,,UKR,18.3244353183,206199,,,Kevin Cheruiyot,R,,KEN,21.7850787132,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,726,25,1700,1
 2019-M-ITF-MOZ-02A-2019,M15 Maputo,Hard,32,S,20191111,5,106322,,,David Perez Sanz,U,,ESP,25.492128679,200420,,Q,Gokul Suresh,R,,IND,22.7597535934,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,564,43,1700,1
@@ -14856,7 +14856,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-MOZ-02A-2019,M15 Maputo,Hard,32,S,20191111,14,200297,,,Aziz Ouakaa,U,,TUN,20.2628336756,205941,,,Rishi Reddy,U,,IND,21.5989048597,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,910,13,1200,5
 2019-M-ITF-MOZ-02A-2019,M15 Maputo,Hard,32,S,20191111,15,200250,,,Mehluli Don Ayanda Sibanda,R,,ZIM,20.0136892539,207835,,,Michael John Every,R,,AHO,25.5742642026,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,859,15,1157,6
 2019-M-ITF-MOZ-02A-2019,M15 Maputo,Hard,32,S,20191111,16,105626,2,,Takanyi Garanganga,R,,ZIM,29.1800136893,208348,,,Jaime Sigauque,R,,MOZ,16.9308692676,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,522,54,,
-2019-M-ITF-MOZ-02A-2019,M15 Maputo,Hard,32,S,20191111,17,111761,,,Benjamin Lock,R,,ZIM,26.688569473,209281,,,Dylan Salton,U,,RSA,,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,442,76,1700,1
+2019-M-ITF-MOZ-02A-2019,M15 Maputo,Hard,32,S,20191111,17,111761,,,Benjamin Lock,R,,ZIM,26.688569473,209281,,,Dylan Salton,U,,RSA,17.1718001369,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,442,76,1700,1
 2019-M-ITF-MOZ-02A-2019,M15 Maputo,Hard,32,S,20191111,18,111801,,,Rishab Agarwal,R,,IND,23.9342915811,208322,6,,Eric Vanshelboim,U,,UKR,18.3244353183,6-3 2-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1101,7,726,25
 2019-M-ITF-MOZ-02A-2019,M15 Maputo,Hard,32,S,20191111,19,106322,,,David Perez Sanz,U,,ESP,25.492128679,129811,,,Oleg Khotkov,U,,UKR,29.6700889802,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,564,43,1120,7
 2019-M-ITF-MOZ-02A-2019,M15 Maputo,Hard,32,S,20191111,20,126092,5,,Dennis Uspensky,U,,USA,23.0527036277,133794,,,S D Prajwal Dev,R,,IND,23.4579055441,4-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,708,27,998,9
