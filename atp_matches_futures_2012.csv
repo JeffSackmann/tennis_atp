@@ -261,7 +261,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-M-FU-FRA-01A-2012,France F1,Clay,32,S,20120116,4,104397,8,,Laurent Recouderc,R,,FRA,27.5181382615,105476,,Q,Alexandre Folie,R,,BEL,21.9575633128,6-2 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,549,49,352,120
 2012-M-FU-FRA-01A-2012,France F1,Clay,32,S,20120116,5,104666,4,,Pedro Clar Rossello,R,,ESP,25.9794661191,105445,,Q,Yannick Ebbinghaus,U,,NED,22.0807665982,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,368,111,1256,3
 2012-M-FU-FRA-01A-2012,France F1,Clay,32,S,20120116,6,105593,,Q,Yannick Vandenbulcke,R,,BEL,21.4976043806,105947,,WC,Medy Chettar,U,,FRA,19.8576317591,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,912,10,973,8
-2012-M-FU-FRA-01A-2012,France F1,Clay,32,S,20120116,7,105836,,WC,Jules Marie,R,,FRA,20.3750855578,105932,,,Nikoloz Basilashvili,R,185,RUS,19.8959616701,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1013,7,586,41
+2012-M-FU-FRA-01A-2012,France F1,Clay,32,S,20120116,7,105836,,WC,Jules Marie,R,,FRA,20.3750855578,105932,,,Nikoloz Basilashvili,R,185,GEO,19.8959616701,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1013,7,586,41
 2012-M-FU-FRA-01A-2012,France F1,Clay,32,S,20120116,8,105714,,Q,Hugo Nys,R,,MON,20.9144421629,105515,5,,Jordi Samper Montana,U,,ESP,21.7823408624,1-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1018,7,395,98
 2012-M-FU-FRA-01A-2012,France F1,Clay,32,S,20120116,9,105603,,,Francois Arthur Vibert,U,,FRA,21.453798768,105860,7,,Tak Khunn Wang,R,,FRA,20.2628336756,6-7(4) 6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,658,30,529,55
 2012-M-FU-FRA-01A-2012,France F1,Clay,32,S,20120116,10,105905,,,Danilo Petrovic,R,,SRB,19.9780971937,106005,,Q,Constant Lestienne,R,,FRA,19.6495550992,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,635,33,,
@@ -1161,7 +1161,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-M-FU-CHI-01A-2012,Chile F1,Clay,32,S,20120213,12,105288,4,,Guillermo Rivera Aranguiz,R,,CHI,23.0280629706,105521,,,Juan Sebastian Vivanco,R,,ECU,21.8343600274,7-6(5) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,332,130,713,23
 2012-M-FU-CHI-01A-2012,Chile F1,Clay,32,S,20120213,13,104477,6,,Jorge Aguilar,R,,CHI,27.0965092402,105780,,WC,Victor Nunez,R,,CHI,20.7227926078,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,353,115,1295,3
 2012-M-FU-CHI-01A-2012,Chile F1,Clay,32,S,20120213,14,105713,,,Victor Morales,R,,CHI,20.9965776865,121987,,WC,Camilo Ahumada,U,,CHI,16.4134154689,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,848,13,,
-2012-M-FU-CHI-01A-2012,Chile F1,Clay,32,S,20120213,15,106426,,WC,Christian Garin,R,,CHI,15.7070499658,106181,,Q,Felipe Mantilla,R,,COL,18.7624914442,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1016,7
+2012-M-FU-CHI-01A-2012,Chile F1,Clay,32,S,20120213,15,106426,,WC,Cristian Garin,R,,CHI,15.7070499658,106181,,Q,Felipe Mantilla,R,,COL,18.7624914442,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1016,7
 2012-M-FU-CHI-01A-2012,Chile F1,Clay,32,S,20120213,16,105426,2,,Michael Linzer,R,,AUT,22.2806297057,106174,,,Gonzalo Lama,R,,CHI,18.7980835044,3-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,293,151,824,14
 2012-M-FU-CHI-01A-2012,Chile F1,Clay,32,S,20120213,17,105292,1,,Alejandro Gonzalez,R,,COL,23.0143737166,105941,,WC,Felipe Rios,R,,CHI,19.9452429843,4-6 7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,261,177,1083,6
 2012-M-FU-CHI-01A-2012,Chile F1,Clay,32,S,20120213,18,104503,7,,Guillermo Hormazabal,R,,CHI,26.9815195072,106228,,,Juan Ignacio Londero,R,,ARG,18.4969199179,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,354,114,687,26
@@ -1170,7 +1170,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-M-FU-CHI-01A-2012,Chile F1,Clay,32,S,20120213,21,105589,5,,Gerald Melzer,L,,AUT,21.5879534565,105303,,Q,Rodrigo Perez,R,,CHI,22.9377138946,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,350,121,904,11
 2012-M-FU-CHI-01A-2012,Chile F1,Clay,32,S,20120213,22,105288,4,,Guillermo Rivera Aranguiz,R,,CHI,23.0280629706,105918,,,Alessandro Colella,L,,ITA,20.0082135524,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,332,130,879,12
 2012-M-FU-CHI-01A-2012,Chile F1,Clay,32,S,20120213,23,104477,6,,Jorge Aguilar,R,,CHI,27.0965092402,105713,,,Victor Morales,R,,CHI,20.9965776865,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,353,115,848,13
-2012-M-FU-CHI-01A-2012,Chile F1,Clay,32,S,20120213,24,105426,2,,Michael Linzer,R,,AUT,22.2806297057,106426,,WC,Christian Garin,R,,CHI,15.7070499658,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,293,151,,
+2012-M-FU-CHI-01A-2012,Chile F1,Clay,32,S,20120213,24,105426,2,,Michael Linzer,R,,AUT,22.2806297057,106426,,WC,Cristian Garin,R,,CHI,15.7070499658,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,293,151,,
 2012-M-FU-CHI-01A-2012,Chile F1,Clay,32,S,20120213,25,104503,7,,Guillermo Hormazabal,R,,CHI,26.9815195072,105292,1,,Alejandro Gonzalez,R,,COL,23.0143737166,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,354,114,261,177
 2012-M-FU-CHI-01A-2012,Chile F1,Clay,32,S,20120213,26,105952,,,Renzo Olivo,R,,ARG,19.9151266256,105601,3,,Cristobal Saavedra Corvalan,R,,CHI,21.5359342916,7-6(6) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,530,55,310,140
 2012-M-FU-CHI-01A-2012,Chile F1,Clay,32,S,20120213,27,105288,4,,Guillermo Rivera Aranguiz,R,,CHI,23.0280629706,105589,5,,Gerald Melzer,L,,AUT,21.5879534565,6-4 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,332,130,350,121
@@ -1437,7 +1437,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-M-FU-CHI-03A-2012,Chile F3,Clay,32,S,20120220,9,105918,,Q,Alessandro Colella,L,,ITA,20.0273785079,104744,8,,Gaston Arturo Grimolizzi,U,,ARG,25.7166324435,7-5 3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,879,12,362,111
 2012-M-FU-CHI-03A-2012,Chile F3,Clay,32,S,20120220,10,105635,,Q,Jorge Montero,R,,CHI,21.4154688569,105607,,,Gabriel Alejandro Hidalgo,R,,ARG,21.5414099932,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,983,8,616,35
 2012-M-FU-CHI-03A-2012,Chile F3,Clay,32,S,20120220,11,106228,,,Juan Ignacio Londero,R,,ARG,18.5160848734,105693,,WC,Alex Theiler,R,,CHI,21.106091718,7-6(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,692,26,1017,7
-2012-M-FU-CHI-03A-2012,Chile F3,Clay,32,S,20120220,12,106426,,WC,Christian Garin,R,,CHI,15.7262149213,105601,3,,Cristobal Saavedra Corvalan,R,,CHI,21.5550992471,6-2 7-6(8),3,R32,,,,,,,,,,,,,,,,,,,,,,308,140
+2012-M-FU-CHI-03A-2012,Chile F3,Clay,32,S,20120220,12,106426,,WC,Cristian Garin,R,,CHI,15.7262149213,105601,3,,Cristobal Saavedra Corvalan,R,,CHI,21.5550992471,6-2 7-6(8),3,R32,,,,,,,,,,,,,,,,,,,,,,308,140
 2012-M-FU-CHI-03A-2012,Chile F3,Clay,32,S,20120220,13,105589,5,,Gerald Melzer,L,,AUT,21.607118412,105941,,Q,Felipe Rios,R,,CHI,19.9644079398,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,348,121,1081,6
 2012-M-FU-CHI-03A-2012,Chile F3,Clay,32,S,20120220,14,105820,,,Juan Carlos Saez,R,,CHI,20.5448323066,105521,,,Juan Sebastian Vivanco,R,,ECU,21.8535249829,6-3 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,686,26,715,23
 2012-M-FU-CHI-03A-2012,Chile F3,Clay,32,S,20120220,15,106209,,,Matias Sborowitz,R,,CHI,18.6173853525,106190,,Q,Hasier Pastor,R,,ESP,18.7296372348,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,790,16,1871,1
@@ -1447,7 +1447,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-M-FU-CHI-03A-2012,Chile F3,Clay,32,S,20120220,19,105288,4,,Guillermo Rivera Aranguiz,R,,CHI,23.0472279261,105862,,,Javier Munoz,R,,CHI,20.34770705,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,333,130,654,29
 2012-M-FU-CHI-03A-2012,Chile F3,Clay,32,S,20120220,20,104477,6,,Jorge Aguilar,R,,CHI,27.1156741958,105943,,,Federico Gaio,R,,ITA,19.961670089,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,353,115,370,108
 2012-M-FU-CHI-03A-2012,Chile F3,Clay,32,S,20120220,21,105918,,Q,Alessandro Colella,L,,ITA,20.0273785079,105635,,Q,Jorge Montero,R,,CHI,21.4154688569,6-4 3-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,879,12,983,8
-2012-M-FU-CHI-03A-2012,Chile F3,Clay,32,S,20120220,22,106228,,,Juan Ignacio Londero,R,,ARG,18.5160848734,106426,,WC,Christian Garin,R,,CHI,15.7262149213,6-3 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,692,26,,
+2012-M-FU-CHI-03A-2012,Chile F3,Clay,32,S,20120220,22,106228,,,Juan Ignacio Londero,R,,ARG,18.5160848734,106426,,WC,Cristian Garin,R,,CHI,15.7262149213,6-3 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,692,26,,
 2012-M-FU-CHI-03A-2012,Chile F3,Clay,32,S,20120220,23,105589,5,,Gerald Melzer,L,,AUT,21.607118412,105820,,,Juan Carlos Saez,R,,CHI,20.5448323066,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,348,121,686,26
 2012-M-FU-CHI-03A-2012,Chile F3,Clay,32,S,20120220,24,105426,2,,Michael Linzer,R,,AUT,22.2997946612,106209,,,Matias Sborowitz,R,,CHI,18.6173853525,6-2 5-7 6-3,3,R16,,,,,,,,,,,,,,,,,,,,325,134,790,16
 2012-M-FU-CHI-03A-2012,Chile F3,Clay,32,S,20120220,25,104503,7,,Guillermo Hormazabal,R,,CHI,27.0006844627,105292,1,,Alejandro Gonzalez,R,,COL,23.0335386721,6-1 3-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,354,114,268,169
@@ -1706,7 +1706,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-M-FU-ARG-01A-2012,Argentina F1,Clay,32,S,20120227,30,104253,6,,Juan Martin Aranguren,R,,ARG,28.3915126626,105274,3,,Patricio Heras,R,,ARG,23.099247091,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,511,62,438,82
 2012-M-FU-ARG-01A-2012,Argentina F1,Clay,32,S,20120227,31,104253,6,,Juan Martin Aranguren,R,,ARG,28.3915126626,104713,4,,Juan Pablo Amado,R,,ARG,25.9055441478,6-3 7-6(2),3,F,,,,,,,,,,,,,,,,,,,,511,62,463,75
 2012-M-FU-CHI-04A-2012,Chile F4,Clay,32,S,20120227,1,104477,1,,Jorge Aguilar,R,,CHI,27.1348391513,105303,,,Rodrigo Perez,R,,CHI,22.9760438056,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,346,125,884,12
-2012-M-FU-CHI-04A-2012,Chile F4,Clay,32,S,20120227,2,106426,,WC,Christian Garin,R,,CHI,15.7453798768,105662,,,Tomislav Jotovski,R,,MKD,21.3360711841,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1602,1,982,8
+2012-M-FU-CHI-04A-2012,Chile F4,Clay,32,S,20120227,2,106426,,WC,Cristian Garin,R,,CHI,15.7453798768,105662,,,Tomislav Jotovski,R,,MKD,21.3360711841,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1602,1,982,8
 2012-M-FU-CHI-04A-2012,Chile F4,Clay,32,S,20120227,3,106209,,,Matias Sborowitz,R,,CHI,18.636550308,111573,,WC,Benjamin Ugarte,R,,CHI,18.9678302533,7-6(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,777,17,,
 2012-M-FU-CHI-04A-2012,Chile F4,Clay,32,S,20120227,4,105862,6,,Javier Munoz,R,,CHI,20.3668720055,105713,,,Victor Morales,R,,CHI,21.0349075975,7-6(1) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,656,29,833,14
 2012-M-FU-CHI-04A-2012,Chile F4,Clay,32,S,20120227,5,104513,3,,Leandro Migani,R,,ARG,26.9897330595,105968,,WC,David Fleming,U,,CHI,19.8959616701,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,501,65,1312,3
@@ -1721,7 +1721,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-M-FU-CHI-04A-2012,Chile F4,Clay,32,S,20120227,14,105918,,,Alessandro Colella,L,,ITA,20.0465434634,105861,,Q,Caio Silva,U,,BRA,20.3696098563,4-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,855,13,923,10
 2012-M-FU-CHI-04A-2012,Chile F4,Clay,32,S,20120227,15,105996,,Q,Alex Blumenberg,U,,BRA,19.7864476386,102822,,,Carlos Oliveira,R,,BRA,35.6605065024,6-3 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1312,3,910,10
 2012-M-FU-CHI-04A-2012,Chile F4,Clay,32,S,20120227,16,105943,2,,Federico Gaio,R,,ITA,19.9808350445,106292,,Q,Hernan Casanova,U,,ARG,18.0561259411,4-6 7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,372,108,1271,3
-2012-M-FU-CHI-04A-2012,Chile F4,Clay,32,S,20120227,17,104477,1,,Jorge Aguilar,R,,CHI,27.1348391513,106426,,WC,Christian Garin,R,,CHI,15.7453798768,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,346,125,1602,1
+2012-M-FU-CHI-04A-2012,Chile F4,Clay,32,S,20120227,17,104477,1,,Jorge Aguilar,R,,CHI,27.1348391513,106426,,WC,Cristian Garin,R,,CHI,15.7453798768,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,346,125,1602,1
 2012-M-FU-CHI-04A-2012,Chile F4,Clay,32,S,20120227,18,106209,,,Matias Sborowitz,R,,CHI,18.636550308,105862,6,,Javier Munoz,R,,CHI,20.3668720055,6-7(4) 7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,777,17,656,29
 2012-M-FU-CHI-04A-2012,Chile F4,Clay,32,S,20120227,19,104513,3,,Leandro Migani,R,,ARG,26.9897330595,106420,,Q,Gianluigi Quinzi,L,,ITA,16.0711841205,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,501,65,1783,1
 2012-M-FU-CHI-04A-2012,Chile F4,Clay,32,S,20120227,20,105948,,,Federico Coria,R,,ARG,19.9698836413,105820,7,,Juan Carlos Saez,R,,CHI,20.5639972621,2-6 6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,769,18,685,26
@@ -4325,7 +4325,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-M-FU-UZB-01A-2012,Uzbekistan F1,Hard,32,S,20120416,3,106374,,Q,Filip Veger,R,,CRO,17.3196440794,109043,,WC,Sergey Shipilov,R,,UZB,18.7871321013,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1013,7,,
 2012-M-FU-UZB-01A-2012,Uzbekistan F1,Hard,32,S,20120416,4,105029,8,,Sergey Betov,R,,BLR,24.5037645448,105144,,,Andrey Boldarev,U,,UZB,23.9425051335,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,481,69,1050,6
 2012-M-FU-UZB-01A-2012,Uzbekistan F1,Hard,32,S,20120416,5,104986,3,Q,Vishnu Vardhan,R,188,IND,24.7227926078,104901,,,Vladimir Ivanov,R,,EST,25.0184804928,2-6 7-6(3) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,355,120,518,60
-2012-M-FU-UZB-01A-2012,Uzbekistan F1,Hard,32,S,20120416,6,105932,,,Nikoloz Basilashvili,R,185,RUS,20.1451060917,105043,,Q,Marek Semjan,U,,SVK,24.4407939767,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,591,41,1230,4
+2012-M-FU-UZB-01A-2012,Uzbekistan F1,Hard,32,S,20120416,6,105932,,,Nikoloz Basilashvili,R,185,GEO,20.1451060917,105043,,Q,Marek Semjan,U,,SVK,24.4407939767,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,591,41,1230,4
 2012-M-FU-UZB-01A-2012,Uzbekistan F1,Hard,32,S,20120416,7,105237,,,Vitali Reshetnikov,R,,RUS,23.446954141,106204,,WC,Nigmat Shofayziev,R,,UZB,18.7953456537,7-6(5) 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,612,37,1068,6
 2012-M-FU-UZB-01A-2012,Uzbekistan F1,Hard,32,S,20120416,8,105545,7,,Mikhail Fufygin,U,,RUS,21.9274469541,105210,,Q,Zach Itzstein,R,,AUS,23.6194387406,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,493,65,1111,5
 2012-M-FU-UZB-01A-2012,Uzbekistan F1,Hard,32,S,20120416,9,104479,,,Sarvar Ikramov,R,,UZB,27.2635181383,104697,6,,Mikhail Vasiliev,R,,RUS,26.1081451061,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,637,34,504,64
@@ -4338,17 +4338,17 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-M-FU-UZB-01A-2012,Uzbekistan F1,Hard,32,S,20120416,16,104975,2,,Evgeny Kirillov,R,,RUS,24.758384668,122118,,WC,Abduvoris Saitmukhamedov,R,,UZB,17.659137577,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,284,158,,
 2012-M-FU-UZB-01A-2012,Uzbekistan F1,Hard,32,S,20120416,17,105590,1,,Uladzimir Ignatik,R,,BLR,21.7577002053,105085,,,Artem Smirnov,U,,UKR,24.2026009582,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,271,167,566,45
 2012-M-FU-UZB-01A-2012,Uzbekistan F1,Hard,32,S,20120416,18,106374,,Q,Filip Veger,R,,CRO,17.3196440794,105029,8,,Sergey Betov,R,,BLR,24.5037645448,6-3 4-6 4-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,1013,7,481,69
-2012-M-FU-UZB-01A-2012,Uzbekistan F1,Hard,32,S,20120416,19,105932,,,Nikoloz Basilashvili,R,185,RUS,20.1451060917,104986,3,Q,Vishnu Vardhan,R,188,IND,24.7227926078,7-5 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,591,41,355,120
+2012-M-FU-UZB-01A-2012,Uzbekistan F1,Hard,32,S,20120416,19,105932,,,Nikoloz Basilashvili,R,185,GEO,20.1451060917,104986,3,Q,Vishnu Vardhan,R,188,IND,24.7227926078,7-5 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,591,41,355,120
 2012-M-FU-UZB-01A-2012,Uzbekistan F1,Hard,32,S,20120416,20,105237,,,Vitali Reshetnikov,R,,RUS,23.446954141,105545,7,,Mikhail Fufygin,U,,RUS,21.9274469541,6-3 3-6 2-2 RET,3,R16,,,,,,,,,,,,,,,,,,,,612,37,493,65
 2012-M-FU-UZB-01A-2012,Uzbekistan F1,Hard,32,S,20120416,21,104479,,,Sarvar Ikramov,R,,UZB,27.2635181383,106169,,Q,Vladyslav Manafov,U,,UKR,18.984257358,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,637,34,1293,3
 2012-M-FU-UZB-01A-2012,Uzbekistan F1,Hard,32,S,20120416,22,106072,,,Alexey Vatutin,U,,RUS,19.4688569473,105739,4,,Stanislav Poplavskyy,R,,UKR,21.0403832991,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,627,35,457,77
 2012-M-FU-UZB-01A-2012,Uzbekistan F1,Hard,32,S,20120416,23,104816,5,,Karan Rastogi,R,178,IND,25.5222450376,104162,,,Deniss Pavlovs,R,,LAT,29.0047912389,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,459,77,624,35
 2012-M-FU-UZB-01A-2012,Uzbekistan F1,Hard,32,S,20120416,24,105079,,,Ivan Sergeyev,R,,UKR,24.2381930185,104975,2,,Evgeny Kirillov,R,,RUS,24.758384668,7-6(9) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,529,58,284,158
 2012-M-FU-UZB-01A-2012,Uzbekistan F1,Hard,32,S,20120416,25,105590,1,,Uladzimir Ignatik,R,,BLR,21.7577002053,106374,,Q,Filip Veger,R,,CRO,17.3196440794,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,271,167,1013,7
-2012-M-FU-UZB-01A-2012,Uzbekistan F1,Hard,32,S,20120416,26,105932,,,Nikoloz Basilashvili,R,185,RUS,20.1451060917,105237,,,Vitali Reshetnikov,R,,RUS,23.446954141,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,591,41,612,37
+2012-M-FU-UZB-01A-2012,Uzbekistan F1,Hard,32,S,20120416,26,105932,,,Nikoloz Basilashvili,R,185,GEO,20.1451060917,105237,,,Vitali Reshetnikov,R,,RUS,23.446954141,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,591,41,612,37
 2012-M-FU-UZB-01A-2012,Uzbekistan F1,Hard,32,S,20120416,27,106072,,,Alexey Vatutin,U,,RUS,19.4688569473,104479,,,Sarvar Ikramov,R,,UZB,27.2635181383,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,627,35,637,34
 2012-M-FU-UZB-01A-2012,Uzbekistan F1,Hard,32,S,20120416,28,105079,,,Ivan Sergeyev,R,,UKR,24.2381930185,104816,5,,Karan Rastogi,R,178,IND,25.5222450376,6-2 7-5,3,QF,,,,,,,,,,,,,,,,,,,,529,58,459,77
-2012-M-FU-UZB-01A-2012,Uzbekistan F1,Hard,32,S,20120416,29,105590,1,,Uladzimir Ignatik,R,,BLR,21.7577002053,105932,,,Nikoloz Basilashvili,R,185,RUS,20.1451060917,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,271,167,591,41
+2012-M-FU-UZB-01A-2012,Uzbekistan F1,Hard,32,S,20120416,29,105590,1,,Uladzimir Ignatik,R,,BLR,21.7577002053,105932,,,Nikoloz Basilashvili,R,185,GEO,20.1451060917,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,271,167,591,41
 2012-M-FU-UZB-01A-2012,Uzbekistan F1,Hard,32,S,20120416,30,105079,,,Ivan Sergeyev,R,,UKR,24.2381930185,106072,,,Alexey Vatutin,U,,RUS,19.4688569473,6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,529,58,627,35
 2012-M-FU-UZB-01A-2012,Uzbekistan F1,Hard,32,S,20120416,31,105079,,,Ivan Sergeyev,R,,UKR,24.2381930185,105590,1,,Uladzimir Ignatik,R,,BLR,21.7577002053,7-6(5) 6-1,3,F,,,,,,,,,,,,,,,,,,,,529,58,271,167
 2012-M-FU-VIE-03A-2012,Vietnam F3,Hard,32,S,20120416,1,104251,1,,Ti Chen,R,183,TPE,28.5366187543,106229,,Q,Gabor Csonka,U,,HUN,18.6611909651,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,272,166,1250,3
@@ -4643,7 +4643,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-M-FU-UZB-02A-2012,Uzbekistan F2,Hard,32,S,20120423,11,106374,,Q,Filip Veger,R,,CRO,17.3388090349,105210,,Q,Zach Itzstein,R,,AUS,23.6386036961,7-6(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1016,7,1050,6
 2012-M-FU-UZB-02A-2012,Uzbekistan F2,Hard,32,S,20120423,12,105299,,,Dzmitry Zhyrmont,U,,BLR,23.1457905544,105739,4,,Stanislav Poplavskyy,R,,UKR,21.0595482546,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,574,44,458,77
 2012-M-FU-UZB-02A-2012,Uzbekistan F2,Hard,32,S,20120423,13,104901,,,Vladimir Ivanov,R,,EST,25.0376454483,105029,6,,Sergey Betov,R,,BLR,24.5229295003,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,514,60,453,79
-2012-M-FU-UZB-02A-2012,Uzbekistan F2,Hard,32,S,20120423,14,105085,,,Artem Smirnov,U,,UKR,24.2217659138,105932,,,Nikoloz Basilashvili,R,185,RUS,20.1642710472,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,565,45,594,41
+2012-M-FU-UZB-02A-2012,Uzbekistan F2,Hard,32,S,20120423,14,105085,,,Artem Smirnov,U,,UKR,24.2217659138,105932,,,Nikoloz Basilashvili,R,185,GEO,20.1642710472,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,565,45,594,41
 2012-M-FU-UZB-02A-2012,Uzbekistan F2,Hard,32,S,20120423,15,104162,,,Deniss Pavlovs,R,,LAT,29.0239561944,105816,,Q,Batyr Sapaev,R,,UZB,20.7501711157,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,627,35,1724,1
 2012-M-FU-UZB-02A-2012,Uzbekistan F2,Hard,32,S,20120423,16,104975,2,,Evgeny Kirillov,R,,RUS,24.7775496235,105144,,WC,Andrey Boldarev,U,,UZB,23.961670089,6-2 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,282,158,1012,7
 2012-M-FU-UZB-02A-2012,Uzbekistan F2,Hard,32,S,20120423,17,105590,1,,Uladzimir Ignatik,R,,BLR,21.7768651608,105171,,,Vladyslav Klymenko,R,,UKR,23.8302532512,6-3 4-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,279,161,1046,6
@@ -7894,7 +7894,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-M-FU-RUS-08A-2012,Russia F8,Clay,32,S,20120618,6,105097,,,Valery Rudnev,R,,RUS,24.3367556468,106078,,,Egor Gerasimov,R,,BLR,19.6002737851,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,694,27,686,28
 2012-M-FU-RUS-08A-2012,Russia F8,Clay,32,S,20120618,7,106042,,,Alexander Rumyantsev,R,,RUS,19.8384668036,106215,,Q,Mikhail Vaks,R,,RUS,18.9185489391,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,577,46,1014,7
 2012-M-FU-RUS-08A-2012,Russia F8,Clay,32,S,20120618,8,104873,,,Aleksandr Nedovyesov,R,,KAZ,25.3388090349,105720,6,,Stanislav Vovk,R,185,RUS,21.3278576318,6-0 7-5,3,R32,,,,,,,,,,,,,,,,,,,,464,71,526,58
-2012-M-FU-RUS-08A-2012,Russia F8,Clay,32,S,20120618,9,105932,,,Nikoloz Basilashvili,R,185,RUS,20.3175906913,105645,5,,Alexander Lobkov,R,,RUS,21.697467488,4-6 6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,578,46,450,77
+2012-M-FU-RUS-08A-2012,Russia F8,Clay,32,S,20120618,9,105932,,,Nikoloz Basilashvili,R,185,GEO,20.3175906913,105645,5,,Alexander Lobkov,R,,RUS,21.697467488,4-6 6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,578,46,450,77
 2012-M-FU-RUS-08A-2012,Russia F8,Clay,32,S,20120618,10,106138,,Q,Yaraslau Shyla,R,,BLR,19.2881587953,106273,,Q,Ronald Slobodchikov,R,,RUS,18.5379876797,6-2 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,1490,2,1824,1
 2012-M-FU-RUS-08A-2012,Russia F8,Clay,32,S,20120618,11,105958,,,Richard Muzaev,R,,RUS,20.2436687201,105763,,Q,Alexandr Kushakov,R,,UKR,21.1307323751,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,678,29,1250,3
 2012-M-FU-RUS-08A-2012,Russia F8,Clay,32,S,20120618,12,104729,4,,Ivan Nedelko,R,,RUS,26.1026694045,106037,,Q,Yahor Yatsyk,R,,BLR,19.8658453114,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,495,65,1266,3
@@ -7906,17 +7906,17 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-M-FU-RUS-08A-2012,Russia F8,Clay,32,S,20120618,18,104643,,,Alexander Pavlioutchenkov,R,,RUS,26.5407255305,105545,7,,Mikhail Fufygin,U,,RUS,22.0999315537,6-3 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,818,15,516,60
 2012-M-FU-RUS-08A-2012,Russia F8,Clay,32,S,20120618,19,105097,,,Valery Rudnev,R,,RUS,24.3367556468,105813,,,Ilia Shatskiy,R,,RUS,20.9117043121,3-6 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,694,27,956,9
 2012-M-FU-RUS-08A-2012,Russia F8,Clay,32,S,20120618,20,104873,,,Aleksandr Nedovyesov,R,,KAZ,25.3388090349,106042,,,Alexander Rumyantsev,R,,RUS,19.8384668036,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,464,71,577,46
-2012-M-FU-RUS-08A-2012,Russia F8,Clay,32,S,20120618,21,105932,,,Nikoloz Basilashvili,R,185,RUS,20.3175906913,106138,,Q,Yaraslau Shyla,R,,BLR,19.2881587953,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,578,46,1490,2
+2012-M-FU-RUS-08A-2012,Russia F8,Clay,32,S,20120618,21,105932,,,Nikoloz Basilashvili,R,185,GEO,20.3175906913,106138,,Q,Yaraslau Shyla,R,,BLR,19.2881587953,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,578,46,1490,2
 2012-M-FU-RUS-08A-2012,Russia F8,Clay,32,S,20120618,22,104729,4,,Ivan Nedelko,R,,RUS,26.1026694045,105958,,,Richard Muzaev,R,,RUS,20.2436687201,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,495,65,678,29
 2012-M-FU-RUS-08A-2012,Russia F8,Clay,32,S,20120618,23,106234,,,Aslan Karatsev,R,,RUS,18.7871321013,105609,8,,Ilya Belyaev,R,180,RUS,21.8590006845,7-6(5) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,898,11,521,59
 2012-M-FU-RUS-08A-2012,Russia F8,Clay,32,S,20120618,24,104778,2,,Andrey Kumantsov,R,,RUS,25.8726899384,106330,,WC,Vitaly Kozyukov,R,,RUS,18.045174538,6-2 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,371,108,1377,2
 2012-M-FU-RUS-08A-2012,Russia F8,Clay,32,S,20120618,25,105079,1,,Ivan Sergeyev,R,,UKR,24.4106776181,104643,,,Alexander Pavlioutchenkov,R,,RUS,26.5407255305,7-5 6-4,3,QF,,,,,,,,,,,,,,,,,,,,290,154,818,15
 2012-M-FU-RUS-08A-2012,Russia F8,Clay,32,S,20120618,26,105097,,,Valery Rudnev,R,,RUS,24.3367556468,104873,,,Aleksandr Nedovyesov,R,,KAZ,25.3388090349,7-6(6) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,694,27,464,71
-2012-M-FU-RUS-08A-2012,Russia F8,Clay,32,S,20120618,27,105932,,,Nikoloz Basilashvili,R,185,RUS,20.3175906913,104729,4,,Ivan Nedelko,R,,RUS,26.1026694045,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,578,46,495,65
+2012-M-FU-RUS-08A-2012,Russia F8,Clay,32,S,20120618,27,105932,,,Nikoloz Basilashvili,R,185,GEO,20.3175906913,104729,4,,Ivan Nedelko,R,,RUS,26.1026694045,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,578,46,495,65
 2012-M-FU-RUS-08A-2012,Russia F8,Clay,32,S,20120618,28,106234,,,Aslan Karatsev,R,,RUS,18.7871321013,104778,2,,Andrey Kumantsov,R,,RUS,25.8726899384,6-4 6-7(8) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,898,11,371,108
 2012-M-FU-RUS-08A-2012,Russia F8,Clay,32,S,20120618,29,105079,1,,Ivan Sergeyev,R,,UKR,24.4106776181,105097,,,Valery Rudnev,R,,RUS,24.3367556468,6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,290,154,694,27
-2012-M-FU-RUS-08A-2012,Russia F8,Clay,32,S,20120618,30,105932,,,Nikoloz Basilashvili,R,185,RUS,20.3175906913,106234,,,Aslan Karatsev,R,,RUS,18.7871321013,0-6 6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,578,46,898,11
-2012-M-FU-RUS-08A-2012,Russia F8,Clay,32,S,20120618,31,105932,,,Nikoloz Basilashvili,R,185,RUS,20.3175906913,105079,1,,Ivan Sergeyev,R,,UKR,24.4106776181,6-4 7-6(3),3,F,,,,,,,,,,,,,,,,,,,,578,46,290,154
+2012-M-FU-RUS-08A-2012,Russia F8,Clay,32,S,20120618,30,105932,,,Nikoloz Basilashvili,R,185,GEO,20.3175906913,106234,,,Aslan Karatsev,R,,RUS,18.7871321013,0-6 6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,578,46,898,11
+2012-M-FU-RUS-08A-2012,Russia F8,Clay,32,S,20120618,31,105932,,,Nikoloz Basilashvili,R,185,GEO,20.3175906913,105079,1,,Ivan Sergeyev,R,,UKR,24.4106776181,6-4 7-6(3),3,F,,,,,,,,,,,,,,,,,,,,578,46,290,154
 2012-M-FU-SRB-02A-2012,Serbia F2,Clay,32,S,20120618,1,105226,1,,Attila Balazs,R,180,HUN,23.7234770705,105758,,Q,Juan Lizariturry,U,,ESP,21.1635865845,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,251,183,1322,3
 2012-M-FU-SRB-02A-2012,Serbia F2,Clay,32,S,20120618,2,105603,,,Francois Arthur Vibert,U,,FRA,21.8754277892,105662,,Q,Tomislav Jotovski,R,,MKD,21.6427104723,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,602,40,1034,7
 2012-M-FU-SRB-02A-2012,Serbia F2,Clay,32,S,20120618,3,105709,,Q,Valentin Florez,R,,ARG,21.3579739904,105661,,Q,Ilija Vucic,R,145,SRB,21.6427104723,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,806,16,,
@@ -8431,7 +8431,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-M-FU-RUS-09A-2012,Russia F9,Clay,32,S,20120625,8,104873,5,,Aleksandr Nedovyesov,R,,KAZ,25.3579739904,105813,,,Ilia Shatskiy,R,,RUS,20.9308692676,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,469,71,964,9
 2012-M-FU-RUS-09A-2012,Russia F9,Clay,32,S,20120625,9,105545,7,,Mikhail Fufygin,U,,RUS,22.1190965092,105763,,Q,Alexandr Kushakov,R,,UKR,21.1498973306,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,522,60,1261,3
 2012-M-FU-RUS-09A-2012,Russia F9,Clay,32,S,20120625,10,106138,,Q,Yaraslau Shyla,R,,BLR,19.3073237509,105966,,Q,Pavel Filin,U,,BLR,20.2409308693,6-4 6-7(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1499,2,1136,5
-2012-M-FU-RUS-09A-2012,Russia F9,Clay,32,S,20120625,11,105932,,,Nikoloz Basilashvili,R,185,RUS,20.3367556468,105892,,Q,Alexandr Igoshin,U,,RUS,20.4572210815,7-6(0) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,582,46,1468,2
+2012-M-FU-RUS-09A-2012,Russia F9,Clay,32,S,20120625,11,105932,,,Nikoloz Basilashvili,R,185,GEO,20.3367556468,105892,,Q,Alexandr Igoshin,U,,RUS,20.4572210815,7-6(0) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,582,46,1468,2
 2012-M-FU-RUS-09A-2012,Russia F9,Clay,32,S,20120625,12,104778,3,,Andrey Kumantsov,R,,RUS,25.8918548939,106363,,WC,Maxim Lunkin,R,,RUS,17.6810403833,6-3 5-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,375,108,1276,3
 2012-M-FU-RUS-09A-2012,Russia F9,Clay,32,S,20120625,13,105720,,,Stanislav Vovk,R,185,RUS,21.3470225873,105609,8,,Ilya Belyaev,R,180,RUS,21.87816564,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,534,58,527,59
 2012-M-FU-RUS-09A-2012,Russia F9,Clay,32,S,20120625,14,106037,,Q,Yahor Yatsyk,R,,BLR,19.8850102669,105237,,,Vitali Reshetnikov,R,,RUS,23.6386036961,6-4 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,1276,3,716,26
@@ -8442,7 +8442,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-M-FU-RUS-09A-2012,Russia F9,Clay,32,S,20120625,19,106078,,,Egor Gerasimov,R,,BLR,19.6194387406,105097,,,Valery Rudnev,R,,RUS,24.3559206023,6-1 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,689,28,698,27
 2012-M-FU-RUS-09A-2012,Russia F9,Clay,32,S,20120625,20,106042,,,Alexander Rumyantsev,R,,RUS,19.8576317591,104873,5,,Aleksandr Nedovyesov,R,,KAZ,25.3579739904,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,581,46,469,71
 2012-M-FU-RUS-09A-2012,Russia F9,Clay,32,S,20120625,21,105545,7,,Mikhail Fufygin,U,,RUS,22.1190965092,106138,,Q,Yaraslau Shyla,R,,BLR,19.3073237509,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,522,60,1499,2
-2012-M-FU-RUS-09A-2012,Russia F9,Clay,32,S,20120625,22,104778,3,,Andrey Kumantsov,R,,RUS,25.8918548939,105932,,,Nikoloz Basilashvili,R,185,RUS,20.3367556468,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,375,108,582,46
+2012-M-FU-RUS-09A-2012,Russia F9,Clay,32,S,20120625,22,104778,3,,Andrey Kumantsov,R,,RUS,25.8918548939,105932,,,Nikoloz Basilashvili,R,185,GEO,20.3367556468,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,375,108,582,46
 2012-M-FU-RUS-09A-2012,Russia F9,Clay,32,S,20120625,23,105720,,,Stanislav Vovk,R,185,RUS,21.3470225873,106037,,Q,Yahor Yatsyk,R,,BLR,19.8850102669,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,534,58,1276,3
 2012-M-FU-RUS-09A-2012,Russia F9,Clay,32,S,20120625,24,105781,,,Andrei Vasilevski,R,,BLR,21.0787132101,105421,2,,Michal Konecny,L,,CZE,22.6995208761,2-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,811,16,323,137
 2012-M-FU-RUS-09A-2012,Russia F9,Clay,32,S,20120625,25,105079,1,,Ivan Sergeyev,R,,UKR,24.4298425736,104729,6,,Ivan Nedelko,R,,RUS,26.12183436,6-4 5-7 7-6(4),3,QF,,,,,,,,,,,,,,,,,,,,295,154,504,65
@@ -8623,7 +8623,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-M-FU-ARM-01A-2012,Armenia F1,Clay,32,S,20120702,6,106234,,,Aslan Karatsev,R,,RUS,18.8062970568,105533,,LL,Dmitry Surchenko,U,,RUS,22.1492128679,6-4 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,910,11,1873,1
 2012-M-FU-ARM-01A-2012,Armenia F1,Clay,32,S,20120702,7,106106,,,George Tsivadze,U,,GEO,19.4770704997,104528,,Q,Brian Grooms,U,,USA,27.241615332,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1168,4,1376,2
 2012-M-FU-ARM-01A-2012,Armenia F1,Clay,32,S,20120702,8,105043,7,,Marek Semjan,U,,SVK,24.6324435318,105201,,,Marc Abdulnour,R,,SYR,23.871321013,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,641,35,1318,3
-2012-M-FU-ARM-01A-2012,Armenia F1,Clay,32,S,20120702,9,105932,6,,Nikoloz Basilashvili,R,185,RUS,20.3367556468,106135,,Q,Patrick Elias,R,,GER,19.3237508556,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,582,46,1721,1
+2012-M-FU-ARM-01A-2012,Armenia F1,Clay,32,S,20120702,9,105932,6,,Nikoloz Basilashvili,R,185,GEO,20.3367556468,106135,,Q,Patrick Elias,R,,GER,19.3237508556,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,582,46,1721,1
 2012-M-FU-ARM-01A-2012,Armenia F1,Clay,32,S,20120702,10,106169,,,Vladyslav Manafov,U,,UKR,19.1759069131,106372,,Q,Petr Arkhipov,U,,RUS,17.5359342916,6-3 6-7(5) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1211,4,1172,4
 2012-M-FU-ARM-01A-2012,Armenia F1,Clay,32,S,20120702,11,105813,,,Ilia Shatskiy,R,,RUS,20.9308692676,105886,,,Anton Galkin,U,,RUS,20.5037645448,7-6(4) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,964,9,1329,3
 2012-M-FU-ARM-01A-2012,Armenia F1,Clay,32,S,20120702,12,104873,3,,Aleksandr Nedovyesov,R,,KAZ,25.3579739904,105605,,Q,Mikhail Balmashev,U,,RUS,21.8891170431,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,469,71,1487,2
@@ -8635,17 +8635,17 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-M-FU-ARM-01A-2012,Armenia F1,Clay,32,S,20120702,18,105963,5,,Arthur De Greef,R,,BEL,20.2464065708,104853,,,Jiri Skoloudik,R,,CZE,25.4592744695,6-4 3-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,571,48,833,15
 2012-M-FU-ARM-01A-2012,Armenia F1,Clay,32,S,20120702,19,105720,4,,Stanislav Vovk,R,185,RUS,21.3470225873,106234,,,Aslan Karatsev,R,,RUS,18.8062970568,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,534,58,910,11
 2012-M-FU-ARM-01A-2012,Armenia F1,Clay,32,S,20120702,20,105043,7,,Marek Semjan,U,,SVK,24.6324435318,106106,,,George Tsivadze,U,,GEO,19.4770704997,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,641,35,1168,4
-2012-M-FU-ARM-01A-2012,Armenia F1,Clay,32,S,20120702,21,105932,6,,Nikoloz Basilashvili,R,185,RUS,20.3367556468,106169,,,Vladyslav Manafov,U,,UKR,19.1759069131,3-6 6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,582,46,1211,4
+2012-M-FU-ARM-01A-2012,Armenia F1,Clay,32,S,20120702,21,105932,6,,Nikoloz Basilashvili,R,185,GEO,20.3367556468,106169,,,Vladyslav Manafov,U,,UKR,19.1759069131,3-6 6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,582,46,1211,4
 2012-M-FU-ARM-01A-2012,Armenia F1,Clay,32,S,20120702,22,104873,3,,Aleksandr Nedovyesov,R,,KAZ,25.3579739904,105813,,,Ilia Shatskiy,R,,RUS,20.9308692676,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,469,71,964,9
 2012-M-FU-ARM-01A-2012,Armenia F1,Clay,32,S,20120702,23,106273,,LL,Ronald Slobodchikov,R,,RUS,18.5571526352,105033,,,Matias Castro,U,,ARG,24.6789869952,6-7(6) 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1837,1,1197,4
 2012-M-FU-ARM-01A-2012,Armenia F1,Clay,32,S,20120702,24,105307,,,Jan Blecha,R,,CZE,23.2717316906,105739,2,,Stanislav Poplavskyy,R,,UKR,21.2320328542,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1333,3,463,73
 2012-M-FU-ARM-01A-2012,Armenia F1,Clay,32,S,20120702,25,105963,5,,Arthur De Greef,R,,BEL,20.2464065708,104603,,,Andrei Ciumac,L,,MDA,26.7898699521,6-2 7-5,3,QF,,,,,,,,,,,,,,,,,,,,571,48,855,14
 2012-M-FU-ARM-01A-2012,Armenia F1,Clay,32,S,20120702,26,105720,4,,Stanislav Vovk,R,185,RUS,21.3470225873,105043,7,,Marek Semjan,U,,SVK,24.6324435318,7-5 6-4,3,QF,,,,,,,,,,,,,,,,,,,,534,58,641,35
-2012-M-FU-ARM-01A-2012,Armenia F1,Clay,32,S,20120702,27,105932,6,,Nikoloz Basilashvili,R,185,RUS,20.3367556468,104873,3,,Aleksandr Nedovyesov,R,,KAZ,25.3579739904,7-5 3-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,582,46,469,71
+2012-M-FU-ARM-01A-2012,Armenia F1,Clay,32,S,20120702,27,105932,6,,Nikoloz Basilashvili,R,185,GEO,20.3367556468,104873,3,,Aleksandr Nedovyesov,R,,KAZ,25.3579739904,7-5 3-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,582,46,469,71
 2012-M-FU-ARM-01A-2012,Armenia F1,Clay,32,S,20120702,28,105307,,,Jan Blecha,R,,CZE,23.2717316906,106273,,LL,Ronald Slobodchikov,R,,RUS,18.5571526352,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,1333,3,1837,1
 2012-M-FU-ARM-01A-2012,Armenia F1,Clay,32,S,20120702,29,105963,5,,Arthur De Greef,R,,BEL,20.2464065708,105720,4,,Stanislav Vovk,R,185,RUS,21.3470225873,4-6 6-3 7-6(4),3,SF,,,,,,,,,,,,,,,,,,,,571,48,534,58
-2012-M-FU-ARM-01A-2012,Armenia F1,Clay,32,S,20120702,30,105932,6,,Nikoloz Basilashvili,R,185,RUS,20.3367556468,105307,,,Jan Blecha,R,,CZE,23.2717316906,6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,582,46,1333,3
-2012-M-FU-ARM-01A-2012,Armenia F1,Clay,32,S,20120702,31,105963,5,,Arthur De Greef,R,,BEL,20.2464065708,105932,6,,Nikoloz Basilashvili,R,185,RUS,20.3367556468,6-0 6-1,3,F,,,,,,,,,,,,,,,,,,,,571,48,582,46
+2012-M-FU-ARM-01A-2012,Armenia F1,Clay,32,S,20120702,30,105932,6,,Nikoloz Basilashvili,R,185,GEO,20.3367556468,105307,,,Jan Blecha,R,,CZE,23.2717316906,6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,582,46,1333,3
+2012-M-FU-ARM-01A-2012,Armenia F1,Clay,32,S,20120702,31,105963,5,,Arthur De Greef,R,,BEL,20.2464065708,105932,6,,Nikoloz Basilashvili,R,185,GEO,20.3367556468,6-0 6-1,3,F,,,,,,,,,,,,,,,,,,,,571,48,582,46
 2012-M-FU-BEL-02A-2012,Belgium F2,Clay,32,S,20120702,1,104503,1,Q,Guillermo Hormazabal,R,,CHI,27.3456536619,123784,,Q,Fedor Baev,R,,NOR,19.4168377823,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,296,153,,
 2012-M-FU-BEL-02A-2012,Belgium F2,Clay,32,S,20120702,2,105323,,,Wesley Koolhof,R,,NED,23.189596167,104946,,LL,Olaf De Weerdt,U,,BEL,25.0431211499,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,851,14,1837,1
 2012-M-FU-BEL-02A-2012,Belgium F2,Clay,32,S,20120702,3,105521,,,Juan Sebastian Vivanco,R,,ECU,22.1984941821,103872,,Q,Dimitar Grabuloski,U,,MKD,30.636550308,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,722,25,,
@@ -9114,7 +9114,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-M-FU-ARM-02A-2012,Armenia F2,Clay,32,S,20120709,1,105739,1,,Stanislav Poplavskyy,R,,UKR,21.2703627652,106169,,,Vladyslav Manafov,U,,UKR,19.2142368241,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,463,73,1218,4
 2012-M-FU-ARM-02A-2012,Armenia F2,Clay,32,S,20120709,2,106037,,Q,Yahor Yatsyk,R,,BLR,19.923340178,105605,,,Mikhail Balmashev,U,,RUS,21.9274469541,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1193,4,1490,2
 2012-M-FU-ARM-02A-2012,Armenia F2,Clay,32,S,20120709,3,106135,,Q,Patrick Elias,R,,GER,19.3620807666,106372,,Q,Petr Arkhipov,U,,RUS,17.5742642026,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1709,1,1181,4
-2012-M-FU-ARM-02A-2012,Armenia F2,Clay,32,S,20120709,4,105932,5,,Nikoloz Basilashvili,R,185,RUS,20.3750855578,106215,,,Mikhail Vaks,R,,RUS,18.9760438056,6-1 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,459,74,1027,7
+2012-M-FU-ARM-02A-2012,Armenia F2,Clay,32,S,20120709,4,105932,5,,Nikoloz Basilashvili,R,185,GEO,20.3750855578,106215,,,Mikhail Vaks,R,,RUS,18.9760438056,6-1 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,459,74,1027,7
 2012-M-FU-ARM-02A-2012,Armenia F2,Clay,32,S,20120709,5,105720,3,,Stanislav Vovk,R,185,RUS,21.3853524983,104213,,WC,Tigran Martirosyan,R,,ARM,28.9938398357,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,509,61,,
 2012-M-FU-ARM-02A-2012,Armenia F2,Clay,32,S,20120709,6,104567,,,Mikolaj Szmyrgala,R,,POL,27.0773442847,105496,,,Anton Manegin,R,,RUS,22.3271731691,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,976,8,1045,7
 2012-M-FU-ARM-02A-2012,Armenia F2,Clay,32,S,20120709,7,111194,,Q,Evgeny Elistratov,U,,RUS,17.53045859,105886,,,Anton Galkin,U,,RUS,20.5420944559,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1339,3
@@ -9128,18 +9128,18 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-M-FU-ARM-02A-2012,Armenia F2,Clay,32,S,20120709,15,105533,,Q,Dmitry Surchenko,U,,RUS,22.1875427789,106020,,Q,Denys Pume,R,,UKR,20.0684462697,4-6 6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1867,1,1709,1
 2012-M-FU-ARM-02A-2012,Armenia F2,Clay,32,S,20120709,16,104873,2,,Aleksandr Nedovyesov,R,,KAZ,25.3963039014,105813,,,Ilia Shatskiy,R,,RUS,20.9691991786,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,451,75,923,10
 2012-M-FU-ARM-02A-2012,Armenia F2,Clay,32,S,20120709,17,105739,1,,Stanislav Poplavskyy,R,,UKR,21.2703627652,106037,,Q,Yahor Yatsyk,R,,BLR,19.923340178,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,463,73,1193,4
-2012-M-FU-ARM-02A-2012,Armenia F2,Clay,32,S,20120709,18,105932,5,,Nikoloz Basilashvili,R,185,RUS,20.3750855578,106135,,Q,Patrick Elias,R,,GER,19.3620807666,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,459,74,1709,1
+2012-M-FU-ARM-02A-2012,Armenia F2,Clay,32,S,20120709,18,105932,5,,Nikoloz Basilashvili,R,185,GEO,20.3750855578,106135,,Q,Patrick Elias,R,,GER,19.3620807666,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,459,74,1709,1
 2012-M-FU-ARM-02A-2012,Armenia F2,Clay,32,S,20120709,19,105720,3,,Stanislav Vovk,R,185,RUS,21.3853524983,104567,,,Mikolaj Szmyrgala,R,,POL,27.0773442847,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,509,61,976,8
 2012-M-FU-ARM-02A-2012,Armenia F2,Clay,32,S,20120709,20,104603,8,,Andrei Ciumac,L,,MDA,26.8281998631,111194,,Q,Evgeny Elistratov,U,,RUS,17.53045859,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,829,15,,
 2012-M-FU-ARM-02A-2012,Armenia F2,Clay,32,S,20120709,21,105043,6,,Marek Semjan,U,,SVK,24.6707734428,123773,,Q,Giorgi Javakhishvili,R,,GEO,16.7118412047,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,638,35,,
 2012-M-FU-ARM-02A-2012,Armenia F2,Clay,32,S,20120709,22,105963,4,,Arthur De Greef,R,,BEL,20.2847364819,105307,,,Jan Blecha,R,,CZE,23.3100616016,3-6 7-6(4) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,506,62,1339,3
 2012-M-FU-ARM-02A-2012,Armenia F2,Clay,32,S,20120709,23,104853,7,,Jiri Skoloudik,R,,CZE,25.4976043806,105201,,,Marc Abdulnour,R,,SYR,23.909650924,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,867,13,1325,3
 2012-M-FU-ARM-02A-2012,Armenia F2,Clay,32,S,20120709,24,104873,2,,Aleksandr Nedovyesov,R,,KAZ,25.3963039014,105533,,Q,Dmitry Surchenko,U,,RUS,22.1875427789,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,451,75,1867,1
-2012-M-FU-ARM-02A-2012,Armenia F2,Clay,32,S,20120709,25,105932,5,,Nikoloz Basilashvili,R,185,RUS,20.3750855578,105739,1,,Stanislav Poplavskyy,R,,UKR,21.2703627652,2-6 7-6(4) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,459,74,463,73
+2012-M-FU-ARM-02A-2012,Armenia F2,Clay,32,S,20120709,25,105932,5,,Nikoloz Basilashvili,R,185,GEO,20.3750855578,105739,1,,Stanislav Poplavskyy,R,,UKR,21.2703627652,2-6 7-6(4) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,459,74,463,73
 2012-M-FU-ARM-02A-2012,Armenia F2,Clay,32,S,20120709,26,105720,3,,Stanislav Vovk,R,185,RUS,21.3853524983,104603,8,,Andrei Ciumac,L,,MDA,26.8281998631,6-2 2-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,509,61,829,15
 2012-M-FU-ARM-02A-2012,Armenia F2,Clay,32,S,20120709,27,105963,4,,Arthur De Greef,R,,BEL,20.2847364819,105043,6,,Marek Semjan,U,,SVK,24.6707734428,2-6 6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,506,62,638,35
 2012-M-FU-ARM-02A-2012,Armenia F2,Clay,32,S,20120709,28,104873,2,,Aleksandr Nedovyesov,R,,KAZ,25.3963039014,104853,7,,Jiri Skoloudik,R,,CZE,25.4976043806,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,451,75,867,13
-2012-M-FU-ARM-02A-2012,Armenia F2,Clay,32,S,20120709,29,105720,3,,Stanislav Vovk,R,185,RUS,21.3853524983,105932,5,,Nikoloz Basilashvili,R,185,RUS,20.3750855578,6-3 6-0,3,SF,,,,,,,,,,,,,,,,,,,,509,61,459,74
+2012-M-FU-ARM-02A-2012,Armenia F2,Clay,32,S,20120709,29,105720,3,,Stanislav Vovk,R,185,RUS,21.3853524983,105932,5,,Nikoloz Basilashvili,R,185,GEO,20.3750855578,6-3 6-0,3,SF,,,,,,,,,,,,,,,,,,,,509,61,459,74
 2012-M-FU-ARM-02A-2012,Armenia F2,Clay,32,S,20120709,30,104873,2,,Aleksandr Nedovyesov,R,,KAZ,25.3963039014,105963,4,,Arthur De Greef,R,,BEL,20.2847364819,3-0 RET,3,SF,,,,,,,,,,,,,,,,,,,,451,75,506,62
 2012-M-FU-ARM-02A-2012,Armenia F2,Clay,32,S,20120709,31,104873,2,,Aleksandr Nedovyesov,R,,KAZ,25.3963039014,105720,3,,Stanislav Vovk,R,185,RUS,21.3853524983,4-6 6-4 7-5,3,F,,,,,,,,,,,,,,,,,,,,451,75,509,61
 2012-M-FU-AUT-01A-2012,Austria F1,Clay,32,S,20120709,1,105675,1,Q,Marc Rath,R,,AUT,21.5934291581,105630,,,Tomislav Ternar,U,,SLO,21.8124572211,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,431,80,856,13
@@ -10650,7 +10650,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-M-FU-RUS-10A-2012,Russia F10,Clay,32,S,20120730,10,104980,,,Anton Zaitsev,U,,RUS,25.0239561944,121841,,Q,Nikita Fomine,R,,RUS,21.3442847365,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,948,10,,
 2012-M-FU-RUS-10A-2012,Russia F10,Clay,32,S,20120730,11,105987,,,Mikhail Biryukov,R,,RUS,20.2546201232,105886,,Q,Anton Galkin,U,,RUS,20.5995893224,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,565,49,1367,3
 2012-M-FU-RUS-10A-2012,Russia F10,Clay,32,S,20120730,12,105130,,,Vladimir Uzhylovsky,R,183,UKR,24.34770705,104557,4,,Andis Juska,R,,LAT,27.189596167,6-1 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,763,21,377,108
-2012-M-FU-RUS-10A-2012,Russia F10,Clay,32,S,20120730,13,105932,6,,Nikoloz Basilashvili,R,185,RUS,20.4325804244,106234,,WC,Aslan Karatsev,R,,RUS,18.9021218344,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,452,78,766,21
+2012-M-FU-RUS-10A-2012,Russia F10,Clay,32,S,20120730,13,105932,6,,Nikoloz Basilashvili,R,185,GEO,20.4325804244,106234,,WC,Aslan Karatsev,R,,RUS,18.9021218344,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,452,78,766,21
 2012-M-FU-RUS-10A-2012,Russia F10,Clay,32,S,20120730,14,105813,,,Ilia Shatskiy,R,,RUS,21.0266940452,105533,,Q,Dmitry Surchenko,U,,RUS,22.2450376454,6-7(6) 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,928,11,1521,2
 2012-M-FU-RUS-10A-2012,Russia F10,Clay,32,S,20120730,15,105076,,Q,Victor Kozin,R,,RUS,24.5393566051,123888,,WC,Mihail Khaldeev,R,,RUS,17.8973305955,6-2 1-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1091,6,,
 2012-M-FU-RUS-10A-2012,Russia F10,Clay,32,S,20120730,16,104162,,,Deniss Pavlovs,R,,LAT,29.2922655715,104778,2,,Andrey Kumantsov,R,,RUS,25.9876796715,6-3 3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,624,38,305,151
@@ -10660,14 +10660,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-M-FU-RUS-10A-2012,Russia F10,Clay,32,S,20120730,20,105029,7,,Sergey Betov,R,,BLR,24.7912388775,103222,,,Sergei Krotiouk,R,,RUS,34.1081451061,6-3 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,516,60,615,39
 2012-M-FU-RUS-10A-2012,Russia F10,Clay,32,S,20120730,21,104980,,,Anton Zaitsev,U,,RUS,25.0239561944,105720,5,,Stanislav Vovk,R,185,RUS,21.4428473648,4-6 7-6(2) 6-0,3,R16,,,,,,,,,,,,,,,,,,,,948,10,417,91
 2012-M-FU-RUS-10A-2012,Russia F10,Clay,32,S,20120730,22,105987,,,Mikhail Biryukov,R,,RUS,20.2546201232,105130,,,Vladimir Uzhylovsky,R,183,UKR,24.34770705,6-4 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,565,49,763,21
-2012-M-FU-RUS-10A-2012,Russia F10,Clay,32,S,20120730,23,105932,6,,Nikoloz Basilashvili,R,185,RUS,20.4325804244,105813,,,Ilia Shatskiy,R,,RUS,21.0266940452,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,452,78,928,11
+2012-M-FU-RUS-10A-2012,Russia F10,Clay,32,S,20120730,23,105932,6,,Nikoloz Basilashvili,R,185,GEO,20.4325804244,105813,,,Ilia Shatskiy,R,,RUS,21.0266940452,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,452,78,928,11
 2012-M-FU-RUS-10A-2012,Russia F10,Clay,32,S,20120730,24,104162,,,Deniss Pavlovs,R,,LAT,29.2922655715,105076,,Q,Victor Kozin,R,,RUS,24.5393566051,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,624,38,1091,6
 2012-M-FU-RUS-10A-2012,Russia F10,Clay,32,S,20120730,25,104627,1,,Boy Westerhof,R,,NED,26.765229295,105545,8,,Mikhail Fufygin,U,,RUS,22.2149212868,6-3 3-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,244,197,504,64
 2012-M-FU-RUS-10A-2012,Russia F10,Clay,32,S,20120730,26,104720,3,,Florian Reynet,R,,FRA,26.2943189596,105029,7,,Sergey Betov,R,,BLR,24.7912388775,6-0 6-3,3,QF,,,,,,,,,,,,,,,,,,,,372,110,516,60
 2012-M-FU-RUS-10A-2012,Russia F10,Clay,32,S,20120730,27,104980,,,Anton Zaitsev,U,,RUS,25.0239561944,105987,,,Mikhail Biryukov,R,,RUS,20.2546201232,6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,948,10,565,49
-2012-M-FU-RUS-10A-2012,Russia F10,Clay,32,S,20120730,28,105932,6,,Nikoloz Basilashvili,R,185,RUS,20.4325804244,104162,,,Deniss Pavlovs,R,,LAT,29.2922655715,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,452,78,624,38
+2012-M-FU-RUS-10A-2012,Russia F10,Clay,32,S,20120730,28,105932,6,,Nikoloz Basilashvili,R,185,GEO,20.4325804244,104162,,,Deniss Pavlovs,R,,LAT,29.2922655715,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,452,78,624,38
 2012-M-FU-RUS-10A-2012,Russia F10,Clay,32,S,20120730,29,104627,1,,Boy Westerhof,R,,NED,26.765229295,104720,3,,Florian Reynet,R,,FRA,26.2943189596,7-6(6) 5-7 6-0,3,SF,,,,,,,,,,,,,,,,,,,,244,197,372,110
-2012-M-FU-RUS-10A-2012,Russia F10,Clay,32,S,20120730,30,104980,,,Anton Zaitsev,U,,RUS,25.0239561944,105932,6,,Nikoloz Basilashvili,R,185,RUS,20.4325804244,6-4 2-6 7-6(3),3,SF,,,,,,,,,,,,,,,,,,,,948,10,452,78
+2012-M-FU-RUS-10A-2012,Russia F10,Clay,32,S,20120730,30,104980,,,Anton Zaitsev,U,,RUS,25.0239561944,105932,6,,Nikoloz Basilashvili,R,185,GEO,20.4325804244,6-4 2-6 7-6(3),3,SF,,,,,,,,,,,,,,,,,,,,948,10,452,78
 2012-M-FU-RUS-10A-2012,Russia F10,Clay,32,S,20120730,31,104627,1,,Boy Westerhof,R,,NED,26.765229295,104980,,,Anton Zaitsev,U,,RUS,25.0239561944,7-5 6-1,3,F,,,,,,,,,,,,,,,,,,,,244,197,948,10
 2012-M-FU-SRB-07A-2012,Serbia F7,Clay,32,S,20120730,1,105226,1,,Attila Balazs,R,180,HUN,23.8384668036,105599,,,Richard Waite,R,,GER,21.9986310746,6-4 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,232,214,757,22
 2012-M-FU-SRB-07A-2012,Serbia F7,Clay,32,S,20120730,2,105852,,SE,Viktor Filipenko,U,,HUN,20.8459958932,105045,,Q,Robert Belak,R,,SRB,24.7173169062,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1154,5,,
@@ -10990,7 +10990,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-M-FU-GER-13A-2012,Germany F13,Clay,32,S,20120806,1,104640,1,,Pablo Galdon,R,,ARG,26.688569473,105697,,,Marco Bortolotti,R,,ITA,21.5414099932,6-3 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,281,163,959,10
 2012-M-FU-GER-13A-2012,Germany F13,Clay,32,S,20120806,2,105112,,Q,Marc Meigel,R,,GER,24.424366872,106119,,Q,Constantin Christ,U,,GER,19.5318275154,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1418,2,1231,4
 2012-M-FU-GER-13A-2012,Germany F13,Clay,32,S,20120806,3,105592,,,Ralph Regus,L,,GER,22.0533880903,105955,,,Sebastian Lavie,R,,NZL,20.386036961,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,851,15,833,16
-2012-M-FU-GER-13A-2012,Germany F13,Clay,32,S,20120806,4,111162,,WC,Daniel Baumann,R,,GER,,105267,7,,Kevin Botti,L,,FRA,23.5592060233,5-7 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,628,38
+2012-M-FU-GER-13A-2012,Germany F13,Clay,32,S,20120806,4,111162,,WC,Daniel Baumann,R,,GER,17.492128679,105267,7,,Kevin Botti,L,,FRA,23.5592060233,5-7 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,628,38
 2012-M-FU-GER-13A-2012,Germany F13,Clay,32,S,20120806,5,104740,3,,Steven Moneke,R,,GER,26.1957563313,104960,,,Miguel Angel Reyes Varela,R,,MEX,25.1279945243,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,405,95,696,28
 2012-M-FU-GER-13A-2012,Germany F13,Clay,32,S,20120806,6,106310,,WC,Alexander Ritschard,R,,SUI,18.3709787817,106019,,Q,Maximilian Wilde,U,,GER,20.1478439425,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1113,6,1104,6
 2012-M-FU-GER-13A-2012,Germany F13,Clay,32,S,20120806,7,104823,,,Bruno Rodriguez,R,,MEX,25.7741273101,106223,,Q,Aleksandre Metreveli,R,,GEO,18.9897330595,4-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,958,10,1054,7
@@ -11004,7 +11004,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-M-FU-GER-13A-2012,Germany F13,Clay,32,S,20120806,15,106140,,WC,Matthias Wunner,R,,GER,19.40862423,106312,,,Kevin Kaczynski,R,,GER,18.3353867214,6-4 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,863,14,1047,7
 2012-M-FU-GER-13A-2012,Germany F13,Clay,32,S,20120806,16,104907,2,,Jose Rubin Statham,R,183,NZL,25.2840520192,106196,,Q,Pascal Meis,U,,GER,19.1540041068,3-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,333,131,1224,4
 2012-M-FU-GER-13A-2012,Germany F13,Clay,32,S,20120806,17,105112,,Q,Marc Meigel,R,,GER,24.424366872,104640,1,,Pablo Galdon,R,,ARG,26.688569473,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1418,2,281,163
-2012-M-FU-GER-13A-2012,Germany F13,Clay,32,S,20120806,18,105592,,,Ralph Regus,L,,GER,22.0533880903,111162,,WC,Daniel Baumann,R,,GER,,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,851,15,,
+2012-M-FU-GER-13A-2012,Germany F13,Clay,32,S,20120806,18,105592,,,Ralph Regus,L,,GER,22.0533880903,111162,,WC,Daniel Baumann,R,,GER,17.492128679,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,851,15,,
 2012-M-FU-GER-13A-2012,Germany F13,Clay,32,S,20120806,19,104740,3,,Steven Moneke,R,,GER,26.1957563313,106310,,WC,Alexander Ritschard,R,,SUI,18.3709787817,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,405,95,1113,6
 2012-M-FU-GER-13A-2012,Germany F13,Clay,32,S,20120806,20,105599,,,Richard Waite,R,,GER,22.0177960301,104823,,,Bruno Rodriguez,R,,MEX,25.7741273101,6-3 0-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,754,23,958,10
 2012-M-FU-GER-13A-2012,Germany F13,Clay,32,S,20120806,21,105525,5,,Dane Propoggia,R,,AUS,22.2861054073,105953,,,Dominik Schulz,L,,GER,20.3915126626,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,563,49,848,15
@@ -11091,7 +11091,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-M-FU-RUS-11A-2012,Russia F11,Clay,32,S,20120806,9,106248,8,,Edoardo Eremin,R,,ITA,18.8364134155,110531,,WC,Dmitri Marfinsky,L,,RUS,22.945927447,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,529,57,,
 2012-M-FU-RUS-11A-2012,Russia F11,Clay,32,S,20120806,10,104953,,Q,Nikolai Fidirko,R,,BLR,25.144421629,105213,,,Andrei Levine,R,,RUS,23.9014373717,7-6(5) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1017,8,981,9
 2012-M-FU-RUS-11A-2012,Russia F11,Clay,32,S,20120806,11,105813,,,Ilia Shatskiy,R,,RUS,21.0458590007,122491,,Q,Georgy Shashkanov,U,,RUS,18.5927446954,6-3 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,927,11,,
-2012-M-FU-RUS-11A-2012,Russia F11,Clay,32,S,20120806,12,105932,4,,Nikoloz Basilashvili,R,185,RUS,20.4517453799,105958,,,Richard Muzaev,R,,RUS,20.3778234086,6-4 5-7 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,449,78,662,32
+2012-M-FU-RUS-11A-2012,Russia F11,Clay,32,S,20120806,12,105932,4,,Nikoloz Basilashvili,R,185,GEO,20.4517453799,105958,,,Richard Muzaev,R,,RUS,20.3778234086,6-4 5-7 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,449,78,662,32
 2012-M-FU-RUS-11A-2012,Russia F11,Clay,32,S,20120806,13,105545,7,,Mikhail Fufygin,U,,RUS,22.2340862423,105750,,,Vitaliy Kachanovskiy,U,,RUS,21.3196440794,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,502,64,1123,6
 2012-M-FU-RUS-11A-2012,Russia F11,Clay,32,S,20120806,14,106138,,Q,Yaraslau Shyla,R,,BLR,19.4223134839,123889,,WC,Fedor Andrienko,L,,RUS,17.4948665298,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,806,18,,
 2012-M-FU-RUS-11A-2012,Russia F11,Clay,32,S,20120806,15,105076,,,Victor Kozin,R,,RUS,24.5585215606,105364,,Q,Leo Rosenberg,L,,USA,23.1074606434,1-6 7-6(1) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1098,6,,
@@ -11101,16 +11101,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-M-FU-RUS-11A-2012,Russia F11,Clay,32,S,20120806,19,105987,,,Mikhail Biryukov,R,,RUS,20.2737850787,105130,,,Vladimir Uzhylovsky,R,183,UKR,24.3668720055,6-2 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,564,49,758,22
 2012-M-FU-RUS-11A-2012,Russia F11,Clay,32,S,20120806,20,104729,6,,Ivan Nedelko,R,,RUS,26.2368240931,106215,,,Mikhail Vaks,R,,RUS,19.0527036277,3-6 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,491,66,1058,7
 2012-M-FU-RUS-11A-2012,Russia F11,Clay,32,S,20120806,21,106248,8,,Edoardo Eremin,R,,ITA,18.8364134155,104953,,Q,Nikolai Fidirko,R,,BLR,25.144421629,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,529,57,1017,8
-2012-M-FU-RUS-11A-2012,Russia F11,Clay,32,S,20120806,22,105932,4,,Nikoloz Basilashvili,R,185,RUS,20.4517453799,105813,,,Ilia Shatskiy,R,,RUS,21.0458590007,6-4 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,449,78,927,11
+2012-M-FU-RUS-11A-2012,Russia F11,Clay,32,S,20120806,22,105932,4,,Nikoloz Basilashvili,R,185,GEO,20.4517453799,105813,,,Ilia Shatskiy,R,,RUS,21.0458590007,6-4 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,449,78,927,11
 2012-M-FU-RUS-11A-2012,Russia F11,Clay,32,S,20120806,23,105545,7,,Mikhail Fufygin,U,,RUS,22.2340862423,106138,,Q,Yaraslau Shyla,R,,BLR,19.4223134839,3-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,502,64,806,18
 2012-M-FU-RUS-11A-2012,Russia F11,Clay,32,S,20120806,24,104778,2,,Andrey Kumantsov,R,,RUS,26.006844627,105076,,,Victor Kozin,R,,RUS,24.5585215606,6-7(2) 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,303,151,1098,6
 2012-M-FU-RUS-11A-2012,Russia F11,Clay,32,S,20120806,25,104627,1,,Boy Westerhof,R,,NED,26.7843942505,105645,5,,Alexander Lobkov,R,,RUS,21.8316221766,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,244,197,452,78
 2012-M-FU-RUS-11A-2012,Russia F11,Clay,32,S,20120806,26,104729,6,,Ivan Nedelko,R,,RUS,26.2368240931,105987,,,Mikhail Biryukov,R,,RUS,20.2737850787,7-6(3) 6-7(4) 7-5,3,QF,,,,,,,,,,,,,,,,,,,,491,66,564,49
-2012-M-FU-RUS-11A-2012,Russia F11,Clay,32,S,20120806,27,105932,4,,Nikoloz Basilashvili,R,185,RUS,20.4517453799,106248,8,,Edoardo Eremin,R,,ITA,18.8364134155,6-3 3-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,449,78,529,57
+2012-M-FU-RUS-11A-2012,Russia F11,Clay,32,S,20120806,27,105932,4,,Nikoloz Basilashvili,R,185,GEO,20.4517453799,106248,8,,Edoardo Eremin,R,,ITA,18.8364134155,6-3 3-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,449,78,529,57
 2012-M-FU-RUS-11A-2012,Russia F11,Clay,32,S,20120806,28,104778,2,,Andrey Kumantsov,R,,RUS,26.006844627,105545,7,,Mikhail Fufygin,U,,RUS,22.2340862423,6-1 6-0,3,QF,,,,,,,,,,,,,,,,,,,,303,151,502,64
 2012-M-FU-RUS-11A-2012,Russia F11,Clay,32,S,20120806,29,104627,1,,Boy Westerhof,R,,NED,26.7843942505,104729,6,,Ivan Nedelko,R,,RUS,26.2368240931,6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,244,197,491,66
-2012-M-FU-RUS-11A-2012,Russia F11,Clay,32,S,20120806,30,105932,4,,Nikoloz Basilashvili,R,185,RUS,20.4517453799,104778,2,,Andrey Kumantsov,R,,RUS,26.006844627,6-2 4-1 RET,3,SF,,,,,,,,,,,,,,,,,,,,449,78,303,151
-2012-M-FU-RUS-11A-2012,Russia F11,Clay,32,S,20120806,31,104627,1,,Boy Westerhof,R,,NED,26.7843942505,105932,4,,Nikoloz Basilashvili,R,185,RUS,20.4517453799,6-4 6-4,3,F,,,,,,,,,,,,,,,,,,,,244,197,449,78
+2012-M-FU-RUS-11A-2012,Russia F11,Clay,32,S,20120806,30,105932,4,,Nikoloz Basilashvili,R,185,GEO,20.4517453799,104778,2,,Andrey Kumantsov,R,,RUS,26.006844627,6-2 4-1 RET,3,SF,,,,,,,,,,,,,,,,,,,,449,78,303,151
+2012-M-FU-RUS-11A-2012,Russia F11,Clay,32,S,20120806,31,104627,1,,Boy Westerhof,R,,NED,26.7843942505,105932,4,,Nikoloz Basilashvili,R,185,GEO,20.4517453799,6-4 6-4,3,F,,,,,,,,,,,,,,,,,,,,244,197,449,78
 2012-M-FU-SRB-08A-2012,Serbia F8,Clay,32,S,20120806,1,105711,1,,Dino Marcan,R,,CRO,21.4811772758,105544,,Q,Lorenzo Papasidero,R,,ITA,22.2368240931,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,322,138,1934,1
 2012-M-FU-SRB-08A-2012,Serbia F8,Clay,32,S,20120806,2,106132,,,Toby Martin,R,,GBR,19.4606433949,106154,,,Duje Kekez,R,,CRO,19.3538672142,6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,788,20,638,36
 2012-M-FU-SRB-08A-2012,Serbia F8,Clay,32,S,20120806,3,105460,,,Matthew Short,U,,GBR,22.5763175907,106247,,,Nik Razborsek,L,,SLO,18.8391512663,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,774,21,1010,8
@@ -11658,7 +11658,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-M-FU-RUS-12A-2012,Russia F12,Clay,32,S,20120813,2,105958,,,Richard Muzaev,R,,RUS,20.3969883641,111193,,WC,Alexander Vasilenko,R,,RUS,17.4620123203,7-6(5) 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,676,30,,
 2012-M-FU-RUS-12A-2012,Russia F12,Clay,32,S,20120813,3,106138,,Q,Yaraslau Shyla,R,,BLR,19.4414784394,105987,,,Mikhail Biryukov,R,,RUS,20.2929500342,7-6(2) 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,803,18,551,52
 2012-M-FU-RUS-12A-2012,Russia F12,Clay,32,S,20120813,4,105029,8,,Sergey Betov,R,,BLR,24.8295687885,104034,,Q,Dmitry Vlasov,R,188,RUS,30.0917180014,7-6(4) 5-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,515,60,,
-2012-M-FU-RUS-12A-2012,Russia F12,Clay,32,S,20120813,5,105932,4,,Nikoloz Basilashvili,R,185,RUS,20.4709103354,105097,,,Valery Rudnev,R,,RUS,24.4900752909,2-6 7-6(3) 4-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,448,78,742,23
+2012-M-FU-RUS-12A-2012,Russia F12,Clay,32,S,20120813,5,105932,4,,Nikoloz Basilashvili,R,185,GEO,20.4709103354,105097,,,Valery Rudnev,R,,RUS,24.4900752909,2-6 7-6(3) 4-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,448,78,742,23
 2012-M-FU-RUS-12A-2012,Russia F12,Clay,32,S,20120813,6,105213,,Q,Andrei Levine,R,,RUS,23.9206023272,111793,,Q,Aleksandr Ivanovich Spirin,R,,RUS,17.1471594798,6-3 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,984,9,,
 2012-M-FU-RUS-12A-2012,Russia F12,Clay,32,S,20120813,7,106234,,,Aslan Karatsev,R,,RUS,18.9404517454,105364,,Q,Leo Rosenberg,L,,USA,23.1266255989,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,771,21,,
 2012-M-FU-RUS-12A-2012,Russia F12,Clay,32,S,20120813,8,104729,6,,Ivan Nedelko,R,,RUS,26.2559890486,105076,,,Victor Kozin,R,,RUS,24.5776865161,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,482,70,1050,7
@@ -11672,19 +11672,19 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-M-FU-RUS-12A-2012,Russia F12,Clay,32,S,20120813,16,104778,2,,Andrey Kumantsov,R,,RUS,26.0260095825,111194,,WC,Evgeny Elistratov,U,,RUS,17.6262833676,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,307,151,1651,1
 2012-M-FU-RUS-12A-2012,Russia F12,Clay,32,S,20120813,17,104975,1,,Evgeny Kirillov,R,,RUS,25.0841889117,105958,,,Richard Muzaev,R,,RUS,20.3969883641,7-6(2) 2-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,267,178,676,30
 2012-M-FU-RUS-12A-2012,Russia F12,Clay,32,S,20120813,18,106138,,Q,Yaraslau Shyla,R,,BLR,19.4414784394,105029,8,,Sergey Betov,R,,BLR,24.8295687885,1-6 6-3 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,803,18,515,60
-2012-M-FU-RUS-12A-2012,Russia F12,Clay,32,S,20120813,19,105932,4,,Nikoloz Basilashvili,R,185,RUS,20.4709103354,105213,,Q,Andrei Levine,R,,RUS,23.9206023272,6-3 RET,3,R16,,,,,,,,,,,,,,,,,,,,448,78,984,9
+2012-M-FU-RUS-12A-2012,Russia F12,Clay,32,S,20120813,19,105932,4,,Nikoloz Basilashvili,R,185,GEO,20.4709103354,105213,,Q,Andrei Levine,R,,RUS,23.9206023272,6-3 RET,3,R16,,,,,,,,,,,,,,,,,,,,448,78,984,9
 2012-M-FU-RUS-12A-2012,Russia F12,Clay,32,S,20120813,20,106234,,,Aslan Karatsev,R,,RUS,18.9404517454,104729,6,,Ivan Nedelko,R,,RUS,26.2559890486,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,771,21,482,70
 2012-M-FU-RUS-12A-2012,Russia F12,Clay,32,S,20120813,21,105645,5,,Alexander Lobkov,R,,RUS,21.8507871321,105130,,,Vladimir Uzhylovsky,R,183,UKR,24.386036961,5-7 6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,450,78,746,23
 2012-M-FU-RUS-12A-2012,Russia F12,Clay,32,S,20120813,22,104980,,,Anton Zaitsev,U,,RUS,25.0622861054,105813,,,Ilia Shatskiy,R,,RUS,21.0650239562,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,726,25,907,12
 2012-M-FU-RUS-12A-2012,Russia F12,Clay,32,S,20120813,23,105545,7,,Mikhail Fufygin,U,,RUS,22.2532511978,106215,,,Mikhail Vaks,R,,RUS,19.0718685832,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,497,66,1054,7
 2012-M-FU-RUS-12A-2012,Russia F12,Clay,32,S,20120813,24,104778,2,,Andrey Kumantsov,R,,RUS,26.0260095825,106051,,Q,Shalva Dzhanashia,L,,RUS,19.9644079398,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,307,151,1807,1
 2012-M-FU-RUS-12A-2012,Russia F12,Clay,32,S,20120813,25,104975,1,,Evgeny Kirillov,R,,RUS,25.0841889117,106138,,Q,Yaraslau Shyla,R,,BLR,19.4414784394,6-3 6-0,3,QF,,,,,,,,,,,,,,,,,,,,267,178,803,18
-2012-M-FU-RUS-12A-2012,Russia F12,Clay,32,S,20120813,26,105932,4,,Nikoloz Basilashvili,R,185,RUS,20.4709103354,106234,,,Aslan Karatsev,R,,RUS,18.9404517454,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,448,78,771,21
+2012-M-FU-RUS-12A-2012,Russia F12,Clay,32,S,20120813,26,105932,4,,Nikoloz Basilashvili,R,185,GEO,20.4709103354,106234,,,Aslan Karatsev,R,,RUS,18.9404517454,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,448,78,771,21
 2012-M-FU-RUS-12A-2012,Russia F12,Clay,32,S,20120813,27,105645,5,,Alexander Lobkov,R,,RUS,21.8507871321,104980,,,Anton Zaitsev,U,,RUS,25.0622861054,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,450,78,726,25
 2012-M-FU-RUS-12A-2012,Russia F12,Clay,32,S,20120813,28,104778,2,,Andrey Kumantsov,R,,RUS,26.0260095825,105545,7,,Mikhail Fufygin,U,,RUS,22.2532511978,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,307,151,497,66
-2012-M-FU-RUS-12A-2012,Russia F12,Clay,32,S,20120813,29,105932,4,,Nikoloz Basilashvili,R,185,RUS,20.4709103354,104975,1,,Evgeny Kirillov,R,,RUS,25.0841889117,6-1 6-4,3,SF,,,,,,,,,,,,,,,,,,,,448,78,267,178
+2012-M-FU-RUS-12A-2012,Russia F12,Clay,32,S,20120813,29,105932,4,,Nikoloz Basilashvili,R,185,GEO,20.4709103354,104975,1,,Evgeny Kirillov,R,,RUS,25.0841889117,6-1 6-4,3,SF,,,,,,,,,,,,,,,,,,,,448,78,267,178
 2012-M-FU-RUS-12A-2012,Russia F12,Clay,32,S,20120813,30,105645,5,,Alexander Lobkov,R,,RUS,21.8507871321,104778,2,,Andrey Kumantsov,R,,RUS,26.0260095825,2-6 6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,450,78,307,151
-2012-M-FU-RUS-12A-2012,Russia F12,Clay,32,S,20120813,31,105932,4,,Nikoloz Basilashvili,R,185,RUS,20.4709103354,105645,5,,Alexander Lobkov,R,,RUS,21.8507871321,6-3 7-6(0),3,F,,,,,,,,,,,,,,,,,,,,448,78,450,78
+2012-M-FU-RUS-12A-2012,Russia F12,Clay,32,S,20120813,31,105932,4,,Nikoloz Basilashvili,R,185,GEO,20.4709103354,105645,5,,Alexander Lobkov,R,,RUS,21.8507871321,6-3 7-6(0),3,F,,,,,,,,,,,,,,,,,,,,448,78,450,78
 2012-M-FU-SRB-09A-2012,Serbia F9,Clay,32,S,20120813,1,105711,1,,Dino Marcan,R,,CRO,21.5003422313,106041,,Q,Stefan Micov,R,,MKD,20.0027378508,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,328,138,1363,3
 2012-M-FU-SRB-09A-2012,Serbia F9,Clay,32,S,20120813,2,106358,,,Miki Jankovic,R,,SRB,17.8809034908,105915,,WC,Bojan Zdravkovic,U,,SRB,20.5119780972,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,807,18,1473,2
 2012-M-FU-SRB-09A-2012,Serbia F9,Clay,32,S,20120813,3,106046,,WC,Nebojsa Peric,U,,SRB,19.9863107461,106080,,Q,Thomas Le Boulch,L,,FRA,19.7453798768,7-6(5) 5-7 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,1920,1
@@ -12648,7 +12648,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-M-FU-GBR-14A-2012,Great Britain F14,Hard,32,S,20120827,31,105836,4,,Jules Marie,R,,FRA,20.9883641342,104590,,,Tom Burn,R,,GBR,27.0773442847,6-3 6-3,3,F,,,,,,,,,,,,,,,,,,,,406,94,783,20
 2012-M-FU-IRI-01A-2012,Iran F1,Clay,32,S,20120827,1,105502,1,,N Sriram Balaji,R,,IND,22.4449007529,124033,,Q,Shoah Rotagh,U,,IRI,33.9876796715,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,375,106,,
 2012-M-FU-IRI-01A-2012,Iran F1,Clay,32,S,20120827,2,104236,,Q,Rouzbeh Kamran,U,,IRI,28.9828884326,124034,,Q,Eric Vehovec,U,,CAN,21.7631759069,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2012-M-FU-IRI-01A-2012,Iran F1,Clay,32,S,20120827,3,106991,,Q,Farshad Talavar,U,,IRI,,109043,,Q,Sergey Shipilov,R,,UZB,19.151266256,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2012-M-FU-IRI-01A-2012,Iran F1,Clay,32,S,20120827,3,106991,,Q,Farshad Talavar,U,,IRI,36.2546201232,109043,,Q,Sergey Shipilov,R,,UZB,19.151266256,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2012-M-FU-IRI-01A-2012,Iran F1,Clay,32,S,20120827,4,105201,8,,Marc Abdulnour,R,,SYR,24.0438056126,122467,,LL,Abbas Dehghani,R,,IRI,23.3812457221,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1257,4,,
 2012-M-FU-IRI-01A-2012,Iran F1,Clay,32,S,20120827,5,104615,4,,Ranjeet Virali Murugesan,U,,IND,26.9075975359,105566,,,Shahin Khaledan,R,,IRI,22.2231348392,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,495,67,1284,3
 2012-M-FU-IRI-01A-2012,Iran F1,Clay,32,S,20120827,6,105721,,,Chandril Sood,R,,IND,21.5167693361,122464,,Q,Mohamadreza Kazemi,U,,IRI,21.9520876112,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1466,2,,
@@ -12663,7 +12663,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-M-FU-IRI-01A-2012,Iran F1,Clay,32,S,20120827,15,106012,,,Kunal Anand,U,,IND,20.2354551677,106085,,WC,Hamid Reza Nadaf,R,,IRI,19.7700205339,7-6(2) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1364,3,,
 2012-M-FU-IRI-01A-2012,Iran F1,Clay,32,S,20120827,16,105233,2,,Jeevan Nedunchezhiyan,L,,IND,23.8521560575,104015,,Q,Mohammed Mohazebnia,L,,IRI,30.212183436,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,393,99,,
 2012-M-FU-IRI-01A-2012,Iran F1,Clay,32,S,20120827,17,105502,1,,N Sriram Balaji,R,,IND,22.4449007529,104236,,Q,Rouzbeh Kamran,U,,IRI,28.9828884326,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,375,106,,
-2012-M-FU-IRI-01A-2012,Iran F1,Clay,32,S,20120827,18,105201,8,,Marc Abdulnour,R,,SYR,24.0438056126,106991,,Q,Farshad Talavar,U,,IRI,,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1257,4,,
+2012-M-FU-IRI-01A-2012,Iran F1,Clay,32,S,20120827,18,105201,8,,Marc Abdulnour,R,,SYR,24.0438056126,106991,,Q,Farshad Talavar,U,,IRI,36.2546201232,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1257,4,,
 2012-M-FU-IRI-01A-2012,Iran F1,Clay,32,S,20120827,19,104615,4,,Ranjeet Virali Murugesan,U,,IND,26.9075975359,105721,,,Chandril Sood,R,,IND,21.5167693361,6-2 4-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,495,67,1466,2
 2012-M-FU-IRI-01A-2012,Iran F1,Clay,32,S,20120827,20,124025,,,Amirvala Madanchi,R,,IRI,18.1136208077,104245,,Q,Mehdi Ehtemaai,R,,IRI,28.9363449692,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2012-M-FU-IRI-01A-2012,Iran F1,Clay,32,S,20120827,21,104479,7,,Sarvar Ikramov,R,,UZB,27.627652293,121581,,,Lakshit Sood,R,,IND,21.5167693361,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,661,32,,
@@ -13049,7 +13049,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-M-FU-FRA-15A-2012,France F15,Hard,32,S,20120903,29,105838,4,,Julien Obry,R,,FRA,20.9801505818,104802,8,,Fabrice Martin,R,,FRA,25.9603011636,6-1 6-2,3,SF,,,,,,,,,,,,,,,,,,,,310,143,395,98
 2012-M-FU-FRA-15A-2012,France F15,Hard,32,S,20120903,30,104944,3,,Niels Desein,R,,BEL,25.2183436003,104633,2,,Mathieu Rodrigues,R,,FRA,26.803559206,4-6 6-1 6-4,3,SF,,,,,,,,,,,,,,,,,,,,306,144,270,172
 2012-M-FU-FRA-15A-2012,France F15,Hard,32,S,20120903,31,105838,4,,Julien Obry,R,,FRA,20.9801505818,104944,3,,Niels Desein,R,,BEL,25.2183436003,6-4 6-3,3,F,,,,,,,,,,,,,,,,,,,,310,143,306,144
-2012-M-FU-GEO-01A-2012,Georgia F1,Clay,32,S,20120903,1,105932,1,WC,Nikoloz Basilashvili,R,185,RUS,20.5092402464,123926,,WC,Shota Meparidze,R,,GEO,16.4024640657,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,357,115,,
+2012-M-FU-GEO-01A-2012,Georgia F1,Clay,32,S,20120903,1,105932,1,WC,Nikoloz Basilashvili,R,185,GEO,20.5092402464,123926,,WC,Shota Meparidze,R,,GEO,16.4024640657,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,357,115,,
 2012-M-FU-GEO-01A-2012,Georgia F1,Clay,32,S,20120903,2,105598,,,Peter Goldsteiner,U,,AUT,22.0752908966,123927,,WC,Mikheil Khmiadashvili,L,,GEO,17.4291581109,6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,1115,6,,
 2012-M-FU-GEO-01A-2012,Georgia F1,Clay,32,S,20120903,3,105813,,,Ilia Shatskiy,R,,RUS,21.1033538672,123773,,WC,Giorgi Javakhishvili,R,,GEO,16.8459958932,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,873,14,1537,1
 2012-M-FU-GEO-01A-2012,Georgia F1,Clay,32,S,20120903,4,105694,7,,Piotr Gadomski,U,,POL,21.6235455168,109332,,,Mikolaj Jedruszczak,U,,POL,19.0006844627,2-6 7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,747,23,1205,4
@@ -13065,7 +13065,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-M-FU-GEO-01A-2012,Georgia F1,Clay,32,S,20120903,14,111177,,,Arkadiusz Kocyla,R,,POL,18.81724846,106106,,,George Tsivadze,U,,GEO,19.6495550992,3-6 6-1 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,,,1487,2
 2012-M-FU-GEO-01A-2012,Georgia F1,Clay,32,S,20120903,15,121918,,Q,Oleksiy Arovin,U,,UKR,19.151266256,105892,,,Alexandr Igoshin,U,,RUS,20.629705681,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,1526,2
 2012-M-FU-GEO-01A-2012,Georgia F1,Clay,32,S,20120903,16,105888,2,,Toni Androic,R,,CRO,20.6652977413,106383,,Q,Yuriy Kryvoy,R,,UKR,17.582477755,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,368,110,1800,1
-2012-M-FU-GEO-01A-2012,Georgia F1,Clay,32,S,20120903,17,105598,,,Peter Goldsteiner,U,,AUT,22.0752908966,105932,1,WC,Nikoloz Basilashvili,R,185,RUS,20.5092402464,7-6(6) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1115,6,357,115
+2012-M-FU-GEO-01A-2012,Georgia F1,Clay,32,S,20120903,17,105598,,,Peter Goldsteiner,U,,AUT,22.0752908966,105932,1,WC,Nikoloz Basilashvili,R,185,GEO,20.5092402464,7-6(6) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1115,6,357,115
 2012-M-FU-GEO-01A-2012,Georgia F1,Clay,32,S,20120903,18,105694,7,,Piotr Gadomski,U,,POL,21.6235455168,105813,,,Ilia Shatskiy,R,,RUS,21.1033538672,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,747,23,873,14
 2012-M-FU-GEO-01A-2012,Georgia F1,Clay,32,S,20120903,19,104397,4,,Laurent Recouderc,R,,FRA,28.1314168378,105897,,Q,Alexander Zhurbin,U,,RUS,20.6187542779,6-7(6) 6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,411,91,1534,2
 2012-M-FU-GEO-01A-2012,Georgia F1,Clay,32,S,20120903,20,106223,,,Aleksandre Metreveli,R,,GEO,19.0472279261,104901,5,,Vladimir Ivanov,R,,EST,25.3826146475,7-6(3) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1050,7,452,77
@@ -13121,7 +13121,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-M-FU-IRI-02A-2012,Iran F2,Clay,32,S,20120903,8,104822,5,,N Vijay Sundar Prashanth,R,,IND,25.8343600274,122584,,LL,Stefan Merunka,R,,BIH,17.8973305955,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,634,36,,
 2012-M-FU-IRI-02A-2012,Iran F2,Clay,32,S,20120903,9,105566,8,,Shahin Khaledan,R,,IRI,22.2231348392,124038,,,Omid Sami,U,,IRI,23.4360027379,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1284,3,,
 2012-M-FU-IRI-02A-2012,Iran F2,Clay,32,S,20120903,10,105165,,,Alborz Akhavan Roufigar,R,,IRI,24.2026009582,104245,,,Mehdi Ehtemaai,R,,IRI,28.9363449692,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1646,1,,
-2012-M-FU-IRI-02A-2012,Iran F2,Clay,32,S,20120903,11,104015,,Q,Mohammed Mohazebnia,L,,IRI,30.212183436,106991,,Q,Farshad Talavar,U,,IRI,,7-6(6) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2012-M-FU-IRI-02A-2012,Iran F2,Clay,32,S,20120903,11,104015,,Q,Mohammed Mohazebnia,L,,IRI,30.212183436,106991,,Q,Farshad Talavar,U,,IRI,36.2546201232,7-6(6) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2012-M-FU-IRI-02A-2012,Iran F2,Clay,32,S,20120903,12,104615,3,,Ranjeet Virali Murugesan,U,,IND,26.9075975359,124025,,WC,Amirvala Madanchi,R,,IRI,18.1136208077,7-6(5) 1-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,495,67,,
 2012-M-FU-IRI-02A-2012,Iran F2,Clay,32,S,20120903,13,105201,7,,Marc Abdulnour,R,,SYR,24.0438056126,124039,,,Navid Yousefian,R,,IRI,36.0438056126,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1257,4,,
 2012-M-FU-IRI-02A-2012,Iran F2,Clay,32,S,20120903,14,109043,,,Sergey Shipilov,R,,UZB,19.151266256,105606,,WC,Mohsen Hossein Zade,U,,IRI,22.0616016427,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -13487,7 +13487,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-M-FU-GEO-02A-2012,Georgia F2,Clay,32,S,20120910,2,123773,,WC,Giorgi Javakhishvili,R,,GEO,16.8843258042,105763,,,Alexandr Kushakov,R,,UKR,21.3607118412,7-6(2) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1547,1,1118,6
 2012-M-FU-GEO-02A-2012,Georgia F2,Clay,32,S,20120910,3,105355,,,Mateusz Szmigiel,R,,POL,23.2443531828,105977,,Q,Maksim Malyshev,R,,UKR,20.4134154689,5-7 7-6(4) 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,1911,1,,
 2012-M-FU-GEO-02A-2012,Georgia F2,Clay,32,S,20120910,4,105694,8,,Piotr Gadomski,U,,POL,21.6618754278,106169,,,Vladyslav Manafov,U,,UKR,19.3867214237,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,748,23,1132,6
-2012-M-FU-GEO-02A-2012,Georgia F2,Clay,32,S,20120910,5,105932,3,WC,Nikoloz Basilashvili,R,185,RUS,20.5475701574,106106,,WC,George Tsivadze,U,,GEO,19.6878850103,6-1 2-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,362,115,1496,2
+2012-M-FU-GEO-02A-2012,Georgia F2,Clay,32,S,20120910,5,105932,3,WC,Nikoloz Basilashvili,R,185,GEO,20.5475701574,106106,,WC,George Tsivadze,U,,GEO,19.6878850103,6-1 2-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,362,115,1496,2
 2012-M-FU-GEO-02A-2012,Georgia F2,Clay,32,S,20120910,6,105598,,,Peter Goldsteiner,U,,AUT,22.1136208077,106337,,,Loic Perret,U,,FRA,18.2587268994,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1063,7,1009,8
 2012-M-FU-GEO-02A-2012,Georgia F2,Clay,32,S,20120910,7,121918,,Q,Oleksiy Arovin,U,,UKR,19.189596167,105544,,Q,Lorenzo Papasidero,R,,ITA,22.3326488706,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,1911,1
 2012-M-FU-GEO-02A-2012,Georgia F2,Clay,32,S,20120910,8,104901,7,,Vladimir Ivanov,R,,EST,25.4209445585,106383,,Q,Yuriy Kryvoy,R,,UKR,17.620807666,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,413,91,1847,1
@@ -13501,19 +13501,19 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-M-FU-GEO-02A-2012,Georgia F2,Clay,32,S,20120910,16,105070,2,,Hans Podlipnik Castillo,R,,CHI,24.6707734428,123927,,WC,Mikheil Khmiadashvili,L,,GEO,17.4674880219,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,301,150,,
 2012-M-FU-GEO-02A-2012,Georgia F2,Clay,32,S,20120910,17,106210,1,,Jiri Vesely,L,,CZE,19.1704312115,123773,,WC,Giorgi Javakhishvili,R,,GEO,16.8843258042,6-0 6-0,3,R16,,,,,,,,,,,,,,,,,,,,322,140,1547,1
 2012-M-FU-GEO-02A-2012,Georgia F2,Clay,32,S,20120910,18,105694,8,,Piotr Gadomski,U,,POL,21.6618754278,105355,,,Mateusz Szmigiel,R,,POL,23.2443531828,6-0 6-0,3,R16,,,,,,,,,,,,,,,,,,,,748,23,1911,1
-2012-M-FU-GEO-02A-2012,Georgia F2,Clay,32,S,20120910,19,105932,3,WC,Nikoloz Basilashvili,R,185,RUS,20.5475701574,105598,,,Peter Goldsteiner,U,,AUT,22.1136208077,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,362,115,1063,7
+2012-M-FU-GEO-02A-2012,Georgia F2,Clay,32,S,20120910,19,105932,3,WC,Nikoloz Basilashvili,R,185,GEO,20.5475701574,105598,,,Peter Goldsteiner,U,,AUT,22.1136208077,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,362,115,1063,7
 2012-M-FU-GEO-02A-2012,Georgia F2,Clay,32,S,20120910,20,104901,7,,Vladimir Ivanov,R,,EST,25.4209445585,121918,,Q,Oleksiy Arovin,U,,UKR,19.189596167,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,413,91,,
 2012-M-FU-GEO-02A-2012,Georgia F2,Clay,32,S,20120910,21,104830,5,,Matteo Marrai,U,,ITA,25.8151950719,103824,,Q,Orest Tereshchuk,R,,UKR,31.0636550308,W/O,3,R16,,,,,,,,,,,,,,,,,,,,414,90,,
 2012-M-FU-GEO-02A-2012,Georgia F2,Clay,32,S,20120910,22,105888,4,,Toni Androic,R,,CRO,20.7036276523,111177,,,Arkadiusz Kocyla,R,,POL,18.855578371,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,356,118,,
 2012-M-FU-GEO-02A-2012,Georgia F2,Clay,32,S,20120910,23,104397,6,,Laurent Recouderc,R,,FRA,28.1697467488,105307,,,Jan Blecha,R,,CZE,23.4825462012,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,411,91,735,24
 2012-M-FU-GEO-02A-2012,Georgia F2,Clay,32,S,20120910,24,105070,2,,Hans Podlipnik Castillo,R,,CHI,24.6707734428,106223,,,Aleksandre Metreveli,R,,GEO,19.0855578371,7-6(4) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,301,150,1047,7
 2012-M-FU-GEO-02A-2012,Georgia F2,Clay,32,S,20120910,25,106210,1,,Jiri Vesely,L,,CZE,19.1704312115,105694,8,,Piotr Gadomski,U,,POL,21.6618754278,W/O,3,QF,,,,,,,,,,,,,,,,,,,,322,140,748,23
-2012-M-FU-GEO-02A-2012,Georgia F2,Clay,32,S,20120910,26,105932,3,WC,Nikoloz Basilashvili,R,185,RUS,20.5475701574,104901,7,,Vladimir Ivanov,R,,EST,25.4209445585,7-6(5) 7-6(3),3,QF,,,,,,,,,,,,,,,,,,,,362,115,413,91
+2012-M-FU-GEO-02A-2012,Georgia F2,Clay,32,S,20120910,26,105932,3,WC,Nikoloz Basilashvili,R,185,GEO,20.5475701574,104901,7,,Vladimir Ivanov,R,,EST,25.4209445585,7-6(5) 7-6(3),3,QF,,,,,,,,,,,,,,,,,,,,362,115,413,91
 2012-M-FU-GEO-02A-2012,Georgia F2,Clay,32,S,20120910,27,105888,4,,Toni Androic,R,,CRO,20.7036276523,104830,5,,Matteo Marrai,U,,ITA,25.8151950719,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,356,118,414,90
 2012-M-FU-GEO-02A-2012,Georgia F2,Clay,32,S,20120910,28,104397,6,,Laurent Recouderc,R,,FRA,28.1697467488,105070,2,,Hans Podlipnik Castillo,R,,CHI,24.6707734428,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,411,91,301,150
-2012-M-FU-GEO-02A-2012,Georgia F2,Clay,32,S,20120910,29,105932,3,WC,Nikoloz Basilashvili,R,185,RUS,20.5475701574,106210,1,,Jiri Vesely,L,,CZE,19.1704312115,4-6 6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,362,115,322,140
+2012-M-FU-GEO-02A-2012,Georgia F2,Clay,32,S,20120910,29,105932,3,WC,Nikoloz Basilashvili,R,185,GEO,20.5475701574,106210,1,,Jiri Vesely,L,,CZE,19.1704312115,4-6 6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,362,115,322,140
 2012-M-FU-GEO-02A-2012,Georgia F2,Clay,32,S,20120910,30,105888,4,,Toni Androic,R,,CRO,20.7036276523,104397,6,,Laurent Recouderc,R,,FRA,28.1697467488,7-5 4-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,356,118,411,91
-2012-M-FU-GEO-02A-2012,Georgia F2,Clay,32,S,20120910,31,105932,3,WC,Nikoloz Basilashvili,R,185,RUS,20.5475701574,105888,4,,Toni Androic,R,,CRO,20.7036276523,6-3 4-6 7-6(1),3,F,,,,,,,,,,,,,,,,,,,,362,115,356,118
+2012-M-FU-GEO-02A-2012,Georgia F2,Clay,32,S,20120910,31,105932,3,WC,Nikoloz Basilashvili,R,185,GEO,20.5475701574,105888,4,,Toni Androic,R,,CRO,20.7036276523,6-3 4-6 7-6(1),3,F,,,,,,,,,,,,,,,,,,,,362,115,356,118
 2012-M-FU-GBR-16A-2012,Great Britain F16,Hard,32,S,20120910,1,105554,1,WC,Daniel Evans,R,175,GBR,22.302532512,121851,,Q,Marshall Tutu,U,,GBR,20.4955509925,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,329,136,,
 2012-M-FU-GBR-16A-2012,Great Britain F16,Hard,32,S,20120910,2,104993,,,Martin Vaisse,U,,FRA,25.0841889117,123933,,Q,Max England,U,,GBR,19.0308008214,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,895,12,,
 2012-M-FU-GBR-16A-2012,Great Britain F16,Hard,32,S,20120910,3,110497,,Q,Jarryd Bant,R,,GBR,19.8658453114,123934,,Q,James Elliott,R,,GBR,17.3169062286,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -14412,7 +14412,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-M-FU-GER-17A-2012,Germany F17,Carpet,32,S,20120924,12,105757,3,,Sandro Ehrat,R,180,SUI,21.4373716632,105592,,,Ralph Regus,L,,GER,22.1875427789,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,425,89,761,21
 2012-M-FU-GER-17A-2012,Germany F17,Carpet,32,S,20120924,13,105534,7,,Erik Crepaldi,L,,ITA,22.392881588,105557,,,Gibril Diarra,U,,AUT,22.3326488706,3-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,606,40,844,15
 2012-M-FU-GER-17A-2012,Germany F17,Carpet,32,S,20120924,14,122171,,Q,Alexander Mannapov,R,,GER,17.4291581109,106345,,Q,Bastian Wagner,R,,GER,18.1930184805,6-4 5-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,1222,4
-2012-M-FU-GER-17A-2012,Germany F17,Carpet,32,S,20120924,15,106140,,,Matthias Wunner,R,,GER,19.5427789185,111162,,WC,Daniel Baumann,R,,GER,,6-3 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,829,16,,
+2012-M-FU-GER-17A-2012,Germany F17,Carpet,32,S,20120924,15,106140,,,Matthias Wunner,R,,GER,19.5427789185,111162,,WC,Daniel Baumann,R,,GER,17.6262833676,6-3 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,829,16,,
 2012-M-FU-GER-17A-2012,Germany F17,Carpet,32,S,20120924,16,104916,2,,Moritz Baumann,L,,GER,25.3798767967,104969,,,Matthias Kolbe,L,,GER,25.2210814511,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,365,115,983,9
 2012-M-FU-GER-17A-2012,Germany F17,Carpet,32,S,20120924,17,104510,1,,Stefan Seifert,L,,GER,27.5701574264,122351,,WC,Johannes Haerteis,U,,GER,16.5886379192,4-6 7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,315,138,,
 2012-M-FU-GER-17A-2012,Germany F17,Carpet,32,S,20120924,18,104967,6,,Alexander Sadecky,L,193,SUI,25.2210814511,103948,,Q,Maximilian Abel,R,,GER,30.5708418891,7-6(1) 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,550,49,1147,5
@@ -15437,7 +15437,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-M-FU-CHI-09A-2012,Chile F9,Clay,32,S,20121015,6,106420,,,Gianluigi Quinzi,L,,ITA,16.7036276523,121960,,Q,Jaime Ignacio Galleguillos,R,,CHI,17.1143052704,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,874,13,,
 2012-M-FU-CHI-09A-2012,Chile F9,Clay,32,S,20121015,7,106044,,,Nicolas Kicker,R,,ARG,20.1642710472,110759,,Q,Jaime Ignacio Bueno Tapia,R,,CHI,17.7248459959,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,880,13,1414,2
 2012-M-FU-CHI-09A-2012,Chile F9,Clay,32,S,20121015,8,105535,8,,Joss Espasandin,R,,SUI,22.4503764545,109334,,Q,Bastian Malla,U,,CHI,16.0629705681,5-7 6-4 3-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,667,31,1446,2
-2012-M-FU-CHI-09A-2012,Chile F9,Clay,32,S,20121015,9,105274,5,,Patricio Heras,R,,ARG,23.7316906229,106426,,WC,Christian Garin,R,,CHI,16.3778234086,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,488,66,1325,3
+2012-M-FU-CHI-09A-2012,Chile F9,Clay,32,S,20121015,9,105274,5,,Patricio Heras,R,,ARG,23.7316906229,106426,,WC,Cristian Garin,R,,CHI,16.3778234086,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,488,66,1325,3
 2012-M-FU-CHI-09A-2012,Chile F9,Clay,32,S,20121015,10,122574,,Q,Eduardo Agustin Torre,L,,ARG,17.993155373,122254,,WC,Sebastian Penaloza,R,,CHI,17.5414099932,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1348,3,,
 2012-M-FU-CHI-09A-2012,Chile F9,Clay,32,S,20121015,11,104683,,,Gustavo Sterin,R,,ARG,26.6502395619,122536,,,Juan Pablo Paz,R,,ARG,17.7796030116,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,942,11,1023,8
 2012-M-FU-CHI-09A-2012,Chile F9,Clay,32,S,20121015,12,105820,4,,Juan Carlos Saez,R,,CHI,21.196440794,105713,,,Victor Morales,R,,CHI,21.6673511294,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,497,65,923,11
@@ -15938,7 +15938,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-M-FU-CHI-10A-2012,Chile 10,Clay,32,S,20121022,11,121959,,WC,Kevin Gonzalez,U,,CHI,17.9219712526,105862,,,Javier Munoz,R,,CHI,21.0184804928,6-4 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,833,15
 2012-M-FU-CHI-10A-2012,Chile 10,Clay,32,S,20121022,12,105274,3,,Patricio Heras,R,,ARG,23.7508555784,105883,,Q,Ignacio Lehyt,R,,CHI,20.8432580424,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,490,65,1367,3
 2012-M-FU-CHI-10A-2012,Chile 10,Clay,32,S,20121022,13,105845,5,,Nicolas Gustavo Kauer,U,,CHI,21.1006160164,106226,,,Mariano Urli,R,,ARG,19.1950718686,6-7(5) 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,594,41,1071,7
-2012-M-FU-CHI-10A-2012,Chile 10,Clay,32,S,20121022,14,106426,,WC,Christian Garin,R,,CHI,16.3969883641,106174,,,Gonzalo Lama,R,,CHI,19.4880219028,6-4 5-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1323,3,863,14
+2012-M-FU-CHI-10A-2012,Chile 10,Clay,32,S,20121022,14,106426,,WC,Cristian Garin,R,,CHI,16.3969883641,106174,,,Gonzalo Lama,R,,CHI,19.4880219028,6-4 5-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1323,3,863,14
 2012-M-FU-CHI-10A-2012,Chile 10,Clay,32,S,20121022,15,106044,,,Nicolas Kicker,R,,ARG,20.1834360027,106059,,Q,Michel Vernier,R,,CHI,20.0684462697,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,777,19,,
 2012-M-FU-CHI-10A-2012,Chile 10,Clay,32,S,20121022,16,122536,,,Juan Pablo Paz,R,,ARG,17.7987679671,105288,2,,Guillermo Rivera Aranguiz,R,,CHI,23.7180013689,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1024,8,395,102
 2012-M-FU-CHI-10A-2012,Chile 10,Clay,32,S,20121022,17,105882,,PR,Stefano Travaglia,U,,ITA,20.8459958932,105601,1,,Cristobal Saavedra Corvalan,R,,CHI,22.2258726899,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1007,8,308,143
@@ -15947,12 +15947,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-M-FU-CHI-10A-2012,Chile 10,Clay,32,S,20121022,20,106242,,,Mauricio Perez Mota,U,,ARG,19.0855578371,105105,,Q,Eduardo Piragine,U,,ARG,24.6598220397,5-7 1-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,732,23,1542,2
 2012-M-FU-CHI-10A-2012,Chile 10,Clay,32,S,20121022,21,105968,,Q,David Fleming,U,,CHI,20.5475701574,106162,,Q,Franco Agamenone,U,,ARG,19.5208761123,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1128,6,1336,3
 2012-M-FU-CHI-10A-2012,Chile 10,Clay,32,S,20121022,22,105274,3,,Patricio Heras,R,,ARG,23.7508555784,121959,,WC,Kevin Gonzalez,U,,CHI,17.9219712526,7-5 6-0,3,R16,,,,,,,,,,,,,,,,,,,,490,65,,
-2012-M-FU-CHI-10A-2012,Chile 10,Clay,32,S,20121022,23,106426,,WC,Christian Garin,R,,CHI,16.3969883641,105845,5,,Nicolas Gustavo Kauer,U,,CHI,21.1006160164,7-6(2) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1323,3,594,41
+2012-M-FU-CHI-10A-2012,Chile 10,Clay,32,S,20121022,23,106426,,WC,Cristian Garin,R,,CHI,16.3969883641,105845,5,,Nicolas Gustavo Kauer,U,,CHI,21.1006160164,7-6(2) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1323,3,594,41
 2012-M-FU-CHI-10A-2012,Chile 10,Clay,32,S,20121022,24,106044,,,Nicolas Kicker,R,,ARG,20.1834360027,122536,,,Juan Pablo Paz,R,,ARG,17.7987679671,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,777,19,1024,8
 2012-M-FU-CHI-10A-2012,Chile 10,Clay,32,S,20121022,25,105882,,PR,Stefano Travaglia,U,,ITA,20.8459958932,105607,8,,Gabriel Alejandro Hidalgo,R,,ARG,22.212183436,6-3 7-6(2),3,QF,,,,,,,,,,,,,,,,,,,,1007,8,697,27
 2012-M-FU-CHI-10A-2012,Chile 10,Clay,32,S,20121022,26,106242,,,Mauricio Perez Mota,U,,ARG,19.0855578371,105635,,,Jorge Montero,R,,CHI,22.0862422998,6-0 3-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,732,23,938,11
 2012-M-FU-CHI-10A-2012,Chile 10,Clay,32,S,20121022,27,105274,3,,Patricio Heras,R,,ARG,23.7508555784,105968,,Q,David Fleming,U,,CHI,20.5475701574,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,490,65,1128,6
-2012-M-FU-CHI-10A-2012,Chile 10,Clay,32,S,20121022,28,106044,,,Nicolas Kicker,R,,ARG,20.1834360027,106426,,WC,Christian Garin,R,,CHI,16.3969883641,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,777,19,1323,3
+2012-M-FU-CHI-10A-2012,Chile 10,Clay,32,S,20121022,28,106044,,,Nicolas Kicker,R,,ARG,20.1834360027,106426,,WC,Cristian Garin,R,,CHI,16.3969883641,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,777,19,1323,3
 2012-M-FU-CHI-10A-2012,Chile 10,Clay,32,S,20121022,29,105882,,PR,Stefano Travaglia,U,,ITA,20.8459958932,106242,,,Mauricio Perez Mota,U,,ARG,19.0855578371,6-3 7-5,3,SF,,,,,,,,,,,,,,,,,,,,1007,8,732,23
 2012-M-FU-CHI-10A-2012,Chile 10,Clay,32,S,20121022,30,105274,3,,Patricio Heras,R,,ARG,23.7508555784,106044,,,Nicolas Kicker,R,,ARG,20.1834360027,3-6 6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,490,65,777,19
 2012-M-FU-CHI-10A-2012,Chile 10,Clay,32,S,20121022,31,105274,3,,Patricio Heras,R,,ARG,23.7508555784,105882,,PR,Stefano Travaglia,U,,ITA,20.8459958932,2-6 6-4 6-4,3,F,,,,,,,,,,,,,,,,,,,,490,65,1007,8
@@ -16409,7 +16409,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-M-FU-CHI-11A-2012,Chile 11,Clay,32,S,20121029,9,106209,6,,Matias Sborowitz,R,,CHI,19.3073237509,111573,,WC,Benjamin Ugarte,R,,CHI,19.6386036961,7-6(1) 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,686,29,1940,1
 2012-M-FU-CHI-11A-2012,Chile 11,Clay,32,S,20121029,10,106162,,Q,Franco Agamenone,U,,ARG,19.5400410678,122690,,WC,Jose Munoz Salgado,U,,CHI,18.7433264887,6-3 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,1351,3,1415,2
 2012-M-FU-CHI-11A-2012,Chile 11,Clay,32,S,20121029,11,106231,,,Facundo Manzanares,U,,ARG,19.1649555099,103552,,,Carlos Gonzalez Leiva,R,,CHI,32.514715948,7-6(8) 4-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1181,5,1218,4
-2012-M-FU-CHI-11A-2012,Chile 11,Clay,32,S,20121029,12,106426,,WC,Christian Garin,R,,CHI,16.4161533196,105820,3,,Juan Carlos Saez,R,,CHI,21.234770705,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1341,3,435,82
+2012-M-FU-CHI-11A-2012,Chile 11,Clay,32,S,20121029,12,106426,,WC,Cristian Garin,R,,CHI,16.4161533196,105820,3,,Juan Carlos Saez,R,,CHI,21.234770705,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1341,3,435,82
 2012-M-FU-CHI-11A-2012,Chile 11,Clay,32,S,20121029,13,106242,8,,Mauricio Perez Mota,U,,ARG,19.1047227926,109334,,Q,Bastian Malla,U,,CHI,16.1013004791,6-0 1-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,726,24,1505,2
 2012-M-FU-CHI-11A-2012,Chile 11,Clay,32,S,20121029,14,122536,,,Juan Pablo Paz,R,,ARG,17.8179329227,105293,,,Ricardo Urzua Rivera,R,,CHI,23.7152635181,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1028,8,997,9
 2012-M-FU-CHI-11A-2012,Chile 11,Clay,32,S,20121029,15,122141,,Q,Jose Angel Carrizo,L,,ARG,20.1423682409,105968,,Q,David Fleming,U,,CHI,20.5667351129,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1136,6
@@ -16419,15 +16419,15 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-M-FU-CHI-11A-2012,Chile 11,Clay,32,S,20121029,19,105685,,,Gustavo Guerses,R,,BRA,21.8316221766,105274,4,,Patricio Heras,R,,ARG,23.7700205339,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,907,12,490,65
 2012-M-FU-CHI-11A-2012,Chile 11,Clay,32,S,20121029,20,105845,5,,Nicolas Gustavo Kauer,U,,CHI,21.1197809719,111797,,Q,Nicolas Jarry,R,,CHI,17.0513347023,5-7 6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,605,40,,
 2012-M-FU-CHI-11A-2012,Chile 11,Clay,32,S,20121029,21,106162,,Q,Franco Agamenone,U,,ARG,19.5400410678,106209,6,,Matias Sborowitz,R,,CHI,19.3073237509,6-4 6-7(4) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1351,3,686,29
-2012-M-FU-CHI-11A-2012,Chile 11,Clay,32,S,20121029,22,106426,,WC,Christian Garin,R,,CHI,16.4161533196,106231,,,Facundo Manzanares,U,,ARG,19.1649555099,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1341,3,1181,5
+2012-M-FU-CHI-11A-2012,Chile 11,Clay,32,S,20121029,22,106426,,WC,Cristian Garin,R,,CHI,16.4161533196,106231,,,Facundo Manzanares,U,,ARG,19.1649555099,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1341,3,1181,5
 2012-M-FU-CHI-11A-2012,Chile 11,Clay,32,S,20121029,23,106242,8,,Mauricio Perez Mota,U,,ARG,19.1047227926,122536,,,Juan Pablo Paz,R,,ARG,17.8179329227,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,726,24,1028,8
 2012-M-FU-CHI-11A-2012,Chile 11,Clay,32,S,20121029,24,105288,2,,Guillermo Rivera Aranguiz,R,,CHI,23.7371663244,122141,,Q,Jose Angel Carrizo,L,,ARG,20.1423682409,6-4 7-6(1),3,R16,,,,,,,,,,,,,,,,,,,,396,102,,
 2012-M-FU-CHI-11A-2012,Chile 11,Clay,32,S,20121029,25,105635,,,Jorge Montero,R,,CHI,22.1054072553,105607,7,,Gabriel Alejandro Hidalgo,R,,ARG,22.2313483915,7-6(4) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,940,11,683,29
 2012-M-FU-CHI-11A-2012,Chile 11,Clay,32,S,20121029,26,105685,,,Gustavo Guerses,R,,BRA,21.8316221766,105845,5,,Nicolas Gustavo Kauer,U,,CHI,21.1197809719,6-0 7-6(0),3,QF,,,,,,,,,,,,,,,,,,,,907,12,605,40
-2012-M-FU-CHI-11A-2012,Chile 11,Clay,32,S,20121029,27,106426,,WC,Christian Garin,R,,CHI,16.4161533196,106162,,Q,Franco Agamenone,U,,ARG,19.5400410678,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,1341,3,1351,3
+2012-M-FU-CHI-11A-2012,Chile 11,Clay,32,S,20121029,27,106426,,WC,Cristian Garin,R,,CHI,16.4161533196,106162,,Q,Franco Agamenone,U,,ARG,19.5400410678,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,1341,3,1351,3
 2012-M-FU-CHI-11A-2012,Chile 11,Clay,32,S,20121029,28,105288,2,,Guillermo Rivera Aranguiz,R,,CHI,23.7371663244,106242,8,,Mauricio Perez Mota,U,,ARG,19.1047227926,7-5 6-2,3,QF,,,,,,,,,,,,,,,,,,,,396,102,726,24
 2012-M-FU-CHI-11A-2012,Chile 11,Clay,32,S,20121029,29,105685,,,Gustavo Guerses,R,,BRA,21.8316221766,105635,,,Jorge Montero,R,,CHI,22.1054072553,7-5 4-6 6-1,3,SF,,,,,,,,,,,,,,,,,,,,907,12,940,11
-2012-M-FU-CHI-11A-2012,Chile 11,Clay,32,S,20121029,30,105288,2,,Guillermo Rivera Aranguiz,R,,CHI,23.7371663244,106426,,WC,Christian Garin,R,,CHI,16.4161533196,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,396,102,1341,3
+2012-M-FU-CHI-11A-2012,Chile 11,Clay,32,S,20121029,30,105288,2,,Guillermo Rivera Aranguiz,R,,CHI,23.7371663244,106426,,WC,Cristian Garin,R,,CHI,16.4161533196,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,396,102,1341,3
 2012-M-FU-CHI-11A-2012,Chile 11,Clay,32,S,20121029,31,105288,2,,Guillermo Rivera Aranguiz,R,,CHI,23.7371663244,105685,,,Gustavo Guerses,R,,BRA,21.8316221766,7-6(3) 6-0,3,F,,,,,,,,,,,,,,,,,,,,396,102,907,12
 2012-M-FU-CZE-07A-2012,Czech Republic F7,Carpet,32,S,20121029,1,105632,,Q,Dominik Suc,R,,CZE,22.1108829569,105116,1,,Dusan Lojda,L,,CZE,24.643394935,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1306,3,259,183
 2012-M-FU-CZE-07A-2012,Czech Republic F7,Carpet,32,S,20121029,2,105414,,,Matthieu Roy,U,,FRA,23.1019849418,106324,,WC,Vaclav Safranek,R,,CZE,18.4449007529,7-6(6) 2-6 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,928,11,1160,5
@@ -17971,7 +17971,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-M-FU-RSA-01A-2012,South Africa F1,Hard,32,S,20121203,29,103573,1,,Rik De Voest,R,180,RSA,32.4955509925,105407,5,,Elie Rousset,U,,FRA,23.2443531828,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,268,174,524,59
 2012-M-FU-RSA-01A-2012,South Africa F1,Hard,32,S,20121203,30,104819,7,,Simon Cauvard,U,,FRA,26.1190965092,105707,,WC,Nicolaas Scholtz,R,,RSA,21.826146475,7-6(2) 6-2,3,SF,,,,,,,,,,,,,,,,,,,,689,30,,
 2012-M-FU-RSA-01A-2012,South Africa F1,Hard,32,S,20121203,31,104819,7,,Simon Cauvard,U,,FRA,26.1190965092,103573,1,,Rik De Voest,R,180,RSA,32.4955509925,6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,689,30,268,174
-2012-M-FU-TUR-47A-2012,Turkey F47,Hard,32,S,20121203,1,105932,1,,Nikoloz Basilashvili,R,185,RUS,20.7775496235,124126,,WC,Sarp Agabigun,R,,TUR,15.4770704997,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,307,148,,
+2012-M-FU-TUR-47A-2012,Turkey F47,Hard,32,S,20121203,1,105932,1,,Nikoloz Basilashvili,R,185,GEO,20.7775496235,124126,,WC,Sarp Agabigun,R,,TUR,15.4770704997,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,307,148,,
 2012-M-FU-TUR-47A-2012,Turkey F47,Hard,32,S,20121203,2,106167,,,Joris De Loore,R,,BEL,19.6194387406,106215,,Q,Mikhail Vaks,R,,RUS,19.3785078713,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,546,52,835,15
 2012-M-FU-TUR-47A-2012,Turkey F47,Hard,32,S,20121203,3,105096,,,Julien Dubail,R,,BEL,24.8021902806,106118,,LL,Ciprian Alexandru Porumb,R,,ROU,19.8576317591,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,566,48,1665,1
 2012-M-FU-TUR-47A-2012,Turkey F47,Hard,32,S,20121203,4,105128,5,,Guillermo Olaso,U,,ESP,24.6926762491,106238,,,Andres Artunedo Martinavarro,R,,ESP,19.2197125257,7-6(8) 5-7 7-5,3,R32,,,,,,,,,,,,,,,,,,,,422,87,581,44
@@ -17987,7 +17987,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-M-FU-TUR-47A-2012,Turkey F47,Hard,32,S,20121203,14,106048,,Q,Alban Meuffels,U,,NED,20.2765229295,106418,,WC,Mert Adanali,U,,TUR,16.9117043121,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,889,12,1446,2
 2012-M-FU-TUR-47A-2012,Turkey F47,Hard,32,S,20121203,15,105797,,Q,Marvin Netuschil,R,,GER,21.4236824093,111506,,Q,Maxime Hamou,R,,FRA,17.4893908282,3-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,878,13,1418,2
 2012-M-FU-TUR-47A-2012,Turkey F47,Hard,32,S,20121203,16,106243,,,Mate Delic,R,,CRO,19.1786447639,105493,2,,Tomislav Brkic,R,,BIH,22.7378507871,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,543,54,387,102
-2012-M-FU-TUR-47A-2012,Turkey F47,Hard,32,S,20121203,17,105932,1,,Nikoloz Basilashvili,R,185,RUS,20.7775496235,106167,,,Joris De Loore,R,,BEL,19.6194387406,6-4 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,307,148,546,52
+2012-M-FU-TUR-47A-2012,Turkey F47,Hard,32,S,20121203,17,105932,1,,Nikoloz Basilashvili,R,185,GEO,20.7775496235,106167,,,Joris De Loore,R,,BEL,19.6194387406,6-4 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,307,148,546,52
 2012-M-FU-TUR-47A-2012,Turkey F47,Hard,32,S,20121203,18,105128,5,,Guillermo Olaso,U,,ESP,24.6926762491,105096,,,Julien Dubail,R,,BEL,24.8021902806,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,422,87,566,48
 2012-M-FU-TUR-47A-2012,Turkey F47,Hard,32,S,20121203,19,105711,4,,Dino Marcan,R,,CRO,21.8069815195,104590,,,Tom Burn,R,,GBR,27.3456536619,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,398,95,555,50
 2012-M-FU-TUR-47A-2012,Turkey F47,Hard,32,S,20121203,20,110602,,,Dennis Novak,R,,AUT,19.266255989,105043,6,,Marek Semjan,U,,SVK,25.0732375086,W/O,3,R16,,,,,,,,,,,,,,,,,,,,726,24,460,75
@@ -17995,13 +17995,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-M-FU-TUR-47A-2012,Turkey F47,Hard,32,S,20121203,22,105130,,,Vladimir Uzhylovsky,R,183,UKR,24.6926762491,103327,,WC,Alessandro Motti,L,,ITA,33.7823408624,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,585,43,,
 2012-M-FU-TUR-47A-2012,Turkey F47,Hard,32,S,20121203,23,106201,8,,Maxim Dubarenco,R,,MDA,19.4442162902,106048,,Q,Alban Meuffels,U,,NED,20.2765229295,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,541,54,889,12
 2012-M-FU-TUR-47A-2012,Turkey F47,Hard,32,S,20121203,24,105797,,Q,Marvin Netuschil,R,,GER,21.4236824093,106243,,,Mate Delic,R,,CRO,19.1786447639,6-4 6-7(7) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,878,13,543,54
-2012-M-FU-TUR-47A-2012,Turkey F47,Hard,32,S,20121203,25,105932,1,,Nikoloz Basilashvili,R,185,RUS,20.7775496235,105128,5,,Guillermo Olaso,U,,ESP,24.6926762491,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,307,148,422,87
+2012-M-FU-TUR-47A-2012,Turkey F47,Hard,32,S,20121203,25,105932,1,,Nikoloz Basilashvili,R,185,GEO,20.7775496235,105128,5,,Guillermo Olaso,U,,ESP,24.6926762491,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,307,148,422,87
 2012-M-FU-TUR-47A-2012,Turkey F47,Hard,32,S,20121203,26,105711,4,,Dino Marcan,R,,CRO,21.8069815195,110602,,,Dennis Novak,R,,AUT,19.266255989,6-4 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,398,95,726,24
 2012-M-FU-TUR-47A-2012,Turkey F47,Hard,32,S,20121203,27,105130,,,Vladimir Uzhylovsky,R,183,UKR,24.6926762491,105841,7,,Lorenzo Giustino,R,,ITA,21.2320328542,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,585,43,504,65
 2012-M-FU-TUR-47A-2012,Turkey F47,Hard,32,S,20121203,28,106201,8,,Maxim Dubarenco,R,,MDA,19.4442162902,105797,,Q,Marvin Netuschil,R,,GER,21.4236824093,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,541,54,878,13
-2012-M-FU-TUR-47A-2012,Turkey F47,Hard,32,S,20121203,29,105932,1,,Nikoloz Basilashvili,R,185,RUS,20.7775496235,105711,4,,Dino Marcan,R,,CRO,21.8069815195,6-1 6-2,3,SF,,,,,,,,,,,,,,,,,,,,307,148,398,95
+2012-M-FU-TUR-47A-2012,Turkey F47,Hard,32,S,20121203,29,105932,1,,Nikoloz Basilashvili,R,185,GEO,20.7775496235,105711,4,,Dino Marcan,R,,CRO,21.8069815195,6-1 6-2,3,SF,,,,,,,,,,,,,,,,,,,,307,148,398,95
 2012-M-FU-TUR-47A-2012,Turkey F47,Hard,32,S,20121203,30,105130,,,Vladimir Uzhylovsky,R,183,UKR,24.6926762491,106201,8,,Maxim Dubarenco,R,,MDA,19.4442162902,7-5 6-2,3,SF,,,,,,,,,,,,,,,,,,,,585,43,541,54
-2012-M-FU-TUR-47A-2012,Turkey F47,Hard,32,S,20121203,31,105932,1,,Nikoloz Basilashvili,R,185,RUS,20.7775496235,105130,,,Vladimir Uzhylovsky,R,183,UKR,24.6926762491,3-6 6-2 6-2,3,F,,,,,,,,,,,,,,,,,,,,307,148,585,43
+2012-M-FU-TUR-47A-2012,Turkey F47,Hard,32,S,20121203,31,105932,1,,Nikoloz Basilashvili,R,185,GEO,20.7775496235,105130,,,Vladimir Uzhylovsky,R,183,UKR,24.6926762491,3-6 6-2 6-2,3,F,,,,,,,,,,,,,,,,,,,,307,148,585,43
 2012-M-FU-CHI-15A-2012,Chile F15,Clay,32,S,20121210,1,104477,1,WC,Jorge Aguilar,R,,CHI,27.9206023272,124181,,Q,Gerardo Cornejo,U,,CHI,18.9733059548,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,214,224,,
 2012-M-FU-CHI-15A-2012,Chile F15,Clay,32,S,20121210,2,106403,,SE,Albert Alcaraz Ivorra,R,,ESP,17.5742642026,105293,,,Ricardo Urzua Rivera,R,,CHI,23.8302532512,2-6 7-6(4) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,786,18,1035,8
 2012-M-FU-CHI-15A-2012,Chile F15,Clay,32,S,20121210,3,106174,,,Gonzalo Lama,R,,CHI,19.6221765914,121959,,Q,Kevin Gonzalez,U,,CHI,18.0561259411,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,762,21,1676,1
@@ -18126,7 +18126,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-M-FU-RSA-02A-2012,South Africa F2,Hard,32,S,20121210,29,104819,5,,Simon Cauvard,U,,FRA,26.1382614648,104895,4,,Abdullah Maqdas,U,,KUW,25.697467488,7-6(2) 4-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,689,30,529,58
 2012-M-FU-RSA-02A-2012,South Africa F2,Hard,32,S,20121210,30,105707,,WC,Nicolaas Scholtz,R,,RSA,21.8453114305,120401,,WC,Tucker Vorster,U,,RSA,24.2683093771,6-4 6-7(6) 6-3,3,SF,,,,,,,,,,,,,,,,,,,,,,,
 2012-M-FU-RSA-02A-2012,South Africa F2,Hard,32,S,20121210,31,105707,,WC,Nicolaas Scholtz,R,,RSA,21.8453114305,104819,5,,Simon Cauvard,U,,FRA,26.1382614648,6-3 6-0,3,F,,,,,,,,,,,,,,,,,,,,,,689,30
-2012-M-FU-TUR-48A-2012,Turkey F48,Hard,32,S,20121210,1,105932,1,,Nikoloz Basilashvili,R,185,RUS,20.7967145791,105593,,Q,Yannick Vandenbulcke,R,,BEL,22.3983572895,7-6(5) 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,312,146,791,18
+2012-M-FU-TUR-48A-2012,Turkey F48,Hard,32,S,20121210,1,105932,1,,Nikoloz Basilashvili,R,185,GEO,20.7967145791,105593,,Q,Yannick Vandenbulcke,R,,BEL,22.3983572895,7-6(5) 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,312,146,791,18
 2012-M-FU-TUR-48A-2012,Turkey F48,Hard,32,S,20121210,2,110602,,,Dennis Novak,R,,AUT,19.2854209446,124127,,WC,Miron Shabani,U,,MKD,18.5051334702,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,726,24,,
 2012-M-FU-TUR-48A-2012,Turkey F48,Hard,32,S,20121210,3,104603,,,Andrei Ciumac,L,,MDA,27.2498288843,106124,,Q,Teodor Nicolae Marin,R,,ROU,19.8548939083,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,587,43,1450,2
 2012-M-FU-TUR-48A-2012,Turkey F48,Hard,32,S,20121210,4,104789,7,,Sherif Sabry,U,,EGY,26.2833675565,104590,,,Tom Burn,R,,GBR,27.3648186174,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,507,65,553,50
@@ -18142,7 +18142,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-M-FU-TUR-48A-2012,Turkey F48,Hard,32,S,20121210,14,111512,,Q,Johan Sebastien Tatlot,U,,FRA,16.7091033539,190030,,WC,Enrico Becuzzi,R,,ITA,39.7180013689,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2012-M-FU-TUR-48A-2012,Turkey F48,Hard,32,S,20121210,15,111584,,Q,Jeroen Vanneste,R,,BEL,18.8966461328,106215,,Q,Mikhail Vaks,R,,RUS,19.3976728268,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,849,14,840,15
 2012-M-FU-TUR-48A-2012,Turkey F48,Hard,32,S,20121210,16,104579,2,,Romain Jouan,R,183,FRA,27.4031485284,106114,,Q,Fedor Chervyakov,R,,RUS,19.9069130732,7-6(3) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,384,103,1374,3
-2012-M-FU-TUR-48A-2012,Turkey F48,Hard,32,S,20121210,17,105932,1,,Nikoloz Basilashvili,R,185,RUS,20.7967145791,110602,,,Dennis Novak,R,,AUT,19.2854209446,W/O,3,R16,,,,,,,,,,,,,,,,,,,,312,146,726,24
+2012-M-FU-TUR-48A-2012,Turkey F48,Hard,32,S,20121210,17,105932,1,,Nikoloz Basilashvili,R,185,GEO,20.7967145791,110602,,,Dennis Novak,R,,AUT,19.2854209446,W/O,3,R16,,,,,,,,,,,,,,,,,,,,312,146,726,24
 2012-M-FU-TUR-48A-2012,Turkey F48,Hard,32,S,20121210,18,104789,7,,Sherif Sabry,U,,EGY,26.2833675565,104603,,,Andrei Ciumac,L,,MDA,27.2498288843,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,507,65,587,43
 2012-M-FU-TUR-48A-2012,Turkey F48,Hard,32,S,20121210,19,105493,3,,Tomislav Brkic,R,,BIH,22.7570157426,106414,,WC,Janicije Sasha Karic,R,183,USA,17.2484599589,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,389,101,,
 2012-M-FU-TUR-48A-2012,Turkey F48,Hard,32,S,20121210,20,106140,,,Matthias Wunner,R,,GER,19.7535934292,106201,8,,Maxim Dubarenco,R,,MDA,19.4633812457,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,774,19,542,54
@@ -18150,13 +18150,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-M-FU-TUR-48A-2012,Turkey F48,Hard,32,S,20121210,22,106243,,,Mate Delic,R,,CRO,19.1978097194,105889,,LL,Nico Matic,R,,GER,20.9418206708,6-3 4-6 6-0,3,R16,,,,,,,,,,,,,,,,,,,,537,55,834,15
 2012-M-FU-TUR-48A-2012,Turkey F48,Hard,32,S,20121210,23,105096,,,Julien Dubail,R,,BEL,24.8213552361,111512,,Q,Johan Sebastien Tatlot,U,,FRA,16.7091033539,3-6 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,591,42,,
 2012-M-FU-TUR-48A-2012,Turkey F48,Hard,32,S,20121210,24,104579,2,,Romain Jouan,R,183,FRA,27.4031485284,111584,,Q,Jeroen Vanneste,R,,BEL,18.8966461328,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,384,103,849,14
-2012-M-FU-TUR-48A-2012,Turkey F48,Hard,32,S,20121210,25,105932,1,,Nikoloz Basilashvili,R,185,RUS,20.7967145791,104789,7,,Sherif Sabry,U,,EGY,26.2833675565,7-6(0) 7-6(2),3,QF,,,,,,,,,,,,,,,,,,,,312,146,507,65
+2012-M-FU-TUR-48A-2012,Turkey F48,Hard,32,S,20121210,25,105932,1,,Nikoloz Basilashvili,R,185,GEO,20.7967145791,104789,7,,Sherif Sabry,U,,EGY,26.2833675565,7-6(0) 7-6(2),3,QF,,,,,,,,,,,,,,,,,,,,312,146,507,65
 2012-M-FU-TUR-48A-2012,Turkey F48,Hard,32,S,20121210,26,106140,,,Matthias Wunner,R,,GER,19.7535934292,105493,3,,Tomislav Brkic,R,,BIH,22.7570157426,6-3 2-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,774,19,389,101
 2012-M-FU-TUR-48A-2012,Turkey F48,Hard,32,S,20121210,27,105128,5,,Guillermo Olaso,U,,ESP,24.7118412047,106243,,,Mate Delic,R,,CRO,19.1978097194,0-6 6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,396,97,537,55
 2012-M-FU-TUR-48A-2012,Turkey F48,Hard,32,S,20121210,28,104579,2,,Romain Jouan,R,183,FRA,27.4031485284,105096,,,Julien Dubail,R,,BEL,24.8213552361,2-6 6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,384,103,591,42
-2012-M-FU-TUR-48A-2012,Turkey F48,Hard,32,S,20121210,29,105932,1,,Nikoloz Basilashvili,R,185,RUS,20.7967145791,106140,,,Matthias Wunner,R,,GER,19.7535934292,6-2 6-1,3,SF,,,,,,,,,,,,,,,,,,,,312,146,774,19
+2012-M-FU-TUR-48A-2012,Turkey F48,Hard,32,S,20121210,29,105932,1,,Nikoloz Basilashvili,R,185,GEO,20.7967145791,106140,,,Matthias Wunner,R,,GER,19.7535934292,6-2 6-1,3,SF,,,,,,,,,,,,,,,,,,,,312,146,774,19
 2012-M-FU-TUR-48A-2012,Turkey F48,Hard,32,S,20121210,30,105128,5,,Guillermo Olaso,U,,ESP,24.7118412047,104579,2,,Romain Jouan,R,183,FRA,27.4031485284,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,396,97,384,103
-2012-M-FU-TUR-48A-2012,Turkey F48,Hard,32,S,20121210,31,105932,1,,Nikoloz Basilashvili,R,185,RUS,20.7967145791,105128,5,,Guillermo Olaso,U,,ESP,24.7118412047,6-2 6-2,3,F,,,,,,,,,,,,,,,,,,,,312,146,396,97
+2012-M-FU-TUR-48A-2012,Turkey F48,Hard,32,S,20121210,31,105932,1,,Nikoloz Basilashvili,R,185,GEO,20.7967145791,105128,5,,Guillermo Olaso,U,,ESP,24.7118412047,6-2 6-2,3,F,,,,,,,,,,,,,,,,,,,,312,146,396,97
 2012-M-FU-CHI-16A-2012,Chile F16,Clay,32,S,20121217,1,104477,1,,Jorge Aguilar,R,,CHI,27.9397672827,122690,,Q,Jose Munoz Salgado,U,,CHI,18.8774811773,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,206,232,1532,2
 2012-M-FU-CHI-16A-2012,Chile F16,Clay,32,S,20121217,2,105521,,Q,Juan Sebastian Vivanco,R,,ECU,22.6776180698,106209,,,Matias Sborowitz,R,,CHI,19.4414784394,7-5 1-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,770,20,766,21
 2012-M-FU-CHI-16A-2012,Chile F16,Clay,32,S,20121217,3,105941,,,Felipe Rios,R,,CHI,20.7885010267,106059,,Q,Michel Vernier,R,,CHI,20.2217659138,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,808,17,,
@@ -18250,7 +18250,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-M-FU-IND-17A-2012,India F17,Hard,32,S,20121217,29,104998,6,,Michael Shabaz,R,,USA,25.3278576318,105502,1,,N Sriram Balaji,R,,IND,22.7515400411,6-2 7-5,3,SF,,,,,,,,,,,,,,,,,,,,711,26,330,133
 2012-M-FU-IND-17A-2012,India F17,Hard,32,S,20121217,30,120281,,Q,Torsten Wietoska,U,,GER,23.613963039,106350,,,Andre Gaspar Murta,U,,POR,18.3600273785,7-6(3) 7-6(5),3,SF,,,,,,,,,,,,,,,,,,,,1013,8,1140,6
 2012-M-FU-IND-17A-2012,India F17,Hard,32,S,20121217,31,104998,6,,Michael Shabaz,R,,USA,25.3278576318,120281,,Q,Torsten Wietoska,U,,GER,23.613963039,6-0 7-6(3),3,F,,,,,,,,,,,,,,,,,,,,711,26,1013,8
-2012-M-FU-TUR-49A-2012,Turkey F49,Hard,32,S,20121217,1,105096,,,Julien Dubail,R,,BEL,24.8405201916,105932,1,,Nikoloz Basilashvili,R,185,RUS,20.8158795346,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,591,43,284,164
+2012-M-FU-TUR-49A-2012,Turkey F49,Hard,32,S,20121217,1,105096,,,Julien Dubail,R,,BEL,24.8405201916,105932,1,,Nikoloz Basilashvili,R,185,GEO,20.8158795346,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,591,43,284,164
 2012-M-FU-TUR-49A-2012,Turkey F49,Hard,32,S,20121217,2,106169,,Q,Vladyslav Manafov,U,,UKR,19.6550308008,105557,,,Gibril Diarra,U,,AUT,22.5626283368,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1210,5,862,14
 2012-M-FU-TUR-49A-2012,Turkey F49,Hard,32,S,20121217,3,105130,,,Vladimir Uzhylovsky,R,183,UKR,24.7310061602,104578,,Q,Francesco Borgo,R,,ITA,27.4277891855,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,544,53,1042,8
 2012-M-FU-TUR-49A-2012,Turkey F49,Hard,32,S,20121217,4,105545,8,,Mikhail Fufygin,U,,RUS,22.598220397,111584,,,Jeroen Vanneste,R,,BEL,18.9158110883,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,554,50,851,14

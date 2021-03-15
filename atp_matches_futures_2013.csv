@@ -3577,7 +3577,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-M-FU-VIE-03A-2013,Vietnam F3,Hard,32,S,20130408,31,106298,2,,Lucas Pouille,R,185,FRA,19.1211498973,106288,,,Mathias Bourgue,R,,FRA,19.2197125257,7-6(4) 6-2,3,F,,,,,,,,,,,,,,,,,,,,372,105,637,33
 2013-M-FU-CHI-01A-2013,Chile F1,Clay,32,S,20130415,1,106198,,,Hugo Dellien,R,,BOL,19.8302532512,105935,1,,Duilio Beretta,R,,PER,21.1362080767,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,657,31,435,81
 2013-M-FU-CHI-01A-2013,Chile F1,Clay,32,S,20130415,2,105635,,,Jorge Montero,R,,CHI,22.5653661875,106405,,Q,Yuri Andrade,U,,BRA,17.87816564,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,810,18,,
-2013-M-FU-CHI-01A-2013,Chile F1,Clay,32,S,20130415,3,106426,,,Christian Garin,R,,CHI,16.8761122519,105535,,,Joss Espasandin,R,,SUI,22.9486652977,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,629,34,671,30
+2013-M-FU-CHI-01A-2013,Chile F1,Clay,32,S,20130415,3,106426,,,Cristian Garin,R,,CHI,16.8761122519,105535,,,Joss Espasandin,R,,SUI,22.9486652977,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,629,34,671,30
 2013-M-FU-CHI-01A-2013,Chile F1,Clay,32,S,20130415,4,105998,8,,Eduardo Dischinger,R,,BRA,20.9089664613,105780,,WC,Victor Nunez,R,,CHI,21.8918548939,1-6 7-6(2) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,554,48,1895,1
 2013-M-FU-CHI-01A-2013,Chile F1,Clay,32,S,20130415,5,105571,3,,Fabricio Neis,U,,BRA,22.8336755647,106171,,Q,Marcos Vinicius Dias,R,,BRA,19.9753593429,6-4 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,487,66,1037,8
 2013-M-FU-CHI-01A-2013,Chile F1,Clay,32,S,20130415,6,105766,,,Ryusei Makiguchi,U,,BOL,21.9520876112,106044,,,Nicolas Kicker,R,,ARG,20.6625598905,2-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,659,31,722,25
@@ -3592,7 +3592,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-M-FU-CHI-01A-2013,Chile F1,Clay,32,S,20130415,15,109334,,WC,Bastian Malla,U,,CHI,16.5612594114,122684,,Q,Juan Matias Gonzalez Carrasco,R,,CHI,19.1540041068,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1537,2,1172,5
 2013-M-FU-CHI-01A-2013,Chile F1,Clay,32,S,20130415,16,105601,2,,Cristobal Saavedra Corvalan,R,,CHI,22.7049965777,105521,,,Juan Sebastian Vivanco,R,,ECU,23.0034223135,3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,406,91,764,21
 2013-M-FU-CHI-01A-2013,Chile F1,Clay,32,S,20130415,17,106198,,,Hugo Dellien,R,,BOL,19.8302532512,105635,,,Jorge Montero,R,,CHI,22.5653661875,2-6 6-2 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,657,31,810,18
-2013-M-FU-CHI-01A-2013,Chile F1,Clay,32,S,20130415,18,105998,8,,Eduardo Dischinger,R,,BRA,20.9089664613,106426,,,Christian Garin,R,,CHI,16.8761122519,7-5 2-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,554,48,629,34
+2013-M-FU-CHI-01A-2013,Chile F1,Clay,32,S,20130415,18,105998,8,,Eduardo Dischinger,R,,BRA,20.9089664613,106426,,,Cristian Garin,R,,CHI,16.8761122519,7-5 2-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,554,48,629,34
 2013-M-FU-CHI-01A-2013,Chile F1,Clay,32,S,20130415,19,105571,3,,Fabricio Neis,U,,BRA,22.8336755647,105766,,,Ryusei Makiguchi,U,,BOL,21.9520876112,6-3 2-6 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,487,66,659,31
 2013-M-FU-CHI-01A-2013,Chile F1,Clay,32,S,20130415,20,105948,5,,Federico Coria,R,,ARG,21.1006160164,105873,,Q,Idio Escobar,R,,BRA,21.3963039014,6-1 4-6 7-6(7),3,R16,,,,,,,,,,,,,,,,,,,,531,53,1959,1
 2013-M-FU-CHI-01A-2013,Chile F1,Clay,32,S,20130415,21,105941,,,Felipe Rios,R,,CHI,21.1143052704,106322,6,,David Perez Sanz,U,,ESP,18.9185489391,4-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,776,20,523,55
@@ -3886,7 +3886,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-M-FU-ARG-03A-2013,Argentina F3,Clay,32,S,20130422,30,106198,8,,Hugo Dellien,R,,BOL,19.8494182067,105948,2,,Federico Coria,R,,ARG,21.1197809719,6-3 6-1,3,SF,,,,,,,,,,,,,,,,,,,,654,31,533,53
 2013-M-FU-ARG-03A-2013,Argentina F3,Clay,32,S,20130422,31,106198,8,,Hugo Dellien,R,,BOL,19.8494182067,105607,6,,Gabriel Alejandro Hidalgo,R,,ARG,22.7104722793,7-6(3) 2-6 6-3,3,F,,,,,,,,,,,,,,,,,,,,654,31,611,38
 2013-M-FU-CHI-02A-2013,Chile F2,Clay,32,S,20130422,1,104477,1,,Jorge Aguilar,R,,CHI,28.2847364819,106171,,Q,Marcos Vinicius Dias,R,,BRA,19.9945242984,7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,179,278,1035,8
-2013-M-FU-CHI-02A-2013,Chile F2,Clay,32,S,20130422,2,106426,,,Christian Garin,R,,CHI,16.8952772074,105998,,,Eduardo Dischinger,R,,BRA,20.9281314168,7-6(4) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,628,34,556,48
+2013-M-FU-CHI-02A-2013,Chile F2,Clay,32,S,20130422,2,106426,,,Cristian Garin,R,,CHI,16.8952772074,105998,,,Eduardo Dischinger,R,,BRA,20.9281314168,7-6(4) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,628,34,556,48
 2013-M-FU-CHI-02A-2013,Chile F2,Clay,32,S,20130422,3,122684,,Q,Juan Matias Gonzalez Carrasco,R,,CHI,19.1731690623,106409,,WC,Guillermo Nunez,L,,CHI,17.7522245038,3-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1171,5,1764,1
 2013-M-FU-CHI-02A-2013,Chile F2,Clay,32,S,20130422,4,105273,8,,Mauricio Echazu,R,,PER,24.2491444216,122687,,Q,Rodrigo Senattore,U,,URU,19.2306639288,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,515,57,1352,3
 2013-M-FU-CHI-02A-2013,Chile F2,Clay,32,S,20130422,5,105601,4,,Cristobal Saavedra Corvalan,R,,CHI,22.7241615332,105962,,,Alexandre Schnitman,U,,BRA,21.0704996578,6-4 3-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,406,91,705,27
@@ -3901,7 +3901,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-M-FU-CHI-02A-2013,Chile F2,Clay,32,S,20130422,14,106059,,WC,Michel Vernier,R,,CHI,20.5667351129,105845,,,Nicolas Gustavo Kauer,U,,CHI,21.5989048597,6-3 4-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,578,44
 2013-M-FU-CHI-02A-2013,Chile F2,Clay,32,S,20130422,15,105293,,Q,Ricardo Urzua Rivera,R,,CHI,24.1943874059,106318,,Q,Guilherme Hadlich,U,,BRA,18.9650924025,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1039,8,958,10
 2013-M-FU-CHI-02A-2013,Chile F2,Clay,32,S,20130422,16,104070,,,Jesse Witten,R,178,USA,30.5188227242,105820,2,,Juan Carlos Saez,R,,CHI,21.7138945927,4-6 6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,545,49,354,113
-2013-M-FU-CHI-02A-2013,Chile F2,Clay,32,S,20130422,17,104477,1,,Jorge Aguilar,R,,CHI,28.2847364819,106426,,,Christian Garin,R,,CHI,16.8952772074,1-6 7-6(5) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,179,278,628,34
+2013-M-FU-CHI-02A-2013,Chile F2,Clay,32,S,20130422,17,104477,1,,Jorge Aguilar,R,,CHI,28.2847364819,106426,,,Cristian Garin,R,,CHI,16.8952772074,1-6 7-6(5) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,179,278,628,34
 2013-M-FU-CHI-02A-2013,Chile F2,Clay,32,S,20130422,18,105273,8,,Mauricio Echazu,R,,PER,24.2491444216,122684,,Q,Juan Matias Gonzalez Carrasco,R,,CHI,19.1731690623,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,515,57,1171,5
 2013-M-FU-CHI-02A-2013,Chile F2,Clay,32,S,20130422,19,105601,4,,Cristobal Saavedra Corvalan,R,,CHI,22.7241615332,105941,,,Felipe Rios,R,,CHI,21.1334702259,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,406,91,774,20
 2013-M-FU-CHI-02A-2013,Chile F2,Clay,32,S,20130422,20,106174,,,Gonzalo Lama,R,,CHI,19.9863107461,121604,,Q,Luciano Doria,U,,ARG,20.2327173169,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,543,50,1443,2
@@ -4303,7 +4303,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-M-FU-CHI-03A-2013,Chile F3,Clay,32,S,20130429,13,104903,6,,Andre Miele,R,,BRA,26.0479123888,105868,,,Wilson Leite,R,178,BRA,21.4784394251,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,442,78,669,30
 2013-M-FU-CHI-03A-2013,Chile F3,Clay,32,S,20130429,14,111797,,WC,Nicolas Jarry,R,,CHI,17.5496235455,122684,,Q,Juan Matias Gonzalez Carrasco,R,,CHI,19.1923340178,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1755,1,1175,5
 2013-M-FU-CHI-03A-2013,Chile F3,Clay,32,S,20130429,15,106172,,,Maxime Chazal,U,,FRA,20.0136892539,106409,,WC,Guillermo Nunez,L,,CHI,17.7713894593,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,742,22,1047,7
-2013-M-FU-CHI-03A-2013,Chile F3,Clay,32,S,20130429,16,106426,,,Christian Garin,R,,CHI,16.9144421629,105820,2,,Juan Carlos Saez,R,,CHI,21.7330595483,6-7(3) 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,624,35,353,113
+2013-M-FU-CHI-03A-2013,Chile F3,Clay,32,S,20130429,16,106426,,,Cristian Garin,R,,CHI,16.9144421629,105820,2,,Juan Carlos Saez,R,,CHI,21.7330595483,6-7(3) 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,624,35,353,113
 2013-M-FU-CHI-03A-2013,Chile F3,Clay,32,S,20130429,17,105902,1,,James Duckworth,R,183,AUS,21.2703627652,105674,,,Carlos Eduardo Severino,U,,BRA,22.3983572895,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,213,215,616,37
 2013-M-FU-CHI-03A-2013,Chile F3,Clay,32,S,20130429,18,105160,7,,Guillermo Duran,R,,ARG,24.8952772074,105293,,Q,Ricardo Urzua Rivera,R,,CHI,24.2135523614,7-6(5) 4-6 6-0,3,R16,,,,,,,,,,,,,,,,,,,,480,67,1036,8
 2013-M-FU-CHI-03A-2013,Chile F3,Clay,32,S,20130429,19,105601,4,,Cristobal Saavedra Corvalan,R,,CHI,22.7433264887,105873,,Q,Idio Escobar,R,,BRA,21.4346338125,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,409,87,1543,2
@@ -4311,14 +4311,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-M-FU-CHI-03A-2013,Chile F3,Clay,32,S,20130429,21,106322,,,David Perez Sanz,U,,ESP,18.9568788501,105180,5,,Daniel Dutra Da Silva,L,175,BRA,24.8158795346,2-6 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,518,55,432,80
 2013-M-FU-CHI-03A-2013,Chile F3,Clay,32,S,20130429,22,105288,3,,Guillermo Rivera Aranguiz,R,,CHI,24.2354551677,104070,,,Jesse Witten,R,178,USA,30.5379876797,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,356,112,542,49
 2013-M-FU-CHI-03A-2013,Chile F3,Clay,32,S,20130429,23,111797,,WC,Nicolas Jarry,R,,CHI,17.5496235455,104903,6,,Andre Miele,R,,BRA,26.0479123888,6-4 4-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1755,1,442,78
-2013-M-FU-CHI-03A-2013,Chile F3,Clay,32,S,20130429,24,106426,,,Christian Garin,R,,CHI,16.9144421629,106172,,,Maxime Chazal,U,,FRA,20.0136892539,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,624,35,742,22
+2013-M-FU-CHI-03A-2013,Chile F3,Clay,32,S,20130429,24,106426,,,Cristian Garin,R,,CHI,16.9144421629,106172,,,Maxime Chazal,U,,FRA,20.0136892539,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,624,35,742,22
 2013-M-FU-CHI-03A-2013,Chile F3,Clay,32,S,20130429,25,105902,1,,James Duckworth,R,183,AUS,21.2703627652,105160,7,,Guillermo Duran,R,,ARG,24.8952772074,6-0 6-4,3,QF,,,,,,,,,,,,,,,,,,,,213,215,480,67
 2013-M-FU-CHI-03A-2013,Chile F3,Clay,32,S,20130429,26,106174,,,Gonzalo Lama,R,,CHI,20.0054757016,105601,4,,Cristobal Saavedra Corvalan,R,,CHI,22.7433264887,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,498,60,409,87
 2013-M-FU-CHI-03A-2013,Chile F3,Clay,32,S,20130429,27,106322,,,David Perez Sanz,U,,ESP,18.9568788501,105288,3,,Guillermo Rivera Aranguiz,R,,CHI,24.2354551677,7-6(3) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,518,55,356,112
-2013-M-FU-CHI-03A-2013,Chile F3,Clay,32,S,20130429,28,106426,,,Christian Garin,R,,CHI,16.9144421629,111797,,WC,Nicolas Jarry,R,,CHI,17.5496235455,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,624,35,1755,1
+2013-M-FU-CHI-03A-2013,Chile F3,Clay,32,S,20130429,28,106426,,,Cristian Garin,R,,CHI,16.9144421629,111797,,WC,Nicolas Jarry,R,,CHI,17.5496235455,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,624,35,1755,1
 2013-M-FU-CHI-03A-2013,Chile F3,Clay,32,S,20130429,29,105902,1,,James Duckworth,R,183,AUS,21.2703627652,106174,,,Gonzalo Lama,R,,CHI,20.0054757016,7-6(6) 6-2,3,SF,,,,,,,,,,,,,,,,,,,,213,215,498,60
-2013-M-FU-CHI-03A-2013,Chile F3,Clay,32,S,20130429,30,106426,,,Christian Garin,R,,CHI,16.9144421629,106322,,,David Perez Sanz,U,,ESP,18.9568788501,6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,624,35,518,55
-2013-M-FU-CHI-03A-2013,Chile F3,Clay,32,S,20130429,31,105902,1,,James Duckworth,R,183,AUS,21.2703627652,106426,,,Christian Garin,R,,CHI,16.9144421629,6-1 6-3,3,F,,,,,,,,,,,,,,,,,,,,213,215,624,35
+2013-M-FU-CHI-03A-2013,Chile F3,Clay,32,S,20130429,30,106426,,,Cristian Garin,R,,CHI,16.9144421629,106322,,,David Perez Sanz,U,,ESP,18.9568788501,6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,624,35,518,55
+2013-M-FU-CHI-03A-2013,Chile F3,Clay,32,S,20130429,31,105902,1,,James Duckworth,R,183,AUS,21.2703627652,106426,,,Cristian Garin,R,,CHI,16.9144421629,6-1 6-3,3,F,,,,,,,,,,,,,,,,,,,,213,215,624,35
 2013-M-FU-EGY-05A-2013,Egypt F5,Clay,32,S,20130429,1,105317,1,,Nicolas Reissig,R,185,AUT,24.0602327173,121419,,Q,Slobodan Jevtic,R,,SRB,20.8377823409,6-3 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,420,84,1542,2
 2013-M-FU-EGY-05A-2013,Egypt F5,Clay,32,S,20130429,2,105953,,,Dominik Schulz,L,,GER,21.1197809719,104972,,,Mauricio Alvarez Guzman,R,,CHI,25.8042436687,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,785,19,1332,3
 2013-M-FU-EGY-05A-2013,Egypt F5,Clay,32,S,20130429,3,104803,,,Younes Rachidi,R,,MAR,26.6255989049,104807,,,Mehdi Ziadi,R,,MAR,26.6064339493,4-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,897,12,752,21
@@ -6210,7 +6210,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-M-FU-ROU-02A-2013,Romania F2,Clay,32,S,20130520,29,105426,1,,Michael Linzer,R,,AUT,23.5455167693,105325,3,,Germain Gigounon,R,,BEL,24.0821355236,4-6 6-3 7-5,3,SF,,,,,,,,,,,,,,,,,,,,332,128,339,119
 2013-M-FU-ROU-02A-2013,Romania F2,Clay,32,S,20130520,30,105331,5,,Petru Alexandru Luncanu,L,185,ROU,24.0355920602,105694,8,,Piotr Gadomski,U,,POL,22.3518138261,7-6(5) 4-6 6-0,3,SF,,,,,,,,,,,,,,,,,,,,420,85,557,49
 2013-M-FU-ROU-02A-2013,Romania F2,Clay,32,S,20130520,31,105426,1,,Michael Linzer,R,,AUT,23.5455167693,105331,5,,Petru Alexandru Luncanu,L,185,ROU,24.0355920602,6-4 6-0,3,F,,,,,,,,,,,,,,,,,,,,332,128,420,85
-2013-M-FU-RUS-07A-2013,Russia F7,Clay,32,S,20130520,1,105886,,Q,Anton Galkin,U,,RUS,21.4045174538,105932,1,,Nikoloz Basilashvili,R,185,RUS,21.2375085558,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1206,5,262,176
+2013-M-FU-RUS-07A-2013,Russia F7,Clay,32,S,20130520,1,105886,,Q,Anton Galkin,U,,RUS,21.4045174538,105932,1,,Nikoloz Basilashvili,R,185,GEO,21.2375085558,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1206,5,262,176
 2013-M-FU-RUS-07A-2013,Russia F7,Clay,32,S,20130520,2,104603,,,Andrei Ciumac,L,,MDA,27.6906228611,111194,,WC,Evgeny Elistratov,U,,RUS,18.392881588,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,559,49,1396,3
 2013-M-FU-RUS-07A-2013,Russia F7,Clay,32,S,20130520,3,106234,,,Aslan Karatsev,R,,RUS,19.7070499658,105533,,Q,Dmitry Surchenko,U,,RUS,23.0499657769,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,638,36,1593,2
 2013-M-FU-RUS-07A-2013,Russia F7,Clay,32,S,20130520,4,106072,6,,Alexey Vatutin,U,,RUS,20.5612594114,122321,,,Marat Deviatiarov,R,,UKR,19.0855578371,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,465,73,835,15
@@ -6561,7 +6561,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-M-FU-ITA-10A-2013,Italy F10,Clay,32,S,20130527,8,105341,,,Thomas Fabbiano,R,,ITA,24.0027378508,105477,6,,Marco Trungelliti,R,,ARG,23.318275154,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,315,137,206,228
 2013-M-FU-ITA-10A-2013,Italy F10,Clay,32,S,20130527,9,103035,,WC,Alessio Di Mauro,L,185,ITA,35.7973990418,104673,7,,Julio Cesar Campozano,R,,ECU,27.318275154,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,246,187,223,208
 2013-M-FU-ITA-10A-2013,Italy F10,Clay,32,S,20130527,10,105401,,WC,Matteo Trevisan,R,,ITA,23.7864476386,106075,,,Jozef Kovalik,R,,SVK,20.5585215606,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,522,56,231,196
-2013-M-FU-ITA-10A-2013,Italy F10,Clay,32,S,20130527,11,106426,,Q,Christian Garin,R,,CHI,16.9911019849,104274,,Q,Giulio Torroni,U,,ITA,29.4674880219,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,521,56,744,24
+2013-M-FU-ITA-10A-2013,Italy F10,Clay,32,S,20130527,11,106426,,Q,Cristian Garin,R,,CHI,16.9911019849,104274,,Q,Giulio Torroni,U,,ITA,29.4674880219,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,521,56,744,24
 2013-M-FU-ITA-10A-2013,Italy F10,Clay,32,S,20130527,12,104477,4,,Jorge Aguilar,R,,CHI,28.3805612594,104677,,,Artem Sitak,R,,NZL,27.2963723477,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,180,278,455,75
 2013-M-FU-ITA-10A-2013,Italy F10,Clay,32,S,20130527,13,104851,5,,Gianluca Naso,R,,ITA,26.3874058864,126237,,Q,Gian Marco Moroni,U,,ITA,15.2826830938,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,203,232,,
 2013-M-FU-ITA-10A-2013,Italy F10,Clay,32,S,20130527,14,104503,,,Guillermo Hormazabal,R,,CHI,28.2655715264,121277,,Q,Mastrelia Antonio,U,,ITA,18.7542778919,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,535,53,1275,4
@@ -6572,15 +6572,15 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-M-FU-ITA-10A-2013,Italy F10,Clay,32,S,20130527,19,105487,3,Q,Facundo Bagnis,L,,ARG,23.2443531828,104513,,,Leandro Migani,R,,ARG,28.2354551677,6-3 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,165,316,283,160
 2013-M-FU-ITA-10A-2013,Italy F10,Clay,32,S,20130527,20,105063,,,Andrea Arnaboldi,L,,ITA,25.4154688569,105341,,,Thomas Fabbiano,R,,ITA,24.0027378508,3-6 6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,313,138,315,137
 2013-M-FU-ITA-10A-2013,Italy F10,Clay,32,S,20130527,21,105401,,WC,Matteo Trevisan,R,,ITA,23.7864476386,103035,,WC,Alessio Di Mauro,L,185,ITA,35.7973990418,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,522,56,246,187
-2013-M-FU-ITA-10A-2013,Italy F10,Clay,32,S,20130527,22,106426,,Q,Christian Garin,R,,CHI,16.9911019849,104477,4,,Jorge Aguilar,R,,CHI,28.3805612594,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,521,56,180,278
+2013-M-FU-ITA-10A-2013,Italy F10,Clay,32,S,20130527,22,106426,,Q,Cristian Garin,R,,CHI,16.9911019849,104477,4,,Jorge Aguilar,R,,CHI,28.3805612594,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,521,56,180,278
 2013-M-FU-ITA-10A-2013,Italy F10,Clay,32,S,20130527,23,104851,5,,Gianluca Naso,R,,ITA,26.3874058864,104503,,,Guillermo Hormazabal,R,,CHI,28.2655715264,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,203,232,535,53
 2013-M-FU-ITA-10A-2013,Italy F10,Clay,32,S,20130527,24,105819,2,,Guido Andreozzi,R,,ARG,21.8097193703,109640,,WC,Andrea Basso,L,,ITA,19.6331279945,6-2 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,167,314,1033,8
 2013-M-FU-ITA-10A-2013,Italy F10,Clay,32,S,20130527,25,105128,,,Guillermo Olaso,U,,ESP,25.1718001369,105943,,WC,Federico Gaio,R,,ITA,21.2265571526,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,268,170,617,40
 2013-M-FU-ITA-10A-2013,Italy F10,Clay,32,S,20130527,26,105063,,,Andrea Arnaboldi,L,,ITA,25.4154688569,105487,3,Q,Facundo Bagnis,L,,ARG,23.2443531828,6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,313,138,165,316
-2013-M-FU-ITA-10A-2013,Italy F10,Clay,32,S,20130527,27,106426,,Q,Christian Garin,R,,CHI,16.9911019849,105401,,WC,Matteo Trevisan,R,,ITA,23.7864476386,7-5 3-1 RET,3,QF,,,,,,,,,,,,,,,,,,,,521,56,522,56
+2013-M-FU-ITA-10A-2013,Italy F10,Clay,32,S,20130527,27,106426,,Q,Cristian Garin,R,,CHI,16.9911019849,105401,,WC,Matteo Trevisan,R,,ITA,23.7864476386,7-5 3-1 RET,3,QF,,,,,,,,,,,,,,,,,,,,521,56,522,56
 2013-M-FU-ITA-10A-2013,Italy F10,Clay,32,S,20130527,28,105819,2,,Guido Andreozzi,R,,ARG,21.8097193703,104851,5,,Gianluca Naso,R,,ITA,26.3874058864,2-6 6-4 7-6(2),3,QF,,,,,,,,,,,,,,,,,,,,167,314,203,232
 2013-M-FU-ITA-10A-2013,Italy F10,Clay,32,S,20130527,29,105063,,,Andrea Arnaboldi,L,,ITA,25.4154688569,105128,,,Guillermo Olaso,U,,ESP,25.1718001369,6-3 1-6 7-6(10),3,SF,,,,,,,,,,,,,,,,,,,,313,138,268,170
-2013-M-FU-ITA-10A-2013,Italy F10,Clay,32,S,20130527,30,105819,2,,Guido Andreozzi,R,,ARG,21.8097193703,106426,,Q,Christian Garin,R,,CHI,16.9911019849,6-1 6-4,3,SF,,,,,,,,,,,,,,,,,,,,167,314,521,56
+2013-M-FU-ITA-10A-2013,Italy F10,Clay,32,S,20130527,30,105819,2,,Guido Andreozzi,R,,ARG,21.8097193703,106426,,Q,Cristian Garin,R,,CHI,16.9911019849,6-1 6-4,3,SF,,,,,,,,,,,,,,,,,,,,167,314,521,56
 2013-M-FU-ITA-10A-2013,Italy F10,Clay,32,S,20130527,31,105819,2,,Guido Andreozzi,R,,ARG,21.8097193703,105063,,,Andrea Arnaboldi,L,,ITA,25.4154688569,6-4 6-4,3,F,,,,,,,,,,,,,,,,,,,,167,314,313,138
 2013-M-FU-KOR-04A-2013,Korea F4,Hard,32,S,20130527,1,105782,1,,Enrique Lopez Perez,R,,ESP,21.9822039699,104561,,Q,Jae Sung An,R,,KOR,27.9972621492,6-4 2-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,296,152,1185,5
 2013-M-FU-KOR-04A-2013,Korea F4,Hard,32,S,20130527,2,104741,,,Dong Whee Choi,U,,KOR,26.9979466119,120561,,WC,Seung Jae Lee,U,,KOR,27.8247775496,1-6 6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,892,13,,
@@ -6748,7 +6748,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-M-FU-RUS-08A-2013,Russia F8,Clay,32,S,20130527,9,106066,5,,Victor Baluda,R,,RUS,20.6543463381,122321,,Q,Marat Deviatiarov,R,,UKR,19.1047227926,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,399,93,823,16
 2013-M-FU-RUS-08A-2013,Russia F8,Clay,32,S,20130527,10,104628,,,Alexander Kudryavtsev,R,183,RUS,27.5838466804,126169,,WC,Ilya Vasilyev,U,,RUS,16.9281314168,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,550,50,,
 2013-M-FU-RUS-08A-2013,Russia F8,Clay,32,S,20130527,11,106078,,,Egor Gerasimov,R,,BLR,20.5393566051,105748,,Q,Vladzimir Kruk,R,,BLR,22.1300479124,6-3 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,457,75,1374,3
-2013-M-FU-RUS-08A-2013,Russia F8,Clay,32,S,20130527,12,105932,3,,Nikoloz Basilashvili,R,185,RUS,21.2566735113,105097,,,Valery Rudnev,R,,RUS,25.2758384668,1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,261,176,495,65
+2013-M-FU-RUS-08A-2013,Russia F8,Clay,32,S,20130527,12,105932,3,,Nikoloz Basilashvili,R,185,GEO,21.2566735113,105097,,,Valery Rudnev,R,,RUS,25.2758384668,1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,261,176,495,65
 2013-M-FU-RUS-08A-2013,Russia F8,Clay,32,S,20130527,13,105029,8,,Sergey Betov,R,,BLR,25.6153319644,104980,,Q,Anton Zaitsev,U,,RUS,25.8480492813,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,464,73,602,42
 2013-M-FU-RUS-08A-2013,Russia F8,Clay,32,S,20130527,14,106225,,,Andrew Whittington,R,,AUS,19.7919233402,104643,,Q,Alexander Pavlioutchenkov,R,,RUS,27.4798083504,6-7(2) 7-6(6) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,567,47,1039,8
 2013-M-FU-RUS-08A-2013,Russia F8,Clay,32,S,20130527,15,105720,,,Stanislav Vovk,R,185,RUS,22.2669404517,105958,,,Richard Muzaev,R,,RUS,21.18275154,6-3 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,566,47,637,37
@@ -6758,12 +6758,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-M-FU-RUS-08A-2013,Russia F8,Clay,32,S,20130527,19,104707,,,Denis Matsukevitch,R,190,RUS,27.1649555099,105645,4,,Alexander Lobkov,R,,RUS,22.636550308,3-6 7-6(6) RET,3,R16,,,,,,,,,,,,,,,,,,,,564,48,345,117
 2013-M-FU-RUS-08A-2013,Russia F8,Clay,32,S,20130527,20,106234,,SE,Aslan Karatsev,R,,RUS,19.7262149213,105012,6,,Alexander Bury,R,,BLR,25.7002053388,4-6 6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,591,44,425,83
 2013-M-FU-RUS-08A-2013,Russia F8,Clay,32,S,20130527,21,106066,5,,Victor Baluda,R,,RUS,20.6543463381,104628,,,Alexander Kudryavtsev,R,183,RUS,27.5838466804,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,399,93,550,50
-2013-M-FU-RUS-08A-2013,Russia F8,Clay,32,S,20130527,22,105932,3,,Nikoloz Basilashvili,R,185,RUS,21.2566735113,106078,,,Egor Gerasimov,R,,BLR,20.5393566051,3-6 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,261,176,457,75
+2013-M-FU-RUS-08A-2013,Russia F8,Clay,32,S,20130527,22,105932,3,,Nikoloz Basilashvili,R,185,GEO,21.2566735113,106078,,,Egor Gerasimov,R,,BLR,20.5393566051,3-6 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,261,176,457,75
 2013-M-FU-RUS-08A-2013,Russia F8,Clay,32,S,20130527,23,105029,8,,Sergey Betov,R,,BLR,25.6153319644,106225,,,Andrew Whittington,R,,AUS,19.7919233402,6-3 0-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,464,73,567,47
 2013-M-FU-RUS-08A-2013,Russia F8,Clay,32,S,20130527,24,105731,2,,Steven Diez,R,,CAN,22.1957563313,105720,,,Stanislav Vovk,R,185,RUS,22.2669404517,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,242,190,566,47
 2013-M-FU-RUS-08A-2013,Russia F8,Clay,32,S,20130527,25,104505,1,WC,Konstantin Kravchuk,R,190,RUS,28.2546201232,104901,7,,Vladimir Ivanov,R,,EST,26.1300479124,6-4 6-7(4) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,181,277,427,83
 2013-M-FU-RUS-08A-2013,Russia F8,Clay,32,S,20130527,26,106234,,SE,Aslan Karatsev,R,,RUS,19.7262149213,104707,,,Denis Matsukevitch,R,190,RUS,27.1649555099,7-5 6-4,3,QF,,,,,,,,,,,,,,,,,,,,591,44,564,48
-2013-M-FU-RUS-08A-2013,Russia F8,Clay,32,S,20130527,27,106066,5,,Victor Baluda,R,,RUS,20.6543463381,105932,3,,Nikoloz Basilashvili,R,185,RUS,21.2566735113,1-6 7-5 6-4,3,QF,,,,,,,,,,,,,,,,,,,,399,93,261,176
+2013-M-FU-RUS-08A-2013,Russia F8,Clay,32,S,20130527,27,106066,5,,Victor Baluda,R,,RUS,20.6543463381,105932,3,,Nikoloz Basilashvili,R,185,GEO,21.2566735113,1-6 7-5 6-4,3,QF,,,,,,,,,,,,,,,,,,,,399,93,261,176
 2013-M-FU-RUS-08A-2013,Russia F8,Clay,32,S,20130527,28,105731,2,,Steven Diez,R,,CAN,22.1957563313,105029,8,,Sergey Betov,R,,BLR,25.6153319644,0-6 6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,242,190,464,73
 2013-M-FU-RUS-08A-2013,Russia F8,Clay,32,S,20130527,29,106234,,SE,Aslan Karatsev,R,,RUS,19.7262149213,104505,1,WC,Konstantin Kravchuk,R,190,RUS,28.2546201232,4-6 6-3 7-5,3,SF,,,,,,,,,,,,,,,,,,,,591,44,181,277
 2013-M-FU-RUS-08A-2013,Russia F8,Clay,32,S,20130527,30,106066,5,,Victor Baluda,R,,RUS,20.6543463381,105731,2,,Steven Diez,R,,CAN,22.1957563313,6-3 6-1,3,SF,,,,,,,,,,,,,,,,,,,,399,93,242,190
@@ -8373,7 +8373,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-M-FU-AUT-01A-2013,Austria F1,Clay,32,S,20130624,29,104473,6,,Walter Trusendi,U,,ITA,28.4709103354,105386,,Q,Janez Semrajc,U,,SLO,23.9178644764,6-1 6-4,3,SF,,,,,,,,,,,,,,,,,,,,397,95,1454,2
 2013-M-FU-AUT-01A-2013,Austria F1,Clay,32,S,20130624,30,106079,,,Christian Trubrig,U,,AUT,20.6105407255,110601,,,Patrick Ofner,R,,AUT,20.1341546886,7-5 6-4,3,SF,,,,,,,,,,,,,,,,,,,,891,14,722,25
 2013-M-FU-AUT-01A-2013,Austria F1,Clay,32,S,20130624,31,104473,6,,Walter Trusendi,U,,ITA,28.4709103354,106079,,,Christian Trubrig,U,,AUT,20.6105407255,7-5 4-6 6-1,3,F,,,,,,,,,,,,,,,,,,,,397,95,891,14
-2013-M-FU-BEL-02A-2013,Belgium F2,Clay,32,S,20130624,1,104627,1,,Boy Westerhof,R,,NED,27.665982204,126175,,WC,Simon Stevens,R,,BEL,,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,235,204,,
+2013-M-FU-BEL-02A-2013,Belgium F2,Clay,32,S,20130624,1,104627,1,,Boy Westerhof,R,,NED,27.665982204,126175,,WC,Simon Stevens,R,,BEL,17.3908281999,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,235,204,,
 2013-M-FU-BEL-02A-2013,Belgium F2,Clay,32,S,20130624,2,122684,,,Juan Matias Gonzalez Carrasco,R,,CHI,19.3456536619,126448,,WC,Jolan Cailleau,U,,BEL,17.9904175222,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1142,6,,
 2013-M-FU-BEL-02A-2013,Belgium F2,Clay,32,S,20130624,3,106244,,,Oliver Golding,R,,GBR,19.7344284736,122222,,,Jonas Merckx,R,,BEL,19.7207392197,7-5 2-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,529,58,1050,8
 2013-M-FU-BEL-02A-2013,Belgium F2,Clay,32,S,20130624,4,106167,8,,Joris De Loore,R,,BEL,20.1752224504,122279,,WC,Romain Bogaerts,U,,BEL,19.5017111567,6-4 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,509,63,1524,2
@@ -8745,7 +8745,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-M-FU-ESP-19A-2013,Spain F19,Hard,32,S,20130624,29,105283,5,,Gerard Granollers,R,,ESP,24.3969883641,105731,4,,Steven Diez,R,,CAN,22.2724161533,6-4 1-6 6-0,3,SF,,,,,,,,,,,,,,,,,,,,267,173,229,207
 2013-M-FU-ESP-19A-2013,Spain F19,Hard,32,S,20130624,30,106148,8,,Roberto Carballes Baena,R,,ESP,20.2546201232,105618,,Q,Juan Samuel Arauzo Martinez,U,,ESP,22.8391512663,6-4 7-5,3,SF,,,,,,,,,,,,,,,,,,,,311,142,904,14
 2013-M-FU-ESP-19A-2013,Spain F19,Hard,32,S,20130624,31,105283,5,,Gerard Granollers,R,,ESP,24.3969883641,106148,8,,Roberto Carballes Baena,R,,ESP,20.2546201232,7-6(5) 4-6 6-3,3,F,,,,,,,,,,,,,,,,,,,,267,173,311,142
-2013-M-FU-TUR-25A-2013,Turkey F25,Hard,32,S,20130624,1,105932,1,,Nikoloz Basilashvili,R,185,RUS,21.3333333333,106073,,Q,Daniiar Duldaev,R,,KGZ,20.6570841889,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,259,179,1592,2
+2013-M-FU-TUR-25A-2013,Turkey F25,Hard,32,S,20130624,1,105932,1,,Nikoloz Basilashvili,R,185,GEO,21.3333333333,106073,,Q,Daniiar Duldaev,R,,KGZ,20.6570841889,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,259,179,1592,2
 2013-M-FU-TUR-25A-2013,Turkey F25,Hard,32,S,20130624,2,126077,,WC,Chris Cooprider,U,,USA,22.2477754962,123797,,WC,Ogulcan Deniz,U,,TUR,16.1396303901,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2013-M-FU-TUR-25A-2013,Turkey F25,Hard,32,S,20130624,3,105194,,,Nick Lindahl,R,183,AUS,24.8980150582,106418,,Q,Mert Adanali,U,,TUR,17.4674880219,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,819,17,1893,1
 2013-M-FU-TUR-25A-2013,Turkey F25,Hard,32,S,20130624,4,105547,6,,Dean Obrien,U,,RSA,23.1101984942,106230,,,Oliver Hudson,R,,GBR,19.8302532512,6-1 4-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,691,29,1311,4
@@ -8761,7 +8761,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-M-FU-TUR-25A-2013,Turkey F25,Hard,32,S,20130624,14,105595,,Q,Dayne Kelly,U,,AUS,22.9212867899,106381,,,Temur Ismailov,R,,UZB,18.4421629021,1-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1431,3,951,11
 2013-M-FU-TUR-25A-2013,Turkey F25,Hard,32,S,20130624,15,122514,,Q,Jathan Malik,U,,GBR,18.9924709103,111577,,,Jared Donaldson,R,,USA,16.7063655031,6-3 0-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1295,4,1128,6
 2013-M-FU-TUR-25A-2013,Turkey F25,Hard,32,S,20130624,16,105626,2,,Takanyi Garanganga,R,,ZIM,22.7980835044,124078,,Q,David Porter,U,,GBR,20.0164271047,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,449,79,,
-2013-M-FU-TUR-25A-2013,Turkey F25,Hard,32,S,20130624,17,126077,,WC,Chris Cooprider,U,,USA,22.2477754962,105932,1,,Nikoloz Basilashvili,R,185,RUS,21.3333333333,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,259,179
+2013-M-FU-TUR-25A-2013,Turkey F25,Hard,32,S,20130624,17,126077,,WC,Chris Cooprider,U,,USA,22.2477754962,105932,1,,Nikoloz Basilashvili,R,185,GEO,21.3333333333,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,259,179
 2013-M-FU-TUR-25A-2013,Turkey F25,Hard,32,S,20130624,18,105547,6,,Dean Obrien,U,,RSA,23.1101984942,105194,,,Nick Lindahl,R,183,AUS,24.8980150582,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,691,29,819,17
 2013-M-FU-TUR-25A-2013,Turkey F25,Hard,32,S,20130624,19,105434,3,,Ruan Roelofse,R,,RSA,23.5975359343,104654,,,Baris Erguden,R,,TUR,27.4770704997,4-6 6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,532,57,1228,5
 2013-M-FU-TUR-25A-2013,Turkey F25,Hard,32,S,20130624,20,122321,,,Marat Deviatiarov,R,,UKR,19.1813826146,106123,5,,Tiago Fernandes,R,,BRA,20.3997262149,6-7(5) 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,843,16,631,37
@@ -9225,7 +9225,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-M-FU-TUR-26A-2013,Turkey F26,Hard,32,S,20130701,13,105545,6,,Mikhail Fufygin,U,,RUS,23.1156741958,105892,,,Alexandr Igoshin,U,,RUS,21.453798768,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,651,35,1057,8
 2013-M-FU-TUR-26A-2013,Turkey F26,Hard,32,S,20130701,14,105194,,,Nick Lindahl,R,183,AUS,24.8980150582,122525,,,Norbert Nagyi,R,,AUT,21.6016427105,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,819,17,1893,1
 2013-M-FU-TUR-26A-2013,Turkey F26,Hard,32,S,20130701,15,104654,,,Baris Erguden,R,,TUR,27.4770704997,122027,,,Romain Bauvy,U,,FRA,18.9869952088,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1228,5,1137,6
-2013-M-FU-TUR-26A-2013,Turkey F26,Hard,32,S,20130701,16,111430,,Q,David Sofaer,U,,AUS,21.9493497604,105932,2,,Nikoloz Basilashvili,R,185,RUS,21.3333333333,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,259,179
+2013-M-FU-TUR-26A-2013,Turkey F26,Hard,32,S,20130701,16,111430,,Q,David Sofaer,U,,AUS,21.9493497604,105932,2,,Nikoloz Basilashvili,R,185,GEO,21.3333333333,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,259,179
 2013-M-FU-TUR-26A-2013,Turkey F26,Hard,32,S,20130701,17,105299,1,,Dzmitry Zhyrmont,U,,BLR,24.3148528405,124188,,Q,Hao Zhang,U,,CHN,17.9383983573,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,241,200,,
 2013-M-FU-TUR-26A-2013,Turkey F26,Hard,32,S,20130701,18,105547,7,,Dean Obrien,U,,RSA,23.1101984942,124078,,,David Porter,U,,GBR,20.0164271047,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,691,29,,
 2013-M-FU-TUR-26A-2013,Turkey F26,Hard,32,S,20130701,19,105434,3,,Ruan Roelofse,R,,RSA,23.5975359343,105951,,,Simon Ede,R,,AUS,21.2813141684,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,532,57,830,17
@@ -9835,7 +9835,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-M-FU-DEN-01A-2013,Denmark F1,Clay,32,S,20130715,3,123997,,,Joachim Bjerke,R,,NOR,18.674880219,104972,,,Mauricio Alvarez Guzman,R,,CHI,26.0150581793,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1080,7,1420,3
 2013-M-FU-DEN-01A-2013,Denmark F1,Clay,32,S,20130715,4,122353,,,Christian Hirschmueller,R,,GER,20.3449691992,105427,7,,Milos Sekulic,R,,SWE,23.6933607118,4-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,984,10,767,23
 2013-M-FU-DEN-01A-2013,Denmark F1,Clay,32,S,20130715,5,105239,,,Daniel Glancy,U,,IRL,24.6680355921,106033,4,,Romain Arneodo,R,,FRA,20.9445585216,6-3 4-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,876,15,683,31
-2013-M-FU-DEN-01A-2013,Denmark F1,Clay,32,S,20130715,6,126117,,Q,Mads Engsted,U,,DEN,,126525,,Q,Tobias Galskov,R,,DEN,21.5167693361,7-5 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2013-M-FU-DEN-01A-2013,Denmark F1,Clay,32,S,20130715,6,126117,,Q,Mads Engsted,U,,DEN,20.5037645448,126525,,Q,Tobias Galskov,R,,DEN,21.5167693361,7-5 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2013-M-FU-DEN-01A-2013,Denmark F1,Clay,32,S,20130715,7,103623,,,Jacob Adaktusson,R,,SWE,32.8706365503,126143,,Q,Andreas Bjerrehus,U,,DEN,21.1115674196,6-1 5-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1146,6,,
 2013-M-FU-DEN-01A-2013,Denmark F1,Clay,32,S,20130715,8,106017,5,,Maximilian Dinslaken,R,,GER,21.1006160164,121752,,Q,Jannis Liniger,R,,SUI,23.4907597536,6-7(4) 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,737,25,1621,1
 2013-M-FU-DEN-01A-2013,Denmark F1,Clay,32,S,20130715,9,106096,8,,Tim Nekic,L,,GER,20.5968514716,110596,,Q,Fred Simonsson,R,,SWE,18.6310746064,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,826,18,1535,2
@@ -9848,7 +9848,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-M-FU-DEN-01A-2013,Denmark F1,Clay,32,S,20130715,16,106035,2,,Isak Arvidsson,R,,SWE,20.93908282,126526,,WC,Soren Hess Olesen,U,,DEN,22.5133470226,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,585,45,,
 2013-M-FU-DEN-01A-2013,Denmark F1,Clay,32,S,20130715,17,105860,1,,Tak Khunn Wang,R,,FRA,21.7577002053,106247,,,Nik Razborsek,L,,SLO,19.7782340862,6-1 5-7 6-3,3,R16,,,,,,,,,,,,,,,,,,,,478,69,934,12
 2013-M-FU-DEN-01A-2013,Denmark F1,Clay,32,S,20130715,18,123997,,,Joachim Bjerke,R,,NOR,18.674880219,122353,,,Christian Hirschmueller,R,,GER,20.3449691992,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1080,7,984,10
-2013-M-FU-DEN-01A-2013,Denmark F1,Clay,32,S,20130715,19,105239,,,Daniel Glancy,U,,IRL,24.6680355921,126117,,Q,Mads Engsted,U,,DEN,,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,876,15,,
+2013-M-FU-DEN-01A-2013,Denmark F1,Clay,32,S,20130715,19,105239,,,Daniel Glancy,U,,IRL,24.6680355921,126117,,Q,Mads Engsted,U,,DEN,20.5037645448,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,876,15,,
 2013-M-FU-DEN-01A-2013,Denmark F1,Clay,32,S,20130715,20,106017,5,,Maximilian Dinslaken,R,,GER,21.1006160164,103623,,,Jacob Adaktusson,R,,SWE,32.8706365503,W/O,3,R16,,,,,,,,,,,,,,,,,,,,737,25,1146,6
 2013-M-FU-DEN-01A-2013,Denmark F1,Clay,32,S,20130715,21,111453,,WC,Mikael Torpegaard,R,,DEN,19.1868583162,106096,8,,Tim Nekic,L,,GER,20.5968514716,7-6(6) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,826,18
 2013-M-FU-DEN-01A-2013,Denmark F1,Clay,32,S,20130715,22,105986,3,,Colin Van Beem,U,,NED,21.2128678987,126118,,WC,Esben Hess Olesen,U,,DEN,,6-2 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,644,37,,
@@ -10264,7 +10264,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-M-FU-AUT-05A-2013,Austria F5,Clay,32,S,20130722,29,111442,4,,Jordan Thompson,R,,AUS,19.2553045859,105504,6,,Nikolaus Moser,R,,AUT,23.3374401095,6-3 7-6(1),3,SF,,,,,,,,,,,,,,,,,,,,604,41,677,31
 2013-M-FU-AUT-05A-2013,Austria F5,Clay,32,S,20130722,30,110601,2,,Patrick Ofner,R,,AUT,20.2108145106,104356,,,Mario Haider Maurer,U,,AUT,29.2429842574,3-6 7-6(6) 1-0 RET,3,SF,,,,,,,,,,,,,,,,,,,,561,49,861,15
 2013-M-FU-AUT-05A-2013,Austria F5,Clay,32,S,20130722,31,111442,4,,Jordan Thompson,R,,AUS,19.2553045859,110601,2,,Patrick Ofner,R,,AUT,20.2108145106,1-6 6-4 6-0,3,F,,,,,,,,,,,,,,,,,,,,604,41,561,49
-2013-M-FU-BEL-06A-2013,Belgium F6,Clay,32,S,20130722,1,105820,1,,Juan Carlos Saez,R,,CHI,21.9630390144,126175,,WC,Simon Stevens,R,,BEL,,3-6 6-3 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,405,92,,
+2013-M-FU-BEL-06A-2013,Belgium F6,Clay,32,S,20130722,1,105820,1,,Juan Carlos Saez,R,,CHI,21.9630390144,126175,,WC,Simon Stevens,R,,BEL,17.4674880219,3-6 6-3 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,405,92,,
 2013-M-FU-BEL-06A-2013,Belgium F6,Clay,32,S,20130722,2,105320,,,Eduardo Peralta Tello,R,,MEX,24.2683093771,122221,,WC,James Junior Storme,L,,BEL,18.6064339493,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,833,17,1436,3
 2013-M-FU-BEL-06A-2013,Belgium F6,Clay,32,S,20130722,3,111167,,Q,Ugo Nastasi,R,,LUX,20.2655715264,126089,,Q,Philip De Vetter,U,,BEL,21.7850787132,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1554,2,1737,1
 2013-M-FU-BEL-06A-2013,Belgium F6,Clay,32,S,20130722,4,106333,6,,Julien Cagnina,R,,BEL,19.1321013005,126107,,WC,Michael Geerts,R,,BEL,18.5106091718,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,574,46,1614,1
@@ -10333,7 +10333,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-M-FU-DEN-02A-2013,Denmark F2,Clay,32,S,20130722,5,105432,3,,Prajnesh Gunneswaran,L,,IND,23.6906228611,121679,,Q,Oystein Steiro,U,,NOR,21.4811772758,6-4 5-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,627,38,,
 2013-M-FU-DEN-02A-2013,Denmark F2,Clay,32,S,20130722,6,104972,,,Mauricio Alvarez Guzman,R,,CHI,26.0342231348,106247,,,Nik Razborsek,L,,SLO,19.7973990418,7-6(3) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1414,3,826,18
 2013-M-FU-DEN-02A-2013,Denmark F2,Clay,32,S,20130722,7,126143,,Q,Andreas Bjerrehus,U,,DEN,21.1307323751,106323,,Q,Mohamed Shabib,L,,DEN,19.1786447639,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1737,1
-2013-M-FU-DEN-02A-2013,Denmark F2,Clay,32,S,20130722,8,105503,6,,George Von Massow,R,,GER,23.3374401095,126117,,Q,Mads Engsted,U,,DEN,,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,715,27,,
+2013-M-FU-DEN-02A-2013,Denmark F2,Clay,32,S,20130722,8,105503,6,,George Von Massow,R,,GER,23.3374401095,126117,,Q,Mads Engsted,U,,DEN,20.5229295003,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,715,27,,
 2013-M-FU-DEN-02A-2013,Denmark F2,Clay,32,S,20130722,9,105603,5,,Francois Arthur Vibert,U,,FRA,22.9678302533,126537,,Q,Oliver Benneweis Pramming,U,,DEN,20.4216290212,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,717,27,,
 2013-M-FU-DEN-02A-2013,Denmark F2,Clay,32,S,20130722,10,126136,,WC,Anders Arenfeldt Holm,U,,DEN,17.7549623546,125811,,,Philip Moebius,R,,SWE,16.7665982204,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1455,2
 2013-M-FU-DEN-02A-2013,Denmark F2,Clay,32,S,20130722,11,121360,,,Timon Reichelt,U,,GER,24.1752224504,111453,,WC,Mikael Torpegaard,R,,DEN,19.2060232717,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1309,4,,
@@ -10678,7 +10678,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-M-FU-BEL-07A-2013,Belgium F7,Clay,32,S,20130729,1,104944,1,,Niels Desein,R,,BEL,26.1382614648,111167,,Q,Ugo Nastasi,R,,LUX,20.2847364819,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,220,214,1391,3
 2013-M-FU-BEL-07A-2013,Belgium F7,Clay,32,S,20130729,2,106333,,,Julien Cagnina,R,,BEL,19.151266256,122684,,Q,Juan Matias Gonzalez Carrasco,R,,CHI,19.4414784394,6-2 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,570,46,1088,7
 2013-M-FU-BEL-07A-2013,Belgium F7,Clay,32,S,20130729,3,126156,,Q,Antoine Hoang,R,,FRA,17.7330595483,105666,,Q,Louis Cant,U,,BEL,22.7214236824,6-3 7-6(10),3,R32,,,,,,,,,,,,,,,,,,,,,,1499,2
-2013-M-FU-BEL-07A-2013,Belgium F7,Clay,32,S,20130729,4,105476,8,,Alexandre Folie,R,,BEL,23.4907597536,126175,,WC,Simon Stevens,R,,BEL,,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,492,66,,
+2013-M-FU-BEL-07A-2013,Belgium F7,Clay,32,S,20130729,4,105476,8,,Alexandre Folie,R,,BEL,23.4907597536,126175,,WC,Simon Stevens,R,,BEL,17.4866529774,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,492,66,,
 2013-M-FU-BEL-07A-2013,Belgium F7,Clay,32,S,20130729,5,104963,3,,Yannick Mertens,R,,BEL,26.0944558522,105695,,Q,Sander Gille,R,,BEL,22.5352498289,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,330,124,1221,5
 2013-M-FU-BEL-07A-2013,Belgium F7,Clay,32,S,20130729,6,106048,,,Alban Meuffels,U,,NED,20.9281314168,105791,,,Mauricio Astorga,L,,MEX,22.1108829569,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,761,23,913,13
 2013-M-FU-BEL-07A-2013,Belgium F7,Clay,32,S,20130729,7,105096,,,Julien Dubail,R,,BEL,25.453798768,103872,,SE,Dimitar Grabuloski,U,,MKD,31.7289527721,3-6 6-2 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,609,41,696,28
@@ -11184,7 +11184,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-M-FU-BEL-08A-2013,Belgium F8,Clay,32,S,20130805,3,105320,,,Eduardo Peralta Tello,R,,MEX,24.3066392882,105136,,,Andrei Plotniy,U,,RUS,25.3278576318,4-6 6-3 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,825,19,770,22
 2013-M-FU-BEL-08A-2013,Belgium F8,Clay,32,S,20130805,4,105466,,,Ivo Mijic,U,,GER,23.5537303217,105476,7,,Alexandre Folie,R,,BEL,23.5099247091,0-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,631,37,491,66
 2013-M-FU-BEL-08A-2013,Belgium F8,Clay,32,S,20130805,5,105695,,Q,Sander Gille,R,,BEL,22.5544147844,105838,3,,Julien Obry,R,,FRA,21.9192334018,7-6(3) 5-4 RET,3,R32,,,,,,,,,,,,,,,,,,,,1224,5,376,100
-2013-M-FU-BEL-08A-2013,Belgium F8,Clay,32,S,20130805,6,105593,,,Yannick Vandenbulcke,R,,BEL,23.0499657769,126175,,WC,Simon Stevens,R,,BEL,,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,679,31,,
+2013-M-FU-BEL-08A-2013,Belgium F8,Clay,32,S,20130805,6,105593,,,Yannick Vandenbulcke,R,,BEL,23.0499657769,126175,,WC,Simon Stevens,R,,BEL,17.5058179329,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,679,31,,
 2013-M-FU-BEL-08A-2013,Belgium F8,Clay,32,S,20130805,7,106005,,,Constant Lestienne,R,,FRA,21.2019164956,105809,,Q,Laurent Olivier Daxhelet,R,,BEL,22.0588637919,5-7 6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,594,43,,
 2013-M-FU-BEL-08A-2013,Belgium F8,Clay,32,S,20130805,8,106167,5,,Joris De Loore,R,,BEL,20.2902121834,122684,,LL,Juan Matias Gonzalez Carrasco,R,,CHI,19.4606433949,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,415,89,1102,7
 2013-M-FU-BEL-08A-2013,Belgium F8,Clay,32,S,20130805,9,106333,8,,Julien Cagnina,R,,BEL,19.1704312115,105791,,Q,Mauricio Astorga,L,,MEX,22.1300479124,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,530,56,920,13
@@ -11374,7 +11374,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-M-FU-GER-13A-2013,Germany F13,Clay,32,S,20130805,7,122353,,,Christian Hirschmueller,R,,GER,20.4024640657,121360,,,Timon Reichelt,U,,GER,24.2135523614,1-6 6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,957,11,1426,3
 2013-M-FU-GER-13A-2013,Germany F13,Clay,32,S,20130805,8,104738,7,,Caio Zampieri,R,183,BRA,27.1923340178,105503,,,George Von Massow,R,,GER,23.3757700205,7-6(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,707,28,963,11
 2013-M-FU-GER-13A-2013,Germany F13,Clay,32,S,20130805,9,105953,8,,Dominik Schulz,L,,GER,21.3880903491,111813,,,Nicolas Ernst,R,,GER,26.6036960986,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,824,19,1188,5
-2013-M-FU-GER-13A-2013,Germany F13,Clay,32,S,20130805,10,122501,,Q,Moritz Buerchner,U,,GER,23.2826830938,111162,,WC,Daniel Baumann,R,,GER,,6-3 7-6(9),3,R32,,,,,,,,,,,,,,,,,,,,1461,2,1739,1
+2013-M-FU-GER-13A-2013,Germany F13,Clay,32,S,20130805,10,122501,,Q,Moritz Buerchner,U,,GER,23.2826830938,111162,,WC,Daniel Baumann,R,,GER,18.4887063655,6-3 7-6(9),3,R32,,,,,,,,,,,,,,,,,,,,1461,2,1739,1
 2013-M-FU-GER-13A-2013,Germany F13,Clay,32,S,20130805,11,106250,,,Luis Patino,R,,MEX,19.8302532512,122516,,Q,Lynn Max Kempen,R,,GER,18.7323750856,2-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1097,7,,
 2013-M-FU-GER-13A-2013,Germany F13,Clay,32,S,20130805,12,105906,4,WC,Kevin Krawietz,R,190,GER,21.53045859,105393,,LL,Stephan Hoiss,U,,GER,24.0109514031,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,451,79,1137,6
 2013-M-FU-GER-13A-2013,Germany F13,Clay,32,S,20130805,13,105612,,,Jonas Luetjen,U,,GER,22.9787816564,105514,6,,Jeremy Jahn,R,180,GER,23.3347022587,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,969,10,607,40
@@ -11842,7 +11842,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-M-FU-BEL-09A-2013,Belgium F9,Clay,32,S,20130812,2,105666,,WC,Louis Cant,U,,BEL,22.7597535934,123785,,Q,Clement Geens,R,,BEL,17.4209445585,6-3 6-7(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1540,2,1741,1
 2013-M-FU-BEL-09A-2013,Belgium F9,Clay,32,S,20130812,3,123804,,Q,Sam De Paepe,U,,BEL,18.4750171116,126619,,Q,Nelis De Meyer,U,,BEL,21.4565366188,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2013-M-FU-BEL-09A-2013,Belgium F9,Clay,32,S,20130812,4,123922,,LL,Remy Chala,U,,FRA,18.5133470226,106005,6,,Constant Lestienne,R,,FRA,21.2210814511,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1947,1,584,45
-2013-M-FU-BEL-09A-2013,Belgium F9,Clay,32,S,20130812,5,126175,,Q,Simon Stevens,R,,BEL,,126620,,LL,Pedro Mol,U,,NED,22.3545516769,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2013-M-FU-BEL-09A-2013,Belgium F9,Clay,32,S,20130812,5,126175,,Q,Simon Stevens,R,,BEL,17.5249828884,126620,,LL,Pedro Mol,U,,NED,22.3545516769,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2013-M-FU-BEL-09A-2013,Belgium F9,Clay,32,S,20130812,6,106296,,,Gregoire Barrere,R,183,FRA,19.485284052,105363,,,Maxime Forcin,U,,FRA,24.128678987,6-4 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,1040,9,922,13
 2013-M-FU-BEL-09A-2013,Belgium F9,Clay,32,S,20130812,7,105320,,,Eduardo Peralta Tello,R,,MEX,24.3258042437,105791,,,Mauricio Astorga,L,,MEX,22.1492128679,7-5 6-7(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,833,19,929,13
 2013-M-FU-BEL-09A-2013,Belgium F9,Clay,32,S,20130812,8,111460,,,Quentin Halys,R,,FRA,16.7939767283,103872,8,,Dimitar Grabuloski,U,,MKD,31.7672826831,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,876,15,651,34
@@ -11856,7 +11856,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-M-FU-BEL-09A-2013,Belgium F9,Clay,32,S,20130812,16,106167,2,,Joris De Loore,R,,BEL,20.3093771389,122221,,WC,James Junior Storme,L,,BEL,18.6639288159,6-1 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,418,88,1614,2
 2013-M-FU-BEL-09A-2013,Belgium F9,Clay,32,S,20130812,17,105666,,WC,Louis Cant,U,,BEL,22.7597535934,106293,1,,Kimmer Coppejans,R,,BEL,19.5099247091,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1540,2,344,115
 2013-M-FU-BEL-09A-2013,Belgium F9,Clay,32,S,20130812,18,123922,,LL,Remy Chala,U,,FRA,18.5133470226,123804,,Q,Sam De Paepe,U,,BEL,18.4750171116,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1947,1,,
-2013-M-FU-BEL-09A-2013,Belgium F9,Clay,32,S,20130812,19,106296,,,Gregoire Barrere,R,183,FRA,19.485284052,126175,,Q,Simon Stevens,R,,BEL,,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1040,9,,
+2013-M-FU-BEL-09A-2013,Belgium F9,Clay,32,S,20130812,19,106296,,,Gregoire Barrere,R,183,FRA,19.485284052,126175,,Q,Simon Stevens,R,,BEL,17.5249828884,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1040,9,,
 2013-M-FU-BEL-09A-2013,Belgium F9,Clay,32,S,20130812,20,111460,,,Quentin Halys,R,,FRA,16.7939767283,105320,,,Eduardo Peralta Tello,R,,MEX,24.3258042437,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,876,15,833,19
 2013-M-FU-BEL-09A-2013,Belgium F9,Clay,32,S,20130812,21,105096,7,,Julien Dubail,R,,BEL,25.492128679,106048,,,Alban Meuffels,U,,NED,20.9664613279,6-3 3-6 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,592,43,745,24
 2013-M-FU-BEL-09A-2013,Belgium F9,Clay,32,S,20130812,22,123824,,,Enzo Py,L,,FRA,18.2614647502,126115,,Q,Joran Vliegen,U,,BEL,20.0985626283,6-3 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,758,23,1340,3
@@ -12152,7 +12152,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-M-FU-ITA-21A-2013,Italy F21,Clay,32,S,20130812,2,122501,,,Moritz Buerchner,U,,GER,23.3018480493,123856,,LL,Matteo Rigamonti,U,,ITA,22.5133470226,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1475,2,1877,1
 2013-M-FU-ITA-21A-2013,Italy F21,Clay,32,S,20130812,3,104750,,Q,Patrick Prader,R,,ITA,27.1868583162,109686,,WC,Riccardo Bonadio,U,,ITA,20.0821355236,7-6(4) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1741,1,1232,5
 2013-M-FU-ITA-21A-2013,Italy F21,Clay,32,S,20130812,4,105634,8,,Viktor Galovic,R,,ITA,22.8966461328,126610,,Q,Matteo Berrettini,R,,ITA,17.3333333333,4-6 6-3 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,438,82,,
-2013-M-FU-ITA-21A-2013,Italy F21,Clay,32,S,20130812,5,105932,4,,Nikoloz Basilashvili,R,185,RUS,21.4674880219,104503,,,Guillermo Hormazabal,R,,CHI,28.476386037,7-6(5) 5-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,302,137,855,17
+2013-M-FU-ITA-21A-2013,Italy F21,Clay,32,S,20130812,5,105932,4,,Nikoloz Basilashvili,R,185,GEO,21.4674880219,104503,,,Guillermo Hormazabal,R,,CHI,28.476386037,7-6(5) 5-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,302,137,855,17
 2013-M-FU-ITA-21A-2013,Italy F21,Clay,32,S,20130812,6,123858,,Q,Antonio Massara,R,,ITA,17.9055441478,123855,,WC,Daniele Capecchi,U,,ITA,17.8370978782,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1578,2,1411,3
 2013-M-FU-ITA-21A-2013,Italy F21,Clay,32,S,20130812,7,104354,,WC,Daniele Giorgini,R,180,ITA,29.3004791239,123851,,Q,Davide Galoppini,R,,ITA,18.8008213552,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,433,83,1741,1
 2013-M-FU-ITA-21A-2013,Italy F21,Clay,32,S,20130812,8,105758,7,,Juan Lizariturry,U,,ESP,22.3134839151,123850,,WC,Jacob Nicolussi,U,,ITA,19.2142368241,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,404,91,,
@@ -12166,19 +12166,19 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-M-FU-ITA-21A-2013,Italy F21,Clay,32,S,20130812,16,104944,2,,Niels Desein,R,,BEL,26.1765913758,126611,,Q,Manuel Righi,U,,ITA,19.6112251882,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,219,214,,
 2013-M-FU-ITA-21A-2013,Italy F21,Clay,32,S,20130812,17,104195,1,,Simone Vagnozzi,R,173,ITA,30.2039698836,122501,,,Moritz Buerchner,U,,GER,23.3018480493,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,229,207,1475,2
 2013-M-FU-ITA-21A-2013,Italy F21,Clay,32,S,20130812,18,104750,,Q,Patrick Prader,R,,ITA,27.1868583162,105634,8,,Viktor Galovic,R,,ITA,22.8966461328,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,1741,1,438,82
-2013-M-FU-ITA-21A-2013,Italy F21,Clay,32,S,20130812,19,105932,4,,Nikoloz Basilashvili,R,185,RUS,21.4674880219,123858,,Q,Antonio Massara,R,,ITA,17.9055441478,4-6 7-6(6) 6-0,3,R16,,,,,,,,,,,,,,,,,,,,302,137,1578,2
+2013-M-FU-ITA-21A-2013,Italy F21,Clay,32,S,20130812,19,105932,4,,Nikoloz Basilashvili,R,185,GEO,21.4674880219,123858,,Q,Antonio Massara,R,,ITA,17.9055441478,4-6 7-6(6) 6-0,3,R16,,,,,,,,,,,,,,,,,,,,302,137,1578,2
 2013-M-FU-ITA-21A-2013,Italy F21,Clay,32,S,20130812,20,105758,7,,Juan Lizariturry,U,,ESP,22.3134839151,104354,,WC,Daniele Giorgini,R,180,ITA,29.3004791239,7-6(5) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,404,91,433,83
 2013-M-FU-ITA-21A-2013,Italy F21,Clay,32,S,20130812,21,105401,9,,Matteo Trevisan,R,,ITA,23.9972621492,104789,,,Sherif Sabry,U,,EGY,26.9541409993,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,409,89,466,75
 2013-M-FU-ITA-21A-2013,Italy F21,Clay,32,S,20130812,22,104477,3,,Jorge Aguilar,R,,CHI,28.59137577,105943,,,Federico Gaio,R,,ITA,21.4373716632,3-6 7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,235,206,573,46
 2013-M-FU-ITA-21A-2013,Italy F21,Clay,32,S,20130812,23,104377,5,,Theodoros Angelinos,U,,GRE,29.2046543463,105296,,,Lorenzo Frigerio,R,,ITA,24.4818617385,3-6 7-6(3) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,310,134,843,18
 2013-M-FU-ITA-21A-2013,Italy F21,Clay,32,S,20130812,24,104944,2,,Niels Desein,R,,BEL,26.1765913758,104371,,,Ivo Minar,R,183,CZE,29.2265571526,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,219,214,469,74
 2013-M-FU-ITA-21A-2013,Italy F21,Clay,32,S,20130812,25,104750,,Q,Patrick Prader,R,,ITA,27.1868583162,104195,1,,Simone Vagnozzi,R,173,ITA,30.2039698836,4-6 6-2 7-6(1),3,QF,,,,,,,,,,,,,,,,,,,,1741,1,229,207
-2013-M-FU-ITA-21A-2013,Italy F21,Clay,32,S,20130812,26,105932,4,,Nikoloz Basilashvili,R,185,RUS,21.4674880219,105758,7,,Juan Lizariturry,U,,ESP,22.3134839151,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,302,137,404,91
+2013-M-FU-ITA-21A-2013,Italy F21,Clay,32,S,20130812,26,105932,4,,Nikoloz Basilashvili,R,185,GEO,21.4674880219,105758,7,,Juan Lizariturry,U,,ESP,22.3134839151,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,302,137,404,91
 2013-M-FU-ITA-21A-2013,Italy F21,Clay,32,S,20130812,27,105401,9,,Matteo Trevisan,R,,ITA,23.9972621492,104477,3,,Jorge Aguilar,R,,CHI,28.59137577,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,409,89,235,206
 2013-M-FU-ITA-21A-2013,Italy F21,Clay,32,S,20130812,28,104944,2,,Niels Desein,R,,BEL,26.1765913758,104377,5,,Theodoros Angelinos,U,,GRE,29.2046543463,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,219,214,310,134
-2013-M-FU-ITA-21A-2013,Italy F21,Clay,32,S,20130812,29,105932,4,,Nikoloz Basilashvili,R,185,RUS,21.4674880219,104750,,Q,Patrick Prader,R,,ITA,27.1868583162,6-0 5-7 6-4,3,SF,,,,,,,,,,,,,,,,,,,,302,137,1741,1
+2013-M-FU-ITA-21A-2013,Italy F21,Clay,32,S,20130812,29,105932,4,,Nikoloz Basilashvili,R,185,GEO,21.4674880219,104750,,Q,Patrick Prader,R,,ITA,27.1868583162,6-0 5-7 6-4,3,SF,,,,,,,,,,,,,,,,,,,,302,137,1741,1
 2013-M-FU-ITA-21A-2013,Italy F21,Clay,32,S,20130812,30,105401,9,,Matteo Trevisan,R,,ITA,23.9972621492,104944,2,,Niels Desein,R,,BEL,26.1765913758,7-5 6-3,3,SF,,,,,,,,,,,,,,,,,,,,409,89,219,214
-2013-M-FU-ITA-21A-2013,Italy F21,Clay,32,S,20130812,31,105932,4,,Nikoloz Basilashvili,R,185,RUS,21.4674880219,105401,9,,Matteo Trevisan,R,,ITA,23.9972621492,7-5 3-6 6-4,3,F,,,,,,,,,,,,,,,,,,,,302,137,409,89
+2013-M-FU-ITA-21A-2013,Italy F21,Clay,32,S,20130812,31,105932,4,,Nikoloz Basilashvili,R,185,GEO,21.4674880219,105401,9,,Matteo Trevisan,R,,ITA,23.9972621492,7-5 3-6 6-4,3,F,,,,,,,,,,,,,,,,,,,,302,137,409,89
 2013-M-FU-POL-03A-2013,Poland F3,Clay,32,S,20130812,1,109318,,,Pawel Cias,R,,POL,19.4688569473,126158,,LL,Piotr Lomacki,U,,POL,17.7056810404,6-4 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,964,11,,
 2013-M-FU-POL-03A-2013,Poland F3,Clay,32,S,20130812,2,111177,,,Arkadiusz Kocyla,R,,POL,19.7754962355,105856,,WC,Adam Majchrowicz,U,,POL,21.8535249829,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2013-M-FU-POL-03A-2013,Poland F3,Clay,32,S,20130812,3,122156,,Q,Jakub Hadrava,R,,CZE,20.4681724846,123807,,Q,Marek Jaloviec,L,,CZE,19.5564681725,7-6(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1578,2
@@ -12490,7 +12490,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-M-FU-BLR-02A-2013,Belarus F2,Hard,32,S,20130819,30,106078,5,,Egor Gerasimov,R,,BLR,20.7693360712,105029,4,,Sergey Betov,R,,BLR,25.8453114305,7-6(4) 0-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,492,66,460,76
 2013-M-FU-BLR-02A-2013,Belarus F2,Hard,32,S,20130819,31,106078,5,,Egor Gerasimov,R,,BLR,20.7693360712,104510,1,,Stefan Seifert,L,,GER,28.4709103354,6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,492,66,303,138
 2013-M-FU-BEL-10A-2013,Belgium F10,Clay,32,S,20130819,1,106293,1,,Kimmer Coppejans,R,,BEL,19.5290896646,104428,,,Petar Trendafilov,R,,BUL,28.9363449692,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,350,113,855,17
-2013-M-FU-BEL-10A-2013,Belgium F10,Clay,32,S,20130819,2,126175,,WC,Simon Stevens,R,,BEL,,122684,,,Juan Matias Gonzalez Carrasco,R,,CHI,19.498973306,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,1122,7
+2013-M-FU-BEL-10A-2013,Belgium F10,Clay,32,S,20130819,2,126175,,WC,Simon Stevens,R,,BEL,17.5441478439,122684,,,Juan Matias Gonzalez Carrasco,R,,CHI,19.498973306,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,1122,7
 2013-M-FU-BEL-10A-2013,Belgium F10,Clay,32,S,20130819,3,106214,,,Oscar Otte,R,,GER,20.0930869268,122410,,Q,Victor Girat Magin,U,,FRA,19.8904859685,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,766,23,1553,2
 2013-M-FU-BEL-10A-2013,Belgium F10,Clay,32,S,20130819,4,105695,,Q,Sander Gille,R,,BEL,22.5927446954,106333,6,,Julien Cagnina,R,,BEL,19.2087611225,6-4 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1112,7,549,53
 2013-M-FU-BEL-10A-2013,Belgium F10,Clay,32,S,20130819,5,106167,3,,Joris De Loore,R,,BEL,20.3285420945,122221,,WC,James Junior Storme,L,,BEL,18.6830937714,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,421,88,1627,2
@@ -12505,7 +12505,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-M-FU-BEL-10A-2013,Belgium F10,Clay,32,S,20130819,14,126107,,WC,Michael Geerts,R,,BEL,18.5872689938,105174,,,Franck Pepe,R,,FRA,25.1334702259,4-3 RET,3,R32,,,,,,,,,,,,,,,,,,,,1748,1,890,15
 2013-M-FU-BEL-10A-2013,Belgium F10,Clay,32,S,20130819,15,122282,,Q,Robin Cambier,U,,BEL,21.1197809719,123837,,Q,Yannick Staschen,R,,GER,18.9514031485,7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1346,3
 2013-M-FU-BEL-10A-2013,Belgium F10,Clay,32,S,20130819,16,105363,,,Maxime Forcin,U,,FRA,24.1478439425,105651,2,,Daniel Smethurst,U,,GBR,22.8501026694,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,923,13,402,94
-2013-M-FU-BEL-10A-2013,Belgium F10,Clay,32,S,20130819,17,106293,1,,Kimmer Coppejans,R,,BEL,19.5290896646,126175,,WC,Simon Stevens,R,,BEL,,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,350,113,,
+2013-M-FU-BEL-10A-2013,Belgium F10,Clay,32,S,20130819,17,106293,1,,Kimmer Coppejans,R,,BEL,19.5290896646,126175,,WC,Simon Stevens,R,,BEL,17.5441478439,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,350,113,,
 2013-M-FU-BEL-10A-2013,Belgium F10,Clay,32,S,20130819,18,106214,,,Oscar Otte,R,,GER,20.0930869268,105695,,Q,Sander Gille,R,,BEL,22.5927446954,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,766,23,1112,7
 2013-M-FU-BEL-10A-2013,Belgium F10,Clay,32,S,20130819,19,106167,3,,Joris De Loore,R,,BEL,20.3285420945,105320,,,Eduardo Peralta Tello,R,,MEX,24.3449691992,6-0 7-5,3,R16,,,,,,,,,,,,,,,,,,,,421,88,818,20
 2013-M-FU-BEL-10A-2013,Belgium F10,Clay,32,S,20130819,20,103872,,,Dimitar Grabuloski,U,,MKD,31.7864476386,105014,7,,Antal Van Der Duim,R,,NED,25.9247091034,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,553,52,544,54
@@ -13210,7 +13210,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-M-FU-BEL-11A-2013,Belgium F11,Clay,32,S,20130826,6,105593,,,Yannick Vandenbulcke,R,,BEL,23.1074606434,106250,,,Luis Patino,R,,MEX,19.8877481177,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,674,32,1012,10
 2013-M-FU-BEL-11A-2013,Belgium F11,Clay,32,S,20130826,7,106384,,,Or Ram Harel,R,,ISR,18.5653661875,122410,,Q,Victor Girat Magin,U,,FRA,19.909650924,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,871,17,1568,2
 2013-M-FU-BEL-11A-2013,Belgium F11,Clay,32,S,20130826,8,106333,8,,Julien Cagnina,R,,BEL,19.227926078,126647,,Q,Richard Urbain,U,,BEL,24.476386037,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,554,52,,
-2013-M-FU-BEL-11A-2013,Belgium F11,Clay,32,S,20130826,9,105914,5,,Ashley Hewitt,R,,GBR,21.5523613963,126175,,WC,Simon Stevens,R,,BEL,,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,416,88,2029,1
+2013-M-FU-BEL-11A-2013,Belgium F11,Clay,32,S,20130826,9,105914,5,,Ashley Hewitt,R,,GBR,21.5523613963,126175,,WC,Simon Stevens,R,,BEL,17.5633127995,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,416,88,2029,1
 2013-M-FU-BEL-11A-2013,Belgium F11,Clay,32,S,20130826,10,122221,,,James Junior Storme,L,,BEL,18.7022587269,123804,,WC,Sam De Paepe,U,,BEL,18.5133470226,7-6(3) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1643,2,1768,1
 2013-M-FU-BEL-11A-2013,Belgium F11,Clay,32,S,20130826,11,103872,,,Dimitar Grabuloski,U,,MKD,31.8056125941,104946,,,Olaf De Weerdt,U,,BEL,26.212183436,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,550,52,1126,7
 2013-M-FU-BEL-11A-2013,Belgium F11,Clay,32,S,20130826,12,105651,4,,Daniel Smethurst,U,,GBR,22.8692676249,105416,,Q,Kim Moellers,U,,GER,23.9178644764,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,400,94,1969,1
@@ -15677,7 +15677,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-M-FU-GER-17A-2013,Germany F17,Carpet,32,S,20130930,3,106377,,,Robin Stanek,L,,CZE,18.7405886379,106345,,,Bastian Wagner,R,,GER,19.2087611225,2-6 7-6(4) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,887,16,872,17
 2013-M-FU-GER-17A-2013,Germany F17,Carpet,32,S,20130930,4,123788,,Q,Lennart Zynga,R,,GER,21.9438740589,105504,5,,Nikolaus Moser,R,,AUT,23.5290896646,3-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1447,3,671,33
 2013-M-FU-GER-17A-2013,Germany F17,Carpet,32,S,20130930,5,105534,4,,Erik Crepaldi,L,,ITA,23.40862423,111167,,Q,Ugo Nastasi,R,,LUX,20.4572210815,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,534,58,1107,7
-2013-M-FU-GER-17A-2013,Germany F17,Carpet,32,S,20130930,6,111807,,Q,Simeon Rossier,L,,SUI,18.7077344285,111162,,WC,Daniel Baumann,R,,GER,,6-3 2-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1776,1,,
+2013-M-FU-GER-17A-2013,Germany F17,Carpet,32,S,20130930,6,111807,,Q,Simeon Rossier,L,,SUI,18.7077344285,111162,,WC,Daniel Baumann,R,,GER,18.6420260096,6-3 2-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1776,1,,
 2013-M-FU-GER-17A-2013,Germany F17,Carpet,32,S,20130930,7,105786,,,Tom Schonenberg,R,,GER,22.2943189596,125802,,Q,Ilya Ivashka,R,,BLR,19.5975359343,3-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,873,17,1315,4
 2013-M-FU-GER-17A-2013,Germany F17,Carpet,32,S,20130930,8,105478,,Q,Yan Sabanin,U,,RUS,23.6632443532,106310,8,,Alexander Ritschard,R,,SUI,19.5208761123,6-7(4) 7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1063,9,751,24
 2013-M-FU-GER-17A-2013,Germany F17,Carpet,32,S,20130930,9,105617,,Q,Andreas Mies,U,,GER,23.1101984942,106214,7,,Oscar Otte,R,,GER,20.2080766598,7-5 4-6 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,1136,6,720,27
@@ -17223,7 +17223,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-M-FU-USA-27A-2013,USA F27,Hard,32,S,20131014,30,105447,,,Dennis Nevolo,R,,USA,23.8110882957,105840,,WC,Arnau Dachs,U,,ESP,22.1054072553,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,637,38,,
 2013-M-FU-USA-27A-2013,USA F27,Hard,32,S,20131014,31,106302,,,Andrew Harris,R,,AUS,19.6057494867,105447,,,Dennis Nevolo,R,,USA,23.8110882957,6-4 7-6(5),3,F,,,,,,,,,,,,,,,,,,,,811,20,637,38
 2013-M-FU-BRA-13A-2013,Brazil F13,Hard,32,S,20131021,1,104905,1,,Nicolas Barrientos,R,175,COL,26.4941820671,105873,,,Idio Escobar,R,,BRA,21.9137577002,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,305,144,983,11
-2013-M-FU-BRA-13A-2013,Brazil F13,Hard,32,S,20131021,2,107641,,Q,Marcelo Cesana,R,,BRA,,122259,,,Cristian Eduardo Espinola,R,,CHI,19.8220396988,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1441,3
+2013-M-FU-BRA-13A-2013,Brazil F13,Hard,32,S,20131021,2,107641,,Q,Marcelo Cesana,R,,BRA,38.5571526352,122259,,,Cristian Eduardo Espinola,R,,CHI,19.8220396988,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1441,3
 2013-M-FU-BRA-13A-2013,Brazil F13,Hard,32,S,20131021,3,105979,,,Augusto Laranja,R,,BRA,21.5167693361,134712,,Q,Vinicius Fialho,U,,BRA,18.5790554415,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,762,24,,
 2013-M-FU-BRA-13A-2013,Brazil F13,Hard,32,S,20131021,4,106203,6,,Pedro Sakamoto,U,,BRA,20.3121149897,105564,,,Victor Maynard,U,,BRA,23.3812457221,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,501,68,,
 2013-M-FU-BRA-13A-2013,Brazil F13,Hard,32,S,20131021,5,105381,3,,Thales Turini,U,,BRA,24.2600958248,121915,,,Paulo Coronado,U,,BRA,18.431211499,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,380,104,,
@@ -17238,7 +17238,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-M-FU-BRA-13A-2013,Brazil F13,Hard,32,S,20131021,14,122081,,,Luis Britto,R,,BRA,20.3285420945,126297,,Q,Felipe Tamayo,U,,CHI,20.2655715264,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,2023,1,,
 2013-M-FU-BRA-13A-2013,Brazil F13,Hard,32,S,20131021,15,121567,,,Fernando Albuquerque,R,,BRA,28.4134154689,144628,,Q,Alexandre Guilherme Da Silva Nunes,U,,BRA,31.0444900753,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1577,2,,
 2013-M-FU-BRA-13A-2013,Brazil F13,Hard,32,S,20131021,16,105262,2,,Fernando Romboli,R,180,BRA,24.7939767283,106171,,,Marcos Vinicius Dias,R,,BRA,20.4928131417,6-0 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,364,111,1058,9
-2013-M-FU-BRA-13A-2013,Brazil F13,Hard,32,S,20131021,17,104905,1,,Nicolas Barrientos,R,175,COL,26.4941820671,107641,,Q,Marcelo Cesana,R,,BRA,,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,305,144,,
+2013-M-FU-BRA-13A-2013,Brazil F13,Hard,32,S,20131021,17,104905,1,,Nicolas Barrientos,R,175,COL,26.4941820671,107641,,Q,Marcelo Cesana,R,,BRA,38.5571526352,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,305,144,,
 2013-M-FU-BRA-13A-2013,Brazil F13,Hard,32,S,20131021,18,105979,,,Augusto Laranja,R,,BRA,21.5167693361,106203,6,,Pedro Sakamoto,U,,BRA,20.3121149897,7-6(4) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,762,24,501,68
 2013-M-FU-BRA-13A-2013,Brazil F13,Hard,32,S,20131021,19,105381,3,,Thales Turini,U,,BRA,24.2600958248,105215,,Q,Gabriel Pimentel,R,,BRA,25.0924024641,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,380,104,,
 2013-M-FU-BRA-13A-2013,Brazil F13,Hard,32,S,20131021,20,105180,8,,Daniel Dutra Da Silva,L,175,BRA,25.2950034223,126713,,WC,Victor Hugo Portugal Pereira,R,,BRA,17.5852156057,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,491,71,,
@@ -18190,7 +18190,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-M-FU-TUR-44A-2013,Turkey F44,Hard,32,S,20131104,5,105085,3,,Artem Smirnov,U,,UKR,25.7549623546,105750,,,Vitaliy Kachanovskiy,U,,RUS,22.5653661875,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,376,107,973,12
 2013-M-FU-TUR-44A-2013,Turkey F44,Hard,32,S,20131104,6,108748,,Q,Lukas Mugevicius,R,,LTU,18.9103353867,117356,,Q,Cem Ilkel,R,,TUR,18.2067077344,2-6 7-6(6) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1092,8,1131,7
 2013-M-FU-TUR-44A-2013,Turkey F44,Hard,32,S,20131104,7,105136,,,Andrei Plotniy,U,,RUS,25.5770020534,123788,,Q,Lennart Zynga,R,,GER,22.0396988364,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,809,21,963,12
-2013-M-FU-TUR-44A-2013,Turkey F44,Hard,32,S,20131104,8,105932,5,Q,Nikoloz Basilashvili,R,185,RUS,21.697467488,105236,,,Pirmin Haenle,R,,GER,25.0102669405,6-3 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,389,102,824,20
+2013-M-FU-TUR-44A-2013,Turkey F44,Hard,32,S,20131104,8,105932,5,Q,Nikoloz Basilashvili,R,185,GEO,21.697467488,105236,,,Pirmin Haenle,R,,GER,25.0102669405,6-3 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,389,102,824,20
 2013-M-FU-TUR-44A-2013,Turkey F44,Hard,32,S,20131104,9,105398,7,,Adam El Mihdawy,U,,USA,24.2381930185,144634,,WC,Semen Tripolskiy,U,,RUS,17.4647501711,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,496,71,,
 2013-M-FU-TUR-44A-2013,Turkey F44,Hard,32,S,20131104,10,105551,,WC,Anil Yuksel,L,,TUR,23.4633812457,121695,,WC,Fatih Taha Erun,U,,TUR,19.3347022587,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1360,4,2087,1
 2013-M-FU-TUR-44A-2013,Turkey F44,Hard,32,S,20131104,11,105503,,Q,George Von Massow,R,,GER,23.6249144422,134068,,Q,Vadym Ursu,R,,UKR,16.8405201916,4-6 7-6(2) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1072,9,,
@@ -18202,18 +18202,18 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-M-FU-TUR-44A-2013,Turkey F44,Hard,32,S,20131104,17,104893,1,,Maxime Authom,R,,BEL,26.6036960986,106397,,SE,Wishaya Trongcharoenchaikul,R,,THA,18.5763175907,7-6(3) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,265,171,1245,5
 2013-M-FU-TUR-44A-2013,Turkey F44,Hard,32,S,20131104,18,122222,,Q,Jonas Merckx,R,,BEL,20.0848733744,106361,6,,Adam Pavlasek,R,,CZE,19.0746064339,7-5 6-7(2) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1065,9,392,101
 2013-M-FU-TUR-44A-2013,Turkey F44,Hard,32,S,20131104,19,108748,,Q,Lukas Mugevicius,R,,LTU,18.9103353867,105085,3,,Artem Smirnov,U,,UKR,25.7549623546,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1092,8,376,107
-2013-M-FU-TUR-44A-2013,Turkey F44,Hard,32,S,20131104,20,105932,5,Q,Nikoloz Basilashvili,R,185,RUS,21.697467488,105136,,,Andrei Plotniy,U,,RUS,25.5770020534,6-3 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,389,102,809,21
+2013-M-FU-TUR-44A-2013,Turkey F44,Hard,32,S,20131104,20,105932,5,Q,Nikoloz Basilashvili,R,185,GEO,21.697467488,105136,,,Andrei Plotniy,U,,RUS,25.5770020534,6-3 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,389,102,809,21
 2013-M-FU-TUR-44A-2013,Turkey F44,Hard,32,S,20131104,21,105398,7,,Adam El Mihdawy,U,,USA,24.2381930185,105551,,WC,Anil Yuksel,L,,TUR,23.4633812457,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,496,71,1360,4
 2013-M-FU-TUR-44A-2013,Turkey F44,Hard,32,S,20131104,22,106201,4,Q,Maxim Dubarenco,R,,MDA,20.3641341547,105503,,Q,George Von Massow,R,,GER,23.6249144422,6-3 6-7(4) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,379,107,1072,9
 2013-M-FU-TUR-44A-2013,Turkey F44,Hard,32,S,20131104,23,106017,,,Maximilian Dinslaken,R,,GER,21.4072553046,111450,,,Pietro Licciardi,L,,ITA,19.4688569473,7-6(3) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,886,16,926,14
 2013-M-FU-TUR-44A-2013,Turkey F44,Hard,32,S,20131104,24,106246,2,,Robin Kern,R,,GER,20.0876112252,105786,,,Tom Schonenberg,R,,GER,22.3901437372,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,388,104,715,29
 2013-M-FU-TUR-44A-2013,Turkey F44,Hard,32,S,20131104,25,104893,1,,Maxime Authom,R,,BEL,26.6036960986,122222,,Q,Jonas Merckx,R,,BEL,20.0848733744,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,265,171,1065,9
-2013-M-FU-TUR-44A-2013,Turkey F44,Hard,32,S,20131104,26,105932,5,Q,Nikoloz Basilashvili,R,185,RUS,21.697467488,108748,,Q,Lukas Mugevicius,R,,LTU,18.9103353867,7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,389,102,1092,8
+2013-M-FU-TUR-44A-2013,Turkey F44,Hard,32,S,20131104,26,105932,5,Q,Nikoloz Basilashvili,R,185,GEO,21.697467488,108748,,Q,Lukas Mugevicius,R,,LTU,18.9103353867,7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,389,102,1092,8
 2013-M-FU-TUR-44A-2013,Turkey F44,Hard,32,S,20131104,27,106201,4,Q,Maxim Dubarenco,R,,MDA,20.3641341547,105398,7,,Adam El Mihdawy,U,,USA,24.2381930185,6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,379,107,496,71
 2013-M-FU-TUR-44A-2013,Turkey F44,Hard,32,S,20131104,28,106246,2,,Robin Kern,R,,GER,20.0876112252,106017,,,Maximilian Dinslaken,R,,GER,21.4072553046,7-6(3) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,388,104,886,16
-2013-M-FU-TUR-44A-2013,Turkey F44,Hard,32,S,20131104,29,105932,5,Q,Nikoloz Basilashvili,R,185,RUS,21.697467488,104893,1,,Maxime Authom,R,,BEL,26.6036960986,7-5 6-3,3,SF,,,,,,,,,,,,,,,,,,,,389,102,265,171
+2013-M-FU-TUR-44A-2013,Turkey F44,Hard,32,S,20131104,29,105932,5,Q,Nikoloz Basilashvili,R,185,GEO,21.697467488,104893,1,,Maxime Authom,R,,BEL,26.6036960986,7-5 6-3,3,SF,,,,,,,,,,,,,,,,,,,,389,102,265,171
 2013-M-FU-TUR-44A-2013,Turkey F44,Hard,32,S,20131104,30,106246,2,,Robin Kern,R,,GER,20.0876112252,106201,4,Q,Maxim Dubarenco,R,,MDA,20.3641341547,7-6(15) 6-4,3,SF,,,,,,,,,,,,,,,,,,,,388,104,379,107
-2013-M-FU-TUR-44A-2013,Turkey F44,Hard,32,S,20131104,31,106246,2,,Robin Kern,R,,GER,20.0876112252,105932,5,Q,Nikoloz Basilashvili,R,185,RUS,21.697467488,4-6 6-3 6-3,3,F,,,,,,,,,,,,,,,,,,,,388,104,389,102
+2013-M-FU-TUR-44A-2013,Turkey F44,Hard,32,S,20131104,31,106246,2,,Robin Kern,R,,GER,20.0876112252,105932,5,Q,Nikoloz Basilashvili,R,185,GEO,21.697467488,4-6 6-3 6-3,3,F,,,,,,,,,,,,,,,,,,,,388,104,389,102
 2013-M-FU-USA-30A-2013,USA F30,Clay,32,S,20131104,1,103799,,PR,Eric Prodon,R,178,FRA,32.3559206023,104112,1,,Benjamin Balleret,R,185,MON,30.803559206,0-6 7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1683,1,280,159
 2013-M-FU-USA-30A-2013,USA F30,Clay,32,S,20131104,2,106342,,,Martins Podzus,R,,LAT,19.3511293634,111511,,JE,Noah Rubin,R,,USA,17.7029431896,2-6 6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,753,25,759,24
 2013-M-FU-USA-30A-2013,USA F30,Clay,32,S,20131104,3,103806,,,Catalin Ionut Gard,R,,ROU,32.3203285421,127036,,WC,Aron Hiltzik,U,,USA,17.5496235455,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,863,17,,
@@ -18539,7 +18539,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-M-FU-TUR-45A-2013,Turkey F45,Clay,32,S,20131111,13,105986,6,,Colin Van Beem,U,,NED,21.5386721424,106282,,WC,Durukan Durmus,L,,TUR,19.832991102,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,562,52,,
 2013-M-FU-TUR-45A-2013,Turkey F45,Clay,32,S,20131111,14,105551,,WC,Anil Yuksel,L,,TUR,23.4825462012,106396,,,Cheng Yu Yu,U,,TPE,18.6119096509,6-4 5-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1267,5,979,11
 2013-M-FU-TUR-45A-2013,Turkey F45,Clay,32,S,20131111,15,106021,,,Dragos Dima,R,,ROU,21.4045174538,106118,,LL,Ciprian Alexandru Porumb,R,,ROU,20.7967145791,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1187,6,1333,4
-2013-M-FU-TUR-45A-2013,Turkey F45,Clay,32,S,20131111,16,105932,2,,Nikoloz Basilashvili,R,185,RUS,21.7166324435,105136,,,Andrei Plotniy,U,,RUS,25.5961670089,7-6(2) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,389,102,804,21
+2013-M-FU-TUR-45A-2013,Turkey F45,Clay,32,S,20131111,16,105932,2,,Nikoloz Basilashvili,R,185,GEO,21.7166324435,105136,,,Andrei Plotniy,U,,RUS,25.5961670089,7-6(2) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,389,102,804,21
 2013-M-FU-TUR-45A-2013,Turkey F45,Clay,32,S,20131111,17,105675,1,,Marc Rath,R,,AUT,22.9349760438,109337,,Q,Sebastian Wagner,U,,GER,21.7850787132,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,367,111,1351,4
 2013-M-FU-TUR-45A-2013,Turkey F45,Clay,32,S,20131111,18,105398,5,,Adam El Mihdawy,U,,USA,24.257357974,105824,,,Kirill Dmitriev,U,,RUS,22.2587268994,2-6 6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,497,71,917,14
 2013-M-FU-TUR-45A-2013,Turkey F45,Clay,32,S,20131111,19,106361,3,,Adam Pavlasek,R,,CZE,19.0937713895,105852,,,Viktor Filipenko,U,,HUN,22.1300479124,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,406,95,805,21
@@ -18547,14 +18547,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-M-FU-TUR-45A-2013,Turkey F45,Clay,32,S,20131111,21,103574,7,,Teodor Dacian Craciun,R,,ROU,33.4318959617,105734,,Q,Patrick Grigoriu,L,,ROU,22.6338124572,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,608,43,,
 2013-M-FU-TUR-45A-2013,Turkey F45,Clay,32,S,20131111,22,105278,,,Alexis Klegou,U,,BEN,24.7939767283,105181,4,,Miljan Zekic,U,,SRB,25.3333333333,6-3 2-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1056,9,424,91
 2013-M-FU-TUR-45A-2013,Turkey F45,Clay,32,S,20131111,23,105986,6,,Colin Van Beem,U,,NED,21.5386721424,105551,,WC,Anil Yuksel,L,,TUR,23.4825462012,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,562,52,1267,5
-2013-M-FU-TUR-45A-2013,Turkey F45,Clay,32,S,20131111,24,105932,2,,Nikoloz Basilashvili,R,185,RUS,21.7166324435,106021,,,Dragos Dima,R,,ROU,21.4045174538,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,389,102,1187,6
+2013-M-FU-TUR-45A-2013,Turkey F45,Clay,32,S,20131111,24,105932,2,,Nikoloz Basilashvili,R,185,GEO,21.7166324435,106021,,,Dragos Dima,R,,ROU,21.4045174538,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,389,102,1187,6
 2013-M-FU-TUR-45A-2013,Turkey F45,Clay,32,S,20131111,25,105675,1,,Marc Rath,R,,AUT,22.9349760438,105398,5,,Adam El Mihdawy,U,,USA,24.257357974,6-3 7-6(4),3,QF,,,,,,,,,,,,,,,,,,,,367,111,497,71
 2013-M-FU-TUR-45A-2013,Turkey F45,Clay,32,S,20131111,26,106361,3,,Adam Pavlasek,R,,CZE,19.0937713895,105786,,,Tom Schonenberg,R,,GER,22.4093086927,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,406,95,717,29
 2013-M-FU-TUR-45A-2013,Turkey F45,Clay,32,S,20131111,27,103574,7,,Teodor Dacian Craciun,R,,ROU,33.4318959617,105278,,,Alexis Klegou,U,,BEN,24.7939767283,4-6 7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,608,43,1056,9
-2013-M-FU-TUR-45A-2013,Turkey F45,Clay,32,S,20131111,28,105932,2,,Nikoloz Basilashvili,R,185,RUS,21.7166324435,105986,6,,Colin Van Beem,U,,NED,21.5386721424,0-6 6-3 7-6(3),3,QF,,,,,,,,,,,,,,,,,,,,389,102,562,52
+2013-M-FU-TUR-45A-2013,Turkey F45,Clay,32,S,20131111,28,105932,2,,Nikoloz Basilashvili,R,185,GEO,21.7166324435,105986,6,,Colin Van Beem,U,,NED,21.5386721424,0-6 6-3 7-6(3),3,QF,,,,,,,,,,,,,,,,,,,,389,102,562,52
 2013-M-FU-TUR-45A-2013,Turkey F45,Clay,32,S,20131111,29,105675,1,,Marc Rath,R,,AUT,22.9349760438,106361,3,,Adam Pavlasek,R,,CZE,19.0937713895,W/O,3,SF,,,,,,,,,,,,,,,,,,,,367,111,406,95
-2013-M-FU-TUR-45A-2013,Turkey F45,Clay,32,S,20131111,30,105932,2,,Nikoloz Basilashvili,R,185,RUS,21.7166324435,103574,7,,Teodor Dacian Craciun,R,,ROU,33.4318959617,6-0 6-2,3,SF,,,,,,,,,,,,,,,,,,,,389,102,608,43
-2013-M-FU-TUR-45A-2013,Turkey F45,Clay,32,S,20131111,31,105675,1,,Marc Rath,R,,AUT,22.9349760438,105932,2,,Nikoloz Basilashvili,R,185,RUS,21.7166324435,6-1 6-3,3,F,,,,,,,,,,,,,,,,,,,,367,111,389,102
+2013-M-FU-TUR-45A-2013,Turkey F45,Clay,32,S,20131111,30,105932,2,,Nikoloz Basilashvili,R,185,GEO,21.7166324435,103574,7,,Teodor Dacian Craciun,R,,ROU,33.4318959617,6-0 6-2,3,SF,,,,,,,,,,,,,,,,,,,,389,102,608,43
+2013-M-FU-TUR-45A-2013,Turkey F45,Clay,32,S,20131111,31,105675,1,,Marc Rath,R,,AUT,22.9349760438,105932,2,,Nikoloz Basilashvili,R,185,GEO,21.7166324435,6-1 6-3,3,F,,,,,,,,,,,,,,,,,,,,367,111,389,102
 2013-M-FU-USA-31A-2013,USA F31,Clay,32,S,20131111,1,126095,,,Devin Mccarthy,R,,USA,23.0006844627,104112,1,,Benjamin Balleret,R,185,MON,30.8227241615,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,811,20,257,176
 2013-M-FU-USA-31A-2013,USA F31,Clay,32,S,20131111,2,106360,,,Connor Farren,R,,USA,19.1074606434,106064,,,Lucas Renard,R,,SWE,21.1143052704,6-2 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,899,15,923,14
 2013-M-FU-USA-31A-2013,USA F31,Clay,32,S,20131111,3,125841,,Q,Alexandru Gozun,R,,USA,17.8617385352,103665,,Q,Ryan Haviland,U,,USA,32.9144421629,3-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1487,2,,
@@ -18869,7 +18869,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-M-FU-TUR-46A-2013,Turkey F46,Hard,32,S,20131118,2,126107,,Q,Michael Geerts,R,,BEL,18.8364134155,126721,,WC,Vasiliy Kraynikovskiy,R,,RUS,17.5359342916,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1581,2,,
 2013-M-FU-TUR-46A-2013,Turkey F46,Hard,32,S,20131118,3,105852,,,Viktor Filipenko,U,,HUN,22.1492128679,117356,,,Cem Ilkel,R,,TUR,18.2450376454,2-6 7-6(7) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,807,21,1067,9
 2013-M-FU-TUR-46A-2013,Turkey F46,Hard,32,S,20131118,4,104603,8,,Andrei Ciumac,L,,MDA,28.1889117043,106143,,,Dekel Bar,R,,ISR,20.6789869952,6-3 1-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,695,32,840,19
-2013-M-FU-TUR-46A-2013,Turkey F46,Hard,32,S,20131118,5,105797,,,Marvin Netuschil,R,,GER,22.3819301848,105932,3,,Nikoloz Basilashvili,R,185,RUS,21.735797399,6-2 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1034,10,371,112
+2013-M-FU-TUR-46A-2013,Turkey F46,Hard,32,S,20131118,5,105797,,,Marvin Netuschil,R,,GER,22.3819301848,105932,3,,Nikoloz Basilashvili,R,185,GEO,21.735797399,6-2 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1034,10,371,112
 2013-M-FU-TUR-46A-2013,Turkey F46,Hard,32,S,20131118,6,109337,,Q,Sebastian Wagner,U,,GER,21.8042436687,123796,,WC,Berk Iliescu,U,,TUR,16.8049281314,7-6(2) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1348,4,2168,1
 2013-M-FU-TUR-46A-2013,Turkey F46,Hard,32,S,20131118,7,106118,,Q,Ciprian Alexandru Porumb,R,,ROU,20.8158795346,123788,,,Lennart Zynga,R,,GER,22.0780287474,7-5 3-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,1332,4,965,12
 2013-M-FU-TUR-46A-2013,Turkey F46,Hard,32,S,20131118,8,104980,6,,Anton Zaitsev,U,,RUS,26.3271731691,104186,,,Gleb Alekseenko,R,,UKR,30.5023956194,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,579,50,1102,8
@@ -19423,7 +19423,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-M-FU-EGY-35A-2013,Egypt F35,Clay,32,S,20131202,29,105633,1,,Mohamed Safwat,R,183,EGY,23.2032854209,106186,7,,Jason Kubler,R,,AUS,20.5393566051,7-6(3) 3-6 6-4,3,SF,,,,,,,,,,,,,,,,,,,,208,237,472,76
 2013-M-FU-EGY-35A-2013,Egypt F35,Clay,32,S,20131202,30,106353,5,,Pedja Krstin,R,,SRB,19.2470910335,103687,6,,Enrico Burzi,U,,ITA,32.8815879535,6-4 5-7 6-4,3,SF,,,,,,,,,,,,,,,,,,,,401,97,451,83
 2013-M-FU-EGY-35A-2013,Egypt F35,Clay,32,S,20131202,31,105633,1,,Mohamed Safwat,R,183,EGY,23.2032854209,106353,5,,Pedja Krstin,R,,SRB,19.2470910335,6-4 7-6(1),3,F,,,,,,,,,,,,,,,,,,,,208,237,401,97
-2013-M-FU-QAT-03A-2013,Qatar F3,Hard,32,S,20131202,1,105932,1,,Nikoloz Basilashvili,R,185,RUS,21.7741273101,109734,,Q,Skander Mansouri,R,,TUN,18.3627652293,6-3 5-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,362,116,1328,4
+2013-M-FU-QAT-03A-2013,Qatar F3,Hard,32,S,20131202,1,105932,1,,Nikoloz Basilashvili,R,185,GEO,21.7741273101,109734,,Q,Skander Mansouri,R,,TUN,18.3627652293,6-3 5-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,362,116,1328,4
 2013-M-FU-QAT-03A-2013,Qatar F3,Hard,32,S,20131202,2,111167,,Q,Ugo Nastasi,R,,LUX,20.629705681,106037,,LL,Yahor Yatsyk,R,,BLR,21.3223819302,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1196,6,1204,6
 2013-M-FU-QAT-03A-2013,Qatar F3,Hard,32,S,20131202,3,106348,,,Evgeny Karlovskiy,R,,RUS,19.3210130048,105934,,,Chuhan Wang,R,,CHN,21.7713894593,5-7 6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,840,19,744,26
 2013-M-FU-QAT-03A-2013,Qatar F3,Hard,32,S,20131202,4,105040,6,,Laurent Malouli,U,,FRA,26.083504449,126279,,WC,Jassem Al Zeyara,U,,QAT,15.9808350445,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,680,35,,
@@ -19439,7 +19439,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-M-FU-QAT-03A-2013,Qatar F3,Hard,32,S,20131202,14,110476,,WC,Mousa Shanan Zayed,U,,QAT,19.7344284736,132815,,WC,Abdulla Al Jufairi,U,,QAT,16.2600958248,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2013-M-FU-QAT-03A-2013,Qatar F3,Hard,32,S,20131202,15,111775,,Q,Evan Hoyt,R,,GBR,18.8774811773,123835,,Q,Leon Schutt,U,,GER,20.0574948665,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1424,3,1624,2
 2013-M-FU-QAT-03A-2013,Qatar F3,Hard,32,S,20131202,16,106382,,,Luke Bambridge,R,,GBR,18.8637919233,104476,2,,Louk Sorensen,R,175,IRL,28.900752909,6-3 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,785,23,405,96
-2013-M-FU-QAT-03A-2013,Qatar F3,Hard,32,S,20131202,17,111167,,Q,Ugo Nastasi,R,,LUX,20.629705681,105932,1,,Nikoloz Basilashvili,R,185,RUS,21.7741273101,7-6(4) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1196,6,362,116
+2013-M-FU-QAT-03A-2013,Qatar F3,Hard,32,S,20131202,17,111167,,Q,Ugo Nastasi,R,,LUX,20.629705681,105932,1,,Nikoloz Basilashvili,R,185,GEO,21.7741273101,7-6(4) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1196,6,362,116
 2013-M-FU-QAT-03A-2013,Qatar F3,Hard,32,S,20131202,18,106348,,,Evgeny Karlovskiy,R,,RUS,19.3210130048,105040,6,,Laurent Malouli,U,,FRA,26.083504449,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,840,19,680,35
 2013-M-FU-QAT-03A-2013,Qatar F3,Hard,32,S,20131202,19,105909,4,,Sam Barry,R,,IRL,21.8480492813,125847,,Q,Jelle Sels,U,,NED,18.3134839151,6-0 2-6 7-6(8),3,R16,,,,,,,,,,,,,,,,,,,,466,78,1577,2
 2013-M-FU-QAT-03A-2013,Qatar F3,Hard,32,S,20131202,20,103623,8,,Jacob Adaktusson,R,,SWE,33.2539356605,105863,,,Marko Danis,R,,SVK,22.1108829569,7-6(5) 4-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,711,31,856,18
@@ -19744,7 +19744,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-M-FU-QAT-04A-2013,Quatar F4,Hard,32,S,20131209,9,104998,5,,Michael Shabaz,R,,USA,26.3052703628,106064,,Q,Lucas Renard,R,,SWE,21.1909650924,6-7(5) 7-6(2) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,416,93,949,13
 2013-M-FU-QAT-04A-2013,Quatar F4,Hard,32,S,20131209,10,104895,,,Abdullah Maqdas,U,,KUW,26.6940451745,124090,,Q,Mohamed Adnaoui,R,,MAR,28.9993155373,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,710,31,1411,3
 2013-M-FU-QAT-04A-2013,Quatar F4,Hard,32,S,20131209,11,105934,,,Chuhan Wang,R,,CHN,21.7905544148,103623,,,Jacob Adaktusson,R,,SWE,33.273100616,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,755,25,712,31
-2013-M-FU-QAT-04A-2013,Quatar F4,Hard,32,S,20131209,12,105932,3,,Nikoloz Basilashvili,R,185,RUS,21.7932922656,105953,,,Dominik Schulz,L,,GER,21.7330595483,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,366,116,837,19
+2013-M-FU-QAT-04A-2013,Quatar F4,Hard,32,S,20131209,12,105932,3,,Nikoloz Basilashvili,R,185,GEO,21.7932922656,105953,,,Dominik Schulz,L,,GER,21.7330595483,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,366,116,837,19
 2013-M-FU-QAT-04A-2013,Quatar F4,Hard,32,S,20131209,13,106172,7,,Maxime Chazal,U,,FRA,20.6269678303,105040,,,Laurent Malouli,U,,FRA,26.1026694045,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,445,84,683,35
 2013-M-FU-QAT-04A-2013,Quatar F4,Hard,32,S,20131209,14,106117,,,Carlos Boluda Purkiss,R,165,ESP,20.8788501027,105863,,Q,Marko Danis,R,,SVK,22.1300479124,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,741,27,856,18
 2013-M-FU-QAT-04A-2013,Quatar F4,Hard,32,S,20131209,15,105909,,,Sam Barry,R,,IRL,21.8672142368,105786,,,Tom Schonenberg,R,,GER,22.4859685147,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,468,78,704,32
@@ -19754,12 +19754,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-M-FU-QAT-04A-2013,Quatar F4,Hard,32,S,20131209,19,106348,,Q,Evgeny Karlovskiy,R,,RUS,19.3401779603,126279,,WC,Jassem Al Zeyara,U,,QAT,16.0,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,842,19,,
 2013-M-FU-QAT-04A-2013,Quatar F4,Hard,32,S,20131209,20,106244,6,,Oliver Golding,R,,GBR,20.1943874059,105414,,,Matthieu Roy,U,,FRA,24.2135523614,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,418,92,748,26
 2013-M-FU-QAT-04A-2013,Quatar F4,Hard,32,S,20131209,21,104998,5,,Michael Shabaz,R,,USA,26.3052703628,104895,,,Abdullah Maqdas,U,,KUW,26.6940451745,7-6(5) 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,416,93,710,31
-2013-M-FU-QAT-04A-2013,Quatar F4,Hard,32,S,20131209,22,105932,3,,Nikoloz Basilashvili,R,185,RUS,21.7932922656,105934,,,Chuhan Wang,R,,CHN,21.7905544148,3-6 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,366,116,755,25
+2013-M-FU-QAT-04A-2013,Quatar F4,Hard,32,S,20131209,22,105932,3,,Nikoloz Basilashvili,R,185,GEO,21.7932922656,105934,,,Chuhan Wang,R,,CHN,21.7905544148,3-6 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,366,116,755,25
 2013-M-FU-QAT-04A-2013,Quatar F4,Hard,32,S,20131209,23,106172,7,,Maxime Chazal,U,,FRA,20.6269678303,106117,,,Carlos Boluda Purkiss,R,165,ESP,20.8788501027,6-7(7) 6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,445,84,741,27
 2013-M-FU-QAT-04A-2013,Quatar F4,Hard,32,S,20131209,24,105751,2,,Roberto Ortega Olmedo,U,,ESP,22.6557152635,105909,,,Sam Barry,R,,IRL,21.8672142368,7-6(8) 4-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,345,125,468,78
 2013-M-FU-QAT-04A-2013,Quatar F4,Hard,32,S,20131209,25,104910,8,,Tihomir Grozdanov,U,,BUL,26.6146475017,105587,,,Tom Kocevar Desman,R,,SLO,23.4168377823,6-1 6-0,3,QF,,,,,,,,,,,,,,,,,,,,452,82,818,20
 2013-M-FU-QAT-04A-2013,Quatar F4,Hard,32,S,20131209,26,106244,6,,Oliver Golding,R,,GBR,20.1943874059,106348,,Q,Evgeny Karlovskiy,R,,RUS,19.3401779603,6-7(4) 6-2 7-5,3,QF,,,,,,,,,,,,,,,,,,,,418,92,842,19
-2013-M-FU-QAT-04A-2013,Quatar F4,Hard,32,S,20131209,27,104998,5,,Michael Shabaz,R,,USA,26.3052703628,105932,3,,Nikoloz Basilashvili,R,185,RUS,21.7932922656,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,416,93,366,116
+2013-M-FU-QAT-04A-2013,Quatar F4,Hard,32,S,20131209,27,104998,5,,Michael Shabaz,R,,USA,26.3052703628,105932,3,,Nikoloz Basilashvili,R,185,GEO,21.7932922656,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,416,93,366,116
 2013-M-FU-QAT-04A-2013,Quatar F4,Hard,32,S,20131209,28,105751,2,,Roberto Ortega Olmedo,U,,ESP,22.6557152635,106172,7,,Maxime Chazal,U,,FRA,20.6269678303,7-6(4) 6-0,3,QF,,,,,,,,,,,,,,,,,,,,345,125,445,84
 2013-M-FU-QAT-04A-2013,Quatar F4,Hard,32,S,20131209,29,104910,8,,Tihomir Grozdanov,U,,BUL,26.6146475017,106244,6,,Oliver Golding,R,,GBR,20.1943874059,W/O,3,SF,,,,,,,,,,,,,,,,,,,,452,82,418,92
 2013-M-FU-QAT-04A-2013,Quatar F4,Hard,32,S,20131209,30,104998,5,,Michael Shabaz,R,,USA,26.3052703628,105751,2,,Roberto Ortega Olmedo,U,,ESP,22.6557152635,3-6 6-1 6-2,3,SF,,,,,,,,,,,,,,,,,,,,416,93,345,125
@@ -19868,7 +19868,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-M-FU-QAT-05A-2013,Qatar F5,Hard,32,S,20131216,9,125848,,Q,Niels Lootsma,U,,NED,19.3374401095,106281,8,,Liam Broady,L,,GBR,19.947980835,6-3 RET,3,R32,,,,,,,,,,,,,,,,,,,,1603,2,471,77
 2013-M-FU-QAT-05A-2013,Qatar F5,Hard,32,S,20131216,10,111775,,Q,Evan Hoyt,R,,GBR,18.9158110883,105786,,,Tom Schonenberg,R,,GER,22.5051334702,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1320,4,683,34
 2013-M-FU-QAT-05A-2013,Qatar F5,Hard,32,S,20131216,11,106132,,,Toby Martin,R,,GBR,20.8213552361,124030,,WC,Abdulla Al Mohamoud,U,,QAT,17.1197809719,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,886,16,,
-2013-M-FU-QAT-05A-2013,Qatar F5,Hard,32,S,20131216,12,105932,3,,Nikoloz Basilashvili,R,185,RUS,21.8124572211,105934,,,Chuhan Wang,R,,CHN,21.8097193703,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,402,99,833,19
+2013-M-FU-QAT-05A-2013,Qatar F5,Hard,32,S,20131216,12,105932,3,,Nikoloz Basilashvili,R,185,GEO,21.8124572211,105934,,,Chuhan Wang,R,,CHN,21.8097193703,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,402,99,833,19
 2013-M-FU-QAT-05A-2013,Qatar F5,Hard,32,S,20131216,13,106172,5,,Maxime Chazal,U,,FRA,20.6461327858,110476,,WC,Mousa Shanan Zayed,U,,QAT,19.7727583847,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,446,84,2053,1
 2013-M-FU-QAT-05A-2013,Qatar F5,Hard,32,S,20131216,14,106355,,Q,Jonathan Kanar,U,,FRA,19.241615332,126223,,WC,Abdulhameed Alshatti,R,,KUW,18.3846680356,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,2053,1,1905,1
 2013-M-FU-QAT-05A-2013,Qatar F5,Hard,32,S,20131216,15,109734,,Q,Skander Mansouri,R,,TUN,18.4010951403,105414,,,Matthieu Roy,U,,FRA,24.2327173169,6-4 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1335,4,751,26
@@ -19878,12 +19878,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-M-FU-QAT-05A-2013,Qatar F5,Hard,32,S,20131216,19,104998,4,,Michael Shabaz,R,,USA,26.3244353183,105863,,,Marko Danis,R,,SVK,22.1492128679,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,419,92,845,19
 2013-M-FU-QAT-05A-2013,Qatar F5,Hard,32,S,20131216,20,103657,7,,Ivo Klec,R,183,SVK,33.0485968515,106117,,,Carlos Boluda Purkiss,R,165,ESP,20.8980150582,7-6(3) 6-0,3,R16,,,,,,,,,,,,,,,,,,,,464,80,725,28
 2013-M-FU-QAT-05A-2013,Qatar F5,Hard,32,S,20131216,21,125848,,Q,Niels Lootsma,U,,NED,19.3374401095,111775,,Q,Evan Hoyt,R,,GBR,18.9158110883,6-7(8) 6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1603,2,1320,4
-2013-M-FU-QAT-05A-2013,Qatar F5,Hard,32,S,20131216,22,105932,3,,Nikoloz Basilashvili,R,185,RUS,21.8124572211,106132,,,Toby Martin,R,,GBR,20.8213552361,6-3 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,402,99,886,16
+2013-M-FU-QAT-05A-2013,Qatar F5,Hard,32,S,20131216,22,105932,3,,Nikoloz Basilashvili,R,185,GEO,21.8124572211,106132,,,Toby Martin,R,,GBR,20.8213552361,6-3 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,402,99,886,16
 2013-M-FU-QAT-05A-2013,Qatar F5,Hard,32,S,20131216,23,106355,,Q,Jonathan Kanar,U,,FRA,19.241615332,106172,5,,Maxime Chazal,U,,FRA,20.6461327858,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,2053,1,446,84
 2013-M-FU-QAT-05A-2013,Qatar F5,Hard,32,S,20131216,24,106382,,,Luke Bambridge,R,,GBR,18.9021218344,109734,,Q,Skander Mansouri,R,,TUN,18.4010951403,6-4 3-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,758,25,1335,4
 2013-M-FU-QAT-05A-2013,Qatar F5,Hard,32,S,20131216,25,105722,,,Constantin Belot,R,,FRA,22.8199863107,105587,,,Tom Kocevar Desman,R,,SLO,23.4360027379,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,933,14,822,20
 2013-M-FU-QAT-05A-2013,Qatar F5,Hard,32,S,20131216,26,103657,7,,Ivo Klec,R,183,SVK,33.0485968515,104998,4,,Michael Shabaz,R,,USA,26.3244353183,4-6 6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,464,80,419,92
-2013-M-FU-QAT-05A-2013,Qatar F5,Hard,32,S,20131216,27,125848,,Q,Niels Lootsma,U,,NED,19.3374401095,105932,3,,Nikoloz Basilashvili,R,185,RUS,21.8124572211,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,1603,2,402,99
+2013-M-FU-QAT-05A-2013,Qatar F5,Hard,32,S,20131216,27,125848,,Q,Niels Lootsma,U,,NED,19.3374401095,105932,3,,Nikoloz Basilashvili,R,185,GEO,21.8124572211,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,1603,2,402,99
 2013-M-FU-QAT-05A-2013,Qatar F5,Hard,32,S,20131216,28,106382,,,Luke Bambridge,R,,GBR,18.9021218344,106355,,Q,Jonathan Kanar,U,,FRA,19.241615332,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,758,25,2053,1
 2013-M-FU-QAT-05A-2013,Qatar F5,Hard,32,S,20131216,29,103657,7,,Ivo Klec,R,183,SVK,33.0485968515,105722,,,Constantin Belot,R,,FRA,22.8199863107,6-1 1-6 6-1,3,SF,,,,,,,,,,,,,,,,,,,,464,80,933,14
 2013-M-FU-QAT-05A-2013,Qatar F5,Hard,32,S,20131216,30,125848,,Q,Niels Lootsma,U,,NED,19.3374401095,106382,,,Luke Bambridge,R,,GBR,18.9021218344,2-6 7-5 6-3,3,SF,,,,,,,,,,,,,,,,,,,,1603,2,758,25

@@ -465,7 +465,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-USA-04A-2017,USA F4,Clay,32,S,20170116,30,200175,,Q,Miomir Kecmanovic,R,,SRB,17.3798767967,105954,,,Peter Nagy,U,,HUN,24.8350444901,6-2 6-1,3,SF,,,,,,,,,,,,,,,,,,,,801,22,428,96
 2017-M-FU-USA-04A-2017,USA F4,Clay,32,S,20170116,31,200175,,Q,Miomir Kecmanovic,R,,SRB,17.3798767967,105872,5,,Christian Lindell,R,,SWE,25.158110883,6-2 6-2,3,F,,,,,,,,,,,,,,,,,,,,801,22,410,103
 2017-M-FU-EGY-02A-2017,Egypt F2,Hard,32,S,20170123,1,105060,1,,Aldin Setkic,R,193,BIH,29.0732375086,200127,,Q,Aryan Goveas,U,,IND,18.5242984257,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,257,200,1018,11
-2017-M-FU-EGY-02A-2017,Egypt F2,Hard,32,S,20170123,2,200514,,Q,Jurij Rodionov,U,,AUT,17.6728268309,132708,,WC,Alexey Prokopchuk,R,,UKR,20.1177275838,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,989,12,,
+2017-M-FU-EGY-02A-2017,Egypt F2,Hard,32,S,20170123,2,200514,,Q,Jurij Rodionov,L,,AUT,17.6728268309,132708,,WC,Alexey Prokopchuk,R,,UKR,20.1177275838,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,989,12,,
 2017-M-FU-EGY-02A-2017,Egypt F2,Hard,32,S,20170123,3,105938,,,Antoine Escoffier,U,,FRA,24.8815879535,105246,,,Michal Schmid,U,,CZE,28.1341546886,3-6 6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,508,73,574,56
 2017-M-FU-EGY-02A-2017,Egypt F2,Hard,32,S,20170123,4,109686,8,,Riccardo Bonadio,U,,ITA,23.5126625599,144807,,,Kenneth Raisma,L,,EST,18.7898699521,3-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,494,76,705,33
 2017-M-FU-EGY-02A-2017,Egypt F2,Hard,32,S,20170123,5,105751,4,,Roberto Ortega Olmedo,U,,ESP,25.7604380561,122420,,WC,Sagar Ahuja,R,,IND,25.1937029432,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,359,128,,
@@ -480,7 +480,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-EGY-02A-2017,Egypt F2,Hard,32,S,20170123,14,200222,,Q,Nicholas S Hu,R,,USA,22.7323750856,200095,,,Nicola Kuhn,R,,ESP,16.8268309377,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1015,11,787,23
 2017-M-FU-EGY-02A-2017,Egypt F2,Hard,32,S,20170123,15,200403,,LL,Patrik Nema,R,,SVK,19.227926078,134085,,Q,Mateusz Terczynski,R,,POL,20.8761122519,6-2 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,882,17,946,14
 2017-M-FU-EGY-02A-2017,Egypt F2,Hard,32,S,20170123,16,106050,,Q,Libor Salaba,R,,CZE,24.3915126626,124186,2,,Alexandre Muller,U,,FRA,19.9561943874,6-4 3-6 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,847,19,331,144
-2017-M-FU-EGY-02A-2017,Egypt F2,Hard,32,S,20170123,17,105060,1,,Aldin Setkic,R,193,BIH,29.0732375086,200514,,Q,Jurij Rodionov,U,,AUT,17.6728268309,3-6 7-6(2) 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,257,200,989,12
+2017-M-FU-EGY-02A-2017,Egypt F2,Hard,32,S,20170123,17,105060,1,,Aldin Setkic,R,193,BIH,29.0732375086,200514,,Q,Jurij Rodionov,L,,AUT,17.6728268309,3-6 7-6(2) 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,257,200,989,12
 2017-M-FU-EGY-02A-2017,Egypt F2,Hard,32,S,20170123,18,109686,8,,Riccardo Bonadio,U,,ITA,23.5126625599,105938,,,Antoine Escoffier,U,,FRA,24.8815879535,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,494,76,508,73
 2017-M-FU-EGY-02A-2017,Egypt F2,Hard,32,S,20170123,19,134792,,,Jules Okala,U,,FRA,19.4140999316,105751,4,,Roberto Ortega Olmedo,U,,ESP,25.7604380561,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,607,50,359,128
 2017-M-FU-EGY-02A-2017,Egypt F2,Hard,32,S,20170123,20,104901,6,,Vladimir Ivanov,R,,EST,29.7713894593,126739,,,Leny Mitjana,R,,FRA,22.4613278576,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,449,89,816,21
@@ -714,7 +714,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-USA-05A-2017,USA F5,Clay,32,S,20170123,31,106198,,Q,Hugo Dellien,R,,BOL,23.5865845311,136440,,,Dominik Koepfer,L,,GER,22.7186858316,6-2 7-5,3,F,,,,,,,,,,,,,,,,,,,,743,28,518,70
 2017-M-FU-EGY-03A-2017,Egypt F3,Hard,32,S,20170130,1,105060,1,,Aldin Setkic,R,193,BIH,29.1115674196,106050,,,Libor Salaba,R,,CZE,24.4298425736,6-7(4) 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,248,210,843,19
 2017-M-FU-EGY-03A-2017,Egypt F3,Hard,32,S,20170130,2,104789,,,Sherif Sabry,U,,EGY,30.4229979466,122369,,,Bernardo Saraiva,R,,POR,23.485284052,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,867,18,863,18
-2017-M-FU-EGY-03A-2017,Egypt F3,Hard,32,S,20170130,3,144680,,Q,Olexiy Kolisnyk,U,,UKR,20.7529089665,200514,,Q,Jurij Rodionov,U,,AUT,17.711156742,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1162,7,988,12
+2017-M-FU-EGY-03A-2017,Egypt F3,Hard,32,S,20170130,3,144680,,Q,Olexiy Kolisnyk,U,,UKR,20.7529089665,200514,,Q,Jurij Rodionov,L,,AUT,17.711156742,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1162,7,988,12
 2017-M-FU-EGY-03A-2017,Egypt F3,Hard,32,S,20170130,4,200240,7,,Vit Kopriva,U,,CZE,19.627652293,122621,,Q,Keisuke Numajiri,R,,JPN,21.3497604381,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,491,76,1203,6
 2017-M-FU-EGY-03A-2017,Egypt F3,Hard,32,S,20170130,5,105296,4,,Lorenzo Frigerio,R,,ITA,27.9507186858,126114,,Q,Frederik Press,U,,GER,21.826146475,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,463,84,1104,8
 2017-M-FU-EGY-03A-2017,Egypt F3,Hard,32,S,20170130,6,129811,,Q,Oleg Khotkov,U,,UKR,26.8911704312,134247,,WC,Ryoto Tachi,U,,JPN,23.356605065,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,924,15,,
@@ -2429,7 +2429,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-CRO-02A-2017,Croatia F2,Clay,32,S,20170313,10,105353,,Q,Pascal Brunner,R,,AUT,27.7344284736,106196,,,Pascal Meis,U,,GER,23.7344284736,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,738,28,600,51
 2017-M-FU-CRO-02A-2017,Croatia F2,Clay,32,S,20170313,11,105669,,Q,Franjo Raspudic,R,,BIH,26.3052703628,105630,,Q,Tomislav Ternar,U,,SLO,26.46954141,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,957,13,794,23
 2017-M-FU-CRO-02A-2017,Croatia F2,Clay,32,S,20170313,12,144645,3,,Zdenek Kolar,U,,CZE,20.4052019165,106292,,,Hernan Casanova,U,,ARG,23.0773442847,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,238,218,490,77
-2017-M-FU-CRO-02A-2017,Croatia F2,Clay,32,S,20170313,13,200514,,Q,Jurij Rodionov,U,,AUT,17.8069815195,105843,7,,Ljubomir Celebic,U,,MNE,25.4729637235,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,951,13,478,82
+2017-M-FU-CRO-02A-2017,Croatia F2,Clay,32,S,20170313,13,200514,,Q,Jurij Rodionov,L,,AUT,17.8069815195,105843,7,,Ljubomir Celebic,U,,MNE,25.4729637235,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,951,13,478,82
 2017-M-FU-CRO-02A-2017,Croatia F2,Clay,32,S,20170313,14,131888,,WC,Domagoj Biljesko,U,,CRO,19.6878850103,202351,,WC,Ludvik Fjeldstad,R,,NOR,19.2580424367,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1167,7,,
 2017-M-FU-CRO-02A-2017,Croatia F2,Clay,32,S,20170313,15,105505,,,Laslo Urrutia Fuentes,R,,CHI,26.9568788501,106154,,Q,Duje Kekez,R,,CRO,23.9342915811,4-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,606,49,932,14
 2017-M-FU-CRO-02A-2017,Croatia F2,Clay,32,S,20170313,16,105175,2,,Kristijan Mesaros,R,,CRO,28.6762491444,124124,,,Filipp Kekercheni,R,,UKR,21.5715263518,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,229,227,664,40
@@ -2439,12 +2439,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-CRO-02A-2017,Croatia F2,Clay,32,S,20170313,20,105493,6,,Tomislav Brkic,R,,BIH,26.9924709103,105331,,,Petru Alexandru Luncanu,L,185,ROU,27.8302532512,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,366,125,513,69
 2017-M-FU-CRO-02A-2017,Croatia F2,Clay,32,S,20170313,21,105353,,Q,Pascal Brunner,R,,AUT,27.7344284736,105593,,,Yannick Vandenbulcke,R,,BEL,26.6338124572,7-6(3) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,738,28,661,40
 2017-M-FU-CRO-02A-2017,Croatia F2,Clay,32,S,20170313,22,144645,3,,Zdenek Kolar,U,,CZE,20.4052019165,105669,,Q,Franjo Raspudic,R,,BIH,26.3052703628,7-5 4-6 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,238,218,957,13
-2017-M-FU-CRO-02A-2017,Croatia F2,Clay,32,S,20170313,23,200514,,Q,Jurij Rodionov,U,,AUT,17.8069815195,131888,,WC,Domagoj Biljesko,U,,CRO,19.6878850103,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,951,13,1167,7
+2017-M-FU-CRO-02A-2017,Croatia F2,Clay,32,S,20170313,23,200514,,Q,Jurij Rodionov,L,,AUT,17.8069815195,131888,,WC,Domagoj Biljesko,U,,CRO,19.6878850103,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,951,13,1167,7
 2017-M-FU-CRO-02A-2017,Croatia F2,Clay,32,S,20170313,24,105175,2,,Kristijan Mesaros,R,,CRO,28.6762491444,105505,,,Laslo Urrutia Fuentes,R,,CHI,26.9568788501,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,229,227,606,49
 2017-M-FU-CRO-02A-2017,Croatia F2,Clay,32,S,20170313,25,105821,1,,Riccardo Bellotti,R,,ITA,25.5852156057,106243,,,Mate Delic,R,,CRO,23.4332648871,6-3 3-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,215,249,624,46
 2017-M-FU-CRO-02A-2017,Croatia F2,Clay,32,S,20170313,26,105137,4,,Pere Riba,R,183,ESP,28.9117043121,105493,6,,Tomislav Brkic,R,,BIH,26.9924709103,2-6 6-3 7-5,3,QF,,,,,,,,,,,,,,,,,,,,287,181,366,125
 2017-M-FU-CRO-02A-2017,Croatia F2,Clay,32,S,20170313,27,144645,3,,Zdenek Kolar,U,,CZE,20.4052019165,105353,,Q,Pascal Brunner,R,,AUT,27.7344284736,6-4 5-2 RET,3,QF,,,,,,,,,,,,,,,,,,,,238,218,738,28
-2017-M-FU-CRO-02A-2017,Croatia F2,Clay,32,S,20170313,28,105175,2,,Kristijan Mesaros,R,,CRO,28.6762491444,200514,,Q,Jurij Rodionov,U,,AUT,17.8069815195,7-6(2) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,229,227,951,13
+2017-M-FU-CRO-02A-2017,Croatia F2,Clay,32,S,20170313,28,105175,2,,Kristijan Mesaros,R,,CRO,28.6762491444,200514,,Q,Jurij Rodionov,L,,AUT,17.8069815195,7-6(2) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,229,227,951,13
 2017-M-FU-CRO-02A-2017,Croatia F2,Clay,32,S,20170313,29,105821,1,,Riccardo Bellotti,R,,ITA,25.5852156057,105137,4,,Pere Riba,R,183,ESP,28.9117043121,6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,215,249,287,181
 2017-M-FU-CRO-02A-2017,Croatia F2,Clay,32,S,20170313,30,144645,3,,Zdenek Kolar,U,,CZE,20.4052019165,105175,2,,Kristijan Mesaros,R,,CRO,28.6762491444,3-6 6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,238,218,229,227
 2017-M-FU-CRO-02A-2017,Croatia F2,Clay,32,S,20170313,31,105821,1,,Riccardo Bellotti,R,,ITA,25.5852156057,144645,3,,Zdenek Kolar,U,,CZE,20.4052019165,6-4 6-3,3,F,,,,,,,,,,,,,,,,,,,,215,249,238,218
@@ -2884,7 +2884,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-BRN-01A-2017,Bahrain F1,Hard,32,S,20170320,31,134868,1,,Tallon Griekspoor,R,,NED,20.7145790554,105421,2,,Michal Konecny,L,,CZE,27.4332648871,6-4 6-4,3,F,,,,,,,,,,,,,,,,,,,,312,158,337,140
 2017-M-FU-CRO-03A-2017,Croatia F3,Clay,32,S,20170320,1,105821,1,,Riccardo Bellotti,R,,ITA,25.6235455168,105766,,Q,Ryusei Makiguchi,U,,BOL,25.8809034908,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,213,249,717,31
 2017-M-FU-CRO-03A-2017,Croatia F3,Clay,32,S,20170320,2,122058,,,Fabrizio Ornago,U,,ITA,24.9034907598,106292,,,Hernan Casanova,U,,ARG,23.1156741958,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,668,38,551,60
-2017-M-FU-CRO-03A-2017,Croatia F3,Clay,32,S,20170320,3,200514,,JE,Jurij Rodionov,U,,AUT,17.8453114305,121823,,,Julian Onken,U,,GER,28.8076659822,2-6 7-6(7) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,945,13,693,33
+2017-M-FU-CRO-03A-2017,Croatia F3,Clay,32,S,20170320,3,200514,,JE,Jurij Rodionov,L,,AUT,17.8453114305,121823,,,Julian Onken,U,,GER,28.8076659822,2-6 7-6(7) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,945,13,693,33
 2017-M-FU-CRO-03A-2017,Croatia F3,Clay,32,S,20170320,4,122358,,Q,Filip Brtnicky,U,,CZE,24.900752909,111187,8,,Kaichi Uchida,R,,JPN,22.5735797399,5-7 6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1146,7,488,77
 2017-M-FU-CRO-03A-2017,Croatia F3,Clay,32,S,20170320,5,200553,,Q,Alen Avidzba,R,,RUS,17.067761807,105226,4,,Attila Balazs,R,180,HUN,28.476386037,4-6 7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,942,13,282,179
 2017-M-FU-CRO-03A-2017,Croatia F3,Clay,32,S,20170320,6,206861,,WC,Roko Savin,R,,CRO,17.607118412,202351,,WC,Ludvik Fjeldstad,R,,NOR,19.2963723477,6-0 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -2899,18 +2899,18 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-CRO-03A-2017,Croatia F3,Clay,32,S,20170320,15,105505,,,Laslo Urrutia Fuentes,R,,CHI,26.9952087611,202429,,WC,David Lucas Ambrozic,U,,SLO,18.0999315537,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,596,50,,
 2017-M-FU-CRO-03A-2017,Croatia F3,Clay,32,S,20170320,16,105508,,Q,Vasile Antonescu,R,,ROU,26.9897330595,144645,2,,Zdenek Kolar,U,,CZE,20.4435318275,6-4 1-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,753,27,255,201
 2017-M-FU-CRO-03A-2017,Croatia F3,Clay,32,S,20170320,17,122058,,,Fabrizio Ornago,U,,ITA,24.9034907598,105821,1,,Riccardo Bellotti,R,,ITA,25.6235455168,6-3 4-6 4-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,668,38,213,249
-2017-M-FU-CRO-03A-2017,Croatia F3,Clay,32,S,20170320,18,200514,,JE,Jurij Rodionov,U,,AUT,17.8453114305,122358,,Q,Filip Brtnicky,U,,CZE,24.900752909,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,945,13,1146,7
+2017-M-FU-CRO-03A-2017,Croatia F3,Clay,32,S,20170320,18,200514,,JE,Jurij Rodionov,L,,AUT,17.8453114305,122358,,Q,Filip Brtnicky,U,,CZE,24.900752909,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,945,13,1146,7
 2017-M-FU-CRO-03A-2017,Croatia F3,Clay,32,S,20170320,19,200553,,Q,Alen Avidzba,R,,RUS,17.067761807,206861,,WC,Roko Savin,R,,CRO,17.607118412,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,942,13,,
 2017-M-FU-CRO-03A-2017,Croatia F3,Clay,32,S,20170320,20,111788,,LL,Naoki Nakagawa,R,,JPN,20.3312799452,126120,7,,Nino Serdarusic,U,,CRO,20.2655715264,7-6(8) 1-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,696,33,472,82
 2017-M-FU-CRO-03A-2017,Croatia F3,Clay,32,S,20170320,21,105593,,,Yannick Vandenbulcke,R,,BEL,26.6721423682,105493,5,,Tomislav Brkic,R,,BIH,27.0308008214,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,653,40,348,135
 2017-M-FU-CRO-03A-2017,Croatia F3,Clay,32,S,20170320,22,106196,,,Pascal Meis,U,,GER,23.7727583847,200436,,Q,Zsombor Piros,U,,HUN,17.4346338125,4-6 7-6(6) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,593,51,1582,2
 2017-M-FU-CRO-03A-2017,Croatia F3,Clay,32,S,20170320,23,105843,6,,Ljubomir Celebic,U,,MNE,25.5112936345,117362,,Q,Paul Woerner,R,,GER,20.5722108145,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,471,82,915,15
 2017-M-FU-CRO-03A-2017,Croatia F3,Clay,32,S,20170320,24,105508,,Q,Vasile Antonescu,R,,ROU,26.9897330595,105505,,,Laslo Urrutia Fuentes,R,,CHI,26.9952087611,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,753,27,596,50
-2017-M-FU-CRO-03A-2017,Croatia F3,Clay,32,S,20170320,25,200514,,JE,Jurij Rodionov,U,,AUT,17.8453114305,122058,,,Fabrizio Ornago,U,,ITA,24.9034907598,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,945,13,668,38
+2017-M-FU-CRO-03A-2017,Croatia F3,Clay,32,S,20170320,25,200514,,JE,Jurij Rodionov,L,,AUT,17.8453114305,122058,,,Fabrizio Ornago,U,,ITA,24.9034907598,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,945,13,668,38
 2017-M-FU-CRO-03A-2017,Croatia F3,Clay,32,S,20170320,26,111788,,LL,Naoki Nakagawa,R,,JPN,20.3312799452,200553,,Q,Alen Avidzba,R,,RUS,17.067761807,6-3 4-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,696,33,942,13
 2017-M-FU-CRO-03A-2017,Croatia F3,Clay,32,S,20170320,27,105593,,,Yannick Vandenbulcke,R,,BEL,26.6721423682,106196,,,Pascal Meis,U,,GER,23.7727583847,6-4 3-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,653,40,593,51
 2017-M-FU-CRO-03A-2017,Croatia F3,Clay,32,S,20170320,28,105843,6,,Ljubomir Celebic,U,,MNE,25.5112936345,105508,,Q,Vasile Antonescu,R,,ROU,26.9897330595,6-0 7-6(9),3,QF,,,,,,,,,,,,,,,,,,,,471,82,753,27
-2017-M-FU-CRO-03A-2017,Croatia F3,Clay,32,S,20170320,29,111788,,LL,Naoki Nakagawa,R,,JPN,20.3312799452,200514,,JE,Jurij Rodionov,U,,AUT,17.8453114305,6-4 2-6 6-4,3,SF,,,,,,,,,,,,,,,,,,,,696,33,945,13
+2017-M-FU-CRO-03A-2017,Croatia F3,Clay,32,S,20170320,29,111788,,LL,Naoki Nakagawa,R,,JPN,20.3312799452,200514,,JE,Jurij Rodionov,L,,AUT,17.8453114305,6-4 2-6 6-4,3,SF,,,,,,,,,,,,,,,,,,,,696,33,945,13
 2017-M-FU-CRO-03A-2017,Croatia F3,Clay,32,S,20170320,30,105593,,,Yannick Vandenbulcke,R,,BEL,26.6721423682,105843,6,,Ljubomir Celebic,U,,MNE,25.5112936345,7-5 6-4,3,SF,,,,,,,,,,,,,,,,,,,,653,40,471,82
 2017-M-FU-CRO-03A-2017,Croatia F3,Clay,32,S,20170320,31,105593,,,Yannick Vandenbulcke,R,,BEL,26.6721423682,111788,,LL,Naoki Nakagawa,R,,JPN,20.3312799452,6-1 6-2,3,F,,,,,,,,,,,,,,,,,,,,653,40,696,33
 2017-M-FU-EGY-10A-2017,Egypt F10,Hard,32,S,20170320,1,105747,1,,Karim Mohamed Maamoun,R,,EGY,25.9466119097,206524,,WC,Klim Ivanov,U,,KAZ,18.3846680356,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,291,174,,
@@ -4818,7 +4818,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-TUN-16A-2017,Tunisia F16,Clay,32,S,20170424,12,123819,3,,Goncalo Oliveira,L,,POR,22.1820670773,133872,,,Enrico Dalla Valle,U,,ITA,19.0937713895,7-6(9) 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,392,112,1135,7
 2017-M-FU-TUN-16A-2017,Tunisia F16,Clay,32,S,20170424,13,106375,7,WC,Pol Toledo Bague,R,,ESP,22.3381245722,133218,,WC,Andrea Borroni,U,,ITA,21.8754277892,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,507,69,1863,1
 2017-M-FU-TUN-16A-2017,Tunisia F16,Clay,32,S,20170424,14,131934,,,Andrea Vavassori,U,,ITA,21.9712525667,105824,,SE,Kirill Dmitriev,U,,RUS,25.7084188912,3-6 6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,636,43,1144,7
-2017-M-FU-TUN-16A-2017,Tunisia F16,Clay,32,S,20170424,15,126154,,,Jacopo Stefanini,U,,ITA,21.0349075975,200514,,,Jurij Rodionov,U,,AUT,17.9411362081,6-1 6-7(5) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,627,44,817,21
+2017-M-FU-TUN-16A-2017,Tunisia F16,Clay,32,S,20170424,15,126154,,,Jacopo Stefanini,U,,ITA,21.0349075975,200514,,,Jurij Rodionov,L,,AUT,17.9411362081,6-1 6-7(5) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,627,44,817,21
 2017-M-FU-TUN-16A-2017,Tunisia F16,Clay,32,S,20170424,16,126127,2,,Benjamin Bonzi,U,,FRA,20.8733744011,106008,,,Florian Fallert,R,,GER,24.9144421629,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,334,142,772,26
 2017-M-FU-TUN-16A-2017,Tunisia F16,Clay,32,S,20170424,17,124079,1,,Pedro Martinez,R,,ESP,19.9945242984,200639,,Q,Luigi Sorrentino,U,,ITA,18.8501026694,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,317,152,1768,1
 2017-M-FU-TUN-16A-2017,Tunisia F16,Clay,32,S,20170424,18,105778,8,,Tobias Simon,R,,GER,25.9356605065,105603,,,Francois Arthur Vibert,U,,FRA,26.7241615332,7-6(5) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,531,63,856,19
@@ -8503,7 +8503,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-NED-02A-2017,Netherlands F2,Clay,32,S,20170626,10,200309,,,Marek Gengel,R,,CZE,21.7741273101,202354,,Q,Matthew Dellavedova,U,,AUS,17.0732375086,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,651,38,1927,1
 2017-M-FU-NED-02A-2017,Netherlands F2,Clay,32,S,20170626,11,106246,,,Robin Kern,R,,GER,23.7289527721,200013,,Q,Mirko Martinez,U,,SUI,19.2306639288,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,532,62,1112,7
 2017-M-FU-NED-02A-2017,Netherlands F2,Clay,32,S,20170626,12,122298,3,,Botic van de Zandschulp,U,,NED,21.7275838467,133835,,,Gijs Brouwer,L,,NED,21.2840520192,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,336,139,708,30
-2017-M-FU-NED-02A-2017,Netherlands F2,Clay,32,S,20170626,13,201985,,WC,Jesse Timmermans,U,,NED,,121822,,LL,Bobbie De Goeijen,U,,NED,24.9746748802,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,1980,1
+2017-M-FU-NED-02A-2017,Netherlands F2,Clay,32,S,20170626,13,201985,,WC,Jesse Timmermans,U,,NED,28.2765229295,121822,,LL,Bobbie De Goeijen,U,,NED,24.9746748802,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,1980,1
 2017-M-FU-NED-02A-2017,Netherlands F2,Clay,32,S,20170626,14,133841,,Q,Bart Van Den Berg,U,,NED,23.9206023272,200465,,Q,Sem Verbeek,L,,NED,23.2060232717,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1842,1,1636,2
 2017-M-FU-NED-02A-2017,Netherlands F2,Clay,32,S,20170626,15,132575,,Q,Raphael Baltensperger,R,,SUI,19.5208761123,105217,,WC,Thiemo De Bakker,R,193,NED,28.7665982204,6-4 2-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,987,11,603,46
 2017-M-FU-NED-02A-2017,Netherlands F2,Clay,32,S,20170626,16,123819,2,,Goncalo Oliveira,L,,POR,22.3545516769,200265,,JE,Ulises Blanch,R,,USA,19.2553045859,7-6(6) 6-7(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,294,165,903,14
@@ -8513,12 +8513,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-NED-02A-2017,Netherlands F2,Clay,32,S,20170626,20,105691,,,Scott Griekspoor,R,,NED,26.4585900068,106172,5,,Maxime Chazal,U,,FRA,24.1724845996,2-6 6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,773,24,345,133
 2017-M-FU-NED-02A-2017,Netherlands F2,Clay,32,S,20170626,21,104627,8,,Boy Westerhof,R,,NED,31.6714579055,200309,,,Marek Gengel,R,,CZE,21.7741273101,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,515,66,651,38
 2017-M-FU-NED-02A-2017,Netherlands F2,Clay,32,S,20170626,22,106246,,,Robin Kern,R,,GER,23.7289527721,122298,3,,Botic van de Zandschulp,U,,NED,21.7275838467,3-6 6-4 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,532,62,336,139
-2017-M-FU-NED-02A-2017,Netherlands F2,Clay,32,S,20170626,23,201985,,WC,Jesse Timmermans,U,,NED,,133841,,Q,Bart Van Den Berg,U,,NED,23.9206023272,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,1842,1
+2017-M-FU-NED-02A-2017,Netherlands F2,Clay,32,S,20170626,23,201985,,WC,Jesse Timmermans,U,,NED,28.2765229295,133841,,Q,Bart Van Den Berg,U,,NED,23.9206023272,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,1842,1
 2017-M-FU-NED-02A-2017,Netherlands F2,Clay,32,S,20170626,24,123819,2,,Goncalo Oliveira,L,,POR,22.3545516769,132575,,Q,Raphael Baltensperger,R,,SUI,19.5208761123,6-4 1-6 6-0,3,R16,,,,,,,,,,,,,,,,,,,,294,165,987,11
 2017-M-FU-NED-02A-2017,Netherlands F2,Clay,32,S,20170626,25,125847,,,Jelle Sels,U,,NED,21.87816564,125848,6,,Niels Lootsma,U,,NED,22.8637919233,7-5 6-0,3,QF,,,,,,,,,,,,,,,,,,,,632,41,438,88
 2017-M-FU-NED-02A-2017,Netherlands F2,Clay,32,S,20170626,26,105778,,,Tobias Simon,R,,GER,26.1081451061,105691,,,Scott Griekspoor,R,,NED,26.4585900068,7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,542,60,773,24
 2017-M-FU-NED-02A-2017,Netherlands F2,Clay,32,S,20170626,27,104627,8,,Boy Westerhof,R,,NED,31.6714579055,106246,,,Robin Kern,R,,GER,23.7289527721,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,515,66,532,62
-2017-M-FU-NED-02A-2017,Netherlands F2,Clay,32,S,20170626,28,123819,2,,Goncalo Oliveira,L,,POR,22.3545516769,201985,,WC,Jesse Timmermans,U,,NED,,6-0 4-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,294,165,,
+2017-M-FU-NED-02A-2017,Netherlands F2,Clay,32,S,20170626,28,123819,2,,Goncalo Oliveira,L,,POR,22.3545516769,201985,,WC,Jesse Timmermans,U,,NED,28.2765229295,6-0 4-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,294,165,,
 2017-M-FU-NED-02A-2017,Netherlands F2,Clay,32,S,20170626,29,105778,,,Tobias Simon,R,,GER,26.1081451061,125847,,,Jelle Sels,U,,NED,21.87816564,7-5 6-2,3,SF,,,,,,,,,,,,,,,,,,,,542,60,632,41
 2017-M-FU-NED-02A-2017,Netherlands F2,Clay,32,S,20170626,30,104627,8,,Boy Westerhof,R,,NED,31.6714579055,123819,2,,Goncalo Oliveira,L,,POR,22.3545516769,6-4 3-6 7-6(2),3,SF,,,,,,,,,,,,,,,,,,,,515,66,294,165
 2017-M-FU-NED-02A-2017,Netherlands F2,Clay,32,S,20170626,31,104627,8,,Boy Westerhof,R,,NED,31.6714579055,105778,,,Tobias Simon,R,,GER,26.1081451061,6-4 6-7(7) 7-5,3,F,,,,,,,,,,,,,,,,,,,,515,66,542,60
@@ -11563,7 +11563,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-BEL-08A-2017,Belgium F8,Clay,32,S,20170807,1,111506,1,,Maxime Hamou,R,,FRA,22.1656399726,200382,,Q,Stephan Gerritsen,U,,NED,21.1033538672,4-6 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,349,133,1191,6
 2017-M-FU-BEL-08A-2017,Belgium F8,Clay,32,S,20170807,2,126129,,,Billy Harris,U,,GBR,22.5325119781,200277,,Q,Charles Broom,U,,GBR,19.2881587953,7-6(6) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,810,22,1504,2
 2017-M-FU-BEL-08A-2017,Belgium F8,Clay,32,S,20170807,3,126448,,,Jolan Cailleau,U,,BEL,22.1108829569,200383,,Q,Maxime Pauwels,U,,BEL,19.0198494182,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,906,15,1283,5
-2017-M-FU-BEL-08A-2017,Belgium F8,Clay,32,S,20170807,4,126156,6,,Antoine Hoang,R,,FRA,21.7577002053,126175,,WC,Simon Stevens,R,,BEL,,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,422,97,,
+2017-M-FU-BEL-08A-2017,Belgium F8,Clay,32,S,20170807,4,126156,6,,Antoine Hoang,R,,FRA,21.7577002053,126175,,WC,Simon Stevens,R,,BEL,21.5112936345,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,422,97,,
 2017-M-FU-BEL-08A-2017,Belgium F8,Clay,32,S,20170807,5,122638,4,,Christopher Heyman,U,,BEL,23.8302532512,134085,,,Mateusz Terczynski,R,,POL,21.4318959617,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,452,87,988,12
 2017-M-FU-BEL-08A-2017,Belgium F8,Clay,32,S,20170807,6,105820,,Q,Juan Carlos Saez,R,,CHI,26.006844627,202247,,WC,Simon Beaupain,U,,BEL,18.2231348392,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,965,13,,
 2017-M-FU-BEL-08A-2017,Belgium F8,Clay,32,S,20170807,7,124040,,Q,Colin Sinclair,U,,AUS,22.6338124572,106325,,WC,Jabor Al Mutawa,U,,QAT,23.2142368241,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1870,1,,
@@ -11820,7 +11820,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-SVK-03A-2017,Slovakia F3,Clay,32,S,20170807,10,202194,,WC,David Damian Brna,U,,SVK,19.2142368241,144716,,Q,Oleg Prihodko,R,,UKR,19.8439425051,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1084,9
 2017-M-FU-SVK-03A-2017,Slovakia F3,Clay,32,S,20170807,11,200541,,Q,Filip Duda,U,,CZE,18.8528405202,126151,,,Pavel Nejedly,U,,CZE,24.4791238877,2-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1465,3,691,34
 2017-M-FU-SVK-03A-2017,Slovakia F3,Clay,32,S,20170807,12,105450,,,Mike Urbanija,R,,SLO,27.613963039,106162,3,,Franco Agamenone,U,,ARG,24.3121149897,7-5 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,909,15,440,91
-2017-M-FU-SVK-03A-2017,Slovakia F3,Clay,32,S,20170807,13,200514,,JE,Jurij Rodionov,U,,AUT,18.2286105407,144684,5,,Alex Molcan,L,,SVK,19.6824093087,7-5 1-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,649,39,456,86
+2017-M-FU-SVK-03A-2017,Slovakia F3,Clay,32,S,20170807,13,200514,,JE,Jurij Rodionov,L,,AUT,18.2286105407,144684,5,,Alex Molcan,L,,SVK,19.6824093087,7-5 1-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,649,39,456,86
 2017-M-FU-SVK-03A-2017,Slovakia F3,Clay,32,S,20170807,14,127760,,,Lukas Klein,U,,SVK,19.3785078713,126964,,Q,Vitaliy Sachko,U,,UKR,20.0657084189,6-3 6-7(5) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,984,12,1236,5
 2017-M-FU-SVK-03A-2017,Slovakia F3,Clay,32,S,20170807,15,126878,,,David Poljak,U,,CZE,21.2238193018,134029,,Q,Michal Marko,R,,SVK,21.2375085558,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,736,30,1589,2
 2017-M-FU-SVK-03A-2017,Slovakia F3,Clay,32,S,20170807,16,200240,2,,Vit Kopriva,U,,CZE,20.1451060917,202226,,WC,David Juras,R,,SVK,17.711156742,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,424,96,1641,2
@@ -11830,7 +11830,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-SVK-03A-2017,Slovakia F3,Clay,32,S,20170807,20,202315,,WC,Tomas Liska,R,,SVK,19.0198494182,144680,,,Olexiy Kolisnyk,U,,UKR,21.2703627652,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1662,2,745,29
 2017-M-FU-SVK-03A-2017,Slovakia F3,Clay,32,S,20170807,21,123827,8,,Samuel Bensoussan,U,,FRA,25.7193702943,202194,,WC,David Damian Brna,U,,SVK,19.2142368241,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,622,44,,
 2017-M-FU-SVK-03A-2017,Slovakia F3,Clay,32,S,20170807,22,105450,,,Mike Urbanija,R,,SLO,27.613963039,200541,,Q,Filip Duda,U,,CZE,18.8528405202,3-6 6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,909,15,1465,3
-2017-M-FU-SVK-03A-2017,Slovakia F3,Clay,32,S,20170807,23,127760,,,Lukas Klein,U,,SVK,19.3785078713,200514,,JE,Jurij Rodionov,U,,AUT,18.2286105407,6-1 5-7 6-4,3,R16,,,,,,,,,,,,,,,,,,,,984,12,649,39
+2017-M-FU-SVK-03A-2017,Slovakia F3,Clay,32,S,20170807,23,127760,,,Lukas Klein,U,,SVK,19.3785078713,200514,,JE,Jurij Rodionov,L,,AUT,18.2286105407,6-1 5-7 6-4,3,R16,,,,,,,,,,,,,,,,,,,,984,12,649,39
 2017-M-FU-SVK-03A-2017,Slovakia F3,Clay,32,S,20170807,24,126878,,,David Poljak,U,,CZE,21.2238193018,200240,2,,Vit Kopriva,U,,CZE,20.1451060917,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,736,30,424,96
 2017-M-FU-SVK-03A-2017,Slovakia F3,Clay,32,S,20170807,25,122471,7,,Danylo Kalenichenko,U,,UKR,23.5099247091,126663,1,,Juan Pablo Ficovich,R,,ARG,20.5338809035,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,548,58,365,124
 2017-M-FU-SVK-03A-2017,Slovakia F3,Clay,32,S,20170807,26,106110,4,,Filip Horansky,R,,SVK,24.5804243669,202315,,WC,Tomas Liska,R,,SVK,19.0198494182,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,441,90,1662,2
@@ -11965,7 +11965,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-BLR-02A-2017,Belarus F2,Hard,32,S,20170814,31,104947,1,,Marsel Ilhan,R,190,TUR,30.1765913758,105299,2,,Dzmitry Zhyrmont,U,,BLR,28.4544832307,6-3 6-3,3,F,,,,,,,,,,,,,,,,,,,,262,192,319,150
 2017-M-FU-BEL-09A-2017,Belgium F9,Clay,32,S,20170814,1,104893,1,,Maxime Authom,R,,BEL,30.379192334,134833,,Q,Alexis Boureau,U,,FRA,21.3032169747,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,362,123,,
 2017-M-FU-BEL-09A-2017,Belgium F9,Clay,32,S,20170814,2,104944,,,Niels Desein,R,,BEL,30.1820670773,122280,,Q,Arnaud Graisse,U,,BEL,27.2334017796,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,968,12,,
-2017-M-FU-BEL-09A-2017,Belgium F9,Clay,32,S,20170814,3,106289,,Q,Marcelo Plaza,R,,CHI,23.5455167693,126175,,WC,Simon Stevens,R,,BEL,,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1561,2,,
+2017-M-FU-BEL-09A-2017,Belgium F9,Clay,32,S,20170814,3,106289,,Q,Marcelo Plaza,R,,CHI,23.5455167693,126175,,WC,Simon Stevens,R,,BEL,21.53045859,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1561,2,,
 2017-M-FU-BEL-09A-2017,Belgium F9,Clay,32,S,20170814,4,110468,7,,Romain Barbosa,R,,POR,23.3264887064,126129,,,Billy Harris,U,,GBR,22.5516769336,6-4 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,543,58,793,24
 2017-M-FU-BEL-09A-2017,Belgium F9,Clay,32,S,20170814,5,106333,3,,Julien Cagnina,R,,BEL,23.1950718686,124003,,Q,Enzo Do Porto,R,,ARG,23.3429158111,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,400,107,,
 2017-M-FU-BEL-09A-2017,Belgium F9,Clay,32,S,20170814,6,124040,,Q,Colin Sinclair,U,,AUS,22.6529774127,144787,,,Gabriel Petit,R,,FRA,21.9794661191,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1948,1,978,12
@@ -12436,7 +12436,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-BEL-10A-2017,Belgium F10,Clay,32,S,20170821,6,126129,,,Billy Harris,U,,GBR,22.5708418891,124040,,Q,Colin Sinclair,U,,AUS,22.6721423682,7-6(10) 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,774,26,1393,3
 2017-M-FU-BEL-10A-2017,Belgium F10,Clay,32,S,20170821,7,106053,,PR,Philip Davydenko,U,,RUS,24.9664613279,133603,,Q,Benjamin Dhoe,R,,BEL,21.0020533881,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1393,3,1474,3
 2017-M-FU-BEL-10A-2017,Belgium F10,Clay,32,S,20170821,8,131905,,,Manuel Guinard,U,,FRA,21.7659137577,126156,5,,Antoine Hoang,R,,FRA,21.7960301164,6-7(5) 7-6(4) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,796,24,396,109
-2017-M-FU-BEL-10A-2017,Belgium F10,Clay,32,S,20170821,9,105325,7,,Germain Gigounon,R,,BEL,28.3367556468,126175,,WC,Simon Stevens,R,,BEL,,6-2 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,558,55,,
+2017-M-FU-BEL-10A-2017,Belgium F10,Clay,32,S,20170821,9,105325,7,,Germain Gigounon,R,,BEL,28.3367556468,126175,,WC,Simon Stevens,R,,BEL,21.5496235455,6-2 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,558,55,,
 2017-M-FU-BEL-10A-2017,Belgium F10,Clay,32,S,20170821,10,144826,,,Aziz Dougaz,U,,TUN,20.4052019165,200677,,Q,Rio Noguchi,U,,JPN,18.6475017112,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1096,8,1355,4
 2017-M-FU-BEL-10A-2017,Belgium F10,Clay,32,S,20170821,11,200267,,WC,Zizou Bergs,R,,BEL,18.2176591376,207669,,Q,Robert Strombachs,U,,GER,17.9329226557,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1870,1,,
 2017-M-FU-BEL-10A-2017,Belgium F10,Clay,32,S,20170821,12,106333,4,,Julien Cagnina,R,,BEL,23.2142368241,126091,,,Omar Salman,R,,BEL,21.3305954825,4-6 6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,359,125,712,32

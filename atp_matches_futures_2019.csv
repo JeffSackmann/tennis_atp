@@ -279,7 +279,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-USA-09A-2019,M15 Arcadia CA,Hard,32,S,20190311,3,132052,,,Christian Langmo,U,,USA,22.7734428474,122678,,,Matic Spec,U,,SLO,24.0355920602,4-6 7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2019-M-ITF-USA-09A-2019,M15 Arcadia CA,Hard,32,S,20190311,4,208127,,,Grey Hamilton,U,,USA,22.4421629021,133018,5,,Michail Pervolarakis,R,,CYP,22.7597535934,3-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2019-M-ITF-USA-09A-2019,M15 Arcadia CA,Hard,32,S,20190311,5,125800,,,Jack Findel Hawkins,U,,GBR,24.4271047228,126087,,Q,George Goldhoff,R,,USA,24.1533196441,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,666,1,,
-2019-M-ITF-USA-09A-2019,M15 Arcadia CA,Hard,32,S,20190311,6,200532,,,Vasil Kirkov,U,,USA,19.9945242984,127123,,,Mateus Alves,U,,BRA,,3-6 6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2019-M-ITF-USA-09A-2019,M15 Arcadia CA,Hard,32,S,20190311,6,200532,,,Vasil Kirkov,U,,USA,19.9945242984,127123,,,Mateus Alves,R,,BRA,18.1273100616,3-6 6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2019-M-ITF-USA-09A-2019,M15 Arcadia CA,Hard,32,S,20190311,7,126758,,Q,Simon Freund,U,,SWE,22.4476386037,132958,,,George Botezan,R,,ROU,22.0917180014,6-7(1) 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2019-M-ITF-USA-09A-2019,M15 Arcadia CA,Hard,32,S,20190311,8,110762,,,Alan Kohen,R,,ARG,25.8891170431,200164,6,,Jonathan Gray,U,,GBR,21.9192334018,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2019-M-ITF-USA-09A-2019,M15 Arcadia CA,Hard,32,S,20190311,9,200418,,,Karl Friberg,R,,SWE,19.961670089,104998,,,Michael Shabaz,R,,USA,31.5564681725,4-6 6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -2132,7 +2132,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-ITA-01A-2019,M25 Trento,Hard,32,S,20190225,29,105514,5,,Jeremy Jahn,R,180,GER,28.8925393566,109699,6,,Julian Lenz,R,,GER,26.0205338809,7-6(5) 6-3,3,SF,,,,,,,,,,,,,,,,,,,,387,40,395,36
 2019-M-ITF-ITA-01A-2019,M25 Trento,Hard,32,S,20190225,30,206173,,WC,Jannik Sinner,U,,ITA,17.5277207392,110618,,IR  ,Elmar Ejupovic,R,,BIH,26.0643394935,7-5 6-3,3,SF,,,,,,,,,,,,,,,,,,,,324,87,,
 2019-M-ITF-ITA-01A-2019,M25 Trento,Hard,32,S,20190225,31,206173,,WC,Jannik Sinner,U,,ITA,17.5277207392,105514,5,,Jeremy Jahn,R,180,GER,28.8925393566,6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,324,87,387,40
-2019-M-ITF-USA-11A-2019,M15 Sunrise FL,Clay,32,S,20190408,1,111578,,,Stefan Kozlov,R,,USA,21.1800136893,127123,,JR   ,Mateus Alves,U,,BRA,,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,336,77,,
+2019-M-ITF-USA-11A-2019,M15 Sunrise FL,Clay,32,S,20190408,1,111578,,,Stefan Kozlov,R,,USA,21.1800136893,127123,,JR   ,Mateus Alves,R,,BRA,18.2039698836,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,336,77,,
 2019-M-ITF-USA-11A-2019,M15 Sunrise FL,Clay,32,S,20190408,2,122078,,,Dmitry Popko,R,,KAZ,22.4531143053,201976,,WC,Christian Alshon,U,,USA,18.7488021903,6-0 7-5,3,R32,,,,,,,,,,,,,,,,,,,,623,3,,
 2019-M-ITF-USA-11A-2019,M15 Sunrise FL,Clay,32,S,20190408,3,200572,,JR   ,Nick Hardt,U,,DOM,18.546201232,208119,,,Liam Draxl,R,,CAN,17.3388090349,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,608,3
 2019-M-ITF-USA-11A-2019,M15 Sunrise FL,Clay,32,S,20190408,4,106327,6,,Harrison Adams,R,,USA,24.8706365503,132073,,,Baker Newman,U,,USA,23.5044490075,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,444,20,,
@@ -2164,7 +2164,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-USA-11A-2019,M15 Sunrise FL,Clay,32,S,20190408,30,200624,,,Sebastian Korda,U,,USA,18.7570157426,105292,2,,Alejandro Gonzalez,R,,COL,30.1629021218,3-6 6-2 6-1,3,SF,,,,,,,,,,,,,,,,,,,,515,10,349,61
 2019-M-ITF-USA-11A-2019,M15 Sunrise FL,Clay,32,S,20190408,31,122078,,,Dmitry Popko,R,,KAZ,22.4531143053,200624,,,Sebastian Korda,U,,USA,18.7570157426,6-3 3-6 6-4,3,F,,,,,,,,,,,,,,,,,,,,623,3,515,10
 2019-M-ITF-USA-12A-2019,M15 Orange Park FL,Clay,32,S,20190415,1,109334,,,Bastian Malla,U,,CHI,22.559890486,105996,,,Alex Blumenberg,U,,BRA,26.9158110883,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,434,21,,
-2019-M-ITF-USA-12A-2019,M15 Orange Park FL,Clay,32,S,20190415,2,127123,,JR   ,Mateus Alves,U,,BRA,,125572,,,Hillel Rousseau,R,,HAI,23.8302532512,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2019-M-ITF-USA-12A-2019,M15 Orange Park FL,Clay,32,S,20190415,2,127123,,JR   ,Mateus Alves,R,,BRA,18.2231348392,125572,,,Hillel Rousseau,R,,HAI,23.8302532512,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2019-M-ITF-USA-12A-2019,M15 Orange Park FL,Clay,32,S,20190415,3,122678,,,Matic Spec,U,,SLO,24.1314168378,110565,,WC,Junior Ore,U,,USA,26.598220397,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2019-M-ITF-USA-12A-2019,M15 Orange Park FL,Clay,32,S,20190415,4,208119,7,,Liam Draxl,R,,CAN,17.3579739904,132606,,,Emmett Ward,U,,USA,23.947980835,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,606,3,,
 2019-M-ITF-USA-12A-2019,M15 Orange Park FL,Clay,32,S,20190415,5,106006,,,Agustin Velotti,R,,ARG,26.8911704312,132443,,,Paul C Oosterbaan,U,,USA,23.6002737851,6-4 6-7(3) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,557,6,,
@@ -2179,7 +2179,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-USA-12A-2019,M15 Orange Park FL,Clay,32,S,20190415,14,208295,,Q,Kevin Major,R,,BAH,24.0574948665,126177,,,Strong Kirchheimer,U,,USA,23.9698836413,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2019-M-ITF-USA-12A-2019,M15 Orange Park FL,Clay,32,S,20190415,15,208845,,,Yeudy Villar,R,,DOM,18.5434633812,206375,,Q,Daniel Fainblum,U,,CAN,18.2751540041,6-7(3) 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2019-M-ITF-USA-12A-2019,M15 Orange Park FL,Clay,32,S,20190415,16,144773,,,Jose Olivares,,,DOM,22.264202601,106327,2,,Harrison Adams,R,,USA,24.8898015058,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,443,20
-2019-M-ITF-USA-12A-2019,M15 Orange Park FL,Clay,32,S,20190415,17,127123,,JR   ,Mateus Alves,U,,BRA,,109334,,,Bastian Malla,U,,CHI,22.559890486,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,434,21
+2019-M-ITF-USA-12A-2019,M15 Orange Park FL,Clay,32,S,20190415,17,127123,,JR   ,Mateus Alves,R,,BRA,18.2231348392,109334,,,Bastian Malla,U,,CHI,22.559890486,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,434,21
 2019-M-ITF-USA-12A-2019,M15 Orange Park FL,Clay,32,S,20190415,18,122678,,,Matic Spec,U,,SLO,24.1314168378,208119,7,,Liam Draxl,R,,CAN,17.3579739904,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,606,3
 2019-M-ITF-USA-12A-2019,M15 Orange Park FL,Clay,32,S,20190415,19,106006,,,Agustin Velotti,R,,ARG,26.8911704312,207992,,,Cannon Kingsley,U,,USA,17.9411362081,5-7 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,557,6,,
 2019-M-ITF-USA-12A-2019,M15 Orange Park FL,Clay,32,S,20190415,20,106310,5,,Alexander Ritschard,R,,SUI,25.0595482546,208040,,,Logan Zapp,U,,USA,17.401779603,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,565,6,,
@@ -2187,11 +2187,11 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-USA-12A-2019,M15 Orange Park FL,Clay,32,S,20190415,22,122078,,,Dmitry Popko,R,,KAZ,22.4722792608,106181,3,,Felipe Mantilla,R,,COL,25.9301848049,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,620,3,474,13
 2019-M-ITF-USA-12A-2019,M15 Orange Park FL,Clay,32,S,20190415,23,106175,,,Ricardo Rodriguez,R,,VEN,25.9630390144,208295,,Q,Kevin Major,R,,BAH,24.0574948665,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,614,3,,
 2019-M-ITF-USA-12A-2019,M15 Orange Park FL,Clay,32,S,20190415,24,144773,,,Jose Olivares,,,DOM,22.264202601,208845,,,Yeudy Villar,R,,DOM,18.5434633812,7-6(5) 6-0,3,R16,,,,,,,,,,,,,,,,,,,,,,,
-2019-M-ITF-USA-12A-2019,M15 Orange Park FL,Clay,32,S,20190415,25,127123,,JR   ,Mateus Alves,U,,BRA,,122678,,,Matic Spec,U,,SLO,24.1314168378,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,,
+2019-M-ITF-USA-12A-2019,M15 Orange Park FL,Clay,32,S,20190415,25,127123,,JR   ,Mateus Alves,R,,BRA,18.2231348392,122678,,,Matic Spec,U,,SLO,24.1314168378,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,,
 2019-M-ITF-USA-12A-2019,M15 Orange Park FL,Clay,32,S,20190415,26,106006,,,Agustin Velotti,R,,ARG,26.8911704312,106310,5,,Alexander Ritschard,R,,SUI,25.0595482546,6-2 4-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,557,6,565,6
 2019-M-ITF-USA-12A-2019,M15 Orange Park FL,Clay,32,S,20190415,27,122078,,,Dmitry Popko,R,,KAZ,22.4722792608,202090,,,Adrian Andreev,U,,BUL,17.9247091034,7-6(4) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,620,3,,
 2019-M-ITF-USA-12A-2019,M15 Orange Park FL,Clay,32,S,20190415,28,144773,,,Jose Olivares,,,DOM,22.264202601,106175,,,Ricardo Rodriguez,R,,VEN,25.9630390144,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,614,3
-2019-M-ITF-USA-12A-2019,M15 Orange Park FL,Clay,32,S,20190415,29,106006,,,Agustin Velotti,R,,ARG,26.8911704312,127123,,JR   ,Mateus Alves,U,,BRA,,6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,557,6,,
+2019-M-ITF-USA-12A-2019,M15 Orange Park FL,Clay,32,S,20190415,29,106006,,,Agustin Velotti,R,,ARG,26.8911704312,127123,,JR   ,Mateus Alves,R,,BRA,18.2231348392,6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,557,6,,
 2019-M-ITF-USA-12A-2019,M15 Orange Park FL,Clay,32,S,20190415,30,122078,,,Dmitry Popko,R,,KAZ,22.4722792608,144773,,,Jose Olivares,,,DOM,22.264202601,6-2 6-1,3,SF,,,,,,,,,,,,,,,,,,,,620,3,,
 2019-M-ITF-USA-12A-2019,M15 Orange Park FL,Clay,32,S,20190415,31,122078,,,Dmitry Popko,R,,KAZ,22.4722792608,106006,,,Agustin Velotti,R,,ARG,26.8911704312,6-0 5-7 6-3,3,F,,,,,,,,,,,,,,,,,,,,620,3,557,6
 2019-M-ITF-USA-13A-2019,M25 Vero Beach FL,Clay,32,S,20190429,1,106203,,,Pedro Sakamoto,U,,BRA,25.8316221766,123932,,,Isaac Stoute,U,,GBR,23.0444900753,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,382,42,,
@@ -2426,7 +2426,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-ARG-04A-2019,M15 Buenos Aires,Clay,32,S,20190429,13,126183,,,Mariano Kestelboim,R,,ARG,23.2251882272,122257,,Q,Esteban Bruna,U,,CHI,24.2737850787,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2019-M-ITF-ARG-04A-2019,M15 Buenos Aires,Clay,32,S,20190429,14,126178,,,Pedro Iamachkine,U,,PER,23.0691307324,208824,,WC,Gian Franco Garretta Altamirano,R,,ARG,19.704312115,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2019-M-ITF-ARG-04A-2019,M15 Buenos Aires,Clay,32,S,20190429,15,138485,,,Conner Huertas Del Pino,U,,PER,23.356605065,105338,,,Maximiliano Estevez,L,,ARG,29.9466119097,2-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2019-M-ITF-ARG-04A-2019,M15 Buenos Aires,Clay,32,S,20190429,16,106292,2,,Hernan Casanova,U,,ARG,25.2238193018,208913,,,Juan Bautista Torres,U,,ARG,,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,597,4,,
+2019-M-ITF-ARG-04A-2019,M15 Buenos Aires,Clay,32,S,20190429,16,106292,2,,Hernan Casanova,U,,ARG,25.2238193018,208913,,,Juan Bautista Torres,U,,ARG,17.0732375086,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,597,4,,
 2019-M-ITF-ARG-04A-2019,M15 Buenos Aires,Clay,32,S,20190429,17,202058,,,Thiago Agustin Tirante,R,,ARG,18.0506502396,106380,,,Gonzalo Villanueva,R,,ARG,24.2902121834,7-6(3) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,519,9
 2019-M-ITF-ARG-04A-2019,M15 Buenos Aires,Clay,32,S,20190429,18,202103,7,,Francisco Cerundolo,U,,ARG,20.7091033539,144973,,,Santiago Fa Rodriguez Taverna,R,,ARG,19.7864476386,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2019-M-ITF-ARG-04A-2019,M15 Buenos Aires,Clay,32,S,20190429,19,207680,,,Facundo Diaz Acosta,U,,ARG,18.3682409309,105780,,Q,Victor Nunez,R,,CHI,27.9288158795,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,578,5,,
@@ -2704,7 +2704,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-MEX-03A-2019,M15 Cancun,Hard,32,S,20190325,12,126204,,,Gerardo Lopez Villasenor,U,,MEX,23.8494182067,109334,3,,Bastian Malla,U,,CHI,22.4832306639,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,552,7,435,21
 2019-M-ITF-MEX-03A-2019,M15 Cancun,Hard,32,S,20190325,13,106057,,,Facundo Mena,R,,ARG,26.4832306639,105156,,,Federico Zeballos,U,,BOL,30.7980835044,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,468,15,,
 2019-M-ITF-MEX-03A-2019,M15 Cancun,Hard,32,S,20190325,14,126273,,,Jordi Arconada,R,,ARG,22.5270362765,208278,,,Shintaro Mochizuki,U,,JPN,15.7919233402,7-6(6) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,679,1,,
-2019-M-ITF-MEX-03A-2019,M15 Cancun,Hard,32,S,20190325,15,127123,,,Mateus Alves,U,,BRA,,206307,,,Joao Lucas Reis Da Silva,R,,BRA,18.9760438056,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,600,3
+2019-M-ITF-MEX-03A-2019,M15 Cancun,Hard,32,S,20190325,15,127123,,,Mateus Alves,R,,BRA,18.1464750171,206307,,,Joao Lucas Reis Da Silva,R,,BRA,18.9760438056,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,600,3
 2019-M-ITF-MEX-03A-2019,M15 Cancun,Hard,32,S,20190325,16,200325,2,,Emil Ruusuvuori,R,,FIN,19.9589322382,105111,,,Ivan Endara,U,,ECU,31.0362765229,6-3 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,408,31,,
 2019-M-ITF-MEX-03A-2019,M15 Cancun,Hard,32,S,20190325,17,122669,,,Juan Pablo Varillas,R,,PER,23.446954141,134376,,,Andrew Watson,R,,GBR,22.5516769336,3-6 7-6(5) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,350,66,672,1
 2019-M-ITF-MEX-03A-2019,M15 Cancun,Hard,32,S,20190325,18,122678,,Q,Matic Spec,U,,SLO,24.0547570157,106061,7,,Pavel Krainik,R,,CAN,26.4668035592,4-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,493,12
@@ -2713,7 +2713,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-MEX-03A-2019,M15 Cancun,Hard,32,S,20190325,21,106165,,SE,Diego Hidalgo,U,,ECU,25.9137577002,106264,,,Karue Sell,R,,BRA,25.3415468857,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,482,13
 2019-M-ITF-MEX-03A-2019,M15 Cancun,Hard,32,S,20190325,22,126204,,,Gerardo Lopez Villasenor,U,,MEX,23.8494182067,200228,,,Felix Corwin,U,,USA,22.8090349076,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,552,7,679,1
 2019-M-ITF-MEX-03A-2019,M15 Cancun,Hard,32,S,20190325,23,106057,,,Facundo Mena,R,,ARG,26.4832306639,126273,,,Jordi Arconada,R,,ARG,22.5270362765,6-2 5-7 6-3,3,R16,,,,,,,,,,,,,,,,,,,,468,15,679,1
-2019-M-ITF-MEX-03A-2019,M15 Cancun,Hard,32,S,20190325,24,200325,2,,Emil Ruusuvuori,R,,FIN,19.9589322382,127123,,,Mateus Alves,U,,BRA,,7-5 7-5,3,R16,,,,,,,,,,,,,,,,,,,,408,31,,
+2019-M-ITF-MEX-03A-2019,M15 Cancun,Hard,32,S,20190325,24,200325,2,,Emil Ruusuvuori,R,,FIN,19.9589322382,127123,,,Mateus Alves,R,,BRA,18.1464750171,7-5 7-5,3,R16,,,,,,,,,,,,,,,,,,,,408,31,,
 2019-M-ITF-MEX-03A-2019,M15 Cancun,Hard,32,S,20190325,25,122669,,,Juan Pablo Varillas,R,,PER,23.446954141,122678,,Q,Matic Spec,U,,SLO,24.0547570157,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,350,66,,
 2019-M-ITF-MEX-03A-2019,M15 Cancun,Hard,32,S,20190325,26,126190,,,Nicolas Alvarez,R,,PER,22.7734428474,106412,8,,Lucas Gomez,U,,MEX,23.6002737851,6-4 2-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,521,9,515,10
 2019-M-ITF-MEX-03A-2019,M15 Cancun,Hard,32,S,20190325,27,106165,,SE,Diego Hidalgo,U,,ECU,25.9137577002,126204,,,Gerardo Lopez Villasenor,U,,MEX,23.8494182067,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,552,7
@@ -11061,7 +11061,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-EGY-29A-2019,M15 Sharm El Sheikh,Hard,32,S,20191118,31,207609,4,,Alexey Zakharov,R,,RUS,19.575633128,207434,,,Lucas Hellfritsch,U,,GER,21.7193702943,6-4 6-1,3,F,,,,,,,,,,,,,,,,,,,,556,45,1315,4
 2019-M-ITF-BRA-03A-2019,M15 Sao Jose do Rio Preto,Clay,32,S,20190617,1,126663,,,Juan Pablo Ficovich,R,,ARG,22.392881588,133820,,,Ignacio Monzon,U,,ARG,21.4455852156,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,484,14,,
 2019-M-ITF-BRA-03A-2019,M15 Sao Jose do Rio Preto,Clay,32,S,20190617,2,127954,,,Joao Hinsching,U,,BRA,22.1273100616,207659,,,Aaron Schmid,U,,SUI,18.7460643395,7-6(3) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2019-M-ITF-BRA-03A-2019,M15 Sao Jose do Rio Preto,Clay,32,S,20190617,3,206818,,,Christian Oliveira,U,,BRA,19.5208761123,127123,,JR   ,Mateus Alves,U,,BRA,,7-6(6) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2019-M-ITF-BRA-03A-2019,M15 Sao Jose do Rio Preto,Clay,32,S,20190617,3,206818,,,Christian Oliveira,U,,BRA,19.5208761123,127123,,JR   ,Mateus Alves,R,,BRA,18.3956194387,7-6(6) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2019-M-ITF-BRA-03A-2019,M15 Sao Jose do Rio Preto,Clay,32,S,20190617,4,105338,5,,Maximiliano Estevez,L,,ARG,30.0807665982,209078,,,Henrique Fukushima,U,,BRA,,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2019-M-ITF-BRA-03A-2019,M15 Sao Jose do Rio Preto,Clay,32,S,20190617,5,200335,,,Felipe Meligeni Rodrigues Alves,R,,BRA,21.3223819302,208361,,WC,Gustavo Heide,U,,BRA,17.2977412731,6-4 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,557,7,,
 2019-M-ITF-BRA-03A-2019,M15 Sao Jose do Rio Preto,Clay,32,S,20190617,6,208363,,Q,Mariano Navone,U,,ARG,18.2997946612,208372,,,Natan Rodrigues,U,,BRA,17.3689253936,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -11100,7 +11100,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-BRA-04A-2019,M15 Curitiba,Clay,32,S,20190624,8,106252,5,,Joao Pedro Sorgi,R,,BRA,25.6810403833,200331,,,Leonardo Aboian,U,,ARG,21.1772758385,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,643,3,,
 2019-M-ITF-BRA-04A-2019,M15 Curitiba,Clay,32,S,20190624,9,105338,,,Maximiliano Estevez,L,,ARG,30.0999315537,208363,,Q,Mariano Navone,U,,ARG,18.3189596167,3-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2019-M-ITF-BRA-04A-2019,M15 Curitiba,Clay,32,S,20190624,10,202106,,,Juan Bautista Otegui,R,,ARG,20.3312799452,202378,,,Ignacio Carou,U,,ARG,19.9507186858,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2019-M-ITF-BRA-04A-2019,M15 Curitiba,Clay,32,S,20190624,11,127123,,,Mateus Alves,U,,BRA,,144658,,Q,Oscar Gabriel Ortiz,U,,ARG,21.7467488022,7-6(1) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2019-M-ITF-BRA-04A-2019,M15 Curitiba,Clay,32,S,20190624,11,127123,,,Mateus Alves,R,,BRA,18.4147843943,144658,,Q,Oscar Gabriel Ortiz,U,,ARG,21.7467488022,7-6(1) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2019-M-ITF-BRA-04A-2019,M15 Curitiba,Clay,32,S,20190624,12,200335,4,,Felipe Meligeni Rodrigues Alves,R,,BRA,21.3415468857,144679,,,Daniil Zarichanskyy,L,,UKR,21.4757015743,6-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,556,7,,
 2019-M-ITF-BRA-04A-2019,M15 Curitiba,Clay,32,S,20190624,13,121264,,,Oscar Jose Gutierrez,R,,BRA,26.1629021218,207681,,,Francisco Comesana,R,,ARG,18.71321013,7-6(4) 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,677,1,,
 2019-M-ITF-BRA-04A-2019,M15 Curitiba,Clay,32,S,20190624,14,200030,,,Facundo Juarez,R,,ARG,21.749486653,200495,,WC,Eduardo Ribeiro,U,,BRA,21.2703627652,5-7 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -11111,7 +11111,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-BRA-04A-2019,M15 Curitiba,Clay,32,S,20190624,19,106292,,,Hernan Casanova,U,,ARG,25.3771389459,105996,,,Alex Blumenberg,U,,BRA,27.1074606434,6-4 3-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,541,8,,
 2019-M-ITF-BRA-04A-2019,M15 Curitiba,Clay,32,S,20190624,20,106252,5,,Joao Pedro Sorgi,R,,BRA,25.6810403833,207130,,,Matias Soto,U,,CHI,20.1587953457,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,643,3,,
 2019-M-ITF-BRA-04A-2019,M15 Curitiba,Clay,32,S,20190624,21,105338,,,Maximiliano Estevez,L,,ARG,30.0999315537,202106,,,Juan Bautista Otegui,R,,ARG,20.3312799452,3-6 6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,,
-2019-M-ITF-BRA-04A-2019,M15 Curitiba,Clay,32,S,20190624,22,200335,4,,Felipe Meligeni Rodrigues Alves,R,,BRA,21.3415468857,127123,,,Mateus Alves,U,,BRA,,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,556,7,,
+2019-M-ITF-BRA-04A-2019,M15 Curitiba,Clay,32,S,20190624,22,200335,4,,Felipe Meligeni Rodrigues Alves,R,,BRA,21.3415468857,127123,,,Mateus Alves,R,,BRA,18.4147843943,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,556,7,,
 2019-M-ITF-BRA-04A-2019,M15 Curitiba,Clay,32,S,20190624,23,121264,,,Oscar Jose Gutierrez,R,,BRA,26.1629021218,200030,,,Facundo Juarez,R,,ARG,21.749486653,1-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,677,1,,
 2019-M-ITF-BRA-04A-2019,M15 Curitiba,Clay,32,S,20190624,24,126663,2,,Juan Pablo Ficovich,R,,ARG,22.4120465435,206818,,,Christian Oliveira,U,,BRA,19.5400410678,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,486,14,,
 2019-M-ITF-BRA-04A-2019,M15 Curitiba,Clay,32,S,20190624,25,127108,,WC,Igor Ribeiro Marcondes,U,,BRA,22.0205338809,122425,,,Rafael Matos,U,,BRA,23.4633812457,6-2 2-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,,
@@ -11165,7 +11165,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-TUN-34A-2019,M15 Tabarka,Clay,32,S,20190826,11,106195,,,Naoki Takeda,U,,JPN,26.2067077344,124141,,Q,Franco Feitt,R,,ARG,26.9760438056,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1159,6,1210,5
 2019-M-ITF-TUN-34A-2019,M15 Tabarka,Clay,32,S,20190826,12,200184,4,,Andrey Chepelev,L,,RUS,21.0650239562,206716,,,Lukas Hellum Lilleengen,U,,NOR,18.7761806982,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,585,41,1534,2
 2019-M-ITF-TUN-34A-2019,M15 Tabarka,Clay,32,S,20190826,13,200297,,,Aziz Ouakaa,U,,TUN,20.052019165,207815,,,Guido Ivan Justo,U,,ARG,21.6892539357,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,965,11,773,21
-2019-M-ITF-TUN-34A-2019,M15 Tabarka,Clay,32,S,20190826,14,126449,,Q,Marco Mosciatti,U,,ITA,22.1108829569,127123,,,Mateus Alves,U,,BRA,,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1514,2,,
+2019-M-ITF-TUN-34A-2019,M15 Tabarka,Clay,32,S,20190826,14,126449,,Q,Marco Mosciatti,U,,ITA,22.1108829569,127123,,,Mateus Alves,R,,BRA,18.5872689938,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1514,2,,
 2019-M-ITF-TUN-34A-2019,M15 Tabarka,Clay,32,S,20190826,15,108705,,WC,Anis Ghorbel,R,,TUN,30.3381245722,144856,,,Georg Winkler,U,,ITA,22.6036960986,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1177,6,1174,6
 2019-M-ITF-TUN-34A-2019,M15 Tabarka,Clay,32,S,20190826,16,144869,2,,Tomas Martin Etcheverry,U,,ARG,20.1067761807,206553,,,Luca Potenza,U,,ITA,19.0773442847,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,457,68,1133,6
 2019-M-ITF-TUN-34A-2019,M15 Tabarka,Clay,32,S,20190826,17,125825,,,Matias Zukas,R,,ARG,23.3100616016,207249,,,Alexandros Skorilas,R,,GRE,19.4442162902,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,466,65,1109,7
@@ -11195,7 +11195,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-TUN-35A-2019,M15 Tabarka,Clay,32,S,20190902,10,208265,,,Pierre Delage,U,,FRA,18.5900068446,126449,,,Marco Mosciatti,U,,ITA,22.1108829569,6-1 6-7(2) 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,915,13,1514,2
 2019-M-ITF-TUN-35A-2019,M15 Tabarka,Clay,32,S,20190902,11,200093,,,Luca Prevosto,R,,ITA,20.9609856263,122294,,,Gabriele Maria Noce,R,,ITA,23.8247775496,1-6 7-6(3) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,724,25,959,11
 2019-M-ITF-TUN-35A-2019,M15 Tabarka,Clay,32,S,20190902,12,111761,3,,Benjamin Lock,R,,ZIM,26.4777549624,108705,,,Anis Ghorbel,R,,TUN,30.3381245722,6-2 2-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,490,61,1177,6
-2019-M-ITF-TUN-35A-2019,M15 Tabarka,Clay,32,S,20190902,13,127123,,JR   ,Mateus Alves,U,,BRA,,202127,,,Clement Tabur,U,,FRA,19.5865845311,7-6(4) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,637,35
+2019-M-ITF-TUN-35A-2019,M15 Tabarka,Clay,32,S,20190902,13,127123,,JR   ,Mateus Alves,R,,BRA,18.5872689938,202127,,,Clement Tabur,U,,FRA,19.5865845311,7-6(4) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,637,35
 2019-M-ITF-TUN-35A-2019,M15 Tabarka,Clay,32,S,20190902,14,202187,,,Gianluca Acquaroli,U,,ITA,24.8295687885,200297,,,Aziz Ouakaa,U,,TUN,20.052019165,7-6(2) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,965,11
 2019-M-ITF-TUN-35A-2019,M15 Tabarka,Clay,32,S,20190902,15,144807,,,Kenneth Raisma,L,,EST,21.3963039014,202211,,WC,Bjorn Nareyka,U,,AUT,19.6796714579,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1220,5,,
 2019-M-ITF-TUN-35A-2019,M15 Tabarka,Clay,32,S,20190902,16,125825,2,,Matias Zukas,R,,ARG,23.3100616016,200708,,,Alessandro Ingarao,U,,ITA,20.0657084189,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,466,65,853,15
@@ -11205,14 +11205,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-TUN-35A-2019,M15 Tabarka,Clay,32,S,20190902,20,111784,,,Gustav Hansson,U,,SWE,24.3641341547,207412,,,Sidane Pontjodikromo,U,,NED,18.8364134155,6-0 6-0,3,R16,,,,,,,,,,,,,,,,,,,,826,16,962,11
 2019-M-ITF-TUN-35A-2019,M15 Tabarka,Clay,32,S,20190902,21,106164,,,Tomas Lipovsek Puches,U,,ARG,26.3572895277,208265,,,Pierre Delage,U,,FRA,18.5900068446,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,680,30,915,13
 2019-M-ITF-TUN-35A-2019,M15 Tabarka,Clay,32,S,20190902,22,111761,3,,Benjamin Lock,R,,ZIM,26.4777549624,200093,,,Luca Prevosto,R,,ITA,20.9609856263,5-7 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,490,61,724,25
-2019-M-ITF-TUN-35A-2019,M15 Tabarka,Clay,32,S,20190902,23,127123,,JR   ,Mateus Alves,U,,BRA,,202187,,,Gianluca Acquaroli,U,,ITA,24.8295687885,6-7(4) 7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+2019-M-ITF-TUN-35A-2019,M15 Tabarka,Clay,32,S,20190902,23,127123,,JR   ,Mateus Alves,R,,BRA,18.5872689938,202187,,,Gianluca Acquaroli,U,,ITA,24.8295687885,6-7(4) 7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2019-M-ITF-TUN-35A-2019,M15 Tabarka,Clay,32,S,20190902,24,144807,,,Kenneth Raisma,L,,EST,21.3963039014,125825,2,,Matias Zukas,R,,ARG,23.3100616016,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1220,5,466,65
 2019-M-ITF-TUN-35A-2019,M15 Tabarka,Clay,32,S,20190902,25,144869,,,Tomas Martin Etcheverry,U,,ARG,20.1067761807,117362,,,Paul Woerner,R,,GER,23.0061601643,6-3 6-0,3,QF,,,,,,,,,,,,,,,,,,,,457,68,785,20
 2019-M-ITF-TUN-35A-2019,M15 Tabarka,Clay,32,S,20190902,26,202209,,,Imanol Lopez Morillo,R,,ESP,19.7700205339,111784,,,Gustav Hansson,U,,SWE,24.3641341547,7-6(5) 3-6 7-6(8),3,QF,,,,,,,,,,,,,,,,,,,,763,21,826,16
 2019-M-ITF-TUN-35A-2019,M15 Tabarka,Clay,32,S,20190902,27,111761,3,,Benjamin Lock,R,,ZIM,26.4777549624,106164,,,Tomas Lipovsek Puches,U,,ARG,26.3572895277,2-6 6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,490,61,680,30
-2019-M-ITF-TUN-35A-2019,M15 Tabarka,Clay,32,S,20190902,28,127123,,JR   ,Mateus Alves,U,,BRA,,144807,,,Kenneth Raisma,L,,EST,21.3963039014,6-3 3-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,1220,5
+2019-M-ITF-TUN-35A-2019,M15 Tabarka,Clay,32,S,20190902,28,127123,,JR   ,Mateus Alves,R,,BRA,18.5872689938,144807,,,Kenneth Raisma,L,,EST,21.3963039014,6-3 3-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,1220,5
 2019-M-ITF-TUN-35A-2019,M15 Tabarka,Clay,32,S,20190902,29,144869,,,Tomas Martin Etcheverry,U,,ARG,20.1067761807,202209,,,Imanol Lopez Morillo,R,,ESP,19.7700205339,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,457,68,763,21
-2019-M-ITF-TUN-35A-2019,M15 Tabarka,Clay,32,S,20190902,30,111761,3,,Benjamin Lock,R,,ZIM,26.4777549624,127123,,JR   ,Mateus Alves,U,,BRA,,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,490,61,,
+2019-M-ITF-TUN-35A-2019,M15 Tabarka,Clay,32,S,20190902,30,111761,3,,Benjamin Lock,R,,ZIM,26.4777549624,127123,,JR   ,Mateus Alves,R,,BRA,18.5872689938,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,490,61,,
 2019-M-ITF-TUN-35A-2019,M15 Tabarka,Clay,32,S,20190902,31,144869,,,Tomas Martin Etcheverry,U,,ARG,20.1067761807,111761,3,,Benjamin Lock,R,,ZIM,26.4777549624,6-4 6-1,3,F,,,,,,,,,,,,,,,,,,,,457,68,490,61
 2019-M-ITF-TUN-36A-2019,M15 Tabarka,Clay,32,S,20190909,1,111761,,,Benjamin Lock,R,,ZIM,26.5160848734,209241,,Q,Leonardo Catani,U,,ITA,,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,487,61,,
 2019-M-ITF-TUN-36A-2019,M15 Tabarka,Clay,32,S,20190909,2,104917,,,Anas Fattar,R,,MAR,32.3285420945,209117,,,Marco Furlanetto,U,,ITA,,6-2 6-7(6) 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,881,14,,
@@ -11226,7 +11226,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-TUN-36A-2019,M15 Tabarka,Clay,32,S,20190909,10,145014,,,Thomas Laurent,R,,FRA,21.7303216975,207990,,,Moritz Thiem,R,,AUT,19.7535934292,3-6 6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,1294,4
 2019-M-ITF-TUN-36A-2019,M15 Tabarka,Clay,32,S,20190909,11,124141,,,Franco Feitt,R,,ARG,27.0143737166,209242,,JR   ,Ilarion Danilchenko,U,,RUS,,6-4 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1141,6,,
 2019-M-ITF-TUN-36A-2019,M15 Tabarka,Clay,32,S,20190909,12,200184,3,,Andrey Chepelev,L,,RUS,21.1033538672,208209,,,Giacomo Dambrosi,R,,ITA,18.0533880903,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,577,42,1191,5
-2019-M-ITF-TUN-36A-2019,M15 Tabarka,Clay,32,S,20190909,13,122474,,,Guy Orly Iradukunda,U,,BDI,23.4688569473,127123,,,Mateus Alves,U,,BRA,,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,874,14,,
+2019-M-ITF-TUN-36A-2019,M15 Tabarka,Clay,32,S,20190909,13,122474,,,Guy Orly Iradukunda,U,,BDI,23.4688569473,127123,,,Mateus Alves,R,,BRA,18.6255989049,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,874,14,,
 2019-M-ITF-TUN-36A-2019,M15 Tabarka,Clay,32,S,20190909,14,144915,,,Mikalai Haliak,R,,BLR,21.0704996578,208065,,,Marius Ruzgas,U,,SWE,22.8856947296,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,917,13,1042,8
 2019-M-ITF-TUN-36A-2019,M15 Tabarka,Clay,32,S,20190909,15,207484,,,Neil Oberleitner,R,,AUT,20.0958247775,206512,,,Nicolo Inserra,U,,ITA,20.1396303901,6-2 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1936,1,,
 2019-M-ITF-TUN-36A-2019,M15 Tabarka,Clay,32,S,20190909,16,202104,2,,Sebastian Baez,R,,ARG,18.6967830253,127973,,,Majed Kilani,R,,TUN,22.6858316222,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,519,51,1961,1
@@ -11445,7 +11445,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-ARG-06B-2019,M25 Buenos Aires,Clay,32,S,20190701,12,126190,4,,Nicolas Alvarez,R,,PER,23.06091718,208292,,,Boruch Skierkier,L,,ARG,18.8501026694,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,533,9,,
 2019-M-ITF-ARG-06B-2019,M25 Buenos Aires,Clay,32,S,20190701,13,106292,,,Hernan Casanova,U,,ARG,25.3963039014,144821,,,Genaro Alberto Olivieri,U,,ARG,20.9062286105,1-6 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,541,8,649,1
 2019-M-ITF-ARG-06B-2019,M25 Buenos Aires,Clay,32,S,20190701,14,109732,,LL,Enrique Bogo,U,,BRA,24.0191649555,200331,,,Leonardo Aboian,U,,ARG,21.196440794,6-7(9) 6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2019-M-ITF-ARG-06B-2019,M25 Buenos Aires,Clay,32,S,20190701,15,138485,,IR  ,Conner Huertas Del Pino,U,,PER,23.5290896646,127123,,,Mateus Alves,U,,BRA,,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2019-M-ITF-ARG-06B-2019,M25 Buenos Aires,Clay,32,S,20190701,15,138485,,IR  ,Conner Huertas Del Pino,U,,PER,23.5290896646,127123,,,Mateus Alves,R,,BRA,18.4339493498,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2019-M-ITF-ARG-06B-2019,M25 Buenos Aires,Clay,32,S,20190701,16,202103,2,,Francisco Cerundolo,U,,ARG,20.8815879535,209104,,,Benjamin Denis Alarcon,U,,ARG,,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,473,15,,
 2019-M-ITF-ARG-06B-2019,M25 Buenos Aires,Clay,32,S,20190701,17,200116,,,Camilo Ugo Carabelli,R,,ARG,20.038329911,200030,,,Facundo Juarez,R,,ARG,21.7686516085,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,459,19,,
 2019-M-ITF-ARG-06B-2019,M25 Buenos Aires,Clay,32,S,20190701,18,144973,,,Santiago Fa Rodriguez Taverna,R,,ARG,19.9589322382,208078,,LL,Tomas Farjat,U,,ARG,18.3709787817,7-6(3) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,,
@@ -11468,7 +11468,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-ARG-06C-2019,M15 Buenos Aires,Clay,32,S,20190708,4,144821,7,,Genaro Alberto Olivieri,U,,ARG,20.9062286105,144986,,,Agustin Riquelme,R,,ARG,19.227926078,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,649,1,,
 2019-M-ITF-ARG-06C-2019,M15 Buenos Aires,Clay,32,S,20190708,5,106292,,,Hernan Casanova,U,,ARG,25.3963039014,208078,,,Tomas Farjat,U,,ARG,18.3709787817,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,541,8,,
 2019-M-ITF-ARG-06C-2019,M15 Buenos Aires,Clay,32,S,20190708,6,206805,,,Luciano Carraro,U,,ARG,21.1909650924,208923,,Q,Octavio Volpi,U,,ARG,,1-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2019-M-ITF-ARG-06C-2019,M15 Buenos Aires,Clay,32,S,20190708,7,127123,,,Mateus Alves,U,,BRA,,208413,,,Ramiro Pioli Tizon,U,,ARG,18.4449007529,6-3 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2019-M-ITF-ARG-06C-2019,M15 Buenos Aires,Clay,32,S,20190708,7,127123,,,Mateus Alves,R,,BRA,18.4339493498,208413,,,Ramiro Pioli Tizon,U,,ARG,18.4449007529,6-3 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2019-M-ITF-ARG-06C-2019,M15 Buenos Aires,Clay,32,S,20190708,8,202106,,,Juan Bautista Otegui,R,,ARG,20.3504449008,106252,6,,Joao Pedro Sorgi,R,,BRA,25.7002053388,6-1 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,,,643,3
 2019-M-ITF-ARG-06C-2019,M15 Buenos Aires,Clay,32,S,20190708,9,111508,,,Juan Ignacio Galarza,R,,ARG,25.28678987,144658,,,Oscar Gabriel Ortiz,U,,ARG,21.7659137577,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,583,5,,
 2019-M-ITF-ARG-06C-2019,M15 Buenos Aires,Clay,32,S,20190708,10,209105,,Q,Lucas Luini,L,,ARG,,202305,,,Franco Ribero,U,,ARG,19.8083504449,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -11481,7 +11481,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-ARG-06C-2019,M15 Buenos Aires,Clay,32,S,20190708,17,200116,,,Camilo Ugo Carabelli,R,,ARG,20.038329911,207387,,,Juan Pablo Grassi Mazzuchi,U,,ARG,19.8412046543,4-6 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,459,19,,
 2019-M-ITF-ARG-06C-2019,M15 Buenos Aires,Clay,32,S,20190708,18,144821,7,,Genaro Alberto Olivieri,U,,ARG,20.9062286105,207757,,,Santiago Bramajo,U,,ARG,18.6447638604,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,649,1,,
 2019-M-ITF-ARG-06C-2019,M15 Buenos Aires,Clay,32,S,20190708,19,106292,,,Hernan Casanova,U,,ARG,25.3963039014,206805,,,Luciano Carraro,U,,ARG,21.1909650924,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,541,8,,
-2019-M-ITF-ARG-06C-2019,M15 Buenos Aires,Clay,32,S,20190708,20,202106,,,Juan Bautista Otegui,R,,ARG,20.3504449008,127123,,,Mateus Alves,U,,BRA,,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+2019-M-ITF-ARG-06C-2019,M15 Buenos Aires,Clay,32,S,20190708,20,202106,,,Juan Bautista Otegui,R,,ARG,20.3504449008,127123,,,Mateus Alves,R,,BRA,18.4339493498,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2019-M-ITF-ARG-06C-2019,M15 Buenos Aires,Clay,32,S,20190708,21,111508,,,Juan Ignacio Galarza,R,,ARG,25.28678987,209105,,Q,Lucas Luini,L,,ARG,,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,583,5,,
 2019-M-ITF-ARG-06C-2019,M15 Buenos Aires,Clay,32,S,20190708,22,126190,3,,Nicolas Alvarez,R,,PER,23.06091718,200331,,,Leonardo Aboian,U,,ARG,21.196440794,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,533,9,,
 2019-M-ITF-ARG-06C-2019,M15 Buenos Aires,Clay,32,S,20190708,23,105338,,,Maximiliano Estevez,L,,ARG,30.1190965092,202412,,,Francisco Vittar,U,,ARG,20.1259411362,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,,
@@ -12053,7 +12053,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-BOL-02A-2019,M15 La Paz,Clay,32,S,20190812,31,105944,,,Juan Sebastian Gomez,R,,COL,27.4360027379,127954,,,Joao Hinsching,U,,BRA,22.2806297057,7-6(2) 6-4,3,F,,,,,,,,,,,,,,,,,,,,952,11,1411,3
 2019-M-ITF-TUN-38A-2019,M15 Tabarka,Clay,32,S,20190916,1,144826,,,Aziz Dougaz,U,,TUN,22.4750171116,144915,,,Mikalai Haliak,R,,BLR,21.0896646133,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,469,66,885,14
 2019-M-ITF-TUN-38A-2019,M15 Tabarka,Clay,32,S,20190916,2,208285,,,Fausto Tabacco,U,,ITA,17.3442847365,122419,,WC,Hichem Yasri,U,,ALG,29.492128679,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1448,2,,
-2019-M-ITF-TUN-38A-2019,M15 Tabarka,Clay,32,S,20190916,3,127123,,,Mateus Alves,U,,BRA,,126492,,,Marc Dijkhuizen,L,,NED,23.4579055441,6-2 6-7(0) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1210,5
+2019-M-ITF-TUN-38A-2019,M15 Tabarka,Clay,32,S,20190916,3,127123,,,Mateus Alves,R,,BRA,18.6447638604,126492,,,Marc Dijkhuizen,L,,NED,23.4579055441,6-2 6-7(0) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1210,5
 2019-M-ITF-TUN-38A-2019,M15 Tabarka,Clay,32,S,20190916,4,121411,6,WC,Moez Chargui,R,,TUN,26.6803559206,124099,,,Mohamed Nazim Makhlouf,R,,ALG,23.0088980151,6-4 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,838,16,1047,8
 2019-M-ITF-TUN-38A-2019,M15 Tabarka,Clay,32,S,20190916,5,200184,,,Andrey Chepelev,L,,RUS,21.1225188227,207861,,,Lorenzo Brunetti,U,,ITA,24.2217659138,4-6 6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,576,42,1202,5
 2019-M-ITF-TUN-38A-2019,M15 Tabarka,Clay,32,S,20190916,6,145014,,,Thomas Laurent,R,,FRA,21.749486653,202157,,,Amaury Delmas,U,,FRA,21.4592744695,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,1302,4
@@ -12068,14 +12068,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-TUN-38A-2019,M15 Tabarka,Clay,32,S,20190916,15,208191,,,Zachary Eisinga,U,,NED,19.6851471595,209214,,,Kabir Gupta,R,,IND,,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1065,7,,
 2019-M-ITF-TUN-38A-2019,M15 Tabarka,Clay,32,S,20190916,16,123847,2,,Bogdan Bobrov,U,,RUS,21.9986310746,133933,,,Thomas Yaka Kofi Setodji,U,,TOG,23.9260780287,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,542,48,1565,2
 2019-M-ITF-TUN-38A-2019,M15 Tabarka,Clay,32,S,20190916,17,144826,,,Aziz Dougaz,U,,TUN,22.4750171116,208285,,,Fausto Tabacco,U,,ITA,17.3442847365,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,469,66,1448,2
-2019-M-ITF-TUN-38A-2019,M15 Tabarka,Clay,32,S,20190916,18,127123,,,Mateus Alves,U,,BRA,,121411,6,WC,Moez Chargui,R,,TUN,26.6803559206,6-1 5-7 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,838,16
+2019-M-ITF-TUN-38A-2019,M15 Tabarka,Clay,32,S,20190916,18,127123,,,Mateus Alves,R,,BRA,18.6447638604,121411,6,WC,Moez Chargui,R,,TUN,26.6803559206,6-1 5-7 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,838,16
 2019-M-ITF-TUN-38A-2019,M15 Tabarka,Clay,32,S,20190916,19,145014,,,Thomas Laurent,R,,FRA,21.749486653,200184,,,Andrey Chepelev,L,,RUS,21.1225188227,7-6(1) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,576,42
 2019-M-ITF-TUN-38A-2019,M15 Tabarka,Clay,32,S,20190916,20,207408,,,Niklas Guttau,U,,GER,19.7015742642,104917,8,,Anas Fattar,R,,MAR,32.34770705,7-6(2) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,951,11,860,15
 2019-M-ITF-TUN-38A-2019,M15 Tabarka,Clay,32,S,20190916,21,202440,,,Marco Miceli,U,,ITA,20.8678986995,133820,,,Ignacio Monzon,U,,ARG,21.6947296372,7-6(5) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,770,20,941,12
 2019-M-ITF-TUN-38A-2019,M15 Tabarka,Clay,32,S,20190916,22,144641,4,,Ondrej Krstev,L,,CZE,22.2587268994,108705,,,Anis Ghorbel,R,,TUN,30.3956194387,5-7 6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,735,23,1056,8
 2019-M-ITF-TUN-38A-2019,M15 Tabarka,Clay,32,S,20190916,23,122474,,,Guy Orly Iradukunda,U,,BDI,23.4880219028,202260,,,Henri Squire,U,,GER,18.9678302533,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,848,15,1383,3
 2019-M-ITF-TUN-38A-2019,M15 Tabarka,Clay,32,S,20190916,24,123847,2,,Bogdan Bobrov,U,,RUS,21.9986310746,208191,,,Zachary Eisinga,U,,NED,19.6851471595,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,542,48,1065,7
-2019-M-ITF-TUN-38A-2019,M15 Tabarka,Clay,32,S,20190916,25,144826,,,Aziz Dougaz,U,,TUN,22.4750171116,127123,,,Mateus Alves,U,,BRA,,7-6(6) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,469,66,,
+2019-M-ITF-TUN-38A-2019,M15 Tabarka,Clay,32,S,20190916,25,144826,,,Aziz Dougaz,U,,TUN,22.4750171116,127123,,,Mateus Alves,R,,BRA,18.6447638604,7-6(6) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,469,66,,
 2019-M-ITF-TUN-38A-2019,M15 Tabarka,Clay,32,S,20190916,26,145014,,,Thomas Laurent,R,,FRA,21.749486653,207408,,,Niklas Guttau,U,,GER,19.7015742642,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,,,951,11
 2019-M-ITF-TUN-38A-2019,M15 Tabarka,Clay,32,S,20190916,27,202440,,,Marco Miceli,U,,ITA,20.8678986995,144641,4,,Ondrej Krstev,L,,CZE,22.2587268994,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,770,20,735,23
 2019-M-ITF-TUN-38A-2019,M15 Tabarka,Clay,32,S,20190916,28,123847,2,,Bogdan Bobrov,U,,RUS,21.9986310746,122474,,,Guy Orly Iradukunda,U,,BDI,23.4880219028,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,542,48,848,15
@@ -14235,7 +14235,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-BRA-05A-2019,M25 Rio de Janeiro,Clay,32,S,20191007,13,200116,,,Camilo Ugo Carabelli,R,,ARG,20.3066392882,200030,,,Facundo Juarez,R,,ARG,22.0369609856,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,447,71,620,36
 2019-M-ITF-BRA-05A-2019,M25 Rio de Janeiro,Clay,32,S,20191007,14,104903,,,Andre Miele,R,,BRA,32.4873374401,202181,,,Gilbert Soares Klier Junior,U,,BRA,19.3921971253,4-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1090,7,569,42
 2019-M-ITF-BRA-05A-2019,M25 Rio de Janeiro,Clay,32,S,20191007,15,206818,,,Christian Oliveira,U,,BRA,19.8275154004,105273,,,Mauricio Echazu,R,,PER,30.7077344285,6-1 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1365,3,525,52
-2019-M-ITF-BRA-05A-2019,M25 Rio de Janeiro,Clay,32,S,20191007,16,200335,2,,Felipe Meligeni Rodrigues Alves,R,,BRA,21.6290212183,127123,,,Mateus Alves,U,,BRA,,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,394,92,,
+2019-M-ITF-BRA-05A-2019,M25 Rio de Janeiro,Clay,32,S,20191007,16,200335,2,,Felipe Meligeni Rodrigues Alves,R,,BRA,21.6290212183,127123,,,Mateus Alves,R,,BRA,18.7022587269,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,394,92,,
 2019-M-ITF-BRA-05A-2019,M25 Rio de Janeiro,Clay,32,S,20191007,17,105872,,,Christian Lindell,R,,SWE,27.8795345654,202058,,,Thiago Agustin Tirante,R,,ARG,18.4914442163,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,346,116,719,25
 2019-M-ITF-BRA-05A-2019,M25 Rio de Janeiro,Clay,32,S,20191007,18,105245,,,Fabiano De Paula,R,,BRA,30.855578371,122425,,,Rafael Matos,U,,BRA,23.7508555784,6-4 1-6 5-4 RET,3,R16,,,,,,,,,,,,,,,,,,,,,,505,58
 2019-M-ITF-BRA-05A-2019,M25 Rio de Janeiro,Clay,32,S,20191007,19,109334,,,Bastian Malla,U,,CHI,23.0390143737,106059,,,Michel Vernier,R,,CHI,27.0253251198,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,426,79,753,23
@@ -14253,7 +14253,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-BRA-05A-2019,M25 Rio de Janeiro,Clay,32,S,20191007,31,202104,,,Sebastian Baez,R,,ARG,18.7734428474,144869,3,,Tomas Martin Etcheverry,U,,ARG,20.2217659138,4-6 6-4 4-1 RET,3,F,,,,,,,,,,,,,,,,,,,,529,51,413,83
 2019-M-ITF-BRA-06A-2019,M15 Sao Paulo,Clay,32,S,20191014,1,109334,,,Bastian Malla,U,,CHI,23.0581793292,206307,,,Joao Lucas Reis Da Silva,R,,BRA,19.5509924709,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,454,69,599,39
 2019-M-ITF-BRA-06A-2019,M15 Sao Paulo,Clay,32,S,20191014,2,207659,,,Aaron Schmid,U,,SUI,19.0718685832,127954,,,Joao Hinsching,U,,BRA,22.4531143053,6-3 2-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,900,14,1012,9
-2019-M-ITF-BRA-06A-2019,M15 Sao Paulo,Clay,32,S,20191014,3,127123,,,Mateus Alves,U,,BRA,,207506,,Q,Gabriel Ciro Da Silva,U,,BRA,20.1943874059,6-1 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,,,1106,7
+2019-M-ITF-BRA-06A-2019,M15 Sao Paulo,Clay,32,S,20191014,3,127123,,,Mateus Alves,R,,BRA,18.7214236824,207506,,Q,Gabriel Ciro Da Silva,U,,BRA,20.1943874059,6-1 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,,,1106,7
 2019-M-ITF-BRA-06A-2019,M15 Sao Paulo,Clay,32,S,20191014,4,207678,6,,Juan Manuel Cerundolo,U,,ARG,17.9110198494,126551,,,Leonardo Civita Telles,R,,BRA,23.9151266256,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,514,56,,
 2019-M-ITF-BRA-06A-2019,M15 Sao Paulo,Clay,32,S,20191014,5,125825,,,Matias Zukas,R,,ARG,23.4442162902,105996,,,Alex Blumenberg,U,,BRA,27.4140999316,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,513,56,810,18
 2019-M-ITF-BRA-06A-2019,M15 Sao Paulo,Clay,32,S,20191014,6,138485,,,Conner Huertas Del Pino,U,,PER,23.8165639973,206818,,Q,Christian Oliveira,U,,BRA,19.8466803559,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,686,29,1361,3
@@ -14262,13 +14262,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-BRA-06A-2019,M15 Sao Paulo,Clay,32,S,20191014,9,202104,,,Sebastian Baez,R,,ARG,18.7926078029,209085,,Q,Marcio Eduardo Silva,U,,BRA,,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,507,57,,
 2019-M-ITF-BRA-06A-2019,M15 Sao Paulo,Clay,32,S,20191014,10,207681,,,Francisco Comesana,R,,ARG,19.0198494182,105700,,,Jose Pereira,R,,BRA,28.7145790554,7-6(3) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,808,18,838,16
 2019-M-ITF-BRA-06A-2019,M15 Sao Paulo,Clay,32,S,20191014,11,127108,,,Igor Ribeiro Marcondes,U,,BRA,22.3271731691,106059,,,Michel Vernier,R,,CHI,27.0444900753,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1242,4,754,23
-2019-M-ITF-BRA-06A-2019,M15 Sao Paulo,Clay,32,S,20191014,12,105180,4,,Daniel Dutra Da Silva,L,175,BRA,31.2744695414,208913,,,Juan Bautista Torres,U,,ARG,,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,521,53,1459,2
+2019-M-ITF-BRA-06A-2019,M15 Sao Paulo,Clay,32,S,20191014,12,105180,4,,Daniel Dutra Da Silva,L,175,BRA,31.2744695414,208913,,,Juan Bautista Torres,U,,ARG,17.5331964408,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,521,53,1459,2
 2019-M-ITF-BRA-06A-2019,M15 Sao Paulo,Clay,32,S,20191014,13,202181,,,Gilbert Soares Klier Junior,U,,BRA,19.4113620808,144679,,,Daniil Zarichanskyy,L,,UKR,21.7823408624,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,572,42,1120,7
 2019-M-ITF-BRA-06A-2019,M15 Sao Paulo,Clay,32,S,20191014,14,206805,,,Luciano Carraro,U,,ARG,21.4784394251,208046,,WC,Pedro Boscardin Dias,U,,BRA,16.7091033539,2-6 6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1515,2,,
 2019-M-ITF-BRA-06A-2019,M15 Sao Paulo,Clay,32,S,20191014,15,208262,,JR   ,Alejo Lorenzo Lingua Lavallen,L,,ARG,18.598220397,209320,,,Lucas Amorim De Lima,U,,BRA,,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1209,5,,
 2019-M-ITF-BRA-06A-2019,M15 Sao Paulo,Clay,32,S,20191014,16,122425,2,,Rafael Matos,U,,BRA,23.7700205339,207799,,,Matheus Pucinelli De Almeida,U,,BRA,18.5352498289,6-7(4) 7-5 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,501,58,977,10
 2019-M-ITF-BRA-06A-2019,M15 Sao Paulo,Clay,32,S,20191014,17,109334,,,Bastian Malla,U,,CHI,23.0581793292,207659,,,Aaron Schmid,U,,SUI,19.0718685832,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,454,69,900,14
-2019-M-ITF-BRA-06A-2019,M15 Sao Paulo,Clay,32,S,20191014,18,207678,6,,Juan Manuel Cerundolo,U,,ARG,17.9110198494,127123,,,Mateus Alves,U,,BRA,,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,514,56,,
+2019-M-ITF-BRA-06A-2019,M15 Sao Paulo,Clay,32,S,20191014,18,207678,6,,Juan Manuel Cerundolo,U,,ARG,17.9110198494,127123,,,Mateus Alves,R,,BRA,18.7214236824,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,514,56,,
 2019-M-ITF-BRA-06A-2019,M15 Sao Paulo,Clay,32,S,20191014,19,125825,,,Matias Zukas,R,,ARG,23.4442162902,138485,,,Conner Huertas Del Pino,U,,PER,23.8165639973,6-4 2-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,513,56,686,29
 2019-M-ITF-BRA-06A-2019,M15 Sao Paulo,Clay,32,S,20191014,20,207736,8,,Arklon Huertas Del Pino,U,,PER,25.2457221081,206556,,Q,Lautaro Agustin Falabella,U,,ARG,21.7330595483,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,592,40,1790,1
 2019-M-ITF-BRA-06A-2019,M15 Sao Paulo,Clay,32,S,20191014,21,202104,,,Sebastian Baez,R,,ARG,18.7926078029,207681,,,Francisco Comesana,R,,ARG,19.0198494182,3-6 7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,507,57,808,18
@@ -14540,7 +14540,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-ARG-22A-2019,M15 Buenos Aires,Clay,32,S,20190916,8,207736,8,,Arklon Huertas Del Pino,U,,PER,25.1690622861,208882,,,Roman Andres Burruchaga,U,,ARG,17.6454483231,7-6(2) 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,556,46,1692,1
 2019-M-ITF-ARG-22A-2019,M15 Buenos Aires,Clay,32,S,20190916,9,144821,,,Genaro Alberto Olivieri,U,,ARG,21.1170431211,208262,,JR   ,Alejo Lorenzo Lingua Lavallen,L,,ARG,18.5215605749,6-7(1) 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,476,64,1537,2
 2019-M-ITF-ARG-22A-2019,M15 Buenos Aires,Clay,32,S,20190916,10,122538,,,Nicolas Alberto Arreche,U,,ARG,25.0020533881,200331,,,Leonardo Aboian,U,,ARG,21.4072553046,6-7(6) 7-6(4) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,600,39,1104,7
-2019-M-ITF-ARG-22A-2019,M15 Buenos Aires,Clay,32,S,20190916,11,133471,,,Alejo Vilaro,U,,ARG,23.9726214921,208913,,JR   ,Juan Bautista Torres,U,,ARG,,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1155,6,,
+2019-M-ITF-ARG-22A-2019,M15 Buenos Aires,Clay,32,S,20190916,11,133471,,,Alejo Vilaro,U,,ARG,23.9726214921,208913,,JR   ,Juan Bautista Torres,U,,ARG,17.4565366188,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1155,6,,
 2019-M-ITF-ARG-22A-2019,M15 Buenos Aires,Clay,32,S,20190916,12,109334,4,,Bastian Malla,U,,CHI,22.9815195072,208078,,,Tomas Farjat,U,,ARG,18.5817932923,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,434,77,1015,9
 2019-M-ITF-ARG-22A-2019,M15 Buenos Aires,Clay,32,S,20190916,13,207680,,,Facundo Diaz Acosta,U,,ARG,18.7515400411,200332,,WC,Felipe Martinez Sarrasague,U,,ARG,22.4558521561,4-6 6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,545,47,,
 2019-M-ITF-ARG-22A-2019,M15 Buenos Aires,Clay,32,S,20190916,14,209254,,,Valerio Aboian,U,,ARG,,144973,,,Santiago Fa Rodriguez Taverna,R,,ARG,20.1697467488,3-6 6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,606,38
@@ -14780,7 +14780,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-TUN-50A-2019,M15 Monastir,Hard,32,S,20191125,31,144826,,,Aziz Dougaz,U,,TUN,22.6666666667,105596,,,Jan Satral,R,,CZE,29.3388090349,6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,442,72,431,76
 2019-M-ITF-CHI-01A-2019,M15 Santiago,Clay,32,S,20190930,1,105338,,,Maximiliano Estevez,L,,ARG,30.3682409309,209290,,WC,Carlos Alonso Gallardo Olivares,U,,CHI,,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,474,64,,
 2019-M-ITF-CHI-01A-2019,M15 Santiago,Clay,32,S,20190930,2,200434,,Q,Santiago Besada,U,,ARG,21.4839151266,144986,,,Agustin Riquelme,R,,ARG,19.4770704997,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1493,2,1602,2
-2019-M-ITF-CHI-01A-2019,M15 Santiago,Clay,32,S,20190930,3,208913,,,Juan Bautista Torres,U,,ARG,,200426,,Q,Felipe Derdoy,U,,ARG,22.636550308,6-0 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,1395,3
+2019-M-ITF-CHI-01A-2019,M15 Santiago,Clay,32,S,20190930,3,208913,,,Juan Bautista Torres,U,,ARG,17.4948665298,200426,,Q,Felipe Derdoy,U,,ARG,22.636550308,6-0 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,1395,3
 2019-M-ITF-CHI-01A-2019,M15 Santiago,Clay,32,S,20190930,4,122538,6,,Nicolas Alberto Arreche,U,,ARG,25.0403832991,208411,,,Daniel Antonio Nunez,U,,CHI,18.3271731691,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,594,40,1244,4
 2019-M-ITF-CHI-01A-2019,M15 Santiago,Clay,32,S,20190930,5,207678,,,Juan Manuel Cerundolo,U,,ARG,17.8726899384,105607,,,Gabriel Alejandro Hidalgo,R,,ARG,29.1498973306,7-6(5) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,553,46,783,19
 2019-M-ITF-CHI-01A-2019,M15 Santiago,Clay,32,S,20190930,6,105700,,,Jose Pereira,R,,BRA,28.6762491444,133475,,Q,Federico Moreno,U,,ARG,25.1526351814,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,857,15,1225,5
@@ -14795,14 +14795,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-CHI-01A-2019,M15 Santiago,Clay,32,S,20190930,15,206805,,Q,Luciano Carraro,U,,ARG,21.440109514,209291,,,Ivan Rodrigo Gonzalez Huerta,U,,CHI,,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1862,1,,
 2019-M-ITF-CHI-01A-2019,M15 Santiago,Clay,32,S,20190930,16,202104,2,,Sebastian Baez,R,,ARG,18.7542778919,208882,,,Roman Andres Burruchaga,U,,ARG,17.6837782341,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,527,51,1862,1
 2019-M-ITF-CHI-01A-2019,M15 Santiago,Clay,32,S,20190930,17,105338,,,Maximiliano Estevez,L,,ARG,30.3682409309,200434,,Q,Santiago Besada,U,,ARG,21.4839151266,6-2 6-7(6) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,474,64,1493,2
-2019-M-ITF-CHI-01A-2019,M15 Santiago,Clay,32,S,20190930,18,208913,,,Juan Bautista Torres,U,,ARG,,122538,6,,Nicolas Alberto Arreche,U,,ARG,25.0403832991,7-6(7) 2-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,594,40
+2019-M-ITF-CHI-01A-2019,M15 Santiago,Clay,32,S,20190930,18,208913,,,Juan Bautista Torres,U,,ARG,17.4948665298,122538,6,,Nicolas Alberto Arreche,U,,ARG,25.0403832991,7-6(7) 2-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,594,40
 2019-M-ITF-CHI-01A-2019,M15 Santiago,Clay,32,S,20190930,19,207678,,,Juan Manuel Cerundolo,U,,ARG,17.8726899384,105700,,,Jose Pereira,R,,BRA,28.6762491444,4-6 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,553,46,857,15
 2019-M-ITF-CHI-01A-2019,M15 Santiago,Clay,32,S,20190930,20,144973,7,,Santiago Fa Rodriguez Taverna,R,,ARG,20.2080766598,202220,,,Nicolas Bruna,U,,CHI,20.6954140999,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,616,36,,
 2019-M-ITF-CHI-01A-2019,M15 Santiago,Clay,32,S,20190930,21,207736,,,Arklon Huertas Del Pino,U,,PER,25.2073921971,200331,,,Leonardo Aboian,U,,ARG,21.4455852156,6-7(5) 6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,556,46,1170,6
 2019-M-ITF-CHI-01A-2019,M15 Santiago,Clay,32,S,20190930,22,208262,,,Alejo Lorenzo Lingua Lavallen,L,,ARG,18.559890486,207680,3,,Facundo Diaz Acosta,U,,ARG,18.7898699521,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1948,1,508,56
 2019-M-ITF-CHI-01A-2019,M15 Santiago,Clay,32,S,20190930,23,202058,,,Thiago Agustin Tirante,R,,ARG,18.4722792608,207815,,,Guido Ivan Justo,U,,ARG,21.7850787132,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,721,25,748,23
 2019-M-ITF-CHI-01A-2019,M15 Santiago,Clay,32,S,20190930,24,202104,2,,Sebastian Baez,R,,ARG,18.7542778919,206805,,Q,Luciano Carraro,U,,ARG,21.440109514,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,527,51,1862,1
-2019-M-ITF-CHI-01A-2019,M15 Santiago,Clay,32,S,20190930,25,105338,,,Maximiliano Estevez,L,,ARG,30.3682409309,208913,,,Juan Bautista Torres,U,,ARG,,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,474,64,,
+2019-M-ITF-CHI-01A-2019,M15 Santiago,Clay,32,S,20190930,25,105338,,,Maximiliano Estevez,L,,ARG,30.3682409309,208913,,,Juan Bautista Torres,U,,ARG,17.4948665298,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,474,64,,
 2019-M-ITF-CHI-01A-2019,M15 Santiago,Clay,32,S,20190930,26,207678,,,Juan Manuel Cerundolo,U,,ARG,17.8726899384,144973,7,,Santiago Fa Rodriguez Taverna,R,,ARG,20.2080766598,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,553,46,616,36
 2019-M-ITF-CHI-01A-2019,M15 Santiago,Clay,32,S,20190930,27,208262,,,Alejo Lorenzo Lingua Lavallen,L,,ARG,18.559890486,207736,,,Arklon Huertas Del Pino,U,,PER,25.2073921971,7-5 7-5,3,QF,,,,,,,,,,,,,,,,,,,,1948,1,556,46
 2019-M-ITF-CHI-01A-2019,M15 Santiago,Clay,32,S,20190930,28,202104,2,,Sebastian Baez,R,,ARG,18.7542778919,202058,,,Thiago Agustin Tirante,R,,ARG,18.4722792608,6-4 3-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,527,51,721,25
@@ -15748,7 +15748,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-ARG-23A-2019,M15 Junin,Clay,32,S,20191021,8,144973,5,,Santiago Fa Rodriguez Taverna,R,,ARG,20.2655715264,206498,,,Francisco Aranguren,U,,ARG,20.848733744,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,597,38,,
 2019-M-ITF-ARG-23A-2019,M15 Junin,Clay,32,S,20191021,9,105607,,,Gabriel Alejandro Hidalgo,R,,ARG,29.2073921971,209125,,Q,Gaston Erhardt,U,,ARG,,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,790,19,1856,1
 2019-M-ITF-ARG-23A-2019,M15 Junin,Clay,32,S,20191021,10,144986,,,Agustin Riquelme,R,,ARG,19.5345653662,208532,,WC,Thiago Cigarran,U,,ARG,19.5701574264,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1605,2,,
-2019-M-ITF-ARG-23A-2019,M15 Junin,Clay,32,S,20191021,11,208913,,JR   ,Juan Bautista Torres,U,,ARG,,207929,,,Marco Saffratti,U,,ARG,20.1122518823,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1466,2,1298,4
+2019-M-ITF-ARG-23A-2019,M15 Junin,Clay,32,S,20191021,11,208913,,JR   ,Juan Bautista Torres,U,,ARG,17.5523613963,207929,,,Marco Saffratti,U,,ARG,20.1122518823,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1466,2,1298,4
 2019-M-ITF-ARG-23A-2019,M15 Junin,Clay,32,S,20191021,12,207678,3,,Juan Manuel Cerundolo,U,,ARG,17.9301848049,209330,,,Bautista Vilicich,U,,ARG,,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,514,56,,
 2019-M-ITF-ARG-23A-2019,M15 Junin,Clay,32,S,20191021,13,122571,,,Franco Emanuel Egea,U,,ARG,23.8028747433,207659,,,Aaron Schmid,U,,SUI,19.0910335387,6-4 4-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,794,19,895,14
 2019-M-ITF-ARG-23A-2019,M15 Junin,Clay,32,S,20191021,14,122257,,Q,Esteban Bruna,U,,CHI,24.7529089665,206731,,,Alan Postay,R,,ARG,22.9130732375,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1594,2,1902,1
@@ -15759,7 +15759,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-ARG-23A-2019,M15 Junin,Clay,32,S,20191021,19,111508,,,Juan Ignacio Galarza,R,,ARG,25.5934291581,207757,,,Santiago Bramajo,U,,ARG,18.9514031485,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,531,51,1607,1
 2019-M-ITF-ARG-23A-2019,M15 Junin,Clay,32,S,20191021,20,133471,,,Alejo Vilaro,U,,ARG,24.0684462697,144973,5,,Santiago Fa Rodriguez Taverna,R,,ARG,20.2655715264,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1101,7,597,38
 2019-M-ITF-ARG-23A-2019,M15 Junin,Clay,32,S,20191021,21,105607,,,Gabriel Alejandro Hidalgo,R,,ARG,29.2073921971,144986,,,Agustin Riquelme,R,,ARG,19.5345653662,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,790,19,1605,2
-2019-M-ITF-ARG-23A-2019,M15 Junin,Clay,32,S,20191021,22,207678,3,,Juan Manuel Cerundolo,U,,ARG,17.9301848049,208913,,JR   ,Juan Bautista Torres,U,,ARG,,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,514,56,1466,2
+2019-M-ITF-ARG-23A-2019,M15 Junin,Clay,32,S,20191021,22,207678,3,,Juan Manuel Cerundolo,U,,ARG,17.9301848049,208913,,JR   ,Juan Bautista Torres,U,,ARG,17.5523613963,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,514,56,1466,2
 2019-M-ITF-ARG-23A-2019,M15 Junin,Clay,32,S,20191021,23,122571,,,Franco Emanuel Egea,U,,ARG,23.8028747433,122257,,Q,Esteban Bruna,U,,CHI,24.7529089665,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,794,19,1594,2
 2019-M-ITF-ARG-23A-2019,M15 Junin,Clay,32,S,20191021,24,144821,2,,Genaro Alberto Olivieri,U,,ARG,21.2128678987,207441,,Q,Facundo Arias Bisso,U,,ARG,21.0568104038,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,479,64,,
 2019-M-ITF-ARG-23A-2019,M15 Junin,Clay,32,S,20191021,25,106292,,,Hernan Casanova,U,,ARG,25.7029431896,207815,6,,Guido Ivan Justo,U,,ARG,21.8425735797,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,393,95,772,21
@@ -15845,7 +15845,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-MEX-28A-2019,M15 Cancun,Hard,31,S,20191104,12,111436,4,,Nick Chappell,L,,USA,27.1238877481,107296,,,Javier Gonzalez,R,,MEX,,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,571,42,,
 2019-M-ITF-MEX-28A-2019,M15 Cancun,Hard,31,S,20191104,13,206307,,,Joao Lucas Reis Da Silva,R,,BRA,19.6084873374,207799,,,Matheus Pucinelli De Almeida,U,,BRA,18.5927446954,1-6 6-4 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,607,37,972,10
 2019-M-ITF-MEX-28A-2019,M15 Cancun,Hard,31,S,20191104,14,208411,,,Daniel Antonio Nunez,U,,CHI,18.4229979466,202348,,,Karlo Cubelic,U,,GER,21.8069815195,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1263,4,1119,7
-2019-M-ITF-MEX-28A-2019,M15 Cancun,Hard,31,S,20191104,15,127123,,,Mateus Alves,U,,BRA,,110773,,,Issei Okamura,U,,JPN,27.4414784394,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,960,11
+2019-M-ITF-MEX-28A-2019,M15 Cancun,Hard,31,S,20191104,15,127123,,,Mateus Alves,R,,BRA,18.7789185489,110773,,,Issei Okamura,U,,JPN,27.4414784394,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,960,11
 2019-M-ITF-MEX-28A-2019,M15 Cancun,Hard,31,S,20191104,16,126204,2,,Gerardo Lopez Villasenor,U,,MEX,24.4818617385,126715,,,Fernando Yamacita,U,,BRA,22.0917180014,1-6 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,544,48,1286,4
 2019-M-ITF-MEX-28A-2019,M15 Cancun,Hard,31,S,20191104,17,106410,,,Jorge Brian Panta Herreros,U,,PER,24.2874743326,134318,,,Cameron Green,U,,AUS,23.5345653662,3-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,522,55,958,11
 2019-M-ITF-MEX-28A-2019,M15 Cancun,Hard,31,S,20191104,18,206703,7,,Paul Jubb,R,,GBR,20.0109514031,202353,,,Will Maher,U,,AUS,20.1341546886,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,610,36,1031,8
@@ -15854,7 +15854,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-MEX-28A-2019,M15 Cancun,Hard,31,S,20191104,21,208527,,JR   ,Zane Khan,U,,USA,17.7275838467,200255,,,Alexander Weis,U,,ITA,22.5297741273,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1279,4,627,35
 2019-M-ITF-MEX-28A-2019,M15 Cancun,Hard,31,S,20191104,22,111436,4,,Nick Chappell,L,,USA,27.1238877481,134217,,Q,Skyler Butts,U,,HKG,26.1273100616,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,571,42,1235,5
 2019-M-ITF-MEX-28A-2019,M15 Cancun,Hard,31,S,20191104,23,206307,,,Joao Lucas Reis Da Silva,R,,BRA,19.6084873374,208411,,,Daniel Antonio Nunez,U,,CHI,18.4229979466,7-6(4) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,607,37,1263,4
-2019-M-ITF-MEX-28A-2019,M15 Cancun,Hard,31,S,20191104,24,126204,2,,Gerardo Lopez Villasenor,U,,MEX,24.4818617385,127123,,,Mateus Alves,U,,BRA,,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,544,48,,
+2019-M-ITF-MEX-28A-2019,M15 Cancun,Hard,31,S,20191104,24,126204,2,,Gerardo Lopez Villasenor,U,,MEX,24.4818617385,127123,,,Mateus Alves,R,,BRA,18.7789185489,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,544,48,,
 2019-M-ITF-MEX-28A-2019,M15 Cancun,Hard,31,S,20191104,25,206703,7,,Paul Jubb,R,,GBR,20.0109514031,106410,,,Jorge Brian Panta Herreros,U,,PER,24.2874743326,6-1 7-6(3),3,QF,,,,,,,,,,,,,,,,,,,,610,36,522,55
 2019-M-ITF-MEX-28A-2019,M15 Cancun,Hard,31,S,20191104,26,124040,5,,Colin Sinclair,U,,AUS,24.8761122519,105853,,,Tigre Hank,U,,MEX,28.0958247775,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,597,39,874,14
 2019-M-ITF-MEX-28A-2019,M15 Cancun,Hard,31,S,20191104,27,111436,4,,Nick Chappell,L,,USA,27.1238877481,208527,,JR   ,Zane Khan,U,,USA,17.7275838467,4-6 7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,571,42,1279,4
@@ -15872,7 +15872,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-MEX-29A-2019,M15 Cancun,Hard,32,S,20191111,9,206307,,,Joao Lucas Reis Da Silva,R,,BRA,19.627652293,134318,,Q,Cameron Green,U,,AUS,23.5537303217,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,647,33,951,11
 2019-M-ITF-MEX-29A-2019,M15 Cancun,Hard,32,S,20191111,10,208485,,,Kiranpal Pannu,R,,NZL,22.841889117,202378,,,Ignacio Carou,U,,ARG,20.334017796,6-2 4-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1793,1,866,15
 2019-M-ITF-MEX-29A-2019,M15 Cancun,Hard,32,S,20191111,11,202348,,,Karlo Cubelic,U,,GER,21.826146475,207506,,Q,Gabriel Ciro Da Silva,U,,BRA,20.2710472279,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1116,7,1165,6
-2019-M-ITF-MEX-29A-2019,M15 Cancun,Hard,32,S,20191111,12,207736,4,,Arklon Huertas Del Pino,U,,PER,25.3223819302,127123,,,Mateus Alves,U,,BRA,,1-6 7-6(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,566,43,,
+2019-M-ITF-MEX-29A-2019,M15 Cancun,Hard,32,S,20191111,12,207736,4,,Arklon Huertas Del Pino,U,,PER,25.3223819302,127123,,,Mateus Alves,R,,BRA,18.7980835044,1-6 7-6(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,566,43,,
 2019-M-ITF-MEX-29A-2019,M15 Cancun,Hard,32,S,20191111,13,105853,,WC,Tigre Hank,U,,MEX,28.1149897331,106164,,,Tomas Lipovsek Puches,U,,ARG,26.5681040383,6-3 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,869,14,586,40
 2019-M-ITF-MEX-29A-2019,M15 Cancun,Hard,32,S,20191111,14,201995,,,Cayetano March,U,,ECU,19.356605065,207834,,,Juan Alejandro Hernandez Serrano,R,,MEX,20.386036961,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,749,23,889,14
 2019-M-ITF-MEX-29A-2019,M15 Cancun,Hard,32,S,20191111,15,106250,,,Luis Patino,R,,MEX,26.0971937029,200255,,,Alexander Weis,U,,ITA,22.5489390828,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,987,10,624,35
@@ -15906,7 +15906,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-MEX-30A-2019,M15 Cancun,Hard,32,S,20191118,12,111569,4,,Gage Brymer,U,,USA,24.7775496235,133450,,,David Volfson,R,,CAN,22.1765913758,3-6 7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,504,57,1010,9
 2019-M-ITF-MEX-30A-2019,M15 Cancun,Hard,32,S,20191118,13,207736,,,Arklon Huertas Del Pino,U,,PER,25.3415468857,202378,,,Ignacio Carou,U,,ARG,20.3531827515,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,566,43,887,14
 2019-M-ITF-MEX-30A-2019,M15 Cancun,Hard,32,S,20191118,14,208527,,JR   ,Zane Khan,U,,USA,17.7659137577,126528,,,Julian Bradley,U,,IRL,27.3401779603,6-4 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1156,6,928,12
-2019-M-ITF-MEX-30A-2019,M15 Cancun,Hard,32,S,20191118,15,127123,,,Mateus Alves,U,,BRA,,106250,,Q,Luis Patino,R,,MEX,26.1163586585,7-6(0) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,986,10
+2019-M-ITF-MEX-30A-2019,M15 Cancun,Hard,32,S,20191118,15,127123,,,Mateus Alves,R,,BRA,18.81724846,106250,,Q,Luis Patino,R,,MEX,26.1163586585,7-6(0) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,986,10
 2019-M-ITF-MEX-30A-2019,M15 Cancun,Hard,32,S,20191118,16,105897,2,,Alexander Zhurbin,U,,RUS,27.8439425051,207506,,,Gabriel Ciro Da Silva,U,,BRA,20.2902121834,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,488,62,1230,5
 2019-M-ITF-MEX-30A-2019,M15 Cancun,Hard,32,S,20191118,17,202262,,,Filip Cristian Jianu,U,,ROU,18.1656399726,138485,,,Conner Huertas Del Pino,U,,PER,23.9123887748,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,432,78,725,26
 2019-M-ITF-MEX-30A-2019,M15 Cancun,Hard,32,S,20191118,18,111436,8,,Nick Chappell,L,,USA,27.1622176591,208411,,Q,Daniel Antonio Nunez,U,,CHI,18.4613278576,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,540,49,1200,5
@@ -15915,14 +15915,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-MEX-30A-2019,M15 Cancun,Hard,32,S,20191118,21,207799,,JR   ,Matheus Pucinelli De Almeida,U,,BRA,18.6310746064,132052,,,Christian Langmo,U,,USA,23.4633812457,6-3 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,1036,8,581,41
 2019-M-ITF-MEX-30A-2019,M15 Cancun,Hard,32,S,20191118,22,111569,4,,Gage Brymer,U,,USA,24.7775496235,202348,,,Karlo Cubelic,U,,GER,21.8453114305,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,504,57,1115,7
 2019-M-ITF-MEX-30A-2019,M15 Cancun,Hard,32,S,20191118,23,208527,,JR   ,Zane Khan,U,,USA,17.7659137577,207736,,,Arklon Huertas Del Pino,U,,PER,25.3415468857,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1156,6,566,43
-2019-M-ITF-MEX-30A-2019,M15 Cancun,Hard,32,S,20191118,24,127123,,,Mateus Alves,U,,BRA,,105897,2,,Alexander Zhurbin,U,,RUS,27.8439425051,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,488,62
+2019-M-ITF-MEX-30A-2019,M15 Cancun,Hard,32,S,20191118,24,127123,,,Mateus Alves,R,,BRA,18.81724846,105897,2,,Alexander Zhurbin,U,,RUS,27.8439425051,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,488,62
 2019-M-ITF-MEX-30A-2019,M15 Cancun,Hard,32,S,20191118,25,111436,8,,Nick Chappell,L,,USA,27.1622176591,202262,,,Filip Cristian Jianu,U,,ROU,18.1656399726,4-6 4-2 RET,3,QF,,,,,,,,,,,,,,,,,,,,540,49,432,78
 2019-M-ITF-MEX-30A-2019,M15 Cancun,Hard,32,S,20191118,26,126204,6,,Gerardo Lopez Villasenor,U,,MEX,24.5201916496,106360,,,Connor Farren,R,,USA,25.1252566735,6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,535,50,707,27
 2019-M-ITF-MEX-30A-2019,M15 Cancun,Hard,32,S,20191118,27,207799,,JR   ,Matheus Pucinelli De Almeida,U,,BRA,18.6310746064,111569,4,,Gage Brymer,U,,USA,24.7775496235,6-4 7-6(1),3,QF,,,,,,,,,,,,,,,,,,,,1036,8,504,57
-2019-M-ITF-MEX-30A-2019,M15 Cancun,Hard,32,S,20191118,28,127123,,,Mateus Alves,U,,BRA,,208527,,JR   ,Zane Khan,U,,USA,17.7659137577,6-2 7-6(6),3,QF,,,,,,,,,,,,,,,,,,,,,,1156,6
+2019-M-ITF-MEX-30A-2019,M15 Cancun,Hard,32,S,20191118,28,127123,,,Mateus Alves,R,,BRA,18.81724846,208527,,JR   ,Zane Khan,U,,USA,17.7659137577,6-2 7-6(6),3,QF,,,,,,,,,,,,,,,,,,,,,,1156,6
 2019-M-ITF-MEX-30A-2019,M15 Cancun,Hard,32,S,20191118,29,111436,8,,Nick Chappell,L,,USA,27.1622176591,126204,6,,Gerardo Lopez Villasenor,U,,MEX,24.5201916496,5-7 6-4 6-1,3,SF,,,,,,,,,,,,,,,,,,,,540,49,535,50
-2019-M-ITF-MEX-30A-2019,M15 Cancun,Hard,32,S,20191118,30,127123,,,Mateus Alves,U,,BRA,,207799,,JR   ,Matheus Pucinelli De Almeida,U,,BRA,18.6310746064,6-4 7-5,3,SF,,,,,,,,,,,,,,,,,,,,,,1036,8
-2019-M-ITF-MEX-30A-2019,M15 Cancun,Hard,32,S,20191118,31,127123,,,Mateus Alves,U,,BRA,,111436,8,,Nick Chappell,L,,USA,27.1622176591,2-6 6-1 6-4,3,F,,,,,,,,,,,,,,,,,,,,,,540,49
+2019-M-ITF-MEX-30A-2019,M15 Cancun,Hard,32,S,20191118,30,127123,,,Mateus Alves,R,,BRA,18.81724846,207799,,JR   ,Matheus Pucinelli De Almeida,U,,BRA,18.6310746064,6-4 7-5,3,SF,,,,,,,,,,,,,,,,,,,,,,1036,8
+2019-M-ITF-MEX-30A-2019,M15 Cancun,Hard,32,S,20191118,31,127123,,,Mateus Alves,R,,BRA,18.81724846,111436,8,,Nick Chappell,L,,USA,27.1622176591,2-6 6-1 6-4,3,F,,,,,,,,,,,,,,,,,,,,,,540,49
 2019-M-ITF-URU-01A-2019,M15 Maldonado,Clay,32,S,20191125,1,208532,,Q,Thiago Cigarran,U,,ARG,19.665982204,106292,,,Hernan Casanova,U,,ARG,25.7987679671,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,381,99
 2019-M-ITF-URU-01A-2019,M15 Maldonado,Clay,32,S,20191125,2,200434,,,Santiago Besada,U,,ARG,21.6372347707,208350,,,Gian Matias Di Natale,U,,ARG,22.0698151951,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1459,2,,
 2019-M-ITF-URU-01A-2019,M15 Maldonado,Clay,32,S,20191125,3,209330,,Q,Bautista Vilicich,U,,ARG,,129811,,,Oleg Khotkov,U,,UKR,29.7084188912,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1065,8
