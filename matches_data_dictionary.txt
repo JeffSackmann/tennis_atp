@@ -29,6 +29,7 @@ winner_entry
 
 winner_name
 winner_hand
+- R = right, L = left, U = unknown. For ambidextrous players, this is their serving hand.
 winner_ht
 - height in centimeters, where available
 
