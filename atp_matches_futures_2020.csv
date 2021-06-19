@@ -175,7 +175,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-M-ITF-CZE-06A-2020,M25 Prague,Clay,32,25,20200914,102,105872,,,Christian Lindell,R,,SWE,28.8186173854,105596,,,Jan Satral,R,,CZE,30.1437371663,3-6 7-6(1) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,332,121,367,105
 2020-M-ITF-CZE-06A-2020,M25 Prague,Clay,32,25,20200914,103,105181,,Q,Miljan Zekic,R,,SRB,32.1752224504,109318,,Q,Pawel Cias,R,,POL,26.559890486,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,514,59,850,16
 2020-M-ITF-CZE-06A-2020,M25 Prague,Clay,32,25,20200914,104,105590,,,Uladzimir Ignatik,R,,BLR,30.1711156742,127760,8,,Lukas Klein,R,,SVK,22.4832306639,6-3 6-7(2) 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,376,103,313,135
-2020-M-ITF-CZE-06A-2020,M25 Prague,Clay,32,25,20200914,105,209182,,WC,Toby Alex Kodat,R,,USA,,124154,3,,Sasi Kumar Mukund,R,,IND,23.665982204,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,286,157
+2020-M-ITF-CZE-06A-2020,M25 Prague,Clay,32,25,20200914,105,209182,,WC,Toby Alex Kodat,R,178,USA,17.6700889802,124154,3,,Sasi Kumar Mukund,R,,IND,23.665982204,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,286,157
 2020-M-ITF-CZE-06A-2020,M25 Prague,Clay,32,25,20200914,106,208103,,WC,Jiri Lehecka,R,,CZE,18.8501026694,202227,,Q,Petr Nouza,U,,CZE,22.0150581793,6-3 6-7(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,403,91,605,39
 2020-M-ITF-CZE-06A-2020,M25 Prague,Clay,32,25,20200914,107,134792,,,Jules Okala,U,,FRA,23.0746064339,200108,,WC,Matej Vocel,U,,CZE,23.3210130048,6-4 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,349,113,1143,6
 2020-M-ITF-CZE-06A-2020,M25 Prague,Clay,32,25,20200914,108,111192,5,,Lucas Miedler,R,,AUT,24.2327173169,200075,,Q,Yshai Oliel,L,,ISR,20.6926762491,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,293,149,406,91
@@ -189,7 +189,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-M-ITF-CZE-06A-2020,M25 Prague,Clay,32,25,20200914,116,106377,,Q,Robin Stanek,L,,CZE,25.697467488,123819,2,,Goncalo Oliveira,L,,POR,25.5742642026,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,645,33,276,169
 2020-M-ITF-CZE-06A-2020,M25 Prague,Clay,32,25,20200914,201,105872,,,Christian Lindell,R,,SWE,28.8186173854,207830,1,,Tomas Machac,R,,CZE,19.9206023272,W/O,3,R16,,,,,,,,,,,,,,,,,,,,332,121,251,204
 2020-M-ITF-CZE-06A-2020,M25 Prague,Clay,32,25,20200914,202,105181,,Q,Miljan Zekic,R,,SRB,32.1752224504,105590,,,Uladzimir Ignatik,R,,BLR,30.1711156742,6-7(5) 6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,514,59,376,103
-2020-M-ITF-CZE-06A-2020,M25 Prague,Clay,32,25,20200914,203,208103,,WC,Jiri Lehecka,R,,CZE,18.8501026694,209182,,WC,Toby Alex Kodat,R,,USA,,6-3 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,403,91,,
+2020-M-ITF-CZE-06A-2020,M25 Prague,Clay,32,25,20200914,203,208103,,WC,Jiri Lehecka,R,,CZE,18.8501026694,209182,,WC,Toby Alex Kodat,R,178,USA,17.6700889802,6-3 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,403,91,,
 2020-M-ITF-CZE-06A-2020,M25 Prague,Clay,32,25,20200914,204,111192,5,,Lucas Miedler,R,,AUT,24.2327173169,134792,,,Jules Okala,U,,FRA,23.0746064339,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,293,149,349,113
 2020-M-ITF-CZE-06A-2020,M25 Prague,Clay,32,25,20200914,205,202104,,,Sebastian Baez,R,,ARG,19.7125256674,126646,,,Tim Van Rijthoven,R,,NED,23.3921971253,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,360,109,339,118
 2020-M-ITF-CZE-06A-2020,M25 Prague,Clay,32,25,20200914,206,106398,,,Pedro Cachin,R,,ARG,25.4264202601,200240,,,Vit Kopriva,U,,CZE,23.2498288843,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,379,101,320,131
@@ -216,7 +216,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-M-ITF-CZE-07A-2020,M25 Jablonec Nad Nisou,Clay,32,25,20200921,112,127760,3,,Lukas Klein,R,,SVK,22.5023956194,122678,,Q,Matic Spec,U,,SLO,25.568788501,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,311,135,991,10
 2020-M-ITF-CZE-07A-2020,M25 Jablonec Nad Nisou,Clay,32,25,20200921,113,202104,7,,Sebastian Baez,R,,ARG,19.7316906229,209322,,WC,Martin Krumich,U,,CZE,,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,360,109,1092,7
 2020-M-ITF-CZE-07A-2020,M25 Jablonec Nad Nisou,Clay,32,25,20200921,114,207494,,WC,Dalibor Svrcina,R,,CZE,17.9712525667,207681,,Q,Francisco Comesana,R,,ARG,19.9589322382,7-6(5) 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,854,16,717,26
-2020-M-ITF-CZE-07A-2020,M25 Jablonec Nad Nisou,Clay,32,25,20200921,115,109318,,Q,Pawel Cias,R,,POL,26.5790554415,209182,,JE,Toby Alex Kodat,R,,USA,,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,849,16,,
+2020-M-ITF-CZE-07A-2020,M25 Jablonec Nad Nisou,Clay,32,25,20200921,115,109318,,Q,Pawel Cias,R,,POL,26.5790554415,209182,,JE,Toby Alex Kodat,R,178,USA,17.6892539357,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,849,16,,
 2020-M-ITF-CZE-07A-2020,M25 Jablonec Nad Nisou,Clay,32,25,20200921,116,200116,,,Camilo Ugo Carabelli,R,,ARG,21.2648870637,200266,2,,Javier Barranco Cosano,U,,ESP,21.8453114305,2-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,377,102,305,140
 2020-M-ITF-CZE-07A-2020,M25 Jablonec Nad Nisou,Clay,32,25,20200921,201,105899,,Q,Martin Cuevas,R,,URU,28.6872005476,207411,,,Jesper De Jong,R,,NED,20.3093771389,6-4 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,500,61,374,102
 2020-M-ITF-CZE-07A-2020,M25 Jablonec Nad Nisou,Clay,32,25,20200921,202,106420,,,Gianluigi Quinzi,L,,ITA,24.6379192334,105872,6,,Christian Lindell,R,,SWE,28.8377823409,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,435,80,334,121
@@ -239,7 +239,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-M-ITF-CZE-08A-2020,M25 Pardubice,Clay,32,25,20200928,104,144946,,,Rayane Roumane,R,,FRA,20.0465434634,105436,6,,Markus Eriksson,R,,SWE,30.8309377139,7-5 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,368,107,326,129
 2020-M-ITF-CZE-08A-2020,M25 Pardubice,Clay,32,25,20200928,105,127760,4,,Lukas Klein,R,,SVK,22.5215605749,208343,,WC,Andrew Paulson,U,,CZE,18.8665297741,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,317,135,752,23
 2020-M-ITF-CZE-08A-2020,M25 Pardubice,Clay,32,25,20200928,106,126340,,,Viktor Durasovic,U,,NOR,23.5290896646,105872,,,Christian Lindell,R,,SWE,28.8569472964,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,345,119,331,126
-2020-M-ITF-CZE-08A-2020,M25 Pardubice,Clay,32,25,20200928,107,125847,,Q,Jelle Sels,U,,NED,25.1362080767,209182,,JE,Toby Alex Kodat,R,,USA,,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,356,112,,
+2020-M-ITF-CZE-08A-2020,M25 Pardubice,Clay,32,25,20200928,107,125847,,Q,Jelle Sels,U,,NED,25.1362080767,209182,,JE,Toby Alex Kodat,R,178,USA,17.7084188912,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,356,112,,
 2020-M-ITF-CZE-08A-2020,M25 Pardubice,Clay,32,25,20200928,108,202227,,WC,Petr Nouza,U,,CZE,22.0533880903,105963,7,,Arthur De Greef,R,,BEL,28.5065023956,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,610,39,327,128
 2020-M-ITF-CZE-08A-2020,M25 Pardubice,Clay,32,25,20200928,109,200240,5,,Vit Kopriva,U,,CZE,23.2881587953,126878,,Q,David Poljak,U,,CZE,24.3668720055,7-6(3) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,323,131,471,70
 2020-M-ITF-CZE-08A-2020,M25 Pardubice,Clay,32,25,20200928,110,207678,,,Juan Manuel Cerundolo,L,,ARG,18.8692676249,207663,,,Nikolas Sanchez Izquierdo,U,,ESP,21.5414099932,5-7 6-1 10-3,3,R32,,,,,,,,,,,,,,,,,,,,342,120,352,114
@@ -685,7 +685,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-M-ITF-EGY-27A-2020,M15 Sharm El Sheikh,Hard,32,15,20201019,401,133835,,,Gijs Brouwer,L,,NED,24.5995893224,132852,1,,Pablo Vivero Gonzalez,U,,ESP,25.4839151266,7-6(3) 6-2,3,SF,,,,,,,,,,,,,,,,,,,,499,64,374,105
 2020-M-ITF-EGY-27A-2020,M15 Sharm El Sheikh,Hard,32,15,20201019,402,200550,3,,Vladyslav Orlov,U,,UKR,25.4264202601,208278,,,Shintaro Mochizuki,R,,JPN,17.3826146475,5-7 6-1 6-2,3,SF,,,,,,,,,,,,,,,,,,,,417,88,710,27
 2020-M-ITF-EGY-27A-2020,M15 Sharm El Sheikh,Hard,32,15,20201019,501,133835,,,Gijs Brouwer,L,,NED,24.5995893224,200550,3,,Vladyslav Orlov,U,,UKR,25.4264202601,6-3 7-6(4),3,F,,,,,,,,,,,,,,,,,,,,499,64,417,88
-2020-M-ITF-EGY-28A-2020,M15 Sharm El Sheikh,Hard,32,15,20201026,101,105692,1,,Alessandro Bega,R,,ITA,29.7905544148,209920,,,Raphael Collignon,U,,BEL,,4-6 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,360,113,,
+2020-M-ITF-EGY-28A-2020,M15 Sharm El Sheikh,Hard,32,15,20201026,101,105692,1,,Alessandro Bega,R,,ITA,29.7905544148,209920,,,Raphael Collignon,U,,BEL,18.7843942505,4-6 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,360,113,,
 2020-M-ITF-EGY-28A-2020,M15 Sharm El Sheikh,Hard,32,15,20201026,102,209248,,WC,Amr Asrawy,U,,EGY,,209863,,WC,Leo Borg,U,,SWE,17.4510609172,4-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1611,2,,
 2020-M-ITF-EGY-28A-2020,M15 Sharm El Sheikh,Hard,32,15,20201026,103,105161,,Q,Yann Marti,R,173,SUI,32.386036961,132052,,,Christian Langmo,U,,USA,24.4024640657,6-1 1-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1503,2,583,45
 2020-M-ITF-EGY-28A-2020,M15 Sharm El Sheikh,Hard,32,15,20201026,104,111436,6,,Nick Chappell,L,,USA,28.1013004791,202242,,,Dusty H Boyer,U,,USA,27.318275154,6-4 6-7(3) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,433,84,590,44
@@ -718,7 +718,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-M-ITF-EGY-28A-2020,M15 Sharm El Sheikh,Hard,32,15,20201026,501,200228,,,Felix Corwin,U,,USA,24.4188911704,126878,,,David Poljak,U,,CZE,24.4435318275,4-6 6-2 7-6(4),3,F,,,,,,,,,,,,,,,,,,,,544,54,482,70
 2020-M-ITF-EGY-29A-2020,M15 Sharm El Sheikh,Hard,32,15,20201102,101,105692,1,,Alessandro Bega,R,,ITA,29.8097193703,106169,,,Vladyslav Manafov,U,,UKR,27.5318275154,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,360,113,533,57
 2020-M-ITF-EGY-29A-2020,M15 Sharm El Sheikh,Hard,32,15,20201102,102,202327,,,Marko Miladinovic,U,,SRB,19.9041752225,202420,,,Aidan Mchugh,U,,GBR,20.3175906913,2-6 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,485,69,553,52
-2020-M-ITF-EGY-29A-2020,M15 Sharm El Sheikh,Hard,32,15,20201102,103,208861,,Q,Keisuke Saitoh,L,,JPN,19.5126625599,209920,,Q,Raphael Collignon,U,,BEL,,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1163,6,,
+2020-M-ITF-EGY-29A-2020,M15 Sharm El Sheikh,Hard,32,15,20201102,103,208861,,Q,Keisuke Saitoh,L,,JPN,19.5126625599,209920,,Q,Raphael Collignon,U,,BEL,18.803559206,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1163,6,,
 2020-M-ITF-EGY-29A-2020,M15 Sharm El Sheikh,Hard,32,15,20201102,104,126878,8,,David Poljak,U,,CZE,24.462696783,122321,,Q,Marat Deviatiarov,R,,UKR,26.5407255305,7-5 6-7(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,483,70,636,36
 2020-M-ITF-EGY-29A-2020,M15 Sharm El Sheikh,Hard,32,15,20201102,105,200550,3,,Vladyslav Orlov,U,,UKR,25.4647501711,207764,,Q,Ryan Nijboer,U,,NED,21.2676249144,6-4 6-7(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,401,94,708,28
 2020-M-ITF-EGY-29A-2020,M15 Sharm El Sheikh,Hard,32,15,20201102,106,209882,,,Jeffrey Von Der Schulenburg,U,,SUI,,132712,,WC,Aleksei Khomich,U,,BLR,23.8110882957,3-6 7-6(6) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1144,6,1178,6
@@ -853,7 +853,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-M-ITF-EGY-33A-2020,M15 Cairo,Clay,32,15,20201130,111,123812,,,Jose Fco Vidal Azorin,U,,ESP,27.4688569473,133820,,WC,Ignacio Monzon,U,,ARG,22.9021218344,6-0 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,620,39,728,27
 2020-M-ITF-EGY-33A-2020,M15 Cairo,Clay,32,15,20201130,112,105060,4,,Aldin Setkic,R,193,BIH,32.9445585216,200125,,,Mykyta Mashtakov,R,,UKR,21.7056810404,4-6 6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,498,68,602,42
 2020-M-ITF-EGY-33A-2020,M15 Cairo,Clay,32,15,20201130,113,126627,6,,Johan Nikles,R,,SUI,23.6906228611,209514,,WC,Louis Allen,U,,GBR,,6-0 2-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,524,61,1793,1
-2020-M-ITF-EGY-33A-2020,M15 Cairo,Clay,32,15,20201130,114,209182,,,Toby Alex Kodat,R,,USA,,208573,,WC,Muthu Aadhitiya Senthilkumar,L,,IND,20.8788501027,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1285,4
+2020-M-ITF-EGY-33A-2020,M15 Cairo,Clay,32,15,20201130,114,209182,,,Toby Alex Kodat,R,178,USA,17.8809034908,208573,,WC,Muthu Aadhitiya Senthilkumar,L,,IND,20.8788501027,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1285,4
 2020-M-ITF-EGY-33A-2020,M15 Cairo,Clay,32,15,20201130,115,202277,,Q,Damien Wenger,U,,SUI,20.7063655031,200273,,Q,Hady Habib,,,LIB,22.2778918549,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,813,20,775,22
 2020-M-ITF-EGY-33A-2020,M15 Cairo,Clay,32,15,20201130,116,122058,2,,Fabrizio Ornago,U,,ITA,28.6023271732,111459,,,Arjun Kadhe,R,,IND,26.8966461328,2-6 7-6(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,422,90,656,34
 2020-M-ITF-EGY-33A-2020,M15 Cairo,Clay,32,15,20201130,201,105747,1,,Karim Mohamed Maamoun,R,,EGY,29.6454483231,208253,,SE,Niels Visker,U,,NED,19.1540041068,7-5 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,390,102,1269,4
@@ -862,7 +862,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-M-ITF-EGY-33A-2020,M15 Cairo,Clay,32,15,20201130,204,208913,,,Juan Bautista Torres,U,,ARG,18.6639288159,207546,7,,Pol Martin Tiffon,U,,ESP,21.3388090349,2-6 7-6(8) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1292,4,509,64
 2020-M-ITF-EGY-33A-2020,M15 Cairo,Clay,32,15,20201130,205,208071,8,,Oleksii Krutykh,R,,UKR,20.7255304586,202106,,Q,Juan Bautista Otegui,R,,ARG,21.7686516085,5-7 6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,564,51,822,19
 2020-M-ITF-EGY-33A-2020,M15 Cairo,Clay,32,15,20201130,206,123812,,,Jose Fco Vidal Azorin,U,,ESP,27.4688569473,105060,4,,Aldin Setkic,R,193,BIH,32.9445585216,6-7(4) 6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,620,39,498,68
-2020-M-ITF-EGY-33A-2020,M15 Cairo,Clay,32,15,20201130,207,126627,6,,Johan Nikles,R,,SUI,23.6906228611,209182,,,Toby Alex Kodat,R,,USA,,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,524,61,,
+2020-M-ITF-EGY-33A-2020,M15 Cairo,Clay,32,15,20201130,207,126627,6,,Johan Nikles,R,,SUI,23.6906228611,209182,,,Toby Alex Kodat,R,178,USA,17.8809034908,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,524,61,,
 2020-M-ITF-EGY-33A-2020,M15 Cairo,Clay,32,15,20201130,208,122058,2,,Fabrizio Ornago,U,,ITA,28.6023271732,202277,,Q,Damien Wenger,U,,SUI,20.7063655031,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,422,90,813,20
 2020-M-ITF-EGY-33A-2020,M15 Cairo,Clay,32,15,20201130,301,105534,,,Erik Crepaldi,L,,ITA,30.5763175907,105747,1,,Karim Mohamed Maamoun,R,,EGY,29.6454483231,7-6(8) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,581,47,390,102
 2020-M-ITF-EGY-33A-2020,M15 Cairo,Clay,32,15,20201130,302,202199,,Q,Carlos Sanchez Jover,R,,ESP,20.3613963039,208913,,,Juan Bautista Torres,U,,ARG,18.6639288159,6-4 2-1 RET,3,QF,,,,,,,,,,,,,,,,,,,,703,29,1292,4
@@ -880,7 +880,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-M-ITF-EGY-34A-2020,M15 Cairo,Clay,32,15,20201207,107,208913,,,Juan Bautista Torres,U,,ARG,18.6830937714,111459,,,Arjun Kadhe,R,,IND,26.9158110883,6-2 2-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,1299,4,657,34
 2020-M-ITF-EGY-34A-2020,M15 Cairo,Clay,32,15,20201207,108,207704,,Q,Alex Marti Pujolras,U,,ESP,21.8234086242,202275,7,,Fermin Tenti,U,,ARG,23.4825462012,6-4 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,925,14,572,49
 2020-M-ITF-EGY-34A-2020,M15 Cairo,Clay,32,15,20201207,109,207546,5,,Pol Martin Tiffon,U,,ESP,21.3579739904,202277,,Q,Damien Wenger,U,,SUI,20.7255304586,7-6(6) 0-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,508,65,802,21
-2020-M-ITF-EGY-34A-2020,M15 Cairo,Clay,32,15,20201207,110,209182,,,Toby Alex Kodat,R,,USA,,202106,,Q,Juan Bautista Otegui,R,,ARG,21.787816564,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,795,21
+2020-M-ITF-EGY-34A-2020,M15 Cairo,Clay,32,15,20201207,110,209182,,,Toby Alex Kodat,R,178,USA,17.9000684463,202106,,Q,Juan Bautista Otegui,R,,ARG,21.787816564,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,795,21
 2020-M-ITF-EGY-34A-2020,M15 Cairo,Clay,32,15,20201207,111,200125,,,Mykyta Mashtakov,R,,UKR,21.7248459959,200474,,Q,Ivan Denisov,U,,RUS,20.501026694,6-4 1-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,604,42,,
 2020-M-ITF-EGY-34A-2020,M15 Cairo,Clay,32,15,20201207,112,105060,4,,Aldin Setkic,R,193,BIH,32.9637234771,104789,,WC,Sherif Sabry,U,,EGY,34.2751540041,6-7(4) 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,498,69,1797,1
 2020-M-ITF-EGY-34A-2020,M15 Cairo,Clay,32,15,20201207,113,207764,,,Ryan Nijboer,U,,NED,21.363449692,208071,6,,Oleksii Krutykh,R,,UKR,20.7446954141,2-6 7-6(6) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,708,29,564,51
@@ -891,17 +891,17 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-M-ITF-EGY-34A-2020,M15 Cairo,Clay,32,15,20201207,202,208363,,Q,Mariano Navone,U,,ARG,19.7754962355,105398,8,,Adam El Mihdawy,U,,USA,31.3292265572,6-4 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,783,22,582,47
 2020-M-ITF-EGY-34A-2020,M15 Cairo,Clay,32,15,20201207,203,122536,,,Juan Pablo Paz,R,,ARG,25.9247091034,106250,,WC,Luis Patino,R,,MEX,27.1704312115,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,629,38,995,11
 2020-M-ITF-EGY-34A-2020,M15 Cairo,Clay,32,15,20201207,204,208913,,,Juan Bautista Torres,U,,ARG,18.6830937714,207704,,Q,Alex Marti Pujolras,U,,ESP,21.8234086242,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1299,4,925,14
-2020-M-ITF-EGY-34A-2020,M15 Cairo,Clay,32,15,20201207,205,209182,,,Toby Alex Kodat,R,,USA,,207546,5,,Pol Martin Tiffon,U,,ESP,21.3579739904,3-6 7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,508,65
+2020-M-ITF-EGY-34A-2020,M15 Cairo,Clay,32,15,20201207,205,209182,,,Toby Alex Kodat,R,178,USA,17.9000684463,207546,5,,Pol Martin Tiffon,U,,ESP,21.3579739904,3-6 7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,508,65
 2020-M-ITF-EGY-34A-2020,M15 Cairo,Clay,32,15,20201207,206,105060,4,,Aldin Setkic,R,193,BIH,32.9637234771,200125,,,Mykyta Mashtakov,R,,UKR,21.7248459959,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,498,69,604,42
 2020-M-ITF-EGY-34A-2020,M15 Cairo,Clay,32,15,20201207,207,208262,,WC,Alejo Lorenzo Lingua Lavallen,L,,ARG,19.7481177276,207764,,,Ryan Nijboer,U,,NED,21.363449692,5-7 6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,838,18,708,29
 2020-M-ITF-EGY-34A-2020,M15 Cairo,Clay,32,15,20201207,208,200273,,Q,Hady Habib,,,LIB,22.2970568104,122058,2,,Fabrizio Ornago,U,,ITA,28.6214921287,6-4 5-7 6-4,3,R16,,,,,,,,,,,,,,,,,,,,775,22,423,90
 2020-M-ITF-EGY-34A-2020,M15 Cairo,Clay,32,15,20201207,301,105534,,,Erik Crepaldi,L,,ITA,30.5954825462,208363,,Q,Mariano Navone,U,,ARG,19.7754962355,0-6 6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,583,47,783,22
 2020-M-ITF-EGY-34A-2020,M15 Cairo,Clay,32,15,20201207,302,208913,,,Juan Bautista Torres,U,,ARG,18.6830937714,122536,,,Juan Pablo Paz,R,,ARG,25.9247091034,6-0 6-1,3,QF,,,,,,,,,,,,,,,,,,,,1299,4,629,38
-2020-M-ITF-EGY-34A-2020,M15 Cairo,Clay,32,15,20201207,303,209182,,,Toby Alex Kodat,R,,USA,,105060,4,,Aldin Setkic,R,193,BIH,32.9637234771,6-2 7-6(4),3,QF,,,,,,,,,,,,,,,,,,,,,,498,69
+2020-M-ITF-EGY-34A-2020,M15 Cairo,Clay,32,15,20201207,303,209182,,,Toby Alex Kodat,R,178,USA,17.9000684463,105060,4,,Aldin Setkic,R,193,BIH,32.9637234771,6-2 7-6(4),3,QF,,,,,,,,,,,,,,,,,,,,,,498,69
 2020-M-ITF-EGY-34A-2020,M15 Cairo,Clay,32,15,20201207,304,208262,,WC,Alejo Lorenzo Lingua Lavallen,L,,ARG,19.7481177276,200273,,Q,Hady Habib,,,LIB,22.2970568104,6-3 7-5,3,QF,,,,,,,,,,,,,,,,,,,,838,18,775,22
 2020-M-ITF-EGY-34A-2020,M15 Cairo,Clay,32,15,20201207,401,208913,,,Juan Bautista Torres,U,,ARG,18.6830937714,105534,,,Erik Crepaldi,L,,ITA,30.5954825462,6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,1299,4,583,47
-2020-M-ITF-EGY-34A-2020,M15 Cairo,Clay,32,15,20201207,402,209182,,,Toby Alex Kodat,R,,USA,,208262,,WC,Alejo Lorenzo Lingua Lavallen,L,,ARG,19.7481177276,3-6 6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,838,18
-2020-M-ITF-EGY-34A-2020,M15 Cairo,Clay,32,15,20201207,501,208913,,,Juan Bautista Torres,U,,ARG,18.6830937714,209182,,,Toby Alex Kodat,R,,USA,,6-3 6-3,3,F,,,,,,,,,,,,,,,,,,,,1299,4,,
+2020-M-ITF-EGY-34A-2020,M15 Cairo,Clay,32,15,20201207,402,209182,,,Toby Alex Kodat,R,178,USA,17.9000684463,208262,,WC,Alejo Lorenzo Lingua Lavallen,L,,ARG,19.7481177276,3-6 6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,838,18
+2020-M-ITF-EGY-34A-2020,M15 Cairo,Clay,32,15,20201207,501,208913,,,Juan Bautista Torres,U,,ARG,18.6830937714,209182,,,Toby Alex Kodat,R,178,USA,17.9000684463,6-3 6-3,3,F,,,,,,,,,,,,,,,,,,,,1299,4,,
 2020-M-ITF-ESP-01A-2020,M15 Manacor,Hard,32,15,20200106,101,207797,,,Jonas Forejtek,R,,CZE,18.8254620123,106172,1,,Maxime Chazal,U,,FRA,26.7022587269,6-3 4-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,536,49,377,97
 2020-M-ITF-ESP-01A-2020,M15 Manacor,Hard,32,15,20200106,102,200345,,,Valentin Guenther,R,,GER,21.8918548939,208316,,,Valentin Royer,U,,FRA,18.6064339493,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,879,14,819,17
 2020-M-ITF-ESP-01A-2020,M15 Manacor,Hard,32,15,20200106,103,202199,,,Carlos Sanchez Jover,R,,ESP,19.4606433949,209404,,WC,Marc Othman Ktiri ,U,,ESP,,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,712,26,,
@@ -910,7 +910,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-M-ITF-ESP-01A-2020,M15 Manacor,Hard,32,15,20200106,106,104932,,,Kenny De Schepper,L,203,FRA,32.6078028747,126530,,,Peter Bothwell,R,,IRL,24.2737850787,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,692,28,785,20
 2020-M-ITF-ESP-01A-2020,M15 Manacor,Hard,32,15,20200106,107,207494,,,Dalibor Svrcina,R,,CZE,17.2621492129,126748,,Q,Juan Pablo Canas Garcia,U,,ESP,22.8309377139,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,979,10,1220,5
 2020-M-ITF-ESP-01A-2020,M15 Manacor,Hard,32,15,20200106,108,145001,5,,Evan Furness,R,,FRA,21.3990417522,202209,,,Imanol Lopez Morillo,R,,ESP,20.1341546886,6-3 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,437,73,573,42
-2020-M-ITF-ESP-01A-2020,M15 Manacor,Hard,32,15,20200106,109,207989,6,,Carlos Alcaraz Garfia,R,,ESP,16.6735112936,208233,,Q,Mattia Bellucci,U,,ITA,18.598220397,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,490,60,1114,7
+2020-M-ITF-ESP-01A-2020,M15 Manacor,Hard,32,15,20200106,109,207989,6,,Carlos Alcaraz Garfia,R,185,ESP,16.6735112936,208233,,Q,Mattia Bellucci,U,,ITA,18.598220397,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,490,60,1114,7
 2020-M-ITF-ESP-01A-2020,M15 Manacor,Hard,32,15,20200106,110,200346,,,Mats Rosenkranz,L,,GER,21.3716632444,209405,,WC,Daniel Rincon,L,,ESP,16.9965776865,7-6(3) 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,629,34,,
 2020-M-ITF-ESP-01A-2020,M15 Manacor,Hard,32,15,20200106,111,200164,,,Jonathan Gray,U,,GBR,22.7433264887,209406,,WC,Abedallah Shelbayh,U,,JOR,,6-2 5-7 7-5,3,R32,,,,,,,,,,,,,,,,,,,,682,29,,
 2020-M-ITF-ESP-01A-2020,M15 Manacor,Hard,32,15,20200106,112,109318,,Q,Pawel Cias,R,,POL,25.8699520876,202398,4,,Michael Vrbensky,R,,CZE,20.0301163587,7-6(5) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,885,13,424,76
@@ -922,19 +922,19 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-M-ITF-ESP-01A-2020,M15 Manacor,Hard,32,15,20200106,202,126533,7,,Alvaro Lopez San Martin,R,,ESP,22.5954825462,202199,,,Carlos Sanchez Jover,R,,ESP,19.4606433949,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,491,60,712,26
 2020-M-ITF-ESP-01A-2020,M15 Manacor,Hard,32,15,20200106,203,104932,,,Kenny De Schepper,L,203,FRA,32.6078028747,206746,,,Benjamin Winter Lopez,U,,ESP,21.6125941136,6-3 3-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,692,28,723,25
 2020-M-ITF-ESP-01A-2020,M15 Manacor,Hard,32,15,20200106,204,145001,5,,Evan Furness,R,,FRA,21.3990417522,207494,,,Dalibor Svrcina,R,,CZE,17.2621492129,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,437,73,979,10
-2020-M-ITF-ESP-01A-2020,M15 Manacor,Hard,32,15,20200106,205,207989,6,,Carlos Alcaraz Garfia,R,,ESP,16.6735112936,200346,,,Mats Rosenkranz,L,,GER,21.3716632444,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,490,60,629,34
+2020-M-ITF-ESP-01A-2020,M15 Manacor,Hard,32,15,20200106,205,207989,6,,Carlos Alcaraz Garfia,R,185,ESP,16.6735112936,200346,,,Mats Rosenkranz,L,,GER,21.3716632444,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,490,60,629,34
 2020-M-ITF-ESP-01A-2020,M15 Manacor,Hard,32,15,20200106,206,109318,,Q,Pawel Cias,R,,POL,25.8699520876,200164,,,Jonathan Gray,U,,GBR,22.7433264887,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,885,13,682,29
 2020-M-ITF-ESP-01A-2020,M15 Manacor,Hard,32,15,20200106,207,126609,8,,Patrik Niklas Salminen,L,,FIN,22.8391512663,209407,,WC,Max Basing,U,,GBR,,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,494,60,,
 2020-M-ITF-ESP-01A-2020,M15 Manacor,Hard,32,15,20200106,208,132744,,Q,Alberto Barroso Campos,R,,ESP,23.5893223819,105679,2,,Eduardo Struvay,R,,COL,29.054072553,4-6 6-3 5-3 RET,3,R16,,,,,,,,,,,,,,,,,,,,1054,8,393,89
 2020-M-ITF-ESP-01A-2020,M15 Manacor,Hard,32,15,20200106,301,126533,7,,Alvaro Lopez San Martin,R,,ESP,22.5954825462,207797,,,Jonas Forejtek,R,,CZE,18.8254620123,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,491,60,536,49
 2020-M-ITF-ESP-01A-2020,M15 Manacor,Hard,32,15,20200106,302,145001,5,,Evan Furness,R,,FRA,21.3990417522,104932,,,Kenny De Schepper,L,203,FRA,32.6078028747,6-3 4-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,437,73,692,28
-2020-M-ITF-ESP-01A-2020,M15 Manacor,Hard,32,15,20200106,303,207989,6,,Carlos Alcaraz Garfia,R,,ESP,16.6735112936,109318,,Q,Pawel Cias,R,,POL,25.8699520876,6-3 6-7(5) 6-1,3,QF,,,,,,,,,,,,,,,,,,,,490,60,885,13
+2020-M-ITF-ESP-01A-2020,M15 Manacor,Hard,32,15,20200106,303,207989,6,,Carlos Alcaraz Garfia,R,185,ESP,16.6735112936,109318,,Q,Pawel Cias,R,,POL,25.8699520876,6-3 6-7(5) 6-1,3,QF,,,,,,,,,,,,,,,,,,,,490,60,885,13
 2020-M-ITF-ESP-01A-2020,M15 Manacor,Hard,32,15,20200106,304,132744,,Q,Alberto Barroso Campos,R,,ESP,23.5893223819,126609,8,,Patrik Niklas Salminen,L,,FIN,22.8391512663,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,1054,8,494,60
 2020-M-ITF-ESP-01A-2020,M15 Manacor,Hard,32,15,20200106,401,145001,5,,Evan Furness,R,,FRA,21.3990417522,126533,7,,Alvaro Lopez San Martin,R,,ESP,22.5954825462,2-6 6-1 6-3,3,SF,,,,,,,,,,,,,,,,,,,,437,73,491,60
-2020-M-ITF-ESP-01A-2020,M15 Manacor,Hard,32,15,20200106,402,207989,6,,Carlos Alcaraz Garfia,R,,ESP,16.6735112936,132744,,Q,Alberto Barroso Campos,R,,ESP,23.5893223819,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,490,60,1054,8
-2020-M-ITF-ESP-01A-2020,M15 Manacor,Hard,32,15,20200106,501,207989,6,,Carlos Alcaraz Garfia,R,,ESP,16.6735112936,145001,5,,Evan Furness,R,,FRA,21.3990417522,6-0 6-2,3,F,,,,,,,,,,,,,,,,,,,,490,60,437,73
+2020-M-ITF-ESP-01A-2020,M15 Manacor,Hard,32,15,20200106,402,207989,6,,Carlos Alcaraz Garfia,R,185,ESP,16.6735112936,132744,,Q,Alberto Barroso Campos,R,,ESP,23.5893223819,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,490,60,1054,8
+2020-M-ITF-ESP-01A-2020,M15 Manacor,Hard,32,15,20200106,501,207989,6,,Carlos Alcaraz Garfia,R,185,ESP,16.6735112936,145001,5,,Evan Furness,R,,FRA,21.3990417522,6-0 6-2,3,F,,,,,,,,,,,,,,,,,,,,490,60,437,73
 2020-M-ITF-ESP-02A-2020,M15 Manacor,Hard,32,15,20200113,101,126129,,Q,Billy Harris,U,,GBR,24.9664613279,105497,1,,Jose Hernandez,U,,DOM,29.8370978782,4-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,906,12,280,144
-2020-M-ITF-ESP-02A-2020,M15 Manacor,Hard,32,15,20200113,102,207989,,,Carlos Alcaraz Garfia,R,,ESP,16.6926762491,126533,,,Alvaro Lopez San Martin,R,,ESP,22.6146475017,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,488,60,489,60
+2020-M-ITF-ESP-02A-2020,M15 Manacor,Hard,32,15,20200113,102,207989,,,Carlos Alcaraz Garfia,R,185,ESP,16.6926762491,126533,,,Alvaro Lopez San Martin,R,,ESP,22.6146475017,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,488,60,489,60
 2020-M-ITF-ESP-02A-2020,M15 Manacor,Hard,32,15,20200113,103,206325,,,Pedro Vives Marcos,R,,ESP,18.7515400411,200259,,Q,Ugo Blanchet,U,,FRA,21.0212183436,7-6(1) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,583,40,922,12
 2020-M-ITF-ESP-02A-2020,M15 Manacor,Hard,32,15,20200113,104,111775,6,,Evan Hoyt,R,,GBR,24.9911019849,207797,,,Jonas Forejtek,R,,CZE,18.8446269678,7-6(3) 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,407,84,532,49
 2020-M-ITF-ESP-02A-2020,M15 Manacor,Hard,32,15,20200113,105,144675,3,,Baptiste Crepatte,U,,FRA,25.311430527,126748,,Q,Juan Pablo Canas Garcia,U,,ESP,22.8501026694,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,349,110,1216,5
@@ -949,7 +949,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-M-ITF-ESP-02A-2020,M15 Manacor,Hard,32,15,20200113,114,209406,,WC,Abedallah Shelbayh,U,,JOR,,200164,,,Jonathan Gray,U,,GBR,22.7624914442,7-6(5) 2-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,675,29
 2020-M-ITF-ESP-02A-2020,M15 Manacor,Hard,32,15,20200113,115,202125,,Q,Benjamin Pietri,U,,FRA,23.4524298426,208024,,,Max Alcala Gurri,U,,ESP,17.3388090349,5-7 6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,999,10,1753,1
 2020-M-ITF-ESP-02A-2020,M15 Manacor,Hard,32,15,20200113,116,106362,2,,Laurent Lokoli,R,,FRA,25.2375085558,206853,,Q,Alessandro Coppini,U,,ITA,21.7029431896,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,342,111,1214,5
-2020-M-ITF-ESP-02A-2020,M15 Manacor,Hard,32,15,20200113,201,207989,,,Carlos Alcaraz Garfia,R,,ESP,16.6926762491,126129,,Q,Billy Harris,U,,GBR,24.9664613279,4-6 7-6(3) 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,488,60,906,12
+2020-M-ITF-ESP-02A-2020,M15 Manacor,Hard,32,15,20200113,201,207989,,,Carlos Alcaraz Garfia,R,185,ESP,16.6926762491,126129,,Q,Billy Harris,U,,GBR,24.9664613279,4-6 7-6(3) 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,488,60,906,12
 2020-M-ITF-ESP-02A-2020,M15 Manacor,Hard,32,15,20200113,202,111775,6,,Evan Hoyt,R,,GBR,24.9911019849,206325,,,Pedro Vives Marcos,R,,ESP,18.7515400411,4-6 6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,407,84,583,40
 2020-M-ITF-ESP-02A-2020,M15 Manacor,Hard,32,15,20200113,203,144675,3,,Baptiste Crepatte,U,,FRA,25.311430527,106120,,,Ricardo Ojeda Lara,R,,ESP,26.9623545517,4-6 7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,349,110,484,62
 2020-M-ITF-ESP-02A-2020,M15 Manacor,Hard,32,15,20200113,204,122368,,Q,Joao Monteiro,U,,POR,26.045174538,209407,,WC,Max Basing,U,,GBR,,W/O,3,R16,,,,,,,,,,,,,,,,,,,,1909,1,,
@@ -957,13 +957,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-M-ITF-ESP-02A-2020,M15 Manacor,Hard,32,15,20200113,206,145001,,,Evan Furness,R,,FRA,21.4182067077,126127,4,,Benjamin Bonzi,R,,FRA,23.5947980835,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,511,54,359,107
 2020-M-ITF-ESP-02A-2020,M15 Manacor,Hard,32,15,20200113,207,209406,,WC,Abedallah Shelbayh,U,,JOR,,208010,,,Pablo Llamas Ruiz,R,,ESP,17.2511978097,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,1013,9
 2020-M-ITF-ESP-02A-2020,M15 Manacor,Hard,32,15,20200113,208,202125,,Q,Benjamin Pietri,U,,FRA,23.4524298426,106362,2,,Laurent Lokoli,R,,FRA,25.2375085558,W/O,3,R16,,,,,,,,,,,,,,,,,,,,999,10,342,111
-2020-M-ITF-ESP-02A-2020,M15 Manacor,Hard,32,15,20200113,301,207989,,,Carlos Alcaraz Garfia,R,,ESP,16.6926762491,111775,6,,Evan Hoyt,R,,GBR,24.9911019849,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,488,60,407,84
+2020-M-ITF-ESP-02A-2020,M15 Manacor,Hard,32,15,20200113,301,207989,,,Carlos Alcaraz Garfia,R,185,ESP,16.6926762491,111775,6,,Evan Hoyt,R,,GBR,24.9911019849,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,488,60,407,84
 2020-M-ITF-ESP-02A-2020,M15 Manacor,Hard,32,15,20200113,302,122368,,Q,Joao Monteiro,U,,POR,26.045174538,144675,3,,Baptiste Crepatte,U,,FRA,25.311430527,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,1909,1,349,110
 2020-M-ITF-ESP-02A-2020,M15 Manacor,Hard,32,15,20200113,303,145001,,,Evan Furness,R,,FRA,21.4182067077,202398,7,,Michael Vrbensky,R,,CZE,20.0492813142,7-5 6-2,3,QF,,,,,,,,,,,,,,,,,,,,511,54,424,76
 2020-M-ITF-ESP-02A-2020,M15 Manacor,Hard,32,15,20200113,304,209406,,WC,Abedallah Shelbayh,U,,JOR,,202125,,Q,Benjamin Pietri,U,,FRA,23.4524298426,6-3 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,,,999,10
-2020-M-ITF-ESP-02A-2020,M15 Manacor,Hard,32,15,20200113,401,207989,,,Carlos Alcaraz Garfia,R,,ESP,16.6926762491,122368,,Q,Joao Monteiro,U,,POR,26.045174538,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,488,60,1909,1
+2020-M-ITF-ESP-02A-2020,M15 Manacor,Hard,32,15,20200113,401,207989,,,Carlos Alcaraz Garfia,R,185,ESP,16.6926762491,122368,,Q,Joao Monteiro,U,,POR,26.045174538,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,488,60,1909,1
 2020-M-ITF-ESP-02A-2020,M15 Manacor,Hard,32,15,20200113,402,145001,,,Evan Furness,R,,FRA,21.4182067077,209406,,WC,Abedallah Shelbayh,U,,JOR,,6-3 7-6(4),3,SF,,,,,,,,,,,,,,,,,,,,511,54,,
-2020-M-ITF-ESP-02A-2020,M15 Manacor,Hard,32,15,20200113,501,207989,,,Carlos Alcaraz Garfia,R,,ESP,16.6926762491,145001,,,Evan Furness,R,,FRA,21.4182067077,6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,488,60,511,54
+2020-M-ITF-ESP-02A-2020,M15 Manacor,Hard,32,15,20200113,501,207989,,,Carlos Alcaraz Garfia,R,185,ESP,16.6926762491,145001,,,Evan Furness,R,,FRA,21.4182067077,6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,488,60,511,54
 2020-M-ITF-ESP-03A-2020,M15 Palmanova,Clay,32,15,20200210,101,134792,1,,Jules Okala,U,,FRA,22.4804928131,201995,,,Cayetano March,U,,ECU,19.6057494867,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,354,104,695,27
 2020-M-ITF-ESP-03A-2020,M15 Palmanova,Clay,32,15,20200210,102,200184,,,Andrey Chepelev,L,,RUS,21.5249828884,133603,,,Benjamin Dhoe,R,,BEL,23.4743326489,3-6 6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,641,32,668,30
 2020-M-ITF-ESP-03A-2020,M15 Palmanova,Clay,32,15,20200210,103,206325,,,Pedro Vives Marcos,R,,ESP,18.8281998631,209847,,WC,Dorian Tremblay,U,,FRA,,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,602,37,,
@@ -1554,7 +1554,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-M-ITF-GBR-01A-2020,M25 Barnstaple,Hard,32,25,20200210,107,209851,,Q,Henry Patten,L,,GBR,23.7645448323,206405,,LL,Patrick Foley,U,,GBR,24.8323066393,6-0 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,1527,2
 2020-M-ITF-GBR-01A-2020,M25 Barnstaple,Hard,32,25,20200210,108,111197,,,Jonathan Mridha,R,,SWE,24.8432580424,117365,8,,Petros Chrysochos,R,,CYP,23.8412046543,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,554,45,474,64
 2020-M-ITF-GBR-01A-2020,M25 Barnstaple,Hard,32,25,20200210,109,200390,5,,Kacper Zuk,R,,POL,21.054072553,208316,,JE,Valentin Royer,U,,FRA,18.7022587269,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,406,83,754,21
-2020-M-ITF-GBR-01A-2020,M25 Barnstaple,Hard,32,25,20200210,110,209259,,WC,Arthur Fery,R,,GBR,,126219,,WC,Joshua Paris,R,,GBR,23.9315537303,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1233,4,1030,9
+2020-M-ITF-GBR-01A-2020,M25 Barnstaple,Hard,32,25,20200210,110,209259,,WC,Arthur Fery,R,,GBR,17.582477755,126219,,WC,Joshua Paris,R,,GBR,23.9315537303,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1233,4,1030,9
 2020-M-ITF-GBR-01A-2020,M25 Barnstaple,Hard,32,25,20200210,111,126591,,Q,Jan Zielinski,R,,POL,23.2334017796,134794,,,Alexis Gautier,U,,FRA,22.8446269678,4-6 7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,826,16,544,47
 2020-M-ITF-GBR-01A-2020,M25 Barnstaple,Hard,32,25,20200210,112,132209,,Q,Daniel Little,U,,GBR,22.7378507871,111775,4,,Evan Hoyt,R,,GBR,25.067761807,7-6(5) 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,1584,1,408,82
 2020-M-ITF-GBR-01A-2020,M25 Barnstaple,Hard,32,25,20200210,113,126609,7,,Patrik Niklas Salminen,L,,FIN,22.9349760438,134545,,Q,Alexis Canter,U,,GBR,21.6892539357,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,466,66,1001,10
@@ -1565,7 +1565,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-M-ITF-GBR-01A-2020,M25 Barnstaple,Hard,32,25,20200210,202,122638,6,,Christopher Heyman,U,,BEL,26.340862423,200346,,,Mats Rosenkranz,L,,GER,21.4674880219,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,390,89,615,36
 2020-M-ITF-GBR-01A-2020,M25 Barnstaple,Hard,32,25,20200210,203,202420,,,Aidan Mchugh,U,,GBR,19.5893223819,208269,,WC,Felix Gill,U,,GBR,17.6947296372,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,567,43,1665,1
 2020-M-ITF-GBR-01A-2020,M25 Barnstaple,Hard,32,25,20200210,204,209851,,Q,Henry Patten,L,,GBR,23.7645448323,111197,,,Jonathan Mridha,R,,SWE,24.8432580424,6-1 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,,,554,45
-2020-M-ITF-GBR-01A-2020,M25 Barnstaple,Hard,32,25,20200210,205,200390,5,,Kacper Zuk,R,,POL,21.054072553,209259,,WC,Arthur Fery,R,,GBR,,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,406,83,1233,4
+2020-M-ITF-GBR-01A-2020,M25 Barnstaple,Hard,32,25,20200210,205,200390,5,,Kacper Zuk,R,,POL,21.054072553,209259,,WC,Arthur Fery,R,,GBR,17.582477755,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,406,83,1233,4
 2020-M-ITF-GBR-01A-2020,M25 Barnstaple,Hard,32,25,20200210,206,126591,,Q,Jan Zielinski,R,,POL,23.2334017796,132209,,Q,Daniel Little,U,,GBR,22.7378507871,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,826,16,1584,1
 2020-M-ITF-GBR-01A-2020,M25 Barnstaple,Hard,32,25,20200210,207,126609,7,,Patrik Niklas Salminen,L,,FIN,22.9349760438,207457,,Q,Wojciech Marek,R,,POL,18.7077344285,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,466,66,844,15
 2020-M-ITF-GBR-01A-2020,M25 Barnstaple,Hard,32,25,20200210,208,126193,,,Mark Whitehouse,U,,GBR,26.7789185489,208123,,Q,Tom Hands,U,,GBR,23.2717316906,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,667,30,1665,1
@@ -1581,7 +1581,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-M-ITF-GBR-02A-2020,M25 Glasgow,Hard,32,25,20200217,103,134472,,,Antoine Bellier,U,,SUI,23.3319644079,126591,,LL,Jan Zielinski,R,,POL,23.2525667351,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,554,46,828,16
 2020-M-ITF-GBR-02A-2020,M25 Glasgow,Hard,32,25,20200217,104,131911,,,Lucas Poullain,U,,FRA,24.2026009582,200188,6,,Matteo Martineau,U,,FRA,21.0869267625,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,653,30,427,76
 2020-M-ITF-GBR-02A-2020,M25 Glasgow,Hard,32,25,20200217,105,207411,4,,Jesper De Jong,R,,NED,19.7152635181,208269,,WC,Felix Gill,U,,GBR,17.7138945927,6-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,419,79,1662,1
-2020-M-ITF-GBR-02A-2020,M25 Glasgow,Hard,32,25,20200217,106,202420,,,Aidan Mchugh,U,,GBR,19.6084873374,209259,,WC,Arthur Fery,R,,GBR,,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,569,43,1229,4
+2020-M-ITF-GBR-02A-2020,M25 Glasgow,Hard,32,25,20200217,106,202420,,,Aidan Mchugh,U,,GBR,19.6084873374,209259,,WC,Arthur Fery,R,,GBR,17.6016427105,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,569,43,1229,4
 2020-M-ITF-GBR-02A-2020,M25 Glasgow,Hard,32,25,20200217,107,123854,,WC,Luke Johnson,R,,GBR,25.9192334018,122393,,,Adrian Obert,R,,GER,24.9171800137,6-1 4-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,712,25,631,32
 2020-M-ITF-GBR-02A-2020,M25 Glasgow,Hard,32,25,20200217,108,202161,,Q,Bart Stevens,R,,NED,22.0506502396,110600,5,,Robert Quentin,R,,FRA,25.4839151266,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,748,22,440,72
 2020-M-ITF-GBR-02A-2020,M25 Glasgow,Hard,32,25,20200217,109,126193,,Q,Mark Whitehouse,U,,GBR,26.7980835044,117365,8,,Petros Chrysochos,R,,CYP,23.8603696099,7-5 6-7(6) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,660,30,473,64
@@ -1799,7 +1799,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-M-ITF-GRE-03A-2020,M15 Heraklion,Hard,32,15,20200224,104,132999,8,,Kai Wehnelt,R,,GER,24.2436687201,200518,,,Constantin Schmitz,R,,GER,24.7556468172,6-4 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,601,38,619,35
 2020-M-ITF-GRE-03A-2020,M15 Heraklion,Hard,32,15,20200224,105,144756,4,,Jordan Correia Passos Do Carmo,U,,BRA,22.6392881588,208304,,Q,Rotem Sobol,U,,ISR,18.4668035592,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,535,50,1857,1
 2020-M-ITF-GRE-03A-2020,M15 Heraklion,Hard,32,15,20200224,106,109737,,,Markos Kalovelonis,R,,GRE,25.7713894593,122549,,Q,Christos Keisidis,R,,GRE,27.3456536619,5-7 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,717,25,,
-2020-M-ITF-GRE-03A-2020,M15 Heraklion,Hard,32,15,20200224,107,209098,,,Hamad Medjedovic,U,,SRB,,209298,,WC,Jason Janis,L,,GER,,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1587,1,,
+2020-M-ITF-GRE-03A-2020,M15 Heraklion,Hard,32,15,20200224,107,209098,,,Hamad Medjedovic,R,,SRB,16.605065024,209298,,WC,Jason Janis,L,,GER,,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1587,1,,
 2020-M-ITF-GRE-03A-2020,M15 Heraklion,Hard,32,15,20200224,108,207686,,,Alexander Shevchenko,U,,RUS,19.1540041068,202242,7,,Dusty H Boyer,U,,USA,26.6475017112,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,650,31,595,39
 2020-M-ITF-GRE-03A-2020,M15 Heraklion,Hard,32,15,20200224,109,200125,6,,Mykyta Mashtakov,R,,UKR,20.93908282,200378,,WC,Lior Goldenberg,U,,ISR,20.1752224504,6-4 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,585,40,1749,1
 2020-M-ITF-GRE-03A-2020,M15 Heraklion,Hard,32,15,20200224,110,201995,,,Cayetano March,U,,ECU,19.6440793977,200345,,,Valentin Guenther,R,,GER,22.0260095825,5-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,694,27,908,13
@@ -1812,13 +1812,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-M-ITF-GRE-03A-2020,M15 Heraklion,Hard,32,15,20200224,201,132204,,,Matvey Khomentovskiy,R,,RUS,25.5003422313,105843,,,Ljubomir Celebic,U,,MNE,28.4435318275,6-3 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,875,14,785,19
 2020-M-ITF-GRE-03A-2020,M15 Heraklion,Hard,32,15,20200224,202,132999,8,,Kai Wehnelt,R,,GER,24.2436687201,207527,,Q,Buvaysar Gadamauri,U,,BEL,19.6249144422,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,601,38,1857,1
 2020-M-ITF-GRE-03A-2020,M15 Heraklion,Hard,32,15,20200224,203,144756,4,,Jordan Correia Passos Do Carmo,U,,BRA,22.6392881588,109737,,,Markos Kalovelonis,R,,GRE,25.7713894593,7-5 6-0,3,R16,,,,,,,,,,,,,,,,,,,,535,50,717,25
-2020-M-ITF-GRE-03A-2020,M15 Heraklion,Hard,32,15,20200224,204,209098,,,Hamad Medjedovic,U,,SRB,,207686,,,Alexander Shevchenko,U,,RUS,19.1540041068,6-0 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1587,1,650,31
+2020-M-ITF-GRE-03A-2020,M15 Heraklion,Hard,32,15,20200224,204,209098,,,Hamad Medjedovic,R,,SRB,16.605065024,207686,,,Alexander Shevchenko,U,,RUS,19.1540041068,6-0 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1587,1,650,31
 2020-M-ITF-GRE-03A-2020,M15 Heraklion,Hard,32,15,20200224,205,201995,,,Cayetano March,U,,ECU,19.6440793977,200125,6,,Mykyta Mashtakov,R,,UKR,20.93908282,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,694,27,585,40
 2020-M-ITF-GRE-03A-2020,M15 Heraklion,Hard,32,15,20200224,206,200532,,,Vasil Kirkov,U,,USA,20.9527720739,200031,3,,Lucas Catarina,R,,MON,23.4962354552,7-6(5) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,607,37,464,66
 2020-M-ITF-GRE-03A-2020,M15 Heraklion,Hard,32,15,20200224,207,207660,5,,Nicholas David Ionel,R,,ROU,17.3689253936,208065,,,Marius Ruzgas,U,,SWE,23.3456536619,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,552,46,980,10
 2020-M-ITF-GRE-03A-2020,M15 Heraklion,Hard,32,15,20200224,208,202262,2,,Filip Cristian Jianu,U,,ROU,18.4339493498,209409,,,Coleman Wong,U,,HKG,,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,410,82,,
 2020-M-ITF-GRE-03A-2020,M15 Heraklion,Hard,32,15,20200224,301,132999,8,,Kai Wehnelt,R,,GER,24.2436687201,132204,,,Matvey Khomentovskiy,R,,RUS,25.5003422313,7-6(3) 3-6 6-0,3,QF,,,,,,,,,,,,,,,,,,,,601,38,875,14
-2020-M-ITF-GRE-03A-2020,M15 Heraklion,Hard,32,15,20200224,302,144756,4,,Jordan Correia Passos Do Carmo,U,,BRA,22.6392881588,209098,,,Hamad Medjedovic,U,,SRB,,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,535,50,1587,1
+2020-M-ITF-GRE-03A-2020,M15 Heraklion,Hard,32,15,20200224,302,144756,4,,Jordan Correia Passos Do Carmo,U,,BRA,22.6392881588,209098,,,Hamad Medjedovic,R,,SRB,16.605065024,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,535,50,1587,1
 2020-M-ITF-GRE-03A-2020,M15 Heraklion,Hard,32,15,20200224,303,200532,,,Vasil Kirkov,U,,USA,20.9527720739,201995,,,Cayetano March,U,,ECU,19.6440793977,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,607,37,694,27
 2020-M-ITF-GRE-03A-2020,M15 Heraklion,Hard,32,15,20200224,304,207660,5,,Nicholas David Ionel,R,,ROU,17.3689253936,202262,2,,Filip Cristian Jianu,U,,ROU,18.4339493498,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,552,46,410,82
 2020-M-ITF-GRE-03A-2020,M15 Heraklion,Hard,32,15,20200224,401,144756,4,,Jordan Correia Passos Do Carmo,U,,BRA,22.6392881588,132999,8,,Kai Wehnelt,R,,GER,24.2436687201,7-6(4) 6-3,3,SF,,,,,,,,,,,,,,,,,,,,535,50,601,38
@@ -1853,7 +1853,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-M-ITF-GRE-06A-2020,M15 Heraklion,Hard,32,15,20200302,103,126634,,,Lenny Hampel,U,,AUT,23.1868583162,200518,,,Constantin Schmitz,R,,GER,24.7748117728,7-6(5) 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,730,24,617,35
 2020-M-ITF-GRE-06A-2020,M15 Heraklion,Hard,32,15,20200302,104,206758,5,,Antoine Cornut Chauvinc,U,,FRA,19.65229295,122549,,WC,Christos Keisidis,R,,GRE,27.3648186174,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,505,59,1671,1
 2020-M-ITF-GRE-06A-2020,M15 Heraklion,Hard,32,15,20200302,105,200031,4,,Lucas Catarina,R,,MON,23.5154004107,126570,,Q,William Griffith,U,,USA,24.4271047228,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,494,60,1284,4
-2020-M-ITF-GRE-06A-2020,M15 Heraklion,Hard,32,15,20200302,106,126598,,Q,Igor Saveljic,R,,MNE,24.5420944559,209098,,,Hamad Medjedovic,U,,SRB,,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1820,1,1590,1
+2020-M-ITF-GRE-06A-2020,M15 Heraklion,Hard,32,15,20200302,106,126598,,Q,Igor Saveljic,R,,MNE,24.5420944559,209098,,,Hamad Medjedovic,R,,SRB,16.6242299795,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1820,1,1590,1
 2020-M-ITF-GRE-06A-2020,M15 Heraklion,Hard,32,15,20200302,107,207484,,,Neil Oberleitner,R,,AUT,20.5749486653,200065,,WC,Stamatis Kapiris,U,,GRE,20.7501711157,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1385,3,1752,1
 2020-M-ITF-GRE-06A-2020,M15 Heraklion,Hard,32,15,20200302,108,202242,8,,Dusty H Boyer,U,,USA,26.6666666667,208103,,,Jiri Lehecka,R,,CZE,18.3134839151,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,597,39,616,35
 2020-M-ITF-GRE-06A-2020,M15 Heraklion,Hard,32,15,20200302,109,126623,6,,Alexander Erler,U,,AUT,22.3463381246,202439,,,Sean Hodkin,U,,GBR,21.3360711841,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,550,48,1254,4
@@ -1887,7 +1887,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-M-ITF-GRE-09A-2020,M15 Heraklion,Hard,32,15,20201026,106,200031,,,Lucas Catarina,R,,MON,24.167008898,209362,,WC,Aristotelis Thanos,U,,GRE,,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,448,80,1260,4
 2020-M-ITF-GRE-09A-2020,M15 Heraklion,Hard,32,15,20201026,107,121497,,,Mircea Alexandru Jecan,L,,ROU,32.3997262149,126204,,Q,Gerardo Lopez Villasenor,U,,MEX,25.4592744695,7-5 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,473,72,542,54
 2020-M-ITF-GRE-09A-2020,M15 Heraklion,Hard,32,15,20201026,108,200532,,Q,Vasil Kirkov,U,,USA,21.6235455168,202262,7,,Filip Cristian Jianu,U,,ROU,19.1047227926,7-6(1) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,584,45,389,100
-2020-M-ITF-GRE-09A-2020,M15 Heraklion,Hard,32,15,20201026,109,209182,,,Toby Alex Kodat,R,,USA,,200677,8,,Rio Noguchi,U,,JPN,21.8288843258,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,407,93
+2020-M-ITF-GRE-09A-2020,M15 Heraklion,Hard,32,15,20201026,109,209182,,,Toby Alex Kodat,R,178,USA,17.7850787132,200677,8,,Rio Noguchi,U,,JPN,21.8288843258,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,407,93
 2020-M-ITF-GRE-09A-2020,M15 Heraklion,Hard,32,15,20201026,110,200436,,,Zsombor Piros,R,,HUN,21.0376454483,144742,,Q,Michal Dembek,U,,POL,23.2197125257,6-4 1-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,423,85,657,33
 2020-M-ITF-GRE-09A-2020,M15 Heraklion,Hard,32,15,20201026,111,123993,,,Lucas Gerch,U,,GER,25.8507871321,133018,,,Michail Pervolarakis,R,,CYP,24.3887748118,6-7(7) 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,456,77,447,80
 2020-M-ITF-GRE-09A-2020,M15 Heraklion,Hard,32,15,20201026,112,123896,3,,Matija Pecotic,U,,CRO,31.3155373032,144701,,,Mathieu Perchicot,U,,FRA,28.1615331964,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,340,121,454,78
@@ -1899,13 +1899,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-M-ITF-GRE-09A-2020,M15 Heraklion,Hard,32,15,20201026,202,106377,,Q,Robin Stanek,L,,CZE,25.8124572211,200385,6,,Dan Added,U,,FRA,21.5386721424,6-1 2-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,630,36,387,101
 2020-M-ITF-GRE-09A-2020,M15 Heraklion,Hard,32,15,20201026,203,145001,,Q,Evan Furness,R,,FRA,22.2039698836,200031,,,Lucas Catarina,R,,MON,24.167008898,3-6 7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,559,51,448,80
 2020-M-ITF-GRE-09A-2020,M15 Heraklion,Hard,32,15,20201026,204,200532,,Q,Vasil Kirkov,U,,USA,21.6235455168,121497,,,Mircea Alexandru Jecan,L,,ROU,32.3997262149,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,584,45,473,72
-2020-M-ITF-GRE-09A-2020,M15 Heraklion,Hard,32,15,20201026,205,209182,,,Toby Alex Kodat,R,,USA,,200436,,,Zsombor Piros,R,,HUN,21.0376454483,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,423,85
+2020-M-ITF-GRE-09A-2020,M15 Heraklion,Hard,32,15,20201026,205,209182,,,Toby Alex Kodat,R,178,USA,17.7850787132,200436,,,Zsombor Piros,R,,HUN,21.0376454483,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,423,85
 2020-M-ITF-GRE-09A-2020,M15 Heraklion,Hard,32,15,20201026,206,123896,3,,Matija Pecotic,U,,CRO,31.3155373032,123993,,,Lucas Gerch,U,,GER,25.8507871321,6-1 4-6 6-0,3,R16,,,,,,,,,,,,,,,,,,,,340,121,456,77
 2020-M-ITF-GRE-09A-2020,M15 Heraklion,Hard,32,15,20201026,207,206681,,,Fabian Marozsan,R,,HUN,21.0513347023,144984,,,Artem Dubrivnyy,R,,RUS,21.735797399,7-6(6) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,531,57,437,82
 2020-M-ITF-GRE-09A-2020,M15 Heraklion,Hard,32,15,20201026,208,202235,,,Jacopo Berrettini,U,,ITA,21.9137577002,207680,,,Facundo Diaz Acosta,L,,ARG,19.8631074606,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,486,69,412,91
 2020-M-ITF-GRE-09A-2020,M15 Heraklion,Hard,32,15,20201026,301,105590,1,,Uladzimir Ignatik,R,,BLR,30.2861054073,106377,,Q,Robin Stanek,L,,CZE,25.8124572211,7-5 6-4,3,QF,,,,,,,,,,,,,,,,,,,,331,128,630,36
 2020-M-ITF-GRE-09A-2020,M15 Heraklion,Hard,32,15,20201026,302,145001,,Q,Evan Furness,R,,FRA,22.2039698836,200532,,Q,Vasil Kirkov,U,,USA,21.6235455168,6-3 7-6(3),3,QF,,,,,,,,,,,,,,,,,,,,559,51,584,45
-2020-M-ITF-GRE-09A-2020,M15 Heraklion,Hard,32,15,20201026,303,123896,3,,Matija Pecotic,U,,CRO,31.3155373032,209182,,,Toby Alex Kodat,R,,USA,,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,340,121,,
+2020-M-ITF-GRE-09A-2020,M15 Heraklion,Hard,32,15,20201026,303,123896,3,,Matija Pecotic,U,,CRO,31.3155373032,209182,,,Toby Alex Kodat,R,178,USA,17.7850787132,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,340,121,,
 2020-M-ITF-GRE-09A-2020,M15 Heraklion,Hard,32,15,20201026,304,206681,,,Fabian Marozsan,R,,HUN,21.0513347023,202235,,,Jacopo Berrettini,U,,ITA,21.9137577002,7-6(1) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,531,57,486,69
 2020-M-ITF-GRE-09A-2020,M15 Heraklion,Hard,32,15,20201026,401,145001,,Q,Evan Furness,R,,FRA,22.2039698836,105590,1,,Uladzimir Ignatik,R,,BLR,30.2861054073,6-4 6-1,3,SF,,,,,,,,,,,,,,,,,,,,559,51,331,128
 2020-M-ITF-GRE-09A-2020,M15 Heraklion,Hard,32,15,20201026,402,123896,3,,Matija Pecotic,U,,CRO,31.3155373032,206681,,,Fabian Marozsan,R,,HUN,21.0513347023,6-4 6-7(3) 6-2,3,SF,,,,,,,,,,,,,,,,,,,,340,121,531,57
@@ -1942,7 +1942,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-M-ITF-GRE-10A-2020,M15 Heraklion,Hard,32,15,20201102,402,145001,,SE,Evan Furness,R,,FRA,22.2231348392,209506,,,Francesco Forti,R,,ITA,21.273100616,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,560,51,429,85
 2020-M-ITF-GRE-10A-2020,M15 Heraklion,Hard,32,15,20201102,501,145001,,SE,Evan Furness,R,,FRA,22.2231348392,200031,,,Lucas Catarina,R,,MON,24.1861738535,6-1 2-6 7-5,3,F,,,,,,,,,,,,,,,,,,,,560,51,448,80
 2020-M-ITF-GRE-11A-2020,M15 Heraklion,Hard,32,15,20201109,101,202065,,WC,Petros Tsitsipas,U,,GRE,20.2874743326,105590,1,,Uladzimir Ignatik,R,,BLR,30.3244353183,6-3 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1023,10,327,130
-2020-M-ITF-GRE-11A-2020,M15 Heraklion,Hard,32,15,20201109,102,127123,,Q,Mateus Alves,R,,BRA,19.794661191,209182,,,Toby Alex Kodat,R,,USA,,6-2 3-6 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2020-M-ITF-GRE-11A-2020,M15 Heraklion,Hard,32,15,20201109,102,127123,,Q,Mateus Alves,R,,BRA,19.794661191,209182,,,Toby Alex Kodat,R,178,USA,17.8234086242,6-2 3-6 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2020-M-ITF-GRE-11A-2020,M15 Heraklion,Hard,32,15,20201109,103,123854,,Q,Luke Johnson,R,,GBR,26.6475017112,109737,,WC,Markos Kalovelonis,R,,GRE,26.4804928131,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,678,31,720,27
 2020-M-ITF-GRE-11A-2020,M15 Heraklion,Hard,32,15,20201109,104,110751,,,Sebastian Fanselow,U,,GER,28.8624229979,122548,5,,Edan Leshem,U,,ISR,23.6440793977,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,425,86,366,110
 2020-M-ITF-GRE-11A-2020,M15 Heraklion,Hard,32,15,20201109,105,206470,,Q,Cezar Cretu,U,,ROU,19.5455167693,111506,4,,Maxime Hamou,R,,FRA,25.4236824093,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,881,15,363,112
@@ -2006,7 +2006,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-M-ITF-GRE-13A-2020,M15 Heraklion,Hard,32,15,20201123,102,127123,,,Mateus Alves,R,,BRA,19.832991102,202065,,WC,Petros Tsitsipas,U,,GRE,20.3258042437,4-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,992,11
 2020-M-ITF-GRE-13A-2020,M15 Heraklion,Hard,32,15,20201123,103,209851,,LL,Henry Patten,L,,GBR,24.5503080082,200242,,,Mick Veldheer,L,,NED,24.6351813826,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1254,4,529,60
 2020-M-ITF-GRE-13A-2020,M15 Heraklion,Hard,32,15,20201123,104,200532,,,Vasil Kirkov,U,,USA,21.7002053388,200031,7,,Lucas Catarina,R,,MON,24.2436687201,2-6 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,575,48,419,90
-2020-M-ITF-GRE-13A-2020,M15 Heraklion,Hard,32,15,20201123,105,208103,4,,Jiri Lehecka,R,,CZE,19.0417522245,209182,,,Toby Alex Kodat,R,,USA,,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,359,114,,
+2020-M-ITF-GRE-13A-2020,M15 Heraklion,Hard,32,15,20201123,105,208103,4,,Jiri Lehecka,R,,CZE,19.0417522245,209182,,,Toby Alex Kodat,R,178,USA,17.8617385352,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,359,114,,
 2020-M-ITF-GRE-13A-2020,M15 Heraklion,Hard,32,15,20201123,106,200647,,,Sho Shimabukuro,U,,JPN,23.318275154,208372,,,Natan Rodrigues,U,,BRA,18.8062970568,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,464,75,1962,1
 2020-M-ITF-GRE-13A-2020,M15 Heraklion,Hard,32,15,20201123,107,123993,,,Lucas Gerch,U,,GER,25.9274469541,109737,,WC,Markos Kalovelonis,R,,GRE,26.5188227242,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,452,79,724,27
 2020-M-ITF-GRE-13A-2020,M15 Heraklion,Hard,32,15,20201123,108,207605,,Q,Jakub Paul,R,,SUI,21.6755646817,133018,8,,Michail Pervolarakis,R,,CYP,24.4654346338,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,670,32,449,80
@@ -2519,7 +2519,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-M-ITF-POR-01A-2020,M15 Vale Do Lobo,Hard,32,15,20200224,107,208156,,LL,Terence Das,U,,IND,18.0670773443,206225,,WC,Fabio Coelho,R,,POR,19.7535934292,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1918,1,1298,4
 2020-M-ITF-POR-01A-2020,M15 Vale Do Lobo,Hard,32,15,20200224,108,110751,5,,Sebastian Fanselow,U,,GER,28.1533196441,132741,,,Albert Roglan,U,,ESP,21.2813141684,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,522,53,888,14
 2020-M-ITF-POR-01A-2020,M15 Vale Do Lobo,Hard,32,15,20200224,109,132310,6,,Tiago Cacao,R,,POR,21.9876796715,126129,,,Billy Harris,U,,GBR,25.0814510609,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,579,41,817,17
-2020-M-ITF-POR-01A-2020,M15 Vale Do Lobo,Hard,32,15,20200224,110,207732,,Q,Miguel Damas,U,,ESP,20.1779603012,209355,,,Timo Legout,R,,FRA,,2-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1212,5,1587,1
+2020-M-ITF-POR-01A-2020,M15 Vale Do Lobo,Hard,32,15,20200224,110,207732,,Q,Miguel Damas,U,,ESP,20.1779603012,209355,,,Timo Legout,R,,FRA,17.9520876112,2-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1212,5,1587,1
 2020-M-ITF-POR-01A-2020,M15 Vale Do Lobo,Hard,32,15,20200224,111,134329,,,Blake Ellis,U,,AUS,21.1334702259,122346,,LL,Riaan Du Toit,R,,CAN,25.8617385352,6-4 6-7(4) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,991,10,1525,2
 2020-M-ITF-POR-01A-2020,M15 Vale Do Lobo,Hard,32,15,20200224,112,105974,3,,Maverick Banes,R,,AUS,27.8740588638,126450,,,Nicolo Turchetti,R,,ITA,23.7399041752,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,499,59,750,22
 2020-M-ITF-POR-01A-2020,M15 Vale Do Lobo,Hard,32,15,20200224,113,134457,7,,Nicolas Moreno De Alboran,U,,ESP,22.6146475017,109307,,,Luis Faria,R,,BRA,20.605065024,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,591,39,774,20
@@ -2550,7 +2550,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-M-ITF-POR-02A-2020,M15 Faro,Hard,32,15,20200302,107,209279,,,Terence Atmane,L,,FRA,,131912,,,Ronan Joncour,L,,FRA,23.0937713895,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1421,2,652,31
 2020-M-ITF-POR-02A-2020,M15 Faro,Hard,32,15,20200302,108,145001,7,,Evan Furness,R,,FRA,21.5523613963,208426,,WC,Tiago Torres,U,,POR,17.6509240246,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,556,47,,
 2020-M-ITF-POR-02A-2020,M15 Faro,Hard,32,15,20200302,109,209070,,,Arthur Cazaux,R,,FRA,17.5249828884,105974,5,,Maverick Banes,R,,AUS,27.8932238193,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1082,7,503,59
-2020-M-ITF-POR-02A-2020,M15 Faro,Hard,32,15,20200302,110,209355,,,Timo Legout,R,,FRA,,126450,,,Nicolo Turchetti,R,,ITA,23.7590691307,7-6(6) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1444,2,753,22
+2020-M-ITF-POR-02A-2020,M15 Faro,Hard,32,15,20200302,110,209355,,,Timo Legout,R,,FRA,17.9712525667,126450,,,Nicolo Turchetti,R,,ITA,23.7590691307,7-6(6) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1444,2,753,22
 2020-M-ITF-POR-02A-2020,M15 Faro,Hard,32,15,20200302,111,202128,,Q,Louis Dussin,R,,FRA,20.6707734428,134329,,Q,Blake Ellis,U,,AUS,21.1526351814,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1057,8,996,10
 2020-M-ITF-POR-02A-2020,M15 Faro,Hard,32,15,20200302,112,106120,4,,Ricardo Ojeda Lara,R,,ESP,27.0965092402,105102,,WC,Goncalo Falcao,R,,POR,32.0246406571,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,472,65,1288,4
 2020-M-ITF-POR-02A-2020,M15 Faro,Hard,32,15,20200302,113,132310,8,,Tiago Cacao,R,,POR,22.006844627,134457,,,Nicolas Moreno De Alboran,U,,ESP,22.6338124572,6-4 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,583,41,595,39
@@ -2561,13 +2561,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-M-ITF-POR-02A-2020,M15 Faro,Hard,32,15,20200302,202,110751,6,,Sebastian Fanselow,U,,GER,28.1724845996,111459,,,Arjun Kadhe,R,,IND,26.1492128679,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,527,53,669,29
 2020-M-ITF-POR-02A-2020,M15 Faro,Hard,32,15,20200302,203,132744,,Q,Alberto Barroso Campos,R,,ESP,23.742642026,104963,3,,Yannick Mertens,R,,BEL,32.6872005476,6-7(4) 7-6(2) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,863,15,466,66
 2020-M-ITF-POR-02A-2020,M15 Faro,Hard,32,15,20200302,204,145001,7,,Evan Furness,R,,FRA,21.5523613963,209279,,,Terence Atmane,L,,FRA,,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,556,47,1421,2
-2020-M-ITF-POR-02A-2020,M15 Faro,Hard,32,15,20200302,205,209355,,,Timo Legout,R,,FRA,,209070,,,Arthur Cazaux,R,,FRA,17.5249828884,0-6 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1444,2,1082,7
+2020-M-ITF-POR-02A-2020,M15 Faro,Hard,32,15,20200302,205,209355,,,Timo Legout,R,,FRA,17.9712525667,209070,,,Arthur Cazaux,R,,FRA,17.5249828884,0-6 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1444,2,1082,7
 2020-M-ITF-POR-02A-2020,M15 Faro,Hard,32,15,20200302,206,106120,4,,Ricardo Ojeda Lara,R,,ESP,27.0965092402,202128,,Q,Louis Dussin,R,,FRA,20.6707734428,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,472,65,1057,8
 2020-M-ITF-POR-02A-2020,M15 Faro,Hard,32,15,20200302,207,132310,8,,Tiago Cacao,R,,POR,22.006844627,133844,,,Guy Den Heijer,U,,NED,22.9240246407,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,583,41,796,19
 2020-M-ITF-POR-02A-2020,M15 Faro,Hard,32,15,20200302,208,144701,2,,Mathieu Perchicot,U,,FRA,27.5099247091,126530,,,Peter Bothwell,R,,IRL,24.4271047228,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,436,76,818,18
 2020-M-ITF-POR-02A-2020,M15 Faro,Hard,32,15,20200302,301,110751,6,,Sebastian Fanselow,U,,GER,28.1724845996,109686,1,,Riccardo Bonadio,U,,ITA,26.636550308,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,527,53,404,85
 2020-M-ITF-POR-02A-2020,M15 Faro,Hard,32,15,20200302,302,145001,7,,Evan Furness,R,,FRA,21.5523613963,132744,,Q,Alberto Barroso Campos,R,,ESP,23.742642026,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,556,47,863,15
-2020-M-ITF-POR-02A-2020,M15 Faro,Hard,32,15,20200302,303,106120,4,,Ricardo Ojeda Lara,R,,ESP,27.0965092402,209355,,,Timo Legout,R,,FRA,,6-2 4-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,472,65,1444,2
+2020-M-ITF-POR-02A-2020,M15 Faro,Hard,32,15,20200302,303,106120,4,,Ricardo Ojeda Lara,R,,ESP,27.0965092402,209355,,,Timo Legout,R,,FRA,17.9712525667,6-2 4-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,472,65,1444,2
 2020-M-ITF-POR-02A-2020,M15 Faro,Hard,32,15,20200302,304,132310,8,,Tiago Cacao,R,,POR,22.006844627,144701,2,,Mathieu Perchicot,U,,FRA,27.5099247091,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,583,41,436,76
 2020-M-ITF-POR-02A-2020,M15 Faro,Hard,32,15,20200302,401,110751,6,,Sebastian Fanselow,U,,GER,28.1724845996,145001,7,,Evan Furness,R,,FRA,21.5523613963,6-4 6-0,3,SF,,,,,,,,,,,,,,,,,,,,527,53,556,47
 2020-M-ITF-POR-02A-2020,M15 Faro,Hard,32,15,20200302,402,132310,8,,Tiago Cacao,R,,POR,22.006844627,106120,4,,Ricardo Ojeda Lara,R,,ESP,27.0965092402,6-2 7-6(4),3,SF,,,,,,,,,,,,,,,,,,,,583,41,472,65
@@ -2599,7 +2599,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-M-ITF-POR-07A-2020,M15 Sintra,Hard,32,15,20200907,101,105751,1,,Roberto Ortega Olmedo,U,,ESP,29.3826146475,131911,,,Lucas Poullain,U,,FRA,24.7392197125,6-7(4) 7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,276,166,540,51
 2020-M-ITF-POR-07A-2020,M15 Sintra,Hard,32,15,20200907,102,200374,,Q,Nicolas Alvarez Varona,U,,ESP,19.2881587953,202197,,,Carlos Gimeno Valero,U,,ESP,19.1841204654,3-6 6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,627,35,578,43
 2020-M-ITF-POR-07A-2020,M15 Sintra,Hard,32,15,20200907,103,122368,,WC,Joao Monteiro,U,,POR,26.6776180698,202275,,,Fermin Tenti,U,,ARG,23.2142368241,6-3 6-7(7) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,932,12,577,44
-2020-M-ITF-POR-07A-2020,M15 Sintra,Hard,32,15,20200907,104,106120,6,,Ricardo Ojeda Lara,R,,ESP,27.5947980835,209920,,,Raphael Collignon,U,,BEL,,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,440,78,,
+2020-M-ITF-POR-07A-2020,M15 Sintra,Hard,32,15,20200907,104,106120,6,,Ricardo Ojeda Lara,R,,ESP,27.5947980835,209920,,,Raphael Collignon,U,,BEL,18.6310746064,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,440,78,,
 2020-M-ITF-POR-07A-2020,M15 Sintra,Hard,32,15,20200907,105,132686,,WC,Nuno Borges,R,,POR,23.5290896646,126106,4,,Ryan Peniston,U,,GBR,24.8076659822,6-4 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,598,39,394,93
 2020-M-ITF-POR-07A-2020,M15 Sintra,Hard,32,15,20200907,106,127123,,Q,Mateus Alves,R,,BRA,19.6030116359,105814,,Q,Maximilian Neuchrist,R,,AUT,29.1115674196,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,620,36
 2020-M-ITF-POR-07A-2020,M15 Sintra,Hard,32,15,20200907,107,202125,,Q,Benjamin Pietri,U,,FRA,24.0848733744,132310,,,Tiago Cacao,R,,POR,22.5051334702,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,782,21,546,51
@@ -2788,7 +2788,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-M-ITF-POR-13A-2020,M15 Quinta Do Lago,Hard,32,15,20201102,104,144821,7,,Genaro Alberto Olivieri,U,,ARG,22.2477754962,208426,,LL,Tiago Torres,U,,POR,18.3216974675,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,408,93,,
 2020-M-ITF-POR-13A-2020,M15 Quinta Do Lago,Hard,32,15,20201102,105,133450,,Q,David Volfson,R,,CAN,23.1348391513,126939,3,,Khumoun Sultanov,R,,UZB,22.0177960301,6-3 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,866,16,322,132
 2020-M-ITF-POR-13A-2020,M15 Quinta Do Lago,Hard,32,15,20201102,106,208286,,Q,Harry Thursfield,U,,GBR,19.8412046543,144919,,Q,Yann Wojcik,U,,SUI,23.9260780287,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1039,9,1435,3
-2020-M-ITF-POR-13A-2020,M15 Quinta Do Lago,Hard,32,15,20201102,107,209259,,,Arthur Fery,R,,GBR,,132575,,Q,Raphael Baltensperger,R,,SUI,22.8747433265,6-2 1-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,1203,5,882,15
+2020-M-ITF-POR-13A-2020,M15 Quinta Do Lago,Hard,32,15,20201102,107,209259,,,Arthur Fery,R,,GBR,18.3107460643,132575,,Q,Raphael Baltensperger,R,,SUI,22.8747433265,6-2 1-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,1203,5,882,15
 2020-M-ITF-POR-13A-2020,M15 Quinta Do Lago,Hard,32,15,20201102,108,105938,5,,Antoine Escoffier,U,,FRA,28.6762491444,206225,,WC,Fabio Coelho,R,,POR,20.4435318275,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,388,101,1322,4
 2020-M-ITF-POR-13A-2020,M15 Quinta Do Lago,Hard,32,15,20201102,109,110751,8,,Sebastian Fanselow,U,,GER,28.8432580424,132310,,,Tiago Cacao,R,,POR,22.6776180698,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,423,86,536,56
 2020-M-ITF-POR-13A-2020,M15 Quinta Do Lago,Hard,32,15,20201102,110,109307,,,Luis Faria,R,,BRA,21.2950034223,104905,,,Nicolas Barrientos,R,175,COL,33.5277207392,6-2 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,808,20,788,21
@@ -2801,7 +2801,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-M-ITF-POR-13A-2020,M15 Quinta Do Lago,Hard,32,15,20201102,201,122368,,WC,Joao Monteiro,U,,POR,26.8501026694,105634,1,,Viktor Galovic,R,,ITA,30.12183436,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,883,15,280,177
 2020-M-ITF-POR-13A-2020,M15 Quinta Do Lago,Hard,32,15,20201102,202,132686,,,Nuno Borges,R,,POR,23.7015742642,144821,7,,Genaro Alberto Olivieri,U,,ARG,22.2477754962,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,458,76,408,93
 2020-M-ITF-POR-13A-2020,M15 Quinta Do Lago,Hard,32,15,20201102,203,208286,,Q,Harry Thursfield,U,,GBR,19.8412046543,133450,,Q,David Volfson,R,,CAN,23.1348391513,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1039,9,866,16
-2020-M-ITF-POR-13A-2020,M15 Quinta Do Lago,Hard,32,15,20201102,204,105938,5,,Antoine Escoffier,U,,FRA,28.6762491444,209259,,,Arthur Fery,R,,GBR,,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,388,101,1203,5
+2020-M-ITF-POR-13A-2020,M15 Quinta Do Lago,Hard,32,15,20201102,204,105938,5,,Antoine Escoffier,U,,FRA,28.6762491444,209259,,,Arthur Fery,R,,GBR,18.3107460643,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,388,101,1203,5
 2020-M-ITF-POR-13A-2020,M15 Quinta Do Lago,Hard,32,15,20201102,205,110751,8,,Sebastian Fanselow,U,,GER,28.8432580424,109307,,,Luis Faria,R,,BRA,21.2950034223,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,423,86,808,20
 2020-M-ITF-POR-13A-2020,M15 Quinta Do Lago,Hard,32,15,20201102,206,105738,4,,Tsung Hua Yang,R,,TPE,29.5989048597,134472,,,Antoine Bellier,U,,SUI,24.0410677618,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,364,111,546,53
 2020-M-ITF-POR-13A-2020,M15 Quinta Do Lago,Hard,32,15,20201102,207,126107,6,PR,Michael Geerts,R,,BEL,25.7932922656,109694,,WC,Pedro Araujo,R,,POR,45.9466119097,7-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,,393,99,1435,3
@@ -2906,7 +2906,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-M-ITF-RSA-01A-2020,M25 Potchefstroom,Hard,32,25,20200302,105,126127,3,,Benjamin Bonzi,R,,FRA,23.7289527721,202477,,Q,Milan Radojkovic,U,,SRB,18.3682409309,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,236,204,,
 2020-M-ITF-RSA-01A-2020,M25 Potchefstroom,Hard,32,25,20200302,106,207813,,WC,Robbie Arends,U,,RSA,18.2669404517,139052,,Q,Muzingaye Dickson Andile Sibanda,U,,ZIM,22.3983572895,6-0 4-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,1820,1
 2020-M-ITF-RSA-01A-2020,M25 Potchefstroom,Hard,32,25,20200302,107,200242,,,Mick Veldheer,L,,NED,23.9069130732,208669,,Q,Mikaeel Woodman,U,,RSA,16.7556468172,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,518,56,,
-2020-M-ITF-RSA-01A-2020,M25 Potchefstroom,Hard,32,25,20200302,108,207518,5,,Lorenzo Musetti,R,,ITA,17.9986310746,209879,,Q,Luc Koenig,U,,RSA,,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,286,148,,
+2020-M-ITF-RSA-01A-2020,M25 Potchefstroom,Hard,32,25,20200302,108,207518,5,,Lorenzo Musetti,R,185,ITA,17.9986310746,209879,,Q,Luc Koenig,U,,RSA,,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,286,148,,
 2020-M-ITF-RSA-01A-2020,M25 Potchefstroom,Hard,32,25,20200302,109,120775,7,,Sadio Doumbia,U,,FRA,29.4702258727,132023,,,Jean Thirouin,U,,USA,22.4531143053,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,394,88,624,35
 2020-M-ITF-RSA-01A-2020,M25 Potchefstroom,Hard,32,25,20200302,110,122471,,,Danylo Kalenichenko,U,,UKR,26.0780287474,209280,,Q,Devin Badenhorst,R,,RSA,15.7837097878,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,502,59,,
 2020-M-ITF-RSA-01A-2020,M25 Potchefstroom,Hard,32,25,20200302,111,106168,,,Sidharth Rawat,U,,IND,26.8637919233,207568,,,Baran Cengiz,U,,TUR,18.7761806982,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,442,74,1128,6
@@ -2918,7 +2918,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-M-ITF-RSA-01A-2020,M25 Potchefstroom,Hard,32,25,20200302,201,106353,1,,Pedja Krstin,R,,SRB,25.4948665298,206776,,WC,Pierre Malan,U,,RSA,19.0088980151,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,239,203,,
 2020-M-ITF-RSA-01A-2020,M25 Potchefstroom,Hard,32,25,20200302,202,200188,8,,Matteo Martineau,U,,FRA,21.1252566735,209281,,,Dylan Salton,U,,RSA,17.4784394251,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,437,76,1477,2
 2020-M-ITF-RSA-01A-2020,M25 Potchefstroom,Hard,32,25,20200302,203,126127,3,,Benjamin Bonzi,R,,FRA,23.7289527721,207813,,WC,Robbie Arends,U,,RSA,18.2669404517,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,236,204,,
-2020-M-ITF-RSA-01A-2020,M25 Potchefstroom,Hard,32,25,20200302,204,200242,,,Mick Veldheer,L,,NED,23.9069130732,207518,5,,Lorenzo Musetti,R,,ITA,17.9986310746,6-4 2-6 6-0,3,R16,,,,,,,,,,,,,,,,,,,,518,56,286,148
+2020-M-ITF-RSA-01A-2020,M25 Potchefstroom,Hard,32,25,20200302,204,200242,,,Mick Veldheer,L,,NED,23.9069130732,207518,5,,Lorenzo Musetti,R,185,ITA,17.9986310746,6-4 2-6 6-0,3,R16,,,,,,,,,,,,,,,,,,,,518,56,286,148
 2020-M-ITF-RSA-01A-2020,M25 Potchefstroom,Hard,32,25,20200302,205,120775,7,,Sadio Doumbia,U,,FRA,29.4702258727,122471,,,Danylo Kalenichenko,U,,UKR,26.0780287474,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,394,88,502,59
 2020-M-ITF-RSA-01A-2020,M25 Potchefstroom,Hard,32,25,20200302,206,105751,4,,Roberto Ortega Olmedo,U,,ESP,28.8843258042,106168,,,Sidharth Rawat,U,,IND,26.8637919233,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,273,166,442,74
 2020-M-ITF-RSA-01A-2020,M25 Potchefstroom,Hard,32,25,20200302,207,144656,6,,Corentin Denolly,L,,FRA,22.7378507871,124167,,,Vaughn Hunter,L,,RSA,25.4483230664,3-6 7-6(2) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,327,120,1181,5
@@ -3078,13 +3078,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-M-ITF-SVK-01A-2020,M15 Trnava,Hard,32,15,20200224,401,122471,4,,Danylo Kalenichenko,U,,UKR,26.0588637919,127760,1,,Lukas Klein,R,,SVK,21.9274469541,6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,501,59,310,129
 2020-M-ITF-SVK-01A-2020,M15 Trnava,Hard,32,15,20200224,402,209866,,,Karlis Ozolins,R,,LVA,,126964,7,,Vitaliy Sachko,R,,UKR,22.6146475017,6-3 7-5,3,SF,,,,,,,,,,,,,,,,,,,,,,545,48
 2020-M-ITF-SVK-01A-2020,M15 Trnava,Hard,32,15,20200224,501,122471,4,,Danylo Kalenichenko,U,,UKR,26.0588637919,209866,,,Karlis Ozolins,R,,LVA,,6-4 6-4,3,F,,,,,,,,,,,,,,,,,,,,501,59,,
-2020-M-ITF-SVK-06A-2020,M15 Bratislava,Hard,32,15,20201123,101,209209,,Q,Filip Misolic,R,,AUT,19.2936344969,209930,,WC,Lukas Palovic,U,,SVK,,7-6(3) 3-6 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,1275,4,,
+2020-M-ITF-SVK-06A-2020,M15 Bratislava,Hard,32,15,20201123,101,209209,,Q,Filip Misolic,R,,AUT,19.2936344969,209930,,WC,Lukas Palovic,U,,SVK,18.7296372348,7-6(3) 3-6 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,1275,4,,
 2020-M-ITF-SVK-06A-2020,M15 Bratislava,Hard,32,15,20201123,102,134068,,Q,Vadym Ursu,R,,UKR,23.8932238193,202238,,WC,Tomas Vanko,U,,SVK,19.151266256,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1035,9,,
 2020-M-ITF-SVK-06A-2020,M15 Bratislava,Hard,32,15,20201123,103,122471,,,Danylo Kalenichenko,U,,UKR,26.8062970568,208134,,,Luca Nardi,R,,ITA,17.3004791239,6-4 4-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,486,70,800,20
 2020-M-ITF-SVK-06A-2020,M15 Bratislava,Hard,32,15,20201123,104,126878,7,,David Poljak,U,,CZE,24.5201916496,126151,,,Pavel Nejedly,U,,CZE,27.7754962355,6-3 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,460,77,491,69
 2020-M-ITF-SVK-06A-2020,M15 Bratislava,Hard,32,15,20201123,105,144984,4,,Artem Dubrivnyy,R,,RUS,21.8124572211,209183,,LL,Luigi Castelletti,U,,ITA,,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,442,82,1632,1
-2020-M-ITF-SVK-06A-2020,M15 Bratislava,Hard,32,15,20201123,106,202261,,,Otto Virtanen,R,,FIN,19.4250513347,209931,,WC,Lukas Pokorny,U,,SVK,,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,608,40,,
-2020-M-ITF-SVK-06A-2020,M15 Bratislava,Hard,32,15,20201123,107,209259,,,Arthur Fery,R,,GBR,,209208,,Q,Kristof Minarik,U,,SVK,,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1167,6,1539,2
+2020-M-ITF-SVK-06A-2020,M15 Bratislava,Hard,32,15,20201123,106,202261,,,Otto Virtanen,R,,FIN,19.4250513347,209931,,WC,Lukas Pokorny,U,,SVK,18.7351129363,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,608,40,,
+2020-M-ITF-SVK-06A-2020,M15 Bratislava,Hard,32,15,20201123,107,209259,,,Arthur Fery,R,,GBR,18.3682409309,209208,,Q,Kristof Minarik,U,,SVK,,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1167,6,1539,2
 2020-M-ITF-SVK-06A-2020,M15 Bratislava,Hard,32,15,20201123,108,200267,6,,Zizou Bergs,R,,BEL,21.4757015743,209857,,,Leandro Riedi,R,191,SUI,18.8227241615,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,458,77,884,15
 2020-M-ITF-SVK-06A-2020,M15 Bratislava,Hard,32,15,20201123,109,123847,5,,Bogdan Bobrov,U,,RUS,23.1868583162,209932,,WC,Michal Novansky,U,,SVK,,3-6 6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,438,84,,
 2020-M-ITF-SVK-06A-2020,M15 Bratislava,Hard,32,15,20201123,110,134545,,,Alexis Canter,U,,GBR,22.4750171116,207391,,Q,Michal Mikula,U,,POL,20.7227926078,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1027,10,1417,3
@@ -3097,7 +3097,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-M-ITF-SVK-06A-2020,M15 Bratislava,Hard,32,15,20201123,201,134068,,Q,Vadym Ursu,R,,UKR,23.8932238193,209209,,Q,Filip Misolic,R,,AUT,19.2936344969,4-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1035,9,1275,4
 2020-M-ITF-SVK-06A-2020,M15 Bratislava,Hard,32,15,20201123,202,122471,,,Danylo Kalenichenko,U,,UKR,26.8062970568,126878,7,,David Poljak,U,,CZE,24.5201916496,4-6 6-2 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,486,70,460,77
 2020-M-ITF-SVK-06A-2020,M15 Bratislava,Hard,32,15,20201123,203,144984,4,,Artem Dubrivnyy,R,,RUS,21.8124572211,202261,,,Otto Virtanen,R,,FIN,19.4250513347,2-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,442,82,608,40
-2020-M-ITF-SVK-06A-2020,M15 Bratislava,Hard,32,15,20201123,204,200267,6,,Zizou Bergs,R,,BEL,21.4757015743,209259,,,Arthur Fery,R,,GBR,,7-6(1) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,458,77,1167,6
+2020-M-ITF-SVK-06A-2020,M15 Bratislava,Hard,32,15,20201123,204,200267,6,,Zizou Bergs,R,,BEL,21.4757015743,209259,,,Arthur Fery,R,,GBR,18.3682409309,7-6(1) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,458,77,1167,6
 2020-M-ITF-SVK-06A-2020,M15 Bratislava,Hard,32,15,20201123,205,123847,5,,Bogdan Bobrov,U,,RUS,23.1868583162,134545,,,Alexis Canter,U,,GBR,22.4750171116,0-6 7-5 7-5,3,R16,,,,,,,,,,,,,,,,,,,,438,84,1027,10
 2020-M-ITF-SVK-06A-2020,M15 Bratislava,Hard,32,15,20201123,206,105778,3,,Tobias Simon,R,,GER,29.5195071869,207844,,,Tomas Jirousek,R,,CZE,20.887063655,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,404,95,828,19
 2020-M-ITF-SVK-06A-2020,M15 Bratislava,Hard,32,15,20201123,207,200309,8,,Marek Gengel,R,,CZE,25.1854893908,207649,,,Savriyan Danilov,R,,RUS,20.4736481862,7-6(5) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,463,76,583,46
@@ -3362,7 +3362,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-M-ITF-TUN-07A-2020,M15 Monastir,Hard,32,15,20200217,103,105369,,,Riccardo Maiga,R,,SUI,30.6201232033,106333,,Q,Julien Cagnina,R,,BEL,25.7056810404,6-3 4-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,760,21,918,12
 2020-M-ITF-TUN-07A-2020,M15 Monastir,Hard,32,15,20200217,104,207391,,Q,Michal Mikula,U,,POL,19.9561943874,106322,5,,David Perez Sanz,U,,ESP,25.7604380561,7-6(5) 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1530,2,738,23
 2020-M-ITF-TUN-07A-2020,M15 Monastir,Hard,32,15,20200217,105,200374,4,,Nicolas Alvarez Varona,U,,ESP,18.7515400411,202150,,,Dan Alexandru Tomescu,U,,ROU,20.887063655,6-7(5) 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,695,26,747,22
-2020-M-ITF-TUN-07A-2020,M15 Monastir,Hard,32,15,20200217,106,209355,,,Timo Legout,R,,FRA,,206137,,PR,Andrej Glvac,U,,SVK,23.0444900753,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1580,1,1411,3
+2020-M-ITF-TUN-07A-2020,M15 Monastir,Hard,32,15,20200217,106,209355,,,Timo Legout,R,,FRA,17.9329226557,206137,,PR,Andrej Glvac,U,,SVK,23.0444900753,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1580,1,1411,3
 2020-M-ITF-TUN-07A-2020,M15 Monastir,Hard,32,15,20200217,107,121411,,,Moez Chargui,R,,TUN,27.1019849418,126280,,,Aziz Kijametovic,R,,BIH,23.4606433949,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,903,13,941,11
 2020-M-ITF-TUN-07A-2020,M15 Monastir,Hard,32,15,20200217,108,200007,7,,Quentin Folliot,U,,FRA,21.1307323751,207852,,,Wai Yu Kai,R,,HKG,18.9130732375,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,722,24,,
 2020-M-ITF-TUN-07A-2020,M15 Monastir,Hard,32,15,20200217,109,200297,,WC,Aziz Ouakaa,U,,TUN,20.5311430527,200594,6,,Kristian Lozan,U,,RUS,21.311430527,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,912,13,703,26
@@ -3375,7 +3375,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-M-ITF-TUN-07A-2020,M15 Monastir,Hard,32,15,20200217,116,145014,2,,Thomas Laurent,R,,FRA,22.1711156742,111172,,,Hugo Schott,U,,FRA,23.4496919918,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,551,46,930,12
 2020-M-ITF-TUN-07A-2020,M15 Monastir,Hard,32,15,20200217,201,202125,,,Benjamin Pietri,U,,FRA,23.5482546201,200259,,,Ugo Blanchet,U,,FRA,21.1170431211,6-2 4-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,940,12,883,14
 2020-M-ITF-TUN-07A-2020,M15 Monastir,Hard,32,15,20200217,202,105369,,,Riccardo Maiga,R,,SUI,30.6201232033,207391,,Q,Michal Mikula,U,,POL,19.9561943874,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,760,21,1530,2
-2020-M-ITF-TUN-07A-2020,M15 Monastir,Hard,32,15,20200217,203,200374,4,,Nicolas Alvarez Varona,U,,ESP,18.7515400411,209355,,,Timo Legout,R,,FRA,,6-2 6-7(9) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,695,26,1580,1
+2020-M-ITF-TUN-07A-2020,M15 Monastir,Hard,32,15,20200217,203,200374,4,,Nicolas Alvarez Varona,U,,ESP,18.7515400411,209355,,,Timo Legout,R,,FRA,17.9329226557,6-2 6-7(9) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,695,26,1580,1
 2020-M-ITF-TUN-07A-2020,M15 Monastir,Hard,32,15,20200217,204,200007,7,,Quentin Folliot,U,,FRA,21.1307323751,121411,,,Moez Chargui,R,,TUN,27.1019849418,6-2 6-7(4) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,722,24,903,13
 2020-M-ITF-TUN-07A-2020,M15 Monastir,Hard,32,15,20200217,205,106388,,WC,Pak Long Yeung,R,,HKG,25.0075290897,200297,,WC,Aziz Ouakaa,U,,TUN,20.5311430527,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1109,7,912,13
 2020-M-ITF-TUN-07A-2020,M15 Monastir,Hard,32,15,20200217,206,200176,3,,Manish Sureshkumar,R,,IND,20.514715948,111801,,,Rishab Agarwal,R,,IND,24.2026009582,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,657,30,924,12
@@ -3987,7 +3987,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-M-ITF-TUR-04A-2020,M15 Antalya,Clay,32,15,20200127,113,207608,8,,Timofey Skatov,R,,RUS,18.9952087611,208301,,Q,Gustaf Strom,U,,SWE,18.3271731691,2-6 7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,579,41,1667,1
 2020-M-ITF-TUR-04A-2020,M15 Antalya,Clay,32,15,20200127,114,106009,,Q,Justin Eleveld,R,,NED,27.65229295,125833,,WC,Mert Naci Turker,U,,TUR,21.4291581109,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,971,10,,
 2020-M-ITF-TUR-04A-2020,M15 Antalya,Clay,32,15,20200127,115,126854,,Q,Tristan Meraut,R,,FRA,24.0657084189,207378,,WC,Berk Ilkel,U,,TUR,18.4804928131,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1498,2,1755,1
-2020-M-ITF-TUR-04A-2020,M15 Antalya,Clay,32,15,20200127,116,207989,2,,Carlos Alcaraz Garfia,R,,ESP,16.7118412047,207491,,,Sandro Kopp,U,,AUT,19.65229295,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,446,70,802,18
+2020-M-ITF-TUR-04A-2020,M15 Antalya,Clay,32,15,20200127,116,207989,2,,Carlos Alcaraz Garfia,R,185,ESP,16.7118412047,207491,,,Sandro Kopp,U,,AUT,19.65229295,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,446,70,802,18
 2020-M-ITF-TUR-04A-2020,M15 Antalya,Clay,32,15,20200127,201,200436,1,,Zsombor Piros,R,,HUN,20.2710472279,206923,,,Shinji Hazawa,R,,JPN,20.7748117728,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,420,79,853,15
 2020-M-ITF-TUR-04A-2020,M15 Antalya,Clay,32,15,20200127,202,105954,7,,Peter Nagy,U,,HUN,27.8439425051,106021,,,Dragos Dima,R,,ROU,27.5947980835,6-1 6-7(4) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,549,47,796,19
 2020-M-ITF-TUR-04A-2020,M15 Antalya,Clay,32,15,20200127,203,121497,3,,Mircea Alexandru Jecan,L,,ROU,31.6331279945,105559,,,Jonathan Eysseric,L,180,FRA,29.6509240246,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,455,68,685,28
@@ -3995,14 +3995,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-M-ITF-TUR-04A-2020,M15 Antalya,Clay,32,15,20200127,205,105697,6,,Marco Bortolotti,R,,ITA,28.9965776865,200216,,,Giovanni Fonio,U,,ITA,21.7056810404,6-4 5-7 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,534,50,597,39
 2020-M-ITF-TUR-04A-2020,M15 Antalya,Clay,32,15,20200127,206,200247,4,,Alexandar Lazarov,R,,BUL,22.2039698836,208277,,,Taiyo Yamanaka,U,,JPN,18.3737166324,7-6(2) 6-7(5) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,514,53,1454,2
 2020-M-ITF-TUR-04A-2020,M15 Antalya,Clay,32,15,20200127,207,207608,8,,Timofey Skatov,R,,RUS,18.9952087611,106009,,Q,Justin Eleveld,R,,NED,27.65229295,5-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,579,41,971,10
-2020-M-ITF-TUR-04A-2020,M15 Antalya,Clay,32,15,20200127,208,207989,2,,Carlos Alcaraz Garfia,R,,ESP,16.7118412047,126854,,Q,Tristan Meraut,R,,FRA,24.0657084189,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,446,70,1498,2
+2020-M-ITF-TUR-04A-2020,M15 Antalya,Clay,32,15,20200127,208,207989,2,,Carlos Alcaraz Garfia,R,185,ESP,16.7118412047,126854,,Q,Tristan Meraut,R,,FRA,24.0657084189,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,446,70,1498,2
 2020-M-ITF-TUR-04A-2020,M15 Antalya,Clay,32,15,20200127,301,200436,1,,Zsombor Piros,R,,HUN,20.2710472279,105954,7,,Peter Nagy,U,,HUN,27.8439425051,7-6(2) 3-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,420,79,549,47
 2020-M-ITF-TUR-04A-2020,M15 Antalya,Clay,32,15,20200127,302,123851,,,Davide Galoppini,R,,ITA,25.2402464066,121497,3,,Mircea Alexandru Jecan,L,,ROU,31.6331279945,7-6(4) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,639,33,455,68
 2020-M-ITF-TUR-04A-2020,M15 Antalya,Clay,32,15,20200127,303,200247,4,,Alexandar Lazarov,R,,BUL,22.2039698836,105697,6,,Marco Bortolotti,R,,ITA,28.9965776865,1-6 7-6(4) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,514,53,534,50
-2020-M-ITF-TUR-04A-2020,M15 Antalya,Clay,32,15,20200127,304,207989,2,,Carlos Alcaraz Garfia,R,,ESP,16.7118412047,207608,8,,Timofey Skatov,R,,RUS,18.9952087611,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,446,70,579,41
+2020-M-ITF-TUR-04A-2020,M15 Antalya,Clay,32,15,20200127,304,207989,2,,Carlos Alcaraz Garfia,R,185,ESP,16.7118412047,207608,8,,Timofey Skatov,R,,RUS,18.9952087611,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,446,70,579,41
 2020-M-ITF-TUR-04A-2020,M15 Antalya,Clay,32,15,20200127,401,200436,1,,Zsombor Piros,R,,HUN,20.2710472279,123851,,,Davide Galoppini,R,,ITA,25.2402464066,6-2 6-1,3,SF,,,,,,,,,,,,,,,,,,,,420,79,639,33
-2020-M-ITF-TUR-04A-2020,M15 Antalya,Clay,32,15,20200127,402,207989,2,,Carlos Alcaraz Garfia,R,,ESP,16.7118412047,200247,4,,Alexandar Lazarov,R,,BUL,22.2039698836,6-3 6-0,3,SF,,,,,,,,,,,,,,,,,,,,446,70,514,53
-2020-M-ITF-TUR-04A-2020,M15 Antalya,Clay,32,15,20200127,501,200436,1,,Zsombor Piros,R,,HUN,20.2710472279,207989,2,,Carlos Alcaraz Garfia,R,,ESP,16.7118412047,4-6 6-4 6-3,3,F,,,,,,,,,,,,,,,,,,,,420,79,446,70
+2020-M-ITF-TUR-04A-2020,M15 Antalya,Clay,32,15,20200127,402,207989,2,,Carlos Alcaraz Garfia,R,185,ESP,16.7118412047,200247,4,,Alexandar Lazarov,R,,BUL,22.2039698836,6-3 6-0,3,SF,,,,,,,,,,,,,,,,,,,,446,70,514,53
+2020-M-ITF-TUR-04A-2020,M15 Antalya,Clay,32,15,20200127,501,200436,1,,Zsombor Piros,R,,HUN,20.2710472279,207989,2,,Carlos Alcaraz Garfia,R,185,ESP,16.7118412047,4-6 6-4 6-3,3,F,,,,,,,,,,,,,,,,,,,,420,79,446,70
 2020-M-ITF-TUR-05A-2020,M15 Antalya,Clay,32,15,20200203,101,104729,1,,Ivan Nedelko,R,,RUS,33.7303216975,105697,,,Marco Bortolotti,R,,ITA,29.0349075975,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,312,123,528,52
 2020-M-ITF-TUR-05A-2020,M15 Antalya,Clay,32,15,20200203,102,123851,,,Davide Galoppini,R,,ITA,25.2785763176,200315,,Q,Gorazd Srbljak,L,,MKD,22.4449007529,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,654,31,1065,8
 2020-M-ITF-TUR-05A-2020,M15 Antalya,Clay,32,15,20200203,103,144703,,,Ivan Davydov,R,,RUS,23.2936344969,207685,,WC,Peter Sallay,R,,HUN,19.0663928816,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,678,28,,
@@ -4444,7 +4444,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-M-ITF-USA-04A-2020,M25 Weston FL,Clay,32,25,20200127,112,106310,4,,Alexander Ritschard,R,,SUI,25.826146475,105826,,Q,Alejandro Gomez Gb42,U,,COL,28.4353182752,4-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,346,112,545,48
 2020-M-ITF-USA-04A-2020,M25 Weston FL,Clay,32,25,20200127,113,106420,5,,Gianluigi Quinzi,L,,ITA,23.9671457906,106354,,,Eduard Esteve Lobato,R,,ESP,25.3388090349,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,381,96,482,63
 2020-M-ITF-USA-04A-2020,M25 Weston FL,Clay,32,25,20200127,114,106342,,,Martins Podzus,R,,LAT,25.5605749487,200572,,,Nick Hardt,U,,DOM,19.3319644079,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,458,67,507,55
-2020-M-ITF-USA-04A-2020,M25 Weston FL,Clay,32,25,20200127,115,209182,,WC,Toby Alex Kodat,R,,USA,,202318,,,Roy Smith,U,,USA,21.3524982888,2-6 7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,525,52
+2020-M-ITF-USA-04A-2020,M25 Weston FL,Clay,32,25,20200127,115,209182,,WC,Toby Alex Kodat,R,178,USA,17.0184804928,202318,,,Roy Smith,U,,USA,21.3524982888,2-6 7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,525,52
 2020-M-ITF-USA-04A-2020,M25 Weston FL,Clay,32,25,20200127,116,105091,2,,Peter Torebko,R,,GER,31.9425051335,208527,,Q,Zane Khan,U,,USA,17.9383983573,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,337,116,1045,8
 2020-M-ITF-USA-04A-2020,M25 Weston FL,Clay,32,25,20200127,201,200266,1,,Javier Barranco Cosano,U,,ESP,21.1745379877,105180,,Q,Daniel Dutra Da Silva,L,175,BRA,31.5427789185,7-6(3) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,300,135,574,41
 2020-M-ITF-USA-04A-2020,M25 Weston FL,Clay,32,25,20200127,202,207182,,WC,Emilio Nava,R,,USA,18.1327857632,106175,,,Ricardo Rodriguez,R,,VEN,26.7296372348,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,820,17,519,53
@@ -4453,7 +4453,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-M-ITF-USA-04A-2020,M25 Weston FL,Clay,32,25,20200127,205,126664,,,Manuel Pena Lopez,U,,ARG,21.9411362081,105578,,,Cristian Rodriguez,R,,COL,29.5742642026,6-7(3) 6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,447,70,481,63
 2020-M-ITF-USA-04A-2020,M25 Weston FL,Clay,32,25,20200127,206,106310,4,,Alexander Ritschard,R,,SUI,25.826146475,126627,,,Johan Nikles,R,,SUI,22.8281998631,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,346,112,460,67
 2020-M-ITF-USA-04A-2020,M25 Weston FL,Clay,32,25,20200127,207,106420,5,,Gianluigi Quinzi,L,,ITA,23.9671457906,106342,,,Martins Podzus,R,,LAT,25.5605749487,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,381,96,458,67
-2020-M-ITF-USA-04A-2020,M25 Weston FL,Clay,32,25,20200127,208,105091,2,,Peter Torebko,R,,GER,31.9425051335,209182,,WC,Toby Alex Kodat,R,,USA,,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,337,116,,
+2020-M-ITF-USA-04A-2020,M25 Weston FL,Clay,32,25,20200127,208,105091,2,,Peter Torebko,R,,GER,31.9425051335,209182,,WC,Toby Alex Kodat,R,178,USA,17.0184804928,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,337,116,,
 2020-M-ITF-USA-04A-2020,M25 Weston FL,Clay,32,25,20200127,301,207182,,WC,Emilio Nava,R,,USA,18.1327857632,200266,1,,Javier Barranco Cosano,U,,ESP,21.1745379877,7-6(5) 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,820,17,300,135
 2020-M-ITF-USA-04A-2020,M25 Weston FL,Clay,32,25,20200127,302,105872,3,,Christian Lindell,R,,SWE,28.167008898,105868,,,Wilson Leite,R,178,BRA,28.205338809,7-5 6-4,3,QF,,,,,,,,,,,,,,,,,,,,345,112,503,57
 2020-M-ITF-USA-04A-2020,M25 Weston FL,Clay,32,25,20200127,303,126664,,,Manuel Pena Lopez,U,,ARG,21.9411362081,106310,4,,Alexander Ritschard,R,,SUI,25.826146475,3-6 6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,447,70,346,112
@@ -4525,7 +4525,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-M-ITF-USA-06A-2020,M25 Naples FL,Clay,32,25,20200210,501,106273,8,,Ronald Slobodchikov,R,,RUS,26.1848049281,105826,,Q,Alejandro Gomez Gb42,U,,COL,28.4928131417,5-7 6-1 6-4,3,F,,,,,,,,,,,,,,,,,,,,429,74,551,46
 2020-M-ITF-USA-07A-2020,M25 Las Vegas NV,Hard,32,25,20200302,101,122351,1,,Johannes Haerteis,U,,GER,24.0246406571,126152,,,Ryan Shane,U,,USA,25.8809034908,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,345,110,618,35
 2020-M-ITF-USA-07A-2020,M25 Las Vegas NV,Hard,32,25,20200302,102,105996,,,Alex Blumenberg,U,,BRA,27.7973990418,132434,,WC,Errol Smith,U,,USA,25.711156742,6-4 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,944,12,1114,7
-2020-M-ITF-USA-07A-2020,M25 Las Vegas NV,Hard,32,25,20200302,103,200632,,,Evan Zhu,U,,USA,21.5468856947,209182,,JE,Toby Alex Kodat,R,,USA,,6-2 5-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,584,41,,
+2020-M-ITF-USA-07A-2020,M25 Las Vegas NV,Hard,32,25,20200302,103,200632,,,Evan Zhu,U,,USA,21.5468856947,209182,,JE,Toby Alex Kodat,R,178,USA,17.1334702259,6-2 5-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,584,41,,
 2020-M-ITF-USA-07A-2020,M25 Las Vegas NV,Hard,32,25,20200302,104,117365,6,,Petros Chrysochos,R,,CYP,23.8986995209,106129,,,Dragos Constantin Ignat,R,,ROU,27.0472279261,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,476,64,983,10
 2020-M-ITF-USA-07A-2020,M25 Las Vegas NV,Hard,32,25,20200302,105,111583,4,,Martin Redlicki,U,,USA,24.5229295003,209886,,Q,Jordan Sauer,U,,RSA,,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,511,58,,
 2020-M-ITF-USA-07A-2020,M25 Las Vegas NV,Hard,32,25,20200302,106,111509,,Q,Spencer Papa,R,,USA,24.3613963039,134490,,,Justin Roberts,R,,BAH,23.241615332,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1248,4,769,20

@@ -10714,7 +10714,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-ROU-16A-2006,Romania F16,Clay,32,S,20060814,13,103978,6,,Rabie Chaki,U,,MAR,24.334017796,110670,,Q,Bogdan Andrii,R,,ROU,17.1225188227,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,560,42,,
 2006-M-FU-ROU-16A-2006,Romania F16,Clay,32,S,20060814,14,109201,,Q,Ionut Mihai Beleleu,R,,ROU,19.2635181383,111599,,WC,Dragos Robert Nita,U,,ROU,20.5311430527,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2006-M-FU-ROU-16A-2006,Romania F16,Clay,32,S,20060814,15,104410,,,Andrei Mlendea,U,,ROU,22.0287474333,118985,,Q,Kamil Filali,U,,MAR,21.7467488022,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,749,21,,
-2006-M-FU-ROU-16A-2006,Romania F16,Clay,32,S,20060814,16,104149,2,,Adrian Cruciat,R,,ROU,23.3730321697,105430,,Q,Radu Albot,R,,MDA,16.7556468172,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,384,83,,
+2006-M-FU-ROU-16A-2006,Romania F16,Clay,32,S,20060814,16,104149,2,,Adrian Cruciat,R,,ROU,23.3730321697,105430,,Q,Radu Albot,R,175,MDA,16.7556468172,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,384,83,,
 2006-M-FU-ROU-16A-2006,Romania F16,Clay,32,S,20060814,17,104181,1,,Victor Ionita,R,185,ROU,23.2607802875,105204,,,Alexandru Raul Lazar,U,,ROU,17.9822039699,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,298,125,1036,8
 2006-M-FU-ROU-16A-2006,Romania F16,Clay,32,S,20060814,18,104343,,,Adrian Gavrila,R,,ROU,22.3682409309,104696,8,,Bogdan Leonte,R,,ROU,20.4353182752,7-6(1) 4-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,742,22,648,30
 2006-M-FU-ROU-16A-2006,Romania F16,Clay,32,S,20060814,19,104569,4,,Lado Chikhladze,R,,GEO,21.1635865845,120292,,Q,Calin Paar,R,,GER,17.2703627652,7-5 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,485,55,,
@@ -11228,7 +11228,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-POL-10A-2006,Poland F10,Clay,32,S,20060821,31,103748,,,Jan Minar,R,,CZE,25.3661875428,104586,2,,Lukas Rosol,R,196,CZE,21.0759753593,6-4 6-3,3,F,,,,,,,,,,,,,,,,,,,,633,31,387,80
 2006-M-FU-ROU-17A-2006,Romania F17,Clay,32,S,20060821,1,104181,1,,Victor Ionita,R,185,ROU,23.279945243,104343,,,Adrian Gavrila,R,,ROU,22.3874058864,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,306,119,746,22
 2006-M-FU-ROU-17A-2006,Romania F17,Clay,32,S,20060821,2,103806,,,Catalin Ionut Gard,R,,ROU,25.1143052704,103136,,Q,Bogdan Ivascu,R,,ROU,28.5420944559,7-6(4) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2006-M-FU-ROU-17A-2006,Romania F17,Clay,32,S,20060821,3,105204,,,Alexandru Raul Lazar,U,,ROU,18.0013689254,105430,,Q,Radu Albot,R,,MDA,16.7748117728,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1031,8,,
+2006-M-FU-ROU-17A-2006,Romania F17,Clay,32,S,20060821,3,105204,,,Alexandru Raul Lazar,U,,ROU,18.0013689254,105430,,Q,Radu Albot,R,175,MDA,16.7748117728,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1031,8,,
 2006-M-FU-ROU-17A-2006,Romania F17,Clay,32,S,20060821,4,104674,,LL,Bertram Steinberger,R,,AUT,20.5503080082,104704,6,,Victor Mugurel Anagnastopol,R,,ROU,20.4134154689,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1151,5,590,38
 2006-M-FU-ROU-17A-2006,Romania F17,Clay,32,S,20060821,5,105171,,Q,Vladyslav Klymenko,R,,UKR,18.1574264203,103969,4,,Roman Borvanov,R,,MDA,24.3915126626,6-3 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1571,1,520,50
 2006-M-FU-ROU-17A-2006,Romania F17,Clay,32,S,20060821,6,104843,,,Laurentiu Erlic,R,,ROU,19.6687200548,120293,,WC,Stanislav Shvetsov,R,,RUS,18.9678302533,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,993,9,,
@@ -13261,7 +13261,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-SA-GER-01A-2006b,Germany 1 Satellite 2,Carpet,32,S,20061002,3,105205,,WC,Frank Wintermantel,L,,GER,18.1163586585,105112,,,Marc Meigel,R,,GER,18.5790554415,6-2 5-7 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,1558,1
 2006-M-SA-GER-01A-2006b,Germany 1 Satellite 2,Carpet,32,S,20061002,4,105376,,,Peter Gojowczyk,R,185,GER,17.2156057495,105018,8,,Gerald Kamitz,R,,AUT,19.0171115674,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,844,15,1164,5
 2006-M-SA-GER-01A-2006b,Germany 1 Satellite 2,Carpet,32,S,20061002,5,104978,4,,Daniel Brands,R,196,GER,19.2114989733,120325,,,Dean Jackson,L,,GER,19.0499657769,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,563,43,1558,1
-2006-M-SA-GER-01A-2006b,Germany 1 Satellite 2,Carpet,32,S,20061002,6,105122,,,Karlis Lejnieks,R,,LAT,18.546201232,120424,,Q,Yannick Maden,U,,GER,16.9281314168,3-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1444,2,,
+2006-M-SA-GER-01A-2006b,Germany 1 Satellite 2,Carpet,32,S,20061002,6,105122,,,Karlis Lejnieks,R,,LAT,18.546201232,120424,,Q,Yannick Maden,R,185,GER,16.9281314168,3-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1444,2,,
 2006-M-SA-GER-01A-2006b,Germany 1 Satellite 2,Carpet,32,S,20061002,7,104806,,WC,Daniel Muller,R,,GER,20.0328542094,103528,,Q,Julian Gast,U,,GER,26.5571526352,7-5 1-6 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,,,1131,5
 2006-M-SA-GER-01A-2006b,Germany 1 Satellite 2,Carpet,32,S,20061002,8,104226,6,,Bastian Knittel,L,,GER,23.151266256,104885,,,Philipp Piyamongkol,U,,GER,19.5646817248,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,392,86,826,16
 2006-M-SA-GER-01A-2006b,Germany 1 Satellite 2,Carpet,32,S,20061002,9,104315,7,,Kevin Deden,R,,GER,22.6009582478,120264,,,Julian Bley,R,,GER,18.5489390828,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,707,25,1282,3
