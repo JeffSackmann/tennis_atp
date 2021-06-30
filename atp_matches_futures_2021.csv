@@ -1,5 +1,5 @@
 tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced,winner_rank,winner_rank_points,loser_rank,loser_rank_points
-2021-M-ITF-ARG-01A-2021,M15 Villa Maria,Clay,32,15,20210329,101,200116,1,,Camilo Ugo Carabelli,R,,ARG,21.7631759069,209260,,,Luciano Darderi,U,,ITA,,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,337,139,951,13
+2021-M-ITF-ARG-01A-2021,M15 Villa Maria,Clay,32,15,20210329,101,200116,1,,Camilo Ugo Carabelli,R,,ARG,21.7631759069,209260,,,Luciano Darderi,R,,ITA,19.099247091,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,337,139,951,13
 2021-M-ITF-ARG-01A-2021,M15 Villa Maria,Clay,32,15,20210329,102,209993,,WC,Victorio Marquiselli,U,,ARG,,209994,,WC,Federico Pieckenstainer,U,,ARG,,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2021-M-ITF-ARG-01A-2021,M15 Villa Maria,Clay,32,15,20210329,103,138485,,,Conner Huertas Del Pino,U,,PER,25.2539356605,206556,,Q,Lautaro Agustin Falabella,U,,ARG,23.1704312115,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,775,25,1838,1
 2021-M-ITF-ARG-01A-2021,M15 Villa Maria,Clay,32,15,20210329,104,206307,8,,Joao Lucas Reis Da Silva,R,,BRA,20.9883641342,207681,,,Francisco Comesana,R,,ARG,20.4572210815,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,557,57,763,26
@@ -34,7 +34,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-ARG-02A-2021,M15 Cordoba,Clay,32,15,20210405,102,209401,,WC,Lucio Carnevalle,U,,ARG,19.394934976,208063,,Q,Paulo Andre Saraiva Dos Santos,U,,BRA,20.7830253251,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2021-M-ITF-ARG-02A-2021,M15 Cordoba,Clay,32,15,20210405,103,208078,,WC,Tomas Farjat,U,,ARG,20.1341546886,207815,,,Guido Ivan Justo,U,,ARG,23.2991101985,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1077,9,725,30
 2021-M-ITF-ARG-02A-2021,M15 Cordoba,Clay,32,15,20210405,104,122538,7,,Nicolas Alberto Arreche,U,,ARG,26.5544147844,208913,,,Juan Bautista Torres,U,,ARG,19.0088980151,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,616,46,752,27
-2021-M-ITF-ARG-02A-2021,M15 Cordoba,Clay,32,15,20210405,105,209260,,,Luciano Darderi,U,,ITA,,206307,4,,Joao Lucas Reis Da Silva,R,,BRA,21.0266940452,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,953,13,568,55
+2021-M-ITF-ARG-02A-2021,M15 Cordoba,Clay,32,15,20210405,105,209260,,,Luciano Darderi,R,,ITA,19.1375770021,206307,4,,Joao Lucas Reis Da Silva,R,,BRA,21.0266940452,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,953,13,568,55
 2021-M-ITF-ARG-02A-2021,M15 Cordoba,Clay,32,15,20210405,106,209254,,Q,Valerio Aboian,U,,ARG,,202378,,,Ignacio Carou,U,,ARG,21.7330595483,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1683,1,910,16
 2021-M-ITF-ARG-02A-2021,M15 Cordoba,Clay,32,15,20210405,107,208262,,,Alejo Lorenzo Lingua Lavallen,L,,ARG,20.0739219713,209898,,,Dali Blanch,U,,USA,,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,721,30,1762,1
 2021-M-ITF-ARG-02A-2021,M15 Cordoba,Clay,32,15,20210405,108,200030,5,,Facundo Juarez,R,,ARG,23.5318275154,207441,,Q,Facundo Arias Bisso,U,,ARG,22.5133470226,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,575,54,1963,1
@@ -48,14 +48,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-ARG-02A-2021,M15 Cordoba,Clay,32,15,20210405,116,126183,2,,Mariano Kestelboim,R,,ARG,25.1608487337,208099,,WC,Santiago De La Fuente,U,,ARG,19.1594798084,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,549,60,,
 2021-M-ITF-ARG-02A-2021,M15 Cordoba,Clay,32,15,20210405,201,209401,,WC,Lucio Carnevalle,U,,ARG,19.394934976,125825,1,,Matias Zukas,R,,ARG,24.9199178645,6-7(7) 5-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,,,526,65
 2021-M-ITF-ARG-02A-2021,M15 Cordoba,Clay,32,15,20210405,202,208078,,WC,Tomas Farjat,U,,ARG,20.1341546886,122538,7,,Nicolas Alberto Arreche,U,,ARG,26.5544147844,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1077,9,616,46
-2021-M-ITF-ARG-02A-2021,M15 Cordoba,Clay,32,15,20210405,203,209260,,,Luciano Darderi,U,,ITA,,209254,,Q,Valerio Aboian,U,,ARG,,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,953,13,1683,1
+2021-M-ITF-ARG-02A-2021,M15 Cordoba,Clay,32,15,20210405,203,209260,,,Luciano Darderi,R,,ITA,19.1375770021,209254,,Q,Valerio Aboian,U,,ARG,,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,953,13,1683,1
 2021-M-ITF-ARG-02A-2021,M15 Cordoba,Clay,32,15,20210405,204,200030,5,,Facundo Juarez,R,,ARG,23.5318275154,208262,,,Alejo Lorenzo Lingua Lavallen,L,,ARG,20.0739219713,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,575,54,721,30
 2021-M-ITF-ARG-02A-2021,M15 Cordoba,Clay,32,15,20210405,205,207799,8,,Matheus Pucinelli De Almeida,U,,BRA,20.0109514031,122571,,,Franco Emanuel Egea,U,,ARG,25.2594113621,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,589,50,823,21
 2021-M-ITF-ARG-02A-2021,M15 Cordoba,Clay,32,15,20210405,206,144973,3,,Santiago Fa Rodriguez Taverna,R,,ARG,21.7221081451,207681,,,Francisco Comesana,R,,ARG,20.4955509925,4-6 6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,552,59,763,26
 2021-M-ITF-ARG-02A-2021,M15 Cordoba,Clay,32,15,20210405,207,106174,6,,Gonzalo Lama,R,,CHI,27.9397672827,200426,,Q,Felipe Derdoy,U,,ARG,24.1505817933,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,590,50,2022,1
 2021-M-ITF-ARG-02A-2021,M15 Cordoba,Clay,32,15,20210405,208,126183,2,,Mariano Kestelboim,R,,ARG,25.1608487337,133603,,,Benjamin Dhoe,R,,BEL,24.6242299795,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,549,60,700,32
 2021-M-ITF-ARG-02A-2021,M15 Cordoba,Clay,32,15,20210405,301,208078,,WC,Tomas Farjat,U,,ARG,20.1341546886,209401,,WC,Lucio Carnevalle,U,,ARG,19.394934976,6-1 7-6(3),3,QF,,,,,,,,,,,,,,,,,,,,1077,9,,
-2021-M-ITF-ARG-02A-2021,M15 Cordoba,Clay,32,15,20210405,302,200030,5,,Facundo Juarez,R,,ARG,23.5318275154,209260,,,Luciano Darderi,U,,ITA,,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,575,54,953,13
+2021-M-ITF-ARG-02A-2021,M15 Cordoba,Clay,32,15,20210405,302,200030,5,,Facundo Juarez,R,,ARG,23.5318275154,209260,,,Luciano Darderi,R,,ITA,19.1375770021,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,575,54,953,13
 2021-M-ITF-ARG-02A-2021,M15 Cordoba,Clay,32,15,20210405,303,207799,8,,Matheus Pucinelli De Almeida,U,,BRA,20.0109514031,144973,3,,Santiago Fa Rodriguez Taverna,R,,ARG,21.7221081451,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,589,50,552,59
 2021-M-ITF-ARG-02A-2021,M15 Cordoba,Clay,32,15,20210405,304,106174,6,,Gonzalo Lama,R,,CHI,27.9397672827,126183,2,,Mariano Kestelboim,R,,ARG,25.1608487337,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,590,50,549,60
 2021-M-ITF-ARG-02A-2021,M15 Cordoba,Clay,32,15,20210405,401,200030,5,,Facundo Juarez,R,,ARG,23.5318275154,208078,,WC,Tomas Farjat,U,,ARG,20.1341546886,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,575,54,1077,9
@@ -132,7 +132,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-BIH-03A-2021,M15 Sarajevo,Clay,32,15,20210531,111,209954,,Q,Luka Petrovic,U,,GBR,,210060,,WC,Aleksandar Mihailovic ,U,,SRB,,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1796,1,,
 2021-M-ITF-BIH-03A-2021,M15 Sarajevo,Clay,32,15,20210531,112,210075,,WC,Din Karahodza,U,,GER,,105060,4,,Aldin Setkic,R,193,BIH,33.4428473648,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,445,91
 2021-M-ITF-BIH-03A-2021,M15 Sarajevo,Clay,32,15,20210531,113,206904,7,,Gauthier Onclin,U,,BEL,20.257357974,210058,,WC,Marko Stakusic ,U,,CAN,,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,542,62,,
-2021-M-ITF-BIH-03A-2021,M15 Sarajevo,Clay,32,15,20210531,114,209875,,,Alex Barrena,U,,ARG,,117362,,,Paul Woerner,R,,GER,24.7693360712,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1383,4,786,25
+2021-M-ITF-BIH-03A-2021,M15 Sarajevo,Clay,32,15,20210531,114,209875,,,Alex Barrena,R,,ARG,18.6392881588,117362,,,Paul Woerner,R,,GER,24.7693360712,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1383,4,786,25
 2021-M-ITF-BIH-03A-2021,M15 Sarajevo,Clay,32,15,20210531,115,131888,,Q,Domagoj Biljesko,U,,CRO,23.923340178,209852,,,Zsombor Velcz,U,,HUN,,6-7(4) 6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1120,8,1312,4
 2021-M-ITF-BIH-03A-2021,M15 Sarajevo,Clay,32,15,20210531,116,106292,2,,Hernan Casanova,U,,ARG,27.3127994524,205883,,Q,Tim Heger,U,,GER,21.5961670089,6-1 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,389,112,1296,5
 2021-M-ITF-BIH-03A-2021,M15 Sarajevo,Clay,32,15,20210531,201,109734,1,,Skander Mansouri,R,,TUN,25.8562628337,106154,,,Duje Kekez,R,,CRO,28.1697467488,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,384,115,829,21
@@ -141,7 +141,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-BIH-03A-2021,M15 Sarajevo,Clay,32,15,20210531,204,124001,,,Gergely Madarasz,U,,HUN,26.6639288159,144701,5,,Mathieu Perchicot,U,,FRA,28.7556468172,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,780,25,506,73
 2021-M-ITF-BIH-03A-2021,M15 Sarajevo,Clay,32,15,20210531,205,206307,8,,Joao Lucas Reis Da Silva,R,,BRA,21.1800136893,209932,,,Michal Novansky,U,,SVK,,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,562,59,,
 2021-M-ITF-BIH-03A-2021,M15 Sarajevo,Clay,32,15,20210531,206,209954,,Q,Luka Petrovic,U,,GBR,,210075,,WC,Din Karahodza,U,,GER,,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1796,1,,
-2021-M-ITF-BIH-03A-2021,M15 Sarajevo,Clay,32,15,20210531,207,206904,7,,Gauthier Onclin,U,,BEL,20.257357974,209875,,,Alex Barrena,U,,ARG,,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,542,62,1383,4
+2021-M-ITF-BIH-03A-2021,M15 Sarajevo,Clay,32,15,20210531,207,206904,7,,Gauthier Onclin,U,,BEL,20.257357974,209875,,,Alex Barrena,R,,ARG,18.6392881588,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,542,62,1383,4
 2021-M-ITF-BIH-03A-2021,M15 Sarajevo,Clay,32,15,20210531,208,106292,2,,Hernan Casanova,U,,ARG,27.3127994524,131888,,Q,Domagoj Biljesko,U,,CRO,23.923340178,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,389,112,1120,8
 2021-M-ITF-BIH-03A-2021,M15 Sarajevo,Clay,32,15,20210531,301,207799,6,,Matheus Pucinelli De Almeida,U,,BRA,20.1642710472,109734,1,,Skander Mansouri,R,,TUN,25.8562628337,6-3 3-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,508,72,384,115
 2021-M-ITF-BIH-03A-2021,M15 Sarajevo,Clay,32,15,20210531,302,124001,,,Gergely Madarasz,U,,HUN,26.6639288159,200713,,,Federico Iannaccone,U,,ITA,22.1820670773,7-5 6-4,3,QF,,,,,,,,,,,,,,,,,,,,780,25,862,19
@@ -394,7 +394,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-CZE-03A-2021,M25 Jablonec nad Nisou,Clay,32,25,20210517,109,208343,,Q,Andrew Paulson,U,,CZE,19.498973306,207797,7,,Jonas Forejtek,R,,CZE,20.1861738535,2-6 6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,700,32,319,162
 2021-M-ITF-CZE-03A-2021,M25 Jablonec nad Nisou,Clay,32,25,20210517,110,208169,,Q,Titouan Droguet,R,,FRA,19.9206023272,126634,,Q,Lenny Hampel,U,,AUT,24.3942505133,2-6 7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,712,31,645,41
 2021-M-ITF-CZE-03A-2021,M25 Jablonec nad Nisou,Clay,32,25,20210517,112,145001,,,Evan Furness,R,,FRA,22.7597535934,207213,4,,Duje Ajdukovic,R,,CRO,20.2765229295,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,330,148,302,173
-2021-M-ITF-CZE-03A-2021,M25 Jablonec nad Nisou,Clay,32,25,20210517,113,126964,8,,Vitaliy Sachko,R,,UKR,23.8412046543,209338,,WC,Daniel Siniakov,U,,CZE,,4-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,320,160,1621,2
+2021-M-ITF-CZE-03A-2021,M25 Jablonec nad Nisou,Clay,32,25,20210517,113,126964,8,,Vitaliy Sachko,R,,UKR,23.8412046543,209338,,WC,Daniel Siniakov,U,,CZE,18.3353867214,4-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,320,160,1621,2
 2021-M-ITF-CZE-03A-2021,M25 Jablonec nad Nisou,Clay,32,25,20210517,114,126340,,,Viktor Durasovic,U,,NOR,24.1615331964,124112,,Q,Tomas Papik,U,,CZE,27.0937713895,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,359,127,,
 2021-M-ITF-CZE-03A-2021,M25 Jablonec nad Nisou,Clay,32,25,20210517,115,105590,,,Uladzimir Ignatik,R,,BLR,30.841889117,105436,,,Markus Eriksson,R,,SWE,31.4633812457,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,352,129,361,125
 2021-M-ITF-CZE-03A-2021,M25 Jablonec nad Nisou,Clay,32,25,20210517,201,208103,1,,Jiri Lehecka,R,,CZE,19.5208761123,209322,,LL,Martin Krumich,U,,CZE,,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,290,192,986,12
@@ -533,7 +533,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-EGY-02A-2021,M15 Cairo,Clay,32,15,20210111,402,202199,,,Carlos Sanchez Jover,R,,ESP,20.476386037,126627,5,,Johan Nikles,R,,SUI,23.8056125941,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,653,35,487,72
 2021-M-ITF-EGY-02A-2021,M15 Cairo,Clay,32,15,20210111,501,202199,,,Carlos Sanchez Jover,R,,ESP,20.476386037,122536,,,Juan Pablo Paz,R,,ARG,26.0205338809,6-3 6-0,3,F,,,,,,,,,,,,,,,,,,,,653,35,618,40
 2021-M-ITF-EGY-03A-2021,M15 Cairo,Clay,32,15,20210118,101,200266,1,,Javier Barranco Cosano,U,,ESP,22.1711156742,126442,,Q,Simone Roncalli,R,,ITA,24.6981519507,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,316,146,676,33
-2021-M-ITF-EGY-03A-2021,M15 Cairo,Clay,32,15,20210118,102,208913,,,Juan Bautista Torres,U,,ARG,18.7980835044,209903,,,Lukas Neumayer,U,,AUT,,6-2 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,882,16,,
+2021-M-ITF-EGY-03A-2021,M15 Cairo,Clay,32,15,20210118,102,208913,,,Juan Bautista Torres,U,,ARG,18.7980835044,209903,,,Lukas Neumayer,R,183,AUT,18.3682409309,6-2 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,882,16,,
 2021-M-ITF-EGY-03A-2021,M15 Cairo,Clay,32,15,20210118,103,105398,,,Adam El Mihdawy,U,,USA,31.4442162902,209954,,WC,Luka Petrovic,U,,GBR,,6-0 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,582,48,,
 2021-M-ITF-EGY-03A-2021,M15 Cairo,Clay,32,15,20210118,104,106162,,Q,Franco Agamenone,U,,ARG,27.7618069815,123847,5,,Bogdan Bobrov,U,,RUS,23.3401779603,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,679,32,426,90
 2021-M-ITF-EGY-03A-2021,M15 Cairo,Clay,32,15,20210118,105,207680,4,,Facundo Diaz Acosta,L,,ARG,20.0930869268,200595,,Q,Lorenzo Bocchi,R,,ITA,23.1375770021,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,403,99,756,25
@@ -557,7 +557,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-EGY-03A-2021,M15 Cairo,Clay,32,15,20210118,207,122536,,,Juan Pablo Paz,R,,ARG,26.0396988364,208882,,,Roman Andres Burruchaga,U,,ARG,18.9869952088,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,621,40,1185,6
 2021-M-ITF-EGY-03A-2021,M15 Cairo,Clay,32,15,20210118,208,202199,,SE,Carlos Sanchez Jover,R,,ESP,20.4955509925,106292,2,,Hernan Casanova,U,,ARG,26.9486652977,5-7 7-5 6-0,3,R16,,,,,,,,,,,,,,,,,,,,657,35,376,109
 2021-M-ITF-EGY-04A-2021,M15 Cairo,Clay,32,15,20210125,101,106162,,SE,Franco Agamenone,U,,ARG,27.780971937,109334,,,Bastian Malla,U,,CHI,24.3422313484,4-6 3-4 RET,3,R32,,,,,,,,,,,,,,,,,,,,679,32,552,56
-2021-M-ITF-EGY-04A-2021,M15 Cairo,Clay,32,15,20210125,102,208913,,,Juan Bautista Torres,U,,ARG,18.81724846,209918,,,Hanwen Li,R,,CHN,,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,883,16,1371,3
+2021-M-ITF-EGY-04A-2021,M15 Cairo,Clay,32,15,20210125,102,208913,,,Juan Bautista Torres,U,,ARG,18.81724846,209918,,,Hanwen Li,R,180,CHN,18.4284736482,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,883,16,1371,3
 2021-M-ITF-EGY-04A-2021,M15 Cairo,Clay,32,15,20210125,103,208882,,,Roman Andres Burruchaga,U,,ARG,19.0061601643,144823,,LL,Luca Tomasetto,U,,ITA,24.8213552361,7-6(3) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1185,6,992,11
 2021-M-ITF-EGY-04A-2021,M15 Cairo,Clay,32,15,20210125,104,106375,7,,Pol Toledo Bague,R,,ESP,26.0944558522,200329,,Q,Remy Bertola,R,,SUI,22.4038329911,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,490,73,752,25
 2021-M-ITF-EGY-04A-2021,M15 Cairo,Clay,32,15,20210125,105,207680,4,,Facundo Diaz Acosta,L,,ARG,20.1122518823,122536,,,Juan Pablo Paz,R,,ARG,26.0588637919,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,405,99,591,46
@@ -715,7 +715,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-EGY-09A-2021,M15 Sharm El Sheikh,Hard,32,15,20210301,105,122495,3,,Shintaro Imai,U,,JPN,27.4798083504,202235,,,Jacopo Berrettini,U,,ITA,22.2587268994,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,329,137,484,75
 2021-M-ITF-EGY-09A-2021,M15 Sharm El Sheikh,Hard,32,15,20210301,106,207605,,,Jakub Paul,R,,SUI,21.9438740589,207809,,,Khololwam Montsi,R,,RSA,18.2778918549,6-1 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,684,33,1085,8
 2021-M-ITF-EGY-09A-2021,M15 Sharm El Sheikh,Hard,32,15,20210301,107,200572,,,Nick Hardt,U,,DOM,20.4435318275,209385,,Q,Samuel Vincent Ruggeri,U,,ITA,,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,526,64,,
-2021-M-ITF-EGY-09A-2021,M15 Sharm El Sheikh,Hard,32,15,20210301,108,126208,6,,Yusuke Takahashi,R,,JPN,23.370294319,209918,,,Hanwen Li,R,,CHN,,4-6 6-2 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,445,88,1436,3
+2021-M-ITF-EGY-09A-2021,M15 Sharm El Sheikh,Hard,32,15,20210301,108,126208,6,,Yusuke Takahashi,R,,JPN,23.370294319,209918,,,Hanwen Li,R,180,CHN,18.5242984257,4-6 6-2 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,445,88,1436,3
 2021-M-ITF-EGY-09A-2021,M15 Sharm El Sheikh,Hard,32,15,20210301,109,133018,8,,Michail Pervolarakis,R,,CYP,24.733744011,105026,,,Takuto Niki,U,,JPN,33.3853524983,7-6(4) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,467,80,608,44
 2021-M-ITF-EGY-09A-2021,M15 Sharm El Sheikh,Hard,32,15,20210301,110,208882,,Q,Roman Andres Burruchaga,U,,ARG,19.1019849418,122678,,Q,Matic Spec,U,,SLO,26.0095824778,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,971,12,973,12
 2021-M-ITF-EGY-09A-2021,M15 Sharm El Sheikh,Hard,32,15,20210301,111,208182,,WC,Saba Purtseladze,R,,GEO,19.5290896646,209521,,WC,Preston Connor,U,,IRL,,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1996,1,,
@@ -745,10 +745,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-EGY-10A-2021,M15 Sharm El Sheikh,Hard,32,15,20210308,104,121264,7,,Oscar Jose Gutierrez,R,,BRA,27.8685831622,200418,,Q,Karl Friberg,R,,SWE,21.954825462,7-5 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,416,99,705,31
 2021-M-ITF-EGY-10A-2021,M15 Sharm El Sheikh,Hard,32,15,20210308,105,207277,,Q,Illia Biloborodko,,,UKR,19.8357289528,202122,4,,Yuta Shimizu,L,,JPN,21.7467488022,6-1 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1337,4,344,130
 2021-M-ITF-EGY-10A-2021,M15 Sharm El Sheikh,Hard,32,15,20210308,106,106248,,SE,Edoardo Eremin,R,,ITA,27.4223134839,207809,,,Khololwam Montsi,R,,RSA,18.2970568104,6-3 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1414,3,1088,8
-2021-M-ITF-EGY-10A-2021,M15 Sharm El Sheikh,Hard,32,15,20210308,107,209918,,,Hanwen Li,R,,CHN,,106342,,,Martins Podzus,R,,LAT,26.6913073238,7-6(2) 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,1311,4,429,94
+2021-M-ITF-EGY-10A-2021,M15 Sharm El Sheikh,Hard,32,15,20210308,107,209918,,,Hanwen Li,R,180,CHN,18.5434633812,106342,,,Martins Podzus,R,,LAT,26.6913073238,7-6(2) 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,1311,4,429,94
 2021-M-ITF-EGY-10A-2021,M15 Sharm El Sheikh,Hard,32,15,20210308,108,207323,,Q,Simon Yitbarek,U,,SWE,20.3504449008,106290,5,,Filip Peliwo,R,,CAN,27.1019849418,7-5 1-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,797,23,382,116
 2021-M-ITF-EGY-10A-2021,M15 Sharm El Sheikh,Hard,32,15,20210308,109,200309,8,,Marek Gengel,R,,CZE,25.4729637235,209977,,WC,Matas Vasiliauskas,U,,LTU,,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,438,91,,
-2021-M-ITF-EGY-10A-2021,M15 Sharm El Sheikh,Hard,32,15,20210308,110,202235,,,Jacopo Berrettini,U,,ITA,22.2778918549,209866,,,Karlis Ozolins,R,,LVA,,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,487,75,993,11
+2021-M-ITF-EGY-10A-2021,M15 Sharm El Sheikh,Hard,32,15,20210308,110,202235,,,Jacopo Berrettini,U,,ITA,22.2778918549,209866,,,Karlis Ozolins,R,,LAT,18.7296372348,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,487,75,993,11
 2021-M-ITF-EGY-10A-2021,M15 Sharm El Sheikh,Hard,32,15,20210308,111,200318,,,Yu Hsiou Hsu,U,,TPE,21.9329226557,207764,,Q,Ryan Nijboer,U,,NED,21.6125941136,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,447,88,721,30
 2021-M-ITF-EGY-10A-2021,M15 Sharm El Sheikh,Hard,32,15,20210308,112,122495,3,,Shintaro Imai,U,,JPN,27.498973306,209921,,WC,Ali Habib,U,,GBR,,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,334,137,,
 2021-M-ITF-EGY-10A-2021,M15 Sharm El Sheikh,Hard,32,15,20210308,113,117365,6,,Petros Chrysochos,R,,CYP,24.9144421629,105452,,Q,Francesco Vilardo,R,,ITA,31.1923340178,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,407,103,708,31
@@ -758,20 +758,20 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-EGY-10A-2021,M15 Sharm El Sheikh,Hard,32,15,20210308,201,105060,,,Aldin Setkic,R,193,BIH,33.2128678987,208300,,Q,Omni Kumar,U,,USA,19.40862423,2-6 6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,504,72,1209,6
 2021-M-ITF-EGY-10A-2021,M15 Sharm El Sheikh,Hard,32,15,20210308,202,202281,,Q,Lukas Krainer,U,,AUT,20.4024640657,121264,7,,Oscar Jose Gutierrez,R,,BRA,27.8685831622,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1068,9,416,99
 2021-M-ITF-EGY-10A-2021,M15 Sharm El Sheikh,Hard,32,15,20210308,203,207277,,Q,Illia Biloborodko,,,UKR,19.8357289528,106248,,SE,Edoardo Eremin,R,,ITA,27.4223134839,4-6 6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1337,4,1414,3
-2021-M-ITF-EGY-10A-2021,M15 Sharm El Sheikh,Hard,32,15,20210308,204,209918,,,Hanwen Li,R,,CHN,,207323,,Q,Simon Yitbarek,U,,SWE,20.3504449008,7-5 4-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,1311,4,797,23
+2021-M-ITF-EGY-10A-2021,M15 Sharm El Sheikh,Hard,32,15,20210308,204,209918,,,Hanwen Li,R,180,CHN,18.5434633812,207323,,Q,Simon Yitbarek,U,,SWE,20.3504449008,7-5 4-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,1311,4,797,23
 2021-M-ITF-EGY-10A-2021,M15 Sharm El Sheikh,Hard,32,15,20210308,205,200309,8,,Marek Gengel,R,,CZE,25.4729637235,202235,,,Jacopo Berrettini,U,,ITA,22.2778918549,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,438,91,487,75
 2021-M-ITF-EGY-10A-2021,M15 Sharm El Sheikh,Hard,32,15,20210308,206,200318,,,Yu Hsiou Hsu,U,,TPE,21.9329226557,122495,3,,Shintaro Imai,U,,JPN,27.498973306,7-6(5) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,447,88,334,137
 2021-M-ITF-EGY-10A-2021,M15 Sharm El Sheikh,Hard,32,15,20210308,207,117365,6,,Petros Chrysochos,R,,CYP,24.9144421629,208253,,Q,Niels Visker,U,,NED,19.4223134839,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,407,103,990,11
 2021-M-ITF-EGY-10A-2021,M15 Sharm El Sheikh,Hard,32,15,20210308,208,124154,2,,Sasi Kumar Mukund,R,,IND,24.1451060917,133018,,,Michail Pervolarakis,R,,CYP,24.7529089665,6-3 7-6(0),3,R16,,,,,,,,,,,,,,,,,,,,314,158,469,80
 2021-M-ITF-EGY-10A-2021,M15 Sharm El Sheikh,Hard,32,15,20210308,301,202281,,Q,Lukas Krainer,U,,AUT,20.4024640657,105060,,,Aldin Setkic,R,193,BIH,33.2128678987,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,1068,9,504,72
-2021-M-ITF-EGY-10A-2021,M15 Sharm El Sheikh,Hard,32,15,20210308,302,209918,,,Hanwen Li,R,,CHN,,207277,,Q,Illia Biloborodko,,,UKR,19.8357289528,6-4 7-6(4),3,QF,,,,,,,,,,,,,,,,,,,,1311,4,1337,4
+2021-M-ITF-EGY-10A-2021,M15 Sharm El Sheikh,Hard,32,15,20210308,302,209918,,,Hanwen Li,R,180,CHN,18.5434633812,207277,,Q,Illia Biloborodko,,,UKR,19.8357289528,6-4 7-6(4),3,QF,,,,,,,,,,,,,,,,,,,,1311,4,1337,4
 2021-M-ITF-EGY-10A-2021,M15 Sharm El Sheikh,Hard,32,15,20210308,303,200318,,,Yu Hsiou Hsu,U,,TPE,21.9329226557,200309,8,,Marek Gengel,R,,CZE,25.4729637235,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,447,88,438,91
 2021-M-ITF-EGY-10A-2021,M15 Sharm El Sheikh,Hard,32,15,20210308,304,117365,6,,Petros Chrysochos,R,,CYP,24.9144421629,124154,2,,Sasi Kumar Mukund,R,,IND,24.1451060917,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,407,103,314,158
-2021-M-ITF-EGY-10A-2021,M15 Sharm El Sheikh,Hard,32,15,20210308,401,202281,,Q,Lukas Krainer,U,,AUT,20.4024640657,209918,,,Hanwen Li,R,,CHN,,3-6 6-2 7-6(5),3,SF,,,,,,,,,,,,,,,,,,,,1068,9,1311,4
+2021-M-ITF-EGY-10A-2021,M15 Sharm El Sheikh,Hard,32,15,20210308,401,202281,,Q,Lukas Krainer,U,,AUT,20.4024640657,209918,,,Hanwen Li,R,180,CHN,18.5434633812,3-6 6-2 7-6(5),3,SF,,,,,,,,,,,,,,,,,,,,1068,9,1311,4
 2021-M-ITF-EGY-10A-2021,M15 Sharm El Sheikh,Hard,32,15,20210308,402,200318,,,Yu Hsiou Hsu,U,,TPE,21.9329226557,117365,6,,Petros Chrysochos,R,,CYP,24.9144421629,6-3 5-7 6-3,3,SF,,,,,,,,,,,,,,,,,,,,447,88,407,103
 2021-M-ITF-EGY-10A-2021,M15 Sharm El Sheikh,Hard,32,15,20210308,501,200318,,,Yu Hsiou Hsu,U,,TPE,21.9329226557,202281,,Q,Lukas Krainer,U,,AUT,20.4024640657,6-2 6-1,3,F,,,,,,,,,,,,,,,,,,,,447,88,1068,9
 2021-M-ITF-EGY-11A-2021,M15 Sharm El Sheikh,Hard,32,15,20210315,101,111192,1,,Lucas Miedler,R,,AUT,24.7310061602,126208,,,Yusuke Takahashi,R,,JPN,23.40862423,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,290,186,446,88
-2021-M-ITF-EGY-11A-2021,M15 Sharm El Sheikh,Hard,32,15,20210315,102,207277,,Q,Illia Biloborodko,,,UKR,19.8548939083,209866,,,Karlis Ozolins,R,,LVA,,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1340,4,994,11
+2021-M-ITF-EGY-11A-2021,M15 Sharm El Sheikh,Hard,32,15,20210315,102,207277,,Q,Illia Biloborodko,,,UKR,19.8548939083,209866,,,Karlis Ozolins,R,,LAT,18.7488021903,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1340,4,994,11
 2021-M-ITF-EGY-11A-2021,M15 Sharm El Sheikh,Hard,32,15,20210315,103,202235,,,Jacopo Berrettini,U,,ITA,22.2970568104,200132,,Q,Petr Hajek,U,,CZE,24.0082135524,7-6(3) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,488,75,1011,11
 2021-M-ITF-EGY-11A-2021,M15 Sharm El Sheikh,Hard,32,15,20210315,104,117365,5,,Petros Chrysochos,R,,CYP,24.9336071184,122321,,,Marat Deviatiarov,R,,UKR,26.9048596851,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,407,103,653,38
 2021-M-ITF-EGY-11A-2021,M15 Sharm El Sheikh,Hard,32,15,20210315,105,202122,3,,Yuta Shimizu,L,,JPN,21.7659137577,209989,,Q,Giacomo Revelli,U,,GBR,,3-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,348,129,,
@@ -783,7 +783,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-EGY-11A-2021,M15 Sharm El Sheikh,Hard,32,15,20210315,111,200024,,,Makoto Ochi,L,,JPN,24.8651608487,202281,,SE,Lukas Krainer,U,,AUT,20.4216290212,6-3 6-7(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,479,78,1070,9
 2021-M-ITF-EGY-11A-2021,M15 Sharm El Sheikh,Hard,32,15,20210315,112,105026,,,Takuto Niki,U,,JPN,33.4236824093,106290,4,,Filip Peliwo,R,,CAN,27.1211498973,7-6(5) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,614,44,378,116
 2021-M-ITF-EGY-11A-2021,M15 Sharm El Sheikh,Hard,32,15,20210315,113,200318,8,,Yu Hsiou Hsu,U,,TPE,21.9520876112,105560,,,Kelsey Stevenson,R,,CAN,30.7953456537,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,422,97,677,34
-2021-M-ITF-EGY-11A-2021,M15 Sharm El Sheikh,Hard,32,15,20210315,114,209918,,,Hanwen Li,R,,CHN,,207484,,Q,Neil Oberleitner,R,,AUT,21.6098562628,6-3 5-7 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,1321,4,1319,4
+2021-M-ITF-EGY-11A-2021,M15 Sharm El Sheikh,Hard,32,15,20210315,114,209918,,,Hanwen Li,R,180,CHN,18.5626283368,207484,,Q,Neil Oberleitner,R,,AUT,21.6098562628,6-3 5-7 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,1321,4,1319,4
 2021-M-ITF-EGY-11A-2021,M15 Sharm El Sheikh,Hard,32,15,20210315,115,208848,,,Mikolaj Lorens,U,,POL,19.1211498973,208253,,Q,Niels Visker,U,,NED,19.4414784394,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1395,3,992,11
 2021-M-ITF-EGY-11A-2021,M15 Sharm El Sheikh,Hard,32,15,20210315,116,105060,,,Aldin Setkic,R,193,BIH,33.2320328542,124154,2,,Sasi Kumar Mukund,R,,IND,24.1642710472,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,503,72,315,160
 2021-M-ITF-EGY-11A-2021,M15 Sharm El Sheikh,Hard,32,15,20210315,201,111192,1,,Lucas Miedler,R,,AUT,24.7310061602,207277,,Q,Illia Biloborodko,,,UKR,19.8548939083,7-6(3) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,290,186,1340,4
@@ -792,7 +792,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-EGY-11A-2021,M15 Sharm El Sheikh,Hard,32,15,20210315,204,126878,,,David Poljak,U,,CZE,24.8268309377,105452,,Q,Francesco Vilardo,R,,ITA,31.2114989733,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,472,79,709,31
 2021-M-ITF-EGY-11A-2021,M15 Sharm El Sheikh,Hard,32,15,20210315,205,200309,7,,Marek Gengel,R,,CZE,25.492128679,202346,,Q,Ben Jones,R,,GBR,22.8227241615,6-7(4) 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,439,91,1451,3
 2021-M-ITF-EGY-11A-2021,M15 Sharm El Sheikh,Hard,32,15,20210315,206,200024,,,Makoto Ochi,L,,JPN,24.8651608487,105026,,,Takuto Niki,U,,JPN,33.4236824093,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,479,78,614,44
-2021-M-ITF-EGY-11A-2021,M15 Sharm El Sheikh,Hard,32,15,20210315,207,200318,8,,Yu Hsiou Hsu,U,,TPE,21.9520876112,209918,,,Hanwen Li,R,,CHN,,6-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,422,97,1321,4
+2021-M-ITF-EGY-11A-2021,M15 Sharm El Sheikh,Hard,32,15,20210315,207,200318,8,,Yu Hsiou Hsu,U,,TPE,21.9520876112,209918,,,Hanwen Li,R,180,CHN,18.5626283368,6-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,422,97,1321,4
 2021-M-ITF-EGY-11A-2021,M15 Sharm El Sheikh,Hard,32,15,20210315,208,208848,,,Mikolaj Lorens,U,,POL,19.1211498973,105060,,,Aldin Setkic,R,193,BIH,33.2320328542,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1395,3,503,72
 2021-M-ITF-EGY-11A-2021,M15 Sharm El Sheikh,Hard,32,15,20210315,301,111192,1,,Lucas Miedler,R,,AUT,24.7310061602,117365,5,,Petros Chrysochos,R,,CYP,24.9336071184,6-3 1-6 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,290,186,407,103
 2021-M-ITF-EGY-11A-2021,M15 Sharm El Sheikh,Hard,32,15,20210315,302,126878,,,David Poljak,U,,CZE,24.8268309377,202345,,WC,Arvid Nordquist,U,,SWE,22.7679671458,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,472,79,1342,4
@@ -838,7 +838,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-EGY-13A-2021,M15 Sharm El Sheikh,Hard,32,15,20210329,104,200024,7,,Makoto Ochi,L,,JPN,24.8843258042,106223,,,Aleksandre Metreveli,R,,GEO,27.613963039,2-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,483,78,594,49
 2021-M-ITF-EGY-13A-2021,M15 Sharm El Sheikh,Hard,32,15,20210329,105,207764,,,Ryan Nijboer,U,,NED,21.6509240246,121264,4,,Oscar Jose Gutierrez,R,,BRA,27.9069130732,6-7(5) 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,726,30,423,98
 2021-M-ITF-EGY-13A-2021,M15 Sharm El Sheikh,Hard,32,15,20210329,106,209999,,,Leonardo Malgaroli,U,,ITA,,105130,,Q,Vladimir Uzhylovsky,R,183,UKR,32.9911019849,7-6(6) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1261,5
-2021-M-ITF-EGY-13A-2021,M15 Sharm El Sheikh,Hard,32,15,20210329,107,207785,,Q,George Loffhagen,R,,GBR,19.923340178,209918,,,Hanwen Li,R,,CHN,,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,942,14,1108,8
+2021-M-ITF-EGY-13A-2021,M15 Sharm El Sheikh,Hard,32,15,20210329,107,207785,,Q,George Loffhagen,R,,GBR,19.923340178,209918,,,Hanwen Li,R,180,CHN,18.5817932923,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,942,14,1108,8
 2021-M-ITF-EGY-13A-2021,M15 Sharm El Sheikh,Hard,32,15,20210329,108,126878,6,,David Poljak,U,,CZE,24.8459958932,209936,,WC,Lorenzo Claverie,U,,VEN,,6-1 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,477,79,1527,2
 2021-M-ITF-EGY-13A-2021,M15 Sharm El Sheikh,Hard,32,15,20210329,109,105060,,,Aldin Setkic,R,193,BIH,33.2511978097,200309,5,,Marek Gengel,R,,CZE,25.5112936345,6-4 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,506,73,444,91
 2021-M-ITF-EGY-13A-2021,M15 Sharm El Sheikh,Hard,32,15,20210329,110,123854,,,Luke Johnson,R,,GBR,27.0116358658,209385,,,Samuel Vincent Ruggeri,U,,ITA,,6-2 6-7(1) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,692,32,,
@@ -895,22 +895,22 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-EGY-14A-2021,M15 Sharm El Sheikh,Hard,32,15,20210405,402,206703,6,,Paul Jubb,R,,GBR,21.4291581109,134457,8,,Nicolas Moreno De Alboran,U,,ESP,23.7262149213,6-1 7-5,3,SF,,,,,,,,,,,,,,,,,,,,494,74,574,54
 2021-M-ITF-EGY-14A-2021,M15 Sharm El Sheikh,Hard,32,15,20210405,501,206703,6,,Paul Jubb,R,,GBR,21.4291581109,124154,1,,Sasi Kumar Mukund,R,,IND,24.2217659138,6-2 6-7(8) 6-4,3,F,,,,,,,,,,,,,,,,,,,,494,74,318,160
 2021-M-ITF-EGY-15A-2021,M15 Cairo,Clay,32,15,20210412,101,124154,1,,Sasi Kumar Mukund,R,,IND,24.2409308693,105560,,,Kelsey Stevenson,R,,CAN,30.8720054757,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,319,160,682,34
-2021-M-ITF-EGY-15A-2021,M15 Cairo,Clay,32,15,20210412,102,209330,,WC,Bautista Vilicich,U,,ARG,,210014,,WC,Imran Daniel Abd Hazli,U,,MAS,,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1546,2,,
+2021-M-ITF-EGY-15A-2021,M15 Cairo,Clay,32,15,20210412,102,209330,,WC,Bautista Vilicich,R,,ARG,19.5181382615,210014,,WC,Imran Daniel Abd Hazli,U,,MAS,,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1546,2,,
 2021-M-ITF-EGY-15A-2021,M15 Cairo,Clay,32,15,20210412,103,209954,,WC,Luka Petrovic,U,,GBR,,210015,,WC,Youssef Abdellatif,U,,EGY,,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2021-M-ITF-EGY-15A-2021,M15 Cairo,Clay,32,15,20210412,104,200639,,Q,Luigi Sorrentino,U,,ITA,22.81724846,205842,5,,Arthur Reymond,U,,FRA,22.0287474333,5-7 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1048,10,600,48
 2021-M-ITF-EGY-15A-2021,M15 Cairo,Clay,32,15,20210412,105,106016,,Q,Yanais Laurent,R,,FRA,28.848733744,122536,3,,Juan Pablo Paz,R,,ARG,26.2696783025,0-6 6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,977,13,583,52
-2021-M-ITF-EGY-15A-2021,M15 Cairo,Clay,32,15,20210412,106,144918,,Q,Edoardo Lavagno,L,,ITA,22.7104722793,210016,,,Adam Jurajda,U,,CZE,,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1037,10,,
+2021-M-ITF-EGY-15A-2021,M15 Cairo,Clay,32,15,20210412,106,144918,,Q,Edoardo Lavagno,L,,ITA,22.7104722793,210016,,,Adam Jurajda,R,,CZE,17.9055441478,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1037,10,,
 2021-M-ITF-EGY-15A-2021,M15 Cairo,Clay,32,15,20210412,107,208859,,Q,Francesco Passaro,R,,ITA,20.2600958248,126200,,Q,Piotr Grynkowski,U,,POL,28.8323066393,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,915,15,1090,9
 2021-M-ITF-EGY-15A-2021,M15 Cairo,Clay,32,15,20210412,108,209209,,,Filip Misolic,R,,AUT,19.6769336071,132837,8,,Luca Giacomini,U,,ITA,23.4661190965,4-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,793,23,644,41
 2021-M-ITF-EGY-15A-2021,M15 Cairo,Clay,32,15,20210412,109,202281,,Q,Lukas Krainer,U,,AUT,20.4982888433,123855,6,,Daniele Capecchi,U,,ITA,25.5030800821,2-6 7-6(3) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,919,15,608,47
-2021-M-ITF-EGY-15A-2021,M15 Cairo,Clay,32,15,20210412,110,106390,,,Matteo Donati,R,,ITA,26.1190965092,209875,,,Alex Barrena,U,,ARG,,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,932,14,2052,1
+2021-M-ITF-EGY-15A-2021,M15 Cairo,Clay,32,15,20210412,110,106390,,,Matteo Donati,R,,ITA,26.1190965092,209875,,,Alex Barrena,R,,ARG,18.5051334702,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,932,14,2052,1
 2021-M-ITF-EGY-15A-2021,M15 Cairo,Clay,32,15,20210412,111,202299,,Q,Rimpei Kawakami,U,,JPN,20.6187542779,129811,,Q,Oleg Khotkov,U,,UKR,31.0882956879,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,963,13,1019,11
 2021-M-ITF-EGY-15A-2021,M15 Cairo,Clay,32,15,20210412,112,208209,,,Giacomo Dambrosi,R,,ITA,19.6440793977,111508,4,,Juan Ignacio Galarza,R,,ARG,27.0691307324,7-6(7) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,785,24,598,48
 2021-M-ITF-EGY-15A-2021,M15 Cairo,Clay,32,15,20210412,113,200096,7,,Dragos Nicolae Madaras,L,,ROU,23.5811088296,206746,,,Benjamin Winter Lopez,U,,ESP,22.8774811773,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,604,47,740,29
 2021-M-ITF-EGY-15A-2021,M15 Cairo,Clay,32,15,20210412,114,207490,,,Carlos Lopez Montagud,U,,ESP,20.7665982204,105178,,,Alexis Musialek,U,,FRA,32.772073922,5-7 7-6(10) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,729,30,647,40
 2021-M-ITF-EGY-15A-2021,M15 Cairo,Clay,32,15,20210412,115,126442,,,Simone Roncalli,R,,ITA,24.9281314168,123854,,,Luke Johnson,R,,GBR,27.0691307324,6-2 1-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,679,35,683,34
 2021-M-ITF-EGY-15A-2021,M15 Cairo,Clay,32,15,20210412,116,207415,2,,Daniel Michalski,U,,POL,21.2511978097,208269,,,Felix Gill,U,,GBR,18.8637919233,4-6 6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,446,90,1149,7
-2021-M-ITF-EGY-15A-2021,M15 Cairo,Clay,32,15,20210412,201,209330,,WC,Bautista Vilicich,U,,ARG,,124154,1,,Sasi Kumar Mukund,R,,IND,24.2409308693,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1546,2,319,160
+2021-M-ITF-EGY-15A-2021,M15 Cairo,Clay,32,15,20210412,201,209330,,WC,Bautista Vilicich,R,,ARG,19.5181382615,124154,1,,Sasi Kumar Mukund,R,,IND,24.2409308693,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1546,2,319,160
 2021-M-ITF-EGY-15A-2021,M15 Cairo,Clay,32,15,20210412,202,200639,,Q,Luigi Sorrentino,U,,ITA,22.81724846,209954,,WC,Luka Petrovic,U,,GBR,,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1048,10,,
 2021-M-ITF-EGY-15A-2021,M15 Cairo,Clay,32,15,20210412,203,144918,,Q,Edoardo Lavagno,L,,ITA,22.7104722793,106016,,Q,Yanais Laurent,R,,FRA,28.848733744,6-7(6) 6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,1037,10,977,13
 2021-M-ITF-EGY-15A-2021,M15 Cairo,Clay,32,15,20210412,204,208859,,Q,Francesco Passaro,R,,ITA,20.2600958248,209209,,,Filip Misolic,R,,AUT,19.6769336071,7-6(1) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,915,15,793,23
@@ -918,7 +918,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-EGY-15A-2021,M15 Cairo,Clay,32,15,20210412,206,208209,,,Giacomo Dambrosi,R,,ITA,19.6440793977,202299,,Q,Rimpei Kawakami,U,,JPN,20.6187542779,3-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,785,24,963,13
 2021-M-ITF-EGY-15A-2021,M15 Cairo,Clay,32,15,20210412,207,207490,,,Carlos Lopez Montagud,U,,ESP,20.7665982204,200096,7,,Dragos Nicolae Madaras,L,,ROU,23.5811088296,4-6 7-5 3-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,729,30,604,47
 2021-M-ITF-EGY-15A-2021,M15 Cairo,Clay,32,15,20210412,208,207415,2,,Daniel Michalski,U,,POL,21.2511978097,126442,,,Simone Roncalli,R,,ITA,24.9281314168,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,446,90,679,35
-2021-M-ITF-EGY-15A-2021,M15 Cairo,Clay,32,15,20210412,301,200639,,Q,Luigi Sorrentino,U,,ITA,22.81724846,209330,,WC,Bautista Vilicich,U,,ARG,,7-6(3) 3-6 7-6(2),3,QF,,,,,,,,,,,,,,,,,,,,1048,10,1546,2
+2021-M-ITF-EGY-15A-2021,M15 Cairo,Clay,32,15,20210412,301,200639,,Q,Luigi Sorrentino,U,,ITA,22.81724846,209330,,WC,Bautista Vilicich,R,,ARG,19.5181382615,7-6(3) 3-6 7-6(2),3,QF,,,,,,,,,,,,,,,,,,,,1048,10,1546,2
 2021-M-ITF-EGY-15A-2021,M15 Cairo,Clay,32,15,20210412,302,208859,,Q,Francesco Passaro,R,,ITA,20.2600958248,144918,,Q,Edoardo Lavagno,L,,ITA,22.7104722793,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,915,15,1037,10
 2021-M-ITF-EGY-15A-2021,M15 Cairo,Clay,32,15,20210412,303,208209,,,Giacomo Dambrosi,R,,ITA,19.6440793977,202281,,Q,Lukas Krainer,U,,AUT,20.4982888433,4-6 6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,785,24,919,15
 2021-M-ITF-EGY-15A-2021,M15 Cairo,Clay,32,15,20210412,304,207415,2,,Daniel Michalski,U,,POL,21.2511978097,207490,,,Carlos Lopez Montagud,U,,ESP,20.7665982204,6-3 3-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,446,90,729,30
@@ -928,7 +928,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-EGY-16A-2021,M15 Cairo,Clay,32,15,20210419,101,206746,,,Benjamin Winter Lopez,U,,ESP,22.8966461328,105747,1,,Karim Mohamed Maamoun,R,,EGY,30.0287474333,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,740,29,412,102
 2021-M-ITF-EGY-16A-2021,M15 Cairo,Clay,32,15,20210419,102,209248,,WC,Amr Asrawy,U,,EGY,,208249,,Q,Gian Marco Ortenzi,U,,ITA,21.2073921971,4-6 6-2 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,1479,3,1442,3
 2021-M-ITF-EGY-16A-2021,M15 Cairo,Clay,32,15,20210419,103,144918,,Q,Edoardo Lavagno,L,,ITA,22.7296372348,144680,,Q,Olexiy Kolisnyk,U,,UKR,24.9691991786,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1041,10,,
-2021-M-ITF-EGY-16A-2021,M15 Cairo,Clay,32,15,20210419,104,209875,,,Alex Barrena,U,,ARG,,202199,7,,Carlos Sanchez Jover,R,,ESP,20.7446954141,2-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,2062,1,581,53
+2021-M-ITF-EGY-16A-2021,M15 Cairo,Clay,32,15,20210419,104,209875,,,Alex Barrena,R,,ARG,18.5242984257,202199,7,,Carlos Sanchez Jover,R,,ESP,20.7446954141,2-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,2062,1,581,53
 2021-M-ITF-EGY-16A-2021,M15 Cairo,Clay,32,15,20210419,105,200610,4,,Oliver Crawford,R,,USA,21.9712525667,210031,,WC,Francesco Maria Missere,U,,ITA,,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,511,68,,
 2021-M-ITF-EGY-16A-2021,M15 Cairo,Clay,32,15,20210419,106,200639,,Q,Luigi Sorrentino,U,,ITA,22.8364134155,209403,,LL,Faris Zakaryia,U,,EGY,19.9342915811,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1118,8,1646,2
 2021-M-ITF-EGY-16A-2021,M15 Cairo,Clay,32,15,20210419,107,123812,,,Jose Fco Vidal Azorin,U,,ESP,27.8521560575,209141,,WC,Zakai Stone,R,,USA,,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,604,48,,
@@ -942,45 +942,45 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-EGY-16A-2021,M15 Cairo,Clay,32,15,20210419,115,111508,,,Juan Ignacio Galarza,R,,ARG,27.0882956879,132999,,,Kai Wehnelt,R,,GER,25.3935660507,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,606,47,622,45
 2021-M-ITF-EGY-16A-2021,M15 Cairo,Clay,32,15,20210419,116,105181,2,WC,Miljan Zekic,R,,SRB,32.7693360712,208269,,,Felix Gill,U,,GBR,18.8829568789,6-2 6-7(1) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,413,102,1148,7
 2021-M-ITF-EGY-16A-2021,M15 Cairo,Clay,32,15,20210419,201,206746,,,Benjamin Winter Lopez,U,,ESP,22.8966461328,209248,,WC,Amr Asrawy,U,,EGY,,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,740,29,1479,3
-2021-M-ITF-EGY-16A-2021,M15 Cairo,Clay,32,15,20210419,202,209875,,,Alex Barrena,U,,ARG,,144918,,Q,Edoardo Lavagno,L,,ITA,22.7296372348,7-6(3) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,2062,1,1041,10
+2021-M-ITF-EGY-16A-2021,M15 Cairo,Clay,32,15,20210419,202,209875,,,Alex Barrena,R,,ARG,18.5242984257,144918,,Q,Edoardo Lavagno,L,,ITA,22.7296372348,7-6(3) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,2062,1,1041,10
 2021-M-ITF-EGY-16A-2021,M15 Cairo,Clay,32,15,20210419,203,200610,4,,Oliver Crawford,R,,USA,21.9712525667,200639,,Q,Luigi Sorrentino,U,,ITA,22.8364134155,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,511,68,1118,8
 2021-M-ITF-EGY-16A-2021,M15 Cairo,Clay,32,15,20210419,204,123812,,,Jose Fco Vidal Azorin,U,,ESP,27.8521560575,109334,6,,Bastian Malla,U,,CHI,24.5722108145,2-6 7-6(7) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,604,48,573,55
 2021-M-ITF-EGY-16A-2021,M15 Cairo,Clay,32,15,20210419,205,208278,5,,Shintaro Mochizuki,R,,JPN,17.8809034908,207490,,,Carlos Lopez Montagud,U,,ESP,20.7857631759,7-5 2-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,520,66,731,30
 2021-M-ITF-EGY-16A-2021,M15 Cairo,Clay,32,15,20210419,206,207415,3,,Daniel Michalski,U,,POL,21.2703627652,208859,,SE,Francesco Passaro,R,,ITA,20.2792607803,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,448,88,919,15
 2021-M-ITF-EGY-16A-2021,M15 Cairo,Clay,32,15,20210419,207,123855,,,Daniele Capecchi,U,,ITA,25.5222450376,206323,,Q,Alessandro Ragazzi,U,,ITA,24.3175906913,7-6(7) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,613,47,,
 2021-M-ITF-EGY-16A-2021,M15 Cairo,Clay,32,15,20210419,208,111508,,,Juan Ignacio Galarza,R,,ARG,27.0882956879,105181,2,WC,Miljan Zekic,R,,SRB,32.7693360712,7-6(5) 6-0,3,R16,,,,,,,,,,,,,,,,,,,,606,47,413,102
-2021-M-ITF-EGY-16A-2021,M15 Cairo,Clay,32,15,20210419,301,206746,,,Benjamin Winter Lopez,U,,ESP,22.8966461328,209875,,,Alex Barrena,U,,ARG,,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,740,29,2062,1
+2021-M-ITF-EGY-16A-2021,M15 Cairo,Clay,32,15,20210419,301,206746,,,Benjamin Winter Lopez,U,,ESP,22.8966461328,209875,,,Alex Barrena,R,,ARG,18.5242984257,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,740,29,2062,1
 2021-M-ITF-EGY-16A-2021,M15 Cairo,Clay,32,15,20210419,302,200610,4,,Oliver Crawford,R,,USA,21.9712525667,123812,,,Jose Fco Vidal Azorin,U,,ESP,27.8521560575,6-4 2-6 7-5,3,QF,,,,,,,,,,,,,,,,,,,,511,68,604,48
 2021-M-ITF-EGY-16A-2021,M15 Cairo,Clay,32,15,20210419,303,207415,3,,Daniel Michalski,U,,POL,21.2703627652,208278,5,,Shintaro Mochizuki,R,,JPN,17.8809034908,3-6 7-6(6) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,448,88,520,66
 2021-M-ITF-EGY-16A-2021,M15 Cairo,Clay,32,15,20210419,304,123855,,,Daniele Capecchi,U,,ITA,25.5222450376,111508,,,Juan Ignacio Galarza,R,,ARG,27.0882956879,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,613,47,606,47
 2021-M-ITF-EGY-16A-2021,M15 Cairo,Clay,32,15,20210419,401,200610,4,,Oliver Crawford,R,,USA,21.9712525667,206746,,,Benjamin Winter Lopez,U,,ESP,22.8966461328,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,511,68,740,29
 2021-M-ITF-EGY-16A-2021,M15 Cairo,Clay,32,15,20210419,402,207415,3,,Daniel Michalski,U,,POL,21.2703627652,123855,,,Daniele Capecchi,U,,ITA,25.5222450376,2-6 7-6(6) 6-1,3,SF,,,,,,,,,,,,,,,,,,,,448,88,613,47
 2021-M-ITF-EGY-16A-2021,M15 Cairo,Clay,32,15,20210419,501,200610,4,,Oliver Crawford,R,,USA,21.9712525667,207415,3,,Daniel Michalski,U,,POL,21.2703627652,6-2 5-7 6-3,3,F,,,,,,,,,,,,,,,,,,,,511,68,448,88
-2021-M-ITF-EGY-17A-2021,M15 Cairo,Clay,32,15,20210426,101,209330,,LL,Bautista Vilicich,U,,ARG,,210035,,WC,Karim El Feky,U,,EGY,,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1314,4,,
+2021-M-ITF-EGY-17A-2021,M15 Cairo,Clay,32,15,20210426,101,209330,,LL,Bautista Vilicich,R,,ARG,19.5564681725,210035,,WC,Karim El Feky,U,,EGY,,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1314,4,,
 2021-M-ITF-EGY-17A-2021,M15 Cairo,Clay,32,15,20210426,102,200708,,,Alessandro Ingarao,U,,ITA,21.7330595483,144834,,Q,Constant De La Bassetiere,U,,FRA,23.2580424367,3-6 6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,878,18,1630,2
 2021-M-ITF-EGY-17A-2021,M15 Cairo,Clay,32,15,20210426,103,105398,,,Adam El Mihdawy,U,,USA,31.7125256674,208814,,WC,Charles Tzicas,R,,BEL,22.3080082136,6-1 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,625,45,,
 2021-M-ITF-EGY-17A-2021,M15 Cairo,Clay,32,15,20210426,104,123812,8,,Jose Fco Vidal Azorin,U,,ESP,27.871321013,208249,,Q,Gian Marco Ortenzi,U,,ITA,21.2265571526,7-6(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,592,51,1446,3
 2021-M-ITF-EGY-17A-2021,M15 Cairo,Clay,32,15,20210426,105,200610,3,,Oliver Crawford,R,,USA,21.9904175222,106016,,Q,Yanais Laurent,R,,FRA,28.887063655,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,513,68,955,14
 2021-M-ITF-EGY-17A-2021,M15 Cairo,Clay,32,15,20210426,106,111508,,,Juan Ignacio Galarza,R,,ARG,27.1074606434,132999,,,Kai Wehnelt,R,,GER,25.4127310062,7-6(4) 4-6 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,607,47,627,44
-2021-M-ITF-EGY-17A-2021,M15 Cairo,Clay,32,15,20210426,107,209875,,,Alex Barrena,U,,ARG,,200441,,,Grigoriy Lomakin,U,,KAZ,23.1074606434,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,2064,1,820,22
+2021-M-ITF-EGY-17A-2021,M15 Cairo,Clay,32,15,20210426,107,209875,,,Alex Barrena,R,,ARG,18.5434633812,200441,,,Grigoriy Lomakin,U,,KAZ,23.1074606434,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,2064,1,820,22
 2021-M-ITF-EGY-17A-2021,M15 Cairo,Clay,32,15,20210426,108,109334,5,,Bastian Malla,U,,CHI,24.59137577,208099,,WC,Santiago De La Fuente,U,,ARG,19.2169746749,7-6(1) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,575,55,,
 2021-M-ITF-EGY-17A-2021,M15 Cairo,Clay,32,15,20210426,109,202199,6,,Carlos Sanchez Jover,R,,ESP,20.7638603696,126328,,,Gabriel Donev,R,,BUL,24.8240930869,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,582,53,929,15
 2021-M-ITF-EGY-17A-2021,M15 Cairo,Clay,32,15,20210426,110,208269,,Q,Felix Gill,U,,GBR,18.9021218344,210036,,WC,Stefan Ivic,U,,SRB,,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1152,7,,
 2021-M-ITF-EGY-17A-2021,M15 Cairo,Clay,32,15,20210426,111,144918,,Q,Edoardo Lavagno,L,,ITA,22.7488021903,105700,,Q,Jose Pereira,R,,BRA,30.2477754962,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,995,12,1211,6
 2021-M-ITF-EGY-17A-2021,M15 Cairo,Clay,32,15,20210426,112,208278,4,,Shintaro Mochizuki,R,,JPN,17.9000684463,208191,,,Zachary Eisinga,U,,NED,21.2950034223,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,505,71,941,14
-2021-M-ITF-EGY-17A-2021,M15 Cairo,Clay,32,15,20210426,113,122536,7,,Juan Pablo Paz,R,,ARG,26.3080082136,209918,,,Hanwen Li,R,,CHN,,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,587,52,1076,9
+2021-M-ITF-EGY-17A-2021,M15 Cairo,Clay,32,15,20210426,113,122536,7,,Juan Pablo Paz,R,,ARG,26.3080082136,209918,,,Hanwen Li,R,180,CHN,18.6776180698,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,587,52,1076,9
 2021-M-ITF-EGY-17A-2021,M15 Cairo,Clay,32,15,20210426,114,208363,,,Mariano Navone,U,,ARG,20.1587953457,202299,,Q,Rimpei Kawakami,U,,JPN,20.6570841889,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,786,24,949,14
 2021-M-ITF-EGY-17A-2021,M15 Cairo,Clay,32,15,20210426,115,209957,,,Jack Pinnington Jones,R,,GBR,18.0752908966,202281,,,Lukas Krainer,U,,AUT,20.5366187543,7-6(1) 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,896,17
 2021-M-ITF-EGY-17A-2021,M15 Cairo,Clay,32,15,20210426,116,206703,2,,Paul Jubb,R,,GBR,21.4866529774,209130,,Q,Benedikt Emesz,R,,AUT,,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,458,86,,
-2021-M-ITF-EGY-17A-2021,M15 Cairo,Clay,32,15,20210426,201,209330,,LL,Bautista Vilicich,U,,ARG,,200708,,,Alessandro Ingarao,U,,ITA,21.7330595483,2-6 7-6(4) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1314,4,878,18
+2021-M-ITF-EGY-17A-2021,M15 Cairo,Clay,32,15,20210426,201,209330,,LL,Bautista Vilicich,R,,ARG,19.5564681725,200708,,,Alessandro Ingarao,U,,ITA,21.7330595483,2-6 7-6(4) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1314,4,878,18
 2021-M-ITF-EGY-17A-2021,M15 Cairo,Clay,32,15,20210426,202,123812,8,,Jose Fco Vidal Azorin,U,,ESP,27.871321013,105398,,,Adam El Mihdawy,U,,USA,31.7125256674,7-6(5) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,592,51,625,45
 2021-M-ITF-EGY-17A-2021,M15 Cairo,Clay,32,15,20210426,203,200610,3,,Oliver Crawford,R,,USA,21.9904175222,111508,,,Juan Ignacio Galarza,R,,ARG,27.1074606434,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,513,68,607,47
-2021-M-ITF-EGY-17A-2021,M15 Cairo,Clay,32,15,20210426,204,109334,5,,Bastian Malla,U,,CHI,24.59137577,209875,,,Alex Barrena,U,,ARG,,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,575,55,2064,1
+2021-M-ITF-EGY-17A-2021,M15 Cairo,Clay,32,15,20210426,204,109334,5,,Bastian Malla,U,,CHI,24.59137577,209875,,,Alex Barrena,R,,ARG,18.5434633812,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,575,55,2064,1
 2021-M-ITF-EGY-17A-2021,M15 Cairo,Clay,32,15,20210426,205,202199,6,,Carlos Sanchez Jover,R,,ESP,20.7638603696,208269,,Q,Felix Gill,U,,GBR,18.9021218344,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,582,53,1152,7
 2021-M-ITF-EGY-17A-2021,M15 Cairo,Clay,32,15,20210426,206,144918,,Q,Edoardo Lavagno,L,,ITA,22.7488021903,208278,4,,Shintaro Mochizuki,R,,JPN,17.9000684463,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,995,12,505,71
 2021-M-ITF-EGY-17A-2021,M15 Cairo,Clay,32,15,20210426,207,208363,,,Mariano Navone,U,,ARG,20.1587953457,122536,7,,Juan Pablo Paz,R,,ARG,26.3080082136,6-1 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,786,24,587,52
 2021-M-ITF-EGY-17A-2021,M15 Cairo,Clay,32,15,20210426,208,209957,,,Jack Pinnington Jones,R,,GBR,18.0752908966,206703,2,,Paul Jubb,R,,GBR,21.4866529774,2-6 7-6(5) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,458,86
-2021-M-ITF-EGY-17A-2021,M15 Cairo,Clay,32,15,20210426,301,123812,8,,Jose Fco Vidal Azorin,U,,ESP,27.871321013,209330,,LL,Bautista Vilicich,U,,ARG,,6-2 4-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,592,51,1314,4
+2021-M-ITF-EGY-17A-2021,M15 Cairo,Clay,32,15,20210426,301,123812,8,,Jose Fco Vidal Azorin,U,,ESP,27.871321013,209330,,LL,Bautista Vilicich,R,,ARG,19.5564681725,6-2 4-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,592,51,1314,4
 2021-M-ITF-EGY-17A-2021,M15 Cairo,Clay,32,15,20210426,302,109334,5,,Bastian Malla,U,,CHI,24.59137577,200610,3,,Oliver Crawford,R,,USA,21.9904175222,6-1 6-0,3,QF,,,,,,,,,,,,,,,,,,,,575,55,513,68
 2021-M-ITF-EGY-17A-2021,M15 Cairo,Clay,32,15,20210426,303,202199,6,,Carlos Sanchez Jover,R,,ESP,20.7638603696,144918,,Q,Edoardo Lavagno,L,,ITA,22.7488021903,7-5 RET,3,QF,,,,,,,,,,,,,,,,,,,,582,53,995,12
 2021-M-ITF-EGY-17A-2021,M15 Cairo,Clay,32,15,20210426,304,209957,,,Jack Pinnington Jones,R,,GBR,18.0752908966,208363,,,Mariano Navone,U,,ARG,20.1587953457,6-0 7-5,3,QF,,,,,,,,,,,,,,,,,,,,,,786,24
@@ -992,7 +992,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-EGY-18A-2021,M15 Cairo,Clay,32,15,20210503,103,122536,,,Juan Pablo Paz,R,,ARG,26.3271731691,111508,,,Juan Ignacio Galarza,R,,ARG,27.1266255989,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,586,52,601,49
 2021-M-ITF-EGY-18A-2021,M15 Cairo,Clay,32,15,20210503,104,207799,6,,Matheus Pucinelli De Almeida,U,,BRA,20.0876112252,202299,,Q,Rimpei Kawakami,U,,JPN,20.6762491444,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,568,56,947,14
 2021-M-ITF-EGY-18A-2021,M15 Cairo,Clay,32,15,20210503,105,123812,,,Jose Fco Vidal Azorin,U,,ESP,27.8904859685,202261,4,Q,Otto Virtanen,R,,FIN,19.8658453114,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,587,52,554,60
-2021-M-ITF-EGY-18A-2021,M15 Cairo,Clay,32,15,20210503,106,132999,,,Kai Wehnelt,R,,GER,25.4318959617,209918,,,Hanwen Li,R,,CHN,,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,626,44,1076,9
+2021-M-ITF-EGY-18A-2021,M15 Cairo,Clay,32,15,20210503,106,132999,,,Kai Wehnelt,R,,GER,25.4318959617,209918,,,Hanwen Li,R,180,CHN,18.6967830253,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,626,44,1076,9
 2021-M-ITF-EGY-18A-2021,M15 Cairo,Clay,32,15,20210503,107,208363,,,Mariano Navone,U,,ARG,20.1779603012,200263,,,Vlad Andrei Dancu,U,,ROU,22.1546885695,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,789,24,888,17
 2021-M-ITF-EGY-18A-2021,M15 Cairo,Clay,32,15,20210503,108,202199,8,,Carlos Sanchez Jover,R,,ESP,20.7830253251,209957,,,Jack Pinnington Jones,R,,GBR,18.0944558522,6-3 6-7(1) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,582,53,,
 2021-M-ITF-EGY-18A-2021,M15 Cairo,Clay,32,15,20210503,109,200278,5,,Simon Carr,R,,IRL,21.4866529774,200421,,WC,Sherif Makhlouf,R,,EGY,22.7241615332,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,562,58,,
@@ -1002,7 +1002,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-EGY-18A-2021,M15 Cairo,Clay,32,15,20210503,113,126328,,Q,Gabriel Donev,R,,BUL,24.8432580424,109334,7,,Bastian Malla,U,,CHI,24.6105407255,1-6 7-6(4) 2-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,928,15,570,56
 2021-M-ITF-EGY-18A-2021,M15 Cairo,Clay,32,15,20210503,114,105130,,Q,Vladimir Uzhylovsky,R,183,UKR,33.106091718,124296,,Q,Martin Dimitrov,U,,BUL,40.219028063,4-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1216,6,1634,2
 2021-M-ITF-EGY-18A-2021,M15 Cairo,Clay,32,15,20210503,115,208532,,WC,Thiago Cigarran,U,,ARG,21.1033538672,200708,,,Alessandro Ingarao,U,,ITA,21.7522245038,4-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1939,1,878,18
-2021-M-ITF-EGY-18A-2021,M15 Cairo,Clay,32,15,20210503,116,200610,2,,Oliver Crawford,R,,USA,22.0095824778,209875,,,Alex Barrena,U,,ARG,,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,483,78,1496,3
+2021-M-ITF-EGY-18A-2021,M15 Cairo,Clay,32,15,20210503,116,200610,2,,Oliver Crawford,R,,USA,22.0095824778,209875,,,Alex Barrena,R,,ARG,18.5626283368,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,483,78,1496,3
 2021-M-ITF-EGY-18A-2021,M15 Cairo,Clay,32,15,20210503,201,206703,1,,Paul Jubb,R,,GBR,21.5058179329,208814,,WC,Charles Tzicas,R,,BEL,22.3271731691,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,457,86,,
 2021-M-ITF-EGY-18A-2021,M15 Cairo,Clay,32,15,20210503,202,207799,6,,Matheus Pucinelli De Almeida,U,,BRA,20.0876112252,122536,,,Juan Pablo Paz,R,,ARG,26.3271731691,6-3 4-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,568,56,586,52
 2021-M-ITF-EGY-18A-2021,M15 Cairo,Clay,32,15,20210503,203,123812,,,Jose Fco Vidal Azorin,U,,ESP,27.8904859685,132999,,,Kai Wehnelt,R,,GER,25.4318959617,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,587,52,626,44
@@ -1023,12 +1023,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-ESP-01A-2021,M15 Manacor,Hard,32,15,20210104,103,206758,,,Antoine Cornut Chauvinc,U,,FRA,20.4955509925,209198,,Q,Gian Luca Tanner,U,,SUI,,5-7 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,442,85,1803,1
 2021-M-ITF-ESP-01A-2021,M15 Manacor,Hard,32,15,20210104,104,206746,,Q,Benjamin Winter Lopez,U,,ESP,22.6091718001,120775,6,,Sadio Doumbia,U,,FRA,30.3134839151,6-3 6-7(4) 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,717,29,392,103
 2021-M-ITF-ESP-01A-2021,M15 Manacor,Hard,32,15,20210104,105,134792,4,,Jules Okala,U,,FRA,23.3812457221,111512,,,Johan Sebastien Tatlot,U,,FRA,24.7775496235,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,366,114,483,73
-2021-M-ITF-ESP-01A-2021,M15 Manacor,Hard,32,15,20210104,106,209404,,WC,Marc Othman Ktiri ,U,,ESP,,207327,,Q,Frane Nincevic,U,,CRO,21.5523613963,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1605,2
+2021-M-ITF-ESP-01A-2021,M15 Manacor,Hard,32,15,20210104,106,209404,,WC,Marc Othman Ktiri ,U,,ESP,17.492128679,207327,,Q,Frane Nincevic,U,,CRO,21.5523613963,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1605,2
 2021-M-ITF-ESP-01A-2021,M15 Manacor,Hard,32,15,20210104,107,200711,,,Nicolas Mejia,R,,COL,20.8980150582,126512,,Q,Fabien Reboul,U,,FRA,25.3223819302,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,454,81,667,33
 2021-M-ITF-ESP-01A-2021,M15 Manacor,Hard,32,15,20210104,108,132744,,Q,Alberto Barroso Campos,R,,ESP,24.5859000684,105778,8,,Tobias Simon,R,,GER,29.6344969199,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,847,18,407,97
 2021-M-ITF-ESP-01A-2021,M15 Manacor,Hard,32,15,20210104,109,145001,,,Evan Furness,R,,FRA,22.3956194387,111584,5,,Jeroen Vanneste,R,,BEL,26.9650924025,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,463,79,380,108
 2021-M-ITF-ESP-01A-2021,M15 Manacor,Hard,32,15,20210104,110,106040,,,Peter Heller,R,,GER,28.3969883641,104932,,Q,Kenny De Schepper,L,203,FRA,33.6043805613,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,411,95,669,33
-2021-M-ITF-ESP-01A-2021,M15 Manacor,Hard,32,15,20210104,111,209866,,,Karlis Ozolins,R,,LVA,,205842,,,Arthur Reymond,U,,FRA,21.7604380561,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1073,8,589,46
+2021-M-ITF-ESP-01A-2021,M15 Manacor,Hard,32,15,20210104,111,209866,,,Karlis Ozolins,R,,LAT,18.5571526352,205842,,,Arthur Reymond,U,,FRA,21.7604380561,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1073,8,589,46
 2021-M-ITF-ESP-01A-2021,M15 Manacor,Hard,32,15,20210104,112,144675,3,,Baptiste Crepatte,U,,FRA,26.288843258,206325,,,Pedro Vives Marcos,R,,ESP,19.7289527721,6-4 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,357,118,605,43
 2021-M-ITF-ESP-01A-2021,M15 Manacor,Hard,32,15,20210104,113,200385,7,,Dan Added,U,,FRA,21.7303216975,208842,,Q,Joan B Borras Isern,R,,ESP,21.6235455168,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,393,102,1875,1
 2021-M-ITF-ESP-01A-2021,M15 Manacor,Hard,32,15,20210104,114,209405,,WC,Daniel Rincon,L,,ESP,17.993155373,208519,,WC,Xavi Matas Ortega,U,,ESP,18.3600273785,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -1036,15 +1036,15 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-ESP-01A-2021,M15 Manacor,Hard,32,15,20210104,116,106324,2,,Vaclav Safranek,R,,CZE,26.6283367556,202209,,,Imanol Lopez Morillo,R,,ESP,21.1307323751,4-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,344,125,597,44
 2021-M-ITF-ESP-01A-2021,M15 Manacor,Hard,32,15,20210104,201,134472,,,Antoine Bellier,U,,SUI,24.2135523614,209412,,Q,Aaron Cohen,U,,ISR,,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,555,54,,
 2021-M-ITF-ESP-01A-2021,M15 Manacor,Hard,32,15,20210104,202,206758,,,Antoine Cornut Chauvinc,U,,FRA,20.4955509925,206746,,Q,Benjamin Winter Lopez,U,,ESP,22.6091718001,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,442,85,717,29
-2021-M-ITF-ESP-01A-2021,M15 Manacor,Hard,32,15,20210104,203,134792,4,,Jules Okala,U,,FRA,23.3812457221,209404,,WC,Marc Othman Ktiri ,U,,ESP,,6-4 5-7 6-2,3,R16,,,,,,,,,,,,,,,,,,,,366,114,,
+2021-M-ITF-ESP-01A-2021,M15 Manacor,Hard,32,15,20210104,203,134792,4,,Jules Okala,U,,FRA,23.3812457221,209404,,WC,Marc Othman Ktiri ,U,,ESP,17.492128679,6-4 5-7 6-2,3,R16,,,,,,,,,,,,,,,,,,,,366,114,,
 2021-M-ITF-ESP-01A-2021,M15 Manacor,Hard,32,15,20210104,204,132744,,Q,Alberto Barroso Campos,R,,ESP,24.5859000684,200711,,,Nicolas Mejia,R,,COL,20.8980150582,1-6 6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,847,18,454,81
 2021-M-ITF-ESP-01A-2021,M15 Manacor,Hard,32,15,20210104,205,145001,,,Evan Furness,R,,FRA,22.3956194387,106040,,,Peter Heller,R,,GER,28.3969883641,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,463,79,411,95
-2021-M-ITF-ESP-01A-2021,M15 Manacor,Hard,32,15,20210104,206,209866,,,Karlis Ozolins,R,,LVA,,144675,3,,Baptiste Crepatte,U,,FRA,26.288843258,W/O,3,R16,,,,,,,,,,,,,,,,,,,,1073,8,357,118
+2021-M-ITF-ESP-01A-2021,M15 Manacor,Hard,32,15,20210104,206,209866,,,Karlis Ozolins,R,,LAT,18.5571526352,144675,3,,Baptiste Crepatte,U,,FRA,26.288843258,W/O,3,R16,,,,,,,,,,,,,,,,,,,,1073,8,357,118
 2021-M-ITF-ESP-01A-2021,M15 Manacor,Hard,32,15,20210104,207,209405,,WC,Daniel Rincon,L,,ESP,17.993155373,200385,7,,Dan Added,U,,FRA,21.7303216975,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,393,102
 2021-M-ITF-ESP-01A-2021,M15 Manacor,Hard,32,15,20210104,208,106324,2,,Vaclav Safranek,R,,CZE,26.6283367556,209406,,WC,Abedallah Shelbayh,U,,JOR,,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,344,125,1207,5
 2021-M-ITF-ESP-01A-2021,M15 Manacor,Hard,32,15,20210104,301,134472,,,Antoine Bellier,U,,SUI,24.2135523614,206758,,,Antoine Cornut Chauvinc,U,,FRA,20.4955509925,7-6(2) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,555,54,442,85
 2021-M-ITF-ESP-01A-2021,M15 Manacor,Hard,32,15,20210104,302,134792,4,,Jules Okala,U,,FRA,23.3812457221,132744,,Q,Alberto Barroso Campos,R,,ESP,24.5859000684,6-3 6-7(6) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,366,114,847,18
-2021-M-ITF-ESP-01A-2021,M15 Manacor,Hard,32,15,20210104,303,145001,,,Evan Furness,R,,FRA,22.3956194387,209866,,,Karlis Ozolins,R,,LVA,,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,463,79,1073,8
+2021-M-ITF-ESP-01A-2021,M15 Manacor,Hard,32,15,20210104,303,145001,,,Evan Furness,R,,FRA,22.3956194387,209866,,,Karlis Ozolins,R,,LAT,18.5571526352,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,463,79,1073,8
 2021-M-ITF-ESP-01A-2021,M15 Manacor,Hard,32,15,20210104,304,209405,,WC,Daniel Rincon,L,,ESP,17.993155373,106324,2,,Vaclav Safranek,R,,CZE,26.6283367556,3-6 6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,,,344,125
 2021-M-ITF-ESP-01A-2021,M15 Manacor,Hard,32,15,20210104,401,134472,,,Antoine Bellier,U,,SUI,24.2135523614,134792,4,,Jules Okala,U,,FRA,23.3812457221,7-6(5) 6-1,3,SF,,,,,,,,,,,,,,,,,,,,555,54,366,114
 2021-M-ITF-ESP-01A-2021,M15 Manacor,Hard,32,15,20210104,402,145001,,,Evan Furness,R,,FRA,22.3956194387,209405,,WC,Daniel Rincon,L,,ESP,17.993155373,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,463,79,,
@@ -1052,14 +1052,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-ESP-02A-2021,M15 Manacor,Hard,32,15,20210111,102,145001,,SE,Evan Furness,R,,FRA,22.4147843943,106040,,,Peter Heller,R,,GER,28.4161533196,6-2 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,464,79,411,95
 2021-M-ITF-ESP-02A-2021,M15 Manacor,Hard,32,15,20210111,103,209405,,WC,Daniel Rincon,L,,ESP,18.0123203285,209407,,WC,Max Basing,U,,GBR,,4-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1490,2
 2021-M-ITF-ESP-02A-2021,M15 Manacor,Hard,32,15,20210111,104,120775,6,,Sadio Doumbia,U,,FRA,30.3326488706,200711,,,Nicolas Mejia,R,,COL,20.9171800137,7-6(1) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,392,103,455,81
-2021-M-ITF-ESP-02A-2021,M15 Manacor,Hard,32,15,20210111,105,134792,4,,Jules Okala,U,,FRA,23.4004106776,209866,,,Karlis Ozolins,R,,LVA,,3-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,366,114,1073,8
+2021-M-ITF-ESP-02A-2021,M15 Manacor,Hard,32,15,20210111,105,134792,4,,Jules Okala,U,,FRA,23.4004106776,209866,,,Karlis Ozolins,R,,LAT,18.5763175907,3-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,366,114,1073,8
 2021-M-ITF-ESP-02A-2021,M15 Manacor,Hard,32,15,20210111,106,200188,,,Matteo Martineau,U,,FRA,21.9876796715,209952,,,Sean Cuenin,U,,FRA,16.9034907598,2-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,433,88,,
 2021-M-ITF-ESP-02A-2021,M15 Manacor,Hard,32,15,20210111,107,200267,,,Zizou Bergs,R,,BEL,21.6098562628,105438,,Q,Inigo Cervantes Huegun,R,,ESP,31.1156741958,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,436,87,518,63
 2021-M-ITF-ESP-02A-2021,M15 Manacor,Hard,32,15,20210111,108,105778,8,,Tobias Simon,R,,GER,29.6536618754,206758,,,Antoine Cornut Chauvinc,U,,FRA,20.514715948,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,407,97,442,85
 2021-M-ITF-ESP-02A-2021,M15 Manacor,Hard,32,15,20210111,109,200385,7,,Dan Added,U,,FRA,21.749486653,202209,,Q,Imanol Lopez Morillo,R,,ESP,21.1498973306,6-4 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,393,102,597,44
 2021-M-ITF-ESP-02A-2021,M15 Manacor,Hard,32,15,20210111,110,132744,,Q,Alberto Barroso Campos,R,,ESP,24.605065024,206325,,WC,Pedro Vives Marcos,R,,ESP,19.7481177276,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,847,18,605,43
 2021-M-ITF-ESP-02A-2021,M15 Manacor,Hard,32,15,20210111,111,200031,,,Lucas Catarina,R,,MON,24.3778234086,207608,,,Timofey Skatov,R,,RUS,19.9726214921,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,423,91,445,84
-2021-M-ITF-ESP-02A-2021,M15 Manacor,Hard,32,15,20210111,112,144675,3,,Baptiste Crepatte,U,,FRA,26.3080082136,209404,,WC,Marc Othman Ktiri ,U,,ESP,,4-6 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,357,118,,
+2021-M-ITF-ESP-02A-2021,M15 Manacor,Hard,32,15,20210111,112,144675,3,,Baptiste Crepatte,U,,FRA,26.3080082136,209404,,WC,Marc Othman Ktiri ,U,,ESP,17.5112936345,4-6 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,357,118,,
 2021-M-ITF-ESP-02A-2021,M15 Manacor,Hard,32,15,20210111,113,208029,,,Holger Rune,R,,DEN,17.7056810404,111584,5,,Jeroen Vanneste,R,,BEL,26.984257358,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,475,75,380,108
 2021-M-ITF-ESP-02A-2021,M15 Manacor,Hard,32,15,20210111,114,202127,,Q,Clement Tabur,U,,FRA,20.9664613279,208343,,Q,Andrew Paulson,U,,CZE,19.1540041068,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,647,36,758,24
 2021-M-ITF-ESP-02A-2021,M15 Manacor,Hard,32,15,20210111,115,104932,,Q,Kenny De Schepper,L,203,FRA,33.6235455168,205842,,Q,Arthur Reymond,U,,FRA,21.7796030116,6-3 5-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,669,33,589,46
@@ -1213,7 +1213,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-ESP-07A-2021,M15 Valldoreix,Clay,32,15,20210510,111,132310,,,Tiago Cacao,R,,POR,23.1950718686,208046,,,Pedro Boscardin Dias,U,,BRA,18.2806297057,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,529,65,2053,1
 2021-M-ITF-ESP-07A-2021,M15 Valldoreix,Clay,32,15,20210510,112,102093,,,Martin Damm,L,,USA,17.6098562628,200550,3,,Vladyslav Orlov,U,,UKR,25.9822039699,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,702,32,373,119
 2021-M-ITF-ESP-07A-2021,M15 Valldoreix,Clay,32,15,20210510,113,105899,,,Martin Cuevas,R,,URU,29.3196440794,126206,8,,Alex Rybakov,U,,USA,24.2819986311,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,506,72,445,91
-2021-M-ITF-ESP-07A-2021,M15 Valldoreix,Clay,32,15,20210510,114,123809,,,Ivan Gakhov,L,,RUS,24.5119780972,210044,,,Bruno Kuzuhara,U,,USA,,3-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,480,79,,
+2021-M-ITF-ESP-07A-2021,M15 Valldoreix,Clay,32,15,20210510,114,123809,,,Ivan Gakhov,L,,RUS,24.5119780972,210044,,,Bruno Kuzuhara,U,,USA,17.106091718,3-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,480,79,,
 2021-M-ITF-ESP-07A-2021,M15 Valldoreix,Clay,32,15,20210510,115,202128,,Q,Louis Dussin,R,,FRA,21.8590006845,209405,,WC,Daniel Rincon,L,,ESP,18.3381245722,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,851,20,1236,5
 2021-M-ITF-ESP-07A-2021,M15 Valldoreix,Clay,32,15,20210510,116,111801,,Q,Rishab Agarwal,R,,IND,25.4291581109,106177,2,,Oriol Roca Batalla,R,,ESP,28.0273785079,7-5 2-6 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,945,14,362,125
 2021-M-ITF-ESP-07A-2021,M15 Valldoreix,Clay,32,15,20210510,201,126533,,Q,Alvaro Lopez San Martin,R,,ESP,23.9370294319,111512,,,Johan Sebastien Tatlot,U,,FRA,25.1225188227,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,505,72,514,68
@@ -1362,7 +1362,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-FIN-01A-2021,M15 Helsinki,Clay,32,15,20210531,105,202261,4,,Otto Virtanen,R,,FIN,19.9425051335,110647,,,Filip Bergevi,R,,SWE,27.112936345,3-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,534,65,707,32
 2021-M-ITF-FIN-01A-2021,M15 Helsinki,Clay,32,15,20210531,106,208421,,,Lilian Marmousez,U,,FRA,19.4058863792,200326,,Q,Karl Kiur Saar,U,,EST,25.1088295688,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,825,21,1879,1
 2021-M-ITF-FIN-01A-2021,M15 Helsinki,Clay,32,15,20210531,107,207606,,Q,Yannik Steinegger,R,,SUI,20.7173169062,207615,,Q,Mikhail Minakov,U,,RUS,19.947980835,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1294,5,,
-2021-M-ITF-FIN-01A-2021,M15 Helsinki,Clay,32,15,20210531,108,210044,,,Bruno Kuzuhara,U,,USA,,207760,6,,Anton Matusevich,U,,GBR,20.0027378508,4-6 6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,588,52
+2021-M-ITF-FIN-01A-2021,M15 Helsinki,Clay,32,15,20210531,108,210044,,,Bruno Kuzuhara,U,,USA,17.1635865845,207760,6,,Anton Matusevich,U,,GBR,20.0027378508,4-6 6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,588,52
 2021-M-ITF-FIN-01A-2021,M15 Helsinki,Clay,32,15,20210531,109,202126,,,Jaimee Floyd Angele,U,,FRA,21.1772758385,105559,7,,Jonathan Eysseric,L,180,FRA,31.0116358658,2-6 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,819,22,611,47
 2021-M-ITF-FIN-01A-2021,M15 Helsinki,Clay,32,15,20210531,110,202299,,Q,Rimpei Kawakami,U,,JPN,20.7529089665,207323,,,Simon Yitbarek,U,,SWE,20.5804243669,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,874,18,820,22
 2021-M-ITF-FIN-01A-2021,M15 Helsinki,Clay,32,15,20210531,111,209952,,,Sean Cuenin,U,,FRA,17.28678987,126758,,,Simon Freund,U,,SWE,24.6707734428,6-2 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1660,2,697,33
@@ -1374,13 +1374,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-FIN-01A-2021,M15 Helsinki,Clay,32,15,20210531,201,200031,1,,Lucas Catarina,R,,MON,24.7611225188,206430,,WC,Andrea Del Federico,R,,ITA,21.4346338125,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,349,134,,
 2021-M-ITF-FIN-01A-2021,M15 Helsinki,Clay,32,15,20210531,202,202127,5,,Clement Tabur,U,,FRA,21.3497604381,207419,,Q,Matvey Minin,U,,RUS,19.923340178,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,581,54,955,14
 2021-M-ITF-FIN-01A-2021,M15 Helsinki,Clay,32,15,20210531,203,208421,,,Lilian Marmousez,U,,FRA,19.4058863792,202261,4,,Otto Virtanen,R,,FIN,19.9425051335,7-5 1-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,825,21,534,65
-2021-M-ITF-FIN-01A-2021,M15 Helsinki,Clay,32,15,20210531,204,210044,,,Bruno Kuzuhara,U,,USA,,207606,,Q,Yannik Steinegger,R,,SUI,20.7173169062,6-2 2-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,1294,5
+2021-M-ITF-FIN-01A-2021,M15 Helsinki,Clay,32,15,20210531,204,210044,,,Bruno Kuzuhara,U,,USA,17.1635865845,207606,,Q,Yannik Steinegger,R,,SUI,20.7173169062,6-2 2-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,1294,5
 2021-M-ITF-FIN-01A-2021,M15 Helsinki,Clay,32,15,20210531,205,202126,,,Jaimee Floyd Angele,U,,FRA,21.1772758385,202299,,Q,Rimpei Kawakami,U,,JPN,20.7529089665,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,819,22,874,18
 2021-M-ITF-FIN-01A-2021,M15 Helsinki,Clay,32,15,20210531,206,200418,,,Karl Friberg,R,,SWE,22.1848049281,209952,,,Sean Cuenin,U,,FRA,17.28678987,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,740,29,1660,2
 2021-M-ITF-FIN-01A-2021,M15 Helsinki,Clay,32,15,20210531,207,208169,,,Titouan Droguet,R,,FRA,19.9589322382,209922,,Q,Max Westphal ,U,,FRA,,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,703,32,,
 2021-M-ITF-FIN-01A-2021,M15 Helsinki,Clay,32,15,20210531,208,208021,2,,Kyrian Jacquet,R,,FRA,20.0547570157,208859,,,Francesco Passaro,R,,ITA,20.3942505133,2-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,469,82,754,27
 2021-M-ITF-FIN-01A-2021,M15 Helsinki,Clay,32,15,20210531,301,200031,1,,Lucas Catarina,R,,MON,24.7611225188,202127,5,,Clement Tabur,U,,FRA,21.3497604381,4-6 7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,349,134,581,54
-2021-M-ITF-FIN-01A-2021,M15 Helsinki,Clay,32,15,20210531,302,208421,,,Lilian Marmousez,U,,FRA,19.4058863792,210044,,,Bruno Kuzuhara,U,,USA,,6-4 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,825,21,,
+2021-M-ITF-FIN-01A-2021,M15 Helsinki,Clay,32,15,20210531,302,208421,,,Lilian Marmousez,U,,FRA,19.4058863792,210044,,,Bruno Kuzuhara,U,,USA,17.1635865845,6-4 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,825,21,,
 2021-M-ITF-FIN-01A-2021,M15 Helsinki,Clay,32,15,20210531,303,200418,,,Karl Friberg,R,,SWE,22.1848049281,202126,,,Jaimee Floyd Angele,U,,FRA,21.1772758385,7-5 4-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,740,29,819,22
 2021-M-ITF-FIN-01A-2021,M15 Helsinki,Clay,32,15,20210531,304,208021,2,,Kyrian Jacquet,R,,FRA,20.0547570157,208169,,,Titouan Droguet,R,,FRA,19.9589322382,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,469,82,703,32
 2021-M-ITF-FIN-01A-2021,M15 Helsinki,Clay,32,15,20210531,401,208421,,,Lilian Marmousez,U,,FRA,19.4058863792,200031,1,,Lucas Catarina,R,,MON,24.7611225188,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,825,21,349,134
@@ -1398,7 +1398,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-FIN-02A-2021,M15 Kouvola,Hard,32,15,20210524,110,207588,,Q,Simonas Zukauskas,U,,LTU,22.2861054073,210066,,Q,August Ehrnrooth,U,,FIN,,7-6(6) 4-6 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2021-M-ITF-FIN-02A-2021,M15 Kouvola,Hard,32,15,20210524,111,208358,,WC,Aleksi Lofman,U,,FIN,19.2525667351,206752,,WC,Hermanni Tiainen,R,,FIN,20.7693360712,2-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2021-M-ITF-FIN-02A-2021,M15 Kouvola,Hard,32,15,20210524,112,207248,4,,Naoki Tajima,R,,JPN,20.6707734428,134423,,LL,Leevi Saatela,U,,FIN,25.7741273101,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,664,38,,
-2021-M-ITF-FIN-02A-2021,M15 Kouvola,Hard,32,15,20210524,113,209164,,Q,Lorenzo Rottoli,U,,ITA,,104901,7,,Vladimir Ivanov,R,,EST,34.12183436,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1989,1,706,32
+2021-M-ITF-FIN-02A-2021,M15 Kouvola,Hard,32,15,20210524,113,209164,,Q,Lorenzo Rottoli,U,,ITA,19.2580424367,104901,7,,Vladimir Ivanov,R,,EST,34.12183436,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1989,1,706,32
 2021-M-ITF-FIN-02A-2021,M15 Kouvola,Hard,32,15,20210524,114,144814,,,Eero Vasa,R,,FIN,24.3066392882,200366,,,Olukayode Alafia Damina Ayeni,U,,USA,21.787816564,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1195,6,874,18
 2021-M-ITF-FIN-02A-2021,M15 Kouvola,Hard,32,15,20210524,115,207606,,Q,Yannik Steinegger,R,,SUI,20.6981519507,105478,,,Yan Sabanin,U,,RUS,31.3100616016,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1291,5,849,20
 2021-M-ITF-FIN-02A-2021,M15 Kouvola,Hard,32,15,20210524,116,202261,2,,Otto Virtanen,R,,FIN,19.923340178,208249,,Q,Gian Marco Ortenzi,U,,ITA,21.3032169747,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,556,59,1464,3
@@ -1408,14 +1408,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-FIN-02A-2021,M15 Kouvola,Hard,32,15,20210524,204,209852,,,Zsombor Velcz,U,,HUN,,208533,,,Joao Victor Couto Loureiro,U,,BRA,18.1574264203,6-2 4-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1309,4,,
 2021-M-ITF-FIN-02A-2021,M15 Kouvola,Hard,32,15,20210524,205,132573,8,,Luca Castelnuovo,U,,SUI,24.3148528405,207588,,Q,Simonas Zukauskas,U,,LTU,22.2861054073,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,717,31,,
 2021-M-ITF-FIN-02A-2021,M15 Kouvola,Hard,32,15,20210524,206,207248,4,,Naoki Tajima,R,,JPN,20.6707734428,208358,,WC,Aleksi Lofman,U,,FIN,19.2525667351,3-6 7-6(4) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,664,38,,
-2021-M-ITF-FIN-02A-2021,M15 Kouvola,Hard,32,15,20210524,207,209164,,Q,Lorenzo Rottoli,U,,ITA,,144814,,,Eero Vasa,R,,FIN,24.3066392882,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1989,1,1195,6
+2021-M-ITF-FIN-02A-2021,M15 Kouvola,Hard,32,15,20210524,207,209164,,Q,Lorenzo Rottoli,U,,ITA,19.2580424367,144814,,,Eero Vasa,R,,FIN,24.3066392882,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1989,1,1195,6
 2021-M-ITF-FIN-02A-2021,M15 Kouvola,Hard,32,15,20210524,208,202261,2,,Otto Virtanen,R,,FIN,19.923340178,207606,,Q,Yannik Steinegger,R,,SUI,20.6981519507,6-0 5-7 6-3,3,R16,,,,,,,,,,,,,,,,,,,,556,59,1291,5
 2021-M-ITF-FIN-02A-2021,M15 Kouvola,Hard,32,15,20210524,301,105692,1,,Alessandro Bega,R,,ITA,30.3655030801,126612,5,,Alexander Cozbinov,R,,MDA,26.0725530459,6-4 6-0,3,QF,,,,,,,,,,,,,,,,,,,,378,117,670,37
 2021-M-ITF-FIN-02A-2021,M15 Kouvola,Hard,32,15,20210524,302,207760,3,,Anton Matusevich,U,,GBR,19.9835728953,209852,,,Zsombor Velcz,U,,HUN,,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,585,52,1309,4
 2021-M-ITF-FIN-02A-2021,M15 Kouvola,Hard,32,15,20210524,303,207248,4,,Naoki Tajima,R,,JPN,20.6707734428,132573,8,,Luca Castelnuovo,U,,SUI,24.3148528405,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,664,38,717,31
-2021-M-ITF-FIN-02A-2021,M15 Kouvola,Hard,32,15,20210524,304,209164,,Q,Lorenzo Rottoli,U,,ITA,,202261,2,,Otto Virtanen,R,,FIN,19.923340178,6-2 2-6 7-5,3,QF,,,,,,,,,,,,,,,,,,,,1989,1,556,59
+2021-M-ITF-FIN-02A-2021,M15 Kouvola,Hard,32,15,20210524,304,209164,,Q,Lorenzo Rottoli,U,,ITA,19.2580424367,202261,2,,Otto Virtanen,R,,FIN,19.923340178,6-2 2-6 7-5,3,QF,,,,,,,,,,,,,,,,,,,,1989,1,556,59
 2021-M-ITF-FIN-02A-2021,M15 Kouvola,Hard,32,15,20210524,401,207760,3,,Anton Matusevich,U,,GBR,19.9835728953,105692,1,,Alessandro Bega,R,,ITA,30.3655030801,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,585,52,378,117
-2021-M-ITF-FIN-02A-2021,M15 Kouvola,Hard,32,15,20210524,402,207248,4,,Naoki Tajima,R,,JPN,20.6707734428,209164,,Q,Lorenzo Rottoli,U,,ITA,,7-5 6-4,3,SF,,,,,,,,,,,,,,,,,,,,664,38,1989,1
+2021-M-ITF-FIN-02A-2021,M15 Kouvola,Hard,32,15,20210524,402,207248,4,,Naoki Tajima,R,,JPN,20.6707734428,209164,,Q,Lorenzo Rottoli,U,,ITA,19.2580424367,7-5 6-4,3,SF,,,,,,,,,,,,,,,,,,,,664,38,1989,1
 2021-M-ITF-FIN-02A-2021,M15 Kouvola,Hard,32,15,20210524,501,207760,3,,Anton Matusevich,U,,GBR,19.9835728953,207248,4,,Naoki Tajima,R,,JPN,20.6707734428,6-1 4-6 6-0,3,F,,,,,,,,,,,,,,,,,,,,585,52,664,38
 2021-M-ITF-FRA-01A-2021,M15+H Bressuire,Hard,32,15,20210118,101,200188,,,Matteo Martineau,U,,FRA,22.006844627,109303,1,,Stefano Napolitano,R,,ITA,25.7741273101,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,434,88,279,194
 2021-M-ITF-FRA-01A-2021,M15+H Bressuire,Hard,32,15,20210118,102,131911,,Q,Lucas Poullain,U,,FRA,25.1225188227,105938,,Q,Antoine Escoffier,U,,FRA,28.887063655,6-7(5) 6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,554,55,388,105
@@ -1595,7 +1595,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-FRA-07A-2021,M25 Grasse,Clay,32,25,20210614,402,208316,,WC,Valentin Royer,U,,FRA,20.0438056126,106162,,,Franco Agamenone,U,,ARG,28.1642710472,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,705,32,432,93
 2021-M-ITF-FRA-07A-2021,M25 Grasse,Clay,32,25,20210614,501,126533,,,Alvaro Lopez San Martin,R,,ESP,24.0328542094,208316,,WC,Valentin Royer,U,,FRA,20.0438056126,7-6(6) 7-5,3,F,,,,,,,,,,,,,,,,,,,,474,81,705,32
 2021-M-ITF-GEO-01A-2021,M15 Tbilisi,Hard,32,15,20210517,101,105692,1,,Alessandro Bega,R,,ITA,30.3463381246,209203,,,Evgeny Philippov,R,,RUS,,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,373,120,1136,7
-2021-M-ITF-GEO-01A-2021,M15 Tbilisi,Hard,32,15,20210517,102,209164,,,Lorenzo Rottoli,U,,ITA,,106106,,WC,George Tsivadze,U,,GEO,28.3696098563,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1985,1,905,16
+2021-M-ITF-GEO-01A-2021,M15 Tbilisi,Hard,32,15,20210517,102,209164,,,Lorenzo Rottoli,U,,ITA,19.2388774812,106106,,WC,George Tsivadze,U,,GEO,28.3696098563,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1985,1,905,16
 2021-M-ITF-GEO-01A-2021,M15 Tbilisi,Hard,32,15,20210517,103,124126,,,Sarp Agabigun,R,,TUR,23.9288158795,200184,,,Andrey Chepelev,L,,RUS,22.7898699521,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,831,21,684,35
 2021-M-ITF-GEO-01A-2021,M15 Tbilisi,Hard,32,15,20210517,104,134490,,,Justin Roberts,R,,BAH,24.4490075291,106223,7,,Aleksandre Metreveli,R,,GEO,27.7672826831,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,823,21,616,46
 2021-M-ITF-GEO-01A-2021,M15 Tbilisi,Hard,32,15,20210517,105,208527,4,,Zane Khan,U,,USA,19.2607802875,126612,,,Alexander Cozbinov,R,,MDA,26.0533880903,3-6 6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,534,63,678,36
@@ -1610,7 +1610,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-GEO-01A-2021,M15 Tbilisi,Hard,32,15,20210517,114,202089,,Q,Aleksandr Braynin,U,,UKR,21.7166324435,108772,,,Julius Tverijonas,R,,LTU,26.9240246407,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1192,6,869,18
 2021-M-ITF-GEO-01A-2021,M15 Tbilisi,Hard,32,15,20210517,115,208854,,,Aidan Mayo,U,,USA,18.0095824778,208182,,WC,Saba Purtseladze,R,,GEO,19.7399041752,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1668,2
 2021-M-ITF-GEO-01A-2021,M15 Tbilisi,Hard,32,15,20210517,116,200309,2,,Marek Gengel,R,,CZE,25.6646132786,122321,,,Marat Deviatiarov,R,,UKR,27.0773442847,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,434,93,650,40
-2021-M-ITF-GEO-01A-2021,M15 Tbilisi,Hard,32,15,20210517,201,105692,1,,Alessandro Bega,R,,ITA,30.3463381246,209164,,,Lorenzo Rottoli,U,,ITA,,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,373,120,1985,1
+2021-M-ITF-GEO-01A-2021,M15 Tbilisi,Hard,32,15,20210517,201,105692,1,,Alessandro Bega,R,,ITA,30.3463381246,209164,,,Lorenzo Rottoli,U,,ITA,19.2388774812,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,373,120,1985,1
 2021-M-ITF-GEO-01A-2021,M15 Tbilisi,Hard,32,15,20210517,202,134490,,,Justin Roberts,R,,BAH,24.4490075291,124126,,,Sarp Agabigun,R,,TUR,23.9288158795,6-4 2-6 7-6(7),3,R16,,,,,,,,,,,,,,,,,,,,823,21,831,21
 2021-M-ITF-GEO-01A-2021,M15 Tbilisi,Hard,32,15,20210517,203,208527,4,,Zane Khan,U,,USA,19.2607802875,126108,,Q,Julian Cash,R,,GBR,24.7145790554,7-6(3) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,534,63,1238,5
 2021-M-ITF-GEO-01A-2021,M15 Tbilisi,Hard,32,15,20210517,204,207129,8,,Yanki Erel,L,,TUR,20.6406570842,206600,,WC,Zura Tkemaladze,R,,GEO,20.9500342231,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,635,42,,
@@ -1692,7 +1692,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-GRE-01A-2021,M15 Heraklion,Hard,32,15,20210524,104,202242,,,Dusty H Boyer,U,,USA,27.8932238193,202354,,LL,Matthew Dellavedova,U,,AUS,20.9828884326,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,624,44,1680,2
 2021-M-ITF-GRE-01A-2021,M15 Heraklion,Hard,32,15,20210524,105,126106,3,,Ryan Peniston,U,,GBR,25.5359342916,202271,,Q,Lorenzo Joaquin Rodriguez,R,,ARG,21.6509240246,6-3 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,393,109,,
 2021-M-ITF-GRE-01A-2021,M15 Heraklion,Hard,32,15,20210524,106,200661,,,Yuki Mochiduki,U,,JPN,23.498973306,126570,,Q,William Griffith,U,,USA,25.6536618754,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,685,34,1356,4
-2021-M-ITF-GRE-01A-2021,M15 Heraklion,Hard,32,15,20210524,107,209259,,,Arthur Fery,R,,GBR,18.8665297741,209866,,,Karlis Ozolins,R,,LVA,,6-7(5) 4-3 RET,3,R32,,,,,,,,,,,,,,,,,,,,1105,8,987,12
+2021-M-ITF-GRE-01A-2021,M15 Heraklion,Hard,32,15,20210524,107,209259,,,Arthur Fery,R,,GBR,18.8665297741,209866,,,Karlis Ozolins,R,,LAT,18.9404517454,6-7(5) 4-3 RET,3,R32,,,,,,,,,,,,,,,,,,,,1105,8,987,12
 2021-M-ITF-GRE-01A-2021,M15 Heraklion,Hard,32,15,20210524,108,200228,8,,Felix Corwin,U,,USA,24.9938398357,208189,,Q,Gianmarco Ferrari,U,,ITA,20.6351813826,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,515,69,1107,8
 2021-M-ITF-GRE-01A-2021,M15 Heraklion,Hard,32,15,20210524,109,105585,7,,Ze Zhang,R,,CHN,30.8884325804,207249,,WC,Alexandros Skorilas,R,,GRE,21.1882272416,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,509,71,1228,6
 2021-M-ITF-GRE-01A-2021,M15 Heraklion,Hard,32,15,20210524,110,207756,,WC,Adam Jones,U,,GBR,23.0444900753,105560,,,Kelsey Stevenson,R,,CAN,30.9869952088,6-2 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,2028,1,687,34
@@ -2004,11 +2004,11 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-ITA-03A-2021,M15 Gaiba,Grass,32,15,20210607,107,205842,,,Arthur Reymond,U,,FRA,22.1629021218,208233,,WC,Mattia Bellucci,U,,ITA,19.9972621492,6-1 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,608,48,860,19
 2021-M-ITF-ITA-03A-2021,M15 Gaiba,Grass,32,15,20210607,108,200216,7,,Giovanni Fonio,U,,ITA,23.0663928816,200462,,Q,Andrea Guerrieri,L,,ITA,22.4914442163,5-7 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,488,78,794,24
 2021-M-ITF-ITA-03A-2021,M15 Gaiba,Grass,32,15,20210607,109,105578,8,,Cristian Rodriguez,R,,COL,30.9349760438,200279,,Q,Osgar Ohoisin,U,,IRL,24.7392197125,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,509,72,,
-2021-M-ITF-ITA-03A-2021,M15 Gaiba,Grass,32,15,20210607,110,202338,,Q,Mattia Frinzi,U,,ITA,21.749486653,209164,,WC,Lorenzo Rottoli,U,,ITA,,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,999,12,1624,2
+2021-M-ITF-ITA-03A-2021,M15 Gaiba,Grass,32,15,20210607,110,202338,,Q,Mattia Frinzi,U,,ITA,21.749486653,209164,,WC,Lorenzo Rottoli,U,,ITA,19.2772073922,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,999,12,1624,2
 2021-M-ITF-ITA-03A-2021,M15 Gaiba,Grass,32,15,20210607,111,105895,,Q,Omar Giacalone,R,,ITA,29.3853524983,106260,,,Pietro Rondoni,U,,ITA,27.5728952772,6-4 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,669,37,637,42
 2021-M-ITF-ITA-03A-2021,M15 Gaiba,Grass,32,15,20210607,112,134472,,,Antoine Bellier,U,,SUI,24.6160164271,104563,3,,Luca Vanni,R,,ITA,35.9890485969,5-7 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,513,70,431,93
 2021-M-ITF-ITA-03A-2021,M15 Gaiba,Grass,32,15,20210607,113,111761,5,,Benjamin Lock,R,,ZIM,28.2409308693,209183,,WC,Luigi Castelletti,U,,ITA,,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,460,84,1541,2
-2021-M-ITF-ITA-03A-2021,M15 Gaiba,Grass,32,15,20210607,114,209260,,,Luciano Darderi,U,,ITA,,105452,,Q,Francesco Vilardo,R,,ITA,31.4223134839,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,919,15,712,32
+2021-M-ITF-ITA-03A-2021,M15 Gaiba,Grass,32,15,20210607,114,209260,,,Luciano Darderi,R,,ITA,19.2908966461,105452,,Q,Francesco Vilardo,R,,ITA,31.4223134839,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,919,15,712,32
 2021-M-ITF-ITA-03A-2021,M15 Gaiba,Grass,32,15,20210607,115,201967,,Q,Federico Bertuccioli,U,,ITA,22.7953456537,209949,,,Alexander Hoogmartens,U,,BEL,,6-7(4) 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1402,3,,
 2021-M-ITF-ITA-03A-2021,M15 Gaiba,Grass,32,15,20210607,116,105778,2,,Tobias Simon,R,,GER,30.0369609856,208104,,Q,Andrea Picchione,U,,ITA,22.9815195072,7-5 6-7(5) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,425,96,1046,10
 2021-M-ITF-ITA-03A-2021,M15 Gaiba,Grass,32,15,20210607,201,105692,1,,Alessandro Bega,R,,ITA,30.3846680356,109640,,,Andrea Basso,L,,ITA,27.6440793977,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,373,120,633,43
@@ -2017,7 +2017,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-ITA-03A-2021,M15 Gaiba,Grass,32,15,20210607,204,205842,,,Arthur Reymond,U,,FRA,22.1629021218,200216,7,,Giovanni Fonio,U,,ITA,23.0663928816,3-6 6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,608,48,488,78
 2021-M-ITF-ITA-03A-2021,M15 Gaiba,Grass,32,15,20210607,205,202338,,Q,Mattia Frinzi,U,,ITA,21.749486653,105578,8,,Cristian Rodriguez,R,,COL,30.9349760438,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,999,12,509,72
 2021-M-ITF-ITA-03A-2021,M15 Gaiba,Grass,32,15,20210607,206,134472,,,Antoine Bellier,U,,SUI,24.6160164271,105895,,Q,Omar Giacalone,R,,ITA,29.3853524983,2-6 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,513,70,669,37
-2021-M-ITF-ITA-03A-2021,M15 Gaiba,Grass,32,15,20210607,207,111761,5,,Benjamin Lock,R,,ZIM,28.2409308693,209260,,,Luciano Darderi,U,,ITA,,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,460,84,919,15
+2021-M-ITF-ITA-03A-2021,M15 Gaiba,Grass,32,15,20210607,207,111761,5,,Benjamin Lock,R,,ZIM,28.2409308693,209260,,,Luciano Darderi,R,,ITA,19.2908966461,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,460,84,919,15
 2021-M-ITF-ITA-03A-2021,M15 Gaiba,Grass,32,15,20210607,208,105778,2,,Tobias Simon,R,,GER,30.0369609856,201967,,Q,Federico Bertuccioli,U,,ITA,22.7953456537,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,425,96,1402,3
 2021-M-ITF-ITA-03A-2021,M15 Gaiba,Grass,32,15,20210607,301,200070,,WC,Kirill Kivattsev,U,,RUS,23.6386036961,105692,1,,Alessandro Bega,R,,ITA,30.3846680356,7-6(5) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,759,27,373,120
 2021-M-ITF-ITA-03A-2021,M15 Gaiba,Grass,32,15,20210607,302,200346,,,Mats Rosenkranz,L,,GER,22.7707049966,205842,,,Arthur Reymond,U,,FRA,22.1629021218,7-6(3) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,578,55,608,48
@@ -2311,14 +2311,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-MKD-02A-2021,M15 Skopje,Clay,32,15,20210607,108,200437,,Q,Rrezart Cungu,R,,MNE,22.8692676249,202235,5,,Jacopo Berrettini,U,,ITA,22.507871321,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1713,1,532,66
 2021-M-ITF-MKD-02A-2021,M15 Skopje,Clay,32,15,20210607,109,200247,8,,Alexandar Lazarov,R,,BUL,23.5646817248,207649,,,Savriyan Danilov,R,,RUS,20.9911019849,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,556,61,601,49
 2021-M-ITF-MKD-02A-2021,M15 Skopje,Clay,32,15,20210607,110,207844,,Q,Tomas Jirousek,R,,CZE,21.4045174538,132023,,,Jean Thirouin,U,,USA,23.6988364134,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,864,19,650,41
-2021-M-ITF-MKD-02A-2021,M15 Skopje,Clay,32,15,20210607,111,209918,,,Hanwen Li,R,,CHN,,126088,,Q,Plamen Milushev,U,,BUL,26.81724846,6-4 6-7(6) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1076,9,1796,1
+2021-M-ITF-MKD-02A-2021,M15 Skopje,Clay,32,15,20210607,111,209918,,,Hanwen Li,R,180,CHN,18.7734428474,126088,,Q,Plamen Milushev,U,,BUL,26.81724846,6-4 6-7(6) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1076,9,1796,1
 2021-M-ITF-MKD-02A-2021,M15 Skopje,Clay,32,15,20210607,112,131912,,,Ronan Joncour,L,,FRA,24.3394934976,202327,4,,Marko Miladinovic,U,,SRB,20.4791238877,7-6(3) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,706,32,524,67
 2021-M-ITF-MKD-02A-2021,M15 Skopje,Clay,32,15,20210607,114,208276,,WC,Obrad Markovski,U,,MKD,20.5776865161,209928,,,Kalin Ivanovski,U,,MKD,,3-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1587,2
 2021-M-ITF-MKD-02A-2021,M15 Skopje,Clay,32,15,20210607,115,123855,,,Daniele Capecchi,U,,ITA,25.6372347707,207412,,Q,Sidane Pontjodikromo,U,,NED,20.5995893224,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,596,50,1005,12
 2021-M-ITF-MKD-02A-2021,M15 Skopje,Clay,32,15,20210607,116,133835,2,,Gijs Brouwer,L,,NED,25.2128678987,200315,,WC,Gorazd Srbljak,L,,MKD,23.7672826831,6-3 3-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,441,92,1088,9
 2021-M-ITF-MKD-02A-2021,M15 Skopje,Clay,32,15,20210607,202,207660,6,,Nicholas David Ionel,R,,ROU,18.6338124572,200255,,,Alexander Weis,U,,ITA,24.1013004791,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,539,63,661,39
 2021-M-ITF-MKD-02A-2021,M15 Skopje,Clay,32,15,20210607,205,200247,8,,Alexandar Lazarov,R,,BUL,23.5646817248,207844,,Q,Tomas Jirousek,R,,CZE,21.4045174538,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,556,61,864,19
-2021-M-ITF-MKD-02A-2021,M15 Skopje,Clay,32,15,20210607,206,131912,,,Ronan Joncour,L,,FRA,24.3394934976,209918,,,Hanwen Li,R,,CHN,,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,706,32,1076,9
+2021-M-ITF-MKD-02A-2021,M15 Skopje,Clay,32,15,20210607,206,131912,,,Ronan Joncour,L,,FRA,24.3394934976,209918,,,Hanwen Li,R,180,CHN,18.7734428474,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,706,32,1076,9
 2021-M-ITF-MKD-02A-2021,M15 Skopje,Clay,32,15,20210607,207,134794,7,,Alexis Gautier,U,,FRA,24.1478439425,208276,,WC,Obrad Markovski,U,,MKD,20.5776865161,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,548,62,,
 2021-M-ITF-MKD-02A-2021,M15 Skopje,Clay,32,15,20210607,208,123855,,,Daniele Capecchi,U,,ITA,25.6372347707,133835,2,,Gijs Brouwer,L,,NED,25.2128678987,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,596,50,441,92
 2021-M-ITF-MKD-02A-2021,M15 Skopje,Clay,32,15,20210607,301,105181,1,,Miljan Zekic,R,,SRB,32.8843258042,207660,6,,Nicholas David Ionel,R,,ROU,18.6338124572,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,410,102,539,63
@@ -2485,7 +2485,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-RUS-01A-2021,M15 St. Petersburg,Hard,32,15,20210201,103,122321,,,Marat Deviatiarov,R,,UKR,26.7898699521,209962,,,Mikhail Gorokhov,U,,RUS,,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,653,36,,
 2021-M-ITF-RUS-01A-2021,M15 St. Petersburg,Hard,32,15,20210201,104,123809,8,,Ivan Gakhov,L,,RUS,24.2436687201,209963,,WC,Aleksei Abazov,U,,RUS,,6-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,498,71,,
 2021-M-ITF-RUS-01A-2021,M15 St. Petersburg,Hard,32,15,20210201,105,207609,4,,Alexey Zakharov,R,,RUS,20.7830253251,206363,,WC,Alexander Wolfschmidt,U,,GER,20.8843258042,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,424,93,,
-2021-M-ITF-RUS-01A-2021,M15 St. Petersburg,Hard,32,15,20210201,106,209866,,,Karlis Ozolins,R,,LVA,,206625,,WC,Daniil Golubev,U,,RUS,19.3675564682,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1013,10,,
+2021-M-ITF-RUS-01A-2021,M15 St. Petersburg,Hard,32,15,20210201,106,209866,,,Karlis Ozolins,R,,LAT,18.6338124572,206625,,WC,Daniil Golubev,U,,RUS,19.3675564682,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1013,10,,
 2021-M-ITF-RUS-01A-2021,M15 St. Petersburg,Hard,32,15,20210201,107,209322,,,Martin Krumich,U,,CZE,,126720,,,Boris Pokotilov,U,,RUS,23.6851471595,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1119,7,714,29
 2021-M-ITF-RUS-01A-2021,M15 St. Petersburg,Hard,32,15,20210201,108,144984,5,,Artem Dubrivnyy,R,,RUS,22.0041067762,144924,,PR,Patrik Rikl,R,,CZE,22.0725530459,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,432,90,669,33
 2021-M-ITF-RUS-01A-2021,M15 St. Petersburg,Hard,32,15,20210201,109,208230,,Q,Alibek Kachmazov,R,,RUS,18.4613278576,207415,7,,Daniel Michalski,U,,POL,21.0595482546,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,798,22,435,89
@@ -2498,7 +2498,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-RUS-01A-2021,M15 St. Petersburg,Hard,32,15,20210201,116,104505,2,,Konstantin Kravchuk,R,190,RUS,35.9397672827,105892,,,Alexandr Igoshin,U,,RUS,29.0622861054,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,353,122,633,39
 2021-M-ITF-RUS-01A-2021,M15 St. Petersburg,Hard,32,15,20210201,201,123828,1,,Jan Choinski,R,,GER,24.6461327858,208343,,Q,Andrew Paulson,U,,CZE,19.2114989733,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,352,122,763,24
 2021-M-ITF-RUS-01A-2021,M15 St. Petersburg,Hard,32,15,20210201,202,123809,8,,Ivan Gakhov,L,,RUS,24.2436687201,122321,,,Marat Deviatiarov,R,,UKR,26.7898699521,1-6 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,498,71,653,36
-2021-M-ITF-RUS-01A-2021,M15 St. Petersburg,Hard,32,15,20210201,203,207609,4,,Alexey Zakharov,R,,RUS,20.7830253251,209866,,,Karlis Ozolins,R,,LVA,,4-6 6-2 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,424,93,1013,10
+2021-M-ITF-RUS-01A-2021,M15 St. Petersburg,Hard,32,15,20210201,203,207609,4,,Alexey Zakharov,R,,RUS,20.7830253251,209866,,,Karlis Ozolins,R,,LAT,18.6338124572,4-6 6-2 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,424,93,1013,10
 2021-M-ITF-RUS-01A-2021,M15 St. Petersburg,Hard,32,15,20210201,204,209322,,,Martin Krumich,U,,CZE,,144984,5,,Artem Dubrivnyy,R,,RUS,22.0041067762,6-7(4) 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1119,7,432,90
 2021-M-ITF-RUS-01A-2021,M15 St. Petersburg,Hard,32,15,20210201,205,208230,,Q,Alibek Kachmazov,R,,RUS,18.4613278576,104901,,,Vladimir Ivanov,R,,EST,33.8151950719,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,798,22,717,29
 2021-M-ITF-RUS-01A-2021,M15 St. Petersburg,Hard,32,15,20210201,206,126612,,Q,Alexander Cozbinov,R,,MDA,25.7659137577,126185,3,,Evgenii Tiurnev,R,,RUS,23.819301848,7-5 2-6 7-6(1),3,R16,,,,,,,,,,,,,,,,,,,,756,25,423,93
@@ -2526,7 +2526,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-RUS-02A-2021,M15 St. Petersburg,Hard,32,15,20210208,113,144984,5,,Artem Dubrivnyy,R,,RUS,22.0232717317,126171,,Q,Maxim Ratniuk,U,,UKR,24.7830253251,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,432,90,756,25
 2021-M-ITF-RUS-02A-2021,M15 St. Petersburg,Hard,32,15,20210208,114,209322,,,Martin Krumich,U,,CZE,,200639,,Q,Luigi Sorrentino,U,,ITA,22.6447638604,6-2 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,1120,7,1038,10
 2021-M-ITF-RUS-02A-2021,M15 St. Petersburg,Hard,32,15,20210208,115,105723,,,Andrey Kuznetsov,R,185,RUS,29.9630390144,126615,,Q,Aliaksandr Prudnikau,U,,BLR,25.3032169747,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,521,63,,
-2021-M-ITF-RUS-02A-2021,M15 St. Petersburg,Hard,32,15,20210208,116,104505,2,,Konstantin Kravchuk,R,190,RUS,35.9589322382,209866,,,Karlis Ozolins,R,,LVA,,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,353,122,1014,10
+2021-M-ITF-RUS-02A-2021,M15 St. Petersburg,Hard,32,15,20210208,116,104505,2,,Konstantin Kravchuk,R,190,RUS,35.9589322382,209866,,,Karlis Ozolins,R,,LAT,18.6529774127,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,353,122,1014,10
 2021-M-ITF-RUS-02A-2021,M15 St. Petersburg,Hard,32,15,20210208,201,123828,1,,Jan Choinski,R,,GER,24.6652977413,122321,,,Marat Deviatiarov,R,,UKR,26.8090349076,6-4 6-7(5) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,352,122,654,36
 2021-M-ITF-RUS-02A-2021,M15 St. Petersburg,Hard,32,15,20210208,202,126612,,Q,Alexander Cozbinov,R,,MDA,25.7850787132,200184,,,Andrey Chepelev,L,,RUS,22.5215605749,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,757,25,681,33
 2021-M-ITF-RUS-02A-2021,M15 St. Petersburg,Hard,32,15,20210208,203,126185,3,,Evgenii Tiurnev,R,,RUS,23.8384668036,209951,,WC,Petr Bar Biryukov,U,,RUS,,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,423,93,,
@@ -2728,7 +2728,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-SVK-04A-2021,M15 Bratislava,Hard,32,15,20210301,111,209930,,WC,Lukas Palovic,U,,SVK,18.9979466119,209931,,WC,Lukas Pokorny,U,,SVK,19.0034223135,7-6(4) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2021-M-ITF-SVK-04A-2021,M15 Bratislava,Hard,32,15,20210301,112,200436,4,,Zsombor Piros,R,,HUN,21.3826146475,127087,,Q,Dominik Recek,U,,CZE,26.0287474333,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,437,89,1639,2
 2021-M-ITF-SVK-04A-2021,M15 Bratislava,Hard,32,15,20210301,113,133045,6,,Riccardo Balzerani,R,,ITA,22.3490759754,208265,,,Pierre Delage,U,,FRA,20.1040383299,6-4 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,500,71,917,15
-2021-M-ITF-SVK-04A-2021,M15 Bratislava,Hard,32,15,20210301,114,209338,,Q,Daniel Siniakov,U,,CZE,,126200,,Q,Piotr Grynkowski,U,,POL,28.7173169062,6-3 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1894,1,1078,9
+2021-M-ITF-SVK-04A-2021,M15 Bratislava,Hard,32,15,20210301,114,209338,,Q,Daniel Siniakov,U,,CZE,18.1245722108,126200,,Q,Piotr Grynkowski,U,,POL,28.7173169062,6-3 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1894,1,1078,9
 2021-M-ITF-SVK-04A-2021,M15 Bratislava,Hard,32,15,20210301,115,209302,,,Peter Fajta,R,,HUN,18.7734428474,105587,,,Tom Kocevar Desman,R,,SLO,30.6420260096,5-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,946,13,659,36
 2021-M-ITF-SVK-04A-2021,M15 Bratislava,Hard,32,15,20210301,116,126964,2,,Vitaliy Sachko,R,,UKR,23.6303901437,208233,,,Mattia Bellucci,U,,ITA,19.7481177276,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,405,103,972,12
 2021-M-ITF-SVK-04A-2021,M15 Bratislava,Hard,32,15,20210301,201,144675,1,,Baptiste Crepatte,U,,FRA,26.4421629021,144970,,Q,Constantin Bittoun Kouzmine,L,,FRA,22.1546885695,5-7 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,368,118,1325,4
@@ -2737,7 +2737,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-SVK-04A-2021,M15 Bratislava,Hard,32,15,20210301,204,200643,,Q,Jurgen Briand,R,,FRA,22.135523614,144742,,,Michal Dembek,U,,POL,23.5646817248,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1086,8,581,51
 2021-M-ITF-SVK-04A-2021,M15 Bratislava,Hard,32,15,20210301,205,208021,7,,Kyrian Jacquet,R,,FRA,19.8056125941,144915,,Q,Mikalai Haliak,R,,BLR,22.546201232,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,505,70,981,12
 2021-M-ITF-SVK-04A-2021,M15 Bratislava,Hard,32,15,20210301,206,200436,4,,Zsombor Piros,R,,HUN,21.3826146475,209930,,WC,Lukas Palovic,U,,SVK,18.9979466119,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,437,89,,
-2021-M-ITF-SVK-04A-2021,M15 Bratislava,Hard,32,15,20210301,207,133045,6,,Riccardo Balzerani,R,,ITA,22.3490759754,209338,,Q,Daniel Siniakov,U,,CZE,,1-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,500,71,1894,1
+2021-M-ITF-SVK-04A-2021,M15 Bratislava,Hard,32,15,20210301,207,133045,6,,Riccardo Balzerani,R,,ITA,22.3490759754,209338,,Q,Daniel Siniakov,U,,CZE,18.1245722108,1-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,500,71,1894,1
 2021-M-ITF-SVK-04A-2021,M15 Bratislava,Hard,32,15,20210301,208,126964,2,,Vitaliy Sachko,R,,UKR,23.6303901437,209302,,,Peter Fajta,R,,HUN,18.7734428474,W/O,3,R16,,,,,,,,,,,,,,,,,,,,405,103,946,13
 2021-M-ITF-SVK-04A-2021,M15 Bratislava,Hard,32,15,20210301,301,208343,,,Andrew Paulson,U,,CZE,19.2881587953,144675,1,,Baptiste Crepatte,U,,FRA,26.4421629021,7-5 5-7 6-4,3,QF,,,,,,,,,,,,,,,,,,,,760,25,368,118
 2021-M-ITF-SVK-04A-2021,M15 Bratislava,Hard,32,15,20210301,302,200643,,Q,Jurgen Briand,R,,FRA,22.135523614,144924,,PR,Patrik Rikl,R,,CZE,22.1492128679,7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,1086,8,664,35
@@ -2926,7 +2926,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-TUN-08A-2021,M15 Monastir,Hard,32,15,20210222,108,208421,,,Lilian Marmousez,U,,FRA,19.1375770021,202199,8,,Carlos Sanchez Jover,R,,ESP,20.59137577,3-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1190,6,600,46
 2021-M-ITF-TUN-08A-2021,M15 Monastir,Hard,32,15,20210222,109,127123,6,,Mateus Alves,R,,BRA,20.0821355236,206904,,SE,Gauthier Onclin,U,,BEL,19.9890485969,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,603,45
 2021-M-ITF-TUN-08A-2021,M15 Monastir,Hard,32,15,20210222,110,123855,,,Daniele Capecchi,U,,ITA,25.3689253936,132023,,,Jean Thirouin,U,,USA,23.4305270363,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,605,45,622,42
-2021-M-ITF-TUN-08A-2021,M15 Monastir,Hard,32,15,20210222,111,209903,,,Lukas Neumayer,U,,AUT,,208186,,WC,Preston Brown,U,,USA,19.5017111567,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1936,1,1656,2
+2021-M-ITF-TUN-08A-2021,M15 Monastir,Hard,32,15,20210222,111,209903,,,Lukas Neumayer,R,183,AUT,18.4640657084,208186,,WC,Preston Brown,U,,USA,19.5017111567,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1936,1,1656,2
 2021-M-ITF-TUN-08A-2021,M15 Monastir,Hard,32,15,20210222,112,200610,,,Oliver Crawford,R,,USA,21.8179329227,133872,3,,Enrico Dalla Valle,U,,ITA,22.9267624914,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,623,41,452,85
 2021-M-ITF-TUN-08A-2021,M15 Monastir,Hard,32,15,20210222,113,134794,7,,Alexis Gautier,U,,FRA,23.8795345654,207248,,,Naoki Tajima,R,,JPN,20.4216290212,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,570,52,644,39
 2021-M-ITF-TUN-08A-2021,M15 Monastir,Hard,32,15,20210222,114,121411,,WC,Moez Chargui,R,,TUN,28.1177275838,200297,,WC,Aziz Ouakaa,U,,TUN,21.5468856947,4-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,658,36,765,25
@@ -2936,7 +2936,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-TUN-08A-2021,M15 Monastir,Hard,32,15,20210222,203,126623,4,,Alexander Erler,U,,AUT,23.3237508556,124040,,Q,Colin Sinclair,U,,AUS,26.1793292266,7-6(4) 5-7 6-1,3,R16,,,,,,,,,,,,,,,,,,,,440,89,745,27
 2021-M-ITF-TUN-08A-2021,M15 Monastir,Hard,32,15,20210222,204,208421,,,Lilian Marmousez,U,,FRA,19.1375770021,123812,,,Jose Fco Vidal Azorin,U,,ESP,27.6988364134,6-0 4-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1190,6,601,46
 2021-M-ITF-TUN-08A-2021,M15 Monastir,Hard,32,15,20210222,205,123855,,,Daniele Capecchi,U,,ITA,25.3689253936,127123,6,,Mateus Alves,R,,BRA,20.0821355236,5-7 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,605,45,,
-2021-M-ITF-TUN-08A-2021,M15 Monastir,Hard,32,15,20210222,206,200610,,,Oliver Crawford,R,,USA,21.8179329227,209903,,,Lukas Neumayer,U,,AUT,,6-3 2-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,623,41,1936,1
+2021-M-ITF-TUN-08A-2021,M15 Monastir,Hard,32,15,20210222,206,200610,,,Oliver Crawford,R,,USA,21.8179329227,209903,,,Lukas Neumayer,R,183,AUT,18.4640657084,6-3 2-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,623,41,1936,1
 2021-M-ITF-TUN-08A-2021,M15 Monastir,Hard,32,15,20210222,207,134794,7,,Alexis Gautier,U,,FRA,23.8795345654,121411,,WC,Moez Chargui,R,,TUN,28.1177275838,6-3 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,570,52,658,36
 2021-M-ITF-TUN-08A-2021,M15 Monastir,Hard,32,15,20210222,208,105895,,Q,Omar Giacalone,R,,ITA,29.1170431211,208467,,Q,Alexander Kotzen,U,,USA,20.6461327858,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,747,26,1052,9
 2021-M-ITF-TUN-08A-2021,M15 Monastir,Hard,32,15,20210222,301,206912,,Q,Stuart Parker,R,,GBR,23.5674195756,126337,5,,Renta Tokuda,U,,JPN,22.9048596851,6-7(7) 7-6(2) 6-0,3,QF,,,,,,,,,,,,,,,,,,,,636,39,499,71
@@ -2957,7 +2957,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-TUN-09A-2021,M15 Monastir,Hard,32,15,20210301,109,127123,5,,Mateus Alves,R,,BRA,20.1013004791,132023,,,Jean Thirouin,U,,USA,23.4496919918,4-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,625,42
 2021-M-ITF-TUN-09A-2021,M15 Monastir,Hard,32,15,20210301,110,200518,,PR,Constantin Schmitz,R,,GER,25.7713894593,122352,,PR,Christoph Negritu,R,,GER,26.945927447,6-4 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,653,37,890,16
 2021-M-ITF-TUN-09A-2021,M15 Monastir,Hard,32,15,20210301,111,208467,,Q,Alexander Kotzen,U,,USA,20.6652977413,126551,,LL,Leonardo Civita Telles,R,,BRA,25.2950034223,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1053,9,1222,5
-2021-M-ITF-TUN-09A-2021,M15 Monastir,Hard,32,15,20210301,112,133872,3,,Enrico Dalla Valle,U,,ITA,22.945927447,209903,,,Lukas Neumayer,U,,AUT,,6-4 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,454,85,1937,1
+2021-M-ITF-TUN-09A-2021,M15 Monastir,Hard,32,15,20210301,112,133872,3,,Enrico Dalla Valle,U,,ITA,22.945927447,209903,,,Lukas Neumayer,R,183,AUT,18.4832306639,6-4 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,454,85,1937,1
 2021-M-ITF-TUN-09A-2021,M15 Monastir,Hard,32,15,20210301,113,202199,7,,Carlos Sanchez Jover,R,,ESP,20.6105407255,208864,,WC,Leyton Rivera,R,,NOR,19.3401779603,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,603,46,,
 2021-M-ITF-TUN-09A-2021,M15 Monastir,Hard,32,15,20210301,114,208913,,,Juan Bautista Torres,U,,ARG,18.9130732375,133291,,,Ryota Tanuma,U,,JPN,25.440109514,3-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,802,22,619,43
 2021-M-ITF-TUN-09A-2021,M15 Monastir,Hard,32,15,20210301,115,207248,,,Naoki Tajima,R,,JPN,20.4407939767,132584,,Q,Stefano Reitano,R,,ITA,23.6112251882,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,635,40,,
@@ -2985,7 +2985,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-TUN-10A-2021,M15 Monastir,Hard,32,15,20210308,106,111788,,,Naoki Nakagawa,R,,JPN,24.2984257358,106164,,,Tomas Lipovsek Puches,U,,ARG,27.8904859685,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,668,35,604,46
 2021-M-ITF-TUN-10A-2021,M15 Monastir,Hard,32,15,20210308,107,209986,,Q,Viktor Jovic,U,,SRB,,209987,,WC,Alex Ganchev,U,,BUL,,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2021-M-ITF-TUN-10A-2021,M15 Monastir,Hard,32,15,20210308,108,200278,6,,Simon Carr,R,,IRL,21.3333333333,209937,,Q,Giorgio Tabacco,U,,ITA,,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,550,59,,
-2021-M-ITF-TUN-10A-2021,M15 Monastir,Hard,32,15,20210308,109,123855,8,,Daniele Capecchi,U,,ITA,25.4072553046,209875,,,Alex Barrena,U,,ARG,,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,605,46,,
+2021-M-ITF-TUN-10A-2021,M15 Monastir,Hard,32,15,20210308,109,123855,8,,Daniele Capecchi,U,,ITA,25.4072553046,209875,,,Alex Barrena,R,,ARG,18.4093086927,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,605,46,,
 2021-M-ITF-TUN-10A-2021,M15 Monastir,Hard,32,15,20210308,110,106162,,,Franco Agamenone,U,,ARG,27.8959616701,208467,,Q,Alexander Kotzen,U,,USA,20.6844626968,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,611,44,1024,10
 2021-M-ITF-TUN-10A-2021,M15 Monastir,Hard,32,15,20210308,111,200297,,WC,Aziz Ouakaa,U,,TUN,21.5852156057,209360,,WC,Samir Hamza Reguig,U,,ALG,,3-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,757,26,,
 2021-M-ITF-TUN-10A-2021,M15 Monastir,Hard,32,15,20210308,112,126337,4,,Renta Tokuda,U,,JPN,22.9431895962,105059,,,Kento Takeuchi,L,,JPN,33.2183436003,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,495,73,693,32
@@ -3011,7 +3011,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-TUN-11A-2021,M15 Monastir,Hard,32,15,20210315,101,200574,,,Alexander Donski,R,,CAN,22.6201232033,144826,1,,Aziz Dougaz,L,,TUN,23.9698836413,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,607,46,377,117
 2021-M-ITF-TUN-11A-2021,M15 Monastir,Hard,32,15,20210315,102,132052,,,Christian Langmo,U,,USA,24.7857631759,209360,,WC,Samir Hamza Reguig,U,,ALG,,6-0 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,597,48,,
 2021-M-ITF-TUN-11A-2021,M15 Monastir,Hard,32,15,20210315,103,202234,,Q,Savva Polukhin,U,,RUS,22.3189596167,109737,,,Markos Kalovelonis,R,,GRE,26.8254620123,7-6(2) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1515,2,752,27
-2021-M-ITF-TUN-11A-2021,M15 Monastir,Hard,32,15,20210315,104,200278,6,,Simon Carr,R,,IRL,21.3524982888,209875,,,Alex Barrena,U,,ARG,,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,546,60,,
+2021-M-ITF-TUN-11A-2021,M15 Monastir,Hard,32,15,20210315,104,200278,6,,Simon Carr,R,,IRL,21.3524982888,209875,,,Alex Barrena,R,,ARG,18.4284736482,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,546,60,,
 2021-M-ITF-TUN-11A-2021,M15 Monastir,Hard,32,15,20210315,105,144985,3,,Ergi Kirkin,R,,TUR,22.1300479124,200632,,,Evan Zhu,U,,USA,22.5817932923,6-3 6-7(3) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,396,108,622,43
 2021-M-ITF-TUN-11A-2021,M15 Monastir,Hard,32,15,20210315,106,206904,,,Gauthier Onclin,U,,BEL,20.0465434634,208518,,LL,Hazem Naw,R,,UNK,21.2019164956,7-6(5) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,579,51,1828,1
 2021-M-ITF-TUN-11A-2021,M15 Monastir,Hard,32,15,20210315,107,208372,,,Natan Rodrigues,U,,BRA,19.112936345,209986,,WC,Viktor Jovic,U,,SRB,,3-6 7-6(7) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,2022,1,,
@@ -3040,7 +3040,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-TUN-11A-2021,M15 Monastir,Hard,32,15,20210315,402,209920,,,Raphael Collignon,U,,BEL,19.1676933607,127108,,Q,Igor Ribeiro Marcondes,U,,BRA,23.7453798768,1-6 7-6(7) 6-4,3,SF,,,,,,,,,,,,,,,,,,,,1598,2,840,19
 2021-M-ITF-TUN-11A-2021,M15 Monastir,Hard,32,15,20210315,501,206904,,,Gauthier Onclin,U,,BEL,20.0465434634,209920,,,Raphael Collignon,U,,BEL,19.1676933607,6-1 6-1,3,F,,,,,,,,,,,,,,,,,,,,579,51,1598,2
 2021-M-ITF-TUN-12A-2021,M15 Monastir,Hard,32,15,20210322,101,144826,1,,Aziz Dougaz,L,,TUN,23.9890485969,108705,,WC,Anis Ghorbel,R,,TUN,31.909650924,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,379,117,906,16
-2021-M-ITF-TUN-12A-2021,M15 Monastir,Hard,32,15,20210322,102,122352,,PR,Christoph Negritu,R,,GER,27.0034223135,209875,,,Alex Barrena,U,,ARG,,3-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,961,13,,
+2021-M-ITF-TUN-12A-2021,M15 Monastir,Hard,32,15,20210322,102,122352,,PR,Christoph Negritu,R,,GER,27.0034223135,209875,,,Alex Barrena,R,,ARG,18.4476386037,3-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,961,13,,
 2021-M-ITF-TUN-12A-2021,M15 Monastir,Hard,32,15,20210322,103,208518,,Q,Hazem Naw,R,,UNK,21.2210814511,126551,,Q,Leonardo Civita Telles,R,,BRA,25.3524982888,4-6 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1838,1,1236,5
 2021-M-ITF-TUN-12A-2021,M15 Monastir,Hard,32,15,20210322,104,126337,6,,Renta Tokuda,U,,JPN,22.9815195072,209362,,Q,Aristotelis Thanos,U,,GRE,,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,465,84,1250,5
 2021-M-ITF-TUN-12A-2021,M15 Monastir,Hard,32,15,20210322,105,144985,3,,Ergi Kirkin,R,,TUR,22.1492128679,111508,,,Juan Ignacio Galarza,R,,ARG,27.0116358658,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,396,109,582,51
@@ -3082,7 +3082,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-TUN-13A-2021,M15 Monastir,Hard,32,15,20210329,110,207331,,LL,Vladislav Melnic,U,,ROU,21.7467488022,210006,,WC,Naman Sharma,U,,IND,,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1431,3,,
 2021-M-ITF-TUN-13A-2021,M15 Monastir,Hard,32,15,20210329,111,132744,,Q,Alberto Barroso Campos,R,,ESP,24.7967145791,208046,,,Pedro Boscardin Dias,U,,BRA,18.1464750171,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,825,21,,
 2021-M-ITF-TUN-13A-2021,M15 Monastir,Hard,32,15,20210329,112,200632,,,Evan Zhu,U,,USA,22.6009582478,111761,3,,Benjamin Lock,R,,ZIM,28.0492813142,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,630,43,454,87
-2021-M-ITF-TUN-13A-2021,M15 Monastir,Hard,32,15,20210329,113,209875,,WC,Alex Barrena,U,,ARG,,133045,5,,Riccardo Balzerani,R,,ITA,22.4065708419,6-4 2-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,502,73
+2021-M-ITF-TUN-13A-2021,M15 Monastir,Hard,32,15,20210329,113,209875,,WC,Alex Barrena,R,,ARG,18.4476386037,133045,5,,Riccardo Balzerani,R,,ITA,22.4065708419,6-4 2-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,502,73
 2021-M-ITF-TUN-13A-2021,M15 Monastir,Hard,32,15,20210329,114,127108,,Q,Igor Ribeiro Marcondes,U,,BRA,23.7645448323,208518,,Q,Hazem Naw,R,,UNK,21.2210814511,6-1 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,845,19,1838,1
 2021-M-ITF-TUN-13A-2021,M15 Monastir,Hard,32,15,20210329,115,132052,,,Christian Langmo,U,,USA,24.8049281314,122352,,PR,Christoph Negritu,R,,GER,27.0034223135,3-6 7-6(5) 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,602,48,961,13
 2021-M-ITF-TUN-13A-2021,M15 Monastir,Hard,32,15,20210329,116,200553,2,,Alen Avidzba,R,,RUS,21.0732375086,209937,,Q,Giorgio Tabacco,U,,ITA,,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,418,100,,
@@ -3092,7 +3092,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-TUN-13A-2021,M15 Monastir,Hard,32,15,20210329,204,206553,,Q,Luca Potenza,U,,ITA,20.6488706366,134490,,Q,Justin Roberts,R,,BAH,24.295687885,7-6(3) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,751,27,831,20
 2021-M-ITF-TUN-13A-2021,M15 Monastir,Hard,32,15,20210329,205,106162,8,,Franco Agamenone,U,,ARG,27.9342915811,207331,,LL,Vladislav Melnic,U,,ROU,21.7467488022,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,575,52,1431,3
 2021-M-ITF-TUN-13A-2021,M15 Monastir,Hard,32,15,20210329,206,132744,,Q,Alberto Barroso Campos,R,,ESP,24.7967145791,200632,,,Evan Zhu,U,,USA,22.6009582478,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,825,21,630,43
-2021-M-ITF-TUN-13A-2021,M15 Monastir,Hard,32,15,20210329,207,127108,,Q,Igor Ribeiro Marcondes,U,,BRA,23.7645448323,209875,,WC,Alex Barrena,U,,ARG,,3-6 6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,845,19,,
+2021-M-ITF-TUN-13A-2021,M15 Monastir,Hard,32,15,20210329,207,127108,,Q,Igor Ribeiro Marcondes,U,,BRA,23.7645448323,209875,,WC,Alex Barrena,R,,ARG,18.4476386037,3-6 6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,845,19,,
 2021-M-ITF-TUN-13A-2021,M15 Monastir,Hard,32,15,20210329,208,200553,2,,Alen Avidzba,R,,RUS,21.0732375086,132052,,,Christian Langmo,U,,USA,24.8049281314,6-3 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,418,100,602,48
 2021-M-ITF-TUN-13A-2021,M15 Monastir,Hard,32,15,20210329,301,144826,1,,Aziz Dougaz,L,,TUN,23.9890485969,127123,6,,Mateus Alves,R,,BRA,20.1587953457,6-2 5-7 6-4,3,QF,,,,,,,,,,,,,,,,,,,,379,117,,
 2021-M-ITF-TUN-13A-2021,M15 Monastir,Hard,32,15,20210329,302,206553,,Q,Luca Potenza,U,,ITA,20.6488706366,200647,4,,Sho Shimabukuro,U,,JPN,23.6440793977,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,751,27,482,78
@@ -3106,7 +3106,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-TUN-14A-2021,M15 Monastir,Hard,32,15,20210405,103,207527,,Q,Buvaysar Gadamauri,U,,BEL,20.7364818617,202181,,,Gilbert Soares Klier Junior,U,,BRA,20.887063655,4-6 6-4 RET,3,R32,,,,,,,,,,,,,,,,,,,,1460,3,618,45
 2021-M-ITF-TUN-14A-2021,M15 Monastir,Hard,32,15,20210405,104,207669,,,Robert Strombachs,U,,GER,21.5550992471,207686,6,,Alexander Shevchenko,U,,RUS,20.2655715264,1-6 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,662,38,557,58
 2021-M-ITF-TUN-14A-2021,M15 Monastir,Hard,32,15,20210405,105,133045,4,,Riccardo Balzerani,R,,ITA,22.4449007529,208005,,WC,Thomas George Brun,U,,SUI,18.3682409309,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,501,73,,
-2021-M-ITF-TUN-14A-2021,M15 Monastir,Hard,32,15,20210405,106,200632,,,Evan Zhu,U,,USA,22.6392881588,209875,,,Alex Barrena,U,,ARG,,6-2 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,630,43,,
+2021-M-ITF-TUN-14A-2021,M15 Monastir,Hard,32,15,20210405,106,200632,,,Evan Zhu,U,,USA,22.6392881588,209875,,,Alex Barrena,R,,ARG,18.4859685147,6-2 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,630,43,,
 2021-M-ITF-TUN-14A-2021,M15 Monastir,Hard,32,15,20210405,107,209131,,WC,Eliakim Coulibaly,L,,CIV,18.9185489391,207547,,Q,Bruno Pujol Navarro,U,,ESP,19.6057494867,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1310,4,1619,2
 2021-M-ITF-TUN-14A-2021,M15 Monastir,Hard,32,15,20210405,108,144742,7,,Michal Dembek,U,,POL,23.6605065024,207391,,Q,Michal Mikula,U,,POL,21.0869267625,7-6(3) 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,565,56,1460,3
 2021-M-ITF-TUN-14A-2021,M15 Monastir,Hard,32,15,20210405,109,106162,8,,Franco Agamenone,U,,ARG,27.9726214921,132052,,,Christian Langmo,U,,USA,24.8432580424,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,583,51,592,50
@@ -3163,7 +3163,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-TUN-16A-2021,M15 Monastir,Hard,32,15,20210419,103,207323,,Q,Simon Yitbarek,U,,SWE,20.4654346338,208046,,,Pedro Boscardin Dias,U,,BRA,18.2231348392,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,801,23,1975,1
 2021-M-ITF-TUN-16A-2021,M15 Monastir,Hard,32,15,20210419,104,144742,6,,Michal Dembek,U,,POL,23.6988364134,209204,,Q,Iiro Vasa,U,,FIN,,7-5 5-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,571,56,1775,1
 2021-M-ITF-TUN-16A-2021,M15 Monastir,Hard,32,15,20210419,105,121264,3,,Oscar Jose Gutierrez,R,,BRA,27.9835728953,202125,,SE,Benjamin Pietri,U,,FRA,24.7173169062,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,422,98,732,30
-2021-M-ITF-TUN-16A-2021,M15 Monastir,Hard,32,15,20210419,106,209986,,WC,Viktor Jovic,U,,SRB,,209866,,,Karlis Ozolins,R,,LVA,,5-7 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1775,1,1011,11
+2021-M-ITF-TUN-16A-2021,M15 Monastir,Hard,32,15,20210419,106,209986,,WC,Viktor Jovic,U,,SRB,,209866,,,Karlis Ozolins,R,,LAT,18.8446269678,5-7 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1775,1,1011,11
 2021-M-ITF-TUN-16A-2021,M15 Monastir,Hard,32,15,20210419,107,210032,,WC,Pierre Antoine Tailleu,U,,FRA,,210033,,WC,Tushar Sharma ,U,,IND,,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2021-M-ITF-TUN-16A-2021,M15 Monastir,Hard,32,15,20210419,108,111197,7,,Jonathan Mridha,R,,SWE,26.0314852841,200013,,Q,Mirko Martinez,U,,SUI,23.0444900753,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,578,54,985,13
 2021-M-ITF-TUN-16A-2021,M15 Monastir,Hard,32,15,20210419,109,105895,,,Omar Giacalone,R,,ITA,29.2703627652,105534,8,,Erik Crepaldi,L,,ITA,30.9596167009,7-6(5) 4-6 3-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,723,30,585,52
@@ -3190,7 +3190,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-TUN-16A-2021,M15 Monastir,Hard,32,15,20210419,402,122352,,PR,Christoph Negritu,R,,GER,27.0800821355,105895,,,Omar Giacalone,R,,ITA,29.2703627652,6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,862,19,723,30
 2021-M-ITF-TUN-16A-2021,M15 Monastir,Hard,32,15,20210419,501,122352,,PR,Christoph Negritu,R,,GER,27.0800821355,127108,,Q,Igor Ribeiro Marcondes,U,,BRA,23.8412046543,6-2 6-2,3,F,,,,,,,,,,,,,,,,,,,,862,19,755,27
 2021-M-ITF-TUN-17A-2021,M15 Monastir,Hard,32,15,20210426,101,122495,1,,Shintaro Imai,U,,JPN,27.6331279945,132052,,,Christian Langmo,U,,USA,24.900752909,5-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,361,126,596,50
-2021-M-ITF-TUN-17A-2021,M15 Monastir,Hard,32,15,20210426,102,202125,,Q,Benjamin Pietri,U,,FRA,24.7364818617,209903,,,Lukas Neumayer,U,,AUT,,7-6(3) 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,707,32,1630,2
+2021-M-ITF-TUN-17A-2021,M15 Monastir,Hard,32,15,20210426,102,202125,,Q,Benjamin Pietri,U,,FRA,24.7364818617,209903,,,Lukas Neumayer,R,183,AUT,18.636550308,7-6(3) 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,707,32,1630,2
 2021-M-ITF-TUN-17A-2021,M15 Monastir,Hard,32,15,20210426,103,207884,,Q,Arthur Bouquier,U,,FRA,20.334017796,144970,,Q,Constantin Bittoun Kouzmine,L,,FRA,22.3080082136,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1165,7,1225,6
 2021-M-ITF-TUN-17A-2021,M15 Monastir,Hard,32,15,20210426,104,111197,6,,Jonathan Mridha,R,,SWE,26.0506502396,200574,,,Alexander Donski,R,,CAN,22.7351129363,7-5 6-7(5) 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,581,54,611,47
 2021-M-ITF-TUN-17A-2021,M15 Monastir,Hard,32,15,20210426,105,126283,3,,Yunseong Chung,U,,KOR,23.0828199863,105895,,,Omar Giacalone,R,,ITA,29.2895277207,6-3 6-7(5) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,400,107,711,31
@@ -3200,7 +3200,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-TUN-17A-2021,M15 Monastir,Hard,32,15,20210426,109,126183,5,,Mariano Kestelboim,R,,ARG,25.2183436003,207263,,WC,Ervin Haris Eminefendic,R,,ITA,19.3785078713,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,543,62,,
 2021-M-ITF-TUN-17A-2021,M15 Monastir,Hard,32,15,20210426,110,200665,,Q,Yuta Kawahashi,U,,JPN,23.2470910335,207815,,,Guido Ivan Justo,U,,ARG,23.356605065,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1031,10,733,30
 2021-M-ITF-TUN-17A-2021,M15 Monastir,Hard,32,15,20210426,111,200329,,Q,Remy Bertola,R,,SUI,22.6529774127,210037,,WC,Mehdi Benchakroun ,U,,MAR,,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,778,25,,
-2021-M-ITF-TUN-17A-2021,M15 Monastir,Hard,32,15,20210426,112,121264,4,,Oscar Jose Gutierrez,R,,BRA,28.0027378508,209866,,,Karlis Ozolins,R,,LVA,,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,422,98,1013,11
+2021-M-ITF-TUN-17A-2021,M15 Monastir,Hard,32,15,20210426,112,121264,4,,Oscar Jose Gutierrez,R,,BRA,28.0027378508,209866,,,Karlis Ozolins,R,,LAT,18.8637919233,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,422,98,1013,11
 2021-M-ITF-TUN-17A-2021,M15 Monastir,Hard,32,15,20210426,113,105534,7,,Erik Crepaldi,L,,ITA,30.9787816564,200297,,WC,Aziz Ouakaa,U,,TUN,21.7193702943,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,586,52,766,27
 2021-M-ITF-TUN-17A-2021,M15 Monastir,Hard,32,15,20210426,114,208230,,,Alibek Kachmazov,R,,RUS,18.6913073238,105452,,,Francesco Vilardo,R,,ITA,31.3264887064,2-6 6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,641,41,708,32
 2021-M-ITF-TUN-17A-2021,M15 Monastir,Hard,32,15,20210426,115,202234,,Q,Savva Polukhin,U,,RUS,22.4339493498,209964,,WC,Liova Ayite Ajavon,U,,TGO,,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1008,11,,
@@ -3221,7 +3221,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-TUN-17A-2021,M15 Monastir,Hard,32,15,20210426,402,200031,2,,Lucas Catarina,R,,MON,24.6652977413,200665,,Q,Yuta Kawahashi,U,,JPN,23.2470910335,6-3 6-1,3,SF,,,,,,,,,,,,,,,,,,,,391,113,1031,10
 2021-M-ITF-TUN-17A-2021,M15 Monastir,Hard,32,15,20210426,501,200031,2,,Lucas Catarina,R,,MON,24.6652977413,202125,,Q,Benjamin Pietri,U,,FRA,24.7364818617,6-0 6-0,3,F,,,,,,,,,,,,,,,,,,,,391,113,707,32
 2021-M-ITF-TUN-18A-2021,M15 Monastir,Hard,32,15,20210503,101,144826,1,,Aziz Dougaz,L,,TUN,24.1040383299,206225,,Q,Fabio Coelho,R,,POR,20.9418206708,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,352,131,1381,4
-2021-M-ITF-TUN-18A-2021,M15 Monastir,Hard,32,15,20210503,102,209866,,,Karlis Ozolins,R,,LVA,,200697,,WC,Jabari Stafford,U,,USA,25.8316221766,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1013,11,,
+2021-M-ITF-TUN-18A-2021,M15 Monastir,Hard,32,15,20210503,102,209866,,,Karlis Ozolins,R,,LAT,18.8829568789,200697,,WC,Jabari Stafford,U,,USA,25.8316221766,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1013,11,,
 2021-M-ITF-TUN-18A-2021,M15 Monastir,Hard,32,15,20210503,103,144970,,Q,Constantin Bittoun Kouzmine,L,,FRA,22.3271731691,208753,,WC,Imran Sibille,R,,FRA,19.241615332,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1225,6,,
 2021-M-ITF-TUN-18A-2021,M15 Monastir,Hard,32,15,20210503,104,126208,6,,Yusuke Takahashi,R,,JPN,23.5427789185,207669,,,Robert Strombachs,U,,GER,21.6317590691,6-3 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,492,76,658,39
 2021-M-ITF-TUN-18A-2021,M15 Monastir,Hard,32,15,20210503,105,200587,,,Brandon Holt,U,,USA,23.0746064339,126283,4,,Yunseong Chung,U,,KOR,23.1019849418,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,595,50,405,104
@@ -3233,16 +3233,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-TUN-18A-2021,M15 Monastir,Hard,32,15,20210503,111,208260,,Q,Zachary Svajda,R,,USA,18.4257357974,209347,,WC,Bruno Nhavene,R,,MOZ,,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,797,23,,
 2021-M-ITF-TUN-18A-2021,M15 Monastir,Hard,32,15,20210503,112,200031,3,,Lucas Catarina,R,,MON,24.6844626968,126464,,,Giorgio Ricca,U,,ITA,26.1793292266,6-2 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,368,123,731,30
 2021-M-ITF-TUN-18A-2021,M15 Monastir,Hard,32,15,20210503,113,105534,,,Erik Crepaldi,L,,ITA,30.9979466119,121264,5,,Oscar Jose Gutierrez,R,,BRA,28.0219028063,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,593,51,416,101
-2021-M-ITF-TUN-18A-2021,M15 Monastir,Hard,32,15,20210503,114,209903,,,Lukas Neumayer,U,,AUT,,202439,,Q,Sean Hodkin,U,,GBR,22.5051334702,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1634,2,1276,5
+2021-M-ITF-TUN-18A-2021,M15 Monastir,Hard,32,15,20210503,114,209903,,,Lukas Neumayer,R,183,AUT,18.6557152635,202439,,Q,Sean Hodkin,U,,GBR,22.5051334702,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1634,2,1276,5
 2021-M-ITF-TUN-18A-2021,M15 Monastir,Hard,32,15,20210503,115,111447,,Q,Takashi Saito,R,,JPN,26.1902806297,207815,,,Guido Ivan Justo,U,,ARG,23.3757700205,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,848,20,733,30
 2021-M-ITF-TUN-18A-2021,M15 Monastir,Hard,32,15,20210503,116,200574,,,Alexander Donski,R,,CAN,22.7542778919,122495,2,,Shintaro Imai,U,,JPN,27.65229295,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,606,48,365,124
-2021-M-ITF-TUN-18A-2021,M15 Monastir,Hard,32,15,20210503,201,144826,1,,Aziz Dougaz,L,,TUN,24.1040383299,209866,,,Karlis Ozolins,R,,LVA,,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,352,131,1013,11
+2021-M-ITF-TUN-18A-2021,M15 Monastir,Hard,32,15,20210503,201,144826,1,,Aziz Dougaz,L,,TUN,24.1040383299,209866,,,Karlis Ozolins,R,,LAT,18.8829568789,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,352,131,1013,11
 2021-M-ITF-TUN-18A-2021,M15 Monastir,Hard,32,15,20210503,202,126208,6,,Yusuke Takahashi,R,,JPN,23.5427789185,144970,,Q,Constantin Bittoun Kouzmine,L,,FRA,22.3271731691,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,492,76,1225,6
 2021-M-ITF-TUN-18A-2021,M15 Monastir,Hard,32,15,20210503,203,206553,,,Luca Potenza,U,,ITA,20.7638603696,200587,,,Brandon Holt,U,,USA,23.0746064339,4-6 6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,700,32,595,50
 2021-M-ITF-TUN-18A-2021,M15 Monastir,Hard,32,15,20210503,204,208361,,,Gustavo Heide,U,,BRA,19.1759069131,111761,7,,Benjamin Lock,R,,ZIM,28.1642710472,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1866,1,459,86
 2021-M-ITF-TUN-18A-2021,M15 Monastir,Hard,32,15,20210503,205,208230,,,Alibek Kachmazov,R,,RUS,18.7104722793,106059,,Q,Michel Vernier,R,,CHI,28.5968514716,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,640,41,772,26
 2021-M-ITF-TUN-18A-2021,M15 Monastir,Hard,32,15,20210503,206,200031,3,,Lucas Catarina,R,,MON,24.6844626968,208260,,Q,Zachary Svajda,R,,USA,18.4257357974,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,368,123,797,23
-2021-M-ITF-TUN-18A-2021,M15 Monastir,Hard,32,15,20210503,207,105534,,,Erik Crepaldi,L,,ITA,30.9979466119,209903,,,Lukas Neumayer,U,,AUT,,3-6 6-1 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,593,51,1634,2
+2021-M-ITF-TUN-18A-2021,M15 Monastir,Hard,32,15,20210503,207,105534,,,Erik Crepaldi,L,,ITA,30.9979466119,209903,,,Lukas Neumayer,R,183,AUT,18.6557152635,3-6 6-1 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,593,51,1634,2
 2021-M-ITF-TUN-18A-2021,M15 Monastir,Hard,32,15,20210503,208,200574,,,Alexander Donski,R,,CAN,22.7542778919,111447,,Q,Takashi Saito,R,,JPN,26.1902806297,7-6(3) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,606,48,848,20
 2021-M-ITF-TUN-18A-2021,M15 Monastir,Hard,32,15,20210503,301,144826,1,,Aziz Dougaz,L,,TUN,24.1040383299,126208,6,,Yusuke Takahashi,R,,JPN,23.5427789185,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,352,131,492,76
 2021-M-ITF-TUN-18A-2021,M15 Monastir,Hard,32,15,20210503,302,206553,,,Luca Potenza,U,,ITA,20.7638603696,208361,,,Gustavo Heide,U,,BRA,19.1759069131,7-6(2) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,700,32,1866,1
@@ -3296,7 +3296,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-TUN-20A-2021,M15 Monastir,Hard,32,15,20210517,112,133018,3,,Michail Pervolarakis,R,,CYP,24.9445585216,209043,,Q,Yuta Kikuchi,U,,JPN,,6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,474,81,1170,6
 2021-M-ITF-TUN-20A-2021,M15 Monastir,Hard,32,15,20210517,113,208361,,,Gustavo Heide,U,,BRA,19.2142368241,144973,7,,Santiago Fa Rodriguez Taverna,R,,ARG,21.8370978782,7-6(6) 0-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1402,3,527,65
 2021-M-ITF-TUN-20A-2021,M15 Monastir,Hard,32,15,20210517,114,207378,,WC,Berk Ilkel,U,,TUR,19.8028747433,208078,,Q,Tomas Farjat,U,,ARG,20.2491444216,7-5 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,2054,1,973,13
-2021-M-ITF-TUN-20A-2021,M15 Monastir,Hard,32,15,20210517,115,209903,,,Lukas Neumayer,U,,AUT,,207884,,Q,Arthur Bouquier,U,,FRA,20.3915126626,3-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1468,3,1047,10
+2021-M-ITF-TUN-20A-2021,M15 Monastir,Hard,32,15,20210517,115,209903,,,Lukas Neumayer,R,183,AUT,18.6940451745,207884,,Q,Arthur Bouquier,U,,FRA,20.3915126626,3-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1468,3,1047,10
 2021-M-ITF-TUN-20A-2021,M15 Monastir,Hard,32,15,20210517,116,126283,2,,Yunseong Chung,U,,KOR,23.1403148528,210057,,WC,Dorian Kos,U,,IRL,,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,439,92,,
 2021-M-ITF-TUN-20A-2021,M15 Monastir,Hard,32,15,20210517,201,122474,,WC,Guy Orly Iradukunda,U,,BDI,25.1553730322,126939,1,,Khumoun Sultanov,R,,UZB,22.5544147844,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,808,22,341,135
 2021-M-ITF-TUN-20A-2021,M15 Monastir,Hard,32,15,20210517,202,134472,6,,Antoine Bellier,U,,SUI,24.5776865161,202234,,Q,Savva Polukhin,U,,RUS,22.4914442163,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,515,68,984,12
@@ -3305,7 +3305,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-TUN-20A-2021,M15 Monastir,Hard,32,15,20210517,205,202318,8,,Roy Smith,U,,USA,22.674880219,121411,,,Moez Chargui,R,,TUN,28.34770705,3-3 RET,3,R16,,,,,,,,,,,,,,,,,,,,553,60,670,37
 2021-M-ITF-TUN-20A-2021,M15 Monastir,Hard,32,15,20210517,206,126573,,,Thomas Fancutt,R,,AUS,26.2231348392,133018,3,,Michail Pervolarakis,R,,CYP,24.9445585216,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,593,50,474,81
 2021-M-ITF-TUN-20A-2021,M15 Monastir,Hard,32,15,20210517,207,208361,,,Gustavo Heide,U,,BRA,19.2142368241,207378,,WC,Berk Ilkel,U,,TUR,19.8028747433,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1402,3,2054,1
-2021-M-ITF-TUN-20A-2021,M15 Monastir,Hard,32,15,20210517,208,126283,2,,Yunseong Chung,U,,KOR,23.1403148528,209903,,,Lukas Neumayer,U,,AUT,,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,439,92,1468,3
+2021-M-ITF-TUN-20A-2021,M15 Monastir,Hard,32,15,20210517,208,126283,2,,Yunseong Chung,U,,KOR,23.1403148528,209903,,,Lukas Neumayer,R,183,AUT,18.6940451745,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,439,92,1468,3
 2021-M-ITF-TUN-20A-2021,M15 Monastir,Hard,32,15,20210517,301,122474,,WC,Guy Orly Iradukunda,U,,BDI,25.1553730322,134472,6,,Antoine Bellier,U,,SUI,24.5776865161,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,808,22,515,68
 2021-M-ITF-TUN-20A-2021,M15 Monastir,Hard,32,15,20210517,302,200003,,PR,Jeremy Beale,L,,AUS,26.6173853525,126208,5,,Yusuke Takahashi,R,,JPN,23.5811088296,1-6 6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,,,488,77
 2021-M-ITF-TUN-20A-2021,M15 Monastir,Hard,32,15,20210517,303,126573,,,Thomas Fancutt,R,,AUS,26.2231348392,202318,8,,Roy Smith,U,,USA,22.674880219,6-0 6-4,3,QF,,,,,,,,,,,,,,,,,,,,593,50,553,60
@@ -3318,12 +3318,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-TUN-21A-2021,M15 Monastir,Hard,32,15,20210524,103,207884,,Q,Arthur Bouquier,U,,FRA,20.4106776181,106059,,,Michel Vernier,R,,CHI,28.6543463381,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1049,10,758,27
 2021-M-ITF-TUN-21A-2021,M15 Monastir,Hard,32,15,20210524,104,202318,6,,Roy Smith,U,,USA,22.6940451745,200003,,PR,Jeremy Beale,L,,AUS,26.636550308,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,552,60,1532,2
 2021-M-ITF-TUN-21A-2021,M15 Monastir,Hard,32,15,20210524,105,111788,,,Naoki Nakagawa,R,,JPN,24.5092402464,126878,3,,David Poljak,U,,CZE,25.0184804928,7-6(1) 6-7(1) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,635,42,456,85
-2021-M-ITF-TUN-21A-2021,M15 Monastir,Hard,32,15,20210524,106,209330,,WC,Bautista Vilicich,U,,ARG,,209279,,,Terence Atmane,L,,FRA,,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1187,6,1073,9
+2021-M-ITF-TUN-21A-2021,M15 Monastir,Hard,32,15,20210524,106,209330,,WC,Bautista Vilicich,R,,ARG,19.6331279945,209279,,,Terence Atmane,L,,FRA,,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1187,6,1073,9
 2021-M-ITF-TUN-21A-2021,M15 Monastir,Hard,32,15,20210524,107,200445,,Q,Maxence Beauge,U,,FRA,20.9582477755,207383,,,Taisei Ichikawa,U,,JPN,20.4216290212,6-3 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,1152,7,827,21
 2021-M-ITF-TUN-21A-2021,M15 Monastir,Hard,32,15,20210524,108,144973,5,,Santiago Fa Rodriguez Taverna,R,,ARG,21.8562628337,210068,,WC,Lorenzo Ferri ,U,,ITA,,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,520,67,,
 2021-M-ITF-TUN-21A-2021,M15 Monastir,Hard,32,15,20210524,109,206553,8,,Luca Potenza,U,,ITA,20.8213552361,208262,,,Alejo Lorenzo Lingua Lavallen,L,,ARG,20.2080766598,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,633,42,703,32
 2021-M-ITF-TUN-21A-2021,M15 Monastir,Hard,32,15,20210524,110,202154,,Q,Uisung Park,R,,KOR,20.6543463381,200395,,WC,Antoine Monaco,U,,FRA,24.0821355236,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,969,13,,
-2021-M-ITF-TUN-21A-2021,M15 Monastir,Hard,32,15,20210524,111,209903,,,Lukas Neumayer,U,,AUT,,210069,,WC,James Edley,U,,RSA,,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1466,3,,
+2021-M-ITF-TUN-21A-2021,M15 Monastir,Hard,32,15,20210524,111,209903,,,Lukas Neumayer,R,183,AUT,18.71321013,210069,,WC,James Edley,U,,RSA,,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1466,3,,
 2021-M-ITF-TUN-21A-2021,M15 Monastir,Hard,32,15,20210524,112,121411,,,Moez Chargui,R,,TUN,28.3668720055,126208,4,,Yusuke Takahashi,R,,JPN,23.6002737851,7-6(5) 0-6 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,668,37,490,77
 2021-M-ITF-TUN-21A-2021,M15 Monastir,Hard,32,15,20210524,113,126573,7,,Thomas Fancutt,R,,AUS,26.2422997947,122474,,,Guy Orly Iradukunda,U,,BDI,25.1745379877,6-3 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,592,51,842,20
 2021-M-ITF-TUN-21A-2021,M15 Monastir,Hard,32,15,20210524,114,208874,,Q,Seita Watanabe,U,,JPN,20.4106776181,208566,,Q,Mauro De Maio,U,,ITA,19.5455167693,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1218,6,1456,3
@@ -3331,15 +3331,15 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-TUN-21A-2021,M15 Monastir,Hard,32,15,20210524,116,126283,2,,Yunseong Chung,U,,KOR,23.1594798084,144788,,,Louis Tessa,U,,FRA,23.1321013005,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,409,101,832,21
 2021-M-ITF-TUN-21A-2021,M15 Monastir,Hard,32,15,20210524,201,209131,,,Eliakim Coulibaly,L,,CIV,19.0527036277,126939,1,,Khumoun Sultanov,R,,UZB,22.5735797399,6-7(3) 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,963,13,341,135
 2021-M-ITF-TUN-21A-2021,M15 Monastir,Hard,32,15,20210524,202,202318,6,,Roy Smith,U,,USA,22.6940451745,207884,,Q,Arthur Bouquier,U,,FRA,20.4106776181,6-2 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,552,60,1049,10
-2021-M-ITF-TUN-21A-2021,M15 Monastir,Hard,32,15,20210524,203,111788,,,Naoki Nakagawa,R,,JPN,24.5092402464,209330,,WC,Bautista Vilicich,U,,ARG,,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,635,42,1187,6
+2021-M-ITF-TUN-21A-2021,M15 Monastir,Hard,32,15,20210524,203,111788,,,Naoki Nakagawa,R,,JPN,24.5092402464,209330,,WC,Bautista Vilicich,R,,ARG,19.6331279945,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,635,42,1187,6
 2021-M-ITF-TUN-21A-2021,M15 Monastir,Hard,32,15,20210524,204,144973,5,,Santiago Fa Rodriguez Taverna,R,,ARG,21.8562628337,200445,,Q,Maxence Beauge,U,,FRA,20.9582477755,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,520,67,1152,7
 2021-M-ITF-TUN-21A-2021,M15 Monastir,Hard,32,15,20210524,205,202154,,Q,Uisung Park,R,,KOR,20.6543463381,206553,8,,Luca Potenza,U,,ITA,20.8213552361,6-4 3-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,969,13,633,42
-2021-M-ITF-TUN-21A-2021,M15 Monastir,Hard,32,15,20210524,206,209903,,,Lukas Neumayer,U,,AUT,,121411,,,Moez Chargui,R,,TUN,28.3668720055,6-3 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1466,3,668,37
+2021-M-ITF-TUN-21A-2021,M15 Monastir,Hard,32,15,20210524,206,209903,,,Lukas Neumayer,R,183,AUT,18.71321013,121411,,,Moez Chargui,R,,TUN,28.3668720055,6-3 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1466,3,668,37
 2021-M-ITF-TUN-21A-2021,M15 Monastir,Hard,32,15,20210524,207,126573,7,,Thomas Fancutt,R,,AUS,26.2422997947,208874,,Q,Seita Watanabe,U,,JPN,20.4106776181,7-6(3) 4-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,592,51,1218,6
 2021-M-ITF-TUN-21A-2021,M15 Monastir,Hard,32,15,20210524,208,126283,2,,Yunseong Chung,U,,KOR,23.1594798084,209043,,Q,Yuta Kikuchi,U,,JPN,,6-2 3-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,409,101,1173,6
 2021-M-ITF-TUN-21A-2021,M15 Monastir,Hard,32,15,20210524,301,209131,,,Eliakim Coulibaly,L,,CIV,19.0527036277,202318,6,,Roy Smith,U,,USA,22.6940451745,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,963,13,552,60
 2021-M-ITF-TUN-21A-2021,M15 Monastir,Hard,32,15,20210524,302,111788,,,Naoki Nakagawa,R,,JPN,24.5092402464,144973,5,,Santiago Fa Rodriguez Taverna,R,,ARG,21.8562628337,6-3 6-7(5) 6-1,3,QF,,,,,,,,,,,,,,,,,,,,635,42,520,67
-2021-M-ITF-TUN-21A-2021,M15 Monastir,Hard,32,15,20210524,303,202154,,Q,Uisung Park,R,,KOR,20.6543463381,209903,,,Lukas Neumayer,U,,AUT,,5-7 6-0 6-3,3,QF,,,,,,,,,,,,,,,,,,,,969,13,1466,3
+2021-M-ITF-TUN-21A-2021,M15 Monastir,Hard,32,15,20210524,303,202154,,Q,Uisung Park,R,,KOR,20.6543463381,209903,,,Lukas Neumayer,R,183,AUT,18.71321013,5-7 6-0 6-3,3,QF,,,,,,,,,,,,,,,,,,,,969,13,1466,3
 2021-M-ITF-TUN-21A-2021,M15 Monastir,Hard,32,15,20210524,304,126573,7,,Thomas Fancutt,R,,AUS,26.2422997947,126283,2,,Yunseong Chung,U,,KOR,23.1594798084,6-2 3-0 RET,3,QF,,,,,,,,,,,,,,,,,,,,592,51,409,101
 2021-M-ITF-TUN-21A-2021,M15 Monastir,Hard,32,15,20210524,401,209131,,,Eliakim Coulibaly,L,,CIV,19.0527036277,111788,,,Naoki Nakagawa,R,,JPN,24.5092402464,6-4 4-6 7-5,3,SF,,,,,,,,,,,,,,,,,,,,963,13,635,42
 2021-M-ITF-TUN-21A-2021,M15 Monastir,Hard,32,15,20210524,402,126573,7,,Thomas Fancutt,R,,AUS,26.2422997947,202154,,Q,Uisung Park,R,,KOR,20.6543463381,6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,592,51,969,13
@@ -3351,8 +3351,8 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-TUN-22A-2021,M15 Monastir,Hard,32,15,20210531,107,202130,,Q,Emil Reinberg,R,,USA,24.1122518823,122474,,,Guy Orly Iradukunda,U,,BDI,25.1937029432,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,795,24
 2021-M-ITF-TUN-22A-2021,M15 Monastir,Hard,32,15,20210531,108,208262,8,,Alejo Lorenzo Lingua Lavallen,L,,ARG,20.2272416153,122570,,WC,Mubarak Shannan Zayid,U,,QAT,26.1300479124,6-3 4-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,705,32,,
 2021-M-ITF-TUN-22A-2021,M15 Monastir,Hard,32,15,20210531,109,207669,6,,Robert Strombachs,U,,GER,21.7084188912,208361,,,Gustavo Heide,U,,BRA,19.2525667351,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,659,39,1251,5
-2021-M-ITF-TUN-22A-2021,M15 Monastir,Hard,32,15,20210531,110,209065,,Q,Youcef Rihane,R,,ALG,,209330,,Q,Bautista Vilicich,U,,ARG,,7-5 2-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1638,2,1192,6
-2021-M-ITF-TUN-22A-2021,M15 Monastir,Hard,32,15,20210531,111,209903,,,Lukas Neumayer,U,,AUT,,206873,,WC,Perry Gregg,R,,USA,20.900752909,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1351,4,1559,2
+2021-M-ITF-TUN-22A-2021,M15 Monastir,Hard,32,15,20210531,110,209065,,Q,Youcef Rihane,R,,ALG,,209330,,Q,Bautista Vilicich,R,,ARG,19.65229295,7-5 2-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1638,2,1192,6
+2021-M-ITF-TUN-22A-2021,M15 Monastir,Hard,32,15,20210531,111,209903,,,Lukas Neumayer,R,183,AUT,18.7323750856,206873,,WC,Perry Gregg,R,,USA,20.900752909,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1351,4,1559,2
 2021-M-ITF-TUN-22A-2021,M15 Monastir,Hard,32,15,20210531,113,208201,,LL,Julian Gimenez,U,,ARG,20.2655715264,125843,,LL,Ren Nakamura,R,,JPN,26.3299110198,7-5 0-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1796,1,1660,2
 2021-M-ITF-TUN-22A-2021,M15 Monastir,Hard,32,15,20210531,114,208055,,Q,Ajeet Rai,R,,NZL,22.3655030801,134276,,WC,Jacob Brumm,U,,USA,22.4996577687,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,998,12,1534,2
 2021-M-ITF-TUN-22A-2021,M15 Monastir,Hard,32,15,20210531,115,208566,,Q,Mauro De Maio,U,,ITA,19.5646817248,209993,,LL,Victorio Marquiselli,U,,ARG,,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1460,3,1713,1
@@ -3362,7 +3362,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-TUN-22A-2021,M15 Monastir,Hard,32,15,20210531,203,208913,,,Juan Bautista Torres,U,,ARG,19.1622176591,200003,,PR,Jeremy Beale,L,,AUS,26.6557152635,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,745,28,1093,8
 2021-M-ITF-TUN-22A-2021,M15 Monastir,Hard,32,15,20210531,204,208262,8,,Alejo Lorenzo Lingua Lavallen,L,,ARG,20.2272416153,202130,,Q,Emil Reinberg,R,,USA,24.1122518823,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,705,32,,
 2021-M-ITF-TUN-22A-2021,M15 Monastir,Hard,32,15,20210531,205,207669,6,,Robert Strombachs,U,,GER,21.7084188912,209065,,Q,Youcef Rihane,R,,ALG,,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,659,39,1638,2
-2021-M-ITF-TUN-22A-2021,M15 Monastir,Hard,32,15,20210531,206,207129,4,,Yanki Erel,L,,TUR,20.6789869952,209903,,,Lukas Neumayer,U,,AUT,,0-6 6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,623,45,1351,4
+2021-M-ITF-TUN-22A-2021,M15 Monastir,Hard,32,15,20210531,206,207129,4,,Yanki Erel,L,,TUR,20.6789869952,209903,,,Lukas Neumayer,R,183,AUT,18.7323750856,0-6 6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,623,45,1351,4
 2021-M-ITF-TUN-22A-2021,M15 Monastir,Hard,32,15,20210531,207,208055,,Q,Ajeet Rai,R,,NZL,22.3655030801,208201,,LL,Julian Gimenez,U,,ARG,20.2655715264,6-3 2-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,998,12,1796,1
 2021-M-ITF-TUN-22A-2021,M15 Monastir,Hard,32,15,20210531,208,208566,,Q,Mauro De Maio,U,,ITA,19.5646817248,207996,,Q,Siddhant Banthia,R,,IND,20.8213552361,6-2 2-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,1460,3,,
 2021-M-ITF-TUN-22A-2021,M15 Monastir,Hard,32,15,20210531,301,144973,1,,Santiago Fa Rodriguez Taverna,R,,ARG,21.8754277892,202154,,Q,Uisung Park,R,,KOR,20.6735112936,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,523,67,973,13
@@ -3410,7 +3410,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-TUN-24A-2021,M15 Monastir,Hard,32,15,20210614,105,106290,3,,Filip Peliwo,R,,CAN,27.370294319,105560,,,Kelsey Stevenson,R,,CAN,31.0444900753,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,450,88,701,33
 2021-M-ITF-TUN-24A-2021,M15 Monastir,Hard,32,15,20210614,106,202209,,,Imanol Lopez Morillo,R,,ESP,21.5715263518,105534,,,Erik Crepaldi,L,,ITA,31.112936345,7-6(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,606,48,610,48
 2021-M-ITF-TUN-24A-2021,M15 Monastir,Hard,32,15,20210614,107,208467,,LL,Alexander Kotzen,U,,USA,20.9527720739,208370,,Q,Keenan Mayo,U,,USA,,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,931,15,1362,4
-2021-M-ITF-TUN-24A-2021,M15 Monastir,Hard,32,15,20210614,108,209260,,,Luciano Darderi,U,,ITA,,111805,6,,Seong Chan Hong,R,,KOR,23.9561943874,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,924,15,572,56
+2021-M-ITF-TUN-24A-2021,M15 Monastir,Hard,32,15,20210614,108,209260,,,Luciano Darderi,R,,ITA,19.3292265572,111805,6,,Seong Chan Hong,R,,KOR,23.9561943874,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,924,15,572,56
 2021-M-ITF-TUN-24A-2021,M15 Monastir,Hard,32,15,20210614,109,126573,8,,Thomas Fancutt,R,,AUS,26.2997946612,209993,,WC,Victorio Marquiselli,U,,ARG,,6-1 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,567,57,1812,1
 2021-M-ITF-TUN-24A-2021,M15 Monastir,Hard,32,15,20210614,110,144731,,Q,Kody Pearson,U,,AUS,21.8863791923,208913,,,Juan Bautista Torres,U,,ARG,19.2005475702,6-4 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,,,721,30
 2021-M-ITF-TUN-24A-2021,M15 Monastir,Hard,32,15,20210614,111,208055,,Q,Ajeet Rai,R,,NZL,22.4038329911,125816,,Q,Ji Hoon Son,U,,KOR,26.7624914442,6-2 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,908,16,,
@@ -3422,25 +3422,25 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-TUN-24A-2021,M15 Monastir,Hard,32,15,20210614,201,121411,,,Moez Chargui,R,,TUN,28.424366872,208854,,Q,Aidan Mayo,U,,USA,18.0862422998,3-6 7-5 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,660,39,1569,2
 2021-M-ITF-TUN-24A-2021,M15 Monastir,Hard,32,15,20210614,202,132310,5,,Tiago Cacao,R,,POR,23.2908966461,210089,,,Ozan Colak,U,,USA,,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,534,67,,
 2021-M-ITF-TUN-24A-2021,M15 Monastir,Hard,32,15,20210614,203,202209,,,Imanol Lopez Morillo,R,,ESP,21.5715263518,106290,3,,Filip Peliwo,R,,CAN,27.370294319,6-7(0) 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,606,48,450,88
-2021-M-ITF-TUN-24A-2021,M15 Monastir,Hard,32,15,20210614,204,209260,,,Luciano Darderi,U,,ITA,,208467,,LL,Alexander Kotzen,U,,USA,20.9527720739,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,924,15,931,15
+2021-M-ITF-TUN-24A-2021,M15 Monastir,Hard,32,15,20210614,204,209260,,,Luciano Darderi,R,,ITA,19.3292265572,208467,,LL,Alexander Kotzen,U,,USA,20.9527720739,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,924,15,931,15
 2021-M-ITF-TUN-24A-2021,M15 Monastir,Hard,32,15,20210614,205,144731,,Q,Kody Pearson,U,,AUS,21.8863791923,126573,8,,Thomas Fancutt,R,,AUS,26.2997946612,3-6 6-1 3-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,,,567,57
 2021-M-ITF-TUN-24A-2021,M15 Monastir,Hard,32,15,20210614,206,144973,4,,Santiago Fa Rodriguez Taverna,R,,ARG,21.9137577002,208055,,Q,Ajeet Rai,R,,NZL,22.4038329911,4-6 6-3 7-6(1),3,R16,,,,,,,,,,,,,,,,,,,,500,74,908,16
 2021-M-ITF-TUN-24A-2021,M15 Monastir,Hard,32,15,20210614,207,208262,,,Alejo Lorenzo Lingua Lavallen,L,,ARG,20.2655715264,208264,,Q,Carles Hernandez,U,,ESP,20.1368925394,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,679,36,2080,1
 2021-M-ITF-TUN-24A-2021,M15 Monastir,Hard,32,15,20210614,208,132837,,,Luca Giacomini,U,,ITA,23.6386036961,200574,,,Alexander Donski,R,,CAN,22.8692676249,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,684,35,596,50
 2021-M-ITF-TUN-24A-2021,M15 Monastir,Hard,32,15,20210614,301,132310,5,,Tiago Cacao,R,,POR,23.2908966461,121411,,,Moez Chargui,R,,TUN,28.424366872,7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,534,67,660,39
-2021-M-ITF-TUN-24A-2021,M15 Monastir,Hard,32,15,20210614,302,209260,,,Luciano Darderi,U,,ITA,,202209,,,Imanol Lopez Morillo,R,,ESP,21.5715263518,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,924,15,606,48
+2021-M-ITF-TUN-24A-2021,M15 Monastir,Hard,32,15,20210614,302,209260,,,Luciano Darderi,R,,ITA,19.3292265572,202209,,,Imanol Lopez Morillo,R,,ESP,21.5715263518,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,924,15,606,48
 2021-M-ITF-TUN-24A-2021,M15 Monastir,Hard,32,15,20210614,303,144973,4,,Santiago Fa Rodriguez Taverna,R,,ARG,21.9137577002,144731,,Q,Kody Pearson,U,,AUS,21.8863791923,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,500,74,,
 2021-M-ITF-TUN-24A-2021,M15 Monastir,Hard,32,15,20210614,304,208262,,,Alejo Lorenzo Lingua Lavallen,L,,ARG,20.2655715264,132837,,,Luca Giacomini,U,,ITA,23.6386036961,6-4 7-6(6),3,QF,,,,,,,,,,,,,,,,,,,,679,36,684,35
-2021-M-ITF-TUN-24A-2021,M15 Monastir,Hard,32,15,20210614,401,209260,,,Luciano Darderi,U,,ITA,,132310,5,,Tiago Cacao,R,,POR,23.2908966461,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,924,15,534,67
+2021-M-ITF-TUN-24A-2021,M15 Monastir,Hard,32,15,20210614,401,209260,,,Luciano Darderi,R,,ITA,19.3292265572,132310,5,,Tiago Cacao,R,,POR,23.2908966461,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,924,15,534,67
 2021-M-ITF-TUN-24A-2021,M15 Monastir,Hard,32,15,20210614,402,144973,4,,Santiago Fa Rodriguez Taverna,R,,ARG,21.9137577002,208262,,,Alejo Lorenzo Lingua Lavallen,L,,ARG,20.2655715264,1-6 6-3 7-5,3,SF,,,,,,,,,,,,,,,,,,,,500,74,679,36
-2021-M-ITF-TUN-24A-2021,M15 Monastir,Hard,32,15,20210614,501,209260,,,Luciano Darderi,U,,ITA,,144973,4,,Santiago Fa Rodriguez Taverna,R,,ARG,21.9137577002,6-3 7-5,3,F,,,,,,,,,,,,,,,,,,,,924,15,500,74
+2021-M-ITF-TUN-24A-2021,M15 Monastir,Hard,32,15,20210614,501,209260,,,Luciano Darderi,R,,ITA,19.3292265572,144973,4,,Santiago Fa Rodriguez Taverna,R,,ARG,21.9137577002,6-3 7-5,3,F,,,,,,,,,,,,,,,,,,,,924,15,500,74
 2021-M-ITF-TUN-25A-2021,M15 Monastir,Hard,32,15,20210621,101,208014,,,Rinky Hijikata,U,,AUS,20.3230663929,210079,1,,Jisung Nam,U,,KOR,,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,770,26,,
 2021-M-ITF-TUN-25A-2021,M15 Monastir,Hard,32,15,20210621,102,202154,,Q,Uisung Park,R,,KOR,20.7310061602,105398,,,Adam El Mihdawy,U,,USA,31.8658453114,4-6 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,859,19,664,39
 2021-M-ITF-TUN-25A-2021,M15 Monastir,Hard,32,15,20210621,103,121411,,,Moez Chargui,R,,TUN,28.4435318275,207404,,Q,Miles Jones,U,,USA,20.4845995893,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,662,39,1435,3
 2021-M-ITF-TUN-25A-2021,M15 Monastir,Hard,32,15,20210621,104,132837,,,Luca Giacomini,U,,ITA,23.6577686516,106352,5,,Matias Franco Descotte,R,,ARG,26.8117727584,5-7 6-1 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,690,35,583,53
 2021-M-ITF-TUN-25A-2021,M15 Monastir,Hard,32,15,20210621,105,209279,,Q,Terence Atmane,L,,FRA,,111805,4,,Seong Chan Hong,R,,KOR,23.9753593429,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1078,9,568,57
 2021-M-ITF-TUN-25A-2021,M15 Monastir,Hard,32,15,20210621,106,206746,,,Benjamin Winter Lopez,U,,ESP,23.0691307324,126193,,,Mark Whitehouse,U,,GBR,28.1396303901,7-6(3) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,716,32,668,38
-2021-M-ITF-TUN-25A-2021,M15 Monastir,Hard,32,15,20210621,107,209260,,,Luciano Darderi,U,,ITA,,144731,,Q,Kody Pearson,U,,AUS,21.9055441478,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,904,16,,
+2021-M-ITF-TUN-25A-2021,M15 Monastir,Hard,32,15,20210621,107,209260,,,Luciano Darderi,R,,ITA,19.3483915127,144731,,Q,Kody Pearson,U,,AUS,21.9055441478,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,904,16,,
 2021-M-ITF-TUN-25A-2021,M15 Monastir,Hard,32,15,20210621,108,208262,,,Alejo Lorenzo Lingua Lavallen,L,,ARG,20.2847364819,133291,8,,Ryota Tanuma,U,,JPN,25.7467488022,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,685,36,661,39
 2021-M-ITF-TUN-25A-2021,M15 Monastir,Hard,32,15,20210621,109,208300,,Q,Omni Kumar,U,,USA,19.6960985626,200574,6,,Alexander Donski,R,,CAN,22.8884325804,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,997,12,597,50
 2021-M-ITF-TUN-25A-2021,M15 Monastir,Hard,32,15,20210621,110,202065,,WC,Petros Tsitsipas,U,,GRE,20.900752909,200697,,WC,Jabari Stafford,U,,USA,25.9657768652,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,920,16,,
@@ -3453,18 +3453,18 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-TUN-25A-2021,M15 Monastir,Hard,32,15,20210621,201,202154,,Q,Uisung Park,R,,KOR,20.7310061602,208014,,,Rinky Hijikata,U,,AUS,20.3230663929,1-6 7-6(5) 6-0,3,R16,,,,,,,,,,,,,,,,,,,,859,19,770,26
 2021-M-ITF-TUN-25A-2021,M15 Monastir,Hard,32,15,20210621,202,121411,,,Moez Chargui,R,,TUN,28.4435318275,132837,,,Luca Giacomini,U,,ITA,23.6577686516,0-6 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,662,39,690,35
 2021-M-ITF-TUN-25A-2021,M15 Monastir,Hard,32,15,20210621,203,209279,,Q,Terence Atmane,L,,FRA,,206746,,,Benjamin Winter Lopez,U,,ESP,23.0691307324,7-6(5) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1078,9,716,32
-2021-M-ITF-TUN-25A-2021,M15 Monastir,Hard,32,15,20210621,204,209260,,,Luciano Darderi,U,,ITA,,208262,,,Alejo Lorenzo Lingua Lavallen,L,,ARG,20.2847364819,2-6 6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,904,16,685,36
+2021-M-ITF-TUN-25A-2021,M15 Monastir,Hard,32,15,20210621,204,209260,,,Luciano Darderi,R,,ITA,19.3483915127,208262,,,Alejo Lorenzo Lingua Lavallen,L,,ARG,20.2847364819,2-6 6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,904,16,685,36
 2021-M-ITF-TUN-25A-2021,M15 Monastir,Hard,32,15,20210621,205,208300,,Q,Omni Kumar,U,,USA,19.6960985626,202065,,WC,Petros Tsitsipas,U,,GRE,20.900752909,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,997,12,920,16
 2021-M-ITF-TUN-25A-2021,M15 Monastir,Hard,32,15,20210621,206,144973,3,,Santiago Fa Rodriguez Taverna,R,,ARG,21.9329226557,206739,,WC,Essa Qabazard,U,,KUW,19.6577686516,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,483,79,,
 2021-M-ITF-TUN-25A-2021,M15 Monastir,Hard,32,15,20210621,207,202209,7,,Imanol Lopez Morillo,R,,ESP,21.5906913073,208854,,Q,Aidan Mayo,U,,USA,18.1054072553,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,604,48,1567,2
 2021-M-ITF-TUN-25A-2021,M15 Monastir,Hard,32,15,20210621,208,117353,2,,Duck Hee Lee,R,,KOR,23.0636550308,208267,,Q,Oscar Weightman,U,,GBR,19.5865845311,6-3 6-7(2) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,325,152,1142,7
 2021-M-ITF-TUN-25A-2021,M15 Monastir,Hard,32,15,20210621,301,202154,,Q,Uisung Park,R,,KOR,20.7310061602,121411,,,Moez Chargui,R,,TUN,28.4435318275,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,859,19,662,39
-2021-M-ITF-TUN-25A-2021,M15 Monastir,Hard,32,15,20210621,302,209260,,,Luciano Darderi,U,,ITA,,209279,,Q,Terence Atmane,L,,FRA,,7-6(2) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,904,16,1078,9
+2021-M-ITF-TUN-25A-2021,M15 Monastir,Hard,32,15,20210621,302,209260,,,Luciano Darderi,R,,ITA,19.3483915127,209279,,Q,Terence Atmane,L,,FRA,,7-6(2) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,904,16,1078,9
 2021-M-ITF-TUN-25A-2021,M15 Monastir,Hard,32,15,20210621,303,208300,,Q,Omni Kumar,U,,USA,19.6960985626,144973,3,,Santiago Fa Rodriguez Taverna,R,,ARG,21.9329226557,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,997,12,483,79
 2021-M-ITF-TUN-25A-2021,M15 Monastir,Hard,32,15,20210621,304,202209,7,,Imanol Lopez Morillo,R,,ESP,21.5906913073,117353,2,,Duck Hee Lee,R,,KOR,23.0636550308,7-5 7-6(4),3,QF,,,,,,,,,,,,,,,,,,,,604,48,325,152
-2021-M-ITF-TUN-25A-2021,M15 Monastir,Hard,32,15,20210621,401,209260,,,Luciano Darderi,U,,ITA,,202154,,Q,Uisung Park,R,,KOR,20.7310061602,6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,904,16,859,19
+2021-M-ITF-TUN-25A-2021,M15 Monastir,Hard,32,15,20210621,401,209260,,,Luciano Darderi,R,,ITA,19.3483915127,202154,,Q,Uisung Park,R,,KOR,20.7310061602,6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,904,16,859,19
 2021-M-ITF-TUN-25A-2021,M15 Monastir,Hard,32,15,20210621,402,208300,,Q,Omni Kumar,U,,USA,19.6960985626,202209,7,,Imanol Lopez Morillo,R,,ESP,21.5906913073,6-0 7-5,3,SF,,,,,,,,,,,,,,,,,,,,997,12,604,48
-2021-M-ITF-TUN-25A-2021,M15 Monastir,Hard,32,15,20210621,501,208300,,Q,Omni Kumar,U,,USA,19.6960985626,209260,,,Luciano Darderi,U,,ITA,,7-6(6) 6-3,3,F,,,,,,,,,,,,,,,,,,,,997,12,904,16
+2021-M-ITF-TUN-25A-2021,M15 Monastir,Hard,32,15,20210621,501,208300,,Q,Omni Kumar,U,,USA,19.6960985626,209260,,,Luciano Darderi,R,,ITA,19.3483915127,7-6(6) 6-3,3,F,,,,,,,,,,,,,,,,,,,,997,12,904,16
 2021-M-ITF-TUR-01A-2021,M15 Antalya,Clay,32,15,20210104,101,104729,1,,Ivan Nedelko,R,,RUS,34.6502395619,123818,,Q,Jorge Martinez Martinez,U,,ESP,25.2840520192,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,342,127,1875,1
 2021-M-ITF-TUR-01A-2021,M15 Antalya,Clay,32,15,20210104,102,209943,,,Ilya Snitari,U,,MDA,,207541,,Q,Michalis Sakellaridis,U,,GRE,19.9698836413,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,1973,1
 2021-M-ITF-TUR-01A-2021,M15 Antalya,Clay,32,15,20210104,103,207704,,,Alex Marti Pujolras,U,,ESP,21.9000684463,208259,,,Viacheslav Yulik,R,,RUS,20.3285420945,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,913,15,1312,4
@@ -3506,7 +3506,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-TUR-02A-2021,M15 Antalya,Clay,32,15,20210111,108,209943,,Q,Ilya Snitari,U,,MDA,,122548,7,,Edan Leshem,U,,ISR,23.8165639973,6-4 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,,,373,111
 2021-M-ITF-TUR-02A-2021,M15 Antalya,Clay,32,15,20210111,109,200216,,,Giovanni Fonio,U,,ITA,22.6830937714,106187,8,,Denis Yevseyev,U,,KAZ,27.6413415469,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,553,55,379,109
 2021-M-ITF-TUR-02A-2021,M15 Antalya,Clay,32,15,20210111,110,200672,,,Sergey Fomin,R,,UZB,19.9425051335,123851,,,Davide Galoppini,R,,ITA,26.2176591376,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,643,36,654,35
-2021-M-ITF-TUR-02A-2021,M15 Antalya,Clay,32,15,20210111,111,209903,,,Lukas Neumayer,U,,AUT,,126102,,Q,Nicolae Frunza,R,,ROU,23.1567419576,1-6 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,792,22
+2021-M-ITF-TUR-02A-2021,M15 Antalya,Clay,32,15,20210111,111,209903,,,Lukas Neumayer,R,183,AUT,18.3490759754,126102,,Q,Nicolae Frunza,R,,ROU,23.1567419576,1-6 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,792,22
 2021-M-ITF-TUR-02A-2021,M15 Antalya,Clay,32,15,20210111,112,104729,3,,Ivan Nedelko,R,,RUS,34.6694045175,200096,,,Dragos Nicolae Madaras,L,,ROU,23.3319644079,3-6 3-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,342,127,680,32
 2021-M-ITF-TUR-02A-2021,M15 Antalya,Clay,32,15,20210111,113,106398,6,,Pedro Cachin,R,,ARG,25.7522245038,105478,,Q,Yan Sabanin,U,,RUS,30.945927447,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,370,112,820,20
 2021-M-ITF-TUR-02A-2021,M15 Antalya,Clay,32,15,20210111,114,209950,,,Arthur Fils,R,185,FRA,16.5831622177,209182,,,Toby Alex Kodat,R,178,USA,17.9958932238,3-6 6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -3517,7 +3517,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-TUR-02A-2021,M15 Antalya,Clay,32,15,20210111,203,202090,,,Adrian Andreev,R,,BUL,19.6687200548,200550,4,,Vladyslav Orlov,U,,UKR,25.6563997262,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,564,52,350,123
 2021-M-ITF-TUR-02A-2021,M15 Antalya,Clay,32,15,20210111,204,206467,,Q,Federico Arnaboldi,U,,ITA,20.5667351129,209943,,Q,Ilya Snitari,U,,MDA,,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,906,15,,
 2021-M-ITF-TUR-02A-2021,M15 Antalya,Clay,32,15,20210111,205,200672,,,Sergey Fomin,R,,UZB,19.9425051335,200216,,,Giovanni Fonio,U,,ITA,22.6830937714,6-4 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,643,36,553,55
-2021-M-ITF-TUR-02A-2021,M15 Antalya,Clay,32,15,20210111,206,104729,3,,Ivan Nedelko,R,,RUS,34.6694045175,209903,,,Lukas Neumayer,U,,AUT,,6-1 6-7(5) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,342,127,,
+2021-M-ITF-TUR-02A-2021,M15 Antalya,Clay,32,15,20210111,206,104729,3,,Ivan Nedelko,R,,RUS,34.6694045175,209903,,,Lukas Neumayer,R,183,AUT,18.3490759754,6-1 6-7(5) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,342,127,,
 2021-M-ITF-TUR-02A-2021,M15 Antalya,Clay,32,15,20210111,207,106398,6,,Pedro Cachin,R,,ARG,25.7522245038,209950,,,Arthur Fils,R,185,FRA,16.5831622177,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,370,112,,
 2021-M-ITF-TUR-02A-2021,M15 Antalya,Clay,32,15,20210111,208,207686,,,Alexander Shevchenko,U,,RUS,20.0355920602,208240,,Q,Alexandr Binda,R,,RUS,19.3045859001,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,558,53,1180,6
 2021-M-ITF-TUR-02A-2021,M15 Antalya,Clay,32,15,20210111,301,207704,,Q,Alex Marti Pujolras,U,,ESP,21.9192334018,207568,,WC,Baran Cengiz,U,,TUR,19.6386036961,6-3 7-5,3,QF,,,,,,,,,,,,,,,,,,,,913,15,1076,8
@@ -3601,7 +3601,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-TUR-05A-2021,M15 Antalya,Clay,32,15,20210201,113,206470,,Q,Cezar Cretu,U,,ROU,19.7754962355,144821,8,,Genaro Alberto Olivieri,U,,ARG,22.4969199179,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,834,19,416,95
 2021-M-ITF-TUR-05A-2021,M15 Antalya,Clay,32,15,20210201,114,122294,,Q,Gabriele Maria Noce,R,,ITA,25.2621492129,209336,,Q,Leonardo Lopez Linquet,U,,ARG,,4-6 7-6(6) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,840,19,1732,1
 2021-M-ITF-TUR-05A-2021,M15 Antalya,Clay,32,15,20210201,115,202235,,,Jacopo Berrettini,U,,ITA,22.1820670773,126170,,LL,Timur Kiuamov,U,,RUS,24.257357974,6-3 4-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,492,72,959,13
-2021-M-ITF-TUR-05A-2021,M15 Antalya,Clay,32,15,20210201,116,105436,2,,Markus Eriksson,R,,SWE,31.1759069131,209918,,,Hanwen Li,R,,CHN,,6-2 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,334,131,1371,3
+2021-M-ITF-TUR-05A-2021,M15 Antalya,Clay,32,15,20210201,116,105436,2,,Markus Eriksson,R,,SWE,31.1759069131,209918,,,Hanwen Li,R,180,CHN,18.4476386037,6-2 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,334,131,1371,3
 2021-M-ITF-TUR-05A-2021,M15 Antalya,Clay,32,15,20210201,201,126939,1,,Khumoun Sultanov,R,,UZB,22.2669404517,209355,,JE,Timo Legout,R,,FRA,18.8911704312,6-3 0-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,330,133,1278,4
 2021-M-ITF-TUR-05A-2021,M15 Antalya,Clay,32,15,20210201,202,209098,,,Hamad Medjedovic,R,,SRB,17.5441478439,106165,6,,Diego Hidalgo,U,,ECU,27.7919233402,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1362,3,387,106
 2021-M-ITF-TUR-05A-2021,M15 Antalya,Clay,32,15,20210201,203,207546,,,Pol Martin Tiffon,U,,ESP,21.5112936345,200263,,Q,Vlad Andrei Dancu,U,,ROU,21.9055441478,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,510,66,883,16
@@ -3627,7 +3627,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-TUR-06A-2021,M15 Antalya,Clay,32,15,20210208,108,123983,5,,Nerman Fatic,U,,BIH,26.2943189596,209952,,,Sean Cuenin,U,,FRA,16.9801505818,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,371,113,,
 2021-M-ITF-TUR-06A-2021,M15 Antalya,Clay,32,15,20210208,109,106006,8,,Agustin Velotti,R,,ARG,28.7118412047,202089,,WC,Aleksandr Braynin,U,,UKR,21.4483230664,0-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,390,106,,
 2021-M-ITF-TUR-06A-2021,M15 Antalya,Clay,32,15,20210208,110,104947,,WC,Marsel Ilhan,R,190,TUR,33.6646132786,200096,,Q,Dragos Nicolae Madaras,L,,ROU,23.40862423,7-5 6-7(5) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,574,51,686,32
-2021-M-ITF-TUR-06A-2021,M15 Antalya,Clay,32,15,20210208,111,144821,,,Genaro Alberto Olivieri,U,,ARG,22.5160848734,209918,,,Hanwen Li,R,,CHN,,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,416,95,1385,3
+2021-M-ITF-TUR-06A-2021,M15 Antalya,Clay,32,15,20210208,111,144821,,,Genaro Alberto Olivieri,U,,ARG,22.5160848734,209918,,,Hanwen Li,R,180,CHN,18.4668035592,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,416,95,1385,3
 2021-M-ITF-TUR-06A-2021,M15 Antalya,Clay,32,15,20210208,112,126283,3,,Yunseong Chung,U,,KOR,22.8720054757,124126,,WC,Sarp Agabigun,R,,TUR,23.6605065024,6-4 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,365,116,889,16
 2021-M-ITF-TUR-06A-2021,M15 Antalya,Clay,32,15,20210208,113,202235,,,Jacopo Berrettini,U,,ITA,22.2012320329,111584,6,,Jeroen Vanneste,R,,BEL,27.06091718,6-7(5) 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,492,72,383,108
 2021-M-ITF-TUR-06A-2021,M15 Antalya,Clay,32,15,20210208,114,206467,,Q,Federico Arnaboldi,U,,ITA,20.643394935,105181,,,Miljan Zekic,R,,SRB,32.5776865161,2-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,874,17,475,77
@@ -3663,7 +3663,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-TUR-07A-2021,M15 Antalya,Clay,32,15,20210215,113,123851,,WC,Davide Galoppini,R,,ITA,26.2943189596,200711,7,,Nicolas Mejia,R,,COL,20.9938398357,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,647,37,460,81
 2021-M-ITF-TUR-07A-2021,M15 Antalya,Clay,32,15,20210215,114,208071,,,Oleksii Krutykh,R,,UKR,20.9171800137,126204,,,Gerardo Lopez Villasenor,U,,MEX,25.7467488022,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,558,55,557,55
 2021-M-ITF-TUR-07A-2021,M15 Antalya,Clay,32,15,20210215,115,207490,,Q,Carlos Lopez Montagud,U,,ESP,20.5941136208,209944,,WC,Danylo Veremeichuk,U,,UKR,,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,702,31,,
-2021-M-ITF-TUR-07A-2021,M15 Antalya,Clay,32,15,20210215,116,106398,2,,Pedro Cachin,R,,ARG,25.8288843258,209918,,,Hanwen Li,R,,CHN,,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,368,115,1385,3
+2021-M-ITF-TUR-07A-2021,M15 Antalya,Clay,32,15,20210215,116,106398,2,,Pedro Cachin,R,,ARG,25.8288843258,209918,,,Hanwen Li,R,180,CHN,18.4668035592,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,368,115,1385,3
 2021-M-ITF-TUR-07A-2021,M15 Antalya,Clay,32,15,20210215,201,126283,1,,Yunseong Chung,U,,KOR,22.8720054757,206662,,,Georgii Kravchenko,R,,UKR,20.5338809035,6-2 5-7 6-3,3,R16,,,,,,,,,,,,,,,,,,,,365,116,542,60
 2021-M-ITF-TUR-07A-2021,M15 Antalya,Clay,32,15,20210215,202,126328,,Q,Gabriel Donev,R,,BUL,24.6132785763,200096,,Q,Dragos Nicolae Madaras,L,,ROU,23.40862423,7-5 2-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1000,11,686,32
 2021-M-ITF-TUR-07A-2021,M15 Antalya,Clay,32,15,20210215,203,125825,,,Matias Zukas,R,,ARG,24.7665982204,123983,3,,Nerman Fatic,U,,BIH,26.2943189596,6-4 4-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,534,62,371,113
@@ -3682,7 +3682,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-TUR-08A-2021,M15 Antalya,Clay,32,15,20210222,101,209952,,,Sean Cuenin,U,,FRA,17.0184804928,126283,1,,Yunseong Chung,U,,KOR,22.9103353867,3-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,364,118
 2021-M-ITF-TUR-08A-2021,M15 Antalya,Clay,32,15,20210222,102,125825,,,Matias Zukas,R,,ARG,24.8049281314,200242,,,Mick Veldheer,L,,NED,24.8843258042,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,536,62,534,62
 2021-M-ITF-TUR-08A-2021,M15 Antalya,Clay,32,15,20210222,103,209209,,Q,Filip Misolic,R,,AUT,19.5427789185,127326,,,Ben Patael,U,,ISR,23.7262149213,0-6 7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,995,11,589,48
-2021-M-ITF-TUR-08A-2021,M15 Antalya,Clay,32,15,20210222,104,209918,,,Hanwen Li,R,,CHN,,126536,7,,David Pichler,R,,AUT,25.0102669405,7-6(3) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1418,3,478,77
+2021-M-ITF-TUR-08A-2021,M15 Antalya,Clay,32,15,20210222,104,209918,,,Hanwen Li,R,180,CHN,18.5051334702,126536,7,,David Pichler,R,,AUT,25.0102669405,7-6(3) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1418,3,478,77
 2021-M-ITF-TUR-08A-2021,M15 Antalya,Clay,32,15,20210222,105,134840,3,,Raul Brancaccio,U,,ITA,23.8056125941,209182,,,Toby Alex Kodat,R,178,USA,18.1108829569,1-6 7-6(5) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,373,117,,
 2021-M-ITF-TUR-08A-2021,M15 Antalya,Clay,32,15,20210222,106,207568,,WC,Baran Cengiz,U,,TUR,19.7535934292,207412,,Q,Sidane Pontjodikromo,U,,NED,20.3312799452,4-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,993,11,937,14
 2021-M-ITF-TUR-08A-2021,M15 Antalya,Clay,32,15,20210222,108,126533,8,,Alvaro Lopez San Martin,R,,ESP,23.7262149213,202227,,Q,Petr Nouza,U,,CZE,22.4558521561,7-6(3) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,495,72,621,42
@@ -3692,7 +3692,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-TUR-08A-2021,M15 Antalya,Clay,32,15,20210222,114,207129,,WC,Yanki Erel,L,,TUR,20.4106776181,206662,,,Georgii Kravchenko,R,,UKR,20.5722108145,7-6(8) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,859,18,543,60
 2021-M-ITF-TUR-08A-2021,M15 Antalya,Clay,32,15,20210222,116,208071,,,Oleksii Krutykh,R,,UKR,20.9555099247,106398,2,,Pedro Cachin,R,,ARG,25.8672142368,7-6(5) 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,559,55,372,117
 2021-M-ITF-TUR-08A-2021,M15 Antalya,Clay,32,15,20210222,201,125825,,,Matias Zukas,R,,ARG,24.8049281314,209952,,,Sean Cuenin,U,,FRA,17.0184804928,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,536,62,,
-2021-M-ITF-TUR-08A-2021,M15 Antalya,Clay,32,15,20210222,202,209209,,Q,Filip Misolic,R,,AUT,19.5427789185,209918,,,Hanwen Li,R,,CHN,,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,995,11,1418,3
+2021-M-ITF-TUR-08A-2021,M15 Antalya,Clay,32,15,20210222,202,209209,,Q,Filip Misolic,R,,AUT,19.5427789185,209918,,,Hanwen Li,R,180,CHN,18.5051334702,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,995,11,1418,3
 2021-M-ITF-TUR-08A-2021,M15 Antalya,Clay,32,15,20210222,203,134840,3,,Raul Brancaccio,U,,ITA,23.8056125941,207568,,WC,Baran Cengiz,U,,TUR,19.7535934292,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,373,117,993,11
 2021-M-ITF-TUR-08A-2021,M15 Antalya,Clay,32,15,20210222,204,200096,,Q,Dragos Nicolae Madaras,L,,ROU,23.446954141,126533,8,,Alvaro Lopez San Martin,R,,ESP,23.7262149213,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,731,28,495,72
 2021-M-ITF-TUR-08A-2021,M15 Antalya,Clay,32,15,20210222,205,200030,,,Facundo Juarez,R,,ARG,23.4168377823,209191,,Q,Oleksandr Ovcharenko,U,,UKR,,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,577,51,994,11
@@ -3833,7 +3833,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-TUR-13A-2021,M15 Antalya,Clay,32,15,20210329,101,133975,1,,Benjamin Hassan,R,,GER,26.1273100616,201995,,,Cayetano March,U,,ECU,20.7173169062,1-6 6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,376,117,697,32
 2021-M-ITF-TUR-13A-2021,M15 Antalya,Clay,32,15,20210329,102,106059,,Q,Michel Vernier,R,,CHI,28.4818617385,117362,,Q,Paul Woerner,R,,GER,24.5776865161,7-6(5) 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,760,26,774,25
 2021-M-ITF-TUR-13A-2021,M15 Antalya,Clay,32,15,20210329,103,207925,,,Flavio Cobolli,U,,ITA,18.8774811773,144823,,LL,Luca Tomasetto,U,,ITA,24.9746748802,7-6(5) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,857,18,1007,11
-2021-M-ITF-TUR-13A-2021,M15 Antalya,Clay,32,15,20210329,104,209330,,WC,Bautista Vilicich,U,,ARG,,200263,,Q,Vlad Andrei Dancu,U,,ROU,22.0396988364,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1838,1,878,17
+2021-M-ITF-TUR-13A-2021,M15 Antalya,Clay,32,15,20210329,104,209330,,WC,Bautista Vilicich,R,,ARG,19.4606433949,200263,,Q,Vlad Andrei Dancu,U,,ROU,22.0396988364,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1838,1,878,17
 2021-M-ITF-TUR-13A-2021,M15 Antalya,Clay,32,15,20210329,105,209128,,Q,Diego Augusto Barreto Sanchez,U,,ESP,18.9267624914,202235,4,,Jacopo Berrettini,U,,ITA,22.3162217659,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1078,9,493,75
 2021-M-ITF-TUR-13A-2021,M15 Antalya,Clay,32,15,20210329,106,208010,,,Pablo Llamas Ruiz,R,,ESP,18.4394250513,206325,,,Pedro Vives Marcos,R,,ESP,19.9397672827,3-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,668,36,629,43
 2021-M-ITF-TUR-13A-2021,M15 Antalya,Clay,32,15,20210329,107,208277,,Q,Taiyo Yamanaka,U,,JPN,19.5427789185,209974,,,Aleksander Orlikowski,U,,POL,,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1270,5,1501,2
@@ -3847,7 +3847,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-TUR-13A-2021,M15 Antalya,Clay,32,15,20210329,115,209261,,Q,Matteo Gigante,L,,ITA,19.2114989733,206479,,WC,S Mert Ozdemir,U,,TUR,21.2183436003,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2021-M-ITF-TUR-13A-2021,M15 Antalya,Clay,32,15,20210329,116,123847,2,,Bogdan Bobrov,U,,RUS,23.5126625599,209907,,,Viacheslav Bielinskyi,U,,UKR,17.3032169747,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,437,93,1757,1
 2021-M-ITF-TUR-13A-2021,M15 Antalya,Clay,32,15,20210329,201,133975,1,,Benjamin Hassan,R,,GER,26.1273100616,106059,,Q,Michel Vernier,R,,CHI,28.4818617385,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,376,117,760,26
-2021-M-ITF-TUR-13A-2021,M15 Antalya,Clay,32,15,20210329,202,207925,,,Flavio Cobolli,U,,ITA,18.8774811773,209330,,WC,Bautista Vilicich,U,,ARG,,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,857,18,1838,1
+2021-M-ITF-TUR-13A-2021,M15 Antalya,Clay,32,15,20210329,202,207925,,,Flavio Cobolli,U,,ITA,18.8774811773,209330,,WC,Bautista Vilicich,R,,ARG,19.4606433949,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,857,18,1838,1
 2021-M-ITF-TUR-13A-2021,M15 Antalya,Clay,32,15,20210329,203,208010,,,Pablo Llamas Ruiz,R,,ESP,18.4394250513,209128,,Q,Diego Augusto Barreto Sanchez,U,,ESP,18.9267624914,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,668,36,1078,9
 2021-M-ITF-TUR-13A-2021,M15 Antalya,Clay,32,15,20210329,205,207546,5,,Pol Martin Tiffon,U,,ESP,21.6454483231,208069,,Q,Max Houkes,U,,NED,20.7173169062,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,505,73,854,19
 2021-M-ITF-TUR-13A-2021,M15 Antalya,Clay,32,15,20210329,206,200096,,,Dragos Nicolae Madaras,L,,ROU,23.523613963,207415,3,,Daniel Michalski,U,,POL,21.1937029432,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,637,41,451,88
@@ -3923,7 +3923,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-TUR-15A-2021,M15 Antalya,Clay,32,15,20210412,501,126102,,,Nicolae Frunza,R,,ROU,23.4058863792,208189,,Q,Gianmarco Ferrari,U,,ITA,20.5201916496,6-2 6-1,3,F,,,,,,,,,,,,,,,,,,,,774,25,1662,2
 2021-M-ITF-TUR-16A-2021,M15 Antalya,Clay,32,15,20210419,101,111584,1,,Jeroen Vanneste,R,,BEL,27.2525667351,126891,,WC,Joel Vincent Link,R,,GER,24.128678987,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,403,104,,
 2021-M-ITF-TUR-16A-2021,M15 Antalya,Clay,32,15,20210419,102,209385,,Q,Samuel Vincent Ruggeri,U,,ITA,,200346,,,Mats Rosenkranz,L,,GER,22.6557152635,4-6 6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,2035,1,566,57
-2021-M-ITF-TUR-16A-2021,M15 Antalya,Clay,32,15,20210419,103,117362,,Q,Paul Woerner,R,,GER,24.6543463381,209338,,Q,Daniel Siniakov,U,,CZE,,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,787,24,1584,2
+2021-M-ITF-TUR-16A-2021,M15 Antalya,Clay,32,15,20210419,103,117362,,Q,Paul Woerner,R,,GER,24.6543463381,209338,,Q,Daniel Siniakov,U,,CZE,18.2587268994,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,787,24,1584,2
 2021-M-ITF-TUR-16A-2021,M15 Antalya,Clay,32,15,20210419,104,206681,7,,Fabian Marozsan,R,,HUN,21.53045859,209142,,Q,Sebastian Gima,U,,ROU,,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,501,73,992,12
 2021-M-ITF-TUR-16A-2021,M15 Antalya,Clay,32,15,20210419,105,209506,3,,Francesco Forti,R,,ITA,21.7330595483,207231,,Q,Mathys Erhard,U,,FRA,19.4798083504,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,428,95,1147,7
 2021-M-ITF-TUR-16A-2021,M15 Antalya,Clay,32,15,20210419,106,109640,,,Andrea Basso,L,,ITA,27.5290896646,105079,,LL,Ivan Sergeyev,R,,UKR,33.2457221081,6-3 3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,624,44,1398,3
@@ -4146,7 +4146,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-TUR-23A-2021,M15 Antalya,Clay,32,15,20210607,107,202275,,,Fermin Tenti,U,,ARG,23.961670089,209182,,,Toby Alex Kodat,R,178,USA,18.379192334,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,603,49,,
 2021-M-ITF-TUR-23A-2021,M15 Antalya,Clay,32,15,20210607,108,121497,7,,Mircea Alexandru Jecan,L,,ROU,32.9938398357,207527,,Q,Buvaysar Gadamauri,U,,BEL,20.8898015058,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,514,70,1351,4
 2021-M-ITF-TUR-23A-2021,M15 Antalya,Clay,32,15,20210607,109,106174,8,,Gonzalo Lama,R,,CHI,28.0930869268,210071,,WC,Anton Semenov,U,,RUS,,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,540,62,,
-2021-M-ITF-TUR-23A-2021,M15 Antalya,Clay,32,15,20210607,110,134457,,,Nicolas Moreno De Alboran,U,,ESP,23.8795345654,209875,,,Alex Barrena,U,,ARG,,6-0 7-6(9),3,R32,,,,,,,,,,,,,,,,,,,,546,62,1383,4
+2021-M-ITF-TUR-23A-2021,M15 Antalya,Clay,32,15,20210607,110,134457,,,Nicolas Moreno De Alboran,U,,ESP,23.8795345654,209875,,,Alex Barrena,R,,ARG,18.6392881588,6-0 7-6(9),3,R32,,,,,,,,,,,,,,,,,,,,546,62,1383,4
 2021-M-ITF-TUR-23A-2021,M15 Antalya,Clay,32,15,20210607,111,138821,,Q,Timo Stodder,U,,GER,25.0376454483,126183,,,Mariano Kestelboim,R,,ARG,25.3141683778,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,882,17,558,60
 2021-M-ITF-TUR-23A-2021,M15 Antalya,Clay,32,15,20210607,112,105180,,,Daniel Dutra Da Silva,L,175,BRA,32.9034907598,122638,4,,Christopher Heyman,U,,BEL,27.6440793977,6-2 4-6 4-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,589,52,408,103
 2021-M-ITF-TUR-23A-2021,M15 Antalya,Clay,32,15,20210607,113,105757,5,,Sandro Ehrat,R,180,SUI,30.1190965092,208257,,WC,Fabrizio Andaloro,U,,ITA,20.3285420945,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,412,101,,
@@ -4176,7 +4176,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-TUR-24A-2021,M15 Antalya,Clay,32,15,20210614,107,109318,,Q,Pawel Cias,R,,POL,27.3073237509,210091,,,Filip Pieczonka,U,,POL,,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,778,25,,
 2021-M-ITF-TUR-24A-2021,M15 Antalya,Clay,32,15,20210614,108,144680,,Q,Olexiy Kolisnyk,U,,UKR,25.1225188227,106361,6,,Adam Pavlasek,R,,CZE,26.6830937714,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,527,67
 2021-M-ITF-TUR-24A-2021,M15 Antalya,Clay,32,15,20210614,110,202275,,,Fermin Tenti,U,,ARG,24.0,206307,,,Joao Lucas Reis Da Silva,R,,BRA,21.2183436003,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,598,50,544,63
-2021-M-ITF-TUR-24A-2021,M15 Antalya,Clay,32,15,20210614,111,207681,,SE,Francisco Comesana,R,,ARG,20.6872005476,209875,,,Alex Barrena,U,,ARG,,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,760,27,1298,5
+2021-M-ITF-TUR-24A-2021,M15 Antalya,Clay,32,15,20210614,111,207681,,SE,Francisco Comesana,R,,ARG,20.6872005476,209875,,,Alex Barrena,R,,ARG,18.6776180698,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,760,27,1298,5
 2021-M-ITF-TUR-24A-2021,M15 Antalya,Clay,32,15,20210614,112,122638,3,,Christopher Heyman,U,,BEL,27.6824093087,144742,,,Michal Dembek,U,,POL,23.8521560575,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,428,95,586,53
 2021-M-ITF-TUR-24A-2021,M15 Antalya,Clay,32,15,20210614,114,200030,,,Facundo Juarez,R,,ARG,23.7234770705,206470,,WC,Cezar Cretu,U,,ROU,20.1396303901,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,562,59,787,24
 2021-M-ITF-TUR-24A-2021,M15 Antalya,Clay,32,15,20210614,115,104947,,Q,Marsel Ilhan,R,190,TUR,34.0095824778,209322,,,Martin Krumich,U,,CZE,,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,634,44,975,13
@@ -4201,7 +4201,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-TUR-25A-2021,M15 Antalya,Clay,32,15,20210621,103,207502,,Q,Stefan Palosi,R,,ROU,21.3963039014,209852,,,Zsombor Velcz,U,,HUN,,6-3 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,916,16,1192,6
 2021-M-ITF-TUR-25A-2021,M15 Antalya,Clay,32,15,20210621,104,202378,,Q,Ignacio Carou,U,,ARG,21.9438740589,123812,7,,Jose Fco Vidal Azorin,U,,ESP,28.0246406571,2-6 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,945,15,548,63
 2021-M-ITF-TUR-25A-2021,M15 Antalya,Clay,32,15,20210621,105,208104,,Q,Andrea Picchione,U,,ITA,23.0390143737,144701,3,,Mathieu Perchicot,U,,FRA,28.8131416838,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1049,10,511,73
-2021-M-ITF-TUR-25A-2021,M15 Antalya,Clay,32,15,20210621,106,209875,,,Alex Barrena,U,,ARG,,105180,,,Daniel Dutra Da Silva,L,175,BRA,32.9609856263,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1295,5,592,51
+2021-M-ITF-TUR-25A-2021,M15 Antalya,Clay,32,15,20210621,106,209875,,,Alex Barrena,R,,ARG,18.6967830253,105180,,,Daniel Dutra Da Silva,L,175,BRA,32.9609856263,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1295,5,592,51
 2021-M-ITF-TUR-25A-2021,M15 Antalya,Clay,32,15,20210621,107,202275,,,Fermin Tenti,U,,ARG,24.0191649555,209117,,LL,Marco Furlanetto,U,,ITA,,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,598,50,1633,2
 2021-M-ITF-TUR-25A-2021,M15 Antalya,Clay,32,15,20210621,108,200030,8,,Facundo Juarez,R,,ARG,23.742642026,126129,,,Billy Harris,U,,GBR,26.4038329911,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,562,59,674,37
 2021-M-ITF-TUR-25A-2021,M15 Antalya,Clay,32,15,20210621,109,121497,5,,Mircea Alexandru Jecan,L,,ROU,33.0513347023,126629,,Q,Vladimir Korolev,U,,RUS,25.7905544148,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,519,70,881,18
@@ -4214,7 +4214,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-TUR-25A-2021,M15 Antalya,Clay,32,15,20210621,116,206681,2,,Fabian Marozsan,R,,HUN,21.7029431896,125833,,LL,Mert Naci Turker,U,,TUR,22.8473648186,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,484,79,1227,6
 2021-M-ITF-TUR-25A-2021,M15 Antalya,Clay,32,15,20210621,201,126183,,,Mariano Kestelboim,R,,ARG,25.3716632444,200318,1,,Yu Hsiou Hsu,U,,TPE,22.2203969884,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,570,57,391,107
 2021-M-ITF-TUR-25A-2021,M15 Antalya,Clay,32,15,20210621,202,202378,,Q,Ignacio Carou,U,,ARG,21.9438740589,207502,,Q,Stefan Palosi,R,,ROU,21.3963039014,1-6 7-6(5) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,945,15,916,16
-2021-M-ITF-TUR-25A-2021,M15 Antalya,Clay,32,15,20210621,203,208104,,Q,Andrea Picchione,U,,ITA,23.0390143737,209875,,,Alex Barrena,U,,ARG,,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1049,10,1295,5
+2021-M-ITF-TUR-25A-2021,M15 Antalya,Clay,32,15,20210621,203,208104,,Q,Andrea Picchione,U,,ITA,23.0390143737,209875,,,Alex Barrena,R,,ARG,18.6967830253,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1049,10,1295,5
 2021-M-ITF-TUR-25A-2021,M15 Antalya,Clay,32,15,20210621,204,200030,8,,Facundo Juarez,R,,ARG,23.742642026,202275,,,Fermin Tenti,U,,ARG,24.0191649555,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,562,59,598,50
 2021-M-ITF-TUR-25A-2021,M15 Antalya,Clay,32,15,20210621,205,202271,,Q,Lorenzo Joaquin Rodriguez,R,,ARG,21.7275838467,121497,5,,Mircea Alexandru Jecan,L,,ROU,33.0513347023,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,519,70
 2021-M-ITF-TUR-25A-2021,M15 Antalya,Clay,32,15,20210621,206,207681,,,Francisco Comesana,R,,ARG,20.7063655031,125825,4,,Matias Zukas,R,,ARG,25.1307323751,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,702,33,520,70
@@ -4413,7 +4413,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-M-ITF-USA-06A-2021,M25 Tulsa OK,Hard,32,25,20210614,402,144821,,,Genaro Alberto Olivieri,U,,ARG,22.8610540726,200589,,WC,Sam Riffice,U,,USA,22.288843258,7-6(5) 7-6(2),3,SF,,,,,,,,,,,,,,,,,,,,456,86,522,68
 2021-M-ITF-USA-06A-2021,M25 Tulsa OK,Hard,32,25,20210614,501,106044,,SE,Nicolas Kicker,R,,ARG,28.8268309377,144821,,,Genaro Alberto Olivieri,U,,ARG,22.8610540726,6-4 6-0,3,F,,,,,,,,,,,,,,,,,,,,503,73,456,86
 2021-M-ITF-USA-07A-2021,M15 Champaign IL,Hard,32,15,20210621,101,106186,1,,Jason Kubler,R,,AUS,28.090349076,132054,,Q,Nathan Ponwith,U,,USA,23.1704312115,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,271,218,781,25
-2021-M-ITF-USA-07A-2021,M15 Champaign IL,Hard,32,15,20210621,102,210044,,,Bruno Kuzuhara,U,,USA,,210095,,Q,Olivier Stuart,U,,FRA,,6-2 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,1522,2,,
+2021-M-ITF-USA-07A-2021,M15 Champaign IL,Hard,32,15,20210621,102,210044,,,Bruno Kuzuhara,U,,USA,17.2210814511,210095,,Q,Olivier Stuart,U,,FRA,,6-2 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,1522,2,,
 2021-M-ITF-USA-07A-2021,M15 Champaign IL,Hard,32,15,20210621,103,106360,,Q,Connor Farren,R,,USA,26.7159479808,126177,,,Strong Kirchheimer,U,,USA,26.1546885695,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,802,23,513,72
 2021-M-ITF-USA-07A-2021,M15 Champaign IL,Hard,32,15,20210621,104,132052,,,Christian Langmo,U,,USA,25.054072553,200677,6,,Rio Noguchi,U,,JPN,22.4804928131,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,616,47,465,84
 2021-M-ITF-USA-07A-2021,M15 Champaign IL,Hard,32,15,20210621,105,210096,,WC,Kweisi Kenyatte,U,,USA,,106380,4,,Gonzalo Villanueva,R,,ARG,26.4366872005,3-6 7-6(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,399,105
