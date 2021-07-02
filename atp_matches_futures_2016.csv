@@ -9842,7 +9842,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-EGY-15A-2016,Egypt F15,Hard,32,S,20160711,31,124112,2,,Tomas Papik,U,,CZE,22.2450376454,121584,1,,Luca Pancaldi,R,,ITA,23.0554414784,6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,772,26,720,31
 2016-M-FU-FRA-14A-2016,France F14,Clay,32,S,20160711,1,111506,1,,Maxime Hamou,R,,FRA,21.0924024641,105405,,Q,Yann Minster,U,,SUI,26.8856947296,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,380,117,,
 2016-M-FU-FRA-14A-2016,France F14,Clay,32,S,20160711,2,104393,,,Gregoire Burquier,L,,FRA,32.0082135524,105414,,,Matthieu Roy,U,,FRA,26.8008213552,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1290,4,1078,9
-2016-M-FU-FRA-14A-2016,France F14,Clay,32,S,20160711,3,104187,,,Vadim Alekseenko,R,,UKR,33.1471594798,202195,,Q,Maxime Cressy,R,,FRA,19.1759069131,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,660,39,,
+2016-M-FU-FRA-14A-2016,France F14,Clay,32,S,20160711,3,104187,,,Vadim Alekseenko,R,,UKR,33.1471594798,202195,,Q,Maxime Cressy,R,198,USA,19.1759069131,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,660,39,,
 2016-M-FU-FRA-14A-2016,France F14,Clay,32,S,20160711,4,144895,,Q,Corentin Moutet,L,178,FRA,17.2292950034,105917,8,,Gianni Mina,R,185,FRA,24.4188911704,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,867,18,711,32
 2016-M-FU-FRA-14A-2016,France F14,Clay,32,S,20160711,5,105088,3,,Laurent Rochette,R,,FRA,28.4298425736,122321,,,Marat Deviatiarov,R,,UKR,22.2286105407,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,478,79,734,30
 2016-M-FU-FRA-14A-2016,France F14,Clay,32,S,20160711,6,131905,,,Manuel Guinard,U,,FRA,20.6543463381,144805,,Q,Clement Larriere,R,,FRA,19.1403148528,6-0 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,1432,3,1667,2
@@ -10927,7 +10927,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-VIE-01A-2016,Vietnam F1,Hard,32,S,20160725,31,111805,1,,Seong Chan Hong,R,,KOR,19.0691307324,111801,,,Rishab Agarwal,R,,IND,20.6379192334,6-1 6-2,3,F,,,,,,,,,,,,,,,,,,,,439,93,963,13
 2016-M-FU-BEL-08A-2016,Belgium F8,Clay,32,S,20160801,1,131904,,Q,Louis Chaix,U,,FRA,21.2183436003,111506,1,,Maxime Hamou,R,,FRA,21.1498973306,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,2019,1,407,104
 2016-M-FU-BEL-08A-2016,Belgium F8,Clay,32,S,20160801,2,105178,,,Alexis Musialek,U,,FRA,28.076659822,133603,,,Benjamin Dhoe,R,,BEL,19.947980835,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,652,41,1484,3
-2016-M-FU-BEL-08A-2016,Belgium F8,Clay,32,S,20160801,3,202195,,Q,Maxime Cressy,R,,FRA,19.2334017796,202229,,Q,Jakob Kevelaerts,U,,BEL,21.8754277892,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2016-M-FU-BEL-08A-2016,Belgium F8,Clay,32,S,20160801,3,202195,,Q,Maxime Cressy,R,198,USA,19.2334017796,202229,,Q,Jakob Kevelaerts,U,,BEL,21.8754277892,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2016-M-FU-BEL-08A-2016,Belgium F8,Clay,32,S,20160801,4,126091,6,,Omar Salman,R,,BEL,20.2765229295,126448,,,Jolan Cailleau,U,,BEL,21.0951403149,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,566,57,1172,6
 2016-M-FU-BEL-08A-2016,Belgium F8,Clay,32,S,20160801,5,122298,,,Botic van de Zandschulp,R,,NED,20.8268309377,126107,3,,Michael Geerts,R,,BEL,21.5386721424,6-4 4-3 RET,3,R32,,,,,,,,,,,,,,,,,,,,835,20,440,94
 2016-M-FU-BEL-08A-2016,Belgium F8,Clay,32,S,20160801,6,111584,,WC,Jeroen Vanneste,R,,BEL,22.5379876797,202230,,Q,Maxence Bertimon,U,,FRA,16.8651608487,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1245,5,,
@@ -10942,7 +10942,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-BEL-08A-2016,Belgium F8,Clay,32,S,20160801,15,126632,,LL,Arnaud Neveux,U,,BEL,21.5961670089,126181,,Q,Dennis Bogaert,R,,BEL,24.4052019165,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1933,1,1475,3
 2016-M-FU-BEL-08A-2016,Belgium F8,Clay,32,S,20160801,16,121531,2,,Mats Moraing,L,,GER,24.1149897331,200383,,WC,Maxime Pauwels,U,,BEL,18.0041067762,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,438,94,1254,5
 2016-M-FU-BEL-08A-2016,Belgium F8,Clay,32,S,20160801,17,105178,,,Alexis Musialek,U,,FRA,28.076659822,131904,,Q,Louis Chaix,U,,FRA,21.2183436003,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,652,41,2019,1
-2016-M-FU-BEL-08A-2016,Belgium F8,Clay,32,S,20160801,18,126091,6,,Omar Salman,R,,BEL,20.2765229295,202195,,Q,Maxime Cressy,R,,FRA,19.2334017796,3-6 6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,566,57,,
+2016-M-FU-BEL-08A-2016,Belgium F8,Clay,32,S,20160801,18,126091,6,,Omar Salman,R,,BEL,20.2765229295,202195,,Q,Maxime Cressy,R,198,USA,19.2334017796,3-6 6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,566,57,,
 2016-M-FU-BEL-08A-2016,Belgium F8,Clay,32,S,20160801,19,122298,,,Botic van de Zandschulp,R,,NED,20.8268309377,111584,,WC,Jeroen Vanneste,R,,BEL,22.5379876797,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,835,20,1245,5
 2016-M-FU-BEL-08A-2016,Belgium F8,Clay,32,S,20160801,20,105636,,Q,Romain Sichez,U,,FRA,25.8535249829,106023,8,,Stijn Meulemans,U,,BEL,24.0985626283,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1809,1,665,39
 2016-M-FU-BEL-08A-2016,Belgium F8,Clay,32,S,20160801,21,122222,7,,Jonas Merckx,R,,BEL,22.8254620123,137228,,,Paul Monteban,R,,NED,23.5345653662,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,641,42,823,22

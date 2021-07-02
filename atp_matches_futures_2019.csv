@@ -32,7 +32,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-HKG-01A-2019,M25 Hong Kong,Hard,32,S,20181231,31,145001,,,Evan Furness,R,,FRA,20.3832991102,109699,,,Julian Lenz,R,,GER,25.8672142368,5-6 RET,3,F,,,,,,,,,,,,,,,,,,,,466,16,395,35
 2019-M-ITF-USA-01A-2019,M25 Los Angeles CA,Hard,30,S,20181231,1,122078,,,Dmitry Popko,R,,KAZ,22.1848049281,208296,,WC,Siem Woldeab,U,,USA,17.568788501,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,351,59,,
 2019-M-ITF-USA-01A-2019,M25 Los Angeles CA,Hard,30,S,20181231,2,132437,,Q,Logan Smith,U,,USA,22.1711156742,202167,,,Tyler Lu,U,,USA,23.3867214237,7-6(3) 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2019-M-ITF-USA-01A-2019,M25 Los Angeles CA,Hard,30,S,20181231,3,206909,,,Brandon Nakashima,R,,USA,17.4099931554,202195,,,Maxime Cressy,R,,FRA,21.6481861739,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,527,8,592,4
+2019-M-ITF-USA-01A-2019,M25 Los Angeles CA,Hard,30,S,20181231,3,206909,,,Brandon Nakashima,R,,USA,17.4099931554,202195,,,Maxime Cressy,R,198,USA,21.6481861739,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,527,8,592,4
 2019-M-ITF-USA-01A-2019,M25 Los Angeles CA,Hard,30,S,20181231,4,202385,,,Jenson Brooksby,R,,USA,18.1793292266,111775,7,,Evan Hoyt,R,,GBR,23.9561943874,5-7 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,492,12
 2019-M-ITF-USA-01A-2019,M25 Los Angeles CA,Hard,30,S,20181231,5,200587,,WC,Brandon Holt,U,,USA,20.7364818617,106266,,,Lloyd Glasspool,U,,GBR,25.1143052704,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,532,8,428,24
 2019-M-ITF-USA-01A-2019,M25 Los Angeles CA,Hard,30,S,20181231,6,106250,,,Luis Patino,R,,MEX,25.234770705,111809,,,Henry Craig,R,,USA,24.2245037645,7-6(5) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,569,6,,
@@ -2287,7 +2287,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-USA-15A-2019,M25 Wichita KS,Hard,32,S,20190610,29,200587,,,Brandon Holt,U,,USA,21.1772758385,200632,7,,Evan Zhu,U,,USA,20.8186173854,7-6(4) 6-3,3,SF,,,,,,,,,,,,,,,,,,,,506,11,638,3
 2019-M-ITF-USA-15A-2019,M25 Wichita KS,Hard,32,S,20190610,30,200589,4,,Sam Riffice,U,,USA,20.2765229295,106310,2,,Alexander Ritschard,R,,SUI,25.2128678987,6-2 6-1,3,SF,,,,,,,,,,,,,,,,,,,,541,8,450,20
 2019-M-ITF-USA-15A-2019,M25 Wichita KS,Hard,32,S,20190610,31,200589,4,,Sam Riffice,U,,USA,20.2765229295,200587,,,Brandon Holt,U,,USA,21.1772758385,6-1 6-4,3,F,,,,,,,,,,,,,,,,,,,,541,8,506,11
-2019-M-ITF-USA-16A-2019,M25 Tulsa OK,Hard,32,S,20190617,1,202195,,,Maxime Cressy,R,,FRA,22.1081451061,126190,,,Nicolas Alvarez,R,,PER,23.022587269,6-3 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,316,99,532,9
+2019-M-ITF-USA-16A-2019,M25 Tulsa OK,Hard,32,S,20190617,1,202195,,,Maxime Cressy,R,198,USA,22.1081451061,126190,,,Nicolas Alvarez,R,,PER,23.022587269,6-3 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,316,99,532,9
 2019-M-ITF-USA-16A-2019,M25 Tulsa OK,Hard,32,S,20190617,2,200230,,,Alexander Brown,U,,USA,20.1259411362,208649,,Q,Andrew Fenty,R,,USA,19.2744695414,3-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2019-M-ITF-USA-16A-2019,M25 Tulsa OK,Hard,32,S,20190617,3,126087,,,George Goldhoff,R,,USA,24.4216290212,127032,,IR  ,Justin Butsch,L,,USA,24.4407939767,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2019-M-ITF-USA-16A-2019,M25 Tulsa OK,Hard,32,S,20190617,4,200219,,,John Mcnally,U,,USA,20.6625598905,106327,7,,Harrison Adams,R,,USA,25.0622861054,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,520,10,448,21
@@ -2303,7 +2303,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-USA-16A-2019,M25 Tulsa OK,Hard,32,S,20190617,14,111436,,,Nick Chappell,L,,USA,26.7405886379,200217,,IR  ,Jacob Dunbar,U,,USA,23.7070499658,6-3 7-6(8),3,R32,,,,,,,,,,,,,,,,,,,,638,3,,
 2019-M-ITF-USA-16A-2019,M25 Tulsa OK,Hard,32,S,20190617,15,200220,,WC,Zeke Clark,R,,USA,20.9117043121,132606,,,Emmett Ward,U,,USA,24.1204654346,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2019-M-ITF-USA-16A-2019,M25 Tulsa OK,Hard,32,S,20190617,16,106265,2,,Michael Redlicki,L,,USA,25.582477755,202130,,,Emil Reinberg,R,,USA,22.1574264203,3-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,321,95,,
-2019-M-ITF-USA-16A-2019,M25 Tulsa OK,Hard,32,S,20190617,17,202195,,,Maxime Cressy,R,,FRA,22.1081451061,200230,,,Alexander Brown,U,,USA,20.1259411362,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,316,99,,
+2019-M-ITF-USA-16A-2019,M25 Tulsa OK,Hard,32,S,20190617,17,202195,,,Maxime Cressy,R,198,USA,22.1081451061,200230,,,Alexander Brown,U,,USA,20.1259411362,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,316,99,,
 2019-M-ITF-USA-16A-2019,M25 Tulsa OK,Hard,32,S,20190617,18,200219,,,John Mcnally,U,,USA,20.6625598905,126087,,,George Goldhoff,R,,USA,24.4216290212,7-6(7) 4-6 7-6(7),3,R16,,,,,,,,,,,,,,,,,,,,520,10,,
 2019-M-ITF-USA-16A-2019,M25 Tulsa OK,Hard,32,S,20190617,19,111583,,,Martin Redlicki,U,,USA,23.8138261465,111504,,,Mate Zsiga,R,,HUN,27.1156741958,6-3 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,384,43,,
 2019-M-ITF-USA-16A-2019,M25 Tulsa OK,Hard,32,S,20190617,20,133835,6,,Gijs Brouwer,L,,NED,23.2580424367,200632,,,Evan Zhu,U,,USA,20.8377823409,2-6 6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,414,30,640,3
@@ -2311,13 +2311,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-USA-16A-2019,M25 Tulsa OK,Hard,32,S,20190617,22,105512,3,,Alexander Sarkissian,R,,USA,29.2046543463,202169,,Q,Colin Markes,U,,USA,22.2943189596,3-6 6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,341,73,,
 2019-M-ITF-USA-16A-2019,M25 Tulsa OK,Hard,32,S,20190617,23,111436,,,Nick Chappell,L,,USA,26.7405886379,105292,,,Alejandro Gonzalez,R,,COL,30.3545516769,2-6 7-5 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,638,3,378,45
 2019-M-ITF-USA-16A-2019,M25 Tulsa OK,Hard,32,S,20190617,24,200220,,WC,Zeke Clark,R,,USA,20.9117043121,106265,2,,Michael Redlicki,L,,USA,25.582477755,3-6 6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,321,95
-2019-M-ITF-USA-16A-2019,M25 Tulsa OK,Hard,32,S,20190617,25,202195,,,Maxime Cressy,R,,FRA,22.1081451061,200219,,,John Mcnally,U,,USA,20.6625598905,6-7(5) 7-6(2) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,316,99,520,10
+2019-M-ITF-USA-16A-2019,M25 Tulsa OK,Hard,32,S,20190617,25,202195,,,Maxime Cressy,R,198,USA,22.1081451061,200219,,,John Mcnally,U,,USA,20.6625598905,6-7(5) 7-6(2) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,316,99,520,10
 2019-M-ITF-USA-16A-2019,M25 Tulsa OK,Hard,32,S,20190617,26,111583,,,Martin Redlicki,U,,USA,23.8138261465,133835,6,,Gijs Brouwer,L,,NED,23.2580424367,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,384,43,414,30
 2019-M-ITF-USA-16A-2019,M25 Tulsa OK,Hard,32,S,20190617,27,200589,,,Sam Riffice,U,,USA,20.295687885,105512,3,,Alexander Sarkissian,R,,USA,29.2046543463,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,541,8,341,73
 2019-M-ITF-USA-16A-2019,M25 Tulsa OK,Hard,32,S,20190617,28,200220,,WC,Zeke Clark,R,,USA,20.9117043121,111436,,,Nick Chappell,L,,USA,26.7405886379,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,638,3
-2019-M-ITF-USA-16A-2019,M25 Tulsa OK,Hard,32,S,20190617,29,202195,,,Maxime Cressy,R,,FRA,22.1081451061,111583,,,Martin Redlicki,U,,USA,23.8138261465,7-5 6-3,3,SF,,,,,,,,,,,,,,,,,,,,316,99,384,43
+2019-M-ITF-USA-16A-2019,M25 Tulsa OK,Hard,32,S,20190617,29,202195,,,Maxime Cressy,R,198,USA,22.1081451061,111583,,,Martin Redlicki,U,,USA,23.8138261465,7-5 6-3,3,SF,,,,,,,,,,,,,,,,,,,,316,99,384,43
 2019-M-ITF-USA-16A-2019,M25 Tulsa OK,Hard,32,S,20190617,30,200589,,,Sam Riffice,U,,USA,20.295687885,200220,,WC,Zeke Clark,R,,USA,20.9117043121,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,541,8,,
-2019-M-ITF-USA-16A-2019,M25 Tulsa OK,Hard,32,S,20190617,31,202195,,,Maxime Cressy,R,,FRA,22.1081451061,200589,,,Sam Riffice,U,,USA,20.295687885,6-3 6-1,3,F,,,,,,,,,,,,,,,,,,,,316,99,541,8
+2019-M-ITF-USA-16A-2019,M25 Tulsa OK,Hard,32,S,20190617,31,202195,,,Maxime Cressy,R,198,USA,22.1081451061,200589,,,Sam Riffice,U,,USA,20.295687885,6-3 6-1,3,F,,,,,,,,,,,,,,,,,,,,316,99,541,8
 2019-M-ITF-USA-17A-2019,M15 Orlando FL,Clay,32,S,20190617,1,208370,,,Keenan Mayo,U,,USA,,209067,,WC,Hunter Heck,U,,USA,,7-6(3) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,604,3,,
 2019-M-ITF-USA-17A-2019,M15 Orlando FL,Clay,32,S,20190617,2,200532,,,Vasil Kirkov,U,,USA,20.2628336756,208608,,,Ishaan Ravichander,U,,USA,17.3990417522,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2019-M-ITF-USA-17A-2019,M15 Orlando FL,Clay,32,S,20190617,3,126209,,,Peter Bertran,,,DOM,23.2826830938,200336,,,Trent Bryde,R,,USA,19.8138261465,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
