@@ -2,7 +2,7 @@
 
 This contains my master ATP player file, historical rankings, results, and match stats.
 
-The player file columns are player_id, first_name, last_name, hand, birth_date, country_code.
+The player file columns are player_id, first_name, last_name, hand, birth_date, country_code, height (cm).
 
 The columns for the ranking files are ranking_date, ranking, player_id, ranking_points (where available).
 
