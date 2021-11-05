@@ -2998,7 +2998,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-D031,Davis Cup G2 QF: COL vs CUB,Clay,4,D,20020208,5,104027,,,Pablo Gonzalez,R,178,COL,19.5947980835,103905,,,Ricardo Chile Fonte,U,,CUB,20.076659822,6-0 6-4,3,RR,,,,,,,,,,,,,,,,,,,,683,19,1080,5
 2002-D032,Davis Cup G2 QF: TRI vs URU,Hard,4,D,20020208,1,104421,,,Martin Vilarrubi,R,,URU,17.4236824093,108652,,,Shane Stone,U,,TRI,24.59137577,6-2 6-2 7-6(4),5,RR,,,,,,,,,,,,,,,,,,,,1314,2,1382,1
 2002-D032,Davis Cup G2 QF: TRI vs URU,Hard,4,D,20020208,2,101976,,,Federico Dondo,R,,URU,30.2997946612,108653,,,Troy Stone,U,,TRI,21.7330595483,6-4 6-3 6-1,5,RR,,,,,,,,,,,,,,,,,,,,609,26,,
-2002-D032,Davis Cup G2 QF: TRI vs URU,Hard,4,D,20020208,4,104395,,,Marcel Felder,R,,URU,17.5742642026,108654,,,Tyler Mayers,U,,TRI,19.3127994524,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,1382,1,,
+2002-D032,Davis Cup G2 QF: TRI vs URU,Hard,4,D,20020208,4,104395,,,Marcel Felder,R,174,URU,17.5742642026,108654,,,Tyler Mayers,U,,TRI,19.3127994524,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,1382,1,,
 2002-D032,Davis Cup G2 QF: TRI vs URU,Hard,4,D,20020208,5,104421,,,Martin Vilarrubi,R,,URU,17.4236824093,108655,,,Ivor Grazette,U,,TRI,27.4551676934,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,1314,2,,
 2002-D033,Davis Cup G2 SF: CHN vs KAZ,Hard,4,D,20020405,1,103612,,,Alexey Kedryuk,R,193,KAZ,21.6454483231,103817,,,Yu Jr Wang,L,,CHN,20.6652977413,6-3 6-2 6-7(4) 2-6 6-0,5,RR,,,,,,,,,,,,,,,,,,,,509,42,934,7
 2002-D033,Davis Cup G2 SF: CHN vs KAZ,Hard,4,D,20020405,2,104348,,,Dias Doskarayev,U,,KAZ,17.9767282683,103337,,,Ben Qiang Zhu,R,,CHN,23.0527036277,2-6 6-3 6-3 6-4,5,RR,,,,,,,,,,,,,,,,,,,,971,6,696,17
@@ -3095,7 +3095,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-D056,Davis Cup G2 F: URU vs PER,Clay,4,D,20020712,1,103525,,,Ivan Miranda,R,175,PER,22.3326488706,101976,,,Federico Dondo,R,,URU,30.7214236824,6-1 6-3 6-0,5,RR,,,,,,,,,,,,,,,,,,,,207,173,671,20
 2002-D056,Davis Cup G2 F: URU vs PER,Clay,4,D,20020712,2,103632,,,Luis Horna,R,180,PER,21.8124572211,104421,,,Martin Vilarrubi,R,,URU,17.8453114305,5-7 7-5 6-2 6-1,5,RR,,,,,,,,,,,,,,,,,,,,80,503,1321,2
 2002-D056,Davis Cup G2 F: URU vs PER,Clay,4,D,20020712,4,103632,,,Luis Horna,R,180,PER,21.8124572211,102544,,,Pablo Bianchi,R,,URU,27.3593429158,6-1 4-6 6-1 6-1,5,RR,,,,,,,,,,,,,,,,,,,,80,503,662,22
-2002-D056,Davis Cup G2 F: URU vs PER,Clay,4,D,20020712,5,198661,,,Luis Felipe Noriega,U,,PER,19.0499657769,104395,,,Marcel Felder,R,,URU,17.9958932238,6-1 6-7(2) 7-6(5),3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2002-D056,Davis Cup G2 F: URU vs PER,Clay,4,D,20020712,5,198661,,,Luis Felipe Noriega,U,,PER,19.0499657769,104395,,,Marcel Felder,R,174,URU,17.9958932238,6-1 6-7(2) 7-6(5),3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2002-D057,Davis Cup WG SF: FRA vs USA,Clay,4,D,20020920,1,103096,,,Arnaud Clement,R,173,FRA,24.7474332649,104053,,,Andy Roddick,R,188,USA,20.0465434634,4-6 7-6(6) 7-6(5) 6-1,5,RR,,,,,,,,,,,,,,,,,,,,42,780,11,1995
 2002-D057,Davis Cup WG SF: FRA vs USA,Clay,4,D,20020920,2,103206,,,Sebastien Grosjean,R,175,FRA,24.3011635866,103484,,,James Blake,R,185,USA,22.7186858316,6-4 6-1 6-7(7) 7-5,5,RR,,,,,,,,,,,,,,,,,,,,9,2075,27,1270
 2002-D057,Davis Cup WG SF: FRA vs USA,Clay,4,D,20020920,4,103206,,,Sebastien Grosjean,R,175,FRA,24.3011635866,104053,,,Andy Roddick,R,188,USA,20.0465434634,6-4 3-6 6-3 6-4,5,RR,,,,,,,,,,,,,,,,,,,,9,2075,11,1995
@@ -3157,12 +3157,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-D071,Davis Cup G2 QF: SLO vs IRL,Clay,4,D,20020712,5,101970,,,Iztok Bozic,R,,SLO,30.7789185489,101996,,,David Mullins,R,,IRL,30.5653661875,6-0 6-2 7-6(3),5,RR,,,,,,,,,,,,,,,,,,,,567,33,1262,2
 2002-D072,Davis Cup G1 PO: BLR vs POR,Carpet,4,D,20020712,1,103166,,,Vladimir Voltchkov,R,180,BLR,24.2518822724,101938,,,Bernardo Mota,R,178,POR,30.984257358,6-2 6-1 6-2,5,RR,,,,,,,,,,,,,,,,,,,,189,195,338,86
 2002-D072,Davis Cup G1 PO: BLR vs POR,Carpet,4,D,20020712,2,103018,,,Max Mirnyi,R,196,BLR,25.0047912389,103033,,,Helder Lopes,R,,POR,24.9171800137,6-3 6-3 6-4,5,RR,,,,,,,,,,,,,,,,,,,,29,1120,773,13
-2002-D072,Davis Cup G1 PO: BLR vs POR,Carpet,4,D,20020712,4,102077,,,Alexander Shvec,R,,BLR,30.0232717317,104311,,,Leonardo Tavares,R,,POR,18.379192334,6-2 7-6(4),3,RR,,,,,,,,,,,,,,,,,,,,528,38,1093,4
+2002-D072,Davis Cup G1 PO: BLR vs POR,Carpet,4,D,20020712,4,102077,,,Alexander Shvec,R,,BLR,30.0232717317,104311,,,Leonardo Tavares,R,185,POR,18.379192334,6-2 7-6(4),3,RR,,,,,,,,,,,,,,,,,,,,528,38,1093,4
 2002-D072,Davis Cup G1 PO: BLR vs POR,Carpet,4,D,20020712,5,103033,,,Helder Lopes,R,,POR,24.9171800137,108657,,,Alexander Skrypko,U,,BLR,16.0191649555,2-6 6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,773,13,,
 2002-D073,Davis Cup G1 PO: ECU vs BAH,Clay,4,D,20020712,1,104260,,,Johny De Leon,R,,ECU,18.7241615332,108661,,,Dentry Mortimer,U,,BAH,20.0219028063,6-3 6-1 6-1,5,RR,,,,,,,,,,,,,,,,,,,,1145,4,,
 2002-D073,Davis Cup G1 PO: ECU vs BAH,Clay,4,D,20020712,2,102192,,,Luis Adrian Morejon,R,178,ECU,29.2785763176,108662,,,Lavaughn Munroe,U,,BAH,20.6023271732,6-3 6-3 6-0,5,RR,,,,,,,,,,,,,,,,,,,,342,85,,
 2002-D073,Davis Cup G1 PO: ECU vs BAH,Clay,4,D,20020712,4,104008,,,Carlos Avellan,R,,ECU,20.1040383299,108663,,,Bjorn Munroe,R,,BAH,23.6495550992,6-1 7-6(6),3,RR,,,,,,,,,,,,,,,,,,,,955,7,,
-2002-D073,Davis Cup G1 PO: ECU vs BAH,Clay,4,D,20020712,5,108664,,,Martin Stiegwardt,U,,ECU,18.3627652293,104618,,,Devin Mullings,L,,BAH,16.758384668,3-6 6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2002-D073,Davis Cup G1 PO: ECU vs BAH,Clay,4,D,20020712,5,108664,,,Martin Stiegwardt,U,,ECU,18.3627652293,104618,,,Devin Mullings,L,168,BAH,16.758384668,3-6 6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2002-D074,Davis Cup G1 PO: MEX vs CHI,Carpet,4,D,20020712,1,103454,,,Nicolas Massu,R,183,CHI,22.7433264887,103060,,,Alejandro Hernandez,R,180,MEX,24.7665982204,6-3 6-1 6-0,5,RR,,,,,,,,,,,,,,,,,,,,74,545,293,111
 2002-D074,Davis Cup G1 PO: MEX vs CHI,Carpet,4,D,20020712,2,102701,,,Marcelo Rios,L,175,CHI,26.5325119781,103637,,,Marcelo Amador,U,,MEX,21.7768651608,7-5 6-7(3) 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,25,1225,516,41
 2002-D074,Davis Cup G1 PO: MEX vs CHI,Carpet,4,D,20020712,4,103060,,,Alejandro Hernandez,R,180,MEX,24.7665982204,102701,,,Marcelo Rios,L,175,CHI,26.5325119781,7-6(5) 3-6 2-6 6-0 6-2,5,RR,,,,,,,,,,,,,,,,,,,,293,111,25,1225
@@ -3180,9 +3180,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-D077,Davis Cup G2 PO: RSA vs HUN,Hard,4,D,20020712,4,102737,,,Gergely Kisgyorgy,R,,HUN,26.3326488706,103325,,,Wesley Moodie,R,196,RSA,23.394934976,7-5 6-7(5) 7-6(5),3,RR,,,,,,,,,,,,,,,,,,,,511,42,337,87
 2002-D077,Davis Cup G2 PO: RSA vs HUN,Hard,4,D,20020712,5,103645,,,Balazs Veress,R,,HUN,21.735797399,103573,,,Rik De Voest,R,180,RSA,22.0889801506,6-1 2-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,,1321,2,359,80
 2002-D078,Davis Cup G2 PO: GHA vs ARM,Hard,4,D,20020712,1,104138,,,Henry Adjei Darko,U,,GHA,19.356605065,108610,,,Tsolak Gevorgyan,U,,ARM,26.8884325804,6-3 7-6(2) 6-3,5,RR,,,,,,,,,,,,,,,,,,,,,,,
-2002-D078,Davis Cup G2 PO: GHA vs ARM,Hard,4,D,20020712,2,102802,,,Gunther Darkey,R,,GHA,26.0807665982,108666,,,Harutyun Sofyan,R,,ARM,19.485284052,7-6(0) 6-0 7-6(3),5,RR,,,,,,,,,,,,,,,,,,,,874,9,,
+2002-D078,Davis Cup G2 PO: GHA vs ARM,Hard,4,D,20020712,2,102802,,,Gunther Darkey,R,,GHA,26.0807665982,108666,,,Harutyun Sofyan,R,180,ARM,19.485284052,7-6(0) 6-0 7-6(3),5,RR,,,,,,,,,,,,,,,,,,,,874,9,,
 2002-D078,Davis Cup G2 PO: GHA vs ARM,Hard,4,D,20020712,4,108667,,,Kwasi Ahenkora,U,,GHA,20.257357974,108610,,,Tsolak Gevorgyan,U,,ARM,26.8884325804,6-3 3-6 7-6(6),3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2002-D078,Davis Cup G2 PO: GHA vs ARM,Hard,4,D,20020712,5,117349,,,F Egyir,,,GHA,,108610,,,Tsolak Gevorgyan,U,,ARM,26.8884325804,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2002-D078,Davis Cup G2 PO: GHA vs ARM,Hard,4,D,20020712,5,117349,,,F Egyir,U,,GHA,,108610,,,Tsolak Gevorgyan,U,,ARM,26.8884325804,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2002-D079,Davis Cup G1 PO: BAH vs MEX,Hard,4,D,20020920,1,103746,,,Miguel Gallardo Valles,R,,MEX,21.440109514,102076,,,Mark Merklein,R,188,BAH,30.2176591376,5-7 6-0 6-4 7-6(5),5,RR,,,,,,,,,,,,,,,,,,,,197,176,,
 2002-D079,Davis Cup G1 PO: BAH vs MEX,Hard,4,D,20020920,2,101956,,,Mark Knowles,R,190,BAH,31.0335386721,103060,,,Alejandro Hernandez,R,180,MEX,24.9582477755,6-7(4) 6-2 1-6 6-1 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,305,96
 2002-D079,Davis Cup G1 PO: BAH vs MEX,Hard,4,D,20020920,4,103746,,,Miguel Gallardo Valles,R,,MEX,21.440109514,101956,,,Mark Knowles,R,190,BAH,31.0335386721,7-6(6) 3-6 6-1 1-0 RET,5,RR,,,,,,,,,,,,,,,,,,,,197,176,,
@@ -3196,7 +3196,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-D081,Davis Cup G2 SF: LUX vs SLO,Hard,4,D,20020920,4,102959,,,Marko Tkalec,R,178,SLO,25.5003422313,107098,,,Gilles Kremer,R,,LUX,21.1718001369,6-3 3-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,,273,111,,
 2002-D081,Davis Cup G2 SF: LUX vs SLO,Hard,4,D,20020920,5,104051,,,Andrej Kracman,R,,SLO,20.0684462697,103877,,,Mike Scheidweiler,R,188,LUX,20.8377823409,6-4 7-6(4),3,RR,,,,,,,,,,,,,,,,,,,,436,54,318,90
 2002-D082,Davis Cup G1 PO: ITA vs POR,Carpet,4,D,20020920,1,101938,,,Bernardo Mota,R,178,POR,31.1759069131,102999,,,Stefano Galvani,R,178,ITA,25.28678987,7-5 6-3 7-6(2),5,RR,,,,,,,,,,,,,,,,,,,,313,93,130,314
-2002-D082,Davis Cup G1 PO: ITA vs POR,Carpet,4,D,20020920,2,102106,,,Davide Sanguinetti,R,188,ITA,30.0588637919,104311,,,Leonardo Tavares,R,,POR,18.5708418891,6-3 6-2 6-1,5,RR,,,,,,,,,,,,,,,,,,,,44,775,939,7
+2002-D082,Davis Cup G1 PO: ITA vs POR,Carpet,4,D,20020920,2,102106,,,Davide Sanguinetti,R,188,ITA,30.0588637919,104311,,,Leonardo Tavares,R,185,POR,18.5708418891,6-3 6-2 6-1,5,RR,,,,,,,,,,,,,,,,,,,,44,775,939,7
 2002-D082,Davis Cup G1 PO: ITA vs POR,Carpet,4,D,20020920,4,102106,,,Davide Sanguinetti,R,188,ITA,30.0588637919,101938,,,Bernardo Mota,R,178,POR,31.1759069131,6-4 7-5 6-4,5,RR,,,,,,,,,,,,,,,,,,,,44,775,313,93
 2002-D082,Davis Cup G1 PO: ITA vs POR,Carpet,4,D,20020920,5,102999,,,Stefano Galvani,R,178,ITA,25.28678987,104416,,,Tiago Godinho,R,,POR,18.0917180014,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,130,314,1274,2
 2002-D083,Davis Cup G1 PO: ISR vs GRE,Hard,4,D,20020920,1,103248,,,Harel Levy,R,185,ISR,24.1149897331,104011,,,Lefteris Alexiou,R,,GRE,20.2874743326,6-3 6-1 6-2,5,RR,,,,,,,,,,,,,,,,,,,,248,129,751,16

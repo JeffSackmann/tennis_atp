@@ -146,7 +146,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-FRA-01A-2000,France F1,Clay,32,S,20000110,29,102029,8,,Filip Dewulf,R,190,BEL,27.8220396988,102630,,Q,Slimane Saoudi,L,,ALG,24.4681724846,6-1 6-3,3,SF,,,,,,,,,,,,,,,,,,,,327,91,478,46
 2000-M-FU-FRA-01A-2000,France F1,Clay,32,S,20000110,30,102934,,,Nicolas Coutelot,R,185,FRA,22.9158110883,103047,,Q,Julien Varlet,R,180,FRA,22.3381245722,1-6 7-5 6-0,3,SF,,,,,,,,,,,,,,,,,,,,340,86,569,30
 2000-M-FU-FRA-01A-2000,France F1,Clay,32,S,20000110,31,102029,8,,Filip Dewulf,R,190,BEL,27.8220396988,102934,,,Nicolas Coutelot,R,185,FRA,22.9158110883,6-2 6-2,3,F,,,,,,,,,,,,,,,,,,,,327,91,340,86
-2000-M-FU-IND-01A-2000,India F1,Clay,32,S,20000110,1,102843,,LL,Suwandi Suwandi,R,178,INA,23.3867214237,104222,,Q,Nikola Ciric,L,,SRB,16.4407939767,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,882,8,,
+2000-M-FU-IND-01A-2000,India F1,Clay,32,S,20000110,1,102843,,LL,Suwandi Suwandi,R,178,INA,23.3867214237,104222,,Q,Nikola Ciric,L,201,SRB,16.4407939767,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,882,8,,
 2000-M-FU-IND-01A-2000,India F1,Clay,32,S,20000110,2,102345,,,Nitten Kirrtane,R,,IND,25.8535249829,103640,,Q,Vijayendra Laad,U,,IND,19.2607802875,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,672,18,1028,4
 2000-M-FU-IND-01A-2000,India F1,Clay,32,S,20000110,3,102955,,WC,Saurav Panja,R,,IND,22.8227241615,117692,,Q,Shivshanker Kanbargimath,U,,IND,21.7084188912,5-7 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1039,4,1028,4
 2000-M-FU-IND-01A-2000,India F1,Clay,32,S,20000110,4,103544,7,,Andy Ram,R,180,ISR,19.7508555784,103547,,,Anton Kokurin,R,,UZB,19.7344284736,7-6(4) 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,376,72,827,10
@@ -1262,7 +1262,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-CHI-02A-2000,Chile F2,Clay,32,S,20000226,7,103506,,,Martin Vassallo Arguello,R,183,ARG,20.0301163587,103405,,,Rodolfo Rake,R,,PER,20.6105407255,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,437,57,461,51
 2000-M-FU-CHI-02A-2000,Chile F2,Clay,32,S,20000226,8,103594,,,Oliver Marach,R,185,AUT,19.6002737851,103395,,LL,Julio Silva,R,173,BRA,20.643394935,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,414,62,618,24
 2000-M-FU-CHI-02A-2000,Chile F2,Clay,32,S,20000226,9,102723,8,,Eduardo Medica,R,180,ARG,24.0301163587,102985,,Q,Gustavo Marcaccio,R,,ARG,22.803559206,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,324,90,719,15
-2000-M-FU-CHI-02A-2000,Chile F2,Clay,32,S,20000226,10,103841,,WC,Julio Peralta,R,,CHI,18.4503764545,103809,,Q,Diogo Cruz,U,,BRA,18.5954825462,7-5 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2000-M-FU-CHI-02A-2000,Chile F2,Clay,32,S,20000226,10,103841,,WC,Julio Peralta,R,188,CHI,18.4503764545,103809,,Q,Diogo Cruz,U,,BRA,18.5954825462,7-5 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2000-M-FU-CHI-02A-2000,Chile F2,Clay,32,S,20000226,11,103121,,,Matias Oneille,R,,ARG,22.083504449,102769,,,Andres Schneiter,R,,ARG,23.871321013,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,506,42,352,81
 2000-M-FU-CHI-02A-2000,Chile F2,Clay,32,S,20000226,12,102930,4,,Rodrigo Cerdera,R,,ARG,23.0444900753,102830,,,Paulo Carvallo,R,,PAR,23.6167008898,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,281,109,468,50
 2000-M-FU-CHI-02A-2000,Chile F2,Clay,32,S,20000226,13,103373,8,,Sergio Roitman,R,185,ARG,20.7693360712,117461,,WC,Claudio Rojas,U,,CHI,33.0075290897,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,348,82,,
@@ -1273,7 +1273,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-CHI-02A-2000,Chile F2,Clay,32,S,20000226,18,102737,7,,Gergely Kisgyorgy,R,,HUN,23.9561943874,103548,,Q,Eduardo Bergmann,R,,BRA,19.8466803559,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,335,86,765,13
 2000-M-FU-CHI-02A-2000,Chile F2,Clay,32,S,20000226,19,103052,,LL,Mariano Delfino,R,183,ARG,22.4202600958,103095,,LL,Patricio Rudi,R,,ARG,22.1820670773,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,642,21,589,28
 2000-M-FU-CHI-02A-2000,Chile F2,Clay,32,S,20000226,20,103594,,,Oliver Marach,R,185,AUT,19.6002737851,103506,,,Martin Vassallo Arguello,R,183,ARG,20.0301163587,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,414,62,437,57
-2000-M-FU-CHI-02A-2000,Chile F2,Clay,32,S,20000226,21,102723,8,,Eduardo Medica,R,180,ARG,24.0301163587,103841,,WC,Julio Peralta,R,,CHI,18.4503764545,3-6 6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,324,90,,
+2000-M-FU-CHI-02A-2000,Chile F2,Clay,32,S,20000226,21,102723,8,,Eduardo Medica,R,180,ARG,24.0301163587,103841,,WC,Julio Peralta,R,188,CHI,18.4503764545,3-6 6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,324,90,,
 2000-M-FU-CHI-02A-2000,Chile F2,Clay,32,S,20000226,22,103121,,,Matias Oneille,R,,ARG,22.083504449,102930,4,,Rodrigo Cerdera,R,,ARG,23.0444900753,7-6(4) 6-7(3) 6-0,3,R16,,,,,,,,,,,,,,,,,,,,506,42,281,109
 2000-M-FU-CHI-02A-2000,Chile F2,Clay,32,S,20000226,23,103909,,SE,Guillermo Coria,R,175,ARG,18.1054072553,103373,8,,Sergio Roitman,R,185,ARG,20.7693360712,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,741,14,348,82
 2000-M-FU-CHI-02A-2000,Chile F2,Clay,32,S,20000226,24,102554,2,,Diego Moyano,R,175,ARG,24.9418206708,103700,,,Juan Pablo Guzman,L,178,ARG,19.06091718,6-4 3-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,240,140,515,41
@@ -2752,7 +2752,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-CHI-04A-2000,Chile F4,Clay,32,S,20000417,11,102224,,,Miguel Pastura,R,,ARG,26.8911704312,103700,,,Juan Pablo Guzman,L,178,ARG,19.2142368241,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,644,21,496,43
 2000-M-FU-CHI-04A-2000,Chile F4,Clay,32,S,20000417,12,103121,,,Matias Oneille,R,,ARG,22.2368240931,103581,3,,Flavio Saretta,R,183,BRA,19.8028747433,7-6(8) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,482,47,317,94
 2000-M-FU-CHI-04A-2000,Chile F4,Clay,32,S,20000417,13,103672,8,Q,Ricardo Mello,L,175,BRA,19.3210130048,102718,,Q,Enzo Artoni,R,,ITA,24.2217659138,5-7 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,349,79,660,20
-2000-M-FU-CHI-04A-2000,Chile F4,Clay,32,S,20000417,14,103737,,,Edgardo Massa,R,180,ARG,19.0718685832,103841,,WC,Julio Peralta,R,,CHI,18.6036960986,7-5 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,505,41,1313,1
+2000-M-FU-CHI-04A-2000,Chile F4,Clay,32,S,20000417,14,103737,,,Edgardo Massa,R,180,ARG,19.0718685832,103841,,WC,Julio Peralta,R,188,CHI,18.6036960986,7-5 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,505,41,1313,1
 2000-M-FU-CHI-04A-2000,Chile F4,Clay,32,S,20000417,15,111486,,,Leonardo Olguin,U,,ARG,24.5256673511,102962,,Q,Miguel Miranda,R,,CHI,23.0800821355,3-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1313,1
 2000-M-FU-CHI-04A-2000,Chile F4,Clay,32,S,20000417,16,102145,2,,Francisco Cabello,R,190,ARG,27.3620807666,103534,,LL,Nicolas Devilder,L,173,FRA,20.0629705681,6-2 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,316,94,759,13
 2000-M-FU-CHI-04A-2000,Chile F4,Clay,32,S,20000417,17,102997,,,Hermes Gamonal,R,180,CHI,22.8802190281,102807,,,Rodrigo Monte,R,,BRA,23.8412046543,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,599,26,596,26
@@ -3169,7 +3169,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-CHI-06A-2000,Chile F6,Clay,32,S,20000501,2,103737,,,Edgardo Massa,R,180,ARG,19.1101984942,103310,,LL,Rodrigo Pena,R,,ARG,21.28678987,6-0 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,496,42,905,7
 2000-M-FU-CHI-06A-2000,Chile F6,Clay,32,S,20000501,3,103095,,,Patricio Rudi,R,,ARG,22.3737166324,102938,,LL,Alejandro Olivera,R,,URU,23.2087611225,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,555,32,881,8
 2000-M-FU-CHI-06A-2000,Chile F6,Clay,32,S,20000501,4,103506,7,,Martin Vassallo Arguello,R,183,ARG,20.2217659138,103534,,,Nicolas Devilder,L,173,FRA,20.1013004791,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,418,60,749,13
-2000-M-FU-CHI-06A-2000,Chile F6,Clay,32,S,20000501,5,103373,3,,Sergio Roitman,R,185,ARG,20.9609856263,103841,,WC,Julio Peralta,R,,CHI,18.6420260096,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,314,91,1305,1
+2000-M-FU-CHI-06A-2000,Chile F6,Clay,32,S,20000501,5,103373,3,,Sergio Roitman,R,185,ARG,20.9609856263,103841,,WC,Julio Peralta,R,188,CHI,18.6420260096,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,314,91,1305,1
 2000-M-FU-CHI-06A-2000,Chile F6,Clay,32,S,20000501,6,102997,,,Hermes Gamonal,R,180,CHI,22.9185489391,103775,,Q,Felipe Parada,R,175,CHI,18.9596167009,6-0 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,568,30,,
 2000-M-FU-CHI-06A-2000,Chile F6,Clay,32,S,20000501,7,102962,,Q,Miguel Miranda,R,,CHI,23.1184120465,103624,,Q,Sebastian Uriarte,R,,ARG,19.665982204,6-3 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1305,1,1305,1
 2000-M-FU-CHI-06A-2000,Chile F6,Clay,32,S,20000501,8,103672,5,,Ricardo Mello,L,175,BRA,19.3593429158,103195,,,Leandro Rosa,R,,BRA,21.9767282683,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,339,81,657,20
@@ -3179,7 +3179,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-CHI-06A-2000,Chile F6,Clay,32,S,20000501,12,103201,4,,Adrian Garcia,R,175,CHI,21.9356605065,103604,,Q,Ignacio Vila,U,,ESP,19.7508555784,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,335,82,1305,1
 2000-M-FU-CHI-06A-2000,Chile F6,Clay,32,S,20000501,13,103121,8,,Matias Oneille,R,,ARG,22.2751540041,103976,,Q,Juan Pablo Brzezicki,R,178,ARG,18.0533880903,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,475,48,1043,4
 2000-M-FU-CHI-06A-2000,Chile F6,Clay,32,S,20000501,14,103850,,Q,Sebastian Decoud,L,178,ARG,18.6173853525,118122,,WC,James Knuckey,R,,CHI,15.6084873374,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1305,1,,
-2000-M-FU-CHI-06A-2000,Chile F6,Clay,32,S,20000501,15,104477,,WC,Jorge Aguilar,R,,CHI,15.3100616016,104503,,WC,Guillermo Hormazabal,R,,CHI,15.1950718686,3-6 7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2000-M-FU-CHI-06A-2000,Chile F6,Clay,32,S,20000501,15,104477,,WC,Jorge Aguilar,R,178,CHI,15.3100616016,104503,,WC,Guillermo Hormazabal,R,,CHI,15.1950718686,3-6 7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2000-M-FU-CHI-06A-2000,Chile F6,Clay,32,S,20000501,16,101961,,Q,Martin Stringari,R,188,ARG,28.6406570842,101976,2,,Federico Dondo,R,,URU,28.5366187543,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,322,87
 2000-M-FU-CHI-06A-2000,Chile F6,Clay,32,S,20000501,17,102930,1,,Rodrigo Cerdera,R,,ARG,23.2361396304,103737,,,Edgardo Massa,R,180,ARG,19.1101984942,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,254,126,496,42
 2000-M-FU-CHI-06A-2000,Chile F6,Clay,32,S,20000501,18,103095,,,Patricio Rudi,R,,ARG,22.3737166324,103506,7,,Martin Vassallo Arguello,R,183,ARG,20.2217659138,2-6 7-6(5) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,555,32,418,60
@@ -3188,7 +3188,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-CHI-06A-2000,Chile F6,Clay,32,S,20000501,21,102920,,,Diego Hipperdinger,R,,ESP,23.2854209446,111486,6,,Leonardo Olguin,U,,ARG,24.5639972621,5-7 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,507,40,,
 2000-M-FU-CHI-06A-2000,Chile F6,Clay,32,S,20000501,22,103201,4,,Adrian Garcia,R,175,CHI,21.9356605065,103587,,Q,Andres Dellatorre,R,190,ARG,19.8110882957,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,335,82,976,5
 2000-M-FU-CHI-06A-2000,Chile F6,Clay,32,S,20000501,23,103121,8,,Matias Oneille,R,,ARG,22.2751540041,103850,,Q,Sebastian Decoud,L,178,ARG,18.6173853525,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,475,48,1305,1
-2000-M-FU-CHI-06A-2000,Chile F6,Clay,32,S,20000501,24,101961,,Q,Martin Stringari,R,188,ARG,28.6406570842,104477,,WC,Jorge Aguilar,R,,CHI,15.3100616016,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+2000-M-FU-CHI-06A-2000,Chile F6,Clay,32,S,20000501,24,101961,,Q,Martin Stringari,R,188,ARG,28.6406570842,104477,,WC,Jorge Aguilar,R,178,CHI,15.3100616016,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2000-M-FU-CHI-06A-2000,Chile F6,Clay,32,S,20000501,25,102930,1,,Rodrigo Cerdera,R,,ARG,23.2361396304,103095,,,Patricio Rudi,R,,ARG,22.3737166324,5-7 6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,254,126,555,32
 2000-M-FU-CHI-06A-2000,Chile F6,Clay,32,S,20000501,26,103373,3,,Sergio Roitman,R,185,ARG,20.9609856263,102962,,Q,Miguel Miranda,R,,CHI,23.1184120465,7-5 6-4,3,QF,,,,,,,,,,,,,,,,,,,,314,91,1305,1
 2000-M-FU-CHI-06A-2000,Chile F6,Clay,32,S,20000501,27,103201,4,,Adrian Garcia,R,175,CHI,21.9356605065,102920,,,Diego Hipperdinger,R,,ESP,23.2854209446,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,335,82,507,40
@@ -3565,7 +3565,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-ARG-04A-2000,Argentina F4,Clay,32,S,20000508,11,103624,,Q,Sebastian Uriarte,R,,ARG,19.6851471595,103095,,,Patricio Rudi,R,,ARG,22.392881588,6-4 6-7(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1312,1,564,31
 2000-M-FU-ARG-04A-2000,Argentina F4,Clay,32,S,20000508,12,103373,3,,Sergio Roitman,R,185,ARG,20.9801505818,117369,,WC,Sergio Limina,U,,ARG,32.5201916496,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,308,95,,
 2000-M-FU-ARG-04A-2000,Argentina F4,Clay,32,S,20000508,13,103700,8,,Juan Pablo Guzman,L,178,ARG,19.2717316906,103737,,,Edgardo Massa,R,180,ARG,19.1293634497,3-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,509,40,490,43
-2000-M-FU-ARG-04A-2000,Argentina F4,Clay,32,S,20000508,14,103976,,Q,Juan Pablo Brzezicki,R,178,ARG,18.0725530459,103841,,Q,Julio Peralta,R,,CHI,18.6611909651,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1052,4,1312,1
+2000-M-FU-ARG-04A-2000,Argentina F4,Clay,32,S,20000508,14,103976,,Q,Juan Pablo Brzezicki,R,178,ARG,18.0725530459,103841,,Q,Julio Peralta,R,188,CHI,18.6611909651,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1052,4,1312,1
 2000-M-FU-ARG-04A-2000,Argentina F4,Clay,32,S,20000508,15,102920,,,Diego Hipperdinger,R,,ESP,23.3045859001,103701,,,Diego Hartfield,R,185,ARG,19.266255989,1-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,499,42,1052,4
 2000-M-FU-ARG-04A-2000,Argentina F4,Clay,32,S,20000508,16,102930,2,,Rodrigo Cerdera,R,,ARG,23.2553045859,103310,,Q,Rodrigo Pena,R,,ARG,21.3059548255,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,254,126,1036,5
 2000-M-FU-ARG-04A-2000,Argentina F4,Clay,32,S,20000508,17,104076,1,,Jose Acasuso,R,190,ARG,17.5496235455,103195,,,Leandro Rosa,R,,BRA,21.9958932238,7-6(4) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,248,132,692,17
@@ -4855,7 +4855,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-SA-IND-01A-2000d,India 4,Hard,32,S,20000605,31,102276,6,,Sandeep Kirtane,R,,IND,26.6064339493,103821,1,,Danai Udomchoke,R,173,THA,18.81724846,6-0 6-2,3,F,,,,,,,,,,,,,,,,,,,,779,12,306,100
 2000-M-FU-IRL-02A-2000,Ireland F2,Carpet,32,S,20000605,1,101651,,WC,Owen Casey,R,,IRL,30.6201232033,103333,1,,Ivo Karlovic,R,208,CRO,21.2676249144,6-1 6-7(5) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,739,14,318,93
 2000-M-FU-IRL-02A-2000,Ireland F2,Carpet,32,S,20000605,2,102337,,,Leigh Holland,R,,AUS,26.2943189596,101996,,Q,David Mullins,R,,IRL,28.476386037,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,553,33,,
-2000-M-FU-IRL-02A-2000,Ireland F2,Carpet,32,S,20000605,3,103254,,,Yves Allegro,R,183,SUI,21.7823408624,103730,,Q,Jonathan Marray,R,,GBR,19.2388774812,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,421,61,,
+2000-M-FU-IRL-02A-2000,Ireland F2,Carpet,32,S,20000605,3,103254,,,Yves Allegro,R,183,SUI,21.7823408624,103730,,Q,Jonathan Marray,R,183,GBR,19.2388774812,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,421,61,,
 2000-M-FU-IRL-02A-2000,Ireland F2,Carpet,32,S,20000605,4,108603,8,,Helge Koll Frafjord,U,,NOR,25.015742642,103128,,,Damien Roberts,R,,RSA,22.3572895277,6-3 7-6(8),3,R32,,,,,,,,,,,,,,,,,,,,,,496,44
 2000-M-FU-IRL-02A-2000,Ireland F2,Carpet,32,S,20000605,5,103208,4,,Jean Michel Pequery,R,,FRA,22.0177960301,103339,,,Wesley Whitehouse,L,190,RSA,21.2320328542,6-3 1-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,351,78,547,34
 2000-M-FU-IRL-02A-2000,Ireland F2,Carpet,32,S,20000605,6,117454,,Q,Robert Nita,R,,ROU,21.0787132101,111603,,Q,Richard Brooks,L,,GBR,18.984257358,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1156,3,1238,2
@@ -5223,7 +5223,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-CAN-01A-2000,Canada F1,Hard,32,S,20000612,12,103363,4,,Diego Ayala,R,175,USA,21.1225188227,107192,,Q,Henry Choi,U,,CAN,19.4058863792,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,592,25,,
 2000-M-FU-CAN-01A-2000,Canada F1,Hard,32,S,20000612,13,102188,7,,David Critchley,R,,CAN,27.2306639288,103958,,,Philip Gubenco,L,188,CAN,18.2477754962,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,962,6,1178,2
 2000-M-FU-CAN-01A-2000,Canada F1,Hard,32,S,20000612,14,103214,,Q,Marc Olivier Baron,R,,FRA,22.0205338809,209468,,,Julian Edwards,U,,GBR,19.3264887064,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,1313,1
-2000-M-FU-CAN-01A-2000,Canada F1,Hard,32,S,20000612,15,103253,,WC,Andrew Nisker,U,,CAN,21.8097193703,102879,,Q,Jaime Fillol,R,,CHI,23.6057494867,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2000-M-FU-CAN-01A-2000,Canada F1,Hard,32,S,20000612,15,103253,,WC,Andrew Nisker,U,,CAN,21.8097193703,102879,,Q,Jaime Fillol,R,180,CHI,23.6057494867,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2000-M-FU-CAN-01A-2000,Canada F1,Hard,32,S,20000612,16,103286,2,,Yohny Romero,R,,VEN,21.5331964408,102677,,,Kiantki Thomas,R,,USA,24.6242299795,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,576,27,1180,2
 2000-M-FU-CAN-01A-2000,Canada F1,Hard,32,S,20000612,17,103225,1,,Simon Larose,R,190,CAN,21.9575633128,102766,,,Marcus Fluitt,R,,USA,24.1861738535,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,490,42,1313,1
 2000-M-FU-CAN-01A-2000,Canada F1,Hard,32,S,20000612,18,103471,8,,Tero Vilen,R,,FIN,20.5722108145,117457,,Q,Jerry Turek,U,,CAN,25.196440794,4-6 7-5 6-0,3,R16,,,,,,,,,,,,,,,,,,,,1002,5,,
@@ -6935,7 +6935,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-ARG-08A-2000,Argentina F8,Clay,32,S,20000731,4,103976,8,,Juan Pablo Brzezicki,R,178,ARG,18.302532512,103846,,,Mariano Campos,R,,ARG,18.8774811773,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,670,18,1077,3
 2000-M-FU-ARG-08A-2000,Argentina F8,Clay,32,S,20000731,5,103095,4,,Patricio Rudi,R,,ARG,22.6228610541,103587,,Q,Andres Dellatorre,R,190,ARG,20.0602327173,1-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,474,44,926,6
 2000-M-FU-ARG-08A-2000,Argentina F8,Clay,32,S,20000731,6,104148,,,Lionel Noviski,R,,ARG,17.3552361396,118217,,WC,Andres Giobellina,U,,ARG,18.0506502396,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1077,3,,
-2000-M-FU-ARG-08A-2000,Argentina F8,Clay,32,S,20000731,7,103090,,Q,Diego Bracco,R,,ARG,22.6447638604,103841,,Q,Julio Peralta,R,,CHI,18.8911704312,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1301,1,1301,1
+2000-M-FU-ARG-08A-2000,Argentina F8,Clay,32,S,20000731,7,103090,,Q,Diego Bracco,R,,ARG,22.6447638604,103841,,Q,Julio Peralta,R,188,CHI,18.8911704312,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1301,1,1301,1
 2000-M-FU-ARG-08A-2000,Argentina F8,Clay,32,S,20000731,8,103546,5,,Patricio Arquez,R,,ARG,20.3011635866,104064,,Q,Marcos Digliodo,R,,ARG,17.8507871321,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,526,34,1301,1
 2000-M-FU-ARG-08A-2000,Argentina F8,Clay,32,S,20000731,9,102611,6,,Rafael Serpa Guinazu,R,,ARG,25.0951403149,104123,,WC,Luciano Vitullo,R,,ARG,17.4893908282,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,562,29,,
 2000-M-FU-ARG-08A-2000,Argentina F8,Clay,32,S,20000731,10,103675,,,Diego Junqueira,L,178,ARG,19.5893223819,103701,,,Diego Hartfield,R,185,ARG,19.4962354552,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,764,12,800,10
@@ -7275,7 +7275,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-GER-11A-2000,Germany F11,Clay,32,S,20000807,3,103278,,,Michel Deville,R,,BEL,21.7768651608,103137,,,Frank Pokorny,U,,GER,22.5051334702,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,550,30,553,30
 2000-M-FU-GER-11A-2000,Germany F11,Clay,32,S,20000807,4,104196,,Q,Carlos Cuadrado,R,180,ESP,17.1854893908,103580,8,,Alexander Peya,R,183,AUT,20.1122518823,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,637,21,479,43
 2000-M-FU-GER-11A-2000,Germany F11,Clay,32,S,20000807,5,102983,3,,Henrik Andersson,R,,SWE,23.266255989,103125,,Q,Joan Jimenez Guerra,R,,AND,22.5352498289,6-2 1-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,385,66,852,9
-2000-M-FU-GER-11A-2000,Germany F11,Clay,32,S,20000807,6,103348,,,Timo Fleischfresser,U,,GER,21.3771389459,104465,,WC,Martin Emmrich,L,,GER,15.6386036961,6-0 7-5,3,R32,,,,,,,,,,,,,,,,,,,,485,42,,
+2000-M-FU-GER-11A-2000,Germany F11,Clay,32,S,20000807,6,103348,,,Timo Fleischfresser,U,,GER,21.3771389459,104465,,WC,Martin Emmrich,L,183,GER,15.6386036961,6-0 7-5,3,R32,,,,,,,,,,,,,,,,,,,,485,42,,
 2000-M-FU-GER-11A-2000,Germany F11,Clay,32,S,20000807,7,103592,,,Jerome Haehnel,R,185,FRA,20.0657084189,103731,,Q,Benedikt Stronk,U,,GER,19.40862423,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,600,25,,
 2000-M-FU-GER-11A-2000,Germany F11,Clay,32,S,20000807,8,103752,,SE,Simon Greul,R,185,GER,19.318275154,102729,6,,Vladimir Platenik,R,,SVK,24.4681724846,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1219,2,459,47
 2000-M-FU-GER-11A-2000,Germany F11,Clay,32,S,20000807,9,102858,,LL,Valentino Pest,R,175,GER,23.9014373717,102376,5,,Radovan Svetlik,R,,CZE,26.3216974675,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1145,3,433,55
@@ -8152,7 +8152,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-SA-YUG-01A-2000a,Yugoslavia 1,Clay,32,S,20000821,5,102702,3,,Relja Fiser Dulic,R,,SRB,24.6406570842,104232,,Q,Dusan Mihailovic,U,,SRB,16.9938398357,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,560,29,,
 2000-M-SA-YUG-01A-2000a,Yugoslavia 1,Clay,32,S,20000821,6,103374,,,Zoltan Boroczky,R,,HUN,21.2676249144,103884,,,Riccardo Capannelli,R,,ITA,18.7214236824,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,761,13,939,6
 2000-M-SA-YUG-01A-2000a,Yugoslavia 1,Clay,32,S,20000821,7,104386,,,Janko Tipsarevic,R,180,SRB,16.1642710472,118513,,,Aleksander Manojlovic,R,,SRB,18.5735797399,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2000-M-SA-YUG-01A-2000a,Yugoslavia 1,Clay,32,S,20000821,8,103839,5,,Marton Ott,R,,HUN,18.9514031485,104222,,Q,Nikola Ciric,L,,SRB,17.054072553,6-4 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,737,14,,
+2000-M-SA-YUG-01A-2000a,Yugoslavia 1,Clay,32,S,20000821,8,103839,5,,Marton Ott,R,,HUN,18.9514031485,104222,,Q,Nikola Ciric,L,201,SRB,17.054072553,6-4 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,737,14,,
 2000-M-SA-YUG-01A-2000a,Yugoslavia 1,Clay,32,S,20000821,9,102935,,,Rodrigo Ribeiro,R,,BRA,23.5290896646,104081,6,,Boris Pashanski,R,180,SRB,17.7987679671,4-6 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,570,28,,
 2000-M-SA-YUG-01A-2000a,Yugoslavia 1,Clay,32,S,20000821,10,103283,,,Daniel Dios,R,,ESP,21.749486653,103699,,,Fred Hemmes,R,183,NED,19.5619438741,4-6 6-3 2-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,751,13,813,10
 2000-M-SA-YUG-01A-2000a,Yugoslavia 1,Clay,32,S,20000821,11,104041,,Q,Sergi Arumi,R,,ESP,18.0670773443,123654,,Q,Aleksander Trifunovic,U,,SRB,18.9240246407,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -8199,7 +8199,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-SA-YUG-01A-2000b,Yugoslavia 2,Clay,24,S,20000821,21,102942,3,,Vladimir Pavicevic,R,,SRB,23.4825462012,103548,7,,Eduardo Bergmann,R,,BRA,20.3449691992,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,888,8
 2000-M-SA-YUG-01A-2000b,Yugoslavia 2,Clay,24,S,20000821,22,102702,2,,Relja Fiser Dulic,R,,SRB,24.6406570842,103934,4,,Aleksander Slovic,L,,SRB,18.5352498289,6-2 6-0,3,SF,,,,,,,,,,,,,,,,,,,,560,29,904,7
 2000-M-SA-YUG-01A-2000b,Yugoslavia 2,Clay,24,S,20000821,23,102942,3,,Vladimir Pavicevic,R,,SRB,23.4825462012,102702,2,,Relja Fiser Dulic,R,,SRB,24.6406570842,6-1 7-5,3,F,,,,,,,,,,,,,,,,,,,,,,560,29
-2000-M-SA-YUG-01A-2000c,Yugoslavia 3,Clay,32,S,20000821,1,102729,1,,Vladimir Platenik,R,,SVK,24.5065023956,104222,,Q,Nikola Ciric,L,,SRB,17.054072553,6-3 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,513,36,,
+2000-M-SA-YUG-01A-2000c,Yugoslavia 3,Clay,32,S,20000821,1,102729,1,,Vladimir Platenik,R,,SVK,24.5065023956,104222,,Q,Nikola Ciric,L,201,SRB,17.054072553,6-3 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,513,36,,
 2000-M-SA-YUG-01A-2000c,Yugoslavia 3,Clay,32,S,20000821,2,102942,,SE,Vladimir Pavicevic,R,,SRB,23.4825462012,104041,,Q,Sergi Arumi,R,,ESP,18.0670773443,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2000-M-SA-YUG-01A-2000c,Yugoslavia 3,Clay,32,S,20000821,3,103983,,Q,Aleksandar Vlaski,L,,SRB,18.3353867214,103671,,,Or Dekel,R,,ISR,19.6687200548,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,957,6
 2000-M-SA-YUG-01A-2000c,Yugoslavia 3,Clay,32,S,20000821,4,104386,,WC,Janko Tipsarevic,R,180,SRB,16.1642710472,103374,8,,Zoltan Boroczky,R,,HUN,21.2676249144,5-7 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,761,13
@@ -8266,7 +8266,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-DOM-01A-2000,Dominican Republic F1,Clay,32,S,20000828,3,103638,,WC,Jhonson Garcia,R,,DOM,19.9069130732,103610,,,Mirko Pehar,R,,USA,20.0629705681,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1150,3
 2000-M-FU-DOM-01A-2000,Dominican Republic F1,Clay,32,S,20000828,4,103342,8,,Miha Gregorc,R,,SLO,21.4565366188,102407,,,Rainer Gunther,R,,GER,26.2176591376,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,572,28,1120,3
 2000-M-FU-DOM-01A-2000,Dominican Republic F1,Clay,32,S,20000828,5,117942,,LL,Brian Cummings,U,,USA,23.7837097878,103001,,,Gavin Sontag,U,,USA,23.2169746749,6-4 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,871,8
-2000-M-FU-DOM-01A-2000,Dominican Republic F1,Clay,32,S,20000828,6,102879,,LL,Jaime Fillol,R,,CHI,23.8165639973,102496,,Q,Scott Willinsky,R,,JAM,25.697467488,6-4 7-6(0),3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2000-M-FU-DOM-01A-2000,Dominican Republic F1,Clay,32,S,20000828,6,102879,,LL,Jaime Fillol,R,180,CHI,23.8165639973,102496,,Q,Scott Willinsky,R,,JAM,25.697467488,6-4 7-6(0),3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2000-M-FU-DOM-01A-2000,Dominican Republic F1,Clay,32,S,20000828,7,103721,,Q,Ezequiel Nastari,R,,VEN,19.5017111567,118240,,LL,Iverson Barros,R,,BRA,18.12183436,6-0 2-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,1150,3,,
 2000-M-FU-DOM-01A-2000,Dominican Republic F1,Clay,32,S,20000828,8,103286,5,,Yohny Romero,R,,VEN,21.7440109514,103607,,WC,Victor Estrella,R,173,DOM,20.0711841205,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,525,34,,
 2000-M-FU-DOM-01A-2000,Dominican Republic F1,Clay,32,S,20000828,9,103746,6,,Miguel Gallardo Valles,R,,MEX,19.3894592745,103603,,,Steven Bijl,R,,NED,20.0793976728,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,669,18,850,8
@@ -8279,14 +8279,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-DOM-01A-2000,Dominican Republic F1,Clay,32,S,20000828,16,102973,,,Ruben De Kleijn,R,,NED,23.3593429158,111699,,LL,Juan Berrido Fernandez,U,,DOM,17.5331964408,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1075,3,,
 2000-M-FU-DOM-01A-2000,Dominican Republic F1,Clay,32,S,20000828,17,103840,,LL,Juan Pablo Di Cesare,R,,ARG,18.9678302533,117813,,Q,Dimitrio Martinez Castro,R,,MEX,17.9000684463,5-7 6-0 6-0,3,R16,,,,,,,,,,,,,,,,,,,,1304,1,,
 2000-M-FU-DOM-01A-2000,Dominican Republic F1,Clay,32,S,20000828,18,103342,8,,Miha Gregorc,R,,SLO,21.4565366188,103638,,WC,Jhonson Garcia,R,,DOM,19.9069130732,5-7 6-4 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,572,28,,
-2000-M-FU-DOM-01A-2000,Dominican Republic F1,Clay,32,S,20000828,19,102879,,LL,Jaime Fillol,R,,CHI,23.8165639973,117942,,LL,Brian Cummings,U,,USA,23.7837097878,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+2000-M-FU-DOM-01A-2000,Dominican Republic F1,Clay,32,S,20000828,19,102879,,LL,Jaime Fillol,R,180,CHI,23.8165639973,117942,,LL,Brian Cummings,U,,USA,23.7837097878,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2000-M-FU-DOM-01A-2000,Dominican Republic F1,Clay,32,S,20000828,20,103286,5,,Yohny Romero,R,,VEN,21.7440109514,103721,,Q,Ezequiel Nastari,R,,VEN,19.5017111567,6-2 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,525,34,1150,3
 2000-M-FU-DOM-01A-2000,Dominican Republic F1,Clay,32,S,20000828,21,102214,,,Oscar Ortiz,L,183,MEX,27.3045859001,103746,6,,Miguel Gallardo Valles,R,,MEX,19.3894592745,7-5 6-0,3,R16,,,,,,,,,,,,,,,,,,,,810,10,669,18
 2000-M-FU-DOM-01A-2000,Dominican Republic F1,Clay,32,S,20000828,22,102763,4,,Benjamin Cassaigne,L,185,FRA,24.4052019165,103267,,,Tiago Galvao,U,,BRA,21.9137577002,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,424,55,1075,3
 2000-M-FU-DOM-01A-2000,Dominican Republic F1,Clay,32,S,20000828,23,103358,,,Nicolas Todero,R,183,ARG,21.3716632444,103263,7,,Justin Layne,R,,GBR,21.9411362081,6-2 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,768,12,533,33
 2000-M-FU-DOM-01A-2000,Dominican Republic F1,Clay,32,S,20000828,24,103718,,,David Martin,L,185,USA,19.5126625599,102973,,,Ruben De Kleijn,R,,NED,23.3593429158,4-6 7-6(3) 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,1218,2,1075,3
 2000-M-FU-DOM-01A-2000,Dominican Republic F1,Clay,32,S,20000828,25,103840,,LL,Juan Pablo Di Cesare,R,,ARG,18.9678302533,103342,8,,Miha Gregorc,R,,SLO,21.4565366188,7-6(6) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,1304,1,572,28
-2000-M-FU-DOM-01A-2000,Dominican Republic F1,Clay,32,S,20000828,26,103286,5,,Yohny Romero,R,,VEN,21.7440109514,102879,,LL,Jaime Fillol,R,,CHI,23.8165639973,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,525,34,,
+2000-M-FU-DOM-01A-2000,Dominican Republic F1,Clay,32,S,20000828,26,103286,5,,Yohny Romero,R,,VEN,21.7440109514,102879,,LL,Jaime Fillol,R,180,CHI,23.8165639973,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,525,34,,
 2000-M-FU-DOM-01A-2000,Dominican Republic F1,Clay,32,S,20000828,27,102763,4,,Benjamin Cassaigne,L,185,FRA,24.4052019165,102214,,,Oscar Ortiz,L,183,MEX,27.3045859001,6-0 7-6(2),3,QF,,,,,,,,,,,,,,,,,,,,424,55,810,10
 2000-M-FU-DOM-01A-2000,Dominican Republic F1,Clay,32,S,20000828,28,103358,,,Nicolas Todero,R,183,ARG,21.3716632444,103718,,,David Martin,L,185,USA,19.5126625599,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,768,12,1218,2
 2000-M-FU-DOM-01A-2000,Dominican Republic F1,Clay,32,S,20000828,29,103286,5,,Yohny Romero,R,,VEN,21.7440109514,103840,,LL,Juan Pablo Di Cesare,R,,ARG,18.9678302533,6-1 3-6 6-1,3,SF,,,,,,,,,,,,,,,,,,,,525,34,1304,1
@@ -8328,12 +8328,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-PER-01A-2000,Peru F1,Clay,32,S,20000828,3,103552,,Q,Carlos Gonzalez Leiva,R,,CHI,20.3449691992,103998,,WC,Mario Monroy,U,,PER,18.2696783025,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1173,2,,
 2000-M-FU-PER-01A-2000,Peru F1,Clay,32,S,20000828,4,102985,8,,Gustavo Marcaccio,R,,ARG,23.3210130048,103450,,,Federico Cardinali,R,,ARG,20.9062286105,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,554,30,790,11
 2000-M-FU-PER-01A-2000,Peru F1,Clay,32,S,20000828,5,102611,4,,Rafael Serpa Guinazu,R,,ARG,25.1718001369,103493,,LL,Eduardo Bohrer,R,,BRA,20.6132785763,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,476,45,1120,3
-2000-M-FU-PER-01A-2000,Peru F1,Clay,32,S,20000828,6,103841,,Q,Julio Peralta,R,,CHI,18.9678302533,103943,,Q,Vinicius Bortolatto,R,,BRA,18.5133470226,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1304,1,1075,3
+2000-M-FU-PER-01A-2000,Peru F1,Clay,32,S,20000828,6,103841,,Q,Julio Peralta,R,188,CHI,18.9678302533,103943,,Q,Vinicius Bortolatto,R,,BRA,18.5133470226,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1304,1,1075,3
 2000-M-FU-PER-01A-2000,Peru F1,Clay,32,S,20000828,7,103532,,,Ignacio Gonzalez King,R,175,ARG,20.4325804244,117854,,Q,Diego Sist,U,,PAR,18.7898699521,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,752,13,,
 2000-M-FU-PER-01A-2000,Peru F1,Clay,32,S,20000828,8,103736,,WC,Diego Acuna,U,,PER,19.4414784394,103546,5,,Patricio Arquez,R,,ARG,20.3778234086,7-6(4) 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1067,4,471,46
 2000-M-FU-PER-01A-2000,Peru F1,Clay,32,S,20000828,9,103395,6,,Julio Silva,R,173,BRA,21.1608487337,101495,,,Miguel Tobon,R,185,COL,32.1834360027,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,545,32,701,16
 2000-M-FU-PER-01A-2000,Peru F1,Clay,32,S,20000828,10,104122,,Q,Carlos Berlocq,R,183,ARG,17.5660506502,108585,,WC,Americo Venero Montes,U,,PER,28.514715948,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,997,5,,
-2000-M-FU-PER-01A-2000,Peru F1,Clay,32,S,20000828,11,103572,,LL,Luis Hormazabal,R,,CHI,20.2299794661,104477,,WC,Jorge Aguilar,R,,CHI,15.6358658453,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1150,3,1304,1
+2000-M-FU-PER-01A-2000,Peru F1,Clay,32,S,20000828,11,103572,,LL,Luis Hormazabal,R,,CHI,20.2299794661,104477,,WC,Jorge Aguilar,R,178,CHI,15.6358658453,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1150,3,1304,1
 2000-M-FU-PER-01A-2000,Peru F1,Clay,32,S,20000828,12,103775,,Q,Felipe Parada,R,175,CHI,19.2854209446,103095,3,,Patricio Rudi,R,,ARG,22.6995208761,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,970,5,495,40
 2000-M-FU-PER-01A-2000,Peru F1,Clay,32,S,20000828,13,103976,7,,Juan Pablo Brzezicki,R,178,ARG,18.379192334,103883,,Q,Lucas Engel,U,,BRA,18.7405886379,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,563,29,1304,1
 2000-M-FU-PER-01A-2000,Peru F1,Clay,32,S,20000828,14,103675,,,Diego Junqueira,L,178,ARG,19.665982204,104008,,,Carlos Avellan,R,,ECU,18.2450376454,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,840,9,889,7
@@ -8341,19 +8341,19 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-PER-01A-2000,Peru F1,Clay,32,S,20000828,16,103506,2,,Martin Vassallo Arguello,R,183,ARG,20.5475701574,103946,,,Bruno Soares,R,180,BRA,18.4996577687,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,440,52,813,10
 2000-M-FU-PER-01A-2000,Peru F1,Clay,32,S,20000828,17,103405,1,,Rodolfo Rake,R,,PER,21.1279945243,103525,,,Ivan Miranda,R,175,PER,20.4736481862,6-2 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,400,63,663,19
 2000-M-FU-PER-01A-2000,Peru F1,Clay,32,S,20000828,18,102985,8,,Gustavo Marcaccio,R,,ARG,23.3210130048,103552,,Q,Carlos Gonzalez Leiva,R,,CHI,20.3449691992,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,554,30,1173,2
-2000-M-FU-PER-01A-2000,Peru F1,Clay,32,S,20000828,19,103841,,Q,Julio Peralta,R,,CHI,18.9678302533,102611,4,,Rafael Serpa Guinazu,R,,ARG,25.1718001369,6-4 1-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1304,1,476,45
+2000-M-FU-PER-01A-2000,Peru F1,Clay,32,S,20000828,19,103841,,Q,Julio Peralta,R,188,CHI,18.9678302533,102611,4,,Rafael Serpa Guinazu,R,,ARG,25.1718001369,6-4 1-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1304,1,476,45
 2000-M-FU-PER-01A-2000,Peru F1,Clay,32,S,20000828,20,103532,,,Ignacio Gonzalez King,R,175,ARG,20.4325804244,103736,,WC,Diego Acuna,U,,PER,19.4414784394,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,752,13,1067,4
 2000-M-FU-PER-01A-2000,Peru F1,Clay,32,S,20000828,21,103395,6,,Julio Silva,R,173,BRA,21.1608487337,104122,,Q,Carlos Berlocq,R,183,ARG,17.5660506502,3-6 6-3 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,545,32,997,5
 2000-M-FU-PER-01A-2000,Peru F1,Clay,32,S,20000828,22,103775,,Q,Felipe Parada,R,175,CHI,19.2854209446,103572,,LL,Luis Hormazabal,R,,CHI,20.2299794661,6-7(1) 6-4 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,970,5,1150,3
 2000-M-FU-PER-01A-2000,Peru F1,Clay,32,S,20000828,23,103976,7,,Juan Pablo Brzezicki,R,178,ARG,18.379192334,103675,,,Diego Junqueira,L,178,ARG,19.665982204,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,563,29,840,9
 2000-M-FU-PER-01A-2000,Peru F1,Clay,32,S,20000828,24,102962,,,Miguel Miranda,R,,CHI,23.4442162902,103506,2,,Martin Vassallo Arguello,R,183,ARG,20.5475701574,4-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,719,15,440,52
 2000-M-FU-PER-01A-2000,Peru F1,Clay,32,S,20000828,25,103405,1,,Rodolfo Rake,R,,PER,21.1279945243,102985,8,,Gustavo Marcaccio,R,,ARG,23.3210130048,3-6 6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,400,63,554,30
-2000-M-FU-PER-01A-2000,Peru F1,Clay,32,S,20000828,26,103841,,Q,Julio Peralta,R,,CHI,18.9678302533,103532,,,Ignacio Gonzalez King,R,175,ARG,20.4325804244,7-6(8) 4-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,1304,1,752,13
+2000-M-FU-PER-01A-2000,Peru F1,Clay,32,S,20000828,26,103841,,Q,Julio Peralta,R,188,CHI,18.9678302533,103532,,,Ignacio Gonzalez King,R,175,ARG,20.4325804244,7-6(8) 4-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,1304,1,752,13
 2000-M-FU-PER-01A-2000,Peru F1,Clay,32,S,20000828,27,103395,6,,Julio Silva,R,173,BRA,21.1608487337,103775,,Q,Felipe Parada,R,175,CHI,19.2854209446,4-6 6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,545,32,970,5
 2000-M-FU-PER-01A-2000,Peru F1,Clay,32,S,20000828,28,102962,,,Miguel Miranda,R,,CHI,23.4442162902,103976,7,,Juan Pablo Brzezicki,R,178,ARG,18.379192334,6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,719,15,563,29
-2000-M-FU-PER-01A-2000,Peru F1,Clay,32,S,20000828,29,103841,,Q,Julio Peralta,R,,CHI,18.9678302533,103405,1,,Rodolfo Rake,R,,PER,21.1279945243,6-1 6-4,3,SF,,,,,,,,,,,,,,,,,,,,1304,1,400,63
+2000-M-FU-PER-01A-2000,Peru F1,Clay,32,S,20000828,29,103841,,Q,Julio Peralta,R,188,CHI,18.9678302533,103405,1,,Rodolfo Rake,R,,PER,21.1279945243,6-1 6-4,3,SF,,,,,,,,,,,,,,,,,,,,1304,1,400,63
 2000-M-FU-PER-01A-2000,Peru F1,Clay,32,S,20000828,30,103395,6,,Julio Silva,R,173,BRA,21.1608487337,102962,,,Miguel Miranda,R,,CHI,23.4442162902,7-5 6-2,3,SF,,,,,,,,,,,,,,,,,,,,545,32,719,15
-2000-M-FU-PER-01A-2000,Peru F1,Clay,32,S,20000828,31,103395,6,,Julio Silva,R,173,BRA,21.1608487337,103841,,Q,Julio Peralta,R,,CHI,18.9678302533,7-6(4) 3-6 6-3,3,F,,,,,,,,,,,,,,,,,,,,545,32,1304,1
+2000-M-FU-PER-01A-2000,Peru F1,Clay,32,S,20000828,31,103395,6,,Julio Silva,R,173,BRA,21.1608487337,103841,,Q,Julio Peralta,R,188,CHI,18.9678302533,7-6(4) 3-6 6-3,3,F,,,,,,,,,,,,,,,,,,,,545,32,1304,1
 2000-M-FU-POL-04A-2000,Poland F4,Clay,32,S,20000828,1,103287,1,,Krystian Pfeiffer,U,,POL,21.735797399,102662,,Q,Michal Piekos,R,,POL,24.9171800137,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,453,49,,
 2000-M-FU-POL-04A-2000,Poland F4,Clay,32,S,20000828,2,103515,,Q,Filip Aniola,R,,POL,20.5065023956,102566,,,Marian Leysek,R,,SVK,25.4127310062,6-4 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,1304,1,806,10
 2000-M-FU-POL-04A-2000,Poland F4,Clay,32,S,20000828,3,103126,,,Christian Grunes,L,,GER,22.5900068446,103481,,,Hans Grobecker,R,,SWE,20.6981519507,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,741,14,800,10
@@ -8637,7 +8637,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-PER-02A-2000,Peru F2,Clay,32,S,20000904,10,102985,,,Gustavo Marcaccio,R,,ARG,23.3401779603,103525,,,Ivan Miranda,R,175,PER,20.4928131417,6-4 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,554,30,663,19
 2000-M-FU-PER-02A-2000,Peru F2,Clay,32,S,20000904,11,103493,,Q,Eduardo Bohrer,R,,BRA,20.6324435318,104060,,Q,Henrique Mello,U,,BRA,17.9822039699,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1120,3,,
 2000-M-FU-PER-02A-2000,Peru F2,Clay,32,S,20000904,12,103121,4,,Matias Oneille,R,,ARG,22.6201232033,103736,,WC,Diego Acuna,U,,PER,19.4606433949,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,450,50,1067,4
-2000-M-FU-PER-02A-2000,Peru F2,Clay,32,S,20000904,13,103395,8,,Julio Silva,R,173,BRA,21.1800136893,103841,,SE,Julio Peralta,R,,CHI,18.9869952088,6-7(4) 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,545,32,1304,1
+2000-M-FU-PER-02A-2000,Peru F2,Clay,32,S,20000904,13,103395,8,,Julio Silva,R,173,BRA,21.1800136893,103841,,SE,Julio Peralta,R,188,CHI,18.9869952088,6-7(4) 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,545,32,1304,1
 2000-M-FU-PER-02A-2000,Peru F2,Clay,32,S,20000904,14,103478,,,Diego Veronelli,R,193,ARG,20.7501711157,103946,,,Bruno Soares,R,180,BRA,18.5188227242,7-6(6) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,590,26,813,10
 2000-M-FU-PER-02A-2000,Peru F2,Clay,32,S,20000904,15,103999,,Q,Thiago Alves,R,178,BRA,18.288843258,104503,,WC,Guillermo Hormazabal,R,,CHI,15.5400410678,6-7(8) 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,877,8,,
 2000-M-FU-PER-02A-2000,Peru F2,Clay,32,S,20000904,16,103506,2,,Martin Vassallo Arguello,R,183,ARG,20.5667351129,101495,,,Miguel Tobon,R,185,COL,32.2026009582,3-6 6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,440,52,701,16
@@ -8937,7 +8937,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-JAM-01A-2000,Jamaica F1,Hard,32,S,20000911,8,103286,6,,Yohny Romero,R,,VEN,21.7823408624,102924,,LL,Martin Backhaus,U,,GER,23.627652293,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,485,42,,
 2000-M-FU-JAM-01A-2000,Jamaica F1,Hard,32,S,20000911,9,109024,,Q,Chris Martin,U,,USA,18.6803559206,118321,,LL,Art Dyson,U,,CAN,32.0054757016,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2000-M-FU-JAM-01A-2000,Jamaica F1,Hard,32,S,20000911,10,104210,,WC,Ryan Russell,L,,JAM,17.1854893908,103828,,LL,Jean Julien Rojer,R,183,AHO,19.0472279261,7-6(3) 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1297,1
-2000-M-FU-JAM-01A-2000,Jamaica F1,Hard,32,S,20000911,11,102879,,Q,Jaime Fillol,R,,CHI,23.8548939083,118322,,Q,Dane Vernon,U,,JAM,17.5003422313,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1162,2,,
+2000-M-FU-JAM-01A-2000,Jamaica F1,Hard,32,S,20000911,11,102879,,Q,Jaime Fillol,R,180,CHI,23.8548939083,118322,,Q,Dane Vernon,U,,JAM,17.5003422313,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1162,2,,
 2000-M-FU-JAM-01A-2000,Jamaica F1,Hard,32,S,20000911,12,102763,4,,Benjamin Cassaigne,L,185,FRA,24.4435318275,103603,,,Steven Bijl,R,,NED,20.1177275838,5-7 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,388,64,815,9
 2000-M-FU-JAM-01A-2000,Jamaica F1,Hard,32,S,20000911,13,103342,8,,Miha Gregorc,R,,SLO,21.4948665298,108858,,WC,Jermaine Smith,U,,JAM,21.6125941136,6-1 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,554,30,,
 2000-M-FU-JAM-01A-2000,Jamaica F1,Hard,32,S,20000911,14,103721,,LL,Ezequiel Nastari,R,,VEN,19.5400410678,118242,,Q,Joshua Burman,U,,USA,17.7604380561,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1063,4,,
@@ -8948,12 +8948,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-JAM-01A-2000,Jamaica F1,Hard,32,S,20000911,19,103746,,,Miguel Gallardo Valles,R,,MEX,19.4277891855,103212,,Q,Assaf Drori,U,,ISR,22.2751540041,4-6 6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,655,19,,
 2000-M-FU-JAM-01A-2000,Jamaica F1,Hard,32,S,20000911,20,103358,,,Nicolas Todero,R,183,ARG,21.4099931554,103286,6,,Yohny Romero,R,,VEN,21.7823408624,4-6 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,698,16,485,42
 2000-M-FU-JAM-01A-2000,Jamaica F1,Hard,32,S,20000911,21,104210,,WC,Ryan Russell,L,,JAM,17.1854893908,109024,,Q,Chris Martin,U,,USA,18.6803559206,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,,
-2000-M-FU-JAM-01A-2000,Jamaica F1,Hard,32,S,20000911,22,102879,,Q,Jaime Fillol,R,,CHI,23.8548939083,102763,4,,Benjamin Cassaigne,L,185,FRA,24.4435318275,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1162,2,388,64
+2000-M-FU-JAM-01A-2000,Jamaica F1,Hard,32,S,20000911,22,102879,,Q,Jaime Fillol,R,180,CHI,23.8548939083,102763,4,,Benjamin Cassaigne,L,185,FRA,24.4435318275,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1162,2,388,64
 2000-M-FU-JAM-01A-2000,Jamaica F1,Hard,32,S,20000911,23,103721,,LL,Ezequiel Nastari,R,,VEN,19.5400410678,103342,8,,Miha Gregorc,R,,SLO,21.4948665298,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1063,4,554,30
 2000-M-FU-JAM-01A-2000,Jamaica F1,Hard,32,S,20000911,24,108652,,LL,Shane Stone,U,,TRI,23.1923340178,109691,,LL,Evan Austin,R,,USA,17.9767282683,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1297,1,,
 2000-M-FU-JAM-01A-2000,Jamaica F1,Hard,32,S,20000911,25,103001,,,Gavin Sontag,U,,USA,23.2553045859,103610,,Q,Mirko Pehar,R,,USA,20.1013004791,6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,860,8,1209,2
 2000-M-FU-JAM-01A-2000,Jamaica F1,Hard,32,S,20000911,26,103358,,,Nicolas Todero,R,183,ARG,21.4099931554,103746,,,Miguel Gallardo Valles,R,,MEX,19.4277891855,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,698,16,655,19
-2000-M-FU-JAM-01A-2000,Jamaica F1,Hard,32,S,20000911,27,104210,,WC,Ryan Russell,L,,JAM,17.1854893908,102879,,Q,Jaime Fillol,R,,CHI,23.8548939083,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,,,1162,2
+2000-M-FU-JAM-01A-2000,Jamaica F1,Hard,32,S,20000911,27,104210,,WC,Ryan Russell,L,,JAM,17.1854893908,102879,,Q,Jaime Fillol,R,180,CHI,23.8548939083,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,,,1162,2
 2000-M-FU-JAM-01A-2000,Jamaica F1,Hard,32,S,20000911,28,103721,,LL,Ezequiel Nastari,R,,VEN,19.5400410678,108652,,LL,Shane Stone,U,,TRI,23.1923340178,6-0 6-1,3,QF,,,,,,,,,,,,,,,,,,,,1063,4,1297,1
 2000-M-FU-JAM-01A-2000,Jamaica F1,Hard,32,S,20000911,29,103358,,,Nicolas Todero,R,183,ARG,21.4099931554,103001,,,Gavin Sontag,U,,USA,23.2553045859,7-5 6-2,3,SF,,,,,,,,,,,,,,,,,,,,698,16,860,8
 2000-M-FU-JAM-01A-2000,Jamaica F1,Hard,32,S,20000911,30,104210,,WC,Ryan Russell,L,,JAM,17.1854893908,103721,,LL,Ezequiel Nastari,R,,VEN,19.5400410678,2-6 6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,,,1063,4
@@ -9386,7 +9386,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-FRA-17A-2000,France F18,Hard,32,S,20000918,31,103333,,Q,Ivo Karlovic,R,208,CRO,21.5550992471,102179,1,,Antony Dupuis,R,185,FRA,27.5646817248,6-7(4) 7-6(5) 6-4,3,F,,,,,,,,,,,,,,,,,,,,294,101,157,242
 2000-M-FU-GBR-08A-2000,Great Britain F8,Hard,32,S,20000918,1,103125,,,Joan Jimenez Guerra,R,,AND,22.6502395619,103315,1,,Kobi Ziv,R,,ISR,21.6481861739,5-3 4-0 4-0,3,R32,,,,,,,,,,,,,,,,,,,,797,11,421,56
 2000-M-FU-GBR-08A-2000,Great Britain F8,Hard,32,S,20000918,2,111594,,Q,Ben Haran,U,,GBR,22.5160848734,103745,,WC,Thomas Higgins,U,,GBR,19.4496919918,5-4(8) 4-1 5-3,3,R32,,,,,,,,,,,,,,,,,,,,1318,1,967,5
-2000-M-FU-GBR-08A-2000,Great Britain F8,Hard,32,S,20000918,3,103743,,,Domenic Marafiote,L,,AUS,19.4496919918,103993,,Q,Chris Lewis,U,,GBR,18.3600273785,5-4(5) 4-2 4-0,3,R32,,,,,,,,,,,,,,,,,,,,889,8,,
+2000-M-FU-GBR-08A-2000,Great Britain F8,Hard,32,S,20000918,3,103743,,,Domenic Marafiote,L,,AUS,19.4496919918,103993,,Q,Chris Lewis,R,180,GBR,18.3600273785,5-4(5) 4-2 4-0,3,R32,,,,,,,,,,,,,,,,,,,,889,8,,
 2000-M-FU-GBR-08A-2000,Great Britain F8,Hard,32,S,20000918,4,102250,9,,Emanuel Couto,R,183,POR,27.1184120465,103576,,,Barry Fulcher,U,,GBR,20.2737850787,4-2 4-1 4-0,3,R32,,,,,,,,,,,,,,,,,,,,689,17,882,8
 2000-M-FU-GBR-08A-2000,Great Britain F8,Hard,32,S,20000918,5,103263,3,,Justin Layne,R,,GBR,21.9986310746,103538,,WC,James Auckland,R,,GBR,20.4654346338,4-2 1-4 4-1 4-5(6) 4-1,3,R32,,,,,,,,,,,,,,,,,,,,523,35,874,8
 2000-M-FU-GBR-08A-2000,Great Britain F8,Hard,32,S,20000918,6,102557,,Q,Daniel Willman,U,,NZL,25.5058179329,102627,,Q,Sylvain Charrier,U,,FRA,25.1718001369,4-1 1-4 4-1 4-1,3,R32,,,,,,,,,,,,,,,,,,,,1318,1,967,5
@@ -9581,7 +9581,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-BOL-02A-2000,Bolivia F2,Clay,32,S,20000925,9,103334,,,Ronaldo Carvalho,R,,BRA,21.5742642026,103525,5,,Ivan Miranda,R,175,PER,20.5503080082,6-4 6-7(2) 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,874,8,661,20
 2000-M-FU-BOL-02A-2000,Bolivia F2,Clay,32,S,20000925,10,104037,,,Phillip Harboe,R,,CHI,18.1848049281,103246,,Q,Otavio Rovati,R,,BRA,22.1437371663,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1050,4,,
 2000-M-FU-BOL-02A-2000,Bolivia F2,Clay,32,S,20000925,11,103593,,,Marcelo Barboza,R,,URU,20.1971252567,103522,,,Nahuel Fracassi,U,,ITA,20.5722108145,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1050,4,808,10
-2000-M-FU-BOL-02A-2000,Bolivia F2,Clay,32,S,20000925,12,102879,,Q,Jaime Fillol,R,,CHI,23.8932238193,103095,3,,Patricio Rudi,R,,ARG,22.7761806982,7-5 2-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1171,2,496,40
+2000-M-FU-BOL-02A-2000,Bolivia F2,Clay,32,S,20000925,12,102879,,Q,Jaime Fillol,R,180,CHI,23.8932238193,103095,3,,Patricio Rudi,R,,ARG,22.7761806982,7-5 2-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1171,2,496,40
 2000-M-FU-BOL-02A-2000,Bolivia F2,Clay,32,S,20000925,13,102242,,Q,Bart Beks,R,,NED,27.227926078,102997,7,Q,Hermes Gamonal,R,180,CHI,23.3210130048,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,714,16
 2000-M-FU-BOL-02A-2000,Bolivia F2,Clay,32,S,20000925,14,103701,,,Diego Hartfield,R,185,ARG,19.6495550992,103712,,LL,Rodolfo Daruich,U,,ARG,19.6084873374,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,818,10,1050,4
 2000-M-FU-BOL-02A-2000,Bolivia F2,Clay,32,S,20000925,15,103850,,,Sebastian Decoud,L,178,ARG,19.0198494182,117422,,WC,Richard Villegas,R,,BOL,22.2587268994,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,729,15,,
@@ -9591,7 +9591,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-BOL-02A-2000,Bolivia F2,Clay,32,S,20000925,19,103775,,,Felipe Parada,R,175,CHI,19.3620807666,103587,,Q,Andres Dellatorre,R,190,ARG,20.2135523614,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,903,7,1230,2
 2000-M-FU-BOL-02A-2000,Bolivia F2,Clay,32,S,20000925,20,103916,,LL,Cristian Villagran,R,180,ARG,18.6803559206,111119,,WC,Juan Ignacio Valdecantos,U,,ARG,24.128678987,7-6(5) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1122,3,,
 2000-M-FU-BOL-02A-2000,Bolivia F2,Clay,32,S,20000925,21,104037,,,Phillip Harboe,R,,CHI,18.1848049281,103334,,,Ronaldo Carvalho,R,,BRA,21.5742642026,6-7(4) 6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1050,4,874,8
-2000-M-FU-BOL-02A-2000,Bolivia F2,Clay,32,S,20000925,22,103593,,,Marcelo Barboza,R,,URU,20.1971252567,102879,,Q,Jaime Fillol,R,,CHI,23.8932238193,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1050,4,1171,2
+2000-M-FU-BOL-02A-2000,Bolivia F2,Clay,32,S,20000925,22,103593,,,Marcelo Barboza,R,,URU,20.1971252567,102879,,Q,Jaime Fillol,R,180,CHI,23.8932238193,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1050,4,1171,2
 2000-M-FU-BOL-02A-2000,Bolivia F2,Clay,32,S,20000925,23,103701,,,Diego Hartfield,R,185,ARG,19.6495550992,102242,,Q,Bart Beks,R,,NED,27.227926078,3-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,818,10,,
 2000-M-FU-BOL-02A-2000,Bolivia F2,Clay,32,S,20000925,24,103546,2,,Patricio Arquez,R,,ARG,20.4544832307,103850,,,Sebastian Decoud,L,178,ARG,19.0198494182,6-7(2) 6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,456,48,729,15
 2000-M-FU-BOL-02A-2000,Bolivia F2,Clay,32,S,20000925,25,103624,,,Sebastian Uriarte,R,,ARG,20.0684462697,103532,8,,Ignacio Gonzalez King,R,175,ARG,20.5092402464,2-6 6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,917,7,723,15
@@ -9664,7 +9664,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-FRA-18A-2000,France F19,Hard,32,S,20000925,30,101230,,Q,Andrei Chesnokov,R,188,RUS,34.6447638604,103208,,,Jean Michel Pequery,R,,FRA,22.3244353183,6-3 7-5,3,SF,,,,,,,,,,,,,,,,,,,,,,353,79
 2000-M-FU-FRA-18A-2000,France F19,Hard,32,S,20000925,31,101868,,,Dick Norman,L,203,BEL,29.5715263518,101230,,Q,Andrei Chesnokov,R,188,RUS,34.6447638604,6-3 5-7 6-4,3,F,,,,,,,,,,,,,,,,,,,,391,64,,
 2000-M-FU-GBR-09A-2000,Great Britain F9,Hard,32,S,20000925,1,103754,1,,Mark Hilton,L,170,GBR,19.4332648871,103538,,WC,James Auckland,R,,GBR,20.4845995893,5-4(4) 4-0 4-2,3,R32,,,,,,,,,,,,,,,,,,,,318,93,874,8
-2000-M-FU-GBR-09A-2000,Great Britain F9,Hard,32,S,20000925,2,102948,,,Oliver Freelove,R,,GBR,23.5592060233,103993,,WC,Chris Lewis,U,,GBR,18.379192334,4-2 4-0 1-4 5-4(2),3,R32,,,,,,,,,,,,,,,,,,,,697,17,,
+2000-M-FU-GBR-09A-2000,Great Britain F9,Hard,32,S,20000925,2,102948,,,Oliver Freelove,R,,GBR,23.5592060233,103993,,WC,Chris Lewis,R,180,GBR,18.379192334,4-2 4-0 1-4 5-4(2),3,R32,,,,,,,,,,,,,,,,,,,,697,17,,
 2000-M-FU-GBR-09A-2000,Great Britain F9,Hard,32,S,20000925,3,104107,,WC,Andrew Banks,L,,GBR,17.7193702943,118260,,Q,Daniel Scholten,U,,GER,20.6187542779,2-4 4-1 4-1 5-4(2),3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2000-M-FU-GBR-09A-2000,Great Britain F9,Hard,32,S,20000925,4,104014,,,Lee Childs,R,,GBR,18.2915811088,103263,8,,Justin Layne,R,,GBR,22.0177960301,4-2 5-4(3) 4-2,3,R32,,,,,,,,,,,,,,,,,,,,678,18,523,35
 2000-M-FU-GBR-09A-2000,Great Britain F9,Hard,32,S,20000925,5,102260,,,James Davidson,R,,GBR,27.0253251198,103315,4,,Kobi Ziv,R,,ISR,21.6673511294,5-3 4-1 1-4 4-0,3,R32,,,,,,,,,,,,,,,,,,,,790,11,421,56
@@ -11515,7 +11515,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-IND-04A-2000,India F4,Grass,32,S,20001106,7,103691,,Q,Baptiste Dupuy,L,,FRA,19.8056125941,103523,,,Rohan Bopanna,R,190,IND,20.6762491444,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,854,9
 2000-M-FU-IND-04A-2000,India F4,Grass,32,S,20001106,8,103320,,,Rishi Sridhar,R,,IND,21.7522245038,103432,5,,Branislav Sekac,R,,SVK,21.1772758385,7-5 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,934,6,619,23
 2000-M-FU-IND-04A-2000,India F4,Grass,32,S,20001106,9,102885,6,,Vishal Uppal,R,,IND,23.9890485969,104286,,WC,Vishal Punna,R,,IND,16.8131416838,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,646,21,,
-2000-M-FU-IND-04A-2000,India F4,Grass,32,S,20001106,10,103730,,Q,Jonathan Marray,R,,GBR,19.6605065024,103222,,,Sergei Krotiouk,R,,RUS,22.379192334,4-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,927,7
+2000-M-FU-IND-04A-2000,India F4,Grass,32,S,20001106,10,103730,,Q,Jonathan Marray,R,183,GBR,19.6605065024,103222,,,Sergei Krotiouk,R,,RUS,22.379192334,4-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,927,7
 2000-M-FU-IND-04A-2000,India F4,Grass,32,S,20001106,11,103614,,,Josef Nesticky,R,,CZE,20.2381930185,101960,,,Tamas Gyorgy,R,,HUN,29.1663244353,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,892,8,878,8
 2000-M-FU-IND-04A-2000,India F4,Grass,32,S,20001106,12,103455,3,,Michal Mertinak,R,180,SVK,21.0732375086,118332,,Q,Kedar Shah,U,,IND,18.9623545517,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,526,36,1196,2
 2000-M-FU-IND-04A-2000,India F4,Grass,32,S,20001106,13,102467,7,,Fazaluddin Syed,R,,IND,26.0533880903,103547,,,Anton Kokurin,R,,UZB,20.5585215606,7-6(0) 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,652,21,898,8
@@ -11526,17 +11526,17 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-IND-04A-2000,India F4,Grass,32,S,20001106,18,102926,,Q,Dario Pizzato,R,201,ITA,23.7754962355,103354,8,,Kamil Patel,R,,MRI,21.5961670089,6-4 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,1351,1,680,19
 2000-M-FU-IND-04A-2000,India F4,Grass,32,S,20001106,19,102771,4,,Leslie Demiliani,R,,FRA,24.5694729637,103197,,,John Doran,R,,IRL,22.4777549624,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,624,23,1091,3
 2000-M-FU-IND-04A-2000,India F4,Grass,32,S,20001106,20,103691,,Q,Baptiste Dupuy,L,,FRA,19.8056125941,103320,,,Rishi Sridhar,R,,IND,21.7522245038,6-2 4-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,934,6
-2000-M-FU-IND-04A-2000,India F4,Grass,32,S,20001106,21,103730,,Q,Jonathan Marray,R,,GBR,19.6605065024,102885,6,,Vishal Uppal,R,,IND,23.9890485969,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,646,21
+2000-M-FU-IND-04A-2000,India F4,Grass,32,S,20001106,21,103730,,Q,Jonathan Marray,R,183,GBR,19.6605065024,102885,6,,Vishal Uppal,R,,IND,23.9890485969,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,646,21
 2000-M-FU-IND-04A-2000,India F4,Grass,32,S,20001106,22,103455,3,,Michal Mertinak,R,180,SVK,21.0732375086,103614,,,Josef Nesticky,R,,CZE,20.2381930185,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,526,36,892,8
 2000-M-FU-IND-04A-2000,India F4,Grass,32,S,20001106,23,102467,7,,Fazaluddin Syed,R,,IND,26.0533880903,103919,,WC,Kamala Kannan,U,,IND,18.7871321013,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,652,21,,
 2000-M-FU-IND-04A-2000,India F4,Grass,32,S,20001106,24,103467,2,,Victor Bruthans,R,,SVK,20.9938398357,103321,,,Vinod Sridhar,L,,IND,21.7522245038,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,518,38,887,8
 2000-M-FU-IND-04A-2000,India F4,Grass,32,S,20001106,25,102926,,Q,Dario Pizzato,R,201,ITA,23.7754962355,103120,1,,Juraj Hasko,R,,SVK,22.7980835044,3-6 7-6(8) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,1351,1,507,40
 2000-M-FU-IND-04A-2000,India F4,Grass,32,S,20001106,26,102771,4,,Leslie Demiliani,R,,FRA,24.5694729637,103691,,Q,Baptiste Dupuy,L,,FRA,19.8056125941,7-6(3) 6-1,3,QF,,,,,,,,,,,,,,,,,,,,624,23,,
-2000-M-FU-IND-04A-2000,India F4,Grass,32,S,20001106,27,103730,,Q,Jonathan Marray,R,,GBR,19.6605065024,103455,3,,Michal Mertinak,R,180,SVK,21.0732375086,3-6 6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,526,36
+2000-M-FU-IND-04A-2000,India F4,Grass,32,S,20001106,27,103730,,Q,Jonathan Marray,R,183,GBR,19.6605065024,103455,3,,Michal Mertinak,R,180,SVK,21.0732375086,3-6 6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,526,36
 2000-M-FU-IND-04A-2000,India F4,Grass,32,S,20001106,28,102467,7,,Fazaluddin Syed,R,,IND,26.0533880903,103467,2,,Victor Bruthans,R,,SVK,20.9938398357,7-6(2) 5-7 7-6(2),3,QF,,,,,,,,,,,,,,,,,,,,652,21,518,38
 2000-M-FU-IND-04A-2000,India F4,Grass,32,S,20001106,29,102771,4,,Leslie Demiliani,R,,FRA,24.5694729637,102926,,Q,Dario Pizzato,R,201,ITA,23.7754962355,6-3 4-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,624,23,1351,1
-2000-M-FU-IND-04A-2000,India F4,Grass,32,S,20001106,30,103730,,Q,Jonathan Marray,R,,GBR,19.6605065024,102467,7,,Fazaluddin Syed,R,,IND,26.0533880903,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,652,21
-2000-M-FU-IND-04A-2000,India F4,Grass,32,S,20001106,31,103730,,Q,Jonathan Marray,R,,GBR,19.6605065024,102771,4,,Leslie Demiliani,R,,FRA,24.5694729637,7-5 0-6 7-5,3,F,,,,,,,,,,,,,,,,,,,,,,624,23
+2000-M-FU-IND-04A-2000,India F4,Grass,32,S,20001106,30,103730,,Q,Jonathan Marray,R,183,GBR,19.6605065024,102467,7,,Fazaluddin Syed,R,,IND,26.0533880903,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,652,21
+2000-M-FU-IND-04A-2000,India F4,Grass,32,S,20001106,31,103730,,Q,Jonathan Marray,R,183,GBR,19.6605065024,102771,4,,Leslie Demiliani,R,,FRA,24.5694729637,7-5 0-6 7-5,3,F,,,,,,,,,,,,,,,,,,,,,,624,23
 2000-M-FU-MEX-06A-2000,Mexico F6,Hard,32,S,20001106,1,102927,1,,Boris Borgula,R,,SVK,23.7700205339,103721,,,Ezequiel Nastari,R,,VEN,19.6933607118,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,362,78,888,8
 2000-M-FU-MEX-06A-2000,Mexico F6,Hard,32,S,20001106,2,102242,,Q,Bart Beks,R,,NED,27.3429158111,103624,,,Sebastian Uriarte,R,,ARG,20.1834360027,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1170,3,789,12
 2000-M-FU-MEX-06A-2000,Mexico F6,Hard,32,S,20001106,3,102677,,Q,Kiantki Thomas,R,,USA,25.0266940452,104064,,,Marcos Digliodo,R,,ARG,18.1190965092,7-5 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1066,4,1255,2
@@ -11676,7 +11676,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-IND-05A-2000,India F5,Hard,32,S,20001113,13,102467,8,,Fazaluddin Syed,R,,IND,26.0725530459,103643,,Q,Lauri Kiiski,R,,FIN,20.0930869268,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,775,13,1067,4
 2000-M-FU-IND-05A-2000,India F5,Hard,32,S,20001113,14,103354,,,Kamil Patel,R,,MRI,21.6153319644,102955,,WC,Saurav Panja,R,,IND,23.665982204,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,705,17,1067,4
 2000-M-FU-IND-05A-2000,India F5,Hard,32,S,20001113,15,103547,,,Anton Kokurin,R,,UZB,20.5776865161,104128,,Q,Shivang Mishra,R,,IND,17.7577002053,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,894,8,,
-2000-M-FU-IND-05A-2000,India F5,Hard,32,S,20001113,16,103467,2,,Victor Bruthans,R,,SVK,21.0130047912,103730,,SE,Jonathan Marray,R,,GBR,19.6796714579,1-6 7-6(6) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,518,38,,
+2000-M-FU-IND-05A-2000,India F5,Hard,32,S,20001113,16,103467,2,,Victor Bruthans,R,,SVK,21.0130047912,103730,,SE,Jonathan Marray,R,183,GBR,19.6796714579,1-6 7-6(6) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,518,38,,
 2000-M-FU-IND-05A-2000,India F5,Hard,32,S,20001113,17,103120,1,,Juraj Hasko,R,,SVK,22.81724846,102345,,,Nitten Kirrtane,R,,IND,26.6967830253,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,506,40,766,13
 2000-M-FU-IND-05A-2000,India F5,Hard,32,S,20001113,18,103222,,,Sergei Krotiouk,R,,RUS,22.3983572895,102926,,Q,Dario Pizzato,R,201,ITA,23.794661191,6-3 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,930,7,1353,1
 2000-M-FU-IND-05A-2000,India F5,Hard,32,S,20001113,19,101898,,Q,Vince Mackey,R,,USA,29.5852156057,103455,3,,Michal Mertinak,R,180,SVK,21.0924024641,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1195,2,526,36
@@ -11821,7 +11821,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-CHI-07A-2000,Chile F7,Clay,32,S,20001120,3,102997,,Q,Hermes Gamonal,R,180,CHI,23.4743326489,103701,,,Diego Hartfield,R,185,ARG,19.8028747433,6-7(5) 6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,854,9,709,17
 2000-M-FU-CHI-07A-2000,Chile F7,Clay,32,S,20001120,4,103088,7,,Xavier Pujo,R,180,FRA,22.9596167009,103229,,,Kornel Bardoczky,R,,HUN,22.379192334,7-6(5) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,435,52,530,35
 2000-M-FU-CHI-07A-2000,Chile F7,Clay,32,S,20001120,5,103405,4,,Rodolfo Rake,R,,PER,21.3579739904,103712,,Q,Rodolfo Daruich,U,,ARG,19.7618069815,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,393,61,1066,4
-2000-M-FU-CHI-07A-2000,Chile F7,Clay,32,S,20001120,6,104225,,,Jan Hajek,R,180,CZE,17.2895277207,103841,,WC,Julio Peralta,R,,CHI,19.1978097194,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,646,20,814,10
+2000-M-FU-CHI-07A-2000,Chile F7,Clay,32,S,20001120,6,104225,,,Jan Hajek,R,180,CZE,17.2895277207,103841,,WC,Julio Peralta,R,188,CHI,19.1978097194,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,646,20,814,10
 2000-M-FU-CHI-07A-2000,Chile F7,Clay,32,S,20001120,7,103125,,,Joan Jimenez Guerra,R,,AND,22.8227241615,104122,,Q,Carlos Berlocq,R,183,ARG,17.7960301164,7-5 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,586,28,963,6
 2000-M-FU-CHI-07A-2000,Chile F7,Clay,32,S,20001120,8,103228,6,,Marcos Daniel,R,180,BRA,22.3819301848,103532,,,Ignacio Gonzalez King,R,175,ARG,20.6625598905,7-6(6) 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,437,52,638,21
 2000-M-FU-CHI-07A-2000,Chile F7,Clay,32,S,20001120,9,103624,,SE,Sebastian Uriarte,R,,ARG,20.2217659138,103137,5,,Frank Pokorny,U,,GER,22.7926078029,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,771,13,420,56
@@ -11847,7 +11847,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-CHI-07A-2000,Chile F7,Clay,32,S,20001120,29,102997,,Q,Hermes Gamonal,R,180,CHI,23.4743326489,103228,6,,Marcos Daniel,R,180,BRA,22.3819301848,6-4 0-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,854,9,437,52
 2000-M-FU-CHI-07A-2000,Chile F7,Clay,32,S,20001120,30,102962,,,Miguel Miranda,R,,CHI,23.6741957563,103522,,,Nahuel Fracassi,U,,ITA,20.7255304586,5-7 6-4 6-0,3,SF,,,,,,,,,,,,,,,,,,,,583,28,616,23
 2000-M-FU-CHI-07A-2000,Chile F7,Clay,32,S,20001120,31,102997,,Q,Hermes Gamonal,R,180,CHI,23.4743326489,102962,,,Miguel Miranda,R,,CHI,23.6741957563,7-5 6-3,3,F,,,,,,,,,,,,,,,,,,,,854,9,583,28
-2000-M-FU-IND-06A-2000,India F6,Hard,32,S,20001120,1,103120,1,,Juraj Hasko,R,,SVK,22.8364134155,103730,,Q,Jonathan Marray,R,,GBR,19.6988364134,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,495,41,773,12
+2000-M-FU-IND-06A-2000,India F6,Hard,32,S,20001120,1,103120,1,,Juraj Hasko,R,,SVK,22.8364134155,103730,,Q,Jonathan Marray,R,183,GBR,19.6988364134,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,495,41,773,12
 2000-M-FU-IND-06A-2000,India F6,Hard,32,S,20001120,2,103547,,,Anton Kokurin,R,,UZB,20.5968514716,103619,,,Mustafa Ghouse,R,185,IND,20.2546201232,3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,890,8,864,9
 2000-M-FU-IND-06A-2000,India F6,Hard,32,S,20001120,3,103620,,,Tomas Janci,R,,SVK,20.2518822724,103501,,,Vijay Kannan,R,,IND,20.7939767283,2-6 6-4 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,808,11,849,9
 2000-M-FU-IND-06A-2000,India F6,Hard,32,S,20001120,4,118338,,WC,Kedar Tembe,U,,IND,19.485284052,102885,8,,Vishal Uppal,R,,IND,24.0273785079,7-6(4) 5-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,707,17
@@ -12004,7 +12004,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-AUS-04A-2000,Australia F4,Grass,32,S,20001127,31,102875,,,Luke Smith,R,188,AUS,24.090349076,103080,,WC,Paul Hanley,R,183,AUS,23.0417522245,3-6 6-4 7-5,3,F,,,,,,,,,,,,,,,,,,,,558,32,518,38
 2000-M-FU-CHI-08A-2000,Chile F8,Clay,32,S,20001127,1,103088,,,Xavier Pujo,R,180,FRA,22.9787816564,103672,1,,Ricardo Mello,L,175,BRA,19.9342915811,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,441,52,313,97
 2000-M-FU-CHI-08A-2000,Chile F8,Clay,32,S,20001127,2,103058,,Q,Juan Felipe Yanez,R,,CHI,23.1676933607,102611,,,Rafael Serpa Guinazu,R,,ARG,25.4209445585,4-6 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1252,2,485,45
-2000-M-FU-CHI-08A-2000,Chile F8,Clay,32,S,20001127,3,102811,,,Dusan Vemic,R,190,SRB,24.4462696783,103841,,Q,Julio Peralta,R,,CHI,19.2169746749,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,497,41,818,10
+2000-M-FU-CHI-08A-2000,Chile F8,Clay,32,S,20001127,3,102811,,,Dusan Vemic,R,190,SRB,24.4462696783,103841,,Q,Julio Peralta,R,188,CHI,19.2169746749,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,497,41,818,10
 2000-M-FU-CHI-08A-2000,Chile F8,Clay,32,S,20001127,4,103095,8,,Patricio Rudi,R,,ARG,22.9486652977,104037,,WC,Phillip Harboe,R,,CHI,18.3572895277,6-4 1-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,422,57,923,7
 2000-M-FU-CHI-08A-2000,Chile F8,Clay,32,S,20001127,5,102240,,Q,Kresimir Ritz,R,,CRO,27.4168377823,102168,3,,Hector Moretti,R,170,ARG,27.832991102,6-4 4-6 3-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,1188,2,361,79
 2000-M-FU-CHI-08A-2000,Chile F8,Clay,32,S,20001127,6,103916,,Q,Cristian Villagran,R,180,ARG,18.8528405202,103121,,,Matias Oneille,R,,ARG,22.8501026694,7-5 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,961,6,505,40
@@ -12132,7 +12132,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-CHI-09A-2000,Chile F9,Clay,32,S,20001204,4,103478,7,,Diego Veronelli,R,193,ARG,20.9993155373,103125,,,Joan Jimenez Guerra,R,,AND,22.8610540726,6-3 6-7(1) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,485,44,577,30
 2000-M-FU-CHI-09A-2000,Chile F9,Clay,32,S,20001204,5,103121,,,Matias Oneille,R,,ARG,22.8692676249,103395,3,,Julio Silva,R,173,BRA,21.4291581109,4-6 6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,500,40,384,67
 2000-M-FU-CHI-09A-2000,Chile F9,Clay,32,S,20001204,6,103090,,LL,Diego Bracco,R,,ARG,22.9897330595,118284,,WC,Cristobal Toral,U,,CHI,18.1464750171,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,922,7,,
-2000-M-FU-CHI-09A-2000,Chile F9,Clay,32,S,20001204,7,103841,,Q,Julio Peralta,R,,CHI,19.2361396304,103675,,Q,Diego Junqueira,L,178,ARG,19.9342915811,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,814,10,830,10
+2000-M-FU-CHI-09A-2000,Chile F9,Clay,32,S,20001204,7,103841,,Q,Julio Peralta,R,188,CHI,19.2361396304,103675,,Q,Diego Junqueira,L,178,ARG,19.9342915811,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,814,10,830,10
 2000-M-FU-CHI-09A-2000,Chile F9,Clay,32,S,20001204,8,103701,,Q,Diego Hartfield,R,185,ARG,19.8412046543,103405,5,,Rodolfo Rake,R,,PER,21.3963039014,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,711,17,418,57
 2000-M-FU-CHI-09A-2000,Chile F9,Clay,32,S,20001204,9,103095,6,,Patricio Rudi,R,,ARG,22.9678302533,103593,,Q,Marcelo Barboza,R,,URU,20.3887748118,7-5 4-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,420,57,725,16
 2000-M-FU-CHI-09A-2000,Chile F9,Clay,32,S,20001204,10,103670,,Q,Alvaro Loyola,R,,CHI,19.9561943874,103775,,WC,Felipe Parada,R,175,CHI,19.5537303217,7-6(5) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1334,1,688,18
@@ -12145,18 +12145,18 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-CHI-09A-2000,Chile F9,Clay,32,S,20001204,17,102544,1,,Pablo Bianchi,R,,URU,25.7686516085,103976,,,Juan Pablo Brzezicki,R,178,ARG,18.6475017112,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,340,84,451,50
 2000-M-FU-CHI-09A-2000,Chile F9,Clay,32,S,20001204,18,103478,7,,Diego Veronelli,R,193,ARG,20.9993155373,103512,,,Ivan Cinkus,R,,CRO,20.7912388775,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,485,44,518,37
 2000-M-FU-CHI-09A-2000,Chile F9,Clay,32,S,20001204,19,103121,,,Matias Oneille,R,,ARG,22.8692676249,103090,,LL,Diego Bracco,R,,ARG,22.9897330595,7-5 6-7(7) 6-0,3,R16,,,,,,,,,,,,,,,,,,,,500,40,922,7
-2000-M-FU-CHI-09A-2000,Chile F9,Clay,32,S,20001204,20,103841,,Q,Julio Peralta,R,,CHI,19.2361396304,103701,,Q,Diego Hartfield,R,185,ARG,19.8412046543,6-7(5) 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,814,10,711,17
+2000-M-FU-CHI-09A-2000,Chile F9,Clay,32,S,20001204,20,103841,,Q,Julio Peralta,R,188,CHI,19.2361396304,103701,,Q,Diego Hartfield,R,185,ARG,19.8412046543,6-7(5) 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,814,10,711,17
 2000-M-FU-CHI-09A-2000,Chile F9,Clay,32,S,20001204,21,103095,6,,Patricio Rudi,R,,ARG,22.9678302533,103670,,Q,Alvaro Loyola,R,,CHI,19.9561943874,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,420,57,1334,1
 2000-M-FU-CHI-09A-2000,Chile F9,Clay,32,S,20001204,22,103058,,Q,Juan Felipe Yanez,R,,CHI,23.1868583162,103708,,Q,Jaroslav Pospisil,R,,CZE,19.8165639973,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1247,2,715,16
 2000-M-FU-CHI-09A-2000,Chile F9,Clay,32,S,20001204,23,101961,,Q,Martin Stringari,R,188,ARG,29.234770705,103998,,WC,Mario Monroy,U,,PER,18.5379876797,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,673,19,1334,1
 2000-M-FU-CHI-09A-2000,Chile F9,Clay,32,S,20001204,24,102997,,SE,Hermes Gamonal,R,180,CHI,23.5126625599,103506,,,Martin Vassallo Arguello,R,183,ARG,20.8158795346,7-6(5) 5-7 6-1,3,R16,,,,,,,,,,,,,,,,,,,,660,20,477,46
 2000-M-FU-CHI-09A-2000,Chile F9,Clay,32,S,20001204,25,103478,7,,Diego Veronelli,R,193,ARG,20.9993155373,102544,1,,Pablo Bianchi,R,,URU,25.7686516085,0-6 7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,485,44,340,84
-2000-M-FU-CHI-09A-2000,Chile F9,Clay,32,S,20001204,26,103841,,Q,Julio Peralta,R,,CHI,19.2361396304,103121,,,Matias Oneille,R,,ARG,22.8692676249,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,814,10,500,40
+2000-M-FU-CHI-09A-2000,Chile F9,Clay,32,S,20001204,26,103841,,Q,Julio Peralta,R,188,CHI,19.2361396304,103121,,,Matias Oneille,R,,ARG,22.8692676249,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,814,10,500,40
 2000-M-FU-CHI-09A-2000,Chile F9,Clay,32,S,20001204,27,103095,6,,Patricio Rudi,R,,ARG,22.9678302533,103058,,Q,Juan Felipe Yanez,R,,CHI,23.1868583162,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,420,57,1247,2
 2000-M-FU-CHI-09A-2000,Chile F9,Clay,32,S,20001204,28,102997,,SE,Hermes Gamonal,R,180,CHI,23.5126625599,101961,,Q,Martin Stringari,R,188,ARG,29.234770705,6-4 7-6(4),3,QF,,,,,,,,,,,,,,,,,,,,660,20,673,19
-2000-M-FU-CHI-09A-2000,Chile F9,Clay,32,S,20001204,29,103841,,Q,Julio Peralta,R,,CHI,19.2361396304,103478,7,,Diego Veronelli,R,193,ARG,20.9993155373,0-6 6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,814,10,485,44
+2000-M-FU-CHI-09A-2000,Chile F9,Clay,32,S,20001204,29,103841,,Q,Julio Peralta,R,188,CHI,19.2361396304,103478,7,,Diego Veronelli,R,193,ARG,20.9993155373,0-6 6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,814,10,485,44
 2000-M-FU-CHI-09A-2000,Chile F9,Clay,32,S,20001204,30,103095,6,,Patricio Rudi,R,,ARG,22.9678302533,102997,,SE,Hermes Gamonal,R,180,CHI,23.5126625599,6-2 3-6 7-5,3,SF,,,,,,,,,,,,,,,,,,,,420,57,660,20
-2000-M-FU-CHI-09A-2000,Chile F9,Clay,32,S,20001204,31,103095,6,,Patricio Rudi,R,,ARG,22.9678302533,103841,,Q,Julio Peralta,R,,CHI,19.2361396304,3-6 7-6(2) 6-0,3,F,,,,,,,,,,,,,,,,,,,,420,57,814,10
+2000-M-FU-CHI-09A-2000,Chile F9,Clay,32,S,20001204,31,103095,6,,Patricio Rudi,R,,ARG,22.9678302533,103841,,Q,Julio Peralta,R,188,CHI,19.2361396304,3-6 7-6(2) 6-0,3,F,,,,,,,,,,,,,,,,,,,,420,57,814,10
 2000-M-FU-PHI-02A-2000,Philippines F2,Hard,32,S,20001204,1,102263,1,,Yong Il Yoon,R,175,KOR,27.1978097194,102054,,,Seung Kyu Park,R,,KOR,28.5612594114,4-6 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,151,255,508,38
 2000-M-FU-PHI-02A-2000,Philippines F2,Hard,32,S,20001204,2,103945,,,Simon Dickson,R,,GBR,18.7734428474,108648,,WC,Michael Mora,U,,PHI,23.2060232717,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,506,39,,
 2000-M-FU-PHI-02A-2000,Philippines F2,Hard,32,S,20001204,3,104021,,Q,Marco Mirnegg,R,180,AUT,18.4476386037,103576,,Q,Barry Fulcher,U,,GBR,20.4845995893,6-7(4) 7-6(5) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,911,7

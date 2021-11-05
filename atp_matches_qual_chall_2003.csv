@@ -572,7 +572,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-1739,Kosice2 CH,Clay,32,C,20030630,13,103420,,LL,Michal Tabara,R,175,CZE,23.8658453114,102869,6,,Galo Blanco,R,173,ESP,26.7049965777,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,264,109,108,363
 2003-1739,Kosice2 CH,Clay,32,C,20030630,14,102768,,,Federico Browne,R,180,ARG,27.2087611225,103120,,Q,Juraj Hasko,R,,SVK,25.4236824093,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,127,303,616,26
 2003-1739,Kosice2 CH,Clay,32,C,20030630,15,104225,,,Jan Hajek,R,180,CZE,19.8767967146,103711,,Q,Jaroslav Levinsky,R,196,CZE,22.3600273785,6-1 1-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,196,179,403,64
-2003-1739,Kosice2 CH,Clay,32,C,20030630,16,103835,2,,Filippo Volandri,R,183,ITA,21.7960301164,104743,,WC,Kamil Capkovic,R,,SVK,17.0568104038,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,69,607,1353,1
+2003-1739,Kosice2 CH,Clay,32,C,20030630,16,103835,2,,Filippo Volandri,R,183,ITA,21.7960301164,104743,,WC,Kamil Capkovic,R,198,SVK,17.0568104038,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,69,607,1353,1
 2003-1739,Kosice2 CH,Clay,32,C,20030630,17,103103,1,,Dominik Hrbaty,R,183,SVK,25.4647501711,103467,,Q,Victor Bruthans,R,,SVK,23.6194387406,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,66,635,511,39
 2003-1739,Kosice2 CH,Clay,32,C,20030630,18,103505,,,Vasilis Mazarakis,R,178,GRE,23.3675564682,102910,,,Salvador Navarro,R,180,ESP,26.4531143053,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,142,268,175,203
 2003-1739,Kosice2 CH,Clay,32,C,20030630,19,103294,4,,Christophe Rochus,R,170,BEL,24.5201916496,104166,,,Alex Bogomolov Jr,R,178,RUS,20.167008898,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,92,447,119,340
@@ -718,7 +718,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-1751,Mordovia CH,Clay,32,C,20030804,4,104091,5,,Miguel Angel Lopez Jaen,R,188,ESP,20.6789869952,103046,,,Janne Ojala,R,,FIN,25.9055441478,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,293,111,526,37
 2003-1751,Mordovia CH,Clay,32,C,20030804,5,103393,3,,Yuri Schukin,R,188,KAZ,24.1067761807,104111,,Q,Georg Novak,R,,AUT,20.5585215606,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,258,131,,
 2003-1751,Mordovia CH,Clay,32,C,20030804,6,103726,,,Jean Christophe Faurel,R,175,FRA,22.4120465435,104034,,,Dmitry Vlasov,R,188,RUS,21.0650239562,2-6 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,342,88,359,81
-2003-1751,Mordovia CH,Clay,32,C,20030804,7,104397,,,Laurent Recouderc,R,,FRA,19.0663928816,104677,,WC,Artem Sitak,R,,NZL,17.4839151266,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,502,41,,
+2003-1751,Mordovia CH,Clay,32,C,20030804,7,104397,,,Laurent Recouderc,R,178,FRA,19.0663928816,104677,,WC,Artem Sitak,R,185,NZL,17.4839151266,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,502,41,,
 2003-1751,Mordovia CH,Clay,32,C,20030804,8,103480,9,,Martin Stepanek,R,,CZE,23.6413415469,103281,,,Ladislav Svarc,R,188,SVK,24.7227926078,6-4 3-6 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,345,86,344,87
 2003-1751,Mordovia CH,Clay,32,C,20030804,9,106498,,LL,Alexey Sergeev,R,,RUS,,104329,,WC,Andrei Somov,R,,RUS,19.3785078713,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1224,2,1193,3
 2003-1751,Mordovia CH,Clay,32,C,20030804,10,103009,,,Razvan Sabau,R,185,ROU,26.1273100616,103715,,LL,Kirill Ivanov Smolensky,R,,RUS,22.4531143053,3-6 6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,317,97,562,32
@@ -731,7 +731,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-1751,Mordovia CH,Clay,32,C,20030804,17,104214,1,,Igor Andreev,R,185,RUS,20.0574948665,102577,,,Steven Randjelovic,R,,AUS,28.2874743326,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,135,282,856,10
 2003-1751,Mordovia CH,Clay,32,C,20030804,18,104091,5,,Miguel Angel Lopez Jaen,R,188,ESP,20.6789869952,104783,,Q,Mikhail Ledovskikh,R,188,RUS,16.9883641342,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,293,111,1157,3
 2003-1751,Mordovia CH,Clay,32,C,20030804,19,103393,3,,Yuri Schukin,R,188,KAZ,24.1067761807,103726,,,Jean Christophe Faurel,R,175,FRA,22.4120465435,7-6(2) 2-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,258,131,342,88
-2003-1751,Mordovia CH,Clay,32,C,20030804,20,103480,9,,Martin Stepanek,R,,CZE,23.6413415469,104397,,,Laurent Recouderc,R,,FRA,19.0663928816,6-4 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,345,86,502,41
+2003-1751,Mordovia CH,Clay,32,C,20030804,20,103480,9,,Martin Stepanek,R,,CZE,23.6413415469,104397,,,Laurent Recouderc,R,178,FRA,19.0663928816,6-4 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,345,86,502,41
 2003-1751,Mordovia CH,Clay,32,C,20030804,21,103009,,,Razvan Sabau,R,185,ROU,26.1273100616,106498,,LL,Alexey Sergeev,R,,RUS,,6-3 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,317,97,1224,2
 2003-1751,Mordovia CH,Clay,32,C,20030804,22,103455,4,,Michal Mertinak,R,180,SVK,23.8138261465,104439,,,Vadim Davletshin,U,,RUS,18.8227241615,6-3 6-7(8) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,223,155,607,27
 2003-1751,Mordovia CH,Clay,32,C,20030804,23,104141,,,Dmitri Sitak,R,183,RUS,20.4188911704,103997,8,,Lukasz Kubot,R,190,POL,21.2183436003,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,448,54,331,92
@@ -776,7 +776,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-1752,Monchengladbach CH,Clay,32,C,20030818,31,103305,,,Daniel Elsner,R,183,GER,24.6187542779,103789,2,,Irakli Labadze,L,188,GEO,22.1902806297,6-1 2-6 6-3,3,F,,,,,,,,,,,,,,,,,,,,282,116,114,327
 2003-1763,Genova CH,Clay,32,C,20030901,1,103506,1,,Martin Vassallo Arguello,R,183,ARG,23.537303217,104691,,WC,Filippo Figliomeni,R,,ITA,17.4757015743,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,104,358,1248,2
 2003-1763,Genova CH,Clay,32,C,20030901,2,103626,,,Tomas Tenconi,R,178,ITA,22.9733059548,104230,,,Daniel Koellerer,R,180,AUT,20.0219028063,6-2 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,226,154,195,194
-2003-1763,Genova CH,Clay,32,C,20030901,3,103841,,,Julio Peralta,R,,CHI,21.9575633128,102243,,,Marcelo Charpentier,L,180,ARG,30.12183436,6-1 2-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,221,159,224,157
+2003-1763,Genova CH,Clay,32,C,20030901,3,103841,,,Julio Peralta,R,188,CHI,21.9575633128,102243,,,Marcelo Charpentier,L,180,ARG,30.12183436,6-1 2-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,221,159,224,157
 2003-1763,Genova CH,Clay,32,C,20030901,4,101947,8,,Vincenzo Santopadre,L,183,ITA,32.038329911,103689,,Q,Guillermo Carry,L,,ARG,22.6064339493,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,187,207,605,27
 2003-1763,Genova CH,Clay,32,C,20030901,5,102851,3,,Giorgio Galimberti,R,180,ITA,26.9678302533,104334,,Q,Alberto Brizzi,R,,ITA,19.4140999316,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,127,290,649,23
 2003-1763,Genova CH,Clay,32,C,20030901,6,103032,,,Francisco Fogues,L,190,ESP,26.0506502396,102554,,,Diego Moyano,R,175,ARG,28.4490075291,4-6 7-6(1) 3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,233,150,266,126
@@ -791,7 +791,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-1763,Genova CH,Clay,32,C,20030901,15,104021,,LL,Marco Mirnegg,R,180,AUT,21.1690622861,103860,,,Timo Nieminen,R,185,FIN,21.8836413415,5-7 7-6(6) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,478,47,298,110
 2003-1763,Genova CH,Clay,32,C,20030901,16,103169,2,,Oscar Hernandez,R,180,ESP,25.3744010951,103916,,,Cristian Villagran,R,180,ARG,21.5934291581,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,113,338,293,113
 2003-1763,Genova CH,Clay,32,C,20030901,17,103506,1,,Martin Vassallo Arguello,R,183,ARG,23.537303217,103626,,,Tomas Tenconi,R,178,ITA,22.9733059548,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,104,358,226,154
-2003-1763,Genova CH,Clay,32,C,20030901,18,101947,8,,Vincenzo Santopadre,L,183,ITA,32.038329911,103841,,,Julio Peralta,R,,CHI,21.9575633128,7-6(4) 4-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,187,207,221,159
+2003-1763,Genova CH,Clay,32,C,20030901,18,101947,8,,Vincenzo Santopadre,L,183,ITA,32.038329911,103841,,,Julio Peralta,R,188,CHI,21.9575633128,7-6(4) 4-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,187,207,221,159
 2003-1763,Genova CH,Clay,32,C,20030901,19,103032,,,Francisco Fogues,L,190,ESP,26.0506502396,102851,3,,Giorgio Galimberti,R,180,ITA,26.9678302533,5-7 4-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,233,150,127,290
 2003-1763,Genova CH,Clay,32,C,20030901,20,102910,6,,Salvador Navarro,R,180,ESP,26.6255989049,104180,,,Gilles Muller,L,193,LUX,20.295687885,6-4 1-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,177,218,189,206
 2003-1763,Genova CH,Clay,32,C,20030901,21,103849,,Q,Francesco Aldi,R,175,ITA,21.9356605065,101746,7,,Renzo Furlan,R,175,ITA,33.273100616,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,355,82,184,212
@@ -842,7 +842,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-1765,Tehran CH,Clay,32,C,20030915,4,103527,6,,Julien Jeanpierre,R,188,FRA,23.5154004107,103614,,,Josef Nesticky,R,,CZE,23.0937713895,6-0 3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,289,118,992,6
 2003-1765,Tehran CH,Clay,32,C,20030915,5,103545,,,Philipp Mullner,R,,AUT,23.4277891855,103594,4,,Oliver Marach,R,185,AUT,23.1649555099,7-5 3-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,402,69,264,129
 2003-1765,Tehran CH,Clay,32,C,20030915,6,103875,,WC,Anoosha Shahgholi,U,,IRI,21.8453114305,103050,,WC,Shahab Hassani Nafez,R,,IRI,25.9958932238,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1411,1
-2003-1765,Tehran CH,Clay,32,C,20030915,7,104397,,,Laurent Recouderc,R,,FRA,19.1813826146,109670,,,Koorosh Hashemian,R,,IRI,,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,355,85,,
+2003-1765,Tehran CH,Clay,32,C,20030915,7,104397,,,Laurent Recouderc,R,178,FRA,19.1813826146,109670,,,Koorosh Hashemian,R,,IRI,,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,355,85,,
 2003-1765,Tehran CH,Clay,32,C,20030915,8,103657,,,Ivo Klec,R,183,SVK,22.7953456537,103209,8,,Leonardo Azzaro,L,188,ITA,25.2950034223,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,351,87,367,81
 2003-1765,Tehran CH,Clay,32,C,20030915,9,103565,7,,Stephane Robert,R,185,FRA,23.3292265572,104236,,,Rouzbeh Kamran,U,,IRI,20.0328542094,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,227,156,1411,1
 2003-1765,Tehran CH,Clay,32,C,20030915,10,103726,,,Jean Christophe Faurel,R,175,FRA,22.5270362765,104015,,Q,Mohammed Mohazebnia,L,,IRI,21.2621492129,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,328,97,,
@@ -855,7 +855,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-1765,Tehran CH,Clay,32,C,20030915,17,103169,1,,Oscar Hernandez,R,180,ESP,25.4318959617,106991,,WC,Farshad Talavar,U,,IRI,27.3045859001,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,97,380,1411,1
 2003-1765,Tehran CH,Clay,32,C,20030915,18,103527,6,,Julien Jeanpierre,R,188,FRA,23.5154004107,103432,,,Branislav Sekac,R,,SVK,24.0328542094,6-4 3-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,289,118,552,34
 2003-1765,Tehran CH,Clay,32,C,20030915,19,103545,,,Philipp Mullner,R,,AUT,23.4277891855,103875,,WC,Anoosha Shahgholi,U,,IRI,21.8453114305,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,402,69,,
-2003-1765,Tehran CH,Clay,32,C,20030915,20,103657,,,Ivo Klec,R,183,SVK,22.7953456537,104397,,,Laurent Recouderc,R,,FRA,19.1813826146,6-4 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,351,87,355,85
+2003-1765,Tehran CH,Clay,32,C,20030915,20,103657,,,Ivo Klec,R,183,SVK,22.7953456537,104397,,,Laurent Recouderc,R,178,FRA,19.1813826146,6-4 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,351,87,355,85
 2003-1765,Tehran CH,Clay,32,C,20030915,21,103726,,,Jean Christophe Faurel,R,175,FRA,22.5270362765,103565,7,,Stephane Robert,R,185,FRA,23.3292265572,6-3 5-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,328,97,227,156
 2003-1765,Tehran CH,Clay,32,C,20030915,22,104230,3,,Daniel Koellerer,R,180,AUT,20.0793976728,104160,,,Lukas Dlouhy,R,185,CZE,20.4353182752,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,190,195,396,72
 2003-1765,Tehran CH,Clay,32,C,20030915,23,104252,5,,Florian Mayer,R,190,GER,19.9452429843,103467,,,Victor Bruthans,R,,SVK,23.8494182067,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,268,128,333,94
@@ -991,7 +991,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-1769,Torrance CH,Hard,32,C,20031020,29,103530,,,Zack Fleishman,R,188,USA,23.5920602327,102834,,,Paul Goldstein,R,178,USA,27.2087611225,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,252,141,131,278
 2003-1769,Torrance CH,Hard,32,C,20031020,30,104386,,,Janko Tipsarevic,R,180,SRB,19.3264887064,104098,2,,Dmitry Tursunov,R,185,RUS,20.8542094456,6-3 5-2 RET,3,SF,,,,,,,,,,,,,,,,,,,,168,221,91,401
 2003-1769,Torrance CH,Hard,32,C,20031020,31,104386,,,Janko Tipsarevic,R,180,SRB,19.3264887064,103530,,,Zack Fleishman,R,188,USA,23.5920602327,6-4 6-4,3,F,,,,,,,,,,,,,,,,,,,,168,221,252,141
-2003-1777,Tumkur CH,Hard,32,C,20030929,1,103455,1,,Michal Mertinak,R,180,SVK,23.9671457906,104397,,,Laurent Recouderc,R,,FRA,19.2197125257,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,190,193,350,90
+2003-1777,Tumkur CH,Hard,32,C,20030929,1,103455,1,,Michal Mertinak,R,180,SVK,23.9671457906,104397,,,Laurent Recouderc,R,178,FRA,19.2197125257,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,190,193,350,90
 2003-1777,Tumkur CH,Hard,32,C,20030929,2,104014,,Q,Lee Childs,R,,GBR,21.3004791239,104251,,LL,Ti Chen,R,183,TPE,19.9890485969,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,412,67,435,58
 2003-1777,Tumkur CH,Hard,32,C,20030929,3,103209,,,Leonardo Azzaro,L,188,ITA,25.3333333333,104500,,WC,Somdev Devvarman,R,180,IND,18.6228610541,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,373,81,1442,1
 2003-1777,Tumkur CH,Hard,32,C,20030929,4,103849,,,Francesco Aldi,R,175,ITA,22.0314852841,104372,8,,Alex Bogdanovic,L,183,GBR,19.3538672142,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,298,113,274,124
@@ -1090,7 +1090,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-1780,Dnepropetrovsk CH,Hard,32,C,20031110,4,103333,7,,Ivo Karlovic,R,208,CRO,24.6981519507,101924,,,Stefano Pescosolido,R,185,ITA,32.4106776181,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,72,481,123,315
 2003-1780,Dnepropetrovsk CH,Hard,32,C,20031110,5,103971,3,,Karol Beck,R,180,SVK,21.6043805613,102107,,,Jan Frode Andersen,L,190,NOR,31.1978097194,6-4 6-7(3) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,66,550,192,192
 2003-1780,Dnepropetrovsk CH,Hard,32,C,20031110,6,103824,,Q,Orest Tereshchuk,R,,UKR,22.2286105407,103385,,,Paul Baccanello,R,183,AUS,24.4134154689,7-6(5) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,367,81,130,288
-2003-1780,Dnepropetrovsk CH,Hard,32,C,20031110,7,103166,,,Vladimir Voltchkov,R,180,BLR,25.5934291581,105079,,WC,Ivan Sergeyev,R,,UKR,15.8056125941,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,129,302,,
+2003-1780,Dnepropetrovsk CH,Hard,32,C,20031110,7,103166,,,Vladimir Voltchkov,R,180,BLR,25.5934291581,105079,,WC,Ivan Sergeyev,R,175,UKR,15.8056125941,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,129,302,,
 2003-1780,Dnepropetrovsk CH,Hard,32,C,20031110,8,102318,8,,Andrei Pavel,R,183,ROU,29.7850787132,103009,,,Razvan Sabau,R,185,ROU,26.3956194387,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,74,470,173,214
 2003-1780,Dnepropetrovsk CH,Hard,32,C,20031110,9,104339,5,,Mario Ancic,R,196,CRO,19.613963039,104607,,,Tomas Berdych,R,196,CZE,18.1464750171,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,64,570,103,375
 2003-1780,Dnepropetrovsk CH,Hard,32,C,20031110,10,103248,,,Harel Levy,R,185,ISR,25.2648870637,102851,,,Giorgio Galimberti,R,180,ITA,27.1786447639,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,126,305,135,275
@@ -1253,7 +1253,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-2,Ho Chi Minh CH,Hard,32,C,20030310,12,103110,,,Daniele Bracciali,R,180,ITA,25.1608487337,102863,4,,Takao Suzuki,R,175,JPN,26.4668035592,6-4 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,247,124,199,177
 2003-2,Ho Chi Minh CH,Hard,32,C,20030310,13,103573,5,,Rik De Voest,R,180,RSA,22.7597535934,103209,,,Leonardo Azzaro,L,188,ITA,24.7775496235,7-6(5) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,172,214,239,128
 2003-2,Ho Chi Minh CH,Hard,32,C,20030310,14,103393,,,Yuri Schukin,R,188,KAZ,23.704312115,103254,,Q,Yves Allegro,R,183,SUI,24.5420944559,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,245,125,249,123
-2003-2,Ho Chi Minh CH,Hard,32,C,20030310,15,103420,,,Michal Tabara,R,175,CZE,23.5783709788,109701,,WC,Duc Duong Ngo,U,,VIE,,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,218,148,,
+2003-2,Ho Chi Minh CH,Hard,32,C,20030310,15,103420,,,Michal Tabara,R,175,CZE,23.5783709788,109701,,WC,Duc Duong Ngo,U,,VIE,21.8206707734,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,218,148,,
 2003-2,Ho Chi Minh CH,Hard,32,C,20030310,16,102957,2,,Vadim Kutsenko,R,180,RUS,25.9822039699,102843,,,Suwandi Suwandi,R,178,INA,26.5489390828,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,154,248,793,12
 2003-2,Ho Chi Minh CH,Hard,32,C,20030310,17,104499,,,Jimmy Wang,R,178,TPE,18.0807665982,102381,1,,Werner Eschauer,R,188,AUT,28.8706365503,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,204,169,136,274
 2003-2,Ho Chi Minh CH,Hard,32,C,20030310,18,103821,,,Danai Udomchoke,R,173,THA,21.5770020534,103544,,,Andy Ram,R,180,ISR,22.9130732375,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,220,145,1031,5
@@ -1302,7 +1302,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-213,San Luis Potosi CH,Clay,32,C,20030414,30,101868,5,,Dick Norman,L,203,BEL,32.1204654346,103228,,,Marcos Daniel,R,180,BRA,24.7775496235,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,141,264,216,151
 2003-213,San Luis Potosi CH,Clay,32,C,20030414,31,101868,5,,Dick Norman,L,203,BEL,32.1204654346,102768,,,Federico Browne,R,180,ARG,27.0171115674,7-5 0-6 6-4,3,F,,,,,,,,,,,,,,,,,,,,141,264,178,197
 2003-221,Tampere CH,Clay,32,C,20030721,1,104417,1,,Robin Soderling,R,193,SWE,18.932238193,103149,,Q,Mathias Hellstrom,R,,SWE,25.4099931554,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,118,324,426,59
-2003-221,Tampere CH,Clay,32,C,20030721,2,104397,,Q,Laurent Recouderc,R,,FRA,19.0280629706,109231,,WC,Janne Holmia,U,,FIN,20.6023271732,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,570,31,,
+2003-221,Tampere CH,Clay,32,C,20030721,2,104397,,Q,Laurent Recouderc,R,178,FRA,19.0280629706,109231,,WC,Janne Holmia,U,,FIN,20.6023271732,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,570,31,,
 2003-221,Tampere CH,Clay,32,C,20030721,3,103393,,,Yuri Schukin,R,188,KAZ,24.0684462697,103967,,,Michael Lammer,R,185,SUI,21.3223819302,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,275,114,327,88
 2003-221,Tampere CH,Clay,32,C,20030721,4,103063,6,,Sebastien De Chaunac,R,183,FRA,25.7850787132,103358,,,Nicolas Todero,R,183,ARG,24.2655715264,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,227,153,329,87
 2003-221,Tampere CH,Clay,32,C,20030721,5,103035,,,Alessio Di Mauro,L,185,ITA,25.9466119097,104004,,LL,Filip Prpic,R,173,SWE,21.1526351814,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,267,119,379,70
@@ -1317,7 +1317,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-221,Tampere CH,Clay,32,C,20030721,14,103916,,,Cristian Villagran,R,180,ARG,21.4976043806,103877,,,Mike Scheidweiler,R,188,LUX,21.6810403833,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,301,100,307,97
 2003-221,Tampere CH,Clay,32,C,20030721,15,103535,,,Olivier Patience,R,180,FRA,23.3210130048,103976,,,Juan Pablo Brzezicki,R,178,ARG,21.273100616,4-6 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,294,104,271,115
 2003-221,Tampere CH,Clay,32,C,20030721,16,102997,2,,Hermes Gamonal,R,180,CHI,26.1382614648,102902,,,Thomas Blake,R,,USA,26.5571526352,6-2 6-7(4) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,160,241,326,89
-2003-221,Tampere CH,Clay,32,C,20030721,17,104417,1,,Robin Soderling,R,193,SWE,18.932238193,104397,,Q,Laurent Recouderc,R,,FRA,19.0280629706,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,118,324,570,31
+2003-221,Tampere CH,Clay,32,C,20030721,17,104417,1,,Robin Soderling,R,193,SWE,18.932238193,104397,,Q,Laurent Recouderc,R,178,FRA,19.0280629706,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,118,324,570,31
 2003-221,Tampere CH,Clay,32,C,20030721,18,103393,,,Yuri Schukin,R,188,KAZ,24.0684462697,103063,6,,Sebastien De Chaunac,R,183,FRA,25.7850787132,6-1 3-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,275,114,227,153
 2003-221,Tampere CH,Clay,32,C,20030721,19,103035,,,Alessio Di Mauro,L,185,ITA,25.9466119097,103296,,,Ivaylo Traykov,R,188,BUL,24.59137577,3-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,267,119,224,155
 2003-221,Tampere CH,Clay,32,C,20030721,20,104081,,,Boris Pashanski,R,180,SRB,20.7118412047,103165,,,Gorka Fraile,R,180,ESP,25.28678987,6-4 2-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,249,133,318,93
@@ -1371,7 +1371,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-234,Belo Horizonte CH,Hard,32,C,20030728,6,102545,,,Pedro Braga,R,,BRA,28.4134154689,109587,,WC,Guilherme Silveira,U,,BRA,,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,297,107,,
 2003-234,Belo Horizonte CH,Hard,32,C,20030728,7,103999,,,Thiago Alves,R,178,BRA,21.18275154,103328,,,Andres Pedroso,R,,USA,24.4298425736,7-6(3) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,446,54,316,96
 2003-234,Belo Horizonte CH,Hard,32,C,20030728,8,103397,8,,Alexandre Simoni,R,188,BRA,24.0711841205,109588,,WC,Gabriel Franco,U,,BRA,,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,244,140,,
-2003-234,Belo Horizonte CH,Hard,32,C,20030728,9,103841,,,Julio Peralta,R,,CHI,21.8809034908,103130,7,,Louis Vosloo,R,178,RSA,25.492128679,4-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,317,95,227,154
+2003-234,Belo Horizonte CH,Hard,32,C,20030728,9,103841,,,Julio Peralta,R,188,CHI,21.8809034908,103130,7,,Louis Vosloo,R,178,RSA,25.492128679,4-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,317,95,227,154
 2003-234,Belo Horizonte CH,Hard,32,C,20030728,10,103403,,,Takahiro Terachi,R,,JPN,24.0547570157,101953,,Q,Kentaro Masuda,R,,JPN,31.9206023272,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,265,124,551,34
 2003-234,Belo Horizonte CH,Hard,32,C,20030728,11,103946,,Q,Bruno Soares,R,180,BRA,21.4127310062,102667,,,Satoshi Iwabuchi,L,175,JPN,27.8056125941,6-2 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,420,61,234,146
 2003-234,Belo Horizonte CH,Hard,32,C,20030728,12,103228,3,,Marcos Daniel,R,180,BRA,25.0650239562,103395,,,Julio Silva,R,173,BRA,24.0739219713,4-6 6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,190,198,294,108
@@ -1383,17 +1383,17 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-234,Belo Horizonte CH,Hard,32,C,20030728,18,100886,,WC,Gregg Hill,R,,USA,40.5612594114,104229,6,,Yen Hsun Lu,R,180,TPE,19.9534565366,3-6 6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1360,1,222,157
 2003-234,Belo Horizonte CH,Hard,32,C,20030728,19,103821,4,,Danai Udomchoke,R,173,THA,21.9603011636,102545,,,Pedro Braga,R,,BRA,28.4134154689,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,204,173,297,107
 2003-234,Belo Horizonte CH,Hard,32,C,20030728,20,103999,,,Thiago Alves,R,178,BRA,21.18275154,103397,8,,Alexandre Simoni,R,188,BRA,24.0711841205,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,446,54,244,140
-2003-234,Belo Horizonte CH,Hard,32,C,20030728,21,103841,,,Julio Peralta,R,,CHI,21.8809034908,103403,,,Takahiro Terachi,R,,JPN,24.0547570157,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,317,95,265,124
+2003-234,Belo Horizonte CH,Hard,32,C,20030728,21,103841,,,Julio Peralta,R,188,CHI,21.8809034908,103403,,,Takahiro Terachi,R,,JPN,24.0547570157,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,317,95,265,124
 2003-234,Belo Horizonte CH,Hard,32,C,20030728,22,103228,3,,Marcos Daniel,R,180,BRA,25.0650239562,103946,,Q,Bruno Soares,R,180,BRA,21.4127310062,6-4 6-7(4) 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,190,198,420,61
 2003-234,Belo Horizonte CH,Hard,32,C,20030728,23,103060,,,Alejandro Hernandez,R,180,MEX,25.8206707734,104117,5,,Giovanni Lapentti,R,193,ECU,20.5037645448,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,339,86,147,265
 2003-234,Belo Horizonte CH,Hard,32,C,20030728,24,103015,,,Daniel Melo,L,185,BRA,26.0643394935,103520,,,Pavel Snobel,L,190,CZE,23.4113620808,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,349,82,263,126
 2003-234,Belo Horizonte CH,Hard,32,C,20030728,25,103746,,,Miguel Gallardo Valles,R,,MEX,22.302532512,100886,,WC,Gregg Hill,R,,USA,40.5612594114,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,286,111,1360,1
 2003-234,Belo Horizonte CH,Hard,32,C,20030728,26,103821,4,,Danai Udomchoke,R,173,THA,21.9603011636,103999,,,Thiago Alves,R,178,BRA,21.18275154,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,204,173,446,54
-2003-234,Belo Horizonte CH,Hard,32,C,20030728,27,103841,,,Julio Peralta,R,,CHI,21.8809034908,103228,3,,Marcos Daniel,R,180,BRA,25.0650239562,6-2 4-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,317,95,190,198
+2003-234,Belo Horizonte CH,Hard,32,C,20030728,27,103841,,,Julio Peralta,R,188,CHI,21.8809034908,103228,3,,Marcos Daniel,R,180,BRA,25.0650239562,6-2 4-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,317,95,190,198
 2003-234,Belo Horizonte CH,Hard,32,C,20030728,28,103060,,,Alejandro Hernandez,R,180,MEX,25.8206707734,103015,,,Daniel Melo,L,185,BRA,26.0643394935,4-6 6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,339,86,349,82
 2003-234,Belo Horizonte CH,Hard,32,C,20030728,29,103821,4,,Danai Udomchoke,R,173,THA,21.9603011636,103746,,,Miguel Gallardo Valles,R,,MEX,22.302532512,6-1 6-0,3,SF,,,,,,,,,,,,,,,,,,,,204,173,286,111
-2003-234,Belo Horizonte CH,Hard,32,C,20030728,30,103841,,,Julio Peralta,R,,CHI,21.8809034908,103060,,,Alejandro Hernandez,R,180,MEX,25.8206707734,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,317,95,339,86
-2003-234,Belo Horizonte CH,Hard,32,C,20030728,31,103841,,,Julio Peralta,R,,CHI,21.8809034908,103821,4,,Danai Udomchoke,R,173,THA,21.9603011636,7-6(6) 1-6 6-1,3,F,,,,,,,,,,,,,,,,,,,,317,95,204,173
+2003-234,Belo Horizonte CH,Hard,32,C,20030728,30,103841,,,Julio Peralta,R,188,CHI,21.8809034908,103060,,,Alejandro Hernandez,R,180,MEX,25.8206707734,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,317,95,339,86
+2003-234,Belo Horizonte CH,Hard,32,C,20030728,31,103841,,,Julio Peralta,R,188,CHI,21.8809034908,103821,4,,Danai Udomchoke,R,173,THA,21.9603011636,7-6(6) 1-6 6-1,3,F,,,,,,,,,,,,,,,,,,,,317,95,204,173
 2003-251,Kiev CH,Clay,32,C,20030901,1,103789,1,,Irakli Labadze,L,188,GEO,22.2094455852,103997,,,Lukasz Kubot,R,190,POL,21.2758384668,6-2 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,105,357,341,89
 2003-251,Kiev CH,Clay,32,C,20030901,2,103468,,,Harsh Mankad,R,173,IND,23.7891854894,109018,,WC,Dmitri Kotchetkov,R,,AUT,22.6666666667,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,360,81,1126,4
 2003-251,Kiev CH,Clay,32,C,20030901,3,104219,,,Stephane Bohli,R,185,SUI,20.0848733744,103165,,,Gorka Fraile,R,180,ESP,25.3826146475,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,299,110,301,110
@@ -1494,7 +1494,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-313,Bristol CH,Grass,32,C,20030707,5,103003,3,,Jean Francois Bachelot,R,183,FRA,26.0698151951,103657,,,Ivo Klec,R,183,SVK,22.6036960986,7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,202,174,343,80
 2003-313,Bristol CH,Grass,32,C,20030707,6,101947,,,Vincenzo Santopadre,L,183,ITA,31.9041752225,103110,,,Daniele Bracciali,R,180,ITA,25.4866529774,6-7(4) 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,235,140,247,127
 2003-313,Bristol CH,Grass,32,C,20030707,7,101750,,,Cristiano Caratti,R,178,ITA,33.1197809719,103114,,,Martin Lee,L,180,GBR,25.4784394251,7-6(2) 6-7(6) 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,252,121,333,83
-2003-313,Bristol CH,Grass,32,C,20030707,8,102184,8,,David Prinosil,R,185,GER,30.3271731691,103993,,WC,Chris Lewis,U,,GBR,21.158110883,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,237,137,502,40
+2003-313,Bristol CH,Grass,32,C,20030707,8,102184,8,,David Prinosil,R,185,GER,30.3271731691,103993,,WC,Chris Lewis,R,180,GBR,21.158110883,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,237,137,502,40
 2003-313,Bristol CH,Grass,32,C,20030707,9,102921,,,Ota Fukarek,R,190,CZE,26.4640657084,103157,7,,Arvind Parmar,R,193,GBR,25.2922655715,6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,246,128,205,170
 2003-313,Bristol CH,Grass,32,C,20030707,10,103828,,,Jean Julien Rojer,R,183,AHO,21.864476386,102667,,,Satoshi Iwabuchi,L,175,JPN,27.7481177276,7-6(7) 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,233,141,264,113
 2003-313,Bristol CH,Grass,32,C,20030707,11,103435,,,Massimo Dellacqua,R,193,ITA,23.832991102,102658,,LL,Marc Bauer,R,,FRA,27.7864476386,6-4 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,260,115,529,35
@@ -1780,7 +1780,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-444,Bratislava CH,Hard,32,C,20031103,12,103789,,,Irakli Labadze,L,188,GEO,22.4010951403,103971,4,,Karol Beck,R,180,SVK,21.5852156057,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,91,415,60,599
 2003-444,Bratislava CH,Hard,32,C,20031103,13,104019,,Q,Kristof Vliegen,R,193,BEL,21.3661875428,102179,5,,Antony Dupuis,R,185,FRA,30.688569473,7-6(3) 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,115,330,68,531
 2003-444,Bratislava CH,Hard,32,C,20031103,14,104755,,,Richard Gasquet,R,185,FRA,17.3771389459,102381,,,Werner Eschauer,R,188,AUT,29.5222450376,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,93,401,135,277
-2003-444,Bratislava CH,Hard,32,C,20031103,15,104743,,WC,Kamil Capkovic,R,,SVK,17.4209445585,103435,,,Massimo Dellacqua,R,193,ITA,24.1587953457,6-4 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,862,10,162,226
+2003-444,Bratislava CH,Hard,32,C,20031103,15,104743,,WC,Kamil Capkovic,R,198,SVK,17.4209445585,103435,,,Massimo Dellacqua,R,193,ITA,24.1587953457,6-4 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,862,10,162,226
 2003-444,Bratislava CH,Hard,32,C,20031103,16,104607,,,Tomas Berdych,R,196,CZE,18.1273100616,104417,2,,Robin Soderling,R,193,SWE,19.2197125257,7-6(3) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,114,340,63,578
 2003-444,Bratislava CH,Hard,32,C,20031103,17,103103,1,,Dominik Hrbaty,R,183,SVK,25.8288843258,103294,,,Christophe Rochus,R,170,BEL,24.8843258042,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,61,584,83,436
 2003-444,Bratislava CH,Hard,32,C,20031103,18,102770,,,John Van Lottum,R,185,NED,27.5646817248,103938,,Q,Igor Zelenay,R,198,SVK,21.7275838467,7-6(7) 1-6 7-6(1),3,R16,,,,,,,,,,,,,,,,,,,,85,429,401,70
@@ -1789,7 +1789,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-444,Bratislava CH,Hard,32,C,20031103,21,102539,,Q,Bohdan Ulihrach,R,188,CZE,28.6926762491,102106,6,,Davide Sanguinetti,R,188,ITA,31.189596167,6-2 2-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,304,108,73,487
 2003-444,Bratislava CH,Hard,32,C,20031103,22,101820,,,Marc Rosset,R,201,SUI,32.9883641342,103789,,,Irakli Labadze,L,188,GEO,22.4010951403,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,131,284,91,415
 2003-444,Bratislava CH,Hard,32,C,20031103,23,104019,,Q,Kristof Vliegen,R,193,BEL,21.3661875428,104755,,,Richard Gasquet,R,185,FRA,17.3771389459,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,115,330,93,401
-2003-444,Bratislava CH,Hard,32,C,20031103,24,104607,,,Tomas Berdych,R,196,CZE,18.1273100616,104743,,WC,Kamil Capkovic,R,,SVK,17.4209445585,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,114,340,862,10
+2003-444,Bratislava CH,Hard,32,C,20031103,24,104607,,,Tomas Berdych,R,196,CZE,18.1273100616,104743,,WC,Kamil Capkovic,R,198,SVK,17.4209445585,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,114,340,862,10
 2003-444,Bratislava CH,Hard,32,C,20031103,25,102770,,,John Van Lottum,R,185,NED,27.5646817248,103103,1,,Dominik Hrbaty,R,183,SVK,25.8288843258,3-6 7-6(6) 7-5,3,QF,,,,,,,,,,,,,,,,,,,,85,429,61,584
 2003-444,Bratislava CH,Hard,32,C,20031103,26,102374,,WC,Alex Corretja,R,180,ESP,29.5633127995,102306,,Q,Michael Kohlmann,R,188,GER,29.8097193703,7-6(5) 7-6(9),3,QF,,,,,,,,,,,,,,,,,,,,109,360,377,77
 2003-444,Bratislava CH,Hard,32,C,20031103,27,101820,,,Marc Rosset,R,201,SUI,32.9883641342,102539,,Q,Bohdan Ulihrach,R,188,CZE,28.6926762491,6-4 3-6 7-5,3,QF,,,,,,,,,,,,,,,,,,,,131,284,304,108
@@ -2048,7 +2048,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-486,Manerbio CH,Clay,32,C,20030818,1,103506,1,,Martin Vassallo Arguello,R,183,ARG,23.5181382615,102921,,,Ota Fukarek,R,190,CZE,26.5790554415,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,118,317,313,99
 2003-486,Manerbio CH,Clay,32,C,20030818,2,102690,,,Matteo Colla,R,,ITA,27.7344284736,109012,,WC,Claudio Rizzo,U,,ITA,19.5674195756,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,350,83,1372,1
 2003-486,Manerbio CH,Clay,32,C,20030818,3,103967,,,Michael Lammer,R,185,SUI,21.3990417522,103218,,Q,Manuel Jorquera,R,,ITA,25.18275154,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,337,89,757,14
-2003-486,Manerbio CH,Clay,32,C,20030818,4,103841,7,,Julio Peralta,R,,CHI,21.9383983573,103916,,,Cristian Villagran,R,180,ARG,21.5742642026,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,236,145,290,112
+2003-486,Manerbio CH,Clay,32,C,20030818,4,103841,7,,Julio Peralta,R,188,CHI,21.9383983573,103916,,,Cristian Villagran,R,180,ARG,21.5742642026,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,236,145,290,112
 2003-486,Manerbio CH,Clay,32,C,20030818,5,103626,4,,Tomas Tenconi,R,178,ITA,22.9541409993,104038,,WC,Andrea Agazzi,U,,ITA,21.0704996578,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,243,140,1372,1
 2003-486,Manerbio CH,Clay,32,C,20030818,6,103716,,Q,Uros Vico,R,188,ITA,22.4914442163,104268,,Q,Alejandro Falla,L,185,COL,19.7590691307,6-4 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,302,108,326,95
 2003-486,Manerbio CH,Clay,32,C,20030818,7,103281,,,Ladislav Svarc,R,188,SVK,24.7611225188,104182,,,Sasa Tuksar,R,180,CRO,20.2683093771,6-2 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,344,87,310,99
@@ -2062,14 +2062,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-486,Manerbio CH,Clay,32,C,20030818,15,102554,,,Diego Moyano,R,175,ARG,28.4298425736,104091,,,Miguel Angel Lopez Jaen,R,188,ESP,20.7173169062,6-2 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,267,125,276,121
 2003-486,Manerbio CH,Clay,32,C,20030818,16,103035,2,,Alessio Di Mauro,L,185,ITA,26.0232717317,103868,,,Ivan Navarro,R,183,ESP,21.8288843258,6-2 3-6 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,176,218,304,107
 2003-486,Manerbio CH,Clay,32,C,20030818,17,103506,1,,Martin Vassallo Arguello,R,183,ARG,23.5181382615,102690,,,Matteo Colla,R,,ITA,27.7344284736,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,118,317,350,83
-2003-486,Manerbio CH,Clay,32,C,20030818,18,103841,7,,Julio Peralta,R,,CHI,21.9383983573,103967,,,Michael Lammer,R,185,SUI,21.3990417522,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,236,145,337,89
+2003-486,Manerbio CH,Clay,32,C,20030818,18,103841,7,,Julio Peralta,R,188,CHI,21.9383983573,103967,,,Michael Lammer,R,185,SUI,21.3990417522,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,236,145,337,89
 2003-486,Manerbio CH,Clay,32,C,20030818,19,103626,4,,Tomas Tenconi,R,178,ITA,22.9541409993,103716,,Q,Uros Vico,R,188,ITA,22.4914442163,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,243,140,302,108
 2003-486,Manerbio CH,Clay,32,C,20030818,20,104597,5,,Nicolas Almagro,R,183,ESP,17.9904175222,103281,,,Ladislav Svarc,R,188,SVK,24.7611225188,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,205,173,344,87
 2003-486,Manerbio CH,Clay,32,C,20030818,21,104273,,,Edouard Roger Vasselin,R,188,FRA,19.7207392197,103229,,Q,Kornel Bardoczky,R,,HUN,25.1197809719,7-6(2) 3-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,387,72,384,72
 2003-486,Manerbio CH,Clay,32,C,20030818,22,103535,,,Olivier Patience,R,180,FRA,23.3976728268,103988,3,,Mariano Albert Ferrando,R,,ESP,21.311430527,5-7 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,269,124,198,185
 2003-486,Manerbio CH,Clay,32,C,20030818,23,103193,,,Peter Wessels,R,196,NED,25.2813141684,102243,6,,Marcelo Charpentier,L,180,ARG,30.1026694045,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,330,92,226,152
 2003-486,Manerbio CH,Clay,32,C,20030818,24,103035,2,,Alessio Di Mauro,L,185,ITA,26.0232717317,102554,,,Diego Moyano,R,175,ARG,28.4298425736,2-6 7-6(5) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,176,218,267,125
-2003-486,Manerbio CH,Clay,32,C,20030818,25,103506,1,,Martin Vassallo Arguello,R,183,ARG,23.5181382615,103841,7,,Julio Peralta,R,,CHI,21.9383983573,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,118,317,236,145
+2003-486,Manerbio CH,Clay,32,C,20030818,25,103506,1,,Martin Vassallo Arguello,R,183,ARG,23.5181382615,103841,7,,Julio Peralta,R,188,CHI,21.9383983573,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,118,317,236,145
 2003-486,Manerbio CH,Clay,32,C,20030818,26,104597,5,,Nicolas Almagro,R,183,ESP,17.9904175222,103626,4,,Tomas Tenconi,R,178,ITA,22.9541409993,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,205,173,243,140
 2003-486,Manerbio CH,Clay,32,C,20030818,27,103535,,,Olivier Patience,R,180,FRA,23.3976728268,104273,,,Edouard Roger Vasselin,R,188,FRA,19.7207392197,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,269,124,387,72
 2003-486,Manerbio CH,Clay,32,C,20030818,28,103193,,,Peter Wessels,R,196,NED,25.2813141684,103035,2,,Alessio Di Mauro,L,185,ITA,26.0232717317,4-6 7-6(2) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,330,92,176,218
@@ -2390,7 +2390,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-526,Braunschweig CH,Clay,32,C,20030616,2,103656,,,Albert Montanes,R,175,ESP,22.5516769336,102768,,,Federico Browne,R,180,ARG,27.189596167,6-3 2-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,116,346,128,303
 2003-526,Braunschweig CH,Clay,32,C,20030616,3,104607,,,Tomas Berdych,R,196,CZE,17.7440109514,103052,,,Mariano Delfino,R,183,ARG,25.735797399,7-6(8) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,238,130,172,207
 2003-526,Braunschweig CH,Clay,32,C,20030616,4,104259,,Q,Philipp Kohlschreiber,R,178,GER,19.665982204,103454,5,,Nicolas Massu,R,183,CHI,23.6824093087,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,285,102,80,537
-2003-526,Braunschweig CH,Clay,32,C,20030616,5,103841,,Q,Julio Peralta,R,,CHI,21.7659137577,103103,3,,Dominik Hrbaty,R,183,SVK,25.4455852156,7-6(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,338,81,60,650
+2003-526,Braunschweig CH,Clay,32,C,20030616,5,103841,,Q,Julio Peralta,R,188,CHI,21.7659137577,103103,3,,Dominik Hrbaty,R,183,SVK,25.4455852156,7-6(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,338,81,60,650
 2003-526,Braunschweig CH,Clay,32,C,20030616,6,104214,,,Igor Andreev,R,185,RUS,19.923340178,103752,,,Simon Greul,R,185,GER,22.173853525,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,223,147,148,254
 2003-526,Braunschweig CH,Clay,32,C,20030616,7,103182,,,Markus Hipfl,R,178,AUT,25.1389459274,104409,,WC,Florian Nufer,U,,GER,18.893908282,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,351,79,,
 2003-526,Braunschweig CH,Clay,32,C,20030616,8,103711,,Q,Jaroslav Levinsky,R,196,CZE,22.340862423,102644,6,,Franco Squillari,L,183,ARG,27.8165639973,6-2 1-6 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,448,52,86,488
@@ -2404,7 +2404,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-526,Braunschweig CH,Clay,32,C,20030616,16,103714,,,Andreas Vinciguerra,L,180,SWE,22.3189596167,103176,2,,David Sanchez,R,183,ESP,25.1553730322,7-6(8) 1-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,108,362,50,738
 2003-526,Braunschweig CH,Clay,32,C,20030616,17,103656,,,Albert Montanes,R,175,ESP,22.5516769336,102783,1,,Rainer Schuettler,R,180,GER,27.1403148528,W/O,3,R16,,,,,,,,,,,,,,,,,,,,116,346,8,1925
 2003-526,Braunschweig CH,Clay,32,C,20030616,18,104607,,,Tomas Berdych,R,196,CZE,17.7440109514,104259,,Q,Philipp Kohlschreiber,R,178,GER,19.665982204,4-6 7-6(5) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,238,130,285,102
-2003-526,Braunschweig CH,Clay,32,C,20030616,19,104214,,,Igor Andreev,R,185,RUS,19.923340178,103841,,Q,Julio Peralta,R,,CHI,21.7659137577,6-2 6-7(3) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,223,147,338,81
+2003-526,Braunschweig CH,Clay,32,C,20030616,19,104214,,,Igor Andreev,R,185,RUS,19.923340178,103841,,Q,Julio Peralta,R,188,CHI,21.7659137577,6-2 6-7(3) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,223,147,338,81
 2003-526,Braunschweig CH,Clay,32,C,20030616,20,103182,,,Markus Hipfl,R,178,AUT,25.1389459274,103711,,Q,Jaroslav Levinsky,R,196,CZE,22.340862423,7-6(5) 3-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,351,79,448,52
 2003-526,Braunschweig CH,Clay,32,C,20030616,21,102381,,,Werner Eschauer,R,188,AUT,29.1389459274,103632,8,,Luis Horna,R,180,PER,22.7515400411,3-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,124,324,100,386
 2003-526,Braunschweig CH,Clay,32,C,20030616,22,103252,4,,Alberto Martin,R,175,ESP,24.8213552361,102494,,,Tomas Behrend,R,193,GER,28.5092402464,6-4 6-7(4) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,65,635,98,398
@@ -2491,7 +2491,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-550,Sofia CH,Clay,32,C,20030908,10,103077,,Q,Konstantinos Economidis,R,188,GRE,25.8480492813,190030,,WC,Enrico Becuzzi,R,,ITA,30.4613278576,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,375,77,,
 2003-550,Sofia CH,Clay,32,C,20030908,11,103936,,WC,Todor Enev,R,,BUL,21.5797399042,109412,,Q,Dimo Tolev,R,,BUL,23.5345653662,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,401,70,,
 2003-550,Sofia CH,Clay,32,C,20030908,12,102231,4,,Alex Calatrava,R,190,ESP,30.2340862423,103393,,,Yuri Schukin,R,188,KAZ,24.2026009582,1-6 6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,140,258,233,146
-2003-550,Sofia CH,Clay,32,C,20030908,13,103035,5,,Alessio Di Mauro,L,185,ITA,26.0807665982,104397,,Q,Laurent Recouderc,R,,FRA,19.1622176591,7-6(2) 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,177,216,366,82
+2003-550,Sofia CH,Clay,32,C,20030908,13,103035,5,,Alessio Di Mauro,L,185,ITA,26.0807665982,104397,,Q,Laurent Recouderc,R,178,FRA,19.1622176591,7-6(2) 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,177,216,366,82
 2003-550,Sofia CH,Clay,32,C,20030908,14,103296,,,Ivaylo Traykov,R,188,BUL,24.7255304586,102472,,,Marcello Craca,R,180,GER,28.8651608487,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,211,170,238,143
 2003-550,Sofia CH,Clay,32,C,20030908,15,103305,,,Daniel Elsner,R,183,GER,24.6762491444,103587,,,Andres Dellatorre,R,190,ARG,23.1649555099,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,182,209,231,150
 2003-550,Sofia CH,Clay,32,C,20030908,16,104198,,,Guillermo Garcia Lopez,R,188,ESP,20.2628336756,104386,2,,Janko Tipsarevic,R,180,SRB,19.2114989733,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,301,111,134,268
@@ -2543,7 +2543,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-552,Barcelona CH,Clay,32,C,20031006,31,102287,3,,Albert Portas,R,188,ESP,29.8891170431,103656,4,,Albert Montanes,R,175,ESP,22.8583162218,6-4 6-4,3,F,,,,,,,,,,,,,,,,,,,,82,448,85,433
 2003-558,Prostejov CH,Clay,32,C,20030602,1,102788,,,Jan Vacek,R,198,CZE,27.0417522245,102562,1,,Jiri Novak,R,190,CZE,28.1779603012,6-3 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,107,370,14,1731
 2003-558,Prostejov CH,Clay,32,C,20030602,2,104269,,,Fernando Verdasco,L,188,ESP,19.5263518138,104225,,,Jan Hajek,R,180,CZE,19.8001368925,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,128,308,183,189
-2003-558,Prostejov CH,Clay,32,C,20030602,3,103841,,Q,Julio Peralta,R,,CHI,21.7084188912,102023,,Q,Petr Luxa,R,190,CZE,31.227926078,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,366,70,287,101
+2003-558,Prostejov CH,Clay,32,C,20030602,3,103841,,Q,Julio Peralta,R,188,CHI,21.7084188912,102023,,Q,Petr Luxa,R,190,CZE,31.227926078,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,366,70,287,101
 2003-558,Prostejov CH,Clay,32,C,20030602,4,103264,7,,Mariano Puerta,L,180,ARG,24.681724846,102910,,,Salvador Navarro,R,180,ESP,26.3764544832,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,97,408,189,181
 2003-558,Prostejov CH,Clay,32,C,20030602,5,103103,4,,Dominik Hrbaty,R,183,SVK,25.3880903491,103248,,,Harel Levy,R,185,ISR,24.8049281314,6-1 6-7(7) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,62,660,167,210
 2003-558,Prostejov CH,Clay,32,C,20030602,6,103105,,,Ruben Ramirez Hidalgo,R,183,ESP,25.3826146475,102831,,,Jacobo Diaz,R,173,ESP,26.8720054757,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,118,329,550,32
@@ -2558,7 +2558,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-558,Prostejov CH,Clay,32,C,20030602,15,103714,,,Andreas Vinciguerra,L,180,SWE,22.2614647502,102720,,,Tomas Zib,R,178,CZE,27.3155373032,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,114,349,145,251
 2003-558,Prostejov CH,Clay,32,C,20030602,16,103285,2,,Radek Stepanek,R,185,CZE,24.4928131417,103535,,,Olivier Patience,R,180,FRA,23.1676933607,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,47,787,323,86
 2003-558,Prostejov CH,Clay,32,C,20030602,17,104269,,,Fernando Verdasco,L,188,ESP,19.5263518138,102788,,,Jan Vacek,R,198,CZE,27.0417522245,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,128,308,107,370
-2003-558,Prostejov CH,Clay,32,C,20030602,18,103264,7,,Mariano Puerta,L,180,ARG,24.681724846,103841,,Q,Julio Peralta,R,,CHI,21.7084188912,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,97,408,366,70
+2003-558,Prostejov CH,Clay,32,C,20030602,18,103264,7,,Mariano Puerta,L,180,ARG,24.681724846,103841,,Q,Julio Peralta,R,188,CHI,21.7084188912,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,97,408,366,70
 2003-558,Prostejov CH,Clay,32,C,20030602,19,103103,4,,Dominik Hrbaty,R,183,SVK,25.3880903491,103105,,,Ruben Ramirez Hidalgo,R,183,ESP,25.3826146475,3-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,62,660,118,329
 2003-558,Prostejov CH,Clay,32,C,20030602,20,102997,,,Hermes Gamonal,R,180,CHI,25.9849418207,103429,,,Peter Luczak,R,183,AUS,23.7344284736,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,195,175,135,287
 2003-558,Prostejov CH,Clay,32,C,20030602,21,103444,8,,Jean Rene Lisnard,R,173,MON,23.665982204,103318,,,Zeljko Krajan,R,178,CRO,24.3066392882,7-5 0-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,98,405,103,388
@@ -2865,7 +2865,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-600,Prague CH,Clay,32,C,20030519,11,103420,,,Michal Tabara,R,175,CZE,23.7700205339,109644,,WC,Vagen Akapian,U,,BLR,,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,247,121,,
 2003-600,Prague CH,Clay,32,C,20030519,12,102644,3,,Franco Squillari,L,183,ARG,27.7399041752,102472,,,Marcello Craca,R,180,GER,28.5585215606,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,90,447,241,125
 2003-600,Prague CH,Clay,32,C,20030519,13,104371,,Q,Ivo Minar,R,183,CZE,18.9924709103,103714,7,,Andreas Vinciguerra,L,180,SWE,22.2422997947,7-6(2) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,444,51,113,349
-2003-600,Prague CH,Clay,32,C,20030519,14,103841,,Q,Julio Peralta,R,,CHI,21.6892539357,103154,,,Jaymon Crabb,R,183,AUS,25.2019164956,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,459,48,258,115
+2003-600,Prague CH,Clay,32,C,20030519,14,103841,,Q,Julio Peralta,R,188,CHI,21.6892539357,103154,,,Jaymon Crabb,R,183,AUS,25.2019164956,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,459,48,258,115
 2003-600,Prague CH,Clay,32,C,20030519,15,103505,,,Vasilis Mazarakis,R,178,GRE,23.2717316906,102669,,,Noam Behr,L,188,ISR,27.5975359343,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,146,255,283,101
 2003-600,Prague CH,Clay,32,C,20030519,16,102287,2,,Albert Portas,R,188,ESP,29.5058179329,102023,,,Petr Luxa,R,190,CZE,31.2087611225,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,83,503,285,100
 2003-600,Prague CH,Clay,32,C,20030519,17,102854,1,,Sjeng Schalken,R,193,NED,26.6913073238,102715,,,Ignacio Hirigoyen,R,183,ARG,27.318275154,6-2 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,13,1735,298,95
@@ -2875,12 +2875,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-600,Prague CH,Clay,32,C,20030519,20,102788,8,,Jan Vacek,R,198,CZE,27.022587269,103716,,,Uros Vico,R,188,ITA,22.2422997947,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,115,339,280,103
 2003-600,Prague CH,Clay,32,C,20030519,21,103656,6,,Albert Montanes,R,175,ESP,22.4750171116,102880,,,Alexander Popp,R,201,GER,26.5352498289,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,106,369,177,198
 2003-600,Prague CH,Clay,32,C,20030519,22,102644,3,,Franco Squillari,L,183,ARG,27.7399041752,103420,,,Michal Tabara,R,175,CZE,23.7700205339,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,90,447,247,121
-2003-600,Prague CH,Clay,32,C,20030519,23,103841,,Q,Julio Peralta,R,,CHI,21.6892539357,104371,,Q,Ivo Minar,R,183,CZE,18.9924709103,4-6 6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,459,48,444,51
+2003-600,Prague CH,Clay,32,C,20030519,23,103841,,Q,Julio Peralta,R,188,CHI,21.6892539357,104371,,Q,Ivo Minar,R,183,CZE,18.9924709103,4-6 6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,459,48,444,51
 2003-600,Prague CH,Clay,32,C,20030519,24,102287,2,,Albert Portas,R,188,ESP,29.5058179329,103505,,,Vasilis Mazarakis,R,178,GRE,23.2717316906,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,83,503,146,255
 2003-600,Prague CH,Clay,32,C,20030519,25,102854,1,,Sjeng Schalken,R,193,NED,26.6913073238,103401,,,Jan Hernych,R,190,CZE,23.8658453114,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,13,1735,260,114
 2003-600,Prague CH,Clay,32,C,20030519,26,102788,8,,Jan Vacek,R,198,CZE,27.022587269,102925,4,,Justin Gimelstob,R,196,USA,26.3080082136,6-3 1-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,115,339,95,427
 2003-600,Prague CH,Clay,32,C,20030519,27,103656,6,,Albert Montanes,R,175,ESP,22.4750171116,102644,3,,Franco Squillari,L,183,ARG,27.7399041752,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,106,369,90,447
-2003-600,Prague CH,Clay,32,C,20030519,28,102287,2,,Albert Portas,R,188,ESP,29.5058179329,103841,,Q,Julio Peralta,R,,CHI,21.6892539357,7-6(4) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,83,503,459,48
+2003-600,Prague CH,Clay,32,C,20030519,28,102287,2,,Albert Portas,R,188,ESP,29.5058179329,103841,,Q,Julio Peralta,R,188,CHI,21.6892539357,7-6(4) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,83,503,459,48
 2003-600,Prague CH,Clay,32,C,20030519,29,102854,1,,Sjeng Schalken,R,193,NED,26.6913073238,102788,8,,Jan Vacek,R,198,CZE,27.022587269,6-4 6-1,3,SF,,,,,,,,,,,,,,,,,,,,13,1735,115,339
 2003-60,Barletta CH,Clay,32,C,20030324,3,102548,,,Juan Antonio Marin,R,175,CRC,28.0410677618,103174,,,Noam Okun,R,185,ISR,24.9171800137,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,139,269,138,269
 2003-600,Prague CH,Clay,32,C,20030519,30,103656,6,,Albert Montanes,R,175,ESP,22.4750171116,102287,2,,Albert Portas,R,188,ESP,29.5058179329,6-3 6-0,3,SF,,,,,,,,,,,,,,,,,,,,106,369,83,503
@@ -3230,7 +3230,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-672,New Delhi CH,Hard,32,C,20030428,5,103948,,,Maximilian Abel,R,,GER,21.1608487337,103003,3,,Jean Francois Bachelot,R,183,FRA,25.87816564,6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,194,183,157,234
 2003-672,New Delhi CH,Hard,32,C,20030428,6,103250,,,Rodolphe Cadart,L,183,FRA,24.720054757,102865,,,Doug Bohaboy,R,,USA,26.5872689938,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,200,173,267,113
 2003-672,New Delhi CH,Hard,32,C,20030428,7,103130,,,Louis Vosloo,R,178,RSA,25.2429842574,103153,,,Gilles Elseneer,R,188,BEL,25.144421629,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,243,126,160,226
-2003-672,New Delhi CH,Hard,32,C,20030428,8,103104,7,,Bjorn Rehnquist,R,175,SWE,25.3086926762,103730,,Q,Jonathan Marray,R,,GBR,22.1327857632,7-6(4) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,172,208,654,21
+2003-672,New Delhi CH,Hard,32,C,20030428,8,103104,7,,Bjorn Rehnquist,R,175,SWE,25.3086926762,103730,,Q,Jonathan Marray,R,183,GBR,22.1327857632,7-6(4) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,172,208,654,21
 2003-672,New Delhi CH,Hard,32,C,20030428,9,102730,5,,Ivo Heuberger,R,188,SUI,27.1868583162,103178,,,Johan Settergren,R,185,SWE,25.015742642,6-3 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,154,239,273,110
 2003-672,New Delhi CH,Hard,32,C,20030428,10,103544,,,Andy Ram,R,180,ISR,23.0472279261,103553,,,Alun Jones,R,180,AUS,23.0034223135,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,791,12,271,111
 2003-672,New Delhi CH,Hard,32,C,20030428,11,104250,,WC,Prakash Amritraj,R,188,IND,19.5701574264,102669,,,Noam Behr,L,188,ISR,27.5400410678,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,641,22,265,113
@@ -3286,7 +3286,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-676,Cagliari CH,Clay,32,C,20030317,30,103835,,,Filippo Volandri,R,183,ITA,21.5277207392,102287,4,,Albert Portas,R,188,ESP,29.3333333333,6-3 5-7 6-1,3,SF,,,,,,,,,,,,,,,,,,,,149,257,95,410
 2003-676,Cagliari CH,Clay,32,C,20030317,31,103835,,,Filippo Volandri,R,183,ITA,21.5277207392,104745,,,Rafael Nadal,L,185,ESP,16.7857631759,2-6 6-2 6-1,3,F,,,,,,,,,,,,,,,,,,,,149,257,152,253
 2003-686,Scheveningen CH,Clay,32,C,20030707,1,104166,1,,Alex Bogomolov Jr,R,178,RUS,20.205338809,103385,,,Paul Baccanello,R,183,AUS,24.0684462697,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,110,344,167,219
-2003-686,Scheveningen CH,Clay,32,C,20030707,2,103202,,,Oscar Serrano,R,173,ESP,25.1170431211,104397,,Q,Laurent Recouderc,R,,FRA,18.9897330595,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,210,164,597,27
+2003-686,Scheveningen CH,Clay,32,C,20030707,2,103202,,,Oscar Serrano,R,173,ESP,25.1170431211,104397,,Q,Laurent Recouderc,R,178,FRA,18.9897330595,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,210,164,597,27
 2003-686,Scheveningen CH,Clay,32,C,20030707,3,103088,,,Xavier Pujo,R,180,FRA,25.5852156057,103063,,,Sebastien De Chaunac,R,183,FRA,25.7467488022,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,281,106,216,158
 2003-686,Scheveningen CH,Clay,32,C,20030707,4,102464,,,Todd Larkham,R,178,AUS,28.7310061602,102934,8,,Nicolas Coutelot,R,185,FRA,26.4038329911,6-3 1-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,174,209,175,208
 2003-686,Scheveningen CH,Clay,32,C,20030707,5,104755,3,,Richard Gasquet,R,185,FRA,17.0513347023,103722,,,Florent Serra,R,180,FRA,22.3518138261,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,122,324,198,176
@@ -3352,7 +3352,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-688,Montauban CH,Clay,32,C,20030630,3,103165,,,Gorka Fraile,R,180,ESP,25.2101300479,103393,,,Yuri Schukin,R,188,KAZ,23.9917864476,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,276,105,261,112
 2003-688,Montauban CH,Clay,32,C,20030630,4,103242,,,Juan Giner,R,178,ESP,24.9034907598,103693,5,,Thierry Ascione,R,188,FRA,22.4284736482,7-6(3) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,270,108,187,193
 2003-688,Montauban CH,Clay,32,C,20030630,5,103032,,,Francisco Fogues,L,190,ESP,25.87816564,103898,3,,Julien Benneteau,R,185,FRA,21.5058179329,5-7 7-5 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,274,107,173,204
-2003-688,Montauban CH,Clay,32,C,20030630,6,102630,,,Slimane Saoudi,L,,ALG,27.9178644764,104397,,WC,Laurent Recouderc,R,,FRA,18.9514031485,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,248,121,601,27
+2003-688,Montauban CH,Clay,32,C,20030630,6,102630,,,Slimane Saoudi,L,,ALG,27.9178644764,104397,,WC,Laurent Recouderc,R,178,FRA,18.9514031485,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,248,121,601,27
 2003-688,Montauban CH,Clay,32,C,20030630,7,103592,,,Jerome Haehnel,R,185,FRA,22.9404517454,102715,,,Ignacio Hirigoyen,R,183,ARG,27.4140999316,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,287,101,288,101
 2003-688,Montauban CH,Clay,32,C,20030630,8,104273,,Q,Edouard Roger Vasselin,R,188,FRA,19.5674195756,103722,7,,Florent Serra,R,180,FRA,22.3134839151,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,430,58,194,180
 2003-688,Montauban CH,Clay,32,C,20030630,9,102231,6,,Alex Calatrava,R,190,ESP,30.0232717317,102545,,,Pedro Braga,R,,BRA,28.3175906913,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,190,186,275,107
@@ -3595,7 +3595,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-746,Sao Paulo1 CH,Hard,32,C,20021230,29,103587,,,Andres Dellatorre,R,190,ARG,22.4366872005,103525,5,,Ivan Miranda,R,175,PER,22.7734428474,7-6(3) 7-5,3,SF,,,,,,,,,,,,,,,,,,,,291,98,147,252
 2003-746,Sao Paulo1 CH,Hard,32,C,20021230,30,103581,3,,Flavio Saretta,R,183,BRA,22.4668035592,103737,,,Edgardo Massa,R,180,ARG,21.735797399,3-6 6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,92,438,237,126
 2003-746,Sao Paulo1 CH,Hard,32,C,20021230,31,103581,3,,Flavio Saretta,R,183,BRA,22.4668035592,103587,,,Andres Dellatorre,R,190,ARG,22.4366872005,7-6(5) 6-3,3,F,,,,,,,,,,,,,,,,,,,,92,438,291,98
-2003-754,Ljubljana CH,Clay,32,C,20030526,1,103105,1,,Ruben Ramirez Hidalgo,R,183,ESP,25.3826146475,103841,,Q,Julio Peralta,R,,CHI,21.7084188912,3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,118,329,366,70
+2003-754,Ljubljana CH,Clay,32,C,20030526,1,103105,1,,Ruben Ramirez Hidalgo,R,183,ESP,25.3826146475,103841,,Q,Julio Peralta,R,188,CHI,21.7084188912,3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,118,329,366,70
 2003-754,Ljubljana CH,Clay,32,C,20030526,2,103333,,,Ivo Karlovic,R,208,CRO,24.2381930185,102715,,LL,Ignacio Hirigoyen,R,183,ARG,27.3374401095,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,226,141,284,102
 2003-754,Ljubljana CH,Clay,32,C,20030526,3,103532,,,Ignacio Gonzalez King,R,175,ARG,23.1731690623,102239,,,Francisco Costa,R,180,BRA,29.9082819986,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,259,115,187,185
 2003-754,Ljubljana CH,Clay,32,C,20030526,4,103735,7,,Lovro Zovko,R,190,CRO,22.1875427789,103912,,,Mario Radic,R,188,CRO,21.3607118412,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,200,173,214,157
@@ -4003,7 +4003,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-843,Brindisi CH,Clay,32,C,20030825,3,103626,,,Tomas Tenconi,R,178,ITA,22.9733059548,103594,,,Oliver Marach,R,185,AUT,23.1074606434,7-6(4) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,226,154,269,125
 2003-843,Brindisi CH,Clay,32,C,20030825,4,102554,,,Diego Moyano,R,175,ARG,28.4490075291,101746,6,,Renzo Furlan,R,175,ITA,33.273100616,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,266,126,184,212
 2003-843,Brindisi CH,Clay,32,C,20030825,5,104527,,,Stan Wawrinka,R,183,SUI,18.4093086927,104043,4,,Marc Lopez,R,175,ESP,21.067761807,2-6 4-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,175,219,168,229
-2003-843,Brindisi CH,Clay,32,C,20030825,6,103209,,,Leonardo Azzaro,L,188,ITA,25.2375085558,103841,,,Julio Peralta,R,,CHI,21.9575633128,1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,256,132,221,159
+2003-843,Brindisi CH,Clay,32,C,20030825,6,103209,,,Leonardo Azzaro,L,188,ITA,25.2375085558,103841,,,Julio Peralta,R,188,CHI,21.9575633128,1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,256,132,221,159
 2003-843,Brindisi CH,Clay,32,C,20030825,7,103202,,,Oscar Serrano,R,173,ESP,25.2511978097,103837,,,Didac Perez,R,178,ESP,21.9630390144,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,201,184,265,126
 2003-843,Brindisi CH,Clay,32,C,20030825,8,102944,,WC,Stefano Cobolli,R,175,ITA,26.4804928131,103916,,LL,Cristian Villagran,R,180,ARG,21.5934291581,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,289,114,293,113
 2003-843,Brindisi CH,Clay,32,C,20030825,9,103535,,,Olivier Patience,R,180,FRA,23.4168377823,103035,5,,Alessio Di Mauro,L,185,ITA,26.0424366872,6-4 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,202,183,167,231
@@ -4061,7 +4061,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-845,Mantova CH,Clay,32,C,20030630,30,102999,,WC,Stefano Galvani,R,178,ITA,26.0533880903,103088,,,Xavier Pujo,R,180,FRA,25.5468856947,6-1 2-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,159,223,315,90
 2003-845,Mantova CH,Clay,32,C,20030630,31,101947,,,Vincenzo Santopadre,L,183,ITA,31.8658453114,102999,,WC,Stefano Galvani,R,178,ITA,26.0533880903,6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,318,89,159,223
 2003-849,Campos Do Jordao1 CH,Hard,32,C,20030721,1,103821,1,,Danai Udomchoke,R,173,THA,21.9411362081,104122,,,Carlos Berlocq,R,183,ARG,20.4599589322,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,189,197,376,71
-2003-849,Campos Do Jordao1 CH,Hard,32,C,20030721,2,103841,,,Julio Peralta,R,,CHI,21.8617385352,103395,,,Julio Silva,R,173,BRA,24.0547570157,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,352,79,273,114
+2003-849,Campos Do Jordao1 CH,Hard,32,C,20030721,2,103841,,,Julio Peralta,R,188,CHI,21.8617385352,103395,,,Julio Silva,R,173,BRA,24.0547570157,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,352,79,273,114
 2003-849,Campos Do Jordao1 CH,Hard,32,C,20030721,3,103746,,,Miguel Gallardo Valles,R,,MEX,22.2833675565,104027,,,Pablo Gonzalez,R,178,COL,21.0513347023,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,310,96,434,58
 2003-849,Campos Do Jordao1 CH,Hard,32,C,20030721,4,103948,5,,Maximilian Abel,R,,GER,21.3908281999,104608,,WC,Rodrigo Guidolin,R,,BRA,17.8316221766,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,183,205,,
 2003-849,Campos Do Jordao1 CH,Hard,32,C,20030721,5,104117,4,,Giovanni Lapentti,R,193,ECU,20.4845995893,103328,,,Andres Pedroso,R,,USA,24.4106776181,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,190,196,292,105
@@ -4076,7 +4076,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-849,Campos Do Jordao1 CH,Hard,32,C,20030721,14,103520,,,Pavel Snobel,L,190,CZE,23.3921971253,104900,,,Raony Carvalho,R,,BRA,16.2792607803,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,259,125,,
 2003-849,Campos Do Jordao1 CH,Hard,32,C,20030721,15,104392,,Q,Franco Ferreiro,R,188,BRA,19.0527036277,104143,,Q,Dirk Stegmann,R,,RSA,20.3696098563,2-6 7-6(3) 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,529,36,483,46
 2003-849,Campos Do Jordao1 CH,Hard,32,C,20030721,16,103015,,,Daniel Melo,L,185,BRA,26.045174538,103573,2,,Rik De Voest,R,180,RSA,23.1238877481,4-6 7-5 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,341,82,182,207
-2003-849,Campos Do Jordao1 CH,Hard,32,C,20030721,17,103841,,,Julio Peralta,R,,CHI,21.8617385352,103821,1,,Danai Udomchoke,R,173,THA,21.9411362081,7-6(5) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,352,79,189,197
+2003-849,Campos Do Jordao1 CH,Hard,32,C,20030721,17,103841,,,Julio Peralta,R,188,CHI,21.8617385352,103821,1,,Danai Udomchoke,R,173,THA,21.9411362081,7-6(5) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,352,79,189,197
 2003-849,Campos Do Jordao1 CH,Hard,32,C,20030721,18,103746,,,Miguel Gallardo Valles,R,,MEX,22.2833675565,103948,5,,Maximilian Abel,R,,GER,21.3908281999,3-6 6-1 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,310,96,183,205
 2003-849,Campos Do Jordao1 CH,Hard,32,C,20030721,19,104117,4,,Giovanni Lapentti,R,193,ECU,20.4845995893,102545,,,Pedro Braga,R,,BRA,28.3942505133,7-6(13) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,190,196,286,107
 2003-849,Campos Do Jordao1 CH,Hard,32,C,20030721,20,104158,,Q,Andrew Anderson,R,193,RSA,20.2847364819,103230,,,Tasuku Iwami,L,168,JPN,25.0321697467,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,698,18,278,111
@@ -4084,7 +4084,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-849,Campos Do Jordao1 CH,Hard,32,C,20030721,22,103060,,,Alejandro Hernandez,R,180,MEX,25.8015058179,103228,3,,Marcos Daniel,R,180,BRA,25.0458590007,7-6(5) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,377,71,187,198
 2003-849,Campos Do Jordao1 CH,Hard,32,C,20030721,23,102667,,,Satoshi Iwabuchi,L,175,JPN,27.7864476386,103520,,,Pavel Snobel,L,190,CZE,23.3921971253,6-3 2-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,272,115,259,125
 2003-849,Campos Do Jordao1 CH,Hard,32,C,20030721,24,104392,,Q,Franco Ferreiro,R,188,BRA,19.0527036277,103015,,,Daniel Melo,L,185,BRA,26.045174538,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,529,36,341,82
-2003-849,Campos Do Jordao1 CH,Hard,32,C,20030721,25,103746,,,Miguel Gallardo Valles,R,,MEX,22.2833675565,103841,,,Julio Peralta,R,,CHI,21.8617385352,6-2 7-5,3,QF,,,,,,,,,,,,,,,,,,,,310,96,352,79
+2003-849,Campos Do Jordao1 CH,Hard,32,C,20030721,25,103746,,,Miguel Gallardo Valles,R,,MEX,22.2833675565,103841,,,Julio Peralta,R,188,CHI,21.8617385352,6-2 7-5,3,QF,,,,,,,,,,,,,,,,,,,,310,96,352,79
 2003-849,Campos Do Jordao1 CH,Hard,32,C,20030721,26,104117,4,,Giovanni Lapentti,R,193,ECU,20.4845995893,104158,,Q,Andrew Anderson,R,193,RSA,20.2847364819,6-3 3-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,190,196,698,18
 2003-849,Campos Do Jordao1 CH,Hard,32,C,20030721,27,102300,,,Gouichi Motomura,R,173,JPN,29.568788501,103060,,,Alejandro Hernandez,R,180,MEX,25.8015058179,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,276,113,377,71
 2003-849,Campos Do Jordao1 CH,Hard,32,C,20030721,28,102667,,,Satoshi Iwabuchi,L,175,JPN,27.7864476386,104392,,Q,Franco Ferreiro,R,188,BRA,19.0527036277,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,272,115,529,36
@@ -4419,7 +4419,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-540,Wimbledon,Grass,128,G,20030623,292,101868,3,,Dick Norman,L,203,BEL,32.3121149897,103532,,,Ignacio Gonzalez King,R,175,ARG,23.2498288843,7-5 5-7 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,112,358,229,139
 2003-540,Wimbledon,Grass,128,G,20030623,291,102921,,,Ota Fukarek,R,190,CZE,26.4257357974,104122,,,Carlos Berlocq,R,183,ARG,20.3832991102,6-0 2-0 RET,3,Q1,,,,,,,,,,,,,,,,,,,,243,125,291,99
 2003-540,Wimbledon,Grass,128,G,20030623,290,103520,,,Pavel Snobel,L,190,CZE,23.3155373032,103693,,,Thierry Ascione,R,188,FRA,22.4284736482,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,273,107,187,193
-2003-540,Wimbledon,Grass,128,G,20030623,289,103993,,WC,Chris Lewis,U,,GBR,21.1197809719,102911,17,,Andrei Stoliarov,R,178,RUS,26.4503764545,6-7(3) 6-1 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,555,32,164,216
+2003-540,Wimbledon,Grass,128,G,20030623,289,103993,,WC,Chris Lewis,R,180,GBR,21.1197809719,102911,17,,Andrei Stoliarov,R,178,RUS,26.4503764545,6-7(3) 6-1 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,555,32,164,216
 2003-540,Wimbledon,Grass,128,G,20030623,288,103672,4,,Ricardo Mello,L,175,BRA,22.5023956194,103435,,,Massimo Dellacqua,R,193,ITA,23.794661191,6-3 3-6 8-6,3,Q1,,,,,,,,,,,,,,,,,,,,118,342,282,103
 2003-540,Wimbledon,Grass,128,G,20030623,287,104056,,,Roko Karanusic,R,183,CRO,20.7967145791,103032,,,Francisco Fogues,L,190,ESP,25.87816564,6-4 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,246,122,274,107
 2003-540,Wimbledon,Grass,128,G,20030623,286,103240,,,Kevin Kim,R,180,USA,24.9089664613,103393,,,Yuri Schukin,R,188,KAZ,23.9917864476,6-4 3-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,223,150,261,112
@@ -4477,7 +4477,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-540,Wimbledon,Grass,128,G,20030623,234,103333,,,Ivo Karlovic,R,208,CRO,24.3148528405,103700,,,Juan Pablo Guzman,L,178,ARG,22.3956194387,6-3 6-7(5) 8-6,3,Q2,,,,,,,,,,,,,,,,,,,,203,174,242,126
 2003-540,Wimbledon,Grass,128,G,20030623,233,101924,,,Stefano Pescosolido,R,185,ITA,32.0273785079,102512,,,Joseph Sirianni,R,175,AUS,28.4298425736,7-5 4-6 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,174,204,213,161
 2003-540,Wimbledon,Grass,128,G,20030623,232,101868,3,,Dick Norman,L,203,BEL,32.3121149897,102921,,,Ota Fukarek,R,190,CZE,26.4257357974,6-3 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,112,358,243,125
-2003-540,Wimbledon,Grass,128,G,20030623,231,103993,,WC,Chris Lewis,U,,GBR,21.1197809719,103520,,,Pavel Snobel,L,190,CZE,23.3155373032,6-2 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,555,32,273,107
+2003-540,Wimbledon,Grass,128,G,20030623,231,103993,,WC,Chris Lewis,R,180,GBR,21.1197809719,103520,,,Pavel Snobel,L,190,CZE,23.3155373032,6-2 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,555,32,273,107
 2003-540,Wimbledon,Grass,128,G,20030623,230,104056,,,Roko Karanusic,R,183,CRO,20.7967145791,103672,4,,Ricardo Mello,L,175,BRA,22.5023956194,6-4 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,246,122,118,342
 2003-540,Wimbledon,Grass,128,G,20030623,229,103325,18,,Wesley Moodie,R,196,RSA,24.3531827515,103240,,,Kevin Kim,R,180,USA,24.9089664613,6-3 7-6(6),3,Q2,,,,,,,,,,,,,,,,,,,,150,244,223,150
 2003-540,Wimbledon,Grass,128,G,20030623,228,102023,,,Petr Luxa,R,190,CZE,31.3045859001,103530,,,Zack Fleishman,R,188,USA,23.266255989,1-6 6-2 9-7,3,Q2,,,,,,,,,,,,,,,,,,,,253,115,255,115
@@ -4506,7 +4506,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-540,Wimbledon,Grass,128,G,20030623,205,103455,,,Michal Mertinak,R,180,SVK,23.6988364134,103209,,,Leonardo Azzaro,L,188,ITA,25.0650239562,7-6(5) 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,327,86,239,128
 2003-540,Wimbledon,Grass,128,G,20030623,204,103077,,,Konstantinos Economidis,R,188,GRE,25.6372347707,103812,1,,Victor Hanescu,R,198,ROU,21.9219712526,3-6 1-0 RET,3,Q3,,,,,,,,,,,,,,,,,,,,280,103,99,401
 2003-540,Wimbledon,Grass,128,G,20030623,203,103333,,,Ivo Karlovic,R,208,CRO,24.3148528405,101924,,,Stefano Pescosolido,R,185,ITA,32.0273785079,6-3 6-7(5) 6-3 7-6(9),3,Q3,,,,,,,,,,,,,,,,,,,,203,174,174,204
-2003-540,Wimbledon,Grass,128,G,20030623,202,101868,3,,Dick Norman,L,203,BEL,32.3121149897,103993,,WC,Chris Lewis,U,,GBR,21.1197809719,7-5 6-3 7-6(11),3,Q3,,,,,,,,,,,,,,,,,,,,112,358,555,32
+2003-540,Wimbledon,Grass,128,G,20030623,202,101868,3,,Dick Norman,L,203,BEL,32.3121149897,103993,,WC,Chris Lewis,R,180,GBR,21.1197809719,7-5 6-3 7-6(11),3,Q3,,,,,,,,,,,,,,,,,,,,112,358,555,32
 2003-540,Wimbledon,Grass,128,G,20030623,201,103325,18,,Wesley Moodie,R,196,RSA,24.3531827515,104056,,,Roko Karanusic,R,183,CRO,20.7967145791,3-6 6-4 6-3 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,150,244,246,122
 2003-540,Wimbledon,Grass,128,G,20030623,200,102023,,,Petr Luxa,R,190,CZE,31.3045859001,104117,,,Giovanni Lapentti,R,193,ECU,20.4079397673,2-6 6-4 7-6(5) 2-6 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,253,115,189,188
 2003-540,Wimbledon,Grass,128,G,20030623,199,104269,6,,Fernando Verdasco,L,188,ESP,19.6030116359,102720,20,,Tomas Zib,R,178,CZE,27.3921971253,6-4 5-7 6-3 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,121,332,154,240

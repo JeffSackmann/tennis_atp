@@ -688,7 +688,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-FRA-05A-2001,France F5,Hard,32,S,20010205,30,103592,2,,Jerome Haehnel,R,185,FRA,20.5639972621,102736,6,,Maxime Boye,R,,FRA,24.9199178645,6-3 6-1,3,SF,,,,,,,,,,,,,,,,,,,,370,73,414,59
 2001-M-FU-FRA-05A-2001,France F5,Hard,32,S,20010205,31,103679,,Q,Jeroen Masson,R,,BEL,20.0930869268,103592,2,,Jerome Haehnel,R,185,FRA,20.5639972621,7-6(8) 1-6 6-4,3,F,,,,,,,,,,,,,,,,,,,,1010,4,370,73
 2001-M-FU-GBR-01A-2001,Great Britain F1,Carpet,32,S,20010205,1,101924,,,Stefano Pescosolido,R,185,ITA,29.6509240246,103114,1,Q,Martin Lee,L,180,GBR,23.0636550308,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,569,29,177,219
-2001-M-FU-GBR-01A-2001,Great Britain F1,Carpet,32,S,20010205,2,102781,,,Christian Dillschneider,R,,SUI,24.7830253251,103730,,WC,Jonathan Marray,R,,GBR,19.909650924,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,497,40,768,12
+2001-M-FU-GBR-01A-2001,Great Britain F1,Carpet,32,S,20010205,2,102781,,,Christian Dillschneider,R,,SUI,24.7830253251,103730,,WC,Jonathan Marray,R,183,GBR,19.909650924,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,497,40,768,12
 2001-M-FU-GBR-01A-2001,Great Britain F1,Carpet,32,S,20010205,3,103538,,WC,James Auckland,R,,GBR,20.848733744,103576,,Q,Barry Fulcher,U,,GBR,20.6570841889,7-6(7) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,791,12,936,6
 2001-M-FU-GBR-01A-2001,Great Britain F1,Carpet,32,S,20010205,4,104014,8,,Lee Childs,R,,GBR,18.6557152635,102802,,,Gunther Darkey,R,,GHA,24.6625598905,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,377,71,534,34
 2001-M-FU-GBR-01A-2001,Great Britain F1,Carpet,32,S,20010205,5,103238,,,Jean Claude Scherrer,R,188,SUI,22.5489390828,108603,4,,Helge Koll Frafjord,U,,NOR,25.6865160849,6-1 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,514,37,,
@@ -897,7 +897,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-CRO-01A-2001,Croatia F1,Hard,32,S,20010212,30,103735,5,WC,Lovro Zovko,R,190,CRO,19.9069130732,103041,,Q,Bora Celiscak,R,,CRO,23.4551676934,7-6(4) 6-1,3,SF,,,,,,,,,,,,,,,,,,,,391,64,,
 2001-M-FU-CRO-01A-2001,Croatia F1,Hard,32,S,20010212,31,103735,5,WC,Lovro Zovko,R,190,CRO,19.9069130732,103761,,,Tomas Cakl,R,178,CZE,19.8028747433,6-7(2) 6-3 7-6(6),3,F,,,,,,,,,,,,,,,,,,,,391,64,410,59
 2001-M-FU-GBR-02A-2001,Great Britain F2,Hard,32,S,20010212,1,103369,1,,Melle Van Gemerden,R,183,NED,21.7659137577,103559,,WC,David Sherwood,R,193,GBR,20.772073922,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,321,98,,
-2001-M-FU-GBR-02A-2001,Great Britain F2,Hard,32,S,20010212,2,103100,,Q,Tomasz Boniecki,R,,POL,23.112936345,103993,,Q,Chris Lewis,U,,GBR,18.7624914442,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,658,20,,
+2001-M-FU-GBR-02A-2001,Great Britain F2,Hard,32,S,20010212,2,103100,,Q,Tomasz Boniecki,R,,POL,23.112936345,103993,,Q,Chris Lewis,R,180,GBR,18.7624914442,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,658,20,,
 2001-M-FU-GBR-02A-2001,Great Britain F2,Hard,32,S,20010212,3,103693,,,Thierry Ascione,R,188,FRA,20.0711841205,103722,,,Florent Serra,R,180,FRA,19.9561943874,4-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,489,41,450,49
 2001-M-FU-GBR-02A-2001,Great Britain F2,Hard,32,S,20010212,4,103945,,,Simon Dickson,R,,GBR,18.9650924025,102603,7,,Melvyn Op Der Heijde,R,180,NED,25.6755646817,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,488,41,398,62
 2001-M-FU-GBR-02A-2001,Great Britain F2,Hard,32,S,20010212,5,103754,3,,Mark Hilton,L,170,GBR,19.8165639973,103942,,WC,James Nelson,R,,GBR,18.984257358,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,346,81,628,23
@@ -907,7 +907,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-GBR-02A-2001,Great Britain F2,Hard,32,S,20010212,9,102667,5,,Satoshi Iwabuchi,L,175,JPN,25.3524982888,103584,,LL,Johan Kareld,U,,SWE,20.6105407255,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,373,71,781,12
 2001-M-FU-GBR-02A-2001,Great Britain F2,Hard,32,S,20010212,10,103538,,WC,James Auckland,R,,GBR,20.8678986995,102948,,,Oliver Freelove,R,,GBR,23.9425051335,6-3 6-7(6) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,802,11,542,33
 2001-M-FU-GBR-02A-2001,Great Britain F2,Hard,32,S,20010212,11,102260,,Q,James Davidson,R,,GBR,27.40862423,102802,,,Gunther Darkey,R,,GHA,24.681724846,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,684,18,529,34
-2001-M-FU-GBR-02A-2001,Great Britain F2,Hard,32,S,20010212,12,102992,4,,Arnaud Fontaine,R,,BEL,23.742642026,103730,,Q,Jonathan Marray,R,,GBR,19.9288158795,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,351,79,764,12
+2001-M-FU-GBR-02A-2001,Great Britain F2,Hard,32,S,20010212,12,102992,4,,Arnaud Fontaine,R,,BEL,23.742642026,103730,,Q,Jonathan Marray,R,183,GBR,19.9288158795,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,351,79,764,12
 2001-M-FU-GBR-02A-2001,Great Britain F2,Hard,32,S,20010212,13,103378,8,,Bernard Parun,R,,GER,21.7248459959,102861,,,Timothy Aerts,R,,BEL,24.4134154689,6-2 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,421,55,490,41
 2001-M-FU-GBR-02A-2001,Great Britain F2,Hard,32,S,20010212,14,102572,,,Igor Gaudi,R,188,ITA,25.8453114305,103605,,LL,Alejandro Asta,R,,ARG,20.5338809035,5-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,437,51,884,8
 2001-M-FU-GBR-02A-2001,Great Britain F2,Hard,32,S,20010212,15,103313,,Q,Iain Bates,R,,GBR,22.0533880903,118502,,Q,Robert Green,R,,GBR,19.5646817248,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,918,7,,
@@ -1265,7 +1265,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-SA-IND-01A-2001a,India 1 1,Hard,24,S,20010305,3,103945,,,Simon Dickson,R,,GBR,19.022587269,102345,,,Nitten Kirrtane,R,,IND,27.0034223135,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,480,44,1225,2
 2001-M-SA-IND-01A-2001a,India 1 1,Hard,24,S,20010305,4,103053,,,Nikos Rovas,R,,GRE,23.4551676934,102885,,,Vishal Uppal,R,,IND,24.3148528405,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,632,22,1001,5
 2001-M-SA-IND-01A-2001a,India 1 1,Hard,24,S,20010305,5,102631,,,Alexey Gavrilov,R,,RUS,25.6098562628,102242,,,Bart Beks,R,,NED,27.6687200548,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,855,9,1001,5
-2001-M-SA-IND-01A-2001a,India 1 1,Hard,24,S,20010305,6,103671,,,Or Dekel,R,,ISR,20.205338809,103730,,,Jonathan Marray,R,,GBR,19.9863107461,7-5 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,950,6,686,17
+2001-M-SA-IND-01A-2001a,India 1 1,Hard,24,S,20010305,6,103671,,,Or Dekel,R,,ISR,20.205338809,103730,,,Jonathan Marray,R,183,GBR,19.9863107461,7-5 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,950,6,686,17
 2001-M-SA-IND-01A-2001a,India 1 1,Hard,24,S,20010305,7,103699,,,Fred Hemmes,R,183,NED,20.0985626283,103619,,A,Mustafa Ghouse,R,185,IND,20.5420944559,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,657,20,1001,5
 2001-M-SA-IND-01A-2001a,India 1 1,Hard,24,S,20010305,8,103290,,,Radim Zitko,R,,CZE,22.2395619439,103501,,,Vijay Kannan,R,,IND,21.0814510609,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,434,51,945,6
 2001-M-SA-IND-01A-2001a,India 1 1,Hard,24,S,20010305,9,103594,1,,Oliver Marach,R,185,AUT,20.6351813826,103547,,,Anton Kokurin,R,,UZB,20.8843258042,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,302,105,829,10
@@ -1298,7 +1298,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-SA-IND-01A-2001b,India 1 2,Hard,32,S,20010305,13,102631,,Q,Alexey Gavrilov,R,,RUS,25.6098562628,103501,8,,Vijay Kannan,R,,IND,21.0814510609,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,855,9,945,6
 2001-M-SA-IND-01A-2001b,India 1 2,Hard,32,S,20010305,14,102345,,WC,Nitten Kirrtane,R,,IND,27.0034223135,102242,,,Bart Beks,R,,NED,27.6687200548,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1225,2,1001,5
 2001-M-SA-IND-01A-2001b,India 1 2,Hard,32,S,20010305,15,103077,,,Konstantinos Economidis,R,188,GRE,23.3374401095,102955,,WC,Saurav Panja,R,,IND,23.9726214921,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,401,60,1163,2
-2001-M-SA-IND-01A-2001b,India 1 2,Hard,32,S,20010305,16,103497,2,,Artem Derepasko,R,,RUS,21.106091718,103730,,,Jonathan Marray,R,,GBR,19.9863107461,7-5 6-7(7) 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,281,116,686,17
+2001-M-SA-IND-01A-2001b,India 1 2,Hard,32,S,20010305,16,103497,2,,Artem Derepasko,R,,RUS,21.106091718,103730,,,Jonathan Marray,R,183,GBR,19.9863107461,7-5 6-7(7) 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,281,116,686,17
 2001-M-SA-IND-01A-2001b,India 1 2,Hard,32,S,20010305,17,103594,1,,Oliver Marach,R,185,AUT,20.6351813826,103671,,,Or Dekel,R,,ISR,20.205338809,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,302,105,950,6
 2001-M-SA-IND-01A-2001b,India 1 2,Hard,32,S,20010305,18,103053,,,Nikos Rovas,R,,GRE,23.4551676934,103559,,,David Sherwood,R,193,GBR,20.8295687885,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,632,22,,
 2001-M-SA-IND-01A-2001b,India 1 2,Hard,32,S,20010305,19,103761,4,,Tomas Cakl,R,178,CZE,19.8603696099,103790,,Q,Manoj Mahadevan,R,,IND,19.7371663244,6-3 5-7 6-1,3,R16,,,,,,,,,,,,,,,,,,,,374,72,1047,4
@@ -1325,7 +1325,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-SA-IND-01A-2001c,India 1 3,Hard,32,S,20010305,9,101683,7,,Donavan September,R,,RSA,31.1622176591,102885,,WC,Vishal Uppal,R,,IND,24.3148528405,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,429,53,1001,5
 2001-M-SA-IND-01A-2001c,India 1 3,Hard,32,S,20010305,10,103471,,,Tero Vilen,R,,FIN,21.3004791239,103891,,Q,Alexandros Jakupovic,R,,GRE,19.2224503765,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,646,21,1225,2
 2001-M-SA-IND-01A-2001c,India 1 3,Hard,32,S,20010305,11,103501,,Q,Vijay Kannan,R,,IND,21.0814510609,103619,,WC,Mustafa Ghouse,R,185,IND,20.5420944559,3-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,945,6,1001,5
-2001-M-SA-IND-01A-2001c,India 1 3,Hard,32,S,20010305,12,103529,4,,Aisam Ul Haq Qureshi,R,183,PAK,20.9664613279,103730,,,Jonathan Marray,R,,GBR,19.9863107461,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,321,93,686,17
+2001-M-SA-IND-01A-2001c,India 1 3,Hard,32,S,20010305,12,103529,4,,Aisam Ul Haq Qureshi,R,183,PAK,20.9664613279,103730,,,Jonathan Marray,R,183,GBR,19.9863107461,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,321,93,686,17
 2001-M-SA-IND-01A-2001c,India 1 3,Hard,32,S,20010305,13,103290,8,,Radim Zitko,R,,CZE,22.2395619439,103643,,Q,Lauri Kiiski,R,,FIN,20.3997262149,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,434,51,1047,4
 2001-M-SA-IND-01A-2001c,India 1 3,Hard,32,S,20010305,14,103547,,,Anton Kokurin,R,,UZB,20.8843258042,104100,,,Evgueni Smirnov,U,,RUS,18.2176591376,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,829,10,867,9
 2001-M-SA-IND-01A-2001c,India 1 3,Hard,32,S,20010305,15,103053,,,Nikos Rovas,R,,GRE,23.4551676934,103538,,,James Auckland,R,,GBR,20.9253935661,6-4 5-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,632,22,681,18
@@ -1346,7 +1346,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-SA-IND-01A-2001c,India 1 3,Hard,32,S,20010305,30,103256,2,,Ivan Vajda,R,,CRO,22.4996577687,103501,,Q,Vijay Kannan,R,,IND,21.0814510609,6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,300,106,945,6
 2001-M-SA-IND-01A-2001c,India 1 3,Hard,32,S,20010305,31,103594,3,,Oliver Marach,R,185,AUT,20.6351813826,103256,2,,Ivan Vajda,R,,CRO,22.4996577687,6-7(5) 6-1 6-4,3,F,,,,,,,,,,,,,,,,,,,,302,105,300,106
 2001-M-SA-IND-01A-2001d,India 1 4,Hard,32,S,20010305,1,103497,1,,Artem Derepasko,R,,RUS,21.106091718,103471,,,Tero Vilen,R,,FIN,21.3004791239,2-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,281,116,646,21
-2001-M-SA-IND-01A-2001d,India 1 4,Hard,32,S,20010305,2,103730,,,Jonathan Marray,R,,GBR,19.9863107461,102955,,Q,Saurav Panja,R,,IND,23.9726214921,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,686,17,1163,2
+2001-M-SA-IND-01A-2001d,India 1 4,Hard,32,S,20010305,2,103730,,,Jonathan Marray,R,183,GBR,19.9863107461,102955,,Q,Saurav Panja,R,,IND,23.9726214921,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,686,17,1163,2
 2001-M-SA-IND-01A-2001d,India 1 4,Hard,32,S,20010305,3,102631,,,Alexey Gavrilov,R,,RUS,25.6098562628,102242,,Q,Bart Beks,R,,NED,27.6687200548,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,855,9,1001,5
 2001-M-SA-IND-01A-2001d,India 1 4,Hard,32,S,20010305,4,101683,7,,Donavan September,R,,RSA,31.1622176591,103699,,,Fred Hemmes,R,183,NED,20.0985626283,4-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,429,53,657,20
 2001-M-SA-IND-01A-2001d,India 1 4,Hard,32,S,20010305,5,103529,4,,Aisam Ul Haq Qureshi,R,183,PAK,20.9664613279,103945,,,Simon Dickson,R,,GBR,19.022587269,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,321,93,480,44
@@ -1361,7 +1361,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-SA-IND-01A-2001d,India 1 4,Hard,32,S,20010305,14,103547,,,Anton Kokurin,R,,UZB,20.8843258042,103595,,Q,Martin Rammal,R,,FIN,20.6324435318,2-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,829,10,1225,2
 2001-M-SA-IND-01A-2001d,India 1 4,Hard,32,S,20010305,15,103559,,Q,David Sherwood,R,193,GBR,20.8295687885,103321,,WC,Vinod Sridhar,L,,IND,22.0780287474,6-7(8) 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1027,4
 2001-M-SA-IND-01A-2001d,India 1 4,Hard,32,S,20010305,16,103863,,Q,Mikhail Elgin,R,183,RUS,19.3894592745,103256,2,,Ivan Vajda,R,,CRO,22.4996577687,7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1027,4,300,106
-2001-M-SA-IND-01A-2001d,India 1 4,Hard,32,S,20010305,17,103497,1,,Artem Derepasko,R,,RUS,21.106091718,103730,,,Jonathan Marray,R,,GBR,19.9863107461,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,281,116,686,17
+2001-M-SA-IND-01A-2001d,India 1 4,Hard,32,S,20010305,17,103497,1,,Artem Derepasko,R,,RUS,21.106091718,103730,,,Jonathan Marray,R,183,GBR,19.9863107461,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,281,116,686,17
 2001-M-SA-IND-01A-2001d,India 1 4,Hard,32,S,20010305,18,101683,7,,Donavan September,R,,RSA,31.1622176591,102631,,,Alexey Gavrilov,R,,RUS,25.6098562628,2-6 6-2 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,429,53,855,9
 2001-M-SA-IND-01A-2001d,India 1 4,Hard,32,S,20010305,19,103529,4,,Aisam Ul Haq Qureshi,R,183,PAK,20.9664613279,103222,,,Sergei Krotiouk,R,,RUS,22.7049965777,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,321,93,655,20
 2001-M-SA-IND-01A-2001d,India 1 4,Hard,32,S,20010305,20,103761,5,,Tomas Cakl,R,178,CZE,19.8603696099,103671,,Q,Or Dekel,R,,ISR,20.205338809,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,374,72,950,6
@@ -2790,7 +2790,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-USA-10A-2001,USA F10,Hard,32,S,20010416,11,103039,,WC,Tripp Phillips,R,185,USA,23.6386036961,102763,,,Benjamin Cassaigne,L,185,FRA,25.0376454483,6-3 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,637,21,454,50
 2001-M-FU-USA-10A-2001,USA F10,Hard,32,S,20010416,12,103145,,Q,Amir Hadad,R,183,ISR,23.1594798084,102805,3,,Matthew Breen,R,,AUS,24.8432580424,0-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,613,23,278,115
 2001-M-FU-USA-10A-2001,USA F10,Hard,32,S,20010416,13,102458,,SE,Jim Thomas,R,193,USA,26.559890486,103225,8,,Simon Larose,R,190,CAN,22.8008213552,3-6 7-6(8) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,661,19,317,95
-2001-M-FU-USA-10A-2001,USA F10,Hard,32,S,20010416,14,103161,,Q,Ryan Sachire,R,198,USA,23.0390143737,102879,,LL,Jaime Fillol,R,,CHI,24.4490075291,7-6(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,782,12,998,5
+2001-M-FU-USA-10A-2001,USA F10,Hard,32,S,20010416,14,103161,,Q,Ryan Sachire,R,198,USA,23.0390143737,102879,,LL,Jaime Fillol,R,180,CHI,24.4490075291,7-6(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,782,12,998,5
 2001-M-FU-USA-10A-2001,USA F10,Hard,32,S,20010416,15,103894,,,Phillip King,R,175,USA,19.3237508556,102766,,WC,Marcus Fluitt,R,,USA,25.029431896,6-2 5-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,384,68,859,9
 2001-M-FU-USA-10A-2001,USA F10,Hard,32,S,20010416,16,103328,,Q,Andres Pedroso,R,,USA,22.1492128679,103551,,LL,Willem Petrus Meyer,U,,RSA,20.9828884326,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1332,1,855,9
 2001-M-FU-USA-10A-2001,USA F10,Hard,32,S,20010416,17,102855,,,Jack Brasington,R,188,USA,24.5995893224,102900,,,Daniel Andersson,R,,SWE,24.2984257358,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,335,87,438,53
@@ -4204,10 +4204,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-GRE-01A-2001,Greece F1,Hard,32,S,20010514,8,103125,5,,Joan Jimenez Guerra,R,,AND,23.3018480493,102778,,,Abdul Hamid Makhkamov,R,,UZB,25.067761807,3-6 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,578,28,750,14
 2001-M-FU-GRE-01A-2001,Greece F1,Hard,32,S,20010514,9,103958,7,,Philip Gubenco,L,188,CAN,19.1676933607,118394,,LL,Paul Mcnamara,U,,AUS,22.0479123888,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,597,25,,
 2001-M-FU-GRE-01A-2001,Greece F1,Hard,32,S,20010514,10,104011,,WC,Lefteris Alexiou,R,,GRE,18.945927447,103167,,,Jocelyn Robichaud,R,,CAN,23.099247091,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1319,1,944,6
-2001-M-FU-GRE-01A-2001,Greece F1,Hard,32,S,20010514,11,101833,,,Michael Tebbutt,L,190,AUS,30.392881588,103730,,,Jonathan Marray,R,,GBR,20.1779603012,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,663,19,676,18
+2001-M-FU-GRE-01A-2001,Greece F1,Hard,32,S,20010514,11,101833,,,Michael Tebbutt,L,190,AUS,30.392881588,103730,,,Jonathan Marray,R,183,GBR,20.1779603012,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,663,19,676,18
 2001-M-FU-GRE-01A-2001,Greece F1,Hard,32,S,20010514,12,103061,3,,Jan Boruszewski,R,,GER,23.613963039,118246,,Q,Florian Kunth,U,,GER,21.8863791923,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,533,33,1319,1
 2001-M-FU-GRE-01A-2001,Greece F1,Hard,32,S,20010514,13,103531,,Q,Thomas Oger,U,,MON,21.144421629,103348,6,,Timo Fleischfresser,U,,GER,22.1437371663,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1319,1,574,28
-2001-M-FU-GRE-01A-2001,Greece F1,Hard,32,S,20010514,14,103044,,,Benoit Foucher,R,,FRA,23.6878850103,103993,,Q,Chris Lewis,U,,GBR,19.0116358658,6-3 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,766,13,,
+2001-M-FU-GRE-01A-2001,Greece F1,Hard,32,S,20010514,14,103044,,,Benoit Foucher,R,,FRA,23.6878850103,103993,,Q,Chris Lewis,R,180,GBR,19.0116358658,6-3 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,766,13,,
 2001-M-FU-GRE-01A-2001,Greece F1,Hard,32,S,20010514,15,103743,,,Domenic Marafiote,L,,AUS,20.1013004791,103406,,Q,Ralph Grambow,R,,GER,21.8343600274,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,888,8,1319,1
 2001-M-FU-GRE-01A-2001,Greece F1,Hard,32,S,20010514,16,103130,2,,Louis Vosloo,R,178,RSA,23.2881587953,103949,,Q,Ivan Cerovic,L,190,CRO,19.2032854209,3-6 6-3 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,437,53,817,10
 2001-M-FU-GRE-01A-2001,Greece F1,Hard,32,S,20010514,17,102959,1,,Marko Tkalec,R,178,SLO,24.1587953457,103881,,LL,Meir Deri,R,,ISR,19.4551676934,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,335,87,,
@@ -4351,7 +4351,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-USA-12A-2001,USA F12,Clay,32,S,20010514,31,103525,,,Ivan Miranda,R,175,PER,21.18275154,103739,4,,Jose De Armas,R,,VEN,20.1368925394,6-1 3-6 7-6(7),3,F,,,,,,,,,,,,,,,,,,,,469,47,368,74
 2001-M-FU-YUG-01A-2001,Yugoslavia F1,Clay,32,S,20010514,1,103105,1,,Ruben Ramirez Hidalgo,R,183,ESP,23.3511293634,103707,,,Dmitriy Koch,U,,GER,20.2600958248,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,300,103,937,6
 2001-M-FU-YUG-01A-2001,Yugoslavia F1,Clay,32,S,20010514,2,103599,,,Jordi Marse Vidri,U,,ESP,20.8131416838,118097,,LL,Zoran Randenovic,U,,YUG,21.5496235455,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,922,6,,
-2001-M-FU-YUG-01A-2001,Yugoslavia F1,Clay,32,S,20010514,3,104222,,WC,Nikola Ciric,L,,SRB,17.7823408624,111324,,Q,Daniel Sebescen,U,,YUG,16.6132785763,6-3 0-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2001-M-FU-YUG-01A-2001,Yugoslavia F1,Clay,32,S,20010514,3,104222,,WC,Nikola Ciric,L,201,SRB,17.7823408624,111324,,Q,Daniel Sebescen,U,,YUG,16.6132785763,6-3 0-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2001-M-FU-YUG-01A-2001,Yugoslavia F1,Clay,32,S,20010514,4,102942,5,,Vladimir Pavicevic,R,,SRB,24.2108145106,103897,,,Jiri Vencl,U,,CZE,19.3976728268,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,499,39,878,8
 2001-M-FU-YUG-01A-2001,Yugoslavia F1,Clay,32,S,20010514,5,102702,3,WC,Relja Fiser Dulic,R,,SRB,25.3689253936,108719,,LL,Nemanja Kontic,U,,MNE,20.1478439425,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,362,75,,
 2001-M-FU-YUG-01A-2001,Yugoslavia F1,Clay,32,S,20010514,6,104386,,,Janko Tipsarevic,R,180,SRB,16.8925393566,108862,,LL,Kristian Mitrovski,U,,MKD,18.5297741273,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1077,3,,
@@ -4366,7 +4366,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-YUG-01A-2001,Yugoslavia F1,Clay,32,S,20010514,15,103986,,WC,Radoslav Lukaev,R,,BUL,19.0554414784,102031,,,Sandor Noszaly,R,193,HUN,29.1608487337,3-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,920,6,741,14
 2001-M-FU-YUG-01A-2001,Yugoslavia F1,Clay,32,S,20010514,16,103162,2,,Dejan Petrovic,R,,SRB,23.112936345,118513,,Q,Aleksander Manojlovic,R,,SRB,19.3018480493,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,320,91,1159,2
 2001-M-FU-YUG-01A-2001,Yugoslavia F1,Clay,32,S,20010514,17,103105,1,,Ruben Ramirez Hidalgo,R,183,ESP,23.3511293634,103599,,,Jordi Marse Vidri,U,,ESP,20.8131416838,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,300,103,922,6
-2001-M-FU-YUG-01A-2001,Yugoslavia F1,Clay,32,S,20010514,18,102942,5,,Vladimir Pavicevic,R,,SRB,24.2108145106,104222,,WC,Nikola Ciric,L,,SRB,17.7823408624,6-7(4) 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,499,39,,
+2001-M-FU-YUG-01A-2001,Yugoslavia F1,Clay,32,S,20010514,18,102942,5,,Vladimir Pavicevic,R,,SRB,24.2108145106,104222,,WC,Nikola Ciric,L,201,SRB,17.7823408624,6-7(4) 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,499,39,,
 2001-M-FU-YUG-01A-2001,Yugoslavia F1,Clay,32,S,20010514,19,102702,3,WC,Relja Fiser Dulic,R,,SRB,25.3689253936,104386,,,Janko Tipsarevic,R,180,SRB,16.8925393566,6-4 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,362,75,1077,3
 2001-M-FU-YUG-01A-2001,Yugoslavia F1,Clay,32,S,20010514,20,103623,7,Q,Jacob Adaktusson,R,,SWE,20.7008898015,104067,,Q,Goran Tosic,R,,MNE,18.6009582478,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,559,31,,
 2001-M-FU-YUG-01A-2001,Yugoslavia F1,Clay,32,S,20010514,21,103983,,,Aleksandar Vlaski,L,,SRB,19.0636550308,103422,6,,Sebastian Fitz,R,,GER,21.7549623546,3-6 7-6(5) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1016,4,568,29
@@ -4381,7 +4381,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-YUG-01A-2001,Yugoslavia F1,Clay,32,S,20010514,30,103983,,,Aleksandar Vlaski,L,,SRB,19.0636550308,103162,2,,Dejan Petrovic,R,,SRB,23.112936345,2-6 6-4 7-6(5),3,SF,,,,,,,,,,,,,,,,,,,,1016,4,320,91
 2001-M-FU-YUG-01A-2001,Yugoslavia F1,Clay,32,S,20010514,31,103983,,,Aleksandar Vlaski,L,,SRB,19.0636550308,102702,3,WC,Relja Fiser Dulic,R,,SRB,25.3689253936,0-6 6-4 6-4,3,F,,,,,,,,,,,,,,,,,,,,1016,4,362,75
 2001-M-FU-SVK-03A-2001,Slovak Rep F3,Clay,32,S,20010515,1,104180,,,Gilles Muller,L,193,LUX,18.0150581793,103837,1,,Didac Perez,R,178,ESP,19.6824093087,4-6 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,612,23,325,90
-2001-M-FU-SVK-03A-2001,Slovak Rep F3,Clay,32,S,20010515,2,103586,,Q,Mariusz Fyrstenberg,L,193,POL,20.848733744,104743,,WC,Kamil Capkovic,R,,SVK,14.9486652977,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,998,5,,
+2001-M-FU-SVK-03A-2001,Slovak Rep F3,Clay,32,S,20010515,2,103586,,Q,Mariusz Fyrstenberg,L,193,POL,20.848733744,104743,,WC,Kamil Capkovic,R,198,SVK,14.9486652977,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,998,5,,
 2001-M-FU-SVK-03A-2001,Slovak Rep F3,Clay,32,S,20010515,3,104242,,Q,Jan Masik,R,,CZE,17.6728268309,102786,,,Ladislav Simon,R,,SVK,25.0431211499,6-2 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,571,28
 2001-M-FU-SVK-03A-2001,Slovak Rep F3,Clay,32,S,20010515,4,103229,6,,Kornel Bardoczky,R,,HUN,22.8583162218,102877,,Q,Henrik Kula,R,,SVK,24.5311430527,7-5 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,596,25,,
 2001-M-FU-SVK-03A-2001,Slovak Rep F3,Clay,32,S,20010515,5,103120,3,,Juraj Hasko,R,,SVK,23.3155373032,103692,,,Jakub Hasek,L,,CZE,20.3203285421,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,397,66,657,20
@@ -4453,7 +4453,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-GRE-02A-2001,Greece F2,Hard,32,S,20010521,9,103715,,,Kirill Ivanov Smolensky,R,,RUS,20.2491444216,103061,7,,Jan Boruszewski,R,,GER,23.6331279945,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,785,12,535,33
 2001-M-FU-GRE-02A-2001,Greece F2,Hard,32,S,20010521,10,103891,,WC,Alexandros Jakupovic,R,,GRE,19.4332648871,103053,,,Nikos Rovas,R,,GRE,23.665982204,7-6(5) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1225,2,630,22
 2001-M-FU-GRE-02A-2001,Greece F2,Hard,32,S,20010521,11,103743,,Q,Domenic Marafiote,L,,AUS,20.1204654346,102778,,,Abdul Hamid Makhkamov,R,,UZB,25.0869267625,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1017,5,765,13
-2001-M-FU-GRE-02A-2001,Greece F2,Hard,32,S,20010521,12,103730,,,Jonathan Marray,R,,GBR,20.1971252567,103130,3,,Louis Vosloo,R,178,RSA,23.3073237509,7-6(9) 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,675,18,440,52
+2001-M-FU-GRE-02A-2001,Greece F2,Hard,32,S,20010521,12,103730,,,Jonathan Marray,R,183,GBR,20.1971252567,103130,3,,Louis Vosloo,R,178,RSA,23.3073237509,7-6(9) 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,675,18,440,52
 2001-M-FU-GRE-02A-2001,Greece F2,Hard,32,S,20010521,13,102506,6,,Quino Munoz,R,178,ESP,26.3764544832,102335,,,Taso Vasiliadis,R,,GRE,27.2580424367,6-1 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,527,34,803,11
 2001-M-FU-GRE-02A-2001,Greece F2,Hard,32,S,20010521,14,103567,,Q,Andrei Youzhny,R,,RUS,21.0047912389,108689,,Q,Goran Bosalevski,R,,HKG,23.112936345,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,815,10,1320,1
 2001-M-FU-GRE-02A-2001,Greece F2,Hard,32,S,20010521,15,103167,,Q,Jocelyn Robichaud,R,,CAN,23.1184120465,103125,,,Joan Jimenez Guerra,R,,AND,23.3210130048,5-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,952,6,579,28
@@ -4463,7 +4463,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-GRE-02A-2001,Greece F2,Hard,32,S,20010521,19,102945,,Q,Luke Bourgeois,R,188,AUS,24.2162902122,103881,,LL,Meir Deri,R,,ISR,19.4743326489,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1225,2,,
 2001-M-FU-GRE-02A-2001,Greece F2,Hard,32,S,20010521,20,102682,,,Jonathan Beardsley,R,,USA,25.5331964408,103122,5,,Josh Tuckfield,R,,AUS,23.3264887064,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,622,23,501,39
 2001-M-FU-GRE-02A-2001,Greece F2,Hard,32,S,20010521,21,103715,,,Kirill Ivanov Smolensky,R,,RUS,20.2491444216,103891,,WC,Alexandros Jakupovic,R,,GRE,19.4332648871,3-6 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,785,12,1225,2
-2001-M-FU-GRE-02A-2001,Greece F2,Hard,32,S,20010521,22,103743,,Q,Domenic Marafiote,L,,AUS,20.1204654346,103730,,,Jonathan Marray,R,,GBR,20.1971252567,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1017,5,675,18
+2001-M-FU-GRE-02A-2001,Greece F2,Hard,32,S,20010521,22,103743,,Q,Domenic Marafiote,L,,AUS,20.1204654346,103730,,,Jonathan Marray,R,183,GBR,20.1971252567,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1017,5,675,18
 2001-M-FU-GRE-02A-2001,Greece F2,Hard,32,S,20010521,23,103567,,Q,Andrei Youzhny,R,,RUS,21.0047912389,102506,6,,Quino Munoz,R,178,ESP,26.3764544832,0-6 6-2 7-6(7),3,R16,,,,,,,,,,,,,,,,,,,,815,10,527,34
 2001-M-FU-GRE-02A-2001,Greece F2,Hard,32,S,20010521,24,103167,,Q,Jocelyn Robichaud,R,,CAN,23.1184120465,102347,2,,Dmitri Tomashevich,R,,UZB,27.2087611225,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,952,6,385,70
 2001-M-FU-GRE-02A-2001,Greece F2,Hard,32,S,20010521,25,102959,1,,Marko Tkalec,R,178,SLO,24.1779603012,103116,,,Florian Jeschonek,R,,GER,23.3429158111,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,332,87,690,17
@@ -4610,7 +4610,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-YUG-02A-2001,Yugoslavia F2,Clay,32,S,20010521,11,103366,,LL,Ulrich Tippenhauer,R,,GER,22.0506502396,118513,,Q,Aleksander Manojlovic,R,,SRB,19.3210130048,3-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,939,6,1160,2
 2001-M-FU-YUG-02A-2001,Yugoslavia F2,Clay,32,S,20010521,12,102811,4,,Dusan Vemic,R,190,SRB,24.9253935661,103934,,,Aleksander Slovic,L,,SRB,19.2826830938,2-6 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,450,50,581,27
 2001-M-FU-YUG-02A-2001,Yugoslavia F2,Clay,32,S,20010521,13,104160,,,Lukas Dlouhy,R,185,CZE,18.1163586585,102942,6,,Vladimir Pavicevic,R,,SRB,24.2299794661,5-7 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,762,13,489,40
-2001-M-FU-YUG-02A-2001,Yugoslavia F2,Clay,32,S,20010521,14,103623,,,Jacob Adaktusson,R,,SWE,20.720054757,104222,,Q,Nikola Ciric,L,,SRB,17.8015058179,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,556,31,,
+2001-M-FU-YUG-02A-2001,Yugoslavia F2,Clay,32,S,20010521,14,103623,,,Jacob Adaktusson,R,,SWE,20.720054757,104222,,Q,Nikola Ciric,L,201,SRB,17.8015058179,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,556,31,,
 2001-M-FU-YUG-02A-2001,Yugoslavia F2,Clay,32,S,20010521,15,117719,,Q,Tomaz Berendijas,R,,SLO,22.2861054073,103410,,Q,Razvan Lupsescu,R,,ROU,21.8343600274,6-1 6-7(2) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1137,3,1225,2
 2001-M-FU-YUG-02A-2001,Yugoslavia F2,Clay,32,S,20010521,16,103162,2,,Dejan Petrovic,R,,SRB,23.1321013005,103023,,Q,Dominic Boulet,R,,CAN,23.8548939083,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,318,91,889,8
 2001-M-FU-YUG-02A-2001,Yugoslavia F2,Clay,32,S,20010521,17,103105,1,,Ruben Ramirez Hidalgo,R,183,ESP,23.370294319,102969,,Q,Sergei Yaroshenko,R,,UKR,24.1232032854,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,303,101,738,14
@@ -4812,7 +4812,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-GRE-03A-2001,Greece F3,Hard,32,S,20010528,4,103348,7,,Timo Fleischfresser,U,,GER,22.1820670773,104114,,Q,Michael Ouvarov,R,,GBR,18.3600273785,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,578,28,,
 2001-M-FU-GRE-03A-2001,Greece F3,Hard,32,S,20010528,5,102347,3,,Dmitri Tomashevich,R,,UZB,27.227926078,111319,,Q,Fotis Fotakis,R,,AUS,15.7097878166,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,385,70,,
 2001-M-FU-GRE-03A-2001,Greece F3,Hard,32,S,20010528,6,103715,,,Kirill Ivanov Smolensky,R,,RUS,20.2683093771,103531,,Q,Thomas Oger,U,,MON,21.18275154,6-7(5) 6-2 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,759,13,1230,2
-2001-M-FU-GRE-03A-2001,Greece F3,Hard,32,S,20010528,7,103743,,,Domenic Marafiote,L,,AUS,20.1396303901,103730,,,Jonathan Marray,R,,GBR,20.2162902122,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1019,5,671,18
+2001-M-FU-GRE-03A-2001,Greece F3,Hard,32,S,20010528,7,103743,,,Domenic Marafiote,L,,AUS,20.1396303901,103730,,,Jonathan Marray,R,183,GBR,20.2162902122,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1019,5,671,18
 2001-M-FU-GRE-03A-2001,Greece F3,Hard,32,S,20010528,8,104005,,LL,Tomer Suissa,U,,ISR,19.0034223135,103122,5,,Josh Tuckfield,R,,AUS,23.3456536619,6-4 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1325,1,501,39
 2001-M-FU-GRE-03A-2001,Greece F3,Hard,32,S,20010528,9,102506,6,,Quino Munoz,R,178,ESP,26.3956194387,102945,,,Luke Bourgeois,R,188,AUS,24.2354551677,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,524,34,939,6
 2001-M-FU-GRE-03A-2001,Greece F3,Hard,32,S,20010528,10,103119,,WC,Filipos Papachristopoulos,R,,GRE,23.356605065,108689,,Q,Goran Bosalevski,R,,HKG,23.1321013005,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1325,1
@@ -4907,7 +4907,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-MAR-02A-2001,Morocco F2,Clay,32,S,20010528,6,102967,,SE,Marc Gicquel,R,188,FRA,24.1615331964,104099,,Q,Israel Matos Gil,U,,ESP,18.4531143053,6-4 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1230,2,838,9
 2001-M-FU-MAR-02A-2001,Morocco F2,Clay,32,S,20010528,7,102947,,,Jason Cook,R,,USA,24.2299794661,103496,,,Jalal Chafai,U,,MAR,21.3470225873,6-1 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,708,16,786,11
 2001-M-FU-MAR-02A-2001,Morocco F2,Clay,32,S,20010528,8,103677,6,,Andreas Fasching,U,,AUT,20.4024640657,103823,,,Denis Gremelmayr,L,183,GER,19.780971937,6-3 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,460,47,544,32
-2001-M-FU-MAR-02A-2001,Morocco F2,Clay,32,S,20010528,9,103810,8,,Philipp Hammer,R,,GER,19.8576317591,104311,,Q,Leonardo Tavares,R,,POR,17.2676249144,3-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,488,41,,
+2001-M-FU-MAR-02A-2001,Morocco F2,Clay,32,S,20010528,9,103810,8,,Philipp Hammer,R,,GER,19.8576317591,104311,,Q,Leonardo Tavares,R,185,POR,17.2676249144,3-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,488,41,,
 2001-M-FU-MAR-02A-2001,Morocco F2,Clay,32,S,20010528,10,103430,,Q,Ezequiel Velez,R,,ESP,21.7385352498,104271,,,Philipp Mukhometov,R,,RUS,17.5058179329,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,738,14,742,14
 2001-M-FU-MAR-02A-2001,Morocco F2,Clay,32,S,20010528,11,101863,,,Roberto Alvarez,R,,ARG,30.2587268994,103661,,,Pedro Rico,U,,ESP,20.4654346338,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,719,15,768,12
 2001-M-FU-MAR-02A-2001,Morocco F2,Clay,32,S,20010528,12,102820,,,David Mcnamara,R,,AUS,24.9199178645,103088,4,,Xavier Pujo,R,180,FRA,23.4770704997,3-6 7-5 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,595,25,424,57
@@ -4996,7 +4996,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-YUG-03A-2001,Yugoslavia F3,Clay,32,S,20010528,2,103512,,,Ivan Cinkus,R,,CRO,21.2703627652,117409,,Q,Peter Kolesnikov,U,,RUS,22.2286105407,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,547,32,,
 2001-M-FU-YUG-03A-2001,Yugoslavia F3,Clay,32,S,20010528,3,104386,,SE,Janko Tipsarevic,R,180,SRB,16.9308692676,103704,,WC,Vladimir Obradovic,R,196,SRB,20.3093771389,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1032,4,1325,1
 2001-M-FU-YUG-03A-2001,Yugoslavia F3,Clay,32,S,20010528,4,103610,,,Mirko Pehar,R,,USA,20.810403833,103941,6,,Sergei Pozdnev,R,,RUS,19.279945243,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,693,17,502,39
-2001-M-FU-YUG-03A-2001,Yugoslavia F3,Clay,32,S,20010528,5,103162,3,,Dejan Petrovic,R,,SRB,23.151266256,103841,,Q,Julio Peralta,R,,CHI,19.7152635181,6-2 6-7(7) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,316,94,682,17
+2001-M-FU-YUG-03A-2001,Yugoslavia F3,Clay,32,S,20010528,5,103162,3,,Dejan Petrovic,R,,SRB,23.151266256,103841,,Q,Julio Peralta,R,188,CHI,19.7152635181,6-2 6-7(7) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,316,94,682,17
 2001-M-FU-YUG-03A-2001,Yugoslavia F3,Clay,32,S,20010528,6,103708,,,Jaroslav Pospisil,R,,CZE,20.295687885,103023,,Q,Dominic Boulet,R,,CAN,23.8740588638,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,673,18,827,10
 2001-M-FU-YUG-03A-2001,Yugoslavia F3,Clay,32,S,20010528,7,104081,,WC,Boris Pashanski,R,180,SRB,18.5653661875,102969,,Q,Sergei Yaroshenko,R,,UKR,24.1423682409,7-6(6) 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,895,7,711,16
 2001-M-FU-YUG-03A-2001,Yugoslavia F3,Clay,32,S,20010528,8,102942,7,,Vladimir Pavicevic,R,,SRB,24.2491444216,103983,,Q,Aleksandar Vlaski,L,,SRB,19.1019849418,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,482,42,703,16
@@ -5191,7 +5191,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-SLO-01A-2001,Slovenia F1,Clay,32,S,20010604,11,103586,,Q,Mariusz Fyrstenberg,L,193,POL,20.9062286105,103769,,,Markus Polessnig,R,,AUT,20.0739219713,6-4 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,820,10,589,27
 2001-M-FU-SLO-01A-2001,Slovenia F1,Clay,32,S,20010604,12,103726,3,,Jean Christophe Faurel,R,175,FRA,20.2464065708,103657,,,Ivo Klec,R,183,SVK,20.514715948,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,471,45,616,23
 2001-M-FU-SLO-01A-2001,Slovenia F1,Clay,32,S,20010604,13,103512,6,,Ivan Cinkus,R,,CRO,21.2895277207,102931,,,Daniel Lencina Ribes,R,,LTU,24.3258042437,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,547,32,618,23
-2001-M-FU-SLO-01A-2001,Slovenia F1,Clay,32,S,20010604,14,103841,,,Julio Peralta,R,,CHI,19.7344284736,118380,,WC,Miran Cej,U,,SLO,20.8021902806,6-1 6-7(2) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,682,17,,
+2001-M-FU-SLO-01A-2001,Slovenia F1,Clay,32,S,20010604,14,103841,,,Julio Peralta,R,188,CHI,19.7344284736,118380,,WC,Miran Cej,U,,SLO,20.8021902806,6-1 6-7(2) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,682,17,,
 2001-M-FU-SLO-01A-2001,Slovenia F1,Clay,32,S,20010604,15,103775,,,Felipe Parada,R,175,CHI,20.052019165,118381,,Q,Ivor Lovrak,U,,CRO,18.9349760438,6-3 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,649,20,,
 2001-M-FU-SLO-01A-2001,Slovenia F1,Clay,32,S,20010604,16,104203,,WC,Darko Madjarovski,R,,SRB,17.9657768652,103677,2,,Andreas Fasching,U,,AUT,20.4216290212,6-3 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,761,12,460,47
 2001-M-FU-SLO-01A-2001,Slovenia F1,Clay,32,S,20010604,17,103318,,Q,Zeljko Krajan,R,178,CRO,22.3326488706,103708,,,Jaroslav Pospisil,R,,CZE,20.3148528405,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,795,11,673,18
@@ -5200,12 +5200,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-SLO-01A-2001,Slovenia F1,Clay,32,S,20010604,20,101970,,,Iztok Bozic,R,,SLO,29.6865160849,103515,,LL,Filip Aniola,R,,POL,21.273100616,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,703,16,751,13
 2001-M-FU-SLO-01A-2001,Slovenia F1,Clay,32,S,20010604,21,103934,,,Aleksander Slovic,L,,SRB,19.3210130048,103733,7,,Luben Pampoulov,R,,AUT,20.2245037645,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,569,29,554,31
 2001-M-FU-SLO-01A-2001,Slovenia F1,Clay,32,S,20010604,22,103726,3,,Jean Christophe Faurel,R,175,FRA,20.2464065708,103586,,Q,Mariusz Fyrstenberg,L,193,POL,20.9062286105,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,471,45,820,10
-2001-M-FU-SLO-01A-2001,Slovenia F1,Clay,32,S,20010604,23,103841,,,Julio Peralta,R,,CHI,19.7344284736,103512,6,,Ivan Cinkus,R,,CRO,21.2895277207,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,682,17,547,32
+2001-M-FU-SLO-01A-2001,Slovenia F1,Clay,32,S,20010604,23,103841,,,Julio Peralta,R,188,CHI,19.7344284736,103512,6,,Ivan Cinkus,R,,CRO,21.2895277207,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,682,17,547,32
 2001-M-FU-SLO-01A-2001,Slovenia F1,Clay,32,S,20010604,24,103775,,,Felipe Parada,R,175,CHI,20.052019165,104203,,WC,Darko Madjarovski,R,,SRB,17.9657768652,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,649,20,761,12
 2001-M-FU-SLO-01A-2001,Slovenia F1,Clay,32,S,20010604,25,103318,,Q,Zeljko Krajan,R,178,CRO,22.3326488706,104091,,,Miguel Angel Lopez Jaen,R,188,ESP,18.5133470226,3-6 7-6(8) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,795,11,630,22
 2001-M-FU-SLO-01A-2001,Slovenia F1,Clay,32,S,20010604,26,101970,,,Iztok Bozic,R,,SLO,29.6865160849,102240,,Q,Kresimir Ritz,R,,CRO,27.9342915811,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,703,16,1325,1
 2001-M-FU-SLO-01A-2001,Slovenia F1,Clay,32,S,20010604,27,103726,3,,Jean Christophe Faurel,R,175,FRA,20.2464065708,103934,,,Aleksander Slovic,L,,SRB,19.3210130048,6-2 6-7(5) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,471,45,569,29
-2001-M-FU-SLO-01A-2001,Slovenia F1,Clay,32,S,20010604,28,103775,,,Felipe Parada,R,175,CHI,20.052019165,103841,,,Julio Peralta,R,,CHI,19.7344284736,1-6 6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,649,20,682,17
+2001-M-FU-SLO-01A-2001,Slovenia F1,Clay,32,S,20010604,28,103775,,,Felipe Parada,R,175,CHI,20.052019165,103841,,,Julio Peralta,R,188,CHI,19.7344284736,1-6 6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,649,20,682,17
 2001-M-FU-SLO-01A-2001,Slovenia F1,Clay,32,S,20010604,29,101970,,,Iztok Bozic,R,,SLO,29.6865160849,103318,,Q,Zeljko Krajan,R,178,CRO,22.3326488706,4-6 6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,703,16,795,11
 2001-M-FU-SLO-01A-2001,Slovenia F1,Clay,32,S,20010604,30,103726,3,,Jean Christophe Faurel,R,175,FRA,20.2464065708,103775,,,Felipe Parada,R,175,CHI,20.052019165,6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,471,45,649,20
 2001-M-FU-SLO-01A-2001,Slovenia F1,Clay,32,S,20010604,31,101970,,,Iztok Bozic,R,,SLO,29.6865160849,103726,3,,Jean Christophe Faurel,R,175,FRA,20.2464065708,7-5 6-1,3,F,,,,,,,,,,,,,,,,,,,,703,16,471,45
@@ -5481,7 +5481,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-ITA-07A-2001,Italy F7,Clay,32,S,20010611,30,103857,,,Igor Kunitsyn,R,180,RUS,19.6960985626,103105,7,,Ruben Ramirez Hidalgo,R,183,ESP,23.4277891855,2-6 6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,349,84,297,105
 2001-M-FU-ITA-07A-2001,Italy F7,Clay,32,S,20010611,31,103857,,,Igor Kunitsyn,R,180,RUS,19.6960985626,103799,5,,Eric Prodon,R,178,FRA,19.9561943874,6-4 6-1,3,F,,,,,,,,,,,,,,,,,,,,349,84,350,83
 2001-M-FU-MKD-01A-2001,Macedonia F1,Clay,32,S,20010611,1,102737,1,,Gergely Kisgyorgy,R,,HUN,25.2594113621,104271,,,Philipp Mukhometov,R,,RUS,17.5441478439,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,409,62,728,16
-2001-M-FU-MKD-01A-2001,Macedonia F1,Clay,32,S,20010611,2,103666,,Q,Ilia Kushev,R,,BUL,20.4928131417,104222,,LL,Nikola Ciric,L,,SRB,17.8590006845,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1176,2,1344,1
+2001-M-FU-MKD-01A-2001,Macedonia F1,Clay,32,S,20010611,2,103666,,Q,Ilia Kushev,R,,BUL,20.4928131417,104222,,LL,Nikola Ciric,L,201,SRB,17.8590006845,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1176,2,1344,1
 2001-M-FU-MKD-01A-2001,Macedonia F1,Clay,32,S,20010611,3,104234,,,Predrag Rusevski,R,,MKD,17.7905544148,103410,,Q,Razvan Lupsescu,R,,ROU,21.8918548939,6-1 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,835,10,1344,1
 2001-M-FU-MKD-01A-2001,Macedonia F1,Clay,32,S,20010611,4,103941,5,,Sergei Pozdnev,R,,RUS,19.318275154,103936,,,Todor Enev,R,,BUL,19.3374401095,7-5 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,497,41,601,25
 2001-M-FU-MKD-01A-2001,Macedonia F1,Clay,32,S,20010611,5,103872,,WC,Dimitar Grabuloski,U,,MKD,19.5975359343,103129,3,,Per Thornadtsson,R,,SWE,23.3730321697,6-3 3-6 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,1344,1,474,46
@@ -5598,7 +5598,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-SA-NED-01A-2001b,Netherlands 2,Clay,24,S,20010611,23,103956,3,,Stefan Wauters,R,,BEL,19.2498288843,102603,4,,Melvyn Op Der Heijde,R,180,NED,26.0013689254,7-5 6-4,3,F,,,,,,,,,,,,,,,,,,,,416,58,569,30
 2001-M-SA-NED-01A-2001c,Netherlands 3,Clay,32,S,20010611,1,103956,1,,Stefan Wauters,R,,BEL,19.2498288843,103496,,,Jalal Chafai,U,,MAR,21.3853524983,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,416,58,798,11
 2001-M-SA-NED-01A-2001c,Netherlands 3,Clay,32,S,20010611,2,103083,,PR,Gregory Bauwens,R,,BEL,23.5537303217,103679,,,Jeroen Masson,R,,BEL,20.4380561259,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,686,18
-2001-M-SA-NED-01A-2001c,Netherlands 3,Clay,32,S,20010611,3,103918,,,Dominique Coene,R,,BEL,19.3812457221,104235,,WC,Matwe Middelkoop,R,,NED,17.7713894593,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,738,15,,
+2001-M-SA-NED-01A-2001c,Netherlands 3,Clay,32,S,20010611,3,103918,,,Dominique Coene,R,,BEL,19.3812457221,104235,,WC,Matwe Middelkoop,R,191,NED,17.7713894593,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,738,15,,
 2001-M-SA-NED-01A-2001c,Netherlands 3,Clay,32,S,20010611,4,102603,5,,Melvyn Op Der Heijde,R,180,NED,26.0013689254,118316,,Q,Stefan Weeda,U,,NED,20.3449691992,6-2 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,569,30,1344,1
 2001-M-SA-NED-01A-2001c,Netherlands 3,Clay,32,S,20010611,5,103187,4,,Hisham Hemeda,R,,EGY,23.112936345,103501,,,Vijay Kannan,R,,IND,21.3497604381,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,546,33,890,8
 2001-M-SA-NED-01A-2001c,Netherlands 3,Clay,32,S,20010611,6,103611,,,Giancarlo Petrazzuolo,R,,ITA,20.8432580424,103241,,Q,Lars Zimmermann,R,,GER,22.8774811773,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,836,10,1152,3
@@ -5628,7 +5628,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-SA-NED-01A-2001c,Netherlands 3,Clay,32,S,20010611,30,103898,2,,Julien Benneteau,R,185,FRA,19.4743326489,103570,,,Fabian Roetschi,U,,SUI,21.0458590007,2-6 6-0 6-3,3,SF,,,,,,,,,,,,,,,,,,,,519,37,863,9
 2001-M-SA-NED-01A-2001c,Netherlands 3,Clay,32,S,20010611,31,103187,4,,Hisham Hemeda,R,,EGY,23.112936345,103898,2,,Julien Benneteau,R,185,FRA,19.4743326489,6-4 4-6 6-2,3,F,,,,,,,,,,,,,,,,,,,,546,33,519,37
 2001-M-SA-NED-01A-2001d,Netherlands 4,Clay,32,S,20010611,1,103956,1,,Stefan Wauters,R,,BEL,19.2498288843,103570,,,Fabian Roetschi,U,,SUI,21.0458590007,7-6(0) 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,416,58,863,9
-2001-M-SA-NED-01A-2001d,Netherlands 4,Clay,32,S,20010611,2,103496,,,Jalal Chafai,U,,MAR,21.3853524983,104235,,WC,Matwe Middelkoop,R,,NED,17.7713894593,7-5 4-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,798,11,,
+2001-M-SA-NED-01A-2001d,Netherlands 4,Clay,32,S,20010611,2,103496,,,Jalal Chafai,U,,MAR,21.3853524983,104235,,WC,Matwe Middelkoop,R,191,NED,17.7713894593,7-5 4-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,798,11,,
 2001-M-SA-NED-01A-2001d,Netherlands 4,Clay,32,S,20010611,3,103465,,WC,Paul Logtens,R,175,NED,21.5934291581,103611,,,Giancarlo Petrazzuolo,R,,ITA,20.8432580424,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1008,5,836,10
 2001-M-SA-NED-01A-2001d,Netherlands 4,Clay,32,S,20010611,4,103539,,,Alexander Hartman,U,,SWE,21.1909650924,103699,8,,Fred Hemmes,R,183,NED,20.3668720055,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,910,7,582,28
 2001-M-SA-NED-01A-2001d,Netherlands 4,Clay,32,S,20010611,5,103187,4,,Hisham Hemeda,R,,EGY,23.112936345,103603,,Q,Steven Bijl,R,,NED,20.8651608487,6-4 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,546,33,1063,4
@@ -5660,7 +5660,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-SA-NED-01A-2001d,Netherlands 4,Clay,32,S,20010611,31,103898,2,,Julien Benneteau,R,185,FRA,19.4743326489,103956,1,,Stefan Wauters,R,,BEL,19.2498288843,6-0 6-3,3,F,,,,,,,,,,,,,,,,,,,,519,37,416,58
 2001-M-FU-SLO-02A-2001,Slovenia F2,Clay,32,S,20010611,1,102959,1,,Marko Tkalec,R,178,SLO,24.2354551677,103452,,,Igor Brukner,R,,CZE,21.6865160849,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,271,121,844,10
 2001-M-FU-SLO-02A-2001,Slovenia F2,Clay,32,S,20010611,2,103586,,Q,Mariusz Fyrstenberg,L,193,POL,20.9253935661,103775,,SE,Felipe Parada,R,175,CHI,20.0711841205,3-6 7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,836,10,630,22
-2001-M-FU-SLO-02A-2001,Slovenia F2,Clay,32,S,20010611,3,103841,,Q,Julio Peralta,R,,CHI,19.7535934292,102786,,,Ladislav Simon,R,,SVK,25.1197809719,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,696,17,577,28
+2001-M-FU-SLO-02A-2001,Slovenia F2,Clay,32,S,20010611,3,103841,,Q,Julio Peralta,R,188,CHI,19.7535934292,102786,,,Ladislav Simon,R,,SVK,25.1197809719,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,696,17,577,28
 2001-M-FU-SLO-02A-2001,Slovenia F2,Clay,32,S,20010611,4,103511,7,,Jose Ezequiel Lido,R,,ESP,21.311430527,118204,,Q,Kamil Vondracek,U,,CZE,21.7385352498,3-6 7-6(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,515,37,1176,2
 2001-M-FU-SLO-02A-2001,Slovenia F2,Clay,32,S,20010611,5,103934,,,Aleksander Slovic,L,,SRB,19.3401779603,103137,4,,Frank Pokorny,U,,GER,23.3483915127,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,593,26,451,49
 2001-M-FU-SLO-02A-2001,Slovenia F2,Clay,32,S,20010611,6,103988,,Q,Mariano Albert Ferrando,R,,ESP,19.1266255989,102605,,Q,Jaka Bozic,R,,SLO,25.9822039699,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,639,21,,
@@ -5675,14 +5675,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-SLO-02A-2001,Slovenia F2,Clay,32,S,20010611,15,117719,,WC,Tomaz Berendijas,R,,SLO,22.3436002738,103623,,,Jacob Adaktusson,R,,SWE,20.7775496235,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1082,4,525,36
 2001-M-FU-SLO-02A-2001,Slovenia F2,Clay,32,S,20010611,16,102617,2,,Kim Tiilikainen,R,180,FIN,25.9274469541,103599,,Q,Jordi Marse Vidri,U,,ESP,20.8898015058,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,377,73,992,5
 2001-M-FU-SLO-02A-2001,Slovenia F2,Clay,32,S,20010611,17,102959,1,,Marko Tkalec,R,178,SLO,24.2354551677,103586,,Q,Mariusz Fyrstenberg,L,193,POL,20.9253935661,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,271,121,836,10
-2001-M-FU-SLO-02A-2001,Slovenia F2,Clay,32,S,20010611,18,103841,,Q,Julio Peralta,R,,CHI,19.7535934292,103511,7,,Jose Ezequiel Lido,R,,ESP,21.311430527,7-5 0-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,696,17,515,37
+2001-M-FU-SLO-02A-2001,Slovenia F2,Clay,32,S,20010611,18,103841,,Q,Julio Peralta,R,188,CHI,19.7535934292,103511,7,,Jose Ezequiel Lido,R,,ESP,21.311430527,7-5 0-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,696,17,515,37
 2001-M-FU-SLO-02A-2001,Slovenia F2,Clay,32,S,20010611,19,103988,,Q,Mariano Albert Ferrando,R,,ESP,19.1266255989,103934,,,Aleksander Slovic,L,,SRB,19.3401779603,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,639,21,593,26
 2001-M-FU-SLO-02A-2001,Slovenia F2,Clay,32,S,20010611,20,104056,,,Roko Karanusic,R,183,CRO,18.765229295,104091,,,Miguel Angel Lopez Jaen,R,188,ESP,18.5325119781,7-6(4) 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,477,45,634,22
 2001-M-FU-SLO-02A-2001,Slovenia F2,Clay,32,S,20010611,21,103868,5,,Ivan Navarro,R,183,ESP,19.6440793977,104371,,Q,Ivo Minar,R,183,CZE,17.0568104038,6-4 4-6 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,432,53,1120,3
 2001-M-FU-SLO-02A-2001,Slovenia F2,Clay,32,S,20010611,22,102100,,,Bartlomiej Dabrowski,R,,POL,28.8076659822,101970,,SE,Iztok Bozic,R,,SLO,29.7056810404,6-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,580,28,686,18
 2001-M-FU-SLO-02A-2001,Slovenia F2,Clay,32,S,20010611,23,104225,8,,Jan Hajek,R,180,CZE,17.8453114305,102931,,,Daniel Lencina Ribes,R,,LTU,24.3449691992,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,480,44,622,23
 2001-M-FU-SLO-02A-2001,Slovenia F2,Clay,32,S,20010611,24,102617,2,,Kim Tiilikainen,R,180,FIN,25.9274469541,117719,,WC,Tomaz Berendijas,R,,SLO,22.3436002738,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,377,73,1082,4
-2001-M-FU-SLO-02A-2001,Slovenia F2,Clay,32,S,20010611,25,102959,1,,Marko Tkalec,R,178,SLO,24.2354551677,103841,,Q,Julio Peralta,R,,CHI,19.7535934292,6-7(8) 6-4 6-0,3,QF,,,,,,,,,,,,,,,,,,,,271,121,696,17
+2001-M-FU-SLO-02A-2001,Slovenia F2,Clay,32,S,20010611,25,102959,1,,Marko Tkalec,R,178,SLO,24.2354551677,103841,,Q,Julio Peralta,R,188,CHI,19.7535934292,6-7(8) 6-4 6-0,3,QF,,,,,,,,,,,,,,,,,,,,271,121,696,17
 2001-M-FU-SLO-02A-2001,Slovenia F2,Clay,32,S,20010611,26,103988,,Q,Mariano Albert Ferrando,R,,ESP,19.1266255989,104056,,,Roko Karanusic,R,183,CRO,18.765229295,7-5 6-4,3,QF,,,,,,,,,,,,,,,,,,,,639,21,477,45
 2001-M-FU-SLO-02A-2001,Slovenia F2,Clay,32,S,20010611,27,102100,,,Bartlomiej Dabrowski,R,,POL,28.8076659822,103868,5,,Ivan Navarro,R,183,ESP,19.6440793977,6-4 4-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,580,28,432,53
 2001-M-FU-SLO-02A-2001,Slovenia F2,Clay,32,S,20010611,28,102617,2,,Kim Tiilikainen,R,180,FIN,25.9274469541,104225,8,,Jan Hajek,R,180,CZE,17.8453114305,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,377,73,480,44
@@ -6147,7 +6147,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-FRA-10A-2001,France F10,Clay,32,S,20010625,30,102939,2,SE,Jean Baptiste Perlant,R,190,FRA,24.3367556468,103693,,,Thierry Ascione,R,188,FRA,20.4353182752,6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,302,103,430,53
 2001-M-FU-FRA-10A-2001,France F10,Clay,32,S,20010625,31,102939,2,SE,Jean Baptiste Perlant,R,190,FRA,24.3367556468,103535,1,,Olivier Patience,R,180,FRA,21.2511978097,6-3 6-3,3,F,,,,,,,,,,,,,,,,,,,,302,103,298,105
 2001-M-FU-HUN-01A-2001,Hungary F1,Clay,32,S,20010625,1,103229,,,Kornel Bardoczky,R,,HUN,22.9733059548,102702,1,,Relja Fiser Dulic,R,,SRB,25.4839151266,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,577,29,332,88
-2001-M-FU-HUN-01A-2001,Hungary F1,Clay,32,S,20010625,2,103967,,,Michael Lammer,R,185,SUI,19.2525667351,103841,,Q,Julio Peralta,R,,CHI,19.7919233402,6-7(6) 6-4 3-5 RET,3,R32,,,,,,,,,,,,,,,,,,,,451,49,644,21
+2001-M-FU-HUN-01A-2001,Hungary F1,Clay,32,S,20010625,2,103967,,,Michael Lammer,R,185,SUI,19.2525667351,103841,,Q,Julio Peralta,R,188,CHI,19.7919233402,6-7(6) 6-4 3-5 RET,3,R32,,,,,,,,,,,,,,,,,,,,451,49,644,21
 2001-M-FU-HUN-01A-2001,Hungary F1,Clay,32,S,20010625,3,103460,,Q,Konstantin Don Gruber,R,183,AUT,21.6618754278,103348,,,Timo Fleischfresser,U,,GER,22.2587268994,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,785,12,665,20
 2001-M-FU-HUN-01A-2001,Hungary F1,Clay,32,S,20010625,4,103432,,,Branislav Sekac,R,,SVK,21.8097193703,102737,6,,Gergely Kisgyorgy,R,,HUN,25.2977412731,7-6(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,506,38,428,53
 2001-M-FU-HUN-01A-2001,Hungary F1,Clay,32,S,20010625,5,103455,3,,Michal Mertinak,R,180,SVK,21.7056810404,104247,,WC,Sebo Kiss,U,,HUN,17.7631759069,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,364,76,,
@@ -6454,7 +6454,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-ROU-01A-2001,Romania F1,Clay,32,S,20010702,4,101863,6,,Roberto Alvarez,R,,ARG,30.3545516769,104081,,,Boris Pashanski,R,180,SRB,18.6611909651,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,586,27,852,9
 2001-M-FU-ROU-01A-2001,Romania F1,Clay,32,S,20010702,5,103608,4,,Mario Munoz Bejarano,R,,ESP,20.9117043121,103651,,Q,Alexander Satschko,R,180,GER,20.6351813826,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,483,43,,
 2001-M-FU-ROU-01A-2001,Romania F1,Clay,32,S,20010702,6,104203,,,Darko Madjarovski,R,,SRB,18.0424366872,118450,,LL,Jordi Sole Masso,U,,ESP,21.87816564,7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,753,14,1187,2
-2001-M-FU-ROU-01A-2001,Romania F1,Clay,32,S,20010702,7,103841,,,Julio Peralta,R,,CHI,19.8110882957,102335,,,Taso Vasiliadis,R,,GRE,27.3730321697,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,644,21,809,11
+2001-M-FU-ROU-01A-2001,Romania F1,Clay,32,S,20010702,7,103841,,,Julio Peralta,R,188,CHI,19.8110882957,102335,,,Taso Vasiliadis,R,,GRE,27.3730321697,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,644,21,809,11
 2001-M-FU-ROU-01A-2001,Romania F1,Clay,32,S,20010702,8,101957,5,,Milen Velev,R,,BUL,29.826146475,103704,,Q,Vladimir Obradovic,R,196,SRB,20.4052019165,6-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,580,28,1349,1
 2001-M-FU-ROU-01A-2001,Romania F1,Clay,32,S,20010702,9,103925,,Q,Gabriel Moraru,R,180,ROU,19.4250513347,103775,7,,Felipe Parada,R,175,CHI,20.128678987,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,948,6,598,26
 2001-M-FU-ROU-01A-2001,Romania F1,Clay,32,S,20010702,10,104410,,WC,Andrei Mlendea,U,,ROU,16.9117043121,104079,,Q,Marius Zay,U,,GER,18.6858316222,6-1 3-6 7-6(0),3,R32,,,,,,,,,,,,,,,,,,,,,,1349,1
@@ -6467,7 +6467,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-ROU-01A-2001,Romania F1,Clay,32,S,20010702,17,103812,1,,Victor Hanescu,R,198,ROU,19.947980835,103658,,,Jordane Doble,R,,FRA,20.5804243669,5-7 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,365,75,664,20
 2001-M-FU-ROU-01A-2001,Romania F1,Clay,32,S,20010702,18,101863,6,,Roberto Alvarez,R,,ARG,30.3545516769,104181,,WC,Victor Ionita,R,185,ROU,18.1437371663,7-6(5) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,586,27,921,7
 2001-M-FU-ROU-01A-2001,Romania F1,Clay,32,S,20010702,19,104203,,,Darko Madjarovski,R,,SRB,18.0424366872,103608,4,,Mario Munoz Bejarano,R,,ESP,20.9117043121,7-5 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,753,14,483,43
-2001-M-FU-ROU-01A-2001,Romania F1,Clay,32,S,20010702,20,101957,5,,Milen Velev,R,,BUL,29.826146475,103841,,,Julio Peralta,R,,CHI,19.8110882957,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,580,28,644,21
+2001-M-FU-ROU-01A-2001,Romania F1,Clay,32,S,20010702,20,101957,5,,Milen Velev,R,,BUL,29.826146475,103841,,,Julio Peralta,R,188,CHI,19.8110882957,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,580,28,644,21
 2001-M-FU-ROU-01A-2001,Romania F1,Clay,32,S,20010702,21,104410,,WC,Andrei Mlendea,U,,ROU,16.9117043121,103925,,Q,Gabriel Moraru,R,180,ROU,19.4250513347,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,948,6
 2001-M-FU-ROU-01A-2001,Romania F1,Clay,32,S,20010702,22,103877,3,,Mike Scheidweiler,R,188,LUX,19.6303901437,117494,,Q,Tomislav Gospic,U,,AUT,20.720054757,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,469,46,,
 2001-M-FU-ROU-01A-2001,Romania F1,Clay,32,S,20010702,23,104149,,,Adrian Cruciat,R,,ROU,18.2559890486,103885,,,Daniel Lesske,U,,GER,19.5811088296,2-6 6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,802,11,757,14
@@ -6483,7 +6483,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-SVK-04A-2001,Slovak Rep F4,Clay,32,S,20010702,2,103467,,LL,Victor Bruthans,R,,SVK,21.6454483231,111538,,Q,Jiri Vrbka,U,,CZE,21.2511978097,6-4 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,619,24,1126,3
 2001-M-FU-SVK-04A-2001,Slovak Rep F4,Clay,32,S,20010702,3,102569,,,Ronald Dueller,R,,AUT,26.2477754962,104278,,Q,Matt Bocko,U,,USA,17.5550992471,2-6 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,862,9,,
 2001-M-FU-SVK-04A-2001,Slovak Rep F4,Clay,32,S,20010702,4,102927,5,,Boris Borgula,R,,SVK,24.4216290212,103643,,Q,Lauri Kiiski,R,,FIN,20.7255304586,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,454,49,882,8
-2001-M-FU-SVK-04A-2001,Slovak Rep F4,Clay,32,S,20010702,5,103639,,LL,Brad Weston,R,,AUS,20.7364818617,104743,,WC,Kamil Capkovic,R,,SVK,15.0828199863,6-3 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2001-M-FU-SVK-04A-2001,Slovak Rep F4,Clay,32,S,20010702,5,103639,,LL,Brad Weston,R,,AUS,20.7364818617,104743,,WC,Kamil Capkovic,R,198,SVK,15.0828199863,6-3 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2001-M-FU-SVK-04A-2001,Slovak Rep F4,Clay,32,S,20010702,6,102376,,,Radovan Svetlik,R,,CZE,27.2224503765,118522,,Q,Rudolf Kostler,U,,AUT,19.4661190965,3-6 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,594,26,1263,2
 2001-M-FU-SVK-04A-2001,Slovak Rep F4,Clay,32,S,20010702,7,103006,,,Erik Csarnakovics,R,,SVK,24.0492813142,103965,,,Markus Krenn,U,,AUT,19.2744695414,2-6 7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,673,19,816,10
 2001-M-FU-SVK-04A-2001,Slovak Rep F4,Clay,32,S,20010702,8,103480,,,Martin Stepanek,R,,CZE,21.5523613963,103769,8,,Markus Polessnig,R,,AUT,20.1505817933,6-3 6-7(5) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,604,25,591,27
@@ -6642,7 +6642,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-ROU-02A-2001,Romania F2,Clay,32,S,20010709,6,104181,,,Victor Ionita,R,185,ROU,18.1629021218,111269,,Q,Mikael Sicco,U,,FRA,19.7180013689,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,916,7,,
 2001-M-FU-ROU-02A-2001,Romania F2,Clay,32,S,20010709,7,104234,,,Predrag Rusevski,R,,MKD,17.8672142368,103787,,,Walter Orth,U,,GER,20.090349076,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,790,12,850,9
 2001-M-FU-ROU-02A-2001,Romania F2,Clay,32,S,20010709,8,103806,7,,Catalin Ionut Gard,R,,ROU,19.9972621492,103972,,Q,Renaud Thys,U,,BEL,19.2635181383,6-4 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,698,18,991,5
-2001-M-FU-ROU-02A-2001,Romania F2,Clay,32,S,20010709,9,103841,5,,Julio Peralta,R,,CHI,19.8302532512,103410,,Q,Razvan Lupsescu,R,,ROU,21.9685147159,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,651,21,,
+2001-M-FU-ROU-02A-2001,Romania F2,Clay,32,S,20010709,9,103841,5,,Julio Peralta,R,188,CHI,19.8302532512,103410,,Q,Razvan Lupsescu,R,,ROU,21.9685147159,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,651,21,,
 2001-M-FU-ROU-02A-2001,Romania F2,Clay,32,S,20010709,10,104408,,WC,Teodor Bolanu,L,,ROU,16.9609856263,117884,,Q,Ionut Captan,R,,ROU,24.0328542094,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2001-M-FU-ROU-02A-2001,Romania F2,Clay,32,S,20010709,11,104149,,,Adrian Cruciat,R,,ROU,18.2751540041,104410,,WC,Andrei Mlendea,U,,ROU,16.9308692676,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,804,11,,
 2001-M-FU-ROU-02A-2001,Romania F2,Clay,32,S,20010709,12,103775,4,,Felipe Parada,R,175,CHI,20.1478439425,101614,,Q,Razvan Itu,R,,ROU,32.052019165,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,601,26,1348,1
@@ -6654,13 +6654,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-ROU-02A-2001,Romania F2,Clay,32,S,20010709,18,102261,,,Fabrice Betencourt,R,,FRA,27.8083504449,104154,,Q,Paul Capdeville,R,190,CHI,18.2696783025,2-6 6-3 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,892,8,,
 2001-M-FU-ROU-02A-2001,Romania F2,Clay,32,S,20010709,19,101863,3,,Roberto Alvarez,R,,ARG,30.3737166324,104181,,,Victor Ionita,R,185,ROU,18.1629021218,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,586,27,916,7
 2001-M-FU-ROU-02A-2001,Romania F2,Clay,32,S,20010709,20,103806,7,,Catalin Ionut Gard,R,,ROU,19.9972621492,104234,,,Predrag Rusevski,R,,MKD,17.8672142368,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,698,18,790,12
-2001-M-FU-ROU-02A-2001,Romania F2,Clay,32,S,20010709,21,103841,5,,Julio Peralta,R,,CHI,19.8302532512,104408,,WC,Teodor Bolanu,L,,ROU,16.9609856263,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,651,21,,
+2001-M-FU-ROU-02A-2001,Romania F2,Clay,32,S,20010709,21,103841,5,,Julio Peralta,R,188,CHI,19.8302532512,104408,,WC,Teodor Bolanu,L,,ROU,16.9609856263,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,651,21,,
 2001-M-FU-ROU-02A-2001,Romania F2,Clay,32,S,20010709,22,104149,,,Adrian Cruciat,R,,ROU,18.2751540041,103775,4,,Felipe Parada,R,175,CHI,20.1478439425,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,804,11,601,26
 2001-M-FU-ROU-02A-2001,Romania F2,Clay,32,S,20010709,23,104371,,WC,Ivo Minar,R,183,CZE,17.1334702259,103658,6,,Jordane Doble,R,,FRA,20.5995893224,7-6(7) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1064,4,652,21
 2001-M-FU-ROU-02A-2001,Romania F2,Clay,32,S,20010709,24,103390,2,,Artemon Apostu Efremov,R,,ROU,22.0561259411,103925,,Q,Gabriel Moraru,R,180,ROU,19.4442162902,4-6 6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,432,54,908,7
 2001-M-FU-ROU-02A-2001,Romania F2,Clay,32,S,20010709,25,103812,1,,Victor Hanescu,R,198,ROU,19.9671457906,102261,,,Fabrice Betencourt,R,,FRA,27.8083504449,7-5 2-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,369,73,892,8
 2001-M-FU-ROU-02A-2001,Romania F2,Clay,32,S,20010709,26,101863,3,,Roberto Alvarez,R,,ARG,30.3737166324,103806,7,,Catalin Ionut Gard,R,,ROU,19.9972621492,6-0 6-2,3,QF,,,,,,,,,,,,,,,,,,,,586,27,698,18
-2001-M-FU-ROU-02A-2001,Romania F2,Clay,32,S,20010709,27,104149,,,Adrian Cruciat,R,,ROU,18.2751540041,103841,5,,Julio Peralta,R,,CHI,19.8302532512,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,804,11,651,21
+2001-M-FU-ROU-02A-2001,Romania F2,Clay,32,S,20010709,27,104149,,,Adrian Cruciat,R,,ROU,18.2751540041,103841,5,,Julio Peralta,R,188,CHI,19.8302532512,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,804,11,651,21
 2001-M-FU-ROU-02A-2001,Romania F2,Clay,32,S,20010709,28,103390,2,,Artemon Apostu Efremov,R,,ROU,22.0561259411,104371,,WC,Ivo Minar,R,183,CZE,17.1334702259,6-2 3-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,432,54,1064,4
 2001-M-FU-ROU-02A-2001,Romania F2,Clay,32,S,20010709,29,103812,1,,Victor Hanescu,R,198,ROU,19.9671457906,101863,3,,Roberto Alvarez,R,,ARG,30.3737166324,6-1 7-6(5),3,SF,,,,,,,,,,,,,,,,,,,,369,73,586,27
 2001-M-FU-ROU-02A-2001,Romania F2,Clay,32,S,20010709,30,103390,2,,Artemon Apostu Efremov,R,,ROU,22.0561259411,104149,,,Adrian Cruciat,R,,ROU,18.2751540041,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,432,54,804,11
@@ -6882,7 +6882,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-GER-08A-2001,Germany F7,Clay,32,S,20010716,29,102900,,,Daniel Andersson,R,,SWE,24.5475701574,103647,,,Jun Kato,R,173,JPN,20.7227926078,6-2 1-6 7-5,3,SF,,,,,,,,,,,,,,,,,,,,353,80,474,45
 2001-M-FU-GER-08A-2001,Germany F7,Clay,32,S,20010716,30,104196,,,Carlos Cuadrado,R,180,ESP,18.1245722108,102403,,WC,Bojan Vujic,R,,BIH,27.1101984942,5-7 6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,597,26,682,18
 2001-M-FU-GER-08A-2001,Germany F7,Clay,32,S,20010716,31,104196,,,Carlos Cuadrado,R,180,ESP,18.1245722108,102900,,,Daniel Andersson,R,,SWE,24.5475701574,6-1 6-1,3,F,,,,,,,,,,,,,,,,,,,,597,26,353,80
-2001-M-FU-ITA-08A-2001,Italy F8,Clay,32,S,20010716,1,102400,1,WC,Elia Grossi,R,,ITA,27.1184120465,102879,,,Jaime Fillol,R,,CHI,24.6981519507,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,256,131,870,8
+2001-M-FU-ITA-08A-2001,Italy F8,Clay,32,S,20010716,1,102400,1,WC,Elia Grossi,R,,ITA,27.1184120465,102879,,,Jaime Fillol,R,180,CHI,24.6981519507,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,256,131,870,8
 2001-M-FU-ITA-08A-2001,Italy F8,Clay,32,S,20010716,2,104160,,,Lukas Dlouhy,R,185,CZE,18.2696783025,103570,,,Fabian Roetschi,U,,SUI,21.1416837782,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,587,27,784,12
 2001-M-FU-ITA-08A-2001,Italy F8,Clay,32,S,20010716,3,103388,,,Rafael De Mesa,R,,USA,22.0889801506,102499,,Q,Gianluca Bolognino,U,,ITA,26.559890486,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,552,32,1112,3
 2001-M-FU-ITA-08A-2001,Italy F8,Clay,32,S,20010716,4,103521,5,,Andrea Stoppini,R,190,ITA,21.3771389459,109367,,WC,Michele Scardigno,R,,ITA,20.4407939767,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,313,99,1112,3
@@ -6920,7 +6920,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-ROU-03A-2001,Romania F3,Clay,32,S,20010716,5,104149,,,Adrian Cruciat,R,,ROU,18.2943189596,101863,4,,Roberto Alvarez,R,,ARG,30.392881588,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,768,13,573,29
 2001-M-FU-ROU-03A-2001,Romania F3,Clay,32,S,20010716,6,104410,,WC,Andrei Mlendea,U,,ROU,16.9500342231,117890,,Q,Mihai Stoian,U,,ROU,22.173853525,6-2 1-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1177,2,,
 2001-M-FU-ROU-03A-2001,Romania F3,Clay,32,S,20010716,7,103539,,,Alexander Hartman,U,,SWE,21.28678987,101603,,Q,Bela Mozes,R,,ROU,32.1998631075,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,791,11,,
-2001-M-FU-ROU-03A-2001,Romania F3,Clay,32,S,20010716,8,103841,6,,Julio Peralta,R,,CHI,19.8494182067,103410,,Q,Razvan Lupsescu,R,,ROU,21.9876796715,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,634,22,,
+2001-M-FU-ROU-03A-2001,Romania F3,Clay,32,S,20010716,8,103841,6,,Julio Peralta,R,188,CHI,19.8494182067,103410,,Q,Razvan Lupsescu,R,,ROU,21.9876796715,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,634,22,,
 2001-M-FU-ROU-03A-2001,Romania F3,Clay,32,S,20010716,9,103658,7,,Jordane Doble,R,,FRA,20.6187542779,102261,,,Fabrice Betencourt,R,,FRA,27.8275154004,1-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,711,17,885,8
 2001-M-FU-ROU-03A-2001,Romania F3,Clay,32,S,20010716,10,103787,,,Walter Orth,U,,GER,20.1095140315,118451,,WC,Radu Marian Barbu,U,,ROU,17.749486653,5-7 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,836,9,,
 2001-M-FU-ROU-03A-2001,Romania F3,Clay,32,S,20010716,11,102847,,Q,Anders Pahlsson,R,,SWE,24.8761122519,102762,,WC,Marius Calugaru,R,,ROU,25.2895277207,7-6(3) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1341,1,1341,1
@@ -6932,18 +6932,18 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-ROU-03A-2001,Romania F3,Clay,32,S,20010716,17,103972,,,Renaud Thys,U,,BEL,19.2826830938,103986,,,Radoslav Lukaev,R,,BUL,19.227926078,6-7(5) 7-6(3) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,985,5,815,10
 2001-M-FU-ROU-03A-2001,Romania F3,Clay,32,S,20010716,18,103891,,Q,Alexandros Jakupovic,R,,GRE,19.5865845311,104181,,,Victor Ionita,R,185,ROU,18.1820670773,6-7(6) 6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,971,6,870,8
 2001-M-FU-ROU-03A-2001,Romania F3,Clay,32,S,20010716,19,104149,,,Adrian Cruciat,R,,ROU,18.2943189596,104410,,WC,Andrei Mlendea,U,,ROU,16.9500342231,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,768,13,1177,2
-2001-M-FU-ROU-03A-2001,Romania F3,Clay,32,S,20010716,20,103841,6,,Julio Peralta,R,,CHI,19.8494182067,103539,,,Alexander Hartman,U,,SWE,21.28678987,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,634,22,791,11
+2001-M-FU-ROU-03A-2001,Romania F3,Clay,32,S,20010716,20,103841,6,,Julio Peralta,R,188,CHI,19.8494182067,103539,,,Alexander Hartman,U,,SWE,21.28678987,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,634,22,791,11
 2001-M-FU-ROU-03A-2001,Romania F3,Clay,32,S,20010716,21,103658,7,,Jordane Doble,R,,FRA,20.6187542779,103787,,,Walter Orth,U,,GER,20.1095140315,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,711,17,836,9
 2001-M-FU-ROU-03A-2001,Romania F3,Clay,32,S,20010716,22,103925,,,Gabriel Moraru,R,180,ROU,19.4633812457,102847,,Q,Anders Pahlsson,R,,SWE,24.8761122519,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,864,8,1341,1
 2001-M-FU-ROU-03A-2001,Romania F3,Clay,32,S,20010716,23,103806,8,,Catalin Ionut Gard,R,,ROU,20.0164271047,118306,,Q,Claudiu Antonescu,U,,ROU,23.794661191,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,693,18,,
 2001-M-FU-ROU-03A-2001,Romania F3,Clay,32,S,20010716,24,103666,,,Ilia Kushev,R,,BUL,20.5886379192,103390,2,,Artemon Apostu Efremov,R,,ROU,22.0752908966,6-3 1-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,740,14,428,54
 2001-M-FU-ROU-03A-2001,Romania F3,Clay,32,S,20010716,25,103972,,,Renaud Thys,U,,BEL,19.2826830938,103891,,Q,Alexandros Jakupovic,R,,GRE,19.5865845311,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,985,5,971,6
-2001-M-FU-ROU-03A-2001,Romania F3,Clay,32,S,20010716,26,103841,6,,Julio Peralta,R,,CHI,19.8494182067,104149,,,Adrian Cruciat,R,,ROU,18.2943189596,6-4 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,634,22,768,13
+2001-M-FU-ROU-03A-2001,Romania F3,Clay,32,S,20010716,26,103841,6,,Julio Peralta,R,188,CHI,19.8494182067,104149,,,Adrian Cruciat,R,,ROU,18.2943189596,6-4 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,634,22,768,13
 2001-M-FU-ROU-03A-2001,Romania F3,Clay,32,S,20010716,27,103925,,,Gabriel Moraru,R,180,ROU,19.4633812457,103658,7,,Jordane Doble,R,,FRA,20.6187542779,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,864,8,711,17
 2001-M-FU-ROU-03A-2001,Romania F3,Clay,32,S,20010716,28,103806,8,,Catalin Ionut Gard,R,,ROU,20.0164271047,103666,,,Ilia Kushev,R,,BUL,20.5886379192,6-3 6-0,3,QF,,,,,,,,,,,,,,,,,,,,693,18,740,14
-2001-M-FU-ROU-03A-2001,Romania F3,Clay,32,S,20010716,29,103841,6,,Julio Peralta,R,,CHI,19.8494182067,103972,,,Renaud Thys,U,,BEL,19.2826830938,7-6(2) 6-2,3,SF,,,,,,,,,,,,,,,,,,,,634,22,985,5
+2001-M-FU-ROU-03A-2001,Romania F3,Clay,32,S,20010716,29,103841,6,,Julio Peralta,R,188,CHI,19.8494182067,103972,,,Renaud Thys,U,,BEL,19.2826830938,7-6(2) 6-2,3,SF,,,,,,,,,,,,,,,,,,,,634,22,985,5
 2001-M-FU-ROU-03A-2001,Romania F3,Clay,32,S,20010716,30,103925,,,Gabriel Moraru,R,180,ROU,19.4633812457,103806,8,,Catalin Ionut Gard,R,,ROU,20.0164271047,7-6(4) 3-6 7-5,3,SF,,,,,,,,,,,,,,,,,,,,864,8,693,18
-2001-M-FU-ROU-03A-2001,Romania F3,Clay,32,S,20010716,31,103925,,,Gabriel Moraru,R,180,ROU,19.4633812457,103841,6,,Julio Peralta,R,,CHI,19.8494182067,7-6(6) 7-6(3),3,F,,,,,,,,,,,,,,,,,,,,864,8,634,22
+2001-M-FU-ROU-03A-2001,Romania F3,Clay,32,S,20010716,31,103925,,,Gabriel Moraru,R,180,ROU,19.4633812457,103841,6,,Julio Peralta,R,188,CHI,19.8494182067,7-6(6) 7-6(3),3,F,,,,,,,,,,,,,,,,,,,,864,8,634,22
 2001-M-FU-SVK-06A-2001,Slovak Rep F6,Clay,32,S,20010716,1,103120,1,,Juraj Hasko,R,,SVK,23.4880219028,118524,,LL,Marek Granec,U,,SVK,21.5359342916,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,374,73,,
 2001-M-FU-SVK-06A-2001,Slovak Rep F6,Clay,32,S,20010716,2,103938,,,Igor Zelenay,R,198,SVK,19.4277891855,104088,,LL,Michal Navratil,L,,CZE,18.6529774127,6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,870,8,920,7
 2001-M-FU-SVK-06A-2001,Slovak Rep F6,Clay,32,S,20010716,3,103500,,Q,Frantisek Babej,R,,SVK,21.4455852156,101909,,,Roman Smotlak,R,,SVK,30.1930184805,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,911,7,772,12
@@ -7781,7 +7781,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-GBR-06A-2001,Great Britain F6,Hard,32,S,20010807,6,103576,,Q,Barry Fulcher,U,,GBR,21.1553730322,104372,,WC,Alex Bogdanovic,L,183,GBR,17.2073921971,7-6(6) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1015,5,1322,1
 2001-M-FU-GBR-06A-2001,Great Britain F6,Hard,32,S,20010807,7,104107,,WC,Andrew Banks,L,,GBR,18.5817932923,103087,,Q,Graeme Darlington,R,,GBR,23.6769336071,7-6(2) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1243,2,1322,1
 2001-M-FU-GBR-06A-2001,Great Britain F6,Hard,32,S,20010807,8,102983,5,,Henrik Andersson,R,,SWE,24.2628336756,103559,,Q,David Sherwood,R,193,GBR,21.2511978097,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,459,48,1047,4
-2001-M-FU-GBR-06A-2001,Great Britain F6,Hard,32,S,20010807,9,103730,8,,Jonathan Marray,R,,GBR,20.4079397673,103263,,,Justin Layne,R,,GBR,22.8802190281,7-6(2) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,551,32,843,9
+2001-M-FU-GBR-06A-2001,Great Britain F6,Hard,32,S,20010807,9,103730,8,,Jonathan Marray,R,183,GBR,20.4079397673,103263,,,Justin Layne,R,,GBR,22.8802190281,7-6(2) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,551,32,843,9
 2001-M-FU-GBR-06A-2001,Great Britain F6,Hard,32,S,20010807,10,102573,,,Robert Samuelsson,R,,SWE,26.3244353183,103851,,,Conor Niland,R,185,IRL,19.8795345654,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,620,24,816,10
 2001-M-FU-GBR-06A-2001,Great Britain F6,Hard,32,S,20010807,11,102896,,,Giuseppe Menga,R,,ITA,24.6406570842,102743,,PR,Ben Ellwood,R,178,AUS,25.401779603,7-6(8) 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,757,13,828,9
 2001-M-FU-GBR-06A-2001,Great Britain F6,Hard,32,S,20010807,12,103402,3,,Peter Clarke,R,188,IRL,22.0807665982,111303,,WC,Tom Pocock,R,,GBR,17.5742642026,6-4 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,394,66,1322,1
@@ -7793,7 +7793,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-GBR-06A-2001,Great Britain F6,Hard,32,S,20010807,18,103671,7,,Or Dekel,R,,ISR,20.6269678303,103942,,,James Nelson,R,,GBR,19.4633812457,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,518,36,638,23
 2001-M-FU-GBR-06A-2001,Great Britain F6,Hard,32,S,20010807,19,103576,,Q,Barry Fulcher,U,,GBR,21.1553730322,102637,4,,Julien Couly,R,,FRA,25.9958932238,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1015,5,452,49
 2001-M-FU-GBR-06A-2001,Great Britain F6,Hard,32,S,20010807,20,102983,5,,Henrik Andersson,R,,SWE,24.2628336756,104107,,WC,Andrew Banks,L,,GBR,18.5817932923,7-6(0) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,459,48,1243,2
-2001-M-FU-GBR-06A-2001,Great Britain F6,Hard,32,S,20010807,21,102573,,,Robert Samuelsson,R,,SWE,26.3244353183,103730,8,,Jonathan Marray,R,,GBR,20.4079397673,6-2 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,620,24,551,32
+2001-M-FU-GBR-06A-2001,Great Britain F6,Hard,32,S,20010807,21,102573,,,Robert Samuelsson,R,,SWE,26.3244353183,103730,8,,Jonathan Marray,R,183,GBR,20.4079397673,6-2 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,620,24,551,32
 2001-M-FU-GBR-06A-2001,Great Britain F6,Hard,32,S,20010807,22,102896,,,Giuseppe Menga,R,,ITA,24.6406570842,103402,3,,Peter Clarke,R,188,IRL,22.0807665982,6-4 3-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,757,13,394,66
 2001-M-FU-GBR-06A-2001,Great Britain F6,Hard,32,S,20010807,23,103945,6,,Simon Dickson,R,,GBR,19.4442162902,102945,,,Luke Bourgeois,R,188,AUS,24.4271047228,7-6(4) 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,512,38,890,7
 2001-M-FU-GBR-06A-2001,Great Britain F6,Hard,32,S,20010807,24,104171,,Q,Richard Bloomfield,R,185,GBR,18.2778918549,103482,,Q,Robert Gustafsson,U,,SWE,21.6344969199,6-3 1-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,,
@@ -8027,7 +8027,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-SA-YUG-01A-2001a,Yugoslavia 1,Clay,32,S,20010813,4,102942,8,,Vladimir Pavicevic,R,,SRB,24.4599589322,104067,,,Goran Tosic,R,,MNE,18.8501026694,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,450,49,1325,1
 2001-M-SA-YUG-01A-2001a,Yugoslavia 1,Clay,32,S,20010813,5,103983,3,,Aleksandar Vlaski,L,,SRB,19.3127994524,102981,,,Ivan Radovanovic,R,,SRB,24.2902121834,2-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,688,18,,
 2001-M-SA-YUG-01A-2001a,Yugoslavia 1,Clay,32,S,20010813,6,118588,,Q,Mate Gyenis,U,,HUN,21.2758384668,109205,,WC,Vukasin Jankovic,R,,SRB,19.8466803559,7-6(3) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2001-M-SA-YUG-01A-2001a,Yugoslavia 1,Clay,32,S,20010813,7,104222,,,Nikola Ciric,L,,SRB,18.0314852841,103464,,Q,Nemanja Ivic,R,,YUG,21.7659137577,7-5 6-7(2) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1325,1,,
+2001-M-SA-YUG-01A-2001a,Yugoslavia 1,Clay,32,S,20010813,7,104222,,,Nikola Ciric,L,201,SRB,18.0314852841,103464,,Q,Nemanja Ivic,R,,YUG,21.7659137577,7-5 6-7(2) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1325,1,,
 2001-M-SA-YUG-01A-2001a,Yugoslavia 1,Clay,32,S,20010813,8,103574,5,,Teodor Dacian Craciun,R,,ROU,21.1854893908,109412,,Q,Dimo Tolev,R,,BUL,21.4647501711,6-1 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,858,8,1029,4
 2001-M-SA-YUG-01A-2001a,Yugoslavia 1,Clay,32,S,20010813,9,103437,6,,Francesco Piccari,R,,ITA,21.9329226557,103476,,,Israel Vior Diaz,R,,ESP,21.711156742,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1050,4,1059,4
 2001-M-SA-YUG-01A-2001a,Yugoslavia 1,Clay,32,S,20010813,10,103844,,,Igor Fejzula,U,,SRB,19.9206023272,104343,,,Adrian Gavrila,R,,ROU,17.3661875428,3-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1050,4,1173,2
@@ -8040,7 +8040,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-SA-YUG-01A-2001a,Yugoslavia 1,Clay,32,S,20010813,17,104081,,,Boris Pashanski,R,180,SRB,18.7761806982,103229,1,,Kornel Bardoczky,R,,HUN,23.1074606434,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,808,10,660,21
 2001-M-SA-YUG-01A-2001a,Yugoslavia 1,Clay,32,S,20010813,18,102942,8,,Vladimir Pavicevic,R,,SRB,24.4599589322,104164,,Q,Marco Pedrini,U,,ITA,18.3189596167,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,450,49,989,5
 2001-M-SA-YUG-01A-2001a,Yugoslavia 1,Clay,32,S,20010813,19,118588,,Q,Mate Gyenis,U,,HUN,21.2758384668,103983,3,,Aleksandar Vlaski,L,,SRB,19.3127994524,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,688,18
-2001-M-SA-YUG-01A-2001a,Yugoslavia 1,Clay,32,S,20010813,20,103574,5,,Teodor Dacian Craciun,R,,ROU,21.1854893908,104222,,,Nikola Ciric,L,,SRB,18.0314852841,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,858,8,1325,1
+2001-M-SA-YUG-01A-2001a,Yugoslavia 1,Clay,32,S,20010813,20,103574,5,,Teodor Dacian Craciun,R,,ROU,21.1854893908,104222,,,Nikola Ciric,L,201,SRB,18.0314852841,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,858,8,1325,1
 2001-M-SA-YUG-01A-2001a,Yugoslavia 1,Clay,32,S,20010813,21,103437,6,,Francesco Piccari,R,,ITA,21.9329226557,103844,,,Igor Fejzula,U,,SRB,19.9206023272,6-4 3-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1050,4,1050,4
 2001-M-SA-YUG-01A-2001a,Yugoslavia 1,Clay,32,S,20010813,22,103748,4,,Jan Minar,R,,CZE,20.3449691992,103827,,,Fabio Colangelo,R,,ITA,19.9671457906,4-6 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1173,2,957,6
 2001-M-SA-YUG-01A-2001a,Yugoslavia 1,Clay,32,S,20010813,23,104181,7,,Victor Ionita,R,185,ROU,18.2587268994,104125,,,Igor Racic,R,,BIH,18.5133470226,6-4 5-7 7-5,3,R16,,,,,,,,,,,,,,,,,,,,814,10,1050,4
@@ -8053,7 +8053,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-SA-YUG-01A-2001a,Yugoslavia 1,Clay,32,S,20010813,30,103437,6,,Francesco Piccari,R,,ITA,21.9329226557,104181,7,,Victor Ionita,R,185,ROU,18.2587268994,6-4 3-6 7-5,3,SF,,,,,,,,,,,,,,,,,,,,1050,4,814,10
 2001-M-SA-YUG-01A-2001a,Yugoslavia 1,Clay,32,S,20010813,31,102942,8,,Vladimir Pavicevic,R,,SRB,24.4599589322,103437,6,,Francesco Piccari,R,,ITA,21.9329226557,6-3 6-2,3,F,,,,,,,,,,,,,,,,,,,,450,49,1050,4
 2001-M-SA-YUG-01A-2001b,Yugoslavia 2,Clay,24,S,20010813,1,102981,,,Ivan Radovanovic,R,,SRB,24.2902121834,104041,,,Sergi Arumi,R,,ESP,19.0444900753,1-6 6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1173,2
-2001-M-SA-YUG-01A-2001b,Yugoslavia 2,Clay,24,S,20010813,2,104222,,,Nikola Ciric,L,,SRB,18.0314852841,118588,,,Mate Gyenis,U,,HUN,21.2758384668,6-1 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1325,1,,
+2001-M-SA-YUG-01A-2001b,Yugoslavia 2,Clay,24,S,20010813,2,104222,,,Nikola Ciric,L,201,SRB,18.0314852841,118588,,,Mate Gyenis,U,,HUN,21.2758384668,6-1 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1325,1,,
 2001-M-SA-YUG-01A-2001b,Yugoslavia 2,Clay,24,S,20010813,3,103827,,,Fabio Colangelo,R,,ITA,19.9671457906,103476,,,Israel Vior Diaz,R,,ESP,21.711156742,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,957,6,1059,4
 2001-M-SA-YUG-01A-2001b,Yugoslavia 2,Clay,24,S,20010813,4,104081,,,Boris Pashanski,R,180,SRB,18.7761806982,102591,,,Zoltan Nagy,R,,HUN,26.212183436,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,808,10,843,9
 2001-M-SA-YUG-01A-2001b,Yugoslavia 2,Clay,24,S,20010813,5,103636,,,Federico Torresi,R,,ITA,20.8761122519,103756,,,Stefano Mocci,R,,ITA,20.3121149897,3-4 RET,3,R32,,,,,,,,,,,,,,,,,,,,888,7,1059,4
@@ -8061,7 +8061,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-SA-YUG-01A-2001b,Yugoslavia 2,Clay,24,S,20010813,7,103934,,,Aleksander Slovic,L,,SRB,19.5126625599,109412,,,Dimo Tolev,R,,BUL,21.4647501711,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,587,27,1029,4
 2001-M-SA-YUG-01A-2001b,Yugoslavia 2,Clay,24,S,20010813,8,104164,,,Marco Pedrini,U,,ITA,18.3189596167,104125,,,Igor Racic,R,,BIH,18.5133470226,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,989,5,1050,4
 2001-M-SA-YUG-01A-2001b,Yugoslavia 2,Clay,24,S,20010813,9,102981,,,Ivan Radovanovic,R,,SRB,24.2902121834,104203,1,,Darko Madjarovski,R,,SRB,18.1574264203,3-6 6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,702,17
-2001-M-SA-YUG-01A-2001b,Yugoslavia 2,Clay,24,S,20010813,10,104181,7,,Victor Ionita,R,185,ROU,18.2587268994,104222,,,Nikola Ciric,L,,SRB,18.0314852841,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,814,10,1325,1
+2001-M-SA-YUG-01A-2001b,Yugoslavia 2,Clay,24,S,20010813,10,104181,7,,Victor Ionita,R,185,ROU,18.2587268994,104222,,,Nikola Ciric,L,201,SRB,18.0314852841,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,814,10,1325,1
 2001-M-SA-YUG-01A-2001b,Yugoslavia 2,Clay,24,S,20010813,11,103827,,,Fabio Colangelo,R,,ITA,19.9671457906,103437,4,,Francesco Piccari,R,,ITA,21.9329226557,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,957,6,1050,4
 2001-M-SA-YUG-01A-2001b,Yugoslavia 2,Clay,24,S,20010813,12,103983,8,,Aleksandar Vlaski,L,,SRB,19.3127994524,104081,,,Boris Pashanski,R,180,SRB,18.7761806982,6-3 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,688,18,808,10
 2001-M-SA-YUG-01A-2001b,Yugoslavia 2,Clay,24,S,20010813,13,103636,,,Federico Torresi,R,,ITA,20.8761122519,103574,5,,Teodor Dacian Craciun,R,,ROU,21.1854893908,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,888,7,858,8
@@ -8081,7 +8081,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-SA-YUG-01A-2001c,Yugoslavia 3,Clay,32,S,20010813,4,104067,,Q,Goran Tosic,R,,MNE,18.8501026694,102591,8,,Zoltan Nagy,R,,HUN,26.212183436,2-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,1325,1,843,9
 2001-M-SA-YUG-01A-2001c,Yugoslavia 3,Clay,32,S,20010813,5,103229,3,,Kornel Bardoczky,R,,HUN,23.1074606434,103464,,Q,Nemanja Ivic,R,,YUG,21.7659137577,2-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,660,21,,
 2001-M-SA-YUG-01A-2001c,Yugoslavia 3,Clay,32,S,20010813,6,103574,,Q,Teodor Dacian Craciun,R,,ROU,21.1854893908,104164,,,Marco Pedrini,U,,ITA,18.3189596167,7-5 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,858,8,989,5
-2001-M-SA-YUG-01A-2001c,Yugoslavia 3,Clay,32,S,20010813,7,104222,,Q,Nikola Ciric,L,,SRB,18.0314852841,104047,,,Nicolo Cotto,L,,ITA,18.9924709103,6-7(4) 7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1325,1,1088,3
+2001-M-SA-YUG-01A-2001c,Yugoslavia 3,Clay,32,S,20010813,7,104222,,Q,Nikola Ciric,L,201,SRB,18.0314852841,104047,,,Nicolo Cotto,L,,ITA,18.9924709103,6-7(4) 7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1325,1,1088,3
 2001-M-SA-YUG-01A-2001c,Yugoslavia 3,Clay,32,S,20010813,8,104203,5,,Darko Madjarovski,R,,SRB,18.1574264203,119293,,WC,Dejan Ramadanovic,R,,SRB,17.325119781,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,702,17,,
 2001-M-SA-YUG-01A-2001c,Yugoslavia 3,Clay,32,S,20010813,9,103844,,,Igor Fejzula,U,,SRB,19.9206023272,104081,6,,Boris Pashanski,R,180,SRB,18.7761806982,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1050,4,808,10
 2001-M-SA-YUG-01A-2001c,Yugoslavia 3,Clay,32,S,20010813,10,103636,,,Federico Torresi,R,,ITA,20.8761122519,104343,,Q,Adrian Gavrila,R,,ROU,17.3661875428,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,888,7,1173,2
@@ -8094,7 +8094,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-SA-YUG-01A-2001c,Yugoslavia 3,Clay,32,S,20010813,17,102942,1,,Vladimir Pavicevic,R,,SRB,24.4599589322,120133,,Q,Gabor Zoltan Pelva,U,,SRB,20.5119780972,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,450,49,,
 2001-M-SA-YUG-01A-2001c,Yugoslavia 3,Clay,32,S,20010813,18,104067,,Q,Goran Tosic,R,,MNE,18.8501026694,103476,,,Israel Vior Diaz,R,,ESP,21.711156742,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1325,1,1059,4
 2001-M-SA-YUG-01A-2001c,Yugoslavia 3,Clay,32,S,20010813,19,103229,3,,Kornel Bardoczky,R,,HUN,23.1074606434,103574,,Q,Teodor Dacian Craciun,R,,ROU,21.1854893908,3-6 6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,660,21,858,8
-2001-M-SA-YUG-01A-2001c,Yugoslavia 3,Clay,32,S,20010813,20,104203,5,,Darko Madjarovski,R,,SRB,18.1574264203,104222,,Q,Nikola Ciric,L,,SRB,18.0314852841,6-2 7-6(7),3,R16,,,,,,,,,,,,,,,,,,,,702,17,1325,1
+2001-M-SA-YUG-01A-2001c,Yugoslavia 3,Clay,32,S,20010813,20,104203,5,,Darko Madjarovski,R,,SRB,18.1574264203,104222,,Q,Nikola Ciric,L,201,SRB,18.0314852841,6-2 7-6(7),3,R16,,,,,,,,,,,,,,,,,,,,702,17,1325,1
 2001-M-SA-YUG-01A-2001c,Yugoslavia 3,Clay,32,S,20010813,21,103844,,,Igor Fejzula,U,,SRB,19.9206023272,103636,,,Federico Torresi,R,,ITA,20.8761122519,7-6(4) 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,1050,4,888,7
 2001-M-SA-YUG-01A-2001c,Yugoslavia 3,Clay,32,S,20010813,22,103437,,,Francesco Piccari,R,,ITA,21.9329226557,103983,4,,Aleksandar Vlaski,L,,SRB,19.3127994524,7-6(5) 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,1050,4,688,18
 2001-M-SA-YUG-01A-2001c,Yugoslavia 3,Clay,32,S,20010813,23,104181,7,,Victor Ionita,R,185,ROU,18.2587268994,103756,,,Stefano Mocci,R,,ITA,20.3121149897,6-7(6) 6-4 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,814,10,1059,4
@@ -8138,7 +8138,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-SA-YUG-01A-2001d,Yugoslavia 4,Clay,32,S,20010813,30,103983,4,,Aleksandar Vlaski,L,,SRB,19.3127994524,104081,6,,Boris Pashanski,R,180,SRB,18.7761806982,4-6 7-6(5) 6-1,3,SF,,,,,,,,,,,,,,,,,,,,688,18,808,10
 2001-M-SA-YUG-01A-2001d,Yugoslavia 4,Clay,32,S,20010813,31,104203,5,,Darko Madjarovski,R,,SRB,18.1574264203,103983,4,,Aleksandar Vlaski,L,,SRB,19.3127994524,6-3 6-3,3,F,,,,,,,,,,,,,,,,,,,,702,17,688,18
 2001-M-FU-GBR-07A-2001,Great Britain F7,Hard,32,S,20010814,1,102763,1,,Benjamin Cassaigne,L,185,FRA,25.363449692,104107,,WC,Andrew Banks,L,,GBR,18.6009582478,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,368,74,1240,2
-2001-M-FU-GBR-07A-2001,Great Britain F7,Hard,32,S,20010814,2,102820,,,David Mcnamara,R,,AUS,25.1307323751,103730,,,Jonathan Marray,R,,GBR,20.4271047228,2-3 RET,3,R32,,,,,,,,,,,,,,,,,,,,563,31,552,32
+2001-M-FU-GBR-07A-2001,Great Britain F7,Hard,32,S,20010814,2,102820,,,David Mcnamara,R,,AUS,25.1307323751,103730,,,Jonathan Marray,R,183,GBR,20.4271047228,2-3 RET,3,R32,,,,,,,,,,,,,,,,,,,,563,31,552,32
 2001-M-FU-GBR-07A-2001,Great Britain F7,Hard,32,S,20010814,3,103559,,Q,David Sherwood,R,193,GBR,21.2703627652,102577,,,Steven Randjelovic,R,,AUS,26.3134839151,6-2 5-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1050,4,714,17
 2001-M-FU-GBR-07A-2001,Great Britain F7,Hard,32,S,20010814,4,103671,,,Or Dekel,R,,ISR,20.6461327858,103945,8,,Simon Dickson,R,,GBR,19.4633812457,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,516,36,510,38
 2001-M-FU-GBR-07A-2001,Great Britain F7,Hard,32,S,20010814,5,103402,4,,Peter Clarke,R,188,IRL,22.0999315537,111594,,Q,Ben Haran,U,,GBR,23.4168377823,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,397,65,1112,3
@@ -8679,7 +8679,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-NED-02A-2001,Netherlands F2,Clay,32,S,20010827,29,103647,,,Jun Kato,R,173,JPN,20.8377823409,102406,5,,Thomas Dupre,R,,FRA,27.2169746749,3-6 6-1 6-3,3,SF,,,,,,,,,,,,,,,,,,,,460,48,314,100
 2001-M-FU-NED-02A-2001,Netherlands F2,Clay,32,S,20010827,30,102207,,,Jan Weinzierl,R,,GER,28.3230663929,102603,,,Melvyn Op Der Heijde,R,180,NED,26.212183436,6-7(13) 6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,413,60,517,37
 2001-M-FU-NED-02A-2001,Netherlands F2,Clay,32,S,20010827,31,102207,,,Jan Weinzierl,R,,GER,28.3230663929,103647,,,Jun Kato,R,173,JPN,20.8377823409,6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,413,60,460,48
-2001-M-FU-PER-01A-2001,Peru F1,Clay,32,S,20010827,1,103841,1,,Julio Peralta,R,,CHI,19.9644079398,103883,,,Lucas Engel,U,,BRA,19.7371663244,5-7 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,550,32,1162,3
+2001-M-FU-PER-01A-2001,Peru F1,Clay,32,S,20010827,1,103841,1,,Julio Peralta,R,188,CHI,19.9644079398,103883,,,Lucas Engel,U,,BRA,19.7371663244,5-7 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,550,32,1162,3
 2001-M-FU-PER-01A-2001,Peru F1,Clay,32,S,20010827,2,111673,,,Rodrigo Schtscherbyna,U,,BRA,24.1122518823,108951,,WC,Leonardo Ramirez,U,,PER,17.8918548939,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1346,1,,
 2001-M-FU-PER-01A-2001,Peru F1,Clay,32,S,20010827,3,103622,,,Bo Ram Cha,R,,KOR,21.0020533881,118151,,Q,Diego Pereira,U,,ARG,20.462696783,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1062,4,,
 2001-M-FU-PER-01A-2001,Peru F1,Clay,32,S,20010827,4,103286,8,Q,Yohny Romero,R,,VEN,22.7405886379,103998,,,Mario Monroy,U,,PER,19.266255989,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,748,13,1162,3
@@ -8695,7 +8695,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-PER-01A-2001,Peru F1,Clay,32,S,20010827,14,118240,,Q,Iverson Barros,R,,BRA,19.1184120465,103603,,,Steven Bijl,R,,NED,21.0759753593,6-4 2-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,1259,2
 2001-M-FU-PER-01A-2001,Peru F1,Clay,32,S,20010827,15,103549,,,Dario Perez,R,,ARG,21.3579739904,103328,,,Andres Pedroso,R,,USA,22.5133470226,5-7 6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,815,10,1007,5
 2001-M-FU-PER-01A-2001,Peru F1,Clay,32,S,20010827,16,103593,2,,Marcelo Barboza,R,,URU,21.1170431211,109047,,,Andre Santos,U,,BRA,18.7789185489,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,603,26,1346,1
-2001-M-FU-PER-01A-2001,Peru F1,Clay,32,S,20010827,17,103841,1,,Julio Peralta,R,,CHI,19.9644079398,111673,,,Rodrigo Schtscherbyna,U,,BRA,24.1122518823,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,550,32,1346,1
+2001-M-FU-PER-01A-2001,Peru F1,Clay,32,S,20010827,17,103841,1,,Julio Peralta,R,188,CHI,19.9644079398,111673,,,Rodrigo Schtscherbyna,U,,BRA,24.1122518823,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,550,32,1346,1
 2001-M-FU-PER-01A-2001,Peru F1,Clay,32,S,20010827,18,103622,,,Bo Ram Cha,R,,KOR,21.0020533881,103286,8,Q,Yohny Romero,R,,VEN,22.7405886379,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1062,4,748,13
 2001-M-FU-PER-01A-2001,Peru F1,Clay,32,S,20010827,19,104037,4,,Phillip Harboe,R,,CHI,19.1047227926,103246,,LL,Otavio Rovati,R,,BRA,23.0636550308,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,671,20,1346,1
 2001-M-FU-PER-01A-2001,Peru F1,Clay,32,S,20010827,20,104117,7,,Giovanni Lapentti,R,193,ECU,18.5872689938,104057,,Q,Alejandro Poberaj,R,,ARG,18.970568104,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,718,16,,
@@ -8703,7 +8703,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-PER-01A-2001,Peru F1,Clay,32,S,20010827,22,102973,,,Ruben De Kleijn,R,,NED,24.3559206023,118148,,Q,Ezequiel Dequino,U,,ARG,19.6303901437,3-6 6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,882,8,1346,1
 2001-M-FU-PER-01A-2001,Peru F1,Clay,32,S,20010827,23,103840,6,,Juan Pablo Di Cesare,R,,ARG,19.9644079398,118240,,Q,Iverson Barros,R,,BRA,19.1184120465,6-4 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,704,17,,
 2001-M-FU-PER-01A-2001,Peru F1,Clay,32,S,20010827,24,103549,,,Dario Perez,R,,ARG,21.3579739904,103593,2,,Marcelo Barboza,R,,URU,21.1170431211,6-7(3) 6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,815,10,603,26
-2001-M-FU-PER-01A-2001,Peru F1,Clay,32,S,20010827,25,103622,,,Bo Ram Cha,R,,KOR,21.0020533881,103841,1,,Julio Peralta,R,,CHI,19.9644079398,6-4 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,1062,4,550,32
+2001-M-FU-PER-01A-2001,Peru F1,Clay,32,S,20010827,25,103622,,,Bo Ram Cha,R,,KOR,21.0020533881,103841,1,,Julio Peralta,R,188,CHI,19.9644079398,6-4 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,1062,4,550,32
 2001-M-FU-PER-01A-2001,Peru F1,Clay,32,S,20010827,26,104117,7,,Giovanni Lapentti,R,193,ECU,18.5872689938,104037,4,,Phillip Harboe,R,,CHI,19.1047227926,7-6(5) 7-6(6),3,QF,,,,,,,,,,,,,,,,,,,,718,16,671,20
 2001-M-FU-PER-01A-2001,Peru F1,Clay,32,S,20010827,27,103935,,,Alexander Brudermann,R,,AUT,19.5482546201,102973,,,Ruben De Kleijn,R,,NED,24.3559206023,4-6 6-3 7-6(2),3,QF,,,,,,,,,,,,,,,,,,,,1189,2,882,8
 2001-M-FU-PER-01A-2001,Peru F1,Clay,32,S,20010827,28,103840,6,,Juan Pablo Di Cesare,R,,ARG,19.9644079398,103549,,,Dario Perez,R,,ARG,21.3579739904,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,704,17,815,10
@@ -9012,7 +9012,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-NED-03A-2001,Netherlands F3,Clay,32,S,20010903,29,103912,8,,Mario Radic,R,188,CRO,19.6358658453,102406,3,SE,Thomas Dupre,R,,FRA,27.2361396304,6-1 6-4,3,SF,,,,,,,,,,,,,,,,,,,,434,54,314,100
 2001-M-FU-NED-03A-2001,Netherlands F3,Clay,32,S,20010903,30,102617,4,,Kim Tiilikainen,R,180,FIN,26.1574264203,103066,,Q,Mark Nielsen,R,185,NZL,23.9041752225,7-5 6-0,3,SF,,,,,,,,,,,,,,,,,,,,360,80,576,30
 2001-M-FU-NED-03A-2001,Netherlands F3,Clay,32,S,20010903,31,102617,4,,Kim Tiilikainen,R,180,FIN,26.1574264203,103912,8,,Mario Radic,R,188,CRO,19.6358658453,4-6 6-1 6-1,3,F,,,,,,,,,,,,,,,,,,,,360,80,434,54
-2001-M-FU-PER-02A-2001,Peru F2,Clay,32,S,20010903,1,103841,1,,Julio Peralta,R,,CHI,19.9835728953,102168,,,Hector Moretti,R,170,ARG,28.5995893224,6-1 5-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,550,32,774,12
+2001-M-FU-PER-02A-2001,Peru F2,Clay,32,S,20010903,1,103841,1,,Julio Peralta,R,188,CHI,19.9835728953,102168,,,Hector Moretti,R,170,ARG,28.5995893224,6-1 5-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,550,32,774,12
 2001-M-FU-PER-02A-2001,Peru F2,Clay,32,S,20010903,2,102740,,Q,Francisco Rodriguez,R,,PAR,25.4866529774,103563,,,Gabriel Pitta,R,,BRA,21.311430527,7-6(5) 5-7 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,,,1020,5
 2001-M-FU-PER-02A-2001,Peru F2,Clay,32,S,20010903,3,103809,,Q,Diogo Cruz,U,,BRA,20.128678987,118148,,Q,Ezequiel Dequino,U,,ARG,19.6495550992,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,1346,1
 2001-M-FU-PER-02A-2001,Peru F2,Clay,32,S,20010903,4,111673,,Q,Rodrigo Schtscherbyna,U,,BRA,24.1314168378,103689,5,,Guillermo Carry,L,,ARG,20.6324435318,7-5 7-6(0),3,R32,,,,,,,,,,,,,,,,,,,,1346,1,667,20
@@ -9028,7 +9028,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-PER-02A-2001,Peru F2,Clay,32,S,20010903,14,118453,,Q,Patricio Konortoff,R,,ARG,17.2019164956,104172,,WC,Jason Mallaiah,R,,USA,18.3490759754,7-6(4) 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2001-M-FU-PER-02A-2001,Peru F2,Clay,32,S,20010903,15,102973,,,Ruben De Kleijn,R,,NED,24.3750855578,103603,,,Steven Bijl,R,,NED,21.0951403149,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,882,8,1259,2
 2001-M-FU-PER-02A-2001,Peru F2,Clay,32,S,20010903,16,103622,,,Bo Ram Cha,R,,KOR,21.0212183436,102192,2,Q,Luis Adrian Morejon,R,178,ECU,28.4353182752,6-7(5) 7-6(3) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1062,4,567,30
-2001-M-FU-PER-02A-2001,Peru F2,Clay,32,S,20010903,17,103841,1,,Julio Peralta,R,,CHI,19.9835728953,102740,,Q,Francisco Rodriguez,R,,PAR,25.4866529774,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,550,32,,
+2001-M-FU-PER-02A-2001,Peru F2,Clay,32,S,20010903,17,103841,1,,Julio Peralta,R,188,CHI,19.9835728953,102740,,Q,Francisco Rodriguez,R,,PAR,25.4866529774,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,550,32,,
 2001-M-FU-PER-02A-2001,Peru F2,Clay,32,S,20010903,18,103809,,Q,Diogo Cruz,U,,BRA,20.128678987,111673,,Q,Rodrigo Schtscherbyna,U,,BRA,24.1314168378,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,1346,1
 2001-M-FU-PER-02A-2001,Peru F2,Clay,32,S,20010903,19,103549,,,Dario Perez,R,,ARG,21.3771389459,103712,,,Rodolfo Daruich,U,,ARG,20.5475701574,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,815,10,893,7
 2001-M-FU-PER-02A-2001,Peru F2,Clay,32,S,20010903,20,103328,,,Andres Pedroso,R,,USA,22.5325119781,102726,,,Ricardo Diniz,R,,BRA,25.5496235455,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1007,5,740,14
@@ -9036,13 +9036,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-PER-02A-2001,Peru F2,Clay,32,S,20010903,22,103775,4,,Felipe Parada,R,175,CHI,20.3011635866,103935,,,Alexander Brudermann,R,,AUT,19.5674195756,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,637,23,1189,2
 2001-M-FU-PER-02A-2001,Peru F2,Clay,32,S,20010903,23,118453,,Q,Patricio Konortoff,R,,ARG,17.2019164956,104057,,Q,Alejandro Poberaj,R,,ARG,18.9897330595,4-6 7-5 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2001-M-FU-PER-02A-2001,Peru F2,Clay,32,S,20010903,24,103622,,,Bo Ram Cha,R,,KOR,21.0212183436,102973,,,Ruben De Kleijn,R,,NED,24.3750855578,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1062,4,882,8
-2001-M-FU-PER-02A-2001,Peru F2,Clay,32,S,20010903,25,103841,1,,Julio Peralta,R,,CHI,19.9835728953,103809,,Q,Diogo Cruz,U,,BRA,20.128678987,6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,550,32,,
+2001-M-FU-PER-02A-2001,Peru F2,Clay,32,S,20010903,25,103841,1,,Julio Peralta,R,188,CHI,19.9835728953,103809,,Q,Diogo Cruz,U,,BRA,20.128678987,6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,550,32,,
 2001-M-FU-PER-02A-2001,Peru F2,Clay,32,S,20010903,26,103549,,,Dario Perez,R,,ARG,21.3771389459,103328,,,Andres Pedroso,R,,USA,22.5325119781,6-2 6-0,3,QF,,,,,,,,,,,,,,,,,,,,815,10,1007,5
 2001-M-FU-PER-02A-2001,Peru F2,Clay,32,S,20010903,27,103286,,LL,Yohny Romero,R,,VEN,22.7597535934,103775,4,,Felipe Parada,R,175,CHI,20.3011635866,6-3 4-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,748,13,637,23
 2001-M-FU-PER-02A-2001,Peru F2,Clay,32,S,20010903,28,103622,,,Bo Ram Cha,R,,KOR,21.0212183436,118453,,Q,Patricio Konortoff,R,,ARG,17.2019164956,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,1062,4,,
-2001-M-FU-PER-02A-2001,Peru F2,Clay,32,S,20010903,29,103841,1,,Julio Peralta,R,,CHI,19.9835728953,103549,,,Dario Perez,R,,ARG,21.3771389459,7-6(4) 6-1,3,SF,,,,,,,,,,,,,,,,,,,,550,32,815,10
+2001-M-FU-PER-02A-2001,Peru F2,Clay,32,S,20010903,29,103841,1,,Julio Peralta,R,188,CHI,19.9835728953,103549,,,Dario Perez,R,,ARG,21.3771389459,7-6(4) 6-1,3,SF,,,,,,,,,,,,,,,,,,,,550,32,815,10
 2001-M-FU-PER-02A-2001,Peru F2,Clay,32,S,20010903,30,103286,,LL,Yohny Romero,R,,VEN,22.7597535934,103622,,,Bo Ram Cha,R,,KOR,21.0212183436,0-6 6-1 7-6(5),3,SF,,,,,,,,,,,,,,,,,,,,748,13,1062,4
-2001-M-FU-PER-02A-2001,Peru F2,Clay,32,S,20010903,31,103841,1,,Julio Peralta,R,,CHI,19.9835728953,103286,,LL,Yohny Romero,R,,VEN,22.7597535934,6-3 6-3,3,F,,,,,,,,,,,,,,,,,,,,550,32,748,13
+2001-M-FU-PER-02A-2001,Peru F2,Clay,32,S,20010903,31,103841,1,,Julio Peralta,R,188,CHI,19.9835728953,103286,,LL,Yohny Romero,R,,VEN,22.7597535934,6-3 6-3,3,F,,,,,,,,,,,,,,,,,,,,550,32,748,13
 2001-M-FU-POL-03A-2001,Poland F3,Clay,32,S,20010903,1,104308,,WC,Michal Przysiezny,R,185,POL,17.5468856947,103429,1,,Peter Luczak,R,183,AUS,22.0095824778,6-4 6-7(5) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,343,87
 2001-M-FU-POL-03A-2001,Poland F3,Clay,32,S,20010903,2,104004,,Q,Filip Prpic,R,173,SWE,19.2744695414,103938,,LL,Igor Zelenay,R,198,SVK,19.5619438741,6-3 2-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,852,8,796,11
 2001-M-FU-POL-03A-2001,Poland F3,Clay,32,S,20010903,3,103519,,WC,Krzysztof Kwinta,U,,POL,21.5140314853,103179,,,Jurek Stasiak,R,,AUS,23.3648186174,6-4 1-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1020,5,710,16
@@ -9136,7 +9136,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-ARG-11A-2001,Argentina F11,Clay,32,S,20010910,29,103700,,,Juan Pablo Guzman,L,178,ARG,20.6132785763,103392,3,,Daniel Caracciolo,R,,ARG,22.2231348392,4-6 6-3 7-6(2),3,SF,,,,,,,,,,,,,,,,,,,,577,30,454,51
 2001-M-FU-ARG-11A-2001,Argentina F11,Clay,32,S,20010910,30,103976,2,,Juan Pablo Brzezicki,R,178,ARG,19.4140999316,104216,,WC,Maximo Gonzalez,R,175,ARG,18.1437371663,2-6 7-6(4) 6-3,3,SF,,,,,,,,,,,,,,,,,,,,436,54,1210,2
 2001-M-FU-ARG-11A-2001,Argentina F11,Clay,32,S,20010910,31,103976,2,,Juan Pablo Brzezicki,R,178,ARG,19.4140999316,103700,,,Juan Pablo Guzman,L,178,ARG,20.6132785763,7-5 7-5,3,F,,,,,,,,,,,,,,,,,,,,436,54,577,30
-2001-M-FU-FRA-15A-2001,France F15,Hard,32,S,20010910,1,103917,1,,Nicolas Mahut,R,190,FRA,19.6358658453,104397,,WC,Laurent Recouderc,R,,FRA,17.1690622861,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,293,112,,
+2001-M-FU-FRA-15A-2001,France F15,Hard,32,S,20010910,1,103917,1,,Nicolas Mahut,R,190,FRA,19.6358658453,104397,,WC,Laurent Recouderc,R,178,FRA,17.1690622861,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,293,112,,
 2001-M-FU-FRA-15A-2001,France F15,Hard,32,S,20010910,2,102354,,WC,Jerome Hanquez,R,185,FRA,27.5017111567,117602,,Q,Bruno La Font,U,,FRA,28.8158795346,6-4 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,676,20,,
 2001-M-FU-FRA-15A-2001,France F15,Hard,32,S,20010910,3,103066,,,Mark Nielsen,R,185,NZL,23.923340178,104023,,WC,Nicolas Renavand,R,,FRA,19.2114989733,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,583,30,944,6
 2001-M-FU-FRA-15A-2001,France F15,Hard,32,S,20010910,4,104755,,WC,Richard Gasquet,R,185,FRA,15.2306639288,102201,7,,Lionel Roux,R,185,FRA,28.4134154689,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,455,51
@@ -9229,7 +9229,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-MEX-08A-2001,Mexico F8,Hard,32,S,20010910,29,103388,4,,Rafael De Mesa,R,,USA,22.2422997947,102983,1,,Henrik Andersson,R,,SWE,24.3586584531,6-7(8) 6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,604,28,488,43
 2001-M-FU-MEX-08A-2001,Mexico F8,Hard,32,S,20010910,30,102320,3,,Lazaro Navarro Batles,R,,CUB,27.6167008898,103890,5,,Bo Hodge,U,193,USA,19.742642026,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,,,740,14
 2001-M-FU-MEX-08A-2001,Mexico F8,Hard,32,S,20010910,31,102320,3,,Lazaro Navarro Batles,R,,CUB,27.6167008898,103388,4,,Rafael De Mesa,R,,USA,22.2422997947,3-6 6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,,,604,28
-2001-M-FU-PER-03A-2001,Peru F3,Clay,32,S,20010910,1,103841,1,,Julio Peralta,R,,CHI,20.0027378508,103563,,,Gabriel Pitta,R,,BRA,21.3305954825,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,618,26,1029,5
+2001-M-FU-PER-03A-2001,Peru F3,Clay,32,S,20010910,1,103841,1,,Julio Peralta,R,188,CHI,20.0027378508,103563,,,Gabriel Pitta,R,,BRA,21.3305954825,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,618,26,1029,5
 2001-M-FU-PER-03A-2001,Peru F3,Clay,32,S,20010910,2,104060,,,Henrique Mello,U,,BRA,18.9979466119,103935,,,Alexander Brudermann,R,,AUT,19.5865845311,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,926,7,944,6
 2001-M-FU-PER-03A-2001,Peru F3,Clay,32,S,20010910,3,103622,,,Bo Ram Cha,R,,KOR,21.0403832991,103603,,Q,Steven Bijl,R,,NED,21.1143052704,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,876,8,1361,1
 2001-M-FU-PER-03A-2001,Peru F3,Clay,32,S,20010910,4,104037,5,,Phillip Harboe,R,,CHI,19.1430527036,103246,,Q,Otavio Rovati,R,,BRA,23.1019849418,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,654,22,1275,2
@@ -9245,7 +9245,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-PER-03A-2001,Peru F3,Clay,32,S,20010910,14,102168,,,Hector Moretti,R,170,ARG,28.6187542779,102973,,,Ruben De Kleijn,R,,NED,24.3942505133,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,776,12,860,9
 2001-M-FU-PER-03A-2001,Peru F3,Clay,32,S,20010910,15,103809,,Q,Diogo Cruz,U,,BRA,20.1478439425,118452,,WC,Barry Kauffman,U,,ISR,21.1745379877,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2001-M-FU-PER-03A-2001,Peru F3,Clay,32,S,20010910,16,103593,2,,Marcelo Barboza,R,,URU,21.1553730322,198661,,WC,Luis Felipe Noriega,U,,PER,18.2258726899,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,607,27,,
-2001-M-FU-PER-03A-2001,Peru F3,Clay,32,S,20010910,17,103841,1,,Julio Peralta,R,,CHI,20.0027378508,104060,,,Henrique Mello,U,,BRA,18.9979466119,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,618,26,926,7
+2001-M-FU-PER-03A-2001,Peru F3,Clay,32,S,20010910,17,103841,1,,Julio Peralta,R,188,CHI,20.0027378508,104060,,,Henrique Mello,U,,BRA,18.9979466119,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,618,26,926,7
 2001-M-FU-PER-03A-2001,Peru F3,Clay,32,S,20010910,18,104037,5,,Phillip Harboe,R,,CHI,19.1430527036,103622,,,Bo Ram Cha,R,,KOR,21.0403832991,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,654,22,876,8
 2001-M-FU-PER-03A-2001,Peru F3,Clay,32,S,20010910,19,103775,3,,Felipe Parada,R,175,CHI,20.3203285421,104172,,WC,Jason Mallaiah,R,,USA,18.3682409309,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,667,21,,
 2001-M-FU-PER-03A-2001,Peru F3,Clay,32,S,20010910,20,103549,,,Dario Perez,R,,ARG,21.3963039014,103840,6,,Juan Pablo Di Cesare,R,,ARG,20.0027378508,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,782,12,668,21
@@ -9253,11 +9253,11 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-PER-03A-2001,Peru F3,Clay,32,S,20010910,22,103689,4,,Guillermo Carry,L,,ARG,20.6516084873,102740,,Q,Francisco Rodriguez,R,,PAR,25.5058179329,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,673,20,,
 2001-M-FU-PER-03A-2001,Peru F3,Clay,32,S,20010910,23,103712,,,Rodolfo Daruich,U,,ARG,20.5667351129,102168,,,Hector Moretti,R,170,ARG,28.6187542779,3-6 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,900,7,776,12
 2001-M-FU-PER-03A-2001,Peru F3,Clay,32,S,20010910,24,103809,,Q,Diogo Cruz,U,,BRA,20.1478439425,103593,2,,Marcelo Barboza,R,,URU,21.1553730322,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,607,27
-2001-M-FU-PER-03A-2001,Peru F3,Clay,32,S,20010910,25,103841,1,,Julio Peralta,R,,CHI,20.0027378508,104037,5,,Phillip Harboe,R,,CHI,19.1430527036,7-5 7-6(2),3,QF,,,,,,,,,,,,,,,,,,,,618,26,654,22
+2001-M-FU-PER-03A-2001,Peru F3,Clay,32,S,20010910,25,103841,1,,Julio Peralta,R,188,CHI,20.0027378508,104037,5,,Phillip Harboe,R,,CHI,19.1430527036,7-5 7-6(2),3,QF,,,,,,,,,,,,,,,,,,,,618,26,654,22
 2001-M-FU-PER-03A-2001,Peru F3,Clay,32,S,20010910,26,103775,3,,Felipe Parada,R,175,CHI,20.3203285421,103549,,,Dario Perez,R,,ARG,21.3963039014,7-5 0-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,667,21,782,12
 2001-M-FU-PER-03A-2001,Peru F3,Clay,32,S,20010910,27,103689,4,,Guillermo Carry,L,,ARG,20.6516084873,102726,7,,Ricardo Diniz,R,,BRA,25.568788501,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,673,20,741,14
 2001-M-FU-PER-03A-2001,Peru F3,Clay,32,S,20010910,28,103712,,,Rodolfo Daruich,U,,ARG,20.5667351129,103809,,Q,Diogo Cruz,U,,BRA,20.1478439425,7-6(5) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,900,7,,
-2001-M-FU-PER-03A-2001,Peru F3,Clay,32,S,20010910,29,103775,3,,Felipe Parada,R,175,CHI,20.3203285421,103841,1,,Julio Peralta,R,,CHI,20.0027378508,4-6 6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,667,21,618,26
+2001-M-FU-PER-03A-2001,Peru F3,Clay,32,S,20010910,29,103775,3,,Felipe Parada,R,175,CHI,20.3203285421,103841,1,,Julio Peralta,R,188,CHI,20.0027378508,4-6 6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,667,21,618,26
 2001-M-FU-PER-03A-2001,Peru F3,Clay,32,S,20010910,30,103712,,,Rodolfo Daruich,U,,ARG,20.5667351129,103689,4,,Guillermo Carry,L,,ARG,20.6516084873,7-6(4) 7-5,3,SF,,,,,,,,,,,,,,,,,,,,900,7,673,20
 2001-M-FU-PER-03A-2001,Peru F3,Clay,32,S,20010910,31,103712,,,Rodolfo Daruich,U,,ARG,20.5667351129,103775,3,,Felipe Parada,R,175,CHI,20.3203285421,6-4 6-2,3,F,,,,,,,,,,,,,,,,,,,,900,7,667,21
 2001-M-FU-ESP-10A-2001,Spain F10,Hard,32,S,20010910,1,102678,,Q,Jonathan Garcia Leo,U,,ESP,25.8590006845,103399,1,,Carlos Rexach Itoiz,U,,ESP,22.1875427789,5-7 6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,442,53
@@ -9324,7 +9324,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-UKR-01A-2001,Ukraine F1,Clay,32,S,20010910,31,102969,,,Sergei Yaroshenko,R,,UKR,24.4298425736,102603,4,,Melvyn Op Der Heijde,R,180,NED,26.250513347,6-3 4-6 7-5,3,F,,,,,,,,,,,,,,,,,,,,803,11,473,46
 2001-M-SA-USA-01A-2001a,USA 1,Hard,32,S,20010910,1,103371,,Q,Emin Agaev,R,,AZE,22.3271731691,117943,1,,Marq Foster,U,,USA,27.266255989,6-3 1-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,407,65,,
 2001-M-SA-USA-01A-2001a,USA 1,Hard,32,S,20010910,2,103860,,,Timo Nieminen,R,185,FIN,19.9288158795,103043,,,Coenie Van Wyk,R,,RSA,24.0273785079,6-1 1-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,635,23,602,28
-2001-M-SA-USA-01A-2001a,USA 1,Hard,32,S,20010910,3,103845,,Q,Lesley Joseph,U,,USA,19.9890485969,104235,,WC,Matwe Middelkoop,R,,NED,18.0205338809,3-6 7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1275,2,,
+2001-M-SA-USA-01A-2001a,USA 1,Hard,32,S,20010910,3,103845,,Q,Lesley Joseph,U,,USA,19.9890485969,104235,,WC,Matwe Middelkoop,R,191,NED,18.0205338809,3-6 7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1275,2,,
 2001-M-SA-USA-01A-2001a,USA 1,Hard,32,S,20010910,4,103111,5,,Jeff Williams,R,,USA,23.6605065024,102947,,Q,Jason Cook,R,,USA,24.5174537988,7-6(3) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,537,35,705,17
 2001-M-SA-USA-01A-2001a,USA 1,Hard,32,S,20010910,5,103269,4,,Huntley Montgomery,U,,USA,22.9404517454,108661,,Q,Dentry Mortimer,U,,BAH,19.1978097194,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1275,2,,
 2001-M-SA-USA-01A-2001a,USA 1,Hard,32,S,20010910,6,103039,,,Tripp Phillips,R,185,USA,24.0410677618,103982,,Q,Lee Radovanovich,R,,NZL,19.394934976,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,559,32,861,9
@@ -9507,11 +9507,11 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-GBR-08A-2001,Great Britain F8,Hard,32,S,20010917,5,103945,4,,Simon Dickson,R,,GBR,19.5592060233,102260,,,James Davidson,R,,GBR,28.0027378508,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,492,43,705,16
 2001-M-FU-GBR-08A-2001,Great Britain F8,Hard,32,S,20010917,6,103653,,,Jasper Smit,R,,NED,20.8323066393,103023,,,Dominic Boulet,R,,CAN,24.180698152,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,964,6,890,8
 2001-M-FU-GBR-08A-2001,Great Britain F8,Hard,32,S,20010917,7,104418,,Q,Matthew Smith,R,,GBR,17.0732375086,103412,,Q,Matthew Hanlin,U,,GBR,22.1519507187,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1354,1,,
-2001-M-FU-GBR-08A-2001,Great Britain F8,Hard,32,S,20010917,8,103730,6,,Jonathan Marray,R,,GBR,20.5229295003,102679,,,Gianluca Bazzica,R,,ITA,25.8754277892,6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,548,33,769,12
+2001-M-FU-GBR-08A-2001,Great Britain F8,Hard,32,S,20010917,8,103730,6,,Jonathan Marray,R,183,GBR,20.5229295003,102679,,,Gianluca Bazzica,R,,ITA,25.8754277892,6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,548,33,769,12
 2001-M-FU-GBR-08A-2001,Great Britain F8,Hard,32,S,20010917,9,103733,8,,Luben Pampoulov,R,,AUT,20.5119780972,103965,,,Markus Krenn,U,,AUT,19.485284052,7-6(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,583,29,1032,5
 2001-M-FU-GBR-08A-2001,Great Britain F8,Hard,32,S,20010917,10,103314,,Q,Josh Goffi,R,,BRA,22.6475017112,103407,,LL,Matt Klinger,U,,CAN,22.1711156742,4-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1211,2
 2001-M-FU-GBR-08A-2001,Great Britain F8,Hard,32,S,20010917,11,104137,,Q,Bart Van Delft,U,,NED,18.559890486,103559,,WC,David Sherwood,R,193,GBR,21.3661875428,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1354,1,939,7
-2001-M-FU-GBR-08A-2001,Great Britain F8,Hard,32,S,20010917,12,103993,,Q,Chris Lewis,U,,GBR,19.356605065,103538,3,,James Auckland,R,,GBR,21.4620123203,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,440,53
+2001-M-FU-GBR-08A-2001,Great Britain F8,Hard,32,S,20010917,12,103993,,Q,Chris Lewis,R,180,GBR,19.356605065,103538,3,,James Auckland,R,,GBR,21.4620123203,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,440,53
 2001-M-FU-GBR-08A-2001,Great Britain F8,Hard,32,S,20010917,13,102557,7,,Daniel Willman,U,,NZL,26.5023956194,103055,,,Cary Franklin,L,,USA,23.9835728953,4-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,549,33,741,14
 2001-M-FU-GBR-08A-2001,Great Britain F8,Hard,32,S,20010917,14,103942,,,James Nelson,R,,GBR,19.5783709788,111303,,LL,Tom Pocock,R,,GBR,17.6892539357,7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,698,17,1354,1
 2001-M-FU-GBR-08A-2001,Great Britain F8,Hard,32,S,20010917,15,103795,,Q,James May,U,,GBR,20.2518822724,102937,,,Sebastien Lami,R,,FRA,24.5995893224,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,727,15
@@ -9519,14 +9519,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-GBR-08A-2001,Great Britain F8,Hard,32,S,20010917,17,103553,1,,Alun Jones,R,180,AUS,21.3935660507,104171,,WC,Richard Bloomfield,R,185,GBR,18.392881588,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,368,78,1109,3
 2001-M-FU-GBR-08A-2001,Great Britain F8,Hard,32,S,20010917,18,103820,5,,Alan Mackin,R,183,GBR,20.1013004791,104406,,Q,Naim Lalji,U,,GBR,17.1526351814,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,542,34,,
 2001-M-FU-GBR-08A-2001,Great Britain F8,Hard,32,S,20010917,19,103653,,,Jasper Smit,R,,NED,20.8323066393,103945,4,,Simon Dickson,R,,GBR,19.5592060233,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,964,6,492,43
-2001-M-FU-GBR-08A-2001,Great Britain F8,Hard,32,S,20010917,20,104418,,Q,Matthew Smith,R,,GBR,17.0732375086,103730,6,,Jonathan Marray,R,,GBR,20.5229295003,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1354,1,548,33
+2001-M-FU-GBR-08A-2001,Great Britain F8,Hard,32,S,20010917,20,104418,,Q,Matthew Smith,R,,GBR,17.0732375086,103730,6,,Jonathan Marray,R,183,GBR,20.5229295003,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1354,1,548,33
 2001-M-FU-GBR-08A-2001,Great Britain F8,Hard,32,S,20010917,21,103733,8,,Luben Pampoulov,R,,AUT,20.5119780972,103314,,Q,Josh Goffi,R,,BRA,22.6475017112,6-7(6) 6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,583,29,,
-2001-M-FU-GBR-08A-2001,Great Britain F8,Hard,32,S,20010917,22,103993,,Q,Chris Lewis,U,,GBR,19.356605065,104137,,Q,Bart Van Delft,U,,NED,18.559890486,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,1354,1
+2001-M-FU-GBR-08A-2001,Great Britain F8,Hard,32,S,20010917,22,103993,,Q,Chris Lewis,R,180,GBR,19.356605065,104137,,Q,Bart Van Delft,U,,NED,18.559890486,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,1354,1
 2001-M-FU-GBR-08A-2001,Great Britain F8,Hard,32,S,20010917,23,103942,,,James Nelson,R,,GBR,19.5783709788,102557,7,,Daniel Willman,U,,NZL,26.5023956194,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,698,17,549,33
 2001-M-FU-GBR-08A-2001,Great Britain F8,Hard,32,S,20010917,24,103754,2,,Mark Hilton,L,170,GBR,20.4106776181,103795,,Q,James May,U,,GBR,20.2518822724,6-2 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,384,72,,
 2001-M-FU-GBR-08A-2001,Great Britain F8,Hard,32,S,20010917,25,103553,1,,Alun Jones,R,180,AUS,21.3935660507,103820,5,,Alan Mackin,R,183,GBR,20.1013004791,6-3 6-7(3) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,368,78,542,34
 2001-M-FU-GBR-08A-2001,Great Britain F8,Hard,32,S,20010917,26,104418,,Q,Matthew Smith,R,,GBR,17.0732375086,103653,,,Jasper Smit,R,,NED,20.8323066393,6-4 3-6 7-5,3,QF,,,,,,,,,,,,,,,,,,,,1354,1,964,6
-2001-M-FU-GBR-08A-2001,Great Britain F8,Hard,32,S,20010917,27,103733,8,,Luben Pampoulov,R,,AUT,20.5119780972,103993,,Q,Chris Lewis,U,,GBR,19.356605065,7-5 6-2,3,QF,,,,,,,,,,,,,,,,,,,,583,29,,
+2001-M-FU-GBR-08A-2001,Great Britain F8,Hard,32,S,20010917,27,103733,8,,Luben Pampoulov,R,,AUT,20.5119780972,103993,,Q,Chris Lewis,R,180,GBR,19.356605065,7-5 6-2,3,QF,,,,,,,,,,,,,,,,,,,,583,29,,
 2001-M-FU-GBR-08A-2001,Great Britain F8,Hard,32,S,20010917,28,103754,2,,Mark Hilton,L,170,GBR,20.4106776181,103942,,,James Nelson,R,,GBR,19.5783709788,6-2 7-5,3,QF,,,,,,,,,,,,,,,,,,,,384,72,698,17
 2001-M-FU-GBR-08A-2001,Great Britain F8,Hard,32,S,20010917,29,103553,1,,Alun Jones,R,180,AUS,21.3935660507,104418,,Q,Matthew Smith,R,,GBR,17.0732375086,7-6(4) 6-3,3,SF,,,,,,,,,,,,,,,,,,,,368,78,1354,1
 2001-M-FU-GBR-08A-2001,Great Britain F8,Hard,32,S,20010917,30,103733,8,,Luben Pampoulov,R,,AUT,20.5119780972,103754,2,,Mark Hilton,L,170,GBR,20.4106776181,6-2 3-6 6-0,3,SF,,,,,,,,,,,,,,,,,,,,583,29,384,72
@@ -9686,7 +9686,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-UKR-02A-2001,Ukraine F2,Clay,32,S,20010917,29,103863,1,,Mikhail Elgin,R,183,RUS,19.9260780287,102603,3,,Melvyn Op Der Heijde,R,180,NED,26.2696783025,6-1 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,467,49
 2001-M-FU-UKR-02A-2001,Ukraine F2,Clay,32,S,20010917,30,103512,4,,Ivan Cinkus,R,,CRO,21.5770020534,102737,2,,Gergely Kisgyorgy,R,,HUN,25.5277207392,7-6(2) 6-2,3,SF,,,,,,,,,,,,,,,,,,,,531,36,466,49
 2001-M-FU-UKR-02A-2001,Ukraine F2,Clay,32,S,20010917,31,103512,4,,Ivan Cinkus,R,,CRO,21.5770020534,103863,1,,Mikhail Elgin,R,183,RUS,19.9260780287,7-5 4-6 6-3,3,F,,,,,,,,,,,,,,,,,,,,531,36,,
-2001-M-FU-BOL-02A-2001,Bolivia F2,Clay,32,S,20010924,1,103841,1,,Julio Peralta,R,,CHI,20.0410677618,102168,,,Hector Moretti,R,170,ARG,28.6570841889,0-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,505,42,773,13
+2001-M-FU-BOL-02A-2001,Bolivia F2,Clay,32,S,20010924,1,103841,1,,Julio Peralta,R,188,CHI,20.0410677618,102168,,,Hector Moretti,R,170,ARG,28.6570841889,0-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,505,42,773,13
 2001-M-FU-BOL-02A-2001,Bolivia F2,Clay,32,S,20010924,2,103590,,,Michael Quintero,R,,COL,21.2046543463,102471,,,Sergio Elias,U,,CHI,26.9130732375,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,721,16,765,13
 2001-M-FU-BOL-02A-2001,Bolivia F2,Clay,32,S,20010924,3,103850,,,Sebastian Decoud,L,178,ARG,20.0164271047,102740,,Q,Francisco Rodriguez,R,,PAR,25.5441478439,5-7 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,742,15,1301,2
 2001-M-FU-BOL-02A-2001,Bolivia F2,Clay,32,S,20010924,4,103848,5,,Agustin Tarantino,R,,ARG,20.0246406571,117422,,WC,Richard Villegas,R,,BOL,23.2553045859,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,624,25,,
@@ -9702,7 +9702,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-BOL-02A-2001,Bolivia F2,Clay,32,S,20010924,14,103689,,,Guillermo Carry,L,,ARG,20.6899383984,118448,,Q,Regnier Azevedo,R,,BRA,19.9945242984,7-5 5-7 7-5,3,R32,,,,,,,,,,,,,,,,,,,,635,24,,
 2001-M-FU-BOL-02A-2001,Bolivia F2,Clay,32,S,20010924,15,103563,,Q,Gabriel Pitta,R,,BRA,21.3689253936,118153,,LL,Joaquin Lillo,U,,CHI,20.5722108145,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1045,5,,
 2001-M-FU-BOL-02A-2001,Bolivia F2,Clay,32,S,20010924,16,103522,2,,Nahuel Fracassi,U,,ITA,21.568788501,104188,,,Diego Camacho,U,,BOL,18.3463381246,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,601,28,1002,5
-2001-M-FU-BOL-02A-2001,Bolivia F2,Clay,32,S,20010924,17,103841,1,,Julio Peralta,R,,CHI,20.0410677618,103590,,,Michael Quintero,R,,COL,21.2046543463,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,505,42,721,16
+2001-M-FU-BOL-02A-2001,Bolivia F2,Clay,32,S,20010924,17,103841,1,,Julio Peralta,R,188,CHI,20.0410677618,103590,,,Michael Quintero,R,,COL,21.2046543463,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,505,42,721,16
 2001-M-FU-BOL-02A-2001,Bolivia F2,Clay,32,S,20010924,18,103850,,,Sebastian Decoud,L,178,ARG,20.0164271047,103848,5,,Agustin Tarantino,R,,ARG,20.0246406571,6-7(4) 7-6(4) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,742,15,624,25
 2001-M-FU-BOL-02A-2001,Bolivia F2,Clay,32,S,20010924,19,103675,4,,Diego Junqueira,L,178,ARG,20.7392197125,103058,,SE,Juan Felipe Yanez,R,,CHI,23.9917864476,6-4 2-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,614,26,1045,5
 2001-M-FU-BOL-02A-2001,Bolivia F2,Clay,32,S,20010924,20,103624,,,Sebastian Uriarte,R,,ARG,21.0650239562,103775,6,,Felipe Parada,R,175,CHI,20.3586584531,6-7(2) 6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,658,22,574,31
@@ -9710,13 +9710,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-BOL-02A-2001,Bolivia F2,Clay,32,S,20010924,22,103328,,,Andres Pedroso,R,,USA,22.5900068446,104057,,Q,Alejandro Poberaj,R,,ARG,19.0472279261,6-3 7-6(10),3,R16,,,,,,,,,,,,,,,,,,,,937,7,1301,2
 2001-M-FU-BOL-02A-2001,Bolivia F2,Clay,32,S,20010924,23,104037,8,,Phillip Harboe,R,,CHI,19.1813826146,103689,,,Guillermo Carry,L,,ARG,20.6899383984,6-7(4) 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,637,24,635,24
 2001-M-FU-BOL-02A-2001,Bolivia F2,Clay,32,S,20010924,24,103563,,Q,Gabriel Pitta,R,,BRA,21.3689253936,103522,2,,Nahuel Fracassi,U,,ITA,21.568788501,7-6(2) 6-0,3,R16,,,,,,,,,,,,,,,,,,,,1045,5,601,28
-2001-M-FU-BOL-02A-2001,Bolivia F2,Clay,32,S,20010924,25,103841,1,,Julio Peralta,R,,CHI,20.0410677618,103850,,,Sebastian Decoud,L,178,ARG,20.0164271047,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,505,42,742,15
+2001-M-FU-BOL-02A-2001,Bolivia F2,Clay,32,S,20010924,25,103841,1,,Julio Peralta,R,188,CHI,20.0410677618,103850,,,Sebastian Decoud,L,178,ARG,20.0164271047,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,505,42,742,15
 2001-M-FU-BOL-02A-2001,Bolivia F2,Clay,32,S,20010924,26,103675,4,,Diego Junqueira,L,178,ARG,20.7392197125,103624,,,Sebastian Uriarte,R,,ARG,21.0650239562,6-4 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,614,26,658,22
 2001-M-FU-BOL-02A-2001,Bolivia F2,Clay,32,S,20010924,27,103328,,,Andres Pedroso,R,,USA,22.5900068446,103572,,Q,Luis Hormazabal,R,,CHI,21.3032169747,7-5 6-4,3,QF,,,,,,,,,,,,,,,,,,,,937,7,1385,1
 2001-M-FU-BOL-02A-2001,Bolivia F2,Clay,32,S,20010924,28,104037,8,,Phillip Harboe,R,,CHI,19.1813826146,103563,,Q,Gabriel Pitta,R,,BRA,21.3689253936,7-6(5) 6-0,3,QF,,,,,,,,,,,,,,,,,,,,637,24,1045,5
-2001-M-FU-BOL-02A-2001,Bolivia F2,Clay,32,S,20010924,29,103841,1,,Julio Peralta,R,,CHI,20.0410677618,103675,4,,Diego Junqueira,L,178,ARG,20.7392197125,6-4 6-7(5) 6-3,3,SF,,,,,,,,,,,,,,,,,,,,505,42,614,26
+2001-M-FU-BOL-02A-2001,Bolivia F2,Clay,32,S,20010924,29,103841,1,,Julio Peralta,R,188,CHI,20.0410677618,103675,4,,Diego Junqueira,L,178,ARG,20.7392197125,6-4 6-7(5) 6-3,3,SF,,,,,,,,,,,,,,,,,,,,505,42,614,26
 2001-M-FU-BOL-02A-2001,Bolivia F2,Clay,32,S,20010924,30,104037,8,,Phillip Harboe,R,,CHI,19.1813826146,103328,,,Andres Pedroso,R,,USA,22.5900068446,6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,637,24,937,7
-2001-M-FU-BOL-02A-2001,Bolivia F2,Clay,32,S,20010924,31,103841,1,,Julio Peralta,R,,CHI,20.0410677618,104037,8,,Phillip Harboe,R,,CHI,19.1813826146,6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,505,42,637,24
+2001-M-FU-BOL-02A-2001,Bolivia F2,Clay,32,S,20010924,31,103841,1,,Julio Peralta,R,188,CHI,20.0410677618,104037,8,,Phillip Harboe,R,,CHI,19.1813826146,6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,505,42,637,24
 2001-M-FU-FRA-17A-2001,France F17,Hard,32,S,20010924,1,103333,1,,Ivo Karlovic,R,208,CRO,22.5708418891,103679,,Q,Jeroen Masson,R,,BEL,20.7255304586,6-7(5) 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,219,172,667,21
 2001-M-FU-FRA-17A-2001,France F17,Hard,32,S,20010924,2,102062,,Q,Guillaume Marx,R,,FRA,29.3360711841,103362,,,Sonny Kayombo,U,,FRA,22.4147843943,7-6(6) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,613,26,630,24
 2001-M-FU-FRA-17A-2001,France F17,Hard,32,S,20010924,3,103029,,,Mehdi Tahiri,R,183,MAR,24.1587953457,102931,,,Daniel Lencina Ribes,R,,LTU,24.6324435318,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,348,89,618,26
@@ -9874,13 +9874,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-SWE-02A-2001,Sweden F2,Hard,32,S,20010924,31,102808,2,,Kalle Flygt,R,,SWE,25.2758384668,104417,,SE,Robin Soderling,R,193,SWE,17.1115674196,6-4 6-2,3,F,,,,,,,,,,,,,,,,,,,,310,107,,
 2001-M-FU-GBR-09A-2001,Great Britain F9,Hard,32,S,20010926,1,103553,1,,Alun Jones,R,180,AUS,21.4127310062,103422,,,Sebastian Fitz,R,,GER,22.1190965092,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,371,78,698,18
 2001-M-FU-GBR-09A-2001,Great Britain F9,Hard,32,S,20010926,2,103314,,Q,Josh Goffi,R,,BRA,22.6666666667,103796,,Q,Marcos Jimenez Letrado,U,,ESP,20.2546201232,7-6(5) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,1198,3
-2001-M-FU-GBR-09A-2001,Great Britain F9,Hard,32,S,20010926,3,103993,,WC,Chris Lewis,U,,GBR,19.3757700205,103795,,Q,James May,U,,GBR,20.2710472279,3-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2001-M-FU-GBR-09A-2001,Great Britain F9,Hard,32,S,20010926,3,103993,,WC,Chris Lewis,R,180,GBR,19.3757700205,103795,,Q,James May,U,,GBR,20.2710472279,3-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2001-M-FU-GBR-09A-2001,Great Britain F9,Hard,32,S,20010926,4,102945,,,Luke Bourgeois,R,188,AUS,24.5612594114,103820,6,,Alan Mackin,R,183,GBR,20.1204654346,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,634,24,551,34
 2001-M-FU-GBR-09A-2001,Great Britain F9,Hard,32,S,20010926,5,103653,,Q,Jasper Smit,R,,NED,20.8514715948,103538,3,,James Auckland,R,,GBR,21.4811772758,6-7(7) 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,974,6,452,53
 2001-M-FU-GBR-09A-2001,Great Britain F9,Hard,32,S,20010926,6,103023,,LL,Dominic Boulet,R,,CAN,24.1998631075,103263,,Q,Justin Layne,R,,GBR,23.0143737166,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,900,8,1116,4
 2001-M-FU-GBR-09A-2001,Great Britain F9,Hard,32,S,20010926,7,104418,,WC,Matthew Smith,R,,GBR,17.0924024641,103055,,,Cary Franklin,L,,USA,24.0027378508,7-6(6) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1385,1,755,14
 2001-M-FU-GBR-09A-2001,Great Britain F9,Hard,32,S,20010926,8,103733,8,,Luben Pampoulov,R,,AUT,20.5311430527,103483,,Q,James Shortall,R,,NZL,21.749486653,7-6(7) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,593,29,841,10
-2001-M-FU-GBR-09A-2001,Great Britain F9,Hard,32,S,20010926,9,102260,,,James Davidson,R,,GBR,28.0219028063,103730,7,,Jonathan Marray,R,,GBR,20.5420944559,7-6(3) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,722,16,556,33
+2001-M-FU-GBR-09A-2001,Great Britain F9,Hard,32,S,20010926,9,102260,,,James Davidson,R,,GBR,28.0219028063,103730,7,,Jonathan Marray,R,183,GBR,20.5420944559,7-6(3) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,722,16,556,33
 2001-M-FU-GBR-09A-2001,Great Britain F9,Hard,32,S,20010926,10,102937,,,Sebastien Lami,R,,FRA,24.6187542779,104372,,WC,Alex Bogdanovic,L,183,GBR,17.3415468857,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,741,15,1075,4
 2001-M-FU-GBR-09A-2001,Great Britain F9,Hard,32,S,20010926,11,103614,,,Josef Nesticky,R,,CZE,21.1197809719,103094,,,Doug Root,R,,USA,23.7727583847,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,727,15,777,13
 2001-M-FU-GBR-09A-2001,Great Britain F9,Hard,32,S,20010926,12,103945,4,,Simon Dickson,R,,GBR,19.5783709788,103942,,,James Nelson,R,,GBR,19.5975359343,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,499,43,716,17
@@ -9889,7 +9889,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-GBR-09A-2001,Great Britain F9,Hard,32,S,20010926,15,102679,,,Gianluca Bazzica,R,,ITA,25.8945927447,104107,,WC,Andrew Banks,L,,GBR,18.7159479808,4-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,785,12,1198,3
 2001-M-FU-GBR-09A-2001,Great Britain F9,Hard,32,S,20010926,16,103754,2,,Mark Hilton,L,170,GBR,20.4298425736,103965,,,Markus Krenn,U,,AUT,19.5044490075,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,386,72,1045,5
 2001-M-FU-GBR-09A-2001,Great Britain F9,Hard,32,S,20010926,17,103553,1,,Alun Jones,R,180,AUS,21.4127310062,103314,,Q,Josh Goffi,R,,BRA,22.6666666667,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,371,78,,
-2001-M-FU-GBR-09A-2001,Great Britain F9,Hard,32,S,20010926,18,102945,,,Luke Bourgeois,R,188,AUS,24.5612594114,103993,,WC,Chris Lewis,U,,GBR,19.3757700205,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,634,24,,
+2001-M-FU-GBR-09A-2001,Great Britain F9,Hard,32,S,20010926,18,102945,,,Luke Bourgeois,R,188,AUS,24.5612594114,103993,,WC,Chris Lewis,R,180,GBR,19.3757700205,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,634,24,,
 2001-M-FU-GBR-09A-2001,Great Britain F9,Hard,32,S,20010926,19,103653,,Q,Jasper Smit,R,,NED,20.8514715948,103023,,LL,Dominic Boulet,R,,CAN,24.1998631075,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,974,6,900,8
 2001-M-FU-GBR-09A-2001,Great Britain F9,Hard,32,S,20010926,20,103733,8,,Luben Pampoulov,R,,AUT,20.5311430527,104418,,WC,Matthew Smith,R,,GBR,17.0924024641,7-6(4) 7-6(0),3,R16,,,,,,,,,,,,,,,,,,,,593,29,1385,1
 2001-M-FU-GBR-09A-2001,Great Britain F9,Hard,32,S,20010926,21,102937,,,Sebastien Lami,R,,FRA,24.6187542779,102260,,,James Davidson,R,,GBR,28.0219028063,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,741,15,722,16
@@ -10019,7 +10019,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-SA-AUS-02A-2001d,Australia 2 4,Hard,32,S,20011001,29,102464,1,,Todd Larkham,R,178,AUS,26.9678302533,102401,3,WC,Scott Draper,L,178,AUS,27.3237508556,6-7(5) 6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,215,176,318,100
 2001-M-SA-AUS-02A-2001d,Australia 2 4,Hard,32,S,20011001,30,103429,4,,Peter Luczak,R,183,AUS,22.0862422998,103154,2,,Jaymon Crabb,R,183,AUS,23.5728952772,6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,349,86,303,109
 2001-M-SA-AUS-02A-2001d,Australia 2 4,Hard,32,S,20011001,31,102464,1,,Todd Larkham,R,178,AUS,26.9678302533,103429,4,,Peter Luczak,R,183,AUS,22.0862422998,6-7(5) 6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,215,176,349,86
-2001-M-FU-BOL-03A-2001,Bolivia F3,Clay,32,S,20011001,1,103841,1,,Julio Peralta,R,,CHI,20.0602327173,103998,,LL,Mario Monroy,U,,PER,19.3620807666,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,498,42,1195,3
+2001-M-FU-BOL-03A-2001,Bolivia F3,Clay,32,S,20011001,1,103841,1,,Julio Peralta,R,188,CHI,20.0602327173,103998,,LL,Mario Monroy,U,,PER,19.3620807666,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,498,42,1195,3
 2001-M-FU-BOL-03A-2001,Bolivia F3,Clay,32,S,20011001,2,102168,,,Hector Moretti,R,170,ARG,28.6762491444,103058,,Q,Juan Felipe Yanez,R,,CHI,24.0109514031,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,662,21,711,16
 2001-M-FU-BOL-03A-2001,Bolivia F3,Clay,32,S,20011001,3,104176,,Q,Ricardo Soriano Gallo,U,,ESP,18.4093086927,117426,,WC,Gonzalo Ulloa,U,,BOL,20.9253935661,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1038,5,,
 2001-M-FU-BOL-03A-2001,Bolivia F3,Clay,32,S,20011001,4,103587,7,,Andres Dellatorre,R,190,ARG,21.2292950034,118153,,Q,Joaquin Lillo,U,,CHI,20.59137577,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,618,25,,
@@ -10035,7 +10035,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-BOL-03A-2001,Bolivia F3,Clay,32,S,20011001,14,103563,,,Gabriel Pitta,R,,BRA,21.3880903491,110834,,WC,Oscar Blacutt,U,,BOL,32.3148528405,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,938,7,1377,1
 2001-M-FU-BOL-03A-2001,Bolivia F3,Clay,32,S,20011001,15,103450,,,Federico Cardinali,R,,ARG,21.9986310746,102314,,WC,Rodrigo Navarro,R,,BOL,27.6906228611,3-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,923,7,1377,1
 2001-M-FU-BOL-03A-2001,Bolivia F3,Clay,32,S,20011001,16,103775,2,,Felipe Parada,R,175,CHI,20.3778234086,103328,,,Andres Pedroso,R,,USA,22.6091718001,4-6 7-5 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,575,30,931,7
-2001-M-FU-BOL-03A-2001,Bolivia F3,Clay,32,S,20011001,17,103841,1,,Julio Peralta,R,,CHI,20.0602327173,102168,,,Hector Moretti,R,170,ARG,28.6762491444,6-3 1-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,498,42,662,21
+2001-M-FU-BOL-03A-2001,Bolivia F3,Clay,32,S,20011001,17,103841,1,,Julio Peralta,R,188,CHI,20.0602327173,102168,,,Hector Moretti,R,170,ARG,28.6762491444,6-3 1-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,498,42,662,21
 2001-M-FU-BOL-03A-2001,Bolivia F3,Clay,32,S,20011001,18,103587,7,,Andres Dellatorre,R,190,ARG,21.2292950034,104176,,Q,Ricardo Soriano Gallo,U,,ESP,18.4093086927,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,618,25,1038,5
 2001-M-FU-BOL-03A-2001,Bolivia F3,Clay,32,S,20011001,19,102740,,Q,Francisco Rodriguez,R,,PAR,25.5633127995,111119,,WC,Juan Ignacio Valdecantos,U,,ARG,25.144421629,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1292,2,1009,5
 2001-M-FU-BOL-03A-2001,Bolivia F3,Clay,32,S,20011001,20,103572,,Q,Luis Hormazabal,R,,CHI,21.3223819302,104037,8,,Phillip Harboe,R,,CHI,19.2005475702,7-6(3) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,631,24
@@ -10043,7 +10043,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-BOL-03A-2001,Bolivia F3,Clay,32,S,20011001,22,103850,,,Sebastian Decoud,L,178,ARG,20.0355920602,103334,4,,Ronaldo Carvalho,R,,BRA,22.5900068446,6-7(5) 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,707,17,605,27
 2001-M-FU-BOL-03A-2001,Bolivia F3,Clay,32,S,20011001,23,103848,6,,Agustin Tarantino,R,,ARG,20.0438056126,103563,,,Gabriel Pitta,R,,BRA,21.3880903491,6-2 5-7 6-0,3,R16,,,,,,,,,,,,,,,,,,,,615,25,938,7
 2001-M-FU-BOL-03A-2001,Bolivia F3,Clay,32,S,20011001,24,103450,,,Federico Cardinali,R,,ARG,21.9986310746,103775,2,,Felipe Parada,R,175,CHI,20.3778234086,4-6 7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,923,7,575,30
-2001-M-FU-BOL-03A-2001,Bolivia F3,Clay,32,S,20011001,25,103587,7,,Andres Dellatorre,R,190,ARG,21.2292950034,103841,1,,Julio Peralta,R,,CHI,20.0602327173,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,618,25,498,42
+2001-M-FU-BOL-03A-2001,Bolivia F3,Clay,32,S,20011001,25,103587,7,,Andres Dellatorre,R,190,ARG,21.2292950034,103841,1,,Julio Peralta,R,188,CHI,20.0602327173,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,618,25,498,42
 2001-M-FU-BOL-03A-2001,Bolivia F3,Clay,32,S,20011001,26,103572,,Q,Luis Hormazabal,R,,CHI,21.3223819302,102740,,Q,Francisco Rodriguez,R,,PAR,25.5633127995,5-7 6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,,,1292,2
 2001-M-FU-BOL-03A-2001,Bolivia F3,Clay,32,S,20011001,27,104122,,,Carlos Berlocq,R,183,ARG,18.6584531143,103850,,,Sebastian Decoud,L,178,ARG,20.0355920602,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,916,7,707,17
 2001-M-FU-BOL-03A-2001,Bolivia F3,Clay,32,S,20011001,28,103450,,,Federico Cardinali,R,,ARG,21.9986310746,103848,6,,Agustin Tarantino,R,,ARG,20.0438056126,7-5 6-7(4) 7-5,3,QF,,,,,,,,,,,,,,,,,,,,923,7,615,25
@@ -10126,7 +10126,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-GBR-10A-2001,Great Britain F10,Hard,32,S,20011001,12,102835,3,,Luke Milligan,R,180,GBR,25.1526351814,102902,,,Thomas Blake,R,,USA,24.7556468172,6-3 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,402,66,577,30
 2001-M-FU-GBR-10A-2001,Great Britain F10,Hard,32,S,20011001,13,103130,6,Q,Louis Vosloo,R,178,RSA,23.6714579055,109008,,Q,Jeff Laski,U,,USA,23.6796714579,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,480,45,1122,3
 2001-M-FU-GBR-10A-2001,Great Britain F10,Hard,32,S,20011001,14,102743,,PR,Ben Ellwood,R,178,AUS,25.5550992471,102961,,Q,Nicklas Timfjord,R,180,SWE,24.5393566051,7-6(7) 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,760,13,934,7
-2001-M-FU-GBR-10A-2001,Great Britain F10,Hard,32,S,20011001,15,103751,,,Jonas Froberg,U,,SWE,20.4736481862,103730,,,Jonathan Marray,R,,GBR,20.5612594114,3-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,547,34,549,34
+2001-M-FU-GBR-10A-2001,Great Britain F10,Hard,32,S,20011001,15,103751,,,Jonas Froberg,U,,SWE,20.4736481862,103730,,,Jonathan Marray,R,183,GBR,20.5612594114,3-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,547,34,549,34
 2001-M-FU-GBR-10A-2001,Great Britain F10,Hard,32,S,20011001,16,104107,,Q,Andrew Banks,L,,GBR,18.7351129363,103754,2,,Mark Hilton,L,170,GBR,20.4490075291,6-4 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1292,2,378,75
 2001-M-FU-GBR-10A-2001,Great Britain F10,Hard,32,S,20011001,17,103553,1,,Alun Jones,R,180,AUS,21.4318959617,103942,,,James Nelson,R,,GBR,19.6167008898,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,348,86,708,17
 2001-M-FU-GBR-10A-2001,Great Britain F10,Hard,32,S,20011001,18,103810,7,,Philipp Hammer,R,,GER,20.2026009582,103623,,Q,Jacob Adaktusson,R,,SWE,21.0841889117,7-6(6) 4-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,481,45,569,31
@@ -10294,7 +10294,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-SA-POR-03A-2001b,Portugal 3 2,Hard,32,S,20011001,10,104038,,Q,Andrea Agazzi,U,,ITA,19.1923340178,103667,,,Bernat Mas Avellaneda,U,,ESP,20.7939767283,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1377,1,797,11
 2001-M-SA-POR-03A-2001b,Portugal 3 2,Hard,32,S,20011001,11,103657,,Q,Ivo Klec,R,183,SVK,20.8405201916,102032,,Q,Gustavo Gomez,U,,ARG,29.5414099932,6-1 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,790,12,,
 2001-M-SA-POR-03A-2001b,Portugal 3 2,Hard,32,S,20011001,12,103282,,WC,Tiago Sousa,R,,POR,22.8802190281,103033,4,,Helder Lopes,R,,POR,24.1505817933,7-5 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,872,8,1229,2
-2001-M-SA-POR-03A-2001b,Portugal 3 2,Hard,32,S,20011001,13,103885,8,,Daniel Lesske,U,,GER,19.8302532512,104311,,WC,Leonardo Tavares,R,,POR,17.6125941136,2-6 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,652,22,1052,4
+2001-M-SA-POR-03A-2001b,Portugal 3 2,Hard,32,S,20011001,13,103885,8,,Daniel Lesske,U,,GER,19.8302532512,104311,,WC,Leonardo Tavares,R,185,POR,17.6125941136,2-6 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,652,22,1052,4
 2001-M-SA-POR-03A-2001b,Portugal 3 2,Hard,32,S,20011001,14,104100,,Q,Evgueni Smirnov,U,,RUS,18.7926078029,103515,,,Filip Aniola,R,,POL,21.5989048597,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,938,7,701,17
 2001-M-SA-POR-03A-2001b,Portugal 3 2,Hard,32,S,20011001,15,117993,,Q,Fabio Tintori,U,,BRA,23.8603696099,103340,,,Isaac Tortades,R,,ESP,22.5516769336,4-6 7-6(7) 7-6(8),3,R32,,,,,,,,,,,,,,,,,,,,1377,1,921,7
 2001-M-SA-POR-03A-2001b,Portugal 3 2,Hard,32,S,20011001,16,104019,2,,Kristof Vliegen,R,193,BEL,19.2772073922,103382,,,Guillermo Platel,R,,ESP,22.3216974675,2-6 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,761,13,663,21
@@ -10318,7 +10318,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-SA-POR-03A-2001c,Portugal 3 3,Hard,32,S,20011001,3,103340,,,Isaac Tortades,R,,ESP,22.5516769336,106605,,Q,Baptiste Ranoldi,U,,FRA,,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,921,7,,
 2001-M-SA-POR-03A-2001c,Portugal 3 3,Hard,32,S,20011001,4,103083,,PR,Gregory Bauwens,R,,BEL,23.8603696099,103044,8,,Benoit Foucher,R,,FRA,24.0711841205,6-3 1-6 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,1229,2,706,17
 2001-M-SA-POR-03A-2001c,Portugal 3 3,Hard,32,S,20011001,5,103918,3,,Dominique Coene,R,,BEL,19.6878850103,117821,,WC,Vitor Ferreira,U,,POR,22.1930184805,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,625,24,,
-2001-M-SA-POR-03A-2001c,Portugal 3 3,Hard,32,S,20011001,6,104019,,,Kristof Vliegen,R,193,BEL,19.2772073922,104311,,WC,Leonardo Tavares,R,,POR,17.6125941136,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,761,13,1052,4
+2001-M-SA-POR-03A-2001c,Portugal 3 3,Hard,32,S,20011001,6,104019,,,Kristof Vliegen,R,193,BEL,19.2772073922,104311,,WC,Leonardo Tavares,R,185,POR,17.6125941136,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,761,13,1052,4
 2001-M-SA-POR-03A-2001c,Portugal 3 3,Hard,32,S,20011001,7,103667,,,Bernat Mas Avellaneda,U,,ESP,20.7939767283,103033,,SE,Helder Lopes,R,,POR,24.1505817933,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,797,11,1229,2
 2001-M-SA-POR-03A-2001c,Portugal 3 3,Hard,32,S,20011001,8,103382,5,,Guillermo Platel,R,,ESP,22.3216974675,103215,,WC,Andre Lopes,R,,POR,23.3155373032,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,663,21,,
 2001-M-SA-POR-03A-2001c,Portugal 3 3,Hard,32,S,20011001,9,104271,6,,Philipp Mukhometov,R,,RUS,17.8507871321,104420,,,Francisco Neves,U,,POR,17.0814510609,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,666,21,800,11
@@ -10415,7 +10415,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-HKG-01A-2001,Hong Kong F1,Hard,32,S,20011002,7,104229,,Q,Yen Hsun Lu,R,180,TPE,18.1327857632,102537,,Q,Melvin Tong,R,,HKG,26.6146475017,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1092,4,990,5
 2001-M-FU-HKG-01A-2001,Hong Kong F1,Hard,32,S,20011002,8,103462,6,,Ashley Ford,R,,AUS,21.916495551,103774,,,Hayato Furukawa,R,,JPN,20.3805612594,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,487,44,1009,5
 2001-M-FU-HKG-01A-2001,Hong Kong F1,Hard,32,S,20011002,9,104071,7,,Raven Klaasen,R,180,RSA,18.9596167009,109658,,Q,Anthony Ross,R,,AUS,24.7830253251,6-7(2) 6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,584,29,,
-2001-M-FU-HKG-01A-2001,Hong Kong F1,Hard,32,S,20011002,10,118540,,Q,Patrick Couprie,U,,NED,20.7145790554,106664,,WC,Brian Hung,R,,HKG,,2-6 7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2001-M-FU-HKG-01A-2001,Hong Kong F1,Hard,32,S,20011002,10,118540,,Q,Patrick Couprie,U,,NED,20.7145790554,106664,,WC,Brian Hung,R,,HKG,16.0958247775,2-6 7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2001-M-FU-HKG-01A-2001,Hong Kong F1,Hard,32,S,20011002,11,103731,,Q,Benedikt Stronk,U,,GER,20.5585215606,102873,,,Rob Cheyne,R,,NZL,24.9472963723,7-6(1) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1377,1,887,8
 2001-M-FU-HKG-01A-2001,Hong Kong F1,Hard,32,S,20011002,12,104499,4,,Jimmy Wang,R,178,TPE,16.643394935,101576,,,Ryuso Tsujino,R,,JPN,32.5995893224,W/O,3,R32,,,,,,,,,,,,,,,,,,,,465,50,1292,2
 2001-M-FU-HKG-01A-2001,Hong Kong F1,Hard,32,S,20011002,13,102282,8,,Tetsuya Chaen,R,,JPN,27.9041752225,103959,,Q,Harel Srugo,R,,ISR,19.5482546201,6-0 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,657,22,1029,5
@@ -10649,9 +10649,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-GBR-11A-2001,Great Britain F11,Hard,32,S,20011008,1,103157,1,,Arvind Parmar,R,193,GBR,23.5482546201,103945,,,Simon Dickson,R,,GBR,19.6167008898,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,220,170,540,36
 2001-M-FU-GBR-11A-2001,Great Britain F11,Hard,32,S,20011008,2,103325,,,Wesley Moodie,R,196,RSA,22.6475017112,103623,,Q,Jacob Adaktusson,R,,SWE,21.1033538672,3-6 6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,427,60,560,33
 2001-M-FU-GBR-11A-2001,Great Britain F11,Hard,32,S,20011008,3,102945,,Q,Luke Bourgeois,R,188,AUS,24.5995893224,104171,,Q,Richard Bloomfield,R,185,GBR,18.4503764545,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,605,26,1069,4
-2001-M-FU-GBR-11A-2001,Great Britain F11,Hard,32,S,20011008,4,103711,6,,Jaroslav Levinsky,R,196,CZE,20.6543463381,103730,,,Jonathan Marray,R,,GBR,20.5804243669,3-6 6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,382,76,548,34
+2001-M-FU-GBR-11A-2001,Great Britain F11,Hard,32,S,20011008,4,103711,6,,Jaroslav Levinsky,R,196,CZE,20.6543463381,103730,,,Jonathan Marray,R,183,GBR,20.5804243669,3-6 6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,382,76,548,34
 2001-M-FU-GBR-11A-2001,Great Britain F11,Hard,32,S,20011008,5,103553,3,,Alun Jones,R,180,AUS,21.4510609172,103810,,,Philipp Hammer,R,,GER,20.2217659138,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,338,90,683,19
-2001-M-FU-GBR-11A-2001,Great Britain F11,Hard,32,S,20011008,6,102983,,,Henrik Andersson,R,,SWE,24.4353182752,103993,,WC,Chris Lewis,U,,GBR,19.4140999316,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,489,44,1220,2
+2001-M-FU-GBR-11A-2001,Great Britain F11,Hard,32,S,20011008,6,102983,,,Henrik Andersson,R,,SWE,24.4353182752,103993,,WC,Chris Lewis,R,180,GBR,19.4140999316,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,489,44,1220,2
 2001-M-FU-GBR-11A-2001,Great Britain F11,Hard,32,S,20011008,7,103942,,WC,James Nelson,R,,GBR,19.6358658453,102557,,,Daniel Willman,U,,NZL,26.559890486,6-1 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,733,15,536,36
 2001-M-FU-GBR-11A-2001,Great Britain F11,Hard,32,S,20011008,8,103820,,,Alan Mackin,R,183,GBR,20.1587953457,103754,5,,Mark Hilton,L,170,GBR,20.4681724846,6-4 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,538,36,366,81
 2001-M-FU-GBR-11A-2001,Great Britain F11,Hard,32,S,20011008,9,102961,,Q,Nicklas Timfjord,R,180,SWE,24.5585215606,102793,,LL,Fredrik Loven,R,,SWE,25.3716632444,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,765,13,589,28
@@ -10691,7 +10691,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-HKG-02A-2001,Hong Kong F2,Hard,32,S,20011008,12,103462,4,,Ashley Ford,R,,AUS,21.9356605065,108728,,WC,Cheuk Wai Hui,R,,HKG,16.5366187543,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,494,44,,
 2001-M-FU-HKG-02A-2001,Hong Kong F2,Hard,32,S,20011008,13,102864,8,,Frank Moser,R,193,GER,25.0403832991,118542,,Q,Michael Frick,U,,HKG,18.8583162218,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,671,20,,
 2001-M-FU-HKG-02A-2001,Hong Kong F2,Hard,32,S,20011008,14,103959,,,Harel Srugo,R,,ISR,19.5674195756,111271,,Q,Pracharapol Khamsaman,R,,THA,20.295687885,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1021,5,,
-2001-M-FU-HKG-02A-2001,Hong Kong F2,Hard,32,S,20011008,15,103423,,,Toshiharu Kato,R,,JPN,22.1574264203,106664,,WC,Brian Hung,R,,HKG,,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,977,6,,
+2001-M-FU-HKG-02A-2001,Hong Kong F2,Hard,32,S,20011008,15,103423,,,Toshiharu Kato,R,,JPN,22.1574264203,106664,,WC,Brian Hung,R,,HKG,16.1149897331,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,977,6,,
 2001-M-FU-HKG-02A-2001,Hong Kong F2,Hard,32,S,20011008,16,103230,2,,Tasuku Iwami,L,168,JPN,23.2498288843,102424,,,Masahide Sakamoto,R,,JPN,27.2689938398,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,470,49,977,6
 2001-M-FU-HKG-02A-2001,Hong Kong F2,Hard,32,S,20011008,17,104229,,,Yen Hsun Lu,R,180,TPE,18.1519507187,102865,1,,Doug Bohaboy,R,,USA,25.0349075975,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1040,5,359,84
 2001-M-FU-HKG-02A-2001,Hong Kong F2,Hard,32,S,20011008,18,102903,7,,Eyal Erlich,R,183,ISR,24.7665982204,103086,,,Jeremy Berman,U,,USA,23.8658453114,6-4 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,720,15,1004,5
@@ -10719,7 +10719,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-PAR-01A-2001,Paraguay F1,Clay,32,S,20011008,9,103701,5,,Diego Hartfield,R,185,ARG,20.6844626968,104208,,,Damian Patriarca,R,,ARG,18.2806297057,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,555,34,1021,5
 2001-M-FU-PAR-01A-2001,Paraguay F1,Clay,32,S,20011008,10,103450,,,Federico Cardinali,R,,ARG,22.0177960301,104080,,Q,Alejandro Fabbri,U,,ARG,18.9486652977,3-6 6-4 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,922,7,1187,3
 2001-M-FU-PAR-01A-2001,Paraguay F1,Clay,32,S,20011008,11,104123,,,Luciano Vitullo,R,,ARG,18.6776180698,102830,,WC,Paulo Carvallo,R,,PAR,25.2457221081,3-6 6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,839,9,1368,1
-2001-M-FU-PAR-01A-2001,Paraguay F1,Clay,32,S,20011008,12,103841,3,,Julio Peralta,R,,CHI,20.0793976728,103205,,WC,Emilio Daniel Baez Britez,R,,PAR,23.3648186174,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,446,54,1284,2
+2001-M-FU-PAR-01A-2001,Paraguay F1,Clay,32,S,20011008,12,103841,3,,Julio Peralta,R,188,CHI,20.0793976728,103205,,WC,Emilio Daniel Baez Britez,R,,PAR,23.3648186174,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,446,54,1284,2
 2001-M-FU-PAR-01A-2001,Paraguay F1,Clay,32,S,20011008,13,103593,7,,Marcelo Barboza,R,,URU,21.2320328542,103121,,,Matias Oneille,R,,ARG,23.7125256674,6-2 3-6 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,625,24,655,22
 2001-M-FU-PAR-01A-2001,Paraguay F1,Clay,32,S,20011008,14,102471,,,Sergio Elias,U,,CHI,26.9514031485,104258,,WC,Juan Enrique Crosa,R,,PAR,17.9794661191,1-6 7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,758,13,,
 2001-M-FU-PAR-01A-2001,Paraguay F1,Clay,32,S,20011008,15,103058,,Q,Juan Felipe Yanez,R,,CHI,24.0301163587,104148,,Q,Lionel Noviski,R,,ARG,18.5434633812,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,707,17,,
@@ -10729,16 +10729,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-PAR-01A-2001,Paraguay F1,Clay,32,S,20011008,19,103675,,,Diego Junqueira,L,178,ARG,20.7775496235,103884,,,Riccardo Capannelli,R,,ITA,19.8521560575,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,574,30,822,10
 2001-M-FU-PAR-01A-2001,Paraguay F1,Clay,32,S,20011008,20,104004,,,Filip Prpic,R,173,SWE,19.370294319,102168,,Q,Hector Moretti,R,170,ARG,28.6954140999,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,724,15,660,21
 2001-M-FU-PAR-01A-2001,Paraguay F1,Clay,32,S,20011008,21,103450,,,Federico Cardinali,R,,ARG,22.0177960301,103701,5,,Diego Hartfield,R,185,ARG,20.6844626968,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,922,7,555,34
-2001-M-FU-PAR-01A-2001,Paraguay F1,Clay,32,S,20011008,22,103841,3,,Julio Peralta,R,,CHI,20.0793976728,104123,,,Luciano Vitullo,R,,ARG,18.6776180698,7-6(3) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,446,54,839,9
+2001-M-FU-PAR-01A-2001,Paraguay F1,Clay,32,S,20011008,22,103841,3,,Julio Peralta,R,188,CHI,20.0793976728,104123,,,Luciano Vitullo,R,,ARG,18.6776180698,7-6(3) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,446,54,839,9
 2001-M-FU-PAR-01A-2001,Paraguay F1,Clay,32,S,20011008,23,103593,7,,Marcelo Barboza,R,,URU,21.2320328542,102471,,,Sergio Elias,U,,CHI,26.9514031485,7-6(7) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,625,24,758,13
 2001-M-FU-PAR-01A-2001,Paraguay F1,Clay,32,S,20011008,24,103587,,,Andres Dellatorre,R,190,ARG,21.2484599589,103058,,Q,Juan Felipe Yanez,R,,CHI,24.0301163587,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,616,25,707,17
 2001-M-FU-PAR-01A-2001,Paraguay F1,Clay,32,S,20011008,25,103850,,,Sebastian Decoud,L,178,ARG,20.0547570157,103775,6,,Felipe Parada,R,175,CHI,20.3969883641,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,698,18,640,23
 2001-M-FU-PAR-01A-2001,Paraguay F1,Clay,32,S,20011008,26,103675,,,Diego Junqueira,L,178,ARG,20.7775496235,104004,,,Filip Prpic,R,173,SWE,19.370294319,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,574,30,724,15
-2001-M-FU-PAR-01A-2001,Paraguay F1,Clay,32,S,20011008,27,103841,3,,Julio Peralta,R,,CHI,20.0793976728,103450,,,Federico Cardinali,R,,ARG,22.0177960301,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,446,54,922,7
+2001-M-FU-PAR-01A-2001,Paraguay F1,Clay,32,S,20011008,27,103841,3,,Julio Peralta,R,188,CHI,20.0793976728,103450,,,Federico Cardinali,R,,ARG,22.0177960301,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,446,54,922,7
 2001-M-FU-PAR-01A-2001,Paraguay F1,Clay,32,S,20011008,28,103587,,,Andres Dellatorre,R,190,ARG,21.2484599589,103593,7,,Marcelo Barboza,R,,URU,21.2320328542,7-6(1) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,616,25,625,24
 2001-M-FU-PAR-01A-2001,Paraguay F1,Clay,32,S,20011008,29,103850,,,Sebastian Decoud,L,178,ARG,20.0547570157,103675,,,Diego Junqueira,L,178,ARG,20.7775496235,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,698,18,574,30
-2001-M-FU-PAR-01A-2001,Paraguay F1,Clay,32,S,20011008,30,103841,3,,Julio Peralta,R,,CHI,20.0793976728,103587,,,Andres Dellatorre,R,190,ARG,21.2484599589,7-5 3-6 6-4,3,SF,,,,,,,,,,,,,,,,,,,,446,54,616,25
-2001-M-FU-PAR-01A-2001,Paraguay F1,Clay,32,S,20011008,31,103850,,,Sebastian Decoud,L,178,ARG,20.0547570157,103841,3,,Julio Peralta,R,,CHI,20.0793976728,6-3 6-1,3,F,,,,,,,,,,,,,,,,,,,,698,18,446,54
+2001-M-FU-PAR-01A-2001,Paraguay F1,Clay,32,S,20011008,30,103841,3,,Julio Peralta,R,188,CHI,20.0793976728,103587,,,Andres Dellatorre,R,190,ARG,21.2484599589,7-5 3-6 6-4,3,SF,,,,,,,,,,,,,,,,,,,,446,54,616,25
+2001-M-FU-PAR-01A-2001,Paraguay F1,Clay,32,S,20011008,31,103850,,,Sebastian Decoud,L,178,ARG,20.0547570157,103841,3,,Julio Peralta,R,188,CHI,20.0793976728,6-3 6-1,3,F,,,,,,,,,,,,,,,,,,,,698,18,446,54
 2001-M-FU-UZB-03A-2001,Uzbekistan F3,Hard,32,S,20011008,1,102347,1,,Dmitri Tomashevich,R,,UZB,27.5920602327,118465,,WC,Farid Shirinov,U,,AZE,16.3203285421,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,315,103,,
 2001-M-FU-UZB-03A-2001,Uzbekistan F3,Hard,32,S,20011008,2,104093,,,Nickolai Dyachok,U,,UKR,18.8446269678,104479,,WC,Sarvar Ikramov,R,,UZB,16.7419575633,6-4 6-7(5) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1069,4,1368,1
 2001-M-FU-UZB-03A-2001,Uzbekistan F3,Hard,32,S,20011008,3,102631,,,Alexey Gavrilov,R,,RUS,26.2039698836,104141,,,Dmitri Sitak,R,183,RUS,18.598220397,6-3 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,559,33,877,8
@@ -10805,7 +10805,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-COL-01A-2001,Colombia F1,Clay,32,S,20011015,2,103327,,,Alessandro Motti,L,,ITA,22.6475017112,109586,,,Philipp Stark,U,,GER,20.7556468172,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1283,2,1068,4
 2001-M-FU-COL-01A-2001,Colombia F1,Clay,32,S,20011015,3,103707,,,Dmitriy Koch,U,,GER,20.681724846,118482,,WC,Fernando Guevara,U,,COL,16.5585215606,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,970,6,,
 2001-M-FU-COL-01A-2001,Colombia F1,Clay,32,S,20011015,4,103493,5,,Eduardo Bohrer,R,,BRA,21.7440109514,118483,,Q,Carlos Andres Nunez,U,,COL,18.2696783025,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,865,9,,
-2001-M-FU-COL-01A-2001,Colombia F1,Clay,32,S,20011015,5,104027,4,,Pablo Gonzalez,R,178,COL,19.2881587953,108701,,Q,Juan Sebastian Cabal,R,,COL,15.4743326489,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,812,11,,
+2001-M-FU-COL-01A-2001,Colombia F1,Clay,32,S,20011015,5,104027,4,,Pablo Gonzalez,R,178,COL,19.2881587953,108701,,Q,Juan Sebastian Cabal,R,185,COL,15.4743326489,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,812,11,,
 2001-M-FU-COL-01A-2001,Colombia F1,Clay,32,S,20011015,6,118461,,,Jose Carlos Pinto,U,,BRA,19.4305270363,118484,,LL,Jerome Ferrari,U,,SUI,21.8370978782,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1366,1,,
 2001-M-FU-COL-01A-2001,Colombia F1,Clay,32,S,20011015,7,104113,,,Carlos Salamanca,L,196,COL,18.7488021903,101167,,,Jaime Cortes,R,,COL,36.2217659138,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1283,2,1068,4
 2001-M-FU-COL-01A-2001,Colombia F1,Clay,32,S,20011015,8,104057,,,Alejandro Poberaj,R,,ARG,19.1047227926,102244,7,,Gregory Girault,R,,FRA,28.2409308693,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1188,3,1188,3
@@ -11179,7 +11179,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-COL-02A-2001,Colombia F2,Clay,32,S,20011022,12,103327,,Q,Alessandro Motti,L,,ITA,22.6666666667,103700,3,,Juan Pablo Guzman,L,178,ARG,20.7282683094,3-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1287,2,471,49
 2001-M-FU-COL-02A-2001,Colombia F2,Clay,32,S,20011022,13,102985,6,,Gustavo Marcaccio,R,,ARG,24.4709103354,103107,,Q,Luiz Marafelli,R,,BRA,23.7891854894,3-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,500,42,,
 2001-M-FU-COL-02A-2001,Colombia F2,Clay,32,S,20011022,14,118461,,Q,Jose Carlos Pinto,U,,BRA,19.4496919918,118379,,Q,Roland Stopponi,U,,SUI,21.5085557837,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1363,1,,
-2001-M-FU-COL-02A-2001,Colombia F2,Clay,32,S,20011022,15,118487,,WC,Jose Orozco,R,,COL,17.9575633128,108701,,WC,Juan Sebastian Cabal,R,,COL,15.4934976044,7-6(2) 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2001-M-FU-COL-02A-2001,Colombia F2,Clay,32,S,20011022,15,118487,,WC,Jose Orozco,R,,COL,17.9575633128,108701,,WC,Juan Sebastian Cabal,R,185,COL,15.4934976044,7-6(2) 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2001-M-FU-COL-02A-2001,Colombia F2,Clay,32,S,20011022,16,103677,2,,Andreas Fasching,U,,AUT,20.8049281314,117430,,Q,Rafael Cruz,U,,BRA,20.8761122519,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,449,54,,
 2001-M-FU-COL-02A-2001,Colombia F2,Clay,32,S,20011022,17,102836,1,,Rogier Wassen,R,190,NED,25.2019164956,104199,,,Sebastian Quintero,R,,COL,18.3846680356,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,247,148,1117,3
 2001-M-FU-COL-02A-2001,Colombia F2,Clay,32,S,20011022,18,104113,,SE,Carlos Salamanca,L,196,COL,18.7679671458,104027,8,,Pablo Gonzalez,R,178,COL,19.3073237509,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1287,2,808,11
@@ -11422,7 +11422,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-CYP-01A-2001,Cyprus F1,Clay,32,S,20011029,7,102908,,Q,Roman Kukal,R,,SVK,24.810403833,104090,,LL,Nikolay Mishin,R,,RUS,18.9240246407,7-6(3) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1381,1,1247,2
 2001-M-FU-CYP-01A-2001,Cyprus F1,Clay,32,S,20011029,8,102568,5,,Stephane Martinez,R,,FRA,26.5763175907,104125,,,Igor Racic,R,,BIH,18.7241615332,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,766,13,994,6
 2001-M-FU-CYP-01A-2001,Cyprus F1,Clay,32,S,20011029,9,103903,,,Nikola Vidovic,R,,SRB,19.8138261465,103933,8,,Victor Sanchez Gil,U,,ESP,19.7262149213,6-3 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,1247,2,935,7
-2001-M-FU-CYP-01A-2001,Cyprus F1,Clay,32,S,20011029,10,104222,,,Nikola Ciric,L,,SRB,18.2422997947,103086,,,Jeremy Berman,U,,USA,23.923340178,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1179,3,941,7
+2001-M-FU-CYP-01A-2001,Cyprus F1,Clay,32,S,20011029,10,104222,,,Nikola Ciric,L,201,SRB,18.2422997947,103086,,,Jeremy Berman,U,,USA,23.923340178,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1179,3,941,7
 2001-M-FU-CYP-01A-2001,Cyprus F1,Clay,32,S,20011029,11,104011,,,Lefteris Alexiou,R,,GRE,19.4058863792,104571,,WC,Marcos Baghdatis,R,183,CYP,16.3668720055,6-2 7-6(0),3,R32,,,,,,,,,,,,,,,,,,,,1209,3,1247,2
 2001-M-FU-CYP-01A-2001,Cyprus F1,Clay,32,S,20011029,12,103708,3,SE,Jaroslav Pospisil,R,,CZE,20.7173169062,104343,,,Adrian Gavrila,R,,ROU,17.5770020534,1-6 6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,582,31,1247,2
 2001-M-FU-CYP-01A-2001,Cyprus F1,Clay,32,S,20011029,13,103864,6,,Mohamed Mamoun,R,,EGY,20.038329911,118489,,LL,Maximilian Schmuck,U,,GER,21.1279945243,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,810,11,,
@@ -11433,13 +11433,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-CYP-01A-2001,Cyprus F1,Clay,32,S,20011029,18,103891,7,,Alexandros Jakupovic,R,,GRE,19.8740588638,117502,,WC,Antonis Kalaitzakis,R,,GRE,18.8720054757,6-1 2-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,858,10,,
 2001-M-FU-CYP-01A-2001,Cyprus F1,Clay,32,S,20011029,19,104203,4,Q,Darko Madjarovski,R,,SRB,18.3682409309,104105,,Q,Pavel Ivanov,R,193,RUS,18.8254620123,6-4 1-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,587,29,846,10
 2001-M-FU-CYP-01A-2001,Cyprus F1,Clay,32,S,20011029,20,102568,5,,Stephane Martinez,R,,FRA,26.5763175907,102908,,Q,Roman Kukal,R,,SVK,24.810403833,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,766,13,1381,1
-2001-M-FU-CYP-01A-2001,Cyprus F1,Clay,32,S,20011029,21,104222,,,Nikola Ciric,L,,SRB,18.2422997947,103903,,,Nikola Vidovic,R,,SRB,19.8138261465,6-4 3-6 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,1179,3,1247,2
+2001-M-FU-CYP-01A-2001,Cyprus F1,Clay,32,S,20011029,21,104222,,,Nikola Ciric,L,201,SRB,18.2422997947,103903,,,Nikola Vidovic,R,,SRB,19.8138261465,6-4 3-6 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,1179,3,1247,2
 2001-M-FU-CYP-01A-2001,Cyprus F1,Clay,32,S,20011029,22,104011,,,Lefteris Alexiou,R,,GRE,19.4058863792,103708,3,SE,Jaroslav Pospisil,R,,CZE,20.7173169062,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1209,3,582,31
 2001-M-FU-CYP-01A-2001,Cyprus F1,Clay,32,S,20011029,23,104067,,,Goran Tosic,R,,MNE,19.06091718,103864,6,,Mohamed Mamoun,R,,EGY,20.038329911,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1085,4,810,11
 2001-M-FU-CYP-01A-2001,Cyprus F1,Clay,32,S,20011029,24,103620,,,Tomas Janci,R,,SVK,21.1909650924,101957,2,,Milen Velev,R,,BUL,30.1519507187,7-6(4) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,917,8,418,62
 2001-M-FU-CYP-01A-2001,Cyprus F1,Clay,32,S,20011029,25,102959,1,,Marko Tkalec,R,178,SLO,24.6187542779,103891,7,,Alexandros Jakupovic,R,,GRE,19.8740588638,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,311,104,858,10
 2001-M-FU-CYP-01A-2001,Cyprus F1,Clay,32,S,20011029,26,104203,4,Q,Darko Madjarovski,R,,SRB,18.3682409309,102568,5,,Stephane Martinez,R,,FRA,26.5763175907,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,587,29,766,13
-2001-M-FU-CYP-01A-2001,Cyprus F1,Clay,32,S,20011029,27,104011,,,Lefteris Alexiou,R,,GRE,19.4058863792,104222,,,Nikola Ciric,L,,SRB,18.2422997947,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,1209,3,1179,3
+2001-M-FU-CYP-01A-2001,Cyprus F1,Clay,32,S,20011029,27,104011,,,Lefteris Alexiou,R,,GRE,19.4058863792,104222,,,Nikola Ciric,L,201,SRB,18.2422997947,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,1209,3,1179,3
 2001-M-FU-CYP-01A-2001,Cyprus F1,Clay,32,S,20011029,28,103620,,,Tomas Janci,R,,SVK,21.1909650924,104067,,,Goran Tosic,R,,MNE,19.06091718,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,917,8,1085,4
 2001-M-FU-CYP-01A-2001,Cyprus F1,Clay,32,S,20011029,29,102959,1,,Marko Tkalec,R,178,SLO,24.6187542779,104203,4,Q,Darko Madjarovski,R,,SRB,18.3682409309,6-0 6-3,3,SF,,,,,,,,,,,,,,,,,,,,311,104,587,29
 2001-M-FU-CYP-01A-2001,Cyprus F1,Clay,32,S,20011029,30,103620,,,Tomas Janci,R,,SVK,21.1909650924,104011,,,Lefteris Alexiou,R,,GRE,19.4058863792,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,917,8,1209,3
@@ -12051,7 +12051,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-MEX-11A-2001,Mexico F11,Hard,32,S,20011105,1,102565,1,,Alexander Waske,R,188,GER,26.6009582478,102962,,Q,Miguel Miranda,R,,CHI,24.6324435318,6-4 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,286,119,502,42
 2001-M-FU-MEX-11A-2001,Mexico F11,Hard,32,S,20011105,2,102968,,,Jonathan Erlich,R,180,ISR,24.5859000684,104179,,,Bruno Echagaray,R,183,MEX,18.4969199179,6-4 6-7(10) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,619,26,516,39
 2001-M-FU-MEX-11A-2001,Mexico F11,Hard,32,S,20011105,3,118333,,Q,Mario Alberto De Leon,R,,MEX,19.1101984942,104200,,WC,Juan Manuel Elizondo,U,180,MEX,18.4120465435,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,1388,1
-2001-M-FU-MEX-11A-2001,Mexico F11,Hard,32,S,20011105,4,103841,7,,Julio Peralta,R,,CHI,20.1560574949,104166,,,Alex Bogomolov Jr,R,178,RUS,18.5379876797,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,398,68,709,17
+2001-M-FU-MEX-11A-2001,Mexico F11,Hard,32,S,20011105,4,103841,7,,Julio Peralta,R,188,CHI,20.1560574949,104166,,,Alex Bogomolov Jr,R,178,RUS,18.5379876797,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,398,68,709,17
 2001-M-FU-MEX-11A-2001,Mexico F11,Hard,32,S,20011105,5,103060,3,,Alejandro Hernandez,R,180,MEX,24.0958247775,103746,,,Miguel Gallardo Valles,R,,MEX,20.5776865161,4-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,348,86,463,52
 2001-M-FU-MEX-11A-2001,Mexico F11,Hard,32,S,20011105,6,103023,,Q,Dominic Boulet,R,,CAN,24.3148528405,104154,,Q,Paul Capdeville,R,190,CHI,18.5954825462,6-4 4-6 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,927,8,1388,1
 2001-M-FU-MEX-11A-2001,Mexico F11,Hard,32,S,20011105,7,103020,,WC,Guillermo Carter,R,,MEX,24.3312799452,103055,,,Cary Franklin,L,,USA,24.1177275838,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,869,9,724,17
@@ -12065,14 +12065,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-MEX-11A-2001,Mexico F11,Hard,32,S,20011105,15,103572,,Q,Luis Hormazabal,R,,CHI,21.4182067077,103725,,WC,Luis Ernesto Peon,U,,MEX,20.6762491444,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,942,7,,
 2001-M-FU-MEX-11A-2001,Mexico F11,Hard,32,S,20011105,16,102460,,Q,Eduardo Morones,R,,MEX,27.112936345,102668,2,,Tapio Nurminen,R,,FIN,26.0670773443,1-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,886,9,323,97
 2001-M-FU-MEX-11A-2001,Mexico F11,Hard,32,S,20011105,17,102968,,,Jonathan Erlich,R,180,ISR,24.5859000684,102565,1,,Alexander Waske,R,188,GER,26.6009582478,7-6(5) 3-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,619,26,286,119
-2001-M-FU-MEX-11A-2001,Mexico F11,Hard,32,S,20011105,18,103841,7,,Julio Peralta,R,,CHI,20.1560574949,118333,,Q,Mario Alberto De Leon,R,,MEX,19.1101984942,6-4 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,398,68,,
+2001-M-FU-MEX-11A-2001,Mexico F11,Hard,32,S,20011105,18,103841,7,,Julio Peralta,R,188,CHI,20.1560574949,118333,,Q,Mario Alberto De Leon,R,,MEX,19.1101984942,6-4 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,398,68,,
 2001-M-FU-MEX-11A-2001,Mexico F11,Hard,32,S,20011105,19,103060,3,,Alejandro Hernandez,R,180,MEX,24.0958247775,103023,,Q,Dominic Boulet,R,,CAN,24.3148528405,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,348,86,927,8
 2001-M-FU-MEX-11A-2001,Mexico F11,Hard,32,S,20011105,20,103358,6,,Nicolas Todero,R,183,ARG,22.559890486,103020,,WC,Guillermo Carter,R,,MEX,24.3312799452,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,384,74,869,9
 2001-M-FU-MEX-11A-2001,Mexico F11,Hard,32,S,20011105,21,102624,,Q,Andrew Painter,R,188,AUS,26.302532512,103130,8,,Louis Vosloo,R,178,RSA,23.7672826831,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1161,3,425,63
 2001-M-FU-MEX-11A-2001,Mexico F11,Hard,32,S,20011105,22,103328,,,Andres Pedroso,R,,USA,22.7049965777,102320,4,,Lazaro Navarro Batles,R,,CUB,27.7700205339,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,586,29,,
 2001-M-FU-MEX-11A-2001,Mexico F11,Hard,32,S,20011105,23,103197,5,,John Doran,R,,IRL,23.4743326489,103218,,,Manuel Jorquera,R,,ITA,23.4004106776,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,372,78,608,27
 2001-M-FU-MEX-11A-2001,Mexico F11,Hard,32,S,20011105,24,102460,,Q,Eduardo Morones,R,,MEX,27.112936345,103572,,Q,Luis Hormazabal,R,,CHI,21.4182067077,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,886,9,942,7
-2001-M-FU-MEX-11A-2001,Mexico F11,Hard,32,S,20011105,25,102968,,,Jonathan Erlich,R,180,ISR,24.5859000684,103841,7,,Julio Peralta,R,,CHI,20.1560574949,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,619,26,398,68
+2001-M-FU-MEX-11A-2001,Mexico F11,Hard,32,S,20011105,25,102968,,,Jonathan Erlich,R,180,ISR,24.5859000684,103841,7,,Julio Peralta,R,188,CHI,20.1560574949,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,619,26,398,68
 2001-M-FU-MEX-11A-2001,Mexico F11,Hard,32,S,20011105,26,103060,3,,Alejandro Hernandez,R,180,MEX,24.0958247775,103358,6,,Nicolas Todero,R,183,ARG,22.559890486,6-3 7-6(3),3,QF,,,,,,,,,,,,,,,,,,,,348,86,384,74
 2001-M-FU-MEX-11A-2001,Mexico F11,Hard,32,S,20011105,27,102624,,Q,Andrew Painter,R,188,AUS,26.302532512,103328,,,Andres Pedroso,R,,USA,22.7049965777,6-1 3-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,1161,3,586,29
 2001-M-FU-MEX-11A-2001,Mexico F11,Hard,32,S,20011105,28,103197,5,,John Doran,R,,IRL,23.4743326489,102460,,Q,Eduardo Morones,R,,MEX,27.112936345,6-3 7-6(10),3,QF,,,,,,,,,,,,,,,,,,,,372,78,886,9

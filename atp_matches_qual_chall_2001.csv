@@ -538,7 +538,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-361,Santiago CH,Clay,32,C,20011029,10,102585,,Q,Sebastian Prieto,R,180,ARG,26.4476386037,102494,,,Tomas Behrend,R,193,GER,26.8802190281,7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,243,150,132,291
 2001-361,Santiago CH,Clay,32,C,20011029,11,102768,,,Federico Browne,R,180,ARG,25.5605749487,102477,,LL,Gaston Etlis,R,185,ARG,26.984257358,4-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,387,72,174,223
 2001-361,Santiago CH,Clay,32,C,20011029,12,104076,4,,Jose Acasuso,R,190,ARG,19.0253251198,102999,,,Stefano Galvani,R,178,ITA,24.4052019165,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,86,499,135,287
-2001-361,Santiago CH,Clay,32,C,20011029,13,103581,9,,Flavio Saretta,R,183,BRA,21.3360711841,104477,,WC,Jorge Aguilar,R,,CHI,16.8049281314,4-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,114,379,,
+2001-361,Santiago CH,Clay,32,C,20011029,13,103581,9,,Flavio Saretta,R,183,BRA,21.3360711841,104477,,WC,Jorge Aguilar,R,178,CHI,16.8049281314,4-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,114,379,,
 2001-361,Santiago CH,Clay,32,C,20011029,14,103737,,,Edgardo Massa,R,180,ARG,20.605065024,103837,,LL,Didac Perez,R,178,ESP,20.1423682409,6-4 0-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,149,261,193,194
 2001-361,Santiago CH,Clay,32,C,20011029,15,103243,,,Cristian Kordasz,R,,ARG,23.2470910335,103852,,,Feliciano Lopez,L,188,ESP,20.1067761807,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,244,149,146,263
 2001-361,Santiago CH,Clay,32,C,20011029,16,103900,2,,David Nalbandian,R,180,ARG,19.8247775496,102234,,,Oliver Gross,R,185,GER,28.3668720055,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,52,735,151,256
@@ -1592,7 +1592,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-544,Montevideo CH,Clay,32,C,20011105,10,102768,,,Federico Browne,R,180,ARG,25.5797399042,102239,,,Francisco Costa,R,180,BRA,28.3559206023,6-3 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,369,78,221,170
 2001-544,Montevideo CH,Clay,32,C,20011105,11,103632,,,Luis Horna,R,180,PER,21.1416837782,104043,,,Marc Lopez,R,175,ESP,19.266255989,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,134,290,124,327
 2001-544,Montevideo CH,Clay,32,C,20011105,12,103602,,,Fernando Gonzalez,R,183,CHI,21.2703627652,103428,4,,Juan Ignacio Chela,R,190,ARG,22.1848049281,7-6(11) 3-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,159,247,74,529
-2001-544,Montevideo CH,Clay,32,C,20011105,13,102860,6,,Agustin Calleri,R,183,ARG,25.1416837782,104395,,WC,Marcel Felder,R,,URU,17.325119781,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,86,500,,
+2001-544,Montevideo CH,Clay,32,C,20011105,13,102860,6,,Agustin Calleri,R,183,ARG,25.1416837782,104395,,WC,Marcel Felder,R,174,URU,17.325119781,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,86,500,,
 2001-544,Montevideo CH,Clay,32,C,20011105,14,102234,,,Oliver Gross,R,185,GER,28.386036961,104421,,WC,Martin Vilarrubi,R,,URU,17.1745379877,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,149,256,1388,1
 2001-544,Montevideo CH,Clay,32,C,20011105,15,103737,,,Edgardo Massa,R,180,ARG,20.6242299795,103015,,,Daniel Melo,L,185,BRA,24.3394934976,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,132,302,157,249
 2001-544,Montevideo CH,Clay,32,C,20011105,16,103151,2,,Mariano Zabaleta,R,183,ARG,23.6851471595,102554,,,Diego Moyano,R,175,ARG,26.6475017112,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,60,628,225,168
@@ -1921,7 +1921,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-577,San Benedetto CH,Clay,32,C,20010806,29,101997,,WC,Marzio Martelli,R,180,ITA,29.6454483231,103716,,WC,Uros Vico,R,188,ITA,20.4599589322,3-6 6-3 7-6(4),3,SF,,,,,,,,,,,,,,,,,,,,381,69,481,43
 2001-577,San Benedetto CH,Clay,32,C,20010806,30,102910,,,Salvador Navarro,R,180,ESP,24.5749486653,103105,,,Ruben Ramirez Hidalgo,R,183,ESP,23.5811088296,6-4 7-5,3,SF,,,,,,,,,,,,,,,,,,,,325,90,232,152
 2001-577,San Benedetto CH,Clay,32,C,20010806,31,101997,,WC,Marzio Martelli,R,180,ITA,29.6454483231,102910,,,Salvador Navarro,R,180,ESP,24.5749486653,6-4 6-2,3,F,,,,,,,,,,,,,,,,,,,,381,69,325,90
-2001-58,Magdeburg CH,Carpet,32,C,20010312,1,102533,1,,Jens Knippschild,R,190,GER,26.0698151951,104465,,WC,Martin Emmrich,L,,GER,16.2327173169,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,102,401,,
+2001-58,Magdeburg CH,Carpet,32,C,20010312,1,102533,1,,Jens Knippschild,R,190,GER,26.0698151951,104465,,WC,Martin Emmrich,L,183,GER,16.2327173169,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,102,401,,
 2001-58,Magdeburg CH,Carpet,32,C,20010312,2,102999,,,Stefano Galvani,R,178,ITA,23.7727583847,103281,,,Ladislav Svarc,R,188,SVK,22.3271731691,6-7(1) 7-6(12) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,238,152,248,146
 2001-58,Magdeburg CH,Carpet,32,C,20010312,3,103401,,Q,Jan Hernych,R,190,CZE,21.6810403833,109132,,,Torsten Riedel,U,,GER,35.4661190965,6-3 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,213,170,,
 2001-58,Magdeburg CH,Carpet,32,C,20010312,4,101969,6,,Orlin Stanoytchev,R,185,BUL,29.4647501711,102730,,,Ivo Heuberger,R,188,SUI,25.0595482546,7-6(8) 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,161,240,178,219
@@ -1989,7 +1989,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-583,Manchester CH,Grass,32,C,20010716,4,103544,8,,Andy Ram,R,180,ISR,21.2648870637,102565,,,Alexander Waske,R,188,GER,26.2943189596,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,309,101,273,120
 2001-583,Manchester CH,Grass,32,C,20010716,5,103003,4,,Jean Francois Bachelot,R,183,FRA,24.0958247775,103153,,,Gilles Elseneer,R,188,BEL,23.3620807666,7-6(2) 6-7(6) 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,197,191,227,160
 2001-583,Manchester CH,Grass,32,C,20010716,6,102464,,,Todd Larkham,R,178,AUS,26.7570157426,102763,,Q,Benjamin Cassaigne,L,185,FRA,25.28678987,7-6(5) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,299,109,354,80
-2001-583,Manchester CH,Grass,32,C,20010716,7,103730,,WC,Jonathan Marray,R,,GBR,20.3504449008,104014,,,Lee Childs,R,,GBR,19.0965092402,6-4 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,675,19,317,97
+2001-583,Manchester CH,Grass,32,C,20010716,7,103730,,WC,Jonathan Marray,R,183,GBR,20.3504449008,104014,,,Lee Childs,R,,GBR,19.0965092402,6-4 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,675,19,317,97
 2001-583,Manchester CH,Grass,32,C,20010716,8,103157,6,,Arvind Parmar,R,193,GBR,23.318275154,102835,,WC,Luke Milligan,R,180,GBR,24.9418206708,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,205,182,419,56
 2001-583,Manchester CH,Grass,32,C,20010716,9,102433,5,,Mose Navarra,L,180,ITA,26.9952087611,109008,,Q,Jeff Laski,U,,USA,23.4688569473,7-6(3) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,218,168,,
 2001-583,Manchester CH,Grass,32,C,20010716,10,103333,,,Ivo Karlovic,R,208,CRO,22.379192334,103945,,WC,Simon Dickson,R,,GBR,19.3867214237,6-2 5-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,249,140,469,46
@@ -2002,13 +2002,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-583,Manchester CH,Grass,32,C,20010716,17,102730,1,,Ivo Heuberger,R,188,SUI,25.4045174538,103162,,,Dejan Petrovic,R,,SRB,23.2854209446,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,139,299,342,84
 2001-583,Manchester CH,Grass,32,C,20010716,18,103544,8,,Andy Ram,R,180,ISR,21.2648870637,103503,,,Robin Vik,R,183,CZE,21.4428473648,4-6 6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,309,101,266,124
 2001-583,Manchester CH,Grass,32,C,20010716,19,103003,4,,Jean Francois Bachelot,R,183,FRA,24.0958247775,102464,,,Todd Larkham,R,178,AUS,26.7570157426,7-6(5) 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,197,191,299,109
-2001-583,Manchester CH,Grass,32,C,20010716,20,103730,,WC,Jonathan Marray,R,,GBR,20.3504449008,103157,6,,Arvind Parmar,R,193,GBR,23.318275154,6-1 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,675,19,205,182
+2001-583,Manchester CH,Grass,32,C,20010716,20,103730,,WC,Jonathan Marray,R,183,GBR,20.3504449008,103157,6,,Arvind Parmar,R,193,GBR,23.318275154,6-1 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,675,19,205,182
 2001-583,Manchester CH,Grass,32,C,20010716,21,102433,5,,Mose Navarra,L,180,ITA,26.9952087611,103333,,,Ivo Karlovic,R,208,CRO,22.379192334,6-3 6-7(4) 7-6(7),3,R16,,,,,,,,,,,,,,,,,,,,218,168,249,140
 2001-583,Manchester CH,Grass,32,C,20010716,22,102793,,Q,Fredrik Loven,R,,SWE,25.1416837782,103325,,,Wesley Moodie,R,196,RSA,22.417522245,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,733,15,385,67
 2001-583,Manchester CH,Grass,32,C,20010716,23,102443,7,,Barry Cowan,L,188,GBR,26.8911704312,103580,,,Alexander Peya,R,183,AUT,21.0513347023,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,230,157,277,117
 2001-583,Manchester CH,Grass,32,C,20010716,24,102965,2,,Jamie Delgado,R,178,GBR,24.3203285421,102571,,,Gregory Carraz,R,190,FRA,26.2696783025,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,144,285,334,88
 2001-583,Manchester CH,Grass,32,C,20010716,25,102730,1,,Ivo Heuberger,R,188,SUI,25.4045174538,103544,8,,Andy Ram,R,180,ISR,21.2648870637,7-6(5) 4-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,139,299,309,101
-2001-583,Manchester CH,Grass,32,C,20010716,26,103003,4,,Jean Francois Bachelot,R,183,FRA,24.0958247775,103730,,WC,Jonathan Marray,R,,GBR,20.3504449008,7-5 6-2,3,QF,,,,,,,,,,,,,,,,,,,,197,191,675,19
+2001-583,Manchester CH,Grass,32,C,20010716,26,103003,4,,Jean Francois Bachelot,R,183,FRA,24.0958247775,103730,,WC,Jonathan Marray,R,183,GBR,20.3504449008,7-5 6-2,3,QF,,,,,,,,,,,,,,,,,,,,197,191,675,19
 2001-583,Manchester CH,Grass,32,C,20010716,27,102433,5,,Mose Navarra,L,180,ITA,26.9952087611,102793,,Q,Fredrik Loven,R,,SWE,25.1416837782,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,218,168,733,15
 2001-583,Manchester CH,Grass,32,C,20010716,28,102965,2,,Jamie Delgado,R,178,GBR,24.3203285421,102443,7,,Barry Cowan,L,188,GBR,26.8911704312,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,144,285,230,157
 2001-583,Manchester CH,Grass,32,C,20010716,29,103003,4,,Jean Francois Bachelot,R,183,FRA,24.0958247775,102730,1,,Ivo Heuberger,R,188,SUI,25.4045174538,3-6 7-5 6-4,3,SF,,,,,,,,,,,,,,,,,,,,197,191,139,299
@@ -2363,7 +2363,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-645,Rocky Mount CH,Clay,32,C,20010514,6,103270,,WC,Kristian Capalik,R,188,USA,22.6119096509,109649,,WC,Albert Brice,U,,USA,32.2491444216,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,394,67,,
 2001-645,Rocky Mount CH,Clay,32,C,20010514,7,103546,,,Patricio Arquez,R,,ARG,21.0869267625,109650,,WC,Ken Whitaker,U,,USA,41.5414099932,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,245,142,,
 2001-645,Rocky Mount CH,Clay,32,C,20010514,8,102788,6,,Jan Vacek,R,198,CZE,25.0102669405,102665,,,Damian Furmanski,R,,ARG,25.607118412,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,161,243,373,73
-2001-645,Rocky Mount CH,Clay,32,C,20010514,9,102434,7,,Vincent Spadea,R,183,USA,26.8199863107,102879,,Q,Jaime Fillol,R,,CHI,24.5256673511,6-0 7-5,3,R32,,,,,,,,,,,,,,,,,,,,180,217,998,5
+2001-645,Rocky Mount CH,Clay,32,C,20010514,9,102434,7,,Vincent Spadea,R,183,USA,26.8199863107,102879,,Q,Jaime Fillol,R,180,CHI,24.5256673511,6-0 7-5,3,R32,,,,,,,,,,,,,,,,,,,,180,217,998,5
 2001-645,Rocky Mount CH,Clay,32,C,20010514,10,101609,,,David Wheaton,R,193,USA,31.947980835,102497,,Q,Mashiska Washington,R,180,USA,26.4010951403,4-6 6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,333,87,456,49
 2001-645,Rocky Mount CH,Clay,32,C,20010514,11,103608,,,Mario Munoz Bejarano,R,,ESP,20.7775496235,103431,,,Brandon Hawk,R,,USA,21.6947296372,6-3 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,378,71,295,106
 2001-645,Rocky Mount CH,Clay,32,C,20010514,12,102263,3,,Yong Il Yoon,R,175,KOR,27.6386036961,103060,,,Alejandro Hernandez,R,180,MEX,23.6167008898,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,153,259,192,193
@@ -3015,7 +3015,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-699,Maia CH,Clay,32,C,20010924,7,103165,,,Gorka Fraile,R,180,ESP,23.4661190965,101731,,WC,Nuno Marques,L,190,POR,31.4606433949,2-6 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,194,199,744,14
 2001-699,Maia CH,Clay,32,C,20010924,8,103813,6,,Jarkko Nieminen,L,185,FIN,20.1724845996,102999,,,Stefano Galvani,R,178,ITA,24.3093771389,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,123,331,138,290
 2001-699,Maia CH,Clay,32,C,20010924,9,104043,5,,Marc Lopez,R,175,ESP,19.151266256,103382,,Q,Guillermo Platel,R,,ESP,22.302532512,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,130,304,715,17
-2001-699,Maia CH,Clay,32,C,20010924,10,101938,,Q,Bernardo Mota,R,178,POR,30.1984941821,104311,,Q,Leonardo Tavares,R,,POR,17.5934291581,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,599,28,,
+2001-699,Maia CH,Clay,32,C,20010924,10,101938,,Q,Bernardo Mota,R,178,POR,30.1984941821,104311,,Q,Leonardo Tavares,R,185,POR,17.5934291581,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,599,28,,
 2001-699,Maia CH,Clay,32,C,20010924,11,103852,,,Feliciano Lopez,L,188,ESP,20.0109514031,103105,,,Ruben Ramirez Hidalgo,R,183,ESP,23.7152635181,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,206,184,169,233
 2001-699,Maia CH,Clay,32,C,20010924,12,102154,,,Marcos Ondruska,R,183,RSA,28.7665982204,102722,3,,Attila Savolt,R,183,HUN,25.6344969199,7-6(3) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,180,212,98,457
 2001-699,Maia CH,Clay,32,C,20010924,13,102167,7,,Juan Albert Viloca Puig,R,185,ESP,28.6844626968,102284,,,Filippo Messori,R,173,ITA,27.8658453114,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,146,276,181,211
@@ -3359,7 +3359,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-769,Hull CH,Carpet,32,C,20010219,10,102992,,,Arnaud Fontaine,R,,BEL,23.7618069815,103325,,,Wesley Moodie,R,196,RSA,22.0150581793,6-7(5) 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,380,66,325,90
 2001-769,Hull CH,Carpet,32,C,20010219,11,103371,,,Emin Agaev,R,,AZE,21.7713894593,103378,,Q,Bernard Parun,R,,GER,21.7440109514,6-4 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,295,107,417,55
 2001-769,Hull CH,Carpet,32,C,20010219,12,102736,,Q,Maxime Boye,R,,FRA,24.9582477755,103157,3,,Arvind Parmar,R,193,GBR,22.9158110883,3-6 7-6(3) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,388,63,170,224
-2001-769,Hull CH,Carpet,32,C,20010219,13,103730,,LL,Jonathan Marray,R,,GBR,19.947980835,102394,7,,Johan Van Herck,R,185,BEL,26.7433264887,6-3 6-7(5) 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,759,12,240,147
+2001-769,Hull CH,Carpet,32,C,20010219,13,103730,,LL,Jonathan Marray,R,183,GBR,19.947980835,102394,7,,Johan Van Herck,R,185,BEL,26.7433264887,6-3 6-7(5) 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,759,12,240,147
 2001-769,Hull CH,Carpet,32,C,20010219,14,103799,,,Eric Prodon,R,178,FRA,19.6495550992,103263,,LL,Justin Layne,R,,GBR,22.4202600958,6-4 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,284,112,593,26
 2001-769,Hull CH,Carpet,32,C,20010219,15,102808,,,Kalle Flygt,R,,SWE,24.681724846,103945,,WC,Simon Dickson,R,,GBR,18.984257358,7-6(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,337,85,488,41
 2001-769,Hull CH,Carpet,32,C,20010219,16,103709,2,,Kristian Pless,R,188,DEN,20.0273785079,102595,,,Helge Koll,R,,NOR,25.7248459959,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,138,281,358,74
@@ -3369,7 +3369,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-769,Hull CH,Carpet,32,C,20010219,20,102306,8,,Michael Kohlmann,R,188,GER,27.1074606434,103126,,Q,Christian Grunes,L,,GER,23.0691307324,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,238,147,721,16
 2001-769,Hull CH,Carpet,32,C,20010219,21,103110,,,Daniele Bracciali,R,180,ITA,23.1101984942,102992,,,Arnaud Fontaine,R,,BEL,23.7618069815,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,372,68,380,66
 2001-769,Hull CH,Carpet,32,C,20010219,22,102736,,Q,Maxime Boye,R,,FRA,24.9582477755,103371,,,Emin Agaev,R,,AZE,21.7713894593,3-6 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,388,63,295,107
-2001-769,Hull CH,Carpet,32,C,20010219,23,103799,,,Eric Prodon,R,178,FRA,19.6495550992,103730,,LL,Jonathan Marray,R,,GBR,19.947980835,7-6(4) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,284,112,759,12
+2001-769,Hull CH,Carpet,32,C,20010219,23,103799,,,Eric Prodon,R,178,FRA,19.6495550992,103730,,LL,Jonathan Marray,R,183,GBR,19.947980835,7-6(4) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,284,112,759,12
 2001-769,Hull CH,Carpet,32,C,20010219,24,103709,2,,Kristian Pless,R,188,DEN,20.0273785079,102808,,,Kalle Flygt,R,,SWE,24.681724846,6-4 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,138,281,337,85
 2001-769,Hull CH,Carpet,32,C,20010219,25,101924,,,Stefano Pescosolido,R,185,ITA,29.6892539357,102861,,LL,Timothy Aerts,R,,BEL,24.4325804244,7-6(5) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,598,25,479,43
 2001-769,Hull CH,Carpet,32,C,20010219,26,102306,8,,Michael Kohlmann,R,188,GER,27.1074606434,103754,,,Mark Hilton,L,170,GBR,19.8357289528,W/O,3,QF,,,,,,,,,,,,,,,,,,,,238,147,432,52
@@ -3419,7 +3419,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-782,Wrexham CH,Hard,32,C,20010730,8,102466,8,,Jan Kroslak,R,188,SVK,26.7843942505,103285,,,Radek Stepanek,R,185,CZE,22.6721423682,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,254,135,302,100
 2001-782,Wrexham CH,Hard,32,C,20010730,9,103133,6,,Olivier Mutis,R,175,FRA,23.4880219028,103256,,,Ivan Vajda,R,,CRO,22.9021218344,1-6 7-6(3) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,247,138,237,147
 2001-782,Wrexham CH,Hard,32,C,20010730,10,103209,,,Leonardo Azzaro,L,188,ITA,23.1676933607,102897,,Q,Nir Welgreen,R,,ISR,24.6160164271,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,262,126,399,63
-2001-782,Wrexham CH,Hard,32,C,20010730,11,103580,,Q,Alexander Peya,R,183,AUT,21.0896646133,103730,,WC,Jonathan Marray,R,,GBR,20.3887748118,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,252,137,561,31
+2001-782,Wrexham CH,Hard,32,C,20010730,11,103580,,Q,Alexander Peya,R,183,AUT,21.0896646133,103730,,WC,Jonathan Marray,R,183,GBR,20.3887748118,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,252,137,561,31
 2001-782,Wrexham CH,Hard,32,C,20010730,12,102306,3,,Michael Kohlmann,R,188,GER,27.5482546201,104014,,WC,Lee Childs,R,,GBR,19.1348391513,7-6(4) 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,176,208,310,97
 2001-782,Wrexham CH,Hard,32,C,20010730,13,102880,5,,Alexander Popp,R,201,GER,24.733744011,101772,,,Andrei Cherkasov,R,180,RUS,31.0718685832,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,198,181,266,123
 2001-782,Wrexham CH,Hard,32,C,20010730,14,102571,,Q,Gregory Carraz,R,190,FRA,26.3080082136,103942,,WC,James Nelson,R,,GBR,19.4442162902,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,322,93,651,22

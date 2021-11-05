@@ -403,7 +403,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-1608,Fresno CH,Hard,32,C,20020930,30,102401,3,,Scott Draper,L,178,AUS,28.3203285421,104166,,,Alex Bogomolov Jr,R,178,RUS,19.4387405886,6-4 3-1 RET,3,SF,,,,,,,,,,,,,,,,,,,,144,269,223,157
 2002-1608,Fresno CH,Hard,32,C,20020930,31,102401,3,,Scott Draper,L,178,AUS,28.3203285421,102925,1,,Justin Gimelstob,R,196,USA,25.6755646817,6-1 6-7(5) 6-1,3,F,,,,,,,,,,,,,,,,,,,,144,269,130,318
 2002-1631,Nottingham CH,Clay,32,C,20021028,1,102694,1,,Lars Burgsmuller,R,183,GER,26.893908282,102965,,WC,Jamie Delgado,R,178,GBR,25.6043805613,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,82,490,303,91
-2002-1631,Nottingham CH,Clay,32,C,20021028,2,103730,,WC,Jonathan Marray,R,,GBR,21.6344969199,104372,,WC,Alex Bogdanovic,L,183,GBR,18.4339493498,6-4 4-6 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,880,9,429,53
+2002-1631,Nottingham CH,Clay,32,C,20021028,2,103730,,WC,Jonathan Marray,R,183,GBR,21.6344969199,104372,,WC,Alex Bogdanovic,L,183,GBR,18.4339493498,6-4 4-6 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,880,9,429,53
 2002-1631,Nottingham CH,Clay,32,C,20021028,3,103157,,,Arvind Parmar,R,193,GBR,24.6023271732,102524,,,Neville Godwin,R,173,RSA,27.7399041752,6-3 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,194,181,210,160
 2002-1631,Nottingham CH,Clay,32,C,20021028,4,102921,7,,Ota Fukarek,R,190,CZE,25.7741273101,101806,,,Marc Kevin Goellner,R,196,GER,32.0985626283,6-3 4-6 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,150,252,419,58
 2002-1631,Nottingham CH,Clay,32,C,20021028,5,103789,3,,Irakli Labadze,L,188,GEO,21.3853524983,103754,,WC,Mark Hilton,L,170,GBR,21.5222450376,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,94,423,420,58
@@ -418,7 +418,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-1631,Nottingham CH,Clay,32,C,20021028,14,103153,,,Gilles Elseneer,R,188,BEL,24.6461327858,102720,,,Tomas Zib,R,178,CZE,26.7405886379,2-6 6-3 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,197,177,155,243
 2002-1631,Nottingham CH,Clay,32,C,20021028,15,103239,,Q,Marcus Sarstrand,R,183,SWE,24.2628336756,104014,,Q,Lee Childs,R,,GBR,20.3805612594,6-1 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,334,78,497,40
 2002-1631,Nottingham CH,Clay,32,C,20021028,16,103280,2,,Martin Verkerk,R,196,NED,23.9917864476,103420,,,Michal Tabara,R,175,CZE,23.2142368241,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,93,424,230,136
-2002-1631,Nottingham CH,Clay,32,C,20021028,17,102694,1,,Lars Burgsmuller,R,183,GER,26.893908282,103730,,WC,Jonathan Marray,R,,GBR,21.6344969199,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,82,490,880,9
+2002-1631,Nottingham CH,Clay,32,C,20021028,17,102694,1,,Lars Burgsmuller,R,183,GER,26.893908282,103730,,WC,Jonathan Marray,R,183,GBR,21.6344969199,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,82,490,880,9
 2002-1631,Nottingham CH,Clay,32,C,20021028,18,103157,,,Arvind Parmar,R,193,GBR,24.6023271732,102921,7,,Ota Fukarek,R,190,CZE,25.7741273101,6-4 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,194,181,150,252
 2002-1631,Nottingham CH,Clay,32,C,20021028,19,103789,3,,Irakli Labadze,L,188,GEO,21.3853524983,103393,,,Yuri Schukin,R,188,KAZ,23.3401779603,2-6 7-5 7-5,3,R16,,,,,,,,,,,,,,,,,,,,94,423,199,175
 2002-1631,Nottingham CH,Clay,32,C,20021028,20,102983,,Q,Henrik Andersson,R,,SWE,25.4893908282,103294,6,,Christophe Rochus,R,170,BEL,23.8685831622,7-6(4) 5-7 6-3,3,R16,,,,,,,,,,,,,,,,,,,,463,45,119,343
@@ -1126,7 +1126,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-444,Bratislava CH,Carpet,32,C,20021104,9,103971,,,Karol Beck,R,180,SVK,20.5886379192,103166,5,,Vladimir Voltchkov,R,180,BLR,24.5776865161,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,143,267,73,550
 2002-444,Bratislava CH,Carpet,32,C,20021104,10,102652,,Q,Christian Vinck,L,183,GER,27.1704312115,103153,,,Gilles Elseneer,R,188,BEL,24.6652977413,6-4 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,317,85,174,205
 2002-444,Bratislava CH,Carpet,32,C,20021104,11,102143,,,Nicolas Thomann,R,183,FRA,29.9301848049,104225,,Q,Jan Hajek,R,180,CZE,19.2443531828,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,138,281,222,143
-2002-444,Bratislava CH,Carpet,32,C,20021104,12,102202,3,,Kenneth Carlsen,L,190,DEN,29.5496235455,104743,,WC,Kamil Capkovic,R,,SVK,16.424366872,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,65,625,,
+2002-444,Bratislava CH,Carpet,32,C,20021104,12,102202,3,,Kenneth Carlsen,L,190,DEN,29.5496235455,104743,,WC,Kamil Capkovic,R,198,SVK,16.424366872,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,65,625,,
 2002-444,Bratislava CH,Carpet,32,C,20021104,13,102466,,Q,Jan Kroslak,R,188,SVK,28.0492813142,101868,8,,Dick Norman,L,203,BEL,31.6796714579,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,383,65,96,411
 2002-444,Bratislava CH,Carpet,32,C,20021104,14,103714,,,Andreas Vinciguerra,L,180,SWE,21.7056810404,104607,,WC,Tomas Berdych,R,196,CZE,17.1307323751,4-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,217,147,542,33
 2002-444,Bratislava CH,Carpet,32,C,20021104,15,102567,,,George Bastl,R,183,SUI,27.5947980835,102770,,,John Van Lottum,R,185,NED,26.5681040383,6-3 4-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,164,226,115,350
@@ -1675,7 +1675,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-524,Weiden CH,Clay,32,C,20020610,31,103632,2,,Luis Horna,R,180,PER,21.735797399,103318,4,,Zeljko Krajan,R,178,CRO,23.3483915127,6-0 6-4,3,F,,,,,,,,,,,,,,,,,,,,86,418,130,310
 2002-526,Braunschweig CH,Clay,32,C,20020617,1,101962,1,,Younes El Aynaoui,R,193,MAR,30.7624914442,103451,,,Bjorn Phau,R,175,GER,22.7022587269,4-6 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,19,1615,125,324
 2002-526,Braunschweig CH,Clay,32,C,20020617,2,103280,,,Martin Verkerk,R,196,NED,23.627652293,103852,,,Feliciano Lopez,L,188,ESP,20.7392197125,5-7 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,101,377,102,369
-2002-526,Braunschweig CH,Clay,32,C,20020617,3,103841,,Q,Julio Peralta,R,,CHI,20.7693360712,102216,,Q,Mark Joachim,R,,GER,29.1033538672,2-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,394,70,1381,1
+2002-526,Braunschweig CH,Clay,32,C,20020617,3,103841,,Q,Julio Peralta,R,188,CHI,20.7693360712,102216,,Q,Mark Joachim,R,,GER,29.1033538672,2-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,394,70,1381,1
 2002-526,Braunschweig CH,Clay,32,C,20020617,4,103176,7,,David Sanchez,R,183,ESP,24.1587953457,103324,,,Arnaud Di Pasquale,R,185,FRA,23.3456536619,3-6 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,68,574,149,262
 2002-526,Braunschweig CH,Clay,32,C,20020617,5,102950,3,,Fernando Vicente,R,180,ESP,25.2758384668,103385,,Q,Paul Baccanello,R,183,AUS,23.0143737166,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,54,714,522,40
 2002-526,Braunschweig CH,Clay,32,C,20020617,6,103970,,,David Ferrer,R,175,ESP,20.2080766598,103305,,Q,Daniel Elsner,R,183,GER,23.4496919918,7-6(0) 2-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,133,305,351,82
@@ -1690,7 +1690,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-526,Braunschweig CH,Clay,32,C,20020617,15,104076,,,Jose Acasuso,R,190,ARG,19.6577686516,102869,,,Galo Blanco,R,173,ESP,25.6892539357,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,93,390,138,297
 2002-526,Braunschweig CH,Clay,32,C,20020617,16,102694,,,Lars Burgsmuller,R,183,GER,26.5297741273,102783,2,,Rainer Schuettler,R,180,GER,26.1437371663,6-7(3) 7-6(6) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,115,349,23,1235
 2002-526,Braunschweig CH,Clay,32,C,20020617,17,101962,1,,Younes El Aynaoui,R,193,MAR,30.7624914442,103280,,,Martin Verkerk,R,196,NED,23.627652293,6-3 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,19,1615,101,377
-2002-526,Braunschweig CH,Clay,32,C,20020617,18,103176,7,,David Sanchez,R,183,ESP,24.1587953457,103841,,Q,Julio Peralta,R,,CHI,20.7693360712,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,68,574,394,70
+2002-526,Braunschweig CH,Clay,32,C,20020617,18,103176,7,,David Sanchez,R,183,ESP,24.1587953457,103841,,Q,Julio Peralta,R,188,CHI,20.7693360712,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,68,574,394,70
 2002-526,Braunschweig CH,Clay,32,C,20020617,19,102950,3,,Fernando Vicente,R,180,ESP,25.2758384668,103970,,,David Ferrer,R,175,ESP,20.2080766598,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,54,714,133,305
 2002-526,Braunschweig CH,Clay,32,C,20020617,20,103103,5,,Dominik Hrbaty,R,183,SVK,24.4490075291,102533,,WC,Jens Knippschild,R,190,GER,27.3347022587,4-6 6-3 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,53,717,273,120
 2002-526,Braunschweig CH,Clay,32,C,20020617,21,103632,,,Luis Horna,R,180,PER,21.7549623546,104043,,,Marc Lopez,R,175,ESP,19.8795345654,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,79,472,131,308
@@ -1964,7 +1964,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-58,Magdeburg CH,Carpet,32,C,20020304,10,101868,,,Dick Norman,L,203,BEL,31.0088980151,104282,,WC,Dennis Peschek,R,,GER,18.1574264203,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,142,280,1018,6
 2002-58,Magdeburg CH,Carpet,32,C,20020304,11,102617,,Q,Kim Tiilikainen,R,180,FIN,26.6557152635,103393,,,Yuri Schukin,R,188,KAZ,22.688569473,3-6 7-6(5) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,280,114,149,263
 2002-58,Magdeburg CH,Carpet,32,C,20020304,12,102382,3,,Julian Knowle,L,188,AUT,27.8466803559,102669,,,Noam Behr,L,188,ISR,26.3901437372,3-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,106,379,170,220
-2002-58,Magdeburg CH,Carpet,32,C,20020304,13,102087,7,,Oleg Ogorodov,R,193,UZB,29.6317590691,104465,,WC,Martin Emmrich,L,,GER,17.2101300479,2-6 6-4 4-3 RET,3,R32,,,,,,,,,,,,,,,,,,,,146,269,1376,1
+2002-58,Magdeburg CH,Carpet,32,C,20020304,13,102087,7,,Oleg Ogorodov,R,193,UZB,29.6317590691,104465,,WC,Martin Emmrich,L,183,GER,17.2101300479,2-6 6-4 4-3 RET,3,R32,,,,,,,,,,,,,,,,,,,,146,269,1376,1
 2002-58,Magdeburg CH,Carpet,32,C,20020304,14,102851,,,Giorgio Galimberti,R,180,ITA,25.492128679,104321,,WC,Branislav Repa,U,,SVK,17.9958932238,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,169,222,,
 2002-58,Magdeburg CH,Carpet,32,C,20020304,15,103646,,Q,Lars Uebel,R,,GER,21.3853524983,108675,,WC,Iphton Louis,U,,HAI,26.8501026694,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,481,47,,
 2002-58,Magdeburg CH,Carpet,32,C,20020304,16,103420,2,,Michal Tabara,R,175,CZE,22.5626283368,103843,,Q,Marco Chiudinelli,R,185,SUI,20.4791238877,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,109,361,306,102
@@ -2018,7 +2018,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-583,Manchester CH,Grass,32,C,20020715,2,103270,,,Kristian Capalik,R,188,USA,23.780971937,102538,,,Tuomas Ketola,R,185,FIN,27.394934976,2-6 7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,400,68,231,153
 2002-583,Manchester CH,Grass,32,C,20020715,3,102945,,Q,Luke Bourgeois,R,188,AUS,25.3661875428,103503,,,Robin Vik,R,183,CZE,22.4394250513,3-6 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,421,62,383,73
 2002-583,Manchester CH,Grass,32,C,20020715,4,103166,6,,Vladimir Voltchkov,R,180,BLR,24.2710472279,103917,,,Nicolas Mahut,R,190,FRA,20.4791238877,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,188,190,207,170
-2002-583,Manchester CH,Grass,32,C,20020715,5,102965,4,,Jamie Delgado,R,178,GBR,25.3169062286,103730,,WC,Jonathan Marray,R,,GBR,21.3470225873,7-5 4-6 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,214,164,720,16
+2002-583,Manchester CH,Grass,32,C,20020715,5,102965,4,,Jamie Delgado,R,178,GBR,25.3169062286,103730,,WC,Jonathan Marray,R,183,GBR,21.3470225873,7-5 4-6 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,214,164,720,16
 2002-583,Manchester CH,Grass,32,C,20020715,6,101924,,,Stefano Pescosolido,R,185,ITA,31.0882956879,102736,,Q,Maxime Boye,R,,FRA,26.3572895277,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,276,121,591,30
 2002-583,Manchester CH,Grass,32,C,20020715,7,104014,,WC,Lee Childs,R,,GBR,20.0930869268,103520,,,Pavel Snobel,L,190,CZE,22.3764544832,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,607,28,300,102
 2002-583,Manchester CH,Grass,32,C,20020715,8,102143,8,,Nicolas Thomann,R,183,FRA,29.6235455168,103254,,,Yves Allegro,R,183,SUI,23.8904859685,6-2 5-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,166,222,283,114
@@ -2732,7 +2732,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-687,Togliatti CH,Hard,32,C,20020715,3,103941,,,Sergei Pozdnev,R,,RUS,20.4106776181,109087,,WC,Dmitri Lomakin,U,,RUS,18.2724161533,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,597,29,,
 2002-687,Togliatti CH,Hard,32,C,20020715,4,103824,6,,Orest Tereshchuk,R,,UKR,20.9062286105,103842,,Q,Rouslan Nourmatov,R,,RUS,20.8459958932,7-6(6) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,286,113,1231,3
 2002-687,Togliatti CH,Hard,32,C,20020715,5,103104,4,,Bjorn Rehnquist,R,175,SWE,24.5229295003,104643,,Q,Alexander Pavlioutchenkov,R,,RUS,16.6132785763,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,223,159,1400,1
-2002-687,Togliatti CH,Hard,32,C,20020715,6,102902,,,Thomas Blake,R,,USA,25.5414099932,104677,,WC,Artem Sitak,R,,NZL,16.4298425736,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,327,90,,
+2002-687,Togliatti CH,Hard,32,C,20020715,6,102902,,,Thomas Blake,R,,USA,25.5414099932,104677,,WC,Artem Sitak,R,185,NZL,16.4298425736,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,327,90,,
 2002-687,Togliatti CH,Hard,32,C,20020715,7,104034,,,Dmitry Vlasov,R,188,RUS,20.0109514031,102347,,,Dmitri Tomashevich,R,,UZB,28.3586584531,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,365,76,347,83
 2002-687,Togliatti CH,Hard,32,C,20020715,8,103857,5,,Igor Kunitsyn,R,180,RUS,20.7885010267,103222,,,Sergei Krotiouk,R,,RUS,24.0657084189,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,226,158,745,15
 2002-687,Togliatti CH,Hard,32,C,20020715,9,103862,8,,Michail Elgin,R,183,RUS,20.7501711157,104341,,LL,Sergei Demekhine,R,,RUS,18.2915811088,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,317,94,,
@@ -2924,7 +2924,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-699,Maia CH,Clay,32,C,20020923,9,103373,8,,Sergio Roitman,R,185,ARG,23.356605065,103700,,,Juan Pablo Guzman,L,178,ARG,21.6481861739,7-6(4) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,195,182,217,163
 2002-699,Maia CH,Clay,32,C,20020923,10,102464,,,Todd Larkham,R,178,AUS,27.9452429843,102585,,,Sebastian Prieto,R,180,ARG,27.3483915127,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,248,129,208,171
 2002-699,Maia CH,Clay,32,C,20020923,11,103088,,Q,Xavier Pujo,R,180,FRA,24.7994524298,102243,,,Marcelo Charpentier,L,180,ARG,29.2019164956,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,794,13,199,177
-2002-699,Maia CH,Clay,32,C,20020923,12,102231,3,,Alex Calatrava,R,190,ESP,29.2758384668,104311,,WC,Leonardo Tavares,R,,POR,18.5900068446,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,135,296,932,7
+2002-699,Maia CH,Clay,32,C,20020923,12,102231,3,,Alex Calatrava,R,190,ESP,29.2758384668,104311,,WC,Leonardo Tavares,R,185,POR,18.5900068446,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,135,296,932,7
 2002-699,Maia CH,Clay,32,C,20020923,13,103912,6,,Mario Radic,R,188,CRO,20.6899383984,102554,,,Diego Moyano,R,175,ARG,27.5290896646,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,160,229,201,175
 2002-699,Maia CH,Clay,32,C,20020923,14,103812,,,Victor Hanescu,R,198,ROU,21.1745379877,104225,,,Jan Hajek,R,180,CZE,19.1293634497,6-7(8) 6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,212,169,234,143
 2002-699,Maia CH,Clay,32,C,20020923,15,103202,,,Oscar Serrano,R,173,ESP,24.3312799452,104420,,WC,Francisco Neves,U,,POR,18.0588637919,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,245,130,1145,4
@@ -3962,7 +3962,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-540,Wimbledon,Grass,128,G,20020624,284,104068,5,,Robby Ginepri,R,183,USA,19.7125256674,102585,,,Sebastian Prieto,R,180,ARG,27.099247091,6-1 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,128,323,266,125
 2002-540,Wimbledon,Grass,128,G,20020624,283,102143,,,Nicolas Thomann,R,183,FRA,29.5660506502,103429,,,Peter Luczak,R,183,AUS,22.8145106092,6-2 7-6(4),3,Q1,,,,,,,,,,,,,,,,,,,,237,146,202,181
 2002-540,Wimbledon,Grass,128,G,20020624,282,103497,,,Artem Derepasko,R,,RUS,22.4093086927,103052,,,Mariano Delfino,R,183,ARG,24.758384668,6-3 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,191,193,248,138
-2002-540,Wimbledon,Grass,128,G,20020624,281,102925,17,,Justin Gimelstob,R,196,USA,25.4072553046,103730,,WC,Jonathan Marray,R,,GBR,21.2895277207,2-6 7-5 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,155,242,721,16
+2002-540,Wimbledon,Grass,128,G,20020624,281,102925,17,,Justin Gimelstob,R,196,USA,25.4072553046,103730,,WC,Jonathan Marray,R,183,GBR,21.2895277207,2-6 7-5 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,155,242,721,16
 2002-540,Wimbledon,Grass,128,G,20020624,280,103971,,,Karol Beck,R,180,SVK,20.2245037645,102921,6,,Ota Fukarek,R,190,CZE,25.4291581109,6-7(5) 6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,210,163,129,315
 2002-540,Wimbledon,Grass,128,G,20020624,279,102603,,,Melvyn Op Der Heijde,R,180,NED,27.0362765229,103263,,WC,Justin Layne,R,,GBR,23.7618069815,6-4 7-6(3),3,Q1,,,,,,,,,,,,,,,,,,,,283,113,921,7
 2002-540,Wimbledon,Grass,128,G,20020624,278,103184,,,Bob Bryan,L,193,USA,24.1533196441,103808,,,Potito Starace,R,188,ITA,20.9445585216,6-4 7-6(1),3,Q1,,,,,,,,,,,,,,,,,,,,189,194,320,95
