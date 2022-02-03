@@ -850,7 +850,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-TUR-05A-2016,Turkey F5,Hard,32,S,20160201,5,105325,3,,Germain Gigounon,R,,BEL,26.7843942505,105552,,,Yusuke Watanuki,R,,JPN,25.7029431896,6-1 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,271,196,553,60
 2016-M-FU-TUR-05A-2016,Turkey F5,Hard,32,S,20160201,6,111585,,Q,Shotaro Goto,U,,JPN,21.4948665298,126151,,,Pavel Nejedly,U,,CZE,22.9650924025,1-6 7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1416,4,800,26
 2016-M-FU-TUR-05A-2016,Turkey F5,Hard,32,S,20160201,7,106299,,,Bar Tzuf Botzer,R,,ISR,21.9192334018,200343,,Q,David Szintai,R,,HUN,18.6475017112,3-6 6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,576,57,1692,2
-2016-M-FU-TUR-05A-2016,Turkey F5,Hard,32,S,20160201,8,105464,7,,Christopher Rungkat,R,1.7,INA,26.0479123888,105043,,Q,Marek Semjan,U,,SVK,28.2354551677,3-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,460,87,1070,10
+2016-M-FU-TUR-05A-2016,Turkey F5,Hard,32,S,20160201,8,105464,7,,Christopher Rungkat,R,170,INA,26.0479123888,105043,,Q,Marek Semjan,U,,SVK,28.2354551677,3-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,460,87,1070,10
 2016-M-FU-TUR-05A-2016,Turkey F5,Hard,32,S,20160201,9,105981,,WC,Levente Godry,R,,HUN,23.7919233402,126340,8,,Viktor Durasovic,R,185,NOR,18.8720054757,6-3 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,,,457,88
 2016-M-FU-TUR-05A-2016,Turkey F5,Hard,32,S,20160201,10,126128,,Q,Roman Safiullin,R,,RUS,18.4859685147,132325,,Q,Andrew Ruppli,L,,SUI,20.9418206708,5-7 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,877,19,1313,5
 2016-M-FU-TUR-05A-2016,Turkey F5,Hard,32,S,20160201,11,110773,,,Issei Okamura,U,,JPN,23.6851471595,126425,,WC,Mert Zincirli,R,,TUR,18.9048596851,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,849,21,,
@@ -862,7 +862,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-TUR-05A-2016,Turkey F5,Hard,32,S,20160201,17,108748,,,Lukas Mugevicius,R,,LTU,21.1526351814,123835,,WC,Leon Schutt,U,,GER,22.2231348392,6-3 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,747,31,906,18
 2016-M-FU-TUR-05A-2016,Turkey F5,Hard,32,S,20160201,18,111805,,,Seong Chan Hong,R,,KOR,18.5900068446,105726,5,,Yannik Reuter,R,,BEL,24.9089664613,6-3 3-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,759,29,304,162
 2016-M-FU-TUR-05A-2016,Turkey F5,Hard,32,S,20160201,19,105325,3,,Germain Gigounon,R,,BEL,26.7843942505,111585,,Q,Shotaro Goto,U,,JPN,21.4948665298,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,271,196,1416,4
-2016-M-FU-TUR-05A-2016,Turkey F5,Hard,32,S,20160201,20,106299,,,Bar Tzuf Botzer,R,,ISR,21.9192334018,105464,7,,Christopher Rungkat,R,1.7,INA,26.0479123888,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,576,57,460,87
+2016-M-FU-TUR-05A-2016,Turkey F5,Hard,32,S,20160201,20,106299,,,Bar Tzuf Botzer,R,,ISR,21.9192334018,105464,7,,Christopher Rungkat,R,170,INA,26.0479123888,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,576,57,460,87
 2016-M-FU-TUR-05A-2016,Turkey F5,Hard,32,S,20160201,21,126128,,Q,Roman Safiullin,R,,RUS,18.4859685147,105981,,WC,Levente Godry,R,,HUN,23.7919233402,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,877,19,,
 2016-M-FU-TUR-05A-2016,Turkey F5,Hard,32,S,20160201,22,126634,,,Lenny Hampel,U,,AUT,19.1047227926,110773,,,Issei Okamura,U,,JPN,23.6851471595,1-6 6-0 7-6(7),3,R16,,,,,,,,,,,,,,,,,,,,695,38,849,21
 2016-M-FU-TUR-05A-2016,Turkey F5,Hard,32,S,20160201,23,105172,,,Miliaan Niesten,U,,NED,27.5975359343,106205,,Q,Ryota Kishi,U,,JPN,22.5900068446,7-5 6-0,3,R16,,,,,,,,,,,,,,,,,,,,539,62,1384,4
@@ -1008,7 +1008,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-ISR-01A-2016,Israel F1,Hard,32,S,20160208,8,106040,5,,Peter Heller,R,,GER,23.4907597536,105603,,,Francois Arthur Vibert,U,,FRA,25.5167693361,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,432,95,757,30
 2016-M-FU-ISR-01A-2016,Israel F1,Hard,32,S,20160208,9,105938,6,,Antoine Escoffier,U,,FRA,23.9425051335,106406,,Q,Alon Elia,U,,ISR,20.6598220397,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,471,84,931,16
 2016-M-FU-ISR-01A-2016,Israel F1,Hard,32,S,20160208,10,124116,,,Sebastian Ofner,R,,AUT,19.742642026,126107,,,Michael Geerts,R,,BEL,21.0595482546,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,727,33,506,71
-2016-M-FU-ISR-01A-2016,Israel F1,Hard,32,S,20160208,11,122548,,,Edan Leshem,U,1.83,ISR,18.8911704312,110740,,Q,John Lamble,U,,USA,23.8576317591,7-5 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,572,57,1105,9
+2016-M-FU-ISR-01A-2016,Israel F1,Hard,32,S,20160208,11,122548,,,Edan Leshem,U,183,ISR,18.8911704312,110740,,Q,John Lamble,U,,USA,23.8576317591,7-5 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,572,57,1105,9
 2016-M-FU-ISR-01A-2016,Israel F1,Hard,32,S,20160208,12,105014,4,,Antal Van Der Duim,R,,NED,28.3969883641,131951,,WC,Daniel Cukierman,U,,ISR,20.5859000684,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,390,112,1069,10
 2016-M-FU-ISR-01A-2016,Israel F1,Hard,32,S,20160208,13,105096,7,,Julien Dubail,R,,BEL,27.9835728953,131912,,,Ronan Joncour,L,,FRA,19.0308008214,7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,443,93,741,32
 2016-M-FU-ISR-01A-2016,Israel F1,Hard,32,S,20160208,14,106424,,WC,Tal Goldengoren,U,,ISR,19.8138261465,111781,,Q,Janis Podzus,L,,LAT,21.6125941136,7-6(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,837,22,1079,10
@@ -1019,7 +1019,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-ISR-01A-2016,Israel F1,Hard,32,S,20160208,19,104970,3,,Matteo Viola,R,,ITA,28.59137577,200075,,Q,Yshai Oliel,L,,ISR,16.0930869268,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,283,176,2011,1
 2016-M-FU-ISR-01A-2016,Israel F1,Hard,32,S,20160208,20,106335,,,Alexios Halebian,L,,USA,21.6700889802,106040,5,,Peter Heller,R,,GER,23.4907597536,5-7 6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,615,50,432,95
 2016-M-FU-ISR-01A-2016,Israel F1,Hard,32,S,20160208,21,124116,,,Sebastian Ofner,R,,AUT,19.742642026,105938,6,,Antoine Escoffier,U,,FRA,23.9425051335,7-6(5) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,727,33,471,84
-2016-M-FU-ISR-01A-2016,Israel F1,Hard,32,S,20160208,22,105014,4,,Antal Van Der Duim,R,,NED,28.3969883641,122548,,,Edan Leshem,U,1.83,ISR,18.8911704312,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,390,112,572,57
+2016-M-FU-ISR-01A-2016,Israel F1,Hard,32,S,20160208,22,105014,4,,Antal Van Der Duim,R,,NED,28.3969883641,122548,,,Edan Leshem,U,183,ISR,18.8911704312,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,390,112,572,57
 2016-M-FU-ISR-01A-2016,Israel F1,Hard,32,S,20160208,23,105096,7,,Julien Dubail,R,,BEL,27.9835728953,106424,,WC,Tal Goldengoren,U,,ISR,19.8138261465,3-6 6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,443,93,837,22
 2016-M-FU-ISR-01A-2016,Israel F1,Hard,32,S,20160208,24,104852,2,,Yannick Jankovits,R,,FRA,29.0896646133,106342,,,Martins Podzus,R,,LAT,21.6125941136,5-7 6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,282,176,589,55
 2016-M-FU-ISR-01A-2016,Israel F1,Hard,32,S,20160208,25,104804,1,,Amir Weintraub,R,188,ISR,29.3963039014,110468,8,,Romain Barbosa,R,,POR,21.8124572211,6-4 6-0,3,QF,,,,,,,,,,,,,,,,,,,,203,256,476,83
@@ -1133,7 +1133,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-TUR-06A-2016,Turkey F6,Hard,32,S,20160208,9,105551,8,,Anil Yuksel,L,,TUR,25.7248459959,106238,,,Andres Artunedo Martinavarro,R,,ESP,22.4010951403,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,606,52,705,37
 2016-M-FU-TUR-06A-2016,Turkey F6,Hard,32,S,20160208,10,105790,,PR,Yong Kyu Lim,R,,KOR,24.643394935,127760,,WC,Lukas Klein,R,,SVK,17.8836413415,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,725,33,,
 2016-M-FU-TUR-06A-2016,Turkey F6,Hard,32,S,20160208,11,104187,,,Vadim Alekseenko,R,,UKR,32.7255304586,105778,,,Tobias Simon,R,,GER,24.7282683094,6-4 3-6 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,714,36,624,49
-2016-M-FU-TUR-06A-2016,Turkey F6,Hard,32,S,20160208,12,126128,,SE,Roman Safiullin,R,,RUS,18.5051334702,105464,4,,Christopher Rungkat,R,1.7,INA,26.0670773443,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,979,13,459,87
+2016-M-FU-TUR-06A-2016,Turkey F6,Hard,32,S,20160208,12,126128,,SE,Roman Safiullin,R,,RUS,18.5051334702,105464,4,,Christopher Rungkat,R,170,INA,26.0670773443,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,979,13,459,87
 2016-M-FU-TUR-06A-2016,Turkey F6,Hard,32,S,20160208,13,200403,,WC,Patrik Nema,R,,SVK,18.288843258,106214,5,,Oscar Otte,R,,GER,22.5653661875,6-3 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,467,85
 2016-M-FU-TUR-06A-2016,Turkey F6,Hard,32,S,20160208,14,110773,,,Issei Okamura,U,,JPN,23.704312115,200383,,Q,Maxime Pauwels,U,,BEL,17.5249828884,3-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,850,21,2011,1
 2016-M-FU-TUR-06A-2016,Turkey F6,Hard,32,S,20160208,15,111805,,,Seong Chan Hong,R,,KOR,18.6091718001,121748,,Q,Moos Sporken,U,,NED,21.9603011636,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,687,39,1417,4
@@ -1247,7 +1247,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-GBR-03A-2016,Great Britain F3,Hard,32,S,20160215,30,120424,,,Yannick Maden,R,185,GER,26.2997946612,105638,,,Daniel Cox,R,170,GBR,25.3826146475,6-4 6-7(1) 6-3,3,SF,,,,,,,,,,,,,,,,,,,,657,43,481,78
 2016-M-FU-GBR-03A-2016,Great Britain F3,Hard,32,S,20160215,31,120424,,,Yannick Maden,R,185,GER,26.2997946612,105100,,,Edward Corrie,U,,GBR,27.9835728953,3-6 7-5 7-6(1),3,F,,,,,,,,,,,,,,,,,,,,657,43,486,77
 2016-M-FU-ISR-02A-2016,Israel F2,Hard,32,S,20160215,1,104804,1,,Amir Weintraub,R,188,ISR,29.4154688569,105313,,,Jaime Pulgar Garcia,U,,ESP,26.8637919233,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,208,256,547,61
-2016-M-FU-ISR-02A-2016,Israel F2,Hard,32,S,20160215,2,106299,,,Bar Tzuf Botzer,R,,ISR,21.9575633128,122548,,,Edan Leshem,U,1.83,ISR,18.9103353867,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,544,62,575,57
+2016-M-FU-ISR-02A-2016,Israel F2,Hard,32,S,20160215,2,106299,,,Bar Tzuf Botzer,R,,ISR,21.9575633128,122548,,,Edan Leshem,U,183,ISR,18.9103353867,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,544,62,575,57
 2016-M-FU-ISR-02A-2016,Israel F2,Hard,32,S,20160215,3,105612,,Q,Jonas Luetjen,U,,GER,25.5085557837,110549,,Q,Ryan Lipman,U,,USA,25.3497604381,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1131,8,1581,2
 2016-M-FU-ISR-02A-2016,Israel F2,Hard,32,S,20160215,4,106040,5,,Peter Heller,R,,GER,23.5099247091,122591,,WC,Ram Kapach,U,,ISR,19.0472279261,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,487,77,1169,8
 2016-M-FU-ISR-02A-2016,Israel F2,Hard,32,S,20160215,5,105014,4,,Antal Van Der Duim,R,,NED,28.4161533196,122369,,Q,Bernardo Saraiva,R,,POR,22.5270362765,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,412,104,2086,1
@@ -2278,7 +2278,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-ISR-04A-2016,Israel F4,Hard,32,S,20160307,7,126432,,Q,Yankel Zemel,L,,ISR,17.53045859,105969,,,James Marsalek,U,,GBR,23.9206023272,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1108,9,696,38
 2016-M-FU-ISR-04A-2016,Israel F4,Hard,32,S,20160307,8,110468,6,,Romain Barbosa,R,,POR,21.8891170431,106406,,,Alon Elia,U,,ISR,20.7364818617,6-7(6) 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,467,84,922,17
 2016-M-FU-ISR-04A-2016,Israel F4,Hard,32,S,20160307,9,105924,7,,Richard Gabb,R,,GBR,24.0657084189,131951,,,Daniel Cukierman,U,,ISR,20.6625598905,7-6(2) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,485,77,1066,10
-2016-M-FU-ISR-04A-2016,Israel F4,Hard,32,S,20160307,10,122548,,WC,Edan Leshem,U,1.83,ISR,18.9678302533,126358,,Q,Motvey Radionov,U,,ISR,18.7953456537,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,568,58,1536,3
+2016-M-FU-ISR-04A-2016,Israel F4,Hard,32,S,20160307,10,122548,,WC,Edan Leshem,U,183,ISR,18.9678302533,126358,,Q,Motvey Radionov,U,,ISR,18.7953456537,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,568,58,1536,3
 2016-M-FU-ISR-04A-2016,Israel F4,Hard,32,S,20160307,11,144679,,Q,Daniil Zarichanskyy,L,,UKR,18.1793292266,137399,,Q,Jeremy Langer,U,,CAN,25.8234086242,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1514,3,1772,1
 2016-M-FU-ISR-04A-2016,Israel F4,Hard,32,S,20160307,12,122248,4,,Peter Kobelt,U,,USA,25.3032169747,145006,,Q,Nikolay Kolobaev,U,,RUS,17.8507871321,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,368,121,,
 2016-M-FU-ISR-04A-2016,Israel F4,Hard,32,S,20160307,13,105414,,,Matthieu Roy,U,,FRA,26.4558521561,110636,5,,Clay Thompson,R,,USA,23.8412046543,6-4 3-6 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,952,15,428,97
@@ -2289,13 +2289,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-ISR-04A-2016,Israel F4,Hard,32,S,20160307,18,105612,,PR,Jonas Luetjen,U,,GER,25.5660506502,111436,,,Nick Chappell,L,,USA,23.4633812457,6-7(4) 6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1342,4,1038,11
 2016-M-FU-ISR-04A-2016,Israel F4,Hard,32,S,20160307,19,104970,3,,Matteo Viola,R,,ITA,28.6680355921,121360,,,Timon Reichelt,U,,GER,26.8008213552,5-7 6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,274,184,887,19
 2016-M-FU-ISR-04A-2016,Israel F4,Hard,32,S,20160307,20,110468,6,,Romain Barbosa,R,,POR,21.8891170431,126432,,Q,Yankel Zemel,L,,ISR,17.53045859,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,467,84,1108,9
-2016-M-FU-ISR-04A-2016,Israel F4,Hard,32,S,20160307,21,122548,,WC,Edan Leshem,U,1.83,ISR,18.9678302533,105924,7,,Richard Gabb,R,,GBR,24.0657084189,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,568,58,485,77
+2016-M-FU-ISR-04A-2016,Israel F4,Hard,32,S,20160307,21,122548,,WC,Edan Leshem,U,183,ISR,18.9678302533,105924,7,,Richard Gabb,R,,GBR,24.0657084189,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,568,58,485,77
 2016-M-FU-ISR-04A-2016,Israel F4,Hard,32,S,20160307,22,122248,4,,Peter Kobelt,U,,USA,25.3032169747,144679,,Q,Daniil Zarichanskyy,L,,UKR,18.1793292266,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,368,121,1514,3
 2016-M-FU-ISR-04A-2016,Israel F4,Hard,32,S,20160307,23,122591,,Q,Ram Kapach,U,,ISR,19.1047227926,105414,,,Matthieu Roy,U,,FRA,26.4558521561,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1165,8,952,15
 2016-M-FU-ISR-04A-2016,Israel F4,Hard,32,S,20160307,24,104852,2,,Yannick Jankovits,R,,FRA,29.1663244353,126097,,,Cameron Silverman,U,,USA,23.8220396988,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,268,193,972,14
 2016-M-FU-ISR-04A-2016,Israel F4,Hard,32,S,20160307,25,105612,,PR,Jonas Luetjen,U,,GER,25.5660506502,105406,1,,Roberto Marcora,R,,ITA,26.5188227242,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,1342,4,259,201
 2016-M-FU-ISR-04A-2016,Israel F4,Hard,32,S,20160307,26,110468,6,,Romain Barbosa,R,,POR,21.8891170431,104970,3,,Matteo Viola,R,,ITA,28.6680355921,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,467,84,274,184
-2016-M-FU-ISR-04A-2016,Israel F4,Hard,32,S,20160307,27,122248,4,,Peter Kobelt,U,,USA,25.3032169747,122548,,WC,Edan Leshem,U,1.83,ISR,18.9678302533,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,368,121,568,58
+2016-M-FU-ISR-04A-2016,Israel F4,Hard,32,S,20160307,27,122248,4,,Peter Kobelt,U,,USA,25.3032169747,122548,,WC,Edan Leshem,U,183,ISR,18.9678302533,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,368,121,568,58
 2016-M-FU-ISR-04A-2016,Israel F4,Hard,32,S,20160307,28,104852,2,,Yannick Jankovits,R,,FRA,29.1663244353,122591,,Q,Ram Kapach,U,,ISR,19.1047227926,6-3 6-0,3,QF,,,,,,,,,,,,,,,,,,,,268,193,1165,8
 2016-M-FU-ISR-04A-2016,Israel F4,Hard,32,S,20160307,29,105612,,PR,Jonas Luetjen,U,,GER,25.5660506502,110468,6,,Romain Barbosa,R,,POR,21.8891170431,6-0 7-6(3),3,SF,,,,,,,,,,,,,,,,,,,,1342,4,467,84
 2016-M-FU-ISR-04A-2016,Israel F4,Hard,32,S,20160307,30,104852,2,,Yannick Jankovits,R,,FRA,29.1663244353,122248,4,,Peter Kobelt,U,,USA,25.3032169747,7-6(4) 7-6(3),3,SF,,,,,,,,,,,,,,,,,,,,268,193,368,121
@@ -2675,7 +2675,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-ISR-05A-2016,Israel F5,Hard,32,S,20160314,1,131951,,WC,Daniel Cukierman,U,,ISR,20.6625598905,126125,1,,Maxime Janvier,R,,FRA,19.3839835729,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1066,10,307,158
 2016-M-FU-ISR-05A-2016,Israel F5,Hard,32,S,20160314,2,121896,,,Gabor Borsos,U,,HUN,24.6872005476,126358,,Q,Motvey Radionov,U,,ISR,18.7953456537,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,806,25,1536,3
 2016-M-FU-ISR-05A-2016,Israel F5,Hard,32,S,20160314,3,111436,,Q,Nick Chappell,L,,USA,23.4633812457,105313,,,Jaime Pulgar Garcia,U,,ESP,26.9212867899,5-7 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1038,11,543,62
-2016-M-FU-ISR-05A-2016,Israel F5,Hard,32,S,20160314,4,122638,6,,Christopher Heyman,U,,BEL,22.4120465435,122548,,,Edan Leshem,U,1.83,ISR,18.9678302533,7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,438,94,568,58
+2016-M-FU-ISR-05A-2016,Israel F5,Hard,32,S,20160314,4,122638,6,,Christopher Heyman,U,,BEL,22.4120465435,122548,,,Edan Leshem,U,183,ISR,18.9678302533,7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,438,94,568,58
 2016-M-FU-ISR-05A-2016,Israel F5,Hard,32,S,20160314,5,105096,4,,Julien Dubail,R,,BEL,28.0602327173,106355,,,Jonathan Kanar,U,,FRA,21.4647501711,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,418,102,714,36
 2016-M-FU-ISR-05A-2016,Israel F5,Hard,32,S,20160314,6,144679,,LL,Daniil Zarichanskyy,L,,UKR,18.1793292266,122381,,Q,Daniel Tamir,U,,ISR,19.8959616701,7-6(3) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1514,3,1213,7
 2016-M-FU-ISR-05A-2016,Israel F5,Hard,32,S,20160314,7,126432,,WC,Yankel Zemel,L,,ISR,17.53045859,200494,,Q,Timothy Dollman,U,,RSA,17.4729637235,2-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1108,9,1772,1
@@ -3111,7 +3111,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-ISR-06A-2016,Israel F6,Hard,32,S,20160321,3,119951,,Q,Dmytro Kamynin,U,,UKR,26.3956194387,131964,,WC,Daniel Dudockin,U,,ISR,19.0773442847,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1032,11,1524,3
 2016-M-FU-ISR-06A-2016,Israel F6,Hard,32,S,20160321,4,104233,5,,Frederik Nielsen,R,190,DEN,32.5667351129,144656,,,Corentin Denolly,L,,FRA,18.7898699521,6-3 6-7(2) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,380,118,768,28
 2016-M-FU-ISR-06A-2016,Israel F6,Hard,32,S,20160321,5,122248,4,,Peter Kobelt,U,,USA,25.3415468857,106420,,Q,Gianluigi Quinzi,L,,ITA,20.1341546886,6-7(5) 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,365,126,445,93
-2016-M-FU-ISR-06A-2016,Israel F6,Hard,32,S,20160321,6,122548,,,Edan Leshem,U,1.83,ISR,19.0061601643,104434,,LL,Saar Steele,R,,ISR,31.4770704997,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,570,59,1624,2
+2016-M-FU-ISR-06A-2016,Israel F6,Hard,32,S,20160321,6,122548,,,Edan Leshem,U,183,ISR,19.0061601643,104434,,LL,Saar Steele,R,,ISR,31.4770704997,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,570,59,1624,2
 2016-M-FU-ISR-06A-2016,Israel F6,Hard,32,S,20160321,7,105178,,,Alexis Musialek,U,,FRA,27.7125256674,105924,,,Richard Gabb,R,,GBR,24.1040383299,4-6 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,499,73,485,77
 2016-M-FU-ISR-06A-2016,Israel F6,Hard,32,S,20160321,8,110636,8,,Clay Thompson,R,,USA,23.8795345654,125844,,Q,Yannai Barkai,U,,ISR,19.0116358658,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,436,97,1765,2
 2016-M-FU-ISR-06A-2016,Israel F6,Hard,32,S,20160321,9,111192,6,,Lucas Miedler,R,,AUT,19.7481177276,110468,,,Romain Barbosa,R,,POR,21.9274469541,6-7(4) 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,384,117,460,89
@@ -3124,7 +3124,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-ISR-06A-2016,Israel F6,Hard,32,S,20160321,16,106223,2,,Aleksandre Metreveli,R,,GEO,22.6119096509,134472,,,Antoine Bellier,U,,SUI,19.4223134839,6-2 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,282,174,670,42
 2016-M-FU-ISR-06A-2016,Israel F6,Hard,32,S,20160321,17,104804,1,WC,Amir Weintraub,R,188,ISR,29.5112936345,106424,,,Tal Goldengoren,U,,ISR,19.9288158795,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,197,267,815,25
 2016-M-FU-ISR-06A-2016,Israel F6,Hard,32,S,20160321,18,104233,5,,Frederik Nielsen,R,190,DEN,32.5667351129,119951,,Q,Dmytro Kamynin,U,,UKR,26.3956194387,6-3 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,380,118,1032,11
-2016-M-FU-ISR-06A-2016,Israel F6,Hard,32,S,20160321,19,122248,4,,Peter Kobelt,U,,USA,25.3415468857,122548,,,Edan Leshem,U,1.83,ISR,19.0061601643,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,365,126,570,59
+2016-M-FU-ISR-06A-2016,Israel F6,Hard,32,S,20160321,19,122248,4,,Peter Kobelt,U,,USA,25.3415468857,122548,,,Edan Leshem,U,183,ISR,19.0061601643,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,365,126,570,59
 2016-M-FU-ISR-06A-2016,Israel F6,Hard,32,S,20160321,20,105178,,,Alexis Musialek,U,,FRA,27.7125256674,110636,8,,Clay Thompson,R,,USA,23.8795345654,4-6 6-4 7-6(1),3,R16,,,,,,,,,,,,,,,,,,,,499,73,436,97
 2016-M-FU-ISR-06A-2016,Israel F6,Hard,32,S,20160321,21,111192,6,,Lucas Miedler,R,,AUT,19.7481177276,122638,,,Christopher Heyman,U,,BEL,22.4503764545,3-6 7-6(8) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,384,117,448,93
 2016-M-FU-ISR-06A-2016,Israel F6,Hard,32,S,20160321,22,126125,3,,Maxime Janvier,R,,FRA,19.4223134839,105969,,,James Marsalek,U,,GBR,23.9589322382,6-1 3-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,303,158,695,38
@@ -3512,7 +3512,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-CHN-04A-2016,China F4,Hard,32,S,20160404,1,117353,1,,Duck Hee Lee,R,175,KOR,17.8507871321,106427,,Q,Zhuoyang Qiu,U,,CHN,19.780971937,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,214,244,1733,2
 2016-M-FU-CHN-04A-2016,China F4,Hard,32,S,20160404,2,104615,,,Ranjeet Virali Murugesan,U,,IND,30.5106091718,106321,,,Xin Gao,U,,CHN,21.8973305955,0-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,753,30,684,40
 2016-M-FU-CHN-04A-2016,China F4,Hard,32,S,20160404,3,126556,,Q,Wei De Lin,U,,TPE,20.1615331964,144751,,WC,Rigele Te,U,,CHN,18.4859685147,6-1 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,1518,3,1283,5
-2016-M-FU-CHN-04A-2016,China F4,Hard,32,S,20160404,4,105934,,,Chuhan Wang,R,188,CHN,24.1095140315,105464,6,,Christopher Rungkat,R,1.7,INA,26.2203969884,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,680,40,462,86
+2016-M-FU-CHN-04A-2016,China F4,Hard,32,S,20160404,4,105934,,,Chuhan Wang,R,188,CHN,24.1095140315,105464,6,,Christopher Rungkat,R,170,INA,26.2203969884,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,680,40,462,86
 2016-M-FU-CHN-04A-2016,China F4,Hard,32,S,20160404,5,105810,4,,Shuichi Sekiguchi,R,,JPN,24.7227926078,111806,,,Fajing Sun,U,,CHN,19.5017111567,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,388,116,829,24
 2016-M-FU-CHN-04A-2016,China F4,Hard,32,S,20160404,6,144696,,WC,Zihao Xia,U,,CHN,19.1759069131,105737,,,Kaza Vinayak Sharma,R,,IND,25.0212183436,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,810,26
 2016-M-FU-CHN-04A-2016,China F4,Hard,32,S,20160404,7,133071,,WC,Xi Qi,U,,CHN,19.65229295,105931,,WC,Yu Cheng Li,R,,CHN,24.1177275838,7-6(8) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1250,6,,
@@ -3858,7 +3858,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-CHN-05A-2016,China F5,Hard,32,S,20160411,6,106427,,WC,Zhuoyang Qiu,U,,CHN,19.8001368925,110763,,,Aoxiong Wang,R,,CHN,20.9253935661,7-6(5) 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,1722,2,1110,9
 2016-M-FU-CHN-05A-2016,China F5,Hard,32,S,20160411,7,106150,,Q,Jeson Patrombon,R,,PHI,23.0417522245,106396,,,Cheng Yu Yu,R,,TPE,21.0266940452,6-1 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1241,6,774,28
 2016-M-FU-CHN-05A-2016,China F5,Hard,32,S,20160411,8,104822,7,,N Vijay Sundar Prashanth,R,,IND,29.4565366188,105737,,,Kaza Vinayak Sharma,R,,IND,25.0403832991,7-6(5) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,542,63,810,26
-2016-M-FU-CHN-05A-2016,China F5,Hard,32,S,20160411,9,105999,,,Bowen Ouyang,L,,CHN,23.8959616701,105464,5,,Christopher Rungkat,R,1.7,INA,26.2395619439,4-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,712,36,518,68
+2016-M-FU-CHN-05A-2016,China F5,Hard,32,S,20160411,9,105999,,,Bowen Ouyang,L,,CHN,23.8959616701,105464,5,,Christopher Rungkat,R,170,INA,26.2395619439,4-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,712,36,518,68
 2016-M-FU-CHN-05A-2016,China F5,Hard,32,S,20160411,10,127165,,Q,Sheng Hao Zhou,U,,CHN,19.5099247091,111800,,Q,Weiqiang Zheng,U,,CHN,19.8028747433,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1282,5,,
 2016-M-FU-CHN-05A-2016,China F5,Hard,32,S,20160411,11,110773,,,Issei Okamura,U,,JPN,23.8767967146,126165,,LL,Aoran Wang,R,,CHN,19.1786447639,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,741,32,1303,5
 2016-M-FU-CHN-05A-2016,China F5,Hard,32,S,20160411,12,105810,3,,Shuichi Sekiguchi,R,,JPN,24.7419575633,126556,,Q,Wei De Lin,U,,TPE,20.180698152,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,388,113,1515,3
@@ -4162,7 +4162,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-FRA-08A-2016,France F8,Clay,32,S,20160418,31,106296,1,,Gregoire Barrere,R,183,FRA,22.1683778234,105559,3,,Jonathan Eysseric,L,180,FRA,25.8945927447,7-6(2) 6-4,3,F,,,,,,,,,,,,,,,,,,,,264,195,273,189
 2016-M-FU-GRE-05A-2016,Greece F5,Hard,32,S,20160418,1,105985,1,,Darian King,R,188,BAR,23.9780971937,105113,,,Patrik Rosenholm,R,,SWE,28.1204654346,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,257,202,746,31
 2016-M-FU-GRE-05A-2016,Greece F5,Hard,32,S,20160418,2,111763,,Q,Jeremy Efferding,U,,USA,22.9568788501,105529,,,Carlos Gomez Herrera,R,,ESP,25.9685147159,7-6(5) 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,1571,2,513,69
-2016-M-FU-GRE-05A-2016,Greece F5,Hard,32,S,20160418,3,122548,,,Edan Leshem,U,1.83,ISR,19.0828199863,106295,,,Scott Clayton,U,,GBR,22.1820670773,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,566,59,756,30
+2016-M-FU-GRE-05A-2016,Greece F5,Hard,32,S,20160418,3,122548,,,Edan Leshem,U,183,ISR,19.0828199863,106295,,,Scott Clayton,U,,GBR,22.1820670773,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,566,59,756,30
 2016-M-FU-GRE-05A-2016,Greece F5,Hard,32,S,20160418,4,124186,,,Alexandre Muller,R,,FRA,19.2087611225,106175,7,,Ricardo Rodriguez,R,,VEN,22.9733059548,6-3 0-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,605,51,483,77
 2016-M-FU-GRE-05A-2016,Greece F5,Hard,32,S,20160418,5,122241,,,Winston Lin,U,,USA,22.9815195072,105100,3,,Edward Corrie,U,,GBR,28.1560574949,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,796,27,399,109
 2016-M-FU-GRE-05A-2016,Greece F5,Hard,32,S,20160418,6,108761,,,Mikelis Libietis,U,188,LAT,23.7754962355,111795,,,Filippo Baldi,R,,ITA,20.2710472279,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,575,57,822,25
@@ -4177,7 +4177,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-GRE-05A-2016,Greece F5,Hard,32,S,20160418,15,106191,,,Mick Lescure,R,,FRA,22.8774811773,106211,,,Bruno Santanna,R,,BRA,22.7679671458,6-2 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,720,35,757,30
 2016-M-FU-GRE-05A-2016,Greece F5,Hard,32,S,20160418,16,105450,,Q,Mike Urbanija,R,,SLO,26.3107460643,106156,2,Q,Sebastien Boltz,R,,FRA,23.0362765229,3-6 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,922,17,336,143
 2016-M-FU-GRE-05A-2016,Greece F5,Hard,32,S,20160418,17,105985,1,,Darian King,R,188,BAR,23.9780971937,111763,,Q,Jeremy Efferding,U,,USA,22.9568788501,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,257,202,1571,2
-2016-M-FU-GRE-05A-2016,Greece F5,Hard,32,S,20160418,18,124186,,,Alexandre Muller,R,,FRA,19.2087611225,122548,,,Edan Leshem,U,1.83,ISR,19.0828199863,6-7(3) 7-6(2) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,605,51,566,59
+2016-M-FU-GRE-05A-2016,Greece F5,Hard,32,S,20160418,18,124186,,,Alexandre Muller,R,,FRA,19.2087611225,122548,,,Edan Leshem,U,183,ISR,19.0828199863,6-7(3) 7-6(2) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,605,51,566,59
 2016-M-FU-GRE-05A-2016,Greece F5,Hard,32,S,20160418,19,108761,,,Mikelis Libietis,U,188,LAT,23.7754962355,122241,,,Winston Lin,U,,USA,22.9815195072,6-7(2) 6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,575,57,796,27
 2016-M-FU-GRE-05A-2016,Greece F5,Hard,32,S,20160418,20,110779,,,Jonny Omara,R,,GBR,21.1307323751,106307,,,Patrik Fabian,L,,SVK,22.0807665982,6-3 7-6(1),3,R16,,,,,,,,,,,,,,,,,,,,838,23,594,53
 2016-M-FU-GRE-05A-2016,Greece F5,Hard,32,S,20160418,21,131951,,Q,Daniel Cukierman,U,,ISR,20.7775496235,105499,8,,Christopher Diaz Figueroa,R,,GUA,26.0971937029,6-1 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,1017,12,497,75
@@ -4504,7 +4504,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-GRE-06A-2016,Greece F6,Hard,32,S,20160425,1,105096,1,,Julien Dubail,R,,BEL,28.1943874059,200668,,WC,Aleksander Pawlicki,U,,POL,16.6872005476,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,418,103,,
 2016-M-FU-GRE-06A-2016,Greece F6,Hard,32,S,20160425,2,106061,,LL,Pavel Krainik,R,,CAN,23.5728952772,106295,,,Scott Clayton,U,,GBR,22.2012320329,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1315,5,773,28
 2016-M-FU-GRE-06A-2016,Greece F6,Hard,32,S,20160425,3,123742,,,Martin Beran,R,,CAN,20.4106776181,126530,,Q,Peter Bothwell,R,,IRL,20.5749486653,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,972,14,1196,7
-2016-M-FU-GRE-06A-2016,Greece F6,Hard,32,S,20160425,4,122548,7,,Edan Leshem,U,1.83,ISR,19.1019849418,105414,,,Matthieu Roy,U,,FRA,26.5900068446,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,560,59,939,16
+2016-M-FU-GRE-06A-2016,Greece F6,Hard,32,S,20160425,4,122548,7,,Edan Leshem,U,183,ISR,19.1019849418,105414,,,Matthieu Roy,U,,FRA,26.5900068446,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,560,59,939,16
 2016-M-FU-GRE-06A-2016,Greece F6,Hard,32,S,20160425,5,125855,,,Michael Grant Gd13,U,,USA,24.1971252567,105499,4,,Christopher Diaz Figueroa,R,,GUA,26.1163586585,2-6 6-2 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,959,15,497,75
 2016-M-FU-GRE-06A-2016,Greece F6,Hard,32,S,20160425,6,111763,,WC,Jeremy Efferding,U,,USA,22.9760438056,126592,,Q,Kamil Gajewski,R,,POL,21.2183436003,6-4 4-6 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,1601,2,1124,8
 2016-M-FU-GRE-06A-2016,Greece F6,Hard,32,S,20160425,7,105113,,,Patrik Rosenholm,R,,SWE,28.1396303901,200685,,WC,Vasileios Iliopoulos,U,,GRE,17.8206707734,4-6 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,739,32,,
@@ -4518,14 +4518,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-GRE-06A-2016,Greece F6,Hard,32,S,20160425,15,132124,,Q,Aaron Addison,R,,AUS,20.4517453799,106103,,Q,Hunter Callahan,R,,USA,23.3429158111,6-4 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,1146,8,1126,8
 2016-M-FU-GRE-06A-2016,Greece F6,Hard,32,S,20160425,16,121531,2,,Mats Moraing,L,,GER,23.8466803559,122241,,,Winston Lin,U,,USA,23.0006844627,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,433,95,793,27
 2016-M-FU-GRE-06A-2016,Greece F6,Hard,32,S,20160425,17,105096,1,,Julien Dubail,R,,BEL,28.1943874059,106061,,LL,Pavel Krainik,R,,CAN,23.5728952772,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,418,103,1315,5
-2016-M-FU-GRE-06A-2016,Greece F6,Hard,32,S,20160425,18,122548,7,,Edan Leshem,U,1.83,ISR,19.1019849418,123742,,,Martin Beran,R,,CAN,20.4106776181,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,560,59,972,14
+2016-M-FU-GRE-06A-2016,Greece F6,Hard,32,S,20160425,18,122548,7,,Edan Leshem,U,183,ISR,19.1019849418,123742,,,Martin Beran,R,,CAN,20.4106776181,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,560,59,972,14
 2016-M-FU-GRE-06A-2016,Greece F6,Hard,32,S,20160425,19,125855,,,Michael Grant Gd13,U,,USA,24.1971252567,111763,,WC,Jeremy Efferding,U,,USA,22.9760438056,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,959,15,1601,2
 2016-M-FU-GRE-06A-2016,Greece F6,Hard,32,S,20160425,20,106031,6,,Raymond Sarmiento,R,,USA,23.7535934292,105113,,,Patrik Rosenholm,R,,SWE,28.1396303901,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,540,63,739,32
 2016-M-FU-GRE-06A-2016,Greece F6,Hard,32,S,20160425,21,108761,8,,Mikelis Libietis,U,188,LAT,23.794661191,126219,,Q,Joshua Paris,R,,GBR,20.1368925394,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,568,57,1147,8
 2016-M-FU-GRE-06A-2016,Greece F6,Hard,32,S,20160425,22,111451,3,,Bradley Mousley,U,,AUS,20.3093771389,126208,,Q,Yusuke Takahashi,R,,JPN,18.5215605749,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,434,95,1167,7
 2016-M-FU-GRE-06A-2016,Greece F6,Hard,32,S,20160425,23,126774,5,,Stefanos Tsitsipas,R,193,GRE,17.7029431896,106211,,,Bruno Santanna,R,,BRA,22.7871321013,6-3 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,463,83,747,31
 2016-M-FU-GRE-06A-2016,Greece F6,Hard,32,S,20160425,24,121531,2,,Mats Moraing,L,,GER,23.8466803559,132124,,Q,Aaron Addison,R,,AUS,20.4517453799,6-2 2-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,433,95,1146,8
-2016-M-FU-GRE-06A-2016,Greece F6,Hard,32,S,20160425,25,105096,1,,Julien Dubail,R,,BEL,28.1943874059,122548,7,,Edan Leshem,U,1.83,ISR,19.1019849418,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,418,103,560,59
+2016-M-FU-GRE-06A-2016,Greece F6,Hard,32,S,20160425,25,105096,1,,Julien Dubail,R,,BEL,28.1943874059,122548,7,,Edan Leshem,U,183,ISR,19.1019849418,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,418,103,560,59
 2016-M-FU-GRE-06A-2016,Greece F6,Hard,32,S,20160425,26,125855,,,Michael Grant Gd13,U,,USA,24.1971252567,106031,6,,Raymond Sarmiento,R,,USA,23.7535934292,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,959,15,540,63
 2016-M-FU-GRE-06A-2016,Greece F6,Hard,32,S,20160425,27,108761,8,,Mikelis Libietis,U,188,LAT,23.794661191,111451,3,,Bradley Mousley,U,,AUS,20.3093771389,3-6 6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,568,57,434,95
 2016-M-FU-GRE-06A-2016,Greece F6,Hard,32,S,20160425,28,126774,5,,Stefanos Tsitsipas,R,193,GRE,17.7029431896,121531,2,,Mats Moraing,L,,GER,23.8466803559,7-6(1) 3-2 RET,3,QF,,,,,,,,,,,,,,,,,,,,463,83,433,95
@@ -4916,7 +4916,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-IND-02A-2016,India F2,Hard,32,S,20160502,10,122369,,Q,Bernardo Saraiva,R,,POR,22.7378507871,122533,,,Nam Hoang Ly,R,,VIE,19.1813826146,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,2173,1,895,18
 2016-M-FU-IND-02A-2016,India F2,Hard,32,S,20160502,11,106150,,Q,Jeson Patrombon,R,,PHI,23.099247091,110725,,Q,Shahbaaz Khan,R,,IND,23.8275154004,7-6(11) 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1302,5,1636,2
 2016-M-FU-IND-02A-2016,India F2,Hard,32,S,20160502,12,105502,3,,N Sriram Balaji,R,,IND,26.1245722108,105737,,,Kaza Vinayak Sharma,R,,IND,25.0978781656,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,536,64,805,26
-2016-M-FU-IND-02A-2016,India F2,Hard,32,S,20160502,13,105464,5,,Christopher Rungkat,R,1.7,INA,26.2970568104,104781,,,Yuichi Ito,R,,JPN,29.7385352498,5-7 7-6(5) 3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,577,55,958,15
+2016-M-FU-IND-02A-2016,India F2,Hard,32,S,20160502,13,105464,5,,Christopher Rungkat,R,170,INA,26.2970568104,104781,,,Yuichi Ito,R,,JPN,29.7385352498,5-7 7-6(5) 3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,577,55,958,15
 2016-M-FU-IND-02A-2016,India F2,Hard,32,S,20160502,14,106012,,,Kunal Anand,U,,IND,23.9151266256,200127,,WC,Aryan Goveas,U,,IND,17.8151950719,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,914,17,1278,5
 2016-M-FU-IND-02A-2016,India F2,Hard,32,S,20160502,15,104615,,,Ranjeet Virali Murugesan,U,,IND,30.5872689938,144934,,WC,Hardeep Singh Sandhu,U,,IND,21.3223819302,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,728,34,1727,2
 2016-M-FU-IND-02A-2016,India F2,Hard,32,S,20160502,16,124051,,Q,Yuya Ito,U,,JPN,19.3100616016,104822,2,,N Vijay Sundar Prashanth,R,,IND,29.5140314853,6-3 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,1539,2,497,74
@@ -4926,12 +4926,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-IND-02A-2016,India F2,Hard,32,S,20160502,20,106168,7,,Sidharth Rawat,U,,IND,23.0308008214,200080,,,Puriwat Chatpatcharoen,U,,THA,20.7474332649,7-5 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,611,50,780,27
 2016-M-FU-IND-02A-2016,India F2,Hard,32,S,20160502,21,122495,,,Shintaro Imai,U,,JPN,22.6502395619,122369,,Q,Bernardo Saraiva,R,,POR,22.7378507871,7-5 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,948,15,2173,1
 2016-M-FU-IND-02A-2016,India F2,Hard,32,S,20160502,22,105502,3,,N Sriram Balaji,R,,IND,26.1245722108,106150,,Q,Jeson Patrombon,R,,PHI,23.099247091,1-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,536,64,1302,5
-2016-M-FU-IND-02A-2016,India F2,Hard,32,S,20160502,23,105464,5,,Christopher Rungkat,R,1.7,INA,26.2970568104,106012,,,Kunal Anand,U,,IND,23.9151266256,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,577,55,914,17
+2016-M-FU-IND-02A-2016,India F2,Hard,32,S,20160502,23,105464,5,,Christopher Rungkat,R,170,INA,26.2970568104,106012,,,Kunal Anand,U,,IND,23.9151266256,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,577,55,914,17
 2016-M-FU-IND-02A-2016,India F2,Hard,32,S,20160502,24,124051,,Q,Yuya Ito,U,,JPN,19.3100616016,104615,,,Ranjeet Virali Murugesan,U,,IND,30.5872689938,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1539,2,728,34
 2016-M-FU-IND-02A-2016,India F2,Hard,32,S,20160502,25,105335,8,,Sho Katayama,U,,JPN,26.9733059548,105812,,SE,David Agung Susanto,U,,INA,24.7830253251,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,705,37,,
 2016-M-FU-IND-02A-2016,India F2,Hard,32,S,20160502,26,106168,7,,Sidharth Rawat,U,,IND,23.0308008214,124154,4,,Sasi Kumar Mukund,R,,IND,19.2963723477,6-3 3-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,611,50,563,58
 2016-M-FU-IND-02A-2016,India F2,Hard,32,S,20160502,27,122495,,,Shintaro Imai,U,,JPN,22.6502395619,105502,3,,N Sriram Balaji,R,,IND,26.1245722108,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,948,15,536,64
-2016-M-FU-IND-02A-2016,India F2,Hard,32,S,20160502,28,124051,,Q,Yuya Ito,U,,JPN,19.3100616016,105464,5,,Christopher Rungkat,R,1.7,INA,26.2970568104,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,1539,2,577,55
+2016-M-FU-IND-02A-2016,India F2,Hard,32,S,20160502,28,124051,,Q,Yuya Ito,U,,JPN,19.3100616016,105464,5,,Christopher Rungkat,R,170,INA,26.2970568104,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,1539,2,577,55
 2016-M-FU-IND-02A-2016,India F2,Hard,32,S,20160502,29,106168,7,,Sidharth Rawat,U,,IND,23.0308008214,105335,8,,Sho Katayama,U,,JPN,26.9733059548,2-6 6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,611,50,705,37
 2016-M-FU-IND-02A-2016,India F2,Hard,32,S,20160502,30,122495,,,Shintaro Imai,U,,JPN,22.6502395619,124051,,Q,Yuya Ito,U,,JPN,19.3100616016,6-4 3-6 6-2,3,SF,,,,,,,,,,,,,,,,,,,,948,15,1539,2
 2016-M-FU-IND-02A-2016,India F2,Hard,32,S,20160502,31,122495,,,Shintaro Imai,U,,JPN,22.6502395619,106168,7,,Sidharth Rawat,U,,IND,23.0308008214,6-4 6-4,3,F,,,,,,,,,,,,,,,,,,,,948,15,611,50
@@ -5442,7 +5442,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-IND-03A-2016,India F3,Hard,32,S,20160509,9,111462,,,Ken Onishi,U,,JPN,20.2217659138,104615,8,,Ranjeet Virali Murugesan,U,,IND,30.6064339493,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1100,9,711,36
 2016-M-FU-IND-03A-2016,India F3,Hard,32,S,20160509,10,124051,,Q,Yuya Ito,U,,JPN,19.3292265572,122617,,Q,Suraj R Prabodh,R,,IND,21.3333333333,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1563,2,1142,8
 2016-M-FU-IND-03A-2016,India F3,Hard,32,S,20160509,11,144935,,WC,Dalwinder Singh,U,,IND,20.038329911,144650,,Q,Rhett Purcell,R,,GBR,20.2546201232,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1443,3,2060,1
-2016-M-FU-IND-03A-2016,India F3,Hard,32,S,20160509,12,105464,4,,Christopher Rungkat,R,1.7,INA,26.3162217659,127143,,,Jirat Navasirisomboon,R,,THA,19.4743326489,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,571,55,1037,11
+2016-M-FU-IND-03A-2016,India F3,Hard,32,S,20160509,12,105464,4,,Christopher Rungkat,R,170,INA,26.3162217659,127143,,,Jirat Navasirisomboon,R,,THA,19.4743326489,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,571,55,1037,11
 2016-M-FU-IND-03A-2016,India F3,Hard,32,S,20160509,13,105670,7,,Karunuday Singh,R,,IND,25.4702258727,110740,,,John Lamble,U,,USA,24.1067761807,6-7(4) 6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,611,48,1038,11
 2016-M-FU-IND-03A-2016,India F3,Hard,32,S,20160509,14,105482,,WC,Vijayant Malik,R,,IND,26.2313483915,200544,,Q,Paramveer Singh Bajwa,R,,IND,18.2340862423,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2016-M-FU-IND-03A-2016,India F3,Hard,32,S,20160509,15,144681,,,Niki Kaliyanda Poonacha,R,,IND,21.0349075975,122420,,Q,Sagar Ahuja,R,,IND,24.5037645448,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,978,14,2220,1
@@ -5452,7 +5452,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-IND-03A-2016,India F3,Hard,32,S,20160509,19,122495,,,Shintaro Imai,U,,JPN,22.6694045175,122055,,,Haadin Bava,U,,IND,21.4318959617,6-7(4) 6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,927,16,959,15
 2016-M-FU-IND-03A-2016,India F3,Hard,32,S,20160509,20,200015,,,Jayesh Pungliya,U,,IND,19.627652293,106150,,Q,Jeson Patrombon,R,,PHI,23.1184120465,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1138,8,1236,6
 2016-M-FU-IND-03A-2016,India F3,Hard,32,S,20160509,21,124051,,Q,Yuya Ito,U,,JPN,19.3292265572,111462,,,Ken Onishi,U,,JPN,20.2217659138,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1563,2,1100,9
-2016-M-FU-IND-03A-2016,India F3,Hard,32,S,20160509,22,144935,,WC,Dalwinder Singh,U,,IND,20.038329911,105464,4,,Christopher Rungkat,R,1.7,INA,26.3162217659,7-5 2-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,1443,3,571,55
+2016-M-FU-IND-03A-2016,India F3,Hard,32,S,20160509,22,144935,,WC,Dalwinder Singh,U,,IND,20.038329911,105464,4,,Christopher Rungkat,R,170,INA,26.3162217659,7-5 2-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,1443,3,571,55
 2016-M-FU-IND-03A-2016,India F3,Hard,32,S,20160509,23,105482,,WC,Vijayant Malik,R,,IND,26.2313483915,105670,7,,Karunuday Singh,R,,IND,25.4702258727,4-6 7-5 3-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,,,611,48
 2016-M-FU-IND-03A-2016,India F3,Hard,32,S,20160509,24,104822,2,,N Vijay Sundar Prashanth,R,,IND,29.5331964408,144681,,,Niki Kaliyanda Poonacha,R,,IND,21.0349075975,7-6(4) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,490,75,978,14
 2016-M-FU-IND-03A-2016,India F3,Hard,32,S,20160509,25,104986,1,,Vishnu Vardhan,R,188,IND,28.7857631759,122533,,,Nam Hoang Ly,R,,VIE,19.2005475702,3-6 6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,406,107,933,16
@@ -6000,7 +6000,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-ISR-07B-2016,Israel F7,Hard,32,S,20160516,9,105246,5,,Michal Schmid,U,,CZE,27.4633812457,125844,,Q,Yannai Barkai,U,,ISR,19.1649555099,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,676,40,1742,2
 2016-M-FU-ISR-07B-2016,Israel F7,Hard,32,S,20160516,10,126643,,Q,Keivon Tabrizi,R,,SUI,19.8138261465,111436,,,Nick Chappell,L,,USA,23.6550308008,1-6 7-6(5) 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,2178,1,911,17
 2016-M-FU-ISR-07B-2016,Israel F7,Hard,32,S,20160516,11,138652,,,Hugo Voljacques,R,,FRA,23.3757700205,145006,,Q,Nikolay Kolobaev,U,,RUS,18.0424366872,6-2 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,972,14,,
-2016-M-FU-ISR-07B-2016,Israel F7,Hard,32,S,20160516,12,122548,3,,Edan Leshem,U,1.83,ISR,19.1594798084,200461,,WC,Oz Daniel,U,,ISR,16.180698152,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,538,62,,
+2016-M-FU-ISR-07B-2016,Israel F7,Hard,32,S,20160516,12,122548,3,,Edan Leshem,U,183,ISR,19.1594798084,200461,,WC,Oz Daniel,U,,ISR,16.180698152,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,538,62,,
 2016-M-FU-ISR-07B-2016,Israel F7,Hard,32,S,20160516,13,144675,8,,Baptiste Crepatte,U,,FRA,21.6509240246,122550,,,Mor Bulis,U,,ISR,20.076659822,4-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,848,21,1109,9
 2016-M-FU-ISR-07B-2016,Israel F7,Hard,32,S,20160516,14,122591,,,Ram Kapach,U,,ISR,19.2963723477,122592,,WC,Orel Ovil,R,,ISR,19.5701574264,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1106,9,1393,4
 2016-M-FU-ISR-07B-2016,Israel F7,Hard,32,S,20160516,15,106406,,,Alon Elia,U,,ISR,20.9281314168,131951,,,Daniel Cukierman,U,,ISR,20.8542094456,6-0 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,961,15,998,13
@@ -6010,16 +6010,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-ISR-07B-2016,Israel F7,Hard,32,S,20160516,19,126097,,,Cameron Silverman,U,,USA,24.0136892539,202083,,Q,Chase Burton,U,,USA,18.9650924025,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,872,19,,
 2016-M-FU-ISR-07B-2016,Israel F7,Hard,32,S,20160516,20,104070,,,Jesse Witten,R,178,USA,33.5852156057,106424,,,Tal Goldengoren,U,,ISR,20.0821355236,3-6 6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,916,16,977,14
 2016-M-FU-ISR-07B-2016,Israel F7,Hard,32,S,20160516,21,105246,5,,Michal Schmid,U,,CZE,27.4633812457,126643,,Q,Keivon Tabrizi,R,,SUI,19.8138261465,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,676,40,2178,1
-2016-M-FU-ISR-07B-2016,Israel F7,Hard,32,S,20160516,22,122548,3,,Edan Leshem,U,1.83,ISR,19.1594798084,138652,,,Hugo Voljacques,R,,FRA,23.3757700205,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,538,62,972,14
+2016-M-FU-ISR-07B-2016,Israel F7,Hard,32,S,20160516,22,122548,3,,Edan Leshem,U,183,ISR,19.1594798084,138652,,,Hugo Voljacques,R,,FRA,23.3757700205,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,538,62,972,14
 2016-M-FU-ISR-07B-2016,Israel F7,Hard,32,S,20160516,23,144675,8,,Baptiste Crepatte,U,,FRA,21.6509240246,122591,,,Ram Kapach,U,,ISR,19.2963723477,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,848,21,1106,9
 2016-M-FU-ISR-07B-2016,Israel F7,Hard,32,S,20160516,24,105096,2,,Julien Dubail,R,,BEL,28.2518822724,106406,,,Alon Elia,U,,ISR,20.9281314168,6-4 1-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,388,115,961,15
 2016-M-FU-ISR-07B-2016,Israel F7,Hard,32,S,20160516,25,105336,1,,Nicolas Meister,U,,USA,27.0034223135,106143,6,,Dekel Bar,R,,ISR,23.1704312115,6-4 4-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,317,154,799,26
 2016-M-FU-ISR-07B-2016,Israel F7,Hard,32,S,20160516,26,104070,,,Jesse Witten,R,178,USA,33.5852156057,126097,,,Cameron Silverman,U,,USA,24.0136892539,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,916,16,872,19
-2016-M-FU-ISR-07B-2016,Israel F7,Hard,32,S,20160516,27,122548,3,,Edan Leshem,U,1.83,ISR,19.1594798084,105246,5,,Michal Schmid,U,,CZE,27.4633812457,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,538,62,676,40
+2016-M-FU-ISR-07B-2016,Israel F7,Hard,32,S,20160516,27,122548,3,,Edan Leshem,U,183,ISR,19.1594798084,105246,5,,Michal Schmid,U,,CZE,27.4633812457,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,538,62,676,40
 2016-M-FU-ISR-07B-2016,Israel F7,Hard,32,S,20160516,28,105096,2,,Julien Dubail,R,,BEL,28.2518822724,144675,8,,Baptiste Crepatte,U,,FRA,21.6509240246,6-4 6-0,3,QF,,,,,,,,,,,,,,,,,,,,388,115,848,21
 2016-M-FU-ISR-07B-2016,Israel F7,Hard,32,S,20160516,29,105336,1,,Nicolas Meister,U,,USA,27.0034223135,104070,,,Jesse Witten,R,178,USA,33.5852156057,4-6 6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,317,154,916,16
-2016-M-FU-ISR-07B-2016,Israel F7,Hard,32,S,20160516,30,122548,3,,Edan Leshem,U,1.83,ISR,19.1594798084,105096,2,,Julien Dubail,R,,BEL,28.2518822724,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,538,62,388,115
-2016-M-FU-ISR-07B-2016,Israel F7,Hard,32,S,20160516,31,105336,1,,Nicolas Meister,U,,USA,27.0034223135,122548,3,,Edan Leshem,U,1.83,ISR,19.1594798084,7-6(3) 7-5,3,F,,,,,,,,,,,,,,,,,,,,317,154,538,62
+2016-M-FU-ISR-07B-2016,Israel F7,Hard,32,S,20160516,30,122548,3,,Edan Leshem,U,183,ISR,19.1594798084,105096,2,,Julien Dubail,R,,BEL,28.2518822724,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,538,62,388,115
+2016-M-FU-ISR-07B-2016,Israel F7,Hard,32,S,20160516,31,105336,1,,Nicolas Meister,U,,USA,27.0034223135,122548,3,,Edan Leshem,U,183,ISR,19.1594798084,7-6(3) 7-5,3,F,,,,,,,,,,,,,,,,,,,,317,154,538,62
 2016-M-FU-ITA-11A-2016,Italy F11,Clay,32,S,20160516,1,106431,1,,Francisco Bahamonde,R,,ARG,19.5208761123,105718,,WC,Davide Melchiorre,R,,ITA,25.2375085558,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,351,129,1736,2
 2016-M-FU-ITA-11A-2016,Italy F11,Clay,32,S,20160516,2,127798,,Q,Cristian Carli,U,,ITA,20.1423682409,106103,,Q,Hunter Callahan,R,,USA,23.4004106776,6-4 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1053,11,1093,9
 2016-M-FU-ITA-11A-2016,Italy F11,Clay,32,S,20160516,3,126504,,WC,Andrea Pellegrino,R,,ITA,19.1485284052,105399,,,Andriej Kapas,R,,POL,26.7624914442,3-6 6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,804,25,646,43
@@ -6504,7 +6504,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-ISR-08B-2016,Israel F8,Hard,32,S,20160523,2,131964,,Q,Daniel Dudockin,U,,ISR,19.2498288843,200704,,WC,Or Grinberg,R,,ISR,16.6543463381,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1502,3,,
 2016-M-FU-ISR-08B-2016,Israel F8,Hard,32,S,20160523,3,121773,,Q,Milen Ianakiev,U,,GER,20.8432580424,121938,,,Hunter Reese,R,,USA,23.3620807666,7-5 2-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1539,2,1100,9
 2016-M-FU-ISR-08B-2016,Israel F8,Hard,32,S,20160523,4,127326,6,,Ben Patael,U,,ISR,18.9733059548,125844,,WC,Yannai Barkai,U,,ISR,19.1841204654,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,833,22,1743,2
-2016-M-FU-ISR-08B-2016,Israel F8,Hard,32,S,20160523,5,122548,3,,Edan Leshem,U,1.83,ISR,19.1786447639,122591,,,Ram Kapach,U,,ISR,19.3155373032,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,638,44,1153,8
+2016-M-FU-ISR-08B-2016,Israel F8,Hard,32,S,20160523,5,122548,3,,Edan Leshem,U,183,ISR,19.1786447639,122591,,,Ram Kapach,U,,ISR,19.3155373032,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,638,44,1153,8
 2016-M-FU-ISR-08B-2016,Israel F8,Hard,32,S,20160523,6,144687,,,Quinton Vega,R,,USA,23.498973306,132195,,LL,George Davies,R,,GBR,21.0787132101,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1226,6,1606,2
 2016-M-FU-ISR-08B-2016,Israel F8,Hard,32,S,20160523,7,131951,,,Daniel Cukierman,U,,ISR,20.8733744011,122550,,,Mor Bulis,U,,ISR,20.0958247775,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1041,11,1111,9
 2016-M-FU-ISR-08B-2016,Israel F8,Hard,32,S,20160523,8,126097,7,,Cameron Silverman,U,,USA,24.0328542094,200617,,WC,Emmanuel Luria,U,,ISR,17.8179329227,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,870,19,1856,1
@@ -6518,7 +6518,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-ISR-08B-2016,Israel F8,Hard,32,S,20160523,16,105938,2,,Antoine Escoffier,U,,FRA,24.2299794661,106424,,,Tal Goldengoren,U,,ISR,20.1013004791,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,394,115,980,14
 2016-M-FU-ISR-08B-2016,Israel F8,Hard,32,S,20160523,17,105336,1,,Nicolas Meister,U,,USA,27.022587269,131964,,Q,Daniel Dudockin,U,,ISR,19.2498288843,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,312,157,1502,3
 2016-M-FU-ISR-08B-2016,Israel F8,Hard,32,S,20160523,18,127326,6,,Ben Patael,U,,ISR,18.9733059548,121773,,Q,Milen Ianakiev,U,,GER,20.8432580424,6-3 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,833,22,1539,2
-2016-M-FU-ISR-08B-2016,Israel F8,Hard,32,S,20160523,19,144687,,,Quinton Vega,R,,USA,23.498973306,122548,3,,Edan Leshem,U,1.83,ISR,19.1786447639,6-2 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,1226,6,638,44
+2016-M-FU-ISR-08B-2016,Israel F8,Hard,32,S,20160523,19,144687,,,Quinton Vega,R,,USA,23.498973306,122548,3,,Edan Leshem,U,183,ISR,19.1786447639,6-2 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,1226,6,638,44
 2016-M-FU-ISR-08B-2016,Israel F8,Hard,32,S,20160523,20,131951,,,Daniel Cukierman,U,,ISR,20.8733744011,126097,7,,Cameron Silverman,U,,USA,24.0328542094,6-4 3-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1041,11,870,19
 2016-M-FU-ISR-08B-2016,Israel F8,Hard,32,S,20160523,21,106143,5,,Dekel Bar,R,,ISR,23.189596167,122381,,WC,Daniel Tamir,U,,ISR,20.1067761807,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,798,26,1401,4
 2016-M-FU-ISR-08B-2016,Israel F8,Hard,32,S,20160523,22,106299,4,,Bar Tzuf Botzer,R,,ISR,22.2258726899,145006,,Q,Nikolay Kolobaev,U,,RUS,18.0616016427,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,581,53,,
@@ -6791,7 +6791,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-UZB-03A-2016,Uzbekistan F3,Hard,32,S,20160523,10,132299,,WC,Saidalo Saidkarimov,U,,UZB,18.6611909651,123736,,Q,Sagadat Ayap,U,,KAZ,20.9965776865,3-6 6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,2160,1,1518,3
 2016-M-FU-UZB-03A-2016,Uzbekistan F3,Hard,32,S,20160523,11,106204,,,Nigmat Shofayziev,R,,UZB,22.8966461328,122207,,,Roy Hobbs,U,,SIN,26.7761806982,7-6(6) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1399,4,1434,3
 2016-M-FU-UZB-03A-2016,Uzbekistan F3,Hard,32,S,20160523,12,109737,4,,Markos Kalovelonis,R,,GRE,22.0150581793,200148,,WC,Amal Sultanbekov,U,,UZB,17.6125941136,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,494,73,,
-2016-M-FU-UZB-03A-2016,Uzbekistan F3,Hard,32,S,20160523,13,105464,7,,Christopher Rungkat,R,1.7,INA,26.3545516769,144815,,,Alexander Boborykin,U,,RUS,19.9698836413,6-2 5-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,557,58,949,15
+2016-M-FU-UZB-03A-2016,Uzbekistan F3,Hard,32,S,20160523,13,105464,7,,Christopher Rungkat,R,170,INA,26.3545516769,144815,,,Alexander Boborykin,U,,RUS,19.9698836413,6-2 5-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,557,58,949,15
 2016-M-FU-UZB-03A-2016,Uzbekistan F3,Hard,32,S,20160523,14,106106,,,George Tsivadze,U,,GEO,23.3867214237,200672,,WC,Sergey Fomin,R,,UZB,15.3045859001,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,868,19,,
 2016-M-FU-UZB-03A-2016,Uzbekistan F3,Hard,32,S,20160523,15,104707,,PR,Denis Matsukevitch,R,190,RUS,30.1546885695,109343,,Q,Pavel Tsoy,R,,UZB,20.6762491444,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,997,13,2207,1
 2016-M-FU-UZB-03A-2016,Uzbekistan F3,Hard,32,S,20160523,16,106381,2,,Temur Ismailov,R,,UZB,21.3552361396,120563,,WC,Abror Isakov,U,,UZB,27.2334017796,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,467,81,,
@@ -6801,12 +6801,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-UZB-03A-2016,Uzbekistan F3,Hard,32,S,20160523,20,106138,8,,Yaraslau Shyla,R,,BLR,23.2169746749,105645,,PR,Alexander Lobkov,R,,RUS,25.6262833676,6-4 4-6 3-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,737,31,,
 2016-M-FU-UZB-03A-2016,Uzbekistan F3,Hard,32,S,20160523,21,105502,5,,N Sriram Balaji,R,,IND,26.1820670773,132299,,WC,Saidalo Saidkarimov,U,,UZB,18.6611909651,6-3 3-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,514,67,2160,1
 2016-M-FU-UZB-03A-2016,Uzbekistan F3,Hard,32,S,20160523,22,109737,4,,Markos Kalovelonis,R,,GRE,22.0150581793,106204,,,Nigmat Shofayziev,R,,UZB,22.8966461328,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,494,73,1399,4
-2016-M-FU-UZB-03A-2016,Uzbekistan F3,Hard,32,S,20160523,23,105464,7,,Christopher Rungkat,R,1.7,INA,26.3545516769,106106,,,George Tsivadze,U,,GEO,23.3867214237,6-7(5) 6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,557,58,868,19
+2016-M-FU-UZB-03A-2016,Uzbekistan F3,Hard,32,S,20160523,23,105464,7,,Christopher Rungkat,R,170,INA,26.3545516769,106106,,,George Tsivadze,U,,GEO,23.3867214237,6-7(5) 6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,557,58,868,19
 2016-M-FU-UZB-03A-2016,Uzbekistan F3,Hard,32,S,20160523,24,106381,2,,Temur Ismailov,R,,UZB,21.3552361396,104707,,PR,Denis Matsukevitch,R,190,RUS,30.1546885695,6-4 2-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,467,81,997,13
 2016-M-FU-UZB-03A-2016,Uzbekistan F3,Hard,32,S,20160523,25,104251,1,,Ti Chen,R,183,TPE,32.6379192334,122109,6,,Sanjar Fayziev,U,,UZB,21.8179329227,6-3 3-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,224,237,551,59
 2016-M-FU-UZB-03A-2016,Uzbekistan F3,Hard,32,S,20160523,26,106138,8,,Yaraslau Shyla,R,,BLR,23.2169746749,106187,,,Denis Yevseyev,U,,KAZ,23.0034223135,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,737,31,1024,12
 2016-M-FU-UZB-03A-2016,Uzbekistan F3,Hard,32,S,20160523,27,105502,5,,N Sriram Balaji,R,,IND,26.1820670773,109737,4,,Markos Kalovelonis,R,,GRE,22.0150581793,6-4 7-6(4),3,QF,,,,,,,,,,,,,,,,,,,,514,67,494,73
-2016-M-FU-UZB-03A-2016,Uzbekistan F3,Hard,32,S,20160523,28,106381,2,,Temur Ismailov,R,,UZB,21.3552361396,105464,7,,Christopher Rungkat,R,1.7,INA,26.3545516769,6-3 6-0,3,QF,,,,,,,,,,,,,,,,,,,,467,81,557,58
+2016-M-FU-UZB-03A-2016,Uzbekistan F3,Hard,32,S,20160523,28,106381,2,,Temur Ismailov,R,,UZB,21.3552361396,105464,7,,Christopher Rungkat,R,170,INA,26.3545516769,6-3 6-0,3,QF,,,,,,,,,,,,,,,,,,,,467,81,557,58
 2016-M-FU-UZB-03A-2016,Uzbekistan F3,Hard,32,S,20160523,29,104251,1,,Ti Chen,R,183,TPE,32.6379192334,106138,8,,Yaraslau Shyla,R,,BLR,23.2169746749,2-6 6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,224,237,737,31
 2016-M-FU-UZB-03A-2016,Uzbekistan F3,Hard,32,S,20160523,30,106381,2,,Temur Ismailov,R,,UZB,21.3552361396,105502,5,,N Sriram Balaji,R,,IND,26.1820670773,6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,467,81,514,67
 2016-M-FU-UZB-03A-2016,Uzbekistan F3,Hard,32,S,20160523,31,106381,2,,Temur Ismailov,R,,UZB,21.3552361396,104251,1,,Ti Chen,R,183,TPE,32.6379192334,2-6 7-5 7-5,3,F,,,,,,,,,,,,,,,,,,,,467,81,224,237
@@ -6945,7 +6945,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-ISR-09A-2016,Israel F9,Hard,32,S,20160530,9,110727,7,Q,Jarryd Chaplin,R,,AUS,24.1095140315,106406,,,Alon Elia,U,,ISR,20.9472963723,6-2 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,909,17,965,15
 2016-M-FU-ISR-09A-2016,Israel F9,Hard,32,S,20160530,10,106424,,,Tal Goldengoren,U,,ISR,20.1013004791,122591,,,Ram Kapach,U,,ISR,19.3155373032,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,980,14,1153,8
 2016-M-FU-ISR-09A-2016,Israel F9,Hard,32,S,20160530,11,125844,,Q,Yannai Barkai,U,,ISR,19.1841204654,122592,,,Orel Ovil,R,,ISR,19.5893223819,4-6 7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1743,2,1518,3
-2016-M-FU-ISR-09A-2016,Israel F9,Hard,32,S,20160530,12,122548,3,,Edan Leshem,U,1.83,ISR,19.1786447639,126098,,,Collin Johns,U,,USA,22.9377138946,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,638,44,1160,8
+2016-M-FU-ISR-09A-2016,Israel F9,Hard,32,S,20160530,12,122548,3,,Edan Leshem,U,183,ISR,19.1786447639,126098,,,Collin Johns,U,,USA,22.9377138946,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,638,44,1160,8
 2016-M-FU-ISR-09A-2016,Israel F9,Hard,32,S,20160530,13,127326,5,,Ben Patael,U,,ISR,18.9733059548,131964,,,Daniel Dudockin,U,,ISR,19.2498288843,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,833,22,1502,3
 2016-M-FU-ISR-09A-2016,Israel F9,Hard,32,S,20160530,14,145006,,Q,Nikolay Kolobaev,U,,RUS,18.0616016427,144894,,Q,Gary Kushnirovich,U,,USA,24.9253935661,6-7(7) 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1748,1
 2016-M-FU-ISR-09A-2016,Israel F9,Hard,32,S,20160530,15,125818,,Q,Shahar Elbaz,U,,ISR,19.2991101985,105186,,,Guy Michelevitz,U,,ISR,27.832991102,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,2201,1,1298,5
@@ -6955,16 +6955,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-ISR-09A-2016,Israel F9,Hard,32,S,20160530,19,106143,4,,Dekel Bar,R,,ISR,23.189596167,126358,,Q,Motvey Radionov,U,,ISR,19.0061601643,6-3 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,798,26,1735,2
 2016-M-FU-ISR-09A-2016,Israel F9,Hard,32,S,20160530,20,111436,8,,Nick Chappell,L,,USA,23.6741957563,144687,,,Quinton Vega,R,,USA,23.498973306,6-4 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,913,17,1226,6
 2016-M-FU-ISR-09A-2016,Israel F9,Hard,32,S,20160530,21,110727,7,Q,Jarryd Chaplin,R,,AUS,24.1095140315,106424,,,Tal Goldengoren,U,,ISR,20.1013004791,6-3 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,909,17,980,14
-2016-M-FU-ISR-09A-2016,Israel F9,Hard,32,S,20160530,22,122548,3,,Edan Leshem,U,1.83,ISR,19.1786447639,125844,,Q,Yannai Barkai,U,,ISR,19.1841204654,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,638,44,1743,2
+2016-M-FU-ISR-09A-2016,Israel F9,Hard,32,S,20160530,22,122548,3,,Edan Leshem,U,183,ISR,19.1786447639,125844,,Q,Yannai Barkai,U,,ISR,19.1841204654,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,638,44,1743,2
 2016-M-FU-ISR-09A-2016,Israel F9,Hard,32,S,20160530,23,127326,5,,Ben Patael,U,,ISR,18.9733059548,145006,,Q,Nikolay Kolobaev,U,,RUS,18.0616016427,6-0 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,833,22,,
 2016-M-FU-ISR-09A-2016,Israel F9,Hard,32,S,20160530,24,110758,,Q,Ben Mclachlan,R,,NZL,24.0355920602,125818,,Q,Shahar Elbaz,U,,ISR,19.2991101985,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,959,15,2201,1
 2016-M-FU-ISR-09A-2016,Israel F9,Hard,32,S,20160530,25,105938,1,,Antoine Escoffier,U,,FRA,24.2299794661,126097,6,,Cameron Silverman,U,,USA,24.0328542094,7-6(3) 6-1,3,QF,,,,,,,,,,,,,,,,,,,,394,115,870,19
 2016-M-FU-ISR-09A-2016,Israel F9,Hard,32,S,20160530,26,111436,8,,Nick Chappell,L,,USA,23.6741957563,106143,4,,Dekel Bar,R,,ISR,23.189596167,6-2 4-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,913,17,798,26
-2016-M-FU-ISR-09A-2016,Israel F9,Hard,32,S,20160530,27,122548,3,,Edan Leshem,U,1.83,ISR,19.1786447639,110727,7,Q,Jarryd Chaplin,R,,AUS,24.1095140315,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,638,44,909,17
+2016-M-FU-ISR-09A-2016,Israel F9,Hard,32,S,20160530,27,122548,3,,Edan Leshem,U,183,ISR,19.1786447639,110727,7,Q,Jarryd Chaplin,R,,AUS,24.1095140315,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,638,44,909,17
 2016-M-FU-ISR-09A-2016,Israel F9,Hard,32,S,20160530,28,127326,5,,Ben Patael,U,,ISR,18.9733059548,110758,,Q,Ben Mclachlan,R,,NZL,24.0355920602,7-6(2) 6-0,3,QF,,,,,,,,,,,,,,,,,,,,833,22,959,15
 2016-M-FU-ISR-09A-2016,Israel F9,Hard,32,S,20160530,29,111436,8,,Nick Chappell,L,,USA,23.6741957563,105938,1,,Antoine Escoffier,U,,FRA,24.2299794661,2-6 7-6(6) 4-0 RET,3,SF,,,,,,,,,,,,,,,,,,,,913,17,394,115
-2016-M-FU-ISR-09A-2016,Israel F9,Hard,32,S,20160530,30,122548,3,,Edan Leshem,U,1.83,ISR,19.1786447639,127326,5,,Ben Patael,U,,ISR,18.9733059548,6-4 3-6 7-6(6),3,SF,,,,,,,,,,,,,,,,,,,,638,44,833,22
-2016-M-FU-ISR-09A-2016,Israel F9,Hard,32,S,20160530,31,122548,3,,Edan Leshem,U,1.83,ISR,19.1786447639,111436,8,,Nick Chappell,L,,USA,23.6741957563,6-3 6-3,3,F,,,,,,,,,,,,,,,,,,,,638,44,913,17
+2016-M-FU-ISR-09A-2016,Israel F9,Hard,32,S,20160530,30,122548,3,,Edan Leshem,U,183,ISR,19.1786447639,127326,5,,Ben Patael,U,,ISR,18.9733059548,6-4 3-6 7-6(6),3,SF,,,,,,,,,,,,,,,,,,,,638,44,833,22
+2016-M-FU-ISR-09A-2016,Israel F9,Hard,32,S,20160530,31,122548,3,,Edan Leshem,U,183,ISR,19.1786447639,111436,8,,Nick Chappell,L,,USA,23.6741957563,6-3 6-3,3,F,,,,,,,,,,,,,,,,,,,,638,44,913,17
 2016-M-FU-ITA-13A-2016,Italy F13,Clay,32,S,20160530,1,106172,1,,Maxime Chazal,U,,FRA,23.0800821355,134429,,Q,Manfred Fellin,R,,ITA,19.241615332,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,261,200,1974,1
 2016-M-FU-ITA-13A-2016,Italy F13,Clay,32,S,20160530,2,106331,,,Christopher Oconnell,R,183,AUS,21.9712525667,131910,,Q,Lucas Bouquet,R,,FRA,18.7980835044,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,427,98,1518,3
 2016-M-FU-ITA-13A-2016,Italy F13,Clay,32,S,20160530,3,105381,,,Thales Turini,U,,BRA,26.8473648186,105262,,,Fernando Romboli,R,180,BRA,27.3812457221,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,556,59,653,42
@@ -7158,7 +7158,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-UZB-04A-2016,Uzbekistan F4,Hard,32,S,20160530,5,110725,,Q,Shahbaaz Khan,R,,IND,23.8850102669,122272,,Q,Kirill Komarov,R,,RUS,24.3942505133,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1671,2,2062,1
 2016-M-FU-UZB-04A-2016,Uzbekistan F4,Hard,32,S,20160530,6,200672,,Q,Sergey Fomin,R,,UZB,15.3045859001,103776,,Q,Alexei Filenkov,R,,RUS,35.0171115674,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,1460,3
 2016-M-FU-UZB-04A-2016,Uzbekistan F4,Hard,32,S,20160530,7,106204,,Q,Nigmat Shofayziev,R,,UZB,22.8966461328,120563,,Q,Abror Isakov,U,,UZB,27.2334017796,6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,1399,4,,
-2016-M-FU-UZB-04A-2016,Uzbekistan F4,Hard,32,S,20160530,8,105464,8,,Christopher Rungkat,R,1.7,INA,26.3545516769,200130,,,Alexander Ovcharov,R,,RUS,17.9329226557,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,557,58,1259,5
+2016-M-FU-UZB-04A-2016,Uzbekistan F4,Hard,32,S,20160530,8,105464,8,,Christopher Rungkat,R,170,INA,26.3545516769,200130,,,Alexander Ovcharov,R,,RUS,17.9329226557,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,557,58,1259,5
 2016-M-FU-UZB-04A-2016,Uzbekistan F4,Hard,32,S,20160530,9,106348,5,,Evgeny Karlovskiy,R,,RUS,21.7932922656,200148,,WC,Amal Sultanbekov,U,,UZB,17.6125941136,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,501,70,,
 2016-M-FU-UZB-04A-2016,Uzbekistan F4,Hard,32,S,20160530,10,105645,,PR,Alexander Lobkov,R,,RUS,25.6262833676,132299,,WC,Saidalo Saidkarimov,U,,UZB,18.6611909651,6-3 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,2160,1
 2016-M-FU-UZB-04A-2016,Uzbekistan F4,Hard,32,S,20160530,11,106106,,,George Tsivadze,U,,GEO,23.3867214237,105533,,,Dmitry Surchenko,U,,RUS,26.0588637919,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,868,19,1085,10
@@ -7170,16 +7170,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-UZB-04A-2016,Uzbekistan F4,Hard,32,S,20160530,17,104251,1,,Ti Chen,R,183,TPE,32.6379192334,108717,,,Francis Casey Alcantara,U,,PHI,24.2984257358,7-6(4) 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,224,237,1266,5
 2016-M-FU-UZB-04A-2016,Uzbekistan F4,Hard,32,S,20160530,18,125799,,Q,Artur Shakhnubaryan,U,,RUS,19.7672826831,122109,7,,Sanjar Fayziev,U,,UZB,21.8179329227,7-6(5) 6-0,3,R16,,,,,,,,,,,,,,,,,,,,1856,1,551,59
 2016-M-FU-UZB-04A-2016,Uzbekistan F4,Hard,32,S,20160530,19,200672,,Q,Sergey Fomin,R,,UZB,15.3045859001,110725,,Q,Shahbaaz Khan,R,,IND,23.8850102669,6-3 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,1671,2
-2016-M-FU-UZB-04A-2016,Uzbekistan F4,Hard,32,S,20160530,20,105464,8,,Christopher Rungkat,R,1.7,INA,26.3545516769,106204,,Q,Nigmat Shofayziev,R,,UZB,22.8966461328,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,557,58,1399,4
+2016-M-FU-UZB-04A-2016,Uzbekistan F4,Hard,32,S,20160530,20,105464,8,,Christopher Rungkat,R,170,INA,26.3545516769,106204,,Q,Nigmat Shofayziev,R,,UZB,22.8966461328,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,557,58,1399,4
 2016-M-FU-UZB-04A-2016,Uzbekistan F4,Hard,32,S,20160530,21,106348,5,,Evgeny Karlovskiy,R,,RUS,21.7932922656,105645,,PR,Alexander Lobkov,R,,RUS,25.6262833676,W/O,3,R16,,,,,,,,,,,,,,,,,,,,501,70,,
 2016-M-FU-UZB-04A-2016,Uzbekistan F4,Hard,32,S,20160530,22,109737,4,,Markos Kalovelonis,R,,GRE,22.0150581793,106106,,,George Tsivadze,U,,GEO,23.3867214237,4-6 7-6(5) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,494,73,868,19
 2016-M-FU-UZB-04A-2016,Uzbekistan F4,Hard,32,S,20160530,23,106330,,,Vitaly Kozyukov,R,,RUS,21.9739904175,105502,6,,N Sriram Balaji,R,,IND,26.1820670773,7-5 5-7 6-1,3,R16,,,,,,,,,,,,,,,,,,,,835,22,514,67
 2016-M-FU-UZB-04A-2016,Uzbekistan F4,Hard,32,S,20160530,24,106381,2,,Temur Ismailov,R,,UZB,21.3552361396,106187,,,Denis Yevseyev,U,,KAZ,23.0034223135,1-6 7-5 6-0,3,R16,,,,,,,,,,,,,,,,,,,,467,81,1024,12
 2016-M-FU-UZB-04A-2016,Uzbekistan F4,Hard,32,S,20160530,25,104251,1,,Ti Chen,R,183,TPE,32.6379192334,125799,,Q,Artur Shakhnubaryan,U,,RUS,19.7672826831,6-3 6-7(3) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,224,237,1856,1
-2016-M-FU-UZB-04A-2016,Uzbekistan F4,Hard,32,S,20160530,26,105464,8,,Christopher Rungkat,R,1.7,INA,26.3545516769,200672,,Q,Sergey Fomin,R,,UZB,15.3045859001,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,557,58,,
+2016-M-FU-UZB-04A-2016,Uzbekistan F4,Hard,32,S,20160530,26,105464,8,,Christopher Rungkat,R,170,INA,26.3545516769,200672,,Q,Sergey Fomin,R,,UZB,15.3045859001,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,557,58,,
 2016-M-FU-UZB-04A-2016,Uzbekistan F4,Hard,32,S,20160530,27,109737,4,,Markos Kalovelonis,R,,GRE,22.0150581793,106348,5,,Evgeny Karlovskiy,R,,RUS,21.7932922656,7-6(5) 7-5,3,QF,,,,,,,,,,,,,,,,,,,,494,73,501,70
 2016-M-FU-UZB-04A-2016,Uzbekistan F4,Hard,32,S,20160530,28,106381,2,,Temur Ismailov,R,,UZB,21.3552361396,106330,,,Vitaly Kozyukov,R,,RUS,21.9739904175,7-6(2) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,467,81,835,22
-2016-M-FU-UZB-04A-2016,Uzbekistan F4,Hard,32,S,20160530,29,104251,1,,Ti Chen,R,183,TPE,32.6379192334,105464,8,,Christopher Rungkat,R,1.7,INA,26.3545516769,6-2 6-1,3,SF,,,,,,,,,,,,,,,,,,,,224,237,557,58
+2016-M-FU-UZB-04A-2016,Uzbekistan F4,Hard,32,S,20160530,29,104251,1,,Ti Chen,R,183,TPE,32.6379192334,105464,8,,Christopher Rungkat,R,170,INA,26.3545516769,6-2 6-1,3,SF,,,,,,,,,,,,,,,,,,,,224,237,557,58
 2016-M-FU-UZB-04A-2016,Uzbekistan F4,Hard,32,S,20160530,30,109737,4,,Markos Kalovelonis,R,,GRE,22.0150581793,106381,2,,Temur Ismailov,R,,UZB,21.3552361396,3-6 7-5 7-6(7),3,SF,,,,,,,,,,,,,,,,,,,,494,73,467,81
 2016-M-FU-UZB-04A-2016,Uzbekistan F4,Hard,32,S,20160530,31,104251,1,,Ti Chen,R,183,TPE,32.6379192334,109737,4,,Markos Kalovelonis,R,,GRE,22.0150581793,6-4 6-2,3,F,,,,,,,,,,,,,,,,,,,,224,237,494,73
 2016-M-FU-BUL-04A-2016,Bulgaria F4,Clay,32,S,20160606,1,106220,1,,Dimitar Kuzmanov,R,183,BUL,22.8583162218,104523,,,Frederico Gil,R,178,POR,31.2032854209,4-6 6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,314,152,729,32
@@ -7216,7 +7216,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-HKG-01A-2016,Hong Kong F1,Hard,32,S,20160606,1,106225,1,,Andrew Whittington,R,,AUS,22.8199863107,106150,,Q,Jeson Patrombon,R,,PHI,23.1950718686,6-3 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,284,176,1147,8
 2016-M-FU-HKG-01A-2016,Hong Kong F1,Hard,32,S,20160606,2,124022,,WC,Chun Hun Wong,R,,HKG,20.6023271732,126556,,Q,Wei De Lin,U,,TPE,20.334017796,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1575,2,1307,5
 2016-M-FU-HKG-01A-2016,Hong Kong F1,Hard,32,S,20160606,3,200164,,Q,Jonathan Gray,U,,GBR,19.1594798084,111806,,,Fajing Sun,U,,CHN,19.6741957563,4-6 7-6(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1398,4,980,14
-2016-M-FU-HKG-01A-2016,Hong Kong F1,Hard,32,S,20160606,4,105464,7,,Christopher Rungkat,R,1.7,INA,26.392881588,121621,,Q,Ken Onoda,U,,JPN,28.1478439425,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,534,61,1134,8
+2016-M-FU-HKG-01A-2016,Hong Kong F1,Hard,32,S,20160606,4,105464,7,,Christopher Rungkat,R,170,INA,26.392881588,121621,,Q,Ken Onoda,U,,JPN,28.1478439425,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,534,61,1134,8
 2016-M-FU-HKG-01A-2016,Hong Kong F1,Hard,32,S,20160606,5,105946,3,,Liang Chi Huang,R,,TPE,24.2464065708,138846,,WC,Hong Kit Jack Wong,R,,HKG,17.7686516085,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,404,109,1441,3
 2016-M-FU-HKG-01A-2016,Hong Kong F1,Hard,32,S,20160606,6,106319,,,Yuqing Ning,R,,CHN,22.0780287474,106388,,WC,Pak Long Yeung,R,,HKG,21.3086926762,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1051,11,1857,1
 2016-M-FU-HKG-01A-2016,Hong Kong F1,Hard,32,S,20160606,7,124049,,,Daniel Nolan,U,,AUS,19.2361396304,122495,,,Shintaro Imai,U,,JPN,22.7460643395,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,884,18,653,40
@@ -7230,14 +7230,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-HKG-01A-2016,Hong Kong F1,Hard,32,S,20160606,15,106396,,,Cheng Yu Yu,R,,TPE,21.1800136893,133959,,Q,Robbie Ridout,U,,GBR,21.1334702259,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,842,21,1153,8
 2016-M-FU-HKG-01A-2016,Hong Kong F1,Hard,32,S,20160606,16,105595,2,,Dayne Kelly,U,,AUS,25.8726899384,105006,,,Chu Huan Yi,L,,TPE,28.7665982204,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,368,123,830,21
 2016-M-FU-HKG-01A-2016,Hong Kong F1,Hard,32,S,20160606,17,106225,1,,Andrew Whittington,R,,AUS,22.8199863107,124022,,WC,Chun Hun Wong,R,,HKG,20.6023271732,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,284,176,1575,2
-2016-M-FU-HKG-01A-2016,Hong Kong F1,Hard,32,S,20160606,18,105464,7,,Christopher Rungkat,R,1.7,INA,26.392881588,200164,,Q,Jonathan Gray,U,,GBR,19.1594798084,7-5 3-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,534,61,1398,4
+2016-M-FU-HKG-01A-2016,Hong Kong F1,Hard,32,S,20160606,18,105464,7,,Christopher Rungkat,R,170,INA,26.392881588,200164,,Q,Jonathan Gray,U,,GBR,19.1594798084,7-5 3-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,534,61,1398,4
 2016-M-FU-HKG-01A-2016,Hong Kong F1,Hard,32,S,20160606,19,105946,3,,Liang Chi Huang,R,,TPE,24.2464065708,106319,,,Yuqing Ning,R,,CHN,22.0780287474,6-3 5-7 6-3,3,R16,,,,,,,,,,,,,,,,,,,,404,109,1051,11
 2016-M-FU-HKG-01A-2016,Hong Kong F1,Hard,32,S,20160606,20,124049,,,Daniel Nolan,U,,AUS,19.2361396304,138845,,Q,Anthony Jackie Tang,U,,HKG,17.5277207392,2-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,884,18,,
 2016-M-FU-HKG-01A-2016,Hong Kong F1,Hard,32,S,20160606,21,122606,6,,Yecong He,U,,CHN,22.3052703628,105812,,,David Agung Susanto,U,,INA,24.8788501027,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,523,64,1006,12
 2016-M-FU-HKG-01A-2016,Hong Kong F1,Hard,32,S,20160606,22,132124,,Q,Aaron Addison,R,,AUS,20.5667351129,105579,,,Kittipong Wachiramanowong,R,183,THA,25.9493497604,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1080,10,833,21
 2016-M-FU-HKG-01A-2016,Hong Kong F1,Hard,32,S,20160606,23,134120,,,Kuan Yi Lee,R,,TPE,19.7399041752,108761,5,,Mikelis Libietis,U,188,LAT,23.909650924,7-6(5) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,710,35,472,79
 2016-M-FU-HKG-01A-2016,Hong Kong F1,Hard,32,S,20160606,24,106396,,,Cheng Yu Yu,R,,TPE,21.1800136893,105595,2,,Dayne Kelly,U,,AUS,25.8726899384,7-6(7) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,842,21,368,123
-2016-M-FU-HKG-01A-2016,Hong Kong F1,Hard,32,S,20160606,25,106225,1,,Andrew Whittington,R,,AUS,22.8199863107,105464,7,,Christopher Rungkat,R,1.7,INA,26.392881588,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,284,176,534,61
+2016-M-FU-HKG-01A-2016,Hong Kong F1,Hard,32,S,20160606,25,106225,1,,Andrew Whittington,R,,AUS,22.8199863107,105464,7,,Christopher Rungkat,R,170,INA,26.392881588,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,284,176,534,61
 2016-M-FU-HKG-01A-2016,Hong Kong F1,Hard,32,S,20160606,26,105946,3,,Liang Chi Huang,R,,TPE,24.2464065708,124049,,,Daniel Nolan,U,,AUS,19.2361396304,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,404,109,884,18
 2016-M-FU-HKG-01A-2016,Hong Kong F1,Hard,32,S,20160606,27,122606,6,,Yecong He,U,,CHN,22.3052703628,132124,,Q,Aaron Addison,R,,AUS,20.5667351129,7-6(3) 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,523,64,1080,10
 2016-M-FU-HKG-01A-2016,Hong Kong F1,Hard,32,S,20160606,28,106396,,,Cheng Yu Yu,R,,TPE,21.1800136893,134120,,,Kuan Yi Lee,R,,TPE,19.7399041752,7-6(2) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,842,21,710,35
@@ -7255,7 +7255,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-ISR-10A-2016,Israel F10,Hard,32,S,20160606,9,127326,6,,Ben Patael,U,,ISR,19.0116358658,122591,,,Ram Kapach,U,,ISR,19.3538672142,6-3 4-6 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,821,23,1106,9
 2016-M-FU-ISR-10A-2016,Israel F10,Hard,32,S,20160606,10,106424,,,Tal Goldengoren,U,,ISR,20.1396303901,200377,,WC,Omer Yeshaya,U,,ISR,17.0622861054,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,958,15,,
 2016-M-FU-ISR-10A-2016,Israel F10,Hard,32,S,20160606,11,122550,,WC,Mor Bulis,U,,ISR,20.1341546886,126432,,,Yankel Zemel,L,,ISR,17.7796030116,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1109,9,1102,9
-2016-M-FU-ISR-10A-2016,Israel F10,Hard,32,S,20160606,12,122548,4,,Edan Leshem,U,1.83,ISR,19.2169746749,200355,,Q,Amit Gabreal,U,,ISR,16.720054757,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,573,55,,
+2016-M-FU-ISR-10A-2016,Israel F10,Hard,32,S,20160606,12,122548,4,,Edan Leshem,U,183,ISR,19.2169746749,200355,,Q,Amit Gabreal,U,,ISR,16.720054757,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,573,55,,
 2016-M-FU-ISR-10A-2016,Israel F10,Hard,32,S,20160606,13,106406,,,Alon Elia,U,,ISR,20.9856262834,106143,5,,Dekel Bar,R,,ISR,23.227926078,7-6(7) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,939,16,776,28
 2016-M-FU-ISR-10A-2016,Israel F10,Hard,32,S,20160606,14,126098,,,Collin Johns,U,,USA,22.9760438056,105186,,,Guy Michelevitz,U,,ISR,27.871321013,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1114,9,1304,5
 2016-M-FU-ISR-10A-2016,Israel F10,Hard,32,S,20160606,15,131951,,,Daniel Cukierman,U,,ISR,20.9117043121,131964,,,Daniel Dudockin,U,,ISR,19.2881587953,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,906,17,1384,4
@@ -7265,16 +7265,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-ISR-10A-2016,Israel F10,Hard,32,S,20160606,19,106299,3,,Bar Tzuf Botzer,R,,ISR,22.264202601,106395,,Q,Igor Smilansky,R,,ISR,21.1991786448,6-4 0-6 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,525,63,1985,1
 2016-M-FU-ISR-10A-2016,Israel F10,Hard,32,S,20160606,20,111436,8,,Nick Chappell,L,,USA,23.7125256674,106217,,Q,Daniel Skripnik,R,,ISR,22.8802190281,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,823,23,,
 2016-M-FU-ISR-10A-2016,Israel F10,Hard,32,S,20160606,21,106424,,,Tal Goldengoren,U,,ISR,20.1396303901,127326,6,,Ben Patael,U,,ISR,19.0116358658,6-1 5-7 6-2,3,R16,,,,,,,,,,,,,,,,,,,,958,15,821,23
-2016-M-FU-ISR-10A-2016,Israel F10,Hard,32,S,20160606,22,122548,4,,Edan Leshem,U,1.83,ISR,19.2169746749,122550,,WC,Mor Bulis,U,,ISR,20.1341546886,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,573,55,1109,9
+2016-M-FU-ISR-10A-2016,Israel F10,Hard,32,S,20160606,22,122548,4,,Edan Leshem,U,183,ISR,19.2169746749,122550,,WC,Mor Bulis,U,,ISR,20.1341546886,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,573,55,1109,9
 2016-M-FU-ISR-10A-2016,Israel F10,Hard,32,S,20160606,23,126098,,,Collin Johns,U,,USA,22.9760438056,106406,,,Alon Elia,U,,ISR,20.9856262834,6-1 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1114,9,939,16
 2016-M-FU-ISR-10A-2016,Israel F10,Hard,32,S,20160606,24,131951,,,Daniel Cukierman,U,,ISR,20.9117043121,105938,2,,Antoine Escoffier,U,,FRA,24.2683093771,7-6(5) 3-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,906,17,412,106
 2016-M-FU-ISR-10A-2016,Israel F10,Hard,32,S,20160606,25,110727,7,,Jarryd Chaplin,R,,AUS,24.1478439425,105909,1,,Sam Barry,R,,IRL,24.3586584531,6-2 5-7 6-3,3,QF,,,,,,,,,,,,,,,,,,,,974,14,270,185
 2016-M-FU-ISR-10A-2016,Israel F10,Hard,32,S,20160606,26,111436,8,,Nick Chappell,L,,USA,23.7125256674,106299,3,,Bar Tzuf Botzer,R,,ISR,22.264202601,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,823,23,525,63
-2016-M-FU-ISR-10A-2016,Israel F10,Hard,32,S,20160606,27,122548,4,,Edan Leshem,U,1.83,ISR,19.2169746749,106424,,,Tal Goldengoren,U,,ISR,20.1396303901,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,573,55,958,15
+2016-M-FU-ISR-10A-2016,Israel F10,Hard,32,S,20160606,27,122548,4,,Edan Leshem,U,183,ISR,19.2169746749,106424,,,Tal Goldengoren,U,,ISR,20.1396303901,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,573,55,958,15
 2016-M-FU-ISR-10A-2016,Israel F10,Hard,32,S,20160606,28,131951,,,Daniel Cukierman,U,,ISR,20.9117043121,126098,,,Collin Johns,U,,USA,22.9760438056,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,906,17,1114,9
 2016-M-FU-ISR-10A-2016,Israel F10,Hard,32,S,20160606,29,111436,8,,Nick Chappell,L,,USA,23.7125256674,110727,7,,Jarryd Chaplin,R,,AUS,24.1478439425,5-7 6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,823,23,974,14
-2016-M-FU-ISR-10A-2016,Israel F10,Hard,32,S,20160606,30,122548,4,,Edan Leshem,U,1.83,ISR,19.2169746749,131951,,,Daniel Cukierman,U,,ISR,20.9117043121,6-2 6-1,3,SF,,,,,,,,,,,,,,,,,,,,573,55,906,17
-2016-M-FU-ISR-10A-2016,Israel F10,Hard,32,S,20160606,31,122548,4,,Edan Leshem,U,1.83,ISR,19.2169746749,111436,8,,Nick Chappell,L,,USA,23.7125256674,6-2 6-1,3,F,,,,,,,,,,,,,,,,,,,,573,55,823,23
+2016-M-FU-ISR-10A-2016,Israel F10,Hard,32,S,20160606,30,122548,4,,Edan Leshem,U,183,ISR,19.2169746749,131951,,,Daniel Cukierman,U,,ISR,20.9117043121,6-2 6-1,3,SF,,,,,,,,,,,,,,,,,,,,573,55,906,17
+2016-M-FU-ISR-10A-2016,Israel F10,Hard,32,S,20160606,31,122548,4,,Edan Leshem,U,183,ISR,19.2169746749,111436,8,,Nick Chappell,L,,USA,23.7125256674,6-2 6-1,3,F,,,,,,,,,,,,,,,,,,,,573,55,823,23
 2016-M-FU-ITA-14A-2016,Italy F14,Clay,32,S,20160606,1,105965,1,,Gavin Van Peperzeel,R,,AUS,24.1889117043,106132,,Q,Toby Martin,R,,GBR,23.2936344969,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,331,143,911,17
 2016-M-FU-ITA-14A-2016,Italy F14,Clay,32,S,20160606,2,126197,,JE,Orlando Luz,R,,BRA,18.3244353183,200134,,Q,Jonata Vitari,U,,ITA,37.9767282683,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,668,39,1747,1
 2016-M-FU-ITA-14A-2016,Italy F14,Clay,32,S,20160606,3,105494,,,Adelchi Virgili,U,,ITA,26.2422997947,126450,,Q,Nicolo Turchetti,R,,ITA,20.0219028063,6-4 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,718,34,1519,3
@@ -7624,7 +7624,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-HKG-02A-2016,Hong Kong F2,Hard,32,S,20160613,6,105142,,,Arata Onozawa,U,,JPN,28.1259411362,144696,,Q,Zihao Xia,U,,CHN,19.3675564682,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,635,42,1503,3
 2016-M-FU-HKG-02A-2016,Hong Kong F2,Hard,32,S,20160613,7,105812,,WC,David Agung Susanto,U,,INA,24.8980150582,106319,,,Yuqing Ning,R,,CHN,22.0971937029,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,998,12,1075,10
 2016-M-FU-HKG-02A-2016,Hong Kong F2,Hard,32,S,20160613,8,122606,5,,Yecong He,U,,CHN,22.3244353183,106397,,LL,Wishaya Trongcharoenchaikul,R,,THA,21.18275154,6-3 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,522,65,1036,11
-2016-M-FU-HKG-02A-2016,Hong Kong F2,Hard,32,S,20160613,9,105464,6,,Christopher Rungkat,R,1.7,INA,26.4120465435,200080,,,Puriwat Chatpatcharoen,U,,THA,20.8624229979,4-6 6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,507,69,822,22
+2016-M-FU-HKG-02A-2016,Hong Kong F2,Hard,32,S,20160613,9,105464,6,,Christopher Rungkat,R,170,INA,26.4120465435,200080,,,Puriwat Chatpatcharoen,U,,THA,20.8624229979,4-6 6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,507,69,822,22
 2016-M-FU-HKG-02A-2016,Hong Kong F2,Hard,32,S,20160613,10,134120,,,Kuan Yi Lee,R,,TPE,19.7590691307,106274,,Q,Zhaoyi Cao,R,,CHN,22.5215605749,5-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,688,37,1087,9
 2016-M-FU-HKG-02A-2016,Hong Kong F2,Hard,32,S,20160613,11,105006,,,Chu Huan Yi,L,,TPE,28.7857631759,105670,,,Karunuday Singh,R,,IND,25.5660506502,7-6(4) 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,826,21,1203,6
 2016-M-FU-HKG-02A-2016,Hong Kong F2,Hard,32,S,20160613,12,124049,,Q,Daniel Nolan,U,,AUS,19.2553045859,105072,3,,Sanam Singh,R,173,IND,28.4216290212,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,878,18,400,111
@@ -7636,13 +7636,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-HKG-02A-2016,Hong Kong F2,Hard,32,S,20160613,18,105934,7,,Chuhan Wang,R,188,CHN,24.3011635866,117359,,Q,Jake Delaney,U,,AUS,19.0828199863,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,582,52,1171,7
 2016-M-FU-HKG-02A-2016,Hong Kong F2,Hard,32,S,20160613,19,108761,4,,Mikelis Libietis,U,188,LAT,23.9288158795,105142,,,Arata Onozawa,U,,JPN,28.1259411362,6-4 7-6(8),3,R16,,,,,,,,,,,,,,,,,,,,470,79,635,42
 2016-M-FU-HKG-02A-2016,Hong Kong F2,Hard,32,S,20160613,20,122606,5,,Yecong He,U,,CHN,22.3244353183,105812,,WC,David Agung Susanto,U,,INA,24.8980150582,6-2 3-6 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,522,65,998,12
-2016-M-FU-HKG-02A-2016,Hong Kong F2,Hard,32,S,20160613,21,105464,6,,Christopher Rungkat,R,1.7,INA,26.4120465435,134120,,,Kuan Yi Lee,R,,TPE,19.7590691307,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,507,69,688,37
+2016-M-FU-HKG-02A-2016,Hong Kong F2,Hard,32,S,20160613,21,105464,6,,Christopher Rungkat,R,170,INA,26.4120465435,134120,,,Kuan Yi Lee,R,,TPE,19.7590691307,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,507,69,688,37
 2016-M-FU-HKG-02A-2016,Hong Kong F2,Hard,32,S,20160613,22,124049,,Q,Daniel Nolan,U,,AUS,19.2553045859,105006,,,Chu Huan Yi,L,,TPE,28.7857631759,7-5 RET,3,R16,,,,,,,,,,,,,,,,,,,,878,18,826,21
 2016-M-FU-HKG-02A-2016,Hong Kong F2,Hard,32,S,20160613,23,106321,,,Xin Gao,U,,CHN,22.0889801506,105999,8,,Bowen Ouyang,L,,CHN,24.0684462697,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,642,42,628,44
 2016-M-FU-HKG-02A-2016,Hong Kong F2,Hard,32,S,20160613,24,105595,2,,Dayne Kelly,U,,AUS,25.8918548939,106011,,,Sami Reinwein,U,,GER,24.0410677618,7-6(4) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,372,123,792,25
 2016-M-FU-HKG-02A-2016,Hong Kong F2,Hard,32,S,20160613,25,106225,1,,Andrew Whittington,R,,AUS,22.8391512663,105934,7,,Chuhan Wang,R,188,CHN,24.3011635866,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,282,177,582,52
 2016-M-FU-HKG-02A-2016,Hong Kong F2,Hard,32,S,20160613,26,122606,5,,Yecong He,U,,CHN,22.3244353183,108761,4,,Mikelis Libietis,U,188,LAT,23.9288158795,7-6(3) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,522,65,470,79
-2016-M-FU-HKG-02A-2016,Hong Kong F2,Hard,32,S,20160613,27,124049,,Q,Daniel Nolan,U,,AUS,19.2553045859,105464,6,,Christopher Rungkat,R,1.7,INA,26.4120465435,6-7(3) 6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,878,18,507,69
+2016-M-FU-HKG-02A-2016,Hong Kong F2,Hard,32,S,20160613,27,124049,,Q,Daniel Nolan,U,,AUS,19.2553045859,105464,6,,Christopher Rungkat,R,170,INA,26.4120465435,6-7(3) 6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,878,18,507,69
 2016-M-FU-HKG-02A-2016,Hong Kong F2,Hard,32,S,20160613,28,106321,,,Xin Gao,U,,CHN,22.0889801506,105595,2,,Dayne Kelly,U,,AUS,25.8918548939,1-6 6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,642,42,372,123
 2016-M-FU-HKG-02A-2016,Hong Kong F2,Hard,32,S,20160613,29,106225,1,,Andrew Whittington,R,,AUS,22.8391512663,122606,5,,Yecong He,U,,CHN,22.3244353183,6-0 6-3,3,SF,,,,,,,,,,,,,,,,,,,,282,177,522,65
 2016-M-FU-HKG-02A-2016,Hong Kong F2,Hard,32,S,20160613,30,124049,,Q,Daniel Nolan,U,,AUS,19.2553045859,106321,,,Xin Gao,U,,CHN,22.0889801506,6-2 4-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,878,18,642,42
@@ -8027,7 +8027,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-CAN-03A-2016,Canada F3,Hard,32,S,20160620,6,133354,,WC,Harrison Scott,U,,CAN,19.2744695414,122346,,Q,Riaan Du Toit,R,,CAN,22.1820670773,6-1 2-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1592,2,2145,1
 2016-M-FU-CAN-03A-2016,Canada F3,Hard,32,S,20160620,7,107192,,WC,Henry Choi,U,,CAN,35.4277891855,110727,,,Jarryd Chaplin,R,,AUS,24.1861738535,7-6(2) 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,1834,1,824,21
 2016-M-FU-CAN-03A-2016,Canada F3,Hard,32,S,20160620,8,106290,6,,Filip Peliwo,R,180,CAN,22.3874058864,127466,,Q,Conor Berg,U,,USA,24.8432580424,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,425,97,1315,4
-2016-M-FU-CAN-03A-2016,Canada F3,Hard,32,S,20160620,9,122548,8,,Edan Leshem,U,1.83,ISR,19.2553045859,132088,,,Nicholas Alexander Reyes,R,,USA,21.4236824093,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,440,91,1501,3
+2016-M-FU-CAN-03A-2016,Canada F3,Hard,32,S,20160620,9,122548,8,,Edan Leshem,U,183,ISR,19.2553045859,132088,,,Nicholas Alexander Reyes,R,,USA,21.4236824093,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,440,91,1501,3
 2016-M-FU-CAN-03A-2016,Canada F3,Hard,32,S,20160620,10,106031,,,Raymond Sarmiento,R,,USA,23.9069130732,126388,,Q,Raheel Manji,R,,CAN,19.0691307324,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,561,57,,
 2016-M-FU-CAN-03A-2016,Canada F3,Hard,32,S,20160620,11,108767,,,Gonzales Austin,L,,HAI,23.6221765914,121581,,,Lakshit Sood,R,,IND,25.3305954825,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,655,40,2156,1
 2016-M-FU-CAN-03A-2016,Canada F3,Hard,32,S,20160620,12,106300,,,Fares Ghasya,U,,LBA,22.2997946612,106425,3,,Blake Mott,U,,AUS,20.1642710472,6-4 2-6 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,912,16,359,127
@@ -8039,7 +8039,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-CAN-03A-2016,Canada F3,Hard,32,S,20160620,18,106335,,,Alexios Halebian,L,,USA,22.0342231348,105447,7,,Dennis Nevolo,R,,USA,26.4941820671,6-3 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,539,61,439,92
 2016-M-FU-CAN-03A-2016,Canada F3,Hard,32,S,20160620,19,110686,4,,Finn Tearney,R,183,NZL,25.7303216975,133354,,WC,Harrison Scott,U,,CAN,19.2744695414,W/O,3,R16,,,,,,,,,,,,,,,,,,,,363,126,1592,2
 2016-M-FU-CAN-03A-2016,Canada F3,Hard,32,S,20160620,20,106290,6,,Filip Peliwo,R,180,CAN,22.3874058864,107192,,WC,Henry Choi,U,,CAN,35.4277891855,6-3 4-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,425,97,1834,1
-2016-M-FU-CAN-03A-2016,Canada F3,Hard,32,S,20160620,21,106031,,,Raymond Sarmiento,R,,USA,23.9069130732,122548,8,,Edan Leshem,U,1.83,ISR,19.2553045859,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,561,57,440,91
+2016-M-FU-CAN-03A-2016,Canada F3,Hard,32,S,20160620,21,106031,,,Raymond Sarmiento,R,,USA,23.9069130732,122548,8,,Edan Leshem,U,183,ISR,19.2553045859,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,561,57,440,91
 2016-M-FU-CAN-03A-2016,Canada F3,Hard,32,S,20160620,22,106300,,,Fares Ghasya,U,,LBA,22.2997946612,108767,,,Gonzales Austin,L,,HAI,23.6221765914,4-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,912,16,655,40
 2016-M-FU-CAN-03A-2016,Canada F3,Hard,32,S,20160620,23,105166,5,,Peter Polansky,R,180,CAN,28.0136892539,200008,,Q,Alexis Galarneau,R,,CAN,17.3032169747,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,356,129,,
 2016-M-FU-CAN-03A-2016,Canada F3,Hard,32,S,20160620,24,105229,2,,Philip Bester,R,188,CAN,27.704312115,134281,,Q,Michael Genender,L,,USA,19.2717316906,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,313,151,,
@@ -8585,7 +8585,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-CAN-04A-2016,Canada F4,Hard,32,S,20160627,6,200234,,WC,Joshua Peck,U,,CAN,17.5468856947,110727,,,Jarryd Chaplin,R,,AUS,24.205338809,7-6(5) 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,1641,2,827,21
 2016-M-FU-CAN-04A-2016,Canada F4,Hard,32,S,20160627,7,126388,,Q,Raheel Manji,R,,CAN,19.0882956879,126565,,Q,Andrew Korinek,U,,USA,22.7843942505,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2016-M-FU-CAN-04A-2016,Canada F4,Hard,32,S,20160627,8,106156,8,,Sebastien Boltz,R,,FRA,23.227926078,138970,,Q,Spencer Furman,U,,USA,18.8528405202,7-6(2) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,464,82,,
-2016-M-FU-CAN-04A-2016,Canada F4,Hard,32,S,20160627,9,122548,,,Edan Leshem,U,1.83,ISR,19.2744695414,110686,6,,Finn Tearney,R,183,NZL,25.749486653,6-4 3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,454,85,361,126
+2016-M-FU-CAN-04A-2016,Canada F4,Hard,32,S,20160627,9,122548,,,Edan Leshem,U,183,ISR,19.2744695414,110686,6,,Finn Tearney,R,183,NZL,25.749486653,6-4 3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,454,85,361,126
 2016-M-FU-CAN-04A-2016,Canada F4,Hard,32,S,20160627,10,106335,,,Alexios Halebian,L,,USA,22.0533880903,200010,,WC,Victor Krustev,R,,CAN,17.401779603,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,544,60,,
 2016-M-FU-CAN-04A-2016,Canada F4,Hard,32,S,20160627,11,106300,,,Fares Ghasya,U,,LBA,22.3189596167,127466,,Q,Conor Berg,U,,USA,24.8624229979,7-6(2) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,869,18,1310,4
 2016-M-FU-CAN-04A-2016,Canada F4,Hard,32,S,20160627,12,105166,4,,Peter Polansky,R,180,CAN,28.0328542094,105286,,,Greg Jones,R,190,AUS,27.4031485284,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,341,137,680,37
@@ -8597,7 +8597,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-CAN-04A-2016,Canada F4,Hard,32,S,20160627,18,122346,,Q,Riaan Du Toit,R,,CAN,22.2012320329,106290,7,,Filip Peliwo,R,180,CAN,22.4065708419,4-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,2141,1,422,97
 2016-M-FU-CAN-04A-2016,Canada F4,Hard,32,S,20160627,19,105229,3,,Philip Bester,R,188,CAN,27.7234770705,200234,,WC,Joshua Peck,U,,CAN,17.5468856947,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,311,151,1641,2
 2016-M-FU-CAN-04A-2016,Canada F4,Hard,32,S,20160627,20,106156,8,,Sebastien Boltz,R,,FRA,23.227926078,126388,,Q,Raheel Manji,R,,CAN,19.0882956879,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,464,82,,
-2016-M-FU-CAN-04A-2016,Canada F4,Hard,32,S,20160627,21,106335,,,Alexios Halebian,L,,USA,22.0533880903,122548,,,Edan Leshem,U,1.83,ISR,19.2744695414,6-1 3-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,544,60,454,85
+2016-M-FU-CAN-04A-2016,Canada F4,Hard,32,S,20160627,21,106335,,,Alexios Halebian,L,,USA,22.0533880903,122548,,,Edan Leshem,U,183,ISR,19.2744695414,6-1 3-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,544,60,454,85
 2016-M-FU-CAN-04A-2016,Canada F4,Hard,32,S,20160627,22,105166,4,,Peter Polansky,R,180,CAN,28.0328542094,106300,,,Fares Ghasya,U,,LBA,22.3189596167,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,341,137,869,18
 2016-M-FU-CAN-04A-2016,Canada F4,Hard,32,S,20160627,23,106425,5,,Blake Mott,U,,AUS,20.1834360027,111765,,,Evan Song,U,,USA,24.0547570157,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,357,127,740,30
 2016-M-FU-CAN-04A-2016,Canada F4,Hard,32,S,20160627,24,105359,2,,Jason Jung,R,,TPE,27.0335386721,200008,,WC,Alexis Galarneau,R,,CAN,17.3223819302,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,289,170,,
@@ -8611,7 +8611,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-CHN-10A-2016,China F10,Hard,32,S,20160627,1,105842,1,WC,Di Wu,R,175,CHN,24.7857631759,126322,,WC,Zhao Tai Li,U,,CHN,22.288843258,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,158,342,,
 2016-M-FU-CHN-10A-2016,China F10,Hard,32,S,20160627,2,110763,,,Aoxiong Wang,R,,CHN,21.1362080767,106397,,,Wishaya Trongcharoenchaikul,R,,THA,21.2210814511,7-5 RET,3,R32,,,,,,,,,,,,,,,,,,,,1044,10,1022,11
 2016-M-FU-CHN-10A-2016,China F10,Hard,32,S,20160627,3,133071,,,Xi Qi,U,,CHN,19.8822724162,133684,,Q,Hao Wu,U,,CHN,19.3648186174,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1372,4,2029,1
-2016-M-FU-CHN-10A-2016,China F10,Hard,32,S,20160627,4,105464,6,,Christopher Rungkat,R,1.7,INA,26.4503764545,126165,,,Aoran Wang,R,,CHN,19.3894592745,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,504,70,1701,2
+2016-M-FU-CHN-10A-2016,China F10,Hard,32,S,20160627,4,105464,6,,Christopher Rungkat,R,170,INA,26.4503764545,126165,,,Aoran Wang,R,,CHN,19.3894592745,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,504,70,1701,2
 2016-M-FU-CHN-10A-2016,China F10,Hard,32,S,20160627,5,104810,4,,Zhe Li,R,185,CHN,29.7686516085,202165,,Q,Alberto Lim,R,,PHI,17.1115674196,5-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,246,214,,
 2016-M-FU-CHN-10A-2016,China F10,Hard,32,S,20160627,6,106319,,Q,Yuqing Ning,R,,CHN,22.135523614,126556,,,Wei De Lin,U,,TPE,20.3915126626,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1087,9,1367,4
 2016-M-FU-CHN-10A-2016,China F10,Hard,32,S,20160627,7,144696,,Q,Zihao Xia,U,,CHN,19.4058863792,128070,,WC,Jiaqi Duan,U,,CHN,20.8021902806,6-2 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1495,3,,
@@ -8625,14 +8625,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-CHN-10A-2016,China F10,Hard,32,S,20160627,15,111806,,,Fajing Sun,U,,CHN,19.7316906229,202166,,Q,Ang Ji,U,,CHN,19.318275154,7-6(1) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,889,17,,
 2016-M-FU-CHN-10A-2016,China F10,Hard,32,S,20160627,16,117353,2,,Duck Hee Lee,R,175,KOR,18.0807665982,105670,,,Karunuday Singh,R,,IND,25.6043805613,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,201,264,1184,6
 2016-M-FU-CHN-10A-2016,China F10,Hard,32,S,20160627,17,105842,1,WC,Di Wu,R,175,CHN,24.7857631759,110763,,,Aoxiong Wang,R,,CHN,21.1362080767,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,158,342,1044,10
-2016-M-FU-CHN-10A-2016,China F10,Hard,32,S,20160627,18,105464,6,,Christopher Rungkat,R,1.7,INA,26.4503764545,133071,,,Xi Qi,U,,CHN,19.8822724162,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,504,70,1372,4
+2016-M-FU-CHN-10A-2016,China F10,Hard,32,S,20160627,18,105464,6,,Christopher Rungkat,R,170,INA,26.4503764545,133071,,,Xi Qi,U,,CHN,19.8822724162,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,504,70,1372,4
 2016-M-FU-CHN-10A-2016,China F10,Hard,32,S,20160627,19,104810,4,,Zhe Li,R,185,CHN,29.7686516085,106319,,Q,Yuqing Ning,R,,CHN,22.135523614,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,246,214,1087,9
 2016-M-FU-CHN-10A-2016,China F10,Hard,32,S,20160627,20,105823,8,,Masato Shiga,U,,JPN,24.887063655,144696,,Q,Zihao Xia,U,,CHN,19.4058863792,3-6 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,661,39,1495,3
 2016-M-FU-CHN-10A-2016,China F10,Hard,32,S,20160627,21,109331,,,Xiao Gong,U,,CHN,24.476386037,111800,,,Weiqiang Zheng,U,,CHN,20.0136892539,6-3 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1003,11,,
 2016-M-FU-CHN-10A-2016,China F10,Hard,32,S,20160627,22,105339,3,WC,Yan Bai,R,,CHN,27.1019849418,144751,,,Rigele Te,U,,CHN,18.7159479808,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,233,226,969,13
 2016-M-FU-CHN-10A-2016,China F10,Hard,32,S,20160627,23,122606,5,,Yecong He,U,,CHN,22.3627652293,127187,,Q,Chien Hsun Lo,U,,TPE,17.6153319644,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,492,73,,
 2016-M-FU-CHN-10A-2016,China F10,Hard,32,S,20160627,24,117353,2,,Duck Hee Lee,R,175,KOR,18.0807665982,111806,,,Fajing Sun,U,,CHN,19.7316906229,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,201,264,889,17
-2016-M-FU-CHN-10A-2016,China F10,Hard,32,S,20160627,25,105842,1,WC,Di Wu,R,175,CHN,24.7857631759,105464,6,,Christopher Rungkat,R,1.7,INA,26.4503764545,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,158,342,504,70
+2016-M-FU-CHN-10A-2016,China F10,Hard,32,S,20160627,25,105842,1,WC,Di Wu,R,175,CHN,24.7857631759,105464,6,,Christopher Rungkat,R,170,INA,26.4503764545,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,158,342,504,70
 2016-M-FU-CHN-10A-2016,China F10,Hard,32,S,20160627,26,104810,4,,Zhe Li,R,185,CHN,29.7686516085,105823,8,,Masato Shiga,U,,JPN,24.887063655,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,246,214,661,39
 2016-M-FU-CHN-10A-2016,China F10,Hard,32,S,20160627,27,105339,3,WC,Yan Bai,R,,CHN,27.1019849418,109331,,,Xiao Gong,U,,CHN,24.476386037,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,233,226,1003,11
 2016-M-FU-CHN-10A-2016,China F10,Hard,32,S,20160627,28,117353,2,,Duck Hee Lee,R,175,KOR,18.0807665982,122606,5,,Yecong He,U,,CHN,22.3627652293,W/O,3,QF,,,,,,,,,,,,,,,,,,,,201,264,492,73
@@ -9239,7 +9239,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-CAN-05A-2016,Canada F5,Hard,32,S,20160704,9,106335,6,,Alexios Halebian,L,,USA,22.0533880903,202153,,Q,Sid Donarski,R,,CAN,18.5708418891,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,544,60,,
 2016-M-FU-CAN-05A-2016,Canada F5,Hard,32,S,20160704,10,123743,,,Kevin Kylar,R,,CAN,21.7522245038,109490,,Q,Andrew Dottino,U,,USA,26.945927447,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1614,2,,
 2016-M-FU-CAN-05A-2016,Canada F5,Hard,32,S,20160704,11,111208,,,Tim Kopinski,U,,USA,23.0691307324,133450,,,David Volfson,R,,CAN,18.7843942505,1-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1284,5,1199,6
-2016-M-FU-CAN-05A-2016,Canada F5,Hard,32,S,20160704,12,122548,4,,Edan Leshem,U,1.83,ISR,19.2744695414,105518,,,Patrick Davidson,U,,USA,26.2176591376,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,454,85,,
+2016-M-FU-CAN-05A-2016,Canada F5,Hard,32,S,20160704,12,122548,4,,Edan Leshem,U,183,ISR,19.2744695414,105518,,,Patrick Davidson,U,,USA,26.2176591376,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,454,85,,
 2016-M-FU-CAN-05A-2016,Canada F5,Hard,32,S,20160704,13,106156,5,,Sebastien Boltz,R,,FRA,23.227926078,200368,,WC,Jack Mingjie Lin,R,,CAN,17.2019164956,4-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,464,82,,
 2016-M-FU-CAN-05A-2016,Canada F5,Hard,32,S,20160704,14,111765,,,Evan Song,U,,USA,24.0547570157,131951,,,Daniel Cukierman,U,,ISR,20.9691991786,6-4 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,740,30,856,19
 2016-M-FU-CAN-05A-2016,Canada F5,Hard,32,S,20160704,15,126565,,Q,Andrew Korinek,U,,USA,22.7843942505,127066,,Q,Washi Gervais,U,,CAN,22.1848049281,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -9249,15 +9249,15 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-CAN-05A-2016,Canada F5,Hard,32,S,20160704,19,106425,3,,Blake Mott,U,,AUS,20.1834360027,126092,,,Dennis Uspensky,U,,USA,19.6796714579,6-1 4-6 7-6(1),3,R16,,,,,,,,,,,,,,,,,,,,357,127,1317,4
 2016-M-FU-CAN-05A-2016,Canada F5,Hard,32,S,20160704,20,121890,,Q,Matthew Brooklyn,U,,GBR,28.8733744011,200234,,,Joshua Peck,U,,CAN,17.5468856947,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,,,1641,2
 2016-M-FU-CAN-05A-2016,Canada F5,Hard,32,S,20160704,21,106335,6,,Alexios Halebian,L,,USA,22.0533880903,123743,,,Kevin Kylar,R,,CAN,21.7522245038,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,544,60,1614,2
-2016-M-FU-CAN-05A-2016,Canada F5,Hard,32,S,20160704,22,122548,4,,Edan Leshem,U,1.83,ISR,19.2744695414,111208,,,Tim Kopinski,U,,USA,23.0691307324,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,454,85,1284,5
+2016-M-FU-CAN-05A-2016,Canada F5,Hard,32,S,20160704,22,122548,4,,Edan Leshem,U,183,ISR,19.2744695414,111208,,,Tim Kopinski,U,,USA,23.0691307324,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,454,85,1284,5
 2016-M-FU-CAN-05A-2016,Canada F5,Hard,32,S,20160704,23,106156,5,,Sebastien Boltz,R,,FRA,23.227926078,111765,,,Evan Song,U,,USA,24.0547570157,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,464,82,740,30
 2016-M-FU-CAN-05A-2016,Canada F5,Hard,32,S,20160704,24,105166,2,,Peter Polansky,R,180,CAN,28.0328542094,126565,,Q,Andrew Korinek,U,,USA,22.7843942505,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,341,137,,
 2016-M-FU-CAN-05A-2016,Canada F5,Hard,32,S,20160704,25,105229,1,,Philip Bester,R,188,CAN,27.7234770705,111790,7,,Brayden Schnur,R,,CAN,20.9828884326,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,311,151,629,42
 2016-M-FU-CAN-05A-2016,Canada F5,Hard,32,S,20160704,26,106425,3,,Blake Mott,U,,AUS,20.1834360027,121890,,Q,Matthew Brooklyn,U,,GBR,28.8733744011,6-2 7-6(6),3,QF,,,,,,,,,,,,,,,,,,,,357,127,,
-2016-M-FU-CAN-05A-2016,Canada F5,Hard,32,S,20160704,27,122548,4,,Edan Leshem,U,1.83,ISR,19.2744695414,106335,6,,Alexios Halebian,L,,USA,22.0533880903,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,454,85,544,60
+2016-M-FU-CAN-05A-2016,Canada F5,Hard,32,S,20160704,27,122548,4,,Edan Leshem,U,183,ISR,19.2744695414,106335,6,,Alexios Halebian,L,,USA,22.0533880903,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,454,85,544,60
 2016-M-FU-CAN-05A-2016,Canada F5,Hard,32,S,20160704,28,105166,2,,Peter Polansky,R,180,CAN,28.0328542094,106156,5,,Sebastien Boltz,R,,FRA,23.227926078,6-4 6-0,3,QF,,,,,,,,,,,,,,,,,,,,341,137,464,82
 2016-M-FU-CAN-05A-2016,Canada F5,Hard,32,S,20160704,29,105229,1,,Philip Bester,R,188,CAN,27.7234770705,106425,3,,Blake Mott,U,,AUS,20.1834360027,6-4 4-6 6-4,3,SF,,,,,,,,,,,,,,,,,,,,311,151,357,127
-2016-M-FU-CAN-05A-2016,Canada F5,Hard,32,S,20160704,30,105166,2,,Peter Polansky,R,180,CAN,28.0328542094,122548,4,,Edan Leshem,U,1.83,ISR,19.2744695414,6-4 5-7 6-1,3,SF,,,,,,,,,,,,,,,,,,,,341,137,454,85
+2016-M-FU-CAN-05A-2016,Canada F5,Hard,32,S,20160704,30,105166,2,,Peter Polansky,R,180,CAN,28.0328542094,122548,4,,Edan Leshem,U,183,ISR,19.2744695414,6-4 5-7 6-1,3,SF,,,,,,,,,,,,,,,,,,,,341,137,454,85
 2016-M-FU-CAN-05A-2016,Canada F5,Hard,32,S,20160704,31,105229,1,,Philip Bester,R,188,CAN,27.7234770705,105166,2,,Peter Polansky,R,180,CAN,28.0328542094,6-4 4-6 6-4,3,F,,,,,,,,,,,,,,,,,,,,311,151,341,137
 2016-M-FU-CHN-11A-2016,China F11,Clay,32,S,20160704,1,105542,1,,Bastian Trinker,R,,AUT,26.1300479124,126165,,WC,Aoran Wang,R,,CHN,19.3894592745,7-5 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,261,200,1701,2
 2016-M-FU-CHN-11A-2016,China F11,Clay,32,S,20160704,2,127189,,,Li Wie Tan,U,,TPE,20.8158795346,126556,,,Wei De Lin,U,,TPE,20.3915126626,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,2125,1,1367,4
@@ -9936,7 +9936,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-KOR-05A-2016,Korea F5,Hard,32,S,20160711,1,105810,1,,Shuichi Sekiguchi,R,,JPN,24.9911019849,132135,,LL,Ivan Goluza,U,,AUS,21.1197809719,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,381,115,1913,1
 2016-M-FU-KOR-05A-2016,Korea F5,Hard,32,S,20160711,2,104856,,,Min Hyoek Cho,R,,KOR,29.4811772758,111792,,,Young Seok Kim,L,,KOR,21.1663244353,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,572,53,621,44
 2016-M-FU-KOR-05A-2016,Korea F5,Hard,32,S,20160711,3,126845,,,Max Purcell,R,,AUS,18.2724161533,105934,,,Chuhan Wang,R,188,CHN,24.3778234086,6-1 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,764,26,666,38
-2016-M-FU-KOR-05A-2016,Korea F5,Hard,32,S,20160711,4,122548,5,,Edan Leshem,U,1.83,ISR,19.3127994524,106089,,WC,Sang Woo Noh,U,,KOR,23.6249144422,7-6(5) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,454,87,830,20
+2016-M-FU-KOR-05A-2016,Korea F5,Hard,32,S,20160711,4,122548,5,,Edan Leshem,U,183,ISR,19.3127994524,106089,,WC,Sang Woo Noh,U,,KOR,23.6249144422,7-6(5) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,454,87,830,20
 2016-M-FU-KOR-05A-2016,Korea F5,Hard,32,S,20160711,5,200024,4,,Makoto Ochi,L,,JPN,20.1889117043,106074,,,Jung Woong Na,U,,KOR,23.6933607118,6-7(5) 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,451,88,600,47
 2016-M-FU-KOR-05A-2016,Korea F5,Hard,32,S,20160711,6,105621,,,Min Kyu Song,U,,KOR,25.87816564,202154,,WC,Uisung Park,R,,KOR,15.7864476386,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,633,42,,
 2016-M-FU-KOR-05A-2016,Korea F5,Hard,32,S,20160711,7,106206,,Q,Jea Moon Lee,R,,KOR,23.0253251198,200321,,WC,San Hui Sin,U,,KOR,19.3155373032,4-6 6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,2060,1,1429,3
@@ -9950,14 +9950,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-KOR-05A-2016,Korea F5,Hard,32,S,20160711,15,106227,,Q,Ji Sung Nam,R,,KOR,22.9048596851,126208,,,Yusuke Takahashi,R,,JPN,18.7323750856,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,703,33,777,25
 2016-M-FU-KOR-05A-2016,Korea F5,Hard,32,S,20160711,16,104771,2,,Yuuya Kibi,U,,JPN,29.9685147159,122617,,Q,Suraj R Prabodh,R,,IND,21.5058179329,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,377,119,1196,6
 2016-M-FU-KOR-05A-2016,Korea F5,Hard,32,S,20160711,17,104856,,,Min Hyoek Cho,R,,KOR,29.4811772758,105810,1,,Shuichi Sekiguchi,R,,JPN,24.9911019849,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,572,53,381,115
-2016-M-FU-KOR-05A-2016,Korea F5,Hard,32,S,20160711,18,122548,5,,Edan Leshem,U,1.83,ISR,19.3127994524,126845,,,Max Purcell,R,,AUS,18.2724161533,6-4 7-6(1),3,R16,,,,,,,,,,,,,,,,,,,,454,87,764,26
+2016-M-FU-KOR-05A-2016,Korea F5,Hard,32,S,20160711,18,122548,5,,Edan Leshem,U,183,ISR,19.3127994524,126845,,,Max Purcell,R,,AUS,18.2724161533,6-4 7-6(1),3,R16,,,,,,,,,,,,,,,,,,,,454,87,764,26
 2016-M-FU-KOR-05A-2016,Korea F5,Hard,32,S,20160711,19,200024,4,,Makoto Ochi,L,,JPN,20.1889117043,105621,,,Min Kyu Song,U,,KOR,25.87816564,1-6 6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,451,88,633,42
 2016-M-FU-KOR-05A-2016,Korea F5,Hard,32,S,20160711,20,106206,,Q,Jea Moon Lee,R,,KOR,23.0253251198,126414,,Q,Ji Ha Kim,U,,KOR,23.1786447639,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,2060,1,,
 2016-M-FU-KOR-05A-2016,Korea F5,Hard,32,S,20160711,21,105026,8,,Takuto Niki,U,,JPN,28.7474332649,105787,,,Hiroyasu Ehara,R,,JPN,25.0650239562,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,569,54,601,47
 2016-M-FU-KOR-05A-2016,Korea F5,Hard,32,S,20160711,22,126952,3,,Soon Woo Kwon,R,180,KOR,18.6064339493,105552,,,Yusuke Watanuki,R,,JPN,26.1437371663,7-6(4) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,428,93,629,43
 2016-M-FU-KOR-05A-2016,Korea F5,Hard,32,S,20160711,23,126337,,Q,Renta Tokuda,U,,JPN,18.2861054073,105507,6,,Cheong Eui Kim,R,,KOR,26.302532512,4-6 6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1061,9,458,86
 2016-M-FU-KOR-05A-2016,Korea F5,Hard,32,S,20160711,24,104771,2,,Yuuya Kibi,U,,JPN,29.9685147159,106227,,Q,Ji Sung Nam,R,,KOR,22.9048596851,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,377,119,703,33
-2016-M-FU-KOR-05A-2016,Korea F5,Hard,32,S,20160711,25,104856,,,Min Hyoek Cho,R,,KOR,29.4811772758,122548,5,,Edan Leshem,U,1.83,ISR,19.3127994524,3-6 6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,572,53,454,87
+2016-M-FU-KOR-05A-2016,Korea F5,Hard,32,S,20160711,25,104856,,,Min Hyoek Cho,R,,KOR,29.4811772758,122548,5,,Edan Leshem,U,183,ISR,19.3127994524,3-6 6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,572,53,454,87
 2016-M-FU-KOR-05A-2016,Korea F5,Hard,32,S,20160711,26,200024,4,,Makoto Ochi,L,,JPN,20.1889117043,106206,,Q,Jea Moon Lee,R,,KOR,23.0253251198,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,451,88,2060,1
 2016-M-FU-KOR-05A-2016,Korea F5,Hard,32,S,20160711,27,126952,3,,Soon Woo Kwon,R,180,KOR,18.6064339493,105026,8,,Takuto Niki,U,,JPN,28.7474332649,5-7 6-4 7-6(2),3,QF,,,,,,,,,,,,,,,,,,,,428,93,569,54
 2016-M-FU-KOR-05A-2016,Korea F5,Hard,32,S,20160711,28,104771,2,,Yuuya Kibi,U,,JPN,29.9685147159,126337,,Q,Renta Tokuda,U,,JPN,18.2861054073,2-6 6-4 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,377,119,1061,9
@@ -10897,7 +10897,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-VIE-01A-2016,Vietnam F1,Hard,32,S,20160725,1,111805,1,,Seong Chan Hong,R,,KOR,19.0691307324,105579,,,Kittipong Wachiramanowong,R,183,THA,26.083504449,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,439,93,948,14
 2016-M-FU-VIE-01A-2016,Vietnam F1,Hard,32,S,20160725,2,122533,,,Nam Hoang Ly,R,,VIE,19.4113620808,144775,,WC,Linh Giang Trinh,,,VIE,18.9760438056,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,874,18,,
 2016-M-FU-VIE-01A-2016,Vietnam F1,Hard,32,S,20160725,3,106397,,,Wishaya Trongcharoenchaikul,R,,THA,21.2977412731,126327,,WC,Artem Vu,R,,UKR,20.4052019165,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1049,10,,
-2016-M-FU-VIE-01A-2016,Vietnam F1,Hard,32,S,20160725,4,105464,5,,Christopher Rungkat,R,1.7,INA,26.5270362765,106392,,WC,Thien Nguyen Hoang,R,,VIE,21.3716632444,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,611,46,,
+2016-M-FU-VIE-01A-2016,Vietnam F1,Hard,32,S,20160725,4,105464,5,,Christopher Rungkat,R,170,INA,26.5270362765,106392,,WC,Thien Nguyen Hoang,R,,VIE,21.3716632444,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,611,46,,
 2016-M-FU-VIE-01A-2016,Vietnam F1,Hard,32,S,20160725,5,105059,3,,Kento Takeuchi,L,,JPN,28.5995893224,105391,,,Hiromasa Oku,U,,JPN,26.984257358,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,484,77,937,15
 2016-M-FU-VIE-01A-2016,Vietnam F1,Hard,32,S,20160725,6,105403,,Q,Masaki Sasai,U,,JPN,26.9240246407,109331,,,Xiao Gong,U,,CHN,24.553045859,6-2 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1327,4,964,13
 2016-M-FU-VIE-01A-2016,Vietnam F1,Hard,32,S,20160725,7,121004,,Q,Shunrou Takeshima,U,,JPN,25.916495551,121318,,Q,Kazuya Tamura,U,,JPN,26.726899384,6-4 3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,2149,1,1817,1
@@ -10911,14 +10911,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-VIE-01A-2016,Vietnam F1,Hard,32,S,20160725,15,111801,,,Rishab Agarwal,R,,IND,20.6379192334,106149,,Q,Maciej Smola,R,,POL,23.3374401095,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,963,13,1052,10
 2016-M-FU-VIE-01A-2016,Vietnam F1,Hard,32,S,20160725,16,105938,2,,Antoine Escoffier,U,,FRA,24.4024640657,202221,,WC,Hung Minh Huynh,R,,VIE,18.5516769336,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,477,81,,
 2016-M-FU-VIE-01A-2016,Vietnam F1,Hard,32,S,20160725,17,111805,1,,Seong Chan Hong,R,,KOR,19.0691307324,122533,,,Nam Hoang Ly,R,,VIE,19.4113620808,6-2 5-7 6-1,3,R16,,,,,,,,,,,,,,,,,,,,439,93,874,18
-2016-M-FU-VIE-01A-2016,Vietnam F1,Hard,32,S,20160725,18,105464,5,,Christopher Rungkat,R,1.7,INA,26.5270362765,106397,,,Wishaya Trongcharoenchaikul,R,,THA,21.2977412731,7-6(6) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,611,46,1049,10
+2016-M-FU-VIE-01A-2016,Vietnam F1,Hard,32,S,20160725,18,105464,5,,Christopher Rungkat,R,170,INA,26.5270362765,106397,,,Wishaya Trongcharoenchaikul,R,,THA,21.2977412731,7-6(6) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,611,46,1049,10
 2016-M-FU-VIE-01A-2016,Vietnam F1,Hard,32,S,20160725,19,105059,3,,Kento Takeuchi,L,,JPN,28.5995893224,105403,,Q,Masaki Sasai,U,,JPN,26.9240246407,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,484,77,1327,4
 2016-M-FU-VIE-01A-2016,Vietnam F1,Hard,32,S,20160725,20,124154,8,,Sasi Kumar Mukund,R,,IND,19.5263518138,121004,,Q,Shunrou Takeshima,U,,JPN,25.916495551,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,707,33,2149,1
 2016-M-FU-VIE-01A-2016,Vietnam F1,Hard,32,S,20160725,21,122495,6,,Shintaro Imai,U,,JPN,22.8802190281,126208,,,Yusuke Takahashi,R,,JPN,18.7707049966,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,649,41,781,25
 2016-M-FU-VIE-01A-2016,Vietnam F1,Hard,32,S,20160725,22,126337,,,Renta Tokuda,U,,JPN,18.3244353183,105415,4,,Maxime Tabatruong,R,,FRA,26.8336755647,6-4 3-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1020,11,502,72
 2016-M-FU-VIE-01A-2016,Vietnam F1,Hard,32,S,20160725,23,105869,7,,Gengo Kikuchi,U,,JPN,24.7145790554,126135,,Q,Jumpei Yamasaki,R,,JPN,19.0636550308,2-6 7-6(3) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,650,41,854,19
 2016-M-FU-VIE-01A-2016,Vietnam F1,Hard,32,S,20160725,24,111801,,,Rishab Agarwal,R,,IND,20.6379192334,105938,2,,Antoine Escoffier,U,,FRA,24.4024640657,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,963,13,477,81
-2016-M-FU-VIE-01A-2016,Vietnam F1,Hard,32,S,20160725,25,111805,1,,Seong Chan Hong,R,,KOR,19.0691307324,105464,5,,Christopher Rungkat,R,1.7,INA,26.5270362765,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,439,93,611,46
+2016-M-FU-VIE-01A-2016,Vietnam F1,Hard,32,S,20160725,25,111805,1,,Seong Chan Hong,R,,KOR,19.0691307324,105464,5,,Christopher Rungkat,R,170,INA,26.5270362765,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,439,93,611,46
 2016-M-FU-VIE-01A-2016,Vietnam F1,Hard,32,S,20160725,26,124154,8,,Sasi Kumar Mukund,R,,IND,19.5263518138,105059,3,,Kento Takeuchi,L,,JPN,28.5995893224,6-2 7-6(0),3,QF,,,,,,,,,,,,,,,,,,,,707,33,484,77
 2016-M-FU-VIE-01A-2016,Vietnam F1,Hard,32,S,20160725,27,126337,,,Renta Tokuda,U,,JPN,18.3244353183,122495,6,,Shintaro Imai,U,,JPN,22.8802190281,6-4 3-2 RET,3,QF,,,,,,,,,,,,,,,,,,,,1020,11,649,41
 2016-M-FU-VIE-01A-2016,Vietnam F1,Hard,32,S,20160725,28,111801,,,Rishab Agarwal,R,,IND,20.6379192334,105869,7,,Gengo Kikuchi,U,,JPN,24.7145790554,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,963,13,650,41
@@ -11362,7 +11362,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-VIE-02A-2016,Vietnam F2,Hard,32,S,20160801,1,111805,1,,Seong Chan Hong,R,,KOR,19.0882956879,105403,,Q,Masaki Sasai,U,,JPN,26.9431895962,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,441,93,1327,4
 2016-M-FU-VIE-02A-2016,Vietnam F2,Hard,32,S,20160801,2,104781,,,Yuichi Ito,R,,JPN,29.9876796715,117359,,Q,Jake Delaney,U,,AUS,19.2169746749,1-6 6-3 7-6(8),3,R32,,,,,,,,,,,,,,,,,,,,811,23,948,14
 2016-M-FU-VIE-02A-2016,Vietnam F2,Hard,32,S,20160801,3,111181,,Q,Pruchya Isarow,R,,THA,20.7939767283,126335,,Q,Sora Fukuda,L,,JPN,18.8281998631,4-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,907,16,1644,2
-2016-M-FU-VIE-02A-2016,Vietnam F2,Hard,32,S,20160801,4,105464,6,,Christopher Rungkat,R,1.7,INA,26.546201232,122533,,WC,Nam Hoang Ly,R,,VIE,19.4305270363,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,610,46,871,18
+2016-M-FU-VIE-02A-2016,Vietnam F2,Hard,32,S,20160801,4,105464,6,,Christopher Rungkat,R,170,INA,26.546201232,122533,,WC,Nam Hoang Ly,R,,VIE,19.4305270363,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,610,46,871,18
 2016-M-FU-VIE-02A-2016,Vietnam F2,Hard,32,S,20160801,5,105415,4,,Maxime Tabatruong,R,,FRA,26.8528405202,110757,,,Jacob Grills,U,,AUS,21.1225188227,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,576,54,931,15
 2016-M-FU-VIE-02A-2016,Vietnam F2,Hard,32,S,20160801,6,122495,,,Shintaro Imai,U,,JPN,22.8993839836,125843,,WC,Ren Nakamura,R,,JPN,21.5003422313,7-5 2-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,647,41,,
 2016-M-FU-VIE-02A-2016,Vietnam F2,Hard,32,S,20160801,7,126337,,SE,Renta Tokuda,U,,JPN,18.3436002738,106392,,WC,Thien Nguyen Hoang,R,,VIE,21.3908281999,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1020,11,,
@@ -11376,20 +11376,20 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-VIE-02A-2016,Vietnam F2,Hard,32,S,20160801,15,106240,,,Mohit Mayur Jayaprakash,R,,IND,22.8802190281,104478,,Q,Hyun Woo Nam,R,,KOR,31.5592060233,7-6(3) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,729,30,1019,11
 2016-M-FU-VIE-02A-2016,Vietnam F2,Hard,32,S,20160801,16,105938,2,,Antoine Escoffier,U,,FRA,24.4216290212,111801,,SE,Rishab Agarwal,R,,IND,20.6570841889,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,473,81,964,13
 2016-M-FU-VIE-02A-2016,Vietnam F2,Hard,32,S,20160801,17,111805,1,,Seong Chan Hong,R,,KOR,19.0882956879,104781,,,Yuichi Ito,R,,JPN,29.9876796715,4-6 7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,441,93,811,23
-2016-M-FU-VIE-02A-2016,Vietnam F2,Hard,32,S,20160801,18,105464,6,,Christopher Rungkat,R,1.7,INA,26.546201232,111181,,Q,Pruchya Isarow,R,,THA,20.7939767283,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,610,46,907,16
+2016-M-FU-VIE-02A-2016,Vietnam F2,Hard,32,S,20160801,18,105464,6,,Christopher Rungkat,R,170,INA,26.546201232,111181,,Q,Pruchya Isarow,R,,THA,20.7939767283,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,610,46,907,16
 2016-M-FU-VIE-02A-2016,Vietnam F2,Hard,32,S,20160801,19,105415,4,,Maxime Tabatruong,R,,FRA,26.8528405202,122495,,,Shintaro Imai,U,,JPN,22.8993839836,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,576,54,647,41
 2016-M-FU-VIE-02A-2016,Vietnam F2,Hard,32,S,20160801,20,126135,,,Jumpei Yamasaki,R,,JPN,19.0828199863,126337,,SE,Renta Tokuda,U,,JPN,18.3436002738,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,855,19,1020,11
 2016-M-FU-VIE-02A-2016,Vietnam F2,Hard,32,S,20160801,21,126208,,,Yusuke Takahashi,R,,JPN,18.7898699521,108777,,Q,Jae Min Seol,U,,KOR,26.5434633812,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,781,25,1177,6
 2016-M-FU-VIE-02A-2016,Vietnam F2,Hard,32,S,20160801,22,105823,,,Masato Shiga,U,,JPN,24.9828884326,105059,3,,Kento Takeuchi,L,,JPN,28.6187542779,5-7 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,642,42,493,74
 2016-M-FU-VIE-02A-2016,Vietnam F2,Hard,32,S,20160801,23,124154,,,Sasi Kumar Mukund,R,,IND,19.5455167693,105142,8,,Arata Onozawa,U,,JPN,28.2600958248,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,706,33,640,42
 2016-M-FU-VIE-02A-2016,Vietnam F2,Hard,32,S,20160801,24,105938,2,,Antoine Escoffier,U,,FRA,24.4216290212,106240,,,Mohit Mayur Jayaprakash,R,,IND,22.8802190281,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,473,81,729,30
-2016-M-FU-VIE-02A-2016,Vietnam F2,Hard,32,S,20160801,25,105464,6,,Christopher Rungkat,R,1.7,INA,26.546201232,111805,1,,Seong Chan Hong,R,,KOR,19.0882956879,4-6 6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,610,46,441,93
+2016-M-FU-VIE-02A-2016,Vietnam F2,Hard,32,S,20160801,25,105464,6,,Christopher Rungkat,R,170,INA,26.546201232,111805,1,,Seong Chan Hong,R,,KOR,19.0882956879,4-6 6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,610,46,441,93
 2016-M-FU-VIE-02A-2016,Vietnam F2,Hard,32,S,20160801,26,126135,,,Jumpei Yamasaki,R,,JPN,19.0828199863,105415,4,,Maxime Tabatruong,R,,FRA,26.8528405202,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,855,19,576,54
 2016-M-FU-VIE-02A-2016,Vietnam F2,Hard,32,S,20160801,27,126208,,,Yusuke Takahashi,R,,JPN,18.7898699521,105823,,,Masato Shiga,U,,JPN,24.9828884326,6-4 6-0,3,QF,,,,,,,,,,,,,,,,,,,,781,25,642,42
 2016-M-FU-VIE-02A-2016,Vietnam F2,Hard,32,S,20160801,28,105938,2,,Antoine Escoffier,U,,FRA,24.4216290212,124154,,,Sasi Kumar Mukund,R,,IND,19.5455167693,7-5 6-4,3,QF,,,,,,,,,,,,,,,,,,,,473,81,706,33
-2016-M-FU-VIE-02A-2016,Vietnam F2,Hard,32,S,20160801,29,105464,6,,Christopher Rungkat,R,1.7,INA,26.546201232,126135,,,Jumpei Yamasaki,R,,JPN,19.0828199863,6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,610,46,855,19
+2016-M-FU-VIE-02A-2016,Vietnam F2,Hard,32,S,20160801,29,105464,6,,Christopher Rungkat,R,170,INA,26.546201232,126135,,,Jumpei Yamasaki,R,,JPN,19.0828199863,6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,610,46,855,19
 2016-M-FU-VIE-02A-2016,Vietnam F2,Hard,32,S,20160801,30,126208,,,Yusuke Takahashi,R,,JPN,18.7898699521,105938,2,,Antoine Escoffier,U,,FRA,24.4216290212,5-7 7-6(2) 6-1,3,SF,,,,,,,,,,,,,,,,,,,,781,25,473,81
-2016-M-FU-VIE-02A-2016,Vietnam F2,Hard,32,S,20160801,31,126208,,,Yusuke Takahashi,R,,JPN,18.7898699521,105464,6,,Christopher Rungkat,R,1.7,INA,26.546201232,6-4 6-1,3,F,,,,,,,,,,,,,,,,,,,,781,25,610,46
+2016-M-FU-VIE-02A-2016,Vietnam F2,Hard,32,S,20160801,31,126208,,,Yusuke Takahashi,R,,JPN,18.7898699521,105464,6,,Christopher Rungkat,R,170,INA,26.546201232,6-4 6-1,3,F,,,,,,,,,,,,,,,,,,,,781,25,610,46
 2016-M-FU-AUT-05A-2016,Austria F5,Clay,32,S,20160808,1,106243,1,,Mate Delic,R,196,CRO,22.8583162218,111512,,,Johan Sebastien Tatlot,U,,FRA,20.3696098563,4-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,484,76,780,26
 2016-M-FU-AUT-05A-2016,Austria F5,Clay,32,S,20160808,2,134383,,Q,Jakob Schnaitter,R,,GER,20.4216290212,126623,,WC,Alexander Erler,U,,AUT,18.7816563997,6-3 3-6 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,1799,1,2128,1
 2016-M-FU-AUT-05A-2016,Austria F5,Clay,32,S,20160808,3,110601,,,Patrick Ofner,R,,AUT,23.2580424367,106008,,,Florian Fallert,R,,GER,24.205338809,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1011,11,804,24
@@ -12079,7 +12079,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-INA-01A-2016,Indonesia F1,Hard,32,S,20160815,5,106412,4,,Lucas Gomez,U,178,MEX,21.0130047912,105737,,,Kaza Vinayak Sharma,R,,IND,25.3853524983,6-4 6-7(6) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,523,67,981,13
 2016-M-FU-INA-01A-2016,Indonesia F1,Hard,32,S,20160815,6,106250,,,Luis Patino,R,,MEX,22.8583162218,200318,,Q,Yu Hsiou Hsu,U,,TPE,17.3716632444,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,793,25,1792,1
 2016-M-FU-INA-01A-2016,Indonesia F1,Hard,32,S,20160815,7,111800,,,Weiqiang Zheng,U,,CHN,20.1478439425,122529,,Q,Su Hao Zhong,R,,CHN,19.40862423,6-4 7-6(9),3,R32,,,,,,,,,,,,,,,,,,,,,,1438,3
-2016-M-FU-INA-01A-2016,Indonesia F1,Hard,32,S,20160815,8,105464,7,,Christopher Rungkat,R,1.7,INA,26.5845311431,106012,,,Kunal Anand,U,,IND,24.2026009582,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,564,57,902,17
+2016-M-FU-INA-01A-2016,Indonesia F1,Hard,32,S,20160815,8,105464,7,,Christopher Rungkat,R,170,INA,26.5845311431,106012,,,Kunal Anand,U,,IND,24.2026009582,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,564,57,902,17
 2016-M-FU-INA-01A-2016,Indonesia F1,Hard,32,S,20160815,9,138846,,WC,Hong Kit Jack Wong,R,,HKG,17.9603011636,105502,6,,N Sriram Balaji,R,,IND,26.4120465435,6-4 5-7 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,2054,1,536,64
 2016-M-FU-INA-01A-2016,Indonesia F1,Hard,32,S,20160815,10,106240,,,Mohit Mayur Jayaprakash,R,,IND,22.9185489391,200127,,Q,Aryan Goveas,U,,IND,18.1026694045,4-6 6-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,734,30,1327,4
 2016-M-FU-INA-01A-2016,Indonesia F1,Hard,32,S,20160815,11,109331,,,Xiao Gong,U,,CHN,24.6105407255,110771,,Q,Jatin Dahiya,U,,IND,23.8767967146,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,992,12,2006,1
@@ -12091,18 +12091,18 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-INA-01A-2016,Indonesia F1,Hard,32,S,20160815,17,144751,,,Rigele Te,U,,CHN,18.8501026694,126165,,Q,Aoran Wang,R,,CHN,19.523613963,6-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,712,32,2138,1
 2016-M-FU-INA-01A-2016,Indonesia F1,Hard,32,S,20160815,18,106011,8,,Sami Reinwein,U,,GER,24.2135523614,105490,,,Jui Chen Hung,R,,TPE,26.4585900068,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,698,34,773,27
 2016-M-FU-INA-01A-2016,Indonesia F1,Hard,32,S,20160815,19,106250,,,Luis Patino,R,,MEX,22.8583162218,106412,4,,Lucas Gomez,U,178,MEX,21.0130047912,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,793,25,523,67
-2016-M-FU-INA-01A-2016,Indonesia F1,Hard,32,S,20160815,20,105464,7,,Christopher Rungkat,R,1.7,INA,26.5845311431,111800,,,Weiqiang Zheng,U,,CHN,20.1478439425,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,564,57,,
+2016-M-FU-INA-01A-2016,Indonesia F1,Hard,32,S,20160815,20,105464,7,,Christopher Rungkat,R,170,INA,26.5845311431,111800,,,Weiqiang Zheng,U,,CHN,20.1478439425,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,564,57,,
 2016-M-FU-INA-01A-2016,Indonesia F1,Hard,32,S,20160815,21,138846,,WC,Hong Kit Jack Wong,R,,HKG,17.9603011636,106240,,,Mohit Mayur Jayaprakash,R,,IND,22.9185489391,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,2054,1,734,30
 2016-M-FU-INA-01A-2016,Indonesia F1,Hard,32,S,20160815,22,105059,3,,Kento Takeuchi,L,,JPN,28.6570841889,109331,,,Xiao Gong,U,,CHN,24.6105407255,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,463,86,992,12
 2016-M-FU-INA-01A-2016,Indonesia F1,Hard,32,S,20160815,23,106396,,,Cheng Yu Yu,R,,TPE,21.3716632444,200544,,Q,Paramveer Singh Bajwa,R,,IND,18.5023956194,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,871,19,,
 2016-M-FU-INA-01A-2016,Indonesia F1,Hard,32,S,20160815,24,200666,,Q,Jie Cui,U,,CHN,18.5571526352,202269,,WC,Justin Barki,U,,INA,16.2217659138,7-6(1) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2016-M-FU-INA-01A-2016,Indonesia F1,Hard,32,S,20160815,25,106011,8,,Sami Reinwein,U,,GER,24.2135523614,144751,,,Rigele Te,U,,CHN,18.8501026694,7-6(3) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,698,34,712,32
-2016-M-FU-INA-01A-2016,Indonesia F1,Hard,32,S,20160815,26,105464,7,,Christopher Rungkat,R,1.7,INA,26.5845311431,106250,,,Luis Patino,R,,MEX,22.8583162218,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,564,57,793,25
+2016-M-FU-INA-01A-2016,Indonesia F1,Hard,32,S,20160815,26,105464,7,,Christopher Rungkat,R,170,INA,26.5845311431,106250,,,Luis Patino,R,,MEX,22.8583162218,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,564,57,793,25
 2016-M-FU-INA-01A-2016,Indonesia F1,Hard,32,S,20160815,27,138846,,WC,Hong Kit Jack Wong,R,,HKG,17.9603011636,105059,3,,Kento Takeuchi,L,,JPN,28.6570841889,3-6 6-2 2-1 RET,3,QF,,,,,,,,,,,,,,,,,,,,2054,1,463,86
 2016-M-FU-INA-01A-2016,Indonesia F1,Hard,32,S,20160815,28,106396,,,Cheng Yu Yu,R,,TPE,21.3716632444,200666,,Q,Jie Cui,U,,CHN,18.5571526352,6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,871,19,,
-2016-M-FU-INA-01A-2016,Indonesia F1,Hard,32,S,20160815,29,105464,7,,Christopher Rungkat,R,1.7,INA,26.5845311431,106011,8,,Sami Reinwein,U,,GER,24.2135523614,6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,564,57,698,34
+2016-M-FU-INA-01A-2016,Indonesia F1,Hard,32,S,20160815,29,105464,7,,Christopher Rungkat,R,170,INA,26.5845311431,106011,8,,Sami Reinwein,U,,GER,24.2135523614,6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,564,57,698,34
 2016-M-FU-INA-01A-2016,Indonesia F1,Hard,32,S,20160815,30,138846,,WC,Hong Kit Jack Wong,R,,HKG,17.9603011636,106396,,,Cheng Yu Yu,R,,TPE,21.3716632444,6-3 3-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,2054,1,871,19
-2016-M-FU-INA-01A-2016,Indonesia F1,Hard,32,S,20160815,31,105464,7,,Christopher Rungkat,R,1.7,INA,26.5845311431,138846,,WC,Hong Kit Jack Wong,R,,HKG,17.9603011636,6-0 6-1,3,F,,,,,,,,,,,,,,,,,,,,564,57,2054,1
+2016-M-FU-INA-01A-2016,Indonesia F1,Hard,32,S,20160815,31,105464,7,,Christopher Rungkat,R,170,INA,26.5845311431,138846,,WC,Hong Kit Jack Wong,R,,HKG,17.9603011636,6-0 6-1,3,F,,,,,,,,,,,,,,,,,,,,564,57,2054,1
 2016-M-FU-ITA-25A-2016,Italy F25,Clay,32,S,20160815,1,106398,1,,Pedro Cachin,R,,ARG,21.3442847365,132831,,WC,Giovanni Oradini,U,,ITA,18.9185489391,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,284,176,,
 2016-M-FU-ITA-25A-2016,Italy F25,Clay,32,S,20160815,2,200070,,Q,Kirill Kivattsev,U,,RUS,18.8473648186,122394,,,Federico Maccari,R,,ITA,22.5188227242,3-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1650,2,957,14
 2016-M-FU-ITA-25A-2016,Italy F25,Clay,32,S,20160815,3,200607,,WC,Samuele Ramazzotti,R,,ITA,17.4647501711,105918,,,Alessandro Colella,L,,ITA,24.5119780972,4-6 6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,1157,7
@@ -12541,7 +12541,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-INA-02A-2016,Indonesia F2,Hard,32,S,20160822,2,106396,,,Cheng Yu Yu,R,,TPE,21.3908281999,133404,,,Alexander Centenari,R,,USA,26.855578371,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,873,19,1354,4
 2016-M-FU-INA-02A-2016,Indonesia F2,Hard,32,S,20160822,3,122209,,Q,Arief Rahman,R,,INA,21.2484599589,106240,,,Mohit Mayur Jayaprakash,R,,IND,22.9377138946,1-6 6-3 4-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,745,30
 2016-M-FU-INA-02A-2016,Indonesia F2,Hard,32,S,20160822,4,105823,6,,Masato Shiga,U,,JPN,25.0403832991,200045,,WC,Anthony Susanto,R,,INA,19.2498288843,3-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,707,34,,
-2016-M-FU-INA-02A-2016,Indonesia F2,Hard,32,S,20160822,5,105464,4,,Christopher Rungkat,R,1.7,INA,26.6036960986,200544,,Q,Paramveer Singh Bajwa,R,,IND,18.5215605749,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,601,49,,
+2016-M-FU-INA-02A-2016,Indonesia F2,Hard,32,S,20160822,5,105464,4,,Christopher Rungkat,R,170,INA,26.6036960986,200544,,Q,Paramveer Singh Bajwa,R,,IND,18.5215605749,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,601,49,,
 2016-M-FU-INA-02A-2016,Indonesia F2,Hard,32,S,20160822,6,126556,,Q,Wei De Lin,U,,TPE,20.5448323066,105177,,WC,Aditya Hari Sasongko,U,,INA,28.1341546886,6-4 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1681,2,,
 2016-M-FU-INA-02A-2016,Indonesia F2,Hard,32,S,20160822,7,105490,,,Jui Chen Hung,R,,TPE,26.4777549624,125815,,Q,Anvit Bendre,U,,IND,21.4839151266,6-3 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,779,26,1501,3
 2016-M-FU-INA-02A-2016,Indonesia F2,Hard,32,S,20160822,8,124154,5,,Sasi Kumar Mukund,R,,IND,19.6030116359,126322,,Q,Zhao Tai Li,U,,CHN,22.4421629021,2-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,649,41,,
@@ -12555,19 +12555,19 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-INA-02A-2016,Indonesia F2,Hard,32,S,20160822,16,105059,2,,Kento Takeuchi,L,,JPN,28.6762491444,124169,,WC,Armando C Soemarno,R,,INA,20.2272416153,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,464,85,,
 2016-M-FU-INA-02A-2016,Indonesia F2,Hard,32,S,20160822,17,106396,,,Cheng Yu Yu,R,,TPE,21.3908281999,106012,,,Kunal Anand,U,,IND,24.2217659138,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,873,19,901,17
 2016-M-FU-INA-02A-2016,Indonesia F2,Hard,32,S,20160822,18,105823,6,,Masato Shiga,U,,JPN,25.0403832991,122209,,Q,Arief Rahman,R,,INA,21.2484599589,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,707,34,,
-2016-M-FU-INA-02A-2016,Indonesia F2,Hard,32,S,20160822,19,105464,4,,Christopher Rungkat,R,1.7,INA,26.6036960986,126556,,Q,Wei De Lin,U,,TPE,20.5448323066,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,601,49,1681,2
+2016-M-FU-INA-02A-2016,Indonesia F2,Hard,32,S,20160822,19,105464,4,,Christopher Rungkat,R,170,INA,26.6036960986,126556,,Q,Wei De Lin,U,,TPE,20.5448323066,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,601,49,1681,2
 2016-M-FU-INA-02A-2016,Indonesia F2,Hard,32,S,20160822,20,124154,5,,Sasi Kumar Mukund,R,,IND,19.6030116359,105490,,,Jui Chen Hung,R,,TPE,26.4777549624,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,649,41,779,26
 2016-M-FU-INA-02A-2016,Indonesia F2,Hard,32,S,20160822,21,122620,,,Soichiro Moritani,R,,JPN,22.0287474333,144751,8,,Rigele Te,U,,CHN,18.8692676249,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1000,12,722,32
 2016-M-FU-INA-02A-2016,Indonesia F2,Hard,32,S,20160822,22,106412,3,,Lucas Gomez,U,178,MEX,21.0321697467,200127,,,Aryan Goveas,U,,IND,18.12183436,6-1 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,522,67,1329,4
 2016-M-FU-INA-02A-2016,Indonesia F2,Hard,32,S,20160822,23,106011,7,,Sami Reinwein,U,,GER,24.2327173169,105560,,Q,Kelsey Stevenson,R,,CAN,26.2340862423,6-4 1-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,705,34,1916,1
 2016-M-FU-INA-02A-2016,Indonesia F2,Hard,32,S,20160822,24,105059,2,,Kento Takeuchi,L,,JPN,28.6762491444,111800,,,Weiqiang Zheng,U,,CHN,20.167008898,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,464,85,,
 2016-M-FU-INA-02A-2016,Indonesia F2,Hard,32,S,20160822,25,106396,,,Cheng Yu Yu,R,,TPE,21.3908281999,105823,6,,Masato Shiga,U,,JPN,25.0403832991,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,873,19,707,34
-2016-M-FU-INA-02A-2016,Indonesia F2,Hard,32,S,20160822,26,105464,4,,Christopher Rungkat,R,1.7,INA,26.6036960986,124154,5,,Sasi Kumar Mukund,R,,IND,19.6030116359,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,601,49,649,41
+2016-M-FU-INA-02A-2016,Indonesia F2,Hard,32,S,20160822,26,105464,4,,Christopher Rungkat,R,170,INA,26.6036960986,124154,5,,Sasi Kumar Mukund,R,,IND,19.6030116359,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,601,49,649,41
 2016-M-FU-INA-02A-2016,Indonesia F2,Hard,32,S,20160822,27,106412,3,,Lucas Gomez,U,178,MEX,21.0321697467,122620,,,Soichiro Moritani,R,,JPN,22.0287474333,7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,522,67,1000,12
 2016-M-FU-INA-02A-2016,Indonesia F2,Hard,32,S,20160822,28,106011,7,,Sami Reinwein,U,,GER,24.2327173169,105059,2,,Kento Takeuchi,L,,JPN,28.6762491444,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,705,34,464,85
-2016-M-FU-INA-02A-2016,Indonesia F2,Hard,32,S,20160822,29,105464,4,,Christopher Rungkat,R,1.7,INA,26.6036960986,106396,,,Cheng Yu Yu,R,,TPE,21.3908281999,4-6 7-5 6-1,3,SF,,,,,,,,,,,,,,,,,,,,601,49,873,19
+2016-M-FU-INA-02A-2016,Indonesia F2,Hard,32,S,20160822,29,105464,4,,Christopher Rungkat,R,170,INA,26.6036960986,106396,,,Cheng Yu Yu,R,,TPE,21.3908281999,4-6 7-5 6-1,3,SF,,,,,,,,,,,,,,,,,,,,601,49,873,19
 2016-M-FU-INA-02A-2016,Indonesia F2,Hard,32,S,20160822,30,106412,3,,Lucas Gomez,U,178,MEX,21.0321697467,106011,7,,Sami Reinwein,U,,GER,24.2327173169,6-1 6-4,3,SF,,,,,,,,,,,,,,,,,,,,522,67,705,34
-2016-M-FU-INA-02A-2016,Indonesia F2,Hard,32,S,20160822,31,105464,4,,Christopher Rungkat,R,1.7,INA,26.6036960986,106412,3,,Lucas Gomez,U,178,MEX,21.0321697467,6-3 3-6 6-0,3,F,,,,,,,,,,,,,,,,,,,,601,49,522,67
+2016-M-FU-INA-02A-2016,Indonesia F2,Hard,32,S,20160822,31,105464,4,,Christopher Rungkat,R,170,INA,26.6036960986,106412,3,,Lucas Gomez,U,178,MEX,21.0321697467,6-3 3-6 6-0,3,F,,,,,,,,,,,,,,,,,,,,601,49,522,67
 2016-M-FU-ITA-26A-2016,Italy F26,Hard,32,S,20160822,1,105692,1,,Alessandro Bega,R,,ITA,25.6125941136,138652,,,Hugo Voljacques,R,,FRA,23.6440793977,6-4 6-7(2) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,282,179,756,29
 2016-M-FU-ITA-26A-2016,Italy F26,Hard,32,S,20160822,2,131934,,,Andrea Vavassori,U,,ITA,21.3004791239,132584,,Q,Stefano Reitano,R,,ITA,19.0882956879,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,640,43,,
 2016-M-FU-ITA-26A-2016,Italy F26,Hard,32,S,20160822,3,133872,,,Enrico Dalla Valle,U,,ITA,18.4229979466,133045,,WC,Riccardo Balzerani,R,,ITA,17.826146475,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1169,7,1422,3
@@ -12944,7 +12944,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-INA-03A-2016,Indonesia F3,Hard,32,S,20160829,2,200045,,Q,Anthony Susanto,R,,INA,19.2689938398,122209,,WC,Arief Rahman,R,,INA,21.2676249144,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2016-M-FU-INA-03A-2016,Indonesia F3,Hard,32,S,20160829,3,105177,,Q,Aditya Hari Sasongko,U,,INA,28.1533196441,111800,,,Weiqiang Zheng,U,,CHN,20.1861738535,4-6 7-6(5) 4-3 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2016-M-FU-INA-03A-2016,Indonesia F3,Hard,32,S,20160829,4,105823,8,,Masato Shiga,U,,JPN,25.0595482546,124171,,WC,Fabian Ariesto Soemarno,U,,INA,18.7761806982,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,719,33,,
-2016-M-FU-INA-03A-2016,Indonesia F3,Hard,32,S,20160829,5,105464,4,,Christopher Rungkat,R,1.7,INA,26.6228610541,200015,,,Jayesh Pungliya,U,,IND,19.9342915811,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,516,67,997,12
+2016-M-FU-INA-03A-2016,Indonesia F3,Hard,32,S,20160829,5,105464,4,,Christopher Rungkat,R,170,INA,26.6228610541,200015,,,Jayesh Pungliya,U,,IND,19.9342915811,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,516,67,997,12
 2016-M-FU-INA-03A-2016,Indonesia F3,Hard,32,S,20160829,6,121621,,Q,Ken Onoda,U,,JPN,28.3778234086,124169,,WC,Armando C Soemarno,R,,INA,20.2464065708,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1655,2,,
 2016-M-FU-INA-03A-2016,Indonesia F3,Hard,32,S,20160829,7,122620,,,Soichiro Moritani,R,,JPN,22.0479123888,126556,,Q,Wei De Lin,U,,TPE,20.5639972621,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1000,12,1678,2
 2016-M-FU-INA-03A-2016,Indonesia F3,Hard,32,S,20160829,8,106011,7,,Sami Reinwein,U,,GER,24.2518822724,105560,,Q,Kelsey Stevenson,R,,CAN,26.2532511978,7-6(1) 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,653,40,1909,1
@@ -12958,17 +12958,17 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-INA-03A-2016,Indonesia F3,Hard,32,S,20160829,16,105059,2,,Kento Takeuchi,L,,JPN,28.6954140999,106250,,,Luis Patino,R,,MEX,22.8966461328,6-1 5-7 6-1,3,R32,,,,,,,,,,,,,,,,,,,,466,84,767,27
 2016-M-FU-INA-03A-2016,Indonesia F3,Hard,32,S,20160829,17,110686,1,,Finn Tearney,R,183,NZL,25.9219712526,200045,,Q,Anthony Susanto,R,,INA,19.2689938398,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,360,127,,
 2016-M-FU-INA-03A-2016,Indonesia F3,Hard,32,S,20160829,18,105823,8,,Masato Shiga,U,,JPN,25.0595482546,105177,,Q,Aditya Hari Sasongko,U,,INA,28.1533196441,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,719,33,,
-2016-M-FU-INA-03A-2016,Indonesia F3,Hard,32,S,20160829,19,105464,4,,Christopher Rungkat,R,1.7,INA,26.6228610541,121621,,Q,Ken Onoda,U,,JPN,28.3778234086,6-0 4-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,516,67,1655,2
+2016-M-FU-INA-03A-2016,Indonesia F3,Hard,32,S,20160829,19,105464,4,,Christopher Rungkat,R,170,INA,26.6228610541,121621,,Q,Ken Onoda,U,,JPN,28.3778234086,6-0 4-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,516,67,1655,2
 2016-M-FU-INA-03A-2016,Indonesia F3,Hard,32,S,20160829,20,122620,,,Soichiro Moritani,R,,JPN,22.0479123888,106011,7,,Sami Reinwein,U,,GER,24.2518822724,6-4 2-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,1000,12,653,40
 2016-M-FU-INA-03A-2016,Indonesia F3,Hard,32,S,20160829,21,105934,5,,Chuhan Wang,R,188,CHN,24.5119780972,105490,,,Jui Chen Hung,R,,TPE,26.4969199179,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,609,47,769,27
 2016-M-FU-INA-03A-2016,Indonesia F3,Hard,32,S,20160829,22,105812,,,David Agung Susanto,U,,INA,25.1088295688,126322,,Q,Zhao Tai Li,U,,CHN,22.4613278576,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,837,21,,
 2016-M-FU-INA-03A-2016,Indonesia F3,Hard,32,S,20160829,23,124154,6,,Sasi Kumar Mukund,R,,IND,19.6221765914,106012,,,Kunal Anand,U,,IND,24.2409308693,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,648,41,911,17
 2016-M-FU-INA-03A-2016,Indonesia F3,Hard,32,S,20160829,24,105059,2,,Kento Takeuchi,L,,JPN,28.6954140999,200544,,Q,Paramveer Singh Bajwa,R,,IND,18.5407255305,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,466,84,1909,1
 2016-M-FU-INA-03A-2016,Indonesia F3,Hard,32,S,20160829,25,105823,8,,Masato Shiga,U,,JPN,25.0595482546,110686,1,,Finn Tearney,R,183,NZL,25.9219712526,6-2 4-6 2-0 RET,3,QF,,,,,,,,,,,,,,,,,,,,719,33,360,127
-2016-M-FU-INA-03A-2016,Indonesia F3,Hard,32,S,20160829,26,105464,4,,Christopher Rungkat,R,1.7,INA,26.6228610541,122620,,,Soichiro Moritani,R,,JPN,22.0479123888,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,516,67,1000,12
+2016-M-FU-INA-03A-2016,Indonesia F3,Hard,32,S,20160829,26,105464,4,,Christopher Rungkat,R,170,INA,26.6228610541,122620,,,Soichiro Moritani,R,,JPN,22.0479123888,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,516,67,1000,12
 2016-M-FU-INA-03A-2016,Indonesia F3,Hard,32,S,20160829,27,105934,5,,Chuhan Wang,R,188,CHN,24.5119780972,105812,,,David Agung Susanto,U,,INA,25.1088295688,3-6 7-6(9) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,609,47,837,21
 2016-M-FU-INA-03A-2016,Indonesia F3,Hard,32,S,20160829,28,124154,6,,Sasi Kumar Mukund,R,,IND,19.6221765914,105059,2,,Kento Takeuchi,L,,JPN,28.6954140999,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,648,41,466,84
-2016-M-FU-INA-03A-2016,Indonesia F3,Hard,32,S,20160829,29,105823,8,,Masato Shiga,U,,JPN,25.0595482546,105464,4,,Christopher Rungkat,R,1.7,INA,26.6228610541,1-6 6-4 6-0,3,SF,,,,,,,,,,,,,,,,,,,,719,33,516,67
+2016-M-FU-INA-03A-2016,Indonesia F3,Hard,32,S,20160829,29,105823,8,,Masato Shiga,U,,JPN,25.0595482546,105464,4,,Christopher Rungkat,R,170,INA,26.6228610541,1-6 6-4 6-0,3,SF,,,,,,,,,,,,,,,,,,,,719,33,516,67
 2016-M-FU-INA-03A-2016,Indonesia F3,Hard,32,S,20160829,30,124154,6,,Sasi Kumar Mukund,R,,IND,19.6221765914,105934,5,,Chuhan Wang,R,188,CHN,24.5119780972,,3,SF,,,,,,,,,,,,,,,,,,,,648,41,609,47
 2016-M-FU-INA-03A-2016,Indonesia F3,Hard,32,S,20160829,31,124154,6,,Sasi Kumar Mukund,R,,IND,19.6221765914,105823,8,,Masato Shiga,U,,JPN,25.0595482546,6-2 6-2,3,F,,,,,,,,,,,,,,,,,,,,648,41,719,33
 2016-M-FU-ITA-27A-2016,Italy F27,Clay,32,S,20160829,1,105426,1,,Michael Linzer,R,,AUT,26.8227241615,105225,,,Nicola Ghedin,R,,ITA,27.923340178,6-1 2-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,315,155,793,25
@@ -14238,7 +14238,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-IND-06A-2016,India F6,Hard,32,S,20160919,29,105072,4,WC,Sanam Singh,R,173,IND,28.6899383984,104822,5,,N Vijay Sundar Prashanth,R,,IND,29.8973305955,6-4 7-6(2),3,SF,,,,,,,,,,,,,,,,,,,,475,76,504,71
 2016-M-FU-IND-06A-2016,India F6,Hard,32,S,20160919,30,105432,2,,Prajnesh Gunneswaran,L,,IND,26.8528405202,104986,3,,Vishnu Vardhan,R,188,IND,29.1498973306,3-6 6-4 7-6(3),3,SF,,,,,,,,,,,,,,,,,,,,356,127,450,86
 2016-M-FU-IND-06A-2016,India F6,Hard,32,S,20160919,31,105072,4,WC,Sanam Singh,R,173,IND,28.6899383984,105432,2,,Prajnesh Gunneswaran,L,,IND,26.8528405202,6-3 3-6 6-4,3,F,,,,,,,,,,,,,,,,,,,,475,76,356,127
-2016-M-FU-ISR-13A-2016,Israel F13,Hard,32,S,20160919,1,122548,1,WC,Edan Leshem,U,1.83,ISR,19.5044490075,202309,,Q,Omer Katz,U,,ISR,17.5879534565,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,362,124,,
+2016-M-FU-ISR-13A-2016,Israel F13,Hard,32,S,20160919,1,122548,1,WC,Edan Leshem,U,183,ISR,19.5044490075,202309,,Q,Omer Katz,U,,ISR,17.5879534565,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,362,124,,
 2016-M-FU-ISR-13A-2016,Israel F13,Hard,32,S,20160919,2,125818,,Q,Shahar Elbaz,U,,ISR,19.6249144422,125844,,WC,Yannai Barkai,U,,ISR,19.5099247091,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1617,2,1633,2
 2016-M-FU-ISR-13A-2016,Israel F13,Hard,32,S,20160919,3,106104,,Q,Dane Webb,U,,USA,23.7234770705,126358,,Q,Motvey Radionov,U,,ISR,19.3319644079,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,2013,1,1626,2
 2016-M-FU-ISR-13A-2016,Israel F13,Hard,32,S,20160919,4,126098,,,Collin Johns,U,,USA,23.2635181383,105130,7,,Vladimir Uzhylovsky,R,183,UKR,28.4873374401,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1069,9,729,30
@@ -14254,7 +14254,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-ISR-13A-2016,Israel F13,Hard,32,S,20160919,14,106143,,,Dekel Bar,R,,ISR,23.5154004107,126432,,,Yankel Zemel,L,,ISR,18.0670773443,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,787,25,1102,8
 2016-M-FU-ISR-13A-2016,Israel F13,Hard,32,S,20160919,15,122550,,,Mor Bulis,U,,ISR,20.4216290212,200225,,SE,Nathaniel Lammons,U,,USA,23.1047227926,7-6(2) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1070,9,1414,3
 2016-M-FU-ISR-13A-2016,Israel F13,Hard,32,S,20160919,16,121395,2,,Connor Smith,U,,USA,25.7522245038,105186,,,Guy Michelevitz,U,,ISR,28.1587953457,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,456,83,1441,3
-2016-M-FU-ISR-13A-2016,Israel F13,Hard,32,S,20160919,17,122548,1,WC,Edan Leshem,U,1.83,ISR,19.5044490075,125818,,Q,Shahar Elbaz,U,,ISR,19.6249144422,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,362,124,1617,2
+2016-M-FU-ISR-13A-2016,Israel F13,Hard,32,S,20160919,17,122548,1,WC,Edan Leshem,U,183,ISR,19.5044490075,125818,,Q,Shahar Elbaz,U,,ISR,19.6249144422,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,362,124,1617,2
 2016-M-FU-ISR-13A-2016,Israel F13,Hard,32,S,20160919,18,106104,,Q,Dane Webb,U,,USA,23.7234770705,126098,,,Collin Johns,U,,USA,23.2635181383,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,2013,1,1069,9
 2016-M-FU-ISR-13A-2016,Israel F13,Hard,32,S,20160919,19,131951,,,Daniel Cukierman,U,,ISR,21.1991786448,105510,4,,Neil Pauffley,R,,GBR,26.4777549624,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,818,22,600,49
 2016-M-FU-ISR-13A-2016,Israel F13,Hard,32,S,20160919,20,106355,8,,Jonathan Kanar,U,,FRA,22.0013689254,122027,,,Romain Bauvy,U,,FRA,22.2258726899,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,735,30,1067,9
@@ -14262,11 +14262,11 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-ISR-13A-2016,Israel F13,Hard,32,S,20160919,22,106269,,Q,Austin Smith,U,,USA,22.81724846,126219,,,Joshua Paris,R,,GBR,20.5393566051,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,1217,6
 2016-M-FU-ISR-13A-2016,Israel F13,Hard,32,S,20160919,23,106143,,,Dekel Bar,R,,ISR,23.5154004107,106295,6,,Scott Clayton,U,,GBR,22.6036960986,6-3 4-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,787,25,726,31
 2016-M-FU-ISR-13A-2016,Israel F13,Hard,32,S,20160919,24,122550,,,Mor Bulis,U,,ISR,20.4216290212,121395,2,,Connor Smith,U,,USA,25.7522245038,7-5 4-4 RET,3,R16,,,,,,,,,,,,,,,,,,,,1070,9,456,83
-2016-M-FU-ISR-13A-2016,Israel F13,Hard,32,S,20160919,25,122548,1,WC,Edan Leshem,U,1.83,ISR,19.5044490075,106104,,Q,Dane Webb,U,,USA,23.7234770705,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,362,124,2013,1
+2016-M-FU-ISR-13A-2016,Israel F13,Hard,32,S,20160919,25,122548,1,WC,Edan Leshem,U,183,ISR,19.5044490075,106104,,Q,Dane Webb,U,,USA,23.7234770705,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,362,124,2013,1
 2016-M-FU-ISR-13A-2016,Israel F13,Hard,32,S,20160919,26,131951,,,Daniel Cukierman,U,,ISR,21.1991786448,106355,8,,Jonathan Kanar,U,,FRA,22.0013689254,6-4 4-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,818,22,735,30
 2016-M-FU-ISR-13A-2016,Israel F13,Hard,32,S,20160919,27,106269,,Q,Austin Smith,U,,USA,22.81724846,127326,5,,Ben Patael,U,,ISR,19.2991101985,6-3 7-6(7),3,QF,,,,,,,,,,,,,,,,,,,,,,633,42
 2016-M-FU-ISR-13A-2016,Israel F13,Hard,32,S,20160919,28,106143,,,Dekel Bar,R,,ISR,23.5154004107,122550,,,Mor Bulis,U,,ISR,20.4216290212,6-3 7-5,3,QF,,,,,,,,,,,,,,,,,,,,787,25,1070,9
-2016-M-FU-ISR-13A-2016,Israel F13,Hard,32,S,20160919,29,131951,,,Daniel Cukierman,U,,ISR,21.1991786448,122548,1,WC,Edan Leshem,U,1.83,ISR,19.5044490075,3-6 7-6(7) 6-4,3,SF,,,,,,,,,,,,,,,,,,,,818,22,362,124
+2016-M-FU-ISR-13A-2016,Israel F13,Hard,32,S,20160919,29,131951,,,Daniel Cukierman,U,,ISR,21.1991786448,122548,1,WC,Edan Leshem,U,183,ISR,19.5044490075,3-6 7-6(7) 6-4,3,SF,,,,,,,,,,,,,,,,,,,,818,22,362,124
 2016-M-FU-ISR-13A-2016,Israel F13,Hard,32,S,20160919,30,106269,,Q,Austin Smith,U,,USA,22.81724846,106143,,,Dekel Bar,R,,ISR,23.5154004107,6-1 1-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,,,787,25
 2016-M-FU-ISR-13A-2016,Israel F13,Hard,32,S,20160919,31,106269,,Q,Austin Smith,U,,USA,22.81724846,131951,,,Daniel Cukierman,U,,ISR,21.1991786448,6-1 6-2,3,F,,,,,,,,,,,,,,,,,,,,,,818,22
 2016-M-FU-ITA-30A-2016,Italy F30,Clay,32,S,20160919,1,104473,1,,Walter Trusendi,U,,ITA,31.7097878166,126450,,Q,Nicolo Turchetti,R,,ITA,20.3093771389,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,442,88,1198,6
@@ -14687,7 +14687,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-ISR-14A-2016,Israel F14,Hard,32,S,20160926,13,134472,6,,Antoine Bellier,U,,SUI,19.9397672827,126098,,,Collin Johns,U,,USA,23.2826830938,6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,539,62,1076,9
 2016-M-FU-ISR-14A-2016,Israel F14,Hard,32,S,20160926,14,126219,,Q,Joshua Paris,R,,GBR,20.5585215606,125818,,Q,Shahar Elbaz,U,,ISR,19.6440793977,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1206,6,1615,2
 2016-M-FU-ISR-14A-2016,Israel F14,Hard,32,S,20160926,15,131951,,,Daniel Cukierman,U,,ISR,21.2183436003,132195,,Q,George Davies,R,,GBR,21.4236824093,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,798,24,1857,1
-2016-M-FU-ISR-14A-2016,Israel F14,Hard,32,S,20160926,16,106104,,Q,Dane Webb,U,,USA,23.742642026,122548,2,,Edan Leshem,U,1.83,ISR,19.523613963,6-4 RET,3,R32,,,,,,,,,,,,,,,,,,,,1575,2,363,124
+2016-M-FU-ISR-14A-2016,Israel F14,Hard,32,S,20160926,16,106104,,Q,Dane Webb,U,,USA,23.742642026,122548,2,,Edan Leshem,U,183,ISR,19.523613963,6-4 RET,3,R32,,,,,,,,,,,,,,,,,,,,1575,2,363,124
 2016-M-FU-ISR-14A-2016,Israel F14,Hard,32,S,20160926,17,104804,1,,Amir Weintraub,R,188,ISR,30.0287474333,106269,,Q,Austin Smith,U,,USA,22.8364134155,7-6(4) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,231,229,,
 2016-M-FU-ISR-14A-2016,Israel F14,Hard,32,S,20160926,18,126128,5,,Roman Safiullin,R,,RUS,19.1375770021,106143,,,Dekel Bar,R,,ISR,23.5345653662,6-4 2-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,452,86,790,25
 2016-M-FU-ISR-14A-2016,Israel F14,Hard,32,S,20160926,19,200075,,,Yshai Oliel,L,,ISR,16.7255304586,200225,,Q,Nathaniel Lammons,U,,USA,23.1238877481,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1171,6,1060,9
@@ -19178,7 +19178,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-INA-05A-2016,Indonesia F5,Hard,32,S,20161205,9,111505,5,,Enzo Couacaud,R,,FRA,21.7659137577,106168,,,Sidharth Rawat,U,,IND,23.6249144422,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,568,56,640,44
 2016-M-FU-INA-05A-2016,Indonesia F5,Hard,32,S,20161205,10,105812,,,David Agung Susanto,U,,INA,25.3771389459,110773,,,Issei Okamura,U,,JPN,24.5284052019,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,740,28,635,45
 2016-M-FU-INA-05A-2016,Indonesia F5,Hard,32,S,20161205,11,126337,,,Renta Tokuda,U,,JPN,18.688569473,105490,,,Jui Chen Hung,R,,TPE,26.765229295,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,732,29,1132,8
-2016-M-FU-INA-05A-2016,Indonesia F5,Hard,32,S,20161205,12,106333,,,Julien Cagnina,R,,BEL,22.5051334702,105464,3,,Christopher Rungkat,R,1.7,INA,26.8911704312,4-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,595,52,447,89
+2016-M-FU-INA-05A-2016,Indonesia F5,Hard,32,S,20161205,12,106333,,,Julien Cagnina,R,,BEL,22.5051334702,105464,3,,Christopher Rungkat,R,170,INA,26.8911704312,4-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,595,52,447,89
 2016-M-FU-INA-05A-2016,Indonesia F5,Hard,32,S,20161205,13,124154,7,,Sasi Kumar Mukund,R,,IND,19.8904859685,126953,,Q,Chan Yeong Oh,U,,KOR,18.4421629021,3-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,529,66,1115,8
 2016-M-FU-INA-05A-2016,Indonesia F5,Hard,32,S,20161205,14,108717,,Q,Francis Casey Alcantara,U,,PHI,24.8350444901,126556,,Q,Wei De Lin,U,,TPE,20.8323066393,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,949,13,1281,5
 2016-M-FU-INA-05A-2016,Indonesia F5,Hard,32,S,20161205,15,134113,,SE,Cing Yang Meng,U,,TPE,18.3819301848,200677,,Q,Rio Noguchi,U,,JPN,17.9383983573,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1298,4,1411,3
@@ -19202,7 +19202,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-ISR-17A-2016,Israel F17,Hard,32,S,20161205,2,105752,,Q,Ivan Kosec,U,,SVK,25.6427104723,106143,,,Dekel Bar,R,,ISR,23.7262149213,3-6 6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1146,7,725,30
 2016-M-FU-ISR-17A-2016,Israel F17,Hard,32,S,20161205,3,106360,,SE,Connor Farren,R,,USA,22.173853525,123742,,,Martin Beran,R,,CAN,21.0239561944,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1020,11,759,26
 2016-M-FU-ISR-17A-2016,Israel F17,Hard,32,S,20161205,4,105612,8,,Jonas Luetjen,U,,GER,26.3134839151,105739,,,Stanislav Poplavskyy,R,,UKR,25.6783025325,7-5 4-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,531,65,765,25
-2016-M-FU-ISR-17A-2016,Israel F17,Hard,32,S,20161205,5,122548,3,,Edan Leshem,U,1.83,ISR,19.7152635181,202312,,WC,Itay Shpindler,U,,ISR,17.8672142368,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,408,105,1767,1
+2016-M-FU-ISR-17A-2016,Israel F17,Hard,32,S,20161205,5,122548,3,,Edan Leshem,U,183,ISR,19.7152635181,202312,,WC,Itay Shpindler,U,,ISR,17.8672142368,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,408,105,1767,1
 2016-M-FU-ISR-17A-2016,Israel F17,Hard,32,S,20161205,6,131951,,,Daniel Cukierman,U,,ISR,21.4099931554,122550,,Q,Mor Bulis,U,,ISR,20.6324435318,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,546,62,909,15
 2016-M-FU-ISR-17A-2016,Israel F17,Hard,32,S,20161205,7,126219,,Q,Joshua Paris,R,,GBR,20.7501711157,106395,,LL,Igor Smilansky,R,,ISR,21.697467488,3-6 6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,993,12,1514,2
 2016-M-FU-ISR-17A-2016,Israel F17,Hard,32,S,20161205,8,104095,6,,David Guez,R,185,FRA,33.993155373,133848,,Q,Adriaan De Jager,U,,NED,22.5051334702,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,497,74,1560,2
@@ -19216,7 +19216,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-ISR-17A-2016,Israel F17,Hard,32,S,20161205,16,124186,2,,Alexandre Muller,R,,FRA,19.8412046543,105130,,Q,Vladimir Uzhylovsky,R,183,UKR,28.6981519507,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,357,130,841,19
 2016-M-FU-ISR-17A-2016,Israel F17,Hard,32,S,20161205,17,105752,,Q,Ivan Kosec,U,,SVK,25.6427104723,126536,,,David Pichler,R,,AUT,20.7939767283,2-6 6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1146,7,586,54
 2016-M-FU-ISR-17A-2016,Israel F17,Hard,32,S,20161205,18,105612,8,,Jonas Luetjen,U,,GER,26.3134839151,106360,,SE,Connor Farren,R,,USA,22.173853525,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,531,65,1020,11
-2016-M-FU-ISR-17A-2016,Israel F17,Hard,32,S,20161205,19,131951,,,Daniel Cukierman,U,,ISR,21.4099931554,122548,3,,Edan Leshem,U,1.83,ISR,19.7152635181,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,546,62,408,105
+2016-M-FU-ISR-17A-2016,Israel F17,Hard,32,S,20161205,19,131951,,,Daniel Cukierman,U,,ISR,21.4099931554,122548,3,,Edan Leshem,U,183,ISR,19.7152635181,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,546,62,408,105
 2016-M-FU-ISR-17A-2016,Israel F17,Hard,32,S,20161205,20,104095,6,,David Guez,R,185,FRA,33.993155373,126219,,Q,Joshua Paris,R,,GBR,20.7501711157,7-6(4) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,497,74,993,12
 2016-M-FU-ISR-17A-2016,Israel F17,Hard,32,S,20161205,21,105523,5,,Claudio Fortuna,L,,ITA,26.6310746064,106424,,WC,Tal Goldengoren,U,,ISR,20.6379192334,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,490,76,1017,11
 2016-M-FU-ISR-17A-2016,Israel F17,Hard,32,S,20161205,22,110750,,LL,Eric Johnson,R,,USA,23.7973990418,122369,,Q,Bernardo Saraiva,R,,POR,23.3319644079,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1402,3,932,14
@@ -19492,7 +19492,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-INA-06A-2016,Indonesia F6,Hard,32,S,20161212,13,105059,6,,Kento Takeuchi,L,,JPN,28.9828884326,200677,,Q,Rio Noguchi,U,,JPN,17.9575633128,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,647,43,1400,3
 2016-M-FU-INA-06A-2016,Indonesia F6,Hard,32,S,20161212,14,105177,,Q,Aditya Hari Sasongko,U,,INA,28.4407939767,200015,,,Jayesh Pungliya,U,,IND,20.2217659138,4-6 7-6(7) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1860,1,1113,8
 2016-M-FU-INA-06A-2016,Indonesia F6,Hard,32,S,20161212,15,108717,,,Francis Casey Alcantara,U,,PHI,24.8542094456,134113,,Q,Cing Yang Meng,U,,TPE,18.4010951403,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,950,13,1187,6
-2016-M-FU-INA-06A-2016,Indonesia F6,Hard,32,S,20161212,16,122209,,WC,Arief Rahman,R,,INA,21.5550992471,105464,2,,Christopher Rungkat,R,1.7,INA,26.9103353867,2-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,1761,1,445,89
+2016-M-FU-INA-06A-2016,Indonesia F6,Hard,32,S,20161212,16,122209,,WC,Arief Rahman,R,,INA,21.5550992471,105464,2,,Christopher Rungkat,R,170,INA,26.9103353867,2-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,1761,1,445,89
 2016-M-FU-INA-06A-2016,Indonesia F6,Hard,32,S,20161212,17,105507,1,,Cheong Eui Kim,R,,KOR,26.7241615332,138846,,,Hong Kit Jack Wong,R,,HKG,18.2861054073,6-1 5-7 6-3,3,R16,,,,,,,,,,,,,,,,,,,,372,122,948,13
 2016-M-FU-INA-06A-2016,Indonesia F6,Hard,32,S,20161212,18,111505,5,,Enzo Couacaud,R,,FRA,21.7850787132,105478,,,Yan Sabanin,U,,RUS,26.8637919233,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,525,66,941,14
 2016-M-FU-INA-06A-2016,Indonesia F6,Hard,32,S,20161212,19,106149,,,Maciej Smola,R,,POL,23.7207392197,105823,3,,Masato Shiga,U,,JPN,25.3470225873,7-6(4) 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,988,12,528,66
@@ -19508,7 +19508,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-INA-06A-2016,Indonesia F6,Hard,32,S,20161212,29,111505,5,,Enzo Couacaud,R,,FRA,21.7850787132,106149,,,Maciej Smola,R,,POL,23.7207392197,3-6 6-3 7-6(2),3,SF,,,,,,,,,,,,,,,,,,,,525,66,988,12
 2016-M-FU-INA-06A-2016,Indonesia F6,Hard,32,S,20161212,30,105059,6,,Kento Takeuchi,L,,JPN,28.9828884326,105490,,,Jui Chen Hung,R,,TPE,26.7843942505,6-4 6-1,3,SF,,,,,,,,,,,,,,,,,,,,647,43,1120,8
 2016-M-FU-INA-06A-2016,Indonesia F6,Hard,32,S,20161212,31,111505,5,,Enzo Couacaud,R,,FRA,21.7850787132,105059,6,,Kento Takeuchi,L,,JPN,28.9828884326,6-1 6-1,3,F,,,,,,,,,,,,,,,,,,,,525,66,647,43
-2016-M-FU-ISR-18A-2016,Israel F18,Hard,32,S,20161212,1,122548,1,,Edan Leshem,U,1.83,ISR,19.7344284736,106406,,Q,Alon Elia,U,,ISR,21.5030800821,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,411,105,964,13
+2016-M-FU-ISR-18A-2016,Israel F18,Hard,32,S,20161212,1,122548,1,,Edan Leshem,U,183,ISR,19.7344284736,106406,,Q,Alon Elia,U,,ISR,21.5030800821,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,411,105,964,13
 2016-M-FU-ISR-18A-2016,Israel F18,Hard,32,S,20161212,2,106424,,Q,Tal Goldengoren,U,,ISR,20.6570841889,131965,,WC,Roy Zwillinger,U,,ISR,18.288843258,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,987,12,,
 2016-M-FU-ISR-18A-2016,Israel F18,Hard,32,S,20161212,3,110740,,,John Lamble,U,,USA,24.7008898015,200379,,LL,Nir Vodavoz,U,,ISR,17.0732375086,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,847,19,1860,1
 2016-M-FU-ISR-18A-2016,Israel F18,Hard,32,S,20161212,4,106143,8,,Dekel Bar,R,,ISR,23.7453798768,110750,,PR,Eric Johnson,R,,USA,23.8165639973,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,748,28,1393,3
@@ -19524,7 +19524,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-FU-ISR-18A-2016,Israel F18,Hard,32,S,20161212,14,122369,,,Bernardo Saraiva,R,,POR,23.3511293634,202309,,WC,Omer Katz,U,,ISR,17.8179329227,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,910,15,1860,1
 2016-M-FU-ISR-18A-2016,Israel F18,Hard,32,S,20161212,15,126432,,Q,Yankel Zemel,L,,ISR,18.2970568104,200487,,WC,Jordan Hasson,U,,ISR,17.1690622861,2-6 7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1175,7,1761,1
 2016-M-FU-ISR-18A-2016,Israel F18,Hard,32,S,20161212,16,104095,2,,David Guez,R,185,FRA,34.0123203285,126219,,,Joshua Paris,R,,GBR,20.7693360712,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,495,74,992,12
-2016-M-FU-ISR-18A-2016,Israel F18,Hard,32,S,20161212,17,106424,,Q,Tal Goldengoren,U,,ISR,20.6570841889,122548,1,,Edan Leshem,U,1.83,ISR,19.7344284736,1-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,987,12,411,105
+2016-M-FU-ISR-18A-2016,Israel F18,Hard,32,S,20161212,17,106424,,Q,Tal Goldengoren,U,,ISR,20.6570841889,122548,1,,Edan Leshem,U,183,ISR,19.7344284736,1-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,987,12,411,105
 2016-M-FU-ISR-18A-2016,Israel F18,Hard,32,S,20161212,18,110740,,,John Lamble,U,,USA,24.7008898015,106143,8,,Dekel Bar,R,,ISR,23.7453798768,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,847,19,748,28
 2016-M-FU-ISR-18A-2016,Israel F18,Hard,32,S,20161212,19,110468,3,,Romain Barbosa,R,,POR,22.6557152635,122550,,,Mor Bulis,U,,ISR,20.6516084873,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,527,66,940,14
 2016-M-FU-ISR-18A-2016,Israel F18,Hard,32,S,20161212,20,131951,5,,Daniel Cukierman,U,,ISR,21.4291581109,200355,,LL,Amit Gabreal,U,,ISR,17.2375085558,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,549,62,1378,3
