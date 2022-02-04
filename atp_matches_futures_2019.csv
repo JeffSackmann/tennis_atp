@@ -251,7 +251,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-USA-08A-2019,M25 Bakersfield CA,Hard,32,S,20190311,6,105626,,,Takanyi Garanganga,R,,ZIM,28.5092402464,106262,,,Boris Arias,R,,BOL,25.3333333333,6-7(6) 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,448,19,,
 2019-M-ITF-USA-08A-2019,M25 Bakersfield CA,Hard,32,S,20190311,7,134376,,Q,Andrew Watson,R,,GBR,22.5325119781,200217,,,Jacob Dunbar,U,,USA,23.4387405886,4-6 6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,672,1,,
 2019-M-ITF-USA-08A-2019,M25 Bakersfield CA,Hard,32,S,20190311,8,105871,7,,Sekou Bangoura,R,,USA,27.3100616016,200632,,,Evan Zhu,U,,USA,20.5694729637,7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,401,34,637,3
-2019-M-ITF-USA-08A-2019,M25 Bakersfield CA,Hard,32,S,20190311,9,111583,,,Martin Redlicki,U,,USA,23.5455167693,122548,,,Edan Leshem,U,1.83,ISR,21.9767282683,1-6 7-6(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,389,40,450,19
+2019-M-ITF-USA-08A-2019,M25 Bakersfield CA,Hard,32,S,20190311,9,111583,,,Martin Redlicki,U,,USA,23.5455167693,122548,,,Edan Leshem,U,183,ISR,21.9767282683,1-6 7-6(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,389,40,450,19
 2019-M-ITF-USA-08A-2019,M25 Bakersfield CA,Hard,32,S,20190311,10,200598,,,Isaiah Strode,R,,USA,21.4839151266,132434,,Q,Errol Smith,U,,USA,24.733744011,6-2 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2019-M-ITF-USA-08A-2019,M25 Bakersfield CA,Hard,32,S,20190311,11,123795,,,Altug Celikbilek,U,,TUR,22.5051334702,208297,,,Maxwell Mckennon,L,,USA,16.8158795346,6-4 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,471,15,,
 2019-M-ITF-USA-08A-2019,M25 Bakersfield CA,Hard,32,S,20190311,12,110778,4,,Joao Menezes,R,,BRA,22.2286105407,126107,,,Michael Geerts,R,,BEL,24.1451060917,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,378,45,607,3
@@ -305,7 +305,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-USA-09A-2019,M15 Arcadia CA,Hard,32,S,20190311,29,208127,,,Grey Hamilton,U,,USA,22.4421629021,110762,,,Alan Kohen,R,,ARG,25.8891170431,6-3 7-5,3,SF,,,,,,,,,,,,,,,,,,,,,,,
 2019-M-ITF-USA-09A-2019,M15 Arcadia CA,Hard,32,S,20190311,30,134472,,,Antoine Bellier,U,,SUI,22.392881588,207182,,JR   ,Emilio Nava,R,,USA,17.2703627652,6-1 6-2,3,SF,,,,,,,,,,,,,,,,,,,,,,,
 2019-M-ITF-USA-09A-2019,M15 Arcadia CA,Hard,32,S,20190311,31,134472,,,Antoine Bellier,U,,SUI,22.392881588,208127,,,Grey Hamilton,U,,USA,22.4421629021,6-3 6-3,3,F,,,,,,,,,,,,,,,,,,,,,,,
-2019-M-ITF-USA-10A-2019,M25 Calabasas CA,Hard,32,S,20190318,1,106281,,,Liam Broady,L,,GBR,25.1991786448,122548,,,Edan Leshem,U,1.83,ISR,21.9958932238,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,296,121,451,19
+2019-M-ITF-USA-10A-2019,M25 Calabasas CA,Hard,32,S,20190318,1,106281,,,Liam Broady,L,,GBR,25.1991786448,122548,,,Edan Leshem,U,183,ISR,21.9958932238,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,296,121,451,19
 2019-M-ITF-USA-10A-2019,M25 Calabasas CA,Hard,32,S,20190318,2,207730,,WC,Jacob Bullard,L,,USA,18.0670773443,126190,,,Nicolas Alvarez,R,,PER,22.7734428474,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,521,9
 2019-M-ITF-USA-10A-2019,M25 Calabasas CA,Hard,32,S,20190318,3,133835,,,Gijs Brouwer,L,,NED,23.0088980151,133018,,Q,Michail Pervolarakis,R,,CYP,22.7789185489,6-3 1-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,415,29,,
 2019-M-ITF-USA-10A-2019,M25 Calabasas CA,Hard,32,S,20190318,4,200553,6,,Alen Avidzba,R,,RUS,19.06091718,106266,,,Lloyd Glasspool,U,,GBR,25.325119781,5-7 6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,386,42,430,24
@@ -963,7 +963,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-SUI-01A-2019,M25 Oberentfelden,Carpet,32,S,20190204,5,105778,,,Tobias Simon,R,,GER,27.7180013689,106310,,IR  ,Alexander Ritschard,R,,SUI,24.8678986995,6-7(2) 6-1 7-6(14),3,R32,,,,,,,,,,,,,,,,,,,,415,27,624,3
 2019-M-ITF-SUI-01A-2019,M25 Oberentfelden,Carpet,32,S,20190204,6,105757,,,Sandro Ehrat,R,180,SUI,27.8001368925,105296,,,Lorenzo Frigerio,R,,ITA,29.9630390144,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,589,4,622,3
 2019-M-ITF-SUI-01A-2019,M25 Oberentfelden,Carpet,32,S,20190204,7,207605,,,Jakub Paul,R,,SUI,19.8740588638,106395,,Q,Igor Smilansky,R,,ISR,23.8631074606,7-6(4) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,561,7,,
-2019-M-ITF-SUI-01A-2019,M25 Oberentfelden,Carpet,32,S,20190204,8,122548,8,,Edan Leshem,U,1.83,ISR,21.8809034908,126106,,,Ryan Peniston,U,,GBR,23.2361396304,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,452,19,680,1
+2019-M-ITF-SUI-01A-2019,M25 Oberentfelden,Carpet,32,S,20190204,8,122548,8,,Edan Leshem,U,183,ISR,21.8809034908,126106,,,Ryan Peniston,U,,GBR,23.2361396304,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,452,19,680,1
 2019-M-ITF-SUI-01A-2019,M25 Oberentfelden,Carpet,32,S,20190204,9,105874,,,Albano Olivetti,R,203,FRA,27.1978097194,126634,,,Lenny Hampel,U,,AUT,22.1136208077,7-6(5) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,430,23,635,3
 2019-M-ITF-SUI-01A-2019,M25 Oberentfelden,Carpet,32,S,20190204,10,202200,,,Jakob Aichhorn,U,,AUT,20.3696098563,132573,,IR  ,Luca Castelnuovo,U,,SUI,22.0150581793,6-3 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2019-M-ITF-SUI-01A-2019,M25 Oberentfelden,Carpet,32,S,20190204,11,134376,,IR  ,Andrew Watson,R,,GBR,22.4366872005,123807,,,Marek Jaloviec,L,,CZE,25.0376454483,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,670,1,,
@@ -975,13 +975,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-SUI-01A-2019,M25 Oberentfelden,Carpet,32,S,20190204,17,110618,,IR  ,Elmar Ejupovic,R,,BIH,26.006844627,126152,,,Ryan Shane,U,,USA,24.8076659822,7-5 1-6 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,,,364,54
 2019-M-ITF-SUI-01A-2019,M25 Oberentfelden,Carpet,32,S,20190204,18,106266,5,,Lloyd Glasspool,U,,GBR,25.2101300479,208233,,Q,Mattia Bellucci,U,,ITA,17.6783025325,6-7(10) 7-5 6-0,3,R16,,,,,,,,,,,,,,,,,,,,428,24,,
 2019-M-ITF-SUI-01A-2019,M25 Oberentfelden,Carpet,32,S,20190204,19,105757,,,Sandro Ehrat,R,180,SUI,27.8001368925,105778,,,Tobias Simon,R,,GER,27.7180013689,6-7(5) 6-3 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,589,4,415,27
-2019-M-ITF-SUI-01A-2019,M25 Oberentfelden,Carpet,32,S,20190204,20,122548,8,,Edan Leshem,U,1.83,ISR,21.8809034908,207605,,,Jakub Paul,R,,SUI,19.8740588638,6-4 6-7(4) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,452,19,561,7
+2019-M-ITF-SUI-01A-2019,M25 Oberentfelden,Carpet,32,S,20190204,20,122548,8,,Edan Leshem,U,183,ISR,21.8809034908,207605,,,Jakub Paul,R,,SUI,19.8740588638,6-4 6-7(4) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,452,19,561,7
 2019-M-ITF-SUI-01A-2019,M25 Oberentfelden,Carpet,32,S,20190204,21,105874,,,Albano Olivetti,R,203,FRA,27.1978097194,202200,,,Jakob Aichhorn,U,,AUT,20.3696098563,6-4 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,430,23,,
 2019-M-ITF-SUI-01A-2019,M25 Oberentfelden,Carpet,32,S,20190204,22,145001,4,,Evan Furness,R,,FRA,20.4791238877,134376,,IR  ,Andrew Watson,R,,GBR,22.4366872005,4-6 7-6(7) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,426,24,670,1
 2019-M-ITF-SUI-01A-2019,M25 Oberentfelden,Carpet,32,S,20190204,23,208843,,,Jerome Kym,,,SUI,15.9780971937,105626,,,Takanyi Garanganga,R,,ZIM,28.4134154689,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,431,22
 2019-M-ITF-SUI-01A-2019,M25 Oberentfelden,Carpet,32,S,20190204,24,109699,2,,Julian Lenz,R,,GER,25.9630390144,134472,,,Antoine Bellier,U,,SUI,22.2970568104,6-4 6-7(8) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,394,36,,
 2019-M-ITF-SUI-01A-2019,M25 Oberentfelden,Carpet,32,S,20190204,25,106266,5,,Lloyd Glasspool,U,,GBR,25.2101300479,110618,,IR  ,Elmar Ejupovic,R,,BIH,26.006844627,6-3 7-6(2),3,QF,,,,,,,,,,,,,,,,,,,,428,24,,
-2019-M-ITF-SUI-01A-2019,M25 Oberentfelden,Carpet,32,S,20190204,26,105757,,,Sandro Ehrat,R,180,SUI,27.8001368925,122548,8,,Edan Leshem,U,1.83,ISR,21.8809034908,6-4 4-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,589,4,452,19
+2019-M-ITF-SUI-01A-2019,M25 Oberentfelden,Carpet,32,S,20190204,26,105757,,,Sandro Ehrat,R,180,SUI,27.8001368925,122548,8,,Edan Leshem,U,183,ISR,21.8809034908,6-4 4-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,589,4,452,19
 2019-M-ITF-SUI-01A-2019,M25 Oberentfelden,Carpet,32,S,20190204,27,145001,4,,Evan Furness,R,,FRA,20.4791238877,105874,,,Albano Olivetti,R,203,FRA,27.1978097194,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,426,24,430,23
 2019-M-ITF-SUI-01A-2019,M25 Oberentfelden,Carpet,32,S,20190204,28,109699,2,,Julian Lenz,R,,GER,25.9630390144,208843,,,Jerome Kym,,,SUI,15.9780971937,6-0 3-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,394,36,,
 2019-M-ITF-SUI-01A-2019,M25 Oberentfelden,Carpet,32,S,20190204,29,105757,,,Sandro Ehrat,R,180,SUI,27.8001368925,106266,5,,Lloyd Glasspool,U,,GBR,25.2101300479,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,589,4,428,24
@@ -1274,7 +1274,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-KAZ-01A-2019,M25 Aktobe,Hard,32,S,20190211,6,127326,,,Ben Patael,U,,ISR,21.6947296372,105452,,,Francesco Vilardo,R,,ITA,29.1225188227,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,512,10,565,6
 2019-M-ITF-KAZ-01A-2019,M25 Aktobe,Hard,32,S,20190211,7,126214,,IR  ,Alejandro Tabilo,L,,CHI,21.6947296372,200365,,,Christian Seraphim,U,,GER,23.7180013689,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,589,4,546,7
 2019-M-ITF-KAZ-01A-2019,M25 Aktobe,Hard,32,S,20190211,8,105545,,,Mikhail Fufygin,U,,RUS,28.7501711157,202358,6,IR  ,Chun Hsin Tseng,R,,TPE,17.5112936345,6-4 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,620,3,463,16
-2019-M-ITF-KAZ-01A-2019,M25 Aktobe,Hard,32,S,20190211,9,200442,,WC,Dostanbek Tashbulatov,U,,KAZ,18.6255989049,122548,,,Edan Leshem,U,1.83,ISR,21.9000684463,6-2 4-6 4-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,450,19
+2019-M-ITF-KAZ-01A-2019,M25 Aktobe,Hard,32,S,20190211,9,200442,,WC,Dostanbek Tashbulatov,U,,KAZ,18.6255989049,122548,,,Edan Leshem,U,183,ISR,21.9000684463,6-2 4-6 4-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,450,19
 2019-M-ITF-KAZ-01A-2019,M25 Aktobe,Hard,32,S,20190211,10,126170,,Q,Timur Kiuamov,U,,RUS,22.2833675565,123736,,,Sagadat Ayap,U,,KAZ,23.7180013689,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2019-M-ITF-KAZ-01A-2019,M25 Aktobe,Hard,32,S,20190211,11,206173,,,Jannik Sinner,R,188,ITA,17.4893908282,200455,,Q,Aliaksandr Liaonenka,U,,BLR,19.9069130732,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,549,7,,
 2019-M-ITF-KAZ-01A-2019,M25 Aktobe,Hard,32,S,20190211,12,144984,,,Artem Dubrivnyy,R,,RUS,20.0301163587,106168,4,,Sidharth Rawat,U,,IND,25.8097193703,2-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,546,7,442,20
@@ -2726,7 +2726,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-GBR-03A-2019,M25 Bolton,Hard,32,S,20190401,3,125800,,,Jack Findel Hawkins,U,,GBR,24.4845995893,127606,,Q,Quentin Gueydan,U,,FRA,24.6844626968,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,668,1,,
 2019-M-ITF-GBR-03A-2019,M25 Bolton,Hard,32,S,20190401,4,133835,7,,Gijs Brouwer,L,,NED,23.0472279261,200164,,,Jonathan Gray,U,,GBR,21.9767282683,7-6(2) 6-7(6) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,415,29,,
 2019-M-ITF-GBR-03A-2019,M25 Bolton,Hard,32,S,20190401,5,105938,,,Antoine Escoffier,U,,FRA,27.0855578371,131905,,IR  ,Manuel Guinard,U,,FRA,23.3757700205,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,381,43,457,17
-2019-M-ITF-GBR-03A-2019,M25 Bolton,Hard,32,S,20190401,6,126646,,,Tim Van Rijthoven,R,,NED,21.9356605065,122548,,,Edan Leshem,U,1.83,ISR,22.0342231348,6-3 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,439,21,450,19
+2019-M-ITF-GBR-03A-2019,M25 Bolton,Hard,32,S,20190401,6,126646,,,Tim Van Rijthoven,R,,NED,21.9356605065,122548,,,Edan Leshem,U,183,ISR,22.0342231348,6-3 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,439,21,450,19
 2019-M-ITF-GBR-03A-2019,M25 Bolton,Hard,32,S,20190401,7,207764,,,Ryan Nijboer,U,,NED,19.6769336071,202421,,,George Houghton,U,,GBR,20.7227926078,6-7(6) 7-6(10) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,504,10,,
 2019-M-ITF-GBR-03A-2019,M25 Bolton,Hard,32,S,20190401,8,109699,6,,Julian Lenz,R,,GER,26.1163586585,126570,,,William Griffith,U,,USA,23.5071868583,6-0 7-5,3,R32,,,,,,,,,,,,,,,,,,,,396,36,640,1
 2019-M-ITF-GBR-03A-2019,M25 Bolton,Hard,32,S,20190401,9,200267,,,Zizou Bergs,R,,BEL,19.8275154004,126200,,Q,Piotr Grynkowski,U,,POL,26.8008213552,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,422,26,,
@@ -3325,7 +3325,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-ISR-01A-2019,M15 Tel Aviv,Hard,32,S,20190325,13,106406,,,Alon Elia,U,,ISR,23.7645448323,106384,,,Or Ram Harel,R,,ISR,24.1232032854,4-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2019-M-ITF-ISR-01A-2019,M15 Tel Aviv,Hard,32,S,20190325,14,126219,,,Joshua Paris,R,,GBR,23.0308008214,127147,,Q,Woravin Kumthonkittikul,U,,THA,24.0574948665,4-6 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2019-M-ITF-ISR-01A-2019,M15 Tel Aviv,Hard,32,S,20190325,15,126432,,,Yankel Zemel,L,,ISR,20.5585215606,122369,,,Bernardo Saraiva,R,,POR,25.6125941136,6-4 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2019-M-ITF-ISR-01A-2019,M15 Tel Aviv,Hard,32,S,20190325,16,122548,2,,Edan Leshem,U,1.83,ISR,21.9958932238,125818,,,Shahar Elbaz,U,,ISR,22.1163586585,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,451,19,,
+2019-M-ITF-ISR-01A-2019,M15 Tel Aviv,Hard,32,S,20190325,16,122548,2,,Edan Leshem,U,183,ISR,21.9958932238,125818,,,Shahar Elbaz,U,,ISR,22.1163586585,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,451,19,,
 2019-M-ITF-ISR-01A-2019,M15 Tel Aviv,Hard,32,S,20190325,17,105692,,,Alessandro Bega,R,,ITA,28.180698152,200309,,,Marek Gengel,R,,CZE,23.498973306,7-6(0) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,394,38,,
 2019-M-ITF-ISR-01A-2019,M15 Tel Aviv,Hard,32,S,20190325,18,110600,6,,Robert Quentin,R,,FRA,24.5639972621,134545,,,Alexis Canter,U,,GBR,20.7885010267,1-6 6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2019-M-ITF-ISR-01A-2019,M15 Tel Aviv,Hard,32,S,20190325,19,122248,,,Peter Kobelt,U,,USA,28.3312799452,207592,,,Martin Van Der Meerschen,U,,BEL,18.7570157426,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,644,1,,
@@ -3333,14 +3333,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-ISR-01A-2019,M15 Tel Aviv,Hard,32,S,20190325,21,131867,,,Dominik Boehler,R,,GER,23.0691307324,106395,,,Igor Smilansky,R,,ISR,23.9780971937,6-2 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2019-M-ITF-ISR-01A-2019,M15 Tel Aviv,Hard,32,S,20190325,22,127326,3,,Ben Patael,U,,ISR,21.7905544148,111201,,,Christoffer Solberg,U,,SWE,25.1225188227,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,511,10,,
 2019-M-ITF-ISR-01A-2019,M15 Tel Aviv,Hard,32,S,20190325,23,106406,,,Alon Elia,U,,ISR,23.7645448323,126219,,,Joshua Paris,R,,GBR,23.0308008214,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,,
-2019-M-ITF-ISR-01A-2019,M15 Tel Aviv,Hard,32,S,20190325,24,122548,2,,Edan Leshem,U,1.83,ISR,21.9958932238,126432,,,Yankel Zemel,L,,ISR,20.5585215606,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,451,19,,
+2019-M-ITF-ISR-01A-2019,M15 Tel Aviv,Hard,32,S,20190325,24,122548,2,,Edan Leshem,U,183,ISR,21.9958932238,126432,,,Yankel Zemel,L,,ISR,20.5585215606,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,451,19,,
 2019-M-ITF-ISR-01A-2019,M15 Tel Aviv,Hard,32,S,20190325,25,110600,6,,Robert Quentin,R,,FRA,24.5639972621,105692,,,Alessandro Bega,R,,ITA,28.180698152,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,,,394,38
 2019-M-ITF-ISR-01A-2019,M15 Tel Aviv,Hard,32,S,20190325,26,200075,,WC,Yshai Oliel,L,,ISR,19.1978097194,122248,,,Peter Kobelt,U,,USA,28.3312799452,6-4 1-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,,,644,1
 2019-M-ITF-ISR-01A-2019,M15 Tel Aviv,Hard,32,S,20190325,27,131867,,,Dominik Boehler,R,,GER,23.0691307324,127326,3,,Ben Patael,U,,ISR,21.7905544148,0-6 6-3 7-6(8),3,QF,,,,,,,,,,,,,,,,,,,,,,511,10
-2019-M-ITF-ISR-01A-2019,M15 Tel Aviv,Hard,32,S,20190325,28,122548,2,,Edan Leshem,U,1.83,ISR,21.9958932238,106406,,,Alon Elia,U,,ISR,23.7645448323,7-6(9) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,451,19,,
+2019-M-ITF-ISR-01A-2019,M15 Tel Aviv,Hard,32,S,20190325,28,122548,2,,Edan Leshem,U,183,ISR,21.9958932238,106406,,,Alon Elia,U,,ISR,23.7645448323,7-6(9) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,451,19,,
 2019-M-ITF-ISR-01A-2019,M15 Tel Aviv,Hard,32,S,20190325,29,110600,6,,Robert Quentin,R,,FRA,24.5639972621,200075,,WC,Yshai Oliel,L,,ISR,19.1978097194,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,,
-2019-M-ITF-ISR-01A-2019,M15 Tel Aviv,Hard,32,S,20190325,30,122548,2,,Edan Leshem,U,1.83,ISR,21.9958932238,131867,,,Dominik Boehler,R,,GER,23.0691307324,4-6 6-0 6-1,3,SF,,,,,,,,,,,,,,,,,,,,451,19,,
-2019-M-ITF-ISR-01A-2019,M15 Tel Aviv,Hard,32,S,20190325,31,110600,6,,Robert Quentin,R,,FRA,24.5639972621,122548,2,,Edan Leshem,U,1.83,ISR,21.9958932238,6-3 2-6 6-1,3,F,,,,,,,,,,,,,,,,,,,,,,451,19
+2019-M-ITF-ISR-01A-2019,M15 Tel Aviv,Hard,32,S,20190325,30,122548,2,,Edan Leshem,U,183,ISR,21.9958932238,131867,,,Dominik Boehler,R,,GER,23.0691307324,4-6 6-0 6-1,3,SF,,,,,,,,,,,,,,,,,,,,451,19,,
+2019-M-ITF-ISR-01A-2019,M15 Tel Aviv,Hard,32,S,20190325,31,110600,6,,Robert Quentin,R,,FRA,24.5639972621,122548,2,,Edan Leshem,U,183,ISR,21.9958932238,6-3 2-6 6-1,3,F,,,,,,,,,,,,,,,,,,,,,,451,19
 2019-M-ITF-CRO-01A-2019,M15 Porec,Clay,32,S,20190311,1,126504,,,Andrea Pellegrino,R,,ITA,21.9657768652,106196,,,Pascal Meis,U,,GER,25.7467488022,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,345,70,666,1
 2019-M-ITF-CRO-01A-2019,M15 Porec,Clay,32,S,20190311,2,105872,,,Christian Lindell,R,193,SWE,27.3045859001,123983,,,Nerman Fatic,U,,BIH,24.3778234086,6-1 1-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2019-M-ITF-CRO-01A-2019,M15 Porec,Clay,32,S,20190311,3,106247,,,Nik Razborsek,L,,SLO,25.4318959617,105954,,,Peter Nagy,U,,HUN,26.9815195072,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,597,3,,
@@ -3444,7 +3444,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-GBR-04A-2019,M25 Sunderland,Hard,32,S,20190408,8,106238,7,,Andres Artunedo Martinavarro,R,,ESP,25.5633127995,207756,,,Adam Jones,U,,GBR,20.9171800137,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,421,26,,
 2019-M-ITF-GBR-04A-2019,M25 Sunderland,Hard,32,S,20190408,9,200325,,,Emil Ruusuvuori,R,188,FIN,20.0164271047,110618,,IR  ,Elmar Ejupovic,R,,BIH,26.1793292266,6-3 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,408,31,,
 2019-M-ITF-GBR-04A-2019,M25 Sunderland,Hard,32,S,20190408,10,105510,,WC,Neil Pauffley,R,,GBR,29.0266940452,202420,,,Aidan Mchugh,U,,GBR,18.7460643395,7-6(3) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2019-M-ITF-GBR-04A-2019,M25 Sunderland,Hard,32,S,20190408,11,122548,,,Edan Leshem,U,1.83,ISR,22.0533880903,202346,,,Ben Jones,R,,GBR,20.887063655,6-7(6) 6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,449,19,,
+2019-M-ITF-GBR-04A-2019,M25 Sunderland,Hard,32,S,20190408,11,122548,,,Edan Leshem,U,183,ISR,22.0533880903,202346,,,Ben Jones,R,,GBR,20.887063655,6-7(6) 6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,449,19,,
 2019-M-ITF-GBR-04A-2019,M25 Sunderland,Hard,32,S,20190408,12,111583,3,,Martin Redlicki,U,,USA,23.6221765914,207676,,,Adan Freire Da Silva,U,,FRA,19.9260780287,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,390,40,,
 2019-M-ITF-GBR-04A-2019,M25 Sunderland,Hard,32,S,20190408,13,200267,,,Zizou Bergs,R,,BEL,19.8466803559,207764,,,Ryan Nijboer,U,,NED,19.6960985626,6-2 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,422,26,503,10
 2019-M-ITF-GBR-04A-2019,M25 Sunderland,Hard,32,S,20190408,14,125800,,,Jack Findel Hawkins,U,,GBR,24.5037645448,132575,,Q,Raphael Baltensperger,R,,SUI,21.3032169747,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,672,1,,
@@ -3455,7 +3455,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-GBR-04A-2019,M25 Sunderland,Hard,32,S,20190408,19,109699,,,Julian Lenz,R,,GER,26.135523614,202421,,,George Houghton,U,,GBR,20.7419575633,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,396,36,,
 2019-M-ITF-GBR-04A-2019,M25 Sunderland,Hard,32,S,20190408,20,106238,7,,Andres Artunedo Martinavarro,R,,ESP,25.5633127995,105778,,,Tobias Simon,R,,GER,27.8904859685,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,421,26,430,24
 2019-M-ITF-GBR-04A-2019,M25 Sunderland,Hard,32,S,20190408,21,200325,,,Emil Ruusuvuori,R,188,FIN,20.0164271047,105510,,WC,Neil Pauffley,R,,GBR,29.0266940452,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,408,31,,
-2019-M-ITF-GBR-04A-2019,M25 Sunderland,Hard,32,S,20190408,22,111583,3,,Martin Redlicki,U,,USA,23.6221765914,122548,,,Edan Leshem,U,1.83,ISR,22.0533880903,4-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,390,40,449,19
+2019-M-ITF-GBR-04A-2019,M25 Sunderland,Hard,32,S,20190408,22,111583,3,,Martin Redlicki,U,,USA,23.6221765914,122548,,,Edan Leshem,U,183,ISR,22.0533880903,4-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,390,40,449,19
 2019-M-ITF-GBR-04A-2019,M25 Sunderland,Hard,32,S,20190408,23,200267,,,Zizou Bergs,R,,BEL,19.8466803559,125800,,,Jack Findel Hawkins,U,,GBR,24.5037645448,7-6(4) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,422,26,672,1
 2019-M-ITF-GBR-04A-2019,M25 Sunderland,Hard,32,S,20190408,24,126106,,,Ryan Peniston,U,,GBR,23.40862423,105938,2,,Antoine Escoffier,U,,FRA,27.1047227926,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,685,1,382,43
 2019-M-ITF-GBR-04A-2019,M25 Sunderland,Hard,32,S,20190408,25,104997,,,Igor Sijsling,R,190,NED,31.6386036961,104963,,IR  ,Yannick Mertens,R,,BEL,31.7864476386,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,423,24,428,24
@@ -4244,7 +4244,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-UZB-02A-2019,M25 Namangan,Hard,32,S,20190429,2,200176,,,Manish Sureshkumar,R,,IND,19.7097878166,206750,,WC,Daniil Glinka,U,,EST,18.9623545517,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,586,5,,
 2019-M-ITF-UZB-02A-2019,M25 Namangan,Hard,32,S,20190429,3,126630,,,Ivan Liutarevich,U,,BLR,23.1868583162,200474,,Q,Ivan Denisov,U,,RUS,18.8911704312,5-7 7-6(3) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2019-M-ITF-UZB-02A-2019,M25 Namangan,Hard,32,S,20190429,4,126185,7,,Evgenii Tiurnev,R,,RUS,22.0561259411,207295,,,Olimjon Nabiev,U,,UZB,16.8432580424,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,555,7,,
-2019-M-ITF-UZB-02A-2019,M25 Namangan,Hard,32,S,20190429,5,122548,,,Edan Leshem,U,1.83,ISR,22.1108829569,132299,,Q,Saidalo Saidkarimov,U,,UZB,21.5934291581,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,458,19,,
+2019-M-ITF-UZB-02A-2019,M25 Namangan,Hard,32,S,20190429,5,122548,,,Edan Leshem,U,183,ISR,22.1108829569,132299,,Q,Saidalo Saidkarimov,U,,UZB,21.5934291581,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,458,19,,
 2019-M-ITF-UZB-02A-2019,M25 Namangan,Hard,32,S,20190429,6,106169,,,Vladyslav Manafov,U,,UKR,26.0177960301,200456,,,Martin Borisiouk,U,,BLR,18.81724846,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,563,6,,
 2019-M-ITF-UZB-02A-2019,M25 Namangan,Hard,32,S,20190429,7,207608,,WC,Timofey Skatov,R,,RUS,18.2669404517,206091,,,Yan Bondarevskiy,U,,RUS,19.1156741958,2-6 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2019-M-ITF-UZB-02A-2019,M25 Namangan,Hard,32,S,20190429,8,200672,,,Sergey Fomin,R,,UZB,18.2368240931,122109,6,,Sanjar Fayziev,U,,UZB,24.7501711157,4-6 7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,586,5,523,9
@@ -4258,14 +4258,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-UZB-02A-2019,M25 Namangan,Hard,32,S,20190429,16,126939,2,,Khumoun Sultanov,R,,UZB,20.5037645448,126938,,,Sharobiddin Abzalov,U,,UZB,21.1882272416,7-6(1) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,385,41,,
 2019-M-ITF-UZB-02A-2019,M25 Namangan,Hard,32,S,20190429,17,126128,,,Roman Safiullin,R,,RUS,21.7248459959,200176,,,Manish Sureshkumar,R,,IND,19.7097878166,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,294,131,586,5
 2019-M-ITF-UZB-02A-2019,M25 Namangan,Hard,32,S,20190429,18,126185,7,,Evgenii Tiurnev,R,,RUS,22.0561259411,126630,,,Ivan Liutarevich,U,,BLR,23.1868583162,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,555,7,,
-2019-M-ITF-UZB-02A-2019,M25 Namangan,Hard,32,S,20190429,19,122548,,,Edan Leshem,U,1.83,ISR,22.1108829569,106169,,,Vladyslav Manafov,U,,UKR,26.0177960301,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,458,19,563,6
+2019-M-ITF-UZB-02A-2019,M25 Namangan,Hard,32,S,20190429,19,122548,,,Edan Leshem,U,183,ISR,22.1108829569,106169,,,Vladyslav Manafov,U,,UKR,26.0177960301,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,458,19,563,6
 2019-M-ITF-UZB-02A-2019,M25 Namangan,Hard,32,S,20190429,20,207608,,WC,Timofey Skatov,R,,RUS,18.2669404517,200672,,,Sergey Fomin,R,,UZB,18.2368240931,4-6 6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,586,5
 2019-M-ITF-UZB-02A-2019,M25 Namangan,Hard,32,S,20190429,21,111193,,,Alexander Vasilenko,R,,RUS,24.1697467488,106168,,,Sidharth Rawat,U,,IND,26.0205338809,3-6 6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,516,10
 2019-M-ITF-UZB-02A-2019,M25 Namangan,Hard,32,S,20190429,22,126646,3,,Tim Van Rijthoven,R,,NED,22.0123203285,123812,,IR  ,Jose Fco Vidal Azorin,U,,ESP,25.87816564,6-2 6-7(5) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,445,21,,
 2019-M-ITF-UZB-02A-2019,M25 Namangan,Hard,32,S,20190429,23,104505,,,Konstantin Kravchuk,R,190,RUS,34.1765913758,200594,,IR  ,Kristian Lozan,U,,RUS,20.5065023956,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,539,8,,
 2019-M-ITF-UZB-02A-2019,M25 Namangan,Hard,32,S,20190429,24,126939,2,,Khumoun Sultanov,R,,UZB,20.5037645448,207419,,Q,Matvey Minin,U,,RUS,17.8343600274,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,385,41,,
 2019-M-ITF-UZB-02A-2019,M25 Namangan,Hard,32,S,20190429,25,126128,,,Roman Safiullin,R,,RUS,21.7248459959,126185,7,,Evgenii Tiurnev,R,,RUS,22.0561259411,6-4 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,294,131,555,7
-2019-M-ITF-UZB-02A-2019,M25 Namangan,Hard,32,S,20190429,26,207608,,WC,Timofey Skatov,R,,RUS,18.2669404517,122548,,,Edan Leshem,U,1.83,ISR,22.1108829569,7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,458,19
+2019-M-ITF-UZB-02A-2019,M25 Namangan,Hard,32,S,20190429,26,207608,,WC,Timofey Skatov,R,,RUS,18.2669404517,122548,,,Edan Leshem,U,183,ISR,22.1108829569,7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,458,19
 2019-M-ITF-UZB-02A-2019,M25 Namangan,Hard,32,S,20190429,27,126646,3,,Tim Van Rijthoven,R,,NED,22.0123203285,111193,,,Alexander Vasilenko,R,,RUS,24.1697467488,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,445,21,,
 2019-M-ITF-UZB-02A-2019,M25 Namangan,Hard,32,S,20190429,28,104505,,,Konstantin Kravchuk,R,190,RUS,34.1765913758,126939,2,,Khumoun Sultanov,R,,UZB,20.5037645448,3-6 6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,539,8,385,41
 2019-M-ITF-UZB-02A-2019,M25 Namangan,Hard,32,S,20190429,29,126128,,,Roman Safiullin,R,,RUS,21.7248459959,207608,,WC,Timofey Skatov,R,,RUS,18.2669404517,6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,294,131,,
@@ -5897,7 +5897,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-GRE-02A-2019,M15 Heraklion,Hard,32,S,20190513,13,123807,,,Marek Jaloviec,L,,CZE,25.3059548255,133018,,,Michail Pervolarakis,R,,CYP,22.932238193,6-7(3) 7-6(4) RET,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2019-M-ITF-GRE-02A-2019,M15 Heraklion,Hard,32,S,20190513,14,126328,,,Gabriel Donev,R,,BUL,22.8692676249,207731,,,Brandon Murphy,U,,GBR,18.8145106092,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2019-M-ITF-GRE-02A-2019,M15 Heraklion,Hard,32,S,20190513,15,126488,,,Jonas Trinker,U,,AUT,23.704312115,207990,,Q,Moritz Thiem,R,,AUT,19.4277891855,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2019-M-ITF-GRE-02A-2019,M15 Heraklion,Hard,32,S,20190513,16,122548,2,,Edan Leshem,U,1.83,ISR,22.1492128679,208158,,,Dominik Palan,U,,CZE,18.6146475017,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,480,14,,
+2019-M-ITF-GRE-02A-2019,M15 Heraklion,Hard,32,S,20190513,16,122548,2,,Edan Leshem,U,183,ISR,22.1492128679,208158,,,Dominik Palan,U,,CZE,18.6146475017,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,480,14,,
 2019-M-ITF-GRE-02A-2019,M15 Heraklion,Hard,32,S,20190513,17,106266,,,Lloyd Glasspool,U,,GBR,25.4784394251,105534,,,Erik Crepaldi,L,,ITA,29.0239561944,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,468,16,,
 2019-M-ITF-GRE-02A-2019,M15 Heraklion,Hard,32,S,20190513,18,132124,,,Aaron Addison,R,,AUS,23.498973306,111809,7,,Henry Craig,R,,USA,24.5886379192,7-6(5) 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2019-M-ITF-GRE-02A-2019,M15 Heraklion,Hard,32,S,20190513,19,126530,,,Peter Bothwell,R,,IRL,23.6221765914,200345,,Q,Valentin Guenther,R,,GER,21.2402464066,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,622,3,,
@@ -5905,13 +5905,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-GRE-02A-2019,M15 Heraklion,Hard,32,S,20190513,21,200403,,,Patrik Nema,R,,SVK,21.5468856947,202420,,,Aidan Mchugh,U,,GBR,18.841889117,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2019-M-ITF-GRE-02A-2019,M15 Heraklion,Hard,32,S,20190513,22,200075,,,Yshai Oliel,L,,ISR,19.3511293634,106377,,,Robin Stanek,L,,CZE,24.3559206023,6-3 RET,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2019-M-ITF-GRE-02A-2019,M15 Heraklion,Hard,32,S,20190513,23,123807,,,Marek Jaloviec,L,,CZE,25.3059548255,126328,,,Gabriel Donev,R,,BUL,22.8692676249,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,,
-2019-M-ITF-GRE-02A-2019,M15 Heraklion,Hard,32,S,20190513,24,122548,2,,Edan Leshem,U,1.83,ISR,22.1492128679,126488,,,Jonas Trinker,U,,AUT,23.704312115,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,480,14,,
+2019-M-ITF-GRE-02A-2019,M15 Heraklion,Hard,32,S,20190513,24,122548,2,,Edan Leshem,U,183,ISR,22.1492128679,126488,,,Jonas Trinker,U,,AUT,23.704312115,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,480,14,,
 2019-M-ITF-GRE-02A-2019,M15 Heraklion,Hard,32,S,20190513,25,106266,,,Lloyd Glasspool,U,,GBR,25.4784394251,132124,,,Aaron Addison,R,,AUS,23.498973306,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,468,16,,
 2019-M-ITF-GRE-02A-2019,M15 Heraklion,Hard,32,S,20190513,26,126530,,,Peter Bothwell,R,,IRL,23.6221765914,208858,,JR   ,Pavel Shumeiko,L,,UKR,18.5845311431,6-4 6-7(5) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,622,3,,
 2019-M-ITF-GRE-02A-2019,M15 Heraklion,Hard,32,S,20190513,27,200075,,,Yshai Oliel,L,,ISR,19.3511293634,200403,,,Patrik Nema,R,,SVK,21.5468856947,1-6 6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,,,,
-2019-M-ITF-GRE-02A-2019,M15 Heraklion,Hard,32,S,20190513,28,122548,2,,Edan Leshem,U,1.83,ISR,22.1492128679,123807,,,Marek Jaloviec,L,,CZE,25.3059548255,5-7 7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,480,14,,
+2019-M-ITF-GRE-02A-2019,M15 Heraklion,Hard,32,S,20190513,28,122548,2,,Edan Leshem,U,183,ISR,22.1492128679,123807,,,Marek Jaloviec,L,,CZE,25.3059548255,5-7 7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,480,14,,
 2019-M-ITF-GRE-02A-2019,M15 Heraklion,Hard,32,S,20190513,29,106266,,,Lloyd Glasspool,U,,GBR,25.4784394251,126530,,,Peter Bothwell,R,,IRL,23.6221765914,6-7(5) 6-4 6-1,3,SF,,,,,,,,,,,,,,,,,,,,468,16,622,3
-2019-M-ITF-GRE-02A-2019,M15 Heraklion,Hard,32,S,20190513,30,200075,,,Yshai Oliel,L,,ISR,19.3511293634,122548,2,,Edan Leshem,U,1.83,ISR,22.1492128679,7-5 6-3,3,SF,,,,,,,,,,,,,,,,,,,,,,480,14
+2019-M-ITF-GRE-02A-2019,M15 Heraklion,Hard,32,S,20190513,30,200075,,,Yshai Oliel,L,,ISR,19.3511293634,122548,2,,Edan Leshem,U,183,ISR,22.1492128679,7-5 6-3,3,SF,,,,,,,,,,,,,,,,,,,,,,480,14
 2019-M-ITF-GRE-02A-2019,M15 Heraklion,Hard,32,S,20190513,31,200075,,,Yshai Oliel,L,,ISR,19.3511293634,106266,,,Lloyd Glasspool,U,,GBR,25.4784394251,6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,,,468,16
 2019-M-ITF-GRE-03A-2019,M15 Heraklion,Hard,32,S,20190520,1,106238,,,Andres Artunedo Martinavarro,R,,ESP,25.6783025325,123807,,,Marek Jaloviec,L,,CZE,25.325119781,2-6 7-6(3) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,396,35,,
 2019-M-ITF-GRE-03A-2019,M15 Heraklion,Hard,32,S,20190520,2,121773,,Q,Milen Ianakiev,U,,GER,23.832991102,207878,,,James Story,U,,GBR,18.2067077344,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -7254,7 +7254,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-ESP-15A-2019,M25 Palma del Rio,Hard,32,S,20190624,6,132744,,,Alberto Barroso Campos,R,,ESP,23.0527036277,200366,,,Olukayode Alafia Damina Ayeni,U,,USA,19.871321013,6-2 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,454,20
 2019-M-ITF-ESP-15A-2019,M25 Palma del Rio,Hard,32,S,20190624,7,106120,,,Ricardo Ojeda Lara,R,,ESP,26.4065708419,200278,,,Simon Carr,R,,IRL,19.627652293,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,422,29,,
 2019-M-ITF-ESP-15A-2019,M25 Palma del Rio,Hard,32,S,20190624,8,104963,8,,Yannick Mertens,R,,BEL,31.9972621492,207165,,,Enrique Luque Rico,U,,ESP,18.9678302533,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,437,24,,
-2019-M-ITF-ESP-15A-2019,M25 Palma del Rio,Hard,32,S,20190624,9,122548,,,Edan Leshem,U,1.83,ISR,22.264202601,123812,,Q,Jose Fco Vidal Azorin,U,,ESP,26.0314852841,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,402,36,,
+2019-M-ITF-ESP-15A-2019,M25 Palma del Rio,Hard,32,S,20190624,9,122548,,,Edan Leshem,U,183,ISR,22.264202601,123812,,Q,Jose Fco Vidal Azorin,U,,ESP,26.0314852841,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,402,36,,
 2019-M-ITF-ESP-15A-2019,M25 Palma del Rio,Hard,32,S,20190624,10,206746,,WC,Benjamin Winter Lopez,U,,ESP,21.0759753593,106061,,,Pavel Krainik,R,,CAN,26.7351129363,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,502,12
 2019-M-ITF-ESP-15A-2019,M25 Palma del Rio,Hard,32,S,20190624,11,207732,,,Miguel Damas,U,,ESP,19.5071868583,105156,,IR  ,Federico Zeballos,U,,BOL,31.0663928816,7-6(5) 5-7 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2019-M-ITF-ESP-15A-2019,M25 Palma del Rio,Hard,32,S,20190624,12,105716,4,,Tom Jomby,R,,FRA,28.3449691992,132741,,,Albert Roglan,U,,ESP,20.6105407255,6-7(5) 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,390,42,,
@@ -7266,7 +7266,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-ESP-15A-2019,M25 Palma del Rio,Hard,32,S,20190624,18,105434,,,Ruan Roelofse,R,,RSA,29.5961670089,105679,,,Eduardo Struvay,R,,COL,28.5174537988,6-3 6-7(4) 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,605,3,,
 2019-M-ITF-ESP-15A-2019,M25 Palma del Rio,Hard,32,S,20190624,19,126239,,,Arthur Rinderknech,R,,FRA,23.9206023272,132744,,,Alberto Barroso Campos,R,,ESP,23.0527036277,3-6 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,372,49,,
 2019-M-ITF-ESP-15A-2019,M25 Palma del Rio,Hard,32,S,20190624,20,106120,,,Ricardo Ojeda Lara,R,,ESP,26.4065708419,104963,8,,Yannick Mertens,R,,BEL,31.9972621492,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,422,29,437,24
-2019-M-ITF-ESP-15A-2019,M25 Palma del Rio,Hard,32,S,20190624,21,206746,,WC,Benjamin Winter Lopez,U,,ESP,21.0759753593,122548,,,Edan Leshem,U,1.83,ISR,22.264202601,W/O,3,R16,,,,,,,,,,,,,,,,,,,,,,402,36
+2019-M-ITF-ESP-15A-2019,M25 Palma del Rio,Hard,32,S,20190624,21,206746,,WC,Benjamin Winter Lopez,U,,ESP,21.0759753593,122548,,,Edan Leshem,U,183,ISR,22.264202601,W/O,3,R16,,,,,,,,,,,,,,,,,,,,,,402,36
 2019-M-ITF-ESP-15A-2019,M25 Palma del Rio,Hard,32,S,20190624,22,105716,4,,Tom Jomby,R,,FRA,28.3449691992,207732,,,Miguel Damas,U,,ESP,19.5071868583,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,390,42,,
 2019-M-ITF-ESP-15A-2019,M25 Palma del Rio,Hard,32,S,20190624,23,106238,,,Andres Artunedo Martinavarro,R,,ESP,25.7741273101,105874,,,Albano Olivetti,R,203,FRA,27.5811088296,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,400,38,439,23
 2019-M-ITF-ESP-15A-2019,M25 Palma del Rio,Hard,32,S,20190624,24,110536,2,,Kevin King,U,,USA,28.3175906913,125854,,IR  ,Jaume Pla Malfeito,U,,ESP,24.0574948665,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,396,40,672,1
@@ -9183,7 +9183,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-KAZ-06A-2019,M25 Ust Kamenogorsk,Hard,32,S,20190826,13,200441,,,Grigoriy Lomakin,U,,KAZ,21.440109514,126170,,,Timur Kiuamov,U,,RUS,22.8199863107,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,890,14,986,10
 2019-M-ITF-KAZ-06A-2019,M25 Ust Kamenogorsk,Hard,32,S,20190826,14,208036,,Q,Maxim Krapivin,U,,RUS,19.704312115,209197,,,Bartlomiej Kowalski,U,,POL,,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1803,1,,
 2019-M-ITF-KAZ-06A-2019,M25 Ust Kamenogorsk,Hard,32,S,20190826,15,200456,,,Martin Borisiouk,U,,BLR,19.1430527036,208200,,,Andrey Uvarov,U,,RUS,18.7214236824,6-2 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,1419,3,1914,1
-2019-M-ITF-KAZ-06A-2019,M25 Ust Kamenogorsk,Hard,32,S,20190826,16,122548,2,,Edan Leshem,U,1.83,ISR,22.4366872005,126615,,,Aliaksandr Prudnikau,U,,BLR,23.8466803559,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,446,71,1969,1
+2019-M-ITF-KAZ-06A-2019,M25 Ust Kamenogorsk,Hard,32,S,20190826,16,122548,2,,Edan Leshem,U,183,ISR,22.4366872005,126615,,,Aliaksandr Prudnikau,U,,BLR,23.8466803559,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,446,71,1969,1
 2019-M-ITF-KAZ-06A-2019,M25 Ust Kamenogorsk,Hard,32,S,20190826,17,104505,,,Konstantin Kravchuk,R,190,RUS,34.5023956194,126263,,Q,Sanetulla Kutybaev,U,,UZB,21.7248459959,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,335,115,,
 2019-M-ITF-KAZ-06A-2019,M25 Ust Kamenogorsk,Hard,32,S,20190826,18,208003,,,Bekkhan Atlangeriev,U,,RUS,18.4558521561,202320,,WC,Beibit Zhukayev,R,,KAZ,18.8692676249,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1803,1,,
 2019-M-ITF-KAZ-06A-2019,M25 Ust Kamenogorsk,Hard,32,S,20190826,19,123847,,,Bogdan Bobrov,U,,RUS,21.9411362081,130247,,,Anton Chekhov,R,,RUS,26.9431895962,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,569,44,1170,6
@@ -9191,14 +9191,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-KAZ-06A-2019,M25 Ust Kamenogorsk,Hard,32,S,20190826,21,121920,,WC,Timur Khabibulin,R,,KAZ,24.0657084189,126630,,,Ivan Liutarevich,U,,BLR,23.5126625599,6-3 6-7(5) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,1314,4
 2019-M-ITF-KAZ-06A-2019,M25 Ust Kamenogorsk,Hard,32,S,20190826,22,207609,4,,Alexey Zakharov,R,,RUS,19.3456536619,207294,,Q,Roman Blokhin,U,,RUS,20.4462696783,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,653,33,,
 2019-M-ITF-KAZ-06A-2019,M25 Ust Kamenogorsk,Hard,32,S,20190826,23,200441,,,Grigoriy Lomakin,U,,KAZ,21.440109514,208036,,Q,Maxim Krapivin,U,,RUS,19.704312115,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,890,14,1803,1
-2019-M-ITF-KAZ-06A-2019,M25 Ust Kamenogorsk,Hard,32,S,20190826,24,122548,2,,Edan Leshem,U,1.83,ISR,22.4366872005,200456,,,Martin Borisiouk,U,,BLR,19.1430527036,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,446,71,1419,3
+2019-M-ITF-KAZ-06A-2019,M25 Ust Kamenogorsk,Hard,32,S,20190826,24,122548,2,,Edan Leshem,U,183,ISR,22.4366872005,200456,,,Martin Borisiouk,U,,BLR,19.1430527036,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,446,71,1419,3
 2019-M-ITF-KAZ-06A-2019,M25 Ust Kamenogorsk,Hard,32,S,20190826,25,104505,,,Konstantin Kravchuk,R,190,RUS,34.5023956194,208003,,,Bekkhan Atlangeriev,U,,RUS,18.4558521561,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,335,115,1803,1
 2019-M-ITF-KAZ-06A-2019,M25 Ust Kamenogorsk,Hard,32,S,20190826,26,123847,,,Bogdan Bobrov,U,,RUS,21.9411362081,126171,5,,Maxim Ratniuk,U,,UKR,23.3264887064,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,569,44,888,14
 2019-M-ITF-KAZ-06A-2019,M25 Ust Kamenogorsk,Hard,32,S,20190826,27,207609,4,,Alexey Zakharov,R,,RUS,19.3456536619,121920,,WC,Timur Khabibulin,R,,KAZ,24.0657084189,6-3 4-1 RET,3,QF,,,,,,,,,,,,,,,,,,,,653,33,,
-2019-M-ITF-KAZ-06A-2019,M25 Ust Kamenogorsk,Hard,32,S,20190826,28,122548,2,,Edan Leshem,U,1.83,ISR,22.4366872005,200441,,,Grigoriy Lomakin,U,,KAZ,21.440109514,7-5 6-0,3,QF,,,,,,,,,,,,,,,,,,,,446,71,890,14
+2019-M-ITF-KAZ-06A-2019,M25 Ust Kamenogorsk,Hard,32,S,20190826,28,122548,2,,Edan Leshem,U,183,ISR,22.4366872005,200441,,,Grigoriy Lomakin,U,,KAZ,21.440109514,7-5 6-0,3,QF,,,,,,,,,,,,,,,,,,,,446,71,890,14
 2019-M-ITF-KAZ-06A-2019,M25 Ust Kamenogorsk,Hard,32,S,20190826,29,104505,,,Konstantin Kravchuk,R,190,RUS,34.5023956194,123847,,,Bogdan Bobrov,U,,RUS,21.9411362081,6-2 7-5,3,SF,,,,,,,,,,,,,,,,,,,,335,115,569,44
-2019-M-ITF-KAZ-06A-2019,M25 Ust Kamenogorsk,Hard,32,S,20190826,30,122548,2,,Edan Leshem,U,1.83,ISR,22.4366872005,207609,4,,Alexey Zakharov,R,,RUS,19.3456536619,4-0 RET,3,SF,,,,,,,,,,,,,,,,,,,,446,71,653,33
-2019-M-ITF-KAZ-06A-2019,M25 Ust Kamenogorsk,Hard,32,S,20190826,31,122548,2,,Edan Leshem,U,1.83,ISR,22.4366872005,104505,,,Konstantin Kravchuk,R,190,RUS,34.5023956194,2-2 RET,3,F,,,,,,,,,,,,,,,,,,,,446,71,335,115
+2019-M-ITF-KAZ-06A-2019,M25 Ust Kamenogorsk,Hard,32,S,20190826,30,122548,2,,Edan Leshem,U,183,ISR,22.4366872005,207609,4,,Alexey Zakharov,R,,RUS,19.3456536619,4-0 RET,3,SF,,,,,,,,,,,,,,,,,,,,446,71,653,33
+2019-M-ITF-KAZ-06A-2019,M25 Ust Kamenogorsk,Hard,32,S,20190826,31,122548,2,,Edan Leshem,U,183,ISR,22.4366872005,104505,,,Konstantin Kravchuk,R,190,RUS,34.5023956194,2-2 RET,3,F,,,,,,,,,,,,,,,,,,,,446,71,335,115
 2019-M-ITF-KAZ-07A-2019,M15 Shymkent,Clay,32,S,20190909,1,106169,,,Vladyslav Manafov,U,,UKR,26.3819301848,207539,,WC,Vladislav Sveridenko,U,,RUS,18.2012320329,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,538,48,,
 2019-M-ITF-KAZ-07A-2019,M15 Shymkent,Clay,32,S,20190909,2,200442,,,Dostanbek Tashbulatov,U,,KAZ,19.2005475702,208866,,Q,Leonid Sheyngezikht,U,,BUL,18.8446269678,2-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,988,10,1901,1
 2019-M-ITF-KAZ-07A-2019,M15 Shymkent,Clay,32,S,20190909,3,202320,,Q,Beibit Zhukayev,R,,KAZ,18.9075975359,208450,,,Mark Tryakshin,U,,UZB,18.12183436,3-6 6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1548,2,,
@@ -11496,7 +11496,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-FRA-15A-2019,M25 Bagneres De Bigorre,Hard,32,S,20190902,1,111775,,,Evan Hoyt,R,,GBR,24.6078028747,208168,,Q,Nicolas Tepmahc,U,,FRA,18.2587268994,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,351,109,1233,5
 2019-M-ITF-FRA-15A-2019,M25 Bagneres De Bigorre,Hard,32,S,20190902,2,105088,,,Laurent Rochette,R,,FRA,31.5537303217,134052,,Q,Anatoliy Petrenko,R,,UKR,23.7262149213,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,796,18,1606,2
 2019-M-ITF-FRA-15A-2019,M25 Bagneres De Bigorre,Hard,32,S,20190902,3,209234,,,Axel Garcian,U,,FRA,,134726,,Q,Hugo Cazaban,U,,FRA,20.900752909,3-6 6-1 4-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2019-M-ITF-FRA-15A-2019,M25 Bagneres De Bigorre,Hard,32,S,20190902,4,122548,6,,Edan Leshem,U,1.83,ISR,22.4366872005,106016,,,Yanais Laurent,R,,FRA,27.2197125257,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,446,71,701,28
+2019-M-ITF-FRA-15A-2019,M25 Bagneres De Bigorre,Hard,32,S,20190902,4,122548,6,,Edan Leshem,U,183,ISR,22.4366872005,106016,,,Yanais Laurent,R,,FRA,27.2197125257,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,446,71,701,28
 2019-M-ITF-FRA-15A-2019,M25 Bagneres De Bigorre,Hard,32,S,20190902,5,105716,,,Tom Jomby,R,,FRA,28.5174537988,208442,,Q,Luca Sanchez,U,,FRA,20.4407939767,7-6(4) 4-6 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,413,81,,
 2019-M-ITF-FRA-15A-2019,M25 Bagneres De Bigorre,Hard,32,S,20190902,6,105874,,,Albano Olivetti,R,203,FRA,27.7535934292,105559,,,Jonathan Eysseric,L,180,FRA,29.2484599589,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,497,59,1137,6
 2019-M-ITF-FRA-15A-2019,M25 Bagneres De Bigorre,Hard,32,S,20190902,7,126508,,,Florian Lakat,U,,FRA,24.0629705681,105178,,,Alexis Musialek,U,,FRA,31.1430527036,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,841,16,1119,7
@@ -11510,14 +11510,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-ITF-FRA-15A-2019,M25 Bagneres De Bigorre,Hard,32,S,20190902,15,205842,,,Arthur Reymond,U,,FRA,20.3997262149,144787,,,Gabriel Petit,R,,FRA,24.0109514031,6-2 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,932,12,535,49
 2019-M-ITF-FRA-15A-2019,M25 Bagneres De Bigorre,Hard,32,S,20190902,16,208684,,,Emilien Burnel,U,,FRA,18.8117727584,106417,,LL,Robert Ziganshin,U,,RUS,23.832991102,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2019-M-ITF-FRA-15A-2019,M25 Bagneres De Bigorre,Hard,32,S,20190902,17,111775,,,Evan Hoyt,R,,GBR,24.6078028747,105088,,,Laurent Rochette,R,,FRA,31.5537303217,2-6 6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,351,109,796,18
-2019-M-ITF-FRA-15A-2019,M25 Bagneres De Bigorre,Hard,32,S,20190902,18,122548,6,,Edan Leshem,U,1.83,ISR,22.4366872005,209234,,,Axel Garcian,U,,FRA,,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,446,71,,
+2019-M-ITF-FRA-15A-2019,M25 Bagneres De Bigorre,Hard,32,S,20190902,18,122548,6,,Edan Leshem,U,183,ISR,22.4366872005,209234,,,Axel Garcian,U,,FRA,,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,446,71,,
 2019-M-ITF-FRA-15A-2019,M25 Bagneres De Bigorre,Hard,32,S,20190902,19,105716,,,Tom Jomby,R,,FRA,28.5174537988,105874,,,Albano Olivetti,R,203,FRA,27.7535934292,6-0 3-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,413,81,497,59
 2019-M-ITF-FRA-15A-2019,M25 Bagneres De Bigorre,Hard,32,S,20190902,20,206758,7,,Antoine Cornut Chauvinc,U,,FRA,19.1348391513,126508,,,Florian Lakat,U,,FRA,24.0629705681,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,448,71,841,16
 2019-M-ITF-FRA-15A-2019,M25 Bagneres De Bigorre,Hard,32,S,20190902,21,105679,,,Eduardo Struvay,R,,COL,28.6899383984,206889,,Q,Clement Chidekh,U,,FRA,18.2012320329,4-6 6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,485,62,,
 2019-M-ITF-FRA-15A-2019,M25 Bagneres De Bigorre,Hard,32,S,20190902,22,131866,,,Hendrik Jebens,U,,GER,24.0492813142,134786,,,Pierre Faivre,U,,FRA,23.5345653662,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1982,1,905,13
 2019-M-ITF-FRA-15A-2019,M25 Bagneres De Bigorre,Hard,32,S,20190902,23,104963,,,Yannick Mertens,R,,BEL,32.1697467488,127326,,,Ben Patael,U,,ISR,22.2313483915,6-4 3-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,443,72,488,61
 2019-M-ITF-FRA-15A-2019,M25 Bagneres De Bigorre,Hard,32,S,20190902,24,205842,,,Arthur Reymond,U,,FRA,20.3997262149,208684,,,Emilien Burnel,U,,FRA,18.8117727584,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,932,12,,
-2019-M-ITF-FRA-15A-2019,M25 Bagneres De Bigorre,Hard,32,S,20190902,25,111775,,,Evan Hoyt,R,,GBR,24.6078028747,122548,6,,Edan Leshem,U,1.83,ISR,22.4366872005,7-6(8) 3-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,351,109,446,71
+2019-M-ITF-FRA-15A-2019,M25 Bagneres De Bigorre,Hard,32,S,20190902,25,111775,,,Evan Hoyt,R,,GBR,24.6078028747,122548,6,,Edan Leshem,U,183,ISR,22.4366872005,7-6(8) 3-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,351,109,446,71
 2019-M-ITF-FRA-15A-2019,M25 Bagneres De Bigorre,Hard,32,S,20190902,26,105716,,,Tom Jomby,R,,FRA,28.5174537988,206758,7,,Antoine Cornut Chauvinc,U,,FRA,19.1348391513,7-6(3) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,413,81,448,71
 2019-M-ITF-FRA-15A-2019,M25 Bagneres De Bigorre,Hard,32,S,20190902,27,105679,,,Eduardo Struvay,R,,COL,28.6899383984,131866,,,Hendrik Jebens,U,,GER,24.0492813142,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,485,62,1982,1
 2019-M-ITF-FRA-15A-2019,M25 Bagneres De Bigorre,Hard,32,S,20190902,28,104963,,,Yannick Mertens,R,,BEL,32.1697467488,205842,,,Arthur Reymond,U,,FRA,20.3997262149,3-6 6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,443,72,932,12
