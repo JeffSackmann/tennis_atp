@@ -1097,7 +1097,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-THA-01A-2014,Thailand F1,Hard,32,S,20140210,11,105059,,,Kento Takeuchi,L,,JPN,26.1464750171,106304,,,Mico Santiago,U,,USA,19.9206023272,4-6 7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,570,53,859,17
 2014-M-FU-THA-01A-2014,Thailand F1,Hard,32,S,20140210,12,104781,3,,Yuichi Ito,R,,JPN,27.5154004107,106191,,Q,Mick Lescure,R,,FRA,20.6926762491,7-6(3) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,383,103,1270,5
 2014-M-FU-THA-01A-2014,Thailand F1,Hard,32,S,20140210,13,106227,,,Ji Sung Nam,R,,KOR,20.4900752909,105178,5,,Alexis Musialek,U,,FRA,25.6043805613,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,568,53,455,82
-2014-M-FU-THA-01A-2014,Thailand F1,Hard,32,S,20140210,14,105812,,Q,David Agung Susanto,U,,INA,22.559890486,105464,,Q,Christopher Rungkat,R,1.7,INA,24.0739219713,6-3 3-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1392,3,870,16
+2014-M-FU-THA-01A-2014,Thailand F1,Hard,32,S,20140210,14,105812,,Q,David Agung Susanto,U,,INA,22.559890486,105464,,Q,Christopher Rungkat,R,170,INA,24.0739219713,6-3 3-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1392,3,870,16
 2014-M-FU-THA-01A-2014,Thailand F1,Hard,32,S,20140210,15,105142,,,Arata Onozawa,U,,JPN,25.787816564,127146,,WC,Nawakarn Khunjan,U,,THA,15.6906228611,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,696,32,,
 2014-M-FU-THA-01A-2014,Thailand F1,Hard,32,S,20140210,16,103657,2,,Ivo Klec,R,183,SVK,33.2019164956,111182,,WC,Singekrawee Wattanakul,R,,THA,18.5242984257,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,386,102,1399,3
 2014-M-FU-THA-01A-2014,Thailand F1,Hard,32,S,20140210,17,104082,1,,Hiroki Kondo,R,,JPN,31.266255989,103514,,Q,Young Jun Kim,R,,KOR,33.9657768652,6-3 2-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,287,156,1416,3
@@ -1402,7 +1402,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-RUS-01A-2014,Russia F1,Hard,32,S,20140217,6,111793,,Q,Aleksandr Ivanovich Spirin,R,,RUS,18.6611909651,126764,,Q,Mikhail Galyamov,U,,RUS,18.4859685147,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1426,3,,
 2014-M-FU-RUS-01A-2014,Russia F1,Hard,32,S,20140217,7,105781,,,Andrei Vasilevski,R,185,BLR,22.726899384,106330,,Q,Vitaly Kozyukov,R,,RUS,19.7125256674,6-3 0-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,812,21,1441,3
 2014-M-FU-RUS-01A-2014,Russia F1,Hard,32,S,20140217,8,105602,,Q,Ilya Lebedev,U,,RUS,23.5482546201,104654,7,,Baris Erguden,R,,TUR,28.128678987,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1909,1,683,34
-2014-M-FU-RUS-01A-2014,Russia F1,Hard,32,S,20140217,9,106138,8,,Yaraslau Shyla,R,,BLR,20.9555099247,105496,,WC,Anton Manegin,R,,RUS,23.9370294319,7-6(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,733,27,1346,4
+2014-M-FU-RUS-01A-2014,Russia F1,Hard,32,S,20140217,9,106138,8,,Yaraslav Shyla,R,,BLR,20.9555099247,105496,,WC,Anton Manegin,R,,RUS,23.9370294319,7-6(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,733,27,1346,4
 2014-M-FU-RUS-01A-2014,Russia F1,Hard,32,S,20140217,10,105545,,,Mikhail Fufygin,U,,RUS,23.7672826831,121590,,Q,Vladimir Geller,L,,RUS,26.4969199179,2-6 7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,773,24,,
 2014-M-FU-RUS-01A-2014,Russia F1,Hard,32,S,20140217,11,105136,,,Andrei Plotniy,U,,RUS,25.864476386,105886,,,Anton Galkin,U,,RUS,22.1519507187,6-4 1-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,906,15,864,17
 2014-M-FU-RUS-01A-2014,Russia F1,Hard,32,S,20140217,12,104980,3,,Anton Zaitsev,U,,RUS,26.5763175907,105687,,,Sergey Strelkov,R,,RUS,23.1211498973,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,487,72,895,15
@@ -1414,13 +1414,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-RUS-01A-2014,Russia F1,Hard,32,S,20140217,18,122321,6,,Marat Deviatiarov,R,,UKR,19.832991102,105813,,,Ilia Shatskiy,R,,RUS,22.5790554415,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,629,41,1093,8
 2014-M-FU-RUS-01A-2014,Russia F1,Hard,32,S,20140217,19,104187,4,,Vadim Alekseenko,R,,UKR,30.7515400411,111793,,Q,Aleksandr Ivanovich Spirin,R,,RUS,18.6611909651,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,576,52,1426,3
 2014-M-FU-RUS-01A-2014,Russia F1,Hard,32,S,20140217,20,105781,,,Andrei Vasilevski,R,185,BLR,22.726899384,105602,,Q,Ilya Lebedev,U,,RUS,23.5482546201,7-6(7) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,812,21,1909,1
-2014-M-FU-RUS-01A-2014,Russia F1,Hard,32,S,20140217,21,106138,8,,Yaraslau Shyla,R,,BLR,20.9555099247,105545,,,Mikhail Fufygin,U,,RUS,23.7672826831,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,733,27,773,24
+2014-M-FU-RUS-01A-2014,Russia F1,Hard,32,S,20140217,21,106138,8,,Yaraslav Shyla,R,,BLR,20.9555099247,105545,,,Mikhail Fufygin,U,,RUS,23.7672826831,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,733,27,773,24
 2014-M-FU-RUS-01A-2014,Russia F1,Hard,32,S,20140217,22,104980,3,,Anton Zaitsev,U,,RUS,26.5763175907,105136,,,Andrei Plotniy,U,,RUS,25.864476386,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,487,72,906,15
 2014-M-FU-RUS-01A-2014,Russia F1,Hard,32,S,20140217,23,106169,5,,Vladyslav Manafov,U,,UKR,20.8240930869,111167,,,Ugo Nastasi,R,185,LUX,20.8405201916,7-6(5) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,596,46,966,12
 2014-M-FU-RUS-01A-2014,Russia F1,Hard,32,S,20140217,24,105692,2,,Alessandro Bega,R,,ITA,23.1019849418,126185,,WC,Evgenii Tiurnev,R,,RUS,16.8624229979,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,482,74,1803,1
 2014-M-FU-RUS-01A-2014,Russia F1,Hard,32,S,20140217,25,105246,1,,Michal Schmid,U,,CZE,25.2210814511,122321,6,,Marat Deviatiarov,R,,UKR,19.832991102,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,427,91,629,41
 2014-M-FU-RUS-01A-2014,Russia F1,Hard,32,S,20140217,26,105781,,,Andrei Vasilevski,R,185,BLR,22.726899384,104187,4,,Vadim Alekseenko,R,,UKR,30.7515400411,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,812,21,576,52
-2014-M-FU-RUS-01A-2014,Russia F1,Hard,32,S,20140217,27,104980,3,,Anton Zaitsev,U,,RUS,26.5763175907,106138,8,,Yaraslau Shyla,R,,BLR,20.9555099247,2-6 6-4 7-6(6),3,QF,,,,,,,,,,,,,,,,,,,,487,72,733,27
+2014-M-FU-RUS-01A-2014,Russia F1,Hard,32,S,20140217,27,104980,3,,Anton Zaitsev,U,,RUS,26.5763175907,106138,8,,Yaraslav Shyla,R,,BLR,20.9555099247,2-6 6-4 7-6(6),3,QF,,,,,,,,,,,,,,,,,,,,487,72,733,27
 2014-M-FU-RUS-01A-2014,Russia F1,Hard,32,S,20140217,28,105692,2,,Alessandro Bega,R,,ITA,23.1019849418,106169,5,,Vladyslav Manafov,U,,UKR,20.8240930869,6-4 7-6(6),3,QF,,,,,,,,,,,,,,,,,,,,482,74,596,46
 2014-M-FU-RUS-01A-2014,Russia F1,Hard,32,S,20140217,29,105246,1,,Michal Schmid,U,,CZE,25.2210814511,105781,,,Andrei Vasilevski,R,185,BLR,22.726899384,6-4 6-1,3,SF,,,,,,,,,,,,,,,,,,,,427,91,812,21
 2014-M-FU-RUS-01A-2014,Russia F1,Hard,32,S,20140217,30,104980,3,,Anton Zaitsev,U,,RUS,26.5763175907,105692,2,,Alessandro Bega,R,,ITA,23.1019849418,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,487,72,482,74
@@ -1614,7 +1614,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-FRA-04A-2014,France F4,Hard,32,S,20140224,1,104893,1,,Maxime Authom,R,,BEL,26.9103353867,103872,,,Dimitar Grabuloski,U,,MKD,32.3039014374,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,259,178,518,66
 2014-M-FU-FRA-04A-2014,France F4,Hard,32,S,20140224,2,105714,,,Hugo Nys,R,,MON,23.022587269,105313,,,Jaime Pulgar Garcia,U,,ESP,24.8898015058,6-3 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,498,71,575,53
 2014-M-FU-FRA-04A-2014,France F4,Hard,32,S,20140224,3,105593,,,Yannick Vandenbulcke,R,,BEL,23.6057494867,105586,,,Alexandar Lazov,U,183,BUL,23.6303901437,6-4 2-6 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,731,28,610,45
-2014-M-FU-FRA-04A-2014,France F4,Hard,32,S,20140224,4,105664,7,,Ivan Arenas Gualda,U,,ESP,23.318275154,110600,,Q,Robert Quentin,R,,FRA,19.5044490075,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,381,108,,
+2014-M-FU-FRA-04A-2014,France F4,Hard,32,S,20140224,4,105664,7,,Ivan Arenas Gualda,U,,ESP,23.318275154,110600,,Q,Quentin Robert,R,,FRA,19.5044490075,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,381,108,,
 2014-M-FU-FRA-04A-2014,France F4,Hard,32,S,20140224,5,104963,4,,Yannick Mertens,R,,BEL,26.6694045175,105118,,Q,Dorian Descloix,R,193,FRA,25.9493497604,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,278,163,923,14
 2014-M-FU-FRA-04A-2014,France F4,Hard,32,S,20140224,6,123922,,Q,Remy Chala,U,,FRA,19.0499657769,105414,,,Matthieu Roy,U,,FRA,24.424366872,4-6 6-1 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,1660,2,757,26
 2014-M-FU-FRA-04A-2014,France F4,Hard,32,S,20140224,7,121682,,WC,Maxence Olivier,U,,FRA,20.9144421629,126409,,Q,Hugo Grenier,R,,FRA,17.9247091034,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1914,1
@@ -1776,7 +1776,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-KAZ-01A-2014,Kazakhstan F1,Hard,32,S,20140224,8,104901,6,,Vladimir Ivanov,R,,EST,26.8774811773,105824,,,Kirill Dmitriev,U,,RUS,22.546201232,4-3 RET,3,R32,,,,,,,,,,,,,,,,,,,,560,55,869,17
 2014-M-FU-KAZ-01A-2014,Kazakhstan F1,Hard,32,S,20140224,9,105095,5,WC,Evgeny Korolev,R,185,KAZ,26.0287474333,106381,,,Temur Ismailov,R,,UZB,19.112936345,6-7(3) 6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,395,100,896,15
 2014-M-FU-KAZ-01A-2014,Kazakhstan F1,Hard,32,S,20140224,10,122109,,,Sanjar Fayziev,U,,UZB,19.575633128,111173,,Q,Timofey Skripkin,U,,RUS,24.6707734428,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1023,10,,
-2014-M-FU-KAZ-01A-2014,Kazakhstan F1,Hard,32,S,20140224,11,106138,,,Yaraslau Shyla,R,,BLR,20.9746748802,109737,,,Markos Kalovelonis,R,,GRE,19.7727583847,4-6 7-6(4) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,738,27,694,33
+2014-M-FU-KAZ-01A-2014,Kazakhstan F1,Hard,32,S,20140224,11,106138,,,Yaraslav Shyla,R,,BLR,20.9746748802,109737,,,Markos Kalovelonis,R,,GRE,19.7727583847,4-6 7-6(4) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,738,27,694,33
 2014-M-FU-KAZ-01A-2014,Kazakhstan F1,Hard,32,S,20140224,12,106390,4,,Matteo Donati,R,,ITA,18.9897330595,105781,,,Andrei Vasilevski,R,185,BLR,22.7460643395,2-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,424,92,811,21
 2014-M-FU-KAZ-01A-2014,Kazakhstan F1,Hard,32,S,20140224,13,126094,7,,Andrey Rublev,R,188,RUS,16.34770705,121920,,Q,Timur Khabibulin,R,,KAZ,18.5653661875,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,651,38,1479,3
 2014-M-FU-KAZ-01A-2014,Kazakhstan F1,Hard,32,S,20140224,14,106073,,,Daniiar Duldaev,R,,KGZ,21.3278576318,126937,,Q,Odil Akramov,R,,UZB,19.3839835729,6-7(3) 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,678,35,,
@@ -1787,7 +1787,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-KAZ-01A-2014,Kazakhstan F1,Hard,32,S,20140224,19,106072,3,,Alexey Vatutin,R,,RUS,21.3278576318,106248,,Q,Edoardo Eremin,R,,ITA,20.3887748118,3-6 6-3 1-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,378,109,484,74
 2014-M-FU-KAZ-01A-2014,Kazakhstan F1,Hard,32,S,20140224,20,105750,,,Vitaliy Kachanovskiy,U,,RUS,22.8720054757,104901,6,,Vladimir Ivanov,R,,EST,26.8774811773,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,976,12,560,55
 2014-M-FU-KAZ-01A-2014,Kazakhstan F1,Hard,32,S,20140224,21,105095,5,WC,Evgeny Korolev,R,185,KAZ,26.0287474333,122109,,,Sanjar Fayziev,U,,UZB,19.575633128,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,395,100,1023,10
-2014-M-FU-KAZ-01A-2014,Kazakhstan F1,Hard,32,S,20140224,22,106390,4,,Matteo Donati,R,,ITA,18.9897330595,106138,,,Yaraslau Shyla,R,,BLR,20.9746748802,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,424,92,738,27
+2014-M-FU-KAZ-01A-2014,Kazakhstan F1,Hard,32,S,20140224,22,106390,4,,Matteo Donati,R,,ITA,18.9897330595,106138,,,Yaraslav Shyla,R,,BLR,20.9746748802,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,424,92,738,27
 2014-M-FU-KAZ-01A-2014,Kazakhstan F1,Hard,32,S,20140224,23,126094,7,,Andrey Rublev,R,188,RUS,16.34770705,106073,,,Daniiar Duldaev,R,,KGZ,21.3278576318,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,651,38,678,35
 2014-M-FU-KAZ-01A-2014,Kazakhstan F1,Hard,32,S,20140224,24,105043,2,,Marek Semjan,U,,SVK,26.2997946612,120903,,WC,Kaysar Bekimov,U,,KAZ,24.2026009582,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,291,156,,
 2014-M-FU-KAZ-01A-2014,Kazakhstan F1,Hard,32,S,20140224,25,105179,1,,Adrian Sikora,U,,SVK,25.6399726215,106187,8,,Denis Yevseyev,U,,KAZ,20.7611225188,6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,275,165,605,46
@@ -2017,7 +2017,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-CHN-01A-2014,China F1,Hard,32,S,20140303,1,105430,1,,Radu Albot,R,175,MDA,24.3066392882,106056,,Q,Yang Lu,U,,CHN,21.4510609172,6-7(6) 6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,164,322,,
 2014-M-FU-CHN-01A-2014,China F1,Hard,32,S,20140303,2,111202,,,Hyeon Chung,R,188,KOR,17.787816564,105434,,,Ruan Roelofse,R,,RSA,24.2874743326,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,479,76,746,27
 2014-M-FU-CHN-01A-2014,China F1,Hard,32,S,20140303,3,105579,,,Kittipong Wachiramanowong,R,183,THA,23.6878850103,105670,,,Karunuday Singh,R,,IND,23.2854209446,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,802,22,488,73
-2014-M-FU-CHN-01A-2014,China F1,Hard,32,S,20140303,4,104476,7,,Louk Sorensen,R,175,IRL,29.1498973306,105464,,Q,Christopher Rungkat,R,1.7,INA,24.1314168378,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,376,109,873,16
+2014-M-FU-CHN-01A-2014,China F1,Hard,32,S,20140303,4,104476,7,,Louk Sorensen,R,175,IRL,29.1498973306,105464,,Q,Christopher Rungkat,R,170,INA,24.1314168378,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,376,109,873,16
 2014-M-FU-CHN-01A-2014,China F1,Hard,32,S,20140303,5,104804,3,,Amir Weintraub,R,188,ISR,27.4606433949,126172,,Q,Hanxiang Chen,U,,CHN,20.0958247775,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,211,240,1691,1
 2014-M-FU-CHN-01A-2014,China F1,Hard,32,S,20140303,6,104810,,,Zhe Li,R,185,CHN,27.4496919918,111785,,WC,Siyu Liu,U,,CHN,18.3353867214,4-6 7-6(2) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,841,18,1183,6
 2014-M-FU-CHN-01A-2014,China F1,Hard,32,S,20140303,7,104989,,Q,Peng Gao,U,,CHN,26.5845311431,109331,,Q,Xiao Gong,U,,CHN,22.1574264203,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1237,5,1917,1
@@ -2242,7 +2242,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-KAZ-02A-2014,Kazakhstan F2,Hard,32,S,20140303,9,106381,,,Temur Ismailov,R,,UZB,19.1321013005,106073,8,,Daniiar Duldaev,R,,KGZ,21.3470225873,6-4 6-7(5) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,894,15,676,35
 2014-M-FU-KAZ-02A-2014,Kazakhstan F2,Hard,32,S,20140303,10,122109,,,Sanjar Fayziev,U,,UZB,19.5947980835,109737,,,Markos Kalovelonis,R,,GRE,19.7919233402,2-6 7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1019,10,693,33
 2014-M-FU-KAZ-02A-2014,Kazakhstan F2,Hard,32,S,20140303,11,126616,,Q,Anton Dubrov,R,,BLR,18.7077344285,132413,,Q,Kassimbek Akzharkenov,R,,KAZ,16.7857631759,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2014-M-FU-KAZ-02A-2014,Kazakhstan F2,Hard,32,S,20140303,12,106138,,,Yaraslau Shyla,R,,BLR,20.9938398357,106106,,LL,George Tsivadze,U,,GEO,21.1635865845,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,718,30,1654,2
+2014-M-FU-KAZ-02A-2014,Kazakhstan F2,Hard,32,S,20140303,12,106138,,,Yaraslav Shyla,R,,BLR,20.9938398357,106106,,LL,George Tsivadze,U,,GEO,21.1635865845,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,718,30,1654,2
 2014-M-FU-KAZ-02A-2014,Kazakhstan F2,Hard,32,S,20140303,13,104901,5,,Vladimir Ivanov,R,,EST,26.8966461328,106204,,,Nigmat Shofayziev,R,,UZB,20.6735112936,7-6(3) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,566,54,1059,9
 2014-M-FU-KAZ-02A-2014,Kazakhstan F2,Hard,32,S,20140303,14,122510,,WC,Kuatbek Abiyev,U,,KAZ,19.1594798084,127302,,WC,Bogdan Valiev,U,,KAZ,18.0725530459,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2014-M-FU-KAZ-02A-2014,Kazakhstan F2,Hard,32,S,20140303,15,122236,,WC,Roman Hassanov,R,,KAZ,17.4839151266,123736,,WC,Sagadat Ayap,U,,KAZ,18.7734428474,6-3 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,1622,2,2110,1
@@ -2252,16 +2252,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-KAZ-02A-2014,Kazakhstan F2,Hard,32,S,20140303,19,106223,,,Aleksandre Metreveli,R,,GEO,20.5612594114,105095,3,,Evgeny Korolev,R,185,KAZ,26.0479123888,6-4 RET,3,R16,,,,,,,,,,,,,,,,,,,,940,13,399,100
 2014-M-FU-KAZ-02A-2014,Kazakhstan F2,Hard,32,S,20140303,20,126094,7,,Andrey Rublev,R,188,RUS,16.3668720055,123773,,,Giorgi Javakhishvili,R,,GEO,18.3600273785,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,652,38,1441,3
 2014-M-FU-KAZ-02A-2014,Kazakhstan F2,Hard,32,S,20140303,21,106381,,,Temur Ismailov,R,,UZB,19.1321013005,122109,,,Sanjar Fayziev,U,,UZB,19.5947980835,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,894,15,1019,10
-2014-M-FU-KAZ-02A-2014,Kazakhstan F2,Hard,32,S,20140303,22,106138,,,Yaraslau Shyla,R,,BLR,20.9938398357,126616,,Q,Anton Dubrov,R,,BLR,18.7077344285,7-6(5) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,718,30,,
+2014-M-FU-KAZ-02A-2014,Kazakhstan F2,Hard,32,S,20140303,22,106138,,,Yaraslav Shyla,R,,BLR,20.9938398357,126616,,Q,Anton Dubrov,R,,BLR,18.7077344285,7-6(5) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,718,30,,
 2014-M-FU-KAZ-02A-2014,Kazakhstan F2,Hard,32,S,20140303,23,104901,5,,Vladimir Ivanov,R,,EST,26.8966461328,122510,,WC,Kuatbek Abiyev,U,,KAZ,19.1594798084,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,566,54,,
 2014-M-FU-KAZ-02A-2014,Kazakhstan F2,Hard,32,S,20140303,24,106072,2,,Alexey Vatutin,R,,RUS,21.3470225873,122236,,WC,Roman Hassanov,R,,KAZ,17.4839151266,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,384,108,1622,2
 2014-M-FU-KAZ-02A-2014,Kazakhstan F2,Hard,32,S,20140303,25,105043,1,,Marek Semjan,U,,SVK,26.3189596167,106187,6,,Denis Yevseyev,U,,KAZ,20.7802874743,6-0 3-0 RET,3,QF,,,,,,,,,,,,,,,,,,,,322,141,625,43
 2014-M-FU-KAZ-02A-2014,Kazakhstan F2,Hard,32,S,20140303,26,126094,7,,Andrey Rublev,R,188,RUS,16.3668720055,106223,,,Aleksandre Metreveli,R,,GEO,20.5612594114,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,652,38,940,13
-2014-M-FU-KAZ-02A-2014,Kazakhstan F2,Hard,32,S,20140303,27,106138,,,Yaraslau Shyla,R,,BLR,20.9938398357,106381,,,Temur Ismailov,R,,UZB,19.1321013005,6-3 7-6(6),3,QF,,,,,,,,,,,,,,,,,,,,718,30,894,15
+2014-M-FU-KAZ-02A-2014,Kazakhstan F2,Hard,32,S,20140303,27,106138,,,Yaraslav Shyla,R,,BLR,20.9938398357,106381,,,Temur Ismailov,R,,UZB,19.1321013005,6-3 7-6(6),3,QF,,,,,,,,,,,,,,,,,,,,718,30,894,15
 2014-M-FU-KAZ-02A-2014,Kazakhstan F2,Hard,32,S,20140303,28,106072,2,,Alexey Vatutin,R,,RUS,21.3470225873,104901,5,,Vladimir Ivanov,R,,EST,26.8966461328,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,384,108,566,54
 2014-M-FU-KAZ-02A-2014,Kazakhstan F2,Hard,32,S,20140303,29,126094,7,,Andrey Rublev,R,188,RUS,16.3668720055,105043,1,,Marek Semjan,U,,SVK,26.3189596167,6-1 6-4,3,SF,,,,,,,,,,,,,,,,,,,,652,38,322,141
-2014-M-FU-KAZ-02A-2014,Kazakhstan F2,Hard,32,S,20140303,30,106138,,,Yaraslau Shyla,R,,BLR,20.9938398357,106072,2,,Alexey Vatutin,R,,RUS,21.3470225873,7-5 6-4,3,SF,,,,,,,,,,,,,,,,,,,,718,30,384,108
-2014-M-FU-KAZ-02A-2014,Kazakhstan F2,Hard,32,S,20140303,31,126094,7,,Andrey Rublev,R,188,RUS,16.3668720055,106138,,,Yaraslau Shyla,R,,BLR,20.9938398357,6-4 3-6 6-3,3,F,,,,,,,,,,,,,,,,,,,,652,38,718,30
+2014-M-FU-KAZ-02A-2014,Kazakhstan F2,Hard,32,S,20140303,30,106138,,,Yaraslav Shyla,R,,BLR,20.9938398357,106072,2,,Alexey Vatutin,R,,RUS,21.3470225873,7-5 6-4,3,SF,,,,,,,,,,,,,,,,,,,,718,30,384,108
+2014-M-FU-KAZ-02A-2014,Kazakhstan F2,Hard,32,S,20140303,31,126094,7,,Andrey Rublev,R,188,RUS,16.3668720055,106138,,,Yaraslav Shyla,R,,BLR,20.9938398357,6-4 3-6 6-3,3,F,,,,,,,,,,,,,,,,,,,,652,38,718,30
 2014-M-FU-ESP-05A-2014,Spain F5,Clay,32,S,20140303,1,105841,1,,Lorenzo Giustino,R,,ITA,22.4777549624,106375,,,Pol Toledo Bague,R,,ESP,19.1950718686,6-0 6-7(2) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,224,223,557,56
 2014-M-FU-ESP-05A-2014,Spain F5,Clay,32,S,20140303,2,132769,,Q,Jaume Antoni Munar Clar,U,,ESP,16.8268309377,110472,,Q,Vasco Mensurado,R,,POR,19.9206023272,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1138,7
 2014-M-FU-ESP-05A-2014,Spain F5,Clay,32,S,20140303,3,105618,,,Juan Samuel Arauzo Martinez,U,,ESP,23.5290896646,133251,,Q,Joel Cannell,U,,GBR,16.2628336756,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,527,63,,
@@ -2431,7 +2431,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-CHN-02A-2014,China F2,Hard,32,S,20140310,12,104251,4,,Ti Chen,R,183,TPE,30.4147843943,105507,,,Cheong Eui Kim,R,,KOR,23.9452429843,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,265,176,561,55
 2014-M-FU-CHN-02A-2014,China F2,Hard,32,S,20140310,13,104587,,,Claudio Grassi,U,,ITA,28.605065024,105790,6,,Yong Kyu Lim,R,,KOR,22.7077344285,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,520,66,304,148
 2014-M-FU-CHN-02A-2014,China F2,Hard,32,S,20140310,14,104644,,,Riccardo Ghedin,R,188,ITA,28.2409308693,110769,,Q,Hufu Wang,U,,CHN,22.4421629021,4-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,483,75,1691,1
-2014-M-FU-CHN-02A-2014,China F2,Hard,32,S,20140310,15,123896,,Q,Matija Pecotic,U,,CRO,24.6652977413,105464,,Q,Christopher Rungkat,R,1.7,INA,24.1314168378,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1116,7,873,16
+2014-M-FU-CHN-02A-2014,China F2,Hard,32,S,20140310,15,123896,,Q,Matija Pecotic,U,,CRO,24.6652977413,105464,,Q,Christopher Rungkat,R,170,INA,24.1314168378,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1116,7,873,16
 2014-M-FU-CHN-02A-2014,China F2,Hard,32,S,20140310,16,104804,2,,Amir Weintraub,R,188,ISR,27.4606433949,104989,,Q,Peng Gao,U,,CHN,26.5845311431,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,211,240,1237,5
 2014-M-FU-CHN-02A-2014,China F2,Hard,32,S,20140310,17,105430,1,,Radu Albot,R,175,MDA,24.3066392882,105472,,,Nils Langer,R,,GER,24.1013004791,7-6(5) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,164,322,409,98
 2014-M-FU-CHN-02A-2014,China F2,Hard,32,S,20140310,18,106420,7,,Gianluigi Quinzi,L,,ITA,18.083504449,105339,,SE,Yan Bai,R,,CHN,24.7830253251,7-5 7-5,3,R16,,,,,,,,,,,,,,,,,,,,337,131,651,38
@@ -2579,7 +2579,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-GRE-01A-2014,Greece F1,Hard,32,S,20140310,5,104993,3,Q,Martin Vaisse,U,,FRA,26.559890486,108704,,,Konstantinos Mikos,R,,GRE,22.0807665982,3-6 6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,325,139,1003,11
 2014-M-FU-GRE-01A-2014,Greece F1,Hard,32,S,20140310,6,105981,,,Levente Godry,R,,HUN,21.8754277892,110463,,WC,Djordje Djokovic,R,,SRB,18.6283367556,6-2 6-7(2) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1067,9,1682,2
 2014-M-FU-GRE-01A-2014,Greece F1,Hard,32,S,20140310,7,105414,,,Matthieu Roy,U,,FRA,24.4435318275,126310,,WC,Eleftherios Theodorou,R,,GRE,17.620807666,1-6 6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,761,26,2110,1
-2014-M-FU-GRE-01A-2014,Greece F1,Hard,32,S,20140310,8,105906,7,,Kevin Krawietz,R,190,GER,22.1054072553,122548,,Q,Edan Leshem,U,1.83,ISR,16.9555099247,7-6(6) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,454,84,,
+2014-M-FU-GRE-01A-2014,Greece F1,Hard,32,S,20140310,8,105906,7,,Kevin Krawietz,R,190,GER,22.1054072553,122548,,Q,Edan Leshem,U,183,ISR,16.9555099247,7-6(6) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,454,84,,
 2014-M-FU-GRE-01A-2014,Greece F1,Hard,32,S,20140310,9,104980,6,,Anton Zaitsev,U,,RUS,26.6146475017,126139,,,Jakub Filipsky,R,,CZE,18.7241615332,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,407,98,1193,6
 2014-M-FU-GRE-01A-2014,Greece F1,Hard,32,S,20140310,10,105905,,,Danilo Petrovic,R,,SRB,22.1054072553,126774,,WC,Stefanos Tsitsipas,R,193,GRE,15.5564681725,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,552,57,2000,1
 2014-M-FU-GRE-01A-2014,Greece F1,Hard,32,S,20140310,11,106096,,,Tim Nekic,L,,GER,21.2292950034,105114,,,Dejan Katic,R,,SRB,25.9876796715,6-1 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,559,55,735,28
@@ -2730,7 +2730,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-KAZ-03A-2014,Kazakhstan F3,Hard,32,S,20140310,1,106072,1,WC,Alexey Vatutin,R,,RUS,21.3470225873,122511,,LL,Andrei Novikov,U,,BLR,19.8412046543,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,384,108,2000,1
 2014-M-FU-KAZ-03A-2014,Kazakhstan F3,Hard,32,S,20140310,2,106204,,,Nigmat Shofayziev,R,,UZB,20.6735112936,122509,,Q,Oybek Abdurahimov,U,,UZB,18.4147843943,6-3 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,1059,9,,
 2014-M-FU-KAZ-03A-2014,Kazakhstan F3,Hard,32,S,20140310,3,106223,,,Aleksandre Metreveli,R,,GEO,20.5612594114,127876,,Q,Alexandre David,U,,FRA,22.9760438056,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,940,13,,
-2014-M-FU-KAZ-03A-2014,Kazakhstan F3,Hard,32,S,20140310,4,106138,7,,Yaraslau Shyla,R,,BLR,20.9938398357,123736,,WC,Sagadat Ayap,U,,KAZ,18.7734428474,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,718,30,2110,1
+2014-M-FU-KAZ-03A-2014,Kazakhstan F3,Hard,32,S,20140310,4,106138,7,,Yaraslav Shyla,R,,BLR,20.9938398357,123736,,WC,Sagadat Ayap,U,,KAZ,18.7734428474,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,718,30,2110,1
 2014-M-FU-KAZ-03A-2014,Kazakhstan F3,Hard,32,S,20140310,5,106187,3,,Denis Yevseyev,U,,KAZ,20.7802874743,105533,,Q,Dmitry Surchenko,U,,RUS,23.8357289528,3-6 6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,625,43,1210,6
 2014-M-FU-KAZ-03A-2014,Kazakhstan F3,Hard,32,S,20140310,6,106106,,,George Tsivadze,U,,GEO,21.1635865845,120903,,Q,Kaysar Bekimov,U,,KAZ,24.2217659138,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1654,2,,
 2014-M-FU-KAZ-03A-2014,Kazakhstan F3,Hard,32,S,20140310,7,105602,,Q,Ilya Lebedev,U,,RUS,23.5865845311,123773,,,Giorgi Javakhishvili,R,,GEO,18.3600273785,6-3 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,1565,2,1441,3
@@ -2744,7 +2744,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-KAZ-03A-2014,Kazakhstan F3,Hard,32,S,20140310,15,122236,,,Roman Hassanov,R,,KAZ,17.4839151266,122063,,Q,Sergey Dyakonov,R,,RUS,20.4353182752,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1622,2,,
 2014-M-FU-KAZ-03A-2014,Kazakhstan F3,Hard,32,S,20140310,16,104901,2,,Vladimir Ivanov,R,,EST,26.8966461328,111793,,,Aleksandr Ivanovich Spirin,R,,RUS,18.6995208761,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,566,54,1316,4
 2014-M-FU-KAZ-03A-2014,Kazakhstan F3,Hard,32,S,20140310,17,106072,1,WC,Alexey Vatutin,R,,RUS,21.3470225873,106204,,,Nigmat Shofayziev,R,,UZB,20.6735112936,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,384,108,1059,9
-2014-M-FU-KAZ-03A-2014,Kazakhstan F3,Hard,32,S,20140310,18,106223,,,Aleksandre Metreveli,R,,GEO,20.5612594114,106138,7,,Yaraslau Shyla,R,,BLR,20.9938398357,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,940,13,718,30
+2014-M-FU-KAZ-03A-2014,Kazakhstan F3,Hard,32,S,20140310,18,106223,,,Aleksandre Metreveli,R,,GEO,20.5612594114,106138,7,,Yaraslav Shyla,R,,BLR,20.9938398357,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,940,13,718,30
 2014-M-FU-KAZ-03A-2014,Kazakhstan F3,Hard,32,S,20140310,19,106187,3,,Denis Yevseyev,U,,KAZ,20.7802874743,106106,,,George Tsivadze,U,,GEO,21.1635865845,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,625,43,1654,2
 2014-M-FU-KAZ-03A-2014,Kazakhstan F3,Hard,32,S,20140310,20,105602,,Q,Ilya Lebedev,U,,RUS,23.5865845311,109737,6,,Markos Kalovelonis,R,,GRE,19.7919233402,6-3 3-6 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,1565,2,693,33
 2014-M-FU-KAZ-03A-2014,Kazakhstan F3,Hard,32,S,20140310,21,105781,8,,Andrei Vasilevski,R,185,BLR,22.765229295,105921,,WC,Serizhan Yessenbekov,R,,KAZ,22.0588637919,6-3 3-2 RET,3,R16,,,,,,,,,,,,,,,,,,,,739,28,,
@@ -3050,7 +3050,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-GRE-02A-2014,Greece F2,Hard,32,S,20140317,11,105632,,,Dominik Suc,R,,CZE,23.4907597536,121542,,WC,Angelos Lenis,U,,SWE,22.9158110883,7-5 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,678,35,,
 2014-M-FU-GRE-02A-2014,Greece F2,Hard,32,S,20140317,12,105060,3,,Aldin Setkic,R,193,BIH,26.2368240931,105818,,Q,Daniel Uhlig,U,,GER,22.636550308,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,261,180,913,15
 2014-M-FU-GRE-02A-2014,Greece F2,Hard,32,S,20140317,13,106075,7,,Jozef Kovalik,R,183,SVK,21.363449692,103891,,,Alexandros Jakupovic,R,,GRE,32.2546201232,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,372,112,504,68
-2014-M-FU-GRE-02A-2014,Greece F2,Hard,32,S,20140317,14,105906,,,Kevin Krawietz,R,190,GER,22.1437371663,122548,,Q,Edan Leshem,U,1.83,ISR,16.9938398357,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,452,85,,
+2014-M-FU-GRE-02A-2014,Greece F2,Hard,32,S,20140317,14,105906,,,Kevin Krawietz,R,190,GER,22.1437371663,122548,,Q,Edan Leshem,U,183,ISR,16.9938398357,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,452,85,,
 2014-M-FU-GRE-02A-2014,Greece F2,Hard,32,S,20140317,15,105463,,WC,Charalampos Kapogiannis,R,,GRE,24.1724845996,105661,,,Ilija Vucic,R,145,SRB,23.3867214237,6-4 4-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,972,12,816,21
 2014-M-FU-GRE-02A-2014,Greece F2,Hard,32,S,20140317,16,105161,2,,Yann Marti,R,173,SUI,25.7741273101,108704,,WC,Konstantinos Mikos,R,,GRE,22.1190965092,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,289,158,1003,11
 2014-M-FU-GRE-02A-2014,Greece F2,Hard,32,S,20140317,17,103401,1,,Jan Hernych,R,190,CZE,34.6940451745,104306,,,Ivan Bjelica,R,,SRB,30.083504449,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,237,200,664,37
@@ -3630,7 +3630,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-PHI-01A-2014,Philippines F1,Hard,32,S,20140324,2,106396,,,Cheng Yu Yu,R,,TPE,18.9568788501,106150,,Q,Jeson Patrombon,R,,PHI,20.9719370294,6-4 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,985,11,,
 2014-M-FU-PHI-01A-2014,Philippines F1,Hard,32,S,20140324,3,105560,,Q,Kelsey Stevenson,R,,CAN,23.8001368925,122247,,LL,Andrew Ochotta,R,,CAN,21.0321697467,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,2180,1,2177,1
 2014-M-FU-PHI-01A-2014,Philippines F1,Hard,32,S,20140324,4,103657,6,,Ivo Klec,R,183,SVK,33.2977412731,117351,,Q,Jurence Zosimo Mendoza,L,,PHI,17.7987679671,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,404,99,,
-2014-M-FU-PHI-01A-2014,Philippines F1,Hard,32,S,20140324,5,105810,3,,Shuichi Sekiguchi,R,,JPN,22.6721423682,105464,,,Christopher Rungkat,R,1.7,INA,24.1697467488,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,297,155,877,16
+2014-M-FU-PHI-01A-2014,Philippines F1,Hard,32,S,20140324,5,105810,3,,Shuichi Sekiguchi,R,,JPN,22.6721423682,105464,,,Christopher Rungkat,R,170,INA,24.1697467488,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,297,155,877,16
 2014-M-FU-PHI-01A-2014,Philippines F1,Hard,32,S,20140324,6,105579,,,Kittipong Wachiramanowong,R,183,THA,23.7262149213,106136,,,Warit Sornbutnark,U,,THA,21.0485968515,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,792,23,1356,4
 2014-M-FU-PHI-01A-2014,Philippines F1,Hard,32,S,20140324,7,108594,,WC,Johnny Arcilla,U,,PHI,34.083504449,111183,,,Chayanon Kaewsuto,R,,THA,18.7515400411,4-6 7-6(4) 4-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,1567,2
 2014-M-FU-PHI-01A-2014,Philippines F1,Hard,32,S,20140324,8,106225,5,,Andrew Whittington,R,,AUS,20.5968514716,106392,,Q,Thien Nguyen Hoang,R,,VIE,19.0143737166,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,394,101,,
@@ -3879,7 +3879,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-GRE-04A-2014,Greece F4,Hard,32,S,20140331,3,111585,,Q,Shotaro Goto,U,,JPN,19.6550308008,121541,,WC,Nikolaos Kokkotas,R,,GRE,21.8754277892,6-1 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,1439,3,2197,1
 2014-M-FU-GRE-04A-2014,Greece F4,Hard,32,S,20140331,4,104544,8,,Ricardo Villacorta Alonso,R,,ESP,28.9336071184,119122,,Q,Lukas Marsoun,R,,CZE,28.1423682409,4-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,537,60,908,15
 2014-M-FU-GRE-04A-2014,Greece F4,Hard,32,S,20140331,5,105664,3,,Ivan Arenas Gualda,U,,ESP,23.4140999316,105852,,,Viktor Filipenko,U,,HUN,22.5133470226,6-7(7) 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,372,115,844,19
-2014-M-FU-GRE-04A-2014,Greece F4,Hard,32,S,20140331,6,125803,,WC,Daniel Windahl,R,188,SWE,17.6947296372,110600,,Q,Robert Quentin,R,,FRA,19.6002737851,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1082,8,,
+2014-M-FU-GRE-04A-2014,Greece F4,Hard,32,S,20140331,6,125803,,WC,Daniel Windahl,R,188,SWE,17.6947296372,110600,,Q,Quentin Robert,R,,FRA,19.6002737851,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1082,8,,
 2014-M-FU-GRE-04A-2014,Greece F4,Hard,32,S,20140331,7,105114,,,Dejan Katic,R,,SRB,26.0643394935,126531,,Q,Philipp Scholz,R,,GER,19.1813826146,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,733,28,1539,2
 2014-M-FU-GRE-04A-2014,Greece F4,Hard,32,S,20140331,8,105528,6,,Alexander Ward,U,,GBR,23.9178644764,104936,,Q,Jorge Hernando Ruano,U,,ESP,26.8254620123,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,454,86,994,11
 2014-M-FU-GRE-04A-2014,Greece F4,Hard,32,S,20140331,9,105943,5,,Federico Gaio,R,,ITA,22.0698151951,106132,,,Toby Martin,R,,GBR,21.1088295688,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,452,87,859,18
@@ -3979,7 +3979,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-KAZ-04A-2014,Kazakhstan F4,Clay,32,S,20140331,10,106223,,,Aleksandre Metreveli,R,,GEO,20.6379192334,105966,,,Pavel Filin,U,,BLR,22.0041067762,6-1 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,865,17,937,13
 2014-M-FU-KAZ-04A-2014,Kazakhstan F4,Clay,32,S,20140331,11,122236,,WC,Roman Hassanov,R,,KAZ,17.5605749487,111793,,Q,Aleksandr Ivanovich Spirin,R,,RUS,18.7761806982,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1336,4,1336,4
 2014-M-FU-KAZ-04A-2014,Kazakhstan F4,Clay,32,S,20140331,12,105136,,,Andrei Plotniy,U,,RUS,25.9794661191,104901,4,,Vladimir Ivanov,R,,EST,26.9733059548,7-6(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,875,17,557,56
-2014-M-FU-KAZ-04A-2014,Kazakhstan F4,Clay,32,S,20140331,13,106138,8,,Yaraslau Shyla,R,,BLR,21.0704996578,105478,,,Yan Sabanin,U,,RUS,24.1615331964,4-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,650,39,1004,11
+2014-M-FU-KAZ-04A-2014,Kazakhstan F4,Clay,32,S,20140331,13,106138,8,,Yaraslav Shyla,R,,BLR,21.0704996578,105478,,,Yan Sabanin,U,,RUS,24.1615331964,4-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,650,39,1004,11
 2014-M-FU-KAZ-04A-2014,Kazakhstan F4,Clay,32,S,20140331,14,121920,,WC,Timur Khabibulin,R,,KAZ,18.6611909651,123941,,Q,Alexey Nikiforov,R,,RUS,20.643394935,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1495,3,1465,3
 2014-M-FU-KAZ-04A-2014,Kazakhstan F4,Clay,32,S,20140331,15,144638,,Q,Dmytro Badanov,U,,UKR,26.1957563313,104479,,,Sarvar Ikramov,R,,UZB,29.2183436003,6-1 0-6 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,774,24,765,25
 2014-M-FU-KAZ-04A-2014,Kazakhstan F4,Clay,32,S,20140331,16,105645,2,,Alexander Lobkov,R,,RUS,23.4798083504,122510,,WC,Kuatbek Abiyev,U,,KAZ,19.2361396304,6-3 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,384,109,2177,1
@@ -3989,7 +3989,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-KAZ-04A-2014,Kazakhstan F4,Clay,32,S,20140331,20,105586,7,,Alexandar Lazov,U,183,BUL,23.7262149213,123773,,Q,Giorgi Javakhishvili,R,,GEO,18.4366872005,6-2 3-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,596,50,1344,4
 2014-M-FU-KAZ-04A-2014,Kazakhstan F4,Clay,32,S,20140331,21,106223,,,Aleksandre Metreveli,R,,GEO,20.6379192334,106187,5,,Denis Yevseyev,U,,KAZ,20.8569472964,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,865,17,601,49
 2014-M-FU-KAZ-04A-2014,Kazakhstan F4,Clay,32,S,20140331,22,105136,,,Andrei Plotniy,U,,RUS,25.9794661191,122236,,WC,Roman Hassanov,R,,KAZ,17.5605749487,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,875,17,1336,4
-2014-M-FU-KAZ-04A-2014,Kazakhstan F4,Clay,32,S,20140331,23,121920,,WC,Timur Khabibulin,R,,KAZ,18.6611909651,106138,8,,Yaraslau Shyla,R,,BLR,21.0704996578,7-6(3) 6-7(2) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1495,3,650,39
+2014-M-FU-KAZ-04A-2014,Kazakhstan F4,Clay,32,S,20140331,23,121920,,WC,Timur Khabibulin,R,,KAZ,18.6611909651,106138,8,,Yaraslav Shyla,R,,BLR,21.0704996578,7-6(3) 6-7(2) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1495,3,650,39
 2014-M-FU-KAZ-04A-2014,Kazakhstan F4,Clay,32,S,20140331,24,144638,,Q,Dmytro Badanov,U,,UKR,26.1957563313,105645,2,,Alexander Lobkov,R,,RUS,23.4798083504,0-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,774,24,384,109
 2014-M-FU-KAZ-04A-2014,Kazakhstan F4,Clay,32,S,20140331,25,104933,,,Denis Bejtulahi,R,,SRB,26.8309377139,105781,,,Andrei Vasilevski,R,185,BLR,22.841889117,7-6(3) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,657,38,720,30
 2014-M-FU-KAZ-04A-2014,Kazakhstan F4,Clay,32,S,20140331,26,105586,7,,Alexandar Lazov,U,183,BUL,23.7262149213,104729,3,,Ivan Nedelko,R,,RUS,27.8850102669,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,596,50,411,99
@@ -3998,7 +3998,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-KAZ-04A-2014,Kazakhstan F4,Clay,32,S,20140331,29,105586,7,,Alexandar Lazov,U,183,BUL,23.7262149213,104933,,,Denis Bejtulahi,R,,SRB,26.8309377139,6-4 0-6 6-2,3,SF,,,,,,,,,,,,,,,,,,,,596,50,657,38
 2014-M-FU-KAZ-04A-2014,Kazakhstan F4,Clay,32,S,20140331,30,144638,,Q,Dmytro Badanov,U,,UKR,26.1957563313,105136,,,Andrei Plotniy,U,,RUS,25.9794661191,7-6(5) 6-3,3,SF,,,,,,,,,,,,,,,,,,,,774,24,875,17
 2014-M-FU-KAZ-04A-2014,Kazakhstan F4,Clay,32,S,20140331,31,105586,7,,Alexandar Lazov,U,183,BUL,23.7262149213,144638,,Q,Dmytro Badanov,U,,UKR,26.1957563313,6-3 6-7(2) 6-2,3,F,,,,,,,,,,,,,,,,,,,,596,50,774,24
-2014-M-FU-MAS-01A-2014,Malaysia F1,Hard,32,S,20140331,1,106093,1,,Benjamin Mitchell,R,,AUS,21.3305954825,122207,,Q,Roy Hobbs,U,,SIN,24.629705681,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,250,188,,
+2014-M-FU-MAS-01A-2014,Malaysia F1,Hard,32,S,20140331,1,106093,1,,Benjamin Mitchell,R,,AUS,21.3305954825,122207,,Q,Roy Hobbs,U,,SGP,24.629705681,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,250,188,,
 2014-M-FU-MAS-01A-2014,Malaysia F1,Hard,32,S,20140331,2,122519,,,Punn Bodhidatta,R,,THA,20.8240930869,126331,,Q,Joshua Jordan,R,,MAS,19.794661191,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1661,2,,
 2014-M-FU-MAS-01A-2014,Malaysia F1,Hard,32,S,20140331,3,103920,,Q,Sanchai Ratiwatana,R,175,THA,32.1834360027,106309,,Q,Wisnu Adi Nugroho,U,,INA,20.0273785079,3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2014-M-FU-MAS-01A-2014,Malaysia F1,Hard,32,S,20140331,4,110575,,LL,Christopher Marquis,R,175,IND,22.7980835044,104371,5,,Ivo Minar,R,183,CZE,29.8590006845,6-4 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,,,428,91
@@ -4383,7 +4383,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-KAZ-05A-2014,Kazakhstan F5,Clay,32,S,20140407,11,106223,,,Aleksandre Metreveli,R,,GEO,20.6570841889,106114,,,Fedor Chervyakov,R,,RUS,21.2292950034,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,864,17,1039,10
 2014-M-FU-KAZ-05A-2014,Kazakhstan F5,Clay,32,S,20140407,12,104729,3,,Ivan Nedelko,R,,RUS,27.9041752225,122511,,Q,Andrei Novikov,U,,BLR,19.9370294319,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,414,99,2071,1
 2014-M-FU-KAZ-05A-2014,Kazakhstan F5,Clay,32,S,20140407,13,105586,6,,Alexandar Lazov,U,183,BUL,23.7453798768,104479,,,Sarvar Ikramov,R,,UZB,29.2375085558,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,605,49,762,25
-2014-M-FU-KAZ-05A-2014,Kazakhstan F5,Clay,32,S,20140407,14,106138,,,Yaraslau Shyla,R,,BLR,21.0896646133,121920,,WC,Timur Khabibulin,R,,KAZ,18.6803559206,3-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,649,39,1501,3
+2014-M-FU-KAZ-05A-2014,Kazakhstan F5,Clay,32,S,20140407,14,106138,,,Yaraslav Shyla,R,,BLR,21.0896646133,121920,,WC,Timur Khabibulin,R,,KAZ,18.6803559206,3-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,649,39,1501,3
 2014-M-FU-KAZ-05A-2014,Kazakhstan F5,Clay,32,S,20140407,15,104186,,Q,Gleb Alekseenko,R,,UKR,30.8856947296,105602,,Q,Ilya Lebedev,U,,RUS,23.6824093087,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1107,8,930,13
 2014-M-FU-KAZ-05A-2014,Kazakhstan F5,Clay,32,S,20140407,16,105645,2,,Alexander Lobkov,R,,RUS,23.498973306,123941,,Q,Alexey Nikiforov,R,,RUS,20.6625598905,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,385,110,1467,3
 2014-M-FU-KAZ-05A-2014,Kazakhstan F5,Clay,32,S,20140407,17,105987,1,,Mikhail Biryukov,R,,RUS,21.9411362081,106106,,Q,George Tsivadze,U,,GEO,21.2594113621,6-3 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,302,151,1480,3
@@ -4392,12 +4392,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-KAZ-05A-2014,Kazakhstan F5,Clay,32,S,20140407,20,106110,8,,Filip Horansky,R,,SVK,21.2457221081,104933,,,Denis Bejtulahi,R,,SRB,26.8501026694,6-7(4) 7-6(3) 6-0,3,R16,,,,,,,,,,,,,,,,,,,,639,41,675,36
 2014-M-FU-KAZ-05A-2014,Kazakhstan F5,Clay,32,S,20140407,21,105136,,,Andrei Plotniy,U,,RUS,25.9986310746,106073,,,Daniiar Duldaev,R,,KGZ,21.4428473648,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,876,17,672,36
 2014-M-FU-KAZ-05A-2014,Kazakhstan F5,Clay,32,S,20140407,22,106223,,,Aleksandre Metreveli,R,,GEO,20.6570841889,104729,3,,Ivan Nedelko,R,,RUS,27.9041752225,4-6 6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,864,17,414,99
-2014-M-FU-KAZ-05A-2014,Kazakhstan F5,Clay,32,S,20140407,23,106138,,,Yaraslau Shyla,R,,BLR,21.0896646133,105586,6,,Alexandar Lazov,U,183,BUL,23.7453798768,1-6 6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,649,39,605,49
+2014-M-FU-KAZ-05A-2014,Kazakhstan F5,Clay,32,S,20140407,23,106138,,,Yaraslav Shyla,R,,BLR,21.0896646133,105586,6,,Alexandar Lazov,U,183,BUL,23.7453798768,1-6 6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,649,39,605,49
 2014-M-FU-KAZ-05A-2014,Kazakhstan F5,Clay,32,S,20140407,24,105645,2,,Alexander Lobkov,R,,RUS,23.498973306,104186,,Q,Gleb Alekseenko,R,,UKR,30.8856947296,6-0 5-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,385,110,1107,8
 2014-M-FU-KAZ-05A-2014,Kazakhstan F5,Clay,32,S,20140407,25,104581,,Q,David Estruch,R,,ESP,28.7145790554,105987,1,,Mikhail Biryukov,R,,RUS,21.9411362081,6-2 7-5,3,QF,,,,,,,,,,,,,,,,,,,,1234,5,302,151
 2014-M-FU-KAZ-05A-2014,Kazakhstan F5,Clay,32,S,20140407,26,106110,8,,Filip Horansky,R,,SVK,21.2457221081,104901,4,,Vladimir Ivanov,R,,EST,26.9924709103,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,639,41,562,56
 2014-M-FU-KAZ-05A-2014,Kazakhstan F5,Clay,32,S,20140407,27,106223,,,Aleksandre Metreveli,R,,GEO,20.6570841889,105136,,,Andrei Plotniy,U,,RUS,25.9986310746,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,864,17,876,17
-2014-M-FU-KAZ-05A-2014,Kazakhstan F5,Clay,32,S,20140407,28,105645,2,,Alexander Lobkov,R,,RUS,23.498973306,106138,,,Yaraslau Shyla,R,,BLR,21.0896646133,3-6 6-2 7-5,3,QF,,,,,,,,,,,,,,,,,,,,385,110,649,39
+2014-M-FU-KAZ-05A-2014,Kazakhstan F5,Clay,32,S,20140407,28,105645,2,,Alexander Lobkov,R,,RUS,23.498973306,106138,,,Yaraslav Shyla,R,,BLR,21.0896646133,3-6 6-2 7-5,3,QF,,,,,,,,,,,,,,,,,,,,385,110,649,39
 2014-M-FU-KAZ-05A-2014,Kazakhstan F5,Clay,32,S,20140407,29,106110,8,,Filip Horansky,R,,SVK,21.2457221081,104581,,Q,David Estruch,R,,ESP,28.7145790554,6-0 6-4,3,SF,,,,,,,,,,,,,,,,,,,,639,41,1234,5
 2014-M-FU-KAZ-05A-2014,Kazakhstan F5,Clay,32,S,20140407,30,106223,,,Aleksandre Metreveli,R,,GEO,20.6570841889,105645,2,,Alexander Lobkov,R,,RUS,23.498973306,7-6(6) 6-2,3,SF,,,,,,,,,,,,,,,,,,,,864,17,385,110
 2014-M-FU-KAZ-05A-2014,Kazakhstan F5,Clay,32,S,20140407,31,106223,,,Aleksandre Metreveli,R,,GEO,20.6570841889,106110,8,,Filip Horansky,R,,SVK,21.2457221081,6-4 6-3,3,F,,,,,,,,,,,,,,,,,,,,864,17,639,41
@@ -4714,7 +4714,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-KAZ-06A-2014,Kazakhstan F6,Clay,32,S,20140414,1,105645,1,,Alexander Lobkov,R,,RUS,23.5181382615,111793,,,Aleksandr Ivanovich Spirin,R,,RUS,18.8145106092,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,375,111,1344,4
 2014-M-FU-KAZ-06A-2014,Kazakhstan F6,Clay,32,S,20140414,2,104581,,,David Estruch,R,,ESP,28.733744011,122511,,LL,Andrei Novikov,U,,BLR,19.9561943874,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1421,3,2083,1
 2014-M-FU-KAZ-06A-2014,Kazakhstan F6,Clay,32,S,20140414,3,105136,,,Andrei Plotniy,U,,RUS,26.0177960301,105598,,,Peter Goldsteiner,U,,AUT,23.704312115,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,793,23,834,20
-2014-M-FU-KAZ-06A-2014,Kazakhstan F6,Clay,32,S,20140414,4,106138,6,,Yaraslau Shyla,R,,BLR,21.1088295688,123773,,Q,Giorgi Javakhishvili,R,,GEO,18.4750171116,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,645,40,1256,5
+2014-M-FU-KAZ-06A-2014,Kazakhstan F6,Clay,32,S,20140414,4,106138,6,,Yaraslav Shyla,R,,BLR,21.1088295688,123773,,Q,Giorgi Javakhishvili,R,,GEO,18.4750171116,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,645,40,1256,5
 2014-M-FU-KAZ-06A-2014,Kazakhstan F6,Clay,32,S,20140414,5,122236,,WC,Roman Hassanov,R,,KAZ,17.5989048597,126929,,Q,Iskander Davutov,U,,UZB,18.546201232,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1254,5,,
 2014-M-FU-KAZ-06A-2014,Kazakhstan F6,Clay,32,S,20140414,6,106223,,,Aleksandre Metreveli,R,,GEO,20.6762491444,122510,,Q,Kuatbek Abiyev,U,,KAZ,19.2744695414,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,844,19,2192,1
 2014-M-FU-KAZ-06A-2014,Kazakhstan F6,Clay,32,S,20140414,7,106273,,,Ronald Slobodchikov,R,,RUS,20.3586584531,106106,,Q,George Tsivadze,U,,GEO,21.2785763176,6-2 3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,912,15,1483,3
@@ -4728,7 +4728,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-KAZ-06A-2014,Kazakhstan F6,Clay,32,S,20140414,15,105921,,WC,Serizhan Yessenbekov,R,,KAZ,22.173853525,105966,,,Pavel Filin,U,,BLR,22.0424366872,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1949,1,936,13
 2014-M-FU-KAZ-06A-2014,Kazakhstan F6,Clay,32,S,20140414,16,104729,2,,Ivan Nedelko,R,,RUS,27.923340178,105602,,Q,Ilya Lebedev,U,,RUS,23.7015742642,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,409,99,932,13
 2014-M-FU-KAZ-06A-2014,Kazakhstan F6,Clay,32,S,20140414,17,105645,1,,Alexander Lobkov,R,,RUS,23.5181382615,104581,,,David Estruch,R,,ESP,28.733744011,6-2 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,375,111,1421,3
-2014-M-FU-KAZ-06A-2014,Kazakhstan F6,Clay,32,S,20140414,18,105136,,,Andrei Plotniy,U,,RUS,26.0177960301,106138,6,,Yaraslau Shyla,R,,BLR,21.1088295688,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,793,23,645,40
+2014-M-FU-KAZ-06A-2014,Kazakhstan F6,Clay,32,S,20140414,18,105136,,,Andrei Plotniy,U,,RUS,26.0177960301,106138,6,,Yaraslav Shyla,R,,BLR,21.1088295688,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,793,23,645,40
 2014-M-FU-KAZ-06A-2014,Kazakhstan F6,Clay,32,S,20140414,19,106223,,,Aleksandre Metreveli,R,,GEO,20.6762491444,122236,,WC,Roman Hassanov,R,,KAZ,17.5989048597,4-6 6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,844,19,1254,5
 2014-M-FU-KAZ-06A-2014,Kazakhstan F6,Clay,32,S,20140414,20,106110,5,,Filip Horansky,R,,SVK,21.2648870637,106273,,,Ronald Slobodchikov,R,,RUS,20.3586584531,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,643,41,912,15
 2014-M-FU-KAZ-06A-2014,Kazakhstan F6,Clay,32,S,20140414,21,105781,8,,Andrei Vasilevski,R,185,BLR,22.8802190281,134744,,Q,Alan Bzarov,R,,RUS,19.1950718686,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,740,28,,
@@ -5403,7 +5403,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-ISR-04A-2014,Israel F4,Hard,32,S,20140428,8,106348,7,,Evgeny Karlovskiy,R,,RUS,19.7234770705,127326,,,Ben Patael,U,,ISR,16.9034907598,7-5 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,803,22,1615,2
 2014-M-FU-ISR-04A-2014,Israel F4,Hard,32,S,20140428,9,111765,8,,Evan Song,U,,USA,21.8891170431,132400,,Q,Kanou Kikkawa,U,,JPN,22.0807665982,6-3 5-7 6-1,3,R32,,,,,,,,,,,,,,,,,,,,855,19,,
 2014-M-FU-ISR-04A-2014,Israel F4,Hard,32,S,20140428,10,126754,,Q,Alexander Mozgovoy,R,,RUS,19.0663928816,122550,,,Mor Bulis,U,,ISR,18.0260095825,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1359,4
-2014-M-FU-ISR-04A-2014,Israel F4,Hard,32,S,20140428,11,121249,,Q,Gilad Berman,U,,ISR,23.40862423,122548,,Q,Edan Leshem,U,1.83,ISR,17.1088295688,6-4 6-7(0) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2014-M-FU-ISR-04A-2014,Israel F4,Hard,32,S,20140428,11,121249,,Q,Gilad Berman,U,,ISR,23.40862423,122548,,Q,Edan Leshem,U,183,ISR,17.1088295688,6-4 6-7(0) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2014-M-FU-ISR-04A-2014,Israel F4,Hard,32,S,20140428,12,106299,3,,Bar Tzuf Botzer,R,,ISR,20.1560574949,126358,,Q,Motvey Radionov,U,,ISR,16.9363449692,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,603,51,,
 2014-M-FU-ISR-04A-2014,Israel F4,Hard,32,S,20140428,13,121360,,,Timon Reichelt,U,,GER,24.9418206708,111443,6,,Vladimir Polyakov,R,,RUS,19.8603696099,7-6(7) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1381,4,798,22
 2014-M-FU-ISR-04A-2014,Israel F4,Hard,32,S,20140428,14,106217,,,Daniel Skripnik,R,,ISR,20.772073922,126444,,,Emil Saveljev,U,,ISR,17.2457221081,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1507,3,1557,2
@@ -5806,7 +5806,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-ISR-05A-2014,Israel F5,Hard,32,S,20140505,8,105587,7,,Tom Kocevar Desman,R,,SLO,23.819301848,122592,,LL,Orel Ovil,R,,ISR,17.5386721424,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,788,24,1679,2
 2014-M-FU-ISR-05A-2014,Israel F5,Hard,32,S,20140505,9,111443,8,,Vladimir Polyakov,R,,RUS,19.8795345654,122591,,WC,Ram Kapach,U,,ISR,17.2648870637,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,803,22,,
 2014-M-FU-ISR-05A-2014,Israel F5,Hard,32,S,20140505,10,106424,,,Tal Goldengoren,U,,ISR,18.0506502396,105685,,,Gustavo Guerses,R,,BRA,23.3456536619,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1061,9,1077,9
-2014-M-FU-ISR-05A-2014,Israel F5,Hard,32,S,20140505,11,106217,,Q,Daniel Skripnik,R,,ISR,20.7912388775,122548,,WC,Edan Leshem,U,1.83,ISR,17.1279945243,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1707,2,,
+2014-M-FU-ISR-05A-2014,Israel F5,Hard,32,S,20140505,11,106217,,Q,Daniel Skripnik,R,,ISR,20.7912388775,122548,,WC,Edan Leshem,U,183,ISR,17.1279945243,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1707,2,,
 2014-M-FU-ISR-05A-2014,Israel F5,Hard,32,S,20140505,12,106246,3,,Robin Kern,R,,GER,20.5859000684,106348,,,Evgeny Karlovskiy,R,,RUS,19.742642026,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,441,90,811,22
 2014-M-FU-ISR-05A-2014,Israel F5,Hard,32,S,20140505,13,122638,,,Christopher Heyman,U,,BEL,20.5722108145,106299,5,,Bar Tzuf Botzer,R,,ISR,20.1752224504,3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,1259,5,599,50
 2014-M-FU-ISR-05A-2014,Israel F5,Hard,32,S,20140505,14,122550,,,Mor Bulis,U,,ISR,18.045174538,125844,,Q,Yannai Barkai,U,,ISR,17.1334702259,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1350,4,1949,1
@@ -6145,7 +6145,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-ISR-06A-2014,Israel F6,Hard,32,S,20140512,6,127326,,,Ben Patael,U,,ISR,16.9418206708,131951,,Q,Daniel Cukierman,U,,ISR,18.841889117,3-6 6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1641,2,,
 2014-M-FU-ISR-06A-2014,Israel F6,Hard,32,S,20140512,7,106352,,,Matias Franco Descotte,R,,ARG,19.7015742642,126431,,Q,Gal Kruchik,U,,ISR,18.1108829569,7-6(2) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1112,8,,
 2014-M-FU-ISR-06A-2014,Israel F6,Hard,32,S,20140512,8,106273,6,,Ronald Slobodchikov,R,,RUS,20.4353182752,106217,,,Daniel Skripnik,R,,ISR,20.810403833,7-5 3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,889,16,1499,3
-2014-M-FU-ISR-06A-2014,Israel F6,Hard,32,S,20140512,9,106143,5,,Dekel Bar,R,,ISR,21.158110883,122548,,Q,Edan Leshem,U,1.83,ISR,17.1471594798,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,876,17,,
+2014-M-FU-ISR-06A-2014,Israel F6,Hard,32,S,20140512,9,106143,5,,Dekel Bar,R,,ISR,21.158110883,122548,,Q,Edan Leshem,U,183,ISR,17.1471594798,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,876,17,,
 2014-M-FU-ISR-06A-2014,Israel F6,Hard,32,S,20140512,10,122550,,,Mor Bulis,U,,ISR,18.0643394935,126444,,,Emil Saveljev,U,,ISR,17.2840520192,5-7 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1352,4,1583,2
 2014-M-FU-ISR-06A-2014,Israel F6,Hard,32,S,20140512,11,122552,,LL,Aviv Darmon,U,,ISR,20.1177275838,105186,,Q,Guy Michelevitz,U,,ISR,25.8015058179,7-6(4) 1-6 4-5 RET,3,R32,,,,,,,,,,,,,,,,,,,,2038,1,,
 2014-M-FU-ISR-06A-2014,Israel F6,Hard,32,S,20140512,12,104852,4,,Yannick Jankovits,R,,FRA,27.3456536619,125844,,Q,Yannai Barkai,U,,ISR,17.1526351814,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,853,18,2038,1
@@ -6798,7 +6798,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-THA-04A-2014,Thailand F4,Hard,32,S,20140519,8,104810,5,,Zhe Li,R,185,CHN,27.6605065024,106396,,,Cheng Yu Yu,R,,TPE,19.1293634497,6-1 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,648,39,939,13
 2014-M-FU-THA-04A-2014,Thailand F4,Hard,32,S,20140519,9,106397,,,Wishaya Trongcharoenchaikul,R,,THA,19.112936345,104961,7,,Ryan Agar,R,,AUS,26.9103353867,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,917,14,717,31
 2014-M-FU-THA-04A-2014,Thailand F4,Hard,32,S,20140519,10,105579,,,Kittipong Wachiramanowong,R,183,THA,23.8986995209,111183,,LL,Chayanon Kaewsuto,R,,THA,18.9240246407,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,795,23,1597,2
-2014-M-FU-THA-04A-2014,Thailand F4,Hard,32,S,20140519,11,105464,,,Christopher Rungkat,R,1.7,INA,24.3422313484,105611,,Q,Andre Dome,U,,USA,23.7645448323,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1056,9,1348,4
+2014-M-FU-THA-04A-2014,Thailand F4,Hard,32,S,20140519,11,105464,,,Christopher Rungkat,R,170,INA,24.3422313484,105611,,Q,Andre Dome,U,,USA,23.7645448323,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1056,9,1348,4
 2014-M-FU-THA-04A-2014,Thailand F4,Hard,32,S,20140519,12,110572,,Q,Dan Chuntraruk,U,,THA,28.3915126626,105142,4,,Arata Onozawa,U,,JPN,26.0561259411,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1704,1,677,36
 2014-M-FU-THA-04A-2014,Thailand F4,Hard,32,S,20140519,13,105595,8,,Dayne Kelly,U,,AUS,23.8220396988,111181,,,Pruchya Isarow,R,,THA,18.5900068446,7-6(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,732,29,812,21
 2014-M-FU-THA-04A-2014,Thailand F4,Hard,32,S,20140519,14,105835,,,Jonathon Cooper,R,,AUS,22.7214236824,105737,,,Kaza Vinayak Sharma,R,,IND,23.1430527036,3-6 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1032,10,992,11
@@ -6809,12 +6809,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-THA-04A-2014,Thailand F4,Hard,32,S,20140519,19,110757,,,Jacob Grills,U,,AUS,18.9185489391,110575,,Q,Christopher Marquis,R,175,IND,22.932238193,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,735,29,1704,1
 2014-M-FU-THA-04A-2014,Thailand F4,Hard,32,S,20140519,20,104810,5,,Zhe Li,R,185,CHN,27.6605065024,106321,,Q,Xin Gao,U,,CHN,20.0191649555,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,648,39,1254,5
 2014-M-FU-THA-04A-2014,Thailand F4,Hard,32,S,20140519,21,105579,,,Kittipong Wachiramanowong,R,183,THA,23.8986995209,106397,,,Wishaya Trongcharoenchaikul,R,,THA,19.112936345,7-6(1) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,795,23,917,14
-2014-M-FU-THA-04A-2014,Thailand F4,Hard,32,S,20140519,22,105464,,,Christopher Rungkat,R,1.7,INA,24.3422313484,110572,,Q,Dan Chuntraruk,U,,THA,28.3915126626,3-6 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1056,9,1704,1
+2014-M-FU-THA-04A-2014,Thailand F4,Hard,32,S,20140519,22,105464,,,Christopher Rungkat,R,170,INA,24.3422313484,110572,,Q,Dan Chuntraruk,U,,THA,28.3915126626,3-6 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1056,9,1704,1
 2014-M-FU-THA-04A-2014,Thailand F4,Hard,32,S,20140519,23,105595,8,,Dayne Kelly,U,,AUS,23.8220396988,105835,,,Jonathon Cooper,R,,AUS,22.7214236824,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,732,29,1032,10
 2014-M-FU-THA-04A-2014,Thailand F4,Hard,32,S,20140519,24,105999,,,Bowen Ouyang,L,,CHN,21.9986310746,102863,,,Takao Suzuki,R,175,JPN,37.659137577,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,891,15,932,13
 2014-M-FU-THA-04A-2014,Thailand F4,Hard,32,S,20140519,25,103821,1,,Danai Udomchoke,R,173,THA,32.7693360712,105823,6,,Masato Shiga,U,,JPN,22.7789185489,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,392,108,694,33
 2014-M-FU-THA-04A-2014,Thailand F4,Hard,32,S,20140519,26,104810,5,,Zhe Li,R,185,CHN,27.6605065024,110757,,,Jacob Grills,U,,AUS,18.9185489391,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,648,39,735,29
-2014-M-FU-THA-04A-2014,Thailand F4,Hard,32,S,20140519,27,105579,,,Kittipong Wachiramanowong,R,183,THA,23.8986995209,105464,,,Christopher Rungkat,R,1.7,INA,24.3422313484,3-6 7-5 6-2,3,QF,,,,,,,,,,,,,,,,,,,,795,23,1056,9
+2014-M-FU-THA-04A-2014,Thailand F4,Hard,32,S,20140519,27,105579,,,Kittipong Wachiramanowong,R,183,THA,23.8986995209,105464,,,Christopher Rungkat,R,170,INA,24.3422313484,3-6 7-5 6-2,3,QF,,,,,,,,,,,,,,,,,,,,795,23,1056,9
 2014-M-FU-THA-04A-2014,Thailand F4,Hard,32,S,20140519,28,105595,8,,Dayne Kelly,U,,AUS,23.8220396988,105999,,,Bowen Ouyang,L,,CHN,21.9986310746,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,732,29,891,15
 2014-M-FU-THA-04A-2014,Thailand F4,Hard,32,S,20140519,29,103821,1,,Danai Udomchoke,R,173,THA,32.7693360712,104810,5,,Zhe Li,R,185,CHN,27.6605065024,6-1 6-3,3,SF,,,,,,,,,,,,,,,,,,,,392,108,648,39
 2014-M-FU-THA-04A-2014,Thailand F4,Hard,32,S,20140519,30,105595,8,,Dayne Kelly,U,,AUS,23.8220396988,105579,,,Kittipong Wachiramanowong,R,183,THA,23.8986995209,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,732,29,795,23
@@ -6831,7 +6831,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-TUN-02A-2014,Tunisia F2,Hard,32,S,20140519,10,123853,,,Imran Aswat,R,,GBR,18.9787816564,126813,,WC,Eduardo Burgui,R,,BRA,18.7679671458,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1148,7,,
 2014-M-FU-TUN-02A-2014,Tunisia F2,Hard,32,S,20140519,11,106280,,,Maxime Tchoutakian,U,,FRA,20.372347707,121413,,WC,Fares Kilani,U,,TUN,21.0485968515,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,768,26,,
 2014-M-FU-TUN-02A-2014,Tunisia F2,Hard,32,S,20140519,12,105692,3,,Alessandro Bega,R,,ITA,23.3511293634,111177,,,Arkadiusz Kocyla,R,,POL,20.5420944559,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,489,73,,
-2014-M-FU-TUN-02A-2014,Tunisia F2,Hard,32,S,20140519,13,109303,8,,Stefano Napolitano,R,,ITA,19.1047227926,121411,,Q,Moez Chargui,R,,TUN,21.3524982888,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,649,39,,
+2014-M-FU-TUN-02A-2014,Tunisia F2,Hard,32,S,20140519,13,109303,8,,Stefano Napolitano,R,,ITA,19.1047227926,121411,,Q,Moez Echargui,R,,TUN,21.3524982888,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,649,39,,
 2014-M-FU-TUN-02A-2014,Tunisia F2,Hard,32,S,20140519,14,127973,,Q,Majed Kilani,R,,TUN,17.3771389459,144713,,Q,Sofiene El Bahri,U,,TUN,30.7049965777,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2014-M-FU-TUN-02A-2014,Tunisia F2,Hard,32,S,20140519,15,108760,,WC,Slim Hamza,R,,TUN,21.9411362081,103520,,Q,Pavel Snobel,L,190,CZE,34.2203969884,6-2 3-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2014-M-FU-TUN-02A-2014,Tunisia F2,Hard,32,S,20140519,16,105909,2,,Sam Barry,R,,IRL,22.3080082136,123742,,Q,Martin Beran,R,,CAN,18.4750171116,6-3 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,379,115,2075,1
@@ -7349,7 +7349,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-THA-05A-2014,Thailand F5,Hard,32,S,20140526,1,106368,1,,Ramkumar Ramanathan,R,188,IND,19.5455167693,111430,,,David Sofaer,U,,AUS,22.8692676249,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,343,131,921,13
 2014-M-FU-THA-05A-2014,Thailand F5,Hard,32,S,20140526,2,111181,,,Pruchya Isarow,R,,THA,18.6091718001,111182,,WC,Singekrawee Wattanakul,R,,THA,18.8117727584,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,813,21,1455,3
 2014-M-FU-THA-05A-2014,Thailand F5,Hard,32,S,20140526,3,105823,,,Masato Shiga,U,,JPN,22.7980835044,133667,,WC,Congsup Congcar,U,,THA,17.7604380561,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,695,33,1701,1
-2014-M-FU-THA-05A-2014,Thailand F5,Hard,32,S,20140526,4,105464,,Q,Christopher Rungkat,R,1.7,INA,24.3613963039,105059,6,,Kento Takeuchi,L,,JPN,26.4339493498,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1058,9,592,51
+2014-M-FU-THA-05A-2014,Thailand F5,Hard,32,S,20140526,4,105464,,Q,Christopher Rungkat,R,170,INA,24.3613963039,105059,6,,Kento Takeuchi,L,,JPN,26.4339493498,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1058,9,592,51
 2014-M-FU-THA-05A-2014,Thailand F5,Hard,32,S,20140526,5,105530,4,,Henrique Cunha,L,,BRA,24.0711841205,144735,,WC,Patcharapol Kawin,U,,THA,17.0102669405,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,456,83,,
 2014-M-FU-THA-05A-2014,Thailand F5,Hard,32,S,20140526,6,106397,,,Wishaya Trongcharoenchaikul,R,,THA,19.1321013005,104961,,,Ryan Agar,R,,AUS,26.9295003422,1-6 7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,909,14,799,23
 2014-M-FU-THA-05A-2014,Thailand F5,Hard,32,S,20140526,7,105595,,,Dayne Kelly,U,,AUS,23.8412046543,102863,,Q,Takao Suzuki,R,175,JPN,37.6783025325,4-6 7-6(5) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,730,29,924,13
@@ -7363,20 +7363,20 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-THA-05A-2014,Thailand F5,Hard,32,S,20140526,15,110757,,,Jacob Grills,U,,AUS,18.9377138946,106194,,Q,Nutthanon Kadchapanan,R,,THA,20.9664613279,5-7 6-3 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,733,29,1645,2
 2014-M-FU-THA-05A-2014,Thailand F5,Hard,32,S,20140526,16,105611,,Q,Andre Dome,U,,USA,23.7837097878,105670,2,,Karunuday Singh,R,,IND,23.5154004107,1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,1348,4,409,103
 2014-M-FU-THA-05A-2014,Thailand F5,Hard,32,S,20140526,17,111181,,,Pruchya Isarow,R,,THA,18.6091718001,106368,1,,Ramkumar Ramanathan,R,188,IND,19.5455167693,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,813,21,343,131
-2014-M-FU-THA-05A-2014,Thailand F5,Hard,32,S,20140526,18,105464,,Q,Christopher Rungkat,R,1.7,INA,24.3613963039,105823,,,Masato Shiga,U,,JPN,22.7980835044,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1058,9,695,33
+2014-M-FU-THA-05A-2014,Thailand F5,Hard,32,S,20140526,18,105464,,Q,Christopher Rungkat,R,170,INA,24.3613963039,105823,,,Masato Shiga,U,,JPN,22.7980835044,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1058,9,695,33
 2014-M-FU-THA-05A-2014,Thailand F5,Hard,32,S,20140526,19,105530,4,,Henrique Cunha,L,,BRA,24.0711841205,106397,,,Wishaya Trongcharoenchaikul,R,,THA,19.1321013005,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,456,83,909,14
 2014-M-FU-THA-05A-2014,Thailand F5,Hard,32,S,20140526,20,104810,7,,Zhe Li,R,185,CHN,27.6796714579,105595,,,Dayne Kelly,U,,AUS,23.8412046543,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,650,39,730,29
 2014-M-FU-THA-05A-2014,Thailand F5,Hard,32,S,20140526,21,110571,,WC,Phassawit Burapharitta,U,,THA,21.4182067077,106396,,Q,Cheng Yu Yu,R,,TPE,19.1485284052,6-7(5) 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,2069,1,931,13
 2014-M-FU-THA-05A-2014,Thailand F5,Hard,32,S,20140526,22,103175,3,,Toshihide Matsui,R,180,JPN,36.1013004791,105787,,,Hiroyasu Ehara,R,,JPN,22.9377138946,6-7(8) 7-5 7-5,3,R16,,,,,,,,,,,,,,,,,,,,455,84,684,35
 2014-M-FU-THA-05A-2014,Thailand F5,Hard,32,S,20140526,23,105142,8,,Arata Onozawa,U,,JPN,26.0752908966,111183,,Q,Chayanon Kaewsuto,R,,THA,18.9431895962,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,674,36,1592,2
 2014-M-FU-THA-05A-2014,Thailand F5,Hard,32,S,20140526,24,110757,,,Jacob Grills,U,,AUS,18.9377138946,105611,,Q,Andre Dome,U,,USA,23.7837097878,6-7(6) 6-1 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,733,29,1348,4
-2014-M-FU-THA-05A-2014,Thailand F5,Hard,32,S,20140526,25,105464,,Q,Christopher Rungkat,R,1.7,INA,24.3613963039,111181,,,Pruchya Isarow,R,,THA,18.6091718001,6-2 3-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,1058,9,813,21
+2014-M-FU-THA-05A-2014,Thailand F5,Hard,32,S,20140526,25,105464,,Q,Christopher Rungkat,R,170,INA,24.3613963039,111181,,,Pruchya Isarow,R,,THA,18.6091718001,6-2 3-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,1058,9,813,21
 2014-M-FU-THA-05A-2014,Thailand F5,Hard,32,S,20140526,26,105530,4,,Henrique Cunha,L,,BRA,24.0711841205,104810,7,,Zhe Li,R,185,CHN,27.6796714579,4-6 7-6(4) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,456,83,650,39
 2014-M-FU-THA-05A-2014,Thailand F5,Hard,32,S,20140526,27,103175,3,,Toshihide Matsui,R,180,JPN,36.1013004791,110571,,WC,Phassawit Burapharitta,U,,THA,21.4182067077,6-3 3-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,455,84,2069,1
 2014-M-FU-THA-05A-2014,Thailand F5,Hard,32,S,20140526,28,110757,,,Jacob Grills,U,,AUS,18.9377138946,105142,8,,Arata Onozawa,U,,JPN,26.0752908966,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,733,29,674,36
-2014-M-FU-THA-05A-2014,Thailand F5,Hard,32,S,20140526,29,105464,,Q,Christopher Rungkat,R,1.7,INA,24.3613963039,105530,4,,Henrique Cunha,L,,BRA,24.0711841205,1-6 6-1 6-4,3,SF,,,,,,,,,,,,,,,,,,,,1058,9,456,83
+2014-M-FU-THA-05A-2014,Thailand F5,Hard,32,S,20140526,29,105464,,Q,Christopher Rungkat,R,170,INA,24.3613963039,105530,4,,Henrique Cunha,L,,BRA,24.0711841205,1-6 6-1 6-4,3,SF,,,,,,,,,,,,,,,,,,,,1058,9,456,83
 2014-M-FU-THA-05A-2014,Thailand F5,Hard,32,S,20140526,30,103175,3,,Toshihide Matsui,R,180,JPN,36.1013004791,110757,,,Jacob Grills,U,,AUS,18.9377138946,6-1 7-5,3,SF,,,,,,,,,,,,,,,,,,,,455,84,733,29
-2014-M-FU-THA-05A-2014,Thailand F5,Hard,32,S,20140526,31,103175,3,,Toshihide Matsui,R,180,JPN,36.1013004791,105464,,Q,Christopher Rungkat,R,1.7,INA,24.3613963039,6-4 6-1,3,F,,,,,,,,,,,,,,,,,,,,455,84,1058,9
+2014-M-FU-THA-05A-2014,Thailand F5,Hard,32,S,20140526,31,103175,3,,Toshihide Matsui,R,180,JPN,36.1013004791,105464,,Q,Christopher Rungkat,R,170,INA,24.3613963039,6-4 6-1,3,F,,,,,,,,,,,,,,,,,,,,455,84,1058,9
 2014-M-FU-TUN-03A-2014,Tunisia F3,Hard,32,S,20140526,1,105909,1,,Sam Barry,R,,IRL,22.3271731691,120247,,Q,Joe Cooper,R,,GBR,27.9945242984,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,375,116,,
 2014-M-FU-TUN-03A-2014,Tunisia F3,Hard,32,S,20140526,2,109486,,,Alberto Cammarata,U,,ITA,21.1307323751,126201,,,Francesco Bessire,R,,ITA,20.257357974,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1242,5,2118,1
 2014-M-FU-TUN-03A-2014,Tunisia F3,Hard,32,S,20140526,3,104883,,WC,Matteo Marfia,L,,ITA,27.2224503765,105740,,,Francesco Garzelli,R,,ITA,23.1403148528,6-2 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,1283,5,1071,9
@@ -7384,12 +7384,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-TUN-03A-2014,Tunisia F3,Hard,32,S,20140526,5,125796,4,,Remi Boutillier,U,,FRA,24.3586584531,124095,,WC,Ameur Ben Hassen,R,,TUN,20.9089664613,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,536,63,2015,1
 2014-M-FU-TUN-03A-2014,Tunisia F3,Hard,32,S,20140526,6,127273,,,Antonio Terzo,R,,ITA,21.5195071869,124078,,Q,David Porter,U,,GBR,20.9363449692,4-6 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1300,4,1682,2
 2014-M-FU-TUN-03A-2014,Tunisia F3,Hard,32,S,20140526,7,108760,,Q,Slim Hamza,R,,TUN,21.9603011636,105718,,,Davide Melchiorre,R,,ITA,23.2635181383,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,1155,7
-2014-M-FU-TUN-03A-2014,Tunisia F3,Hard,32,S,20140526,8,121531,7,,Mats Moraing,L,,GER,21.9301848049,121411,,Q,Moez Chargui,R,,TUN,21.3716632444,2-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,783,24,,
+2014-M-FU-TUN-03A-2014,Tunisia F3,Hard,32,S,20140526,8,121531,7,,Mats Moraing,L,,GER,21.9301848049,121411,,Q,Moez Echargui,R,,TUN,21.3716632444,2-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,783,24,,
 2014-M-FU-TUN-03A-2014,Tunisia F3,Hard,32,S,20140526,9,106140,5,,Matthias Wunner,R,,GER,21.2101300479,132796,,WC,Alberto Nieto,U,,ESP,17.7659137577,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,763,26,,
 2014-M-FU-TUN-03A-2014,Tunisia F3,Hard,32,S,20140526,10,123853,,,Imran Aswat,R,,GBR,18.9979466119,121413,,Q,Fares Kilani,U,,TUN,21.067761807,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1104,8,,
 2014-M-FU-TUN-03A-2014,Tunisia F3,Hard,32,S,20140526,11,124089,,,Theo Fournerie,R,,FRA,17.2210814511,144713,,Q,Sofiene El Bahri,U,,TUN,30.7241615332,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,867,17,,
 2014-M-FU-TUN-03A-2014,Tunisia F3,Hard,32,S,20140526,12,104587,3,,Claudio Grassi,U,,ITA,28.8350444901,126370,,,Ferdinando Bonuccelli,U,,ITA,22.9486652977,6-3 6-7(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,588,51,1022,10
-2014-M-FU-TUN-03A-2014,Tunisia F3,Hard,32,S,20140526,13,110600,,,Robert Quentin,R,,FRA,19.7535934292,105414,8,,Matthieu Roy,U,,FRA,24.6735112936,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,835,20
+2014-M-FU-TUN-03A-2014,Tunisia F3,Hard,32,S,20140526,13,110600,,,Quentin Robert,R,,FRA,19.7535934292,105414,8,,Matthieu Roy,U,,FRA,24.6735112936,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,835,20
 2014-M-FU-TUN-03A-2014,Tunisia F3,Hard,32,S,20140526,14,125806,,,Dominik Kellovsky,U,,CZE,17.8370978782,123742,,Q,Martin Beran,R,,CAN,18.4941820671,5-7 7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1662,2,2069,1
 2014-M-FU-TUN-03A-2014,Tunisia F3,Hard,32,S,20140526,15,121777,,,Nils Brinkman,R,,GER,21.916495551,127973,,Q,Majed Kilani,R,,TUN,17.3963039014,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1627,2,,
 2014-M-FU-TUN-03A-2014,Tunisia F3,Hard,32,S,20140526,16,106322,2,,David Perez Sanz,U,,ESP,20.0301163587,109740,,LL,Aydin Akhmetshin,U,,RUS,19.5975359343,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,560,58,2191,1
@@ -7399,7 +7399,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-TUN-03A-2014,Tunisia F3,Hard,32,S,20140526,20,121531,7,,Mats Moraing,L,,GER,21.9301848049,108760,,Q,Slim Hamza,R,,TUN,21.9603011636,6-2 1-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,783,24,,
 2014-M-FU-TUN-03A-2014,Tunisia F3,Hard,32,S,20140526,21,106140,5,,Matthias Wunner,R,,GER,21.2101300479,123853,,,Imran Aswat,R,,GBR,18.9979466119,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,763,26,1104,8
 2014-M-FU-TUN-03A-2014,Tunisia F3,Hard,32,S,20140526,22,124089,,,Theo Fournerie,R,,FRA,17.2210814511,104587,3,,Claudio Grassi,U,,ITA,28.8350444901,7-5 7-5,3,R16,,,,,,,,,,,,,,,,,,,,867,17,588,51
-2014-M-FU-TUN-03A-2014,Tunisia F3,Hard,32,S,20140526,23,125806,,,Dominik Kellovsky,U,,CZE,17.8370978782,110600,,,Robert Quentin,R,,FRA,19.7535934292,6-4 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,1662,2,,
+2014-M-FU-TUN-03A-2014,Tunisia F3,Hard,32,S,20140526,23,125806,,,Dominik Kellovsky,U,,CZE,17.8370978782,110600,,,Quentin Robert,R,,FRA,19.7535934292,6-4 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,1662,2,,
 2014-M-FU-TUN-03A-2014,Tunisia F3,Hard,32,S,20140526,24,106322,2,,David Perez Sanz,U,,ESP,20.0301163587,121777,,,Nils Brinkman,R,,GER,21.916495551,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,560,58,1627,2
 2014-M-FU-TUN-03A-2014,Tunisia F3,Hard,32,S,20140526,25,106280,6,,Maxime Tchoutakian,U,,FRA,20.3915126626,105909,1,,Sam Barry,R,,IRL,22.3271731691,6-4 1-6 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,747,28,375,116
 2014-M-FU-TUN-03A-2014,Tunisia F3,Hard,32,S,20140526,26,125796,4,,Remi Boutillier,U,,FRA,24.3586584531,121531,7,,Mats Moraing,L,,GER,21.9301848049,1-6 6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,536,63,783,24
@@ -7940,7 +7940,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-THA-06A-2014,Thailand F6,Hard,32,S,20140602,3,110571,,WC,Phassawit Burapharitta,U,,THA,21.4182067077,123900,,Q,Kumara P Saradhi Adavelly,L,,IND,18.4640657084,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,2069,1,2069,1
 2014-M-FU-THA-06A-2014,Thailand F6,Hard,32,S,20140602,4,104961,8,,Ryan Agar,R,,AUS,26.9295003422,105737,,,Kaza Vinayak Sharma,R,,IND,23.1622176591,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,799,23,988,11
 2014-M-FU-THA-06A-2014,Thailand F6,Hard,32,S,20140602,5,111181,,,Pruchya Isarow,R,,THA,18.6091718001,105059,4,,Kento Takeuchi,L,,JPN,26.4339493498,6-3 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,813,21,592,51
-2014-M-FU-THA-06A-2014,Thailand F6,Hard,32,S,20140602,6,105464,,,Christopher Rungkat,R,1.7,INA,24.3613963039,111585,,,Shotaro Goto,U,,JPN,19.8083504449,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1058,9,1186,6
+2014-M-FU-THA-06A-2014,Thailand F6,Hard,32,S,20140602,6,105464,,,Christopher Rungkat,R,170,INA,24.3613963039,111585,,,Shotaro Goto,U,,JPN,19.8083504449,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1058,9,1186,6
 2014-M-FU-THA-06A-2014,Thailand F6,Hard,32,S,20140602,7,105089,,Q,Thomas Shubert,U,,USA,26.2943189596,122560,,Q,Mitchell Pritchard,U,,AUS,18.2669404517,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1645,2,1807,1
 2014-M-FU-THA-06A-2014,Thailand F6,Hard,32,S,20140602,8,144735,,WC,Patcharapol Kawin,U,,THA,17.0102669405,105142,5,,Arata Onozawa,U,,JPN,26.0752908966,6-3 3-3 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,674,36
 2014-M-FU-THA-06A-2014,Thailand F6,Hard,32,S,20140602,9,105787,6,,Hiroyasu Ehara,R,,JPN,22.9377138946,110572,,Q,Dan Chuntraruk,U,,THA,28.4106776181,6-7(5) 6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,684,35,1701,1
@@ -7953,17 +7953,17 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-THA-06A-2014,Thailand F6,Hard,32,S,20140602,16,103175,2,,Toshihide Matsui,R,180,JPN,36.1013004791,106397,,,Wishaya Trongcharoenchaikul,R,,THA,19.1321013005,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,455,84,909,14
 2014-M-FU-THA-06A-2014,Thailand F6,Hard,32,S,20140602,17,103821,1,,Danai Udomchoke,R,173,THA,32.7885010267,105727,,,Aaron Leeder Chard,U,,AUS,23.2197125257,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,397,108,1353,4
 2014-M-FU-THA-06A-2014,Thailand F6,Hard,32,S,20140602,18,110571,,WC,Phassawit Burapharitta,U,,THA,21.4182067077,104961,8,,Ryan Agar,R,,AUS,26.9295003422,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,2069,1,799,23
-2014-M-FU-THA-06A-2014,Thailand F6,Hard,32,S,20140602,19,105464,,,Christopher Rungkat,R,1.7,INA,24.3613963039,111181,,,Pruchya Isarow,R,,THA,18.6091718001,1-6 6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1058,9,813,21
+2014-M-FU-THA-06A-2014,Thailand F6,Hard,32,S,20140602,19,105464,,,Christopher Rungkat,R,170,INA,24.3613963039,111181,,,Pruchya Isarow,R,,THA,18.6091718001,1-6 6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1058,9,813,21
 2014-M-FU-THA-06A-2014,Thailand F6,Hard,32,S,20140602,20,105089,,Q,Thomas Shubert,U,,USA,26.2943189596,144735,,WC,Patcharapol Kawin,U,,THA,17.0102669405,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1645,2,,
 2014-M-FU-THA-06A-2014,Thailand F6,Hard,32,S,20140602,21,111182,,WC,Singekrawee Wattanakul,R,,THA,18.8117727584,105787,6,,Hiroyasu Ehara,R,,JPN,22.9377138946,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1455,3,684,35
 2014-M-FU-THA-06A-2014,Thailand F6,Hard,32,S,20140602,22,105530,3,,Henrique Cunha,L,,BRA,24.0711841205,105611,,,Andre Dome,U,,USA,23.7837097878,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,456,83,1348,4
 2014-M-FU-THA-06A-2014,Thailand F6,Hard,32,S,20140602,23,105835,,,Jonathon Cooper,R,,AUS,22.7405886379,121581,,Q,Lakshit Sood,R,,IND,23.2607802875,6-7(3) 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1062,9,1645,2
 2014-M-FU-THA-06A-2014,Thailand F6,Hard,32,S,20140602,24,103175,2,,Toshihide Matsui,R,180,JPN,36.1013004791,111430,,,David Sofaer,U,,AUS,22.8692676249,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,455,84,921,13
 2014-M-FU-THA-06A-2014,Thailand F6,Hard,32,S,20140602,25,110571,,WC,Phassawit Burapharitta,U,,THA,21.4182067077,103821,1,,Danai Udomchoke,R,173,THA,32.7885010267,6-4 2-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,2069,1,397,108
-2014-M-FU-THA-06A-2014,Thailand F6,Hard,32,S,20140602,26,105464,,,Christopher Rungkat,R,1.7,INA,24.3613963039,105089,,Q,Thomas Shubert,U,,USA,26.2943189596,6-2 6-7(5) 7-6(4),3,QF,,,,,,,,,,,,,,,,,,,,1058,9,1645,2
+2014-M-FU-THA-06A-2014,Thailand F6,Hard,32,S,20140602,26,105464,,,Christopher Rungkat,R,170,INA,24.3613963039,105089,,Q,Thomas Shubert,U,,USA,26.2943189596,6-2 6-7(5) 7-6(4),3,QF,,,,,,,,,,,,,,,,,,,,1058,9,1645,2
 2014-M-FU-THA-06A-2014,Thailand F6,Hard,32,S,20140602,27,105530,3,,Henrique Cunha,L,,BRA,24.0711841205,111182,,WC,Singekrawee Wattanakul,R,,THA,18.8117727584,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,456,83,1455,3
 2014-M-FU-THA-06A-2014,Thailand F6,Hard,32,S,20140602,28,103175,2,,Toshihide Matsui,R,180,JPN,36.1013004791,105835,,,Jonathon Cooper,R,,AUS,22.7405886379,6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,455,84,1062,9
-2014-M-FU-THA-06A-2014,Thailand F6,Hard,32,S,20140602,29,110571,,WC,Phassawit Burapharitta,U,,THA,21.4182067077,105464,,,Christopher Rungkat,R,1.7,INA,24.3613963039,1-6 6-2 6-0,3,SF,,,,,,,,,,,,,,,,,,,,2069,1,1058,9
+2014-M-FU-THA-06A-2014,Thailand F6,Hard,32,S,20140602,29,110571,,WC,Phassawit Burapharitta,U,,THA,21.4182067077,105464,,,Christopher Rungkat,R,170,INA,24.3613963039,1-6 6-2 6-0,3,SF,,,,,,,,,,,,,,,,,,,,2069,1,1058,9
 2014-M-FU-THA-06A-2014,Thailand F6,Hard,32,S,20140602,30,105530,3,,Henrique Cunha,L,,BRA,24.0711841205,103175,2,,Toshihide Matsui,R,180,JPN,36.1013004791,6-4 7-6(5),3,SF,,,,,,,,,,,,,,,,,,,,456,83,455,84
 2014-M-FU-THA-06A-2014,Thailand F6,Hard,32,S,20140602,31,105530,3,,Henrique Cunha,L,,BRA,24.0711841205,110571,,WC,Phassawit Burapharitta,U,,THA,21.4182067077,6-0 6-0,3,F,,,,,,,,,,,,,,,,,,,,456,83,2069,1
 2014-M-FU-TUR-19A-2014,Turkey F19,Clay,32,S,20140602,1,110748,1,,Nikola Milojevic,R,188,SRB,18.9349760438,111792,,Q,Young Seok Kim,L,,KOR,19.0390143737,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,483,74,1572,2
@@ -8220,7 +8220,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-ISR-08A-2014,Israel F8,Hard,32,S,20140609,4,104852,5,,Yannick Jankovits,R,,FRA,27.4223134839,122550,,,Mor Bulis,U,,ISR,18.1409993155,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,757,27,1271,5
 2014-M-FU-ISR-08A-2014,Israel F8,Hard,32,S,20140609,5,127326,,,Ben Patael,U,,ISR,17.0184804928,110780,4,,Joshua Ward Hibbert,R,,GBR,20.3696098563,6-4 6-7(1) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1249,5,753,28
 2014-M-FU-ISR-08A-2014,Israel F8,Hard,32,S,20140609,6,106217,,,Daniel Skripnik,R,,ISR,20.887063655,109337,,,Sebastian Wagner,U,,GER,22.3600273785,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1359,4,973,12
-2014-M-FU-ISR-08A-2014,Israel F8,Hard,32,S,20140609,7,122548,,WC,Edan Leshem,U,1.83,ISR,17.2238193018,126444,,Q,Emil Saveljev,U,,ISR,17.3607118412,5-7 7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,1620,2
+2014-M-FU-ISR-08A-2014,Israel F8,Hard,32,S,20140609,7,122548,,WC,Edan Leshem,U,183,ISR,17.2238193018,126444,,Q,Emil Saveljev,U,,ISR,17.3607118412,5-7 7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,1620,2
 2014-M-FU-ISR-08A-2014,Israel F8,Hard,32,S,20140609,8,126095,7,,Devin Mccarthy,R,,USA,23.575633128,105186,,Q,Guy Michelevitz,U,,ISR,25.87816564,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,800,23,,
 2014-M-FU-ISR-08A-2014,Israel F8,Hard,32,S,20140609,9,126754,,WC,Alexander Mozgovoy,R,,RUS,19.1813826146,105414,8,,Matthieu Roy,U,,FRA,24.7118412047,4-6 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1449,3,831,20
 2014-M-FU-ISR-08A-2014,Israel F8,Hard,32,S,20140609,10,105509,,,Andrew Carter,U,,USA,24.1998631075,122381,,WC,Daniel Tamir,U,,ISR,18.1519507187,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1033,10,2079,1
@@ -8233,7 +8233,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-ISR-08A-2014,Israel F8,Hard,32,S,20140609,17,105909,1,,Sam Barry,R,,IRL,22.3655030801,122591,,Q,Ram Kapach,U,,ISR,17.3607118412,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,371,117,1947,1
 2014-M-FU-ISR-08A-2014,Israel F8,Hard,32,S,20140609,18,104852,5,,Yannick Jankovits,R,,FRA,27.4223134839,122111,,Q,Oran Reznik,R,,ISR,20.0629705681,6-1 6-7(5) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,757,27,2181,1
 2014-M-FU-ISR-08A-2014,Israel F8,Hard,32,S,20140609,19,127326,,,Ben Patael,U,,ISR,17.0184804928,106217,,,Daniel Skripnik,R,,ISR,20.887063655,4-6 7-6(5) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1249,5,1359,4
-2014-M-FU-ISR-08A-2014,Israel F8,Hard,32,S,20140609,20,126095,7,,Devin Mccarthy,R,,USA,23.575633128,122548,,WC,Edan Leshem,U,1.83,ISR,17.2238193018,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,800,23,,
+2014-M-FU-ISR-08A-2014,Israel F8,Hard,32,S,20140609,20,126095,7,,Devin Mccarthy,R,,USA,23.575633128,122548,,WC,Edan Leshem,U,183,ISR,17.2238193018,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,800,23,,
 2014-M-FU-ISR-08A-2014,Israel F8,Hard,32,S,20140609,21,105509,,,Andrew Carter,U,,USA,24.1998631075,126754,,WC,Alexander Mozgovoy,R,,RUS,19.1813826146,7-6(4) 6-0,3,R16,,,,,,,,,,,,,,,,,,,,1033,10,1449,3
 2014-M-FU-ISR-08A-2014,Israel F8,Hard,32,S,20140609,22,122248,,Q,Peter Kobelt,U,,USA,23.5592060233,106424,,,Tal Goldengoren,U,,ISR,18.1464750171,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1947,1,900,15
 2014-M-FU-ISR-08A-2014,Israel F8,Hard,32,S,20140609,23,105695,,,Sander Gille,R,,BEL,23.3976728268,111815,6,,Cameron Norrie,L,188,GBR,18.7953456537,W/O,3,R16,,,,,,,,,,,,,,,,,,,,940,13,711,31
@@ -8648,7 +8648,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-HUN-03A-2014,Hungary F3,Clay,32,S,20140616,29,106035,4,,Isak Arvidsson,R,,SWE,21.8590006845,111513,1,,Laslo Djere,R,188,SRB,19.0390143737,3-6 7-5 6-3,3,SF,,,,,,,,,,,,,,,,,,,,522,66,354,123
 2014-M-FU-HUN-03A-2014,Hungary F3,Clay,32,S,20140616,30,105113,5,,Patrik Rosenholm,R,,SWE,26.2806297057,105601,3,,Cristobal Saavedra Corvalan,R,,CHI,23.8740588638,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,479,78,415,100
 2014-M-FU-HUN-03A-2014,Hungary F3,Clay,32,S,20140616,31,105113,5,,Patrik Rosenholm,R,,SWE,26.2806297057,106035,4,,Isak Arvidsson,R,,SWE,21.8590006845,7-5 3-6 7-5,3,F,,,,,,,,,,,,,,,,,,,,479,78,522,66
-2014-M-FU-ISR-09A-2014,Israel F9,Hard,32,S,20140616,1,122548,,WC,Edan Leshem,U,1.83,ISR,17.2429842574,122647,,LL,Yuriy Kovalenko,R,,ISR,19.9644079398,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1718,1
+2014-M-FU-ISR-09A-2014,Israel F9,Hard,32,S,20140616,1,122548,,WC,Edan Leshem,U,183,ISR,17.2429842574,122647,,LL,Yuriy Kovalenko,R,,ISR,19.9644079398,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1718,1
 2014-M-FU-ISR-09A-2014,Israel F9,Hard,32,S,20140616,2,136830,,Q,Yossi Dahan,U,,ISR,18.0944558522,126358,,Q,Motvey Radionov,U,,ISR,17.0704996578,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2014-M-FU-ISR-09A-2014,Israel F9,Hard,32,S,20140616,3,126754,,,Alexander Mozgovoy,R,,RUS,19.2005475702,122552,,,Aviv Darmon,U,,ISR,20.2135523614,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1452,3,1644,2
 2014-M-FU-ISR-09A-2014,Israel F9,Hard,32,S,20140616,4,122248,,SE,Peter Kobelt,U,,USA,23.5783709788,105695,7,,Sander Gille,R,,BEL,23.4168377823,4-6 7-6(5) 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,1126,7,942,13
@@ -8664,7 +8664,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-ISR-09A-2014,Israel F9,Hard,32,S,20140616,14,105509,,,Andrew Carter,U,,USA,24.219028063,122372,,,Alexander Jhun,U,,GBR,19.1074606434,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1034,10,1284,5
 2014-M-FU-ISR-09A-2014,Israel F9,Hard,32,S,20140616,15,122111,,Q,Oran Reznik,R,,ISR,20.0821355236,122381,,WC,Daniel Tamir,U,,ISR,18.1711156742,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,2195,1,2097,1
 2014-M-FU-ISR-09A-2014,Israel F9,Hard,32,S,20140616,16,103891,2,,Alexandros Jakupovic,R,,GRE,32.5037645448,105186,,Q,Guy Michelevitz,U,,ISR,25.8973305955,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,588,51,,
-2014-M-FU-ISR-09A-2014,Israel F9,Hard,32,S,20140616,17,122548,,WC,Edan Leshem,U,1.83,ISR,17.2429842574,136830,,Q,Yossi Dahan,U,,ISR,18.0944558522,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+2014-M-FU-ISR-09A-2014,Israel F9,Hard,32,S,20140616,17,122548,,WC,Edan Leshem,U,183,ISR,17.2429842574,136830,,Q,Yossi Dahan,U,,ISR,18.0944558522,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2014-M-FU-ISR-09A-2014,Israel F9,Hard,32,S,20140616,18,122248,,SE,Peter Kobelt,U,,USA,23.5783709788,126754,,,Alexander Mozgovoy,R,,RUS,19.2005475702,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1126,7,1452,3
 2014-M-FU-ISR-09A-2014,Israel F9,Hard,32,S,20140616,19,126095,3,,Devin Mccarthy,R,,USA,23.5947980835,131951,,WC,Daniel Cukierman,U,,ISR,18.9377138946,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,738,29,1830,1
 2014-M-FU-ISR-09A-2014,Israel F9,Hard,32,S,20140616,20,109337,8,,Sebastian Wagner,U,,GER,22.379192334,126527,,,Bruce Strachan,U,,GBR,20.3832991102,2-6 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,944,13,1483,3
@@ -8672,7 +8672,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-ISR-09A-2014,Israel F9,Hard,32,S,20140616,22,106348,4,,Evgeny Karlovskiy,R,,RUS,19.8576317591,106352,,,Matias Franco Descotte,R,,ARG,19.7973990418,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,813,22,1038,10
 2014-M-FU-ISR-09A-2014,Israel F9,Hard,32,S,20140616,23,106143,5,,Dekel Bar,R,,ISR,21.2539356605,105509,,,Andrew Carter,U,,USA,24.219028063,4-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,840,20,1034,10
 2014-M-FU-ISR-09A-2014,Israel F9,Hard,32,S,20140616,24,103891,2,,Alexandros Jakupovic,R,,GRE,32.5037645448,122111,,Q,Oran Reznik,R,,ISR,20.0821355236,6-1 7-6(8),3,R16,,,,,,,,,,,,,,,,,,,,588,51,2195,1
-2014-M-FU-ISR-09A-2014,Israel F9,Hard,32,S,20140616,25,122248,,SE,Peter Kobelt,U,,USA,23.5783709788,122548,,WC,Edan Leshem,U,1.83,ISR,17.2429842574,6-7(6) 7-5 3-0 RET,3,QF,,,,,,,,,,,,,,,,,,,,1126,7,,
+2014-M-FU-ISR-09A-2014,Israel F9,Hard,32,S,20140616,25,122248,,SE,Peter Kobelt,U,,USA,23.5783709788,122548,,WC,Edan Leshem,U,183,ISR,17.2429842574,6-7(6) 7-5 3-0 RET,3,QF,,,,,,,,,,,,,,,,,,,,1126,7,,
 2014-M-FU-ISR-09A-2014,Israel F9,Hard,32,S,20140616,26,126095,3,,Devin Mccarthy,R,,USA,23.5947980835,109337,8,,Sebastian Wagner,U,,GER,22.379192334,6-4 6-7(6) 6-0,3,QF,,,,,,,,,,,,,,,,,,,,738,29,944,13
 2014-M-FU-ISR-09A-2014,Israel F9,Hard,32,S,20140616,27,106424,6,,Tal Goldengoren,U,,ISR,18.1656399726,106348,4,,Evgeny Karlovskiy,R,,RUS,19.8576317591,6-0 6-1,3,QF,,,,,,,,,,,,,,,,,,,,921,14,813,22
 2014-M-FU-ISR-09A-2014,Israel F9,Hard,32,S,20140616,28,103891,2,,Alexandros Jakupovic,R,,GRE,32.5037645448,106143,5,,Dekel Bar,R,,ISR,21.2539356605,7-6(6) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,588,51,840,20
@@ -9365,7 +9365,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-KAZ-08A-2014,Kazakhstan F8,Hard,32,S,20140623,2,105602,,,Ilya Lebedev,U,,RUS,23.8932238193,121920,,WC,Timur Khabibulin,R,,KAZ,18.8911704312,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,888,16,1502,3
 2014-M-FU-KAZ-08A-2014,Kazakhstan F8,Hard,32,S,20140623,3,106106,,Q,George Tsivadze,U,,GEO,21.4702258727,105921,,WC,Serizhan Yessenbekov,R,,KAZ,22.3655030801,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1363,4,1563,2
 2014-M-FU-KAZ-08A-2014,Kazakhstan F8,Hard,32,S,20140623,4,123773,,LL,Giorgi Javakhishvili,R,,GEO,18.6666666667,122510,,Q,Kuatbek Abiyev,U,,KAZ,19.4661190965,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1287,5,2206,1
-2014-M-FU-KAZ-08A-2014,Kazakhstan F8,Hard,32,S,20140623,5,106138,3,,Yaraslau Shyla,R,,BLR,21.3004791239,105545,,,Mikhail Fufygin,U,,RUS,24.1122518823,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,638,42,766,26
+2014-M-FU-KAZ-08A-2014,Kazakhstan F8,Hard,32,S,20140623,5,106138,3,,Yaraslav Shyla,R,,BLR,21.3004791239,105545,,,Mikhail Fufygin,U,,RUS,24.1122518823,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,638,42,766,26
 2014-M-FU-KAZ-08A-2014,Kazakhstan F8,Hard,32,S,20140623,6,125802,,,Ilya Ivashka,R,193,BLR,20.3258042437,105533,,,Dmitry Surchenko,U,,RUS,24.1423682409,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,786,24,1114,8
 2014-M-FU-KAZ-08A-2014,Kazakhstan F8,Hard,32,S,20140623,7,122236,,,Roman Hassanov,R,,KAZ,17.7905544148,109079,,LL,Tinotenda Chanakira,R,,ZIM,25.659137577,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1216,6,2220,1
 2014-M-FU-KAZ-08A-2014,Kazakhstan F8,Hard,32,S,20140623,8,105781,8,,Andrei Vasilevski,R,185,BLR,23.0718685832,126250,,Q,Rasul Akhmadaliev,U,,UZB,17.9493497604,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,763,27,1842,1
@@ -9379,19 +9379,19 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-KAZ-08A-2014,Kazakhstan F8,Hard,32,S,20140623,16,106187,2,,Denis Yevseyev,U,,KAZ,21.0869267625,126185,,Q,Evgenii Tiurnev,R,,RUS,17.2073921971,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,632,43,1324,4
 2014-M-FU-KAZ-08A-2014,Kazakhstan F8,Hard,32,S,20140623,17,111443,,,Vladimir Polyakov,R,,RUS,20.0136892539,105602,,,Ilya Lebedev,U,,RUS,23.8932238193,6-2 7-6(1),3,R16,,,,,,,,,,,,,,,,,,,,908,15,888,16
 2014-M-FU-KAZ-08A-2014,Kazakhstan F8,Hard,32,S,20140623,18,106106,,Q,George Tsivadze,U,,GEO,21.4702258727,123773,,LL,Giorgi Javakhishvili,R,,GEO,18.6666666667,6-1 2-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,1363,4,1287,5
-2014-M-FU-KAZ-08A-2014,Kazakhstan F8,Hard,32,S,20140623,19,106138,3,,Yaraslau Shyla,R,,BLR,21.3004791239,125802,,,Ilya Ivashka,R,193,BLR,20.3258042437,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,638,42,786,24
+2014-M-FU-KAZ-08A-2014,Kazakhstan F8,Hard,32,S,20140623,19,106138,3,,Yaraslav Shyla,R,,BLR,21.3004791239,125802,,,Ilya Ivashka,R,193,BLR,20.3258042437,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,638,42,786,24
 2014-M-FU-KAZ-08A-2014,Kazakhstan F8,Hard,32,S,20140623,20,105781,8,,Andrei Vasilevski,R,185,BLR,23.0718685832,122236,,,Roman Hassanov,R,,KAZ,17.7905544148,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,763,27,1216,6
 2014-M-FU-KAZ-08A-2014,Kazakhstan F8,Hard,32,S,20140623,21,106073,6,,Daniiar Duldaev,R,,KGZ,21.6536618754,126615,,Q,Aliaksandr Prudnikau,U,,BLR,18.6721423682,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,668,38,,
 2014-M-FU-KAZ-08A-2014,Kazakhstan F8,Hard,32,S,20140623,22,111193,,,Alexander Vasilenko,R,,RUS,19.3210130048,106223,4,,Aleksandre Metreveli,R,,GEO,20.8678986995,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,938,13,656,39
 2014-M-FU-KAZ-08A-2014,Kazakhstan F8,Hard,32,S,20140623,23,106381,5,,Temur Ismailov,R,,UZB,19.4387405886,105813,,,Ilia Shatskiy,R,,RUS,22.9240246407,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,657,39,1037,10
 2014-M-FU-KAZ-08A-2014,Kazakhstan F8,Hard,32,S,20140623,24,122109,,,Sanjar Fayziev,U,,UZB,19.9014373717,106187,2,,Denis Yevseyev,U,,KAZ,21.0869267625,7-5 5-7 7-6(7),3,R16,,,,,,,,,,,,,,,,,,,,802,23,632,43
 2014-M-FU-KAZ-08A-2014,Kazakhstan F8,Hard,32,S,20140623,25,106106,,Q,George Tsivadze,U,,GEO,21.4702258727,111443,,,Vladimir Polyakov,R,,RUS,20.0136892539,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,1363,4,908,15
-2014-M-FU-KAZ-08A-2014,Kazakhstan F8,Hard,32,S,20140623,26,106138,3,,Yaraslau Shyla,R,,BLR,21.3004791239,105781,8,,Andrei Vasilevski,R,185,BLR,23.0718685832,6-4 3-6 7-6(6),3,QF,,,,,,,,,,,,,,,,,,,,638,42,763,27
+2014-M-FU-KAZ-08A-2014,Kazakhstan F8,Hard,32,S,20140623,26,106138,3,,Yaraslav Shyla,R,,BLR,21.3004791239,105781,8,,Andrei Vasilevski,R,185,BLR,23.0718685832,6-4 3-6 7-6(6),3,QF,,,,,,,,,,,,,,,,,,,,638,42,763,27
 2014-M-FU-KAZ-08A-2014,Kazakhstan F8,Hard,32,S,20140623,27,106073,6,,Daniiar Duldaev,R,,KGZ,21.6536618754,111193,,,Alexander Vasilenko,R,,RUS,19.3210130048,6-3 7-5,3,QF,,,,,,,,,,,,,,,,,,,,668,38,938,13
 2014-M-FU-KAZ-08A-2014,Kazakhstan F8,Hard,32,S,20140623,28,106381,5,,Temur Ismailov,R,,UZB,19.4387405886,122109,,,Sanjar Fayziev,U,,UZB,19.9014373717,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,657,39,802,23
-2014-M-FU-KAZ-08A-2014,Kazakhstan F8,Hard,32,S,20140623,29,106138,3,,Yaraslau Shyla,R,,BLR,21.3004791239,106106,,Q,George Tsivadze,U,,GEO,21.4702258727,7-6(3) 7-6(3),3,SF,,,,,,,,,,,,,,,,,,,,638,42,1363,4
+2014-M-FU-KAZ-08A-2014,Kazakhstan F8,Hard,32,S,20140623,29,106138,3,,Yaraslav Shyla,R,,BLR,21.3004791239,106106,,Q,George Tsivadze,U,,GEO,21.4702258727,7-6(3) 7-6(3),3,SF,,,,,,,,,,,,,,,,,,,,638,42,1363,4
 2014-M-FU-KAZ-08A-2014,Kazakhstan F8,Hard,32,S,20140623,30,106381,5,,Temur Ismailov,R,,UZB,19.4387405886,106073,6,,Daniiar Duldaev,R,,KGZ,21.6536618754,4-6 6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,657,39,668,38
-2014-M-FU-KAZ-08A-2014,Kazakhstan F8,Hard,32,S,20140623,31,106381,5,,Temur Ismailov,R,,UZB,19.4387405886,106138,3,,Yaraslau Shyla,R,,BLR,21.3004791239,6-4 6-1,3,F,,,,,,,,,,,,,,,,,,,,657,39,638,42
+2014-M-FU-KAZ-08A-2014,Kazakhstan F8,Hard,32,S,20140623,31,106381,5,,Temur Ismailov,R,,UZB,19.4387405886,106138,3,,Yaraslav Shyla,R,,BLR,21.3004791239,6-4 6-1,3,F,,,,,,,,,,,,,,,,,,,,657,39,638,42
 2014-M-FU-KOR-07A-2014,Korea F7,Hard,32,S,20140623,1,105507,1,,Cheong Eui Kim,R,,KOR,24.2518822724,109467,,,Woo Ram Kim,U,,KOR,28.8761122519,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,507,69,1144,7
 2014-M-FU-KOR-07A-2014,Korea F7,Hard,32,S,20140623,2,105000,,Q,Dong Kyu Lee,U,,KOR,26.8336755647,130355,,Q,Ho Min Kang,U,,KOR,23.1047227926,6-7(4) 6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,1379,3
 2014-M-FU-KOR-07A-2014,Korea F7,Hard,32,S,20140623,3,104478,,,Hyun Woo Nam,R,,KOR,29.4510609172,105621,,WC,Min Kyu Song,U,,KOR,23.8275154004,6-4 RET,3,R32,,,,,,,,,,,,,,,,,,,,1459,3,1336,4
@@ -9617,7 +9617,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-THA-07A-2014,Thailand F7,Hard,32,S,20140623,6,105737,,,Kaza Vinayak Sharma,R,,IND,23.2388774812,105560,,Q,Kelsey Stevenson,R,,CAN,24.0684462697,4-6 7-6(7) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1107,8,1707,2
 2014-M-FU-THA-07A-2014,Thailand F7,Hard,32,S,20140623,7,110572,,Q,Dan Chuntraruk,U,,THA,28.4873374401,133667,,WC,Congsup Congcar,U,,THA,17.8370978782,5-7 6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1949,1,1842,1
 2014-M-FU-THA-07A-2014,Thailand F7,Hard,32,S,20140623,8,122529,,Q,Su Hao Zhong,R,,CHN,17.2621492129,106397,6,,Wishaya Trongcharoenchaikul,R,,THA,19.2087611225,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1949,1,891,16
-2014-M-FU-THA-07A-2014,Thailand F7,Hard,32,S,20140623,9,105464,5,,Christopher Rungkat,R,1.7,INA,24.4380561259,105727,,,Aaron Leeder Chard,U,,AUS,23.2963723477,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,759,27,1491,3
+2014-M-FU-THA-07A-2014,Thailand F7,Hard,32,S,20140623,9,105464,5,,Christopher Rungkat,R,170,INA,24.4380561259,105727,,,Aaron Leeder Chard,U,,AUS,23.2963723477,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,759,27,1491,3
 2014-M-FU-THA-07A-2014,Thailand F7,Hard,32,S,20140623,10,124154,,,Sasi Kumar Mukund,R,,IND,17.4373716632,105127,,,Fariz Mohammed,R,,IND,26.2450376454,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1217,6,,
 2014-M-FU-THA-07A-2014,Thailand F7,Hard,32,S,20140623,11,111182,,,Singekrawee Wattanakul,R,,THA,18.8884325804,111183,,Q,Chayanon Kaewsuto,R,,THA,19.0198494182,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1210,6,2150,1
 2014-M-FU-THA-07A-2014,Thailand F7,Hard,32,S,20140623,12,122036,,Q,Daniel Ferretti,R,,AUS,23.0116358658,105579,4,,Kittipong Wachiramanowong,R,183,THA,23.9945242984,7-6(5) 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1949,1,754,28
@@ -9629,17 +9629,17 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-THA-07A-2014,Thailand F7,Hard,32,S,20140623,18,111181,,,Pruchya Isarow,R,,THA,18.6858316222,105402,,PR,Peerakiat Siriluethaiwattana,L,,THA,24.8514715948,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1108,8,,
 2014-M-FU-THA-07A-2014,Thailand F7,Hard,32,S,20140623,19,105595,3,,Dayne Kelly,U,,AUS,23.9178644764,105737,,,Kaza Vinayak Sharma,R,,IND,23.2388774812,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,649,40,1107,8
 2014-M-FU-THA-07A-2014,Thailand F7,Hard,32,S,20140623,20,110572,,Q,Dan Chuntraruk,U,,THA,28.4873374401,122529,,Q,Su Hao Zhong,R,,CHN,17.2621492129,5-7 7-6(6) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1949,1,1949,1
-2014-M-FU-THA-07A-2014,Thailand F7,Hard,32,S,20140623,21,105464,5,,Christopher Rungkat,R,1.7,INA,24.4380561259,124154,,,Sasi Kumar Mukund,R,,IND,17.4373716632,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,759,27,1217,6
+2014-M-FU-THA-07A-2014,Thailand F7,Hard,32,S,20140623,21,105464,5,,Christopher Rungkat,R,170,INA,24.4380561259,124154,,,Sasi Kumar Mukund,R,,IND,17.4373716632,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,759,27,1217,6
 2014-M-FU-THA-07A-2014,Thailand F7,Hard,32,S,20140623,22,111182,,,Singekrawee Wattanakul,R,,THA,18.8884325804,122036,,Q,Daniel Ferretti,R,,AUS,23.0116358658,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1210,6,1949,1
 2014-M-FU-THA-07A-2014,Thailand F7,Hard,32,S,20140623,23,121712,,,Ronit Singh Bisht,R,,IND,18.212183436,127154,,WC,Suthinan Tanthaseraneewat,U,,THA,18.0780287474,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1194,6,,
 2014-M-FU-THA-07A-2014,Thailand F7,Hard,32,S,20140623,24,104852,2,,Yannick Jankovits,R,,FRA,27.4606433949,111800,,Q,Weiqiang Zheng,U,,CHN,18.0013689254,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,608,47,,
 2014-M-FU-THA-07A-2014,Thailand F7,Hard,32,S,20140623,25,111181,,,Pruchya Isarow,R,,THA,18.6858316222,120545,,,Ko Suzuki,L,,JPN,22.8884325804,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,1108,8,995,11
 2014-M-FU-THA-07A-2014,Thailand F7,Hard,32,S,20140623,26,105595,3,,Dayne Kelly,U,,AUS,23.9178644764,110572,,Q,Dan Chuntraruk,U,,THA,28.4873374401,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,649,40,1949,1
-2014-M-FU-THA-07A-2014,Thailand F7,Hard,32,S,20140623,27,105464,5,,Christopher Rungkat,R,1.7,INA,24.4380561259,111182,,,Singekrawee Wattanakul,R,,THA,18.8884325804,7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,759,27,1210,6
+2014-M-FU-THA-07A-2014,Thailand F7,Hard,32,S,20140623,27,105464,5,,Christopher Rungkat,R,170,INA,24.4380561259,111182,,,Singekrawee Wattanakul,R,,THA,18.8884325804,7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,759,27,1210,6
 2014-M-FU-THA-07A-2014,Thailand F7,Hard,32,S,20140623,28,104852,2,,Yannick Jankovits,R,,FRA,27.4606433949,121712,,,Ronit Singh Bisht,R,,IND,18.212183436,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,608,47,1194,6
 2014-M-FU-THA-07A-2014,Thailand F7,Hard,32,S,20140623,29,105595,3,,Dayne Kelly,U,,AUS,23.9178644764,111181,,,Pruchya Isarow,R,,THA,18.6858316222,7-5 7-5,3,SF,,,,,,,,,,,,,,,,,,,,649,40,1108,8
-2014-M-FU-THA-07A-2014,Thailand F7,Hard,32,S,20140623,30,105464,5,,Christopher Rungkat,R,1.7,INA,24.4380561259,104852,2,,Yannick Jankovits,R,,FRA,27.4606433949,3-6 6-4 7-6(2),3,SF,,,,,,,,,,,,,,,,,,,,759,27,608,47
-2014-M-FU-THA-07A-2014,Thailand F7,Hard,32,S,20140623,31,105595,3,,Dayne Kelly,U,,AUS,23.9178644764,105464,5,,Christopher Rungkat,R,1.7,INA,24.4380561259,7-6(4) 7-6(7),3,F,,,,,,,,,,,,,,,,,,,,649,40,759,27
+2014-M-FU-THA-07A-2014,Thailand F7,Hard,32,S,20140623,30,105464,5,,Christopher Rungkat,R,170,INA,24.4380561259,104852,2,,Yannick Jankovits,R,,FRA,27.4606433949,3-6 6-4 7-6(2),3,SF,,,,,,,,,,,,,,,,,,,,759,27,608,47
+2014-M-FU-THA-07A-2014,Thailand F7,Hard,32,S,20140623,31,105595,3,,Dayne Kelly,U,,AUS,23.9178644764,105464,5,,Christopher Rungkat,R,170,INA,24.4380561259,7-6(4) 7-6(7),3,F,,,,,,,,,,,,,,,,,,,,649,40,759,27
 2014-M-FU-TUR-22A-2014,Turkey F22,Hard,32,S,20140623,1,105060,1,,Aldin Setkic,R,193,BIH,26.5051334702,126077,,,Chris Cooprider,U,,USA,23.2443531828,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,306,151,1026,10
 2014-M-FU-TUR-22A-2014,Turkey F22,Hard,32,S,20140623,2,109737,,,Markos Kalovelonis,R,,GRE,20.0985626283,124050,,,Darren K Polkinghorne,U,,AUS,21.3196440794,7-6(3) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,728,31,956,12
 2014-M-FU-TUR-22A-2014,Turkey F22,Hard,32,S,20140623,3,136590,,Q,Daniel Armengol Delgado,U,,ESP,20.2245037645,110599,,,Jens Hauser,R,178,SUI,21.4346338125,6-2 4-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,1207,6
@@ -9900,7 +9900,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-CAN-04A-2014,Canada F4,Hard,32,S,20140630,10,105512,,,Alexander Sarkissian,R,,USA,24.2217659138,120798,,,Hans Hach Verdugo,U,,MEX,24.6132785763,6-1 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,906,15,1110,8
 2014-M-FU-CAN-04A-2014,Canada F4,Hard,32,S,20140630,11,104288,,,Leon Frost,R,,AUS,30.431211499,122346,,Q,Riaan Du Toit,R,,CAN,20.1889117043,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1117,8,1842,1
 2014-M-FU-CAN-04A-2014,Canada F4,Hard,32,S,20140630,12,106261,4,,Dennis Novikov,R,,USA,20.6269678303,106304,,,Mico Santiago,U,,USA,20.2847364819,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,494,73,942,13
-2014-M-FU-CAN-04A-2014,Canada F4,Hard,32,S,20140630,13,106143,8,,Dekel Bar,R,,ISR,21.273100616,122207,,Q,Roy Hobbs,U,,SIN,24.8596851472,6-3 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,842,20,,
+2014-M-FU-CAN-04A-2014,Canada F4,Hard,32,S,20140630,13,106143,8,,Dekel Bar,R,,ISR,21.273100616,122207,,Q,Roy Hobbs,U,,SGP,24.8596851472,6-3 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,842,20,,
 2014-M-FU-CAN-04A-2014,Canada F4,Hard,32,S,20140630,14,125795,,,Oscar Fabian Matthews,R,,USA,24.3066392882,126387,,WC,Kyryll Kryvchun,U,,CAN,16.5338809035,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1164,7,,
 2014-M-FU-CAN-04A-2014,Canada F4,Hard,32,S,20140630,15,106360,,,Connor Farren,R,,USA,19.7207392197,133450,,WC,David Volfson,R,,CAN,16.772073922,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1065,9,2054,1
 2014-M-FU-CAN-04A-2014,Canada F4,Hard,32,S,20140630,16,106093,2,,Benjamin Mitchell,R,,AUS,21.5605749487,138367,,Q,Hayden Smith,U,,AUS,21.1526351814,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,266,177,,
@@ -10058,7 +10058,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-KAZ-09A-2014,Kazakhstan F9,Hard,32,S,20140630,13,105781,7,,Andrei Vasilevski,R,185,BLR,23.0718685832,106330,,,Vitaly Kozyukov,R,,RUS,20.0574948665,6-1 2-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,763,27,1280,5
 2014-M-FU-KAZ-09A-2014,Kazakhstan F9,Hard,32,S,20140630,14,105813,,,Ilia Shatskiy,R,,RUS,22.9240246407,106106,,,George Tsivadze,U,,GEO,21.4702258727,7-5 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,1037,10,1363,4
 2014-M-FU-KAZ-09A-2014,Kazakhstan F9,Hard,32,S,20140630,15,121920,,,Timur Khabibulin,R,,KAZ,18.8911704312,126250,,Q,Rasul Akhmadaliev,U,,UZB,17.9493497604,6-2 1-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1502,3,1842,1
-2014-M-FU-KAZ-09A-2014,Kazakhstan F9,Hard,32,S,20140630,16,111443,,,Vladimir Polyakov,R,,RUS,20.0136892539,106138,2,,Yaraslau Shyla,R,,BLR,21.3004791239,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,908,15,638,42
+2014-M-FU-KAZ-09A-2014,Kazakhstan F9,Hard,32,S,20140630,16,111443,,,Vladimir Polyakov,R,,RUS,20.0136892539,106138,2,,Yaraslav Shyla,R,,BLR,21.3004791239,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,908,15,638,42
 2014-M-FU-KAZ-09A-2014,Kazakhstan F9,Hard,32,S,20140630,17,106187,1,,Denis Yevseyev,U,,KAZ,21.0869267625,132389,,Q,Zhansultan Chembotayev,U,,KAZ,17.0321697467,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,632,43,,
 2014-M-FU-KAZ-09A-2014,Kazakhstan F9,Hard,32,S,20140630,18,105545,8,,Mikhail Fufygin,U,,RUS,24.1122518823,122272,,Q,Kirill Komarov,R,,RUS,22.4777549624,6-1 7-6(7),3,R16,,,,,,,,,,,,,,,,,,,,766,26,,
 2014-M-FU-KAZ-09A-2014,Kazakhstan F9,Hard,32,S,20140630,19,106223,3,,Aleksandre Metreveli,R,,GEO,20.8678986995,106204,,,Nigmat Shofayziev,R,,UZB,20.9801505818,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,656,39,791,24
@@ -10210,7 +10210,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-ESP-16A-2014,Spain F16,Hard,32,S,20140630,10,111148,,,Jose Antonio Salazar Martin,R,,ESP,20.1314168378,105646,,,Mark Vervoort,U,,NED,23.7097878166,4-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,984,12,1124,8
 2014-M-FU-ESP-16A-2014,Spain F16,Hard,32,S,20140630,11,132852,,,Pablo Vivero Gonzalez,U,,ESP,19.1594798084,144793,,Q,Vasiliy Kichigin,R,,RUS,19.4305270363,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1146,7,,
 2014-M-FU-ESP-16A-2014,Spain F16,Hard,32,S,20140630,12,106177,3,,Oriol Roca Batalla,R,,ESP,21.1471594798,127439,,Q,Brian Cuypers,U,,BEL,18.9979466119,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,395,108,1735,1
-2014-M-FU-ESP-16A-2014,Spain F16,Hard,32,S,20140630,13,110600,,,Robert Quentin,R,,FRA,19.8302532512,106249,6,,Joao Domingues,R,178,POR,20.7145790554,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,568,55
+2014-M-FU-ESP-16A-2014,Spain F16,Hard,32,S,20140630,13,110600,,,Quentin Robert,R,,FRA,19.8302532512,106249,6,,Joao Domingues,R,178,POR,20.7145790554,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,568,55
 2014-M-FU-ESP-16A-2014,Spain F16,Hard,32,S,20140630,14,125854,,,Jaume Pla Malfeito,U,,ESP,19.0554414784,126501,,Q,Adrian Legarreta,U,,ESP,18.9185489391,6-4 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1296,5,,
 2014-M-FU-ESP-16A-2014,Spain F16,Hard,32,S,20140630,15,106400,,,Adam Sanjurjo Hermida,R,,ESP,19.1649555099,106190,,,Hasier Pastor,R,,ESP,21.067761807,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,929,14,1410,3
 2014-M-FU-ESP-16A-2014,Spain F16,Hard,32,S,20140630,16,105751,2,,Roberto Ortega Olmedo,U,,ESP,23.1923340178,121669,,,Sergio Martos Gornes,U,,ESP,19.6769336071,1-6 6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,263,180,1011,11
@@ -10220,7 +10220,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-ESP-16A-2014,Spain F16,Hard,32,S,20140630,20,104960,7,,Miguel Angel Reyes Varela,R,175,MEX,27.0061601643,144792,,Q,Alejandro Ortega Palacios,U,,ESP,17.3880903491,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,683,36,,
 2014-M-FU-ESP-16A-2014,Spain F16,Hard,32,S,20140630,21,111148,,,Jose Antonio Salazar Martin,R,,ESP,20.1314168378,126534,,,Sergio Castellon Guasch,U,,ESP,17.5167693361,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,984,12,1344,4
 2014-M-FU-ESP-16A-2014,Spain F16,Hard,32,S,20140630,22,106177,3,,Oriol Roca Batalla,R,,ESP,21.1471594798,132852,,,Pablo Vivero Gonzalez,U,,ESP,19.1594798084,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,395,108,1146,7
-2014-M-FU-ESP-16A-2014,Spain F16,Hard,32,S,20140630,23,125854,,,Jaume Pla Malfeito,U,,ESP,19.0554414784,110600,,,Robert Quentin,R,,FRA,19.8302532512,3-6 6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1296,5,,
+2014-M-FU-ESP-16A-2014,Spain F16,Hard,32,S,20140630,23,125854,,,Jaume Pla Malfeito,U,,ESP,19.0554414784,110600,,,Quentin Robert,R,,FRA,19.8302532512,3-6 6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1296,5,,
 2014-M-FU-ESP-16A-2014,Spain F16,Hard,32,S,20140630,24,105751,2,,Roberto Ortega Olmedo,U,,ESP,23.1923340178,106400,,,Adam Sanjurjo Hermida,R,,ESP,19.1649555099,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,263,180,929,14
 2014-M-FU-ESP-16A-2014,Spain F16,Hard,32,S,20140630,25,105731,1,WC,Steven Diez,R,,CAN,23.2689938398,106354,8,,Eduard Esteve Lobato,R,,ESP,19.7618069815,6-0 6-3,3,QF,,,,,,,,,,,,,,,,,,,,248,193,745,29
 2014-M-FU-ESP-16A-2014,Spain F16,Hard,32,S,20140630,26,106322,4,,David Perez Sanz,U,,ESP,20.1067761807,104960,7,,Miguel Angel Reyes Varela,R,175,MEX,27.0061601643,6-4 4-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,448,89,683,36
@@ -10229,7 +10229,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-ESP-16A-2014,Spain F16,Hard,32,S,20140630,29,106322,4,,David Perez Sanz,U,,ESP,20.1067761807,105731,1,WC,Steven Diez,R,,CAN,23.2689938398,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,448,89,248,193
 2014-M-FU-ESP-16A-2014,Spain F16,Hard,32,S,20140630,30,111148,,,Jose Antonio Salazar Martin,R,,ESP,20.1314168378,105751,2,,Roberto Ortega Olmedo,U,,ESP,23.1923340178,6-4 4-6 7-6(5),3,SF,,,,,,,,,,,,,,,,,,,,984,12,263,180
 2014-M-FU-ESP-16A-2014,Spain F16,Hard,32,S,20140630,31,106322,4,,David Perez Sanz,U,,ESP,20.1067761807,111148,,,Jose Antonio Salazar Martin,R,,ESP,20.1314168378,6-2 6-2,3,F,,,,,,,,,,,,,,,,,,,,448,89,984,12
-2014-M-FU-THA-08A-2014,Thailand F8,Hard,32,S,20140630,1,104251,1,,Ti Chen,R,183,TPE,30.7214236824,105464,,,Christopher Rungkat,R,1.7,INA,24.4380561259,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,288,163,759,27
+2014-M-FU-THA-08A-2014,Thailand F8,Hard,32,S,20140630,1,104251,1,,Ti Chen,R,183,TPE,30.7214236824,105464,,,Christopher Rungkat,R,170,INA,24.4380561259,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,288,163,759,27
 2014-M-FU-THA-08A-2014,Thailand F8,Hard,32,S,20140630,2,105402,,Q,Peerakiat Siriluethaiwattana,L,,THA,24.8514715948,111182,,WC,Singekrawee Wattanakul,R,,THA,18.8884325804,3-6 6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,1210,6
 2014-M-FU-THA-08A-2014,Thailand F8,Hard,32,S,20140630,3,120545,,,Ko Suzuki,L,,JPN,22.8884325804,121840,,Q,Chaleechan Tanasugarn,R,,THA,20.4928131417,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,995,11,,
 2014-M-FU-THA-08A-2014,Thailand F8,Hard,32,S,20140630,4,105579,8,,Kittipong Wachiramanowong,R,183,THA,23.9945242984,122533,,Q,Nam Hoang Ly,R,,VIE,17.3223819302,7-6(3) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,754,28,1735,1
@@ -10705,7 +10705,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-THA-09A-2014,Thailand F9,Hard,32,S,20140707,9,105434,7,,Ruan Roelofse,R,,RSA,24.6324435318,144735,,Q,Patcharapol Kawin,U,,THA,17.1252566735,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,701,35,1851,1
 2014-M-FU-THA-09A-2014,Thailand F9,Hard,32,S,20140707,10,105579,,,Kittipong Wachiramanowong,R,183,THA,24.0328542094,111182,,,Singekrawee Wattanakul,R,,THA,18.9267624914,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,778,26,1106,8
 2014-M-FU-THA-09A-2014,Thailand F9,Hard,32,S,20140707,11,105548,,Q,Marious Zelba,L,,AUS,24.1451060917,105737,,,Kaza Vinayak Sharma,R,,IND,23.2772073922,5-7 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,2188,1,1077,9
-2014-M-FU-THA-09A-2014,Thailand F9,Hard,32,S,20140707,12,105464,,,Christopher Rungkat,R,1.7,INA,24.476386037,105059,4,,Kento Takeuchi,L,,JPN,26.5489390828,6-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,680,37,603,51
+2014-M-FU-THA-09A-2014,Thailand F9,Hard,32,S,20140707,12,105464,,,Christopher Rungkat,R,170,INA,24.476386037,105059,4,,Kento Takeuchi,L,,JPN,26.5489390828,6-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,680,37,603,51
 2014-M-FU-THA-09A-2014,Thailand F9,Hard,32,S,20140707,13,105595,6,,Dayne Kelly,U,,AUS,23.9561943874,124154,,,Sasi Kumar Mukund,R,,IND,17.4757015743,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,616,46,1158,7
 2014-M-FU-THA-09A-2014,Thailand F9,Hard,32,S,20140707,14,122533,,Q,Nam Hoang Ly,R,,VIE,17.3607118412,111801,,Q,Rishab Agarwal,R,,IND,18.5872689938,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1745,1,,
 2014-M-FU-THA-09A-2014,Thailand F9,Hard,32,S,20140707,15,106240,,Q,Mohit Mayur Jayaprakash,R,,IND,20.810403833,133667,,WC,Congsup Congcar,U,,THA,17.8754277892,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1693,2,1956,1
@@ -10715,15 +10715,15 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-THA-09A-2014,Thailand F9,Hard,32,S,20140707,19,111181,,,Pruchya Isarow,R,,THA,18.7241615332,104986,3,,Vishnu Vardhan,R,188,IND,26.945927447,7-6(7) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,929,14,569,56
 2014-M-FU-THA-09A-2014,Thailand F9,Hard,32,S,20140707,20,104961,8,,Ryan Agar,R,,AUS,27.0444900753,111183,,WC,Chayanon Kaewsuto,R,,THA,19.0581793292,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,674,38,2188,1
 2014-M-FU-THA-09A-2014,Thailand F9,Hard,32,S,20140707,21,105579,,,Kittipong Wachiramanowong,R,183,THA,24.0328542094,105434,7,,Ruan Roelofse,R,,RSA,24.6324435318,7-6(6) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,778,26,701,35
-2014-M-FU-THA-09A-2014,Thailand F9,Hard,32,S,20140707,22,105464,,,Christopher Rungkat,R,1.7,INA,24.476386037,105548,,Q,Marious Zelba,L,,AUS,24.1451060917,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,680,37,2188,1
+2014-M-FU-THA-09A-2014,Thailand F9,Hard,32,S,20140707,22,105464,,,Christopher Rungkat,R,170,INA,24.476386037,105548,,Q,Marious Zelba,L,,AUS,24.1451060917,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,680,37,2188,1
 2014-M-FU-THA-09A-2014,Thailand F9,Hard,32,S,20140707,23,105595,6,,Dayne Kelly,U,,AUS,23.9561943874,122533,,Q,Nam Hoang Ly,R,,VIE,17.3607118412,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,616,46,1745,1
 2014-M-FU-THA-09A-2014,Thailand F9,Hard,32,S,20140707,24,105233,2,,Jeevan Nedunchezhiyan,L,,IND,25.711156742,106240,,Q,Mohit Mayur Jayaprakash,R,,IND,20.810403833,7-6(9) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,311,146,1693,2
 2014-M-FU-THA-09A-2014,Thailand F9,Hard,32,S,20140707,25,104251,1,,Ti Chen,R,183,TPE,30.7597535934,104852,5,,Yannick Jankovits,R,,FRA,27.498973306,6-4 4-6 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,279,168,586,53
 2014-M-FU-THA-09A-2014,Thailand F9,Hard,32,S,20140707,26,111181,,,Pruchya Isarow,R,,THA,18.7241615332,104961,8,,Ryan Agar,R,,AUS,27.0444900753,7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,929,14,674,38
-2014-M-FU-THA-09A-2014,Thailand F9,Hard,32,S,20140707,27,105464,,,Christopher Rungkat,R,1.7,INA,24.476386037,105579,,,Kittipong Wachiramanowong,R,183,THA,24.0328542094,2-6 7-6(6) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,680,37,778,26
+2014-M-FU-THA-09A-2014,Thailand F9,Hard,32,S,20140707,27,105464,,,Christopher Rungkat,R,170,INA,24.476386037,105579,,,Kittipong Wachiramanowong,R,183,THA,24.0328542094,2-6 7-6(6) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,680,37,778,26
 2014-M-FU-THA-09A-2014,Thailand F9,Hard,32,S,20140707,28,105595,6,,Dayne Kelly,U,,AUS,23.9561943874,105233,2,,Jeevan Nedunchezhiyan,L,,IND,25.711156742,6-3 RET,3,QF,,,,,,,,,,,,,,,,,,,,616,46,311,146
 2014-M-FU-THA-09A-2014,Thailand F9,Hard,32,S,20140707,29,104251,1,,Ti Chen,R,183,TPE,30.7597535934,111181,,,Pruchya Isarow,R,,THA,18.7241615332,6-3 5-7 6-4,3,SF,,,,,,,,,,,,,,,,,,,,279,168,929,14
-2014-M-FU-THA-09A-2014,Thailand F9,Hard,32,S,20140707,30,105595,6,,Dayne Kelly,U,,AUS,23.9561943874,105464,,,Christopher Rungkat,R,1.7,INA,24.476386037,W/O,3,SF,,,,,,,,,,,,,,,,,,,,616,46,680,37
+2014-M-FU-THA-09A-2014,Thailand F9,Hard,32,S,20140707,30,105595,6,,Dayne Kelly,U,,AUS,23.9561943874,105464,,,Christopher Rungkat,R,170,INA,24.476386037,W/O,3,SF,,,,,,,,,,,,,,,,,,,,616,46,680,37
 2014-M-FU-THA-09A-2014,Thailand F9,Hard,32,S,20140707,31,104251,1,,Ti Chen,R,183,TPE,30.7597535934,105595,6,,Dayne Kelly,U,,AUS,23.9561943874,6-4 6-1,3,F,,,,,,,,,,,,,,,,,,,,279,168,616,46
 2014-M-FU-TUR-24A-2014,Turkey F24,Hard,32,S,20140707,1,105060,1,,Aldin Setkic,R,193,BIH,26.5434633812,122589,,WC,Sefa Suluoglu,U,,TUR,19.1649555099,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,277,169,1374,4
 2014-M-FU-TUR-24A-2014,Turkey F24,Hard,32,S,20140707,2,125806,,Q,Dominik Kellovsky,U,,CZE,17.9520876112,121695,,WC,Fatih Taha Erun,U,,TUR,20.0054757016,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1279,5,1712,2
@@ -11006,7 +11006,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-EST-01A-2014,Estonia F1,Clay,32,S,20140714,31,105872,4,,Christian Lindell,R,193,SWE,22.6475017112,105436,2,,Markus Eriksson,R,188,SWE,24.6214921287,3-6 6-2 6-2,3,F,,,,,,,,,,,,,,,,,,,,349,127,395,109
 2014-M-FU-FRA-15A-2014,France F15,Clay,32,S,20140714,1,104993,1,WC,Martin Vaisse,U,,FRA,26.9240246407,121848,,Q,Alexandre Massa,U,,FRA,21.5277207392,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,258,182,1452,3
 2014-M-FU-FRA-15A-2014,France F15,Clay,32,S,20140714,2,105636,,Q,Romain Sichez,U,,FRA,23.8028747433,144805,,Q,Clement Larriere,R,,FRA,17.1471594798,6-2 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,1522,2,,
-2014-M-FU-FRA-15A-2014,France F15,Clay,32,S,20140714,3,110600,,WC,Robert Quentin,R,,FRA,19.8877481177,106016,,Q,Yanais Laurent,R,,FRA,22.1026694045,7-5 5-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,2193,1
+2014-M-FU-FRA-15A-2014,France F15,Clay,32,S,20140714,3,110600,,WC,Quentin Robert,R,,FRA,19.8877481177,106016,,Q,Yanais Laurent,R,,FRA,22.1026694045,7-5 5-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,2193,1
 2014-M-FU-FRA-15A-2014,France F15,Clay,32,S,20140714,4,106005,6,,Constant Lestienne,R,,FRA,22.1409993155,106267,,,Michael Bois,R,,FRA,20.6488706366,6-2 4-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,428,97,786,26
 2014-M-FU-FRA-15A-2014,France F15,Clay,32,S,20140714,5,105838,3,,Julien Obry,R,,FRA,22.8583162218,121641,,,Jacob Kahoun,U,,SUI,22.2724161533,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,321,143,1483,3
 2014-M-FU-FRA-15A-2014,France F15,Clay,32,S,20140714,6,123922,,,Remy Chala,U,,FRA,19.4332648871,105479,,,Alejandro Mendoza,R,,BOL,24.4435318275,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1173,7,1176,7
@@ -11021,7 +11021,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-FRA-15A-2014,France F15,Clay,32,S,20140714,15,120775,,,Sadio Doumbia,U,,FRA,23.8357289528,106191,,,Mick Lescure,R,,FRA,21.1143052704,6-2 1-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,643,42,988,12
 2014-M-FU-FRA-15A-2014,France F15,Clay,32,S,20140714,16,106234,2,,Aslan Karatsev,R,185,RUS,20.8569472964,126505,,LL,Antoine Walch,U,,FRA,20.7063655031,4-6 6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,300,154,2162,1
 2014-M-FU-FRA-15A-2014,France F15,Clay,32,S,20140714,17,104993,1,WC,Martin Vaisse,U,,FRA,26.9240246407,105636,,Q,Romain Sichez,U,,FRA,23.8028747433,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,258,182,1522,2
-2014-M-FU-FRA-15A-2014,France F15,Clay,32,S,20140714,18,106005,6,,Constant Lestienne,R,,FRA,22.1409993155,110600,,WC,Robert Quentin,R,,FRA,19.8877481177,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,428,97,,
+2014-M-FU-FRA-15A-2014,France F15,Clay,32,S,20140714,18,106005,6,,Constant Lestienne,R,,FRA,22.1409993155,110600,,WC,Quentin Robert,R,,FRA,19.8877481177,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,428,97,,
 2014-M-FU-FRA-15A-2014,France F15,Clay,32,S,20140714,19,105838,3,,Julien Obry,R,,FRA,22.8583162218,123922,,,Remy Chala,U,,FRA,19.4332648871,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,321,143,1173,7
 2014-M-FU-FRA-15A-2014,France F15,Clay,32,S,20140714,20,105178,5,WC,Alexis Musialek,U,,FRA,26.0260095825,105415,,,Maxime Tabatruong,R,,FRA,24.8021902806,6-7(6) 6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,453,88,1349,4
 2014-M-FU-FRA-15A-2014,France F15,Clay,32,S,20140714,21,111460,,,Quentin Halys,R,,FRA,17.7138945927,105593,8,,Yannick Vandenbulcke,R,,BEL,23.9890485969,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,802,24,488,74
@@ -11626,7 +11626,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-GER-09A-2014,Germany F9,Clay,32,S,20140721,31,105091,2,,Peter Torebko,R,,GER,26.4421629021,105797,,,Marvin Netuschil,R,,GER,23.0527036277,6-2 6-4,3,F,,,,,,,,,,,,,,,,,,,,316,145,1035,10
 2014-M-FU-HKG-03A-2014,Hong Kong F3,Hard,32,S,20140721,1,103821,1,,Danai Udomchoke,R,173,THA,32.9418206708,105579,,,Kittipong Wachiramanowong,R,183,THA,24.0711841205,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,320,143,750,29
 2014-M-FU-HKG-03A-2014,Hong Kong F3,Hard,32,S,20140721,2,138846,,WC,Hong Kit Jack Wong,R,,HKG,15.8904859685,124022,,WC,Chun Hun Wong,R,,HKG,18.7241615332,0-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2014-M-FU-HKG-03A-2014,Hong Kong F3,Hard,32,S,20140721,3,105823,,,Masato Shiga,U,,JPN,22.9514031485,105464,,,Christopher Rungkat,R,1.7,INA,24.514715948,2-6 4-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,755,28,697,35
+2014-M-FU-HKG-03A-2014,Hong Kong F3,Hard,32,S,20140721,3,105823,,,Masato Shiga,U,,JPN,22.9514031485,105464,,,Christopher Rungkat,R,170,INA,24.514715948,2-6 4-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,755,28,697,35
 2014-M-FU-HKG-03A-2014,Hong Kong F3,Hard,32,S,20140721,4,104478,,Q,Hyun Woo Nam,R,,KOR,29.5277207392,126095,5,,Devin Mccarthy,R,,USA,23.6906228611,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1268,5,582,53
 2014-M-FU-HKG-03A-2014,Hong Kong F3,Hard,32,S,20140721,5,105059,4,,Kento Takeuchi,L,,JPN,26.5872689938,111182,,Q,Singekrawee Wattanakul,R,,THA,18.9650924025,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,486,76,1117,8
 2014-M-FU-HKG-03A-2014,Hong Kong F3,Hard,32,S,20140721,6,122248,,,Peter Kobelt,U,,USA,23.6741957563,102863,,,Takao Suzuki,R,175,JPN,37.8316221766,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,742,29,1215,6
@@ -12090,7 +12090,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-ITA-25A-2014,Italy F25,Clay,32,S,20140728,30,105686,6,,Francesco Picco,U,,ITA,23.5701574264,105027,,,Matteo Fago,R,,ITA,26.7871321013,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,599,50,933,14
 2014-M-FU-ITA-25A-2014,Italy F25,Clay,32,S,20140728,31,105401,1,,Matteo Trevisan,R,,ITA,24.9555099247,105686,6,,Francesco Picco,U,,ITA,23.5701574264,6-2 6-1,3,F,,,,,,,,,,,,,,,,,,,,370,116,599,50
 2014-M-FU-KAZ-10A-2014,Kazakhstan F10,Hard,32,S,20140728,1,104920,1,,Denys Molchanov,R,190,UKR,27.2005475702,126720,,WC,Boris Pokotilov,U,,RUS,17.1690622861,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,191,267,,
-2014-M-FU-KAZ-10A-2014,Kazakhstan F10,Hard,32,S,20140728,2,106138,,,Yaraslau Shyla,R,,BLR,21.3963039014,106187,,,Denis Yevseyev,U,,KAZ,21.18275154,6-7(5) 6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,573,54,589,52
+2014-M-FU-KAZ-10A-2014,Kazakhstan F10,Hard,32,S,20140728,2,106138,,,Yaraslav Shyla,R,,BLR,21.3963039014,106187,,,Denis Yevseyev,U,,KAZ,21.18275154,6-7(5) 6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,573,54,589,52
 2014-M-FU-KAZ-10A-2014,Kazakhstan F10,Hard,32,S,20140728,3,122109,,,Sanjar Fayziev,U,,UZB,19.9972621492,127300,,Q,Jurabek Karimov,U,,UZB,16.1478439425,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,792,25,1430,3
 2014-M-FU-KAZ-10A-2014,Kazakhstan F10,Hard,32,S,20140728,4,111575,7,,Karen Khachanov,R,198,RUS,18.1848049281,126094,,,Andrey Rublev,R,188,RUS,16.7693360712,3-6 6-1 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,392,105,460,85
 2014-M-FU-KAZ-10A-2014,Kazakhstan F10,Hard,32,S,20140728,5,109737,,,Markos Kalovelonis,R,,GRE,20.1943874059,131951,,Q,Daniel Cukierman,U,,ISR,19.0527036277,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,807,24,1440,3
@@ -12102,16 +12102,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-KAZ-10A-2014,Kazakhstan F10,Hard,32,S,20140728,11,106217,,Q,Daniel Skripnik,R,,ISR,21.0212183436,122510,,LL,Kuatbek Abiyev,U,,KAZ,19.5619438741,6-2 2-6 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,1295,5,2250,1
 2014-M-FU-KAZ-10A-2014,Kazakhstan F10,Hard,32,S,20140728,12,105946,3,,Liang Chi Huang,R,,TPE,22.3874058864,122236,,WC,Roman Hassanov,R,,KAZ,17.8863791923,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,280,170,947,13
 2014-M-FU-KAZ-10A-2014,Kazakhstan F10,Hard,32,S,20140728,13,105502,5,,N Sriram Balaji,R,,IND,24.3613963039,123736,,Q,Sagadat Ayap,U,,KAZ,19.1759069131,6-1 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,377,111,2250,1
-2014-M-FU-KAZ-10A-2014,Kazakhstan F10,Hard,32,S,20140728,14,122548,,Q,Edan Leshem,U,1.83,ISR,17.3579739904,106204,,,Nigmat Shofayziev,R,,UZB,21.0759753593,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1495,3,782,26
+2014-M-FU-KAZ-10A-2014,Kazakhstan F10,Hard,32,S,20140728,14,122548,,Q,Edan Leshem,U,183,ISR,17.3579739904,106204,,,Nigmat Shofayziev,R,,UZB,21.0759753593,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1495,3,782,26
 2014-M-FU-KAZ-10A-2014,Kazakhstan F10,Hard,32,S,20140728,15,125802,,,Ilya Ivashka,R,193,BLR,20.4216290212,104869,,Q,Sergei Bubka,R,188,UKR,27.4606433949,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,778,26,1498,3
 2014-M-FU-KAZ-10A-2014,Kazakhstan F10,Hard,32,S,20140728,16,104251,2,,Ti Chen,R,183,TPE,30.81724846,106073,,,Daniiar Duldaev,R,,KGZ,21.749486653,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,264,184,614,48
-2014-M-FU-KAZ-10A-2014,Kazakhstan F10,Hard,32,S,20140728,17,104920,1,,Denys Molchanov,R,190,UKR,27.2005475702,106138,,,Yaraslau Shyla,R,,BLR,21.3963039014,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,191,267,573,54
+2014-M-FU-KAZ-10A-2014,Kazakhstan F10,Hard,32,S,20140728,17,104920,1,,Denys Molchanov,R,190,UKR,27.2005475702,106138,,,Yaraslav Shyla,R,,BLR,21.3963039014,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,191,267,573,54
 2014-M-FU-KAZ-10A-2014,Kazakhstan F10,Hard,32,S,20140728,18,111575,7,,Karen Khachanov,R,198,RUS,18.1848049281,122109,,,Sanjar Fayziev,U,,UZB,19.9972621492,2-6 7-6(3) 6-0,3,R16,,,,,,,,,,,,,,,,,,,,392,105,792,25
 2014-M-FU-KAZ-10A-2014,Kazakhstan F10,Hard,32,S,20140728,19,105781,,,Andrei Vasilevski,R,185,BLR,23.1676933607,109737,,,Markos Kalovelonis,R,,GRE,20.1943874059,7-6(2) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,618,47,807,24
 2014-M-FU-KAZ-10A-2014,Kazakhstan F10,Hard,32,S,20140728,20,105299,,,Dzmitry Zhyrmont,U,,BLR,25.4072553046,105987,6,,Mikhail Biryukov,R,,RUS,22.2477754962,4-6 6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,617,47,390,106
 2014-M-FU-KAZ-10A-2014,Kazakhstan F10,Hard,32,S,20140728,21,104707,8,,Denis Matsukevitch,R,190,RUS,28.334017796,121920,,WC,Timur Khabibulin,R,,KAZ,18.9869952088,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,453,88,1244,6
 2014-M-FU-KAZ-10A-2014,Kazakhstan F10,Hard,32,S,20140728,22,105946,3,,Liang Chi Huang,R,,TPE,22.3874058864,106217,,Q,Daniel Skripnik,R,,ISR,21.0212183436,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,280,170,1295,5
-2014-M-FU-KAZ-10A-2014,Kazakhstan F10,Hard,32,S,20140728,23,105502,5,,N Sriram Balaji,R,,IND,24.3613963039,122548,,Q,Edan Leshem,U,1.83,ISR,17.3579739904,7-6(4) 2-6 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,377,111,1495,3
+2014-M-FU-KAZ-10A-2014,Kazakhstan F10,Hard,32,S,20140728,23,105502,5,,N Sriram Balaji,R,,IND,24.3613963039,122548,,Q,Edan Leshem,U,183,ISR,17.3579739904,7-6(4) 2-6 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,377,111,1495,3
 2014-M-FU-KAZ-10A-2014,Kazakhstan F10,Hard,32,S,20140728,24,104251,2,,Ti Chen,R,183,TPE,30.81724846,125802,,,Ilya Ivashka,R,193,BLR,20.4216290212,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,264,184,778,26
 2014-M-FU-KAZ-10A-2014,Kazakhstan F10,Hard,32,S,20140728,25,104920,1,,Denys Molchanov,R,190,UKR,27.2005475702,111575,7,,Karen Khachanov,R,198,RUS,18.1848049281,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,191,267,392,105
 2014-M-FU-KAZ-10A-2014,Kazakhstan F10,Hard,32,S,20140728,26,105299,,,Dzmitry Zhyrmont,U,,BLR,25.4072553046,105781,,,Andrei Vasilevski,R,185,BLR,23.1676933607,6-1 7-6(3),3,QF,,,,,,,,,,,,,,,,,,,,617,47,618,47
@@ -12189,7 +12189,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-RUS-05A-2014,Russia F5,Clay,32,S,20140728,5,105958,4,,Richard Muzaev,R,,RUS,22.3518138261,105750,,,Vitaliy Kachanovskiy,U,,RUS,23.2936344969,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,712,34,1248,6
 2014-M-FU-RUS-05A-2014,Russia F5,Clay,32,S,20140728,6,105602,,,Ilya Lebedev,U,,RUS,23.9890485969,144815,,WC,Alexander Boborykin,U,,RUS,18.1492128679,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,870,18,,
 2014-M-FU-RUS-05A-2014,Russia F5,Clay,32,S,20140728,7,104556,,Q,Alexander Perfilov,R,,RUS,29.196440794,125852,,WC,Andrey Saveliev,U,,RUS,20.6160164271,7-5 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,,,2235,1
-2014-M-FU-RUS-05A-2014,Russia F5,Clay,32,S,20140728,8,111443,7,,Vladimir Polyakov,R,,RUS,20.1095140315,126170,,WC,Timur Kiuamov,U,,RUS,17.7412731006,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,804,24,,
+2014-M-FU-RUS-05A-2014,Russia F5,Clay,32,S,20140728,8,111443,7,,Vladimir Polyakov,R,,RUS,20.1095140315,126170,,WC,Timur Kiyamov,U,,RUS,17.7412731006,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,804,24,,
 2014-M-FU-RUS-05A-2014,Russia F5,Clay,32,S,20140728,9,105813,,,Ilia Shatskiy,R,,RUS,23.0198494182,105545,6,,Mikhail Fufygin,U,,RUS,24.2080766598,7-6(2) 2-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,1014,11,790,25
 2014-M-FU-RUS-05A-2014,Russia F5,Clay,32,S,20140728,10,105763,,,Alexandr Kushakov,R,,UKR,23.2388774812,126169,,,Ilya Vasilyev,U,,RUS,18.0971937029,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,929,14,1251,6
 2014-M-FU-RUS-05A-2014,Russia F5,Clay,32,S,20140728,11,105533,,,Dmitry Surchenko,U,,RUS,24.2381930185,110532,,,Beka Komakhidze,R,,RUS,26.8911704312,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1174,7,1485,3
@@ -12596,7 +12596,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-KAZ-11A-2014,Kazakhstan F11,Hard,32,S,20140804,9,106381,8,,Temur Ismailov,R,,UZB,19.5537303217,122109,,,Sanjar Fayziev,U,,UZB,20.0164271047,7-6(2) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,518,67,790,25
 2014-M-FU-KAZ-11A-2014,Kazakhstan F11,Hard,32,S,20140804,10,121920,,,Timur Khabibulin,R,,KAZ,19.0061601643,104029,,Q,Fedor Doudtchik,U,,BLR,32.0848733744,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1247,6,,
 2014-M-FU-KAZ-11A-2014,Kazakhstan F11,Hard,32,S,20140804,11,123736,,WC,Sagadat Ayap,U,,KAZ,19.1950718686,127628,,Q,Adil Eltaev,R,,KAZ,20.3969883641,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,2250,1,,
-2014-M-FU-KAZ-11A-2014,Kazakhstan F11,Hard,32,S,20140804,12,105946,3,,Liang Chi Huang,R,,TPE,22.4065708419,122548,,Q,Edan Leshem,U,1.83,ISR,17.3771389459,6-7(4) 6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,282,170,1502,3
+2014-M-FU-KAZ-11A-2014,Kazakhstan F11,Hard,32,S,20140804,12,105946,3,,Liang Chi Huang,R,,TPE,22.4065708419,122548,,Q,Edan Leshem,U,183,ISR,17.3771389459,6-7(4) 6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,282,170,1502,3
 2014-M-FU-KAZ-11A-2014,Kazakhstan F11,Hard,32,S,20140804,13,105299,,,Dzmitry Zhyrmont,U,,BLR,25.4264202601,104707,6,,Denis Matsukevitch,R,190,RUS,28.3531827515,6-4 3-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,620,47,455,88
 2014-M-FU-KAZ-11A-2014,Kazakhstan F11,Hard,32,S,20140804,14,106217,,,Daniel Skripnik,R,,ISR,21.0403832991,122510,,WC,Kuatbek Abiyev,U,,KAZ,19.5811088296,6-3 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1300,5,2250,1
 2014-M-FU-KAZ-11A-2014,Kazakhstan F11,Hard,32,S,20140804,15,126740,,Q,Anton Djamalov,U,,UZB,19.6632443532,122512,,Q,Daniil Michshenko,R,,KAZ,16.6516084873,6-7(6) 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -12656,7 +12656,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-RUS-06A-2014,Russia F6,Clay,32,S,20140804,7,104186,,,Gleb Alekseenko,R,,UKR,31.2114989733,105813,,,Ilia Shatskiy,R,,RUS,23.0390143737,6-3 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,936,14,1047,10
 2014-M-FU-RUS-06A-2014,Russia F6,Clay,32,S,20140804,8,106215,8,,Mikhail Vaks,R,,RUS,21.0458590007,133398,,WC,Philipp Tarpischev,R,,RUS,20.5804243669,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,830,21,,
 2014-M-FU-RUS-06A-2014,Russia F6,Clay,32,S,20140804,9,105958,5,,Richard Muzaev,R,,RUS,22.3709787817,144815,,Q,Alexander Boborykin,U,,RUS,18.1683778234,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,705,34,,
-2014-M-FU-RUS-06A-2014,Russia F6,Clay,32,S,20140804,10,126170,,WC,Timur Kiuamov,U,,RUS,17.7604380561,105763,,,Alexandr Kushakov,R,,UKR,23.2580424367,1-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,931,14
+2014-M-FU-RUS-06A-2014,Russia F6,Clay,32,S,20140804,10,126170,,WC,Timur Kiyamov,U,,RUS,17.7604380561,105763,,,Alexandr Kushakov,R,,UKR,23.2580424367,1-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,931,14
 2014-M-FU-RUS-06A-2014,Russia F6,Clay,32,S,20140804,11,132566,,Q,Dmitrii Baskov,R,,MDA,19.6249144422,110532,,,Beka Komakhidze,R,,RUS,26.9103353867,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1492,3
 2014-M-FU-RUS-06A-2014,Russia F6,Clay,32,S,20140804,12,104901,3,,Vladimir Ivanov,R,,EST,27.318275154,126629,,Q,Vladimir Korolev,U,,RUS,18.9103353867,4-6 6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,503,70,,
 2014-M-FU-RUS-06A-2014,Russia F6,Clay,32,S,20140804,13,111443,7,,Vladimir Polyakov,R,,RUS,20.128678987,104556,,Q,Alexander Perfilov,R,,RUS,29.2156057495,2-6 6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,819,22,,
@@ -12667,7 +12667,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-RUS-06A-2014,Russia F6,Clay,32,S,20140804,18,105897,6,,Alexander Zhurbin,U,,RUS,22.5544147844,105886,,,Anton Galkin,U,,RUS,22.6119096509,7-6(2) 2-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,763,28,979,12
 2014-M-FU-RUS-06A-2014,Russia F6,Clay,32,S,20140804,19,126128,4,,Roman Safiullin,R,,RUS,16.9911019849,144703,,Q,Ivan Davydov,R,,RUS,17.7932922656,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,674,37,,
 2014-M-FU-RUS-06A-2014,Russia F6,Clay,32,S,20140804,20,104186,,,Gleb Alekseenko,R,,UKR,31.2114989733,106215,8,,Mikhail Vaks,R,,RUS,21.0458590007,2-6 6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,936,14,830,21
-2014-M-FU-RUS-06A-2014,Russia F6,Clay,32,S,20140804,21,105958,5,,Richard Muzaev,R,,RUS,22.3709787817,126170,,WC,Timur Kiuamov,U,,RUS,17.7604380561,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,705,34,,
+2014-M-FU-RUS-06A-2014,Russia F6,Clay,32,S,20140804,21,105958,5,,Richard Muzaev,R,,RUS,22.3709787817,126170,,WC,Timur Kiyamov,U,,RUS,17.7604380561,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,705,34,,
 2014-M-FU-RUS-06A-2014,Russia F6,Clay,32,S,20140804,22,104901,3,,Vladimir Ivanov,R,,EST,27.318275154,132566,,Q,Dmitrii Baskov,R,,MDA,19.6249144422,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,503,70,,
 2014-M-FU-RUS-06A-2014,Russia F6,Clay,32,S,20140804,23,122330,,Q,Alexander Bublik,R,196,KAZ,17.1307323751,111443,7,,Vladimir Polyakov,R,,RUS,20.128678987,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,819,22
 2014-M-FU-RUS-06A-2014,Russia F6,Clay,32,S,20140804,24,106066,2,,Victor Baluda,R,,RUS,21.8425735797,109740,,WC,Aydin Akhmetshin,U,,RUS,19.7891854894,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,512,68,2247,1
@@ -12835,7 +12835,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-AUT-07A-2014,Austria F7,Clay,32,S,20140811,31,110602,1,,Dennis Novak,R,183,AUT,20.9527720739,105542,2,,Bastian Trinker,R,,AUT,24.2518822724,6-3 6-2,3,F,,,,,,,,,,,,,,,,,,,,298,154,317,141
 2014-M-FU-BLR-01A-2014,Belarus F1,Hard,32,S,20140811,1,105679,1,,Eduardo Struvay,R,,COL,23.6495550992,126614,,WC,Andrei Andrukhou,R,,BLR,17.5852156057,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,331,135,,
 2014-M-FU-BLR-01A-2014,Belarus F1,Hard,32,S,20140811,2,105029,,,Sergey Betov,R,,BLR,26.8227241615,138069,,Q,Alexander Lebedyn,U,,UKR,18.2943189596,6-2 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,731,30,1352,4
-2014-M-FU-BLR-01A-2014,Belarus F1,Hard,32,S,20140811,3,105781,,,Andrei Vasilevski,R,185,BLR,23.2060232717,106138,,,Yaraslau Shyla,R,,BLR,21.4346338125,7-5 6-7(4) 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,605,49,572,54
+2014-M-FU-BLR-01A-2014,Belarus F1,Hard,32,S,20140811,3,105781,,,Andrei Vasilevski,R,185,BLR,23.2060232717,106138,,,Yaraslav Shyla,R,,BLR,21.4346338125,7-5 6-7(4) 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,605,49,572,54
 2014-M-FU-BLR-01A-2014,Belarus F1,Hard,32,S,20140811,4,104707,6,,Denis Matsukevitch,R,190,RUS,28.372347707,105239,,,Daniel Glancy,U,,IRL,25.7412731006,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,459,85,888,17
 2014-M-FU-BLR-01A-2014,Belarus F1,Hard,32,S,20140811,5,105739,,,Stanislav Poplavskyy,R,,UKR,23.3593429158,105987,4,,Mikhail Biryukov,R,,RUS,22.2861054073,7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,788,25,414,99
 2014-M-FU-BLR-01A-2014,Belarus F1,Hard,32,S,20140811,6,144816,,Q,Maxim Tybar,R,,BLR,16.1943874059,126192,,WC,Aliaksandr Halinko,R,,BLR,17.3415468857,2-6 7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,1610,2
@@ -12843,7 +12843,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-BLR-01A-2014,Belarus F1,Hard,32,S,20140811,8,105525,5,,Dane Propoggia,R,,AUS,24.2984257358,106073,,,Daniiar Duldaev,R,,KGZ,21.787816564,6-3 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,419,97,755,28
 2014-M-FU-BLR-01A-2014,Belarus F1,Hard,32,S,20140811,9,106374,8,,Filip Veger,R,,CRO,19.6386036961,106217,,Q,Daniel Skripnik,R,,ISR,21.0595482546,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,518,66,1244,6
 2014-M-FU-BLR-01A-2014,Belarus F1,Hard,32,S,20140811,10,105299,,,Dzmitry Zhyrmont,U,,BLR,25.4455852156,131951,,Q,Daniel Cukierman,U,,ISR,19.0910335387,6-1 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,567,55,1453,3
-2014-M-FU-BLR-01A-2014,Belarus F1,Hard,32,S,20140811,11,144638,,,Dmytro Badanov,U,,UKR,26.559890486,122548,,Q,Edan Leshem,U,1.83,ISR,17.3963039014,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,549,60,1375,4
+2014-M-FU-BLR-01A-2014,Belarus F1,Hard,32,S,20140811,11,144638,,,Dmytro Badanov,U,,UKR,26.559890486,122548,,Q,Edan Leshem,U,183,ISR,17.3963039014,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,549,60,1375,4
 2014-M-FU-BLR-01A-2014,Belarus F1,Hard,32,S,20140811,12,106201,3,,Maxim Dubarenco,R,,MDA,21.1307323751,105130,,,Vladimir Uzhylovsky,R,183,UKR,26.379192334,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,354,124,590,51
 2014-M-FU-BLR-01A-2014,Belarus F1,Hard,32,S,20140811,13,105012,7,,Alexander Bury,R,203,BLR,26.9075975359,106204,,,Nigmat Shofayziev,R,,UZB,21.1143052704,7-6(5) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,499,72,779,26
 2014-M-FU-BLR-01A-2014,Belarus F1,Hard,32,S,20140811,14,126617,,WC,Artur Dubinski,U,,BLR,18.3737166324,106383,,Q,Yuriy Kryvoy,R,,UKR,19.537303217,6-3 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1066,9,1123,8
@@ -13179,7 +13179,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-RUS-07A-2014,Russia F7,Hard,32,S,20140811,3,144815,,WC,Alexander Boborykin,U,,RUS,18.1875427789,105886,,,Anton Galkin,U,,RUS,22.6310746064,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1080,9
 2014-M-FU-RUS-07A-2014,Russia F7,Hard,32,S,20140811,4,105897,5,,Alexander Zhurbin,U,,RUS,22.5735797399,118463,,Q,Vladislav Gorodetsky,R,,UKR,31.9534565366,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,781,26,,
 2014-M-FU-RUS-07A-2014,Russia F7,Hard,32,S,20140811,5,105958,3,,Richard Muzaev,R,,RUS,22.3901437372,123847,,Q,Bogdan Bobrov,U,,RUS,16.900752909,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,653,40,,
-2014-M-FU-RUS-07A-2014,Russia F7,Hard,32,S,20140811,6,105533,,,Dmitry Surchenko,U,,RUS,24.2765229295,126170,,WC,Timur Kiuamov,U,,RUS,17.7796030116,6-4 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,1130,8,,
+2014-M-FU-RUS-07A-2014,Russia F7,Hard,32,S,20140811,6,105533,,,Dmitry Surchenko,U,,RUS,24.2765229295,126170,,WC,Timur Kiyamov,U,,RUS,17.7796030116,6-4 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,1130,8,,
 2014-M-FU-RUS-07A-2014,Russia F7,Hard,32,S,20140811,7,126629,,Q,Vladimir Korolev,U,,RUS,18.9295003422,126720,,Q,Boris Pokotilov,U,,RUS,17.2073921971,2-6 7-6(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2014-M-FU-RUS-07A-2014,Russia F7,Hard,32,S,20140811,8,106424,6,,Tal Goldengoren,U,,ISR,18.3189596167,126195,,,Alexandr Chepelev,R,,RUS,18.2039698836,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,775,26,1301,5
 2014-M-FU-RUS-07A-2014,Russia F7,Hard,32,S,20140811,9,105545,7,,Mikhail Fufygin,U,,RUS,24.2464065708,106215,,,Mikhail Vaks,R,,RUS,21.0650239562,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,784,25,840,20
@@ -13392,11 +13392,11 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-AUT-08A-2014,Austria F8,Clay,32,S,20140818,30,104356,,,Mario Haider Maurer,U,,AUT,30.3162217659,122358,,Q,Filip Brtnicky,U,,CZE,22.3134839151,6-1 6-4,3,SF,,,,,,,,,,,,,,,,,,,,1146,7,966,12
 2014-M-FU-AUT-08A-2014,Austria F8,Clay,32,S,20140818,31,104356,,,Mario Haider Maurer,U,,AUT,30.3162217659,105821,4,,Riccardo Bellotti,R,,ITA,23.0362765229,4-6 7-5 7-5,3,F,,,,,,,,,,,,,,,,,,,,1146,7,518,66
 2014-M-FU-BLR-02A-2014,Belarus F2,Hard,32,S,20140818,1,105679,1,,Eduardo Struvay,R,,COL,23.6687200548,126192,,Q,Aliaksandr Halinko,R,,BLR,17.3607118412,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,341,130,1607,2
-2014-M-FU-BLR-02A-2014,Belarus F2,Hard,32,S,20140818,2,106138,,,Yaraslau Shyla,R,,BLR,21.453798768,105781,,,Andrei Vasilevski,R,185,BLR,23.2251882272,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,577,54,598,50
+2014-M-FU-BLR-02A-2014,Belarus F2,Hard,32,S,20140818,2,106138,,,Yaraslav Shyla,R,,BLR,21.453798768,105781,,,Andrei Vasilevski,R,185,BLR,23.2251882272,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,577,54,598,50
 2014-M-FU-BLR-02A-2014,Belarus F2,Hard,32,S,20140818,3,106204,,,Nigmat Shofayziev,R,,UZB,21.1334702259,106073,,,Daniiar Duldaev,R,,KGZ,21.8069815195,6-7(4) 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,762,27,751,28
 2014-M-FU-BLR-02A-2014,Belarus F2,Hard,32,S,20140818,4,125802,,,Ilya Ivashka,R,193,BLR,20.4791238877,106374,8,,Filip Veger,R,,CRO,19.6577686516,3-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,755,27,519,66
 2014-M-FU-BLR-02A-2014,Belarus F2,Hard,32,S,20140818,5,105299,,,Dzmitry Zhyrmont,U,,BLR,25.4647501711,105714,3,,Hugo Nys,R,,MON,23.5017111567,6-2 5-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,529,63,380,112
-2014-M-FU-BLR-02A-2014,Belarus F2,Hard,32,S,20140818,6,122548,,Q,Edan Leshem,U,1.83,ISR,17.4154688569,126616,,Q,Anton Dubrov,R,,BLR,19.1676933607,7-6(5) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1383,4,2136,1
+2014-M-FU-BLR-02A-2014,Belarus F2,Hard,32,S,20140818,6,122548,,Q,Edan Leshem,U,183,ISR,17.4154688569,126616,,Q,Anton Dubrov,R,,BLR,19.1676933607,7-6(5) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1383,4,2136,1
 2014-M-FU-BLR-02A-2014,Belarus F2,Hard,32,S,20140818,7,106217,,Q,Daniel Skripnik,R,,ISR,21.0787132101,106080,,Q,Thomas Le Boulch,L,,FRA,21.7577002053,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1174,7,1166,7
 2014-M-FU-BLR-02A-2014,Belarus F2,Hard,32,S,20140818,8,105130,,,Vladimir Uzhylovsky,R,183,UKR,26.3983572895,104707,6,,Denis Matsukevitch,R,190,RUS,28.3915126626,7-6(5) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,590,51,476,78
 2014-M-FU-BLR-02A-2014,Belarus F2,Hard,32,S,20140818,9,126617,,WC,Artur Dubinski,U,,BLR,18.392881588,105012,7,,Alexander Bury,R,203,BLR,26.9267624914,3-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,1071,9,495,72
@@ -13407,19 +13407,19 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-BLR-02A-2014,Belarus F2,Hard,32,S,20140818,14,131951,,Q,Daniel Cukierman,U,,ISR,19.1101984942,144816,,WC,Maxim Tybar,R,,BLR,16.2135523614,6-7(4) 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1466,3,,
 2014-M-FU-BLR-02A-2014,Belarus F2,Hard,32,S,20140818,15,126171,,Q,Maxim Ratniuk,U,,UKR,18.3052703628,144638,,,Dmytro Badanov,U,,UKR,26.5790554415,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1227,6,541,61
 2014-M-FU-BLR-02A-2014,Belarus F2,Hard,32,S,20140818,16,105239,,,Daniel Glancy,U,,IRL,25.7604380561,106201,2,,Maxim Dubarenco,R,,MDA,21.1498973306,7-6(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,886,17,345,129
-2014-M-FU-BLR-02A-2014,Belarus F2,Hard,32,S,20140818,17,106138,,,Yaraslau Shyla,R,,BLR,21.453798768,105679,1,,Eduardo Struvay,R,,COL,23.6687200548,6-4 4-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,577,54,341,130
+2014-M-FU-BLR-02A-2014,Belarus F2,Hard,32,S,20140818,17,106138,,,Yaraslav Shyla,R,,BLR,21.453798768,105679,1,,Eduardo Struvay,R,,COL,23.6687200548,6-4 4-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,577,54,341,130
 2014-M-FU-BLR-02A-2014,Belarus F2,Hard,32,S,20140818,18,125802,,,Ilya Ivashka,R,193,BLR,20.4791238877,106204,,,Nigmat Shofayziev,R,,UZB,21.1334702259,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,755,27,762,27
-2014-M-FU-BLR-02A-2014,Belarus F2,Hard,32,S,20140818,19,105299,,,Dzmitry Zhyrmont,U,,BLR,25.4647501711,122548,,Q,Edan Leshem,U,1.83,ISR,17.4154688569,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,529,63,1383,4
+2014-M-FU-BLR-02A-2014,Belarus F2,Hard,32,S,20140818,19,105299,,,Dzmitry Zhyrmont,U,,BLR,25.4647501711,122548,,Q,Edan Leshem,U,183,ISR,17.4154688569,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,529,63,1383,4
 2014-M-FU-BLR-02A-2014,Belarus F2,Hard,32,S,20140818,20,105130,,,Vladimir Uzhylovsky,R,183,UKR,26.3983572895,106217,,Q,Daniel Skripnik,R,,ISR,21.0787132101,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,590,51,1174,7
 2014-M-FU-BLR-02A-2014,Belarus F2,Hard,32,S,20140818,21,126617,,WC,Artur Dubinski,U,,BLR,18.392881588,106383,,Q,Yuriy Kryvoy,R,,UKR,19.5564681725,7-6(2) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1071,9,1117,8
 2014-M-FU-BLR-02A-2014,Belarus F2,Hard,32,S,20140818,22,126630,,WC,Ivan Liutarevich,U,,BLR,18.4914442163,105987,4,,Mikhail Biryukov,R,,RUS,22.3052703628,3-6 7-6(9) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,436,91
 2014-M-FU-BLR-02A-2014,Belarus F2,Hard,32,S,20140818,23,105525,5,,Dane Propoggia,R,,AUS,24.3175906913,131951,,Q,Daniel Cukierman,U,,ISR,19.1101984942,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,439,90,1466,3
 2014-M-FU-BLR-02A-2014,Belarus F2,Hard,32,S,20140818,24,105239,,,Daniel Glancy,U,,IRL,25.7604380561,126171,,Q,Maxim Ratniuk,U,,UKR,18.3052703628,7-5 6-7(5) 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,886,17,1227,6
-2014-M-FU-BLR-02A-2014,Belarus F2,Hard,32,S,20140818,25,106138,,,Yaraslau Shyla,R,,BLR,21.453798768,125802,,,Ilya Ivashka,R,193,BLR,20.4791238877,1-6 6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,577,54,755,27
+2014-M-FU-BLR-02A-2014,Belarus F2,Hard,32,S,20140818,25,106138,,,Yaraslav Shyla,R,,BLR,21.453798768,125802,,,Ilya Ivashka,R,193,BLR,20.4791238877,1-6 6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,577,54,755,27
 2014-M-FU-BLR-02A-2014,Belarus F2,Hard,32,S,20140818,26,105299,,,Dzmitry Zhyrmont,U,,BLR,25.4647501711,105130,,,Vladimir Uzhylovsky,R,183,UKR,26.3983572895,6-3 7-6(3),3,QF,,,,,,,,,,,,,,,,,,,,529,63,590,51
 2014-M-FU-BLR-02A-2014,Belarus F2,Hard,32,S,20140818,27,126617,,WC,Artur Dubinski,U,,BLR,18.392881588,126630,,WC,Ivan Liutarevich,U,,BLR,18.4914442163,6-3 6-0,3,QF,,,,,,,,,,,,,,,,,,,,1071,9,,
 2014-M-FU-BLR-02A-2014,Belarus F2,Hard,32,S,20140818,28,105525,5,,Dane Propoggia,R,,AUS,24.3175906913,105239,,,Daniel Glancy,U,,IRL,25.7604380561,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,439,90,886,17
-2014-M-FU-BLR-02A-2014,Belarus F2,Hard,32,S,20140818,29,105299,,,Dzmitry Zhyrmont,U,,BLR,25.4647501711,106138,,,Yaraslau Shyla,R,,BLR,21.453798768,6-1 6-3,3,SF,,,,,,,,,,,,,,,,,,,,529,63,577,54
+2014-M-FU-BLR-02A-2014,Belarus F2,Hard,32,S,20140818,29,105299,,,Dzmitry Zhyrmont,U,,BLR,25.4647501711,106138,,,Yaraslav Shyla,R,,BLR,21.453798768,6-1 6-3,3,SF,,,,,,,,,,,,,,,,,,,,529,63,577,54
 2014-M-FU-BLR-02A-2014,Belarus F2,Hard,32,S,20140818,30,105525,5,,Dane Propoggia,R,,AUS,24.3175906913,126617,,WC,Artur Dubinski,U,,BLR,18.392881588,1-6 6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,439,90,1071,9
 2014-M-FU-BLR-02A-2014,Belarus F2,Hard,32,S,20140818,31,105299,,,Dzmitry Zhyrmont,U,,BLR,25.4647501711,105525,5,,Dane Propoggia,R,,AUS,24.3175906913,6-1 6-4,3,F,,,,,,,,,,,,,,,,,,,,529,63,439,90
 2014-M-FU-BEL-13A-2014,Belgium F12,Clay,32,S,20140818,1,105325,1,WC,Germain Gigounon,R,,BEL,25.3278576318,106338,,,Jannis Kahlke,L,,GER,20.1916495551,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,302,149,1153,7
@@ -14054,7 +14054,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-SUI-04A-2014,Switzerland F4,Clay,32,S,20140818,10,106196,,,Pascal Meis,U,,GER,21.1854893908,123924,,,Thomas Grinberg,R,,FRA,20.1423682409,6-0 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1044,10,1059,10
 2014-M-FU-SUI-04A-2014,Switzerland F4,Clay,32,S,20140818,11,144817,,WC,Marc Andrea Huesler,L,,SUI,18.1492128679,126643,,Q,Keivon Tabrizi,R,,SUI,18.0698151951,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1235,6
 2014-M-FU-SUI-04A-2014,Switzerland F4,Clay,32,S,20140818,12,104675,,,Rudolf Siwy,R,175,CZE,28.5338809035,111506,4,,Maxime Hamou,R,,FRA,19.1950718686,6-0 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,987,11,546,60
-2014-M-FU-SUI-04A-2014,Switzerland F4,Clay,32,S,20140818,13,125832,6,,Jordan Ubiergo,U,,FRA,21.0595482546,110600,,Q,Robert Quentin,R,,FRA,19.9835728953,6-4 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,631,44,,
+2014-M-FU-SUI-04A-2014,Switzerland F4,Clay,32,S,20140818,13,125832,6,,Jordan Ubiergo,U,,FRA,21.0595482546,110600,,Q,Quentin Robert,R,,FRA,19.9835728953,6-4 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,631,44,,
 2014-M-FU-SUI-04A-2014,Switzerland F4,Clay,32,S,20140818,14,111807,,Q,Simeon Rossier,L,,SUI,19.5893223819,106267,,,Michael Bois,R,,FRA,20.7446954141,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1170,7,888,17
 2014-M-FU-SUI-04A-2014,Switzerland F4,Clay,32,S,20140818,15,123827,,,Samuel Bensoussan,U,,FRA,22.7488021903,105483,,,Jerome Inzerillo,R,,FRA,24.5037645448,7-6(10) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,839,20,736,30
 2014-M-FU-SUI-04A-2014,Switzerland F4,Clay,32,S,20140818,16,104847,2,,Adrien Bossel,L,,SUI,27.6386036961,124083,,Q,Mark Burgos,R,,FRA,32.0410677618,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,442,89,,
@@ -16067,7 +16067,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-TUR-32A-2014,Turkey F32,Hard,32,S,20140915,8,123896,6,,Matija Pecotic,U,,CRO,25.2019164956,109329,,Q,Dimitri Bretting,R,,SUI,21.5249828884,2-6 6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,663,38,1158,7
 2014-M-FU-TUR-32A-2014,Turkey F32,Hard,32,S,20140915,9,105787,,,Hiroyasu Ehara,R,,JPN,23.2443531828,105372,7,,Issam Al Tawil,R,,SYR,25.18275154,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,731,30,684,36
 2014-M-FU-TUR-32A-2014,Turkey F32,Hard,32,S,20140915,10,104780,,,Keita Koyama,U,,JPN,28.1095140315,105579,,,Kittipong Wachiramanowong,R,183,THA,24.2245037645,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1075,9,886,18
-2014-M-FU-TUR-32A-2014,Turkey F32,Hard,32,S,20140915,11,126170,,WC,Timur Kiuamov,U,,RUS,17.8754277892,105869,,,Gengo Kikuchi,U,,JPN,22.855578371,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,2140,1,826,21
+2014-M-FU-TUR-32A-2014,Turkey F32,Hard,32,S,20140915,11,126170,,WC,Timur Kiyamov,U,,RUS,17.8754277892,105869,,,Gengo Kikuchi,U,,JPN,22.855578371,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,2140,1,826,21
 2014-M-FU-TUR-32A-2014,Turkey F32,Hard,32,S,20140915,12,106040,4,,Peter Heller,R,,GER,22.0917180014,105496,,WC,Anton Manegin,R,,RUS,24.5119780972,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,503,70,1312,5
 2014-M-FU-TUR-32A-2014,Turkey F32,Hard,32,S,20140915,13,105976,8,,Jack Carpenter,U,,GBR,22.4284736482,132202,,Q,Oleksandr Gulyevskyy,R,,UKR,18.6967830253,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,738,29,,
 2014-M-FU-TUR-32A-2014,Turkey F32,Hard,32,S,20140915,14,106389,,,Andrei Stefan Apostol,R,,ROU,19.5537303217,144815,,LL,Alexander Boborykin,U,,RUS,18.2833675565,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1124,8,1586,2
@@ -16078,7 +16078,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-TUR-32A-2014,Turkey F32,Hard,32,S,20140915,19,105924,3,,Richard Gabb,R,,GBR,22.5900068446,121777,,Q,Nils Brinkman,R,,GER,22.2231348392,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,515,68,1365,4
 2014-M-FU-TUR-32A-2014,Turkey F32,Hard,32,S,20140915,20,123896,6,,Matija Pecotic,U,,CRO,25.2019164956,121920,,,Timur Khabibulin,R,,KAZ,19.1211498973,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,663,38,1026,11
 2014-M-FU-TUR-32A-2014,Turkey F32,Hard,32,S,20140915,21,105787,,,Hiroyasu Ehara,R,,JPN,23.2443531828,104780,,,Keita Koyama,U,,JPN,28.1095140315,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,731,30,1075,9
-2014-M-FU-TUR-32A-2014,Turkey F32,Hard,32,S,20140915,22,106040,4,,Peter Heller,R,,GER,22.0917180014,126170,,WC,Timur Kiuamov,U,,RUS,17.8754277892,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,503,70,2140,1
+2014-M-FU-TUR-32A-2014,Turkey F32,Hard,32,S,20140915,22,106040,4,,Peter Heller,R,,GER,22.0917180014,126170,,WC,Timur Kiyamov,U,,RUS,17.8754277892,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,503,70,2140,1
 2014-M-FU-TUR-32A-2014,Turkey F32,Hard,32,S,20140915,23,105976,8,,Jack Carpenter,U,,GBR,22.4284736482,106389,,,Andrei Stefan Apostol,R,,ROU,19.5537303217,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,738,29,1124,8
 2014-M-FU-TUR-32A-2014,Turkey F32,Hard,32,S,20140915,24,125796,2,,Remi Boutillier,U,,FRA,24.6652977413,134472,,Q,Antoine Bellier,U,,SUI,17.9082819986,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,447,89,1868,1
 2014-M-FU-TUR-32A-2014,Turkey F32,Hard,32,S,20140915,25,106368,1,,Ramkumar Ramanathan,R,188,IND,19.8521560575,117353,5,,Duck Hee Lee,R,175,KOR,16.2984257358,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,306,148,578,54
@@ -16188,7 +16188,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-FRA-20A-2014,France F20,Carpet,32,S,20140922,5,104331,4,,Rudy Coco,U,,FRA,30.5051334702,131867,,Q,Dominik Boehler,R,,GER,18.5845311431,6-3 2-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,576,55,,
 2014-M-FU-FRA-20A-2014,France F20,Carpet,32,S,20140922,6,111167,,,Ugo Nastasi,R,185,LUX,21.4346338125,123836,,Q,Vincent Jaensch Mueller,R,,GER,20.605065024,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,870,19,,
 2014-M-FU-FRA-20A-2014,France F20,Carpet,32,S,20140922,7,105236,,,Pirmin Haenle,R,,GER,25.8918548939,111172,,WC,Hugo Schott,U,,FRA,18.045174538,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,702,34,,
-2014-M-FU-FRA-20A-2014,France F20,Carpet,32,S,20140922,8,106138,5,,Yaraslau Shyla,R,,BLR,21.5496235455,105929,,Q,Sebastian Sachs,R,,GER,22.5927446954,4-6 7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,486,76,1866,1
+2014-M-FU-FRA-20A-2014,France F20,Carpet,32,S,20140922,8,106138,5,,Yaraslav Shyla,R,,BLR,21.5496235455,105929,,Q,Sebastian Sachs,R,,GER,22.5927446954,4-6 7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,486,76,1866,1
 2014-M-FU-FRA-20A-2014,France F20,Carpet,32,S,20140922,9,105781,8,,Andrei Vasilevski,R,185,BLR,23.3210130048,105407,,,Elie Rousset,U,,FRA,25.0458590007,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,582,53,718,31
 2014-M-FU-FRA-20A-2014,France F20,Carpet,32,S,20140922,10,105786,,,Tom Schonenberg,R,,GER,23.2717316906,111781,,,Janis Podzus,L,,LAT,20.2327173169,7-6(5) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,716,32,789,24
 2014-M-FU-FRA-20A-2014,France F20,Carpet,32,S,20140922,11,106214,,,Oscar Otte,R,,GER,21.1854893908,106280,,,Maxime Tchoutakian,U,,FRA,20.7173169062,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,860,19,749,29
@@ -16200,18 +16200,18 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-FRA-20A-2014,France F20,Carpet,32,S,20140922,17,105714,1,,Hugo Nys,R,,MON,23.5975359343,105307,,,Jan Blecha,R,,CZE,25.5140314853,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,428,97,869,19
 2014-M-FU-FRA-20A-2014,France F20,Carpet,32,S,20140922,18,104916,6,,Moritz Baumann,L,,GER,27.3730321697,105928,,Q,Luca Margaroli,R,,SUI,22.6009582478,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,569,56,979,13
 2014-M-FU-FRA-20A-2014,France F20,Carpet,32,S,20140922,19,111167,,,Ugo Nastasi,R,185,LUX,21.4346338125,104331,4,,Rudy Coco,U,,FRA,30.5051334702,6-2 4-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,870,19,576,55
-2014-M-FU-FRA-20A-2014,France F20,Carpet,32,S,20140922,20,106138,5,,Yaraslau Shyla,R,,BLR,21.5496235455,105236,,,Pirmin Haenle,R,,GER,25.8918548939,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,486,76,702,34
+2014-M-FU-FRA-20A-2014,France F20,Carpet,32,S,20140922,20,106138,5,,Yaraslav Shyla,R,,BLR,21.5496235455,105236,,,Pirmin Haenle,R,,GER,25.8918548939,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,486,76,702,34
 2014-M-FU-FRA-20A-2014,France F20,Carpet,32,S,20140922,21,105781,8,,Andrei Vasilevski,R,185,BLR,23.3210130048,105786,,,Tom Schonenberg,R,,GER,23.2717316906,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,582,53,716,32
 2014-M-FU-FRA-20A-2014,France F20,Carpet,32,S,20140922,22,109303,3,,Stefano Napolitano,R,,ITA,19.4496919918,106214,,,Oscar Otte,R,,GER,21.1854893908,6-4 3-6 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,494,74,860,19
 2014-M-FU-FRA-20A-2014,France F20,Carpet,32,S,20140922,23,126409,,WC,Hugo Grenier,R,,FRA,18.4996577687,106156,7,,Sebastien Boltz,R,,FRA,21.4647501711,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,990,12,577,55
 2014-M-FU-FRA-20A-2014,France F20,Carpet,32,S,20140922,24,106008,,,Florian Fallert,R,,GER,22.3271731691,126505,,Q,Antoine Walch,U,,FRA,20.8980150582,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,571,56,1687,2
 2014-M-FU-FRA-20A-2014,France F20,Carpet,32,S,20140922,25,105714,1,,Hugo Nys,R,,MON,23.5975359343,104916,6,,Moritz Baumann,L,,GER,27.3730321697,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,428,97,569,56
-2014-M-FU-FRA-20A-2014,France F20,Carpet,32,S,20140922,26,106138,5,,Yaraslau Shyla,R,,BLR,21.5496235455,111167,,,Ugo Nastasi,R,185,LUX,21.4346338125,6-4 3-6 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,486,76,870,19
+2014-M-FU-FRA-20A-2014,France F20,Carpet,32,S,20140922,26,106138,5,,Yaraslav Shyla,R,,BLR,21.5496235455,111167,,,Ugo Nastasi,R,185,LUX,21.4346338125,6-4 3-6 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,486,76,870,19
 2014-M-FU-FRA-20A-2014,France F20,Carpet,32,S,20140922,27,109303,3,,Stefano Napolitano,R,,ITA,19.4496919918,105781,8,,Andrei Vasilevski,R,185,BLR,23.3210130048,6-3 6-7(3) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,494,74,582,53
 2014-M-FU-FRA-20A-2014,France F20,Carpet,32,S,20140922,28,106008,,,Florian Fallert,R,,GER,22.3271731691,126409,,WC,Hugo Grenier,R,,FRA,18.4996577687,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,571,56,990,12
-2014-M-FU-FRA-20A-2014,France F20,Carpet,32,S,20140922,29,106138,5,,Yaraslau Shyla,R,,BLR,21.5496235455,105714,1,,Hugo Nys,R,,MON,23.5975359343,6-4 2-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,486,76,428,97
+2014-M-FU-FRA-20A-2014,France F20,Carpet,32,S,20140922,29,106138,5,,Yaraslav Shyla,R,,BLR,21.5496235455,105714,1,,Hugo Nys,R,,MON,23.5975359343,6-4 2-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,486,76,428,97
 2014-M-FU-FRA-20A-2014,France F20,Carpet,32,S,20140922,30,106008,,,Florian Fallert,R,,GER,22.3271731691,109303,3,,Stefano Napolitano,R,,ITA,19.4496919918,6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,571,56,494,74
-2014-M-FU-FRA-20A-2014,France F20,Carpet,32,S,20140922,31,106138,5,,Yaraslau Shyla,R,,BLR,21.5496235455,106008,,,Florian Fallert,R,,GER,22.3271731691,6-2 6-3,3,F,,,,,,,,,,,,,,,,,,,,486,76,571,56
+2014-M-FU-FRA-20A-2014,France F20,Carpet,32,S,20140922,31,106138,5,,Yaraslav Shyla,R,,BLR,21.5496235455,106008,,,Florian Fallert,R,,GER,22.3271731691,6-2 6-3,3,F,,,,,,,,,,,,,,,,,,,,486,76,571,56
 2014-M-FU-ITA-33A-2014,Italy F33,Clay,32,S,20140922,1,104473,1,,Walter Trusendi,U,,ITA,29.7166324435,126081,,Q,Francesco Moncagatto,U,,ITA,21.2539356605,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,491,75,2128,1
 2014-M-FU-ITA-33A-2014,Italy F33,Clay,32,S,20140922,2,122357,,,Antonio Campo,R,,ITA,21.1334702259,126504,,Q,Andrea Pellegrino,R,,ITA,17.5003422313,6-0 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,1027,11,1985,1
 2014-M-FU-ITA-33A-2014,Italy F33,Clay,32,S,20140922,3,105225,,,Nicola Ghedin,R,,ITA,25.9876796715,126442,,WC,Simone Roncalli,R,,ITA,18.3737166324,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,844,20,1866,1
@@ -16252,7 +16252,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-POR-07A-2014,Portugal F7,Hard,32,S,20140922,7,104544,,,Ricardo Villacorta Alonso,R,,ESP,29.4127310062,132852,,Q,Pablo Vivero Gonzalez,U,,ESP,19.40862423,6-2 4-6 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,725,31,1045,10
 2014-M-FU-POR-07A-2014,Portugal F7,Hard,32,S,20140922,8,105587,8,,Tom Kocevar Desman,R,,SLO,24.2026009582,106299,,,Bar Tzuf Botzer,R,,ISR,20.5585215606,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,683,35,772,26
 2014-M-FU-POR-07A-2014,Portugal F7,Hard,32,S,20140922,9,106249,7,,Joao Domingues,R,178,POR,20.9637234771,125835,,WC,Diogo Lourenco,R,,POR,19.1868583162,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,633,42,,
-2014-M-FU-POR-07A-2014,Portugal F7,Hard,32,S,20140922,10,122548,,Q,Edan Leshem,U,1.83,ISR,17.5112936345,104425,,WC,Goncalo Pereira,R,,POR,30.0424366872,6-2 4-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1305,5,1702,2
+2014-M-FU-POR-07A-2014,Portugal F7,Hard,32,S,20140922,10,122548,,Q,Edan Leshem,U,183,ISR,17.5112936345,104425,,WC,Goncalo Pereira,R,,POR,30.0424366872,6-2 4-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1305,5,1702,2
 2014-M-FU-POR-07A-2014,Portugal F7,Hard,32,S,20140922,11,105239,,,Daniel Glancy,U,,IRL,25.8562628337,125789,,WC,Felipe Cunha Silva,R,,POR,17.4784394251,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,871,19,1744,1
 2014-M-FU-POR-07A-2014,Portugal F7,Hard,32,S,20140922,12,123921,,,Calvin Hemery,R,,FRA,19.6495550992,106382,4,,Luke Bambridge,R,,GBR,19.6687200548,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,677,35,515,69
 2014-M-FU-POR-07A-2014,Portugal F7,Hard,32,S,20140922,13,106238,5,,Andres Artunedo Martinavarro,R,,ESP,21.0212183436,127326,,Q,Ben Patael,U,,ISR,17.3059548255,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,644,40,1165,7
@@ -16263,7 +16263,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-POR-07A-2014,Portugal F7,Hard,32,S,20140922,18,126276,,Q,Thomas Brechemier,U,,FRA,18.2340862423,124186,,Q,Alexandre Muller,R,,FRA,17.6372347707,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1116,8,1365,4
 2014-M-FU-POR-07A-2014,Portugal F7,Hard,32,S,20140922,19,110780,,,Joshua Ward Hibbert,R,,GBR,20.6570841889,106197,,Q,Samuel Ribeiro Navarrete,U,,ESP,21.2785763176,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,783,25,970,13
 2014-M-FU-POR-07A-2014,Portugal F7,Hard,32,S,20140922,20,104544,,,Ricardo Villacorta Alonso,R,,ESP,29.4127310062,105587,8,,Tom Kocevar Desman,R,,SLO,24.2026009582,6-4 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,725,31,683,35
-2014-M-FU-POR-07A-2014,Portugal F7,Hard,32,S,20140922,21,106249,7,,Joao Domingues,R,178,POR,20.9637234771,122548,,Q,Edan Leshem,U,1.83,ISR,17.5112936345,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,633,42,1305,5
+2014-M-FU-POR-07A-2014,Portugal F7,Hard,32,S,20140922,21,106249,7,,Joao Domingues,R,178,POR,20.9637234771,122548,,Q,Edan Leshem,U,183,ISR,17.5112936345,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,633,42,1305,5
 2014-M-FU-POR-07A-2014,Portugal F7,Hard,32,S,20140922,22,123921,,,Calvin Hemery,R,,FRA,19.6495550992,105239,,,Daniel Glancy,U,,IRL,25.8562628337,7-6(5) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,677,35,871,19
 2014-M-FU-POR-07A-2014,Portugal F7,Hard,32,S,20140922,23,106238,5,,Andres Artunedo Martinavarro,R,,ESP,21.0212183436,126340,,Q,Viktor Durasovic,R,185,NOR,17.5112936345,4-6 6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,644,40,1279,5
 2014-M-FU-POR-07A-2014,Portugal F7,Hard,32,S,20140922,24,110472,,,Vasco Mensurado,R,,POR,20.476386037,104936,,,Jorge Hernando Ruano,U,,ESP,27.3045859001,6-2 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,714,32,701,34
@@ -17650,7 +17650,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-BLR-04A-2014,Belarus F4,Hard,32,S,20141020,10,144816,,Q,Maxim Tybar,R,,BLR,16.386036961,105748,,Q,Vladzimir Kruk,R,,BLR,23.5290896646,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1829,1,1211,6
 2014-M-FU-BLR-04A-2014,Belarus F4,Hard,32,S,20141020,11,126614,,WC,Andrei Andrukhou,R,,BLR,17.7768651608,126192,,WC,Aliaksandr Halinko,R,,BLR,17.5331964408,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,2024,1
 2014-M-FU-BLR-04A-2014,Belarus F4,Hard,32,S,20141020,12,104980,4,,Anton Zaitsev,U,,RUS,27.2470910335,117356,,,Cem Ilkel,R,185,TUR,19.1649555099,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,304,154,476,78
-2014-M-FU-BLR-04A-2014,Belarus F4,Hard,32,S,20141020,13,106138,,,Yaraslau Shyla,R,,BLR,21.6262833676,106201,6,,Maxim Dubarenco,R,,MDA,21.3223819302,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,421,97,386,111
+2014-M-FU-BLR-04A-2014,Belarus F4,Hard,32,S,20141020,13,106138,,,Yaraslav Shyla,R,,BLR,21.6262833676,106201,6,,Maxim Dubarenco,R,,MDA,21.3223819302,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,421,97,386,111
 2014-M-FU-BLR-04A-2014,Belarus F4,Hard,32,S,20141020,14,106307,,Q,Patrik Fabian,L,,SVK,20.5859000684,129811,,Q,Oleg Khotkov,U,,UKR,24.6105407255,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,890,16,1829,1
 2014-M-FU-BLR-04A-2014,Belarus F4,Hard,32,S,20141020,15,122330,,Q,Alexander Bublik,R,196,KAZ,17.3415468857,105977,,Q,Maksim Malyshev,R,,UKR,22.5215605749,4-6 6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,917,14,2109,1
 2014-M-FU-BLR-04A-2014,Belarus F4,Hard,32,S,20141020,16,104505,2,,Konstantin Kravchuk,R,190,RUS,29.6536618754,104707,,,Denis Matsukevitch,R,190,RUS,28.5639972621,6-3 6-7(1) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,259,184,486,75
@@ -17660,12 +17660,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-BLR-04A-2014,Belarus F4,Hard,32,S,20141020,20,104654,,,Baris Erguden,R,,TUR,28.7994524298,105781,,,Andrei Vasilevski,R,185,BLR,23.3976728268,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,580,52,594,49
 2014-M-FU-BLR-04A-2014,Belarus F4,Hard,32,S,20141020,21,126185,,,Evgenii Tiurnev,R,,RUS,17.5331964408,144816,,Q,Maxim Tybar,R,,BLR,16.386036961,6-2 3-6 6-0,3,R16,,,,,,,,,,,,,,,,,,,,718,31,1829,1
 2014-M-FU-BLR-04A-2014,Belarus F4,Hard,32,S,20141020,22,104980,4,,Anton Zaitsev,U,,RUS,27.2470910335,126614,,WC,Andrei Andrukhou,R,,BLR,17.7768651608,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,304,154,,
-2014-M-FU-BLR-04A-2014,Belarus F4,Hard,32,S,20141020,23,106138,,,Yaraslau Shyla,R,,BLR,21.6262833676,106307,,Q,Patrik Fabian,L,,SVK,20.5859000684,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,421,97,890,16
+2014-M-FU-BLR-04A-2014,Belarus F4,Hard,32,S,20141020,23,106138,,,Yaraslav Shyla,R,,BLR,21.6262833676,106307,,Q,Patrik Fabian,L,,SVK,20.5859000684,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,421,97,890,16
 2014-M-FU-BLR-04A-2014,Belarus F4,Hard,32,S,20141020,24,104505,2,,Konstantin Kravchuk,R,190,RUS,29.6536618754,122330,,Q,Alexander Bublik,R,196,KAZ,17.3415468857,6-1 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,259,184,917,14
 2014-M-FU-BLR-04A-2014,Belarus F4,Hard,32,S,20141020,25,106078,1,,Egor Gerasimov,R,196,BLR,21.9383983573,105299,5,,Dzmitry Zhyrmont,U,,BLR,25.6372347707,7-6(6) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,239,201,383,111
 2014-M-FU-BLR-04A-2014,Belarus F4,Hard,32,S,20141020,26,106066,,,Victor Baluda,R,,RUS,22.0533880903,104654,,,Baris Erguden,R,,TUR,28.7994524298,3-6 6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,442,86,580,52
 2014-M-FU-BLR-04A-2014,Belarus F4,Hard,32,S,20141020,27,126185,,,Evgenii Tiurnev,R,,RUS,17.5331964408,104980,4,,Anton Zaitsev,U,,RUS,27.2470910335,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,718,31,304,154
-2014-M-FU-BLR-04A-2014,Belarus F4,Hard,32,S,20141020,28,104505,2,,Konstantin Kravchuk,R,190,RUS,29.6536618754,106138,,,Yaraslau Shyla,R,,BLR,21.6262833676,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,259,184,421,97
+2014-M-FU-BLR-04A-2014,Belarus F4,Hard,32,S,20141020,28,104505,2,,Konstantin Kravchuk,R,190,RUS,29.6536618754,106138,,,Yaraslav Shyla,R,,BLR,21.6262833676,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,259,184,421,97
 2014-M-FU-BLR-04A-2014,Belarus F4,Hard,32,S,20141020,29,106066,,,Victor Baluda,R,,RUS,22.0533880903,106078,1,,Egor Gerasimov,R,196,BLR,21.9383983573,6-7(7) 7-6(7) 6-4,3,SF,,,,,,,,,,,,,,,,,,,,442,86,239,201
 2014-M-FU-BLR-04A-2014,Belarus F4,Hard,32,S,20141020,30,126185,,,Evgenii Tiurnev,R,,RUS,17.5331964408,104505,2,,Konstantin Kravchuk,R,190,RUS,29.6536618754,7-6(6) 4-6 6-4,3,SF,,,,,,,,,,,,,,,,,,,,718,31,259,184
 2014-M-FU-BLR-04A-2014,Belarus F4,Hard,32,S,20141020,31,126185,,,Evgenii Tiurnev,R,,RUS,17.5331964408,106066,,,Victor Baluda,R,,RUS,22.0533880903,2-6 7-5 7-6(4),3,F,,,,,,,,,,,,,,,,,,,,718,31,442,86
@@ -18176,7 +18176,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-EST-03A-2014,Estonia F3,Carpet,32,S,20141027,9,104729,7,,Ivan Nedelko,R,,RUS,28.4599589322,126605,,Q,Mika Julin,R,,FIN,21.0212183436,6-0 0-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,517,67,,
 2014-M-FU-EST-03A-2014,Estonia F3,Carpet,32,S,20141027,10,121898,,,Denis Kapric,R,,GER,20.1752224504,134290,,WC,Alan Braschinsky,U,,EST,18.3983572895,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,2017,1,,
 2014-M-FU-EST-03A-2014,Estonia F3,Carpet,32,S,20141027,11,111781,,,Janis Podzus,L,,LAT,20.3285420945,111443,,,Vladimir Polyakov,R,,RUS,20.3586584531,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,768,25,844,19
-2014-M-FU-EST-03A-2014,Estonia F3,Carpet,32,S,20141027,12,106138,4,,Yaraslau Shyla,R,,BLR,21.6454483231,144930,,Q,Richard Solberg,R,,SWE,18.2696783025,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,426,95,,
+2014-M-FU-EST-03A-2014,Estonia F3,Carpet,32,S,20141027,12,106138,4,,Yaraslav Shyla,R,,BLR,21.6454483231,144930,,Q,Richard Solberg,R,,SWE,18.2696783025,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,426,95,,
 2014-M-FU-EST-03A-2014,Estonia F3,Carpet,32,S,20141027,13,111193,5,,Alexander Vasilenko,R,,RUS,19.665982204,106330,,,Vitaly Kozyukov,R,,RUS,20.4024640657,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,478,76,1283,5
 2014-M-FU-EST-03A-2014,Estonia F3,Carpet,32,S,20141027,14,111194,,,Evgeny Elistratov,U,,RUS,19.8302532512,144931,,WC,Hendrik Inno,U,,EST,17.7741273101,6-2 2-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1065,9,,
 2014-M-FU-EST-03A-2014,Estonia F3,Carpet,32,S,20141027,15,144932,,WC,Kristjan Tamm,U,,EST,16.3641341547,134428,,Q,Mika Kosonen,R,,FIN,19.7590691307,3-6 7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -18186,15 +18186,15 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-EST-03A-2014,Estonia F3,Carpet,32,S,20141027,19,104901,3,,Vladimir Ivanov,R,,EST,27.5482546201,105478,,,Yan Sabanin,U,,RUS,24.7364818617,7-6(6) 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,421,97,1020,11
 2014-M-FU-EST-03A-2014,Estonia F3,Carpet,32,S,20141027,20,126094,6,Q,Andrey Rublev,R,188,RUS,17.0184804928,122295,,WC,Anton Pavlov,L,,EST,19.2306639288,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,491,72,2075,1
 2014-M-FU-EST-03A-2014,Estonia F3,Carpet,32,S,20141027,21,104729,7,,Ivan Nedelko,R,,RUS,28.4599589322,121898,,,Denis Kapric,R,,GER,20.1752224504,6-2 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,517,67,2017,1
-2014-M-FU-EST-03A-2014,Estonia F3,Carpet,32,S,20141027,22,106138,4,,Yaraslau Shyla,R,,BLR,21.6454483231,111781,,,Janis Podzus,L,,LAT,20.3285420945,7-6(4) 4-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,426,95,768,25
+2014-M-FU-EST-03A-2014,Estonia F3,Carpet,32,S,20141027,22,106138,4,,Yaraslav Shyla,R,,BLR,21.6454483231,111781,,,Janis Podzus,L,,LAT,20.3285420945,7-6(4) 4-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,426,95,768,25
 2014-M-FU-EST-03A-2014,Estonia F3,Carpet,32,S,20141027,23,111193,5,,Alexander Vasilenko,R,,RUS,19.665982204,111194,,,Evgeny Elistratov,U,,RUS,19.8302532512,6-7(2) 7-6(6) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,478,76,1065,9
 2014-M-FU-EST-03A-2014,Estonia F3,Carpet,32,S,20141027,24,105299,2,,Dzmitry Zhyrmont,U,,BLR,25.6563997262,144932,,WC,Kristjan Tamm,U,,EST,16.3641341547,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,325,138,,
 2014-M-FU-EST-03A-2014,Estonia F3,Carpet,32,S,20141027,25,106348,,Q,Evgeny Karlovskiy,R,,RUS,20.2217659138,104980,1,,Anton Zaitsev,U,,RUS,27.266255989,4-6 6-4 6-0,3,QF,,,,,,,,,,,,,,,,,,,,706,32,308,154
 2014-M-FU-EST-03A-2014,Estonia F3,Carpet,32,S,20141027,26,126094,6,Q,Andrey Rublev,R,188,RUS,17.0184804928,104901,3,,Vladimir Ivanov,R,,EST,27.5482546201,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,491,72,421,97
-2014-M-FU-EST-03A-2014,Estonia F3,Carpet,32,S,20141027,27,106138,4,,Yaraslau Shyla,R,,BLR,21.6454483231,104729,7,,Ivan Nedelko,R,,RUS,28.4599589322,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,426,95,517,67
+2014-M-FU-EST-03A-2014,Estonia F3,Carpet,32,S,20141027,27,106138,4,,Yaraslav Shyla,R,,BLR,21.6454483231,104729,7,,Ivan Nedelko,R,,RUS,28.4599589322,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,426,95,517,67
 2014-M-FU-EST-03A-2014,Estonia F3,Carpet,32,S,20141027,28,105299,2,,Dzmitry Zhyrmont,U,,BLR,25.6563997262,111193,5,,Alexander Vasilenko,R,,RUS,19.665982204,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,325,138,478,76
 2014-M-FU-EST-03A-2014,Estonia F3,Carpet,32,S,20141027,29,126094,6,Q,Andrey Rublev,R,188,RUS,17.0184804928,106348,,Q,Evgeny Karlovskiy,R,,RUS,20.2217659138,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,491,72,706,32
-2014-M-FU-EST-03A-2014,Estonia F3,Carpet,32,S,20141027,30,105299,2,,Dzmitry Zhyrmont,U,,BLR,25.6563997262,106138,4,,Yaraslau Shyla,R,,BLR,21.6454483231,6-1 6-4,3,SF,,,,,,,,,,,,,,,,,,,,325,138,426,95
+2014-M-FU-EST-03A-2014,Estonia F3,Carpet,32,S,20141027,30,105299,2,,Dzmitry Zhyrmont,U,,BLR,25.6563997262,106138,4,,Yaraslav Shyla,R,,BLR,21.6454483231,6-1 6-4,3,SF,,,,,,,,,,,,,,,,,,,,325,138,426,95
 2014-M-FU-EST-03A-2014,Estonia F3,Carpet,32,S,20141027,31,105299,2,,Dzmitry Zhyrmont,U,,BLR,25.6563997262,126094,6,Q,Andrey Rublev,R,188,RUS,17.0184804928,6-4 6-2,3,F,,,,,,,,,,,,,,,,,,,,325,138,491,72
 2014-M-FU-GBR-18A-2014,Great Britain F18,Hard,32,S,20141027,1,105827,1,,Laurynas Grigelis,R,183,LTU,23.2032854209,106126,,,George Morgan,R,,GBR,21.7166324435,6-0 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,271,175,1112,8
 2014-M-FU-GBR-18A-2014,Great Britain F18,Hard,32,S,20141027,2,122036,,Q,Daniel Ferretti,R,,AUS,23.356605065,126130,,WC,Joshua Sapwell,R,,GBR,18.6557152635,6-4 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,2017,1,1936,1
@@ -19195,7 +19195,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-CAM-01A-2014,Cambodia F1,Hard,32,S,20141117,5,105790,4,,Yong Kyu Lim,R,,KOR,23.4168377823,106143,,,Dekel Bar,R,,ISR,21.6755646817,6-4 1-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,621,43,818,21
 2014-M-FU-CAM-01A-2014,Cambodia F1,Hard,32,S,20141117,6,105681,,Q,Soong Jae Cho,R,,KOR,23.909650924,122510,,Q,Kuatbek Abiyev,U,,KAZ,19.8685831622,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1059,9,2158,1
 2014-M-FU-CAM-01A-2014,Cambodia F1,Hard,32,S,20141117,7,111792,,,Young Seok Kim,L,,KOR,19.5181382615,120545,,,Ko Suzuki,L,,JPN,23.2908966461,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,824,20,925,14
-2014-M-FU-CAM-01A-2014,Cambodia F1,Hard,32,S,20141117,8,105464,5,,Christopher Rungkat,R,1.7,INA,24.8405201916,122606,,Q,Yecong He,U,,CHN,20.7529089665,6-2 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,652,38,1337,4
+2014-M-FU-CAM-01A-2014,Cambodia F1,Hard,32,S,20141117,8,105464,5,,Christopher Rungkat,R,170,INA,24.8405201916,122606,,Q,Yecong He,U,,CHN,20.7529089665,6-2 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,652,38,1337,4
 2014-M-FU-CAM-01A-2014,Cambodia F1,Hard,32,S,20141117,9,105621,6,,Min Kyu Song,U,,KOR,24.2299794661,123812,,Q,Jose Fco Vidal Azorin,U,,ESP,21.4318959617,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,764,25,2083,1
 2014-M-FU-CAM-01A-2014,Cambodia F1,Hard,32,S,20141117,10,103409,,Q,Byung Kook Kang,U,,KOR,35.3264887064,105563,,WC,Kenny Bun,R,,CAM,24.462696783,6-4 6-7(7) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1467,3,,
 2014-M-FU-CAM-01A-2014,Cambodia F1,Hard,32,S,20141117,11,126844,,Q,Hiroki Horikiri,U,,JPN,19.9589322382,102774,,WC,Katsushi Fukuda,R,,JPN,38.5927446954,6-2 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -19207,7 +19207,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-CAM-01A-2014,Cambodia F1,Hard,32,S,20141117,17,111512,1,,Johan Sebastien Tatlot,U,,FRA,18.6447638604,104478,,,Hyun Woo Nam,R,,KOR,29.8535249829,5-7 7-6(6) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,444,87,946,13
 2014-M-FU-CAM-01A-2014,Cambodia F1,Hard,32,S,20141117,18,105999,8,,Bowen Ouyang,L,,CHN,22.4969199179,106397,,,Wishaya Trongcharoenchaikul,R,,THA,19.6112251882,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,800,22,865,18
 2014-M-FU-CAM-01A-2014,Cambodia F1,Hard,32,S,20141117,19,105790,4,,Yong Kyu Lim,R,,KOR,23.4168377823,105681,,Q,Soong Jae Cho,R,,KOR,23.909650924,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,621,43,1059,9
-2014-M-FU-CAM-01A-2014,Cambodia F1,Hard,32,S,20141117,20,111792,,,Young Seok Kim,L,,KOR,19.5181382615,105464,5,,Christopher Rungkat,R,1.7,INA,24.8405201916,6-1 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,824,20,652,38
+2014-M-FU-CAM-01A-2014,Cambodia F1,Hard,32,S,20141117,20,111792,,,Young Seok Kim,L,,KOR,19.5181382615,105464,5,,Christopher Rungkat,R,170,INA,24.8405201916,6-1 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,824,20,652,38
 2014-M-FU-CAM-01A-2014,Cambodia F1,Hard,32,S,20141117,21,105621,6,,Min Kyu Song,U,,KOR,24.2299794661,103409,,Q,Byung Kook Kang,U,,KOR,35.3264887064,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,764,25,1467,3
 2014-M-FU-CAM-01A-2014,Cambodia F1,Hard,32,S,20141117,22,105670,3,,Karunuday Singh,R,,IND,23.9945242984,126844,,Q,Hiroki Horikiri,U,,JPN,19.9589322382,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,522,64,,
 2014-M-FU-CAM-01A-2014,Cambodia F1,Hard,32,S,20141117,23,104555,,,Dylan Seong Kwan Kim,R,,KOR,29.5140314853,121621,,Q,Ken Onoda,U,,JPN,26.5954825462,5-7 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,898,15,2083,1
@@ -19789,7 +19789,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-THA-10A-2014,Thailand F10,Hard,32,S,20141124,10,106136,,,Warit Sornbutnark,U,,THA,21.7385352498,105829,,Q,Warut Korkiatthaworn,U,,THA,23.2717316906,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1103,8,,
 2014-M-FU-THA-10A-2014,Thailand F10,Hard,32,S,20141124,11,105579,,,Kittipong Wachiramanowong,R,183,THA,24.4161533196,122519,,Q,Punn Bodhidatta,R,,THA,21.4757015743,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,835,20,1450,3
 2014-M-FU-THA-10A-2014,Thailand F10,Hard,32,S,20141124,12,105359,4,,Jason Jung,R,,TPE,25.4428473648,127146,,WC,Nawakarn Khunjan,U,,THA,16.476386037,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,336,132,,
-2014-M-FU-THA-10A-2014,Thailand F10,Hard,32,S,20141124,13,111187,,,Kaichi Uchida,R,,JPN,20.2546201232,122207,,LL,Roy Hobbs,U,,SIN,25.2813141684,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,624,42,,
+2014-M-FU-THA-10A-2014,Thailand F10,Hard,32,S,20141124,13,111187,,,Kaichi Uchida,R,,JPN,20.2546201232,122207,,LL,Roy Hobbs,U,,SGP,25.2813141684,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,624,42,,
 2014-M-FU-THA-10A-2014,Thailand F10,Hard,32,S,20141124,14,110757,,,Jacob Grills,U,,AUS,19.4360027379,121840,,WC,Chaleechan Tanasugarn,R,,THA,20.9144421629,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,770,25,1398,3
 2014-M-FU-THA-10A-2014,Thailand F10,Hard,32,S,20141124,15,105810,,,Shuichi Sekiguchi,R,,JPN,23.3620807666,111182,,WC,Singekrawee Wattanakul,R,,THA,19.3100616016,7-6(5) 2-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,441,88,1109,8
 2014-M-FU-THA-10A-2014,Thailand F10,Hard,32,S,20141124,16,106034,2,,Yasutaka Uchiyama,R,183,JPN,22.302532512,133668,,Q,Vorachon Rakpuangchon,R,,THA,15.6386036961,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,261,191,,
@@ -19935,7 +19935,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-CAM-03A-2014,Cambodia F3,Hard,32,S,20141201,1,105946,1,,Liang Chi Huang,R,,TPE,22.7323750856,102774,,WC,Katsushi Fukuda,R,,JPN,38.6310746064,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,306,159,,
 2014-M-FU-CAM-03A-2014,Cambodia F3,Hard,32,S,20141201,2,123812,,Q,Jose Fco Vidal Azorin,U,,ESP,21.4702258727,124023,,WC,Hei Yin Andrew Li,R,,HKG,17.6783025325,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,2112,1,,
 2014-M-FU-CAM-03A-2014,Cambodia F3,Hard,32,S,20141201,3,106206,,Q,Jea Moon Lee,R,,KOR,21.4154688569,106274,,Q,Zhaoyi Cao,R,,CHN,20.9883641342,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1442,3,981,12
-2014-M-FU-CAM-03A-2014,Cambodia F3,Hard,32,S,20141201,4,105464,6,,Christopher Rungkat,R,1.7,INA,24.8788501027,110632,,WC,Ahmed Deedat Abdul Razak,R,,MAS,19.4551676934,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,644,39,,
+2014-M-FU-CAM-03A-2014,Cambodia F3,Hard,32,S,20141201,4,105464,6,,Christopher Rungkat,R,170,INA,24.8788501027,110632,,WC,Ahmed Deedat Abdul Razak,R,,MAS,19.4551676934,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,644,39,,
 2014-M-FU-CAM-03A-2014,Cambodia F3,Hard,32,S,20141201,5,117353,4,,Duck Hee Lee,R,175,KOR,16.5092402464,105999,,,Bowen Ouyang,L,,CHN,22.5352498289,6-2 2-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,548,57,783,24
 2014-M-FU-CAM-03A-2014,Cambodia F3,Hard,32,S,20141201,6,104478,,,Hyun Woo Nam,R,,KOR,29.8918548939,125816,,,Ji Hoon Son,U,,KOR,20.2272416153,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,933,14,978,12
 2014-M-FU-CAM-03A-2014,Cambodia F3,Hard,32,S,20141201,7,105006,,Q,Chu Huan Yi,L,,TPE,27.2525667351,105490,,,Jui Chen Hung,R,,TPE,24.7529089665,7-6(1) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1843,1,786,24
@@ -19949,14 +19949,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-CAM-03A-2014,Cambodia F3,Hard,32,S,20141201,15,122606,,Q,Yecong He,U,,CHN,20.7912388775,137265,,WC,Victor Gurevich,R,,USA,18.765229295,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1348,4,,
 2014-M-FU-CAM-03A-2014,Cambodia F3,Hard,32,S,20141201,16,103175,2,,Toshihide Matsui,R,180,JPN,36.6187542779,105621,,,Min Kyu Song,U,,KOR,24.2683093771,6-3 3-6 7-6(0),3,R32,,,,,,,,,,,,,,,,,,,,400,104,753,27
 2014-M-FU-CAM-03A-2014,Cambodia F3,Hard,32,S,20141201,17,105946,1,,Liang Chi Huang,R,,TPE,22.7323750856,123812,,Q,Jose Fco Vidal Azorin,U,,ESP,21.4702258727,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,306,159,2112,1
-2014-M-FU-CAM-03A-2014,Cambodia F3,Hard,32,S,20141201,18,105464,6,,Christopher Rungkat,R,1.7,INA,24.8788501027,106206,,Q,Jea Moon Lee,R,,KOR,21.4154688569,6-2 6-7(4) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,644,39,1442,3
+2014-M-FU-CAM-03A-2014,Cambodia F3,Hard,32,S,20141201,18,105464,6,,Christopher Rungkat,R,170,INA,24.8788501027,106206,,Q,Jea Moon Lee,R,,KOR,21.4154688569,6-2 6-7(4) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,644,39,1442,3
 2014-M-FU-CAM-03A-2014,Cambodia F3,Hard,32,S,20141201,19,104478,,,Hyun Woo Nam,R,,KOR,29.8918548939,117353,4,,Duck Hee Lee,R,175,KOR,16.5092402464,6-7(8) 6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,933,14,548,57
 2014-M-FU-CAM-03A-2014,Cambodia F3,Hard,32,S,20141201,20,105006,,Q,Chu Huan Yi,L,,TPE,27.2525667351,106143,,,Dekel Bar,R,,ISR,21.7138945927,7-6(5) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1843,1,826,21
 2014-M-FU-CAM-03A-2014,Cambodia F3,Hard,32,S,20141201,21,104781,5,,Yuichi Ito,R,,JPN,28.3203285421,121920,,,Timur Khabibulin,R,,KAZ,19.3319644079,4-6 7-5 7-5,3,R16,,,,,,,,,,,,,,,,,,,,592,49,918,15
 2014-M-FU-CAM-03A-2014,Cambodia F3,Hard,32,S,20141201,22,105892,,,Alexandr Igoshin,U,,RUS,22.8911704312,106357,,Q,Jae Hwan Kim,L,,KOR,20.1889117043,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,896,16,1274,5
 2014-M-FU-CAM-03A-2014,Cambodia F3,Hard,32,S,20141201,23,106321,,,Xin Gao,U,,CHN,20.5557837098,126112,,Q,Igor Zubov,L,,RUS,20.514715948,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,917,15,2127,1
 2014-M-FU-CAM-03A-2014,Cambodia F3,Hard,32,S,20141201,24,103175,2,,Toshihide Matsui,R,180,JPN,36.6187542779,122606,,Q,Yecong He,U,,CHN,20.7912388775,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,400,104,1348,4
-2014-M-FU-CAM-03A-2014,Cambodia F3,Hard,32,S,20141201,25,105946,1,,Liang Chi Huang,R,,TPE,22.7323750856,105464,6,,Christopher Rungkat,R,1.7,INA,24.8788501027,6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,306,159,644,39
+2014-M-FU-CAM-03A-2014,Cambodia F3,Hard,32,S,20141201,25,105946,1,,Liang Chi Huang,R,,TPE,22.7323750856,105464,6,,Christopher Rungkat,R,170,INA,24.8788501027,6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,306,159,644,39
 2014-M-FU-CAM-03A-2014,Cambodia F3,Hard,32,S,20141201,26,105006,,Q,Chu Huan Yi,L,,TPE,27.2525667351,104478,,,Hyun Woo Nam,R,,KOR,29.8918548939,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,1843,1,933,14
 2014-M-FU-CAM-03A-2014,Cambodia F3,Hard,32,S,20141201,27,104781,5,,Yuichi Ito,R,,JPN,28.3203285421,105892,,,Alexandr Igoshin,U,,RUS,22.8911704312,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,592,49,896,16
 2014-M-FU-CAM-03A-2014,Cambodia F3,Hard,32,S,20141201,28,103175,2,,Toshihide Matsui,R,180,JPN,36.6187542779,106321,,,Xin Gao,U,,CHN,20.5557837098,7-6(3) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,400,104,917,15
@@ -20151,7 +20151,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-QAT-04A-2014,Qatar F4,Hard,32,S,20141201,31,105638,3,,Daniel Cox,R,170,GBR,24.1752224504,104847,5,,Adrien Bossel,L,,SUI,27.9260780287,6-4 6-0,3,F,,,,,,,,,,,,,,,,,,,,319,147,344,127
 2014-M-FU-THA-11A-2014,Thailand F11,Hard,32,S,20141201,1,106034,1,,Yasutaka Uchiyama,R,183,JPN,22.3216974675,111800,,,Weiqiang Zheng,U,,CHN,18.4421629021,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,262,191,,
 2014-M-FU-THA-11A-2014,Thailand F11,Hard,32,S,20141201,2,111182,,WC,Singekrawee Wattanakul,R,,THA,19.3292265572,120596,,Q,Phaninthon Pakpoomkamol,U,,THA,22.7597535934,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1119,8,,
-2014-M-FU-THA-11A-2014,Thailand F11,Hard,32,S,20141201,3,106194,,WC,Nutthanon Kadchapanan,R,,THA,21.4839151266,122207,,Q,Roy Hobbs,U,,SIN,25.3004791239,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2014-M-FU-THA-11A-2014,Thailand F11,Hard,32,S,20141201,3,106194,,WC,Nutthanon Kadchapanan,R,,THA,21.4839151266,122207,,Q,Roy Hobbs,U,,SGP,25.3004791239,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2014-M-FU-THA-11A-2014,Thailand F11,Hard,32,S,20141201,4,103821,6,,Danai Udomchoke,R,173,THA,33.3059548255,121840,,WC,Chaleechan Tanasugarn,R,,THA,20.9336071184,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,360,118,1403,3
 2014-M-FU-THA-11A-2014,Thailand F11,Hard,32,S,20141201,5,105359,4,,Jason Jung,R,,TPE,25.4620123203,127148,,LL,Warot Udomsuk,U,,THA,19.2087611225,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,336,132,,
 2014-M-FU-THA-11A-2014,Thailand F11,Hard,32,S,20141201,6,144751,,Q,Rigele Te,U,,CHN,17.144421629,144976,,Q,Shane Marshall,U,,AUS,32.7529089665,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1458,3,,
@@ -20225,7 +20225,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-M-FU-TUR-43A-2014,Turkey F43,Hard,32,S,20141201,12,105841,3,,Lorenzo Giustino,R,,ITA,23.2251882272,111781,,,Janis Podzus,L,,LAT,20.424366872,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,359,118,778,24
 2014-M-FU-TUR-43A-2014,Turkey F43,Hard,32,S,20141201,13,106342,,,Martins Podzus,R,,LAT,20.424366872,105534,7,,Erik Crepaldi,L,,ITA,24.5776865161,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,638,40,467,81
 2014-M-FU-TUR-43A-2014,Turkey F43,Hard,32,S,20141201,14,144972,,Q,Geoffrey Blancaneaux,R,,FRA,16.3148528405,144834,,Q,Constant De La Bassetiere,U,,FRA,16.8569472964,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2014-M-FU-TUR-43A-2014,Turkey F43,Hard,32,S,20141201,15,105136,,,Andrei Plotniy,U,,RUS,26.6502395619,126170,,LL,Timur Kiuamov,U,,RUS,18.0862422998,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,757,27,1620,2
+2014-M-FU-TUR-43A-2014,Turkey F43,Hard,32,S,20141201,15,105136,,,Andrei Plotniy,U,,RUS,26.6502395619,126170,,LL,Timur Kiyamov,U,,RUS,18.0862422998,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,757,27,1620,2
 2014-M-FU-TUR-43A-2014,Turkey F43,Hard,32,S,20141201,16,106393,2,,Frederico Ferreira Silva,L,,POR,19.7070499658,122321,,,Marat Deviatiarov,R,,UKR,20.6187542779,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,300,162,602,47
 2014-M-FU-TUR-43A-2014,Turkey F43,Hard,32,S,20141201,17,105806,1,,Mirza Basic,R,188,BIH,23.3894592745,105796,,WC,Barkin Yalcinkale,U,,TUR,23.4360027379,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,253,195,993,12
 2014-M-FU-TUR-43A-2014,Turkey F43,Hard,32,S,20141201,18,110468,,,Romain Barbosa,R,,POR,20.6242299795,105824,8,,Kirill Dmitriev,U,,RUS,23.3127994524,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,678,36,513,66

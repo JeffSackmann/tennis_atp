@@ -623,7 +623,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-D028,Davis Cup G1 R1: POL vs LTU,Hard,4,D,20150306,5,105827,,,Laurynas Grigelis,R,183,LTU,23.5482546201,111794,,,Kamil Majchrzak,R,,POL,19.1321013005,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,361,122,351,126
 2015-D027,Davis Cup G1 R1: ROU vs ISR,Hard,4,D,20150306,1,104494,,,Adrian Ungur,R,178,ROU,30.0971937029,106299,,,Bar Tzuf Botzer,R,,ISR,20.9993155373,7-5 6-3 6-0,5,RR,,,,,,,,,,,,,,,,,,,,159,322,893,17
 2015-D027,Davis Cup G1 R1: ROU vs ISR,Hard,4,D,20150306,2,105657,,,Marius Copil,R,193,ROU,24.372347707,104534,,,Dudi Sela,R,175,ISR,29.9082819986,6-7(3) 7-6(3) 6-4 6-2,5,RR,,,,,,,,,,,,,,,,,,,,168,295,108,510
-2015-D027,Davis Cup G1 R1: ROU vs ISR,Hard,4,D,20150306,4,104494,,,Adrian Ungur,R,178,ROU,30.0971937029,122548,,,Edan Leshem,U,1.83,ISR,17.9520876112,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,159,322,1222,6
+2015-D027,Davis Cup G1 R1: ROU vs ISR,Hard,4,D,20150306,4,104494,,,Adrian Ungur,R,178,ROU,30.0971937029,122548,,,Edan Leshem,U,183,ISR,17.9520876112,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,159,322,1222,6
 2015-D027,Davis Cup G1 R1: ROU vs ISR,Hard,4,D,20150306,5,105657,,,Marius Copil,R,193,ROU,24.372347707,106299,,,Bar Tzuf Botzer,R,,ISR,20.9993155373,7-6(3) 6-3,3,RR,,,,,,,,,,,,,,,,,,,,168,295,893,17
 2015-D024,Davis Cup G1 R1: RUS vs DEN,Hard,4,D,20150306,1,104233,,,Frederik Nielsen,R,190,DEN,31.5126625599,105539,,,Evgeny Donskoy,R,185,RUS,24.8131416838,2-6 6-3 6-2 7-6(5),5,RR,,,,,,,,,,,,,,,,,,,,306,154,155,330
 2015-D024,Davis Cup G1 R1: RUS vs DEN,Hard,4,D,20150306,2,105723,,,Andrey Kuznetsov,R,185,RUS,24.0219028063,104952,,,Martin Pedersen,R,,DEN,27.7125256674,6-1 6-4 7-5,5,RR,,,,,,,,,,,,,,,,,,,,81,613,749,27
@@ -653,7 +653,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-D055,Davis Cup G2 R1: HUN vs MDA,Hard,4,D,20150306,2,105916,,,Marton Fucsovics,R,188,HUN,23.06091718,104603,,,Andrei Ciumac,L,,MDA,29.4729637235,6-0 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,,165,308,892,17
 2015-D055,Davis Cup G2 R1: HUN vs MDA,Hard,4,D,20150306,4,105916,,,Marton Fucsovics,R,188,HUN,23.06091718,105430,,,Radu Albot,R,175,MDA,25.3032169747,6-2 6-1 6-2,5,RR,,,,,,,,,,,,,,,,,,,,165,308,143,382
 2015-D055,Davis Cup G2 R1: HUN vs MDA,Hard,4,D,20150306,5,121896,,,Gabor Borsos,U,,HUN,23.6714579055,145023,,,Maxim Bulat,,,MDA,17.954825462,6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,,945,14,,
-2015-D045,Davis Cup G2 R1: INA vs IRI,Hard,4,D,20150306,1,105464,,,Christopher Rungkat,R,1.7,INA,25.1279945243,105566,,,Shahin Khaledan,R,,IRI,24.733744011,6-2 6-1 6-0,5,RR,,,,,,,,,,,,,,,,,,,,582,52,1581,2
+2015-D045,Davis Cup G2 R1: INA vs IRI,Hard,4,D,20150306,1,105464,,,Christopher Rungkat,R,170,INA,25.1279945243,105566,,,Shahin Khaledan,R,,IRI,24.733744011,6-2 6-1 6-0,5,RR,,,,,,,,,,,,,,,,,,,,582,52,1581,2
 2015-D045,Davis Cup G2 R1: INA vs IRI,Hard,4,D,20150306,2,104909,,,Sunu Wahyu Trijati,R,,INA,27.8494182067,103875,,,Anoosha Shahgholi,U,,IRI,33.3059548255,6-3 6-1 6-0,5,RR,,,,,,,,,,,,,,,,,,,,,,1394,4
 2015-D045,Davis Cup G2 R1: INA vs IRI,Hard,4,D,20150306,4,105812,,,David Agung Susanto,U,,INA,23.613963039,105606,,,Mohsen Hossein Zade,U,,IRI,24.5722108145,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,1682,2,1506,3
 2015-D045,Davis Cup G2 R1: INA vs IRI,Hard,4,D,20150306,5,105177,,,Aditya Hari Sasongko,U,,INA,26.6584531143,105566,,,Shahin Khaledan,R,,IRI,24.733744011,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,1581,2
@@ -1863,9 +1863,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-D064,Davis Cup G2 PO: RSA vs IRL,Hard,4,D,20150717,4,120401,,,Tucker Vorster,U,,RSA,26.855578371,104945,,,James Mcgee,R,183,IRL,28.090349076,6-1 7-5,3,RR,,,,,,,,,,,,,,,,,,,,334,140,150,355
 2015-D064,Davis Cup G2 PO: RSA vs IRL,Hard,4,D,20150717,5,105434,,,Ruan Roelofse,R,,RSA,25.6481861739,105909,,,Sam Barry,R,,IRL,23.4579055441,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,421,98,425,96
 2015-D068,Davis Cup G2 PO: SRI vs LIB,Clay,4,D,20150717,1,134886,,,Sharmal Dissanayake,R,,SRI,19.1622176591,134114,,,Jad Ballout,U,,TPE,18.803559206,6-3 6-2 2-1 RET,5,RR,,,,,,,,,,,,,,,,,,,,2018,1,,
-2015-D068,Davis Cup G2 PO: SRI vs LIB,Clay,4,D,20150717,2,104631,,,Harshana Godamanna,L,,SRI,29.697467488,200273,,,Hady Habib,U,,LIB,16.8925393566,7-5 6-3 6-3,5,RR,,,,,,,,,,,,,,,,,,,,,,,
-2015-D068,Davis Cup G2 PO: SRI vs LIB,Clay,4,D,20150717,4,200273,,,Hady Habib,U,,LIB,16.8925393566,134886,,,Sharmal Dissanayake,R,,SRI,19.1622176591,7-5 6-4 4-6 4-6 6-3,5,RR,,,,,,,,,,,,,,,,,,,,,,2018,1
-2015-D068,Davis Cup G2 PO: SRI vs LIB,Clay,4,D,20150717,5,104631,,,Harshana Godamanna,L,,SRI,29.697467488,133301,,,Giovani Samaha,L,,LIB,20.9965776865,6-3 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,,,,1573,2
+2015-D068,Davis Cup G2 PO: SRI vs LIB,Clay,4,D,20150717,2,104631,,,Harshana Godamanna,L,,SRI,29.697467488,200273,,,Hady Habib,U,,LBN,16.8925393566,7-5 6-3 6-3,5,RR,,,,,,,,,,,,,,,,,,,,,,,
+2015-D068,Davis Cup G2 PO: SRI vs LIB,Clay,4,D,20150717,4,200273,,,Hady Habib,U,,LBN,16.8925393566,134886,,,Sharmal Dissanayake,R,,SRI,19.1622176591,7-5 6-4 4-6 4-6 6-3,5,RR,,,,,,,,,,,,,,,,,,,,,,2018,1
+2015-D068,Davis Cup G2 PO: SRI vs LIB,Clay,4,D,20150717,5,104631,,,Harshana Godamanna,L,,SRI,29.697467488,133301,,,Giovani Samaha,L,,LBN,20.9965776865,6-3 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,,,,1573,2
 2015-D066,Davis Cup G2 PO: ZIM vs MDA,Hard,4,D,20150717,1,105626,,,Takanyi Garanganga,R,,ZIM,24.848733744,145023,,,Maxim Bulat,,,MDA,18.3189596167,6-1 6-2 6-1,5,RR,,,,,,,,,,,,,,,,,,,,398,106,,
 2015-D066,Davis Cup G2 PO: ZIM vs MDA,Hard,4,D,20150717,2,111761,,,Benjamin Lock,R,,ZIM,22.3572895277,132566,,,Dmitrii Baskov,R,,MDA,20.5639972621,6-2 6-0 6-2,5,RR,,,,,,,,,,,,,,,,,,,,701,34,2018,1
 2015-D066,Davis Cup G2 PO: ZIM vs MDA,Hard,4,D,20150717,4,105626,,,Takanyi Garanganga,R,,ZIM,24.848733744,122513,,,Andrei Soltoianu,R,,MDA,21.7713894593,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,398,106,,
@@ -2540,7 +2540,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-568,St. Petersburg,Hard,28,A,20150921,6,104797,,,Denis Istomin,R,188,UZB,29.0376454483,105062,8,,Mikhail Kukushkin,R,183,KAZ,27.7371663244,7-6(4) 2-6 6-2,3,R32,,8,2,100,60,46,18,14,7,10,2,2,95,51,37,21,14,1,4,62,751,48,922
 2015-568,St. Petersburg,Hard,28,A,20150921,7,105668,,,Jerzy Janowicz,R,203,POL,24.8542094456,105332,6,,Benoit Paire,R,196,FRA,26.3709787817,6-4 3-0 RET,3,R32,,3,1,32,23,19,5,6,0,0,4,1,57,26,17,13,7,7,10,66,730,32,1187
 2015-568,St. Petersburg,Hard,28,A,20150921,8,106298,,,Lucas Pouille,R,185,FRA,21.5742642026,105575,,,Ricardas Berankis,R,175,LTU,25.2511978097,7-6(9) 3-6 7-6(4),3,R32,,9,7,135,70,52,29,17,12,17,8,9,124,65,47,29,16,6,9,75,685,72,690
-2015-568,St. Petersburg,Hard,28,A,20150921,9,104559,,,Teymuraz Gabashvili,R,188,RUS,30.3299110198,106138,,Q,Yaraslau Shyla,R,,BLR,22.546201232,6-2 6-2,3,R32,,4,2,49,22,19,17,8,3,3,5,4,49,29,21,4,8,2,6,57,822,366,117
+2015-568,St. Petersburg,Hard,28,A,20150921,9,104559,,,Teymuraz Gabashvili,R,188,RUS,30.3299110198,106138,,Q,Yaraslav Shyla,R,,BLR,22.546201232,6-2 6-2,3,R32,,4,2,49,22,19,17,8,3,3,5,4,49,29,21,4,8,2,6,57,822,366,117
 2015-568,St. Petersburg,Hard,28,A,20150921,10,103990,5,,Tommy Robredo,R,180,ESP,33.3908281999,104022,,WC,Mikhail Youzhny,R,183,RUS,33.2402464066,6-4 3-6 6-3,3,R32,,1,2,87,45,30,26,14,7,9,2,1,72,35,27,22,14,0,3,27,1315,92,581
 2015-568,St. Petersburg,Hard,28,A,20150921,11,104571,,,Marcos Baghdatis,R,183,CYP,30.2614647502,105208,,,Ernests Gulbis,R,190,LAT,27.0581793292,6-4 4-6 6-3,3,R32,,7,2,73,39,30,22,14,1,3,4,9,123,68,48,22,15,11,15,52,882,68,710
 2015-568,St. Petersburg,Hard,28,A,20150921,12,105539,,WC,Evgeny Donskoy,R,185,RUS,25.3689253936,105098,,Q,Alexandre Sidorenko,R,,FRA,27.5893223819,6-2 6-4,3,R32,,4,3,53,30,23,15,9,6,7,3,4,49,26,18,8,9,2,6,117,462,508,70
