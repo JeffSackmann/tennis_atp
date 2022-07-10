@@ -831,7 +831,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1999-D034,Davis Cup G2 QF: CUB vs HAI,Hard,4,D,19990402,4,108801,,,Jorge Catala,U,,CUB,20.7,108803,,,Jean Max Mangones,U,,HAI,23.4,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1999-D034,Davis Cup G2 QF: CUB vs HAI,Hard,4,D,19990402,5,108674,,,Jerry Joseph,U,,HAI,18.8,108651,,,Sandor Martinez Breijo,R,,CUB,18.0,6-4 4-6 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1999-D040,Davis Cup G2 QF: DOM vs PER,Hard,4,D,19990402,1,103632,,,Luis Horna,R,180,PER,18.5,108615,,,Genaro Deleon,U,,DOM,28.1,6-2 3-6 6-3 6-3,5,RR,,,,,,,,,,,,,,,,,,,,256,158,,
-1999-D040,Davis Cup G2 QF: DOM vs PER,Hard,4,D,19990402,2,108585,,,Americo Venero Montes,U,,PER,27.0,108634,,,Rodrigo Vallejo,U,,DOM,25.0,7-5 2-6 7-6(3) 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,,
+1999-D040,Davis Cup G2 QF: DOM vs PER,Hard,4,D,19990402,2,108585,,,Americo Venero Montes,U,175,PER,27.0,108634,,,Rodrigo Vallejo,U,,DOM,25.0,7-5 2-6 7-6(3) 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1999-D040,Davis Cup G2 QF: DOM vs PER,Hard,4,D,19990402,4,108686,,,Alejandro Aramburu Acuna,R,,PER,30.1,103638,,,Jhonson Garcia,R,,DOM,18.4,6-3 4-6 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1999-D040,Davis Cup G2 QF: DOM vs PER,Hard,4,D,19990402,5,108615,,,Genaro Deleon,U,,DOM,28.1,103525,,,Ivan Miranda,R,175,PER,19.0,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,1136,4
 1999-D072,Davis Cup G2 QF: MEX vs PAR,Hard,4,D,19990402,1,103060,,,Alejandro Hernandez,R,180,MEX,21.4,102830,,,Paulo Carvallo,R,,PAR,22.7,6-4 6-4 6-0,5,RR,,,,,,,,,,,,,,,,,,,,162,291,470,56
@@ -2824,9 +2824,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1999-D013,Davis Cup G1 PO: VEN vs BAH,Hard,4,D,19990924,2,101862,,,Maurice Ruah,R,178,VEN,28.5,102076,,,Mark Merklein,R,188,BAH,27.2,7-5 5-7 6-7(5) 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,197,216,871,10
 1999-D013,Davis Cup G1 PO: VEN vs BAH,Hard,4,D,19990924,4,101956,,,Mark Knowles,R,190,BAH,28.0,101862,,,Maurice Ruah,R,178,VEN,28.5,7-6(2) 1-6 0-6 7-5 6-3,5,RR,,,,,,,,,,,,,,,,,,,,275,141,197,216
 1999-D073,Davis Cup G2 F: PER vs MEX,Clay,4,D,19990924,1,103632,,,Luis Horna,R,180,PER,19.0,101955,,,Luis Herrera,L,170,MEX,28.0,6-4 6-3 6-4,5,RR,,,,,,,,,,,,,,,,,,,,165,252,598,32
-1999-D073,Davis Cup G2 F: PER vs MEX,Clay,4,D,19990924,2,103060,,,Alejandro Hernandez,R,180,MEX,21.9,108585,,,Americo Venero Montes,U,,PER,27.5,7-5 6-7(3) 6-2 2-6 6-4,5,RR,,,,,,,,,,,,,,,,,,,,174,239,,
+1999-D073,Davis Cup G2 F: PER vs MEX,Clay,4,D,19990924,2,103060,,,Alejandro Hernandez,R,180,MEX,21.9,108585,,,Americo Venero Montes,U,175,PER,27.5,7-5 6-7(3) 6-2 2-6 6-4,5,RR,,,,,,,,,,,,,,,,,,,,174,239,,
 1999-D073,Davis Cup G2 F: PER vs MEX,Clay,4,D,19990924,4,103632,,,Luis Horna,R,180,PER,19.0,103060,,,Alejandro Hernandez,R,180,MEX,21.9,6-1 6-1 6-4,5,RR,,,,,,,,,,,,,,,,,,,,165,252,174,239
-1999-D073,Davis Cup G2 F: PER vs MEX,Clay,4,D,19990924,5,108585,,,Americo Venero Montes,U,,PER,27.5,101955,,,Luis Herrera,L,170,MEX,28.0,6-3 6-4 1-6 6-3,5,RR,,,,,,,,,,,,,,,,,,,,,,598,32
+1999-D073,Davis Cup G2 F: PER vs MEX,Clay,4,D,19990924,5,108585,,,Americo Venero Montes,U,175,PER,27.5,101955,,,Luis Herrera,L,170,MEX,28.0,6-3 6-4 1-6 6-3,5,RR,,,,,,,,,,,,,,,,,,,,,,598,32
 1999-D077,Davis Cup G2 F: THA vs PHI,Hard,4,D,19990924,1,102462,,,Bryan Juinio,R,,USA,24.9,103821,,,Danai Udomchoke,R,173,THA,18.1,6-4 7-6(6) 7-6(8),5,RR,,,,,,,,,,,,,,,,,,,,974,7,366,93
 1999-D077,Davis Cup G2 F: THA vs PHI,Hard,4,D,19990924,2,103387,,,Paradorn Srichaphan,R,185,THA,20.2,101563,,,Joseph Lizardo,R,,PHI,30.6,6-7(3) 6-3 6-2 7-6(10),5,RR,,,,,,,,,,,,,,,,,,,,168,245,1156,3
 1999-D077,Davis Cup G2 F: THA vs PHI,Hard,4,D,19990924,4,103387,,,Paradorn Srichaphan,R,185,THA,20.2,102462,,,Bryan Juinio,R,,USA,24.9,3-6 6-3 6-2 6-7(6) 6-3,5,RR,,,,,,,,,,,,,,,,,,,,168,245,974,7

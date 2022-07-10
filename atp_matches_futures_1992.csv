@@ -2098,7 +2098,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-GER-02A-1992a,Germany 2 Masters 1,Clay,32,S,19920420,5,101582,4,,Gilbert Schaller,R,180,AUT,23.0,101508,,Q,Magnus Zeile,R,,SWE,23.6,6-4 1-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,303,76,491,29
 1992-M-SA-GER-02A-1992a,Germany 2 Masters 1,Clay,32,S,19920420,6,106880,,,Diego Varela,R,,ARG,23.1,101217,,Q,Andreas Lesch,L,196,GER,26.2,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,425,42,976,3
 1992-M-SA-GER-02A-1992a,Germany 2 Masters 1,Clay,32,S,19920420,7,100113,,,Jan Kodes,R,175,CZE,46.1,102006,,,Brent Larkham,R,178,AUS,20.2,4-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1118,1,360,57
-1992-M-SA-GER-02A-1992a,Germany 2 Masters 1,Clay,32,S,19920420,8,101473,,LL,Jozsef Krocsko,R,180,HUN,24.0,101105,6,,Jose Antonio Fernandez,R,,CHI,27.2,3-6 6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,510,27,318,70
+1992-M-SA-GER-02A-1992a,Germany 2 Masters 1,Clay,32,S,19920420,8,101473,,LL,Jozsef Krocsko,R,180,HUN,24.0,101105,6,,Jose Antonio Fernandez,R,170,CHI,27.2,3-6 6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,510,27,318,70
 1992-M-SA-GER-02A-1992a,Germany 2 Masters 1,Clay,32,S,19920420,9,101143,5,,Branislav Stankovic,R,175,SVK,26.8,101978,,Q,Marcelo Rebolledo,R,,CHI,20.4,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,311,75,463,34
 1992-M-SA-GER-02A-1992a,Germany 2 Masters 1,Clay,32,S,19920420,10,101672,,,Michael Geserer,R,190,GER,22.3,101270,,,Thomas Gollwitzer,R,178,GER,25.7,6-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,357,58,376,53
 1992-M-SA-GER-02A-1992a,Germany 2 Masters 1,Clay,32,S,19920420,11,101015,,LL,Stefan Eggmayer,R,,GER,28.1,102247,,Q,Andrea Gaudenzi,R,183,ITA,18.7,0-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,408,46,561,23
@@ -2137,7 +2137,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-GER-02A-1992b,Germany 2 Masters 2,Clay,32,S,19920420,13,101672,7,,Michael Geserer,R,190,GER,22.3,101508,,,Magnus Zeile,R,,SWE,23.6,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,357,58,491,29
 1992-M-SA-GER-02A-1992b,Germany 2 Masters 2,Clay,32,S,19920420,14,106880,,,Diego Varela,R,,ARG,23.1,107886,,,Oliver Vogt,R,,GER,,6-3 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,425,42,425,42
 1992-M-SA-GER-02A-1992b,Germany 2 Masters 2,Clay,32,S,19920420,15,101978,,,Marcelo Rebolledo,R,,CHI,20.4,101055,,Q,Heiner Moraing,R,190,GER,27.7,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,463,34,747,9
-1992-M-SA-GER-02A-1992b,Germany 2 Masters 2,Clay,32,S,19920420,16,102247,,Q,Andrea Gaudenzi,R,183,ITA,18.7,101105,2,,Jose Antonio Fernandez,R,,CHI,27.2,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,561,23,318,70
+1992-M-SA-GER-02A-1992b,Germany 2 Masters 2,Clay,32,S,19920420,16,102247,,Q,Andrea Gaudenzi,R,183,ITA,18.7,101105,2,,Jose Antonio Fernandez,R,170,CHI,27.2,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,561,23,318,70
 1992-M-SA-GER-02A-1992b,Germany 2 Masters 2,Clay,32,S,19920420,17,101388,,Q,Gerardo Mirad,R,180,ARG,24.6,107775,,Q,Michael Kocher,R,,GER,,6-4 3-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1118,1,747,9
 1992-M-SA-GER-02A-1992b,Germany 2 Masters 2,Clay,32,S,19920420,18,102521,,WC,Hendrik Dreekmann,R,188,GER,17.2,101473,,,Jozsef Krocsko,R,180,HUN,24.0,5-7 6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,909,5,510,27
 1992-M-SA-GER-02A-1992b,Germany 2 Masters 2,Clay,32,S,19920420,19,101634,4,,Milan Palme,R,183,GER,22.6,101622,,Q,Jorgen Nilsson,R,,SWE,22.7,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,334,63,565,22
@@ -2356,7 +2356,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-ESP-03A-1992a,Spain 3 Masters 1,Hard,32,S,19920420,31,101888,,Q,Daniel Vacek,R,190,CZE,21.0,101869,2,,Juan Luis Tati Rascon,R,,ESP,21.1,6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,343,60,292,80
 1992-M-SA-ESP-03A-1992b,Spain 3 Masters 2,Hard,32,S,19920420,1,101227,1,,Daniel Marco,R,178,ESP,26.2,123004,,WC,Sergio Contreras Farinas,U,,ESP,17.5,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,266,98,,
 1992-M-SA-ESP-03A-1992b,Spain 3 Masters 2,Hard,32,S,19920420,2,101472,,Q,Tino Anda,R,180,ESP,24.0,122962,,,Antonio Torregrosa Cerdan,U,,ESP,21.0,7-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,829,6,,
-1992-M-SA-ESP-03A-1992b,Spain 3 Masters 2,Hard,32,S,19920420,3,102426,,Q,Juan Ignacio Carrasco,L,185,ESP,17.7,109771,,WC,Jairo Velasco,R,,ESP,44.9,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1992-M-SA-ESP-03A-1992b,Spain 3 Masters 2,Hard,32,S,19920420,3,102426,,Q,Juan Ignacio Carrasco,L,185,ESP,17.7,109771,,WC,Jairo Velasco,R,173,ESP,44.9,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1992-M-SA-ESP-03A-1992b,Spain 3 Masters 2,Hard,32,S,19920420,4,102273,8,,David Salvador Estepa,R,,ESP,18.4,107067,,,Gavin Pfitzner,R,,AUS,,7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,501,28,711,11
 1992-M-SA-ESP-03A-1992b,Spain 3 Masters 2,Hard,32,S,19920420,5,101207,4,,Michael Daniel,R,188,ISR,26.4,124440,,WC,Manuel Gomez Pena,U,,ESP,17.8,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,394,50,,
 1992-M-SA-ESP-03A-1992b,Spain 3 Masters 2,Hard,32,S,19920420,6,102204,,Q,Nebojsa Djordjevic,R,190,SRB,18.9,101292,,,Mike Chinchiolo,R,,USA,25.5,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,857,6,705,11
@@ -2394,7 +2394,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-ESP-03A-1992c,Spain 3 Masters 3,Hard,32,S,19920420,7,102426,,Q,Juan Ignacio Carrasco,L,185,ESP,17.7,123169,,Q,Robby Budachek,R,,ISR,21.3,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1992-M-SA-ESP-03A-1992c,Spain 3 Masters 3,Hard,32,S,19920420,8,101826,6,,Alex Lopez Moron,R,175,ESP,21.3,111625,,Q,Michael Mcmahon,U,,IRL,17.2,6-7 6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,429,42,,
 1992-M-SA-ESP-03A-1992c,Spain 3 Masters 3,Hard,32,S,19920420,9,101815,5,,Sergio Gomez Barrio,R,,ESP,21.5,102397,,,Jose Imaz Ruiz,R,178,ESP,17.8,7-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,608,19,976,3
-1992-M-SA-ESP-03A-1992c,Spain 3 Masters 3,Hard,32,S,19920420,10,109771,,WC,Jairo Velasco,R,,ESP,44.9,101858,,,Gilles Bastie,R,,FRA,21.1,4-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,857,6
+1992-M-SA-ESP-03A-1992c,Spain 3 Masters 3,Hard,32,S,19920420,10,109771,,WC,Jairo Velasco,R,173,ESP,44.9,101858,,,Gilles Bastie,R,,FRA,21.1,4-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,857,6
 1992-M-SA-ESP-03A-1992c,Spain 3 Masters 3,Hard,32,S,19920420,11,102414,,Q,Jerome Loustalot,R,,FRA,17.8,102204,,,Nebojsa Djordjevic,R,190,SRB,18.9,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,912,4,857,6
 1992-M-SA-ESP-03A-1992c,Spain 3 Masters 3,Hard,32,S,19920420,12,102650,,,Roberto Carretero,R,178,ESP,16.6,102273,3,,David Salvador Estepa,R,,ESP,18.4,6-2 3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,501,28
 1992-M-SA-ESP-03A-1992c,Spain 3 Masters 3,Hard,32,S,19920420,13,122962,,,Antonio Torregrosa Cerdan,U,,ESP,21.0,102229,8,,Stephen Gleeson,R,,AUS,18.8,7-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,545,24
@@ -2405,7 +2405,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-ESP-03A-1992c,Spain 3 Masters 3,Hard,32,S,19920420,18,122986,7,,Jesus Manteca Jurado,U,,ESP,23.3,122996,,,Jordi Vila Vila,U,,AND,21.2,6-7 6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 1992-M-SA-ESP-03A-1992c,Spain 3 Masters 3,Hard,32,S,19920420,19,101207,4,,Michael Daniel,R,188,ISR,26.4,101982,,Q,Jordi Mas,R,,ESP,20.4,4-6 7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,394,50,474,33
 1992-M-SA-ESP-03A-1992c,Spain 3 Masters 3,Hard,32,S,19920420,20,102426,,Q,Juan Ignacio Carrasco,L,185,ESP,17.7,101826,6,,Alex Lopez Moron,R,175,ESP,21.3,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,429,42
-1992-M-SA-ESP-03A-1992c,Spain 3 Masters 3,Hard,32,S,19920420,21,101815,5,,Sergio Gomez Barrio,R,,ESP,21.5,109771,,WC,Jairo Velasco,R,,ESP,44.9,6-7 7-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,608,19,,
+1992-M-SA-ESP-03A-1992c,Spain 3 Masters 3,Hard,32,S,19920420,21,101815,5,,Sergio Gomez Barrio,R,,ESP,21.5,109771,,WC,Jairo Velasco,R,173,ESP,44.9,6-7 7-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,608,19,,
 1992-M-SA-ESP-03A-1992c,Spain 3 Masters 3,Hard,32,S,19920420,22,102414,,Q,Jerome Loustalot,R,,FRA,17.8,102650,,,Roberto Carretero,R,178,ESP,16.6,6-2 2-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,912,4,,
 1992-M-SA-ESP-03A-1992c,Spain 3 Masters 3,Hard,32,S,19920420,23,122962,,,Antonio Torregrosa Cerdan,U,,ESP,21.0,101292,,,Mike Chinchiolo,R,,USA,25.5,6-3 2-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,705,11
 1992-M-SA-ESP-03A-1992c,Spain 3 Masters 3,Hard,32,S,19920420,24,101227,,,Daniel Marco,R,178,ESP,26.2,117527,,WC,Oscar Martinez Dieguez,R,,ESP,18.1,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,266,98,,
@@ -2682,7 +2682,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-DOM-01A-1992a,Caribbean 1 Masters 1,Clay,32,S,19920504,5,106695,4,,Carlos Claverie,R,,VEN,29.3,102192,,,Luis Adrian Morejon,R,178,ECU,19.1,5-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,410,44,641,15
 1992-M-SA-DOM-01A-1992a,Caribbean 1 Masters 1,Clay,32,S,19920504,6,110816,,Q,Valerio Boccito,U,,VEN,26.2,108615,,WC,Genaro Deleon,U,,DOM,21.2,6-0 5-7 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1992-M-SA-DOM-01A-1992a,Caribbean 1 Masters 1,Clay,32,S,19920504,7,102064,,,Ernesto Diaz,R,,CHI,19.9,122875,,LL,Emerson Kappler,U,,VEN,16.5,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,642,15,,
-1992-M-SA-DOM-01A-1992a,Caribbean 1 Masters 1,Clay,32,S,19920504,8,108585,5,,Americo Venero Montes,U,,PER,20.1,107196,,,Hernan Chousa,R,,ARG,,7-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,,,1089,2
+1992-M-SA-DOM-01A-1992a,Caribbean 1 Masters 1,Clay,32,S,19920504,8,108585,5,,Americo Venero Montes,U,175,PER,20.1,107196,,,Hernan Chousa,R,,ARG,,7-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,,,1089,2
 1992-M-SA-DOM-01A-1992a,Caribbean 1 Masters 1,Clay,32,S,19920504,9,107931,6,,Patricio Quijano,R,,MEX,,102655,,Q,Jimy Szymanski,R,175,VEN,16.6,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,525,26,,
 1992-M-SA-DOM-01A-1992a,Caribbean 1 Masters 1,Clay,32,S,19920504,10,108114,,Q,Robert Kresberg,R,,USA,,122876,,LL,Antonio Fanianos,U,,VEN,22.3,6-4 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,755,9,,
 1992-M-SA-DOM-01A-1992a,Caribbean 1 Masters 1,Clay,32,S,19920504,11,108070,,,Reto Staubli,R,,SUI,,101518,,Q,Sandro Della Piana,R,,SUI,23.6,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,564,22,1046,2
@@ -2694,7 +2694,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-DOM-01A-1992a,Caribbean 1 Masters 1,Clay,32,S,19920504,17,101328,1,,Mihnea Ion Nastase,R,183,ROU,25.2,108294,,Q,Stelian Gima,R,,ROU,,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,324,69,812,7
 1992-M-SA-DOM-01A-1992a,Caribbean 1 Masters 1,Clay,32,S,19920504,18,101330,,,Tim Donovan,R,175,USA,25.2,110813,,WC,Rafael Moreno,U,,DOM,31.8,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,722,10,,
 1992-M-SA-DOM-01A-1992a,Caribbean 1 Masters 1,Clay,32,S,19920504,19,106695,4,,Carlos Claverie,R,,VEN,29.3,110816,,Q,Valerio Boccito,U,,VEN,26.2,6-4 4-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,,410,44,,
-1992-M-SA-DOM-01A-1992a,Caribbean 1 Masters 1,Clay,32,S,19920504,20,102064,,,Ernesto Diaz,R,,CHI,19.9,108585,5,,Americo Venero Montes,U,,PER,20.1,2-6 7-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,642,15,,
+1992-M-SA-DOM-01A-1992a,Caribbean 1 Masters 1,Clay,32,S,19920504,20,102064,,,Ernesto Diaz,R,,CHI,19.9,108585,5,,Americo Venero Montes,U,175,PER,20.1,2-6 7-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,642,15,,
 1992-M-SA-DOM-01A-1992a,Caribbean 1 Masters 1,Clay,32,S,19920504,21,107931,6,,Patricio Quijano,R,,MEX,,108114,,Q,Robert Kresberg,R,,USA,,6-3 2-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,525,26,755,9
 1992-M-SA-DOM-01A-1992a,Caribbean 1 Masters 1,Clay,32,S,19920504,22,108070,,,Reto Staubli,R,,SUI,,101588,3,,Jason Netter,R,178,USA,23.0,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,564,22,385,50
 1992-M-SA-DOM-01A-1992a,Caribbean 1 Masters 1,Clay,32,S,19920504,23,101873,8,,Valentin Frieden,R,,SUI,21.1,107762,,WC,Maxsy Jimenez,R,,VEN,18.8,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,542,24,,
@@ -2713,7 +2713,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-DOM-01A-1992b,Caribbean 1 Masters 2,Clay,32,S,19920504,5,106695,4,,Carlos Claverie,R,,VEN,29.3,124329,,Q,Michael Rafferty,U,,USA,24.2,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,410,44,,
 1992-M-SA-DOM-01A-1992b,Caribbean 1 Masters 2,Clay,32,S,19920504,6,102243,,SE,Marcelo Charpentier,L,180,ARG,18.8,102064,,,Ernesto Diaz,R,,CHI,19.9,4-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1024,3,642,15
 1992-M-SA-DOM-01A-1992b,Caribbean 1 Masters 2,Clay,32,S,19920504,7,101597,,,Louis Gloria,L,175,USA,23.0,122877,,Q,Rodrigo Diaz,U,,VEN,21.0,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,602,18,,
-1992-M-SA-DOM-01A-1992b,Caribbean 1 Masters 2,Clay,32,S,19920504,8,107762,,Q,Maxsy Jimenez,R,,VEN,18.8,108585,5,,Americo Venero Montes,U,,PER,20.1,6-3 1-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1992-M-SA-DOM-01A-1992b,Caribbean 1 Masters 2,Clay,32,S,19920504,8,107762,,Q,Maxsy Jimenez,R,,VEN,18.8,108585,5,,Americo Venero Montes,U,175,PER,20.1,6-3 1-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1992-M-SA-DOM-01A-1992b,Caribbean 1 Masters 2,Clay,32,S,19920504,9,107931,6,,Patricio Quijano,R,,MEX,,107196,,Q,Hernan Chousa,R,,ARG,,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,525,26,1089,2
 1992-M-SA-DOM-01A-1992b,Caribbean 1 Masters 2,Clay,32,S,19920504,10,110929,,WC,Salvador Colvee,U,,VEN,24.0,107282,,Q,Janne Kiilavirta,R,,FIN,23.8,6-3 7-6,3,R32,,,,,,,,,,,,,,,,,,,,,,821,7
 1992-M-SA-DOM-01A-1992b,Caribbean 1 Masters 2,Clay,32,S,19920504,11,102214,,,Oscar Ortiz,L,183,MEX,18.9,108615,,WC,Genaro Deleon,U,,DOM,21.2,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,610,18,,
@@ -2746,7 +2746,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-DOM-01A-1992c,Caribbean 1 Masters 3,Clay,32,S,19920504,7,101597,,,Louis Gloria,L,175,USA,23.0,101541,,Q,Matthew Stroyman,R,,USA,23.4,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,602,18,1046,2
 1992-M-SA-DOM-01A-1992c,Caribbean 1 Masters 3,Clay,32,S,19920504,8,101229,6,,Paul Koscielski,R,180,USA,26.2,102133,,WC,Laurence Tieleman,R,180,ITA,19.4,7-5 6-7 7-6,3,R32,,,,,,,,,,,,,,,,,,,,529,25,340,61
 1992-M-SA-DOM-01A-1992c,Caribbean 1 Masters 3,Clay,32,S,19920504,9,101588,,,Jason Netter,R,178,USA,23.0,101873,5,,Valentin Frieden,R,,SUI,21.1,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,385,50,542,24
-1992-M-SA-DOM-01A-1992c,Caribbean 1 Masters 3,Clay,32,S,19920504,10,108585,,,Americo Venero Montes,U,,PER,20.1,124329,,Q,Michael Rafferty,U,,USA,24.2,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1992-M-SA-DOM-01A-1992c,Caribbean 1 Masters 3,Clay,32,S,19920504,10,108585,,,Americo Venero Montes,U,175,PER,20.1,124329,,Q,Michael Rafferty,U,,USA,24.2,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1992-M-SA-DOM-01A-1992c,Caribbean 1 Masters 3,Clay,32,S,19920504,11,108294,,,Stelian Gima,R,,ROU,,102192,,SE,Luis Adrian Morejon,R,178,ECU,19.1,7-6 1-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,812,7,641,15
 1992-M-SA-DOM-01A-1992c,Caribbean 1 Masters 3,Clay,32,S,19920504,12,110816,3,,Valerio Boccito,U,,VEN,26.2,100968,,Q,Sylvano Simone,R,,ITA,28.5,6-1 7-6,3,R32,,,,,,,,,,,,,,,,,,,,,,878,5
 1992-M-SA-DOM-01A-1992c,Caribbean 1 Masters 3,Clay,32,S,19920504,13,102214,,,Oscar Ortiz,L,183,MEX,18.9,108070,7,,Reto Staubli,R,,SUI,,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,610,18,564,22
@@ -2757,7 +2757,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-DOM-01A-1992c,Caribbean 1 Masters 3,Clay,32,S,19920504,18,102064,8,,Ernesto Diaz,R,,CHI,19.9,108114,,,Robert Kresberg,R,,USA,,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,642,15,755,9
 1992-M-SA-DOM-01A-1992c,Caribbean 1 Masters 3,Clay,32,S,19920504,19,107931,4,,Patricio Quijano,R,,MEX,,107762,,,Maxsy Jimenez,R,,VEN,18.8,6-4 3-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,525,26,,
 1992-M-SA-DOM-01A-1992c,Caribbean 1 Masters 3,Clay,32,S,19920504,20,101229,6,,Paul Koscielski,R,180,USA,26.2,101597,,,Louis Gloria,L,175,USA,23.0,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,529,25,602,18
-1992-M-SA-DOM-01A-1992c,Caribbean 1 Masters 3,Clay,32,S,19920504,21,101588,,,Jason Netter,R,178,USA,23.0,108585,,,Americo Venero Montes,U,,PER,20.1,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,385,50,,
+1992-M-SA-DOM-01A-1992c,Caribbean 1 Masters 3,Clay,32,S,19920504,21,101588,,,Jason Netter,R,178,USA,23.0,108585,,,Americo Venero Montes,U,175,PER,20.1,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,385,50,,
 1992-M-SA-DOM-01A-1992c,Caribbean 1 Masters 3,Clay,32,S,19920504,22,110816,3,,Valerio Boccito,U,,VEN,26.2,108294,,,Stelian Gima,R,,ROU,,6-7 7-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,,,,812,7
 1992-M-SA-DOM-01A-1992c,Caribbean 1 Masters 3,Clay,32,S,19920504,23,101261,,SE,Axel Hornung,R,180,GER,25.9,102214,,,Oscar Ortiz,L,183,MEX,18.9,6-3 0-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,731,10,610,18
 1992-M-SA-DOM-01A-1992c,Caribbean 1 Masters 3,Clay,32,S,19920504,24,101330,,,Tim Donovan,R,175,USA,25.2,101838,,Q,Pablo Minutella,R,,ARG,21.3,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,722,10,818,7
@@ -2773,7 +2773,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-DOM-01A-1992d,Caribbean 1 Masters 4,Clay,24,S,19920504,3,101838,,,Pablo Minutella,R,,ARG,21.3,108070,,,Reto Staubli,R,,SUI,,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,818,7,564,22
 1992-M-SA-DOM-01A-1992d,Caribbean 1 Masters 4,Clay,24,S,19920504,4,102214,,,Oscar Ortiz,L,183,MEX,18.9,102251,,,Mariano Hood,L,178,ARG,18.7,7-5 3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,610,18,,
 1992-M-SA-DOM-01A-1992d,Caribbean 1 Masters 4,Clay,24,S,19920504,5,107762,,,Maxsy Jimenez,R,,VEN,18.8,102297,,,Sebastian Weisz,R,,GER,18.3,7-6 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,755,9
-1992-M-SA-DOM-01A-1992d,Caribbean 1 Masters 4,Clay,24,S,19920504,6,108114,,,Robert Kresberg,R,,USA,,108585,,,Americo Venero Montes,U,,PER,20.1,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,755,9,,
+1992-M-SA-DOM-01A-1992d,Caribbean 1 Masters 4,Clay,24,S,19920504,6,108114,,,Robert Kresberg,R,,USA,,108585,,,Americo Venero Montes,U,175,PER,20.1,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,755,9,,
 1992-M-SA-DOM-01A-1992d,Caribbean 1 Masters 4,Clay,24,S,19920504,7,100968,,,Sylvano Simone,R,,ITA,28.5,101518,,,Sandro Della Piana,R,,SUI,23.6,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,878,5,1046,2
 1992-M-SA-DOM-01A-1992d,Caribbean 1 Masters 4,Clay,24,S,19920504,8,101261,,,Axel Hornung,R,180,GER,25.9,107196,,,Hernan Chousa,R,,ARG,,6-2 5-7 7-6,3,R32,,,,,,,,,,,,,,,,,,,,731,10,1089,2
 1992-M-SA-DOM-01A-1992d,Caribbean 1 Masters 4,Clay,24,S,19920504,9,101597,,,Louis Gloria,L,175,USA,23.0,102243,1,,Marcelo Charpentier,L,180,ARG,18.8,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,602,18,1024,3
@@ -3261,7 +3261,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-ESP-04A-1992a,Spain 4 Masters 1,Clay,32,S,19920518,4,102167,,WC,Juan Albert Viloca Puig,R,185,ESP,19.3,101581,7,,Jose Luis Aparisi,R,178,ESP,23.1,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,472,32,425,42
 1992-M-SA-ESP-04A-1992a,Spain 4 Masters 1,Clay,32,S,19920518,5,102139,4,,Eyal Ran,R,183,ISR,19.4,107861,,,Nicolas Romero,R,,ESP,22.4,7-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,367,54,461,34
 1992-M-SA-ESP-04A-1992a,Spain 4 Masters 1,Clay,32,S,19920518,6,102153,,LL,German Puentes,R,173,ESP,19.4,101815,,LL,Sergio Gomez Barrio,R,,ESP,21.5,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,519,26,486,30
-1992-M-SA-ESP-04A-1992a,Spain 4 Masters 1,Clay,32,S,19920518,7,108230,,Q,Sebastien Mattieu,R,,FRA,18.6,109771,,LL,Jairo Velasco,R,,ESP,45.0,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,765,8,,
+1992-M-SA-ESP-04A-1992a,Spain 4 Masters 1,Clay,32,S,19920518,7,108230,,Q,Sebastien Mattieu,R,,FRA,18.6,109771,,LL,Jairo Velasco,R,173,ESP,45.0,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,765,8,,
 1992-M-SA-ESP-04A-1992a,Spain 4 Masters 1,Clay,32,S,19920518,8,102378,6,,Juan Gisbert Jr,R,198,ESP,18.0,107416,,LL,Jorge Martinez Alonso,R,,ESP,,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,401,47,534,25
 1992-M-SA-ESP-04A-1992a,Spain 4 Masters 1,Clay,32,S,19920518,9,101570,5,,Vicente Solves,R,180,ESP,23.2,102273,,,David Salvador Estepa,R,,ESP,18.5,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,383,51,457,35
 1992-M-SA-ESP-04A-1992a,Spain 4 Masters 1,Clay,32,S,19920518,10,102580,,WC,Gonzalo Corrales,R,,ESP,17.0,102610,,Q,Albert Costa,R,180,ESP,16.8,6-1 7-6,3,R32,,,,,,,,,,,,,,,,,,,,,,896,4
@@ -3320,7 +3320,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-ESP-04A-1992c,Spain 4 Masters 3,Clay,32,S,19920518,1,102378,1,,Juan Gisbert Jr,R,198,ESP,18.0,102273,,,David Salvador Estepa,R,,ESP,18.5,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,401,47,457,35
 1992-M-SA-ESP-04A-1992c,Spain 4 Masters 3,Clay,32,S,19920518,2,101472,,Q,Tino Anda,R,180,ESP,24.0,102153,,,German Puentes,R,173,ESP,19.4,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,804,7,519,26
 1992-M-SA-ESP-04A-1992c,Spain 4 Masters 3,Clay,32,S,19920518,3,102135,,,Emilio Benfele Alvarez,R,183,ESP,19.5,102483,,WC,David Caballero,R,180,ESP,17.5,7-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,407,45,1109,1
-1992-M-SA-ESP-04A-1992c,Spain 4 Masters 3,Clay,32,S,19920518,4,101570,7,,Vicente Solves,R,180,ESP,23.2,109771,,Q,Jairo Velasco,R,,ESP,45.0,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,383,51,,
+1992-M-SA-ESP-04A-1992c,Spain 4 Masters 3,Clay,32,S,19920518,4,101570,7,,Vicente Solves,R,180,ESP,23.2,109771,,Q,Jairo Velasco,R,173,ESP,45.0,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,383,51,,
 1992-M-SA-ESP-04A-1992c,Spain 4 Masters 3,Clay,32,S,19920518,5,102287,3,,Albert Portas,R,188,ESP,18.5,101074,,Q,Carlos Di Laura,L,175,PER,27.5,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,599,18,,
 1992-M-SA-ESP-04A-1992c,Spain 4 Masters 3,Clay,32,S,19920518,6,101486,,LL,Victor Lopez Moron,R,,ESP,23.9,123010,,,Sergio Domenech,U,,ESP,20.6,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1992-M-SA-ESP-04A-1992c,Spain 4 Masters 3,Clay,32,S,19920518,7,123023,,Q,Miguel Puig Tibbs,U,,ESP,20.6,102426,,Q,Juan Ignacio Carrasco,L,185,ESP,17.8,7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,609,17
@@ -3618,7 +3618,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-JAM-01A-1992a,Caribbean 2 Masters 1,Clay,32,S,19920601,13,102064,7,,Ernesto Diaz,R,,CHI,20.0,101825,,LL,Manuel Tejada,R,,ESA,21.5,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,643,,1108,1
 1992-M-SA-JAM-01A-1992a,Caribbean 2 Masters 1,Clay,32,S,19920601,14,122889,,Q,Christoph Sieber,U,,SUI,23.5,101941,,Q,Hiroki Ishii,R,,JPN,20.8,6-1 3-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,1108,1
 1992-M-SA-JAM-01A-1992a,Caribbean 2 Masters 1,Clay,32,S,19920601,15,101260,,,Sean Cole,R,,GBR,25.9,101737,,Q,Ty Tucker,R,,USA,22.0,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,744,,825,
-1992-M-SA-JAM-01A-1992a,Caribbean 2 Masters 1,Clay,32,S,19920601,16,108251,,,Shigefusa Kanroji,R,,JPN,24.9,108585,2,,Americo Venero Montes,U,,PER,20.2,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,706,,,
+1992-M-SA-JAM-01A-1992a,Caribbean 2 Masters 1,Clay,32,S,19920601,16,108251,,,Shigefusa Kanroji,R,,JPN,24.9,108585,2,,Americo Venero Montes,U,175,PER,20.2,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,706,,,
 1992-M-SA-JAM-01A-1992a,Caribbean 2 Masters 1,Clay,32,S,19920601,17,101651,1,,Owen Casey,R,,IRL,22.6,101261,,,Axel Hornung,R,180,GER,25.9,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,389,,1015,3
 1992-M-SA-JAM-01A-1992a,Caribbean 2 Masters 1,Clay,32,S,19920601,18,101953,8,,Kentaro Masuda,R,,JPN,20.7,102101,,LL,Bernardo Martinez,R,,MEX,19.7,3-6 6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,660,,1040,2
 1992-M-SA-JAM-01A-1992a,Caribbean 2 Masters 1,Clay,32,S,19920601,19,102197,,LL,Eric Brunner,R,,USA,19.1,107178,,Q,Haruo Nakano,R,,JPN,27.2,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,953,,1034,3
@@ -3649,7 +3649,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-JAM-01A-1992b,Caribbean 2 Masters 2,Clay,32,S,19920601,13,107930,,Q,Patricio Delgado,R,,CHI,,101953,8,,Kentaro Masuda,R,,JPN,20.7,5-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,1040,2,660,
 1992-M-SA-JAM-01A-1992b,Caribbean 2 Masters 2,Clay,32,S,19920601,14,108161,,,Roland So,R,,PHI,25.9,107929,,,Patrice Baker,R,,HAI,20.9,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,727,,844,
 1992-M-SA-JAM-01A-1992b,Caribbean 2 Masters 2,Clay,32,S,19920601,15,101838,,,Pablo Minutella,R,,ARG,21.3,101400,,Q,Sofronio Palahang,R,,PHI,24.6,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,814,,891,
-1992-M-SA-JAM-01A-1992b,Caribbean 2 Masters 2,Clay,32,S,19920601,16,108585,2,,Americo Venero Montes,U,,PER,20.2,122886,,WC,Cressoir Louis,U,,HAI,19.2,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1992-M-SA-JAM-01A-1992b,Caribbean 2 Masters 2,Clay,32,S,19920601,16,108585,2,,Americo Venero Montes,U,175,PER,20.2,122886,,WC,Cressoir Louis,U,,HAI,19.2,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1992-M-SA-JAM-01A-1992b,Caribbean 2 Masters 2,Clay,32,S,19920601,17,101651,1,,Owen Casey,R,,IRL,22.6,108251,,,Shigefusa Kanroji,R,,JPN,24.9,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,389,,706,
 1992-M-SA-JAM-01A-1992b,Caribbean 2 Masters 2,Clay,32,S,19920601,18,102064,7,,Ernesto Diaz,R,,CHI,20.0,102197,,Q,Eric Brunner,R,,USA,19.1,6-3 1-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,643,,953,
 1992-M-SA-JAM-01A-1992b,Caribbean 2 Masters 2,Clay,32,S,19920601,19,101413,4,,Felix Barrientos,R,178,PHI,24.5,101261,,SE,Axel Hornung,R,180,GER,25.9,6-4 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,543,,1015,3
@@ -3657,13 +3657,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-JAM-01A-1992b,Caribbean 2 Masters 2,Clay,32,S,19920601,21,102192,5,,Luis Adrian Morejon,R,178,ECU,19.1,108396,,,Tim Blondeel,R,,BEL,,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,640,,744,
 1992-M-SA-JAM-01A-1992b,Caribbean 2 Masters 2,Clay,32,S,19920601,22,101718,3,,Michael Herb,R,188,USA,22.2,101563,,Q,Joseph Lizardo,R,,PHI,23.3,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,506,,953,
 1992-M-SA-JAM-01A-1992b,Caribbean 2 Masters 2,Clay,32,S,19920601,23,107930,,Q,Patricio Delgado,R,,CHI,,108161,,,Roland So,R,,PHI,25.9,7-6 5-7 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1040,2,727,
-1992-M-SA-JAM-01A-1992b,Caribbean 2 Masters 2,Clay,32,S,19920601,24,108585,2,,Americo Venero Montes,U,,PER,20.2,101838,,,Pablo Minutella,R,,ARG,21.3,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,814,
+1992-M-SA-JAM-01A-1992b,Caribbean 2 Masters 2,Clay,32,S,19920601,24,108585,2,,Americo Venero Montes,U,175,PER,20.2,101838,,,Pablo Minutella,R,,ARG,21.3,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,814,
 1992-M-SA-JAM-01A-1992b,Caribbean 2 Masters 2,Clay,32,S,19920601,25,101651,1,,Owen Casey,R,,IRL,22.6,102064,7,,Ernesto Diaz,R,,CHI,20.0,7-6 2-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,389,,643,
 1992-M-SA-JAM-01A-1992b,Caribbean 2 Masters 2,Clay,32,S,19920601,26,101413,4,,Felix Barrientos,R,178,PHI,24.5,101260,,,Sean Cole,R,,GBR,25.9,7-6 7-6,3,QF,,,,,,,,,,,,,,,,,,,,543,,744,
 1992-M-SA-JAM-01A-1992b,Caribbean 2 Masters 2,Clay,32,S,19920601,27,102192,5,,Luis Adrian Morejon,R,178,ECU,19.1,101718,3,,Michael Herb,R,188,USA,22.2,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,640,,506,
-1992-M-SA-JAM-01A-1992b,Caribbean 2 Masters 2,Clay,32,S,19920601,28,108585,2,,Americo Venero Montes,U,,PER,20.2,107930,,Q,Patricio Delgado,R,,CHI,,7-5 6-2,3,QF,,,,,,,,,,,,,,,,,,,,,,1040,2
+1992-M-SA-JAM-01A-1992b,Caribbean 2 Masters 2,Clay,32,S,19920601,28,108585,2,,Americo Venero Montes,U,175,PER,20.2,107930,,Q,Patricio Delgado,R,,CHI,,7-5 6-2,3,QF,,,,,,,,,,,,,,,,,,,,,,1040,2
 1992-M-SA-JAM-01A-1992b,Caribbean 2 Masters 2,Clay,32,S,19920601,29,101651,1,,Owen Casey,R,,IRL,22.6,101413,4,,Felix Barrientos,R,178,PHI,24.5,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,389,,543,
-1992-M-SA-JAM-01A-1992b,Caribbean 2 Masters 2,Clay,32,S,19920601,30,102192,5,,Luis Adrian Morejon,R,178,ECU,19.1,108585,2,,Americo Venero Montes,U,,PER,20.2,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,640,,,
+1992-M-SA-JAM-01A-1992b,Caribbean 2 Masters 2,Clay,32,S,19920601,30,102192,5,,Luis Adrian Morejon,R,178,ECU,19.1,108585,2,,Americo Venero Montes,U,175,PER,20.2,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,640,,,
 1992-M-SA-JAM-01A-1992b,Caribbean 2 Masters 2,Clay,32,S,19920601,31,101651,1,,Owen Casey,R,,IRL,22.6,102192,5,,Luis Adrian Morejon,R,178,ECU,19.1,7-6 6-1,3,F,,,,,,,,,,,,,,,,,,,,389,,640,
 1992-M-SA-JAM-01A-1992c,Caribbean 2 Masters 3,Clay,32,S,19920601,1,101651,1,,Owen Casey,R,,IRL,22.6,122889,,,Christoph Sieber,U,,SUI,23.5,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,389,,,
 1992-M-SA-JAM-01A-1992c,Caribbean 2 Masters 3,Clay,32,S,19920601,2,108180,,Q,Roy Canada,R,,MEX,21.5,124252,,Q,James Jack,U,,TRI,23.3,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -3673,7 +3673,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-JAM-01A-1992c,Caribbean 2 Masters 3,Clay,32,S,19920601,6,101953,,,Kentaro Masuda,R,,JPN,20.7,101838,,Q,Pablo Minutella,R,,ARG,21.3,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,660,,814,
 1992-M-SA-JAM-01A-1992c,Caribbean 2 Masters 3,Clay,32,S,19920601,7,101737,,Q,Ty Tucker,R,,USA,22.0,101261,,,Axel Hornung,R,180,GER,25.9,6-2 4-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,825,,1015,3
 1992-M-SA-JAM-01A-1992c,Caribbean 2 Masters 3,Clay,32,S,19920601,8,108799,,Q,Jorge Tejada,U,,GUA,24.1,102064,5,,Ernesto Diaz,R,,CHI,20.0,6-4 4-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,643,
-1992-M-SA-JAM-01A-1992c,Caribbean 2 Masters 3,Clay,32,S,19920601,9,107929,,WC,Patrice Baker,R,,HAI,20.9,108585,6,,Americo Venero Montes,U,,PER,20.2,7-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,844,,,
+1992-M-SA-JAM-01A-1992c,Caribbean 2 Masters 3,Clay,32,S,19920601,9,107929,,WC,Patrice Baker,R,,HAI,20.9,108585,6,,Americo Venero Montes,U,175,PER,20.2,7-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,844,,,
 1992-M-SA-JAM-01A-1992c,Caribbean 2 Masters 3,Clay,32,S,19920601,10,108161,,,Roland So,R,,PHI,25.9,108790,,WC,Nicholas Malcolm,U,,JAM,17.6,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,727,,,
 1992-M-SA-JAM-01A-1992c,Caribbean 2 Masters 3,Clay,32,S,19920601,11,106620,,WC,Bertrand Lacombe,R,,HAI,32.2,111672,,WC,Sylvester Black,U,,JAM,15.6,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1992-M-SA-JAM-01A-1992c,Caribbean 2 Masters 3,Clay,32,S,19920601,12,102192,3,,Luis Adrian Morejon,R,178,ECU,19.1,102101,,Q,Bernardo Martinez,R,,MEX,19.7,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,640,,1040,2
@@ -3702,7 +3702,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-JAM-01A-1992d,Caribbean 2 Masters 4,Clay,24,S,19920601,4,108161,,,Roland So,R,,PHI,25.9,108251,,,Shigefusa Kanroji,R,,JPN,24.9,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,727,,706,
 1992-M-SA-JAM-01A-1992d,Caribbean 2 Masters 4,Clay,24,S,19920601,5,101953,,,Kentaro Masuda,R,,JPN,20.7,107929,,,Patrice Baker,R,,HAI,20.9,6-1 4-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,660,,844,
 1992-M-SA-JAM-01A-1992d,Caribbean 2 Masters 4,Clay,24,S,19920601,6,106834,,,David Drew,R,,USA,,108396,,,Tim Blondeel,R,,BEL,,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,640,,744,
-1992-M-SA-JAM-01A-1992d,Caribbean 2 Masters 4,Clay,24,S,19920601,7,108585,,,Americo Venero Montes,U,,PER,20.2,101400,,,Sofronio Palahang,R,,PHI,24.6,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,891,
+1992-M-SA-JAM-01A-1992d,Caribbean 2 Masters 4,Clay,24,S,19920601,7,108585,,,Americo Venero Montes,U,175,PER,20.2,101400,,,Sofronio Palahang,R,,PHI,24.6,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,891,
 1992-M-SA-JAM-01A-1992d,Caribbean 2 Masters 4,Clay,24,S,19920601,8,101838,,,Pablo Minutella,R,,ARG,21.3,101563,,,Joseph Lizardo,R,,PHI,23.3,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,814,,953,
 1992-M-SA-JAM-01A-1992d,Caribbean 2 Masters 4,Clay,24,S,19920601,9,101651,1,,Owen Casey,R,,IRL,22.6,101261,,,Axel Hornung,R,180,GER,25.9,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,389,,1015,3
 1992-M-SA-JAM-01A-1992d,Caribbean 2 Masters 4,Clay,24,S,19920601,10,102064,8,,Ernesto Diaz,R,,CHI,20.0,108180,,,Roy Canada,R,,MEX,21.5,0-6 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,643,,,
@@ -3710,14 +3710,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-JAM-01A-1992d,Caribbean 2 Masters 4,Clay,24,S,19920601,12,102197,5,,Eric Brunner,R,,USA,19.1,108161,,,Roland So,R,,PHI,25.9,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,953,,727,
 1992-M-SA-JAM-01A-1992d,Caribbean 2 Masters 4,Clay,24,S,19920601,13,101737,6,,Ty Tucker,R,,USA,22.0,101953,,,Kentaro Masuda,R,,JPN,20.7,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,825,,660,
 1992-M-SA-JAM-01A-1992d,Caribbean 2 Masters 4,Clay,24,S,19920601,14,101260,4,,Sean Cole,R,,GBR,25.9,106834,,,David Drew,R,,USA,,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,744,,640,
-1992-M-SA-JAM-01A-1992d,Caribbean 2 Masters 4,Clay,24,S,19920601,15,108585,,,Americo Venero Montes,U,,PER,20.2,101718,7,,Michael Herb,R,188,USA,22.2,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,506,
+1992-M-SA-JAM-01A-1992d,Caribbean 2 Masters 4,Clay,24,S,19920601,15,108585,,,Americo Venero Montes,U,175,PER,20.2,101718,7,,Michael Herb,R,188,USA,22.2,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,506,
 1992-M-SA-JAM-01A-1992d,Caribbean 2 Masters 4,Clay,24,S,19920601,16,101413,2,,Felix Barrientos,R,178,PHI,24.5,101838,,,Pablo Minutella,R,,ARG,21.3,6-3 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,543,,814,
 1992-M-SA-JAM-01A-1992d,Caribbean 2 Masters 4,Clay,24,S,19920601,17,101651,1,,Owen Casey,R,,IRL,22.6,102064,8,,Ernesto Diaz,R,,CHI,20.0,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,389,,643,
 1992-M-SA-JAM-01A-1992d,Caribbean 2 Masters 4,Clay,24,S,19920601,18,102192,3,,Luis Adrian Morejon,R,178,ECU,19.1,102197,5,,Eric Brunner,R,,USA,19.1,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,640,,953,
 1992-M-SA-JAM-01A-1992d,Caribbean 2 Masters 4,Clay,24,S,19920601,19,101260,4,,Sean Cole,R,,GBR,25.9,101737,6,,Ty Tucker,R,,USA,22.0,W/O,3,QF,,,,,,,,,,,,,,,,,,,,744,,825,
-1992-M-SA-JAM-01A-1992d,Caribbean 2 Masters 4,Clay,24,S,19920601,20,108585,,,Americo Venero Montes,U,,PER,20.2,101413,2,,Felix Barrientos,R,178,PHI,24.5,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,543,
+1992-M-SA-JAM-01A-1992d,Caribbean 2 Masters 4,Clay,24,S,19920601,20,108585,,,Americo Venero Montes,U,175,PER,20.2,101413,2,,Felix Barrientos,R,178,PHI,24.5,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,543,
 1992-M-SA-JAM-01A-1992d,Caribbean 2 Masters 4,Clay,24,S,19920601,21,101651,1,,Owen Casey,R,,IRL,22.6,102192,3,,Luis Adrian Morejon,R,178,ECU,19.1,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,389,,640,
-1992-M-SA-JAM-01A-1992d,Caribbean 2 Masters 4,Clay,24,S,19920601,22,101260,4,,Sean Cole,R,,GBR,25.9,108585,,,Americo Venero Montes,U,,PER,20.2,7-6 6-0,3,SF,,,,,,,,,,,,,,,,,,,,744,,,
+1992-M-SA-JAM-01A-1992d,Caribbean 2 Masters 4,Clay,24,S,19920601,22,101260,4,,Sean Cole,R,,GBR,25.9,108585,,,Americo Venero Montes,U,175,PER,20.2,7-6 6-0,3,SF,,,,,,,,,,,,,,,,,,,,744,,,
 1992-M-SA-JAM-01A-1992d,Caribbean 2 Masters 4,Clay,24,S,19920601,23,101260,4,,Sean Cole,R,,GBR,25.9,101651,1,,Owen Casey,R,,IRL,22.6,6-3 7-5,3,F,,,,,,,,,,,,,,,,,,,,744,,389,
 1992-M-SA-USA-03A-1992a,USA 3 Masters 1,Hard,64,S,19920601,1,101354,1,,Andrew Sznajder,R,175,CAN,25.0,101595,,WC,Michael Abendroth,R,,USA,23.1,6-1 6-3,3,R64,,,,,,,,,,,,,,,,,,,,207,,,
 1992-M-SA-USA-03A-1992a,USA 3 Masters 1,Hard,64,S,19920601,2,101497,,,Douglas Sachs,R,,USA,23.9,123500,,Q,Marcelo Achondo,U,,CHI,19.8,6-1 6-2,3,R64,,,,,,,,,,,,,,,,,,,,513,,,
@@ -4774,7 +4774,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-COL-01A-1992a,Colombia Masters 1,Clay,32,S,19920713,1,102248,,,Carlos Tarantino,R,,ARG,18.9,102055,1,,Bertrand Madsen,R,,HAI,20.1,3-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,695,11,301,73
 1992-M-SA-COL-01A-1992a,Colombia Masters 1,Clay,32,S,19920713,2,102214,,,Oscar Ortiz,L,183,MEX,19.1,122700,,,Ulises Cerda Pecarevic,U,,CHI,19.4,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,549,23,,
 1992-M-SA-COL-01A-1992a,Colombia Masters 1,Clay,32,S,19920713,3,122767,,Q,Juan Miguel Olvera,U,,ECU,29.0,102528,,WC,Carlos Drada,L,,COL,17.4,6-4 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-1992-M-SA-COL-01A-1992a,Colombia Masters 1,Clay,32,S,19920713,4,102853,,Q,Pablo Montana,R,,USA,15.8,108585,7,,Americo Venero Montes,U,,PER,20.3,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1000,3,,
+1992-M-SA-COL-01A-1992a,Colombia Masters 1,Clay,32,S,19920713,4,102853,,Q,Pablo Montana,R,,USA,15.8,108585,7,,Americo Venero Montes,U,175,PER,20.3,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1000,3,,
 1992-M-SA-COL-01A-1992a,Colombia Masters 1,Clay,32,S,19920713,5,107931,4,,Patricio Quijano,R,,MEX,,102756,,LL,Eduardo Rincon,R,,COL,16.3,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,413,43,,
 1992-M-SA-COL-01A-1992a,Colombia Masters 1,Clay,32,S,19920713,6,101976,,,Federico Dondo,R,,URU,20.7,122927,,LL,Luis Eduardo Ordonez,U,,COL,27.1,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,906,4,,
 1992-M-SA-COL-01A-1992a,Colombia Masters 1,Clay,32,S,19920713,7,102246,,Q,Fernando Samayoa,R,,GUA,18.9,107930,,LL,Patricio Delgado,R,,CHI,,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,851,5
@@ -4814,7 +4814,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-COL-01A-1992b,Colombia Masters 2,Clay,32,S,19920713,10,102348,,,Hideki Kaneko,R,,JPN,18.3,107153,,,Gustavo Loaiza,R,,COL,,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,802,6,906,4
 1992-M-SA-COL-01A-1992b,Colombia Masters 2,Clay,32,S,19920713,11,106821,,Q,Dante Magnoni,R,,VEN,19.6,101976,,,Federico Dondo,R,,URU,20.7,3-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,906,4
 1992-M-SA-COL-01A-1992b,Colombia Masters 2,Clay,32,S,19920713,12,107931,4,,Patricio Quijano,R,,MEX,,102265,,,Joaquin Elola,R,,URU,18.7,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,413,43,929,3
-1992-M-SA-COL-01A-1992b,Colombia Masters 2,Clay,32,S,19920713,13,108585,7,,Americo Venero Montes,U,,PER,20.3,122700,,,Ulises Cerda Pecarevic,U,,CHI,19.4,4-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1992-M-SA-COL-01A-1992b,Colombia Masters 2,Clay,32,S,19920713,13,108585,7,,Americo Venero Montes,U,175,PER,20.3,122700,,,Ulises Cerda Pecarevic,U,,CHI,19.4,4-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1992-M-SA-COL-01A-1992b,Colombia Masters 2,Clay,32,S,19920713,14,107930,,,Patricio Delgado,R,,CHI,,102222,,,Gonzalo Rodriguez,R,,URU,19.1,7-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,851,5,871,4
 1992-M-SA-COL-01A-1992b,Colombia Masters 2,Clay,32,S,19920713,15,102266,,Q,Paulino Alonso,R,,CHI,18.7,124382,,Q,Beimar Zapata,U,,COL,23.0,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1992-M-SA-COL-01A-1992b,Colombia Masters 2,Clay,32,S,19920713,16,101417,2,WC,Mario Rincon,R,,COL,24.6,122929,,WC,Enrique Pena Herrera,U,,COL,21.1,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,331,63,,
@@ -4824,19 +4824,19 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-COL-01A-1992b,Colombia Masters 2,Clay,32,S,19920713,20,102152,5,,Pablo Campana,R,180,ECU,19.5,102214,,,Oscar Ortiz,L,183,MEX,19.1,7-6 3-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,418,42,549,23
 1992-M-SA-COL-01A-1992b,Colombia Masters 2,Clay,32,S,19920713,21,102348,,,Hideki Kaneko,R,,JPN,18.3,102853,,Q,Pablo Montana,R,,USA,15.8,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,802,6,1000,3
 1992-M-SA-COL-01A-1992b,Colombia Masters 2,Clay,32,S,19920713,22,106821,,Q,Dante Magnoni,R,,VEN,19.6,107931,4,,Patricio Quijano,R,,MEX,,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,413,43
-1992-M-SA-COL-01A-1992b,Colombia Masters 2,Clay,32,S,19920713,23,108585,7,,Americo Venero Montes,U,,PER,20.3,107930,,,Patricio Delgado,R,,CHI,,5-7 6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,851,5
+1992-M-SA-COL-01A-1992b,Colombia Masters 2,Clay,32,S,19920713,23,108585,7,,Americo Venero Montes,U,175,PER,20.3,107930,,,Patricio Delgado,R,,CHI,,5-7 6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,851,5
 1992-M-SA-COL-01A-1992b,Colombia Masters 2,Clay,32,S,19920713,24,101417,2,WC,Mario Rincon,R,,COL,24.6,102266,,Q,Paulino Alonso,R,,CHI,18.7,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,331,63,,
 1992-M-SA-COL-01A-1992b,Colombia Masters 2,Clay,32,S,19920713,25,102190,,WC,Philippe Moggio,L,,COL,19.3,102248,,,Carlos Tarantino,R,,ARG,18.9,6-2 3-6 7-6,3,QF,,,,,,,,,,,,,,,,,,,,,,695,11
 1992-M-SA-COL-01A-1992b,Colombia Masters 2,Clay,32,S,19920713,26,101495,3,,Miguel Tobon,R,185,COL,24.0,102152,5,,Pablo Campana,R,180,ECU,19.5,4-6 6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,410,44,418,42
 1992-M-SA-COL-01A-1992b,Colombia Masters 2,Clay,32,S,19920713,27,102348,,,Hideki Kaneko,R,,JPN,18.3,106821,,Q,Dante Magnoni,R,,VEN,19.6,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,802,6,,
-1992-M-SA-COL-01A-1992b,Colombia Masters 2,Clay,32,S,19920713,28,101417,2,WC,Mario Rincon,R,,COL,24.6,108585,7,,Americo Venero Montes,U,,PER,20.3,6-0 6-3,3,QF,,,,,,,,,,,,,,,,,,,,331,63,,
+1992-M-SA-COL-01A-1992b,Colombia Masters 2,Clay,32,S,19920713,28,101417,2,WC,Mario Rincon,R,,COL,24.6,108585,7,,Americo Venero Montes,U,175,PER,20.3,6-0 6-3,3,QF,,,,,,,,,,,,,,,,,,,,331,63,,
 1992-M-SA-COL-01A-1992b,Colombia Masters 2,Clay,32,S,19920713,29,101495,3,,Miguel Tobon,R,185,COL,24.0,102190,,WC,Philippe Moggio,L,,COL,19.3,6-1 3-6 6-4,3,SF,,,,,,,,,,,,,,,,,,,,410,44,,
 1992-M-SA-COL-01A-1992b,Colombia Masters 2,Clay,32,S,19920713,30,101417,2,WC,Mario Rincon,R,,COL,24.6,102348,,,Hideki Kaneko,R,,JPN,18.3,6-4 1-6 6-4,3,SF,,,,,,,,,,,,,,,,,,,,331,63,802,6
 1992-M-SA-COL-01A-1992b,Colombia Masters 2,Clay,32,S,19920713,31,101417,2,WC,Mario Rincon,R,,COL,24.6,101495,3,,Miguel Tobon,R,185,COL,24.0,2-6 6-4 7-6,3,F,,,,,,,,,,,,,,,,,,,,331,63,410,44
 1992-M-SA-COL-01A-1992c,Colombia Masters 3,Clay,32,S,19920713,1,101417,1,,Mario Rincon,R,,COL,24.6,118327,,WC,Wilson Montoya,U,,COL,21.3,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,331,63,,
 1992-M-SA-COL-01A-1992c,Colombia Masters 3,Clay,32,S,19920713,2,110816,,SE,Valerio Boccito,U,,VEN,26.4,102528,,WC,Carlos Drada,L,,COL,17.4,6-3 7-6,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1992-M-SA-COL-01A-1992c,Colombia Masters 3,Clay,32,S,19920713,3,102246,,,Fernando Samayoa,R,,GUA,18.9,107930,,,Patricio Delgado,R,,CHI,,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,851,5
-1992-M-SA-COL-01A-1992c,Colombia Masters 3,Clay,32,S,19920713,4,108585,,,Americo Venero Montes,U,,PER,20.3,102853,8,,Pablo Montana,R,,USA,15.8,7-5 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,1000,3
+1992-M-SA-COL-01A-1992c,Colombia Masters 3,Clay,32,S,19920713,4,108585,,,Americo Venero Montes,U,175,PER,20.3,102853,8,,Pablo Montana,R,,USA,15.8,7-5 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,1000,3
 1992-M-SA-COL-01A-1992c,Colombia Masters 3,Clay,32,S,19920713,5,101495,4,,Miguel Tobon,R,185,COL,24.0,122767,,,Juan Miguel Olvera,U,,ECU,29.0,6-3 7-6,3,R32,,,,,,,,,,,,,,,,,,,,410,44,,
 1992-M-SA-COL-01A-1992c,Colombia Masters 3,Clay,32,S,19920713,6,122791,,LL,Damian Pensa,U,,ARG,19.6,102222,,Q,Gonzalo Rodriguez,R,,URU,19.1,6-4 6-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,871,4
 1992-M-SA-COL-01A-1992c,Colombia Masters 3,Clay,32,S,19920713,7,122700,,Q,Ulises Cerda Pecarevic,U,,CHI,19.4,122929,,WC,Enrique Pena Herrera,U,,COL,21.1,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -4850,14 +4850,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-COL-01A-1992c,Colombia Masters 3,Clay,32,S,19920713,15,107407,,,Jonathan Cardi,R,,USA,,107153,,WC,Gustavo Loaiza,R,,COL,,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1000,3,906,4
 1992-M-SA-COL-01A-1992c,Colombia Masters 3,Clay,32,S,19920713,16,102348,2,,Hideki Kaneko,R,,JPN,18.3,110847,,Q,Luis Arturo Gonzalez,U,,COL,27.7,6-3 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,802,6,,
 1992-M-SA-COL-01A-1992c,Colombia Masters 3,Clay,32,S,19920713,17,101417,1,,Mario Rincon,R,,COL,24.6,110816,,SE,Valerio Boccito,U,,VEN,26.4,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,331,63,,
-1992-M-SA-COL-01A-1992c,Colombia Masters 3,Clay,32,S,19920713,18,108585,,,Americo Venero Montes,U,,PER,20.3,102246,,,Fernando Samayoa,R,,GUA,18.9,4-6 7-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1992-M-SA-COL-01A-1992c,Colombia Masters 3,Clay,32,S,19920713,18,108585,,,Americo Venero Montes,U,175,PER,20.3,102246,,,Fernando Samayoa,R,,GUA,18.9,4-6 7-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 1992-M-SA-COL-01A-1992c,Colombia Masters 3,Clay,32,S,19920713,19,101495,4,,Miguel Tobon,R,185,COL,24.0,122791,,LL,Damian Pensa,U,,ARG,19.6,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,410,44,,
 1992-M-SA-COL-01A-1992c,Colombia Masters 3,Clay,32,S,19920713,20,101976,,,Federico Dondo,R,,URU,20.7,122700,,Q,Ulises Cerda Pecarevic,U,,CHI,19.4,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,906,4,,
 1992-M-SA-COL-01A-1992c,Colombia Masters 3,Clay,32,S,19920713,21,102248,,,Carlos Tarantino,R,,ARG,18.9,102265,,Q,Joaquin Elola,R,,URU,18.7,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,695,11,929,3
 1992-M-SA-COL-01A-1992c,Colombia Masters 3,Clay,32,S,19920713,22,102214,3,,Oscar Ortiz,L,183,MEX,19.1,124382,,Q,Beimar Zapata,U,,COL,23.0,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,549,23,,
 1992-M-SA-COL-01A-1992c,Colombia Masters 3,Clay,32,S,19920713,23,106821,,,Dante Magnoni,R,,VEN,19.6,122927,,Q,Luis Eduardo Ordonez,U,,COL,27.1,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 1992-M-SA-COL-01A-1992c,Colombia Masters 3,Clay,32,S,19920713,24,102348,2,,Hideki Kaneko,R,,JPN,18.3,107407,,,Jonathan Cardi,R,,USA,,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,802,6,1000,3
-1992-M-SA-COL-01A-1992c,Colombia Masters 3,Clay,32,S,19920713,25,101417,1,,Mario Rincon,R,,COL,24.6,108585,,,Americo Venero Montes,U,,PER,20.3,5-7 6-1 7-6,3,QF,,,,,,,,,,,,,,,,,,,,331,63,,
+1992-M-SA-COL-01A-1992c,Colombia Masters 3,Clay,32,S,19920713,25,101417,1,,Mario Rincon,R,,COL,24.6,108585,,,Americo Venero Montes,U,175,PER,20.3,5-7 6-1 7-6,3,QF,,,,,,,,,,,,,,,,,,,,331,63,,
 1992-M-SA-COL-01A-1992c,Colombia Masters 3,Clay,32,S,19920713,26,101495,4,,Miguel Tobon,R,185,COL,24.0,101976,,,Federico Dondo,R,,URU,20.7,6-0 6-1,3,QF,,,,,,,,,,,,,,,,,,,,410,44,906,4
 1992-M-SA-COL-01A-1992c,Colombia Masters 3,Clay,32,S,19920713,27,102214,3,,Oscar Ortiz,L,183,MEX,19.1,102248,,,Carlos Tarantino,R,,ARG,18.9,7-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,549,23,695,11
 1992-M-SA-COL-01A-1992c,Colombia Masters 3,Clay,32,S,19920713,28,102348,2,,Hideki Kaneko,R,,JPN,18.3,106821,,,Dante Magnoni,R,,VEN,19.6,7-5 6-2,3,QF,,,,,,,,,,,,,,,,,,,,802,6,,
@@ -4870,7 +4870,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-COL-01A-1992d,Colombia Masters 4,Clay,24,S,19920713,4,122767,,,Juan Miguel Olvera,U,,ECU,29.0,102265,,,Joaquin Elola,R,,URU,18.7,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,929,3
 1992-M-SA-COL-01A-1992d,Colombia Masters 4,Clay,24,S,19920713,5,122700,,,Ulises Cerda Pecarevic,U,,CHI,19.4,124382,,,Beimar Zapata,U,,COL,23.0,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1992-M-SA-COL-01A-1992d,Colombia Masters 4,Clay,24,S,19920713,6,110816,,,Valerio Boccito,U,,VEN,26.4,102064,,,Ernesto Diaz,R,,CHI,20.1,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,498,30
-1992-M-SA-COL-01A-1992d,Colombia Masters 4,Clay,24,S,19920713,7,108585,,,Americo Venero Montes,U,,PER,20.3,107930,,,Patricio Delgado,R,,CHI,,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,851,5
+1992-M-SA-COL-01A-1992d,Colombia Masters 4,Clay,24,S,19920713,7,108585,,,Americo Venero Montes,U,175,PER,20.3,107930,,,Patricio Delgado,R,,CHI,,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,851,5
 1992-M-SA-COL-01A-1992d,Colombia Masters 4,Clay,24,S,19920713,8,102266,,,Paulino Alonso,R,,CHI,18.7,107407,,,Jonathan Cardi,R,,USA,,7-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1000,3
 1992-M-SA-COL-01A-1992d,Colombia Masters 4,Clay,24,S,19920713,9,102348,1,,Hideki Kaneko,R,,JPN,18.3,102246,,,Fernando Samayoa,R,,GUA,18.9,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,802,6,,
 1992-M-SA-COL-01A-1992d,Colombia Masters 4,Clay,24,S,19920713,10,102152,8,,Pablo Campana,R,180,ECU,19.5,110847,,,Luis Arturo Gonzalez,U,,COL,27.7,6-3 7-6,3,R16,,,,,,,,,,,,,,,,,,,,418,42,,
@@ -4878,7 +4878,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-COL-01A-1992d,Colombia Masters 4,Clay,24,S,19920713,12,106821,5,,Dante Magnoni,R,,VEN,19.6,122767,,,Juan Miguel Olvera,U,,ECU,29.0,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 1992-M-SA-COL-01A-1992d,Colombia Masters 4,Clay,24,S,19920713,13,122700,,,Ulises Cerda Pecarevic,U,,CHI,19.4,102248,6,,Carlos Tarantino,R,,ARG,18.9,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,695,11
 1992-M-SA-COL-01A-1992d,Colombia Masters 4,Clay,24,S,19920713,14,101495,3,,Miguel Tobon,R,185,COL,24.0,110816,,,Valerio Boccito,U,,VEN,26.4,6-4 7-6,3,R16,,,,,,,,,,,,,,,,,,,,410,44,,
-1992-M-SA-COL-01A-1992d,Colombia Masters 4,Clay,24,S,19920713,15,107931,7,,Patricio Quijano,R,,MEX,,108585,,,Americo Venero Montes,U,,PER,20.3,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,413,43,,
+1992-M-SA-COL-01A-1992d,Colombia Masters 4,Clay,24,S,19920713,15,107931,7,,Patricio Quijano,R,,MEX,,108585,,,Americo Venero Montes,U,175,PER,20.3,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,413,43,,
 1992-M-SA-COL-01A-1992d,Colombia Masters 4,Clay,24,S,19920713,16,101417,2,,Mario Rincon,R,,COL,24.6,102266,,,Paulino Alonso,R,,CHI,18.7,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,331,63,,
 1992-M-SA-COL-01A-1992d,Colombia Masters 4,Clay,24,S,19920713,17,102152,8,,Pablo Campana,R,180,ECU,19.5,102348,1,,Hideki Kaneko,R,,JPN,18.3,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,418,42,802,6
 1992-M-SA-COL-01A-1992d,Colombia Masters 4,Clay,24,S,19920713,18,102214,4,,Oscar Ortiz,L,183,MEX,19.1,106821,5,,Dante Magnoni,R,,VEN,19.6,6-4 3-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,549,23,,
@@ -5047,7 +5047,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-ESP-06A-1992b,Spain 6 Masters 2,Clay,32,S,19920713,11,117527,,,Oscar Martinez Dieguez,R,,ESP,18.4,123039,,WC,Rafael Llorens Boixader,U,,ESP,19.0,6-2 7-6,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1992-M-SA-ESP-06A-1992b,Spain 6 Masters 2,Clay,32,S,19920713,12,102293,4,,Xavier Avila,R,183,ESP,18.5,123038,,WC,Isidro Lledo Boyer,U,,ESP,22.7,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,591,19,,
 1992-M-SA-ESP-06A-1992b,Spain 6 Masters 2,Clay,32,S,19920713,13,101842,8,,Jose Alejos,R,,ESP,21.4,102607,,WC,Juan Balcells,R,190,ESP,17.0,7-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,655,13,,
-1992-M-SA-ESP-06A-1992b,Spain 6 Masters 2,Clay,32,S,19920713,14,102191,,SE,Joaquin Revert,R,183,ESP,19.2,109771,,,Jairo Velasco,R,,ESP,45.1,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1085,1,,
+1992-M-SA-ESP-06A-1992b,Spain 6 Masters 2,Clay,32,S,19920713,14,102191,,SE,Joaquin Revert,R,183,ESP,19.2,109771,,,Jairo Velasco,R,173,ESP,45.1,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1085,1,,
 1992-M-SA-ESP-06A-1992b,Spain 6 Masters 2,Clay,32,S,19920713,15,101607,,,Mitch Michulka,R,,USA,23.1,101777,,,Robert Kraus,R,,GER,21.9,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,690,11,695,11
 1992-M-SA-ESP-06A-1992b,Spain 6 Masters 2,Clay,32,S,19920713,16,101815,2,,Sergio Gomez Barrio,R,,ESP,21.7,102456,,,Felix Mantilla,R,180,ESP,17.8,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,475,33,715,9
 1992-M-SA-ESP-06A-1992b,Spain 6 Masters 2,Clay,32,S,19920713,17,101959,1,,Robert Eriksson,R,,SWE,20.8,101486,,,Victor Lopez Moron,R,,ESP,24.1,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,415,42,735,8
@@ -5075,7 +5075,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-ESP-06A-1992c,Spain 6 Masters 3,Clay,32,S,19920713,8,102456,,Q,Felix Mantilla,R,180,ESP,17.8,101815,5,,Sergio Gomez Barrio,R,,ESP,21.7,6-2 4-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,715,9,475,33
 1992-M-SA-ESP-06A-1992c,Spain 6 Masters 3,Clay,32,S,19920713,9,101777,6,,Robert Kraus,R,,GER,21.9,102426,,,Juan Ignacio Carrasco,L,185,ESP,18.0,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,695,11,605,17
 1992-M-SA-ESP-06A-1992c,Spain 6 Masters 3,Clay,32,S,19920713,10,102483,,,David Caballero,R,180,ESP,17.6,107622,,Q,Manuel Faure,R,,SUI,,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1085,1,,
-1992-M-SA-ESP-06A-1992c,Spain 6 Masters 3,Clay,32,S,19920713,11,123040,,WC,Joaquin Lopez De San Roman,U,,ESP,23.5,109771,,WC,Jairo Velasco,R,,ESP,45.1,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1992-M-SA-ESP-06A-1992c,Spain 6 Masters 3,Clay,32,S,19920713,11,123040,,WC,Joaquin Lopez De San Roman,U,,ESP,23.5,109771,,WC,Jairo Velasco,R,173,ESP,45.1,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1992-M-SA-ESP-06A-1992c,Spain 6 Masters 3,Clay,32,S,19920713,12,101959,3,,Robert Eriksson,R,,SWE,20.8,102522,,,Fabio Maggi,R,175,ITA,17.4,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,415,42,,
 1992-M-SA-ESP-06A-1992c,Spain 6 Masters 3,Clay,32,S,19920713,13,102191,,,Joaquin Revert,R,183,ESP,19.2,102580,7,,Gonzalo Corrales,R,,ESP,17.2,2-6 7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1085,1,,
 1992-M-SA-ESP-06A-1992c,Spain 6 Masters 3,Clay,32,S,19920713,14,106680,,Q,Cameron Liggett,R,,AUS,,124471,,Q,Gabriel Gramatica,U,,ESP,19.4,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -5710,7 +5710,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-ECU-01A-1992a,Ecuador Masters 1,Clay,32,S,19920810,9,106994,6,,Federico Pierini,R,,ARG,20.0,102314,,Q,Rodrigo Navarro,R,,BOL,18.5,7-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,575,20,1002,3
 1992-M-SA-ECU-01A-1992a,Ecuador Masters 1,Clay,32,S,19920810,10,122700,,,Ulises Cerda Pecarevic,U,,CHI,19.4,122767,,WC,Juan Miguel Olvera,U,,ECU,29.1,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1992-M-SA-ECU-01A-1992a,Ecuador Masters 1,Clay,32,S,19920810,11,102248,,,Carlos Tarantino,R,,ARG,19.0,102420,,Q,Cesar Reano,R,,PER,18.1,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,608,17,1022,2
-1992-M-SA-ECU-01A-1992a,Ecuador Masters 1,Clay,32,S,19920810,12,108585,4,,Americo Venero Montes,U,,PER,20.4,108556,,LL,Yasushi Morishita,R,,JPN,,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,930,3
+1992-M-SA-ECU-01A-1992a,Ecuador Masters 1,Clay,32,S,19920810,12,108585,4,,Americo Venero Montes,U,175,PER,20.4,108556,,LL,Yasushi Morishita,R,,JPN,,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,930,3
 1992-M-SA-ECU-01A-1992a,Ecuador Masters 1,Clay,32,S,19920810,13,102528,,Q,Carlos Drada,L,,COL,17.5,122962,8,WC,Antonio Torregrosa Cerdan,U,,ESP,21.3,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1992-M-SA-ECU-01A-1992a,Ecuador Masters 1,Clay,32,S,19920810,14,101825,,LL,Manuel Tejada,R,,ESA,21.7,122963,,Q,Dean Houlzet,U,,COL,17.3,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1087,1,,
 1992-M-SA-ECU-01A-1992a,Ecuador Masters 1,Clay,32,S,19920810,15,102348,,,Hideki Kaneko,R,,JPN,18.4,107930,,,Patricio Delgado,R,,CHI,,0-6 6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,425,41,817,6
@@ -5720,15 +5720,15 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-ECU-01A-1992a,Ecuador Masters 1,Clay,32,S,19920810,19,102152,3,,Pablo Campana,R,180,ECU,19.6,107416,,,Jorge Martinez Alonso,R,,ESP,,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,318,66,852,5
 1992-M-SA-ECU-01A-1992a,Ecuador Masters 1,Clay,32,S,19920810,20,122791,,LL,Damian Pensa,U,,ARG,19.6,102064,5,,Ernesto Diaz,R,,CHI,20.2,6-4 3-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1087,1,495,31
 1992-M-SA-ECU-01A-1992a,Ecuador Masters 1,Clay,32,S,19920810,21,106994,6,,Federico Pierini,R,,ARG,20.0,122700,,,Ulises Cerda Pecarevic,U,,CHI,19.4,6-4 3-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,575,20,,
-1992-M-SA-ECU-01A-1992a,Ecuador Masters 1,Clay,32,S,19920810,22,108585,4,,Americo Venero Montes,U,,PER,20.4,102248,,,Carlos Tarantino,R,,ARG,19.0,6-1 4-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,,,608,17
+1992-M-SA-ECU-01A-1992a,Ecuador Masters 1,Clay,32,S,19920810,22,108585,4,,Americo Venero Montes,U,175,PER,20.4,102248,,,Carlos Tarantino,R,,ARG,19.0,6-1 4-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,,,608,17
 1992-M-SA-ECU-01A-1992a,Ecuador Masters 1,Clay,32,S,19920810,23,102528,,Q,Carlos Drada,L,,COL,17.5,101825,,LL,Manuel Tejada,R,,ESA,21.7,6-2 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,1087,1
 1992-M-SA-ECU-01A-1992a,Ecuador Masters 1,Clay,32,S,19920810,24,101495,2,,Miguel Tobon,R,185,COL,24.1,102348,,,Hideki Kaneko,R,,JPN,18.4,6-4 2-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,293,76,425,41
 1992-M-SA-ECU-01A-1992a,Ecuador Masters 1,Clay,32,S,19920810,25,101417,1,,Mario Rincon,R,,COL,24.6,102262,,LL,Cristiano Testa,L,,BRA,18.8,6-3 7-6,3,QF,,,,,,,,,,,,,,,,,,,,259,100,930,3
 1992-M-SA-ECU-01A-1992a,Ecuador Masters 1,Clay,32,S,19920810,26,102152,3,,Pablo Campana,R,180,ECU,19.6,122791,,LL,Damian Pensa,U,,ARG,19.6,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,318,66,1087,1
-1992-M-SA-ECU-01A-1992a,Ecuador Masters 1,Clay,32,S,19920810,27,108585,4,,Americo Venero Montes,U,,PER,20.4,106994,6,,Federico Pierini,R,,ARG,20.0,6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,,,575,20
+1992-M-SA-ECU-01A-1992a,Ecuador Masters 1,Clay,32,S,19920810,27,108585,4,,Americo Venero Montes,U,175,PER,20.4,106994,6,,Federico Pierini,R,,ARG,20.0,6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,,,575,20
 1992-M-SA-ECU-01A-1992a,Ecuador Masters 1,Clay,32,S,19920810,28,101495,2,,Miguel Tobon,R,185,COL,24.1,102528,,Q,Carlos Drada,L,,COL,17.5,6-0 7-5,3,QF,,,,,,,,,,,,,,,,,,,,293,76,,
 1992-M-SA-ECU-01A-1992a,Ecuador Masters 1,Clay,32,S,19920810,29,102152,3,,Pablo Campana,R,180,ECU,19.6,101417,1,,Mario Rincon,R,,COL,24.6,6-1 4-6 6-0,3,SF,,,,,,,,,,,,,,,,,,,,318,66,259,100
-1992-M-SA-ECU-01A-1992a,Ecuador Masters 1,Clay,32,S,19920810,30,101495,2,,Miguel Tobon,R,185,COL,24.1,108585,4,,Americo Venero Montes,U,,PER,20.4,7-6 3-6 7-6,3,SF,,,,,,,,,,,,,,,,,,,,293,76,,
+1992-M-SA-ECU-01A-1992a,Ecuador Masters 1,Clay,32,S,19920810,30,101495,2,,Miguel Tobon,R,185,COL,24.1,108585,4,,Americo Venero Montes,U,175,PER,20.4,7-6 3-6 7-6,3,SF,,,,,,,,,,,,,,,,,,,,293,76,,
 1992-M-SA-ECU-01A-1992a,Ecuador Masters 1,Clay,32,S,19920810,31,102152,3,,Pablo Campana,R,180,ECU,19.6,101495,2,,Miguel Tobon,R,185,COL,24.1,6-2 6-4,3,F,,,,,,,,,,,,,,,,,,,,318,66,293,76
 1992-M-SA-ECU-01A-1992b,Ecuador Masters 2,Clay,32,S,19920810,1,101417,1,,Mario Rincon,R,,COL,24.6,107665,,Q,Marcos Leite,R,,BRA,,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,259,100,908,4
 1992-M-SA-ECU-01A-1992b,Ecuador Masters 2,Clay,32,S,19920810,2,122700,,,Ulises Cerda Pecarevic,U,,CHI,19.4,102222,,,Gonzalo Rodriguez,R,,URU,19.2,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,874,4
@@ -5737,7 +5737,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-ECU-01A-1992b,Ecuador Masters 2,Clay,32,S,19920810,5,102152,3,,Pablo Campana,R,180,ECU,19.6,124409,,WC,Mauricio Pacheco,U,,ECU,20.8,6-2 7-6,3,R32,,,,,,,,,,,,,,,,,,,,318,66,,
 1992-M-SA-ECU-01A-1992b,Ecuador Masters 2,Clay,32,S,19920810,6,102297,,,Sebastian Weisz,R,,GER,18.6,190034,,SE,Andres Urencio,R,,MEX,,6-0 7-6,3,R32,,,,,,,,,,,,,,,,,,,,703,10,1087,1
 1992-M-SA-ECU-01A-1992b,Ecuador Masters 2,Clay,32,S,19920810,7,107416,,,Jorge Martinez Alonso,R,,ESP,,102265,,,Joaquin Elola,R,,URU,18.8,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,852,5,798,6
-1992-M-SA-ECU-01A-1992b,Ecuador Masters 2,Clay,32,S,19920810,8,108585,5,,Americo Venero Montes,U,,PER,20.4,102392,,Q,Paulo Escalona,R,,CHI,18.2,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1992-M-SA-ECU-01A-1992b,Ecuador Masters 2,Clay,32,S,19920810,8,108585,5,,Americo Venero Montes,U,175,PER,20.4,102392,,Q,Paulo Escalona,R,,CHI,18.2,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1992-M-SA-ECU-01A-1992b,Ecuador Masters 2,Clay,32,S,19920810,9,102064,6,,Ernesto Diaz,R,,CHI,20.2,122961,,WC,Nelson Ramos,U,,ECU,19.1,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,495,31,,
 1992-M-SA-ECU-01A-1992b,Ecuador Masters 2,Clay,32,S,19920810,10,102266,,Q,Paulino Alonso,R,,CHI,18.8,124381,,Q,Mario Cobo,U,,ECU,20.0,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,930,3,,
 1992-M-SA-ECU-01A-1992b,Ecuador Masters 2,Clay,32,S,19920810,11,102262,,Q,Cristiano Testa,L,,BRA,18.8,122767,,,Juan Miguel Olvera,U,,ECU,29.1,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,930,3,,
@@ -5749,7 +5749,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-ECU-01A-1992b,Ecuador Masters 2,Clay,32,S,19920810,17,101417,1,,Mario Rincon,R,,COL,24.6,122700,,,Ulises Cerda Pecarevic,U,,CHI,19.4,1-6 6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,259,100,,
 1992-M-SA-ECU-01A-1992b,Ecuador Masters 2,Clay,32,S,19920810,18,102248,8,,Carlos Tarantino,R,,ARG,19.0,107153,,Q,Gustavo Loaiza,R,,COL,,4-6 6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,608,17,908,4
 1992-M-SA-ECU-01A-1992b,Ecuador Masters 2,Clay,32,S,19920810,19,102152,3,,Pablo Campana,R,180,ECU,19.6,102297,,,Sebastian Weisz,R,,GER,18.6,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,318,66,703,10
-1992-M-SA-ECU-01A-1992b,Ecuador Masters 2,Clay,32,S,19920810,20,107416,,,Jorge Martinez Alonso,R,,ESP,,108585,5,,Americo Venero Montes,U,,PER,20.4,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,852,5,,
+1992-M-SA-ECU-01A-1992b,Ecuador Masters 2,Clay,32,S,19920810,20,107416,,,Jorge Martinez Alonso,R,,ESP,,108585,5,,Americo Venero Montes,U,175,PER,20.4,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,852,5,,
 1992-M-SA-ECU-01A-1992b,Ecuador Masters 2,Clay,32,S,19920810,21,102064,6,,Ernesto Diaz,R,,CHI,20.2,102266,,Q,Paulino Alonso,R,,CHI,18.8,7-5 0-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,,495,31,930,3
 1992-M-SA-ECU-01A-1992b,Ecuador Masters 2,Clay,32,S,19920810,22,102262,,Q,Cristiano Testa,L,,BRA,18.8,122962,,Q,Antonio Torregrosa Cerdan,U,,ESP,21.3,6-7 7-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,,930,3,,
 1992-M-SA-ECU-01A-1992b,Ecuador Masters 2,Clay,32,S,19920810,23,102246,,,Fernando Samayoa,R,,GUA,19.0,108182,,,Ruben Alvarenga,R,,PAR,19.9,7-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,826,5,615,16
@@ -5765,7 +5765,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-ECU-01A-1992c,Ecuador Masters 3,Clay,32,S,19920810,2,101825,,Q,Manuel Tejada,R,,ESA,21.7,122791,,,Damian Pensa,U,,ARG,19.6,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1087,1,1087,1
 1992-M-SA-ECU-01A-1992c,Ecuador Masters 3,Clay,32,S,19920810,3,102246,,,Fernando Samayoa,R,,GUA,19.0,102420,,SE,Cesar Reano,R,,PER,18.1,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,826,5,1022,2
 1992-M-SA-ECU-01A-1992c,Ecuador Masters 3,Clay,32,S,19920810,4,107416,8,,Jorge Martinez Alonso,R,,ESP,,102348,,,Hideki Kaneko,R,,JPN,18.4,4-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,852,5,425,41
-1992-M-SA-ECU-01A-1992c,Ecuador Masters 3,Clay,32,S,19920810,5,108585,4,,Americo Venero Montes,U,,PER,20.4,122962,,,Antonio Torregrosa Cerdan,U,,ESP,21.3,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1992-M-SA-ECU-01A-1992c,Ecuador Masters 3,Clay,32,S,19920810,5,108585,4,,Americo Venero Montes,U,175,PER,20.4,122962,,,Antonio Torregrosa Cerdan,U,,ESP,21.3,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1992-M-SA-ECU-01A-1992c,Ecuador Masters 3,Clay,32,S,19920810,6,106994,,,Federico Pierini,R,,ARG,20.0,102839,,WC,Nicolas Lapentti,R,188,ECU,15.9,6-7 6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,575,20,874,4
 1992-M-SA-ECU-01A-1992c,Ecuador Masters 3,Clay,32,S,19920810,7,106494,,Q,Alexandre Ahr,R,,SUI,19.1,102528,,,Carlos Drada,L,,COL,17.5,4-6 7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1992-M-SA-ECU-01A-1992c,Ecuador Masters 3,Clay,32,S,19920810,8,107665,,Q,Marcos Leite,R,,BRA,,102262,6,,Cristiano Testa,L,,BRA,18.8,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,908,4,930,3
@@ -5779,17 +5779,17 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-ECU-01A-1992c,Ecuador Masters 3,Clay,32,S,19920810,16,122700,,,Ulises Cerda Pecarevic,U,,CHI,19.4,102152,2,,Pablo Campana,R,180,ECU,19.6,4-6 6-1 7-6,3,R32,,,,,,,,,,,,,,,,,,,,,,318,66
 1992-M-SA-ECU-01A-1992c,Ecuador Masters 3,Clay,32,S,19920810,17,101417,1,,Mario Rincon,R,,COL,24.6,101825,,Q,Manuel Tejada,R,,ESA,21.7,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,259,100,1087,1
 1992-M-SA-ECU-01A-1992c,Ecuador Masters 3,Clay,32,S,19920810,18,107416,8,,Jorge Martinez Alonso,R,,ESP,,102246,,,Fernando Samayoa,R,,GUA,19.0,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,852,5,826,5
-1992-M-SA-ECU-01A-1992c,Ecuador Masters 3,Clay,32,S,19920810,19,108585,4,,Americo Venero Montes,U,,PER,20.4,106994,,,Federico Pierini,R,,ARG,20.0,6-7 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,575,20
+1992-M-SA-ECU-01A-1992c,Ecuador Masters 3,Clay,32,S,19920810,19,108585,4,,Americo Venero Montes,U,175,PER,20.4,106994,,,Federico Pierini,R,,ARG,20.0,6-7 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,575,20
 1992-M-SA-ECU-01A-1992c,Ecuador Masters 3,Clay,32,S,19920810,20,106494,,Q,Alexandre Ahr,R,,SUI,19.1,107665,,Q,Marcos Leite,R,,BRA,,6-7 6-4 7-6,3,R16,,,,,,,,,,,,,,,,,,,,,,908,4
 1992-M-SA-ECU-01A-1992c,Ecuador Masters 3,Clay,32,S,19920810,21,106821,,SE,Dante Magnoni,R,,VEN,19.7,102064,5,,Ernesto Diaz,R,,CHI,20.2,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,707,9,495,31
 1992-M-SA-ECU-01A-1992c,Ecuador Masters 3,Clay,32,S,19920810,22,101495,3,,Miguel Tobon,R,185,COL,24.1,124381,,WC,Mario Cobo,U,,ECU,20.0,6-7 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,293,76,,
 1992-M-SA-ECU-01A-1992c,Ecuador Masters 3,Clay,32,S,19920810,23,102248,7,,Carlos Tarantino,R,,ARG,19.0,122961,,WC,Nelson Ramos,U,,ECU,19.1,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,608,17,,
 1992-M-SA-ECU-01A-1992c,Ecuador Masters 3,Clay,32,S,19920810,24,122700,,,Ulises Cerda Pecarevic,U,,CHI,19.4,107930,,Q,Patricio Delgado,R,,CHI,,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,817,6
 1992-M-SA-ECU-01A-1992c,Ecuador Masters 3,Clay,32,S,19920810,25,101417,1,,Mario Rincon,R,,COL,24.6,107416,8,,Jorge Martinez Alonso,R,,ESP,,6-7 7-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,259,100,852,5
-1992-M-SA-ECU-01A-1992c,Ecuador Masters 3,Clay,32,S,19920810,26,108585,4,,Americo Venero Montes,U,,PER,20.4,106494,,Q,Alexandre Ahr,R,,SUI,19.1,7-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,,
+1992-M-SA-ECU-01A-1992c,Ecuador Masters 3,Clay,32,S,19920810,26,108585,4,,Americo Venero Montes,U,175,PER,20.4,106494,,Q,Alexandre Ahr,R,,SUI,19.1,7-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,,
 1992-M-SA-ECU-01A-1992c,Ecuador Masters 3,Clay,32,S,19920810,27,101495,3,,Miguel Tobon,R,185,COL,24.1,106821,,SE,Dante Magnoni,R,,VEN,19.7,6-3 3-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,293,76,707,9
 1992-M-SA-ECU-01A-1992c,Ecuador Masters 3,Clay,32,S,19920810,28,122700,,,Ulises Cerda Pecarevic,U,,CHI,19.4,102248,7,,Carlos Tarantino,R,,ARG,19.0,6-3 7-5,3,QF,,,,,,,,,,,,,,,,,,,,,,608,17
-1992-M-SA-ECU-01A-1992c,Ecuador Masters 3,Clay,32,S,19920810,29,101417,1,,Mario Rincon,R,,COL,24.6,108585,4,,Americo Venero Montes,U,,PER,20.4,3-6 6-4 7-6,3,SF,,,,,,,,,,,,,,,,,,,,259,100,,
+1992-M-SA-ECU-01A-1992c,Ecuador Masters 3,Clay,32,S,19920810,29,101417,1,,Mario Rincon,R,,COL,24.6,108585,4,,Americo Venero Montes,U,175,PER,20.4,3-6 6-4 7-6,3,SF,,,,,,,,,,,,,,,,,,,,259,100,,
 1992-M-SA-ECU-01A-1992c,Ecuador Masters 3,Clay,32,S,19920810,30,101495,3,,Miguel Tobon,R,185,COL,24.1,122700,,,Ulises Cerda Pecarevic,U,,CHI,19.4,6-3 6-1,3,SF,,,,,,,,,,,,,,,,,,,,293,76,,
 1992-M-SA-ECU-01A-1992c,Ecuador Masters 3,Clay,32,S,19920810,31,101495,3,,Miguel Tobon,R,185,COL,24.1,101417,1,,Mario Rincon,R,,COL,24.6,7-6 6-2,3,F,,,,,,,,,,,,,,,,,,,,293,76,259,100
 1992-M-SA-ECU-01A-1992d,Ecuador Masters 4,Clay,24,S,19920810,1,102348,,,Hideki Kaneko,R,,JPN,18.4,122791,,,Damian Pensa,U,,ARG,19.6,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,425,41,1087,1
@@ -5802,14 +5802,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-ECU-01A-1992d,Ecuador Masters 4,Clay,24,S,19920810,8,106994,,,Federico Pierini,R,,ARG,20.0,122962,,,Antonio Torregrosa Cerdan,U,,ESP,21.3,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,575,20,,
 1992-M-SA-ECU-01A-1992d,Ecuador Masters 4,Clay,24,S,19920810,9,102348,,,Hideki Kaneko,R,,JPN,18.4,101495,1,,Miguel Tobon,R,185,COL,24.1,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,425,41,293,76
 1992-M-SA-ECU-01A-1992d,Ecuador Masters 4,Clay,24,S,19920810,10,102266,,,Paulino Alonso,R,,CHI,18.8,107416,8,,Jorge Martinez Alonso,R,,ESP,,3-6 7-6 4-2 RET,3,R16,,,,,,,,,,,,,,,,,,,,930,3,852,5
-1992-M-SA-ECU-01A-1992d,Ecuador Masters 4,Clay,24,S,19920810,11,108585,4,,Americo Venero Montes,U,,PER,20.4,108182,,,Ruben Alvarenga,R,,PAR,19.9,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,615,16
+1992-M-SA-ECU-01A-1992d,Ecuador Masters 4,Clay,24,S,19920810,11,108585,4,,Americo Venero Montes,U,175,PER,20.4,108182,,,Ruben Alvarenga,R,,PAR,19.9,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,615,16
 1992-M-SA-ECU-01A-1992d,Ecuador Masters 4,Clay,24,S,19920810,12,107930,,,Patricio Delgado,R,,CHI,,122700,6,,Ulises Cerda Pecarevic,U,,CHI,19.4,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,817,6,,
 1992-M-SA-ECU-01A-1992d,Ecuador Masters 4,Clay,24,S,19920810,13,102064,5,,Ernesto Diaz,R,,CHI,20.2,101825,,,Manuel Tejada,R,,ESA,21.7,6-3 3-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,495,31,1087,1
 1992-M-SA-ECU-01A-1992d,Ecuador Masters 4,Clay,24,S,19920810,14,102152,3,,Pablo Campana,R,180,ECU,19.6,107665,,,Marcos Leite,R,,BRA,,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,318,66,908,4
 1992-M-SA-ECU-01A-1992d,Ecuador Masters 4,Clay,24,S,19920810,15,102248,7,,Carlos Tarantino,R,,ARG,19.0,102262,,,Cristiano Testa,L,,BRA,18.8,7-5 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,608,17,930,3
 1992-M-SA-ECU-01A-1992d,Ecuador Masters 4,Clay,24,S,19920810,16,101417,2,,Mario Rincon,R,,COL,24.6,106994,,,Federico Pierini,R,,ARG,20.0,7-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,259,100,575,20
 1992-M-SA-ECU-01A-1992d,Ecuador Masters 4,Clay,24,S,19920810,17,102348,,,Hideki Kaneko,R,,JPN,18.4,102266,,,Paulino Alonso,R,,CHI,18.8,7-5 6-4,3,QF,,,,,,,,,,,,,,,,,,,,425,41,930,3
-1992-M-SA-ECU-01A-1992d,Ecuador Masters 4,Clay,24,S,19920810,18,107930,,,Patricio Delgado,R,,CHI,,108585,4,,Americo Venero Montes,U,,PER,20.4,6-4 3-6 7-6,3,QF,,,,,,,,,,,,,,,,,,,,817,6,,
+1992-M-SA-ECU-01A-1992d,Ecuador Masters 4,Clay,24,S,19920810,18,107930,,,Patricio Delgado,R,,CHI,,108585,4,,Americo Venero Montes,U,175,PER,20.4,6-4 3-6 7-6,3,QF,,,,,,,,,,,,,,,,,,,,817,6,,
 1992-M-SA-ECU-01A-1992d,Ecuador Masters 4,Clay,24,S,19920810,19,102152,3,,Pablo Campana,R,180,ECU,19.6,102064,5,,Ernesto Diaz,R,,CHI,20.2,6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,318,66,495,31
 1992-M-SA-ECU-01A-1992d,Ecuador Masters 4,Clay,24,S,19920810,20,101417,2,,Mario Rincon,R,,COL,24.6,102248,7,,Carlos Tarantino,R,,ARG,19.0,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,259,100,608,17
 1992-M-SA-ECU-01A-1992d,Ecuador Masters 4,Clay,24,S,19920810,21,102348,,,Hideki Kaneko,R,,JPN,18.4,107930,,,Patricio Delgado,R,,CHI,,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,425,41,817,6
@@ -6642,7 +6642,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-BOL-01A-1992a,Peru Bolivia Masters 1,Clay,32,S,19920907,13,102166,,,Rodrigo Ferreiro,R,,BRA,19.6,107930,8,,Patricio Delgado,R,,CHI,,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,918,,817,
 1992-M-SA-BOL-01A-1992a,Peru Bolivia Masters 1,Clay,32,S,19920907,14,102420,,WC,Cesar Reano,R,,PER,18.2,106494,,LL,Alexandre Ahr,R,,SUI,19.2,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1041,2,,
 1992-M-SA-BOL-01A-1992a,Peru Bolivia Masters 1,Clay,32,S,19920907,15,107525,,Q,Koen Geenen,R,,BEL,,102199,,Q,Roberto Parli,R,,SUI,19.4,4-6 6-1 7-6,3,R32,,,,,,,,,,,,,,,,,,,,1111,1,,
-1992-M-SA-BOL-01A-1992a,Peru Bolivia Masters 1,Clay,32,S,19920907,16,108585,2,,Americo Venero Montes,U,,PER,20.5,122768,,LL,Alfredo Galvez,U,,PER,20.0,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1992-M-SA-BOL-01A-1992a,Peru Bolivia Masters 1,Clay,32,S,19920907,16,108585,2,,Americo Venero Montes,U,175,PER,20.5,122768,,LL,Alfredo Galvez,U,,PER,20.0,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1992-M-SA-BOL-01A-1992a,Peru Bolivia Masters 1,Clay,32,S,19920907,17,106993,1,,Federico Garcia Berro,R,,ARG,,107114,,LL,Gonzalo Prida,R,,CHI,,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,387,,,
 1992-M-SA-BOL-01A-1992a,Peru Bolivia Masters 1,Clay,32,S,19920907,18,102297,7,,Sebastian Weisz,R,,GER,18.7,107665,,LL,Marcos Leite,R,,BRA,,4-6 6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,713,,1041,2
 1992-M-SA-BOL-01A-1992a,Peru Bolivia Masters 1,Clay,32,S,19920907,19,102248,4,,Carlos Tarantino,R,,ARG,19.1,102262,,Q,Cristiano Testa,L,,BRA,18.9,6-4 3-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,614,,943,
@@ -6650,14 +6650,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-BOL-01A-1992a,Peru Bolivia Masters 1,Clay,32,S,19920907,21,102174,,Q,Francisco Ruiz,R,,CHI,19.5,122764,,Q,Luis Robles,U,,PER,16.6,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 1992-M-SA-BOL-01A-1992a,Peru Bolivia Masters 1,Clay,32,S,19920907,22,106994,3,,Federico Pierini,R,,ARG,20.0,122765,,LL,Esteban Saba,U,,USA,20.3,6-7 6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,580,,,
 1992-M-SA-BOL-01A-1992a,Peru Bolivia Masters 1,Clay,32,S,19920907,23,102166,,,Rodrigo Ferreiro,R,,BRA,19.6,102420,,WC,Cesar Reano,R,,PER,18.2,4-6 6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,918,,1041,2
-1992-M-SA-BOL-01A-1992a,Peru Bolivia Masters 1,Clay,32,S,19920907,24,108585,2,,Americo Venero Montes,U,,PER,20.5,107525,,Q,Koen Geenen,R,,BEL,,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,1111,1
+1992-M-SA-BOL-01A-1992a,Peru Bolivia Masters 1,Clay,32,S,19920907,24,108585,2,,Americo Venero Montes,U,175,PER,20.5,107525,,Q,Koen Geenen,R,,BEL,,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,1111,1
 1992-M-SA-BOL-01A-1992a,Peru Bolivia Masters 1,Clay,32,S,19920907,25,106993,1,,Federico Garcia Berro,R,,ARG,,102297,7,,Sebastian Weisz,R,,GER,18.7,6-2 6-7 7-5,3,QF,,,,,,,,,,,,,,,,,,,,387,,713,
 1992-M-SA-BOL-01A-1992a,Peru Bolivia Masters 1,Clay,32,S,19920907,26,102248,4,,Carlos Tarantino,R,,ARG,19.1,108182,6,,Ruben Alvarenga,R,,PAR,20.0,6-2 4-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,614,,690,
 1992-M-SA-BOL-01A-1992a,Peru Bolivia Masters 1,Clay,32,S,19920907,27,102174,,Q,Francisco Ruiz,R,,CHI,19.5,106994,3,,Federico Pierini,R,,ARG,20.0,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,580,
-1992-M-SA-BOL-01A-1992a,Peru Bolivia Masters 1,Clay,32,S,19920907,28,108585,2,,Americo Venero Montes,U,,PER,20.5,102166,,,Rodrigo Ferreiro,R,,BRA,19.6,6-3 4-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,,,918,
+1992-M-SA-BOL-01A-1992a,Peru Bolivia Masters 1,Clay,32,S,19920907,28,108585,2,,Americo Venero Montes,U,175,PER,20.5,102166,,,Rodrigo Ferreiro,R,,BRA,19.6,6-3 4-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,,,918,
 1992-M-SA-BOL-01A-1992a,Peru Bolivia Masters 1,Clay,32,S,19920907,29,102248,4,,Carlos Tarantino,R,,ARG,19.1,106993,1,,Federico Garcia Berro,R,,ARG,,6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,614,,387,
-1992-M-SA-BOL-01A-1992a,Peru Bolivia Masters 1,Clay,32,S,19920907,30,108585,2,,Americo Venero Montes,U,,PER,20.5,102174,,Q,Francisco Ruiz,R,,CHI,19.5,6-1 3-6 7-6,3,SF,,,,,,,,,,,,,,,,,,,,,,,
-1992-M-SA-BOL-01A-1992a,Peru Bolivia Masters 1,Clay,32,S,19920907,31,102248,4,,Carlos Tarantino,R,,ARG,19.1,108585,2,,Americo Venero Montes,U,,PER,20.5,3-6 6-3 7-6,3,F,,,,,,,,,,,,,,,,,,,,614,,,
+1992-M-SA-BOL-01A-1992a,Peru Bolivia Masters 1,Clay,32,S,19920907,30,108585,2,,Americo Venero Montes,U,175,PER,20.5,102174,,Q,Francisco Ruiz,R,,CHI,19.5,6-1 3-6 7-6,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1992-M-SA-BOL-01A-1992a,Peru Bolivia Masters 1,Clay,32,S,19920907,31,102248,4,,Carlos Tarantino,R,,ARG,19.1,108585,2,,Americo Venero Montes,U,175,PER,20.5,3-6 6-3 7-6,3,F,,,,,,,,,,,,,,,,,,,,614,,,
 1992-M-SA-BOL-01A-1992b,Peru Bolivia Masters 2,Clay,32,S,19920907,1,101923,,,Marcus Barbosa,R,,BRA,21.2,106993,1,,Federico Garcia Berro,R,,ARG,,6-3 7-6,3,R32,,,,,,,,,,,,,,,,,,,,1111,1,387,
 1992-M-SA-BOL-01A-1992b,Peru Bolivia Masters 2,Clay,32,S,19920907,2,107665,,,Marcos Leite,R,,BRA,,101825,,,Manuel Tejada,R,,ESA,21.7,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1041,2,1111,1
 1992-M-SA-BOL-01A-1992b,Peru Bolivia Masters 2,Clay,32,S,19920907,3,102420,,,Cesar Reano,R,,PER,18.2,117862,,WC,Luis Ramos,R,,PER,19.4,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1041,2,,
@@ -6673,7 +6673,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-BOL-01A-1992b,Peru Bolivia Masters 2,Clay,32,S,19920907,13,122767,8,,Juan Miguel Olvera,U,,ECU,29.2,124252,,Q,James Jack,U,,TRI,23.5,6-4 1-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1992-M-SA-BOL-01A-1992b,Peru Bolivia Masters 2,Clay,32,S,19920907,14,101478,,Q,Chris Vananroye,R,,BEL,24.3,111519,,WC,Pablo Fernandez,U,,PER,17.3,4-6 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1992-M-SA-BOL-01A-1992b,Peru Bolivia Masters 2,Clay,32,S,19920907,15,102166,,,Rodrigo Ferreiro,R,,BRA,19.6,124253,,Q,Alberto Vilca,U,,PER,27.1,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,918,,,
-1992-M-SA-BOL-01A-1992b,Peru Bolivia Masters 2,Clay,32,S,19920907,16,108585,2,,Americo Venero Montes,U,,PER,20.5,124254,,,Ariel Moreno,U,,COL,18.5,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1992-M-SA-BOL-01A-1992b,Peru Bolivia Masters 2,Clay,32,S,19920907,16,108585,2,,Americo Venero Montes,U,175,PER,20.5,124254,,,Ariel Moreno,U,,COL,18.5,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1992-M-SA-BOL-01A-1992b,Peru Bolivia Masters 2,Clay,32,S,19920907,17,101923,,,Marcus Barbosa,R,,BRA,21.2,107665,,,Marcos Leite,R,,BRA,,4-6 6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1111,1,1041,2
 1992-M-SA-BOL-01A-1992b,Peru Bolivia Masters 2,Clay,32,S,19920907,18,102297,7,,Sebastian Weisz,R,,GER,18.7,102420,,,Cesar Reano,R,,PER,18.2,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,713,,1041,2
 1992-M-SA-BOL-01A-1992b,Peru Bolivia Masters 2,Clay,32,S,19920907,19,102248,4,,Carlos Tarantino,R,,ARG,19.1,107932,,WC,Patrick Baumeler,R,,PER,,4-6 7-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,614,,,
@@ -6681,15 +6681,15 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-BOL-01A-1992b,Peru Bolivia Masters 2,Clay,32,S,19920907,21,101988,5,,Agustin Mundina,R,,ARG,20.7,106494,,,Alexandre Ahr,R,,SUI,19.2,4-6 6-3 7-6,3,R16,,,,,,,,,,,,,,,,,,,,641,,,
 1992-M-SA-BOL-01A-1992b,Peru Bolivia Masters 2,Clay,32,S,19920907,22,102314,,,Rodrigo Navarro,R,,BOL,18.6,107525,,,Koen Geenen,R,,BEL,,7-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1023,3,1111,1
 1992-M-SA-BOL-01A-1992b,Peru Bolivia Masters 2,Clay,32,S,19920907,23,101478,,Q,Chris Vananroye,R,,BEL,24.3,122767,8,,Juan Miguel Olvera,U,,ECU,29.2,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,,
-1992-M-SA-BOL-01A-1992b,Peru Bolivia Masters 2,Clay,32,S,19920907,24,108585,2,,Americo Venero Montes,U,,PER,20.5,102166,,,Rodrigo Ferreiro,R,,BRA,19.6,7-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,918,
+1992-M-SA-BOL-01A-1992b,Peru Bolivia Masters 2,Clay,32,S,19920907,24,108585,2,,Americo Venero Montes,U,175,PER,20.5,102166,,,Rodrigo Ferreiro,R,,BRA,19.6,7-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,918,
 1992-M-SA-BOL-01A-1992b,Peru Bolivia Masters 2,Clay,32,S,19920907,25,102297,7,,Sebastian Weisz,R,,GER,18.7,101923,,,Marcus Barbosa,R,,BRA,21.2,7-5 7-6,3,QF,,,,,,,,,,,,,,,,,,,,713,,1111,1
 1992-M-SA-BOL-01A-1992b,Peru Bolivia Masters 2,Clay,32,S,19920907,26,102174,,Q,Francisco Ruiz,R,,CHI,19.5,102248,4,,Carlos Tarantino,R,,ARG,19.1,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,614,
 1992-M-SA-BOL-01A-1992b,Peru Bolivia Masters 2,Clay,32,S,19920907,27,101988,5,,Agustin Mundina,R,,ARG,20.7,102314,,,Rodrigo Navarro,R,,BOL,18.6,2-6 7-6 3-0 RET,3,QF,,,,,,,,,,,,,,,,,,,,641,,1023,3
-1992-M-SA-BOL-01A-1992b,Peru Bolivia Masters 2,Clay,32,S,19920907,28,108585,2,,Americo Venero Montes,U,,PER,20.5,101478,,Q,Chris Vananroye,R,,BEL,24.3,7-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,,
+1992-M-SA-BOL-01A-1992b,Peru Bolivia Masters 2,Clay,32,S,19920907,28,108585,2,,Americo Venero Montes,U,175,PER,20.5,101478,,Q,Chris Vananroye,R,,BEL,24.3,7-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,,
 1992-M-SA-BOL-01A-1992b,Peru Bolivia Masters 2,Clay,32,S,19920907,29,102174,,Q,Francisco Ruiz,R,,CHI,19.5,102297,7,,Sebastian Weisz,R,,GER,18.7,6-1 7-6,3,SF,,,,,,,,,,,,,,,,,,,,,,713,
-1992-M-SA-BOL-01A-1992b,Peru Bolivia Masters 2,Clay,32,S,19920907,30,108585,2,,Americo Venero Montes,U,,PER,20.5,101988,5,,Agustin Mundina,R,,ARG,20.7,6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,,,641,
-1992-M-SA-BOL-01A-1992b,Peru Bolivia Masters 2,Clay,32,S,19920907,31,108585,2,,Americo Venero Montes,U,,PER,20.5,102174,,Q,Francisco Ruiz,R,,CHI,19.5,6-4 7-5,3,F,,,,,,,,,,,,,,,,,,,,,,,
-1992-M-SA-BOL-01A-1992c,Peru Bolivia Masters 3,Clay,32,S,19920907,1,108585,1,,Americo Venero Montes,U,,PER,20.5,124254,,Q,Ariel Moreno,U,,COL,18.5,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1992-M-SA-BOL-01A-1992b,Peru Bolivia Masters 2,Clay,32,S,19920907,30,108585,2,,Americo Venero Montes,U,175,PER,20.5,101988,5,,Agustin Mundina,R,,ARG,20.7,6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,,,641,
+1992-M-SA-BOL-01A-1992b,Peru Bolivia Masters 2,Clay,32,S,19920907,31,108585,2,,Americo Venero Montes,U,175,PER,20.5,102174,,Q,Francisco Ruiz,R,,CHI,19.5,6-4 7-5,3,F,,,,,,,,,,,,,,,,,,,,,,,
+1992-M-SA-BOL-01A-1992c,Peru Bolivia Masters 3,Clay,32,S,19920907,1,108585,1,,Americo Venero Montes,U,175,PER,20.5,124254,,Q,Ariel Moreno,U,,COL,18.5,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1992-M-SA-BOL-01A-1992c,Peru Bolivia Masters 3,Clay,32,S,19920907,2,101923,,,Marcus Barbosa,R,,BRA,21.2,102266,,,Paulino Alonso,R,,CHI,18.9,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1111,1,943,
 1992-M-SA-BOL-01A-1992c,Peru Bolivia Masters 3,Clay,32,S,19920907,3,102199,,Q,Roberto Parli,R,,SUI,19.4,108732,,Q,Carlos Martin Navarro Vergara,U,,BOL,15.7,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1992-M-SA-BOL-01A-1992c,Peru Bolivia Masters 3,Clay,32,S,19920907,4,108182,,,Ruben Alvarenga,R,,PAR,20.0,102166,7,,Rodrigo Ferreiro,R,,BRA,19.6,3-6 6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,690,,918,
@@ -6705,7 +6705,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-BOL-01A-1992c,Peru Bolivia Masters 3,Clay,32,S,19920907,14,107665,,,Marcos Leite,R,,BRA,,102420,,,Cesar Reano,R,,PER,18.2,3-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1041,2,1041,2
 1992-M-SA-BOL-01A-1992c,Peru Bolivia Masters 3,Clay,32,S,19920907,15,101825,,Q,Manuel Tejada,R,,ESA,21.7,122768,,LL,Alfredo Galvez,U,,PER,20.0,6-3 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1111,1,,
 1992-M-SA-BOL-01A-1992c,Peru Bolivia Masters 3,Clay,32,S,19920907,16,107114,,,Gonzalo Prida,R,,CHI,,102174,2,,Francisco Ruiz,R,,CHI,19.5,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-1992-M-SA-BOL-01A-1992c,Peru Bolivia Masters 3,Clay,32,S,19920907,17,108585,1,,Americo Venero Montes,U,,PER,20.5,101923,,,Marcus Barbosa,R,,BRA,21.2,6-3 7-6,3,R16,,,,,,,,,,,,,,,,,,,,,,1111,1
+1992-M-SA-BOL-01A-1992c,Peru Bolivia Masters 3,Clay,32,S,19920907,17,108585,1,,Americo Venero Montes,U,175,PER,20.5,101923,,,Marcus Barbosa,R,,BRA,21.2,6-3 7-6,3,R16,,,,,,,,,,,,,,,,,,,,,,1111,1
 1992-M-SA-BOL-01A-1992c,Peru Bolivia Masters 3,Clay,32,S,19920907,18,108182,,,Ruben Alvarenga,R,,PAR,20.0,102199,,Q,Roberto Parli,R,,SUI,19.4,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,690,,,
 1992-M-SA-BOL-01A-1992c,Peru Bolivia Masters 3,Clay,32,S,19920907,19,106994,,,Federico Pierini,R,,ARG,20.0,102297,4,,Sebastian Weisz,R,,GER,18.7,4-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,580,,713,
 1992-M-SA-BOL-01A-1992c,Peru Bolivia Masters 3,Clay,32,S,19920907,20,106993,5,,Federico Garcia Berro,R,,ARG,,102262,,,Cristiano Testa,L,,BRA,18.9,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,387,,943,
@@ -6713,13 +6713,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-BOL-01A-1992c,Peru Bolivia Masters 3,Clay,32,S,19920907,22,102248,3,,Carlos Tarantino,R,,ARG,19.1,107525,,,Koen Geenen,R,,BEL,,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,614,,1111,1
 1992-M-SA-BOL-01A-1992c,Peru Bolivia Masters 3,Clay,32,S,19920907,23,122767,,,Juan Miguel Olvera,U,,ECU,29.2,107665,,,Marcos Leite,R,,BRA,,4-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,1041,2
 1992-M-SA-BOL-01A-1992c,Peru Bolivia Masters 3,Clay,32,S,19920907,24,107114,,,Gonzalo Prida,R,,CHI,,101825,,Q,Manuel Tejada,R,,ESA,21.7,6-3 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,1111,1
-1992-M-SA-BOL-01A-1992c,Peru Bolivia Masters 3,Clay,32,S,19920907,25,108585,1,,Americo Venero Montes,U,,PER,20.5,108182,,,Ruben Alvarenga,R,,PAR,20.0,4-6 7-6 7-5,3,QF,,,,,,,,,,,,,,,,,,,,,,690,
+1992-M-SA-BOL-01A-1992c,Peru Bolivia Masters 3,Clay,32,S,19920907,25,108585,1,,Americo Venero Montes,U,175,PER,20.5,108182,,,Ruben Alvarenga,R,,PAR,20.0,4-6 7-6 7-5,3,QF,,,,,,,,,,,,,,,,,,,,,,690,
 1992-M-SA-BOL-01A-1992c,Peru Bolivia Masters 3,Clay,32,S,19920907,26,106994,,,Federico Pierini,R,,ARG,20.0,106993,5,,Federico Garcia Berro,R,,ARG,,6-4 4-6 7-6,3,QF,,,,,,,,,,,,,,,,,,,,580,,387,
 1992-M-SA-BOL-01A-1992c,Peru Bolivia Masters 3,Clay,32,S,19920907,27,102248,3,,Carlos Tarantino,R,,ARG,19.1,101988,6,,Agustin Mundina,R,,ARG,20.7,6-3 5-7 6-3,3,QF,,,,,,,,,,,,,,,,,,,,614,,641,
 1992-M-SA-BOL-01A-1992c,Peru Bolivia Masters 3,Clay,32,S,19920907,28,122767,,,Juan Miguel Olvera,U,,ECU,29.2,107114,,,Gonzalo Prida,R,,CHI,,6-3 7-6,3,QF,,,,,,,,,,,,,,,,,,,,,,,
-1992-M-SA-BOL-01A-1992c,Peru Bolivia Masters 3,Clay,32,S,19920907,29,108585,1,,Americo Venero Montes,U,,PER,20.5,106994,,,Federico Pierini,R,,ARG,20.0,6-0 6-0,3,SF,,,,,,,,,,,,,,,,,,,,,,580,
+1992-M-SA-BOL-01A-1992c,Peru Bolivia Masters 3,Clay,32,S,19920907,29,108585,1,,Americo Venero Montes,U,175,PER,20.5,106994,,,Federico Pierini,R,,ARG,20.0,6-0 6-0,3,SF,,,,,,,,,,,,,,,,,,,,,,580,
 1992-M-SA-BOL-01A-1992c,Peru Bolivia Masters 3,Clay,32,S,19920907,30,102248,3,,Carlos Tarantino,R,,ARG,19.1,122767,,,Juan Miguel Olvera,U,,ECU,29.2,7-5 6-2,3,SF,,,,,,,,,,,,,,,,,,,,614,,,
-1992-M-SA-BOL-01A-1992c,Peru Bolivia Masters 3,Clay,32,S,19920907,31,102248,3,,Carlos Tarantino,R,,ARG,19.1,108585,1,,Americo Venero Montes,U,,PER,20.5,4-6 6-4 6-4,3,F,,,,,,,,,,,,,,,,,,,,614,,,
+1992-M-SA-BOL-01A-1992c,Peru Bolivia Masters 3,Clay,32,S,19920907,31,102248,3,,Carlos Tarantino,R,,ARG,19.1,108585,1,,Americo Venero Montes,U,175,PER,20.5,4-6 6-4 6-4,3,F,,,,,,,,,,,,,,,,,,,,614,,,
 1992-M-SA-BOL-01A-1992d,Peru Bolivia Masters 4,Clay,24,S,19920907,1,108182,,,Ruben Alvarenga,R,,PAR,20.0,102266,,,Paulino Alonso,R,,CHI,18.9,6-2 7-6,3,R32,,,,,,,,,,,,,,,,,,,,690,,943,
 1992-M-SA-BOL-01A-1992d,Peru Bolivia Masters 4,Clay,24,S,19920907,2,102262,,,Cristiano Testa,L,,BRA,18.9,101478,,,Chris Vananroye,R,,BEL,24.3,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,943,,,
 1992-M-SA-BOL-01A-1992d,Peru Bolivia Masters 4,Clay,24,S,19920907,3,102166,,,Rodrigo Ferreiro,R,,BRA,19.6,122765,,,Esteban Saba,U,,USA,20.3,6-2 6-7 7-6,3,R32,,,,,,,,,,,,,,,,,,,,918,,,
@@ -6728,7 +6728,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-BOL-01A-1992d,Peru Bolivia Masters 4,Clay,24,S,19920907,6,102420,,,Cesar Reano,R,,PER,18.2,102199,,,Roberto Parli,R,,SUI,19.4,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1041,2,,
 1992-M-SA-BOL-01A-1992d,Peru Bolivia Masters 4,Clay,24,S,19920907,7,106494,,,Alexandre Ahr,R,,SUI,19.2,122760,,,Sergio Mantoni,U,,ARG,19.4,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1992-M-SA-BOL-01A-1992d,Peru Bolivia Masters 4,Clay,24,S,19920907,8,107525,,,Koen Geenen,R,,BEL,,107665,,,Marcos Leite,R,,BRA,,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1111,1,1041,2
-1992-M-SA-BOL-01A-1992d,Peru Bolivia Masters 4,Clay,24,S,19920907,9,108182,,,Ruben Alvarenga,R,,PAR,20.0,108585,1,,Americo Venero Montes,U,,PER,20.5,7-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,690,,,
+1992-M-SA-BOL-01A-1992d,Peru Bolivia Masters 4,Clay,24,S,19920907,9,108182,,,Ruben Alvarenga,R,,PAR,20.0,108585,1,,Americo Venero Montes,U,175,PER,20.5,7-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,690,,,
 1992-M-SA-BOL-01A-1992d,Peru Bolivia Masters 4,Clay,24,S,19920907,10,101988,7,,Agustin Mundina,R,,ARG,20.7,102262,,,Cristiano Testa,L,,BRA,18.9,2-6 6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,641,,943,
 1992-M-SA-BOL-01A-1992d,Peru Bolivia Masters 4,Clay,24,S,19920907,11,102166,,,Rodrigo Ferreiro,R,,BRA,19.6,102297,4,,Sebastian Weisz,R,,GER,18.7,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,918,,713,
 1992-M-SA-BOL-01A-1992d,Peru Bolivia Masters 4,Clay,24,S,19920907,12,106993,5,,Federico Garcia Berro,R,,ARG,,107114,,,Gonzalo Prida,R,,CHI,,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,387,,,
@@ -6871,7 +6871,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-POR-03A-1992a,Portugal 3 Masters 1,Hard,32,S,19920928,10,102484,,,Massimo Calvelli,R,183,ITA,17.8,101450,,WC,Jose Nunes,R,,POR,24.5,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,716,10,786,7
 1992-M-SA-POR-03A-1992a,Portugal 3 Masters 1,Hard,32,S,19920928,11,107293,,Q,Jason Sher,R,,RSA,,101791,,WC,Riva Da Silva,R,,POR,22.1,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1090,2
 1992-M-SA-POR-03A-1992a,Portugal 3 Masters 1,Hard,32,S,19920928,12,101739,3,,Jiri Pelikan,R,196,CZE,22.3,122693,,LL,Fredrik Mansson,U,,SWE,19.1,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,451,37,,
-1992-M-SA-POR-03A-1992a,Portugal 3 Masters 1,Hard,32,S,19920928,13,102100,7,,Bartlomiej Dabrowski,R,,POL,20.1,109771,,LL,Jairo Velasco,R,,ESP,45.3,6-7 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,650,14,,
+1992-M-SA-POR-03A-1992a,Portugal 3 Masters 1,Hard,32,S,19920928,13,102100,7,,Bartlomiej Dabrowski,R,,POL,20.1,109771,,LL,Jairo Velasco,R,173,ESP,45.3,6-7 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,650,14,,
 1992-M-SA-POR-03A-1992a,Portugal 3 Masters 1,Hard,32,S,19920928,14,102674,,LL,Lars Kirschner,R,,GER,16.9,102230,,LL,Cedric Melot,R,188,BEL,19.2,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1992-M-SA-POR-03A-1992a,Portugal 3 Masters 1,Hard,32,S,19920928,15,101883,,Q,Alexi Filippov,R,,RUS,21.5,107372,,Q,Johan Sunnemark,R,,SWE,,7-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,774,7,957,3
 1992-M-SA-POR-03A-1992a,Portugal 3 Masters 1,Hard,32,S,19920928,16,101731,2,WC,Nuno Marques,L,190,POR,22.4,108559,,Q,Yoav Loewenstein,R,,ISR,,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,407,46,,
@@ -6925,10 +6925,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-POR-03A-1992c,Portugal 3 Masters 3,Hard,32,S,19920928,2,101952,,Q,Ingo Herzgerodt,R,,GER,21.0,123305,,WC,Martim Peralta,U,,POR,19.1,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1992-M-SA-POR-03A-1992c,Portugal 3 Masters 3,Hard,32,S,19920928,3,101883,,,Alexi Filippov,R,,RUS,21.5,102315,,,Vasco Goncalves,R,,POR,18.6,2-6 7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,774,7,760,8
 1992-M-SA-POR-03A-1992c,Portugal 3 Masters 3,Hard,32,S,19920928,4,102426,,Q,Juan Ignacio Carrasco,L,185,ESP,18.2,102521,8,,Hendrik Dreekmann,R,188,GER,17.6,7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,587,18,543,22
-1992-M-SA-POR-03A-1992c,Portugal 3 Masters 3,Hard,32,S,19920928,5,101498,3,,Clinton Ferreira,R,,RSA,24.2,109771,,Q,Jairo Velasco,R,,ESP,45.3,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,888,4,,
+1992-M-SA-POR-03A-1992c,Portugal 3 Masters 3,Hard,32,S,19920928,5,101498,3,,Clinton Ferreira,R,,RSA,24.2,109771,,Q,Jairo Velasco,R,173,ESP,45.3,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,888,4,,
 1992-M-SA-POR-03A-1992c,Portugal 3 Masters 3,Hard,32,S,19920928,6,122693,,Q,Fredrik Mansson,U,,SWE,19.1,102674,,Q,Lars Kirschner,R,,GER,16.9,5-7 6-3 7-6,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1992-M-SA-POR-03A-1992c,Portugal 3 Masters 3,Hard,32,S,19920928,7,100917,,,Nelson Aerts,R,188,BRA,29.4,102239,,WC,Francisco Costa,R,180,BRA,19.2,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,356,55,,
-1992-M-SA-POR-03A-1992c,Portugal 3 Masters 3,Hard,32,S,19920928,8,102397,5,,Jose Imaz Ruiz,R,178,ESP,18.3,109771,,Q,Jairo Velasco,R,,ESP,45.3,6-7 7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,695,11,,
+1992-M-SA-POR-03A-1992c,Portugal 3 Masters 3,Hard,32,S,19920928,8,102397,5,,Jose Imaz Ruiz,R,178,ESP,18.3,109771,,Q,Jairo Velasco,R,173,ESP,45.3,6-7 7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,695,11,,
 1992-M-SA-POR-03A-1992c,Portugal 3 Masters 3,Hard,32,S,19920928,9,107293,6,,Jason Sher,R,,RSA,,108427,,,Tomasz Lichon,R,,POL,21.2,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,1056,2
 1992-M-SA-POR-03A-1992c,Portugal 3 Masters 3,Hard,32,S,19920928,10,101626,,,Stephen Noteboom,R,185,NED,23.1,102216,,,Mark Joachim,R,,GER,19.3,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1056,2,725,9
 1992-M-SA-POR-03A-1992c,Portugal 3 Masters 3,Hard,32,S,19920928,11,101815,,,Sergio Gomez Barrio,R,,ESP,21.9,101791,,,Riva Da Silva,R,,POR,22.1,7-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,492,30,1090,2

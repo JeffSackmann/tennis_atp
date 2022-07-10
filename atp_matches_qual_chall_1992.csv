@@ -191,7 +191,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-257,Santiago CH,Clay,32,C,19920309,4,101876,7,,Massimo Ardinghi,R,175,ITA,21.0,102111,,LL,Diego Del Rio,R,175,ARG,19.5,6-3 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,271,92,486,30
 1992-257,Santiago CH,Clay,32,C,19920309,5,101822,4,,Luis Lobo,R,180,ARG,21.3,109193,,WC,Javier Jadue,R,,CHI,,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,216,136,,
 1992-257,Santiago CH,Clay,32,C,19920309,6,107155,,Q,Gustavo Re,R,,ARG,,102302,,,Marcelo Saliola,L,178,BRA,18.1,7-6 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,614,17,260,100
-1992-257,Santiago CH,Clay,32,C,19920309,7,101105,,,Jose Antonio Fernandez,R,,CHI,27.1,101574,,,Alejandro Aramburu,R,175,PER,23.0,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,334,63,300,79
+1992-257,Santiago CH,Clay,32,C,19920309,7,101105,,,Jose Antonio Fernandez,R,170,CHI,27.1,101574,,,Alejandro Aramburu,R,175,PER,23.0,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,334,63,300,79
 1992-257,Santiago CH,Clay,32,C,19920309,8,101058,,,Francisco Yunis,R,190,ARG,27.5,101076,5,,Cesar Kist,R,180,BRA,27.3,4-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,279,89,240,117
 1992-257,Santiago CH,Clay,32,C,19920309,9,101167,6,,Jaime Cortes,R,,COL,26.6,101339,,LL,Agustin Moreno,R,180,MEX,24.9,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,253,104,486,30
 1992-257,Santiago CH,Clay,32,C,19920309,10,101163,,WC,Juan Pablo Queirolo,R,,CHI,26.6,102224,,Q,Miguel Pastura,R,,ARG,18.7,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,634,16
@@ -204,16 +204,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-257,Santiago CH,Clay,32,C,19920309,17,102024,,,Hernan Gumy,R,188,ARG,20.0,102465,,WC,Gabriel Silberstein,R,178,CHI,17.3,6-7 6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,333,63,,
 1992-257,Santiago CH,Clay,32,C,19920309,18,101430,,,Sergio Cortes,R,170,CHI,24.1,101876,7,,Massimo Ardinghi,R,175,ITA,21.0,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,316,72,271,92
 1992-257,Santiago CH,Clay,32,C,19920309,19,107155,,Q,Gustavo Re,R,,ARG,,101822,4,,Luis Lobo,R,180,ARG,21.3,4-6 7-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,614,17,216,136
-1992-257,Santiago CH,Clay,32,C,19920309,20,101105,,,Jose Antonio Fernandez,R,,CHI,27.1,101058,,,Francisco Yunis,R,190,ARG,27.5,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,334,63,279,89
+1992-257,Santiago CH,Clay,32,C,19920309,20,101105,,,Jose Antonio Fernandez,R,170,CHI,27.1,101058,,,Francisco Yunis,R,190,ARG,27.5,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,334,63,279,89
 1992-257,Santiago CH,Clay,32,C,19920309,21,101167,6,,Jaime Cortes,R,,COL,26.6,101163,,WC,Juan Pablo Queirolo,R,,CHI,26.6,3-6 1-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,253,104,,
 1992-257,Santiago CH,Clay,32,C,19920309,22,100865,3,,Marcelo Ingaramo,L,178,ARG,29.4,100711,,,Pedro Rebolledo,R,170,CHI,31.2,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,205,144,259,101
 1992-257,Santiago CH,Clay,32,C,19920309,23,101329,,Q,Christer Allgardh,R,190,SWE,25.0,101741,,Q,Gonzalo Fernandez,R,,CHI,21.8,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,318,71,912,4
 1992-257,Santiago CH,Clay,32,C,19920309,24,100795,,,Alvaro Jordan,R,185,COL,30.1,106967,,,Ettore Rossetti,R,,ITA,,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,291,83,294,81
 1992-257,Santiago CH,Clay,32,C,19920309,25,101430,,,Sergio Cortes,R,170,CHI,24.1,102024,,,Hernan Gumy,R,188,ARG,20.0,5-7 6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,316,72,333,63
-1992-257,Santiago CH,Clay,32,C,19920309,26,101105,,,Jose Antonio Fernandez,R,,CHI,27.1,107155,,Q,Gustavo Re,R,,ARG,,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,334,63,614,17
+1992-257,Santiago CH,Clay,32,C,19920309,26,101105,,,Jose Antonio Fernandez,R,170,CHI,27.1,107155,,Q,Gustavo Re,R,,ARG,,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,334,63,614,17
 1992-257,Santiago CH,Clay,32,C,19920309,27,100865,3,,Marcelo Ingaramo,L,178,ARG,29.4,101167,6,,Jaime Cortes,R,,COL,26.6,4-6 6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,205,144,253,104
 1992-257,Santiago CH,Clay,32,C,19920309,28,100795,,,Alvaro Jordan,R,185,COL,30.1,101329,,Q,Christer Allgardh,R,190,SWE,25.0,2-6 7-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,291,83,318,71
-1992-257,Santiago CH,Clay,32,C,19920309,29,101430,,,Sergio Cortes,R,170,CHI,24.1,101105,,,Jose Antonio Fernandez,R,,CHI,27.1,4-6 6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,316,72,334,63
+1992-257,Santiago CH,Clay,32,C,19920309,29,101430,,,Sergio Cortes,R,170,CHI,24.1,101105,,,Jose Antonio Fernandez,R,170,CHI,27.1,4-6 6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,316,72,334,63
 1992-257,Santiago CH,Clay,32,C,19920309,30,100865,3,,Marcelo Ingaramo,L,178,ARG,29.4,100795,,,Alvaro Jordan,R,185,COL,30.1,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,205,144,291,83
 1992-257,Santiago CH,Clay,32,C,19920309,31,100865,3,,Marcelo Ingaramo,L,178,ARG,29.4,101430,,,Sergio Cortes,R,170,CHI,24.1,6-4 6-1,3,F,,,,,,,,,,,,,,,,,,,,205,144,316,72
 1992-211,Tunis CH,Clay,32,C,19920309,1,101746,1,,Renzo Furlan,R,175,ITA,21.8,100954,,,Luiz Mattar,R,183,BRA,28.5,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,53,592,90,385
@@ -597,7 +597,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-780,Prague CH,Clay,32,C,19920504,7,101375,,LL,Brian Devening,R,185,USA,24.8,101895,,,Michael Brown B395,R,175,AUS,21.0,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,449,36,255,102
 1992-780,Prague CH,Clay,32,C,19920504,8,102026,,WC,Jan Kodes Jr,R,178,CZE,20.1,101393,6,,Jens Woehrmann,R,180,GER,24.6,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,612,17,177,179
 1992-780,Prague CH,Clay,32,C,19920504,9,101691,,,Florian Krumrey,R,190,GER,22.2,102358,5,,Thomas Enqvist,R,190,SWE,18.1,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,314,73,180,173
-1992-780,Prague CH,Clay,32,C,19920504,10,101105,,LL,Jose Antonio Fernandez,R,,CHI,27.2,107254,,,Jacco Van Duyn,R,,NED,24.2,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,332,64,275,92
+1992-780,Prague CH,Clay,32,C,19920504,10,101105,,LL,Jose Antonio Fernandez,R,170,CHI,27.2,107254,,,Jacco Van Duyn,R,,NED,24.2,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,332,64,275,92
 1992-780,Prague CH,Clay,32,C,19920504,11,101513,,,John Stimpson,R,183,USA,23.6,101058,,,Francisco Yunis,R,190,ARG,27.7,4-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,318,71,274,92
 1992-780,Prague CH,Clay,32,C,19920504,12,101430,,,Sergio Cortes,R,170,CHI,24.3,101721,3,,Markus Zillner,L,178,GER,22.1,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,235,118,150,231
 1992-780,Prague CH,Clay,32,C,19920504,13,101027,,Q,Jaroslav Bulant,R,175,CZE,28.0,101226,8,,Johan Carlsson,R,183,SWE,26.2,6-4 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,568,21,195,153
@@ -608,7 +608,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-780,Prague CH,Clay,32,C,19920504,18,101829,7,,Federico Sanchez,R,168,ESP,21.4,101324,,Q,Ulf Stenlund,R,180,SWE,25.2,4-6 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,189,162,401,46
 1992-780,Prague CH,Clay,32,C,19920504,19,102344,,,Karol Kucera,R,188,SVK,18.1,101765,4,,Tomas Anzari,R,180,CZE,21.8,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,251,103,158,215
 1992-780,Prague CH,Clay,32,C,19920504,20,101375,,LL,Brian Devening,R,185,USA,24.8,102026,,WC,Jan Kodes Jr,R,178,CZE,20.1,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,449,36,612,17
-1992-780,Prague CH,Clay,32,C,19920504,21,101691,,,Florian Krumrey,R,190,GER,22.2,101105,,LL,Jose Antonio Fernandez,R,,CHI,27.2,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,314,73,332,64
+1992-780,Prague CH,Clay,32,C,19920504,21,101691,,,Florian Krumrey,R,190,GER,22.2,101105,,LL,Jose Antonio Fernandez,R,170,CHI,27.2,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,314,73,332,64
 1992-780,Prague CH,Clay,32,C,19920504,22,101430,,,Sergio Cortes,R,170,CHI,24.3,101513,,,John Stimpson,R,183,USA,23.6,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,235,118,318,71
 1992-780,Prague CH,Clay,32,C,19920504,23,101027,,Q,Jaroslav Bulant,R,175,CZE,28.0,101792,,WC,Slava Dosedel,R,183,CZE,21.7,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,568,21,295,80
 1992-780,Prague CH,Clay,32,C,19920504,24,101232,,Q,Nicklas Kroon,R,183,SWE,26.2,101866,2,,David Rikl,L,178,CZE,21.1,5-7 7-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,242,110,145,244
@@ -843,7 +843,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-829,Halle CH,Clay,32,C,19920615,5,101086,4,,Ronald Agenor,R,180,USA,27.5,100727,,,Raul Antonio Viver,L,190,ECU,31.2,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,102,371,138,256
 1992-829,Halle CH,Clay,32,C,19920615,6,102521,,WC,Hendrik Dreekmann,R,188,GER,17.3,101961,,,Martin Stringari,R,188,ARG,20.7,6-4 6-7 6-1,3,R32,,,,,,,,,,,,,,,,,,,,684,12,150,232
 1992-829,Halle CH,Clay,32,C,19920615,7,101552,,,Xavier Daufresne,R,193,BEL,23.4,102202,,,Kenneth Carlsen,L,190,DEN,19.1,6-3 7-6,3,R32,,,,,,,,,,,,,,,,,,,,155,225,172,187
-1992-829,Halle CH,Clay,32,C,19920615,8,102374,5,,Alex Corretja,R,180,ESP,18.1,101105,,Q,Jose Antonio Fernandez,R,,CHI,27.3,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,110,342,319,70
+1992-829,Halle CH,Clay,32,C,19920615,8,102374,5,,Alex Corretja,R,180,ESP,18.1,101105,,Q,Jose Antonio Fernandez,R,170,CHI,27.3,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,110,342,319,70
 1992-829,Halle CH,Clay,32,C,19920615,9,101338,,,Olivier Soules,R,188,FRA,25.2,100782,6,,Pablo Arraya,R,180,PER,30.6,6-3 6-7 6-1,3,R32,,,,,,,,,,,,,,,,,,,,149,236,134,268
 1992-829,Halle CH,Clay,32,C,19920615,10,101601,,,Brett Steven,R,185,NZL,23.1,101416,,,Joao Cunha Silva,R,173,POR,24.5,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,156,224,147,247
 1992-829,Halle CH,Clay,32,C,19920615,11,101897,,LL,Fernando Meligeni,L,180,BRA,21.1,102318,,Q,Andrei Pavel,R,183,ROU,18.3,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,220,128,495,30
@@ -1337,7 +1337,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-834,Vienna CH,Clay,32,C,19920727,3,102171,,WC,Reinhard Wawra,R,,AUT,19.4,102273,,LL,David Salvador Estepa,R,,ESP,18.7,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,749,8,533,24
 1992-834,Vienna CH,Clay,32,C,19920727,4,101561,7,,Nicklas Utgren,R,188,SWE,23.5,107886,,,Oliver Vogt,R,,GER,,7-5 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,223,123,381,50
 1992-834,Vienna CH,Clay,32,C,19920727,5,101058,4,,Francisco Yunis,R,190,ARG,27.9,107798,,,Miguel Merz,R,,ESA,25.1,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,201,143,287,79
-1992-834,Vienna CH,Clay,32,C,19920727,6,101105,,,Jose Antonio Fernandez,R,,CHI,27.4,101224,,,Kenny Thorne,R,188,USA,26.5,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,331,61,332,61
+1992-834,Vienna CH,Clay,32,C,19920727,6,101105,,,Jose Antonio Fernandez,R,170,CHI,27.4,101224,,,Kenny Thorne,R,188,USA,26.5,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,331,61,332,61
 1992-834,Vienna CH,Clay,32,C,19920727,7,101367,,Q,Igor Saric,R,190,CRO,25.0,101995,,Q,Krister Wedenby,L,185,SWE,20.6,6-4 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,543,22,411,44
 1992-834,Vienna CH,Clay,32,C,19920727,8,100865,6,,Marcelo Ingaramo,L,178,ARG,29.7,102389,,WC,Alexander Krell,R,,AUT,18.2,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,194,151,,
 1992-834,Vienna CH,Clay,32,C,19920727,9,101534,5,,Libor Nemecek,R,168,CZE,23.7,108390,,WC,Thomas Prerovsky,R,,AUT,23.4,3-6 7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,198,145,664,12
@@ -1350,7 +1350,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-834,Vienna CH,Clay,32,C,19920727,16,101143,,,Branislav Stankovic,R,175,SVK,27.1,101721,2,,Markus Zillner,L,178,GER,22.3,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,232,119,163,216
 1992-834,Vienna CH,Clay,32,C,19920727,17,102029,,,Filip Dewulf,R,190,BEL,20.3,102085,,,Sasa Hirszon,R,185,CRO,20.0,7-6 3-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,,284,81,336,60
 1992-834,Vienna CH,Clay,32,C,19920727,18,102171,,WC,Reinhard Wawra,R,,AUT,19.4,101561,7,,Nicklas Utgren,R,188,SWE,23.5,W/O,3,R16,,,,,,,,,,,,,,,,,,,,749,8,223,123
-1992-834,Vienna CH,Clay,32,C,19920727,19,101058,4,,Francisco Yunis,R,190,ARG,27.9,101105,,,Jose Antonio Fernandez,R,,CHI,27.4,6-3 7-6,3,R16,,,,,,,,,,,,,,,,,,,,201,143,331,61
+1992-834,Vienna CH,Clay,32,C,19920727,19,101058,4,,Francisco Yunis,R,190,ARG,27.9,101105,,,Jose Antonio Fernandez,R,170,CHI,27.4,6-3 7-6,3,R16,,,,,,,,,,,,,,,,,,,,201,143,331,61
 1992-834,Vienna CH,Clay,32,C,19920727,20,100865,6,,Marcelo Ingaramo,L,178,ARG,29.7,101367,,Q,Igor Saric,R,190,CRO,25.0,3-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,194,151,543,22
 1992-834,Vienna CH,Clay,32,C,19920727,21,101279,,,Philippe Pech,L,180,FRA,25.9,101534,5,,Libor Nemecek,R,168,CZE,23.7,6-3 RET,3,R16,,,,,,,,,,,,,,,,,,,,295,76,198,145
 1992-834,Vienna CH,Clay,32,C,19920727,22,101861,,,Thomas Buchmayer,L,185,AUT,21.4,101406,,,Wojtek Kowalski,R,183,POL,24.7,7-5 0-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,,252,103,257,101

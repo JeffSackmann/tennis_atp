@@ -36,7 +36,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-891,Chennai,Hard,28,A,20131230,8,106368,,Q,Ramkumar Ramanathan,R,188,IND,19.1,104500,,,Somdev Devvarman,R,180,IND,28.8,4-6 6-3 6-4,3,R32,142,6,8,114,59,41,26,15,5,8,2,1,88,57,37,15,14,5,9,526,65,90,599
 2014-891,Chennai,Hard,28,A,20131230,9,104198,,,Guillermo Garcia Lopez,R,188,ESP,30.5,104873,,,Aleksandr Nedovyesov,R,193,KAZ,26.8,7-5 6-0,3,R32,71,3,2,47,26,20,16,9,0,0,1,5,59,32,19,12,9,5,9,62,768,93,586
 2014-891,Chennai,Hard,28,A,20131230,10,104273,7,,Edouard Roger Vasselin,R,188,FRA,30.0,105077,,,Albert Ramos,L,188,ESP,25.9,6-1 6-3,3,R32,71,2,2,53,37,23,11,8,2,3,1,5,55,30,18,6,8,5,10,52,908,83,617
-2014-891,Chennai,Hard,28,A,20131230,11,106210,,,Jiri Vesely,L,198,CZE,20.4,105233,,WC,Jeevan Nedunchezhiyan,L,,IND,25.1,7-5 6-2,3,R32,83,5,6,57,32,24,14,10,2,4,0,3,58,35,16,13,10,1,6,85,616,314,141
+2014-891,Chennai,Hard,28,A,20131230,11,106210,,,Jiri Vesely,L,198,CZE,20.4,105233,,WC,Jeevan Nedunchezhiyan,L,173,IND,25.1,7-5 6-2,3,R32,83,5,6,57,32,24,14,10,2,4,0,3,58,35,16,13,10,1,6,85,616,314,141
 2014-891,Chennai,Hard,28,A,20131230,12,104534,,,Dudi Sela,R,175,ISR,28.7,105041,,,Lukas Lacko,R,185,SVK,26.1,6-4 6-2,3,R32,87,2,1,67,42,29,14,9,5,6,4,6,77,46,26,15,9,6,10,73,681,81,625
 2014-891,Chennai,Hard,28,A,20131230,13,104527,1,,Stan Wawrinka,R,183,SUI,28.7,103794,,,Benjamin Becker,R,178,GER,32.5,6-3 6-1,3,R16,55,4,3,46,29,25,10,8,4,4,2,3,51,26,14,11,8,4,8,8,3730,79,637
 2014-891,Chennai,Hard,28,A,20131230,14,105379,,,Aljaz Bedene,R,181,SLO,24.4,104628,,Q,Alexander Kudryavtsev,R,183,RUS,28.1,1-6 3-0 RET,3,R16,43,4,1,25,16,11,5,5,0,2,1,0,32,20,14,7,5,0,1,95,573,270,170
@@ -153,7 +153,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-580,Australian Open,Hard,128,G,20140113,13,105332,27,,Benoit Paire,R,196,FRA,24.6,104433,,Q,Frank Dancevic,R,185,CAN,29.2,7-6(12) 6-3 6-4,5,R128,132,24,6,106,60,54,22,16,3,4,12,3,108,65,48,19,15,9,12,28,1300,122,460
 2014-580,Australian Open,Hard,128,G,20140113,14,106401,,WC,Nick Kyrgios,R,193,AUS,18.7,103794,,,Benjamin Becker,R,178,GER,32.5,6-3 6-7(5) 6-2 7-6(2),5,R128,152,34,13,123,69,63,22,21,4,7,12,5,124,65,44,32,20,2,8,183,277,81,640
 2014-580,Australian Open,Hard,128,G,20140113,15,105138,,,Roberto Bautista Agut,R,183,ESP,25.7,105065,,,Tim Smyczek,R,175,USA,26.0,6-2 6-1 6-1,5,R128,90,1,1,61,50,37,7,11,1,2,8,5,89,54,28,10,11,10,18,62,750,90,600
-2014-580,Australian Open,Hard,128,G,20140113,16,105223,5,,Juan Martin del Potro,R,198,ARG,25.3,105733,,Q,Rhyne Williams,R,,USA,22.8,6-7(1) 6-3 6-4 6-4,5,R128,184,16,3,115,73,61,24,21,1,2,29,1,114,65,52,25,20,4,8,5,5415,130,428
+2014-580,Australian Open,Hard,128,G,20140113,16,105223,5,,Juan Martin del Potro,R,198,ARG,25.3,105733,,Q,Rhyne Williams,R,185,USA,22.8,6-7(1) 6-3 6-4 6-4,5,R128,184,16,3,115,73,61,24,21,1,2,29,1,114,65,52,25,20,4,8,5,5415,130,428
 2014-580,Australian Open,Hard,128,G,20140113,17,104918,4,,Andy Murray,R,190,GBR,26.6,104424,,,Go Soeda,R,178,JPN,29.3,6-1 6-1 6-3,5,R128,87,11,2,59,41,33,11,11,0,0,6,3,74,45,28,6,12,6,13,4,5560,112,498
 2014-580,Australian Open,Hard,128,G,20140113,18,104672,,Q,Vincent Millot,L,173,FRA,27.9,104639,,Q,Wayne Odesnik,L,180,USA,28.1,7-5 4-6 6-7(4) 6-1 6-3,5,R128,209,18,9,166,96,64,33,25,13,20,11,2,165,110,66,23,25,15,26,267,170,139,410
 2014-580,Australian Open,Hard,128,G,20140113,19,103582,,Q,Michael Berrer,L,193,GER,33.5,103566,,,Michael Llodra,L,190,FRA,33.6,6-4 7-5 6-1,5,R128,94,9,6,73,46,39,19,14,2,2,10,5,96,69,47,12,15,7,12,144,391,102,541
@@ -185,7 +185,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-580,Australian Open,Hard,128,G,20140113,45,104871,29,,Jeremy Chardy,R,188,FRA,26.9,104619,,,Jesse Huta Galung,R,188,NED,28.2,6-2 6-4 6-4,5,R128,110,9,3,88,58,46,16,14,5,5,9,7,86,47,39,15,14,5,9,31,1255,100,557
 2014-580,Australian Open,Hard,128,G,20140113,46,105238,,,Alexandr Dolgopolov,R,180,UKR,25.1,105575,,Q,Ricardas Berankis,R,175,LTU,23.5,7-5 7-5 6-2,5,R128,123,8,4,91,53,42,23,16,2,3,10,3,114,57,40,25,16,11,16,56,825,128,433
 2014-580,Australian Open,Hard,128,G,20140113,47,105173,,,Adrian Mannarino,L,183,FRA,25.5,105449,,WC,Steve Johnson,R,188,USA,24.0,3-6 6-3 6-0 5-7 6-4,5,R128,177,3,3,140,81,52,37,23,2,6,21,12,131,69,50,28,23,4,11,71,692,147,378
-2014-580,Australian Open,Hard,128,G,20140113,48,103970,3,,David Ferrer,R,175,ESP,31.7,105292,,,Alejandro Gonzalez,R,,COL,24.9,6-3 6-4 6-4,5,R128,125,2,6,83,44,28,21,15,2,7,2,4,88,60,34,7,14,4,12,3,5640,74,672
+2014-580,Australian Open,Hard,128,G,20140113,48,103970,3,,David Ferrer,R,175,ESP,31.7,105292,,,Alejandro Gonzalez,R,190,COL,24.9,6-3 6-4 6-4,5,R128,125,2,6,83,44,28,21,15,2,7,2,4,88,60,34,7,14,4,12,3,5640,74,672
 2014-580,Australian Open,Hard,128,G,20140113,49,104527,8,,Stan Wawrinka,R,183,SUI,28.7,104979,,,Andrey Golubev,R,185,KAZ,26.4,6-4 4-1 RET,5,R128,65,4,1,35,22,20,6,7,1,2,0,0,56,36,18,10,8,5,9,8,3890,85,620
 2014-580,Australian Open,Hard,128,G,20140113,50,104268,,,Alejandro Falla,L,185,COL,30.1,105062,,,Mikhail Kukushkin,R,183,KAZ,26.0,6-7(2) 6-2 6-2 6-3,5,R128,189,4,2,123,74,50,23,18,10,14,2,3,156,86,55,23,19,18,28,87,612,66,721
 2014-580,Australian Open,Hard,128,G,20140113,51,105051,,,Matthew Ebden,R,188,AUS,26.1,103917,,,Nicolas Mahut,R,190,FRA,31.9,6-3 7-5 4-6 0-6 6-3,5,R128,184,7,7,132,89,58,23,23,9,15,7,4,136,87,63,23,23,6,12,67,711,46,958
@@ -268,14 +268,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-D032,Davis Cup G1 R1: CHN vs NZL,Hard,4,D,20140127,1,105842,,,Di Wu,R,175,CHN,22.3,105030,,,Michael Venus,R,191,NZL,26.2,3-6 7-6(4) 6-2 1-6 6-3,5,RR,,,,,,,,,,,,,,,,,,,,198,246,384,105
 2014-D032,Davis Cup G1 R1: CHN vs NZL,Hard,4,D,20140127,2,105585,,,Ze Zhang,R,188,CHN,23.5,104907,,,Jose Rubin Statham,R,183,NZL,26.7,6-7(5) 6-3 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,220,217,291,155
 2014-D032,Davis Cup G1 R1: CHN vs NZL,Hard,4,D,20140127,4,105842,,,Di Wu,R,175,CHN,22.3,104907,,,Jose Rubin Statham,R,183,NZL,26.7,6-7(5) 6-7(1) 6-3 7-5 6-4,5,RR,,,,,,,,,,,,,,,,,,,,198,246,291,155
-2014-D029,Davis Cup G1 R1: DOM vs URU,Hard,4,D,20140131,1,105497,,,Jose Hernandez,U,183,DOM,23.8,105899,,,Martin Cuevas,R,,URU,22.0,6-3 7-6(3) 6-3,5,RR,,,,,,,,,,,,,,,,,,,,293,154,516,65
+2014-D029,Davis Cup G1 R1: DOM vs URU,Hard,4,D,20140131,1,105497,,,Jose Hernandez,U,183,DOM,23.8,105899,,,Martin Cuevas,R,188,URU,22.0,6-3 7-6(3) 6-3,5,RR,,,,,,,,,,,,,,,,,,,,293,154,516,65
 2014-D029,Davis Cup G1 R1: DOM vs URU,Hard,4,D,20140131,2,103607,,,Victor Estrella,R,173,DOM,33.4,105431,,,Ariel Behar,R,182,URU,24.2,6-3 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,137,394,827,19
 2014-D029,Davis Cup G1 R1: DOM vs URU,Hard,4,D,20140131,4,144773,,,Jose Olivares,,,DOM,17.0,122687,,,Rodrigo Senattore,U,,URU,19.9,5-7 6-1 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,1083,8
 2014-D029,Davis Cup G1 R1: DOM vs URU,Hard,4,D,20140131,5,124063,,,Santiago Maresca,U,,URU,19.3,144774,,,William Kirkman,,,DOM,16.1,2-2 Unfinished,3,RR,,,,,,,,,,,,,,,,,,,,1296,4,,
 2014-D028,Davis Cup G1 R1: ECU vs VEN,Clay,4,D,20140131,1,104673,,,Julio Cesar Campozano,R,,ECU,27.9,105961,,,David Souto,L,,VEN,21.8,6-3 6-7(5) 4-6 6-4 6-2,5,RR,,,,,,,,,,,,,,,,,,,,418,94,217,220
-2014-D028,Davis Cup G1 R1: ECU vs VEN,Clay,4,D,20140131,2,105877,,,Emilio Gomez,R,,ECU,22.1,106175,,,Ricardo Rodriguez,R,,VEN,20.7,6-0 6-3 6-4,5,RR,,,,,,,,,,,,,,,,,,,,298,150,350,124
-2014-D028,Davis Cup G1 R1: ECU vs VEN,Clay,4,D,20140131,4,105877,,,Emilio Gomez,R,,ECU,22.1,105961,,,David Souto,L,,VEN,21.8,6-1 6-1 6-1,5,RR,,,,,,,,,,,,,,,,,,,,298,150,217,220
-2014-D028,Davis Cup G1 R1: ECU vs VEN,Clay,4,D,20140131,5,106175,,,Ricardo Rodriguez,R,,VEN,20.7,105271,,,Gonzalo Escobar,L,178,ECU,25.0,5-7 6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,350,124,660,37
+2014-D028,Davis Cup G1 R1: ECU vs VEN,Clay,4,D,20140131,2,105877,,,Emilio Gomez,R,185,ECU,22.1,106175,,,Ricardo Rodriguez,R,189,VEN,20.7,6-0 6-3 6-4,5,RR,,,,,,,,,,,,,,,,,,,,298,150,350,124
+2014-D028,Davis Cup G1 R1: ECU vs VEN,Clay,4,D,20140131,4,105877,,,Emilio Gomez,R,185,ECU,22.1,105961,,,David Souto,L,,VEN,21.8,6-1 6-1 6-1,5,RR,,,,,,,,,,,,,,,,,,,,298,150,217,220
+2014-D028,Davis Cup G1 R1: ECU vs VEN,Clay,4,D,20140131,5,106175,,,Ricardo Rodriguez,R,189,VEN,20.7,105271,,,Gonzalo Escobar,L,178,ECU,25.0,5-7 6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,350,124,660,37
 2014-D033,Davis Cup G1 R1: IND vs TPE,Hard,4,D,20140131,1,106026,,,Yuki Bhambri,R,183,IND,21.5,105738,,,Tsung Hua Yang,R,178,TPE,22.8,6-2 6-4 6-7(1) 6-3,5,RR,,,,,,,,,,,,,,,,,,,,173,303,216,220
 2014-D033,Davis Cup G1 R1: IND vs TPE,Hard,4,D,20140131,2,104500,,,Somdev Devvarman,R,180,IND,28.9,104251,,,Ti Chen,R,183,TPE,30.3,6-7(4) 7-6(3) 1-6 6-2 9-7,5,RR,,,,,,,,,,,,,,,,,,,,103,544,284,157
 2014-D033,Davis Cup G1 R1: IND vs TPE,Hard,4,D,20140131,4,105031,,,Saketh Myneni,R,193,IND,26.2,105738,,,Tsung Hua Yang,R,178,TPE,22.8,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,313,139,216,220
@@ -287,8 +287,8 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-D053,Davis Cup G1 R1: SLO vs POR,Hard,4,D,20140131,1,105311,,,Joao Sousa,R,185,POR,24.8,105386,,,Janez Semrajc,U,,SLO,24.5,6-1 6-4 4-6 6-0,5,RR,,,,,,,,,,,,,,,,,,,,51,890,305,146
 2014-D053,Davis Cup G1 R1: SLO vs POR,Hard,4,D,20140131,2,104882,,,Blaz Kavcic,R,188,SLO,26.8,105671,,,Gastao Elias,R,178,POR,23.1,7-6(14) 6-1 6-4,5,RR,,,,,,,,,,,,,,,,,,,,111,514,174,302
 2014-D053,Davis Cup G1 R1: SLO vs POR,Hard,4,D,20140131,4,104882,,,Blaz Kavcic,R,188,SLO,26.8,105311,,,Joao Sousa,R,185,POR,24.8,7-5 7-5 6-2,5,RR,,,,,,,,,,,,,,,,,,,,111,514,51,890
-2014-D053,Davis Cup G1 R1: SLO vs POR,Hard,4,D,20140131,5,106393,,,Frederico Ferreira Silva,L,,POR,18.8,105450,,,Mike Urbanija,R,,SLO,24.0,4-6 4-3 RET,5,RR,,,,,,,,,,,,,,,,,,,,601,46,589,49
-2014-D055,Davis Cup G1 R1: SVK vs LAT,Hard,4,D,20140131,1,105041,,,Lukas Lacko,R,185,SVK,26.2,106342,,,Martins Podzus,R,,LAT,19.5,3-6 6-3 6-3 6-1,5,RR,,,,,,,,,,,,,,,,,,,,101,547,650,38
+2014-D053,Davis Cup G1 R1: SLO vs POR,Hard,4,D,20140131,5,106393,,,Frederico Ferreira Silva,L,178,POR,18.8,105450,,,Mike Urbanija,R,183,SLO,24.0,4-6 4-3 RET,5,RR,,,,,,,,,,,,,,,,,,,,601,46,589,49
+2014-D055,Davis Cup G1 R1: SVK vs LAT,Hard,4,D,20140131,1,105041,,,Lukas Lacko,R,185,SVK,26.2,106342,,,Martins Podzus,R,188,LAT,19.5,3-6 6-3 6-3 6-1,5,RR,,,,,,,,,,,,,,,,,,,,101,547,650,38
 2014-D055,Davis Cup G1 R1: SVK vs LAT,Hard,4,D,20140131,2,105373,,,Martin Klizan,L,190,SVK,24.5,104557,,,Andis Juska,R,,LAT,28.6,6-4 6-7(4) 6-3 4-6 8-6,5,RR,,,,,,,,,,,,,,,,,,,,91,614,569,53
 2014-D055,Davis Cup G1 R1: SVK vs LAT,Hard,4,D,20140131,4,105413,,,Andrej Martin,R,180,SVK,24.3,111781,,,Janis Podzus,L,,LAT,19.5,6-4 6-7(5) 6-3,3,RR,,,,,,,,,,,,,,,,,,,,133,403,1054,9
 2014-D055,Davis Cup G1 R1: SVK vs LAT,Hard,4,D,20140131,5,105373,,,Martin Klizan,L,190,SVK,24.5,123915,,,Arturs Lazdins,R,,LAT,16.8,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,91,614,,
@@ -300,23 +300,23 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-D024,Davis Cup G2 R1: BAR vs CHI,Hard,4,D,20140131,4,105985,,,Darian King,R,188,BAR,21.7,106174,,,Gonzalo Lama,R,180,CHI,20.7,6-2 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,,458,80,289,155
 2014-D024,Davis Cup G2 R1: BAR vs CHI,Hard,4,D,20140131,5,104477,,,Jorge Aguilar,R,178,CHI,29.0,118591,,,Russell Moseley,U,,BAR,28.5,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,362,117,,
 2014-D065,Davis Cup G2 R1: BIH vs GRE,Carpet,4,D,20140131,1,105806,,,Mirza Basic,R,188,BIH,22.5,103891,,,Alexandros Jakupovic,R,,GRE,32.1,6-3 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,,236,203,519,65
-2014-D065,Davis Cup G2 R1: BIH vs GRE,Carpet,4,D,20140131,2,109737,,,Markos Kalovelonis,R,,GRE,19.6,106000,,,Damir Dzumhur,R,172,BIH,21.6,7-6(4) 7-6(1) 3-6 6-2,5,RR,,,,,,,,,,,,,,,,,,,,691,33,144,378
+2014-D065,Davis Cup G2 R1: BIH vs GRE,Carpet,4,D,20140131,2,109737,,,Markos Kalovelonis,R,191,GRE,19.6,106000,,,Damir Dzumhur,R,172,BIH,21.6,7-6(4) 7-6(1) 3-6 6-2,5,RR,,,,,,,,,,,,,,,,,,,,691,33,144,378
 2014-D065,Davis Cup G2 R1: BIH vs GRE,Carpet,4,D,20140131,4,106000,,,Damir Dzumhur,R,172,BIH,21.6,103891,,,Alexandros Jakupovic,R,,GRE,32.1,4-6 3-6 6-2 6-3 6-4,5,RR,,,,,,,,,,,,,,,,,,,,144,378,519,65
 2014-D066,Davis Cup G2 R1: BLR vs IRL,Hard,4,D,20140131,1,105299,,,Dzmitry Zhyrmont,U,,BLR,24.9,105239,,,Daniel Glancy,U,,IRL,25.2,6-2 6-4 6-2,5,RR,,,,,,,,,,,,,,,,,,,,314,139,723,29
 2014-D066,Davis Cup G2 R1: BLR vs IRL,Hard,4,D,20140131,2,106078,,,Egor Gerasimov,R,196,BLR,21.2,111426,,,John Morrissey,R,,IRL,21.4,6-4 6-1 6-2,5,RR,,,,,,,,,,,,,,,,,,,,252,184,,
 2014-D066,Davis Cup G2 R1: BLR vs IRL,Hard,4,D,20140131,4,106078,,,Egor Gerasimov,R,196,BLR,21.2,105239,,,Daniel Glancy,U,,IRL,25.2,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,252,184,723,29
 2014-D066,Davis Cup G2 R1: BLR vs IRL,Hard,4,D,20140131,5,111426,,,John Morrissey,R,,IRL,21.4,105299,,,Dzmitry Zhyrmont,U,,BLR,24.9,W/O,5,RR,,,,,,,,,,,,,,,,,,,,,,314,139
-2014-D026,Davis Cup G2 R1: BOL vs PER,Clay,4,D,20140131,1,105273,,,Mauricio Echazu,R,,PER,25.0,105156,,,Federico Zeballos,U,,BOL,25.6,4-6 6-2 6-2 6-7(3) 6-2,5,RR,,,,,,,,,,,,,,,,,,,,518,65,787,23
-2014-D026,Davis Cup G2 R1: BOL vs PER,Clay,4,D,20140131,2,106198,,,Hugo Dellien,R,180,BOL,20.6,105456,,,Sergio Galdos,R,,PER,24.0,6-3 6-4 2-6 6-4,5,RR,,,,,,,,,,,,,,,,,,,,327,131,860,17
-2014-D026,Davis Cup G2 R1: BOL vs PER,Clay,4,D,20140131,4,105273,,,Mauricio Echazu,R,,PER,25.0,106198,,,Hugo Dellien,R,180,BOL,20.6,7-6(4) 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,,518,65,327,131
-2014-D026,Davis Cup G2 R1: BOL vs PER,Clay,4,D,20140131,5,105456,,,Sergio Galdos,R,,PER,24.0,105156,,,Federico Zeballos,U,,BOL,25.6,1-6 6-3 6-1 4-6 6-1,5,RR,,,,,,,,,,,,,,,,,,,,860,17,787,23
+2014-D026,Davis Cup G2 R1: BOL vs PER,Clay,4,D,20140131,1,105273,,,Mauricio Echazu,R,174,PER,25.0,105156,,,Federico Zeballos,U,185,BOL,25.6,4-6 6-2 6-2 6-7(3) 6-2,5,RR,,,,,,,,,,,,,,,,,,,,518,65,787,23
+2014-D026,Davis Cup G2 R1: BOL vs PER,Clay,4,D,20140131,2,106198,,,Hugo Dellien,R,180,BOL,20.6,105456,,,Sergio Galdos,R,180,PER,24.0,6-3 6-4 2-6 6-4,5,RR,,,,,,,,,,,,,,,,,,,,327,131,860,17
+2014-D026,Davis Cup G2 R1: BOL vs PER,Clay,4,D,20140131,4,105273,,,Mauricio Echazu,R,174,PER,25.0,106198,,,Hugo Dellien,R,180,BOL,20.6,7-6(4) 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,,518,65,327,131
+2014-D026,Davis Cup G2 R1: BOL vs PER,Clay,4,D,20140131,5,105456,,,Sergio Galdos,R,180,PER,24.0,105156,,,Federico Zeballos,U,185,BOL,25.6,1-6 6-3 6-1 4-6 6-1,5,RR,,,,,,,,,,,,,,,,,,,,860,17,787,23
 2014-D069,Davis Cup G2 R1: DEN vs CYP,Clay,4,D,20140131,1,104952,,,Martin Pedersen,R,,DEN,26.6,108749,,,Sergis Kyratzis,L,,CYP,18.7,6-2 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,1011,10,1549,2
-2014-D069,Davis Cup G2 R1: DEN vs CYP,Clay,4,D,20140131,2,104233,,,Frederik Nielsen,R,190,DEN,30.4,117365,,,Petros Chrysochos,R,,CYP,17.8,2-6 6-1 6-0 7-6(4),5,RR,,,,,,,,,,,,,,,,,,,,618,42,,
-2014-D069,Davis Cup G2 R1: DEN vs CYP,Clay,4,D,20140131,4,111453,,,Mikael Torpegaard,R,,DEN,19.7,108749,,,Sergis Kyratzis,L,,CYP,18.7,6-0 6-4,3,RR,,,,,,,,,,,,,,,,,,,,1175,6,1549,2
-2014-D069,Davis Cup G2 R1: DEN vs CYP,Clay,4,D,20140131,5,117365,,,Petros Chrysochos,R,,CYP,17.8,104952,,,Martin Pedersen,R,,DEN,26.6,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,1011,10
+2014-D069,Davis Cup G2 R1: DEN vs CYP,Clay,4,D,20140131,2,104233,,,Frederik Nielsen,R,190,DEN,30.4,117365,,,Petros Chrysochos,R,185,CYP,17.8,2-6 6-1 6-0 7-6(4),5,RR,,,,,,,,,,,,,,,,,,,,618,42,,
+2014-D069,Davis Cup G2 R1: DEN vs CYP,Clay,4,D,20140131,4,111453,,,Mikael Torpegaard,R,193,DEN,19.7,108749,,,Sergis Kyratzis,L,,CYP,18.7,6-0 6-4,3,RR,,,,,,,,,,,,,,,,,,,,1175,6,1549,2
+2014-D069,Davis Cup G2 R1: DEN vs CYP,Clay,4,D,20140131,5,117365,,,Petros Chrysochos,R,185,CYP,17.8,104952,,,Martin Pedersen,R,,DEN,26.6,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,1011,10
 2014-D064,Davis Cup G2 R1: FIN vs BUL,Hard,4,D,20140131,1,103813,,,Jarkko Nieminen,L,185,FIN,32.5,105586,,,Alexandar Lazov,U,183,BUL,23.5,6-3 6-0 6-3,5,RR,,,,,,,,,,,,,,,,,,,,36,1090,598,47
-2014-D064,Davis Cup G2 R1: FIN vs BUL,Hard,4,D,20140131,2,105004,,,Dimitar Kutrovsky,R,,BUL,26.4,106100,,,Micke Kontinen,R,,FIN,21.1,6-4 6-2 6-1,5,RR,,,,,,,,,,,,,,,,,,,,472,76,457,80
-2014-D064,Davis Cup G2 R1: FIN vs BUL,Hard,4,D,20140131,4,103813,,,Jarkko Nieminen,L,185,FIN,32.5,105004,,,Dimitar Kutrovsky,R,,BUL,26.4,4-6 6-1 2-6 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,,36,1090,472,76
+2014-D064,Davis Cup G2 R1: FIN vs BUL,Hard,4,D,20140131,2,105004,,,Dimitar Kutrovsky,R,175,BUL,26.4,106100,,,Micke Kontinen,R,,FIN,21.1,6-4 6-2 6-1,5,RR,,,,,,,,,,,,,,,,,,,,472,76,457,80
+2014-D064,Davis Cup G2 R1: FIN vs BUL,Hard,4,D,20140131,4,103813,,,Jarkko Nieminen,L,185,FIN,32.5,105004,,,Dimitar Kutrovsky,R,175,BUL,26.4,4-6 6-1 2-6 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,,36,1090,472,76
 2014-D064,Davis Cup G2 R1: FIN vs BUL,Hard,4,D,20140131,5,104910,,,Tihomir Grozdanov,U,,BUL,26.7,109520,,,Herkko Pollanen,R,,FIN,19.5,6-7(3) 6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,409,96,713,30
 2014-D027,Davis Cup G2 R1: GUA vs MEX,Hard,4,D,20140131,1,104960,,,Miguel Angel Reyes Varela,R,175,MEX,26.6,122047,,,Luciano Ramazzini,R,,GUA,20.0,6-1 6-1 6-3,5,RR,,,,,,,,,,,,,,,,,,,,450,82,,
 2014-D027,Davis Cup G2 R1: GUA vs MEX,Hard,4,D,20140131,2,105499,,,Christopher Diaz Figueroa,R,,GUA,23.8,105853,,,Tigre Hank,U,188,MEX,22.3,6-4 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,422,93,645,39
@@ -336,16 +336,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-D067,Davis Cup G2 R1: MDA vs EGY,Hard,4,D,20140131,5,106201,,,Maxim Dubarenco,R,,MDA,20.5,104789,,,Sherif Sabry,U,,EGY,27.4,6-7(6) 6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,335,128,430,90
 2014-D063,Davis Cup G2 R1: NOR vs LTU,Hard,4,D,20140131,1,105827,,,Laurynas Grigelis,R,183,LTU,22.4,123997,,,Joachim Bjerke,R,,NOR,19.2,6-7(4) 6-3 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,242,196,938,13
 2014-D063,Davis Cup G2 R1: NOR vs LTU,Hard,4,D,20140131,2,105575,,,Ricardas Berankis,R,175,LTU,23.6,126340,,,Viktor Durasovic,R,185,NOR,16.8,7-5 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,150,353,1296,4
-2014-D063,Davis Cup G2 R1: NOR vs LTU,Hard,4,D,20140131,4,108748,,,Lukas Mugevicius,R,,LTU,19.1,123997,,,Joachim Bjerke,R,,NOR,19.2,3-1 RET,5,RR,,,,,,,,,,,,,,,,,,,,962,12,938,13
+2014-D063,Davis Cup G2 R1: NOR vs LTU,Hard,4,D,20140131,4,108748,,,Lukas Mugevicius,R,188,LTU,19.1,123997,,,Joachim Bjerke,R,,NOR,19.2,3-1 RET,5,RR,,,,,,,,,,,,,,,,,,,,962,12,938,13
 2014-D063,Davis Cup G2 R1: NOR vs LTU,Hard,4,D,20140131,5,134302,,,Mantas Bugailiskis,R,,LTU,17.7,126340,,,Viktor Durasovic,R,185,NOR,16.8,7-6(4) 4-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,1296,4
 2014-D025,Davis Cup G2 R1: PAR vs ESA,Clay,4,D,20140131,1,105656,,,Marcelo Arevalo,R,191,ESA,23.2,134677,,,Juan Borba,R,,PAR,17.7,6-2 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,,442,85,,
 2014-D025,Davis Cup G2 R1: PAR vs ESA,Clay,4,D,20140131,2,104763,,,Rafael Arevalo,R,180,ESA,27.5,105912,,,Diego Galeano,R,,PAR,21.9,7-6(2) 1-6 7-6(3) 3-6 6-3,5,RR,,,,,,,,,,,,,,,,,,,,1674,1,,
 2014-D025,Davis Cup G2 R1: PAR vs ESA,Clay,4,D,20140131,4,108930,,,Juan Carlos Ramirez,R,,PAR,25.1,144771,,,Sebastian Quiros,,,ESA,15.8,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2014-D025,Davis Cup G2 R1: PAR vs ESA,Clay,4,D,20140131,5,134677,,,Juan Borba,R,,PAR,17.7,144772,,,Salvador Andres Bolanos,,,ESA,15.6,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2014-D062,Davis Cup G2 R1: RSA vs MON,Hard,4,D,20140131,1,106033,,,Romain Arneodo,R,,FRA,21.4,103573,,,Rik De Voest,R,180,RSA,33.6,7-5 3-6 7-5 5-7 6-4,5,RR,,,,,,,,,,,,,,,,,,,,528,62,170,309
+2014-D062,Davis Cup G2 R1: RSA vs MON,Hard,4,D,20140131,1,106033,,,Romain Arneodo,R,175,FRA,21.4,103573,,,Rik De Voest,R,180,RSA,33.6,7-5 3-6 7-5 5-7 6-4,5,RR,,,,,,,,,,,,,,,,,,,,528,62,170,309
 2014-D062,Davis Cup G2 R1: RSA vs MON,Hard,4,D,20140131,2,105707,,,Nicolaas Scholtz,R,,RSA,22.9,104112,,,Benjamin Balleret,R,185,MON,31.0,7-5 7-6(4) 3-6 3-6 6-3,5,RR,,,,,,,,,,,,,,,,,,,,952,12,276,165
 2014-D062,Davis Cup G2 R1: RSA vs MON,Hard,4,D,20140131,4,103573,,,Rik De Voest,R,180,RSA,33.6,104112,,,Benjamin Balleret,R,185,MON,31.0,7-6(2) 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,,170,309,276,165
-2014-D062,Davis Cup G2 R1: RSA vs MON,Hard,4,D,20140131,5,106033,,,Romain Arneodo,R,,FRA,21.4,105707,,,Nicolaas Scholtz,R,,RSA,22.9,7-5 RET,5,RR,,,,,,,,,,,,,,,,,,,,528,62,952,12
+2014-D062,Davis Cup G2 R1: RSA vs MON,Hard,4,D,20140131,5,106033,,,Romain Arneodo,R,175,FRA,21.4,105707,,,Nicolaas Scholtz,R,,RSA,22.9,7-5 RET,5,RR,,,,,,,,,,,,,,,,,,,,528,62,952,12
 2014-D043,Davis Cup G2 R1: SRI vs PHI,Hard,4,D,20140131,1,104631,,,Harshana Godamanna,L,,SRI,28.2,104591,,,Patrick Tierro,U,,PHI,28.4,6-3 6-7(8) 4-6 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 2014-D043,Davis Cup G2 R1: SRI vs PHI,Hard,4,D,20140131,2,104604,,,Ruben Gonzales,R,,PHI,28.3,108747,,,Dineshkanthan Thangarajah,U,,SRI,23.0,6-3 6-3 6-0,5,RR,,,,,,,,,,,,,,,,,,,,1117,7,,
 2014-D043,Davis Cup G2 R1: SRI vs PHI,Hard,4,D,20140131,4,104600,,,Treat Conrad Huey,L,178,PHI,28.4,104631,,,Harshana Godamanna,L,,SRI,28.2,2-6 6-4 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
@@ -409,18 +409,18 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-505,Vina del Mar,Clay,28,A,20140203,1,105379,,,Aljaz Bedene,R,181,SLO,24.5,103565,,,Stephane Robert,R,185,FRA,33.7,2-6 6-3 6-3,3,R32,117,13,4,81,43,34,17,13,4,7,3,4,95,51,31,22,13,6,10,109,528,84,627
 2014-505,Vina del Mar,Clay,28,A,20140203,2,105807,,,Pablo Carreno Busta,R,188,ESP,22.5,103835,,,Filippo Volandri,R,183,ITA,32.4,6-0 3-6 6-1,3,R32,99,1,4,70,44,30,12,11,4,7,0,1,93,69,33,10,11,12,19,65,731,74,694
 2014-505,Vina del Mar,Clay,28,A,20140203,3,104871,5,,Jeremy Chardy,R,188,FRA,26.9,106426,,WC,Cristian Garin,R,185,CHI,17.6,7-5 6-0,3,R32,74,5,0,60,34,25,14,9,4,5,2,1,60,39,22,7,9,4,9,44,985,379,106
-2014-505,Vina del Mar,Clay,28,A,20140203,4,104651,,Q,Martin Alund,R,,ARG,28.1,105077,,,Albert Ramos,L,188,ESP,26.0,6-3 6-4,3,R32,91,3,0,61,39,31,14,10,5,5,2,3,61,39,26,13,9,4,6,133,404,86,626
+2014-505,Vina del Mar,Clay,28,A,20140203,4,104651,,Q,Martin Alund,R,183,ARG,28.1,105077,,,Albert Ramos,L,188,ESP,26.0,6-3 6-4,3,R32,91,3,0,61,39,31,14,10,5,5,2,3,61,39,26,13,9,4,6,133,404,86,626
 2014-505,Vina del Mar,Clay,28,A,20140203,5,106121,,Q,Taro Daniel,R,191,JPN,21.0,105064,,Q,Thomaz Bellucci,L,188,BRA,26.0,6-3 6-3,3,R32,91,1,3,68,44,29,13,9,2,3,5,2,55,29,19,11,9,5,9,226,213,125,450
 2014-505,Vina del Mar,Clay,28,A,20140203,6,105643,8,,Federico Delbonis,L,190,ARG,23.3,104655,,,Pablo Cuevas,R,180,URU,28.0,6-3 6-4,3,R32,84,4,2,53,32,28,13,10,1,1,4,1,69,41,26,15,9,3,5,61,756,224,215
 2014-505,Vina del Mar,Clay,28,A,20140203,7,104198,7,,Guillermo Garcia Lopez,R,188,ESP,30.6,104714,,,Julian Reister,R,188,GER,27.8,3-6 6-4 6-4,3,R32,160,2,6,99,53,38,18,14,12,17,0,5,126,85,50,16,15,18,24,56,836,96,587
-2014-505,Vina del Mar,Clay,28,A,20140203,8,103893,,,Paolo Lorenzi,R,183,ITA,32.1,105292,,,Alejandro Gonzalez,R,,COL,24.9,6-2 6-1,3,R32,73,1,0,49,37,24,8,7,3,3,3,1,58,28,14,13,8,3,8,107,537,76,676
+2014-505,Vina del Mar,Clay,28,A,20140203,8,103893,,,Paolo Lorenzi,R,183,ITA,32.1,105292,,,Alejandro Gonzalez,R,190,COL,24.9,6-2 6-1,3,R32,73,1,0,49,37,24,8,7,3,3,3,1,58,28,14,13,8,3,8,107,537,76,676
 2014-505,Vina del Mar,Clay,28,A,20140203,9,105053,,,Santiago Giraldo,R,188,COL,26.1,103105,,Q,Ruben Ramirez Hidalgo,R,183,ESP,36.0,6-4 6-2,3,R32,76,5,2,52,34,25,11,9,5,6,1,1,51,23,12,15,9,2,6,71,703,173,304
 2014-505,Vina del Mar,Clay,28,A,20140203,10,104593,,,Daniel Gimeno Traver,R,185,ESP,28.4,105238,6,,Alexandr Dolgopolov,R,180,UKR,25.2,7-6(4) 3-6 7-5,3,R32,126,8,3,106,63,51,21,17,3,6,7,1,95,49,36,32,16,4,6,85,627,52,860
 2014-505,Vina del Mar,Clay,28,A,20140203,11,104547,,,Horacio Zeballos,L,188,ARG,28.7,106174,,WC,Gonzalo Lama,R,180,CHI,20.7,6-3 6-3,3,R32,61,6,0,42,26,20,16,9,0,0,3,2,54,34,20,12,9,4,7,67,730,289,155
 2014-505,Vina del Mar,Clay,28,A,20140203,12,104919,,,Leonardo Mayer,R,188,ARG,26.7,104890,,,Andreas Haider Maurer,R,190,AUT,26.8,7-5 7-5,3,R32,109,12,2,73,49,39,14,12,6,7,7,8,98,57,40,16,12,17,20,91,614,111,521
 2014-505,Vina del Mar,Clay,28,A,20140203,13,104926,1,,Fabio Fognini,R,178,ITA,26.6,105379,,,Aljaz Bedene,R,181,SLO,24.5,6-4 7-6(0),3,R16,101,4,0,59,36,31,16,11,1,2,3,1,83,50,33,16,11,4,6,15,2100,109,528
 2014-505,Vina del Mar,Clay,28,A,20140203,14,104871,5,,Jeremy Chardy,R,188,FRA,26.9,105807,,,Pablo Carreno Busta,R,188,ESP,22.5,6-3 7-6(5),3,R16,88,10,3,59,39,34,12,10,2,2,2,1,84,69,45,7,11,6,8,44,985,65,731
-2014-505,Vina del Mar,Clay,28,A,20140203,15,104597,3,,Nicolas Almagro,R,183,ESP,28.4,104651,,Q,Martin Alund,R,,ARG,28.1,4-6 6-3 6-4,3,R16,99,11,1,71,44,40,18,15,0,1,2,5,86,50,35,21,14,1,3,18,1930,133,404
+2014-505,Vina del Mar,Clay,28,A,20140203,15,104597,3,,Nicolas Almagro,R,183,ESP,28.4,104651,,Q,Martin Alund,R,183,ARG,28.1,4-6 6-3 6-4,3,R16,99,11,1,71,44,40,18,15,0,1,2,5,86,50,35,21,14,1,3,18,1930,133,404
 2014-505,Vina del Mar,Clay,28,A,20140203,16,106121,,Q,Taro Daniel,R,191,JPN,21.0,105643,8,,Federico Delbonis,L,190,ARG,23.3,1-6 7-6(5) 7-6(7),3,R16,172,2,1,113,84,49,15,15,7,12,11,5,121,84,59,15,16,8,11,226,213,61,756
 2014-505,Vina del Mar,Clay,28,A,20140203,17,104198,7,,Guillermo Garcia Lopez,R,188,ESP,30.6,103893,,,Paolo Lorenzi,R,183,ITA,32.1,3-6 7-5 6-4,3,R16,156,5,1,104,62,39,20,15,6,11,4,0,95,55,36,19,16,3,9,56,836,107,537
 2014-505,Vina del Mar,Clay,28,A,20140203,18,105053,,,Santiago Giraldo,R,188,COL,26.1,104719,4,,Marcel Granollers,R,190,ESP,27.8,7-6(7) 7-6(2),3,R16,133,11,3,84,45,39,18,12,2,4,3,1,89,55,39,17,12,1,3,71,703,35,1120
@@ -440,11 +440,11 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-2276,Zagreb,Hard,28,A,20140203,5,103582,,Q,Michael Berrer,L,193,GER,33.5,106432,,WC,Borna Coric,R,188,CRO,17.2,6-4 3-6 6-4,3,R32,144,8,2,93,56,41,19,15,4,7,5,3,96,52,36,22,14,3,6,148,360,303,147
 2014-2276,Zagreb,Hard,28,A,20140203,6,105554,,LL,Daniel Evans,R,175,GBR,23.7,104225,,,Jan Hajek,R,180,CZE,30.4,6-3 6-1,3,R32,51,8,0,38,22,21,11,8,0,0,2,1,50,36,23,4,8,2,6,147,362,106,540
 2014-2276,Zagreb,Hard,28,A,20140203,7,105227,5,,Marin Cilic,R,198,CRO,25.3,106243,,WC,Mate Delic,R,196,CRO,20.3,6-4 6-4,3,R32,71,14,0,50,34,31,10,10,2,2,3,1,66,46,32,9,10,3,5,37,1085,370,110
-2014-2276,Zagreb,Hard,28,A,20140203,8,105583,,,Dusan Lajovic,R,180,SRB,23.5,106353,,Q,Pedja Krstin,R,,SRB,19.4,6-2 6-3,3,R32,58,8,1,51,32,24,11,8,2,2,3,2,45,28,17,8,9,1,5,101,547,373,109
+2014-2276,Zagreb,Hard,28,A,20140203,8,105583,,,Dusan Lajovic,R,180,SRB,23.5,106353,,Q,Pedja Krstin,R,183,SRB,19.4,6-2 6-3,3,R32,58,8,1,51,32,24,11,8,2,2,3,2,45,28,17,8,9,1,5,101,547,373,109
 2014-2276,Zagreb,Hard,28,A,20140203,9,103333,,,Ivo Karlovic,R,208,CRO,34.9,104978,,,Daniel Brands,R,196,GER,26.5,6-7(4) 7-5 7-6(3),3,R32,117,44,2,93,69,63,18,18,0,0,15,0,119,86,66,22,18,5,6,79,667,68,719
 2014-2276,Zagreb,Hard,28,A,20140203,10,104534,,,Dudi Sela,R,175,ISR,28.8,104586,6,,Lukas Rosol,R,196,CZE,28.5,6-3 7-6(2),3,R32,92,2,4,92,59,37,17,11,6,8,2,3,70,35,21,17,10,3,6,78,671,49,911
 2014-2276,Zagreb,Hard,28,A,20140203,11,105041,,,Lukas Lacko,R,185,SVK,26.2,105526,,,Jan Lennard Struff,R,193,GER,23.7,6-4 6-4,3,R32,62,10,1,50,32,27,10,10,0,1,5,5,62,34,22,16,10,1,4,102,547,119,481
-2014-2276,Zagreb,Hard,28,A,20140203,12,103451,,Q,Bjorn Phau,R,175,GER,34.3,105302,,WC,Ante Pavic,R,,CRO,24.9,6-3 6-4,3,R32,66,5,2,52,30,24,14,9,1,2,3,6,59,31,21,11,10,3,7,358,117,229,210
+2014-2276,Zagreb,Hard,28,A,20140203,12,103451,,Q,Bjorn Phau,R,175,GER,34.3,105302,,WC,Ante Pavic,R,196,CRO,24.9,6-3 6-4,3,R32,66,5,2,52,30,24,14,9,1,2,3,6,59,31,21,11,10,3,7,358,117,229,210
 2014-2276,Zagreb,Hard,28,A,20140203,13,103163,1,,Tommy Haas,R,188,GER,35.8,103794,,,Benjamin Becker,R,178,GER,32.6,4-6 6-3 6-3,3,R16,107,11,2,85,58,46,12,14,1,3,10,2,82,52,36,15,14,4,8,12,2435,93,602
 2014-2276,Zagreb,Hard,28,A,20140203,14,105723,,Q,Andrey Kuznetsov,R,185,RUS,22.9,104997,8,,Igor Sijsling,R,190,NED,26.4,1-6 6-3 7-6(5),3,R16,104,8,2,109,70,53,16,14,11,13,8,3,89,50,42,17,14,2,3,142,382,63,740
 2014-2276,Zagreb,Hard,28,A,20140203,15,104259,3,,Philipp Kohlschreiber,R,178,GER,30.3,104979,,,Andrey Golubev,R,185,KAZ,26.5,6-4 6-2,3,R16,68,6,0,42,21,20,16,9,0,0,3,2,68,47,29,9,9,5,8,27,1330,87,620
@@ -467,14 +467,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-506,Buenos Aires,Clay,32,A,20140210,5,104597,4,,Nicolas Almagro,R,183,ESP,28.4,104547,,,Horacio Zeballos,L,188,ARG,28.7,6-2 7-5,3,R32,89,9,3,62,36,29,15,10,4,4,4,1,73,42,26,16,10,5,8,18,1930,111,500
 2014-506,Buenos Aires,Clay,32,A,20140210,6,104593,,,Daniel Gimeno Traver,R,185,ESP,28.5,103105,,Q,Ruben Ramirez Hidalgo,R,183,ESP,36.0,7-5 6-2,3,R32,99,8,2,59,31,24,15,10,1,2,0,5,68,35,22,15,10,4,8,84,627,165,316
 2014-506,Buenos Aires,Clay,32,A,20140210,7,105238,,,Alexandr Dolgopolov,R,180,UKR,25.2,104655,,,Pablo Cuevas,R,180,URU,28.1,6-3 4-6 7-6(5),3,R32,122,10,1,103,58,43,26,16,5,7,2,11,93,52,43,18,15,1,3,53,860,230,215
-2014-506,Buenos Aires,Clay,32,A,20140210,8,104871,8,,Jeremy Chardy,R,188,FRA,26.9,105292,,,Alejandro Gonzalez,R,,COL,25.0,6-4 7-5,3,R32,102,5,2,67,35,24,18,11,4,6,3,1,82,51,30,15,11,10,14,45,940,78,676
-2014-506,Buenos Aires,Clay,32,A,20140210,9,104898,6,,Robin Haase,R,190,NED,26.8,104651,,Q,Martin Alund,R,,ARG,28.1,6-4 6-7(6) 6-3,3,R32,145,4,2,96,52,42,25,16,2,3,5,3,111,70,47,22,15,9,12,46,932,131,430
+2014-506,Buenos Aires,Clay,32,A,20140210,8,104871,8,,Jeremy Chardy,R,188,FRA,26.9,105292,,,Alejandro Gonzalez,R,190,COL,25.0,6-4 7-5,3,R32,102,5,2,67,35,24,18,11,4,6,3,1,82,51,30,15,11,10,14,45,940,78,676
+2014-506,Buenos Aires,Clay,32,A,20140210,9,104898,6,,Robin Haase,R,190,NED,26.8,104651,,Q,Martin Alund,R,183,ARG,28.1,6-4 6-7(6) 6-3,3,R32,145,4,2,96,52,42,25,16,2,3,5,3,111,70,47,22,15,9,12,46,932,131,430
 2014-506,Buenos Aires,Clay,32,A,20140210,10,104122,,,Carlos Berlocq,R,183,ARG,31.0,105311,,,Joao Sousa,R,185,POR,24.8,6-4 6-2,3,R32,86,1,0,53,38,24,12,9,1,2,1,3,55,28,19,10,9,3,7,48,915,49,907
 2014-506,Buenos Aires,Clay,32,A,20140210,11,105550,,WC,Guido Pella,L,185,ARG,23.7,104198,,,Guillermo Garcia Lopez,R,188,ESP,30.6,7-6(6) 6-4,3,R32,105,2,1,71,49,40,11,11,4,5,2,3,88,53,39,15,11,5,7,108,513,52,861
 2014-506,Buenos Aires,Clay,32,A,20140210,12,103990,3,,Tommy Robredo,R,180,ESP,31.7,105807,,,Pablo Carreno Busta,R,188,ESP,22.5,6-4 6-4,3,R32,86,1,2,63,40,30,10,10,6,8,0,1,56,42,25,6,10,3,7,17,1960,65,733
 2014-506,Buenos Aires,Clay,32,A,20140210,13,104719,5,,Marcel Granollers,R,190,ESP,27.8,105379,,,Aljaz Bedene,R,181,SLO,24.5,7-5 3-6 6-2,3,R32,169,2,2,74,49,29,15,14,0,4,3,2,115,59,40,22,15,8,14,34,1120,103,548
 2014-506,Buenos Aires,Clay,32,A,20140210,14,104665,,,Pablo Andujar,R,180,ESP,28.0,105643,,,Federico Delbonis,L,190,ARG,23.3,3-6 7-5 6-1,3,R32,135,2,3,92,64,44,17,14,11,13,5,4,99,64,42,15,14,5,9,43,981,63,744
-2014-506,Buenos Aires,Clay,32,A,20140210,15,104919,,,Leonardo Mayer,R,188,ARG,26.7,106032,,WC,Facundo Arguello,R,,ARG,21.5,6-3 6-4,3,R32,88,0,2,57,34,23,14,9,0,2,0,0,62,40,19,11,10,2,7,58,764,112,500
+2014-506,Buenos Aires,Clay,32,A,20140210,15,104919,,,Leonardo Mayer,R,188,ARG,26.7,106032,,WC,Facundo Arguello,R,178,ARG,21.5,6-3 6-4,3,R32,88,0,2,57,34,23,14,9,0,2,0,0,62,40,19,11,10,2,7,58,764,112,500
 2014-506,Buenos Aires,Clay,32,A,20140210,16,104926,2,,Fabio Fognini,R,178,ITA,26.7,104714,,,Julian Reister,R,188,GER,27.8,7-5 6-2,3,R32,86,1,3,75,48,30,11,10,13,17,0,2,58,39,20,5,10,6,13,14,2260,94,587
 2014-506,Buenos Aires,Clay,32,A,20140210,17,103970,1,,David Ferrer,R,175,ESP,31.8,105053,,,Santiago Giraldo,R,188,COL,26.2,6-4 7-6(1),3,R16,112,1,1,79,58,33,11,11,6,10,4,2,92,49,30,16,11,11,16,5,5280,57,773
 2014-506,Buenos Aires,Clay,32,A,20140210,18,105077,,,Albert Ramos,L,188,ESP,26.0,103835,,,Filippo Volandri,R,183,ITA,32.4,6-2 6-1,3,R16,59,3,0,42,32,24,6,8,2,3,0,2,51,37,17,6,7,1,6,92,598,77,683
@@ -549,14 +549,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-407,Rotterdam,Hard,32,A,20140210,29,104607,3,,Tomas Berdych,R,196,CZE,28.3,105208,,,Ernests Gulbis,R,190,LAT,25.4,6-3 6-2,3,SF,66,7,3,53,37,32,6,9,1,1,4,1,41,24,16,8,8,0,3,7,4540,24,1443
 2014-407,Rotterdam,Hard,32,A,20140210,30,105227,,,Marin Cilic,R,198,CRO,25.3,104997,,WC,Igor Sijsling,R,190,NED,26.4,5-7 6-3 6-2,3,SF,112,15,6,78,44,38,17,15,3,5,7,1,93,47,36,19,14,9,13,37,1085,64,740
 2014-407,Rotterdam,Hard,32,A,20140210,31,104607,3,,Tomas Berdych,R,196,CZE,28.3,105227,,,Marin Cilic,R,198,CRO,25.3,6-4 6-2,3,F,76,9,0,52,29,24,16,9,3,3,8,4,52,28,21,10,9,1,4,7,4540,37,1085
-2014-D045,Davis Cup G2 R1: THA vs HKG,Hard,4,D,20140214,1,103894,,,Phillip King,R,175,USA,32.1,106136,,,Warit Sornbutnark,U,,THA,20.9,6-2 7-6(2) 6-3,5,RR,,,,,,,,,,,,,,,,,,,,,,1258,5
-2014-D045,Davis Cup G2 R1: THA vs HKG,Hard,4,D,20140214,2,106397,,,Wishaya Trongcharoenchaikul,R,,THA,18.8,118053,,,Ognian Kolev,L,,BUL,34.6,6-4 7-5 7-5,5,RR,,,,,,,,,,,,,,,,,,,,915,14,,
-2014-D045,Davis Cup G2 R1: THA vs HKG,Hard,4,D,20140214,4,111181,,,Pruchya Isarow,R,,THA,18.3,103894,,,Phillip King,R,175,USA,32.1,6-4 6-1 6-2,5,RR,,,,,,,,,,,,,,,,,,,,807,21,,
+2014-D045,Davis Cup G2 R1: THA vs HKG,Hard,4,D,20140214,1,103894,,,Phillip King,R,175,USA,32.1,106136,,,Warit Sornbutnark,U,180,THA,20.9,6-2 7-6(2) 6-3,5,RR,,,,,,,,,,,,,,,,,,,,,,1258,5
+2014-D045,Davis Cup G2 R1: THA vs HKG,Hard,4,D,20140214,2,106397,,,Wishaya Trongcharoenchaikul,R,193,THA,18.8,118053,,,Ognian Kolev,L,,BUL,34.6,6-4 7-5 7-5,5,RR,,,,,,,,,,,,,,,,,,,,915,14,,
+2014-D045,Davis Cup G2 R1: THA vs HKG,Hard,4,D,20140214,4,111181,,,Pruchya Isarow,R,175,THA,18.3,103894,,,Phillip King,R,175,USA,32.1,6-4 6-1 6-2,5,RR,,,,,,,,,,,,,,,,,,,,807,21,,
 2014-D045,Davis Cup G2 R1: THA vs HKG,Hard,4,D,20140214,5,106194,,,Nutthanon Kadchapanan,R,,THA,20.6,118053,,,Ognian Kolev,L,,BUL,34.6,6-1 2-6 6-2,3,RR,,,,,,,,,,,,,,,,,,,,1581,2,,
 2014-D044,Davis Cup G2 R1: VIE vs PAK,Hard,4,D,20140214,1,103499,,,Aqeel Khan,R,,PAK,34.0,109529,,,Quang Huy Ngo,R,,VIE,29.9,6-0 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 2014-D044,Davis Cup G2 R1: VIE vs PAK,Hard,4,D,20140214,2,106392,,,Thien Nguyen Hoang,R,,VIE,18.9,108782,,,Mahammad Abid,U,,PAK,19.6,6-3 6-2 6-0,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 2014-D044,Davis Cup G2 R1: VIE vs PAK,Hard,4,D,20140214,4,103499,,,Aqeel Khan,R,,PAK,34.0,106392,,,Thien Nguyen Hoang,R,,VIE,18.9,6-2 6-4 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,,
-2014-D044,Davis Cup G2 R1: VIE vs PAK,Hard,4,D,20140214,5,144775,,,Linh Giang Trinh,,,VIE,16.5,108982,,,Yasir Khan,R,,PAK,24.8,7-6(4) 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2014-D044,Davis Cup G2 R1: VIE vs PAK,Hard,4,D,20140214,5,144775,,,Linh Giang Trinh,,183,VIE,16.5,108982,,,Yasir Khan,R,,PAK,24.8,7-6(4) 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2014-499,Delray Beach,Hard,32,A,20140217,1,103163,1,,Tommy Haas,R,188,GER,35.8,104639,,Q,Wayne Odesnik,L,180,USA,28.2,6-2 6-1,3,R32,55,5,1,35,20,19,9,7,0,0,3,3,51,34,17,7,8,1,6,12,2435,118,477
 2014-499,Delray Beach,Hard,32,A,20140217,2,105449,,Q,Steve Johnson,R,188,USA,24.1,105062,,,Mikhail Kukushkin,R,183,KAZ,26.1,6-4 6-3,3,R32,73,9,1,56,38,29,12,9,5,5,1,2,70,33,24,17,10,6,9,142,390,58,781
 2014-499,Delray Beach,Hard,32,A,20140217,3,105173,,,Adrian Mannarino,L,183,FRA,25.6,106058,,WC,Jack Sock,R,185,USA,21.3,6-4 6-2,3,R32,73,1,6,68,47,33,9,9,7,8,7,4,57,33,22,8,9,5,9,70,714,82,652
@@ -569,7 +569,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-499,Delray Beach,Hard,32,A,20140217,10,105992,,WC,Ryan Harrison,R,183,USA,21.7,104229,,,Yen Hsun Lu,R,180,TPE,30.5,4-6 1-0 RET,3,R32,39,3,1,33,17,11,12,6,1,2,0,1,29,20,15,6,5,0,0,115,484,46,930
 2014-499,Delray Beach,Hard,32,A,20140217,11,104559,,,Teymuraz Gabashvili,R,188,RUS,28.7,105051,,,Matthew Ebden,R,188,AUS,26.2,2-6 6-3 6-2,3,R32,106,2,8,78,45,27,12,12,4,10,6,15,74,32,20,13,13,7,15,65,731,62,741
 2014-499,Delray Beach,Hard,32,A,20140217,12,105453,3,,Kei Nishikori,R,178,JPN,24.1,105671,,Q,Gastao Elias,R,178,POR,23.2,6-1 5-7 6-2,3,R32,116,3,7,89,52,33,22,14,2,5,3,3,92,47,25,21,13,7,13,15,2170,169,302
-2014-499,Delray Beach,Hard,32,A,20140217,13,105733,,Q,Rhyne Williams,R,,USA,22.9,104268,,,Alejandro Falla,L,185,COL,30.2,6-3 4-0 RET,3,R32,55,2,0,39,23,16,8,6,2,3,2,7,43,17,10,7,7,4,9,146,374,79,662
+2014-499,Delray Beach,Hard,32,A,20140217,13,105733,,Q,Rhyne Williams,R,185,USA,22.9,104268,,,Alejandro Falla,L,185,COL,30.2,6-3 4-0 RET,3,R32,55,2,0,39,23,16,8,6,2,3,2,7,43,17,10,7,7,4,9,146,374,79,662
 2014-499,Delray Beach,Hard,32,A,20140217,14,104571,,WC,Marcos Baghdatis,R,183,CYP,28.6,106210,,,Jiri Vesely,L,198,CZE,20.6,3-6 6-2 6-1,3,R32,98,4,4,66,33,28,20,12,0,1,2,10,82,46,29,16,12,2,6,155,345,77,669
 2014-499,Delray Beach,Hard,32,A,20140217,15,104534,,,Dudi Sela,R,175,ISR,28.8,104166,,,Alex Bogomolov Jr,R,178,RUS,30.8,6-0 6-2,3,R32,54,0,2,33,15,13,15,7,0,0,0,1,47,33,13,7,7,2,7,75,683,88,618
 2014-499,Delray Beach,Hard,32,A,20140217,16,104545,2,,John Isner,R,206,USA,28.8,103188,,,Michael Russell,R,173,USA,35.8,4-6 7-6(3) 6-4,3,R32,114,20,2,93,61,50,18,16,2,3,2,3,97,72,56,12,16,2,3,13,2320,85,631
@@ -579,12 +579,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-499,Delray Beach,Hard,32,A,20140217,20,104594,,,Marinko Matosevic,R,194,AUS,28.5,103720,8,,Lleyton Hewitt,R,180,AUS,32.9,7-6(2) RET,3,R16,67,4,0,43,23,16,8,6,3,5,2,7,45,24,13,9,6,1,3,55,844,38,1045
 2014-499,Delray Beach,Hard,32,A,20140217,21,105227,7,,Marin Cilic,R,198,CRO,25.3,105992,,WC,Ryan Harrison,R,183,USA,21.7,6-3 6-4,3,R16,74,9,2,57,30,26,18,10,1,1,5,2,56,33,24,12,9,4,6,29,1295,115,484
 2014-499,Delray Beach,Hard,32,A,20140217,22,104559,,,Teymuraz Gabashvili,R,188,RUS,28.7,105453,3,,Kei Nishikori,R,178,JPN,24.1,4-2 RET,3,R16,19,2,0,16,9,7,6,3,2,2,1,2,18,12,8,2,3,2,3,65,731,15,2170
-2014-499,Delray Beach,Hard,32,A,20140217,23,105733,,Q,Rhyne Williams,R,,USA,22.9,104571,,WC,Marcos Baghdatis,R,183,CYP,28.6,6-7(7) 6-4 6-2,3,R16,146,6,4,95,64,52,11,15,1,3,4,10,99,35,20,38,15,5,10,146,374,155,345
+2014-499,Delray Beach,Hard,32,A,20140217,23,105733,,Q,Rhyne Williams,R,185,USA,22.9,104571,,WC,Marcos Baghdatis,R,183,CYP,28.6,6-7(7) 6-4 6-2,3,R16,146,6,4,95,64,52,11,15,1,3,4,10,99,35,20,38,15,5,10,146,374,155,345
 2014-499,Delray Beach,Hard,32,A,20140217,24,104545,2,,John Isner,R,206,USA,28.8,104534,,,Dudi Sela,R,175,ISR,28.8,3-6 6-1 7-6(5),3,R16,116,12,3,93,61,42,17,14,4,7,2,5,97,62,38,19,14,9,13,13,2320,75,683
 2014-499,Delray Beach,Hard,32,A,20140217,25,105449,,Q,Steve Johnson,R,188,USA,24.1,103852,6,,Feliciano Lopez,L,188,ESP,32.4,6-3 6-2,3,QF,74,4,2,58,36,26,14,9,3,3,7,3,59,35,24,8,8,7,10,142,390,27,1355
 2014-499,Delray Beach,Hard,32,A,20140217,26,104731,4,,Kevin Anderson,R,203,RSA,27.7,104594,,,Marinko Matosevic,R,194,AUS,28.5,6-7(3) 6-3 6-3,3,QF,144,10,2,86,53,41,21,15,4,5,9,6,116,57,42,27,15,9,13,21,1580,55,844
 2014-499,Delray Beach,Hard,32,A,20140217,27,105227,7,,Marin Cilic,R,198,CRO,25.3,104559,,,Teymuraz Gabashvili,R,188,RUS,28.7,6-2 6-3,3,QF,80,12,2,61,31,25,10,9,4,6,1,0,50,21,8,13,8,1,6,29,1295,65,731
-2014-499,Delray Beach,Hard,32,A,20140217,28,104545,2,,John Isner,R,206,USA,28.8,105733,,Q,Rhyne Williams,R,,USA,22.9,4-6 6-3 6-2,3,QF,102,18,5,71,45,40,15,14,1,2,5,1,85,58,38,14,13,4,7,13,2320,146,374
+2014-499,Delray Beach,Hard,32,A,20140217,28,104545,2,,John Isner,R,206,USA,28.8,105733,,Q,Rhyne Williams,R,185,USA,22.9,4-6 6-3 6-2,3,QF,102,18,5,71,45,40,15,14,1,2,5,1,85,58,38,14,13,4,7,13,2320,146,374
 2014-499,Delray Beach,Hard,32,A,20140217,29,104731,4,,Kevin Anderson,R,203,RSA,27.7,105449,,Q,Steve Johnson,R,188,USA,24.1,6-2 6-4,3,SF,76,13,1,56,35,30,10,9,0,0,6,3,55,33,23,10,9,5,8,21,1580,142,390
 2014-499,Delray Beach,Hard,32,A,20140217,30,105227,7,,Marin Cilic,R,198,CRO,25.3,104545,2,,John Isner,R,206,USA,28.8,7-6(5) 6-3,3,SF,86,12,2,68,39,33,18,11,0,0,9,3,72,52,34,10,10,6,7,29,1295,13,2320
 2014-499,Delray Beach,Hard,32,A,20140217,31,105227,7,,Marin Cilic,R,198,CRO,25.3,104731,4,,Kevin Anderson,R,203,RSA,27.7,7-6(6) 6-7(7) 6-4,3,F,189,16,8,123,66,50,30,17,10,13,18,12,145,88,66,23,17,10,14,29,1295,21,1580
@@ -597,7 +597,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-496,Marseille,Hard,28,A,20140217,7,103898,7,,Julien Benneteau,R,185,FRA,32.1,104619,,,Jesse Huta Galung,R,188,NED,28.3,6-1 6-4,3,R32,60,11,4,54,30,24,16,9,4,4,3,2,44,28,19,5,8,1,4,67,730,95,591
 2014-496,Marseille,Hard,28,A,20140217,8,105526,,,Jan Lennard Struff,R,193,GER,23.8,104095,,Q,David Guez,R,185,FRA,31.1,3-6 6-1 6-1,3,R32,96,8,4,60,30,26,12,11,2,4,4,1,88,53,32,11,12,7,13,117,481,171,301
 2014-496,Marseille,Hard,28,A,20140217,9,103566,,,Michael Llodra,L,190,FRA,33.7,105041,,,Lukas Lacko,R,185,SVK,26.2,6-3 7-6(2),3,R32,78,9,1,63,36,29,17,11,1,2,11,3,74,36,24,20,10,3,5,126,451,101,552
-2014-496,Marseille,Hard,28,A,20140217,10,104273,6,,Edouard Roger Vasselin,R,188,FRA,30.2,105302,,Q,Ante Pavic,R,,CRO,24.9,3-6 7-6(5) 7-5,3,R32,133,13,2,105,75,58,13,16,7,9,23,3,109,64,55,21,17,2,4,36,1108,237,204
+2014-496,Marseille,Hard,28,A,20140217,10,104273,6,,Edouard Roger Vasselin,R,188,FRA,30.2,105302,,Q,Ante Pavic,R,196,CRO,24.9,3-6 7-6(5) 7-5,3,R32,133,13,2,105,75,58,13,16,7,9,23,3,109,64,55,21,17,2,4,36,1108,237,204
 2014-496,Marseille,Hard,28,A,20140217,11,104660,,,Sergiy Stakhovsky,R,193,UKR,28.1,105554,,Q,Daniel Evans,R,175,GBR,23.7,3-6 7-6(4) 6-4,3,R32,117,15,3,98,64,47,16,15,10,12,5,4,114,75,53,18,16,14,16,91,611,124,457
 2014-496,Marseille,Hard,28,A,20140217,12,103786,,,Nikolay Davydenko,R,178,RUS,32.7,104997,,,Igor Sijsling,R,190,NED,26.5,6-4 6-4,3,R32,82,12,1,64,40,29,14,10,2,3,5,4,70,37,28,13,10,9,12,63,735,52,875
 2014-496,Marseille,Hard,28,A,20140217,13,104755,1,,Richard Gasquet,R,185,FRA,27.6,104882,,,Blaz Kavcic,R,188,SLO,26.9,6-3 6-3,3,R16,70,2,0,47,32,25,11,9,0,0,2,2,60,38,27,8,9,8,11,9,2950,116,484
@@ -625,7 +625,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-6932,Rio de Janeiro,Clay,32,A,20140217,8,104665,8,,Pablo Andujar,R,180,ESP,28.0,104714,,,Julian Reister,R,188,GER,27.8,6-4 6-3,3,R32,106,0,2,50,37,23,7,9,3,6,2,2,76,49,27,8,10,4,10,40,1006,97,581
 2014-6932,Rio de Janeiro,Clay,32,A,20140217,9,105238,,,Alexandr Dolgopolov,R,180,UKR,25.2,104597,5,,Nicolas Almagro,R,183,ESP,28.4,2-6 6-3 6-0,3,R32,95,9,2,70,30,24,21,11,5,7,8,4,74,39,27,14,12,3,8,54,860,18,1930
 2014-6932,Rio de Janeiro,Clay,32,A,20140217,10,105487,,Q,Facundo Bagnis,L,183,ARG,23.9,105154,,WC,Joao Souza,R,193,BRA,25.7,7-5 2-6 6-2,3,R32,147,7,5,88,56,37,20,14,3,6,3,2,97,55,32,24,14,5,9,125,456,123,458
-2014-6932,Rio de Janeiro,Clay,32,A,20140217,11,104655,,,Pablo Cuevas,R,180,URU,28.1,105292,,,Alejandro Gonzalez,R,,COL,25.0,6-7(0) 6-1 6-3,3,R32,141,6,4,89,50,36,15,14,8,13,6,4,110,63,41,14,14,9,18,231,215,76,676
+2014-6932,Rio de Janeiro,Clay,32,A,20140217,11,104655,,,Pablo Cuevas,R,180,URU,28.1,105292,,,Alejandro Gonzalez,R,190,COL,25.0,6-7(0) 6-1 6-3,3,R32,141,6,4,89,50,36,15,14,8,13,6,4,110,63,41,14,14,9,18,231,215,76,676
 2014-6932,Rio de Janeiro,Clay,32,A,20140217,12,104926,3,,Fabio Fognini,R,178,ITA,26.7,105379,,Q,Aljaz Bedene,R,181,SLO,24.5,7-6(5) 0-6 6-1,3,R32,119,3,6,79,41,26,13,12,4,10,7,3,83,35,19,22,13,2,8,14,2260,103,548
 2014-6932,Rio de Janeiro,Clay,32,A,20140217,13,104338,7,,Juan Monaco,R,185,ARG,29.8,104547,,,Horacio Zeballos,L,188,ARG,28.8,6-3 6-1,3,R32,64,1,0,43,33,26,7,8,2,2,2,1,47,23,19,6,8,2,6,42,1000,112,500
 2014-6932,Rio de Janeiro,Clay,32,A,20140217,14,105064,,WC,Thomaz Bellucci,L,188,BRA,26.1,105053,,,Santiago Giraldo,R,188,COL,26.2,3-6 6-4 6-3,3,R32,146,3,4,90,58,35,19,14,4,8,8,5,103,47,34,24,14,9,14,130,442,60,773
@@ -708,7 +708,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-495,Dubai,Hard,32,A,20140224,29,103819,4,,Roger Federer,R,185,SUI,32.5,104925,1,,Novak Djokovic,R,188,SRB,26.7,3-6 6-3 6-2,3,SF,106,7,0,77,46,35,18,13,5,6,5,2,86,53,36,19,13,4,7,8,4305,2,10580
 2014-495,Dubai,Hard,32,A,20140224,30,104607,3,,Tomas Berdych,R,196,CZE,28.4,104259,7,,Philipp Kohlschreiber,R,178,GER,30.3,7-5 7-5,3,SF,89,5,1,64,39,32,14,12,0,1,1,0,69,36,25,20,12,4,7,6,4890,26,1375
 2014-495,Dubai,Hard,32,A,20140224,31,103819,4,,Roger Federer,R,185,SUI,32.5,104607,3,,Tomas Berdych,R,196,CZE,28.4,3-6 6-4 6-3,3,F,119,8,1,84,43,36,19,14,7,10,5,1,85,41,27,20,14,6,10,8,4305,6,4890
-2014-533,Sao Paulo,Clay,28,A,20140224,1,103808,,Q,Potito Starace,R,188,ITA,32.6,105292,,,Alejandro Gonzalez,R,,COL,25.0,4-6 6-2 6-3,3,R32,110,3,1,88,64,43,12,13,5,7,6,2,91,59,39,13,14,7,12,152,354,76,676
+2014-533,Sao Paulo,Clay,28,A,20140224,1,103808,,Q,Potito Starace,R,188,ITA,32.6,105292,,,Alejandro Gonzalez,R,190,COL,25.0,4-6 6-2 6-3,3,R32,110,3,1,88,64,43,12,13,5,7,6,2,91,59,39,13,14,7,12,152,354,76,676
 2014-533,Sao Paulo,Clay,28,A,20140224,2,104547,,,Horacio Zeballos,L,188,ARG,28.8,104655,,,Pablo Cuevas,R,180,URU,28.1,7-6(3) 3-6 6-3,3,R32,127,5,0,109,56,43,31,15,8,9,18,2,80,44,39,24,15,0,1,116,500,197,260
 2014-533,Sao Paulo,Clay,28,A,20140224,3,105550,,,Guido Pella,L,185,ARG,23.7,104919,7,,Leonardo Mayer,R,188,ARG,26.7,7-6(4) 6-7(3) 7-6(4),3,R32,154,9,1,123,78,65,25,18,6,7,11,7,120,77,64,22,18,2,3,113,513,59,764
 2014-533,Sao Paulo,Clay,28,A,20140224,4,105077,,,Albert Ramos,L,188,ESP,26.1,105671,,Q,Gastao Elias,R,178,POR,23.2,6-3 3-6 6-2,3,R32,131,2,3,88,56,37,19,13,4,6,6,2,89,42,33,21,13,7,11,86,623,169,302
@@ -747,7 +747,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-404,Indian Wells Masters,Hard,96,M,20140306,10,105023,,,Sam Querrey,R,198,USA,26.4,104864,,Q,Alex Kuznetsov,R,183,USA,27.0,6-3 6-3,3,R128,69,8,1,53,26,22,18,9,2,2,4,0,59,40,25,10,9,3,6,57,800,127,451
 2014-404,Indian Wells Masters,Hard,96,M,20140306,11,103720,,,Lleyton Hewitt,R,180,AUS,33.0,105051,,,Matthew Ebden,R,188,AUS,26.2,7-6(2) 3-6 6-3,3,R128,133,4,10,89,49,31,17,15,7,14,4,8,98,50,32,19,15,8,15,41,1020,62,741
 2014-404,Indian Wells Masters,Hard,96,M,20140306,12,103188,,,Michael Russell,R,173,USA,35.8,105385,,,Donald Young,L,183,USA,24.6,4-6 6-1 6-2,3,R128,113,1,5,67,36,25,17,12,1,4,2,3,86,50,28,13,13,10,17,107,537,81,657
-2014-404,Indian Wells Masters,Hard,96,M,20140306,13,104871,,,Jeremy Chardy,R,188,FRA,27.0,105733,,WC,Rhyne Williams,R,,USA,22.9,7-6(5) 7-5,3,R128,101,13,5,65,36,33,18,12,0,1,13,4,86,63,45,10,12,3,5,48,940,153,366
+2014-404,Indian Wells Masters,Hard,96,M,20140306,13,104871,,,Jeremy Chardy,R,188,FRA,27.0,105733,,WC,Rhyne Williams,R,185,USA,22.9,7-6(5) 7-5,3,R128,101,13,5,65,36,33,18,12,0,1,13,4,86,63,45,10,12,3,5,48,940,153,366
 2014-404,Indian Wells Masters,Hard,96,M,20140306,14,105053,,,Santiago Giraldo,R,188,COL,26.2,104593,,,Daniel Gimeno Traver,R,185,ESP,28.5,6-3 4-6 6-4,3,R128,126,4,2,97,48,34,29,15,5,7,5,3,87,39,27,29,14,2,5,71,703,97,582
 2014-404,Indian Wells Masters,Hard,96,M,20140306,15,104338,,,Juan Monaco,R,185,ARG,29.9,105166,,Q,Peter Polansky,R,180,CAN,25.7,6-4 6-7(5) 6-4,3,R128,144,2,2,91,65,48,18,16,1,3,2,3,101,61,40,24,16,6,10,43,1000,143,394
 2014-404,Indian Wells Masters,Hard,96,M,20140306,16,103908,,Q,Paul Henri Mathieu,R,185,FRA,32.1,104068,,Q,Robby Ginepri,R,183,USA,31.4,6-2 6-3,3,R128,83,4,2,68,37,26,17,9,5,6,1,3,58,38,23,6,8,4,8,123,477,311,144
@@ -755,17 +755,17 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-404,Indian Wells Masters,Hard,96,M,20140306,18,104547,,,Horacio Zeballos,L,188,ARG,28.8,104330,,WC,Rajeev Ram,R,193,USA,29.9,6-3 7-6(4),3,R128,100,6,2,77,44,34,23,11,3,3,8,2,69,43,34,11,10,2,3,126,455,141,402
 2014-404,Indian Wells Masters,Hard,96,M,20140306,19,104229,,,Yen Hsun Lu,R,180,TPE,30.5,104735,,,Tobias Kamke,R,180,GER,27.7,6-0 6-4,3,R128,60,1,1,45,31,25,6,8,4,5,1,1,51,32,17,6,8,4,9,49,930,94,591
 2014-404,Indian Wells Masters,Hard,96,M,20140306,20,103786,,,Nikolay Davydenko,R,178,RUS,32.7,105676,,LL,David Goffin,R,180,BEL,23.2,7-6(5) 4-6 7-6(3),3,R128,150,8,4,117,72,47,20,17,6,12,2,8,118,64,43,27,17,4,9,73,690,95,587
-2014-404,Indian Wells Masters,Hard,96,M,20140306,21,104898,,,Robin Haase,R,190,NED,26.9,105441,,Q,John Patrick Smith,L,,AUS,25.1,6-4 6-4,3,R128,84,1,3,51,28,25,16,10,0,0,4,2,73,44,32,13,10,5,7,46,957,219,231
+2014-404,Indian Wells Masters,Hard,96,M,20140306,21,104898,,,Robin Haase,R,190,NED,26.9,105441,,Q,John Patrick Smith,L,188,AUS,25.1,6-4 6-4,3,R128,84,1,3,51,28,25,16,10,0,0,4,2,73,44,32,13,10,5,7,46,957,219,231
 2014-404,Indian Wells Masters,Hard,96,M,20140306,22,105311,,,Joao Sousa,R,185,POR,24.9,104873,,,Aleksandr Nedovyesov,R,193,KAZ,27.0,6-4 6-1,3,R128,59,2,0,38,29,27,5,8,0,0,3,1,54,37,20,9,9,5,9,45,991,79,661
 2014-404,Indian Wells Masters,Hard,96,M,20140306,23,103813,,,Jarkko Nieminen,L,185,FIN,32.6,104978,,,Daniel Brands,R,196,GER,26.6,4-6 6-2 6-2,3,R128,98,2,5,78,51,36,16,13,3,5,2,0,91,61,41,9,13,8,13,40,1020,84,629
 2014-404,Indian Wells Masters,Hard,96,M,20140306,24,105138,,,Roberto Bautista Agut,R,183,ESP,25.8,105449,,WC,Steve Johnson,R,188,USA,24.1,6-3 6-3,3,R128,81,1,2,57,36,29,12,9,2,2,3,1,68,47,33,5,9,3,6,53,885,119,492
 2014-404,Indian Wells Masters,Hard,96,M,20140306,25,103852,,,Feliciano Lopez,L,188,ESP,32.4,104534,,,Dudi Sela,R,175,ISR,28.9,7-5 6-3,3,R128,97,9,2,79,55,40,13,11,5,5,1,2,72,43,29,15,10,5,7,37,1100,61,748
 2014-404,Indian Wells Masters,Hard,96,M,20140306,26,105062,,,Mikhail Kukushkin,R,183,KAZ,26.1,105032,,Q,Sam Groth,R,193,AUS,26.3,6-4 2-6 7-6(4),3,R128,123,3,0,92,57,36,21,15,4,8,17,11,97,56,47,14,15,4,7,58,781,176,285
-2014-404,Indian Wells Masters,Hard,96,M,20140306,27,106233,,Q,Dominic Thiem,R,185,AUT,20.4,105930,,Q,Daniel Kosakowski,R,,USA,22.0,6-2 7-6(1),3,R128,89,4,1,56,27,24,21,10,2,2,4,2,63,42,29,7,10,2,4,101,567,366,114
-2014-404,Indian Wells Masters,Hard,96,M,20140306,28,103898,,,Julien Benneteau,R,185,FRA,32.1,103926,,Q,Daniel Munoz de la Nava,L,,ESP,32.0,3-6 6-1 6-3,3,R128,124,9,4,67,38,31,16,12,1,3,4,7,107,66,39,20,13,8,13,65,730,287,157
+2014-404,Indian Wells Masters,Hard,96,M,20140306,27,106233,,Q,Dominic Thiem,R,185,AUT,20.4,105930,,Q,Daniel Kosakowski,R,185,USA,22.0,6-2 7-6(1),3,R128,89,4,1,56,27,24,21,10,2,2,4,2,63,42,29,7,10,2,4,101,567,366,114
+2014-404,Indian Wells Masters,Hard,96,M,20140306,28,103898,,,Julien Benneteau,R,185,FRA,32.1,103926,,Q,Daniel Munoz de la Nava,L,178,ESP,32.0,3-6 6-1 6-3,3,R128,124,9,4,67,38,31,16,12,1,3,4,7,107,66,39,20,13,8,13,65,730,287,157
 2014-404,Indian Wells Masters,Hard,96,M,20140306,29,104594,,,Marinko Matosevic,R,194,AUS,28.5,105614,,,Bradley Klahn,L,190,USA,23.5,6-4 6-4,3,R128,85,1,2,55,31,22,17,10,2,3,1,4,69,30,22,16,10,5,8,69,709,64,731
 2014-404,Indian Wells Masters,Hard,96,M,20140306,30,103893,,Q,Paolo Lorenzi,R,183,ITA,32.2,105807,,,Pablo Carreno Busta,R,188,ESP,22.6,3-6 6-1 6-2,3,R128,95,4,2,66,44,35,13,12,1,2,1,3,74,49,35,8,12,3,7,100,572,63,733
-2014-404,Indian Wells Masters,Hard,96,M,20140306,31,105292,,,Alejandro Gonzalez,R,,COL,25.0,105173,,,Adrian Mannarino,L,183,FRA,25.6,5-7 6-4 7-6(6),3,R128,163,9,2,126,82,52,21,17,7,12,3,5,126,76,52,21,17,8,13,91,602,66,726
+2014-404,Indian Wells Masters,Hard,96,M,20140306,31,105292,,,Alejandro Gonzalez,R,190,COL,25.0,105173,,,Adrian Mannarino,L,183,FRA,25.6,5-7 6-4 7-6(6),3,R128,163,9,2,126,82,52,21,17,7,12,3,5,126,76,52,21,17,8,13,91,602,66,726
 2014-404,Indian Wells Masters,Hard,96,M,20140306,32,103812,,,Victor Hanescu,R,198,ROU,32.6,103565,,Q,Stephane Robert,R,185,FRA,33.7,7-5 3-6 6-4,3,R128,102,8,2,86,60,45,12,15,5,8,5,3,98,54,40,24,16,9,13,87,616,96,586
 2014-404,Indian Wells Masters,Hard,96,M,20140306,33,104745,1,,Rafael Nadal,L,185,ESP,27.7,103285,,,Radek Stepanek,R,185,CZE,35.2,2-6 6-4 7-5,3,R64,144,2,8,81,53,44,11,15,5,8,12,5,102,58,42,20,15,7,10,1,14085,50,925
 2014-404,Indian Wells Masters,Hard,96,M,20140306,34,105238,28,,Alexandr Dolgopolov,R,180,UKR,25.3,105065,,,Tim Smyczek,R,175,USA,26.1,7-6(3) 6-4,3,R64,88,9,3,78,39,29,19,11,5,7,4,4,81,56,33,14,11,2,5,31,1205,105,545
@@ -797,7 +797,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-404,Indian Wells Masters,Hard,96,M,20140306,60,103898,,,Julien Benneteau,R,185,FRA,32.1,104542,9,,Jo-Wilfried Tsonga,R,188,FRA,28.8,6-4 6-4,3,R64,85,2,4,62,35,28,12,10,1,3,7,2,64,34,22,14,10,8,12,65,730,10,2785
 2014-404,Indian Wells Masters,Hard,96,M,20140306,61,103990,16,,Tommy Robredo,R,180,ESP,31.8,104594,,,Marinko Matosevic,R,194,AUS,28.5,7-6(6) 5-7 6-4,3,R64,153,9,3,114,66,52,24,17,4,6,8,4,108,62,49,24,17,4,6,17,2005,69,709
 2014-404,Indian Wells Masters,Hard,96,M,20140306,62,105227,24,,Marin Cilic,R,198,CRO,25.4,103893,,Q,Paolo Lorenzi,R,183,ITA,32.2,6-2 6-2,3,R64,71,6,1,44,24,18,13,8,0,1,2,2,52,30,17,6,8,8,13,26,1455,100,572
-2014-404,Indian Wells Masters,Hard,96,M,20140306,63,105292,,,Alejandro Gonzalez,R,,COL,25.0,104471,31,,Ivan Dodig,R,183,CRO,29.1,6-4 2-6 7-6(5),3,R64,138,3,4,102,54,35,25,15,3,7,13,8,95,48,37,24,15,4,7,91,602,34,1145
+2014-404,Indian Wells Masters,Hard,96,M,20140306,63,105292,,,Alejandro Gonzalez,R,190,COL,25.0,104471,31,,Ivan Dodig,R,183,CRO,29.1,6-4 2-6 7-6(5),3,R64,138,3,4,102,54,35,25,15,3,7,13,8,95,48,37,24,15,4,7,91,602,34,1145
 2014-404,Indian Wells Masters,Hard,96,M,20140306,64,104925,2,,Novak Djokovic,R,188,SRB,26.7,103812,,,Victor Hanescu,R,198,ROU,32.6,7-6(1) 6-2,3,R64,84,5,0,68,53,43,6,10,5,5,1,1,65,45,29,12,10,3,5,2,10260,87,616
 2014-404,Indian Wells Masters,Hard,96,M,20140306,65,105238,28,,Alexandr Dolgopolov,R,180,UKR,25.3,104745,1,,Rafael Nadal,L,185,ESP,27.7,6-3 3-6 7-6(5),3,R32,139,11,3,96,39,30,27,15,2,6,2,1,87,55,39,17,15,1,5,31,1205,1,14085
 2014-404,Indian Wells Masters,Hard,96,M,20140306,66,104926,13,,Fabio Fognini,R,178,ITA,26.7,104792,23,,Gael Monfils,R,193,FRA,27.5,6-2 3-6 7-5,3,R32,110,1,3,81,39,26,21,14,6,11,8,10,100,51,32,18,15,6,13,14,2230,25,1475
@@ -814,7 +814,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-404,Indian Wells Masters,Hard,96,M,20140306,77,103852,,,Feliciano Lopez,L,188,ESP,32.4,105062,,,Mikhail Kukushkin,R,183,KAZ,26.1,1-6 6-3 6-4,3,R32,104,10,6,94,54,40,20,13,8,10,4,0,67,37,29,18,13,1,3,37,1100,58,781
 2014-404,Indian Wells Masters,Hard,96,M,20140306,78,103898,,,Julien Benneteau,R,185,FRA,32.1,106233,,Q,Dominic Thiem,R,185,AUT,20.4,7-6(4) 6-3,3,R32,106,8,4,72,44,32,12,10,1,4,2,5,74,40,22,17,11,4,9,65,730,101,567
 2014-404,Indian Wells Masters,Hard,96,M,20140306,79,105227,24,,Marin Cilic,R,198,CRO,25.4,103990,16,,Tommy Robredo,R,180,ESP,31.8,6-4 6-3,3,R32,83,6,2,63,30,21,25,10,2,2,2,1,62,38,27,9,9,4,6,26,1455,17,2005
-2014-404,Indian Wells Masters,Hard,96,M,20140306,80,104925,2,,Novak Djokovic,R,188,SRB,26.7,105292,,,Alejandro Gonzalez,R,,COL,25.0,6-1 3-6 6-1,3,R32,97,7,2,64,50,39,9,12,0,1,3,4,90,50,33,17,11,8,12,2,10260,91,602
+2014-404,Indian Wells Masters,Hard,96,M,20140306,80,104925,2,,Novak Djokovic,R,188,SRB,26.7,105292,,,Alejandro Gonzalez,R,190,COL,25.0,6-1 3-6 6-1,3,R32,97,7,2,64,50,39,9,12,0,1,3,4,90,50,33,17,11,8,12,2,10260,91,602
 2014-404,Indian Wells Masters,Hard,96,M,20140306,81,105238,28,,Alexandr Dolgopolov,R,180,UKR,25.3,104926,13,,Fabio Fognini,R,178,ITA,26.7,6-2 6-4,3,R16,76,6,1,56,28,23,17,9,3,3,4,6,65,36,26,11,9,3,6,31,1205,14,2230
 2014-404,Indian Wells Masters,Hard,96,M,20140306,82,105683,10,,Milos Raonic,R,196,CAN,23.1,104918,5,,Andy Murray,R,190,GBR,26.8,4-6 7-5 6-3,3,R16,130,15,3,80,53,44,14,16,0,2,4,3,90,60,43,13,15,4,7,11,2485,6,4885
 2014-404,Indian Wells Masters,Hard,96,M,20140306,83,104731,17,,Kevin Anderson,R,203,RSA,27.7,104527,3,,Stan Wawrinka,R,183,SUI,28.9,7-6(1) 4-6 6-1,3,R16,140,12,8,105,67,48,16,14,10,13,5,2,89,38,28,23,15,5,10,18,1940,3,5650
@@ -849,7 +849,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-403,Miami Masters,Hard,96,M,20140319,17,103333,,,Ivo Karlovic,R,208,CRO,35.0,103908,,Q,Paul Henri Mathieu,R,185,FRA,32.1,7-6(3) 7-6(5),3,R128,100,21,1,72,45,36,22,12,0,0,3,1,80,50,39,17,12,0,0,53,881,114,508
 2014-403,Miami Masters,Hard,96,M,20140319,18,105217,,Q,Thiemo De Bakker,R,193,NED,25.4,103812,,,Victor Hanescu,R,198,ROU,32.6,6-3 6-2,3,R128,64,4,1,48,27,23,14,9,2,2,1,1,58,39,23,9,8,3,6,162,334,84,631
 2014-403,Miami Masters,Hard,96,M,20140319,19,104547,,,Horacio Zeballos,L,188,ARG,28.8,105676,,Q,David Goffin,R,180,BEL,23.2,7-5 6-3,3,R128,77,3,2,65,32,25,18,11,3,5,6,2,49,28,19,10,10,2,6,125,470,97,580
-2014-403,Miami Masters,Hard,96,M,20140319,20,105292,,,Alejandro Gonzalez,R,,COL,25.1,104291,,Q,Malek Jaziri,R,185,TUN,30.1,7-6(9) 6-1,3,R128,87,2,3,65,34,27,20,9,6,6,4,3,65,37,25,15,10,3,6,83,632,118,496
+2014-403,Miami Masters,Hard,96,M,20140319,20,105292,,,Alejandro Gonzalez,R,190,COL,25.1,104291,,Q,Malek Jaziri,R,185,TUN,30.1,7-6(9) 6-1,3,R128,87,2,3,65,34,27,20,9,6,6,4,3,65,37,25,15,10,3,6,83,632,118,496
 2014-403,Miami Masters,Hard,96,M,20140319,21,103656,,,Albert Montanes,R,175,ESP,33.3,104308,,,Michal Przysiezny,R,185,POL,30.0,5-7 7-6(5) 6-3,3,R128,121,5,3,100,58,47,23,17,2,4,12,7,104,62,44,27,16,7,9,59,771,75,670
 2014-403,Miami Masters,Hard,96,M,20140319,22,104594,,,Marinko Matosevic,R,194,AUS,28.6,104268,,,Alejandro Falla,L,185,COL,30.3,1-6 6-4 7-6(6),3,R128,145,2,4,109,60,39,23,15,5,10,7,5,122,58,40,30,14,13,16,72,689,68,707
 2014-403,Miami Masters,Hard,96,M,20140319,23,103285,,,Radek Stepanek,R,185,CZE,35.3,104978,,,Daniel Brands,R,196,GER,26.6,6-3 6-0,3,R128,58,7,0,37,25,21,8,7,3,3,4,3,51,33,19,3,8,6,11,49,950,95,598
@@ -881,7 +881,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-403,Miami Masters,Hard,96,M,20140319,49,103819,5,,Roger Federer,R,185,SUI,32.6,103333,,,Ivo Karlovic,R,208,CRO,35.0,6-4 7-6(4),3,R64,75,6,0,52,39,37,12,11,0,0,13,1,68,44,36,11,11,2,3,5,5045,53,881
 2014-403,Miami Masters,Hard,96,M,20140319,50,105217,,Q,Thiemo De Bakker,R,193,NED,25.4,104269,28,,Fernando Verdasco,L,188,ESP,30.3,7-6(4) 6-7(3) 6-2,3,R64,139,16,3,108,61,48,25,16,5,7,6,10,113,77,55,15,16,7,11,162,334,29,1270
 2014-403,Miami Masters,Hard,96,M,20140319,51,104731,17,,Kevin Anderson,R,203,RSA,27.8,104547,,,Horacio Zeballos,L,188,ARG,28.8,6-4 6-3,3,R64,65,8,1,43,33,30,7,9,0,0,0,0,56,35,24,10,10,1,4,18,1940,125,470
-2014-403,Miami Masters,Hard,96,M,20140319,52,104755,9,,Richard Gasquet,R,185,FRA,27.7,105292,,,Alejandro Gonzalez,R,,COL,25.1,7-6(7) 6-4,3,R64,121,7,0,62,41,30,15,11,0,2,4,2,106,58,41,22,11,10,13,9,2905,83,632
+2014-403,Miami Masters,Hard,96,M,20140319,52,104755,9,,Richard Gasquet,R,185,FRA,27.7,105292,,,Alejandro Gonzalez,R,190,COL,25.1,7-6(7) 6-4,3,R64,121,7,0,62,41,30,15,11,0,2,4,2,106,58,41,22,11,10,13,9,2905,83,632
 2014-403,Miami Masters,Hard,96,M,20140319,53,105777,15,,Grigor Dimitrov,R,188,BUL,22.8,103656,,,Albert Montanes,R,175,ESP,33.3,6-1 6-7(5) 6-3,3,R64,100,12,3,82,48,46,20,15,2,2,3,4,89,56,40,17,13,5,8,16,2130,59,771
 2014-403,Miami Masters,Hard,96,M,20140319,54,105453,20,,Kei Nishikori,R,178,JPN,24.2,104594,,,Marinko Matosevic,R,194,AUS,28.6,6-4 6-1,3,R64,79,6,2,59,37,25,10,8,3,5,5,5,59,32,20,5,9,5,11,21,1715,72,689
 2014-403,Miami Masters,Hard,96,M,20140319,55,104312,31,,Andreas Seppi,R,190,ITA,30.0,103285,,,Radek Stepanek,R,185,CZE,35.3,7-6(8) 4-6 6-4,3,R64,172,6,6,113,48,28,33,16,10,16,6,6,115,50,32,32,16,8,14,33,1195,49,950
@@ -931,14 +931,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-D034,Davis Cup G1 R2: CHN vs UZB,Hard,4,D,20140404,5,104736,,,Farrukh Dustov,R,196,UZB,27.8,105585,,,Ze Zhang,R,188,CHN,23.7,6-2 1-6 6-3 6-7(4) 6-3,5,RR,,,,,,,,,,,,,,,,,,,,167,321,204,239
 2014-D031,Davis Cup G1 R2: COL vs DOM,Clay,4,D,20140404,1,105053,,,Santiago Giraldo,R,188,COL,26.3,105497,,,Jose Hernandez,U,183,DOM,24.0,6-2 4-6 6-4 6-7(3) 6-2,5,RR,,,,,,,,,,,,,,,,,,,,86,633,287,160
 2014-D031,Davis Cup G1 R2: COL vs DOM,Clay,4,D,20140404,2,104268,,,Alejandro Falla,L,185,COL,30.3,103607,,,Victor Estrella,R,173,DOM,33.6,4-6 6-2 5-7 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,,70,687,99,582
-2014-D031,Davis Cup G1 R2: COL vs DOM,Clay,4,D,20140404,4,126209,,,Peter Bertran,,,DOM,18.0,104857,,,Robert Farah,R,193,COL,27.1,2-6 6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2014-D031,Davis Cup G1 R2: COL vs DOM,Clay,4,D,20140404,4,126209,,,Peter Bertran,,183,DOM,18.0,104857,,,Robert Farah,R,193,COL,27.1,2-6 6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2014-D031,Davis Cup G1 R2: COL vs DOM,Clay,4,D,20140404,5,108701,,,Juan Sebastian Cabal,R,185,COL,27.9,144773,,,Jose Olivares,,,DOM,17.2,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2014-D030,Davis Cup G1 R2: ECU vs BRA,Clay,4,D,20140404,1,104297,,,Rogerio Dutra Silva,R,178,BRA,30.1,104673,,,Julio Cesar Campozano,R,,ECU,28.1,6-4 2-6 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,157,368,495,71
-2014-D030,Davis Cup G1 R2: ECU vs BRA,Clay,4,D,20140404,2,105877,,,Emilio Gomez,R,,ECU,22.3,106105,,,Guilherme Clezar,R,183,BRA,21.2,6-7(3) 6-4 1-1 RET,5,RR,,,,,,,,,,,,,,,,,,,,252,185,170,313
-2014-D030,Davis Cup G1 R2: ECU vs BRA,Clay,4,D,20140404,4,104297,,,Rogerio Dutra Silva,R,178,BRA,30.1,105877,,,Emilio Gomez,R,,ECU,22.3,6-4 6-7(10) 6-1 6-1,5,RR,,,,,,,,,,,,,,,,,,,,157,368,252,185
+2014-D030,Davis Cup G1 R2: ECU vs BRA,Clay,4,D,20140404,2,105877,,,Emilio Gomez,R,185,ECU,22.3,106105,,,Guilherme Clezar,R,183,BRA,21.2,6-7(3) 6-4 1-1 RET,5,RR,,,,,,,,,,,,,,,,,,,,252,185,170,313
+2014-D030,Davis Cup G1 R2: ECU vs BRA,Clay,4,D,20140404,4,104297,,,Rogerio Dutra Silva,R,178,BRA,30.1,105877,,,Emilio Gomez,R,185,ECU,22.3,6-4 6-7(10) 6-1 6-1,5,RR,,,,,,,,,,,,,,,,,,,,157,368,252,185
 2014-D035,Davis Cup G1 R2: KOR vs IND,Hard,4,D,20140404,1,104500,,,Somdev Devvarman,R,180,IND,29.1,111202,,,Hyeon Chung,R,188,KOR,17.8,7-6(4) 7-6(3) 6-4,5,RR,,,,,,,,,,,,,,,,,,,,88,617,377,112
-2014-D035,Davis Cup G1 R2: KOR vs IND,Hard,4,D,20140404,2,105790,,,Yong Kyu Lim,R,,KOR,22.7,105072,,,Sanam Singh,R,173,IND,26.2,7-6(5) 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,300,154,371,115
-2014-D035,Davis Cup G1 R2: KOR vs IND,Hard,4,D,20140404,4,104500,,,Somdev Devvarman,R,180,IND,29.1,105790,,,Yong Kyu Lim,R,,KOR,22.7,6-4 5-7 6-3 6-1,5,RR,,,,,,,,,,,,,,,,,,,,88,617,300,154
+2014-D035,Davis Cup G1 R2: KOR vs IND,Hard,4,D,20140404,2,105790,,,Yong Kyu Lim,R,185,KOR,22.7,105072,,,Sanam Singh,R,173,IND,26.2,7-6(5) 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,300,154,371,115
+2014-D035,Davis Cup G1 R2: KOR vs IND,Hard,4,D,20140404,4,104500,,,Somdev Devvarman,R,180,IND,29.1,105790,,,Yong Kyu Lim,R,185,KOR,22.7,6-4 5-7 6-3 6-1,5,RR,,,,,,,,,,,,,,,,,,,,88,617,300,154
 2014-D056,Davis Cup G1 R2: POL vs CRO,Hard,4,D,20140404,1,105227,,,Marin Cilic,R,198,CRO,25.5,104308,,,Michal Przysiezny,R,185,POL,30.1,6-1 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,26,1330,73,674
 2014-D056,Davis Cup G1 R2: POL vs CRO,Hard,4,D,20140404,2,106432,,,Borna Coric,R,188,CRO,17.3,105668,,,Jerzy Janowicz,R,203,POL,23.3,2-6 6-2 7-5 5-7 6-4,5,RR,,,,,,,,,,,,,,,,,,,,295,157,21,1715
 2014-D056,Davis Cup G1 R2: POL vs CRO,Hard,4,D,20140404,4,105227,,,Marin Cilic,R,198,CRO,25.5,105668,,,Jerzy Janowicz,R,203,POL,23.3,3-6 6-7(5) 6-4 6-1 6-3,5,RR,,,,,,,,,,,,,,,,,,,,26,1330,21,1715
@@ -949,29 +949,29 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-D058,Davis Cup G1 R2: SVK vs AUT,Hard,4,D,20140404,2,105041,,,Lukas Lacko,R,185,SVK,26.4,104890,,,Andreas Haider Maurer,R,190,AUT,27.0,7-6(3) 4-6 4-6 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,,95,588,108,545
 2014-D058,Davis Cup G1 R2: SVK vs AUT,Hard,4,D,20140404,4,104890,,,Andreas Haider Maurer,R,190,AUT,27.0,105613,,,Norbert Gombos,R,193,SVK,23.6,7-6(5) 7-5,3,RR,,,,,,,,,,,,,,,,,,,,108,545,164,330
 2014-D058,Davis Cup G1 R2: SVK vs AUT,Hard,4,D,20140404,5,105041,,,Lukas Lacko,R,185,SVK,26.4,105589,,,Gerald Melzer,L,188,AUT,23.7,4-6 6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,95,588,150,380
-2014-D040,Davis Cup G2 PO: BOL vs GUA,Clay,4,D,20140404,1,105499,,,Christopher Diaz Figueroa,R,,GUA,24.0,105156,,,Federico Zeballos,U,,BOL,25.8,7-6(8) 7-6(4) 7-6(4),5,RR,,,,,,,,,,,,,,,,,,,,429,91,789,23
+2014-D040,Davis Cup G2 PO: BOL vs GUA,Clay,4,D,20140404,1,105499,,,Christopher Diaz Figueroa,R,,GUA,24.0,105156,,,Federico Zeballos,U,185,BOL,25.8,7-6(8) 7-6(4) 7-6(4),5,RR,,,,,,,,,,,,,,,,,,,,429,91,789,23
 2014-D040,Davis Cup G2 PO: BOL vs GUA,Clay,4,D,20140404,2,106198,,,Hugo Dellien,R,180,BOL,20.7,111751,,,Andres Bucaro,U,,GUA,23.3,6-2 6-3 7-5,5,RR,,,,,,,,,,,,,,,,,,,,321,139,,
 2014-D040,Davis Cup G2 PO: BOL vs GUA,Clay,4,D,20140404,4,106198,,,Hugo Dellien,R,180,BOL,20.7,105499,,,Christopher Diaz Figueroa,R,,GUA,24.0,6-3 3-6 6-2 4-6 6-2,5,RR,,,,,,,,,,,,,,,,,,,,321,139,429,91
 2014-D039,Davis Cup G2 PO: CHI vs PAR,Clay,4,D,20140404,1,106174,,,Gonzalo Lama,R,180,CHI,20.9,134677,,,Juan Borba,R,,PAR,17.9,6-3 6-0 6-1,5,RR,,,,,,,,,,,,,,,,,,,,312,144,,
 2014-D039,Davis Cup G2 PO: CHI vs PAR,Clay,4,D,20140404,2,106426,,,Cristian Garin,R,185,CHI,17.8,104658,,,Gustavo Ramirez,U,,PAR,28.2,4-6 6-3 6-0 6-3,5,RR,,,,,,,,,,,,,,,,,,,,397,101,1818,1
 2014-D039,Davis Cup G2 PO: CHI vs PAR,Clay,4,D,20140404,4,104477,,,Jorge Aguilar,R,178,CHI,29.2,108930,,,Juan Carlos Ramirez,R,,PAR,25.3,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,431,91,,
 2014-D039,Davis Cup G2 PO: CHI vs PAR,Clay,4,D,20140404,5,106426,,,Cristian Garin,R,185,CHI,17.8,134677,,,Juan Borba,R,,PAR,17.9,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,397,101,,
-2014-D077,Davis Cup G2 PO: GRE vs BUL,Clay,4,D,20140404,1,105777,,,Grigor Dimitrov,R,188,BUL,22.8,109737,,,Markos Kalovelonis,R,,GRE,19.8,6-3 6-3 6-0,5,RR,,,,,,,,,,,,,,,,,,,,15,2130,690,34
-2014-D077,Davis Cup G2 PO: GRE vs BUL,Clay,4,D,20140404,2,105004,,,Dimitar Kutrovsky,R,,BUL,26.5,104377,,,Theodoros Angelinos,U,,GRE,29.8,6-4 6-3 1-6 6-3,5,RR,,,,,,,,,,,,,,,,,,,,344,126,280,165
+2014-D077,Davis Cup G2 PO: GRE vs BUL,Clay,4,D,20140404,1,105777,,,Grigor Dimitrov,R,188,BUL,22.8,109737,,,Markos Kalovelonis,R,191,GRE,19.8,6-3 6-3 6-0,5,RR,,,,,,,,,,,,,,,,,,,,15,2130,690,34
+2014-D077,Davis Cup G2 PO: GRE vs BUL,Clay,4,D,20140404,2,105004,,,Dimitar Kutrovsky,R,175,BUL,26.5,104377,,,Theodoros Angelinos,U,,GRE,29.8,6-4 6-3 1-6 6-3,5,RR,,,,,,,,,,,,,,,,,,,,344,126,280,165
 2014-D077,Davis Cup G2 PO: GRE vs BUL,Clay,4,D,20140404,4,103891,,,Alexandros Jakupovic,R,,GRE,32.2,104446,,,Dinko Halachev,U,,BUL,29.4,7-6(2) 6-1,3,RR,,,,,,,,,,,,,,,,,,,,503,69,1155,7
-2014-D077,Davis Cup G2 PO: GRE vs BUL,Clay,4,D,20140404,5,105004,,,Dimitar Kutrovsky,R,,BUL,26.5,105463,,,Charalampos Kapogiannis,R,,GRE,24.2,5-7 6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,344,126,949,13
-2014-D078,Davis Cup G2 PO: IRL vs EGY,Hard,4,D,20140404,1,104945,,,James Mcgee,R,183,IRL,26.8,105747,,,Karim Mohamed Maamoun,R,,EGY,22.9,6-0 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,231,210,535,61
+2014-D077,Davis Cup G2 PO: GRE vs BUL,Clay,4,D,20140404,5,105004,,,Dimitar Kutrovsky,R,175,BUL,26.5,105463,,,Charalampos Kapogiannis,R,,GRE,24.2,5-7 6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,344,126,949,13
+2014-D078,Davis Cup G2 PO: IRL vs EGY,Hard,4,D,20140404,1,104945,,,James Mcgee,R,183,IRL,26.8,105747,,,Karim Mohamed Maamoun,R,175,EGY,22.9,6-0 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,231,210,535,61
 2014-D078,Davis Cup G2 PO: IRL vs EGY,Hard,4,D,20140404,2,105633,,,Mohamed Safwat,R,183,EGY,23.5,105909,,,Sam Barry,R,,IRL,22.1,3-6 7-5 7-5 7-6(5),5,RR,,,,,,,,,,,,,,,,,,,,187,265,392,103
 2014-D078,Davis Cup G2 PO: IRL vs EGY,Hard,4,D,20140404,4,104945,,,James Mcgee,R,183,IRL,26.8,105633,,,Mohamed Safwat,R,183,EGY,23.5,7-5 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,,231,210,187,265
 2014-D078,Davis Cup G2 PO: IRL vs EGY,Hard,4,D,20140404,5,106387,,,Mazen Osama,U,,EGY,19.1,105239,,,Daniel Glancy,U,,IRL,25.3,7-6(4) 7-6(5),3,RR,,,,,,,,,,,,,,,,,,,,480,76,738,28
 2014-D079,Davis Cup G2 PO: MAR vs CYP,Clay,4,D,20140404,1,108749,,,Sergis Kyratzis,L,,CYP,18.8,105830,,,Hicham Khaddari,R,,MAR,22.6,2-6 6-2 6-1 7-5,5,RR,,,,,,,,,,,,,,,,,,,,1574,2,512,66
-2014-D079,Davis Cup G2 PO: MAR vs CYP,Clay,4,D,20140404,2,104467,,,Lamine Ouahab,R,185,ALG,29.2,117365,,,Petros Chrysochos,R,,CYP,17.9,6-3 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,262,175,,
+2014-D079,Davis Cup G2 PO: MAR vs CYP,Clay,4,D,20140404,2,104467,,,Lamine Ouahab,R,185,ALG,29.2,117365,,,Petros Chrysochos,R,185,CYP,17.9,6-3 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,262,175,,
 2014-D079,Davis Cup G2 PO: MAR vs CYP,Clay,4,D,20140404,4,104467,,,Lamine Ouahab,R,185,ALG,29.2,108749,,,Sergis Kyratzis,L,,CYP,18.8,6-0 6-0 6-0,5,RR,,,,,,,,,,,,,,,,,,,,262,175,1574,2
 2014-D079,Davis Cup G2 PO: MAR vs CYP,Clay,4,D,20140404,5,109336,,,Ayoub Chakrouni,U,,MAR,22.8,144777,,,Constantinos Ioannides,,,CYP,18.8,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,1206,6,,
 2014-D076,Davis Cup G2 PO: NOR vs MON,Hard,4,D,20140404,1,104112,,,Benjamin Balleret,R,185,MON,31.2,126340,,,Viktor Durasovic,R,185,NOR,17.0,6-1 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,,276,167,1307,4
-2014-D076,Davis Cup G2 PO: NOR vs MON,Hard,4,D,20140404,2,106033,,,Romain Arneodo,R,,FRA,21.6,123997,,,Joachim Bjerke,R,,NOR,19.3,7-6(7) 6-3 6-3,5,RR,,,,,,,,,,,,,,,,,,,,541,60,938,13
+2014-D076,Davis Cup G2 PO: NOR vs MON,Hard,4,D,20140404,2,106033,,,Romain Arneodo,R,175,FRA,21.6,123997,,,Joachim Bjerke,R,,NOR,19.3,7-6(7) 6-3 6-3,5,RR,,,,,,,,,,,,,,,,,,,,541,60,938,13
 2014-D076,Davis Cup G2 PO: NOR vs MON,Hard,4,D,20140404,4,104112,,,Benjamin Balleret,R,185,MON,31.2,123997,,,Joachim Bjerke,R,,NOR,19.3,7-6(5) 6-4,3,RR,,,,,,,,,,,,,,,,,,,,276,167,938,13
-2014-D076,Davis Cup G2 PO: NOR vs MON,Hard,4,D,20140404,5,106033,,,Romain Arneodo,R,,FRA,21.6,126340,,,Viktor Durasovic,R,185,NOR,17.0,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,541,60,1307,4
+2014-D076,Davis Cup G2 PO: NOR vs MON,Hard,4,D,20140404,5,106033,,,Romain Arneodo,R,175,FRA,21.6,126340,,,Viktor Durasovic,R,185,NOR,17.0,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,541,60,1307,4
 2014-D050,Davis Cup G2 PO: VIE vs SRI,Hard,4,D,20140404,1,104283,,,Minh Quan Do,R,,VIE,30.2,108747,,,Dineshkanthan Thangarajah,U,,SRI,23.2,6-3 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 2014-D050,Davis Cup G2 PO: VIE vs SRI,Hard,4,D,20140404,2,104631,,,Harshana Godamanna,L,,SRI,28.4,106392,,,Thien Nguyen Hoang,R,,VIE,19.0,6-2 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 2014-D050,Davis Cup G2 PO: VIE vs SRI,Hard,4,D,20140404,4,106392,,,Thien Nguyen Hoang,R,,VIE,19.0,134886,,,Sharmal Dissanayake,R,,SRI,17.8,6-2 6-3 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
@@ -983,7 +983,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-D073,Davis Cup G2 R2: DEN vs LUX,Hard,4,D,20140404,1,104952,,,Martin Pedersen,R,,DEN,26.7,111167,,,Ugo Nastasi,R,185,LUX,20.9,6-4 6-4 6-1,5,RR,,,,,,,,,,,,,,,,,,,,1012,10,948,13
 2014-D073,Davis Cup G2 R2: DEN vs LUX,Hard,4,D,20140404,2,104233,,,Frederik Nielsen,R,190,DEN,30.5,103877,,,Mike Scheidweiler,R,188,LUX,32.3,6-3 6-4 5-7 6-7(5) 6-1,5,RR,,,,,,,,,,,,,,,,,,,,741,27,,
 2014-D073,Davis Cup G2 R2: DEN vs LUX,Hard,4,D,20140404,4,104233,,,Frederik Nielsen,R,190,DEN,30.5,111167,,,Ugo Nastasi,R,185,LUX,20.9,6-4 3-6 6-2,3,RR,,,,,,,,,,,,,,,,,,,,741,27,948,13
-2014-D073,Davis Cup G2 R2: DEN vs LUX,Hard,4,D,20140404,5,111453,,,Mikael Torpegaard,R,,DEN,19.8,144776,,,Christophe Tholl,,,LUX,19.2,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,1184,6,,
+2014-D073,Davis Cup G2 R2: DEN vs LUX,Hard,4,D,20140404,5,111453,,,Mikael Torpegaard,R,193,DEN,19.8,144776,,,Christophe Tholl,,,LUX,19.2,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,1184,6,,
 2014-D071,Davis Cup G2 R2: FIN vs BIH,Hard,4,D,20140404,1,106000,,,Damir Dzumhur,R,172,BIH,21.8,104768,,,Juho Paukku,L,,FIN,27.6,6-3 7-6(4) 6-4,5,RR,,,,,,,,,,,,,,,,,,,,158,356,1455,3
 2014-D071,Davis Cup G2 R2: FIN vs BIH,Hard,4,D,20140404,2,105806,,,Mirza Basic,R,188,BIH,22.7,103813,,,Jarkko Nieminen,L,185,FIN,32.6,3-6 7-6(3) 3-6 6-3 8-6,5,RR,,,,,,,,,,,,,,,,,,,,221,219,45,1000
 2014-D071,Davis Cup G2 R2: FIN vs BIH,Hard,4,D,20140404,4,103813,,,Jarkko Nieminen,L,185,FIN,32.6,106000,,,Damir Dzumhur,R,172,BIH,21.8,7-5 7-6(1) 6-1,5,RR,,,,,,,,,,,,,,,,,,,,45,1000,158,356
@@ -992,10 +992,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-D072,Davis Cup G2 R2: MDA vs BLR,Clay,4,D,20140404,2,106201,,,Maxim Dubarenco,R,,MDA,20.7,105590,,,Uladzimir Ignatik,R,183,BLR,23.7,7-5 7-6(5) 6-3,5,RR,,,,,,,,,,,,,,,,,,,,353,123,251,186
 2014-D072,Davis Cup G2 R2: MDA vs BLR,Clay,4,D,20140404,4,105430,,,Radu Albot,R,175,MDA,24.3,106078,,,Egor Gerasimov,R,196,BLR,21.3,3-6 1-6 6-3 6-1 6-2,5,RR,,,,,,,,,,,,,,,,,,,,177,290,265,174
 2014-D072,Davis Cup G2 R2: MDA vs BLR,Clay,4,D,20140404,5,106201,,,Maxim Dubarenco,R,,MDA,20.7,105299,,,Dzmitry Zhyrmont,U,,BLR,25.0,7-6(3) 7-6(2),3,RR,,,,,,,,,,,,,,,,,,,,353,123,327,136
-2014-D037,Davis Cup G2 R2: MEX vs PER,Hard,4,D,20140404,1,104960,,,Miguel Angel Reyes Varela,R,175,MEX,26.7,105273,,,Mauricio Echazu,R,,PER,25.2,6-3 4-6 7-6(2) 6-4,5,RR,,,,,,,,,,,,,,,,,,,,501,69,513,66
+2014-D037,Davis Cup G2 R2: MEX vs PER,Hard,4,D,20140404,1,104960,,,Miguel Angel Reyes Varela,R,175,MEX,26.7,105273,,,Mauricio Echazu,R,174,PER,25.2,6-3 4-6 7-6(2) 6-4,5,RR,,,,,,,,,,,,,,,,,,,,501,69,513,66
 2014-D037,Davis Cup G2 R2: MEX vs PER,Hard,4,D,20140404,2,105935,,,Duilio Beretta,R,,PER,22.0,105471,,,Cesar Ramirez,R,180,MEX,24.1,2-6 6-4 2-6 6-1 6-1,5,RR,,,,,,,,,,,,,,,,,,,,464,81,660,37
 2014-D037,Davis Cup G2 R2: MEX vs PER,Hard,4,D,20140404,4,104960,,,Miguel Angel Reyes Varela,R,175,MEX,26.7,105935,,,Duilio Beretta,R,,PER,22.0,6-3 7-6(2) 4-6 6-3,5,RR,,,,,,,,,,,,,,,,,,,,501,69,464,81
-2014-D037,Davis Cup G2 R2: MEX vs PER,Hard,4,D,20140404,5,105273,,,Mauricio Echazu,R,,PER,25.2,103746,,,Miguel Gallardo Valles,R,,MEX,32.9,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,513,66,544,59
+2014-D037,Davis Cup G2 R2: MEX vs PER,Hard,4,D,20140404,5,105273,,,Mauricio Echazu,R,174,PER,25.2,103746,,,Miguel Gallardo Valles,R,,MEX,32.9,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,513,66,544,59
 2014-D047,Davis Cup G2 R2: PHI vs PAK,Clay,4,D,20140404,1,104591,,,Patrick Tierro,U,,PHI,28.6,103499,,,Aqeel Khan,R,,PAK,34.1,7-5 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 2014-D047,Davis Cup G2 R2: PHI vs PAK,Clay,4,D,20140404,2,104604,,,Ruben Gonzales,R,,PHI,28.5,108766,,,Samir Iftikhar,U,,PAK,22.0,6-4 6-3 6-1,5,RR,,,,,,,,,,,,,,,,,,,,1276,4,,
 2014-D047,Davis Cup G2 R2: PHI vs PAK,Clay,4,D,20140404,4,103499,,,Aqeel Khan,R,,PAK,34.1,108594,,,Johnny Arcilla,U,,PHI,34.1,4-6 6-1 2-6 6-3 5-1 RET,5,RR,,,,,,,,,,,,,,,,,,,,,,,
@@ -1003,11 +1003,11 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-D070,Davis Cup G2 R2: RSA vs LTU,Hard,4,D,20140404,1,105575,,,Ricardas Berankis,R,175,LTU,23.7,105169,,,Jean Andersen,R,,RSA,25.7,6-3 7-6(2) 6-3,5,RR,,,,,,,,,,,,,,,,,,,,143,392,863,17
 2014-D070,Davis Cup G2 R2: RSA vs LTU,Hard,4,D,20140404,2,103573,,,Rik De Voest,R,180,RSA,33.8,105827,,,Laurynas Grigelis,R,183,LTU,22.6,7-6(5) 7-6(3) 2-6 7-6(4),5,RR,,,,,,,,,,,,,,,,,,,,261,176,234,207
 2014-D070,Davis Cup G2 R2: RSA vs LTU,Hard,4,D,20140404,4,105575,,,Ricardas Berankis,R,175,LTU,23.7,103573,,,Rik De Voest,R,180,RSA,33.8,6-2 6-4 5-7 7-5,5,RR,,,,,,,,,,,,,,,,,,,,143,392,261,176
-2014-D070,Davis Cup G2 R2: RSA vs LTU,Hard,4,D,20140404,5,105827,,,Laurynas Grigelis,R,183,LTU,22.6,105434,,,Ruan Roelofse,R,,RSA,24.3,7-6(5) 3-6 7-6(3) 6-4,5,RR,,,,,,,,,,,,,,,,,,,,234,207,744,27
-2014-D048,Davis Cup G2 R2: THA vs KUW,Hard,4,D,20140404,1,111181,,,Pruchya Isarow,R,,THA,18.4,126223,,,Abdulhameed Alshatti,R,,KUW,18.6,6-0 6-0 6-0,5,RR,,,,,,,,,,,,,,,,,,,,813,21,2017,1
-2014-D048,Davis Cup G2 R2: THA vs KUW,Hard,4,D,20140404,2,103600,,,Mohammad Ghareeb,R,,KUW,33.6,106397,,,Wishaya Trongcharoenchaikul,R,,THA,18.9,3-6 7-6(8) 7-6(4) 3-6 7-5,5,RR,,,,,,,,,,,,,,,,,,,,833,19,905,15
-2014-D048,Davis Cup G2 R2: THA vs KUW,Hard,4,D,20140404,4,111181,,,Pruchya Isarow,R,,THA,18.4,103600,,,Mohammad Ghareeb,R,,KUW,33.6,6-2 7-6(12) 1-6 6-1,5,RR,,,,,,,,,,,,,,,,,,,,813,21,833,19
-2014-D048,Davis Cup G2 R2: THA vs KUW,Hard,4,D,20140404,5,106136,,,Warit Sornbutnark,U,,THA,21.0,108985,,,Ali Ghareeb,U,,KUW,28.0,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,1358,4,1929,1
+2014-D070,Davis Cup G2 R2: RSA vs LTU,Hard,4,D,20140404,5,105827,,,Laurynas Grigelis,R,183,LTU,22.6,105434,,,Ruan Roelofse,R,188,RSA,24.3,7-6(5) 3-6 7-6(3) 6-4,5,RR,,,,,,,,,,,,,,,,,,,,234,207,744,27
+2014-D048,Davis Cup G2 R2: THA vs KUW,Hard,4,D,20140404,1,111181,,,Pruchya Isarow,R,175,THA,18.4,126223,,,Abdulhameed Alshatti,R,,KUW,18.6,6-0 6-0 6-0,5,RR,,,,,,,,,,,,,,,,,,,,813,21,2017,1
+2014-D048,Davis Cup G2 R2: THA vs KUW,Hard,4,D,20140404,2,103600,,,Mohammad Ghareeb,R,,KUW,33.6,106397,,,Wishaya Trongcharoenchaikul,R,193,THA,18.9,3-6 7-6(8) 7-6(4) 3-6 7-5,5,RR,,,,,,,,,,,,,,,,,,,,833,19,905,15
+2014-D048,Davis Cup G2 R2: THA vs KUW,Hard,4,D,20140404,4,111181,,,Pruchya Isarow,R,175,THA,18.4,103600,,,Mohammad Ghareeb,R,,KUW,33.6,6-2 7-6(12) 1-6 6-1,5,RR,,,,,,,,,,,,,,,,,,,,813,21,833,19
+2014-D048,Davis Cup G2 R2: THA vs KUW,Hard,4,D,20140404,5,106136,,,Warit Sornbutnark,U,180,THA,21.0,108985,,,Ali Ghareeb,U,,KUW,28.0,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,1358,4,1929,1
 2014-D010,Davis Cup WG QF: FRA vs GER,Hard,4,D,20140404,1,104735,,,Tobias Kamke,R,180,GER,27.8,103898,,,Julien Benneteau,R,185,FRA,32.2,7-6(8) 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,96,585,50,935
 2014-D010,Davis Cup WG QF: FRA vs GER,Hard,4,D,20140404,2,105376,,,Peter Gojowczyk,R,185,GER,24.7,104542,,,Jo-Wilfried Tsonga,R,188,FRA,28.9,5-7 7-6(3) 3-6 7-6(8) 8-6,5,RR,,,,,,,,,,,,,,,,,,,,119,504,12,2615
 2014-D010,Davis Cup WG QF: FRA vs GER,Hard,4,D,20140404,4,104542,,,Jo-Wilfried Tsonga,R,188,FRA,28.9,104735,,,Tobias Kamke,R,180,GER,27.8,6-3 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,,12,2615,96,585
@@ -1051,7 +1051,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-360,Casablanca,Clay,28,A,20140407,25,104719,4,,Marcel Granollers,R,190,ESP,27.9,105643,6,,Federico Delbonis,L,190,ARG,23.5,6-1 6-4,3,SF,75,1,0,46,24,17,14,8,0,1,0,3,53,31,11,12,9,2,7,36,1110,43,1009
 2014-360,Casablanca,Clay,28,A,20140407,26,104198,8,,Guillermo Garcia Lopez,R,188,ESP,30.8,106148,,Q,Roberto Carballes Baena,R,183,ESP,21.0,6-2 6-7(6) 6-4,3,SF,167,1,5,107,75,48,14,15,3,7,1,4,108,72,42,13,15,7,14,53,866,273,168
 2014-360,Casablanca,Clay,28,A,20140407,27,104198,8,,Guillermo Garcia Lopez,R,188,ESP,30.8,104719,4,,Marcel Granollers,R,190,ESP,27.9,5-7 6-4 6-3,3,F,159,1,6,89,56,43,16,16,3,7,3,2,88,53,32,19,15,7,12,53,866,36,1110
-2014-717,Houston,Clay,28,A,20140407,1,104460,,,Dustin Brown,R,196,GER,29.3,105733,,WC,Rhyne Williams,R,,USA,23.0,6-1 6-2,3,R32,49,5,1,43,24,20,12,8,0,0,0,0,42,26,13,7,7,3,7,101,580,153,371
+2014-717,Houston,Clay,28,A,20140407,1,104460,,,Dustin Brown,R,196,GER,29.3,105733,,WC,Rhyne Williams,R,185,USA,23.0,6-1 6-2,3,R32,49,5,1,43,24,20,12,8,0,0,0,0,42,26,13,7,7,3,7,101,580,153,371
 2014-717,Houston,Clay,28,A,20140407,2,105023,,,Sam Querrey,R,198,USA,26.4,104166,,,Alex Bogomolov Jr,R,178,RUS,30.9,6-4 7-6(6),3,R32,97,17,4,83,46,31,14,11,4,8,1,3,81,53,31,12,11,6,11,82,640,85,625
 2014-717,Houston,Clay,28,A,20140407,3,103720,7,,Lleyton Hewitt,R,180,AUS,33.1,105166,,Q,Peter Polansky,R,180,CAN,25.8,6-4 3-6 6-4,3,R32,124,1,12,101,59,30,19,15,8,16,3,3,80,51,32,7,14,5,13,46,1000,135,416
 2014-717,Houston,Clay,28,A,20140407,4,103188,,,Michael Russell,R,173,USA,35.9,104593,,,Daniel Gimeno Traver,R,185,ESP,28.6,6-3 7-6(2),3,R32,90,1,2,72,52,40,9,11,1,2,6,2,85,52,34,15,10,4,6,97,588,102,577
@@ -1061,7 +1061,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-717,Houston,Clay,28,A,20140407,8,105385,,,Donald Young,L,183,USA,24.7,105992,,Q,Ryan Harrison,R,183,USA,21.9,6-0 6-1,3,R32,41,1,0,32,21,18,10,7,0,0,0,1,37,24,12,2,6,3,8,91,606,115,524
 2014-717,Houston,Clay,28,A,20140407,9,105449,,WC,Steve Johnson,R,188,USA,24.2,106045,,,Denis Kudla,R,180,USA,21.6,6-3 7-6(4),3,R32,112,5,2,76,39,29,20,11,2,3,1,4,88,56,34,16,10,6,8,69,688,108,549
 2014-717,Houston,Clay,28,A,20140407,10,103852,5,,Feliciano Lopez,L,188,ESP,32.5,104068,,Q,Robby Ginepri,R,183,USA,31.4,7-5 6-2,3,R32,84,6,1,59,29,20,18,10,2,4,2,2,62,38,20,12,10,7,12,31,1225,329,134
-2014-717,Houston,Clay,28,A,20140407,11,105292,,,Alejandro Gonzalez,R,,COL,25.1,104571,,WC,Marcos Baghdatis,R,183,CYP,28.8,4-6 6-2 6-1,3,R32,119,0,1,100,52,31,26,12,10,13,5,9,77,41,28,10,13,2,9,79,651,129,445
+2014-717,Houston,Clay,28,A,20140407,11,105292,,,Alejandro Gonzalez,R,190,COL,25.1,104571,,WC,Marcos Baghdatis,R,183,CYP,28.8,4-6 6-2 6-1,3,R32,119,0,1,100,52,31,26,12,10,13,5,9,77,41,28,10,13,2,9,79,651,129,445
 2014-717,Houston,Clay,28,A,20140407,12,105053,,,Santiago Giraldo,R,188,COL,26.3,105051,,,Matthew Ebden,R,188,AUS,26.3,6-1 6-2,3,R32,58,0,0,39,28,20,9,7,0,0,3,9,48,22,18,3,8,3,8,84,633,63,720
 2014-717,Houston,Clay,28,A,20140407,13,104460,,,Dustin Brown,R,196,GER,29.3,104545,1,,John Isner,R,206,USA,28.9,6-4 6-7(7) 7-6(4),3,R16,139,12,10,135,83,68,26,17,9,9,13,2,116,68,50,29,17,2,3,101,580,9,2715
 2014-717,Houston,Clay,28,A,20140407,14,105023,,,Sam Querrey,R,198,USA,26.4,103720,7,,Lleyton Hewitt,R,180,AUS,33.1,6-3 6-4,3,R16,76,8,3,62,39,31,8,10,3,5,1,4,57,21,17,13,9,1,5,82,640,46,1000
@@ -1069,12 +1069,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-717,Houston,Clay,28,A,20140407,16,106058,,,Jack Sock,R,185,USA,21.5,103794,,,Benjamin Becker,R,178,GER,32.8,6-4 6-3,3,R16,74,3,2,48,22,15,20,9,4,5,3,3,70,35,21,17,10,6,10,94,593,68,698
 2014-717,Houston,Clay,28,A,20140407,17,105385,,,Donald Young,L,183,USA,24.7,104338,6,,Juan Monaco,R,185,ARG,30.0,6-7(4) 6-4 6-3,3,R16,135,3,6,94,55,43,19,15,10,14,1,2,99,63,36,18,16,1,8,91,606,42,1015
 2014-717,Houston,Clay,28,A,20140407,18,104269,4,,Fernando Verdasco,L,188,ESP,30.3,105449,,WC,Steve Johnson,R,188,USA,24.2,6-0 4-6 6-3,3,R16,95,3,4,69,45,38,13,13,3,4,1,3,73,36,29,14,12,1,5,29,1270,69,688
-2014-717,Houston,Clay,28,A,20140407,19,105292,,,Alejandro Gonzalez,R,,COL,25.1,103852,5,,Feliciano Lopez,L,188,ESP,32.5,6-3 2-0 RET,3,R16,46,3,2,32,17,15,10,6,0,0,4,3,32,14,11,7,5,0,2,79,651,31,1225
+2014-717,Houston,Clay,28,A,20140407,19,105292,,,Alejandro Gonzalez,R,190,COL,25.1,103852,5,,Feliciano Lopez,L,188,ESP,32.5,6-3 2-0 RET,3,R16,46,3,2,32,17,15,10,6,0,0,4,3,32,14,11,7,5,0,2,79,651,31,1225
 2014-717,Houston,Clay,28,A,20140407,20,105053,,,Santiago Giraldo,R,188,COL,26.3,103990,2,,Tommy Robredo,R,180,ESP,31.9,6-3 6-4,3,R16,80,5,1,65,36,25,20,10,4,4,3,2,58,34,23,11,9,2,4,84,633,14,2140
 2014-717,Houston,Clay,28,A,20140407,21,105023,,,Sam Querrey,R,198,USA,26.4,104460,,,Dustin Brown,R,196,GER,29.3,6-3 6-7(8) 6-3,3,QF,104,15,6,106,59,49,24,16,4,4,10,6,101,57,42,21,14,4,6,82,640,101,580
 2014-717,Houston,Clay,28,A,20140407,22,104597,3,,Nicolas Almagro,R,183,ESP,28.6,106058,,,Jack Sock,R,185,USA,21.5,6-2 6-4,3,QF,73,7,0,41,25,22,14,9,0,0,5,5,57,31,20,13,9,3,6,20,1750,94,593
 2014-717,Houston,Clay,28,A,20140407,23,104269,4,,Fernando Verdasco,L,188,ESP,30.3,105385,,,Donald Young,L,183,USA,24.7,7-6(1) 6-1,3,QF,83,5,2,64,50,34,10,10,4,5,0,5,60,39,25,7,9,0,3,29,1270,91,606
-2014-717,Houston,Clay,28,A,20140407,24,105053,,,Santiago Giraldo,R,188,COL,26.3,105292,,,Alejandro Gonzalez,R,,COL,25.1,6-3 6-4,3,QF,88,1,0,67,40,28,16,10,7,8,1,2,49,22,13,18,9,3,6,84,633,79,651
+2014-717,Houston,Clay,28,A,20140407,24,105053,,,Santiago Giraldo,R,188,COL,26.3,105292,,,Alejandro Gonzalez,R,190,COL,25.1,6-3 6-4,3,QF,88,1,0,67,40,28,16,10,7,8,1,2,49,22,13,18,9,3,6,84,633,79,651
 2014-717,Houston,Clay,28,A,20140407,25,104597,3,,Nicolas Almagro,R,183,ESP,28.6,105023,,,Sam Querrey,R,198,USA,26.4, W/O,3,SF,,,,,,,,,,,,,,,,,,,,20,1750,82,640
 2014-717,Houston,Clay,28,A,20140407,26,104269,4,,Fernando Verdasco,L,188,ESP,30.3,105053,,,Santiago Giraldo,R,188,COL,26.3,6-4 7-5,3,SF,92,1,4,64,47,32,9,11,3,6,1,3,62,35,20,13,11,1,6,29,1270,84,633
 2014-717,Houston,Clay,28,A,20140407,27,104269,4,,Fernando Verdasco,L,188,ESP,30.3,104597,3,,Nicolas Almagro,R,183,ESP,28.6,6-3 7-6(4),3,F,112,4,1,96,76,50,10,11,6,7,8,1,66,36,26,16,10,7,9,29,1270,20,1750
@@ -1134,7 +1134,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-410,Monte Carlo Masters,Clay,56,M,20140413,54,103819,4,,Roger Federer,R,185,SUI,32.6,104925,2,,Novak Djokovic,R,188,SRB,26.8,7-5 6-2,3,SF,75,3,1,57,40,33,10,10,2,2,2,0,59,40,24,12,10,2,5,4,5355,2,11680
 2014-410,Monte Carlo Masters,Clay,56,M,20140413,55,104527,3,,Stan Wawrinka,R,183,SUI,29.0,103819,4,,Roger Federer,R,185,SUI,32.6,4-6 7-6(5) 6-2,3,F,134,5,2,93,54,43,22,15,1,3,3,1,103,69,51,15,15,4,7,3,5760,4,5355
 2014-425,Barcelona,Clay,48,A,20140421,1,105077,,,Albert Ramos,L,188,ESP,26.2,103786,,,Nikolay Davydenko,R,178,RUS,32.8,6-4 6-4,3,R64,84,3,0,57,37,28,12,10,1,2,3,3,60,34,24,13,10,1,4,103,569,82,630
-2014-425,Barcelona,Clay,48,A,20140421,2,104471,,,Ivan Dodig,R,183,CRO,29.2,106032,,WC,Facundo Arguello,R,,ARG,21.7,6-3 6-7(5) 6-2,3,R64,120,6,2,90,53,41,26,15,6,7,3,3,95,65,46,12,14,6,10,37,1110,107,559
+2014-425,Barcelona,Clay,48,A,20140421,2,104471,,,Ivan Dodig,R,183,CRO,29.2,106032,,WC,Facundo Arguello,R,178,ARG,21.7,6-3 6-7(5) 6-2,3,R64,120,6,2,90,53,41,26,15,6,7,3,3,95,65,46,12,14,6,10,37,1110,107,559
 2014-425,Barcelona,Clay,48,A,20140421,3,104932,,,Kenny De Schepper,L,203,FRA,26.8,104947,,Q,Marsel Ilhan,R,190,TUR,26.8,6-3 7-5,3,R64,85,6,3,83,62,45,10,11,6,6,4,0,61,42,28,11,10,1,3,63,719,154,356
 2014-425,Barcelona,Clay,48,A,20140421,4,105373,,,Martin Klizan,L,190,SVK,24.7,104500,,,Somdev Devvarman,R,180,IND,29.1,6-2 6-4,3,R64,79,0,1,50,34,24,10,9,3,4,8,2,72,44,25,13,9,7,11,108,558,100,582
 2014-425,Barcelona,Clay,48,A,20140421,5,105053,,,Santiago Giraldo,R,188,COL,26.3,104997,,,Igor Sijsling,R,190,NED,26.6,6-4 6-2,3,R64,59,3,0,54,41,28,10,9,0,0,5,1,57,38,21,13,9,3,6,65,703,56,831
@@ -1143,11 +1143,11 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-425,Barcelona,Clay,48,A,20140421,8,103781,,,Jurgen Melzer,L,183,AUT,32.9,105062,,,Mikhail Kukushkin,R,183,KAZ,26.3,7-6(5) 3-6 6-3,3,R64,149,5,4,93,49,40,20,15,2,6,6,3,113,73,48,21,15,7,11,73,655,57,825
 2014-425,Barcelona,Clay,48,A,20140421,9,104594,,,Marinko Matosevic,R,194,AUS,28.7,105311,,,Joao Sousa,R,185,POR,25.0,6-3 6-2,3,R64,74,4,0,53,34,26,10,9,1,2,0,1,63,39,24,8,8,10,14,70,685,40,1050
 2014-425,Barcelona,Clay,48,A,20140421,10,105723,,Q,Andrey Kuznetsov,R,185,RUS,23.1,105807,,,Pablo Carreno Busta,R,188,ESP,22.7,2-6 6-1 6-2,3,R64,94,3,2,69,33,23,18,12,2,5,2,1,69,33,19,16,11,6,11,131,444,58,816
-2014-425,Barcelona,Clay,48,A,20140421,11,104979,,,Andrey Golubev,R,185,KAZ,26.7,104970,,Q,Matteo Viola,R,,ITA,26.7,6-4 6-3,3,R64,75,4,2,53,36,26,10,9,4,5,2,2,66,46,26,10,10,4,8,60,776,190,268
+2014-425,Barcelona,Clay,48,A,20140421,11,104979,,,Andrey Golubev,R,185,KAZ,26.7,104970,,Q,Matteo Viola,R,188,ITA,26.7,6-4 6-3,3,R64,75,4,2,53,36,26,10,9,4,5,2,2,66,46,26,10,10,4,8,60,776,190,268
 2014-425,Barcelona,Clay,48,A,20140421,12,105138,,,Roberto Bautista Agut,R,183,ESP,26.0,103997,,,Lukasz Kubot,R,190,POL,31.9,6-1 6-0,3,R64,61,2,1,47,34,27,7,7,8,8,1,1,39,22,7,7,6,2,7,45,1000,75,646
 2014-425,Barcelona,Clay,48,A,20140421,13,103656,,,Albert Montanes,R,175,ESP,33.3,104043,,Q,Marc Lopez,R,175,ESP,31.7,7-6(4) 6-2,3,R64,102,2,4,67,48,34,9,10,6,8,1,0,74,57,30,8,10,1,5,59,810,1014,10
 2014-425,Barcelona,Clay,48,A,20140421,14,104593,,WC,Daniel Gimeno Traver,R,185,ESP,28.7,106148,,WC,Roberto Carballes Baena,R,183,ESP,21.0,6-3 7-5,3,R64,92,2,1,66,35,26,15,10,5,7,0,2,68,45,25,10,11,2,7,104,567,187,270
-2014-425,Barcelona,Clay,48,A,20140421,15,105438,,WC,Inigo Cervantes Huegun,R,,ESP,24.3,104873,,,Aleksandr Nedovyesov,R,193,KAZ,27.1,3-6 6-2 6-4,3,R64,124,1,3,107,56,42,25,14,9,11,1,1,86,62,37,14,13,2,5,824,20,72,659
+2014-425,Barcelona,Clay,48,A,20140421,15,105438,,WC,Inigo Cervantes Huegun,R,183,ESP,24.3,104873,,,Aleksandr Nedovyesov,R,193,KAZ,27.1,3-6 6-2 6-4,3,R64,124,1,3,107,56,42,25,14,9,11,1,1,86,62,37,14,13,2,5,824,20,72,659
 2014-425,Barcelona,Clay,48,A,20140421,16,104559,,,Teymuraz Gabashvili,R,188,RUS,28.9,104308,,,Michal Przysiezny,R,185,POL,30.1,6-3 6-4,3,R64,71,5,1,58,42,34,9,10,4,5,3,0,54,30,20,13,9,2,5,55,833,77,637
 2014-425,Barcelona,Clay,48,A,20140421,17,104745,1,,Rafael Nadal,L,185,ESP,27.8,105077,,,Albert Ramos,L,188,ESP,26.2,7-6(2) 6-4,3,R32,117,1,0,70,51,35,12,11,2,4,1,3,67,40,26,11,11,0,3,1,13310,103,569
 2014-425,Barcelona,Clay,48,A,20140421,18,104471,,,Ivan Dodig,R,183,CRO,29.2,103852,13,,Feliciano Lopez,L,188,ESP,32.5,6-1 6-4,3,R32,61,10,0,45,28,23,13,9,0,0,4,2,44,25,17,8,8,4,7,37,1110,30,1225
@@ -1163,7 +1163,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-425,Barcelona,Clay,48,A,20140421,28,105453,4,,Kei Nishikori,R,178,JPN,24.3,105138,,,Roberto Bautista Agut,R,183,ESP,26.0,6-1 4-6 6-3,3,R32,118,5,2,77,45,31,15,13,3,7,1,1,90,60,33,14,13,8,15,17,1985,45,1000
 2014-425,Barcelona,Clay,48,A,20140421,29,103656,,,Albert Montanes,R,175,ESP,33.3,105238,8,,Alexandr Dolgopolov,R,180,UKR,25.4,7-6(5) 6-3,3,R32,93,3,1,74,53,44,7,11,4,4,4,0,68,34,28,18,10,1,2,59,810,22,1690
 2014-425,Barcelona,Clay,48,A,20140421,30,105208,9,,Ernests Gulbis,R,190,LAT,25.6,104593,,WC,Daniel Gimeno Traver,R,185,ESP,28.7,7-5 7-6(1),3,R32,97,4,1,68,43,36,14,12,1,3,7,0,76,50,35,11,12,1,4,23,1655,104,567
-2014-425,Barcelona,Clay,48,A,20140421,31,105438,,WC,Inigo Cervantes Huegun,R,,ESP,24.3,104098,15,,Dmitry Tursunov,R,185,RUS,31.3,5-7 6-0 6-3,3,R32,103,2,2,72,37,29,14,13,3,7,3,2,79,51,31,5,14,1,9,824,20,34,1200
+2014-425,Barcelona,Clay,48,A,20140421,31,105438,,WC,Inigo Cervantes Huegun,R,183,ESP,24.3,104098,15,,Dmitry Tursunov,R,185,RUS,31.3,5-7 6-0 6-3,3,R32,103,2,2,72,37,29,14,13,3,7,3,2,79,51,31,5,14,1,9,824,20,34,1200
 2014-425,Barcelona,Clay,48,A,20140421,32,104559,,,Teymuraz Gabashvili,R,188,RUS,28.9,103970,2,,David Ferrer,R,175,ESP,32.0,6-4 6-2,3,R32,81,1,2,65,33,22,19,9,7,8,0,4,52,32,19,7,9,4,8,55,833,5,4910
 2014-425,Barcelona,Clay,48,A,20140421,33,104745,1,,Rafael Nadal,L,185,ESP,27.8,104471,,,Ivan Dodig,R,183,CRO,29.2,6-3 6-3,3,R16,84,1,0,48,36,25,9,9,0,1,5,3,57,32,21,9,9,4,8,1,13310,37,1110
 2014-425,Barcelona,Clay,48,A,20140421,34,104597,6,,Nicolas Almagro,R,183,ESP,28.6,104269,11,,Fernando Verdasco,L,188,ESP,30.4,6-3 6-3,3,R16,73,4,0,48,23,20,15,9,3,4,2,2,64,50,27,7,9,5,9,20,1750,25,1500
@@ -1172,7 +1172,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-425,Barcelona,Clay,48,A,20140421,37,105227,12,,Marin Cilic,R,198,CRO,25.5,103990,5,,Tommy Robredo,R,180,ESP,31.9,7-5 6-7(3) 7-6(5),3,R16,167,8,2,117,61,46,34,18,5,6,2,3,113,81,59,18,18,3,5,27,1330,18,1980
 2014-425,Barcelona,Clay,48,A,20140421,38,105453,4,,Kei Nishikori,R,178,JPN,24.3,104979,,,Andrey Golubev,R,185,KAZ,26.7,6-0 6-4,3,R16,76,3,2,59,42,26,8,8,4,6,0,2,55,34,14,9,8,6,12,17,1985,60,776
 2014-425,Barcelona,Clay,48,A,20140421,39,105208,9,,Ernests Gulbis,R,190,LAT,25.6,103656,,,Albert Montanes,R,175,ESP,33.3,7-5 6-1,3,R16,75,6,1,51,36,28,9,10,0,1,0,3,66,37,24,11,9,2,6,23,1655,59,810
-2014-425,Barcelona,Clay,48,A,20140421,40,104559,,,Teymuraz Gabashvili,R,188,RUS,28.9,105438,,WC,Inigo Cervantes Huegun,R,,ESP,24.3,6-4 6-2,3,R16,80,1,1,51,26,23,13,9,1,2,4,3,55,31,21,9,9,2,6,55,833,824,20
+2014-425,Barcelona,Clay,48,A,20140421,40,104559,,,Teymuraz Gabashvili,R,188,RUS,28.9,105438,,WC,Inigo Cervantes Huegun,R,183,ESP,24.3,6-4 6-2,3,R16,80,1,1,51,26,23,13,9,1,2,4,3,55,31,21,9,9,2,6,55,833,824,20
 2014-425,Barcelona,Clay,48,A,20140421,41,104597,6,,Nicolas Almagro,R,183,ESP,28.6,104745,1,,Rafael Nadal,L,185,ESP,27.8,2-6 7-6(5) 6-4,3,QF,167,4,2,121,65,43,25,15,13,18,2,4,91,61,43,14,15,3,7,20,1750,1,13310
 2014-425,Barcelona,Clay,48,A,20140421,42,105053,,,Santiago Giraldo,R,188,COL,26.3,104259,10,,Philipp Kohlschreiber,R,178,GER,30.5,6-4 4-3 RET,3,QF,67,4,0,54,34,23,11,9,1,3,3,1,47,26,18,9,8,1,4,65,703,26,1465
 2014-425,Barcelona,Clay,48,A,20140421,43,105453,4,,Kei Nishikori,R,178,JPN,24.3,105227,12,,Marin Cilic,R,198,CRO,25.5,6-1 6-3,3,QF,71,2,2,47,29,22,9,8,1,2,5,2,53,25,17,7,8,3,8,17,1985,27,1330
@@ -1218,7 +1218,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-468,Estoril,Clay,28,A,20140428,5,103812,,,Victor Hanescu,R,198,ROU,32.7,105430,,Q,Radu Albot,R,175,MDA,24.4,3-6 6-4 6-4,3,R32,126,3,4,91,63,39,12,14,7,12,0,4,98,78,44,6,15,6,12,93,601,178,298
 2014-468,Estoril,Clay,28,A,20140428,6,105807,,,Pablo Carreno Busta,R,188,ESP,22.7,105062,8,,Mikhail Kukushkin,R,183,KAZ,26.3,6-1 7-6(3),3,R32,76,6,4,56,33,25,13,10,1,4,1,1,57,29,17,11,9,2,7,60,816,59,825
 2014-468,Estoril,Clay,28,A,20140428,7,104349,,WC,Rui Machado,R,178,POR,30.0,104098,5,,Dmitry Tursunov,R,185,RUS,31.3,6-0 6-0,3,R32,48,3,1,38,26,17,10,6,0,0,0,4,32,16,4,3,6,0,6,243,200,32,1190
-2014-468,Estoril,Clay,28,A,20140428,8,104593,,Q,Daniel Gimeno Traver,R,185,ESP,28.7,105292,,,Alejandro Gonzalez,R,,COL,25.2,6-4 6-1,3,R32,70,4,4,63,36,28,13,9,2,3,0,0,54,37,20,7,8,8,12,98,587,80,637
+2014-468,Estoril,Clay,28,A,20140428,8,104593,,Q,Daniel Gimeno Traver,R,185,ESP,28.7,105292,,,Alejandro Gonzalez,R,190,COL,25.2,6-4 6-1,3,R32,70,4,4,63,36,28,13,9,2,3,0,0,54,37,20,7,8,8,12,98,587,80,637
 2014-468,Estoril,Clay,28,A,20140428,9,103656,,,Albert Montanes,R,175,ESP,33.4,106148,,LL,Roberto Carballes Baena,R,183,ESP,21.0,7-6(4) 6-3,3,R32,99,4,2,70,40,30,17,11,1,3,2,3,72,42,24,17,10,3,6,57,835,188,270
 2014-468,Estoril,Clay,28,A,20140428,10,103997,,,Lukasz Kubot,R,190,POL,31.9,104559,7,,Teymuraz Gabashvili,R,188,RUS,28.9,6-3 7-5,3,R32,97,2,3,83,55,36,14,11,4,6,2,0,53,34,21,8,10,0,4,76,646,52,903
 2014-468,Estoril,Clay,28,A,20140428,11,104122,,,Carlos Berlocq,R,183,ARG,31.2,106121,,Q,Taro Daniel,R,191,JPN,21.2,6-3 6-2,3,R32,82,8,2,53,32,23,8,8,2,5,0,3,51,31,11,8,9,4,11,62,735,190,269
@@ -1339,7 +1339,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-416,Rome Masters,Clay,56,M,20140511,17,104471,,,Ivan Dodig,R,183,CRO,29.3,105643,,,Federico Delbonis,L,190,ARG,23.6,6-3 6-4,3,R64,92,9,1,61,38,30,11,10,2,4,1,1,59,36,21,9,9,2,6,40,1055,44,1004
 2014-416,Rome Masters,Clay,56,M,20140511,18,104871,,,Jeremy Chardy,R,188,FRA,27.2,104898,,,Robin Haase,R,190,NED,27.0,6-4 6-4,3,R64,85,9,0,55,34,29,12,10,2,2,1,0,69,36,24,16,10,4,6,47,970,50,945
 2014-416,Rome Masters,Clay,56,M,20140511,19,105062,,,Mikhail Kukushkin,R,183,KAZ,26.3,105311,,,Joao Sousa,R,185,POR,25.1,6-3 6-7(1) 6-3,3,R64,151,1,0,122,86,56,24,16,7,7,4,0,91,63,48,13,14,6,8,60,819,41,1045
-2014-416,Rome Masters,Clay,56,M,20140511,20,103565,,Q,Stephane Robert,R,185,FRA,33.9,105292,,Q,Alejandro Gonzalez,R,,COL,25.2,1-6 6-4 6-1,3,R64,96,7,2,72,47,35,13,12,1,3,5,1,77,53,34,13,12,2,5,85,629,79,647
+2014-416,Rome Masters,Clay,56,M,20140511,20,103565,,Q,Stephane Robert,R,185,FRA,33.9,105292,,Q,Alejandro Gonzalez,R,190,COL,25.2,1-6 6-4 6-1,3,R64,96,7,2,72,47,35,13,12,1,3,5,1,77,53,34,13,12,2,5,85,629,79,647
 2014-416,Rome Masters,Clay,56,M,20140511,21,105208,,,Ernests Gulbis,R,190,LAT,25.6,104268,,LL,Alejandro Falla,L,185,COL,30.4,6-1 RET,3,R64,25,4,1,19,9,9,7,4,0,0,0,0,15,11,6,0,3,1,3,17,1915,73,687
 2014-416,Rome Masters,Clay,56,M,20140511,22,103990,16,,Tommy Robredo,R,180,ESP,32.0,104338,,,Juan Monaco,R,185,ARG,30.1,7-6(3) 6-4,3,R64,93,1,1,63,40,24,15,11,1,4,1,0,65,49,28,7,11,0,4,18,1855,54,880
 2014-416,Rome Masters,Clay,56,M,20140511,23,104259,,,Philipp Kohlschreiber,R,178,GER,30.5,105668,,,Jerzy Janowicz,R,203,POL,23.4,4-6 7-6(6) 6-2,3,R64,139,5,2,113,73,49,20,15,12,15,8,6,119,73,48,21,15,8,12,29,1280,22,1680
@@ -1379,7 +1379,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-6710,Dusseldorf,Clay,28,A,20140518,2,106243,,Q,Mate Delic,R,196,CRO,20.6,104308,,,Michal Przysiezny,R,185,POL,30.2,7-5 7-5,3,R32,80,10,2,62,41,34,12,12,2,3,5,3,74,36,30,13,12,0,3,211,231,102,572
 2014-6710,Dusseldorf,Clay,28,A,20140518,3,104460,,WC,Dustin Brown,R,196,GER,29.4,104229,5,,Yen Hsun Lu,R,180,TPE,30.7,7-6(3) 6-2,3,R32,84,8,2,72,49,34,12,10,4,6,2,6,85,58,34,11,10,10,14,87,620,46,968
 2014-6710,Dusseldorf,Clay,28,A,20140518,4,105173,,,Adrian Mannarino,L,183,FRA,25.8,104594,,,Marinko Matosevic,R,194,AUS,28.7,3-6 6-3 6-4,3,R32,118,4,3,99,63,37,19,14,7,11,4,1,88,54,36,14,14,4,9,96,592,68,732
-2014-6710,Dusseldorf,Clay,28,A,20140518,5,106186,,Q,Jason Kubler,R,,AUS,20.9,105561,,Q,Alessandro Giannessi,L,183,ITA,23.9,7-5 3-6 6-1,3,R32,120,2,10,91,62,43,11,14,4,8,4,2,88,52,34,13,14,6,12,352,125,366,120
+2014-6710,Dusseldorf,Clay,28,A,20140518,5,106186,,Q,Jason Kubler,R,178,AUS,20.9,105561,,Q,Alessandro Giannessi,L,183,ITA,23.9,7-5 3-6 6-1,3,R32,120,2,10,91,62,43,11,14,4,8,4,2,88,52,34,13,14,6,12,352,125,366,120
 2014-6710,Dusseldorf,Clay,28,A,20140518,6,104797,,,Denis Istomin,R,188,UZB,27.6,103813,6,,Jarkko Nieminen,L,185,FIN,32.8,6-7(5) 6-3 6-2,3,R32,116,9,3,81,52,42,16,14,5,6,3,3,101,59,40,17,15,5,10,57,845,51,920
 2014-6710,Dusseldorf,Clay,28,A,20140518,7,106210,,,Jiri Vesely,L,198,CZE,20.8,104997,8,,Igor Sijsling,R,190,NED,26.7,7-6(2) 6-3,3,R32,94,7,3,73,43,35,14,10,4,5,7,1,74,40,30,15,11,4,7,104,559,52,910
 2014-6710,Dusseldorf,Clay,28,A,20140518,8,103786,,,Nikolay Davydenko,R,178,RUS,32.9,104534,,,Dudi Sela,R,175,ISR,29.1,6-3 6-1,3,R32,60,2,1,52,30,21,13,8,3,4,1,3,50,26,10,12,8,2,7,100,590,110,531
@@ -1390,7 +1390,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-6710,Dusseldorf,Clay,28,A,20140518,13,104259,1,,Philipp Kohlschreiber,R,178,GER,30.5,104559,,,Teymuraz Gabashvili,R,188,RUS,28.9,6-3 6-1,3,R16,67,3,1,41,29,27,6,8,1,1,0,4,61,32,21,9,8,2,6,29,1280,60,798
 2014-6710,Dusseldorf,Clay,28,A,20140518,14,106243,,Q,Mate Delic,R,196,CRO,20.6,104460,,WC,Dustin Brown,R,196,GER,29.4,6-3 6-0,3,R16,46,2,0,49,37,26,8,8,1,1,0,4,43,24,18,3,7,2,6,211,231,87,620
 2014-6710,Dusseldorf,Clay,28,A,20140518,15,104312,3,,Andreas Seppi,R,190,ITA,30.2,105173,,,Adrian Mannarino,L,183,FRA,25.8,6-2 6-1,3,R16,57,3,1,40,25,20,10,7,0,0,1,1,52,25,13,11,8,3,8,33,1150,96,592
-2014-6710,Dusseldorf,Clay,28,A,20140518,16,104797,,,Denis Istomin,R,188,UZB,27.6,106186,,Q,Jason Kubler,R,,AUS,20.9,3-6 6-4 6-2,3,R16,98,4,1,83,57,38,14,14,4,7,0,5,77,46,29,15,13,5,9,57,845,352,125
+2014-6710,Dusseldorf,Clay,28,A,20140518,16,104797,,,Denis Istomin,R,188,UZB,27.6,106186,,Q,Jason Kubler,R,178,AUS,20.9,3-6 6-4 6-2,3,R16,98,4,1,83,57,38,14,14,4,7,0,5,77,46,29,15,13,5,9,57,845,352,125
 2014-6710,Dusseldorf,Clay,28,A,20140518,17,106210,,,Jiri Vesely,L,198,CZE,20.8,103786,,,Nikolay Davydenko,R,178,RUS,32.9,6-1 7-6(5),3,R16,82,8,1,54,35,29,14,9,2,2,2,1,73,46,26,17,10,9,12,104,559,100,590
 2014-6710,Dusseldorf,Clay,28,A,20140518,18,103781,,,Jurgen Melzer,L,183,AUT,32.9,105311,4,,Joao Sousa,R,185,POR,25.1,7-6(6) 4-6 6-4,3,R16,142,5,4,109,61,46,28,16,8,10,3,2,109,66,44,28,16,9,11,59,800,42,1039
 2014-6710,Dusseldorf,Clay,28,A,20140518,19,103333,7,,Ivo Karlovic,R,208,CRO,35.2,110748,,WC,Nikola Milojevic,R,188,SRB,18.9,6-4 7-5,3,R16,72,11,0,49,38,36,8,11,0,0,0,3,65,37,28,14,11,3,5,49,947,581,52
@@ -1408,7 +1408,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-6120,Nice,Clay,28,A,20140518,4,106233,,,Dominic Thiem,R,185,AUT,20.7,105449,,,Steve Johnson,R,188,USA,24.3,3-6 7-6(5) 7-5,3,R32,137,5,3,104,71,46,20,16,5,9,7,6,113,68,45,22,17,8,12,58,802,67,748
 2014-6120,Nice,Clay,28,A,20140518,5,104122,,,Carlos Berlocq,R,183,ARG,31.2,103898,,,Julien Benneteau,R,185,FRA,32.4,6-1 4-6 6-3,3,R32,142,3,3,76,53,39,13,13,7,9,8,4,101,60,39,15,13,11,16,48,950,43,1035
 2014-6120,Nice,Clay,28,A,20140518,6,103917,6,,Nicolas Mahut,R,190,FRA,32.3,104993,,Q,Martin Vaisse,U,,FRA,26.7,6-7(4) 6-3 6-2,3,R32,114,9,2,94,54,43,24,15,6,7,2,0,82,49,31,22,14,2,6,38,1067,309,146
-2014-6120,Nice,Clay,28,A,20140518,7,104273,8,,Edouard Roger Vasselin,R,188,FRA,30.4,105292,,,Alejandro Gonzalez,R,,COL,25.2,6-3 6-1,3,R32,66,2,0,50,37,29,7,8,2,2,6,1,50,29,18,8,8,1,5,47,965,78,675
+2014-6120,Nice,Clay,28,A,20140518,7,104273,8,,Edouard Roger Vasselin,R,188,FRA,30.4,105292,,,Alejandro Gonzalez,R,190,COL,25.2,6-3 6-1,3,R32,66,2,0,50,37,29,7,8,2,2,6,1,50,29,18,8,8,1,5,47,965,78,675
 2014-6120,Nice,Clay,28,A,20140518,8,104919,,Q,Leonardo Mayer,R,188,ARG,27.0,106432,,WC,Borna Coric,R,188,CRO,17.5,4-6 6-3 6-4,3,R32,110,7,3,80,55,43,14,15,0,2,5,0,74,51,33,15,14,1,4,77,676,245,199
 2014-6120,Nice,Clay,28,A,20140518,9,103656,,,Albert Montanes,R,175,ESP,33.4,105051,,,Matthew Ebden,R,188,AUS,26.4,6-1 6-3,3,R32,73,4,2,57,32,24,14,8,2,2,1,7,59,35,21,8,8,5,9,61,785,75,700
 2014-6120,Nice,Clay,28,A,20140518,10,104098,5,,Dmitry Tursunov,R,185,RUS,31.4,104873,,,Aleksandr Nedovyesov,R,193,KAZ,27.2,6-1 6-4,3,R32,56,4,0,48,34,28,9,9,0,0,1,0,39,24,17,5,8,0,3,32,1155,99,591
@@ -1434,16 +1434,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-520,Roland Garros,Clay,128,G,20140526,3,104919,,,Leonardo Mayer,R,188,ARG,27.0,105902,,Q,James Duckworth,R,183,AUS,22.3,5-7 6-2 6-4 7-6(2),5,R128,158,14,7,107,67,62,21,21,1,3,5,0,128,83,57,27,21,2,6,65,733,165,331
 2014-520,Roland Garros,Clay,128,G,20140526,4,104559,,,Teymuraz Gabashvili,R,188,RUS,29.0,105577,30,,Vasek Pospisil,R,193,CAN,23.9,6-4 6-2 6-3,5,R128,100,1,1,69,42,32,18,13,1,2,6,3,91,57,34,14,14,9,15,58,798,31,1170
 2014-520,Roland Garros,Clay,128,G,20140526,5,106058,,,Jack Sock,R,185,USA,21.6,104597,21,,Nicolas Almagro,R,183,ESP,28.7,5-0 RET,5,R128,21,1,0,10,4,3,5,2,0,0,0,2,17,8,2,3,3,1,4,75,678,22,1620
-2014-520,Roland Garros,Clay,128,G,20140526,6,105449,,,Steve Johnson,R,188,USA,24.4,106362,,Q,Laurent Lokoli,R,,FRA,19.6,4-6 6-7(7) 7-6(3) 6-3 6-3,5,R128,237,5,3,180,88,56,58,26,11,16,18,10,164,80,58,43,26,7,14,64,748,406,104
+2014-520,Roland Garros,Clay,128,G,20140526,6,105449,,,Steve Johnson,R,188,USA,24.4,106362,,Q,Laurent Lokoli,R,188,FRA,19.6,4-6 6-7(7) 7-6(3) 6-3 6-3,5,R128,237,5,3,180,88,56,58,26,11,16,18,10,164,80,58,43,26,7,14,64,748,406,104
 2014-520,Roland Garros,Clay,128,G,20140526,7,105583,,,Dusan Lajovic,R,180,SRB,23.9,105643,,,Federico Delbonis,L,190,ARG,23.6,6-3 6-2 6-3,5,R128,111,2,1,77,45,39,19,13,2,2,2,1,85,52,34,13,13,3,8,83,632,34,1138
 2014-520,Roland Garros,Clay,128,G,20140526,8,105132,,,Jurgen Zopp,R,190,EST,26.1,103163,16,,Tommy Haas,R,188,GER,36.1,2-5 RET,5,R128,27,2,0,21,11,8,5,3,0,1,4,0,18,12,11,5,4,0,0,335,133,18,2005
 2014-520,Roland Garros,Clay,128,G,20140526,9,103333,,,Ivo Karlovic,R,208,CRO,35.2,105777,11,,Grigor Dimitrov,R,188,BUL,23.0,6-4 7-5 7-6(4),5,R128,118,22,2,95,60,53,23,17,1,1,11,6,100,59,45,24,17,2,4,37,1097,12,2515
 2014-520,Roland Garros,Clay,128,G,20140526,10,104890,,Q,Andreas Haider Maurer,R,190,AUT,27.1,104978,,,Daniel Brands,R,196,GER,26.8,4-6 4-6 6-2 6-3 6-4,5,R128,168,14,9,137,77,61,30,24,2,6,12,6,144,98,65,23,23,12,18,104,553,131,430
-2014-520,Roland Garros,Clay,128,G,20140526,11,105678,,WC,Axel Michon,L,,FRA,23.4,105614,,,Bradley Klahn,L,190,USA,23.7,6-1 6-7(4) 5-7 6-1 6-4,5,R128,226,3,1,141,105,57,20,23,11,20,3,8,187,119,63,22,25,16,31,206,238,71,705
+2014-520,Roland Garros,Clay,128,G,20140526,11,105678,,WC,Axel Michon,L,176,FRA,23.4,105614,,,Bradley Klahn,L,190,USA,23.7,6-1 6-7(4) 5-7 6-1 6-4,5,R128,226,3,1,141,105,57,20,23,11,20,3,8,187,119,63,22,25,16,31,206,238,71,705
 2014-520,Roland Garros,Clay,128,G,20140526,12,104731,19,,Kevin Anderson,R,203,RSA,28.0,103565,,,Stephane Robert,R,185,FRA,34.0,7-5 6-3 6-4,5,R128,110,11,5,83,51,45,19,16,1,2,3,3,104,50,33,30,15,14,18,20,1710,74,695
 2014-520,Roland Garros,Clay,128,G,20140526,13,104312,32,,Andreas Seppi,R,190,ITA,30.2,105053,,,Santiago Giraldo,R,188,COL,26.4,6-3 7-5 6-3,5,R128,111,8,1,85,46,33,26,15,1,3,3,1,101,69,41,14,15,11,17,33,1150,35,1118
 2014-520,Roland Garros,Clay,128,G,20140526,14,104338,,,Juan Monaco,R,185,ARG,30.1,106298,,WC,Lucas Pouille,R,185,FRA,20.2,6-3 6-1 6-4,5,R128,100,0,3,79,60,39,9,13,8,12,2,0,78,54,27,8,13,4,13,76,675,190,268
-2014-520,Roland Garros,Clay,128,G,20140526,15,104620,,Q,Simone Bolelli,R,183,ITA,28.6,105063,,Q,Andrea Arnaboldi,L,,ITA,26.4,6-4 6-4 6-2,5,R128,124,3,2,99,68,47,18,14,5,6,7,1,83,57,35,13,14,5,10,150,385,173,307
+2014-520,Roland Garros,Clay,128,G,20140526,15,104620,,Q,Simone Bolelli,R,183,ITA,28.6,105063,,Q,Andrea Arnaboldi,L,180,ITA,26.4,6-4 6-4 6-2,5,R128,124,3,2,99,68,47,18,14,5,6,7,1,83,57,35,13,14,5,10,150,385,173,307
 2014-520,Roland Garros,Clay,128,G,20140526,16,103970,5,,David Ferrer,R,175,ESP,32.1,104997,,,Igor Sijsling,R,190,NED,26.7,6-4 6-3 6-1,5,R128,100,1,1,77,48,33,22,13,1,2,3,3,88,56,32,15,13,4,10,5,5030,55,840
 2014-520,Roland Garros,Clay,128,G,20140526,17,104198,,,Guillermo Garcia Lopez,R,188,ESP,30.9,104527,3,,Stan Wawrinka,R,183,SUI,29.1,6-4 5-7 6-2 6-0,5,R128,143,2,5,113,56,42,29,18,4,7,5,1,98,56,30,23,18,4,12,41,1063,3,5830
 2014-520,Roland Garros,Clay,128,G,20140526,18,105173,,,Adrian Mannarino,L,183,FRA,25.9,104229,,,Yen Hsun Lu,R,180,TPE,30.7,6-2 6-1 6-1,5,R128,74,6,1,62,38,29,18,11,0,0,1,5,61,37,23,5,11,3,10,89,612,48,968
@@ -1470,7 +1470,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-520,Roland Garros,Clay,128,G,20140526,39,105062,,,Mikhail Kukushkin,R,183,KAZ,26.4,103917,,,Nicolas Mahut,R,190,FRA,32.3,6-3 6-7(4) 6-3 6-4,5,R128,196,6,3,156,100,65,24,21,13,19,7,8,121,64,42,20,19,10,19,54,859,40,1067
 2014-520,Roland Garros,Clay,128,G,20140526,40,104545,10,,John Isner,R,206,USA,29.0,105732,,WC,Pierre Hugues Herbert,R,188,FRA,23.1,7-6(5) 7-6(4) 7-5,5,R128,153,23,3,110,67,56,28,18,2,2,11,3,110,54,44,35,18,0,1,11,2600,130,431
 2014-520,Roland Garros,Clay,128,G,20140526,41,104022,15,,Mikhail Youzhny,R,183,RUS,31.9,105807,,,Pablo Carreno Busta,R,188,ESP,22.8,3-6 1-6 6-3 6-4 6-0,5,R128,179,8,5,146,91,59,23,21,8,15,5,2,121,79,53,13,20,6,14,16,2065,68,729
-2014-520,Roland Garros,Clay,128,G,20140526,42,103285,,,Radek Stepanek,R,185,CZE,35.4,106032,,,Facundo Arguello,R,,ARG,21.8,6-7(8) 3-6 6-4 6-3 6-2,5,R128,208,4,7,159,106,69,29,24,8,13,7,11,154,87,63,26,24,8,16,43,1040,114,512
+2014-520,Roland Garros,Clay,128,G,20140526,42,103285,,,Radek Stepanek,R,185,CZE,35.4,106032,,,Facundo Arguello,R,178,ARG,21.8,6-7(8) 3-6 6-4 6-3 6-2,5,R128,208,4,7,159,106,69,29,24,8,13,7,11,154,87,63,26,24,8,16,43,1040,114,512
 2014-520,Roland Garros,Clay,128,G,20140526,43,105487,,Q,Facundo Bagnis,L,183,ARG,24.2,103898,,,Julien Benneteau,R,185,FRA,32.4,6-1 6-2 1-6 3-6 18-16,5,R128,267,5,1,197,127,89,38,33,13,19,16,7,185,112,80,37,32,9,16,143,398,45,1035
 2014-520,Roland Garros,Clay,128,G,20140526,44,105208,18,,Ernests Gulbis,R,190,LAT,25.7,103997,,,Lukasz Kubot,R,190,POL,32.0,4-6 6-4 7-5 6-1,5,R128,162,11,6,117,63,50,32,20,5,8,9,10,104,55,40,23,19,3,9,17,2050,63,748
 2014-520,Roland Garros,Clay,128,G,20140526,45,104098,31,,Dmitry Tursunov,R,185,RUS,31.4,103808,,Q,Potito Starace,R,188,ITA,32.8,6-1 7-5 6-2,5,R128,105,6,3,82,46,38,24,14,4,4,4,6,83,61,43,4,13,4,9,32,1155,176,304
@@ -1479,8 +1479,8 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-520,Roland Garros,Clay,128,G,20140526,48,103819,4,,Roger Federer,R,185,SUI,32.7,105041,,,Lukas Lacko,R,185,SVK,26.5,6-2 6-4 6-2,5,R128,84,7,1,61,44,39,13,13,0,0,3,5,91,57,32,18,13,6,11,4,5125,87,617
 2014-520,Roland Garros,Clay,128,G,20140526,49,105683,8,,Milos Raonic,R,196,CAN,23.4,106401,,WC,Nick Kyrgios,R,193,AUS,19.0,6-3 7-6(1) 6-3,5,R128,120,27,8,107,63,57,17,16,6,8,4,6,93,52,34,22,14,6,10,9,2975,160,350
 2014-520,Roland Garros,Clay,128,G,20140526,50,106210,,,Jiri Vesely,L,198,CZE,20.8,104586,,,Lukas Rosol,R,196,CZE,28.8,6-2 7-6(6) 7-5,5,R128,126,4,3,103,69,54,18,16,0,1,6,3,96,57,39,23,16,2,6,81,641,52,885
-2014-520,Roland Garros,Clay,128,G,20140526,51,105292,,,Alejandro Gonzalez,R,,COL,25.2,103188,,,Michael Russell,R,173,USA,36.0,6-2 6-4 6-7(6) 6-1,5,R128,157,10,2,117,78,55,24,19,1,3,0,2,114,74,45,18,18,4,11,77,675,98,593
-2014-520,Roland Garros,Clay,128,G,20140526,52,104468,29,,Gilles Simon,R,183,FRA,29.4,105302,,Q,Ante Pavic,R,,CRO,25.2,6-1 6-1 6-3,5,R128,94,6,2,67,36,31,16,11,2,2,5,5,78,45,28,9,12,2,9,30,1225,177,303
+2014-520,Roland Garros,Clay,128,G,20140526,51,105292,,,Alejandro Gonzalez,R,190,COL,25.2,103188,,,Michael Russell,R,173,USA,36.0,6-2 6-4 6-7(6) 6-1,5,R128,157,10,2,117,78,55,24,19,1,3,0,2,114,74,45,18,18,4,11,77,675,98,593
+2014-520,Roland Garros,Clay,128,G,20140526,52,104468,29,,Gilles Simon,R,183,FRA,29.4,105302,,Q,Ante Pavic,R,196,CRO,25.2,6-1 6-1 6-3,5,R128,94,6,2,67,36,31,16,11,2,2,5,5,78,45,28,9,12,2,9,30,1225,177,303
 2014-520,Roland Garros,Clay,128,G,20140526,53,105238,20,,Alexandr Dolgopolov,R,180,UKR,25.5,105077,,,Albert Ramos,L,188,ESP,26.3,7-6(4) 6-4 6-1,5,R128,130,10,2,97,57,48,20,15,6,7,3,3,107,61,37,22,14,5,9,21,1645,115,511
 2014-520,Roland Garros,Clay,128,G,20140526,54,104719,,,Marcel Granollers,R,190,ESP,28.1,104471,,,Ivan Dodig,R,183,CRO,29.3,2-2 RET,5,R128,11,1,0,11,10,9,1,2,0,0,0,2,14,5,4,5,2,0,0,39,1080,36,1100
 2014-520,Roland Garros,Clay,128,G,20140526,55,104898,,,Robin Haase,R,190,NED,27.1,103786,,,Nikolay Davydenko,R,178,RUS,32.9,7-5 6-4 6-2,5,R128,120,10,1,97,61,46,22,15,4,4,3,4,93,61,36,17,15,2,6,50,910,92,610
@@ -1498,7 +1498,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-520,Roland Garros,Clay,128,G,20140526,67,106058,,,Jack Sock,R,185,USA,21.6,105449,,,Steve Johnson,R,188,USA,24.4,7-5 6-4 6-2,5,R64,107,8,0,78,46,36,23,15,3,4,8,1,97,58,38,17,15,5,10,75,678,64,748
 2014-520,Roland Garros,Clay,128,G,20140526,68,105583,,,Dusan Lajovic,R,180,SRB,23.9,105132,,,Jurgen Zopp,R,190,EST,26.1,6-2 6-4 6-4,5,R64,95,8,1,74,40,31,23,14,6,8,2,3,81,52,31,12,14,2,8,83,632,335,133
 2014-520,Roland Garros,Clay,128,G,20140526,69,103333,,,Ivo Karlovic,R,208,CRO,35.2,104890,,Q,Andreas Haider Maurer,R,190,AUT,27.1,7-5 6-3 6-4,5,R64,107,24,1,81,62,55,10,16,0,0,6,6,94,54,39,22,15,6,9,37,1097,104,553
-2014-520,Roland Garros,Clay,128,G,20140526,70,104731,19,,Kevin Anderson,R,203,RSA,28.0,105678,,WC,Axel Michon,L,,FRA,23.4,6-2 6-3 6-2,5,R64,125,7,1,74,54,40,9,13,2,4,2,5,90,55,33,10,12,11,18,20,1710,206,238
+2014-520,Roland Garros,Clay,128,G,20140526,70,104731,19,,Kevin Anderson,R,203,RSA,28.0,105678,,WC,Axel Michon,L,176,FRA,23.4,6-2 6-3 6-2,5,R64,125,7,1,74,54,40,9,13,2,4,2,5,90,55,33,10,12,11,18,20,1710,206,238
 2014-520,Roland Garros,Clay,128,G,20140526,71,104312,32,,Andreas Seppi,R,190,ITA,30.2,104338,,,Juan Monaco,R,185,ARG,30.1,6-2 6-4 6-4,5,R64,143,5,4,86,44,34,23,14,4,6,1,1,131,101,55,13,14,15,21,33,1150,76,675
 2014-520,Roland Garros,Clay,128,G,20140526,72,103970,5,,David Ferrer,R,175,ESP,32.1,104620,,Q,Simone Bolelli,R,183,ITA,28.6,6-2 6-3 6-2,5,R64,108,2,3,87,57,44,17,13,4,4,0,3,74,46,27,12,12,3,8,5,5030,150,385
 2014-520,Roland Garros,Clay,128,G,20140526,73,104198,,,Guillermo Garcia Lopez,R,188,ESP,30.9,105173,,,Adrian Mannarino,L,183,FRA,25.9,6-4 6-3 4-6 6-0,5,R64,157,6,2,126,78,54,22,18,11,15,2,2,105,64,36,20,17,6,14,41,1063,89,612
@@ -1518,7 +1518,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-520,Roland Garros,Clay,128,G,20140526,87,104098,31,,Dmitry Tursunov,R,185,RUS,31.4,105023,,,Sam Querrey,R,198,USA,26.6,6-4 7-5 6-1,5,R64,101,11,2,83,57,44,17,14,5,6,13,1,91,52,31,18,15,2,8,32,1155,67,730
 2014-520,Roland Garros,Clay,128,G,20140526,88,103819,4,,Roger Federer,R,185,SUI,32.7,106043,,Q,Diego Schwartzman,R,170,ARG,21.7,6-3 6-4 6-4,5,R64,103,9,2,81,51,42,17,15,1,2,1,4,95,51,30,24,14,6,10,4,5125,109,533
 2014-520,Roland Garros,Clay,128,G,20140526,89,105683,8,,Milos Raonic,R,196,CAN,23.4,106210,,,Jiri Vesely,L,198,CZE,20.8,7-6(4) 6-4 6-1,5,R64,128,20,2,86,49,40,22,14,5,7,5,1,98,64,37,18,15,3,9,9,2975,81,641
-2014-520,Roland Garros,Clay,128,G,20140526,90,104468,29,,Gilles Simon,R,183,FRA,29.4,105292,,,Alejandro Gonzalez,R,,COL,25.2,6-4 6-0 6-2,5,R64,104,1,2,72,41,31,18,12,2,3,4,0,74,46,22,12,12,4,11,30,1225,77,675
+2014-520,Roland Garros,Clay,128,G,20140526,90,104468,29,,Gilles Simon,R,183,FRA,29.4,105292,,,Alejandro Gonzalez,R,190,COL,25.2,6-4 6-0 6-2,5,R64,104,1,2,72,41,31,18,12,2,3,4,0,74,46,22,12,12,4,11,30,1225,77,675
 2014-520,Roland Garros,Clay,128,G,20140526,91,104719,,,Marcel Granollers,R,190,ESP,28.1,105238,20,,Alexandr Dolgopolov,R,180,UKR,25.5,1-6 3-6 6-3 6-0 6-2,5,R64,187,5,1,137,88,59,22,20,4,9,12,6,139,75,48,29,19,7,14,39,1080,21,1645
 2014-520,Roland Garros,Clay,128,G,20140526,92,105373,,,Martin Klizan,L,190,SVK,24.8,104898,,,Robin Haase,R,190,NED,27.1,6-1 3-6 6-1 1-6 7-5,5,R64,185,5,3,143,86,53,31,21,9,14,10,2,139,75,52,26,21,4,11,59,795,50,910
 2014-520,Roland Garros,Clay,128,G,20140526,93,104542,13,,Jo-Wilfried Tsonga,R,188,FRA,29.1,103781,,,Jurgen Melzer,L,183,AUT,33.0,6-2 6-3 6-4,5,R64,107,13,2,81,58,48,8,14,3,4,5,4,85,49,31,15,13,7,12,14,2315,56,835
@@ -1639,7 +1639,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-311,Queen's Club,Grass,56,A,20140609,54,103852,10,,Feliciano Lopez,L,188,ESP,32.7,103285,15,,Radek Stepanek,R,185,CZE,35.5,7-6(7) 6-4,3,SF,102,6,1,70,41,33,21,11,1,1,10,3,79,45,34,19,11,5,6,29,1350,42,1040
 2014-311,Queen's Club,Grass,56,A,20140609,55,105777,4,,Grigor Dimitrov,R,188,BUL,23.0,103852,10,,Feliciano Lopez,L,188,ESP,32.7,6-7(8) 7-6(1) 7-6(6),3,F,151,27,6,117,86,74,13,18,1,2,13,5,127,91,72,15,18,2,3,13,2435,29,1350
 2014-440,s Hertogenbosch,Grass,32,A,20140615,1,105311,,Q,Joao Sousa,R,185,POR,25.2,103893,,LL,Paolo Lorenzi,R,183,ITA,32.5,6-3 3-6 6-3,3,R32,138,1,2,112,73,47,14,14,11,16,3,2,92,56,32,15,13,5,11,48,944,81,658
-2014-440,s Hertogenbosch,Grass,32,A,20140615,2,106207,,Q,Mate Pavic,L,193,CRO,20.9,105292,,,Alejandro Gonzalez,R,,COL,25.3,7-6(4) 6-3,3,R32,81,11,0,78,55,42,8,11,2,3,1,1,57,42,29,6,10,1,3,475,79,74,705
+2014-440,s Hertogenbosch,Grass,32,A,20140615,2,106207,,Q,Mate Pavic,L,193,CRO,20.9,105292,,,Alejandro Gonzalez,R,190,COL,25.3,7-6(4) 6-3,3,R32,81,11,0,78,55,42,8,11,2,3,1,1,57,42,29,6,10,1,3,475,79,74,705
 2014-440,s Hertogenbosch,Grass,32,A,20140615,3,105217,,WC,Thiemo De Bakker,R,193,NED,25.7,104997,,,Igor Sijsling,R,190,NED,26.8,6-4 7-6(4),3,R32,77,8,1,76,49,36,15,11,2,4,4,5,74,49,35,10,11,1,4,143,405,60,818
 2014-440,s Hertogenbosch,Grass,32,A,20140615,4,104098,5,,Dmitry Tursunov,R,185,RUS,31.5,105614,,,Bradley Klahn,L,190,USA,23.8,6-3 7-6(3),3,R32,77,8,2,68,46,32,16,11,2,3,6,5,69,44,30,12,10,5,7,32,1200,73,707
 2014-440,s Hertogenbosch,Grass,32,A,20140615,5,103794,,,Benjamin Becker,R,178,GER,32.9,104719,4,,Marcel Granollers,R,190,ESP,28.1,4-6 6-3 6-4,3,R32,105,7,2,97,53,41,23,15,8,10,9,3,94,66,44,11,14,7,10,83,653,30,1250
@@ -1701,7 +1701,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-540,Wimbledon,Grass,128,G,20140623,3,104468,,,Gilles Simon,R,183,FRA,29.4,104505,,Q,Konstantin Kravchuk,R,190,RUS,29.3,6-2 7-6(4) 7-5,5,R128,128,8,1,98,54,44,30,16,1,1,3,0,99,68,49,15,16,2,5,44,1005,221,221
 2014-540,Wimbledon,Grass,128,G,20140623,4,104898,,,Robin Haase,R,190,NED,27.2,105577,31,,Vasek Pospisil,R,193,CAN,24.0,7-6(6) 4-6 7-5 6-3,5,R128,158,12,2,134,84,70,28,22,4,5,21,6,126,77,64,25,21,2,4,53,865,33,1170
 2014-540,Wimbledon,Grass,128,G,20140623,5,104022,17,,Mikhail Youzhny,R,183,RUS,31.9,104868,,WC,James Ward,R,190,GBR,27.3,6-2 6-2 6-1,5,R128,105,2,1,73,46,34,18,12,3,3,4,1,79,51,25,12,11,8,14,16,1790,154,371
-2014-540,Wimbledon,Grass,128,G,20140623,6,104499,,Q,Jimmy Wang,R,178,TPE,29.3,105292,,,Alejandro Gonzalez,R,,COL,25.3,6-3 6-3 6-2,5,R128,94,7,3,72,44,38,16,13,0,0,10,2,84,55,37,11,13,5,10,147,397,76,705
+2014-540,Wimbledon,Grass,128,G,20140623,6,104499,,Q,Jimmy Wang,R,178,TPE,29.3,105292,,,Alejandro Gonzalez,R,190,COL,25.3,6-3 6-3 6-2,5,R128,94,7,3,72,44,38,16,13,0,0,10,2,84,55,37,11,13,5,10,147,397,76,705
 2014-540,Wimbledon,Grass,128,G,20140623,7,105023,,,Sam Querrey,R,198,USA,26.7,105614,,,Bradley Klahn,L,190,USA,23.8,6-7(5) 6-4 6-1 7-5,5,R128,143,25,6,130,81,70,26,21,8,9,10,8,138,92,61,23,20,5,10,67,755,75,707
 2014-540,Wimbledon,Grass,128,G,20140623,8,104542,14,,Jo-Wilfried Tsonga,R,188,FRA,29.1,103781,,,Jurgen Melzer,L,183,AUT,33.0,6-1 3-6 3-6 6-2 6-4,5,R128,179,20,6,127,79,59,28,22,4,7,7,4,160,120,75,19,21,11,16,17,1775,49,940
 2014-540,Wimbledon,Grass,128,G,20140623,9,105208,12,,Ernests Gulbis,R,190,LAT,25.8,105132,,,Jurgen Zopp,R,190,EST,26.2,7-6(7) 7-5 7-6(10),5,R128,151,22,8,113,70,64,19,18,0,1,7,5,127,78,56,29,18,0,2,10,2725,272,174
@@ -1718,10 +1718,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-540,Wimbledon,Grass,128,G,20140623,20,105138,27,,Roberto Bautista Agut,R,183,ESP,26.1,105449,,,Steve Johnson,R,188,USA,24.4,6-3 6-7(3) 6-4 7-5,5,R128,170,3,1,135,100,73,23,22,8,9,10,7,132,77,56,28,21,3,7,23,1580,70,727
 2014-540,Wimbledon,Grass,128,G,20140623,21,104731,20,,Kevin Anderson,R,203,RSA,28.0,105379,,LL,Aljaz Bedene,R,181,SLO,24.9,6-3 7-5 6-2,5,R128,108,23,3,98,69,59,12,15,8,8,9,2,78,43,34,14,14,1,5,18,1745,140,416
 2014-540,Wimbledon,Grass,128,G,20140623,22,104273,,,Edouard Roger Vasselin,R,188,FRA,30.5,103835,,,Filippo Volandri,R,183,ITA,32.7,7-6(1) 6-2 6-4,5,R128,98,12,2,84,53,39,21,15,3,6,2,3,94,66,39,10,15,1,7,50,885,117,523
-2014-540,Wimbledon,Grass,128,G,20140623,23,105047,,Q,Tim Puetz,R,,GER,26.5,104559,,,Teymuraz Gabashvili,R,188,RUS,29.0,2-6 6-4 6-2 6-2,5,R128,137,19,5,92,56,44,19,17,3,6,6,4,115,70,42,21,17,7,13,251,191,61,798
+2014-540,Wimbledon,Grass,128,G,20140623,23,105047,,Q,Tim Puetz,R,185,GER,26.5,104559,,,Teymuraz Gabashvili,R,188,RUS,29.0,2-6 6-4 6-2 6-2,5,R128,137,19,5,92,56,44,19,17,3,6,6,4,115,70,42,21,17,7,13,251,191,61,798
 2014-540,Wimbledon,Grass,128,G,20140623,24,104926,16,,Fabio Fognini,R,178,ITA,27.0,104864,,Q,Alex Kuznetsov,R,183,USA,27.3,2-6 1-6 6-4 6-1 9-7,5,R128,189,9,7,157,94,66,27,24,11,17,20,3,143,90,66,24,24,8,14,15,2155,148,394
 2014-540,Wimbledon,Grass,128,G,20140623,25,105777,11,,Grigor Dimitrov,R,188,BUL,23.1,105992,,Q,Ryan Harrison,R,183,USA,22.1,7-6(1) 6-3 6-2,5,R128,101,4,3,83,51,42,21,14,4,4,9,4,87,53,36,13,15,3,7,13,2595,150,386
-2014-540,Wimbledon,Grass,128,G,20140623,26,106291,,Q,Luke Saville,R,,AUS,20.3,106233,,,Dominic Thiem,R,185,AUT,20.8,7-5 6-4 3-6 6-4,5,R128,174,14,4,146,90,62,31,20,9,12,7,2,128,85,52,26,21,6,11,236,204,57,851
+2014-540,Wimbledon,Grass,128,G,20140623,26,106291,,Q,Luke Saville,R,188,AUS,20.3,106233,,,Dominic Thiem,R,185,AUT,20.8,7-5 6-4 3-6 6-4,5,R128,174,14,4,146,90,62,31,20,9,12,7,2,128,85,52,26,21,6,11,236,204,57,851
 2014-540,Wimbledon,Grass,128,G,20140623,27,103794,,,Benjamin Becker,R,178,GER,33.0,105385,,,Donald Young,L,183,USA,24.9,6-4 6-3 6-4,5,R128,99,13,4,92,66,52,13,14,5,5,7,0,90,60,41,12,15,10,14,65,783,69,732
 2014-540,Wimbledon,Grass,128,G,20140623,28,105238,21,,Alexandr Dolgopolov,R,180,UKR,25.6,105032,,Q,Sam Groth,R,193,AUS,26.6,7-5 7-6(2) 7-6(5),5,R128,115,14,1,105,78,63,19,18,0,0,24,3,113,76,64,18,18,3,4,19,1680,124,471
 2014-540,Wimbledon,Grass,128,G,20140623,29,104919,,,Leonardo Mayer,R,188,ARG,27.1,104312,25,,Andreas Seppi,R,190,ITA,30.3,6-3 2-6 4-6 7-6(5) 6-4,5,R128,195,22,5,162,97,70,36,24,6,9,6,5,142,89,74,27,25,5,8,64,784,36,1105
@@ -1733,9 +1733,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-540,Wimbledon,Grass,128,G,20140623,35,104714,,,Julian Reister,R,188,GER,28.2,103188,,,Michael Russell,R,173,USA,36.1,6-4 6-4 6-7(5) 4-6 7-5,5,R128,230,16,7,195,145,106,18,27,24,28,8,8,180,116,79,33,27,16,22,110,535,94,593
 2014-540,Wimbledon,Grass,128,G,20140623,36,104797,,,Denis Istomin,R,188,UZB,27.7,104098,32,,Dmitry Tursunov,R,185,RUS,31.5,7-5 6-4 3-6 6-2,5,R128,143,16,1,95,65,57,16,19,1,3,11,6,159,103,61,32,20,15,20,45,985,31,1200
 2014-540,Wimbledon,Grass,128,G,20140623,37,103852,19,,Feliciano Lopez,L,188,ESP,32.7,105216,,Q,Yuichi Sugita,R,173,JPN,25.7,7-6(6) 7-6(6) 7-6(7),5,R128,165,20,5,116,69,59,27,18,6,7,18,5,147,95,71,23,18,3,4,26,1455,145,399
-2014-540,Wimbledon,Grass,128,G,20140623,38,105302,,Q,Ante Pavic,R,,CRO,25.2,104268,,,Alejandro Falla,L,185,COL,30.6,6-4 6-3 7-5,5,R128,104,18,6,106,65,47,22,16,8,10,5,6,86,52,35,17,15,5,10,163,345,55,853
+2014-540,Wimbledon,Grass,128,G,20140623,38,105302,,Q,Ante Pavic,R,196,CRO,25.2,104268,,,Alejandro Falla,L,185,COL,30.6,6-4 6-3 7-5,5,R128,104,18,6,106,65,47,22,16,8,10,5,6,86,52,35,17,15,5,10,163,345,55,853
 2014-540,Wimbledon,Grass,128,G,20140623,39,103813,,,Jarkko Nieminen,L,185,FIN,32.9,105643,,,Federico Delbonis,L,190,ARG,23.7,6-3 7-6(3) 7-5,5,R128,107,4,0,92,67,58,16,17,1,1,7,3,93,55,45,19,16,4,6,62,790,37,1099
-2014-540,Wimbledon,Grass,128,G,20140623,40,104545,9,,John Isner,R,206,USA,29.1,105651,,WC,Daniel Smethurst,U,,GBR,23.6,7-5 6-3 6-4,5,R128,110,26,1,90,66,54,14,16,7,7,4,6,97,58,43,20,15,5,8,11,2690,234,205
+2014-540,Wimbledon,Grass,128,G,20140623,40,104545,9,,John Isner,R,206,USA,29.1,105651,,WC,Daniel Smethurst,U,188,GBR,23.6,7-5 6-3 6-4,5,R128,110,26,1,90,66,54,14,16,7,7,4,6,97,58,43,20,15,5,8,11,2690,234,205
 2014-540,Wimbledon,Grass,128,G,20140623,41,105668,15,,Jerzy Janowicz,R,203,POL,23.6,104500,,,Somdev Devvarman,R,180,IND,29.3,4-6 6-3 6-3 3-6 6-3,5,R128,184,8,19,133,71,58,30,23,7,11,14,4,152,78,60,33,23,6,12,25,1510,125,462
 2014-540,Wimbledon,Grass,128,G,20140623,42,103720,,,Lleyton Hewitt,R,180,AUS,33.3,104308,,,Michal Przysiezny,R,185,POL,30.3,6-2 6-7(14) 6-1 6-4,5,R128,182,8,4,121,67,50,29,19,2,5,15,5,146,86,55,22,18,11,19,48,950,120,512
 2014-540,Wimbledon,Grass,128,G,20140623,43,105173,,,Adrian Mannarino,L,183,FRA,25.9,105137,,,Pere Riba,R,183,ESP,26.2,6-2 6-3 6-4,5,R128,102,10,2,80,57,43,14,13,3,3,14,3,97,63,39,16,14,13,18,81,664,82,662
@@ -1771,14 +1771,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-540,Wimbledon,Grass,128,G,20140623,73,104918,3,,Andy Murray,R,190,GBR,27.1,105641,,,Blaz Rola,L,193,SLO,23.7,6-1 6-1 6-0,5,R64,84,7,2,63,38,30,15,10,3,3,0,4,63,32,15,9,10,5,13,5,4680,92,596
 2014-540,Wimbledon,Grass,128,G,20140623,74,105138,27,,Roberto Bautista Agut,R,183,ESP,26.1,103401,,Q,Jan Hernych,R,190,CZE,34.9,7-5 4-6 6-2 6-2,5,R64,144,7,2,116,96,69,8,19,8,10,6,3,112,72,50,17,19,7,13,23,1580,285,165
 2014-540,Wimbledon,Grass,128,G,20140623,75,104731,20,,Kevin Anderson,R,203,RSA,28.0,104273,,,Edouard Roger Vasselin,R,188,FRA,30.5,7-6(0) 1-6 6-3 6-4,5,R64,143,24,2,114,78,61,17,19,6,8,4,5,122,94,66,12,19,5,7,18,1745,50,885
-2014-540,Wimbledon,Grass,128,G,20140623,76,104926,16,,Fabio Fognini,R,178,ITA,27.0,105047,,Q,Tim Puetz,R,,GER,26.5,2-6 6-4 7-6(6) 6-3,5,R64,160,5,3,122,70,50,32,20,6,9,19,7,131,81,64,20,19,8,11,15,2155,251,191
-2014-540,Wimbledon,Grass,128,G,20140623,77,105777,11,,Grigor Dimitrov,R,188,BUL,23.1,106291,,Q,Luke Saville,R,,AUS,20.3,6-3 6-2 6-4,5,R64,93,11,3,71,48,43,14,14,1,1,3,3,83,48,31,18,13,7,11,13,2595,236,204
+2014-540,Wimbledon,Grass,128,G,20140623,76,104926,16,,Fabio Fognini,R,178,ITA,27.0,105047,,Q,Tim Puetz,R,185,GER,26.5,2-6 6-4 7-6(6) 6-3,5,R64,160,5,3,122,70,50,32,20,6,9,19,7,131,81,64,20,19,8,11,15,2155,251,191
+2014-540,Wimbledon,Grass,128,G,20140623,77,105777,11,,Grigor Dimitrov,R,188,BUL,23.1,106291,,Q,Luke Saville,R,188,AUS,20.3,6-3 6-2 6-4,5,R64,93,11,3,71,48,43,14,14,1,1,3,3,83,48,31,18,13,7,11,13,2595,236,204
 2014-540,Wimbledon,Grass,128,G,20140623,78,105238,21,,Alexandr Dolgopolov,R,180,UKR,25.6,103794,,,Benjamin Becker,R,178,GER,33.0,6-7(4) 7-6(0) 6-3 6-4,5,R64,150,42,1,134,86,70,30,22,4,5,9,7,137,89,64,27,21,4,7,19,1680,65,783
 2014-540,Wimbledon,Grass,128,G,20140623,79,104919,,,Leonardo Mayer,R,188,ARG,27.1,104571,,WC,Marcos Baghdatis,R,183,CYP,29.0,7-6(4) 4-6 6-1 6-4,5,R64,164,16,2,112,77,67,19,20,6,7,8,3,125,70,50,31,19,4,7,64,784,119,515
 2014-540,Wimbledon,Grass,128,G,20140623,80,105723,,,Andrey Kuznetsov,R,185,RUS,23.3,103970,7,,David Ferrer,R,175,ESP,32.2,6-7(5) 6-0 3-6 6-3 6-2,5,R64,192,9,3,136,87,62,27,22,7,11,9,2,167,113,65,26,22,12,21,118,519,7,4190
 2014-540,Wimbledon,Grass,128,G,20140623,81,104527,5,,Stan Wawrinka,R,183,SUI,29.2,104229,,,Yen Hsun Lu,R,180,TPE,30.8,7-6(6) 6-3 3-6 7-5,5,R64,162,13,2,136,67,53,36,21,4,8,3,3,131,78,50,29,21,5,10,3,5420,47,958
 2014-540,Wimbledon,Grass,128,G,20140623,82,104797,,,Denis Istomin,R,188,UZB,27.7,104714,,,Julian Reister,R,188,GER,28.2,7-6(7) 6-4 6-4,5,R64,129,11,1,104,75,53,17,16,2,4,4,5,105,78,56,11,16,5,9,45,985,110,535
-2014-540,Wimbledon,Grass,128,G,20140623,83,103852,19,,Feliciano Lopez,L,188,ESP,32.7,105302,,Q,Ante Pavic,R,,CRO,25.2,6-4 7-6(4) 7-5,5,R64,114,11,2,87,49,43,30,17,2,2,15,9,101,55,44,24,17,6,8,26,1455,163,345
+2014-540,Wimbledon,Grass,128,G,20140623,83,103852,19,,Feliciano Lopez,L,188,ESP,32.7,105302,,Q,Ante Pavic,R,196,CRO,25.2,6-4 7-6(4) 7-5,5,R64,114,11,2,87,49,43,30,17,2,2,15,9,101,55,44,24,17,6,8,26,1455,163,345
 2014-540,Wimbledon,Grass,128,G,20140623,84,104545,9,,John Isner,R,206,USA,29.1,103813,,,Jarkko Nieminen,L,185,FIN,32.9,7-6(17) 7-6(3) 7-5,5,R64,130,32,1,114,81,70,25,18,0,0,13,5,131,97,78,18,18,6,7,11,2690,62,790
 2014-540,Wimbledon,Grass,128,G,20140623,85,105668,15,,Jerzy Janowicz,R,203,POL,23.6,103720,,,Lleyton Hewitt,R,180,AUS,33.3,7-5 6-4 6-7(7) 4-6 6-3,5,R64,227,21,12,180,114,83,34,27,7,10,13,3,168,104,70,35,26,5,10,25,1510,48,950
 2014-540,Wimbledon,Grass,128,G,20140623,86,103990,23,,Tommy Robredo,R,180,ESP,32.1,105173,,,Adrian Mannarino,L,183,FRA,25.9,6-4 6-1 7-6(5),5,R64,118,8,2,96,66,51,13,15,2,5,4,5,95,64,40,12,14,8,14,22,1630,81,664
@@ -1833,7 +1833,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-316,Bastad,Clay,28,A,20140707,8,103893,,,Paolo Lorenzi,R,183,ITA,32.5,105436,,WC,Markus Eriksson,R,188,SWE,24.6,6-2 6-1,3,R32,73,3,3,55,31,22,9,7,10,12,1,4,52,29,11,6,8,2,9,80,634,399,109
 2014-316,Bastad,Clay,28,A,20140707,9,105077,,Q,Albert Ramos,L,188,ESP,26.4,106210,,,Jiri Vesely,L,198,CZE,20.9,7-5 6-2,3,R32,90,3,2,54,34,28,11,10,2,3,6,1,72,53,29,9,10,5,9,89,604,67,756
 2014-316,Bastad,Clay,28,A,20140707,10,104655,,,Pablo Cuevas,R,180,URU,28.5,104871,6,,Jeremy Chardy,R,188,FRA,27.3,6-2 6-2,3,R32,56,5,2,43,25,19,10,8,0,1,1,3,43,21,10,9,8,1,6,111,541,35,1105
-2014-316,Bastad,Clay,28,A,20140707,11,105872,,WC,Christian Lindell,R,193,SWE,22.6,105438,,Q,Inigo Cervantes Huegun,R,,ESP,24.5,6-2 6-3,3,R32,88,3,4,53,28,20,10,8,3,6,2,8,63,37,17,9,9,6,13,402,108,363,121
+2014-316,Bastad,Clay,28,A,20140707,11,105872,,WC,Christian Lindell,R,193,SWE,22.6,105438,,Q,Inigo Cervantes Huegun,R,183,ESP,24.5,6-2 6-3,3,R32,88,3,4,53,28,20,10,8,3,6,2,8,63,37,17,9,9,6,13,402,108,363,121
 2014-316,Bastad,Clay,28,A,20140707,12,105952,,Q,Renzo Olivo,R,180,ARG,22.3,103908,,,Paul Henri Mathieu,R,185,FRA,32.4,5-2 RET,3,R32,27,0,2,15,7,7,5,3,0,0,0,5,24,10,6,6,4,2,4,282,165,77,643
 2014-316,Bastad,Clay,28,A,20140707,13,103970,1,,David Ferrer,R,175,ESP,32.2,103812,,,Victor Hanescu,R,198,ROU,32.9,6-4 6-0,3,R16,61,2,2,43,18,16,17,8,1,1,1,0,43,28,16,6,8,4,8,7,3875,104,552
 2014-316,Bastad,Clay,28,A,20140707,14,104122,7,,Carlos Berlocq,R,183,ARG,31.4,105430,,Q,Radu Albot,R,175,MDA,24.6,5-7 6-4 6-2,3,R16,162,5,4,98,66,46,17,15,6,8,0,2,102,68,42,16,15,7,11,41,1010,229,212
@@ -1851,27 +1851,27 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-316,Bastad,Clay,28,A,20140707,26,104655,,,Pablo Cuevas,R,180,URU,28.5,104269,3,,Fernando Verdasco,L,188,ESP,30.6,7-6(6) 6-3,3,SF,104,10,4,81,44,37,19,11,5,5,5,4,68,41,29,14,10,6,7,111,541,29,1205
 2014-316,Bastad,Clay,28,A,20140707,27,104655,,,Pablo Cuevas,R,180,URU,28.5,105311,5,,Joao Sousa,R,185,POR,25.2,6-2 6-1,3,F,59,4,0,39,24,19,10,8,0,1,0,2,35,17,8,4,7,2,7,111,541,40,1020
 2014-315,Newport,Grass,32,A,20140707,1,104545,1,,John Isner,R,206,USA,29.1,104639,,Q,Wayne Odesnik,L,180,USA,28.6,6-3 7-6(6),3,R32,80,19,2,67,46,37,14,11,2,2,7,1,59,37,29,14,10,1,2,12,2735,216,227
-2014-315,Newport,Grass,32,A,20140707,2,105572,,Q,Austin Krajicek,L,,USA,24.0,105065,,,Tim Smyczek,R,175,USA,26.5,7-6(7) 6-1,3,R32,83,5,2,63,35,29,19,10,0,0,3,4,76,47,35,11,9,3,5,208,239,107,548
+2014-315,Newport,Grass,32,A,20140707,2,105572,,Q,Austin Krajicek,L,188,USA,24.0,105065,,,Tim Smyczek,R,175,USA,26.5,7-6(7) 6-1,3,R32,83,5,2,63,35,29,19,10,0,0,3,4,76,47,35,11,9,3,5,208,239,107,548
 2014-315,Newport,Grass,32,A,20140707,3,104330,,,Rajeev Ram,R,193,USA,30.3,105051,,,Matthew Ebden,R,188,AUS,26.6,6-2 7-5,3,R32,73,7,5,65,43,33,11,10,4,5,4,3,56,32,23,9,10,2,6,157,362,78,642
 2014-315,Newport,Grass,32,A,20140707,4,106058,7,,Jack Sock,R,185,USA,21.7,104864,,,Alex Kuznetsov,R,183,USA,27.4,6-4 6-3,3,R32,84,4,9,75,37,26,21,10,5,6,6,2,66,27,20,18,9,3,6,76,663,149,394
 2014-315,Newport,Grass,32,A,20140707,5,103720,3,,Lleyton Hewitt,R,180,AUS,33.3,105992,,,Ryan Harrison,R,183,USA,22.1,1-6 7-5 6-4,3,R32,130,3,10,93,45,30,20,14,5,10,9,6,88,37,29,22,15,4,9,43,950,144,411
-2014-315,Newport,Grass,32,A,20140707,6,105302,,Q,Ante Pavic,R,,CRO,25.3,105657,,,Marius Copil,R,193,ROU,23.7,7-6(0) 6-4,3,R32,77,8,9,82,46,37,18,11,7,8,7,0,60,41,29,12,11,3,5,145,409,161,341
-2014-315,Newport,Grass,32,A,20140707,7,105147,,,Tatsuma Ito,R,180,JPN,26.1,106283,,WC,Mitchell Krueger,R,,USA,20.4,7-6(7) 6-1,3,R32,74,6,2,59,35,29,12,10,2,4,0,2,54,29,15,16,9,0,4,129,481,398,109
+2014-315,Newport,Grass,32,A,20140707,6,105302,,Q,Ante Pavic,R,196,CRO,25.3,105657,,,Marius Copil,R,193,ROU,23.7,7-6(0) 6-4,3,R32,77,8,9,82,46,37,18,11,7,8,7,0,60,41,29,12,11,3,5,145,409,161,341
+2014-315,Newport,Grass,32,A,20140707,7,105147,,,Tatsuma Ito,R,180,JPN,26.1,106283,,WC,Mitchell Krueger,R,188,USA,20.4,7-6(7) 6-1,3,R32,74,6,2,59,35,29,12,10,2,4,0,2,54,29,15,16,9,0,4,129,481,398,109
 2014-315,Newport,Grass,32,A,20140707,8,105449,6,,Steve Johnson,R,188,USA,24.5,110636,,WC,Clay Thompson,R,,USA,22.1,6-1 6-2,3,R32,47,7,2,38,24,22,10,8,0,0,5,9,43,17,10,10,7,1,5,69,737,2159,1
 2014-315,Newport,Grass,32,A,20140707,9,105032,,,Sam Groth,R,193,AUS,26.7,105385,5,,Donald Young,L,183,USA,24.9,7-6(7) 6-2,3,R32,71,11,6,58,30,28,19,10,0,0,2,6,61,35,25,15,10,0,2,123,498,70,727
 2014-315,Newport,Grass,32,A,20140707,10,104291,,,Malek Jaziri,R,185,TUN,30.4,105575,,,Ricardas Berankis,R,175,LTU,24.0,7-5 6-3,3,R32,72,3,2,65,28,24,22,11,3,3,2,2,56,35,24,13,10,2,4,117,520,141,424
-2014-315,Newport,Grass,32,A,20140707,11,106291,,Q,Luke Saville,R,,AUS,20.4,105166,,,Peter Polansky,R,180,CAN,26.0,6-4 6-2,3,R32,65,5,7,57,30,26,14,9,3,4,6,6,60,32,22,10,9,1,5,184,274,133,457
-2014-315,Newport,Grass,32,A,20140707,12,103917,4,,Nicolas Mahut,R,190,FRA,32.4,106032,,,Facundo Arguello,R,,ARG,21.9,7-6(1) 6-4,3,R32,90,11,6,64,35,28,22,11,0,0,5,3,77,44,33,16,11,2,3,59,825,119,510
+2014-315,Newport,Grass,32,A,20140707,11,106291,,Q,Luke Saville,R,188,AUS,20.4,105166,,,Peter Polansky,R,180,CAN,26.0,6-4 6-2,3,R32,65,5,7,57,30,26,14,9,3,4,6,6,60,32,22,10,9,1,5,184,274,133,457
+2014-315,Newport,Grass,32,A,20140707,12,103917,4,,Nicolas Mahut,R,190,FRA,32.4,106032,,,Facundo Arguello,R,178,ARG,21.9,7-6(1) 6-4,3,R32,90,11,6,64,35,28,22,11,0,0,5,3,77,44,33,16,11,2,3,59,825,119,510
 2014-315,Newport,Grass,32,A,20140707,13,105173,8,,Adrian Mannarino,L,183,FRA,26.0,104499,,,Jimmy Wang,R,178,TPE,29.4,6-2 6-4,3,R32,63,9,1,54,41,32,8,9,2,2,3,2,59,34,20,15,9,3,6,92,600,138,442
 2014-315,Newport,Grass,32,A,20140707,14,104534,,,Dudi Sela,R,175,ISR,29.2,104308,,,Michal Przysiezny,R,185,POL,30.3,6-1 7-6(2),3,R32,59,7,4,52,33,31,13,10,0,0,4,3,55,35,25,9,9,4,6,98,571,134,452
 2014-315,Newport,Grass,32,A,20140707,15,104660,,,Sergiy Stakhovsky,R,193,UKR,28.4,104736,,,Farrukh Dustov,R,196,UZB,28.1,6-3 6-2,3,R32,60,10,7,47,28,25,10,8,2,2,4,8,64,36,25,9,9,5,9,88,610,142,421
 2014-315,Newport,Grass,32,A,20140707,16,103333,2,,Ivo Karlovic,R,208,CRO,35.3,104068,,WC,Robby Ginepri,R,183,USA,31.7,7-6(2) 6-2,3,R32,64,17,1,55,38,35,10,10,1,1,2,2,57,34,24,14,10,2,4,31,1175,275,169
-2014-315,Newport,Grass,32,A,20140707,17,104545,1,,John Isner,R,206,USA,29.1,105572,,Q,Austin Krajicek,L,,USA,24.0,6-3 6-3,3,R16,63,11,0,48,28,24,13,9,0,0,7,4,53,35,28,5,9,2,5,12,2735,208,239
+2014-315,Newport,Grass,32,A,20140707,17,104545,1,,John Isner,R,206,USA,29.1,105572,,Q,Austin Krajicek,L,188,USA,24.0,6-3 6-3,3,R16,63,11,0,48,28,24,13,9,0,0,7,4,53,35,28,5,9,2,5,12,2735,208,239
 2014-315,Newport,Grass,32,A,20140707,18,106058,7,,Jack Sock,R,185,USA,21.7,104330,,,Rajeev Ram,R,193,USA,30.3,7-5 6-2,3,R16,78,12,5,85,55,41,15,10,9,9,5,3,51,29,22,11,10,1,4,76,663,157,362
-2014-315,Newport,Grass,32,A,20140707,19,103720,3,,Lleyton Hewitt,R,180,AUS,33.3,105302,,Q,Ante Pavic,R,,CRO,25.3,6-2 6-2,3,R16,66,4,4,56,34,26,13,8,7,7,7,5,52,24,16,11,8,4,8,43,950,145,409
+2014-315,Newport,Grass,32,A,20140707,19,103720,3,,Lleyton Hewitt,R,180,AUS,33.3,105302,,Q,Ante Pavic,R,196,CRO,25.3,6-2 6-2,3,R16,66,4,4,56,34,26,13,8,7,7,7,5,52,24,16,11,8,4,8,43,950,145,409
 2014-315,Newport,Grass,32,A,20140707,20,105449,6,,Steve Johnson,R,188,USA,24.5,105147,,,Tatsuma Ito,R,180,JPN,26.1,6-3 2-0 RET,3,R16,40,8,0,36,25,22,4,6,2,2,6,1,30,20,11,4,5,0,2,69,737,129,481
 2014-315,Newport,Grass,32,A,20140707,21,105032,,,Sam Groth,R,193,AUS,26.7,104291,,,Malek Jaziri,R,185,TUN,30.4,7-6(7) 7-6(3),3,R16,102,24,3,75,47,41,15,12,2,3,3,7,97,36,27,32,12,3,4,123,498,117,520
-2014-315,Newport,Grass,32,A,20140707,22,103917,4,,Nicolas Mahut,R,190,FRA,32.4,106291,,Q,Luke Saville,R,,AUS,20.4,6-4 6-2,3,R16,70,7,2,50,26,18,17,9,2,3,2,3,57,34,22,9,9,3,7,59,825,184,274
+2014-315,Newport,Grass,32,A,20140707,22,103917,4,,Nicolas Mahut,R,190,FRA,32.4,106291,,Q,Luke Saville,R,188,AUS,20.4,6-4 6-2,3,R16,70,7,2,50,26,18,17,9,2,3,2,3,57,34,22,9,9,3,7,59,825,184,274
 2014-315,Newport,Grass,32,A,20140707,23,104534,,,Dudi Sela,R,175,ISR,29.2,105173,8,,Adrian Mannarino,L,183,FRA,26.0,6-3 6-1,3,R16,50,4,1,42,23,19,11,8,0,1,1,2,43,26,14,4,8,1,6,98,571,92,600
 2014-315,Newport,Grass,32,A,20140707,24,103333,2,,Ivo Karlovic,R,208,CRO,35.3,104660,,,Sergiy Stakhovsky,R,193,UKR,28.4,7-5 7-6(3),3,R16,80,18,4,63,40,37,11,12,0,1,2,6,72,42,31,16,12,4,6,31,1175,88,610
 2014-315,Newport,Grass,32,A,20140707,25,106058,7,,Jack Sock,R,185,USA,21.7,104545,1,,John Isner,R,206,USA,29.1,6-4 7-6(4),3,QF,88,3,4,73,42,33,19,11,3,3,6,1,61,42,33,11,11,0,1,76,663,12,2735
@@ -1882,7 +1882,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-315,Newport,Grass,32,A,20140707,30,103333,2,,Ivo Karlovic,R,208,CRO,35.3,105032,,,Sam Groth,R,193,AUS,26.7,6-4 6-4,3,SF,66,9,6,55,32,28,13,10,1,1,10,7,51,28,25,10,10,1,3,31,1175,123,498
 2014-315,Newport,Grass,32,A,20140707,31,103720,3,,Lleyton Hewitt,R,180,AUS,33.3,103333,2,,Ivo Karlovic,R,208,CRO,35.3,6-3 6-7(4) 7-6(3),3,F,150,5,6,96,46,41,29,16,6,8,26,10,127,73,58,18,17,10,14,43,950,31,1175
 2014-321,Stuttgart,Clay,28,A,20140707,1,104979,,,Andrey Golubev,R,185,KAZ,26.9,104332,,WC,Philipp Petzschner,R,185,GER,30.2,6-4 6-1,3,R32,80,6,4,63,30,23,17,9,3,4,0,5,64,30,20,13,8,7,11,61,802,508,68
-2014-321,Stuttgart,Clay,28,A,20140707,2,106053,,Q,Philip Davydenko,U,,RUS,21.8,105641,,,Blaz Rola,L,193,SLO,23.7,6-4 7-6(8),3,R32,100,2,2,82,61,44,9,11,2,3,5,4,82,46,32,17,11,3,5,658,40,81,633
+2014-321,Stuttgart,Clay,28,A,20140707,2,106053,,Q,Philip Davydenko,U,183,RUS,21.8,105641,,,Blaz Rola,L,193,SLO,23.7,6-4 7-6(8),3,R32,100,2,2,82,61,44,9,11,2,3,5,4,82,46,32,17,11,3,5,658,40,81,633
 2014-321,Stuttgart,Clay,28,A,20140707,3,105053,7,,Santiago Giraldo,R,188,COL,26.6,106243,,Q,Mate Delic,R,196,CRO,20.7,6-4 6-2,3,R32,62,2,1,52,35,26,11,9,1,2,2,0,52,31,18,11,9,2,6,34,1135,189,267
 2014-321,Stuttgart,Clay,28,A,20140707,4,104476,,LL,Louk Sorensen,R,175,IRL,29.4,104997,,,Igor Sijsling,R,190,NED,26.8,6-4 6-1,3,R32,50,9,1,45,31,27,7,9,1,2,2,1,51,30,17,10,8,6,10,236,206,68,738
 2014-321,Stuttgart,Clay,28,A,20140707,5,105161,,Q,Yann Marti,R,173,SUI,26.0,105967,,LL,Henri Laaksonen,R,185,SUI,22.2,7-5 6-4,3,R32,92,3,3,73,41,28,14,11,5,8,0,7,63,37,20,12,11,1,6,232,210,259,184
@@ -1894,7 +1894,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-321,Stuttgart,Clay,28,A,20140707,11,103794,,,Benjamin Becker,R,178,GER,33.0,105332,,,Benoit Paire,R,196,FRA,25.1,3-6 6-2 6-2,3,R32,84,11,6,87,49,40,18,12,5,6,11,3,81,40,28,18,13,8,12,60,818,79,635
 2014-321,Stuttgart,Clay,28,A,20140707,12,104919,,,Leonardo Mayer,R,188,ARG,27.1,103582,,WC,Michael Berrer,L,193,GER,34.0,2-6 6-3 7-6(5),3,R32,130,7,7,90,49,39,24,15,1,3,2,3,89,52,39,21,14,4,5,47,919,127,486
 2014-321,Stuttgart,Clay,28,A,20140707,13,104926,1,,Fabio Fognini,R,178,ITA,27.1,104979,,,Andrey Golubev,R,185,KAZ,26.9,6-4 6-4,3,R16,79,0,4,66,40,30,15,10,2,2,1,0,59,34,23,16,10,1,3,15,2235,61,802
-2014-321,Stuttgart,Clay,28,A,20140707,14,105053,7,,Santiago Giraldo,R,188,COL,26.6,106053,,Q,Philip Davydenko,U,,RUS,21.8,6-1 6-7(5) 6-3,3,R16,116,2,1,88,67,53,12,15,2,4,1,1,101,74,46,11,13,11,16,34,1135,658,40
+2014-321,Stuttgart,Clay,28,A,20140707,14,105053,7,,Santiago Giraldo,R,188,COL,26.6,106053,,Q,Philip Davydenko,U,183,RUS,21.8,6-1 6-7(5) 6-3,3,R16,116,2,1,88,67,53,12,15,2,4,1,1,101,74,46,11,13,11,16,34,1135,658,40
 2014-321,Stuttgart,Clay,28,A,20140707,15,105138,3,,Roberto Bautista Agut,R,183,ESP,26.2,104476,,LL,Louk Sorensen,R,175,IRL,29.4,6-3 1-6 6-1,3,R16,96,1,3,61,44,36,8,12,0,2,3,2,77,45,29,16,11,0,3,23,1625,236,206
 2014-321,Stuttgart,Clay,28,A,20140707,16,104198,6,,Guillermo Garcia Lopez,R,188,ESP,31.0,105161,,Q,Yann Marti,R,173,SUI,26.0,7-6(13) 7-5,3,R16,125,9,2,91,58,40,15,12,7,10,3,6,90,49,33,19,12,8,12,32,1163,232,210
 2014-321,Stuttgart,Clay,28,A,20140707,17,104586,,,Lukas Rosol,R,196,CZE,28.9,104259,5,,Philipp Kohlschreiber,R,178,GER,30.7,7-5 7-6(5),3,R16,81,7,3,73,45,38,14,12,0,1,4,0,86,49,31,22,12,1,3,48,900,26,1475
@@ -1910,27 +1910,27 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-321,Stuttgart,Clay,28,A,20140707,27,105138,3,,Roberto Bautista Agut,R,183,ESP,26.2,104586,,,Lukas Rosol,R,196,CZE,28.9,6-3 4-6 6-2,3,F,102,2,1,81,57,42,15,14,5,6,13,2,82,38,30,21,13,3,6,23,1625,48,900
 2014-6718,Bogota,Hard,28,A,20140714,1,105032,,,Sam Groth,R,193,AUS,26.7,108701,,WC,Juan Sebastian Cabal,R,185,COL,28.2,6-3 6-7(10) 7-6(4),3,R32,141,22,6,110,68,56,19,17,2,4,11,8,119,78,54,22,16,5,8,99,581,,
 2014-6718,Bogota,Hard,28,A,20140714,2,105166,,,Peter Polansky,R,180,CAN,26.0,104905,,Q,Nicolas Barrientos,R,175,COL,27.2,3-6 6-4 6-3,3,R32,84,9,4,78,50,37,15,14,4,7,1,1,82,57,34,14,14,1,5,130,457,329,138
-2014-6718,Bogota,Hard,28,A,20140714,3,103607,8,,Victor Estrella,R,173,DOM,33.9,106228,,Q,Juan Ignacio Londero,R,,ARG,20.9,7-5 6-3,3,R32,81,6,0,67,39,29,15,11,1,3,1,1,57,30,16,16,10,3,7,92,604,193,262
+2014-6718,Bogota,Hard,28,A,20140714,3,103607,8,,Victor Estrella,R,173,DOM,33.9,106228,,Q,Juan Ignacio Londero,R,180,ARG,20.9,7-5 6-3,3,R32,81,6,0,67,39,29,15,11,1,3,1,1,57,30,16,16,10,3,7,92,604,193,262
 2014-6718,Bogota,Hard,28,A,20140714,4,104864,,,Alex Kuznetsov,R,183,USA,27.4,105173,,,Adrian Mannarino,L,183,FRA,26.0,6-4 7-6(3),3,R32,91,9,3,70,39,33,18,11,1,1,3,2,67,45,32,15,11,1,2,155,362,93,600
 2014-6718,Bogota,Hard,28,A,20140714,5,106071,,WC,Bernard Tomic,R,193,AUS,21.7,104736,,,Farrukh Dustov,R,196,UZB,28.1,6-3 6-3,3,R32,59,10,0,47,36,31,7,9,0,0,4,1,58,40,29,5,9,1,4,124,496,140,415
 2014-6718,Bogota,Hard,28,A,20140714,6,104268,5,,Alejandro Falla,L,185,COL,30.6,105147,,,Tatsuma Ito,R,180,JPN,26.1,6-3 6-2,3,R32,59,7,5,58,32,28,11,9,6,7,2,3,42,22,14,8,8,2,6,54,853,126,486
-2014-6718,Bogota,Hard,28,A,20140714,7,105292,6,,Alejandro Gonzalez,R,,COL,25.4,105539,,,Evgeny Donskoy,R,185,RUS,24.1,7-5 3-6 6-4,3,R32,140,7,4,102,58,45,17,16,5,9,7,1,103,64,37,22,15,3,7,74,686,111,540
-2014-6718,Bogota,Hard,28,A,20140714,8,105217,,,Thiemo De Bakker,R,193,NED,25.8,110536,,Q,Kevin King,U,,USA,23.3,2-6 7-6(4) 6-3,3,R32,122,14,6,100,69,51,13,15,2,5,7,8,100,60,44,22,14,7,9,147,398,344,130
+2014-6718,Bogota,Hard,28,A,20140714,7,105292,6,,Alejandro Gonzalez,R,190,COL,25.4,105539,,,Evgeny Donskoy,R,185,RUS,24.1,7-5 3-6 6-4,3,R32,140,7,4,102,58,45,17,16,5,9,7,1,103,64,37,22,15,3,7,74,686,111,540
+2014-6718,Bogota,Hard,28,A,20140714,8,105217,,,Thiemo De Bakker,R,193,NED,25.8,110536,,Q,Kevin King,U,190,USA,23.3,2-6 7-6(4) 6-3,3,R32,122,14,6,100,69,51,13,15,2,5,7,8,100,60,44,22,14,7,9,147,398,344,130
 2014-6718,Bogota,Hard,28,A,20140714,9,105550,,,Guido Pella,L,185,ARG,24.1,105679,,WC,Eduardo Struvay,R,,COL,23.5,6-3 6-4,3,R32,64,2,3,62,35,24,16,10,5,7,1,0,45,34,22,4,9,2,6,158,353,336,135
 2014-6718,Bogota,Hard,28,A,20140714,10,104868,,Q,James Ward,R,190,GBR,27.4,105051,7,,Matthew Ebden,R,188,AUS,26.6,6-4 3-0 RET,3,R32,54,5,2,42,27,22,9,7,3,3,1,4,41,21,14,10,6,3,5,152,371,81,642
 2014-6718,Bogota,Hard,28,A,20140714,11,104499,,,Jimmy Wang,R,178,TPE,29.4,104308,,,Michal Przysiezny,R,185,POL,30.4,7-6(4) 4-6 6-3,3,R32,131,4,5,112,67,45,19,16,6,11,12,5,86,50,36,15,15,3,8,133,442,144,407
-2014-6718,Bogota,Hard,28,A,20140714,12,104534,,,Dudi Sela,R,175,ISR,29.2,106032,,,Facundo Arguello,R,,ARG,21.9,6-4 6-2,3,R32,60,0,6,48,31,25,7,9,1,3,2,10,60,33,22,7,9,0,5,102,568,121,510
+2014-6718,Bogota,Hard,28,A,20140714,12,104534,,,Dudi Sela,R,175,ISR,29.2,106032,,,Facundo Arguello,R,178,ARG,21.9,6-4 6-2,3,R32,60,0,6,48,31,25,7,9,1,3,2,10,60,33,22,7,9,0,5,102,568,121,510
 2014-6718,Bogota,Hard,28,A,20140714,13,104755,1,,Richard Gasquet,R,185,FRA,28.0,105032,,,Sam Groth,R,193,AUS,26.7,7-6(3) 7-6(5),3,R16,104,12,3,71,50,41,15,12,0,0,20,4,78,44,37,20,12,5,5,14,2370,99,581
 2014-6718,Bogota,Hard,28,A,20140714,14,103607,8,,Victor Estrella,R,173,DOM,33.9,105166,,,Peter Polansky,R,180,CAN,26.0,6-4 6-1,3,R16,49,5,1,38,22,21,11,8,0,0,1,4,46,20,13,10,9,2,6,92,604,130,457
 2014-6718,Bogota,Hard,28,A,20140714,15,105577,3,,Vasek Pospisil,R,193,CAN,24.0,104864,,,Alex Kuznetsov,R,183,USA,27.4,7-5 7-5,3,R16,76,10,4,63,34,31,19,12,3,3,4,5,60,38,30,14,12,2,4,34,1135,155,362
 2014-6718,Bogota,Hard,28,A,20140714,16,106071,,WC,Bernard Tomic,R,193,AUS,21.7,104268,5,,Alejandro Falla,L,185,COL,30.6,6-1 7-6(2),3,R16,90,7,2,64,45,36,10,10,1,2,5,5,88,51,33,14,9,7,10,124,496,54,853
-2014-6718,Bogota,Hard,28,A,20140714,17,105292,6,,Alejandro Gonzalez,R,,COL,25.4,105217,,,Thiemo De Bakker,R,193,NED,25.8,6-3 6-4,3,R16,65,5,1,58,36,28,15,10,1,1,5,4,53,26,22,11,9,2,4,74,686,147,398
+2014-6718,Bogota,Hard,28,A,20140714,17,105292,6,,Alejandro Gonzalez,R,190,COL,25.4,105217,,,Thiemo De Bakker,R,193,NED,25.8,6-3 6-4,3,R16,65,5,1,58,36,28,15,10,1,1,5,4,53,26,22,11,9,2,4,74,686,147,398
 2014-6718,Bogota,Hard,28,A,20140714,18,103285,4,,Radek Stepanek,R,185,CZE,35.6,105550,,,Guido Pella,L,185,ARG,24.1,7-6(2) 6-2,3,R16,103,6,3,62,35,27,17,10,2,3,4,3,80,43,26,17,10,6,9,39,1085,158,353
 2014-6718,Bogota,Hard,28,A,20140714,19,104499,,,Jimmy Wang,R,178,TPE,29.4,104868,,Q,James Ward,R,190,GBR,27.4,6-3 6-1,3,R16,48,2,0,39,26,21,11,8,0,0,4,3,43,25,16,8,8,0,4,133,442,152,371
 2014-6718,Bogota,Hard,28,A,20140714,20,103333,2,,Ivo Karlovic,R,208,CRO,35.3,104534,,,Dudi Sela,R,175,ISR,29.2,7-6(8) 7-6(5),3,R16,100,16,4,76,50,44,17,12,0,0,3,2,90,55,42,24,12,7,7,29,1280,102,568
 2014-6718,Bogota,Hard,28,A,20140714,21,103607,8,,Victor Estrella,R,173,DOM,33.9,104755,1,,Richard Gasquet,R,185,FRA,28.0,6-3 6-4,3,QF,65,2,3,48,22,19,18,9,2,2,5,2,52,25,19,16,10,2,5,92,604,14,2370
 2014-6718,Bogota,Hard,28,A,20140714,22,106071,,WC,Bernard Tomic,R,193,AUS,21.7,105577,3,,Vasek Pospisil,R,193,CAN,24.0,6-4 6-4,3,QF,70,8,2,58,39,32,11,10,1,1,10,5,59,37,26,11,10,2,4,124,496,34,1135
-2014-6718,Bogota,Hard,28,A,20140714,23,103285,4,,Radek Stepanek,R,185,CZE,35.6,105292,6,,Alejandro Gonzalez,R,,COL,25.4,6-4 6-4,3,QF,80,8,2,60,43,36,8,10,3,3,7,2,62,40,27,11,10,1,3,39,1085,74,686
+2014-6718,Bogota,Hard,28,A,20140714,23,103285,4,,Radek Stepanek,R,185,CZE,35.6,105292,6,,Alejandro Gonzalez,R,190,COL,25.4,6-4 6-4,3,QF,80,8,2,60,43,36,8,10,3,3,7,2,62,40,27,11,10,1,3,39,1085,74,686
 2014-6718,Bogota,Hard,28,A,20140714,24,103333,2,,Ivo Karlovic,R,208,CRO,35.3,104499,,,Jimmy Wang,R,178,TPE,29.4,6-3 7-6(6),3,QF,84,21,0,54,35,33,12,10,0,0,5,5,79,45,32,18,11,5,7,29,1280,133,442
 2014-6718,Bogota,Hard,28,A,20140714,25,106071,,WC,Bernard Tomic,R,193,AUS,21.7,103607,8,,Victor Estrella,R,173,DOM,33.9,7-6(2) 6-7(5) 7-6(5),3,SF,167,21,3,123,76,58,25,18,2,4,8,4,117,77,55,24,18,1,3,124,496,92,604
 2014-6718,Bogota,Hard,28,A,20140714,26,103333,2,,Ivo Karlovic,R,208,CRO,35.3,103285,4,,Radek Stepanek,R,185,CZE,35.6,6-4 3-6 6-4,3,SF,103,22,3,82,59,44,15,14,5,6,7,4,81,50,39,18,15,1,3,29,1280,39,1085
@@ -1985,15 +1985,15 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-6116,Atlanta,Hard,28,A,20140721,1,104068,,WC,Robby Ginepri,R,183,USA,31.7,104660,,,Sergiy Stakhovsky,R,193,UKR,28.5,7-6(3) 3-6 6-0,3,R32,101,5,4,86,55,40,16,13,8,11,11,11,94,59,43,8,14,3,8,281,169,79,672
 2014-6116,Atlanta,Hard,28,A,20140721,2,105065,,,Tim Smyczek,R,175,USA,26.5,105992,,WC,Ryan Harrison,R,183,USA,22.2,6-0 6-2,3,R32,53,3,1,44,36,27,5,7,2,2,7,4,44,25,11,6,7,5,10,112,538,145,411
 2014-6116,Atlanta,Hard,28,A,20140721,3,104594,8,,Marinko Matosevic,R,194,AUS,28.9,103607,,,Victor Estrella,R,173,DOM,33.9,6-0 6-2,3,R32,43,6,1,39,21,16,13,7,0,0,1,4,40,26,11,4,7,3,8,52,862,82,662
-2014-6116,Atlanta,Hard,28,A,20140721,4,106058,,,Jack Sock,R,185,USA,21.8,105292,,,Alejandro Gonzalez,R,,COL,25.4,6-2 6-4,3,R32,66,9,1,51,28,25,15,9,1,1,2,2,51,29,18,12,9,3,6,72,733,75,723
-2014-6116,Atlanta,Hard,28,A,20140721,5,105041,,,Lukas Lacko,R,185,SVK,26.7,111156,,WC,Nathan Pasha,U,,USA,22.0,6-2 7-5,3,R32,70,6,2,52,25,21,17,10,0,1,6,10,60,29,21,10,10,0,4,91,594,1187,6
+2014-6116,Atlanta,Hard,28,A,20140721,4,106058,,,Jack Sock,R,185,USA,21.8,105292,,,Alejandro Gonzalez,R,190,COL,25.4,6-2 6-4,3,R32,66,9,1,51,28,25,15,9,1,1,2,2,51,29,18,12,9,3,6,72,733,75,723
+2014-6116,Atlanta,Hard,28,A,20140721,5,105041,,,Lukas Lacko,R,185,SVK,26.7,111156,,WC,Nathan Pasha,U,191,USA,22.0,6-2 7-5,3,R32,70,6,2,52,25,21,17,10,0,1,6,10,60,29,21,10,10,0,4,91,594,1187,6
 2014-6116,Atlanta,Hard,28,A,20140721,6,104797,6,,Denis Istomin,R,188,UZB,27.8,104330,,LL,Rajeev Ram,R,193,USA,30.3,6-1 6-4,3,R32,69,8,0,49,29,23,14,9,0,0,2,3,58,33,21,11,8,2,5,41,1020,157,362
 2014-6116,Atlanta,Hard,28,A,20140721,7,105023,9,,Sam Querrey,R,198,USA,26.7,105449,,,Steve Johnson,R,188,USA,24.5,7-6(3) 7-5,3,R32,92,20,2,68,42,37,16,12,1,1,8,3,81,45,30,21,12,1,2,61,790,64,766
 2014-6116,Atlanta,Hard,28,A,20140721,8,104534,,,Dudi Sela,R,175,ISR,29.2,105385,,,Donald Young,L,183,USA,24.9,6-3 6-0,3,R32,61,0,5,54,40,29,6,7,3,3,0,1,47,27,15,6,8,3,8,94,588,73,727
-2014-6116,Atlanta,Hard,28,A,20140721,9,105011,,Q,Illya Marchenko,R,185,UKR,26.8,105441,,Q,John Patrick Smith,L,,AUS,25.4,6-4 6-4,3,R32,88,7,4,68,39,33,12,10,2,3,3,3,57,33,22,12,10,2,5,182,288,178,292
+2014-6116,Atlanta,Hard,28,A,20140721,9,105011,,Q,Illya Marchenko,R,185,UKR,26.8,105441,,Q,John Patrick Smith,L,188,AUS,25.4,6-4 6-4,3,R32,88,7,4,68,39,33,12,10,2,3,3,3,57,33,22,12,10,2,5,182,288,178,292
 2014-6116,Atlanta,Hard,28,A,20140721,10,104229,7,,Yen Hsun Lu,R,180,TPE,30.9,104864,,LL,Alex Kuznetsov,R,183,USA,27.4,6-4 6-4,3,R32,82,4,6,63,35,28,14,10,6,7,3,5,59,39,27,7,10,5,8,42,993,171,302
 2014-6116,Atlanta,Hard,28,A,20140721,11,103794,,,Benjamin Becker,R,178,GER,33.0,105051,,,Matthew Ebden,R,188,AUS,26.6,6-4 6-2,3,R32,65,4,4,44,25,22,11,9,1,2,4,13,69,36,28,7,9,9,13,66,758,86,628
-2014-6116,Atlanta,Hard,28,A,20140721,12,105217,,LL,Thiemo De Bakker,R,193,NED,25.8,105731,,Q,Steven Diez,R,,CAN,23.3,6-1 6-2,3,R32,65,10,1,44,23,19,12,7,1,1,1,7,54,26,15,9,8,6,11,142,418,265,181
+2014-6116,Atlanta,Hard,28,A,20140721,12,105217,,LL,Thiemo De Bakker,R,193,NED,25.8,105731,,Q,Steven Diez,R,180,CAN,23.3,6-1 6-2,3,R32,65,10,1,44,23,19,12,7,1,1,1,7,54,26,15,9,8,6,11,142,418,265,181
 2014-6116,Atlanta,Hard,28,A,20140721,13,104545,1,,John Isner,R,206,USA,29.2,104068,,WC,Robby Ginepri,R,183,USA,31.7,4-6 7-6(5) 7-5,3,R16,147,30,3,109,71,53,23,17,5,6,8,3,116,72,56,23,17,9,10,12,2690,281,169
 2014-6116,Atlanta,Hard,28,A,20140721,14,104594,8,,Marinko Matosevic,R,194,AUS,28.9,105065,,,Tim Smyczek,R,175,USA,26.5,6-4 7-5,3,R16,96,6,5,71,48,33,10,11,3,6,2,2,78,47,26,14,11,2,7,52,862,112,538
 2014-6116,Atlanta,Hard,28,A,20140721,15,106058,,,Jack Sock,R,185,USA,21.8,105030,,Q,Michael Venus,R,191,NZL,26.7,6-4 6-2,3,R16,67,2,5,55,29,27,12,9,2,2,10,3,49,27,19,9,9,2,5,72,733,349,127
@@ -2016,10 +2016,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-314,Gstaad,Clay,28,A,20140721,5,105064,,,Thomaz Bellucci,L,188,BRA,26.5,105589,,Q,Gerald Melzer,L,188,AUT,24.0,6-3 6-4,3,R32,74,4,2,60,36,31,13,10,3,3,2,2,48,29,20,12,9,1,3,93,593,148,398
 2014-314,Gstaad,Clay,28,A,20140721,6,105643,5,,Federico Delbonis,L,190,ARG,23.7,104460,,,Dustin Brown,R,196,GER,29.6,6-3 6-3,3,R32,54,5,3,46,32,28,5,9,0,1,3,4,56,34,23,6,9,1,5,56,819,90,596
 2014-314,Gstaad,Clay,28,A,20140721,7,104678,,WC,Viktor Troicki,R,193,SRB,28.4,106233,8,,Dominic Thiem,R,185,AUT,20.8,7-6(4) 6-4,3,R32,95,8,1,73,34,25,21,11,5,8,6,3,79,41,29,16,11,6,10,847,20,47,887
-2014-314,Gstaad,Clay,28,A,20140721,8,104979,,,Andrey Golubev,R,185,KAZ,26.9,105438,,Q,Inigo Cervantes Huegun,R,,ESP,24.6,3-6 6-3 7-6(4),3,R32,123,3,2,112,75,52,20,15,10,12,8,6,90,47,36,25,15,6,8,59,802,330,139
+2014-314,Gstaad,Clay,28,A,20140721,8,104979,,,Andrey Golubev,R,185,KAZ,26.9,105438,,Q,Inigo Cervantes Huegun,R,183,ESP,24.6,3-6 6-3 7-6(4),3,R32,123,3,2,112,75,52,20,15,10,12,8,6,90,47,36,25,15,6,8,59,802,330,139
 2014-314,Gstaad,Clay,28,A,20140721,9,105526,,,Jan Lennard Struff,R,193,GER,24.2,104890,,,Andreas Haider Maurer,R,190,AUT,27.3,6-2 1-0 RET,3,R32,42,0,0,21,14,12,6,4,0,0,2,4,51,28,16,7,5,4,7,78,695,109,541
 2014-314,Gstaad,Clay,28,A,20140721,10,104665,,,Pablo Andujar,R,180,ESP,28.4,104468,6,,Gilles Simon,R,183,FRA,29.5,6-2 3-2 RET,3,R32,63,4,1,44,30,16,9,6,4,6,0,2,48,25,11,9,7,3,8,71,736,36,1110
-2014-314,Gstaad,Clay,28,A,20140721,11,105641,,,Blaz Rola,L,193,SLO,23.7,105245,,Q,Fabiano De Paula,R,,BRA,25.6,6-4 6-4,3,R32,70,2,2,48,32,24,11,10,1,3,3,2,68,51,28,8,10,4,8,80,669,458,86
+2014-314,Gstaad,Clay,28,A,20140721,11,105641,,,Blaz Rola,L,193,SLO,23.7,105245,,Q,Fabiano De Paula,R,178,BRA,25.6,6-4 6-4,3,R32,70,2,2,48,32,24,11,10,1,3,3,2,68,51,28,8,10,4,8,80,669,458,86
 2014-314,Gstaad,Clay,28,A,20140721,12,105161,,WC,Yann Marti,R,173,SUI,26.1,104593,,,Daniel Gimeno Traver,R,185,ESP,28.9,5-7 7-6(7) 7-6(5),3,R32,179,2,5,157,102,57,33,18,23,29,8,4,117,56,43,28,18,4,9,212,232,89,615
 2014-314,Gstaad,Clay,28,A,20140721,13,104022,1,,Mikhail Youzhny,R,183,RUS,32.0,104932,,,Kenny De Schepper,L,203,FRA,27.1,6-3 6-4,3,R16,70,1,4,56,36,29,13,10,0,0,7,6,62,39,30,7,9,5,7,19,1735,110,541
 2014-314,Gstaad,Clay,28,A,20140721,14,104898,7,,Robin Haase,R,190,NED,27.2,105967,,WC,Henri Laaksonen,R,185,SUI,22.3,6-4 1-6 7-5,3,R16,138,1,4,101,60,33,22,14,4,9,3,9,103,72,48,10,15,10,15,51,865,319,143
@@ -2037,7 +2037,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-314,Gstaad,Clay,28,A,20140721,26,104665,,,Pablo Andujar,R,180,ESP,28.4,104269,4,,Fernando Verdasco,L,188,ESP,30.6,6-3 6-7(2) 6-1,3,SF,135,0,2,98,67,43,15,13,8,10,7,7,102,64,38,14,15,5,12,71,736,38,1100
 2014-314,Gstaad,Clay,28,A,20140721,27,104665,,,Pablo Andujar,R,180,ESP,28.4,104338,,,Juan Monaco,R,185,ARG,30.3,6-3 7-5,3,F,92,1,2,72,42,29,17,11,3,5,1,2,60,40,24,11,10,2,6,71,736,105,550
 2014-439,Umag,Clay,28,A,20140721,1,103656,,,Albert Montanes,R,175,ESP,33.6,100644,,,Alexander Zverev,R,198,GER,17.2,6-4 6-4,3,R32,86,1,5,63,37,29,11,10,5,7,7,4,57,34,21,10,10,2,6,113,535,161,343
-2014-439,Umag,Clay,28,A,20140721,2,104547,,Q,Horacio Zeballos,L,188,ARG,29.2,105302,,WC,Ante Pavic,R,,CRO,25.3,6-4 6-7(2) 6-1,3,R32,108,2,0,80,50,37,25,15,0,0,18,5,83,56,45,9,14,4,7,117,515,140,429
+2014-439,Umag,Clay,28,A,20140721,2,104547,,Q,Horacio Zeballos,L,188,ARG,29.2,105302,,WC,Ante Pavic,R,196,CRO,25.3,6-4 6-7(2) 6-1,3,R32,108,2,0,80,50,37,25,15,0,0,18,5,83,56,45,9,14,4,7,117,515,140,429
 2014-439,Umag,Clay,28,A,20140721,3,106432,,WC,Borna Coric,R,188,CRO,17.6,104273,7,,Edouard Roger Vasselin,R,188,FRA,30.6,6-2 6-4,3,R32,98,8,1,65,48,34,10,9,5,5,4,0,78,50,30,13,9,8,11,230,214,46,920
 2014-439,Umag,Clay,28,A,20140721,4,104559,,,Teymuraz Gabashvili,R,188,RUS,29.1,105583,,,Dusan Lajovic,R,180,SRB,24.0,6-4 6-3,3,R32,83,2,0,55,38,28,12,9,4,4,1,1,62,38,22,14,10,4,7,68,755,58,808
 2014-439,Umag,Clay,28,A,20140721,5,104655,,Q,Pablo Cuevas,R,180,URU,28.5,106243,,WC,Mate Delic,R,196,CRO,20.8,4-6 6-4 6-4,3,R32,124,8,6,82,54,39,11,15,1,5,7,1,105,61,43,18,15,10,15,60,791,181,288
@@ -2067,7 +2067,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-319,Kitzbuhel,Clay,28,A,20140727,2,104665,,,Pablo Andujar,R,180,ESP,28.5,103781,,,Jurgen Melzer,L,183,AUT,33.1,6-3 6-4,3,R32,80,1,1,59,36,30,15,10,3,3,1,3,57,34,25,10,9,2,4,44,961,67,770
 2014-319,Kitzbuhel,Clay,28,A,20140727,3,103893,,,Paolo Lorenzi,R,183,ITA,32.6,104898,6,,Robin Haase,R,190,NED,27.3,6-2 6-3,3,R32,70,4,1,53,33,26,12,8,2,2,0,0,53,32,18,10,9,3,7,83,644,61,805
 2014-319,Kitzbuhel,Clay,28,A,20140727,4,104890,,,Andreas Haider Maurer,R,190,AUT,27.3,105589,,WC,Gerald Melzer,L,188,AUT,24.0,6-2 7-6(1),3,R32,112,7,5,79,40,29,17,10,8,11,3,6,88,52,29,13,10,7,12,113,527,147,404
-2014-319,Kitzbuhel,Clay,28,A,20140727,5,105077,,Q,Albert Ramos,L,188,ESP,26.5,105634,,Q,Viktor Galovic,R,,ITA,23.8,6-7(5) 7-5 6-2,3,R32,150,2,6,98,60,42,21,16,2,5,7,4,102,62,37,19,16,0,6,97,591,732,31
+2014-319,Kitzbuhel,Clay,28,A,20140727,5,105077,,Q,Albert Ramos,L,188,ESP,26.5,105634,,Q,Viktor Galovic,R,193,ITA,23.8,6-7(5) 7-5 6-2,3,R32,150,2,6,98,60,42,21,16,2,5,7,4,102,62,37,19,16,0,6,97,591,732,31
 2014-319,Kitzbuhel,Clay,28,A,20140727,6,104216,,Q,Maximo Gonzalez,R,175,ARG,31.0,105807,8,,Pablo Carreno Busta,R,188,ESP,23.0,6-3 4-6 7-5,3,R32,150,6,1,99,61,36,20,16,9,14,2,3,96,51,32,21,15,8,14,104,553,55,831
 2014-319,Kitzbuhel,Clay,28,A,20140727,7,103813,7,,Jarkko Nieminen,L,185,FIN,33.0,104559,,,Teymuraz Gabashvili,R,188,RUS,29.1,6-4 6-4,3,R32,81,1,2,61,44,32,7,10,3,5,5,5,66,39,28,8,10,3,7,52,853,66,780
 2014-319,Kitzbuhel,Clay,28,A,20140727,8,104338,,,Juan Monaco,R,185,ARG,30.3,104979,,,Andrey Golubev,R,185,KAZ,27.0,0-6 6-2 6-1,3,R32,92,0,0,71,45,26,15,11,6,9,3,5,73,45,27,12,10,5,9,81,655,65,782
@@ -2091,7 +2091,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-319,Kitzbuhel,Clay,28,A,20140727,26,106233,5,,Dominic Thiem,R,185,AUT,20.8,104338,,,Juan Monaco,R,185,ARG,30.3,6-3 6-1,3,SF,59,6,0,42,28,23,7,8,0,1,0,1,49,31,14,8,8,2,7,50,882,81,655
 2014-319,Kitzbuhel,Clay,28,A,20140727,27,105676,,WC,David Goffin,R,180,BEL,23.6,106233,5,,Dominic Thiem,R,185,AUT,20.8,4-6 6-1 6-3,3,F,119,1,0,83,52,37,19,13,5,6,6,4,87,45,31,20,13,8,12,78,693,50,882
 2014-418,Washington,Hard,48,A,20140728,1,104068,,Q,Robby Ginepri,R,183,USA,31.8,104268,,,Alejandro Falla,L,185,COL,30.7,6-4 6-2,3,R64,72,2,0,51,35,27,11,9,4,4,8,6,73,39,25,15,9,5,8,266,183,74,723
-2014-418,Washington,Hard,48,A,20140728,2,104330,,Q,Rajeev Ram,R,193,USA,30.3,111577,,Q,Jared Donaldson,R,,USA,17.7,6-7(1) 6-4 7-5,3,R64,127,6,4,90,53,42,29,17,2,2,12,2,93,48,37,32,17,0,2,152,368,326,137
+2014-418,Washington,Hard,48,A,20140728,2,104330,,Q,Rajeev Ram,R,193,USA,30.3,111577,,Q,Jared Donaldson,R,188,USA,17.7,6-7(1) 6-4 7-5,3,R64,127,6,4,90,53,42,29,17,2,2,12,2,93,48,37,32,17,0,2,152,368,326,137
 2014-418,Washington,Hard,48,A,20140728,3,103794,,,Benjamin Becker,R,178,GER,33.1,104882,,,Blaz Kavcic,R,188,SLO,27.3,6-3 7-6(7),3,R64,82,6,5,71,43,36,11,11,1,3,8,2,65,42,29,11,10,3,6,56,828,82,651
 2014-418,Washington,Hard,48,A,20140728,4,103607,,,Victor Estrella,R,173,DOM,33.9,104735,,,Tobias Kamke,R,180,GER,28.1,6-2 4-6 7-6(4),3,R64,140,6,4,95,51,39,22,15,3,7,2,7,128,79,49,21,15,8,13,87,635,77,699
 2014-418,Washington,Hard,48,A,20140728,5,105023,,,Sam Querrey,R,198,USA,26.8,103188,,,Michael Russell,R,173,USA,36.2,6-4 6-3,3,R64,71,17,2,50,30,28,11,10,1,2,3,1,74,51,32,9,9,8,11,63,790,143,416
@@ -2100,7 +2100,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-418,Washington,Hard,48,A,20140728,8,104534,,,Dudi Sela,R,175,ISR,29.3,105032,,LL,Sam Groth,R,193,AUS,26.7,7-6(3) 3-6 6-4,3,R64,121,0,4,113,74,47,20,16,12,16,16,5,85,51,42,15,15,3,6,88,628,96,594
 2014-418,Washington,Hard,48,A,20140728,9,105539,,,Evgeny Donskoy,R,185,RUS,24.2,126207,,WC,Frances Tiafoe,R,188,USA,16.5,6-4 6-4,3,R64,78,5,2,56,36,31,9,10,2,3,2,6,71,39,29,13,10,9,12,111,528,1139,7
 2014-418,Washington,Hard,48,A,20140728,10,104291,,,Malek Jaziri,R,185,TUN,30.5,104660,,,Sergiy Stakhovsky,R,193,UKR,28.5,7-6(2) 6-4,3,R64,89,1,1,76,33,29,26,11,4,4,7,9,84,41,36,16,11,6,7,114,526,79,672
-2014-418,Washington,Hard,48,A,20140728,11,106071,,,Bernard Tomic,R,193,AUS,21.7,105292,,,Alejandro Gonzalez,R,,COL,25.4,6-3 6-2,3,R64,58,10,3,49,36,31,7,9,2,2,1,2,46,19,14,10,8,1,4,72,746,85,641
+2014-418,Washington,Hard,48,A,20140728,11,106071,,,Bernard Tomic,R,193,AUS,21.7,105292,,,Alejandro Gonzalez,R,190,COL,25.4,6-3 6-2,3,R64,58,10,3,49,36,31,7,9,2,2,1,2,46,19,14,10,8,1,4,72,746,85,641
 2014-418,Washington,Hard,48,A,20140728,12,105385,,,Donald Young,L,183,USA,25.0,105216,,Q,Yuichi Sugita,R,173,JPN,25.8,6-4 4-6 6-4,3,R64,122,2,4,84,48,32,23,15,4,7,8,3,99,47,30,27,15,8,12,73,727,131,459
 2014-418,Washington,Hard,48,A,20140728,13,105449,,,Steve Johnson,R,188,USA,24.5,105902,,WC,James Duckworth,R,183,AUS,22.5,6-3 7-6(4),3,R64,75,23,4,84,48,40,19,11,5,5,8,0,62,40,32,11,10,4,5,68,766,155,358
 2014-418,Washington,Hard,48,A,20140728,14,105332,,,Benoit Paire,R,196,FRA,25.2,104433,,,Frank Dancevic,R,185,CAN,29.8,6-4 6-0,3,R64,39,10,4,39,23,21,11,8,0,0,0,2,45,23,13,9,8,1,5,98,585,123,492
@@ -2156,7 +2156,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-421,Canada Masters,Hard,56,M,20140804,17,105065,,Q,Tim Smyczek,R,175,USA,26.5,104735,,Q,Tobias Kamke,R,180,GER,28.2,6-3 6-2,3,R64,104,4,3,55,28,24,16,9,2,2,0,5,61,42,26,7,8,3,6,104,561,78,689
 2014-421,Canada Masters,Hard,56,M,20140804,18,104229,,,Yen Hsun Lu,R,180,TPE,30.9,104719,,,Marcel Granollers,R,190,ESP,28.3,7-6(6) 7-5,3,R64,109,0,4,77,39,30,17,12,3,7,4,6,71,28,24,17,12,0,5,43,993,37,1080
 2014-421,Canada Masters,Hard,56,M,20140804,19,103188,,Q,Michael Russell,R,173,USA,36.2,103917,,,Nicolas Mahut,R,190,FRA,32.5,6-3 6-3,3,R64,76,1,2,58,42,32,9,9,3,3,4,3,57,24,17,16,9,2,5,143,416,91,620
-2014-421,Canada Masters,Hard,56,M,20140804,20,104312,,,Andreas Seppi,R,190,ITA,30.4,111790,,Q,Brayden Schnur,R,,CAN,19.0,6-3 6-3,3,R64,72,4,1,51,33,26,10,9,1,2,4,6,60,29,19,12,9,0,4,51,890,612,48
+2014-421,Canada Masters,Hard,56,M,20140804,20,104312,,,Andreas Seppi,R,190,ITA,30.4,111790,,Q,Brayden Schnur,R,193,CAN,19.0,6-3 6-3,3,R64,72,4,1,51,33,26,10,9,1,2,4,6,60,29,19,12,9,0,4,51,890,612,48
 2014-421,Canada Masters,Hard,56,M,20140804,21,104471,,,Ivan Dodig,R,183,CRO,29.5,104545,10,,John Isner,R,206,USA,29.2,6-4 6-7(4) 6-3,3,R64,112,9,4,88,60,52,17,16,0,0,13,6,92,57,48,15,15,7,9,62,800,14,2435
 2014-421,Canada Masters,Hard,56,M,20140804,22,105227,15,,Marin Cilic,R,198,CRO,25.8,104797,,,Denis Istomin,R,188,UZB,27.9,6-2 4-6 7-5,3,R64,,,,,,,,,,,,,,,,,,,,18,1665,39,1065
 2014-421,Canada Masters,Hard,56,M,20140804,23,104291,,LL,Malek Jaziri,R,185,TUN,30.5,104198,,,Guillermo Garcia Lopez,R,188,ESP,31.1,6-4 7-6(6),3,R64,116,2,2,85,43,30,23,11,6,7,0,1,76,47,33,15,11,5,7,103,563,33,1133
@@ -2210,7 +2210,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-422,Cincinnati Masters,Hard,56,M,20140810,16,104926,15,,Fabio Fognini,R,178,ITA,27.2,104273,,,Edouard Roger Vasselin,R,188,FRA,30.7,6-4 4-6 7-6(5),3,R64,158,3,5,100,56,39,17,16,6,12,6,3,123,76,47,21,16,9,15,21,1665,49,910
 2014-422,Cincinnati Masters,Hard,56,M,20140810,17,103720,,,Lleyton Hewitt,R,180,AUS,33.4,103781,,,Jurgen Melzer,L,183,AUT,33.2,3-6 6-4 6-4,3,R64,127,11,8,96,52,39,19,15,8,12,10,7,82,49,33,16,14,2,6,42,1015,67,770
 2014-422,Cincinnati Masters,Hard,56,M,20140810,18,104229,,,Yen Hsun Lu,R,180,TPE,30.9,104797,,,Denis Istomin,R,188,UZB,27.9,6-3 6-4,3,R64,55,7,2,48,30,28,14,10,1,1,2,2,51,38,29,3,9,1,3,43,1003,45,985
-2014-422,Cincinnati Masters,Hard,56,M,20140810,19,105311,,,Joao Sousa,R,185,POR,25.3,105783,,Q,Chase Buchanan,R,,USA,23.1,5-7 7-6(3) 7-6(5),3,R64,155,15,2,114,58,42,30,18,6,11,8,5,117,77,54,19,18,3,7,37,1052,172,302
+2014-422,Cincinnati Masters,Hard,56,M,20140810,19,105311,,,Joao Sousa,R,185,POR,25.3,105783,,Q,Chase Buchanan,R,193,USA,23.1,5-7 7-6(3) 7-6(5),3,R64,155,15,2,114,58,42,30,18,6,11,8,5,117,77,54,19,18,3,7,37,1052,172,302
 2014-422,Cincinnati Masters,Hard,56,M,20140810,20,104594,,Q,Marinko Matosevic,R,194,AUS,29.0,103917,,,Nicolas Mahut,R,190,FRA,32.5,6-4 7-6(4),3,R64,117,5,3,83,52,39,18,11,6,6,6,5,84,42,30,24,11,10,11,89,632,96,610
 2014-422,Cincinnati Masters,Hard,56,M,20140810,21,104545,11,,John Isner,R,206,USA,29.2,104731,,,Kevin Anderson,R,203,RSA,28.2,6-3 6-4,3,R64,65,15,3,55,34,30,12,10,3,3,8,4,55,40,28,7,9,4,6,14,2435,17,1775
 2014-422,Cincinnati Masters,Hard,56,M,20140810,22,105138,13,,Roberto Bautista Agut,R,183,ESP,26.3,105373,,,Martin Klizan,L,190,SVK,25.0,6-2 4-6 7-5,3,R64,125,3,5,89,57,40,15,15,2,6,4,8,96,44,28,22,15,6,12,18,1775,66,775
@@ -2247,7 +2247,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-422,Cincinnati Masters,Hard,56,M,20140810,53,103970,6,,David Ferrer,R,175,ESP,32.3,103898,,,Julien Benneteau,R,185,FRA,32.6,6-3 6-2,3,SF,72,3,0,46,32,24,10,8,1,1,3,5,66,44,28,7,9,6,10,6,4255,41,1015
 2014-422,Cincinnati Masters,Hard,56,M,20140810,54,103819,2,,Roger Federer,R,185,SUI,33.0,105683,5,,Milos Raonic,R,196,CAN,23.6,6-2 6-3,3,SF,69,2,0,52,33,29,10,9,1,1,6,3,57,25,17,16,8,2,5,3,6670,7,3955
 2014-422,Cincinnati Masters,Hard,56,M,20140810,55,103819,2,,Roger Federer,R,185,SUI,33.0,103970,6,,David Ferrer,R,175,ESP,32.3,6-3 1-6 6-2,3,F,102,6,2,74,47,36,13,12,9,11,3,3,88,54,38,14,12,11,14,3,6670,6,4255
-2014-6242,Winston-Salem,Hard,48,A,20140817,1,105614,,,Bradley Klahn,L,190,USA,23.9,111511,,WC,Noah Rubin,R,,USA,18.4,6-2 0-6 7-6(5),3,R64,132,7,10,120,62,44,21,13,14,19,1,3,84,56,37,14,13,3,7,117,515,584,52
+2014-6242,Winston-Salem,Hard,48,A,20140817,1,105614,,,Bradley Klahn,L,190,USA,23.9,111511,,WC,Noah Rubin,R,175,USA,18.4,6-2 0-6 7-6(5),3,R64,132,7,10,120,62,44,21,13,14,19,1,3,84,56,37,14,13,3,7,117,515,584,52
 2014-6242,Winston-Salem,Hard,48,A,20140817,2,104898,,,Robin Haase,R,190,NED,27.3,105332,,,Benoit Paire,R,196,FRA,25.2,6-4 2-6 6-2,3,R64,92,2,3,78,50,32,20,13,4,6,3,4,82,35,25,25,13,5,8,70,735,99,590
 2014-6242,Winston-Salem,Hard,48,A,20140817,3,104997,,,Igor Sijsling,R,190,NED,27.0,104979,,,Andrey Golubev,R,185,KAZ,27.0,7-6(5) 6-3,3,R64,94,8,3,63,36,25,16,11,1,4,2,9,87,39,26,21,10,7,11,73,713,64,782
 2014-6242,Winston-Salem,Hard,48,A,20140817,4,105992,,WC,Ryan Harrison,R,183,USA,22.2,105526,,,Jan Lennard Struff,R,193,GER,24.3,6-4 6-2,3,R64,84,6,3,69,38,30,16,9,4,4,4,1,60,36,22,13,9,1,4,184,279,78,680
@@ -2259,7 +2259,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-6242,Winston-Salem,Hard,48,A,20140817,10,104873,,,Aleksandr Nedovyesov,R,193,KAZ,27.5,106218,,Q,Marcos Giron,R,180,USA,21.0,6-4 6-4,3,R64,98,4,2,70,45,33,13,10,6,7,1,9,80,51,33,11,10,6,9,108,550,433,92
 2014-6242,Winston-Salem,Hard,48,A,20140817,11,103794,,,Benjamin Becker,R,178,GER,33.1,105807,,,Pablo Carreno Busta,R,188,ESP,23.1,6-2 2-6 6-1,3,R64,85,9,4,69,37,32,13,12,5,7,2,3,73,45,28,13,11,4,8,58,813,75,691
 2014-6242,Winston-Salem,Hard,48,A,20140817,12,105676,,Q,David Goffin,R,180,BEL,23.6,103781,,,Jurgen Melzer,L,183,AUT,33.2,6-3 6-4,3,R64,80,8,2,68,39,29,19,10,6,6,2,1,52,27,19,16,9,1,3,62,793,68,770
-2014-6242,Winston-Salem,Hard,48,A,20140817,13,104460,,,Dustin Brown,R,196,GER,29.6,105292,,,Alejandro Gonzalez,R,,COL,25.5,6-3 6-2,3,R64,49,10,1,50,31,28,8,9,2,3,1,4,51,28,18,9,8,6,10,98,591,101,577
+2014-6242,Winston-Salem,Hard,48,A,20140817,13,104460,,,Dustin Brown,R,196,GER,29.6,105292,,,Alejandro Gonzalez,R,190,COL,25.5,6-3 6-2,3,R64,49,10,1,50,31,28,8,9,2,3,1,4,51,28,18,9,8,6,10,98,591,101,577
 2014-6242,Winston-Salem,Hard,48,A,20140817,14,104433,,,Frank Dancevic,R,185,CAN,29.8,105064,,,Thomaz Bellucci,L,188,BRA,26.6,7-5 3-6 6-2,3,R64,126,8,5,96,55,43,14,15,6,10,7,4,77,36,26,20,14,2,7,138,429,92,618
 2014-6242,Winston-Salem,Hard,48,A,20140817,15,105023,,,Sam Querrey,R,198,USA,26.8,105137,,,Pere Riba,R,183,ESP,26.3,7-6(5) 6-4,3,R64,79,16,1,63,36,28,21,11,1,1,9,3,77,38,27,23,11,2,3,56,820,116,527
 2014-6242,Winston-Salem,Hard,48,A,20140817,16,105173,,,Adrian Mannarino,L,183,FRA,26.1,106000,,Q,Damir Dzumhur,R,172,BIH,22.2,6-2 6-2,3,R64,62,2,1,42,29,20,8,8,0,2,1,4,42,26,9,6,8,0,6,90,622,120,507
@@ -2339,15 +2339,15 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-560,US Open,Hard,128,G,20140825,43,105668,,,Jerzy Janowicz,R,203,POL,23.7,105583,,,Dusan Lajovic,R,180,SRB,24.1,6-3 7-5 5-7 7-5,5,R128,179,20,8,123,78,57,27,23,2,6,7,4,165,106,65,31,22,9,15,43,995,61,800
 2014-560,US Open,Hard,128,G,20140825,44,104731,18,,Kevin Anderson,R,203,RSA,28.2,104655,,,Pablo Cuevas,R,180,URU,28.6,6-3 6-7(3) 4-6 6-2 7-6(1),5,R128,242,29,5,172,121,91,25,26,14,17,10,9,158,86,68,35,25,9,14,20,1795,40,1059
 2014-560,US Open,Hard,128,G,20140825,45,104468,26,,Gilles Simon,R,183,FRA,29.6,105430,,Q,Radu Albot,R,175,MDA,24.7,6-3 6-4 6-2,5,R128,129,12,1,98,52,39,28,14,7,7,3,3,83,54,36,10,13,4,8,31,1180,201,241
-2014-560,US Open,Hard,128,G,20140825,46,105643,,,Federico Delbonis,L,190,ARG,23.8,111511,,WC,Noah Rubin,R,,USA,18.5,6-4 6-3 6-0,5,R128,99,12,1,66,41,31,15,12,2,4,0,1,80,41,21,17,13,7,15,66,775,585,52
+2014-560,US Open,Hard,128,G,20140825,46,105643,,,Federico Delbonis,L,190,ARG,23.8,111511,,WC,Noah Rubin,R,175,USA,18.5,6-4 6-3 6-0,5,R128,99,12,1,66,41,31,15,12,2,4,0,1,80,41,21,17,13,7,15,66,775,585,52
 2014-560,US Open,Hard,128,G,20140825,47,106071,,WC,Bernard Tomic,R,193,AUS,21.8,104460,,,Dustin Brown,R,196,GER,29.7,7-6(2) 6-4 7-6(3),5,R128,114,21,1,116,76,64,22,17,3,3,11,3,118,75,51,26,17,8,9,67,771,97,591
 2014-560,US Open,Hard,128,G,20140825,48,103970,4,,David Ferrer,R,175,ESP,32.3,106000,,,Damir Dzumhur,R,172,BIH,22.2,6-1 6-2 2-6 6-2,5,R128,134,5,4,102,59,41,20,15,6,9,0,4,94,62,34,12,16,4,12,5,4765,119,512
 2014-560,US Open,Hard,128,G,20140825,49,105777,7,,Grigor Dimitrov,R,188,BUL,23.2,105992,,WC,Ryan Harrison,R,183,USA,22.2,6-2 7-6(4) 6-2,5,R128,124,8,0,78,42,35,24,14,1,2,3,6,104,59,36,21,14,8,13,8,3540,184,282
 2014-560,US Open,Hard,128,G,20140825,50,104534,,,Dudi Sela,R,175,ISR,29.3,104122,,,Carlos Berlocq,R,183,ARG,31.5,1-6 6-3 6-2 7-5,5,R128,163,5,1,109,68,46,27,18,4,7,12,5,123,67,44,28,18,7,12,83,648,63,785
 2014-560,US Open,Hard,128,G,20140825,51,105676,,,David Goffin,R,180,BEL,23.7,104944,,Q,Niels Desein,R,190,BEL,27.2,6-1 6-3 6-3,5,R128,91,9,2,62,39,33,16,13,1,2,5,4,84,53,33,10,12,6,12,56,828,238,206
 2014-560,US Open,Hard,128,G,20140825,52,105311,32,,Joao Sousa,R,185,POR,25.4,104433,,,Frank Dancevic,R,185,CAN,29.9,7-6(6) 3-6 6-2 4-6 7-6(2),5,R128,212,9,7,181,101,72,43,25,10,14,13,2,166,90,62,44,26,4,8,38,1077,135,439
-2014-560,US Open,Hard,128,G,20140825,53,104792,20,,Gael Monfils,R,193,FRA,27.9,111577,,WC,Jared Donaldson,R,,USA,17.8,6-4 6-2 6-4,5,R128,121,8,6,91,49,38,23,14,5,6,4,3,103,60,35,20,14,7,12,24,1530,303,147
-2014-560,US Open,Hard,128,G,20140825,54,105292,,,Alejandro Gonzalez,R,,COL,25.5,104098,,,Dmitry Tursunov,R,185,RUS,31.7,6-4 6-4 7-5,5,R128,122,12,2,83,50,44,20,16,1,2,6,5,116,68,41,26,16,6,10,100,577,58,815
+2014-560,US Open,Hard,128,G,20140825,53,104792,20,,Gael Monfils,R,193,FRA,27.9,111577,,WC,Jared Donaldson,R,188,USA,17.8,6-4 6-2 6-4,5,R128,121,8,6,91,49,38,23,14,5,6,4,3,103,60,35,20,14,7,12,24,1530,303,147
+2014-560,US Open,Hard,128,G,20140825,54,105292,,,Alejandro Gonzalez,R,190,COL,25.5,104098,,,Dmitry Tursunov,R,185,RUS,31.7,6-4 6-4 7-5,5,R128,122,12,2,83,50,44,20,16,1,2,6,5,116,68,41,26,16,6,10,100,577,58,815
 2014-560,US Open,Hard,128,G,20140825,55,103893,,,Paolo Lorenzi,R,183,ITA,32.6,106415,,Q,Yoshihito Nishioka,L,170,JPN,18.9,6-1 6-2 2-1 RET,5,R128,86,4,0,45,22,19,17,9,0,0,1,5,66,36,21,10,9,5,10,78,674,245,200
 2014-560,US Open,Hard,128,G,20140825,56,104755,12,,Richard Gasquet,R,185,FRA,28.1,104797,,,Denis Istomin,R,188,UZB,27.9,7-5 7-6(5) 6-4,5,R128,157,9,2,99,61,49,22,17,1,3,18,1,108,72,54,16,17,8,12,14,2360,44,985
 2014-560,US Open,Hard,128,G,20140825,57,104926,15,,Fabio Fognini,R,178,ITA,27.2,104979,,,Andrey Golubev,R,185,KAZ,27.0,6-4 6-4 6-2,5,R128,115,6,2,88,49,39,23,14,7,8,3,6,95,51,36,18,14,9,14,17,1835,64,782
@@ -2384,7 +2384,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-560,US Open,Hard,128,G,20140825,88,103970,4,,David Ferrer,R,175,ESP,32.3,106071,,WC,Bernard Tomic,R,193,AUS,21.8, W/O,5,R64,,,,,,,,,,,,,,,,,,,,5,4765,67,771
 2014-560,US Open,Hard,128,G,20140825,89,105777,7,,Grigor Dimitrov,R,188,BUL,23.2,104534,,,Dudi Sela,R,175,ISR,29.3,6-1 6-2 6-2,5,R64,89,7,3,67,42,30,18,12,5,6,0,3,65,36,19,11,11,10,17,8,3540,83,648
 2014-560,US Open,Hard,128,G,20140825,90,105676,,,David Goffin,R,180,BEL,23.7,105311,32,,Joao Sousa,R,185,POR,25.4,6-4 6-2 6-0,5,R64,104,9,2,79,53,38,11,12,7,10,4,2,82,44,26,8,12,6,15,56,828,38,1077
-2014-560,US Open,Hard,128,G,20140825,91,104792,20,,Gael Monfils,R,193,FRA,27.9,105292,,,Alejandro Gonzalez,R,,COL,25.5,7-5 6-3 6-2,5,R64,127,8,10,96,47,35,26,14,6,8,2,4,98,57,32,18,15,10,17,24,1530,100,577
+2014-560,US Open,Hard,128,G,20140825,91,104792,20,,Gael Monfils,R,193,FRA,27.9,105292,,,Alejandro Gonzalez,R,190,COL,25.5,7-5 6-3 6-2,5,R64,127,8,10,96,47,35,26,14,6,8,2,4,98,57,32,18,15,10,17,24,1530,100,577
 2014-560,US Open,Hard,128,G,20140825,92,104755,12,,Richard Gasquet,R,185,FRA,28.1,103893,,,Paolo Lorenzi,R,183,ITA,32.6,7-6(4) 6-3 6-3,5,R64,138,14,2,88,59,46,18,15,1,2,11,5,106,56,40,21,15,14,18,14,2360,78,674
 2014-560,US Open,Hard,128,G,20140825,93,105173,,,Adrian Mannarino,L,183,FRA,26.1,104926,15,,Fabio Fognini,R,178,ITA,27.2,6-3 6-4 6-1,5,R64,117,12,7,86,47,34,20,13,5,8,2,10,111,54,33,20,13,14,22,89,622,17,1835
 2014-560,US Open,Hard,128,G,20140825,94,105138,17,,Roberto Bautista Agut,R,183,ESP,26.3,105065,,WC,Tim Smyczek,R,175,USA,26.6,6-3 6-2 6-1,5,R64,97,7,2,68,48,40,11,12,3,3,4,5,84,49,28,16,12,6,12,19,1800,90,621
@@ -2431,13 +2431,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-D061,Davis Cup G1 PO: RUS vs POR,Hard,4,D,20140912,1,105723,,,Andrey Kuznetsov,R,185,RUS,23.5,105671,,,Gastao Elias,R,178,POR,23.7,6-2 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,81,672,139,419
 2014-D061,Davis Cup G1 PO: RUS vs POR,Hard,4,D,20140912,2,105539,,,Evgeny Donskoy,R,185,RUS,24.3,105311,,,Joao Sousa,R,185,POR,25.4,7-6(7) 6-4 3-6 6-1,5,RR,,,,,,,,,,,,,,,,,,,,135,433,40,1032
 2014-D061,Davis Cup G1 PO: RUS vs POR,Hard,4,D,20140912,4,104349,,,Rui Machado,R,178,POR,30.4,104505,,,Konstantin Kravchuk,R,190,RUS,29.5,6-7(4) 6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,280,162,217,224
-2014-D061,Davis Cup G1 PO: RUS vs POR,Hard,4,D,20140912,5,126094,,,Andrey Rublev,R,188,RUS,16.8,106393,,,Frederico Ferreira Silva,L,,POR,19.4,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,495,72,332,134
-2014-D041,Davis Cup G1 PO: TPE vs KOR,Hard,4,D,20140912,1,105790,,,Yong Kyu Lim,R,,KOR,23.2,105490,,,Jui Chen Hung,R,,TPE,24.5,6-2 6-2 6-0,5,RR,,,,,,,,,,,,,,,,,,,,396,106,756,28
+2014-D061,Davis Cup G1 PO: RUS vs POR,Hard,4,D,20140912,5,126094,,,Andrey Rublev,R,188,RUS,16.8,106393,,,Frederico Ferreira Silva,L,178,POR,19.4,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,495,72,332,134
+2014-D041,Davis Cup G1 PO: TPE vs KOR,Hard,4,D,20140912,1,105790,,,Yong Kyu Lim,R,185,KOR,23.2,105490,,,Jui Chen Hung,R,,TPE,24.5,6-2 6-2 6-0,5,RR,,,,,,,,,,,,,,,,,,,,396,106,756,28
 2014-D041,Davis Cup G1 PO: TPE vs KOR,Hard,4,D,20140912,2,111202,,,Hyeon Chung,R,188,KOR,18.3,106237,,,Chieh Fu Wang,U,,TPE,20.9,6-4 7-5 6-2,5,RR,,,,,,,,,,,,,,,,,,,,180,285,806,23
 2014-D041,Davis Cup G1 PO: TPE vs KOR,Hard,4,D,20140912,4,111202,,,Hyeon Chung,R,188,KOR,18.3,104251,,,Ti Chen,R,183,TPE,30.9,6-0 3-6 6-7(3) 6-3 3-0 RET,5,RR,,,,,,,,,,,,,,,,,,,,180,285,244,200
 2014-D042,Davis Cup G1 PO: VEN vs URU,Hard,4,D,20140912,1,104655,,,Pablo Cuevas,R,180,URU,28.6,105703,,,Jesus Bandres,U,,VEN,23.6,6-3 6-2 6-1,5,RR,,,,,,,,,,,,,,,,,,,,39,1059,931,15
-2014-D042,Davis Cup G1 PO: VEN vs URU,Hard,4,D,20140912,2,105899,,,Martin Cuevas,R,,URU,22.6,106175,,,Ricardo Rodriguez,R,,VEN,21.3,7-5 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,,374,116,355,124
-2014-D042,Davis Cup G1 PO: VEN vs URU,Hard,4,D,20140912,4,106175,,,Ricardo Rodriguez,R,,VEN,21.3,105431,,,Ariel Behar,R,182,URU,24.8,2-1 RET,5,RR,,,,,,,,,,,,,,,,,,,,355,124,920,15
+2014-D042,Davis Cup G1 PO: VEN vs URU,Hard,4,D,20140912,2,105899,,,Martin Cuevas,R,188,URU,22.6,106175,,,Ricardo Rodriguez,R,189,VEN,21.3,7-5 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,,374,116,355,124
+2014-D042,Davis Cup G1 PO: VEN vs URU,Hard,4,D,20140912,4,106175,,,Ricardo Rodriguez,R,189,VEN,21.3,105431,,,Ariel Behar,R,182,URU,24.8,2-1 RET,5,RR,,,,,,,,,,,,,,,,,,,,355,124,920,15
 2014-D042,Davis Cup G1 PO: VEN vs URU,Hard,4,D,20140912,5,122687,,,Rodrigo Senattore,U,,URU,20.6,105703,,,Jesus Bandres,U,,VEN,23.6,4-6 7-5 6-3,3,RR,,,,,,,,,,,,,,,,,,,,1026,11,931,15
 2014-D038,Davis Cup G2 R3: BAR vs MEX,Hard,4,D,20140912,1,105853,,,Tigre Hank,U,188,MEX,22.9,104656,,,Haydn Lewis,L,,BAR,28.6,7-5 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,,470,82,,
 2014-D038,Davis Cup G2 R3: BAR vs MEX,Hard,4,D,20140912,2,105985,,,Darian King,R,188,BAR,22.3,104960,,,Miguel Angel Reyes Varela,R,175,MEX,27.2,6-4 6-4 6-2,5,RR,,,,,,,,,,,,,,,,,,,,319,139,648,41
@@ -2446,26 +2446,26 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-D074,Davis Cup G2 R3: BIH vs LTU,Hard,4,D,20140912,1,105575,,,Ricardas Berankis,R,175,LTU,24.2,105806,,,Mirza Basic,R,188,BIH,23.1,5-7 3-6 6-4 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,124,481,304,151
 2014-D074,Davis Cup G2 R3: BIH vs LTU,Hard,4,D,20140912,2,106000,,,Damir Dzumhur,R,172,BIH,22.3,105827,,,Laurynas Grigelis,R,183,LTU,23.0,6-7(5) 6-1 6-1 1-0 RET,5,RR,,,,,,,,,,,,,,,,,,,,113,524,236,206
 2014-D074,Davis Cup G2 R3: BIH vs LTU,Hard,4,D,20140912,4,105575,,,Ricardas Berankis,R,175,LTU,24.2,106000,,,Damir Dzumhur,R,172,BIH,22.3,6-4 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,124,481,113,524
-2014-D074,Davis Cup G2 R3: BIH vs LTU,Hard,4,D,20140912,5,123983,,,Nerman Fatic,U,,BIH,19.8,108748,,,Lukas Mugevicius,R,,LTU,19.7,6-7(6) 6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,808,23,818,22
+2014-D074,Davis Cup G2 R3: BIH vs LTU,Hard,4,D,20140912,5,123983,,,Nerman Fatic,U,191,BIH,19.8,108748,,,Lukas Mugevicius,R,188,LTU,19.7,6-7(6) 6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,808,23,818,22
 2014-D075,Davis Cup G2 R3: DEN vs MDA,Carpet,4,D,20140912,1,105430,,,Radu Albot,R,175,MDA,24.8,104952,,,Martin Pedersen,R,,DEN,27.2,7-5 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,187,275,758,27
 2014-D075,Davis Cup G2 R3: DEN vs MDA,Carpet,4,D,20140912,2,104233,,,Frederik Nielsen,R,190,DEN,31.0,106201,,,Maxim Dubarenco,R,,MDA,21.2,6-2 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,,658,39,387,111
 2014-D075,Davis Cup G2 R3: DEN vs MDA,Carpet,4,D,20140912,4,105430,,,Radu Albot,R,175,MDA,24.8,104233,,,Frederik Nielsen,R,190,DEN,31.0,7-5 6-3 6-3,5,RR,,,,,,,,,,,,,,,,,,,,187,275,658,39
 2014-D075,Davis Cup G2 R3: DEN vs MDA,Carpet,4,D,20140912,5,104952,,,Martin Pedersen,R,,DEN,27.2,106201,,,Maxim Dubarenco,R,,MDA,21.2,3-6 7-6(1) 6-4 3-6 7-5,5,RR,,,,,,,,,,,,,,,,,,,,758,27,387,111
-2014-D049,Davis Cup G2 R3: THA vs PAK,Hard,4,D,20140912,1,111181,,,Pruchya Isarow,R,,THA,18.8,103529,,,Aisam Ul Haq Qureshi,R,183,PAK,34.4,3-6 6-3 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,726,30,,
+2014-D049,Davis Cup G2 R3: THA vs PAK,Hard,4,D,20140912,1,111181,,,Pruchya Isarow,R,175,THA,18.8,103529,,,Aisam Ul Haq Qureshi,R,183,PAK,34.4,3-6 6-3 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,726,30,,
 2014-D049,Davis Cup G2 R3: THA vs PAK,Hard,4,D,20140912,2,103821,,,Danai Udomchoke,R,173,THA,33.0,108766,,,Samir Iftikhar,U,,PAK,22.4,6-0 6-4 6-1,5,RR,,,,,,,,,,,,,,,,,,,,293,157,,
 2014-D049,Davis Cup G2 R3: THA vs PAK,Hard,4,D,20140912,4,103821,,,Danai Udomchoke,R,173,THA,33.0,108782,,,Mahammad Abid,U,,PAK,20.2,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,293,157,,
-2014-D049,Davis Cup G2 R3: THA vs PAK,Hard,4,D,20140912,5,108766,,,Samir Iftikhar,U,,PAK,22.4,111181,,,Pruchya Isarow,R,,THA,18.8,4-6 6-3 1-1 RET,5,RR,,,,,,,,,,,,,,,,,,,,,,726,30
+2014-D049,Davis Cup G2 R3: THA vs PAK,Hard,4,D,20140912,5,108766,,,Samir Iftikhar,U,,PAK,22.4,111181,,,Pruchya Isarow,R,175,THA,18.8,4-6 6-3 1-1 RET,5,RR,,,,,,,,,,,,,,,,,,,,,,726,30
 2014-D021,Davis Cup WG PO: AUS vs UZB,Grass,4,D,20140912,1,106401,,,Nick Kyrgios,R,193,AUS,19.3,104797,,,Denis Istomin,R,188,UZB,28.0,6-4 7-5 6-4,5,RR,,,,,,,,,,,,,,,,,,,,53,860,55,815
 2014-D021,Davis Cup WG PO: AUS vs UZB,Grass,4,D,20140912,2,103720,,,Lleyton Hewitt,R,180,AUS,33.5,104736,,,Farrukh Dustov,R,196,UZB,28.2,6-4 6-4 6-2,5,RR,,,,,,,,,,,,,,,,,,,,49,880,133,443
 2014-D021,Davis Cup WG PO: AUS vs UZB,Grass,4,D,20140912,4,105032,,,Sam Groth,R,193,AUS,26.8,106381,,,Temur Ismailov,R,,UZB,19.6,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,97,609,527,65
-2014-D021,Davis Cup WG PO: AUS vs UZB,Grass,4,D,20140912,5,106401,,,Nick Kyrgios,R,193,AUS,19.3,122109,,,Sanjar Fayziev,U,,UZB,20.1,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,53,860,736,29
+2014-D021,Davis Cup WG PO: AUS vs UZB,Grass,4,D,20140912,5,106401,,,Nick Kyrgios,R,193,AUS,19.3,122109,,,Sanjar Fayziev,U,188,UZB,20.1,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,53,860,736,29
 2014-D017,Davis Cup WG PO: BRA vs ESP,Clay,4,D,20140912,1,105138,,,Roberto Bautista Agut,R,183,ESP,26.4,104297,,,Rogerio Dutra Silva,R,178,BRA,30.5,6-0 6-1 6-3,5,RR,,,,,,,,,,,,,,,,,,,,15,1935,201,250
 2014-D017,Davis Cup WG PO: BRA vs ESP,Clay,4,D,20140912,2,105064,,,Thomaz Bellucci,L,188,BRA,26.6,104665,,,Pablo Andujar,R,180,ESP,28.6,3-6 6-7(6) 6-4 7-5 6-3,5,RR,,,,,,,,,,,,,,,,,,,,83,653,44,926
 2014-D017,Davis Cup WG PO: BRA vs ESP,Clay,4,D,20140912,4,105064,,,Thomaz Bellucci,L,188,BRA,26.6,105138,,,Roberto Bautista Agut,R,183,ESP,26.4,6-4 3-6 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,83,653,15,1935
 2014-D019,Davis Cup WG PO: CAN vs COL,Hard,4,D,20140912,1,105577,,,Vasek Pospisil,R,193,CAN,24.2,105053,,,Santiago Giraldo,R,188,COL,26.7,6-3 7-6(2) 6-3,5,RR,,,,,,,,,,,,,,,,,,,,43,965,33,1180
-2014-D019,Davis Cup WG PO: CAN vs COL,Hard,4,D,20140912,2,105683,,,Milos Raonic,R,196,CAN,23.6,105292,,,Alejandro Gonzalez,R,,COL,25.5,6-3 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,7,4225,90,623
+2014-D019,Davis Cup WG PO: CAN vs COL,Hard,4,D,20140912,2,105683,,,Milos Raonic,R,196,CAN,23.6,105292,,,Alejandro Gonzalez,R,190,COL,25.5,6-3 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,7,4225,90,623
 2014-D019,Davis Cup WG PO: CAN vs COL,Hard,4,D,20140912,4,105683,,,Milos Raonic,R,196,CAN,23.6,105053,,,Santiago Giraldo,R,188,COL,26.7,6-1 7-6(2) 7-5,5,RR,,,,,,,,,,,,,,,,,,,,7,4225,33,1180
-2014-D019,Davis Cup WG PO: CAN vs COL,Hard,4,D,20140912,5,105292,,,Alejandro Gonzalez,R,,COL,25.5,104433,,,Frank Dancevic,R,185,CAN,29.9,4-6 7-5 6-2,3,RR,,,,,,,,,,,,,,,,,,,,90,623,147,379
+2014-D019,Davis Cup WG PO: CAN vs COL,Hard,4,D,20140912,5,105292,,,Alejandro Gonzalez,R,190,COL,25.5,104433,,,Frank Dancevic,R,185,CAN,29.9,4-6 7-5 6-2,3,RR,,,,,,,,,,,,,,,,,,,,90,623,147,379
 2014-D016,Davis Cup WG PO: IND vs SRB,Hard,4,D,20140912,1,105583,,,Dusan Lajovic,R,180,SRB,24.1,106026,,,Yuki Bhambri,R,183,IND,22.1,6-3 6-2 7-5,5,RR,,,,,,,,,,,,,,,,,,,,61,775,153,361
 2014-D016,Davis Cup WG PO: IND vs SRB,Hard,4,D,20140912,2,105936,,,Filip Krajinovic,R,185,SRB,22.5,104500,,,Somdev Devvarman,R,180,IND,29.5,6-1 4-6 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,107,561,144,391
 2014-D016,Davis Cup WG PO: IND vs SRB,Hard,4,D,20140912,4,104500,,,Somdev Devvarman,R,180,IND,29.5,105583,,,Dusan Lajovic,R,180,SRB,24.1,1-6 6-4 4-6 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,144,391,61,775
@@ -2497,7 +2497,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-341,Metz,Hard,28,A,20140915,1,104180,,,Gilles Muller,L,193,LUX,31.3,104273,,,Edouard Roger Vasselin,R,188,FRA,30.7,6-1 7-6(6),3,R32,74,18,2,63,48,39,9,10,4,4,6,5,60,40,27,11,9,6,8,66,763,54,850
 2014-341,Metz,Hard,28,A,20140915,2,104735,,,Tobias Kamke,R,180,GER,28.3,104932,,Q,Kenny De Schepper,L,203,FRA,27.2,6-3 7-6(5),3,R32,101,4,1,74,47,35,13,11,2,4,4,7,69,42,32,9,10,3,6,97,600,104,568
 2014-341,Metz,Hard,28,A,20140915,3,105676,8,,David Goffin,R,180,BEL,23.7,103722,,Q,Florent Serra,R,180,FRA,33.5,6-2 6-2,3,R32,58,7,2,48,25,20,15,8,0,0,2,0,46,29,16,7,8,3,7,45,923,450,88
-2014-341,Metz,Hard,28,A,20140915,4,103893,,,Paolo Lorenzi,R,183,ITA,32.7,106362,,WC,Laurent Lokoli,R,,FRA,19.9,6-2 6-4,3,R32,75,2,2,53,38,32,7,9,2,2,2,1,54,30,20,10,9,2,5,79,684,367,120
+2014-341,Metz,Hard,28,A,20140915,4,103893,,,Paolo Lorenzi,R,183,ITA,32.7,106362,,WC,Laurent Lokoli,R,188,FRA,19.9,6-2 6-4,3,R32,75,2,2,53,38,32,7,9,2,2,2,1,54,30,20,10,9,2,5,79,684,367,120
 2014-341,Metz,Hard,28,A,20140915,5,105526,,,Jan Lennard Struff,R,193,GER,24.3,105583,,,Dusan Lajovic,R,180,SRB,24.2,6-7(6) 6-3 6-3,3,R32,120,14,1,96,57,42,25,15,3,4,6,0,112,72,49,18,15,7,11,61,773,59,780
 2014-341,Metz,Hard,28,A,20140915,6,104871,5,,Jeremy Chardy,R,188,FRA,27.5,103917,,WC,Nicolas Mahut,R,190,FRA,32.6,7-6(5) 7-5,3,R32,99,8,1,64,37,33,17,12,0,1,4,3,72,44,32,16,12,1,3,35,1105,93,610
 2014-341,Metz,Hard,28,A,20140915,7,105311,6,,Joao Sousa,R,185,POR,25.4,104471,,,Ivan Dodig,R,183,CRO,29.7,6-2 6-2,3,R32,63,4,0,46,31,23,11,8,4,4,2,4,48,18,13,12,8,1,5,39,1032,64,770
@@ -2521,7 +2521,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-341,Metz,Hard,28,A,20140915,25,105676,8,,David Goffin,R,180,BEL,23.7,105526,,,Jan Lennard Struff,R,193,GER,24.3,7-6(4) 6-3,3,SF,93,14,3,79,49,42,12,11,5,6,12,2,69,43,32,11,10,2,4,45,923,61,773
 2014-341,Metz,Hard,28,A,20140915,26,105311,6,,Joao Sousa,R,185,POR,25.4,104792,2,,Gael Monfils,R,193,FRA,28.0,7-6(6) 6-2,3,SF,88,3,1,77,58,41,9,10,8,9,13,2,63,34,26,13,10,2,5,39,1032,18,1845
 2014-341,Metz,Hard,28,A,20140915,27,105676,8,,David Goffin,R,180,BEL,23.7,105311,6,,Joao Sousa,R,185,POR,25.4,6-4 6-3,3,F,74,10,2,51,33,27,12,9,4,4,2,0,60,37,23,13,10,6,9,45,923,39,1032
-2014-6003,Kuala Lumpur,Hard,28,A,20140922,1,104330,,,Rajeev Ram,R,193,USA,30.5,117357,,WC,Omar Jasika,L,,AUS,17.3,4-6 7-5 6-3,3,R32,106,12,2,80,46,35,19,15,3,6,3,3,91,60,37,15,16,3,8,150,363,787,24
+2014-6003,Kuala Lumpur,Hard,28,A,20140922,1,104330,,,Rajeev Ram,R,193,USA,30.5,117357,,WC,Omar Jasika,L,183,AUS,17.3,4-6 7-5 6-3,3,R32,106,12,2,80,46,35,19,15,3,6,3,3,91,60,37,15,16,3,8,150,363,787,24
 2014-6003,Kuala Lumpur,Hard,28,A,20140922,2,104424,,,Go Soeda,R,178,JPN,30.0,105059,,Q,Kento Takeuchi,L,,JPN,26.7,6-2 6-1,3,R32,61,0,1,42,22,17,10,8,1,3,0,2,43,18,7,8,7,2,8,109,553,441,92
 2014-6003,Kuala Lumpur,Hard,28,A,20140922,3,104594,,,Marinko Matosevic,R,194,AUS,29.1,106401,8,,Nick Kyrgios,R,193,AUS,19.4,7-6(4) 7-6(3),3,R32,93,7,4,75,46,36,18,12,0,1,11,4,86,50,41,16,12,6,7,78,682,51,865
 2014-6003,Kuala Lumpur,Hard,28,A,20140922,4,103813,,,Jarkko Nieminen,L,185,FIN,33.1,104667,,Q,Philipp Oswald,R,201,AUT,28.6,6-1 6-2,3,R32,49,1,0,40,27,24,9,8,3,3,3,4,38,20,11,8,7,1,5,57,803,1059,9
@@ -2550,7 +2550,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-6003,Kuala Lumpur,Hard,28,A,20140922,27,105453,1,,Kei Nishikori,R,178,JPN,24.7,103898,4,,Julien Benneteau,R,185,FRA,32.7,7-6(4) 6-4,3,F,108,2,3,69,44,35,15,11,2,3,9,1,90,59,38,15,11,9,11,8,3865,28,1205
 2014-6967,Shenzhen,Hard,28,A,20140922,1,104678,,Q,Viktor Troicki,R,193,SRB,28.6,105373,,Q,Martin Klizan,L,190,SVK,25.1,5-7 6-1 3-0 RET,3,R32,109,10,3,74,44,32,18,11,6,7,4,1,72,35,26,16,11,3,7,174,304,56,810
 2014-6967,Shenzhen,Hard,28,A,20140922,2,106423,,Q,Thanasi Kokkinakis,R,196,AUS,18.4,106078,,WC,Egor Gerasimov,R,196,BLR,21.8,7-6(3) 6-1,3,R32,73,5,2,55,27,24,22,10,2,2,7,4,63,34,28,10,9,2,4,184,283,237,204
-2014-6967,Shenzhen,Hard,28,A,20140922,3,105053,6,,Santiago Giraldo,R,188,COL,26.8,105999,,Q,Bowen Ouyang,L,,CHN,22.3,3-6 6-3 6-4,3,R32,117,10,2,80,56,41,13,14,6,8,8,5,95,52,37,21,14,7,10,30,1180,1098,9
+2014-6967,Shenzhen,Hard,28,A,20140922,3,105053,6,,Santiago Giraldo,R,188,COL,26.8,105999,,Q,Bowen Ouyang,L,186,CHN,22.3,3-6 6-3 6-4,3,R32,117,10,2,80,56,41,13,14,6,8,8,5,95,52,37,21,14,7,10,30,1180,1098,9
 2014-6967,Shenzhen,Hard,28,A,20140922,4,105032,,,Sam Groth,R,193,AUS,26.9,105902,,,James Duckworth,R,183,AUS,22.6,6-3 6-7(5) 6-3,3,R32,111,16,1,92,57,46,22,16,0,1,8,3,93,51,40,21,14,7,10,95,604,146,376
 2014-6967,Shenzhen,Hard,28,A,20140922,5,104620,,,Simone Bolelli,R,183,ITA,28.9,105051,,,Matthew Ebden,R,188,AUS,26.8,6-4 6-2,3,R32,63,7,2,44,26,23,13,9,0,0,8,4,49,22,16,12,9,0,3,76,687,98,579
 2014-6967,Shenzhen,Hard,28,A,20140922,6,104312,8,,Andreas Seppi,R,190,ITA,30.5,104216,,,Maximo Gonzalez,R,175,ARG,31.1,7-6(3) 6-2,3,R32,86,7,3,69,28,24,26,10,4,4,4,2,61,37,26,14,10,2,4,48,880,104,566
@@ -2559,7 +2559,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-6967,Shenzhen,Hard,28,A,20140922,9,104180,,,Gilles Muller,L,193,LUX,31.3,103843,,,Marco Chiudinelli,R,185,SUI,33.0,6-4 3-6 6-4,3,R32,130,22,2,73,46,41,13,14,0,1,5,2,91,59,42,19,15,3,5,60,783,163,331
 2014-6967,Shenzhen,Hard,28,A,20140922,10,105575,,,Ricardas Berankis,R,175,LTU,24.2,104468,5,,Gilles Simon,R,183,FRA,29.7,6-4 6-2,3,R32,79,1,4,53,26,19,17,9,1,2,2,1,53,26,13,16,9,3,7,120,464,34,1130
 2014-6967,Shenzhen,Hard,28,A,20140922,11,105041,,,Lukas Lacko,R,185,SVK,26.8,105539,,,Evgeny Donskoy,R,185,RUS,24.3,6-1 7-6(4),3,R32,84,4,1,54,32,26,15,9,0,0,7,5,72,33,22,20,10,6,9,85,644,132,421
-2014-6967,Shenzhen,Hard,28,A,20140922,12,104500,,,Somdev Devvarman,R,180,IND,29.6,106321,,WC,Xin Gao,U,,CHN,20.3,6-3 4-6 6-4,3,R32,128,7,5,90,51,37,19,15,3,6,6,5,87,43,30,23,14,4,8,141,401,944,14
+2014-6967,Shenzhen,Hard,28,A,20140922,12,104500,,,Somdev Devvarman,R,180,IND,29.6,106321,,WC,Xin Gao,U,180,CHN,20.3,6-3 4-6 6-4,3,R32,128,7,5,90,51,37,19,15,3,6,6,5,87,43,30,23,14,4,8,141,401,944,14
 2014-6967,Shenzhen,Hard,28,A,20140922,13,104678,,Q,Viktor Troicki,R,193,SRB,28.6,103970,1,,David Ferrer,R,175,ESP,32.4,6-3 6-4,3,R16,66,13,2,59,33,30,14,10,2,2,0,2,51,32,22,10,9,3,5,174,304,5,4495
 2014-6967,Shenzhen,Hard,28,A,20140922,14,105053,6,,Santiago Giraldo,R,188,COL,26.8,106423,,Q,Thanasi Kokkinakis,R,196,AUS,18.4,6-4 6-3,3,R16,82,4,0,48,33,28,9,9,0,0,11,3,68,37,28,11,10,2,5,30,1180,184,283
 2014-6967,Shenzhen,Hard,28,A,20140922,15,103990,4,,Tommy Robredo,R,180,ESP,32.3,105032,,,Sam Groth,R,193,AUS,26.9,1-6 7-5 6-3,3,R16,97,3,2,78,45,32,21,14,2,4,11,4,81,55,45,11,14,8,10,22,1645,95,604
@@ -2579,7 +2579,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-747,Beijing,Hard,32,A,20140929,2,105577,,,Vasek Pospisil,R,193,CAN,24.2,104586,,,Lukas Rosol,R,196,CZE,29.1,6-4 6-3,3,R32,72,10,3,63,34,24,15,10,4,6,1,2,51,33,20,7,9,3,7,41,965,26,1290
 2014-747,Beijing,Hard,32,A,20140929,3,104665,,,Pablo Andujar,R,180,ESP,28.6,103898,,,Julien Benneteau,R,185,FRA,32.7,6-4 6-1,3,R32,63,0,3,47,28,20,12,9,0,1,2,3,54,28,15,11,8,3,7,43,946,29,1205
 2014-747,Beijing,Hard,32,A,20140929,4,105777,5,,Grigor Dimitrov,R,188,BUL,23.3,104269,,,Fernando Verdasco,L,188,ESP,30.8,6-1 3-6 6-3,3,R32,95,11,2,84,53,39,18,13,7,8,3,4,72,51,35,11,12,8,11,10,3710,32,1135
-2014-747,Beijing,Hard,32,A,20140929,5,105227,4,,Marin Cilic,R,198,CRO,26.0,105339,,WC,Yan Bai,R,,CHN,25.3,6-3 6-4,3,R32,81,7,3,67,38,29,18,10,4,4,3,5,57,28,20,15,9,8,10,9,3845,464,82
+2014-747,Beijing,Hard,32,A,20140929,5,105227,4,,Marin Cilic,R,198,CRO,26.0,105339,,WC,Yan Bai,R,185,CHN,25.3,6-3 6-4,3,R32,81,7,3,67,38,29,18,10,4,4,3,5,57,28,20,15,9,8,10,9,3845,464,82
 2014-747,Beijing,Hard,32,A,20140929,6,105311,,,Joao Sousa,R,185,POR,25.5,104559,,Q,Teymuraz Gabashvili,R,188,RUS,29.3,1-6 7-6(4) 6-4,3,R32,125,3,5,95,56,38,21,14,6,9,1,3,91,51,37,22,15,3,5,52,862,55,837
 2014-747,Beijing,Hard,32,A,20140929,7,104655,,,Pablo Cuevas,R,180,URU,28.7,105062,,Q,Mikhail Kukushkin,R,183,KAZ,26.7,7-6(3) 3-6 6-4,3,R32,142,6,4,85,46,36,20,15,2,6,3,1,112,63,41,26,16,9,13,35,1084,89,632
 2014-747,Beijing,Hard,32,A,20140929,8,104918,6,,Andy Murray,R,190,GBR,27.3,105668,,,Jerzy Janowicz,R,203,POL,23.8,6-7(9) 6-4 6-2,3,R32,148,7,4,108,58,42,25,15,2,5,5,9,98,61,40,15,15,5,11,11,3365,36,1055
@@ -2701,7 +2701,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-438,Moscow,Hard,28,A,20141013,7,104022,7,,Mikhail Youzhny,R,183,RUS,32.3,106066,,Q,Victor Baluda,R,,RUS,22.0,6-3 6-4,3,R32,89,2,1,55,26,21,19,10,0,1,4,2,70,44,26,14,9,5,8,27,1305,466,80
 2014-438,Moscow,Hard,28,A,20141013,8,104338,,,Juan Monaco,R,185,ARG,30.5,103893,,,Paolo Lorenzi,R,183,ITA,32.8,6-3 5-7 6-3,3,R32,146,3,3,94,65,42,15,15,6,10,4,2,100,62,37,18,15,6,12,70,750,73,734
 2014-438,Moscow,Hard,28,A,20141013,9,105062,,,Mikhail Kukushkin,R,183,KAZ,26.7,111575,,WC,Karen Khachanov,R,198,RUS,18.3,6-7(3) 6-0 6-2,3,R32,124,6,1,89,56,41,16,13,2,3,4,3,90,56,32,14,13,9,15,74,732,282,169
-2014-438,Moscow,Hard,28,A,20141013,10,103990,6,,Tommy Robredo,R,180,ESP,32.4,106353,,Q,Pedja Krstin,R,,SRB,20.1,7-6(6) 6-4,3,R32,87,7,0,61,40,30,14,11,1,3,2,4,67,44,26,13,11,1,4,21,1715,263,181
+2014-438,Moscow,Hard,28,A,20141013,10,103990,6,,Tommy Robredo,R,180,ESP,32.4,106353,,Q,Pedja Krstin,R,183,SRB,20.1,7-6(6) 6-4,3,R32,87,7,0,61,40,30,14,11,1,3,2,4,67,44,26,13,11,1,4,21,1715,263,181
 2014-438,Moscow,Hard,28,A,20141013,11,105936,,,Filip Krajinovic,R,185,SRB,22.6,104291,,,Malek Jaziri,R,185,TUN,30.7,6-4 6-2,3,R32,68,4,0,49,30,23,13,9,1,2,5,1,79,39,26,14,9,11,15,96,574,75,728
 2014-438,Moscow,Hard,28,A,20141013,12,105539,,WC,Evgeny Donskoy,R,185,RUS,24.4,104534,,,Dudi Sela,R,175,ISR,29.5,6-4 6-0,3,R32,63,8,2,46,26,23,12,8,3,3,1,5,61,34,20,11,8,6,10,128,421,106,532
 2014-438,Moscow,Hard,28,A,20141013,13,105575,,Q,Ricardas Berankis,R,175,LTU,24.3,105683,1,,Milos Raonic,R,196,CAN,23.7,6-3 4-6 6-3,3,R16,113,7,3,83,59,42,12,14,3,5,15,3,85,50,38,14,14,3,7,116,488,9,3885
@@ -2727,7 +2727,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-429,Stockholm,Hard,28,A,20141013,6,104919,5,,Leonardo Mayer,R,188,ARG,27.4,105385,,,Donald Young,L,183,USA,25.2,6-4 6-4,3,R32,76,6,2,49,30,27,13,10,0,0,2,4,86,57,35,14,10,8,10,25,1384,69,751
 2014-429,Stockholm,Hard,28,A,20141013,7,104269,7,,Fernando Verdasco,L,188,ESP,30.9,104594,,,Marinko Matosevic,R,194,AUS,29.1,6-3 3-6 6-3,3,R32,107,8,4,90,55,47,15,14,8,9,4,2,79,44,30,22,13,4,6,36,1090,82,682
 2014-429,Stockholm,Hard,28,A,20141013,8,103813,,,Jarkko Nieminen,L,185,FIN,33.2,105077,,,Albert Ramos,L,188,ESP,26.7,6-4 6-4,3,R32,93,5,4,73,53,39,8,10,2,3,2,1,65,38,23,14,10,8,11,57,813,67,761
-2014-429,Stockholm,Hard,28,A,20141013,9,106071,,,Bernard Tomic,R,193,AUS,21.9,105113,,WC,Patrik Rosenholm,R,,SWE,26.6,7-6(1) 5-7 6-4,3,R32,116,19,2,104,68,51,21,17,1,3,13,1,95,59,46,21,17,3,5,76,726,371,117
+2014-429,Stockholm,Hard,28,A,20141013,9,106071,,,Bernard Tomic,R,193,AUS,21.9,105113,,WC,Patrik Rosenholm,R,178,SWE,26.6,7-6(1) 5-7 6-4,3,R32,116,19,2,104,68,51,21,17,1,3,13,1,95,59,46,21,17,3,5,76,726,371,117
 2014-429,Stockholm,Hard,28,A,20141013,10,104871,6,,Jeremy Chardy,R,188,FRA,27.6,111200,,WC,Elias Ymer,R,183,SWE,18.5,6-3 6-4,3,R32,69,6,3,64,41,31,12,10,5,6,2,2,44,25,17,10,9,0,3,34,1115,238,203
 2014-429,Stockholm,Hard,28,A,20141013,11,106058,,,Jack Sock,R,185,USA,22.0,104979,,,Andrey Golubev,R,185,KAZ,27.2,6-1 4-6 6-0,3,R32,103,11,3,64,38,32,14,11,2,3,5,6,96,60,33,16,12,11,17,51,871,58,803
 2014-429,Stockholm,Hard,28,A,20141013,12,104559,,,Teymuraz Gabashvili,R,188,RUS,29.3,104268,,,Alejandro Falla,L,185,COL,30.9,6-2 6-4,3,R32,70,3,4,61,32,25,8,9,5,8,1,1,53,28,17,5,9,3,9,59,797,81,691
@@ -2810,7 +2810,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-573,Valencia,Hard,32,A,20141020,4,105138,6,,Roberto Bautista Agut,R,183,ESP,26.5,105053,,,Santiago Giraldo,R,188,COL,26.8,6-4 6-4,3,R32,70,1,2,48,37,32,8,10,0,0,1,1,59,40,23,13,10,0,2,14,2065,32,1200
 2014-573,Valencia,Hard,32,A,20141020,5,104918,3,,Andy Murray,R,190,GBR,27.4,103781,,,Jurgen Melzer,L,183,AUT,33.4,6-3 6-3,3,R32,80,10,3,52,32,26,6,9,5,8,0,2,59,39,19,7,9,5,11,10,3795,121,460
 2014-573,Valencia,Hard,32,A,20141020,6,104926,,,Fabio Fognini,R,178,ITA,27.4,105077,,Q,Albert Ramos,L,188,ESP,26.7,6-4 6-2,3,R32,68,3,1,43,27,23,13,9,0,0,2,6,67,41,26,12,9,6,9,19,1790,68,761
-2014-573,Valencia,Hard,32,A,20141020,7,105373,,,Martin Klizan,L,190,SVK,25.2,111578,,WC,Stefan Kozlov,R,,USA,16.7,6-3 6-3,3,R32,82,1,3,62,36,27,13,9,5,6,2,4,55,31,19,12,9,7,11,37,1067,441,87
+2014-573,Valencia,Hard,32,A,20141020,7,105373,,,Martin Klizan,L,190,SVK,25.2,111578,,WC,Stefan Kozlov,R,183,USA,16.7,6-3 6-3,3,R32,82,1,3,62,36,27,13,9,5,6,2,4,55,31,19,12,9,7,11,37,1067,441,87
 2014-573,Valencia,Hard,32,A,20141020,8,104731,7,,Kevin Anderson,R,203,RSA,28.4,104259,,,Philipp Kohlschreiber,R,178,GER,31.0,6-3 6-4,3,R32,83,12,2,65,53,38,8,10,8,8,4,2,64,32,21,17,9,5,7,17,1875,23,1460
 2014-573,Valencia,Hard,32,A,20141020,9,105238,,,Alexandr Dolgopolov,R,180,UKR,25.9,104468,8,,Gilles Simon,R,183,FRA,29.8,6-0 6-3,3,R32,66,10,2,55,29,23,12,8,4,5,2,3,55,29,15,9,7,9,14,24,1455,18,1810
 2014-573,Valencia,Hard,32,A,20141020,10,104871,,,Jeremy Chardy,R,188,FRA,27.6,104291,,Q,Malek Jaziri,R,185,TUN,30.7,6-2 6-1,3,R32,47,6,2,35,19,18,10,7,0,0,2,1,49,23,15,5,8,1,6,34,1115,74,728

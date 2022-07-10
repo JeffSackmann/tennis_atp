@@ -236,7 +236,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-M-SA-ESP-01A-1997a,Spain 1 Masters 1,Clay,24,S,19970103,3,102153,,,German Puentes,R,173,ESP,24.0,103176,,,David Sanchez,R,183,ESP,18.6,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,244,157,408,70
 1997-M-SA-ESP-01A-1997a,Spain 1 Masters 1,Clay,24,S,19970103,4,102614,,,Victor Sendin,R,175,ESP,21.5,101740,,,Sascha Nensel,R,180,GER,26.6,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,294,120,454,55
 1997-M-SA-ESP-01A-1997a,Spain 1 Masters 1,Clay,24,S,19970103,5,102548,,,Juan Antonio Marin,R,175,CRC,21.8,101982,,,Jordi Mas,R,,ESP,25.1,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,217,178,404,
-1997-M-SA-ESP-01A-1997a,Spain 1 Masters 1,Clay,24,S,19970103,6,109771,,,Jairo Velasco,R,,ESP,49.6,102522,,,Fabio Maggi,R,175,ITA,21.9,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,255,149
+1997-M-SA-ESP-01A-1997a,Spain 1 Masters 1,Clay,24,S,19970103,6,109771,,,Jairo Velasco,R,173,ESP,49.6,102522,,,Fabio Maggi,R,175,ITA,21.9,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,255,149
 1997-M-SA-ESP-01A-1997a,Spain 1 Masters 1,Clay,24,S,19970103,7,102001,,,German Lopez,R,193,ESP,25.0,102952,,,Jose Maria Vicente,R,,ESP,19.8,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,396,74,590,
 1997-M-SA-ESP-01A-1997a,Spain 1 Masters 1,Clay,24,S,19970103,8,102506,,,Quino Munoz,R,178,ESP,21.9,103032,,,Francisco Fogues,L,190,ESP,19.4,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,532,37,377,
 1997-M-SA-ESP-01A-1997a,Spain 1 Masters 1,Clay,24,S,19970103,9,102905,1,,Stefan Koubek,L,175,AUT,19.9,102449,,,Carlos Martinez Comet,R,,ESP,22.3,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,311,112,564,32
@@ -244,7 +244,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-M-SA-ESP-01A-1997a,Spain 1 Masters 1,Clay,24,S,19970103,11,102287,3,,Albert Portas,R,188,ESP,23.1,102153,,,German Puentes,R,173,ESP,24.0,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,182,234,244,157
 1997-M-SA-ESP-01A-1997a,Spain 1 Masters 1,Clay,24,S,19970103,12,101869,5,,Juan Luis Tati Rascon,R,,ESP,25.8,102614,,,Victor Sendin,R,175,ESP,21.5,6-1 1-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,248,152,294,120
 1997-M-SA-ESP-01A-1997a,Spain 1 Masters 1,Clay,24,S,19970103,13,102548,,,Juan Antonio Marin,R,175,CRC,21.8,102231,6,,Alex Calatrava,R,190,ESP,23.5,7-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,217,178,390,77
-1997-M-SA-ESP-01A-1997a,Spain 1 Masters 1,Clay,24,S,19970103,14,102607,4,,Juan Balcells,R,190,ESP,21.5,109771,,,Jairo Velasco,R,,ESP,49.6,7-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,230,170,,
+1997-M-SA-ESP-01A-1997a,Spain 1 Masters 1,Clay,24,S,19970103,14,102607,4,,Juan Balcells,R,190,ESP,21.5,109771,,,Jairo Velasco,R,173,ESP,49.6,7-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,230,170,,
 1997-M-SA-ESP-01A-1997a,Spain 1 Masters 1,Clay,24,S,19970103,15,103031,7,,Julian Alonso,R,185,ESP,19.4,102001,,,German Lopez,R,193,ESP,25.0,7-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,227,173,396,74
 1997-M-SA-ESP-01A-1997a,Spain 1 Masters 1,Clay,24,S,19970103,16,101826,2,,Alex Lopez Moron,R,175,ESP,26.0,102506,,,Quino Munoz,R,178,ESP,21.9,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,622,25,532,37
 1997-M-SA-ESP-01A-1997a,Spain 1 Masters 1,Clay,24,S,19970103,17,102905,1,,Stefan Koubek,L,175,AUT,19.9,102768,8,,Federico Browne,R,180,ARG,20.7,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,311,112,306,114
@@ -256,7 +256,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-M-SA-ESP-01A-1997a,Spain 1 Masters 1,Clay,24,S,19970103,23,102548,,,Juan Antonio Marin,R,175,CRC,21.8,102287,3,,Albert Portas,R,188,ESP,23.1,6-4 6-0,3,F,,,,,,,,,,,,,,,,,,,,217,178,182,234
 1997-M-SA-ESP-01A-1997b,Spain 1 Masters 2,Clay,32,S,19970103,1,102905,1,,Stefan Koubek,L,175,AUT,19.9,103032,,,Francisco Fogues,L,190,ESP,19.4,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,311,112,377,
 1997-M-SA-ESP-01A-1997b,Spain 1 Masters 2,Clay,32,S,19970103,2,102506,,,Quino Munoz,R,178,ESP,21.9,122988,,WC,Christian Mazon Andersen,U,,ESP,20.3,6-4 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,532,37,,
-1997-M-SA-ESP-01A-1997b,Spain 1 Masters 2,Clay,32,S,19970103,3,109771,,Q,Jairo Velasco,R,,ESP,49.6,103176,,,David Sanchez,R,183,ESP,18.6,4-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,408,70
+1997-M-SA-ESP-01A-1997b,Spain 1 Masters 2,Clay,32,S,19970103,3,109771,,Q,Jairo Velasco,R,173,ESP,49.6,103176,,,David Sanchez,R,183,ESP,18.6,4-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,408,70
 1997-M-SA-ESP-01A-1997b,Spain 1 Masters 2,Clay,32,S,19970103,4,103291,,Q,Antonio Gordon,R,,ESP,18.0,102001,7,,German Lopez,R,193,ESP,25.0,4-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,683,,396,74
 1997-M-SA-ESP-01A-1997b,Spain 1 Masters 2,Clay,32,S,19970103,5,102173,,,Rainer Falenti,R,,AUT,23.8,102231,4,,Alex Calatrava,R,190,ESP,23.5,1-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,328,103,390,77
 1997-M-SA-ESP-01A-1997b,Spain 1 Masters 2,Clay,32,S,19970103,6,102522,,Q,Fabio Maggi,R,175,ITA,21.9,103242,,Q,Juan Giner,R,178,ESP,18.4,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,255,149,795,
@@ -271,14 +271,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-M-SA-ESP-01A-1997b,Spain 1 Masters 2,Clay,32,S,19970103,15,102768,,Q,Federico Browne,R,180,ARG,20.7,101740,,,Sascha Nensel,R,180,GER,26.6,2-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,306,114,454,55
 1997-M-SA-ESP-01A-1997b,Spain 1 Masters 2,Clay,32,S,19970103,16,102607,2,,Juan Balcells,R,190,ESP,21.5,102952,,,Jose Maria Vicente,R,,ESP,19.8,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,230,170,590,
 1997-M-SA-ESP-01A-1997b,Spain 1 Masters 2,Clay,32,S,19970103,17,102905,1,,Stefan Koubek,L,175,AUT,19.9,102506,,,Quino Munoz,R,178,ESP,21.9,3-6 7-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,311,112,532,37
-1997-M-SA-ESP-01A-1997b,Spain 1 Masters 2,Clay,32,S,19970103,18,109771,,Q,Jairo Velasco,R,,ESP,49.6,103291,,Q,Antonio Gordon,R,,ESP,18.0,7-6 3-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,,,,683,
+1997-M-SA-ESP-01A-1997b,Spain 1 Masters 2,Clay,32,S,19970103,18,109771,,Q,Jairo Velasco,R,173,ESP,49.6,103291,,Q,Antonio Gordon,R,,ESP,18.0,7-6 3-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,,,,683,
 1997-M-SA-ESP-01A-1997b,Spain 1 Masters 2,Clay,32,S,19970103,19,102173,,,Rainer Falenti,R,,AUT,23.8,102522,,Q,Fabio Maggi,R,175,ITA,21.9,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,328,103,255,149
 1997-M-SA-ESP-01A-1997b,Spain 1 Masters 2,Clay,32,S,19970103,20,101869,5,,Juan Luis Tati Rascon,R,,ESP,25.8,102818,,,Sergi Duran,R,,ESP,20.5,6-4 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,248,152,536,35
 1997-M-SA-ESP-01A-1997b,Spain 1 Masters 2,Clay,32,S,19970103,21,101826,6,,Alex Lopez Moron,R,175,ESP,26.0,102614,,,Victor Sendin,R,175,ESP,21.5,6-1 2-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,622,25,294,120
 1997-M-SA-ESP-01A-1997b,Spain 1 Masters 2,Clay,32,S,19970103,22,102287,3,,Albert Portas,R,188,ESP,23.1,102449,,Q,Carlos Martinez Comet,R,,ESP,22.3,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,182,234,564,32
 1997-M-SA-ESP-01A-1997b,Spain 1 Masters 2,Clay,32,S,19970103,23,102548,,,Juan Antonio Marin,R,175,CRC,21.8,103031,8,,Julian Alonso,R,185,ESP,19.4,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,217,178,227,173
 1997-M-SA-ESP-01A-1997b,Spain 1 Masters 2,Clay,32,S,19970103,24,102768,,Q,Federico Browne,R,180,ARG,20.7,102607,2,,Juan Balcells,R,190,ESP,21.5,6-4 2-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,,306,114,230,170
-1997-M-SA-ESP-01A-1997b,Spain 1 Masters 2,Clay,32,S,19970103,25,102905,1,,Stefan Koubek,L,175,AUT,19.9,109771,,Q,Jairo Velasco,R,,ESP,49.6,6-4 6-0,3,QF,,,,,,,,,,,,,,,,,,,,311,112,,
+1997-M-SA-ESP-01A-1997b,Spain 1 Masters 2,Clay,32,S,19970103,25,102905,1,,Stefan Koubek,L,175,AUT,19.9,109771,,Q,Jairo Velasco,R,173,ESP,49.6,6-4 6-0,3,QF,,,,,,,,,,,,,,,,,,,,311,112,,
 1997-M-SA-ESP-01A-1997b,Spain 1 Masters 2,Clay,32,S,19970103,26,101869,5,,Juan Luis Tati Rascon,R,,ESP,25.8,102173,,,Rainer Falenti,R,,AUT,23.8,4-6 6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,248,152,328,103
 1997-M-SA-ESP-01A-1997b,Spain 1 Masters 2,Clay,32,S,19970103,27,101826,6,,Alex Lopez Moron,R,175,ESP,26.0,102287,3,,Albert Portas,R,188,ESP,23.1,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,622,25,182,234
 1997-M-SA-ESP-01A-1997b,Spain 1 Masters 2,Clay,32,S,19970103,28,102768,,Q,Federico Browne,R,180,ARG,20.7,102548,,,Juan Antonio Marin,R,175,CRC,21.8,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,306,114,217,178
@@ -295,7 +295,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-M-SA-ESP-01A-1997c,Spain 1 Masters 3,Clay,32,S,19970103,8,102905,,,Stefan Koubek,L,175,AUT,19.9,102153,5,,German Puentes,R,173,ESP,24.0,3-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,311,112,244,157
 1997-M-SA-ESP-01A-1997c,Spain 1 Masters 3,Clay,32,S,19970103,9,101740,,Q,Sascha Nensel,R,180,GER,26.6,117527,6,,Oscar Martinez Dieguez,R,,ESP,22.8,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,454,55,,
 1997-M-SA-ESP-01A-1997c,Spain 1 Masters 3,Clay,32,S,19970103,10,102506,,WC,Quino Munoz,R,178,ESP,21.9,102449,,Q,Carlos Martinez Comet,R,,ESP,22.3,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,532,37,564,32
-1997-M-SA-ESP-01A-1997c,Spain 1 Masters 3,Clay,32,S,19970103,11,103032,,,Francisco Fogues,L,190,ESP,19.4,109771,,Q,Jairo Velasco,R,,ESP,49.6,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,377,,,
+1997-M-SA-ESP-01A-1997c,Spain 1 Masters 3,Clay,32,S,19970103,11,103032,,,Francisco Fogues,L,190,ESP,19.4,109771,,Q,Jairo Velasco,R,173,ESP,49.6,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,377,,,
 1997-M-SA-ESP-01A-1997c,Spain 1 Masters 3,Clay,32,S,19970103,12,102607,4,,Juan Balcells,R,190,ESP,21.5,103231,,Q,Pedro Nieto,R,,ESP,18.4,6-2 7-6,3,R32,,,,,,,,,,,,,,,,,,,,230,170,1300,
 1997-M-SA-ESP-01A-1997c,Spain 1 Masters 3,Clay,32,S,19970103,13,102231,,,Alex Calatrava,R,190,ESP,23.5,102522,8,,Fabio Maggi,R,175,ITA,21.9,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,390,77,255,149
 1997-M-SA-ESP-01A-1997c,Spain 1 Masters 3,Clay,32,S,19970103,14,101982,,,Jordi Mas,R,,ESP,25.1,102614,,,Victor Sendin,R,175,ESP,21.5,7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,404,,294,120
@@ -318,7 +318,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-M-SA-ESP-01A-1997c,Spain 1 Masters 3,Clay,32,S,19970103,31,102905,,,Stefan Koubek,L,175,AUT,19.9,102607,4,,Juan Balcells,R,190,ESP,21.5,6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,311,112,230,170
 1997-M-SA-ESP-01A-1997d,Spain 1 Masters 4,Clay,32,S,19970103,1,102173,,,Rainer Falenti,R,,AUT,23.8,102135,1,,Emilio Benfele Alvarez,R,183,ESP,24.1,3-6 6-1 4-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,328,103,119,406
 1997-M-SA-ESP-01A-1997d,Spain 1 Masters 4,Clay,32,S,19970103,2,102506,,Q,Quino Munoz,R,178,ESP,21.9,102402,,Q,Alberto Banus Sado,R,,ESP,22.5,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,532,37,767,
-1997-M-SA-ESP-01A-1997d,Spain 1 Masters 4,Clay,32,S,19970103,3,102905,,,Stefan Koubek,L,175,AUT,19.9,109771,,Q,Jairo Velasco,R,,ESP,49.6,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,311,112,,
+1997-M-SA-ESP-01A-1997d,Spain 1 Masters 4,Clay,32,S,19970103,3,102905,,,Stefan Koubek,L,175,AUT,19.9,109771,,Q,Jairo Velasco,R,173,ESP,49.6,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,311,112,,
 1997-M-SA-ESP-01A-1997d,Spain 1 Masters 4,Clay,32,S,19970103,4,101869,8,,Juan Luis Tati Rascon,R,,ESP,25.8,103193,,,Peter Wessels,R,196,NED,18.6,6-4 1-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,248,152,369,85
 1997-M-SA-ESP-01A-1997d,Spain 1 Masters 4,Clay,32,S,19970103,5,102548,3,,Juan Antonio Marin,R,175,CRC,21.8,101740,,LL,Sascha Nensel,R,180,GER,26.6,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,217,178,454,55
 1997-M-SA-ESP-01A-1997d,Spain 1 Masters 4,Clay,32,S,19970103,6,101826,,WC,Alex Lopez Moron,R,175,ESP,26.0,122994,,WC,Guillermo Genovart Puerto,U,,ESP,18.9,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,622,25,,
@@ -3723,7 +3723,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-M-SA-CHI-01A-1997a,Chile 1 Masters 1,Clay,32,S,19970503,6,101430,,Q,Sergio Cortes,R,170,CHI,29.2,103121,,Q,Matias Oneille,R,,ARG,19.2,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,261,139,,
 1997-M-SA-CHI-01A-1997a,Chile 1 Masters 1,Clay,32,S,19970503,7,103265,,Q,Juan Ignacio Cerda,R,,CHI,18.5,117415,,WC,Sebastian Contador,U,,CHI,21.3,7-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1997-M-SA-CHI-01A-1997a,Chile 1 Masters 1,Clay,32,S,19970503,8,102718,6,,Enzo Artoni,R,,ITA,21.2,122917,,WC,Emilio Marissio,U,,CHI,18.9,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,446,58,,
-1997-M-SA-CHI-01A-1997a,Chile 1 Masters 1,Clay,32,S,19970503,9,102111,,,Diego Del Rio,R,175,ARG,24.6,108585,5,,Americo Venero Montes,U,,PER,25.1,6-7 7-6 DEF,3,R32,,,,,,,,,,,,,,,,,,,,578,30,,
+1997-M-SA-CHI-01A-1997a,Chile 1 Masters 1,Clay,32,S,19970503,9,102111,,,Diego Del Rio,R,175,ARG,24.6,108585,5,,Americo Venero Montes,U,175,PER,25.1,6-7 7-6 DEF,3,R32,,,,,,,,,,,,,,,,,,,,578,30,,
 1997-M-SA-CHI-01A-1997a,Chile 1 Masters 1,Clay,32,S,19970503,10,101427,,,Ruben Gajardo,R,,CHI,29.3,102846,,Q,Raul Valdes,R,,CHI,20.6,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1219,2,1219,2
 1997-M-SA-CHI-01A-1997a,Chile 1 Masters 1,Clay,32,S,19970503,11,103310,,Q,Rodrigo Pena,R,,ARG,18.2,102124,,,Walter Larrea,R,,ARG,24.5,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1295,1,913,8
 1997-M-SA-CHI-01A-1997a,Chile 1 Masters 1,Clay,32,S,19970503,12,102930,3,,Rodrigo Cerdera,R,,ARG,20.2,102756,,Q,Eduardo Rincon,R,,COL,21.1,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,464,52,567,32
@@ -3755,14 +3755,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-M-SA-CHI-01A-1997b,Chile 1 Masters 2,Clay,24,S,19970503,7,103160,,,Ludovic Pain,R,,FRA,19.0,109675,,,Ricardo Maurs,R,,ARG,18.3,6-4 7-6,3,R32,,,,,,,,,,,,,,,,,,,,1074,4,1295,1
 1997-M-SA-CHI-01A-1997b,Chile 1 Masters 2,Clay,24,S,19970503,8,102846,,,Raul Valdes,R,,CHI,20.6,102124,,,Walter Larrea,R,,ARG,24.5,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1219,2,913,8
 1997-M-SA-CHI-01A-1997b,Chile 1 Masters 2,Clay,24,S,19970503,9,102585,1,,Sebastian Prieto,R,180,ARG,21.9,101953,,,Kentaro Masuda,R,,JPN,25.6,3-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,371,86,499,43
-1997-M-SA-CHI-01A-1997b,Chile 1 Masters 2,Clay,24,S,19970503,10,108585,7,,Americo Venero Montes,U,,PER,25.1,102219,,,Juan Garat,R,180,ARG,23.9,7-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,,,,834,11
+1997-M-SA-CHI-01A-1997b,Chile 1 Masters 2,Clay,24,S,19970503,10,108585,7,,Americo Venero Montes,U,175,PER,25.1,102219,,,Juan Garat,R,180,ARG,23.9,7-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,,,,834,11
 1997-M-SA-CHI-01A-1997b,Chile 1 Masters 2,Clay,24,S,19970503,11,102860,4,,Agustin Calleri,R,183,ARG,20.6,101548,,,Gabriel Keymer,R,,CHI,28.3,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,744,14
 1997-M-SA-CHI-01A-1997b,Chile 1 Masters 2,Clay,24,S,19970503,12,102962,6,,Miguel Miranda,R,,CHI,20.1,101978,,,Marcelo Rebolledo,R,,CHI,25.5,7-5 7-6,3,R16,,,,,,,,,,,,,,,,,,,,697,17,943,7
 1997-M-SA-CHI-01A-1997b,Chile 1 Masters 2,Clay,24,S,19970503,13,102718,5,,Enzo Artoni,R,,ITA,21.2,100898,,,Robinson Ureta,R,,CHI,34.1,4-6 7-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,446,58,,
 1997-M-SA-CHI-01A-1997b,Chile 1 Masters 2,Clay,24,S,19970503,14,103201,,,Adrian Garcia,R,175,CHI,18.9,102997,3,,Hermes Gamonal,R,180,CHI,19.9,4-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1207,3,1074,4
 1997-M-SA-CHI-01A-1997b,Chile 1 Masters 2,Clay,24,S,19970503,15,111623,8,,Juan Robinson Gamonal,U,,CHI,22.0,103160,,,Ludovic Pain,R,,FRA,19.0,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,1074,4
 1997-M-SA-CHI-01A-1997b,Chile 1 Masters 2,Clay,24,S,19970503,16,102930,2,,Rodrigo Cerdera,R,,ARG,20.2,102846,,,Raul Valdes,R,,CHI,20.6,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,464,52,1219,2
-1997-M-SA-CHI-01A-1997b,Chile 1 Masters 2,Clay,24,S,19970503,17,102585,1,,Sebastian Prieto,R,180,ARG,21.9,108585,7,,Americo Venero Montes,U,,PER,25.1,6-3 4-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,371,86,,
+1997-M-SA-CHI-01A-1997b,Chile 1 Masters 2,Clay,24,S,19970503,17,102585,1,,Sebastian Prieto,R,180,ARG,21.9,108585,7,,Americo Venero Montes,U,175,PER,25.1,6-3 4-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,371,86,,
 1997-M-SA-CHI-01A-1997b,Chile 1 Masters 2,Clay,24,S,19970503,18,102860,4,,Agustin Calleri,R,183,ARG,20.6,102962,6,,Miguel Miranda,R,,CHI,20.1,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,,,697,17
 1997-M-SA-CHI-01A-1997b,Chile 1 Masters 2,Clay,24,S,19970503,19,102718,5,,Enzo Artoni,R,,ITA,21.2,103201,,,Adrian Garcia,R,175,CHI,18.9,6-4 6-0,3,QF,,,,,,,,,,,,,,,,,,,,446,58,1207,3
 1997-M-SA-CHI-01A-1997b,Chile 1 Masters 2,Clay,24,S,19970503,20,102930,2,,Rodrigo Cerdera,R,,ARG,20.2,111623,8,,Juan Robinson Gamonal,U,,CHI,22.0,6-4 7-6,3,QF,,,,,,,,,,,,,,,,,,,,464,52,,
@@ -3784,7 +3784,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-M-SA-CHI-01A-1997c,Chile 1 Masters 3,Clay,32,S,19970503,13,102124,,LL,Walter Larrea,R,,ARG,24.5,102756,7,,Eduardo Rincon,R,,COL,21.1,4-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,913,8,567,32
 1997-M-SA-CHI-01A-1997c,Chile 1 Masters 3,Clay,32,S,19970503,14,102997,,,Hermes Gamonal,R,180,CHI,19.9,101978,,,Marcelo Rebolledo,R,,CHI,25.5,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1074,4,943,7
 1997-M-SA-CHI-01A-1997c,Chile 1 Masters 3,Clay,32,S,19970503,15,102962,,,Miguel Miranda,R,,CHI,20.1,103058,,,Juan Felipe Yanez,R,,CHI,19.5,6-4 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,697,17,805,12
-1997-M-SA-CHI-01A-1997c,Chile 1 Masters 3,Clay,32,S,19970503,16,108585,2,,Americo Venero Montes,U,,PER,25.1,103552,,,Carlos Gonzalez Leiva,R,,CHI,17.0,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1997-M-SA-CHI-01A-1997c,Chile 1 Masters 3,Clay,32,S,19970503,16,108585,2,,Americo Venero Montes,U,175,PER,25.1,103552,,,Carlos Gonzalez Leiva,R,,CHI,17.0,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1997-M-SA-CHI-01A-1997c,Chile 1 Masters 3,Clay,32,S,19970503,17,102585,1,,Sebastian Prieto,R,180,ARG,21.9,102860,,Q,Agustin Calleri,R,183,ARG,20.6,7-6 6-7 6-4,3,R16,,,,,,,,,,,,,,,,,,,,371,86,,
 1997-M-SA-CHI-01A-1997c,Chile 1 Masters 3,Clay,32,S,19970503,18,102219,,,Juan Garat,R,180,ARG,23.9,102111,8,,Diego Del Rio,R,175,ARG,24.6,6-2 3-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,834,11,578,30
 1997-M-SA-CHI-01A-1997c,Chile 1 Masters 3,Clay,32,S,19970503,19,102718,3,,Enzo Artoni,R,,ITA,21.2,101427,,,Ruben Gajardo,R,,CHI,29.3,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,446,58,1219,2
@@ -3792,7 +3792,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-M-SA-CHI-01A-1997c,Chile 1 Masters 3,Clay,32,S,19970503,21,101548,,,Gabriel Keymer,R,,CHI,28.3,100898,,Q,Robinson Ureta,R,,CHI,34.1,7-5 2-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,744,14,,
 1997-M-SA-CHI-01A-1997c,Chile 1 Masters 3,Clay,32,S,19970503,22,102930,4,,Rodrigo Cerdera,R,,ARG,20.2,102326,,,Jose Arnedo,R,,ARG,23.2,6-3 4-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,464,52,677,19
 1997-M-SA-CHI-01A-1997c,Chile 1 Masters 3,Clay,32,S,19970503,23,102997,,,Hermes Gamonal,R,180,CHI,19.9,102124,,LL,Walter Larrea,R,,ARG,24.5,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1074,4,913,8
-1997-M-SA-CHI-01A-1997c,Chile 1 Masters 3,Clay,32,S,19970503,24,102962,,,Miguel Miranda,R,,CHI,20.1,108585,2,,Americo Venero Montes,U,,PER,25.1,0-6 7-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,697,17,,
+1997-M-SA-CHI-01A-1997c,Chile 1 Masters 3,Clay,32,S,19970503,24,102962,,,Miguel Miranda,R,,CHI,20.1,108585,2,,Americo Venero Montes,U,175,PER,25.1,0-6 7-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,697,17,,
 1997-M-SA-CHI-01A-1997c,Chile 1 Masters 3,Clay,32,S,19970503,25,102585,1,,Sebastian Prieto,R,180,ARG,21.9,102219,,,Juan Garat,R,180,ARG,23.9,7-6 7-5,3,QF,,,,,,,,,,,,,,,,,,,,371,86,834,11
 1997-M-SA-CHI-01A-1997c,Chile 1 Masters 3,Clay,32,S,19970503,26,102718,3,,Enzo Artoni,R,,ITA,21.2,111623,6,,Juan Robinson Gamonal,U,,CHI,22.0,3-6 6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,446,58,,
 1997-M-SA-CHI-01A-1997c,Chile 1 Masters 3,Clay,32,S,19970503,27,101548,,,Gabriel Keymer,R,,CHI,28.3,102930,4,,Rodrigo Cerdera,R,,ARG,20.2,7-5 6-4,3,QF,,,,,,,,,,,,,,,,,,,,744,14,464,52
@@ -3815,7 +3815,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-M-SA-CHI-01A-1997d,Chile 1 Masters 4,Clay,32,S,19970503,13,102326,,,Jose Arnedo,R,,ARG,23.2,102841,7,,Juan Morgenstern,R,,ARG,20.6,5-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,677,19,591,28
 1997-M-SA-CHI-01A-1997d,Chile 1 Masters 4,Clay,32,S,19970503,14,101978,,,Marcelo Rebolledo,R,,CHI,25.5,103310,,Q,Rodrigo Pena,R,,ARG,18.2,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,943,7,1295,1
 1997-M-SA-CHI-01A-1997d,Chile 1 Masters 4,Clay,32,S,19970503,15,103160,,,Ludovic Pain,R,,FRA,19.0,103058,,,Juan Felipe Yanez,R,,CHI,19.5,7-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1074,4,805,12
-1997-M-SA-CHI-01A-1997d,Chile 1 Masters 4,Clay,32,S,19970503,16,108585,2,,Americo Venero Montes,U,,PER,25.1,103265,,Q,Juan Ignacio Cerda,R,,CHI,18.5,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1997-M-SA-CHI-01A-1997d,Chile 1 Masters 4,Clay,32,S,19970503,16,108585,2,,Americo Venero Montes,U,175,PER,25.1,103265,,Q,Juan Ignacio Cerda,R,,CHI,18.5,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1997-M-SA-CHI-01A-1997d,Chile 1 Masters 4,Clay,32,S,19970503,17,102585,1,,Sebastian Prieto,R,180,ARG,21.9,117459,,,Andres Morales,U,,CHI,19.9,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,371,86,1074,4
 1997-M-SA-CHI-01A-1997d,Chile 1 Masters 4,Clay,32,S,19970503,18,102860,,Q,Agustin Calleri,R,183,ARG,20.6,103549,,Q,Dario Perez,R,,ARG,17.0,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 1997-M-SA-CHI-01A-1997d,Chile 1 Masters 4,Clay,32,S,19970503,19,102930,3,,Rodrigo Cerdera,R,,ARG,20.2,101427,,,Ruben Gajardo,R,,CHI,29.3,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,464,52,1219,2
@@ -3823,13 +3823,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-M-SA-CHI-01A-1997d,Chile 1 Masters 4,Clay,32,S,19970503,21,102219,,,Juan Garat,R,180,ARG,23.9,100898,,WC,Robinson Ureta,R,,CHI,34.1,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,834,11,,
 1997-M-SA-CHI-01A-1997d,Chile 1 Masters 4,Clay,32,S,19970503,22,102997,,,Hermes Gamonal,R,180,CHI,19.9,102718,4,,Enzo Artoni,R,,ITA,21.2,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1074,4,446,58
 1997-M-SA-CHI-01A-1997d,Chile 1 Masters 4,Clay,32,S,19970503,23,101978,,,Marcelo Rebolledo,R,,CHI,25.5,102326,,,Jose Arnedo,R,,ARG,23.2,7-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,,943,7,677,19
-1997-M-SA-CHI-01A-1997d,Chile 1 Masters 4,Clay,32,S,19970503,24,108585,2,,Americo Venero Montes,U,,PER,25.1,103160,,,Ludovic Pain,R,,FRA,19.0,7-6 6-0,3,R16,,,,,,,,,,,,,,,,,,,,,,1074,4
+1997-M-SA-CHI-01A-1997d,Chile 1 Masters 4,Clay,32,S,19970503,24,108585,2,,Americo Venero Montes,U,175,PER,25.1,103160,,,Ludovic Pain,R,,FRA,19.0,7-6 6-0,3,R16,,,,,,,,,,,,,,,,,,,,,,1074,4
 1997-M-SA-CHI-01A-1997d,Chile 1 Masters 4,Clay,32,S,19970503,25,102585,1,,Sebastian Prieto,R,180,ARG,21.9,102860,,Q,Agustin Calleri,R,183,ARG,20.6,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,371,86,,
 1997-M-SA-CHI-01A-1997d,Chile 1 Masters 4,Clay,32,S,19970503,26,102930,3,,Rodrigo Cerdera,R,,ARG,20.2,111623,6,,Juan Robinson Gamonal,U,,CHI,22.0,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,464,52,,
 1997-M-SA-CHI-01A-1997d,Chile 1 Masters 4,Clay,32,S,19970503,27,102997,,,Hermes Gamonal,R,180,CHI,19.9,102219,,,Juan Garat,R,180,ARG,23.9,0-6 6-3 7-5,3,QF,,,,,,,,,,,,,,,,,,,,1074,4,834,11
-1997-M-SA-CHI-01A-1997d,Chile 1 Masters 4,Clay,32,S,19970503,28,108585,2,,Americo Venero Montes,U,,PER,25.1,101978,,,Marcelo Rebolledo,R,,CHI,25.5,7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,,,943,7
+1997-M-SA-CHI-01A-1997d,Chile 1 Masters 4,Clay,32,S,19970503,28,108585,2,,Americo Venero Montes,U,175,PER,25.1,101978,,,Marcelo Rebolledo,R,,CHI,25.5,7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,,,943,7
 1997-M-SA-CHI-01A-1997d,Chile 1 Masters 4,Clay,32,S,19970503,29,102930,3,,Rodrigo Cerdera,R,,ARG,20.2,102585,1,,Sebastian Prieto,R,180,ARG,21.9,6-4 5-7 6-2,3,SF,,,,,,,,,,,,,,,,,,,,464,52,371,86
-1997-M-SA-CHI-01A-1997d,Chile 1 Masters 4,Clay,32,S,19970503,30,102997,,,Hermes Gamonal,R,180,CHI,19.9,108585,2,,Americo Venero Montes,U,,PER,25.1,6-4 6-0,3,SF,,,,,,,,,,,,,,,,,,,,1074,4,,
+1997-M-SA-CHI-01A-1997d,Chile 1 Masters 4,Clay,32,S,19970503,30,102997,,,Hermes Gamonal,R,180,CHI,19.9,108585,2,,Americo Venero Montes,U,175,PER,25.1,6-4 6-0,3,SF,,,,,,,,,,,,,,,,,,,,1074,4,,
 1997-M-SA-CHI-01A-1997d,Chile 1 Masters 4,Clay,32,S,19970503,31,102997,,,Hermes Gamonal,R,180,CHI,19.9,102930,3,,Rodrigo Cerdera,R,,ARG,20.2,5-7 7-6 6-4,3,F,,,,,,,,,,,,,,,,,,,,1074,4,464,52
 1997-M-SA-CRO-02A-1997a,Croatia 2 Masters 1,Clay,24,S,19970503,1,102288,,,Vladimir Sever,R,,CRO,23.4,103333,,,Ivo Karlovic,R,208,CRO,18.1,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,697,17,,
 1997-M-SA-CRO-02A-1997a,Croatia 2 Masters 1,Clay,24,S,19970503,2,103045,,,Reginald Willems,R,180,BEL,19.6,122937,,,Dejan Gacic,U,,CRO,25.7,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,612,25,,
@@ -6174,7 +6174,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-M-SA-VEN-01A-1997a,Venezuela Masters 1,Hard,32,S,19970614,13,103388,8,,Rafael De Mesa,R,,USA,17.9,103265,,Q,Juan Ignacio Cerda,R,,CHI,18.7,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1229,2
 1997-M-SA-VEN-01A-1997a,Venezuela Masters 1,Hard,32,S,19970614,14,123621,,WC,Dony Papadia,U,,VEN,21.8,102819,,,Ricardo Omana,R,,VEN,20.9,7-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1081,5
 1997-M-SA-VEN-01A-1997a,Venezuela Masters 1,Hard,32,S,19970614,15,103739,,,Jose De Armas,R,,VEN,16.2,103058,,,Juan Felipe Yanez,R,,CHI,19.6,4-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1229,2,803,12
-1997-M-SA-VEN-01A-1997a,Venezuela Masters 1,Hard,32,S,19970614,16,108585,2,,Americo Venero Montes,U,,PER,25.2,103721,,,Ezequiel Nastari,R,,VEN,16.2,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1997-M-SA-VEN-01A-1997a,Venezuela Masters 1,Hard,32,S,19970614,16,108585,2,,Americo Venero Montes,U,175,PER,25.2,103721,,,Ezequiel Nastari,R,,VEN,16.2,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1997-M-SA-VEN-01A-1997a,Venezuela Masters 1,Hard,32,S,19970614,17,102890,1,,Oscar Rodriguez Arg,R,,ARG,20.5,102509,,,Roberto Bracone,R,,ARG,22.3,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,671,21,,
 1997-M-SA-VEN-01A-1997a,Venezuela Masters 1,Hard,32,S,19970614,18,102356,,Q,Olivier Tauma,R,,FRA,23.2,100886,,,Gregg Hill,R,,USA,34.4,4-6 7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 1997-M-SA-VEN-01A-1997a,Venezuela Masters 1,Hard,32,S,19970614,19,108686,3,,Alejandro Aramburu Acuna,R,,PER,28.3,102812,,Q,Jicham Zaatini,R,,LIB,20.9,7-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,932,8
@@ -6182,7 +6182,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-M-SA-VEN-01A-1997a,Venezuela Masters 1,Hard,32,S,19970614,21,103027,6,,Markus Menzler,R,,GER,19.8,103286,,,Yohny Romero,R,,VEN,18.5,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,860,10,1273,2
 1997-M-SA-VEN-01A-1997a,Venezuela Masters 1,Hard,32,S,19970614,22,103201,4,,Adrian Garcia,R,175,CHI,19.0,102474,,Q,Eduardo Martinez,R,,MEX,22.6,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,868,10,958,7
 1997-M-SA-VEN-01A-1997a,Venezuela Masters 1,Hard,32,S,19970614,23,103388,8,,Rafael De Mesa,R,,USA,17.9,123621,,WC,Dony Papadia,U,,VEN,21.8,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,,
-1997-M-SA-VEN-01A-1997a,Venezuela Masters 1,Hard,32,S,19970614,24,103739,,,Jose De Armas,R,,VEN,16.2,108585,2,,Americo Venero Montes,U,,PER,25.2,1-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1229,2,,
+1997-M-SA-VEN-01A-1997a,Venezuela Masters 1,Hard,32,S,19970614,24,103739,,,Jose De Armas,R,,VEN,16.2,108585,2,,Americo Venero Montes,U,175,PER,25.2,1-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1229,2,,
 1997-M-SA-VEN-01A-1997a,Venezuela Masters 1,Hard,32,S,19970614,25,102356,,Q,Olivier Tauma,R,,FRA,23.2,102890,1,,Oscar Rodriguez Arg,R,,ARG,20.5,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,671,21
 1997-M-SA-VEN-01A-1997a,Venezuela Masters 1,Hard,32,S,19970614,26,108686,3,,Alejandro Aramburu Acuna,R,,PER,28.3,102420,,,Cesar Reano,R,,PER,22.9,6-7 7-5 6-2,3,QF,,,,,,,,,,,,,,,,,,,,,,982,7
 1997-M-SA-VEN-01A-1997a,Venezuela Masters 1,Hard,32,S,19970614,27,103027,6,,Markus Menzler,R,,GER,19.8,103201,4,,Adrian Garcia,R,175,CHI,19.0,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,860,10,868,10
@@ -6203,12 +6203,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-M-SA-VEN-01A-1997b,Venezuela Masters 2,Hard,24,S,19970614,11,102812,,,Jicham Zaatini,R,,LIB,20.9,103201,4,,Adrian Garcia,R,175,CHI,19.0,2-6 7-5 6-0,3,R16,,,,,,,,,,,,,,,,,,,,932,8,868,10
 1997-M-SA-VEN-01A-1997b,Venezuela Masters 2,Hard,24,S,19970614,12,102846,,,Raul Valdes,R,,CHI,20.7,103027,6,,Markus Menzler,R,,GER,19.8,7-6 4-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,,1169,3,860,10
 1997-M-SA-VEN-01A-1997b,Venezuela Masters 2,Hard,24,S,19970614,13,102819,,,Ricardo Omana,R,,VEN,20.9,103388,5,,Rafael De Mesa,R,,USA,17.9,7-5 7-6,3,R16,,,,,,,,,,,,,,,,,,,,1081,5,,
-1997-M-SA-VEN-01A-1997b,Venezuela Masters 2,Hard,24,S,19970614,14,108585,3,,Americo Venero Montes,U,,PER,25.2,123621,,,Dony Papadia,U,,VEN,21.8,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1997-M-SA-VEN-01A-1997b,Venezuela Masters 2,Hard,24,S,19970614,14,108585,3,,Americo Venero Montes,U,175,PER,25.2,123621,,,Dony Papadia,U,,VEN,21.8,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 1997-M-SA-VEN-01A-1997b,Venezuela Masters 2,Hard,24,S,19970614,15,103358,,,Nicolas Todero,R,183,ARG,18.1,102858,8,,Valentino Pest,R,175,GER,20.7,2-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1090,4,1057,5
 1997-M-SA-VEN-01A-1997b,Venezuela Masters 2,Hard,24,S,19970614,16,103286,,,Yohny Romero,R,,VEN,18.5,102890,2,,Oscar Rodriguez Arg,R,,ARG,20.5,7-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1273,2,671,21
 1997-M-SA-VEN-01A-1997b,Venezuela Masters 2,Hard,24,S,19970614,17,108686,1,,Alejandro Aramburu Acuna,R,,PER,28.3,103144,,,Gregory Zavialoff,R,,FRA,19.3,6-3 6-0,3,QF,,,,,,,,,,,,,,,,,,,,,,889,9
 1997-M-SA-VEN-01A-1997b,Venezuela Masters 2,Hard,24,S,19970614,18,102812,,,Jicham Zaatini,R,,LIB,20.9,102846,,,Raul Valdes,R,,CHI,20.7,6-0 0-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,932,8,1169,3
-1997-M-SA-VEN-01A-1997b,Venezuela Masters 2,Hard,24,S,19970614,19,102819,,,Ricardo Omana,R,,VEN,20.9,108585,3,,Americo Venero Montes,U,,PER,25.2,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,1081,5,,
+1997-M-SA-VEN-01A-1997b,Venezuela Masters 2,Hard,24,S,19970614,19,102819,,,Ricardo Omana,R,,VEN,20.9,108585,3,,Americo Venero Montes,U,175,PER,25.2,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,1081,5,,
 1997-M-SA-VEN-01A-1997b,Venezuela Masters 2,Hard,24,S,19970614,20,103286,,,Yohny Romero,R,,VEN,18.5,103358,,,Nicolas Todero,R,183,ARG,18.1,7-5 7-6,3,QF,,,,,,,,,,,,,,,,,,,,1273,2,1090,4
 1997-M-SA-VEN-01A-1997b,Venezuela Masters 2,Hard,24,S,19970614,21,102812,,,Jicham Zaatini,R,,LIB,20.9,108686,1,,Alejandro Aramburu Acuna,R,,PER,28.3,6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,932,8,,
 1997-M-SA-VEN-01A-1997b,Venezuela Masters 2,Hard,24,S,19970614,22,103286,,,Yohny Romero,R,,VEN,18.5,102819,,,Ricardo Omana,R,,VEN,20.9,6-3 7-5,3,SF,,,,,,,,,,,,,,,,,,,,1273,2,1081,5
@@ -6228,7 +6228,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-M-SA-VEN-01A-1997c,Venezuela Masters 3,Hard,32,S,19970614,13,103058,7,,Juan Felipe Yanez,R,,CHI,19.6,103363,,Q,Diego Ayala,R,175,USA,18.1,6-3 6-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,803,12,,
 1997-M-SA-VEN-01A-1997c,Venezuela Masters 3,Hard,32,S,19970614,14,103286,,,Yohny Romero,R,,VEN,18.5,119580,,Q,William Campos,U,,VEN,18.5,6-7 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1273,2,,
 1997-M-SA-VEN-01A-1997c,Venezuela Masters 3,Hard,32,S,19970614,15,102420,,,Cesar Reano,R,,PER,22.9,102938,,,Alejandro Olivera,R,,URU,20.3,5-7 7-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,982,7,958,7
-1997-M-SA-VEN-01A-1997c,Venezuela Masters 3,Hard,32,S,19970614,16,108585,2,,Americo Venero Montes,U,,PER,25.2,102891,,Q,Rodolfo Varela,R,,COL,20.5,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1306,1
+1997-M-SA-VEN-01A-1997c,Venezuela Masters 3,Hard,32,S,19970614,16,108585,2,,Americo Venero Montes,U,175,PER,25.2,102891,,Q,Rodolfo Varela,R,,COL,20.5,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1306,1
 1997-M-SA-VEN-01A-1997c,Venezuela Masters 3,Hard,32,S,19970614,17,102846,,,Raul Valdes,R,,CHI,20.7,108686,1,,Alejandro Aramburu Acuna,R,,PER,28.3,6-4 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1169,3,,
 1997-M-SA-VEN-01A-1997c,Venezuela Masters 3,Hard,32,S,19970614,18,103027,8,,Markus Menzler,R,,GER,19.8,123620,,WC,Victor Manuel Perez Leon,U,,VEN,26.1,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,860,10,,
 1997-M-SA-VEN-01A-1997c,Venezuela Masters 3,Hard,32,S,19970614,19,102890,4,,Oscar Rodriguez Arg,R,,ARG,20.5,103144,,,Gregory Zavialoff,R,,FRA,19.3,3-6 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,671,21,889,9
@@ -6236,13 +6236,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-M-SA-VEN-01A-1997c,Venezuela Masters 3,Hard,32,S,19970614,21,102858,,,Valentino Pest,R,175,GER,20.7,100886,5,,Gregg Hill,R,,USA,34.4,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1057,5,,
 1997-M-SA-VEN-01A-1997c,Venezuela Masters 3,Hard,32,S,19970614,22,103201,,,Adrian Garcia,R,175,CHI,19.0,102509,,Q,Roberto Bracone,R,,ARG,22.3,2-6 7-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,868,10,,
 1997-M-SA-VEN-01A-1997c,Venezuela Masters 3,Hard,32,S,19970614,23,103058,7,,Juan Felipe Yanez,R,,CHI,19.6,103286,,,Yohny Romero,R,,VEN,18.5,4-6 7-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,803,12,1273,2
-1997-M-SA-VEN-01A-1997c,Venezuela Masters 3,Hard,32,S,19970614,24,108585,2,,Americo Venero Montes,U,,PER,25.2,102420,,,Cesar Reano,R,,PER,22.9,6-4 7-6,3,R16,,,,,,,,,,,,,,,,,,,,,,982,7
+1997-M-SA-VEN-01A-1997c,Venezuela Masters 3,Hard,32,S,19970614,24,108585,2,,Americo Venero Montes,U,175,PER,25.2,102420,,,Cesar Reano,R,,PER,22.9,6-4 7-6,3,R16,,,,,,,,,,,,,,,,,,,,,,982,7
 1997-M-SA-VEN-01A-1997c,Venezuela Masters 3,Hard,32,S,19970614,25,103027,8,,Markus Menzler,R,,GER,19.8,102846,,,Raul Valdes,R,,CHI,20.7,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,860,10,1169,3
 1997-M-SA-VEN-01A-1997c,Venezuela Masters 3,Hard,32,S,19970614,26,102890,4,,Oscar Rodriguez Arg,R,,ARG,20.5,102407,6,,Rainer Gunther,R,,GER,22.9,4-6 7-5 6-0,3,QF,,,,,,,,,,,,,,,,,,,,671,21,801,12
 1997-M-SA-VEN-01A-1997c,Venezuela Masters 3,Hard,32,S,19970614,27,103201,,,Adrian Garcia,R,175,CHI,19.0,102858,,,Valentino Pest,R,175,GER,20.7,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,868,10,1057,5
-1997-M-SA-VEN-01A-1997c,Venezuela Masters 3,Hard,32,S,19970614,28,108585,2,,Americo Venero Montes,U,,PER,25.2,103058,7,,Juan Felipe Yanez,R,,CHI,19.6,6-4 7-6,3,QF,,,,,,,,,,,,,,,,,,,,,,803,12
+1997-M-SA-VEN-01A-1997c,Venezuela Masters 3,Hard,32,S,19970614,28,108585,2,,Americo Venero Montes,U,175,PER,25.2,103058,7,,Juan Felipe Yanez,R,,CHI,19.6,6-4 7-6,3,QF,,,,,,,,,,,,,,,,,,,,,,803,12
 1997-M-SA-VEN-01A-1997c,Venezuela Masters 3,Hard,32,S,19970614,29,102890,4,,Oscar Rodriguez Arg,R,,ARG,20.5,103027,8,,Markus Menzler,R,,GER,19.8,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,671,21,860,10
-1997-M-SA-VEN-01A-1997c,Venezuela Masters 3,Hard,32,S,19970614,30,103201,,,Adrian Garcia,R,175,CHI,19.0,108585,2,,Americo Venero Montes,U,,PER,25.2,7-5 3-6 6-2,3,SF,,,,,,,,,,,,,,,,,,,,868,10,,
+1997-M-SA-VEN-01A-1997c,Venezuela Masters 3,Hard,32,S,19970614,30,103201,,,Adrian Garcia,R,175,CHI,19.0,108585,2,,Americo Venero Montes,U,175,PER,25.2,7-5 3-6 6-2,3,SF,,,,,,,,,,,,,,,,,,,,868,10,,
 1997-M-SA-VEN-01A-1997c,Venezuela Masters 3,Hard,32,S,19970614,31,102890,4,,Oscar Rodriguez Arg,R,,ARG,20.5,103201,,,Adrian Garcia,R,175,CHI,19.0,3-6 6-3 6-2,3,F,,,,,,,,,,,,,,,,,,,,671,21,868,10
 1997-M-SA-VEN-01A-1997d,Venezuela Masters 4,Hard,32,S,19970614,1,108686,1,,Alejandro Aramburu Acuna,R,,PER,28.3,102846,,,Raul Valdes,R,,CHI,20.7,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1169,3
 1997-M-SA-VEN-01A-1997d,Venezuela Masters 4,Hard,32,S,19970614,2,102819,,,Ricardo Omana,R,,VEN,20.9,108261,,Q,Shuon Madden,R,,USA,17.5,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1081,5,,
@@ -6259,7 +6259,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-M-SA-VEN-01A-1997d,Venezuela Masters 4,Hard,32,S,19970614,13,103358,,,Nicolas Todero,R,183,ARG,18.1,103058,7,,Juan Felipe Yanez,R,,CHI,19.6,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1090,4,803,12
 1997-M-SA-VEN-01A-1997d,Venezuela Masters 4,Hard,32,S,19970614,14,103201,,,Adrian Garcia,R,175,CHI,19.0,123621,,Q,Dony Papadia,U,,VEN,21.8,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,868,10,,
 1997-M-SA-VEN-01A-1997d,Venezuela Masters 4,Hard,32,S,19970614,15,102356,,LL,Olivier Tauma,R,,FRA,23.2,122801,,LL,Pablo Madariaga,U,,ARG,18.4,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-1997-M-SA-VEN-01A-1997d,Venezuela Masters 4,Hard,32,S,19970614,16,108585,2,,Americo Venero Montes,U,,PER,25.2,102812,,,Jicham Zaatini,R,,LIB,20.9,6-2 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,932,8
+1997-M-SA-VEN-01A-1997d,Venezuela Masters 4,Hard,32,S,19970614,16,108585,2,,Americo Venero Montes,U,175,PER,25.2,102812,,,Jicham Zaatini,R,,LIB,20.9,6-2 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,932,8
 1997-M-SA-VEN-01A-1997d,Venezuela Masters 4,Hard,32,S,19970614,17,108686,1,,Alejandro Aramburu Acuna,R,,PER,28.3,102819,,,Ricardo Omana,R,,VEN,20.9,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,1081,5
 1997-M-SA-VEN-01A-1997d,Venezuela Masters 4,Hard,32,S,19970614,18,103027,8,,Markus Menzler,R,,GER,19.8,103721,,WC,Ezequiel Nastari,R,,VEN,16.2,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,860,10,,
 1997-M-SA-VEN-01A-1997d,Venezuela Masters 4,Hard,32,S,19970614,19,102858,,,Valentino Pest,R,175,GER,20.7,102509,,Q,Roberto Bracone,R,,ARG,22.3,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1057,5,,
@@ -6267,14 +6267,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-M-SA-VEN-01A-1997d,Venezuela Masters 4,Hard,32,S,19970614,21,102407,6,,Rainer Gunther,R,,GER,22.9,103739,,WC,Jose De Armas,R,,VEN,16.2,4-6 6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,801,12,1229,2
 1997-M-SA-VEN-01A-1997d,Venezuela Masters 4,Hard,32,S,19970614,22,102890,4,,Oscar Rodriguez Arg,R,,ARG,20.5,103144,,,Gregory Zavialoff,R,,FRA,19.3,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,671,21,889,9
 1997-M-SA-VEN-01A-1997d,Venezuela Masters 4,Hard,32,S,19970614,23,103201,,,Adrian Garcia,R,175,CHI,19.0,103358,,,Nicolas Todero,R,183,ARG,18.1,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,868,10,1090,4
-1997-M-SA-VEN-01A-1997d,Venezuela Masters 4,Hard,32,S,19970614,24,108585,2,,Americo Venero Montes,U,,PER,25.2,102356,,LL,Olivier Tauma,R,,FRA,23.2,7-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1997-M-SA-VEN-01A-1997d,Venezuela Masters 4,Hard,32,S,19970614,24,108585,2,,Americo Venero Montes,U,175,PER,25.2,102356,,LL,Olivier Tauma,R,,FRA,23.2,7-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 1997-M-SA-VEN-01A-1997d,Venezuela Masters 4,Hard,32,S,19970614,25,108686,1,,Alejandro Aramburu Acuna,R,,PER,28.3,103027,8,,Markus Menzler,R,,GER,19.8,6-2 3-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,860,10
 1997-M-SA-VEN-01A-1997d,Venezuela Masters 4,Hard,32,S,19970614,26,102858,,,Valentino Pest,R,175,GER,20.7,103388,,Q,Rafael De Mesa,R,,USA,17.9,2-6 6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,1057,5,,
 1997-M-SA-VEN-01A-1997d,Venezuela Masters 4,Hard,32,S,19970614,27,102407,6,,Rainer Gunther,R,,GER,22.9,102890,4,,Oscar Rodriguez Arg,R,,ARG,20.5,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,801,12,671,21
-1997-M-SA-VEN-01A-1997d,Venezuela Masters 4,Hard,32,S,19970614,28,108585,2,,Americo Venero Montes,U,,PER,25.2,103201,,,Adrian Garcia,R,175,CHI,19.0,6-4 1-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,,,868,10
+1997-M-SA-VEN-01A-1997d,Venezuela Masters 4,Hard,32,S,19970614,28,108585,2,,Americo Venero Montes,U,175,PER,25.2,103201,,,Adrian Garcia,R,175,CHI,19.0,6-4 1-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,,,868,10
 1997-M-SA-VEN-01A-1997d,Venezuela Masters 4,Hard,32,S,19970614,29,108686,1,,Alejandro Aramburu Acuna,R,,PER,28.3,102858,,,Valentino Pest,R,175,GER,20.7,7-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,,,1057,5
-1997-M-SA-VEN-01A-1997d,Venezuela Masters 4,Hard,32,S,19970614,30,108585,2,,Americo Venero Montes,U,,PER,25.2,102407,6,,Rainer Gunther,R,,GER,22.9,7-6 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,801,12
-1997-M-SA-VEN-01A-1997d,Venezuela Masters 4,Hard,32,S,19970614,31,108686,1,,Alejandro Aramburu Acuna,R,,PER,28.3,108585,2,,Americo Venero Montes,U,,PER,25.2,4-6 7-5 6-3,3,F,,,,,,,,,,,,,,,,,,,,,,,
+1997-M-SA-VEN-01A-1997d,Venezuela Masters 4,Hard,32,S,19970614,30,108585,2,,Americo Venero Montes,U,175,PER,25.2,102407,6,,Rainer Gunther,R,,GER,22.9,7-6 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,801,12
+1997-M-SA-VEN-01A-1997d,Venezuela Masters 4,Hard,32,S,19970614,31,108686,1,,Alejandro Aramburu Acuna,R,,PER,28.3,108585,2,,Americo Venero Montes,U,175,PER,25.2,4-6 7-5 6-3,3,F,,,,,,,,,,,,,,,,,,,,,,,
 1997-M-SA-NED-01A-1997a,Netherlands Masters 1,Clay,32,S,19970616,1,102817,1,,Edwin Kempes,R,188,NED,20.9,103250,,,Rodolphe Cadart,L,183,FRA,18.8,4-6 6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,328,107,568,34
 1997-M-SA-NED-01A-1997a,Netherlands Masters 1,Clay,32,S,19970616,2,102880,,Q,Alexander Popp,R,201,GER,20.6,102861,,,Timothy Aerts,R,,BEL,20.7,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,516,43
 1997-M-SA-NED-01A-1997a,Netherlands Masters 1,Clay,32,S,19970616,3,102200,,,Arnd Caspari,R,,GER,24.1,119349,,Q,Frank Potthoff,L,,GER,26.5,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,873,9,1226,2
@@ -7101,7 +7101,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-M-SA-COL-01A-1997a,Colombia Masters 1,Clay,24,S,19970712,12,102756,6,,Eduardo Rincon,R,,COL,21.2,103196,,,Carlos Custodio,R,,BRA,19.1,6-2 3-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,575,32,616,25
 1997-M-SA-COL-01A-1997a,Colombia Masters 1,Clay,24,S,19970712,13,102245,5,,Egberto Caldas,R,,BRA,23.9,103373,,,Sergio Roitman,R,185,ARG,18.1,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,673,20,1040,5
 1997-M-SA-COL-01A-1997a,Colombia Masters 1,Clay,24,S,19970712,14,102168,3,,Hector Moretti,R,170,ARG,24.4,102846,,,Raul Valdes,R,,CHI,20.8,6-2 3-6 6-0,3,R16,,,,,,,,,,,,,,,,,,,,717,16,1179,3
-1997-M-SA-COL-01A-1997a,Colombia Masters 1,Clay,24,S,19970712,15,103428,,,Juan Ignacio Chela,R,190,ARG,17.8,108585,7,,Americo Venero Montes,U,,PER,25.3,7-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1010,6,,
+1997-M-SA-COL-01A-1997a,Colombia Masters 1,Clay,24,S,19970712,15,103428,,,Juan Ignacio Chela,R,190,ARG,17.8,108585,7,,Americo Venero Montes,U,175,PER,25.3,7-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1010,6,,
 1997-M-SA-COL-01A-1997a,Colombia Masters 1,Clay,24,S,19970712,16,101417,2,,Mario Rincon,R,,COL,29.5,103205,,,Emilio Daniel Baez Britez,R,,PAR,19.1,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,502,45,1040,5
 1997-M-SA-COL-01A-1997a,Colombia Masters 1,Clay,24,S,19970712,17,102361,,,Adriano Ferreira,R,193,BRA,23.3,102190,,,Philippe Moggio,L,,COL,24.2,7-5 7-6,3,QF,,,,,,,,,,,,,,,,,,,,586,30,804,12
 1997-M-SA-COL-01A-1997a,Colombia Masters 1,Clay,24,S,19970712,18,102860,4,,Agustin Calleri,R,183,ARG,20.8,102756,6,,Eduardo Rincon,R,,COL,21.2,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,428,65,575,32
@@ -7122,7 +7122,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-M-SA-COL-01A-1997b,Colombia Masters 2,Clay,32,S,19970712,10,103428,,,Juan Ignacio Chela,R,190,ARG,17.8,102846,,,Raul Valdes,R,,CHI,20.8,6-7 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1010,6,1179,3
 1997-M-SA-COL-01A-1997b,Colombia Masters 2,Clay,32,S,19970712,11,102841,,,Juan Morgenstern,R,,ARG,20.8,103373,,,Sergio Roitman,R,185,ARG,18.1,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,570,33,1040,5
 1997-M-SA-COL-01A-1997b,Colombia Masters 2,Clay,32,S,19970712,12,101417,3,,Mario Rincon,R,,COL,29.5,102174,,,Francisco Ruiz,R,,CHI,24.3,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,502,45,488,47
-1997-M-SA-COL-01A-1997b,Colombia Masters 2,Clay,32,S,19970712,13,108585,7,,Americo Venero Montes,U,,PER,25.3,102361,,,Adriano Ferreira,R,193,BRA,23.3,7-5 6-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,586,30
+1997-M-SA-COL-01A-1997b,Colombia Masters 2,Clay,32,S,19970712,13,108585,7,,Americo Venero Montes,U,175,PER,25.3,102361,,,Adriano Ferreira,R,193,BRA,23.3,7-5 6-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,586,30
 1997-M-SA-COL-01A-1997b,Colombia Masters 2,Clay,32,S,19970712,14,101167,,,Jaime Cortes,R,,COL,31.9,103201,,,Adrian Garcia,R,175,CHI,19.1,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1316,1,856,10
 1997-M-SA-COL-01A-1997b,Colombia Masters 2,Clay,32,S,19970712,15,103737,,,Edgardo Massa,R,180,ARG,16.2,103205,,,Emilio Daniel Baez Britez,R,,PAR,19.1,4-6 6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1040,5,1040,5
 1997-M-SA-COL-01A-1997b,Colombia Masters 2,Clay,32,S,19970712,16,102168,2,,Hector Moretti,R,170,ARG,24.4,102830,,,Paulo Carvallo,R,,PAR,20.9,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,717,16,747,14
@@ -7132,7 +7132,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-M-SA-COL-01A-1997b,Colombia Masters 2,Clay,32,S,19970712,20,102651,,,David Basile,R,,BEL,21.8,103549,,,Dario Perez,R,,ARG,17.2,6-4 2-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,,676,19,1069,5
 1997-M-SA-COL-01A-1997b,Colombia Masters 2,Clay,32,S,19970712,21,102245,5,,Egberto Caldas,R,,BRA,23.9,103428,,,Juan Ignacio Chela,R,190,ARG,17.8,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,673,20,1010,6
 1997-M-SA-COL-01A-1997b,Colombia Masters 2,Clay,32,S,19970712,22,101417,3,,Mario Rincon,R,,COL,29.5,102841,,,Juan Morgenstern,R,,ARG,20.8,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,502,45,570,33
-1997-M-SA-COL-01A-1997b,Colombia Masters 2,Clay,32,S,19970712,23,101167,,,Jaime Cortes,R,,COL,31.9,108585,7,,Americo Venero Montes,U,,PER,25.3,7-5 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1316,1,,
+1997-M-SA-COL-01A-1997b,Colombia Masters 2,Clay,32,S,19970712,23,101167,,,Jaime Cortes,R,,COL,31.9,108585,7,,Americo Venero Montes,U,175,PER,25.3,7-5 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1316,1,,
 1997-M-SA-COL-01A-1997b,Colombia Masters 2,Clay,32,S,19970712,24,102168,2,,Hector Moretti,R,170,ARG,24.4,103737,,,Edgardo Massa,R,180,ARG,16.2,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,717,16,1040,5
 1997-M-SA-COL-01A-1997b,Colombia Masters 2,Clay,32,S,19970712,25,101495,1,,Miguel Tobon,R,185,COL,29.0,102756,8,,Eduardo Rincon,R,,COL,21.2,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,767,14,575,32
 1997-M-SA-COL-01A-1997b,Colombia Masters 2,Clay,32,S,19970712,26,102860,4,,Agustin Calleri,R,183,ARG,20.8,102651,,,David Basile,R,,BEL,21.8,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,428,65,676,19
@@ -7141,7 +7141,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-M-SA-COL-01A-1997b,Colombia Masters 2,Clay,32,S,19970712,29,101495,1,,Miguel Tobon,R,185,COL,29.0,102860,4,,Agustin Calleri,R,183,ARG,20.8,4-6 6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,767,14,428,65
 1997-M-SA-COL-01A-1997b,Colombia Masters 2,Clay,32,S,19970712,30,101417,3,,Mario Rincon,R,,COL,29.5,102168,2,,Hector Moretti,R,170,ARG,24.4,6-4 6-0,3,SF,,,,,,,,,,,,,,,,,,,,502,45,717,16
 1997-M-SA-COL-01A-1997b,Colombia Masters 2,Clay,32,S,19970712,31,101495,1,,Miguel Tobon,R,185,COL,29.0,101417,3,,Mario Rincon,R,,COL,29.5,7-6 6-4,3,F,,,,,,,,,,,,,,,,,,,,767,14,502,45
-1997-M-SA-COL-01A-1997c,Colombia Masters 3,Clay,32,S,19970712,1,108585,1,,Americo Venero Montes,U,,PER,25.3,103373,,Q,Sergio Roitman,R,185,ARG,18.1,3-6 6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1040,5
+1997-M-SA-COL-01A-1997c,Colombia Masters 3,Clay,32,S,19970712,1,108585,1,,Americo Venero Montes,U,175,PER,25.3,103373,,Q,Sergio Roitman,R,185,ARG,18.1,3-6 6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1040,5
 1997-M-SA-COL-01A-1997c,Colombia Masters 3,Clay,32,S,19970712,2,102190,,,Philippe Moggio,L,,COL,24.2,102651,,,David Basile,R,,BEL,21.8,4-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,804,12,676,19
 1997-M-SA-COL-01A-1997c,Colombia Masters 3,Clay,32,S,19970712,3,101495,,,Miguel Tobon,R,185,COL,29.0,102222,,,Gonzalo Rodriguez,R,,URU,24.1,4-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,767,14,637,24
 1997-M-SA-COL-01A-1997c,Colombia Masters 3,Clay,32,S,19970712,4,102361,7,,Adriano Ferreira,R,193,BRA,23.3,102245,,,Egberto Caldas,R,,BRA,23.9,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,586,30,673,20
@@ -7157,7 +7157,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-M-SA-COL-01A-1997c,Colombia Masters 3,Clay,32,S,19970712,14,102320,,,Lazaro Navarro Batles,R,,CUB,23.4,102420,,,Cesar Reano,R,,PER,23.0,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,975,7
 1997-M-SA-COL-01A-1997c,Colombia Masters 3,Clay,32,S,19970712,15,102935,,Q,Rodrigo Ribeiro,R,,BRA,20.4,101825,,WC,Manuel Tejada,R,,ESA,26.6,6-4 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,922,8,1287,2
 1997-M-SA-COL-01A-1997c,Colombia Masters 3,Clay,32,S,19970712,16,102860,2,,Agustin Calleri,R,183,ARG,20.8,103058,,,Juan Felipe Yanez,R,,CHI,19.7,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,428,65,799,12
-1997-M-SA-COL-01A-1997c,Colombia Masters 3,Clay,32,S,19970712,17,108585,1,,Americo Venero Montes,U,,PER,25.3,102190,,,Philippe Moggio,L,,COL,24.2,2-6 7-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,804,12
+1997-M-SA-COL-01A-1997c,Colombia Masters 3,Clay,32,S,19970712,17,108585,1,,Americo Venero Montes,U,175,PER,25.3,102190,,,Philippe Moggio,L,,COL,24.2,2-6 7-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,804,12
 1997-M-SA-COL-01A-1997c,Colombia Masters 3,Clay,32,S,19970712,18,102361,7,,Adriano Ferreira,R,193,BRA,23.3,101495,,,Miguel Tobon,R,185,COL,29.0,6-4 6-7 6-3,3,R16,,,,,,,,,,,,,,,,,,,,586,30,767,14
 1997-M-SA-COL-01A-1997c,Colombia Masters 3,Clay,32,S,19970712,19,102168,,,Hector Moretti,R,170,ARG,24.4,102174,4,,Francisco Ruiz,R,,CHI,24.3,6-4 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,717,16,488,47
 1997-M-SA-COL-01A-1997c,Colombia Masters 3,Clay,32,S,19970712,20,102841,5,,Juan Morgenstern,R,,ARG,20.8,103205,,Q,Emilio Daniel Baez Britez,R,,PAR,19.1,6-1 7-6,3,R16,,,,,,,,,,,,,,,,,,,,570,33,1040,5
@@ -7165,14 +7165,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-M-SA-COL-01A-1997c,Colombia Masters 3,Clay,32,S,19970712,22,101417,4,WC,Mario Rincon,R,,COL,29.5,103028,,,Santiago Messora,R,,ARG,19.9,6-7 6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,502,45,750,14
 1997-M-SA-COL-01A-1997c,Colombia Masters 3,Clay,32,S,19970712,23,102320,,,Lazaro Navarro Batles,R,,CUB,23.4,103196,8,,Carlos Custodio,R,,BRA,19.1,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,616,25
 1997-M-SA-COL-01A-1997c,Colombia Masters 3,Clay,32,S,19970712,24,102860,2,,Agustin Calleri,R,183,ARG,20.8,102935,,Q,Rodrigo Ribeiro,R,,BRA,20.4,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,428,65,922,8
-1997-M-SA-COL-01A-1997c,Colombia Masters 3,Clay,32,S,19970712,25,108585,1,,Americo Venero Montes,U,,PER,25.3,102361,7,,Adriano Ferreira,R,193,BRA,23.3,6-2 7-6,3,QF,,,,,,,,,,,,,,,,,,,,,,586,30
+1997-M-SA-COL-01A-1997c,Colombia Masters 3,Clay,32,S,19970712,25,108585,1,,Americo Venero Montes,U,175,PER,25.3,102361,7,,Adriano Ferreira,R,193,BRA,23.3,6-2 7-6,3,QF,,,,,,,,,,,,,,,,,,,,,,586,30
 1997-M-SA-COL-01A-1997c,Colombia Masters 3,Clay,32,S,19970712,26,102168,,,Hector Moretti,R,170,ARG,24.4,102841,5,,Juan Morgenstern,R,,ARG,20.8,1-6 6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,717,16,570,33
 1997-M-SA-COL-01A-1997c,Colombia Masters 3,Clay,32,S,19970712,27,101417,4,WC,Mario Rincon,R,,COL,29.5,103428,,,Juan Ignacio Chela,R,190,ARG,17.8,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,502,45,1010,6
 1997-M-SA-COL-01A-1997c,Colombia Masters 3,Clay,32,S,19970712,28,102860,2,,Agustin Calleri,R,183,ARG,20.8,102320,,,Lazaro Navarro Batles,R,,CUB,23.4,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,428,65,,
-1997-M-SA-COL-01A-1997c,Colombia Masters 3,Clay,32,S,19970712,29,102168,,,Hector Moretti,R,170,ARG,24.4,108585,1,,Americo Venero Montes,U,,PER,25.3,6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,717,16,,
+1997-M-SA-COL-01A-1997c,Colombia Masters 3,Clay,32,S,19970712,29,102168,,,Hector Moretti,R,170,ARG,24.4,108585,1,,Americo Venero Montes,U,175,PER,25.3,6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,717,16,,
 1997-M-SA-COL-01A-1997c,Colombia Masters 3,Clay,32,S,19970712,30,102860,2,,Agustin Calleri,R,183,ARG,20.8,101417,4,WC,Mario Rincon,R,,COL,29.5,6-2 6-0,3,SF,,,,,,,,,,,,,,,,,,,,428,65,502,45
 1997-M-SA-COL-01A-1997c,Colombia Masters 3,Clay,32,S,19970712,31,102168,,,Hector Moretti,R,170,ARG,24.4,102860,2,,Agustin Calleri,R,183,ARG,20.8,6-3 5-7 6-4,3,F,,,,,,,,,,,,,,,,,,,,717,16,428,65
-1997-M-SA-COL-01A-1997d,Colombia Masters 4,Clay,32,S,19970712,1,103428,,Q,Juan Ignacio Chela,R,190,ARG,17.8,108585,1,,Americo Venero Montes,U,,PER,25.3,6-3 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1010,6,,
+1997-M-SA-COL-01A-1997d,Colombia Masters 4,Clay,32,S,19970712,1,103428,,Q,Juan Ignacio Chela,R,190,ARG,17.8,108585,1,,Americo Venero Montes,U,175,PER,25.3,6-3 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1010,6,,
 1997-M-SA-COL-01A-1997d,Colombia Masters 4,Clay,32,S,19970712,2,102245,,,Egberto Caldas,R,,BRA,23.9,103028,,,Santiago Messora,R,,ARG,19.9,4-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,673,20,750,14
 1997-M-SA-COL-01A-1997d,Colombia Masters 4,Clay,32,S,19970712,3,102935,,Q,Rodrigo Ribeiro,R,,BRA,20.4,103205,,Q,Emilio Daniel Baez Britez,R,,PAR,19.1,7-5 6-7 6-1,3,R32,,,,,,,,,,,,,,,,,,,,922,8,1040,5
 1997-M-SA-COL-01A-1997d,Colombia Masters 4,Clay,32,S,19970712,4,103373,,Q,Sergio Roitman,R,185,ARG,18.1,100995,,LL,Eduardo Masso,L,178,BEL,33.4,5-7 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1040,5,,
@@ -10123,7 +10123,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-M-SA-SWE-01A-1997a,Sweden Masters 1,Carpet,32,S,19970908,12,103149,3,,Mathias Hellstrom,R,,SWE,19.5,117578,,,Mats Norin,R,,SWE,18.2,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,402,70,1294,2
 1997-M-SA-SWE-01A-1997a,Sweden Masters 1,Carpet,32,S,19970908,13,102983,7,,Henrik Andersson,R,,SWE,20.3,117840,,Q,Hans Birger Nordstrom,U,,SWE,21.5,3-6 7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,563,37,1362,1
 1997-M-SA-SWE-01A-1997a,Sweden Masters 1,Carpet,32,S,19970908,14,117636,,Q,Marcus Lund,U,,SWE,19.6,117676,,WC,Niklas Lybner,U,,SWE,18.1,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1083,5,,
-1997-M-SA-SWE-01A-1997a,Sweden Masters 1,Carpet,32,S,19970908,15,102208,,,Rob Givone,R,,USA,24.3,103623,,,Jacob Adaktusson,R,,SWE,17.0,7-5 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,531,42,1294,2
+1997-M-SA-SWE-01A-1997a,Sweden Masters 1,Carpet,32,S,19970908,15,102208,,,Rob Givone,R,,USA,24.3,103623,,,Jacob Adaktusson,R,193,SWE,17.0,7-5 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,531,42,1294,2
 1997-M-SA-SWE-01A-1997a,Sweden Masters 1,Carpet,32,S,19970908,16,102961,2,,Nicklas Timfjord,R,180,SWE,20.4,102298,,,Federico Rovai,R,,SWE,23.7,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,331,103,814,11
 1997-M-SA-SWE-01A-1997a,Sweden Masters 1,Carpet,32,S,19970908,17,102868,,,Jonathan Printzlau,R,,DEN,20.9,102736,,Q,Maxime Boye,R,,FRA,21.5,7-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,491,50,615,28
 1997-M-SA-SWE-01A-1997a,Sweden Masters 1,Carpet,32,S,19970908,18,102089,,,Arnaud Lofficial,R,,FRA,25.1,117917,,Q,Klas Pettersson,U,,SWE,25.0,3-6 6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,806,12,1279,3
@@ -10140,7 +10140,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-M-SA-SWE-01A-1997a,Sweden Masters 1,Carpet,32,S,19970908,29,102868,,,Jonathan Printzlau,R,,DEN,20.9,108603,,WC,Helge Koll Frafjord,U,,NOR,22.2,6-3 7-5,3,SF,,,,,,,,,,,,,,,,,,,,491,50,,
 1997-M-SA-SWE-01A-1997a,Sweden Masters 1,Carpet,32,S,19970908,30,102428,6,,Johan Hede,R,,SWE,23.1,102983,7,,Henrik Andersson,R,,SWE,20.3,6-2 7-6,3,SF,,,,,,,,,,,,,,,,,,,,605,29,563,37
 1997-M-SA-SWE-01A-1997a,Sweden Masters 1,Carpet,32,S,19970908,31,102868,,,Jonathan Printzlau,R,,DEN,20.9,102428,6,,Johan Hede,R,,SWE,23.1,6-1 7-5,3,F,,,,,,,,,,,,,,,,,,,,491,50,605,29
-1997-M-SA-SWE-01A-1997b,Sweden Masters 2,Carpet,24,S,19970908,1,103623,,,Jacob Adaktusson,R,,SWE,17.0,100877,,,Brett Dickinson,R,183,USA,34.7,6-2 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1294,2,633,26
+1997-M-SA-SWE-01A-1997b,Sweden Masters 2,Carpet,24,S,19970908,1,103623,,,Jacob Adaktusson,R,193,SWE,17.0,100877,,,Brett Dickinson,R,183,USA,34.7,6-2 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1294,2,633,26
 1997-M-SA-SWE-01A-1997b,Sweden Masters 2,Carpet,24,S,19970908,2,103323,,,Thomas Heyerdahl,R,,NOR,18.5,117636,,,Marcus Lund,U,,SWE,19.6,1-6 7-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,1083,5
 1997-M-SA-SWE-01A-1997b,Sweden Masters 2,Carpet,24,S,19970908,3,103714,,,Andreas Vinciguerra,L,180,SWE,16.5,102673,,,Tobias Hildebrand,R,,SWE,21.8,4-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,430,64
 1997-M-SA-SWE-01A-1997b,Sweden Masters 2,Carpet,24,S,19970908,4,103129,,,Per Thornadtsson,R,,SWE,19.6,102208,,,Rob Givone,R,,USA,24.3,6-4 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,766,14,531,42
@@ -10148,7 +10148,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-M-SA-SWE-01A-1997b,Sweden Masters 2,Carpet,24,S,19970908,6,102299,,,Olaf Knutel,R,,GER,23.7,117917,,,Klas Pettersson,U,,SWE,25.0,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,912,8,1279,3
 1997-M-SA-SWE-01A-1997b,Sweden Masters 2,Carpet,24,S,19970908,7,108603,,,Helge Koll Frafjord,U,,NOR,22.2,102750,,,Jon Hedman,R,,SWE,21.4,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,686,20
 1997-M-SA-SWE-01A-1997b,Sweden Masters 2,Carpet,24,S,19970908,8,102089,,,Arnaud Lofficial,R,,FRA,25.1,123266,,,Martin Selin,U,,SWE,18.5,6-4 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,806,12,,
-1997-M-SA-SWE-01A-1997b,Sweden Masters 2,Carpet,24,S,19970908,9,102966,1,,Fredrik Jonsson,R,193,SWE,20.4,103623,,,Jacob Adaktusson,R,,SWE,17.0,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,425,65,1294,2
+1997-M-SA-SWE-01A-1997b,Sweden Masters 2,Carpet,24,S,19970908,9,102966,1,,Fredrik Jonsson,R,193,SWE,20.4,103623,,,Jacob Adaktusson,R,193,SWE,17.0,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,425,65,1294,2
 1997-M-SA-SWE-01A-1997b,Sweden Masters 2,Carpet,24,S,19970908,10,103323,,,Thomas Heyerdahl,R,,NOR,18.5,102228,8,,Jan Hermansson,R,,SWE,24.2,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,,,1039,6
 1997-M-SA-SWE-01A-1997b,Sweden Masters 2,Carpet,24,S,19970908,11,102868,3,,Jonathan Printzlau,R,,DEN,20.9,103714,,,Andreas Vinciguerra,L,180,SWE,16.5,7-6 4-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,491,50,,
 1997-M-SA-SWE-01A-1997b,Sweden Masters 2,Carpet,24,S,19970908,12,103129,,,Per Thornadtsson,R,,SWE,19.6,103239,6,,Marcus Sarstrand,R,183,SWE,19.1,4-6 6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,766,14,456,58
@@ -10164,7 +10164,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-M-SA-SWE-01A-1997b,Sweden Masters 2,Carpet,24,S,19970908,22,108603,,,Helge Koll Frafjord,U,,NOR,22.2,102961,4,,Nicklas Timfjord,R,180,SWE,20.4,7-6 6-7 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,331,103
 1997-M-SA-SWE-01A-1997b,Sweden Masters 2,Carpet,24,S,19970908,23,102966,1,,Fredrik Jonsson,R,193,SWE,20.4,108603,,,Helge Koll Frafjord,U,,NOR,22.2,6-4 6-4,3,F,,,,,,,,,,,,,,,,,,,,425,65,,
 1997-M-SA-SWE-01A-1997c,Sweden Masters 3,Carpet,32,S,19970908,1,102961,1,,Nicklas Timfjord,R,180,SWE,20.4,101654,,,Michael Shyjan,R,,USA,27.8,7-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,331,103,748,16
-1997-M-SA-SWE-01A-1997c,Sweden Masters 3,Carpet,32,S,19970908,2,103623,,WC,Jacob Adaktusson,R,,SWE,17.0,102799,,Q,Tobias Huning,R,,GER,21.2,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1294,2,961,7
+1997-M-SA-SWE-01A-1997c,Sweden Masters 3,Carpet,32,S,19970908,2,103623,,WC,Jacob Adaktusson,R,193,SWE,17.0,102799,,Q,Tobias Huning,R,,GER,21.2,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1294,2,961,7
 1997-M-SA-SWE-01A-1997c,Sweden Masters 3,Carpet,32,S,19970908,3,102089,,,Arnaud Lofficial,R,,FRA,25.1,117917,,Q,Klas Pettersson,U,,SWE,25.0,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,806,12,1279,3
 1997-M-SA-SWE-01A-1997c,Sweden Masters 3,Carpet,32,S,19970908,4,102750,,,Jon Hedman,R,,SWE,21.4,102664,7,,Petr Pala,R,193,CZE,21.9,6-4 7-6,3,R32,,,,,,,,,,,,,,,,,,,,686,20,527,42
 1997-M-SA-SWE-01A-1997c,Sweden Masters 3,Carpet,32,S,19970908,5,117578,,WC,Mats Norin,R,,SWE,18.2,117840,,LL,Hans Birger Nordstrom,U,,SWE,21.5,3-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1294,2,1362,1
@@ -10179,7 +10179,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-M-SA-SWE-01A-1997c,Sweden Masters 3,Carpet,32,S,19970908,14,102228,,SE,Jan Hermansson,R,,SWE,24.2,102794,,Q,Mikael Maatta,R,,SWE,21.2,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1039,6,1126,4
 1997-M-SA-SWE-01A-1997c,Sweden Masters 3,Carpet,32,S,19970908,15,100877,,,Brett Dickinson,R,183,USA,34.7,111472,,WC,Joel Christensen,R,,SWE,18.1,6-2 5-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,633,26,1362,1
 1997-M-SA-SWE-01A-1997c,Sweden Masters 3,Carpet,32,S,19970908,16,103149,2,,Mathias Hellstrom,R,,SWE,19.5,117636,,Q,Marcus Lund,U,,SWE,19.6,7-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,402,70,1083,5
-1997-M-SA-SWE-01A-1997c,Sweden Masters 3,Carpet,32,S,19970908,17,102961,1,,Nicklas Timfjord,R,180,SWE,20.4,103623,,WC,Jacob Adaktusson,R,,SWE,17.0,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,331,103,1294,2
+1997-M-SA-SWE-01A-1997c,Sweden Masters 3,Carpet,32,S,19970908,17,102961,1,,Nicklas Timfjord,R,180,SWE,20.4,103623,,WC,Jacob Adaktusson,R,193,SWE,17.0,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,331,103,1294,2
 1997-M-SA-SWE-01A-1997c,Sweden Masters 3,Carpet,32,S,19970908,18,102750,,,Jon Hedman,R,,SWE,21.4,102089,,,Arnaud Lofficial,R,,FRA,25.1,7-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,,686,20,806,12
 1997-M-SA-SWE-01A-1997c,Sweden Masters 3,Carpet,32,S,19970908,19,102428,,,Johan Hede,R,,SWE,23.1,117578,,WC,Mats Norin,R,,SWE,18.2,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,605,29,1294,2
 1997-M-SA-SWE-01A-1997c,Sweden Masters 3,Carpet,32,S,19970908,20,102868,6,,Jonathan Printzlau,R,,DEN,20.9,102793,,Q,Fredrik Loven,R,,SWE,21.2,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,491,50,890,9
@@ -10194,7 +10194,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-M-SA-SWE-01A-1997c,Sweden Masters 3,Carpet,32,S,19970908,29,102961,1,,Nicklas Timfjord,R,180,SWE,20.4,102428,,,Johan Hede,R,,SWE,23.1,7-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,331,103,605,29
 1997-M-SA-SWE-01A-1997c,Sweden Masters 3,Carpet,32,S,19970908,30,103149,2,,Mathias Hellstrom,R,,SWE,19.5,102966,3,,Fredrik Jonsson,R,193,SWE,20.4,6-4 4-6 6-2,3,SF,,,,,,,,,,,,,,,,,,,,402,70,425,65
 1997-M-SA-SWE-01A-1997c,Sweden Masters 3,Carpet,32,S,19970908,31,102961,1,,Nicklas Timfjord,R,180,SWE,20.4,103149,2,,Mathias Hellstrom,R,,SWE,19.5,6-2 7-5,3,F,,,,,,,,,,,,,,,,,,,,331,103,402,70
-1997-M-SA-SWE-01A-1997d,Sweden Masters 4,Carpet,32,S,19970908,1,102961,1,,Nicklas Timfjord,R,180,SWE,20.4,103623,,WC,Jacob Adaktusson,R,,SWE,17.0,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,331,103,1294,2
+1997-M-SA-SWE-01A-1997d,Sweden Masters 4,Carpet,32,S,19970908,1,102961,1,,Nicklas Timfjord,R,180,SWE,20.4,103623,,WC,Jacob Adaktusson,R,193,SWE,17.0,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,331,103,1294,2
 1997-M-SA-SWE-01A-1997d,Sweden Masters 4,Carpet,32,S,19970908,2,102228,,Q,Jan Hermansson,R,,SWE,24.2,101561,,,Nicklas Utgren,R,188,SWE,28.6,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1039,6,785,13
 1997-M-SA-SWE-01A-1997d,Sweden Masters 4,Carpet,32,S,19970908,3,102428,,,Johan Hede,R,,SWE,23.1,103198,,,Justin Bower,L,190,RSA,19.2,7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,605,29,709,18
 1997-M-SA-SWE-01A-1997d,Sweden Masters 4,Carpet,32,S,19970908,4,102208,8,,Rob Givone,R,,USA,24.3,101668,,Q,Peter Nyborg,R,190,SWE,27.7,6-1 7-6,3,R32,,,,,,,,,,,,,,,,,,,,531,42,,
@@ -12677,24 +12677,24 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-M-SA-CHI-02A-1997a,Chile 2 Masters 1,Clay,24,S,19971108,10,102999,,,Stefano Galvani,R,178,ITA,20.4,103632,7,,Luis Horna,R,180,PER,17.1,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,521,44,1318,2
 1997-M-SA-CHI-02A-1997a,Chile 2 Masters 1,Clay,24,S,19971108,11,102207,,,Jan Weinzierl,R,,GER,24.5,102077,4,,Alexander Shvec,R,,BLR,25.3,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,292,125,345,90
 1997-M-SA-CHI-02A-1997a,Chile 2 Masters 1,Clay,24,S,19971108,12,102997,,,Hermes Gamonal,R,180,CHI,20.4,101741,6,,Gonzalo Fernandez,R,,CHI,27.4,6-1 6-7 6-3,3,R16,,,,,,,,,,,,,,,,,,,,509,46,,
-1997-M-SA-CHI-02A-1997a,Chile 2 Masters 1,Clay,24,S,19971108,13,108585,5,,Americo Venero Montes,U,,PER,25.6,103019,,,Evgeni Mikheev,R,,BLR,20.3,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,585,33
+1997-M-SA-CHI-02A-1997a,Chile 2 Masters 1,Clay,24,S,19971108,13,108585,5,,Americo Venero Montes,U,175,PER,25.6,103019,,,Evgeni Mikheev,R,,BLR,20.3,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,585,33
 1997-M-SA-CHI-02A-1997a,Chile 2 Masters 1,Clay,24,S,19971108,14,102718,3,,Enzo Artoni,R,,ITA,21.7,103602,,,Fernando Gonzalez,R,183,CHI,17.2,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,417,64,1347,1
 1997-M-SA-CHI-02A-1997a,Chile 2 Masters 1,Clay,24,S,19971108,15,102174,,,Francisco Ruiz,R,,CHI,24.7,102930,8,,Rodrigo Cerdera,R,,ARG,20.7,2-6 6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,685,21,399,69
 1997-M-SA-CHI-02A-1997a,Chile 2 Masters 1,Clay,24,S,19971108,16,101430,2,,Sergio Cortes,R,170,CHI,29.8,117459,,,Andres Morales,U,,CHI,20.4,7-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,624,27,1347,1
 1997-M-SA-CHI-02A-1997a,Chile 2 Masters 1,Clay,24,S,19971108,17,102768,1,,Federico Browne,R,180,ARG,21.5,102999,,,Stefano Galvani,R,178,ITA,20.4,7-5 6-4,3,QF,,,,,,,,,,,,,,,,,,,,311,109,521,44
 1997-M-SA-CHI-02A-1997a,Chile 2 Masters 1,Clay,24,S,19971108,18,102997,,,Hermes Gamonal,R,180,CHI,20.4,102207,,,Jan Weinzierl,R,,GER,24.5,2-6 6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,509,46,292,125
-1997-M-SA-CHI-02A-1997a,Chile 2 Masters 1,Clay,24,S,19971108,19,108585,5,,Americo Venero Montes,U,,PER,25.6,102718,3,,Enzo Artoni,R,,ITA,21.7,7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,417,64
+1997-M-SA-CHI-02A-1997a,Chile 2 Masters 1,Clay,24,S,19971108,19,108585,5,,Americo Venero Montes,U,175,PER,25.6,102718,3,,Enzo Artoni,R,,ITA,21.7,7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,417,64
 1997-M-SA-CHI-02A-1997a,Chile 2 Masters 1,Clay,24,S,19971108,20,102174,,,Francisco Ruiz,R,,CHI,24.7,101430,2,,Sergio Cortes,R,170,CHI,29.8,5-7 6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,685,21,624,27
 1997-M-SA-CHI-02A-1997a,Chile 2 Masters 1,Clay,24,S,19971108,21,102997,,,Hermes Gamonal,R,180,CHI,20.4,102768,1,,Federico Browne,R,180,ARG,21.5,6-4 4-6 7-6,3,SF,,,,,,,,,,,,,,,,,,,,509,46,311,109
-1997-M-SA-CHI-02A-1997a,Chile 2 Masters 1,Clay,24,S,19971108,22,108585,5,,Americo Venero Montes,U,,PER,25.6,102174,,,Francisco Ruiz,R,,CHI,24.7,7-5 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,685,21
-1997-M-SA-CHI-02A-1997a,Chile 2 Masters 1,Clay,24,S,19971108,23,102997,,,Hermes Gamonal,R,180,CHI,20.4,108585,5,,Americo Venero Montes,U,,PER,25.6,6-2 7-6,3,F,,,,,,,,,,,,,,,,,,,,509,46,,
+1997-M-SA-CHI-02A-1997a,Chile 2 Masters 1,Clay,24,S,19971108,22,108585,5,,Americo Venero Montes,U,175,PER,25.6,102174,,,Francisco Ruiz,R,,CHI,24.7,7-5 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,685,21
+1997-M-SA-CHI-02A-1997a,Chile 2 Masters 1,Clay,24,S,19971108,23,102997,,,Hermes Gamonal,R,180,CHI,20.4,108585,5,,Americo Venero Montes,U,175,PER,25.6,6-2 7-6,3,F,,,,,,,,,,,,,,,,,,,,509,46,,
 1997-M-SA-CHI-02A-1997b,Chile 2 Masters 2,Clay,32,S,19971108,1,102768,1,,Federico Browne,R,180,ARG,21.5,102962,,Q,Miguel Miranda,R,,CHI,20.6,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,311,109,663,23
 1997-M-SA-CHI-02A-1997b,Chile 2 Masters 2,Clay,32,S,19971108,2,102999,,,Stefano Galvani,R,178,ITA,20.4,103775,,WC,Felipe Parada,R,175,CHI,16.4,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,521,44,,
 1997-M-SA-CHI-02A-1997b,Chile 2 Masters 2,Clay,32,S,19971108,3,103450,,,Federico Cardinali,R,,ARG,18.0,109476,,WC,Claudio Alvarado,R,,CHI,16.9,1-6 7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1997-M-SA-CHI-02A-1997b,Chile 2 Masters 2,Clay,32,S,19971108,4,102997,8,,Hermes Gamonal,R,180,CHI,20.4,111651,,Q,Giovanni Picco,U,,SMR,20.8,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,509,46,,
 1997-M-SA-CHI-02A-1997b,Chile 2 Masters 2,Clay,32,S,19971108,5,102077,4,,Alexander Shvec,R,,BLR,25.3,103201,,,Adrian Garcia,R,175,CHI,19.4,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,345,90,689,21
 1997-M-SA-CHI-02A-1997b,Chile 2 Masters 2,Clay,32,S,19971108,6,102846,,,Raul Valdes,R,,CHI,21.1,102174,,,Francisco Ruiz,R,,CHI,24.7,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,782,14,685,21
-1997-M-SA-CHI-02A-1997b,Chile 2 Masters 2,Clay,32,S,19971108,7,108585,,,Americo Venero Montes,U,,PER,25.6,103058,,WC,Juan Felipe Yanez,R,,CHI,20.1,6-4 7-6,3,R32,,,,,,,,,,,,,,,,,,,,,,1103,4
+1997-M-SA-CHI-02A-1997b,Chile 2 Masters 2,Clay,32,S,19971108,7,108585,,,Americo Venero Montes,U,175,PER,25.6,103058,,WC,Juan Felipe Yanez,R,,CHI,20.1,6-4 7-6,3,R32,,,,,,,,,,,,,,,,,,,,,,1103,4
 1997-M-SA-CHI-02A-1997b,Chile 2 Masters 2,Clay,32,S,19971108,8,103632,5,,Luis Horna,R,180,PER,17.1,103310,,,Rodrigo Pena,R,,ARG,18.7,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1318,2,1060,5
 1997-M-SA-CHI-02A-1997b,Chile 2 Masters 2,Clay,32,S,19971108,9,100898,,Q,Robinson Ureta,R,,CHI,34.6,111623,6,,Juan Robinson Gamonal,U,,CHI,22.6,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1037,5,,
 1997-M-SA-CHI-02A-1997b,Chile 2 Masters 2,Clay,32,S,19971108,10,103019,,,Evgeni Mikheev,R,,BLR,20.3,102471,,Q,Sergio Elias,U,,CHI,23.0,6-1 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,585,33,,
@@ -12707,16 +12707,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-M-SA-CHI-02A-1997b,Chile 2 Masters 2,Clay,32,S,19971108,17,102768,1,,Federico Browne,R,180,ARG,21.5,102999,,,Stefano Galvani,R,178,ITA,20.4,7-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,311,109,521,44
 1997-M-SA-CHI-02A-1997b,Chile 2 Masters 2,Clay,32,S,19971108,18,102997,8,,Hermes Gamonal,R,180,CHI,20.4,103450,,,Federico Cardinali,R,,ARG,18.0,W/O,3,R16,,,,,,,,,,,,,,,,,,,,509,46,,
 1997-M-SA-CHI-02A-1997b,Chile 2 Masters 2,Clay,32,S,19971108,19,102077,4,,Alexander Shvec,R,,BLR,25.3,102846,,,Raul Valdes,R,,CHI,21.1,6-2 7-6,3,R16,,,,,,,,,,,,,,,,,,,,345,90,782,14
-1997-M-SA-CHI-02A-1997b,Chile 2 Masters 2,Clay,32,S,19971108,20,108585,,,Americo Venero Montes,U,,PER,25.6,103632,5,,Luis Horna,R,180,PER,17.1,3-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,1318,2
+1997-M-SA-CHI-02A-1997b,Chile 2 Masters 2,Clay,32,S,19971108,20,108585,,,Americo Venero Montes,U,175,PER,25.6,103632,5,,Luis Horna,R,180,PER,17.1,3-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,1318,2
 1997-M-SA-CHI-02A-1997b,Chile 2 Masters 2,Clay,32,S,19971108,21,103019,,,Evgeni Mikheev,R,,BLR,20.3,100898,,Q,Robinson Ureta,R,,CHI,34.6,6-3 5-7 6-1,3,R16,,,,,,,,,,,,,,,,,,,,585,33,1037,5
 1997-M-SA-CHI-02A-1997b,Chile 2 Masters 2,Clay,32,S,19971108,22,101741,,,Gonzalo Fernandez,R,,CHI,27.4,102718,3,,Enzo Artoni,R,,ITA,21.7,7-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,417,64
 1997-M-SA-CHI-02A-1997b,Chile 2 Masters 2,Clay,32,S,19971108,23,102930,7,,Rodrigo Cerdera,R,,ARG,20.7,103602,,,Fernando Gonzalez,R,183,CHI,17.2,3-6 6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,399,69,1347,1
 1997-M-SA-CHI-02A-1997b,Chile 2 Masters 2,Clay,32,S,19971108,24,101430,2,,Sergio Cortes,R,170,CHI,29.8,102207,,Q,Jan Weinzierl,R,,GER,24.5,3-6 6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,624,27,292,125
 1997-M-SA-CHI-02A-1997b,Chile 2 Masters 2,Clay,32,S,19971108,25,102768,1,,Federico Browne,R,180,ARG,21.5,102997,8,,Hermes Gamonal,R,180,CHI,20.4,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,311,109,509,46
-1997-M-SA-CHI-02A-1997b,Chile 2 Masters 2,Clay,32,S,19971108,26,108585,,,Americo Venero Montes,U,,PER,25.6,102077,4,,Alexander Shvec,R,,BLR,25.3,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,345,90
+1997-M-SA-CHI-02A-1997b,Chile 2 Masters 2,Clay,32,S,19971108,26,108585,,,Americo Venero Montes,U,175,PER,25.6,102077,4,,Alexander Shvec,R,,BLR,25.3,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,345,90
 1997-M-SA-CHI-02A-1997b,Chile 2 Masters 2,Clay,32,S,19971108,27,101741,,,Gonzalo Fernandez,R,,CHI,27.4,103019,,,Evgeni Mikheev,R,,BLR,20.3,6-7 6-2 7-5,3,QF,,,,,,,,,,,,,,,,,,,,,,585,33
 1997-M-SA-CHI-02A-1997b,Chile 2 Masters 2,Clay,32,S,19971108,28,101430,2,,Sergio Cortes,R,170,CHI,29.8,102930,7,,Rodrigo Cerdera,R,,ARG,20.7,2-6 6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,624,27,399,69
-1997-M-SA-CHI-02A-1997b,Chile 2 Masters 2,Clay,32,S,19971108,29,102768,1,,Federico Browne,R,180,ARG,21.5,108585,,,Americo Venero Montes,U,,PER,25.6,6-1 6-2,3,SF,,,,,,,,,,,,,,,,,,,,311,109,,
+1997-M-SA-CHI-02A-1997b,Chile 2 Masters 2,Clay,32,S,19971108,29,102768,1,,Federico Browne,R,180,ARG,21.5,108585,,,Americo Venero Montes,U,175,PER,25.6,6-1 6-2,3,SF,,,,,,,,,,,,,,,,,,,,311,109,,
 1997-M-SA-CHI-02A-1997b,Chile 2 Masters 2,Clay,32,S,19971108,30,101430,2,,Sergio Cortes,R,170,CHI,29.8,101741,,,Gonzalo Fernandez,R,,CHI,27.4,6-2 4-6 6-1,3,SF,,,,,,,,,,,,,,,,,,,,624,27,,
 1997-M-SA-CHI-02A-1997b,Chile 2 Masters 2,Clay,32,S,19971108,31,102768,1,,Federico Browne,R,180,ARG,21.5,101430,2,,Sergio Cortes,R,170,CHI,29.8,7-6 6-3,3,F,,,,,,,,,,,,,,,,,,,,311,109,624,27
 1997-M-SA-CHI-02A-1997c,Chile 2 Masters 3,Clay,32,S,19971108,1,102768,1,,Federico Browne,R,180,ARG,21.5,102853,,Q,Pablo Montana,R,,USA,21.1,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,311,109,935,8
@@ -12731,7 +12731,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-M-SA-CHI-02A-1997c,Chile 2 Masters 3,Clay,32,S,19971108,10,103058,,,Juan Felipe Yanez,R,,CHI,20.1,117415,,Q,Sebastian Contador,U,,CHI,21.8,6-3 5-7 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1103,4,,
 1997-M-SA-CHI-02A-1997c,Chile 2 Masters 3,Clay,32,S,19971108,11,103090,,Q,Diego Bracco,R,,ARG,19.9,103602,,WC,Fernando Gonzalez,R,183,CHI,17.2,6-2 7-6,3,R32,,,,,,,,,,,,,,,,,,,,,,1347,1
 1997-M-SA-CHI-02A-1997c,Chile 2 Masters 3,Clay,32,S,19971108,12,102930,4,,Rodrigo Cerdera,R,,ARG,20.7,102962,,,Miguel Miranda,R,,CHI,20.6,5-7 7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,399,69,663,23
-1997-M-SA-CHI-02A-1997c,Chile 2 Masters 3,Clay,32,S,19971108,13,108585,8,,Americo Venero Montes,U,,PER,25.6,111623,,,Juan Robinson Gamonal,U,,CHI,22.6,7-6 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1997-M-SA-CHI-02A-1997c,Chile 2 Masters 3,Clay,32,S,19971108,13,108585,8,,Americo Venero Montes,U,175,PER,25.6,111623,,,Juan Robinson Gamonal,U,,CHI,22.6,7-6 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1997-M-SA-CHI-02A-1997c,Chile 2 Masters 3,Clay,32,S,19971108,14,103632,,Q,Luis Horna,R,180,PER,17.1,103205,,,Emilio Daniel Baez Britez,R,,PAR,19.4,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1318,2,773,14
 1997-M-SA-CHI-02A-1997c,Chile 2 Masters 3,Clay,32,S,19971108,15,103310,,Q,Rodrigo Pena,R,,ARG,18.7,103775,,WC,Felipe Parada,R,175,CHI,16.4,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1060,5,,
 1997-M-SA-CHI-02A-1997c,Chile 2 Masters 3,Clay,32,S,19971108,16,101741,,,Gonzalo Fernandez,R,,CHI,27.4,102207,2,,Jan Weinzierl,R,,GER,24.5,4-6 6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,292,125
@@ -12741,7 +12741,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-M-SA-CHI-02A-1997c,Chile 2 Masters 3,Clay,32,S,19971108,20,103201,,,Adrian Garcia,R,175,CHI,19.4,102997,6,,Hermes Gamonal,R,180,CHI,20.4,1-6 6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,689,21,509,46
 1997-M-SA-CHI-02A-1997c,Chile 2 Masters 3,Clay,32,S,19971108,21,102718,5,,Enzo Artoni,R,,ITA,21.7,103058,,,Juan Felipe Yanez,R,,CHI,20.1,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,417,64,1103,4
 1997-M-SA-CHI-02A-1997c,Chile 2 Masters 3,Clay,32,S,19971108,22,102930,4,,Rodrigo Cerdera,R,,ARG,20.7,103090,,Q,Diego Bracco,R,,ARG,19.9,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,399,69,,
-1997-M-SA-CHI-02A-1997c,Chile 2 Masters 3,Clay,32,S,19971108,23,103632,,Q,Luis Horna,R,180,PER,17.1,108585,8,,Americo Venero Montes,U,,PER,25.6,6-3 7-6,3,R16,,,,,,,,,,,,,,,,,,,,1318,2,,
+1997-M-SA-CHI-02A-1997c,Chile 2 Masters 3,Clay,32,S,19971108,23,103632,,Q,Luis Horna,R,180,PER,17.1,108585,8,,Americo Venero Montes,U,175,PER,25.6,6-3 7-6,3,R16,,,,,,,,,,,,,,,,,,,,1318,2,,
 1997-M-SA-CHI-02A-1997c,Chile 2 Masters 3,Clay,32,S,19971108,24,101741,,,Gonzalo Fernandez,R,,CHI,27.4,103310,,Q,Rodrigo Pena,R,,ARG,18.7,1-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,1060,5
 1997-M-SA-CHI-02A-1997c,Chile 2 Masters 3,Clay,32,S,19971108,25,102768,1,,Federico Browne,R,180,ARG,21.5,102999,7,,Stefano Galvani,R,178,ITA,20.4,6-1 6-0,3,QF,,,,,,,,,,,,,,,,,,,,311,109,521,44
 1997-M-SA-CHI-02A-1997c,Chile 2 Masters 3,Clay,32,S,19971108,26,101430,,,Sergio Cortes,R,170,CHI,29.8,103201,,,Adrian Garcia,R,175,CHI,19.4,6-1 6-0,3,QF,,,,,,,,,,,,,,,,,,,,624,27,689,21
@@ -12759,7 +12759,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-M-SA-CHI-02A-1997d,Chile 2 Masters 4,Clay,32,S,19971108,7,103602,,WC,Fernando Gonzalez,R,183,CHI,17.2,109476,,WC,Claudio Alvarado,R,,CHI,16.9,6-3 6-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1347,1,,
 1997-M-SA-CHI-02A-1997d,Chile 2 Masters 4,Clay,32,S,19971108,8,102718,6,,Enzo Artoni,R,,ITA,21.7,101548,,,Gabriel Keymer,R,,CHI,28.8,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,417,64,660,23
 1997-M-SA-CHI-02A-1997d,Chile 2 Masters 4,Clay,32,S,19971108,9,102930,5,,Rodrigo Cerdera,R,,ARG,20.7,103775,,Q,Felipe Parada,R,175,CHI,16.4,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,399,69,,
-1997-M-SA-CHI-02A-1997d,Chile 2 Masters 4,Clay,32,S,19971108,10,108585,,,Americo Venero Montes,U,,PER,25.6,103552,,WC,Carlos Gonzalez Leiva,R,,CHI,17.5,6-3 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1997-M-SA-CHI-02A-1997d,Chile 2 Masters 4,Clay,32,S,19971108,10,108585,,,Americo Venero Montes,U,175,PER,25.6,103552,,WC,Carlos Gonzalez Leiva,R,,CHI,17.5,6-3 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1997-M-SA-CHI-02A-1997d,Chile 2 Masters 4,Clay,32,S,19971108,11,101427,,Q,Ruben Gajardo,R,,CHI,29.8,103310,,Q,Rodrigo Pena,R,,ARG,18.7,0-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1103,4,1060,5
 1997-M-SA-CHI-02A-1997d,Chile 2 Masters 4,Clay,32,S,19971108,12,102768,3,,Federico Browne,R,180,ARG,21.5,103632,,Q,Luis Horna,R,180,PER,17.1,6-4 2-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,311,109,1318,2
 1997-M-SA-CHI-02A-1997d,Chile 2 Masters 4,Clay,32,S,19971108,13,102997,7,,Hermes Gamonal,R,180,CHI,20.4,117370,,Q,Sebastian Di Stefano,U,,ARG,20.1,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,509,46,,
@@ -12770,13 +12770,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-M-SA-CHI-02A-1997d,Chile 2 Masters 4,Clay,32,S,19971108,18,103450,,Q,Federico Cardinali,R,,ARG,18.0,102846,,,Raul Valdes,R,,CHI,21.1,4-6 7-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,,,,782,14
 1997-M-SA-CHI-02A-1997d,Chile 2 Masters 4,Clay,32,S,19971108,19,102077,4,,Alexander Shvec,R,,BLR,25.3,101741,,,Gonzalo Fernandez,R,,CHI,27.4,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,345,90,,
 1997-M-SA-CHI-02A-1997d,Chile 2 Masters 4,Clay,32,S,19971108,20,103602,,WC,Fernando Gonzalez,R,183,CHI,17.2,102718,6,,Enzo Artoni,R,,ITA,21.7,6-7 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1347,1,417,64
-1997-M-SA-CHI-02A-1997d,Chile 2 Masters 4,Clay,32,S,19971108,21,108585,,,Americo Venero Montes,U,,PER,25.6,102930,5,,Rodrigo Cerdera,R,,ARG,20.7,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,399,69
+1997-M-SA-CHI-02A-1997d,Chile 2 Masters 4,Clay,32,S,19971108,21,108585,,,Americo Venero Montes,U,175,PER,25.6,102930,5,,Rodrigo Cerdera,R,,ARG,20.7,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,399,69
 1997-M-SA-CHI-02A-1997d,Chile 2 Masters 4,Clay,32,S,19971108,22,102768,3,,Federico Browne,R,180,ARG,21.5,101427,,Q,Ruben Gajardo,R,,CHI,29.8,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,311,109,1103,4
 1997-M-SA-CHI-02A-1997d,Chile 2 Masters 4,Clay,32,S,19971108,23,102997,7,,Hermes Gamonal,R,180,CHI,20.4,111651,,Q,Giovanni Picco,U,,SMR,20.8,2-6 6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,509,46,,
 1997-M-SA-CHI-02A-1997d,Chile 2 Masters 4,Clay,32,S,19971108,24,101430,,,Sergio Cortes,R,170,CHI,29.8,103019,,,Evgeni Mikheev,R,,BLR,20.3,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,624,27,585,33
 1997-M-SA-CHI-02A-1997d,Chile 2 Masters 4,Clay,32,S,19971108,25,111623,,,Juan Robinson Gamonal,U,,CHI,22.6,103450,,Q,Federico Cardinali,R,,ARG,18.0,6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,,,,
 1997-M-SA-CHI-02A-1997d,Chile 2 Masters 4,Clay,32,S,19971108,26,102077,4,,Alexander Shvec,R,,BLR,25.3,103602,,WC,Fernando Gonzalez,R,183,CHI,17.2,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,345,90,1347,1
-1997-M-SA-CHI-02A-1997d,Chile 2 Masters 4,Clay,32,S,19971108,27,102768,3,,Federico Browne,R,180,ARG,21.5,108585,,,Americo Venero Montes,U,,PER,25.6,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,311,109,,
+1997-M-SA-CHI-02A-1997d,Chile 2 Masters 4,Clay,32,S,19971108,27,102768,3,,Federico Browne,R,180,ARG,21.5,108585,,,Americo Venero Montes,U,175,PER,25.6,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,311,109,,
 1997-M-SA-CHI-02A-1997d,Chile 2 Masters 4,Clay,32,S,19971108,28,101430,,,Sergio Cortes,R,170,CHI,29.8,102997,7,,Hermes Gamonal,R,180,CHI,20.4,6-4 6-0,3,QF,,,,,,,,,,,,,,,,,,,,624,27,509,46
 1997-M-SA-CHI-02A-1997d,Chile 2 Masters 4,Clay,32,S,19971108,29,102077,4,,Alexander Shvec,R,,BLR,25.3,111623,,,Juan Robinson Gamonal,U,,CHI,22.6,7-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,345,90,,
 1997-M-SA-CHI-02A-1997d,Chile 2 Masters 4,Clay,32,S,19971108,30,102768,3,,Federico Browne,R,180,ARG,21.5,101430,,,Sergio Cortes,R,170,CHI,29.8,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,311,109,624,27
@@ -12803,7 +12803,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-M-SA-USA-07A-1997a,USA 7 Masters 1,Hard,64,S,19971114,20,103405,,,Rodolfo Rake,R,,PER,18.3,101878,12,,Wynn Criswell,R,,USA,26.6,7-5 7-6,3,R64,,,,,,,,,,,,,,,,,,,,924,8,471,53
 1997-M-SA-USA-07A-1997a,USA 7 Masters 1,Hard,64,S,19971114,21,103277,,Q,Timo Nigri,R,,GER,19.0,102451,13,,Chris Groer,R,,USA,23.1,6-4 6-3,3,R64,,,,,,,,,,,,,,,,,,,,924,8,466,55
 1997-M-SA-USA-07A-1997a,USA 7 Masters 1,Hard,64,S,19971114,22,111610,,,Damir Barisic,U,,CRO,20.6,102096,,,Mark Weaver,R,,USA,25.2,6-3 3-6 7-5,3,R64,,,,,,,,,,,,,,,,,,,,1192,3,1041,6
-1997-M-SA-USA-07A-1997a,USA 7 Masters 1,Hard,64,S,19971114,23,102985,,WC,Gustavo Marcaccio,R,,ARG,20.5,101655,,,Rogelio Guerrero,R,,MEX,28.0,6-3 6-4,3,R64,,,,,,,,,,,,,,,,,,,,,,1105,4
+1997-M-SA-USA-07A-1997a,USA 7 Masters 1,Hard,64,S,19971114,23,102985,,WC,Gustavo Marcaccio,R,170,ARG,20.5,101655,,,Rogelio Guerrero,R,,MEX,28.0,6-3 6-4,3,R64,,,,,,,,,,,,,,,,,,,,,,1105,4
 1997-M-SA-USA-07A-1997a,USA 7 Masters 1,Hard,64,S,19971114,24,103352,4,,Luka Kutanjac,R,,CRO,18.6,102658,,,Marc Bauer,R,,FRA,22.1,6-3 3-6 7-6,3,R64,,,,,,,,,,,,,,,,,,,,703,19,1011,6
 1997-M-SA-USA-07A-1997a,USA 7 Masters 1,Hard,64,S,19971114,25,117943,7,,Marq Foster,U,,USA,23.4,101905,,Q,Andy Stewart,R,,USA,26.5,6-3 4-6 6-3,3,R64,,,,,,,,,,,,,,,,,,,,,,654,24
 1997-M-SA-USA-07A-1997a,USA 7 Masters 1,Hard,64,S,19971114,26,117490,,Q,Michel Stopa,U,,FRA,22.2,100830,,WC,Gary Donnelly,R,190,USA,35.4,5-7 6-0 6-4,3,R64,,,,,,,,,,,,,,,,,,,,,,,
@@ -12824,7 +12824,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-M-SA-USA-07A-1997a,USA 7 Masters 1,Hard,64,S,19971114,41,102617,,,Kim Tiilikainen,R,180,FIN,22.3,102501,6,,Johan Landsberg,R,183,SWE,22.8,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,591,32,672,22
 1997-M-SA-USA-07A-1997a,USA 7 Masters 1,Hard,64,S,19971114,42,103405,,,Rodolfo Rake,R,,PER,18.3,102664,,Q,Petr Pala,R,193,CZE,22.1,7-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,924,8,558,38
 1997-M-SA-USA-07A-1997a,USA 7 Masters 1,Hard,64,S,19971114,43,111610,,,Damir Barisic,U,,CRO,20.6,103277,,Q,Timo Nigri,R,,GER,19.0,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1192,3,924,8
-1997-M-SA-USA-07A-1997a,USA 7 Masters 1,Hard,64,S,19971114,44,103352,4,,Luka Kutanjac,R,,CRO,18.6,102985,,WC,Gustavo Marcaccio,R,,ARG,20.5,4-6 7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,703,19,,
+1997-M-SA-USA-07A-1997a,USA 7 Masters 1,Hard,64,S,19971114,44,103352,4,,Luka Kutanjac,R,,CRO,18.6,102985,,WC,Gustavo Marcaccio,R,170,ARG,20.5,4-6 7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,703,19,,
 1997-M-SA-USA-07A-1997a,USA 7 Masters 1,Hard,64,S,19971114,45,117943,7,,Marq Foster,U,,USA,23.4,117490,,Q,Michel Stopa,U,,FRA,22.2,6-7 6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1997-M-SA-USA-07A-1997a,USA 7 Masters 1,Hard,64,S,19971114,46,102712,,Q,Joshua Hausman,R,,USA,21.8,102387,9,,Boris Bosnjakovic,R,190,YUG,23.5,7-6 1-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,1105,4
 1997-M-SA-USA-07A-1997a,USA 7 Masters 1,Hard,64,S,19971114,47,102447,,Q,Jean Francois Berard,R,,CAN,23.1,102190,,,Philippe Moggio,L,,COL,24.6,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1346,1,803,12

@@ -1610,7 +1610,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-429,Stockholm,Hard,32,A,20041025,30,102563,,,Thomas Johansson,R,180,SWE,29.5,104453,,WC,Michael Ryderstedt,L,188,SWE,19.9,6-3 6-2,3,SF,51,7,1,43,28,25,11,9,0,0,5,4,44,25,19,7,8,2,5,42,816,239,156
 2004-429,Stockholm,Hard,32,A,20041025,31,102563,,,Thomas Johansson,R,180,SWE,29.5,101736,1,,Andre Agassi,R,180,USA,34.4,3-6 6-3 7-6(4),3,F,114,17,3,93,55,38,19,15,4,8,8,2,91,56,38,16,15,5,9,42,816,7,2365
 2004-433,Scottsdale,Hard,32,A,20040301,1,104053,1,,Andy Roddick,R,188,USA,21.5,102770,,,John Van Lottum,R,185,NED,27.8,6-3 7-5,3,R32,146,10,1,71,42,30,18,11,4,5,4,1,67,31,23,15,10,5,8,3,4335,89,425
-2004-433,Scottsdale,Hard,32,A,20040301,2,104166,,WC,Alex Bogomolov Jr,R,178,RUS,20.8,102985,,Q,Gustavo Marcaccio,R,,ARG,26.8,6-3 5-7 6-4,3,R32,116,7,4,96,66,44,15,16,3,7,1,2,88,59,41,12,15,1,6,116,338,391,73
+2004-433,Scottsdale,Hard,32,A,20040301,2,104166,,WC,Alex Bogomolov Jr,R,178,RUS,20.8,102985,,Q,Gustavo Marcaccio,R,170,ARG,26.8,6-3 5-7 6-4,3,R32,116,7,4,96,66,44,15,16,3,7,1,2,88,59,41,12,15,1,6,116,338,391,73
 2004-433,Scottsdale,Hard,32,A,20040301,3,102998,,,Jan Michael Gambill,R,190,USA,26.7,104717,,WC,Brendan Evans,R,188,USA,17.8,6-1 6-4,3,R32,57,6,3,50,27,24,14,9,0,0,5,2,48,31,21,5,8,0,3,59,605,964,7
 2004-433,Scottsdale,Hard,32,A,20040301,4,102694,,,Lars Burgsmuller,R,183,GER,28.2,103297,,LL,Alex Kim,R,175,USA,25.1,6-4 3-6 7-5,3,R32,139,4,4,112,72,46,16,15,9,14,1,4,110,72,42,18,16,10,16,76,481,166,222
 2004-433,Scottsdale,Hard,32,A,20040301,5,102434,4,,Vincent Spadea,R,183,USA,29.6,102563,,WC,Thomas Johansson,R,180,SWE,28.9,6-4 6-4,3,R32,75,6,4,59,37,28,13,10,2,3,5,4,65,38,26,12,10,5,8,29,1030,231,153
@@ -3052,7 +3052,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-D024,Davis Cup G1 R1: VEN vs PAR,Hard,4,D,20040206,1,102887,,,Ramon Delgado,R,185,PAR,27.2,102655,,,Jimy Szymanski,R,175,VEN,28.3,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,196,184,421,64
 2004-D024,Davis Cup G1 R1: VEN vs PAR,Hard,4,D,20040206,2,103739,,,Jose De Armas,R,,VEN,22.8,102740,,,Francisco Rodriguez,R,,PAR,27.9,2-6 6-2 4-6 6-2 6-1,5,RR,,,,,,,,,,,,,,,,,,,,301,108,430,61
 2004-D024,Davis Cup G1 R1: VEN vs PAR,Hard,4,D,20040206,4,102887,,,Ramon Delgado,R,185,PAR,27.2,103739,,,Jose De Armas,R,,VEN,22.8,4-6 1-6 6-3 6-1 6-4,5,RR,,,,,,,,,,,,,,,,,,,,196,184,301,108
-2004-D024,Davis Cup G1 R1: VEN vs PAR,Hard,4,D,20040206,5,102740,,,Francisco Rodriguez,R,,PAR,27.9,104700,,,Daniel Vallverdu,R,,VEN,17.8,7-5 6-3,3,RR,,,,,,,,,,,,,,,,,,,,430,61,1170,3
+2004-D024,Davis Cup G1 R1: VEN vs PAR,Hard,4,D,20040206,5,102740,,,Francisco Rodriguez,R,,PAR,27.9,104700,,,Daniel Vallverdu,R,180,VEN,17.8,7-5 6-3,3,RR,,,,,,,,,,,,,,,,,,,,430,61,1170,3
 2004-D025,Davis Cup G1 R1: PER vs CHI,Clay,4,D,20040206,1,103602,,,Fernando Gonzalez,R,183,CHI,23.5,103632,,,Luis Horna,R,180,PER,23.3,6-4 6-4 6-1,5,RR,,,,,,,,,,,,,,,,,,,,36,995,64,548
 2004-D025,Davis Cup G1 R1: PER vs CHI,Clay,4,D,20040206,2,103454,,,Nicolas Massu,R,183,CHI,24.3,103525,,,Ivan Miranda,R,175,PER,23.9,6-2 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,,14,1564,126,319
 2004-D025,Davis Cup G1 R1: PER vs CHI,Clay,4,D,20040206,4,102997,,,Hermes Gamonal,R,180,CHI,26.6,103736,,,Diego Acuna,U,,PER,22.8,7-5 6-3,3,RR,,,,,,,,,,,,,,,,,,,,183,195,891,9
@@ -3076,7 +3076,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-D030,Davis Cup G1 PO: BRA vs PER,Clay,4,D,20040924,1,103632,,,Luis Horna,R,180,PER,24.0,103563,,,Gabriel Pitta,R,,BRA,24.3,6-3 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,35,925,726,18
 2004-D030,Davis Cup G1 PO: BRA vs PER,Clay,4,D,20040924,2,103525,,,Ivan Miranda,R,175,PER,24.5,103334,,,Ronaldo Carvalho,R,,BRA,25.5,7-6(6) 6-7(6) 4-6 6-3 6-1,5,RR,,,,,,,,,,,,,,,,,,,,232,160,435,56
 2004-D030,Davis Cup G1 PO: BRA vs PER,Clay,4,D,20040924,4,104342,,,Matias Silva,R,,PER,20.4,103987,,,Alessandro Camarco,R,,BRA,22.4,6-4 3-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,540,35
-2004-D030,Davis Cup G1 PO: BRA vs PER,Clay,4,D,20040924,5,104474,,,Leonardo Kirche,R,188,BRA,19.7,105273,,,Mauricio Echazu,R,,PER,15.7,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,682,21,,
+2004-D030,Davis Cup G1 PO: BRA vs PER,Clay,4,D,20040924,5,104474,,,Leonardo Kirche,R,188,BRA,19.7,105273,,,Mauricio Echazu,R,174,PER,15.7,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,682,21,,
 2004-D031,Davis Cup G1 R1: THA vs PAK,Hard,4,D,20040206,1,103387,,,Paradorn Srichaphan,R,185,THA,24.6,108637,,,Nomi Qamar,U,,PAK,21.4,6-2 6-1 6-0,5,RR,,,,,,,,,,,,,,,,,,,,10,1655,,
 2004-D031,Davis Cup G1 R1: THA vs PAK,Hard,4,D,20040206,2,103821,,,Danai Udomchoke,R,173,THA,22.4,103499,,,Aqeel Khan,R,,PAK,24.0,6-1 6-1 6-2,5,RR,,,,,,,,,,,,,,,,,,,,155,246,,
 2004-D031,Davis Cup G1 R1: THA vs PAK,Hard,4,D,20040206,4,103921,,,Sonchat Ratiwatana,R,175,THA,22.0,103499,,,Aqeel Khan,R,,PAK,24.0,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,749,16,,

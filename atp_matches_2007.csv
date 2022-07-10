@@ -2021,7 +2021,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-520,Roland Garros,Clay,128,G,20070528,15,104527,,,Stan Wawrinka,R,183,SUI,22.1,103105,,,Ruben Ramirez Hidalgo,R,183,ESP,29.3,0-6 5-7 6-2 7-5 6-4,5,R128,243,11,4,140,76,53,30,24,1,8,2,8,172,93,60,39,24,15,22,44,740,63,590
 2007-520,Roland Garros,Clay,128,G,20070528,16,103344,7,,Ivan Ljubicic,R,193,CRO,28.1,103096,,,Arnaud Clement,R,173,FRA,29.4,6-1 7-5 7-6(2),5,R128,149,11,2,89,46,39,27,16,2,3,0,3,94,47,30,26,15,4,8,7,2260,45,740
 2007-520,Roland Garros,Clay,128,G,20070528,17,103786,4,,Nikolay Davydenko,R,178,RUS,25.9,102999,,,Stefano Galvani,R,178,ITA,29.9,6-3 6-1 6-1,5,R128,90,3,1,60,37,31,16,12,0,1,1,2,72,47,20,12,11,4,11,4,2840,117,352
-2007-520,Roland Garros,Clay,128,G,20070528,18,102381,,,Werner Eschauer,R,188,AUT,33.0,105098,,WC,Alexandre Sidorenko,R,,FRA,19.2,6-3 3-6 6-3 5-4 RET,5,R128,188,2,4,124,78,52,22,18,5,10,3,0,135,86,50,23,18,15,22,93,442,304,115
+2007-520,Roland Garros,Clay,128,G,20070528,18,102381,,,Werner Eschauer,R,188,AUT,33.0,105098,,WC,Alexandre Sidorenko,R,185,FRA,19.2,6-3 3-6 6-3 5-4 RET,5,R128,188,2,4,124,78,52,22,18,5,10,3,0,135,86,50,23,18,15,22,93,442,304,115
 2007-520,Roland Garros,Clay,128,G,20070528,19,103566,,,Michael Llodra,L,190,FRA,27.0,103534,,,Nicolas Devilder,L,173,FRA,27.1,6-4 6-3 6-3,5,R128,127,8,1,95,49,40,24,14,1,2,1,0,93,61,36,17,14,6,11,87,475,91,457
 2007-520,Roland Garros,Clay,128,G,20070528,20,104597,32,,Nicolas Almagro,R,183,ESP,21.7,102925,,,Justin Gimelstob,R,196,USA,30.3,6-4 6-4 6-4,5,R128,113,18,2,82,43,33,25,15,0,1,4,3,103,72,43,16,15,9,13,38,810,150,287
 2007-520,Roland Garros,Clay,128,G,20070528,21,103428,18,,Juan Ignacio Chela,R,190,ARG,27.7,102148,,,Fabrice Santoro,R,178,FRA,34.4,6-7(5) 6-0 6-3 6-3,5,R128,180,2,2,110,58,43,33,18,7,9,2,2,136,76,49,22,18,13,21,21,1275,55,621
@@ -2448,7 +2448,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-568,St. Petersburg,Carpet,32,A,20071022,30,104918,2,,Andy Murray,R,190,GBR,20.4,104022,3,,Mikhail Youzhny,R,183,RUS,25.3,6-2 5-7 7-6(1),3,SF,151,10,2,102,54,45,24,16,2,4,3,3,104,67,50,17,16,5,8,16,1480,19,1410
 2007-568,St. Petersburg,Carpet,32,A,20071022,31,104918,2,,Andy Murray,R,190,GBR,20.4,104269,6,,Fernando Verdasco,L,188,ESP,23.9,6-2 6-3,3,F,77,1,0,51,23,19,16,8,1,1,1,0,59,40,22,8,9,3,7,16,1480,30,935
 2007-573,Valencia,Clay,32,A,20070409,1,103868,,LL,Ivan Navarro,R,183,ESP,25.4,103110,,,Daniele Bracciali,R,180,ITA,29.2,6-3 6-1,3,R32,53,7,0,40,32,27,6,8,1,1,1,1,42,26,12,9,8,1,5,126,353,78,500
-2007-573,Valencia,Clay,32,A,20070409,2,104227,,Q,Augustin Gensse,R,,FRA,23.6,104868,,WC,James Ward,R,190,GBR,20.1,6-7(2) 6-4 6-3,3,R32,148,1,2,127,94,60,16,16,5,8,2,2,96,54,34,24,15,1,6,433,70,851,13
+2007-573,Valencia,Clay,32,A,20070409,2,104227,,Q,Augustin Gensse,R,180,FRA,23.6,104868,,WC,James Ward,R,190,GBR,20.1,6-7(2) 6-4 6-3,3,R32,148,1,2,127,94,60,16,16,5,8,2,2,96,54,34,24,15,1,6,433,70,851,13
 2007-573,Valencia,Clay,32,A,20070409,3,103373,,,Sergio Roitman,R,185,ARG,27.8,103401,,,Jan Hernych,R,190,CZE,27.7,7-5 7-6(7),3,R32,134,1,0,94,64,42,14,12,6,8,4,1,101,62,42,16,12,12,15,83,490,76,518
 2007-573,Valencia,Clay,32,A,20070409,4,105095,,,Evgeny Korolev,R,185,KAZ,19.1,104198,8,,Guillermo Garcia Lopez,R,188,ESP,23.8,6-3 1-6 6-3,3,R32,99,1,2,70,41,27,11,12,3,8,1,2,76,54,29,10,13,1,7,66,555,64,569
 2007-573,Valencia,Clay,32,A,20070409,5,103808,,,Potito Starace,R,188,ITA,25.7,104269,4,,Fernando Verdasco,L,188,ESP,23.3,6-1 4-6 6-3,3,R32,118,2,2,88,72,42,7,13,8,13,1,12,90,57,33,8,13,9,17,89,475,35,895
@@ -2463,7 +2463,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-573,Valencia,Clay,32,A,20070409,14,104268,,,Alejandro Falla,L,185,COL,23.4,104312,,,Andreas Seppi,R,190,ITA,23.1,6-3 6-4,3,R32,104,2,2,75,47,34,12,10,8,10,3,3,70,40,26,11,9,5,9,106,425,91,466
 2007-573,Valencia,Clay,32,A,20070409,15,103252,,,Alberto Martin,R,175,ESP,28.6,103852,,,Feliciano Lopez,L,188,ESP,25.5,6-2 3-6 6-2,3,R32,102,4,2,73,45,34,15,12,2,3,8,3,91,58,33,19,13,9,13,101,438,71,541
 2007-573,Valencia,Clay,32,A,20070409,16,103507,2,,Juan Carlos Ferrero,R,183,ESP,27.1,105208,,,Ernests Gulbis,R,190,LAT,18.6,6-3 6-1,3,R32,64,1,0,54,42,29,8,8,7,7,4,4,56,28,20,8,8,7,11,21,1230,88,476
-2007-573,Valencia,Clay,32,A,20070409,17,103868,,LL,Ivan Navarro,R,183,ESP,25.4,104227,,Q,Augustin Gensse,R,,FRA,23.6,7-6(11) 6-4,3,R16,115,3,1,71,53,43,12,11,1,1,0,0,94,61,40,19,11,6,7,126,353,433,70
+2007-573,Valencia,Clay,32,A,20070409,17,103868,,LL,Ivan Navarro,R,183,ESP,25.4,104227,,Q,Augustin Gensse,R,180,FRA,23.6,7-6(11) 6-4,3,R16,115,3,1,71,53,43,12,11,1,1,0,0,94,61,40,19,11,6,7,126,353,433,70
 2007-573,Valencia,Clay,32,A,20070409,18,105095,,,Evgeny Korolev,R,185,KAZ,19.1,103373,,,Sergio Roitman,R,185,ARG,27.8,1-6 7-5 6-0,3,R16,114,0,3,70,27,16,21,12,5,10,2,3,85,49,27,14,13,4,11,66,555,83,490
 2007-573,Valencia,Clay,32,A,20070409,19,103808,,,Potito Starace,R,188,ITA,25.7,104665,,Q,Pablo Andujar,R,180,ESP,21.2,6-4 1-6 6-3,3,R16,117,1,2,86,65,43,9,13,2,6,1,2,91,63,39,14,13,11,15,89,475,199,205
 2007-573,Valencia,Clay,32,A,20070409,20,104719,,Q,Marcel Granollers,R,190,ESP,20.9,104468,5,,Gilles Simon,R,183,FRA,22.2,6-3 4-6 6-1,3,R16,130,4,1,97,69,42,11,13,8,13,2,1,85,50,23,17,13,9,17,163,255,39,850
@@ -2917,7 +2917,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-D023,Davis Cup WG F: USA vs RUS,Hard,4,D,20071130,5,103484,,,James Blake,R,185,USA,27.9,104098,,,Dmitry Tursunov,R,185,RUS,24.9,1-6 6-3 7-5,3,RR,,,,,,,,,,,,,,,,,,,,13,1710,34,853
 2007-D024,Davis Cup G1 R1: PER vs VEN,Clay,4,D,20070209,1,103632,,,Luis Horna,R,180,PER,26.3,108628,,,Jhonnatan Medina Alvarez,L,,VEN,25.0,6-3 6-4 2-6 6-4,5,RR,,,,,,,,,,,,,,,,,,,,51,720,,
 2007-D024,Davis Cup G1 R1: PER vs VEN,Clay,4,D,20070209,2,103525,,,Ivan Miranda,R,175,PER,26.9,103286,,,Yohny Romero,R,,VEN,28.1,6-1 6-2 6-1,5,RR,,,,,,,,,,,,,,,,,,,,362,92,305,122
-2007-D024,Davis Cup G1 R1: PER vs VEN,Clay,4,D,20070209,4,104942,,,Roman Recarte,U,,VEN,19.6,105273,,,Mauricio Echazu,R,,PER,18.0,4-6 7-5 6-2,3,RR,,,,,,,,,,,,,,,,,,,,636,31,991,8
+2007-D024,Davis Cup G1 R1: PER vs VEN,Clay,4,D,20070209,4,104942,,,Roman Recarte,U,,VEN,19.6,105273,,,Mauricio Echazu,R,174,PER,18.0,4-6 7-5 6-2,3,RR,,,,,,,,,,,,,,,,,,,,636,31,991,8
 2007-D024,Davis Cup G1 R1: PER vs VEN,Clay,4,D,20070209,5,108628,,,Jhonnatan Medina Alvarez,L,,VEN,25.0,104342,,,Matias Silva,R,,PER,22.8,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,749,21
 2007-D025,Davis Cup G1 R1: CAN vs COL,Carpet,4,D,20070209,1,104433,,,Frank Dancevic,R,185,CAN,22.3,105053,,,Santiago Giraldo,R,188,COL,19.1,6-2 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,,96,440,176,235
 2007-D025,Davis Cup G1 R1: CAN vs COL,Carpet,4,D,20070209,2,102780,,,Frederic Niemeyer,R,190,CAN,30.7,104268,,,Alejandro Falla,L,185,COL,23.2,6-0 7-6(5) 6-3,5,RR,,,,,,,,,,,,,,,,,,,,333,109,97,439
@@ -2926,13 +2926,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-D026,Davis Cup G1 R2: PER vs MEX,Clay,4,D,20070406,1,103632,,,Luis Horna,R,180,PER,26.5,104535,,,Daniel Garza,R,,MEX,21.9,6-4 7-6(8) 2-6 6-3,5,RR,,,,,,,,,,,,,,,,,,,,74,525,466,63
 2007-D026,Davis Cup G1 R2: PER vs MEX,Clay,4,D,20070406,2,103525,,,Ivan Miranda,R,175,PER,27.0,104136,,,Santiago Gonzalez,R,190,MEX,24.1,6-4 3-6 6-1 5-7 8-6,5,RR,,,,,,,,,,,,,,,,,,,,326,106,240,164
 2007-D026,Davis Cup G1 R2: PER vs MEX,Clay,4,D,20070406,4,104200,,,Juan Manuel Elizondo,U,180,MEX,23.8,104342,,,Matias Silva,R,,PER,23.0,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,573,40,773,18
-2007-D026,Davis Cup G1 R2: PER vs MEX,Clay,4,D,20070406,5,104535,,,Daniel Garza,R,,MEX,21.9,105273,,,Mauricio Echazu,R,,PER,18.2,4-6 6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,466,63,973,8
+2007-D026,Davis Cup G1 R2: PER vs MEX,Clay,4,D,20070406,5,104535,,,Daniel Garza,R,,MEX,21.9,105273,,,Mauricio Echazu,R,174,PER,18.2,4-6 6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,466,63,973,8
 2007-D027,Davis Cup G1 R2: BRA vs CAN,Clay,4,D,20070406,1,103672,,,Ricardo Mello,L,175,BRA,26.2,104433,,,Frank Dancevic,R,185,CAN,22.5,3-6 6-7(7) 6-3 6-3 11-9,5,RR,,,,,,,,,,,,,,,,,,,,116,380,115,382
 2007-D027,Davis Cup G1 R2: BRA vs CAN,Clay,4,D,20070406,2,103581,,,Flavio Saretta,R,183,BRA,26.7,102780,,,Frederic Niemeyer,R,190,CAN,30.9,6-4 6-7(6) 6-2 6-1,5,RR,,,,,,,,,,,,,,,,,,,,100,436,250,159
 2007-D027,Davis Cup G1 R2: BRA vs CAN,Clay,4,D,20070406,4,103581,,,Flavio Saretta,R,183,BRA,26.7,105166,,,Peter Polansky,R,180,CAN,18.7,1-6 6-2 7-5 6-1,5,RR,,,,,,,,,,,,,,,,,,,,100,436,435,69
 2007-D028,Davis Cup G1 PO: MEX vs VEN,Hard,4,D,20070720,1,104535,,,Daniel Garza,R,,MEX,22.2,103286,,,Yohny Romero,R,,VEN,28.6,6-4 4-6 6-2 4-6 6-3,5,RR,,,,,,,,,,,,,,,,,,,,445,66,479,58
 2007-D028,Davis Cup G1 PO: MEX vs VEN,Hard,4,D,20070720,2,104136,,,Santiago Gonzalez,R,190,MEX,24.3,108628,,,Jhonnatan Medina Alvarez,L,,VEN,25.5,6-3 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,,426,70,,
-2007-D028,Davis Cup G1 PO: MEX vs VEN,Hard,4,D,20070720,4,104535,,,Daniel Garza,R,,MEX,22.2,104700,,,Daniel Vallverdu,R,,VEN,21.3,7-6(5) 6-1,3,RR,,,,,,,,,,,,,,,,,,,,445,66,1232,3
+2007-D028,Davis Cup G1 PO: MEX vs VEN,Hard,4,D,20070720,4,104535,,,Daniel Garza,R,,MEX,22.2,104700,,,Daniel Vallverdu,R,180,VEN,21.3,7-6(5) 6-1,3,RR,,,,,,,,,,,,,,,,,,,,445,66,1232,3
 2007-D028,Davis Cup G1 PO: MEX vs VEN,Hard,4,D,20070720,5,104200,,,Juan Manuel Elizondo,U,180,MEX,24.1,105261,,,Roberto Maytin,R,,VEN,18.5,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,787,17,1084,6
 2007-D029,Davis Cup G1 PO: VEN vs COL,Hard,4,D,20070921,1,105053,,,Santiago Giraldo,R,188,COL,19.8,103286,,,Yohny Romero,R,,VEN,28.7,6-3 6-3 6-4,5,RR,,,,,,,,,,,,,,,,,,,,169,259,452,62
 2007-D029,Davis Cup G1 PO: VEN vs COL,Hard,4,D,20070921,2,104268,,,Alejandro Falla,L,185,COL,23.8,108628,,,Jhonnatan Medina Alvarez,L,,VEN,25.6,6-2 6-4 7-6(4),5,RR,,,,,,,,,,,,,,,,,,,,141,310,,
@@ -3141,7 +3141,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-D080,Davis Cup G2 PO: DEN vs EST,Hard,4,D,20070720,4,104063,,,Mait Kunnap,R,,EST,24.8,102202,,,Kenneth Carlsen,L,190,DEN,34.2,5-7 3-2 Played and abandoned,5,RR,,,,,,,,,,,,,,,,,,,,1015,7,198,200
 2007-D081,Davis Cup G2 PO: NGR vs UKR,Hard,4,D,20070720,1,104869,,,Sergei Bubka,R,188,UKR,20.4,104464,,,Abdul Mumin Babalola,L,,NGR,22.5,6-1 6-4 6-2,5,RR,,,,,,,,,,,,,,,,,,,,362,94,738,20
 2007-D081,Davis Cup G2 PO: NGR vs UKR,Hard,4,D,20070720,2,104660,,,Sergiy Stakhovsky,R,193,UKR,21.5,103674,,,Jonathan Igbinovia,R,,NGR,26.5,6-2 6-0 6-3,5,RR,,,,,,,,,,,,,,,,,,,,206,194,1118,5
-2007-D081,Davis Cup G2 PO: NGR vs UKR,Hard,4,D,20070720,4,105085,,,Artem Smirnov,U,,UKR,19.4,104613,,,Candy Idoko,R,175,NGR,21.7,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,646,29,1090,6
+2007-D081,Davis Cup G2 PO: NGR vs UKR,Hard,4,D,20070720,4,105085,,,Artem Smirnov,U,188,UKR,19.4,104613,,,Candy Idoko,R,175,NGR,21.7,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,646,29,1090,6
 2007-D081,Davis Cup G2 PO: NGR vs UKR,Hard,4,D,20070720,5,104869,,,Sergei Bubka,R,188,UKR,20.4,104484,,,Lawal Shehu,R,,NGR,22.4,7-6(11) 2-6 6-2,3,RR,,,,,,,,,,,,,,,,,,,,362,94,1210,4
 2007-D082,Davis Cup G2 PO: CYP vs BUL,Clay,4,D,20070720,1,104323,,,Photos Kallias,L,,CYP,23.3,103296,,,Ivaylo Traykov,R,188,BUL,28.5,7-6(2) 6-1 6-2,5,RR,,,,,,,,,,,,,,,,,,,,657,27,476,58
 2007-D082,Davis Cup G2 PO: CYP vs BUL,Clay,4,D,20070720,2,104571,,,Marcos Baghdatis,R,183,CYP,22.0,104378,,,Yordan Kanev,R,,BUL,23.1,6-2 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,,18,1370,917,11

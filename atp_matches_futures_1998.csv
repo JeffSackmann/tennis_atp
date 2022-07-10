@@ -265,7 +265,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-SA-ESP-01A-1998a,Spain 1 Masters 1,Clay,32,S,19980103,1,101869,1,,Juan Luis Tati Rascon,R,,ESP,26.8,102692,,Q,Manuel Sala,R,,ESP,22.0,6-7 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,350,96,689,
 1998-M-SA-ESP-01A-1998a,Spain 1 Masters 1,Clay,32,S,19980103,2,102483,,,David Caballero,R,180,ESP,23.1,102920,,,Diego Hipperdinger,R,,ESP,20.9,6-3 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,487,53,360,90
 1998-M-SA-ESP-01A-1998a,Spain 1 Masters 1,Clay,32,S,19980103,3,111467,,Q,Juan Antonio Saiz Panadero,U,,ESP,18.5,102069,,,Andrei Rybalko,R,180,UKR,25.5,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,533,45
-1998-M-SA-ESP-01A-1998a,Spain 1 Masters 1,Clay,32,S,19980103,4,103186,7,,Emilio Viuda Hernandez,R,,ESP,19.6,109771,,,Jairo Velasco,R,,ESP,50.6,7-6 1-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,676,,,
+1998-M-SA-ESP-01A-1998a,Spain 1 Masters 1,Clay,32,S,19980103,4,103186,7,,Emilio Viuda Hernandez,R,,ESP,19.6,109771,,,Jairo Velasco,R,173,ESP,50.6,7-6 1-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,676,,,
 1998-M-SA-ESP-01A-1998a,Spain 1 Masters 1,Clay,32,S,19980103,5,102607,4,,Juan Balcells,R,190,ESP,22.5,122992,,WC,Miguel Mari Ojeda,U,,ESP,19.6,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,397,77,,
 1998-M-SA-ESP-01A-1998a,Spain 1 Masters 1,Clay,32,S,19980103,6,102818,,,Sergi Duran,R,,ESP,21.5,103852,,,Feliciano Lopez,L,188,ESP,16.2,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,356,93,570,38
 1998-M-SA-ESP-01A-1998a,Spain 1 Masters 1,Clay,32,S,19980103,7,103430,,Q,Ezequiel Velez,R,,ESP,18.3,103262,,Q,Marc Canovas,R,,ESP,19.2,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1000,,803,
@@ -294,7 +294,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-SA-ESP-01A-1998a,Spain 1 Masters 1,Clay,32,S,19980103,30,102910,2,,Salvador Navarro,R,180,ESP,20.9,102668,6,,Tapio Nurminen,R,,FIN,22.2,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,214,197,345,
 1998-M-SA-ESP-01A-1998a,Spain 1 Masters 1,Clay,32,S,19980103,31,102607,4,,Juan Balcells,R,190,ESP,22.5,102910,2,,Salvador Navarro,R,180,ESP,20.9,6-4 6-7 6-4,3,F,,,,,,,,,,,,,,,,,,,,397,77,214,197
 1998-M-SA-ESP-01A-1998b,Spain 1 Masters 2,Clay,24,S,19980103,1,102614,,,Victor Sendin,R,175,ESP,22.4,102818,,,Sergi Duran,R,,ESP,21.5,2-6 6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,666,23,356,93
-1998-M-SA-ESP-01A-1998b,Spain 1 Masters 2,Clay,24,S,19980103,2,102920,,,Diego Hipperdinger,R,,ESP,20.9,109771,,,Jairo Velasco,R,,ESP,50.6,4-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,360,90,,
+1998-M-SA-ESP-01A-1998b,Spain 1 Masters 2,Clay,24,S,19980103,2,102920,,,Diego Hipperdinger,R,,ESP,20.9,109771,,,Jairo Velasco,R,173,ESP,50.6,4-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,360,90,,
 1998-M-SA-ESP-01A-1998b,Spain 1 Masters 2,Clay,24,S,19980103,3,103202,,,Oscar Serrano,R,173,ESP,19.5,103695,,,Marc Marco Ripoll,R,,ESP,16.9,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,534,45,1366,
 1998-M-SA-ESP-01A-1998b,Spain 1 Masters 2,Clay,24,S,19980103,4,102250,,,Emanuel Couto,R,183,POR,24.3,111467,,,Juan Antonio Saiz Panadero,U,,ESP,18.5,1-6 7-5 2-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,260,152,,
 1998-M-SA-ESP-01A-1998b,Spain 1 Masters 2,Clay,24,S,19980103,5,103112,,,Ruben Fernandez,R,,ESP,19.9,103242,,,Juan Giner,R,178,ESP,19.4,6-3 1-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,878,10,704,
@@ -326,7 +326,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-SA-ESP-01A-1998c,Spain 1 Masters 3,Clay,32,S,19980103,8,102153,5,,German Puentes,R,173,ESP,25.0,102848,,Q,Javier Perez Vazquez,R,,ESP,21.3,6-3 6-6 RET,3,R32,,,,,,,,,,,,,,,,,,,,285,130,548,
 1998-M-SA-ESP-01A-1998c,Spain 1 Masters 3,Clay,32,S,19980103,9,103231,,Q,Pedro Nieto,R,,ESP,19.4,102207,6,,Jan Weinzierl,R,,GER,24.6,7-6 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,646,,294,126
 1998-M-SA-ESP-01A-1998c,Spain 1 Masters 3,Clay,32,S,19980103,10,102952,,,Jose Maria Vicente,R,,ESP,20.8,102739,,,Wim Neefs,R,,BEL,21.8,7-6 1-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,402,,528,46
-1998-M-SA-ESP-01A-1998c,Spain 1 Masters 3,Clay,32,S,19980103,11,109771,,Q,Jairo Velasco,R,,ESP,50.6,102459,,,Ronan Barbier,R,,FRA,23.2,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,470,57
+1998-M-SA-ESP-01A-1998c,Spain 1 Masters 3,Clay,32,S,19980103,11,109771,,Q,Jairo Velasco,R,173,ESP,50.6,102459,,,Ronan Barbier,R,,FRA,23.2,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,470,57
 1998-M-SA-ESP-01A-1998c,Spain 1 Masters 3,Clay,32,S,19980103,12,102920,,,Diego Hipperdinger,R,,ESP,20.9,102250,3,,Emanuel Couto,R,183,POR,24.3,6-3 7-6,3,R32,,,,,,,,,,,,,,,,,,,,360,90,260,152
 1998-M-SA-ESP-01A-1998c,Spain 1 Masters 3,Clay,32,S,19980103,13,102656,7,,Tommi Lenho,R,,FIN,22.2,102449,,LL,Carlos Martinez Comet,R,,ESP,23.3,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,334,105,568,39
 1998-M-SA-ESP-01A-1998c,Spain 1 Masters 3,Clay,32,S,19980103,14,103852,,Q,Feliciano Lopez,L,188,ESP,16.2,102117,,Q,Eduardo Nicolas,R,173,ESP,25.2,6-4 7-6,3,R32,,,,,,,,,,,,,,,,,,,,570,38,616,
@@ -337,12 +337,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-SA-ESP-01A-1998c,Spain 1 Masters 3,Clay,32,S,19980103,19,102483,,,David Caballero,R,180,ESP,23.1,103695,,WC,Marc Marco Ripoll,R,,ESP,16.9,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,487,53,1366,
 1998-M-SA-ESP-01A-1998c,Spain 1 Masters 3,Clay,32,S,19980103,20,102153,5,,German Puentes,R,173,ESP,25.0,102818,,,Sergi Duran,R,,ESP,21.5,6-4 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,285,130,356,93
 1998-M-SA-ESP-01A-1998c,Spain 1 Masters 3,Clay,32,S,19980103,21,103231,,Q,Pedro Nieto,R,,ESP,19.4,102952,,,Jose Maria Vicente,R,,ESP,20.8,7-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,646,,402,
-1998-M-SA-ESP-01A-1998c,Spain 1 Masters 3,Clay,32,S,19980103,22,109771,,Q,Jairo Velasco,R,,ESP,50.6,102920,,,Diego Hipperdinger,R,,ESP,20.9,7-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,360,90
+1998-M-SA-ESP-01A-1998c,Spain 1 Masters 3,Clay,32,S,19980103,22,109771,,Q,Jairo Velasco,R,173,ESP,50.6,102920,,,Diego Hipperdinger,R,,ESP,20.9,7-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,360,90
 1998-M-SA-ESP-01A-1998c,Spain 1 Masters 3,Clay,32,S,19980103,23,103852,,Q,Feliciano Lopez,L,188,ESP,16.2,102656,7,,Tommi Lenho,R,,FIN,22.2,7-6 3-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,570,38,334,105
 1998-M-SA-ESP-01A-1998c,Spain 1 Masters 3,Clay,32,S,19980103,24,102607,,,Juan Balcells,R,190,ESP,22.5,102001,,,German Lopez,R,193,ESP,26.0,7-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,397,77,414,72
 1998-M-SA-ESP-01A-1998c,Spain 1 Masters 3,Clay,32,S,19980103,25,102910,1,,Salvador Navarro,R,180,ESP,20.9,101869,,,Juan Luis Tati Rascon,R,,ESP,26.8,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,214,197,350,96
 1998-M-SA-ESP-01A-1998c,Spain 1 Masters 3,Clay,32,S,19980103,26,102153,5,,German Puentes,R,173,ESP,25.0,102483,,,David Caballero,R,180,ESP,23.1,7-5 6-0,3,QF,,,,,,,,,,,,,,,,,,,,285,130,487,53
-1998-M-SA-ESP-01A-1998c,Spain 1 Masters 3,Clay,32,S,19980103,27,103231,,Q,Pedro Nieto,R,,ESP,19.4,109771,,Q,Jairo Velasco,R,,ESP,50.6,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,646,,,
+1998-M-SA-ESP-01A-1998c,Spain 1 Masters 3,Clay,32,S,19980103,27,103231,,Q,Pedro Nieto,R,,ESP,19.4,109771,,Q,Jairo Velasco,R,173,ESP,50.6,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,646,,,
 1998-M-SA-ESP-01A-1998c,Spain 1 Masters 3,Clay,32,S,19980103,28,102607,,,Juan Balcells,R,190,ESP,22.5,103852,,Q,Feliciano Lopez,L,188,ESP,16.2,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,397,77,570,38
 1998-M-SA-ESP-01A-1998c,Spain 1 Masters 3,Clay,32,S,19980103,29,102910,1,,Salvador Navarro,R,180,ESP,20.9,102153,5,,German Puentes,R,173,ESP,25.0,6-1 6-1,3,SF,,,,,,,,,,,,,,,,,,,,214,197,285,130
 1998-M-SA-ESP-01A-1998c,Spain 1 Masters 3,Clay,32,S,19980103,30,102607,,,Juan Balcells,R,190,ESP,22.5,103231,,Q,Pedro Nieto,R,,ESP,19.4,6-2 6-1,3,SF,,,,,,,,,,,,,,,,,,,,397,77,646,
@@ -2641,7 +2641,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-SA-ESP-04A-1998a,Spain 4 Masters 1,Clay,24,S,19980403,5,103490,,,Santiago Ventura,R,183,ESP,18.2,103430,,,Ezequiel Velez,R,,ESP,18.5,4-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1373,1,1003,6
 1998-M-SA-ESP-04A-1998a,Spain 4 Masters 1,Clay,24,S,19980403,6,103231,,,Pedro Nieto,R,,ESP,19.7,102996,,,Franz Stauder,R,,GER,20.8,6-0 6-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,602,34,604,34
 1998-M-SA-ESP-04A-1998a,Spain 4 Masters 1,Clay,24,S,19980403,7,103032,,,Francisco Fogues,L,190,ESP,20.6,103268,,,Ivan Rodrigo,R,,ESP,19.4,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,509,51
-1998-M-SA-ESP-04A-1998a,Spain 4 Masters 1,Clay,24,S,19980403,8,109771,,,Jairo Velasco,R,,ESP,50.8,102117,,,Eduardo Nicolas,R,173,ESP,25.5,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,490,54
+1998-M-SA-ESP-04A-1998a,Spain 4 Masters 1,Clay,24,S,19980403,8,109771,,,Jairo Velasco,R,173,ESP,50.8,102117,,,Eduardo Nicolas,R,173,ESP,25.5,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,490,54
 1998-M-SA-ESP-04A-1998a,Spain 4 Masters 1,Clay,24,S,19980403,9,102718,1,,Enzo Artoni,R,,ITA,22.1,102828,,,Roberto Menendez,R,,ESP,21.7,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,446,64,662,25
 1998-M-SA-ESP-04A-1998a,Spain 4 Masters 1,Clay,24,S,19980403,10,102732,,,David Morente,R,,ESP,22.0,103046,7,,Janne Ojala,R,,FIN,20.5,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,895,10,444,64
 1998-M-SA-ESP-04A-1998a,Spain 4 Masters 1,Clay,24,S,19980403,11,103250,3,,Rodolphe Cadart,L,183,FRA,19.6,103242,,,Juan Giner,R,178,ESP,19.6,6-0 4-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,456,62,644,26
@@ -2649,7 +2649,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-SA-ESP-04A-1998a,Spain 4 Masters 1,Clay,24,S,19980403,13,102216,6,,Mark Joachim,R,,GER,24.8,103490,,,Santiago Ventura,R,183,ESP,18.2,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,488,54,1373,1
 1998-M-SA-ESP-04A-1998a,Spain 4 Masters 1,Clay,24,S,19980403,14,103231,,,Pedro Nieto,R,,ESP,19.7,102001,4,,German Lopez,R,193,ESP,26.2,3-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,602,34,475,58
 1998-M-SA-ESP-04A-1998a,Spain 4 Masters 1,Clay,24,S,19980403,15,103032,,,Francisco Fogues,L,190,ESP,20.6,102952,8,,Jose Maria Vicente,R,,ESP,21.0,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,356,94
-1998-M-SA-ESP-04A-1998a,Spain 4 Masters 1,Clay,24,S,19980403,16,102153,2,,German Puentes,R,173,ESP,25.2,109771,,,Jairo Velasco,R,,ESP,50.8,3-6 6-4 7-6,3,R16,,,,,,,,,,,,,,,,,,,,275,134,,
+1998-M-SA-ESP-04A-1998a,Spain 4 Masters 1,Clay,24,S,19980403,16,102153,2,,German Puentes,R,173,ESP,25.2,109771,,,Jairo Velasco,R,173,ESP,50.8,3-6 6-4 7-6,3,R16,,,,,,,,,,,,,,,,,,,,275,134,,
 1998-M-SA-ESP-04A-1998a,Spain 4 Masters 1,Clay,24,S,19980403,17,102732,,,David Morente,R,,ESP,22.0,102718,1,,Enzo Artoni,R,,ITA,22.1,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,895,10,446,64
 1998-M-SA-ESP-04A-1998a,Spain 4 Masters 1,Clay,24,S,19980403,18,103250,3,,Rodolphe Cadart,L,183,FRA,19.6,102614,,,Victor Sendin,R,175,ESP,22.7,6-1 3-0 RET,3,QF,,,,,,,,,,,,,,,,,,,,456,62,613,31
 1998-M-SA-ESP-04A-1998a,Spain 4 Masters 1,Clay,24,S,19980403,19,102216,6,,Mark Joachim,R,,GER,24.8,103231,,,Pedro Nieto,R,,ESP,19.7,6-3 1-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,488,54,602,34
@@ -2669,7 +2669,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-SA-ESP-04A-1998b,Spain 4 Masters 2,Clay,32,S,19980403,10,102326,,Q,Jose Arnedo,R,,ARG,24.1,103695,,,Marc Marco Ripoll,R,,ESP,17.1,1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,888,10,1337,2
 1998-M-SA-ESP-04A-1998b,Spain 4 Masters 2,Clay,32,S,19980403,11,103007,,,Mounir El Aarej,R,,MAR,20.7,102692,,WC,Manuel Sala,R,,ESP,22.3,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,495,53,585,35
 1998-M-SA-ESP-04A-1998b,Spain 4 Masters 2,Clay,32,S,19980403,12,102952,4,,Jose Maria Vicente,R,,ESP,21.0,103032,,,Francisco Fogues,L,190,ESP,20.6,6-2 1-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,356,94,,
-1998-M-SA-ESP-04A-1998b,Spain 4 Masters 2,Clay,32,S,19980403,13,109771,7,,Jairo Velasco,R,,ESP,50.8,122988,,WC,Christian Mazon Andersen,U,,ESP,21.5,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1088,5
+1998-M-SA-ESP-04A-1998b,Spain 4 Masters 2,Clay,32,S,19980403,13,109771,7,,Jairo Velasco,R,173,ESP,50.8,122988,,WC,Christian Mazon Andersen,U,,ESP,21.5,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1088,5
 1998-M-SA-ESP-04A-1998b,Spain 4 Masters 2,Clay,32,S,19980403,14,103242,,,Juan Giner,R,178,ESP,19.6,103144,,Q,Gregory Zavialoff,R,,FRA,20.1,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,644,26,820,12
 1998-M-SA-ESP-04A-1998b,Spain 4 Masters 2,Clay,32,S,19980403,15,102216,,,Mark Joachim,R,,GER,24.8,102732,,,David Morente,R,,ESP,22.0,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,488,54,895,10
 1998-M-SA-ESP-04A-1998b,Spain 4 Masters 2,Clay,32,S,19980403,16,102614,,,Victor Sendin,R,175,ESP,22.7,103250,2,,Rodolphe Cadart,L,183,FRA,19.6,6-4 7-6,3,R32,,,,,,,,,,,,,,,,,,,,613,31,456,62
@@ -2679,7 +2679,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-SA-ESP-04A-1998b,Spain 4 Masters 2,Clay,32,S,19980403,20,102153,6,,German Puentes,R,173,ESP,25.2,103231,,,Pedro Nieto,R,,ESP,19.7,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,275,134,602,34
 1998-M-SA-ESP-04A-1998b,Spain 4 Masters 2,Clay,32,S,19980403,21,103165,5,,Gorka Fraile,R,180,ESP,19.9,102326,,Q,Jose Arnedo,R,,ARG,24.1,7-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,669,24,888,10
 1998-M-SA-ESP-04A-1998b,Spain 4 Masters 2,Clay,32,S,19980403,22,102952,4,,Jose Maria Vicente,R,,ESP,21.0,103007,,,Mounir El Aarej,R,,MAR,20.7,4-6 6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,356,94,495,53
-1998-M-SA-ESP-04A-1998b,Spain 4 Masters 2,Clay,32,S,19980403,23,103242,,,Juan Giner,R,178,ESP,19.6,109771,7,,Jairo Velasco,R,,ESP,50.8,7-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,,644,26,,
+1998-M-SA-ESP-04A-1998b,Spain 4 Masters 2,Clay,32,S,19980403,23,103242,,,Juan Giner,R,178,ESP,19.6,109771,7,,Jairo Velasco,R,173,ESP,50.8,7-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,,644,26,,
 1998-M-SA-ESP-04A-1998b,Spain 4 Masters 2,Clay,32,S,19980403,24,102216,,,Mark Joachim,R,,GER,24.8,102614,,,Victor Sendin,R,175,ESP,22.7,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,488,54,613,31
 1998-M-SA-ESP-04A-1998b,Spain 4 Masters 2,Clay,32,S,19980403,25,103046,8,,Janne Ojala,R,,FIN,20.5,103268,,,Ivan Rodrigo,R,,ESP,19.4,6-3 3-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,444,64,509,51
 1998-M-SA-ESP-04A-1998b,Spain 4 Masters 2,Clay,32,S,19980403,26,102153,6,,German Puentes,R,173,ESP,25.2,102718,3,,Enzo Artoni,R,,ITA,22.1,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,275,134,446,64
@@ -2693,7 +2693,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-SA-ESP-04A-1998c,Spain 4 Masters 3,Clay,32,S,19980403,3,103250,,,Rodolphe Cadart,L,183,FRA,19.6,103268,,,Ivan Rodrigo,R,,ESP,19.4,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,456,62,509,51
 1998-M-SA-ESP-04A-1998c,Spain 4 Masters 3,Clay,32,S,19980403,4,102117,,,Eduardo Nicolas,R,173,ESP,25.5,102861,,,Timothy Aerts,R,,BEL,21.5,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,490,54,467,60
 1998-M-SA-ESP-04A-1998c,Spain 4 Masters 3,Clay,32,S,19980403,5,103046,,,Janne Ojala,R,,FIN,20.5,102848,,,Javier Perez Vazquez,R,,ESP,21.5,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,444,64,551,43
-1998-M-SA-ESP-04A-1998c,Spain 4 Masters 3,Clay,32,S,19980403,6,109771,,Q,Jairo Velasco,R,,ESP,50.8,103165,,SE,Gorka Fraile,R,180,ESP,19.9,4-6 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,669,24
+1998-M-SA-ESP-04A-1998c,Spain 4 Masters 3,Clay,32,S,19980403,6,109771,,Q,Jairo Velasco,R,173,ESP,50.8,103165,,SE,Gorka Fraile,R,180,ESP,19.9,4-6 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,669,24
 1998-M-SA-ESP-04A-1998c,Spain 4 Masters 3,Clay,32,S,19980403,7,103032,,WC,Francisco Fogues,L,190,ESP,20.6,122988,,Q,Christian Mazon Andersen,U,,ESP,21.5,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1088,5
 1998-M-SA-ESP-04A-1998c,Spain 4 Masters 3,Clay,32,S,19980403,8,102732,,Q,David Morente,R,,ESP,22.0,103228,5,,Marcos Daniel,R,180,BRA,19.7,6-4 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,895,10,453,63
 1998-M-SA-ESP-04A-1998c,Spain 4 Masters 3,Clay,32,S,19980403,9,102001,,,German Lopez,R,193,ESP,26.2,103231,,,Pedro Nieto,R,,ESP,19.7,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,475,58,602,34
@@ -2706,17 +2706,17 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-SA-ESP-04A-1998c,Spain 4 Masters 3,Clay,32,S,19980403,16,102952,2,,Jose Maria Vicente,R,,ESP,21.0,103430,,Q,Ezequiel Velez,R,,ESP,18.5,7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,356,94,1003,6
 1998-M-SA-ESP-04A-1998c,Spain 4 Masters 3,Clay,32,S,19980403,17,102153,1,Q,German Puentes,R,173,ESP,25.2,103007,,,Mounir El Aarej,R,,MAR,20.7,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,275,134,495,53
 1998-M-SA-ESP-04A-1998c,Spain 4 Masters 3,Clay,32,S,19980403,18,103250,,,Rodolphe Cadart,L,183,FRA,19.6,102117,,,Eduardo Nicolas,R,173,ESP,25.5,7-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,,456,62,490,54
-1998-M-SA-ESP-04A-1998c,Spain 4 Masters 3,Clay,32,S,19980403,19,109771,,Q,Jairo Velasco,R,,ESP,50.8,103046,,,Janne Ojala,R,,FIN,20.5,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,444,64
+1998-M-SA-ESP-04A-1998c,Spain 4 Masters 3,Clay,32,S,19980403,19,109771,,Q,Jairo Velasco,R,173,ESP,50.8,103046,,,Janne Ojala,R,,FIN,20.5,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,444,64
 1998-M-SA-ESP-04A-1998c,Spain 4 Masters 3,Clay,32,S,19980403,20,103032,,WC,Francisco Fogues,L,190,ESP,20.6,102732,,Q,David Morente,R,,ESP,22.0,3-6 6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,895,10
 1998-M-SA-ESP-04A-1998c,Spain 4 Masters 3,Clay,32,S,19980403,21,102001,,,German Lopez,R,193,ESP,26.2,102828,,,Roberto Menendez,R,,ESP,21.7,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,475,58,662,25
 1998-M-SA-ESP-04A-1998c,Spain 4 Masters 3,Clay,32,S,19980403,22,102718,4,,Enzo Artoni,R,,ITA,22.1,111467,,Q,Juan Antonio Saiz Panadero,U,,ESP,18.7,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,446,64,,
 1998-M-SA-ESP-04A-1998c,Spain 4 Masters 3,Clay,32,S,19980403,23,103242,,,Juan Giner,R,178,ESP,19.6,102996,,,Franz Stauder,R,,GER,20.8,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,644,26,604,34
 1998-M-SA-ESP-04A-1998c,Spain 4 Masters 3,Clay,32,S,19980403,24,102952,2,,Jose Maria Vicente,R,,ESP,21.0,103490,,WC,Santiago Ventura,R,183,ESP,18.2,2-6 6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,356,94,1373,1
 1998-M-SA-ESP-04A-1998c,Spain 4 Masters 3,Clay,32,S,19980403,25,103250,,,Rodolphe Cadart,L,183,FRA,19.6,102153,1,Q,German Puentes,R,173,ESP,25.2,6-3 6-7 6-3,3,QF,,,,,,,,,,,,,,,,,,,,456,62,275,134
-1998-M-SA-ESP-04A-1998c,Spain 4 Masters 3,Clay,32,S,19980403,26,109771,,Q,Jairo Velasco,R,,ESP,50.8,103032,,WC,Francisco Fogues,L,190,ESP,20.6,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,,,,
+1998-M-SA-ESP-04A-1998c,Spain 4 Masters 3,Clay,32,S,19980403,26,109771,,Q,Jairo Velasco,R,173,ESP,50.8,103032,,WC,Francisco Fogues,L,190,ESP,20.6,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,,,,
 1998-M-SA-ESP-04A-1998c,Spain 4 Masters 3,Clay,32,S,19980403,27,102718,4,,Enzo Artoni,R,,ITA,22.1,102001,,,German Lopez,R,193,ESP,26.2,7-6 RET,3,QF,,,,,,,,,,,,,,,,,,,,446,64,475,58
 1998-M-SA-ESP-04A-1998c,Spain 4 Masters 3,Clay,32,S,19980403,28,102952,2,,Jose Maria Vicente,R,,ESP,21.0,103242,,,Juan Giner,R,178,ESP,19.6,1-6 7-5 6-2,3,QF,,,,,,,,,,,,,,,,,,,,356,94,644,26
-1998-M-SA-ESP-04A-1998c,Spain 4 Masters 3,Clay,32,S,19980403,29,103250,,,Rodolphe Cadart,L,183,FRA,19.6,109771,,Q,Jairo Velasco,R,,ESP,50.8,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,456,62,,
+1998-M-SA-ESP-04A-1998c,Spain 4 Masters 3,Clay,32,S,19980403,29,103250,,,Rodolphe Cadart,L,183,FRA,19.6,109771,,Q,Jairo Velasco,R,173,ESP,50.8,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,456,62,,
 1998-M-SA-ESP-04A-1998c,Spain 4 Masters 3,Clay,32,S,19980403,30,102718,4,,Enzo Artoni,R,,ITA,22.1,102952,2,,Jose Maria Vicente,R,,ESP,21.0,6-3 7-6,3,SF,,,,,,,,,,,,,,,,,,,,446,64,356,94
 1998-M-SA-ESP-04A-1998c,Spain 4 Masters 3,Clay,32,S,19980403,31,103250,,,Rodolphe Cadart,L,183,FRA,19.6,102718,4,,Enzo Artoni,R,,ITA,22.1,6-2 6-0,3,F,,,,,,,,,,,,,,,,,,,,456,62,446,64
 1998-M-SA-ESP-04A-1998d,Spain 4 Masters 4,Clay,32,S,19980403,1,102153,1,Q,German Puentes,R,173,ESP,25.2,102642,,,Cyril Saulnier,R,190,FRA,22.6,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,275,134,593,34
@@ -2726,7 +2726,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-SA-ESP-04A-1998d,Spain 4 Masters 4,Clay,32,S,19980403,5,102718,4,,Enzo Artoni,R,,ITA,22.1,102996,,,Franz Stauder,R,,GER,20.8,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,446,64,604,34
 1998-M-SA-ESP-04A-1998d,Spain 4 Masters 4,Clay,32,S,19980403,6,103695,,Q,Marc Marco Ripoll,R,,ESP,17.1,103365,,Q,Javier Garcia Sintes,R,,ESP,18.9,5-7 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1337,2,1130,4
 1998-M-SA-ESP-04A-1998d,Spain 4 Masters 4,Clay,32,S,19980403,7,103032,,WC,Francisco Fogues,L,190,ESP,20.6,117526,,Q,Alberto Gonzalez Lopez,U,,ESP,20.5,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-1998-M-SA-ESP-04A-1998d,Spain 4 Masters 4,Clay,32,S,19980403,8,103228,5,,Marcos Daniel,R,180,BRA,19.7,109771,,Q,Jairo Velasco,R,,ESP,50.8,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,453,63,,
+1998-M-SA-ESP-04A-1998d,Spain 4 Masters 4,Clay,32,S,19980403,8,103228,5,,Marcos Daniel,R,180,BRA,19.7,109771,,Q,Jairo Velasco,R,173,ESP,50.8,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,453,63,,
 1998-M-SA-ESP-04A-1998d,Spain 4 Masters 4,Clay,32,S,19980403,9,103250,6,,Rodolphe Cadart,L,183,FRA,19.6,102732,,Q,David Morente,R,,ESP,22.0,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,456,62,895,10
 1998-M-SA-ESP-04A-1998d,Spain 4 Masters 4,Clay,32,S,19980403,10,103268,,,Ivan Rodrigo,R,,ESP,19.4,117545,,WC,Javier Ferrer Ern,U,,ESP,18.5,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,509,51,,
 1998-M-SA-ESP-04A-1998d,Spain 4 Masters 4,Clay,32,S,19980403,11,102692,,,Manuel Sala,R,,ESP,22.3,111467,,,Juan Antonio Saiz Panadero,U,,ESP,18.7,4-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,585,35,,
@@ -2750,7 +2750,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-SA-ESP-04A-1998d,Spain 4 Masters 4,Clay,32,S,19980403,29,103165,,,Gorka Fraile,R,180,ESP,19.9,102718,4,,Enzo Artoni,R,,ITA,22.1,6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,669,24,446,64
 1998-M-SA-ESP-04A-1998d,Spain 4 Masters 4,Clay,32,S,19980403,30,102001,8,,German Lopez,R,193,ESP,26.2,103046,3,,Janne Ojala,R,,FIN,20.5,7-6 6-2,3,SF,,,,,,,,,,,,,,,,,,,,475,58,444,64
 1998-M-SA-ESP-04A-1998d,Spain 4 Masters 4,Clay,32,S,19980403,31,102001,8,,German Lopez,R,193,ESP,26.2,103165,,,Gorka Fraile,R,180,ESP,19.9,6-2 7-6,3,F,,,,,,,,,,,,,,,,,,,,475,58,669,24
-1998-M-SA-CHI-01A-1998a,Chile 1 Masters 1,Clay,24,S,19980404,1,102342,,,Patricio Donati,R,,ARG,24.0,108585,,,Americo Venero Montes,U,,PER,26.0,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,839,11,,
+1998-M-SA-CHI-01A-1998a,Chile 1 Masters 1,Clay,24,S,19980404,1,102342,,,Patricio Donati,R,,ARG,24.0,108585,,,Americo Venero Montes,U,175,PER,26.0,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,839,11,,
 1998-M-SA-CHI-01A-1998a,Chile 1 Masters 1,Clay,24,S,19980404,2,102166,,,Rodrigo Ferreiro,R,,BRA,25.2,102807,,,Rodrigo Monte,R,,BRA,21.7,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,756,16,777,15
 1998-M-SA-CHI-01A-1998a,Chile 1 Masters 1,Clay,24,S,19980404,3,102997,,,Hermes Gamonal,R,180,CHI,20.8,103450,,,Federico Cardinali,R,,ARG,18.4,6-4 6-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,397,77,1130,4
 1998-M-SA-CHI-01A-1998a,Chile 1 Masters 1,Clay,24,S,19980404,4,102174,,,Francisco Ruiz,R,,CHI,25.1,102830,,,Paulo Carvallo,R,,PAR,21.7,6-7 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,635,28,569,40
@@ -2785,7 +2785,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-SA-CHI-01A-1998b,Chile 1 Masters 2,Clay,32,S,19980404,10,102166,,,Rodrigo Ferreiro,R,,BRA,25.2,102471,,Q,Sergio Elias,U,,CHI,23.4,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,756,16,,
 1998-M-SA-CHI-01A-1998b,Chile 1 Masters 2,Clay,32,S,19980404,11,102823,,Q,Agustin Banos,R,,ESP,21.7,103450,,,Federico Cardinali,R,,ARG,18.4,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,607,32,1130,4
 1998-M-SA-CHI-01A-1998b,Chile 1 Masters 2,Clay,32,S,19980404,12,102723,3,,Eduardo Medica,R,180,ARG,22.1,103715,,Q,Kirill Ivanov Smolensky,R,,RUS,17.1,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,403,76,698,21
-1998-M-SA-CHI-01A-1998b,Chile 1 Masters 2,Clay,32,S,19980404,13,108585,7,,Americo Venero Montes,U,,PER,26.0,117465,,WC,Eduardo Valdes,U,,CHI,17.1,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1998-M-SA-CHI-01A-1998b,Chile 1 Masters 2,Clay,32,S,19980404,13,108585,7,,Americo Venero Montes,U,175,PER,26.0,117465,,WC,Eduardo Valdes,U,,CHI,17.1,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1998-M-SA-CHI-01A-1998b,Chile 1 Masters 2,Clay,32,S,19980404,14,102962,,,Miguel Miranda,R,,CHI,21.0,101427,,Q,Ruben Gajardo,R,,CHI,30.2,6-3 6-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,602,34,1130,4
 1998-M-SA-CHI-01A-1998b,Chile 1 Masters 2,Clay,32,S,19980404,15,101548,,,Gabriel Keymer,R,,CHI,29.2,103841,,WC,Julio Peralta,R,188,CHI,16.5,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,820,12,,
 1998-M-SA-CHI-01A-1998b,Chile 1 Masters 2,Clay,32,S,19980404,16,103292,2,,Gaston Gaudio,R,175,ARG,19.3,103775,,WC,Felipe Parada,R,175,CHI,16.8,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,639,27,,
@@ -2795,7 +2795,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-SA-CHI-01A-1998b,Chile 1 Masters 2,Clay,32,S,19980404,20,108943,,Q,Augusto Ricciardi Castelli,U,,URU,18.7,103846,,,Mariano Campos,R,,ARG,16.5,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 1998-M-SA-CHI-01A-1998b,Chile 1 Masters 2,Clay,32,S,19980404,21,102830,,,Paulo Carvallo,R,,PAR,21.7,102166,,,Rodrigo Ferreiro,R,,BRA,25.2,6-7 7-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,569,40,756,16
 1998-M-SA-CHI-01A-1998b,Chile 1 Masters 2,Clay,32,S,19980404,22,102723,3,,Eduardo Medica,R,180,ARG,22.1,102823,,Q,Agustin Banos,R,,ESP,21.7,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,403,76,607,32
-1998-M-SA-CHI-01A-1998b,Chile 1 Masters 2,Clay,32,S,19980404,23,102962,,,Miguel Miranda,R,,CHI,21.0,108585,7,,Americo Venero Montes,U,,PER,26.0,6-4 3-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,602,34,,
+1998-M-SA-CHI-01A-1998b,Chile 1 Masters 2,Clay,32,S,19980404,23,102962,,,Miguel Miranda,R,,CHI,21.0,108585,7,,Americo Venero Montes,U,175,PER,26.0,6-4 3-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,602,34,,
 1998-M-SA-CHI-01A-1998b,Chile 1 Masters 2,Clay,32,S,19980404,24,103292,2,,Gaston Gaudio,R,175,ARG,19.3,101548,,,Gabriel Keymer,R,,CHI,29.2,6-4 4-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,639,27,820,12
 1998-M-SA-CHI-01A-1998b,Chile 1 Masters 2,Clay,32,S,19980404,25,103381,,,Andy Fahlke,R,185,GER,18.8,103015,8,,Daniel Melo,L,185,BRA,20.7,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,487,55,436,67
 1998-M-SA-CHI-01A-1998b,Chile 1 Masters 2,Clay,32,S,19980404,26,102846,,Q,Raul Valdes,R,,CHI,21.5,108943,,Q,Augusto Ricciardi Castelli,U,,URU,18.7,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,732,18,,
@@ -2812,7 +2812,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-SA-CHI-01A-1998c,Chile 1 Masters 3,Clay,32,S,19980404,6,102823,,,Agustin Banos,R,,ESP,21.7,103125,,,Joan Jimenez Guerra,R,,AND,20.1,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,607,32,727,18
 1998-M-SA-CHI-01A-1998c,Chile 1 Masters 3,Clay,32,S,19980404,7,103292,,,Gaston Gaudio,R,175,ARG,19.3,102174,,,Francisco Ruiz,R,,CHI,25.1,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,639,27,635,28
 1998-M-SA-CHI-01A-1998c,Chile 1 Masters 3,Clay,32,S,19980404,8,103015,5,,Daniel Melo,L,185,BRA,20.7,102342,,Q,Patricio Donati,R,,ARG,24.0,6-0 7-6,3,R32,,,,,,,,,,,,,,,,,,,,436,67,839,11
-1998-M-SA-CHI-01A-1998c,Chile 1 Masters 3,Clay,32,S,19980404,9,108585,6,,Americo Venero Montes,U,,PER,26.0,102807,,,Rodrigo Monte,R,,BRA,21.7,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,777,15
+1998-M-SA-CHI-01A-1998c,Chile 1 Masters 3,Clay,32,S,19980404,9,108585,6,,Americo Venero Montes,U,175,PER,26.0,102807,,,Rodrigo Monte,R,,BRA,21.7,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,777,15
 1998-M-SA-CHI-01A-1998c,Chile 1 Masters 3,Clay,32,S,19980404,10,103846,,Q,Mariano Campos,R,,ARG,16.5,103775,,WC,Felipe Parada,R,175,CHI,16.8,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1998-M-SA-CHI-01A-1998c,Chile 1 Masters 3,Clay,32,S,19980404,11,101548,,Q,Gabriel Keymer,R,,CHI,29.2,124370,,Q,Guido Etlis,U,,ARG,19.4,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,820,12,,
 1998-M-SA-CHI-01A-1998c,Chile 1 Masters 3,Clay,32,S,19980404,12,103715,,,Kirill Ivanov Smolensky,R,,RUS,17.1,102168,4,,Hector Moretti,R,170,ARG,25.1,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,698,21,429,69
@@ -2824,16 +2824,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-SA-CHI-01A-1998c,Chile 1 Masters 3,Clay,32,S,19980404,18,102999,8,Q,Stefano Galvani,R,178,ITA,20.8,102846,,,Raul Valdes,R,,CHI,21.5,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,502,52,732,18
 1998-M-SA-CHI-01A-1998c,Chile 1 Masters 3,Clay,32,S,19980404,19,102723,3,,Eduardo Medica,R,180,ARG,22.1,102823,,,Agustin Banos,R,,ESP,21.7,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,403,76,607,32
 1998-M-SA-CHI-01A-1998c,Chile 1 Masters 3,Clay,32,S,19980404,20,103292,,,Gaston Gaudio,R,175,ARG,19.3,103015,5,,Daniel Melo,L,185,BRA,20.7,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,639,27,436,67
-1998-M-SA-CHI-01A-1998c,Chile 1 Masters 3,Clay,32,S,19980404,21,108585,6,,Americo Venero Montes,U,,PER,26.0,103846,,Q,Mariano Campos,R,,ARG,16.5,6-2 7-6,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1998-M-SA-CHI-01A-1998c,Chile 1 Masters 3,Clay,32,S,19980404,21,108585,6,,Americo Venero Montes,U,175,PER,26.0,103846,,Q,Mariano Campos,R,,ARG,16.5,6-2 7-6,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 1998-M-SA-CHI-01A-1998c,Chile 1 Masters 3,Clay,32,S,19980404,22,101548,,Q,Gabriel Keymer,R,,CHI,29.2,103715,,,Kirill Ivanov Smolensky,R,,RUS,17.1,7-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,820,12,698,21
 1998-M-SA-CHI-01A-1998c,Chile 1 Masters 3,Clay,32,S,19980404,23,103381,7,,Andy Fahlke,R,185,GER,18.8,102819,,,Ricardo Omana,R,,VEN,21.7,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,487,55,676,23
 1998-M-SA-CHI-01A-1998c,Chile 1 Masters 3,Clay,32,S,19980404,24,103306,,,Florian Allgauer,R,,ITA,19.2,102166,,,Rodrigo Ferreiro,R,,BRA,25.2,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,546,44,756,16
 1998-M-SA-CHI-01A-1998c,Chile 1 Masters 3,Clay,32,S,19980404,25,102769,1,,Andres Schneiter,R,,ARG,21.9,102999,8,Q,Stefano Galvani,R,178,ITA,20.8,1-6 6-1 7-5,3,QF,,,,,,,,,,,,,,,,,,,,305,122,502,52
 1998-M-SA-CHI-01A-1998c,Chile 1 Masters 3,Clay,32,S,19980404,26,103292,,,Gaston Gaudio,R,175,ARG,19.3,102723,3,,Eduardo Medica,R,180,ARG,22.1,6-1 7-6,3,QF,,,,,,,,,,,,,,,,,,,,639,27,403,76
-1998-M-SA-CHI-01A-1998c,Chile 1 Masters 3,Clay,32,S,19980404,27,108585,6,,Americo Venero Montes,U,,PER,26.0,101548,,Q,Gabriel Keymer,R,,CHI,29.2,6-4 4-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,820,12
+1998-M-SA-CHI-01A-1998c,Chile 1 Masters 3,Clay,32,S,19980404,27,108585,6,,Americo Venero Montes,U,175,PER,26.0,101548,,Q,Gabriel Keymer,R,,CHI,29.2,6-4 4-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,820,12
 1998-M-SA-CHI-01A-1998c,Chile 1 Masters 3,Clay,32,S,19980404,28,103306,,,Florian Allgauer,R,,ITA,19.2,103381,7,,Andy Fahlke,R,185,GER,18.8,3-6 7-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,546,44,487,55
 1998-M-SA-CHI-01A-1998c,Chile 1 Masters 3,Clay,32,S,19980404,29,103292,,,Gaston Gaudio,R,175,ARG,19.3,102769,1,,Andres Schneiter,R,,ARG,21.9,6-4 7-5,3,SF,,,,,,,,,,,,,,,,,,,,639,27,305,122
-1998-M-SA-CHI-01A-1998c,Chile 1 Masters 3,Clay,32,S,19980404,30,103306,,,Florian Allgauer,R,,ITA,19.2,108585,6,,Americo Venero Montes,U,,PER,26.0,6-3 5-7 7-6,3,SF,,,,,,,,,,,,,,,,,,,,546,44,,
+1998-M-SA-CHI-01A-1998c,Chile 1 Masters 3,Clay,32,S,19980404,30,103306,,,Florian Allgauer,R,,ITA,19.2,108585,6,,Americo Venero Montes,U,175,PER,26.0,6-3 5-7 7-6,3,SF,,,,,,,,,,,,,,,,,,,,546,44,,
 1998-M-SA-CHI-01A-1998c,Chile 1 Masters 3,Clay,32,S,19980404,31,103292,,,Gaston Gaudio,R,175,ARG,19.3,103306,,,Florian Allgauer,R,,ITA,19.2,6-1 7-5,3,F,,,,,,,,,,,,,,,,,,,,639,27,546,44
 1998-M-SA-CHI-01A-1998d,Chile 1 Masters 4,Clay,32,S,19980404,1,102769,1,,Andres Schneiter,R,,ARG,21.9,103233,,Q,Leonardo Silva,R,,BRA,19.7,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,305,122,878,10
 1998-M-SA-CHI-01A-1998d,Chile 1 Masters 4,Clay,32,S,19980404,2,103306,,,Florian Allgauer,R,,ITA,19.2,102830,,,Paulo Carvallo,R,,PAR,21.7,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,546,44,569,40
@@ -2843,7 +2843,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-SA-CHI-01A-1998d,Chile 1 Masters 4,Clay,32,S,19980404,6,102342,,Q,Patricio Donati,R,,ARG,24.0,103572,,WC,Luis Hormazabal,R,,CHI,17.8,7-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,839,11,,
 1998-M-SA-CHI-01A-1998d,Chile 1 Masters 4,Clay,32,S,19980404,7,103846,,Q,Mariano Campos,R,,ARG,16.5,102846,,,Raul Valdes,R,,CHI,21.5,6-1 7-6,3,R32,,,,,,,,,,,,,,,,,,,,,,732,18
 1998-M-SA-CHI-01A-1998d,Chile 1 Masters 4,Clay,32,S,19980404,8,103015,5,,Daniel Melo,L,185,BRA,20.7,103841,,WC,Julio Peralta,R,188,CHI,16.5,5-7 7-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,436,67,,
-1998-M-SA-CHI-01A-1998d,Chile 1 Masters 4,Clay,32,S,19980404,9,102166,,,Rodrigo Ferreiro,R,,BRA,25.2,108585,6,,Americo Venero Montes,U,,PER,26.0,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,756,16,,
+1998-M-SA-CHI-01A-1998d,Chile 1 Masters 4,Clay,32,S,19980404,9,102166,,,Rodrigo Ferreiro,R,,BRA,25.2,108585,6,,Americo Venero Montes,U,175,PER,26.0,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,756,16,,
 1998-M-SA-CHI-01A-1998d,Chile 1 Masters 4,Clay,32,S,19980404,10,101741,,,Gonzalo Fernandez,R,,CHI,27.8,103292,,,Gaston Gaudio,R,175,ARG,19.3,7-6 4-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,767,15,639,27
 1998-M-SA-CHI-01A-1998d,Chile 1 Masters 4,Clay,32,S,19980404,11,102962,,,Miguel Miranda,R,,CHI,21.0,109476,,WC,Claudio Alvarado,R,,CHI,17.3,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,602,34,,
 1998-M-SA-CHI-01A-1998d,Chile 1 Masters 4,Clay,32,S,19980404,12,102168,4,,Hector Moretti,R,170,ARG,25.1,103201,,,Adrian Garcia,R,175,CHI,19.8,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,429,69,649,26
@@ -3439,7 +3439,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-SA-BUL-01A-1998d,Bulgaria Masters 4,Clay,32,S,19980502,29,101957,1,,Milen Velev,R,,BUL,26.6,103035,3,,Alessio Di Mauro,L,185,ITA,20.7,6-4 6-1,3,SF,,,,,,,,,,,,,,,,,,,,350,102,471,59
 1998-M-SA-BUL-01A-1998d,Bulgaria Masters 4,Clay,32,S,19980502,30,102354,2,,Jerome Hanquez,R,185,FRA,24.1,103296,5,,Ivaylo Traykov,R,188,BUL,19.3,6-2 7-6,3,SF,,,,,,,,,,,,,,,,,,,,394,83,556,42
 1998-M-SA-BUL-01A-1998d,Bulgaria Masters 4,Clay,32,S,19980502,31,102354,2,,Jerome Hanquez,R,185,FRA,24.1,101957,1,,Milen Velev,R,,BUL,26.6,6-2 6-2,3,F,,,,,,,,,,,,,,,,,,,,394,83,350,102
-1998-M-SA-CHI-02A-1998a,Chile 2 Masters 1,Clay,32,S,19980502,1,102723,1,,Eduardo Medica,R,180,ARG,22.2,108585,,,Americo Venero Montes,U,,PER,26.1,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,415,76,,
+1998-M-SA-CHI-02A-1998a,Chile 2 Masters 1,Clay,32,S,19980502,1,102723,1,,Eduardo Medica,R,180,ARG,22.2,108585,,,Americo Venero Montes,U,175,PER,26.1,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,415,76,,
 1998-M-SA-CHI-02A-1998a,Chile 2 Masters 1,Clay,32,S,19980502,2,117415,,Q,Sebastian Contador,U,,CHI,22.3,122921,,WC,Alvaro Zambra,U,,CHI,,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1998-M-SA-CHI-02A-1998a,Chile 2 Masters 1,Clay,32,S,19980502,3,102846,,,Raul Valdes,R,,CHI,21.6,103572,,Q,Luis Hormazabal,R,,CHI,17.8,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,739,18,,
 1998-M-SA-CHI-02A-1998a,Chile 2 Masters 1,Clay,32,S,19980502,4,103846,7,,Mariano Campos,R,,ARG,16.6,103058,,,Juan Felipe Yanez,R,,CHI,20.5,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,1136,4
@@ -3474,7 +3474,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-SA-CHI-02A-1998b,Chile 2 Masters 2,Clay,24,S,19980502,2,102846,,,Raul Valdes,R,,CHI,21.6,103310,,,Rodrigo Pena,R,,ARG,19.2,6-2 1-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,739,18,989,7
 1998-M-SA-CHI-02A-1998b,Chile 2 Masters 2,Clay,24,S,19980502,3,102807,,,Rodrigo Monte,R,,BRA,21.8,103121,,,Matias Oneille,R,,ARG,20.2,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,780,15,,
 1998-M-SA-CHI-02A-1998b,Chile 2 Masters 2,Clay,24,S,19980502,4,102890,,,Oscar Rodriguez Arg,R,,ARG,21.3,103416,,,Daniel Wajnberg,R,,BRA,18.7,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,432,69,1085,5
-1998-M-SA-CHI-02A-1998b,Chile 2 Masters 2,Clay,24,S,19980502,5,108585,,,Americo Venero Montes,U,,PER,26.1,117415,,,Sebastian Contador,U,,CHI,22.3,6-7 6-4 7-6,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1998-M-SA-CHI-02A-1998b,Chile 2 Masters 2,Clay,24,S,19980502,5,108585,,,Americo Venero Montes,U,175,PER,26.1,117415,,,Sebastian Contador,U,,CHI,22.3,6-7 6-4 7-6,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1998-M-SA-CHI-02A-1998b,Chile 2 Masters 2,Clay,24,S,19980502,6,102962,,,Miguel Miranda,R,,CHI,21.1,103572,,,Luis Hormazabal,R,,CHI,17.8,4-6 6-2 7-6,3,R32,,,,,,,,,,,,,,,,,,,,596,34,,
 1998-M-SA-CHI-02A-1998b,Chile 2 Masters 2,Clay,24,S,19980502,7,103201,,,Adrian Garcia,R,175,CHI,19.9,103196,,,Carlos Custodio,R,,BRA,19.9,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,657,25,526,48
 1998-M-SA-CHI-02A-1998b,Chile 2 Masters 2,Clay,24,S,19980502,8,103632,,,Luis Horna,R,180,PER,17.6,109476,,,Claudio Alvarado,R,,CHI,17.4,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,898,10,,
@@ -3482,7 +3482,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-SA-CHI-02A-1998b,Chile 2 Masters 2,Clay,24,S,19980502,10,102846,,,Raul Valdes,R,,CHI,21.6,102997,8,,Hermes Gamonal,R,180,CHI,20.9,3-6 6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,739,18,412,77
 1998-M-SA-CHI-02A-1998b,Chile 2 Masters 2,Clay,24,S,19980502,11,103015,3,,Daniel Melo,L,185,BRA,20.8,102807,,,Rodrigo Monte,R,,BRA,21.8,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,438,67,780,15
 1998-M-SA-CHI-02A-1998b,Chile 2 Masters 2,Clay,24,S,19980502,12,102938,6,,Alejandro Olivera,R,,URU,21.1,102890,,,Oscar Rodriguez Arg,R,,ARG,21.3,6-4 3-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,,921,9,432,69
-1998-M-SA-CHI-02A-1998b,Chile 2 Masters 2,Clay,24,S,19980502,13,103292,5,,Gaston Gaudio,R,175,ARG,19.3,108585,,,Americo Venero Montes,U,,PER,26.1,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,637,27,,
+1998-M-SA-CHI-02A-1998b,Chile 2 Masters 2,Clay,24,S,19980502,13,103292,5,,Gaston Gaudio,R,175,ARG,19.3,108585,,,Americo Venero Montes,U,175,PER,26.1,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,637,27,,
 1998-M-SA-CHI-02A-1998b,Chile 2 Masters 2,Clay,24,S,19980502,14,101976,4,,Federico Dondo,R,,URU,26.5,102962,,,Miguel Miranda,R,,CHI,21.1,6-3 7-6,3,R16,,,,,,,,,,,,,,,,,,,,335,112,596,34
 1998-M-SA-CHI-02A-1998b,Chile 2 Masters 2,Clay,24,S,19980502,15,103846,7,,Mariano Campos,R,,ARG,16.6,103201,,,Adrian Garcia,R,175,CHI,19.9,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,657,25
 1998-M-SA-CHI-02A-1998b,Chile 2 Masters 2,Clay,24,S,19980502,16,102168,2,,Hector Moretti,R,170,ARG,25.2,103632,,,Luis Horna,R,180,PER,17.6,6-4 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,431,69,898,10
@@ -3497,7 +3497,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-SA-CHI-02A-1998c,Chile 2 Masters 3,Clay,32,S,19980502,2,103196,,,Carlos Custodio,R,,BRA,19.9,103121,,Q,Matias Oneille,R,,ARG,20.2,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,526,48,,
 1998-M-SA-CHI-02A-1998c,Chile 2 Masters 3,Clay,32,S,19980502,3,102846,,,Raul Valdes,R,,CHI,21.6,103572,,WC,Luis Hormazabal,R,,CHI,17.8,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,739,18,,
 1998-M-SA-CHI-02A-1998c,Chile 2 Masters 3,Clay,32,S,19980502,4,102890,8,,Oscar Rodriguez Arg,R,,ARG,21.3,102830,,,Paulo Carvallo,R,,PAR,21.7,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,432,69,562,40
-1998-M-SA-CHI-02A-1998c,Chile 2 Masters 3,Clay,32,S,19980502,5,108585,,,Americo Venero Montes,U,,PER,26.1,103065,4,,Kepler Orellana,R,,VEN,20.5,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,418,76
+1998-M-SA-CHI-02A-1998c,Chile 2 Masters 3,Clay,32,S,19980502,5,108585,,,Americo Venero Montes,U,175,PER,26.1,103065,4,,Kepler Orellana,R,,VEN,20.5,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,418,76
 1998-M-SA-CHI-02A-1998c,Chile 2 Masters 3,Clay,32,S,19980502,6,103201,,,Adrian Garcia,R,175,CHI,19.9,117421,,Q,Dino Pelorosso,U,,ARG,19.8,3-6 7-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,657,25,,
 1998-M-SA-CHI-02A-1998c,Chile 2 Masters 3,Clay,32,S,19980502,7,103846,,Q,Mariano Campos,R,,ARG,16.6,117415,,Q,Sebastian Contador,U,,CHI,22.3,6-3 7-6,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1998-M-SA-CHI-02A-1998c,Chile 2 Masters 3,Clay,32,S,19980502,8,101976,6,,Federico Dondo,R,,URU,26.5,102342,,,Patricio Donati,R,,ARG,24.1,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,335,112,846,11
@@ -3511,7 +3511,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-SA-CHI-02A-1998c,Chile 2 Masters 3,Clay,32,S,19980502,16,102168,2,,Hector Moretti,R,170,ARG,25.2,103670,,WC,Alvaro Loyola,R,,CHI,17.3,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,431,69,,
 1998-M-SA-CHI-02A-1998c,Chile 2 Masters 3,Clay,32,S,19980502,17,102723,1,,Eduardo Medica,R,180,ARG,22.2,103196,,,Carlos Custodio,R,,BRA,19.9,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,415,76,526,48
 1998-M-SA-CHI-02A-1998c,Chile 2 Masters 3,Clay,32,S,19980502,18,102890,8,,Oscar Rodriguez Arg,R,,ARG,21.3,102846,,,Raul Valdes,R,,CHI,21.6,3-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,432,69,739,18
-1998-M-SA-CHI-02A-1998c,Chile 2 Masters 3,Clay,32,S,19980502,19,103201,,,Adrian Garcia,R,175,CHI,19.9,108585,,,Americo Venero Montes,U,,PER,26.1,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,657,25,,
+1998-M-SA-CHI-02A-1998c,Chile 2 Masters 3,Clay,32,S,19980502,19,103201,,,Adrian Garcia,R,175,CHI,19.9,108585,,,Americo Venero Montes,U,175,PER,26.1,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,657,25,,
 1998-M-SA-CHI-02A-1998c,Chile 2 Masters 3,Clay,32,S,19980502,20,101976,6,,Federico Dondo,R,,URU,26.5,103846,,Q,Mariano Campos,R,,ARG,16.6,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,335,112,,
 1998-M-SA-CHI-02A-1998c,Chile 2 Masters 3,Clay,32,S,19980502,21,103015,5,,Daniel Melo,L,185,BRA,20.8,109476,,Q,Claudio Alvarado,R,,CHI,17.4,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,438,67,,
 1998-M-SA-CHI-02A-1998c,Chile 2 Masters 3,Clay,32,S,19980502,22,102997,3,,Hermes Gamonal,R,180,CHI,20.9,103310,,Q,Rodrigo Pena,R,,ARG,19.2,3-6 6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,412,77,989,7
@@ -3529,7 +3529,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-SA-CHI-02A-1998d,Chile 2 Masters 4,Clay,32,S,19980502,3,103572,,WC,Luis Hormazabal,R,,CHI,17.8,103775,,Q,Felipe Parada,R,175,CHI,16.9,6-3 0-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1998-M-SA-CHI-02A-1998d,Chile 2 Masters 4,Clay,32,S,19980502,4,103015,8,,Daniel Melo,L,185,BRA,20.8,102846,,,Raul Valdes,R,,CHI,21.6,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,438,67,739,18
 1998-M-SA-CHI-02A-1998d,Chile 2 Masters 4,Clay,32,S,19980502,5,102962,,,Miguel Miranda,R,,CHI,21.1,102997,3,,Hermes Gamonal,R,180,CHI,20.9,6-4 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,596,34,412,77
-1998-M-SA-CHI-02A-1998d,Chile 2 Masters 4,Clay,32,S,19980502,6,108585,,,Americo Venero Montes,U,,PER,26.1,103121,,Q,Matias Oneille,R,,ARG,20.2,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1998-M-SA-CHI-02A-1998d,Chile 2 Masters 4,Clay,32,S,19980502,6,108585,,,Americo Venero Montes,U,175,PER,26.1,103121,,Q,Matias Oneille,R,,ARG,20.2,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1998-M-SA-CHI-02A-1998d,Chile 2 Masters 4,Clay,32,S,19980502,7,102807,,,Rodrigo Monte,R,,BRA,21.8,110767,,Q,Marcelo Junqueira,R,,BRA,18.9,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,780,15,1377,1
 1998-M-SA-CHI-02A-1998d,Chile 2 Masters 4,Clay,32,S,19980502,8,102168,6,,Hector Moretti,R,170,ARG,25.2,103107,,Q,Luiz Marafelli,R,,BRA,20.3,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,431,69,,
 1998-M-SA-CHI-02A-1998d,Chile 2 Masters 4,Clay,32,S,19980502,9,102342,,,Patricio Donati,R,,ARG,24.1,103065,5,,Kepler Orellana,R,,VEN,20.5,6-7 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,846,11,418,76
@@ -3542,7 +3542,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-SA-CHI-02A-1998d,Chile 2 Masters 4,Clay,32,S,19980502,16,103292,,,Gaston Gaudio,R,175,ARG,19.3,101976,2,,Federico Dondo,R,,URU,26.5,7-5 7-6,3,R32,,,,,,,,,,,,,,,,,,,,637,27,335,112
 1998-M-SA-CHI-02A-1998d,Chile 2 Masters 4,Clay,32,S,19980502,17,103846,,Q,Mariano Campos,R,,ARG,16.6,103058,,Q,Juan Felipe Yanez,R,,CHI,20.5,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,1136,4
 1998-M-SA-CHI-02A-1998d,Chile 2 Masters 4,Clay,32,S,19980502,18,103015,8,,Daniel Melo,L,185,BRA,20.8,103572,,WC,Luis Hormazabal,R,,CHI,17.8,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,438,67,,
-1998-M-SA-CHI-02A-1998d,Chile 2 Masters 4,Clay,32,S,19980502,19,102962,,,Miguel Miranda,R,,CHI,21.1,108585,,,Americo Venero Montes,U,,PER,26.1,6-3 7-6,3,R16,,,,,,,,,,,,,,,,,,,,596,34,,
+1998-M-SA-CHI-02A-1998d,Chile 2 Masters 4,Clay,32,S,19980502,19,102962,,,Miguel Miranda,R,,CHI,21.1,108585,,,Americo Venero Montes,U,175,PER,26.1,6-3 7-6,3,R16,,,,,,,,,,,,,,,,,,,,596,34,,
 1998-M-SA-CHI-02A-1998d,Chile 2 Masters 4,Clay,32,S,19980502,20,102168,6,,Hector Moretti,R,170,ARG,25.2,102807,,,Rodrigo Monte,R,,BRA,21.8,4-6 7-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,431,69,780,15
 1998-M-SA-CHI-02A-1998d,Chile 2 Masters 4,Clay,32,S,19980502,21,102342,,,Patricio Donati,R,,ARG,24.1,102938,,Q,Alejandro Olivera,R,,URU,21.1,7-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,846,11,921,9
 1998-M-SA-CHI-02A-1998d,Chile 2 Masters 4,Clay,32,S,19980502,22,102723,4,,Eduardo Medica,R,180,ARG,22.2,103201,,,Adrian Garcia,R,175,CHI,19.9,4-6 6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,415,76,657,25
@@ -5019,7 +5019,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-SA-ESP-06A-1998a,Spain 6 Masters 1,Clay,32,S,19980605,13,102792,7,,Carlos Castellanos,R,,ESP,22.0,103430,,,Ezequiel Velez,R,,ESP,18.7,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,939,,998,
 1998-M-SA-ESP-06A-1998a,Spain 6 Masters 1,Clay,32,S,19980605,14,103359,,LL,Jordi Fernandez,U,,ESP,19.1,117373,,Q,Aeron Martinovic,U,,AUS,20.4,5-7 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1998-M-SA-ESP-06A-1998a,Spain 6 Masters 1,Clay,32,S,19980605,15,103868,,,Ivan Navarro,R,183,ESP,16.6,118249,,WC,Javier Romero Barrio,U,,ESP,17.8,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-1998-M-SA-ESP-06A-1998a,Spain 6 Masters 1,Clay,32,S,19980605,16,103015,2,,Daniel Melo,L,185,BRA,20.9,103926,,WC,Daniel Munoz de la Nava,L,,ESP,16.3,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,427,,,
+1998-M-SA-ESP-06A-1998a,Spain 6 Masters 1,Clay,32,S,19980605,16,103015,2,,Daniel Melo,L,185,BRA,20.9,103926,,WC,Daniel Munoz de la Nava,L,178,ESP,16.3,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,427,,,
 1998-M-SA-ESP-06A-1998a,Spain 6 Masters 1,Clay,32,S,19980605,17,102614,1,,Victor Sendin,R,175,ESP,22.9,103261,,,Andrea Serra,U,,ITA,19.7,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,566,37,,
 1998-M-SA-ESP-06A-1998a,Spain 6 Masters 1,Clay,32,S,19980605,18,102848,,WC,Javier Perez Vazquez,R,,ESP,21.7,103608,,Q,Mario Munoz Bejarano,R,,ESP,17.8,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,535,,,
 1998-M-SA-ESP-06A-1998a,Spain 6 Masters 1,Clay,32,S,19980605,19,103186,3,,Emilio Viuda Hernandez,R,,ESP,20.0,103476,,,Israel Vior Diaz,R,,ESP,18.5,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,517,47,1125,
@@ -5135,7 +5135,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-FU-FIN-01A-1998,Finland F1,Clay,32,S,19980608,13,103129,7,,Per Thornadtsson,R,,SWE,20.3,117574,,Q,Mikko Salminvuo,U,,FIN,24.5,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,600,31,,
 1998-M-FU-FIN-01A-1998,Finland F1,Clay,32,S,19980608,14,117565,,Q,Miika Kangas,U,,FIN,20.2,103595,,WC,Martin Rammal,R,,FIN,17.8,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1302,2,,
 1998-M-FU-FIN-01A-1998,Finland F1,Clay,32,S,19980608,15,102469,,,Solon Peppas,R,,GRE,23.6,117575,,LL,Ilkka Riikonen,U,,FIN,21.5,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,626,27,,
-1998-M-FU-FIN-01A-1998,Finland F1,Clay,32,S,19980608,16,103239,2,,Marcus Sarstrand,R,183,SWE,19.8,103623,,Q,Jacob Adaktusson,R,,SWE,17.7,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,415,78,1225,3
+1998-M-FU-FIN-01A-1998,Finland F1,Clay,32,S,19980608,16,103239,2,,Marcus Sarstrand,R,183,SWE,19.8,103623,,Q,Jacob Adaktusson,R,193,SWE,17.7,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,415,78,1225,3
 1998-M-FU-FIN-01A-1998,Finland F1,Clay,32,S,19980608,17,102668,1,,Tapio Nurminen,R,,FIN,22.6,101940,,Q,Rene Busch,R,,EST,26.8,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,299,129,,
 1998-M-FU-FIN-01A-1998,Finland F1,Clay,32,S,19980608,18,103000,8,,Paulo Taicher,R,,BRA,21.0,117570,,WC,Veli Pekka Antila,U,,FIN,22.2,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,588,34,,
 1998-M-FU-FIN-01A-1998,Finland F1,Clay,32,S,19980608,19,102673,,,Tobias Hildebrand,R,,SWE,22.6,102501,4,,Johan Landsberg,R,183,SWE,23.4,2-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,649,25,580,35
@@ -5725,7 +5725,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-FU-ITA-10A-1998,Italy F10,Clay,32,S,19980616,30,102520,4,,Olivier Malcor,R,180,FRA,23.3,102062,8,,Guillaume Marx,R,,FRA,26.0,6-1 6-2,3,SF,,,,,,,,,,,,,,,,,,,,395,85,466,62
 1998-M-FU-ITA-10A-1998,Italy F10,Clay,32,S,19980616,31,102520,4,,Olivier Malcor,R,180,FRA,23.3,103007,,,Mounir El Aarej,R,,MAR,20.9,6-3 1-0 RET,3,F,,,,,,,,,,,,,,,,,,,,395,85,490,53
 1998-M-FU-GER-10A-1998,Germany F10,Clay,32,S,19980617,1,102494,1,,Tomas Behrend,R,193,GER,23.5,103242,,,Juan Giner,R,178,ESP,19.8,7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,261,151,586,34
-1998-M-FU-GER-10A-1998,Germany F10,Clay,32,S,19980617,2,101393,,,Jens Woehrmann,R,180,GER,30.7,103646,,WC,Lars Uebel,R,,GER,17.6,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1187,4,1378,1
+1998-M-FU-GER-10A-1998,Germany F10,Clay,32,S,19980617,2,101393,,,Jens Woehrmann,R,180,GER,30.7,103646,,WC,Lars Uebel,R,180,GER,17.6,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1187,4,1378,1
 1998-M-FU-GER-10A-1998,Germany F10,Clay,32,S,19980617,3,103029,,,Mehdi Tahiri,R,183,MAR,20.8,103028,,Q,Santiago Messora,R,,ARG,20.8,7-6 4-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,618,28,996,7
 1998-M-FU-GER-10A-1998,Germany F10,Clay,32,S,19980617,4,101551,8,,Carlos Gomez Diaz,R,,ARG,29.4,102438,,LL,Gerald Fauser,R,,GER,23.8,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,366,98,727,17
 1998-M-FU-GER-10A-1998,Germany F10,Clay,32,S,19980617,5,102996,,,Franz Stauder,R,,GER,21.0,108686,3,,Alejandro Aramburu Acuna,R,,PER,29.3,6-1 5-7 7-6,3,R32,,,,,,,,,,,,,,,,,,,,507,50,,
@@ -6049,7 +6049,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-FU-GER-11A-1998,Germany F11,Clay,32,S,19980624,12,103027,,,Markus Menzler,R,,GER,20.9,103250,3,,Rodolphe Cadart,L,183,FRA,19.8,1-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,537,43,372,94
 1998-M-FU-GER-11A-1998,Germany F11,Clay,32,S,19980624,13,102572,7,,Igor Gaudi,R,188,ITA,23.2,103080,,,Paul Hanley,R,183,AUS,20.6,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,434,72,442,69
 1998-M-FU-GER-11A-1998,Germany F11,Clay,32,S,19980624,14,103601,,WC,Sebastian Jaeger,R,,GER,17.9,102996,,,Franz Stauder,R,,GER,21.0,7-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1123,4,507,50
-1998-M-FU-GER-11A-1998,Germany F11,Clay,32,S,19980624,15,101518,,,Sandro Della Piana,R,,SUI,29.7,108585,,,Americo Venero Montes,U,,PER,26.3,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,553,39,,
+1998-M-FU-GER-11A-1998,Germany F11,Clay,32,S,19980624,15,101518,,,Sandro Della Piana,R,,SUI,29.7,108585,,,Americo Venero Montes,U,175,PER,26.3,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,553,39,,
 1998-M-FU-GER-11A-1998,Germany F11,Clay,32,S,19980624,16,102952,2,,Jose Maria Vicente,R,,ESP,21.2,102631,,,Alexey Gavrilov,R,,RUS,22.9,7-6 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,339,106,505,50
 1998-M-FU-GER-11A-1998,Germany F11,Clay,32,S,19980624,17,102350,,Q,Jan Gruninger,R,,GER,24.2,101534,,,Libor Nemecek,R,168,CZE,29.6,7-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1123,4,712,18
 1998-M-FU-GER-11A-1998,Germany F11,Clay,32,S,19980624,18,103305,8,,Daniel Elsner,R,183,GER,19.4,102438,,Q,Gerald Fauser,R,,GER,23.8,6-2 7-6,3,R16,,,,,,,,,,,,,,,,,,,,485,55,727,17
@@ -6650,7 +6650,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-FU-GRE-06A-1998,Greece F6,Hard,32,S,19980706,8,102335,6,,Taso Vasiliadis,R,,GRE,24.3,103222,,,Sergei Krotiouk,R,,RUS,20.0,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,542,40,1067,5
 1998-M-FU-GRE-06A-1998,Greece F6,Hard,32,S,19980706,9,103027,5,,Markus Menzler,R,,GER,20.9,117498,,Q,George Kalanov,U,,CYP,18.3,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,526,44,,
 1998-M-FU-GRE-06A-1998,Greece F6,Hard,32,S,19980706,10,103077,,,Konstantinos Economidis,R,188,GRE,20.6,117672,,Q,Konstantinos Gogos,U,,GRE,22.0,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,676,22,,
-1998-M-FU-GRE-06A-1998,Greece F6,Hard,32,S,19980706,11,102985,,Q,Gustavo Marcaccio,R,,ARG,21.1,102469,,,Solon Peppas,R,,GRE,23.6,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,569,36
+1998-M-FU-GRE-06A-1998,Greece F6,Hard,32,S,19980706,11,102985,,Q,Gustavo Marcaccio,R,170,ARG,21.1,102469,,,Solon Peppas,R,,GRE,23.6,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,569,36
 1998-M-FU-GRE-06A-1998,Greece F6,Hard,32,S,19980706,12,102090,3,,Ofer Sela,R,188,ISR,25.9,117656,,Q,Nikos Kargadouris,U,,GRE,17.3,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,340,104,,
 1998-M-FU-GRE-06A-1998,Greece F6,Hard,32,S,19980706,13,102857,7,,Patrick Sommer,R,,GER,21.8,117664,,LL,Gueorgui Stoykov,U,,BUL,20.1,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,593,32,,
 1998-M-FU-GRE-06A-1998,Greece F6,Hard,32,S,19980706,14,103099,,,Michael Kogan,R,,ISR,20.5,103412,,Q,Matthew Hanlin,U,,GBR,18.9,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,723,18,,
@@ -6661,7 +6661,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-FU-GRE-06A-1998,Greece F6,Hard,32,S,19980706,19,103174,4,,Noam Okun,R,185,ISR,20.2,103095,,,Patricio Rudi,R,,ARG,20.5,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,386,89,877,10
 1998-M-FU-GRE-06A-1998,Greece F6,Hard,32,S,19980706,20,102335,6,,Taso Vasiliadis,R,,GRE,24.3,117675,,Q,Michalis Preponis,U,,GRE,26.9,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,542,40,,
 1998-M-FU-GRE-06A-1998,Greece F6,Hard,32,S,19980706,21,103027,5,,Markus Menzler,R,,GER,20.9,103077,,,Konstantinos Economidis,R,188,GRE,20.6,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,526,44,676,22
-1998-M-FU-GRE-06A-1998,Greece F6,Hard,32,S,19980706,22,102090,3,,Ofer Sela,R,188,ISR,25.9,102985,,Q,Gustavo Marcaccio,R,,ARG,21.1,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,340,104,,
+1998-M-FU-GRE-06A-1998,Greece F6,Hard,32,S,19980706,22,102090,3,,Ofer Sela,R,188,ISR,25.9,102985,,Q,Gustavo Marcaccio,R,170,ARG,21.1,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,340,104,,
 1998-M-FU-GRE-06A-1998,Greece F6,Hard,32,S,19980706,23,102857,7,,Patrick Sommer,R,,GER,21.8,103099,,,Michael Kogan,R,,ISR,20.5,4-6 6-2 7-6,3,R16,,,,,,,,,,,,,,,,,,,,593,32,723,18
 1998-M-FU-GRE-06A-1998,Greece F6,Hard,32,S,19980706,24,102734,2,,Lior Mor,R,175,ISR,22.3,103053,,,Nikos Rovas,R,,GRE,20.7,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,281,142,766,16
 1998-M-FU-GRE-06A-1998,Greece F6,Hard,32,S,19980706,25,103248,1,,Harel Levy,R,185,ISR,19.9,103544,8,,Andy Ram,R,180,ISR,18.2,7-5 7-6,3,QF,,,,,,,,,,,,,,,,,,,,330,110,605,30
@@ -6894,7 +6894,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-FU-GRE-07A-1998,Greece F7,Clay,32,S,19980713,3,102857,,,Patrick Sommer,R,,GER,21.8,117681,,Q,Anthony Old,U,,NZL,21.8,4-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,591,32,1341,1
 1998-M-FU-GRE-07A-1998,Greece F7,Clay,32,S,19980713,4,102335,8,,Taso Vasiliadis,R,,GRE,24.4,103544,,,Andy Ram,R,180,ISR,18.2,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,537,40,603,30
 1998-M-FU-GRE-07A-1998,Greece F7,Clay,32,S,19980713,5,103053,,,Nikos Rovas,R,,GRE,20.8,102090,3,,Ofer Sela,R,188,ISR,25.9,6-2 4-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,764,16,350,99
-1998-M-FU-GRE-07A-1998,Greece F7,Clay,32,S,19980713,6,102985,,Q,Gustavo Marcaccio,R,,ARG,21.1,103309,,,Michael Logarzo,R,,AUS,19.4,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,788,14
+1998-M-FU-GRE-07A-1998,Greece F7,Clay,32,S,19980713,6,102985,,Q,Gustavo Marcaccio,R,170,ARG,21.1,103309,,,Michael Logarzo,R,,AUS,19.4,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,788,14
 1998-M-FU-GRE-07A-1998,Greece F7,Clay,32,S,19980713,7,102467,,,Fazaluddin Syed,R,,IND,23.7,117656,,Q,Nikos Kargadouris,U,,GRE,17.3,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,636,25,,
 1998-M-FU-GRE-07A-1998,Greece F7,Clay,32,S,19980713,8,102739,5,,Wim Neefs,R,,BEL,22.3,103077,,,Konstantinos Economidis,R,188,GRE,20.6,7-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,566,36,674,22
 1998-M-FU-GRE-07A-1998,Greece F7,Clay,32,S,19980713,9,103153,6,,Gilles Elseneer,R,188,BEL,20.3,103412,,Q,Matthew Hanlin,U,,GBR,18.9,2-4 RET,3,R32,,,,,,,,,,,,,,,,,,,,510,46,,
@@ -6907,14 +6907,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-FU-GRE-07A-1998,Greece F7,Clay,32,S,19980713,16,103248,2,,Harel Levy,R,185,ISR,19.9,103099,,,Michael Kogan,R,,ISR,20.5,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,329,110,737,17
 1998-M-FU-GRE-07A-1998,Greece F7,Clay,32,S,19980713,17,102734,1,,Lior Mor,R,175,ISR,22.3,103095,,,Patricio Rudi,R,,ARG,20.5,4-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,309,118,877,10
 1998-M-FU-GRE-07A-1998,Greece F7,Clay,32,S,19980713,18,102335,8,,Taso Vasiliadis,R,,GRE,24.4,102857,,,Patrick Sommer,R,,GER,21.8,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,537,40,591,32
-1998-M-FU-GRE-07A-1998,Greece F7,Clay,32,S,19980713,19,102985,,Q,Gustavo Marcaccio,R,,ARG,21.1,103053,,,Nikos Rovas,R,,GRE,20.8,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,,,764,16
+1998-M-FU-GRE-07A-1998,Greece F7,Clay,32,S,19980713,19,102985,,Q,Gustavo Marcaccio,R,170,ARG,21.1,103053,,,Nikos Rovas,R,,GRE,20.8,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,,,764,16
 1998-M-FU-GRE-07A-1998,Greece F7,Clay,32,S,19980713,20,102739,5,,Wim Neefs,R,,BEL,22.3,102467,,,Fazaluddin Syed,R,,IND,23.7,6-2 1-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,566,36,636,25
 1998-M-FU-GRE-07A-1998,Greece F7,Clay,32,S,19980713,21,103382,,Q,Guillermo Platel,R,,ESP,19.1,103153,6,,Gilles Elseneer,R,188,BEL,20.3,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,894,10,510,46
 1998-M-FU-GRE-07A-1998,Greece F7,Clay,32,S,19980713,22,103174,4,,Noam Okun,R,185,ISR,20.2,103078,,WC,Yannis Vlachos,R,,GRE,20.6,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,378,89,925,9
 1998-M-FU-GRE-07A-1998,Greece F7,Clay,32,S,19980713,23,103027,7,,Markus Menzler,R,,GER,20.9,103222,,LL,Sergei Krotiouk,R,,RUS,20.0,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,587,33,1067,5
 1998-M-FU-GRE-07A-1998,Greece F7,Clay,32,S,19980713,24,103248,2,,Harel Levy,R,185,ISR,19.9,103354,,,Kamil Patel,R,,MRI,19.2,6-2 2-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,329,110,854,11
 1998-M-FU-GRE-07A-1998,Greece F7,Clay,32,S,19980713,25,102734,1,,Lior Mor,R,175,ISR,22.3,102335,8,,Taso Vasiliadis,R,,GRE,24.4,6-1 6-0,3,QF,,,,,,,,,,,,,,,,,,,,309,118,537,40
-1998-M-FU-GRE-07A-1998,Greece F7,Clay,32,S,19980713,26,102739,5,,Wim Neefs,R,,BEL,22.3,102985,,Q,Gustavo Marcaccio,R,,ARG,21.1,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,566,36,,
+1998-M-FU-GRE-07A-1998,Greece F7,Clay,32,S,19980713,26,102739,5,,Wim Neefs,R,,BEL,22.3,102985,,Q,Gustavo Marcaccio,R,170,ARG,21.1,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,566,36,,
 1998-M-FU-GRE-07A-1998,Greece F7,Clay,32,S,19980713,27,103382,,Q,Guillermo Platel,R,,ESP,19.1,103174,4,,Noam Okun,R,185,ISR,20.2,7-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,894,10,378,89
 1998-M-FU-GRE-07A-1998,Greece F7,Clay,32,S,19980713,28,103248,2,,Harel Levy,R,185,ISR,19.9,103027,7,,Markus Menzler,R,,GER,20.9,7-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,329,110,587,33
 1998-M-FU-GRE-07A-1998,Greece F7,Clay,32,S,19980713,29,102739,5,,Wim Neefs,R,,BEL,22.3,102734,1,,Lior Mor,R,175,ISR,22.3,7-5 6-3,3,SF,,,,,,,,,,,,,,,,,,,,566,36,309,118
@@ -7019,7 +7019,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-SA-USA-02A-1998a,USA 2 Masters 1,Hard,64,S,19980717,4,103048,,Q,Hayden Gibson,R,,AUS,20.8,101538,16,,Michael White,R,,RSA,29.6,6-3 4-6 6-4,3,R64,,,,,,,,,,,,,,,,,,,,1255,3,870,11
 1998-M-SA-USA-02A-1998a,USA 2 Masters 1,Hard,64,S,19980717,5,102995,9,,Mark Thompson,R,,NZL,21.1,103561,,,Roei Shnaider,R,,ISR,18.1,6-0 7-5,3,R64,,,,,,,,,,,,,,,,,,,,718,18,1010,6
 1998-M-SA-USA-02A-1998a,USA 2 Masters 1,Hard,64,S,19980717,6,103408,,Q,Brian Vahaly,R,183,USA,18.9,102442,,,Matt Pledger,R,,USA,23.8,6-0 6-1,3,R64,,,,,,,,,,,,,,,,,,,,,,989,7
-1998-M-SA-USA-02A-1998a,USA 2 Masters 1,Hard,64,S,19980717,7,103646,,Q,Lars Uebel,R,,GER,17.7,103431,,,Brandon Hawk,R,,USA,18.8,6-4 2-6 7-5,3,R64,,,,,,,,,,,,,,,,,,,,1296,2,,
+1998-M-SA-USA-02A-1998a,USA 2 Masters 1,Hard,64,S,19980717,7,103646,,Q,Lars Uebel,R,180,GER,17.7,103431,,,Brandon Hawk,R,,USA,18.8,6-4 2-6 7-5,3,R64,,,,,,,,,,,,,,,,,,,,1296,2,,
 1998-M-SA-USA-02A-1998a,USA 2 Masters 1,Hard,64,S,19980717,8,102576,8,,Simon Blanc,R,,FRA,23.2,111246,,,Mark Williams,U,,AUS,19.3,5-7 7-5 6-2,3,R64,,,,,,,,,,,,,,,,,,,,711,18,1046,5
 1998-M-SA-USA-02A-1998a,USA 2 Masters 1,Hard,64,S,19980717,9,103451,4,,Bjorn Phau,R,175,GER,18.7,123485,,WC,Beau J Hauck,U,,USA,19.0,6-4 6-0,3,R64,,,,,,,,,,,,,,,,,,,,600,31,,
 1998-M-SA-USA-02A-1998a,USA 2 Masters 1,Hard,64,S,19980717,10,102393,,,John Lamendola,R,,USA,24.1,102130,,,Jeremy Sutter,R,,USA,25.6,6-3 3-6 6-1,3,R64,,,,,,,,,,,,,,,,,,,,915,9,873,11
@@ -7048,7 +7048,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-SA-USA-02A-1998a,USA 2 Masters 1,Hard,64,S,19980717,33,102755,,,Alex Witt,R,,USA,22.3,101878,1,,Wynn Criswell,R,,USA,27.3,6-1 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1105,4,435,68
 1998-M-SA-USA-02A-1998a,USA 2 Masters 1,Hard,64,S,19980717,34,102530,,Q,Pieter Calitz,R,,RSA,23.4,103048,,Q,Hayden Gibson,R,,AUS,20.8,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1341,1,1255,3
 1998-M-SA-USA-02A-1998a,USA 2 Masters 1,Hard,64,S,19980717,35,103408,,Q,Brian Vahaly,R,183,USA,18.9,102995,9,,Mark Thompson,R,,NZL,21.1,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,718,18
-1998-M-SA-USA-02A-1998a,USA 2 Masters 1,Hard,64,S,19980717,36,103646,,Q,Lars Uebel,R,,GER,17.7,102576,8,,Simon Blanc,R,,FRA,23.2,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1296,2,711,18
+1998-M-SA-USA-02A-1998a,USA 2 Masters 1,Hard,64,S,19980717,36,103646,,Q,Lars Uebel,R,180,GER,17.7,102576,8,,Simon Blanc,R,,FRA,23.2,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1296,2,711,18
 1998-M-SA-USA-02A-1998a,USA 2 Masters 1,Hard,64,S,19980717,37,103451,4,,Bjorn Phau,R,175,GER,18.7,102393,,,John Lamendola,R,,USA,24.1,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,600,31,915,9
 1998-M-SA-USA-02A-1998a,USA 2 Masters 1,Hard,64,S,19980717,38,111349,14,,Andreas Weber,R,,GER,,123486,,LL,David Cheatwood,U,,USA,19.0,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1998-M-SA-USA-02A-1998a,USA 2 Masters 1,Hard,64,S,19980717,39,103161,12,,Ryan Sachire,R,198,USA,20.2,103470,,Q,Robert Kendrick,R,190,USA,18.6,6-0 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,744,16,,
@@ -7062,14 +7062,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-SA-USA-02A-1998a,USA 2 Masters 1,Hard,64,S,19980717,47,103076,,LL,Justin Oneal,R,,USA,20.7,102531,,Q,Dave Abelson,L,,CAN,23.4,6-4 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1105,4,1341,1
 1998-M-SA-USA-02A-1998a,USA 2 Masters 1,Hard,64,S,19980717,48,103458,,Q,Mark Parsons,R,,CAN,18.7,103308,2,,Sebastian Swierk,R,,AUS,19.4,7-5 5-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,524,43
 1998-M-SA-USA-02A-1998a,USA 2 Masters 1,Hard,64,S,19980717,49,102755,,,Alex Witt,R,,USA,22.3,102530,,Q,Pieter Calitz,R,,RSA,23.4,4-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1105,4,1341,1
-1998-M-SA-USA-02A-1998a,USA 2 Masters 1,Hard,64,S,19980717,50,103646,,Q,Lars Uebel,R,,GER,17.7,103408,,Q,Brian Vahaly,R,183,USA,18.9,7-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,,1296,2,,
+1998-M-SA-USA-02A-1998a,USA 2 Masters 1,Hard,64,S,19980717,50,103646,,Q,Lars Uebel,R,180,GER,17.7,103408,,Q,Brian Vahaly,R,183,USA,18.9,7-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,,1296,2,,
 1998-M-SA-USA-02A-1998a,USA 2 Masters 1,Hard,64,S,19980717,51,111349,14,,Andreas Weber,R,,GER,,103451,4,,Bjorn Phau,R,175,GER,18.7,1-6 6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,600,31
 1998-M-SA-USA-02A-1998a,USA 2 Masters 1,Hard,64,S,19980717,52,103161,12,,Ryan Sachire,R,198,USA,20.2,102947,,,Jason Cook,R,,USA,21.3,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,744,16,935,8
 1998-M-SA-USA-02A-1998a,USA 2 Masters 1,Hard,64,S,19980717,53,102929,,,Ryan Wolters,R,180,USA,21.4,103094,,,Doug Root,R,,USA,20.5,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1296,2,993,6
 1998-M-SA-USA-02A-1998a,USA 2 Masters 1,Hard,64,S,19980717,54,102805,13,,Matthew Breen,R,,AUS,22.0,102974,,,Eric Drew,R,,USA,21.2,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,745,16,1010,6
 1998-M-SA-USA-02A-1998a,USA 2 Masters 1,Hard,64,S,19980717,55,102824,,,John Roddick,R,,USA,22.0,102188,,,David Critchley,R,,CAN,25.3,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,897,9,989,7
 1998-M-SA-USA-02A-1998a,USA 2 Masters 1,Hard,64,S,19980717,56,103458,,Q,Mark Parsons,R,,CAN,18.7,103076,,LL,Justin Oneal,R,,USA,20.7,7-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,1105,4
-1998-M-SA-USA-02A-1998a,USA 2 Masters 1,Hard,64,S,19980717,57,102755,,,Alex Witt,R,,USA,22.3,103646,,Q,Lars Uebel,R,,GER,17.7,2-6 6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,1105,4,1296,2
+1998-M-SA-USA-02A-1998a,USA 2 Masters 1,Hard,64,S,19980717,57,102755,,,Alex Witt,R,,USA,22.3,103646,,Q,Lars Uebel,R,180,GER,17.7,2-6 6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,1105,4,1296,2
 1998-M-SA-USA-02A-1998a,USA 2 Masters 1,Hard,64,S,19980717,58,111349,14,,Andreas Weber,R,,GER,,103161,12,,Ryan Sachire,R,198,USA,20.2,6-7 6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,,,744,16
 1998-M-SA-USA-02A-1998a,USA 2 Masters 1,Hard,64,S,19980717,59,102805,13,,Matthew Breen,R,,AUS,22.0,102929,,,Ryan Wolters,R,180,USA,21.4,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,745,16,1296,2
 1998-M-SA-USA-02A-1998a,USA 2 Masters 1,Hard,64,S,19980717,60,103458,,Q,Mark Parsons,R,,CAN,18.7,102824,,,John Roddick,R,,USA,22.0,1-6 6-4 6-0,3,QF,,,,,,,,,,,,,,,,,,,,,,897,9
@@ -7154,7 +7154,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-SA-USA-02A-1998c,USA 2 Masters 3,Hard,48,S,19980717,13,102789,,,Jay Gooding,R,188,AUS,22.1,102953,,,Cory Guy,U,,USA,21.3,6-2 6-1,3,R64,,,,,,,,,,,,,,,,,,,,1341,1,,
 1998-M-SA-USA-02A-1998c,USA 2 Masters 3,Hard,48,S,19980717,14,102947,,,Jason Cook,R,,USA,21.3,102393,,,John Lamendola,R,,USA,24.1,5-7 6-4 6-2,3,R64,,,,,,,,,,,,,,,,,,,,935,8,915,9
 1998-M-SA-USA-02A-1998c,USA 2 Masters 3,Hard,48,S,19980717,15,103308,,,Sebastian Swierk,R,,AUS,19.4,103297,,,Alex Kim,R,175,USA,19.5,7-6 6-1,3,R64,,,,,,,,,,,,,,,,,,,,524,43,1341,1
-1998-M-SA-USA-02A-1998c,USA 2 Masters 3,Hard,48,S,19980717,16,103646,,,Lars Uebel,R,,GER,17.7,102424,,,Masahide Sakamoto,R,,JPN,24.0,6-7 6-4 6-2,3,R64,,,,,,,,,,,,,,,,,,,,1296,2,,
+1998-M-SA-USA-02A-1998c,USA 2 Masters 3,Hard,48,S,19980717,16,103646,,,Lars Uebel,R,180,GER,17.7,102424,,,Masahide Sakamoto,R,,JPN,24.0,6-7 6-4 6-2,3,R64,,,,,,,,,,,,,,,,,,,,1296,2,,
 1998-M-SA-USA-02A-1998c,USA 2 Masters 3,Hard,48,S,19980717,17,103451,1,,Bjorn Phau,R,175,GER,18.7,102531,,,Dave Abelson,L,,CAN,23.4,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,600,31,1341,1
 1998-M-SA-USA-02A-1998c,USA 2 Masters 3,Hard,48,S,19980717,18,102824,15,,John Roddick,R,,USA,22.0,100877,,,Brett Dickinson,R,183,USA,35.6,7-5 4-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,897,9,1160,4
 1998-M-SA-USA-02A-1998c,USA 2 Masters 3,Hard,48,S,19980717,19,103433,,,Michael Lang,R,,USA,18.8,102974,9,,Eric Drew,R,,USA,21.2,6-4 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,1341,1,1010,6
@@ -7170,7 +7170,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-SA-USA-02A-1998c,USA 2 Masters 3,Hard,48,S,19980717,29,102789,,,Jay Gooding,R,188,AUS,22.1,103470,8,,Robert Kendrick,R,190,USA,18.6,6-7 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1341,1,,
 1998-M-SA-USA-02A-1998c,USA 2 Masters 3,Hard,48,S,19980717,30,103319,10,,Jeff Morrison,R,185,USA,19.4,102947,,,Jason Cook,R,,USA,21.3,7-6 4-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,935,8,935,8
 1998-M-SA-USA-02A-1998c,USA 2 Masters 3,Hard,48,S,19980717,31,103048,16,,Hayden Gibson,R,,AUS,20.8,103308,,,Sebastian Swierk,R,,AUS,19.4,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1255,3,524,43
-1998-M-SA-USA-02A-1998c,USA 2 Masters 3,Hard,48,S,19980717,32,102805,2,,Matthew Breen,R,,AUS,22.0,103646,,,Lars Uebel,R,,GER,17.7,6-1 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,745,16,1296,2
+1998-M-SA-USA-02A-1998c,USA 2 Masters 3,Hard,48,S,19980717,32,102805,2,,Matthew Breen,R,,AUS,22.0,103646,,,Lars Uebel,R,180,GER,17.7,6-1 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,745,16,1296,2
 1998-M-SA-USA-02A-1998c,USA 2 Masters 3,Hard,48,S,19980717,33,103451,1,,Bjorn Phau,R,175,GER,18.7,102824,15,,John Roddick,R,,USA,22.0,6-5 RET,3,R16,,,,,,,,,,,,,,,,,,,,600,31,897,9
 1998-M-SA-USA-02A-1998c,USA 2 Masters 3,Hard,48,S,19980717,34,103458,7,,Mark Parsons,R,,CAN,18.7,103433,,,Michael Lang,R,,USA,18.8,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,1341,1
 1998-M-SA-USA-02A-1998c,USA 2 Masters 3,Hard,48,S,19980717,35,103076,13,,Justin Oneal,R,,USA,20.7,102228,,,Jan Hermansson,R,,SWE,25.1,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1105,4,636,25
@@ -7214,7 +7214,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-SA-USA-02A-1998d,USA 2 Masters 4,Hard,64,S,19980717,26,101878,,,Wynn Criswell,R,,USA,27.3,102902,,,Thomas Blake,R,,USA,21.5,7-6 3-6 6-3,3,R64,,,,,,,,,,,,,,,,,,,,435,68,,
 1998-M-SA-USA-02A-1998d,USA 2 Masters 4,Hard,64,S,19980717,27,117840,,Q,Hans Birger Nordstrom,U,,SWE,22.3,103001,,WC,Gavin Sontag,U,,USA,21.0,6-2 6-2,3,R64,,,,,,,,,,,,,,,,,,,,1296,2,,
 1998-M-SA-USA-02A-1998d,USA 2 Masters 4,Hard,64,S,19980717,28,102974,9,,Eric Drew,R,,USA,21.2,102852,,,Lee Pearson,R,,AUS,21.8,6-7 7-6 6-2,3,R64,,,,,,,,,,,,,,,,,,,,1010,6,727,17
-1998-M-SA-USA-02A-1998d,USA 2 Masters 4,Hard,64,S,19980717,29,117954,,,Trey Eubanks,U,,USA,20.7,103646,16,,Lars Uebel,R,,GER,17.7,2-6 6-1 6-2,3,R64,,,,,,,,,,,,,,,,,,,,1341,1,1296,2
+1998-M-SA-USA-02A-1998d,USA 2 Masters 4,Hard,64,S,19980717,29,117954,,,Trey Eubanks,U,,USA,20.7,103646,16,,Lars Uebel,R,180,GER,17.7,2-6 6-1 6-2,3,R64,,,,,,,,,,,,,,,,,,,,1341,1,1296,2
 1998-M-SA-USA-02A-1998d,USA 2 Masters 4,Hard,64,S,19980717,30,109008,,WC,Jeff Laski,U,,USA,20.4,117966,,Q,Ronald Rugimbana,U,,TAN,21.0,6-1 7-6,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1998-M-SA-USA-02A-1998d,USA 2 Masters 4,Hard,64,S,19980717,31,102840,,,Jonathan Pastel,R,,USA,21.9,104098,,Q,Dmitry Tursunov,R,185,RUS,15.5,7-5 7-6,3,R64,,,,,,,,,,,,,,,,,,,,883,10,,
 1998-M-SA-USA-02A-1998d,USA 2 Masters 4,Hard,64,S,19980717,32,102523,2,,Mike Mather,R,,USA,23.4,111261,,Q,Nathan Overholser,L,,USA,19.0,6-3 6-1,3,R64,,,,,,,,,,,,,,,,,,,,1341,1,,
@@ -7642,7 +7642,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-FU-BRA-02A-1998,Brazil F2,Hard,32,S,19980727,4,103672,,WC,Ricardo Mello,L,175,BRA,17.5,102984,8,,Martin Garcia,R,190,ARG,21.2,3-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,475,53
 1998-M-FU-BRA-02A-1998,Brazil F2,Hard,32,S,19980727,5,103196,,,Carlos Custodio,R,,BRA,20.1,102665,3,,Damian Furmanski,R,,ARG,22.8,4-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,594,30,365,92
 1998-M-FU-BRA-02A-1998,Brazil F2,Hard,32,S,19980727,6,103478,,Q,Diego Veronelli,R,193,ARG,18.6,103310,,Q,Rodrigo Pena,R,,ARG,19.5,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,722,17,1096,5
-1998-M-FU-BRA-02A-1998,Brazil F2,Hard,32,S,19980727,7,108585,,,Americo Venero Montes,U,,PER,26.4,103395,,Q,Julio Silva,R,173,BRA,19.0,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1998-M-FU-BRA-02A-1998,Brazil F2,Hard,32,S,19980727,7,108585,,,Americo Venero Montes,U,175,PER,26.4,103395,,Q,Julio Silva,R,173,BRA,19.0,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1998-M-FU-BRA-02A-1998,Brazil F2,Hard,32,S,19980727,8,102413,6,,Andy Zingman,R,183,ARG,24.1,103493,,,Eduardo Bohrer,R,,BRA,18.5,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,399,81,663,22
 1998-M-FU-BRA-02A-1998,Brazil F2,Hard,32,S,19980727,9,103015,5,,Daniel Melo,L,185,BRA,21.0,102222,,Q,Gonzalo Rodriguez,R,,URU,25.1,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,390,83,652,23
 1998-M-FU-BRA-02A-1998,Brazil F2,Hard,32,S,19980727,10,103581,,Q,Flavio Saretta,R,183,BRA,18.0,103000,,,Paulo Taicher,R,,BRA,21.1,3-6 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,525,43
@@ -7655,7 +7655,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-FU-BRA-02A-1998,Brazil F2,Hard,32,S,19980727,17,108686,1,,Alejandro Aramburu Acuna,R,,PER,29.4,117434,,WC,Tiago Ruffoni,R,,BRA,18.1,6-3 1-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 1998-M-FU-BRA-02A-1998,Brazil F2,Hard,32,S,19980727,18,103428,,,Juan Ignacio Chela,R,190,ARG,18.9,103672,,WC,Ricardo Mello,L,175,BRA,17.5,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,521,44,,
 1998-M-FU-BRA-02A-1998,Brazil F2,Hard,32,S,19980727,19,103478,,Q,Diego Veronelli,R,193,ARG,18.6,103196,,,Carlos Custodio,R,,BRA,20.1,6-0 6-0,3,R16,,,,,,,,,,,,,,,,,,,,722,17,594,30
-1998-M-FU-BRA-02A-1998,Brazil F2,Hard,32,S,19980727,20,102413,6,,Andy Zingman,R,183,ARG,24.1,108585,,,Americo Venero Montes,U,,PER,26.4,6-7 6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,399,81,,
+1998-M-FU-BRA-02A-1998,Brazil F2,Hard,32,S,19980727,20,102413,6,,Andy Zingman,R,183,ARG,24.1,108585,,,Americo Venero Montes,U,175,PER,26.4,6-7 6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,399,81,,
 1998-M-FU-BRA-02A-1998,Brazil F2,Hard,32,S,19980727,21,103581,,Q,Flavio Saretta,R,183,BRA,18.0,103015,5,,Daniel Melo,L,185,BRA,21.0,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,390,83
 1998-M-FU-BRA-02A-1998,Brazil F2,Hard,32,S,19980727,22,109099,,Q,Erick Gomes,R,,BRA,23.5,109254,,Q,Rodrigo Antonio Grilli,R,,BRA,18.6,6-3 6-7 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 1998-M-FU-BRA-02A-1998,Brazil F2,Hard,32,S,19980727,23,102262,,,Cristiano Testa,L,,BRA,24.8,103373,,,Sergio Roitman,R,185,ARG,19.1,6-4 3-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,572,35,702,19
@@ -8731,7 +8731,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-FU-ECU-03A-1998,Ecuador F3,Clay,32,S,19980817,9,103373,5,,Sergio Roitman,R,185,ARG,19.2,109487,,WC,Andres Intriago,U,,ECU,16.3,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,543,40,,
 1998-M-FU-ECU-03A-1998,Ecuador F3,Clay,32,S,19980817,10,103201,,,Adrian Garcia,R,175,CHI,20.2,109428,,Q,Marcos Cabrera,U,,URU,18.9,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,833,12,,
 1998-M-FU-ECU-03A-1998,Ecuador F3,Clay,32,S,19980817,11,103395,,Q,Julio Silva,R,173,BRA,19.1,117421,,Q,Dino Pelorosso,U,,ARG,20.1,4-6 7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1281,2,,
-1998-M-FU-ECU-03A-1998,Ecuador F3,Clay,32,S,19980817,12,108585,4,,Americo Venero Montes,U,,PER,26.4,103363,,Q,Diego Ayala,R,175,USA,19.3,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1107,4
+1998-M-FU-ECU-03A-1998,Ecuador F3,Clay,32,S,19980817,12,108585,4,,Americo Venero Montes,U,175,PER,26.4,103363,,Q,Diego Ayala,R,175,USA,19.3,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1107,4
 1998-M-FU-ECU-03A-1998,Ecuador F3,Clay,32,S,19980817,13,104117,,WC,Giovanni Lapentti,R,193,ECU,15.5,102962,7,,Miguel Miranda,R,,CHI,21.4,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1330,1,658,22
 1998-M-FU-ECU-03A-1998,Ecuador F3,Clay,32,S,19980817,14,103310,,,Rodrigo Pena,R,,ARG,19.5,103548,,Q,Eduardo Bergmann,R,,BRA,18.3,7-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1998-M-FU-ECU-03A-1998,Ecuador F3,Clay,32,S,19980817,15,103233,,,Leonardo Silva,R,,BRA,20.0,102280,,LL,Steeve El Haik,R,,FRA,24.7,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1066,5,1066,5
@@ -8741,12 +8741,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-FU-ECU-03A-1998,Ecuador F3,Clay,32,S,19980817,19,102997,3,Q,Hermes Gamonal,R,180,CHI,21.2,103081,,Q,Fernando Las Heras,R,,ARG,20.7,7-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,479,51,1151,4
 1998-M-FU-ECU-03A-1998,Ecuador F3,Clay,32,S,19980817,20,101495,6,,Miguel Tobon,R,185,COL,30.1,102190,,,Philippe Moggio,L,,COL,25.4,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,592,30,833,12
 1998-M-FU-ECU-03A-1998,Ecuador F3,Clay,32,S,19980817,21,103373,5,,Sergio Roitman,R,185,ARG,19.2,103201,,,Adrian Garcia,R,175,CHI,20.2,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,543,40,833,12
-1998-M-FU-ECU-03A-1998,Ecuador F3,Clay,32,S,19980817,22,108585,4,,Americo Venero Montes,U,,PER,26.4,103395,,Q,Julio Silva,R,173,BRA,19.1,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,1281,2
+1998-M-FU-ECU-03A-1998,Ecuador F3,Clay,32,S,19980817,22,108585,4,,Americo Venero Montes,U,175,PER,26.4,103395,,Q,Julio Silva,R,173,BRA,19.1,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,1281,2
 1998-M-FU-ECU-03A-1998,Ecuador F3,Clay,32,S,19980817,23,103310,,,Rodrigo Pena,R,,ARG,19.5,104117,,WC,Giovanni Lapentti,R,193,ECU,15.5,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,1330,1
 1998-M-FU-ECU-03A-1998,Ecuador F3,Clay,32,S,19980817,24,103846,,,Mariano Campos,R,,ARG,16.9,103233,,,Leonardo Silva,R,,BRA,20.0,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,692,19,1066,5
 1998-M-FU-ECU-03A-1998,Ecuador F3,Clay,32,S,19980817,25,103405,,,Rodolfo Rake,R,,PER,19.0,103388,,,Rafael De Mesa,R,,USA,19.1,4-6 7-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,654,23,818,12
 1998-M-FU-ECU-03A-1998,Ecuador F3,Clay,32,S,19980817,26,101495,6,,Miguel Tobon,R,185,COL,30.1,102997,3,Q,Hermes Gamonal,R,180,CHI,21.2,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,592,30,479,51
-1998-M-FU-ECU-03A-1998,Ecuador F3,Clay,32,S,19980817,27,103373,5,,Sergio Roitman,R,185,ARG,19.2,108585,4,,Americo Venero Montes,U,,PER,26.4,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,543,40,,
+1998-M-FU-ECU-03A-1998,Ecuador F3,Clay,32,S,19980817,27,103373,5,,Sergio Roitman,R,185,ARG,19.2,108585,4,,Americo Venero Montes,U,175,PER,26.4,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,543,40,,
 1998-M-FU-ECU-03A-1998,Ecuador F3,Clay,32,S,19980817,28,103846,,,Mariano Campos,R,,ARG,16.9,103310,,,Rodrigo Pena,R,,ARG,19.5,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,692,19,,
 1998-M-FU-ECU-03A-1998,Ecuador F3,Clay,32,S,19980817,29,101495,6,,Miguel Tobon,R,185,COL,30.1,103405,,,Rodolfo Rake,R,,PER,19.0,6-1 3-6 7-5,3,SF,,,,,,,,,,,,,,,,,,,,592,30,654,23
 1998-M-FU-ECU-03A-1998,Ecuador F3,Clay,32,S,19980817,30,103373,5,,Sergio Roitman,R,185,ARG,19.2,103846,,,Mariano Campos,R,,ARG,16.9,6-4 7-5,3,SF,,,,,,,,,,,,,,,,,,,,543,40,692,19
@@ -9313,7 +9313,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-FU-PER-02A-1998,Peru F2,Clay,32,S,19980907,2,109476,,Q,Claudio Alvarado,R,,CHI,17.8,103201,,,Adrian Garcia,R,175,CHI,20.2,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1195,,713,
 1998-M-FU-PER-02A-1998,Peru F2,Clay,32,S,19980907,3,103493,,,Eduardo Bohrer,R,,BRA,18.6,103700,,Q,Juan Pablo Guzman,L,178,ARG,17.6,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,840,,1195,
 1998-M-FU-PER-02A-1998,Peru F2,Clay,32,S,19980907,4,102846,8,,Raul Valdes,R,,CHI,22.0,117862,,WC,Luis Ramos,R,,PER,25.4,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,604,,,
-1998-M-FU-PER-02A-1998,Peru F2,Clay,32,S,19980907,5,108585,4,,Americo Venero Montes,U,,PER,26.5,103736,,WC,Diego Acuna,U,,PER,17.4,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1998-M-FU-PER-02A-1998,Peru F2,Clay,32,S,19980907,5,108585,4,,Americo Venero Montes,U,175,PER,26.5,103736,,WC,Diego Acuna,U,,PER,17.4,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1998-M-FU-PER-02A-1998,Peru F2,Clay,32,S,19980907,6,103095,,,Patricio Rudi,R,,ARG,20.7,103525,,WC,Ivan Miranda,R,175,PER,18.4,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,840,,,
 1998-M-FU-PER-02A-1998,Peru F2,Clay,32,S,19980907,7,103106,,,Keith Brill,R,,USA,20.6,117865,,WC,Edwin Clarke,U,,PER,24.4,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,677,,,
 1998-M-FU-PER-02A-1998,Peru F2,Clay,32,S,19980907,8,102258,6,,Antonio Prieto,R,198,BRA,24.9,103316,,,Victor Romero,R,,MEX,19.6,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,597,30,802,14
@@ -9327,7 +9327,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-FU-PER-02A-1998,Peru F2,Clay,32,S,19980907,16,103000,2,,Paulo Taicher,R,,BRA,21.2,102807,,,Rodrigo Monte,R,,BRA,22.2,6-1 2-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,467,,733,
 1998-M-FU-PER-02A-1998,Peru F2,Clay,32,S,19980907,17,101551,1,,Carlos Gomez Diaz,R,,ARG,29.7,109476,,Q,Claudio Alvarado,R,,CHI,17.8,1-6 6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,401,,1195,
 1998-M-FU-PER-02A-1998,Peru F2,Clay,32,S,19980907,18,102846,8,,Raul Valdes,R,,CHI,22.0,103493,,,Eduardo Bohrer,R,,BRA,18.6,6-4 2-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,604,,840,
-1998-M-FU-PER-02A-1998,Peru F2,Clay,32,S,19980907,19,103095,,,Patricio Rudi,R,,ARG,20.7,108585,4,,Americo Venero Montes,U,,PER,26.5,6-7 6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,840,,,
+1998-M-FU-PER-02A-1998,Peru F2,Clay,32,S,19980907,19,103095,,,Patricio Rudi,R,,ARG,20.7,108585,4,,Americo Venero Montes,U,175,PER,26.5,6-7 6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,840,,,
 1998-M-FU-PER-02A-1998,Peru F2,Clay,32,S,19980907,20,102258,6,,Antonio Prieto,R,198,BRA,24.9,103106,,,Keith Brill,R,,USA,20.6,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,597,30,677,
 1998-M-FU-PER-02A-1998,Peru F2,Clay,32,S,19980907,21,102830,5,Q,Paulo Carvallo,R,,PAR,22.1,102962,,,Miguel Miranda,R,,CHI,21.4,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,595,31,673,
 1998-M-FU-PER-02A-1998,Peru F2,Clay,32,S,19980907,22,103632,3,,Luis Horna,R,180,PER,17.9,103737,,Q,Edgardo Massa,R,180,ARG,17.4,6-7 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,583,34,,
@@ -9795,7 +9795,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-FU-NOR-01A-1998,Norway F1,Carpet,32,S,19980914,8,103149,6,Q,Mathias Hellstrom,R,,SWE,20.5,111299,,WC,Oyvind Alver,U,,NOR,16.5,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,594,29,,
 1998-M-FU-NOR-01A-1998,Norway F1,Carpet,32,S,19980914,9,102983,5,,Henrik Andersson,R,,SWE,21.3,102429,,,Mitty Arnold,R,,USA,24.1,4-6 7-5 7-6,3,R32,,,,,,,,,,,,,,,,,,,,403,76,871,9
 1998-M-FU-NOR-01A-1998,Norway F1,Carpet,32,S,19980914,10,102725,,,Kasper Warming,R,,DEN,22.5,117579,,Q,Kristofer Stahlberg,R,,SWE,19.3,7-5 7-6,3,R32,,,,,,,,,,,,,,,,,,,,1025,6,,
-1998-M-FU-NOR-01A-1998,Norway F1,Carpet,32,S,19980914,11,103623,,,Jacob Adaktusson,R,,SWE,18.0,117839,,,Arvid Swan,U,,USA,22.8,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1166,3,1309,1
+1998-M-FU-NOR-01A-1998,Norway F1,Carpet,32,S,19980914,11,103623,,,Jacob Adaktusson,R,193,SWE,18.0,117839,,,Arvid Swan,U,,USA,22.8,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1166,3,1309,1
 1998-M-FU-NOR-01A-1998,Norway F1,Carpet,32,S,19980914,12,102961,4,,Nicklas Timfjord,R,180,SWE,21.4,102844,,,Alexander Gietl,R,,GER,22.0,6-2 7-6,3,R32,,,,,,,,,,,,,,,,,,,,529,42,776,15
 1998-M-FU-NOR-01A-1998,Norway F1,Carpet,32,S,19980914,13,102960,8,Q,Meride Zahirovic,R,,GER,21.4,117840,,,Hans Birger Nordstrom,U,,SWE,22.5,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,838,11,1309,1
 1998-M-FU-NOR-01A-1998,Norway F1,Carpet,32,S,19980914,14,102659,,Q,Ashley Fisher,R,183,AUS,22.9,102599,,,Sunu Thomas,R,,USA,23.2,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1029,5
@@ -9806,7 +9806,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-FU-NOR-01A-1998,Norway F1,Carpet,32,S,19980914,19,102428,3,,Johan Hede,R,,SWE,24.1,117837,,Q,Johan Karlsson,U,,SWE,23.6,4-6 6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,514,45,,
 1998-M-FU-NOR-01A-1998,Norway F1,Carpet,32,S,19980914,20,103149,6,Q,Mathias Hellstrom,R,,SWE,20.5,117838,,WC,Lars Hjarrand,U,,NOR,25.1,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,594,29,,
 1998-M-FU-NOR-01A-1998,Norway F1,Carpet,32,S,19980914,21,102983,5,,Henrik Andersson,R,,SWE,21.3,102725,,,Kasper Warming,R,,DEN,22.5,6-3 7-6,3,R16,,,,,,,,,,,,,,,,,,,,403,76,1025,6
-1998-M-FU-NOR-01A-1998,Norway F1,Carpet,32,S,19980914,22,102961,4,,Nicklas Timfjord,R,180,SWE,21.4,103623,,,Jacob Adaktusson,R,,SWE,18.0,7-6 2-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,529,42,1166,3
+1998-M-FU-NOR-01A-1998,Norway F1,Carpet,32,S,19980914,22,102961,4,,Nicklas Timfjord,R,180,SWE,21.4,103623,,,Jacob Adaktusson,R,193,SWE,18.0,7-6 2-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,529,42,1166,3
 1998-M-FU-NOR-01A-1998,Norway F1,Carpet,32,S,19980914,23,102960,8,Q,Meride Zahirovic,R,,GER,21.4,102659,,Q,Ashley Fisher,R,183,AUS,22.9,7-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,838,11,,
 1998-M-FU-NOR-01A-1998,Norway F1,Carpet,32,S,19980914,24,103178,2,,Johan Settergren,R,185,SWE,20.3,103751,,Q,Jonas Froberg,U,,SWE,17.4,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,494,49,,
 1998-M-FU-NOR-01A-1998,Norway F1,Carpet,32,S,19980914,25,102228,7,,Jan Hermansson,R,,SWE,25.2,102750,,,Jon Hedman,R,,SWE,22.4,6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,630,25,854,10
@@ -9828,7 +9828,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-FU-PER-03A-1998,Peru F3,Clay,32,S,19980914,10,103106,,,Keith Brill,R,,USA,20.6,103736,,WC,Diego Acuna,U,,PER,17.4,4-6 7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,638,25,,
 1998-M-FU-PER-03A-1998,Peru F3,Clay,32,S,19980914,11,103525,,WC,Ivan Miranda,R,175,PER,18.5,103095,,,Patricio Rudi,R,,ARG,20.7,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1309,1,822,12
 1998-M-FU-PER-03A-1998,Peru F3,Clay,32,S,19980914,12,103000,3,,Paulo Taicher,R,,BRA,21.2,102846,,,Raul Valdes,R,,CHI,22.0,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,432,67,595,29
-1998-M-FU-PER-03A-1998,Peru F3,Clay,32,S,19980914,13,103478,,,Diego Veronelli,R,193,ARG,18.7,108585,7,,Americo Venero Montes,U,,PER,26.5,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,598,29,,
+1998-M-FU-PER-03A-1998,Peru F3,Clay,32,S,19980914,13,103478,,,Diego Veronelli,R,193,ARG,18.7,108585,7,,Americo Venero Montes,U,175,PER,26.5,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,598,29,,
 1998-M-FU-PER-03A-1998,Peru F3,Clay,32,S,19980914,14,102830,,,Paulo Carvallo,R,,PAR,22.1,103846,,,Mariano Campos,R,,ARG,16.9,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,611,27,602,28
 1998-M-FU-PER-03A-1998,Peru F3,Clay,32,S,19980914,15,109291,,Q,Pablo Fuente,R,,ARG,21.6,109476,,Q,Claudio Alvarado,R,,CHI,17.8,6-1 2-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1255,2,1166,3
 1998-M-FU-PER-03A-1998,Peru F3,Clay,32,S,19980914,16,101551,2,,Carlos Gomez Diaz,R,,ARG,29.7,103700,,Q,Juan Pablo Guzman,L,178,ARG,17.6,7-6 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,400,78,999,6
@@ -10028,7 +10028,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-FU-SWE-01A-1998,Sweden F1,Hard,32,S,19980922,1,102966,1,,Fredrik Jonsson,R,193,SWE,21.4,102228,,,Jan Hermansson,R,,SWE,25.2,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,228,182,636,25
 1998-M-FU-SWE-01A-1998,Sweden F1,Hard,32,S,19980922,2,102573,,Q,Robert Samuelsson,R,,SWE,23.4,103751,,WC,Jonas Froberg,U,,SWE,17.4,7-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1120,4,,
 1998-M-FU-SWE-01A-1998,Sweden F1,Hard,32,S,19980922,3,103104,,,Bjorn Rehnquist,R,175,SWE,20.7,103277,,,Timo Nigri,R,,GER,19.9,7-5 3-3 DEF,3,R32,,,,,,,,,,,,,,,,,,,,752,15,750,16
-1998-M-FU-SWE-01A-1998,Sweden F1,Hard,32,S,19980922,4,102298,8,,Federico Rovai,R,,SWE,24.7,103623,,WC,Jacob Adaktusson,R,,SWE,18.0,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,566,35,1157,3
+1998-M-FU-SWE-01A-1998,Sweden F1,Hard,32,S,19980922,4,102298,8,,Federico Rovai,R,,SWE,24.7,103623,,WC,Jacob Adaktusson,R,193,SWE,18.0,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,566,35,1157,3
 1998-M-FU-SWE-01A-1998,Sweden F1,Hard,32,S,19980922,5,103149,,,Mathias Hellstrom,R,,SWE,20.5,103178,3,,Johan Settergren,R,185,SWE,20.4,7-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,601,29,496,49
 1998-M-FU-SWE-01A-1998,Sweden F1,Hard,32,S,19980922,6,101668,,,Peter Nyborg,R,190,SWE,28.7,103714,,,Andreas Vinciguerra,L,180,SWE,17.5,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,846,10,762,15
 1998-M-FU-SWE-01A-1998,Sweden F1,Hard,32,S,19980922,7,103591,,WC,Daniel Schalen,U,,SWE,18.1,102725,,Q,Kasper Warming,R,,DEN,22.5,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1014,6
@@ -10270,7 +10270,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-FU-SWE-02A-1998,Sweden F2,Hard,32,S,19980928,3,103751,,WC,Jonas Froberg,U,,SWE,17.4,117508,,Q,Jan Axel Tribler,U,,DEN,20.5,3-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1304,1,1160,
 1998-M-FU-SWE-02A-1998,Sweden F2,Hard,32,S,19980928,4,102298,7,,Federico Rovai,R,,SWE,24.7,102475,,,Johannes Unterberger,R,,AUT,23.9,6-4 7-6,3,R32,,,,,,,,,,,,,,,,,,,,568,35,615,28
 1998-M-FU-SWE-02A-1998,Sweden F2,Hard,32,S,19980928,5,103178,3,,Johan Settergren,R,185,SWE,20.4,102386,,,Todd Meringoff,R,,USA,24.3,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,477,55,670,22
-1998-M-FU-SWE-02A-1998,Sweden F2,Hard,32,S,19980928,6,103623,,WC,Jacob Adaktusson,R,,SWE,18.0,117918,,Q,Lars Dahlberg,U,,SWE,19.8,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1160,3,,
+1998-M-FU-SWE-02A-1998,Sweden F2,Hard,32,S,19980928,6,103623,,WC,Jacob Adaktusson,R,193,SWE,18.0,117918,,Q,Lars Dahlberg,U,,SWE,19.8,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1160,3,,
 1998-M-FU-SWE-02A-1998,Sweden F2,Hard,32,S,19980928,7,102429,,,Mitty Arnold,R,,USA,24.2,103104,,,Bjorn Rehnquist,R,175,SWE,20.7,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,868,9,755,15
 1998-M-FU-SWE-02A-1998,Sweden F2,Hard,32,S,19980928,8,102228,,,Jan Hermansson,R,,SWE,25.3,102501,6,,Johan Landsberg,R,183,SWE,23.7,6-7 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,576,34,556,38
 1998-M-FU-SWE-02A-1998,Sweden F2,Hard,32,S,19980928,9,103709,,Q,Kristian Pless,R,188,DEN,17.6,102961,5,,Nicklas Timfjord,R,180,SWE,21.5,6-0 2-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,1160,3,479,54
@@ -10283,7 +10283,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-FU-SWE-02A-1998,Sweden F2,Hard,32,S,19980928,16,102573,,Q,Robert Samuelsson,R,,SWE,23.4,108603,2,,Helge Koll Frafjord,U,,NOR,23.3,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1122,4,,
 1998-M-FU-SWE-02A-1998,Sweden F2,Hard,32,S,19980928,17,102983,1,,Henrik Andersson,R,,SWE,21.4,102599,,Q,Sunu Thomas,R,,USA,23.3,7-5 7-6,3,R16,,,,,,,,,,,,,,,,,,,,395,79,1028,5
 1998-M-FU-SWE-02A-1998,Sweden F2,Hard,32,S,19980928,18,102298,7,,Federico Rovai,R,,SWE,24.7,103751,,WC,Jonas Froberg,U,,SWE,17.4,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,568,35,1304,1
-1998-M-FU-SWE-02A-1998,Sweden F2,Hard,32,S,19980928,19,103178,3,,Johan Settergren,R,185,SWE,20.4,103623,,WC,Jacob Adaktusson,R,,SWE,18.0,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,477,55,1160,3
+1998-M-FU-SWE-02A-1998,Sweden F2,Hard,32,S,19980928,19,103178,3,,Johan Settergren,R,185,SWE,20.4,103623,,WC,Jacob Adaktusson,R,193,SWE,18.0,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,477,55,1160,3
 1998-M-FU-SWE-02A-1998,Sweden F2,Hard,32,S,19980928,20,102228,,,Jan Hermansson,R,,SWE,25.3,102429,,,Mitty Arnold,R,,USA,24.2,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,576,34,868,9
 1998-M-FU-SWE-02A-1998,Sweden F2,Hard,32,S,19980928,21,103709,,Q,Kristian Pless,R,188,DEN,17.6,103591,,WC,Daniel Schalen,U,,SWE,18.2,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1160,3,,
 1998-M-FU-SWE-02A-1998,Sweden F2,Hard,32,S,19980928,22,102689,,,Martin Spottl,R,180,AUT,22.8,102428,4,,Johan Hede,R,,SWE,24.2,W/O,3,R16,,,,,,,,,,,,,,,,,,,,831,11,499,48
@@ -10356,7 +10356,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-FU-JPN-03A-1998,Japan F3,Carpet,32,S,19980930,3,103529,,,Aisam Ul Haq Qureshi,R,183,PAK,18.5,103423,,Q,Toshiharu Kato,R,,JPN,19.1,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,982,6,1304,1
 1998-M-FU-JPN-03A-1998,Japan F3,Carpet,32,S,19980930,4,103230,8,,Tasuku Iwami,L,168,JPN,20.2,117770,,WC,Mitsuhiro Goto,U,,JPN,16.5,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,689,20,,
 1998-M-FU-JPN-03A-1998,Japan F3,Carpet,32,S,19980930,5,103071,,Q,Ryo Oki,R,,JPN,20.9,102282,3,,Tetsuya Chaen,R,,JPN,24.8,2-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,431,66
-1998-M-FU-JPN-03A-1998,Japan F3,Carpet,32,S,19980930,6,117771,,Q,Hong Soon Park,U,,KOR,18.1,104082,,WC,Hiroki Kondo,R,,JPN,15.8,7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1998-M-FU-JPN-03A-1998,Japan F3,Carpet,32,S,19980930,6,117771,,Q,Hong Soon Park,U,,KOR,18.1,104082,,WC,Hiroki Kondo,R,178,JPN,15.8,7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1998-M-FU-JPN-03A-1998,Japan F3,Carpet,32,S,19980930,7,101993,,,Yoshinobu Tanaka,R,,JPN,26.8,117760,,Q,Makoto Nakanishi,U,,JPN,26.3,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1160,3,,
 1998-M-FU-JPN-03A-1998,Japan F3,Carpet,32,S,19980930,8,103220,5,,Oh Hee Kwon,R,,KOR,20.2,111270,,WC,Ryota Taguchi,R,,JPN,17.8,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,521,44,,
 1998-M-FU-JPN-03A-1998,Japan F3,Carpet,32,S,19980930,9,103030,,,Norikazu Sugiyama,R,178,JPN,21.1,117772,,LL,Junichi Ishiura,R,,JPN,20.3,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1046,5,,
@@ -10655,7 +10655,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-FU-GBR-09A-1998,Great Britain F9,Hard,32,S,19981007,31,102880,,,Alexander Popp,R,201,GER,21.9,101909,,,Roman Smotlak,R,,SVK,27.4,6-2 3-6 6-3,3,F,,,,,,,,,,,,,,,,,,,,543,39,503,47
 1998-M-FU-JPN-04A-1998,Japan F4,Carpet,32,S,19981007,1,102703,1,,Hyung Taik Lee,R,180,KOR,22.7,103610,,Q,Mirko Pehar,R,,USA,18.1,7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,293,124,1147,4
 1998-M-FU-JPN-04A-1998,Japan F4,Carpet,32,S,19981007,2,102303,,,Yasutomo Nakase,U,,JPN,24.7,109411,,LL,Koji Motomura,R,,JPN,20.0,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1025,5,1222,2
-1998-M-FU-JPN-04A-1998,Japan F4,Carpet,32,S,19981007,3,102277,,Q,Bing Chao Lin,R,180,TPE,24.9,104082,,WC,Hiroki Kondo,R,,JPN,15.9,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1998-M-FU-JPN-04A-1998,Japan F4,Carpet,32,S,19981007,3,102277,,Q,Bing Chao Lin,R,180,TPE,24.9,104082,,WC,Hiroki Kondo,R,178,JPN,15.9,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1998-M-FU-JPN-04A-1998,Japan F4,Carpet,32,S,19981007,4,103089,,,Masashi Tokumaru,R,,JPN,20.8,102804,8,,Patrick Erhardt,R,,GER,22.3,2-6 6-1 7-6,3,R32,,,,,,,,,,,,,,,,,,,,805,12,677,21
 1998-M-FU-JPN-04A-1998,Japan F4,Carpet,32,S,19981007,5,101804,4,,Akira Matsushita,R,,JPN,28.0,117765,,Q,Kenji Fujiwara,U,,JPN,21.7,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,436,65,,
 1998-M-FU-JPN-04A-1998,Japan F4,Carpet,32,S,19981007,6,102798,,,Riki Ishigami,R,,JPN,22.3,111270,,WC,Ryota Taguchi,R,,JPN,17.8,3-6 6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,952,7,,
@@ -11979,7 +11979,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-SA-ISR-01A-1998b,Israel Masters 2,Hard,32,S,19981031,1,102669,1,,Noam Behr,L,188,ISR,23.0,102675,,,Timur Ganiev,R,,UZB,23.0,6-4 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,242,181,731,18
 1998-M-SA-ISR-01A-1998b,Israel Masters 2,Hard,32,S,19981031,2,102670,,,Lior Dahan,R,,ISR,23.0,124595,,Q,Yaron Lory,U,,ISR,21.1,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,614,29,,
 1998-M-SA-ISR-01A-1998b,Israel Masters 2,Hard,32,S,19981031,3,103863,,Q,Mikhail Elgin,R,183,RUS,17.0,117882,,,Ari Strasberg,U,,ISR,20.2,6-3 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1322,1,,
-1998-M-SA-ISR-01A-1998b,Israel Masters 2,Hard,32,S,19981031,4,103568,8,,Valentin Sanon,R,,CIV,18.4,103646,,Q,Lars Uebel,R,,GER,18.0,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,487,53,1076,5
+1998-M-SA-ISR-01A-1998b,Israel Masters 2,Hard,32,S,19981031,4,103568,8,,Valentin Sanon,R,,CIV,18.4,103646,,Q,Lars Uebel,R,180,GER,18.0,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,487,53,1076,5
 1998-M-SA-ISR-01A-1998b,Israel Masters 2,Hard,32,S,19981031,5,103145,4,,Amir Hadad,R,183,ISR,20.6,103381,,,Andy Fahlke,R,185,GER,19.4,6-3 7-6,3,R32,,,,,,,,,,,,,,,,,,,,323,107,432,68
 1998-M-SA-ISR-01A-1998b,Israel Masters 2,Hard,32,S,19981031,6,103439,,Q,Dimitri Mazur,R,,UZB,19.1,103881,,Q,Meir Deri,R,,ISR,16.9,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,946,8,,
 1998-M-SA-ISR-01A-1998b,Israel Masters 2,Hard,32,S,19981031,7,104042,,,Serguei Vassine,R,,BLR,16.2,117514,,Q,Yuri Makarov,U,,LAT,20.5,6-4 7-6,3,R32,,,,,,,,,,,,,,,,,,,,1322,1,1228,3
@@ -12007,7 +12007,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-SA-ISR-01A-1998b,Israel Masters 2,Hard,32,S,19981031,29,102669,1,,Noam Behr,L,188,ISR,23.0,102429,,,Mitty Arnold,R,,USA,24.2,6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,242,181,806,13
 1998-M-SA-ISR-01A-1998b,Israel Masters 2,Hard,32,S,19981031,30,102090,25,,Ofer Sela,R,188,ISR,26.2,103156,,Q,Alessandro Da Col,R,,ITA,20.6,6-3 7-5,3,SF,,,,,,,,,,,,,,,,,,,,301,119,963,7
 1998-M-SA-ISR-01A-1998b,Israel Masters 2,Hard,32,S,19981031,31,102090,25,,Ofer Sela,R,188,ISR,26.2,102669,1,,Noam Behr,L,188,ISR,23.0,6-3 6-2,3,F,,,,,,,,,,,,,,,,,,,,301,119,242,181
-1998-M-SA-ISR-01A-1998c,Israel Masters 3,Hard,32,S,19981031,1,102669,1,,Noam Behr,L,188,ISR,23.0,103646,,,Lars Uebel,R,,GER,18.0,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,242,181,1076,5
+1998-M-SA-ISR-01A-1998c,Israel Masters 3,Hard,32,S,19981031,1,102669,1,,Noam Behr,L,188,ISR,23.0,103646,,,Lars Uebel,R,180,GER,18.0,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,242,181,1076,5
 1998-M-SA-ISR-01A-1998c,Israel Masters 3,Hard,32,S,19981031,2,103544,,Q,Andy Ram,R,180,ISR,18.5,102670,,,Lior Dahan,R,,ISR,23.0,6-3 7-6,3,R32,,,,,,,,,,,,,,,,,,,,560,38,614,29
 1998-M-SA-ISR-01A-1998c,Israel Masters 3,Hard,32,S,19981031,3,117882,,,Ari Strasberg,U,,ISR,20.2,124596,,Q,Michael Fedida,U,,ISR,21.6,5-7 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1998-M-SA-ISR-01A-1998c,Israel Masters 3,Hard,32,S,19981031,4,103381,7,,Andy Fahlke,R,185,GER,19.4,103442,,,Aviram Salomon,R,,ISR,19.0,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,432,68,1248,2
@@ -12043,7 +12043,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-SA-ISR-01A-1998d,Israel Masters 4,Hard,32,S,19981031,3,117673,,Q,Dan Hanegby,U,,ISR,17.8,103442,,Q,Aviram Salomon,R,,ISR,19.0,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1142,4,1248,2
 1998-M-SA-ISR-01A-1998d,Israel Masters 4,Hard,32,S,19981031,4,104042,,Q,Serguei Vassine,R,,BLR,16.2,103631,,LL,Eliran Dooyev,R,,ISR,18.1,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1322,1,1322,1
 1998-M-SA-ISR-01A-1998d,Israel Masters 4,Hard,32,S,19981031,5,103145,3,WC,Amir Hadad,R,183,ISR,20.6,102675,,Q,Timur Ganiev,R,,UZB,23.0,6-1 7-6,3,R32,,,,,,,,,,,,,,,,,,,,323,107,731,18
-1998-M-SA-ISR-01A-1998d,Israel Masters 4,Hard,32,S,19981031,6,102386,,,Todd Meringoff,R,,USA,24.4,103646,,,Lars Uebel,R,,GER,18.0,6-2 7-6,3,R32,,,,,,,,,,,,,,,,,,,,653,24,1076,5
+1998-M-SA-ISR-01A-1998d,Israel Masters 4,Hard,32,S,19981031,6,102386,,,Todd Meringoff,R,,USA,24.4,103646,,,Lars Uebel,R,180,GER,18.0,6-2 7-6,3,R32,,,,,,,,,,,,,,,,,,,,653,24,1076,5
 1998-M-SA-ISR-01A-1998d,Israel Masters 4,Hard,32,S,19981031,7,117882,,,Ari Strasberg,U,,ISR,20.2,117695,,,Lior Kristal,U,,ISR,18.9,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1167,4
 1998-M-SA-ISR-01A-1998d,Israel Masters 4,Hard,32,S,19981031,8,103315,5,,Kobi Ziv,R,,ISR,19.7,103439,,,Dimitri Mazur,R,,UZB,19.1,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,381,85,946,8
 1998-M-SA-ISR-01A-1998d,Israel Masters 4,Hard,32,S,19981031,9,102968,6,Q,Jonathan Erlich,R,180,ISR,21.5,103671,,WC,Or Dekel,R,,ISR,17.8,6-2 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,392,81,1322,1
@@ -12745,7 +12745,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-FU-JPN-05A-1998,Japan F5,Hard,32,S,19981118,8,102282,6,,Tetsuya Chaen,R,,JPN,25.0,101993,,,Yoshinobu Tanaka,R,,JPN,26.9,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,433,66,1094,5
 1998-M-FU-JPN-05A-1998,Japan F5,Hard,32,S,19981118,9,103445,,,Mitsuru Takada,R,,JPN,19.1,103403,5,,Takahiro Terachi,R,,JPN,19.3,6-2 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,823,13,401,77
 1998-M-FU-JPN-05A-1998,Japan F5,Hard,32,S,19981118,10,102748,,,Michael Jessup,L,165,USA,22.6,117773,,Q,Takeshi Yoshino,U,,JPN,21.2,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,548,40,,
-1998-M-FU-JPN-05A-1998,Japan F5,Hard,32,S,19981118,11,101713,,Q,Nam Hoon Kim,R,,KOR,28.6,104082,,WC,Hiroki Kondo,R,,JPN,16.0,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1998-M-FU-JPN-05A-1998,Japan F5,Hard,32,S,19981118,11,101713,,Q,Nam Hoon Kim,R,,KOR,28.6,104082,,WC,Hiroki Kondo,R,178,JPN,16.0,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1998-M-FU-JPN-05A-1998,Japan F5,Hard,32,S,19981118,12,101906,3,,Yasufumi Yamamoto,R,175,JPN,27.5,102537,,Q,Melvin Tong,R,,HKG,23.7,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,384,83,1348,1
 1998-M-FU-JPN-05A-1998,Japan F5,Hard,32,S,19981118,13,103220,7,,Oh Hee Kwon,R,,KOR,20.4,103462,,,Ashley Ford,R,,AUS,19.0,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,451,61,781,15
 1998-M-FU-JPN-05A-1998,Japan F5,Hard,32,S,19981118,14,103131,,,Michihisa Onoda,R,,JPN,20.7,102123,,,Hiroyasu Sato,R,,JPN,26.1,7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,772,15,956,8
@@ -13046,7 +13046,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-FU-URU-02A-1998,Uruguay F2,Clay,32,S,19981130,30,101720,2,,Agustin Garizzio,R,185,ARG,28.7,102647,,,Alberto Brause,R,,URU,23.2,7-6 7-5,3,SF,,,,,,,,,,,,,,,,,,,,320,108,742,17
 1998-M-FU-URU-02A-1998,Uruguay F2,Clay,32,S,19981130,31,101720,2,,Agustin Garizzio,R,185,ARG,28.7,102250,1,,Emanuel Couto,R,183,POR,25.3,4-6 6-1 6-3,3,F,,,,,,,,,,,,,,,,,,,,320,108,289,127
 1998-M-FU-USA-11A-1998,USA F10,Hard,32,S,19981130,1,102395,1,,Ville Liukko,R,173,FIN,24.5,102773,,,Kacper Cecek,R,,GER,22.6,6-3 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,187,246,442,63
-1998-M-FU-USA-11A-1998,USA F10,Hard,32,S,19981130,2,102137,,,Andrew Rueb,R,,USA,26.0,102985,,Q,Gustavo Marcaccio,R,,ARG,21.5,7-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,491,51,1067,5
+1998-M-FU-USA-11A-1998,USA F10,Hard,32,S,19981130,2,102137,,,Andrew Rueb,R,,USA,26.0,102985,,Q,Gustavo Marcaccio,R,170,ARG,21.5,7-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,491,51,1067,5
 1998-M-FU-USA-11A-1998,USA F10,Hard,32,S,19981130,3,103185,,,Mike Bryan,R,190,USA,20.5,107361,,WC,Joel Finnigan,R,,USA,,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,479,55,,
 1998-M-FU-USA-11A-1998,USA F10,Hard,32,S,19981130,4,102898,,Q,Djalmar Sistermans,R,,NED,21.9,102684,7,,Marc Merry,R,,NED,23.0,1-6 7-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,776,15,388,82
 1998-M-FU-USA-11A-1998,USA F10,Hard,32,S,19981130,5,102169,3,,Michael Joyce,R,180,USA,25.8,102340,,,Matthias Muller,R,,GER,24.7,7-6 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,267,144,492,51

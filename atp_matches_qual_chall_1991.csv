@@ -34,7 +34,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-204,Vina Del Mar CH,Clay,32,C,19910121,2,107085,,WC,Gerardo Vacarezza,R,176,CHI,25.4,100795,,,Alvaro Jordan,R,185,COL,29.0,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,671,9,287,69
 1991-204,Vina Del Mar CH,Clay,32,C,19910121,3,100865,,,Marcelo Ingaramo,L,178,ARG,28.2,100917,,,Nelson Aerts,R,188,BRA,27.7,5-7 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,228,106,271,78
 1991-204,Vina Del Mar CH,Clay,32,C,19910121,4,101822,,Q,Luis Lobo,R,180,ARG,20.1,101862,7,,Maurice Ruah,R,178,VEN,19.9,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,337,50,202,130
-1991-204,Vina Del Mar CH,Clay,32,C,19910121,5,101105,,,Jose Antonio Fernandez,R,,CHI,25.9,101080,3,,Lawson Duncan,R,185,USA,26.2,6-7 7-6 1-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,251,91,141,246
+1991-204,Vina Del Mar CH,Clay,32,C,19910121,5,101105,,,Jose Antonio Fernandez,R,170,CHI,25.9,101080,3,,Lawson Duncan,R,185,USA,26.2,6-7 7-6 1-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,251,91,141,246
 1991-204,Vina Del Mar CH,Clay,32,C,19910121,6,101451,,Q,Gustavo Giussani,R,180,ARG,22.8,101375,,,Brian Devening,R,185,USA,23.4,6-2 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,515,20,286,70
 1991-204,Vina Del Mar CH,Clay,32,C,19910121,7,101156,,,Juan Pino,R,185,CUB,25.5,109193,,WC,Javier Jadue,R,,CHI,,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,277,74,,
 1991-204,Vina Del Mar CH,Clay,32,C,19910121,8,101250,5,,Jose Daher,R,180,BRA,24.7,101339,,,Agustin Moreno,R,180,MEX,23.7,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,193,141,323,54
@@ -48,7 +48,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-204,Vina Del Mar CH,Clay,32,C,19910121,16,101593,2,,Chris Garner,R,180,USA,21.7,101076,,,Cesar Kist,R,180,BRA,26.2,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,140,247,322,54
 1991-204,Vina Del Mar CH,Clay,32,C,19910121,17,100711,1,,Pedro Rebolledo,R,170,CHI,30.0,107085,,WC,Gerardo Vacarezza,R,176,CHI,25.4,6-4 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,123,280,671,9
 1991-204,Vina Del Mar CH,Clay,32,C,19910121,18,101822,,Q,Luis Lobo,R,180,ARG,20.1,100865,,,Marcelo Ingaramo,L,178,ARG,28.2,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,337,50,228,106
-1991-204,Vina Del Mar CH,Clay,32,C,19910121,19,101451,,Q,Gustavo Giussani,R,180,ARG,22.8,101105,,,Jose Antonio Fernandez,R,,CHI,25.9,6-2 3-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,515,20,251,91
+1991-204,Vina Del Mar CH,Clay,32,C,19910121,19,101451,,Q,Gustavo Giussani,R,180,ARG,22.8,101105,,,Jose Antonio Fernandez,R,170,CHI,25.9,6-2 3-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,515,20,251,91
 1991-204,Vina Del Mar CH,Clay,32,C,19910121,20,101250,5,,Jose Daher,R,180,BRA,24.7,101156,,,Juan Pino,R,185,CUB,25.5,6-7 6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,193,141,277,74
 1991-204,Vina Del Mar CH,Clay,32,C,19910121,21,101166,,Q,Gustavo Garetto,R,190,ARG,25.4,101058,,,Francisco Yunis,R,190,ARG,26.4,3-6 7-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,386,38,219,113
 1991-204,Vina Del Mar CH,Clay,32,C,19910121,22,101912,,,Felipe Rivera,R,183,CHI,19.6,101427,,WC,Ruben Gajardo,R,,CHI,23.0,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,284,71,534,18
@@ -257,7 +257,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-772,Americana CH,Hard,32,C,19910218,8,101549,6,,Rodolphe Gilbert,L,183,FRA,22.1,101725,,,Gabriel Markus,R,180,ARG,20.8,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,141,245,158,199
 1991-772,Americana CH,Hard,32,C,19910218,9,101412,5,,Shuzo Matsuoka,R,185,JPN,23.2,101745,,WC,Roberto Jabali,R,190,BRA,20.7,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,130,281,729,8
 1991-772,Americana CH,Hard,32,C,19910218,10,101226,,,Johan Carlsson,R,183,SWE,25.0,101341,,,Pablo Albano,R,178,ARG,23.8,6-3 7-6,3,R32,,,,,,,,,,,,,,,,,,,,162,191,209,119
-1991-772,Americana CH,Hard,32,C,19910218,11,101105,,,Jose Antonio Fernandez,R,,CHI,26.0,109689,,WC,Roberto Sciencia,R,,BRA,20.1,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,249,92,,
+1991-772,Americana CH,Hard,32,C,19910218,11,101105,,,Jose Antonio Fernandez,R,170,CHI,26.0,109689,,WC,Roberto Sciencia,R,,BRA,20.1,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,249,92,,
 1991-772,Americana CH,Hard,32,C,19910218,12,101416,3,,Joao Cunha Silva,R,173,POR,23.2,101329,,,Christer Allgardh,R,190,SWE,23.9,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,112,324,233,103
 1991-772,Americana CH,Hard,32,C,19910218,13,100782,8,,Pablo Arraya,R,180,PER,29.3,101574,,LL,Alejandro Aramburu,R,175,PER,22.0,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,157,199,298,66
 1991-772,Americana CH,Hard,32,C,19910218,14,101150,,,Gianluca Pozzi,L,180,ITA,25.6,101156,,Q,Juan Pino,R,185,CUB,25.6,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,181,157,293,68
@@ -268,12 +268,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-772,Americana CH,Hard,32,C,19910218,19,100865,,,Marcelo Ingaramo,L,178,ARG,28.3,101510,4,,Henrik Holm,R,183,SWE,22.4,7-5 2-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,226,108,129,283
 1991-772,Americana CH,Hard,32,C,19910218,20,101549,6,,Rodolphe Gilbert,L,183,FRA,22.1,101161,,Q,Thomas Haldin,R,185,SWE,25.6,6-4 6-7 6-4,3,R16,,,,,,,,,,,,,,,,,,,,141,245,277,75
 1991-772,Americana CH,Hard,32,C,19910218,21,101412,5,,Shuzo Matsuoka,R,185,JPN,23.2,101226,,,Johan Carlsson,R,183,SWE,25.0,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,130,281,162,191
-1991-772,Americana CH,Hard,32,C,19910218,22,101105,,,Jose Antonio Fernandez,R,,CHI,26.0,101416,3,,Joao Cunha Silva,R,173,POR,23.2,6-4 7-6,3,R16,,,,,,,,,,,,,,,,,,,,249,92,112,324
+1991-772,Americana CH,Hard,32,C,19910218,22,101105,,,Jose Antonio Fernandez,R,170,CHI,26.0,101416,3,,Joao Cunha Silva,R,173,POR,23.2,6-4 7-6,3,R16,,,,,,,,,,,,,,,,,,,,249,92,112,324
 1991-772,Americana CH,Hard,32,C,19910218,23,101150,,,Gianluca Pozzi,L,180,ITA,25.6,100782,8,,Pablo Arraya,R,180,PER,29.3,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,181,157,157,199
 1991-772,Americana CH,Hard,32,C,19910218,24,101797,2,,Jacco Eltingh,R,188,NED,20.4,101165,,,Mario Tabares,R,180,CUB,25.5,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,114,317,240,99
 1991-772,Americana CH,Hard,32,C,19910218,25,101761,1,,Jaime Oncins,R,196,BRA,20.6,101318,,,Javier Frana,L,185,ARG,24.1,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,99,352,177,171
 1991-772,Americana CH,Hard,32,C,19910218,26,101549,6,,Rodolphe Gilbert,L,183,FRA,22.1,100865,,,Marcelo Ingaramo,L,178,ARG,28.3,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,141,245,226,108
-1991-772,Americana CH,Hard,32,C,19910218,27,101412,5,,Shuzo Matsuoka,R,185,JPN,23.2,101105,,,Jose Antonio Fernandez,R,,CHI,26.0,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,130,281,249,92
+1991-772,Americana CH,Hard,32,C,19910218,27,101412,5,,Shuzo Matsuoka,R,185,JPN,23.2,101105,,,Jose Antonio Fernandez,R,170,CHI,26.0,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,130,281,249,92
 1991-772,Americana CH,Hard,32,C,19910218,28,101797,2,,Jacco Eltingh,R,188,NED,20.4,101150,,,Gianluca Pozzi,L,180,ITA,25.6,7-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,114,317,181,157
 1991-772,Americana CH,Hard,32,C,19910218,29,101549,6,,Rodolphe Gilbert,L,183,FRA,22.1,101761,1,,Jaime Oncins,R,196,BRA,20.6,7-5 6-7 6-4,3,SF,,,,,,,,,,,,,,,,,,,,141,245,99,352
 1991-772,Americana CH,Hard,32,C,19910218,30,101412,5,,Shuzo Matsuoka,R,185,JPN,23.2,101797,2,,Jacco Eltingh,R,188,NED,20.4,2-6 7-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,130,281,114,317
@@ -347,7 +347,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-361,Santiago CH,Clay,32,C,19910311,5,100865,3,,Marcelo Ingaramo,L,178,ARG,28.4,101954,,WC,Oscar Bustos,R,,CHI,19.5,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,205,120,642,12
 1991-361,Santiago CH,Clay,32,C,19910311,6,106880,,,Diego Varela,R,,ARG,22.0,108456,,WC,Ulices Cerda,R,,CHI,,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,343,52,1029,1
 1991-361,Santiago CH,Clay,32,C,19910311,7,101430,,,Sergio Cortes,R,170,CHI,23.1,101211,,,Otis Smith,L,180,USA,25.2,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,429,33,284,74
-1991-361,Santiago CH,Clay,32,C,19910311,8,101105,6,,Jose Antonio Fernandez,R,,CHI,26.1,101661,,Q,Nicolas Becerra,R,185,ARG,21.3,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,226,104,636,12
+1991-361,Santiago CH,Clay,32,C,19910311,8,101105,6,,Jose Antonio Fernandez,R,170,CHI,26.1,101661,,Q,Nicolas Becerra,R,185,ARG,21.3,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,226,104,636,12
 1991-361,Santiago CH,Clay,32,C,19910311,9,101165,5,,Mario Tabares,R,180,CUB,25.6,101076,,,Cesar Kist,R,180,BRA,26.3,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,225,105,334,55
 1991-361,Santiago CH,Clay,32,C,19910311,10,101388,,Q,Gerardo Mirad,R,180,ARG,23.5,101166,,,Gustavo Garetto,R,190,ARG,25.6,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,575,16,349,50
 1991-361,Santiago CH,Clay,32,C,19910311,11,101822,,,Luis Lobo,R,180,ARG,20.3,101720,,,Agustin Garizzio,R,185,ARG,20.9,6-2 7-6,3,R32,,,,,,,,,,,,,,,,,,,,282,74,370,47
@@ -359,13 +359,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-361,Santiago CH,Clay,32,C,19910311,17,101606,1,,Alberto Mancini,R,180,ARG,21.8,100892,,,Alexandre Hocevar,R,190,BRA,28.0,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,128,290,472,27
 1991-361,Santiago CH,Clay,32,C,19910311,18,101912,7,,Felipe Rivera,R,183,CHI,19.8,107196,,,Hernan Chousa,R,,ARG,,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,236,100,332,56
 1991-361,Santiago CH,Clay,32,C,19910311,19,100865,3,,Marcelo Ingaramo,L,178,ARG,28.4,106880,,,Diego Varela,R,,ARG,22.0,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,205,120,343,52
-1991-361,Santiago CH,Clay,32,C,19910311,20,101105,6,,Jose Antonio Fernandez,R,,CHI,26.1,101430,,,Sergio Cortes,R,170,CHI,23.1,6-7 7-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,226,104,429,33
+1991-361,Santiago CH,Clay,32,C,19910311,20,101105,6,,Jose Antonio Fernandez,R,170,CHI,26.1,101430,,,Sergio Cortes,R,170,CHI,23.1,6-7 7-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,226,104,429,33
 1991-361,Santiago CH,Clay,32,C,19910311,21,101165,5,,Mario Tabares,R,180,CUB,25.6,101388,,Q,Gerardo Mirad,R,180,ARG,23.5,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,225,105,575,16
 1991-361,Santiago CH,Clay,32,C,19910311,22,101822,,,Luis Lobo,R,180,ARG,20.3,101643,,Q,Cristian Araya,R,,CHI,21.4,3-6 6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,282,74,593,15
 1991-361,Santiago CH,Clay,32,C,19910311,23,100607,8,,Eduardo Bengoechea,R,185,ARG,31.6,101861,,,Thomas Buchmayer,L,185,AUT,20.0,7-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,249,92,348,51
 1991-361,Santiago CH,Clay,32,C,19910311,24,100711,2,,Pedro Rebolledo,R,170,CHI,30.2,101741,,WC,Gonzalo Fernandez,R,,CHI,20.8,6-4 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,129,289,,
 1991-361,Santiago CH,Clay,32,C,19910311,25,101606,1,,Alberto Mancini,R,180,ARG,21.8,101912,7,,Felipe Rivera,R,183,CHI,19.8,6-4 6-0,3,QF,,,,,,,,,,,,,,,,,,,,128,290,236,100
-1991-361,Santiago CH,Clay,32,C,19910311,26,100865,3,,Marcelo Ingaramo,L,178,ARG,28.4,101105,6,,Jose Antonio Fernandez,R,,CHI,26.1,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,205,120,226,104
+1991-361,Santiago CH,Clay,32,C,19910311,26,100865,3,,Marcelo Ingaramo,L,178,ARG,28.4,101105,6,,Jose Antonio Fernandez,R,170,CHI,26.1,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,205,120,226,104
 1991-361,Santiago CH,Clay,32,C,19910311,27,101165,5,,Mario Tabares,R,180,CUB,25.6,101822,,,Luis Lobo,R,180,ARG,20.3,6-7 6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,225,105,282,74
 1991-361,Santiago CH,Clay,32,C,19910311,28,100711,2,,Pedro Rebolledo,R,170,CHI,30.2,100607,8,,Eduardo Bengoechea,R,185,ARG,31.6,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,129,289,249,92
 1991-361,Santiago CH,Clay,32,C,19910311,29,101606,1,,Alberto Mancini,R,180,ARG,21.8,100865,3,,Marcelo Ingaramo,L,178,ARG,28.4,4-6 6-3 6-0,3,SF,,,,,,,,,,,,,,,,,,,,128,290,205,120
@@ -535,7 +535,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-386,Oporto1 CH,Clay,32,C,19910415,7,101924,,,Stefano Pescosolido,R,185,ITA,19.8,102250,,WC,Emanuel Couto,R,183,POR,17.6,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,118,302,691,10
 1991-386,Oporto1 CH,Clay,32,C,19910415,8,101249,,,Andrei Olhovskiy,R,185,RUS,24.9,101421,5,,Veli Paloheimo,R,183,FIN,23.3,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,150,215,82,446
 1991-386,Oporto1 CH,Clay,32,C,19910415,9,101416,6,,Joao Cunha Silva,R,173,POR,23.3,101938,,WC,Bernardo Mota,R,178,POR,19.7,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,108,321,694,9
-1991-386,Oporto1 CH,Clay,32,C,19910415,10,101243,,,Roberto Azar,L,185,ARG,25.0,101105,,Q,Jose Antonio Fernandez,R,,CHI,26.2,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,127,283,216,108
+1991-386,Oporto1 CH,Clay,32,C,19910415,10,101243,,,Roberto Azar,L,185,ARG,25.0,101105,,Q,Jose Antonio Fernandez,R,170,CHI,26.2,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,127,283,216,108
 1991-386,Oporto1 CH,Clay,32,C,19910415,11,101387,,,Claudio Pistolesi,R,180,ITA,23.6,100800,,,Diego Perez,R,178,URU,29.1,7-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,119,302,138,234
 1991-386,Oporto1 CH,Clay,32,C,19910415,12,101532,4,,Francisco Clavet,L,183,ESP,22.4,102001,,,German Lopez,R,193,ESP,19.2,7-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,68,507,155,197
 1991-386,Oporto1 CH,Clay,32,C,19910415,13,101642,,,Bart Wuyts,R,178,BEL,21.5,101731,7,,Nuno Marques,L,190,POR,21.0,4-6 6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,120,296,111,317
@@ -627,7 +627,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-719,Lisbon CH,Clay,32,C,19910422,6,101243,,,Roberto Azar,L,185,ARG,25.0,101961,,Q,Martin Stringari,R,188,ARG,19.6,7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,106,355,311,57
 1991-719,Lisbon CH,Clay,32,C,19910422,7,101166,,Q,Gustavo Garetto,R,190,ARG,25.7,101924,,,Stefano Pescosolido,R,185,ITA,19.8,6-4 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,337,51,97,379
 1991-719,Lisbon CH,Clay,32,C,19910422,8,100711,6,,Pedro Rebolledo,R,170,CHI,30.3,101420,,,Vaclav Roubicek,R,185,CZE,23.3,6-0 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,118,306,158,195
-1991-719,Lisbon CH,Clay,32,C,19910422,9,101416,5,,Joao Cunha Silva,R,173,POR,23.4,101105,,Q,Jose Antonio Fernandez,R,,CHI,26.2,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,111,325,205,113
+1991-719,Lisbon CH,Clay,32,C,19910422,9,101416,5,,Joao Cunha Silva,R,173,POR,23.4,101105,,Q,Jose Antonio Fernandez,R,170,CHI,26.2,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,111,325,205,113
 1991-719,Lisbon CH,Clay,32,C,19910422,10,101249,,,Andrei Olhovskiy,R,185,RUS,25.0,102001,,,German Lopez,R,193,ESP,19.3,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,145,226,157,198
 1991-719,Lisbon CH,Clay,32,C,19910422,11,101462,,,Francisco Roig,R,175,ESP,23.0,101393,,,Jens Woehrmann,R,180,GER,23.6,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,129,277,152,208
 1991-719,Lisbon CH,Clay,32,C,19910422,12,101761,4,,Jaime Oncins,R,196,BRA,20.8,101450,,WC,Jose Nunes,R,,POR,23.1,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,107,337,876,4
@@ -715,7 +715,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-780,Prague CH,Clay,32,C,19910429,1,101420,1,,Vaclav Roubicek,R,185,CZE,23.3,102344,,Q,Karol Kucera,R,188,SVK,17.1,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,158,196,879,3
 1991-780,Prague CH,Clay,32,C,19910429,2,101059,,,Richard Vogel,R,193,CZE,26.7,101463,,,Bernd Karbacher,R,185,GER,23.0,4-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,277,75,226,102
 1991-780,Prague CH,Clay,32,C,19910429,3,210013,,,Martin Damm Sr,R,188,CZE,18.7,102154,,,Marcos Ondruska,R,183,RSA,18.3,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,228,101,192,129
-1991-780,Prague CH,Clay,32,C,19910429,4,102358,,Q,Thomas Enqvist,R,190,SWE,17.1,101105,8,,Jose Antonio Fernandez,R,,CHI,26.2,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,471,25,202,118
+1991-780,Prague CH,Clay,32,C,19910429,4,102358,,Q,Thomas Enqvist,R,190,SWE,17.1,101105,8,,Jose Antonio Fernandez,R,170,CHI,26.2,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,471,25,202,118
 1991-780,Prague CH,Clay,32,C,19910429,5,101765,4,,Tomas Anzari,R,180,CZE,20.8,107607,,WC,Lukas Thomas,R,,CZE,,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,194,128,,
 1991-780,Prague CH,Clay,32,C,19910429,6,101327,,LL,Cyril Suk,R,180,CZE,24.2,101492,,,Sander Groen,L,190,NED,22.8,3-6 7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,350,49,314,59
 1991-780,Prague CH,Clay,32,C,19910429,7,101800,,,Daniele Balducci,R,,ITA,20.6,101093,,,Steve Devries,R,180,USA,26.3,6-4 6-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,327,56,231,100
@@ -1034,7 +1034,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-784,Sevilla CH,Clay,32,C,19910624,10,102019,,,Dirk Dier,R,185,GER,19.3,101539,,WC,Alberto Gutierrez G230,R,,ESP,22.6,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,269,79,407,40
 1991-784,Sevilla CH,Clay,32,C,19910624,11,101227,,,Daniel Marco,R,178,ESP,25.3,101024,,,Christian Geyer,L,183,GER,27.1,2-6 7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,265,81,223,111
 1991-784,Sevilla CH,Clay,32,C,19910624,12,101459,4,,Tomas Nydahl,R,185,SWE,23.2,107210,,Q,Horacio Pacheco,R,,ARG,,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,200,140,587,17
-1991-784,Sevilla CH,Clay,32,C,19910624,13,101105,8,,Jose Antonio Fernandez,R,,CHI,26.4,101251,,,Eric Winogradsky,R,188,FRA,25.1,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,215,120,280,74
+1991-784,Sevilla CH,Clay,32,C,19910624,13,101105,8,,Jose Antonio Fernandez,R,170,CHI,26.4,101251,,,Eric Winogradsky,R,188,FRA,25.1,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,215,120,280,74
 1991-784,Sevilla CH,Clay,32,C,19910624,14,101659,,,Jan Apell,L,183,SWE,21.6,102147,,,Oliver Fernandez,R,175,MEX,18.5,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,216,119,239,96
 1991-784,Sevilla CH,Clay,32,C,19910624,15,101552,,Q,Xavier Daufresne,R,193,BEL,22.4,101745,,,Roberto Jabali,R,190,BRA,21.1,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,353,53,235,99
 1991-784,Sevilla CH,Clay,32,C,19910624,16,101958,,LL,Pierre Bouteyre,R,185,FRA,19.7,101938,,LL,Bernardo Mota,R,178,POR,19.9,6-2 6-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,387,46,336,58
@@ -1044,7 +1044,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-784,Sevilla CH,Clay,32,C,19910624,20,102374,,WC,Alex Corretja,R,180,ESP,17.2,102238,,WC,Alberto Berasategui,R,173,ESP,17.9,7-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,498,24,355,52
 1991-784,Sevilla CH,Clay,32,C,19910624,21,102019,,,Dirk Dier,R,185,GER,19.3,101685,5,,Markus Naewie,R,190,GER,21.4,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,269,79,208,127
 1991-784,Sevilla CH,Clay,32,C,19910624,22,101459,4,,Tomas Nydahl,R,185,SWE,23.2,101227,,,Daniel Marco,R,178,ESP,25.3,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,200,140,265,81
-1991-784,Sevilla CH,Clay,32,C,19910624,23,101659,,,Jan Apell,L,183,SWE,21.6,101105,8,,Jose Antonio Fernandez,R,,CHI,26.4,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,216,119,215,120
+1991-784,Sevilla CH,Clay,32,C,19910624,23,101659,,,Jan Apell,L,183,SWE,21.6,101105,8,,Jose Antonio Fernandez,R,170,CHI,26.4,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,216,119,215,120
 1991-784,Sevilla CH,Clay,32,C,19910624,24,101552,,Q,Xavier Daufresne,R,193,BEL,22.4,101958,,LL,Pierre Bouteyre,R,185,FRA,19.7,4-6 7-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,,353,53,387,46
 1991-784,Sevilla CH,Clay,32,C,19910624,25,101914,,Q,Lars Koslowski,R,188,GER,20.0,101765,1,,Tomas Anzari,R,180,CZE,20.9,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,238,96,172,171
 1991-784,Sevilla CH,Clay,32,C,19910624,26,102374,,WC,Alex Corretja,R,180,ESP,17.2,101534,3,,Libor Nemecek,R,168,CZE,22.6,7-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,498,24,189,156
@@ -1129,7 +1129,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-734,Salerno CH,Clay,32,C,19910701,12,101387,4,,Claudio Pistolesi,R,180,ITA,23.8,101732,,Q,Pietro Pennisi,L,173,ITA,21.2,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,127,298,454,31
 1991-734,Salerno CH,Clay,32,C,19910701,13,100800,7,,Diego Perez,R,178,URU,29.3,100942,,,Thierry Tulasne,R,178,FRA,27.9,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,176,168,276,76
 1991-734,Salerno CH,Clay,32,C,19910701,14,101866,,,David Rikl,L,178,CZE,20.3,101531,,WC,Mario Visconti,R,185,ITA,22.6,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,209,123,412,40
-1991-734,Salerno CH,Clay,32,C,19910701,15,101105,,,Jose Antonio Fernandez,R,,CHI,26.4,101284,,,Lars Anders Wahlgren,R,193,SWE,24.8,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,215,120,247,88
+1991-734,Salerno CH,Clay,32,C,19910701,15,101105,,,Jose Antonio Fernandez,R,170,CHI,26.4,101284,,,Lars Anders Wahlgren,R,193,SWE,24.8,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,215,120,247,88
 1991-734,Salerno CH,Clay,32,C,19910701,16,101230,2,,Andrei Chesnokov,R,188,RUS,25.3,101749,,,Boris Laustroer,R,175,GER,21.0,4-6 6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,30,794,219,116
 1991-734,Salerno CH,Clay,32,C,19910701,17,101649,1,,Guillermo Perez Roldan,R,178,ARG,21.6,101659,,,Jan Apell,L,183,SWE,21.6,2-6 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,26,932,216,119
 1991-734,Salerno CH,Clay,32,C,19910701,18,101238,8,,Andres Vysand,R,180,GER,25.2,101630,,,Clement Ngoran,R,178,CIV,21.8,6-3 3-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,180,164,354,52
@@ -1138,7 +1138,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-734,Salerno CH,Clay,32,C,19910701,21,100865,5,,Marcelo Ingaramo,L,178,ARG,28.6,101822,,,Luis Lobo,R,180,ARG,20.6,6-2 4-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,,165,179,213,120
 1991-734,Salerno CH,Clay,32,C,19910701,22,101387,4,,Claudio Pistolesi,R,180,ITA,23.8,101809,,,Nicolas Pereira,R,188,VEN,20.7,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,127,298,217,117
 1991-734,Salerno CH,Clay,32,C,19910701,23,101866,,,David Rikl,L,178,CZE,20.3,100800,7,,Diego Perez,R,178,URU,29.3,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,209,123,176,168
-1991-734,Salerno CH,Clay,32,C,19910701,24,101230,2,,Andrei Chesnokov,R,188,RUS,25.3,101105,,,Jose Antonio Fernandez,R,,CHI,26.4,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,30,794,215,120
+1991-734,Salerno CH,Clay,32,C,19910701,24,101230,2,,Andrei Chesnokov,R,188,RUS,25.3,101105,,,Jose Antonio Fernandez,R,170,CHI,26.4,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,30,794,215,120
 1991-734,Salerno CH,Clay,32,C,19910701,25,101649,1,,Guillermo Perez Roldan,R,178,ARG,21.6,101238,8,,Andres Vysand,R,180,GER,25.2,6-1 RET,3,QF,,,,,,,,,,,,,,,,,,,,26,932,180,164
 1991-734,Salerno CH,Clay,32,C,19910701,26,101578,,,Markus Rackl,L,180,GER,22.3,101337,,,Martin Strelba,R,190,CZE,24.2,6-3 7-5,3,QF,,,,,,,,,,,,,,,,,,,,373,48,185,160
 1991-734,Salerno CH,Clay,32,C,19910701,27,101387,4,,Claudio Pistolesi,R,180,ITA,23.8,100865,5,,Marcelo Ingaramo,L,178,ARG,28.6,7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,127,298,165,179
@@ -1246,7 +1246,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-227,Neu Ulm CH,Clay,32,C,19910708,5,101534,,,Libor Nemecek,R,168,CZE,22.6,101249,4,,Andrei Olhovskiy,R,185,RUS,25.2,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,184,166,101,392
 1991-227,Neu Ulm CH,Clay,32,C,19910708,6,101765,,,Tomas Anzari,R,180,CZE,21.0,101238,,,Andres Vysand,R,180,GER,25.3,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,164,190,172,178
 1991-227,Neu Ulm CH,Clay,32,C,19910708,7,101914,,WC,Lars Koslowski,R,188,GER,20.1,101373,,,Karsten Braasch,L,180,GER,23.9,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,205,141,149,225
-1991-227,Neu Ulm CH,Clay,32,C,19910708,8,101416,6,,Joao Cunha Silva,R,173,POR,23.6,101105,,LL,Jose Antonio Fernandez,R,,CHI,26.4,7-6 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,138,259,209,133
+1991-227,Neu Ulm CH,Clay,32,C,19910708,8,101416,6,,Joao Cunha Silva,R,173,POR,23.6,101105,,LL,Jose Antonio Fernandez,R,170,CHI,26.4,7-6 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,138,259,209,133
 1991-227,Neu Ulm CH,Clay,32,C,19910708,9,101717,5,,Diego Nargiso,L,188,ITA,21.3,102375,,,Dinu Pescariu,R,185,ROU,17.2,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,104,350,182,168
 1991-227,Neu Ulm CH,Clay,32,C,19910708,10,101719,,,Frederic Fontang,R,183,FRA,21.3,107886,,WC,Oliver Vogt,R,,GER,,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,171,182,732,9
 1991-227,Neu Ulm CH,Clay,32,C,19910708,11,101000,,,Carl Limberger,R,170,AUS,27.4,100943,,Q,Girts Dzelde,R,173,LAT,27.9,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,201,149,294,72
@@ -1678,7 +1678,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-783,Segovia CH,Hard,32,C,19910805,3,101668,,,Peter Nyborg,R,190,SWE,21.6,101459,,,Tomas Nydahl,R,185,SWE,23.3,6-3 6-7 6-1,3,R32,,,,,,,,,,,,,,,,,,,,223,125,164,204
 1991-783,Segovia CH,Hard,32,C,19910805,4,101510,7,,Henrik Holm,R,183,SWE,22.9,100978,,,Andrew Castle,R,190,GBR,27.7,6-4 3-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,130,282,203,154
 1991-783,Segovia CH,Hard,32,C,19910805,5,101360,,,Mark Keil,R,185,USA,24.1,101731,4,,Nuno Marques,L,190,POR,21.3,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,168,195,115,339
-1991-783,Segovia CH,Hard,32,C,19910805,6,101105,,,Jose Antonio Fernandez,R,,CHI,26.5,210013,,,Martin Damm Sr,R,188,CZE,19.0,6-4 6-7 6-1,3,R32,,,,,,,,,,,,,,,,,,,,277,85,178,180
+1991-783,Segovia CH,Hard,32,C,19910805,6,101105,,,Jose Antonio Fernandez,R,170,CHI,26.5,210013,,,Martin Damm Sr,R,188,CZE,19.0,6-4 6-7 6-1,3,R32,,,,,,,,,,,,,,,,,,,,277,85,178,180
 1991-783,Segovia CH,Hard,32,C,19910805,7,101660,,,Francisco Montana,R,183,USA,21.7,101353,,Q,Lionel Barthez,R,180,FRA,24.2,1-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,184,176,288,80
 1991-783,Segovia CH,Hard,32,C,19910805,8,101966,,LL,Alfonso Fernandez Fermoselle,R,185,ESP,19.8,100962,5,,Thomas Hogstedt,R,190,SWE,27.8,7-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,383,49,118,323
 1991-783,Segovia CH,Hard,32,C,19910805,9,101462,6,,Francisco Roig,R,175,ESP,23.3,101849,,,Nicola Bruno,R,178,ITA,20.5,4-6 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,126,290,183,176
@@ -1691,14 +1691,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-783,Segovia CH,Hard,32,C,19910805,16,101439,2,,Javier Sanchez,R,178,ESP,23.5,101715,,Q,Jose Antonio Pepe Conde,R,175,ESP,21.4,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,63,548,340,60
 1991-783,Segovia CH,Hard,32,C,19910805,17,101945,,Q,Thierry Guardiola,R,188,FRA,19.9,101861,,,Thomas Buchmayer,L,185,AUT,20.4,7-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,246,103,239,109
 1991-783,Segovia CH,Hard,32,C,19910805,18,101510,7,,Henrik Holm,R,183,SWE,22.9,101668,,,Peter Nyborg,R,190,SWE,21.6,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,130,282,223,125
-1991-783,Segovia CH,Hard,32,C,19910805,19,101105,,,Jose Antonio Fernandez,R,,CHI,26.5,101360,,,Mark Keil,R,185,USA,24.1,6-3 7-6,3,R16,,,,,,,,,,,,,,,,,,,,277,85,168,195
+1991-783,Segovia CH,Hard,32,C,19910805,19,101105,,,Jose Antonio Fernandez,R,170,CHI,26.5,101360,,,Mark Keil,R,185,USA,24.1,6-3 7-6,3,R16,,,,,,,,,,,,,,,,,,,,277,85,168,195
 1991-783,Segovia CH,Hard,32,C,19910805,20,101660,,,Francisco Montana,R,183,USA,21.7,101966,,LL,Alfonso Fernandez Fermoselle,R,185,ESP,19.8,6-2 5-7 6-2,3,R16,,,,,,,,,,,,,,,,,,,,184,176,383,49
 1991-783,Segovia CH,Hard,32,C,19910805,21,101462,6,,Francisco Roig,R,175,ESP,23.3,101180,,WC,Jose Clavet,R,180,ESP,25.8,7-6 3-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,126,290,384,49
 1991-783,Segovia CH,Hard,32,C,19910805,22,101507,3,,Tomas Carbonell,R,178,ESP,22.9,101279,,Q,Philippe Pech,L,180,FRA,24.9,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,79,446,293,78
 1991-783,Segovia CH,Hard,32,C,19910805,23,101971,8,,Johan Anderson,R,183,AUS,19.8,100773,,,Brian Joelson,R,183,USA,29.8,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,145,237,252,100
 1991-783,Segovia CH,Hard,32,C,19910805,24,101439,2,,Javier Sanchez,R,178,ESP,23.5,101374,,WC,Leonardo Lavalle,L,188,MEX,24.0,6-2 2-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,63,548,202,155
 1991-783,Segovia CH,Hard,32,C,19910805,25,101945,,Q,Thierry Guardiola,R,188,FRA,19.9,101510,7,,Henrik Holm,R,183,SWE,22.9,7-6 7-6,3,QF,,,,,,,,,,,,,,,,,,,,246,103,130,282
-1991-783,Segovia CH,Hard,32,C,19910805,26,101660,,,Francisco Montana,R,183,USA,21.7,101105,,,Jose Antonio Fernandez,R,,CHI,26.5,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,184,176,277,85
+1991-783,Segovia CH,Hard,32,C,19910805,26,101660,,,Francisco Montana,R,183,USA,21.7,101105,,,Jose Antonio Fernandez,R,170,CHI,26.5,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,184,176,277,85
 1991-783,Segovia CH,Hard,32,C,19910805,27,101507,3,,Tomas Carbonell,R,178,ESP,22.9,101462,6,,Francisco Roig,R,175,ESP,23.3,6-4 4-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,79,446,126,290
 1991-783,Segovia CH,Hard,32,C,19910805,28,101439,2,,Javier Sanchez,R,178,ESP,23.5,101971,8,,Johan Anderson,R,183,AUS,19.8,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,63,548,145,237
 1991-783,Segovia CH,Hard,32,C,19910805,29,101660,,,Francisco Montana,R,183,USA,21.7,101945,,Q,Thierry Guardiola,R,188,FRA,19.9,1-6 7-5 6-4,3,SF,,,,,,,,,,,,,,,,,,,,184,176,246,103
@@ -2169,7 +2169,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-791,Bloomfield CH,Hard,32,C,19910923,29,102235,,,Tommy Ho,L,183,USA,18.2,101789,3,,Steve Bryan,R,178,USA,21.1,6-2 7-6,3,SF,,,,,,,,,,,,,,,,,,,,220,130,156,224
 1991-791,Bloomfield CH,Hard,32,C,19910923,30,101126,6,,Chris Pridham,R,183,CAN,26.4,101354,,,Andrew Sznajder,R,175,CAN,24.3,6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,177,191,207,144
 1991-791,Bloomfield CH,Hard,32,C,19910923,31,101126,6,,Chris Pridham,R,183,CAN,26.4,102235,,,Tommy Ho,L,183,USA,18.2,6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,177,191,220,130
-1991-774,Cali CH,Clay,32,C,19910923,1,101105,,,Jose Antonio Fernandez,R,,CHI,26.6,100782,1,,Pablo Arraya,R,180,PER,29.9,6-4 2-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,272,91,122,309
+1991-774,Cali CH,Clay,32,C,19910923,1,101105,,,Jose Antonio Fernandez,R,170,CHI,26.6,100782,1,,Pablo Arraya,R,180,PER,29.9,6-4 2-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,272,91,122,309
 1991-774,Cali CH,Clay,32,C,19910923,2,101417,,WC,Mario Rincon,R,,COL,23.8,101800,,,Daniele Balducci,R,,ITA,21.0,2-6 6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,326,65,287,82
 1991-774,Cali CH,Clay,32,C,19910923,3,100935,,,Michael Robertson,R,185,USA,28.2,100751,,,Roberto Saad,R,185,ARG,30.3,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,284,83,204,144
 1991-774,Cali CH,Clay,32,C,19910923,4,101912,8,,Felipe Rivera,R,183,CHI,20.3,101430,,Q,Sergio Cortes,R,170,CHI,23.6,6-3 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,226,128,319,68
@@ -2185,7 +2185,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-774,Cali CH,Clay,32,C,19910923,14,100795,,,Alvaro Jordan,R,185,COL,29.7,107623,,,Manuel Gasbarri,R,,ITA,19.5,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,273,90,265,97
 1991-774,Cali CH,Clay,32,C,19910923,15,101661,,,Nicolas Becerra,R,185,ARG,21.8,101167,,WC,Jaime Cortes,R,,COL,26.1,6-1 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,235,121,269,92
 1991-774,Cali CH,Clay,32,C,19910923,16,102055,,LL,Bertrand Madsen,R,,HAI,19.3,101660,2,,Francisco Montana,R,183,USA,21.8,6-4 7-6,3,R32,,,,,,,,,,,,,,,,,,,,285,83,148,234
-1991-774,Cali CH,Clay,32,C,19910923,17,101417,,WC,Mario Rincon,R,,COL,23.8,101105,,,Jose Antonio Fernandez,R,,CHI,26.6,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,326,65,272,91
+1991-774,Cali CH,Clay,32,C,19910923,17,101417,,WC,Mario Rincon,R,,COL,23.8,101105,,,Jose Antonio Fernandez,R,170,CHI,26.6,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,326,65,272,91
 1991-774,Cali CH,Clay,32,C,19910923,18,101912,8,,Felipe Rivera,R,183,CHI,20.3,100935,,,Michael Robertson,R,185,USA,28.2,6-3 2-6 6-0,3,R16,,,,,,,,,,,,,,,,,,,,226,128,284,83
 1991-774,Cali CH,Clay,32,C,19910923,19,100727,,Q,Raul Antonio Viver,L,190,ECU,30.5,101250,4,,Jose Daher,R,180,BRA,25.4,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,512,28,176,193
 1991-774,Cali CH,Clay,32,C,19910923,20,101552,,,Xavier Daufresne,R,193,BEL,22.7,101574,,,Alejandro Aramburu,R,175,PER,22.6,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,225,128,258,104

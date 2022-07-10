@@ -845,10 +845,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-D008,Davis Cup G2 QF: BAH vs BAR,Hard,4,D,19910329,2,101101,,,Richard Ashby,R,,USA,26.1,107382,,,John Farrington,R,,BAH,32.4,7-6(5) 3-6 6-3 7-6(5),5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1991-D008,Davis Cup G2 QF: BAH vs BAR,Hard,4,D,19910329,4,100997,,,Roger Smith,R,185,BAH,27.1,101101,,,Richard Ashby,R,,USA,26.1,7-5 7-5 5-7 6-4,5,RR,,,,,,,,,,,,,,,,,,,,326,56,,
 1991-D008,Davis Cup G2 QF: BAH vs BAR,Hard,4,D,19910329,5,107382,,,John Farrington,R,,BAH,32.4,110810,,,Lionel Eli,U,,BAR,30.6,6-2 5-7 6-7(4) 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
-1991-D023,Davis Cup G2 QF: CHI vs DOM,Clay,4,D,19910329,1,101105,,,Jose Antonio Fernandez,R,,CHI,26.1,108615,,,Genaro Deleon,U,,DOM,20.1,6-1 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,,217,108,,
+1991-D023,Davis Cup G2 QF: CHI vs DOM,Clay,4,D,19910329,1,101105,,,Jose Antonio Fernandez,R,170,CHI,26.1,108615,,,Genaro Deleon,U,,DOM,20.1,6-1 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,,217,108,,
 1991-D023,Davis Cup G2 QF: CHI vs DOM,Clay,4,D,19910329,2,100711,,,Pedro Rebolledo,R,170,CHI,30.2,110813,,,Rafael Moreno,U,,DOM,30.6,6-2 6-1 6-1,5,RR,,,,,,,,,,,,,,,,,,,,115,311,,
 1991-D023,Davis Cup G2 QF: CHI vs DOM,Clay,4,D,19910329,4,100711,,,Pedro Rebolledo,R,170,CHI,30.2,108615,,,Genaro Deleon,U,,DOM,20.1,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,115,311,,
-1991-D023,Davis Cup G2 QF: CHI vs DOM,Clay,4,D,19910329,5,101105,,,Jose Antonio Fernandez,R,,CHI,26.1,110813,,,Rafael Moreno,U,,DOM,30.6,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,217,108,,
+1991-D023,Davis Cup G2 QF: CHI vs DOM,Clay,4,D,19910329,5,101105,,,Jose Antonio Fernandez,R,170,CHI,26.1,110813,,,Rafael Moreno,U,,DOM,30.6,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,217,108,,
 1991-D040,Davis Cup G2 QF: VEN vs ECU,Hard,4,D,19910329,1,100736,,,Hugo Nunez,R,170,ECU,29.9,110929,,,Salvador Colvee,U,,VEN,22.9,7-6(6) 0-6 7-6(5) 7-5,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1991-D040,Davis Cup G2 QF: VEN vs ECU,Hard,4,D,19910329,2,101862,,,Maurice Ruah,R,178,VEN,20.0,102192,,,Luis Adrian Morejon,R,178,ECU,17.9,5-7 6-2 6-4 6-2,5,RR,,,,,,,,,,,,,,,,,,,,186,139,,
 1991-D040,Davis Cup G2 QF: VEN vs ECU,Hard,4,D,19910329,4,101862,,,Maurice Ruah,R,178,VEN,20.0,100736,,,Hugo Nunez,R,170,ECU,29.9,6-4 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,,186,139,,
@@ -1564,7 +1564,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-439,Umag,Clay,32,A,19910513,12,100829,,,Jan Gunnarsson,R,185,SWE,28.9,101332,4,,Gilad Bloom,L,173,ISR,24.1,7-6(2) 3-6 7-5,3,R32,151,7,0,104,46,28,32,16,5,11,7,2,102,61,37,19,17,5,11,114,328,63,524
 1991-439,Umag,Clay,32,A,19910513,13,101391,7,,Carl Uwe Steeb,L,180,GER,23.6,101441,,,Martin Sinner,R,180,GER,23.2,6-1 7-5,3,R32,80,4,1,65,35,24,14,10,1,4,1,7,56,27,15,7,9,2,8,75,480,134,272
 1991-439,Umag,Clay,32,A,19910513,14,101119,,,Marian Vajda,R,173,SVK,26.1,101500,,,Christian Saceanu,R,190,GER,22.8,4-6 6-4 6-4,3,R32,100,0,3,83,49,31,20,14,7,11,0,0,87,59,30,15,13,9,15,68,497,109,338
-1991-439,Umag,Clay,32,A,19910513,15,101179,,,Jean Philippe Fleurian,R,185,FRA,25.6,101105,,LL,Jose Antonio Fernandez,R,,CHI,26.2,6-2 7-5,3,R32,84,2,1,58,35,24,14,10,1,3,0,2,59,39,25,4,10,2,7,83,440,208,119
+1991-439,Umag,Clay,32,A,19910513,15,101179,,,Jean Philippe Fleurian,R,185,FRA,25.6,101105,,LL,Jose Antonio Fernandez,R,170,CHI,26.2,6-2 7-5,3,R32,84,2,1,58,35,24,14,10,1,3,0,2,59,39,25,4,10,2,7,83,440,208,119
 1991-439,Umag,Clay,32,A,19910513,16,101549,,,Rodolphe Gilbert,L,183,FRA,22.4,101196,2,,Derrick Rostagno,R,185,USA,25.5,6-0 6-4,3,R32,70,2,2,48,22,14,18,8,3,4,0,4,56,31,19,5,8,5,10,112,334,25,1018
 1991-439,Umag,Clay,32,A,19910513,17,101191,1,,Richey Reneberg,R,180,USA,25.6,101961,,Q,Martin Stringari,R,188,ARG,19.6,5-7 6-2 6-2,3,R16,133,2,4,84,42,29,20,14,3,8,1,0,99,67,35,13,14,13,21,22,1078,290,72
 1991-439,Umag,Clay,32,A,19910513,18,101434,,,Petr Korda,L,190,CZE,23.3,101731,,,Nuno Marques,L,190,POR,21.0,6-2 6-1,3,R16,54,1,2,52,44,29,5,7,4,4,2,2,44,26,15,6,8,5,10,84,438,102,357
@@ -2408,10 +2408,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-317,Hilversum,Clay,32,A,19910722,29,101063,,,Jordi Arrese,R,175,ESP,26.8,101440,,,Mark Koevermans,R,185,NED,23.4,6-3 3-6 6-4,3,SF,134,3,1,84,68,49,9,14,3,4,8,2,83,64,47,9,14,7,9,35,726,50,595
 1991-317,Hilversum,Clay,32,A,19910722,30,101320,4,,Magnus Gustafsson,R,185,SWE,24.5,101120,2,,Karel Novacek,R,190,CZE,26.3,7-6(3) 6-3,3,SF,95,4,1,75,53,39,12,11,4,5,2,5,68,37,27,17,10,5,7,15,1249,13,1304
 1991-317,Hilversum,Clay,32,A,19910722,31,101320,4,,Magnus Gustafsson,R,185,SWE,24.5,101063,,,Jordi Arrese,R,175,ESP,26.8,5-7 7-6(2) 2-6 6-1 6-0,5,F,218,4,5,156,96,65,28,23,11,18,2,6,164,105,57,31,22,15,24,15,1249,35,726
-1991-D024,Davis Cup G2 SF: CHI vs VEN,Clay,4,D,19910726,1,101105,,,Jose Antonio Fernandez,R,,CHI,26.4,101862,,,Maurice Ruah,R,178,VEN,20.4,3-6 6-2 3-6 6-1 6-3,5,RR,,,,,,,,,,,,,,,,,,,,207,133,222,119
+1991-D024,Davis Cup G2 SF: CHI vs VEN,Clay,4,D,19910726,1,101105,,,Jose Antonio Fernandez,R,170,CHI,26.4,101862,,,Maurice Ruah,R,178,VEN,20.4,3-6 6-2 3-6 6-1 6-3,5,RR,,,,,,,,,,,,,,,,,,,,207,133,222,119
 1991-D024,Davis Cup G2 SF: CHI vs VEN,Clay,4,D,19910726,2,100711,,,Pedro Rebolledo,R,170,CHI,30.5,101809,,,Nicolas Pereira,R,188,VEN,20.8,6-3 6-1 2-6 6-4,5,RR,,,,,,,,,,,,,,,,,,,,137,279,227,115
 1991-D024,Davis Cup G2 SF: CHI vs VEN,Clay,4,D,19910726,4,100711,,,Pedro Rebolledo,R,170,CHI,30.5,101862,,,Maurice Ruah,R,178,VEN,20.4,5-7 6-3 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,,137,279,222,119
-1991-D024,Davis Cup G2 SF: CHI vs VEN,Clay,4,D,19910726,5,101809,,,Nicolas Pereira,R,188,VEN,20.8,101105,,,Jose Antonio Fernandez,R,,CHI,26.4,4-6 6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,,227,115,207,133
+1991-D024,Davis Cup G2 SF: CHI vs VEN,Clay,4,D,19910726,5,101809,,,Nicolas Pereira,R,188,VEN,20.8,101105,,,Jose Antonio Fernandez,R,170,CHI,26.4,4-6 6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,,227,115,207,133
 1991-D026,Davis Cup G2 SF: CIV vs EGY,Hard,4,D,19910726,1,101630,,,Clement Ngoran,R,178,CIV,21.9,107182,,,Hassan El Arousy,R,,EGY,20.4,6-2 6-0 6-2,5,RR,,,,,,,,,,,,,,,,,,,,317,66,,
 1991-D026,Davis Cup G2 SF: CIV vs EGY,Hard,4,D,19910726,2,102018,,,Tamer El Sawy,R,188,EGY,19.4,106936,,,Emile Ngoran,R,,CIV,18.1,6-2 3-6 6-3 6-3,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1991-D026,Davis Cup G2 SF: CIV vs EGY,Hard,4,D,19910726,4,101630,,,Clement Ngoran,R,178,CIV,21.9,102018,,,Tamer El Sawy,R,188,EGY,19.4,6-2 6-4 6-1,5,RR,,,,,,,,,,,,,,,,,,,,317,66,,
@@ -3024,9 +3024,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-D027,Davis Cup G2 F: KEN vs CIV,Clay,4,D,19910913,4,101365,,,Paul Wekesa,R,188,KEN,24.1,101630,,,Clement Ngoran,R,178,CIV,22.0,7-5 6-0 6-2,5,RR,,,,,,,,,,,,,,,,,,,,424,40,261,90
 1991-D027,Davis Cup G2 F: KEN vs CIV,Clay,4,D,19910913,5,106941,,,Eno Polo,R,,KEN,24.2,107310,,,Jean Nabi,R,,CIV,17.8,6-3 7-6(5),3,RR,,,,,,,,,,,,,,,,,,,,1048,3,1103,1
 1991-D022,Davis Cup G2 F: COL vs CHI,Clay,4,D,19910920,1,100711,,,Pedro Rebolledo,R,170,CHI,30.7,101167,,,Jaime Cortes,R,,COL,26.1,6-3 6-0 6-1,5,RR,,,,,,,,,,,,,,,,,,,,172,196,311,70
-1991-D022,Davis Cup G2 F: COL vs CHI,Clay,4,D,19910920,2,101105,,,Jose Antonio Fernandez,R,,CHI,26.6,100795,,,Alvaro Jordan,R,185,COL,29.6,6-4 7-5 6-3,5,RR,,,,,,,,,,,,,,,,,,,,251,103,248,104
+1991-D022,Davis Cup G2 F: COL vs CHI,Clay,4,D,19910920,2,101105,,,Jose Antonio Fernandez,R,170,CHI,26.6,100795,,,Alvaro Jordan,R,185,COL,29.6,6-4 7-5 6-3,5,RR,,,,,,,,,,,,,,,,,,,,251,103,248,104
 1991-D022,Davis Cup G2 F: COL vs CHI,Clay,4,D,19910920,4,100795,,,Alvaro Jordan,R,185,COL,29.6,100711,,,Pedro Rebolledo,R,170,CHI,30.7,2-6 6-3 7-5,3,RR,,,,,,,,,,,,,,,,,,,,248,104,172,196
-1991-D022,Davis Cup G2 F: COL vs CHI,Clay,4,D,19910920,5,101105,,,Jose Antonio Fernandez,R,,CHI,26.6,101167,,,Jaime Cortes,R,,COL,26.1,6-1 5-7 3-2 Played and unfinished,5,RR,,,,,,,,,,,,,,,,,,,,251,103,311,70
+1991-D022,Davis Cup G2 F: COL vs CHI,Clay,4,D,19910920,5,101105,,,Jose Antonio Fernandez,R,170,CHI,26.6,101167,,,Jaime Cortes,R,,COL,26.1,6-1 5-7 3-2 Played and unfinished,5,RR,,,,,,,,,,,,,,,,,,,,251,103,311,70
 1991-D054,Davis Cup G2 F: TPE vs HKG,Hard,4,D,19910920,1,101764,,,Yu Hui Lien,R,,TPE,21.2,106782,,,Colin Grant,R,,HKG,25.4,6-2 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,,854,5,,
 1991-D054,Davis Cup G2 F: TPE vs HKG,Hard,4,D,19910920,2,108831,,,Michael Walker,U,,HKG,25.4,102119,,,Chih Jung Chen,R,,TPE,18.9,6-4 6-3 6-3,5,RR,,,,,,,,,,,,,,,,,,,,,,1098,1
 1991-D054,Davis Cup G2 F: TPE vs HKG,Hard,4,D,19910920,4,108831,,,Michael Walker,U,,HKG,25.4,101764,,,Yu Hui Lien,R,,TPE,21.2,7-6(6) 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,854,5

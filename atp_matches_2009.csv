@@ -353,7 +353,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-321,Stuttgart,Clay,32,A,20090713,6,103752,,WC,Simon Greul,R,185,GER,28.2,104676,,,Andreas Beck,L,190,GER,23.4,7-6(4) 7-6(5),3,R32,115,9,7,91,48,34,26,12,2,3,3,2,78,49,36,17,12,2,3,87,768,51,972
 2009-321,Stuttgart,Clay,32,A,20090713,7,103997,,Q,Lukasz Kubot,R,190,POL,27.1,104665,,Q,Pablo Andujar,R,180,ESP,23.4,6-2 6-4,3,R32,99,2,0,53,28,21,15,9,3,4,2,2,68,36,23,12,9,8,12,127,556,140,502
 2009-321,Stuttgart,Clay,32,A,20090713,8,104259,5,,Philipp Kohlschreiber,R,178,GER,25.7,103675,,,Diego Junqueira,L,178,ARG,28.5,6-3 6-2,3,R32,62,9,6,54,36,28,8,9,0,1,0,1,43,28,11,9,8,0,4,26,1670,103,662
-2009-321,Stuttgart,Clay,32,A,20090713,9,105098,,LL,Alexandre Sidorenko,R,,FRA,21.3,103926,,Q,Daniel Munoz de la Nava,L,,ESP,27.4,7-6(3) 1-6 6-2,3,R32,107,6,1,79,44,34,19,13,5,8,8,4,79,50,45,9,14,0,3,193,351,168,409
+2009-321,Stuttgart,Clay,32,A,20090713,9,105098,,LL,Alexandre Sidorenko,R,185,FRA,21.3,103926,,Q,Daniel Munoz de la Nava,L,178,ESP,27.4,7-6(3) 1-6 6-2,3,R32,107,6,1,79,44,34,19,13,5,8,8,4,79,50,45,9,14,0,3,193,351,168,409
 2009-321,Stuttgart,Clay,32,A,20090713,10,103169,,,Oscar Hernandez,R,180,ESP,31.2,104386,,,Janko Tipsarevic,R,180,SRB,25.0,6-4 6-4,3,R32,70,6,0,47,29,24,13,10,0,1,4,4,69,39,26,14,10,8,11,56,942,79,820
 2009-321,Stuttgart,Clay,32,A,20090713,11,102783,,,Rainer Schuettler,R,180,GER,33.2,104371,,,Ivo Minar,R,183,CZE,25.1,2-6 7-6(2) 6-4,3,R32,136,2,2,95,60,39,13,15,5,12,4,2,103,57,30,26,15,9,15,82,790,63,906
 2009-321,Stuttgart,Clay,32,A,20090713,12,103812,4,,Victor Hanescu,R,198,ROU,27.9,103747,,Q,Dominik Meffert,R,198,GER,28.2,6-4 7-6(6),3,R32,91,4,4,77,51,41,12,11,5,6,3,2,64,45,35,9,11,1,3,33,1361,205,323
@@ -365,13 +365,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-321,Stuttgart,Clay,32,A,20090713,18,104871,,,Jeremy Chardy,R,188,FRA,22.4,103506,,,Martin Vassallo Arguello,R,183,ARG,29.4,2-6 6-3 6-1,3,R16,97,6,6,62,37,30,13,12,1,3,1,1,68,48,26,13,12,2,6,43,1079,49,1011
 2009-321,Stuttgart,Clay,32,A,20090713,19,103017,,,Nicolas Kiefer,R,183,GER,32.0,103752,,WC,Simon Greul,R,185,GER,28.2,6-3 6-4,3,R16,75,5,1,58,31,29,16,10,2,2,4,5,55,30,21,13,9,4,6,40,1145,87,768
 2009-321,Stuttgart,Clay,32,A,20090713,20,103997,,Q,Lukasz Kubot,R,190,POL,27.1,104259,5,,Philipp Kohlschreiber,R,178,GER,25.7,6-2 6-4,3,R16,71,6,2,45,30,27,9,9,0,0,2,0,59,42,29,7,9,2,5,127,556,26,1670
-2009-321,Stuttgart,Clay,32,A,20090713,21,105098,,LL,Alexandre Sidorenko,R,,FRA,21.3,103169,,,Oscar Hernandez,R,180,ESP,31.2,2-6 6-4 6-3,3,R16,126,4,4,88,45,32,21,14,2,5,2,2,84,64,44,10,13,6,9,193,351,56,942
+2009-321,Stuttgart,Clay,32,A,20090713,21,105098,,LL,Alexandre Sidorenko,R,185,FRA,21.3,103169,,,Oscar Hernandez,R,180,ESP,31.2,2-6 6-4 6-3,3,R16,126,4,4,88,45,32,21,14,2,5,2,2,84,64,44,10,13,6,9,193,351,56,942
 2009-321,Stuttgart,Clay,32,A,20090713,22,103812,4,,Victor Hanescu,R,198,ROU,27.9,102783,,,Rainer Schuettler,R,180,GER,33.2,6-2 6-1,3,R16,56,4,0,42,32,26,6,8,0,0,1,3,43,25,15,7,7,4,8,33,1361,82,790
 2009-321,Stuttgart,Clay,32,A,20090713,23,104926,,,Fabio Fognini,R,178,ITA,22.1,103908,,,Paul Henri Mathieu,R,185,FRA,27.4,6-4 4-1 RET,3,R16,59,4,3,40,27,20,7,7,0,1,3,0,40,20,12,8,8,2,6,67,875,39,1175
 2009-321,Stuttgart,Clay,32,A,20090713,24,103786,2,,Nikolay Davydenko,R,178,RUS,28.1,103582,,WC,Michael Berrer,L,193,GER,29.0,6-3 6-3,3,R16,66,2,0,48,37,27,7,9,0,1,1,3,54,37,22,8,9,5,9,11,2935,120,581
 2009-321,Stuttgart,Clay,32,A,20090713,25,104871,,,Jeremy Chardy,R,188,FRA,22.4,104999,,,Mischa Zverev,L,190,GER,21.8,7-6(4) 6-1,3,QF,83,4,1,70,45,31,16,10,6,7,0,0,60,37,23,12,9,6,9,43,1079,45,1065
 2009-321,Stuttgart,Clay,32,A,20090713,26,103017,,,Nicolas Kiefer,R,183,GER,32.0,103997,,Q,Lukasz Kubot,R,190,POL,27.1,6-2 6-1,3,QF,64,7,0,38,20,19,13,8,0,0,1,4,52,30,18,7,7,3,7,40,1145,127,556
-2009-321,Stuttgart,Clay,32,A,20090713,27,103812,4,,Victor Hanescu,R,198,ROU,27.9,105098,,LL,Alexandre Sidorenko,R,,FRA,21.3,7-6(2) 6-4,3,QF,84,6,1,66,44,38,13,11,1,1,2,5,67,41,33,14,11,3,4,33,1361,193,351
+2009-321,Stuttgart,Clay,32,A,20090713,27,103812,4,,Victor Hanescu,R,198,ROU,27.9,105098,,LL,Alexandre Sidorenko,R,185,FRA,21.3,7-6(2) 6-4,3,QF,84,6,1,66,44,38,13,11,1,1,2,5,67,41,33,14,11,3,4,33,1361,193,351
 2009-321,Stuttgart,Clay,32,A,20090713,28,104926,,,Fabio Fognini,R,178,ITA,22.1,103786,2,,Nikolay Davydenko,R,178,RUS,28.1,6-1 3-6 7-5,3,QF,140,3,2,94,53,40,16,14,4,7,1,1,81,54,31,16,14,7,12,67,875,11,2935
 2009-321,Stuttgart,Clay,32,A,20090713,29,104871,,,Jeremy Chardy,R,188,FRA,22.4,103017,,,Nicolas Kiefer,R,183,GER,32.0,6-3 7-5,3,SF,79,2,3,52,31,26,11,10,1,2,10,1,71,41,27,14,11,8,12,43,1079,40,1145
 2009-321,Stuttgart,Clay,32,A,20090713,30,103812,4,,Victor Hanescu,R,198,ROU,27.9,104926,,,Fabio Fognini,R,178,ITA,22.1,6-3 6-7(4) 6-2,3,SF,135,3,4,97,65,42,18,15,6,10,5,3,94,56,29,20,14,8,15,33,1361,67,875
@@ -1882,7 +1882,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-506,Buenos Aires,Clay,32,A,20090216,10,104392,,Q,Franco Ferreiro,R,188,BRA,24.6,103868,,,Ivan Navarro,R,183,ESP,27.3,1-6 6-4 6-2,3,R32,126,1,8,94,56,39,16,13,5,8,4,2,65,33,23,19,12,0,3,192,424,74,1088
 2009-506,Buenos Aires,Clay,32,A,20090216,11,103428,,WC,Juan Ignacio Chela,R,190,ARG,29.4,103252,,,Alberto Martin,R,175,ESP,30.4,6-3 6-2,3,R32,69,0,2,57,38,27,12,9,3,4,1,1,41,25,13,6,8,4,8,136,635,85,963
 2009-506,Buenos Aires,Clay,32,A,20090216,12,103990,3,,Tommy Robredo,R,180,ESP,26.7,103808,,,Potito Starace,R,188,ITA,27.5,5-7 6-3 6-3,3,R32,112,6,1,81,60,47,14,15,2,3,1,3,87,60,41,16,15,2,5,17,2670,65,1138
-2009-506,Buenos Aires,Clay,32,A,20090216,13,104076,5,,Jose Acasuso,R,190,ARG,26.3,103926,,Q,Daniel Munoz de la Nava,L,,ESP,27.0,6-2 7-6(4),3,R32,110,5,3,68,39,24,17,10,2,5,1,2,61,33,23,11,10,2,7,35,1640,182,454
+2009-506,Buenos Aires,Clay,32,A,20090216,13,104076,5,,Jose Acasuso,R,190,ARG,26.3,103926,,Q,Daniel Munoz de la Nava,L,178,ESP,27.0,6-2 7-6(4),3,R32,110,5,3,68,39,24,17,10,2,5,1,2,61,33,23,11,10,2,7,35,1640,182,454
 2009-506,Buenos Aires,Clay,32,A,20090216,14,104926,,,Fabio Fognini,R,178,ITA,21.7,104665,,,Pablo Andujar,R,180,ESP,23.0,6-3 6-2,3,R32,77,4,6,58,34,27,10,8,8,9,1,1,50,36,19,6,9,0,5,113,811,91,924
 2009-506,Buenos Aires,Clay,32,A,20090216,15,103675,,,Diego Junqueira,L,178,ARG,28.1,103454,,,Nicolas Massu,R,183,CHI,29.3,3-6 6-4 6-4,3,R32,165,3,3,88,56,34,20,15,2,6,5,6,105,63,39,19,14,9,13,75,1086,82,1010
 2009-506,Buenos Aires,Clay,32,A,20090216,16,103169,,,Oscar Hernandez,R,180,ESP,30.8,104597,2,,Nicolas Almagro,R,183,ESP,23.4,6-2 1-6 6-3,3,R32,112,2,2,79,57,38,13,12,3,5,2,3,74,49,36,11,12,2,5,77,1054,23,2315
@@ -1928,7 +1928,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-520,Roland Garros,Clay,128,G,20090525,25,103602,12,,Fernando Gonzalez,R,183,CHI,28.8,103181,,Q,Jiri Vanek,R,185,CZE,31.0,6-3 6-2 6-3,5,R128,85,18,0,62,34,30,24,13,1,1,4,6,88,51,34,13,13,6,11,12,2945,155,487
 2009-520,Roland Garros,Clay,128,G,20090525,26,104349,,Q,Rui Machado,R,178,POR,25.1,104019,,,Kristof Vliegen,R,193,BEL,26.9,6-2 6-4 4-6 2-6 6-3,5,R128,201,3,3,151,104,71,26,23,12,16,10,5,139,80,57,29,22,10,15,130,605,94,814
 2009-520,Roland Garros,Clay,128,G,20090525,27,104721,,WC,Josselin Ouanna,R,193,FRA,23.1,104719,,,Marcel Granollers,R,190,ESP,23.1,7-5 2-6 3-6 7-6(2) 6-1,5,R128,222,13,3,152,98,70,28,23,7,11,3,5,149,106,74,21,25,6,11,134,567,96,805
-2009-520,Roland Garros,Clay,128,G,20090525,28,103498,20,,Marat Safin,R,193,RUS,29.3,105098,,WC,Alexandre Sidorenko,R,,FRA,21.2,6-4 6-4 6-4,5,R128,137,6,2,92,52,38,24,15,5,7,4,5,108,54,39,20,15,7,12,22,1845,145,527
+2009-520,Roland Garros,Clay,128,G,20090525,28,103498,20,,Marat Safin,R,193,RUS,29.3,105098,,WC,Alexandre Sidorenko,R,185,FRA,21.2,6-4 6-4 6-4,5,R128,137,6,2,92,52,38,24,15,5,7,4,5,108,54,39,20,15,7,12,22,1845,145,527
 2009-520,Roland Garros,Clay,128,G,20090525,29,103812,30,,Victor Hanescu,R,198,ROU,27.8,104327,,,Steve Darcis,R,178,BEL,25.1,7-6(8) 7-6(5) 7-6(3),5,R128,177,11,3,140,96,73,23,18,12,14,9,7,138,77,60,26,18,12,14,33,1541,90,823
 2009-520,Roland Garros,Clay,128,G,20090525,30,104022,,,Mikhail Youzhny,R,183,RUS,26.9,104180,,,Gilles Muller,L,193,LUX,26.0,7-6(2) 6-1 6-4,5,R128,112,6,2,77,53,47,18,15,0,0,9,1,90,57,38,17,14,5,8,42,1275,79,894
 2009-520,Roland Garros,Clay,128,G,20090525,31,103470,,,Robert Kendrick,R,190,USA,29.5,104978,,Q,Daniel Brands,R,196,GER,21.8,6-7(7) 7-5 7-6(11) 4-6 6-3,5,R128,227,35,6,198,117,98,44,28,8,9,22,6,175,115,94,33,27,5,7,86,839,129,610
@@ -2218,7 +2218,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-560,US Open,Hard,128,G,20090831,30,104947,,Q,Marsel Ilhan,R,190,TUR,22.2,103294,,,Christophe Rochus,R,170,BEL,30.7,3-6 6-3 3-6 7-5 7-5,5,R128,202,15,4,149,100,71,21,25,8,14,6,2,175,105,68,35,26,9,17,231,243,72,799
 2009-560,US Open,Hard,128,G,20090831,31,102967,,,Marc Gicquel,R,188,FRA,32.4,104098,,,Dmitry Tursunov,R,185,RUS,26.7,6-2 5-7 6-3 6-3,5,R128,179,8,7,137,77,58,25,19,7,11,2,6,137,72,43,30,19,14,22,81,730,36,1230
 2009-560,US Open,Hard,128,G,20090831,32,104053,5,,Andy Roddick,R,188,USA,27.0,103451,,,Bjorn Phau,R,175,GER,29.9,6-1 6-4 6-2,5,R128,95,13,1,69,56,45,8,13,1,2,3,0,76,41,27,12,12,3,9,5,5720,84,719
-2009-560,US Open,Hard,128,G,20090831,33,104542,7,,Jo-Wilfried Tsonga,R,188,FRA,24.3,105783,,WC,Chase Buchanan,R,,USA,18.2,6-0 6-2 6-1,5,R128,78,8,3,54,34,30,13,11,0,1,2,1,75,50,26,6,10,8,16,7,3920,920,16
+2009-560,US Open,Hard,128,G,20090831,33,104542,7,,Jo-Wilfried Tsonga,R,188,FRA,24.3,105783,,WC,Chase Buchanan,R,193,USA,18.2,6-0 6-2 6-1,5,R128,78,8,3,54,34,30,13,11,0,1,2,1,75,50,26,6,10,8,16,7,3920,920,16
 2009-560,US Open,Hard,128,G,20090831,34,103813,,,Jarkko Nieminen,L,185,FIN,28.1,104926,,,Fabio Fognini,R,178,ITA,22.2,7-5 7-6(6) 6-4,5,R128,141,4,4,114,70,47,23,17,5,9,4,5,112,54,34,29,17,8,14,54,924,73,785
 2009-560,US Open,Hard,128,G,20090831,35,103898,,,Julien Benneteau,R,185,FRA,27.6,104262,,,Flavio Cipolla,R,173,ITA,25.8,4-6 6-1 6-3 6-3,5,R128,158,9,0,108,74,53,21,18,6,8,1,4,112,78,44,18,17,5,11,43,1079,117,537
 2009-560,US Open,Hard,128,G,20090831,36,104678,30,,Viktor Troicki,R,193,SRB,23.5,103429,,LL,Peter Luczak,R,183,AUS,30.0,6-3 6-3 1-6 2-6 6-1,5,R128,170,14,8,124,58,39,32,20,6,12,5,2,125,73,39,34,20,10,17,31,1320,78,744
@@ -2818,17 +2818,17 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-D018,Davis Cup G1 R2: COL vs BRA,Clay,4,D,20090508,4,105064,,,Thomaz Bellucci,L,188,BRA,21.3,104113,,,Carlos Salamanca,L,196,COL,26.2,6-7(5) 6-1 7-5,3,RR,,,,,,,,,,,,,,,,,,,,96,839,274,248
 2009-D018,Davis Cup G1 R2: COL vs BRA,Clay,4,D,20090508,5,108701,,,Juan Sebastian Cabal,R,185,COL,23.0,104392,,,Franco Ferreiro,R,188,BRA,24.8,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,394,150,168,456
 2009-D019,Davis Cup G1 R2: ECU vs PER,Clay,4,D,20090508,1,104117,,,Giovanni Lapentti,R,193,ECU,26.2,103525,,,Ivan Miranda,R,175,PER,29.1,6-2 6-3 7-5,5,RR,,,,,,,,,,,,,,,,,,,,171,444,292,229
-2009-D019,Davis Cup G1 R2: ECU vs PER,Clay,4,D,20090508,2,102839,,,Nicolas Lapentti,R,188,ECU,32.7,105273,,,Mauricio Echazu,R,,PER,20.3,6-2 7-5 6-3,5,RR,,,,,,,,,,,,,,,,,,,,90,858,583,75
+2009-D019,Davis Cup G1 R2: ECU vs PER,Clay,4,D,20090508,2,102839,,,Nicolas Lapentti,R,188,ECU,32.7,105273,,,Mauricio Echazu,R,174,PER,20.3,6-2 7-5 6-3,5,RR,,,,,,,,,,,,,,,,,,,,90,858,583,75
 2009-D019,Davis Cup G1 R2: ECU vs PER,Clay,4,D,20090508,4,104008,,,Carlos Avellan,R,,ECU,26.9,103525,,,Ivan Miranda,R,175,PER,29.1,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,321,205,292,229
-2009-D019,Davis Cup G1 R2: ECU vs PER,Clay,4,D,20090508,5,105456,,,Sergio Galdos,R,,PER,19.3,104673,,,Julio Cesar Campozano,R,,ECU,23.2,6-4 6-7(2) 6-2,3,RR,,,,,,,,,,,,,,,,,,,,1518,4,371,164
+2009-D019,Davis Cup G1 R2: ECU vs PER,Clay,4,D,20090508,5,105456,,,Sergio Galdos,R,180,PER,19.3,104673,,,Julio Cesar Campozano,R,,ECU,23.2,6-4 6-7(2) 6-2,3,RR,,,,,,,,,,,,,,,,,,,,1518,4,371,164
 2009-D020,Davis Cup G1 PO: PER vs CAN,Clay,4,D,20090710,1,105166,,,Peter Polansky,R,180,CAN,21.0,103525,,,Ivan Miranda,R,175,PER,29.3,7-6(4) 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,230,281,547,77
 2009-D020,Davis Cup G1 PO: PER vs CAN,Clay,4,D,20090710,2,103632,,,Luis Horna,R,180,PER,28.8,104896,,,Bruno Agostinelli,R,,CAN,22.2,6-2 7-6(2) 4-6 7-5,5,RR,,,,,,,,,,,,,,,,,,,,367,144,1776,1
 2009-D020,Davis Cup G1 PO: PER vs CAN,Clay,4,D,20090710,4,103632,,,Luis Horna,R,180,PER,28.8,102780,,,Frederic Niemeyer,R,190,CAN,33.1,7-6(4) 4-6 6-4 7-5,5,RR,,,,,,,,,,,,,,,,,,,,367,144,379,134
 2009-D020,Davis Cup G1 PO: PER vs CAN,Clay,4,D,20090710,5,104896,,,Bruno Agostinelli,R,,CAN,22.2,103525,,,Ivan Miranda,R,175,PER,29.3,7-6(5) 1-6 6-3 6-4,5,RR,,,,,,,,,,,,,,,,,,,,1776,1,547,77
 2009-D021,Davis Cup G1 PO: PER vs URU,Clay,4,D,20090918,1,104395,,,Marcel Felder,R,174,URU,25.1,103632,,,Luis Horna,R,180,PER,28.9,6-2 6-3 6-1,5,RR,,,,,,,,,,,,,,,,,,,,242,214,319,149
-2009-D021,Davis Cup G1 PO: PER vs URU,Clay,4,D,20090918,2,104655,,,Pablo Cuevas,R,180,URU,23.7,105273,,,Mauricio Echazu,R,,PER,20.6,6-4 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,60,824,443,89
+2009-D021,Davis Cup G1 PO: PER vs URU,Clay,4,D,20090918,2,104655,,,Pablo Cuevas,R,180,URU,23.7,105273,,,Mauricio Echazu,R,174,PER,20.6,6-4 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,60,824,443,89
 2009-D021,Davis Cup G1 PO: PER vs URU,Clay,4,D,20090918,4,104826,,,Federico Sansonetti,R,,URU,22.8,103525,,,Ivan Miranda,R,175,PER,29.5,7-5 7-6(2),3,RR,,,,,,,,,,,,,,,,,,,,565,57,460,83
-2009-D021,Davis Cup G1 PO: PER vs URU,Clay,4,D,20090918,5,105273,,,Mauricio Echazu,R,,PER,20.6,105431,,,Ariel Behar,R,182,URU,19.8,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,443,89,912,15
+2009-D021,Davis Cup G1 PO: PER vs URU,Clay,4,D,20090918,5,105273,,,Mauricio Echazu,R,174,PER,20.6,105431,,,Ariel Behar,R,182,URU,19.8,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,443,89,912,15
 2009-D022,Davis Cup G1 R1: TPE vs KAZ,Carpet,4,D,20090206,1,105062,,,Mikhail Kukushkin,R,183,KAZ,21.1,104251,,,Ti Chen,R,183,TPE,25.3,6-7(9) 5-7 6-1 7-5 6-4,5,RR,,,,,,,,,,,,,,,,,,,,145,594,375,176
 2009-D022,Davis Cup G1 R1: TPE vs KAZ,Carpet,4,D,20090206,2,104499,,,Jimmy Wang,R,178,TPE,23.9,104979,,,Andrey Golubev,R,185,KAZ,21.5,7-6(4) 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,119,784
 2009-D022,Davis Cup G1 R1: TPE vs KAZ,Carpet,4,D,20090206,4,104251,,,Ti Chen,R,183,TPE,25.3,103393,,,Yuri Schukin,R,188,KAZ,29.6,4-6 6-3 2-6 7-6(3) 6-1,5,RR,,,,,,,,,,,,,,,,,,,,375,176,180,452
@@ -2855,7 +2855,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-D027,Davis Cup G1 R2: ITA vs SVK,Clay,4,D,20090306,5,104262,,,Flavio Cipolla,R,173,ITA,25.3,105041,,,Lukas Lacko,R,185,SVK,21.3,6-2 7-5,3,RR,,,,,,,,,,,,,,,,,,,,120,736,362,184
 2009-D028,Davis Cup G1 R2: RSA vs BLR,Hard,4,D,20090508,1,104292,,,Izak Van Der Merwe,R,196,RSA,25.2,105590,,,Uladzimir Ignatik,R,183,BLR,18.8,6-4 4-3 RET,5,RR,,,,,,,,,,,,,,,,,,,,273,253,461,113
 2009-D028,Davis Cup G1 R2: RSA vs BLR,Hard,4,D,20090508,2,103573,,,Rik De Voest,R,180,RSA,28.9,105259,,,Andrei Karatchenia,R,,BLR,20.3,6-1 6-4 6-1,5,RR,,,,,,,,,,,,,,,,,,,,191,392,589,73
-2009-D028,Davis Cup G1 R2: RSA vs BLR,Hard,4,D,20090508,4,104071,,,Raven Klaasen,R,180,RSA,26.5,105029,,,Sergey Betov,R,,BLR,21.5,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,312,213,630,61
+2009-D028,Davis Cup G1 R2: RSA vs BLR,Hard,4,D,20090508,4,104071,,,Raven Klaasen,R,180,RSA,26.5,105029,,,Sergey Betov,R,185,BLR,21.5,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,312,213,630,61
 2009-D028,Davis Cup G1 R2: RSA vs BLR,Hard,4,D,20090508,5,104292,,,Izak Van Der Merwe,R,196,RSA,25.2,105259,,,Andrei Karatchenia,R,,BLR,20.3,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,273,253,589,73
 2009-D029,Davis Cup G1 R2: GBR vs UKR,Hard,4,D,20090306,1,105011,,,Illya Marchenko,R,185,UKR,21.4,104623,,,Josh Goodall,R,188,GBR,23.3,7-6(2) 7-6(5) 7-6(5),5,RR,,,,,,,,,,,,,,,,,,,,224,347,,
 2009-D029,Davis Cup G1 R2: GBR vs UKR,Hard,4,D,20090306,2,104660,,,Sergiy Stakhovsky,R,193,UKR,23.1,105052,,,Chris Eaton,R,188,GBR,21.2,6-3 3-6 6-3 6-4,5,RR,,,,,,,,,,,,,,,,,,,,125,705,383,166
@@ -2893,7 +2893,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-D037,Davis Cup G2 R1: PAR vs BAH,Clay,4,D,20090306,2,104618,,,Devin Mullings,L,168,BAH,23.4,105912,,,Diego Galeano,R,,PAR,17.0,4-6 7-5 4-1 RET,5,RR,,,,,,,,,,,,,,,,,,,,1059,14,,
 2009-D037,Davis Cup G2 R1: PAR vs BAH,Clay,4,D,20090306,4,102887,,,Ramon Delgado,R,185,PAR,32.2,104618,,,Devin Mullings,L,168,BAH,23.4,6-1 7-6(3) 6-1,5,RR,,,,,,,,,,,,,,,,,,,,276,264,1059,14
 2009-D037,Davis Cup G2 R1: PAR vs BAH,Clay,4,D,20090306,5,105912,,,Diego Galeano,R,,PAR,17.0,105002,,,Timothy Neilly,R,,BAH,21.5,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2009-D038,Davis Cup G2 R2: VEN vs MEX,Hard,4,D,20090710,1,104700,,,Daniel Vallverdu,R,,VEN,23.3,105471,,,Cesar Ramirez,R,180,MEX,19.4,6-3 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,525,83
+2009-D038,Davis Cup G2 R2: VEN vs MEX,Hard,4,D,20090710,1,104700,,,Daniel Vallverdu,R,180,VEN,23.3,105471,,,Cesar Ramirez,R,180,MEX,19.4,6-3 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,525,83
 2009-D038,Davis Cup G2 R2: VEN vs MEX,Hard,4,D,20090710,2,103739,,,Jose De Armas,R,,VEN,28.2,103746,,,Miguel Gallardo Valles,R,,MEX,28.2,6-3 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,,261,231,491,93
 2009-D038,Davis Cup G2 R2: VEN vs MEX,Hard,4,D,20090710,4,105471,,,Cesar Ramirez,R,180,MEX,19.4,108628,,,Jhonnatan Medina Alvarez,L,,VEN,27.4,6-1 1-0 RET,5,RR,,,,,,,,,,,,,,,,,,,,525,83,,
 2009-D038,Davis Cup G2 R2: VEN vs MEX,Hard,4,D,20090710,5,104496,,,Luis Manuel Flores,L,,MEX,24.4,104887,,,Piero Luisi,R,,VEN,22.3,4-6 6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,478,98,594,63
@@ -2901,10 +2901,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-D039,Davis Cup G2 R2: DOM vs PAR,Clay,4,D,20090710,2,103607,,,Victor Estrella,R,173,DOM,28.9,108715,,,Nicolas Salama,U,,PAR,18.4,6-1 6-0 2-0 RET,5,RR,,,,,,,,,,,,,,,,,,,,240,267,,
 2009-D039,Davis Cup G2 R2: DOM vs PAR,Clay,4,D,20090710,4,105912,,,Diego Galeano,R,,PAR,17.4,108956,,,Jesus Francisco Felix,U,,DOM,29.2,3-6 6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2009-D039,Davis Cup G2 R2: DOM vs PAR,Clay,4,D,20090710,5,105488,,,Jose Benitez,U,,PAR,19.3,108716,,,Amaury Gomez,U,,DOM,28.3,6-4 7-6(7),3,RR,,,,,,,,,,,,,,,,,,,,1249,6,,
-2009-D040,Davis Cup G2 R3: DOM vs VEN,Clay,4,D,20090918,1,103607,,,Victor Estrella,R,173,DOM,29.1,104700,,,Daniel Vallverdu,R,,VEN,23.4,6-4 6-3 4-6 7-5,5,RR,,,,,,,,,,,,,,,,,,,,287,179,1035,9
+2009-D040,Davis Cup G2 R3: DOM vs VEN,Clay,4,D,20090918,1,103607,,,Victor Estrella,R,173,DOM,29.1,104700,,,Daniel Vallverdu,R,180,VEN,23.4,6-4 6-3 4-6 7-5,5,RR,,,,,,,,,,,,,,,,,,,,287,179,1035,9
 2009-D040,Davis Cup G2 R3: DOM vs VEN,Clay,4,D,20090918,2,103739,,,Jose De Armas,R,,VEN,28.4,105497,,,Jose Hernandez,U,183,DOM,19.5,6-3 6-1 3-6 6-1,5,RR,,,,,,,,,,,,,,,,,,,,278,184,921,14
 2009-D040,Davis Cup G2 R3: DOM vs VEN,Clay,4,D,20090918,4,103607,,,Victor Estrella,R,173,DOM,29.1,103739,,,Jose De Armas,R,,VEN,28.4,6-3 2-6 7-6(6) 3-6 6-1,5,RR,,,,,,,,,,,,,,,,,,,,287,179,278,184
-2009-D040,Davis Cup G2 R3: DOM vs VEN,Clay,4,D,20090918,5,103638,,,Jhonson Garcia,R,,DOM,28.9,104700,,,Daniel Vallverdu,R,,VEN,23.4,6-3 6-3 7-5,5,RR,,,,,,,,,,,,,,,,,,,,880,16,1035,9
+2009-D040,Davis Cup G2 R3: DOM vs VEN,Clay,4,D,20090918,5,103638,,,Jhonson Garcia,R,,DOM,28.9,104700,,,Daniel Vallverdu,R,180,VEN,23.4,6-3 6-3 7-5,5,RR,,,,,,,,,,,,,,,,,,,,880,16,1035,9
 2009-D041,Davis Cup G2 R1: HKG vs PHI,Hard,4,D,20090306,1,108688,,,Martin Sayer,R,,HKG,21.7,104600,,,Treat Conrad Huey,L,178,PHI,23.5,6-4 7-6(0) 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,1280,7
 2009-D041,Davis Cup G2 R1: HKG vs PHI,Hard,4,D,20090306,2,102821,,,Cecil Mamiit,R,173,PHI,32.6,104299,,,Hiu Tung Yu,L,,HKG,25.0,7-6(2) 6-1 6-1,5,RR,,,,,,,,,,,,,,,,,,,,423,145,,
 2009-D041,Davis Cup G2 R1: HKG vs PHI,Hard,4,D,20090306,4,102821,,,Cecil Mamiit,R,173,PHI,32.6,108688,,,Martin Sayer,R,,HKG,21.7,6-4 4-6 3-6 7-6(4) 9-7,5,RR,,,,,,,,,,,,,,,,,,,,423,145,,
@@ -2996,10 +2996,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-D063,Davis Cup G1 R2: UZB vs KOR,Clay,4,D,20090306,1,102703,,,Hyung Taik Lee,R,180,KOR,33.1,104736,,,Farrukh Dustov,R,196,UZB,22.7,7-5 7-6(8) 6-4,5,RR,,,,,,,,,,,,,,,,,,,,113,800,654,59
 2009-D063,Davis Cup G1 R2: UZB vs KOR,Clay,4,D,20090306,2,104797,,,Denis Istomin,R,188,UZB,22.4,103682,,,Kyu Tae Im,R,185,KOR,28.1,6-3 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,,104,867,263,274
 2009-D063,Davis Cup G1 R2: UZB vs KOR,Clay,4,D,20090306,4,104797,,,Denis Istomin,R,188,UZB,22.4,102703,,,Hyung Taik Lee,R,180,KOR,33.1,6-3 1-6 6-3 3-6 6-3,5,RR,,,,,,,,,,,,,,,,,,,,104,867,113,800
-2009-D063,Davis Cup G1 R2: UZB vs KOR,Clay,4,D,20090306,5,104454,,,Murad Inoyatov,R,,UZB,24.2,105790,,,Yong Kyu Lim,R,,KOR,17.7,3-6 6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,499,102,712,50
+2009-D063,Davis Cup G1 R2: UZB vs KOR,Clay,4,D,20090306,5,104454,,,Murad Inoyatov,R,,UZB,24.2,105790,,,Yong Kyu Lim,R,185,KOR,17.7,3-6 6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,499,102,712,50
 2009-D064,Davis Cup G1 PO: KOR vs CHN,Hard,4,D,20090710,1,103682,,,Kyu Tae Im,R,185,KOR,28.4,105001,,,Mao Xin Gong,R,178,CHN,21.8,6-3 6-0 6-2,5,RR,,,,,,,,,,,,,,,,,,,,212,325,536,80
 2009-D064,Davis Cup G1 PO: KOR vs CHN,Hard,4,D,20090710,2,102703,,,Hyung Taik Lee,R,180,KOR,33.5,103830,,,Shao Xuan Zeng,R,185,CHN,27.8,6-3 6-4 6-2,5,RR,,,,,,,,,,,,,,,,,,,,153,466,542,79
-2009-D064,Davis Cup G1 PO: KOR vs CHN,Hard,4,D,20090710,4,105585,,,Ze Zhang,R,188,CHN,19.0,105790,,,Yong Kyu Lim,R,,KOR,18.0,2-6 6-7(0) 6-4 7-6(7) 2-0 RET,5,RR,,,,,,,,,,,,,,,,,,,,674,47,462,103
+2009-D064,Davis Cup G1 PO: KOR vs CHN,Hard,4,D,20090710,4,105585,,,Ze Zhang,R,188,CHN,19.0,105790,,,Yong Kyu Lim,R,185,KOR,18.0,2-6 6-7(0) 6-4 7-6(7) 2-0 RET,5,RR,,,,,,,,,,,,,,,,,,,,674,47,462,103
 2009-D064,Davis Cup G1 PO: KOR vs CHN,Hard,4,D,20090710,5,103682,,,Kyu Tae Im,R,185,KOR,28.4,103830,,,Shao Xuan Zeng,R,185,CHN,27.8,6-0 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,,212,325,542,79
 2009-D065,Davis Cup G1 PO: CHN vs THA,Hard,4,D,20090918,1,103830,,,Shao Xuan Zeng,R,185,CHN,28.0,105579,,,Kittipong Wachiramanowong,R,183,THA,19.2,5-7 6-1 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,,417,96,521,66
 2009-D065,Davis Cup G1 PO: CHN vs THA,Hard,4,D,20090918,2,103821,,,Danai Udomchoke,R,173,THA,28.0,105585,,,Ze Zhang,R,188,CHN,19.1,6-3 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,139,433,613,48

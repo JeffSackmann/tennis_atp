@@ -105,8 +105,8 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-1542,Rome CH,Clay,32,C,20051003,11,104593,,,Daniel Gimeno Traver,R,185,ESP,20.1,109020,,WC,Patrick Linke,U,,AUT,21.6,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,215,174,,
 2005-1542,Rome CH,Clay,32,C,20051003,12,103035,4,,Alessio Di Mauro,L,185,ITA,28.1,103726,,,Jean Christophe Faurel,R,175,FRA,24.5,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,117,364,195,200
 2005-1542,Rome CH,Clay,32,C,20051003,13,103505,5,,Vasilis Mazarakis,R,178,GRE,25.6,103487,,,Federico Luzzi,R,188,ITA,25.7,6-4 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,122,350,172,231
-2005-1542,Rome CH,Clay,32,C,20051003,14,103369,,,Melle Van Gemerden,R,183,NED,26.4,102985,,LL,Gustavo Marcaccio,R,,ARG,28.4,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,164,240,407,70
-2005-1542,Rome CH,Clay,32,C,20051003,15,104851,,Q,Gianluca Naso,R,,ITA,18.7,104869,,WC,Sergei Bubka,R,188,UKR,18.6,7-6(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,616,32,1157,5
+2005-1542,Rome CH,Clay,32,C,20051003,14,103369,,,Melle Van Gemerden,R,183,NED,26.4,102985,,LL,Gustavo Marcaccio,R,170,ARG,28.4,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,164,240,407,70
+2005-1542,Rome CH,Clay,32,C,20051003,15,104851,,Q,Gianluca Naso,R,193,ITA,18.7,104869,,WC,Sergei Bubka,R,188,UKR,18.6,7-6(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,616,32,1157,5
 2005-1542,Rome CH,Clay,32,C,20051003,16,103169,2,,Oscar Hernandez,R,180,ESP,27.4,104043,,,Marc Lopez,R,175,ESP,23.1,1-6 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,75,505,210,179
 2005-1542,Rome CH,Clay,32,C,20051003,17,103656,1,,Albert Montanes,R,175,ESP,24.8,104392,,,Franco Ferreiro,R,188,BRA,21.2,6-3 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,69,523,205,184
 2005-1542,Rome CH,Clay,32,C,20051003,18,102287,7,,Albert Portas,R,188,ESP,31.8,104262,,,Flavio Cipolla,R,173,ITA,21.9,5-7 7-5 6-0,3,R16,,,,,,,,,,,,,,,,,,,,120,353,189,213
@@ -115,7 +115,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-1542,Rome CH,Clay,32,C,20051003,21,102548,8,,Juan Antonio Marin,R,175,CRC,30.5,104230,,,Daniel Koellerer,R,180,AUT,22.1,W/O,3,R16,,,,,,,,,,,,,,,,,,,,142,300,208,182
 2005-1542,Rome CH,Clay,32,C,20051003,22,104593,,,Daniel Gimeno Traver,R,185,ESP,20.1,103035,4,,Alessio Di Mauro,L,185,ITA,28.1,4-6 7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,215,174,117,364
 2005-1542,Rome CH,Clay,32,C,20051003,23,103505,5,,Vasilis Mazarakis,R,178,GRE,25.6,103369,,,Melle Van Gemerden,R,183,NED,26.4,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,122,350,164,240
-2005-1542,Rome CH,Clay,32,C,20051003,24,103169,2,,Oscar Hernandez,R,180,ESP,27.4,104851,,Q,Gianluca Naso,R,,ITA,18.7,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,75,505,616,32
+2005-1542,Rome CH,Clay,32,C,20051003,24,103169,2,,Oscar Hernandez,R,180,ESP,27.4,104851,,Q,Gianluca Naso,R,193,ITA,18.7,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,75,505,616,32
 2005-1542,Rome CH,Clay,32,C,20051003,25,103656,1,,Albert Montanes,R,175,ESP,24.8,102287,7,,Albert Portas,R,188,ESP,31.8,6-1 1-0 RET,3,QF,,,,,,,,,,,,,,,,,,,,69,523,120,353
 2005-1542,Rome CH,Clay,32,C,20051003,26,104515,,Q,Mathieu Montcourt,R,183,FRA,20.5,103626,,,Tomas Tenconi,R,178,ITA,25.0,6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,283,121,253,142
 2005-1542,Rome CH,Clay,32,C,20051003,27,102548,8,,Juan Antonio Marin,R,175,CRC,30.5,104593,,,Daniel Gimeno Traver,R,185,ESP,20.1,7-6(3) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,142,300,215,174
@@ -129,7 +129,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-1543,Turin CH,Clay,32,C,20050523,4,103868,5,,Ivan Navarro,R,183,ESP,23.5,103726,,,Jean Christophe Faurel,R,175,FRA,24.2,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,165,270,218,180
 2005-1543,Turin CH,Clay,32,C,20050523,5,102567,3,,George Bastl,R,183,SUI,30.1,109305,,WC,Nicolo Marchioretto,U,,ITA,19.1,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,143,301,1472,1
 2005-1543,Turin CH,Clay,32,C,20050523,6,103032,,Q,Francisco Fogues,L,190,ESP,27.7,104206,,WC,Alberto Giraudo,L,,ITA,21.9,6-7(2) 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,312,112,959,8
-2005-1543,Turin CH,Clay,32,C,20050523,7,104851,,Q,Gianluca Naso,R,,ITA,18.3,103573,,,Rik De Voest,R,180,RSA,24.9,6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,902,10,202,213
+2005-1543,Turin CH,Clay,32,C,20050523,7,104851,,Q,Gianluca Naso,R,193,ITA,18.3,103573,,,Rik De Voest,R,180,RSA,24.9,6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,902,10,202,213
 2005-1543,Turin CH,Clay,32,C,20050523,8,103395,7,,Julio Silva,R,173,BRA,25.8,103594,,,Oliver Marach,R,185,AUT,24.8,7-6(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,192,220,193,218
 2005-1543,Turin CH,Clay,32,C,20050523,9,104122,8,,Carlos Berlocq,R,183,ARG,22.2,103521,,,Andrea Stoppini,R,190,ITA,25.2,7-6(9) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,191,220,253,149
 2005-1543,Turin CH,Clay,32,C,20050523,10,104392,,,Franco Ferreiro,R,188,BRA,20.8,104559,,,Teymuraz Gabashvili,R,188,RUS,20.0,6-2 2-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,208,199,223,172
@@ -142,7 +142,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-1543,Turin CH,Clay,32,C,20050523,17,103035,1,,Alessio Di Mauro,L,185,ITA,27.7,103209,,,Leonardo Azzaro,L,188,ITA,26.9,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,98,421,230,169
 2005-1543,Turin CH,Clay,32,C,20050523,18,103868,5,,Ivan Navarro,R,183,ESP,23.5,104379,,,Todd Reid,R,180,AUS,20.9,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,165,270,212,191
 2005-1543,Turin CH,Clay,32,C,20050523,19,102567,3,,George Bastl,R,183,SUI,30.1,103032,,Q,Francisco Fogues,L,190,ESP,27.7,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,143,301,312,112
-2005-1543,Turin CH,Clay,32,C,20050523,20,103395,7,,Julio Silva,R,173,BRA,25.8,104851,,Q,Gianluca Naso,R,,ITA,18.3,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,192,220,902,10
+2005-1543,Turin CH,Clay,32,C,20050523,20,103395,7,,Julio Silva,R,173,BRA,25.8,104851,,Q,Gianluca Naso,R,193,ITA,18.3,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,192,220,902,10
 2005-1543,Turin CH,Clay,32,C,20050523,21,104122,8,,Carlos Berlocq,R,183,ARG,22.2,104392,,,Franco Ferreiro,R,188,BRA,20.8,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,191,220,208,199
 2005-1543,Turin CH,Clay,32,C,20050523,22,104181,,,Victor Ionita,R,185,ROU,22.0,104166,4,,Alex Bogomolov Jr,R,178,RUS,22.0,7-6(3) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,187,226,168,260
 2005-1543,Turin CH,Clay,32,C,20050523,23,103487,6,,Federico Luzzi,R,188,ITA,25.3,103529,,,Aisam Ul Haq Qureshi,R,183,PAK,25.1,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,176,247,219,179
@@ -199,7 +199,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-1606,Donetsk CH,Hard,32,C,20050905,12,103166,4,,Vladimir Voltchkov,R,180,BLR,27.3,109555,,Q,Alan Wright,R,,GBR,,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,191,216,,
 2005-1606,Donetsk CH,Hard,32,C,20050905,13,104495,,,Florin Mergea,R,180,ROU,20.5,104360,5,,Adam Chadaj,L,178,POL,21.3,6-1 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,312,110,204,193
 2005-1606,Donetsk CH,Hard,32,C,20050905,14,103761,,,Tomas Cakl,R,178,CZE,24.3,104083,,,Carles Poch Gradin,L,185,ESP,22.8,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,273,135,425,65
-2005-1606,Donetsk CH,Hard,32,C,20050905,15,103646,,,Lars Uebel,R,,GER,24.8,103272,,Q,Alexander Yarmola,R,,UKR,26.8,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,315,109,793,16
+2005-1606,Donetsk CH,Hard,32,C,20050905,15,103646,,,Lars Uebel,R,180,GER,24.8,103272,,Q,Alexander Yarmola,R,,UKR,26.8,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,315,109,793,16
 2005-1606,Donetsk CH,Hard,32,C,20050905,16,104105,,Q,Pavel Ivanov,R,193,RUS,22.6,104182,2,,Sasa Tuksar,R,180,CRO,22.2,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,581,35,166,258
 2005-1606,Donetsk CH,Hard,32,C,20050905,17,104086,,WC,Mikhail Filima,U,,UKR,22.7,103716,,,Uros Vico,R,188,ITA,24.5,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,942,9,279,133
 2005-1606,Donetsk CH,Hard,32,C,20050905,18,103679,7,,Jeroen Masson,R,,BEL,24.6,103735,,,Lovro Zovko,R,190,CRO,24.4,7-6(0) 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,237,159,372,81
@@ -208,18 +208,18 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-1606,Donetsk CH,Hard,32,C,20050905,21,103580,6,,Alexander Peya,R,183,AUT,25.1,103165,,,Gorka Fraile,R,180,ESP,27.3,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,208,188,299,118
 2005-1606,Donetsk CH,Hard,32,C,20050905,22,103902,,,Jan Mertl,R,190,CZE,23.6,103166,4,,Vladimir Voltchkov,R,180,BLR,27.3,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,284,130,191,216
 2005-1606,Donetsk CH,Hard,32,C,20050905,23,103761,,,Tomas Cakl,R,178,CZE,24.3,104495,,,Florin Mergea,R,180,ROU,20.5,7-5 5-7 6-4,3,R16,,,,,,,,,,,,,,,,,,,,273,135,312,110
-2005-1606,Donetsk CH,Hard,32,C,20050905,24,103646,,,Lars Uebel,R,,GER,24.8,104105,,Q,Pavel Ivanov,R,193,RUS,22.6,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,315,109,581,35
+2005-1606,Donetsk CH,Hard,32,C,20050905,24,103646,,,Lars Uebel,R,180,GER,24.8,104105,,Q,Pavel Ivanov,R,193,RUS,22.6,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,315,109,581,35
 2005-1606,Donetsk CH,Hard,32,C,20050905,25,104086,,WC,Mikhail Filima,U,,UKR,22.7,103679,7,,Jeroen Masson,R,,BEL,24.6,6-4 4-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,942,9,237,159
 2005-1606,Donetsk CH,Hard,32,C,20050905,26,103997,3,,Lukasz Kubot,R,190,POL,23.2,103393,8,,Yuri Schukin,R,188,KAZ,26.1,3-6 6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,184,226,241,155
 2005-1606,Donetsk CH,Hard,32,C,20050905,27,103580,6,,Alexander Peya,R,183,AUT,25.1,103902,,,Jan Mertl,R,190,CZE,23.6,6-1 7-6(3),3,QF,,,,,,,,,,,,,,,,,,,,208,188,284,130
-2005-1606,Donetsk CH,Hard,32,C,20050905,28,103761,,,Tomas Cakl,R,178,CZE,24.3,103646,,,Lars Uebel,R,,GER,24.8,6-3 3-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,273,135,315,109
+2005-1606,Donetsk CH,Hard,32,C,20050905,28,103761,,,Tomas Cakl,R,178,CZE,24.3,103646,,,Lars Uebel,R,180,GER,24.8,6-3 3-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,273,135,315,109
 2005-1606,Donetsk CH,Hard,32,C,20050905,29,103997,3,,Lukasz Kubot,R,190,POL,23.2,104086,,WC,Mikhail Filima,U,,UKR,22.7,6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,184,226,942,9
 2005-1606,Donetsk CH,Hard,32,C,20050905,30,103580,6,,Alexander Peya,R,183,AUT,25.1,103761,,,Tomas Cakl,R,178,CZE,24.3,7-5 6-4,3,SF,,,,,,,,,,,,,,,,,,,,208,188,273,135
 2005-1606,Donetsk CH,Hard,32,C,20050905,31,103997,3,,Lukasz Kubot,R,190,POL,23.2,103580,6,,Alexander Peya,R,183,AUT,25.1,6-4 6-2,3,F,,,,,,,,,,,,,,,,,,,,184,226,208,188
 2005-1607,Banja Luka CH,Clay,32,C,20050919,1,103752,1,,Simon Greul,R,185,GER,24.4,102603,,,Melvyn Op Der Heijde,R,180,NED,30.2,6-4 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,124,348,241,154
 2005-1607,Banja Luka CH,Clay,32,C,20050919,2,103679,,,Jeroen Masson,R,,BEL,24.7,104209,,,Rainer Eitzinger,R,178,AUT,22.2,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,220,168,240,154
 2005-1607,Banja Luka CH,Clay,32,C,20050919,3,104678,,Q,Viktor Troicki,R,193,SRB,19.6,102107,,,Jan Frode Andersen,L,190,NOR,33.0,7-6(5) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,490,51,423,67
-2005-1607,Banja Luka CH,Clay,32,C,20050919,4,103726,7,,Jean Christophe Faurel,R,175,FRA,24.5,104851,,Q,Gianluca Naso,R,,ITA,18.7,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,172,238,694,24
+2005-1607,Banja Luka CH,Clay,32,C,20050919,4,103726,7,,Jean Christophe Faurel,R,175,FRA,24.5,104851,,Q,Gianluca Naso,R,193,ITA,18.7,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,172,238,694,24
 2005-1607,Banja Luka CH,Clay,32,C,20050919,5,103564,,,Jakub Herm Zahlava,R,,GER,25.3,104056,4,,Roko Karanusic,R,183,CRO,23.0,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,225,164,152,275
 2005-1607,Banja Luka CH,Clay,32,C,20050919,6,102800,,WC,Nenad Zimonjic,R,190,SRB,29.2,103229,,LL,Kornel Bardoczky,R,,HUN,27.2,6-7(3) 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,562,39,412,69
 2005-1607,Banja Luka CH,Clay,32,C,20050919,7,103748,,,Jan Minar,R,,CZE,24.4,103938,,,Igor Zelenay,R,198,SVK,23.6,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,303,113,288,121
@@ -229,7 +229,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-1607,Banja Luka CH,Clay,32,C,20050919,11,103799,,Q,Eric Prodon,R,178,FRA,24.2,103393,,,Yuri Schukin,R,188,KAZ,26.2,6-2 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,798,16,235,162
 2005-1607,Banja Luka CH,Clay,32,C,20050919,12,103505,3,,Vasilis Mazarakis,R,178,GRE,25.6,104575,,WC,Jochen Matschke,R,,GER,20.2,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,139,301,1155,5
 2005-1607,Banja Luka CH,Clay,32,C,20050919,13,103849,5,,Francesco Aldi,R,175,ITA,24.0,104926,,,Fabio Fognini,R,178,ITA,18.3,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,164,251,351,87
-2005-1607,Banja Luka CH,Clay,32,C,20050919,14,103209,,,Leonardo Azzaro,L,188,ITA,27.3,102985,,,Gustavo Marcaccio,R,,ARG,28.3,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,318,109,367,81
+2005-1607,Banja Luka CH,Clay,32,C,20050919,14,103209,,,Leonardo Azzaro,L,188,ITA,27.3,102985,,,Gustavo Marcaccio,R,170,ARG,28.3,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,318,109,367,81
 2005-1607,Banja Luka CH,Clay,32,C,20050919,15,103956,,,Stefan Wauters,R,,BEL,23.5,105060,,WC,Aldin Setkic,R,193,BIH,17.7,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,272,132,1497,1
 2005-1607,Banja Luka CH,Clay,32,C,20050919,16,104081,2,,Boris Pashanski,R,180,SRB,22.8,104262,,,Flavio Cipolla,R,173,ITA,21.9,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,118,366,192,215
 2005-1607,Banja Luka CH,Clay,32,C,20050919,17,103752,1,,Simon Greul,R,185,GER,24.4,103679,,,Jeroen Masson,R,,BEL,24.7,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,124,348,220,168
@@ -285,7 +285,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-1632,Reunion Island CH,Hard,32,C,20051121,5,104515,4,,Mathieu Montcourt,R,183,FRA,20.7,109212,,WC,Sebastien Tholozan,U,,FRA,30.5,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,224,163,1265,3
 2005-1632,Reunion Island CH,Hard,32,C,20051121,6,103692,,,Jakub Hasek,L,,CZE,24.8,109444,,,Hijiri Kaneko,U,,JPN,32.0,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,570,39,,
 2005-1632,Reunion Island CH,Hard,32,C,20051121,7,103565,,,Stephane Robert,R,185,FRA,25.5,109445,,Q,Hiroshi Fukaumi,U,,JPN,32.3,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,539,44,,
-2005-1632,Reunion Island CH,Hard,32,C,20051121,8,103623,6,,Jacob Adaktusson,R,,SWE,25.2,109113,,,Roger Krajcovic,U,,HUN,24.1,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,285,120,,
+2005-1632,Reunion Island CH,Hard,32,C,20051121,8,103623,6,,Jacob Adaktusson,R,193,SWE,25.2,109113,,,Roger Krajcovic,U,,HUN,24.1,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,285,120,,
 2005-1632,Reunion Island CH,Hard,32,C,20051121,9,103460,,,Konstantin Don Gruber,R,183,AUT,26.0,190446,,LL,David Fontaine,U,,FRA,26.5,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,433,63,,
 2005-1632,Reunion Island CH,Hard,32,C,20051121,10,104158,,,Andrew Anderson,R,193,RSA,22.6,109211,,WC,Bertrand Lescure,U,,FRA,,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,425,65,,
 2005-1632,Reunion Island CH,Hard,32,C,20051121,11,103030,,,Norikazu Sugiyama,R,178,JPN,28.3,104200,,,Juan Manuel Elizondo,U,180,MEX,22.4,6-1 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,375,82,458,58
@@ -297,7 +297,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-1632,Reunion Island CH,Hard,32,C,20051121,17,104259,1,,Philipp Kohlschreiber,R,178,GER,22.0,104039,,,Petar Popovic,U,,SRB,23.3,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,93,455,511,49
 2005-1632,Reunion Island CH,Hard,32,C,20051121,18,102300,7,,Gouichi Motomura,R,173,JPN,31.9,107469,,,Julien Dupuy,R,,FRA,,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,299,113,1029,7
 2005-1632,Reunion Island CH,Hard,32,C,20051121,19,104515,4,,Mathieu Montcourt,R,183,FRA,20.7,103692,,,Jakub Hasek,L,,CZE,24.8,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,224,163,570,39
-2005-1632,Reunion Island CH,Hard,32,C,20051121,20,103565,,,Stephane Robert,R,185,FRA,25.5,103623,6,,Jacob Adaktusson,R,,SWE,25.2,6-4 2-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,539,44,285,120
+2005-1632,Reunion Island CH,Hard,32,C,20051121,20,103565,,,Stephane Robert,R,185,FRA,25.5,103623,6,,Jacob Adaktusson,R,193,SWE,25.2,6-4 2-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,539,44,285,120
 2005-1632,Reunion Island CH,Hard,32,C,20051121,21,103460,,,Konstantin Don Gruber,R,183,AUT,26.0,104158,,,Andrew Anderson,R,193,RSA,22.6,3-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,433,63,425,65
 2005-1632,Reunion Island CH,Hard,32,C,20051121,22,104559,3,,Teymuraz Gabashvili,R,188,RUS,20.4,103030,,,Norikazu Sugiyama,R,178,JPN,28.3,6-4 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,141,298,375,82
 2005-1632,Reunion Island CH,Hard,32,C,20051121,23,103630,,,Martijn Van Haasteren,R,,AHO,25.1,102242,,,Bart Beks,R,,NED,32.3,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,560,40,,
@@ -320,7 +320,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-1683,Sarajevo CH,Hard,32,C,20050314,9,103761,,,Tomas Cakl,R,178,CZE,23.8,104182,8,,Sasa Tuksar,R,180,CRO,21.8,6-3 3-6 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,266,147,197,215
 2005-1683,Sarajevo CH,Hard,32,C,20050314,10,103393,,,Yuri Schukin,R,188,KAZ,25.6,109284,,WC,Nikolai Nesterov,R,,RUS,24.0,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,200,210,,
 2005-1683,Sarajevo CH,Hard,32,C,20050314,11,103521,,,Andrea Stoppini,R,190,ITA,25.0,109469,,WC,Clay Donato,U,,CAN,17.1,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,245,161,,
-2005-1683,Sarajevo CH,Hard,32,C,20050314,12,103166,4,,Vladimir Voltchkov,R,180,BLR,26.9,103646,,Q,Lars Uebel,R,,GER,24.3,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,167,266,365,85
+2005-1683,Sarajevo CH,Hard,32,C,20050314,12,103166,4,,Vladimir Voltchkov,R,180,BLR,26.9,103646,,Q,Lars Uebel,R,180,GER,24.3,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,167,266,365,85
 2005-1683,Sarajevo CH,Hard,32,C,20050314,13,102567,6,,George Bastl,R,183,SUI,29.9,109460,,WC,Benjamin Althaus,U,,GER,,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,175,254,1473,1
 2005-1683,Sarajevo CH,Hard,32,C,20050314,14,102538,,,Tuomas Ketola,R,185,FIN,30.0,103157,,,Arvind Parmar,R,193,GBR,26.9,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,227,175,205,201
 2005-1683,Sarajevo CH,Hard,32,C,20050314,15,103582,,,Michael Berrer,L,193,GER,24.6,102788,,,Jan Vacek,R,198,CZE,28.8,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,230,171,226,176
@@ -352,8 +352,8 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-1723,Forest Hills CH,Clay,32,C,20050509,10,104136,,,Santiago Gonzalez,R,190,MEX,22.2,102978,,,Zbynek Mlynarik,R,175,AUT,28.0,3-6 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,306,115,263,147
 2005-1723,Forest Hills CH,Clay,32,C,20050509,11,103948,,Q,Maximilian Abel,R,,GER,23.1,103663,,,Matias Boeker,R,,USA,24.4,6-7(5) 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,518,45,227,172
 2005-1723,Forest Hills CH,Clay,32,C,20050509,12,103976,4,,Juan Pablo Brzezicki,R,178,ARG,23.0,102603,,,Melvyn Op Der Heijde,R,180,NED,29.9,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,165,278,269,140
-2005-1723,Forest Hills CH,Clay,32,C,20050509,13,103484,7,,James Blake,R,185,USA,25.3,103646,,,Lars Uebel,R,,GER,24.5,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,164,280,308,114
-2005-1723,Forest Hills CH,Clay,32,C,20050509,14,103623,,Q,Jacob Adaktusson,R,,SWE,24.6,104559,,,Teymuraz Gabashvili,R,188,RUS,19.9,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,310,114,222,178
+2005-1723,Forest Hills CH,Clay,32,C,20050509,13,103484,7,,James Blake,R,185,USA,25.3,103646,,,Lars Uebel,R,180,GER,24.5,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,164,280,308,114
+2005-1723,Forest Hills CH,Clay,32,C,20050509,14,103623,,Q,Jacob Adaktusson,R,193,SWE,24.6,104559,,,Teymuraz Gabashvili,R,188,RUS,19.9,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,310,114,222,178
 2005-1723,Forest Hills CH,Clay,32,C,20050509,15,104548,,,Brian Baker,R,190,USA,20.0,103470,,,Robert Kendrick,R,190,USA,25.4,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,179,248,198,217
 2005-1723,Forest Hills CH,Clay,32,C,20050509,16,103204,2,,Hugo Armando,R,183,USA,26.9,103822,,WC,Scott Lipsky,R,185,USA,23.7,6-7(2) 7-6(2) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,152,292,446,57
 2005-1723,Forest Hills CH,Clay,32,C,20050509,17,103188,,,Michael Russell,R,173,USA,27.0,103505,,,Vasilis Mazarakis,R,178,GRE,25.2,6-2 6-7(5) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,237,162,236,164
@@ -362,7 +362,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-1723,Forest Hills CH,Clay,32,C,20050509,20,103700,5,,Juan Pablo Guzman,L,178,ARG,24.2,103358,,,Nicolas Todero,R,183,ARG,26.0,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,175,253,258,151
 2005-1723,Forest Hills CH,Clay,32,C,20050509,21,103516,,,Nathan Healey,R,180,AUS,25.1,104136,,,Santiago Gonzalez,R,190,MEX,22.2,7-6(4) 5-7 6-2,3,R16,,,,,,,,,,,,,,,,,,,,312,113,306,115
 2005-1723,Forest Hills CH,Clay,32,C,20050509,22,103976,4,,Juan Pablo Brzezicki,R,178,ARG,23.0,103948,,Q,Maximilian Abel,R,,GER,23.1,7-6(2) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,165,278,518,45
-2005-1723,Forest Hills CH,Clay,32,C,20050509,23,103484,7,,James Blake,R,185,USA,25.3,103623,,Q,Jacob Adaktusson,R,,SWE,24.6,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,164,280,310,114
+2005-1723,Forest Hills CH,Clay,32,C,20050509,23,103484,7,,James Blake,R,185,USA,25.3,103623,,Q,Jacob Adaktusson,R,193,SWE,24.6,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,164,280,310,114
 2005-1723,Forest Hills CH,Clay,32,C,20050509,24,103204,2,,Hugo Armando,R,183,USA,26.9,104548,,,Brian Baker,R,190,USA,20.0,5-7 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,152,292,179,248
 2005-1723,Forest Hills CH,Clay,32,C,20050509,25,102811,,,Dusan Vemic,R,190,SRB,28.8,103188,,,Michael Russell,R,173,USA,27.0,1-6 5-3 RET,3,QF,,,,,,,,,,,,,,,,,,,,254,152,237,162
 2005-1723,Forest Hills CH,Clay,32,C,20050509,26,103700,5,,Juan Pablo Guzman,L,178,ARG,24.2,104166,,Q,Alex Bogomolov Jr,R,178,RUS,22.0,1-6 6-2 6-0,3,QF,,,,,,,,,,,,,,,,,,,,175,253,154,289
@@ -402,7 +402,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-1738,Reggio Emilia CH,Clay,32,C,20050620,29,103506,,,Martin Vassallo Arguello,R,183,ARG,25.3,105223,,WC,Juan Martin del Potro,R,198,ARG,16.7,3-6 6-0 7-5,3,SF,,,,,,,,,,,,,,,,,,,,255,144,425,66
 2005-1738,Reggio Emilia CH,Clay,32,C,20050620,30,103693,5,,Thierry Ascione,R,188,FRA,24.4,103789,,,Irakli Labadze,L,188,GEO,24.0,4-6 6-1 6-3,3,SF,,,,,,,,,,,,,,,,,,,,147,303,207,199
 2005-1738,Reggio Emilia CH,Clay,32,C,20050620,31,103693,5,,Thierry Ascione,R,188,FRA,24.4,103506,,,Martin Vassallo Arguello,R,183,ARG,25.3,6-3 6-0,3,F,,,,,,,,,,,,,,,,,,,,147,303,255,144
-2005-1741,Busan CH,Hard,32,C,20050523,1,102925,1,,Justin Gimelstob,R,196,USA,28.3,103623,,,Jacob Adaktusson,R,,SWE,24.7,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,111,381,302,119
+2005-1741,Busan CH,Hard,32,C,20050523,1,102925,1,,Justin Gimelstob,R,196,USA,28.3,103623,,,Jacob Adaktusson,R,193,SWE,24.7,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,111,381,302,119
 2005-1741,Busan CH,Hard,32,C,20050523,2,104330,,,Rajeev Ram,R,193,USA,21.1,103936,,,Todor Enev,R,,BUL,23.2,4-6 6-4 RET,3,R32,,,,,,,,,,,,,,,,,,,,316,110,342,99
 2005-1741,Busan CH,Hard,32,C,20050523,3,103467,,,Victor Bruthans,R,,SVK,25.5,104753,,WC,Woong Sun Jun,R,190,KOR,18.9,2-6 6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,295,124,689,23
 2005-1741,Busan CH,Hard,32,C,20050523,4,103821,6,,Danai Udomchoke,R,173,THA,23.7,103238,,,Jean Claude Scherrer,R,188,SUI,26.8,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,203,209,308,114
@@ -443,7 +443,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-1743,Recanati CH,Hard,32,C,20050725,8,103435,7,,Massimo Dellacqua,R,193,ITA,25.8,102896,,Q,Giuseppe Menga,R,,ITA,28.6,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,287,122,494,50
 2005-1743,Recanati CH,Hard,32,C,20050725,9,103716,5,,Uros Vico,R,188,ITA,24.4,104736,,,Farrukh Dustov,R,196,UZB,19.1,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,293,117,427,63
 2005-1743,Recanati CH,Hard,32,C,20050725,10,103118,,,Ion Moldovan,R,188,ROU,27.5,103625,,Q,Adriano Biasella,R,,ITA,24.8,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1213,4
-2005-1743,Recanati CH,Hard,32,C,20050725,11,103623,,,Jacob Adaktusson,R,,SWE,24.8,103730,,,Jonathan Marray,R,183,GBR,24.3,7-6(3) 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,376,76,269,132
+2005-1743,Recanati CH,Hard,32,C,20050725,11,103623,,,Jacob Adaktusson,R,193,SWE,24.8,103730,,,Jonathan Marray,R,183,GBR,24.3,7-6(3) 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,376,76,269,132
 2005-1743,Recanati CH,Hard,32,C,20050725,12,104095,,,David Guez,R,185,FRA,22.6,103521,4,,Andrea Stoppini,R,190,ITA,25.4,4-6 7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,309,107,252,141
 2005-1743,Recanati CH,Hard,32,C,20050725,13,103967,,,Michael Lammer,R,185,SUI,23.3,102851,8,,Giorgio Galimberti,R,180,ITA,28.8,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,275,128,251,141
 2005-1743,Recanati CH,Hard,32,C,20050725,14,103437,,,Francesco Piccari,R,,ITA,25.8,104494,,,Adrian Ungur,R,178,ROU,20.4,7-6(7) 4-6 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,347,91,284,123
@@ -454,7 +454,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-1743,Recanati CH,Hard,32,C,20050725,19,102143,,,Nicolas Thomann,R,183,FRA,32.6,104211,,Q,Roman Valent,R,183,SUI,22.0,7-6(5) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,300,113,441,60
 2005-1743,Recanati CH,Hard,32,C,20050725,20,103435,7,,Massimo Dellacqua,R,193,ITA,25.8,104721,,,Josselin Ouanna,R,193,FRA,19.2,7-6(6) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,287,122,407,68
 2005-1743,Recanati CH,Hard,32,C,20050725,21,103716,5,,Uros Vico,R,188,ITA,24.4,103118,,,Ion Moldovan,R,188,ROU,27.5,6-7(4) 6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,293,117,,
-2005-1743,Recanati CH,Hard,32,C,20050725,22,104095,,,David Guez,R,185,FRA,22.6,103623,,,Jacob Adaktusson,R,,SWE,24.8,6-3 3-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,309,107,376,76
+2005-1743,Recanati CH,Hard,32,C,20050725,22,104095,,,David Guez,R,185,FRA,22.6,103623,,,Jacob Adaktusson,R,193,SWE,24.8,6-3 3-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,309,107,376,76
 2005-1743,Recanati CH,Hard,32,C,20050725,23,103967,,,Michael Lammer,R,185,SUI,23.3,103437,,,Francesco Piccari,R,,ITA,25.8,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,275,128,347,91
 2005-1743,Recanati CH,Hard,32,C,20050725,24,103110,2,,Daniele Bracciali,R,180,ITA,27.5,103770,,,Kevin Sorensen,R,183,IRL,24.2,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,103,399,367,79
 2005-1743,Recanati CH,Hard,32,C,20050725,25,102106,1,,Davide Sanguinetti,R,188,ITA,32.9,103422,,,Sebastian Fitz,R,,GER,25.9,6-4 6-0,3,QF,,,,,,,,,,,,,,,,,,,,60,623,321,104
@@ -464,7 +464,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-1743,Recanati CH,Hard,32,C,20050725,29,102106,1,,Davide Sanguinetti,R,188,ITA,32.9,102143,,,Nicolas Thomann,R,183,FRA,32.6,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,60,623,300,113
 2005-1743,Recanati CH,Hard,32,C,20050725,30,103110,2,,Daniele Bracciali,R,180,ITA,27.5,103716,5,,Uros Vico,R,188,ITA,24.4,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,103,399,293,117
 2005-1743,Recanati CH,Hard,32,C,20050725,31,102106,1,,Davide Sanguinetti,R,188,ITA,32.9,103110,2,,Daniele Bracciali,R,180,ITA,27.5,6-4 4-6 6-3,3,F,,,,,,,,,,,,,,,,,,,,60,623,103,399
-2005-1750,Valladolid CH,Hard,32,C,20050725,1,103868,1,,Ivan Navarro,R,183,ESP,23.7,102985,,,Gustavo Marcaccio,R,,ARG,28.2,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,159,262,394,71
+2005-1750,Valladolid CH,Hard,32,C,20050725,1,103868,1,,Ivan Navarro,R,183,ESP,23.7,102985,,,Gustavo Marcaccio,R,170,ARG,28.2,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,159,262,394,71
 2005-1750,Valladolid CH,Hard,32,C,20050725,2,104004,,,Filip Prpic,R,173,SWE,23.1,104349,,,Rui Machado,R,178,POR,21.2,6-4 4-6 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,281,126,261,137
 2005-1750,Valladolid CH,Hard,32,C,20050725,3,103538,,,James Auckland,R,,GBR,25.3,104665,,WC,Pablo Andujar,R,180,ESP,19.5,7-6(2) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,302,112,503,48
 2005-1750,Valladolid CH,Hard,32,C,20050725,4,103956,8,,Stefan Wauters,R,,BEL,23.3,105150,,WC,Pablo Martin Adalia,R,,ESP,17.1,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,222,170,1468,1
@@ -475,10 +475,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-1750,Valladolid CH,Hard,32,C,20050725,9,103635,,Q,Andrew Derer,U,,AUS,24.8,104372,5,,Alex Bogdanovic,L,183,GBR,21.1,1-6 6-3 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,542,41,195,203
 2005-1750,Valladolid CH,Hard,32,C,20050725,10,104979,,,Andrey Golubev,R,185,KAZ,18.0,104936,,WC,Jorge Hernando Ruano,U,,ESP,18.1,3-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,463,56,1468,1
 2005-1750,Valladolid CH,Hard,32,C,20050725,11,104719,,,Marcel Granollers,R,190,ESP,19.2,104557,,,Andis Juska,R,,LAT,20.1,1-6 6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,298,114,480,52
-2005-1750,Valladolid CH,Hard,32,C,20050725,12,103157,4,,Arvind Parmar,R,193,GBR,27.3,103926,,,Daniel Munoz de la Nava,L,,ESP,23.4,6-2 6-7(6) 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,184,222,488,51
+2005-1750,Valladolid CH,Hard,32,C,20050725,12,103157,4,,Arvind Parmar,R,193,GBR,27.3,103926,,,Daniel Munoz de la Nava,L,178,ESP,23.4,6-2 6-7(6) 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,184,222,488,51
 2005-1750,Valladolid CH,Hard,32,C,20050725,13,103580,7,,Alexander Peya,R,183,AUT,25.0,103653,,Q,Jasper Smit,R,,NED,24.6,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,219,173,496,50
-2005-1750,Valladolid CH,Hard,32,C,20050725,14,104629,,Q,Adrian Menendez Maceiras,R,,ESP,19.7,103529,,,Aisam Ul Haq Qureshi,R,183,PAK,25.3,3-6 6-3 7-6(9),3,R32,,,,,,,,,,,,,,,,,,,,701,22,331,100
-2005-1750,Valladolid CH,Hard,32,C,20050725,15,103708,,,Jaroslav Pospisil,R,,CZE,24.4,104354,,,Daniele Giorgini,R,180,ITA,21.2,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,401,69,404,68
+2005-1750,Valladolid CH,Hard,32,C,20050725,14,104629,,Q,Adrian Menendez Maceiras,R,185,ESP,19.7,103529,,,Aisam Ul Haq Qureshi,R,183,PAK,25.3,3-6 6-3 7-6(9),3,R32,,,,,,,,,,,,,,,,,,,,701,22,331,100
+2005-1750,Valladolid CH,Hard,32,C,20050725,15,103708,,,Jaroslav Pospisil,R,176,CZE,24.4,104354,,,Daniele Giorgini,R,180,ITA,21.2,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,401,69,404,68
 2005-1750,Valladolid CH,Hard,32,C,20050725,16,104499,2,,Jimmy Wang,R,178,TPE,20.4,109110,,WC,Eduardo Hernando Celada,U,,ESP,17.1,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,151,273,,
 2005-1750,Valladolid CH,Hard,32,C,20050725,17,104004,,,Filip Prpic,R,173,SWE,23.1,103868,1,,Ivan Navarro,R,183,ESP,23.7,7-6(2) 3-6 7-6(7),3,R16,,,,,,,,,,,,,,,,,,,,281,126,159,262
 2005-1750,Valladolid CH,Hard,32,C,20050725,18,103538,,,James Auckland,R,,GBR,25.3,103956,8,,Stefan Wauters,R,,BEL,23.3,4-6 6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,302,112,222,170
@@ -486,18 +486,18 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-1750,Valladolid CH,Hard,32,C,20050725,20,102788,,,Jan Vacek,R,198,CZE,29.2,103938,,,Igor Zelenay,R,198,SVK,23.4,6-4 1-6 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,259,138,285,123
 2005-1750,Valladolid CH,Hard,32,C,20050725,21,103635,,Q,Andrew Derer,U,,AUS,24.8,104979,,,Andrey Golubev,R,185,KAZ,18.0,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,542,41,463,56
 2005-1750,Valladolid CH,Hard,32,C,20050725,22,103157,4,,Arvind Parmar,R,193,GBR,27.3,104719,,,Marcel Granollers,R,190,ESP,19.2,7-6(5) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,184,222,298,114
-2005-1750,Valladolid CH,Hard,32,C,20050725,23,104629,,Q,Adrian Menendez Maceiras,R,,ESP,19.7,103580,7,,Alexander Peya,R,183,AUT,25.0,6-4 3-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,701,22,219,173
-2005-1750,Valladolid CH,Hard,32,C,20050725,24,104499,2,,Jimmy Wang,R,178,TPE,20.4,103708,,,Jaroslav Pospisil,R,,CZE,24.4,5-7 7-6(7) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,151,273,401,69
+2005-1750,Valladolid CH,Hard,32,C,20050725,23,104629,,Q,Adrian Menendez Maceiras,R,185,ESP,19.7,103580,7,,Alexander Peya,R,183,AUT,25.0,6-4 3-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,701,22,219,173
+2005-1750,Valladolid CH,Hard,32,C,20050725,24,104499,2,,Jimmy Wang,R,178,TPE,20.4,103708,,,Jaroslav Pospisil,R,176,CZE,24.4,5-7 7-6(7) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,151,273,401,69
 2005-1750,Valladolid CH,Hard,32,C,20050725,25,104004,,,Filip Prpic,R,173,SWE,23.1,103538,,,James Auckland,R,,GBR,25.3,7-5 6-4,3,QF,,,,,,,,,,,,,,,,,,,,281,126,302,112
 2005-1750,Valladolid CH,Hard,32,C,20050725,26,102788,,,Jan Vacek,R,198,CZE,29.2,104470,,Q,Komlavi Loglo,R,183,TOG,20.5,7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,259,138,476,54
 2005-1750,Valladolid CH,Hard,32,C,20050725,27,103635,,Q,Andrew Derer,U,,AUS,24.8,103157,4,,Arvind Parmar,R,193,GBR,27.3,7-6(5) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,542,41,184,222
-2005-1750,Valladolid CH,Hard,32,C,20050725,28,104499,2,,Jimmy Wang,R,178,TPE,20.4,104629,,Q,Adrian Menendez Maceiras,R,,ESP,19.7,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,151,273,701,22
+2005-1750,Valladolid CH,Hard,32,C,20050725,28,104499,2,,Jimmy Wang,R,178,TPE,20.4,104629,,Q,Adrian Menendez Maceiras,R,185,ESP,19.7,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,151,273,701,22
 2005-1750,Valladolid CH,Hard,32,C,20050725,29,104004,,,Filip Prpic,R,173,SWE,23.1,102788,,,Jan Vacek,R,198,CZE,29.2,7-5 6-4,3,SF,,,,,,,,,,,,,,,,,,,,281,126,259,138
 2005-1750,Valladolid CH,Hard,32,C,20050725,30,104499,2,,Jimmy Wang,R,178,TPE,20.4,103635,,Q,Andrew Derer,U,,AUS,24.8,6-4 7-6(4),3,SF,,,,,,,,,,,,,,,,,,,,151,273,542,41
 2005-1750,Valladolid CH,Hard,32,C,20050725,31,104004,,,Filip Prpic,R,173,SWE,23.1,104499,2,,Jimmy Wang,R,178,TPE,20.4,6-2 7-6(5),3,F,,,,,,,,,,,,,,,,,,,,281,126,151,273
 2005-1763,Genova CH,Clay,32,C,20050905,1,104262,,,Flavio Cipolla,R,173,ITA,21.8,103169,1,,Oscar Hernandez,R,180,ESP,27.3,7-5 2-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,271,136,78,503
 2005-1763,Genova CH,Clay,32,C,20050905,2,103228,,,Marcos Daniel,R,180,BRA,27.1,103820,,,Alan Mackin,R,183,GBR,24.0,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,148,287,234,160
-2005-1763,Genova CH,Clay,32,C,20050905,3,102851,,,Giorgio Galimberti,R,180,ITA,28.9,104851,,WC,Gianluca Naso,R,,ITA,18.6,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,236,159,697,23
+2005-1763,Genova CH,Clay,32,C,20050905,3,102851,,,Giorgio Galimberti,R,180,ITA,28.9,104851,,WC,Gianluca Naso,R,193,ITA,18.6,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,236,159,697,23
 2005-1763,Genova CH,Clay,32,C,20050905,4,102231,7,,Alex Calatrava,R,190,ESP,32.2,103290,,Q,Radim Zitko,R,,CZE,26.7,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,145,290,442,62
 2005-1763,Genova CH,Clay,32,C,20050905,5,103521,,,Andrea Stoppini,R,190,ITA,25.4,103581,3,,Flavio Saretta,R,183,BRA,25.1,2-6 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,256,146,106,408
 2005-1763,Genova CH,Clay,32,C,20050905,6,104206,,Q,Alberto Giraudo,L,,ITA,22.1,103823,,,Denis Gremelmayr,L,183,GER,24.0,0-6 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,963,9,276,134
@@ -510,7 +510,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-1763,Genova CH,Clay,32,C,20050905,13,103373,,,Sergio Roitman,R,185,ARG,26.2,103594,5,,Oliver Marach,R,185,AUT,25.1,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,235,159,129,348
 2005-1763,Genova CH,Clay,32,C,20050905,14,102997,,Q,Hermes Gamonal,R,180,CHI,28.2,104691,,WC,Filippo Figliomeni,R,,ITA,19.4,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,593,34,816,15
 2005-1763,Genova CH,Clay,32,C,20050905,15,104620,,,Simone Bolelli,R,183,ITA,19.8,103626,,,Tomas Tenconi,R,178,ITA,24.9,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,199,197,222,173
-2005-1763,Genova CH,Clay,32,C,20050905,16,103808,2,,Potito Starace,R,188,ITA,24.1,105098,,WC,Alexandre Sidorenko,R,,FRA,17.5,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,100,418,1278,3
+2005-1763,Genova CH,Clay,32,C,20050905,16,103808,2,,Potito Starace,R,188,ITA,24.1,105098,,WC,Alexandre Sidorenko,R,185,FRA,17.5,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,100,418,1278,3
 2005-1763,Genova CH,Clay,32,C,20050905,17,104262,,,Flavio Cipolla,R,173,ITA,21.8,103228,,,Marcos Daniel,R,180,BRA,27.1,7-5 6-0,3,R16,,,,,,,,,,,,,,,,,,,,271,136,148,287
 2005-1763,Genova CH,Clay,32,C,20050905,18,102851,,,Giorgio Galimberti,R,180,ITA,28.9,102231,7,,Alex Calatrava,R,190,ESP,32.2,4-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,236,159,145,290
 2005-1763,Genova CH,Clay,32,C,20050905,19,103521,,,Andrea Stoppini,R,190,ITA,25.4,104206,,Q,Alberto Giraudo,L,,ITA,22.1,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,256,146,963,9
@@ -567,7 +567,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-1796,St. Brieuc CH,Clay,32,C,20050321,8,103455,7,,Michal Mertinak,R,180,SVK,25.4,104004,,,Filip Prpic,R,173,SWE,22.8,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,167,263,251,158
 2005-1796,St. Brieuc CH,Clay,32,C,20050321,9,102967,5,,Marc Gicquel,R,188,FRA,27.9,103925,,,Gabriel Moraru,R,180,ROU,23.1,3-6 6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,153,291,258,152
 2005-1796,St. Brieuc CH,Clay,32,C,20050321,10,103435,,,Massimo Dellacqua,R,193,ITA,25.5,103003,,WC,Jean Francois Bachelot,R,183,FRA,27.7,4-6 7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,257,152,449,58
-2005-1796,St. Brieuc CH,Clay,32,C,20050321,11,103956,,Q,Stefan Wauters,R,,BEL,23.0,103646,,Q,Lars Uebel,R,,GER,24.4,3-6 6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,306,115,358,88
+2005-1796,St. Brieuc CH,Clay,32,C,20050321,11,103956,,Q,Stefan Wauters,R,,BEL,23.0,103646,,Q,Lars Uebel,R,180,GER,24.4,3-6 6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,306,115,358,88
 2005-1796,St. Brieuc CH,Clay,32,C,20050321,12,103105,3,,Ruben Ramirez Hidalgo,R,183,ESP,27.2,103967,,Q,Michael Lammer,R,185,SUI,22.9,3-6 6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,144,310,371,85
 2005-1796,St. Brieuc CH,Clay,32,C,20050321,13,103534,6,,Nicolas Devilder,L,173,FRA,24.9,103837,,,Didac Perez,R,178,ESP,23.5,6-3 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,186,235,241,165
 2005-1796,St. Brieuc CH,Clay,32,C,20050321,14,104181,,,Victor Ionita,R,185,ROU,21.8,103521,,,Andrea Stoppini,R,190,ITA,25.0,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,225,179,240,165
@@ -779,7 +779,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-2118,Saransk CH,Clay,32,C,20050801,3,103824,,Q,Orest Tereshchuk,R,,UKR,23.9,109711,,WC,Igor Pavlov,R,,RUS,,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,782,15,,
 2005-2118,Saransk CH,Clay,32,C,20050801,4,103467,5,,Victor Bruthans,R,,SVK,25.7,104707,,WC,Denis Matsukevitch,R,190,RUS,19.3,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,262,136,473,55
 2005-2118,Saransk CH,Clay,32,C,20050801,5,104209,3,,Rainer Eitzinger,R,178,AUT,22.0,103622,,,Bo Ram Cha,R,,KOR,24.9,4-6 6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,300,112,664,26
-2005-2118,Saransk CH,Clay,32,C,20050801,6,104149,,,Adrian Cruciat,R,,ROU,22.3,104100,,,Evgueni Smirnov,U,,RUS,22.6,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,356,87,444,60
+2005-2118,Saransk CH,Clay,32,C,20050801,6,104149,,,Adrian Cruciat,R,185,ROU,22.3,104100,,,Evgueni Smirnov,U,,RUS,22.6,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,356,87,444,60
 2005-2118,Saransk CH,Clay,32,C,20050801,7,104217,,,Simon Stadler,L,183,GER,22.0,104505,,WC,Konstantin Kravchuk,R,190,RUS,20.4,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,381,77,648,28
 2005-2118,Saransk CH,Clay,32,C,20050801,8,104262,8,,Flavio Cipolla,R,173,ITA,21.7,103918,,,Dominique Coene,R,,BEL,23.5,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,314,107,475,54
 2005-2118,Saransk CH,Clay,32,C,20050801,9,103402,,,Peter Clarke,R,188,IRL,26.0,103949,6,,Ivan Cerovic,L,190,CRO,23.4,7-6(9) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,445,59,304,111
@@ -792,7 +792,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-2118,Saransk CH,Clay,32,C,20050801,16,103857,2,,Igor Kunitsyn,R,180,RUS,23.8,103612,,,Alexey Kedryuk,R,193,KAZ,24.9,6-2 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,188,215,463,56
 2005-2118,Saransk CH,Clay,32,C,20050801,17,104081,1,,Boris Pashanski,R,180,SRB,22.7,104141,,Q,Dmitri Sitak,R,183,RUS,22.4,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,170,238,614,31
 2005-2118,Saransk CH,Clay,32,C,20050801,18,103467,5,,Victor Bruthans,R,,SVK,25.7,103824,,Q,Orest Tereshchuk,R,,UKR,23.9,6-4 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,262,136,782,15
-2005-2118,Saransk CH,Clay,32,C,20050801,19,104209,3,,Rainer Eitzinger,R,178,AUT,22.0,104149,,,Adrian Cruciat,R,,ROU,22.3,6-2 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,300,112,356,87
+2005-2118,Saransk CH,Clay,32,C,20050801,19,104209,3,,Rainer Eitzinger,R,178,AUT,22.0,104149,,,Adrian Cruciat,R,185,ROU,22.3,6-2 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,300,112,356,87
 2005-2118,Saransk CH,Clay,32,C,20050801,20,104262,8,,Flavio Cipolla,R,173,ITA,21.7,104217,,,Simon Stadler,L,183,GER,22.0,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,314,107,381,77
 2005-2118,Saransk CH,Clay,32,C,20050801,21,104291,,Q,Malek Jaziri,R,185,TUN,21.5,103402,,,Peter Clarke,R,188,IRL,26.0,6-7(3) 7-6(7) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,418,67,445,59
 2005-2118,Saransk CH,Clay,32,C,20050801,22,104797,4,,Denis Istomin,R,188,UZB,18.8,102911,,,Andrei Stoliarov,R,178,RUS,28.5,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,301,111,429,64
@@ -813,7 +813,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-2119,Timisoara CH,Clay,32,C,20050801,6,103118,,,Ion Moldovan,R,188,ROU,27.5,104196,,,Carlos Cuadrado,R,180,ESP,22.1,3-6 7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1074,5,334,98
 2005-2119,Timisoara CH,Clay,32,C,20050801,7,103666,,Q,Ilia Kushev,R,,BUL,24.6,109625,,WC,Leonard Gullan,R,,RSA,19.7,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,434,62,,
 2005-2119,Timisoara CH,Clay,32,C,20050801,8,103726,5,,Jean Christophe Faurel,R,175,FRA,24.4,103611,,,Giancarlo Petrazzuolo,R,,ITA,24.9,7-6(5) 5-7 7-5,3,R32,,,,,,,,,,,,,,,,,,,,225,173,332,100
-2005-2119,Timisoara CH,Clay,32,C,20050801,9,103925,6,,Gabriel Moraru,R,180,ROU,23.5,104651,,Q,Martin Alund,R,,ARG,19.5,6-2 2-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,238,156,537,43
+2005-2119,Timisoara CH,Clay,32,C,20050801,9,103925,6,,Gabriel Moraru,R,180,ROU,23.5,104651,,Q,Martin Alund,R,183,ARG,19.5,6-2 2-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,238,156,537,43
 2005-2119,Timisoara CH,Clay,32,C,20050801,10,103564,,,Jakub Herm Zahlava,R,,GER,25.2,103634,,,Emiliano Redondi,R,,ARG,24.8,4-6 6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,327,102,370,81
 2005-2119,Timisoara CH,Clay,32,C,20050801,11,104235,,,Matwe Middelkoop,R,191,NED,21.9,103545,,,Philipp Mullner,R,,AUT,25.3,6-1 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,481,52,1243,3
 2005-2119,Timisoara CH,Clay,32,C,20050801,12,104095,,,David Guez,R,185,FRA,22.6,103209,4,,Leonardo Azzaro,L,188,ITA,27.1,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,295,115,223,174
@@ -869,10 +869,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-2120,Cordenons CH,Clay,32,C,20050815,31,104122,8,,Carlos Berlocq,R,183,ARG,22.5,103592,3,,Jerome Haehnel,R,185,FRA,25.0,7-6(5) 6-4,3,F,,,,,,,,,,,,,,,,,,,,141,305,110,382
 2005-2121,Manta CH,Hard,32,C,20050815,1,103395,1,,Julio Silva,R,173,BRA,26.1,103883,,,Lucas Engel,U,,BRA,23.7,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,171,246,353,87
 2005-2121,Manta CH,Hard,32,C,20050815,2,103983,,,Aleksandar Vlaski,L,,SRB,23.3,104395,,Q,Marcel Felder,R,174,URU,21.1,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,352,87,535,42
-2005-2121,Manta CH,Hard,32,C,20050815,3,102985,,,Gustavo Marcaccio,R,,ARG,28.2,104249,,,Marcelo Melo,R,203,BRA,21.8,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,400,71,317,106
+2005-2121,Manta CH,Hard,32,C,20050815,3,102985,,,Gustavo Marcaccio,R,170,ARG,28.2,104249,,,Marcelo Melo,R,203,BRA,21.8,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,400,71,317,106
 2005-2121,Manta CH,Hard,32,C,20050815,4,103525,7,,Ivan Miranda,R,175,PER,25.4,103848,,,Agustin Tarantino,R,,ARG,23.9,7-5 4-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,318,105,333,93
 2005-2121,Manta CH,Hard,32,C,20050815,5,103999,3,,Thiago Alves,R,178,BRA,23.2,109159,,WC,John Carver,U,,GBR,19.2,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,195,209,,
-2005-2121,Manta CH,Hard,32,C,20050815,6,105053,,Q,Santiago Giraldo,R,188,COL,17.7,103623,,,Jacob Adaktusson,R,,SWE,24.9,6-4 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,399,71,300,115
+2005-2121,Manta CH,Hard,32,C,20050815,6,105053,,Q,Santiago Giraldo,R,188,COL,17.7,103623,,,Jacob Adaktusson,R,193,SWE,24.9,6-4 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,399,71,300,115
 2005-2121,Manta CH,Hard,32,C,20050815,7,103739,,,Jose De Armas,R,,VEN,24.3,109160,,WC,Lorenzo Cava,R,,ECU,19.6,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,313,108,1469,1
 2005-2121,Manta CH,Hard,32,C,20050815,8,104495,8,,Florin Mergea,R,180,ROU,20.5,104179,,,Bruno Echagaray,R,183,MEX,22.2,6-1 6-7(2) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,303,114,356,86
 2005-2121,Manta CH,Hard,32,C,20050815,9,103762,6,,John Paul Fruttero,R,185,USA,24.2,104421,,Q,Martin Vilarrubi,R,,URU,20.9,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,227,169,785,15
@@ -884,14 +884,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-2121,Manta CH,Hard,32,C,20050815,15,103845,,,Lesley Joseph,U,,USA,23.9,104113,,,Carlos Salamanca,L,196,COL,22.5,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,332,95,328,99
 2005-2121,Manta CH,Hard,32,C,20050815,16,104136,2,,Santiago Gonzalez,R,190,MEX,22.4,104314,,,Brian Dabul,L,170,ARG,21.4,6-4 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,193,215,354,87
 2005-2121,Manta CH,Hard,32,C,20050815,17,103983,,,Aleksandar Vlaski,L,,SRB,23.3,103395,1,,Julio Silva,R,173,BRA,26.1,6-4 3-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,352,87,171,246
-2005-2121,Manta CH,Hard,32,C,20050815,18,102985,,,Gustavo Marcaccio,R,,ARG,28.2,103525,7,,Ivan Miranda,R,175,PER,25.4,7-6(4) 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,400,71,318,105
+2005-2121,Manta CH,Hard,32,C,20050815,18,102985,,,Gustavo Marcaccio,R,170,ARG,28.2,103525,7,,Ivan Miranda,R,175,PER,25.4,7-6(4) 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,400,71,318,105
 2005-2121,Manta CH,Hard,32,C,20050815,19,103999,3,,Thiago Alves,R,178,BRA,23.2,105053,,Q,Santiago Giraldo,R,188,COL,17.7,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,195,209,399,71
 2005-2121,Manta CH,Hard,32,C,20050815,20,104495,8,,Florin Mergea,R,180,ROU,20.5,103739,,,Jose De Armas,R,,VEN,24.3,6-2 6-7(4) 4-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,303,114,313,108
 2005-2121,Manta CH,Hard,32,C,20050815,21,103762,6,,John Paul Fruttero,R,185,USA,24.2,104260,,WC,Johny De Leon,R,,ECU,21.8,6-0 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,227,169,920,9
 2005-2121,Manta CH,Hard,32,C,20050815,22,104007,,,Andre Ghem,R,193,BRA,23.2,104295,,Q,Raphael Durek,R,188,AUS,21.5,6-4 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,330,96,504,47
 2005-2121,Manta CH,Hard,32,C,20050815,23,104424,,,Go Soeda,R,178,JPN,20.9,104080,,,Alejandro Fabbri,U,,ARG,22.8,7-6(3) 3-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,359,84,726,20
 2005-2121,Manta CH,Hard,32,C,20050815,24,103845,,,Lesley Joseph,U,,USA,23.9,104136,2,,Santiago Gonzalez,R,190,MEX,22.4,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,332,95,193,215
-2005-2121,Manta CH,Hard,32,C,20050815,25,103983,,,Aleksandar Vlaski,L,,SRB,23.3,102985,,,Gustavo Marcaccio,R,,ARG,28.2,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,352,87,400,71
+2005-2121,Manta CH,Hard,32,C,20050815,25,103983,,,Aleksandar Vlaski,L,,SRB,23.3,102985,,,Gustavo Marcaccio,R,170,ARG,28.2,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,352,87,400,71
 2005-2121,Manta CH,Hard,32,C,20050815,26,103999,3,,Thiago Alves,R,178,BRA,23.2,104495,8,,Florin Mergea,R,180,ROU,20.5,6-0 4-6 7-5,3,QF,,,,,,,,,,,,,,,,,,,,195,209,303,114
 2005-2121,Manta CH,Hard,32,C,20050815,27,103762,6,,John Paul Fruttero,R,185,USA,24.2,104007,,,Andre Ghem,R,193,BRA,23.2,6-3 7-5,3,QF,,,,,,,,,,,,,,,,,,,,227,169,330,96
 2005-2121,Manta CH,Hard,32,C,20050815,28,103845,,,Lesley Joseph,U,,USA,23.9,104424,,,Go Soeda,R,178,JPN,20.9,3-6 6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,332,95,359,84
@@ -1097,7 +1097,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-2202,Aracaju CH,Clay,32,C,20051114,11,103916,,,Cristian Villagran,R,180,ARG,23.8,104900,,WC,Raony Carvalho,R,,BRA,18.5,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,384,78,817,16
 2005-2202,Aracaju CH,Clay,32,C,20051114,12,104122,4,,Carlos Berlocq,R,183,ARG,22.7,109488,,LL,Pedro Campos,U,,BRA,19.2,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,107,413,1334,3
 2005-2202,Aracaju CH,Clay,32,C,20051114,13,103228,6,,Marcos Daniel,R,180,BRA,27.3,104698,,WC,Diego Cubas,R,,BRA,19.6,6-0 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,98,438,,
-2005-2202,Aracaju CH,Clay,32,C,20051114,14,104851,,Q,Gianluca Naso,R,,ITA,18.8,103201,,,Adrian Garcia,R,175,CHI,27.4,6-1 3-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,567,40,152,278
+2005-2202,Aracaju CH,Clay,32,C,20051114,14,104851,,Q,Gianluca Naso,R,193,ITA,18.8,103201,,,Adrian Garcia,R,175,CHI,27.4,6-1 3-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,567,40,152,278
 2005-2202,Aracaju CH,Clay,32,C,20051114,15,103610,,LL,Mirko Pehar,R,,USA,25.2,105068,,WC,Nicolas Santos,R,,BRA,17.8,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1286,3,,
 2005-2202,Aracaju CH,Clay,32,C,20051114,16,102839,2,,Nicolas Lapentti,R,188,ECU,29.2,103675,,,Diego Junqueira,L,178,ARG,24.8,6-1 6-7(4) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,88,470,226,164
 2005-2202,Aracaju CH,Clay,32,C,20051114,17,104216,,,Maximo Gonzalez,R,175,ARG,22.3,102548,,,Juan Antonio Marin,R,175,CRC,30.7,6-2 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,225,164,124,366
@@ -1106,12 +1106,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-2202,Aracaju CH,Clay,32,C,20051114,20,103506,,,Martin Vassallo Arguello,R,183,ARG,25.7,103105,8,,Ruben Ramirez Hidalgo,R,183,ESP,27.8,1-6 7-6(1) 3-2 RET,3,R16,,,,,,,,,,,,,,,,,,,,252,141,117,380
 2005-2202,Aracaju CH,Clay,32,C,20051114,21,103594,,,Oliver Marach,R,185,AUT,25.3,103581,7,,Flavio Saretta,R,183,BRA,25.3,3-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,140,300,108,409
 2005-2202,Aracaju CH,Clay,32,C,20051114,22,104122,4,,Carlos Berlocq,R,183,ARG,22.7,103916,,,Cristian Villagran,R,180,ARG,23.8,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,107,413,384,78
-2005-2202,Aracaju CH,Clay,32,C,20051114,23,104851,,Q,Gianluca Naso,R,,ITA,18.8,103228,6,,Marcos Daniel,R,180,BRA,27.3,6-3 6-7(9) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,567,40,98,438
+2005-2202,Aracaju CH,Clay,32,C,20051114,23,104851,,Q,Gianluca Naso,R,193,ITA,18.8,103228,6,,Marcos Daniel,R,180,BRA,27.3,6-3 6-7(9) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,567,40,98,438
 2005-2202,Aracaju CH,Clay,32,C,20051114,24,102839,2,,Nicolas Lapentti,R,188,ECU,29.2,103610,,LL,Mirko Pehar,R,,USA,25.2,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,88,470,1286,3
 2005-2202,Aracaju CH,Clay,32,C,20051114,25,104230,,,Daniel Koellerer,R,180,AUT,22.2,104216,,,Maximo Gonzalez,R,175,ARG,22.3,7-6(7) 3-0 RET,3,QF,,,,,,,,,,,,,,,,,,,,167,240,225,164
 2005-2202,Aracaju CH,Clay,32,C,20051114,26,104081,3,,Boris Pashanski,R,180,SRB,23.0,103506,,,Martin Vassallo Arguello,R,183,ARG,25.7,6-3 0-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,104,429,252,141
 2005-2202,Aracaju CH,Clay,32,C,20051114,27,104122,4,,Carlos Berlocq,R,183,ARG,22.7,103594,,,Oliver Marach,R,185,AUT,25.3,7-5 7-5,3,QF,,,,,,,,,,,,,,,,,,,,107,413,140,300
-2005-2202,Aracaju CH,Clay,32,C,20051114,28,102839,2,,Nicolas Lapentti,R,188,ECU,29.2,104851,,Q,Gianluca Naso,R,,ITA,18.8,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,88,470,567,40
+2005-2202,Aracaju CH,Clay,32,C,20051114,28,102839,2,,Nicolas Lapentti,R,188,ECU,29.2,104851,,Q,Gianluca Naso,R,193,ITA,18.8,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,88,470,567,40
 2005-2202,Aracaju CH,Clay,32,C,20051114,29,104081,3,,Boris Pashanski,R,180,SRB,23.0,104230,,,Daniel Koellerer,R,180,AUT,22.2,6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,104,429,167,240
 2005-2202,Aracaju CH,Clay,32,C,20051114,30,102839,2,,Nicolas Lapentti,R,188,ECU,29.2,104122,4,,Carlos Berlocq,R,183,ARG,22.7,7-5 6-3,3,SF,,,,,,,,,,,,,,,,,,,,88,470,107,413
 2005-2202,Aracaju CH,Clay,32,C,20051114,31,104081,3,,Boris Pashanski,R,180,SRB,23.0,102839,2,,Nicolas Lapentti,R,188,ECU,29.2,7-6(9) 7-5,3,F,,,,,,,,,,,,,,,,,,,,104,429,88,470
@@ -1209,7 +1209,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-2207,Sunrise CH,Hard,32,C,20050314,30,103971,3,,Karol Beck,R,180,SVK,22.9,102720,,,Tomas Zib,R,178,CZE,29.0,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,42,867,80,474
 2005-2207,Sunrise CH,Hard,32,C,20050314,31,103971,3,,Karol Beck,R,180,SVK,22.9,102106,,,Davide Sanguinetti,R,188,ITA,32.5,6-2 6-2,3,F,,,,,,,,,,,,,,,,,,,,42,867,99,428
 2005-2208,Monza CH,Clay,32,C,20050418,1,103521,,Q,Andrea Stoppini,R,190,ITA,25.1,104571,1,,Marcos Baghdatis,R,183,CYP,19.8,3-6 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,241,165,96,449
-2005-2208,Monza CH,Clay,32,C,20050418,2,103534,,,Nicolas Devilder,L,173,FRA,25.0,105063,,WC,Andrea Arnaboldi,L,,ITA,17.3,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,205,201,1110,5
+2005-2208,Monza CH,Clay,32,C,20050418,2,103534,,,Nicolas Devilder,L,173,FRA,25.0,105063,,WC,Andrea Arnaboldi,L,180,ITA,17.3,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,205,201,1110,5
 2005-2208,Monza CH,Clay,32,C,20050418,3,102851,,WC,Giorgio Galimberti,R,180,ITA,28.6,104327,,Q,Steve Darcis,R,178,BEL,21.0,7-6(3) 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,238,168,232,170
 2005-2208,Monza CH,Clay,32,C,20050418,4,104925,6,,Novak Djokovic,R,188,SRB,17.9,104230,,,Daniel Koellerer,R,180,AUT,21.6,6-7(4) 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,153,292,242,165
 2005-2208,Monza CH,Clay,32,C,20050418,5,103487,,,Federico Luzzi,R,188,ITA,25.2,103133,3,,Olivier Mutis,R,175,FRA,27.2,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,190,230,128,345
@@ -1252,7 +1252,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-2209,Nottingham CH,Hard,32,C,20050418,11,103730,,,Jonathan Marray,R,183,GBR,24.1,103679,,,Jeroen Masson,R,,BEL,24.2,2-6 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,261,147,236,169
 2005-2209,Nottingham CH,Hard,32,C,20050418,12,104499,4,,Jimmy Wang,R,178,TPE,20.1,103573,,,Rik De Voest,R,180,RSA,24.8,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,161,284,196,218
 2005-2209,Nottingham CH,Hard,32,C,20050418,13,104250,,Q,Prakash Amritraj,R,188,IND,21.5,103752,8,,Simon Greul,R,185,GER,24.0,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,314,110,203,202
-2005-2209,Nottingham CH,Hard,32,C,20050418,14,103623,,,Jacob Adaktusson,R,,SWE,24.6,104747,,Q,Tom Rushby,R,,GBR,18.8,7-6(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,320,107,845,12
+2005-2209,Nottingham CH,Hard,32,C,20050418,14,103623,,,Jacob Adaktusson,R,193,SWE,24.6,104747,,Q,Tom Rushby,R,,GBR,18.8,7-6(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,320,107,845,12
 2005-2209,Nottingham CH,Hard,32,C,20050418,15,103157,,,Arvind Parmar,R,193,GBR,27.0,103559,,,David Sherwood,R,193,GBR,24.9,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,206,200,259,150
 2005-2209,Nottingham CH,Hard,32,C,20050418,16,102925,2,,Justin Gimelstob,R,196,USA,28.2,104660,,,Sergiy Stakhovsky,R,193,UKR,19.2,1-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,118,364,227,176
 2005-2209,Nottingham CH,Hard,32,C,20050418,17,103208,,,Jean Michel Pequery,R,,FRA,26.8,102571,1,,Gregory Carraz,R,190,FRA,30.0,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,228,176,119,363
@@ -1261,7 +1261,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-2209,Nottingham CH,Hard,32,C,20050418,20,104004,,,Filip Prpic,R,173,SWE,22.8,103520,7,,Pavel Snobel,L,190,CZE,25.1,7-6(3) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,269,141,191,228
 2005-2209,Nottingham CH,Hard,32,C,20050418,21,102965,,,Jamie Delgado,R,178,GBR,28.0,103821,,,Danai Udomchoke,R,173,THA,23.6,6-7(5) 6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,217,189,231,171
 2005-2209,Nottingham CH,Hard,32,C,20050418,22,103730,,,Jonathan Marray,R,183,GBR,24.1,104499,4,,Jimmy Wang,R,178,TPE,20.1,6-2 5-7 6-4,3,R16,,,,,,,,,,,,,,,,,,,,261,147,161,284
-2005-2209,Nottingham CH,Hard,32,C,20050418,23,104250,,Q,Prakash Amritraj,R,188,IND,21.5,103623,,,Jacob Adaktusson,R,,SWE,24.6,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,314,110,320,107
+2005-2209,Nottingham CH,Hard,32,C,20050418,23,104250,,Q,Prakash Amritraj,R,188,IND,21.5,103623,,,Jacob Adaktusson,R,193,SWE,24.6,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,314,110,320,107
 2005-2209,Nottingham CH,Hard,32,C,20050418,24,102925,2,,Justin Gimelstob,R,196,USA,28.2,103157,,,Arvind Parmar,R,193,GBR,27.0,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,118,364,206,200
 2005-2209,Nottingham CH,Hard,32,C,20050418,25,103503,6,,Robin Vik,R,183,CZE,25.1,103208,,,Jean Michel Pequery,R,,FRA,26.8,4-6 6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,187,233,228,176
 2005-2209,Nottingham CH,Hard,32,C,20050418,26,103468,,,Harsh Mankad,R,173,IND,25.4,104004,,,Filip Prpic,R,173,SWE,22.8,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,272,139,269,141
@@ -1377,7 +1377,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-2212,Yuba City CH,Hard,32,C,20050530,12,103701,,,Diego Hartfield,R,185,ARG,24.3,104035,4,,Bobby Reynolds,R,183,USA,22.8,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,274,137,175,249
 2005-2212,Yuba City CH,Hard,32,C,20050530,13,103470,5,,Robert Kendrick,R,190,USA,25.5,103762,,,John Paul Fruttero,R,185,USA,24.0,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,196,217,331,104
 2005-2212,Yuba City CH,Hard,32,C,20050530,14,104330,,,Rajeev Ram,R,193,USA,21.1,103949,,,Ivan Cerovic,L,190,CRO,23.2,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,316,110,340,101
-2005-2212,Yuba City CH,Hard,32,C,20050530,15,104171,,,Richard Bloomfield,R,185,GBR,22.0,103623,,,Jacob Adaktusson,R,,SWE,24.7,4-6 6-4 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,379,84,302,119
+2005-2212,Yuba City CH,Hard,32,C,20050530,15,104171,,,Richard Bloomfield,R,185,GBR,22.0,103623,,,Jacob Adaktusson,R,193,SWE,24.7,4-6 6-4 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,379,84,302,119
 2005-2212,Yuba City CH,Hard,32,C,20050530,16,102834,2,,Paul Goldstein,R,178,USA,28.7,104136,,,Santiago Gonzalez,R,190,MEX,22.2,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,129,329,292,125
 2005-2212,Yuba City CH,Hard,32,C,20050530,17,102925,1,,Justin Gimelstob,R,196,USA,28.3,103739,,Q,Jose De Armas,R,,VEN,24.1,7-5 6-0,3,R16,,,,,,,,,,,,,,,,,,,,111,381,467,54
 2005-2212,Yuba City CH,Hard,32,C,20050530,18,102821,8,,Cecil Mamiit,R,173,PHI,28.9,104173,,WC,Sam Warburg,R,190,USA,22.0,7-5 7-5,3,R16,,,,,,,,,,,,,,,,,,,,236,165,710,21
@@ -1402,7 +1402,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-2251,Pamplona CH,Hard,32,C,20050808,6,104467,,,Lamine Ouahab,R,185,ALG,20.6,101869,,WC,Juan Luis Tati Rascon,R,,ESP,34.4,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,407,69,490,50
 2005-2251,Pamplona CH,Hard,32,C,20050808,7,104095,,,David Guez,R,185,FRA,22.6,109409,,WC,Luis Valencia,R,,GUA,40.0,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,302,115,,
 2005-2251,Pamplona CH,Hard,32,C,20050808,8,104515,,,Mathieu Montcourt,R,183,FRA,20.4,104372,8,,Alex Bogdanovic,L,183,GBR,21.2,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,299,117,199,203
-2005-2251,Pamplona CH,Hard,32,C,20050808,9,103153,6,,Gilles Elseneer,R,188,BEL,27.4,103926,,Q,Daniel Munoz de la Nava,L,,ESP,23.5,6-7(5) 7-6(5) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,176,231,481,52
+2005-2251,Pamplona CH,Hard,32,C,20050808,9,103153,6,,Gilles Elseneer,R,188,BEL,27.4,103926,,Q,Daniel Munoz de la Nava,L,178,ESP,23.5,6-7(5) 7-6(5) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,176,231,481,52
 2005-2251,Pamplona CH,Hard,32,C,20050808,10,104721,,Q,Josselin Ouanna,R,193,FRA,19.3,103538,,,James Auckland,R,,GBR,25.3,6-1 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,392,73,305,113
 2005-2251,Pamplona CH,Hard,32,C,20050808,11,104979,,Q,Andrey Golubev,R,185,KAZ,18.0,103770,,,Kevin Sorensen,R,183,IRL,24.2,6-4 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,436,61,357,84
 2005-2251,Pamplona CH,Hard,32,C,20050808,12,104559,4,,Teymuraz Gabashvili,R,188,RUS,20.2,104004,,,Filip Prpic,R,173,SWE,23.2,5-7 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,163,257,208,187
@@ -1435,7 +1435,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-2252,Vigo CH,Clay,32,C,20050815,8,103868,5,,Ivan Navarro,R,183,ESP,23.8,104739,,WC,Guillermo Alcaide,R,188,ESP,19.2,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,175,241,756,17
 2005-2252,Vigo CH,Clay,32,C,20050815,9,104209,,,Rainer Eitzinger,R,178,AUT,22.1,103893,8,,Paolo Lorenzi,R,183,ITA,23.6,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,294,122,260,140
 2005-2252,Vigo CH,Clay,32,C,20050815,10,103364,,,Javier Genaro Martinez,R,,ESP,26.2,103967,,,Michael Lammer,R,185,SUI,23.3,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,339,91,270,135
-2005-2252,Vigo CH,Clay,32,C,20050815,11,104557,,Q,Andis Juska,R,,LAT,20.2,103646,,,Lars Uebel,R,,GER,24.8,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,477,53,314,107
+2005-2252,Vigo CH,Clay,32,C,20050815,11,104557,,Q,Andis Juska,R,,LAT,20.2,103646,,,Lars Uebel,R,180,GER,24.8,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,477,53,314,107
 2005-2252,Vigo CH,Clay,32,C,20050815,12,103726,4,,Jean Christophe Faurel,R,175,FRA,24.4,104308,,Q,Michal Przysiezny,R,185,POL,21.4,6-4 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,186,222,351,87
 2005-2252,Vigo CH,Clay,32,C,20050815,13,104043,6,,Marc Lopez,R,175,ESP,23.0,103675,,,Diego Junqueira,L,178,ARG,24.6,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,220,173,262,139
 2005-2252,Vigo CH,Clay,32,C,20050815,14,104021,,,Marco Mirnegg,R,180,AUT,23.1,103543,,,David Marrero,R,185,ESP,25.3,6-3 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,287,125,319,105
@@ -1494,7 +1494,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-2273,Orleans CH,Hard,32,C,20050912,5,103917,,,Nicolas Mahut,R,190,FRA,23.6,102148,4,,Fabrice Santoro,R,178,FRA,32.7,6-3 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,167,251,84,469
 2005-2273,Orleans CH,Hard,32,C,20050912,6,104229,,,Yen Hsun Lu,R,180,TPE,22.0,104871,,WC,Jeremy Chardy,R,188,FRA,18.5,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,129,319,588,35
 2005-2273,Orleans CH,Hard,32,C,20050912,7,104154,,,Paul Capdeville,R,190,CHI,22.4,103780,,Q,Eric Butorac,L,190,USA,24.3,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,132,313,1139,5
-2005-2273,Orleans CH,Hard,32,C,20050912,8,103693,7,,Thierry Ascione,R,188,FRA,24.6,105098,,WC,Alexandre Sidorenko,R,,FRA,17.5,3-6 6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,99,417,1210,4
+2005-2273,Orleans CH,Hard,32,C,20050912,8,103693,7,,Thierry Ascione,R,188,FRA,24.6,105098,,WC,Alexandre Sidorenko,R,185,FRA,17.5,3-6 6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,99,417,1210,4
 2005-2273,Orleans CH,Hard,32,C,20050912,9,103444,,,Jean Rene Lisnard,R,173,MON,25.9,103592,6,,Jerome Haehnel,R,185,FRA,25.1,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,137,298,97,425
 2005-2273,Orleans CH,Hard,32,C,20050912,10,103171,,,Raemon Sluiter,R,185,NED,27.4,104095,,Q,David Guez,R,185,FRA,22.7,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,140,294,241,154
 2005-2273,Orleans CH,Hard,32,C,20050912,11,103582,,,Michael Berrer,L,193,GER,25.1,103857,,,Igor Kunitsyn,R,180,RUS,23.9,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,169,247,155,266
@@ -1524,7 +1524,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-2274,Budapest CH,Clay,32,C,20050912,4,104121,6,,Tobias Summerer,R,185,GER,22.6,109029,,WC,Botond Godry,U,,HUN,19.3,5-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,221,172,1411,2
 2005-2274,Budapest CH,Clay,32,C,20050912,5,103505,3,,Vasilis Mazarakis,R,178,GRE,25.5,102603,,,Melvyn Op Der Heijde,R,180,NED,30.2,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,145,288,243,154
 2005-2274,Budapest CH,Clay,32,C,20050912,6,104926,,Q,Fabio Fognini,R,178,ITA,18.3,103679,,,Jeroen Masson,R,,BEL,24.6,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,370,80,223,168
-2005-2274,Budapest CH,Clay,32,C,20050912,7,104676,,,Andreas Beck,L,190,GER,19.6,103623,,,Jacob Adaktusson,R,,SWE,25.0,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,278,131,312,110
+2005-2274,Budapest CH,Clay,32,C,20050912,7,104676,,,Andreas Beck,L,190,GER,19.6,103623,,,Jacob Adaktusson,R,193,SWE,25.0,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,278,131,312,110
 2005-2274,Budapest CH,Clay,32,C,20050912,8,103373,,,Sergio Roitman,R,185,ARG,26.3,104327,7,,Steve Darcis,R,178,BEL,21.5,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,197,204,201,195
 2005-2274,Budapest CH,Clay,32,C,20050912,9,104209,,,Rainer Eitzinger,R,178,AUT,22.2,103726,5,,Jean Christophe Faurel,R,175,FRA,24.5,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,273,135,176,238
 2005-2274,Budapest CH,Clay,32,C,20050912,10,103467,,,Victor Bruthans,R,,SVK,25.8,190030,,WC,Enrico Becuzzi,R,,ITA,32.4,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,259,142,,
@@ -1532,7 +1532,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-2274,Budapest CH,Clay,32,C,20050912,12,103849,4,,Francesco Aldi,R,175,ITA,23.9,103938,,,Igor Zelenay,R,198,SVK,23.5,6-7(6) 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,158,261,293,121
 2005-2274,Budapest CH,Clay,32,C,20050912,13,103209,,,Leonardo Azzaro,L,188,ITA,27.2,104360,8,,Adam Chadaj,L,178,POL,21.3,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,326,102,217,175
 2005-2274,Budapest CH,Clay,32,C,20050912,14,104332,,,Philipp Petzschner,R,185,GER,21.4,190031,,WC,Laszlo Toth,R,,HUN,,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,309,111,1323,3
-2005-2274,Budapest CH,Clay,32,C,20050912,15,104875,,Q,Denes Lukacs,R,180,HUN,18.5,103646,,,Lars Uebel,R,,GER,24.9,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1323,3,295,120
+2005-2274,Budapest CH,Clay,32,C,20050912,15,104875,,Q,Denes Lukacs,R,180,HUN,18.5,103646,,,Lars Uebel,R,180,GER,24.9,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1323,3,295,120
 2005-2274,Budapest CH,Clay,32,C,20050912,16,104081,2,,Boris Pashanski,R,180,SRB,22.8,104678,,Q,Viktor Troicki,R,193,SRB,19.5,3-6 6-3 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,130,317,509,47
 2005-2274,Budapest CH,Clay,32,C,20050912,17,103035,1,,Alessio Di Mauro,L,185,ITA,28.0,104494,,,Adrian Ungur,R,178,ROU,20.6,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,118,370,255,144
 2005-2274,Budapest CH,Clay,32,C,20050912,18,103689,,Q,Guillermo Carry,L,,ARG,24.6,104121,6,,Tobias Summerer,R,185,GER,22.6,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,489,50,221,172
@@ -1589,7 +1589,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-234,Belo Horizonte CH,Hard,32,C,20050801,7,103983,,,Aleksandar Vlaski,L,,SRB,23.2,109067,,WC,Luiz Miotto,U,,BRA,18.2,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,369,81,,
 2005-234,Belo Horizonte CH,Hard,32,C,20050801,8,103709,5,,Kristian Pless,R,188,DEN,24.4,103314,,Q,Josh Goffi,R,,BRA,26.5,7-5 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,195,205,706,21
 2005-234,Belo Horizonte CH,Hard,32,C,20050801,9,104136,8,,Santiago Gonzalez,R,190,MEX,22.4,104314,,,Brian Dabul,L,170,ARG,21.4,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,201,198,366,83
-2005-234,Belo Horizonte CH,Hard,32,C,20050801,10,104249,,,Marcelo Melo,R,203,BRA,21.8,103623,,,Jacob Adaktusson,R,,SWE,24.9,3-6 6-4 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,324,104,372,80
+2005-234,Belo Horizonte CH,Hard,32,C,20050801,10,104249,,,Marcelo Melo,R,203,BRA,21.8,103623,,,Jacob Adaktusson,R,193,SWE,24.9,3-6 6-4 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,324,104,372,80
 2005-234,Belo Horizonte CH,Hard,32,C,20050801,11,102667,,,Satoshi Iwabuchi,L,175,JPN,29.8,103848,,,Agustin Tarantino,R,,ARG,23.8,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,277,128,338,93
 2005-234,Belo Horizonte CH,Hard,32,C,20050801,12,103746,,,Miguel Gallardo Valles,R,,MEX,24.3,103395,3,,Julio Silva,R,173,BRA,26.0,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,241,153,167,246
 2005-234,Belo Horizonte CH,Hard,32,C,20050801,13,103762,,,John Paul Fruttero,R,185,USA,24.2,104392,7,,Franco Ferreiro,R,188,BRA,21.0,6-3 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,306,110,205,194
@@ -1710,7 +1710,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-305,Helsinki CH,Hard,32,C,20051114,4,103153,,,Gilles Elseneer,R,188,BEL,27.6,104327,8,,Steve Darcis,R,178,BEL,21.6,7-6(5) 7-6(0),3,R32,,,,,,,,,,,,,,,,,,,,181,220,156,271
 2005-305,Helsinki CH,Hard,32,C,20051114,5,103193,4,,Peter Wessels,R,196,NED,27.5,104768,,WC,Juho Paukku,L,,FIN,19.3,7-6(6) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,114,398,868,13
 2005-305,Helsinki CH,Hard,32,C,20051114,6,103157,,,Arvind Parmar,R,193,GBR,27.6,102538,,WC,Tuomas Ketola,R,185,FIN,30.7,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,198,197,283,122
-2005-305,Helsinki CH,Hard,32,C,20051114,7,104308,,Q,Michal Przysiezny,R,185,POL,21.7,103623,,Q,Jacob Adaktusson,R,,SWE,25.2,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,426,65,294,118
+2005-305,Helsinki CH,Hard,32,C,20051114,7,104308,,Q,Michal Przysiezny,R,185,POL,21.7,103623,,Q,Jacob Adaktusson,R,193,SWE,25.2,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,426,65,294,118
 2005-305,Helsinki CH,Hard,32,C,20051114,8,102905,,,Stefan Koubek,L,175,AUT,28.8,104468,5,,Gilles Simon,R,183,FRA,20.8,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,183,215,125,365
 2005-305,Helsinki CH,Hard,32,C,20051114,9,104332,,,Philipp Petzschner,R,185,GER,21.6,104386,6,,Janko Tipsarevic,R,180,SRB,21.3,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,298,116,134,311
 2005-305,Helsinki CH,Hard,32,C,20051114,10,103761,,,Tomas Cakl,R,178,CZE,24.5,103393,,WC,Yuri Schukin,R,188,KAZ,26.3,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,204,184,282,123
@@ -1740,7 +1740,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-3341,Cuenca CH,Clay,32,C,20050613,3,103530,,Q,Zack Fleishman,R,188,USA,25.2,103977,,,Nicholas Monroe,R,178,USA,23.1,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,540,43,515,47
 2005-3341,Cuenca CH,Clay,32,C,20050613,4,103910,,,Tres Davis,R,180,USA,23.4,103634,6,,Emiliano Redondi,R,,ARG,24.7,7-6(1) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,454,57,357,90
 2005-3341,Cuenca CH,Clay,32,C,20050613,5,103188,3,,Michael Russell,R,173,USA,27.1,103524,,Q,Diego Alvarez,R,,ARG,25.2,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,264,139,601,33
-2005-3341,Cuenca CH,Clay,32,C,20050613,6,104136,,LL,Santiago Gonzalez,R,190,MEX,22.2,102985,,,Gustavo Marcaccio,R,,ARG,28.1,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,278,129,417,67
+2005-3341,Cuenca CH,Clay,32,C,20050613,6,104136,,LL,Santiago Gonzalez,R,190,MEX,22.2,102985,,,Gustavo Marcaccio,R,170,ARG,28.1,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,278,129,417,67
 2005-3341,Cuenca CH,Clay,32,C,20050613,7,104007,,,Andre Ghem,R,193,BRA,23.0,104311,,,Leonardo Tavares,R,185,POR,21.3,6-7(2) 7-6(8) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,448,58,504,48
 2005-3341,Cuenca CH,Clay,32,C,20050613,8,103762,5,,John Paul Fruttero,R,185,USA,24.1,104253,,,Juan Martin Aranguren,R,,ARG,21.6,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,342,98,572,38
 2005-3341,Cuenca CH,Clay,32,C,20050613,9,103622,,,Bo Ram Cha,R,,KOR,24.7,104208,7,,Damian Patriarca,R,,ARG,21.9,0-6 6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,848,13,358,89
@@ -1868,7 +1868,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-3353,Kolding CH,Carpet,32,C,20051017,7,103157,,,Arvind Parmar,R,193,GBR,27.5,104121,,,Tobias Summerer,R,185,GER,22.7,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,198,197,211,181
 2005-3353,Kolding CH,Carpet,32,C,20051017,8,101868,,Q,Dick Norman,L,203,BEL,34.6,102694,6,,Lars Burgsmuller,R,183,GER,29.8,6-3 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,113,378,128,348
 2005-3353,Kolding CH,Carpet,32,C,20051017,9,104098,7,,Dmitry Tursunov,R,185,RUS,22.8,103564,,,Jakub Herm Zahlava,R,,GER,25.4,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,93,456,213,176
-2005-3353,Kolding CH,Carpet,32,C,20051017,10,103623,,,Jacob Adaktusson,R,,SWE,25.1,102603,,,Melvyn Op Der Heijde,R,180,NED,30.3,6-4 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,330,99,231,154
+2005-3353,Kolding CH,Carpet,32,C,20051017,10,103623,,,Jacob Adaktusson,R,193,SWE,25.1,102603,,,Melvyn Op Der Heijde,R,180,NED,30.3,6-4 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,330,99,231,154
 2005-3353,Kolding CH,Carpet,32,C,20051017,11,103857,,,Igor Kunitsyn,R,180,RUS,24.0,103520,,,Pavel Snobel,L,190,CZE,25.6,3-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,133,326,235,152
 2005-3353,Kolding CH,Carpet,32,C,20051017,12,103193,4,,Peter Wessels,R,196,NED,27.4,103747,,Q,Dominik Meffert,R,198,GER,24.5,7-6(5) 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,101,412,367,83
 2005-3353,Kolding CH,Carpet,32,C,20051017,13,103171,8,,Raemon Sluiter,R,185,NED,27.5,102615,,,Dennis Van Scheppingen,R,185,NED,30.2,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,138,300,263,132
@@ -1879,7 +1879,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-3353,Kolding CH,Carpet,32,C,20051017,18,104559,,,Teymuraz Gabashvili,R,188,RUS,20.4,102179,5,,Antony Dupuis,R,185,FRA,32.6,7-6(4) 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,149,279,122,363
 2005-3353,Kolding CH,Carpet,32,C,20051017,19,104327,,,Steve Darcis,R,178,BEL,21.5,102571,,,Gregory Carraz,R,190,FRA,30.5,6-4 6-7(1) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,191,203,154,262
 2005-3353,Kolding CH,Carpet,32,C,20051017,20,103157,,,Arvind Parmar,R,193,GBR,27.5,101868,,Q,Dick Norman,L,203,BEL,34.6,7-6(4) 6-7(9) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,198,197,113,378
-2005-3353,Kolding CH,Carpet,32,C,20051017,21,104098,7,,Dmitry Tursunov,R,185,RUS,22.8,103623,,,Jacob Adaktusson,R,,SWE,25.1,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,93,456,330,99
+2005-3353,Kolding CH,Carpet,32,C,20051017,21,104098,7,,Dmitry Tursunov,R,185,RUS,22.8,103623,,,Jacob Adaktusson,R,193,SWE,25.1,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,93,456,330,99
 2005-3353,Kolding CH,Carpet,32,C,20051017,22,103857,,,Igor Kunitsyn,R,180,RUS,24.0,103193,4,,Peter Wessels,R,196,NED,27.4,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,133,326,101,412
 2005-3353,Kolding CH,Carpet,32,C,20051017,23,103171,8,,Raemon Sluiter,R,185,NED,27.5,103582,,,Michael Berrer,L,193,GER,25.2,6-7(2) 7-6(5) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,138,300,152,275
 2005-3353,Kolding CH,Carpet,32,C,20051017,24,105095,,Q,Evgeny Korolev,R,185,KAZ,17.6,104499,2,,Jimmy Wang,R,178,TPE,20.6,6-1 4-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,251,141,98,423
@@ -1957,12 +1957,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-3356,Busan CH,Hard,32,C,20051031,3,103580,,,Alexander Peya,R,183,AUT,25.3,102667,,,Satoshi Iwabuchi,L,175,JPN,30.0,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,336,98,351,90
 2005-3356,Busan CH,Hard,32,C,20051031,4,103997,6,,Lukasz Kubot,R,190,POL,23.4,103393,,,Yuri Schukin,R,188,KAZ,26.3,2-6 6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,143,293,279,123
 2005-3356,Busan CH,Hard,32,C,20051031,5,103752,4,,Simon Greul,R,185,GER,24.5,104250,,,Prakash Amritraj,R,188,IND,22.0,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,130,336,274,129
-2005-3356,Busan CH,Hard,32,C,20051031,6,103646,,,Lars Uebel,R,,GER,25.0,103523,,,Rohan Bopanna,R,190,IND,25.6,3-6 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,275,127,305,110
+2005-3356,Busan CH,Hard,32,C,20051031,6,103646,,,Lars Uebel,R,180,GER,25.0,103523,,,Rohan Bopanna,R,190,IND,25.6,3-6 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,275,127,305,110
 2005-3356,Busan CH,Hard,32,C,20051031,7,103902,,,Jan Mertl,R,190,CZE,23.8,104719,,,Marcel Granollers,R,190,ESP,19.5,7-5 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,232,158,284,120
 2005-3356,Busan CH,Hard,32,C,20051031,8,102300,,,Gouichi Motomura,R,173,JPN,31.8,103821,5,,Danai Udomchoke,R,173,THA,24.2,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,283,120,140,299
 2005-3356,Busan CH,Hard,32,C,20051031,9,104639,,,Wayne Odesnik,L,180,USA,19.9,103369,7,,Melle Van Gemerden,R,183,NED,26.4,4-6 7-6(6) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,297,113,149,282
 2005-3356,Busan CH,Hard,32,C,20051031,10,103630,,Q,Martijn Van Haasteren,R,,AHO,25.1,104741,,WC,Dong Whee Choi,U,,KOR,19.4,4-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,644,29,,
-2005-3356,Busan CH,Hard,32,C,20051031,11,103623,,,Jacob Adaktusson,R,,SWE,25.1,104454,,Q,Murad Inoyatov,R,,UZB,20.9,6-7(2) 6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,298,113,608,34
+2005-3356,Busan CH,Hard,32,C,20051031,11,103623,,,Jacob Adaktusson,R,193,SWE,25.1,104454,,Q,Murad Inoyatov,R,,UZB,20.9,6-7(2) 6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,298,113,608,34
 2005-3356,Busan CH,Hard,32,C,20051031,12,102703,3,,Hyung Taik Lee,R,180,KOR,29.8,103682,,WC,Kyu Tae Im,R,185,KOR,24.8,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,91,463,376,80
 2005-3356,Busan CH,Hard,32,C,20051031,13,103709,8,,Kristian Pless,R,188,DEN,24.7,104753,,WC,Woong Sun Jun,R,190,KOR,19.3,4-5 RET,3,R32,,,,,,,,,,,,,,,,,,,,163,245,618,32
 2005-3356,Busan CH,Hard,32,C,20051031,14,102864,,Q,Frank Moser,R,193,GER,29.1,104209,,,Rainer Eitzinger,R,178,AUT,22.3,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,624,31,214,176
@@ -1970,10 +1970,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-3356,Busan CH,Hard,32,C,20051031,16,103451,2,,Bjorn Phau,R,175,GER,26.0,102143,,,Nicolas Thomann,R,183,FRA,32.9,6-0 7-5,3,R32,,,,,,,,,,,,,,,,,,,,86,479,222,166
 2005-3356,Busan CH,Hard,32,C,20051031,17,103573,,,Rik De Voest,R,180,RSA,25.4,103104,,,Bjorn Rehnquist,R,175,SWE,27.8,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,185,208,682,25
 2005-3356,Busan CH,Hard,32,C,20051031,18,103997,6,,Lukasz Kubot,R,190,POL,23.4,103580,,,Alexander Peya,R,183,AUT,25.3,6-3 5-7 7-5,3,R16,,,,,,,,,,,,,,,,,,,,143,293,336,98
-2005-3356,Busan CH,Hard,32,C,20051031,19,103752,4,,Simon Greul,R,185,GER,24.5,103646,,,Lars Uebel,R,,GER,25.0,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,130,336,275,127
+2005-3356,Busan CH,Hard,32,C,20051031,19,103752,4,,Simon Greul,R,185,GER,24.5,103646,,,Lars Uebel,R,180,GER,25.0,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,130,336,275,127
 2005-3356,Busan CH,Hard,32,C,20051031,20,103902,,,Jan Mertl,R,190,CZE,23.8,102300,,,Gouichi Motomura,R,173,JPN,31.8,6-2 6-7(3) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,232,158,283,120
 2005-3356,Busan CH,Hard,32,C,20051031,21,103630,,Q,Martijn Van Haasteren,R,,AHO,25.1,104639,,,Wayne Odesnik,L,180,USA,19.9,6-3 5-2 RET,3,R16,,,,,,,,,,,,,,,,,,,,644,29,297,113
-2005-3356,Busan CH,Hard,32,C,20051031,22,102703,3,,Hyung Taik Lee,R,180,KOR,29.8,103623,,,Jacob Adaktusson,R,,SWE,25.1,6-3 RET,3,R16,,,,,,,,,,,,,,,,,,,,91,463,298,113
+2005-3356,Busan CH,Hard,32,C,20051031,22,102703,3,,Hyung Taik Lee,R,180,KOR,29.8,103623,,,Jacob Adaktusson,R,193,SWE,25.1,6-3 RET,3,R16,,,,,,,,,,,,,,,,,,,,91,463,298,113
 2005-3356,Busan CH,Hard,32,C,20051031,23,103709,8,,Kristian Pless,R,188,DEN,24.7,102864,,Q,Frank Moser,R,193,GER,29.1,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,163,245,624,31
 2005-3356,Busan CH,Hard,32,C,20051031,24,103451,2,,Bjorn Phau,R,175,GER,26.0,104928,,WC,Sun Yong Kim Jr,R,,KOR,18.4,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,86,479,867,13
 2005-3356,Busan CH,Hard,32,C,20051031,25,103997,6,,Lukasz Kubot,R,190,POL,23.4,103573,,,Rik De Voest,R,180,RSA,25.4,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,143,293,185,208
@@ -2116,24 +2116,24 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-359,Bogota CH,Clay,32,C,20050418,7,104027,,,Pablo Gonzalez,R,178,COL,22.7,109297,,WC,Noel Moossa,U,,USA,,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,426,61,,
 2005-359,Bogota CH,Clay,32,C,20050418,8,104268,6,,Alejandro Falla,L,185,COL,21.4,103030,,,Norikazu Sugiyama,R,178,JPN,27.7,6-0 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,240,166,344,97
 2005-359,Bogota CH,Clay,32,C,20050418,9,103373,7,,Sergio Roitman,R,185,ARG,25.9,104535,,,Daniel Garza,R,,MEX,20.0,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,262,147,497,48
-2005-359,Bogota CH,Clay,32,C,20050418,10,102985,,,Gustavo Marcaccio,R,,ARG,27.9,104008,,Q,Carlos Avellan,R,,ECU,22.8,7-6(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,563,39,702,23
+2005-359,Bogota CH,Clay,32,C,20050418,10,102985,,,Gustavo Marcaccio,R,170,ARG,27.9,104008,,Q,Carlos Avellan,R,,ECU,22.8,7-6(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,563,39,702,23
 2005-359,Bogota CH,Clay,32,C,20050418,11,103634,,,Emiliano Redondi,R,,ARG,24.5,104531,,Q,Sergio Ramirez,U,,COL,20.0,6-3 1-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,376,82,930,8
 2005-359,Bogota CH,Clay,32,C,20050418,12,104154,,,Paul Capdeville,R,190,CHI,22.0,104392,3,,Franco Ferreiro,R,188,BRA,20.7,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,295,121,204,202
 2005-359,Bogota CH,Clay,32,C,20050418,13,103228,5,,Marcos Daniel,R,180,BRA,26.7,104639,,,Wayne Odesnik,L,180,USA,19.4,5-7 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,211,195,363,88
-2005-359,Bogota CH,Clay,32,C,20050418,14,104857,,Q,Robert Farah,R,193,COL,18.2,103926,,,Daniel Munoz de la Nava,L,,ESP,23.2,6-7(6) 5-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,1468,1,342,97
+2005-359,Bogota CH,Clay,32,C,20050418,14,104857,,Q,Robert Farah,R,193,COL,18.2,103926,,,Daniel Munoz de la Nava,L,178,ESP,23.2,6-7(6) 5-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,1468,1,342,97
 2005-359,Bogota CH,Clay,32,C,20050418,15,104113,,,Carlos Salamanca,L,196,COL,22.2,108701,,Q,Juan Sebastian Cabal,R,185,COL,18.9,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,427,61,958,7
 2005-359,Bogota CH,Clay,32,C,20050418,16,104179,,,Bruno Echagaray,R,183,MEX,21.9,104122,2,,Carlos Berlocq,R,183,ARG,22.2,7-6(1) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,311,111,186,241
 2005-359,Bogota CH,Clay,32,C,20050418,17,103009,1,,Razvan Sabau,R,185,ROU,27.8,104136,,,Santiago Gonzalez,R,190,MEX,22.1,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,155,289,312,111
 2005-359,Bogota CH,Clay,32,C,20050418,18,103701,,,Diego Hartfield,R,185,ARG,24.2,103525,8,,Ivan Miranda,R,175,PER,25.1,7-6(1) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,341,97,277,134
 2005-359,Bogota CH,Clay,32,C,20050418,19,105053,,,Santiago Giraldo,R,188,COL,17.3,103762,,,John Paul Fruttero,R,185,USA,23.9,7-6(4) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,687,24,326,105
 2005-359,Bogota CH,Clay,32,C,20050418,20,104027,,,Pablo Gonzalez,R,178,COL,22.7,104268,6,,Alejandro Falla,L,185,COL,21.4,6-7(6) 6-4 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,426,61,240,166
-2005-359,Bogota CH,Clay,32,C,20050418,21,102985,,,Gustavo Marcaccio,R,,ARG,27.9,103373,7,,Sergio Roitman,R,185,ARG,25.9,7-6(6) 0-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,563,39,262,147
+2005-359,Bogota CH,Clay,32,C,20050418,21,102985,,,Gustavo Marcaccio,R,170,ARG,27.9,103373,7,,Sergio Roitman,R,185,ARG,25.9,7-6(6) 0-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,563,39,262,147
 2005-359,Bogota CH,Clay,32,C,20050418,22,104154,,,Paul Capdeville,R,190,CHI,22.0,103634,,,Emiliano Redondi,R,,ARG,24.5,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,295,121,376,82
 2005-359,Bogota CH,Clay,32,C,20050418,23,103228,5,,Marcos Daniel,R,180,BRA,26.7,104857,,Q,Robert Farah,R,193,COL,18.2,7-5 7-5,3,R16,,,,,,,,,,,,,,,,,,,,211,195,1468,1
 2005-359,Bogota CH,Clay,32,C,20050418,24,104113,,,Carlos Salamanca,L,196,COL,22.2,104179,,,Bruno Echagaray,R,183,MEX,21.9,7-6(5) 7-6(8),3,R16,,,,,,,,,,,,,,,,,,,,427,61,311,111
 2005-359,Bogota CH,Clay,32,C,20050418,25,103701,,,Diego Hartfield,R,185,ARG,24.2,103009,1,,Razvan Sabau,R,185,ROU,27.8,6-2 5-7 6-4,3,QF,,,,,,,,,,,,,,,,,,,,341,97,155,289
 2005-359,Bogota CH,Clay,32,C,20050418,26,104027,,,Pablo Gonzalez,R,178,COL,22.7,105053,,,Santiago Giraldo,R,188,COL,17.3,7-6(5) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,426,61,687,24
-2005-359,Bogota CH,Clay,32,C,20050418,27,104154,,,Paul Capdeville,R,190,CHI,22.0,102985,,,Gustavo Marcaccio,R,,ARG,27.9,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,295,121,563,39
+2005-359,Bogota CH,Clay,32,C,20050418,27,104154,,,Paul Capdeville,R,190,CHI,22.0,102985,,,Gustavo Marcaccio,R,170,ARG,27.9,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,295,121,563,39
 2005-359,Bogota CH,Clay,32,C,20050418,28,103228,5,,Marcos Daniel,R,180,BRA,26.7,104113,,,Carlos Salamanca,L,196,COL,22.2,7-6(5) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,211,195,427,61
 2005-359,Bogota CH,Clay,32,C,20050418,29,104027,,,Pablo Gonzalez,R,178,COL,22.7,103701,,,Diego Hartfield,R,185,ARG,24.2,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,426,61,341,97
 2005-359,Bogota CH,Clay,32,C,20050418,30,104154,,,Paul Capdeville,R,190,CHI,22.0,103228,5,,Marcos Daniel,R,180,BRA,26.7,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,295,121,211,195
@@ -2144,7 +2144,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-361,Santiago CH,Clay,32,C,20051024,4,104081,5,,Boris Pashanski,R,180,SRB,22.9,103490,,,Santiago Ventura,R,183,ESP,25.8,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,119,370,153,276
 2005-361,Santiago CH,Clay,32,C,20051024,5,104926,3,,Fabio Fognini,R,178,ITA,18.4,104477,,WC,Jorge Aguilar,R,178,CHI,20.7,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,345,94,413,69
 2005-361,Santiago CH,Clay,32,C,20051024,6,104216,,Q,Maximo Gonzalez,R,175,ARG,22.2,103204,,,Hugo Armando,R,183,USA,27.4,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,340,96,209,184
-2005-361,Santiago CH,Clay,32,C,20051024,7,103701,,,Diego Hartfield,R,185,ARG,24.7,104149,,LL,Adrian Cruciat,R,,ROU,22.5,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,242,147,356,89
+2005-361,Santiago CH,Clay,32,C,20051024,7,103701,,,Diego Hartfield,R,185,ARG,24.7,104149,,LL,Adrian Cruciat,R,185,ROU,22.5,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,242,147,356,89
 2005-361,Santiago CH,Clay,32,C,20051024,8,103594,6,,Oliver Marach,R,185,AUT,25.2,103397,,LL,Alexandre Simoni,R,188,BRA,26.3,6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,123,361,471,54
 2005-361,Santiago CH,Clay,32,C,20051024,9,103105,8,,Ruben Ramirez Hidalgo,R,183,ESP,27.7,105223,,,Juan Martin del Potro,R,198,ARG,17.0,6-2 5-7 6-1,3,R32,,,,,,,,,,,,,,,,,,,,128,342,201,197
 2005-361,Santiago CH,Clay,32,C,20051024,10,103373,,,Sergio Roitman,R,185,ARG,26.4,104249,,WC,Marcelo Melo,R,203,BRA,22.0,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,160,247,275,125
@@ -2171,7 +2171,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-361,Santiago CH,Clay,32,C,20051024,31,103395,,,Julio Silva,R,173,BRA,26.3,103105,8,,Ruben Ramirez Hidalgo,R,183,ESP,27.7,6-2 6-3,3,F,,,,,,,,,,,,,,,,,,,,180,219,128,342
 2005-381,Canberra CH,Clay,32,C,20050404,1,103030,,,Norikazu Sugiyama,R,178,JPN,27.6,102300,1,,Gouichi Motomura,R,173,JPN,31.2,7-6(5) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,368,86,216,186
 2005-381,Canberra CH,Clay,32,C,20050404,2,104517,,,Adam Feeney,R,178,AUS,20.0,102373,,,Toshiaki Sakai,L,175,JPN,30.9,6-2 5-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,409,67,513,45
-2005-381,Canberra CH,Clay,32,C,20050404,3,103646,,,Lars Uebel,R,,GER,24.4,104825,,WC,Joel Kerley,R,,AUS,18.4,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,384,77,724,20
+2005-381,Canberra CH,Clay,32,C,20050404,3,103646,,,Lars Uebel,R,180,GER,24.4,104825,,WC,Joel Kerley,R,,AUS,18.4,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,384,77,724,20
 2005-381,Canberra CH,Clay,32,C,20050404,4,103902,8,,Jan Mertl,R,190,CZE,23.2,103782,,,Rameez Junaid,R,,AUS,23.8,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,334,100,448,56
 2005-381,Canberra CH,Clay,32,C,20050404,5,103505,3,,Vasilis Mazarakis,R,178,GRE,25.1,103066,,Q,Mark Nielsen,R,185,NZL,27.4,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,256,151,524,43
 2005-381,Canberra CH,Clay,32,C,20050404,6,103371,,,Emin Agaev,R,,AZE,25.8,102667,,,Satoshi Iwabuchi,L,175,JPN,29.4,6-7(5) 7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,480,49,348,93
@@ -2186,20 +2186,20 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-381,Canberra CH,Clay,32,C,20050404,15,103635,,,Andrew Derer,U,,AUS,24.5,103230,,,Tasuku Iwami,L,168,JPN,26.7,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,529,43,357,90
 2005-381,Canberra CH,Clay,32,C,20050404,16,102381,2,,Werner Eschauer,R,188,AUT,30.9,104295,,WC,Raphael Durek,R,188,AUS,21.1,6-3 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,253,153,532,43
 2005-381,Canberra CH,Clay,32,C,20050404,17,103030,,,Norikazu Sugiyama,R,178,JPN,27.6,104517,,,Adam Feeney,R,178,AUS,20.0,3-6 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,368,86,409,67
-2005-381,Canberra CH,Clay,32,C,20050404,18,103646,,,Lars Uebel,R,,GER,24.4,103902,8,,Jan Mertl,R,190,CZE,23.2,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,384,77,334,100
+2005-381,Canberra CH,Clay,32,C,20050404,18,103646,,,Lars Uebel,R,180,GER,24.4,103902,8,,Jan Mertl,R,190,CZE,23.2,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,384,77,334,100
 2005-381,Canberra CH,Clay,32,C,20050404,19,103505,3,,Vasilis Mazarakis,R,178,GRE,25.1,103371,,,Emin Agaev,R,,AZE,25.8,6-7(4) 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,256,151,480,49
 2005-381,Canberra CH,Clay,32,C,20050404,20,103893,6,,Paolo Lorenzi,R,183,ITA,23.3,104424,,,Go Soeda,R,178,JPN,20.5,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,300,118,465,52
 2005-381,Canberra CH,Clay,32,C,20050404,21,103465,7,,Paul Logtens,R,175,NED,25.4,103217,,,Shannon Nettle,R,,AUS,26.8,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,299,118,403,69
 2005-381,Canberra CH,Clay,32,C,20050404,22,104589,4,,Chris Guccione,L,201,AUS,19.6,103553,,Q,Alun Jones,R,180,AUS,24.9,7-6(8) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,276,135,,
 2005-381,Canberra CH,Clay,32,C,20050404,23,102512,,Q,Joseph Sirianni,R,175,AUS,30.2,104115,5,,Marc Kimmich,R,183,AUS,22.2,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,638,27,267,140
 2005-381,Canberra CH,Clay,32,C,20050404,24,102381,2,,Werner Eschauer,R,188,AUT,30.9,103635,,,Andrew Derer,U,,AUS,24.5,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,253,153,529,43
-2005-381,Canberra CH,Clay,32,C,20050404,25,103646,,,Lars Uebel,R,,GER,24.4,103030,,,Norikazu Sugiyama,R,178,JPN,27.6,2-6 6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,384,77,368,86
+2005-381,Canberra CH,Clay,32,C,20050404,25,103646,,,Lars Uebel,R,180,GER,24.4,103030,,,Norikazu Sugiyama,R,178,JPN,27.6,2-6 6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,384,77,368,86
 2005-381,Canberra CH,Clay,32,C,20050404,26,103893,6,,Paolo Lorenzi,R,183,ITA,23.3,103505,3,,Vasilis Mazarakis,R,178,GRE,25.1,4-6 6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,300,118,256,151
 2005-381,Canberra CH,Clay,32,C,20050404,27,104589,4,,Chris Guccione,L,201,AUS,19.6,103465,7,,Paul Logtens,R,175,NED,25.4,7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,276,135,299,118
 2005-381,Canberra CH,Clay,32,C,20050404,28,102381,2,,Werner Eschauer,R,188,AUT,30.9,102512,,Q,Joseph Sirianni,R,175,AUS,30.2,4-6 6-4 7-6(4),3,QF,,,,,,,,,,,,,,,,,,,,253,153,638,27
-2005-381,Canberra CH,Clay,32,C,20050404,29,103646,,,Lars Uebel,R,,GER,24.4,103893,6,,Paolo Lorenzi,R,183,ITA,23.3,7-6(4) 7-6(6),3,SF,,,,,,,,,,,,,,,,,,,,384,77,300,118
+2005-381,Canberra CH,Clay,32,C,20050404,29,103646,,,Lars Uebel,R,180,GER,24.4,103893,6,,Paolo Lorenzi,R,183,ITA,23.3,7-6(4) 7-6(6),3,SF,,,,,,,,,,,,,,,,,,,,384,77,300,118
 2005-381,Canberra CH,Clay,32,C,20050404,30,104589,4,,Chris Guccione,L,201,AUS,19.6,102381,2,,Werner Eschauer,R,188,AUT,30.9,7-5 7-5,3,SF,,,,,,,,,,,,,,,,,,,,276,135,253,153
-2005-381,Canberra CH,Clay,32,C,20050404,31,104589,4,,Chris Guccione,L,201,AUS,19.6,103646,,,Lars Uebel,R,,GER,24.4,7-5 6-1,3,F,,,,,,,,,,,,,,,,,,,,276,135,384,77
+2005-381,Canberra CH,Clay,32,C,20050404,31,104589,4,,Chris Guccione,L,201,AUS,19.6,103646,,,Lars Uebel,R,180,GER,24.4,7-5 6-1,3,F,,,,,,,,,,,,,,,,,,,,276,135,384,77
 2005-383,Graz CH,Hard,32,C,20050808,1,103503,1,,Robin Vik,R,183,CZE,25.5,103281,,,Ladislav Svarc,R,188,SVK,26.7,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,97,436,404,71
 2005-383,Graz CH,Hard,32,C,20050808,2,103748,,,Jan Minar,R,,CZE,24.3,103679,,,Jeroen Masson,R,,BEL,24.5,6-3 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,243,155,229,170
 2005-383,Graz CH,Hard,32,C,20050808,3,103902,,,Jan Mertl,R,190,CZE,23.5,104488,,WC,Armin Sandbichler,L,180,AUT,20.5,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,285,128,816,13
@@ -2457,7 +2457,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-447,Samarkand CH,Clay,32,C,20050815,7,104783,,Q,Mikhail Ledovskikh,R,188,RUS,19.0,103966,,,Massimo Ocera,U,,ITA,23.3,6-3 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,760,17,383,76
 2005-447,Samarkand CH,Clay,32,C,20050815,8,103949,5,,Ivan Cerovic,L,190,CRO,23.4,104523,,,Frederico Gil,R,178,POR,20.3,6-4 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,321,104,338,91
 2005-447,Samarkand CH,Clay,32,C,20050815,9,103715,,,Kirill Ivanov Smolensky,R,,RUS,24.4,103437,8,,Francesco Piccari,R,,ITA,25.9,6-3 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,377,78,336,92
-2005-447,Samarkand CH,Clay,32,C,20050815,10,104149,,,Adrian Cruciat,R,,ROU,22.3,104743,,,Kamil Capkovic,R,198,SVK,19.2,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,340,91,362,83
+2005-447,Samarkand CH,Clay,32,C,20050815,10,104149,,,Adrian Cruciat,R,185,ROU,22.3,104743,,,Kamil Capkovic,R,198,SVK,19.2,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,340,91,362,83
 2005-447,Samarkand CH,Clay,32,C,20050815,11,105159,,WC,Vaja Uzakov,R,,UZB,17.1,104023,,,Nicolas Renavand,R,,FRA,23.1,1-6 6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,,,447,58
 2005-447,Samarkand CH,Clay,32,C,20050815,12,104797,3,,Denis Istomin,R,188,UZB,18.9,103824,,Q,Orest Tereshchuk,R,,UKR,23.9,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,278,130,707,21
 2005-447,Samarkand CH,Clay,32,C,20050815,13,103611,7,,Giancarlo Petrazzuolo,R,,ITA,25.0,103523,,,Rohan Bopanna,R,190,IND,25.4,7-6(3) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,367,82,350,87
@@ -2468,13 +2468,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-447,Samarkand CH,Clay,32,C,20050815,18,103682,,,Kyu Tae Im,R,185,KOR,24.6,105079,,Q,Ivan Sergeyev,R,175,UKR,17.5,7-5 7-5,3,R16,,,,,,,,,,,,,,,,,,,,404,71,1127,5
 2005-447,Samarkand CH,Clay,32,C,20050815,19,104676,4,,Andreas Beck,L,190,GER,19.5,104164,,,Marco Pedrini,U,,ITA,22.3,6-1 1-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,293,122,384,76
 2005-447,Samarkand CH,Clay,32,C,20050815,20,103949,5,,Ivan Cerovic,L,190,CRO,23.4,104783,,Q,Mikhail Ledovskikh,R,188,RUS,19.0,7-5 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,321,104,760,17
-2005-447,Samarkand CH,Clay,32,C,20050815,21,104149,,,Adrian Cruciat,R,,ROU,22.3,103715,,,Kirill Ivanov Smolensky,R,,RUS,24.4,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,340,91,377,78
+2005-447,Samarkand CH,Clay,32,C,20050815,21,104149,,,Adrian Cruciat,R,185,ROU,22.3,103715,,,Kirill Ivanov Smolensky,R,,RUS,24.4,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,340,91,377,78
 2005-447,Samarkand CH,Clay,32,C,20050815,22,104797,3,,Denis Istomin,R,188,UZB,18.9,105159,,WC,Vaja Uzakov,R,,UZB,17.1,6-3 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,278,130,,
 2005-447,Samarkand CH,Clay,32,C,20050815,23,103735,,,Lovro Zovko,R,190,CRO,24.4,103611,7,,Giancarlo Petrazzuolo,R,,ITA,25.0,4-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,428,64,367,82
 2005-447,Samarkand CH,Clay,32,C,20050815,24,103505,2,,Vasilis Mazarakis,R,178,GRE,25.5,104100,,,Evgueni Smirnov,U,,RUS,22.6,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,169,247,442,60
 2005-447,Samarkand CH,Clay,32,C,20050815,25,104081,1,,Boris Pashanski,R,180,SRB,22.7,103682,,,Kyu Tae Im,R,185,KOR,24.6,4-6 6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,160,268,404,71
 2005-447,Samarkand CH,Clay,32,C,20050815,26,104676,4,,Andreas Beck,L,190,GER,19.5,103949,5,,Ivan Cerovic,L,190,CRO,23.4,7-6(7) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,293,122,321,104
-2005-447,Samarkand CH,Clay,32,C,20050815,27,104797,3,,Denis Istomin,R,188,UZB,18.9,104149,,,Adrian Cruciat,R,,ROU,22.3,6-7(3) 7-5 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,278,130,340,91
+2005-447,Samarkand CH,Clay,32,C,20050815,27,104797,3,,Denis Istomin,R,188,UZB,18.9,104149,,,Adrian Cruciat,R,185,ROU,22.3,6-7(3) 7-5 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,278,130,340,91
 2005-447,Samarkand CH,Clay,32,C,20050815,28,103505,2,,Vasilis Mazarakis,R,178,GRE,25.5,103735,,,Lovro Zovko,R,190,CRO,24.4,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,169,247,428,64
 2005-447,Samarkand CH,Clay,32,C,20050815,29,104081,1,,Boris Pashanski,R,180,SRB,22.7,104676,4,,Andreas Beck,L,190,GER,19.5,7-6(3) 6-3,3,SF,,,,,,,,,,,,,,,,,,,,160,268,293,122
 2005-447,Samarkand CH,Clay,32,C,20050815,30,103505,2,,Vasilis Mazarakis,R,178,GRE,25.5,104797,3,,Denis Istomin,R,188,UZB,18.9,6-3 1-6 6-4,3,SF,,,,,,,,,,,,,,,,,,,,169,247,278,130
@@ -2615,7 +2615,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-471,Geneva CH,Clay,32,C,20050822,10,103657,,,Ivo Klec,R,183,SVK,24.7,102107,,,Jan Frode Andersen,L,190,NOR,32.9,7-6(6) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,312,109,327,101
 2005-471,Geneva CH,Clay,32,C,20050822,11,103457,,,Petr Kralert,R,188,CZE,25.8,103956,,,Stefan Wauters,R,,BEL,23.4,6-3 1-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,341,91,254,145
 2005-471,Geneva CH,Clay,32,C,20050822,12,103490,4,,Santiago Ventura,R,183,ESP,25.6,103902,,,Jan Mertl,R,190,CZE,23.6,7-6(8) 5-7 7-5,3,R32,,,,,,,,,,,,,,,,,,,,123,357,283,130
-2005-471,Geneva CH,Clay,32,C,20050822,13,103700,6,,Juan Pablo Guzman,L,178,ARG,24.5,103646,,,Lars Uebel,R,,GER,24.8,5-7 7-6(3) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,177,237,315,108
+2005-471,Geneva CH,Clay,32,C,20050822,13,103700,6,,Juan Pablo Guzman,L,178,ARG,24.5,103646,,,Lars Uebel,R,180,GER,24.8,5-7 7-6(3) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,177,237,315,108
 2005-471,Geneva CH,Clay,32,C,20050822,14,104211,,WC,Roman Valent,R,183,SUI,22.1,103318,,Q,Zeljko Krajan,R,178,CRO,26.5,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,413,67,587,33
 2005-471,Geneva CH,Clay,32,C,20050822,15,104196,,,Carlos Cuadrado,R,180,ESP,22.2,104595,,Q,Sascha Kloer,R,,GER,20.0,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,291,123,549,39
 2005-471,Geneva CH,Clay,32,C,20050822,16,103592,2,,Jerome Haehnel,R,185,FRA,25.1,104095,,,David Guez,R,185,FRA,22.7,2-6 7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,100,419,241,153
@@ -2639,20 +2639,20 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-472,Cordoba CH,Hard,32,C,20050627,3,102287,,,Albert Portas,R,188,ESP,31.6,104499,,,Jimmy Wang,R,178,TPE,20.3,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,151,292,148,300
 2005-472,Cordoba CH,Hard,32,C,20050627,4,102834,6,,Paul Goldstein,R,178,USA,28.8,104660,,,Sergiy Stakhovsky,R,193,UKR,19.4,6-2 6-7(5) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,101,396,224,175
 2005-472,Cordoba CH,Hard,32,C,20050627,5,104571,3,,Marcos Baghdatis,R,183,CYP,20.0,104049,,Q,Gary Lugassy,L,,FRA,22.8,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,90,452,570,38
-2005-472,Cordoba CH,Hard,32,C,20050627,6,103623,,Q,Jacob Adaktusson,R,,SWE,24.8,103166,,,Vladimir Voltchkov,R,180,BLR,27.2,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,311,111,176,251
+2005-472,Cordoba CH,Hard,32,C,20050627,6,103623,,Q,Jacob Adaktusson,R,193,SWE,24.8,103166,,,Vladimir Voltchkov,R,180,BLR,27.2,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,311,111,176,251
 2005-472,Cordoba CH,Hard,32,C,20050627,7,102950,,,Fernando Vicente,R,180,ESP,28.3,103868,,,Ivan Navarro,R,183,ESP,23.6,6-3 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,130,333,168,258
 2005-472,Cordoba CH,Hard,32,C,20050627,8,103490,7,,Santiago Ventura,R,183,ESP,25.4,104572,,WC,Eric Scherer,R,,GER,20.0,6-4 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,110,379,606,33
 2005-472,Cordoba CH,Hard,32,C,20050627,9,103503,8,,Robin Vik,R,183,CZE,25.3,103701,,Q,Diego Hartfield,R,185,ARG,24.4,1-6 7-6(6) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,117,368,252,148
 2005-472,Cordoba CH,Hard,32,C,20050627,10,102567,,,George Bastl,R,183,SUI,30.2,101962,,WC,Younes El Aynaoui,R,193,MAR,33.7,7-6(2) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,146,304,471,54
 2005-472,Cordoba CH,Hard,32,C,20050627,11,103917,,,Nicolas Mahut,R,190,FRA,23.4,103105,,,Ruben Ramirez Hidalgo,R,183,ESP,27.4,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,135,321,136,321
-2005-472,Cordoba CH,Hard,32,C,20050627,12,102694,4,,Lars Burgsmuller,R,183,GER,29.5,103926,,Q,Daniel Munoz de la Nava,L,,ESP,23.4,6-3 5-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,91,431,394,76
+2005-472,Cordoba CH,Hard,32,C,20050627,12,102694,4,,Lars Burgsmuller,R,183,GER,29.5,103926,,Q,Daniel Munoz de la Nava,L,178,ESP,23.4,6-3 5-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,91,431,394,76
 2005-472,Cordoba CH,Hard,32,C,20050627,13,102227,5,,Sargis Sargsian,R,180,ARM,32.0,103174,,,Noam Okun,R,185,ISR,27.1,6-1 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,92,421,154,287
 2005-472,Cordoba CH,Hard,32,C,20050627,14,104268,,,Alejandro Falla,L,185,COL,21.6,103171,,,Raemon Sluiter,R,185,NED,27.2,4-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,275,129,118,364
 2005-472,Cordoba CH,Hard,32,C,20050627,15,104372,,,Alex Bogdanovic,L,183,GBR,21.0,103096,,,Arnaud Clement,R,173,FRA,27.5,6-3 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,195,219,121,356
 2005-472,Cordoba CH,Hard,32,C,20050627,16,104180,2,,Gilles Muller,L,193,LUX,22.1,104542,,,Jo-Wilfried Tsonga,R,188,FRA,20.1,7-6(3) RET,3,R32,,,,,,,,,,,,,,,,,,,,69,565,137,320
 2005-472,Cordoba CH,Hard,32,C,20050627,17,103157,,,Arvind Parmar,R,193,GBR,27.2,102615,,,Dennis Van Scheppingen,R,185,NED,29.9,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,213,189,149,298
 2005-472,Cordoba CH,Hard,32,C,20050627,18,102834,6,,Paul Goldstein,R,178,USA,28.8,102287,,,Albert Portas,R,188,ESP,31.6,3-6 6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,101,396,151,292
-2005-472,Cordoba CH,Hard,32,C,20050627,19,104571,3,,Marcos Baghdatis,R,183,CYP,20.0,103623,,Q,Jacob Adaktusson,R,,SWE,24.8,6-7(3) 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,90,452,311,111
+2005-472,Cordoba CH,Hard,32,C,20050627,19,104571,3,,Marcos Baghdatis,R,183,CYP,20.0,103623,,Q,Jacob Adaktusson,R,193,SWE,24.8,6-7(3) 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,90,452,311,111
 2005-472,Cordoba CH,Hard,32,C,20050627,20,102950,,,Fernando Vicente,R,180,ESP,28.3,103490,7,,Santiago Ventura,R,183,ESP,25.4,7-6(3) 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,130,333,110,379
 2005-472,Cordoba CH,Hard,32,C,20050627,21,103503,8,,Robin Vik,R,183,CZE,25.3,102567,,,George Bastl,R,183,SUI,30.2,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,117,368,146,304
 2005-472,Cordoba CH,Hard,32,C,20050627,22,103917,,,Nicolas Mahut,R,190,FRA,23.4,102694,4,,Lars Burgsmuller,R,183,GER,29.5,6-4 4-2 RET,3,R16,,,,,,,,,,,,,,,,,,,,135,321,91,431
@@ -2666,7 +2666,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-472,Cordoba CH,Hard,32,C,20050627,30,104268,,,Alejandro Falla,L,185,COL,21.6,103917,,,Nicolas Mahut,R,190,FRA,23.4,6-3 7-6(8),3,SF,,,,,,,,,,,,,,,,,,,,275,129,135,321
 2005-472,Cordoba CH,Hard,32,C,20050627,31,104571,3,,Marcos Baghdatis,R,183,CYP,20.0,104268,,,Alejandro Falla,L,185,COL,21.6,6-3 6-3,3,F,,,,,,,,,,,,,,,,,,,,90,452,275,129
 2005-486,Manerbio CH,Clay,32,C,20050822,1,103035,1,,Alessio Di Mauro,L,185,ITA,28.0,104174,,Q,Alessandro Accardo,L,,ITA,22.3,3-6 6-0 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,115,377,518,45
-2005-486,Manerbio CH,Clay,32,C,20050822,2,104262,,,Flavio Cipolla,R,173,ITA,21.8,104851,,WC,Gianluca Naso,R,,ITA,18.6,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,276,132,715,21
+2005-486,Manerbio CH,Clay,32,C,20050822,2,104262,,,Flavio Cipolla,R,173,ITA,21.8,104851,,WC,Gianluca Naso,R,193,ITA,18.6,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,276,132,715,21
 2005-486,Manerbio CH,Clay,32,C,20050822,3,103506,,,Martin Vassallo Arguello,R,183,ARG,25.5,104230,,,Daniel Koellerer,R,180,AUT,22.0,4-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,278,131,247,147
 2005-486,Manerbio CH,Clay,32,C,20050822,4,103675,,,Diego Junqueira,L,178,ARG,24.6,104181,6,,Victor Ionita,R,185,ROU,22.2,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,268,137,205,190
 2005-486,Manerbio CH,Clay,32,C,20050822,5,103868,4,,Ivan Navarro,R,183,ESP,23.8,104170,,,Hector Ruiz Cadenas,U,,ESP,22.3,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,164,267,339,92
@@ -2699,7 +2699,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-487,Prague2 CH,Carpet,32,C,20051121,1,103477,,Q,Pavel Riha,R,,CZE,25.9,103110,1,,Daniele Bracciali,R,180,ITA,27.8,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1331,3,73,547
 2005-487,Prague2 CH,Carpet,32,C,20051121,2,103520,,,Pavel Snobel,L,190,CZE,25.7,104287,,Q,Steven Korteling,U,,NED,21.8,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,240,150,426,65
 2005-487,Prague2 CH,Carpet,32,C,20051121,3,103564,,,Jakub Herm Zahlava,R,,GER,25.5,103748,,,Jan Minar,R,,CZE,24.6,3-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,245,146,297,114
-2005-487,Prague2 CH,Carpet,32,C,20051121,4,104660,6,,Sergiy Stakhovsky,R,193,UKR,19.8,105116,,WC,Dusan Lojda,L,,CZE,17.7,7-6(4) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,185,209,843,14
+2005-487,Prague2 CH,Carpet,32,C,20051121,4,104660,6,,Sergiy Stakhovsky,R,193,UKR,19.8,105116,,WC,Dusan Lojda,L,188,CZE,17.7,7-6(4) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,185,209,843,14
 2005-487,Prague2 CH,Carpet,32,C,20051121,5,102571,3,,Gregory Carraz,R,190,FRA,30.6,102788,,,Jan Vacek,R,198,CZE,29.5,6-4 6-7(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,145,291,259,135
 2005-487,Prague2 CH,Carpet,32,C,20051121,6,105208,,Q,Ernests Gulbis,R,190,LAT,17.2,109244,,WC,Roman Bicek,U,,CZE,,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,451,58,,
 2005-487,Prague2 CH,Carpet,32,C,20051121,7,103938,,,Igor Zelenay,R,198,SVK,23.7,109177,,WC,Kevin Mcduffee,R,,USA,21.6,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,326,100,,
@@ -2913,7 +2913,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-526,Braunschweig CH,Clay,32,C,20050613,29,102839,,,Nicolas Lapentti,R,188,ECU,28.8,104182,,Q,Sasa Tuksar,R,180,CRO,22.0,2-6 6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,126,347,209,198
 2005-526,Braunschweig CH,Clay,32,C,20050613,30,103169,6,,Oscar Hernandez,R,180,ESP,27.1,102783,2,,Rainer Schuettler,R,180,GER,29.1,6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,90,433,72,555
 2005-526,Braunschweig CH,Clay,32,C,20050613,31,103169,6,,Oscar Hernandez,R,180,ESP,27.1,102839,,,Nicolas Lapentti,R,188,ECU,28.8,6-3 6-3,3,F,,,,,,,,,,,,,,,,,,,,90,433,126,347
-2005-538,Budapest CH,Clay,32,C,20050516,1,103169,1,,Oscar Hernandez,R,180,ESP,27.0,103708,,,Jaroslav Pospisil,R,,CZE,24.2,2-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,96,434,408,71
+2005-538,Budapest CH,Clay,32,C,20050516,1,103169,1,,Oscar Hernandez,R,180,ESP,27.0,103708,,,Jaroslav Pospisil,R,176,CZE,24.2,2-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,96,434,408,71
 2005-538,Budapest CH,Clay,32,C,20050516,2,103611,,,Giancarlo Petrazzuolo,R,,ITA,24.7,109029,,WC,Botond Godry,U,,HUN,18.9,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,343,97,1361,2
 2005-538,Budapest CH,Clay,32,C,20050516,3,104311,,Q,Leonardo Tavares,R,185,POR,21.2,103229,,,Kornel Bardoczky,R,,HUN,26.8,7-5 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,442,60,422,64
 2005-538,Budapest CH,Clay,32,C,20050516,4,104360,8,,Adam Chadaj,L,178,POL,21.0,104235,,,Matwe Middelkoop,R,191,NED,21.7,6-2 2-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,283,127,346,95
@@ -2944,7 +2944,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-538,Budapest CH,Clay,32,C,20050516,29,103009,4,,Razvan Sabau,R,185,ROU,27.9,103169,1,,Oscar Hernandez,R,180,ESP,27.0,6-3 6-0,3,SF,,,,,,,,,,,,,,,,,,,,150,297,96,434
 2005-538,Budapest CH,Clay,32,C,20050516,30,103238,,,Jean Claude Scherrer,R,188,SUI,26.8,104386,2,,Janko Tipsarevic,R,180,SRB,20.8,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,366,88,113,384
 2005-538,Budapest CH,Clay,32,C,20050516,31,103009,4,,Razvan Sabau,R,185,ROU,27.9,103238,,,Jean Claude Scherrer,R,188,SUI,26.8,1-6 7-6(3) 6-3,3,F,,,,,,,,,,,,,,,,,,,,150,297,366,88
-2005-543,Guayaquil CH,Clay,32,C,20051107,1,102494,1,,Tomas Behrend,R,193,GER,30.9,104851,,Q,Gianluca Naso,R,,ITA,18.8,7-6(5) 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,80,506,594,36
+2005-543,Guayaquil CH,Clay,32,C,20051107,1,102494,1,,Tomas Behrend,R,193,GER,30.9,104851,,Q,Gianluca Naso,R,193,ITA,18.8,7-6(5) 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,80,506,594,36
 2005-543,Guayaquil CH,Clay,32,C,20051107,2,103395,,,Julio Silva,R,173,BRA,26.3,104117,,,Giovanni Lapentti,R,193,ECU,22.7,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,157,258,187,208
 2005-543,Guayaquil CH,Clay,32,C,20051107,3,105223,,,Juan Martin del Potro,R,198,ARG,17.1,104926,,Q,Fabio Fognini,R,178,ITA,18.4,4-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,159,256,306,110
 2005-543,Guayaquil CH,Clay,32,C,20051107,4,103228,6,,Marcos Daniel,R,180,BRA,27.3,108950,,WC,Juan Andres Gomez,U,,ECU,17.9,6-3 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,113,383,,
@@ -2983,7 +2983,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-544,Montevideo CH,Clay,32,C,20051031,6,103490,,,Santiago Ventura,R,183,ESP,25.8,104648,,WC,Rafael Farias,U,,BRA,19.8,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,153,276,814,16
 2005-544,Montevideo CH,Clay,32,C,20051031,7,104926,,Q,Fabio Fognini,R,178,ITA,18.4,104148,,Q,Lionel Noviski,R,,ARG,22.6,5-7 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,320,102,381,77
 2005-544,Montevideo CH,Clay,32,C,20051031,8,105223,,,Juan Martin del Potro,R,198,ARG,17.1,103581,5,,Flavio Saretta,R,183,BRA,25.3,0-6 7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,198,197,109,386
-2005-544,Montevideo CH,Clay,32,C,20051031,9,104149,,Q,Adrian Cruciat,R,,ROU,22.5,102548,8,,Juan Antonio Marin,R,175,CRC,30.6,2-6 7-6(6) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,355,89,122,366
+2005-544,Montevideo CH,Clay,32,C,20051031,9,104149,,Q,Adrian Cruciat,R,185,ROU,22.5,102548,8,,Juan Antonio Marin,R,175,CRC,30.6,2-6 7-6(6) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,355,89,122,366
 2005-544,Montevideo CH,Clay,32,C,20051031,10,104593,,,Daniel Gimeno Traver,R,185,ESP,20.2,104154,,,Paul Capdeville,R,190,CHI,22.5,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,203,187,133,317
 2005-544,Montevideo CH,Clay,32,C,20051031,11,103204,,,Hugo Armando,R,183,USA,27.4,104314,,LL,Brian Dabul,L,170,ARG,21.6,6-2 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,206,184,327,101
 2005-544,Montevideo CH,Clay,32,C,20051031,12,103105,,,Ruben Ramirez Hidalgo,R,183,ESP,27.8,104122,3,,Carlos Berlocq,R,183,ARG,22.7,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,115,379,102,421
@@ -2995,7 +2995,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-544,Montevideo CH,Clay,32,C,20051031,18,104216,,,Maximo Gonzalez,R,175,ARG,22.2,104494,,,Adrian Ungur,R,178,ROU,20.7,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,256,138,230,159
 2005-544,Montevideo CH,Clay,32,C,20051031,19,103490,,,Santiago Ventura,R,183,ESP,25.8,103169,4,,Oscar Hernandez,R,180,ESP,27.5,7-6(6) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,153,276,97,439
 2005-544,Montevideo CH,Clay,32,C,20051031,20,105223,,,Juan Martin del Potro,R,198,ARG,17.1,104926,,Q,Fabio Fognini,R,178,ITA,18.4,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,198,197,320,102
-2005-544,Montevideo CH,Clay,32,C,20051031,21,104593,,,Daniel Gimeno Traver,R,185,ESP,20.2,104149,,Q,Adrian Cruciat,R,,ROU,22.5,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,203,187,355,89
+2005-544,Montevideo CH,Clay,32,C,20051031,21,104593,,,Daniel Gimeno Traver,R,185,ESP,20.2,104149,,Q,Adrian Cruciat,R,185,ROU,22.5,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,203,187,355,89
 2005-544,Montevideo CH,Clay,32,C,20051031,22,103204,,,Hugo Armando,R,183,USA,27.4,103105,,,Ruben Ramirez Hidalgo,R,183,ESP,27.8,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,206,184,115,379
 2005-544,Montevideo CH,Clay,32,C,20051031,23,104081,6,,Boris Pashanski,R,180,SRB,22.9,103701,,,Diego Hartfield,R,185,ARG,24.7,7-6(4) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,112,383,228,160
 2005-544,Montevideo CH,Clay,32,C,20051031,24,102950,2,,Fernando Vicente,R,180,ESP,28.6,103201,,,Adrian Garcia,R,175,CHI,27.4,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,99,433,162,247
@@ -3007,25 +3007,25 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-544,Montevideo CH,Clay,32,C,20051031,30,104081,6,,Boris Pashanski,R,180,SRB,22.9,103204,,,Hugo Armando,R,183,USA,27.4,7-5 7-6(13),3,SF,,,,,,,,,,,,,,,,,,,,112,383,206,184
 2005-544,Montevideo CH,Clay,32,C,20051031,31,105223,,,Juan Martin del Potro,R,198,ARG,17.1,104081,6,,Boris Pashanski,R,180,SRB,22.9,6-3 2-6 7-6(3),3,F,,,,,,,,,,,,,,,,,,,,198,197,112,383
 2005-545,Seoul CH,Hard,32,C,20051024,1,103451,1,,Bjorn Phau,R,175,GER,26.0,102300,,,Gouichi Motomura,R,173,JPN,31.8,6-4 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,90,465,283,119
-2005-545,Seoul CH,Hard,32,C,20051024,2,103646,,,Lars Uebel,R,,GER,25.0,103824,,Q,Orest Tereshchuk,R,,UKR,24.1,6-1 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,280,120,537,44
+2005-545,Seoul CH,Hard,32,C,20051024,2,103646,,,Lars Uebel,R,180,GER,25.0,103824,,Q,Orest Tereshchuk,R,,UKR,24.1,6-1 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,280,120,537,44
 2005-545,Seoul CH,Hard,32,C,20051024,3,102770,,,John Van Lottum,R,185,NED,29.5,103682,,WC,Kyu Tae Im,R,185,KOR,24.7,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,381,80
 2005-545,Seoul CH,Hard,32,C,20051024,4,103762,,,John Paul Fruttero,R,185,USA,24.4,103752,5,,Simon Greul,R,185,GER,24.5,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,202,194,130,336
 2005-545,Seoul CH,Hard,32,C,20051024,5,103505,4,,Vasilis Mazarakis,R,178,GRE,25.7,103580,,,Alexander Peya,R,183,AUT,25.3,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,118,371,300,112
 2005-545,Seoul CH,Hard,32,C,20051024,6,102143,,,Nicolas Thomann,R,183,FRA,32.9,104928,,WC,Sun Yong Kim Jr,R,,KOR,18.4,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,303,110,890,12
-2005-545,Seoul CH,Hard,32,C,20051024,7,103623,,,Jacob Adaktusson,R,,SWE,25.1,104250,,,Prakash Amritraj,R,188,IND,22.0,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,314,105,273,128
+2005-545,Seoul CH,Hard,32,C,20051024,7,103623,,,Jacob Adaktusson,R,193,SWE,25.1,104250,,,Prakash Amritraj,R,188,IND,22.0,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,314,105,273,128
 2005-545,Seoul CH,Hard,32,C,20051024,8,103997,7,,Lukasz Kubot,R,190,POL,23.4,103063,,,Sebastien De Chaunac,R,183,FRA,28.0,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,151,279,237,152
 2005-545,Seoul CH,Hard,32,C,20051024,9,103030,,Q,Norikazu Sugiyama,R,178,JPN,28.2,103821,6,,Danai Udomchoke,R,173,THA,24.2,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,419,66,138,299
-2005-545,Seoul CH,Hard,32,C,20051024,10,103902,,,Jan Mertl,R,190,CZE,23.8,104629,,Q,Adrian Menendez Maceiras,R,,ESP,19.9,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,250,141,563,41
+2005-545,Seoul CH,Hard,32,C,20051024,10,103902,,,Jan Mertl,R,190,CZE,23.8,104629,,Q,Adrian Menendez Maceiras,R,185,ESP,19.9,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,250,141,563,41
 2005-545,Seoul CH,Hard,32,C,20051024,11,103393,,Q,Yuri Schukin,R,188,KAZ,26.3,104209,,,Rainer Eitzinger,R,178,AUT,22.3,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,295,113,216,175
 2005-545,Seoul CH,Hard,32,C,20051024,12,102703,3,,Hyung Taik Lee,R,180,KOR,29.8,102863,,,Takao Suzuki,R,175,JPN,29.0,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,109,388,235,153
 2005-545,Seoul CH,Hard,32,C,20051024,13,103369,8,,Melle Van Gemerden,R,183,NED,26.4,103104,,,Bjorn Rehnquist,R,175,SWE,27.8,6-4 6-7(2) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,161,246,688,24
 2005-545,Seoul CH,Hard,32,C,20051024,14,104753,,WC,Woong Sun Jun,R,190,KOR,19.3,104251,,,Ti Chen,R,183,TPE,22.0,7-6(6) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,690,24,255,139
 2005-545,Seoul CH,Hard,32,C,20051024,15,104561,,WC,Jae Sung An,R,,KOR,20.4,103573,,,Rik De Voest,R,180,RSA,25.3,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,790,17,188,208
 2005-545,Seoul CH,Hard,32,C,20051024,16,102783,2,,Rainer Schuettler,R,180,GER,29.4,103709,,,Kristian Pless,R,188,DEN,24.7,6-2 6-7(6) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,83,490,162,245
-2005-545,Seoul CH,Hard,32,C,20051024,17,103451,1,,Bjorn Phau,R,175,GER,26.0,103646,,,Lars Uebel,R,,GER,25.0,4-6 6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,90,465,280,120
+2005-545,Seoul CH,Hard,32,C,20051024,17,103451,1,,Bjorn Phau,R,175,GER,26.0,103646,,,Lars Uebel,R,180,GER,25.0,4-6 6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,90,465,280,120
 2005-545,Seoul CH,Hard,32,C,20051024,18,102770,,,John Van Lottum,R,185,NED,29.5,103762,,,John Paul Fruttero,R,185,USA,24.4,3-6 6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,202,194
 2005-545,Seoul CH,Hard,32,C,20051024,19,102143,,,Nicolas Thomann,R,183,FRA,32.9,103505,4,,Vasilis Mazarakis,R,178,GRE,25.7,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,303,110,118,371
-2005-545,Seoul CH,Hard,32,C,20051024,20,103997,7,,Lukasz Kubot,R,190,POL,23.4,103623,,,Jacob Adaktusson,R,,SWE,25.1,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,151,279,314,105
+2005-545,Seoul CH,Hard,32,C,20051024,20,103997,7,,Lukasz Kubot,R,190,POL,23.4,103623,,,Jacob Adaktusson,R,193,SWE,25.1,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,151,279,314,105
 2005-545,Seoul CH,Hard,32,C,20051024,21,103902,,,Jan Mertl,R,190,CZE,23.8,103030,,Q,Norikazu Sugiyama,R,178,JPN,28.2,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,250,141,419,66
 2005-545,Seoul CH,Hard,32,C,20051024,22,102703,3,,Hyung Taik Lee,R,180,KOR,29.8,103393,,Q,Yuri Schukin,R,188,KAZ,26.3,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,109,388,295,113
 2005-545,Seoul CH,Hard,32,C,20051024,23,103369,8,,Melle Van Gemerden,R,183,NED,26.4,104753,,WC,Woong Sun Jun,R,190,KOR,19.3,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,161,246,690,24
@@ -3068,9 +3068,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-552,Barcelona CH,Clay,32,C,20050606,29,104559,,,Teymuraz Gabashvili,R,188,RUS,20.0,102287,,,Albert Portas,R,188,ESP,31.5,6-2 5-7 6-3,3,SF,,,,,,,,,,,,,,,,,,,,232,167,168,263
 2005-552,Barcelona CH,Clay,32,C,20050606,30,103373,,,Sergio Roitman,R,185,ARG,26.0,103535,2,,Olivier Patience,R,180,FRA,25.1,7-5 6-3,3,SF,,,,,,,,,,,,,,,,,,,,244,156,144,305
 2005-552,Barcelona CH,Clay,32,C,20050606,31,103373,,,Sergio Roitman,R,185,ARG,26.0,104559,,,Teymuraz Gabashvili,R,188,RUS,20.0,6-2 6-3,3,F,,,,,,,,,,,,,,,,,,,,244,156,232,167
-2005-558,Prostejov CH,Clay,32,C,20050530,1,102985,,Q,Gustavo Marcaccio,R,,ARG,28.0,103103,1,,Dominik Hrbaty,R,183,SVK,27.3,6-3 6-7(1) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,461,55,20,1291
+2005-558,Prostejov CH,Clay,32,C,20050530,1,102985,,Q,Gustavo Marcaccio,R,170,ARG,28.0,103103,1,,Dominik Hrbaty,R,183,SVK,27.3,6-3 6-7(1) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,461,55,20,1291
 2005-558,Prostejov CH,Clay,32,C,20050530,2,104160,,,Lukas Dlouhy,R,185,CZE,22.1,103105,,,Ruben Ramirez Hidalgo,R,183,ESP,27.3,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,159,281,141,302
-2005-558,Prostejov CH,Clay,32,C,20050530,3,103429,,,Peter Luczak,R,183,AUS,25.7,103708,,Q,Jaroslav Pospisil,R,,CZE,24.2,4-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,172,254,440,60
+2005-558,Prostejov CH,Clay,32,C,20050530,3,103429,,,Peter Luczak,R,183,AUS,25.7,103708,,Q,Jaroslav Pospisil,R,176,CZE,24.2,4-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,172,254,440,60
 2005-558,Prostejov CH,Clay,32,C,20050530,4,103581,,,Flavio Saretta,R,183,BRA,24.9,103748,,LL,Jan Minar,R,,CZE,24.1,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,132,322,254,149
 2005-558,Prostejov CH,Clay,32,C,20050530,5,103722,,,Florent Serra,R,180,FRA,24.2,103971,3,,Karol Beck,R,180,SVK,23.1,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,116,360,42,867
 2005-558,Prostejov CH,Clay,32,C,20050530,6,103813,,,Jarkko Nieminen,L,185,FIN,23.8,104660,,LL,Sergiy Stakhovsky,R,193,UKR,19.3,7-5 1-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,95,427,220,176
@@ -3084,7 +3084,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-558,Prostejov CH,Clay,32,C,20050530,14,104166,,,Alex Bogomolov Jr,R,178,RUS,22.0,104117,,,Giovanni Lapentti,R,193,ECU,22.3,7-5 4-6 2-5 RET,3,R32,,,,,,,,,,,,,,,,,,,,168,260,110,381
 2005-558,Prostejov CH,Clay,32,C,20050530,15,104371,,,Ivo Minar,R,183,CZE,21.0,102839,,,Nicolas Lapentti,R,188,ECU,28.7,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,117,357,120,347
 2005-558,Prostejov CH,Clay,32,C,20050530,16,104268,,,Alejandro Falla,L,185,COL,21.5,102562,2,,Jiri Novak,R,190,CZE,30.1,6-3 1-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,225,171,27,1185
-2005-558,Prostejov CH,Clay,32,C,20050530,17,104160,,,Lukas Dlouhy,R,185,CZE,22.1,102985,,Q,Gustavo Marcaccio,R,,ARG,28.0,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,159,281,461,55
+2005-558,Prostejov CH,Clay,32,C,20050530,17,104160,,,Lukas Dlouhy,R,185,CZE,22.1,102985,,Q,Gustavo Marcaccio,R,170,ARG,28.0,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,159,281,461,55
 2005-558,Prostejov CH,Clay,32,C,20050530,18,103429,,,Peter Luczak,R,183,AUS,25.7,103581,,,Flavio Saretta,R,183,BRA,24.9,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,172,254,132,322
 2005-558,Prostejov CH,Clay,32,C,20050530,19,103813,,,Jarkko Nieminen,L,185,FIN,23.8,103722,,,Florent Serra,R,180,FRA,24.2,4-6 6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,95,427,116,360
 2005-558,Prostejov CH,Clay,32,C,20050530,20,103435,,,Massimo Dellacqua,R,193,ITA,25.7,104468,,,Gilles Simon,R,183,FRA,20.4,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,294,124,113,368
@@ -3104,7 +3104,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-56,Luebeck CH,Carpet,32,C,20050221,3,103281,,,Ladislav Svarc,R,188,SVK,26.2,102538,,,Tuomas Ketola,R,185,FIN,30.0,6-3 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,247,160,233,175
 2005-56,Luebeck CH,Carpet,32,C,20050221,4,104121,8,,Tobias Summerer,R,185,GER,22.0,105095,,Q,Evgeny Korolev,R,185,KAZ,17.0,7-5 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,166,268,370,81
 2005-56,Luebeck CH,Carpet,32,C,20050221,5,102965,,,Jamie Delgado,R,178,GBR,27.9,102615,3,,Dennis Van Scheppingen,R,185,NED,29.6,7-6(8) 6-7(6) 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,218,189,124,369
-2005-56,Luebeck CH,Carpet,32,C,20050221,6,103646,,Q,Lars Uebel,R,,GER,24.3,104495,,,Florin Mergea,R,180,ROU,20.0,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,440,61,270,143
+2005-56,Luebeck CH,Carpet,32,C,20050221,6,103646,,Q,Lars Uebel,R,180,GER,24.3,104495,,,Florin Mergea,R,180,ROU,20.0,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,440,61,270,143
 2005-56,Luebeck CH,Carpet,32,C,20050221,7,103239,,,Marcus Sarstrand,R,183,SWE,26.5,103735,,,Lovro Zovko,R,190,CRO,23.9,6-3 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,248,160,283,132
 2005-56,Luebeck CH,Carpet,32,C,20050221,8,102567,,,George Bastl,R,183,SUI,29.8,103153,5,,Gilles Elseneer,R,188,BEL,26.9,6-4 6-7(4) 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,179,242,128,359
 2005-56,Luebeck CH,Carpet,32,C,20050221,9,103997,,,Lukasz Kubot,R,190,POL,22.7,104056,7,,Roko Karanusic,R,183,CRO,22.4,6-3 2-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,208,203,165,268
@@ -3117,17 +3117,17 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-56,Luebeck CH,Carpet,32,C,20050221,16,104182,,,Sasa Tuksar,R,180,CRO,21.7,103133,2,,Olivier Mutis,R,175,FRA,27.0,3-6 6-1 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,202,209,107,407
 2005-56,Luebeck CH,Carpet,32,C,20050221,17,103171,1,,Raemon Sluiter,R,185,NED,26.8,103761,,,Tomas Cakl,R,178,CZE,23.8,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,102,414,271,143
 2005-56,Luebeck CH,Carpet,32,C,20050221,18,104121,8,,Tobias Summerer,R,185,GER,22.0,103281,,,Ladislav Svarc,R,188,SVK,26.2,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,166,268,247,160
-2005-56,Luebeck CH,Carpet,32,C,20050221,19,103646,,Q,Lars Uebel,R,,GER,24.3,102965,,,Jamie Delgado,R,178,GBR,27.9,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,440,61,218,189
+2005-56,Luebeck CH,Carpet,32,C,20050221,19,103646,,Q,Lars Uebel,R,180,GER,24.3,102965,,,Jamie Delgado,R,178,GBR,27.9,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,440,61,218,189
 2005-56,Luebeck CH,Carpet,32,C,20050221,20,102567,,,George Bastl,R,183,SUI,29.8,103239,,,Marcus Sarstrand,R,183,SWE,26.5,2-6 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,179,242,248,160
 2005-56,Luebeck CH,Carpet,32,C,20050221,21,104999,,WC,Mischa Zverev,L,190,GER,17.5,103997,,,Lukasz Kubot,R,190,POL,22.7,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,605,32,208,203
 2005-56,Luebeck CH,Carpet,32,C,20050221,22,102565,4,,Alexander Waske,R,188,GER,29.8,103520,,,Pavel Snobel,L,190,CZE,24.9,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,138,329,200,211
 2005-56,Luebeck CH,Carpet,32,C,20050221,23,103582,,,Michael Berrer,L,193,GER,24.6,104010,6,,Dieter Kindlmann,R,183,GER,22.7,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,261,150,147,318
 2005-56,Luebeck CH,Carpet,32,C,20050221,24,104182,,,Sasa Tuksar,R,180,CRO,21.7,104499,,,Jimmy Wang,R,178,TPE,20.0,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,202,209,177,247
 2005-56,Luebeck CH,Carpet,32,C,20050221,25,103171,1,,Raemon Sluiter,R,185,NED,26.8,104121,8,,Tobias Summerer,R,185,GER,22.0,7-5 6-2,3,QF,,,,,,,,,,,,,,,,,,,,102,414,166,268
-2005-56,Luebeck CH,Carpet,32,C,20050221,26,103646,,Q,Lars Uebel,R,,GER,24.3,102567,,,George Bastl,R,183,SUI,29.8,6-4 3-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,440,61,179,242
+2005-56,Luebeck CH,Carpet,32,C,20050221,26,103646,,Q,Lars Uebel,R,180,GER,24.3,102567,,,George Bastl,R,183,SUI,29.8,6-4 3-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,440,61,179,242
 2005-56,Luebeck CH,Carpet,32,C,20050221,27,102565,4,,Alexander Waske,R,188,GER,29.8,104999,,WC,Mischa Zverev,L,190,GER,17.5,6-4 7-6(3),3,QF,,,,,,,,,,,,,,,,,,,,138,329,605,32
 2005-56,Luebeck CH,Carpet,32,C,20050221,28,103582,,,Michael Berrer,L,193,GER,24.6,104182,,,Sasa Tuksar,R,180,CRO,21.7,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,261,150,202,209
-2005-56,Luebeck CH,Carpet,32,C,20050221,29,103171,1,,Raemon Sluiter,R,185,NED,26.8,103646,,Q,Lars Uebel,R,,GER,24.3,6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,102,414,440,61
+2005-56,Luebeck CH,Carpet,32,C,20050221,29,103171,1,,Raemon Sluiter,R,185,NED,26.8,103646,,Q,Lars Uebel,R,180,GER,24.3,6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,102,414,440,61
 2005-56,Luebeck CH,Carpet,32,C,20050221,30,102565,4,,Alexander Waske,R,188,GER,29.8,103582,,,Michael Berrer,L,193,GER,24.6,7-5 7-6(2),3,SF,,,,,,,,,,,,,,,,,,,,138,329,261,150
 2005-56,Luebeck CH,Carpet,32,C,20050221,31,103171,1,,Raemon Sluiter,R,185,NED,26.8,102565,4,,Alexander Waske,R,188,GER,29.8,7-6(2) 7-6(10),3,F,,,,,,,,,,,,,,,,,,,,102,414,138,329
 2005-574,Waikoloa CH,Hard,32,C,20050124,1,102978,,,Zbynek Mlynarik,R,175,AUT,27.7,104166,1,,Alex Bogomolov Jr,R,178,RUS,21.7,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,281,127,125,353
@@ -3162,7 +3162,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-574,Waikoloa CH,Hard,32,C,20050124,30,102821,,,Cecil Mamiit,R,173,PHI,28.5,102987,8,,Andre Sa,R,185,BRA,27.7,6-3 6-1,3,SF,,,,,,,,,,,,,,,,,,,,228,178,183,238
 2005-574,Waikoloa CH,Hard,32,C,20050124,31,102834,,,Paul Goldstein,R,178,USA,28.4,102821,,,Cecil Mamiit,R,173,PHI,28.5,6-2 6-2,3,F,,,,,,,,,,,,,,,,,,,,199,206,228,178
 2005-576,Bogota CH,Clay,32,C,20050718,1,102987,1,,Andre Sa,R,185,BRA,28.1,103065,,,Kepler Orellana,R,,VEN,27.7,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,201,202,1473,1
-2005-576,Bogota CH,Clay,32,C,20050718,2,102985,,,Gustavo Marcaccio,R,,ARG,28.2,104199,,LL,Sebastian Quintero,R,,COL,22.1,6-3 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,415,66,1211,4
+2005-576,Bogota CH,Clay,32,C,20050718,2,102985,,,Gustavo Marcaccio,R,170,ARG,28.2,104199,,LL,Sebastian Quintero,R,,COL,22.1,6-3 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,415,66,1211,4
 2005-576,Bogota CH,Clay,32,C,20050718,3,103883,,,Lucas Engel,U,,BRA,23.6,103590,,,Michael Quintero,R,,COL,25.0,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,390,73,462,57
 2005-576,Bogota CH,Clay,32,C,20050718,4,103525,7,,Ivan Miranda,R,175,PER,25.3,103946,,,Bruno Soares,R,180,BRA,23.3,2-5 RET,3,R32,,,,,,,,,,,,,,,,,,,,286,124,361,85
 2005-576,Bogota CH,Clay,32,C,20050718,5,103228,3,,Marcos Daniel,R,180,BRA,27.0,104648,,Q,Rafael Farias,U,,BRA,19.5,7-6(4) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,177,232,947,8
@@ -3177,7 +3177,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-576,Bogota CH,Clay,32,C,20050718,14,104249,,,Marcelo Melo,R,203,BRA,21.8,104438,,Q,Oscar Rodriguez Sanchez,U,,COL,20.7,3-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,340,94,1372,2
 2005-576,Bogota CH,Clay,32,C,20050718,15,104007,,,Andre Ghem,R,193,BRA,23.1,104857,,WC,Robert Farah,R,193,COL,18.4,7-6(6) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,403,69,866,11
 2005-576,Bogota CH,Clay,32,C,20050718,16,104154,2,,Paul Capdeville,R,190,CHI,22.2,109450,,WC,Michael Birzon,U,,USA,22.5,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,165,255,,
-2005-576,Bogota CH,Clay,32,C,20050718,17,102987,1,,Andre Sa,R,185,BRA,28.1,102985,,,Gustavo Marcaccio,R,,ARG,28.2,2-6 7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,201,202,415,66
+2005-576,Bogota CH,Clay,32,C,20050718,17,102987,1,,Andre Sa,R,185,BRA,28.1,102985,,,Gustavo Marcaccio,R,170,ARG,28.2,2-6 7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,201,202,415,66
 2005-576,Bogota CH,Clay,32,C,20050718,18,103525,7,,Ivan Miranda,R,175,PER,25.3,103883,,,Lucas Engel,U,,BRA,23.6,7-6(5) 7-6(7),3,R16,,,,,,,,,,,,,,,,,,,,286,124,390,73
 2005-576,Bogota CH,Clay,32,C,20050718,19,103228,3,,Marcos Daniel,R,180,BRA,27.0,103975,,,Eric Nunez,R,,USA,23.2,7-6(11) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,177,232,347,88
 2005-576,Bogota CH,Clay,32,C,20050718,20,105053,,WC,Santiago Giraldo,R,188,COL,17.6,104027,,,Pablo Gonzalez,R,178,COL,23.0,6-2 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,559,39,333,98
@@ -3351,7 +3351,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-600,Prague CH,Clay,32,C,20050509,2,103503,,Q,Robin Vik,R,183,CZE,25.2,103902,,Q,Jan Mertl,R,190,CZE,23.3,4-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,149,294,339,102
 2005-600,Prague CH,Clay,32,C,20050509,3,103534,,,Nicolas Devilder,L,173,FRA,25.1,102401,,,Scott Draper,L,178,AUS,30.9,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,196,218,1079,5
 2005-600,Prague CH,Clay,32,C,20050509,4,103181,7,,Jiri Vanek,R,185,CZE,27.0,103035,,,Alessio Di Mauro,L,185,ITA,27.7,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,95,440,101,421
-2005-600,Prague CH,Clay,32,C,20050509,5,105116,,WC,Dusan Lojda,L,,CZE,17.1,103193,3,,Peter Wessels,R,196,NED,27.0,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1358,2,78,509
+2005-600,Prague CH,Clay,32,C,20050509,5,105116,,WC,Dusan Lojda,L,188,CZE,17.1,103193,3,,Peter Wessels,R,196,NED,27.0,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1358,2,78,509
 2005-600,Prague CH,Clay,32,C,20050509,6,104371,,,Ivo Minar,R,183,CZE,20.9,102179,,,Antony Dupuis,R,185,FRA,32.2,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,106,401,112,388
 2005-600,Prague CH,Clay,32,C,20050509,7,103581,,,Flavio Saretta,R,183,BRA,24.8,105134,,WC,Filip Zeman,R,,CZE,17.0,6-0 7-5,3,R32,,,,,,,,,,,,,,,,,,,,119,361,,
 2005-600,Prague CH,Clay,32,C,20050509,8,103420,8,,Michal Tabara,R,175,CZE,25.7,104268,,,Alejandro Falla,L,185,COL,21.4,6-2 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,97,432,231,170
@@ -3366,7 +3366,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-600,Prague CH,Clay,32,C,20050509,16,103401,2,,Jan Hernych,R,190,CZE,25.8,102287,,Q,Albert Portas,R,188,ESP,31.4,4-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,76,512,182,246
 2005-600,Prague CH,Clay,32,C,20050509,17,103503,,Q,Robin Vik,R,183,CZE,25.2,102720,1,,Tomas Zib,R,178,CZE,29.2,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,149,294,61,631
 2005-600,Prague CH,Clay,32,C,20050509,18,103181,7,,Jiri Vanek,R,185,CZE,27.0,103534,,,Nicolas Devilder,L,173,FRA,25.1,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,95,440,196,218
-2005-600,Prague CH,Clay,32,C,20050509,19,104371,,,Ivo Minar,R,183,CZE,20.9,105116,,WC,Dusan Lojda,L,,CZE,17.1,7-6(6) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,106,401,1358,2
+2005-600,Prague CH,Clay,32,C,20050509,19,104371,,,Ivo Minar,R,183,CZE,20.9,105116,,WC,Dusan Lojda,L,188,CZE,17.1,7-6(6) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,106,401,1358,2
 2005-60,Barletta CH,Clay,32,C,20050321,2,102287,,,Albert Portas,R,188,ESP,31.3,104926,,WC,Fabio Fognini,R,178,ITA,17.8,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,171,255,544,41
 2005-600,Prague CH,Clay,32,C,20050509,20,103581,,,Flavio Saretta,R,183,BRA,24.8,103420,8,,Michal Tabara,R,175,CZE,25.7,6-4 2-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,119,361,97,432
 2005-600,Prague CH,Clay,32,C,20050509,21,104019,,,Kristof Vliegen,R,193,BEL,22.8,101868,,,Dick Norman,L,203,BEL,34.1,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,156,287,132,326
@@ -3441,7 +3441,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-603,Fergana CH,Hard,32,C,20050516,30,104229,3,,Yen Hsun Lu,R,180,TPE,21.7,104105,,Q,Pavel Ivanov,R,193,RUS,22.3,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,175,248,855,11
 2005-603,Fergana CH,Hard,32,C,20050516,31,104229,3,,Yen Hsun Lu,R,180,TPE,21.7,103821,6,,Danai Udomchoke,R,173,THA,23.7,6-1 7-6(3),3,F,,,,,,,,,,,,,,,,,,,,175,248,222,175
 2005-622,Puebla CH,Hard,32,C,20051114,1,104686,,Q,Christoph Steiner,U,,AUT,19.7,103505,1,,Vasilis Mazarakis,R,178,GRE,25.7,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,952,10,119,375
-2005-622,Puebla CH,Hard,32,C,20051114,2,104179,,,Bruno Echagaray,R,183,MEX,22.5,104661,,,Pierre Ludovic Duclos,R,,CAN,19.8,6-2 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,364,86,723,22
+2005-622,Puebla CH,Hard,32,C,20051114,2,104179,,,Bruno Echagaray,R,183,MEX,22.5,104661,,,Pierre Ludovic Duclos,R,188,CAN,19.8,6-2 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,364,86,723,22
 2005-622,Puebla CH,Hard,32,C,20051114,3,104323,,LL,Photos Kallias,L,,CYP,21.6,103402,,,Peter Clarke,R,188,IRL,26.3,7-6(4) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,554,42,391,75
 2005-622,Puebla CH,Hard,32,C,20051114,4,103845,8,,Lesley Joseph,U,,USA,24.1,109123,,WC,Adhan Hissam El Effendi,U,,USA,18.2,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,281,123,,
 2005-622,Puebla CH,Hard,32,C,20051114,5,104148,,,Lionel Noviski,R,,ARG,22.6,103762,4,,John Paul Fruttero,R,185,USA,24.5,3-6 6-3 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,379,80,184,214
@@ -3511,7 +3511,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-643,Olbia CH,Clay,32,C,20050411,7,104926,,WC,Fabio Fognini,R,178,ITA,17.8,103565,,,Stephane Robert,R,185,FRA,24.9,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,501,47,229,178
 2005-643,Olbia CH,Clay,32,C,20050411,8,103487,,,Federico Luzzi,R,188,ITA,25.2,104010,6,,Dieter Kindlmann,R,183,GER,22.8,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,190,230,166,278
 2005-643,Olbia CH,Clay,32,C,20050411,9,102548,,Q,Juan Antonio Marin,R,175,CRC,30.1,103849,5,,Francesco Aldi,R,175,ITA,23.5,7-6(2) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,237,172,145,310
-2005-643,Olbia CH,Clay,32,C,20050411,10,103393,,,Yuri Schukin,R,188,KAZ,25.7,103646,,,Lars Uebel,R,,GER,24.4,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,199,215,308,113
+2005-643,Olbia CH,Clay,32,C,20050411,10,103393,,,Yuri Schukin,R,188,KAZ,25.7,103646,,,Lars Uebel,R,180,GER,24.4,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,199,215,308,113
 2005-643,Olbia CH,Clay,32,C,20050411,11,103395,,,Julio Silva,R,173,BRA,25.7,103582,,,Michael Berrer,L,193,GER,24.7,6-1 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,181,246,239,170
 2005-643,Olbia CH,Clay,32,C,20050411,12,102494,3,,Tomas Behrend,R,193,GER,30.3,104354,,WC,Daniele Giorgini,R,180,ITA,20.9,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,114,382,360,92
 2005-643,Olbia CH,Clay,32,C,20050411,13,104056,8,,Roko Karanusic,R,183,CRO,22.5,102107,,,Jan Frode Andersen,L,190,NOR,32.6,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,172,261,228,179
@@ -3564,7 +3564,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-656,Calabasas CH,Hard,32,C,20051017,29,103408,,,Brian Vahaly,R,183,USA,26.2,103319,5,,Jeff Morrison,R,185,USA,26.6,2-6 7-6(5) 7-6(4),3,SF,,,,,,,,,,,,,,,,,,,,165,236,186,209
 2005-656,Calabasas CH,Hard,32,C,20051017,30,103823,,Q,Denis Gremelmayr,L,183,GER,24.1,103248,,Q,Harel Levy,R,185,ISR,27.2,6-2 6-1,3,SF,,,,,,,,,,,,,,,,,,,,220,167,237,151
 2005-656,Calabasas CH,Hard,32,C,20051017,31,103408,,,Brian Vahaly,R,183,USA,26.2,103823,,Q,Denis Gremelmayr,L,183,GER,24.1,3-6 6-2 6-2,3,F,,,,,,,,,,,,,,,,,,,,165,236,220,167
-2005-659,Bukhara CH,Hard,32,C,20050822,1,104081,1,,Boris Pashanski,R,180,SRB,22.8,104149,,,Adrian Cruciat,R,,ROU,22.3,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,135,317,326,102
+2005-659,Bukhara CH,Hard,32,C,20050822,1,104081,1,,Boris Pashanski,R,180,SRB,22.8,104149,,,Adrian Cruciat,R,185,ROU,22.3,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,135,317,326,102
 2005-659,Bukhara CH,Hard,32,C,20050822,2,103735,,,Lovro Zovko,R,190,CRO,24.4,102579,,,Xavier Audouy,U,,FRA,30.3,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,383,76,438,62
 2005-659,Bukhara CH,Hard,32,C,20050822,3,103523,,,Rohan Bopanna,R,190,IND,25.4,109052,,WC,Sobir Ochilov,U,,UZB,31.6,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,344,88,,
 2005-659,Bukhara CH,Hard,32,C,20050822,4,104261,6,,Peng Sun,R,,CHN,21.8,104783,,Q,Mikhail Ledovskikh,R,188,RUS,19.0,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,328,100,701,22
@@ -3630,7 +3630,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-666,Bronx CH,Hard,32,C,20050815,2,104589,,,Chris Guccione,L,201,AUS,20.0,102811,,,Dusan Vemic,R,190,SRB,29.1,4-6 6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,180,231,216,177
 2005-666,Bronx CH,Hard,32,C,20050815,3,102863,,,Takao Suzuki,R,175,JPN,28.9,104146,,LL,Jonathan Chu,R,,USA,22.4,6-1 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,208,187,1369,2
 2005-666,Bronx CH,Hard,32,C,20050815,4,104001,,Q,Brian Wilson,R,190,USA,23.2,104025,7,,Amer Delic,R,196,BIH,23.1,3-6 6-2 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,417,67,154,281
-2005-666,Bronx CH,Hard,32,C,20050815,5,104820,,LL,Erik Chvojka,L,,CAN,18.8,102227,3,,Sargis Sargsian,R,180,ARM,32.1,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,894,10,117,374
+2005-666,Bronx CH,Hard,32,C,20050815,5,104820,,LL,Erik Chvojka,L,185,CAN,18.8,102227,3,,Sargis Sargsian,R,180,ARM,32.1,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,894,10,117,374
 2005-666,Bronx CH,Hard,32,C,20050815,6,103709,,,Kristian Pless,R,188,DEN,24.5,102821,,WC,Cecil Mamiit,R,173,PHI,29.1,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,178,233,232,164
 2005-666,Bronx CH,Hard,32,C,20050815,7,103408,,,Brian Vahaly,R,183,USA,26.0,102965,,LL,Jamie Delgado,R,178,GBR,28.4,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,182,228,241,153
 2005-666,Bronx CH,Hard,32,C,20050815,8,102967,,,Marc Gicquel,R,188,FRA,28.3,103894,,LL,Phillip King,R,175,USA,23.6,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,168,248,584,34
@@ -3644,7 +3644,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-666,Bronx CH,Hard,32,C,20050815,16,103822,,WC,Scott Lipsky,R,185,USA,24.0,101868,2,,Dick Norman,L,203,BEL,34.4,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,440,61,109,382
 2005-666,Bronx CH,Hard,32,C,20050815,17,104160,1,,Lukas Dlouhy,R,185,CZE,22.3,104589,,,Chris Guccione,L,201,AUS,20.0,7-6(3) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,100,423,180,231
 2005-666,Bronx CH,Hard,32,C,20050815,18,102863,,,Takao Suzuki,R,175,JPN,28.9,104001,,Q,Brian Wilson,R,190,USA,23.2,6-1 2-6 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,208,187,417,67
-2005-666,Bronx CH,Hard,32,C,20050815,19,103709,,,Kristian Pless,R,188,DEN,24.5,104820,,LL,Erik Chvojka,L,,CAN,18.8,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,178,233,894,10
+2005-666,Bronx CH,Hard,32,C,20050815,19,103709,,,Kristian Pless,R,188,DEN,24.5,104820,,LL,Erik Chvojka,L,185,CAN,18.8,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,178,233,894,10
 2005-666,Bronx CH,Hard,32,C,20050815,20,103408,,,Brian Vahaly,R,183,USA,26.0,102967,,,Marc Gicquel,R,188,FRA,28.3,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,182,228,168,248
 2005-666,Bronx CH,Hard,32,C,20050815,21,103917,,,Nicolas Mahut,R,190,FRA,23.5,102558,,Q,Eric Taino,L,175,PHI,30.4,7-6(1) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,165,260,267,137
 2005-666,Bronx CH,Hard,32,C,20050815,22,103693,4,,Thierry Ascione,R,188,FRA,24.5,103559,,,David Sherwood,R,193,GBR,25.2,7-6(2) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,118,372,233,163
@@ -3690,7 +3690,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-670,Binghamton CH,Hard,32,C,20050808,31,104918,2,,Andy Murray,R,190,GBR,18.2,104268,,Q,Alejandro Falla,L,185,COL,21.7,7-6(3) 6-3,3,F,,,,,,,,,,,,,,,,,,,,145,291,297,118
 2005-686,Scheveningen CH,Clay,32,C,20050704,1,103487,,,Federico Luzzi,R,188,ITA,25.4,103193,1,,Peter Wessels,R,196,NED,27.1,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,165,262,79,518
 2005-686,Scheveningen CH,Clay,32,C,20050704,2,101962,,WC,Younes El Aynaoui,R,193,MAR,33.7,103918,,Q,Dominique Coene,R,,BEL,23.4,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,471,54,467,56
-2005-686,Scheveningen CH,Clay,32,C,20050704,3,104327,,,Steve Darcis,R,178,BEL,21.2,103646,,,Lars Uebel,R,,GER,24.7,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,208,199,279,128
+2005-686,Scheveningen CH,Clay,32,C,20050704,3,104327,,,Steve Darcis,R,178,BEL,21.2,103646,,,Lars Uebel,R,180,GER,24.7,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,208,199,279,128
 2005-686,Scheveningen CH,Clay,32,C,20050704,4,104468,5,,Gilles Simon,R,183,FRA,20.4,103324,,,Arnaud Di Pasquale,R,185,FRA,26.3,6-4 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,132,332,284,124
 2005-686,Scheveningen CH,Clay,32,C,20050704,5,104019,3,,Kristof Vliegen,R,193,BEL,23.0,103653,,Q,Jasper Smit,R,,NED,24.6,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,122,354,468,56
 2005-686,Scheveningen CH,Clay,32,C,20050704,6,103358,,,Nicolas Todero,R,183,ARG,26.2,104898,,WC,Robin Haase,R,190,NED,18.2,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,258,144,1382,2
@@ -3698,7 +3698,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-686,Scheveningen CH,Clay,32,C,20050704,8,103956,,,Stefan Wauters,R,,BEL,23.2,103626,6,,Tomas Tenconi,R,178,ITA,24.8,6-7(1) 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,249,149,141,311
 2005-686,Scheveningen CH,Clay,32,C,20050704,9,103868,,,Ivan Navarro,R,183,ESP,23.6,103693,7,,Thierry Ascione,R,188,FRA,24.4,3-6 6-2 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,168,258,147,303
 2005-686,Scheveningen CH,Clay,32,C,20050704,10,104230,,,Daniel Koellerer,R,180,AUT,21.8,103465,,,Paul Logtens,R,175,NED,25.6,4-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,239,159,270,133
-2005-686,Scheveningen CH,Clay,32,C,20050704,11,103789,,,Irakli Labadze,L,188,GEO,24.0,105014,,WC,Antal Van Der Duim,R,,NED,17.7,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,207,199,1153,4
+2005-686,Scheveningen CH,Clay,32,C,20050704,11,103789,,,Irakli Labadze,L,188,GEO,24.0,105014,,WC,Antal Van Der Duim,R,185,NED,17.7,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,207,199,1153,4
 2005-686,Scheveningen CH,Clay,32,C,20050704,12,103898,4,,Julien Benneteau,R,185,FRA,23.5,103916,,,Cristian Villagran,R,180,ARG,23.4,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,126,344,226,173
 2005-686,Scheveningen CH,Clay,32,C,20050704,13,102615,8,,Dennis Van Scheppingen,R,185,NED,29.9,104273,,,Edouard Roger Vasselin,R,188,FRA,21.5,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,149,298,233,166
 2005-686,Scheveningen CH,Clay,32,C,20050704,14,103369,,WC,Melle Van Gemerden,R,183,NED,26.1,104439,,LL,Vadim Davletshin,U,,RUS,20.7,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,290,121,556,41
@@ -3733,7 +3733,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-687,Togliatti CH,Hard,32,C,20050725,12,103902,4,,Jan Mertl,R,190,CZE,23.5,103402,,,Peter Clarke,R,188,IRL,26.0,7-6(2) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,291,118,452,58
 2005-687,Togliatti CH,Hard,32,C,20050725,13,103467,5,,Victor Bruthans,R,,SVK,25.7,103822,,,Scott Lipsky,R,185,USA,23.9,6-4 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,326,102,402,69
 2005-687,Togliatti CH,Hard,32,C,20050725,14,102911,,,Andrei Stoliarov,R,178,RUS,28.5,104039,,,Petar Popovic,U,,SRB,22.9,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,442,60,438,61
-2005-687,Togliatti CH,Hard,32,C,20050725,15,104217,,,Simon Stadler,L,183,GER,22.0,104149,,,Adrian Cruciat,R,,ROU,22.3,6-2 1-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,421,65,379,76
+2005-687,Togliatti CH,Hard,32,C,20050725,15,104217,,,Simon Stadler,L,183,GER,22.0,104149,,,Adrian Cruciat,R,185,ROU,22.3,6-2 1-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,421,65,379,76
 2005-687,Togliatti CH,Hard,32,C,20050725,16,103208,2,,Jean Michel Pequery,R,,FRA,27.1,109104,,WC,Dmitry Frumkin,U,,RUS,18.1,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,247,146,,
 2005-687,Togliatti CH,Hard,32,C,20050725,17,104081,1,,Boris Pashanski,R,180,SRB,22.7,104797,,Q,Denis Istomin,R,188,UZB,18.8,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,188,217,318,104
 2005-687,Togliatti CH,Hard,32,C,20050725,18,103949,6,,Ivan Cerovic,L,190,CRO,23.4,104707,,Q,Denis Matsukevitch,R,190,RUS,19.3,5-7 6-3 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,333,100,506,48
@@ -3879,12 +3879,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-696,Brasov CH,Clay,32,C,20050905,3,104665,,Q,Pablo Andujar,R,180,ESP,19.5,102603,,,Melvyn Op Der Heijde,R,180,NED,30.2,6-3 4-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,474,54,240,155
 2005-696,Brasov CH,Clay,32,C,20050905,4,104593,8,,Daniel Gimeno Traver,R,185,ESP,20.0,109615,,WC,Thomas Gilner,R,,GER,18.3,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,225,169,,
 2005-696,Brasov CH,Clay,32,C,20050905,5,104494,,,Adrian Ungur,R,178,ROU,20.5,104081,4,,Boris Pashanski,R,180,SRB,22.8,6-2 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,297,118,133,328
-2005-696,Brasov CH,Clay,32,C,20050905,6,103506,,,Martin Vassallo Arguello,R,183,ARG,25.5,104149,,,Adrian Cruciat,R,,ROU,22.4,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,259,145,328,102
+2005-696,Brasov CH,Clay,32,C,20050905,6,103506,,,Martin Vassallo Arguello,R,183,ARG,25.5,104149,,,Adrian Cruciat,R,185,ROU,22.4,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,259,145,328,102
 2005-696,Brasov CH,Clay,32,C,20050905,7,102107,,,Jan Frode Andersen,L,190,NOR,32.9,103936,,LL,Todor Enev,R,,BUL,23.5,5-7 7-6(4) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,329,101,363,83
 2005-696,Brasov CH,Clay,32,C,20050905,8,103105,6,,Ruben Ramirez Hidalgo,R,183,ESP,27.6,103893,,,Paolo Lorenzi,R,183,ITA,23.7,6-7(5) 6-4 7-6(8),3,R32,,,,,,,,,,,,,,,,,,,,147,288,269,140
 2005-696,Brasov CH,Clay,32,C,20050905,9,104181,7,,Victor Ionita,R,185,ROU,22.3,104685,,WC,Aleksandr Agafonov,U,,UKR,19.5,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,217,179,,
 2005-696,Brasov CH,Clay,32,C,20050905,10,103305,,Q,Daniel Elsner,R,183,GER,26.6,103666,,Q,Ilia Kushev,R,,BUL,24.7,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,476,53,434,63
-2005-696,Brasov CH,Clay,32,C,20050905,11,104230,,,Daniel Koellerer,R,180,AUT,22.0,103623,,,Jacob Adaktusson,R,,SWE,24.9,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,252,147,303,116
+2005-696,Brasov CH,Clay,32,C,20050905,11,104230,,,Daniel Koellerer,R,180,AUT,22.0,103623,,,Jacob Adaktusson,R,193,SWE,24.9,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,252,147,303,116
 2005-696,Brasov CH,Clay,32,C,20050905,12,104122,3,,Carlos Berlocq,R,183,ARG,22.5,103925,,,Gabriel Moraru,R,180,ROU,23.5,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,116,377,239,158
 2005-696,Brasov CH,Clay,32,C,20050905,13,103505,6,,Vasilis Mazarakis,R,178,GRE,25.5,103564,,,Jakub Herm Zahlava,R,,GER,25.2,5-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,153,281,245,151
 2005-696,Brasov CH,Clay,32,C,20050905,14,102615,,,Dennis Van Scheppingen,R,185,NED,30.1,104515,,,Mathieu Montcourt,R,183,FRA,20.4,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,226,169,293,124
@@ -4004,14 +4004,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-754,Ljubljana CH,Clay,32,C,20050523,4,103506,,,Martin Vassallo Arguello,R,183,ARG,25.2,103582,8,,Michael Berrer,L,193,GER,24.8,3-6 6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,273,138,224,172
 2005-754,Ljubljana CH,Clay,32,C,20050523,5,102959,,WC,Marko Tkalec,R,178,SLO,28.1,103009,3,,Razvan Sabau,R,185,ROU,27.9,7-6(8) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,745,18,121,342
 2005-754,Ljubljana CH,Clay,32,C,20050523,6,103435,,,Massimo Dellacqua,R,193,ITA,25.7,102603,,,Melvyn Op Der Heijde,R,180,NED,29.9,6-4 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,294,124,299,122
-2005-754,Ljubljana CH,Clay,32,C,20050523,7,104327,,,Steve Darcis,R,178,BEL,21.1,103646,,Q,Lars Uebel,R,,GER,24.6,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,234,165,301,120
+2005-754,Ljubljana CH,Clay,32,C,20050523,7,104327,,,Steve Darcis,R,178,BEL,21.1,103646,,Q,Lars Uebel,R,180,GER,24.6,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,234,165,301,120
 2005-754,Ljubljana CH,Clay,32,C,20050523,8,103912,,Q,Mario Radic,R,188,CRO,23.3,103580,5,,Alexander Peya,R,183,AUT,24.9,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,668,25,177,246
 2005-754,Ljubljana CH,Clay,32,C,20050523,9,103709,7,,Kristian Pless,R,188,DEN,24.2,104813,,WC,Grega Zemlja,R,183,SLO,18.6,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,200,214,539,43
 2005-754,Ljubljana CH,Clay,32,C,20050523,10,104154,,,Paul Capdeville,R,190,CHI,22.1,104081,,,Boris Pashanski,R,180,SRB,22.5,6-4 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,226,171,249,151
 2005-754,Ljubljana CH,Clay,32,C,20050523,11,103505,,,Vasilis Mazarakis,R,178,GRE,25.2,103165,,,Gorka Fraile,R,180,ESP,27.1,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,195,217,271,139
 2005-754,Ljubljana CH,Clay,32,C,20050523,12,104056,4,,Roko Karanusic,R,183,CRO,22.7,102381,,,Werner Eschauer,R,188,AUT,31.0,7-6(1) 0-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,166,269,242,155
 2005-754,Ljubljana CH,Clay,32,C,20050523,13,103700,6,,Juan Pablo Guzman,L,178,ARG,24.3,103828,,,Jean Julien Rojer,R,183,AHO,23.7,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,199,215,298,122
-2005-754,Ljubljana CH,Clay,32,C,20050523,14,103385,,,Paul Baccanello,R,183,AUS,25.9,103708,,Q,Jaroslav Pospisil,R,,CZE,24.2,7-6(5) 4-6 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,296,123,440,60
+2005-754,Ljubljana CH,Clay,32,C,20050523,14,103385,,,Paul Baccanello,R,183,AUS,25.9,103708,,Q,Jaroslav Pospisil,R,176,CZE,24.2,7-6(5) 4-6 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,296,123,440,60
 2005-754,Ljubljana CH,Clay,32,C,20050523,15,103999,,,Thiago Alves,R,178,BRA,23.0,103956,,,Stefan Wauters,R,,BEL,23.1,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,237,162,252,150
 2005-754,Ljubljana CH,Clay,32,C,20050523,16,103105,2,,Ruben Ramirez Hidalgo,R,183,ESP,27.3,103635,,Q,Andrew Derer,U,,AUS,24.6,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,141,302,494,48
 2005-754,Ljubljana CH,Clay,32,C,20050523,17,104453,1,,Michael Ryderstedt,L,188,SWE,20.5,104582,,WC,Rok Jarc,R,,SLO,19.8,7-6(7) 1-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,140,305,736,19
@@ -4167,7 +4167,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-784,Seville CH,Clay,32,C,20050912,12,103535,3,,Olivier Patience,R,180,FRA,25.4,103543,,,David Marrero,R,185,ESP,25.4,7-6(5) 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,139,295,332,97
 2005-784,Seville CH,Clay,32,C,20050912,13,104559,7,,Teymuraz Gabashvili,R,188,RUS,20.3,104349,,,Rui Machado,R,178,POR,21.4,6-3 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,179,233,250,146
 2005-784,Seville CH,Clay,32,C,20050912,14,104021,,,Marco Mirnegg,R,180,AUT,23.2,103521,,,Andrea Stoppini,R,190,ITA,25.5,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,261,140,226,166
-2005-784,Seville CH,Clay,32,C,20050912,15,104170,,,Hector Ruiz Cadenas,U,,ESP,22.3,104149,,,Adrian Cruciat,R,,ROU,22.4,4-6 6-0 7-5,3,R32,,,,,,,,,,,,,,,,,,,,341,92,346,91
+2005-784,Seville CH,Clay,32,C,20050912,15,104170,,,Hector Ruiz Cadenas,U,,ESP,22.3,104149,,,Adrian Cruciat,R,185,ROU,22.4,4-6 6-0 7-5,3,R32,,,,,,,,,,,,,,,,,,,,341,92,346,91
 2005-784,Seville CH,Clay,32,C,20050912,16,102231,2,,Alex Calatrava,R,190,ESP,32.2,104445,,WC,Jose Antonio Sanchez De Luna,R,,ESP,20.9,7-6(6) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,159,260,500,49
 2005-784,Seville CH,Clay,32,C,20050912,17,102950,1,,Fernando Vicente,R,180,ESP,28.5,103448,,Q,Gabriel Trujillo Soler,R,,ESP,25.9,6-4 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,119,369,423,67
 2005-784,Seville CH,Clay,32,C,20050912,18,103369,6,,Melle Van Gemerden,R,183,NED,26.3,103165,,,Gorka Fraile,R,180,ESP,27.4,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,160,260,257,143
@@ -4229,7 +4229,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-799,Gramado CH,Hard,32,C,20050808,12,103395,4,,Julio Silva,R,173,BRA,26.1,109015,,WC,Marcos Felipe Arend,R,,BRA,20.2,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,170,246,,
 2005-799,Gramado CH,Hard,32,C,20050808,13,104136,7,,Santiago Gonzalez,R,190,MEX,22.4,103848,,,Agustin Tarantino,R,,ARG,23.8,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,192,215,332,93
 2005-799,Gramado CH,Hard,32,C,20050808,14,104113,,,Carlos Salamanca,L,196,COL,22.5,103746,,,Miguel Gallardo Valles,R,,MEX,24.3,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,330,94,245,153
-2005-799,Gramado CH,Hard,32,C,20050808,15,103623,,,Jacob Adaktusson,R,,SWE,24.9,104249,,,Marcelo Melo,R,203,BRA,21.8,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,370,80,319,106
+2005-799,Gramado CH,Hard,32,C,20050808,15,103623,,,Jacob Adaktusson,R,193,SWE,24.9,104249,,,Marcelo Melo,R,203,BRA,21.8,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,370,80,319,106
 2005-799,Gramado CH,Hard,32,C,20050808,16,103228,2,,Marcos Daniel,R,180,BRA,27.0,102300,,,Gouichi Motomura,R,173,JPN,31.6,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,140,304,279,129
 2005-799,Gramado CH,Hard,32,C,20050808,17,103581,1,,Flavio Saretta,R,183,BRA,25.1,104314,,,Brian Dabul,L,170,ARG,21.4,7-6(6) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,121,363,363,83
 2005-799,Gramado CH,Hard,32,C,20050808,18,103999,6,,Thiago Alves,R,178,BRA,23.2,102667,,,Satoshi Iwabuchi,L,175,JPN,29.8,6-4 6-7(5) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,202,202,258,140
@@ -4238,14 +4238,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-799,Gramado CH,Hard,32,C,20050808,21,105053,,Q,Santiago Giraldo,R,188,COL,17.6,104392,8,,Franco Ferreiro,R,188,BRA,21.1,6-3 4-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,453,57,205,190
 2005-799,Gramado CH,Hard,32,C,20050808,22,103762,,,John Paul Fruttero,R,185,USA,24.2,103395,4,,Julio Silva,R,173,BRA,26.1,6-7(5) 7-5 7-6(9),3,R16,,,,,,,,,,,,,,,,,,,,238,159,170,246
 2005-799,Gramado CH,Hard,32,C,20050808,23,104136,7,,Santiago Gonzalez,R,190,MEX,22.4,104113,,,Carlos Salamanca,L,196,COL,22.5,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,192,215,330,94
-2005-799,Gramado CH,Hard,32,C,20050808,24,103623,,,Jacob Adaktusson,R,,SWE,24.9,103228,2,,Marcos Daniel,R,180,BRA,27.0,7-6(6) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,370,80,140,304
+2005-799,Gramado CH,Hard,32,C,20050808,24,103623,,,Jacob Adaktusson,R,193,SWE,24.9,103228,2,,Marcos Daniel,R,180,BRA,27.0,7-6(6) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,370,80,140,304
 2005-799,Gramado CH,Hard,32,C,20050808,25,103581,1,,Flavio Saretta,R,183,BRA,25.1,103999,6,,Thiago Alves,R,178,BRA,23.2,7-5 6-4,3,QF,,,,,,,,,,,,,,,,,,,,121,363,202,202
 2005-799,Gramado CH,Hard,32,C,20050808,26,103709,5,,Kristian Pless,R,188,DEN,24.4,104007,,Q,Andre Ghem,R,193,BRA,23.1,7-6(5) 6-7(4) 7-5,3,QF,,,,,,,,,,,,,,,,,,,,190,216,366,82
 2005-799,Gramado CH,Hard,32,C,20050808,27,103762,,,John Paul Fruttero,R,185,USA,24.2,105053,,Q,Santiago Giraldo,R,188,COL,17.6,6-2 7-6(3),3,QF,,,,,,,,,,,,,,,,,,,,238,159,453,57
-2005-799,Gramado CH,Hard,32,C,20050808,28,103623,,,Jacob Adaktusson,R,,SWE,24.9,104136,7,,Santiago Gonzalez,R,190,MEX,22.4,7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,370,80,192,215
+2005-799,Gramado CH,Hard,32,C,20050808,28,103623,,,Jacob Adaktusson,R,193,SWE,24.9,104136,7,,Santiago Gonzalez,R,190,MEX,22.4,7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,370,80,192,215
 2005-799,Gramado CH,Hard,32,C,20050808,29,103581,1,,Flavio Saretta,R,183,BRA,25.1,103709,5,,Kristian Pless,R,188,DEN,24.4,7-6(6) 6-3,3,SF,,,,,,,,,,,,,,,,,,,,121,363,190,216
-2005-799,Gramado CH,Hard,32,C,20050808,30,103623,,,Jacob Adaktusson,R,,SWE,24.9,103762,,,John Paul Fruttero,R,185,USA,24.2,6-3 6-7(5) 6-4,3,SF,,,,,,,,,,,,,,,,,,,,370,80,238,159
-2005-799,Gramado CH,Hard,32,C,20050808,31,103581,1,,Flavio Saretta,R,183,BRA,25.1,103623,,,Jacob Adaktusson,R,,SWE,24.9,6-1 6-3,3,F,,,,,,,,,,,,,,,,,,,,121,363,370,80
+2005-799,Gramado CH,Hard,32,C,20050808,30,103623,,,Jacob Adaktusson,R,193,SWE,24.9,103762,,,John Paul Fruttero,R,185,USA,24.2,6-3 6-7(5) 6-4,3,SF,,,,,,,,,,,,,,,,,,,,370,80,238,159
+2005-799,Gramado CH,Hard,32,C,20050808,31,103581,1,,Flavio Saretta,R,183,BRA,25.1,103623,,,Jacob Adaktusson,R,193,SWE,24.9,6-1 6-3,3,F,,,,,,,,,,,,,,,,,,,,121,363,370,80
 2005-824,Aachen CH,Carpet,32,C,20051031,1,105095,,LL,Evgeny Korolev,R,185,KAZ,17.7,109665,,WC,Daniel Forster,U,,GER,25.5,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,255,138,,
 2005-824,Aachen CH,Carpet,32,C,20051031,2,101962,,WC,Younes El Aynaoui,R,193,MAR,34.1,109666,,WC,Dariusz Lipka,R,183,POL,18.1,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,300,112,,
 2005-824,Aachen CH,Carpet,32,C,20051031,3,103538,,Q,James Auckland,R,,GBR,25.5,104620,,LL,Simone Bolelli,R,183,ITA,20.0,7-6(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,325,101,234,154
@@ -4277,7 +4277,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-824,Aachen CH,Carpet,32,C,20051031,29,105095,,LL,Evgeny Korolev,R,185,KAZ,17.7,103747,,WC,Dominik Meffert,R,198,GER,24.5,7-5 6-4,3,SF,,,,,,,,,,,,,,,,,,,,255,138,359,87
 2005-824,Aachen CH,Carpet,32,C,20051031,30,103171,7,,Raemon Sluiter,R,185,NED,27.5,102565,2,,Alexander Waske,R,188,GER,30.5,6-3 7-6(8),3,SF,,,,,,,,,,,,,,,,,,,,136,305,104,416
 2005-824,Aachen CH,Carpet,32,C,20051031,31,105095,,LL,Evgeny Korolev,R,185,KAZ,17.7,103171,7,,Raemon Sluiter,R,185,NED,27.5,6-3 7-6(7),3,F,,,,,,,,,,,,,,,,,,,,255,138,136,305
-2005-827,Andrezieux CH,Hard,32,C,20050131,1,103592,1,,Jerome Haehnel,R,185,FRA,24.5,103926,,,Daniel Munoz de la Nava,L,,ESP,23.0,4-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,91,453,331,98
+2005-827,Andrezieux CH,Hard,32,C,20050131,1,103592,1,,Jerome Haehnel,R,185,FRA,24.5,103926,,,Daniel Munoz de la Nava,L,178,ESP,23.0,4-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,91,453,331,98
 2005-827,Andrezieux CH,Hard,32,C,20050131,2,102967,,,Marc Gicquel,R,188,FRA,27.8,104593,,,Daniel Gimeno Traver,R,185,ESP,19.4,7-6(5) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,174,251,201,211
 2005-827,Andrezieux CH,Hard,32,C,20050131,3,102143,,,Nicolas Thomann,R,183,FRA,32.1,102788,,,Jan Vacek,R,198,CZE,28.7,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,369,81,205,206
 2005-827,Andrezieux CH,Hard,32,C,20050131,4,103444,7,,Jean Rene Lisnard,R,173,MON,25.3,103324,,,Arnaud Di Pasquale,R,185,FRA,25.9,6-3 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,114,399,218,189
@@ -4502,7 +4502,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-851,Dresden CH,Clay,32,C,20050516,6,103634,,,Emiliano Redondi,R,,ARG,24.6,102942,,,Vladimir Pavicevic,R,,SRB,28.2,2-6 6-3 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,359,91,423,64
 2005-851,Dresden CH,Clay,32,C,20050516,7,103848,,,Agustin Tarantino,R,,ARG,23.6,104735,,Q,Tobias Kamke,R,180,GER,18.9,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,379,83,781,16
 2005-851,Dresden CH,Clay,32,C,20050516,8,104081,,,Boris Pashanski,R,180,SRB,22.5,103988,8,,Mariano Albert Ferrando,R,,ESP,23.0,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,323,106,305,114
-2005-851,Dresden CH,Clay,32,C,20050516,9,103646,,,Lars Uebel,R,,GER,24.5,103465,5,,Paul Logtens,R,175,NED,25.5,6-1 5-7 7-6(10),3,R32,,,,,,,,,,,,,,,,,,,,304,115,284,126
+2005-851,Dresden CH,Clay,32,C,20050516,9,103646,,,Lars Uebel,R,180,GER,24.5,103465,5,,Paul Logtens,R,175,NED,25.5,6-1 5-7 7-6(10),3,R32,,,,,,,,,,,,,,,,,,,,304,115,284,126
 2005-851,Dresden CH,Clay,32,C,20050516,10,104170,,,Hector Ruiz Cadenas,U,,ESP,22.0,103837,,,Didac Perez,R,178,ESP,23.6,7-6(9) 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,414,68,347,95
 2005-851,Dresden CH,Clay,32,C,20050516,11,104918,,,Andy Murray,R,190,GBR,18.0,102153,,Q,German Puentes,R,173,ESP,32.4,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,367,87,505,47
 2005-851,Dresden CH,Clay,32,C,20050516,12,103967,,,Michael Lammer,R,185,SUI,23.1,103422,4,,Sebastian Fitz,R,,GER,25.7,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,355,92,275,132
@@ -4514,7 +4514,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-851,Dresden CH,Clay,32,C,20050516,18,103290,,Q,Radim Zitko,R,,CZE,26.4,104195,,,Simone Vagnozzi,R,173,ITA,21.9,4-6 6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,615,31,392,79
 2005-851,Dresden CH,Clay,32,C,20050516,19,102999,3,,Stefano Galvani,R,178,ITA,27.9,103634,,,Emiliano Redondi,R,,ARG,24.6,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,272,133,359,91
 2005-851,Dresden CH,Clay,32,C,20050516,20,104081,,,Boris Pashanski,R,180,SRB,22.5,103848,,,Agustin Tarantino,R,,ARG,23.6,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,323,106,379,83
-2005-851,Dresden CH,Clay,32,C,20050516,21,104170,,,Hector Ruiz Cadenas,U,,ESP,22.0,103646,,,Lars Uebel,R,,GER,24.5,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,414,68,304,115
+2005-851,Dresden CH,Clay,32,C,20050516,21,104170,,,Hector Ruiz Cadenas,U,,ESP,22.0,103646,,,Lars Uebel,R,180,GER,24.5,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,414,68,304,115
 2005-851,Dresden CH,Clay,32,C,20050516,22,103967,,,Michael Lammer,R,185,SUI,23.1,104918,,,Andy Murray,R,190,GBR,18.0,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,355,92,367,87
 2005-851,Dresden CH,Clay,32,C,20050516,23,104719,,,Marcel Granollers,R,190,ESP,19.0,104332,7,,Philipp Petzschner,R,185,GER,21.1,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,370,87,297,120
 2005-851,Dresden CH,Clay,32,C,20050516,24,103505,2,,Vasilis Mazarakis,R,178,GRE,25.2,104681,,Q,Sebastian Rieschick,R,,GER,19.2,7-5 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,231,168,594,34
@@ -4564,7 +4564,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-877,Granby CH,Hard,32,C,20050725,6,105229,,WC,Philip Bester,R,188,CAN,16.7,103510,,WC,Rob Steckley,R,,CAN,25.4,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,590,33
 2005-877,Granby CH,Hard,32,C,20050725,7,104261,,,Peng Sun,R,,CHN,21.7,103845,,,Lesley Joseph,U,,USA,23.8,7-6(3) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,290,118,315,106
 2005-877,Granby CH,Hard,32,C,20050725,8,104229,5,,Yen Hsun Lu,R,180,TPE,21.9,103739,,,Jose De Armas,R,,VEN,24.3,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,138,307,307,107
-2005-877,Granby CH,Hard,32,C,20050725,9,102887,7,,Ramon Delgado,R,185,PAR,28.6,104820,,Q,Erik Chvojka,L,,CAN,18.7,6-3 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,153,268,1072,5
+2005-877,Granby CH,Hard,32,C,20050725,9,102887,7,,Ramon Delgado,R,185,PAR,28.6,104820,,Q,Erik Chvojka,L,185,CAN,18.7,6-3 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,153,268,1072,5
 2005-877,Granby CH,Hard,32,C,20050725,10,103523,,,Rohan Bopanna,R,190,IND,25.3,102880,,,Alexander Popp,R,201,GER,28.7,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,363,81,288,121
 2005-877,Granby CH,Hard,32,C,20050725,11,104433,,,Frank Dancevic,R,185,CAN,20.8,104496,,LL,Luis Manuel Flores,L,,MEX,20.4,6-1 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,190,216,1033,6
 2005-877,Granby CH,Hard,32,C,20050725,12,102567,3,,George Bastl,R,183,SUI,30.3,104486,,,Horia Tecau,R,193,ROU,20.5,6-4 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,116,377,358,83
@@ -4706,7 +4706,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-560,US Open,Hard,128,G,20050829,246,104620,,,Simone Bolelli,R,183,ITA,19.8,104392,,,Franco Ferreiro,R,188,BRA,21.1,7-6(6) 7-6(4),3,Q1,,,,,,,,,,,,,,,,,,,,199,197,203,194
 2005-560,US Open,Hard,128,G,20050829,245,102851,,,Giorgio Galimberti,R,180,ITA,28.9,102987,29,,Andre Sa,R,185,BRA,28.3,5-7 7-5 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,236,159,149,287
 2005-560,US Open,Hard,128,G,20050829,244,104918,15,,Andy Murray,R,190,GBR,18.2,104534,,,Dudi Sela,R,175,ISR,20.4,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,122,358,165,258
-2005-560,US Open,Hard,128,G,20050829,243,103893,,,Paolo Lorenzi,R,183,ITA,23.7,103623,,PR,Jacob Adaktusson,R,,SWE,24.9,6-2 7-6(2),3,Q1,,,,,,,,,,,,,,,,,,,,269,140,303,116
+2005-560,US Open,Hard,128,G,20050829,243,103893,,,Paolo Lorenzi,R,183,ITA,23.7,103623,,PR,Jacob Adaktusson,R,193,SWE,24.9,6-2 7-6(2),3,Q1,,,,,,,,,,,,,,,,,,,,269,140,303,116
 2005-560,US Open,Hard,128,G,20050829,242,103857,,,Igor Kunitsyn,R,180,RUS,23.9,103467,,,Victor Bruthans,R,,SVK,25.8,6-1 4-1 RET,3,Q1,,,,,,,,,,,,,,,,,,,,168,253,254,147
 2005-560,US Open,Hard,128,G,20050829,241,104117,22,,Giovanni Lapentti,R,193,ECU,22.5,104495,,,Florin Mergea,R,180,ROU,20.5,5-7 6-3 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,137,308,312,110
 2005-560,US Open,Hard,128,G,20050829,240,104499,16,,Jimmy Wang,R,178,TPE,20.5,102965,,,Jamie Delgado,R,178,GBR,28.4,6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,126,352,243,153
@@ -4810,11 +4810,11 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-520,Roland Garros,Clay,128,G,20050523,254,103679,,,Jeroen Masson,R,,BEL,24.3,102987,,,Andre Sa,R,185,BRA,28.0,6-1 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,250,151,157,281
 2005-520,Roland Garros,Clay,128,G,20050523,253,103626,29,,Tomas Tenconi,R,178,ITA,24.7,102869,,,Galo Blanco,R,173,ESP,28.6,6-1 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,147,299,232,166
 2005-520,Roland Garros,Clay,128,G,20050523,252,103281,,,Ladislav Svarc,R,188,SVK,26.5,103917,13,,Nicolas Mahut,R,190,FRA,23.3,6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,247,152,128,330
-2005-520,Roland Garros,Clay,128,G,20050523,251,103761,,,Tomas Cakl,R,178,CZE,24.0,105098,,WC,Alexandre Sidorenko,R,,FRA,17.2,6-4 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,229,170,1251,3
+2005-520,Roland Garros,Clay,128,G,20050523,251,103761,,,Tomas Cakl,R,178,CZE,24.0,105098,,WC,Alexandre Sidorenko,R,185,FRA,17.2,6-4 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,229,170,1251,3
 2005-520,Roland Garros,Clay,128,G,20050523,250,103789,,,Irakli Labadze,L,188,GEO,23.9,103470,,,Robert Kendrick,R,190,USA,25.5,4-6 6-3 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,190,222,196,217
 2005-520,Roland Garros,Clay,128,G,20050523,249,103484,17,,James Blake,R,185,USA,25.4,102821,,,Cecil Mamiit,R,173,PHI,28.9,6-4 7-6(2),3,Q1,,,,,,,,,,,,,,,,,,,,127,330,236,165
 2005-520,Roland Garros,Clay,128,G,20050523,248,104122,,,Carlos Berlocq,R,183,ARG,22.2,103133,14,,Olivier Mutis,R,175,FRA,27.3,7-6(5) 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,191,220,124,337
-2005-520,Roland Garros,Clay,128,G,20050523,247,104589,,,Chris Guccione,L,201,AUS,19.8,103623,,PR,Jacob Adaktusson,R,,SWE,24.7,6-4 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,217,180,302,119
+2005-520,Roland Garros,Clay,128,G,20050523,247,104589,,,Chris Guccione,L,201,AUS,19.8,103623,,PR,Jacob Adaktusson,R,193,SWE,24.7,6-4 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,217,180,302,119
 2005-520,Roland Garros,Clay,128,G,20050523,246,102548,,,Juan Antonio Marin,R,175,CRC,30.2,104056,,,Roko Karanusic,R,183,CRO,22.7,6-7(5) 7-6(5) 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,198,215,166,269
 2005-520,Roland Garros,Clay,128,G,20050523,245,101868,18,,Dick Norman,L,203,BEL,34.2,104397,,WC,Laurent Recouderc,R,178,FRA,20.8,6-4 3-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,130,329,500,48
 2005-520,Roland Garros,Clay,128,G,20050523,244,104925,15,,Novak Djokovic,R,188,SRB,18.0,102785,,,Glenn Weiner,R,188,USA,29.0,6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,153,287,182,237
@@ -4886,7 +4886,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-540,Wimbledon,Grass,128,G,20050620,290,103239,,,Marcus Sarstrand,R,183,SWE,26.9,103761,,,Tomas Cakl,R,178,CZE,24.1,6-7(4) 6-0 4-0 RET,3,Q1,,,,,,,,,,,,,,,,,,,,253,145,264,140
 2005-540,Wimbledon,Grass,128,G,20050620,289,102567,23,,George Bastl,R,183,SUI,30.2,103726,,,Jean Christophe Faurel,R,175,FRA,24.2,7-5 6-7(6) 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,146,304,228,169
 2005-540,Wimbledon,Grass,128,G,20050620,288,102834,4,,Paul Goldstein,R,178,USA,28.8,103506,,,Martin Vassallo Arguello,R,183,ARG,25.3,6-1 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,101,396,255,144
-2005-540,Wimbledon,Grass,128,G,20050620,287,103623,,PR,Jacob Adaktusson,R,,SWE,24.8,103916,,,Cristian Villagran,R,180,ARG,23.4,6-3 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,311,111,226,173
+2005-540,Wimbledon,Grass,128,G,20050620,287,103623,,PR,Jacob Adaktusson,R,193,SWE,24.8,103916,,,Cristian Villagran,R,180,ARG,23.4,6-3 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,311,111,226,173
 2005-540,Wimbledon,Grass,128,G,20050620,286,102965,,,Jamie Delgado,R,178,GBR,28.2,102863,,,Takao Suzuki,R,175,JPN,28.7,6-1 7-6(7),3,Q1,,,,,,,,,,,,,,,,,,,,212,193,163,265
 2005-540,Wimbledon,Grass,128,G,20050620,285,104589,,,Chris Guccione,L,201,AUS,19.8,103535,26,,Olivier Patience,R,180,FRA,25.2,4-6 7-6(3) 23-21,3,Q1,,,,,,,,,,,,,,,,,,,,174,253,144,307
 2005-540,Wimbledon,Grass,128,G,20050620,284,103319,5,,Jeff Morrison,R,185,USA,26.3,103538,,WC,James Auckland,R,,GBR,25.2,6-1 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,107,390,317,108
@@ -4943,7 +4943,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-540,Wimbledon,Grass,128,G,20050620,233,104025,25,,Amer Delic,R,196,BIH,22.9,103999,,,Thiago Alves,R,178,BRA,23.0,6-3 7-6(5),3,Q2,,,,,,,,,,,,,,,,,,,,145,307,229,169
 2005-540,Wimbledon,Grass,128,G,20050620,232,102925,3,,Justin Gimelstob,R,196,USA,28.3,103166,,,Vladimir Voltchkov,R,180,BLR,27.2,6-4 0-6 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,123,352,176,251
 2005-540,Wimbledon,Grass,128,G,20050620,231,102567,23,,George Bastl,R,183,SUI,30.2,103239,,,Marcus Sarstrand,R,183,SWE,26.9,6-0 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,146,304,253,145
-2005-540,Wimbledon,Grass,128,G,20050620,230,102834,4,,Paul Goldstein,R,178,USA,28.8,103623,,PR,Jacob Adaktusson,R,,SWE,24.8,6-2 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,101,396,311,111
+2005-540,Wimbledon,Grass,128,G,20050620,230,102834,4,,Paul Goldstein,R,178,USA,28.8,103623,,PR,Jacob Adaktusson,R,193,SWE,24.8,6-2 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,101,396,311,111
 2005-540,Wimbledon,Grass,128,G,20050620,229,102965,,,Jamie Delgado,R,178,GBR,28.2,104589,,,Chris Guccione,L,201,AUS,19.8,6-4 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,212,193,174,253
 2005-540,Wimbledon,Grass,128,G,20050620,228,103319,5,,Jeff Morrison,R,185,USA,26.3,102259,,,Jerome Golmard,L,188,FRA,31.7,7-6(2) 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,107,390,266,138
 2005-540,Wimbledon,Grass,128,G,20050620,227,104268,,,Alejandro Falla,L,185,COL,21.5,104107,,WC,Andrew Banks,L,,GBR,22.4,7-6(5) 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,275,129,390,77

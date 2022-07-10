@@ -168,7 +168,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1990-275,Sao Paulo1 CH,Clay,32,C,19900212,12,101318,4,,Javier Frana,L,185,ARG,23.1,100398,,WC,Julio Goes,R,180,BRA,34.3,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,157,147,452,28
 1990-275,Sao Paulo1 CH,Clay,32,C,19900212,13,100918,,Q,Harald Rittersbacher,R,188,GER,26.7,100922,7,,Roberto Arguello,U,173,ARG,26.7,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,422,32,167,134
 1990-275,Sao Paulo1 CH,Clay,32,C,19900212,14,101250,,Q,Jose Daher,R,180,BRA,23.8,101007,,,Guillermo Rivas,R,183,ARG,26.0,7-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,434,30,220,98
-1990-275,Sao Paulo1 CH,Clay,32,C,19900212,15,101105,,LL,Jose Antonio Fernandez,R,,CHI,25.0,100965,,,Peter Ballauff,R,188,GER,26.3,3-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,398,38,181,124
+1990-275,Sao Paulo1 CH,Clay,32,C,19900212,15,101105,,LL,Jose Antonio Fernandez,R,170,CHI,25.0,100965,,,Peter Ballauff,R,188,GER,26.3,3-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,398,38,181,124
 1990-275,Sao Paulo1 CH,Clay,32,C,19900212,16,101341,,,Pablo Albano,R,178,ARG,22.8,101276,2,,Horacio De La Pena,L,180,ARG,23.5,7-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,279,69,127,194
 1990-275,Sao Paulo1 CH,Clay,32,C,19900212,17,100652,1,,Cassio Motta,R,180,BRA,29.9,101058,,,Francisco Yunis,R,190,ARG,25.5,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,102,234,207,109
 1990-275,Sao Paulo1 CH,Clay,32,C,19900212,18,101156,,,Juan Pino,R,185,CUB,24.6,101615,,WC,Otavio Della,R,170,BRA,20.6,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,296,64,302,61
@@ -177,7 +177,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1990-275,Sao Paulo1 CH,Clay,32,C,19900212,21,100896,5,,Miguel Nido,R,180,PUR,26.9,101696,,Q,Federico Mordegan,R,170,ITA,20.0,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,152,151,359,46
 1990-275,Sao Paulo1 CH,Clay,32,C,19900212,22,101318,4,,Javier Frana,L,185,ARG,23.1,101725,,,Gabriel Markus,R,180,ARG,19.8,7-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,157,147,194,119
 1990-275,Sao Paulo1 CH,Clay,32,C,19900212,23,101250,,Q,Jose Daher,R,180,BRA,23.8,100918,,Q,Harald Rittersbacher,R,188,GER,26.7,6-4 7-6,3,R16,,,,,,,,,,,,,,,,,,,,434,30,422,32
-1990-275,Sao Paulo1 CH,Clay,32,C,19900212,24,101341,,,Pablo Albano,R,178,ARG,22.8,101105,,LL,Jose Antonio Fernandez,R,,CHI,25.0,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,279,69,398,38
+1990-275,Sao Paulo1 CH,Clay,32,C,19900212,24,101341,,,Pablo Albano,R,178,ARG,22.8,101105,,LL,Jose Antonio Fernandez,R,170,CHI,25.0,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,279,69,398,38
 1990-275,Sao Paulo1 CH,Clay,32,C,19900212,25,100652,1,,Cassio Motta,R,180,BRA,29.9,101156,,,Juan Pino,R,185,CUB,24.6,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,102,234,296,64
 1990-275,Sao Paulo1 CH,Clay,32,C,19900212,26,100548,,,Ivan Kley,R,183,BRA,31.6,101543,3,,Jeff Tarango,L,180,USA,21.2,6-4 DEF,3,QF,,,,,,,,,,,,,,,,,,,,253,82,150,157
 1990-275,Sao Paulo1 CH,Clay,32,C,19900212,27,100896,5,,Miguel Nido,R,180,PUR,26.9,101318,4,,Javier Frana,L,185,ARG,23.1,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,152,151,157,147
@@ -1686,7 +1686,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1990-359,Bogota CH,Clay,32,C,19900924,10,101534,,,Libor Nemecek,R,168,CZE,21.9,101167,,Q,Jaime Cortes,R,,COL,25.1,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,259,85,494,20
 1990-359,Bogota CH,Clay,32,C,19900924,11,101991,,,Mauricio Hadad,R,170,COL,18.7,101375,,,Brian Devening,R,185,USA,23.1,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,307,60,380,40
 1990-359,Bogota CH,Clay,32,C,19900924,12,101250,3,,Jose Daher,R,180,BRA,24.4,101495,,WC,Miguel Tobon,R,185,COL,22.2,6-2 7-6,3,R32,,,,,,,,,,,,,,,,,,,,213,109,571,14
-1990-359,Bogota CH,Clay,32,C,19900924,13,101105,7,,Jose Antonio Fernandez,R,,CHI,25.6,102010,,Q,Clinton Marsh,R,188,RSA,18.6,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,279,72,737,6
+1990-359,Bogota CH,Clay,32,C,19900924,13,101105,7,,Jose Antonio Fernandez,R,170,CHI,25.6,102010,,Q,Clinton Marsh,R,188,RSA,18.6,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,279,72,737,6
 1990-359,Bogota CH,Clay,32,C,19900924,14,106705,,,Carsten Krammenschneider,R,,GER,,100945,,,Craig Campbell,R,190,RSA,27.1,6-4 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,330,50,437,30
 1990-359,Bogota CH,Clay,32,C,19900924,15,107101,,,Giorgio Carneade,R,,ECU,20.0,106533,,Q,Andres Alarcon,R,,ECU,20.3,6-2 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,278,73,536,16
 1990-359,Bogota CH,Clay,32,C,19900924,16,101430,2,,Sergio Cortes,R,170,CHI,22.7,106695,,,Carlos Claverie,R,,VEN,27.6,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,290,69,382,40
@@ -1696,12 +1696,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1990-359,Bogota CH,Clay,32,C,19900924,20,100795,,WC,Alvaro Jordan,R,185,COL,28.7,102055,,,Bertrand Madsen,R,,HAI,18.3,7-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,324,51,402,36
 1990-359,Bogota CH,Clay,32,C,19900924,21,101534,,,Libor Nemecek,R,168,CZE,21.9,101417,,,Mario Rincon,R,,COL,22.8,6-1 6-7 6-0,3,R16,,,,,,,,,,,,,,,,,,,,259,85,326,51
 1990-359,Bogota CH,Clay,32,C,19900924,22,101250,3,,Jose Daher,R,180,BRA,24.4,101991,,,Mauricio Hadad,R,170,COL,18.7,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,213,109,307,60
-1990-359,Bogota CH,Clay,32,C,19900924,23,101105,7,,Jose Antonio Fernandez,R,,CHI,25.6,106705,,,Carsten Krammenschneider,R,,GER,,6-4 5-7 6-0,3,R16,,,,,,,,,,,,,,,,,,,,279,72,330,50
+1990-359,Bogota CH,Clay,32,C,19900924,23,101105,7,,Jose Antonio Fernandez,R,170,CHI,25.6,106705,,,Carsten Krammenschneider,R,,GER,,6-4 5-7 6-0,3,R16,,,,,,,,,,,,,,,,,,,,279,72,330,50
 1990-359,Bogota CH,Clay,32,C,19900924,24,107101,,,Giorgio Carneade,R,,ECU,20.0,101430,2,,Sergio Cortes,R,170,CHI,22.7,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,278,73,290,69
 1990-359,Bogota CH,Clay,32,C,19900924,25,100711,1,,Pedro Rebolledo,R,170,CHI,29.7,101912,8,,Felipe Rivera,R,183,CHI,19.3,7-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,159,200,291,68
 1990-359,Bogota CH,Clay,32,C,19900924,26,100795,,WC,Alvaro Jordan,R,185,COL,28.7,101452,,,Greg Failla,R,180,USA,22.5,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,324,51,346,46
 1990-359,Bogota CH,Clay,32,C,19900924,27,101534,,,Libor Nemecek,R,168,CZE,21.9,101250,3,,Jose Daher,R,180,BRA,24.4,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,259,85,213,109
-1990-359,Bogota CH,Clay,32,C,19900924,28,107101,,,Giorgio Carneade,R,,ECU,20.0,101105,7,,Jose Antonio Fernandez,R,,CHI,25.6,2-6 6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,278,73,279,72
+1990-359,Bogota CH,Clay,32,C,19900924,28,107101,,,Giorgio Carneade,R,,ECU,20.0,101105,7,,Jose Antonio Fernandez,R,170,CHI,25.6,2-6 6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,278,73,279,72
 1990-359,Bogota CH,Clay,32,C,19900924,29,100795,,WC,Alvaro Jordan,R,185,COL,28.7,100711,1,,Pedro Rebolledo,R,170,CHI,29.7,6-2 7-5,3,SF,,,,,,,,,,,,,,,,,,,,324,51,159,200
 1990-359,Bogota CH,Clay,32,C,19900924,30,101534,,,Libor Nemecek,R,168,CZE,21.9,107101,,,Giorgio Carneade,R,,ECU,20.0,W/O,3,SF,,,,,,,,,,,,,,,,,,,,259,85,278,73
 1990-359,Bogota CH,Clay,32,C,19900924,31,100795,,WC,Alvaro Jordan,R,185,COL,28.7,101534,,,Libor Nemecek,R,168,CZE,21.9,6-3 6-3,3,F,,,,,,,,,,,,,,,,,,,,324,51,259,85
@@ -1746,7 +1746,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1990-760,Manaus CH,Hard,32,C,19901001,8,100548,,,Ivan Kley,R,183,BRA,32.2,101490,5,,Daniel Orsanic,L,183,ARG,22.3,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,305,62,184,149
 1990-760,Manaus CH,Hard,32,C,19901001,9,101250,6,,Jose Daher,R,180,BRA,24.4,101165,,,Mario Tabares,R,180,CUB,25.1,6-3 7-6,3,R32,,,,,,,,,,,,,,,,,,,,219,109,240,94
 1990-760,Manaus CH,Hard,32,C,19901001,10,100997,,,Roger Smith,R,185,BAH,26.6,100949,,WC,Mauro Menezes,R,193,BRA,27.1,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,264,83,241,93
-1990-760,Manaus CH,Hard,32,C,19901001,11,106695,,,Carlos Claverie,R,,VEN,27.7,101105,,,Jose Antonio Fernandez,R,,CHI,25.6,6-3 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,381,40,280,72
+1990-760,Manaus CH,Hard,32,C,19901001,11,106695,,,Carlos Claverie,R,,VEN,27.7,101105,,,Jose Antonio Fernandez,R,170,CHI,25.6,6-3 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,381,40,280,72
 1990-760,Manaus CH,Hard,32,C,19901001,12,101955,4,,Luis Herrera,L,170,MEX,19.0,101371,,,Malcolm Allen,R,178,USA,23.2,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,180,158,289,69
 1990-760,Manaus CH,Hard,32,C,19901001,13,101417,,,Mario Rincon,R,,COL,22.8,101591,7,,Danny Sapsford,R,173,GBR,21.4,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,327,51,220,109
 1990-760,Manaus CH,Hard,32,C,19901001,14,107196,,Q,Hernan Chousa,R,,ARG,,101725,,,Gabriel Markus,R,180,ARG,20.5,1-6 7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,354,44,238,98
@@ -1831,7 +1831,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1990-767,Casablanca CH,Clay,32,C,19901008,31,101990,,,Richard Krajicek,R,196,NED,18.8,101792,,,Slava Dosedel,R,183,CZE,20.1,7-6 6-3,3,F,,,,,,,,,,,,,,,,,,,,234,100,189,142
 1990-236,Curitiba CH,Clay,32,C,19901008,1,100652,1,,Cassio Motta,R,180,BRA,30.6,101783,,,Mark Petchey,R,183,GBR,20.1,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,107,316,226,106
 1990-236,Curitiba CH,Clay,32,C,19901008,2,101029,,,Ricki Osterthun,R,185,GER,26.4,100949,,,Mauro Menezes,R,193,BRA,27.2,6-3 7-6,3,R32,,,,,,,,,,,,,,,,,,,,232,101,244,93
-1990-236,Curitiba CH,Clay,32,C,19901008,3,101105,,Q,Jose Antonio Fernandez,R,,CHI,25.6,102147,,Q,Oliver Fernandez,R,175,MEX,17.8,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,285,73,458,26
+1990-236,Curitiba CH,Clay,32,C,19901008,3,101105,,Q,Jose Antonio Fernandez,R,170,CHI,25.6,102147,,Q,Oliver Fernandez,R,175,MEX,17.8,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,285,73,458,26
 1990-236,Curitiba CH,Clay,32,C,19901008,4,101955,8,,Luis Herrera,L,170,MEX,19.1,100607,,,Eduardo Bengoechea,R,185,ARG,31.2,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,150,209,199,134
 1990-236,Curitiba CH,Clay,32,C,19901008,5,100711,4,,Pedro Rebolledo,R,170,CHI,29.8,101516,,WC,Joao Zwetsch,R,180,BRA,22.0,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,152,207,286,73
 1990-236,Curitiba CH,Clay,32,C,19901008,6,101490,,,Daniel Orsanic,L,183,ARG,22.3,101174,,,Fernando Roese,R,190,BRA,25.1,7-6 6-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,185,148,245,91
@@ -1846,7 +1846,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1990-236,Curitiba CH,Clay,32,C,19901008,15,101165,,,Mario Tabares,R,180,CUB,25.2,101534,,Q,Libor Nemecek,R,168,CZE,21.9,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,202,130,264,85
 1990-236,Curitiba CH,Clay,32,C,19901008,16,101368,2,,Christian Miniussi,R,185,ARG,23.2,101725,,,Gabriel Markus,R,180,ARG,20.5,3-6 7-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,153,206,254,89
 1990-236,Curitiba CH,Clay,32,C,19901008,17,100652,1,,Cassio Motta,R,180,BRA,30.6,101029,,,Ricki Osterthun,R,185,GER,26.4,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,107,316,232,101
-1990-236,Curitiba CH,Clay,32,C,19901008,18,101955,8,,Luis Herrera,L,170,MEX,19.1,101105,,Q,Jose Antonio Fernandez,R,,CHI,25.6,4-6 6-1 7-6,3,R16,,,,,,,,,,,,,,,,,,,,150,209,285,73
+1990-236,Curitiba CH,Clay,32,C,19901008,18,101955,8,,Luis Herrera,L,170,MEX,19.1,101105,,Q,Jose Antonio Fernandez,R,170,CHI,25.6,4-6 6-1 7-6,3,R16,,,,,,,,,,,,,,,,,,,,150,209,285,73
 1990-236,Curitiba CH,Clay,32,C,19901008,19,100711,4,,Pedro Rebolledo,R,170,CHI,29.8,101490,,,Daniel Orsanic,L,183,ARG,22.3,2-6 7-6 6-0,3,R16,,,,,,,,,,,,,,,,,,,,152,207,185,148
 1990-236,Curitiba CH,Clay,32,C,19901008,20,101761,6,,Jaime Oncins,R,196,BRA,20.3,100922,,,Roberto Arguello,U,173,ARG,27.4,6-4 2-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,144,224,200,134
 1990-236,Curitiba CH,Clay,32,C,19901008,21,101318,,Q,Javier Frana,L,185,ARG,23.7,101133,5,,Patrick Baur,R,188,GER,25.4,6-2 7-6,3,R16,,,,,,,,,,,,,,,,,,,,271,82,163,193
@@ -2025,7 +2025,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1990-765,Sao Paulo3 CH,Clay,32,C,19901112,8,101243,6,,Roberto Azar,L,185,ARG,24.6,100587,,,Steve Guy,R,188,NZL,31.6,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,107,322,217,114
 1990-765,Sao Paulo3 CH,Clay,32,C,19901112,9,100652,5,,Cassio Motta,R,180,BRA,30.7,101745,,WC,Roberto Jabali,R,190,BRA,20.4,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,96,352,757,6
 1990-765,Sao Paulo3 CH,Clay,32,C,19901112,10,101058,,Q,Francisco Yunis,R,190,ARG,26.2,101237,,,Danilo Marcelino,R,193,BRA,24.6,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,260,86,149,227
-1990-765,Sao Paulo3 CH,Clay,32,C,19901112,11,101105,,Q,Jose Antonio Fernandez,R,,CHI,25.7,100631,,,Tim Wilkison,L,180,USA,30.9,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,270,80,166,188
+1990-765,Sao Paulo3 CH,Clay,32,C,19901112,11,101105,,Q,Jose Antonio Fernandez,R,170,CHI,25.7,100631,,,Tim Wilkison,L,180,USA,30.9,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,270,80,166,188
 1990-765,Sao Paulo3 CH,Clay,32,C,19901112,12,101613,4,,Malivai Washington,R,180,USA,21.3,100917,,WC,Nelson Aerts,R,188,BRA,27.5,7-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,91,378,268,82
 1990-765,Sao Paulo3 CH,Clay,32,C,19901112,13,101354,7,,Andrew Sznajder,R,175,CAN,23.4,100865,,,Marcelo Ingaramo,L,178,ARG,28.0,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,109,320,233,100
 1990-765,Sao Paulo3 CH,Clay,32,C,19901112,14,100864,,,Martin Wostenholme,R,183,CAN,28.0,100790,,,Bruce Derlin,L,180,NZL,28.9,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,158,209,251,89
@@ -2036,7 +2036,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1990-765,Sao Paulo3 CH,Clay,32,C,19901112,19,101318,,,Javier Frana,L,185,ARG,23.8,101660,,,Francisco Montana,R,183,USA,21.0,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,184,154,238,96
 1990-765,Sao Paulo3 CH,Clay,32,C,19901112,20,101725,,Q,Gabriel Markus,R,180,ARG,20.6,101243,6,,Roberto Azar,L,185,ARG,24.6,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,245,93,107,322
 1990-765,Sao Paulo3 CH,Clay,32,C,19901112,21,101058,,Q,Francisco Yunis,R,190,ARG,26.2,100652,5,,Cassio Motta,R,180,BRA,30.7,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,260,86,96,352
-1990-765,Sao Paulo3 CH,Clay,32,C,19901112,22,101613,4,,Malivai Washington,R,180,USA,21.3,101105,,Q,Jose Antonio Fernandez,R,,CHI,25.7,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,91,378,270,80
+1990-765,Sao Paulo3 CH,Clay,32,C,19901112,22,101613,4,,Malivai Washington,R,180,USA,21.3,101105,,Q,Jose Antonio Fernandez,R,170,CHI,25.7,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,91,378,270,80
 1990-765,Sao Paulo3 CH,Clay,32,C,19901112,23,101354,7,,Andrew Sznajder,R,175,CAN,23.4,100864,,,Martin Wostenholme,R,183,CAN,28.0,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,109,320,158,209
 1990-765,Sao Paulo3 CH,Clay,32,C,19901112,24,101416,,,Joao Cunha Silva,R,173,POR,22.9,101179,2,,Jean Philippe Fleurian,R,185,FRA,25.1,W/O,3,R16,,,,,,,,,,,,,,,,,,,,130,273,66,516
 1990-765,Sao Paulo3 CH,Clay,32,C,19901112,25,101761,8,,Jaime Oncins,R,196,BRA,20.4,101490,,,Daniel Orsanic,L,183,ARG,22.4,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,136,259,185,153

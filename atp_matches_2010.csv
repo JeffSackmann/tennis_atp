@@ -98,7 +98,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-301,Auckland,Hard,28,A,20100111,4,103967,,Q,Michael Lammer,R,185,SUI,27.8,105554,,Q,Daniel Evans,R,175,GBR,19.6,1-6 6-2 6-4,3,R32,121,1,4,98,56,34,20,13,7,11,5,3,67,35,21,18,12,1,5,209,223,266,167
 2010-301,Auckland,Hard,28,A,20100111,5,104907,,WC,Jose Rubin Statham,R,183,NZL,22.7,104368,,WC,Daniel King Turner,R,190,NZL,25.6,6-2 7-5,3,R32,96,1,4,73,48,33,10,10,7,9,10,3,75,47,29,10,10,12,17,332,126,263,170
 2010-301,Auckland,Hard,28,A,20100111,6,103656,8,,Albert Montanes,R,175,ESP,29.1,105084,,Q,James Lemke,R,,AUS,21.9,6-1 7-5,3,R32,72,5,1,58,36,27,9,9,2,4,0,5,60,38,19,7,10,0,6,31,1140,456,73
-2010-301,Auckland,Hard,28,A,20100111,7,104259,5,,Philipp Kohlschreiber,R,178,GER,26.2,105438,,LL,Inigo Cervantes Huegun,R,,ESP,20.1,6-2 6-3,3,R32,63,1,0,49,33,21,15,9,2,3,1,5,50,24,18,8,8,3,7,27,1260,235,189
+2010-301,Auckland,Hard,28,A,20100111,7,104259,5,,Philipp Kohlschreiber,R,178,GER,26.2,105438,,LL,Inigo Cervantes Huegun,R,183,ESP,20.1,6-2 6-3,3,R32,63,1,0,49,33,21,15,9,2,3,1,5,50,24,18,8,8,3,7,27,1260,235,189
 2010-301,Auckland,Hard,28,A,20100111,8,105064,,,Thomaz Bellucci,L,188,BRA,22.0,103843,,,Marco Chiudinelli,R,185,SUI,28.3,6-3 6-3,3,R32,64,8,3,54,37,29,9,9,1,1,3,0,53,34,20,11,9,1,4,34,1066,56,775
 2010-301,Auckland,Hard,28,A,20100111,9,102967,,,Marc Gicquel,R,188,FRA,32.7,103694,,,Olivier Rochus,R,168,BEL,28.9,6-3 6-2,3,R32,64,5,2,59,32,23,16,9,0,1,1,3,47,23,13,12,8,6,10,58,750,57,769
 2010-301,Auckland,Hard,28,A,20100111,10,103781,6,,Jurgen Melzer,L,183,AUT,28.6,104926,,,Fabio Fognini,R,178,ITA,22.6,5-7 6-3 6-2,3,R32,105,8,6,82,50,38,21,15,0,1,3,7,93,45,34,23,14,6,9,28,1260,54,790
@@ -205,7 +205,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-580,Australian Open,Hard,128,G,20100118,57,103333,,,Ivo Karlovic,R,208,CRO,30.8,103285,13,,Radek Stepanek,R,185,CZE,31.1,2-6 7-6(5) 6-4 3-6 6-4,5,R128,236,35,9,147,87,77,21,24,10,14,2,6,166,95,66,40,25,9,12,39,1015,13,2525
 2010-580,Australian Open,Hard,128,G,20100118,58,103898,,,Julien Benneteau,R,185,FRA,28.0,104095,,Q,David Guez,R,185,FRA,27.1,0-6 6-4 7-6(4) 7-6(2),5,R128,231,4,7,135,93,63,19,20,6,12,1,5,129,81,44,33,20,3,7,43,969,133,381
 2010-580,Australian Open,Hard,128,G,20100118,59,104979,,WC,Andrey Golubev,R,185,KAZ,22.4,103888,,,Mardy Fish,R,188,USA,28.1,6-2 1-6 6-3 6-3,5,R128,171,4,2,100,65,41,19,16,5,9,3,4,117,61,41,22,17,3,10,131,407,54,835
-2010-580,Australian Open,Hard,128,G,20100118,60,103344,24,,Ivan Ljubicic,R,193,CRO,30.8,106186,,WC,Jason Kubler,R,,AUS,16.6,6-1 6-2 6-2,5,R128,89,6,2,62,44,38,11,12,0,0,2,2,73,41,22,13,11,8,14,24,1405,,
+2010-580,Australian Open,Hard,128,G,20100118,60,103344,24,,Ivan Ljubicic,R,193,CRO,30.8,106186,,WC,Jason Kubler,R,178,AUS,16.6,6-1 6-2 6-2,5,R128,89,6,2,62,44,38,11,12,0,0,2,2,73,41,22,13,11,8,14,24,1405,,
 2010-580,Australian Open,Hard,128,G,20100118,61,104259,27,,Philipp Kohlschreiber,R,178,GER,26.2,104547,,,Horacio Zeballos,L,188,ARG,24.7,6-1 7-5 6-1,5,R128,121,10,4,76,53,44,12,13,2,3,7,3,85,54,33,8,13,6,13,26,1260,50,899
 2010-580,Australian Open,Hard,128,G,20100118,62,104639,,,Wayne Odesnik,L,180,USA,24.1,104882,,Q,Blaz Kavcic,R,188,SLO,22.8,4-6 6-1 6-4 6-2,5,R128,155,6,3,104,67,48,19,18,2,6,1,4,111,70,40,16,17,9,16,89,559,124,445
 2010-580,Australian Open,Hard,128,G,20100118,63,105041,,,Lukas Lacko,R,185,SVK,22.2,104919,,,Leonardo Mayer,R,188,ARG,22.6,6-4 6-4 6-0,5,R128,110,7,2,75,46,41,15,13,0,0,7,3,77,51,31,13,13,3,8,75,612,69,637
@@ -337,7 +337,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-505,Santiago,Clay,32,A,20100201,31,105064,3,,Thomaz Bellucci,L,188,BRA,22.0,104338,2,,Juan Monaco,R,185,ARG,25.8,6-2 0-6 6-4,3,F,125,5,4,93,61,36,15,12,9,13,6,3,80,51,35,10,12,6,10,35,1121,29,1250
 2010-2276,Zagreb,Hard,32,A,20100201,1,105227,1,,Marin Cilic,R,198,CRO,21.3,104225,,,Jan Hajek,R,180,CZE,26.4,6-2 6-2,3,R32,56,6,2,46,26,20,13,8,1,1,0,1,41,30,15,6,8,0,4,10,2970,81,591
 2010-2276,Zagreb,Hard,32,A,20100201,2,104230,,,Daniel Koellerer,R,180,AUT,26.4,104979,,,Andrey Golubev,R,185,KAZ,22.5,6-3 3-6 6-3,3,R32,114,2,3,73,54,41,11,14,4,6,17,4,84,58,42,10,13,4,7,75,627,105,507
-2010-2276,Zagreb,Hard,32,A,20100201,3,105098,,Q,Alexandre Sidorenko,R,,FRA,21.9,105074,,Q,Ruben Bemelmans,L,183,BEL,22.0,7-6(5) 3-6 6-3,3,R32,122,7,2,90,61,43,18,15,4,7,6,2,102,73,48,14,15,5,8,187,263,191,255
+2010-2276,Zagreb,Hard,32,A,20100201,3,105098,,Q,Alexandre Sidorenko,R,185,FRA,21.9,105074,,Q,Ruben Bemelmans,L,183,BEL,22.0,7-6(5) 3-6 6-3,3,R32,122,7,2,90,61,43,18,15,4,7,6,2,102,73,48,14,15,5,8,187,263,191,255
 2010-2276,Zagreb,Hard,32,A,20100201,4,103333,7,,Ivo Karlovic,R,208,CRO,30.9,105099,,WC,Antonio Veic,R,180,CRO,21.9,4-5 RET,3,R32,38,6,1,26,16,13,5,5,0,1,0,0,23,16,11,6,4,1,1,33,1150,183,270
 2010-2276,Zagreb,Hard,32,A,20100201,5,103781,3,,Jurgen Melzer,L,183,AUT,28.6,104978,,,Daniel Brands,R,196,GER,22.5,6-4 6-3,3,R32,94,7,2,67,42,32,14,10,7,8,7,2,75,43,29,12,9,5,8,32,1180,93,551
 2010-2276,Zagreb,Hard,32,A,20100201,6,103694,,,Olivier Rochus,R,168,BEL,29.0,103857,,,Igor Kunitsyn,R,180,RUS,28.3,4-6 6-2 7-5,3,R32,164,1,0,89,56,34,22,15,2,6,1,0,96,69,41,10,15,7,13,56,761,90,560
@@ -352,7 +352,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-2276,Zagreb,Hard,32,A,20100201,15,105041,,,Lukas Lacko,R,185,SVK,22.2,104797,,,Denis Istomin,R,188,UZB,23.4,6-2 2-2 RET,3,R32,76,1,0,35,23,17,8,6,0,0,3,2,80,51,28,13,6,11,13,72,632,91,560
 2010-2276,Zagreb,Hard,32,A,20100201,16,103344,2,,Ivan Ljubicic,R,193,CRO,30.8,103096,,,Arnaud Clement,R,173,FRA,32.1,7-6(4) 6-3,3,R32,96,11,2,73,47,36,15,11,2,3,5,1,69,38,27,16,10,0,2,24,1450,60,744
 2010-2276,Zagreb,Hard,32,A,20100201,17,105227,1,,Marin Cilic,R,198,CRO,21.3,104230,,,Daniel Koellerer,R,180,AUT,26.4,6-2 6-1,3,R16,61,12,0,40,27,25,8,8,0,0,0,2,38,21,12,5,7,1,5,10,2970,75,627
-2010-2276,Zagreb,Hard,32,A,20100201,18,103333,7,,Ivo Karlovic,R,208,CRO,30.9,105098,,Q,Alexandre Sidorenko,R,,FRA,21.9,7-6(4) 7-6(8),3,R16,111,21,2,77,50,45,15,12,0,0,11,3,99,58,48,19,12,9,9,33,1150,187,263
+2010-2276,Zagreb,Hard,32,A,20100201,18,103333,7,,Ivo Karlovic,R,208,CRO,30.9,105098,,Q,Alexandre Sidorenko,R,185,FRA,21.9,7-6(4) 7-6(8),3,R16,111,21,2,77,50,45,15,12,0,0,11,3,99,58,48,19,12,9,9,33,1150,187,263
 2010-2276,Zagreb,Hard,32,A,20100201,19,103781,3,,Jurgen Melzer,L,183,AUT,28.6,103694,,,Olivier Rochus,R,168,BEL,29.0,6-2 6-3,3,R16,62,4,0,48,30,24,13,9,1,1,2,2,40,24,13,10,8,2,5,32,1180,56,761
 2010-2276,Zagreb,Hard,32,A,20100201,20,105011,,,Illya Marchenko,R,185,UKR,22.4,104471,,WC,Ivan Dodig,R,183,CRO,25.0,6-4 6-2,3,R16,112,0,3,57,39,26,11,9,2,3,8,3,79,43,26,17,9,10,14,102,525,153,328
 2010-2276,Zagreb,Hard,32,A,20100201,21,103582,,,Michael Berrer,L,193,GER,29.5,104948,,WC,Petar Jelenic,R,,CRO,22.6,6-4 6-3,3,R16,84,2,1,44,32,26,10,9,0,0,4,1,67,37,27,11,10,1,4,65,703,544,49
@@ -494,7 +494,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-496,Marseille,Hard,28,A,20100215,2,103566,,,Michael Llodra,L,190,FRA,29.7,104273,,Q,Edouard Roger Vasselin,R,188,FRA,26.2,6-7(5) 6-3 6-4,3,R32,115,17,3,83,53,47,18,16,1,2,6,1,85,55,41,18,15,2,5,79,617,151,331
 2010-496,Marseille,Hard,28,A,20100215,3,104571,7,,Marcos Baghdatis,R,183,CYP,24.6,104978,,,Daniel Brands,R,196,GER,22.5,6-3 6-2,3,R32,69,4,1,57,39,33,9,9,1,1,7,1,52,29,17,12,8,4,7,36,1125,96,540
 2010-496,Marseille,Hard,28,A,20100215,4,104999,,,Mischa Zverev,L,190,GER,22.4,104095,,WC,David Guez,R,185,FRA,27.1,7-6(3) 6-4,3,R32,102,4,1,63,35,28,15,11,2,5,0,0,75,37,18,23,11,6,10,92,549,135,402
-2010-496,Marseille,Hard,28,A,20100215,5,104963,,Q,Yannick Mertens,R,,BEL,22.6,104225,,,Jan Hajek,R,180,CZE,26.5,7-6(8) 6-1,3,R32,73,4,2,57,35,26,11,9,5,7,2,0,69,32,18,17,10,1,6,271,165,84,596
+2010-496,Marseille,Hard,28,A,20100215,5,104963,,Q,Yannick Mertens,R,188,BEL,22.6,104225,,,Jan Hajek,R,180,CZE,26.5,7-6(8) 6-1,3,R32,73,4,2,57,35,26,11,9,5,7,2,0,69,32,18,17,10,1,6,271,165,84,596
 2010-496,Marseille,Hard,28,A,20100215,6,105558,,WC,Guillaume Rufin,R,188,FRA,19.7,104397,,LL,Laurent Recouderc,R,178,FRA,25.6,7-5 4-6 7-6(2),3,R32,144,15,10,112,42,31,39,17,5,10,7,1,102,45,31,29,17,1,6,154,327,139,376
 2010-496,Marseille,Hard,28,A,20100215,7,103898,8,,Julien Benneteau,R,185,FRA,28.1,104219,,Q,Stephane Bohli,R,185,SUI,26.5,7-6(5) 7-6(3),3,R32,120,9,2,90,53,41,24,12,2,2,14,2,73,37,33,21,12,1,1,39,1004,143,356
 2010-496,Marseille,Hard,28,A,20100215,8,103722,,,Florent Serra,R,180,FRA,28.9,103857,,,Igor Kunitsyn,R,180,RUS,28.3,6-3 6-3,3,R32,55,4,0,48,29,25,11,9,0,0,1,0,45,33,21,6,9,0,3,59,745,90,560
@@ -505,7 +505,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-496,Marseille,Hard,28,A,20100215,13,104417,1,,Robin Soderling,R,193,SWE,25.5,104660,,,Sergiy Stakhovsky,R,193,UKR,24.1,6-7(5) 6-3 6-4,3,R16,115,16,7,103,65,56,18,16,4,4,20,3,88,62,49,11,15,0,2,8,3855,69,658
 2010-496,Marseille,Hard,28,A,20100215,14,103566,,,Michael Llodra,L,190,FRA,29.7,104571,7,,Marcos Baghdatis,R,183,CYP,24.6,7-6(6) 6-4,3,R16,99,11,4,72,42,31,20,11,6,7,5,2,72,39,29,16,11,1,3,79,617,36,1125
 2010-496,Marseille,Hard,28,A,20100215,15,104999,,,Mischa Zverev,L,190,GER,22.4,103990,4,,Tommy Robredo,R,180,ESP,27.7,6-2 3-6 6-1,3,R16,114,3,6,85,55,41,14,12,5,6,3,1,85,54,35,14,12,5,9,92,549,17,1845
-2010-496,Marseille,Hard,28,A,20100215,16,105558,,WC,Guillaume Rufin,R,188,FRA,19.7,104963,,Q,Yannick Mertens,R,,BEL,22.6,6-3 2-6 6-2,3,R16,91,6,4,77,33,27,23,13,3,5,4,3,64,37,27,15,12,2,5,154,327,271,165
+2010-496,Marseille,Hard,28,A,20100215,16,105558,,WC,Guillaume Rufin,R,188,FRA,19.7,104963,,Q,Yannick Mertens,R,188,BEL,22.6,6-3 2-6 6-2,3,R16,91,6,4,77,33,27,23,13,3,5,4,3,64,37,27,15,12,2,5,154,327,271,165
 2010-496,Marseille,Hard,28,A,20100215,17,103898,8,,Julien Benneteau,R,185,FRA,28.1,103722,,,Florent Serra,R,180,FRA,28.9,6-4 6-4,3,R16,79,11,0,62,47,33,12,10,2,2,2,2,59,34,24,14,10,3,5,39,1004,59,745
 2010-496,Marseille,Hard,28,A,20100215,18,104792,3,,Gael Monfils,R,193,FRA,23.4,104312,,,Andreas Seppi,R,190,ITA,25.9,7-6(4) 3-6 7-6(3),3,R16,125,18,5,103,64,54,18,16,1,2,2,5,104,60,46,31,17,3,3,13,2430,46,900
 2010-496,Marseille,Hard,28,A,20100215,19,105011,,LL,Illya Marchenko,R,185,UKR,22.4,103694,,,Olivier Rochus,R,168,BEL,29.0,6-1 3-6 6-2,3,R16,134,5,5,87,48,35,15,12,5,8,1,1,78,48,21,19,12,5,11,88,563,58,772
@@ -642,7 +642,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-495,Dubai,Hard,32,A,20100222,30,104925,2,,Novak Djokovic,R,188,SRB,22.7,104571,,,Marcos Baghdatis,R,183,CYP,24.6,6-7(2) 6-3 6-4,3,SF,176,5,10,110,66,46,19,16,13,16,7,1,92,48,33,24,15,5,10,2,8310,37,1100
 2010-495,Dubai,Hard,32,A,20100222,31,104925,2,,Novak Djokovic,R,188,SRB,22.7,104022,7,,Mikhail Youzhny,R,183,RUS,27.6,7-5 5-7 6-3,3,F,202,5,12,107,56,40,21,17,6,12,1,2,108,72,39,17,16,4,11,2,8310,15,1975
 2010-D017,Davis Cup G1 R1: AUS vs TPE,Hard,4,D,20100305,1,106071,,,Bernard Tomic,R,193,AUS,17.3,105738,,,Tsung Hua Yang,R,178,TPE,18.9,6-2 6-1 6-1,5,RR,,,,,,,,,,,,,,,,,,,,298,145,322,128
-2010-D017,Davis Cup G1 R1: AUS vs TPE,Hard,4,D,20100305,2,103429,,,Peter Luczak,R,183,AUS,30.4,105006,,,Chu Huan Yi,L,,TPE,22.4,4-6 6-3 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,,75,625,514,54
+2010-D017,Davis Cup G1 R1: AUS vs TPE,Hard,4,D,20100305,2,103429,,,Peter Luczak,R,183,AUS,30.4,105006,,,Chu Huan Yi,L,178,TPE,22.4,4-6 6-3 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,,75,625,514,54
 2010-D017,Davis Cup G1 R1: AUS vs TPE,Hard,4,D,20100305,4,103429,,,Peter Luczak,R,183,AUS,30.4,105738,,,Tsung Hua Yang,R,178,TPE,18.9,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,75,625,322,128
 2010-D017,Davis Cup G1 R1: AUS vs TPE,Hard,4,D,20100305,5,106071,,,Bernard Tomic,R,193,AUS,17.3,105148,,,Hsin Han Lee,R,181,TPE,21.7,6-7(4) 6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,,298,145,700,23
 2010-D019,Davis Cup G1 R1: CHN vs UZB,Hard,4,D,20100305,1,104797,,,Denis Istomin,R,188,UZB,23.4,105842,,,Di Wu,R,175,CHN,18.4,2-6 6-3 7-5 6-4,5,RR,,,,,,,,,,,,,,,,,,,,76,621,670,27
@@ -651,7 +651,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-D019,Davis Cup G1 R1: CHN vs UZB,Hard,4,D,20100305,5,105842,,,Di Wu,R,175,CHN,18.4,104454,,,Murad Inoyatov,R,,UZB,25.2,3-6 6-2 6-3 6-3,5,RR,,,,,,,,,,,,,,,,,,,,670,27,502,56
 2010-D032,Davis Cup G1 R1: DOM vs URU,Hard,4,D,20100305,1,104655,,,Pablo Cuevas,R,180,URU,24.1,105497,,,Jose Hernandez,U,183,DOM,19.9,6-2 7-5 6-3,5,RR,,,,,,,,,,,,,,,,,,,,47,890,1237,3
 2010-D032,Davis Cup G1 R1: DOM vs URU,Hard,4,D,20100305,2,104395,,,Marcel Felder,R,174,URU,25.6,103607,,,Victor Estrella,R,173,DOM,29.5,0-6 3-6 6-4 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,235,196,300,144
-2010-D032,Davis Cup G1 R1: DOM vs URU,Hard,4,D,20100305,4,103638,,,Jhonson Garcia,R,,DOM,29.4,105899,,,Martin Cuevas,R,,URU,18.1,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,847,13
+2010-D032,Davis Cup G1 R1: DOM vs URU,Hard,4,D,20100305,4,103638,,,Jhonson Garcia,R,,DOM,29.4,105899,,,Martin Cuevas,R,188,URU,18.1,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,847,13
 2010-D032,Davis Cup G1 R1: DOM vs URU,Hard,4,D,20100305,5,105431,,,Ariel Behar,R,182,URU,20.2,108956,,,Jesus Francisco Felix,U,,DOM,29.8,6-4 6-7(3) 6-2,3,RR,,,,,,,,,,,,,,,,,,,,1074,6,,
 2010-D021,Davis Cup G1 R1: ITA vs BLR,Clay,4,D,20100305,1,103808,,,Potito Starace,R,188,ITA,28.6,105590,,,Uladzimir Ignatik,R,183,BLR,19.6,6-4 6-1 6-2,5,RR,,,,,,,,,,,,,,,,,,,,67,682,178,268
 2010-D021,Davis Cup G1 R1: ITA vs BLR,Clay,4,D,20100305,2,104926,,,Fabio Fognini,R,178,ITA,22.7,105012,,,Alexander Bury,R,203,BLR,22.4,6-2 6-4 6-1,5,RR,,,,,,,,,,,,,,,,,,,,55,780,788,16
@@ -661,10 +661,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-D018,Davis Cup G1 R1: JPN vs PHI,Carpet,4,D,20100305,2,104424,,,Go Soeda,R,178,JPN,25.4,102821,,,Cecil Mamiit,R,173,PHI,33.6,6-7(4) 6-3 6-3 6-3,5,RR,,,,,,,,,,,,,,,,,,,,234,196,522,53
 2010-D018,Davis Cup G1 R1: JPN vs PHI,Carpet,4,D,20100305,4,105147,,,Tatsuma Ito,R,180,JPN,21.7,102821,,,Cecil Mamiit,R,173,PHI,33.6,6-4 7-6(4),3,RR,,,,,,,,,,,,,,,,,,,,203,227,522,53
 2010-D018,Davis Cup G1 R1: JPN vs PHI,Carpet,4,D,20100305,5,104424,,,Go Soeda,R,178,JPN,25.4,108717,,,Francis Casey Alcantara,U,,PHI,18.0,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,234,196,,
-2010-D020,Davis Cup G1 R1: KAZ vs KOR,Clay,4,D,20100305,1,104979,,,Andrey Golubev,R,185,KAZ,22.6,105790,,,Yong Kyu Lim,R,,KOR,18.7,6-1 6-1 6-4,5,RR,,,,,,,,,,,,,,,,,,,,97,532,394,91
+2010-D020,Davis Cup G1 R1: KAZ vs KOR,Clay,4,D,20100305,1,104979,,,Andrey Golubev,R,185,KAZ,22.6,105790,,,Yong Kyu Lim,R,185,KOR,18.7,6-1 6-1 6-4,5,RR,,,,,,,,,,,,,,,,,,,,97,532,394,91
 2010-D020,Davis Cup G1 R1: KAZ vs KOR,Clay,4,D,20100305,2,105062,,,Mikhail Kukushkin,R,183,KAZ,22.1,103682,,,Kyu Tae Im,R,185,KOR,29.1,6-4 7-6(9) 7-6(5),5,RR,,,,,,,,,,,,,,,,,,,,129,429,204,227
 2010-D020,Davis Cup G1 R1: KAZ vs KOR,Clay,4,D,20100305,4,104979,,,Andrey Golubev,R,185,KAZ,22.6,105036,,,Hyun Joon Kim,L,,KOR,22.3,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,97,532,1157,4
-2010-D020,Davis Cup G1 R1: KAZ vs KOR,Clay,4,D,20100305,5,105062,,,Mikhail Kukushkin,R,183,KAZ,22.1,105790,,,Yong Kyu Lim,R,,KOR,18.7,7-5 6-4,3,RR,,,,,,,,,,,,,,,,,,,,129,429,394,91
+2010-D020,Davis Cup G1 R1: KAZ vs KOR,Clay,4,D,20100305,5,105062,,,Mikhail Kukushkin,R,183,KAZ,22.1,105790,,,Yong Kyu Lim,R,185,KOR,18.7,7-5 6-4,3,RR,,,,,,,,,,,,,,,,,,,,129,429,394,91
 2010-D022,Davis Cup G1 R1: POL vs FIN,Hard,4,D,20100305,1,103813,,,Jarkko Nieminen,L,185,FIN,28.6,104308,,,Michal Przysiezny,R,185,POL,26.0,6-7(5) 7-6(4) 6-7(5) 7-6(7) 6-4,5,RR,,,,,,,,,,,,,,,,,,,,85,588,137,384
 2010-D022,Davis Cup G1 R1: POL vs FIN,Hard,4,D,20100305,2,103997,,,Lukasz Kubot,R,190,POL,27.7,105573,,,Henri Kontinen,R,191,FIN,19.6,6-4 6-2 7-6(5),5,RR,,,,,,,,,,,,,,,,,,,,42,912,295,147
 2010-D022,Davis Cup G1 R1: POL vs FIN,Hard,4,D,20100305,4,103813,,,Jarkko Nieminen,L,185,FIN,28.6,103997,,,Lukasz Kubot,R,190,POL,27.7,6-4 7-6(6) 6-7(4) 7-5,5,RR,,,,,,,,,,,,,,,,,,,,85,588,42,912
@@ -679,9 +679,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-D024,Davis Cup G1 R2: AUT vs SVK,Hard,4,D,20100305,5,105373,,,Martin Klizan,L,190,SVK,20.6,104230,,,Daniel Koellerer,R,180,AUT,26.5,6-2 7-6(3),3,RR,,,,,,,,,,,,,,,,,,,,200,234,96,537
 2010-D034,Davis Cup G1 R2: COL vs CAN,Clay,4,D,20100305,1,104113,,,Carlos Salamanca,L,196,COL,27.1,105166,,,Peter Polansky,R,180,CAN,21.7,6-4 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,183,258,216,213
 2010-D034,Davis Cup G1 R2: COL vs CAN,Clay,4,D,20100305,2,105053,,,Santiago Giraldo,R,188,COL,22.2,105683,,,Milos Raonic,R,196,CAN,19.1,7-5 4-6 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,93,544,385,95
-2010-D034,Davis Cup G1 R2: COL vs CAN,Clay,4,D,20100305,4,105053,,,Santiago Giraldo,R,188,COL,22.2,105731,,,Steven Diez,R,,CAN,18.9,6-3 6-3 6-3,5,RR,,,,,,,,,,,,,,,,,,,,93,544,593,40
+2010-D034,Davis Cup G1 R2: COL vs CAN,Clay,4,D,20100305,4,105053,,,Santiago Giraldo,R,188,COL,22.2,105731,,,Steven Diez,R,180,CAN,18.9,6-3 6-3 6-3,5,RR,,,,,,,,,,,,,,,,,,,,93,544,593,40
 2010-D034,Davis Cup G1 R2: COL vs CAN,Clay,4,D,20100305,5,108701,,,Juan Sebastian Cabal,R,185,COL,23.8,105683,,,Milos Raonic,R,196,CAN,19.1,6-7(6) 6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,476,64,385,95
-2010-D029,Davis Cup G2 R1: BOL vs VEN,Clay,4,D,20100305,1,103286,,,Yohny Romero,R,,VEN,31.2,105156,,,Federico Zeballos,U,,BOL,21.7,7-6(10) 6-2 2-6 6-2,5,RR,,,,,,,,,,,,,,,,,,,,710,22,755,19
+2010-D029,Davis Cup G2 R1: BOL vs VEN,Clay,4,D,20100305,1,103286,,,Yohny Romero,R,,VEN,31.2,105156,,,Federico Zeballos,U,185,BOL,21.7,7-6(10) 6-2 2-6 6-2,5,RR,,,,,,,,,,,,,,,,,,,,710,22,755,19
 2010-D029,Davis Cup G2 R1: BOL vs VEN,Clay,4,D,20100305,2,104942,,,Roman Recarte,U,,VEN,22.7,104800,,,Mauricio Estivariz,U,,BOL,23.4,6-4 4-6 6-2 0-6 6-3,5,RR,,,,,,,,,,,,,,,,,,,,1062,6,731,20
 2010-D029,Davis Cup G2 R1: BOL vs VEN,Clay,4,D,20100305,4,105221,,,Mauricio Doria Medina,L,,BOL,21.4,105334,,,Luis David Martinez,U,,VEN,20.8,5-7 6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,726,21,975,8
 2010-D029,Davis Cup G2 R1: BOL vs VEN,Clay,4,D,20100305,5,104887,,,Piero Luisi,R,,VEN,22.9,108737,,,Marco Antonio Rojas,U,,BOL,19.7,6-7(7) 6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,559,45,1739,1
@@ -712,7 +712,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-D031,Davis Cup G2 R1: MEX vs GUA,Clay,4,D,20100305,1,104823,,,Bruno Rodriguez,R,,MEX,23.3,108713,,,Julen Uriguen,R,,GUA,18.6,6-4 6-0 2-0 RET,5,RR,,,,,,,,,,,,,,,,,,,,395,91,1365,2
 2010-D031,Davis Cup G2 R1: MEX vs GUA,Clay,4,D,20100305,2,105471,,,Cesar Ramirez,R,180,MEX,20.0,105499,,,Christopher Diaz Figueroa,R,,GUA,19.9,6-1 6-3 6-1,5,RR,,,,,,,,,,,,,,,,,,,,471,66,795,16
 2010-D031,Davis Cup G2 R1: MEX vs GUA,Clay,4,D,20100305,4,104823,,,Bruno Rodriguez,R,,MEX,23.3,105499,,,Christopher Diaz Figueroa,R,,GUA,19.9,4-6 6-4 7-5,3,RR,,,,,,,,,,,,,,,,,,,,395,91,795,16
-2010-D031,Davis Cup G2 R1: MEX vs GUA,Clay,4,D,20100305,5,105471,,,Cesar Ramirez,R,180,MEX,20.0,108739,,,Wilfredo Gonzalez,R,,GUA,17.1,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,471,66,,
+2010-D031,Davis Cup G2 R1: MEX vs GUA,Clay,4,D,20100305,5,105471,,,Cesar Ramirez,R,180,MEX,20.0,108739,,,Wilfredo Gonzalez,R,188,GUA,17.1,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,471,66,,
 2010-D008,Davis Cup G2 R1: MKD vs BIH,Clay,4,D,20100305,1,104234,,,Predrag Rusevski,R,,MKD,26.5,104191,,,Ismar Gorcic,R,,BIH,26.7,6-4 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,,615,35,588,40
 2010-D008,Davis Cup G2 R1: MKD vs BIH,Clay,4,D,20100305,2,105060,,,Aldin Setkic,R,193,BIH,22.1,103872,,,Dimitar Grabuloski,U,,MKD,28.3,6-1 6-4 6-0,5,RR,,,,,,,,,,,,,,,,,,,,358,108,1257,3
 2010-D008,Davis Cup G2 R1: MKD vs BIH,Clay,4,D,20100305,4,105060,,,Aldin Setkic,R,193,BIH,22.1,104234,,,Predrag Rusevski,R,,MKD,26.5,1-6 7-5 6-4 6-2,5,RR,,,,,,,,,,,,,,,,,,,,358,108,615,35
@@ -730,9 +730,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-D030,Davis Cup G2 R1: PAR vs AHO,Clay,4,D,20100305,4,104996,,,Alexander Blom,R,,AHO,22.5,102830,,,Paulo Carvallo,R,,PAR,33.6,6-3 3-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,,1328,2,,
 2010-D030,Davis Cup G2 R1: PAR vs AHO,Clay,4,D,20100305,5,108715,,,Nicolas Salama,U,,PAR,19.1,108738,,,Claudio Dias Conduto,U,,AHO,16.5,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2010-D028,Davis Cup G2 R1: PER vs ESA,Clay,4,D,20100305,1,103525,,,Ivan Miranda,R,175,PER,29.9,104763,,,Rafael Arevalo,R,180,ESA,23.6,6-3 6-2 7-5,5,RR,,,,,,,,,,,,,,,,,,,,337,121,,
-2010-D028,Davis Cup G2 R1: PER vs ESA,Clay,4,D,20100305,2,105273,,,Mauricio Echazu,R,,PER,21.1,105656,,,Marcelo Arevalo,R,191,ESA,19.3,2-6 6-2 6-4 3-6 6-3,5,RR,,,,,,,,,,,,,,,,,,,,422,80,462,69
+2010-D028,Davis Cup G2 R1: PER vs ESA,Clay,4,D,20100305,2,105273,,,Mauricio Echazu,R,174,PER,21.1,105656,,,Marcelo Arevalo,R,191,ESA,19.3,2-6 6-2 6-4 3-6 6-3,5,RR,,,,,,,,,,,,,,,,,,,,422,80,462,69
 2010-D028,Davis Cup G2 R1: PER vs ESA,Clay,4,D,20100305,4,105625,,,Alvaro Raposo De Oliveira,U,,PER,19.4,105656,,,Marcelo Arevalo,R,191,ESA,19.3,7-5 6-3,3,RR,,,,,,,,,,,,,,,,,,,,761,18,462,69
-2010-D028,Davis Cup G2 R1: PER vs ESA,Clay,4,D,20100305,5,105456,,,Sergio Galdos,R,,PER,20.1,108736,,,Sebastian Moreno,R,,ESA,18.0,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,1190,4,,
+2010-D028,Davis Cup G2 R1: PER vs ESA,Clay,4,D,20100305,5,105456,,,Sergio Galdos,R,180,PER,20.1,108736,,,Sebastian Moreno,R,,ESA,18.0,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,1190,4,,
 2010-D005,Davis Cup G2 R1: POR vs DEN,Clay,4,D,20100305,1,104349,,,Rui Machado,R,178,POR,25.8,104233,,,Frederik Nielsen,R,190,DEN,26.5,4-6 6-4 6-0 6-1,5,RR,,,,,,,,,,,,,,,,,,,,120,441,273,162
 2010-D005,Davis Cup G2 R1: POR vs DEN,Clay,4,D,20100305,2,104523,,,Frederico Gil,R,178,POR,24.9,104952,,,Martin Pedersen,R,,DEN,22.7,6-2 7-6(7) 3-6 6-3,5,RR,,,,,,,,,,,,,,,,,,,,104,505,802,15
 2010-D005,Davis Cup G2 R1: POR vs DEN,Clay,4,D,20100305,4,105155,,,Pedro Sousa,R,180,POR,21.7,104233,,,Frederik Nielsen,R,190,DEN,26.5,6-7(3) 6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,393,92,273,162
@@ -1199,7 +1199,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-308,Munich,Clay,32,A,20100502,11,105137,,Q,Pere Riba,R,183,ESP,22.0,105041,,,Lukas Lacko,R,185,SVK,22.4,5-7 6-1 6-2,3,R32,119,7,2,85,53,36,17,14,2,5,1,1,88,51,25,19,13,9,15,98,555,72,683
 2010-308,Munich,Clay,32,A,20100502,12,104607,3,,Tomas Berdych,R,196,CZE,24.6,105906,,WC,Kevin Krawietz,R,190,GER,18.2,6-1 6-1,3,R32,44,0,1,32,14,12,16,7,0,0,0,2,43,26,15,4,7,1,6,16,2305,1057,6
 2010-308,Munich,Clay,32,A,20100502,13,103794,8,,Benjamin Becker,R,178,GER,28.8,103565,,,Stephane Robert,R,185,FRA,29.9,6-4 4-6 6-0,3,R32,117,9,2,92,48,31,22,13,6,9,1,4,90,40,28,20,13,9,15,46,914,66,727
-2010-308,Munich,Clay,32,A,20100502,14,104225,,,Jan Hajek,R,180,CZE,26.7,105098,,Q,Alexandre Sidorenko,R,,FRA,22.2,6-1 6-2,3,R32,68,3,3,74,34,25,22,8,8,8,2,3,48,30,18,6,7,6,10,96,562,253,180
+2010-308,Munich,Clay,32,A,20100502,14,104225,,,Jan Hajek,R,180,CZE,26.7,105098,,Q,Alexandre Sidorenko,R,185,FRA,22.2,6-1 6-2,3,R32,68,3,3,74,34,25,22,8,8,8,2,3,48,30,18,6,7,6,10,96,562,253,180
 2010-308,Munich,Clay,32,A,20100502,15,104676,,,Andreas Beck,L,190,GER,24.2,104797,,,Denis Istomin,R,188,UZB,23.6,2-6 7-6(3) 6-1,3,R32,114,0,4,84,52,37,19,14,3,6,5,1,77,56,39,10,13,1,4,85,615,81,620
 2010-308,Munich,Clay,32,A,20100502,16,104022,2,,Mikhail Youzhny,R,183,RUS,27.8,104871,,,Jeremy Chardy,R,188,FRA,23.2,6-1 6-4,3,R32,59,2,1,47,33,25,9,9,3,4,5,2,41,21,14,5,8,1,5,15,2320,43,955
 2010-308,Munich,Clay,32,A,20100502,17,105227,1,,Marin Cilic,R,198,CRO,21.5,103752,,,Simon Greul,R,185,GER,29.0,6-7(6) 6-2 7-5,3,R16,152,5,2,92,61,48,17,16,3,4,1,1,113,72,42,23,16,5,9,11,2900,62,750
@@ -1276,9 +1276,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-D051,Davis Cup G1 R2: AUS vs JPN,Clay,4,D,20100507,4,103720,,,Lleyton Hewitt,R,180,AUS,29.1,105216,,,Yuichi Sugita,R,173,JPN,21.6,7-5 6-2,3,RR,,,,,,,,,,,,,,,,,,,,29,1380,193,241
 2010-D051,Davis Cup G1 R2: AUS vs JPN,Clay,4,D,20100507,5,104958,,,Carsten Ball,L,198,AUS,22.8,105147,,,Tatsuma Ito,R,180,JPN,21.9,6-3 7-6(7),3,RR,,,,,,,,,,,,,,,,,,,,115,443,272,161
 2010-D033,Davis Cup G1 R2: BRA vs URU,Clay,4,D,20100507,1,103228,,,Marcos Daniel,R,180,BRA,31.8,104395,,,Marcel Felder,R,174,URU,25.8,6-4 6-1 6-1,5,RR,,,,,,,,,,,,,,,,,,,,91,577,267,166
-2010-D033,Davis Cup G1 R2: BRA vs URU,Clay,4,D,20100507,2,105064,,,Thomaz Bellucci,L,188,BRA,22.3,105899,,,Martin Cuevas,R,,URU,18.2,6-4 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,26,1457,853,13
+2010-D033,Davis Cup G1 R2: BRA vs URU,Clay,4,D,20100507,2,105064,,,Thomaz Bellucci,L,188,BRA,22.3,105899,,,Martin Cuevas,R,188,URU,18.2,6-4 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,26,1457,853,13
 2010-D033,Davis Cup G1 R2: BRA vs URU,Clay,4,D,20100507,4,105064,,,Thomaz Bellucci,L,188,BRA,22.3,104395,,,Marcel Felder,R,174,URU,25.8,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,26,1457,267,166
-2010-D033,Davis Cup G1 R2: BRA vs URU,Clay,4,D,20100507,5,104249,,,Marcelo Melo,R,203,BRA,26.6,105899,,,Martin Cuevas,R,,URU,18.2,6-7(5) 6-2 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,853,13
+2010-D033,Davis Cup G1 R2: BRA vs URU,Clay,4,D,20100507,5,104249,,,Marcelo Melo,R,203,BRA,26.6,105899,,,Martin Cuevas,R,188,URU,18.2,6-7(5) 6-2 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,853,13
 2010-D052,Davis Cup G1 R2: CHN vs KAZ,Hard,4,D,20100507,1,104979,,,Andrey Golubev,R,185,KAZ,22.7,105842,,,Di Wu,R,175,CHN,18.6,5-7 6-4 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,76,658,509,57
 2010-D052,Davis Cup G1 R2: CHN vs KAZ,Hard,4,D,20100507,2,105062,,,Mikhail Kukushkin,R,183,KAZ,22.3,105585,,,Ze Zhang,R,188,CHN,19.8,6-3 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,,128,397,428,78
 2010-D052,Davis Cup G1 R2: CHN vs KAZ,Hard,4,D,20100507,4,104979,,,Andrey Golubev,R,185,KAZ,22.7,105585,,,Ze Zhang,R,188,CHN,19.8,6-2 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,,76,658,428,78
@@ -1302,7 +1302,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-1536,Madrid Masters,Clay,56,M,20100509,6,103852,,,Feliciano Lopez,L,188,ESP,28.6,103997,,,Lukasz Kubot,R,190,POL,27.9,6-3 6-3,3,R64,72,6,3,53,28,23,10,9,2,4,0,3,50,34,19,7,9,3,8,32,1340,53,824
 2010-1536,Madrid Masters,Clay,56,M,20100509,7,103428,,Q,Juan Ignacio Chela,R,190,ARG,30.6,104655,,,Pablo Cuevas,R,180,URU,24.3,2-0 RET,3,R64,5,1,0,5,5,5,0,1,0,0,0,0,5,3,1,0,1,0,1,51,839,50,847
 2010-1536,Madrid Masters,Clay,56,M,20100509,8,103812,,,Victor Hanescu,R,198,ROU,28.8,104214,,,Igor Andreev,R,185,RUS,26.8,3-6 6-5 RET,3,R64,96,4,2,67,48,32,8,10,1,4,7,0,61,29,23,16,10,2,4,38,1105,45,885
-2010-1536,Madrid Masters,Clay,56,M,20100509,9,103926,,Q,Daniel Munoz de la Nava,L,,ESP,28.2,105023,14,,Sam Querrey,R,198,USA,22.5,6-7(3) 6-3 7-5,3,R64,132,5,0,100,52,39,30,16,5,6,17,1,100,65,52,14,17,1,5,315,134,22,1710
+2010-1536,Madrid Masters,Clay,56,M,20100509,9,103926,,Q,Daniel Munoz de la Nava,L,178,ESP,28.2,105023,14,,Sam Querrey,R,198,USA,22.5,6-7(3) 6-3 7-5,3,R64,132,5,0,100,52,39,30,16,5,6,17,1,100,65,52,14,17,1,5,315,134,22,1710
 2010-1536,Madrid Masters,Clay,56,M,20100509,10,103970,9,,David Ferrer,R,175,ESP,28.1,104871,,,Jeremy Chardy,R,188,FRA,23.2,6-3 7-6(2),3,R64,111,0,2,65,47,30,10,10,4,7,3,0,92,50,30,18,11,13,18,12,2695,44,910
 2010-1536,Madrid Masters,Clay,56,M,20100509,11,104571,,,Marcos Baghdatis,R,183,CYP,24.8,103843,,,Marco Chiudinelli,R,185,SUI,28.6,6-3 6-4,3,R64,85,12,4,62,40,32,13,10,2,2,5,2,59,35,24,12,9,3,5,28,1415,66,720
 2010-1536,Madrid Masters,Clay,56,M,20100509,12,104724,,,Eduardo Schwank,R,183,ARG,24.0,103908,,,Paul Henri Mathieu,R,185,FRA,28.3,6-3 6-3,3,R64,78,6,1,54,35,25,12,9,0,1,2,5,51,27,17,10,9,3,7,52,825,56,805
@@ -1323,7 +1323,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-1536,Madrid Masters,Clay,56,M,20100509,27,105208,,,Ernests Gulbis,R,190,LAT,21.6,104022,10,,Mikhail Youzhny,R,183,RUS,27.8,7-6(2) 6-4,3,R32,104,5,0,58,35,32,17,11,1,1,3,2,73,55,40,7,11,5,6,34,1324,13,2420
 2010-1536,Madrid Masters,Clay,56,M,20100509,28,103852,,,Feliciano Lopez,L,188,ESP,28.6,103169,,LL,Oscar Hernandez,R,180,ESP,32.0,6-1 6-2,3,R32,64,4,3,42,22,21,10,7,1,1,4,3,58,40,20,7,8,5,10,32,1340,103,516
 2010-1536,Madrid Masters,Clay,56,M,20100509,29,104918,3,,Andy Murray,R,190,GBR,22.9,103428,,Q,Juan Ignacio Chela,R,190,ARG,30.6,6-3 6-3,3,R32,73,5,1,43,19,17,14,9,0,2,0,2,67,47,22,8,9,6,11,4,5565,51,839
-2010-1536,Madrid Masters,Clay,56,M,20100509,30,103812,,,Victor Hanescu,R,198,ROU,28.8,103926,,Q,Daniel Munoz de la Nava,L,,ESP,28.2,6-0 4-6 6-3,3,R32,102,7,1,76,59,44,9,13,4,6,2,3,66,39,25,11,12,4,9,38,1105,315,134
+2010-1536,Madrid Masters,Clay,56,M,20100509,30,103812,,,Victor Hanescu,R,198,ROU,28.8,103926,,Q,Daniel Munoz de la Nava,L,178,ESP,28.2,6-0 4-6 6-3,3,R32,102,7,1,76,59,44,9,13,4,6,2,3,66,39,25,11,12,4,9,38,1105,315,134
 2010-1536,Madrid Masters,Clay,56,M,20100509,31,103970,9,,David Ferrer,R,175,ESP,28.1,104571,,,Marcos Baghdatis,R,183,CYP,24.8,1-6 6-3 7-5,3,R32,158,2,1,99,67,41,17,14,13,17,8,1,106,48,32,27,14,12,16,12,2695,28,1415
 2010-1536,Madrid Masters,Clay,56,M,20100509,32,105227,8,,Marin Cilic,R,198,CRO,21.6,104724,,,Eduardo Schwank,R,183,ARG,24.0,6-3 6-0,3,R32,66,5,0,53,26,21,14,8,3,4,1,6,44,21,10,7,7,3,8,11,2900,52,825
 2010-1536,Madrid Masters,Clay,56,M,20100509,33,104269,6,,Fernando Verdasco,L,188,ESP,26.4,103333,,,Ivo Karlovic,R,208,CRO,31.1,7-6(5) 6-3,3,R32,99,7,2,67,56,46,6,11,2,2,11,1,74,49,35,14,10,2,3,9,3735,36,1295
@@ -1832,17 +1832,17 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-D062,Davis Cup G1 PO: BLR vs NED,Hard,4,D,20100709,2,104898,,,Robin Haase,R,190,NED,23.2,105590,,,Uladzimir Ignatik,R,183,BLR,19.9,4-6 5-7 6-3 6-0 6-3,5,RR,,,,,,,,,,,,,,,,,,,,140,375,188,250
 2010-D062,Davis Cup G1 PO: BLR vs NED,Hard,4,D,20100709,4,105217,,,Thiemo De Bakker,R,193,NED,21.7,105590,,,Uladzimir Ignatik,R,183,BLR,19.9,6-1 7-6(5) 6-7(4) 6-4,5,RR,,,,,,,,,,,,,,,,,,,,41,1010,188,250
 2010-D062,Davis Cup G1 PO: BLR vs NED,Hard,4,D,20100709,5,104898,,,Robin Haase,R,190,NED,23.2,105781,,,Andrei Vasilevski,R,185,BLR,19.1,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,140,375,720,21
-2010-D054,Davis Cup G1 PO: KOR vs UZB,Hard,4,D,20100709,1,104797,,,Denis Istomin,R,188,UZB,23.8,105790,,,Yong Kyu Lim,R,,KOR,19.0,4-6 6-1 7-5 6-2,5,RR,,,,,,,,,,,,,,,,,,,,59,795,299,140
+2010-D054,Davis Cup G1 PO: KOR vs UZB,Hard,4,D,20100709,1,104797,,,Denis Istomin,R,188,UZB,23.8,105790,,,Yong Kyu Lim,R,185,KOR,19.0,4-6 6-1 7-5 6-2,5,RR,,,,,,,,,,,,,,,,,,,,59,795,299,140
 2010-D054,Davis Cup G1 PO: KOR vs UZB,Hard,4,D,20100709,2,104736,,,Farrukh Dustov,R,196,UZB,24.1,103514,,,Young Jun Kim,R,,KOR,30.3,6-7(6) 7-5 6-3 6-3,5,RR,,,,,,,,,,,,,,,,,,,,547,45,255,178
 2010-D054,Davis Cup G1 PO: KOR vs UZB,Hard,4,D,20100709,4,105036,,,Hyun Joon Kim,L,,KOR,22.6,104454,,,Murad Inoyatov,R,,UZB,25.6,7-5 6-1,3,RR,,,,,,,,,,,,,,,,,,,,809,14,475,64
-2010-D054,Davis Cup G1 PO: KOR vs UZB,Hard,4,D,20100709,5,105790,,,Yong Kyu Lim,R,,KOR,19.0,105159,,,Vaja Uzakov,R,,UZB,22.0,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,299,140,704,23
+2010-D054,Davis Cup G1 PO: KOR vs UZB,Hard,4,D,20100709,5,105790,,,Yong Kyu Lim,R,185,KOR,19.0,105159,,,Vaja Uzakov,R,,UZB,22.0,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,299,140,704,23
 2010-D053,Davis Cup G1 PO: TPE vs PHI,Hard,4,D,20100709,1,105738,,,Tsung Hua Yang,R,178,TPE,19.2,104600,,,Treat Conrad Huey,L,178,PHI,24.8,6-3 7-6(5) 7-6(5),5,RR,,,,,,,,,,,,,,,,,,,,295,143,773,16
 2010-D053,Davis Cup G1 PO: TPE vs PHI,Hard,4,D,20100709,2,102821,,,Cecil Mamiit,R,173,PHI,34.0,104251,,,Ti Chen,R,183,TPE,26.7,3-6 6-3 4-1 RET,5,RR,,,,,,,,,,,,,,,,,,,,513,55,423,80
 2010-D053,Davis Cup G1 PO: TPE vs PHI,Hard,4,D,20100709,4,105738,,,Tsung Hua Yang,R,178,TPE,19.2,102821,,,Cecil Mamiit,R,173,PHI,34.0,2-6 6-3 6-2 3-6 6-3,5,RR,,,,,,,,,,,,,,,,,,,,295,143,513,55
 2010-D053,Davis Cup G1 PO: TPE vs PHI,Hard,4,D,20100709,5,105148,,,Hsin Han Lee,R,181,TPE,22.1,104604,,,Ruben Gonzales,R,,PHI,24.8,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,815,14,906,10
 2010-D049,Davis Cup G2 PO: BOL vs ESA,Clay,4,D,20100709,1,104763,,,Rafael Arevalo,R,180,ESA,24.0,104800,,,Mauricio Estivariz,U,,BOL,23.8,6-4 1-6 4-6 7-6(6) 8-6,5,RR,,,,,,,,,,,,,,,,,,,,,,739,19
 2010-D049,Davis Cup G2 PO: BOL vs ESA,Clay,4,D,20100709,2,105656,,,Marcelo Arevalo,R,191,ESA,19.7,105221,,,Mauricio Doria Medina,L,,BOL,21.7,7-6(4) 6-2 7-6(5),5,RR,,,,,,,,,,,,,,,,,,,,489,60,754,18
-2010-D049,Davis Cup G2 PO: BOL vs ESA,Clay,4,D,20100709,4,108744,,,Rodrigo Rappaccioli,U,,ESA,19.7,105156,,,Federico Zeballos,U,,BOL,22.0,6-1 1-6 7-6(3),3,RR,,,,,,,,,,,,,,,,,,,,,,747,19
+2010-D049,Davis Cup G2 PO: BOL vs ESA,Clay,4,D,20100709,4,108744,,,Rodrigo Rappaccioli,U,,ESA,19.7,105156,,,Federico Zeballos,U,185,BOL,22.0,6-1 1-6 7-6(3),3,RR,,,,,,,,,,,,,,,,,,,,,,747,19
 2010-D049,Davis Cup G2 PO: BOL vs ESA,Clay,4,D,20100709,5,106198,,,Hugo Dellien,R,180,BOL,17.0,108736,,,Sebastian Moreno,R,,ESA,18.4,6-1 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2010-D073,Davis Cup G2 PO: EGY vs DEN,Clay,4,D,20100709,1,104233,,,Frederik Nielsen,R,190,DEN,26.8,104789,,,Sherif Sabry,U,,EGY,23.8,2-6 6-4 6-4 1-6 6-4,5,RR,,,,,,,,,,,,,,,,,,,,252,179,468,65
 2010-D073,Davis Cup G2 PO: EGY vs DEN,Clay,4,D,20100709,2,104952,,,Martin Pedersen,R,,DEN,23.0,103472,,,Karim Maamoun,R,,EGY,30.6,7-6(4) 6-7(6) 7-6(3) 6-1,5,RR,,,,,,,,,,,,,,,,,,,,,,403,85
@@ -1882,7 +1882,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-D057,Davis Cup G2 R2: INA vs THA,Hard,4,D,20100709,5,104949,,,Weerapat Doakmaiklee,R,,THA,23.0,105812,,,David Agung Susanto,U,,INA,18.9,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,703,23,,
 2010-D065,Davis Cup G2 R2: IRL vs LTU,Carpet,4,D,20100709,1,105575,,,Ricardas Berankis,R,175,LTU,20.0,104945,,,James Mcgee,R,183,IRL,23.0,6-7(2) 6-4 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,,132,392,508,57
 2010-D065,Davis Cup G2 R2: IRL vs LTU,Carpet,4,D,20100709,2,105827,,,Laurynas Grigelis,R,183,LTU,18.8,103851,,,Conor Niland,R,185,IRL,28.7,6-2 6-3 6-1,5,RR,,,,,,,,,,,,,,,,,,,,429,79,162,299
-2010-D065,Davis Cup G2 R2: IRL vs LTU,Carpet,4,D,20100709,4,103851,,,Conor Niland,R,185,IRL,28.7,108748,,,Lukas Mugevicius,R,,LTU,15.5,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,162,299,,
+2010-D065,Davis Cup G2 R2: IRL vs LTU,Carpet,4,D,20100709,4,103851,,,Conor Niland,R,185,IRL,28.7,108748,,,Lukas Mugevicius,R,188,LTU,15.5,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,162,299,,
 2010-D065,Davis Cup G2 R2: IRL vs LTU,Carpet,4,D,20100709,5,104945,,,James Mcgee,R,183,IRL,23.0,106024,,,Dovydas Sakinis,L,,LTU,18.0,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,508,57,846,12
 2010-D058,Davis Cup G2 R2: NZL vs PAK,Hard,4,D,20100709,1,104907,,,Jose Rubin Statham,R,183,NZL,23.1,103499,,,Aqeel Khan,R,,PAK,30.4,6-4 6-0 6-0,5,RR,,,,,,,,,,,,,,,,,,,,390,90,1443,1
 2010-D058,Davis Cup G2 R2: NZL vs PAK,Hard,4,D,20100709,2,103529,,,Aisam Ul Haq Qureshi,R,183,PAK,30.2,105030,,,Michael Venus,R,191,NZL,22.7,7-6(2) 4-6 6-2 2-6 15-13,5,RR,,,,,,,,,,,,,,,,,,,,1057,5,412,83
@@ -1900,7 +1900,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-D066,Davis Cup G2 R2: SLO vs BUL,Clay,4,D,20100709,2,104882,,,Blaz Kavcic,R,188,SLO,23.3,105777,,,Grigor Dimitrov,R,188,BUL,19.1,1-6 6-1 6-0 6-3,5,RR,,,,,,,,,,,,,,,,,,,,157,318,302,134
 2010-D066,Davis Cup G2 R2: SLO vs BUL,Clay,4,D,20100709,4,105641,,,Blaz Rola,L,193,SLO,19.7,105305,,,Valentin Dimov,R,,BUL,21.3,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,500,58,794,15
 2010-D066,Davis Cup G2 R2: SLO vs BUL,Clay,4,D,20100709,5,104882,,,Blaz Kavcic,R,188,SLO,23.3,103936,,,Todor Enev,R,,BUL,28.4,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,157,318,718,21
-2010-D046,Davis Cup G2 R2: VEN vs PER,Hard,4,D,20100709,1,105961,,,David Souto,L,,VEN,18.2,105273,,,Mauricio Echazu,R,,PER,21.5,6-2 6-4 7-5,5,RR,,,,,,,,,,,,,,,,,,,,449,73,425,80
+2010-D046,Davis Cup G2 R2: VEN vs PER,Hard,4,D,20100709,1,105961,,,David Souto,L,,VEN,18.2,105273,,,Mauricio Echazu,R,174,PER,21.5,6-2 6-4 7-5,5,RR,,,,,,,,,,,,,,,,,,,,449,73,425,80
 2010-D046,Davis Cup G2 R2: VEN vs PER,Hard,4,D,20100709,2,103525,,,Ivan Miranda,R,175,PER,30.3,104942,,,Roman Recarte,U,,VEN,23.0,1-6 6-3 6-3 RET,5,RR,,,,,,,,,,,,,,,,,,,,339,115,827,13
 2010-D046,Davis Cup G2 R2: VEN vs PER,Hard,4,D,20100709,4,105961,,,David Souto,L,,VEN,18.2,103525,,,Ivan Miranda,R,175,PER,30.3,5-7 3-6 6-2 6-2 12-10,5,RR,,,,,,,,,,,,,,,,,,,,449,73,339,115
 2010-D042,Davis Cup WG QF: CHI vs CZE,Clay,4,D,20100709,1,104371,,,Ivo Minar,R,183,CZE,26.1,103454,,,Nicolas Massu,R,183,CHI,30.7,6-0 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,,247,181,101,526
@@ -1930,7 +1930,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-316,Bastad,Clay,28,A,20100712,9,103813,,,Jarkko Nieminen,L,185,FIN,28.9,105872,,WC,Christian Lindell,R,193,SWE,18.6,4-6 6-0 6-4,3,R32,98,3,5,73,54,42,7,13,2,4,8,2,69,45,28,11,13,3,8,63,781,856,12
 2010-316,Bastad,Clay,28,A,20100712,10,103990,5,,Tommy Robredo,R,180,ESP,28.1,104308,,,Michal Przysiezny,R,185,POL,26.4,7-6(3) 6-3,3,R32,80,7,0,60,52,44,6,11,0,0,3,5,66,37,26,18,10,5,6,36,1075,89,609
 2010-316,Bastad,Clay,28,A,20100712,11,104979,,,Andrey Golubev,R,185,KAZ,22.9,104216,,,Maximo Gonzalez,R,175,ARG,26.9,6-3 6-2,3,R32,67,5,0,49,36,30,3,9,0,1,0,1,50,34,18,6,8,1,5,82,633,196,244
-2010-316,Bastad,Clay,28,A,20100712,12,103565,,,Stephane Robert,R,185,FRA,30.1,104850,,Q,Jonathan Dasnieres De Veigy,L,,FRA,23.5,6-4 6-1,3,R32,75,3,1,57,39,27,11,9,1,2,2,0,55,43,20,7,8,4,8,77,663,231,207
+2010-316,Bastad,Clay,28,A,20100712,12,103565,,,Stephane Robert,R,185,FRA,30.1,104850,,Q,Jonathan Dasnieres De Veigy,L,175,FRA,23.5,6-4 6-1,3,R32,75,3,1,57,39,27,11,9,1,2,2,0,55,43,20,7,8,4,8,77,663,231,207
 2010-316,Bastad,Clay,28,A,20100712,13,104417,1,,Robin Soderling,R,193,SWE,25.9,103714,,WC,Andreas Vinciguerra,L,180,SWE,29.3,6-2 6-7(6) 6-2,3,R16,112,15,7,87,50,41,20,14,0,0,6,6,97,54,35,23,14,5,9,5,4935,347,112
 2010-316,Bastad,Clay,28,A,20100712,14,104312,,,Andreas Seppi,R,190,ITA,26.3,103808,,,Potito Starace,R,188,ITA,28.9,6-4 3-6 7-6(7),3,R16,151,6,2,95,58,42,16,15,4,7,10,0,111,93,59,10,16,3,6,76,675,69,712
 2010-316,Bastad,Clay,28,A,20100712,15,103970,3,,David Ferrer,R,175,ESP,28.2,104926,,,Fabio Fognini,R,178,ITA,23.1,6-3 7-5,3,R16,97,0,2,68,41,27,16,10,3,5,2,5,65,38,26,7,11,2,7,12,3100,86,615
@@ -1949,7 +1949,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-321,Stuttgart,Clay,28,A,20100712,1,104593,,,Daniel Gimeno Traver,R,185,ESP,24.9,104871,,,Jeremy Chardy,R,188,FRA,23.4,7-5 6-7(6) 6-3,3,R32,155,18,5,110,67,49,26,17,1,3,9,6,116,62,42,30,16,9,13,88,610,50,900
 2010-321,Stuttgart,Clay,28,A,20100712,2,103451,,WC,Bjorn Phau,R,175,GER,30.7,104003,,Q,Victor Crivoi,R,185,ROU,28.1,6-2 6-3,3,R32,69,2,3,55,31,22,15,8,4,4,2,1,55,36,19,11,9,5,9,98,539,182,258
 2010-321,Stuttgart,Clay,28,A,20100712,3,103843,,,Marco Chiudinelli,R,185,SUI,28.8,103812,8,,Victor Hanescu,R,198,ROU,28.9,7-6(4) 6-3,3,R32,95,4,6,81,47,38,18,11,4,4,5,0,56,40,33,9,10,1,2,66,737,37,1070
-2010-321,Stuttgart,Clay,28,A,20100712,4,104665,,Q,Pablo Andujar,R,180,ESP,24.4,104226,,Q,Bastian Knittel,L,,GER,26.9,4-6 6-4 6-3,3,R32,148,1,3,90,68,49,10,15,1,3,5,11,89,55,42,12,14,7,10,125,420,222,216
+2010-321,Stuttgart,Clay,28,A,20100712,4,104665,,Q,Pablo Andujar,R,180,ESP,24.4,104226,,Q,Bastian Knittel,L,180,GER,26.9,4-6 6-4 6-3,3,R32,148,1,3,90,68,49,10,15,1,3,5,11,89,55,42,12,14,7,10,125,420,222,216
 2010-321,Stuttgart,Clay,28,A,20100712,5,104198,,,Guillermo Garcia Lopez,R,188,ESP,27.1,103868,,Q,Ivan Navarro,R,183,ESP,28.7,4-6 6-3 6-2,3,R32,136,3,1,83,55,40,17,14,0,2,4,6,87,50,35,16,13,7,11,39,1025,146,365
 2010-321,Stuttgart,Clay,28,A,20100712,6,104252,,,Florian Mayer,R,190,GER,26.7,104259,6,,Philipp Kohlschreiber,R,178,GER,26.7,6-4 6-2,3,R32,83,1,1,64,43,32,12,9,7,7,1,2,64,37,22,13,9,6,9,56,827,35,1100
 2010-321,Stuttgart,Clay,28,A,20100712,7,104468,7,,Gilles Simon,R,183,FRA,25.5,104460,,WC,Dustin Brown,R,196,GER,25.5,6-3 3-6 7-6(1),3,R32,111,4,2,92,60,49,17,15,2,3,7,5,113,63,45,25,15,7,8,33,1215,99,539
@@ -2056,7 +2056,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-314,Gstaad,Clay,32,A,20100725,7,104978,,,Daniel Brands,R,196,GER,23.0,103429,,,Peter Luczak,R,183,AUS,30.9,6-4 7-5,3,R32,87,15,2,65,45,34,15,11,2,2,2,1,71,46,33,12,11,9,11,76,666,93,569
 2010-314,Gstaad,Clay,32,A,20100725,8,104755,7,,Richard Gasquet,R,185,FRA,24.1,104736,,Q,Farrukh Dustov,R,196,UZB,24.1,6-3 6-4,3,R32,78,2,1,49,29,21,19,10,0,0,3,0,64,49,34,5,9,5,7,47,930,457,70
 2010-314,Gstaad,Clay,32,A,20100725,9,104593,,,Daniel Gimeno Traver,R,185,ESP,24.9,103812,6,,Victor Hanescu,R,198,ROU,29.0,6-4 6-4,3,R32,75,8,1,48,28,27,14,10,3,3,3,3,72,50,36,7,10,4,6,74,668,52,870
-2010-314,Gstaad,Clay,32,A,20100725,10,104676,,,Andreas Beck,L,190,GER,24.4,106006,,WC,Agustin Velotti,R,,ARG,18.1,6-3 6-1,3,R32,70,4,4,44,24,21,12,8,0,0,4,1,63,32,18,14,8,7,11,79,636,676,26
+2010-314,Gstaad,Clay,32,A,20100725,10,104676,,,Andreas Beck,L,190,GER,24.4,106006,,WC,Agustin Velotti,R,174,ARG,18.1,6-3 6-1,3,R32,70,4,4,44,24,21,12,8,0,0,4,1,63,32,18,14,8,7,11,79,636,676,26
 2010-314,Gstaad,Clay,32,A,20100725,11,104214,,,Igor Andreev,R,185,RUS,27.0,103722,,,Florent Serra,R,180,FRA,29.4,6-4 2-6 6-4,3,R32,104,7,3,87,53,35,19,14,7,10,3,1,86,50,33,21,14,4,7,88,590,62,785
 2010-314,Gstaad,Clay,32,A,20100725,12,103843,,,Marco Chiudinelli,R,185,SUI,28.8,105064,3,,Thomaz Bellucci,L,188,BRA,22.5,7-6(6) 0-6 6-4,3,R32,136,2,6,86,54,38,18,14,4,7,7,6,102,50,37,29,14,6,7,63,762,21,1732
 2010-314,Gstaad,Clay,32,A,20100725,13,104871,,,Jeremy Chardy,R,188,FRA,23.4,103908,8,,Paul Henri Mathieu,R,185,FRA,28.5,6-1 6-3,3,R32,83,10,5,61,28,23,19,8,4,4,2,3,57,24,12,15,8,6,10,69,695,95,555
@@ -2184,7 +2184,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-421,Canada Masters,Hard,56,M,20100809,3,105023,16,,Sam Querrey,R,198,USA,22.8,103188,,Q,Michael Russell,R,173,USA,32.2,3-6 6-1 6-4,3,R64,100,12,0,65,34,30,21,13,0,1,5,2,84,57,39,13,13,7,10,21,1715,82,624
 2010-421,Canada Masters,Hard,56,M,20100809,4,104678,,,Viktor Troicki,R,193,SRB,24.4,105227,11,,Marin Cilic,R,198,CRO,21.8,6-4 7-6(2),3,R64,110,11,2,81,59,43,14,11,4,4,7,8,77,46,36,14,11,2,3,51,910,13,2890
 2010-421,Canada Masters,Hard,56,M,20100809,5,104259,,,Philipp Kohlschreiber,R,178,GER,26.8,104386,,,Janko Tipsarevic,R,180,SRB,26.1,2-2 RET,3,R64,24,1,0,9,6,6,2,2,0,0,0,1,17,7,5,6,2,2,2,37,1100,39,1055
-2010-421,Canada Masters,Hard,56,M,20100809,6,104229,,Q,Yen Hsun Lu,R,180,TPE,26.9,104661,,WC,Pierre Ludovic Duclos,R,,CAN,24.5,6-4 6-4,3,R64,90,2,2,53,35,29,12,10,2,2,4,1,67,44,31,11,10,3,5,44,965,340,118
+2010-421,Canada Masters,Hard,56,M,20100809,6,104229,,Q,Yen Hsun Lu,R,180,TPE,26.9,104661,,WC,Pierre Ludovic Duclos,R,188,CAN,24.5,6-4 6-4,3,R64,90,2,2,53,35,29,12,10,2,2,4,1,67,44,31,11,10,3,5,44,965,340,118
 2010-421,Canada Masters,Hard,56,M,20100809,7,103598,,,Xavier Malisse,R,185,BEL,30.0,103582,,,Michael Berrer,L,193,GER,30.1,7-6(2) 6-2,3,R64,81,8,2,59,40,38,10,10,1,1,4,3,60,35,29,9,10,1,3,52,896,47,932
 2010-421,Canada Masters,Hard,56,M,20100809,8,105217,,,Thiemo De Bakker,R,193,NED,21.8,103852,,,Feliciano Lopez,L,188,ESP,28.8,7-6(2) 6-3,3,R64,89,10,0,60,43,32,15,11,0,0,7,1,65,42,33,9,10,1,2,46,955,25,1515
 2010-421,Canada Masters,Hard,56,M,20100809,9,104792,15,,Gael Monfils,R,193,FRA,23.9,104500,,LL,Somdev Devvarman,R,180,IND,25.4,7-6(3) 6-3,3,R64,84,4,4,66,37,32,14,11,3,4,5,2,53,31,20,14,10,0,2,18,2025,111,491
@@ -2382,7 +2382,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-560,US Open,Hard,128,G,20100830,44,103888,19,,Mardy Fish,R,188,USA,28.7,104225,,,Jan Hajek,R,180,CZE,27.0,6-0 3-6 4-6 6-0 6-1,5,R128,156,25,4,95,57,49,23,19,3,5,9,1,146,96,61,16,19,7,15,21,1751,82,644
 2010-560,US Open,Hard,128,G,20100830,45,105166,,Q,Peter Polansky,R,180,CAN,22.2,104338,30,,Juan Monaco,R,185,ARG,26.4,6-2 7-6(5) 6-3,5,R128,118,11,3,82,48,37,22,14,4,6,5,5,98,64,42,15,15,3,9,205,240,32,1235
 2010-560,US Open,Hard,128,G,20100830,46,103484,,WC,James Blake,R,185,USA,30.6,104019,,,Kristof Vliegen,R,193,BEL,28.1,6-3 6-2 6-4,5,R128,105,4,3,95,51,41,23,14,5,6,3,1,80,42,25,20,13,2,7,108,495,321,129
-2010-560,US Open,Hard,128,G,20100830,47,104332,,,Philipp Petzschner,R,185,GER,26.4,105116,,Q,Dusan Lojda,L,,CZE,22.4,6-3 6-1 6-1,5,R128,87,11,2,66,36,31,20,12,3,3,1,4,70,40,26,9,11,4,10,52,910,169,285
+2010-560,US Open,Hard,128,G,20100830,47,104332,,,Philipp Petzschner,R,185,GER,26.4,105116,,Q,Dusan Lojda,L,188,CZE,22.4,6-3 6-1 6-1,5,R128,87,11,2,66,36,31,20,12,3,3,1,4,70,40,26,9,11,4,10,52,910,169,285
 2010-560,US Open,Hard,128,G,20100830,48,104925,3,,Novak Djokovic,R,188,SRB,23.2,104678,,,Viktor Troicki,R,193,SRB,24.5,6-3 3-6 2-6 7-5 6-3,5,R128,220,3,4,161,105,70,28,24,9,14,23,6,156,108,75,20,23,9,14,3,6665,47,980
 2010-560,US Open,Hard,128,G,20100830,49,104417,5,,Robin Soderling,R,193,SWE,26.0,104890,,Q,Andreas Haider Maurer,R,190,AUT,23.4,7-5 6-3 6-7(2) 5-7 6-4,5,R128,232,8,13,169,97,75,38,27,5,8,34,9,190,100,80,41,28,10,16,5,4910,214,223
 2010-560,US Open,Hard,128,G,20100830,50,103758,,,Taylor Dent,R,188,USA,29.3,104268,,,Alejandro Falla,L,185,COL,26.7,6-4 7-5 6-1,5,R128,123,4,5,123,87,61,11,15,16,19,6,7,92,56,33,13,14,3,10,72,699,65,780
@@ -2468,16 +2468,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-D076,Davis Cup WG PO: ISR vs AUT,Hard,4,D,20100916,4,103781,,,Jurgen Melzer,L,183,AUT,29.3,104534,,,Dudi Sela,R,175,ISR,25.4,6-4 6-0 6-3,5,RR,,,,,,,,,,,,,,,,,,,,13,2605,85,618
 2010-D076,Davis Cup WG PO: ISR vs AUT,Hard,4,D,20100916,5,104770,,,Martin Fischer,R,180,AUT,24.1,103248,,,Harel Levy,R,185,ISR,32.1,2-6 6-3 6-0 6-3,5,RR,,,,,,,,,,,,,,,,,,,,134,399,223,214
 2010-D063,Davis Cup G1 PO: BLR vs SVK,Hard,4,D,20100917,1,105590,,,Uladzimir Ignatik,R,183,BLR,20.1,105373,,,Martin Klizan,L,190,SVK,21.1,7-6(9) 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,,160,299,255,181
-2010-D063,Davis Cup G1 PO: BLR vs SVK,Hard,4,D,20100917,2,105041,,,Lukas Lacko,R,185,SVK,22.8,105029,,,Sergey Betov,R,,BLR,22.9,6-0 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,76,680,426,84
+2010-D063,Davis Cup G1 PO: BLR vs SVK,Hard,4,D,20100917,2,105041,,,Lukas Lacko,R,185,SVK,22.8,105029,,,Sergey Betov,R,185,BLR,22.9,6-0 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,76,680,426,84
 2010-D063,Davis Cup G1 PO: BLR vs SVK,Hard,4,D,20100917,4,105041,,,Lukas Lacko,R,185,SVK,22.8,105590,,,Uladzimir Ignatik,R,183,BLR,20.1,6-1 3-6 6-1 6-7(7) 6-4,5,RR,,,,,,,,,,,,,,,,,,,,76,680,160,299
-2010-D063,Davis Cup G1 PO: BLR vs SVK,Hard,4,D,20100917,5,105373,,,Martin Klizan,L,190,SVK,21.1,105029,,,Sergey Betov,R,,BLR,22.9,7-6(2) 6-2,3,RR,,,,,,,,,,,,,,,,,,,,255,181,426,84
+2010-D063,Davis Cup G1 PO: BLR vs SVK,Hard,4,D,20100917,5,105373,,,Martin Klizan,L,190,SVK,21.1,105029,,,Sergey Betov,R,185,BLR,22.9,7-6(2) 6-2,3,RR,,,,,,,,,,,,,,,,,,,,255,181,426,84
 2010-D056,Davis Cup G1 PO: CAN vs DOM,Hard,4,D,20100917,1,105166,,,Peter Polansky,R,180,CAN,22.2,103638,,,Jhonson Garcia,R,,DOM,29.9,7-6(4) 4-6 6-3 6-3,5,RR,,,,,,,,,,,,,,,,,,,,176,275,,
 2010-D056,Davis Cup G1 PO: CAN vs DOM,Hard,4,D,20100917,2,105683,,,Milos Raonic,R,196,CAN,19.7,103607,,,Victor Estrella,R,173,DOM,30.1,5-7 6-2 3-6 7-6(3) 9-7,5,RR,,,,,,,,,,,,,,,,,,,,234,198,257,178
 2010-D056,Davis Cup G1 PO: CAN vs DOM,Hard,4,D,20100917,4,105166,,,Peter Polansky,R,180,CAN,22.2,103607,,,Victor Estrella,R,173,DOM,30.1,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,176,275,257,178
 2010-D056,Davis Cup G1 PO: CAN vs DOM,Hard,4,D,20100917,5,104433,,,Frank Dancevic,R,185,CAN,25.9,108980,,,Luis Delgado,R,,DOM,19.5,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,371,99,,
-2010-D055,Davis Cup G1 PO: KOR vs PHI,Hard,4,D,20100917,1,105790,,,Yong Kyu Lim,R,,KOR,19.2,104600,,,Treat Conrad Huey,L,178,PHI,25.0,6-7(8) 6-2 7-6(7) 7-6(4),5,RR,,,,,,,,,,,,,,,,,,,,313,133,722,21
+2010-D055,Davis Cup G1 PO: KOR vs PHI,Hard,4,D,20100917,1,105790,,,Yong Kyu Lim,R,185,KOR,19.2,104600,,,Treat Conrad Huey,L,178,PHI,25.0,6-7(8) 6-2 7-6(7) 7-6(4),5,RR,,,,,,,,,,,,,,,,,,,,313,133,722,21
 2010-D055,Davis Cup G1 PO: KOR vs PHI,Hard,4,D,20100917,2,106158,,,Suk Young Jeong,R,,KOR,17.4,102821,,,Cecil Mamiit,R,173,PHI,34.2,0-6 1-6 6-3 6-0 6-2,5,RR,,,,,,,,,,,,,,,,,,,,639,31,515,52
-2010-D055,Davis Cup G1 PO: KOR vs PHI,Hard,4,D,20100917,4,102821,,,Cecil Mamiit,R,173,PHI,34.2,105790,,,Yong Kyu Lim,R,,KOR,19.2,3-6 4-6 6-4 1-1 RET,5,RR,,,,,,,,,,,,,,,,,,,,515,52,313,133
+2010-D055,Davis Cup G1 PO: KOR vs PHI,Hard,4,D,20100917,4,102821,,,Cecil Mamiit,R,173,PHI,34.2,105790,,,Yong Kyu Lim,R,185,KOR,19.2,3-6 4-6 6-4 1-1 RET,5,RR,,,,,,,,,,,,,,,,,,,,515,52,313,133
 2010-D055,Davis Cup G1 PO: KOR vs PHI,Hard,4,D,20100917,5,104600,,,Treat Conrad Huey,L,178,PHI,25.0,106158,,,Suk Young Jeong,R,,KOR,17.4,7-5 7-5 6-3,5,RR,,,,,,,,,,,,,,,,,,,,722,21,639,31
 2010-D064,Davis Cup G1 PO: LAT vs POL,Carpet,4,D,20100917,1,104308,,,Michal Przysiezny,R,185,POL,26.5,104557,,,Andis Juska,R,,LAT,25.3,6-3 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,90,606,290,151
 2010-D064,Davis Cup G1 PO: LAT vs POL,Carpet,4,D,20100917,2,105208,,,Ernests Gulbis,R,190,LAT,22.0,105668,,,Jerzy Janowicz,R,203,POL,19.8,6-4 6-4 3-6 6-2,5,RR,,,,,,,,,,,,,,,,,,,,25,1515,198,250
@@ -2521,7 +2521,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-D082,Davis Cup WG PO: ROU vs ECU,Clay,4,D,20100917,1,103812,,,Victor Hanescu,R,198,ROU,29.1,105111,,,Ivan Endara,U,,ECU,22.5,6-2 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,,54,905,408,89
 2010-D082,Davis Cup WG PO: ROU vs ECU,Clay,4,D,20100917,2,104494,,,Adrian Ungur,R,178,ROU,25.6,104117,,,Giovanni Lapentti,R,193,ECU,27.6,6-7(2) 4-6 6-3 6-4 6-1,5,RR,,,,,,,,,,,,,,,,,,,,130,413,283,158
 2010-D082,Davis Cup WG PO: ROU vs ECU,Clay,4,D,20100917,4,104003,,,Victor Crivoi,R,185,ROU,28.3,104117,,,Giovanni Lapentti,R,193,ECU,27.6,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,183,272,283,158
-2010-D082,Davis Cup WG PO: ROU vs ECU,Clay,4,D,20100917,5,104494,,,Adrian Ungur,R,178,ROU,25.6,105877,,,Emilio Gomez,R,,ECU,18.7,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,130,413,648,30
+2010-D082,Davis Cup WG PO: ROU vs ECU,Clay,4,D,20100917,5,104494,,,Adrian Ungur,R,178,ROU,25.6,105877,,,Emilio Gomez,R,185,ECU,18.7,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,130,413,648,30
 2010-D078,Davis Cup WG PO: SWE vs ITA,Hard,4,D,20100917,1,103808,,,Potito Starace,R,188,ITA,29.1,103714,,,Andreas Vinciguerra,L,180,SWE,29.5,6-2 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,,50,915,561,42
 2010-D078,Davis Cup WG PO: SWE vs ITA,Hard,4,D,20100917,2,104417,,,Robin Soderling,R,193,SWE,26.0,104926,,,Fabio Fognini,R,178,ITA,23.3,6-1 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,5,4910,71,720
 2010-D078,Davis Cup WG PO: SWE vs ITA,Hard,4,D,20100917,4,104417,,,Robin Soderling,R,193,SWE,26.0,104620,,,Simone Bolelli,R,183,ITA,24.9,6-3 6-3 6-3,5,RR,,,,,,,,,,,,,,,,,,,,5,4910,116,474
@@ -2563,7 +2563,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-773,Bucharest,Clay,28,A,20100920,27,103428,4,,Juan Ignacio Chela,R,190,ARG,31.0,104665,,Q,Pablo Andujar,R,180,ESP,24.6,7-5 6-1,3,F,89,2,1,59,37,26,10,10,2,4,0,2,53,35,19,9,9,1,6,53,901,105,510
 2010-341,Metz,Hard,28,A,20100920,1,105041,,,Lukas Lacko,R,185,SVK,22.8,103096,,,Arnaud Clement,R,173,FRA,32.7,6-4 6-2,3,R32,62,6,3,52,34,26,8,9,0,1,3,0,41,22,16,7,9,0,4,75,680,60,806
 2010-341,Metz,Hard,28,A,20100920,2,103582,,,Michael Berrer,L,193,GER,30.2,102783,,,Rainer Schuettler,R,180,GER,34.4,7-6(5) 6-2,3,R32,90,4,1,71,50,38,11,10,4,4,2,5,61,31,24,15,10,0,2,49,917,90,605
-2010-341,Metz,Hard,28,A,20100920,3,104259,6,,Philipp Kohlschreiber,R,178,GER,26.9,105341,,Q,Thomas Fabbiano,R,,ITA,21.3,6-4 6-3,3,R32,73,9,0,46,29,24,12,9,0,0,3,2,70,37,22,17,10,2,5,31,1275,339,116
+2010-341,Metz,Hard,28,A,20100920,3,104259,6,,Philipp Kohlschreiber,R,178,GER,26.9,105341,,Q,Thomas Fabbiano,R,173,ITA,21.3,6-4 6-3,3,R32,73,9,0,46,29,24,12,9,0,0,3,2,70,37,22,17,10,2,5,31,1275,339,116
 2010-341,Metz,Hard,28,A,20100920,4,103598,,,Xavier Malisse,R,185,BEL,30.1,104273,,Q,Edouard Roger Vasselin,R,188,FRA,26.8,7-6(3) 6-4,3,R32,98,8,3,81,51,37,13,11,5,7,3,1,70,39,24,14,11,4,7,55,898,106,505
 2010-341,Metz,Hard,28,A,20100920,5,104997,,Q,Igor Sijsling,R,190,NED,23.0,103693,,WC,Thierry Ascione,R,188,FRA,29.6,6-4 6-4,3,R32,61,10,0,56,44,35,7,10,2,2,4,3,66,46,30,10,10,3,5,159,304,238,199
 2010-341,Metz,Hard,28,A,20100920,6,104468,8,,Gilles Simon,R,183,FRA,25.7,104460,,,Dustin Brown,R,196,GER,25.7,6-3 6-4,3,R32,62,8,1,49,24,23,17,10,0,0,14,2,75,38,30,13,9,9,11,41,1055,118,472
@@ -2710,7 +2710,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-5014,Shanghai Masters,Hard,56,M,20101010,4,105217,,,Thiemo De Bakker,R,193,NED,22.0,104269,9,,Fernando Verdasco,L,188,ESP,26.9,7-6(4) 7-5,3,R64,113,7,2,74,52,38,14,12,3,4,6,5,73,44,35,13,12,2,4,47,980,9,3330
 2010-5014,Shanghai Masters,Hard,56,M,20101010,5,104338,,,Juan Monaco,R,185,ARG,26.5,103722,,Q,Florent Serra,R,180,FRA,29.6,6-4 7-6(3),3,R64,103,7,0,64,53,36,6,11,1,4,2,1,84,56,31,12,11,7,11,41,1085,70,706
 2010-5014,Shanghai Masters,Hard,56,M,20101010,6,104999,,Q,Mischa Zverev,L,190,GER,23.1,104660,,,Sergiy Stakhovsky,R,193,UKR,24.7,6-1 4-6 7-6(7),3,R64,132,2,1,86,52,37,16,14,0,5,4,3,103,62,37,17,15,6,13,118,457,34,1209
-2010-5014,Shanghai Masters,Hard,56,M,20101010,7,105339,,WC,Yan Bai,R,,CHN,21.3,103285,,,Radek Stepanek,R,185,CZE,31.8,6-3 6-4,3,R64,88,3,1,64,42,27,13,10,4,6,2,4,57,39,23,8,9,0,4,465,74,30,1325
+2010-5014,Shanghai Masters,Hard,56,M,20101010,7,105339,,WC,Yan Bai,R,185,CHN,21.3,103285,,,Radek Stepanek,R,185,CZE,31.8,6-3 6-4,3,R64,88,3,1,64,42,27,13,10,4,6,2,4,57,39,23,8,9,0,4,465,74,30,1325
 2010-5014,Shanghai Masters,Hard,56,M,20101010,8,104871,,Q,Jeremy Chardy,R,188,FRA,23.6,104571,,,Marcos Baghdatis,R,183,CYP,25.3,7-6(4) 6-1,3,R64,100,1,3,79,46,31,20,10,5,6,6,1,65,40,28,11,9,5,8,59,820,18,2030
 2010-5014,Shanghai Masters,Hard,56,M,20101010,9,105238,,,Alexandr Dolgopolov,R,180,UKR,21.9,104597,16,,Nicolas Almagro,R,183,ESP,25.1,2-6 7-5 7-6(3),3,R64,125,9,1,90,41,32,28,16,2,6,4,4,105,65,42,24,16,3,6,55,897,16,2210
 2010-5014,Shanghai Masters,Hard,56,M,20101010,10,104542,12,,Jo-Wilfried Tsonga,R,188,FRA,25.4,103852,,,Feliciano Lopez,L,188,ESP,29.0,7-6(4) 6-3,3,R64,85,9,1,64,36,33,19,11,2,2,5,3,65,34,26,17,10,4,5,13,2390,22,1685
@@ -2732,7 +2732,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-5014,Shanghai Masters,Hard,56,M,20101010,26,103781,13,,Jurgen Melzer,L,183,AUT,29.3,104593,,LL,Daniel Gimeno Traver,R,185,ESP,25.1,6-3 7-6(2),3,R32,78,5,2,67,42,35,12,11,2,3,10,1,63,38,27,13,10,4,6,12,2560,60,813
 2010-5014,Shanghai Masters,Hard,56,M,20101010,27,104338,,,Juan Monaco,R,185,ARG,26.5,105217,,,Thiemo De Bakker,R,193,NED,22.0,2-6 6-3 6-4,3,R32,157,1,4,114,80,53,16,14,14,16,5,2,88,55,41,18,13,5,7,41,1085,47,980
 2010-5014,Shanghai Masters,Hard,56,M,20101010,28,104999,,Q,Mischa Zverev,L,190,GER,23.1,103786,6,,Nikolay Davydenko,R,178,RUS,29.3,6-4 7-6(3),3,R32,109,3,3,90,65,46,8,11,5,7,2,4,65,48,33,6,11,1,4,118,457,6,3945
-2010-5014,Shanghai Masters,Hard,56,M,20101010,29,104918,4,,Andy Murray,R,190,GBR,23.4,105339,,WC,Yan Bai,R,,CHN,21.3,6-2 6-2,3,R32,81,3,4,49,33,28,6,8,3,4,1,2,72,40,19,15,8,8,13,4,5125,465,74
+2010-5014,Shanghai Masters,Hard,56,M,20101010,29,104918,4,,Andy Murray,R,190,GBR,23.4,105339,,WC,Yan Bai,R,185,CHN,21.3,6-2 6-2,3,R32,81,3,4,49,33,28,6,8,3,4,1,2,72,40,19,15,8,8,13,4,5125,465,74
 2010-5014,Shanghai Masters,Hard,56,M,20101010,30,104871,,Q,Jeremy Chardy,R,188,FRA,23.6,105238,,,Alexandr Dolgopolov,R,180,UKR,21.9,6-1 5-7 6-2,3,R32,97,10,3,73,43,35,18,14,0,1,10,7,87,44,32,18,13,7,11,59,820,55,897
 2010-5014,Shanghai Masters,Hard,56,M,20101010,31,104542,12,,Jo-Wilfried Tsonga,R,188,FRA,25.4,105023,,,Sam Querrey,R,198,USA,23.0,7-6(7) 6-1,3,R32,80,10,2,70,45,36,10,10,3,4,5,3,57,36,24,10,9,2,5,13,2390,24,1545
 2010-5014,Shanghai Masters,Hard,56,M,20101010,32,104252,,,Florian Mayer,R,190,GER,27.0,104022,8,,Mikhail Youzhny,R,183,RUS,28.2,6-4 6-7(5) 6-1,3,R32,134,10,1,99,62,49,18,15,4,5,9,3,96,58,42,20,14,4,8,48,966,8,3345

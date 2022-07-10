@@ -528,7 +528,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-206,Cairo CH,Clay,32,C,20021014,31,102999,6,,Stefano Galvani,R,178,ITA,25.3,102287,2,,Albert Portas,R,188,ESP,28.9,2-6 7-6(4) 6-1,3,F,,,,,,,,,,,,,,,,,,,,147,264,92,439
 2002-213,San Luis Potosi CH,Clay,32,C,20020325,1,103581,1,,Flavio Saretta,R,183,BRA,21.7,102997,,,Hermes Gamonal,R,180,CHI,24.7,6-1 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,99,402,240,148
 2002-213,San Luis Potosi CH,Clay,32,C,20020325,2,103052,,Q,Mariano Delfino,R,183,ARG,24.4,102565,,,Alexander Waske,R,188,GER,26.9,5-7 6-4 7-6(9),3,R32,,,,,,,,,,,,,,,,,,,,340,91,201,176
-2002-213,San Luis Potosi CH,Clay,32,C,20020325,3,103373,,,Sergio Roitman,R,185,ARG,22.8,102985,,Q,Gustavo Marcaccio,R,,ARG,24.8,6-7(3) 6-3 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,226,156,578,31
+2002-213,San Luis Potosi CH,Clay,32,C,20020325,3,103373,,,Sergio Roitman,R,185,ARG,22.8,102985,,Q,Gustavo Marcaccio,R,170,ARG,24.8,6-7(3) 6-3 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,226,156,578,31
 2002-213,San Luis Potosi CH,Clay,32,C,20020325,4,103737,7,,Edgardo Massa,R,180,ARG,20.9,101086,,,Ronald Agenor,R,180,USA,37.3,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,137,299,234,150
 2002-213,San Luis Potosi CH,Clay,32,C,20020325,5,103204,4,,Hugo Armando,R,183,USA,23.8,102269,,,Jeff Salzenstein,L,185,USA,28.4,6-7(3) 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,121,331,183,204
 2002-213,San Luis Potosi CH,Clay,32,C,20020325,6,103525,,Q,Ivan Miranda,R,175,PER,22.0,103060,,WC,Alejandro Hernandez,R,180,MEX,24.4,6-4 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,229,153,277,119
@@ -755,7 +755,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-305,Helsinki CH,Hard,32,C,20021111,10,102567,,,George Bastl,R,183,SUI,27.6,104225,,,Jan Hajek,R,180,CZE,19.2,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,156,240,218,146
 2002-305,Helsinki CH,Hard,32,C,20021111,11,103333,,,Ivo Karlovic,R,208,CRO,23.7,103401,,,Jan Hernych,R,190,CZE,23.3,6-3 6-7(6) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,180,203,219,145
 2002-305,Helsinki CH,Hard,32,C,20021111,12,101820,3,,Marc Rosset,R,201,SUI,32.0,103595,,Q,Martin Rammal,R,,FIN,22.3,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,96,409,1345,1
-2002-305,Helsinki CH,Hard,32,C,20021111,13,103646,,LL,Lars Uebel,R,,GER,22.0,109645,,WC,Vladimir Melnikov,U,,RUS,18.6,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,554,32,,
+2002-305,Helsinki CH,Hard,32,C,20021111,13,103646,,LL,Lars Uebel,R,180,GER,22.0,109645,,WC,Vladimir Melnikov,U,,RUS,18.6,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,554,32,,
 2002-305,Helsinki CH,Hard,32,C,20021111,14,103451,,,Bjorn Phau,R,175,GER,23.1,101750,,,Cristiano Caratti,R,178,ITA,32.4,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,153,243,177,204
 2002-305,Helsinki CH,Hard,32,C,20021111,15,103735,,,Lovro Zovko,R,190,CRO,21.6,103181,,,Jiri Vanek,R,185,CZE,24.5,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,179,203,202,165
 2002-305,Helsinki CH,Hard,32,C,20021111,16,101868,2,,Dick Norman,L,203,BEL,31.6,103986,,,Radoslav Lukaev,R,,BUL,20.5,6-4 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,95,411,244,122
@@ -765,7 +765,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-305,Helsinki CH,Hard,32,C,20021111,20,102720,,,Tomas Zib,R,178,CZE,26.7,103503,,Q,Robin Vik,R,183,CZE,22.7,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,155,243,400,61
 2002-305,Helsinki CH,Hard,32,C,20021111,21,103420,,,Michal Tabara,R,175,CZE,23.2,102567,,,George Bastl,R,183,SUI,27.6,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,224,137,156,240
 2002-305,Helsinki CH,Hard,32,C,20021111,22,101820,3,,Marc Rosset,R,201,SUI,32.0,103333,,,Ivo Karlovic,R,208,CRO,23.7,6-4 6-7(6) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,96,409,180,203
-2002-305,Helsinki CH,Hard,32,C,20021111,23,103451,,,Bjorn Phau,R,175,GER,23.1,103646,,LL,Lars Uebel,R,,GER,22.0,6-4 6-7(10) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,153,243,554,32
+2002-305,Helsinki CH,Hard,32,C,20021111,23,103451,,,Bjorn Phau,R,175,GER,23.1,103646,,LL,Lars Uebel,R,180,GER,22.0,6-4 6-7(10) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,153,243,554,32
 2002-305,Helsinki CH,Hard,32,C,20021111,24,103735,,,Lovro Zovko,R,190,CRO,21.6,101868,2,,Dick Norman,L,203,BEL,31.6,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,179,203,95,411
 2002-305,Helsinki CH,Hard,32,C,20021111,25,103813,1,,Jarkko Nieminen,L,185,FIN,21.3,101924,,Q,Stefano Pescosolido,R,185,ITA,31.4,6-3 7-6(1),3,QF,,,,,,,,,,,,,,,,,,,,41,837,284,101
 2002-305,Helsinki CH,Hard,32,C,20021111,26,103714,,,Andreas Vinciguerra,L,180,SWE,21.7,102720,,,Tomas Zib,R,178,CZE,26.7,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,188,182,155,243
@@ -1065,7 +1065,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-426,Sao Paulo3 CH,Clay,32,C,20021028,10,102251,,Q,Mariano Hood,L,178,ARG,29.2,104392,,WC,Franco Ferreiro,R,188,BRA,18.3,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,585,28,1229,2
 2002-426,Sao Paulo3 CH,Clay,32,C,20021028,11,103228,,,Marcos Daniel,R,180,BRA,24.3,102693,,,Leonardo Olguin,R,,ARG,26.9,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,235,132,223,143
 2002-426,Sao Paulo3 CH,Clay,32,C,20021028,12,103632,3,,Luis Horna,R,180,PER,22.1,103204,,,Hugo Armando,R,183,USA,24.4,7-6(4) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,85,479,356,73
-2002-426,Sao Paulo3 CH,Clay,32,C,20021028,13,103525,8,,Ivan Miranda,R,175,PER,22.6,102985,,Q,Gustavo Marcaccio,R,,ARG,25.4,6-4 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,165,225,499,40
+2002-426,Sao Paulo3 CH,Clay,32,C,20021028,13,103525,8,,Ivan Miranda,R,175,PER,22.6,102985,,Q,Gustavo Marcaccio,R,170,ARG,25.4,6-4 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,165,225,499,40
 2002-426,Sao Paulo3 CH,Clay,32,C,20021028,14,103395,,,Julio Silva,R,173,BRA,23.3,109027,,WC,Jonathan Sucupira,U,,BRA,18.8,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,241,128,,
 2002-426,Sao Paulo3 CH,Clay,32,C,20021028,15,103700,,,Juan Pablo Guzman,L,178,ARG,21.7,102554,,,Diego Moyano,R,175,ARG,27.6,6-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,218,150,201,174
 2002-426,Sao Paulo3 CH,Clay,32,C,20021028,16,102239,,,Francisco Costa,R,180,BRA,29.3,103581,2,,Flavio Saretta,R,183,BRA,22.3,1-6 6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,273,105,84,481
@@ -1966,7 +1966,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-58,Magdeburg CH,Carpet,32,C,20020304,12,102382,3,,Julian Knowle,L,188,AUT,27.8,102669,,,Noam Behr,L,188,ISR,26.3,3-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,106,379,170,220
 2002-58,Magdeburg CH,Carpet,32,C,20020304,13,102087,7,,Oleg Ogorodov,R,193,UZB,29.6,104465,,WC,Martin Emmrich,L,183,GER,17.2,2-6 6-4 4-3 RET,3,R32,,,,,,,,,,,,,,,,,,,,146,269,1376,1
 2002-58,Magdeburg CH,Carpet,32,C,20020304,14,102851,,,Giorgio Galimberti,R,180,ITA,25.4,104321,,WC,Branislav Repa,U,,SVK,17.9,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,169,222,,
-2002-58,Magdeburg CH,Carpet,32,C,20020304,15,103646,,Q,Lars Uebel,R,,GER,21.3,108675,,WC,Iphton Louis,U,,HAI,26.8,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,481,47,,
+2002-58,Magdeburg CH,Carpet,32,C,20020304,15,103646,,Q,Lars Uebel,R,180,GER,21.3,108675,,WC,Iphton Louis,U,,HAI,26.8,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,481,47,,
 2002-58,Magdeburg CH,Carpet,32,C,20020304,16,103420,2,,Michal Tabara,R,175,CZE,22.5,103843,,Q,Marco Chiudinelli,R,185,SUI,20.4,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,109,361,306,102
 2002-58,Magdeburg CH,Carpet,32,C,20020304,17,103350,,,Denis Golovanov,L,188,RUS,22.9,102730,1,,Ivo Heuberger,R,188,SUI,26.0,6-3 1-6 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,165,230,117,345
 2002-58,Magdeburg CH,Carpet,32,C,20020304,18,102809,6,,Axel Pretzsch,R,185,GER,25.7,103047,,,Julien Varlet,R,180,FRA,24.4,6-7(3) 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,121,325,243,142
@@ -1975,7 +1975,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-58,Magdeburg CH,Carpet,32,C,20020304,21,101868,,,Dick Norman,L,203,BEL,31.0,102880,5,,Alexander Popp,R,201,GER,25.3,6-3 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,142,280,131,309
 2002-58,Magdeburg CH,Carpet,32,C,20020304,22,102382,3,,Julian Knowle,L,188,AUT,27.8,102617,,Q,Kim Tiilikainen,R,180,FIN,26.6,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,106,379,280,114
 2002-58,Magdeburg CH,Carpet,32,C,20020304,23,102851,,,Giorgio Galimberti,R,180,ITA,25.4,102087,7,,Oleg Ogorodov,R,193,UZB,29.6,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,169,222,146,269
-2002-58,Magdeburg CH,Carpet,32,C,20020304,24,103420,2,,Michal Tabara,R,175,CZE,22.5,103646,,Q,Lars Uebel,R,,GER,21.3,2-6 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,109,361,481,47
+2002-58,Magdeburg CH,Carpet,32,C,20020304,24,103420,2,,Michal Tabara,R,175,CZE,22.5,103646,,Q,Lars Uebel,R,180,GER,21.3,2-6 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,109,361,481,47
 2002-58,Magdeburg CH,Carpet,32,C,20020304,25,102809,6,,Axel Pretzsch,R,185,GER,25.7,103350,,,Denis Golovanov,L,188,RUS,22.9,7-6(2) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,121,325,165,230
 2002-58,Magdeburg CH,Carpet,32,C,20020304,26,102202,8,,Kenneth Carlsen,L,190,DEN,28.8,103781,,,Jurgen Melzer,L,183,AUT,20.7,6-4 7-6(6),3,QF,,,,,,,,,,,,,,,,,,,,135,299,150,262
 2002-58,Magdeburg CH,Carpet,32,C,20020304,27,101868,,,Dick Norman,L,203,BEL,31.0,102382,3,,Julian Knowle,L,188,AUT,27.8,7-6(5) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,142,280,106,379
@@ -2522,7 +2522,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-663,Osaka CH,Hard,32,C,20020311,10,103735,,,Lovro Zovko,R,190,CRO,20.9,104333,,WC,Atsuo Ogawa,R,,JPN,17.9,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,247,140,1378,1
 2002-663,Osaka CH,Hard,32,C,20020311,11,103145,,,Amir Hadad,R,183,ISR,24.0,102538,,,Tuomas Ketola,R,185,FIN,27.0,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,231,152,250,138
 2002-663,Osaka CH,Hard,32,C,20020311,12,102863,3,,Takao Suzuki,R,175,JPN,25.4,103971,,,Karol Beck,R,180,SVK,19.9,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,149,259,261,128
-2002-663,Osaka CH,Hard,32,C,20020311,13,104339,6,,Mario Ancic,R,196,CRO,17.9,104082,,WC,Hiroki Kondo,R,,JPN,19.3,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,165,232,527,38
+2002-663,Osaka CH,Hard,32,C,20020311,13,104339,6,,Mario Ancic,R,196,CRO,17.9,104082,,WC,Hiroki Kondo,R,178,JPN,19.3,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,165,232,527,38
 2002-663,Osaka CH,Hard,32,C,20020311,14,104499,,Q,Jimmy Wang,R,178,TPE,17.0,102735,,,Cedric Kauffmann,R,,FRA,26.0,5-7 6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,363,80,243,141
 2002-663,Osaka CH,Hard,32,C,20020311,15,102300,,,Gouichi Motomura,R,173,JPN,28.2,102667,,WC,Satoshi Iwabuchi,L,175,JPN,26.4,3-6 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,239,146,468,50
 2002-663,Osaka CH,Hard,32,C,20020311,16,103157,2,,Arvind Parmar,R,193,GBR,23.9,103131,,Q,Michihisa Onoda,R,,JPN,24.1,7-5 5-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,171,223,393,71
@@ -3693,7 +3693,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-91,Kyoto CH,Carpet,32,C,20020304,3,103145,,,Amir Hadad,R,183,ISR,24.0,109126,,WC,Yusuke Egawa,U,,JPN,20.0,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,234,148,1376,1
 2002-91,Kyoto CH,Carpet,32,C,20020304,4,104339,7,,Mario Ancic,R,196,CRO,17.9,103131,,Q,Michihisa Onoda,R,,JPN,24.0,6-1 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,186,203,400,68
 2002-91,Kyoto CH,Carpet,32,C,20020304,5,103451,3,,Bjorn Phau,R,175,GER,22.4,103792,,WC,Joji Miyao,U,,JPN,20.7,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,181,211,1216,3
-2002-91,Kyoto CH,Carpet,32,C,20020304,6,102300,,,Gouichi Motomura,R,173,JPN,28.1,104082,,WC,Hiroki Kondo,R,,JPN,19.3,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,238,146,529,38
+2002-91,Kyoto CH,Carpet,32,C,20020304,6,102300,,,Gouichi Motomura,R,173,JPN,28.1,104082,,WC,Hiroki Kondo,R,178,JPN,19.3,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,238,146,529,38
 2002-91,Kyoto CH,Carpet,32,C,20020304,7,102558,,,Eric Taino,L,175,PHI,26.9,102735,,,Cedric Kauffmann,R,,FRA,26.0,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,261,128,244,141
 2002-91,Kyoto CH,Carpet,32,C,20020304,8,103529,,,Aisam Ul Haq Qureshi,R,183,PAK,21.9,103470,6,,Robert Kendrick,R,190,USA,22.2,7-6(2) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,231,151,214,168
 2002-91,Kyoto CH,Carpet,32,C,20020304,9,103104,5,,Bjorn Rehnquist,R,175,SWE,24.1,103735,,,Lovro Zovko,R,190,CRO,20.9,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,206,177,248,140
