@@ -14,7 +14,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1973-2011,Tehran,Clay,64,A,19731028,13,100186,,,Jeff Borowiak,R,193,USA,24.0,100156,,,Jasjit Singh,R,,IND,25.7,UNK,3,R64,,,,,,,,,,,,,,,,,,,,90,0,174,0
 1973-2011,Tehran,Clay,64,A,19731028,14,100223,,,Jeff Simpson,R,,NZL,22.9,109842,,,Bill Bartlett,R,,USA,15.6,6-3 6-1,3,R64,,,,,,,,,,,,,,,,,,,,83,0,,
 1973-2011,Tehran,Clay,64,A,19731028,15,100169,,,Ian Fletcher,R,,AUS,24.9,100182,,,Mike Estep,R,173,USA,24.2,6-2 7-5,3,R64,,,,,,,,,,,,,,,,,,,,84,0,68,0
-1973-2011,Tehran,Clay,64,A,19731028,16,109845,,,C Munoz,R,,CRC,,100049,,,Jim Mcmanus,L,175,USA,33.1,UNK,3,R64,,,,,,,,,,,,,,,,,,,,,,90,0
+1973-2011,Tehran,Clay,64,A,19731028,16,100235,,,Antonio Munoz,R,,ESP,22.6,100049,,,Jim Mcmanus,L,175,USA,33.1,UNK,3,R64,,,,,,,,,,,,,,,,,,,,74,0,90,0
 1973-2011,Tehran,Clay,64,A,19731028,17,100119,,,Ilie Nastase,R,183,ROU,27.2,100270,,,Anand Amritraj,R,185,IND,21.6,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1,0,179,0
 1973-2011,Tehran,Clay,64,A,19731028,18,100257,,,Ross Case,R,,AUS,21.9,100064,,,Juan Gisbert,R,,ESP,31.5,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,49,0,63,0
 1973-2011,Tehran,Clay,64,A,19731028,19,100309,,,Raul Ramirez,R,183,MEX,20.3,100038,,,Jaime Pinto Bravo,R,178,CHI,34.0,6-1 7-6,3,R32,,,,,,,,,,,,,,,,,,,,32,0,139,0
@@ -30,7 +30,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1973-2011,Tehran,Clay,64,A,19731028,29,100178,,,Bob Giltinan,R,,AUS,24.5,100186,,,Jeff Borowiak,R,193,USA,24.0,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,123,0,90,0
 1973-2011,Tehran,Clay,64,A,19731028,30,100223,,,Jeff Simpson,R,,NZL,22.9,100321,,,Vijay Amritraj,R,193,IND,19.8,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,83,0,22,0
 1973-2011,Tehran,Clay,64,A,19731028,31,100121,,,Raymond Moore,R,183,RSA,27.1,100169,,,Ian Fletcher,R,,AUS,24.9,2-6 6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,39,0,84,0
-1973-2011,Tehran,Clay,64,A,19731028,32,100087,,,John Newcombe,R,183,AUS,29.4,109845,,,C Munoz,R,,CRC,,6-1 7-6,3,R32,,,,,,,,,,,,,,,,,,,,2,0,,
+1973-2011,Tehran,Clay,64,A,19731028,32,100087,,,John Newcombe,R,183,AUS,29.4,100235,,,Antonio Munoz,R,,ESP,22.6,6-1 7-6,3,R32,,,,,,,,,,,,,,,,,,,,2,0,74,0
 1973-2011,Tehran,Clay,64,A,19731028,33,100119,,,Ilie Nastase,R,183,ROU,27.2,100257,,,Ross Case,R,,AUS,21.9,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1,0,49,0
 1973-2011,Tehran,Clay,64,A,19731028,34,100309,,,Raul Ramirez,R,183,MEX,20.3,100030,,,Fred Stolle,R,190,AUS,35.0,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,32,0,40,0
 1973-2011,Tehran,Clay,64,A,19731028,35,100141,,,Zeljko Franulovic,R,,CRO,26.3,100105,,,Allan Stone,R,,AUS,28.0,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,77,0,55,0
@@ -815,7 +815,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1973-301,Auckland,Grass,32,A,19730108,279,100278,,,Frank Gebert,R,,GER,20.5,199999,,,U Unknown,U,,UNK,,W/O,5,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-301,Auckland,Grass,32,A,19730108,280,100162,,,Brian Fairlie,R,173,NZL,24.5,108374,,,Thierry Bernasconi,R,,FRA,,6-2 6-4 6-1,5,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-301,Auckland,Grass,32,A,19730108,281,100199,,,Patrice Dominguez,L,173,FRA,22.9,209804,,,Chris Greendale,U,,,,6-1 7-6 3-6 4-6 6-3,5,R32,,,,,,,,,,,,,,,,,,,,,,,
-1973-301,Auckland,Grass,32,A,19730108,282,100090,,,Dick Crealy,R,191,AUS,28.3,209783,,,Don Turner,U,,NZL,,6-3 6-4 6-7 6-1,5,R32,,,,,,,,,,,,,,,,,,,,,,,
+1973-301,Auckland,Grass,32,A,19730108,282,100090,,,Dick Crealy,R,191,AUS,28.3,209783,,,Don Turner,U,,NZL,23.7,6-3 6-4 6-7 6-1,5,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-301,Auckland,Grass,32,A,19730108,283,100257,,,Ross Case,R,,AUS,21.1,202561,,,Steve Stefanki,U,,USA,22.2,6-0 6-2 6-0,5,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-301,Auckland,Grass,32,A,19730108,284,100047,,,Bob Carmichael,R,183,AUS,32.5,100176,,,Hans Kary,L,172,AUT,23.8,6-0 6-0 6-2,5,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-301,Auckland,Grass,32,A,19730108,285,100080,,,Szabolcz Baranyi,R,,HUN,28.9,100271,,,Jean Francois Caujolle,L,,FRA,20.7,6-1 6-4 6-4,5,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -972,7 +972,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1973-309,Madrid,Clay,64,A,19731021,16,100179,,,Karl Meiler,R,178,GER,24.4,100067,,,Frew Mcmillan,R,183,RSA,31.4,7-6 6-4,3,R64,,,,,,,,,,,,,,,,,,,,30,0,65,0
 1973-309,Madrid,Clay,64,A,19731021,17,100300,,,Jose Higueras,R,178,ESP,20.6,110139,,,Anthony Ryan,R,,AUS,,7-6 4-6 6-4,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-309,Madrid,Clay,64,A,19731021,18,100437,,,Bjorn Borg,R,180,SWE,17.3,107457,,,Juan Ignacio Muntanola,R,,ESP,,7-5 6-2,3,R64,,,,,,,,,,,,,,,,,,,,28,0,,
-1973-309,Madrid,Clay,64,A,19731021,19,100176,,,Hans Kary,L,172,AUT,24.6,109845,,,C Munoz,R,,CRC,,2-6 6-1 7-5,3,R64,,,,,,,,,,,,,,,,,,,,94,0,,
+1973-309,Madrid,Clay,64,A,19731021,19,100176,,,Hans Kary,L,172,AUT,24.6,100235,,,Antonio Munoz,R,,ESP,22.6,2-6 6-1 7-5,3,R64,,,,,,,,,,,,,,,,,,,,94,0,74,0
 1973-309,Madrid,Clay,64,A,19731021,20,106923,,,Eduardo Mandarino,R,,ESP,,100074,,,Arthur Ashe,R,185,USA,30.2,6-3 6-3,3,R64,,,,,,,,,,,,,,,,,,,,,,9,0
 1973-309,Madrid,Clay,64,A,19731021,21,100220,,,Jiri Hrebec,R,,CZE,23.0,100193,,,Wanaro N'Godrella,R,,FRA,24.0,6-0 6-1,3,R64,,,,,,,,,,,,,,,,,,,,43,0,71,0
 1973-309,Madrid,Clay,64,A,19731021,22,100282,,,Guillermo Vilas,L,180,ARG,21.1,100219,,,Geoff Masters,R,,AUS,23.0,6-3 6-3,3,R64,,,,,,,,,,,,,,,,,,,,31,0,56,0
@@ -3451,7 +3451,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1973-663,Louisville,Clay,64,A,19730805,26,100244,,,John Alexander,R,190,AUS,22.0,106996,,,Felix Ponte,R,,PER,,6-1 6-2,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-663,Louisville,Clay,64,A,19730805,27,100282,,,Guillermo Vilas,L,180,ARG,20.9,100011,,,Torben Ulrich,L,180,DEN,40.8,6-4 7-5,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-663,Louisville,Clay,64,A,19730805,28,100078,8,,Clark Graebner,R,188,USA,29.7,100250,,,Woody Blocher,R,173,USA,21.9,6-1 6-1,3,R64,,,,,,,,,,,,,,,,,,,,,,,
-1973-663,Louisville,Clay,64,A,19730805,29,109845,,,C Munoz,R,,CRC,,100079,,,Bill Bowrey,R,,AUS,29.6,7-6 6-4,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1973-663,Louisville,Clay,64,A,19730805,29,100235,,,Antonio Munoz,R,,ESP,22.4,100079,,,Bill Bowrey,R,,AUS,29.6,7-6 6-4,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-663,Louisville,Clay,64,A,19730805,30,100203,,,Phil Dent,R,183,AUS,23.4,100304,,,Robert Kreiss,R,,USA,20.2,3-6 6-4 6-2,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-663,Louisville,Clay,64,A,19730805,31,109833,,,Richard Russell,U,,JAM,27.9,109846,,,Audley Bell,U,,JAM,,6-7 6-0 6-2,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1973-663,Louisville,Clay,64,A,19730805,32,100084,2,,Tom Okker,R,178,NED,29.4,100150,,,Lito Alvarez,R,,ARG,25.6,6-1 6-2,3,R64,,,,,,,,,,,,,,,,,,,,,,,
@@ -3469,7 +3469,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1973-663,Louisville,Clay,64,A,19730805,44,100037,3,,Nikola Pilic,L,191,CRO,33.9,100035,,,Ion Tiriac,R,185,ROU,34.2,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-663,Louisville,Clay,64,A,19730805,45,100244,,,John Alexander,R,190,AUS,22.0,100219,,,Geoff Masters,R,,AUS,22.8,2-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-663,Louisville,Clay,64,A,19730805,46,100282,,,Guillermo Vilas,L,180,ARG,20.9,100078,8,,Clark Graebner,R,188,USA,29.7,7-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-1973-663,Louisville,Clay,64,A,19730805,47,109845,,,C Munoz,R,,CRC,,100203,,,Phil Dent,R,183,AUS,23.4,6-7 6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1973-663,Louisville,Clay,64,A,19730805,47,100235,,,Antonio Munoz,R,,ESP,22.4,100203,,,Phil Dent,R,183,AUS,23.4,6-7 6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-663,Louisville,Clay,64,A,19730805,48,100084,2,,Tom Okker,R,178,NED,29.4,109833,,,Richard Russell,U,,JAM,27.9,DEF,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1973-663,Louisville,Clay,64,A,19730805,49,100342,,,Vitas Gerulaitis,R,183,USA,19.0,100145,,,Dick Dell,R,,USA,25.8,2-6 7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 1973-663,Louisville,Clay,64,A,19730805,50,100090,,,Dick Crealy,R,191,AUS,28.8,100162,,,Brian Fairlie,R,173,NZL,25.1,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,,
@@ -3478,11 +3478,11 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1973-663,Louisville,Clay,64,A,19730805,53,100087,6,,John Newcombe,R,183,AUS,29.2,100232,,,Eddie Dibbs,R,170,USA,22.4,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 1973-663,Louisville,Clay,64,A,19730805,54,100037,3,,Nikola Pilic,L,191,CRO,33.9,100047,,,Bob Carmichael,R,183,AUS,33.0,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 1973-663,Louisville,Clay,64,A,19730805,55,100282,,,Guillermo Vilas,L,180,ARG,20.9,100244,,,John Alexander,R,190,AUS,22.0,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,,
-1973-663,Louisville,Clay,64,A,19730805,56,109845,,,C Munoz,R,,CRC,,100084,2,,Tom Okker,R,178,NED,29.4,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1973-663,Louisville,Clay,64,A,19730805,56,100235,,,Antonio Munoz,R,,ESP,22.4,100084,2,,Tom Okker,R,178,NED,29.4,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 1973-663,Louisville,Clay,64,A,19730805,57,100342,,,Vitas Gerulaitis,R,183,USA,19.0,100090,,,Dick Crealy,R,191,AUS,28.8,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,,,,
 1973-663,Louisville,Clay,64,A,19730805,58,100174,4,,Manuel Orantes,L,178,ESP,24.4,100060,5,,Marty Riessen,R,185,USA,31.6,6-1 3-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,,
 1973-663,Louisville,Clay,64,A,19730805,59,100087,6,,John Newcombe,R,183,AUS,29.2,100037,3,,Nikola Pilic,L,191,CRO,33.9,6-4 4-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,,,,
-1973-663,Louisville,Clay,64,A,19730805,60,100282,,,Guillermo Vilas,L,180,ARG,20.9,109845,,,C Munoz,R,,CRC,,7-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,,,,
+1973-663,Louisville,Clay,64,A,19730805,60,100282,,,Guillermo Vilas,L,180,ARG,20.9,100235,,,Antonio Munoz,R,,ESP,22.4,7-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,,,,
 1973-663,Louisville,Clay,64,A,19730805,61,100174,4,,Manuel Orantes,L,178,ESP,24.4,100342,,,Vitas Gerulaitis,R,183,USA,19.0,6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,,,,
 1973-663,Louisville,Clay,64,A,19730805,62,100087,6,,John Newcombe,R,183,AUS,29.2,100282,,,Guillermo Vilas,L,180,ARG,20.9,6-3 7-6,3,SF,,,,,,,,,,,,,,,,,,,,,,,
 1973-663,Louisville,Clay,64,A,19730805,63,100174,4,,Manuel Orantes,L,178,ESP,24.4,100087,6,,John Newcombe,R,183,AUS,29.2,3-6 6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,,,,
