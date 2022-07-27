@@ -2445,10 +2445,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1974-427,Sydney Indoor,Hard,32,A,19741020,5,100105,,,Allan Stone,R,,AUS,29.0,100229,4,,Dick Stockton,R,188,USA,23.6,7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,63,,19,
 1974-427,Sydney Indoor,Hard,32,A,19741020,6,100030,,,Fred Stolle,R,190,AUS,36.0,100137,,,Hans Jurgen Pohmann,R,178,GER,27.4,7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,119,,41,
 1974-427,Sydney Indoor,Hard,32,A,19741020,7,100100,5,,Tony Roche,L,178,AUS,29.4,100201,,,Syd Ball,R,188,AUS,24.7,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,25,,82,
-1974-427,Sydney Indoor,Hard,32,A,19741020,8,100215,,,Fred Mcnair,R,183,USA,24.2,100219,,,Geoff Masters,R,,AUS,24.0,6-4 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,110,,48,
+1974-427,Sydney Indoor,Hard,32,A,19741020,8,100215,,Q,Fred Mcnair,R,183,USA,24.2,100219,,,Geoff Masters,R,,AUS,24.0,6-4 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,110,,48,
 1974-427,Sydney Indoor,Hard,32,A,19741020,9,100016,2,,Ken Rosewall,R,175,AUS,39.9,100162,,,Brian Fairlie,R,173,NZL,26.3,7-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,7,,56,
 1974-427,Sydney Indoor,Hard,32,A,19741020,10,100047,,,Bob Carmichael,R,183,AUS,34.2,100017,,,Mal Anderson,R,,AUS,39.6,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,142,,132,
-1974-427,Sydney Indoor,Hard,32,A,19741020,11,100203,7,,Phil Dent,R,183,AUS,24.6,100382,,,Chris Kachel,R,,AUS,19.3,7-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,31,,,
+1974-427,Sydney Indoor,Hard,32,A,19741020,11,100203,7,,Phil Dent,R,183,AUS,24.6,100382,,LL,Chris Kachel,R,,AUS,19.3,7-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,31,,,
 1974-427,Sydney Indoor,Hard,32,A,19741020,12,100079,,,Bill Bowrey,R,,AUS,30.8,100178,,,Bob Giltinan,R,,AUS,25.5,6-2 7-6,3,R32,,,,,,,,,,,,,,,,,,,,,,95,
 1974-427,Sydney Indoor,Hard,32,A,19741020,13,100255,3,,Roscoe Tanner,L,183,USA,23.0,100090,,,Dick Crealy,R,191,AUS,30.0,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,15,,80,
 1974-427,Sydney Indoor,Hard,32,A,19741020,14,100148,,,Ismail El Shafei,R,,EGY,26.9,100273,,,Kim Warwick,R,183,AUS,22.5,7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,39,,69,
@@ -2457,7 +2457,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1974-427,Sydney Indoor,Hard,32,A,19741020,17,100087,1,,John Newcombe,R,183,AUS,30.4,100182,,,Mike Estep,R,173,USA,25.2,6-1 7-6,3,R16,,,,,,,,,,,,,,,,,,,,2,,98,
 1974-427,Sydney Indoor,Hard,32,A,19741020,18,100135,8,,Onny Parun,R,188,NZL,27.5,100257,,,Ross Case,R,,AUS,22.9,6-2 7-6,3,R16,,,,,,,,,,,,,,,,,,,,34,,36,
 1974-427,Sydney Indoor,Hard,32,A,19741020,19,100105,,,Allan Stone,R,,AUS,29.0,100030,,,Fred Stolle,R,190,AUS,36.0,3-1 DEF,3,R16,,,,,,,,,,,,,,,,,,,,63,,119,
-1974-427,Sydney Indoor,Hard,32,A,19741020,20,100100,5,,Tony Roche,L,178,AUS,29.4,100215,,,Fred Mcnair,R,183,USA,24.2,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,25,,110,
+1974-427,Sydney Indoor,Hard,32,A,19741020,20,100100,5,,Tony Roche,L,178,AUS,29.4,100215,,Q,Fred Mcnair,R,183,USA,24.2,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,25,,110,
 1974-427,Sydney Indoor,Hard,32,A,19741020,21,100016,2,,Ken Rosewall,R,175,AUS,39.9,100047,,,Bob Carmichael,R,183,AUS,34.2,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,7,,142,
 1974-427,Sydney Indoor,Hard,32,A,19741020,22,100203,7,,Phil Dent,R,183,AUS,24.6,100079,,,Bill Bowrey,R,,AUS,30.8,3-6 7-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,31,,,
 1974-427,Sydney Indoor,Hard,32,A,19741020,23,100255,3,,Roscoe Tanner,L,183,USA,23.0,100148,,,Ismail El Shafei,R,,EGY,26.9,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,15,,39,
@@ -3089,10 +3089,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1974-583,Manchester,Grass,16,A,19740603,2,100267,,,Rayno Seegers,R,,RSA,22.2,100112,,,John Clifton,R,,GBR,28.2,6-2 5-7 6-1,3,R16,,,,,,,,,,,,,,,,,,,,285,0,243,0
 1974-583,Manchester,Grass,16,A,19740603,3,100201,,,Syd Ball,R,188,AUS,24.3,110164,,,Max Franklin,U,,GBR,,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,63,0,,
 1974-583,Manchester,Grass,16,A,19740603,4,100305,,,Mark Farrell,R,,GBR,21.0,110165,,,Ruben Porges,U,,UNK,19.7,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,283,0,,
-1974-583,Manchester,Grass,16,A,19740603,5,100359,,,Richard Lewis,L,,GBR,19.4,199999,,,U Unknown,U,,UNK,,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,193,0,,
+1974-583,Manchester,Grass,16,A,19740603,5,100359,,,Richard Lewis,L,,GBR,19.4,100390,,,Trevor Allan,L,178,AUS,18.7,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,193,0,233,0
 1974-583,Manchester,Grass,16,A,19740603,6,100242,,,Mike Collins,R,,GBR,23.0,100111,,,Ray Keldie,R,,AUS,28.3,6-3 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,192,0
 1974-583,Manchester,Grass,16,A,19740603,7,109775,,,Robert Wilson,R,,GBR,38.5,100204,,,Pancho Walthall,R,,USA,24.2,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,,
-1974-583,Manchester,Grass,16,A,19740603,8,100178,,,Bob Giltinan,R,,AUS,25.1,110166,,,Chiradip Mukerjea,U,,IND,20.8,3-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,124,0,,
+1974-583,Manchester,Grass,16,A,19740603,8,100178,,,Bob Giltinan,R,,AUS,25.1,110991,,,Jaidip Mukerjea,U,,IND,32.1,3-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,124,0,,
 1974-583,Manchester,Grass,16,A,19740603,9,100284,,,Jimmy Connors,L,178,USA,21.7,100267,,,Rayno Seegers,R,,RSA,22.2,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,2,0,285,0
 1974-583,Manchester,Grass,16,A,19740603,10,100201,,,Syd Ball,R,188,AUS,24.3,100305,,,Mark Farrell,R,,GBR,21.0,2-6 6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,63,0,283,0
 1974-583,Manchester,Grass,16,A,19740603,11,100242,,,Mike Collins,R,,GBR,23.0,100359,,,Richard Lewis,L,,GBR,19.4,6-4 2-1 RET,3,QF,,,,,,,,,,,,,,,,,,,,,,193,0
@@ -3136,7 +3136,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1974-583,Manchester,Grass,16,A,19740603,282,100112,,,John Clifton,R,,GBR,28.2,209825,,,D Beasant,U,,,,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,243,0,,
 1974-583,Manchester,Grass,16,A,19740603,283,110163,,,Reginald Bennett,U,,GBR,36.7,129924,,,Robert Lee,U,,GBR,,6-0 8-6,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1974-583,Manchester,Grass,16,A,19740603,284,100201,,,Syd Ball,R,188,AUS,24.3,209824,,,E Topham,U,,,,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,63,0,,
-1974-583,Manchester,Grass,16,A,19740603,285,209822,,,T Allen,U,,GBR,,209823,,,J Logan,U,,USA,,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1974-583,Manchester,Grass,16,A,19740603,285,100390,,,Trevor Allan,L,178,AUS,18.7,209823,,,J Logan,U,,USA,,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,233,0,,
 1974-605,Masters,Grass,8,M,19741210,1,100282,,,Guillermo Vilas,L,180,ARG,22.3,100437,,,Bjorn Borg,R,180,SWE,18.5,7-5 6-1,3,RR,,,,,,,,,,,,,,,,,,,,9,,4,
 1974-605,Masters,Grass,8,M,19741210,2,100282,,,Guillermo Vilas,L,180,ARG,22.3,100087,,,John Newcombe,R,183,AUS,30.5,6-4 7-6,3,RR,,,,,,,,,,,,,,,,,,,,9,,2,
 1974-605,Masters,Grass,8,M,19741210,3,100282,,,Guillermo Vilas,L,180,ARG,22.3,100135,,,Onny Parun,R,188,NZL,27.6,7-5 3-6 11-9,3,RR,,,,,,,,,,,,,,,,,,,,9,,29,
