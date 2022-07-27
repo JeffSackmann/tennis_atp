@@ -581,7 +581,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-M-SA-ESP-02A-1991d,Spain 2 Masters 4,Clay,24,S,19910201,23,102001,,,German Lopez,R,193,ESP,19.0,101581,,,Jose Luis Aparisi,R,178,ESP,21.8,6-2 6-1,3,F,,,,,,,,,,,,,,,,,,,,168,186,251,92
 1991-M-SA-GER-01A-1991a,Germany 1 Masters 1,Carpet,32,S,19910203,1,101493,1,,Christian Weis,R,180,GER,22.6,101217,,,Andreas Lesch,L,196,GER,25.0,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,202,,384,
 1991-M-SA-GER-01A-1991a,Germany 1 Masters 1,Carpet,32,S,19910203,2,101926,,Q,Andrei Merinov,L,183,RUS,19.6,101672,,LL,Michael Geserer,R,190,GER,21.1,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,717,,489,
-1991-M-SA-GER-01A-1991a,Germany 1 Masters 1,Carpet,32,S,19910203,3,210013,,,Martin Damm Sr,R,188,CZE,18.5,101599,,Q,Thierry Grin,R,,SUI,21.7,7-6 6-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,321,,441,
+1991-M-SA-GER-01A-1991a,Germany 1 Masters 1,Carpet,32,S,19910203,3,210013,,,Martin Damm Sr,R,188,CZE,18.5,101599,,Q,Thierry Grin,R,,SUI,21.7,7-6 6-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,441,
 1991-M-SA-GER-01A-1991a,Germany 1 Masters 1,Carpet,32,S,19910203,4,100770,,Q,Peter Moraing,R,193,GER,29.3,101492,8,,Sander Groen,L,190,NED,22.6,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,740,,291,
 1991-M-SA-GER-01A-1991a,Germany 1 Masters 1,Carpet,32,S,19910203,5,101674,,WC,Rudiger Haas,R,193,GER,21.1,101749,3,,Boris Laustroer,R,175,GER,20.7,7-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,494,,216,
 1991-M-SA-GER-01A-1991a,Germany 1 Masters 1,Carpet,32,S,19910203,6,100899,,,Jorgen Windahl,R,183,SWE,27.9,101981,,WC,Sascha Bandermann,L,180,GER,19.2,3-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,379,,690,
@@ -596,20 +596,20 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-M-SA-GER-01A-1991a,Germany 1 Masters 1,Carpet,32,S,19910203,15,101283,,WC,Dirk Leppen,R,180,GER,24.4,102184,,,David Prinosil,R,185,GER,17.9,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,400,,389,
 1991-M-SA-GER-01A-1991a,Germany 1 Masters 1,Carpet,32,S,19910203,16,101373,2,,Karsten Braasch,L,180,GER,23.5,108383,,Q,Thomas Breuninger,R,,GER,20.7,7-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,207,,800,
 1991-M-SA-GER-01A-1991a,Germany 1 Masters 1,Carpet,32,S,19910203,17,101926,,Q,Andrei Merinov,L,183,RUS,19.6,101493,1,,Christian Weis,R,180,GER,22.6,7-5 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,717,,202,
-1991-M-SA-GER-01A-1991a,Germany 1 Masters 1,Carpet,32,S,19910203,18,210013,,,Martin Damm Sr,R,188,CZE,18.5,100770,,Q,Peter Moraing,R,193,GER,29.3,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,321,,740,
+1991-M-SA-GER-01A-1991a,Germany 1 Masters 1,Carpet,32,S,19910203,18,210013,,,Martin Damm Sr,R,188,CZE,18.5,100770,,Q,Peter Moraing,R,193,GER,29.3,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,740,
 1991-M-SA-GER-01A-1991a,Germany 1 Masters 1,Carpet,32,S,19910203,19,101674,,WC,Rudiger Haas,R,193,GER,21.1,100899,,,Jorgen Windahl,R,183,SWE,27.9,6-7 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,494,,379,
 1991-M-SA-GER-01A-1991a,Germany 1 Masters 1,Carpet,32,S,19910203,20,101914,,,Lars Koslowski,R,188,GER,19.7,101059,6,,Richard Vogel,R,193,CZE,26.4,7-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,317,,286,
 1991-M-SA-GER-01A-1991a,Germany 1 Masters 1,Carpet,32,S,19910203,21,101835,,Q,Arne Thoms,R,188,GER,20.0,101406,5,,Wojtek Kowalski,R,183,POL,23.3,5-7 7-5 3-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,407,,282,
 1991-M-SA-GER-01A-1991a,Germany 1 Masters 1,Carpet,32,S,19910203,22,101778,,Q,Michael Schmidtmann,R,,GER,20.5,101866,4,,David Rikl,L,178,CZE,19.9,7-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1008,1,267,
 1991-M-SA-GER-01A-1991a,Germany 1 Masters 1,Carpet,32,S,19910203,23,101685,7,,Markus Naewie,R,190,GER,21.0,101578,,,Markus Rackl,L,180,GER,21.9,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,290,,350,
 1991-M-SA-GER-01A-1991a,Germany 1 Masters 1,Carpet,32,S,19910203,24,101373,2,,Karsten Braasch,L,180,GER,23.5,101283,,WC,Dirk Leppen,R,180,GER,24.4,W/O,3,R16,,,,,,,,,,,,,,,,,,,,207,,400,
-1991-M-SA-GER-01A-1991a,Germany 1 Masters 1,Carpet,32,S,19910203,25,210013,,,Martin Damm Sr,R,188,CZE,18.5,101926,,Q,Andrei Merinov,L,183,RUS,19.6,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,321,,717,
+1991-M-SA-GER-01A-1991a,Germany 1 Masters 1,Carpet,32,S,19910203,25,210013,,,Martin Damm Sr,R,188,CZE,18.5,101926,,Q,Andrei Merinov,L,183,RUS,19.6,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,717,
 1991-M-SA-GER-01A-1991a,Germany 1 Masters 1,Carpet,32,S,19910203,26,101914,,,Lars Koslowski,R,188,GER,19.7,101674,,WC,Rudiger Haas,R,193,GER,21.1,6-1 4-6 7-5,3,QF,,,,,,,,,,,,,,,,,,,,317,,494,
 1991-M-SA-GER-01A-1991a,Germany 1 Masters 1,Carpet,32,S,19910203,27,101835,,Q,Arne Thoms,R,188,GER,20.0,101778,,Q,Michael Schmidtmann,R,,GER,20.5,6-1 3-0 RET,3,QF,,,,,,,,,,,,,,,,,,,,407,,1008,1
 1991-M-SA-GER-01A-1991a,Germany 1 Masters 1,Carpet,32,S,19910203,28,101373,2,,Karsten Braasch,L,180,GER,23.5,101685,7,,Markus Naewie,R,190,GER,21.0,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,207,,290,
-1991-M-SA-GER-01A-1991a,Germany 1 Masters 1,Carpet,32,S,19910203,29,210013,,,Martin Damm Sr,R,188,CZE,18.5,101914,,,Lars Koslowski,R,188,GER,19.7,1-6 7-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,321,,317,
+1991-M-SA-GER-01A-1991a,Germany 1 Masters 1,Carpet,32,S,19910203,29,210013,,,Martin Damm Sr,R,188,CZE,18.5,101914,,,Lars Koslowski,R,188,GER,19.7,1-6 7-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,,,317,
 1991-M-SA-GER-01A-1991a,Germany 1 Masters 1,Carpet,32,S,19910203,30,101835,,Q,Arne Thoms,R,188,GER,20.0,101373,2,,Karsten Braasch,L,180,GER,23.5,6-3 2-6 6-1,3,SF,,,,,,,,,,,,,,,,,,,,407,,207,
-1991-M-SA-GER-01A-1991a,Germany 1 Masters 1,Carpet,32,S,19910203,31,210013,,,Martin Damm Sr,R,188,CZE,18.5,101835,,Q,Arne Thoms,R,188,GER,20.0,6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,321,,407,
+1991-M-SA-GER-01A-1991a,Germany 1 Masters 1,Carpet,32,S,19910203,31,210013,,,Martin Damm Sr,R,188,CZE,18.5,101835,,Q,Arne Thoms,R,188,GER,20.0,6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,,,407,
 1991-M-SA-GER-01A-1991b,Germany 1 Masters 2,Carpet,32,S,19910203,1,102161,,WC,Robert Kroll,R,,GER,18.0,101493,1,,Christian Weis,R,180,GER,22.6,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,202,
 1991-M-SA-GER-01A-1991b,Germany 1 Masters 2,Carpet,32,S,19910203,2,108160,,Q,Roland Leissler,R,,GER,18.4,106529,,Q,Andreas Kriebel,R,,GER,,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1991-M-SA-GER-01A-1991b,Germany 1 Masters 2,Carpet,32,S,19910203,3,100899,,,Jorgen Windahl,R,183,SWE,27.9,101740,,Q,Sascha Nensel,R,180,GER,20.7,4-6 7-6 4-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,379,,438,
@@ -620,7 +620,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-M-SA-GER-01A-1991b,Germany 1 Masters 2,Carpet,32,S,19910203,8,101866,5,,David Rikl,L,178,CZE,19.9,101283,,,Dirk Leppen,R,180,GER,24.4,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,267,,400,
 1991-M-SA-GER-01A-1991b,Germany 1 Masters 2,Carpet,32,S,19910203,9,101914,,,Lars Koslowski,R,188,GER,19.7,101406,6,,Wojtek Kowalski,R,183,POL,23.3,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,317,,282,
 1991-M-SA-GER-01A-1991b,Germany 1 Masters 2,Carpet,32,S,19910203,10,101835,,,Arne Thoms,R,188,GER,20.0,101674,,WC,Rudiger Haas,R,193,GER,21.1,6-2 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,407,,494,
-1991-M-SA-GER-01A-1991b,Germany 1 Masters 2,Carpet,32,S,19910203,11,210013,,,Martin Damm Sr,R,188,CZE,18.5,102118,,Q,Radomir Vasek,R,188,CZE,18.3,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,321,,480,
+1991-M-SA-GER-01A-1991b,Germany 1 Masters 2,Carpet,32,S,19910203,11,210013,,,Martin Damm Sr,R,188,CZE,18.5,102118,,Q,Radomir Vasek,R,188,CZE,18.3,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,480,
 1991-M-SA-GER-01A-1991b,Germany 1 Masters 2,Carpet,32,S,19910203,12,101492,,,Sander Groen,L,190,NED,22.6,101029,4,,Ricki Osterthun,R,185,GER,26.7,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,291,,238,
 1991-M-SA-GER-01A-1991b,Germany 1 Masters 2,Carpet,32,S,19910203,13,101059,7,,Richard Vogel,R,193,CZE,26.4,102184,,,David Prinosil,R,185,GER,17.9,7-6 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,286,,389,
 1991-M-SA-GER-01A-1991b,Germany 1 Masters 2,Carpet,32,S,19910203,14,101104,,Q,Stefan Fueg,R,,GER,26.0,101217,,,Andreas Lesch,L,196,GER,25.0,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,717,,384,
@@ -631,15 +631,15 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-M-SA-GER-01A-1991b,Germany 1 Masters 2,Carpet,32,S,19910203,19,101749,3,,Boris Laustroer,R,175,GER,20.7,101599,,Q,Thierry Grin,R,,SUI,21.7,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,216,,441,
 1991-M-SA-GER-01A-1991b,Germany 1 Masters 2,Carpet,32,S,19910203,20,101866,5,,David Rikl,L,178,CZE,19.9,101578,,,Markus Rackl,L,180,GER,21.9,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,267,,350,
 1991-M-SA-GER-01A-1991b,Germany 1 Masters 2,Carpet,32,S,19910203,21,101835,,,Arne Thoms,R,188,GER,20.0,101914,,,Lars Koslowski,R,188,GER,19.7,2-6 6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,407,,317,
-1991-M-SA-GER-01A-1991b,Germany 1 Masters 2,Carpet,32,S,19910203,22,210013,,,Martin Damm Sr,R,188,CZE,18.5,101492,,,Sander Groen,L,190,NED,22.6,3-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,321,,291,
+1991-M-SA-GER-01A-1991b,Germany 1 Masters 2,Carpet,32,S,19910203,22,210013,,,Martin Damm Sr,R,188,CZE,18.5,101492,,,Sander Groen,L,190,NED,22.6,3-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,291,
 1991-M-SA-GER-01A-1991b,Germany 1 Masters 2,Carpet,32,S,19910203,23,101059,7,,Richard Vogel,R,193,CZE,26.4,101104,,Q,Stefan Fueg,R,,GER,26.0,6-4 7-6,3,R16,,,,,,,,,,,,,,,,,,,,286,,717,
 1991-M-SA-GER-01A-1991b,Germany 1 Masters 2,Carpet,32,S,19910203,24,101373,2,,Karsten Braasch,L,180,GER,23.5,101981,,WC,Sascha Bandermann,L,180,GER,19.2,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,207,,690,
 1991-M-SA-GER-01A-1991b,Germany 1 Masters 2,Carpet,32,S,19910203,25,101685,8,,Markus Naewie,R,190,GER,21.0,102161,,WC,Robert Kroll,R,,GER,18.0,7-6 7-5,3,QF,,,,,,,,,,,,,,,,,,,,290,,,
 1991-M-SA-GER-01A-1991b,Germany 1 Masters 2,Carpet,32,S,19910203,26,101866,5,,David Rikl,L,178,CZE,19.9,101749,3,,Boris Laustroer,R,175,GER,20.7,7-6 7-6,3,QF,,,,,,,,,,,,,,,,,,,,267,,216,
-1991-M-SA-GER-01A-1991b,Germany 1 Masters 2,Carpet,32,S,19910203,27,210013,,,Martin Damm Sr,R,188,CZE,18.5,101835,,,Arne Thoms,R,188,GER,20.0,6-7 6-1 7-6,3,QF,,,,,,,,,,,,,,,,,,,,321,,407,
+1991-M-SA-GER-01A-1991b,Germany 1 Masters 2,Carpet,32,S,19910203,27,210013,,,Martin Damm Sr,R,188,CZE,18.5,101835,,,Arne Thoms,R,188,GER,20.0,6-7 6-1 7-6,3,QF,,,,,,,,,,,,,,,,,,,,,,407,
 1991-M-SA-GER-01A-1991b,Germany 1 Masters 2,Carpet,32,S,19910203,28,101373,2,,Karsten Braasch,L,180,GER,23.5,101059,7,,Richard Vogel,R,193,CZE,26.4,6-4 7-6,3,QF,,,,,,,,,,,,,,,,,,,,207,,286,
 1991-M-SA-GER-01A-1991b,Germany 1 Masters 2,Carpet,32,S,19910203,29,101866,5,,David Rikl,L,178,CZE,19.9,101685,8,,Markus Naewie,R,190,GER,21.0,6-3 7-5,3,SF,,,,,,,,,,,,,,,,,,,,267,,290,
-1991-M-SA-GER-01A-1991b,Germany 1 Masters 2,Carpet,32,S,19910203,30,101373,2,,Karsten Braasch,L,180,GER,23.5,210013,,,Martin Damm Sr,R,188,CZE,18.5,6-4 7-6,3,SF,,,,,,,,,,,,,,,,,,,,207,,321,
+1991-M-SA-GER-01A-1991b,Germany 1 Masters 2,Carpet,32,S,19910203,30,101373,2,,Karsten Braasch,L,180,GER,23.5,210013,,,Martin Damm Sr,R,188,CZE,18.5,6-4 7-6,3,SF,,,,,,,,,,,,,,,,,,,,207,,,
 1991-M-SA-GER-01A-1991b,Germany 1 Masters 2,Carpet,32,S,19910203,31,101373,2,,Karsten Braasch,L,180,GER,23.5,101866,5,,David Rikl,L,178,CZE,19.9,7-6 6-3,3,F,,,,,,,,,,,,,,,,,,,,207,,267,
 1991-M-SA-GER-01A-1991c,Germany 1 Masters 3,Carpet,32,S,19910203,1,101373,1,,Karsten Braasch,L,180,GER,23.5,106529,,WC,Andreas Kriebel,R,,GER,,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,207,,,
 1991-M-SA-GER-01A-1991c,Germany 1 Masters 3,Carpet,32,S,19910203,2,108383,,WC,Thomas Breuninger,R,,GER,20.7,101926,,,Andrei Merinov,L,183,RUS,19.6,7-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,800,,717,
@@ -656,7 +656,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-M-SA-GER-01A-1991c,Germany 1 Masters 3,Carpet,32,S,19910203,13,101059,7,,Richard Vogel,R,193,CZE,26.4,101578,,,Markus Rackl,L,180,GER,21.9,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,286,,350,
 1991-M-SA-GER-01A-1991c,Germany 1 Masters 3,Carpet,32,S,19910203,14,101981,,WC,Sascha Bandermann,L,180,GER,19.2,101406,,,Wojtek Kowalski,R,183,POL,23.3,2-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,690,,282,
 1991-M-SA-GER-01A-1991c,Germany 1 Masters 3,Carpet,32,S,19910203,15,101492,,,Sander Groen,L,190,NED,22.6,101957,,,Milen Velev,R,,BUL,19.4,6-0 6-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,291,,477,
-1991-M-SA-GER-01A-1991c,Germany 1 Masters 3,Carpet,32,S,19910203,16,210013,2,,Martin Damm Sr,R,188,CZE,18.5,102118,,Q,Radomir Vasek,R,188,CZE,18.3,6-1 7-6,3,R32,,,,,,,,,,,,,,,,,,,,321,,480,
+1991-M-SA-GER-01A-1991c,Germany 1 Masters 3,Carpet,32,S,19910203,16,210013,2,,Martin Damm Sr,R,188,CZE,18.5,102118,,Q,Radomir Vasek,R,188,CZE,18.3,6-1 7-6,3,R32,,,,,,,,,,,,,,,,,,,,,,480,
 1991-M-SA-GER-01A-1991c,Germany 1 Masters 3,Carpet,32,S,19910203,17,101373,1,,Karsten Braasch,L,180,GER,23.5,108383,,WC,Thomas Breuninger,R,,GER,20.7,7-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,207,,800,
 1991-M-SA-GER-01A-1991c,Germany 1 Masters 3,Carpet,32,S,19910203,18,101493,,,Christian Weis,R,180,GER,22.6,101283,,,Dirk Leppen,R,180,GER,24.4,7-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,202,,400,
 1991-M-SA-GER-01A-1991c,Germany 1 Masters 3,Carpet,32,S,19910203,19,101866,4,,David Rikl,L,178,CZE,19.9,101055,,Q,Heiner Moraing,R,190,GER,26.5,7-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,,267,,469,
@@ -664,14 +664,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-M-SA-GER-01A-1991c,Germany 1 Masters 3,Carpet,32,S,19910203,21,101685,5,,Markus Naewie,R,190,GER,21.0,102184,,Q,David Prinosil,R,185,GER,17.9,6-3 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,290,,389,
 1991-M-SA-GER-01A-1991c,Germany 1 Masters 3,Carpet,32,S,19910203,22,101835,3,,Arne Thoms,R,188,GER,20.0,100938,,Q,Jaromir Becka,R,175,GER,27.5,W/O,3,R16,,,,,,,,,,,,,,,,,,,,407,,1008,1
 1991-M-SA-GER-01A-1991c,Germany 1 Masters 3,Carpet,32,S,19910203,23,101059,7,,Richard Vogel,R,193,CZE,26.4,101981,,WC,Sascha Bandermann,L,180,GER,19.2,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,286,,690,
-1991-M-SA-GER-01A-1991c,Germany 1 Masters 3,Carpet,32,S,19910203,24,210013,2,,Martin Damm Sr,R,188,CZE,18.5,101492,,,Sander Groen,L,190,NED,22.6,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,321,,291,
+1991-M-SA-GER-01A-1991c,Germany 1 Masters 3,Carpet,32,S,19910203,24,210013,2,,Martin Damm Sr,R,188,CZE,18.5,101492,,,Sander Groen,L,190,NED,22.6,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,291,
 1991-M-SA-GER-01A-1991c,Germany 1 Masters 3,Carpet,32,S,19910203,25,101373,1,,Karsten Braasch,L,180,GER,23.5,101493,,,Christian Weis,R,180,GER,22.6,6-1 7-5,3,QF,,,,,,,,,,,,,,,,,,,,207,,202,
 1991-M-SA-GER-01A-1991c,Germany 1 Masters 3,Carpet,32,S,19910203,26,101866,4,,David Rikl,L,178,CZE,19.9,101674,,,Rudiger Haas,R,193,GER,21.1,7-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,267,,494,
 1991-M-SA-GER-01A-1991c,Germany 1 Masters 3,Carpet,32,S,19910203,27,101685,5,,Markus Naewie,R,190,GER,21.0,101835,3,,Arne Thoms,R,188,GER,20.0,4-6 6-4 7-6,3,QF,,,,,,,,,,,,,,,,,,,,290,,407,
-1991-M-SA-GER-01A-1991c,Germany 1 Masters 3,Carpet,32,S,19910203,28,210013,2,,Martin Damm Sr,R,188,CZE,18.5,101059,7,,Richard Vogel,R,193,CZE,26.4,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,321,,286,
+1991-M-SA-GER-01A-1991c,Germany 1 Masters 3,Carpet,32,S,19910203,28,210013,2,,Martin Damm Sr,R,188,CZE,18.5,101059,7,,Richard Vogel,R,193,CZE,26.4,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,286,
 1991-M-SA-GER-01A-1991c,Germany 1 Masters 3,Carpet,32,S,19910203,29,101373,1,,Karsten Braasch,L,180,GER,23.5,101866,4,,David Rikl,L,178,CZE,19.9,6-2 3-6 6-4,3,SF,,,,,,,,,,,,,,,,,,,,207,,267,
-1991-M-SA-GER-01A-1991c,Germany 1 Masters 3,Carpet,32,S,19910203,30,210013,2,,Martin Damm Sr,R,188,CZE,18.5,101685,5,,Markus Naewie,R,190,GER,21.0,6-1 6-4,3,SF,,,,,,,,,,,,,,,,,,,,321,,290,
-1991-M-SA-GER-01A-1991c,Germany 1 Masters 3,Carpet,32,S,19910203,31,101373,1,,Karsten Braasch,L,180,GER,23.5,210013,2,,Martin Damm Sr,R,188,CZE,18.5,1-6 6-3 6-3,3,F,,,,,,,,,,,,,,,,,,,,207,,321,
+1991-M-SA-GER-01A-1991c,Germany 1 Masters 3,Carpet,32,S,19910203,30,210013,2,,Martin Damm Sr,R,188,CZE,18.5,101685,5,,Markus Naewie,R,190,GER,21.0,6-1 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,290,
+1991-M-SA-GER-01A-1991c,Germany 1 Masters 3,Carpet,32,S,19910203,31,101373,1,,Karsten Braasch,L,180,GER,23.5,210013,2,,Martin Damm Sr,R,188,CZE,18.5,1-6 6-3 6-3,3,F,,,,,,,,,,,,,,,,,,,,207,,,
 1991-M-SA-GER-01A-1991d,Germany 1 Masters 4,Carpet,24,S,19910203,1,101749,,,Boris Laustroer,R,175,GER,20.7,100938,,,Jaromir Becka,R,175,GER,27.5,6-3 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,216,,1008,1
 1991-M-SA-GER-01A-1991d,Germany 1 Masters 4,Carpet,24,S,19910203,2,102161,,,Robert Kroll,R,,GER,18.0,101981,,,Sascha Bandermann,L,180,GER,19.2,6-2 6-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,690,
 1991-M-SA-GER-01A-1991d,Germany 1 Masters 4,Carpet,24,S,19910203,3,101283,,,Dirk Leppen,R,180,GER,24.4,101493,,,Christian Weis,R,180,GER,22.6,6-3 7-6,3,R32,,,,,,,,,,,,,,,,,,,,400,,202,
@@ -687,7 +687,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-M-SA-GER-01A-1991d,Germany 1 Masters 4,Carpet,24,S,19910203,13,101778,,,Michael Schmidtmann,R,,GER,20.5,101685,5,,Markus Naewie,R,190,GER,21.0,6-4 7-6,3,R16,,,,,,,,,,,,,,,,,,,,1008,1,290,
 1991-M-SA-GER-01A-1991d,Germany 1 Masters 4,Carpet,24,S,19910203,14,101835,4,,Arne Thoms,R,188,GER,20.0,101492,,,Sander Groen,L,190,NED,22.6,6-4 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,407,,291,
 1991-M-SA-GER-01A-1991d,Germany 1 Masters 4,Carpet,24,S,19910203,15,108383,,,Thomas Breuninger,R,,GER,20.7,101914,7,,Lars Koslowski,R,188,GER,19.7,6-2 6-7 6-1,3,R16,,,,,,,,,,,,,,,,,,,,800,,317,
-1991-M-SA-GER-01A-1991d,Germany 1 Masters 4,Carpet,24,S,19910203,16,101926,,,Andrei Merinov,L,183,RUS,19.6,210013,2,,Martin Damm Sr,R,188,CZE,18.5,7-6 6-7 7-6,3,R16,,,,,,,,,,,,,,,,,,,,717,,321,
+1991-M-SA-GER-01A-1991d,Germany 1 Masters 4,Carpet,24,S,19910203,16,101926,,,Andrei Merinov,L,183,RUS,19.6,210013,2,,Martin Damm Sr,R,188,CZE,18.5,7-6 6-7 7-6,3,R16,,,,,,,,,,,,,,,,,,,,717,,,
 1991-M-SA-GER-01A-1991d,Germany 1 Masters 4,Carpet,24,S,19910203,17,101373,1,,Karsten Braasch,L,180,GER,23.5,101674,8,,Rudiger Haas,R,193,GER,21.1,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,207,,494,
 1991-M-SA-GER-01A-1991d,Germany 1 Masters 4,Carpet,24,S,19910203,18,101866,3,,David Rikl,L,178,CZE,19.9,101578,,,Markus Rackl,L,180,GER,21.9,6-0 2-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,267,,350,
 1991-M-SA-GER-01A-1991d,Germany 1 Masters 4,Carpet,24,S,19910203,19,101778,,,Michael Schmidtmann,R,,GER,20.5,101835,4,,Arne Thoms,R,188,GER,20.0,7-5 2-0 RET,3,QF,,,,,,,,,,,,,,,,,,,,1008,1,407,
@@ -1288,7 +1288,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-M-SA-FRA-01A-1991a,France 1 Masters 1,Carpet,32,S,19910302,11,101363,,Q,Vojtech Flegl,R,180,CZE,23.6,107022,,,Francesco Michelotti,R,,ITA,21.3,6-1 6-7 7-6,3,R32,,,,,,,,,,,,,,,,,,,,492,22,308,62
 1991-M-SA-FRA-01A-1991a,France 1 Masters 1,Carpet,32,S,19910302,12,101244,,Q,Johan Donar,R,180,SWE,24.9,101429,3,,Stephane Grenier,R,190,FRA,23.1,7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,710,8,197,130
 1991-M-SA-FRA-01A-1991a,France 1 Masters 1,Carpet,32,S,19910302,13,101383,,,Stephane Sansoni,R,180,FRA,23.5,101329,7,,Christer Allgardh,R,190,SWE,24.0,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,312,60,229,104
-1991-M-SA-FRA-01A-1991a,France 1 Masters 1,Carpet,32,S,19910302,14,210013,,,Martin Damm Sr,R,188,CZE,18.5,106874,,Q,Dick Bosse,R,,RSA,23.5,6-7 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,325,55,508,22
+1991-M-SA-FRA-01A-1991a,France 1 Masters 1,Carpet,32,S,19910302,14,210013,,,Martin Damm Sr,R,188,CZE,18.5,106874,,Q,Dick Bosse,R,,RSA,23.5,6-7 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,508,22
 1991-M-SA-FRA-01A-1991a,France 1 Masters 1,Carpet,32,S,19910302,15,101599,,Q,Thierry Grin,R,,SUI,21.8,106884,,Q,Dirk Hortian,R,,GER,,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,448,30,880,3
 1991-M-SA-FRA-01A-1991a,France 1 Masters 1,Carpet,32,S,19910302,16,101050,2,,Martin Laurendeau,R,190,CAN,26.6,101504,,,Laurent Prades,L,183,FRA,22.6,6-7 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,183,149,411,36
 1991-M-SA-FRA-01A-1991a,France 1 Masters 1,Carpet,32,S,19910302,17,101358,1,,Olivier Delaitre,R,170,FRA,23.7,104097,,,Robert Phillips Pd13,U,,AUS,,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,176,172,,
@@ -1297,12 +1297,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-M-SA-FRA-01A-1991a,France 1 Masters 1,Carpet,32,S,19910302,20,101338,,,Olivier Soules,R,188,FRA,23.9,102031,,,Sandor Noszaly,R,193,HUN,18.9,6-2 7-6,3,R16,,,,,,,,,,,,,,,,,,,,449,30,329,54
 1991-M-SA-FRA-01A-1991a,France 1 Masters 1,Carpet,32,S,19910302,21,102047,,,Pier Gauthier,R,185,FRA,18.8,101362,,,Stephane Simian,L,193,FRA,23.7,6-4 7-6,3,R16,,,,,,,,,,,,,,,,,,,,372,45,409,36
 1991-M-SA-FRA-01A-1991a,France 1 Masters 1,Carpet,32,S,19910302,22,101244,,Q,Johan Donar,R,180,SWE,24.9,101363,,Q,Vojtech Flegl,R,180,CZE,23.6,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,710,8,492,22
-1991-M-SA-FRA-01A-1991a,France 1 Masters 1,Carpet,32,S,19910302,23,210013,,,Martin Damm Sr,R,188,CZE,18.5,101383,,,Stephane Sansoni,R,180,FRA,23.5,W/O,3,R16,,,,,,,,,,,,,,,,,,,,325,55,312,60
+1991-M-SA-FRA-01A-1991a,France 1 Masters 1,Carpet,32,S,19910302,23,210013,,,Martin Damm Sr,R,188,CZE,18.5,101383,,,Stephane Sansoni,R,180,FRA,23.5,W/O,3,R16,,,,,,,,,,,,,,,,,,,,,,312,60
 1991-M-SA-FRA-01A-1991a,France 1 Masters 1,Carpet,32,S,19910302,24,101050,2,,Martin Laurendeau,R,190,CAN,26.6,101599,,Q,Thierry Grin,R,,SUI,21.8,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,183,149,448,30
 1991-M-SA-FRA-01A-1991a,France 1 Masters 1,Carpet,32,S,19910302,25,101358,1,,Olivier Delaitre,R,170,FRA,23.7,101601,8,,Brett Steven,R,185,NZL,21.8,7-6 6-0,3,QF,,,,,,,,,,,,,,,,,,,,176,172,231,103
 1991-M-SA-FRA-01A-1991a,France 1 Masters 1,Carpet,32,S,19910302,26,101338,,,Olivier Soules,R,188,FRA,23.9,101353,,,Lionel Barthez,R,180,FRA,23.7,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,449,30,285,71
 1991-M-SA-FRA-01A-1991a,France 1 Masters 1,Carpet,32,S,19910302,27,102047,,,Pier Gauthier,R,185,FRA,18.8,101244,,Q,Johan Donar,R,180,SWE,24.9,2-6 6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,372,45,710,8
-1991-M-SA-FRA-01A-1991a,France 1 Masters 1,Carpet,32,S,19910302,28,101050,2,,Martin Laurendeau,R,190,CAN,26.6,210013,,,Martin Damm Sr,R,188,CZE,18.5,7-6 6-7 7-5,3,QF,,,,,,,,,,,,,,,,,,,,183,149,325,55
+1991-M-SA-FRA-01A-1991a,France 1 Masters 1,Carpet,32,S,19910302,28,101050,2,,Martin Laurendeau,R,190,CAN,26.6,210013,,,Martin Damm Sr,R,188,CZE,18.5,7-6 6-7 7-5,3,QF,,,,,,,,,,,,,,,,,,,,183,149,,
 1991-M-SA-FRA-01A-1991a,France 1 Masters 1,Carpet,32,S,19910302,29,101338,,,Olivier Soules,R,188,FRA,23.9,101358,1,,Olivier Delaitre,R,170,FRA,23.7,W/O,3,SF,,,,,,,,,,,,,,,,,,,,449,30,176,172
 1991-M-SA-FRA-01A-1991a,France 1 Masters 1,Carpet,32,S,19910302,30,101050,2,,Martin Laurendeau,R,190,CAN,26.6,102047,,,Pier Gauthier,R,185,FRA,18.8,6-7 6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,183,149,372,45
 1991-M-SA-FRA-01A-1991a,France 1 Masters 1,Carpet,32,S,19910302,31,101050,2,,Martin Laurendeau,R,190,CAN,26.6,101338,,,Olivier Soules,R,188,FRA,23.9,6-2 5-7 6-3,3,F,,,,,,,,,,,,,,,,,,,,183,149,449,30
@@ -1315,7 +1315,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-M-SA-FRA-01A-1991b,France 1 Masters 2,Carpet,32,S,19910302,7,101406,,,Wojtek Kowalski,R,183,POL,23.3,101331,,Q,Alex Nizet,R,188,USA,24.0,7-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,282,73,710,8
 1991-M-SA-FRA-01A-1991b,France 1 Masters 2,Carpet,32,S,19910302,8,101504,,WC,Laurent Prades,L,183,FRA,22.6,100844,5,,Jerome Potier,L,180,FRA,28.6,7-5 3-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,411,36,214,115
 1991-M-SA-FRA-01A-1991b,France 1 Masters 2,Carpet,32,S,19910302,9,101699,,Q,Alois Beust,R,,FRA,21.0,101227,6,,Daniel Marco,R,178,ESP,25.0,7-6 3-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,691,9,218,113
-1991-M-SA-FRA-01A-1991b,France 1 Masters 2,Carpet,32,S,19910302,10,210013,,,Martin Damm Sr,R,188,CZE,18.5,101363,,SE,Vojtech Flegl,R,180,CZE,23.6,3-6 6-3 7-6,3,R32,,,,,,,,,,,,,,,,,,,,325,55,492,22
+1991-M-SA-FRA-01A-1991b,France 1 Masters 2,Carpet,32,S,19910302,10,210013,,,Martin Damm Sr,R,188,CZE,18.5,101363,,SE,Vojtech Flegl,R,180,CZE,23.6,3-6 6-3 7-6,3,R32,,,,,,,,,,,,,,,,,,,,,,492,22
 1991-M-SA-FRA-01A-1991b,France 1 Masters 2,Carpet,32,S,19910302,11,101616,,,Serge Soulie,R,,FRA,21.6,101492,,,Sander Groen,L,190,NED,22.6,7-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,263,82,295,67
 1991-M-SA-FRA-01A-1991b,France 1 Masters 2,Carpet,32,S,19910302,12,101719,4,,Frederic Fontang,R,183,FRA,20.9,101868,,Q,Dick Norman,L,203,BEL,19.9,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,212,117,,
 1991-M-SA-FRA-01A-1991b,France 1 Masters 2,Carpet,32,S,19910302,13,101329,7,,Christer Allgardh,R,190,SWE,24.0,102187,,Q,John Laffnie De Jager,R,193,RSA,17.9,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,229,104,869,4
@@ -1326,16 +1326,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-M-SA-FRA-01A-1991b,France 1 Masters 2,Carpet,32,S,19910302,18,101601,8,,Brett Steven,R,185,NZL,21.8,101279,,,Philippe Pech,L,180,FRA,24.5,7-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,,231,103,307,62
 1991-M-SA-FRA-01A-1991b,France 1 Masters 2,Carpet,32,S,19910302,19,102031,,,Sandor Noszaly,R,193,HUN,18.9,101429,3,,Stephane Grenier,R,190,FRA,23.1,6-7 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,329,54,197,130
 1991-M-SA-FRA-01A-1991b,France 1 Masters 2,Carpet,32,S,19910302,20,101406,,,Wojtek Kowalski,R,183,POL,23.3,101504,,WC,Laurent Prades,L,183,FRA,22.6,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,282,73,411,36
-1991-M-SA-FRA-01A-1991b,France 1 Masters 2,Carpet,32,S,19910302,21,210013,,,Martin Damm Sr,R,188,CZE,18.5,101699,,Q,Alois Beust,R,,FRA,21.0,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,325,55,691,9
+1991-M-SA-FRA-01A-1991b,France 1 Masters 2,Carpet,32,S,19910302,21,210013,,,Martin Damm Sr,R,188,CZE,18.5,101699,,Q,Alois Beust,R,,FRA,21.0,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,691,9
 1991-M-SA-FRA-01A-1991b,France 1 Masters 2,Carpet,32,S,19910302,22,101719,4,,Frederic Fontang,R,183,FRA,20.9,101616,,,Serge Soulie,R,,FRA,21.6,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,212,117,263,82
 1991-M-SA-FRA-01A-1991b,France 1 Masters 2,Carpet,32,S,19910302,23,101362,,WC,Stephane Simian,L,193,FRA,23.7,101329,7,,Christer Allgardh,R,190,SWE,24.0,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,409,36,229,104
 1991-M-SA-FRA-01A-1991b,France 1 Masters 2,Carpet,32,S,19910302,24,101050,2,,Martin Laurendeau,R,190,CAN,26.6,101338,,SE,Olivier Soules,R,188,FRA,23.9,5-7 6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,183,149,449,30
 1991-M-SA-FRA-01A-1991b,France 1 Masters 2,Carpet,32,S,19910302,25,101601,8,,Brett Steven,R,185,NZL,21.8,118723,,Q,Ola Jonsson,R,,SWE,,6-7 6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,231,103,,
 1991-M-SA-FRA-01A-1991b,France 1 Masters 2,Carpet,32,S,19910302,26,101406,,,Wojtek Kowalski,R,183,POL,23.3,102031,,,Sandor Noszaly,R,193,HUN,18.9,4-6 7-6 7-5,3,QF,,,,,,,,,,,,,,,,,,,,282,73,329,54
-1991-M-SA-FRA-01A-1991b,France 1 Masters 2,Carpet,32,S,19910302,27,210013,,,Martin Damm Sr,R,188,CZE,18.5,101719,4,,Frederic Fontang,R,183,FRA,20.9,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,325,55,212,117
+1991-M-SA-FRA-01A-1991b,France 1 Masters 2,Carpet,32,S,19910302,27,210013,,,Martin Damm Sr,R,188,CZE,18.5,101719,4,,Frederic Fontang,R,183,FRA,20.9,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,212,117
 1991-M-SA-FRA-01A-1991b,France 1 Masters 2,Carpet,32,S,19910302,28,101362,,WC,Stephane Simian,L,193,FRA,23.7,101050,2,,Martin Laurendeau,R,190,CAN,26.6,1-6 6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,409,36,183,149
 1991-M-SA-FRA-01A-1991b,France 1 Masters 2,Carpet,32,S,19910302,29,101601,8,,Brett Steven,R,185,NZL,21.8,101406,,,Wojtek Kowalski,R,183,POL,23.3,6-1 6-7 7-6,3,SF,,,,,,,,,,,,,,,,,,,,231,103,282,73
-1991-M-SA-FRA-01A-1991b,France 1 Masters 2,Carpet,32,S,19910302,30,101362,,WC,Stephane Simian,L,193,FRA,23.7,210013,,,Martin Damm Sr,R,188,CZE,18.5,7-5 6-4,3,SF,,,,,,,,,,,,,,,,,,,,409,36,325,55
+1991-M-SA-FRA-01A-1991b,France 1 Masters 2,Carpet,32,S,19910302,30,101362,,WC,Stephane Simian,L,193,FRA,23.7,210013,,,Martin Damm Sr,R,188,CZE,18.5,7-5 6-4,3,SF,,,,,,,,,,,,,,,,,,,,409,36,,
 1991-M-SA-FRA-01A-1991b,France 1 Masters 2,Carpet,32,S,19910302,31,101601,8,,Brett Steven,R,185,NZL,21.8,101362,,WC,Stephane Simian,L,193,FRA,23.7,7-6 6-7 7-6,3,F,,,,,,,,,,,,,,,,,,,,231,103,409,36
 1991-M-SA-FRA-01A-1991c,France 1 Masters 3,Carpet,32,S,19910302,1,101050,1,,Martin Laurendeau,R,190,CAN,26.6,101719,,,Frederic Fontang,R,183,FRA,20.9,6-3 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,183,149,212,117
 1991-M-SA-FRA-01A-1991c,France 1 Masters 3,Carpet,32,S,19910302,2,101699,,SE,Alois Beust,R,,FRA,21.0,101383,,,Stephane Sansoni,R,180,FRA,23.5,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,691,9,312,60
@@ -1344,7 +1344,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-M-SA-FRA-01A-1991c,France 1 Masters 3,Carpet,32,S,19910302,5,101362,3,,Stephane Simian,L,193,FRA,23.7,101566,,Q,Fabien Cousin,R,,BEL,22.0,7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,409,36,,
 1991-M-SA-FRA-01A-1991c,France 1 Masters 3,Carpet,32,S,19910302,6,102206,,Q,Stephane Matheu,R,,FRA,17.8,101329,,,Christer Allgardh,R,190,SWE,24.0,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,229,104
 1991-M-SA-FRA-01A-1991c,France 1 Masters 3,Carpet,32,S,19910302,7,101363,,,Vojtech Flegl,R,180,CZE,23.6,101616,,WC,Serge Soulie,R,,FRA,21.6,4-6 6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,492,22,263,82
-1991-M-SA-FRA-01A-1991c,France 1 Masters 3,Carpet,32,S,19910302,8,210013,5,,Martin Damm Sr,R,188,CZE,18.5,108229,,WC,Sebastien Hette,R,,FRA,18.7,6-2 5-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,325,55,954,2
+1991-M-SA-FRA-01A-1991c,France 1 Masters 3,Carpet,32,S,19910302,8,210013,5,,Martin Damm Sr,R,188,CZE,18.5,108229,,WC,Sebastien Hette,R,,FRA,18.7,6-2 5-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,954,2
 1991-M-SA-FRA-01A-1991c,France 1 Masters 3,Carpet,32,S,19910302,9,118723,,,Ola Jonsson,R,,SWE,,101358,6,,Olivier Delaitre,R,170,FRA,23.7,6-2 7-6,3,R32,,,,,,,,,,,,,,,,,,,,,,176,172
 1991-M-SA-FRA-01A-1991c,France 1 Masters 3,Carpet,32,S,19910302,10,101244,,,Johan Donar,R,180,SWE,24.9,101492,,Q,Sander Groen,L,190,NED,22.6,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,710,8,295,67
 1991-M-SA-FRA-01A-1991c,France 1 Masters 3,Carpet,32,S,19910302,11,101599,,,Thierry Grin,R,,SUI,21.8,102356,,Q,Olivier Tauma,R,,FRA,16.9,6-7 7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,448,30,,
@@ -1356,16 +1356,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-M-SA-FRA-01A-1991c,France 1 Masters 3,Carpet,32,S,19910302,17,101050,1,,Martin Laurendeau,R,190,CAN,26.6,101699,,SE,Alois Beust,R,,FRA,21.0,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,183,149,691,9
 1991-M-SA-FRA-01A-1991c,France 1 Masters 3,Carpet,32,S,19910302,18,102031,,,Sandor Noszaly,R,193,HUN,18.9,107992,,Q,Peter Peham,R,,AUT,,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,329,54,1016,1
 1991-M-SA-FRA-01A-1991c,France 1 Masters 3,Carpet,32,S,19910302,19,101362,3,,Stephane Simian,L,193,FRA,23.7,102206,,Q,Stephane Matheu,R,,FRA,17.8,6-4 6-7 6-3,3,R16,,,,,,,,,,,,,,,,,,,,409,36,,
-1991-M-SA-FRA-01A-1991c,France 1 Masters 3,Carpet,32,S,19910302,20,210013,5,,Martin Damm Sr,R,188,CZE,18.5,101363,,,Vojtech Flegl,R,180,CZE,23.6,7-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,325,55,492,22
+1991-M-SA-FRA-01A-1991c,France 1 Masters 3,Carpet,32,S,19910302,20,210013,5,,Martin Damm Sr,R,188,CZE,18.5,101363,,,Vojtech Flegl,R,180,CZE,23.6,7-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,492,22
 1991-M-SA-FRA-01A-1991c,France 1 Masters 3,Carpet,32,S,19910302,21,101244,,,Johan Donar,R,180,SWE,24.9,118723,,,Ola Jonsson,R,,SWE,,6-4 4-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,710,8,,
 1991-M-SA-FRA-01A-1991c,France 1 Masters 3,Carpet,32,S,19910302,22,101338,4,,Olivier Soules,R,188,FRA,23.9,101599,,,Thierry Grin,R,,SUI,21.8,6-7 7-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,449,30,448,30
 1991-M-SA-FRA-01A-1991c,France 1 Masters 3,Carpet,32,S,19910302,23,101937,,Q,Robbie Koenig,R,173,RSA,19.6,102367,,WC,Nicolas Kischkewitz,R,,FRA,16.8,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,763,6,880,3
 1991-M-SA-FRA-01A-1991c,France 1 Masters 3,Carpet,32,S,19910302,24,101601,2,,Brett Steven,R,185,NZL,21.8,101353,,,Lionel Barthez,R,180,FRA,23.7,6-1 7-6,3,R16,,,,,,,,,,,,,,,,,,,,231,103,285,71
 1991-M-SA-FRA-01A-1991c,France 1 Masters 3,Carpet,32,S,19910302,25,101050,1,,Martin Laurendeau,R,190,CAN,26.6,102031,,,Sandor Noszaly,R,193,HUN,18.9,2-6 6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,183,149,329,54
-1991-M-SA-FRA-01A-1991c,France 1 Masters 3,Carpet,32,S,19910302,26,210013,5,,Martin Damm Sr,R,188,CZE,18.5,101362,3,,Stephane Simian,L,193,FRA,23.7,7-5 6-0,3,QF,,,,,,,,,,,,,,,,,,,,325,55,409,36
+1991-M-SA-FRA-01A-1991c,France 1 Masters 3,Carpet,32,S,19910302,26,210013,5,,Martin Damm Sr,R,188,CZE,18.5,101362,3,,Stephane Simian,L,193,FRA,23.7,7-5 6-0,3,QF,,,,,,,,,,,,,,,,,,,,,,409,36
 1991-M-SA-FRA-01A-1991c,France 1 Masters 3,Carpet,32,S,19910302,27,101338,4,,Olivier Soules,R,188,FRA,23.9,101244,,,Johan Donar,R,180,SWE,24.9,6-1 6-0,3,QF,,,,,,,,,,,,,,,,,,,,449,30,710,8
 1991-M-SA-FRA-01A-1991c,France 1 Masters 3,Carpet,32,S,19910302,28,101601,2,,Brett Steven,R,185,NZL,21.8,101937,,Q,Robbie Koenig,R,173,RSA,19.6,6-7 6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,231,103,763,6
-1991-M-SA-FRA-01A-1991c,France 1 Masters 3,Carpet,32,S,19910302,29,101050,1,,Martin Laurendeau,R,190,CAN,26.6,210013,5,,Martin Damm Sr,R,188,CZE,18.5,6-1 7-5,3,SF,,,,,,,,,,,,,,,,,,,,183,149,325,55
+1991-M-SA-FRA-01A-1991c,France 1 Masters 3,Carpet,32,S,19910302,29,101050,1,,Martin Laurendeau,R,190,CAN,26.6,210013,5,,Martin Damm Sr,R,188,CZE,18.5,6-1 7-5,3,SF,,,,,,,,,,,,,,,,,,,,183,149,,
 1991-M-SA-FRA-01A-1991c,France 1 Masters 3,Carpet,32,S,19910302,30,101601,2,,Brett Steven,R,185,NZL,21.8,101338,4,,Olivier Soules,R,188,FRA,23.9,2-6 7-6 7-6,3,SF,,,,,,,,,,,,,,,,,,,,231,103,449,30
 1991-M-SA-FRA-01A-1991c,France 1 Masters 3,Carpet,32,S,19910302,31,101601,2,,Brett Steven,R,185,NZL,21.8,101050,1,,Martin Laurendeau,R,190,CAN,26.6,7-6 6-3,3,F,,,,,,,,,,,,,,,,,,,,231,103,183,149
 1991-M-SA-FRA-01A-1991d,France 1 Masters 4,Carpet,24,S,19910302,1,101406,,,Wojtek Kowalski,R,183,POL,23.3,102206,,,Stephane Matheu,R,,FRA,17.8,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,282,73,,
@@ -1378,17 +1378,17 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-M-SA-FRA-01A-1991d,France 1 Masters 4,Carpet,24,S,19910302,8,102367,,,Nicolas Kischkewitz,R,,FRA,16.8,101383,,,Stephane Sansoni,R,180,FRA,23.5,6-4 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,880,3,312,60
 1991-M-SA-FRA-01A-1991d,France 1 Masters 4,Carpet,24,S,19910302,9,101406,,,Wojtek Kowalski,R,183,POL,23.3,101601,1,,Brett Steven,R,185,NZL,21.8,6-2 3-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,282,73,231,103
 1991-M-SA-FRA-01A-1991d,France 1 Masters 4,Carpet,24,S,19910302,10,101358,8,,Olivier Delaitre,R,170,FRA,23.7,102047,,,Pier Gauthier,R,185,FRA,18.8,1-6 6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,176,172,372,45
-1991-M-SA-FRA-01A-1991d,France 1 Masters 4,Carpet,24,S,19910302,11,210013,4,,Martin Damm Sr,R,188,CZE,18.5,101329,,,Christer Allgardh,R,190,SWE,24.0,1-6 6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,325,55,229,104
+1991-M-SA-FRA-01A-1991d,France 1 Masters 4,Carpet,24,S,19910302,11,210013,4,,Martin Damm Sr,R,188,CZE,18.5,101329,,,Christer Allgardh,R,190,SWE,24.0,1-6 6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,229,104
 1991-M-SA-FRA-01A-1991d,France 1 Masters 4,Carpet,24,S,19910302,12,101362,5,,Stephane Simian,L,193,FRA,23.7,101492,,,Sander Groen,L,190,NED,22.6,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,409,36,295,67
 1991-M-SA-FRA-01A-1991d,France 1 Masters 4,Carpet,24,S,19910302,13,101279,,,Philippe Pech,L,180,FRA,24.5,102031,6,,Sandor Noszaly,R,193,HUN,18.9,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,307,62,329,54
 1991-M-SA-FRA-01A-1991d,France 1 Masters 4,Carpet,24,S,19910302,14,101338,3,,Olivier Soules,R,188,FRA,23.9,101353,,,Lionel Barthez,R,180,FRA,23.7,6-4 6-7 6-4,3,R16,,,,,,,,,,,,,,,,,,,,449,30,285,71
 1991-M-SA-FRA-01A-1991d,France 1 Masters 4,Carpet,24,S,19910302,15,101244,7,,Johan Donar,R,180,SWE,24.9,101937,,,Robbie Koenig,R,173,RSA,19.6,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,710,8,763,6
 1991-M-SA-FRA-01A-1991d,France 1 Masters 4,Carpet,24,S,19910302,16,101050,2,,Martin Laurendeau,R,190,CAN,26.6,102367,,,Nicolas Kischkewitz,R,,FRA,16.8,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,183,149,880,3
 1991-M-SA-FRA-01A-1991d,France 1 Masters 4,Carpet,24,S,19910302,17,101358,8,,Olivier Delaitre,R,170,FRA,23.7,101406,,,Wojtek Kowalski,R,183,POL,23.3,6-3 4-6 7-6,3,QF,,,,,,,,,,,,,,,,,,,,176,172,282,73
-1991-M-SA-FRA-01A-1991d,France 1 Masters 4,Carpet,24,S,19910302,18,210013,4,,Martin Damm Sr,R,188,CZE,18.5,101362,5,,Stephane Simian,L,193,FRA,23.7,6-3 0-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,325,55,409,36
+1991-M-SA-FRA-01A-1991d,France 1 Masters 4,Carpet,24,S,19910302,18,210013,4,,Martin Damm Sr,R,188,CZE,18.5,101362,5,,Stephane Simian,L,193,FRA,23.7,6-3 0-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,409,36
 1991-M-SA-FRA-01A-1991d,France 1 Masters 4,Carpet,24,S,19910302,19,101279,,,Philippe Pech,L,180,FRA,24.5,101338,3,,Olivier Soules,R,188,FRA,23.9,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,307,62,449,30
 1991-M-SA-FRA-01A-1991d,France 1 Masters 4,Carpet,24,S,19910302,20,101050,2,,Martin Laurendeau,R,190,CAN,26.6,101244,7,,Johan Donar,R,180,SWE,24.9,6-4 4-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,183,149,710,8
-1991-M-SA-FRA-01A-1991d,France 1 Masters 4,Carpet,24,S,19910302,21,101358,8,,Olivier Delaitre,R,170,FRA,23.7,210013,4,,Martin Damm Sr,R,188,CZE,18.5,6-3 7-5,3,SF,,,,,,,,,,,,,,,,,,,,176,172,325,55
+1991-M-SA-FRA-01A-1991d,France 1 Masters 4,Carpet,24,S,19910302,21,101358,8,,Olivier Delaitre,R,170,FRA,23.7,210013,4,,Martin Damm Sr,R,188,CZE,18.5,6-3 7-5,3,SF,,,,,,,,,,,,,,,,,,,,176,172,,
 1991-M-SA-FRA-01A-1991d,France 1 Masters 4,Carpet,24,S,19910302,22,101279,,,Philippe Pech,L,180,FRA,24.5,101050,2,,Martin Laurendeau,R,190,CAN,26.6,6-4 1-2 RET,3,SF,,,,,,,,,,,,,,,,,,,,307,62,183,149
 1991-M-SA-FRA-01A-1991d,France 1 Masters 4,Carpet,24,S,19910302,23,101358,8,,Olivier Delaitre,R,170,FRA,23.7,101279,,,Philippe Pech,L,180,FRA,24.5,6-7 6-1 6-4,3,F,,,,,,,,,,,,,,,,,,,,176,172,307,62
 1991-M-SA-ESP-03A-1991a,Spain 3 Masters 1,Clay,32,S,19910304,1,102238,,Q,Alberto Berasategui,R,173,ESP,17.6,102001,1,,German Lopez,R,193,ESP,19.1,6-3 7-6,3,R32,,,,,,,,,,,,,,,,,,,,504,22,166,186
@@ -6055,7 +6055,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-M-SA-TPE-01A-1991a,Hong Kong Ch Taipei Masters 1,Hard,32,S,19910805,10,107282,,,Janne Kiilavirta,R,,FIN,23.1,122889,,LL,Christoph Sieber,U,,SUI,22.7,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,893,5,,
 1991-M-SA-TPE-01A-1991a,Hong Kong Ch Taipei Masters 1,Hard,32,S,19910805,11,101522,,,Chi Wan Kim,R,180,KOR,22.8,106577,,LL,Arata Ito,R,,JPN,18.4,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,756,8,1042,2
 1991-M-SA-TPE-01A-1991a,Hong Kong Ch Taipei Masters 1,Hard,32,S,19910805,12,101764,,WC,Yu Hui Lien,R,,TPE,21.1,101633,4,,Seong Kon Kim,R,,KOR,21.9,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,556,21
-1991-M-SA-TPE-01A-1991a,Hong Kong Ch Taipei Masters 1,Hard,32,S,19910805,13,108831,,WC,Michael Walker,U,,HKG,25.2,101480,8,,Jake Martyn,R,,GBR,23.2,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,737,9
+1991-M-SA-TPE-01A-1991a,Hong Kong Ch Taipei Masters 1,Hard,32,S,19910805,13,108831,,WC,Michael Walker,U,,HKG,25.2,101480,8,,Jake Martyn,R,,GBR,23.2,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1037,3,737,9
 1991-M-SA-TPE-01A-1991a,Hong Kong Ch Taipei Masters 1,Hard,32,S,19910805,14,108369,,,Tetsuya Sato,R,,JPN,22.3,107680,,WC,Mark Bailey,R,,HKG,28.4,6-3 7-6,3,R32,,,,,,,,,,,,,,,,,,,,930,4,1099,1
 1991-M-SA-TPE-01A-1991a,Hong Kong Ch Taipei Masters 1,Hard,32,S,19910805,15,102119,,Q,Chih Jung Chen,R,,TPE,18.8,106782,,WC,Colin Grant,R,,HKG,25.3,7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1991-M-SA-TPE-01A-1991a,Hong Kong Ch Taipei Masters 1,Hard,32,S,19910805,16,101017,2,,Gap Taik Ro,R,173,KOR,27.4,109440,,Q,Jin Yen Chiang,R,,CHN,18.7,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,497,28,,
@@ -6065,14 +6065,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-M-SA-TPE-01A-1991a,Hong Kong Ch Taipei Masters 1,Hard,32,S,19910805,20,108251,,,Shigefusa Kanroji,R,,JPN,24.1,122723,5,,Michael Van Der Berg,U,,NED,23.3,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,748,9,,
 1991-M-SA-TPE-01A-1991a,Hong Kong Ch Taipei Masters 1,Hard,32,S,19910805,21,102104,6,,Christian Ruud,R,188,NOR,18.9,107282,,,Janne Kiilavirta,R,,FIN,23.1,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,572,20,893,5
 1991-M-SA-TPE-01A-1991a,Hong Kong Ch Taipei Masters 1,Hard,32,S,19910805,22,101522,,,Chi Wan Kim,R,180,KOR,22.8,101764,,WC,Yu Hui Lien,R,,TPE,21.1,6-7 6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,756,8,,
-1991-M-SA-TPE-01A-1991a,Hong Kong Ch Taipei Masters 1,Hard,32,S,19910805,23,108831,,WC,Michael Walker,U,,HKG,25.2,108369,,,Tetsuya Sato,R,,JPN,22.3,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,930,4
+1991-M-SA-TPE-01A-1991a,Hong Kong Ch Taipei Masters 1,Hard,32,S,19910805,23,108831,,WC,Michael Walker,U,,HKG,25.2,108369,,,Tetsuya Sato,R,,JPN,22.3,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1037,3,930,4
 1991-M-SA-TPE-01A-1991a,Hong Kong Ch Taipei Masters 1,Hard,32,S,19910805,24,101017,2,,Gap Taik Ro,R,173,KOR,27.4,102119,,Q,Chih Jung Chen,R,,TPE,18.8,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,497,28,,
 1991-M-SA-TPE-01A-1991a,Hong Kong Ch Taipei Masters 1,Hard,32,S,19910805,25,101590,1,,Eui Jong Chang,R,183,KOR,22.3,108443,,Q,Toshitsugu Mori,R,,JPN,21.6,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,269,87,1099,1
 1991-M-SA-TPE-01A-1991a,Hong Kong Ch Taipei Masters 1,Hard,32,S,19910805,26,101437,3,,Seung Ho Ji,R,,KOR,23.5,108251,,,Shigefusa Kanroji,R,,JPN,24.1,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,510,26,748,9
 1991-M-SA-TPE-01A-1991a,Hong Kong Ch Taipei Masters 1,Hard,32,S,19910805,27,102104,6,,Christian Ruud,R,188,NOR,18.9,101522,,,Chi Wan Kim,R,180,KOR,22.8,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,572,20,756,8
-1991-M-SA-TPE-01A-1991a,Hong Kong Ch Taipei Masters 1,Hard,32,S,19910805,28,108831,,WC,Michael Walker,U,,HKG,25.2,101017,2,,Gap Taik Ro,R,173,KOR,27.4,7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,497,28
+1991-M-SA-TPE-01A-1991a,Hong Kong Ch Taipei Masters 1,Hard,32,S,19910805,28,108831,,WC,Michael Walker,U,,HKG,25.2,101017,2,,Gap Taik Ro,R,173,KOR,27.4,7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,1037,3,497,28
 1991-M-SA-TPE-01A-1991a,Hong Kong Ch Taipei Masters 1,Hard,32,S,19910805,29,101590,1,,Eui Jong Chang,R,183,KOR,22.3,101437,3,,Seung Ho Ji,R,,KOR,23.5,3-6 6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,269,87,510,26
-1991-M-SA-TPE-01A-1991a,Hong Kong Ch Taipei Masters 1,Hard,32,S,19910805,30,102104,6,,Christian Ruud,R,188,NOR,18.9,108831,,WC,Michael Walker,U,,HKG,25.2,6-1 6-1,3,SF,,,,,,,,,,,,,,,,,,,,572,20,,
+1991-M-SA-TPE-01A-1991a,Hong Kong Ch Taipei Masters 1,Hard,32,S,19910805,30,102104,6,,Christian Ruud,R,188,NOR,18.9,108831,,WC,Michael Walker,U,,HKG,25.2,6-1 6-1,3,SF,,,,,,,,,,,,,,,,,,,,572,20,1037,3
 1991-M-SA-TPE-01A-1991a,Hong Kong Ch Taipei Masters 1,Hard,32,S,19910805,31,102104,6,,Christian Ruud,R,188,NOR,18.9,101590,1,,Eui Jong Chang,R,183,KOR,22.3,7-5 6-1,3,F,,,,,,,,,,,,,,,,,,,,572,20,269,87
 1991-M-SA-TPE-01A-1991b,Hong Kong Ch Taipei Masters 2,Hard,32,S,19910805,1,101590,1,,Eui Jong Chang,R,183,KOR,22.3,101762,,,Tae Hee Kong,R,,KOR,21.1,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,269,87,958,3
 1991-M-SA-TPE-01A-1991b,Hong Kong Ch Taipei Masters 2,Hard,32,S,19910805,2,102372,,,Sule Ladipo,R,180,NGR,17.3,109440,,WC,Jin Yen Chiang,R,,CHN,18.7,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,930,4,,
@@ -6084,7 +6084,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-M-SA-TPE-01A-1991b,Hong Kong Ch Taipei Masters 2,Hard,32,S,19910805,8,122723,5,,Michael Van Der Berg,U,,NED,23.3,101480,,,Jake Martyn,R,,GBR,23.2,6-4 6-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,737,9
 1991-M-SA-TPE-01A-1991b,Hong Kong Ch Taipei Masters 2,Hard,32,S,19910805,9,102104,6,,Christian Ruud,R,188,NOR,18.9,108556,,Q,Yasushi Morishita,R,,JPN,,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,572,20,1042,2
 1991-M-SA-TPE-01A-1991b,Hong Kong Ch Taipei Masters 2,Hard,32,S,19910805,10,101764,,WC,Yu Hui Lien,R,,TPE,21.1,102102,,Q,Natsuki Harada,R,,JPN,18.9,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-1991-M-SA-TPE-01A-1991b,Hong Kong Ch Taipei Masters 2,Hard,32,S,19910805,11,108831,,,Michael Walker,U,,HKG,25.2,101522,,,Chi Wan Kim,R,180,KOR,22.8,7-6 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,756,8
+1991-M-SA-TPE-01A-1991b,Hong Kong Ch Taipei Masters 2,Hard,32,S,19910805,11,108831,,,Michael Walker,U,,HKG,25.2,101522,,,Chi Wan Kim,R,180,KOR,22.8,7-6 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1037,3,756,8
 1991-M-SA-TPE-01A-1991b,Hong Kong Ch Taipei Masters 2,Hard,32,S,19910805,12,101633,4,,Seong Kon Kim,R,,KOR,21.9,108207,,Q,Sang Soo Lee,R,,KOR,,4-6 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,556,21,1042,2
 1991-M-SA-TPE-01A-1991b,Hong Kong Ch Taipei Masters 2,Hard,32,S,19910805,13,108251,8,,Shigefusa Kanroji,R,,JPN,24.1,107054,,,Gakuji Okada,R,,JPN,,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,748,9,885,5
 1991-M-SA-TPE-01A-1991b,Hong Kong Ch Taipei Masters 2,Hard,32,S,19910805,14,109456,,Q,Chung Hsing Liu,R,,TPE,26.9,108369,,,Tetsuya Sato,R,,JPN,22.3,6-3 7-6,3,R32,,,,,,,,,,,,,,,,,,,,,,930,4
@@ -6095,16 +6095,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-M-SA-TPE-01A-1991b,Hong Kong Ch Taipei Masters 2,Hard,32,S,19910805,19,123207,,,Jin Ho Lee,U,,KOR,23.6,101017,3,,Gap Taik Ro,R,173,KOR,27.4,3-6 6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,497,28
 1991-M-SA-TPE-01A-1991b,Hong Kong Ch Taipei Masters 2,Hard,32,S,19910805,20,122723,5,,Michael Van Der Berg,U,,NED,23.3,122889,,Q,Christoph Sieber,U,,SUI,22.7,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 1991-M-SA-TPE-01A-1991b,Hong Kong Ch Taipei Masters 2,Hard,32,S,19910805,21,101764,,WC,Yu Hui Lien,R,,TPE,21.1,102104,6,,Christian Ruud,R,188,NOR,18.9,1-6 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,572,20
-1991-M-SA-TPE-01A-1991b,Hong Kong Ch Taipei Masters 2,Hard,32,S,19910805,22,108831,,,Michael Walker,U,,HKG,25.2,101633,4,,Seong Kon Kim,R,,KOR,21.9,7-6 3-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,556,21
+1991-M-SA-TPE-01A-1991b,Hong Kong Ch Taipei Masters 2,Hard,32,S,19910805,22,108831,,,Michael Walker,U,,HKG,25.2,101633,4,,Seong Kon Kim,R,,KOR,21.9,7-6 3-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1037,3,556,21
 1991-M-SA-TPE-01A-1991b,Hong Kong Ch Taipei Masters 2,Hard,32,S,19910805,23,109456,,Q,Chung Hsing Liu,R,,TPE,26.9,108251,8,,Shigefusa Kanroji,R,,JPN,24.1,1-6 6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,748,9
 1991-M-SA-TPE-01A-1991b,Hong Kong Ch Taipei Masters 2,Hard,32,S,19910805,24,108443,,Q,Toshitsugu Mori,R,,JPN,21.6,107282,,,Janne Kiilavirta,R,,FIN,23.1,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,1099,1,893,5
 1991-M-SA-TPE-01A-1991b,Hong Kong Ch Taipei Masters 2,Hard,32,S,19910805,25,101590,1,,Eui Jong Chang,R,183,KOR,22.3,106713,7,,Chad Andrews,R,,USA,,7-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,269,87,692,11
 1991-M-SA-TPE-01A-1991b,Hong Kong Ch Taipei Masters 2,Hard,32,S,19910805,26,122723,5,,Michael Van Der Berg,U,,NED,23.3,123207,,,Jin Ho Lee,U,,KOR,23.6,3-6 7-6 7-6,3,QF,,,,,,,,,,,,,,,,,,,,,,,
-1991-M-SA-TPE-01A-1991b,Hong Kong Ch Taipei Masters 2,Hard,32,S,19910805,27,108831,,,Michael Walker,U,,HKG,25.2,101764,,WC,Yu Hui Lien,R,,TPE,21.1,6-3 7-5,3,QF,,,,,,,,,,,,,,,,,,,,,,,
+1991-M-SA-TPE-01A-1991b,Hong Kong Ch Taipei Masters 2,Hard,32,S,19910805,27,108831,,,Michael Walker,U,,HKG,25.2,101764,,WC,Yu Hui Lien,R,,TPE,21.1,6-3 7-5,3,QF,,,,,,,,,,,,,,,,,,,,1037,3,,
 1991-M-SA-TPE-01A-1991b,Hong Kong Ch Taipei Masters 2,Hard,32,S,19910805,28,108443,,Q,Toshitsugu Mori,R,,JPN,21.6,109456,,Q,Chung Hsing Liu,R,,TPE,26.9,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,1099,1,,
 1991-M-SA-TPE-01A-1991b,Hong Kong Ch Taipei Masters 2,Hard,32,S,19910805,29,101590,1,,Eui Jong Chang,R,183,KOR,22.3,122723,5,,Michael Van Der Berg,U,,NED,23.3,7-5 6-3,3,SF,,,,,,,,,,,,,,,,,,,,269,87,,
-1991-M-SA-TPE-01A-1991b,Hong Kong Ch Taipei Masters 2,Hard,32,S,19910805,30,108831,,,Michael Walker,U,,HKG,25.2,108443,,Q,Toshitsugu Mori,R,,JPN,21.6,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,,,1099,1
-1991-M-SA-TPE-01A-1991b,Hong Kong Ch Taipei Masters 2,Hard,32,S,19910805,31,101590,1,,Eui Jong Chang,R,183,KOR,22.3,108831,,,Michael Walker,U,,HKG,25.2,7-5 7-5,3,F,,,,,,,,,,,,,,,,,,,,269,87,,
+1991-M-SA-TPE-01A-1991b,Hong Kong Ch Taipei Masters 2,Hard,32,S,19910805,30,108831,,,Michael Walker,U,,HKG,25.2,108443,,Q,Toshitsugu Mori,R,,JPN,21.6,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,1037,3,1099,1
+1991-M-SA-TPE-01A-1991b,Hong Kong Ch Taipei Masters 2,Hard,32,S,19910805,31,101590,1,,Eui Jong Chang,R,183,KOR,22.3,108831,,,Michael Walker,U,,HKG,25.2,7-5 7-5,3,F,,,,,,,,,,,,,,,,,,,,269,87,1037,3
 1991-M-SA-TPE-01A-1991c,Hong Kong Ch Taipei Masters 3,Hard,32,S,19910805,1,101590,1,,Eui Jong Chang,R,183,KOR,22.3,100968,,Q,Sylvano Simone,R,,ITA,27.8,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,269,87,,
 1991-M-SA-TPE-01A-1991c,Hong Kong Ch Taipei Masters 3,Hard,32,S,19910805,2,101762,,Q,Tae Hee Kong,R,,KOR,21.1,102119,,,Chih Jung Chen,R,,TPE,18.8,7-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,958,3,,
 1991-M-SA-TPE-01A-1991c,Hong Kong Ch Taipei Masters 3,Hard,32,S,19910805,3,106866,,,Deok Hee Lee,R,,KOR,,109440,,WC,Jin Yen Chiang,R,,CHN,18.7,7-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -6120,7 +6120,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-M-SA-TPE-01A-1991c,Hong Kong Ch Taipei Masters 3,Hard,32,S,19910805,13,108251,8,,Shigefusa Kanroji,R,,JPN,24.1,101764,,,Yu Hui Lien,R,,TPE,21.1,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,748,9,,
 1991-M-SA-TPE-01A-1991c,Hong Kong Ch Taipei Masters 3,Hard,32,S,19910805,14,123392,,Q,Rocky Loccisano,U,,AUS,27.0,124852,,WC,Yu Ming Huang,U,,TPE,15.8,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1991-M-SA-TPE-01A-1991c,Hong Kong Ch Taipei Masters 3,Hard,32,S,19910805,15,108207,,Q,Sang Soo Lee,R,,KOR,,123394,,WC,Chiao Hsy Hung,U,,TPE,18.7,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1042,2,,
-1991-M-SA-TPE-01A-1991c,Hong Kong Ch Taipei Masters 3,Hard,32,S,19910805,16,108831,2,,Michael Walker,U,,HKG,25.2,102102,,Q,Natsuki Harada,R,,JPN,18.9,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1991-M-SA-TPE-01A-1991c,Hong Kong Ch Taipei Masters 3,Hard,32,S,19910805,16,108831,2,,Michael Walker,U,,HKG,25.2,102102,,Q,Natsuki Harada,R,,JPN,18.9,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1037,3,,
 1991-M-SA-TPE-01A-1991c,Hong Kong Ch Taipei Masters 3,Hard,32,S,19910805,17,101590,1,,Eui Jong Chang,R,183,KOR,22.3,101762,,Q,Tae Hee Kong,R,,KOR,21.1,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,269,87,958,3
 1991-M-SA-TPE-01A-1991c,Hong Kong Ch Taipei Masters 3,Hard,32,S,19910805,18,106866,,,Deok Hee Lee,R,,KOR,,107282,,,Janne Kiilavirta,R,,FIN,23.1,6-4 7-6,3,R16,,,,,,,,,,,,,,,,,,,,,,893,5
 1991-M-SA-TPE-01A-1991c,Hong Kong Ch Taipei Masters 3,Hard,32,S,19910805,19,102104,3,,Christian Ruud,R,188,NOR,18.9,106713,,,Chad Andrews,R,,USA,,6-0 6-0,3,R16,,,,,,,,,,,,,,,,,,,,572,20,692,11
@@ -6128,13 +6128,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-M-SA-TPE-01A-1991c,Hong Kong Ch Taipei Masters 3,Hard,32,S,19910805,21,122723,5,,Michael Van Der Berg,U,,NED,23.3,107054,,,Gakuji Okada,R,,JPN,,6-0 7-6,3,R16,,,,,,,,,,,,,,,,,,,,,,885,5
 1991-M-SA-TPE-01A-1991c,Hong Kong Ch Taipei Masters 3,Hard,32,S,19910805,22,123207,,,Jin Ho Lee,U,,KOR,23.6,108443,4,,Toshitsugu Mori,R,,JPN,21.6,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,1099,1
 1991-M-SA-TPE-01A-1991c,Hong Kong Ch Taipei Masters 3,Hard,32,S,19910805,23,108251,8,,Shigefusa Kanroji,R,,JPN,24.1,123392,,Q,Rocky Loccisano,U,,AUS,27.0,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,748,9,,
-1991-M-SA-TPE-01A-1991c,Hong Kong Ch Taipei Masters 3,Hard,32,S,19910805,24,108831,2,,Michael Walker,U,,HKG,25.2,108207,,Q,Sang Soo Lee,R,,KOR,,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,1042,2
+1991-M-SA-TPE-01A-1991c,Hong Kong Ch Taipei Masters 3,Hard,32,S,19910805,24,108831,2,,Michael Walker,U,,HKG,25.2,108207,,Q,Sang Soo Lee,R,,KOR,,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1037,3,1042,2
 1991-M-SA-TPE-01A-1991c,Hong Kong Ch Taipei Masters 3,Hard,32,S,19910805,25,101590,1,,Eui Jong Chang,R,183,KOR,22.3,106866,,,Deok Hee Lee,R,,KOR,,7-6 7-5,3,QF,,,,,,,,,,,,,,,,,,,,269,87,,
 1991-M-SA-TPE-01A-1991c,Hong Kong Ch Taipei Masters 3,Hard,32,S,19910805,26,101437,6,,Seung Ho Ji,R,,KOR,23.5,102104,3,,Christian Ruud,R,188,NOR,18.9,4-6 7-6 4-1 RET,3,QF,,,,,,,,,,,,,,,,,,,,510,26,572,20
 1991-M-SA-TPE-01A-1991c,Hong Kong Ch Taipei Masters 3,Hard,32,S,19910805,27,123207,,,Jin Ho Lee,U,,KOR,23.6,122723,5,,Michael Van Der Berg,U,,NED,23.3,7-6 3-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,,
-1991-M-SA-TPE-01A-1991c,Hong Kong Ch Taipei Masters 3,Hard,32,S,19910805,28,108831,2,,Michael Walker,U,,HKG,25.2,108251,8,,Shigefusa Kanroji,R,,JPN,24.1,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,748,9
+1991-M-SA-TPE-01A-1991c,Hong Kong Ch Taipei Masters 3,Hard,32,S,19910805,28,108831,2,,Michael Walker,U,,HKG,25.2,108251,8,,Shigefusa Kanroji,R,,JPN,24.1,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,1037,3,748,9
 1991-M-SA-TPE-01A-1991c,Hong Kong Ch Taipei Masters 3,Hard,32,S,19910805,29,101590,1,,Eui Jong Chang,R,183,KOR,22.3,101437,6,,Seung Ho Ji,R,,KOR,23.5,6-3 7-6,3,SF,,,,,,,,,,,,,,,,,,,,269,87,510,26
-1991-M-SA-TPE-01A-1991c,Hong Kong Ch Taipei Masters 3,Hard,32,S,19910805,30,123207,,,Jin Ho Lee,U,,KOR,23.6,108831,2,,Michael Walker,U,,HKG,25.2,6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1991-M-SA-TPE-01A-1991c,Hong Kong Ch Taipei Masters 3,Hard,32,S,19910805,30,123207,,,Jin Ho Lee,U,,KOR,23.6,108831,2,,Michael Walker,U,,HKG,25.2,6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,,,1037,3
 1991-M-SA-TPE-01A-1991c,Hong Kong Ch Taipei Masters 3,Hard,32,S,19910805,31,101590,1,,Eui Jong Chang,R,183,KOR,22.3,123207,,,Jin Ho Lee,U,,KOR,23.6,6-2 6-1,3,F,,,,,,,,,,,,,,,,,,,,269,87,,
 1991-M-SA-TPE-01A-1991d,Hong Kong Ch Taipei Masters 4,Hard,24,S,19910805,1,102102,,,Natsuki Harada,R,,JPN,18.9,107282,,,Janne Kiilavirta,R,,FIN,23.1,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,893,5
 1991-M-SA-TPE-01A-1991d,Hong Kong Ch Taipei Masters 4,Hard,24,S,19910805,2,108369,,,Tetsuya Sato,R,,JPN,22.3,107054,,,Gakuji Okada,R,,JPN,,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,930,4,885,5
@@ -6151,11 +6151,11 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-M-SA-TPE-01A-1991d,Hong Kong Ch Taipei Masters 4,Hard,24,S,19910805,13,108443,6,,Toshitsugu Mori,R,,JPN,21.6,109440,,,Jin Yen Chiang,R,,CHN,18.7,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1099,1,,
 1991-M-SA-TPE-01A-1991d,Hong Kong Ch Taipei Masters 4,Hard,24,S,19910805,14,102104,3,,Christian Ruud,R,188,NOR,18.9,101762,,,Tae Hee Kong,R,,KOR,21.1,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,572,20,958,3
 1991-M-SA-TPE-01A-1991d,Hong Kong Ch Taipei Masters 4,Hard,24,S,19910805,15,122723,7,,Michael Van Der Berg,U,,NED,23.3,108207,,,Sang Soo Lee,R,,KOR,,6-4 5-7 7-6,3,R16,,,,,,,,,,,,,,,,,,,,,,1042,2
-1991-M-SA-TPE-01A-1991d,Hong Kong Ch Taipei Masters 4,Hard,24,S,19910805,16,108831,2,,Michael Walker,U,,HKG,25.2,102372,,,Sule Ladipo,R,180,NGR,17.3,6-2 6-7 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,930,4
+1991-M-SA-TPE-01A-1991d,Hong Kong Ch Taipei Masters 4,Hard,24,S,19910805,16,108831,2,,Michael Walker,U,,HKG,25.2,102372,,,Sule Ladipo,R,180,NGR,17.3,6-2 6-7 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1037,3,930,4
 1991-M-SA-TPE-01A-1991d,Hong Kong Ch Taipei Masters 4,Hard,24,S,19910805,17,108369,,,Tetsuya Sato,R,,JPN,22.3,102102,,,Natsuki Harada,R,,JPN,18.9,7-5 3-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,930,4,,
 1991-M-SA-TPE-01A-1991d,Hong Kong Ch Taipei Masters 4,Hard,24,S,19910805,18,101437,5,,Seung Ho Ji,R,,KOR,23.5,101764,,,Yu Hui Lien,R,,TPE,21.1,6-4 7-6,3,QF,,,,,,,,,,,,,,,,,,,,510,26,,
 1991-M-SA-TPE-01A-1991d,Hong Kong Ch Taipei Masters 4,Hard,24,S,19910805,19,102104,3,,Christian Ruud,R,188,NOR,18.9,108443,6,,Toshitsugu Mori,R,,JPN,21.6,7-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,572,20,1099,1
-1991-M-SA-TPE-01A-1991d,Hong Kong Ch Taipei Masters 4,Hard,24,S,19910805,20,122723,7,,Michael Van Der Berg,U,,NED,23.3,108831,2,,Michael Walker,U,,HKG,25.2,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,,
+1991-M-SA-TPE-01A-1991d,Hong Kong Ch Taipei Masters 4,Hard,24,S,19910805,20,122723,7,,Michael Van Der Berg,U,,NED,23.3,108831,2,,Michael Walker,U,,HKG,25.2,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,1037,3
 1991-M-SA-TPE-01A-1991d,Hong Kong Ch Taipei Masters 4,Hard,24,S,19910805,21,101437,5,,Seung Ho Ji,R,,KOR,23.5,108369,,,Tetsuya Sato,R,,JPN,22.3,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,510,26,930,4
 1991-M-SA-TPE-01A-1991d,Hong Kong Ch Taipei Masters 4,Hard,24,S,19910805,22,102104,3,,Christian Ruud,R,188,NOR,18.9,122723,7,,Michael Van Der Berg,U,,NED,23.3,4-6 6-1 6-4,3,SF,,,,,,,,,,,,,,,,,,,,572,20,,
 1991-M-SA-TPE-01A-1991d,Hong Kong Ch Taipei Masters 4,Hard,24,S,19910805,23,102104,3,,Christian Ruud,R,188,NOR,18.9,101437,5,,Seung Ho Ji,R,,KOR,23.5,6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,572,20,510,26

@@ -917,7 +917,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-336,Hong Kong,Hard,32,A,19910401,11,100836,,Q,Glenn Michibata,R,175,CAN,28.7,101256,,,Mark Kratzmann,L,178,AUS,24.8,1-6 7-6(5) 6-2,3,R32,107,5,5,75,47,36,12,13,2,5,3,6,94,40,30,29,14,2,5,494,23,141,252
 1991-336,Hong Kong,Hard,32,A,19910401,12,100923,,,Wally Masur,R,180,AUS,27.8,101084,4,,Jakob Hlasek,R,188,SUI,26.3,6-4 7-6(6),3,R32,81,0,3,79,60,41,11,11,6,8,8,1,59,33,27,12,11,1,4,60,533,21,1062
 1991-336,Hong Kong,Hard,32,A,19910401,13,101195,7,,Amos Mansdorf,R,175,ISR,25.4,101150,,Q,Gianluca Pozzi,L,180,ITA,25.7,6-3 6-7(3) 6-4,3,R32,144,2,3,99,55,41,21,15,7,10,1,6,116,32,21,43,16,11,17,44,707,173,167
-1991-336,Hong Kong,Hard,32,A,19910401,14,101123,,,Alexander Mronz,R,188,GER,25.9,101128,,WC,Michael Walker,L,183,HKG,25.9,6-3 6-3,3,R32,75,3,1,54,33,28,13,9,3,3,1,3,56,26,20,13,9,4,7,77,445,1002,2
+1991-336,Hong Kong,Hard,32,A,19910401,14,101123,,,Alexander Mronz,R,188,GER,25.9,108831,,WC,Michael Walker,U,,HKG,24.9,6-3 6-3,3,R32,75,3,1,54,33,28,13,9,3,3,1,3,56,26,20,13,9,4,7,77,445,1002,2
 1991-336,Hong Kong,Hard,32,A,19910401,15,101233,,,Alex Antonitsch,R,188,AUT,25.1,101703,,,Guillaume Raoux,R,180,FRA,21.1,6-4 4-6 7-5,3,R32,119,7,4,100,53,36,28,16,9,12,3,7,94,42,29,28,16,0,4,66,496,94,387
 1991-336,Hong Kong,Hard,32,A,19910401,16,100972,,,Todd Witsken,R,183,USA,27.4,100581,2,,John McEnroe,L,180,USA,32.1,6-3 5-7 7-6(3),3,R32,165,1,2,104,67,50,23,17,1,3,5,5,109,57,39,33,16,6,8,82,428,17,1212
 1991-336,Hong Kong,Hard,32,A,19910401,17,102021,1,,Michael Chang,R,175,USA,19.1,100870,,,Christo Van Rensburg,R,185,RSA,28.4,7-5 6-7(5) 6-4,3,R16,186,0,1,106,72,42,16,17,5,11,4,14,130,68,40,26,17,10,18,12,1364,81,430
@@ -1903,8 +1903,8 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-D072,Davis Cup G2 QF: MAS vs TPE,Hard,4,D,19910614,4,101349,,,Adam Malik,R,193,MAS,24.0,101764,,,Yu Hui Lien,R,,TPE,20.9,6-3 6-4 7-6(4),5,RR,,,,,,,,,,,,,,,,,,,,468,27,,
 1991-D072,Davis Cup G2 QF: MAS vs TPE,Hard,4,D,19910614,5,109456,,,Chung Hsing Liu,R,,TPE,26.7,101662,,,Selvam Veerasingam,R,,MAS,21.5,7-6(4) 6-7(5) 7-6(6) 6-3,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1991-D052,Davis Cup G2 QF: SIN vs HKG,Hard,4,D,19910614,1,106782,,,Colin Grant,R,,HKG,25.1,110828,,,Wai Yaw Liu,U,,SGP,26.4,6-0 6-0 6-0,5,RR,,,,,,,,,,,,,,,,,,,,,,,
-1991-D052,Davis Cup G2 QF: SIN vs HKG,Hard,4,D,19910614,2,108831,,,Michael Walker,U,,HKG,25.1,108883,,,Kuen Yiep Ho,U,,SGP,20.3,6-1 6-0 6-1,5,RR,,,,,,,,,,,,,,,,,,,,,,,
-1991-D052,Davis Cup G2 QF: SIN vs HKG,Hard,4,D,19910614,4,108831,,,Michael Walker,U,,HKG,25.1,109002,,,Tung Yi Kho,R,,SGP,19.3,6-1 6-0 6-3,5,RR,,,,,,,,,,,,,,,,,,,,,,,
+1991-D052,Davis Cup G2 QF: SIN vs HKG,Hard,4,D,19910614,2,108831,,,Michael Walker,U,,HKG,25.1,108883,,,Kuen Yiep Ho,U,,SGP,20.3,6-1 6-0 6-1,5,RR,,,,,,,,,,,,,,,,,,,,980,3,,
+1991-D052,Davis Cup G2 QF: SIN vs HKG,Hard,4,D,19910614,4,108831,,,Michael Walker,U,,HKG,25.1,109002,,,Tung Yi Kho,R,,SGP,19.3,6-1 6-0 6-3,5,RR,,,,,,,,,,,,,,,,,,,,980,3,,
 1991-D052,Davis Cup G2 QF: SIN vs HKG,Hard,4,D,19910614,5,107586,,,Lui Pang,R,,HKG,21.5,108883,,,Kuen Yiep Ho,U,,SGP,20.3,6-2 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1991-D071,Davis Cup G2 SF: LUX vs TUR,Hard,4,D,19910614,1,100991,,,Johnny Goudenbour,R,178,LUX,27.4,109480,,,Yavuz Erkangil,R,,TUR,24.2,6-4 6-0 6-4,5,RR,,,,,,,,,,,,,,,,,,,,913,3,,
 1991-D071,Davis Cup G2 SF: LUX vs TUR,Hard,4,D,19910614,2,107263,,,Jacques Radoux,R,,LUX,22.0,101121,,,Alaaddin Karagoz,R,,TUR,26.1,6-2 6-1 6-1,5,RR,,,,,,,,,,,,,,,,,,,,1052,1,,
@@ -2311,8 +2311,8 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-D009,Davis Cup G2 SF: COL vs BAH,Clay,4,D,19910719,4,100795,,,Alvaro Jordan,R,185,COL,29.5,100997,,,Roger Smith,R,185,BAH,27.4,6-3 6-7(5) 6-7(4) 6-0 6-3,5,RR,,,,,,,,,,,,,,,,,,,,237,102,376,49
 1991-D009,Davis Cup G2 SF: COL vs BAH,Clay,4,D,19910719,5,101991,,,Mauricio Hadad,R,170,COL,19.6,107382,,,John Farrington,R,,BAH,32.7,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,326,63,,
 1991-D053,Davis Cup G2 SF: HKG vs SRI,Hard,4,D,19910719,1,107680,,,Mark Bailey,R,,HKG,28.3,106580,,,Arjun Fernando,R,,SRI,32.3,7-6(7) 1-6 4-6 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,1091,1,,
-1991-D053,Davis Cup G2 SF: HKG vs SRI,Hard,4,D,19910719,2,110852,,,Umesha Wallooppillai,U,,SRI,18.8,108831,,,Michael Walker,U,,HKG,25.2,7-5 4-6 7-5 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,,
-1991-D053,Davis Cup G2 SF: HKG vs SRI,Hard,4,D,19910719,4,108831,,,Michael Walker,U,,HKG,25.2,106580,,,Arjun Fernando,R,,SRI,32.3,6-2 6-3 6-0,5,RR,,,,,,,,,,,,,,,,,,,,,,,
+1991-D053,Davis Cup G2 SF: HKG vs SRI,Hard,4,D,19910719,2,110852,,,Umesha Wallooppillai,U,,SRI,18.8,108831,,,Michael Walker,U,,HKG,25.2,7-5 4-6 7-5 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,1018,3
+1991-D053,Davis Cup G2 SF: HKG vs SRI,Hard,4,D,19910719,4,108831,,,Michael Walker,U,,HKG,25.2,106580,,,Arjun Fernando,R,,SRI,32.3,6-2 6-3 6-0,5,RR,,,,,,,,,,,,,,,,,,,,1018,3,,
 1991-D053,Davis Cup G2 SF: HKG vs SRI,Hard,4,D,19910719,5,110852,,,Umesha Wallooppillai,U,,SRI,18.8,107680,,,Mark Bailey,R,,HKG,28.3,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,1091,1
 1991-D065,Davis Cup G2 SF: KEN vs NGR,Clay,4,D,19910719,1,100553,,,Nduka Odizor,R,183,NGR,32.9,106941,,,Eno Polo,R,,KEN,24.1,4-6 6-1 6-2 1-6 6-4,5,RR,,,,,,,,,,,,,,,,,,,,211,131,684,11
 1991-D065,Davis Cup G2 SF: KEN vs NGR,Clay,4,D,19910719,2,101365,,,Paul Wekesa,R,188,KEN,24.0,108548,,,Yakubu Suleiman,R,,NGR,26.9,6-2 6-4 7-5,5,RR,,,,,,,,,,,,,,,,,,,,263,86,,
@@ -2947,7 +2947,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-463,Brasilia,Carpet,48,A,19910909,4,100949,,,Mauro Menezes,R,193,BRA,28.1,101076,,,Cesar Kist,R,180,BRA,26.8,2-6 6-3 6-4,3,R64,127,2,8,85,53,40,13,14,1,4,9,5,89,56,39,15,13,5,8,334,62,253,99
 1991-463,Brasilia,Carpet,48,A,19910909,5,101311,,Q,Kent Kinnear,R,196,USA,24.7,100955,,,Yahiya Doumbia,R,185,SEN,28.0,7-6(3) 4-6 6-1,3,R64,137,4,5,104,67,49,17,15,7,9,6,3,93,49,29,29,14,6,9,310,69,237,113
 1991-463,Brasilia,Carpet,48,A,19910909,6,101360,,,Mark Keil,R,185,USA,24.2,101354,,,Andrew Sznajder,R,175,CAN,24.2,5-7 7-6(6) 7-6(4),3,R64,160,7,3,124,79,60,23,18,9,12,5,11,125,61,47,37,18,5,7,191,171,209,144
-1991-463,Brasilia,Carpet,48,A,19910909,7,210013,,,Martin Damm Sr,R,188,CZE,19.1,102055,,,Bertrand Madsen,R,,HAI,19.3,7-5 6-4,3,R64,70,5,1,61,44,39,7,11,0,0,7,1,58,34,29,10,11,2,4,178,190,279,82
+1991-463,Brasilia,Carpet,48,A,19910909,7,210013,,,Martin Damm Sr,R,188,CZE,19.1,102055,,,Bertrand Madsen,R,,HAI,19.3,7-5 6-4,3,R64,70,5,1,61,44,39,7,11,0,0,7,1,58,34,29,10,11,2,4,,,279,82
 1991-463,Brasilia,Carpet,48,A,19910909,8,101897,,,Fernando Meligeni,L,180,BRA,20.4,108147,,Q,Rodrigo Faria,R,,BRA,,6-4 6-1,3,R64,68,4,1,38,16,16,16,8,0,0,3,8,73,37,24,13,9,12,16,221,128,884,5
 1991-463,Brasilia,Carpet,48,A,19910909,9,101912,,,Felipe Rivera,R,183,CHI,20.3,100652,,,Cassio Motta,R,180,BRA,31.5,7-6(7) 3-6 6-1,3,R64,116,5,3,99,66,40,18,14,10,15,4,4,103,71,43,13,14,9,15,219,133,198,157
 1991-463,Brasilia,Carpet,48,A,19910909,10,100917,,WC,Nelson Aerts,R,188,BRA,28.3,101862,,,Maurice Ruah,R,178,VEN,20.5,6-3 3-6 7-5,3,R64,114,1,6,93,59,42,19,15,6,8,6,2,88,59,40,15,15,3,6,451,36,230,119
@@ -2963,7 +2963,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-463,Brasilia,Carpet,48,A,19910909,20,101174,7,,Fernando Roese,R,190,BRA,26.0,100949,,,Mauro Menezes,R,193,BRA,28.1,6-4 6-2,3,R32,72,8,4,55,29,24,15,9,3,4,1,0,49,34,18,8,9,1,5,119,308,334,62
 1991-463,Brasilia,Carpet,48,A,19910909,21,101532,3,,Francisco Clavet,L,183,ESP,22.8,101311,,Q,Kent Kinnear,R,196,USA,24.7,3-6 7-6(8) 6-2,3,R32,149,1,5,106,70,51,15,14,7,11,3,4,124,67,45,26,15,16,21,36,769,310,69
 1991-463,Brasilia,Carpet,48,A,19910909,22,101774,14,,Todd Martin,R,198,USA,21.1,101360,,,Mark Keil,R,185,USA,24.2,6-3 6-4,3,R32,70,7,2,45,26,24,16,10,0,0,2,2,60,40,26,11,9,2,4,143,236,191,171
-1991-463,Brasilia,Carpet,48,A,19910909,23,210013,,,Martin Damm Sr,R,188,CZE,19.1,101866,12,,David Rikl,L,178,CZE,20.5,6-3 3-6 6-3,3,R32,108,5,3,95,63,47,14,14,11,13,1,8,77,58,44,6,13,2,5,178,190,146,232
+1991-463,Brasilia,Carpet,48,A,19910909,23,210013,,,Martin Damm Sr,R,188,CZE,19.1,101866,12,,David Rikl,L,178,CZE,20.5,6-3 3-6 6-3,3,R32,108,5,3,95,63,47,14,14,11,13,1,8,77,58,44,6,13,2,5,,,146,232
 1991-463,Brasilia,Carpet,48,A,19910909,24,101439,5,,Javier Sanchez,R,178,ESP,23.6,101897,,,Fernando Meligeni,L,180,BRA,20.4,6-7(2) 6-4 6-4,3,R32,120,1,9,101,64,52,17,16,6,7,4,2,97,54,39,26,16,4,7,39,763,221,128
 1991-463,Brasilia,Carpet,48,A,19910909,25,101318,6,,Javier Frana,L,185,ARG,24.7,101912,,,Felipe Rivera,R,183,CHI,20.3,5-7 6-3 6-1,3,R32,160,5,2,86,55,42,18,14,3,4,3,5,92,53,38,16,14,3,7,87,415,219,133
 1991-463,Brasilia,Carpet,48,A,19910909,26,100653,11,,Andres Gomez,L,193,ECU,31.5,100917,,WC,Nelson Aerts,R,188,BRA,28.3,4-6 6-3 6-3,3,R32,120,7,2,84,51,39,19,14,4,5,3,7,92,53,36,20,13,8,11,142,237,451,36
@@ -2976,7 +2976,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-463,Brasilia,Carpet,48,A,19910909,33,101776,,,Sandon Stolle,R,193,AUS,21.1,100752,15,,Ramesh Krishnan,R,170,IND,30.2,2-6 6-2 7-6(1),3,R16,120,2,6,86,48,37,20,14,3,6,0,4,98,66,42,16,14,7,10,205,149,165,204
 1991-463,Brasilia,Carpet,48,A,19910909,34,101214,9,,Bryan Shelton,R,185,USA,25.7,101174,7,,Fernando Roese,R,190,BRA,26.0,7-5 7-6(6),3,R16,92,4,1,72,52,38,15,12,3,4,5,6,76,45,32,19,12,5,7,122,300,119,308
 1991-463,Brasilia,Carpet,48,A,19910909,35,101774,14,,Todd Martin,R,198,USA,21.1,101532,3,,Francisco Clavet,L,183,ESP,22.8,6-4 7-6(6),3,R16,104,4,2,71,34,26,24,11,1,2,1,1,75,42,28,20,11,4,6,143,236,36,769
-1991-463,Brasilia,Carpet,48,A,19910909,36,101439,5,,Javier Sanchez,R,178,ESP,23.6,210013,,,Martin Damm Sr,R,188,CZE,19.1,7-6(7) 6-4,3,R16,90,5,3,78,45,37,18,11,3,3,8,1,67,33,26,21,11,0,1,39,763,178,190
+1991-463,Brasilia,Carpet,48,A,19910909,36,101439,5,,Javier Sanchez,R,178,ESP,23.6,210013,,,Martin Damm Sr,R,188,CZE,19.1,7-6(7) 6-4,3,R16,90,5,3,78,45,37,18,11,3,3,8,1,67,33,26,21,11,0,1,39,763,,
 1991-463,Brasilia,Carpet,48,A,19910909,37,100653,11,,Andres Gomez,L,193,ECU,31.5,101318,6,,Javier Frana,L,185,ARG,24.7,6-7(3) 6-4 6-4,3,R16,128,5,6,95,57,46,23,16,5,6,2,7,102,59,44,24,16,6,9,142,237,87,415
 1991-463,Brasilia,Carpet,48,A,19910909,38,101073,4,,Martin Jaite,R,178,ARG,26.9,100997,,Q,Roger Smith,R,185,BAH,27.6,6-3 7-6(3),3,R16,102,6,3,75,31,24,27,11,3,4,2,2,67,33,19,23,10,3,5,42,699,371,49
 1991-463,Brasilia,Carpet,48,A,19910909,39,101237,8,,Danilo Marcelino,R,193,BRA,25.5,100782,10,,Pablo Arraya,R,180,PER,29.8,7-6(1) 7-5,3,R16,81,10,4,66,43,37,14,12,1,2,7,6,77,51,37,12,12,3,5,120,307,129,273
@@ -3028,8 +3028,8 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-D022,Davis Cup G2 F: COL vs CHI,Clay,4,D,19910920,4,100795,,,Alvaro Jordan,R,185,COL,29.6,100711,,,Pedro Rebolledo,R,170,CHI,30.7,2-6 6-3 7-5,3,RR,,,,,,,,,,,,,,,,,,,,248,104,172,196
 1991-D022,Davis Cup G2 F: COL vs CHI,Clay,4,D,19910920,5,101105,,,Jose Antonio Fernandez,R,170,CHI,26.6,101167,,,Jaime Cortes,R,,COL,26.1,6-1 5-7 3-2 Played and unfinished,5,RR,,,,,,,,,,,,,,,,,,,,251,103,311,70
 1991-D054,Davis Cup G2 F: TPE vs HKG,Hard,4,D,19910920,1,101764,,,Yu Hui Lien,R,,TPE,21.2,106782,,,Colin Grant,R,,HKG,25.4,6-2 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,,854,5,,
-1991-D054,Davis Cup G2 F: TPE vs HKG,Hard,4,D,19910920,2,108831,,,Michael Walker,U,,HKG,25.4,102119,,,Chih Jung Chen,R,,TPE,18.9,6-4 6-3 6-3,5,RR,,,,,,,,,,,,,,,,,,,,,,1098,1
-1991-D054,Davis Cup G2 F: TPE vs HKG,Hard,4,D,19910920,4,108831,,,Michael Walker,U,,HKG,25.4,101764,,,Yu Hui Lien,R,,TPE,21.2,7-6(6) 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,854,5
+1991-D054,Davis Cup G2 F: TPE vs HKG,Hard,4,D,19910920,2,108831,,,Michael Walker,U,,HKG,25.4,102119,,,Chih Jung Chen,R,,TPE,18.9,6-4 6-3 6-3,5,RR,,,,,,,,,,,,,,,,,,,,585,19,1098,1
+1991-D054,Davis Cup G2 F: TPE vs HKG,Hard,4,D,19910920,4,108831,,,Michael Walker,U,,HKG,25.4,101764,,,Yu Hui Lien,R,,TPE,21.2,7-6(6) 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,585,19,854,5
 1991-D054,Davis Cup G2 F: TPE vs HKG,Hard,4,D,19910920,5,102119,,,Chih Jung Chen,R,,TPE,18.9,106782,,,Colin Grant,R,,HKG,25.4,7-5 6-3 6-3,5,RR,,,,,,,,,,,,,,,,,,,,1098,1,,
 1991-D014,Davis Cup WG PO: BEL vs ISR,Clay,4,D,19910920,1,100995,,,Eduardo Masso,L,178,BEL,27.6,101195,,,Amos Mansdorf,R,175,ISR,25.9,3-6 7-6(3) 6-4 6-1,5,RR,,,,,,,,,,,,,,,,,,,,94,384,67,496
 1991-D014,Davis Cup WG PO: BEL vs ISR,Clay,4,D,19910920,2,101642,,,Bart Wuyts,R,178,BEL,22.0,101332,,,Gilad Bloom,L,173,ISR,24.5,7-6(4) 6-1 5-7 6-2,5,RR,,,,,,,,,,,,,,,,,,,,89,408,102,364

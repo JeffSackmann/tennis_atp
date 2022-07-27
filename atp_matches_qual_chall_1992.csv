@@ -5,7 +5,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-460,Heilbronn CH,Carpet,32,C,19920120,4,101274,,,Udo Riglewski,R,185,GER,25.4,101717,7,,Diego Nargiso,L,188,ITA,21.8,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,188,177,96,382
 1992-460,Heilbronn CH,Carpet,32,C,19920120,5,101500,3,,Christian Saceanu,R,190,GER,23.5,102154,,,Marcos Ondruska,R,183,RSA,19.0,3-6 7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,82,436,138,252
 1992-460,Heilbronn CH,Carpet,32,C,19920120,6,101510,,,Henrik Holm,R,183,SWE,23.3,101565,,Q,Marius Barnard,R,188,RSA,22.9,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,133,275,350,59
-1992-460,Heilbronn CH,Carpet,32,C,19920120,7,210013,,,Martin Damm Sr,R,188,CZE,19.4,101492,,Q,Sander Groen,L,190,NED,23.5,7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,145,244,237,121
+1992-460,Heilbronn CH,Carpet,32,C,19920120,7,210013,,,Martin Damm Sr,R,188,CZE,19.4,101492,,Q,Sander Groen,L,190,NED,23.5,7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,237,121
 1992-460,Heilbronn CH,Carpet,32,C,19920120,8,101659,,,Jan Apell,L,183,SWE,22.1,100995,6,,Eduardo Masso,L,178,BEL,28.0,7-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,171,201,93,385
 1992-460,Heilbronn CH,Carpet,32,C,19920120,9,100829,5,,Jan Gunnarsson,R,185,SWE,29.6,101806,,WC,Marc Kevin Goellner,R,196,GER,21.3,4-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,90,407,221,139
 1992-460,Heilbronn CH,Carpet,32,C,19920120,10,100962,,,Thomas Hogstedt,R,190,SWE,28.3,101668,,,Peter Nyborg,R,190,SWE,22.0,7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,149,239,191,173
@@ -18,16 +18,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-460,Heilbronn CH,Carpet,32,C,19920120,17,101373,,,Karsten Braasch,L,180,GER,24.5,101721,,,Markus Zillner,L,178,GER,21.8,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,135,262,168,210
 1992-460,Heilbronn CH,Carpet,32,C,19920120,18,101835,,,Arne Thoms,R,188,GER,21.0,101274,,,Udo Riglewski,R,185,GER,25.4,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,165,213,188,177
 1992-460,Heilbronn CH,Carpet,32,C,19920120,19,101500,3,,Christian Saceanu,R,190,GER,23.5,101510,,,Henrik Holm,R,183,SWE,23.3,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,82,436,133,275
-1992-460,Heilbronn CH,Carpet,32,C,19920120,20,210013,,,Martin Damm Sr,R,188,CZE,19.4,101659,,,Jan Apell,L,183,SWE,22.1,7-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,145,244,171,201
+1992-460,Heilbronn CH,Carpet,32,C,19920120,20,210013,,,Martin Damm Sr,R,188,CZE,19.4,101659,,,Jan Apell,L,183,SWE,22.1,7-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,171,201
 1992-460,Heilbronn CH,Carpet,32,C,19920120,21,100962,,,Thomas Hogstedt,R,190,SWE,28.3,100829,5,,Jan Gunnarsson,R,185,SWE,29.6,4-6 7-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,149,239,90,407
 1992-460,Heilbronn CH,Carpet,32,C,19920120,22,101685,,,Markus Naewie,R,190,GER,22.0,101642,4,,Bart Wuyts,R,178,BEL,22.3,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,132,276,88,417
 1992-460,Heilbronn CH,Carpet,32,C,19920120,23,101249,8,,Andrei Olhovskiy,R,185,RUS,25.7,101866,,,David Rikl,L,178,CZE,20.8,4-6 6-1 7-6,3,R16,,,,,,,,,,,,,,,,,,,,125,292,163,218
 1992-460,Heilbronn CH,Carpet,32,C,19920120,24,101338,,,Olivier Soules,R,188,FRA,24.8,101914,2,,Lars Koslowski,R,188,GER,20.6,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,193,171,77,474
 1992-460,Heilbronn CH,Carpet,32,C,19920120,25,101373,,,Karsten Braasch,L,180,GER,24.5,101835,,,Arne Thoms,R,188,GER,21.0,7-6 7-6,3,QF,,,,,,,,,,,,,,,,,,,,135,262,165,213
-1992-460,Heilbronn CH,Carpet,32,C,19920120,26,210013,,,Martin Damm Sr,R,188,CZE,19.4,101500,3,,Christian Saceanu,R,190,GER,23.5,6-3 7-6,3,QF,,,,,,,,,,,,,,,,,,,,145,244,82,436
+1992-460,Heilbronn CH,Carpet,32,C,19920120,26,210013,,,Martin Damm Sr,R,188,CZE,19.4,101500,3,,Christian Saceanu,R,190,GER,23.5,6-3 7-6,3,QF,,,,,,,,,,,,,,,,,,,,,,82,436
 1992-460,Heilbronn CH,Carpet,32,C,19920120,27,101685,,,Markus Naewie,R,190,GER,22.0,100962,,,Thomas Hogstedt,R,190,SWE,28.3,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,132,276,149,239
 1992-460,Heilbronn CH,Carpet,32,C,19920120,28,101338,,,Olivier Soules,R,188,FRA,24.8,101249,8,,Andrei Olhovskiy,R,185,RUS,25.7,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,193,171,125,292
-1992-460,Heilbronn CH,Carpet,32,C,19920120,29,101373,,,Karsten Braasch,L,180,GER,24.5,210013,,,Martin Damm Sr,R,188,CZE,19.4,6-4 2-6 6-4,3,SF,,,,,,,,,,,,,,,,,,,,135,262,145,244
+1992-460,Heilbronn CH,Carpet,32,C,19920120,29,101373,,,Karsten Braasch,L,180,GER,24.5,210013,,,Martin Damm Sr,R,188,CZE,19.4,6-4 2-6 6-4,3,SF,,,,,,,,,,,,,,,,,,,,135,262,,
 1992-460,Heilbronn CH,Carpet,32,C,19920120,30,101685,,,Markus Naewie,R,190,GER,22.0,101338,,,Olivier Soules,R,188,FRA,24.8,3-6 6-3 7-5,3,SF,,,,,,,,,,,,,,,,,,,,132,276,193,171
 1992-460,Heilbronn CH,Carpet,32,C,19920120,31,101373,,,Karsten Braasch,L,180,GER,24.5,101685,,,Markus Naewie,R,190,GER,22.0,6-7 6-2 6-2,3,F,,,,,,,,,,,,,,,,,,,,135,262,132,276
 1992-787,Bangalore CH,Clay,32,C,19920127,1,108227,,,Sebastian Soresini,R,,ITA,,101484,1,,Vladimir Gabrichidze,R,175,GEO,23.6,7-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,347,61,157,224
@@ -137,7 +137,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-826,Rennes CH,Hard,32,C,19920224,12,101373,3,,Karsten Braasch,L,180,GER,24.6,106967,,Q,Ettore Rossetti,R,,ITA,,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,102,343,304,75
 1992-826,Rennes CH,Hard,32,C,19920224,13,101337,7,,Martin Strelba,R,190,CZE,24.9,101251,,WC,Eric Winogradsky,R,188,FRA,25.8,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,116,314,229,122
 1992-826,Rennes CH,Hard,32,C,19920224,14,101338,,WC,Olivier Soules,R,188,FRA,24.9,100800,,,Diego Perez,R,178,URU,30.0,6-3 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,159,212,183,175
-1992-826,Rennes CH,Hard,32,C,19920224,15,210013,,,Martin Damm Sr,R,188,CZE,19.5,101835,,,Arne Thoms,R,188,GER,21.1,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,127,282,120,309
+1992-826,Rennes CH,Hard,32,C,19920224,15,210013,,,Martin Damm Sr,R,188,CZE,19.5,101835,,,Arne Thoms,R,188,GER,21.1,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,120,309
 1992-826,Rennes CH,Hard,32,C,19920224,16,101126,,,Chris Pridham,R,183,CAN,26.8,101234,2,,Patrik Kuhnen,R,190,GER,26.0,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,130,274,98,351
 1992-826,Rennes CH,Hard,32,C,19920224,17,102201,,Q,Lionel Roux,R,185,FRA,18.8,101224,,Q,Kenny Thorne,R,188,USA,26.0,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,529,25,438,38
 1992-826,Rennes CH,Hard,32,C,19920224,18,101147,,,Claudio Mezzadri,R,180,SUI,26.7,101109,,,Tarik Benhabiles,R,175,FRA,27.0,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,126,291,181,180
@@ -146,13 +146,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-826,Rennes CH,Hard,32,C,19920224,21,101945,,,Thierry Guardiola,R,188,FRA,20.5,101647,6,,Byron Black,R,175,ZIM,22.3,7-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,,148,239,114,315
 1992-826,Rennes CH,Hard,32,C,19920224,22,101373,3,,Karsten Braasch,L,180,GER,24.6,101660,,,Francisco Montana,R,183,USA,22.3,2-6 6-0 7-6,3,R16,,,,,,,,,,,,,,,,,,,,102,343,142,243
 1992-826,Rennes CH,Hard,32,C,19920224,23,101337,7,,Martin Strelba,R,190,CZE,24.9,101338,,WC,Olivier Soules,R,188,FRA,24.9,5-7 6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,116,314,159,212
-1992-826,Rennes CH,Hard,32,C,19920224,24,210013,,,Martin Damm Sr,R,188,CZE,19.5,101126,,,Chris Pridham,R,183,CAN,26.8,3-6 6-2 7-6,3,R16,,,,,,,,,,,,,,,,,,,,127,282,130,274
+1992-826,Rennes CH,Hard,32,C,19920224,24,210013,,,Martin Damm Sr,R,188,CZE,19.5,101126,,,Chris Pridham,R,183,CAN,26.8,3-6 6-2 7-6,3,R16,,,,,,,,,,,,,,,,,,,,,,130,274
 1992-826,Rennes CH,Hard,32,C,19920224,25,102201,,Q,Lionel Roux,R,185,FRA,18.8,101147,,,Claudio Mezzadri,R,180,SUI,26.7,6-7 6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,529,25,126,291
 1992-826,Rennes CH,Hard,32,C,19920224,26,101685,5,,Markus Naewie,R,190,GER,22.1,101955,,,Luis Herrera,L,170,MEX,20.4,3-6 6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,109,320,132,271
 1992-826,Rennes CH,Hard,32,C,19920224,27,101373,3,,Karsten Braasch,L,180,GER,24.6,101945,,,Thierry Guardiola,R,188,FRA,20.5,6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,102,343,148,239
-1992-826,Rennes CH,Hard,32,C,19920224,28,210013,,,Martin Damm Sr,R,188,CZE,19.5,101337,7,,Martin Strelba,R,190,CZE,24.9,6-7 6-4 7-6,3,QF,,,,,,,,,,,,,,,,,,,,127,282,116,314
+1992-826,Rennes CH,Hard,32,C,19920224,28,210013,,,Martin Damm Sr,R,188,CZE,19.5,101337,7,,Martin Strelba,R,190,CZE,24.9,6-7 6-4 7-6,3,QF,,,,,,,,,,,,,,,,,,,,,,116,314
 1992-826,Rennes CH,Hard,32,C,19920224,29,101685,5,,Markus Naewie,R,190,GER,22.1,102201,,Q,Lionel Roux,R,185,FRA,18.8,6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,109,320,529,25
-1992-826,Rennes CH,Hard,32,C,19920224,30,101373,3,,Karsten Braasch,L,180,GER,24.6,210013,,,Martin Damm Sr,R,188,CZE,19.5,7-6 7-5,3,SF,,,,,,,,,,,,,,,,,,,,102,343,127,282
+1992-826,Rennes CH,Hard,32,C,19920224,30,101373,3,,Karsten Braasch,L,180,GER,24.6,210013,,,Martin Damm Sr,R,188,CZE,19.5,7-6 7-5,3,SF,,,,,,,,,,,,,,,,,,,,102,343,,
 1992-826,Rennes CH,Hard,32,C,19920224,31,101373,3,,Karsten Braasch,L,180,GER,24.6,101685,5,,Markus Naewie,R,190,GER,22.1,6-2 3-6 6-2,3,F,,,,,,,,,,,,,,,,,,,,102,343,109,320
 1992-732,Zaragoza CH,Hard,32,C,19920302,1,101507,1,,Tomas Carbonell,R,178,ESP,23.5,101765,,,Tomas Anzari,R,180,CZE,21.6,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,72,488,138,257
 1992-732,Zaragoza CH,Hard,32,C,19920302,2,101660,,,Francisco Montana,R,183,USA,22.3,101731,,,Nuno Marques,L,190,POR,21.8,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,140,253,169,195
@@ -168,7 +168,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-732,Zaragoza CH,Hard,32,C,19920302,12,101462,4,,Francisco Roig,R,175,ESP,23.9,101460,,WC,Jose Francisco Altur,L,190,ESP,23.9,6-3 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,109,330,174,188
 1992-732,Zaragoza CH,Hard,32,C,19920302,13,101685,7,,Markus Naewie,R,190,GER,22.1,101338,,,Olivier Soules,R,188,FRA,24.9,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,92,381,155,223
 1992-732,Zaragoza CH,Hard,32,C,19920302,14,101484,,,Vladimir Gabrichidze,R,175,GEO,23.7,101279,,Q,Philippe Pech,L,180,FRA,25.5,1-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,170,193,359,56
-1992-732,Zaragoza CH,Hard,32,C,19920302,15,102047,,Q,Pier Gauthier,R,185,FRA,19.8,210013,,,Martin Damm Sr,R,188,CZE,19.5,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,319,70,111,327
+1992-732,Zaragoza CH,Hard,32,C,19920302,15,102047,,Q,Pier Gauthier,R,185,FRA,19.8,210013,,,Martin Damm Sr,R,188,CZE,19.5,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,319,70,,
 1992-732,Zaragoza CH,Hard,32,C,19920302,16,101835,,,Arne Thoms,R,188,GER,21.1,102001,2,,German Lopez,R,193,ESP,20.1,4-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,119,309,77,455
 1992-732,Zaragoza CH,Hard,32,C,19920302,17,101507,1,,Tomas Carbonell,R,178,ESP,23.5,101660,,,Francisco Montana,R,183,USA,22.3,6-3 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,72,488,140,253
 1992-732,Zaragoza CH,Hard,32,C,19920302,18,101616,,Q,Serge Soulie,R,,FRA,22.6,102147,,,Oliver Fernandez,R,175,MEX,19.2,6-3 2-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,327,68,149,237
@@ -229,7 +229,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-211,Tunis CH,Clay,32,C,19920309,11,101945,,,Thierry Guardiola,R,188,FRA,20.5,102147,,,Oliver Fernandez,R,175,MEX,19.2,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,137,263,146,242
 1992-211,Tunis CH,Clay,32,C,19920309,12,102001,3,,German Lopez,R,193,ESP,20.1,101686,,,Franco Davin,L,173,ARG,22.1,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,79,443,96,371
 1992-211,Tunis CH,Clay,32,C,19920309,13,101685,7,,Markus Naewie,R,190,GER,22.1,108489,,WC,Walid Caracci,R,,TUN,,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,89,386,1048,2
-1992-211,Tunis CH,Clay,32,C,19920309,14,210013,,,Martin Damm Sr,R,188,CZE,19.6,101578,,Q,Markus Rackl,L,180,GER,23.0,3-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,128,288,190,160
+1992-211,Tunis CH,Clay,32,C,19920309,14,210013,,,Martin Damm Sr,R,188,CZE,19.6,101578,,Q,Markus Rackl,L,180,GER,23.0,3-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,190,160
 1992-211,Tunis CH,Clay,32,C,19920309,15,101460,,,Jose Francisco Altur,L,190,ESP,23.9,101147,,,Claudio Mezzadri,R,180,SUI,26.7,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,181,176,121,313
 1992-211,Tunis CH,Clay,32,C,19920309,16,101914,2,,Lars Koslowski,R,188,GER,20.7,101109,,WC,Tarik Benhabiles,R,175,FRA,27.0,6-1 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,68,503,172,189
 1992-211,Tunis CH,Clay,32,C,19920309,17,101746,1,,Renzo Furlan,R,175,ITA,21.8,102238,,Q,Alberto Berasategui,R,173,ESP,18.6,6-3 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,53,592,280,88
@@ -238,12 +238,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-211,Tunis CH,Clay,32,C,19920309,20,102223,,WC,Karim Alami,R,185,MAR,18.7,101767,,,Lars Jonsson,R,188,SWE,21.7,3-6 6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,479,31,114,328
 1992-211,Tunis CH,Clay,32,C,19920309,21,101647,,,Byron Black,R,175,ZIM,22.4,101440,6,,Mark Koevermans,R,185,NED,24.0,6-0 7-5,3,R16,,,,,,,,,,,,,,,,,,,,124,306,88,387
 1992-211,Tunis CH,Clay,32,C,19920309,22,102001,3,,German Lopez,R,193,ESP,20.1,101945,,,Thierry Guardiola,R,188,FRA,20.5,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,79,443,137,263
-1992-211,Tunis CH,Clay,32,C,19920309,23,210013,,,Martin Damm Sr,R,188,CZE,19.6,101685,7,,Markus Naewie,R,190,GER,22.1,1-6 6-4 7-6,3,R16,,,,,,,,,,,,,,,,,,,,128,288,89,386
+1992-211,Tunis CH,Clay,32,C,19920309,23,210013,,,Martin Damm Sr,R,188,CZE,19.6,101685,7,,Markus Naewie,R,190,GER,22.1,1-6 6-4 7-6,3,R16,,,,,,,,,,,,,,,,,,,,,,89,386
 1992-211,Tunis CH,Clay,32,C,19920309,24,101460,,,Jose Francisco Altur,L,190,ESP,23.9,101914,2,,Lars Koslowski,R,188,GER,20.7,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,181,176,68,503
 1992-211,Tunis CH,Clay,32,C,19920309,25,101746,1,,Renzo Furlan,R,175,ITA,21.8,101276,8,,Horacio De La Pena,L,180,ARG,25.6,5-7 6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,53,592,91,383
 1992-211,Tunis CH,Clay,32,C,19920309,26,101382,,,Marcelo Filippini,R,178,URU,24.5,102223,,WC,Karim Alami,R,185,MAR,18.7,7-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,105,356,479,31
 1992-211,Tunis CH,Clay,32,C,19920309,27,102001,3,,German Lopez,R,193,ESP,20.1,101647,,,Byron Black,R,175,ZIM,22.4,6-1 2-6 7-6,3,QF,,,,,,,,,,,,,,,,,,,,79,443,124,306
-1992-211,Tunis CH,Clay,32,C,19920309,28,101460,,,Jose Francisco Altur,L,190,ESP,23.9,210013,,,Martin Damm Sr,R,188,CZE,19.6,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,181,176,128,288
+1992-211,Tunis CH,Clay,32,C,19920309,28,101460,,,Jose Francisco Altur,L,190,ESP,23.9,210013,,,Martin Damm Sr,R,188,CZE,19.6,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,181,176,,
 1992-211,Tunis CH,Clay,32,C,19920309,29,101382,,,Marcelo Filippini,R,178,URU,24.5,101746,1,,Renzo Furlan,R,175,ITA,21.8,6-2 1-6 6-2,3,SF,,,,,,,,,,,,,,,,,,,,105,356,53,592
 1992-211,Tunis CH,Clay,32,C,19920309,30,101460,,,Jose Francisco Altur,L,190,ESP,23.9,102001,3,,German Lopez,R,193,ESP,20.1,7-5 6-3,3,SF,,,,,,,,,,,,,,,,,,,,181,176,79,443
 1992-211,Tunis CH,Clay,32,C,19920309,31,101382,,,Marcelo Filippini,R,178,URU,24.5,101460,,,Jose Francisco Altur,L,190,ESP,23.9,6-4 6-2,3,F,,,,,,,,,,,,,,,,,,,,105,356,181,176
@@ -252,7 +252,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-202,Agadir CH,Clay,32,C,19920323,3,101338,,,Olivier Soules,R,188,FRA,24.9,101797,,,Jacco Eltingh,R,188,NED,21.5,5-7 7-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,153,223,94,376
 1992-202,Agadir CH,Clay,32,C,19920323,4,101866,,Q,David Rikl,L,178,CZE,21.0,101243,7,,Roberto Azar,L,185,ARG,26.0,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,198,154,84,421
 1992-202,Agadir CH,Clay,32,C,19920323,5,101440,,,Mark Koevermans,R,185,NED,24.1,101719,4,,Frederic Fontang,R,183,FRA,22.0,6-3 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,82,426,64,538
-1992-202,Agadir CH,Clay,32,C,19920323,6,101421,,,Veli Paloheimo,R,183,FIN,24.2,210013,,,Martin Damm Sr,R,188,CZE,19.6,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,99,363,122,309
+1992-202,Agadir CH,Clay,32,C,19920323,6,101421,,,Veli Paloheimo,R,183,FIN,24.2,210013,,,Martin Damm Sr,R,188,CZE,19.6,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,99,363,,
 1992-202,Agadir CH,Clay,32,C,19920323,7,101462,,,Francisco Roig,R,175,ESP,23.9,101685,,,Markus Naewie,R,190,GER,22.2,7-5 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,103,352,92,392
 1992-202,Agadir CH,Clay,32,C,19920323,8,102001,6,,German Lopez,R,193,ESP,20.2,101659,,,Jan Apell,L,183,SWE,22.3,3-6 7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,61,551,138,265
 1992-202,Agadir CH,Clay,32,C,19920323,9,101767,,,Lars Jonsson,R,188,SWE,21.7,101914,5,,Lars Koslowski,R,188,GER,20.8,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,109,338,69,512
@@ -502,7 +502,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-333,Taipei CH,Hard,32,C,19920427,5,100529,3,,Kevin Curren,R,185,USA,34.1,100978,,,Andrew Castle,R,190,GBR,28.4,1-6 6-2 7-6,3,R32,,,,,,,,,,,,,,,,,,,,93,392,197,153
 1992-333,Taipei CH,Hard,32,C,19920427,6,101106,,,Peter Lundgren,R,185,SWE,27.2,101681,,,Chris Wilkinson,R,180,GBR,22.3,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,134,271,157,223
 1992-333,Taipei CH,Hard,32,C,19920427,7,101123,,,Alexander Mronz,R,188,GER,27.0,102154,,,Marcos Ondruska,R,183,RSA,19.3,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,122,304,139,249
-1992-333,Taipei CH,Hard,32,C,19920427,8,210013,6,,Martin Damm Sr,R,188,CZE,19.7,101413,,WC,Felix Barrientos,R,178,PHI,24.4,7-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,111,331,560,23
+1992-333,Taipei CH,Hard,32,C,19920427,8,210013,6,,Martin Damm Sr,R,188,CZE,19.7,101413,,WC,Felix Barrientos,R,178,PHI,24.4,7-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,560,23
 1992-333,Taipei CH,Hard,32,C,19920427,9,102226,,Q,David Witt,R,190,USA,18.9,101500,5,,Christian Saceanu,R,190,GER,23.8,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,362,56,109,337
 1992-333,Taipei CH,Hard,32,C,19920427,10,102257,,Q,Greg Rusedski,L,193,GBR,18.6,102110,,,Daniel Nestor,L,190,CAN,19.6,6-3 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,209,148,232,125
 1992-333,Taipei CH,Hard,32,C,19920427,11,101776,,,Sandon Stolle,R,193,AUS,21.7,102119,,WC,Chih Jung Chen,R,,TPE,19.5,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,128,278,1115,1
@@ -514,7 +514,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-333,Taipei CH,Hard,32,C,19920427,17,100837,,,Jeremy Bates,R,180,GBR,29.8,102158,,Q,Patrick Rafter,R,185,AUS,19.3,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,144,242,299,77
 1992-333,Taipei CH,Hard,32,C,19920427,18,101096,8,,Gary Muller,L,190,RSA,27.3,101133,,,Patrick Baur,R,188,GER,26.9,6-4 4-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,,113,326,143,244
 1992-333,Taipei CH,Hard,32,C,19920427,19,101106,,,Peter Lundgren,R,185,SWE,27.2,100529,3,,Kevin Curren,R,185,USA,34.1,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,134,271,93,392
-1992-333,Taipei CH,Hard,32,C,19920427,20,101123,,,Alexander Mronz,R,188,GER,27.0,210013,6,,Martin Damm Sr,R,188,CZE,19.7,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,122,304,111,331
+1992-333,Taipei CH,Hard,32,C,19920427,20,101123,,,Alexander Mronz,R,188,GER,27.0,210013,6,,Martin Damm Sr,R,188,CZE,19.7,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,122,304,,
 1992-333,Taipei CH,Hard,32,C,19920427,21,102257,,Q,Greg Rusedski,L,193,GBR,18.6,102226,,Q,David Witt,R,190,USA,18.9,6-3 7-6,3,R16,,,,,,,,,,,,,,,,,,,,209,148,362,56
 1992-333,Taipei CH,Hard,32,C,19920427,22,101776,,,Sandon Stolle,R,193,AUS,21.7,101703,,,Guillaume Raoux,R,180,FRA,22.1,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,128,278,121,307
 1992-333,Taipei CH,Hard,32,C,19920427,23,101234,7,,Patrik Kuhnen,R,190,GER,26.2,100713,,,John Fitzgerald,R,183,AUS,31.3,7-5 4-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,99,366,119,309
@@ -756,7 +756,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-700,Turin CH,Clay,32,C,19920601,11,101696,,WC,Federico Mordegan,R,170,ITA,22.3,101862,,Q,Maurice Ruah,R,178,VEN,21.2,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,378,52,234,122
 1992-700,Turin CH,Clay,32,C,19920601,12,101460,,,Jose Francisco Altur,L,190,ESP,24.1,101719,3,,Frederic Fontang,R,183,FRA,22.1,1-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,130,273,63,576
 1992-700,Turin CH,Clay,32,C,19920601,13,101660,,,Francisco Montana,R,183,USA,22.5,101685,7,,Markus Naewie,R,190,GER,22.3,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,107,347,80,494
-1992-700,Turin CH,Clay,32,C,19920601,14,210013,,,Martin Damm Sr,R,188,CZE,19.8,101031,,,Massimo Cierro,R,173,ITA,28.0,7-6 0-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,113,326,140,248
+1992-700,Turin CH,Clay,32,C,19920601,14,210013,,,Martin Damm Sr,R,188,CZE,19.8,101031,,,Massimo Cierro,R,173,ITA,28.0,7-6 0-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,140,248
 1992-700,Turin CH,Clay,32,C,19920601,15,101961,,,Martin Stringari,R,188,ARG,20.7,101647,,,Byron Black,R,175,ZIM,22.6,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,165,199,100,361
 1992-700,Turin CH,Clay,32,C,19920601,16,101686,2,,Franco Davin,L,173,ARG,22.3,101421,,,Veli Paloheimo,R,183,FIN,24.4,4-6 6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,62,578,159,214
 1992-700,Turin CH,Clay,32,C,19920601,17,101746,1,,Renzo Furlan,R,175,ITA,22.0,101124,,,Paolo Cane,R,180,ITA,27.1,2-6 7-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,56,590,151,220
@@ -765,7 +765,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-700,Turin CH,Clay,32,C,19920601,20,102374,,,Alex Corretja,R,180,ESP,18.1,100995,,,Eduardo Masso,L,178,BEL,28.3,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,162,211,111,328
 1992-700,Turin CH,Clay,32,C,19920601,21,102212,,WC,Corrado Borroni,R,185,ITA,19.0,102238,,,Alberto Berasategui,R,173,ESP,18.9,6-3 7-6,3,R16,,,,,,,,,,,,,,,,,,,,490,29,173,187
 1992-700,Turin CH,Clay,32,C,19920601,22,101460,,,Jose Francisco Altur,L,190,ESP,24.1,101696,,WC,Federico Mordegan,R,170,ITA,22.3,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,130,273,378,52
-1992-700,Turin CH,Clay,32,C,19920601,23,101660,,,Francisco Montana,R,183,USA,22.5,210013,,,Martin Damm Sr,R,188,CZE,19.8,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,107,347,113,326
+1992-700,Turin CH,Clay,32,C,19920601,23,101660,,,Francisco Montana,R,183,USA,22.5,210013,,,Martin Damm Sr,R,188,CZE,19.8,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,107,347,,
 1992-700,Turin CH,Clay,32,C,19920601,24,101686,2,,Franco Davin,L,173,ARG,22.3,101961,,,Martin Stringari,R,188,ARG,20.7,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,62,578,165,199
 1992-700,Turin CH,Clay,32,C,19920601,25,101746,1,,Renzo Furlan,R,175,ITA,22.0,101276,,Q,Horacio De La Pena,L,180,ARG,25.8,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,56,590,122,291
 1992-700,Turin CH,Clay,32,C,19920601,26,102374,,,Alex Corretja,R,180,ESP,18.1,101463,,,Bernd Karbacher,R,185,GER,24.1,3-6 6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,162,211,104,350
@@ -2049,7 +2049,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-395,Dublin CH,Hard,32,C,19921005,2,101681,,,Chris Wilkinson,R,180,GBR,22.7,101659,,,Jan Apell,L,183,SWE,22.9,2-6 7-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,179,189,165,211
 1992-395,Dublin CH,Hard,32,C,19921005,3,101783,,,Mark Petchey,R,183,GBR,22.1,101143,,,Branislav Stankovic,R,175,SVK,27.3,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,232,120,262,99
 1992-395,Dublin CH,Hard,32,C,19921005,4,101500,8,,Christian Saceanu,R,190,GER,24.2,101792,,,Slava Dosedel,R,183,CZE,22.1,6-3 7-6,3,R32,,,,,,,,,,,,,,,,,,,,161,227,171,197
-1992-395,Dublin CH,Hard,32,C,19921005,5,210013,3,,Martin Damm Sr,R,188,CZE,20.1,101651,,WC,Owen Casey,R,,IRL,22.9,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,137,287,268,93
+1992-395,Dublin CH,Hard,32,C,19921005,5,210013,3,,Martin Damm Sr,R,188,CZE,20.1,101651,,WC,Owen Casey,R,,IRL,22.9,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,268,93
 1992-395,Dublin CH,Hard,32,C,19921005,6,101864,,,Fernon Wibier,R,188,NED,21.6,101552,,,Xavier Daufresne,R,193,BEL,23.7,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,183,185,200,162
 1992-395,Dublin CH,Hard,32,C,19921005,7,101917,,,Grant Stafford,R,188,RSA,21.3,101207,,,Michael Daniel,R,188,ISR,26.8,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,202,160,231,120
 1992-395,Dublin CH,Hard,32,C,19921005,8,101945,5,,Thierry Guardiola,R,188,FRA,21.1,101262,,Q,Rikard Bergh,L,188,SWE,26.3,6-3 1-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,140,277,742,8
@@ -2063,19 +2063,19 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-395,Dublin CH,Hard,32,C,19921005,16,101835,2,,Arne Thoms,R,188,GER,21.7,101365,,Q,Paul Wekesa,R,188,KEN,25.2,7-6 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,120,337,554,21
 1992-395,Dublin CH,Hard,32,C,19921005,17,101681,,,Chris Wilkinson,R,180,GBR,22.7,101482,1,,Markus Zoecke,R,196,GER,24.4,6-2 4-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,179,189,82,468
 1992-395,Dublin CH,Hard,32,C,19921005,18,101500,8,,Christian Saceanu,R,190,GER,24.2,101783,,,Mark Petchey,R,183,GBR,22.1,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,161,227,232,120
-1992-395,Dublin CH,Hard,32,C,19921005,19,210013,3,,Martin Damm Sr,R,188,CZE,20.1,101864,,,Fernon Wibier,R,188,NED,21.6,6-7 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,137,287,183,185
+1992-395,Dublin CH,Hard,32,C,19921005,19,210013,3,,Martin Damm Sr,R,188,CZE,20.1,101864,,,Fernon Wibier,R,188,NED,21.6,6-7 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,183,185
 1992-395,Dublin CH,Hard,32,C,19921005,20,101917,,,Grant Stafford,R,188,RSA,21.3,101945,5,,Thierry Guardiola,R,188,FRA,21.1,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,202,160,140,277
 1992-395,Dublin CH,Hard,32,C,19921005,21,101332,6,,Gilad Bloom,L,173,ISR,25.5,102187,,Q,John Laffnie De Jager,R,193,RSA,19.5,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,141,275,350,56
 1992-395,Dublin CH,Hard,32,C,19921005,22,101123,4,,Alexander Mronz,R,188,GER,27.4,101492,,,Sander Groen,L,190,NED,24.3,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,139,279,254,104
 1992-395,Dublin CH,Hard,32,C,19921005,23,101668,,,Peter Nyborg,R,190,SWE,22.8,101565,,Q,Marius Barnard,R,188,RSA,23.7,6-4 6-7 6-3,3,R16,,,,,,,,,,,,,,,,,,,,222,140,442,38
 1992-395,Dublin CH,Hard,32,C,19921005,24,101835,2,,Arne Thoms,R,188,GER,21.7,101849,,,Nicola Bruno,R,178,ITA,21.6,7-6 3-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,120,337,217,144
 1992-395,Dublin CH,Hard,32,C,19921005,25,101500,8,,Christian Saceanu,R,190,GER,24.2,101681,,,Chris Wilkinson,R,180,GBR,22.7,6-0 6-4,3,QF,,,,,,,,,,,,,,,,,,,,161,227,179,189
-1992-395,Dublin CH,Hard,32,C,19921005,26,210013,3,,Martin Damm Sr,R,188,CZE,20.1,101917,,,Grant Stafford,R,188,RSA,21.3,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,137,287,202,160
+1992-395,Dublin CH,Hard,32,C,19921005,26,210013,3,,Martin Damm Sr,R,188,CZE,20.1,101917,,,Grant Stafford,R,188,RSA,21.3,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,202,160
 1992-395,Dublin CH,Hard,32,C,19921005,27,101123,4,,Alexander Mronz,R,188,GER,27.4,101332,6,,Gilad Bloom,L,173,ISR,25.5,6-3 1-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,139,279,141,275
 1992-395,Dublin CH,Hard,32,C,19921005,28,101835,2,,Arne Thoms,R,188,GER,21.7,101668,,,Peter Nyborg,R,190,SWE,22.8,6-4 6-7 6-2,3,QF,,,,,,,,,,,,,,,,,,,,120,337,222,140
-1992-395,Dublin CH,Hard,32,C,19921005,29,210013,3,,Martin Damm Sr,R,188,CZE,20.1,101500,8,,Christian Saceanu,R,190,GER,24.2,4-6 7-5 6-3,3,SF,,,,,,,,,,,,,,,,,,,,137,287,161,227
+1992-395,Dublin CH,Hard,32,C,19921005,29,210013,3,,Martin Damm Sr,R,188,CZE,20.1,101500,8,,Christian Saceanu,R,190,GER,24.2,4-6 7-5 6-3,3,SF,,,,,,,,,,,,,,,,,,,,,,161,227
 1992-395,Dublin CH,Hard,32,C,19921005,30,101835,2,,Arne Thoms,R,188,GER,21.7,101123,4,,Alexander Mronz,R,188,GER,27.4,7-6 7-6,3,SF,,,,,,,,,,,,,,,,,,,,120,337,139,279
-1992-395,Dublin CH,Hard,32,C,19921005,31,210013,3,,Martin Damm Sr,R,188,CZE,20.1,101835,2,,Arne Thoms,R,188,GER,21.7,6-3 6-2,3,F,,,,,,,,,,,,,,,,,,,,137,287,120,337
+1992-395,Dublin CH,Hard,32,C,19921005,31,210013,3,,Martin Damm Sr,R,188,CZE,20.1,101835,2,,Arne Thoms,R,188,GER,21.7,6-3 6-2,3,F,,,,,,,,,,,,,,,,,,,,,,120,337
 1992-839,Ixtapa CH,Hard,32,C,19921005,1,101955,,,Luis Herrera,L,170,MEX,21.1,101926,,,Andrei Merinov,L,183,RUS,21.2,7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,83,466,234,118
 1992-839,Ixtapa CH,Hard,32,C,19921005,2,102226,,Q,David Witt,R,190,USA,19.3,101672,,,Michael Geserer,R,190,GER,22.8,6-3 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,512,27,230,123
 1992-839,Ixtapa CH,Hard,32,C,19921005,3,101711,,,Alex Obrien,R,185,USA,22.5,101888,,,Daniel Vacek,R,190,CZE,21.5,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,138,281,164,218
@@ -2325,7 +2325,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-453,Brest CH,Hard,32,C,19921026,30,101463,2,,Bernd Karbacher,R,185,GER,24.5,101601,,,Brett Steven,R,185,NZL,23.4,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,53,644,111,371
 1992-453,Brest CH,Hard,32,C,19921026,31,102154,,,Marcos Ondruska,R,183,RSA,19.8,101463,2,,Bernd Karbacher,R,185,GER,24.5,5-7 6-3 6-0,3,F,,,,,,,,,,,,,,,,,,,,96,435,53,644
 1992-824,Aachen CH,Carpet,32,C,19921102,1,101463,1,,Bernd Karbacher,R,185,GER,24.5,101484,,,Vladimir Gabrichidze,R,175,GEO,24.4,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,46,702,161,235
-1992-824,Aachen CH,Carpet,32,C,19921102,2,210013,,,Martin Damm Sr,R,188,CZE,20.2,101373,,,Karsten Braasch,L,180,GER,25.3,4-6 7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,118,350,114,359
+1992-824,Aachen CH,Carpet,32,C,19921102,2,210013,,,Martin Damm Sr,R,188,CZE,20.2,101373,,,Karsten Braasch,L,180,GER,25.3,4-6 7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,114,359
 1992-824,Aachen CH,Carpet,32,C,19921102,3,101500,,,Christian Saceanu,R,190,GER,24.3,101123,,,Alexander Mronz,R,188,GER,27.5,3-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,134,308,159,240
 1992-824,Aachen CH,Carpet,32,C,19921102,4,101441,,WC,Martin Sinner,R,180,GER,24.7,101482,8,,Markus Zoecke,R,196,GER,24.4,7-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,260,100,102,401
 1992-824,Aachen CH,Carpet,32,C,19921102,5,101362,,,Stephane Simian,L,193,FRA,25.4,101030,4,,Goran Prpic,R,180,CRO,28.4,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,121,342,65,551
@@ -2340,7 +2340,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-824,Aachen CH,Carpet,32,C,19921102,14,101337,,,Martin Strelba,R,190,CZE,25.6,102478,,WC,Jorg Schors,R,,GER,17.9,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,120,343,1115,1
 1992-824,Aachen CH,Carpet,32,C,19921102,15,100870,,,Christo Van Rensburg,R,185,RSA,30.0,101226,,Q,Johan Carlsson,R,183,SWE,26.7,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,108,383,250,111
 1992-824,Aachen CH,Carpet,32,C,19921102,16,101298,2,,Jonas Svensson,R,188,SWE,26.0,101873,,Q,Valentin Frieden,R,,SUI,21.6,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,103,400,383,49
-1992-824,Aachen CH,Carpet,32,C,19921102,17,210013,,,Martin Damm Sr,R,188,CZE,20.2,101463,1,,Bernd Karbacher,R,185,GER,24.5,4-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,118,350,46,702
+1992-824,Aachen CH,Carpet,32,C,19921102,17,210013,,,Martin Damm Sr,R,188,CZE,20.2,101463,1,,Bernd Karbacher,R,185,GER,24.5,4-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,46,702
 1992-824,Aachen CH,Carpet,32,C,19921102,18,101441,,WC,Martin Sinner,R,180,GER,24.7,101500,,,Christian Saceanu,R,190,GER,24.3,7-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,,260,100,134,308
 1992-824,Aachen CH,Carpet,32,C,19921102,19,101362,,,Stephane Simian,L,193,FRA,25.4,102154,,,Marcos Ondruska,R,183,RSA,19.8,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,121,342,69,531
 1992-824,Aachen CH,Carpet,32,C,19921102,20,101866,,,David Rikl,L,178,CZE,21.6,101835,,,Arne Thoms,R,188,GER,21.8,7-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,,155,252,106,391
@@ -2348,13 +2348,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-824,Aachen CH,Carpet,32,C,19921102,22,101601,,,Brett Steven,R,185,NZL,23.5,102358,3,,Thomas Enqvist,R,190,SWE,18.6,6-0 7-6,3,R16,,,,,,,,,,,,,,,,,,,,99,422,54,653
 1992-824,Aachen CH,Carpet,32,C,19921102,23,102344,,Q,Karol Kucera,R,188,SVK,18.6,101337,,,Martin Strelba,R,190,CZE,25.6,6-4 3-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,241,116,120,343
 1992-824,Aachen CH,Carpet,32,C,19921102,24,101298,2,,Jonas Svensson,R,188,SWE,26.0,100870,,,Christo Van Rensburg,R,185,RSA,30.0,2-6 6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,103,400,108,383
-1992-824,Aachen CH,Carpet,32,C,19921102,25,210013,,,Martin Damm Sr,R,188,CZE,20.2,101441,,WC,Martin Sinner,R,180,GER,24.7,W/O,3,QF,,,,,,,,,,,,,,,,,,,,118,350,260,100
+1992-824,Aachen CH,Carpet,32,C,19921102,25,210013,,,Martin Damm Sr,R,188,CZE,20.2,101441,,WC,Martin Sinner,R,180,GER,24.7,W/O,3,QF,,,,,,,,,,,,,,,,,,,,,,260,100
 1992-824,Aachen CH,Carpet,32,C,19921102,26,101362,,,Stephane Simian,L,193,FRA,25.4,101866,,,David Rikl,L,178,CZE,21.6,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,121,342,155,252
 1992-824,Aachen CH,Carpet,32,C,19921102,27,101601,,,Brett Steven,R,185,NZL,23.5,101647,,,Byron Black,R,175,ZIM,23.0,7-5 3-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,99,422,146,273
 1992-824,Aachen CH,Carpet,32,C,19921102,28,102344,,Q,Karol Kucera,R,188,SVK,18.6,101298,2,,Jonas Svensson,R,188,SWE,26.0,6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,241,116,103,400
-1992-824,Aachen CH,Carpet,32,C,19921102,29,210013,,,Martin Damm Sr,R,188,CZE,20.2,101362,,,Stephane Simian,L,193,FRA,25.4,6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,118,350,121,342
+1992-824,Aachen CH,Carpet,32,C,19921102,29,210013,,,Martin Damm Sr,R,188,CZE,20.2,101362,,,Stephane Simian,L,193,FRA,25.4,6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,,,121,342
 1992-824,Aachen CH,Carpet,32,C,19921102,30,101601,,,Brett Steven,R,185,NZL,23.5,102344,,Q,Karol Kucera,R,188,SVK,18.6,6-3 6-7 6-3,3,SF,,,,,,,,,,,,,,,,,,,,99,422,241,116
-1992-824,Aachen CH,Carpet,32,C,19921102,31,210013,,,Martin Damm Sr,R,188,CZE,20.2,101601,,,Brett Steven,R,185,NZL,23.5,6-4 7-6,3,F,,,,,,,,,,,,,,,,,,,,118,350,99,422
+1992-824,Aachen CH,Carpet,32,C,19921102,31,210013,,,Martin Damm Sr,R,188,CZE,20.2,101601,,,Brett Steven,R,185,NZL,23.5,6-4 7-6,3,F,,,,,,,,,,,,,,,,,,,,,,99,422
 1992-648,Manila CH,Hard,32,C,19921102,1,101920,1,,Jamie Morgan,R,185,AUS,21.4,101400,,WC,Sofronio Palahang,R,,PHI,25.1,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,96,428,708,10
 1992-648,Manila CH,Hard,32,C,19921102,2,101413,,WC,Felix Barrientos,R,178,PHI,24.9,102277,,Q,Bing Chao Lin,R,180,TPE,19.0,3-6 7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,407,45,285,82
 1992-648,Manila CH,Hard,32,C,19921102,3,101365,,Q,Paul Wekesa,R,188,KEN,25.3,101672,,,Michael Geserer,R,190,GER,22.8,6-4 7-6,3,R32,,,,,,,,,,,,,,,,,,,,507,26,235,123
@@ -2453,7 +2453,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-399,Munich CH,Carpet,32,C,19921109,3,101888,,,Daniel Vacek,R,190,CZE,21.6,102184,,,David Prinosil,R,185,GER,19.6,4-6 7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,133,315,116,351
 1992-399,Munich CH,Carpet,32,C,19921109,4,101835,8,,Arne Thoms,R,188,GER,21.8,102588,,WC,Lars Rehmann,R,196,GER,17.4,6-4 6-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,103,395,1083,2
 1992-399,Munich CH,Carpet,32,C,19921109,5,102154,3,,Marcos Ondruska,R,183,RSA,19.8,102344,,,Karol Kucera,R,188,SVK,18.6,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,67,540,208,157
-1992-399,Munich CH,Carpet,32,C,19921109,6,210013,,,Martin Damm Sr,R,188,CZE,20.2,102516,,WC,Christian Tambue,R,,GER,17.8,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,96,419,,
+1992-399,Munich CH,Carpet,32,C,19921109,6,210013,,,Martin Damm Sr,R,188,CZE,20.2,102516,,WC,Christian Tambue,R,,GER,17.8,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1992-399,Munich CH,Carpet,32,C,19921109,7,101238,,Q,Andres Vysand,R,180,GER,26.6,102533,,Q,Jens Knippschild,R,190,GER,17.7,7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,340,63,430,39
 1992-399,Munich CH,Carpet,32,C,19921109,8,101126,,,Chris Pridham,R,183,CAN,27.5,101582,5,,Gilbert Schaller,R,180,AUT,23.6,7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,126,337,85,452
 1992-399,Munich CH,Carpet,32,C,19921109,9,101601,6,,Brett Steven,R,185,NZL,23.5,101407,,,David Engel,R,180,SWE,25.0,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,79,476,210,156
@@ -2466,14 +2466,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-399,Munich CH,Carpet,32,C,19921109,16,102358,2,,Thomas Enqvist,R,190,SWE,18.6,101873,,Q,Valentin Frieden,R,,SUI,21.6,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,60,626,360,54
 1992-399,Munich CH,Carpet,32,C,19921109,17,101659,,,Jan Apell,L,183,SWE,23.0,102025,,,Mikael Tillstrom,R,185,SWE,20.6,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,155,250,119,343
 1992-399,Munich CH,Carpet,32,C,19921109,18,101888,,,Daniel Vacek,R,190,CZE,21.6,101835,8,,Arne Thoms,R,188,GER,21.8,7-6 3-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,,133,315,103,395
-1992-399,Munich CH,Carpet,32,C,19921109,19,210013,,,Martin Damm Sr,R,188,CZE,20.2,102154,3,,Marcos Ondruska,R,183,RSA,19.8,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,96,419,67,540
+1992-399,Munich CH,Carpet,32,C,19921109,19,210013,,,Martin Damm Sr,R,188,CZE,20.2,102154,3,,Marcos Ondruska,R,183,RSA,19.8,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,67,540
 1992-399,Munich CH,Carpet,32,C,19921109,20,101238,,Q,Andres Vysand,R,180,GER,26.6,101126,,,Chris Pridham,R,183,CAN,27.5,6-3 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,340,63,126,337
 1992-399,Munich CH,Carpet,32,C,19921109,21,101601,6,,Brett Steven,R,185,NZL,23.5,101226,,Q,Johan Carlsson,R,183,SWE,26.7,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,79,476,243,115
 1992-399,Munich CH,Carpet,32,C,19921109,22,101373,,,Karsten Braasch,L,180,GER,25.3,101647,,,Byron Black,R,175,ZIM,23.0,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,114,359,142,293
 1992-399,Munich CH,Carpet,32,C,19921109,23,101298,7,,Jonas Svensson,R,188,SWE,26.0,101123,,,Alexander Mronz,R,188,GER,27.5,7-5 7-6,3,R16,,,,,,,,,,,,,,,,,,,,97,416,171,206
 1992-399,Munich CH,Carpet,32,C,19921109,24,102358,2,,Thomas Enqvist,R,190,SWE,18.6,101866,,,David Rikl,L,178,CZE,21.7,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,60,626,144,274
 1992-399,Munich CH,Carpet,32,C,19921109,25,101888,,,Daniel Vacek,R,190,CZE,21.6,101659,,,Jan Apell,L,183,SWE,23.0,6-1 3-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,133,315,155,250
-1992-399,Munich CH,Carpet,32,C,19921109,26,101238,,Q,Andres Vysand,R,180,GER,26.6,210013,,,Martin Damm Sr,R,188,CZE,20.2,5-7 6-3 7-6,3,QF,,,,,,,,,,,,,,,,,,,,340,63,96,419
+1992-399,Munich CH,Carpet,32,C,19921109,26,101238,,Q,Andres Vysand,R,180,GER,26.6,210013,,,Martin Damm Sr,R,188,CZE,20.2,5-7 6-3 7-6,3,QF,,,,,,,,,,,,,,,,,,,,340,63,,
 1992-399,Munich CH,Carpet,32,C,19921109,27,101601,6,,Brett Steven,R,185,NZL,23.5,101373,,,Karsten Braasch,L,180,GER,25.3,2-6 7-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,79,476,114,359
 1992-399,Munich CH,Carpet,32,C,19921109,28,101298,7,,Jonas Svensson,R,188,SWE,26.0,102358,2,,Thomas Enqvist,R,190,SWE,18.6,7-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,97,416,60,626
 1992-399,Munich CH,Carpet,32,C,19921109,29,101888,,,Daniel Vacek,R,190,CZE,21.6,101238,,Q,Andres Vysand,R,180,GER,26.6,7-5 7-6,3,SF,,,,,,,,,,,,,,,,,,,,133,315,340,63
@@ -2728,7 +2728,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-454,Guangzhou CH,Hard,32,C,19921207,30,101066,2,,Richard Matuszewski,R,188,USA,28.2,102158,,,Patrick Rafter,R,185,AUS,19.9,6-4 7-6,3,SF,,,,,,,,,,,,,,,,,,,,142,297,291,87
 1992-454,Guangzhou CH,Hard,32,C,19921207,31,102233,,LL,Leander Paes,R,178,IND,19.4,101066,2,,Richard Matuszewski,R,188,USA,28.2,6-3 6-3,3,F,,,,,,,,,,,,,,,,,,,,268,103,142,297
 1992-743,Hong Kong CH,Hard,32,C,19921214,1,100752,,,Ramesh Krishnan,R,170,IND,31.5,101500,1,,Christian Saceanu,R,190,GER,24.4,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,223,144,118,359
-1992-743,Hong Kong CH,Hard,32,C,19921214,2,102158,,,Patrick Rafter,R,185,AUS,19.9,101128,,WC,Michael Walker,L,183,HKG,27.6,3-6 6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,255,112,662,13
+1992-743,Hong Kong CH,Hard,32,C,19921214,2,102158,,,Patrick Rafter,R,185,AUS,19.9,108831,,WC,Michael Walker,U,,HKG,26.6,3-6 6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,255,112,662,13
 1992-743,Hong Kong CH,Hard,32,C,19921214,3,101432,,,Dimitri Poliakov,R,183,UKR,24.9,101459,,,Tomas Nydahl,R,185,SWE,24.7,6-4 2-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,220,147,199,175
 1992-743,Hong Kong CH,Hard,32,C,19921214,4,102233,,,Leander Paes,R,178,IND,19.4,101227,7,,Daniel Marco,R,178,ESP,26.8,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,209,156,189,188
 1992-743,Hong Kong CH,Hard,32,C,19921214,5,102235,4,,Tommy Ho,L,183,USA,19.4,101477,,,Chris Bailey,R,196,GBR,24.6,6-3 7-6,3,R32,,,,,,,,,,,,,,,,,,,,164,234,243,123

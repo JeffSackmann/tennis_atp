@@ -1163,7 +1163,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-PHI-01A-1992a,Philippines Masters 1,Clay,32,S,19920224,2,101551,,,Carlos Gomez Diaz,R,,ARG,23.1,102263,,Q,Yong Il Yoon,R,175,KOR,18.4,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,803,7,,
 1992-M-SA-PHI-01A-1992a,Philippines Masters 1,Clay,32,S,19920224,3,101893,,Q,Patrick Mohr,R,178,SUI,20.8,122967,,Q,Mattias Frisk,R,,SWE,20.6,3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1992-M-SA-PHI-01A-1992a,Philippines Masters 1,Clay,32,S,19920224,4,101400,,LL,Sofronio Palahang,R,,PHI,24.4,101480,,,Jake Martyn,R,,GBR,23.8,7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,829,6
-1992-M-SA-PHI-01A-1992a,Philippines Masters 1,Clay,32,S,19920224,5,108297,,,Stephane Andriolo,R,,FRA,20.3,108831,3,,Michael Walker,U,,HKG,25.8,6-4 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,919,4,,
+1992-M-SA-PHI-01A-1992a,Philippines Masters 1,Clay,32,S,19920224,5,108297,,,Stephane Andriolo,R,,FRA,20.3,108831,3,,Michael Walker,U,,HKG,25.8,6-4 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,919,4,555,23
 1992-M-SA-PHI-01A-1992a,Philippines Masters 1,Clay,32,S,19920224,6,101882,,LL,Chang Hee Park,R,,KOR,20.9,108114,,,Robert Kresberg,R,,USA,,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,961,4,715,11
 1992-M-SA-PHI-01A-1992a,Philippines Masters 1,Clay,32,S,19920224,7,108251,,,Shigefusa Kanroji,R,,JPN,24.7,101769,,,Paul Ricar,R,,GER,21.6,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,853,6,710,11
 1992-M-SA-PHI-01A-1992a,Philippines Masters 1,Clay,32,S,19920224,8,108420,5,,Tom Toomey,R,,USA,27.8,108147,,,Rodrigo Faria,R,,BRA,,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,557,23,788,8
@@ -1194,7 +1194,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-PHI-01A-1992b,Philippines Masters 2,Clay,32,S,19920224,2,108114,,,Robert Kresberg,R,,USA,,108147,,,Rodrigo Faria,R,,BRA,,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,715,11,788,8
 1992-M-SA-PHI-01A-1992b,Philippines Masters 2,Clay,32,S,19920224,3,102212,,,Corrado Borroni,R,185,ITA,18.8,102263,,Q,Yong Il Yoon,R,175,KOR,18.4,6-4 7-6,3,R32,,,,,,,,,,,,,,,,,,,,961,4,,
 1992-M-SA-PHI-01A-1992b,Philippines Masters 2,Clay,32,S,19920224,4,108161,7,,Roland So,R,,PHI,25.6,123299,,Q,Mickey Maule,U,,USA,23.3,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,686,13,1122,1
-1992-M-SA-PHI-01A-1992b,Philippines Masters 2,Clay,32,S,19920224,5,108831,3,,Michael Walker,U,,HKG,25.8,122967,,,Mattias Frisk,R,,SWE,20.6,7-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1992-M-SA-PHI-01A-1992b,Philippines Masters 2,Clay,32,S,19920224,5,108831,3,,Michael Walker,U,,HKG,25.8,122967,,,Mattias Frisk,R,,SWE,20.6,7-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,555,23,,
 1992-M-SA-PHI-01A-1992b,Philippines Masters 2,Clay,32,S,19920224,6,101882,,Q,Chang Hee Park,R,,KOR,20.9,102284,,,Filippo Messori,R,173,ITA,18.2,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,961,4,689,12
 1992-M-SA-PHI-01A-1992b,Philippines Masters 2,Clay,32,S,19920224,7,102533,,,Jens Knippschild,R,190,GER,17.0,107067,,,Gavin Pfitzner,R,,AUS,,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,776,8,740,10
 1992-M-SA-PHI-01A-1992b,Philippines Masters 2,Clay,32,S,19920224,8,108251,,,Shigefusa Kanroji,R,,JPN,24.7,102418,6,,Carlo Santoro,R,,ITA,17.6,2-6 6-4 3-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,853,6,624,17
@@ -1208,24 +1208,24 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-PHI-01A-1992b,Philippines Masters 2,Clay,32,S,19920224,16,101563,,WC,Joseph Lizardo,R,,PHI,23.1,107708,2,,Marko Srdanovic,R,,CRO,,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,488,30
 1992-M-SA-PHI-01A-1992b,Philippines Masters 2,Clay,32,S,19920224,17,101893,,Q,Patrick Mohr,R,178,SUI,20.8,108114,,,Robert Kresberg,R,,USA,,4-6 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,715,11
 1992-M-SA-PHI-01A-1992b,Philippines Masters 2,Clay,32,S,19920224,18,108161,7,,Roland So,R,,PHI,25.6,102212,,,Corrado Borroni,R,185,ITA,18.8,6-3 4-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,686,13,961,4
-1992-M-SA-PHI-01A-1992b,Philippines Masters 2,Clay,32,S,19920224,19,108831,3,,Michael Walker,U,,HKG,25.8,101882,,Q,Chang Hee Park,R,,KOR,20.9,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,961,4
+1992-M-SA-PHI-01A-1992b,Philippines Masters 2,Clay,32,S,19920224,19,108831,3,,Michael Walker,U,,HKG,25.8,101882,,Q,Chang Hee Park,R,,KOR,20.9,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,555,23,961,4
 1992-M-SA-PHI-01A-1992b,Philippines Masters 2,Clay,32,S,19920224,20,108251,,,Shigefusa Kanroji,R,,JPN,24.7,102533,,,Jens Knippschild,R,190,GER,17.0,6-4 3-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,853,6,776,8
 1992-M-SA-PHI-01A-1992b,Philippines Masters 2,Clay,32,S,19920224,21,102348,,Q,Hideki Kaneko,R,,JPN,17.9,102007,,Q,Xin Xu,R,,CHN,20.1,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1122,1,,
 1992-M-SA-PHI-01A-1992b,Philippines Masters 2,Clay,32,S,19920224,22,101906,4,,Yasufumi Yamamoto,R,175,JPN,20.8,101769,,,Paul Ricar,R,,GER,21.6,6-1 7-6,3,R16,,,,,,,,,,,,,,,,,,,,557,23,710,11
 1992-M-SA-PHI-01A-1992b,Philippines Masters 2,Clay,32,S,19920224,23,101551,,,Carlos Gomez Diaz,R,,ARG,23.1,107629,,Q,Manuel Tolentino,R,,PHI,25.9,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,803,7,,
 1992-M-SA-PHI-01A-1992b,Philippines Masters 2,Clay,32,S,19920224,24,101563,,WC,Joseph Lizardo,R,,PHI,23.1,106819,,,Danilo Pila,R,,PHI,31.4,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,864,5
 1992-M-SA-PHI-01A-1992b,Philippines Masters 2,Clay,32,S,19920224,25,101893,,Q,Patrick Mohr,R,178,SUI,20.8,108161,7,,Roland So,R,,PHI,25.6,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,686,13
-1992-M-SA-PHI-01A-1992b,Philippines Masters 2,Clay,32,S,19920224,26,108831,3,,Michael Walker,U,,HKG,25.8,108251,,,Shigefusa Kanroji,R,,JPN,24.7,6-2 7-5,3,QF,,,,,,,,,,,,,,,,,,,,,,853,6
+1992-M-SA-PHI-01A-1992b,Philippines Masters 2,Clay,32,S,19920224,26,108831,3,,Michael Walker,U,,HKG,25.8,108251,,,Shigefusa Kanroji,R,,JPN,24.7,6-2 7-5,3,QF,,,,,,,,,,,,,,,,,,,,555,23,853,6
 1992-M-SA-PHI-01A-1992b,Philippines Masters 2,Clay,32,S,19920224,27,101906,4,,Yasufumi Yamamoto,R,175,JPN,20.8,102348,,Q,Hideki Kaneko,R,,JPN,17.9,6-4 7-6,3,QF,,,,,,,,,,,,,,,,,,,,557,23,1122,1
 1992-M-SA-PHI-01A-1992b,Philippines Masters 2,Clay,32,S,19920224,28,101551,,,Carlos Gomez Diaz,R,,ARG,23.1,101563,,WC,Joseph Lizardo,R,,PHI,23.1,4-6 6-3 7-6,3,QF,,,,,,,,,,,,,,,,,,,,803,7,,
-1992-M-SA-PHI-01A-1992b,Philippines Masters 2,Clay,32,S,19920224,29,108831,3,,Michael Walker,U,,HKG,25.8,101893,,Q,Patrick Mohr,R,178,SUI,20.8,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1992-M-SA-PHI-01A-1992b,Philippines Masters 2,Clay,32,S,19920224,29,108831,3,,Michael Walker,U,,HKG,25.8,101893,,Q,Patrick Mohr,R,178,SUI,20.8,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,555,23,,
 1992-M-SA-PHI-01A-1992b,Philippines Masters 2,Clay,32,S,19920224,30,101551,,,Carlos Gomez Diaz,R,,ARG,23.1,101906,4,,Yasufumi Yamamoto,R,175,JPN,20.8,6-1 7-5,3,SF,,,,,,,,,,,,,,,,,,,,803,7,557,23
-1992-M-SA-PHI-01A-1992b,Philippines Masters 2,Clay,32,S,19920224,31,108831,3,,Michael Walker,U,,HKG,25.8,101551,,,Carlos Gomez Diaz,R,,ARG,23.1,6-3 5-7 7-6,3,F,,,,,,,,,,,,,,,,,,,,,,803,7
+1992-M-SA-PHI-01A-1992b,Philippines Masters 2,Clay,32,S,19920224,31,108831,3,,Michael Walker,U,,HKG,25.8,101551,,,Carlos Gomez Diaz,R,,ARG,23.1,6-3 5-7 7-6,3,F,,,,,,,,,,,,,,,,,,,,555,23,803,7
 1992-M-SA-PHI-01A-1992c,Philippines Masters 3,Clay,32,S,19920224,1,101400,,,Sofronio Palahang,R,,PHI,24.4,101893,1,,Patrick Mohr,R,178,SUI,20.8,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1992-M-SA-PHI-01A-1992c,Philippines Masters 3,Clay,32,S,19920224,2,107708,,,Marko Srdanovic,R,,CRO,,108556,,Q,Yasushi Morishita,R,,JPN,,4-6 6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,488,30,890,5
 1992-M-SA-PHI-01A-1992c,Philippines Masters 3,Clay,32,S,19920224,3,102418,,,Carlo Santoro,R,,ITA,17.6,122967,,Q,Mattias Frisk,R,,SWE,20.6,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,624,17,,
 1992-M-SA-PHI-01A-1992c,Philippines Masters 3,Clay,32,S,19920224,4,101882,7,,Chang Hee Park,R,,KOR,20.9,101413,,,Felix Barrientos,R,178,PHI,24.2,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,961,4,257,102
-1992-M-SA-PHI-01A-1992c,Philippines Masters 3,Clay,32,S,19920224,5,102263,,Q,Yong Il Yoon,R,175,KOR,18.4,108831,3,,Michael Walker,U,,HKG,25.8,7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1992-M-SA-PHI-01A-1992c,Philippines Masters 3,Clay,32,S,19920224,5,102263,,Q,Yong Il Yoon,R,175,KOR,18.4,108831,3,,Michael Walker,U,,HKG,25.8,7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,555,23
 1992-M-SA-PHI-01A-1992c,Philippines Masters 3,Clay,32,S,19920224,6,101557,,Q,Jeff Chiang,R,,USA,23.1,123387,,WC,Arius Alcaraz,U,,PHI,19.4,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1122,1,,
 1992-M-SA-PHI-01A-1992c,Philippines Masters 3,Clay,32,S,19920224,7,101781,,WC,Robert Angelo,R,,PHI,21.5,102348,,,Hideki Kaneko,R,,JPN,17.9,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1122,1
 1992-M-SA-PHI-01A-1992c,Philippines Masters 3,Clay,32,S,19920224,8,101906,5,,Yasufumi Yamamoto,R,175,JPN,20.8,102284,,Q,Filippo Messori,R,173,ITA,18.2,4-6 7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,557,23,689,12
@@ -1263,7 +1263,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-PHI-01A-1992d,Philippines Masters 4,Clay,24,S,19920224,9,101906,1,,Yasufumi Yamamoto,R,175,JPN,20.8,102418,,,Carlo Santoro,R,,ITA,17.6,6-2 7-6,3,R16,,,,,,,,,,,,,,,,,,,,557,23,624,17
 1992-M-SA-PHI-01A-1992d,Philippines Masters 4,Clay,24,S,19920224,10,101796,7,,Silvio Scaiola,R,,ITA,21.5,101563,,,Joseph Lizardo,R,,PHI,23.1,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,986,3,,
 1992-M-SA-PHI-01A-1992d,Philippines Masters 4,Clay,24,S,19920224,11,101551,4,,Carlos Gomez Diaz,R,,ARG,23.1,107708,,,Marko Srdanovic,R,,CRO,,6-7 6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,803,7,488,30
-1992-M-SA-PHI-01A-1992d,Philippines Masters 4,Clay,24,S,19920224,12,102348,,,Hideki Kaneko,R,,JPN,17.9,108831,5,,Michael Walker,U,,HKG,25.8,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1122,1,,
+1992-M-SA-PHI-01A-1992d,Philippines Masters 4,Clay,24,S,19920224,12,102348,,,Hideki Kaneko,R,,JPN,17.9,108831,5,,Michael Walker,U,,HKG,25.8,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1122,1,555,23
 1992-M-SA-PHI-01A-1992d,Philippines Masters 4,Clay,24,S,19920224,13,107629,,,Manuel Tolentino,R,,PHI,25.9,108251,6,,Shigefusa Kanroji,R,,JPN,24.7,3-6 7-6 6-0,3,R16,,,,,,,,,,,,,,,,,,,,,,853,6
 1992-M-SA-PHI-01A-1992d,Philippines Masters 4,Clay,24,S,19920224,14,101893,3,,Patrick Mohr,R,178,SUI,20.8,102533,,,Jens Knippschild,R,190,GER,17.0,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,776,8
 1992-M-SA-PHI-01A-1992d,Philippines Masters 4,Clay,24,S,19920224,15,101882,8,,Chang Hee Park,R,,KOR,20.9,108114,,,Robert Kresberg,R,,USA,,2-6 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,961,4,715,11
@@ -5594,7 +5594,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-M-SA-TPE-01A-1992a,Chinese Taipei Masters 1,Hard,32,S,19920810,9,101260,5,,Sean Cole,R,,GBR,26.1,102405,,Q,Mahesh Bhupathi,R,185,IND,18.1,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,510,28,1087,1
 1992-M-SA-TPE-01A-1992a,Chinese Taipei Masters 1,Hard,32,S,19920810,10,101974,,Q,Andrew Bates,R,,AUS,20.8,106439,,LL,Aaron Senes,R,,AUS,,5-7 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,930,3,1087,1
 1992-M-SA-TPE-01A-1992a,Chinese Taipei Masters 1,Hard,32,S,19920810,11,101882,,,Chang Hee Park,R,,KOR,21.4,102119,,WC,Chih Jung Chen,R,,TPE,19.8,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,765,7,1087,1
-1992-M-SA-TPE-01A-1992a,Chinese Taipei Masters 1,Hard,32,S,19920810,12,102454,,,Hyeong Keun Song,R,,KOR,17.9,108831,4,,Michael Walker,U,,HKG,26.3,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,764,7,,
+1992-M-SA-TPE-01A-1992a,Chinese Taipei Masters 1,Hard,32,S,19920810,12,102454,,,Hyeong Keun Song,R,,KOR,17.9,108831,4,,Michael Walker,U,,HKG,26.3,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,764,7,508,29
 1992-M-SA-TPE-01A-1992a,Chinese Taipei Masters 1,Hard,32,S,19920810,13,101980,,,Howard Joffe,R,,RSA,20.7,101292,8,,Mike Chinchiolo,R,,USA,25.8,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,664,11,634,14
 1992-M-SA-TPE-01A-1992a,Chinese Taipei Masters 1,Hard,32,S,19920810,14,102204,,Q,Nebojsa Djordjevic,R,190,SRB,19.2,109456,,WC,Chung Hsing Liu,R,,TPE,27.9,7-6 6-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1002,3,,
 1992-M-SA-TPE-01A-1992a,Chinese Taipei Masters 1,Hard,32,S,19920810,15,106718,,WC,Cheng Fong Chang,R,,CHN,20.3,107054,,LL,Gakuji Okada,R,,JPN,,7-6 4-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,,,908,4
