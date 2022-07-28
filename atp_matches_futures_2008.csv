@@ -847,7 +847,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-M-FU-MEX-02A-2008,Mexico F2,Hard,32,S,20080128,9,103969,6,Q,Roman Borvanov,R,183,MDA,25.8,104200,,,Juan Manuel Elizondo,U,180,MEX,24.6,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,504,52,748,20
 2008-M-FU-MEX-02A-2008,Mexico F2,Hard,32,S,20080128,10,103316,,,Victor Romero,R,,MEX,29.0,104142,,,Peter Shults,U,,USA,24.9,7-6(3) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,659,27,608,33
 2008-M-FU-MEX-02A-2008,Mexico F2,Hard,32,S,20080128,11,104431,,Q,Antonio Ruiz Rosales,R,,MEX,23.3,104554,,,Shane La Porte,R,,USA,22.7,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1488,1,650,28
-2008-M-FU-MEX-02A-2008,Mexico F2,Hard,32,S,20080128,12,104355,3,,Lester Cook,R,180,USA,23.7,110685,,Q,Gd Jones,R,183,NZL,21.8,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,351,99,,
+2008-M-FU-MEX-02A-2008,Mexico F2,Hard,32,S,20080128,12,104355,3,,Lester Cook,R,180,USA,23.7,110685,,Q,G D Jones,R,183,NZL,21.8,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,351,99,970,9
 2008-M-FU-MEX-02A-2008,Mexico F2,Hard,32,S,20080128,13,103676,8,,Michael Yani,R,185,USA,27.0,119640,,WC,Pablo Acevedo,L,,MEX,21.5,6-3 6-7(3) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,482,55,,
 2008-M-FU-MEX-02A-2008,Mexico F2,Hard,32,S,20080128,14,104716,,,Edward Seator,R,,GBR,21.8,120885,,WC,Luis Pablo Pechir,R,,MEX,16.4,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,529,46,,
 2008-M-FU-MEX-02A-2008,Mexico F2,Hard,32,S,20080128,15,104560,,,Nima Roshan,U,,AUS,22.6,104165,,Q,Joel Kielbowicz,U,,USA,24.7,4-6 6-3 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,634,29,985,9
@@ -1653,7 +1653,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-M-FU-NZL-01A-2008,New Zealand F1,Hard,32,S,20080225,9,105454,7,,Brydan Klein,R,183,AUS,18.1,103629,,Q,Ciaran Moore,R,,RSA,27.4,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,495,53,1403,2
 2008-M-FU-NZL-01A-2008,New Zealand F1,Hard,32,S,20080225,10,104907,,,Jose Rubin Statham,R,183,NZL,20.8,105428,,WC,Marcus Daniell,R,190,NZL,18.2,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,560,41,1492,1
 2008-M-FU-NZL-01A-2008,New Zealand F1,Hard,32,S,20080225,11,110686,,WC,Finn Tearney,R,183,NZL,17.4,110520,,LL,Whit Livingston,R,,USA,24.4,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1492,1
-2008-M-FU-NZL-01A-2008,New Zealand F1,Hard,32,S,20080225,12,104368,3,,Daniel King Turner,R,190,NZL,23.7,110685,,WC,Gd Jones,R,183,NZL,21.9,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,337,103,,
+2008-M-FU-NZL-01A-2008,New Zealand F1,Hard,32,S,20080225,12,104368,3,,Daniel King Turner,R,190,NZL,23.7,110685,,WC,G D Jones,R,183,NZL,21.9,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,337,103,966,9
 2008-M-FU-NZL-01A-2008,New Zealand F1,Hard,32,S,20080225,13,103516,5,,Nathan Healey,R,180,AUS,27.9,104237,,Q,David To,R,,AUS,24.4,6-7(1) 6-3 7-6(0),3,R32,,,,,,,,,,,,,,,,,,,,336,103,1028,8
 2008-M-FU-NZL-01A-2008,New Zealand F1,Hard,32,S,20080225,14,105164,,,Steven Goh,R,,AUS,19.7,111411,,Q,Clifford Marsland,R,,AUS,17.9,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,911,11,1271,3
 2008-M-FU-NZL-01A-2008,New Zealand F1,Hard,32,S,20080225,15,105059,,,Kento Takeuchi,L,,JPN,20.1,104040,,,Adam Thompson,R,,NZL,25.5,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,661,27,801,16
@@ -1993,7 +1993,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-M-FU-NZL-02A-2008,New Zealand F2,Hard,32,S,20080303,8,104907,8,,Jose Rubin Statham,R,183,NZL,20.8,104412,,,Matt Simpson,U,,NZL,23.5,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,550,43,,
 2008-M-FU-NZL-02A-2008,New Zealand F2,Hard,32,S,20080303,9,104295,5,,Raphael Durek,R,188,AUS,24.0,111411,,LL,Clifford Marsland,R,,AUS,17.9,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,455,64,1268,3
 2008-M-FU-NZL-02A-2008,New Zealand F2,Hard,32,S,20080303,10,104045,,,Lance Vodicka,U,,USA,25.5,105164,,,Steven Goh,R,,AUS,19.7,7-6(6) 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,744,20,912,11
-2008-M-FU-NZL-02A-2008,New Zealand F2,Hard,32,S,20080303,11,110685,,,Gd Jones,R,183,NZL,21.9,104237,,Q,David To,R,,AUS,24.4,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,1029,8
+2008-M-FU-NZL-02A-2008,New Zealand F2,Hard,32,S,20080303,11,110685,,,G D Jones,R,183,NZL,21.9,104237,,Q,David To,R,,AUS,24.4,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,971,9,1029,8
 2008-M-FU-NZL-02A-2008,New Zealand F2,Hard,32,S,20080303,12,103516,4,,Nathan Healey,R,180,AUS,28.0,104928,,Q,Sun Yong Kim Jr,R,,KOR,20.7,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,331,103,1495,1
 2008-M-FU-NZL-02A-2008,New Zealand F2,Hard,32,S,20080303,13,103514,,Q,Young Jun Kim,R,,KOR,28.0,105286,6,,Greg Jones,R,190,AUS,19.0,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,498,53
 2008-M-FU-NZL-02A-2008,New Zealand F2,Hard,32,S,20080303,14,104594,,,Marinko Matosevic,R,194,AUS,22.5,104908,,WC,Mikal Oliver Statham,R,,NZL,20.8,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,614,33,1359,2
@@ -2004,7 +2004,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-M-FU-NZL-02A-2008,New Zealand F2,Hard,32,S,20080303,19,105021,3,,Andrew Coelho,L,180,AUS,20.4,105428,,WC,Marcus Daniell,R,190,NZL,18.3,6-3 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,319,109,1495,1
 2008-M-FU-NZL-02A-2008,New Zealand F2,Hard,32,S,20080303,20,104907,8,,Jose Rubin Statham,R,183,NZL,20.8,110686,,WC,Finn Tearney,R,183,NZL,17.4,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,550,43,,
 2008-M-FU-NZL-02A-2008,New Zealand F2,Hard,32,S,20080303,21,104295,5,,Raphael Durek,R,188,AUS,24.0,104045,,,Lance Vodicka,U,,USA,25.5,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,455,64,744,20
-2008-M-FU-NZL-02A-2008,New Zealand F2,Hard,32,S,20080303,22,103516,4,,Nathan Healey,R,180,AUS,28.0,110685,,,Gd Jones,R,183,NZL,21.9,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,331,103,,
+2008-M-FU-NZL-02A-2008,New Zealand F2,Hard,32,S,20080303,22,103516,4,,Nathan Healey,R,180,AUS,28.0,110685,,,G D Jones,R,183,NZL,21.9,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,331,103,971,9
 2008-M-FU-NZL-02A-2008,New Zealand F2,Hard,32,S,20080303,23,103514,,Q,Young Jun Kim,R,,KOR,28.0,104594,,,Marinko Matosevic,R,194,AUS,22.5,6-7(5) 6-4 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,,,614,33
 2008-M-FU-NZL-02A-2008,New Zealand F2,Hard,32,S,20080303,24,103782,2,,Rameez Junaid,R,,AUS,26.7,104781,,,Yuichi Ito,R,,JPN,21.5,7-6(1) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,316,111,565,40
 2008-M-FU-NZL-02A-2008,New Zealand F2,Hard,32,S,20080303,25,105454,7,,Brydan Klein,R,183,AUS,18.1,104456,1,,Colin Ebelthite,R,,AUS,23.2,3-6 7-6(1) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,499,53,304,119
@@ -2637,7 +2637,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-M-FU-JPN-01A-2008,Japan F1,Hard,32,S,20080317,1,104251,1,,Ti Chen,R,183,TPE,24.4,119720,,WC,Masayoshi Tomita,U,,JPN,23.6,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,291,130,,
 2008-M-FU-JPN-01A-2008,Japan F1,Hard,32,S,20080317,2,102282,,,Tetsuya Chaen,R,,JPN,34.3,105738,,,Tsung Hua Yang,R,178,TPE,16.9,7-6(3) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,537,47,639,31
 2008-M-FU-JPN-01A-2008,Japan F1,Hard,32,S,20080317,3,105001,,,Mao Xin Gong,R,178,CHN,20.5,119722,,Q,Kosuke Naruse,R,,JPN,22.2,1-6 7-6(4) 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,829,15,1502,1
-2008-M-FU-JPN-01A-2008,Japan F1,Hard,32,S,20080317,4,110685,,,Gd Jones,R,183,NZL,21.9,104426,,LL,Tzu Yang Lin,U,,TPE,23.5,3-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1218,4
+2008-M-FU-JPN-01A-2008,Japan F1,Hard,32,S,20080317,4,110685,,,G D Jones,R,183,NZL,21.9,104426,,LL,Tzu Yang Lin,U,,TPE,23.5,3-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,977,9,1218,4
 2008-M-FU-JPN-01A-2008,Japan F1,Hard,32,S,20080317,5,104368,3,Q,Daniel King Turner,R,190,NZL,23.8,102123,,Q,Hiroyasu Sato,R,,JPN,35.4,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,330,106,1408,2
 2008-M-FU-JPN-01A-2008,Japan F1,Hard,32,S,20080317,6,105216,,,Yuichi Sugita,R,173,JPN,19.4,104374,,,Hyung Tae Kwon,U,,KOR,23.8,6-1 4-6 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,895,12,626,32
 2008-M-FU-JPN-01A-2008,Japan F1,Hard,32,S,20080317,7,104082,,,Hiroki Kondo,R,178,JPN,25.3,103867,,Q,Ryota Hisamatsu,R,,JPN,26.4,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,640,31,1112,6
@@ -2651,14 +2651,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-M-FU-JPN-01A-2008,Japan F1,Hard,32,S,20080317,15,103230,,Q,Tasuku Iwami,L,168,JPN,29.6,105585,,Q,Ze Zhang,R,188,CHN,17.7,7-6(5) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1502,1,1315,3
 2008-M-FU-JPN-01A-2008,Japan F1,Hard,32,S,20080317,16,104561,2,,Jae Sung An,R,,KOR,22.8,105220,,,Jun Chao Xu,U,,CHN,19.4,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,319,113,673,27
 2008-M-FU-JPN-01A-2008,Japan F1,Hard,32,S,20080317,17,104251,1,,Ti Chen,R,183,TPE,24.4,102282,,,Tetsuya Chaen,R,,JPN,34.3,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,291,130,537,47
-2008-M-FU-JPN-01A-2008,Japan F1,Hard,32,S,20080317,18,110685,,,Gd Jones,R,183,NZL,21.9,105001,,,Mao Xin Gong,R,178,CHN,20.5,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,829,15
+2008-M-FU-JPN-01A-2008,Japan F1,Hard,32,S,20080317,18,110685,,,G D Jones,R,183,NZL,21.9,105001,,,Mao Xin Gong,R,178,CHN,20.5,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,977,9,829,15
 2008-M-FU-JPN-01A-2008,Japan F1,Hard,32,S,20080317,19,104368,3,Q,Daniel King Turner,R,190,NZL,23.8,105216,,,Yuichi Sugita,R,173,JPN,19.4,6-2 6-7(2) 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,330,106,895,12
 2008-M-FU-JPN-01A-2008,Japan F1,Hard,32,S,20080317,20,104082,,,Hiroki Kondo,R,178,JPN,25.3,103403,5,,Takahiro Terachi,R,,JPN,28.6,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,640,31,400,80
 2008-M-FU-JPN-01A-2008,Japan F1,Hard,32,S,20080317,21,105147,6,,Tatsuma Ito,R,180,JPN,19.8,111262,,Q,Satoshi Yoshino,L,,JPN,28.5,6-2 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,465,62,1502,1
 2008-M-FU-JPN-01A-2008,Japan F1,Hard,32,S,20080317,22,102300,4,,Gouichi Motomura,R,173,JPN,34.2,120441,,WC,Takahiro Inoue,U,,JPN,19.8,7-6(5) 6-0,3,R16,,,,,,,,,,,,,,,,,,,,344,100,,
 2008-M-FU-JPN-01A-2008,Japan F1,Hard,32,S,20080317,23,105142,,,Arata Onozawa,U,,JPN,19.8,105339,8,,Yan Bai,R,185,CHN,18.8,7-6(5) 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,859,13,526,49
 2008-M-FU-JPN-01A-2008,Japan F1,Hard,32,S,20080317,24,103230,,Q,Tasuku Iwami,L,168,JPN,29.6,104561,2,,Jae Sung An,R,,KOR,22.8,7-5 3-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1502,1,319,113
-2008-M-FU-JPN-01A-2008,Japan F1,Hard,32,S,20080317,25,104251,1,,Ti Chen,R,183,TPE,24.4,110685,,,Gd Jones,R,183,NZL,21.9,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,291,130,,
+2008-M-FU-JPN-01A-2008,Japan F1,Hard,32,S,20080317,25,104251,1,,Ti Chen,R,183,TPE,24.4,110685,,,G D Jones,R,183,NZL,21.9,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,291,130,977,9
 2008-M-FU-JPN-01A-2008,Japan F1,Hard,32,S,20080317,26,104082,,,Hiroki Kondo,R,178,JPN,25.3,104368,3,Q,Daniel King Turner,R,190,NZL,23.8,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,640,31,330,106
 2008-M-FU-JPN-01A-2008,Japan F1,Hard,32,S,20080317,27,105147,6,,Tatsuma Ito,R,180,JPN,19.8,102300,4,,Gouichi Motomura,R,173,JPN,34.2,7-5 6-4,3,QF,,,,,,,,,,,,,,,,,,,,465,62,344,100
 2008-M-FU-JPN-01A-2008,Japan F1,Hard,32,S,20080317,28,103230,,Q,Tasuku Iwami,L,168,JPN,29.6,105142,,,Arata Onozawa,U,,JPN,19.8,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,1502,1,859,13
@@ -2887,7 +2887,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-M-FU-JPN-02A-2008,Japan F2,Hard,32,S,20080324,3,104781,,,Yuichi Ito,R,,JPN,21.6,105790,,Q,Yong Kyu Lim,R,185,KOR,16.7,4-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,564,41,1404,2
 2008-M-FU-JPN-02A-2008,Japan F2,Hard,32,S,20080324,4,102300,5,,Gouichi Motomura,R,173,JPN,34.2,105216,,WC,Yuichi Sugita,R,173,JPN,19.5,6-2 6-7(5) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,341,100,1060,7
 2008-M-FU-JPN-02A-2008,Japan F2,Hard,32,S,20080324,5,104368,4,,Daniel King Turner,R,190,NZL,23.8,105346,,Q,Junn Mitsuhashi,R,,JPN,18.8,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,343,99,1344,3
-2008-M-FU-JPN-02A-2008,Japan F2,Hard,32,S,20080324,6,110685,,SE,Gd Jones,R,183,NZL,21.9,105142,,SE,Arata Onozawa,U,,JPN,19.9,7-6(6) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,859,13
+2008-M-FU-JPN-02A-2008,Japan F2,Hard,32,S,20080324,6,110685,,SE,G D Jones,R,183,NZL,21.9,105142,,SE,Arata Onozawa,U,,JPN,19.9,7-6(6) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,947,10,859,13
 2008-M-FU-JPN-02A-2008,Japan F2,Hard,32,S,20080324,7,103838,,,Masato Hatanaka,U,,JPN,26.5,102282,,,Tetsuya Chaen,R,,JPN,34.3,6-1 1-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,713,23,534,47
 2008-M-FU-JPN-02A-2008,Japan F2,Hard,32,S,20080324,8,103220,7,,Oh Hee Kwon,R,,KOR,29.7,104082,,,Hiroki Kondo,R,178,JPN,25.3,2-6 7-5 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,485,58,637,31
 2008-M-FU-JPN-02A-2008,Japan F2,Hard,32,S,20080324,9,105339,8,,Yan Bai,R,185,CHN,18.8,103030,,,Norikazu Sugiyama,R,178,JPN,30.6,6-4 3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,526,49,592,37
@@ -2900,7 +2900,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-M-FU-JPN-02A-2008,Japan F2,Hard,32,S,20080324,16,103682,2,,Kyu Tae Im,R,185,KOR,27.2,106071,,WC,Bernard Tomic,R,193,AUS,15.4,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,358,92,1206,4
 2008-M-FU-JPN-02A-2008,Japan F2,Hard,32,S,20080324,17,104251,1,,Ti Chen,R,183,TPE,24.4,105220,,,Jun Chao Xu,U,,CHN,19.5,2-6 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,291,130,669,27
 2008-M-FU-JPN-02A-2008,Japan F2,Hard,32,S,20080324,18,102300,5,,Gouichi Motomura,R,173,JPN,34.2,104781,,,Yuichi Ito,R,,JPN,21.6,4-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,341,100,564,41
-2008-M-FU-JPN-02A-2008,Japan F2,Hard,32,S,20080324,19,104368,4,,Daniel King Turner,R,190,NZL,23.8,110685,,SE,Gd Jones,R,183,NZL,21.9,3-6 6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,343,99,,
+2008-M-FU-JPN-02A-2008,Japan F2,Hard,32,S,20080324,19,104368,4,,Daniel King Turner,R,190,NZL,23.8,110685,,SE,G D Jones,R,183,NZL,21.9,3-6 6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,343,99,947,10
 2008-M-FU-JPN-02A-2008,Japan F2,Hard,32,S,20080324,20,103220,7,,Oh Hee Kwon,R,,KOR,29.7,103838,,,Masato Hatanaka,U,,JPN,26.5,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,485,58,713,23
 2008-M-FU-JPN-02A-2008,Japan F2,Hard,32,S,20080324,21,105339,8,,Yan Bai,R,185,CHN,18.8,104681,,,Sebastian Rieschick,R,,GER,22.1,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,526,49,547,44
 2008-M-FU-JPN-02A-2008,Japan F2,Hard,32,S,20080324,22,104561,3,,Jae Sung An,R,,KOR,22.8,104374,,,Hyung Tae Kwon,U,,KOR,23.8,2-6 6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,317,113,625,32
@@ -3874,7 +3874,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-M-FU-KOR-01A-2008,Korea Rep F1,Hard,32,S,20080428,29,103612,,,Alexey Kedryuk,R,193,KAZ,27.7,105051,,,Matthew Ebden,R,188,AUS,20.4,7-6(6) 1-6 6-2,3,SF,,,,,,,,,,,,,,,,,,,,538,45,485,56
 2008-M-FU-KOR-01A-2008,Korea Rep F1,Hard,32,S,20080428,30,105147,7,,Tatsuma Ito,R,180,JPN,19.9,105021,5,,Andrew Coelho,L,180,AUS,20.5,6-3 2-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,416,73,294,121
 2008-M-FU-KOR-01A-2008,Korea Rep F1,Hard,32,S,20080428,31,105147,7,,Tatsuma Ito,R,180,JPN,19.9,103612,,,Alexey Kedryuk,R,193,KAZ,27.7,1-6 6-3 7-6(7),3,F,,,,,,,,,,,,,,,,,,,,416,73,538,45
-2008-M-FU-MEX-05A-2008,Mexico F5,Clay,32,S,20080428,1,104136,1,,Santiago Gonzalez,R,190,MEX,25.1,110685,,,Gd Jones,R,183,NZL,22.0,6-2 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,378,86,,
+2008-M-FU-MEX-05A-2008,Mexico F5,Clay,32,S,20080428,1,104136,1,,Santiago Gonzalez,R,190,MEX,25.1,110685,,,G D Jones,R,183,NZL,22.0,6-2 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,378,86,851,13
 2008-M-FU-MEX-05A-2008,Mexico F5,Clay,32,S,20080428,2,108981,,Q,Luis Javier Cuellar Contreras,U,,CUB,20.2,121011,,WC,Kevin Hernandez,U,,MEX,18.1,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1362,2,,
 2008-M-FU-MEX-05A-2008,Mexico F5,Clay,32,S,20080428,3,105334,,,Luis David Martinez,U,,VEN,18.9,104983,,LL,Kyle Brassington,U,,GBR,20.7,6-1 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,817,15,1232,4
 2008-M-FU-MEX-05A-2008,Mexico F5,Clay,32,S,20080428,4,103030,6,,Norikazu Sugiyama,R,178,JPN,30.7,121012,,Q,Daniel Serur De La Torre,U,,MEX,18.6,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,601,35,,
@@ -4379,7 +4379,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-M-FU-MEX-06A-2008,Mexico F6,Hard,32,S,20080505,7,103829,,,Cristian Paiz,U,,GUA,26.6,110642,,Q,Richard Johnson,U,,USA,22.1,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1065,7,,
 2008-M-FU-MEX-06A-2008,Mexico F6,Hard,32,S,20080505,8,105066,7,,Grzegorz Panfil,L,183,POL,20.3,104193,,,Dane Fernandez,U,,AUS,24.9,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,641,30,1066,7
 2008-M-FU-MEX-06A-2008,Mexico F6,Hard,32,S,20080505,9,104650,8,,Philippe De Bonnevie,L,,FRA,22.3,104313,,Q,Jonathan Kinsella,R,185,GBR,24.1,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,707,24,1481,2
-2008-M-FU-MEX-06A-2008,Mexico F6,Hard,32,S,20080505,10,110685,,,Gd Jones,R,183,NZL,22.0,120984,,Q,Bryan Wooten,U,,USA,23.9,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1258,3
+2008-M-FU-MEX-06A-2008,Mexico F6,Hard,32,S,20080505,10,110685,,,G D Jones,R,183,NZL,22.0,120984,,Q,Bryan Wooten,U,,USA,23.9,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,847,13,1258,3
 2008-M-FU-MEX-06A-2008,Mexico F6,Hard,32,S,20080505,11,104983,,,Kyle Brassington,U,,GBR,20.7,108952,,Q,Jose Roberto Velasco,R,,BOL,19.1,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1229,4,,
 2008-M-FU-MEX-06A-2008,Mexico F6,Hard,32,S,20080505,12,104200,,,Juan Manuel Elizondo,U,180,MEX,24.9,103030,3,,Norikazu Sugiyama,R,178,JPN,30.7,6-4 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,770,18,715,23
 2008-M-FU-MEX-06A-2008,Mexico F6,Hard,32,S,20080505,13,103316,6,,Victor Romero,R,,MEX,29.2,109618,,WC,Fernando Larrea Gonzalez,R,,MEX,15.8,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,623,31,,
@@ -4390,16 +4390,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-M-FU-MEX-06A-2008,Mexico F6,Hard,32,S,20080505,18,104560,5,,Nima Roshan,U,,AUS,22.9,105330,,Q,Raul Isaias Rosas Zarur,R,,MEX,19.0,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,620,33,,
 2008-M-FU-MEX-06A-2008,Mexico F6,Hard,32,S,20080505,19,104142,4,,Peter Shults,U,,USA,25.1,119606,,,Mario Cuellar Gonzalez,U,,ESP,22.0,7-6(3) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,604,35,1243,4
 2008-M-FU-MEX-06A-2008,Mexico F6,Hard,32,S,20080505,20,103829,,,Cristian Paiz,U,,GUA,26.6,105066,7,,Grzegorz Panfil,L,183,POL,20.3,6-7(7) 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1065,7,641,30
-2008-M-FU-MEX-06A-2008,Mexico F6,Hard,32,S,20080505,21,110685,,,Gd Jones,R,183,NZL,22.0,104650,8,,Philippe De Bonnevie,L,,FRA,22.3,7-6(4) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,707,24
+2008-M-FU-MEX-06A-2008,Mexico F6,Hard,32,S,20080505,21,110685,,,G D Jones,R,183,NZL,22.0,104650,8,,Philippe De Bonnevie,L,,FRA,22.3,7-6(4) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,847,13,707,24
 2008-M-FU-MEX-06A-2008,Mexico F6,Hard,32,S,20080505,22,104200,,,Juan Manuel Elizondo,U,180,MEX,24.9,104983,,,Kyle Brassington,U,,GBR,20.7,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,770,18,1229,4
 2008-M-FU-MEX-06A-2008,Mexico F6,Hard,32,S,20080505,23,103316,6,,Victor Romero,R,,MEX,29.2,119744,,Q,Fernando Marquez,U,,MEX,23.9,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,623,31,1825,1
 2008-M-FU-MEX-06A-2008,Mexico F6,Hard,32,S,20080505,24,104594,2,,Marinko Matosevic,R,194,AUS,22.7,104536,,,Andrew Roberts,R,,AUS,23.0,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,596,36,917,11
 2008-M-FU-MEX-06A-2008,Mexico F6,Hard,32,S,20080505,25,104763,1,,Rafael Arevalo,R,180,ESA,21.8,104560,5,,Nima Roshan,U,,AUS,22.9,7-6(6) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,474,60,620,33
 2008-M-FU-MEX-06A-2008,Mexico F6,Hard,32,S,20080505,26,103829,,,Cristian Paiz,U,,GUA,26.6,104142,4,,Peter Shults,U,,USA,25.1,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,1065,7,604,35
-2008-M-FU-MEX-06A-2008,Mexico F6,Hard,32,S,20080505,27,110685,,,Gd Jones,R,183,NZL,22.0,104200,,,Juan Manuel Elizondo,U,180,MEX,24.9,3-6 7-6(5) 7-6(6),3,QF,,,,,,,,,,,,,,,,,,,,,,770,18
+2008-M-FU-MEX-06A-2008,Mexico F6,Hard,32,S,20080505,27,110685,,,G D Jones,R,183,NZL,22.0,104200,,,Juan Manuel Elizondo,U,180,MEX,24.9,3-6 7-6(5) 7-6(6),3,QF,,,,,,,,,,,,,,,,,,,,847,13,770,18
 2008-M-FU-MEX-06A-2008,Mexico F6,Hard,32,S,20080505,28,103316,6,,Victor Romero,R,,MEX,29.2,104594,2,,Marinko Matosevic,R,194,AUS,22.7,6-2 1-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,623,31,596,36
 2008-M-FU-MEX-06A-2008,Mexico F6,Hard,32,S,20080505,29,104763,1,,Rafael Arevalo,R,180,ESA,21.8,103829,,,Cristian Paiz,U,,GUA,26.6,6-2 7-6(3),3,SF,,,,,,,,,,,,,,,,,,,,474,60,1065,7
-2008-M-FU-MEX-06A-2008,Mexico F6,Hard,32,S,20080505,30,103316,6,,Victor Romero,R,,MEX,29.2,110685,,,Gd Jones,R,183,NZL,22.0,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,623,31,,
+2008-M-FU-MEX-06A-2008,Mexico F6,Hard,32,S,20080505,30,103316,6,,Victor Romero,R,,MEX,29.2,110685,,,G D Jones,R,183,NZL,22.0,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,623,31,847,13
 2008-M-FU-MEX-06A-2008,Mexico F6,Hard,32,S,20080505,31,103316,6,,Victor Romero,R,,MEX,29.2,104763,1,,Rafael Arevalo,R,180,ESA,21.8,7-5 7-5,3,F,,,,,,,,,,,,,,,,,,,,623,31,474,60
 2008-M-FU-ROU-02A-2008,Romania F2,Clay,32,S,20080505,1,103925,1,,Gabriel Moraru,R,180,ROU,26.2,109314,,WC,Alin Mihai Constantin,U,,ROU,18.2,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,391,81,1340,3
 2008-M-FU-ROU-02A-2008,Romania F2,Clay,32,S,20080505,2,104519,,,Roman Vogeli,R,,CZE,23.1,105623,,,Costin Paval,L,,ROU,17.6,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,975,9,968,9
@@ -4816,7 +4816,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-M-FU-MEX-07A-2008,Mexico F7,Hard,32,S,20080512,10,104431,,,Antonio Ruiz Rosales,R,,MEX,23.6,104983,,Q,Kyle Brassington,U,,GBR,20.8,6-1 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,799,16,1240,4
 2008-M-FU-MEX-07A-2008,Mexico F7,Hard,32,S,20080512,11,105273,,Q,Mauricio Echazu,R,174,PER,19.3,104351,,,Benjamin Dracos,U,,FRA,24.0,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1063,7,786,17
 2008-M-FU-MEX-07A-2008,Mexico F7,Hard,32,S,20080512,12,104594,4,,Marinko Matosevic,R,194,AUS,22.7,119745,,Q,Marc Rigal Perez,L,,ESP,22.9,6-0 4-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,542,44,,
-2008-M-FU-MEX-07A-2008,Mexico F7,Hard,32,S,20080512,13,110685,,,Gd Jones,R,183,NZL,22.1,104650,8,,Philippe De Bonnevie,L,,FRA,22.3,7-6(3) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,694,25
+2008-M-FU-MEX-07A-2008,Mexico F7,Hard,32,S,20080512,13,110685,,,G D Jones,R,183,NZL,22.1,104650,8,,Philippe De Bonnevie,L,,FRA,22.3,7-6(3) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,851,13,694,25
 2008-M-FU-MEX-07A-2008,Mexico F7,Hard,32,S,20080512,14,103829,,SE,Cristian Paiz,U,,GUA,26.7,120593,,WC,Fernando Guillen,R,,MEX,17.2,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1028,8,,
 2008-M-FU-MEX-07A-2008,Mexico F7,Hard,32,S,20080512,15,104522,,Q,Chris Klingemann,U,,CAN,23.1,104536,,,Andrew Roberts,R,,AUS,23.0,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1226,4,917,11
 2008-M-FU-MEX-07A-2008,Mexico F7,Hard,32,S,20080512,16,104443,2,,Luigi Dagord,R,,ITA,23.5,120984,,Q,Bryan Wooten,U,,USA,23.9,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,525,48,1260,3
@@ -4826,14 +4826,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-M-FU-MEX-07A-2008,Mexico F7,Hard,32,S,20080512,20,103316,7,,Victor Romero,R,,MEX,29.2,104193,,,Dane Fernandez,U,,AUS,24.9,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,549,43,1068,7
 2008-M-FU-MEX-07A-2008,Mexico F7,Hard,32,S,20080512,21,104142,5,,Peter Shults,U,,USA,25.1,104431,,,Antonio Ruiz Rosales,R,,MEX,23.6,2-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,607,35,799,16
 2008-M-FU-MEX-07A-2008,Mexico F7,Hard,32,S,20080512,22,104594,4,,Marinko Matosevic,R,194,AUS,22.7,105273,,Q,Mauricio Echazu,R,174,PER,19.3,3-6 6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,542,44,1063,7
-2008-M-FU-MEX-07A-2008,Mexico F7,Hard,32,S,20080512,23,110685,,,Gd Jones,R,183,NZL,22.1,103829,,SE,Cristian Paiz,U,,GUA,26.7,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,1028,8
+2008-M-FU-MEX-07A-2008,Mexico F7,Hard,32,S,20080512,23,110685,,,G D Jones,R,183,NZL,22.1,103829,,SE,Cristian Paiz,U,,GUA,26.7,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,851,13,1028,8
 2008-M-FU-MEX-07A-2008,Mexico F7,Hard,32,S,20080512,24,104522,,Q,Chris Klingemann,U,,CAN,23.1,104443,2,,Luigi Dagord,R,,ITA,23.5,7-6(4) 7-6(8),3,R16,,,,,,,,,,,,,,,,,,,,1226,4,525,48
 2008-M-FU-MEX-07A-2008,Mexico F7,Hard,32,S,20080512,25,105219,,,Miguel Cicenia,R,,VEN,19.6,104560,6,,Nima Roshan,U,,AUS,22.9,6-2 1-6 7-6(9),3,QF,,,,,,,,,,,,,,,,,,,,915,11,619,33
 2008-M-FU-MEX-07A-2008,Mexico F7,Hard,32,S,20080512,26,103746,3,,Miguel Gallardo Valles,R,,MEX,27.0,103316,7,,Victor Romero,R,,MEX,29.2,6-4 1-6 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,533,45,549,43
 2008-M-FU-MEX-07A-2008,Mexico F7,Hard,32,S,20080512,27,104594,4,,Marinko Matosevic,R,194,AUS,22.7,104142,5,,Peter Shults,U,,USA,25.1,7-6(2)  6-2,3,QF,,,,,,,,,,,,,,,,,,,,542,44,607,35
-2008-M-FU-MEX-07A-2008,Mexico F7,Hard,32,S,20080512,28,110685,,,Gd Jones,R,183,NZL,22.1,104522,,Q,Chris Klingemann,U,,CAN,23.1,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,,,1226,4
+2008-M-FU-MEX-07A-2008,Mexico F7,Hard,32,S,20080512,28,110685,,,G D Jones,R,183,NZL,22.1,104522,,Q,Chris Klingemann,U,,CAN,23.1,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,851,13,1226,4
 2008-M-FU-MEX-07A-2008,Mexico F7,Hard,32,S,20080512,29,103746,3,,Miguel Gallardo Valles,R,,MEX,27.0,105219,,,Miguel Cicenia,R,,VEN,19.6,7-6(3) 6-3,3,SF,,,,,,,,,,,,,,,,,,,,533,45,915,11
-2008-M-FU-MEX-07A-2008,Mexico F7,Hard,32,S,20080512,30,104594,4,,Marinko Matosevic,R,194,AUS,22.7,110685,,,Gd Jones,R,183,NZL,22.1,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,542,44,,
+2008-M-FU-MEX-07A-2008,Mexico F7,Hard,32,S,20080512,30,104594,4,,Marinko Matosevic,R,194,AUS,22.7,110685,,,G D Jones,R,183,NZL,22.1,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,542,44,851,13
 2008-M-FU-MEX-07A-2008,Mexico F7,Hard,32,S,20080512,31,104594,4,,Marinko Matosevic,R,194,AUS,22.7,103746,3,,Miguel Gallardo Valles,R,,MEX,27.0,6-3 4-6 6-3,3,F,,,,,,,,,,,,,,,,,,,,542,44,533,45
 2008-M-FU-POL-01A-2008,Poland F1,Clay,32,S,20080512,1,104235,1,,Matwe Middelkoop,R,191,NED,24.6,103156,,,Alessandro Da Col,R,,ITA,30.1,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,219,181,685,26
 2008-M-FU-POL-01A-2008,Poland F1,Clay,32,S,20080512,2,105016,,Q,Serguei Tarasevitch,R,,BLR,20.6,105355,,WC,Mateusz Szmigiel,R,,POL,18.9,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1457,2,1816,1
@@ -5314,7 +5314,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-M-FU-MEX-08A-2008,Mexico F8,Hard,32,S,20080519,12,104313,,Q,Jonathan Kinsella,R,185,GBR,24.2,104142,4,,Peter Shults,U,,USA,25.2,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1487,2,600,36
 2008-M-FU-MEX-08A-2008,Mexico F8,Hard,32,S,20080519,13,104650,6,,Philippe De Bonnevie,L,,FRA,22.4,118782,,WC,Salvador De La Torre,R,,MEX,22.3,6-2 6-7(4) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,689,26,,
 2008-M-FU-MEX-08A-2008,Mexico F8,Hard,32,S,20080519,14,108990,,PR,Adil Shamasdin,R,180,CAN,25.9,105273,,,Mauricio Echazu,R,174,PER,19.3,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1028,8
-2008-M-FU-MEX-08A-2008,Mexico F8,Hard,32,S,20080519,15,110685,,,Gd Jones,R,183,NZL,22.1,120594,,Q,Victor Gonzalez,R,,MEX,17.0,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,1578,1
+2008-M-FU-MEX-08A-2008,Mexico F8,Hard,32,S,20080519,15,110685,,,G D Jones,R,183,NZL,22.1,120594,,Q,Victor Gonzalez,R,,MEX,17.0,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,792,17,1578,1
 2008-M-FU-MEX-08A-2008,Mexico F8,Hard,32,S,20080519,16,103746,2,,Miguel Gallardo Valles,R,,MEX,27.1,117822,,Q,Fernando Cabrera,R,,MEX,28.8,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,589,37,,
 2008-M-FU-MEX-08A-2008,Mexico F8,Hard,32,S,20080519,17,104443,1,,Luigi Dagord,R,,ITA,23.6,119606,,,Mario Cuellar Gonzalez,U,,ESP,22.1,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,522,48,1179,5
 2008-M-FU-MEX-08A-2008,Mexico F8,Hard,32,S,20080519,18,104522,,Q,Chris Klingemann,U,,CAN,23.1,104535,7,,Daniel Garza,R,,MEX,23.1,7-6(5) 6-6 RET,3,R16,,,,,,,,,,,,,,,,,,,,1237,4,752,20
@@ -5323,7 +5323,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-M-FU-MEX-08A-2008,Mexico F8,Hard,32,S,20080519,21,104560,5,,Nima Roshan,U,,AUS,22.9,104536,,,Andrew Roberts,R,,AUS,23.1,6-4 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,609,35,921,11
 2008-M-FU-MEX-08A-2008,Mexico F8,Hard,32,S,20080519,22,104313,,Q,Jonathan Kinsella,R,185,GBR,24.2,110642,,Q,Richard Johnson,U,,USA,22.2,4-6 6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1487,2,,
 2008-M-FU-MEX-08A-2008,Mexico F8,Hard,32,S,20080519,23,108990,,PR,Adil Shamasdin,R,180,CAN,25.9,104650,6,,Philippe De Bonnevie,L,,FRA,22.4,4-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,689,26
-2008-M-FU-MEX-08A-2008,Mexico F8,Hard,32,S,20080519,24,103746,2,,Miguel Gallardo Valles,R,,MEX,27.1,110685,,,Gd Jones,R,183,NZL,22.1,6-2 6-7(4) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,589,37,,
+2008-M-FU-MEX-08A-2008,Mexico F8,Hard,32,S,20080519,24,103746,2,,Miguel Gallardo Valles,R,,MEX,27.1,110685,,,G D Jones,R,183,NZL,22.1,6-2 6-7(4) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,589,37,792,17
 2008-M-FU-MEX-08A-2008,Mexico F8,Hard,32,S,20080519,25,104443,1,,Luigi Dagord,R,,ITA,23.6,104522,,Q,Chris Klingemann,U,,CAN,23.1,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,522,48,1237,4
 2008-M-FU-MEX-08A-2008,Mexico F8,Hard,32,S,20080519,26,104594,3,,Marinko Matosevic,R,194,AUS,22.7,104200,8,,Juan Manuel Elizondo,U,180,MEX,24.9,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,532,46,755,20
 2008-M-FU-MEX-08A-2008,Mexico F8,Hard,32,S,20080519,27,104560,5,,Nima Roshan,U,,AUS,22.9,104313,,Q,Jonathan Kinsella,R,185,GBR,24.2,7-6(2) 7-6(4),3,QF,,,,,,,,,,,,,,,,,,,,609,35,1487,2
@@ -6357,7 +6357,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-M-FU-USA-12A-2008,USA F12,Hard,32,S,20080609,1,104958,1,,Carsten Ball,L,198,AUS,20.9,105447,,WC,Dennis Nevolo,R,,USA,18.4,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,234,162,,
 2008-M-FU-USA-12A-2008,USA F12,Hard,32,S,20080609,2,103797,,Q,Justin Diao Natale,U,,USA,26.9,104155,,,Sunil Kumar Sipaeya,L,,IND,25.1,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,610,35,468,59
 2008-M-FU-USA-12A-2008,USA F12,Hard,32,S,20080609,3,104907,,,Jose Rubin Statham,R,183,NZL,21.1,104732,,Q,Phillip Simmonds,R,,USA,22.0,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,451,64,701,25
-2008-M-FU-USA-12A-2008,USA F12,Hard,32,S,20080609,4,110685,,LL,Gd Jones,R,183,NZL,22.1,105082,,,Marcus Fugate,R,,USA,20.3,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,634,32
+2008-M-FU-USA-12A-2008,USA F12,Hard,32,S,20080609,4,110685,,LL,G D Jones,R,183,NZL,22.1,105082,,,Marcus Fugate,R,,USA,20.3,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,737,22,634,32
 2008-M-FU-USA-12A-2008,USA F12,Hard,32,S,20080609,5,103607,3,,Victor Estrella,R,173,DOM,27.8,105187,,Q,Daniel Danilovic,R,,SWE,19.8,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,298,121,954,10
 2008-M-FU-USA-12A-2008,USA F12,Hard,32,S,20080609,6,102821,,,Cecil Mamiit,R,173,PHI,31.9,105228,,WC,Nathaniel Schnugg,U,,USA,19.6,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,423,73,,
 2008-M-FU-USA-12A-2008,USA F12,Hard,32,S,20080609,7,104733,,WC,Greg Ouellette,U,,USA,22.0,104165,,Q,Joel Kielbowicz,U,,USA,25.1,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,889,12,1108,6
@@ -6371,7 +6371,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-M-FU-USA-12A-2008,USA F12,Hard,32,S,20080609,15,103625,,,Adriano Biasella,R,,ITA,27.7,104804,,,Amir Weintraub,R,188,ISR,21.7,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,534,46,337,103
 2008-M-FU-USA-12A-2008,USA F12,Hard,32,S,20080609,16,104281,2,,Ryler Deheart,L,183,USA,24.4,105229,,WC,Philip Bester,R,188,CAN,19.6,7-6(2) 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,280,130,837,15
 2008-M-FU-USA-12A-2008,USA F12,Hard,32,S,20080609,17,104958,1,,Carsten Ball,L,198,AUS,20.9,103797,,Q,Justin Diao Natale,U,,USA,26.9,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,234,162,610,35
-2008-M-FU-USA-12A-2008,USA F12,Hard,32,S,20080609,18,104907,,,Jose Rubin Statham,R,183,NZL,21.1,110685,,LL,Gd Jones,R,183,NZL,22.1,7-6(5) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,451,64,,
+2008-M-FU-USA-12A-2008,USA F12,Hard,32,S,20080609,18,104907,,,Jose Rubin Statham,R,183,NZL,21.1,110685,,LL,G D Jones,R,183,NZL,22.1,7-6(5) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,451,64,737,22
 2008-M-FU-USA-12A-2008,USA F12,Hard,32,S,20080609,19,103607,3,,Victor Estrella,R,173,DOM,27.8,102821,,,Cecil Mamiit,R,173,PHI,31.9,4-6 6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,298,121,423,73
 2008-M-FU-USA-12A-2008,USA F12,Hard,32,S,20080609,20,104733,,WC,Greg Ouellette,U,,USA,22.0,105404,8,,Michael Mcclune,R,188,USA,18.7,6-3 6-7(3) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,889,12,352,97
 2008-M-FU-USA-12A-2008,USA F12,Hard,32,S,20080609,21,104760,,,Scott Oudsema,R,190,USA,21.9,104368,5,,Daniel King Turner,R,190,NZL,24.0,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,419,74,308,117
@@ -6920,7 +6920,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-M-FU-USA-13A-2008,USA F13,Hard,32,S,20080616,6,104776,,WC,Kaes Vant Hof,L,185,USA,21.8,109484,,WC,Ryan Thacher,R,,USA,18.6,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1591,1,,
 2008-M-FU-USA-13A-2008,USA F13,Hard,32,S,20080616,7,104261,,,Peng Sun,R,,CHN,24.6,104224,,,Travis Rettenmaier,R,188,USA,24.8,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,490,54,362,91
 2008-M-FU-USA-13A-2008,USA F13,Hard,32,S,20080616,8,104907,,,Jose Rubin Statham,R,183,NZL,21.1,103607,5,,Victor Estrella,R,173,DOM,27.8,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,448,64,298,121
-2008-M-FU-USA-13A-2008,USA F13,Hard,32,S,20080616,9,110685,,Q,Gd Jones,R,183,NZL,22.2,104804,8,,Amir Weintraub,R,188,ISR,21.7,4-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,345,99
+2008-M-FU-USA-13A-2008,USA F13,Hard,32,S,20080616,9,110685,,Q,G D Jones,R,183,NZL,22.2,104804,8,,Amir Weintraub,R,188,ISR,21.7,4-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,737,22,345,99
 2008-M-FU-USA-13A-2008,USA F13,Hard,32,S,20080616,10,104760,,,Scott Oudsema,R,190,USA,21.9,110657,,WC,Pablo Pires De Almeida,R,,USA,25.7,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,416,74,,
 2008-M-FU-USA-13A-2008,USA F13,Hard,32,S,20080616,11,105082,,,Marcus Fugate,R,,USA,20.3,105187,,Q,Daniel Danilovic,R,,SWE,19.8,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,634,32,948,10
 2008-M-FU-USA-13A-2008,USA F13,Hard,32,S,20080616,12,104355,4,,Lester Cook,R,180,USA,24.1,104155,,,Sunil Kumar Sipaeya,L,,IND,25.2,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,296,121,484,55
@@ -6932,16 +6932,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-M-FU-USA-13A-2008,USA F13,Hard,32,S,20080616,18,104550,7,,Ricardo Hocevar,R,180,BRA,23.1,104594,,Q,Marinko Matosevic,R,194,AUS,22.8,7-6(8) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,323,111,426,70
 2008-M-FU-USA-13A-2008,USA F13,Hard,32,S,20080616,19,104281,3,SE,Ryler Deheart,L,183,USA,24.4,104776,,WC,Kaes Vant Hof,L,185,USA,21.8,3-6 7-6(5) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,280,130,1591,1
 2008-M-FU-USA-13A-2008,USA F13,Hard,32,S,20080616,20,104261,,,Peng Sun,R,,CHN,24.6,104907,,,Jose Rubin Statham,R,183,NZL,21.1,7-6(5) 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,490,54,448,64
-2008-M-FU-USA-13A-2008,USA F13,Hard,32,S,20080616,21,110685,,Q,Gd Jones,R,183,NZL,22.2,104760,,,Scott Oudsema,R,190,USA,21.9,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,416,74
+2008-M-FU-USA-13A-2008,USA F13,Hard,32,S,20080616,21,110685,,Q,G D Jones,R,183,NZL,22.2,104760,,,Scott Oudsema,R,190,USA,21.9,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,737,22,416,74
 2008-M-FU-USA-13A-2008,USA F13,Hard,32,S,20080616,22,105082,,,Marcus Fugate,R,,USA,20.3,104355,4,,Lester Cook,R,180,USA,24.1,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,634,32,296,121
 2008-M-FU-USA-13A-2008,USA F13,Hard,32,S,20080616,23,104368,6,,Daniel King Turner,R,190,NZL,24.0,104733,,Q,Greg Ouellette,U,,USA,22.0,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,310,117,889,12
 2008-M-FU-USA-13A-2008,USA F13,Hard,32,S,20080616,24,103676,2,,Michael Yani,R,185,USA,27.4,104732,,,Phillip Simmonds,R,,USA,22.0,7-6(1) 7-6(1),3,R16,,,,,,,,,,,,,,,,,,,,252,150,700,25
 2008-M-FU-USA-13A-2008,USA F13,Hard,32,S,20080616,25,104550,7,,Ricardo Hocevar,R,180,BRA,23.1,104958,1,,Carsten Ball,L,198,AUS,20.9,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,323,111,235,162
 2008-M-FU-USA-13A-2008,USA F13,Hard,32,S,20080616,26,104281,3,SE,Ryler Deheart,L,183,USA,24.4,104261,,,Peng Sun,R,,CHN,24.6,6-1 6-7(5) 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,280,130,490,54
-2008-M-FU-USA-13A-2008,USA F13,Hard,32,S,20080616,27,110685,,Q,Gd Jones,R,183,NZL,22.2,105082,,,Marcus Fugate,R,,USA,20.3,6-2 6-0,3,QF,,,,,,,,,,,,,,,,,,,,,,634,32
+2008-M-FU-USA-13A-2008,USA F13,Hard,32,S,20080616,27,110685,,Q,G D Jones,R,183,NZL,22.2,105082,,,Marcus Fugate,R,,USA,20.3,6-2 6-0,3,QF,,,,,,,,,,,,,,,,,,,,737,22,634,32
 2008-M-FU-USA-13A-2008,USA F13,Hard,32,S,20080616,28,103676,2,,Michael Yani,R,185,USA,27.4,104368,6,,Daniel King Turner,R,190,NZL,24.0,6-4 1-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,252,150,310,117
 2008-M-FU-USA-13A-2008,USA F13,Hard,32,S,20080616,29,104550,7,,Ricardo Hocevar,R,180,BRA,23.1,104281,3,SE,Ryler Deheart,L,183,USA,24.4,6-4 7-6(5),3,SF,,,,,,,,,,,,,,,,,,,,323,111,280,130
-2008-M-FU-USA-13A-2008,USA F13,Hard,32,S,20080616,30,103676,2,,Michael Yani,R,185,USA,27.4,110685,,Q,Gd Jones,R,183,NZL,22.2,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,252,150,,
+2008-M-FU-USA-13A-2008,USA F13,Hard,32,S,20080616,30,103676,2,,Michael Yani,R,185,USA,27.4,110685,,Q,G D Jones,R,183,NZL,22.2,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,252,150,737,22
 2008-M-FU-USA-13A-2008,USA F13,Hard,32,S,20080616,31,104550,7,,Ricardo Hocevar,R,180,BRA,23.1,103676,2,,Michael Yani,R,185,USA,27.4,6-4 6-0,3,F,,,,,,,,,,,,,,,,,,,,323,111,252,150
 2008-M-FU-VEN-02A-2008,Venezuela F2,Hard,32,S,20080616,1,103590,1,,Michael Quintero,R,,COL,27.9,108927,,Q,Edgar Hernandez Perez,U,,CUB,22.9,6-3 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,261,142,1454,2
 2008-M-FU-VEN-02A-2008,Venezuela F2,Hard,32,S,20080616,2,104887,,,Piero Luisi,R,,VEN,21.2,105290,,Q,Tyler Hochwalt,U,,USA,19.3,6-4 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,743,21,,
@@ -7413,7 +7413,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-M-FU-USA-14A-2008,USA F14,Hard,32,S,20080623,3,104059,,,Rasmus Norby,R,183,DEN,25.7,104863,,WC,Olivier Sajous,R,,HAI,21.3,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,658,29,1362,2
 2008-M-FU-USA-14A-2008,USA F14,Hard,32,S,20080623,4,105048,,WC,Alex Clayton,R,183,USA,20.5,110520,,LL,Whit Livingston,R,,USA,24.7,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1261,3,1598,1
 2008-M-FU-USA-14A-2008,USA F14,Hard,32,S,20080623,5,104952,3,,Martin Pedersen,R,,DEN,21.0,105294,,,Dennis Lajola,R,,USA,19.3,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,382,81,770,19
-2008-M-FU-USA-14A-2008,USA F14,Hard,32,S,20080623,6,110685,,,Gd Jones,R,183,NZL,22.2,105398,,,Adam El Mihdawy,U,,USA,18.8,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,775,19
+2008-M-FU-USA-14A-2008,USA F14,Hard,32,S,20080623,6,110685,,,G D Jones,R,183,NZL,22.2,105398,,,Adam El Mihdawy,U,,USA,18.8,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,732,23,775,19
 2008-M-FU-USA-14A-2008,USA F14,Hard,32,S,20080623,7,109484,,Q,Ryan Thacher,R,,USA,18.7,105512,,Q,Alexander Sarkissian,R,191,USA,18.2,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2008-M-FU-USA-14A-2008,USA F14,Hard,32,S,20080623,8,104594,6,,Marinko Matosevic,R,194,AUS,22.8,103980,,,Chris Wettengel,R,,USA,26.1,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,423,70,716,24
 2008-M-FU-USA-14A-2008,USA F14,Hard,32,S,20080623,9,104261,8,,Peng Sun,R,,CHN,24.6,109186,,Q,Benjamin Lankenau,U,,USA,19.5,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,485,54,,
@@ -7426,14 +7426,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-M-FU-USA-14A-2008,USA F14,Hard,32,S,20080623,16,104281,2,,Ryler Deheart,L,183,USA,24.4,105187,,,Daniel Danilovic,R,,SWE,19.9,6-4 7-6(11),3,R32,,,,,,,,,,,,,,,,,,,,281,130,954,10
 2008-M-FU-USA-14A-2008,USA F14,Hard,32,S,20080623,17,104958,1,,Carsten Ball,L,198,AUS,21.0,104776,,WC,Kaes Vant Hof,L,185,USA,21.8,7-6(1) 4-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,232,164,1687,1
 2008-M-FU-USA-14A-2008,USA F14,Hard,32,S,20080623,18,105048,,WC,Alex Clayton,R,183,USA,20.5,104059,,,Rasmus Norby,R,183,DEN,25.7,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1261,3,658,29
-2008-M-FU-USA-14A-2008,USA F14,Hard,32,S,20080623,19,110685,,,Gd Jones,R,183,NZL,22.2,104952,3,,Martin Pedersen,R,,DEN,21.0,7-6(3) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,382,81
+2008-M-FU-USA-14A-2008,USA F14,Hard,32,S,20080623,19,110685,,,G D Jones,R,183,NZL,22.2,104952,3,,Martin Pedersen,R,,DEN,21.0,7-6(3) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,732,23,382,81
 2008-M-FU-USA-14A-2008,USA F14,Hard,32,S,20080623,20,104594,6,,Marinko Matosevic,R,194,AUS,22.8,109484,,Q,Ryan Thacher,R,,USA,18.7,4-6 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,423,70,,
 2008-M-FU-USA-14A-2008,USA F14,Hard,32,S,20080623,21,104261,8,,Peng Sun,R,,CHN,24.6,109601,,WC,Nicholas John Andrews,U,,USA,18.1,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,485,54,,
 2008-M-FU-USA-14A-2008,USA F14,Hard,32,S,20080623,22,104422,,,Hyung Kwon Kim,R,,KOR,23.8,109653,,LL,Jonathan David,R,170,CAN,19.8,6-2 6-7(8) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1120,6,,
 2008-M-FU-USA-14A-2008,USA F14,Hard,32,S,20080623,23,103625,,,Adriano Biasella,R,,ITA,27.8,104760,5,,Scott Oudsema,R,190,USA,21.9,7-6(5) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,558,42,397,77
 2008-M-FU-USA-14A-2008,USA F14,Hard,32,S,20080623,24,104281,2,,Ryler Deheart,L,183,USA,24.4,104732,,Q,Phillip Simmonds,R,,USA,22.0,6-0 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,281,130,704,25
 2008-M-FU-USA-14A-2008,USA F14,Hard,32,S,20080623,25,104958,1,,Carsten Ball,L,198,AUS,21.0,105048,,WC,Alex Clayton,R,183,USA,20.5,7-6(6) 6-1,3,QF,,,,,,,,,,,,,,,,,,,,232,164,1261,3
-2008-M-FU-USA-14A-2008,USA F14,Hard,32,S,20080623,26,104594,6,,Marinko Matosevic,R,194,AUS,22.8,110685,,,Gd Jones,R,183,NZL,22.2,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,423,70,,
+2008-M-FU-USA-14A-2008,USA F14,Hard,32,S,20080623,26,104594,6,,Marinko Matosevic,R,194,AUS,22.8,110685,,,G D Jones,R,183,NZL,22.2,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,423,70,732,23
 2008-M-FU-USA-14A-2008,USA F14,Hard,32,S,20080623,27,104261,8,,Peng Sun,R,,CHN,24.6,104422,,,Hyung Kwon Kim,R,,KOR,23.8,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,485,54,1120,6
 2008-M-FU-USA-14A-2008,USA F14,Hard,32,S,20080623,28,104281,2,,Ryler Deheart,L,183,USA,24.4,103625,,,Adriano Biasella,R,,ITA,27.8,6-3 4-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,281,130,558,42
 2008-M-FU-USA-14A-2008,USA F14,Hard,32,S,20080623,29,104958,1,,Carsten Ball,L,198,AUS,21.0,104594,6,,Marinko Matosevic,R,194,AUS,22.8,6-4 7-6(4),3,SF,,,,,,,,,,,,,,,,,,,,232,164,423,70
@@ -9032,7 +9032,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-M-FU-USA-19A-2008,USA F19,Hard,32,S,20080721,10,104213,,,Tigran Martirosyan,R,,ARM,25.0,105553,,,Ty Trombetta,R,,USA,18.1,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,911,12,992,9
 2008-M-FU-USA-19A-2008,USA F19,Hard,32,S,20080721,11,104949,,,Weerapat Doakmaiklee,R,,THA,21.1,105140,,Q,Joshua Zavala,U,,USA,20.2,7-6(9) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,886,13,,
 2008-M-FU-USA-19A-2008,USA F19,Hard,32,S,20080721,12,105370,,Q,Roy Kalmanovich,U,,USA,19.0,104142,4,,Peter Shults,U,,USA,25.3,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1611,1,631,34
-2008-M-FU-USA-19A-2008,USA F19,Hard,32,S,20080721,13,104516,,SE,Arnau Brugues Davi,L,183,ESP,23.3,110685,6,,Gd Jones,R,183,NZL,22.3,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2008-M-FU-USA-19A-2008,USA F19,Hard,32,S,20080721,13,104516,,SE,Arnau Brugues Davi,L,183,ESP,23.3,110685,6,,G D Jones,R,183,NZL,22.3,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,658,32
 2008-M-FU-USA-19A-2008,USA F19,Hard,32,S,20080721,14,104612,,Q,Daniel Yoo,L,,KOR,22.8,104133,,SE,Ytai Abougzir,R,,USA,25.4,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1348,3,1412,2
 2008-M-FU-USA-19A-2008,USA F19,Hard,32,S,20080721,15,110643,,Q,Thomas Liversage,U,,RSA,22.1,110499,,WC,Justin Kronauge,U,,USA,20.7,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,1471,2
 2008-M-FU-USA-19A-2008,USA F19,Hard,32,S,20080721,16,105572,,,Austin Krajicek,L,188,USA,18.0,104155,2,,Sunil Kumar Sipaeya,L,,IND,25.2,7-6(3) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,965,10,523,49
@@ -9364,7 +9364,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-M-FU-USA-20A-2008,USA F20,Hard,32,S,20080728,1,105038,1,,Milan Pokrajac,U,,CAN,20.7,120990,,WC,Brian Compton,R,,USA,22.4,3-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,555,44,,
 2008-M-FU-USA-20A-2008,USA F20,Hard,32,S,20080728,2,104776,,Q,Kaes Vant Hof,L,185,USA,21.9,104040,,,Adam Thompson,R,,NZL,26.0,6-2 3-6 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,1417,2,776,20
 2008-M-FU-USA-20A-2008,USA F20,Hard,32,S,20080728,3,104213,,SE,Tigran Martirosyan,R,,ARM,25.0,104949,,SE,Weerapat Doakmaiklee,R,,THA,21.1,6-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,741,22,891,13
-2008-M-FU-USA-20A-2008,USA F20,Hard,32,S,20080728,4,110685,8,,Gd Jones,R,183,NZL,22.3,105378,,Q,Jeff Dadamo,U,,USA,19.0,6-2 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1622,1
+2008-M-FU-USA-20A-2008,USA F20,Hard,32,S,20080728,4,110685,8,,G D Jones,R,183,NZL,22.3,105378,,Q,Jeff Dadamo,U,,USA,19.0,6-2 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,647,32,1622,1
 2008-M-FU-USA-20A-2008,USA F20,Hard,32,S,20080728,5,104652,4,,Todd Paul,L,180,USA,22.5,121171,,LL,Austin Klores,R,,USA,18.8,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,570,41,,
 2008-M-FU-USA-20A-2008,USA F20,Hard,32,S,20080728,6,120725,,Q,Jarmaine Jenkins,U,,USA,23.6,104045,,,Lance Vodicka,U,,USA,25.9,6-3 4-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,1622,1,779,20
 2008-M-FU-USA-20A-2008,USA F20,Hard,32,S,20080728,7,105004,,LL,Dimitar Kutrovsky,R,175,BUL,20.9,104436,,WC,Robbye Poole,U,,USA,23.8,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1533,1,1103,6
@@ -9378,7 +9378,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-M-FU-USA-20A-2008,USA F20,Hard,32,S,20080728,15,104973,,Q,Conor Pollock,U,,USA,21.0,105290,,WC,Tyler Hochwalt,U,,USA,19.4,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1237,4,,
 2008-M-FU-USA-20A-2008,USA F20,Hard,32,S,20080728,16,104071,2,,Raven Klaasen,R,180,RSA,25.7,110634,,Q,Matthew Allare,U,,USA,19.3,4-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,511,50,1533,1
 2008-M-FU-USA-20A-2008,USA F20,Hard,32,S,20080728,17,104776,,Q,Kaes Vant Hof,L,185,USA,21.9,105038,1,,Milan Pokrajac,U,,CAN,20.7,6-1 6-7(4) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1417,2,555,44
-2008-M-FU-USA-20A-2008,USA F20,Hard,32,S,20080728,18,104213,,SE,Tigran Martirosyan,R,,ARM,25.0,110685,8,,Gd Jones,R,183,NZL,22.3,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,741,22,,
+2008-M-FU-USA-20A-2008,USA F20,Hard,32,S,20080728,18,104213,,SE,Tigran Martirosyan,R,,ARM,25.0,110685,8,,G D Jones,R,183,NZL,22.3,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,741,22,647,32
 2008-M-FU-USA-20A-2008,USA F20,Hard,32,S,20080728,19,104652,4,,Todd Paul,L,180,USA,22.5,120725,,Q,Jarmaine Jenkins,U,,USA,23.6,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,570,41,1622,1
 2008-M-FU-USA-20A-2008,USA F20,Hard,32,S,20080728,20,110643,,Q,Thomas Liversage,U,,RSA,22.1,105004,,LL,Dimitar Kutrovsky,R,175,BUL,20.9,6-3 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,1533,1,1533,1
 2008-M-FU-USA-20A-2008,USA F20,Hard,32,S,20080728,21,104715,,,Ryan Rowe,L,,USA,22.3,102982,6,,Yaoki Ishii,R,,JPN,31.2,6-3 7-6(1),3,R16,,,,,,,,,,,,,,,,,,,,810,17,648,32
@@ -9830,7 +9830,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-M-FU-USA-21A-2008,USA F21,Hard,32,S,20080804,2,104422,,,Hyung Kwon Kim,R,,KOR,23.9,104949,,,Weerapat Doakmaiklee,R,,THA,21.1,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1012,9,874,14
 2008-M-FU-USA-21A-2008,USA F21,Hard,32,S,20080804,3,105336,,Q,Nicolas Meister,U,180,USA,19.2,104133,,,Ytai Abougzir,R,,USA,25.4,7-6(2) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1290,3,1231,4
 2008-M-FU-USA-21A-2008,USA F21,Hard,32,S,20080804,4,104435,6,,Ryan Young,U,,USA,23.8,104921,,Q,Kirati Siributwong,R,,THA,21.2,6-7(2) 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,762,20,1071,7
-2008-M-FU-USA-21A-2008,USA F21,Hard,32,S,20080804,5,110685,3,,Gd Jones,R,183,NZL,22.3,104507,,,Jeffrey Das,R,,USA,23.4,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,1019,9
+2008-M-FU-USA-21A-2008,USA F21,Hard,32,S,20080804,5,110685,3,,G D Jones,R,183,NZL,22.3,104507,,,Jeffrey Das,R,,USA,23.4,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,650,32,1019,9
 2008-M-FU-USA-21A-2008,USA F21,Hard,32,S,20080804,6,104761,,,Will Gray,R,,USA,22.0,103259,,Q,Carlos Llanes,U,,ARG,29.9,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1540,1,,
 2008-M-FU-USA-21A-2008,USA F21,Hard,32,S,20080804,7,120812,,Q,John Hoyes,R,,USA,24.2,120990,,WC,Brian Compton,R,,USA,22.5,3-6 7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1626,1,,
 2008-M-FU-USA-21A-2008,USA F21,Hard,32,S,20080804,8,104040,7,,Adam Thompson,R,,NZL,26.0,104971,,WC,Blake Strode,R,188,USA,21.0,1-6 6-3 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,809,18,1206,4
@@ -9844,14 +9844,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-M-FU-USA-21A-2008,USA F21,Hard,32,S,20080804,16,104781,2,,Yuichi Ito,R,,JPN,21.9,104790,,,Marek Czerwinski,U,,USA,21.9,7-6(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,540,46,1473,2
 2008-M-FU-USA-21A-2008,USA F21,Hard,32,S,20080804,17,104422,,,Hyung Kwon Kim,R,,KOR,23.9,104071,1,,Raven Klaasen,R,180,RSA,25.8,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,1012,9,509,50
 2008-M-FU-USA-21A-2008,USA F21,Hard,32,S,20080804,18,104435,6,,Ryan Young,U,,USA,23.8,105336,,Q,Nicolas Meister,U,180,USA,19.2,6-7(8) 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,762,20,1290,3
-2008-M-FU-USA-21A-2008,USA F21,Hard,32,S,20080804,19,110685,3,,Gd Jones,R,183,NZL,22.3,104761,,,Will Gray,R,,USA,22.0,6-3 2-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,1540,1
+2008-M-FU-USA-21A-2008,USA F21,Hard,32,S,20080804,19,110685,3,,G D Jones,R,183,NZL,22.3,104761,,,Will Gray,R,,USA,22.0,6-3 2-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,650,32,1540,1
 2008-M-FU-USA-21A-2008,USA F21,Hard,32,S,20080804,20,104040,7,,Adam Thompson,R,,NZL,26.0,120812,,Q,John Hoyes,R,,USA,24.2,6-0 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,809,18,1626,1
 2008-M-FU-USA-21A-2008,USA F21,Hard,32,S,20080804,21,104774,,,Sheeva Parbhu,U,,USA,22.0,104973,,,Conor Pollock,U,,USA,21.0,7-5 2-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,1237,4
 2008-M-FU-USA-21A-2008,USA F21,Hard,32,S,20080804,22,104213,4,,Tigran Martirosyan,R,,ARM,25.0,110634,,Q,Matthew Allare,U,,USA,19.3,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,781,19,1540,1
 2008-M-FU-USA-21A-2008,USA F21,Hard,32,S,20080804,23,104612,,,Daniel Yoo,L,,KOR,22.8,121172,,Q,Abhaya Prakash,R,,IND,22.8,6-3 3-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,1361,3,,
 2008-M-FU-USA-21A-2008,USA F21,Hard,32,S,20080804,24,104776,,,Kaes Vant Hof,L,185,USA,22.0,104781,2,,Yuichi Ito,R,,JPN,21.9,6-4 5-7 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1421,2,540,46
 2008-M-FU-USA-21A-2008,USA F21,Hard,32,S,20080804,25,104435,6,,Ryan Young,U,,USA,23.8,104422,,,Hyung Kwon Kim,R,,KOR,23.9,5-7 6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,762,20,1012,9
-2008-M-FU-USA-21A-2008,USA F21,Hard,32,S,20080804,26,104040,7,,Adam Thompson,R,,NZL,26.0,110685,3,,Gd Jones,R,183,NZL,22.3,7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,809,18,,
+2008-M-FU-USA-21A-2008,USA F21,Hard,32,S,20080804,26,104040,7,,Adam Thompson,R,,NZL,26.0,110685,3,,G D Jones,R,183,NZL,22.3,7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,809,18,650,32
 2008-M-FU-USA-21A-2008,USA F21,Hard,32,S,20080804,27,104213,4,,Tigran Martirosyan,R,,ARM,25.0,104774,,,Sheeva Parbhu,U,,USA,22.0,7-6(4) 7-5,3,QF,,,,,,,,,,,,,,,,,,,,781,19,,
 2008-M-FU-USA-21A-2008,USA F21,Hard,32,S,20080804,28,104612,,,Daniel Yoo,L,,KOR,22.8,104776,,,Kaes Vant Hof,L,185,USA,22.0,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,1361,3,1421,2
 2008-M-FU-USA-21A-2008,USA F21,Hard,32,S,20080804,29,104435,6,,Ryan Young,U,,USA,23.8,104040,7,,Adam Thompson,R,,NZL,26.0,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,762,20,809,18
@@ -13460,7 +13460,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-M-FU-MEX-10A-2008,Mexico F10,Hard,32,S,20080929,5,104496,3,,Luis Manuel Flores,L,,MEX,23.6,104535,,,Daniel Garza,R,,MEX,23.4,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,423,70,681,28
 2008-M-FU-MEX-10A-2008,Mexico F10,Hard,32,S,20080929,6,110642,,Q,Richard Johnson,U,,USA,22.5,105593,,,Yannick Vandenbulcke,R,,BEL,18.2,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1854,1,1220,4
 2008-M-FU-MEX-10A-2008,Mexico F10,Hard,32,S,20080929,7,104718,,WC,Luis Diaz Barriga,R,,MEX,22.4,104983,,Q,Kyle Brassington,U,,GBR,21.1,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1284,4
-2008-M-FU-MEX-10A-2008,Mexico F10,Hard,32,S,20080929,8,105791,,WC,Mauricio Astorga,L,,MEX,17.2,110685,7,,Gd Jones,R,183,NZL,22.4,7-6(11) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2008-M-FU-MEX-10A-2008,Mexico F10,Hard,32,S,20080929,8,105791,,WC,Mauricio Astorga,L,,MEX,17.2,110685,7,,G D Jones,R,183,NZL,22.4,7-6(11) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,616,36
 2008-M-FU-MEX-10A-2008,Mexico F10,Hard,32,S,20080929,9,104802,8,,Fabrice Martin,R,198,FRA,22.0,120395,,Q,Yevgeny Perepelov,U,,USA,21.6,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,632,33,,
 2008-M-FU-MEX-10A-2008,Mexico F10,Hard,32,S,20080929,10,104562,,,James Ludlow,U,,USA,23.3,104472,,,Antoine Tassart,U,,FRA,23.7,6-1 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,1251,4,836,16
 2008-M-FU-MEX-10A-2008,Mexico F10,Hard,32,S,20080929,11,105320,,,Eduardo Peralta Tello,R,,MEX,19.4,105471,,,Cesar Ramirez,R,180,MEX,18.6,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1003,9,633,33
@@ -14423,7 +14423,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-M-FU-USA-26A-2008,USA F26,Hard,32,S,20081013,8,104496,6,,Luis Manuel Flores,L,,MEX,23.6,105730,,WC,Devin Britton,R,193,USA,17.5,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,493,56,1829,1
 2008-M-FU-USA-26A-2008,USA F26,Hard,32,S,20081013,9,104732,7,,Phillip Simmonds,R,,USA,22.4,111739,,Q,Maksim Tikhomirov,U,,USA,18.2,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,519,51,,
 2008-M-FU-USA-26A-2008,USA F26,Hard,32,S,20081013,10,105229,,,Philip Bester,R,188,CAN,20.0,105398,,Q,Adam El Mihdawy,U,,USA,19.1,6-3 3-6 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,837,16,791,19
-2008-M-FU-USA-26A-2008,USA F26,Hard,32,S,20081013,11,104326,,,Brett Ross,R,,USA,24.5,110685,,,Gd Jones,R,183,NZL,22.5,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,737,23,,
+2008-M-FU-USA-26A-2008,USA F26,Hard,32,S,20081013,11,104326,,,Brett Ross,R,,USA,24.5,110685,,,G D Jones,R,183,NZL,22.5,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,737,23,622,36
 2008-M-FU-USA-26A-2008,USA F26,Hard,32,S,20081013,12,104677,3,,Artem Sitak,R,185,NZL,22.6,104733,,,Greg Ouellette,U,,USA,22.4,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,358,95,787,19
 2008-M-FU-USA-26A-2008,USA F26,Hard,32,S,20081013,13,104681,5,,Sebastian Rieschick,R,,GER,22.6,104774,,WC,Sheeva Parbhu,U,,USA,22.2,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,437,69,998,9
 2008-M-FU-USA-26A-2008,USA F26,Hard,32,S,20081013,14,104715,,,Ryan Rowe,L,,USA,22.5,190037,,WC,Brad Pomeroy,U,,USA,24.1,6-1 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,783,19,1088,7

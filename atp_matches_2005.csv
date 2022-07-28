@@ -86,7 +86,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-301,Auckland,Hard,32,A,20050110,7,103252,,,Alberto Martin,R,175,ESP,26.3,104259,,Q,Philipp Kohlschreiber,R,178,GER,21.2,6-4 7-5,3,R32,111,0,3,91,53,37,20,11,9,10,2,5,74,38,26,18,11,11,14,69,573,88,458
 2005-301,Auckland,Hard,32,A,20050110,8,103401,,Q,Jan Hernych,R,190,CZE,25.5,103507,7,,Juan Carlos Ferrero,R,183,ESP,24.9,6-7(1) 6-1 6-3,3,R32,113,4,3,86,54,40,15,14,4,7,5,5,95,52,35,17,14,4,11,78,484,32,955
 2005-301,Auckland,Hard,32,A,20050110,9,103602,5,,Fernando Gonzalez,R,183,CHI,24.4,103484,,WC,James Blake,R,185,USA,25.0,7-6(4) 6-1,3,R32,76,5,3,71,38,29,20,10,5,6,1,2,54,30,20,12,9,1,4,23,1235,96,440
-2005-301,Auckland,Hard,32,A,20050110,10,103151,,,Mariano Zabaleta,R,183,ARG,26.8,104711,,WC,G Jones,R,183,NZL,18.7,6-0 6-2,3,R32,48,3,3,36,20,18,7,7,0,1,0,5,39,24,7,7,7,3,9,54,735,,
+2005-301,Auckland,Hard,32,A,20050110,10,103151,,,Mariano Zabaleta,R,183,ARG,26.8,110685,,WC,G D Jones,R,183,NZL,18.7,6-0 6-2,3,R32,48,3,3,36,20,18,7,7,0,1,0,5,39,24,7,7,7,3,9,54,735,,
 2005-301,Auckland,Hard,32,A,20050110,11,104068,,,Robby Ginepri,R,183,USA,22.2,102860,,,Agustin Calleri,R,183,ARG,28.3,2-6 6-4 6-3,3,R32,91,3,2,82,55,41,9,14,3,6,6,4,79,35,28,19,13,1,4,62,625,65,590
 2005-301,Auckland,Hard,32,A,20050110,12,102434,4,,Vincent Spadea,R,183,USA,30.4,103176,,,David Sanchez,R,183,ESP,26.7,6-0 6-0,3,R32,45,1,1,33,16,13,12,6,0,0,0,2,34,22,9,0,6,4,10,19,1285,72,528
 2005-301,Auckland,Hard,32,A,20050110,13,103428,6,,Juan Ignacio Chela,R,190,ARG,25.3,104198,,,Guillermo Garcia Lopez,R,188,ESP,21.6,6-2 6-2,3,R32,73,0,0,46,32,24,9,8,0,0,2,2,64,39,20,12,8,9,13,26,1170,108,412
@@ -3217,9 +3217,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-D073,Davis Cup G2 PO: JAM vs CUB,Hard,4,D,20050715,2,108941,,,Damar Johnson,U,,JAM,21.4,103905,,,Ricardo Chile Fonte,U,,CUB,23.5,6-3 7-6(6) 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 2005-D073,Davis Cup G2 PO: JAM vs CUB,Hard,4,D,20050715,4,104210,,,Ryan Russell,L,,JAM,22.0,103905,,,Ricardo Chile Fonte,U,,CUB,23.5,3-6 7-6(2) 7-6(6) 2-3 RET,5,RR,,,,,,,,,,,,,,,,,,,,736,19,,
 2005-D074,Davis Cup G2 R1: NZL vs KAZ,Hard,4,D,20050304,1,103066,,,Mark Nielsen,R,185,NZL,27.3,104463,,,Dmitriy Makeyev,U,,KAZ,20.2,6-0 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,,543,41,1478,1
-2005-D074,Davis Cup G2 R1: NZL vs KAZ,Hard,4,D,20050304,2,110685,,,Gd Jones,R,183,NZL,18.9,103612,,,Alexey Kedryuk,R,193,KAZ,24.5,6-3 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,425,64
+2005-D074,Davis Cup G2 R1: NZL vs KAZ,Hard,4,D,20050304,2,110685,,,G D Jones,R,183,NZL,18.9,103612,,,Alexey Kedryuk,R,193,KAZ,24.5,6-3 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,1083,5,425,64
 2005-D074,Davis Cup G2 R1: NZL vs KAZ,Hard,4,D,20050304,4,103612,,,Alexey Kedryuk,R,193,KAZ,24.5,104907,,,Jose Rubin Statham,R,183,NZL,17.8,6-4 7-5,3,RR,,,,,,,,,,,,,,,,,,,,425,64,1067,6
-2005-D074,Davis Cup G2 R1: NZL vs KAZ,Hard,4,D,20050304,5,110685,,,Gd Jones,R,183,NZL,18.9,108944,,,Stanislav Bykov,R,,KAZ,16.5,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2005-D074,Davis Cup G2 R1: NZL vs KAZ,Hard,4,D,20050304,5,110685,,,G D Jones,R,183,NZL,18.9,108944,,,Stanislav Bykov,R,,KAZ,16.5,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,1083,5,,
 2005-D075,Davis Cup G2 R1: IRI vs KUW,Clay,4,D,20050304,1,104895,,,Abdullah Maqdas,U,,KUW,17.9,103803,,,Ashkan Shokoofi,U,,IRI,23.6,7-6(7) 7-5 6-3,5,RR,,,,,,,,,,,,,,,,,,,,1478,1,877,10
 2005-D075,Davis Cup G2 R1: IRI vs KUW,Clay,4,D,20050304,2,103600,,,Mohammad Ghareeb,R,,KUW,24.6,103875,,,Anoosha Shahgholi,U,,IRI,23.3,7-5 7-6(5) 6-3,5,RR,,,,,,,,,,,,,,,,,,,,668,25,1047,6
 2005-D075,Davis Cup G2 R1: IRI vs KUW,Clay,4,D,20050304,4,103050,,,Shahab Hassani Nafez,R,,IRI,27.4,108925,,,Ahmad Rabeea Muhammad,R,,KUW,17.9,6-2 7-5,3,RR,,,,,,,,,,,,,,,,,,,,974,7,,
@@ -3233,7 +3233,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-D077,Davis Cup G2 R1: PHI vs KOR,Clay,4,D,20050304,4,104753,,,Woong Sun Jun,R,190,KOR,18.7,104591,,,Patrick Tierro,U,,PHI,19.5,6-3 6-3 6-3,5,RR,,,,,,,,,,,,,,,,,,,,713,21,1133,4
 2005-D077,Davis Cup G2 R1: PHI vs KOR,Clay,4,D,20050304,5,108594,,,Johnny Arcilla,U,,PHI,25.0,104565,,,Hyun Joon Suk,R,,KOR,19.7,6-2 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,1100,5
 2005-D078,Davis Cup G2 R2: NZL vs KUW,Hard,4,D,20050715,1,103066,,,Mark Nielsen,R,185,NZL,27.7,104895,,,Abdullah Maqdas,U,,KUW,18.2,7-6(1) 1-6 6-4 6-1,5,RR,,,,,,,,,,,,,,,,,,,,414,68,1479,1
-2005-D078,Davis Cup G2 R2: NZL vs KUW,Hard,4,D,20050715,2,110685,,,Gd Jones,R,183,NZL,19.2,103600,,,Mohammad Ghareeb,R,,KUW,24.9,3-6 6-4 7-5 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,635,30
+2005-D078,Davis Cup G2 R2: NZL vs KUW,Hard,4,D,20050715,2,110685,,,G D Jones,R,183,NZL,19.2,103600,,,Mohammad Ghareeb,R,,KUW,24.9,3-6 6-4 7-5 6-2,5,RR,,,,,,,,,,,,,,,,,,,,950,8,635,30
 2005-D078,Davis Cup G2 R2: NZL vs KUW,Hard,4,D,20050715,4,103600,,,Mohammad Ghareeb,R,,KUW,24.9,104040,,,Adam Thompson,R,,NZL,22.9,7-5 6-3,3,RR,,,,,,,,,,,,,,,,,,,,635,30,713,21
 2005-D078,Davis Cup G2 R2: NZL vs KUW,Hard,4,D,20050715,5,104895,,,Abdullah Maqdas,U,,KUW,18.2,104368,,,Daniel King Turner,R,190,NZL,21.1,7-6(4) 5-7 6-3,3,RR,,,,,,,,,,,,,,,,,,,,1479,1,722,20
 2005-D079,Davis Cup G2 R2: KOR vs POC,Hard,4,D,20050715,1,104928,,,Sun Yong Kim Jr,R,,KOR,18.1,104702,,,Michael Leong,R,,SOL,19.3,6-0 3-6 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,,848,12,,
