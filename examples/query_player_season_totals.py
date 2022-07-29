@@ -7,15 +7,17 @@ from collections import Counter
 ## to create "player-season" rate stats, e.g. Ace% for Roger Federer in
 ## 2015 or SPW% for Sara Errani in 2021.
 
-mw = 'm'            ## 'm' = men, 'w' = women
-yrstart = 2018      ## first season to calculate totals
-yrend = 2019        ## last season to calculate totals
-match_min = 20      ## minimum number of matches (with matchstats)
-                    ## a player must have to be included for a given year
+mw = 'm'  ## 'm' = men, 'w' = women
+yrstart = 2018  ## first season to calculate totals
+yrend = 2019  ## last season to calculate totals
+match_min = 20  ## minimum number of matches (with matchstats)
+## a player must have to be included for a given year
 input_path = '../'  ## path to the single-season results csv files
 
-if mw == 'm':   prefix = 'atp'
-else:           prefix = 'wta'
+if mw == 'm':
+    prefix = 'atp'
+else:
+    prefix = 'wta'
 
 output_path = 'player_season_totals_' + prefix + '_' + str(yrstart) + '_' + str(yrend) + '.csv'
 
@@ -34,8 +36,14 @@ for yr in range(yrstart, yrend + 1):
     ## make list of all players with a result
     players = [k[10] for k in matches] + [k[18] for k in matches]
     ## limit list of players to those with at least match_min matches
-    qualifs = [k for k, v in Counter(players).iteritems() if v >= match_min]
-    
+    # Python 2 or Python 3
+    try:
+        ## Python 2: iteritems() is from Python 2
+        qualifs = [k for k, v in Counter(players).iteritems() if v >= match_min]
+    except AttributeError:
+        ## Python 3: use items() for Python 3
+        qualifs = [k for k, v in Counter(players).items() if v >= match_min]
+
     for pl in qualifs:
         ## find all of the players matches
         pmatches = [k for k in matches if pl in [k[10], k[18]]]
@@ -50,8 +58,8 @@ for yr in range(yrstart, yrend + 1):
         match_count = len(pmatches)
         wins = len([k for k in pmatches if k[10] == pl])
         losses = match_count - wins
-        win_perc = wins / float(match_count)        
-        
+        win_perc = wins / float(match_count)
+
         ## readable names for serve stats
         aces, dfs, svpt, firstin, firstwon, secondwon = sum_row[1:7]
         ## calculate common rate stats
@@ -77,8 +85,16 @@ for yr in range(yrstart, yrend + 1):
                spw_rate, rpw_rate, tpw_rate, dom_ratio]
         player_seasons.append(row)
 
-results  = open(output_path, 'wb')
-writer = csv.writer(results)
-for row in player_seasons:    writer.writerow(row)
-results.close()
-
+# Python 2 or Python 3
+try:
+    # Python 2 : use binary mode to open outfile with mode 'wb' instead of 'w' to prevent Windows newline translation.
+    results = open(output_path, 'wb')
+    writer = csv.writer(results)
+    for row in player_seasons:    writer.writerow(row)
+    results.close()
+except TypeError:
+    # Python 3 : the file must be opened in untranslated text mode with the parameters 'w', newline='' (empty string)
+    results = open(output_path, 'w', newline='')
+    writer = csv.writer(results)
+    for row in player_seasons:    writer.writerow(row)
+    results.close()
