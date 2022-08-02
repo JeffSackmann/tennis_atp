@@ -837,7 +837,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1975-309,Madrid,Clay,64,A,19751012,252,100300,,,Jose Higueras,R,178,ESP,22.6,100106,,,Graham Stilwell,R,173,GBR,29.9,6-0 7-5,3,R64,,,,,,,,,,,,,,,,,,,,62,,,
 1975-309,Madrid,Clay,64,A,19751012,253,100064,,,Juan Gisbert,R,,ESP,33.5,106561,,,Anthony Fawcett,R,,RSA,,6-4 6-4,3,R64,,,,,,,,,,,,,,,,,,,,33,,,
 1975-309,Madrid,Clay,64,A,19751012,254,100403,,,Rolf Gehring,R,185,GER,19.8,100221,,,Carlos Kirmayr,R,173,BRA,25.0,6-1 4-6 7-5,3,R64,,,,,,,,,,,,,,,,,,,,,,,
-1975-309,Madrid,Clay,64,A,19751012,255,100115,,,Jaime Fillol,R,180,CHI,29.3,111136,,,Terry Ryan,R,,RSA,33.4,6-1 6-2,3,R64,,,,,,,,,,,,,,,,,,,,24,,,
+1975-309,Madrid,Clay,64,A,19751012,255,100115,,,Jaime Fillol,R,180,CHI,29.3,100065,,,Terry Ryan,R,,RSA,33.4,6-1 6-2,3,R64,,,,,,,,,,,,,,,,,,,,24,,,
 1975-309,Madrid,Clay,64,A,19751012,256,100280,,,Wojtek Fibak,R,183,POL,23.1,100172,,,Tito Vazquez,R,173,ARG,26.7,6-3 5-7 6-4,3,R64,,,,,,,,,,,,,,,,,,,,70,,,
 1975-309,Madrid,Clay,64,A,19751012,257,100161,,,Jurgen Fassbender,R,,GER,27.3,100272,,,Sandy Mayer,R,178,USA,23.5,6-3 3-6 6-2,3,R64,,,,,,,,,,,,,,,,,,,,54,,36,
 1975-309,Madrid,Clay,64,A,19751012,258,100056,,,Harald Elschenbroich,R,,GER,34.3,100122,,,Julian Ganzabal,R,,ARG,29.1,4-6 6-0 7-5,3,R64,,,,,,,,,,,,,,,,,,,,85,,,
@@ -2864,7 +2864,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1975-540,Wimbledon,Grass,128,G,19750623,42,100205,,,Paul Gerken,R,185,USA,25.2,100054,,,Jose Edison Mandarino,R,173,BRA,34.2,3-6 3-6 6-1 6-3 17-15,5,R128,,,,,,,,,,,,,,,,,,,,70,0,81,0
 1975-540,Wimbledon,Grass,128,G,19750623,43,100091,,,Colin Dibley,R,188,AUS,30.7,100372,,,Trey Waltke,R,173,USA,20.2,7-5 6-3 6-3,5,R128,,,,,,,,,,,,,,,,,,,,103,0,72,0
 1975-540,Wimbledon,Grass,128,G,19750623,44,100060,13,,Marty Riessen,R,185,USA,33.5,100185,,,Patrick Proisy,R,180,FRA,25.7,6-3 6-2 6-2,5,R128,,,,,,,,,,,,,,,,,,,,14,0,48,0
-1975-540,Wimbledon,Grass,128,G,19750623,45,100312,,Q,Chiraid Mukherjea,R,,IND,21.8,100280,,,Wojtek Fibak,R,183,POL,22.8,4-6 7-5 9-7 6-4,5,R128,,,,,,,,,,,,,,,,,,,,265,0,64,0
+1975-540,Wimbledon,Grass,128,G,19750623,45,110166,,Q,Chiradip Mukerjea,R,,IND,21.8,100280,,,Wojtek Fibak,R,183,POL,22.8,4-6 7-5 9-7 6-4,5,R128,,,,,,,,,,,,,,,,,,,,265,,64,0
 1975-540,Wimbledon,Grass,128,G,19750623,46,100115,,,Jaime Fillol,R,180,CHI,29.0,100058,,,Roger Taylor,L,183,GBR,33.6,6-3 8-6 6-4,5,R128,,,,,,,,,,,,,,,,,,,,26,0,35,0
 1975-540,Wimbledon,Grass,128,G,19750623,47,100076,,,Milan Holecek,R,190,CZE,31.6,100056,,,Harald Elschenbroich,R,,GER,34.0,6-2 6-4 6-4,5,R128,,,,,,,,,,,,,,,,,,,,75,0,104,0
 1975-540,Wimbledon,Grass,128,G,19750623,48,100437,3,,Bjorn Borg,R,180,SWE,19.0,100258,,Q,Jorge Andrew,R,,VEN,23.6,6-2 6-4 6-4,5,R128,,,,,,,,,,,,,,,,,,,,4,0,162,0
@@ -2906,7 +2906,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1975-540,Wimbledon,Grass,128,G,19750623,84,100074,6,,Arthur Ashe,R,185,USA,31.9,100146,,,Jun Kamiwazumi,R,,JPN,27.7,6-2 7-5 6-4,5,R64,,,,,,,,,,,,,,,,,,,,8,0,78,0
 1975-540,Wimbledon,Grass,128,G,19750623,85,100081,,,Charlie Pasarell,R,185,USA,31.3,100205,,,Paul Gerken,R,185,USA,25.2,6-3 6-3 6-1,5,R64,,,,,,,,,,,,,,,,,,,,47,0,70,0
 1975-540,Wimbledon,Grass,128,G,19750623,86,100060,13,,Marty Riessen,R,185,USA,33.5,100091,,,Colin Dibley,R,188,AUS,30.7,9-8 6-2 6-3,5,R64,,,,,,,,,,,,,,,,,,,,14,0,103,0
-1975-540,Wimbledon,Grass,128,G,19750623,87,100115,,,Jaime Fillol,R,180,CHI,29.0,100312,,Q,Chiraid Mukherjea,R,,IND,21.8,6-3 3-6 6-2 6-3,5,R64,,,,,,,,,,,,,,,,,,,,26,0,265,0
+1975-540,Wimbledon,Grass,128,G,19750623,87,100115,,,Jaime Fillol,R,180,CHI,29.0,110166,,Q,Chiradip Mukerjea,R,,IND,21.8,6-3 3-6 6-2 6-3,5,R64,,,,,,,,,,,,,,,,,,,,26,0,265,
 1975-540,Wimbledon,Grass,128,G,19750623,88,100437,3,,Bjorn Borg,R,180,SWE,19.0,100076,,,Milan Holecek,R,190,CZE,31.6,3-6 6-3 6-4 9-8,5,R64,,,,,,,,,,,,,,,,,,,,4,0,75,0
 1975-540,Wimbledon,Grass,128,G,19750623,89,100273,,,Kim Warwick,R,183,AUS,23.2,100199,,,Patrice Dominguez,L,173,FRA,25.4,4-6 8-6 7-5 4-6 6-1,5,R64,,,,,,,,,,,,,,,,,,,,40,0,61,0
 1975-540,Wimbledon,Grass,128,G,19750623,90,100084,9,,Tom Okker,R,178,NED,31.3,100196,,,Haroon Rahim,R,,PAK,25.6,8-9 4-6 9-7 6-3 6-0,5,R64,,,,,,,,,,,,,,,,,,,,10,0,97,0
@@ -3513,10 +3513,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1975-680,Calcutta,Clay,32,A,19751117,271,100273,,,Kim Warwick,R,183,AUS,23.6,100469,,,Ashok Amritraj,R,,IND,18.7,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,39,,,
 1975-680,Calcutta,Clay,32,A,19751117,272,100196,,,Haroon Rahim,R,,PAK,26.0,100300,,,Jose Higueras,R,178,ESP,22.7,2-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,62,
 1975-680,Calcutta,Clay,32,A,19751117,273,100272,,,Sandy Mayer,R,178,USA,23.6,100266,,,John Feaver,R,190,GBR,23.7,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,36,,,
-1975-680,Calcutta,Clay,32,A,19751117,274,100346,,,Paul Kronk,R,,AUS,21.1,110991,,,Jaidip Mukerjea,U,,IND,33.5,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,89,,,
+1975-680,Calcutta,Clay,32,A,19751117,274,100346,,,Paul Kronk,R,,AUS,21.1,110991,,,Jaidip Mukerjea,R,,IND,33.5,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,89,,,
 1975-680,Calcutta,Clay,32,A,19751117,275,100127,,,Tom Gorman,R,180,USA,28.9,100023,,,Ramanathan Krishnan,R,,IND,38.6,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,49,,,
 1975-680,Calcutta,Clay,32,A,19751117,276,100064,,,Juan Gisbert,R,,ESP,33.6,100247,,,Rolf Thung,L,190,NED,24.3,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,33,,,
-1975-680,Calcutta,Clay,32,A,19751117,277,100238,,,Rick Fisher,R,,USA,24.6,110166,,,Chiradip Mukerjea,U,,IND,22.2,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1975-680,Calcutta,Clay,32,A,19751117,277,100238,,,Rick Fisher,R,,USA,24.6,110166,,,Chiradip Mukerjea,R,,IND,22.2,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1975-680,Calcutta,Clay,32,A,19751117,278,100145,,,Dick Dell,R,,USA,28.1,100107,,,Robert Rheinberger,R,,AUS,29.9,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1975-680,Calcutta,Clay,32,A,19751117,279,100301,,,Jim Delaney,R,,USA,22.6,100270,,,Anand Amritraj,R,185,IND,23.6,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,81,
 1975-680,Calcutta,Clay,32,A,19751117,280,100090,,,Dick Crealy,R,191,AUS,31.1,100243,,,Steve Krulevitz,R,175,USA,24.4,6-4 7-6,3,R32,,,,,,,,,,,,,,,,,,,,58,,,
@@ -3912,7 +3912,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1975-9207,Algiers,Clay,32,A,19750217,277,100268,,,Denis Naegelen,R,,FRA,22.9,109771,,,Jairo Velasco,R,173,ESP,27.7,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,214,,,
 1975-9207,Algiers,Clay,32,A,19750217,278,100170,,,Bernard Mignot,R,,BEL,26.2,100413,,,Ulrich Marten,R,,GER,19.1,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,281,,323,
 1975-9207,Algiers,Clay,32,A,19750217,279,100346,,,Paul Kronk,R,,AUS,20.4,100150,,,Lito Alvarez,R,,ARG,27.2,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,92,,188,
-1975-9207,Algiers,Clay,32,A,19750217,280,100190,,,Norman Holmes,R,,USA,25.3,110987,,,Saeed Meer,U,,PAK,27.2,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,168,,323,
+1975-9207,Algiers,Clay,32,A,19750217,280,100190,,,Norman Holmes,R,,USA,25.3,110987,,,Saeed Meer,R,,PAK,27.2,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,168,,323,
 1975-9207,Algiers,Clay,32,A,19750217,281,100278,,,Frank Gebert,R,,GER,22.6,110792,,,Hocine Younes,U,,ALG,26.7,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,145,,,
 1975-9207,Algiers,Clay,32,A,19750217,282,100238,,,Rick Fisher,R,,USA,23.8,108434,,,Tony Parun P071,R,,NZL,,6-3 6-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,121,,323,
 1975-9207,Algiers,Clay,32,A,19750217,283,100056,,,Harald Elschenbroich,R,,GER,33.6,110789,,,Sebti Bounaib,U,,ALG,25.1,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,144,,,
@@ -4014,9 +4014,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1975-D014,Davis Cup EUR PR: YUG vs BUL,,4,D,19750502,2,106642,,,Bojidar Pampoulov,R,,BUL,26.0,100083,,,Nicola Spear,R,,SRB,31.1,0-6 3-6 6-3 10-8 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,125,
 1975-D014,Davis Cup EUR PR: YUG vs BUL,,4,D,19750502,4,100037,,,Nikola Pilic,L,191,CRO,35.6,106642,,,Bojidar Pampoulov,R,,BUL,26.0,6-0 6-2 6-0,5,RR,,,,,,,,,,,,,,,,,,,,90,,,
 1975-D014,Davis Cup EUR PR: YUG vs BUL,,4,D,19750502,5,100083,,,Nicola Spear,R,,SRB,31.1,110861,,,Ljuben Genov,U,,BUL,29.6,6-1 6-0 6-1,5,RR,,,,,,,,,,,,,,,,,,,,125,,,
-1975-D015,Davis Cup AME PR: CAN vs COL,Carpet,4,D,19751017,1,110115,,,Tony Bardsley,R,,CAN,30.6,107895,,,Orlando Agudelo,R,,COL,,6-0 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,,
+1975-D015,Davis Cup AME PR: CAN vs COL,Carpet,4,D,19751017,1,100095,,,Tony Bardsley,R,,CAN,30.6,107895,,,Orlando Agudelo,R,,COL,,6-0 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1975-D015,Davis Cup AME PR: CAN vs COL,Carpet,4,D,19751017,2,100189,,,Dale Power,R,,CAN,26.0,100198,,,Alvaro Betancur,R,,COL,25.7,6-4 22-24 2-6 6-3 7-5,5,RR,,,,,,,,,,,,,,,,,,,,,,,
-1975-D015,Davis Cup AME PR: CAN vs COL,Carpet,4,D,19751017,4,110115,,,Tony Bardsley,R,,CAN,30.6,107298,,,Javier Restrepo,R,,COL,22.6,6-2 6-4 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,,
+1975-D015,Davis Cup AME PR: CAN vs COL,Carpet,4,D,19751017,4,100095,,,Tony Bardsley,R,,CAN,30.6,107298,,,Javier Restrepo,R,,COL,22.6,6-2 6-4 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1975-D015,Davis Cup AME PR: CAN vs COL,Carpet,4,D,19751017,5,100294,,,Rejean Genois,R,175,CAN,22.7,107895,,,Orlando Agudelo,R,,COL,,6-1 6-4 7-5,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1975-D016,Davis Cup AME PR: MEX vs CAN,Clay,4,D,19751128,1,100102,,,Joaquin Loyo Mayo,R,,MEX,30.2,100294,,,Rejean Genois,R,175,CAN,22.9,4-6 6-1 6-2 8-6,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1975-D016,Davis Cup AME PR: MEX vs CAN,Clay,4,D,19751128,2,100147,,,Marcello Lara,R,,MEX,28.1,100189,,,Dale Power,R,,CAN,26.1,6-2 6-1 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,,
@@ -4091,9 +4091,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1975-D036,Davis Cup G1 PR: INA vs KOR,,4,D,19751001,2,111043,,,Sung Bae Kim,U,,KOR,26.9,110024,,,Gondo Widjojo,R,,INA,29.6,3-6 6-1 9-7 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1975-D036,Davis Cup G1 PR: INA vs KOR,,4,D,19751001,4,109881,,,Atet Wijono,R,,INA,24.5,111043,,,Sung Bae Kim,U,,KOR,26.9,6-2 6-4 9-7,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1975-D036,Davis Cup G1 PR: INA vs KOR,,4,D,19751001,5,110024,,,Gondo Widjojo,R,,INA,29.6,109951,,,Moon Il Kim,U,,KOR,28.4,6-2 6-3 7-5,5,RR,,,,,,,,,,,,,,,,,,,,,,,
-1975-D037,Davis Cup WG QF: PAK vs INA,,4,D,19751128,1,110987,,,Saeed Meer,U,,PAK,28.0,110024,,,Gondo Widjojo,R,,INA,29.8,2-6 12-10 9-7 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,,
+1975-D037,Davis Cup WG QF: PAK vs INA,,4,D,19751128,1,110987,,,Saeed Meer,R,,PAK,28.0,110024,,,Gondo Widjojo,R,,INA,29.8,2-6 12-10 9-7 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1975-D037,Davis Cup WG QF: PAK vs INA,,4,D,19751128,2,109881,,,Atet Wijono,R,,INA,24.7,111093,,,Meer Mohammed Khan,U,,PAK,,6-1 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
-1975-D037,Davis Cup WG QF: PAK vs INA,,4,D,19751128,4,109881,,,Atet Wijono,R,,INA,24.7,110987,,,Saeed Meer,U,,PAK,28.0,3-6 6-2 6-3 3-6 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
+1975-D037,Davis Cup WG QF: PAK vs INA,,4,D,19751128,4,109881,,,Atet Wijono,R,,INA,24.7,110987,,,Saeed Meer,R,,PAK,28.0,3-6 6-2 6-3 3-6 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1975-D037,Davis Cup WG QF: PAK vs INA,,4,D,19751128,5,110024,,,Gondo Widjojo,R,,INA,29.8,111093,,,Meer Mohammed Khan,U,,PAK,,9-7 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1975-D038,Davis Cup EUR PR: JPN vs IND,,4,D,19751001,1,100321,,,Vijay Amritraj,R,193,IND,21.7,100149,,,Toshiro Sakai,R,,JPN,27.8,7-5 7-5 0-6 6-2,5,RR,,,,,,,,,,,,,,,,,,,,32,,,
 1975-D038,Davis Cup EUR PR: JPN vs IND,,4,D,19751001,2,100146,,,Jun Kamiwazumi,R,,JPN,28.0,100270,,,Anand Amritraj,R,185,IND,23.5,7-5 8-6 9-7,5,RR,,,,,,,,,,,,,,,,,,,,87,,81,
@@ -4103,13 +4103,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1975-D039,Davis Cup EUR SF: IND vs NZL,,4,D,19750117,2,100162,,,Brian Fairlie,R,173,NZL,26.5,100270,,,Anand Amritraj,R,185,IND,22.8,3-6 6-8 9-7 6-4 7-5,5,RR,,,,,,,,,,,,,,,,,,,,58,,87,
 1975-D039,Davis Cup EUR SF: IND vs NZL,,4,D,19750117,4,100135,,,Onny Parun,R,188,NZL,27.7,100270,,,Anand Amritraj,R,185,IND,22.8,5-7 6-4 6-3 6-8 6-2,5,RR,,,,,,,,,,,,,,,,,,,,25,,87,
 1975-D039,Davis Cup EUR SF: IND vs NZL,,4,D,19750117,5,100162,,,Brian Fairlie,R,173,NZL,26.5,100321,,,Vijay Amritraj,R,193,IND,21.0,3-6 6-8 7-5 Played and unfinished,5,RR,,,,,,,,,,,,,,,,,,,,58,,39,
-1975-D040,Davis Cup EUR QF: PHI vs IND,,4,D,19751219,1,110166,,,Chiradip Mukerjea,U,,IND,22.3,106910,,,Eddie Cruz,R,,PHI,,3-6 6-4 6-3 3-6 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,373,0
+1975-D040,Davis Cup EUR QF: PHI vs IND,,4,D,19751219,1,110166,,,Chiradip Mukerjea,R,,IND,22.3,106910,,,Eddie Cruz,R,,PHI,,3-6 6-4 6-3 3-6 6-4,5,RR,,,,,,,,,,,,,,,,,,,,252,,373,0
 1975-D040,Davis Cup EUR QF: PHI vs IND,,4,D,19751219,2,100281,,,Sashi Menon,R,180,IND,23.3,110256,,,Micky Dominguez,U,,PHI,28.2,6-2 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,,88,0,,
-1975-D040,Davis Cup EUR QF: PHI vs IND,,4,D,19751219,4,110166,,,Chiradip Mukerjea,U,,IND,22.3,110256,,,Micky Dominguez,U,,PHI,28.2,2-6 2-6 6-3 6-4 9-7,5,RR,,,,,,,,,,,,,,,,,,,,,,,
+1975-D040,Davis Cup EUR QF: PHI vs IND,,4,D,19751219,4,110166,,,Chiradip Mukerjea,R,,IND,22.3,110256,,,Micky Dominguez,U,,PHI,28.2,2-6 2-6 6-3 6-4 9-7,5,RR,,,,,,,,,,,,,,,,,,,,252,,,
 1975-D041,Davis Cup WG PR: IND vs THA,,4,D,19750926,1,100321,,,Vijay Amritraj,R,193,IND,21.7,125696,,,Somporn Champisri,U,,THA,32.6,6-2 6-1 6-0,5,RR,,,,,,,,,,,,,,,,,,,,32,,,
 1975-D041,Davis Cup WG PR: IND vs THA,,4,D,19750926,2,100270,,,Anand Amritraj,R,185,IND,23.5,108009,,,Pichet Boratisa,R,,THA,29.5,6-3 6-1 6-0,5,RR,,,,,,,,,,,,,,,,,,,,81,,,
 1975-D041,Davis Cup WG PR: IND vs THA,,4,D,19750926,4,100023,,,Ramanathan Krishnan,R,,IND,38.4,108009,,,Pichet Boratisa,R,,THA,29.5,6-4 6-1 4-6 6-3,5,RR,,,,,,,,,,,,,,,,,,,,,,,
-1975-D041,Davis Cup WG PR: IND vs THA,,4,D,19750926,5,110166,,,Chiradip Mukerjea,U,,IND,22.1,125696,,,Somporn Champisri,U,,THA,32.6,6-3 9-7 6-1,5,RR,,,,,,,,,,,,,,,,,,,,,,,
+1975-D041,Davis Cup WG PR: IND vs THA,,4,D,19750926,5,110166,,,Chiradip Mukerjea,R,,IND,22.1,125696,,,Somporn Champisri,U,,THA,32.6,6-3 9-7 6-1,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1975-D043,Davis Cup EUR PR: IRI vs SUI,,4,D,19751010,1,100154,,,Peter Kanderal,R,,SUI,27.7,108343,,,Taghi Akbari,R,,IRI,29.8,6-2 6-4 7-5,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1975-D043,Davis Cup EUR PR: IRI vs SUI,,4,D,19751010,2,110336,,,Kanyab Derafshidjavan,U,,IRI,21.5,100579,,,Heinz Gunthardt,R,180,SUI,16.6,6-4 7-5 3-6 6-8 6-3,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1975-D043,Davis Cup EUR PR: IRI vs SUI,,4,D,19751010,4,100154,,,Peter Kanderal,R,,SUI,27.7,110336,,,Kanyab Derafshidjavan,U,,IRI,21.5,6-2 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
@@ -4123,9 +4123,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1975-D046,Davis Cup EUR PQ: LUX vs POR,Clay,4,D,19750822,4,110937,,,Jose Vilela,U,,POR,24.1,111010,,,Theo Storck,U,,LUX,26.8,6-1 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1975-D046,Davis Cup EUR PQ: LUX vs POR,Clay,4,D,19750822,5,110954,,,Joao Lagos,U,,POR,30.9,111066,,,Alphonse Neu,U,,LUX,,6-0 6-3 6-1,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1975-D047,Davis Cup G2 PR: MAS vs PAK,,4,D,19750926,1,111093,,,Meer Mohammed Khan,U,,PAK,,125757,,,Poh Seng Tan,U,,MAS,29.5,6-2 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,,
-1975-D047,Davis Cup G2 PR: MAS vs PAK,,4,D,19750926,2,110987,,,Saeed Meer,U,,PAK,27.8,125752,,,Mohammed Akbar Baba,U,,MAS,,6-3 6-0 6-3,5,RR,,,,,,,,,,,,,,,,,,,,,,,
+1975-D047,Davis Cup G2 PR: MAS vs PAK,,4,D,19750926,2,110987,,,Saeed Meer,R,,PAK,27.8,125752,,,Mohammed Akbar Baba,U,,MAS,,6-3 6-0 6-3,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1975-D047,Davis Cup G2 PR: MAS vs PAK,,4,D,19750926,4,111093,,,Meer Mohammed Khan,U,,PAK,,125751,,,Zainuddin Meah,U,,MAS,,7-9 6-2 6-0 6-3,5,RR,,,,,,,,,,,,,,,,,,,,,,,
-1975-D047,Davis Cup G2 PR: MAS vs PAK,,4,D,19750926,5,110987,,,Saeed Meer,U,,PAK,27.8,125757,,,Poh Seng Tan,U,,MAS,29.5,6-4 6-0 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,,
+1975-D047,Davis Cup G2 PR: MAS vs PAK,,4,D,19750926,5,110987,,,Saeed Meer,R,,PAK,27.8,125757,,,Poh Seng Tan,U,,MAS,29.5,6-4 6-0 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1975-D049,Davis Cup AME PR: USA vs MEX,Hard,4,D,19750131,1,100309,,,Raul Ramirez,R,183,MEX,21.6,100126,,,Stan Smith,R,193,USA,28.1,3-6 6-4 6-1 8-6,5,RR,,,,,,,,,,,,,,,,,,,,18,,9,
 1975-D049,Davis Cup AME PR: USA vs MEX,Hard,4,D,19750131,2,100255,,,Roscoe Tanner,L,183,USA,23.2,108131,,,Roberto Chavez,R,,MEX,,6-1 6-3 6-3,5,RR,,,,,,,,,,,,,,,,,,,,14,,257,
 1975-D049,Davis Cup AME PR: USA vs MEX,Hard,4,D,19750131,4,100309,,,Raul Ramirez,R,183,MEX,21.6,100255,,,Roscoe Tanner,L,183,USA,23.2,7-5 7-9 6-4 6-2,5,RR,,,,,,,,,,,,,,,,,,,,18,,14,
@@ -4139,8 +4139,8 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1975-D051,Davis Cup EUR PR: POL vs NOR,Clay,4,D,19750912,4,100280,,,Wojtek Fibak,R,183,POL,23.1,110838,,,Erik Ulleberg,U,,NOR,24.9,6-1 6-2 6-0,5,RR,,,,,,,,,,,,,,,,,,,,70,,,
 1975-D051,Davis Cup EUR PR: POL vs NOR,Clay,4,D,19750912,5,107255,,,Jacek Niedzwiedzki,R,,POL,24.6,107968,,,Per Hegna,R,,NOR,30.1,6-3 5-7 6-4 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1975-D052,Davis Cup EUR PR: SRI vs PAK,Clay,4,D,19751001,1,111093,,,Meer Mohammed Khan,U,,PAK,,111094,,,Lassantha Fernando,U,,SRI,35.9,6-3 2-6 6-1 6-0,5,RR,,,,,,,,,,,,,,,,,,,,,,,
-1975-D052,Davis Cup EUR PR: SRI vs PAK,Clay,4,D,19751001,2,110987,,,Saeed Meer,U,,PAK,27.8,111095,,,Ajit Perera,U,,SRI,,6-4 6-1 6-0,5,RR,,,,,,,,,,,,,,,,,,,,,,,
-1975-D052,Davis Cup EUR PR: SRI vs PAK,Clay,4,D,19751001,4,110987,,,Saeed Meer,U,,PAK,27.8,111094,,,Lassantha Fernando,U,,SRI,35.9,6-2 6-4 7-5,5,RR,,,,,,,,,,,,,,,,,,,,,,,
+1975-D052,Davis Cup EUR PR: SRI vs PAK,Clay,4,D,19751001,2,110987,,,Saeed Meer,R,,PAK,27.8,111095,,,Ajit Perera,U,,SRI,,6-4 6-1 6-0,5,RR,,,,,,,,,,,,,,,,,,,,,,,
+1975-D052,Davis Cup EUR PR: SRI vs PAK,Clay,4,D,19751001,4,110987,,,Saeed Meer,R,,PAK,27.8,111094,,,Lassantha Fernando,U,,SRI,35.9,6-2 6-4 7-5,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1975-D052,Davis Cup EUR PR: SRI vs PAK,Clay,4,D,19751001,5,111096,,,Tayyab Iftikhar,U,,PAK,,111095,,,Ajit Perera,U,,SRI,,2-6 6-4 3-3 Played and unfinished,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1975-D053,Davis Cup AME PR: PER vs URU,,4,D,19750926,1,110800,,,Fabian Barriola,U,,URU,25.5,100405,,,Fernando Maynetto,R,,PER,19.8,7-5 6-1 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1975-D053,Davis Cup AME PR: PER vs URU,,4,D,19750926,2,125615,,,Miguel Maurtua,U,,PER,22.9,110801,,,Gustavo Stapf,U,,URU,23.9,6-1 6-0 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
