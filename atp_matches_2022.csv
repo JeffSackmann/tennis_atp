@@ -1261,7 +1261,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-520,Roland Garros,Clay,128,G,20220523,112,122298,26,,Botic Van De Zandschulp,R,188,NED,26.6,200303,Q,,Pavel Kotov,R,191,RUS,23.5,6-3 3-6 6-3 6-2,5,R128,,,,,,,,,,,,,,,,,,,,29,1344,141,443
 2022-520,Roland Garros,Clay,128,G,20220523,113,104926,,,Fabio Fognini,R,178,ITA,34.9,200615,,,Alexei Popyrin,R,196,AUS,22.7,6-4 7-5 6-4,5,R128,,,,,,,,,,,,,,,,,,,,51,976,102,616
 2022-520,Roland Garros,Clay,128,G,20220523,114,144895,WC,,Corentin Moutet,L,178,FRA,23.0,104527,,,Stan Wawrinka,R,183,SUI,37.1,2-6 6-3 7-6(2) 6-3,5,R128,,,,,,,,,,,,,,,,,,,,139,451,264,204
-2022-520,Roland Garros,Clay,128,G,20220523,115,104745,5,,Rafael Nadal,L,185,ESP,35.9,111442,,,Jordan Thompson,R,183,AUS,28.0,6-2 6-2 6-2,5,R128,,,,,,,,,,,,,,,,,,,,5,5525,82,748
+2022-520,Roland Garros,Clay,128,G,20220523,115,104745,5,,Rafael Nadal,L,185,ESP,35.9,111442,,,Jordan Thompson,R,183,AUS,28.0,6-2 6-2 6-2,5,R128,124,1,0,63,41,30,17,12,1,2,5,1,80,49,24,13,12,4,11,5,5525,82,748
 2022-520,Roland Garros,Clay,128,G,20220523,116,100644,3,,Alexander Zverev,R,198,GER,25.0,124116,Q,,Sebastian Ofner,R,191,AUT,26.0,6-2 6-4 6-4,5,R128,,,,,,,,,,,,,,,,,,,,3,7075,219,255
 2022-520,Roland Garros,Clay,128,G,20220523,117,202104,,,Sebastian Baez,R,170,ARG,21.3,105583,,,Dusan Lajovic,R,180,SRB,31.8,6-3 3-6 6-4 6-3,5,R128,,,,,,,,,,,,,,,,,,,,36,1178,64,896
 2022-520,Roland Garros,Clay,128,G,20220523,118,206909,,,Brandon Nakashima,R,185,USA,20.8,111794,,,Kamil Majchrzak,R,183,POL,26.3,6-4 2-6 4-6 7-6(3) 6-2,5,R128,,,,,,,,,,,,,,,,,,,,75,827,79,775
@@ -1317,7 +1317,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-520,Roland Garros,Clay,128,G,20220523,168,200000,9,,Felix Auger Aliassime,R,193,CAN,21.7,200116,,,Camilo Ugo Carabelli,R,,ARG,22.9,6-0 6-3 6-4,5,R64,,,,,,,,,,,,,,,,,,,,9,3820,155,410
 2022-520,Roland Garros,Clay,128,G,20220523,169,105936,,,Filip Krajinovic,R,185,SRB,30.2,127339,,,Borna Gojo,R,196,CRO,24.2,7-6(5) 6-2 5-7 6-1,5,R64,,,,,,,,,,,,,,,,,,,,55,965,223,249
 2022-520,Roland Garros,Clay,128,G,20220523,170,122298,26,,Botic Van De Zandschulp,R,188,NED,26.6,104926,,,Fabio Fognini,R,178,ITA,34.9,6-4 7-6(2) 3-2 RET,5,R64,,,,,,,,,,,,,,,,,,,,29,1344,51,976
-2022-520,Roland Garros,Clay,128,G,20220523,171,104745,5,,Rafael Nadal,L,185,ESP,35.9,144895,,,Corentin Moutet,L,178,FRA,23.0,6-3 6-1 6-4,5,R64,,,,,,,,,,,,,,,,,,,,5,5525,139,451
+2022-520,Roland Garros,Clay,128,G,20220523,171,104745,5,,Rafael Nadal,L,185,ESP,35.9,144895,,,Corentin Moutet,L,178,FRA,23.0,6-3 6-1 6-4,5,R64,132,1,2,72,47,34,14,13,2,4,0,3,75,52,30,9,13,5,12,5,5525,139,451
 2022-520,Roland Garros,Clay,128,G,20220523,172,100644,3,,Alexander Zverev,R,198,GER,25.0,202104,,,Sebastian Baez,R,170,ARG,21.3,2-6 4-6 6-1 6-2 7-5,5,R64,,,,,,,,,,,,,,,,,,,,3,7075,36,1178
 2022-520,Roland Garros,Clay,128,G,20220523,173,206909,,,Brandon Nakashima,R,185,USA,20.8,134868,,,Tallon Griekspoor,R,188,NED,25.8,7-6(6) 6-4 6-2,5,R64,,,,,,,,,,,,,,,,,,,,75,827,58,949
 2022-520,Roland Garros,Clay,128,G,20220523,174,104545,23,,John Isner,R,206,USA,37.0,106296,,,Gregoire Barrere,R,183,FRA,28.2,6-4 6-4 3-6 7-6(5),5,R64,,,,,,,,,,,,,,,,,,,,26,1616,210,269
@@ -1345,7 +1345,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-520,Roland Garros,Clay,128,G,20220523,196,104925,1,,Novak Djokovic,R,188,SRB,35.0,105379,,,Aljaz Bedene,R,181,SLO,32.8,6-3 6-3 6-2,5,R32,,,,,,,,,,,,,,,,,,,,1,8660,195,291
 2022-520,Roland Garros,Clay,128,G,20220523,197,106043,15,,Diego Schwartzman,R,170,ARG,29.7,105777,18,,Grigor Dimitrov,R,188,BUL,31.0,6-3 6-1 6-2,5,R32,,,,,,,,,,,,,,,,,,,,16,2505,21,1740
 2022-520,Roland Garros,Clay,128,G,20220523,198,200000,9,,Felix Auger Aliassime,R,193,CAN,21.7,105936,,,Filip Krajinovic,R,185,SRB,30.2,7-6(3) 7-6(2) 7-5,5,R32,,,,,,,,,,,,,,,,,,,,9,3820,55,965
-2022-520,Roland Garros,Clay,128,G,20220523,199,104745,5,,Rafael Nadal,L,185,ESP,35.9,122298,26,,Botic Van De Zandschulp,R,188,NED,26.6,6-3 6-2 6-4,5,R32,,,,,,,,,,,,,,,,,,,,5,5525,29,1344
+2022-520,Roland Garros,Clay,128,G,20220523,199,104745,5,,Rafael Nadal,L,185,ESP,35.9,122298,26,,Botic Van De Zandschulp,R,188,NED,26.6,6-3 6-2 6-4,5,R32,133,2,1,74,46,40,15,14,1,3,3,3,87,61,36,9,13,6,12,5,5525,29,1344
 2022-520,Roland Garros,Clay,128,G,20220523,200,100644,3,,Alexander Zverev,R,198,GER,25.0,206909,,,Brandon Nakashima,R,185,USA,20.8,7-6(2) 6-3 7-6(5),5,R32,,,,,,,,,,,,,,,,,,,,3,7075,75,827
 2022-520,Roland Garros,Clay,128,G,20220523,201,126523,,,Bernabe Zapata Miralles,R,185,ESP,25.3,104545,23,,John Isner,R,206,USA,37.0,6-4 3-6 6-4 6-7(5) 6-3,5,R32,,,,,,,,,,,,,,,,,,,,131,475,26,1616
 2022-520,Roland Garros,Clay,128,G,20220523,202,111575,21,,Karen Khachanov,R,198,RUS,26.0,111815,10,,Cameron Norrie,L,188,GBR,26.7,6-2 7-5 5-7 6-4,5,R32,,,,,,,,,,,,,,,,,,,,25,1620,11,3455
@@ -1359,20 +1359,20 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-520,Roland Garros,Clay,128,G,20220523,210,105227,20,,Marin Cilic,R,198,CRO,33.6,104468,,,Gilles Simon,R,183,FRA,37.4,6-0 6-3 6-2,5,R32,,,,,,,,,,,,,,,,,,,,23,1695,158,391
 2022-520,Roland Garros,Clay,128,G,20220523,211,106421,2,,Daniil Medvedev,R,198,RUS,26.2,200175,28,,Miomir Kecmanovic,R,183,SRB,22.7,6-2 6-4 6-2,5,R32,,,,,,,,,,,,,,,,,,,,2,7980,31,1316
 2022-520,Roland Garros,Clay,128,G,20220523,212,104925,1,,Novak Djokovic,R,188,SRB,35.0,106043,15,,Diego Schwartzman,R,170,ARG,29.7,6-1 6-3 6-3,5,R16,,,,,,,,,,,,,,,,,,,,1,8660,16,2505
-2022-520,Roland Garros,Clay,128,G,20220523,213,104745,5,,Rafael Nadal,L,185,ESP,35.9,200000,9,,Felix Auger Aliassime,R,193,CAN,21.7,3-6 6-3 6-2 3-6 6-3,5,R16,,,,,,,,,,,,,,,,,,,,5,5525,9,3820
+2022-520,Roland Garros,Clay,128,G,20220523,213,104745,5,,Rafael Nadal,L,185,ESP,35.9,200000,9,,Felix Auger Aliassime,R,193,CAN,21.7,3-6 6-3 6-2 3-6 6-3,5,R16,263,3,4,134,90,60,29,22,5,9,7,4,153,106,68,22,22,16,22,5,5525,9,3820
 2022-520,Roland Garros,Clay,128,G,20220523,214,100644,3,,Alexander Zverev,R,198,GER,25.0,126523,,,Bernabe Zapata Miralles,R,185,ESP,25.3,7-6(11) 7-5 6-3,5,R16,,,,,,,,,,,,,,,,,,,,3,7075,131,475
 2022-520,Roland Garros,Clay,128,G,20220523,215,207989,6,,Carlos Alcaraz,R,185,ESP,19.0,111575,21,,Karen Khachanov,R,198,RUS,26.0,6-1 6-4 6-4,5,R16,,,,,,,,,,,,,,,,,,,,6,4648,25,1620
 2022-520,Roland Garros,Clay,128,G,20220523,216,134770,8,,Casper Ruud,R,183,NOR,23.4,128034,12,,Hubert Hurkacz,R,196,POL,25.2,6-2 6-3 3-6 6-3,5,R16,,,,,,,,,,,,,,,,,,,,8,3940,13,3095
 2022-520,Roland Garros,Clay,128,G,20220523,217,208029,,,Holger Rune,R,185,DEN,19.0,126774,4,,Stefanos Tsitsipas,R,193,GRE,23.7,7-5 3-6 6-3 6-4,5,R16,,,,,,,,,,,,,,,,,,,,40,1159,4,5965
 2022-520,Roland Garros,Clay,128,G,20220523,218,126094,7,,Andrey Rublev,R,188,RUS,24.5,206173,11,,Jannik Sinner,R,188,ITA,20.7,1-6 6-4 2-0 RET,5,R16,,,,,,,,,,,,,,,,,,,,7,3945,12,3185
 2022-520,Roland Garros,Clay,128,G,20220523,219,105227,20,,Marin Cilic,R,198,CRO,33.6,106421,2,,Daniil Medvedev,R,198,RUS,26.2,6-2 6-3 6-2,5,R16,,,,,,,,,,,,,,,,,,,,23,1695,2,7980
-2022-520,Roland Garros,Clay,128,G,20220523,220,104745,5,,Rafael Nadal,L,185,ESP,35.9,104925,1,,Novak Djokovic,R,188,SRB,35.0,6-2 4-6 6-2 7-6(4),5,QF,,,,,,,,,,,,,,,,,,,,5,5525,1,8660
+2022-520,Roland Garros,Clay,128,G,20220523,220,104745,5,,Rafael Nadal,L,185,ESP,35.9,104925,1,,Novak Djokovic,R,188,SRB,35.0,6-2 4-6 6-2 7-6(4),5,QF,252,3,4,138,98,64,24,19,8,12,5,4,140,95,61,19,24,10,17,5,5525,1,8660
 2022-520,Roland Garros,Clay,128,G,20220523,221,100644,3,,Alexander Zverev,R,198,GER,25.0,207989,6,,Carlos Alcaraz,R,185,ESP,19.0,6-4 6-4 4-6 7-6(7),5,QF,,,,,,,,,,,,,,,,,,,,3,7075,6,4648
 2022-520,Roland Garros,Clay,128,G,20220523,222,134770,8,,Casper Ruud,R,183,NOR,23.4,208029,,,Holger Rune,R,185,DEN,19.0,6-1 4-6 7-6(2) 6-3,5,QF,,,,,,,,,,,,,,,,,,,,8,3940,40,1159
 2022-520,Roland Garros,Clay,128,G,20220523,223,105227,20,,Marin Cilic,R,198,CRO,33.6,126094,7,,Andrey Rublev,R,188,RUS,24.5,5-7 6-3 6-4 3-6 7-6(2),5,QF,,,,,,,,,,,,,,,,,,,,23,1695,7,3945
-2022-520,Roland Garros,Clay,128,G,20220523,224,104745,5,,Rafael Nadal,L,185,ESP,35.9,100644,3,,Alexander Zverev,R,198,GER,25.0,7-6(8) 6-6 RET,5,SF,,,,,,,,,,,,,,,,,,,,5,5525,3,7075
+2022-520,Roland Garros,Clay,128,G,20220523,224,104745,5,,Rafael Nadal,L,185,ESP,35.9,100644,3,,Alexander Zverev,R,198,GER,25.0,7-6(8) 6-6 RET,5,SF,187,3,1,87,52,30,17,12,3,8,5,8,103,79,44,9,12,6,11,5,5525,3,7075
 2022-520,Roland Garros,Clay,128,G,20220523,225,134770,8,,Casper Ruud,R,183,NOR,23.4,105227,20,,Marin Cilic,R,198,CRO,33.6,3-6 6-4 6-2 6-2,5,SF,,,,,,,,,,,,,,,,,,,,8,3940,23,1695
-2022-520,Roland Garros,Clay,128,G,20220523,226,104745,5,,Rafael Nadal,L,185,ESP,35.9,134770,8,,Casper Ruud,R,183,NOR,23.4,6-3 6-3 6-0,5,F,,,,,,,,,,,,,,,,,,,,5,5525,8,3940
+2022-520,Roland Garros,Clay,128,G,20220523,226,104745,5,,Rafael Nadal,L,185,ESP,35.9,134770,8,,Casper Ruud,R,183,NOR,23.4,6-3 6-3 6-0,5,F,138,1,3,61,39,32,10,12,1,3,0,1,80,51,27,9,12,8,16,5,5525,8,3940
 2022-0440,s Hertogenbosch,Grass,32,A,20220606,300,126646,,WC,Tim Van Rijthoven,R,188,NED,25.1,106421,1,,Daniil Medvedev,R,198,RUS,26.3,6-4 6-1,3,F,65,4,1,42,31,26,7,9,1,2,6,3,53,32,18,8,8,6,10,205,298,2,8160
 2022-0440,s Hertogenbosch,Grass,32,A,20220606,299,106421,1,,Daniil Medvedev,R,198,RUS,26.3,105173,,,Adrian Mannarino,L,183,FRA,33.9,7-5 7-5,3,SF,116,4,4,66,40,29,12,12,1,4,0,3,90,56,34,14,12,5,10,2,8160,70,858
 2022-0440,s Hertogenbosch,Grass,32,A,20220606,298,126646,,WC,Tim Van Rijthoven,R,188,NED,25.1,200000,2,,Felix Auger Aliassime,R,193,CAN,21.8,6-3 1-6 7-6(5),3,SF,122,10,1,84,60,42,19,14,1,3,16,4,83,59,49,13,14,6,7,205,298,9,3955
