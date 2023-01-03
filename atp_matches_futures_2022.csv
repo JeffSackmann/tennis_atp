@@ -1019,6 +1019,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-M-ITF-BEL-03A-2022,M15 Duffel,Clay,32,15,20220613,302,206904,4,,Gauthier Onclin,U,,BEL,21.2,209985,,Q,Amaury Raynel,U,,FRA,19.9,6-4 6-0,3,QF,,,,,,,,,,,,,,,,,,,,509,65,1184,6
 2022-M-ITF-BEL-03A-2022,M15 Duffel,Clay,32,15,20220613,303,208210,,Q,Chris Rodesch,U,,LUX,20.9,122638,3,,Christopher Heyman,U,,BEL,28.6,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,1370,3,483,74
 2022-M-ITF-BEL-03A-2022,M15 Duffel,Clay,32,15,20220613,304,210340,,,Philip Sekulic,U,,AUS,18.7,207527,,Q,Buvaysar Gadamauri,U,,BEL,21.9,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,642,36,1018,10
+2022-M-ITF-BEL-03A-2022,M15 Duffel,Clay,32,15,20220613,401,206904,4,,Gauthier Onclin,U,,BEL,21.2,206470,1,,Cezar Cretu,U,,ROU,21.1,6-4 1-6 6-2,3,SF,,,,,,,,,,,,,,,,,,,,509,65,442,90
+2022-M-ITF-BEL-03A-2022,M15 Duffel,Clay,32,15,20220613,402,208210,,Q,Chris Rodesch,U,,LUX,20.9,210340,,,Philip Sekulic,U,,AUS,18.7,7-6(3) 6-3,3,SF,,,,,,,,,,,,,,,,,,,,1370,3,642,36
+2022-M-ITF-BEL-03A-2022,M15 Duffel,Clay,32,15,20220613,501,206904,4,,Gauthier Onclin,U,,BEL,21.2,208210,,Q,Chris Rodesch,U,,LUX,20.9,6-4 6-3,3,F,,,,,,,,,,,,,,,,,,,,509,65,1370,3
 2022-M-ITF-BEL-04A-2022,M15 Lambermont,Clay,32,15,20220822,101,206904,1,,Gauthier Onclin,U,,BEL,21.4,209216,,,Olivier Rojas,U,,BEL,21.6,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,411,99,1198,5
 2022-M-ITF-BEL-04A-2022,M15 Lambermont,Clay,32,15,20220822,102,208557,,WC,Victor Ernaelsteen,U,,BEL,22.4,200616,,Q,Shinnosuke Hiramatsu,U,,JPN,25.8,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1883,1
 2022-M-ITF-BEL-04A-2022,M15 Lambermont,Clay,32,15,20220822,103,209949,,,Alexander Hoogmartens,U,,BEL,20.2,211504,,Q,Jack Loge,U,,BEL,,7-5 2-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1106,6,,
@@ -1173,6 +1176,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-M-ITF-BIH-03A-2022,M15 Brcko,Clay,32,15,20220523,304,209920,5,,Raphael Collignon,U,,BEL,20.3,129911,,,Marat Sharipov,U,,KAZ,35.1,7-5 4-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,613,41,838,18
 2022-M-ITF-BIH-03A-2022,M15 Brcko,Clay,32,15,20220523,401,206904,4,,Gauthier Onclin,U,,BEL,21.2,200255,1,,Alexander Weis,U,,ITA,25.0,7-5 6-1,3,SF,,,,,,,,,,,,,,,,,,,,559,53,413,100
 2022-M-ITF-BIH-03A-2022,M15 Brcko,Clay,32,15,20220523,402,209920,5,,Raphael Collignon,U,,BEL,20.3,202299,,,Rimpei Kawakami,U,,JPN,21.7,6-1 6-3,3,SF,,,,,,,,,,,,,,,,,,,,613,41,722,28
+2022-M-ITF-BIH-03A-2022,M15 Brcko,Clay,32,15,20220523,501,206904,4,,Gauthier Onclin,U,,BEL,21.2,209920,5,,Raphael Collignon,U,,BEL,20.3,5-7 6-2 6-3,3,F,,,,,,,,,,,,,,,,,,,,559,53,613,41
 2022-M-ITF-BIH-04A-2022,M25 Kiseljak,Clay,32,25,20220530,101,126197,1,,Orlando Luz,R,180,BRA,24.2,210621,,WC,Aldin Jasarevic,U,,AUT,19.4,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,307,164,,
 2022-M-ITF-BIH-04A-2022,M25 Kiseljak,Clay,32,25,20220530,102,209907,,,Viacheslav Bielinskyi,U,,UKR,18.4,210204,,WC,Drazen Petrovic,U,,BIH,19.5,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,644,36,,
 2022-M-ITF-BIH-04A-2022,M25 Kiseljak,Clay,32,25,20220530,103,210119,,WC,Andrej Nedic,R,,BIH,17.5,210555,,WC,Andrej Djokic ,U,,BIH,18.4,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1295,4,,
@@ -2040,6 +2044,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-M-ITF-CZE-02A-2022,M25 Jablonec nad Nisou,Clay,32,25,20220523,304,202277,6,,Damien Wenger,U,,SUI,22.1,208322,,,Eric Vanshelboim,U,,UKR,20.8,5-7 7-6(1) 6-0,3,QF,,,,,,,,,,,,,,,,,,,,474,78,535,58
 2022-M-ITF-CZE-02A-2022,M25 Jablonec nad Nisou,Clay,32,25,20220523,401,126939,3,,Khumoun Sultanov,R,180,UZB,23.5,123921,1,,Calvin Hemery,R,188,FRA,27.3,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,430,91,339,138
 2022-M-ITF-CZE-02A-2022,M25 Jablonec nad Nisou,Clay,32,25,20220523,402,102093,,,Martin Damm,L,,USA,18.6,202277,6,,Damien Wenger,U,,SUI,22.1,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,685,32,474,78
+2022-M-ITF-CZE-02A-2022,M25 Jablonec nad Nisou,Clay,32,25,20220523,501,126939,3,,Khumoun Sultanov,R,180,UZB,23.5,102093,,,Martin Damm,L,,USA,18.6,6-7(1) 7-6(5) 6-3,3,F,,,,,,,,,,,,,,,,,,,,430,91,685,32
 2022-M-ITF-CZE-03A-2022,M25 Prague,Clay,32,25,20220509,101,102093,,Q,Martin Damm,L,,USA,18.6,104586,1,,Lukas Rosol,R,196,CZE,36.7,7-6(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,696,30,249,211
 2022-M-ITF-CZE-03A-2022,M25 Prague,Clay,32,25,20220509,102,104999,,,Mischa Zverev,L,190,GER,34.7,106324,,,Vaclav Safranek,R,185,CZE,27.9,6-4 1-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,582,46,699,29
 2022-M-ITF-CZE-03A-2022,M25 Prague,Clay,32,25,20220509,103,208343,,,Andrew Paulson,U,,CZE,20.4,209338,,WC,Daniel Siniakov,U,,CZE,19.3,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,518,62,1139,7
@@ -2313,8 +2318,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-M-ITF-DOM-04A-2022,M25 Santo Domingo,Hard,32,25,20220613,207,102093,6,,Martin Damm,L,,USA,18.7,206764,,,Mateo Gomez,U,,COL,20.1,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,563,52,1184,6
 2022-M-ITF-DOM-04A-2022,M25 Santo Domingo,Hard,32,25,20220613,208,126283,2,,Yunseong Chung,U,,KOR,24.2,202345,,,Arvid Nordquist,U,,SWE,24.0,7-6(4) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,429,93,1175,6
 2022-M-ITF-DOM-04A-2022,M25 Santo Domingo,Hard,32,25,20220613,301,200385,1,,Dan Added,U,,FRA,23.1,200279,,,Osgar Ohoisin,R,193,IRL,25.7,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,372,116,1021,10
+2022-M-ITF-DOM-04A-2022,M25 Santo Domingo,Hard,32,25,20220613,302,208854,,Q,Aidan Mayo,U,,USA,19.0,111436,3,,Nick Chappell,L,,USA,29.7,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,1159,6,469,80
 2022-M-ITF-DOM-04A-2022,M25 Santo Domingo,Hard,32,25,20220613,303,126209,5,,Peter Bertran,,183,DOM,26.2,200214,,Q,Alan Fernando Rubio Fierros,U,,MEX,23.3,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,572,50,1354,4
 2022-M-ITF-DOM-04A-2022,M25 Santo Domingo,Hard,32,25,20220613,304,102093,6,,Martin Damm,L,,USA,18.7,126283,2,,Yunseong Chung,U,,KOR,24.2,2-6 6-2 7-6(2),3,QF,,,,,,,,,,,,,,,,,,,,563,52,429,93
+2022-M-ITF-DOM-04A-2022,M25 Santo Domingo,Hard,32,25,20220613,401,200385,1,,Dan Added,U,,FRA,23.1,208854,,Q,Aidan Mayo,U,,USA,19.0,6-3 6-0,3,SF,,,,,,,,,,,,,,,,,,,,372,116,1159,6
+2022-M-ITF-DOM-04A-2022,M25 Santo Domingo,Hard,32,25,20220613,402,102093,6,,Martin Damm,L,,USA,18.7,126209,5,,Peter Bertran,,183,DOM,26.2,7-6(8) 6-3,3,SF,,,,,,,,,,,,,,,,,,,,563,52,572,50
+2022-M-ITF-DOM-04A-2022,M25 Santo Domingo,Hard,32,25,20220613,501,102093,6,,Martin Damm,L,,USA,18.7,200385,1,,Dan Added,U,,FRA,23.1,6-3 6-3,3,F,,,,,,,,,,,,,,,,,,,,563,52,372,116
 2022-M-ITF-DOM-05A-2022,M15 Punta Cana,Clay,32,15,20220214,101,133185,,Q,Pol Amoros Ramos,R,,ESP,23.9,106232,1,,Roberto Cid,R,193,DOM,28.4,6-1 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,1325,5,372,115
 2022-M-ITF-DOM-05A-2022,M15 Punta Cana,Clay,32,15,20220214,102,209952,,WC,Sean Cuenin,R,,FRA,17.9,201995,,,Cayetano March,U,175,ECU,21.6,3-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1010,12,698,35
 2022-M-ITF-DOM-05A-2022,M15 Punta Cana,Clay,32,15,20220214,103,208864,,Q,Leyton Rivera,R,,NOR,20.2,209847,,WC,Dorian Tremblay,U,,FRA,19.9,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -2560,6 +2569,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-M-ITF-ECU-04A-2022,M15 Quito,Clay,32,15,20220613,302,106175,3,,Ricardo Rodriguez,R,189,VEN,29.1,208223,8,,Alvaro Guillen Meza,U,,ECU,19.4,4-6 7-5 7-6(3),3,QF,,,,,,,,,,,,,,,,,,,,737,26,934,13
 2022-M-ITF-ECU-04A-2022,M15 Quito,Clay,32,15,20220613,303,208057,4,,Diego Fernandez Flores,U,,CHI,21.6,105479,7,,Alejandro Mendoza,R,183,BOL,32.3,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,899,15,915,14
 2022-M-ITF-ECU-04A-2022,M15 Quito,Clay,32,15,20220613,304,208485,,,Kiranpal Pannu,R,,NZL,25.4,209416,,Q,Juan Carlos Aguilar,R,,CAN,23.5,6-3 1-0,3,QF,,,,,,,,,,,,,,,,,,,,949,12,,
+2022-M-ITF-ECU-04A-2022,M15 Quito,Clay,32,15,20220613,401,207130,,,Matias Soto,U,,CHI,23.1,106175,3,,Ricardo Rodriguez,R,189,VEN,29.1,7-6(2) 5-7 6-3,3,SF,,,,,,,,,,,,,,,,,,,,1040,9,737,26
+2022-M-ITF-ECU-04A-2022,M15 Quito,Clay,32,15,20220613,402,208057,4,,Diego Fernandez Flores,U,,CHI,21.6,208485,,,Kiranpal Pannu,R,,NZL,25.4,7-6(3) 4-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,899,15,949,12
+2022-M-ITF-ECU-04A-2022,M15 Quito,Clay,32,15,20220613,501,207130,,,Matias Soto,U,,CHI,23.1,208057,4,,Diego Fernandez Flores,U,,CHI,21.6,6-3 7-6(3),3,F,,,,,,,,,,,,,,,,,,,,1040,9,899,15
 2022-M-ITF-ECU-05A-2022,M25 Portoviejo,Clay,32,25,20220801,101,106174,1,,Gonzalo Lama,R,180,CHI,29.2,210302,,WC,Roberto Pinargote Palma,U,,ECU,20.2,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,257,189,,
 2022-M-ITF-ECU-05A-2022,M25 Portoviejo,Clay,32,25,20220801,102,106175,,,Ricardo Rodriguez,R,189,VEN,29.2,206827,,LL,Alan Sau Franco,U,,MEX,21.7,6-0 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,697,28,1885,1
 2022-M-ITF-ECU-05A-2022,M25 Portoviejo,Clay,32,25,20220801,103,109334,,,Bastian Malla,U,,CHI,25.8,205862,,Q,Miguel Fernando Pereira,U,,CHI,23.3,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,658,32,1529,2
@@ -4140,6 +4152,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-M-ITF-ESP-09A-2022,M25 Mataro,Clay,32,25,20220523,304,207546,8,,Pol Martin Tiffon,U,,ESP,22.8,202199,,,Carlos Sanchez Jover,R,,ESP,21.8,6-3 3-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,378,114,414,99
 2022-M-ITF-ESP-09A-2022,M25 Mataro,Clay,32,25,20220523,401,208010,,WC,Pablo Llamas Ruiz,R,,ESP,19.6,134840,1,,Raul Brancaccio,U,185,ITA,25.0,6-2 4-6 7-5,3,SF,,,,,,,,,,,,,,,,,,,,561,52,291,172
 2022-M-ITF-ESP-09A-2022,M25 Mataro,Clay,32,25,20220523,402,207546,8,,Pol Martin Tiffon,U,,ESP,22.8,106177,4,,Oriol Roca Batalla,R,173,ESP,29.0,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,378,114,287,175
+2022-M-ITF-ESP-09A-2022,M25 Mataro,Clay,32,25,20220523,501,207546,8,,Pol Martin Tiffon,U,,ESP,22.8,208010,,WC,Pablo Llamas Ruiz,R,,ESP,19.6,2-6 6-3 6-2,3,F,,,,,,,,,,,,,,,,,,,,378,114,561,52
 2022-M-ITF-ESP-10A-2022,M25 Vic,Clay,32,25,20220516,101,208021,1,,Kyrian Jacquet,R,,FRA,21.0,121348,,WC,Roger Ordeig,R,,ESP,30.4,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,331,143,,
 2022-M-ITF-ESP-10A-2022,M25 Vic,Clay,32,25,20220516,102,132310,,,Tiago Cacao,R,,POR,24.2,208126,,WC,John Echeverria,U,,ESP,20.4,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,599,44,718,28
 2022-M-ITF-ESP-10A-2022,M25 Vic,Clay,32,25,20220516,103,210132,,Q,Julio Cesar Porras,L,,ARG,24.2,210055,,Q,Noah Lopez,U,,SUI,20.2,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1031,9,1240,5
@@ -4354,6 +4367,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-M-ITF-ESP-17A-2022,M25 Martos,Hard,32,25,20220613,302,202199,3,,Carlos Sanchez Jover,R,,ESP,21.8,210317,8,,James Mccabe,U,,AUS,18.9,5-7 6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,415,98,523,61
 2022-M-ITF-ESP-17A-2022,M25 Martos,Hard,32,25,20220613,303,132744,,,Alberto Barroso Campos,R,,ESP,26.0,210203,,WC,Pedro Rodenas,U,,ESP,18.2,6-3 6-0,3,QF,,,,,,,,,,,,,,,,,,,,550,55,1228,5
 2022-M-ITF-ESP-17A-2022,M25 Martos,Hard,32,25,20220613,304,210017,,,Daniel Merida Aguilar ,U,,ESP,17.7,206746,,,Benjamin Winter Lopez,U,,ESP,24.0,6-2 7-5,3,QF,,,,,,,,,,,,,,,,,,,,588,46,688,31
+2022-M-ITF-ESP-17A-2022,M25 Martos,Hard,32,25,20220613,401,105836,,,Jules Marie,R,,FRA,30.7,202199,3,,Carlos Sanchez Jover,R,,ESP,21.8,6-4 4-6 6-4,3,SF,,,,,,,,,,,,,,,,,,,,837,17,415,98
+2022-M-ITF-ESP-17A-2022,M25 Martos,Hard,32,25,20220613,402,132744,,,Alberto Barroso Campos,R,,ESP,26.0,210017,,,Daniel Merida Aguilar ,U,,ESP,17.7,6-2 7-5,3,SF,,,,,,,,,,,,,,,,,,,,550,55,588,46
+2022-M-ITF-ESP-17A-2022,M25 Martos,Hard,32,25,20220613,501,132744,,,Alberto Barroso Campos,R,,ESP,26.0,105836,,,Jules Marie,R,,FRA,30.7,6-4 6-2,3,F,,,,,,,,,,,,,,,,,,,,550,55,837,17
 2022-M-ITF-ESP-18A-2022,M25 Denia,Clay,32,25,20220725,101,123921,1,,Calvin Hemery,R,188,FRA,27.4,207505,,,Mario Mansilla Diez,U,,ESP,20.2,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,303,157,834,17
 2022-M-ITF-ESP-18A-2022,M25 Denia,Clay,32,25,20220725,102,133997,,WC,Sergi Perez Contri,U,,ESP,24.5,200283,,Q,Zakhar Trapeznikov,U,,RUS,24.2,1-6 7-6(1) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1262,4,,
 2022-M-ITF-ESP-18A-2022,M25 Denia,Clay,32,25,20220725,103,123818,,,Jorge Martinez Martinez,U,,ESP,26.8,210520,,Q,Nil Regas Luis,U,,ESP,22.0,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,702,28,1753,1
@@ -4725,6 +4741,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-M-ITF-ESP-29A-2022,M15 Benicarlo,Clay,32,15,20221107,304,206662,8,,Georgii Kravchenko,R,,UKR,22.2,200184,2,,Andrey Chepelev,L,,RUS,24.2,6-1 7-6(3),3,QF,,,,,,,,,,,,,,,,,,,,472,81,354,134
 2022-M-ITF-ESP-29A-2022,M15 Benicarlo,Clay,32,15,20221107,401,126533,5,,Alvaro Lopez San Martin,R,,ESP,25.4,207704,7,,Alex Marti Pujolras,U,,ESP,23.7,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,427,100,463,88
 2022-M-ITF-ESP-29A-2022,M15 Benicarlo,Clay,32,15,20221107,402,207490,3,,Carlos Lopez Montagud,U,,ESP,22.3,206662,8,,Georgii Kravchenko,R,,UKR,22.2,3-6 6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,388,120,472,81
+2022-M-ITF-ESP-29A-2022,M15 Benicarlo,Clay,32,15,20221107,501,126533,5,,Alvaro Lopez San Martin,R,,ESP,25.4,207490,3,,Carlos Lopez Montagud,U,,ESP,22.3,7-5 6-4,3,F,,,,,,,,,,,,,,,,,,,,427,100,388,120
 2022-M-ITF-ESP-31A-2022,M15 Madrid,Hard,32,15,20221121,101,208126,,,John Echeverria,U,,ESP,20.9,208024,1,,Max Alcala Gurri,U,,ESP,20.1,6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,807,22,551,58
 2022-M-ITF-ESP-31A-2022,M15 Madrid,Hard,32,15,20221121,102,210055,,Q,Noah Lopez,U,,SUI,20.7,200214,,Q,Alan Fernando Rubio Fierros,U,,MEX,23.7,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,950,13,858,17
 2022-M-ITF-ESP-31A-2022,M15 Madrid,Hard,32,15,20221121,103,200684,,WC,Sergio Redondo Pereira,U,,ESP,27.6,207785,,Q,George Loffhagen,R,,GBR,21.5,5-3 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,976,11
@@ -5311,6 +5328,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-M-ITF-FRA-12A-2022,M25 Grasse,Clay,32,25,20220613,302,207546,3,,Pol Martin Tiffon,U,,ESP,22.8,208049,,Q,Emilien Voisin,R,,FRA,22.1,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,318,150,1042,9
 2022-M-ITF-FRA-12A-2022,M25 Grasse,Clay,32,25,20220613,303,200075,6,,Yshai Oliel,L,188,ISR,22.4,106072,4,,Alexey Vatutin,R,178,RUS,29.6,6-2 5-7 6-2,3,QF,,,,,,,,,,,,,,,,,,,,354,125,295,168
 2022-M-ITF-FRA-12A-2022,M25 Grasse,Clay,32,25,20220613,304,208233,8,,Mattia Bellucci,L,,ITA,21.0,208021,2,,Kyrian Jacquet,R,,FRA,21.0,4-6 6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,403,104,343,130
+2022-M-ITF-FRA-12A-2022,M25 Grasse,Clay,32,25,20220613,401,207546,3,,Pol Martin Tiffon,U,,ESP,22.8,207231,,,Mathys Erhard,U,,FRA,20.6,7-5 6-0,3,SF,,,,,,,,,,,,,,,,,,,,318,150,511,64
+2022-M-ITF-FRA-12A-2022,M25 Grasse,Clay,32,25,20220613,402,208233,8,,Mattia Bellucci,L,,ITA,21.0,200075,6,,Yshai Oliel,L,188,ISR,22.4,6-4 7-5,3,SF,,,,,,,,,,,,,,,,,,,,403,104,354,125
+2022-M-ITF-FRA-12A-2022,M25 Grasse,Clay,32,25,20220613,501,207546,3,,Pol Martin Tiffon,U,,ESP,22.8,208233,8,,Mattia Bellucci,L,,ITA,21.0,7-6(5) 6-7(6) 7-5,3,F,,,,,,,,,,,,,,,,,,,,318,150,403,104
 2022-M-ITF-FRA-13A-2022,M25 Sarreguemines,Carpet,32,25,20221024,101,126107,1,,Michael Geerts,R,178,BEL,27.7,200006,,,Hugo Pontico,U,,FRA,25.0,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,270,189,933,13
 2022-M-ITF-FRA-13A-2022,M25 Sarreguemines,Carpet,32,25,20221024,102,208147,,,Alexandre Aubriot,R,,FRA,23.3,202324,,,Maxence Broville,R,,FRA,23.7,6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,959,12,837,18
 2022-M-ITF-FRA-13A-2022,M25 Sarreguemines,Carpet,32,25,20221024,103,208204,,Q,Francois Musitelli,U,,FRA,24.0,211621,,WC,Arthur Nagel ,U,,FRA,,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1714,1,,
@@ -6581,6 +6601,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-M-ITF-GRE-04A-2022,M15 Heraklion,Hard,32,15,20220523,304,200207,,,Simon Anthony Ivanov,U,,BUL,21.8,105560,8,,Kelsey Stevenson,R,,CAN,31.9,6-0 7-5,3,QF,,,,,,,,,,,,,,,,,,,,966,12,814,20
 2022-M-ITF-GRE-04A-2022,M15 Heraklion,Hard,32,15,20220523,401,105810,1,,Shuichi Sekiguchi,R,,JPN,30.8,126193,5,,Mark Whitehouse,U,,GBR,29.0,6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,607,43,725,28
 2022-M-ITF-GRE-04A-2022,M15 Heraklion,Hard,32,15,20220523,402,200207,,,Simon Anthony Ivanov,U,,BUL,21.8,208843,3,,Jerome Kym,,198,SUI,19.2,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,966,12,676,32
+2022-M-ITF-GRE-04A-2022,M15 Heraklion,Hard,32,15,20220523,501,105810,1,,Shuichi Sekiguchi,R,,JPN,30.8,200207,,,Simon Anthony Ivanov,U,,BUL,21.8,6-3 6-1,3,F,,,,,,,,,,,,,,,,,,,,607,43,966,12
 2022-M-ITF-GRE-05A-2022,M15 Heraklion,Hard,32,15,20221031,101,111568,,,Michael Zhu,U,,USA,30.2,209142,1,,Sebastian Gima,L,,ROU,20.4,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,884,15,522,65
 2022-M-ITF-GRE-05A-2022,M15 Heraklion,Hard,32,15,20221031,102,126488,,Q,Jonas Trinker,U,,AUT,27.1,200315,,,Gorazd Srbljak,L,,MKD,25.1,7-6(2) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1093,8,1004,11
 2022-M-ITF-GRE-05A-2022,M15 Heraklion,Hard,32,15,20221031,103,202125,,PR,Benjamin Pietri,U,,FRA,26.2,210024,,WC,Kamran Hanif,U,,GER,19.8,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -7353,6 +7374,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-M-ITF-ISR-03A-2022,M15 Raanana,Hard,32,15,20220613,302,208144,3,,Giles Hussey,U,,GBR,25.0,202130,5,,Emil Reinberg,R,188,USA,25.1,4-6 6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,656,35,718,28
 2022-M-ITF-ISR-03A-2022,M15 Raanana,Hard,32,15,20220613,303,208304,8,,Rotem Sobol,U,,ISR,20.7,132573,4,,Luca Castelnuovo,U,,SUI,25.3,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,909,14,710,29
 2022-M-ITF-ISR-03A-2022,M15 Raanana,Hard,32,15,20220613,304,207669,6,,Robert Strombachs,U,191,GER,22.7,127326,2,,Ben Patael,U,188,ISR,25.0,3-6 6-2 7-5,3,QF,,,,,,,,,,,,,,,,,,,,740,26,598,44
+2022-M-ITF-ISR-03A-2022,M15 Raanana,Hard,32,15,20220613,401,122548,1,,Edan Leshem,U,183,ISR,25.2,208144,3,,Giles Hussey,U,,GBR,25.0,6-3 6-1,3,SF,,,,,,,,,,,,,,,,,,,,545,56,656,35
+2022-M-ITF-ISR-03A-2022,M15 Raanana,Hard,32,15,20220613,402,207669,6,,Robert Strombachs,U,191,GER,22.7,208304,8,,Rotem Sobol,U,,ISR,20.7,6-7(8) 6-1 6-1,3,SF,,,,,,,,,,,,,,,,,,,,740,26,909,14
+2022-M-ITF-ISR-03A-2022,M15 Raanana,Hard,32,15,20220613,501,207669,6,,Robert Strombachs,U,191,GER,22.7,122548,1,,Edan Leshem,U,183,ISR,25.2,7-6(4) 6-4,3,F,,,,,,,,,,,,,,,,,,,,740,26,545,56
 2022-M-ITF-ISR-04A-2022,M15 Raanana,Hard,32,15,20220620,101,122548,1,,Edan Leshem,U,183,ISR,25.2,209278,,,Alec Beckley,U,,RSA,21.0,6-1 5-7 6-1,3,R32,,,,,,,,,,,,,,,,,,,,560,52,1084,8
 2022-M-ITF-ISR-04A-2022,M15 Raanana,Hard,32,15,20220620,102,210714,,Q,Robin Catry,U,,FRA,20.2,202287,,WC,Roi Ginat,U,,ISR,21.3,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1333,4
 2022-M-ITF-ISR-04A-2022,M15 Raanana,Hard,32,15,20220620,103,207731,,,Brandon Murphy,U,,GBR,21.9,144738,,Q,Joshua Luck,U,,RSA,26.5,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1279,4,,
@@ -7631,6 +7655,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-M-ITF-ITA-04A-2022,M25 Santa Margherita di Pula,Clay,32,25,20220502,304,207490,6,,Carlos Lopez Montagud,U,,ESP,21.8,123851,,,Davide Galoppini,R,,ITA,27.5,6-1 4-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,481,73,742,26
 2022-M-ITF-ITA-04A-2022,M25 Santa Margherita di Pula,Clay,32,25,20220502,401,209937,,,Giorgio Tabacco,U,,ITA,18.7,138821,7,,Timo Stodder,U,,GER,25.9,6-3 3-6 6-2,3,SF,,,,,,,,,,,,,,,,,,,,1024,10,489,70
 2022-M-ITF-ITA-04A-2022,M25 Santa Margherita di Pula,Clay,32,25,20220502,402,209957,,,Jack Pinnington Jones,R,,GBR,19.0,207490,6,,Carlos Lopez Montagud,U,,ESP,21.8,6-4 7-6(4),3,SF,,,,,,,,,,,,,,,,,,,,561,51,481,73
+2022-M-ITF-ITA-04A-2022,M25 Santa Margherita di Pula,Clay,32,25,20220502,501,209957,,,Jack Pinnington Jones,R,,GBR,19.0,209937,,,Giorgio Tabacco,U,,ITA,18.7,7-5 6-2,3,F,,,,,,,,,,,,,,,,,,,,561,51,1024,10
 2022-M-ITF-ITA-05A-2022,M25 Santa Margherita di Pula,Clay,32,25,20220425,101,105181,1,,Miljan Zekic,R,185,SRB,33.7,202247,,,Simon Beaupain,U,,BEL,22.9,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,285,175,813,20
 2022-M-ITF-ITA-05A-2022,M25 Santa Margherita di Pula,Clay,32,25,20220425,102,210526,,Q,Niccolo Baroni,U,,ITA,18.3,105514,,,Jeremy Jahn,R,180,GER,32.0,7-6(6) 3-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,565,49
 2022-M-ITF-ITA-05A-2022,M25 Santa Margherita di Pula,Clay,32,25,20220425,103,206467,,,Federico Arnaboldi,U,,ITA,21.8,208852,,Q,Stefanos Sakellaridis,U,,GRE,17.6,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,556,52,1286,5
@@ -7969,6 +7994,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-M-ITF-ITA-15A-2022,M15 Chieti,Clay,32,15,20220613,302,208189,6,,Gianmarco Ferrari,U,,ITA,21.6,209864,,,Tommaso Compagnucci ,U,,ITA,22.6,6-0 6-2,3,QF,,,,,,,,,,,,,,,,,,,,583,47,,
 2022-M-ITF-ITA-15A-2022,M15 Chieti,Clay,32,15,20220613,303,106164,,,Tomas Lipovsek Puches,U,,ARG,29.1,210315,,WC,Pietro Pampanin,U,,ITA,19.4,1-6 6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,662,34,1309,4
 2022-M-ITF-ITA-15A-2022,M15 Chieti,Clay,32,15,20220613,304,133045,2,,Riccardo Balzerani,R,,ITA,23.6,208104,,,Andrea Picchione,U,,ITA,24.0,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,501,68,756,24
+2022-M-ITF-ITA-15A-2022,M15 Chieti,Clay,32,15,20220613,401,200184,1,,Andrey Chepelev,L,,RUS,23.8,208189,6,,Gianmarco Ferrari,U,,ITA,21.6,7-5 6-3,3,SF,,,,,,,,,,,,,,,,,,,,433,92,583,47
+2022-M-ITF-ITA-15A-2022,M15 Chieti,Clay,32,15,20220613,402,133045,2,,Riccardo Balzerani,R,,ITA,23.6,106164,,,Tomas Lipovsek Puches,U,,ARG,29.1,6-1 6-0,3,SF,,,,,,,,,,,,,,,,,,,,501,68,662,34
+2022-M-ITF-ITA-15A-2022,M15 Chieti,Clay,32,15,20220613,501,133045,2,,Riccardo Balzerani,R,,ITA,23.6,200184,1,,Andrey Chepelev,L,,RUS,23.8,6-3 1-6 6-3,3,F,,,,,,,,,,,,,,,,,,,,501,68,433,92
 2022-M-ITF-ITA-15B-2022,M15 Aprilia,Clay,32,15,20220711,101,206749,,Q,Niccolo Catini,U,,ITA,24.5,206467,1,,Federico Arnaboldi,U,,ITA,22.0,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,628,37
 2022-M-ITF-ITA-15B-2022,M15 Aprilia,Clay,32,15,20220711,102,208401,,Q,Giannicola Misasi,U,,ITA,21.8,209401,,Q,Lucio Carnevalle,U,,ARG,20.6,6-2 7-6(12),3,R32,,,,,,,,,,,,,,,,,,,,1430,3,,
 2022-M-ITF-ITA-15B-2022,M15 Aprilia,Clay,32,15,20220711,103,209185,,,Alessandro Pecci,U,,ITA,21.3,121816,,,Gianluca Di Nicola,U,,ITA,26.5,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1149,6,1269,4
@@ -9301,6 +9329,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-M-ITF-MEX-08A-2022,M15 Cancun,Hard,32,15,20220523,304,105156,5,,Federico Zeballos,U,185,BOL,33.9,209103,,SE,Haoyuan Huang,U,,CHN,19.4,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,629,39,1645,2
 2022-M-ITF-MEX-08A-2022,M15 Cancun,Hard,32,15,20220523,401,200587,1,,Brandon Holt,R,,USA,24.1,209060,,,Alexander Bernard,U,,USA,18.7,6-3 6-1,3,SF,,,,,,,,,,,,,,,,,,,,426,93,937,13
 2022-M-ITF-MEX-08A-2022,M15 Cancun,Hard,32,15,20220523,402,200270,,,Alex Knaff,R,,LUX,24.4,105156,5,,Federico Zeballos,U,185,BOL,33.9,7-5 6-3,3,SF,,,,,,,,,,,,,,,,,,,,1013,10,629,39
+2022-M-ITF-MEX-08A-2022,M15 Cancun,Hard,32,15,20220523,501,200587,1,,Brandon Holt,R,,USA,24.1,200270,,,Alex Knaff,R,,LUX,24.4,6-1 6-2,3,F,,,,,,,,,,,,,,,,,,,,426,93,1013,10
 2022-M-ITF-MEX-09A-2022,M15 Cancun,Hard,32,15,20220530,101,200220,1,,Ezekiel Clark,R,,USA,23.8,207759,,Q,Matthew Foster Estwick,,,BAR,24.7,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,592,46,,
 2022-M-ITF-MEX-09A-2022,M15 Cancun,Hard,32,15,20220530,102,126272,,,Aj Catanzariti,U,,USA,26.7,210563,,WC,Eugenio Gonzalez Fitzmaurice,U,,USA,19.1,7-6(3) 2-6 10-6,3,R32,,,,,,,,,,,,,,,,,,,,1014,10,,
 2022-M-ITF-MEX-09A-2022,M15 Cancun,Hard,32,15,20220530,103,208653,,Q,Isaac Becroft,U,,NZL,21.5,206764,,,Mateo Gomez,U,,COL,20.0,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1183,6
@@ -9331,6 +9360,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-M-ITF-MEX-09A-2022,M15 Cancun,Hard,32,15,20220530,304,106250,2,,Luis Patino,R,183,MEX,28.6,207996,,,Siddhant Banthia,R,,IND,21.7,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,724,28,1264,5
 2022-M-ITF-MEX-09A-2022,M15 Cancun,Hard,32,15,20220530,401,200220,1,,Ezekiel Clark,R,,USA,23.8,209103,,Q,Haoyuan Huang,U,,CHN,19.4,7-5 7-6(7),3,SF,,,,,,,,,,,,,,,,,,,,592,46,1645,2
 2022-M-ITF-MEX-09A-2022,M15 Cancun,Hard,32,15,20220530,402,106250,2,,Luis Patino,R,183,MEX,28.6,209060,5,,Alexander Bernard,U,,USA,18.7,6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,724,28,937,13
+2022-M-ITF-MEX-09A-2022,M15 Cancun,Hard,32,15,20220530,501,200220,1,,Ezekiel Clark,R,,USA,23.8,106250,2,,Luis Patino,R,183,MEX,28.6,6-3 6-2,3,F,,,,,,,,,,,,,,,,,,,,592,46,724,28
 2022-M-ITF-MEX-10A-2022,M15 Cancun,Hard,32,15,20220711,101,207834,1,,Juan Alejandro Hernandez Serrano,R,,MEX,23.0,210750,,LL,Lazar Markovic,U,,USA,,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,543,57,,
 2022-M-ITF-MEX-10A-2022,M15 Cancun,Hard,32,15,20220711,102,201987,,,Masamichi Imamura,U,,JPN,23.6,202124,,,Kosuke Ogura,U,,JPN,26.4,3-6 7-6(6) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,917,13,1111,7
 2022-M-ITF-MEX-10A-2022,M15 Cancun,Hard,32,15,20220711,103,127115,,Q,Gabriel Pascotto Tumasonis,L,,BRA,26.4,210560,,Q,Jean Christian Morandais,U,,GLP,19.2,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1215,5,,
@@ -9516,6 +9546,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-M-ITF-MEX-17A-2022,M15 Cancun,Hard,32,15,20220905,304,210175,6,,Nicolas Buitrago,U,,COL,24.2,105419,,Q,Patricio Alvarado,R,,ECU,32.8,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,838,17,,
 2022-M-ITF-MEX-17A-2022,M15 Cancun,Hard,32,15,20220905,401,106071,5,,Bernard Tomic,R,193,AUS,29.8,106175,3,,Ricardo Rodriguez,R,189,VEN,29.3,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,825,18,755,24
 2022-M-ITF-MEX-17A-2022,M15 Cancun,Hard,32,15,20220905,402,210126,4,,Tristan Mccormick,U,,USA,23.4,210175,6,,Nicolas Buitrago,U,,COL,24.2,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,838,17
+2022-M-ITF-MEX-17A-2022,M15 Cancun,Hard,32,15,20220905,501,106071,5,,Bernard Tomic,R,193,AUS,29.8,210126,4,,Tristan Mccormick,U,,USA,23.4,7-6(4) 6-3,3,F,,,,,,,,,,,,,,,,,,,,825,18,,
 2022-M-ITF-MEX-18A-2022,M15 Cancun,Hard,32,15,20220912,101,208119,1,,Liam Draxl,R,,CAN,20.7,208411,,,Daniel Antonio Nunez,U,,CHI,21.2,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,502,64,860,16
 2022-M-ITF-MEX-18A-2022,M15 Cancun,Hard,32,15,20220912,102,121604,,Q,Luciano Doria,U,,ARG,29.6,211581,,,Leanid Boika,U,,USA,,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1196,5,,
 2022-M-ITF-MEX-18A-2022,M15 Cancun,Hard,32,15,20220912,103,210175,,,Nicolas Buitrago,U,,COL,24.3,211469,,WC,Yahir Emiliano Moheno,U,,MEX,,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,840,17,1684,1
@@ -9668,6 +9699,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-M-ITF-MKD-04A-2022,M15 Skopje,Clay,32,15,20220613,302,123847,7,,Bogdan Bobrov,U,,RUS,24.7,126939,3,,Khumoun Sultanov,R,180,UZB,23.6,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,481,75,370,116
 2022-M-ITF-MKD-04A-2022,M15 Skopje,Clay,32,15,20220613,303,207502,8,,Stefan Palosi,R,,ROU,22.3,209385,4,,Samuel Vincent Ruggeri,R,,ITA,20.0,4-6 6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,586,47,404,103
 2022-M-ITF-MKD-04A-2022,M15 Skopje,Clay,32,15,20220613,304,209142,,,Sebastian Gima,L,,ROU,20.0,121411,5,,Moez Echargui,R,180,TUN,29.4,6-0 6-4,3,QF,,,,,,,,,,,,,,,,,,,,616,40,432,92
+2022-M-ITF-MKD-04A-2022,M15 Skopje,Clay,32,15,20220613,401,126197,1,,Orlando Luz,R,180,BRA,24.3,123847,7,,Bogdan Bobrov,U,,RUS,24.7,4-6 6-1 6-3,3,SF,,,,,,,,,,,,,,,,,,,,321,148,481,75
+2022-M-ITF-MKD-04A-2022,M15 Skopje,Clay,32,15,20220613,402,207502,8,,Stefan Palosi,R,,ROU,22.3,209142,,,Sebastian Gima,L,,ROU,20.0,6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,586,47,616,40
+2022-M-ITF-MKD-04A-2022,M15 Skopje,Clay,32,15,20220613,501,207502,8,,Stefan Palosi,R,,ROU,22.3,126197,1,,Orlando Luz,R,180,BRA,24.3,6-4 1-6 6-3,3,F,,,,,,,,,,,,,,,,,,,,586,47,321,148
 2022-M-ITF-MNE-01A-2022,M25 Ulcinj,Clay,32,25,20220502,101,206470,1,,Cezar Cretu,U,,ROU,21.0,210551,,WC,Tobias Smoliner,U,,AUT,19.8,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,452,82,,
 2022-M-ITF-MNE-01A-2022,M25 Ulcinj,Clay,32,25,20220502,102,131951,,,Daniel Cukierman,U,,ISR,26.8,209996,,LL,Matija Zugic,U,,SRB,20.6,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,563,51,1943,1
 2022-M-ITF-MNE-01A-2022,M25 Ulcinj,Clay,32,25,20220502,103,144919,,,Yann Wojcik,U,,SUI,25.4,210552,,Q,Alessio Savoldi,U,,ITA,22.2,7-6(5) 5-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,871,16,,
@@ -9760,6 +9794,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-M-ITF-MNE-03A-2022,M15 Ulcinj,Clay,32,15,20220523,304,209997,,,Marcello Serafini,R,,ITA,19.7,208861,,,Keisuke Saitoh,L,,JPN,21.0,3-1 RET,3,QF,,,,,,,,,,,,,,,,,,,,898,15,984,11
 2022-M-ITF-MNE-03A-2022,M15 Ulcinj,Clay,32,15,20220523,401,117365,,,Petros Chrysochos,R,185,CYP,26.1,208214,8,,Arnaud Bovy,L,,BEL,21.6,6-1 6-4,3,SF,,,,,,,,,,,,,,,,,,,,693,31,641,37
 2022-M-ITF-MNE-03A-2022,M15 Ulcinj,Clay,32,15,20220523,402,209997,,,Marcello Serafini,R,,ITA,19.7,132584,,LL,Stefano Reitano,R,,ITA,24.8,6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,898,15,1615,2
+2022-M-ITF-MNE-03A-2022,M15 Ulcinj,Clay,32,15,20220523,501,209997,,,Marcello Serafini,R,,ITA,19.7,117365,,,Petros Chrysochos,R,185,CYP,26.1,6-1 6-3,3,F,,,,,,,,,,,,,,,,,,,,898,15,693,31
 2022-M-ITF-MNE-05A-2022,M25 Ulcinj,Clay,32,25,20220516,101,200610,1,,Oliver Crawford,R,,USA,23.0,210112,,LL,Veljko Krstic,U,,SRB,18.6,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,396,105,1808,1
 2022-M-ITF-MNE-05A-2022,M25 Ulcinj,Clay,32,25,20220516,102,105452,,,Francesco Vilardo,R,,ITA,32.3,209921,,Q,Ali Habib,U,,GBR,19.4,7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,685,32,,
 2022-M-ITF-MNE-05A-2022,M25 Ulcinj,Clay,32,25,20220516,103,209518,,,Tibo Colson,U,,BEL,21.8,210609,,WC,Jasin Jakupi,U,,SUI,20.0,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1090,8,,
@@ -10472,6 +10507,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-M-ITF-POR-05A-2022,M25 Quinta Do Lago,Hard,32,25,20220321,304,200273,2,,Hady Habib,U,,LBN,23.5,208279,6,,Alejandro Moro Canas,U,,ESP,21.2,7-6(3) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,422,91,476,71
 2022-M-ITF-POR-05A-2022,M25 Quinta Do Lago,Hard,32,25,20220321,401,200318,1,,Yu Hsiou Hsu,U,,TPE,22.9,207793,,,Alec Deckers,R,,NED,21.8,6-1 7-5,3,SF,,,,,,,,,,,,,,,,,,,,354,116,860,18
 2022-M-ITF-POR-05A-2022,M25 Quinta Do Lago,Hard,32,25,20220321,402,200473,5,,Valentin Vacherot,U,,FRA,23.3,200273,2,,Hady Habib,U,,LBN,23.5,7-6(1) 6-4,3,SF,,,,,,,,,,,,,,,,,,,,464,75,422,91
+2022-M-ITF-POR-05A-2022,M25 Quinta Do Lago,Hard,32,25,20220321,501,200473,5,,Valentin Vacherot,U,,FRA,23.3,200318,1,,Yu Hsiou Hsu,U,,TPE,22.9,6-4 6-3,3,F,,,,,,,,,,,,,,,,,,,,464,75,354,116
 2022-M-ITF-POR-08A-2022,M15 Castelo Branco,Hard,32,15,20220725,101,127326,1,,Ben Patael,U,188,ISR,25.1,211360,,Q,Filipe Grebentsov ,U,,POR,,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,497,68,,
 2022-M-ITF-POR-08A-2022,M15 Castelo Branco,Hard,32,15,20220725,102,210262,,,Jaime Faria,U,,POR,18.9,208796,,,Illia Stoliar,U,,UKR,23.1,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1047,8,1753,1
 2022-M-ITF-POR-08A-2022,M15 Castelo Branco,Hard,32,15,20220725,103,209095,,WC,Francisco Rocha,U,,POR,22.8,210328,,Q,Matt Ponchet,U,,FRA,18.0,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1867,1,1626,2
@@ -10688,6 +10724,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-M-ITF-ROU-01A-2022,M15 Bucharest,Clay,32,15,20220523,304,207660,2,,Nicholas David Ionel,R,,ROU,19.6,123855,6,,Daniele Capecchi,U,,ITA,26.6,6-4 4-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,338,140,558,53
 2022-M-ITF-ROU-01A-2022,M15 Bucharest,Clay,32,15,20220523,401,206470,3,,Cezar Cretu,U,,ROU,21.0,109303,5,,Stefano Napolitano,R,196,ITA,27.1,6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,457,82,597,45
 2022-M-ITF-ROU-01A-2022,M15 Bucharest,Clay,32,15,20220523,402,133945,,,Calin Manda,U,,ROU,24.1,207660,2,,Nicholas David Ionel,R,,ROU,19.6,6-4 6-1,3,SF,,,,,,,,,,,,,,,,,,,,777,23,338,140
+2022-M-ITF-ROU-01A-2022,M15 Bucharest,Clay,32,15,20220523,501,133945,,,Calin Manda,U,,ROU,24.1,206470,3,,Cezar Cretu,U,,ROU,21.0,6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,777,23,457,82
 2022-M-ITF-ROU-02A-2022,M25+H Bacau,Clay,32,25,20220725,101,207660,1,,Nicholas David Ionel,R,,ROU,19.7,209142,,,Sebastian Gima,L,,ROU,20.1,6-2 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,309,156,578,46
 2022-M-ITF-ROU-02A-2022,M25+H Bacau,Clay,32,25,20220725,102,106129,,WC,Dragos Constantin Ignat,R,,ROU,29.4,133945,,,Calin Manda,U,,ROU,24.3,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,613,38
 2022-M-ITF-ROU-02A-2022,M25+H Bacau,Clay,32,25,20220725,103,105508,,,Vasile Antonescu,R,,ROU,32.3,208028,,,Francisco Llanes,U,175,URU,20.2,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1369,3,1135,6
@@ -11927,6 +11964,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-M-ITF-THA-11A-2022,M15 Chiang Rai,Hard,32,15,20220613,304,111806,,,Fajing Sun,U,,CHN,25.6,207788,,WC,Thanapet Chanta,U,,THA,22.7,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,636,37,2079,1
 2022-M-ITF-THA-11A-2022,M15 Chiang Rai,Hard,32,15,20220613,401,122495,3,,Shintaro Imai,U,,JPN,28.7,209171,,Q,Thantub Suksumrarn,R,,THA,21.0,6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,554,54,1992,1
 2022-M-ITF-THA-11A-2022,M15 Chiang Rai,Hard,32,15,20220613,402,207352,4,,Bu Yunchaokete,U,,CHN,20.3,111806,,,Fajing Sun,U,,CHN,25.6,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,517,62,636,37
+2022-M-ITF-THA-11A-2022,M15 Chiang Rai,Hard,32,15,20220613,501,122495,3,,Shintaro Imai,U,,JPN,28.7,207352,4,,Bu Yunchaokete,U,,CHN,20.3,7-5 6-4,3,F,,,,,,,,,,,,,,,,,,,,554,54,517,62
 2022-M-ITF-THA-12A-2022,M15 Chiang Rai,Hard,32,15,20220620,101,200666,,,Jie Cui,U,,CHN,24.4,132123,,LL,Chanchai Sookton Eng,U,,AUS,25.8,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,972,11,1699,2
 2022-M-ITF-THA-12A-2022,M15 Chiang Rai,Hard,32,15,20220620,102,133667,,,Congsup Congcar,U,,THA,25.8,134120,,,Kuan Yi Lee,R,,TPE,25.7,5-7 7-5 1-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,1990,1,970,11
 2022-M-ITF-THA-12A-2022,M15 Chiang Rai,Hard,32,15,20220620,103,127143,,WC,Jirat Navasirisomboon,R,,THA,25.5,105934,,,Chuhan Wang,R,188,CHN,30.3,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,2037,1,1147,6
@@ -12701,6 +12739,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-M-ITF-TUN-24A-2022,M25 Monastir,Hard,32,25,20220523,304,117361,7,WC,Akira Santillan,R,180,AUS,25.0,109734,2,,Skander Mansouri,R,,TUN,26.8,7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,496,69,340,138
 2022-M-ITF-TUN-24A-2022,M25 Monastir,Hard,32,25,20220523,401,104810,,,Zhe Li,R,185,CHN,35.6,208300,5,,Omni Kumar,U,,USA,20.6,6-3 4-6 6-2,3,SF,,,,,,,,,,,,,,,,,,,,626,39,489,73
 2022-M-ITF-TUN-24A-2022,M25 Monastir,Hard,32,25,20220523,402,117361,7,WC,Akira Santillan,R,180,AUS,25.0,209918,,,Hanwen Li,R,180,CHN,19.7,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,496,69,610,42
+2022-M-ITF-TUN-24A-2022,M25 Monastir,Hard,32,25,20220523,501,117361,7,WC,Akira Santillan,R,180,AUS,25.0,104810,,,Zhe Li,R,185,CHN,35.6,2-6 7-6(3) 6-2,3,F,,,,,,,,,,,,,,,,,,,,496,69,626,39
 2022-M-ITF-TUN-25A-2022,M15 Monastir,Hard,32,15,20220530,101,109734,1,,Skander Mansouri,R,,TUN,26.8,207796,,,Vladislav Ivanov,U,,RUS,22.9,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,340,138,876,16
 2022-M-ITF-TUN-25A-2022,M15 Monastir,Hard,32,15,20220530,102,209406,,,Abedallah Shelbayh,L,,JOR,18.5,210657,,WC,Shivank Bhatnagar,U,,IND,21.6,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1294,4,,
 2022-M-ITF-TUN-25A-2022,M15 Monastir,Hard,32,15,20220530,103,105585,,,Ze Zhang,R,188,CHN,31.8,209233,,Q,Pietro Marino,R,,ITA,20.9,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,887,15,1503,3
@@ -12855,6 +12894,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-M-ITF-TUN-29A-2022,M15 Monastir,Hard,32,15,20220523,304,111569,2,,Gage Brymer,U,,USA,27.2,200666,5,,Jie Cui,U,,CHN,24.3,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,545,56,977,11
 2022-M-ITF-TUN-29A-2022,M15 Monastir,Hard,32,15,20220523,401,207809,3,,Khololwam Montsi,R,,RSA,19.5,200007,1,,Quentin Folliot,U,,FRA,23.3,7-5 6-1,3,SF,,,,,,,,,,,,,,,,,,,,698,30,533,59
 2022-M-ITF-TUN-29A-2022,M15 Monastir,Hard,32,15,20220523,402,111569,2,,Gage Brymer,U,,USA,27.2,200466,,,Alexander Crnokrak,R,,AUS,22.3,6-2 7-6(7),3,SF,,,,,,,,,,,,,,,,,,,,545,56,1065,9
+2022-M-ITF-TUN-29A-2022,M15 Monastir,Hard,32,15,20220523,501,111569,2,,Gage Brymer,U,,USA,27.2,207809,3,,Khololwam Montsi,R,,RSA,19.5,6-4 6-0,3,F,,,,,,,,,,,,,,,,,,,,545,56,698,30
 2022-M-ITF-TUN-30A-2022,M15 Monastir,Hard,32,15,20220613,101,109734,1,,Skander Mansouri,R,,TUN,26.8,207794,,WC,Younes Lalami Laaroussi,U,,MAR,21.1,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,324,145,1809,1
 2022-M-ITF-TUN-30A-2022,M15 Monastir,Hard,32,15,20220613,102,207463,,Q,Sheng Tang,U,,CHN,22.3,144932,,Q,Kristjan Tamm,U,185,EST,23.9,6-7(5) 6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,1192,6
 2022-M-ITF-TUN-30A-2022,M15 Monastir,Hard,32,15,20220613,103,206916,,Q,Joshua Charlton,U,,AUS,22.8,200145,,Q,Chukang Wang,U,,CHN,22.7,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1342,4
@@ -12883,6 +12923,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-M-ITF-TUN-30A-2022,M15 Monastir,Hard,32,15,20220613,302,105585,,,Ze Zhang,R,188,CHN,31.9,144751,,PR,Rigele Te,U,,CHN,24.6,4-6 7-6(5) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,1140,6,1003,10
 2022-M-ITF-TUN-30A-2022,M15 Monastir,Hard,32,15,20220613,303,200007,3,,Quentin Folliot,U,,FRA,23.4,105747,,,Karim Mohamed Maamoun,R,175,EGY,31.1,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,521,62,861,16
 2022-M-ITF-TUN-30A-2022,M15 Monastir,Hard,32,15,20220613,304,144826,2,,Aziz Dougaz,L,188,TUN,25.2,207884,6,,Arthur Bouquier,U,,FRA,21.4,3-6 7-6(4) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,397,106,736,26
+2022-M-ITF-TUN-30A-2022,M15 Monastir,Hard,32,15,20220613,401,109734,1,,Skander Mansouri,R,,TUN,26.8,105585,,,Ze Zhang,R,188,CHN,31.9,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,324,145,1140,6
+2022-M-ITF-TUN-30A-2022,M15 Monastir,Hard,32,15,20220613,402,144826,2,,Aziz Dougaz,L,188,TUN,25.2,200007,3,,Quentin Folliot,U,,FRA,23.4,3-0 RET,3,SF,,,,,,,,,,,,,,,,,,,,397,106,521,62
+2022-M-ITF-TUN-30A-2022,M15 Monastir,Hard,32,15,20220613,501,144826,2,,Aziz Dougaz,L,188,TUN,25.2,109734,,,Skander Mansouri,R,,TUN,26.8,7-6(4) 6-3,3,F,,,,,,,,,,,,,,,,,,,,397,106,324,145
 2022-M-ITF-TUN-31A-2022,M15 Monastir,Hard,32,15,20220620,101,144826,1,,Aziz Dougaz,L,188,TUN,25.2,210434,,Q,Charlie Camus,U,,AUS,15.6,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,367,116,1427,3
 2022-M-ITF-TUN-31A-2022,M15 Monastir,Hard,32,15,20220620,102,200565,,Q,Cengiz Aksu,R,,TUR,23.8,207650,,WC,Valentin De Carvalho,U,,FRA,22.9,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1436,3,,
 2022-M-ITF-TUN-31A-2022,M15 Monastir,Hard,32,15,20220620,103,200307,,,Tao Mu,U,,CHN,22.1,207794,,WC,Younes Lalami Laaroussi,U,,MAR,21.1,3-6 6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1017,10,1799,1
@@ -13657,6 +13700,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-M-ITF-TUN-56A-2022,M25 Monastir,Hard,32,25,20221121,304,208300,7,,Omni Kumar,U,,USA,21.1,202400,2,,Alastair Gray,R,,GBR,24.4,4-0 RET,3,QF,,,,,,,,,,,,,,,,,,,,475,81,274,197
 2022-M-ITF-TUN-56A-2022,M25 Monastir,Hard,32,25,20221121,401,109734,1,,Skander Mansouri,R,,TUN,27.3,207352,4,,Bu Yunchaokete,U,,CHN,20.8,6-3 7-6(0),3,SF,,,,,,,,,,,,,,,,,,,,265,202,320,157
 2022-M-ITF-TUN-56A-2022,M25 Monastir,Hard,32,25,20221121,402,208300,7,,Omni Kumar,U,,USA,21.1,144826,3,,Aziz Dougaz,L,188,TUN,25.6,6-7(5) 6-0 7-5,3,SF,,,,,,,,,,,,,,,,,,,,475,81,282,185
+2022-M-ITF-TUN-56A-2022,M25 Monastir,Hard,32,25,20221121,501,109734,1,,Skander Mansouri,R,,TUN,27.3,208300,7,,Omni Kumar,U,,USA,21.1,6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,265,202,475,81
 2022-M-ITF-TUN-57A-2022,M15 Monastir,Hard,32,15,20221121,101,210348,,,Jarno Jans,U,,NED,22.4,134794,1,,Alexis Gautier,U,,FRA,25.6,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,913,14,510,69
 2022-M-ITF-TUN-57A-2022,M15 Monastir,Hard,32,15,20221121,102,210561,,Q,Yujiro Onuma,U,,GBR,18.3,207748,,Q,Hong Lin Fu,U,,TPE,20.9,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2022-M-ITF-TUN-57A-2022,M15 Monastir,Hard,32,15,20221121,103,209985,,,Amaury Raynel,U,,FRA,20.3,206355,,Q,Ighor Halmenschlager Reis,U,,BRA,25.3,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,896,15,,
@@ -13964,6 +14008,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-M-ITF-TUR-03A-2022,M15 Antalya,Clay,32,15,20220124,302,144656,5,,Corentin Denolly,L,,FRA,24.6,200216,4,,Giovanni Fonio,U,,ITA,23.6,7-6(4) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,450,82,411,100
 2022-M-ITF-TUR-03A-2022,M15 Antalya,Clay,32,15,20220124,303,104947,,,Marsel Ilhan,R,190,TUR,34.6,126939,3,,Khumoun Sultanov,R,180,UZB,23.2,6-3 7-5,3,QF,,,,,,,,,,,,,,,,,,,,768,28,391,107
 2022-M-ITF-TUR-03A-2022,M15 Antalya,Clay,32,15,20220124,304,200096,2,,Dragos Nicolae Madaras,L,,ROU,24.3,121497,8,,Mircea Alexandru Jecan,L,,ROU,33.6,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,373,115,658,40
+2022-M-ITF-TUR-03A-2022,M15 Antalya,Clay,32,15,20220124,401,144656,5,,Corentin Denolly,L,,FRA,24.6,123851,,,Davide Galoppini,R,,ITA,27.2,6-4 4-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,450,82,690,36
+2022-M-ITF-TUR-03A-2022,M15 Antalya,Clay,32,15,20220124,402,200096,2,,Dragos Nicolae Madaras,L,,ROU,24.3,104947,,,Marsel Ilhan,R,190,TUR,34.6,6-1 6-1,3,SF,,,,,,,,,,,,,,,,,,,,373,115,768,28
+2022-M-ITF-TUR-03A-2022,M15 Antalya,Clay,32,15,20220124,501,200096,2,,Dragos Nicolae Madaras,L,,ROU,24.3,144656,5,,Corentin Denolly,L,,FRA,24.6,7-6(5) 6-3,3,F,,,,,,,,,,,,,,,,,,,,373,115,450,82
 2022-M-ITF-TUR-04A-2022,M15 Antalya,Clay,32,15,20220131,101,105181,1,,Miljan Zekic,R,185,SRB,33.5,208339,,Q,Igor Shrolik,U,,RUS,21.7,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,333,144,,
 2022-M-ITF-TUR-04A-2022,M15 Antalya,Clay,32,15,20220131,102,208152,,,Gabriele Bosio,U,,ITA,21.1,200636,,WC,Umut Akkoyun,U,,TUR,21.5,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1069,10,,
 2022-M-ITF-TUR-04A-2022,M15 Antalya,Clay,32,15,20220131,103,208182,,,Saba Purtseladze,R,,GEO,20.4,200442,,,Dostanbek Tashbulatov,U,,KAZ,21.5,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1116,9,904,17
@@ -14490,6 +14537,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-M-ITF-TUR-20A-2022,M15 Antalya,Clay,32,15,20220523,304,202378,2,,Ignacio Carou,U,178,ARG,22.8,210042,8,,Gabriele Piraino,L,,ITA,18.5,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,672,33,807,20
 2022-M-ITF-TUR-20A-2022,M15 Antalya,Clay,32,15,20220523,401,133880,,,Thomas Deschamps,U,,BEL,25.8,210535,,,Maxim Shin,U,,UZB,18.9,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,987,11,,
 2022-M-ITF-TUR-20A-2022,M15 Antalya,Clay,32,15,20220523,402,208189,4,,Gianmarco Ferrari,U,,ITA,21.6,202378,2,,Ignacio Carou,U,178,ARG,22.8,6-3 4-6 6-4,3,SF,,,,,,,,,,,,,,,,,,,,680,32,672,33
+2022-M-ITF-TUR-20A-2022,M15 Antalya,Clay,32,15,20220523,501,208189,4,,Gianmarco Ferrari,U,,ITA,21.6,133880,,,Thomas Deschamps,U,,BEL,25.8,6-2 6-4,3,F,,,,,,,,,,,,,,,,,,,,680,32,987,11
 2022-M-ITF-TUR-21A-2022,M15 Antalya,Clay,32,15,20221017,101,207603,,,Stefano Battaglino,U,,ITA,24.3,200184,1,,Andrey Chepelev,L,,RUS,24.2,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,858,17,353,134
 2022-M-ITF-TUR-21A-2022,M15 Antalya,Clay,32,15,20221017,102,125833,,Q,Mert Naci Turker,U,,TUR,24.1,211669,,WC,Atakan Karahan,U,,TUR,,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1409,3,,
 2022-M-ITF-TUR-21A-2022,M15 Antalya,Clay,32,15,20221017,103,104947,,,Marsel Ilhan,R,190,TUR,35.3,211514,,WC,Justin Engel,U,,GER,,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,766,25,,
@@ -14985,6 +15033,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-M-ITF-USA-06A-2022,M25 Calabasas CA,Hard,32,25,20220321,304,208014,2,,Rinky Hijikata,U,,AUS,21.0,210098,,JE,Victor Lilov,R,,USA,18.1,6-7(4) 6-2 7-5,3,QF,,,,,,,,,,,,,,,,,,,,308,152,999,11
 2022-M-ITF-USA-06A-2022,M25 Calabasas CA,Hard,32,25,20220321,401,200277,,,Charles Broom,U,,GBR,23.9,111574,4,,Jc Aragone,R,178,USA,26.7,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,556,51,401,99
 2022-M-ITF-USA-06A-2022,M25 Calabasas CA,Hard,32,25,20220321,402,208014,2,,Rinky Hijikata,U,,AUS,21.0,131951,,,Daniel Cukierman,U,,ISR,26.6,6-4 6-7(3) 6-4,3,SF,,,,,,,,,,,,,,,,,,,,308,152,650,38
+2022-M-ITF-USA-06A-2022,M25 Calabasas CA,Hard,32,25,20220321,501,208014,2,,Rinky Hijikata,U,,AUS,21.0,200277,,,Charles Broom,U,,GBR,23.9,7-5 6-2,3,F,,,,,,,,,,,,,,,,,,,,308,152,556,51
 2022-M-ITF-USA-07A-2022,M15 Sunrise FL,Clay,32,15,20220411,101,106352,1,,Matias Franco Descotte,R,,ARG,27.6,207809,,Q,Khololwam Montsi,R,,RSA,19.3,0-6 6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,478,72,724,28
 2022-M-ITF-USA-07A-2022,M15 Sunrise FL,Clay,32,15,20220411,102,210044,,,Bruno Kuzuhara,U,,USA,18.0,106175,,,Ricardo Rodriguez,R,189,VEN,28.9,5-7 6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,981,12,732,28
 2022-M-ITF-USA-07A-2022,M15 Sunrise FL,Clay,32,15,20220411,103,105871,,,Sekou Bangoura,R,183,USA,30.3,126612,,,Alexander Cozbinov,R,188,MDA,26.9,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,657,36,646,37
@@ -15199,6 +15248,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-M-ITF-USA-14A-2022,M25 Wichita KS,Hard,32,25,20220613,302,206889,,,Clement Chidekh,U,,FRA,20.9,208653,,Q,Isaac Becroft,U,,NZL,21.6,6-0 6-4,3,QF,,,,,,,,,,,,,,,,,,,,522,61,1809,1
 2022-M-ITF-USA-14A-2022,M25 Wichita KS,Hard,32,25,20220613,303,208119,,,Liam Draxl,R,,CAN,20.5,200228,8,,Felix Corwin,U,,USA,26.0,7-6(4) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,567,51,516,63
 2022-M-ITF-USA-14A-2022,M25 Wichita KS,Hard,32,25,20220613,304,200318,2,,Yu Hsiou Hsu,U,,TPE,23.1,202122,7,,Yuta Shimizu,L,163,JPN,23.0,6-3 2-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,350,128,488,72
+2022-M-ITF-USA-14A-2022,M25 Wichita KS,Hard,32,25,20220613,401,206889,,,Clement Chidekh,U,,FRA,20.9,106187,1,,Denis Yevseyev,U,,KAZ,29.0,7-6(3) 6-1,3,SF,,,,,,,,,,,,,,,,,,,,522,61,348,128
+2022-M-ITF-USA-14A-2022,M25 Wichita KS,Hard,32,25,20220613,402,208119,,,Liam Draxl,R,,CAN,20.5,200318,2,,Yu Hsiou Hsu,U,,TPE,23.1,6-4 1-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,567,51,350,128
+2022-M-ITF-USA-14A-2022,M25 Wichita KS,Hard,32,25,20220613,501,206889,,,Clement Chidekh,U,,FRA,20.9,208119,,,Liam Draxl,R,,CAN,20.5,6-2 6-2,3,F,,,,,,,,,,,,,,,,,,,,522,61,567,51
 2022-M-ITF-USA-15A-2022,M15 San Diego CA,Hard,32,15,20220613,101,202169,,,Colin Markes,U,,USA,25.2,208260,1,,Zachary Svajda,R,175,USA,19.5,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,818,19,393,106
 2022-M-ITF-USA-15A-2022,M15 San Diego CA,Hard,32,15,20220613,102,210319,,,Ethan Quinn,U,,USA,18.2,207178,,Q,Joe Tyler,U,,GBR,23.6,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,851,16,1529,2
 2022-M-ITF-USA-15A-2022,M15 San Diego CA,Hard,32,15,20220613,103,202366,,,Tadeas Paroulek,U,,CZE,22.4,210320,,,Kyle Kang,U,,USA,17.3,6-3 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1047,9,1069,8
@@ -15227,6 +15279,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-M-ITF-USA-15A-2022,M15 San Diego CA,Hard,32,15,20220613,302,210506,,,Alex Michelsen,U,,USA,17.7,200142,,,Kareem Allaf,R,,SYR,24.2,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,1381,3,1041,9
 2022-M-ITF-USA-15A-2022,M15 San Diego CA,Hard,32,15,20220613,303,200416,,,August Holmgren,R,185,DEN,24.1,144672,4,,Duarte Vale,U,,POR,23.4,6-4 5-7 6-4,3,QF,,,,,,,,,,,,,,,,,,,,634,37,652,35
 2022-M-ITF-USA-15A-2022,M15 San Diego CA,Hard,32,15,20220613,304,209043,,Q,Yuta Kikuchi,U,,JPN,22.7,208296,,WC,Siem Woldeab,U,,USA,21.0,2-6 6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,1271,4,,
+2022-M-ITF-USA-15A-2022,M15 San Diego CA,Hard,32,15,20220613,401,210319,,,Ethan Quinn,U,,USA,18.2,210506,,,Alex Michelsen,U,,USA,17.7,6-4 4-6 6-4,3,SF,,,,,,,,,,,,,,,,,,,,851,16,1381,3
+2022-M-ITF-USA-15A-2022,M15 San Diego CA,Hard,32,15,20220613,402,200416,,,August Holmgren,R,185,DEN,24.1,209043,,Q,Yuta Kikuchi,U,,JPN,22.7,3-6 7-5 6-4,3,SF,,,,,,,,,,,,,,,,,,,,634,37,1271,4
+2022-M-ITF-USA-15A-2022,M15 San Diego CA,Hard,32,15,20220613,501,210319,,,Ethan Quinn,U,,USA,18.2,200416,,,August Holmgren,R,185,DEN,24.1,3-6 7-6(7) 7-6(4),3,F,,,,,,,,,,,,,,,,,,,,851,16,634,37
 2022-M-ITF-USA-16A-2022,M25 Tulsa OK,Hard,32,25,20220620,101,200318,1,,Yu Hsiou Hsu,U,,TPE,23.2,209265,,Q,Nathan Chavez,U,,USA,27.0,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,340,128,,
 2022-M-ITF-USA-16A-2022,M25 Tulsa OK,Hard,32,25,20220620,102,211346,,WC,Andres Martin,U,,USA,20.9,200219,,,John Mcnally,U,,USA,23.6,2-6 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,843,16,572,48
 2022-M-ITF-USA-16A-2022,M25 Tulsa OK,Hard,32,25,20220620,103,209326,,Q,Murphy Cassone,R,,USA,19.8,200589,,,Sam Riffice,U,188,USA,23.3,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,733,25,771,22
@@ -16063,6 +16118,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-M-ITF-USA-44A-2022,M15 Boca Raton FL,Clay,32,15,20221114,304,106232,2,,Roberto Cid,R,193,DOM,29.2,121817,8,,Juan Manuel Benitez Chavarriaga,U,,COL,27.1,2-6 6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,638,42,929,13
 2022-M-ITF-USA-44A-2022,M15 Boca Raton FL,Clay,32,15,20221114,401,202345,,,Arvid Nordquist,U,,SWE,24.4,106064,,,Lucas Renard,R,,SWE,30.1,6-4 3-6 6-2,3,SF,,,,,,,,,,,,,,,,,,,,1106,8,1219,5
 2022-M-ITF-USA-44A-2022,M15 Boca Raton FL,Clay,32,15,20221114,402,209124,5,,Blu Baker,R,,GBR,21.2,106232,2,,Roberto Cid,R,193,DOM,29.2,6-1 6-2,3,SF,,,,,,,,,,,,,,,,,,,,697,34,638,42
+2022-M-ITF-USA-44A-2022,M15 Boca Raton FL,Clay,32,15,20221114,501,209124,5,,Blu Baker,R,,GBR,21.2,202345,,,Arvid Nordquist,U,,SWE,24.4,7-6(4) 6-2,3,F,,,,,,,,,,,,,,,,,,,,697,34,1106,8
 2022-M-ITF-USA-45A-2022,M15 Winston-Salem NC,Hard,32,15,20221107,101,207878,,Q,James Story,U,,GBR,21.6,208143,1,,Garrett Johns,U,,USA,21.8,3-6 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1362,3,660,38
 2022-M-ITF-USA-45A-2022,M15 Winston-Salem NC,Hard,32,15,20221107,102,207814,,WC,Luciano Tacchi,U,,ARG,21.5,200531,,,Gianni Ross,R,,USA,23.7,7-6(5) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1935,1,1012,10
 2022-M-ITF-USA-45A-2022,M15 Winston-Salem NC,Hard,32,15,20221107,103,132134,,,Mitchell Harper,U,,AUS,25.1,144949,,,Menelaos Efstathiou,R,,CYP,23.6,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,851,17,1005,10
@@ -16184,6 +16240,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-M-ITF-VIE-03A-2022,M15 Tay Ninh,Hard,32,15,20220613,302,126573,4,,Thomas Fancutt,R,188,AUS,27.2,106206,,Q,Jea Moon Lee,R,,KOR,28.9,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,646,36,1265,4
 2022-M-ITF-VIE-03A-2022,M15 Tay Ninh,Hard,32,15,20220613,303,200014,,,Digvijaypratap Singh,R,,IND,22.0,210666,,WC,Ha Minh Duc Vu,U,,VIE,19.0,6-0 6-2,3,QF,,,,,,,,,,,,,,,,,,,,932,13,,
 2022-M-ITF-VIE-03A-2022,M15 Tay Ninh,Hard,32,15,20220613,304,202356,7,,Tsung Hao Huang,U,,TPE,22.5,202300,,WC,Phuong Van Nguyen,R,,VIE,21.2,6-1 2-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,872,16,,
+2022-M-ITF-VIE-03A-2022,M15 Tay Ninh,Hard,32,15,20220613,401,122533,1,,Nam Hoang Ly,R,,VIE,25.2,126573,4,,Thomas Fancutt,R,188,AUS,27.2,6-2 2-0 RET,3,SF,,,,,,,,,,,,,,,,,,,,434,91,646,36
+2022-M-ITF-VIE-03A-2022,M15 Tay Ninh,Hard,32,15,20220613,402,200014,,,Digvijaypratap Singh,R,,IND,22.0,202356,7,,Tsung Hao Huang,U,,TPE,22.5,6-4 7-5,3,SF,,,,,,,,,,,,,,,,,,,,932,13,872,16
+2022-M-ITF-VIE-03A-2022,M15 Tay Ninh,Hard,32,15,20220613,501,122533,1,,Nam Hoang Ly,R,,VIE,25.2,200014,,,Digvijaypratap Singh,R,,IND,22.0,4-6 7-5 6-4,3,F,,,,,,,,,,,,,,,,,,,,434,91,932,13
 2022-M-ITF-VIE-04A-2022,M25 Tay Ninh,Hard,32,25,20220926,101,122533,1,,Nam Hoang Ly,R,,VIE,25.5,144730,,,Tomohiro Masabayashi,U,,JPN,24.5,7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,275,181,1141,6
 2022-M-ITF-VIE-04A-2022,M25 Tay Ninh,Hard,32,25,20220926,102,144775,,WC,Linh Giang Trinh,,183,VIE,25.1,207134,,,Fitriadi M Rifqi,R,,INA,23.6,6-3 2-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,1479,2,1237,4
 2022-M-ITF-VIE-04A-2022,M25 Tay Ninh,Hard,32,25,20220926,103,106397,,,Wishaya Trongcharoenchaikul,R,193,THA,27.4,211324,,,Mitsuki Wei Kang Leong,U,,MAS,,1-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1166,6,1253,4
