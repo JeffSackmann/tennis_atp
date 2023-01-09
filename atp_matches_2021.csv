@@ -7,7 +7,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-0096,Tokyo Olympics,Hard,64,A,20210724,242,105062,,,Mikhail Kukushkin,R,183,KAZ,33.5,105948,,,Federico Coria,R,180,ARG,29.3,7-6(4) 7-5,3,R64,,,,,,,,,,,,,,,,,,,,123,652,62,1063
 2021-0096,Tokyo Olympics,Hard,64,A,20210724,243,136440,,,Dominik Koepfer,L,180,GER,27.2,105487,,,Facundo Bagnis,L,183,ARG,31.3,3-6 6-3 7-5,3,R64,,,,,,,,,,,,,,,,,,,,57,1153,80,916
 2021-0096,Tokyo Olympics,Hard,64,A,20210724,244,200175,,,Miomir Kecmanovic,R,183,SRB,21.8,111794,,,Kamil Majchrzak,R,183,POL,25.5,6-4 6-2,3,R64,,,,,,,,,,,,,,,,,,,,50,1309,115,722
-2021-0096,Tokyo Olympics,Hard,64,A,20210724,245,106218,,,Marcos Giron,R,180,USA,27.9,105613,,,Norbert Gombos,R,193,SVK,30.9,7-6 3-6 6-2,3,R64,,,,,,,,,,,,,,,,,,,,64,1047,98,812
+2021-0096,Tokyo Olympics,Hard,64,A,20210724,245,106218,,,Marcos Giron,R,180,USA,27.9,105613,,,Norbert Gombos,R,193,SVK,30.9,7-6(4) 3-6 6-2,3,R64,,,,,,,,,,,,,,,,,,,,64,1047,98,812
 2021-0096,Tokyo Olympics,Hard,64,A,20210724,246,106078,,,Egor Gerasimov,R,196,BLR,28.6,104468,,,Gilles Simon,R,183,FRA,36.5,4-6 6-3 6-4,3,R64,,,,,,,,,,,,,,,,,,,,79,926,102,779
 2021-0096,Tokyo Olympics,Hard,64,A,20210724,247,123755,,,Daniel Elahi Galan,R,191,COL,25.0,105633,,,Mohamed Safwat,R,183,EGY,30.8,7-5 6-1,3,R64,,,,,,,,,,,,,,,,,,,,113,727,171,424
 2021-0096,Tokyo Olympics,Hard,64,A,20210724,248,105902,,,James Duckworth,R,183,AUS,29.4,127760,,,Lukas Klein,R,193,SVK,23.3,5-7 6-3 7-6(4),3,R64,,,,,,,,,,,,,,,,,,,,77,933,246,268
@@ -33,7 +33,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-0096,Tokyo Olympics,Hard,64,A,20210724,268,104925,1,,Novak Djokovic,R,188,SRB,34.1,106198,,,Hugo Dellien,R,180,BOL,28.0,6-2 6-2,3,R64,,,,,,,,,,,,,,,,,,,,1,12113,139,558
 2021-0096,Tokyo Olympics,Hard,64,A,20210724,269,105453,,,Kei Nishikori,R,178,JPN,31.5,106218,,,Marcos Giron,R,180,USA,27.9,7-6(5) 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,69,1003,64,1047
 2021-0096,Tokyo Olympics,Hard,64,A,20210724,270,136440,,,Dominik Koepfer,L,180,GER,27.2,126845,,,Max Purcell,R,185,AUS,23.2,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,57,1153,190,367
-2021-0096,Tokyo Olympics,Hard,64,A,20210724,271,125802,,,Ilya Ivashka,R,193,BLR,27.3,105062,,,Mikhail Kukushkin,R,183,KAZ,33.5,6-7 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,66,1038,123,652
+2021-0096,Tokyo Olympics,Hard,64,A,20210724,271,125802,,,Ilya Ivashka,R,193,BLR,27.3,105062,,,Mikhail Kukushkin,R,183,KAZ,33.5,6-7(4) 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,66,1038,123,652
 2021-0096,Tokyo Olympics,Hard,64,A,20210724,272,200221,16,,Alejandro Davidovich Fokina,R,183,ESP,22.1,105357,,,John Millman,R,183,AUS,32.0,6-4 6-7(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,35,1723,44,1476
 2021-0096,Tokyo Olympics,Hard,64,A,20210724,273,104926,15,,Fabio Fognini,R,178,ITA,34.1,106078,,,Egor Gerasimov,R,196,BLR,28.6,6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,31,1801,79,926
 2021-0096,Tokyo Olympics,Hard,64,A,20210724,274,200005,14,,Ugo Humbert,L,188,FRA,23.0,200175,,,Miomir Kecmanovic,R,183,SRB,21.8,4-6 7-6(5) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,28,2090,50,1309
@@ -50,7 +50,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-0096,Tokyo Olympics,Hard,64,A,20210724,285,105453,,,Kei Nishikori,R,178,JPN,31.5,125802,,,Ilya Ivashka,R,193,BLR,27.3,7-6(7) 6-0,3,R16,,,,,,,,,,,,,,,,,,,,69,1003,66,1038
 2021-0096,Tokyo Olympics,Hard,64,A,20210724,286,104871,,,Jeremy Chardy,R,188,FRA,34.4,106281,,,Liam Broady,L,183,GBR,27.5,7-6(3) 4-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,68,1019,142,538
 2021-0096,Tokyo Olympics,Hard,64,A,20210724,287,111575,12,,Karen Khachanov,R,198,RUS,25.1,106043,8,,Diego Schwartzman,R,170,ARG,28.9,6-1 2-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,25,2235,13,3060
-2021-0096,Tokyo Olympics,Hard,64,A,20210724,288,105807,6,,Pablo Carreno Busta,R,188,ESP,30.0,136440,,,Dominik Koepfer,L,180,GER,27.2,7-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,11,3260,57,1153
+2021-0096,Tokyo Olympics,Hard,64,A,20210724,288,105807,6,,Pablo Carreno Busta,R,188,ESP,30.0,136440,,,Dominik Koepfer,L,180,GER,27.2,7-6(7) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,11,3260,57,1153
 2021-0096,Tokyo Olympics,Hard,64,A,20210724,289,100644,4,,Alexander Zverev,R,198,GER,24.2,105932,,,Nikoloz Basilashvili,R,185,GEO,29.4,6-4 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,5,7340,42,1565
 2021-0096,Tokyo Olympics,Hard,64,A,20210724,290,200005,14,,Ugo Humbert,L,188,FRA,23.0,126774,3,,Stefanos Tsitsipas,R,193,GRE,22.9,2-6 7-6(4) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,28,2090,4,8030
 2021-0096,Tokyo Olympics,Hard,64,A,20210724,291,106421,2,,Daniil Medvedev,R,198,RUS,25.4,104926,15,,Fabio Fognini,R,178,ITA,34.1,6-2 3-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,2,10370,31,1801
@@ -1577,7 +1577,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-540,Wimbledon,Grass,128,G,20210628,123,200624,,,Sebastian Korda,R,196,USA,20.9,200282,15,,Alex De Minaur,R,183,AUS,22.3,6-3 6-4 6-7(5) 7-6(5),5,R128,205,10,4,143,89,68,32,23,7,9,3,7,164,103,68,33,22,15,19,50,1272,15,2690
 2021-540,Wimbledon,Grass,128,G,20210628,124,133430,10,,Denis Shapovalov,L,185,CAN,22.2,104259,,,Philipp Kohlschreiber,R,178,GER,37.7,6-4 4-6 6-3 5-7 6-4,5,R128,215,14,16,164,91,70,37,26,10,13,3,3,147,88,69,29,25,8,12,12,2915,115,697
 2021-540,Wimbledon,Grass,128,G,20210628,125,104665,,,Pablo Andujar,R,180,ESP,35.4,105732,,,Pierre Hugues Herbert,R,188,FRA,30.2,7-6(7) 4-6 7-6(7) 5-7 8-6,5,R128,302,1,8,227,145,89,41,31,10,19,28,26,220,113,90,42,31,11,19,70,1005,101,785
-2021-540,Wimbledon,Grass,128,G,20210628,126,106214,,Q,Oscar Otte,R,196,GER,27.9,126239,,Q,Arthur Rinderknech,R,196,FRA,25.9,4-6 6-3 6-2 6-7(5) 13-12,5,R128,237,24,8,187,125,105,34,30,5,7,27,4,205,139,104,30,30,7,11,151,479,109,734
+2021-540,Wimbledon,Grass,128,G,20210628,126,106214,,Q,Oscar Otte,R,196,GER,27.9,126239,,Q,Arthur Rinderknech,R,196,FRA,25.9,4-6 6-3 6-2 6-7(5) 13-12(2),5,R128,237,24,8,187,125,105,34,30,5,7,27,4,205,139,104,30,30,7,11,151,479,109,734
 2021-540,Wimbledon,Grass,128,G,20210628,127,104918,,WC,Andy Murray,R,190,GBR,34.1,105932,24,,Nikoloz Basilashvili,R,185,GEO,29.3,6-4 6-3 5-7 6-3,5,R128,212,17,0,122,71,51,25,20,5,10,5,5,131,78,51,18,20,6,14,118,685,28,1985
 2021-540,Wimbledon,Grass,128,G,20210628,128,136440,,,Dominik Koepfer,L,180,GER,27.1,124187,27,,Reilly Opelka,R,211,USA,23.8,6-4 7-6(3) 6-2,5,R128,119,7,4,99,59,49,24,16,3,3,19,1,88,55,42,14,15,0,3,62,1108,32,1806
 2021-540,Wimbledon,Grass,128,G,20210628,129,126952,,,Soon Woo Kwon,R,180,KOR,23.5,109054,,Q,Daniel Masur,R,183,GER,26.6,6-7(2) 6-3 6-4 6-4,5,R128,154,14,6,131,84,68,23,21,2,3,10,4,121,80,57,20,21,6,10,71,986,222,316
