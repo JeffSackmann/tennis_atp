@@ -9,7 +9,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 100008,Kurt,Nielsen,R,19301119,DEN,,Q552261
 100009,Istvan,Gulyas,R,19311014,HUN,,Q51066
 100010,Luis,Ayala,R,19320918,CHI,170,Q1275397
-100011,Torben,Ulrich,L,19321004,DEN,180,Q785404
+100011,Torben,Ulrich,L,19281004,DEN,180,Q785404
 100012,Nicola,Pietrangeli,R,19330911,ITA,178,Q709909
 100013,Neale,Fraser,L,19331003,AUS,185,Q715173
 100014,Trevor,Fancutt,R,19340714,RSA,,Q3538577
@@ -102,7 +102,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 100101,Mike,Belkin,R,19450629,CAN,,Q1563966
 100102,Joaquin Loyo,Mayo,R,19450816,MEX,,Q1565143
 100103,Peter,Curtis,R,19450829,GBR,,Q3376525
-100104,D Richard,Russell,R,19450908,JAM,,
+100104,Richard,Russell,R,19450908,JAM,,
 100105,Allan,Stone,R,19451014,AUS,,Q1260060
 100106,Graham,Stilwell,R,19451115,GBR,173,Q5593283
 100107,Robert,Rheinberger,R,19451118,AUS,,
@@ -9844,7 +9844,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 109857,Brian,Cheney,R,,USA,,
 109858,Dick,Johnson,U,,USA,,
 109859,Jimmy,Parker,R,19430306,USA,,
-109860,Ryan,Moore2,U,,USA,,
+109860,Ryan,Moore,U,,USA,,
 109861,P,Gorostiaga,U,,ARG,,
 109862,Alex,Kurucz,R,,GER,,
 109863,U,Timm,R,,USA,,
@@ -12276,7 +12276,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 112290,Neil C,Gibson,U,,AUS,,
 112291,Peter,Mcpherson,U,,AUS,,
 112292,John J,Pearce,U,19230513,AUS,,
-112293,Jimmy L,Moore,U,19380520,AUS,,
+112293,Jimmy,Moore,U,19380520,AUS,,
 112294,Frank,Gorman,U,,AUS,,
 112295,Geoffrey K,Pares,U,,AUS,,
 112296,Alan J,Lane,U,,AUS,,
@@ -12284,7 +12284,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 112298,Gary,Baulch,U,,AUS,,
 112299,John Gavan,Fraser,U,19350801,AUS,,
 112300,Doug,Paterson,U,,AUS,,
-112301,Will G,Coghlan,U,,AUS,,
+112301,Will,Coghlan,U,,AUS,,
 112302,Robert,Pearson,U,,AUS,,
 112303,John F,Obrien,U,19320706,AUS,,
 112304,Rex Noel,Hartwig,U,19290902,AUS,,Q285405
@@ -12351,13 +12351,13 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 112365,Robert,Brien,U,19450000,AUS,,
 112366,Peter,Harris,U,,AUS,,
 112367,Timothy,Clayton,U,,AUS,,
-112368,John A,Cottrill,U,,RSA,,
+112368,John,Cottrill,U,19451118,AUS,,
 112369,Maurice,Guse,U,,AUS,,
 112370,Ellis,Harris,U,,AUS,,
 112371,Peter,Keller,U,19441019,AUS,,Q27922654
 112372,John E,Sharpe,U,19451001,AUS,,
 112373,Jean Claude,Van Der Borght,U,19410310,BEL,,
-112374,Keith E,Wooldridge,U,19431024,GBR,,
+112374,Keith,Wooldridge,U,19431024,GBR,,
 112375,Neville,Hay,U,19430510,AUS,,
 112376,Neville,Zelinski,U,,AUS,,
 112377,Roger,Waugh,U,,AUS,,
@@ -12474,9 +12474,9 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 112488,Ian,Barclay,U,,AUS,,
 112489,Harry S,Matheson,U,19430317,GBR,,
 112490,Masanori,Asai,U,,JPN,,
-112491,Colin E,Zeeman,U,,RSA,,
+112491,Colin,Zeeman,U,,RSA,,
 112492,Terrence,Musgrave,U,,AUS,,
-112493,Geoff N,Pollard,U,,AUS,,
+112493,Geoff,Pollard,U,,AUS,,
 112494,Eugene,Russo,U,19460122,AUS,,
 112495,Maurice,Broom,U,19410702,AUS,,
 112496,Ichizo,Konishi,U,19390315,JPN,,
@@ -12489,9 +12489,9 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 112503,Adrian,Alle,U,19300403,AUS,,
 112504,Daniel,Harms,U,19451031,ARG,,
 112505,Robin,White,U,,AUS,,Q433961
-112506,Ray J,Wilson,U,,AUS,,
+112506,Ray,Wilson,U,,AUS,,
 112507,R,Chopra,U,,AUS,,
-112508,Graham B,Primrose,U,19390222,AUS,,
+112508,Graham,Primrose,U,19390222,AUS,,
 112509,Dennis,Colette,U,19410411,AUS,,
 112510,K,Williams,U,,AUS,,
 112511,Timothy,Phillips,U,,GBR,,
@@ -12966,7 +12966,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 112980,Michio,Fujii,U,19391216,JPN,,Q41200138
 112981,Alberto,Arilla,U,19371224,ESP,,Q2831736
 112982,Bill,Hoogs Iv,U,,USA,,
-112983,Peter D,Van Lingen,U,19430208,RSA,,
+112983,Peter,Van Lingen,R,19430208,RSA,,
 112984,Michel,Bouteleux,U,,FRA,,
 112985,Jean Pierre,Courcol,U,19440318,FRA,,Q3169156
 112986,Ravi,Venkatesan,U,19430531,IND,,
@@ -12978,7 +12978,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 112992,Isao,Kobayashi,U,19411121,JPN,,
 112993,Bronislaw,Lewandowski,R,19470831,POL,,Q87668652
 112994,Bernd,Weinmann,U,,GER,,
-112995,Vyacheslav Vladimirovich,Egorov,U,19380925,URS,,
+112995,Vyacheslav,Egorov,U,19380925,URS,,
 112996,Patrick,Beraud,U,19481214,FRA,,
 112997,Sanford,Webster,U,,USA,,
 112998,Pierre,Pellizza,U,19170710,FRA,,Q3386551
@@ -13205,7 +13205,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 113219,Marc,Lasry,U,,FRA,,
 113220,Georges,Deniau,R,19321225,FRA,,Q3102591
 113221,Richard,Schonborn,U,,TCH,,
-113222,Ray A,Weedon,U,,RSA,,
+113222,Ray,Weedon,U,,RSA,,
 113223,Hernando,Salas,U,,COL,,
 113224,Kamilo,Keretic,U,,YUG,,
 113225,Brian,Woolf,U,19370128,NZL,,Q18423563
@@ -13224,7 +13224,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 113238,Edgar N,Powers,U,,USA,,
 113239,Kurt,Baco,U,,YUG,,
 113240,Arsenio,Motolko,U,,URU,,
-113241,Hugh W,Stewart,U,19280424,USA,,
+113241,Hugh,Stewart,U,19280424,USA,,
 113242,Christoph,Biederlack,U,,GER,,
 113243,Philippe,Deniau,U,,FRA,,
 113244,R Spencer,Brent,U,,USA,,
@@ -14582,7 +14582,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 114596,Wl,Escombe,U,,GBR,,
 114597,Harold,Bacon,U,,GBR,,
 114598,Bill,Bond,U,,USA,,
-114599,Cliff M,Buchholz,U,,USA,,
+114599,Cliff,Buchholz,U,,USA,,
 114600,Larry H,Nagler,U,,USA,,
 114601,Charlie,Applewhaite,U,,GBR,,
 114602,Michael L,Waters,U,,GBR,,
@@ -14592,9 +14592,9 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 114606,Ted,Beards,U,,GBR,,
 114607,Felix,Bautista Jr,U,,THA,,
 114608,Jim R,Parker,U,,USA,,
-114609,Jerry L,Cromwell,U,19440611,USA,,
-114610,John A,Pickens,U,,USA,,
-114611,Barry R,Butcher,U,,RSA,,
+114609,Jerry,Cromwell,U,19440611,USA,,
+114610,John,Pickens,U,,USA,,
+114611,Barry,Butcher,U,,RSA,,
 114612,Chum,Steele Iii,U,19440216,USA,,
 114613,Shyam,Minotra,U,19460917,IND,,
 114614,Alfonso,Ochoa,U,,MEX,,
@@ -14984,7 +14984,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 114998,William J,Scarlett,U,,USA,,
 114999,Forrest,Stewart,U,,USA,,
 115000,John A,Been,U,,USA,,
-115001,Samuel P,Howe Iii,U,,USA,,
+115001,Samuel,Howe Iii,U,,USA,,
 115002,Jim,Farrin,U,,USA,,
 115003,Ed,Atkinson,U,,USA,,
 115004,Alan,Roberts,U,19390420,USA,,
@@ -14995,7 +14995,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 115009,Roger A,Gould,U,,AUS,,
 115010,Ed,Foster,U,,USA,,
 115011,Bobby,Delgado,U,,USA,,
-115012,John F,Mangan,U,19360816,USA,,
+115012,John,Mangan,U,19360816,USA,,
 115013,Jim,Shakespeare,U,,USA,,
 115014,Robert S,Bowditch,U,,USA,,
 115015,Douglass,Corley,U,,USA,,
@@ -15107,7 +15107,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 115121,Henry,Jungle,U,,USA,,
 115122,Richard A,Razzetti,U,,USA,,
 115123,Lawrence B,Sears,U,,USA,,
-115124,Leif C,Beck,U,,USA,,
+115124,Leif,Beck,U,,USA,,
 115125,Robert F,Greene,U,,USA,,
 115126,Donald E,Ralph,U,,USA,,
 115127,James P,Biggs,U,,USA,,
@@ -15122,7 +15122,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 115136,Juan,Notz,U,19391021,VEN,,Q104205348
 115137,Adolfo,Gomez,U,,GUA,,
 115138,Oscar,Perez,U,,USA,,
-115139,Kingman B,Lambert,U,19281029,USA,,
+115139,Kingman,Lambert,U,19281029,USA,,
 115140,Al,Driscole,U,,USA,,
 115141,John,Karabasz,U,,USA,,
 115142,Mike,Crane,U,,USA,,
@@ -16785,7 +16785,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 116799,Frank,Lamothe,U,,USA,,
 116800,Tony,Lieberman,U,,USA,,
 116801,Jack,Jackson,U,,USA,,
-116802,Eugene T,Cantin,U,19441213,USA,,
+116802,Eugene,Cantin,U,19441213,USA,,
 116803,Fred,Berli,U,,SUI,,
 116804,Pedro,Rosello,U,19440405,PUR,,
 116805,John,Mudd,U,,USA,,
@@ -56806,3 +56806,20 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 211772,Tiago,Pires,U,,FRA,,
 211773,Mohamed El Hafedh,Said,U,,MRT,,
 211774,Ryotaro,Taguchi,U,,JPN,,
+211775,Warren,Mcmillan,U,,USA,,
+211776,Martin,Landaluce,R,20060108,ESP,191,
+211777,,Mackenzie,U,,,,
+211778,Hans Jurgen,Luttropp,U,,GDR,,
+211779,Ulrich,Trettin,U,,GDR,,
+211780,,Rybyrczyk,U,,POL,,
+211781,Karol,Safarik,U,19390707,TCH,,
+211782,,Gavirelidis,U,,GRE,,
+211783,Ganda,Widjaja,U,,INA,,
+211784,V,Pinto,U,,POR,,
+211785,Peter,Farhmann,U,,GDR,,
+211786,,Giraud,U,,FRA,,
+211787,Matteo,Lavizzari,U,,SUI,,
+211788,Enrico ,Giacomini,U,,ITA,,
+211789,Rafn,Bonifacius,U,,ISL,,
+211790,Rudy,Quan,U,,USA,,
+211791,William Chase,Thompson,U,,USA,,
