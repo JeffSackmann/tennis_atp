@@ -1,4 +1,128 @@
 tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced,winner_rank,winner_rank_points,loser_rank,loser_rank_points
+2023-M-ITF-ESP-01A-2023,M15 Manacor,Hard,32,15,20230109,101,126533,1,,Alvaro Lopez San Martin,R,,ESP,25.6,210425,,,Svyatoslav Gulin,U,,RUS,20.0,6-4 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,385,120,822,21
+2023-M-ITF-ESP-01A-2023,M15 Manacor,Hard,32,15,20230109,102,209985,,,Amaury Raynel,U,,FRA,20.5,202279,,,Leopold Zima,U,,GER,22.6,4-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,870,17,778,25
+2023-M-ITF-ESP-01A-2023,M15 Manacor,Hard,32,15,20230109,103,210120,,,Gabriel Debru,U,,FRA,17.0,211896,,WC,Matteo Morazzi,U,,ESP,,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,574,54,,
+2023-M-ITF-ESP-01A-2023,M15 Manacor,Hard,32,15,20230109,104,202209,7,,Imanol Lopez Morillo,R,,ESP,23.1,211474,,Q,Pablo Trochu ,U,,FRA,,7-5 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,536,63,1612,2
+2023-M-ITF-ESP-01A-2023,M15 Manacor,Hard,32,15,20230109,105,209406,4,,Abedallah Shelbayh,L,,JOR,19.1,208519,,WC,Xavi Matas Ortega,U,,ESP,20.3,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,473,81,972,12
+2023-M-ITF-ESP-01A-2023,M15 Manacor,Hard,32,15,20230109,106,207732,,,Miguel Damas,U,,ESP,23.0,125806,,Q,Dominik Kellovsky,U,,CZE,26.4,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,649,42,1636,2
+2023-M-ITF-ESP-01A-2023,M15 Manacor,Hard,32,15,20230109,107,211897,,Q,Naoya Honda,U,,JPN,,208835,,WC,Rafael Giotis,U,,GER,22.1,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1335,4
+2023-M-ITF-ESP-01A-2023,M15 Manacor,Hard,32,15,20230109,108,211596,,,Yaroslav Demin,U,,RUS,,200307,8,,Tao Mu,U,,CHN,22.6,6-3 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,568,56
+2023-M-ITF-ESP-01A-2023,M15 Manacor,Hard,32,15,20230109,109,209158,,Q,Nikolay Nedelchev,U,,BUL,19.5,202247,6,,Simon Beaupain,U,,BEL,23.6,6-1 3-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1437,3,518,67
+2023-M-ITF-ESP-01A-2023,M15 Manacor,Hard,32,15,20230109,110,208753,,Q,Imran Sibille,R,,FRA,20.9,209346,,Q,Stijn Pel,R,,NED,,2-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1980,1,1725,1
+2023-M-ITF-ESP-01A-2023,M15 Manacor,Hard,32,15,20230109,111,209409,,,Coleman Wong,R,,HKG,18.5,210431,,WC,Joan Nadal Vives,U,,ESP,18.6,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2023-M-ITF-ESP-01A-2023,M15 Manacor,Hard,32,15,20230109,112,134383,,Q,Jakob Schnaitter,R,,GER,26.8,121264,3,,Oscar Jose Gutierrez,R,,BRA,29.7,6-7(4) 7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1099,8,438,97
+2023-M-ITF-ESP-01A-2023,M15 Manacor,Hard,32,15,20230109,113,118808,,,Daniel Vallejo,R,,MEX,38.6,209943,5,,Ilya Snitari,U,,MDA,20.8,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,484,78
+2023-M-ITF-ESP-01A-2023,M15 Manacor,Hard,32,15,20230109,114,122554,,,David Jorda Sanchis,U,,ESP,28.5,209925,,Q,Thijmen Loof,U,,NED,20.4,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,588,52,,
+2023-M-ITF-ESP-01A-2023,M15 Manacor,Hard,32,15,20230109,115,200270,,,Alex Knaff,R,,LUX,25.1,209147,,,Vilius Gaubas,U,,LTU,18.0,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,612,47,756,27
+2023-M-ITF-ESP-01A-2023,M15 Manacor,Hard,32,15,20230109,116,209405,2,,Daniel Rincon,L,,ESP,20.0,202239,,,Florian Broska,R,,GER,25.0,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,423,106,959,12
+2023-M-ITF-ESP-01A-2023,M15 Manacor,Hard,32,15,20230109,201,126533,1,,Alvaro Lopez San Martin,R,,ESP,25.6,209985,,,Amaury Raynel,U,,FRA,20.5,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,385,120,870,17
+2023-M-ITF-ESP-01A-2023,M15 Manacor,Hard,32,15,20230109,202,202209,7,,Imanol Lopez Morillo,R,,ESP,23.1,210120,,,Gabriel Debru,U,,FRA,17.0,6-1 1-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,536,63,574,54
+2023-M-ITF-ESP-01A-2023,M15 Manacor,Hard,32,15,20230109,203,209406,4,,Abedallah Shelbayh,L,,JOR,19.1,207732,,,Miguel Damas,U,,ESP,23.0,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,473,81,649,42
+2023-M-ITF-ESP-01A-2023,M15 Manacor,Hard,32,15,20230109,204,211897,,Q,Naoya Honda,U,,JPN,,211596,,,Yaroslav Demin,U,,RUS,,6-3 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+2023-M-ITF-ESP-01A-2023,M15 Manacor,Hard,32,15,20230109,205,209158,,Q,Nikolay Nedelchev,U,,BUL,19.5,208753,,Q,Imran Sibille,R,,FRA,20.9,6-3 6-7(3) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1437,3,1980,1
+2023-M-ITF-ESP-01A-2023,M15 Manacor,Hard,32,15,20230109,206,134383,,Q,Jakob Schnaitter,R,,GER,26.8,209409,,,Coleman Wong,R,,HKG,18.5,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1099,8,,
+2023-M-ITF-ESP-01A-2023,M15 Manacor,Hard,32,15,20230109,207,118808,,,Daniel Vallejo,R,,MEX,38.6,122554,,,David Jorda Sanchis,U,,ESP,28.5,7-5 6-7(5) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,588,52
+2023-M-ITF-ESP-01A-2023,M15 Manacor,Hard,32,15,20230109,208,209405,2,,Daniel Rincon,L,,ESP,20.0,200270,,,Alex Knaff,R,,LUX,25.1,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,423,106,612,47
+2023-M-ITF-ESP-01A-2023,M15 Manacor,Hard,32,15,20230109,301,126533,1,,Alvaro Lopez San Martin,R,,ESP,25.6,202209,7,,Imanol Lopez Morillo,R,,ESP,23.1,6-0 6-0,3,QF,,,,,,,,,,,,,,,,,,,,385,120,536,63
+2023-M-ITF-ESP-01A-2023,M15 Manacor,Hard,32,15,20230109,302,209406,4,,Abedallah Shelbayh,L,,JOR,19.1,211897,,Q,Naoya Honda,U,,JPN,,7-5 6-2,3,QF,,,,,,,,,,,,,,,,,,,,473,81,,
+2023-M-ITF-ESP-01A-2023,M15 Manacor,Hard,32,15,20230109,303,209158,,Q,Nikolay Nedelchev,U,,BUL,19.5,134383,,Q,Jakob Schnaitter,R,,GER,26.8,4-6 6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,1437,3,1099,8
+2023-M-ITF-ESP-01A-2023,M15 Manacor,Hard,32,15,20230109,304,209405,2,,Daniel Rincon,L,,ESP,20.0,118808,,,Daniel Vallejo,R,,MEX,38.6,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,423,106,,
+2023-M-ITF-ESP-01A-2023,M15 Manacor,Hard,32,15,20230109,401,126533,1,,Alvaro Lopez San Martin,R,,ESP,25.6,209406,4,,Abedallah Shelbayh,L,,JOR,19.1,6-3 2-0 RET,3,SF,,,,,,,,,,,,,,,,,,,,385,120,473,81
+2023-M-ITF-ESP-01A-2023,M15 Manacor,Hard,32,15,20230109,402,209405,2,,Daniel Rincon,L,,ESP,20.0,209158,,Q,Nikolay Nedelchev,U,,BUL,19.5,6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,423,106,1437,3
+2023-M-ITF-ESP-01A-2023,M15 Manacor,Hard,32,15,20230109,501,126533,1,,Alvaro Lopez San Martin,R,,ESP,25.6,209405,2,,Daniel Rincon,L,,ESP,20.0,6-4 3-6 7-5,3,F,,,,,,,,,,,,,,,,,,,,385,120,423,106
+2023-M-ITF-FRA-03A-2023,M25 Veigy-Foncenex,Carpet,32,25,20230109,101,200188,1,,Matteo Martineau,U,,FRA,23.9,202128,,PR,Louis Dussin,R,,FRA,23.5,6-3 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,417,107,,
+2023-M-ITF-FRA-03A-2023,M25 Veigy-Foncenex,Carpet,32,25,20230109,102,202324,,,Maxence Broville,R,,FRA,23.9,208204,,LL,Francois Musitelli,U,,FRA,24.2,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,968,12,1413,3
+2023-M-ITF-FRA-03A-2023,M25 Veigy-Foncenex,Carpet,32,25,20230109,103,207239,,Q,Nikolay Vylegzhanin,R,,RUS,22.7,209185,,Q,Alessandro Pecci,U,,ITA,21.7,6-3 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,1111,8,1318,4
+2023-M-ITF-FRA-03A-2023,M25 Veigy-Foncenex,Carpet,32,25,20230109,104,106137,7,,Tristan Lamasine,R,183,FRA,29.8,200276,,,Niklas Schell,R,,GER,24.0,7-5 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,554,58,767,26
+2023-M-ITF-FRA-03A-2023,M25 Veigy-Foncenex,Carpet,32,25,20230109,105,200070,,,Kirill Kivattsev,U,,RUS,25.2,209355,4,,Timo Legout,R,,FRA,20.8,7-6(3) 6-7(9) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,691,35,505,70
+2023-M-ITF-FRA-03A-2023,M25 Veigy-Foncenex,Carpet,32,25,20230109,106,209247,,,Axel Garcian,U,,FRA,20.5,211898,,WC,Mae Malige,U,,FRA,,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,895,15,,
+2023-M-ITF-FRA-03A-2023,M25 Veigy-Foncenex,Carpet,32,25,20230109,107,207484,,,Neil Oberleitner,R,,AUT,23.4,211577,,WC,Antoine Ghibaudo,U,,FRA,,6-3 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,949,13,1091,8
+2023-M-ITF-FRA-03A-2023,M25 Veigy-Foncenex,Carpet,32,25,20230109,108,210124,,Q,Mehdi Sadaoui ,U,,FRA,19.8,209997,5,,Marcello Serafini,R,,ITA,20.3,6-2 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,1079,9,519,67
+2023-M-ITF-FRA-03A-2023,M25 Veigy-Foncenex,Carpet,32,25,20230109,109,208144,6,,Giles Hussey,U,,GBR,25.6,207676,,Q,Adan Freire Da Silva,U,,FRA,23.6,7-6(2) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,537,63,1572,2
+2023-M-ITF-FRA-03A-2023,M25 Veigy-Foncenex,Carpet,32,25,20230109,110,200263,,,Vlad Andrei Dancu,U,,ROU,23.8,211899,,WC,Evann Dupuy,U,,FRA,,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,765,26,,
+2023-M-ITF-FRA-03A-2023,M25 Veigy-Foncenex,Carpet,32,25,20230109,111,133857,,,Maxime Mora,U,,FRA,25.7,211900,,WC,Ylann Dupuy,U,,FRA,,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,735,29,,
+2023-M-ITF-FRA-03A-2023,M25 Veigy-Foncenex,Carpet,32,25,20230109,112,207669,3,,Robert Strombachs,U,191,GER,23.3,210254,,Q,Adrien Gobat,U,,FRA,21.5,4-6 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,486,76,1184,6
+2023-M-ITF-FRA-03A-2023,M25 Veigy-Foncenex,Carpet,32,25,20230109,113,207606,,Q,Yannik Steinegger,R,,SUI,22.3,208104,8,,Andrea Picchione,U,,ITA,24.5,6-3 6-7(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1971,1,684,36
+2023-M-ITF-FRA-03A-2023,M25 Veigy-Foncenex,Carpet,32,25,20230109,114,104897,,,Matthias Bachinger,R,188,GER,35.7,200457,,,Jannik Opitz,U,,GER,24.7,7-6(6) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,908,14,1046,9
+2023-M-ITF-FRA-03A-2023,M25 Veigy-Foncenex,Carpet,32,25,20230109,115,144915,,,Mikalai Haliak,R,,BLR,24.4,202349,,Q,Kai Lemstra,U,,GER,23.5,6-2 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,835,20,1061,9
+2023-M-ITF-FRA-03A-2023,M25 Veigy-Foncenex,Carpet,32,25,20230109,116,207491,2,,Sandro Kopp,U,,AUT,22.6,211901,,Q,Yanis Ghazouani Durand,U,,FRA,,2-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,456,88,,
+2023-M-ITF-FRA-03A-2023,M25 Veigy-Foncenex,Carpet,32,25,20230109,201,200188,1,,Matteo Martineau,U,,FRA,23.9,202324,,,Maxence Broville,R,,FRA,23.9,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,417,107,968,12
+2023-M-ITF-FRA-03A-2023,M25 Veigy-Foncenex,Carpet,32,25,20230109,202,207239,,Q,Nikolay Vylegzhanin,R,,RUS,22.7,106137,7,,Tristan Lamasine,R,183,FRA,29.8,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,1111,8,554,58
+2023-M-ITF-FRA-03A-2023,M25 Veigy-Foncenex,Carpet,32,25,20230109,203,200070,,,Kirill Kivattsev,U,,RUS,25.2,209247,,,Axel Garcian,U,,FRA,20.5,6-7(6) 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,691,35,895,15
+2023-M-ITF-FRA-03A-2023,M25 Veigy-Foncenex,Carpet,32,25,20230109,204,207484,,,Neil Oberleitner,R,,AUT,23.4,210124,,Q,Mehdi Sadaoui ,U,,FRA,19.8,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,949,13,1079,9
+2023-M-ITF-FRA-03A-2023,M25 Veigy-Foncenex,Carpet,32,25,20230109,205,208144,6,,Giles Hussey,U,,GBR,25.6,200263,,,Vlad Andrei Dancu,U,,ROU,23.8,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,537,63,765,26
+2023-M-ITF-FRA-03A-2023,M25 Veigy-Foncenex,Carpet,32,25,20230109,206,207669,3,,Robert Strombachs,U,191,GER,23.3,133857,,,Maxime Mora,U,,FRA,25.7,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,486,76,735,29
+2023-M-ITF-FRA-03A-2023,M25 Veigy-Foncenex,Carpet,32,25,20230109,207,104897,,,Matthias Bachinger,R,188,GER,35.7,207606,,Q,Yannik Steinegger,R,,SUI,22.3,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,908,14,1971,1
+2023-M-ITF-FRA-03A-2023,M25 Veigy-Foncenex,Carpet,32,25,20230109,208,144915,,,Mikalai Haliak,R,,BLR,24.4,207491,2,,Sandro Kopp,U,,AUT,22.6,6-7(5) 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,835,20,456,88
+2023-M-ITF-FRA-03A-2023,M25 Veigy-Foncenex,Carpet,32,25,20230109,301,200188,1,,Matteo Martineau,U,,FRA,23.9,207239,,Q,Nikolay Vylegzhanin,R,,RUS,22.7,6-4 7-6(3),3,QF,,,,,,,,,,,,,,,,,,,,417,107,1111,8
+2023-M-ITF-FRA-03A-2023,M25 Veigy-Foncenex,Carpet,32,25,20230109,302,207484,,,Neil Oberleitner,R,,AUT,23.4,200070,,,Kirill Kivattsev,U,,RUS,25.2,6-4 3-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,949,13,691,35
+2023-M-ITF-FRA-03A-2023,M25 Veigy-Foncenex,Carpet,32,25,20230109,303,208144,6,,Giles Hussey,U,,GBR,25.6,207669,3,,Robert Strombachs,U,191,GER,23.3,7-6(6) 7-5,3,QF,,,,,,,,,,,,,,,,,,,,537,63,486,76
+2023-M-ITF-FRA-03A-2023,M25 Veigy-Foncenex,Carpet,32,25,20230109,304,104897,,,Matthias Bachinger,R,188,GER,35.7,144915,,,Mikalai Haliak,R,,BLR,24.4,3-6 6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,908,14,835,20
+2023-M-ITF-FRA-03A-2023,M25 Veigy-Foncenex,Carpet,32,25,20230109,401,207484,,,Neil Oberleitner,R,,AUT,23.4,200188,1,,Matteo Martineau,U,,FRA,23.9,6-7(10) 6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,949,13,417,107
+2023-M-ITF-FRA-03A-2023,M25 Veigy-Foncenex,Carpet,32,25,20230109,402,104897,,,Matthias Bachinger,R,188,GER,35.7,208144,6,,Giles Hussey,U,,GBR,25.6,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,908,14,537,63
+2023-M-ITF-FRA-03A-2023,M25 Veigy-Foncenex,Carpet,32,25,20230109,501,207484,,,Neil Oberleitner,R,,AUT,23.4,104897,,,Matthias Bachinger,R,188,GER,35.7,6-4 6-2,3,F,,,,,,,,,,,,,,,,,,,,949,13,908,14
+2023-M-ITF-GBR-03A-2023,M25 Loughborough,Hard,32,25,20230109,101,210389,,,Toby Samuel,U,,GBR,20.3,126156,1,,Antoine Hoang,R,183,FRA,27.1,2-6 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,539,62,358,131
+2023-M-ITF-GBR-03A-2023,M25 Loughborough,Hard,32,25,20230109,102,207784,,,Harry Wendelken,U,,GBR,21.0,202346,,WC,Ben Jones,R,,GBR,24.6,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,535,63,1007,11
+2023-M-ITF-GBR-03A-2023,M25 Loughborough,Hard,32,25,20230109,103,211902,,WC,Henry Searle,U,,GBR,,211642,,Q,Damian Rodriguez,U,,GBR,,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2023-M-ITF-GBR-03A-2023,M25 Loughborough,Hard,32,25,20230109,104,211394,,Q,Patrick Brady,U,,GBR,,105638,6,,Daniel Cox,R,170,GBR,32.2,7-6(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1051,9,390,115
+2023-M-ITF-GBR-03A-2023,M25 Loughborough,Hard,32,25,20230109,105,202420,3,,Aidan Mchugh,U,,GBR,22.5,144656,,,Corentin Denolly,L,,FRA,25.5,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,381,123,469,83
+2023-M-ITF-GBR-03A-2023,M25 Loughborough,Hard,32,25,20230109,106,207171,,WC,Hamish Stewart,R,,GBR,23.4,126193,,,Mark Whitehouse,U,,GBR,29.6,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1428,3,524,65
+2023-M-ITF-GBR-03A-2023,M25 Loughborough,Hard,32,25,20230109,107,210448,,WC,Phoenix Weir,U,,GBR,17.1,211333,,Q,Vito Tonejc,U,,CRO,,6-3 6-7(7) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1725,1,931,13
+2023-M-ITF-GBR-03A-2023,M25 Loughborough,Hard,32,25,20230109,108,207785,,Q,George Loffhagen,R,,GBR,21.7,209849,7,,Sascha Gueymard Wayenburg,R,,FRA,19.4,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,984,11,424,105
+2023-M-ITF-GBR-03A-2023,M25 Loughborough,Hard,32,25,20230109,109,105806,5,,Mirza Basic,R,188,BIH,31.4,210126,,,Tristan Mccormick,U,,USA,23.7,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,397,114,,
+2023-M-ITF-GBR-03A-2023,M25 Loughborough,Hard,32,25,20230109,110,105514,,,Jeremy Jahn,R,180,GER,32.7,208269,,,Felix Gill,U,,GBR,20.6,7-6(3) 4-6 7-6(9),3,R32,,,,,,,,,,,,,,,,,,,,650,42,476,81
+2023-M-ITF-GBR-03A-2023,M25 Loughborough,Hard,32,25,20230109,111,206889,,,Clement Chidekh,U,,FRA,21.5,207178,,Q,Joe Tyler,U,,GBR,24.1,7-6(6) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,640,43,1413,3
+2023-M-ITF-GBR-03A-2023,M25 Loughborough,Hard,32,25,20230109,112,200277,4,,Charles Broom,U,,GBR,24.7,132209,,Q,Daniel Little,U,,GBR,25.6,6-4 5-7 6-1,3,R32,,,,,,,,,,,,,,,,,,,,378,125,825,21
+2023-M-ITF-GBR-03A-2023,M25 Loughborough,Hard,32,25,20230109,113,105836,,,Jules Marie,R,,FRA,31.3,102093,8,,Martin Damm,L,,USA,19.2,6-2 1-6 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,487,75,458,87
+2023-M-ITF-GBR-03A-2023,M25 Loughborough,Hard,32,25,20230109,114,106132,,LL,Toby Martin,R,,GBR,29.8,210525,,Q,Louis Bowden,U,,GBR,18.2,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1466,3,,
+2023-M-ITF-GBR-03A-2023,M25 Loughborough,Hard,32,25,20230109,115,207760,,,Anton Matusevich,U,,GBR,21.6,207756,,Q,Adam Jones,U,,GBR,24.6,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,706,33,1348,4
+2023-M-ITF-GBR-03A-2023,M25 Loughborough,Hard,32,25,20230109,116,106290,2,,Filip Peliwo,R,180,CAN,28.9,105060,,,Aldin Setkic,R,193,BIH,35.0,1-6 7-6(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,361,130,502,71
+2023-M-ITF-GBR-03A-2023,M25 Loughborough,Hard,32,25,20230109,201,207784,,,Harry Wendelken,U,,GBR,21.0,210389,,,Toby Samuel,U,,GBR,20.3,6-7(1) 6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,535,63,539,62
+2023-M-ITF-GBR-03A-2023,M25 Loughborough,Hard,32,25,20230109,202,211394,,Q,Patrick Brady,U,,GBR,,211902,,WC,Henry Searle,U,,GBR,,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1051,9,,
+2023-M-ITF-GBR-03A-2023,M25 Loughborough,Hard,32,25,20230109,203,202420,3,,Aidan Mchugh,U,,GBR,22.5,207171,,WC,Hamish Stewart,R,,GBR,23.4,3-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,381,123,1428,3
+2023-M-ITF-GBR-03A-2023,M25 Loughborough,Hard,32,25,20230109,204,207785,,Q,George Loffhagen,R,,GBR,21.7,210448,,WC,Phoenix Weir,U,,GBR,17.1,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,984,11,1725,1
+2023-M-ITF-GBR-03A-2023,M25 Loughborough,Hard,32,25,20230109,205,105806,5,,Mirza Basic,R,188,BIH,31.4,105514,,,Jeremy Jahn,R,180,GER,32.7,4-6 6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,397,114,650,42
+2023-M-ITF-GBR-03A-2023,M25 Loughborough,Hard,32,25,20230109,206,206889,,,Clement Chidekh,U,,FRA,21.5,200277,4,,Charles Broom,U,,GBR,24.7,1-6 6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,640,43,378,125
+2023-M-ITF-GBR-03A-2023,M25 Loughborough,Hard,32,25,20230109,207,105836,,,Jules Marie,R,,FRA,31.3,106132,,LL,Toby Martin,R,,GBR,29.8,7-5 7-5,3,R16,,,,,,,,,,,,,,,,,,,,487,75,1466,3
+2023-M-ITF-GBR-03A-2023,M25 Loughborough,Hard,32,25,20230109,208,207760,,,Anton Matusevich,U,,GBR,21.6,106290,2,,Filip Peliwo,R,180,CAN,28.9,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,706,33,361,130
+2023-M-ITF-GBR-03A-2023,M25 Loughborough,Hard,32,25,20230109,301,207784,,,Harry Wendelken,U,,GBR,21.0,211394,,Q,Patrick Brady,U,,GBR,,7-6(2) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,535,63,1051,9
+2023-M-ITF-GBR-03A-2023,M25 Loughborough,Hard,32,25,20230109,302,207785,,Q,George Loffhagen,R,,GBR,21.7,202420,3,,Aidan Mchugh,U,,GBR,22.5,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,984,11,381,123
+2023-M-ITF-GBR-03A-2023,M25 Loughborough,Hard,32,25,20230109,303,206889,,,Clement Chidekh,U,,FRA,21.5,105806,5,,Mirza Basic,R,188,BIH,31.4,7-6(8) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,640,43,397,114
+2023-M-ITF-GBR-03A-2023,M25 Loughborough,Hard,32,25,20230109,304,105836,,,Jules Marie,R,,FRA,31.3,207760,,,Anton Matusevich,U,,GBR,21.6,6-4 6-7(5) 7-6(3),3,QF,,,,,,,,,,,,,,,,,,,,487,75,706,33
+2023-M-ITF-GBR-03A-2023,M25 Loughborough,Hard,32,25,20230109,401,207785,,Q,George Loffhagen,R,,GBR,21.7,207784,,,Harry Wendelken,U,,GBR,21.0,6-2 1-6 6-1,3,SF,,,,,,,,,,,,,,,,,,,,984,11,535,63
+2023-M-ITF-GBR-03A-2023,M25 Loughborough,Hard,32,25,20230109,402,206889,,,Clement Chidekh,U,,FRA,21.5,105836,,,Jules Marie,R,,FRA,31.3,6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,640,43,487,75
+2023-M-ITF-GBR-03A-2023,M25 Loughborough,Hard,32,25,20230109,501,206889,,,Clement Chidekh,U,,FRA,21.5,207785,,Q,George Loffhagen,R,,GBR,21.7,6-4 6-2,3,F,,,,,,,,,,,,,,,,,,,,640,43,984,11
+2023-M-ITF-QAT-01A-2023,M15 Doha,Hard,32,15,20230109,101,105657,1,,Marius Copil,R,193,ROU,32.2,126762,,,Aleksandre Bakshi,L,,GEO,25.4,6-3 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,377,125,775,25
+2023-M-ITF-QAT-01A-2023,M15 Doha,Hard,32,15,20230109,102,126723,,,Denys Klok,U,,UKR,24.6,210594,,Q,Ivan Kremenchutskyi ,U,,UKR,18.7,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,803,23,,
+2023-M-ITF-QAT-01A-2023,M15 Doha,Hard,32,15,20230109,103,133844,,Q,Guy Den Heijer,U,,NED,25.7,209360,,Q,Samir Hamza Reguig,U,,ALG,20.9,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1572,2,1156,7
+2023-M-ITF-QAT-01A-2023,M15 Doha,Hard,32,15,20230109,104,144932,,,Kristjan Tamm,U,185,EST,24.5,202126,6,,Jaimee Floyd Angele,U,,FRA,22.7,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,780,25,564,56
+2023-M-ITF-QAT-01A-2023,M15 Doha,Hard,32,15,20230109,105,126939,3,,Khumoun Sultanov,R,180,UZB,24.2,211903,,LL,Vivek Kolluru,U,,IND,,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,490,73,,
+2023-M-ITF-QAT-01A-2023,M15 Doha,Hard,32,15,20230109,106,208253,,Q,Niels Visker,U,,NED,21.2,207412,,,Sidane Pontjodikromo,U,,NED,22.2,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1725,1,747,28
+2023-M-ITF-QAT-01A-2023,M15 Doha,Hard,32,15,20230109,107,129911,,,Marat Sharipov,U,,KAZ,35.7,210072,,Q,Artem Podorozhnyi,U,,UKR,19.1,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,786,24,1811,1
+2023-M-ITF-QAT-01A-2023,M15 Doha,Hard,32,15,20230109,108,210005,,,Kilian Feldbausch,U,,SUI,17.3,106223,8,,Aleksandre Metreveli,R,183,GEO,29.4,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,938,13,608,48
+2023-M-ITF-QAT-01A-2023,M15 Doha,Hard,32,15,20230109,109,208334,,,Deney Wassermann,R,,NED,21.7,210009,,LL,Arslanbek Aitkulov,U,,KAZ,18.8,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,774,25,,
+2023-M-ITF-QAT-01A-2023,M15 Doha,Hard,32,15,20230109,110,210592,,Q,Igor Dudun,U,,UKR,24.0,207188,,LL,Parikshit Somani,R,,IND,23.1,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1811,1,,
+2023-M-ITF-QAT-01A-2023,M15 Doha,Hard,32,15,20230109,111,211363,,Q,Piotr Kusiewicz,U,,POL,,210426,,WC,Mashari Nawaf,U,,QAT,15.4,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1811,1,,
+2023-M-ITF-QAT-01A-2023,M15 Doha,Hard,32,15,20230109,112,207129,4,,Yanki Erel,L,,TUR,22.2,211653,,Q,Anmar Faleh Alhogbani,U,,KSA,,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,496,72,,
+2023-M-ITF-QAT-01A-2023,M15 Doha,Hard,32,15,20230109,113,123847,5,,Bogdan Bobrov,U,,RUS,25.3,210163,,,Elgin Khoeblal,U,,NED,21.2,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,467,84,1184,6
+2023-M-ITF-QAT-01A-2023,M15 Doha,Hard,32,15,20230109,114,209518,,,Tibo Colson,U,,BEL,22.4,202235,,PR,Jacopo Berrettini,U,,ITA,24.1,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,670,38,892,15
+2023-M-ITF-QAT-01A-2023,M15 Doha,Hard,32,15,20230109,115,207439,,,Dax Donders,U,,NED,22.4,105633,,,Mohamed Safwat,R,183,EGY,32.3,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1034,10,669,38
+2023-M-ITF-QAT-01A-2023,M15 Doha,Hard,32,15,20230109,116,106071,2,,Bernard Tomic,R,193,AUS,30.2,209327,,WC,Rashed Nawaf,R,,QAT,17.6,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,464,84,,
+2023-M-ITF-QAT-01A-2023,M15 Doha,Hard,32,15,20230109,201,105657,1,,Marius Copil,R,193,ROU,32.2,126723,,,Denys Klok,U,,UKR,24.6,6-4 1-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,377,125,803,23
+2023-M-ITF-QAT-01A-2023,M15 Doha,Hard,32,15,20230109,202,144932,,,Kristjan Tamm,U,185,EST,24.5,133844,,Q,Guy Den Heijer,U,,NED,25.7,6-4 7-6(0),3,R16,,,,,,,,,,,,,,,,,,,,780,25,1572,2
+2023-M-ITF-QAT-01A-2023,M15 Doha,Hard,32,15,20230109,203,126939,3,,Khumoun Sultanov,R,180,UZB,24.2,208253,,Q,Niels Visker,U,,NED,21.2,2-6 6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,490,73,1725,1
+2023-M-ITF-QAT-01A-2023,M15 Doha,Hard,32,15,20230109,204,129911,,,Marat Sharipov,U,,KAZ,35.7,210005,,,Kilian Feldbausch,U,,SUI,17.3,6-3 1-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,786,24,938,13
+2023-M-ITF-QAT-01A-2023,M15 Doha,Hard,32,15,20230109,205,208334,,,Deney Wassermann,R,,NED,21.7,210592,,Q,Igor Dudun,U,,UKR,24.0,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,774,25,1811,1
+2023-M-ITF-QAT-01A-2023,M15 Doha,Hard,32,15,20230109,206,207129,4,,Yanki Erel,L,,TUR,22.2,211363,,Q,Piotr Kusiewicz,U,,POL,,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,496,72,1811,1
+2023-M-ITF-QAT-01A-2023,M15 Doha,Hard,32,15,20230109,207,209518,,,Tibo Colson,U,,BEL,22.4,123847,5,,Bogdan Bobrov,U,,RUS,25.3,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,670,38,467,84
+2023-M-ITF-QAT-01A-2023,M15 Doha,Hard,32,15,20230109,208,106071,2,,Bernard Tomic,R,193,AUS,30.2,207439,,,Dax Donders,U,,NED,22.4,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,464,84,1034,10
+2023-M-ITF-QAT-01A-2023,M15 Doha,Hard,32,15,20230109,301,144932,,,Kristjan Tamm,U,185,EST,24.5,105657,1,,Marius Copil,R,193,ROU,32.2,7-6(4) 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,780,25,377,125
+2023-M-ITF-QAT-01A-2023,M15 Doha,Hard,32,15,20230109,302,126939,3,,Khumoun Sultanov,R,180,UZB,24.2,129911,,,Marat Sharipov,U,,KAZ,35.7,5-7 7-5 6-0,3,QF,,,,,,,,,,,,,,,,,,,,490,73,786,24
+2023-M-ITF-QAT-01A-2023,M15 Doha,Hard,32,15,20230109,303,207129,4,,Yanki Erel,L,,TUR,22.2,208334,,,Deney Wassermann,R,,NED,21.7,6-3 3-6 6-0,3,QF,,,,,,,,,,,,,,,,,,,,496,72,774,25
+2023-M-ITF-QAT-01A-2023,M15 Doha,Hard,32,15,20230109,304,106071,2,,Bernard Tomic,R,193,AUS,30.2,209518,,,Tibo Colson,U,,BEL,22.4,6-3 3-6 7-6(2),3,QF,,,,,,,,,,,,,,,,,,,,464,84,670,38
+2023-M-ITF-QAT-01A-2023,M15 Doha,Hard,32,15,20230109,401,144932,,,Kristjan Tamm,U,185,EST,24.5,126939,3,,Khumoun Sultanov,R,180,UZB,24.2,7-6(2) 6-4,3,SF,,,,,,,,,,,,,,,,,,,,780,25,490,73
+2023-M-ITF-QAT-01A-2023,M15 Doha,Hard,32,15,20230109,402,106071,2,,Bernard Tomic,R,193,AUS,30.2,207129,4,,Yanki Erel,L,,TUR,22.2,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,464,84,496,72
+2023-M-ITF-QAT-01A-2023,M15 Doha,Hard,32,15,20230109,501,144932,,,Kristjan Tamm,U,185,EST,24.5,106071,2,,Bernard Tomic,R,193,AUS,30.2,6-4 7-6(5),3,F,,,,,,,,,,,,,,,,,,,,780,25,464,84
 2023-M-ITF-TUN-01A-2023,M15 Monastir,Hard,32,15,20230102,101,209850,1,,Robin Bertrand,U,,FRA,19.8,210553,,,Jacob Bradshaw,U,,AUS,20.1,6-3 1-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,449,92,1038,10
 2023-M-ITF-TUN-01A-2023,M15 Monastir,Hard,32,15,20230102,102,209318,,,Petr Nesterov,R,,BUL,19.8,208015,,,Tom Evans,U,,AUS,21.7,7-5 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,820,21,1114,8
 2023-M-ITF-TUN-01A-2023,M15 Monastir,Hard,32,15,20230102,103,106322,,PR,David Perez Sanz,U,,ESP,28.6,208147,,,Alexandre Aubriot,R,,FRA,23.5,7-6(5) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1131,7,848,18
@@ -30,6 +154,67 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-M-ITF-TUN-01A-2023,M15 Monastir,Hard,32,15,20230102,401,209911,8,,Guy Den Ouden,U,,NED,20.7,209318,,,Petr Nesterov,R,,BUL,19.8,7-5 6-1,3,SF,,,,,,,,,,,,,,,,,,,,759,26,820,21
 2023-M-ITF-TUN-01A-2023,M15 Monastir,Hard,32,15,20230102,402,123847,3,,Bogdan Bobrov,U,,RUS,25.2,210005,,,Kilian Feldbausch,U,,SUI,17.3,6-3 7-6(1),3,SF,,,,,,,,,,,,,,,,,,,,501,71,938,13
 2023-M-ITF-TUN-01A-2023,M15 Monastir,Hard,32,15,20230102,501,209911,8,,Guy Den Ouden,U,,NED,20.7,123847,3,,Bogdan Bobrov,U,,RUS,25.2,7-5 6-2,3,F,,,,,,,,,,,,,,,,,,,,759,26,501,71
+2023-M-ITF-TUN-02A-2023,M15 Monastir,Hard,32,15,20230109,101,209142,1,,Sebastian Gima,L,,ROU,20.6,207708,,,Dusan Obradovic,U,,SRB,21.7,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,499,72,867,17
+2023-M-ITF-TUN-02A-2023,M15 Monastir,Hard,32,15,20230109,102,208852,,,Stefanos Sakellaridis,U,,GRE,18.3,210309,,WC,Pablo Carretero,U,,ESP,21.5,4-6 6-3 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,647,43,1440,3
+2023-M-ITF-TUN-02A-2023,M15 Monastir,Hard,32,15,20230109,103,202150,,,Dan Alexandru Tomescu,U,,ROU,23.7,208147,,,Alexandre Aubriot,R,,FRA,23.5,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,836,20,847,18
+2023-M-ITF-TUN-02A-2023,M15 Monastir,Hard,32,15,20230109,104,200713,7,,Federico Iannaccone,U,,ITA,23.7,207980,,WC,Alexey Dubinin,R,,RUS,24.0,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,660,41,1924,1
+2023-M-ITF-TUN-02A-2023,M15 Monastir,Hard,32,15,20230109,105,132837,,Q,Luca Giacomini,U,,ITA,25.2,209302,4,,Peter Fajta,R,,HUN,20.6,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,934,13,621,46
+2023-M-ITF-TUN-02A-2023,M15 Monastir,Hard,32,15,20230109,106,208421,,,Lilian Marmousez,U,,FRA,21.0,200207,,,Simon Anthony Ivanov,U,,BUL,22.5,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,851,18,698,34
+2023-M-ITF-TUN-02A-2023,M15 Monastir,Hard,32,15,20230109,107,200445,,,Maxence Beauge,U,,FRA,22.5,211581,,,Leanid Boika,U,,USA,,6-3 5-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,732,30,1290,4
+2023-M-ITF-TUN-02A-2023,M15 Monastir,Hard,32,15,20230109,108,208015,,Q,Tom Evans,U,,AUS,21.7,210065,6,,Bekhan Atlangeriev,U,,RUS,21.8,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1116,8,,
+2023-M-ITF-TUN-02A-2023,M15 Monastir,Hard,32,15,20230109,109,106322,,PR,David Perez Sanz,U,,ESP,28.6,210098,8,,Victor Lilov,R,,USA,18.9,6-7(6) 7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1132,7,690,35
+2023-M-ITF-TUN-02A-2023,M15 Monastir,Hard,32,15,20230109,110,210553,,Q,Jacob Bradshaw,U,,AUS,20.2,209118,,Q,Niklas Waldner,U,,AUT,,7-6(1) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1039,10,1428,3
+2023-M-ITF-TUN-02A-2023,M15 Monastir,Hard,32,15,20230109,111,207796,,,Vladislav Ivanov,U,,RUS,23.5,207987,,,Ryuki Matsuda,U,,JPN,23.0,2-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,900,15,710,32
+2023-M-ITF-TUN-02A-2023,M15 Monastir,Hard,32,15,20230109,112,200031,3,,Lucas Catarina,R,185,MON,26.3,211789,,WC,Rafn Bonifacius,U,,ISL,,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,548,60,,
+2023-M-ITF-TUN-02A-2023,M15 Monastir,Hard,32,15,20230109,113,144745,,Q,Shohei Chikami,R,,JPN,24.2,132999,5,,Kai Wehnelt,R,,GER,27.1,3-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1307,4,624,46
+2023-M-ITF-TUN-02A-2023,M15 Monastir,Hard,32,15,20230109,114,200291,,Q,Andrea Bolla,U,,ITA,24.1,209966,,WC,Mohamed Amin Oueslati ,U,,TUN,18.5,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2023-M-ITF-TUN-02A-2023,M15 Monastir,Hard,32,15,20230109,115,209318,,Q,Petr Nesterov,R,,BUL,19.8,209988,,Q,Ivan Sodan ,U,,CRO,18.5,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,820,21,,
+2023-M-ITF-TUN-02A-2023,M15 Monastir,Hard,32,15,20230109,116,209890,2,,Mili Poljicak,U,,CRO,18.4,206448,,,Daniel Rodrigues,R,,POR,22.9,6-1 4-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,511,68,724,30
+2023-M-ITF-TUN-02A-2023,M15 Monastir,Hard,32,15,20230109,201,209142,1,,Sebastian Gima,L,,ROU,20.6,208852,,,Stefanos Sakellaridis,U,,GRE,18.3,0-6 7-5 7-6(9),3,R16,,,,,,,,,,,,,,,,,,,,499,72,647,43
+2023-M-ITF-TUN-02A-2023,M15 Monastir,Hard,32,15,20230109,202,200713,7,,Federico Iannaccone,U,,ITA,23.7,202150,,,Dan Alexandru Tomescu,U,,ROU,23.7,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,660,41,836,20
+2023-M-ITF-TUN-02A-2023,M15 Monastir,Hard,32,15,20230109,203,208421,,,Lilian Marmousez,U,,FRA,21.0,132837,,Q,Luca Giacomini,U,,ITA,25.2,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,851,18,934,13
+2023-M-ITF-TUN-02A-2023,M15 Monastir,Hard,32,15,20230109,204,208015,,Q,Tom Evans,U,,AUS,21.7,200445,,,Maxence Beauge,U,,FRA,22.5,6-3 0-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1116,8,732,30
+2023-M-ITF-TUN-02A-2023,M15 Monastir,Hard,32,15,20230109,205,106322,,PR,David Perez Sanz,U,,ESP,28.6,210553,,Q,Jacob Bradshaw,U,,AUS,20.2,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1132,7,1039,10
+2023-M-ITF-TUN-02A-2023,M15 Monastir,Hard,32,15,20230109,206,200031,3,,Lucas Catarina,R,185,MON,26.3,207796,,,Vladislav Ivanov,U,,RUS,23.5,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,548,60,900,15
+2023-M-ITF-TUN-02A-2023,M15 Monastir,Hard,32,15,20230109,207,144745,,Q,Shohei Chikami,R,,JPN,24.2,200291,,Q,Andrea Bolla,U,,ITA,24.1,3-6 6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1307,4,,
+2023-M-ITF-TUN-02A-2023,M15 Monastir,Hard,32,15,20230109,208,209890,2,,Mili Poljicak,U,,CRO,18.4,209318,,Q,Petr Nesterov,R,,BUL,19.8,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,511,68,820,21
+2023-M-ITF-TUN-02A-2023,M15 Monastir,Hard,32,15,20230109,301,200713,7,,Federico Iannaccone,U,,ITA,23.7,209142,1,,Sebastian Gima,L,,ROU,20.6,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,660,41,499,72
+2023-M-ITF-TUN-02A-2023,M15 Monastir,Hard,32,15,20230109,302,208421,,,Lilian Marmousez,U,,FRA,21.0,208015,,Q,Tom Evans,U,,AUS,21.7,6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,851,18,1116,8
+2023-M-ITF-TUN-02A-2023,M15 Monastir,Hard,32,15,20230109,303,106322,,PR,David Perez Sanz,U,,ESP,28.6,200031,3,,Lucas Catarina,R,185,MON,26.3,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,1132,7,548,60
+2023-M-ITF-TUN-02A-2023,M15 Monastir,Hard,32,15,20230109,304,209890,2,,Mili Poljicak,U,,CRO,18.4,144745,,Q,Shohei Chikami,R,,JPN,24.2,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,511,68,1307,4
+2023-M-ITF-TUN-02A-2023,M15 Monastir,Hard,32,15,20230109,401,208421,,,Lilian Marmousez,U,,FRA,21.0,200713,7,,Federico Iannaccone,U,,ITA,23.7,4-6 6-1 6-1,3,SF,,,,,,,,,,,,,,,,,,,,851,18,660,41
+2023-M-ITF-TUN-02A-2023,M15 Monastir,Hard,32,15,20230109,402,106322,,PR,David Perez Sanz,U,,ESP,28.6,209890,2,,Mili Poljicak,U,,CRO,18.4,7-5 7-6(5),3,SF,,,,,,,,,,,,,,,,,,,,1132,7,511,68
+2023-M-ITF-TUN-02A-2023,M15 Monastir,Hard,32,15,20230109,501,208421,,,Lilian Marmousez,U,,FRA,21.0,106322,,PR,David Perez Sanz,U,,ESP,28.6,4-6 6-1 6-0,3,F,,,,,,,,,,,,,,,,,,,,851,18,1132,7
+2023-M-ITF-TUR-01A-2023,M15 Antalya,Clay,32,15,20230109,101,200096,1,,Dragos Nicolae Madaras,L,,ROU,25.3,133945,,,Calin Manda,U,,ROU,24.7,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,344,140,751,28
+2023-M-ITF-TUR-01A-2023,M15 Antalya,Clay,32,15,20230109,102,125833,,WC,Mert Naci Turker,U,,TUR,24.3,123858,,Q,Antonio Massara,R,,ITA,27.3,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1234,5,1612,2
+2023-M-ITF-TUR-01A-2023,M15 Antalya,Clay,32,15,20230109,103,210167,,,Tom Gentzsch,U,,GER,19.3,200595,,,Lorenzo Bocchi,R,,ITA,25.1,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,798,23,728,30
+2023-M-ITF-TUR-01A-2023,M15 Antalya,Clay,32,15,20230109,104,123851,8,,Davide Galoppini,R,,ITA,28.2,209953,,WC,Suleyman Deniz Gursoy,U,,TUR,18.5,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,672,38,,
+2023-M-ITF-TUR-01A-2023,M15 Antalya,Clay,32,15,20230109,105,200075,4,,Yshai Oliel,L,188,ISR,23.0,207378,,Q,Berk Ilkel,U,,TUR,21.4,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,480,79,1348,4
+2023-M-ITF-TUR-01A-2023,M15 Antalya,Clay,32,15,20230109,106,211904,,WC,Maximilian Figl,U,,ITA,,209973,,Q,Edouard Villoslada,U,,FRA,22.9,6-4 1-6 10-9,3,R32,,,,,,,,,,,,,,,,,,,,,,1342,4
+2023-M-ITF-TUR-01A-2023,M15 Antalya,Clay,32,15,20230109,107,104947,,,Marsel Ilhan,R,190,TUR,35.5,144662,,Q,Jakub Wojcik,U,,USA,25.0,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,886,16,1144,7
+2023-M-ITF-TUR-01A-2023,M15 Antalya,Clay,32,15,20230109,108,205842,6,,Arthur Reymond,U,,FRA,23.7,209206,,Q,Antonio Caruso,U,,ITA,,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,637,44,,
+2023-M-ITF-TUR-01A-2023,M15 Antalya,Clay,32,15,20230109,109,134405,7,,Koray Kirci,U,,TUR,24.3,144907,,,Adrian Oetzbach,U,,GER,25.1,6-4 3-6 10-8,3,R32,,,,,,,,,,,,,,,,,,,,659,41,973,12
+2023-M-ITF-TUR-01A-2023,M15 Antalya,Clay,32,15,20230109,110,124126,,,Sarp Agabigun,R,178,TUR,25.5,211386,,Q,Alessio Vasquez Gehrke,U,,DEU,,6-3 2-6 10-8,3,R32,,,,,,,,,,,,,,,,,,,,1003,11,1293,4
+2023-M-ITF-TUR-01A-2023,M15 Antalya,Clay,32,15,20230109,111,206749,,,Niccolo Catini,U,,ITA,25.0,210090,,WC,Emir Sutekin,U,,TUR,20.5,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,963,12,1725,1
+2023-M-ITF-TUR-01A-2023,M15 Antalya,Clay,32,15,20230109,112,207704,3,,Alex Marti Pujolras,U,,ESP,23.9,131910,,,Lucas Bouquet,R,,FRA,25.4,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,422,106,898,15
+2023-M-ITF-TUR-01A-2023,M15 Antalya,Clay,32,15,20230109,113,200007,5,,Quentin Folliot,U,,FRA,24.0,208276,,Q,Obrad Markovski,U,,MKD,22.1,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,631,45,1148,7
+2023-M-ITF-TUR-01A-2023,M15 Antalya,Clay,32,15,20230109,114,210054,,,Matthew William Donald,U,,CZE,18.1,207547,,,Bruno Pujol Navarro,U,,ESP,21.3,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1342,4,789,24
+2023-M-ITF-TUR-01A-2023,M15 Antalya,Clay,32,15,20230109,115,117362,,,Paul Woerner,R,,GER,26.3,210535,,,Maxim Shin,U,,UZB,19.6,6-3 1-6 10-7,3,R32,,,,,,,,,,,,,,,,,,,,901,15,1107,8
+2023-M-ITF-TUR-01A-2023,M15 Antalya,Clay,32,15,20230109,116,202231,,Q,Sergei Pogosian,R,,RUS,24.4,207213,2,,Duje Ajdukovic,R,185,CRO,21.9,6-2 4-6 10-5,3,R32,,,,,,,,,,,,,,,,,,,,1866,1,391,115
+2023-M-ITF-TUR-01A-2023,M15 Antalya,Clay,32,15,20230109,201,200096,1,,Dragos Nicolae Madaras,L,,ROU,25.3,125833,,WC,Mert Naci Turker,U,,TUR,24.3,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,344,140,1234,5
+2023-M-ITF-TUR-01A-2023,M15 Antalya,Clay,32,15,20230109,202,210167,,,Tom Gentzsch,U,,GER,19.3,123851,8,,Davide Galoppini,R,,ITA,28.2,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,798,23,672,38
+2023-M-ITF-TUR-01A-2023,M15 Antalya,Clay,32,15,20230109,203,200075,4,,Yshai Oliel,L,188,ISR,23.0,211904,,WC,Maximilian Figl,U,,ITA,,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,480,79,,
+2023-M-ITF-TUR-01A-2023,M15 Antalya,Clay,32,15,20230109,204,205842,6,,Arthur Reymond,U,,FRA,23.7,104947,,,Marsel Ilhan,R,190,TUR,35.5,6-1 6-7(3) 10-8,3,R16,,,,,,,,,,,,,,,,,,,,637,44,886,16
+2023-M-ITF-TUR-01A-2023,M15 Antalya,Clay,32,15,20230109,205,124126,,,Sarp Agabigun,R,178,TUR,25.5,134405,7,,Koray Kirci,U,,TUR,24.3,6-0 4-6 10-5,3,R16,,,,,,,,,,,,,,,,,,,,1003,11,659,41
+2023-M-ITF-TUR-01A-2023,M15 Antalya,Clay,32,15,20230109,206,207704,3,,Alex Marti Pujolras,U,,ESP,23.9,206749,,,Niccolo Catini,U,,ITA,25.0,6-3 2-6 10-7,3,R16,,,,,,,,,,,,,,,,,,,,422,106,963,12
+2023-M-ITF-TUR-01A-2023,M15 Antalya,Clay,32,15,20230109,207,200007,5,,Quentin Folliot,U,,FRA,24.0,210054,,,Matthew William Donald,U,,CZE,18.1,6-3 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,631,45,1342,4
+2023-M-ITF-TUR-01A-2023,M15 Antalya,Clay,32,15,20230109,208,202231,,Q,Sergei Pogosian,R,,RUS,24.4,117362,,,Paul Woerner,R,,GER,26.3,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1866,1,901,15
+2023-M-ITF-TUR-01A-2023,M15 Antalya,Clay,32,15,20230109,301,200096,1,,Dragos Nicolae Madaras,L,,ROU,25.3,210167,,,Tom Gentzsch,U,,GER,19.3,6-2 7-6(4),3,QF,,,,,,,,,,,,,,,,,,,,344,140,798,23
+2023-M-ITF-TUR-01A-2023,M15 Antalya,Clay,32,15,20230109,302,200075,4,,Yshai Oliel,L,188,ISR,23.0,205842,6,,Arthur Reymond,U,,FRA,23.7,7-5 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,480,79,637,44
+2023-M-ITF-TUR-01A-2023,M15 Antalya,Clay,32,15,20230109,303,207704,3,,Alex Marti Pujolras,U,,ESP,23.9,124126,,,Sarp Agabigun,R,178,TUR,25.5,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,422,106,1003,11
+2023-M-ITF-TUR-01A-2023,M15 Antalya,Clay,32,15,20230109,304,202231,,Q,Sergei Pogosian,R,,RUS,24.4,200007,5,,Quentin Folliot,U,,FRA,24.0,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,1866,1,631,45
+2023-M-ITF-TUR-01A-2023,M15 Antalya,Clay,32,15,20230109,401,200096,1,,Dragos Nicolae Madaras,L,,ROU,25.3,200075,4,,Yshai Oliel,L,188,ISR,23.0,6-1 1-6 6-1,3,SF,,,,,,,,,,,,,,,,,,,,344,140,480,79
+2023-M-ITF-TUR-01A-2023,M15 Antalya,Clay,32,15,20230109,402,207704,3,,Alex Marti Pujolras,U,,ESP,23.9,202231,,Q,Sergei Pogosian,R,,RUS,24.4,6-1 6-0,3,SF,,,,,,,,,,,,,,,,,,,,422,106,1866,1
 2023-M-ITF-USA-01A-2023,M25 Malibu CA,Hard,32,25,20230102,101,208260,1,,Zachary Svajda,R,175,USA,20.0,208132,,Q,Noah Schachter,R,,USA,23.3,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,301,171,1195,6
 2023-M-ITF-USA-01A-2023,M25 Malibu CA,Hard,32,25,20230102,102,202169,,,Colin Markes,U,,USA,25.8,200598,,,Isaiah Strode,R,,USA,25.2,2-6 6-1 11-9,3,R32,,,,,,,,,,,,,,,,,,,,633,45,1000,11
 2023-M-ITF-USA-01A-2023,M25 Malibu CA,Hard,32,25,20230102,103,211790,,Q,Rudy Quan,U,,USA,,208846,,WC,Aditya Gupta,U,,USA,21.0,6-4 4-6 10-8,3,R32,,,,,,,,,,,,,,,,,,,,,,,
