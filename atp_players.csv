@@ -32,7 +32,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 100031,Dimitri,Sturdza,R,19381110,SUI,,Q20431255
 100032,Patricio,Rodriguez Chi,R,19381220,CHI,188,Q7145979
 100033,Wilhelm,Bungert,R,19390401,GER,188,Q77579
-100034,Christian,Kuhnke,R,19390413,GER,,Q461558
+100034,Christian,Kuhnke,L,19390413,GER,,Q461558
 100035,Ion,Tiriac,R,19390509,ROU,185,Q924245
 100036,Rudy,Hernando,R,19390610,USA,,
 100037,Nikola,Pilic,L,19390827,CRO,191,Q452365
@@ -9801,7 +9801,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 109814,Donald,Dell,R,19380617,USA,185,Q947757
 109815,Stanley,Matthews,R,19451120,GBR,,Q258716
 109816,Vic,Seixas,R,19230830,USA,185,Q54583
-109817,Stefan,Koudelka,R,,CZE,,
+109817,Stefan,Koudelka,R,19450221,CZE,,
 109818,Gordon,Forbes,R,19340221,RSA,,Q1565966
 109819,Keith,Wooldridge,R,,GBR,,
 109820,Alan,Mills,R,19351106,GBR,,Q4707333
@@ -9860,7 +9860,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 109873,John,Blizzard,R,,AUS,,
 109874,Paul,Dogherty,R,,AUS,,
 109875,Victor,Egorov,R,,UKR,,
-109876,Peter,Lamp,R,,RUS,,
+109876,Peter,Lamp,R,19440209,RUS,,
 109877,Rainer,Kuhlmey,R,,GER,,
 109878,Franco,Bartoni,R,19481004,ITA,,Q87877688
 109879,Jose Luis,Arillla,R,19410305,ESP,,Q1270395
@@ -9890,7 +9890,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 109903,Whitney,Reed,R,19320821,USA,,Q3567819
 109904,Rich,Anderson,U,,USA,,
 109905,Charles,Darley,U,19460613,USA,,
-109906,Don,Kierbow,U,,USA,,
+109906,Don,Kierbow,U,19340628,USA,,
 109907,Henry,Kamakana,R,19420922,USA,,
 109908,Tom,Brown,R,19220926,USA,185,Q500029
 109909,Bobby,Siska,U,19421201,USA,,
@@ -12329,7 +12329,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 112343,Dick,Potter,U,,AUS,,
 112344,Wayne,Reid,U,19380112,AUS,,
 112345,Noel,Holland,U,19400408,AUS,,
-112346,Bert,Kearney,U,19310128,AUS,,
+112346,Bert,Kearney,R,19310128,AUS,,
 112347,John,Stephens,U,,AUS,,
 112348,Keith,Rogers,U,,AUS,,
 112349,Maurice,Murrels,U,,AUS,,
@@ -12608,7 +12608,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 112622,Jiri,Javorsky,U,19320209,TCH,,Q3179321
 112623,Andras,Adam Stolpa,U,19210915,HUN,,Q2847008
 112624,Jean Pierre,Froment,U,,BEL,,
-112625,Gaetan,Koenig,U,,RSA,,
+112625,Gaetan,Koenig,U,19341107,RSA,,
 112626,Pancho,Contreras,U,19340616,MEX,,Q3081825
 112627,Juan Manuel,Couder,U,19341023,ESP,,Q2742105
 112628,Franz,Hainka,U,,AUT,,
@@ -13207,7 +13207,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 113221,Richard,Schonborn,U,,TCH,,
 113222,Ray,Weedon,U,,RSA,,
 113223,Hernando,Salas,U,,COL,,
-113224,Kamilo,Keretic,U,,YUG,,
+113224,Kamilo,Keretic,U,19330419,YUG,,
 113225,Brian,Woolf,U,19370128,NZL,,Q18423563
 113226,Daniel,Achondo,U,19391005,CHI,,Q41776990
 113227,Soren,Hojberg,U,19330824,DEN,,
@@ -13267,7 +13267,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 113281,Andy,Paton Jr,U,,USA,,
 113282,Otokar,Merunka,U,,TCH,,
 113283,Corbett T,Parker,U,19320107,NZL,,
-113284,Jan,Krajcik,U,19240126,TCH,,
+113284,Jan,Krajcik,U,19240116,TCH,,Q12027397
 113285,Manuel,Morales,U,,DOM,,
 113286,Nadim,Hajjar,U,19261002,LIB,,Q47291757
 113287,Gustavo,Rueda,U,,COL,,
@@ -17265,7 +17265,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 117279,Rolf,Pape,U,19291111,NOR,,Q64026930
 117280,Lars Henrik,Krause,U,19300809,FIN,,
 117281,Engelbert,Koch,U,19180322,GER,,Q1341925
-117282,Jano,Krajcik,U,19240116,TCH,,Q12027397
+117282,Jan,Krajcik,U,19240116,TCH,,Q12027397
 117283,Joseph,Offenheim,U,19310519,LUX,,
 117284,Ivko,Plecevic,U,,YUG,,
 117285,Helmut,Gulcz,U,19530101,GER,,Q3129943
@@ -48212,7 +48212,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 202654,,Jouregui,U,,MEX,,
 202655,Lothal,Pawlik,U,,GER,,
 202656,L,Lanz,U,,GER,,
-202657,Christian,Kuhnke,L,19390414,UNK,,
+202657,Christian,Kuhnke,L,19390413,UNK,,
 202658,Jose Luis,Arilla,U,19410305,ESP,,Q1270395
 202659,Attila,Korpas,U,19450901,HUN,,Q88947610
 202660,Wojtek,Fibak,R,19520830,POL,,
