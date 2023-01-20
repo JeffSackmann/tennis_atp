@@ -6546,7 +6546,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 106559,Ante,Andric,U,,CRO,,
 106560,Anthony,Burke,R,,AUS,,
 106561,Anthony,Fawcett,R,,RSA,,
-106562,Anthony,Hammond,R,,AUS,,
+106562,Anthony,Hammond,R,19500316,AUS,,
 106563,Anton,Gonzalez,R,,ESP,,
 106564,Anton,Ivanov,R,19700118,UZB,,
 106565,Anton,Rapev,R,,BUL,,
@@ -9923,7 +9923,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 109936,Antonio,Palafox,R,,MEX,,
 109937,Robert,Potthast,R,,USA,,
 109938,Tom,Mozur,R,,USA,,
-109939,Ted,Hoehn,R,,USA,,
+109939,Ted,Hoehn,R,19420125,USA,,
 109940,Ernesto,Lingen,R,19681005,ECU,,
 109941,David,Epstein,R,,AUS,,
 109942,R,Carter,U,,AUS,,
@@ -11091,7 +11091,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 111104,Raouf,Ben Farhat,U,,TUN,,
 111105,Ikbel,Hanachi,U,19630128,TUN,,
 111106,Tahsin,Gursoy,U,19440829,TUR,,
-111107,Teimuraz,Kakulia,U,19470426,URS,,Q4208948
+111107,Teimuraz,Kakulia,R,19470426,URS,170,Q4208948
 111108,Kaya,Saydas,U,19620731,TUR,,
 111109,Mounged,Bouhassoun,U,19620515,SYR,,
 111110,Hashim,Bin Sidek,U,19610526,SGP,,
@@ -13201,7 +13201,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 113215,Larry,Nelson,U,,USA,,
 113216,Ghaus,Mohammed Khan,U,19151102,IND,,Q13512893
 113217,Jean Paul,Vincent,U,,FRA,,
-113218,Antal,Jancso,U,,HUN,,
+113218,Antal,Jancso,U,19341028,HUN,,
 113219,Marc,Lasry,U,,FRA,,
 113220,Georges,Deniau,R,19321225,FRA,,Q3102591
 113221,Richard,Schonborn,U,,TCH,,
@@ -17225,7 +17225,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 117239,Borje,Fornstedt,U,19260204,SWE,,Q16632948
 117240,Peter,Philips,U,19340217,CAR,,
 117241,Peter,Valdez,U,19380831,CAR,,
-117242,Alfred,Huber,U,19300415,AUT,,Q18713031
+117242,Alfred,Huber,U,19300515,AUT,,Q18713031
 117243,Franz,Saiko,U,,AUT,,
 117244,Cornel,Zacopceanu,U,,ROU,,
 117245,Gustav,Specht,U,,AUT,,
@@ -25628,7 +25628,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 125642,Jerzy,Stolarow,U,,POL,,
 125643,Przemyslaw,Warminski,U,19080314,POL,,Q11828978
 125644,Finn,Bekkevold,U,,DEN,,
-125645,,I Bunea,U,,ROU,,
+125645,I,Bunea,U,,ROU,,
 125646,Niels,Korner,U,,DEN,,
 125647,Enrique,Andrade,U,19520130,ECU,,
 125648,Runar,Granholm,U,18890725,FIN,,Q97148653
@@ -52520,7 +52520,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 206962,Peter,Boeck,,19370124,AUT,,
 206963,Wilhelm,Brosch,,,AUT,,
 206964,Michael,Haberl,,,AUT,,
-206965,,I Georgiadis,,,GRE,,
+206965,I,Georgiadis,,,GRE,,
 206966,Kalman,Feher,,,HUN,,
 206967,Otto,Relly,,,AUT,,
 206968,Simon,Scroope,,,IRL,,
