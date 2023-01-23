@@ -32,9 +32,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-HKG-01A-2017,Hong Kong F6,Hard,32,S,20170102,31,105339,5,,Yan Bai,R,185,CHN,27.6,105026,2,,Takuto Niki,U,183,JPN,29.2,6-1 6-4,3,F,,,,,,,,,,,,,,,,,,,,610,49,377,118
 2017-M-FU-USA-01A-2017,USA F1,Hard,32,S,20170102,1,123768,,Q,Collin Altamirano,R,188,USA,21.0,126205,1,,Tommy Paul,R,185,USA,19.6,4-6 6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1395,3,282,177
 2017-M-FU-USA-01A-2017,USA F1,Hard,32,S,20170102,2,106264,,Q,Karue Sell,R,,BRA,23.1,121920,,Q,Timur Khabibulin,R,,KAZ,21.4,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,975,13
-2017-M-FU-USA-01A-2017,USA F1,Hard,32,S,20170102,3,111515,,,Thai Son Kwiatkowski,R,188,USA,21.8,134472,,,Antoine Bellier,U,196,SUI,20.2,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,573,56,612,49
+2017-M-FU-USA-01A-2017,USA F1,Hard,32,S,20170102,3,111515,,,Thai Son Kwiatkowski,R,188,USA,21.8,134472,,,Antoine Bellier,L,196,SUI,20.2,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,573,56,612,49
 2017-M-FU-USA-01A-2017,USA F1,Hard,32,S,20170102,4,144797,8,,Carl Soderlund,R,188,SWE,19.5,132003,,Q,Sameer Kumar,U,,USA,19.4,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,453,87,1288,4
-2017-M-FU-USA-01A-2017,USA F1,Hard,32,S,20170102,5,105877,3,,Emilio Gomez,R,185,ECU,25.0,200587,,WC,Brandon Holt,U,,USA,18.7,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,294,167,,
+2017-M-FU-USA-01A-2017,USA F1,Hard,32,S,20170102,5,105877,3,,Emilio Gomez,R,185,ECU,25.0,200587,,WC,Brandon Holt,R,,USA,18.7,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,294,167,,
 2017-M-FU-USA-01A-2017,USA F1,Hard,32,S,20170102,6,110636,,,Clay Thompson,R,,USA,24.6,104550,,,Ricardo Hocevar,R,180,BRA,31.6,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,674,39,560,60
 2017-M-FU-USA-01A-2017,USA F1,Hard,32,S,20170102,7,111574,,WC,Jc Aragone,R,178,USA,21.5,109737,,,Markos Kalovelonis,R,191,GRE,22.6,5-7 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,786,23,515,71
 2017-M-FU-USA-01A-2017,USA F1,Hard,32,S,20170102,8,105960,6,,Evan King,L,185,USA,24.7,111583,,Q,Martin Redlicki,U,,USA,21.3,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,349,133,1130,7
@@ -186,12 +186,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-TUR-01A-2017,Turkey F1,Hard,32,S,20170109,30,111794,2,,Kamil Majchrzak,R,183,POL,20.9,134868,4,,Tallon Griekspoor,R,188,NED,20.5,7-5 6-1,3,SF,,,,,,,,,,,,,,,,,,,,277,181,349,134
 2017-M-FU-TUR-01A-2017,Turkey F1,Hard,32,S,20170109,31,111794,2,,Kamil Majchrzak,R,183,POL,20.9,106281,3,,Liam Broady,L,183,GBR,23.0,5-7 6-3 6-3,3,F,,,,,,,,,,,,,,,,,,,,277,181,305,160
 2017-M-FU-USA-02A-2017,USA F2,Hard,32,S,20170109,1,126205,1,,Tommy Paul,R,185,USA,19.6,109737,,,Markos Kalovelonis,R,191,GRE,22.6,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,280,177,516,71
-2017-M-FU-USA-02A-2017,USA F2,Hard,32,S,20170109,2,200587,,WC,Brandon Holt,U,,USA,18.7,106382,,,Luke Bambridge,R,,GBR,21.9,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,614,48
+2017-M-FU-USA-02A-2017,USA F2,Hard,32,S,20170109,2,200587,,WC,Brandon Holt,R,,USA,18.7,106382,,,Luke Bambridge,R,,GBR,21.9,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,614,48
 2017-M-FU-USA-02A-2017,USA F2,Hard,32,S,20170109,3,200588,,WC,Riley Smith,U,,USA,19.5,110750,,PR,Eric Johnson,R,,USA,23.8,3-6 7-6(4) 7-6(8),3,R32,,,,,,,,,,,,,,,,,,,,,,1245,5
 2017-M-FU-USA-02A-2017,USA F2,Hard,32,S,20170109,4,144797,7,,Carl Soderlund,R,188,SWE,19.6,111570,,Q,Ronnie Schneider,U,,USA,22.2,5-7 7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,455,87,,
 2017-M-FU-USA-02A-2017,USA F2,Hard,32,S,20170109,5,111456,4,,Mackenzie Mcdonald,R,178,USA,21.7,111574,,Q,Jc Aragone,R,178,USA,21.5,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,323,148,785,23
 2017-M-FU-USA-02A-2017,USA F2,Hard,32,S,20170109,6,106304,,Q,Mico Santiago,U,,USA,22.8,202385,,Q,Jenson Brooksby,R,188,USA,16.2,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,847,19,,
-2017-M-FU-USA-02A-2017,USA F2,Hard,32,S,20170109,7,132437,,WC,Logan Smith,U,,USA,20.1,134472,,,Antoine Bellier,U,196,SUI,20.2,4-6 6-4 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,,,611,49
+2017-M-FU-USA-02A-2017,USA F2,Hard,32,S,20170109,7,132437,,WC,Logan Smith,U,,USA,20.1,134472,,,Antoine Bellier,L,196,SUI,20.2,4-6 6-4 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,,,611,49
 2017-M-FU-USA-02A-2017,USA F2,Hard,32,S,20170109,8,123768,,WC,Collin Altamirano,R,188,USA,21.0,105447,8,,Dennis Nevolo,R,,USA,27.0,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1400,3,467,85
 2017-M-FU-USA-02A-2017,USA F2,Hard,32,S,20170109,9,105960,5,,Evan King,L,185,USA,24.7,110636,,,Clay Thompson,R,,USA,24.6,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,350,133,673,39
 2017-M-FU-USA-02A-2017,USA F2,Hard,32,S,20170109,10,106328,,,Christian Harrison,R,178,USA,22.6,137698,,Q,Nicholas C Crystal,U,,USA,21.5,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,486,79,,
@@ -201,7 +201,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-USA-02A-2017,USA F2,Hard,32,S,20170109,14,111765,,,Evan Song,U,,USA,24.5,127036,,,Aron Hiltzik,U,,USA,20.7,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,598,52,801,22
 2017-M-FU-USA-02A-2017,USA F2,Hard,32,S,20170109,15,111809,,Q,Henry Craig,R,,USA,22.2,200415,,Q,Robert Galloway,R,,USA,24.2,6-0 2-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,2076,1
 2017-M-FU-USA-02A-2017,USA F2,Hard,32,S,20170109,16,106335,,,Alexios Halebian,L,,USA,22.5,105933,2,,Roberto Quiroz,L,193,ECU,24.8,6-7(11) 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,665,41,288,172
-2017-M-FU-USA-02A-2017,USA F2,Hard,32,S,20170109,17,126205,1,,Tommy Paul,R,185,USA,19.6,200587,,WC,Brandon Holt,U,,USA,18.7,6-3 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,280,177,,
+2017-M-FU-USA-02A-2017,USA F2,Hard,32,S,20170109,17,126205,1,,Tommy Paul,R,185,USA,19.6,200587,,WC,Brandon Holt,R,,USA,18.7,6-3 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,280,177,,
 2017-M-FU-USA-02A-2017,USA F2,Hard,32,S,20170109,18,144797,7,,Carl Soderlund,R,188,SWE,19.6,200588,,WC,Riley Smith,U,,USA,19.5,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,455,87,,
 2017-M-FU-USA-02A-2017,USA F2,Hard,32,S,20170109,19,111456,4,,Mackenzie Mcdonald,R,178,USA,21.7,106304,,Q,Mico Santiago,U,,USA,22.8,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,323,148,847,19
 2017-M-FU-USA-02A-2017,USA F2,Hard,32,S,20170109,20,123768,,WC,Collin Altamirano,R,188,USA,21.0,132437,,WC,Logan Smith,U,,USA,20.1,7-6(4) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1400,3,,
@@ -1334,7 +1334,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-ESP-05A-2017,Spain F5,Clay,32,S,20170213,31,106120,1,,Ricardo Ojeda Lara,R,180,ESP,24.0,103926,,,Daniel Munoz de la Nava,L,178,ESP,35.0,6-7(3) 6-2 7-6(3),3,F,,,,,,,,,,,,,,,,,,,,254,207,519,68
 2017-M-FU-SUI-02A-2017,Switzerland F2,Carpet,32,S,20170213,1,106296,1,,Gregoire Barrere,R,183,FRA,22.9,105626,,,Takanyi Garanganga,R,,ZIM,26.4,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,281,184,499,76
 2017-M-FU-SUI-02A-2017,Switzerland F2,Carpet,32,S,20170213,2,105369,,Q,Riccardo Maiga,R,,SUI,27.6,126627,,WC,Johan Nikles,R,170,SUI,19.8,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1097,8,690,35
-2017-M-FU-SUI-02A-2017,Switzerland F2,Carpet,32,S,20170213,3,105797,,,Marvin Netuschil,R,,GER,25.6,134472,,WC,Antoine Bellier,U,196,SUI,20.3,6-4 5-7 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,355,131,595,52
+2017-M-FU-SUI-02A-2017,Switzerland F2,Carpet,32,S,20170213,3,105797,,,Marvin Netuschil,R,,GER,25.6,134472,,WC,Antoine Bellier,L,196,SUI,20.3,6-4 5-7 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,355,131,595,52
 2017-M-FU-SUI-02A-2017,Switzerland F2,Carpet,32,S,20170213,4,127157,5,,Daniel Altmaier,R,191,GER,18.4,111192,,,Lucas Miedler,R,183,AUT,20.6,6-7(2) 6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,334,144,400,108
 2017-M-FU-SUI-02A-2017,Switzerland F2,Carpet,32,S,20170213,5,138652,,Q,Hugo Voljacques,R,,FRA,24.1,123807,4,,Marek Jaloviec,L,,CZE,23.0,5-7 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,734,30,312,162
 2017-M-FU-SUI-02A-2017,Switzerland F2,Carpet,32,S,20170213,6,126536,,Q,David Pichler,R,,AUT,20.9,126505,,LL,Antoine Walch,U,,FRA,23.2,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,597,52,1462,3
@@ -1585,7 +1585,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-ESP-06B-2017,Spain F6,Hard,32,S,20170220,3,105897,,,Alexander Zhurbin,U,,RUS,25.1,105601,,,Cristobal Saavedra Corvalan,R,,CHI,26.5,7-5 2-6 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,586,53,583,54
 2017-M-FU-ESP-06B-2017,Spain F6,Hard,32,S,20170220,4,105892,,,Alexandr Igoshin,U,,RUS,25.1,105534,6,,Erik Crepaldi,L,,ITA,26.8,6-1 4-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,562,58,436,93
 2017-M-FU-ESP-06B-2017,Spain F6,Hard,32,S,20170220,5,105751,4,,Roberto Ortega Olmedo,U,168,ESP,25.8,105682,,Q,Alessandro Petrone,R,,ITA,26.1,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,360,126,753,27
-2017-M-FU-ESP-06B-2017,Spain F6,Hard,32,S,20170220,6,134472,,,Antoine Bellier,U,196,SUI,20.3,106355,,,Jonathan Kanar,U,,FRA,22.4,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,597,51,690,35
+2017-M-FU-ESP-06B-2017,Spain F6,Hard,32,S,20170220,6,134472,,,Antoine Bellier,L,196,SUI,20.3,106355,,,Jonathan Kanar,U,,FRA,22.4,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,597,51,690,35
 2017-M-FU-ESP-06B-2017,Spain F6,Hard,32,S,20170220,7,132806,,WC,Quim Sorni Chavarria,U,,ESP,19.8,200266,,Q,Javier Barranco Cosano,U,,ESP,18.2,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1353,4,1154,7
 2017-M-FU-ESP-06B-2017,Spain F6,Hard,32,S,20170220,8,106238,7,,Andres Artunedo Martinavarro,R,,ESP,23.4,121669,,LL,Sergio Martos Gornes,U,,ESP,22.3,7-6(7) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,463,85,867,18
 2017-M-FU-ESP-06B-2017,Spain F6,Hard,32,S,20170220,9,106398,8,,Pedro Cachin,R,185,ARG,21.8,127326,,,Ben Patael,U,188,ISR,19.7,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,494,76,618,47
@@ -1598,7 +1598,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-ESP-06B-2017,Spain F6,Hard,32,S,20170220,16,126535,2,,Carlos Taberner,R,183,ESP,19.5,126340,,,Viktor Durasovic,R,185,NOR,19.9,6-2 0-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,317,155,626,46
 2017-M-FU-ESP-06B-2017,Spain F6,Hard,32,S,20170220,17,144719,1,,Jaume Munar,R,183,ESP,19.7,105758,,Q,Juan Lizariturry,U,,ESP,25.8,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,256,205,842,19
 2017-M-FU-ESP-06B-2017,Spain F6,Hard,32,S,20170220,18,105897,,,Alexander Zhurbin,U,,RUS,25.1,105892,,,Alexandr Igoshin,U,,RUS,25.1,6-1 6-7(3) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,586,53,562,58
-2017-M-FU-ESP-06B-2017,Spain F6,Hard,32,S,20170220,19,105751,4,,Roberto Ortega Olmedo,U,168,ESP,25.8,134472,,,Antoine Bellier,U,196,SUI,20.3,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,360,126,597,51
+2017-M-FU-ESP-06B-2017,Spain F6,Hard,32,S,20170220,19,105751,4,,Roberto Ortega Olmedo,U,168,ESP,25.8,134472,,,Antoine Bellier,L,196,SUI,20.3,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,360,126,597,51
 2017-M-FU-ESP-06B-2017,Spain F6,Hard,32,S,20170220,20,106238,7,,Andres Artunedo Martinavarro,R,,ESP,23.4,132806,,WC,Quim Sorni Chavarria,U,,ESP,19.8,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,463,85,1353,4
 2017-M-FU-ESP-06B-2017,Spain F6,Hard,32,S,20170220,21,106398,8,,Pedro Cachin,R,185,ARG,21.8,200553,,Q,Alen Avidzba,R,,RUS,16.9,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,494,76,973,12
 2017-M-FU-ESP-06B-2017,Spain F6,Hard,32,S,20170220,22,106177,3,,Oriol Roca Batalla,R,173,ESP,23.8,122554,,Q,David Jorda Sanchis,U,,ESP,22.6,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,329,146,1017,11
@@ -2307,7 +2307,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-POR-02A-2017,Portugal F2,Hard,32,S,20170306,12,106249,3,,Joao Domingues,R,178,POR,23.4,125789,,WC,Felipe Cunha Silva,R,,POR,19.9,5-7 6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,313,160,1082,9
 2017-M-FU-POR-02A-2017,Portugal F2,Hard,32,S,20170306,13,111192,6,,Lucas Miedler,R,183,AUT,20.7,132741,,Q,Albert Roglan,U,,ESP,18.3,4-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,403,108,1328,4
 2017-M-FU-POR-02A-2017,Portugal F2,Hard,32,S,20170306,14,105172,,,Miliaan Niesten,U,,NED,28.6,110468,,,Romain Barbosa,R,,POR,22.8,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,569,56,445,89
-2017-M-FU-POR-02A-2017,Portugal F2,Hard,32,S,20170306,15,134472,,,Antoine Bellier,U,196,SUI,20.3,105349,,Q,Harri Heliovaara,R,188,FIN,27.7,7-6(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,599,51,,
+2017-M-FU-POR-02A-2017,Portugal F2,Hard,32,S,20170306,15,134472,,,Antoine Bellier,L,196,SUI,20.3,105349,,Q,Harri Heliovaara,R,188,FIN,27.7,7-6(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,599,51,,
 2017-M-FU-POR-02A-2017,Portugal F2,Hard,32,S,20170306,16,105325,2,,Germain Gigounon,R,,BEL,27.8,105674,,,Carlos Eduardo Severino,U,,BRA,26.2,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,281,186,707,32
 2017-M-FU-POR-02A-2017,Portugal F2,Hard,32,S,20170306,17,104963,1,,Yannick Mertens,R,188,BEL,29.6,126353,,WC,Nuno Deus,U,,POR,21.8,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,242,213,916,15
 2017-M-FU-POR-02A-2017,Portugal F2,Hard,32,S,20170306,18,126523,7,,Bernabe Zapata Miralles,R,185,ESP,20.1,202235,,Q,Jacopo Berrettini,U,,ITA,18.2,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,401,109,1422,3
@@ -2316,11 +2316,11 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-POR-02A-2017,Portugal F2,Hard,32,S,20170306,21,122368,,,Joao Monteiro,U,,POR,23.1,109307,,WC,Luis Faria,R,,BRA,17.6,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,570,56,1994,1
 2017-M-FU-POR-02A-2017,Portugal F2,Hard,32,S,20170306,22,106249,3,,Joao Domingues,R,178,POR,23.4,105969,,Q,James Marsalek,U,,GBR,24.9,7-6(3) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,313,160,783,24
 2017-M-FU-POR-02A-2017,Portugal F2,Hard,32,S,20170306,23,111192,6,,Lucas Miedler,R,183,AUT,20.7,105172,,,Miliaan Niesten,U,,NED,28.6,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,403,108,569,56
-2017-M-FU-POR-02A-2017,Portugal F2,Hard,32,S,20170306,24,134472,,,Antoine Bellier,U,196,SUI,20.3,105325,2,,Germain Gigounon,R,,BEL,27.8,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,599,51,281,186
+2017-M-FU-POR-02A-2017,Portugal F2,Hard,32,S,20170306,24,134472,,,Antoine Bellier,L,196,SUI,20.3,105325,2,,Germain Gigounon,R,,BEL,27.8,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,599,51,281,186
 2017-M-FU-POR-02A-2017,Portugal F2,Hard,32,S,20170306,25,104963,1,,Yannick Mertens,R,188,BEL,29.6,126523,7,,Bernabe Zapata Miralles,R,185,ESP,20.1,6-4 6-0,3,QF,,,,,,,,,,,,,,,,,,,,242,213,401,109
 2017-M-FU-POR-02A-2017,Portugal F2,Hard,32,S,20170306,26,105529,,,Carlos Gomez Herrera,R,191,ESP,26.8,105751,4,,Roberto Ortega Olmedo,U,168,ESP,25.8,6-3 2-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,617,47,344,139
 2017-M-FU-POR-02A-2017,Portugal F2,Hard,32,S,20170306,27,106249,3,,Joao Domingues,R,178,POR,23.4,122368,,,Joao Monteiro,U,,POR,23.1,4-6 6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,313,160,570,56
-2017-M-FU-POR-02A-2017,Portugal F2,Hard,32,S,20170306,28,111192,6,,Lucas Miedler,R,183,AUT,20.7,134472,,,Antoine Bellier,U,196,SUI,20.3,7-6(4) 6-1,3,QF,,,,,,,,,,,,,,,,,,,,403,108,599,51
+2017-M-FU-POR-02A-2017,Portugal F2,Hard,32,S,20170306,28,111192,6,,Lucas Miedler,R,183,AUT,20.7,134472,,,Antoine Bellier,L,196,SUI,20.3,7-6(4) 6-1,3,QF,,,,,,,,,,,,,,,,,,,,403,108,599,51
 2017-M-FU-POR-02A-2017,Portugal F2,Hard,32,S,20170306,29,104963,1,,Yannick Mertens,R,188,BEL,29.6,105529,,,Carlos Gomez Herrera,R,191,ESP,26.8,7-6(4) 6-4,3,SF,,,,,,,,,,,,,,,,,,,,242,213,617,47
 2017-M-FU-POR-02A-2017,Portugal F2,Hard,32,S,20170306,30,111192,6,,Lucas Miedler,R,183,AUT,20.7,106249,3,,Joao Domingues,R,178,POR,23.4,7-6(5) 6-2,3,SF,,,,,,,,,,,,,,,,,,,,403,108,313,160
 2017-M-FU-POR-02A-2017,Portugal F2,Hard,32,S,20170306,31,104963,1,,Yannick Mertens,R,188,BEL,29.6,111192,6,,Lucas Miedler,R,183,AUT,20.7,6-4 6-2,3,F,,,,,,,,,,,,,,,,,,,,242,213,403,108
@@ -2677,7 +2677,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-POR-03A-2017,Portugal F3,Hard,32,S,20170313,10,105926,,Q,Tom Farquharson,U,,GBR,25.0,126442,,Q,Simone Roncalli,R,,ITA,20.8,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1127,7,1168,7
 2017-M-FU-POR-03A-2017,Portugal F3,Hard,32,S,20170313,11,110754,,,David Vega Hernandez,R,188,ESP,22.7,132307,,WC,Miguel Semedo,R,,POR,20.8,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,726,31,976,12
 2017-M-FU-POR-03A-2017,Portugal F3,Hard,32,S,20170313,12,105751,4,,Roberto Ortega Olmedo,U,168,ESP,25.8,105529,,,Carlos Gomez Herrera,R,191,ESP,26.8,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,344,139,617,47
-2017-M-FU-POR-03A-2017,Portugal F3,Hard,32,S,20170313,13,111192,6,,Lucas Miedler,R,183,AUT,20.7,134472,,,Antoine Bellier,U,196,SUI,20.3,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,403,108,599,51
+2017-M-FU-POR-03A-2017,Portugal F3,Hard,32,S,20170313,13,111192,6,,Lucas Miedler,R,183,AUT,20.7,134472,,,Antoine Bellier,L,196,SUI,20.3,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,403,108,599,51
 2017-M-FU-POR-03A-2017,Portugal F3,Hard,32,S,20170313,14,200221,,,Alejandro Davidovich Fokina,R,183,ESP,17.7,111450,,,Pietro Licciardi,L,,ITA,22.8,7-5 2-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,874,17,868,18
 2017-M-FU-POR-03A-2017,Portugal F3,Hard,32,S,20170313,15,105998,,Q,Eduardo Dischinger,R,,BRA,24.7,122321,,,Marat Deviatiarov,R,,UKR,22.8,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,968,13,630,45
 2017-M-FU-POR-03A-2017,Portugal F3,Hard,32,S,20170313,16,104963,2,,Yannick Mertens,R,188,BEL,29.6,126129,,Q,Billy Harris,U,,GBR,22.1,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,242,213,1067,9
@@ -3856,7 +3856,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-QAT-01A-2017,Qatar F1,Hard,32,S,20170403,11,200465,,Q,Sem Verbeek,L,,NED,22.9,106008,,,Florian Fallert,R,,GER,24.8,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1939,1,813,22
 2017-M-FU-QAT-01A-2017,Qatar F1,Hard,32,S,20170403,12,106110,3,,Filip Horansky,R,175,SVK,24.2,106330,,,Vitaly Kozyukov,R,,RUS,22.8,3-6 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,426,98,646,42
 2017-M-FU-QAT-01A-2017,Qatar F1,Hard,32,S,20170403,13,104095,5,,David Guez,R,185,FRA,34.3,200643,,Q,Jurgen Briand,R,,FRA,18.2,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,430,96,1437,3
-2017-M-FU-QAT-01A-2017,Qatar F1,Hard,32,S,20170403,14,134472,,,Antoine Bellier,U,196,SUI,20.4,105635,,,Jorge Montero,R,,CHI,26.5,7-6(3) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,620,46,785,24
+2017-M-FU-QAT-01A-2017,Qatar F1,Hard,32,S,20170403,14,134472,,,Antoine Bellier,L,196,SUI,20.4,105635,,,Jorge Montero,R,,CHI,26.5,7-6(3) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,620,46,785,24
 2017-M-FU-QAT-01A-2017,Qatar F1,Hard,32,S,20170403,15,132325,,Q,Andrew Ruppli,L,,SUI,22.1,123847,,Q,Bogdan Bobrov,U,,RUS,19.5,4-6 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1105,8,1251,5
 2017-M-FU-QAT-01A-2017,Qatar F1,Hard,32,S,20170403,16,105938,,,Antoine Escoffier,U,,FRA,25.0,105874,2,,Albano Olivetti,R,203,FRA,25.3,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,551,59,350,132
 2017-M-FU-QAT-01A-2017,Qatar F1,Hard,32,S,20170403,17,127157,1,,Daniel Altmaier,R,191,GER,18.5,105427,,Q,Milos Sekulic,R,178,SWE,27.4,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,288,174,1038,10
@@ -3865,12 +3865,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-QAT-01A-2017,Qatar F1,Hard,32,S,20170403,20,126634,7,,Lenny Hampel,U,,AUT,20.2,105113,,,Patrik Rosenholm,R,178,SWE,29.0,5-7 6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,467,83,649,42
 2017-M-FU-QAT-01A-2017,Qatar F1,Hard,32,S,20170403,21,106191,,,Mick Lescure,R,,FRA,23.8,122222,,,Jonas Merckx,R,,BEL,23.4,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,658,40,602,49
 2017-M-FU-QAT-01A-2017,Qatar F1,Hard,32,S,20170403,22,106110,3,,Filip Horansky,R,175,SVK,24.2,200465,,Q,Sem Verbeek,L,,NED,22.9,4-6 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,426,98,1939,1
-2017-M-FU-QAT-01A-2017,Qatar F1,Hard,32,S,20170403,23,134472,,,Antoine Bellier,U,196,SUI,20.4,104095,5,,David Guez,R,185,FRA,34.3,6-2 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,620,46,430,96
+2017-M-FU-QAT-01A-2017,Qatar F1,Hard,32,S,20170403,23,134472,,,Antoine Bellier,L,196,SUI,20.4,104095,5,,David Guez,R,185,FRA,34.3,6-2 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,620,46,430,96
 2017-M-FU-QAT-01A-2017,Qatar F1,Hard,32,S,20170403,24,105938,,,Antoine Escoffier,U,,FRA,25.0,132325,,Q,Andrew Ruppli,L,,SUI,22.1,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,551,59,1105,8
 2017-M-FU-QAT-01A-2017,Qatar F1,Hard,32,S,20170403,25,127157,1,,Daniel Altmaier,R,191,GER,18.5,105436,6,,Markus Eriksson,R,188,SWE,27.3,6-4 1-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,288,174,508,68
 2017-M-FU-QAT-01A-2017,Qatar F1,Hard,32,S,20170403,26,126634,7,,Lenny Hampel,U,,AUT,20.2,105969,,,James Marsalek,U,,GBR,24.9,6-3 4-6 6-0,3,QF,,,,,,,,,,,,,,,,,,,,467,83,923,14
 2017-M-FU-QAT-01A-2017,Qatar F1,Hard,32,S,20170403,27,106191,,,Mick Lescure,R,,FRA,23.8,106110,3,,Filip Horansky,R,175,SVK,24.2,6-3 7-6(0),3,QF,,,,,,,,,,,,,,,,,,,,658,40,426,98
-2017-M-FU-QAT-01A-2017,Qatar F1,Hard,32,S,20170403,28,105938,,,Antoine Escoffier,U,,FRA,25.0,134472,,,Antoine Bellier,U,196,SUI,20.4,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,551,59,620,46
+2017-M-FU-QAT-01A-2017,Qatar F1,Hard,32,S,20170403,28,105938,,,Antoine Escoffier,U,,FRA,25.0,134472,,,Antoine Bellier,L,196,SUI,20.4,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,551,59,620,46
 2017-M-FU-QAT-01A-2017,Qatar F1,Hard,32,S,20170403,29,127157,1,,Daniel Altmaier,R,191,GER,18.5,126634,7,,Lenny Hampel,U,,AUT,20.2,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,288,174,467,83
 2017-M-FU-QAT-01A-2017,Qatar F1,Hard,32,S,20170403,30,105938,,,Antoine Escoffier,U,,FRA,25.0,106191,,,Mick Lescure,R,,FRA,23.8,6-2 1-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,551,59,658,40
 2017-M-FU-QAT-01A-2017,Qatar F1,Hard,32,S,20170403,31,127157,1,,Daniel Altmaier,R,191,GER,18.5,105938,,,Antoine Escoffier,U,,FRA,25.0,6-4 6-3,3,F,,,,,,,,,,,,,,,,,,,,288,174,551,59
@@ -4197,7 +4197,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-QAT-02A-2017,Qatar F2,Hard,32,S,20170410,11,106330,,,Vitaly Kozyukov,R,,RUS,22.8,108705,,,Anis Ghorbel,R,,TUN,27.9,6-3 4-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,647,42,645,42
 2017-M-FU-QAT-02A-2017,Qatar F2,Hard,32,S,20170410,12,111192,3,,Lucas Miedler,R,183,AUT,20.8,106338,,Q,Jannis Kahlke,L,,GER,22.8,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,371,123,1147,7
 2017-M-FU-QAT-02A-2017,Qatar F2,Hard,32,S,20170410,13,106110,6,,Filip Horansky,R,175,SVK,24.2,125799,,Q,Artur Shakhnubaryan,U,,RUS,20.6,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,437,93,1217,5
-2017-M-FU-QAT-02A-2017,Qatar F2,Hard,32,S,20170410,14,134472,,,Antoine Bellier,U,196,SUI,20.4,106191,,,Mick Lescure,R,,FRA,23.8,7-6(5) 4-6 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,623,46,555,58
+2017-M-FU-QAT-02A-2017,Qatar F2,Hard,32,S,20170410,14,134472,,,Antoine Bellier,L,196,SUI,20.4,106191,,,Mick Lescure,R,,FRA,23.8,7-6(5) 4-6 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,623,46,555,58
 2017-M-FU-QAT-02A-2017,Qatar F2,Hard,32,S,20170410,15,105043,,Q,Marek Semjan,U,,SVK,29.4,105113,,,Patrik Rosenholm,R,178,SWE,29.0,2-6 7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1195,6,650,42
 2017-M-FU-QAT-02A-2017,Qatar F2,Hard,32,S,20170410,16,105874,2,,Albano Olivetti,R,203,FRA,25.3,105969,,,James Marsalek,U,,GBR,25.0,4-6 6-4 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,351,132,922,14
 2017-M-FU-QAT-02A-2017,Qatar F2,Hard,32,S,20170410,17,127157,1,,Daniel Altmaier,R,191,GER,18.5,105427,,Q,Milos Sekulic,R,178,SWE,27.4,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,287,174,1040,10
@@ -4206,7 +4206,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-QAT-02A-2017,Qatar F2,Hard,32,S,20170410,20,126634,8,,Lenny Hampel,U,,AUT,20.2,122222,,,Jonas Merckx,R,,BEL,23.5,7-6(6) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,424,99,603,49
 2017-M-FU-QAT-02A-2017,Qatar F2,Hard,32,S,20170410,21,105938,,,Antoine Escoffier,U,,FRA,25.1,122351,,,Johannes Haerteis,U,,GER,21.1,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,549,59,811,22
 2017-M-FU-QAT-02A-2017,Qatar F2,Hard,32,S,20170410,22,106330,,,Vitaly Kozyukov,R,,RUS,22.8,111192,3,,Lucas Miedler,R,183,AUT,20.8,2-6 6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,647,42,371,123
-2017-M-FU-QAT-02A-2017,Qatar F2,Hard,32,S,20170410,23,106110,6,,Filip Horansky,R,175,SVK,24.2,134472,,,Antoine Bellier,U,196,SUI,20.4,6-3 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,437,93,623,46
+2017-M-FU-QAT-02A-2017,Qatar F2,Hard,32,S,20170410,23,106110,6,,Filip Horansky,R,175,SVK,24.2,134472,,,Antoine Bellier,L,196,SUI,20.4,6-3 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,437,93,623,46
 2017-M-FU-QAT-02A-2017,Qatar F2,Hard,32,S,20170410,24,105874,2,,Albano Olivetti,R,203,FRA,25.3,105043,,Q,Marek Semjan,U,,SVK,29.4,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,351,132,1195,6
 2017-M-FU-QAT-02A-2017,Qatar F2,Hard,32,S,20170410,25,127157,1,,Daniel Altmaier,R,191,GER,18.5,104095,7,,David Guez,R,185,FRA,34.3,6-3 3-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,287,174,430,96
 2017-M-FU-QAT-02A-2017,Qatar F2,Hard,32,S,20170410,26,121531,4,,Mats Moraing,L,198,GER,24.8,126634,8,,Lenny Hampel,U,,AUT,20.2,7-5 6-4,3,QF,,,,,,,,,,,,,,,,,,,,388,115,424,99
@@ -4473,7 +4473,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-QAT-03A-2017,Qatar F3,Hard,32,S,20170417,8,126634,6,,Lenny Hampel,U,,AUT,20.3,144915,,,Mikalai Haliak,R,,BLR,18.6,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,413,103,1186,6
 2017-M-FU-QAT-03A-2017,Qatar F3,Hard,32,S,20170417,9,105938,7,,Antoine Escoffier,U,,FRA,25.1,105043,,,Marek Semjan,U,,SVK,29.4,6-4 4-6 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,520,67,1257,5
 2017-M-FU-QAT-03A-2017,Qatar F3,Hard,32,S,20170417,10,106330,,,Vitaly Kozyukov,R,,RUS,22.8,144935,,,Dalwinder Singh,U,,IND,20.9,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,649,41,799,23
-2017-M-FU-QAT-03A-2017,Qatar F3,Hard,32,S,20170417,11,134472,,,Antoine Bellier,U,196,SUI,20.4,144742,,,Michal Dembek,U,,POL,19.6,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,608,48,934,14
+2017-M-FU-QAT-03A-2017,Qatar F3,Hard,32,S,20170417,11,134472,,,Antoine Bellier,L,196,SUI,20.4,144742,,,Michal Dembek,U,,POL,19.6,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,608,48,934,14
 2017-M-FU-QAT-03A-2017,Qatar F3,Hard,32,S,20170417,12,111192,3,,Lucas Miedler,R,183,AUT,20.8,123857,,Q,Marco Di Maro,U,,ITA,24.7,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,373,123,,
 2017-M-FU-QAT-03A-2017,Qatar F3,Hard,32,S,20170417,13,106138,5,,Yaraslav Shyla,R,193,BLR,24.1,206137,,Q,Andrej Glvac,U,,SVK,20.2,7-6(2) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,415,102,1944,1
 2017-M-FU-QAT-03A-2017,Qatar F3,Hard,32,S,20170417,14,106132,,Q,Toby Martin,R,,GBR,24.1,110528,,Q,Deivids Juksa,R,,LAT,26.3,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1347,4,,
@@ -4484,7 +4484,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-QAT-03A-2017,Qatar F3,Hard,32,S,20170417,19,121531,4,,Mats Moraing,L,198,GER,24.8,137652,,Q,Christophe Nickels,U,,LUX,26.6,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,387,115,,
 2017-M-FU-QAT-03A-2017,Qatar F3,Hard,32,S,20170417,20,126634,6,,Lenny Hampel,U,,AUT,20.3,133224,,,Francesco Ferrari,U,,ITA,19.8,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,413,103,1008,11
 2017-M-FU-QAT-03A-2017,Qatar F3,Hard,32,S,20170417,21,106330,,,Vitaly Kozyukov,R,,RUS,22.8,105938,7,,Antoine Escoffier,U,,FRA,25.1,6-4 1-6 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,649,41,520,67
-2017-M-FU-QAT-03A-2017,Qatar F3,Hard,32,S,20170417,22,111192,3,,Lucas Miedler,R,183,AUT,20.8,134472,,,Antoine Bellier,U,196,SUI,20.4,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,373,123,608,48
+2017-M-FU-QAT-03A-2017,Qatar F3,Hard,32,S,20170417,22,111192,3,,Lucas Miedler,R,183,AUT,20.8,134472,,,Antoine Bellier,L,196,SUI,20.4,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,373,123,608,48
 2017-M-FU-QAT-03A-2017,Qatar F3,Hard,32,S,20170417,23,106138,5,,Yaraslav Shyla,R,193,BLR,24.1,106132,,Q,Toby Martin,R,,GBR,24.1,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,415,102,1347,4
 2017-M-FU-QAT-03A-2017,Qatar F3,Hard,32,S,20170417,24,128034,2,,Hubert Hurkacz,R,196,POL,20.1,132694,,LL,Kris Krawcewicz,U,,AUT,20.9,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,335,140,1867,1
 2017-M-FU-QAT-03A-2017,Qatar F3,Hard,32,S,20170417,25,122222,,,Jonas Merckx,R,,BEL,23.5,127157,1,,Daniel Altmaier,R,191,GER,18.5,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,596,50,268,190
@@ -5670,7 +5670,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-HUN-02A-2017,Hungary F2,Clay,32,S,20170515,29,105226,1,WC,Attila Balazs,R,180,HUN,28.6,105954,3,,Peter Nagy,U,180,HUN,25.1,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,223,231,409,103
 2017-M-FU-HUN-02A-2017,Hungary F2,Clay,32,S,20170515,30,200095,,,Nicola Kuhn,R,185,ESP,17.1,105353,,,Pascal Brunner,R,,AUT,27.9,6-4 4-6 6-2,3,SF,,,,,,,,,,,,,,,,,,,,612,45,988,11
 2017-M-FU-HUN-02A-2017,Hungary F2,Clay,32,S,20170515,31,200095,,,Nicola Kuhn,R,185,ESP,17.1,105226,1,WC,Attila Balazs,R,180,HUN,28.6,6-4 6-0,3,F,,,,,,,,,,,,,,,,,,,,612,45,223,231
-2017-M-FU-ISR-07A-2017,Israel F7,Hard,32,S,20170515,1,134472,,,Antoine Bellier,U,196,SUI,20.5,105909,1,,Sam Barry,R,,IRL,25.2,7-6(6) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,635,42,297,166
+2017-M-FU-ISR-07A-2017,Israel F7,Hard,32,S,20170515,1,134472,,,Antoine Bellier,L,196,SUI,20.5,105909,1,,Sam Barry,R,,IRL,25.2,7-6(6) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,635,42,297,166
 2017-M-FU-ISR-07A-2017,Israel F7,Hard,32,S,20170515,2,111208,,Q,Tim Kopinski,U,,USA,23.9,205971,,WC,Guy Dagan,U,,ISR,17.2,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1635,2,,
 2017-M-FU-ISR-07A-2017,Israel F7,Hard,32,S,20170515,3,122592,,WC,Orel Ovil,R,,ISR,20.5,105314,,,Javier Pulgar Garcia,U,,ESP,28.1,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,916,14,911,14
 2017-M-FU-ISR-07A-2017,Israel F7,Hard,32,S,20170515,4,122248,7,,Peter Kobelt,U,,USA,26.4,126097,,,Cameron Silverman,U,,USA,25.0,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,543,60,889,16
@@ -5686,7 +5686,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-ISR-07A-2017,Israel F7,Hard,32,S,20170515,14,123854,,Q,Luke Johnson,R,,GBR,23.1,206455,,WC,Ido Zonder,U,,ISR,18.1,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1563,2,,
 2017-M-FU-ISR-07A-2017,Israel F7,Hard,32,S,20170515,15,122550,,,Mor Bulis,U,,ISR,21.0,145006,,Q,Nikolay Kolobaev,U,,RUS,19.0,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,850,19,1438,3
 2017-M-FU-ISR-07A-2017,Israel F7,Hard,32,S,20170515,16,122548,2,,Edan Leshem,U,183,ISR,20.1,200164,,,Jonathan Gray,U,,GBR,20.0,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,307,158,835,20
-2017-M-FU-ISR-07A-2017,Israel F7,Hard,32,S,20170515,17,134472,,,Antoine Bellier,U,196,SUI,20.5,111208,,Q,Tim Kopinski,U,,USA,23.9,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,635,42,1635,2
+2017-M-FU-ISR-07A-2017,Israel F7,Hard,32,S,20170515,17,134472,,,Antoine Bellier,L,196,SUI,20.5,111208,,Q,Tim Kopinski,U,,USA,23.9,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,635,42,1635,2
 2017-M-FU-ISR-07A-2017,Israel F7,Hard,32,S,20170515,18,122248,7,,Peter Kobelt,U,,USA,26.4,122592,,WC,Orel Ovil,R,,ISR,20.5,7-6(3) 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,543,60,916,14
 2017-M-FU-ISR-07A-2017,Israel F7,Hard,32,S,20170515,19,144675,,,Baptiste Crepatte,U,,FRA,22.6,126219,,,Joshua Paris,R,,GBR,21.1,3-6 6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,734,29,944,13
 2017-M-FU-ISR-07A-2017,Israel F7,Hard,32,S,20170515,20,106290,5,,Filip Peliwo,R,180,CAN,23.2,106143,,,Dekel Bar,R,,ISR,24.1,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,379,119,703,32
@@ -5694,7 +5694,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-ISR-07A-2017,Israel F7,Hard,32,S,20170515,22,105421,4,,Michal Konecny,L,,CZE,27.5,106424,,,Tal Goldengoren,U,,ISR,21.0,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,366,126,798,23
 2017-M-FU-ISR-07A-2017,Israel F7,Hard,32,S,20170515,23,127326,8,,Ben Patael,U,188,ISR,19.9,123854,,Q,Luke Johnson,R,,GBR,23.1,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,549,60,1563,2
 2017-M-FU-ISR-07A-2017,Israel F7,Hard,32,S,20170515,24,122548,2,,Edan Leshem,U,183,ISR,20.1,122550,,,Mor Bulis,U,,ISR,21.0,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,307,158,850,19
-2017-M-FU-ISR-07A-2017,Israel F7,Hard,32,S,20170515,25,122248,7,,Peter Kobelt,U,,USA,26.4,134472,,,Antoine Bellier,U,196,SUI,20.5,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,543,60,635,42
+2017-M-FU-ISR-07A-2017,Israel F7,Hard,32,S,20170515,25,122248,7,,Peter Kobelt,U,,USA,26.4,134472,,,Antoine Bellier,L,196,SUI,20.5,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,543,60,635,42
 2017-M-FU-ISR-07A-2017,Israel F7,Hard,32,S,20170515,26,106290,5,,Filip Peliwo,R,180,CAN,23.2,144675,,,Baptiste Crepatte,U,,FRA,22.6,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,379,119,734,29
 2017-M-FU-ISR-07A-2017,Israel F7,Hard,32,S,20170515,27,106395,,Q,Igor Smilansky,R,,ISR,22.1,105421,4,,Michal Konecny,L,,CZE,27.5,7-6(4) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,814,21,366,126
 2017-M-FU-ISR-07A-2017,Israel F7,Hard,32,S,20170515,28,122548,2,,Edan Leshem,U,183,ISR,20.1,127326,8,,Ben Patael,U,188,ISR,19.9,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,307,158,549,60
@@ -6085,7 +6085,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-ISR-08A-2017,Israel F8,Hard,32,S,20170522,10,200355,,Q,Amit Gabreal,U,,ISR,17.6,122592,,,Orel Ovil,R,,ISR,20.5,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1219,5,916,14
 2017-M-FU-ISR-08A-2017,Israel F8,Hard,32,S,20170522,11,122550,,,Mor Bulis,U,,ISR,21.0,206455,,WC,Ido Zonder,U,,ISR,18.2,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,831,20,,
 2017-M-FU-ISR-08A-2017,Israel F8,Hard,32,S,20170522,12,122248,3,,Peter Kobelt,U,,USA,26.5,106406,,,Alon Elia,U,,ISR,21.9,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,533,62,944,13
-2017-M-FU-ISR-08A-2017,Israel F8,Hard,32,S,20170522,13,134472,5,,Antoine Bellier,U,196,SUI,20.5,200617,,WC,Emmanuel Luria,U,,ISR,18.8,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,671,36,,
+2017-M-FU-ISR-08A-2017,Israel F8,Hard,32,S,20170522,13,134472,5,,Antoine Bellier,L,196,SUI,20.5,200617,,WC,Emmanuel Luria,U,,ISR,18.8,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,671,36,,
 2017-M-FU-ISR-08A-2017,Israel F8,Hard,32,S,20170522,14,106016,,,Yanais Laurent,R,,FRA,24.9,145006,,Q,Nikolay Kolobaev,U,,RUS,19.0,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,816,21,1433,3
 2017-M-FU-ISR-08A-2017,Israel F8,Hard,32,S,20170522,15,106360,,,Connor Farren,R,,USA,22.6,111208,,LL,Tim Kopinski,U,,USA,23.9,4-6 6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,865,17,1628,2
 2017-M-FU-ISR-08A-2017,Israel F8,Hard,32,S,20170522,16,106290,2,,Filip Peliwo,R,180,CAN,23.3,126097,,,Cameron Silverman,U,,USA,25.0,6-4 2-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,375,121,873,17
@@ -6095,7 +6095,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-ISR-08A-2017,Israel F8,Hard,32,S,20170522,20,106143,8,,Dekel Bar,R,,ISR,24.1,125844,,Q,Yannai Barkai,U,,ISR,20.1,3-6 6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,702,32,1642,2
 2017-M-FU-ISR-08A-2017,Israel F8,Hard,32,S,20170522,21,106156,7,,Sebastien Boltz,R,,FRA,24.1,200355,,Q,Amit Gabreal,U,,ISR,17.6,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,712,31,1219,5
 2017-M-FU-ISR-08A-2017,Israel F8,Hard,32,S,20170522,22,122550,,,Mor Bulis,U,,ISR,21.0,122248,3,,Peter Kobelt,U,,USA,26.5,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,831,20,533,62
-2017-M-FU-ISR-08A-2017,Israel F8,Hard,32,S,20170522,23,106016,,,Yanais Laurent,R,,FRA,24.9,134472,5,,Antoine Bellier,U,196,SUI,20.5,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,816,21,671,36
+2017-M-FU-ISR-08A-2017,Israel F8,Hard,32,S,20170522,23,106016,,,Yanais Laurent,R,,FRA,24.9,134472,5,,Antoine Bellier,L,196,SUI,20.5,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,816,21,671,36
 2017-M-FU-ISR-08A-2017,Israel F8,Hard,32,S,20170522,24,106290,2,,Filip Peliwo,R,180,CAN,23.3,106360,,,Connor Farren,R,,USA,22.6,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,375,121,865,17
 2017-M-FU-ISR-08A-2017,Israel F8,Hard,32,S,20170522,25,105874,1,,Albano Olivetti,R,203,FRA,25.4,200487,,Q,Jordan Hasson,U,,ISR,17.6,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,306,157,1401,3
 2017-M-FU-ISR-08A-2017,Israel F8,Hard,32,S,20170522,26,106143,8,,Dekel Bar,R,,ISR,24.1,125818,,Q,Shahar Elbaz,U,,ISR,20.2,7-6(5) 4-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,702,32,1191,6
@@ -6516,7 +6516,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-SGP-02A-2017,Singapore F2,Hard,32,S,20170529,7,144817,,Q,Marc Andrea Huesler,L,196,SUI,20.9,117359,,,Jake Delaney,U,,AUS,20.0,6-4 1-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,971,12,833,20
 2017-M-FU-SGP-02A-2017,Singapore F2,Hard,32,S,20170529,8,104822,5,,N Vijay Sundar Prashanth,R,,IND,30.5,122207,,WC,Roy Hobbs,U,,SGP,27.7,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,586,52,,
 2017-M-FU-SGP-02A-2017,Singapore F2,Hard,32,S,20170529,9,105072,8,,Sanam Singh,R,173,IND,29.3,122498,,WC,Hao Yuan Ng,R,,SGP,22.3,6-7(2) 7-6(0) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,627,43,,
-2017-M-FU-SGP-02A-2017,Singapore F2,Hard,32,S,20170529,10,200222,,Q,Nicholas S Hu,R,,USA,23.0,134472,,,Antoine Bellier,U,196,SUI,20.6,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,895,15,661,38
+2017-M-FU-SGP-02A-2017,Singapore F2,Hard,32,S,20170529,10,200222,,Q,Nicholas S Hu,R,,USA,23.0,134472,,,Antoine Bellier,L,196,SUI,20.6,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,895,15,661,38
 2017-M-FU-SGP-02A-2017,Singapore F2,Hard,32,S,20170529,11,200127,,Q,Aryan Goveas,U,,IND,18.8,122620,,,Soichiro Moritani,R,,JPN,22.7,6-4 6-7(3) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,919,14,799,23
 2017-M-FU-SGP-02A-2017,Singapore F2,Hard,32,S,20170529,12,105595,3,,Dayne Kelly,U,,AUS,26.8,105670,,,Karunuday Singh,R,,IND,26.5,6-2 1-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,338,140,855,18
 2017-M-FU-SGP-02A-2017,Singapore F2,Hard,32,S,20170529,13,122533,7,,Nam Hoang Ly,R,,VIE,20.2,105335,,,Sho Katayama,U,,JPN,28.0,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,601,49,670,37
@@ -6820,7 +6820,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-SGP-03A-2017,Singapore F3,Hard,32,S,20170605,1,106368,1,,Ramkumar Ramanathan,R,188,IND,22.5,132331,,Q,Jorge Blanco Guadalupe,U,,ESP,19.5,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,269,195,1535,2
 2017-M-FU-SGP-03A-2017,Singapore F3,Hard,32,S,20170605,2,202269,,WC,Justin Barki,U,,INA,17.0,207180,,WC,Shaheed Alam,R,,SGP,18.8,7-5 4-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1429,3,,
 2017-M-FU-SGP-03A-2017,Singapore F3,Hard,32,S,20170605,3,144817,,,Marc Andrea Huesler,L,196,SUI,20.9,144775,,Q,Linh Giang Trinh,,183,VIE,19.8,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,971,12,1638,2
-2017-M-FU-SGP-03A-2017,Singapore F3,Hard,32,S,20170605,4,134472,7,,Antoine Bellier,U,196,SUI,20.6,122498,,WC,Hao Yuan Ng,R,,SGP,22.3,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,661,38,,
+2017-M-FU-SGP-03A-2017,Singapore F3,Hard,32,S,20170605,4,134472,7,,Antoine Bellier,L,196,SUI,20.6,122498,,WC,Hao Yuan Ng,R,,SGP,22.3,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,661,38,,
 2017-M-FU-SGP-03A-2017,Singapore F3,Hard,32,S,20170605,5,122533,4,,Nam Hoang Ly,R,,VIE,20.2,200161,,LL,Taha Kapadia,R,,IND,19.5,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,601,49,1947,1
 2017-M-FU-SGP-03A-2017,Singapore F3,Hard,32,S,20170605,6,200562,,Q,Anirudh Chandrasekar,L,,IND,18.8,121738,,Q,Christian Oliver Lee,R,,MAS,25.1,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1439,3,,
 2017-M-FU-SGP-03A-2017,Singapore F3,Hard,32,S,20170605,7,122620,,,Soichiro Moritani,R,,JPN,22.7,122207,,WC,Roy Hobbs,U,,SGP,27.7,6-2 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,799,23,,
@@ -6834,7 +6834,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-SGP-03A-2017,Singapore F3,Hard,32,S,20170605,15,108717,,,Francis Casey Alcantara,U,,PHI,25.3,132739,,Q,Bruno Mardones,R,,ESP,21.4,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,844,19,1463,3
 2017-M-FU-SGP-03A-2017,Singapore F3,Hard,32,S,20170605,16,144813,,,Benjamin Hannestad,R,,DEN,20.2,105595,2,,Dayne Kelly,U,,AUS,26.8,1-6 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,982,11,338,140
 2017-M-FU-SGP-03A-2017,Singapore F3,Hard,32,S,20170605,17,106368,1,,Ramkumar Ramanathan,R,188,IND,22.5,202269,,WC,Justin Barki,U,,INA,17.0,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,269,195,1429,3
-2017-M-FU-SGP-03A-2017,Singapore F3,Hard,32,S,20170605,18,144817,,,Marc Andrea Huesler,L,196,SUI,20.9,134472,7,,Antoine Bellier,U,196,SUI,20.6,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,971,12,661,38
+2017-M-FU-SGP-03A-2017,Singapore F3,Hard,32,S,20170605,18,144817,,,Marc Andrea Huesler,L,196,SUI,20.9,134472,7,,Antoine Bellier,L,196,SUI,20.6,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,971,12,661,38
 2017-M-FU-SGP-03A-2017,Singapore F3,Hard,32,S,20170605,19,122533,4,,Nam Hoang Ly,R,,VIE,20.2,200562,,Q,Anirudh Chandrasekar,L,,IND,18.8,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,601,49,1439,3
 2017-M-FU-SGP-03A-2017,Singapore F3,Hard,32,S,20170605,20,104781,8,,Yuichi Ito,R,,JPN,30.8,122620,,,Soichiro Moritani,R,,JPN,22.7,7-6(4) 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,751,28,799,23
 2017-M-FU-SGP-03A-2017,Singapore F3,Hard,32,S,20170605,21,110757,,,Jacob Grills,U,,AUS,21.9,105525,,,Dane Propoggia,R,,AUS,27.0,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1012,10,1158,6
@@ -7414,7 +7414,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-USA-17A-2017,USA F17,Hard,32,S,20170612,6,200598,,,Isaiah Strode,R,,USA,19.7,202108,,,Tyler Mercier,R,,USA,25.9,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1378,3,1217,5
 2017-M-FU-USA-17A-2017,USA F17,Hard,32,S,20170612,7,106302,,,Andrew Harris,R,183,AUS,23.2,126106,,Q,Ryan Peniston,U,,GBR,21.5,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1094,7,,
 2017-M-FU-USA-17A-2017,USA F17,Hard,32,S,20170612,8,105281,6,,Eric Quigley,U,185,USA,28.3,202333,,,Keegan Smith,U,,USA,18.9,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,403,102,1002,10
-2017-M-FU-USA-17A-2017,USA F17,Hard,32,S,20170612,9,200587,,Q,Brandon Holt,U,,USA,19.1,126152,7,,Ryan Shane,U,193,USA,23.1,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1749,1,501,69
+2017-M-FU-USA-17A-2017,USA F17,Hard,32,S,20170612,9,200587,,Q,Brandon Holt,R,,USA,19.1,126152,7,,Ryan Shane,U,193,USA,23.1,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1749,1,501,69
 2017-M-FU-USA-17A-2017,USA F17,Hard,32,S,20170612,10,127339,,,Borna Gojo,R,196,CRO,19.2,126552,,,Jonathan Chang,U,,USA,25.8,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,784,23,1073,8
 2017-M-FU-USA-17A-2017,USA F17,Hard,32,S,20170612,11,110536,,,Kevin King,U,190,USA,26.2,105509,,,Andrew Carter,U,,USA,27.2,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,612,43,1128,7
 2017-M-FU-USA-17A-2017,USA F17,Hard,32,S,20170612,12,106328,3,,Christian Harrison,R,178,USA,23.0,124069,,Q,Korey Lovett,R,,USA,21.1,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,349,129,,
@@ -7426,13 +7426,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-USA-17A-2017,USA F17,Hard,32,S,20170612,18,111582,5,,Jared Hiltzik,U,,USA,22.9,105334,,,Luis David Martinez,U,,VEN,28.0,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,388,108,1068,8
 2017-M-FU-USA-17A-2017,USA F17,Hard,32,S,20170612,19,200598,,,Isaiah Strode,R,,USA,19.7,200228,,Q,Felix Corwin,U,,USA,21.0,0-6 6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1378,3,1925,1
 2017-M-FU-USA-17A-2017,USA F17,Hard,32,S,20170612,20,106302,,,Andrew Harris,R,183,AUS,23.2,105281,6,,Eric Quigley,U,185,USA,28.3,4-6 7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1094,7,403,102
-2017-M-FU-USA-17A-2017,USA F17,Hard,32,S,20170612,21,200587,,Q,Brandon Holt,U,,USA,19.1,127339,,,Borna Gojo,R,196,CRO,19.2,7-5 6-7(4) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1749,1,784,23
+2017-M-FU-USA-17A-2017,USA F17,Hard,32,S,20170612,21,200587,,Q,Brandon Holt,R,,USA,19.1,127339,,,Borna Gojo,R,196,CRO,19.2,7-5 6-7(4) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1749,1,784,23
 2017-M-FU-USA-17A-2017,USA F17,Hard,32,S,20170612,22,110536,,,Kevin King,U,190,USA,26.2,106328,3,,Christian Harrison,R,178,USA,23.0,W/O,3,R16,,,,,,,,,,,,,,,,,,,,612,43,349,129
 2017-M-FU-USA-17A-2017,USA F17,Hard,32,S,20170612,23,110539,8,,Wil Spencer,U,,USA,27.7,104765,,Q,Damon Gooch,R,,RSA,30.9,4-6 6-3 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,541,60,1383,3
 2017-M-FU-USA-17A-2017,USA F17,Hard,32,S,20170612,24,104070,,,Jesse Witten,R,178,USA,34.6,132134,,Q,Mitchell Harper,U,,AUS,19.7,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1335,3,,
 2017-M-FU-USA-17A-2017,USA F17,Hard,32,S,20170612,25,111153,,,Christopher Eubanks,R,201,USA,21.1,111582,5,,Jared Hiltzik,U,,USA,22.9,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,621,42,388,108
 2017-M-FU-USA-17A-2017,USA F17,Hard,32,S,20170612,26,106302,,,Andrew Harris,R,183,AUS,23.2,200598,,,Isaiah Strode,R,,USA,19.7,6-1 7-5,3,QF,,,,,,,,,,,,,,,,,,,,1094,7,1378,3
-2017-M-FU-USA-17A-2017,USA F17,Hard,32,S,20170612,27,110536,,,Kevin King,U,190,USA,26.2,200587,,Q,Brandon Holt,U,,USA,19.1,7-5 6-2,3,QF,,,,,,,,,,,,,,,,,,,,612,43,1749,1
+2017-M-FU-USA-17A-2017,USA F17,Hard,32,S,20170612,27,110536,,,Kevin King,U,190,USA,26.2,200587,,Q,Brandon Holt,R,,USA,19.1,7-5 6-2,3,QF,,,,,,,,,,,,,,,,,,,,612,43,1749,1
 2017-M-FU-USA-17A-2017,USA F17,Hard,32,S,20170612,28,110539,8,,Wil Spencer,U,,USA,27.7,104070,,,Jesse Witten,R,178,USA,34.6,6-4 7-6(1),3,QF,,,,,,,,,,,,,,,,,,,,541,60,1335,3
 2017-M-FU-USA-17A-2017,USA F17,Hard,32,S,20170612,29,111153,,,Christopher Eubanks,R,201,USA,21.1,106302,,,Andrew Harris,R,183,AUS,23.2,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,621,42,1094,7
 2017-M-FU-USA-17A-2017,USA F17,Hard,32,S,20170612,30,110536,,,Kevin King,U,190,USA,26.2,110539,8,,Wil Spencer,U,,USA,27.7,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,612,43,541,60
@@ -8093,7 +8093,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-USA-19A-2017,USA F19,Hard,32,S,20170619,3,106302,,PR,Andrew Harris,R,183,AUS,23.2,125801,,Q,Luis Valero,U,,COL,21.0,7-6(8) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1094,7,1749,1
 2017-M-FU-USA-19A-2017,USA F19,Hard,32,S,20170619,4,104907,8,,Jose Rubin Statham,R,183,NZL,30.1,200336,,WC,Trent Bryde,R,180,USA,17.8,6-4 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,340,137,,
 2017-M-FU-USA-19A-2017,USA F19,Hard,32,S,20170619,5,110539,,,Wil Spencer,U,,USA,27.7,126845,3,,Max Purcell,R,185,AUS,19.2,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,535,60,285,172
-2017-M-FU-USA-19A-2017,USA F19,Hard,32,S,20170619,6,200587,,Q,Brandon Holt,U,,USA,19.2,202333,,,Keegan Smith,U,,USA,18.9,7-6(2) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1749,1,1001,10
+2017-M-FU-USA-19A-2017,USA F19,Hard,32,S,20170619,6,200587,,Q,Brandon Holt,R,,USA,19.2,202333,,,Keegan Smith,U,,USA,18.9,7-6(2) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1749,1,1001,10
 2017-M-FU-USA-19A-2017,USA F19,Hard,32,S,20170619,7,126205,,,Tommy Paul,R,185,USA,20.0,202414,,WC,Alexandre Rotsaert,R,,USA,17.6,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,400,104,1281,4
 2017-M-FU-USA-19A-2017,USA F19,Hard,32,S,20170619,8,105229,5,,Philip Bester,R,188,CAN,28.7,127339,,,Borna Gojo,R,196,CRO,19.3,3-6 6-0 7-5,3,R32,,,,,,,,,,,,,,,,,,,,347,132,783,23
 2017-M-FU-USA-19A-2017,USA F19,Hard,32,S,20170619,9,105281,,,Eric Quigley,U,185,USA,28.3,136440,6,,Dominik Koepfer,L,180,GER,23.1,4-6 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,409,99,348,132
@@ -8106,7 +8106,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-USA-19A-2017,USA F19,Hard,32,S,20170619,16,126152,,,Ryan Shane,U,193,USA,23.1,105512,2,,Alexander Sarkissian,R,191,USA,27.2,7-6(6) 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,497,69,270,185
 2017-M-FU-USA-19A-2017,USA F19,Hard,32,S,20170619,17,105572,1,,Austin Krajicek,L,188,USA,27.0,111586,,,Deiton Baughman,U,,USA,21.1,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,261,194,,
 2017-M-FU-USA-19A-2017,USA F19,Hard,32,S,20170619,18,104907,8,,Jose Rubin Statham,R,183,NZL,30.1,106302,,PR,Andrew Harris,R,183,AUS,23.2,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,340,137,1094,7
-2017-M-FU-USA-19A-2017,USA F19,Hard,32,S,20170619,19,110539,,,Wil Spencer,U,,USA,27.7,200587,,Q,Brandon Holt,U,,USA,19.2,W/O,3,R16,,,,,,,,,,,,,,,,,,,,535,60,1749,1
+2017-M-FU-USA-19A-2017,USA F19,Hard,32,S,20170619,19,110539,,,Wil Spencer,U,,USA,27.7,200587,,Q,Brandon Holt,R,,USA,19.2,W/O,3,R16,,,,,,,,,,,,,,,,,,,,535,60,1749,1
 2017-M-FU-USA-19A-2017,USA F19,Hard,32,S,20170619,20,126205,,,Tommy Paul,R,185,USA,20.0,105229,5,,Philip Bester,R,188,CAN,28.7,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,400,104,347,132
 2017-M-FU-USA-19A-2017,USA F19,Hard,32,S,20170619,21,111153,,,Christopher Eubanks,R,201,USA,21.1,105281,,,Eric Quigley,U,185,USA,28.3,7-5 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,618,42,409,99
 2017-M-FU-USA-19A-2017,USA F19,Hard,32,S,20170619,22,200588,,Q,Riley Smith,U,,USA,20.0,111570,,Q,Ronnie Schneider,U,,USA,22.7,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1644,1,,
@@ -9002,7 +9002,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-FRA-14A-2017,France F14,Clay,32,S,20170703,13,111512,,,Johan Sebastien Tatlot,U,,FRA,21.2,105161,8,,Yann Marti,R,173,SUI,29.0,6-3 RET,3,R32,,,,,,,,,,,,,,,,,,,,859,18,420,97
 2017-M-FU-FRA-14A-2017,France F14,Clay,32,S,20170703,14,126505,,Q,Antoine Walch,U,,FRA,23.6,131910,,Q,Lucas Bouquet,R,,FRA,19.9,6-2 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1477,3,1487,3
 2017-M-FU-FRA-14A-2017,France F14,Clay,32,S,20170703,15,200006,,Q,Hugo Pontico,U,,FRA,19.7,105329,,Q,Thibault Venturino,U,,FRA,28.1,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,2092,1,1660,2
-2017-M-FU-FRA-14A-2017,France F14,Clay,32,S,20170703,16,105747,2,,Karim Mohamed Maamoun,R,175,EGY,26.2,134472,,,Antoine Bellier,U,196,SUI,20.7,4-6 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,287,176,721,30
+2017-M-FU-FRA-14A-2017,France F14,Clay,32,S,20170703,16,105747,2,,Karim Mohamed Maamoun,R,175,EGY,26.2,134472,,,Antoine Bellier,L,196,SUI,20.7,4-6 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,287,176,721,30
 2017-M-FU-FRA-14A-2017,France F14,Clay,32,S,20170703,17,106005,1,,Constant Lestienne,R,180,FRA,25.1,121411,,,Moez Echargui,R,180,TUN,24.4,6-3 4-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,227,236,526,67
 2017-M-FU-FRA-14A-2017,France F14,Clay,32,S,20170703,18,106296,,,Gregoire Barrere,R,183,FRA,23.3,200635,,Q,Nathan Seateun,U,,FRA,20.0,4-6 6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,564,56,1660,2
 2017-M-FU-FRA-14A-2017,France F14,Clay,32,S,20170703,19,105871,3,,Sekou Bangoura,R,183,USA,25.6,131912,,,Ronan Joncour,L,,FRA,20.4,6-3 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,309,156,813,22
@@ -9403,7 +9403,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-BEL-04A-2017,Belgium F4,Clay,32,S,20170710,11,202324,,Q,Maxence Broville,R,,FRA,18.4,134816,,,Jakob Johansson Holm,U,,SWE,22.1,7-5 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,1594,2,1189,6
 2017-M-FU-BEL-04A-2017,Belgium F4,Clay,32,S,20170710,12,144656,4,,Corentin Denolly,L,,FRA,20.0,200615,,,Alexei Popyrin,R,196,AUS,17.9,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,450,86,1053,9
 2017-M-FU-BEL-04A-2017,Belgium F4,Clay,32,S,20170710,13,105415,7,,Maxime Tabatruong,R,,FRA,27.7,122427,,Q,Simon Navarro,U,,CHI,25.4,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,600,49,1228,5
-2017-M-FU-BEL-04A-2017,Belgium F4,Clay,32,S,20170710,14,126107,,,Michael Geerts,R,178,BEL,22.4,134472,,,Antoine Bellier,U,196,SUI,20.7,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,697,32,720,30
+2017-M-FU-BEL-04A-2017,Belgium F4,Clay,32,S,20170710,14,126107,,,Michael Geerts,R,178,BEL,22.4,134472,,,Antoine Bellier,L,196,SUI,20.7,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,697,32,720,30
 2017-M-FU-BEL-04A-2017,Belgium F4,Clay,32,S,20170710,15,144841,,Q,Christian Sigsgaard,R,,DEN,20.3,200376,,WC,Victor Poncelet,U,,BEL,19.5,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1674,2
 2017-M-FU-BEL-04A-2017,Belgium F4,Clay,32,S,20170710,16,105178,2,,Alexis Musialek,U,,FRA,29.0,133603,,,Benjamin Dhoe,R,,BEL,20.8,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,421,97,1344,4
 2017-M-FU-BEL-04A-2017,Belgium F4,Clay,32,S,20170710,17,124186,1,Q,Alexandre Muller,R,183,FRA,20.4,105635,,,Jorge Montero,R,,CHI,26.8,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,317,152,876,17
@@ -9985,7 +9985,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-FRA-16A-2017,France F16,Clay,32,S,20170717,4,144675,8,,Baptiste Crepatte,U,,FRA,22.8,200404,,,Hugo Daubias,U,,FRA,21.2,6-1 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,577,51,1317,4
 2017-M-FU-FRA-16A-2017,France F16,Clay,32,S,20170717,5,111512,,,Johan Sebastien Tatlot,U,,FRA,21.3,105178,3,,Alexis Musialek,U,,FRA,29.0,6-1 4-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,701,31,401,102
 2017-M-FU-FRA-16A-2017,France F16,Clay,32,S,20170717,6,111807,,,Simeon Rossier,L,,SUI,22.5,200445,,,Maxence Beauge,U,,FRA,17.1,7-6(7) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,936,14,1317,4
-2017-M-FU-FRA-16A-2017,France F16,Clay,32,S,20170717,7,105844,,,Joffrey De Schepper,U,,FRA,25.8,134472,,,Antoine Bellier,U,196,SUI,20.7,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1090,8,714,30
+2017-M-FU-FRA-16A-2017,France F16,Clay,32,S,20170717,7,105844,,,Joffrey De Schepper,U,,FRA,25.8,134472,,,Antoine Bellier,L,196,SUI,20.7,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1090,8,714,30
 2017-M-FU-FRA-16A-2017,France F16,Clay,32,S,20170717,8,126276,6,WC,Thomas Brechemier,U,,FRA,21.0,202079,,Q,Louroi Martinez,U,,SUI,18.7,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,475,79,,
 2017-M-FU-FRA-16A-2017,France F16,Clay,32,S,20170717,9,144656,5,,Corentin Denolly,L,,FRA,20.1,131918,,Q,Paul Gueye,U,,FRA,22.1,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,445,88,,
 2017-M-FU-FRA-16A-2017,France F16,Clay,32,S,20170717,10,200712,,Q,Guillaume Laurent,U,,FRA,21.9,125793,,Q,Vitalii Shcherba,U,,UKR,20.3,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,2082,1
@@ -10329,7 +10329,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-USA-24A-2017,USA F24,Hard,32,S,20170717,7,202173,,Q,Jeffrey Schorsch,U,,USA,22.1,106300,,,Fares Ghasya,U,,LBA,23.3,1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,1106,8
 2017-M-FU-USA-24A-2017,USA F24,Hard,32,S,20170717,8,105447,7,,Dennis Nevolo,R,,USA,27.5,122474,,Q,Guy Orly Iradukunda,U,,BDI,21.3,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,496,72,1783,1
 2017-M-FU-USA-24A-2017,USA F24,Hard,32,S,20170717,9,144821,8,,Genaro Alberto Olivieri,U,,ARG,18.9,127036,,,Aron Hiltzik,U,,USA,21.2,4-6 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,612,44,758,26
-2017-M-FU-USA-24A-2017,USA F24,Hard,32,S,20170717,10,200587,,WC,Brandon Holt,U,,USA,19.2,200588,,WC,Riley Smith,U,,USA,20.1,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1219,5,1290,4
+2017-M-FU-USA-24A-2017,USA F24,Hard,32,S,20170717,10,200587,,WC,Brandon Holt,R,,USA,19.2,200588,,WC,Riley Smith,U,,USA,20.1,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1219,5,1290,4
 2017-M-FU-USA-24A-2017,USA F24,Hard,32,S,20170717,11,110750,,PR,Eric Johnson,R,,USA,24.4,104765,,Q,Damon Gooch,R,,RSA,31.0,6-3 4-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1183,6,1389,3
 2017-M-FU-USA-24A-2017,USA F24,Hard,32,S,20170717,12,111582,4,,Jared Hiltzik,U,,USA,23.0,126177,,,Strong Kirchheimer,U,,USA,22.2,6-1 3-6 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,418,96,1025,10
 2017-M-FU-USA-24A-2017,USA F24,Hard,32,S,20170717,13,111765,6,,Evan Song,U,,USA,25.1,206499,,WC,Aleksandar Kovacevic,U,,USA,18.8,7-6(4) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,544,59,,
@@ -10340,16 +10340,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-USA-24A-2017,USA F24,Hard,32,S,20170717,18,106175,,,Ricardo Rodriguez,R,189,VEN,24.2,200219,,,John Mcnally,U,,USA,18.7,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,935,14,944,13
 2017-M-FU-USA-24A-2017,USA F24,Hard,32,S,20170717,19,136440,3,,Dominik Koepfer,L,180,GER,23.2,106335,,Q,Alexios Halebian,L,,USA,23.1,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,335,137,651,38
 2017-M-FU-USA-24A-2017,USA F24,Hard,32,S,20170717,20,202173,,Q,Jeffrey Schorsch,U,,USA,22.1,105447,7,,Dennis Nevolo,R,,USA,27.5,5-7 7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,496,72
-2017-M-FU-USA-24A-2017,USA F24,Hard,32,S,20170717,21,200587,,WC,Brandon Holt,U,,USA,19.2,144821,8,,Genaro Alberto Olivieri,U,,ARG,18.9,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1219,5,612,44
+2017-M-FU-USA-24A-2017,USA F24,Hard,32,S,20170717,21,200587,,WC,Brandon Holt,R,,USA,19.2,144821,8,,Genaro Alberto Olivieri,U,,ARG,18.9,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1219,5,612,44
 2017-M-FU-USA-24A-2017,USA F24,Hard,32,S,20170717,22,110750,,PR,Eric Johnson,R,,USA,24.4,111582,4,,Jared Hiltzik,U,,USA,23.0,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1183,6,418,96
 2017-M-FU-USA-24A-2017,USA F24,Hard,32,S,20170717,23,200220,,WC,Ezekiel Clark,R,,USA,18.9,111765,6,,Evan Song,U,,USA,25.1,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1282,4,544,59
 2017-M-FU-USA-24A-2017,USA F24,Hard,32,S,20170717,24,104907,2,,Jose Rubin Statham,R,183,NZL,30.2,144973,,,Santiago Fa Rodriguez Taverna,R,,ARG,18.0,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,317,148,833,20
 2017-M-FU-USA-24A-2017,USA F24,Hard,32,S,20170717,25,106175,,,Ricardo Rodriguez,R,189,VEN,24.2,106327,,Q,Harrison Adams,R,,USA,23.1,7-5 6-4,3,QF,,,,,,,,,,,,,,,,,,,,935,14,1502,2
 2017-M-FU-USA-24A-2017,USA F24,Hard,32,S,20170717,26,136440,3,,Dominik Koepfer,L,180,GER,23.2,202173,,Q,Jeffrey Schorsch,U,,USA,22.1,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,335,137,,
-2017-M-FU-USA-24A-2017,USA F24,Hard,32,S,20170717,27,200587,,WC,Brandon Holt,U,,USA,19.2,110750,,PR,Eric Johnson,R,,USA,24.4,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,1219,5,1183,6
+2017-M-FU-USA-24A-2017,USA F24,Hard,32,S,20170717,27,200587,,WC,Brandon Holt,R,,USA,19.2,110750,,PR,Eric Johnson,R,,USA,24.4,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,1219,5,1183,6
 2017-M-FU-USA-24A-2017,USA F24,Hard,32,S,20170717,28,104907,2,,Jose Rubin Statham,R,183,NZL,30.2,200220,,WC,Ezekiel Clark,R,,USA,18.9,6-3 7-6(2),3,QF,,,,,,,,,,,,,,,,,,,,317,148,1282,4
 2017-M-FU-USA-24A-2017,USA F24,Hard,32,S,20170717,29,136440,3,,Dominik Koepfer,L,180,GER,23.2,106175,,,Ricardo Rodriguez,R,189,VEN,24.2,6-0 6-3,3,SF,,,,,,,,,,,,,,,,,,,,335,137,935,14
-2017-M-FU-USA-24A-2017,USA F24,Hard,32,S,20170717,30,104907,2,,Jose Rubin Statham,R,183,NZL,30.2,200587,,WC,Brandon Holt,U,,USA,19.2,6-3 6-7(5) 6-3,3,SF,,,,,,,,,,,,,,,,,,,,317,148,1219,5
+2017-M-FU-USA-24A-2017,USA F24,Hard,32,S,20170717,30,104907,2,,Jose Rubin Statham,R,183,NZL,30.2,200587,,WC,Brandon Holt,R,,USA,19.2,6-3 6-7(5) 6-3,3,SF,,,,,,,,,,,,,,,,,,,,317,148,1219,5
 2017-M-FU-USA-24A-2017,USA F24,Hard,32,S,20170717,31,136440,3,,Dominik Koepfer,L,180,GER,23.2,104907,2,,Jose Rubin Statham,R,183,NZL,30.2,6-7(5) 6-2 7-5,3,F,,,,,,,,,,,,,,,,,,,,335,137,317,148
 2017-M-FU-AUT-04A-2017,Austria F4,Clay,32,S,20170724,1,110602,1,WC,Dennis Novak,R,183,AUT,23.9,200372,,Q,Alen Rogic Hadzalic,R,,CRO,20.2,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,355,127,1676,1
 2017-M-FU-AUT-04A-2017,Austria F4,Clay,32,S,20170724,2,200332,,,Felipe Martinez Sarrasague,U,,ARG,20.3,200218,,,Mate Valkusz,R,183,HUN,18.9,6-3 3-6 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,1049,9,1010,10
@@ -11536,7 +11536,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-BLR-01A-2017,Belarus F1,Hard,32,S,20170807,5,124112,4,,Tomas Papik,U,,CZE,23.3,132299,,Q,Saidalo Saidkarimov,U,,UZB,19.8,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,531,63,1155,7
 2017-M-FU-BLR-01A-2017,Belarus F1,Hard,32,S,20170807,6,125844,,Q,Yannai Barkai,U,,ISR,20.3,200456,,WC,Martin Borisiouk,U,,BLR,17.0,6-2 6-7(2) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1674,2,,
 2017-M-FU-BLR-01A-2017,Belarus F1,Hard,32,S,20170807,7,200455,,WC,Aliaksandr Liaonenka,U,,BLR,18.3,106016,,,Yanais Laurent,R,,FRA,25.1,1-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,796,23
-2017-M-FU-BLR-01A-2017,Belarus F1,Hard,32,S,20170807,8,109737,8,,Markos Kalovelonis,R,191,GRE,23.2,134457,,Q,Nicolas Moreno De Alboran,U,,ESP,20.0,3-6 7-6(6) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,621,44,1678,1
+2017-M-FU-BLR-01A-2017,Belarus F1,Hard,32,S,20170807,8,109737,8,,Markos Kalovelonis,R,191,GRE,23.2,134457,,Q,Nicolas Moreno De Alboran,R,,USA,20.0,3-6 7-6(6) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,621,44,1678,1
 2017-M-FU-BLR-01A-2017,Belarus F1,Hard,32,S,20170807,9,122321,6,,Marat Deviatiarov,R,,UKR,23.3,106106,,,George Tsivadze,U,191,GEO,24.5,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,571,53,835,20
 2017-M-FU-BLR-01A-2017,Belarus F1,Hard,32,S,20170807,10,126739,,,Leny Mitjana,R,,FRA,23.0,106244,,Q,Oliver Golding,R,188,GBR,23.8,6-0 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,805,22,,
 2017-M-FU-BLR-01A-2017,Belarus F1,Hard,32,S,20170807,11,200164,,,Jonathan Gray,U,,GBR,20.3,206144,,WC,Maksim Zubkou,U,,BLR,19.4,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,799,23,,
@@ -11722,7 +11722,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-ROU-09A-2017,Romania F9,Clay,32,S,20170807,5,126102,4,,Nicolae Frunza,R,185,ROU,19.7,123991,,Q,Alessio Giannuzzi,U,,ITA,25.4,6-1 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,529,64,,
 2017-M-FU-ROU-09A-2017,Romania F9,Clay,32,S,20170807,6,123832,,Q,Bogdan Ionut Apostol,U,,ROU,21.5,124063,,,Santiago Maresca,U,,URU,22.8,6-2 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1174,6,966,13
 2017-M-FU-ROU-09A-2017,Romania F9,Clay,32,S,20170807,7,202150,,WC,Dan Alexandru Tomescu,U,,ROU,18.3,202210,,Q,Edris Fetisleam,U,,ROU,18.0,6-7(3) 6-3 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,1945,1,1589,2
-2017-M-FU-ROU-09A-2017,Romania F9,Clay,32,S,20170807,8,134472,,,Antoine Bellier,U,196,SUI,20.8,105508,8,,Vasile Antonescu,R,,ROU,27.3,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,734,30,652,39
+2017-M-FU-ROU-09A-2017,Romania F9,Clay,32,S,20170807,8,134472,,,Antoine Bellier,L,196,SUI,20.8,105508,8,,Vasile Antonescu,R,,ROU,27.3,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,734,30,652,39
 2017-M-FU-ROU-09A-2017,Romania F9,Clay,32,S,20170807,9,207331,,WC,Vladislav Melnic,U,,ROU,18.1,105156,5,,Federico Zeballos,U,185,BOL,29.1,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1562,2,492,76
 2017-M-FU-ROU-09A-2017,Romania F9,Clay,32,S,20170807,10,200096,,,Dragos Nicolae Madaras,L,,ROU,19.9,133291,,,Ryota Tanuma,U,,JPN,21.8,1-6 6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,708,32,939,14
 2017-M-FU-ROU-09A-2017,Romania F9,Clay,32,S,20170807,11,103574,,Q,Teodor Dacian Craciun,R,,ROU,37.1,105331,,,Petru Alexandru Luncanu,L,185,ROU,28.2,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1033,10,752,28
@@ -11734,16 +11734,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-ROU-09A-2017,Romania F9,Clay,32,S,20170807,17,106198,1,,Hugo Dellien,R,180,BOL,24.1,106389,,,Andrei Stefan Apostol,R,,ROU,22.4,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,319,152,1359,4
 2017-M-FU-ROU-09A-2017,Romania F9,Clay,32,S,20170807,18,105899,7,,Martin Cuevas,R,188,URU,25.5,145001,,,Evan Furness,R,,FRA,18.9,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,525,65,639,41
 2017-M-FU-ROU-09A-2017,Romania F9,Clay,32,S,20170807,19,123832,,Q,Bogdan Ionut Apostol,U,,ROU,21.5,126102,4,,Nicolae Frunza,R,185,ROU,19.7,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1174,6,529,64
-2017-M-FU-ROU-09A-2017,Romania F9,Clay,32,S,20170807,20,134472,,,Antoine Bellier,U,196,SUI,20.8,202150,,WC,Dan Alexandru Tomescu,U,,ROU,18.3,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,734,30,1945,1
+2017-M-FU-ROU-09A-2017,Romania F9,Clay,32,S,20170807,20,134472,,,Antoine Bellier,L,196,SUI,20.8,202150,,WC,Dan Alexandru Tomescu,U,,ROU,18.3,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,734,30,1945,1
 2017-M-FU-ROU-09A-2017,Romania F9,Clay,32,S,20170807,21,200096,,,Dragos Nicolae Madaras,L,,ROU,19.9,207331,,WC,Vladislav Melnic,U,,ROU,18.1,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,708,32,1562,2
 2017-M-FU-ROU-09A-2017,Romania F9,Clay,32,S,20170807,22,106021,3,,Dragos Dima,R,180,ROU,25.1,103574,,Q,Teodor Dacian Craciun,R,,ROU,37.1,6-2 5-7 6-2,3,R16,,,,,,,,,,,,,,,,,,,,485,78,1033,10
 2017-M-FU-ROU-09A-2017,Romania F9,Clay,32,S,20170807,23,105415,6,,Maxime Tabatruong,R,,FRA,27.8,121497,,,Mircea Alexandru Jecan,L,,ROU,29.1,6-0 6-0,3,R16,,,,,,,,,,,,,,,,,,,,518,67,962,13
 2017-M-FU-ROU-09A-2017,Romania F9,Clay,32,S,20170807,24,104494,2,,Adrian Ungur,R,178,ROU,32.5,200465,,Q,Sem Verbeek,L,,NED,23.3,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,449,87,1108,8
 2017-M-FU-ROU-09A-2017,Romania F9,Clay,32,S,20170807,25,106198,1,,Hugo Dellien,R,180,BOL,24.1,105899,7,,Martin Cuevas,R,188,URU,25.5,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,319,152,525,65
-2017-M-FU-ROU-09A-2017,Romania F9,Clay,32,S,20170807,26,134472,,,Antoine Bellier,U,196,SUI,20.8,123832,,Q,Bogdan Ionut Apostol,U,,ROU,21.5,6-1 7-5,3,QF,,,,,,,,,,,,,,,,,,,,734,30,1174,6
+2017-M-FU-ROU-09A-2017,Romania F9,Clay,32,S,20170807,26,134472,,,Antoine Bellier,L,196,SUI,20.8,123832,,Q,Bogdan Ionut Apostol,U,,ROU,21.5,6-1 7-5,3,QF,,,,,,,,,,,,,,,,,,,,734,30,1174,6
 2017-M-FU-ROU-09A-2017,Romania F9,Clay,32,S,20170807,27,106021,3,,Dragos Dima,R,180,ROU,25.1,200096,,,Dragos Nicolae Madaras,L,,ROU,19.9,6-1 6-0,3,QF,,,,,,,,,,,,,,,,,,,,485,78,708,32
 2017-M-FU-ROU-09A-2017,Romania F9,Clay,32,S,20170807,28,105415,6,,Maxime Tabatruong,R,,FRA,27.8,104494,2,,Adrian Ungur,R,178,ROU,32.5,7-6(11) 3-0 RET,3,QF,,,,,,,,,,,,,,,,,,,,518,67,449,87
-2017-M-FU-ROU-09A-2017,Romania F9,Clay,32,S,20170807,29,106198,1,,Hugo Dellien,R,180,BOL,24.1,134472,,,Antoine Bellier,U,196,SUI,20.8,6-0 7-5,3,SF,,,,,,,,,,,,,,,,,,,,319,152,734,30
+2017-M-FU-ROU-09A-2017,Romania F9,Clay,32,S,20170807,29,106198,1,,Hugo Dellien,R,180,BOL,24.1,134472,,,Antoine Bellier,L,196,SUI,20.8,6-0 7-5,3,SF,,,,,,,,,,,,,,,,,,,,319,152,734,30
 2017-M-FU-ROU-09A-2017,Romania F9,Clay,32,S,20170807,30,106021,3,,Dragos Dima,R,180,ROU,25.1,105415,6,,Maxime Tabatruong,R,,FRA,27.8,6-7(7) 6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,485,78,518,67
 2017-M-FU-ROU-09A-2017,Romania F9,Clay,32,S,20170807,31,106198,1,,Hugo Dellien,R,180,BOL,24.1,106021,3,,Dragos Dima,R,180,ROU,25.1,6-2 6-4,3,F,,,,,,,,,,,,,,,,,,,,319,152,485,78
 2017-M-FU-RUS-06A-2017,Russia F6,Clay,32,S,20170807,1,123809,1,,Ivan Gakhov,L,,RUS,20.7,144703,,,Ivan Davydov,R,,RUS,20.8,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,312,155,767,27
@@ -12124,7 +12124,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-POR-16A-2017,Portugal F16,Hard,32,S,20170814,4,105314,,,Javier Pulgar Garcia,U,,ESP,28.3,132852,5,,Pablo Vivero Gonzalez,U,,ESP,22.3,5-7 6-3 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,954,13,522,66
 2017-M-FU-POR-16A-2017,Portugal F16,Hard,32,S,20170814,5,108739,,Q,Wilfredo Gonzalez,R,188,GUA,24.6,206447,,LL,Daniel Batista,U,,POR,18.6,3-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,976,12,1556,2
 2017-M-FU-POR-16A-2017,Portugal F16,Hard,32,S,20170814,6,122369,,,Bernardo Saraiva,R,,POR,24.0,108772,,Q,Julius Tverijonas,R,188,LTU,23.1,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,726,30,1556,2
-2017-M-FU-POR-16A-2017,Portugal F16,Hard,32,S,20170814,7,106280,,Q,Maxime Tchoutakian,U,,FRA,23.6,134457,,Q,Nicolas Moreno De Alboran,U,,ESP,20.0,6-2 6-7(1) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1061,9,1678,1
+2017-M-FU-POR-16A-2017,Portugal F16,Hard,32,S,20170814,7,106280,,Q,Maxime Tchoutakian,U,,FRA,23.6,134457,,Q,Nicolas Moreno De Alboran,R,,USA,20.0,6-2 6-7(1) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1061,9,1678,1
 2017-M-FU-POR-16A-2017,Portugal F16,Hard,32,S,20170814,8,106355,7,,Jonathan Kanar,U,,FRA,22.9,106255,,,Shane Vinsant,R,,USA,23.8,4-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,545,58,689,34
 2017-M-FU-POR-16A-2017,Portugal F16,Hard,32,S,20170814,9,106322,,,David Perez Sanz,U,,ESP,23.2,105452,8,,Francesco Vilardo,R,,ITA,27.6,6-2 6-7(0) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,680,35,636,43
 2017-M-FU-POR-16A-2017,Portugal F16,Hard,32,S,20170814,10,144805,,LL,Clement Larriere,R,,FRA,20.2,200222,,,Nicholas S Hu,R,,USA,23.3,7-5 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,1131,7,656,39
@@ -12275,7 +12275,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-ESP-25A-2017,Spain F25,Clay,32,S,20170814,31,105789,1,,Marc Giner,R,,ESP,26.1,122425,,,Rafael Matos,U,,BRA,21.6,6-2 4-6 7-6(6),3,F,,,,,,,,,,,,,,,,,,,,387,113,813,22
 2017-M-FU-SUI-03A-2017,Switzerland F3,Clay,32,S,20170814,1,105586,1,,Alexandar Lazov,U,183,BUL,27.0,202144,,Q,Jake Douglas,U,,USA,21.2,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,389,112,,
 2017-M-FU-SUI-03A-2017,Switzerland F3,Clay,32,S,20170814,2,144817,,WC,Marc Andrea Huesler,L,196,SUI,21.1,134473,,Q,Nico Borter,U,,SUI,21.1,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,891,16,,
-2017-M-FU-SUI-03A-2017,Switzerland F3,Clay,32,S,20170814,3,134472,,,Antoine Bellier,U,196,SUI,20.8,200259,,Q,Ugo Blanchet,U,,FRA,18.6,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,728,30,,
+2017-M-FU-SUI-03A-2017,Switzerland F3,Clay,32,S,20170814,3,134472,,,Antoine Bellier,L,196,SUI,20.8,200259,,Q,Ugo Blanchet,U,,FRA,18.6,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,728,30,,
 2017-M-FU-SUI-03A-2017,Switzerland F3,Clay,32,S,20170814,4,132575,,,Raphael Baltensperger,R,,SUI,19.6,126627,7,,Johan Nikles,R,170,SUI,20.3,4-6 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,840,20,691,34
 2017-M-FU-SUI-03A-2017,Switzerland F3,Clay,32,S,20170814,5,202440,,Q,Marco Miceli,U,,ITA,18.7,105778,4,,Tobias Simon,R,,GER,26.2,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1184,6,494,73
 2017-M-FU-SUI-03A-2017,Switzerland F3,Clay,32,S,20170814,6,200013,,,Mirko Martinez,U,,SUI,19.3,138652,,,Hugo Voljacques,R,,FRA,24.6,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1052,10,1020,11
@@ -12290,14 +12290,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-SUI-03A-2017,Switzerland F3,Clay,32,S,20170814,15,207605,,WC,Jakub Paul,R,,SUI,18.3,200347,,WC,Luca Keist,U,,SUI,19.3,1-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1876,1
 2017-M-FU-SUI-03A-2017,Switzerland F3,Clay,32,S,20170814,16,106110,2,,Filip Horansky,R,175,SVK,24.5,207606,,Q,Yannik Steinegger,R,,SUI,16.9,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,426,98,,
 2017-M-FU-SUI-03A-2017,Switzerland F3,Clay,32,S,20170814,17,105586,1,,Alexandar Lazov,U,183,BUL,27.0,144817,,WC,Marc Andrea Huesler,L,196,SUI,21.1,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,389,112,891,16
-2017-M-FU-SUI-03A-2017,Switzerland F3,Clay,32,S,20170814,18,134472,,,Antoine Bellier,U,196,SUI,20.8,132575,,,Raphael Baltensperger,R,,SUI,19.6,3-6 6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,728,30,840,20
+2017-M-FU-SUI-03A-2017,Switzerland F3,Clay,32,S,20170814,18,134472,,,Antoine Bellier,L,196,SUI,20.8,132575,,,Raphael Baltensperger,R,,SUI,19.6,3-6 6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,728,30,840,20
 2017-M-FU-SUI-03A-2017,Switzerland F3,Clay,32,S,20170814,19,202440,,Q,Marco Miceli,U,,ITA,18.7,200013,,,Mirko Martinez,U,,SUI,19.3,6-2 6-7(5) 7-6(1),3,R16,,,,,,,,,,,,,,,,,,,,1184,6,1052,10
 2017-M-FU-SUI-03A-2017,Switzerland F3,Clay,32,S,20170814,20,121779,8,,Lukas Ollert,R,,GER,24.7,132325,,,Andrew Ruppli,L,,SUI,22.4,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,710,32,1084,9
 2017-M-FU-SUI-03A-2017,Switzerland F3,Clay,32,S,20170814,21,123851,,,Davide Galoppini,R,,ITA,22.8,133933,,,Thomas Yaka Kofi Setodji,U,,TOG,21.8,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,711,32,950,13
 2017-M-FU-SUI-03A-2017,Switzerland F3,Clay,32,S,20170814,22,105787,3,,Hiroyasu Ehara,R,,JPN,26.0,200445,,Q,Maxence Beauge,U,,FRA,17.1,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,482,77,1325,4
 2017-M-FU-SUI-03A-2017,Switzerland F3,Clay,32,S,20170814,23,121817,6,,Juan Manuel Benitez Chavarriaga,U,,COL,21.8,106337,,,Loic Perret,U,,FRA,23.1,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,646,40,1011,11
 2017-M-FU-SUI-03A-2017,Switzerland F3,Clay,32,S,20170814,24,106110,2,,Filip Horansky,R,175,SVK,24.5,207605,,WC,Jakub Paul,R,,SUI,18.3,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,426,98,,
-2017-M-FU-SUI-03A-2017,Switzerland F3,Clay,32,S,20170814,25,105586,1,,Alexandar Lazov,U,183,BUL,27.0,134472,,,Antoine Bellier,U,196,SUI,20.8,6-0 6-3,3,QF,,,,,,,,,,,,,,,,,,,,389,112,728,30
+2017-M-FU-SUI-03A-2017,Switzerland F3,Clay,32,S,20170814,25,105586,1,,Alexandar Lazov,U,183,BUL,27.0,134472,,,Antoine Bellier,L,196,SUI,20.8,6-0 6-3,3,QF,,,,,,,,,,,,,,,,,,,,389,112,728,30
 2017-M-FU-SUI-03A-2017,Switzerland F3,Clay,32,S,20170814,26,121779,8,,Lukas Ollert,R,,GER,24.7,202440,,Q,Marco Miceli,U,,ITA,18.7,6-4 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,710,32,1184,6
 2017-M-FU-SUI-03A-2017,Switzerland F3,Clay,32,S,20170814,27,105787,3,,Hiroyasu Ehara,R,,JPN,26.0,123851,,,Davide Galoppini,R,,ITA,22.8,0-6 7-5 6-0,3,QF,,,,,,,,,,,,,,,,,,,,482,77,711,32
 2017-M-FU-SUI-03A-2017,Switzerland F3,Clay,32,S,20170814,28,106110,2,,Filip Horansky,R,175,SVK,24.5,121817,6,,Juan Manuel Benitez Chavarriaga,U,,COL,21.8,6-1 7-5,3,QF,,,,,,,,,,,,,,,,,,,,426,98,646,40
@@ -12719,7 +12719,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-SUI-04A-2017,Switzerland F4,Clay,32,S,20170821,10,111752,,,Raleigh Smith,U,,USA,25.8,123893,,,Lukas Ruepke,U,,GER,24.1,6-3 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,723,31,792,24
 2017-M-FU-SUI-04A-2017,Switzerland F4,Clay,32,S,20170821,11,144817,,,Marc Andrea Huesler,L,196,SUI,21.1,126627,,,Johan Nikles,R,170,SUI,20.4,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,897,16,691,34
 2017-M-FU-SUI-04A-2017,Switzerland F4,Clay,32,S,20170821,12,105787,4,,Hiroyasu Ehara,R,,JPN,26.0,200329,,WC,Remy Bertola,R,,SUI,18.9,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,483,77,1945,1
-2017-M-FU-SUI-04A-2017,Switzerland F4,Clay,32,S,20170821,13,104847,7,,Adrien Bossel,L,,SUI,30.6,134472,,,Antoine Bellier,U,196,SUI,20.8,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,554,56,672,36
+2017-M-FU-SUI-04A-2017,Switzerland F4,Clay,32,S,20170821,13,104847,7,,Adrien Bossel,L,,SUI,30.6,134472,,,Antoine Bellier,L,196,SUI,20.8,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,554,56,672,36
 2017-M-FU-SUI-04A-2017,Switzerland F4,Clay,32,S,20170821,14,207605,,WC,Jakub Paul,R,,SUI,18.4,202277,,WC,Damien Wenger,U,,SUI,17.4,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1777,1
 2017-M-FU-SUI-04A-2017,Switzerland F4,Clay,32,S,20170821,15,122352,,,Christoph Negritu,R,,GER,23.4,134473,,Q,Nico Borter,U,,SUI,21.1,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,640,41,,
 2017-M-FU-SUI-04A-2017,Switzerland F4,Clay,32,S,20170821,16,125796,2,,Remi Boutillier,U,,FRA,27.5,200007,,Q,Quentin Folliot,U,,FRA,18.6,4-6 6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,413,101,2037,1
@@ -13089,7 +13089,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-ESP-27B-2017,Spain F27,Clay,32,S,20170828,8,200221,6,,Alejandro Davidovich Fokina,R,183,ESP,18.2,105758,,,Juan Lizariturry,U,,ESP,26.3,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,570,53,669,36
 2017-M-FU-ESP-27B-2017,Spain F27,Clay,32,S,20170828,9,106354,8,,Eduard Esteve Lobato,R,,ESP,22.9,122425,,,Rafael Matos,U,,BRA,21.6,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,624,45,659,38
 2017-M-FU-ESP-27B-2017,Spain F27,Clay,32,S,20170828,10,105278,,,Alexis Klegou,U,,BEN,28.5,200581,,,Sylvester Emmanuel,U,,NGR,19.4,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1246,5,1165,6
-2017-M-FU-ESP-27B-2017,Spain F27,Clay,32,S,20170828,11,110778,,,Joao Menezes,R,185,BRA,20.6,134457,,Q,Nicolas Moreno De Alboran,U,,ESP,20.1,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,697,33,1871,1
+2017-M-FU-ESP-27B-2017,Spain F27,Clay,32,S,20170828,11,110778,,,Joao Menezes,R,185,BRA,20.6,134457,,Q,Nicolas Moreno De Alboran,R,,USA,20.1,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,697,33,1871,1
 2017-M-FU-ESP-27B-2017,Spain F27,Clay,32,S,20170828,12,126652,4,,Jay Clarke,R,183,GBR,19.0,126502,,WC,Luis Diego Chavez Villalpando,U,,ESP,21.8,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,312,158,1452,3
 2017-M-FU-ESP-27B-2017,Spain F27,Clay,32,S,20170828,13,125854,7,,Jaume Pla Malfeito,U,,ESP,22.2,106147,,,Adria Mas Mascolo,U,,ESP,24.4,6-1 5-7 3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,622,46,1013,11
 2017-M-FU-ESP-27B-2017,Spain F27,Clay,32,S,20170828,14,122554,,,David Jorda Sanchis,U,,ESP,23.2,132741,,Q,Albert Roglan,U,,ESP,18.7,7-5 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,780,25,1434,3
@@ -13118,7 +13118,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-SUI-05A-2017,Switzerland F5,Clay,32,S,20170828,6,121641,,WC,Jacob Kahoun,U,,SUI,25.3,121322,,Q,Patrick Mayer,R,,AUT,27.1,3-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,2042,1
 2017-M-FU-SUI-05A-2017,Switzerland F5,Clay,32,S,20170828,7,202079,,Q,Louroi Martinez,U,,SUI,18.9,106012,,,Kunal Anand,U,,IND,25.2,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,1201,6
 2017-M-FU-SUI-05A-2017,Switzerland F5,Clay,32,S,20170828,8,121817,7,,Juan Manuel Benitez Chavarriaga,U,,COL,21.9,110773,,,Issei Okamura,U,,JPN,25.2,5-7 7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,634,42,941,14
-2017-M-FU-SUI-05A-2017,Switzerland F5,Clay,32,S,20170828,9,134472,8,,Antoine Bellier,U,196,SUI,20.8,202125,,Q,Benjamin Pietri,U,,FRA,21.0,6-2 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,672,36,1338,4
+2017-M-FU-SUI-05A-2017,Switzerland F5,Clay,32,S,20170828,9,134472,8,,Antoine Bellier,L,196,SUI,20.8,202125,,Q,Benjamin Pietri,U,,FRA,21.0,6-2 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,672,36,1338,4
 2017-M-FU-SUI-05A-2017,Switzerland F5,Clay,32,S,20170828,10,144817,,,Marc Andrea Huesler,L,196,SUI,21.1,207664,,WC,Luca Staeheli,U,,SUI,17.4,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,914,15,,
 2017-M-FU-SUI-05A-2017,Switzerland F5,Clay,32,S,20170828,11,126627,,,Johan Nikles,R,170,SUI,20.4,124067,,,Vullnet Tashi,R,,SUI,24.6,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,692,34,1042,10
 2017-M-FU-SUI-05A-2017,Switzerland F5,Clay,32,S,20170828,12,144656,3,,Corentin Denolly,L,,FRA,20.2,207606,,WC,Yannik Steinegger,R,,SUI,16.9,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,452,86,,
@@ -13130,7 +13130,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-SUI-05A-2017,Switzerland F5,Clay,32,S,20170828,18,144675,6,,Baptiste Crepatte,U,,FRA,22.9,200329,,Q,Remy Bertola,R,,SUI,18.9,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,578,52,1951,1
 2017-M-FU-SUI-05A-2017,Switzerland F5,Clay,32,S,20170828,19,105787,4,,Hiroyasu Ehara,R,,JPN,26.1,121641,,WC,Jacob Kahoun,U,,SUI,25.3,7-6(4) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,463,83,,
 2017-M-FU-SUI-05A-2017,Switzerland F5,Clay,32,S,20170828,20,121817,7,,Juan Manuel Benitez Chavarriaga,U,,COL,21.9,202079,,Q,Louroi Martinez,U,,SUI,18.9,7-6(7) 5-7 6-1,3,R16,,,,,,,,,,,,,,,,,,,,634,42,,
-2017-M-FU-SUI-05A-2017,Switzerland F5,Clay,32,S,20170828,21,144817,,,Marc Andrea Huesler,L,196,SUI,21.1,134472,8,,Antoine Bellier,U,196,SUI,20.8,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,914,15,672,36
+2017-M-FU-SUI-05A-2017,Switzerland F5,Clay,32,S,20170828,21,144817,,,Marc Andrea Huesler,L,196,SUI,21.1,134472,8,,Antoine Bellier,L,196,SUI,20.8,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,914,15,672,36
 2017-M-FU-SUI-05A-2017,Switzerland F5,Clay,32,S,20170828,22,144656,3,,Corentin Denolly,L,,FRA,20.2,126627,,,Johan Nikles,R,170,SUI,20.4,1-6 6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,452,86,692,34
 2017-M-FU-SUI-05A-2017,Switzerland F5,Clay,32,S,20170828,23,202359,,,Marvin Moeller,U,178,GER,18.6,206118,,Q,Bastien Kolly,U,,SUI,19.3,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1128,7,,
 2017-M-FU-SUI-05A-2017,Switzerland F5,Clay,32,S,20170828,24,125796,2,,Remi Boutillier,U,,FRA,27.6,121779,,,Lukas Ollert,R,,GER,24.7,6-4 3-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,408,101,707,33
@@ -13358,7 +13358,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-FRA-18A-2017,France F18,Hard,32,S,20170904,30,105100,,,Edward Corrie,U,183,GBR,29.5,144972,7,,Geoffrey Blancaneaux,R,180,FRA,19.0,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,376,116,331,147
 2017-M-FU-FRA-18A-2017,France F18,Hard,32,S,20170904,31,200005,,WC,Ugo Humbert,L,188,FRA,19.1,105100,,,Edward Corrie,U,183,GBR,29.5,7-5 2-6 7-6(4),3,F,,,,,,,,,,,,,,,,,,,,717,32,376,116
 2017-M-FU-HUN-08A-2017,Hungary F8,Clay,32,S,20170904,1,144645,1,,Zdenek Kolar,R,185,CZE,20.8,126540,,PR,Peter Vajda,U,,SVK,21.3,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,241,214,1447,3
-2017-M-FU-HUN-08A-2017,Hungary F8,Clay,32,S,20170904,2,206678,,Q,Marcell Bartakovics,U,,HUN,19.8,207686,,Q,Alexander Shevchenko,U,,RUS,16.7,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2017-M-FU-HUN-08A-2017,Hungary F8,Clay,32,S,20170904,2,206678,,Q,Marcell Bartakovics,U,,HUN,19.8,207686,,Q,Alexander Shevchenko,R,,RUS,16.7,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2017-M-FU-HUN-08A-2017,Hungary F8,Clay,32,S,20170904,3,132204,,,Matvey Khomentovskiy,R,,RUS,23.0,122592,,,Orel Ovil,R,,ISR,20.8,4-6 6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1146,7,871,18
 2017-M-FU-HUN-08A-2017,Hungary F8,Clay,32,S,20170904,4,106022,,,Matej Sabanov,R,,CRO,25.1,127760,7,,Lukas Klein,R,193,SVK,19.4,6-3 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,1040,10,721,31
 2017-M-FU-HUN-08A-2017,Hungary F8,Clay,32,S,20170904,5,200372,,LL,Alen Rogic Hadzalic,R,,CRO,20.3,126335,3,,Sora Fukuda,L,,JPN,19.9,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1871,1,412,100
@@ -13485,7 +13485,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-ESP-28A-2017,Spain F28,Clay,32,S,20170904,2,102828,,WC,Roberto Menendez,R,,ESP,41.1,123940,,Q,Ramon Del Olmo Diaz,U,,ESP,21.6,7-5 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2017-M-FU-ESP-28A-2017,Spain F28,Clay,32,S,20170904,3,133997,,,Sergi Perez Contri,U,,ESP,19.6,207673,,WC,Antonio Muniz Hidalgo,R,,ESP,17.6,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1190,6,,
 2017-M-FU-ESP-28A-2017,Spain F28,Clay,32,S,20170904,4,105515,7,,Jordi Samper Montana,U,,ESP,27.3,126340,,,Viktor Durasovic,R,185,NOR,20.4,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,532,61,559,56
-2017-M-FU-ESP-28A-2017,Spain F28,Clay,32,S,20170904,5,134472,,,Antoine Bellier,U,196,SUI,20.8,106162,3,,Franco Agamenone,L,,ITA,24.3,6-3 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,672,36,410,101
+2017-M-FU-ESP-28A-2017,Spain F28,Clay,32,S,20170904,5,134472,,,Antoine Bellier,L,196,SUI,20.8,106162,3,,Franco Agamenone,L,,ITA,24.3,6-3 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,672,36,410,101
 2017-M-FU-ESP-28A-2017,Spain F28,Clay,32,S,20170904,6,122554,,,David Jorda Sanchis,U,,ESP,23.2,126737,,,Alberto Romero De Avila Senise,U,,ESP,19.7,3-6 7-6(3) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,780,25,730,31
 2017-M-FU-ESP-28A-2017,Spain F28,Clay,32,S,20170904,7,132741,,Q,Albert Roglan,U,,ESP,18.7,105629,,,Rafael Mazon Hernandez,U,,ESP,26.9,6-2 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,1434,3,1365,3
 2017-M-FU-ESP-28A-2017,Spain F28,Clay,32,S,20170904,8,106354,,,Eduard Esteve Lobato,R,,ESP,22.9,125821,8,,Miguel Semmler,R,,ESP,20.3,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,624,45,551,57
@@ -13499,14 +13499,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-ESP-28A-2017,Spain F28,Clay,32,S,20170904,16,105894,2,,Javier Marti,R,,ESP,25.6,202307,,Q,Alejandro Garcia,U,,ESP,15.7,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,329,148,,
 2017-M-FU-ESP-28A-2017,Spain F28,Clay,32,S,20170904,17,126652,1,,Jay Clarke,R,183,GBR,19.0,102828,,WC,Roberto Menendez,R,,ESP,41.1,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,312,158,,
 2017-M-FU-ESP-28A-2017,Spain F28,Clay,32,S,20170904,18,133997,,,Sergi Perez Contri,U,,ESP,19.6,105515,7,,Jordi Samper Montana,U,,ESP,27.3,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1190,6,532,61
-2017-M-FU-ESP-28A-2017,Spain F28,Clay,32,S,20170904,19,134472,,,Antoine Bellier,U,196,SUI,20.8,122554,,,David Jorda Sanchis,U,,ESP,23.2,6-2 1-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,672,36,780,25
+2017-M-FU-ESP-28A-2017,Spain F28,Clay,32,S,20170904,19,134472,,,Antoine Bellier,L,196,SUI,20.8,122554,,,David Jorda Sanchis,U,,ESP,23.2,6-2 1-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,672,36,780,25
 2017-M-FU-ESP-28A-2017,Spain F28,Clay,32,S,20170904,20,106354,,,Eduard Esteve Lobato,R,,ESP,22.9,132741,,Q,Albert Roglan,U,,ESP,18.7,6-4 1-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,624,45,1434,3
 2017-M-FU-ESP-28A-2017,Spain F28,Clay,32,S,20170904,21,105682,6,,Alessandro Petrone,R,,ITA,26.6,132739,,,Bruno Mardones,R,,ESP,21.6,W/O,3,R16,,,,,,,,,,,,,,,,,,,,531,61,1264,5
 2017-M-FU-ESP-28A-2017,Spain F28,Clay,32,S,20170904,22,110778,,,Joao Menezes,R,185,BRA,20.6,105283,4,WC,Gerard Granollers,R,180,ESP,28.5,4-6 6-2 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,697,33,419,99
 2017-M-FU-ESP-28A-2017,Spain F28,Clay,32,S,20170904,23,105300,5,,Sergio Gutierrez Ferrol,R,,ESP,28.4,106147,,,Adria Mas Mascolo,U,,ESP,24.4,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,520,63,1013,11
 2017-M-FU-ESP-28A-2017,Spain F28,Clay,32,S,20170904,24,105894,2,,Javier Marti,R,,ESP,25.6,206227,,Q,Tomas Almeida,U,,POR,18.3,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,329,148,,
 2017-M-FU-ESP-28A-2017,Spain F28,Clay,32,S,20170904,25,126652,1,,Jay Clarke,R,183,GBR,19.0,133997,,,Sergi Perez Contri,U,,ESP,19.6,6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,312,158,1190,6
-2017-M-FU-ESP-28A-2017,Spain F28,Clay,32,S,20170904,26,106354,,,Eduard Esteve Lobato,R,,ESP,22.9,134472,,,Antoine Bellier,U,196,SUI,20.8,7-5 6-0,3,QF,,,,,,,,,,,,,,,,,,,,624,45,672,36
+2017-M-FU-ESP-28A-2017,Spain F28,Clay,32,S,20170904,26,106354,,,Eduard Esteve Lobato,R,,ESP,22.9,134472,,,Antoine Bellier,L,196,SUI,20.8,7-5 6-0,3,QF,,,,,,,,,,,,,,,,,,,,624,45,672,36
 2017-M-FU-ESP-28A-2017,Spain F28,Clay,32,S,20170904,27,110778,,,Joao Menezes,R,185,BRA,20.6,105682,6,,Alessandro Petrone,R,,ITA,26.6,6-0 6-2,3,QF,,,,,,,,,,,,,,,,,,,,697,33,531,61
 2017-M-FU-ESP-28A-2017,Spain F28,Clay,32,S,20170904,28,105894,2,,Javier Marti,R,,ESP,25.6,105300,5,,Sergio Gutierrez Ferrol,R,,ESP,28.4,6-3 5-7 7-6(4),3,QF,,,,,,,,,,,,,,,,,,,,329,148,520,63
 2017-M-FU-ESP-28A-2017,Spain F28,Clay,32,S,20170904,29,106354,,,Eduard Esteve Lobato,R,,ESP,22.9,126652,1,,Jay Clarke,R,183,GBR,19.0,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,624,45,312,158
@@ -14660,7 +14660,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-ESP-31A-2017,Spain F31,Clay,32,S,20170925,31,105300,,,Sergio Gutierrez Ferrol,R,,ESP,28.5,105731,4,,Steven Diez,R,180,CAN,26.5,6-3 7-6(5),3,F,,,,,,,,,,,,,,,,,,,,503,67,341,141
 2017-M-FU-SWE-03A-2017,Sweden F3,Hard,32,S,20170925,1,134868,,,Tallon Griekspoor,R,188,NED,21.2,126752,,Q,Edvin Gustafsson,R,,SWE,22.5,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,298,165,,
 2017-M-FU-SWE-03A-2017,Sweden F3,Hard,32,S,20170925,2,202382,,,Simen Sunde Bratholm,R,,NOR,18.5,122554,,,David Jorda Sanchis,U,,ESP,23.2,6-2 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1290,4,696,33
-2017-M-FU-SWE-03A-2017,Sweden F3,Hard,32,S,20170925,3,134472,,,Antoine Bellier,U,196,SUI,20.9,105690,,,Kevin Griekspoor,R,,NED,26.7,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,718,30,811,21
+2017-M-FU-SWE-03A-2017,Sweden F3,Hard,32,S,20170925,3,134472,,,Antoine Bellier,L,196,SUI,20.9,105690,,,Kevin Griekspoor,R,,NED,26.7,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,718,30,811,21
 2017-M-FU-SWE-03A-2017,Sweden F3,Hard,32,S,20170925,4,110778,8,,Joao Menezes,R,185,BRA,20.7,134767,,,Sam Taylor,U,,SWE,20.2,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,520,63,,
 2017-M-FU-SWE-03A-2017,Sweden F3,Hard,32,S,20170925,5,132741,,Q,Albert Roglan,U,,ESP,18.8,105436,,,Markus Eriksson,R,188,SWE,27.8,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1334,4,332,145
 2017-M-FU-SWE-03A-2017,Sweden F3,Hard,32,S,20170925,6,111193,,,Alexander Vasilenko,R,,RUS,22.5,105876,,,Patrik Brydolf,R,,SWE,25.8,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,523,62,904,15
@@ -14675,7 +14675,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-SWE-03A-2017,Sweden F3,Hard,32,S,20170925,15,106022,,,Matej Sabanov,R,,CRO,25.2,106064,,WC,Lucas Renard,R,,SWE,24.9,4-6 7-6(4) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,945,13,1510,2
 2017-M-FU-SWE-03A-2017,Sweden F3,Hard,32,S,20170925,16,104970,2,,Matteo Viola,R,188,ITA,30.2,105503,,,George Von Massow,R,,GER,27.5,6-0 4-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,284,173,691,33
 2017-M-FU-SWE-03A-2017,Sweden F3,Hard,32,S,20170925,17,134868,,,Tallon Griekspoor,R,188,NED,21.2,202382,,,Simen Sunde Bratholm,R,,NOR,18.5,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,298,165,1290,4
-2017-M-FU-SWE-03A-2017,Sweden F3,Hard,32,S,20170925,18,110778,8,,Joao Menezes,R,185,BRA,20.7,134472,,,Antoine Bellier,U,196,SUI,20.9,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,520,63,718,30
+2017-M-FU-SWE-03A-2017,Sweden F3,Hard,32,S,20170925,18,110778,8,,Joao Menezes,R,185,BRA,20.7,134472,,,Antoine Bellier,L,196,SUI,20.9,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,520,63,718,30
 2017-M-FU-SWE-03A-2017,Sweden F3,Hard,32,S,20170925,19,111193,,,Alexander Vasilenko,R,,RUS,22.5,132741,,Q,Albert Roglan,U,,ESP,18.8,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,523,62,1334,4
 2017-M-FU-SWE-03A-2017,Sweden F3,Hard,32,S,20170925,20,104847,,,Adrien Bossel,L,,SUI,30.7,126760,,,Christian Samuelsson,U,,SWE,21.7,6-4 4-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,530,60,2007,1
 2017-M-FU-SWE-03A-2017,Sweden F3,Hard,32,S,20170925,21,106395,,,Igor Smilansky,R,,ISR,22.5,106049,,,Ivan Sabanov,R,,CRO,25.0,3-6 7-6(5) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,564,53,2042,1
@@ -14756,7 +14756,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-USA-32A-2017,USA F32,Hard,32,S,20170925,3,200598,,WC,Isaiah Strode,R,,USA,20.0,111752,,,Raleigh Smith,U,,USA,25.9,3-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1030,10,734,28
 2017-M-FU-USA-32A-2017,USA F32,Hard,32,S,20170925,4,126152,5,,Ryan Shane,U,193,USA,23.4,202144,,,Jake Douglas,U,,USA,21.3,6-7(3) 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,547,56,1534,2
 2017-M-FU-USA-32A-2017,USA F32,Hard,32,S,20170925,5,126239,,Q,Arthur Rinderknech,R,196,FRA,22.1,111765,,,Evan Song,U,,USA,25.3,7-6(5) 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1160,6,542,57
-2017-M-FU-USA-32A-2017,USA F32,Hard,32,S,20170925,6,200587,,,Brandon Holt,U,,USA,19.4,123768,,,Collin Altamirano,R,188,USA,21.8,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,937,13,851,18
+2017-M-FU-USA-32A-2017,USA F32,Hard,32,S,20170925,6,200587,,,Brandon Holt,R,,USA,19.4,123768,,,Collin Altamirano,R,188,USA,21.8,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,937,13,851,18
 2017-M-FU-USA-32A-2017,USA F32,Hard,32,S,20170925,7,111809,,,Henry Craig,R,,USA,22.9,132663,,Q,Patrick Kawka,R,,USA,25.0,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,902,15,,
 2017-M-FU-USA-32A-2017,USA F32,Hard,32,S,20170925,8,126135,8,,Jumpei Yamasaki,R,,JPN,20.2,105855,,,Mousheg Hovhannisyan,U,,USA,25.9,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,684,34,1251,5
 2017-M-FU-USA-32A-2017,USA F32,Hard,32,S,20170925,9,202165,,Q,Alberto Lim,R,,PHI,18.3,106352,,,Matias Franco Descotte,R,,ARG,23.0,6-2 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,634,42
@@ -14769,7 +14769,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-USA-32A-2017,USA F32,Hard,32,S,20170925,16,111761,2,,Benjamin Lock,R,198,ZIM,24.5,207773,,,Gavin Spencer,R,,USA,18.2,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,470,80,,
 2017-M-FU-USA-32A-2017,USA F32,Hard,32,S,20170925,17,126107,,,Michael Geerts,R,178,BEL,22.6,144907,,Q,Adrian Oetzbach,U,,GER,19.9,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,977,12,1408,3
 2017-M-FU-USA-32A-2017,USA F32,Hard,32,S,20170925,18,126152,5,,Ryan Shane,U,193,USA,23.4,200598,,WC,Isaiah Strode,R,,USA,20.0,7-6(1) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,547,56,1030,10
-2017-M-FU-USA-32A-2017,USA F32,Hard,32,S,20170925,19,126239,,Q,Arthur Rinderknech,R,196,FRA,22.1,200587,,,Brandon Holt,U,,USA,19.4,2-6 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1160,6,937,13
+2017-M-FU-USA-32A-2017,USA F32,Hard,32,S,20170925,19,126239,,Q,Arthur Rinderknech,R,196,FRA,22.1,200587,,,Brandon Holt,R,,USA,19.4,2-6 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1160,6,937,13
 2017-M-FU-USA-32A-2017,USA F32,Hard,32,S,20170925,20,111809,,,Henry Craig,R,,USA,22.9,126135,8,,Jumpei Yamasaki,R,,JPN,20.2,3-6 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,902,15,684,34
 2017-M-FU-USA-32A-2017,USA F32,Hard,32,S,20170925,21,127108,,,Igor Ribeiro Marcondes,U,,BRA,20.2,202165,,Q,Alberto Lim,R,,PHI,18.3,6-2 3-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,871,17,,
 2017-M-FU-USA-32A-2017,USA F32,Hard,32,S,20170925,22,106264,,,Karue Sell,R,,BRA,23.8,126177,,,Strong Kirchheimer,U,,USA,22.4,6-4 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,797,22,1176,6
@@ -15001,7 +15001,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-ESP-32A-2017,Spain F32,Clay,32,S,20171002,31,105731,,,Steven Diez,R,180,CAN,26.5,125821,,,Miguel Semmler,R,,ESP,20.4,6-2 6-0,3,F,,,,,,,,,,,,,,,,,,,,338,141,591,48
 2017-M-FU-SWE-04A-2017,Sweden F4,Hard,32,S,20171002,1,105132,,,Jurgen Zopp,R,190,EST,29.5,106391,,,Adrian Bodmer,R,180,SUI,22.5,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,191,286,503,67
 2017-M-FU-SWE-04A-2017,Sweden F4,Hard,32,S,20171002,2,127326,,,Ben Patael,U,188,ISR,20.3,104543,,,Pablo Figueroa,R,,SWE,32.4,6-7(5) 7-6(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,602,46,,
-2017-M-FU-SWE-04A-2017,Sweden F4,Hard,32,S,20171002,3,134472,,,Antoine Bellier,U,196,SUI,20.9,110596,,,Fred Simonsson,R,188,SWE,22.8,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,718,30,752,26
+2017-M-FU-SWE-04A-2017,Sweden F4,Hard,32,S,20171002,3,134472,,,Antoine Bellier,L,196,SUI,20.9,110596,,,Fred Simonsson,R,188,SWE,22.8,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,718,30,752,26
 2017-M-FU-SWE-04A-2017,Sweden F4,Hard,32,S,20171002,4,144707,5,WC,Mikael Ymer,R,183,SWE,19.0,106395,,,Igor Smilansky,R,,ISR,22.5,3-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,385,108,563,53
 2017-M-FU-SWE-04A-2017,Sweden F4,Hard,32,S,20171002,5,110778,,,Joao Menezes,R,185,BRA,20.7,104970,,,Matteo Viola,R,188,ITA,30.2,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,524,63,281,173
 2017-M-FU-SWE-04A-2017,Sweden F4,Hard,32,S,20171002,6,200418,,,Karl Friberg,R,,SWE,18.5,144807,,,Kenneth Raisma,L,,EST,19.4,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,941,13,715,30
@@ -15016,14 +15016,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-SWE-04A-2017,Sweden F4,Hard,32,S,20171002,15,105690,,,Kevin Griekspoor,R,,NED,26.7,202242,,,Dusty H Boyer,U,,USA,24.2,0-6 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,809,21,1061,9
 2017-M-FU-SWE-04A-2017,Sweden F4,Hard,32,S,20171002,16,104847,,,Adrien Bossel,L,,SUI,30.7,117356,2,,Cem Ilkel,R,185,TUR,22.1,7-6(5) 6-7(2) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,520,64,275,177
 2017-M-FU-SWE-04A-2017,Sweden F4,Hard,32,S,20171002,17,105132,,,Jurgen Zopp,R,190,EST,29.5,127326,,,Ben Patael,U,188,ISR,20.3,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,191,286,602,46
-2017-M-FU-SWE-04A-2017,Sweden F4,Hard,32,S,20171002,18,134472,,,Antoine Bellier,U,196,SUI,20.9,144707,5,WC,Mikael Ymer,R,183,SWE,19.0,4-6 6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,718,30,385,108
+2017-M-FU-SWE-04A-2017,Sweden F4,Hard,32,S,20171002,18,134472,,,Antoine Bellier,L,196,SUI,20.9,144707,5,WC,Mikael Ymer,R,183,SWE,19.0,4-6 6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,718,30,385,108
 2017-M-FU-SWE-04A-2017,Sweden F4,Hard,32,S,20171002,19,110778,,,Joao Menezes,R,185,BRA,20.7,200418,,,Karl Friberg,R,,SWE,18.5,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,524,63,941,13
 2017-M-FU-SWE-04A-2017,Sweden F4,Hard,32,S,20171002,20,105876,,Q,Patrik Brydolf,R,,SWE,25.8,105299,7,,Dzmitry Zhyrmont,U,,BLR,28.5,6-3 3-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,900,15,347,134
 2017-M-FU-SWE-04A-2017,Sweden F4,Hard,32,S,20171002,21,200325,,Q,Emil Ruusuvuori,R,188,FIN,18.5,106138,,,Yaraslav Shyla,R,193,BLR,24.5,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1476,2,383,109
 2017-M-FU-SWE-04A-2017,Sweden F4,Hard,32,S,20171002,22,134868,4,,Tallon Griekspoor,R,188,NED,21.2,126753,,Q,Daniel Appelgren,R,,SWE,21.4,7-6(5) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,294,165,949,13
 2017-M-FU-SWE-04A-2017,Sweden F4,Hard,32,S,20171002,23,105436,,,Markus Eriksson,R,188,SWE,27.8,105503,,,George Von Massow,R,,GER,27.5,6-3 6-7(5) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,329,145,686,33
 2017-M-FU-SWE-04A-2017,Sweden F4,Hard,32,S,20171002,24,104847,,,Adrien Bossel,L,,SUI,30.7,105690,,,Kevin Griekspoor,R,,NED,26.7,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,520,64,809,21
-2017-M-FU-SWE-04A-2017,Sweden F4,Hard,32,S,20171002,25,105132,,,Jurgen Zopp,R,190,EST,29.5,134472,,,Antoine Bellier,U,196,SUI,20.9,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,191,286,718,30
+2017-M-FU-SWE-04A-2017,Sweden F4,Hard,32,S,20171002,25,105132,,,Jurgen Zopp,R,190,EST,29.5,134472,,,Antoine Bellier,L,196,SUI,20.9,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,191,286,718,30
 2017-M-FU-SWE-04A-2017,Sweden F4,Hard,32,S,20171002,26,110778,,,Joao Menezes,R,185,BRA,20.7,105876,,Q,Patrik Brydolf,R,,SWE,25.8,7-6(3) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,524,63,900,15
 2017-M-FU-SWE-04A-2017,Sweden F4,Hard,32,S,20171002,27,134868,4,,Tallon Griekspoor,R,188,NED,21.2,200325,,Q,Emil Ruusuvuori,R,188,FIN,18.5,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,294,165,1476,2
 2017-M-FU-SWE-04A-2017,Sweden F4,Hard,32,S,20171002,28,105436,,,Markus Eriksson,R,188,SWE,27.8,104847,,,Adrien Bossel,L,,SUI,30.7,6-4 3-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,329,145,520,64
@@ -15190,7 +15190,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M-FU-FRA-23A-2017,France F23,Hard,32,S,20171009,3,104944,,,Niels Desein,R,190,BEL,30.3,106156,,WC,Sebastien Boltz,R,,FRA,24.5,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,546,57,820,21
 2017-M-FU-FRA-23A-2017,France F23,Hard,32,S,20171009,4,123920,5,,Gregoire Jacq,U,,FRA,24.9,106355,,,Jonathan Kanar,U,,FRA,23.0,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,406,101,537,61
 2017-M-FU-FRA-23A-2017,France F23,Hard,32,S,20171009,5,144656,,,Corentin Denolly,L,,FRA,20.3,105593,,,Yannick Vandenbulcke,R,,BEL,27.2,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,483,75,389,108
-2017-M-FU-FRA-23A-2017,France F23,Hard,32,S,20171009,6,105415,,,Maxime Tabatruong,R,,FRA,28.0,134472,,,Antoine Bellier,U,196,SUI,20.9,6-4 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,485,75,740,28
+2017-M-FU-FRA-23A-2017,France F23,Hard,32,S,20171009,6,105415,,,Maxime Tabatruong,R,,FRA,28.0,134472,,,Antoine Bellier,L,196,SUI,20.9,6-4 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,485,75,740,28
 2017-M-FU-FRA-23A-2017,France F23,Hard,32,S,20171009,7,144970,,WC,Constantin Bittoun Kouzmine,L,,FRA,18.7,127326,,,Ben Patael,U,188,ISR,20.3,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1775,1,604,46
 2017-M-FU-FRA-23A-2017,France F23,Hard,32,S,20171009,8,105814,7,,Maximilian Neuchrist,R,,AUT,26.2,202324,,,Maxence Broville,R,,FRA,18.6,6-1 2-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,423,96,1318,4
 2017-M-FU-FRA-23A-2017,France F23,Hard,32,S,20171009,9,106005,,,Constant Lestienne,R,180,FRA,25.3,106191,,,Mick Lescure,R,,FRA,24.3,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,420,97,523,64

@@ -7481,7 +7481,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 107494,Kelvin,Maclean,R,,AUS,,
 107495,Ken,Barton,R,,AUS,,
 107496,Ken,Olivier,R,,USA,,
-107497,Kenichi,Kiyomiya,R,,JPN,,
+107497,Kenichi,Kiyomiya,R,19671101,JPN,,Q100166719
 107498,Kenichi,Tagashira,R,,JPN,,
 107499,Kenneth,Lee,R,,USA,,
 107500,Kenneth,Schmidt,R,,DEN,,
@@ -7771,7 +7771,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 107784,Michael,Sistek,R,,CZE,,
 107785,Michael,Staniak,U,,AUS,,
 107786,Michael,Stump,R,19720504,GER,,
-107787,Michael,Zoricich,R,,NZL,,
+107787,Michael,Zoricich,R,19720307,NZL,,
 107788,Michal,Ach,R,,NED,,
 107789,Michal,Domanski,R,,POL,,
 107790,Michal,Jordan,R,,POL,,
@@ -10161,7 +10161,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 110174,Fred,Blatter,U,19490925,SUI,,Q86869972
 110175,Thedy,Stalder,U,19390318,SUI,,
 110176,Peter,Soeters,U,,UNK,,
-110177,Jan,Hajer,U,19420331,UNK,,Q3291800
+110177,Jan,Hajer,U,19420331,NED,,Q3291800
 110178,Richard,Kasten,U,,UNK,,
 110179,Mikael,Stig,U,,UNK,,
 110180,Gaetano,Di Maso,R,19450309,ITA,,Q57552147
@@ -12509,7 +12509,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 112523,Malcolm,Fox,U,,USA,,
 112524,Robert,Abdesselam,U,19200127,FRA,,Q3434395
 112525,Rene,Buser,U,19220321,SUI,,
-112526,Ian C,Vermaak,U,19330328,RSA,,Q2741340
+112526,Ian,Vermaak,U,19330328,RSA,,Q2741340
 112527,Vasco,Valerio,U,,ITA,,
 112528,Ricky,Morea,U,19240411,ARG,,Q3054698
 112529,Jacques,Peten,U,19121208,BEL,,Q3159748
@@ -13305,7 +13305,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 113319,L,Wait,U,,UNK,,
 113320,Peter,Witt,U,,GBR,,
 113321,W,Patterson,U,,UNK,,
-113322,Guy P,Jackson,U,19210920,IRL,,Q5622367
+113322,Guy,Jackson,U,19210920,IRL,,Q5622367
 113323,Douglas G,Snart,U,,GBR,,
 113324,H Clive,Bernstein,U,,GBR,,
 113325,Roland E,Carter,U,,GBR,,
@@ -13457,7 +13457,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 113471,Don,Flye,U,,USA,,
 113472,Fred,Dehnert,U,19280512,NED,,Q13512861
 113473,Liep Tjiauw,Tan,U,,INA,,
-113474,Pablo S,Eisenberg,U,,USA,,
+113474,Pablo,Eisenberg,U,19320701,USA,,
 113475,Jack D,Forbes,U,,RSA,,
 113476,Gordon E,Mudge,U,,GBR,,
 113477,Bernard E,Crouch,U,,GBR,,
@@ -13487,7 +13487,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 113501,David,Gunson,U,,GBR,,
 113502,Harry R,Buttimer,U,,USA,,
 113503,Tony,Charnock,U,,RSA,,
-113504,John M,Cranston,U,,USA,,
+113504,John,Cranston,U,,USA,,
 113505,Bob,Sherman,U,,USA,,
 113506,John,Lesch,U,,USA,,
 113507,Dennis B,Hughes,U,,GBR,,
@@ -13501,7 +13501,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 113515,Munir,Pirzada,U,19370103,PAK,,
 113516,Ralph T,White,U,,GBR,,
 113517,Roche,Goosen,U,,RSA,,
-113518,J Allen,Morris,U,19320904,USA,,
+113518,Allen,Morris,U,19320409,USA,,
 113519,Graham A,Regan,U,,AUS,,
 113520,Sayed Ibrahim,Badr El Dine,U,19270918,EGY,,
 113521,Lawrence E,Barclay,U,,CAN,,
@@ -13542,13 +13542,13 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 113556,Dennis,Reilly,U,,AUS,,
 113557,Cookie,Hammill,U,19411025,RSA,,
 113558,Fu Chi,Mei,U,,CHN,,
-113559,Tim W,Heckler,U,,RSA,,
+113559,Tim,Heckler,U,19420130,RSA,,
 113560,Bob,Hull,U,,GBR,,
 113561,Nick,Carter,U,,USA,,
 113562,Hans,Van De Weg,U,19371210,NED,,Q1925118
 113563,Greg,Grant,U,,USA,,
 113564,Bob,Dabbs,U,,GBR,,
-113565,Arcot J,Uday Kumar,U,19311121,IND,,
+113565,Arcot,Uday Kumar,U,19311121,IND,,
 113566,Theodore Michel,Mavrogordato,U,18830731,GBR,,Q13422832
 113567,George Townshend Candy,Watt,U,18860000,GBR,,
 113568,Maurice F Col,Day,U,,GBR,,
@@ -14763,7 +14763,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 114777,Jack,Tuero,U,,USA,,
 114778,Seymour,Greenberg,U,19200810,USA,,Q3481037
 114779,Vanni,Canapele,U,,ITA,,
-114780,Charles W,Oliver,U,,USA,,
+114780,Charles,Oliver,U,,USA,,
 114781,Norman R,Lewis,U,,GBR,,
 114782,George A,Ball,U,,USA,,
 114783,Bud,Hart,U,,USA,,
@@ -14909,7 +14909,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 114923,James,Livingstone,U,,USA,,
 114924,Harold,Freeman,U,,USA,,
 114925,Dick,Sorlein,U,19220623,USA,,
-114926,Dick,Raskind,U,19340819,USA,,
+114926,Dick,Raskind,L,19340819,USA,,
 114927,Johnny,Jose,U,,PHI,,
 114928,Ralph J,Wickel,U,,USA,,
 114929,Calvin,Maccracken,U,,USA,,
@@ -15110,7 +15110,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 115124,Leif,Beck,U,,USA,,
 115125,Bob,Greene,U,,USA,,
 115126,Donald,Ralph,U,,USA,,
-115127,James P,Biggs,U,,USA,,
+115127,James,Biggs,U,,USA,,
 115128,Wilbur H,Jenkins Jr,U,,USA,,
 115129,Doyle,Perkins,U,,USA,,
 115130,Clyde,Buck,U,,USA,,
@@ -16809,7 +16809,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 116823,Edward,Palmer,U,,USA,,
 116824,George,Taylor,U,,USA,,
 116825,Inderjit,Singh,U,,IND,,
-116826,Richard P,Keeton,U,,USA,,
+116826,Richard,Keeton,U,19371110,USA,,
 116827,Karl,Hedrick,U,,USA,,
 116828,Cliff,Vickery,U,,USA,,
 116829,Shail,Kumar,U,,USA,,
@@ -16820,7 +16820,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 116834,Marcus,Gambus,U,19340212,VEN,,Q104215140
 116835,Roberto,Leon,U,,CHI,,
 116836,Tom,Richardson,U,,USA,,
-116837,Roger D,Ambrose,U,19400413,GBR,,
+116837,Roger,Ambrose,U,19400413,GBR,,
 116838,Julio,Von Kerckhoven,U,,ARG,,
 116839,Krishna,Kumar,U,,IND,,
 116840,Mac,White,U,,USA,,
@@ -16829,7 +16829,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 116843,Harry,Freedhoff,U,,USA,,
 116844,Richard,Mellersh,U,,GBR,,
 116845,Robin,Spengler,U,,RSA,,
-116846,John S,Evans,U,,USA,,
+116846,John,Evans,U,,USA,,
 116847,Gustavo,Castillo,U,,COL,,
 116848,Mike,Carpenter,U,,CAN,,
 116849,Hugh,Quinn Jr,U,,USA,,

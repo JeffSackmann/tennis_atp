@@ -14,7 +14,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1995-503,Wellington CH,Hard,32,C,19950102,13,102235,8,,Tommy Ho,L,183,USA,21.5,101349,,Q,Adam Malik,R,193,MAS,27.6,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,165,279,456,49
 1995-503,Wellington CH,Hard,32,C,19950102,14,102694,,,Lars Burgsmuller,R,183,GER,19.0,101669,,,Gary Henderson,R,,GBR,25.0,6-7 7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,203,202,241,155
 1995-503,Wellington CH,Hard,32,C,19950102,15,108214,,WC,Scott Clark,R,,NZL,17.6,101597,,,Louis Gloria,L,175,USA,25.6,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,768,12,186,220
-1995-503,Wellington CH,Hard,32,C,19950102,16,210013,2,,Martin Damm Sr,R,188,CZE,22.3,101805,,,David Nainkin,R,183,RSA,24.2,7-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,100,488,176,244
+1995-503,Wellington CH,Hard,32,C,19950102,16,210013,2,,Martin Damm Sr,R,188,CZE,22.3,101805,,,David Nainkin,R,183,RSA,24.2,7-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,176,244
 1995-503,Wellington CH,Hard,32,C,19950102,17,101601,1,,Brett Steven,R,185,NZL,25.6,102652,,Q,Christian Vinck,L,183,GER,19.2,6-2 5-7 6-2,3,R16,,,,,,,,,,,,,,,,,,,,87,526,367,79
 1995-503,Wellington CH,Hard,32,C,19950102,18,101819,,,Frederic Vitoux,R,173,FRA,24.1,101701,,,Bing Pan,R,185,CHN,24.8,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,219,180,188,218
 1995-503,Wellington CH,Hard,32,C,19950102,19,102654,,WC,Steven Downs,R,183,NZL,19.2,101924,3,,Stefano Pescosolido,R,185,ITA,23.5,7-5 5-7 6-4,3,R16,,,,,,,,,,,,,,,,,,,,392,69,113,447
@@ -22,14 +22,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1995-503,Wellington CH,Hard,32,C,19950102,21,102466,,,Jan Kroslak,R,188,SVK,20.1,102061,,,Kevin Ullyett,R,178,ZIM,22.5,6-2 2-6 6-0,3,R16,,,,,,,,,,,,,,,,,,,,193,213,237,157
 1995-503,Wellington CH,Hard,32,C,19950102,22,102368,,,Brian Dunn,R,201,USA,20.7,101776,,,Sandon Stolle,R,193,AUS,24.4,7-5 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,223,174,212,190
 1995-503,Wellington CH,Hard,32,C,19950102,23,102235,8,,Tommy Ho,L,183,USA,21.5,102694,,,Lars Burgsmuller,R,183,GER,19.0,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,165,279,203,202
-1995-503,Wellington CH,Hard,32,C,19950102,24,210013,2,,Martin Damm Sr,R,188,CZE,22.3,108214,,WC,Scott Clark,R,,NZL,17.6,6-1 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,100,488,768,12
+1995-503,Wellington CH,Hard,32,C,19950102,24,210013,2,,Martin Damm Sr,R,188,CZE,22.3,108214,,WC,Scott Clark,R,,NZL,17.6,6-1 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,768,12
 1995-503,Wellington CH,Hard,32,C,19950102,25,101601,1,,Brett Steven,R,185,NZL,25.6,101819,,,Frederic Vitoux,R,173,FRA,24.1,6-4 1-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,87,526,219,180
 1995-503,Wellington CH,Hard,32,C,19950102,26,101312,6,,Robbie Weiss,R,183,USA,28.0,102654,,WC,Steven Downs,R,183,NZL,19.2,4-6 6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,138,346,392,69
 1995-503,Wellington CH,Hard,32,C,19950102,27,102466,,,Jan Kroslak,R,188,SVK,20.1,102368,,,Brian Dunn,R,201,USA,20.7,6-4 2-6 7-5,3,QF,,,,,,,,,,,,,,,,,,,,193,213,223,174
-1995-503,Wellington CH,Hard,32,C,19950102,28,210013,2,,Martin Damm Sr,R,188,CZE,22.3,102235,8,,Tommy Ho,L,183,USA,21.5,1-6 6-4 7-6,3,QF,,,,,,,,,,,,,,,,,,,,100,488,165,279
+1995-503,Wellington CH,Hard,32,C,19950102,28,210013,2,,Martin Damm Sr,R,188,CZE,22.3,102235,8,,Tommy Ho,L,183,USA,21.5,1-6 6-4 7-6,3,QF,,,,,,,,,,,,,,,,,,,,,,165,279
 1995-503,Wellington CH,Hard,32,C,19950102,29,101601,1,,Brett Steven,R,185,NZL,25.6,101312,6,,Robbie Weiss,R,183,USA,28.0,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,87,526,138,346
-1995-503,Wellington CH,Hard,32,C,19950102,30,210013,2,,Martin Damm Sr,R,188,CZE,22.3,102466,,,Jan Kroslak,R,188,SVK,20.1,6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,100,488,193,213
-1995-503,Wellington CH,Hard,32,C,19950102,31,101601,1,,Brett Steven,R,185,NZL,25.6,210013,2,,Martin Damm Sr,R,188,CZE,22.3,6-3 6-3,3,F,,,,,,,,,,,,,,,,,,,,87,526,100,488
+1995-503,Wellington CH,Hard,32,C,19950102,30,210013,2,,Martin Damm Sr,R,188,CZE,22.3,102466,,,Jan Kroslak,R,188,SVK,20.1,6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,193,213
+1995-503,Wellington CH,Hard,32,C,19950102,31,101601,1,,Brett Steven,R,185,NZL,25.6,210013,2,,Martin Damm Sr,R,188,CZE,22.3,6-3 6-3,3,F,,,,,,,,,,,,,,,,,,,,87,526,,
 1995-460,Heilbronn CH,Carpet,32,C,19950123,1,101432,,,Dimitri Poliakov,R,183,UKR,26.9,101482,1,,Markus Zoecke,R,196,GER,26.6,6-7 7-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,164,281,50,791
 1995-460,Heilbronn CH,Carpet,32,C,19950123,2,101298,,WC,Jonas Svensson,R,188,SWE,28.2,101233,,,Alex Antonitsch,R,188,AUT,28.9,7-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,184,226,139,332
 1995-460,Heilbronn CH,Carpet,32,C,19950123,3,101703,,,Guillaume Raoux,R,180,FRA,24.9,101234,,WC,Patrik Kuhnen,R,190,GER,28.9,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,116,423,202,201
@@ -340,7 +340,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1995-582,Punta Del Este2 CH,Clay,32,C,19950227,29,102250,,Q,Emanuel Couto,R,183,POR,21.5,102650,,Q,Roberto Carretero,R,178,ESP,19.4,7-6 6-0,3,SF,,,,,,,,,,,,,,,,,,,,275,128,255,139
 1995-582,Punta Del Este2 CH,Clay,32,C,19950227,30,102243,,,Marcelo Charpentier,L,180,ARG,21.6,101368,,,Christian Miniussi,R,185,ARG,27.6,7-6 6-4,3,SF,,,,,,,,,,,,,,,,,,,,217,179,210,184
 1995-582,Punta Del Este2 CH,Clay,32,C,19950227,31,102250,,Q,Emanuel Couto,R,183,POR,21.5,102243,,,Marcelo Charpentier,L,180,ARG,21.6,7-5 7-6,3,F,,,,,,,,,,,,,,,,,,,,275,128,217,179
-1995-848,Garmisch CH,Hard,32,C,19950306,1,210013,1,,Martin Damm Sr,R,188,CZE,22.5,103009,,Q,Razvan Sabau,R,185,ROU,17.7,5-7 7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,49,750,480,45
+1995-848,Garmisch CH,Hard,32,C,19950306,1,210013,1,,Martin Damm Sr,R,188,CZE,22.5,103009,,Q,Razvan Sabau,R,185,ROU,17.7,5-7 7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,480,45
 1995-848,Garmisch CH,Hard,32,C,19950306,2,102198,,,Paul Kilderry,R,175,AUS,21.9,101862,,,Maurice Ruah,R,178,VEN,24.0,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,197,205,284,122
 1995-848,Garmisch CH,Hard,32,C,19950306,3,101492,,Q,Sander Groen,L,190,NED,26.7,102359,,Q,Andrew Richardson,L,201,GBR,20.9,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,344,89,503,41
 1995-848,Garmisch CH,Hard,32,C,19950306,4,101868,8,,Dick Norman,L,203,BEL,24.0,102134,3,,Tomas Krupa,R,,CZE,22.3,4-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,183,229,400,68
@@ -356,7 +356,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1995-848,Garmisch CH,Hard,32,C,19950306,14,103017,,WC,Nicolas Kiefer,R,183,GER,17.6,102784,,WC,Andreas Weber,R,,GER,18.8,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,458,49,,
 1995-848,Garmisch CH,Hard,32,C,19950306,15,102019,,,Dirk Dier,R,185,GER,23.0,102564,,WC,Filip Roj,R,,GER,19.9,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,212,190,726,15
 1995-848,Garmisch CH,Hard,32,C,19950306,16,101731,2,,Nuno Marques,L,190,POR,24.9,101701,,,Bing Pan,R,185,CHN,25.0,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,132,338,192,214
-1995-848,Garmisch CH,Hard,32,C,19950306,17,210013,1,,Martin Damm Sr,R,188,CZE,22.5,102198,,,Paul Kilderry,R,175,AUS,21.9,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,49,750,197,205
+1995-848,Garmisch CH,Hard,32,C,19950306,17,210013,1,,Martin Damm Sr,R,188,CZE,22.5,102198,,,Paul Kilderry,R,175,AUS,21.9,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,197,205
 1995-848,Garmisch CH,Hard,32,C,19950306,18,101868,8,,Dick Norman,L,203,BEL,24.0,101492,,Q,Sander Groen,L,190,NED,26.7,6-6 3-6 4-0,3,R16,,,,,,,,,,,,,,,,,,,,183,229,344,89
 1995-848,Garmisch CH,Hard,32,C,19950306,19,101406,,,Wojtek Kowalski,R,183,POL,27.4,101416,,,Joao Cunha Silva,R,173,POR,27.2,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,227,166,204,198
 1995-848,Garmisch CH,Hard,32,C,19950306,20,101234,,WC,Patrik Kuhnen,R,190,GER,29.0,101398,,,Neil Borwick,L,193,AUS,27.4,7-6 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,245,150,235,155
@@ -364,7 +364,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1995-848,Garmisch CH,Hard,32,C,19950306,22,101681,4,,Chris Wilkinson,R,180,GBR,25.1,102455,,,Lorenzo Manta,R,190,SUI,20.4,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,169,259,246,147
 1995-848,Garmisch CH,Hard,32,C,19950306,23,103017,,WC,Nicolas Kiefer,R,183,GER,17.6,102450,7,,Tim Henman,R,185,GBR,20.4,6-7 7-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,458,49,214,184
 1995-848,Garmisch CH,Hard,32,C,19950306,24,101731,2,,Nuno Marques,L,190,POR,24.9,102019,,,Dirk Dier,R,185,GER,23.0,7-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,132,338,212,190
-1995-848,Garmisch CH,Hard,32,C,19950306,25,101868,8,,Dick Norman,L,203,BEL,24.0,210013,1,,Martin Damm Sr,R,188,CZE,22.5,6-7 7-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,183,229,49,750
+1995-848,Garmisch CH,Hard,32,C,19950306,25,101868,8,,Dick Norman,L,203,BEL,24.0,210013,1,,Martin Damm Sr,R,188,CZE,22.5,6-7 7-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,183,229,,
 1995-848,Garmisch CH,Hard,32,C,19950306,26,101234,,WC,Patrik Kuhnen,R,190,GER,29.0,101406,,,Wojtek Kowalski,R,183,POL,27.4,6-4 4-6 7-6,3,QF,,,,,,,,,,,,,,,,,,,,245,150,227,166
 1995-848,Garmisch CH,Hard,32,C,19950306,27,101681,4,,Chris Wilkinson,R,180,GBR,25.1,101481,,,Omar Camporese,R,188,ITA,26.8,3-6 7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,169,259,160,273
 1995-848,Garmisch CH,Hard,32,C,19950306,28,103017,,WC,Nicolas Kiefer,R,183,GER,17.6,101731,2,,Nuno Marques,L,190,POR,24.9,7-5 6-7 6-3,3,QF,,,,,,,,,,,,,,,,,,,,458,49,132,338
@@ -712,7 +712,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1995-587,Asuncion CH,Clay,32,C,19950529,29,101761,,,Jaime Oncins,R,196,BRA,24.9,102113,1,,Daniele Musa,R,183,ITA,22.7,6-3 3-6 6-1,3,SF,,,,,,,,,,,,,,,,,,,,303,108,154,273
 1995-587,Asuncion CH,Clay,32,C,19950529,30,102477,2,,Gaston Etlis,R,185,ARG,20.5,101745,,,Roberto Jabali,R,190,BRA,25.0,6-0 6-1,3,SF,,,,,,,,,,,,,,,,,,,,189,203,269,135
 1995-587,Asuncion CH,Clay,32,C,19950529,31,101761,,,Jaime Oncins,R,196,BRA,24.9,102477,2,,Gaston Etlis,R,185,ARG,20.5,6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,303,108,189,203
-1995-523,Annenheim CH,Grass,32,C,19950605,1,210013,1,,Martin Damm Sr,R,188,CZE,22.8,102133,,,Laurence Tieleman,R,180,ITA,22.5,3-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,55,728,158,269
+1995-523,Annenheim CH,Grass,32,C,19950605,1,210013,1,,Martin Damm Sr,R,188,CZE,22.8,102133,,,Laurence Tieleman,R,180,ITA,22.5,3-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,158,269
 1995-523,Annenheim CH,Grass,32,C,19950605,2,102198,,,Paul Kilderry,R,175,AUS,22.1,102574,,Q,Gabriel Trifu,R,193,ROU,20.1,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,164,250,397,70
 1995-523,Annenheim CH,Grass,32,C,19950605,3,101717,,,Diego Nargiso,L,188,ITA,25.2,101809,,,Nicolas Pereira,R,188,VEN,24.6,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,159,264,115,402
 1995-523,Annenheim CH,Grass,32,C,19950605,4,101833,8,,Michael Tebbutt,L,190,AUS,24.4,101868,,,Dick Norman,L,203,BEL,24.2,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,100,457,169,246
@@ -728,7 +728,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1995-523,Annenheim CH,Grass,32,C,19950605,14,101783,,,Mark Petchey,R,183,GBR,24.8,101138,,WC,Pat Cash,R,183,AUS,30.0,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,114,403,209,178
 1995-523,Annenheim CH,Grass,32,C,19950605,15,101510,,,Henrik Holm,R,183,SWE,26.7,101711,,,Alex Obrien,R,185,USA,25.2,3-6 7-5 7-6,3,R32,,,,,,,,,,,,,,,,,,,,137,308,124,377
 1995-523,Annenheim CH,Grass,32,C,19950605,16,101543,2,,Jeff Tarango,L,180,USA,26.5,101751,,Q,Ross Matheson,R,196,GBR,25.0,6-2 6-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,70,592,253,143
-1995-523,Annenheim CH,Grass,32,C,19950605,17,210013,1,,Martin Damm Sr,R,188,CZE,22.8,102198,,,Paul Kilderry,R,175,AUS,22.1,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,55,728,164,250
+1995-523,Annenheim CH,Grass,32,C,19950605,17,210013,1,,Martin Damm Sr,R,188,CZE,22.8,102198,,,Paul Kilderry,R,175,AUS,22.1,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,164,250
 1995-523,Annenheim CH,Grass,32,C,19950605,18,101717,,,Diego Nargiso,L,188,ITA,25.2,101833,8,,Michael Tebbutt,L,190,AUS,24.4,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,159,264,100,457
 1995-523,Annenheim CH,Grass,32,C,19950605,19,101806,3,,Marc Kevin Goellner,R,196,GER,24.6,101133,,,Patrick Baur,R,188,GER,30.0,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,82,563,153,273
 1995-523,Annenheim CH,Grass,32,C,19950605,20,101681,,,Chris Wilkinson,R,180,GBR,25.3,100923,,,Wally Masur,R,180,AUS,32.0,6-3 7-6,3,R16,,,,,,,,,,,,,,,,,,,,139,299,126,359
@@ -736,13 +736,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1995-523,Annenheim CH,Grass,32,C,19950605,22,102450,,Q,Tim Henman,R,185,GBR,20.7,102443,,Q,Barry Cowan,L,188,GBR,20.7,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,276,129,372,77
 1995-523,Annenheim CH,Grass,32,C,19950605,23,101783,,,Mark Petchey,R,183,GBR,24.8,101412,,,Shuzo Matsuoka,R,185,JPN,27.5,6-3 7-6,3,R16,,,,,,,,,,,,,,,,,,,,114,403,117,400
 1995-523,Annenheim CH,Grass,32,C,19950605,24,101510,,,Henrik Holm,R,183,SWE,26.7,101543,2,,Jeff Tarango,L,180,USA,26.5,1-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,137,308,70,592
-1995-523,Annenheim CH,Grass,32,C,19950605,25,210013,1,,Martin Damm Sr,R,188,CZE,22.8,101717,,,Diego Nargiso,L,188,ITA,25.2,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,55,728,159,264
+1995-523,Annenheim CH,Grass,32,C,19950605,25,210013,1,,Martin Damm Sr,R,188,CZE,22.8,101717,,,Diego Nargiso,L,188,ITA,25.2,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,,,159,264
 1995-523,Annenheim CH,Grass,32,C,19950605,26,101806,3,,Marc Kevin Goellner,R,196,GER,24.6,101681,,,Chris Wilkinson,R,180,GBR,25.3,6-0 6-2,3,QF,,,,,,,,,,,,,,,,,,,,82,563,139,299
 1995-523,Annenheim CH,Grass,32,C,19950605,27,102450,,Q,Tim Henman,R,185,GBR,20.7,101835,,,Arne Thoms,R,188,GER,24.4,6-1 3-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,276,129,149,280
 1995-523,Annenheim CH,Grass,32,C,19950605,28,101510,,,Henrik Holm,R,183,SWE,26.7,101783,,,Mark Petchey,R,183,GBR,24.8,4-6 7-6 7-6,3,QF,,,,,,,,,,,,,,,,,,,,137,308,114,403
-1995-523,Annenheim CH,Grass,32,C,19950605,29,210013,1,,Martin Damm Sr,R,188,CZE,22.8,101806,3,,Marc Kevin Goellner,R,196,GER,24.6,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,55,728,82,563
+1995-523,Annenheim CH,Grass,32,C,19950605,29,210013,1,,Martin Damm Sr,R,188,CZE,22.8,101806,3,,Marc Kevin Goellner,R,196,GER,24.6,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,,,82,563
 1995-523,Annenheim CH,Grass,32,C,19950605,30,101510,,,Henrik Holm,R,183,SWE,26.7,102450,,Q,Tim Henman,R,185,GBR,20.7,7-6 3-6 6-4,3,SF,,,,,,,,,,,,,,,,,,,,137,308,276,129
-1995-523,Annenheim CH,Grass,32,C,19950605,31,101510,,,Henrik Holm,R,183,SWE,26.7,210013,1,,Martin Damm Sr,R,188,CZE,22.8,6-2 6-3,3,F,,,,,,,,,,,,,,,,,,,,137,308,55,728
+1995-523,Annenheim CH,Grass,32,C,19950605,31,101510,,,Henrik Holm,R,183,SWE,26.7,210013,1,,Martin Damm Sr,R,188,CZE,22.8,6-2 6-3,3,F,,,,,,,,,,,,,,,,,,,,137,308,,
 1995-396,Furth CH,Clay,32,C,19950605,1,102104,1,,Christian Ruud,R,188,NOR,22.7,101086,,,Ronald Agenor,R,180,USA,30.5,7-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,67,613,136,315
 1995-396,Furth CH,Clay,32,C,19950605,2,102024,,,Hernan Gumy,R,188,ARG,23.2,101767,,,Lars Jonsson,R,188,SWE,24.9,7-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,127,359,125,370
 1995-396,Furth CH,Clay,32,C,19950605,3,102243,,,Marcelo Charpentier,L,180,ARG,21.8,102025,,,Mikael Tillstrom,R,185,SWE,23.2,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,144,287,142,289
@@ -2370,7 +2370,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1995-824,Aachen CH,Carpet,32,C,19951030,13,102205,8,,Sebastien Lareau,R,183,CAN,22.5,101835,,,Arne Thoms,R,188,GER,24.8,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,118,394,190,216
 1995-824,Aachen CH,Carpet,32,C,19951030,14,101717,,,Diego Nargiso,L,188,ITA,25.6,102234,,,Oliver Gross,R,185,GER,22.3,7-5 7-6,3,R32,,,,,,,,,,,,,,,,,,,,194,208,117,404
 1995-824,Aachen CH,Carpet,32,C,19951030,15,102533,,Q,Jens Knippschild,R,190,GER,20.7,101955,,Q,Luis Herrera,L,170,MEX,24.1,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,334,89,249,138
-1995-824,Aachen CH,Carpet,32,C,19951030,16,210013,2,,Martin Damm Sr,R,188,CZE,23.2,101681,,,Chris Wilkinson,R,180,GBR,25.8,6-7 7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,66,640,133,350
+1995-824,Aachen CH,Carpet,32,C,19951030,16,210013,2,,Martin Damm Sr,R,188,CZE,23.2,101681,,,Chris Wilkinson,R,180,GBR,25.8,6-7 7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,133,350
 1995-824,Aachen CH,Carpet,32,C,19951030,17,102694,,,Lars Burgsmuller,R,183,GER,19.8,102184,1,,David Prinosil,R,185,GER,22.6,7-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,154,294,60,661
 1995-824,Aachen CH,Carpet,32,C,19951030,18,101123,,,Alexander Mronz,R,188,GER,30.5,102401,7,,Scott Draper,L,178,AUS,21.4,7-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,176,241,94,501
 1995-824,Aachen CH,Carpet,32,C,19951030,19,102563,,,Thomas Johansson,R,180,SWE,20.6,101806,4,,Marc Kevin Goellner,R,196,GER,25.1,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,131,356,78,563
@@ -2378,14 +2378,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1995-824,Aachen CH,Carpet,32,C,19951030,21,101864,,Q,Fernon Wibier,R,188,NED,24.6,101492,,Q,Sander Groen,L,190,NED,27.3,6-7 7-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,310,98,241,147
 1995-824,Aachen CH,Carpet,32,C,19951030,22,101133,,,Patrick Baur,R,188,GER,30.4,101481,,,Omar Camporese,R,188,ITA,27.4,7-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,180,237,136,339
 1995-824,Aachen CH,Carpet,32,C,19951030,23,102205,8,,Sebastien Lareau,R,183,CAN,22.5,101717,,,Diego Nargiso,L,188,ITA,25.6,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,118,394,194,208
-1995-824,Aachen CH,Carpet,32,C,19951030,24,210013,2,,Martin Damm Sr,R,188,CZE,23.2,102533,,Q,Jens Knippschild,R,190,GER,20.7,5-7 6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,66,640,334,89
+1995-824,Aachen CH,Carpet,32,C,19951030,24,210013,2,,Martin Damm Sr,R,188,CZE,23.2,102533,,Q,Jens Knippschild,R,190,GER,20.7,5-7 6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,334,89
 1995-824,Aachen CH,Carpet,32,C,19951030,25,101123,,,Alexander Mronz,R,188,GER,30.5,102694,,,Lars Burgsmuller,R,183,GER,19.8,6-3 7-6,3,QF,,,,,,,,,,,,,,,,,,,,176,241,154,294
 1995-824,Aachen CH,Carpet,32,C,19951030,26,102088,,,Joern Renzenbrink,R,196,GER,23.2,102563,,,Thomas Johansson,R,180,SWE,20.6,7-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,189,217,131,356
 1995-824,Aachen CH,Carpet,32,C,19951030,27,101133,,,Patrick Baur,R,188,GER,30.4,101864,,Q,Fernon Wibier,R,188,NED,24.6,7-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,180,237,310,98
-1995-824,Aachen CH,Carpet,32,C,19951030,28,210013,2,,Martin Damm Sr,R,188,CZE,23.2,102205,8,,Sebastien Lareau,R,183,CAN,22.5,6-4 3-6 7-6,3,QF,,,,,,,,,,,,,,,,,,,,66,640,118,394
+1995-824,Aachen CH,Carpet,32,C,19951030,28,210013,2,,Martin Damm Sr,R,188,CZE,23.2,102205,8,,Sebastien Lareau,R,183,CAN,22.5,6-4 3-6 7-6,3,QF,,,,,,,,,,,,,,,,,,,,,,118,394
 1995-824,Aachen CH,Carpet,32,C,19951030,29,102088,,,Joern Renzenbrink,R,196,GER,23.2,101123,,,Alexander Mronz,R,188,GER,30.5,7-6 6-4,3,SF,,,,,,,,,,,,,,,,,,,,189,217,176,241
-1995-824,Aachen CH,Carpet,32,C,19951030,30,210013,2,,Martin Damm Sr,R,188,CZE,23.2,101133,,,Patrick Baur,R,188,GER,30.4,6-4 7-6,3,SF,,,,,,,,,,,,,,,,,,,,66,640,180,237
-1995-824,Aachen CH,Carpet,32,C,19951030,31,102088,,,Joern Renzenbrink,R,196,GER,23.2,210013,2,,Martin Damm Sr,R,188,CZE,23.2,5-7 6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,189,217,66,640
+1995-824,Aachen CH,Carpet,32,C,19951030,30,210013,2,,Martin Damm Sr,R,188,CZE,23.2,101133,,,Patrick Baur,R,188,GER,30.4,6-4 7-6,3,SF,,,,,,,,,,,,,,,,,,,,,,180,237
+1995-824,Aachen CH,Carpet,32,C,19951030,31,102088,,,Joern Renzenbrink,R,196,GER,23.2,210013,2,,Martin Damm Sr,R,188,CZE,23.2,5-7 6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,189,217,,
 1995-593,Goa CH,Clay,32,C,19951030,1,102084,,,Simon Touzil,R,185,GER,23.3,102233,1,,Leander Paes,R,178,IND,22.3,7-5 3-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,298,104,128,366
 1995-593,Goa CH,Clay,32,C,19951030,2,102092,,,Tom Vanhoudt,R,183,BEL,23.2,102277,,Q,Bing Chao Lin,R,180,TPE,22.0,3-6 6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,210,182,531,35
 1995-593,Goa CH,Clay,32,C,19951030,3,102405,,,Mahesh Bhupathi,R,185,IND,21.3,102300,,Q,Gouichi Motomura,R,173,JPN,21.8,3-6 6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,440,53,360,76

@@ -442,7 +442,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-SA-EGY-01A-2000d,Egypt 1 Masters 4,Clay,32,S,20000117,31,102554,1,,Diego Moyano,R,175,ARG,24.8,102848,8,,Javier Perez Vazquez,R,,ESP,23.3,6-0 3-1 RET,3,F,,,,,,,,,,,,,,,,,,,,262,122,446,54
 2000-M-FU-FRA-02A-2000,France F2,Clay,32,S,20000117,1,102600,1,,David Miketa,R,183,CZE,24.6,103524,,Q,Diego Alvarez,R,,ARG,19.8,6-3 4-6 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,179,194,664,18
 2000-M-FU-FRA-02A-2000,France F2,Clay,32,S,20000117,2,103694,,,Olivier Rochus,R,168,BEL,18.9,102244,,,Gregory Girault,R,,FRA,26.4,6-2 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,317,94,435,57
-2000-M-FU-FRA-02A-2000,France F2,Clay,32,S,20000117,3,111486,,,Leonardo Olguin,U,,ARG,24.2,102603,,LL,Melvyn Op Der Heijde,R,180,NED,24.6,7-5 0-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,453,51
+2000-M-FU-FRA-02A-2000,France F2,Clay,32,S,20000117,3,102693,,,Leonardo Olguin,R,,ARG,24.1,102603,,LL,Melvyn Op Der Heijde,R,180,NED,24.6,7-5 0-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,377,71,453,51
 2000-M-FU-FRA-02A-2000,France F2,Clay,32,S,20000117,4,102339,7,,Kris Goossens,R,180,BEL,25.9,103799,,Q,Eric Prodon,R,178,FRA,18.5,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,270,117,682,17
 2000-M-FU-FRA-02A-2000,France F2,Clay,32,S,20000117,5,103208,,,Jean Michel Pequery,R,,FRA,21.6,103133,4,,Olivier Mutis,R,175,FRA,21.9,6-2 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,372,73,227,144
 2000-M-FU-FRA-02A-2000,France F2,Clay,32,S,20000117,6,102934,,,Nicolas Coutelot,R,185,FRA,22.9,103047,,SE,Julien Varlet,R,180,FRA,22.3,6-4 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,338,86,569,30
@@ -457,7 +457,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-FRA-02A-2000,France F2,Clay,32,S,20000117,15,102002,,,Davide Scala,R,180,ITA,28.0,117603,,Q,Philippe Pages,U,,FRA,27.7,7-6(1) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,313,95,,
 2000-M-FU-FRA-02A-2000,France F2,Clay,32,S,20000117,16,103118,,,Ion Moldovan,R,188,ROU,21.9,102687,2,,Herbert Wiltschnig,R,185,AUT,24.1,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,347,82,195,180
 2000-M-FU-FRA-02A-2000,France F2,Clay,32,S,20000117,17,103694,,,Olivier Rochus,R,168,BEL,18.9,102600,1,,David Miketa,R,183,CZE,24.6,6-4 1-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,317,94,179,194
-2000-M-FU-FRA-02A-2000,France F2,Clay,32,S,20000117,18,102339,7,,Kris Goossens,R,180,BEL,25.9,111486,,,Leonardo Olguin,U,,ARG,24.2,5-7 6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,270,117,,
+2000-M-FU-FRA-02A-2000,France F2,Clay,32,S,20000117,18,102339,7,,Kris Goossens,R,180,BEL,25.9,102693,,,Leonardo Olguin,R,,ARG,24.1,5-7 6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,270,117,377,71
 2000-M-FU-FRA-02A-2000,France F2,Clay,32,S,20000117,19,102934,,,Nicolas Coutelot,R,185,FRA,22.9,103208,,,Jean Michel Pequery,R,,FRA,21.6,7-5 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,338,86,372,73
 2000-M-FU-FRA-02A-2000,France F2,Clay,32,S,20000117,20,103534,,Q,Nicolas Devilder,L,173,FRA,19.8,103722,,WC,Florent Serra,R,180,FRA,18.8,6-2 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,870,8,847,9
 2000-M-FU-FRA-02A-2000,France F2,Clay,32,S,20000117,21,103148,,Q,Norbert Mazany,R,,HUN,21.9,103268,,LL,Ivan Rodrigo,R,,ESP,21.2,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,784,11,561,31
@@ -656,7 +656,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-FRA-03A-2000,France F3,Clay,32,S,20000124,5,103148,,SE,Norbert Mazany,R,,HUN,21.9,103133,3,,Olivier Mutis,R,175,FRA,21.9,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,784,11,227,144
 2000-M-FU-FRA-03A-2000,France F3,Clay,32,S,20000124,6,103693,,Q,Thierry Ascione,R,188,FRA,19.0,103723,,WC,Julien Maes,R,,FRA,18.9,4-6 7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1072,4,1298,1
 2000-M-FU-FRA-03A-2000,France F3,Clay,32,S,20000124,7,103045,,,Reginald Willems,R,180,BEL,22.3,102771,,Q,Leslie Demiliani,R,,FRA,23.7,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,290,106,907,7
-2000-M-FU-FRA-03A-2000,France F3,Clay,32,S,20000124,8,111486,,,Leonardo Olguin,U,,ARG,24.2,102617,6,,Kim Tiilikainen,R,180,FIN,24.5,6-4 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,276,112
+2000-M-FU-FRA-03A-2000,France F3,Clay,32,S,20000124,8,102693,,,Leonardo Olguin,R,,ARG,24.1,102617,6,,Kim Tiilikainen,R,180,FIN,24.5,6-4 RET,3,R32,,,,,,,,,,,,,,,,,,,,377,71,276,112
 2000-M-FU-FRA-03A-2000,France F3,Clay,32,S,20000124,9,102339,5,,Kris Goossens,R,180,BEL,25.9,102002,,,Davide Scala,R,180,ITA,28.0,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,270,117,313,95
 2000-M-FU-FRA-03A-2000,France F3,Clay,32,S,20000124,10,103694,,,Olivier Rochus,R,168,BEL,19.0,103857,,,Igor Kunitsyn,R,180,RUS,18.3,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,317,94,316,94
 2000-M-FU-FRA-03A-2000,France F3,Clay,32,S,20000124,11,102391,,Q,Charles Edouard Maria,R,,FRA,25.6,101938,,,Bernardo Mota,R,178,POR,28.5,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,658,19,428,58
@@ -668,7 +668,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-FRA-03A-2000,France F3,Clay,32,S,20000124,17,102322,,,Philippe Pasquier,R,,FRA,25.9,102095,,Q,Olivier Morel,R,,FRA,27.4,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,394,66,775,11
 2000-M-FU-FRA-03A-2000,France F3,Clay,32,S,20000124,18,102934,,,Nicolas Coutelot,R,185,FRA,22.9,102394,8,,Johan Van Herck,R,185,BEL,25.6,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,338,86,287,107
 2000-M-FU-FRA-03A-2000,France F3,Clay,32,S,20000124,19,103693,,Q,Thierry Ascione,R,188,FRA,19.0,103148,,SE,Norbert Mazany,R,,HUN,21.9,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1072,4,784,11
-2000-M-FU-FRA-03A-2000,France F3,Clay,32,S,20000124,20,103045,,,Reginald Willems,R,180,BEL,22.3,111486,,,Leonardo Olguin,U,,ARG,24.2,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,290,106,,
+2000-M-FU-FRA-03A-2000,France F3,Clay,32,S,20000124,20,103045,,,Reginald Willems,R,180,BEL,22.3,102693,,,Leonardo Olguin,R,,ARG,24.1,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,290,106,377,71
 2000-M-FU-FRA-03A-2000,France F3,Clay,32,S,20000124,21,103694,,,Olivier Rochus,R,168,BEL,19.0,102339,5,,Kris Goossens,R,180,BEL,25.9,7-6(4) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,317,94,270,117
 2000-M-FU-FRA-03A-2000,France F3,Clay,32,S,20000124,22,102391,,Q,Charles Edouard Maria,R,,FRA,25.6,117592,,WC,Sebastien Guillemart,U,,FRA,22.1,4-6 6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,658,19,,
 2000-M-FU-FRA-03A-2000,France F3,Clay,32,S,20000124,23,103009,,,Razvan Sabau,R,185,ROU,22.6,101416,7,,Joao Cunha Silva,R,173,POR,32.1,6-7(2) 7-6(4) 6-0,3,R16,,,,,,,,,,,,,,,,,,,,294,103,284,108
@@ -753,7 +753,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-FRA-04A-2000,France F4,Clay,32,S,20000129,9,103898,,WC,Julien Benneteau,R,185,FRA,18.0,102244,5,,Gregory Girault,R,,FRA,26.5,4-6 7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1039,4,435,57
 2000-M-FU-FRA-04A-2000,France F4,Clay,32,S,20000129,10,103723,,Q,Julien Maes,R,,FRA,18.9,102261,,,Fabrice Betencourt,R,,FRA,26.3,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1298,1,594,26
 2000-M-FU-FRA-04A-2000,France F4,Clay,32,S,20000129,11,102637,,Q,Julien Couly,R,,FRA,24.4,103799,,WC,Eric Prodon,R,178,FRA,18.5,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1298,1,682,17
-2000-M-FU-FRA-04A-2000,France F4,Clay,32,S,20000129,12,102452,,Q,Nicolas Guillaume,R,,FRA,25.3,111486,3,,Leonardo Olguin,U,,ARG,24.2,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1200,2,,
+2000-M-FU-FRA-04A-2000,France F4,Clay,32,S,20000129,12,102452,,Q,Nicolas Guillaume,R,,FRA,25.3,102693,3,,Leonardo Olguin,R,,ARG,24.1,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1200,2,377,71
 2000-M-FU-FRA-04A-2000,France F4,Clay,32,S,20000129,13,102180,8,,Charles Auffray,R,183,FRA,26.9,103047,,,Julien Varlet,R,180,FRA,22.3,6-7(5) 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,508,39,569,30
 2000-M-FU-FRA-04A-2000,France F4,Clay,32,S,20000129,14,103424,,Q,Tobias Clemens,R,185,GER,20.4,102391,,,Charles Edouard Maria,R,,FRA,25.6,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,809,10,658,19
 2000-M-FU-FRA-04A-2000,France F4,Clay,32,S,20000129,15,103722,,Q,Florent Serra,R,180,FRA,18.9,102444,,,Scott Barron,R,,IRL,25.4,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,847,9,674,18
@@ -1615,7 +1615,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-ARG-01A-2000,Argentina F1,Clay,32,S,20000311,4,102723,8,,Eduardo Medica,R,180,ARG,24.0,103395,,Q,Julio Silva,R,173,BRA,20.6,3-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,317,93,611,24
 2000-M-FU-ARG-01A-2000,Argentina F1,Clay,32,S,20000311,5,102930,4,,Rodrigo Cerdera,R,,ARG,23.0,103373,,,Sergio Roitman,R,185,ARG,20.8,2-6 7-6(6) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,269,121,341,84
 2000-M-FU-ARG-01A-2000,Argentina F1,Clay,32,S,20000311,6,103478,,WC,Diego Veronelli,R,193,ARG,20.2,103700,,,Juan Pablo Guzman,L,178,ARG,19.0,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,329,88,505,42
-2000-M-FU-ARG-01A-2000,Argentina F1,Clay,32,S,20000311,7,103052,,Q,Mariano Delfino,R,183,ARG,22.4,111486,,WC,Leonardo Olguin,U,,ARG,24.4,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,633,21,,
+2000-M-FU-ARG-01A-2000,Argentina F1,Clay,32,S,20000311,7,103052,,Q,Mariano Delfino,R,183,ARG,22.4,102693,,WC,Leonardo Olguin,R,,ARG,24.2,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,633,21,384,70
 2000-M-FU-ARG-01A-2000,Argentina F1,Clay,32,S,20000311,8,103281,6,,Ladislav Svarc,R,188,SVK,21.3,102544,,Q,Pablo Bianchi,R,,URU,25.0,7-6(2) 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,313,93,717,15
 2000-M-FU-ARG-01A-2000,Argentina F1,Clay,32,S,20000311,9,102647,,Q,Alberto Brause,R,,URU,24.5,101976,5,,Federico Dondo,R,,URU,28.3,2-6 6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1160,2,290,105
 2000-M-FU-ARG-01A-2000,Argentina F1,Clay,32,S,20000311,10,103121,,,Matias Oneille,R,,ARG,22.1,102769,,,Andres Schneiter,R,,ARG,23.9,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,507,42,352,82
@@ -1825,7 +1825,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-ARG-02A-2000,Argentina F2,Clay,32,S,20000318,5,102930,4,,Rodrigo Cerdera,R,,ARG,23.1,103700,,WC,Juan Pablo Guzman,L,178,ARG,19.1,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,265,122,498,43
 2000-M-FU-ARG-02A-2000,Argentina F2,Clay,32,S,20000318,6,103581,,,Flavio Saretta,R,183,BRA,19.7,103021,,,Ricardo Schlachter,R,,BRA,22.6,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,336,86,321,90
 2000-M-FU-ARG-02A-2000,Argentina F2,Clay,32,S,20000318,7,102145,,,Francisco Cabello,R,190,ARG,27.2,103392,,LL,Daniel Caracciolo,R,,ARG,20.7,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,316,92,434,58
-2000-M-FU-ARG-02A-2000,Argentina F2,Clay,32,S,20000318,8,111486,,,Leonardo Olguin,U,,ARG,24.4,102519,5,,Marcio Carlsson,R,175,BRA,25.1,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,279,110
+2000-M-FU-ARG-02A-2000,Argentina F2,Clay,32,S,20000318,8,102693,,,Leonardo Olguin,R,,ARG,24.2,102519,5,,Marcio Carlsson,R,175,BRA,25.1,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,385,70,279,110
 2000-M-FU-ARG-02A-2000,Argentina F2,Clay,32,S,20000318,9,102753,,Q,Wolfgang Schranz,R,178,AUT,23.9,103228,6,,Marcos Daniel,R,180,BRA,21.6,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,349,81,303,99
 2000-M-FU-ARG-02A-2000,Argentina F2,Clay,32,S,20000318,10,102985,,Q,Gustavo Marcaccio,R,170,ARG,22.8,102807,,Q,Rodrigo Monte,R,,BRA,23.7,6-3 6-7(4) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,723,15,594,26
 2000-M-FU-ARG-02A-2000,Argentina F2,Clay,32,S,20000318,11,103052,,Q,Mariano Delfino,R,183,ARG,22.4,103602,,,Fernando Gonzalez,R,183,CHI,19.6,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,575,29,398,67
@@ -1837,7 +1837,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-ARG-02A-2000,Argentina F2,Clay,32,S,20000318,17,103373,,,Sergio Roitman,R,185,ARG,20.8,102168,1,,Hector Moretti,R,170,ARG,27.1,4-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,350,81,210,164
 2000-M-FU-ARG-02A-2000,Argentina F2,Clay,32,S,20000318,18,103909,,WC,Guillermo Coria,R,175,ARG,18.1,103624,,WC,Sebastian Uriarte,R,,ARG,19.5,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,568,30,,
 2000-M-FU-ARG-02A-2000,Argentina F2,Clay,32,S,20000318,19,103581,,,Flavio Saretta,R,183,BRA,19.7,102930,4,,Rodrigo Cerdera,R,,ARG,23.1,2-6 6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,336,86,265,122
-2000-M-FU-ARG-02A-2000,Argentina F2,Clay,32,S,20000318,20,102145,,,Francisco Cabello,R,190,ARG,27.2,111486,,,Leonardo Olguin,U,,ARG,24.4,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,316,92,,
+2000-M-FU-ARG-02A-2000,Argentina F2,Clay,32,S,20000318,20,102145,,,Francisco Cabello,R,190,ARG,27.2,102693,,,Leonardo Olguin,R,,ARG,24.2,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,316,92,385,70
 2000-M-FU-ARG-02A-2000,Argentina F2,Clay,32,S,20000318,21,102753,,Q,Wolfgang Schranz,R,178,AUT,23.9,102985,,Q,Gustavo Marcaccio,R,170,ARG,22.8,6-3 5-7 7-5,3,R16,,,,,,,,,,,,,,,,,,,,349,81,723,15
 2000-M-FU-ARG-02A-2000,Argentina F2,Clay,32,S,20000318,22,103052,,Q,Mariano Delfino,R,183,ARG,22.4,102769,,,Andres Schneiter,R,,ARG,23.9,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,575,29,347,82
 2000-M-FU-ARG-02A-2000,Argentina F2,Clay,32,S,20000318,23,102544,,Q,Pablo Bianchi,R,,URU,25.0,103485,,,Ivan Beros,R,,CRO,20.2,6-2 3-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,719,15,360,77
@@ -2302,7 +2302,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-ARG-03A-2000,Argentina F3,Clay,32,S,20000327,10,103506,,Q,Martin Vassallo Arguello,R,183,ARG,20.1,102769,,,Andres Schneiter,R,,ARG,23.9,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,440,58,345,83
 2000-M-FU-ARG-03A-2000,Argentina F3,Clay,32,S,20000327,11,103909,,SE,Guillermo Coria,R,175,ARG,18.2,102544,,WC,Pablo Bianchi,R,,URU,25.0,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,568,31,722,15
 2000-M-FU-ARG-03A-2000,Argentina F3,Clay,32,S,20000327,12,104076,4,,Jose Acasuso,R,190,ARG,17.4,103626,,Q,Tomas Tenconi,R,178,ITA,19.5,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,256,130,,
-2000-M-FU-ARG-03A-2000,Argentina F3,Clay,32,S,20000327,13,102145,8,,Francisco Cabello,R,190,ARG,27.3,111486,,,Leonardo Olguin,U,,ARG,24.4,3-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,310,96,,
+2000-M-FU-ARG-03A-2000,Argentina F3,Clay,32,S,20000327,13,102145,8,,Francisco Cabello,R,190,ARG,27.3,102693,,,Leonardo Olguin,R,,ARG,24.3,3-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,310,96,386,70
 2000-M-FU-ARG-03A-2000,Argentina F3,Clay,32,S,20000327,14,103373,,,Sergio Roitman,R,185,ARG,20.8,107731,,WC,Matias Marin,U,,ARG,,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,350,81,,
 2000-M-FU-ARG-03A-2000,Argentina F3,Clay,32,S,20000327,15,103121,,Q,Matias Oneille,R,,ARG,22.1,103700,,WC,Juan Pablo Guzman,L,178,ARG,19.1,5-7 6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,501,44,504,43
 2000-M-FU-ARG-03A-2000,Argentina F3,Clay,32,S,20000327,16,103015,2,,Daniel Melo,L,185,BRA,22.7,103392,,,Daniel Caracciolo,R,,ARG,20.7,6-2 6-7(6) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,214,164,437,58
@@ -2753,7 +2753,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-CHI-04A-2000,Chile F4,Clay,32,S,20000417,12,103121,,,Matias Oneille,R,,ARG,22.2,103581,3,,Flavio Saretta,R,183,BRA,19.8,7-6(8) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,482,47,317,94
 2000-M-FU-CHI-04A-2000,Chile F4,Clay,32,S,20000417,13,103672,8,Q,Ricardo Mello,L,175,BRA,19.3,102718,,Q,Enzo Artoni,R,,ITA,24.2,5-7 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,349,79,660,20
 2000-M-FU-CHI-04A-2000,Chile F4,Clay,32,S,20000417,14,103737,,,Edgardo Massa,R,180,ARG,19.0,103841,,WC,Julio Peralta,R,188,CHI,18.6,7-5 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,505,41,1313,1
-2000-M-FU-CHI-04A-2000,Chile F4,Clay,32,S,20000417,15,111486,,,Leonardo Olguin,U,,ARG,24.5,102962,,Q,Miguel Miranda,R,,CHI,23.0,3-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1313,1
+2000-M-FU-CHI-04A-2000,Chile F4,Clay,32,S,20000417,15,102693,,,Leonardo Olguin,R,,ARG,24.3,102962,,Q,Miguel Miranda,R,,CHI,23.0,3-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,370,71,1313,1
 2000-M-FU-CHI-04A-2000,Chile F4,Clay,32,S,20000417,16,102145,2,,Francisco Cabello,R,190,ARG,27.3,103534,,LL,Nicolas Devilder,L,173,FRA,20.0,6-2 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,316,94,759,13
 2000-M-FU-CHI-04A-2000,Chile F4,Clay,32,S,20000417,17,102997,,,Hermes Gamonal,R,180,CHI,22.8,102807,,,Rodrigo Monte,R,,BRA,23.8,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,599,26,596,26
 2000-M-FU-CHI-04A-2000,Chile F4,Clay,32,S,20000417,18,103201,7,,Adrian Garcia,R,175,CHI,21.8,102920,,,Diego Hipperdinger,R,,ESP,23.2,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,347,80,513,39
@@ -2762,7 +2762,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-CHI-04A-2000,Chile F4,Clay,32,S,20000417,21,103373,6,,Sergio Roitman,R,185,ARG,20.9,103506,,,Martin Vassallo Arguello,R,183,ARG,20.1,7-6(4) 5-4 RET,3,R16,,,,,,,,,,,,,,,,,,,,340,84,423,60
 2000-M-FU-CHI-04A-2000,Chile F4,Clay,32,S,20000417,22,102224,,,Miguel Pastura,R,,ARG,26.8,103121,,,Matias Oneille,R,,ARG,22.2,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,644,21,482,47
 2000-M-FU-CHI-04A-2000,Chile F4,Clay,32,S,20000417,23,103672,8,Q,Ricardo Mello,L,175,BRA,19.3,103737,,,Edgardo Massa,R,180,ARG,19.0,1-6 6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,349,79,505,41
-2000-M-FU-CHI-04A-2000,Chile F4,Clay,32,S,20000417,24,102145,2,,Francisco Cabello,R,190,ARG,27.3,111486,,,Leonardo Olguin,U,,ARG,24.5,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,316,94,,
+2000-M-FU-CHI-04A-2000,Chile F4,Clay,32,S,20000417,24,102145,2,,Francisco Cabello,R,190,ARG,27.3,102693,,,Leonardo Olguin,R,,ARG,24.3,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,316,94,370,71
 2000-M-FU-CHI-04A-2000,Chile F4,Clay,32,S,20000417,25,102997,,,Hermes Gamonal,R,180,CHI,22.8,103201,7,,Adrian Garcia,R,175,CHI,21.8,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,599,26,347,80
 2000-M-FU-CHI-04A-2000,Chile F4,Clay,32,S,20000417,26,101991,,Q,Mauricio Hadad,R,170,COL,28.3,101976,5,,Federico Dondo,R,,URU,28.4,1-6 6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,805,10,331,86
 2000-M-FU-CHI-04A-2000,Chile F4,Clay,32,S,20000417,27,103373,6,,Sergio Roitman,R,185,ARG,20.9,102224,,,Miguel Pastura,R,,ARG,26.8,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,340,84,644,21
@@ -3173,7 +3173,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-CHI-06A-2000,Chile F6,Clay,32,S,20000501,6,102997,,,Hermes Gamonal,R,180,CHI,22.9,103775,,Q,Felipe Parada,R,175,CHI,18.9,6-0 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,568,30,,
 2000-M-FU-CHI-06A-2000,Chile F6,Clay,32,S,20000501,7,102962,,Q,Miguel Miranda,R,,CHI,23.1,103624,,Q,Sebastian Uriarte,R,,ARG,19.6,6-3 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1305,1,1305,1
 2000-M-FU-CHI-06A-2000,Chile F6,Clay,32,S,20000501,8,103672,5,,Ricardo Mello,L,175,BRA,19.3,103195,,,Leandro Rosa,R,,BRA,21.9,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,339,81,657,20
-2000-M-FU-CHI-06A-2000,Chile F6,Clay,32,S,20000501,9,111486,6,,Leonardo Olguin,U,,ARG,24.5,103700,,,Juan Pablo Guzman,L,178,ARG,19.2,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,489,43
+2000-M-FU-CHI-06A-2000,Chile F6,Clay,32,S,20000501,9,102693,6,,Leonardo Olguin,R,,ARG,24.4,103700,,,Juan Pablo Guzman,L,178,ARG,19.2,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,366,72,489,43
 2000-M-FU-CHI-06A-2000,Chile F6,Clay,32,S,20000501,10,102920,,,Diego Hipperdinger,R,,ESP,23.2,101954,,,Oscar Bustos,R,,CHI,28.6,6-1 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,507,40,584,27
 2000-M-FU-CHI-06A-2000,Chile F6,Clay,32,S,20000501,11,103587,,Q,Andres Dellatorre,R,190,ARG,19.8,103493,,,Eduardo Bohrer,R,,BRA,20.2,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,976,5,760,13
 2000-M-FU-CHI-06A-2000,Chile F6,Clay,32,S,20000501,12,103201,4,,Adrian Garcia,R,175,CHI,21.9,103604,,Q,Ignacio Vila,U,,ESP,19.7,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,335,82,1305,1
@@ -3185,7 +3185,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-CHI-06A-2000,Chile F6,Clay,32,S,20000501,18,103095,,,Patricio Rudi,R,,ARG,22.3,103506,7,,Martin Vassallo Arguello,R,183,ARG,20.2,2-6 7-6(5) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,555,32,418,60
 2000-M-FU-CHI-06A-2000,Chile F6,Clay,32,S,20000501,19,103373,3,,Sergio Roitman,R,185,ARG,20.9,102997,,,Hermes Gamonal,R,180,CHI,22.9,4-6 6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,314,91,568,30
 2000-M-FU-CHI-06A-2000,Chile F6,Clay,32,S,20000501,20,102962,,Q,Miguel Miranda,R,,CHI,23.1,103672,5,,Ricardo Mello,L,175,BRA,19.3,7-6(1) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1305,1,339,81
-2000-M-FU-CHI-06A-2000,Chile F6,Clay,32,S,20000501,21,102920,,,Diego Hipperdinger,R,,ESP,23.2,111486,6,,Leonardo Olguin,U,,ARG,24.5,5-7 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,507,40,,
+2000-M-FU-CHI-06A-2000,Chile F6,Clay,32,S,20000501,21,102920,,,Diego Hipperdinger,R,,ESP,23.2,102693,6,,Leonardo Olguin,R,,ARG,24.4,5-7 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,507,40,366,72
 2000-M-FU-CHI-06A-2000,Chile F6,Clay,32,S,20000501,22,103201,4,,Adrian Garcia,R,175,CHI,21.9,103587,,Q,Andres Dellatorre,R,190,ARG,19.8,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,335,82,976,5
 2000-M-FU-CHI-06A-2000,Chile F6,Clay,32,S,20000501,23,103121,8,,Matias Oneille,R,,ARG,22.2,103850,,Q,Sebastian Decoud,L,178,ARG,18.6,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,475,48,1305,1
 2000-M-FU-CHI-06A-2000,Chile F6,Clay,32,S,20000501,24,101961,,Q,Martin Stringari,R,188,ARG,28.6,104477,,WC,Jorge Aguilar,R,178,CHI,15.3,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,,
@@ -3559,7 +3559,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-ARG-04A-2000,Argentina F4,Clay,32,S,20000508,5,102962,,LL,Miguel Miranda,R,,CHI,23.1,101976,4,,Federico Dondo,R,,URU,28.5,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1312,1,315,91
 2000-M-FU-ARG-04A-2000,Argentina F4,Clay,32,S,20000508,6,103850,,WC,Sebastian Decoud,L,178,ARG,18.6,108585,,,Americo Venero Montes,U,175,PER,28.2,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1312,1,,
 2000-M-FU-ARG-04A-2000,Argentina F4,Clay,32,S,20000508,7,103883,,Q,Lucas Engel,U,,BRA,18.4,103710,,,Federico Abadie,R,,ARG,19.2,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1312,1,910,6
-2000-M-FU-ARG-04A-2000,Argentina F4,Clay,32,S,20000508,8,111486,5,,Leonardo Olguin,U,,ARG,24.5,103846,,,Mariano Campos,R,,ARG,18.6,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,760,12
+2000-M-FU-ARG-04A-2000,Argentina F4,Clay,32,S,20000508,8,102693,5,,Leonardo Olguin,R,,ARG,24.4,103846,,,Mariano Campos,R,,ARG,18.6,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,439,55,760,12
 2000-M-FU-ARG-04A-2000,Argentina F4,Clay,32,S,20000508,9,103506,6,,Martin Vassallo Arguello,R,183,ARG,20.2,118135,,WC,Franco Zamora,U,,ARG,17.1,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,416,60,,
 2000-M-FU-ARG-04A-2000,Argentina F4,Clay,32,S,20000508,10,104016,,WC,Antonio Pastorino,U,,ARG,17.9,103493,,,Eduardo Bohrer,R,,BRA,20.3,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,830,10
 2000-M-FU-ARG-04A-2000,Argentina F4,Clay,32,S,20000508,11,103624,,Q,Sebastian Uriarte,R,,ARG,19.6,103095,,,Patricio Rudi,R,,ARG,22.3,6-4 6-7(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1312,1,564,31
@@ -3571,13 +3571,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-ARG-04A-2000,Argentina F4,Clay,32,S,20000508,17,104076,1,,Jose Acasuso,R,190,ARG,17.5,103195,,,Leandro Rosa,R,,BRA,21.9,7-6(4) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,248,132,692,17
 2000-M-FU-ARG-04A-2000,Argentina F4,Clay,32,S,20000508,18,103546,,,Patricio Arquez,R,,ARG,20.0,102846,,Q,Raul Valdes,R,,CHI,23.6,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,683,18,1052,4
 2000-M-FU-ARG-04A-2000,Argentina F4,Clay,32,S,20000508,19,102962,,LL,Miguel Miranda,R,,CHI,23.1,103850,,WC,Sebastian Decoud,L,178,ARG,18.6,6-4 3-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1312,1,1312,1
-2000-M-FU-ARG-04A-2000,Argentina F4,Clay,32,S,20000508,20,111486,5,,Leonardo Olguin,U,,ARG,24.5,103883,,Q,Lucas Engel,U,,BRA,18.4,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,1312,1
+2000-M-FU-ARG-04A-2000,Argentina F4,Clay,32,S,20000508,20,102693,5,,Leonardo Olguin,R,,ARG,24.4,103883,,Q,Lucas Engel,U,,BRA,18.4,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,439,55,1312,1
 2000-M-FU-ARG-04A-2000,Argentina F4,Clay,32,S,20000508,21,103506,6,,Martin Vassallo Arguello,R,183,ARG,20.2,104016,,WC,Antonio Pastorino,U,,ARG,17.9,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,416,60,,
 2000-M-FU-ARG-04A-2000,Argentina F4,Clay,32,S,20000508,22,103373,3,,Sergio Roitman,R,185,ARG,20.9,103624,,Q,Sebastian Uriarte,R,,ARG,19.6,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,308,95,1312,1
 2000-M-FU-ARG-04A-2000,Argentina F4,Clay,32,S,20000508,23,103976,,Q,Juan Pablo Brzezicki,R,178,ARG,18.0,103700,8,,Juan Pablo Guzman,L,178,ARG,19.2,6-2 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1052,4,509,40
 2000-M-FU-ARG-04A-2000,Argentina F4,Clay,32,S,20000508,24,102920,,,Diego Hipperdinger,R,,ESP,23.3,102930,2,,Rodrigo Cerdera,R,,ARG,23.2,7-5 4-6 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,499,42,254,126
 2000-M-FU-ARG-04A-2000,Argentina F4,Clay,32,S,20000508,25,104076,1,,Jose Acasuso,R,190,ARG,17.5,103546,,,Patricio Arquez,R,,ARG,20.0,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,248,132,683,18
-2000-M-FU-ARG-04A-2000,Argentina F4,Clay,32,S,20000508,26,102962,,LL,Miguel Miranda,R,,CHI,23.1,111486,5,,Leonardo Olguin,U,,ARG,24.5,7-5 3-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,1312,1,,
+2000-M-FU-ARG-04A-2000,Argentina F4,Clay,32,S,20000508,26,102962,,LL,Miguel Miranda,R,,CHI,23.1,102693,5,,Leonardo Olguin,R,,ARG,24.4,7-5 3-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,1312,1,439,55
 2000-M-FU-ARG-04A-2000,Argentina F4,Clay,32,S,20000508,27,103373,3,,Sergio Roitman,R,185,ARG,20.9,103506,6,,Martin Vassallo Arguello,R,183,ARG,20.2,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,308,95,416,60
 2000-M-FU-ARG-04A-2000,Argentina F4,Clay,32,S,20000508,28,102920,,,Diego Hipperdinger,R,,ESP,23.3,103976,,Q,Juan Pablo Brzezicki,R,178,ARG,18.0,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,499,42,1052,4
 2000-M-FU-ARG-04A-2000,Argentina F4,Clay,32,S,20000508,29,104076,1,,Jose Acasuso,R,190,ARG,17.5,102962,,LL,Miguel Miranda,R,,CHI,23.1,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,248,132,1312,1
@@ -4040,8 +4040,8 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-ARG-05A-2000a,Argentina F5,Clay,32,S,20000515,3,103976,,A,Juan Pablo Brzezicki,R,178,ARG,18.0,103572,,A,Luis Hormazabal,R,,CHI,19.9,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1053,4,1226,2
 2000-M-FU-ARG-05A-2000b,Argentina F5,Clay,32,S,20000515,4,103700,8,,Juan Pablo Guzman,L,178,ARG,19.2,103552,,A,Carlos Gonzalez Leiva,R,,CHI,20.0,3-6 6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,508,40,1178,2
 2000-M-FU-ARG-05A-2000a,Argentina F5,Clay,32,S,20000515,4,103700,8,,Juan Pablo Guzman,L,178,ARG,19.2,103552,,A,Carlos Gonzalez Leiva,R,,CHI,20.0,3-6 6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,508,40,1178,2
-2000-M-FU-ARG-05A-2000a,Argentina F5,Clay,32,S,20000515,5,111486,4,,Leonardo Olguin,U,,ARG,24.6,104033,,WC,Juan Pablo Villar,U,,ARG,17.8,7-6(4) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2000-M-FU-ARG-05A-2000b,Argentina F5,Clay,32,S,20000515,5,111486,4,,Leonardo Olguin,U,,ARG,24.6,104033,,WC,Juan Pablo Villar,U,,ARG,17.8,7-6(4) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2000-M-FU-ARG-05A-2000a,Argentina F5,Clay,32,S,20000515,5,102693,4,,Leonardo Olguin,R,,ARG,24.4,104033,,WC,Juan Pablo Villar,U,,ARG,17.8,7-6(4) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,442,56,,
+2000-M-FU-ARG-05A-2000b,Argentina F5,Clay,32,S,20000515,5,102693,4,,Leonardo Olguin,R,,ARG,24.4,104033,,WC,Juan Pablo Villar,U,,ARG,17.8,7-6(4) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,442,56,,
 2000-M-FU-ARG-05A-2000a,Argentina F5,Clay,32,S,20000515,6,104016,,WC,Antonio Pastorino,U,,ARG,17.9,103493,,,Eduardo Bohrer,R,,BRA,20.3,7-6(1) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,832,10
 2000-M-FU-ARG-05A-2000b,Argentina F5,Clay,32,S,20000515,6,104016,,WC,Antonio Pastorino,U,,ARG,17.9,103493,,,Eduardo Bohrer,R,,BRA,20.3,7-6(1) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,832,10
 2000-M-FU-ARG-05A-2000a,Argentina F5,Clay,32,S,20000515,7,103546,,,Patricio Arquez,R,,ARG,20.0,102962,,SE,Miguel Miranda,R,,CHI,23.1,3-6 7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,684,18,1141,3
@@ -4068,8 +4068,8 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-ARG-05A-2000a,Argentina F5,Clay,32,S,20000515,17,104076,1,WC,Jose Acasuso,R,190,ARG,17.5,103832,,A,Matias Ormaza,U,,ARG,18.7,7-6(1) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,250,130,1098,3
 2000-M-FU-ARG-05A-2000a,Argentina F5,Clay,32,S,20000515,18,103976,,A,Juan Pablo Brzezicki,R,178,ARG,18.0,103700,8,,Juan Pablo Guzman,L,178,ARG,19.2,6-7(5) 6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1053,4,508,40
 2000-M-FU-ARG-05A-2000b,Argentina F5,Clay,32,S,20000515,18,103976,,A,Juan Pablo Brzezicki,R,178,ARG,18.0,103700,8,,Juan Pablo Guzman,L,178,ARG,19.2,6-7(5) 6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1053,4,508,40
-2000-M-FU-ARG-05A-2000b,Argentina F5,Clay,32,S,20000515,19,111486,4,,Leonardo Olguin,U,,ARG,24.6,104016,,WC,Antonio Pastorino,U,,ARG,17.9,7-5 5-7 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,,
-2000-M-FU-ARG-05A-2000a,Argentina F5,Clay,32,S,20000515,19,111486,4,,Leonardo Olguin,U,,ARG,24.6,104016,,WC,Antonio Pastorino,U,,ARG,17.9,7-5 5-7 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+2000-M-FU-ARG-05A-2000b,Argentina F5,Clay,32,S,20000515,19,102693,4,,Leonardo Olguin,R,,ARG,24.4,104016,,WC,Antonio Pastorino,U,,ARG,17.9,7-5 5-7 6-4,3,R16,,,,,,,,,,,,,,,,,,,,442,56,,
+2000-M-FU-ARG-05A-2000a,Argentina F5,Clay,32,S,20000515,19,102693,4,,Leonardo Olguin,R,,ARG,24.4,104016,,WC,Antonio Pastorino,U,,ARG,17.9,7-5 5-7 6-4,3,R16,,,,,,,,,,,,,,,,,,,,442,56,,
 2000-M-FU-ARG-05A-2000b,Argentina F5,Clay,32,S,20000515,20,103546,,,Patricio Arquez,R,,ARG,20.0,103624,,A,Sebastian Uriarte,R,,ARG,19.7,2-6 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,684,18,1317,1
 2000-M-FU-ARG-05A-2000a,Argentina F5,Clay,32,S,20000515,20,103546,,,Patricio Arquez,R,,ARG,20.0,103624,,A,Sebastian Uriarte,R,,ARG,19.7,2-6 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,684,18,1317,1
 2000-M-FU-ARG-05A-2000b,Argentina F5,Clay,32,S,20000515,21,103121,5,,Matias Oneille,R,,ARG,22.3,103195,,,Leandro Rosa,R,,BRA,22.0,4-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,457,52,693,17
@@ -4082,14 +4082,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-ARG-05A-2000a,Argentina F5,Clay,32,S,20000515,24,101976,2,,Federico Dondo,R,,URU,28.5,103095,,,Patricio Rudi,R,,ARG,22.4,7-5 2-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,316,91,552,33
 2000-M-FU-ARG-05A-2000a,Argentina F5,Clay,32,S,20000515,25,104076,1,WC,Jose Acasuso,R,190,ARG,17.5,103976,,A,Juan Pablo Brzezicki,R,178,ARG,18.0,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,250,130,1053,4
 2000-M-FU-ARG-05A-2000b,Argentina F5,Clay,32,S,20000515,25,104076,1,WC,Jose Acasuso,R,190,ARG,17.5,103976,,A,Juan Pablo Brzezicki,R,178,ARG,18.0,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,250,130,1053,4
-2000-M-FU-ARG-05A-2000a,Argentina F5,Clay,32,S,20000515,26,111486,4,,Leonardo Olguin,U,,ARG,24.6,103546,,,Patricio Arquez,R,,ARG,20.0,7-6(5) 6-1,3,QF,,,,,,,,,,,,,,,,,,,,,,684,18
-2000-M-FU-ARG-05A-2000b,Argentina F5,Clay,32,S,20000515,26,111486,4,,Leonardo Olguin,U,,ARG,24.6,103546,,,Patricio Arquez,R,,ARG,20.0,7-6(5) 6-1,3,QF,,,,,,,,,,,,,,,,,,,,,,684,18
+2000-M-FU-ARG-05A-2000a,Argentina F5,Clay,32,S,20000515,26,102693,4,,Leonardo Olguin,R,,ARG,24.4,103546,,,Patricio Arquez,R,,ARG,20.0,7-6(5) 6-1,3,QF,,,,,,,,,,,,,,,,,,,,442,56,684,18
+2000-M-FU-ARG-05A-2000b,Argentina F5,Clay,32,S,20000515,26,102693,4,,Leonardo Olguin,R,,ARG,24.4,103546,,,Patricio Arquez,R,,ARG,20.0,7-6(5) 6-1,3,QF,,,,,,,,,,,,,,,,,,,,442,56,684,18
 2000-M-FU-ARG-05A-2000a,Argentina F5,Clay,32,S,20000515,27,103121,5,,Matias Oneille,R,,ARG,22.3,103506,3,,Martin Vassallo Arguello,R,183,ARG,20.2,4-6 6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,457,52,415,61
 2000-M-FU-ARG-05A-2000b,Argentina F5,Clay,32,S,20000515,27,103121,5,,Matias Oneille,R,,ARG,22.3,103506,3,,Martin Vassallo Arguello,R,183,ARG,20.2,4-6 6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,457,52,415,61
 2000-M-FU-ARG-05A-2000a,Argentina F5,Clay,32,S,20000515,28,102920,7,,Diego Hipperdinger,R,,ESP,23.3,101976,2,,Federico Dondo,R,,URU,28.5,6-1 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,487,44,316,91
 2000-M-FU-ARG-05A-2000b,Argentina F5,Clay,32,S,20000515,28,102920,7,,Diego Hipperdinger,R,,ESP,23.3,101976,2,,Federico Dondo,R,,URU,28.5,6-1 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,487,44,316,91
-2000-M-FU-ARG-05A-2000b,Argentina F5,Clay,32,S,20000515,29,104076,1,WC,Jose Acasuso,R,190,ARG,17.5,111486,4,,Leonardo Olguin,U,,ARG,24.6,6-1 3-6 6-2,3,SF,,,,,,,,,,,,,,,,,,,,250,130,,
-2000-M-FU-ARG-05A-2000a,Argentina F5,Clay,32,S,20000515,29,104076,1,WC,Jose Acasuso,R,190,ARG,17.5,111486,4,,Leonardo Olguin,U,,ARG,24.6,6-1 3-6 6-2,3,SF,,,,,,,,,,,,,,,,,,,,250,130,,
+2000-M-FU-ARG-05A-2000b,Argentina F5,Clay,32,S,20000515,29,104076,1,WC,Jose Acasuso,R,190,ARG,17.5,102693,4,,Leonardo Olguin,R,,ARG,24.4,6-1 3-6 6-2,3,SF,,,,,,,,,,,,,,,,,,,,250,130,442,56
+2000-M-FU-ARG-05A-2000a,Argentina F5,Clay,32,S,20000515,29,104076,1,WC,Jose Acasuso,R,190,ARG,17.5,102693,4,,Leonardo Olguin,R,,ARG,24.4,6-1 3-6 6-2,3,SF,,,,,,,,,,,,,,,,,,,,250,130,442,56
 2000-M-FU-ARG-05A-2000a,Argentina F5,Clay,32,S,20000515,30,102920,7,,Diego Hipperdinger,R,,ESP,23.3,103121,5,,Matias Oneille,R,,ARG,22.3,6-2 6-1,3,SF,,,,,,,,,,,,,,,,,,,,487,44,457,52
 2000-M-FU-ARG-05A-2000b,Argentina F5,Clay,32,S,20000515,30,102920,7,,Diego Hipperdinger,R,,ESP,23.3,103121,5,,Matias Oneille,R,,ARG,22.3,6-2 6-1,3,SF,,,,,,,,,,,,,,,,,,,,487,44,457,52
 2000-M-FU-ARG-05A-2000a,Argentina F5,Clay,32,S,20000515,31,104076,1,WC,Jose Acasuso,R,190,ARG,17.5,102920,7,,Diego Hipperdinger,R,,ESP,23.3,6-0 6-4,3,F,,,,,,,,,,,,,,,,,,,,250,130,487,44
@@ -4295,7 +4295,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-ARG-06A-2000,Argentina F6,Clay,32,S,20000522,13,103095,7,,Patricio Rudi,R,,ARG,22.4,103310,,,Rodrigo Pena,R,,ARG,21.3,6-0 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,549,33,1032,5
 2000-M-FU-ARG-06A-2000,Argentina F6,Clay,32,S,20000522,14,103832,,,Matias Ormaza,U,,ARG,18.7,118151,,LL,Diego Pereira,U,,ARG,19.1,6-2 3-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1095,3,,
 2000-M-FU-ARG-06A-2000,Argentina F6,Clay,32,S,20000522,15,103962,,WC,Sebastian Losavio,U,,ARG,18.1,118152,,Q,Jose Luis Desena,U,,ARG,18.3,6-2 5-7 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2000-M-FU-ARG-06A-2000,Argentina F6,Clay,32,S,20000522,16,111486,2,,Leonardo Olguin,U,,ARG,24.6,103622,,Q,Bo Ram Cha,R,,KOR,19.7,4-6 6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2000-M-FU-ARG-06A-2000,Argentina F6,Clay,32,S,20000522,16,102693,2,,Leonardo Olguin,R,,ARG,24.4,103622,,Q,Bo Ram Cha,R,,KOR,19.7,4-6 6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,440,56,,
 2000-M-FU-ARG-06A-2000,Argentina F6,Clay,32,S,20000522,17,101976,1,,Federico Dondo,R,,URU,28.5,103624,,WC,Sebastian Uriarte,R,,ARG,19.7,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,336,81,1220,2
 2000-M-FU-ARG-06A-2000,Argentina F6,Clay,32,S,20000522,18,103701,,,Diego Hartfield,R,185,ARG,19.3,103395,8,,Julio Silva,R,173,BRA,20.8,6-2 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,1050,4,607,24
 2000-M-FU-ARG-06A-2000,Argentina F6,Clay,32,S,20000522,19,102920,4,,Diego Hipperdinger,R,,ESP,23.3,104064,,Q,Marcos Digliodo,R,,ARG,17.6,6-3 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,474,48,,
@@ -4303,11 +4303,11 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-ARG-06A-2000,Argentina F6,Clay,32,S,20000522,21,103976,,,Juan Pablo Brzezicki,R,178,ARG,18.1,102830,5,,Paulo Carvallo,R,,PAR,23.8,4-6 6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,950,6,503,42
 2000-M-FU-ARG-06A-2000,Argentina F6,Clay,32,S,20000522,22,103121,3,,Matias Oneille,R,,ARG,22.3,103850,,WC,Sebastian Decoud,L,178,ARG,18.6,4-6 7-5 6-0,3,R16,,,,,,,,,,,,,,,,,,,,459,52,1162,3
 2000-M-FU-ARG-06A-2000,Argentina F6,Clay,32,S,20000522,23,103095,7,,Patricio Rudi,R,,ARG,22.4,103832,,,Matias Ormaza,U,,ARG,18.7,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,549,33,1095,3
-2000-M-FU-ARG-06A-2000,Argentina F6,Clay,32,S,20000522,24,111486,2,,Leonardo Olguin,U,,ARG,24.6,103962,,WC,Sebastian Losavio,U,,ARG,18.1,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+2000-M-FU-ARG-06A-2000,Argentina F6,Clay,32,S,20000522,24,102693,2,,Leonardo Olguin,R,,ARG,24.4,103962,,WC,Sebastian Losavio,U,,ARG,18.1,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,440,56,,
 2000-M-FU-ARG-06A-2000,Argentina F6,Clay,32,S,20000522,25,103701,,,Diego Hartfield,R,185,ARG,19.3,101976,1,,Federico Dondo,R,,URU,28.5,6-4 6-0,3,QF,,,,,,,,,,,,,,,,,,,,1050,4,336,81
 2000-M-FU-ARG-06A-2000,Argentina F6,Clay,32,S,20000522,26,102920,4,,Diego Hipperdinger,R,,ESP,23.3,103700,6,,Juan Pablo Guzman,L,178,ARG,19.3,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,474,48,511,41
 2000-M-FU-ARG-06A-2000,Argentina F6,Clay,32,S,20000522,27,103976,,,Juan Pablo Brzezicki,R,178,ARG,18.1,103121,3,,Matias Oneille,R,,ARG,22.3,6-3 4-6 7-6(3),3,QF,,,,,,,,,,,,,,,,,,,,950,6,459,52
-2000-M-FU-ARG-06A-2000,Argentina F6,Clay,32,S,20000522,28,103095,7,,Patricio Rudi,R,,ARG,22.4,111486,2,,Leonardo Olguin,U,,ARG,24.6,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,549,33,,
+2000-M-FU-ARG-06A-2000,Argentina F6,Clay,32,S,20000522,28,103095,7,,Patricio Rudi,R,,ARG,22.4,102693,2,,Leonardo Olguin,R,,ARG,24.4,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,549,33,440,56
 2000-M-FU-ARG-06A-2000,Argentina F6,Clay,32,S,20000522,29,102920,4,,Diego Hipperdinger,R,,ESP,23.3,103701,,,Diego Hartfield,R,185,ARG,19.3,6-4 2-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,474,48,1050,4
 2000-M-FU-ARG-06A-2000,Argentina F6,Clay,32,S,20000522,30,103976,,,Juan Pablo Brzezicki,R,178,ARG,18.1,103095,7,,Patricio Rudi,R,,ARG,22.4,4-6 6-2 7-6(4),3,SF,,,,,,,,,,,,,,,,,,,,950,6,549,33
 2000-M-FU-ARG-06A-2000,Argentina F6,Clay,32,S,20000522,31,102920,4,,Diego Hipperdinger,R,,ESP,23.3,103976,,,Juan Pablo Brzezicki,R,178,ARG,18.1,6-3 6-1,3,F,,,,,,,,,,,,,,,,,,,,474,48,950,6
@@ -5097,7 +5097,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-SA-ARG-01A-2000a,Argentina 1,Clay,24,S,20000612,2,104122,,,Carlos Berlocq,R,183,ARG,17.3,102647,,,Alberto Brause,R,,URU,24.7,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,1142,3
 2000-M-SA-ARG-01A-2000a,Argentina 1,Clay,24,S,20000612,3,102985,,,Gustavo Marcaccio,R,170,ARG,23.1,103701,,,Diego Hartfield,R,185,ARG,19.3,2-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,654,20,865,8
 2000-M-SA-ARG-01A-2000a,Argentina 1,Clay,24,S,20000612,4,103546,,,Patricio Arquez,R,,ARG,20.1,103310,,,Rodrigo Pena,R,,ARG,21.4,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,633,21,1083,4
-2000-M-SA-ARG-01A-2000a,Argentina 1,Clay,24,S,20000612,5,111486,,,Leonardo Olguin,U,,ARG,24.6,103976,,,Juan Pablo Brzezicki,R,178,ARG,18.1,6-0 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,700,16
+2000-M-SA-ARG-01A-2000a,Argentina 1,Clay,24,S,20000612,5,102693,,,Leonardo Olguin,R,,ARG,24.5,103976,,,Juan Pablo Brzezicki,R,178,ARG,18.1,6-0 7-5,3,R32,,,,,,,,,,,,,,,,,,,,406,62,700,16
 2000-M-SA-ARG-01A-2000a,Argentina 1,Clay,24,S,20000612,6,103121,,,Matias Oneille,R,,ARG,22.3,103712,,,Rodolfo Daruich,U,,ARG,19.3,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,423,58,,
 2000-M-SA-ARG-01A-2000a,Argentina 1,Clay,24,S,20000612,7,101961,,,Martin Stringari,R,188,ARG,28.7,103809,,,Diogo Cruz,U,,BRA,18.9,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1180,2,1313,1
 2000-M-SA-ARG-01A-2000a,Argentina 1,Clay,24,S,20000612,8,103478,,,Diego Veronelli,R,193,ARG,20.5,103624,,,Sebastian Uriarte,R,,ARG,19.7,6-4 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,338,80,1083,4
@@ -5105,7 +5105,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-SA-ARG-01A-2000a,Argentina 1,Clay,24,S,20000612,10,103373,7,,Sergio Roitman,R,185,ARG,21.0,104122,,,Carlos Berlocq,R,183,ARG,17.3,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,272,117,,
 2000-M-SA-ARG-01A-2000a,Argentina 1,Clay,24,S,20000612,11,102985,,,Gustavo Marcaccio,R,170,ARG,23.1,103850,4,,Sebastian Decoud,L,178,ARG,18.7,7-6(3) 3-6 6-0,3,R16,,,,,,,,,,,,,,,,,,,,654,20,1024,5
 2000-M-SA-ARG-01A-2000a,Argentina 1,Clay,24,S,20000612,12,103546,,,Patricio Arquez,R,,ARG,20.1,102962,6,,Miguel Miranda,R,,CHI,23.2,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,633,21,894,7
-2000-M-SA-ARG-01A-2000a,Argentina 1,Clay,24,S,20000612,13,102544,5,,Pablo Bianchi,R,,URU,25.2,111486,,,Leonardo Olguin,U,,ARG,24.6,6-3 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,660,19,,
+2000-M-SA-ARG-01A-2000a,Argentina 1,Clay,24,S,20000612,13,102544,5,,Pablo Bianchi,R,,URU,25.2,102693,,,Leonardo Olguin,R,,ARG,24.5,6-3 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,660,19,406,62
 2000-M-SA-ARG-01A-2000a,Argentina 1,Clay,24,S,20000612,14,103121,,,Matias Oneille,R,,ARG,22.3,102611,3,,Rafael Serpa Guinazu,R,,ARG,24.9,6-4 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,423,58,602,24
 2000-M-SA-ARG-01A-2000a,Argentina 1,Clay,24,S,20000612,15,102723,8,,Eduardo Medica,R,180,ARG,24.3,101961,,,Martin Stringari,R,188,ARG,28.7,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,564,29,1180,2
 2000-M-SA-ARG-01A-2000a,Argentina 1,Clay,24,S,20000612,16,103737,2,,Edgardo Massa,R,180,ARG,19.2,103478,,,Diego Veronelli,R,193,ARG,20.5,7-5 2-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,484,44,338,80
@@ -5128,7 +5128,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-SA-ARG-01A-2000b,Argentina 2,Clay,32,S,20000612,10,103478,,,Diego Veronelli,R,193,ARG,20.5,103846,,Q,Mariano Campos,R,,ARG,18.7,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,338,80,756,12
 2000-M-SA-ARG-01A-2000b,Argentina 2,Clay,32,S,20000612,11,103310,,,Rodrigo Pena,R,,ARG,21.4,103593,,Q,Marcelo Barboza,R,,URU,19.9,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1083,4,,
 2000-M-SA-ARG-01A-2000b,Argentina 2,Clay,32,S,20000612,12,102962,4,,Miguel Miranda,R,,CHI,23.2,103587,,WC,Andres Dellatorre,R,190,ARG,19.9,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,894,7,923,6
-2000-M-SA-ARG-01A-2000b,Argentina 2,Clay,32,S,20000612,13,111486,8,,Leonardo Olguin,U,,ARG,24.6,103712,,Q,Rodolfo Daruich,U,,ARG,19.3,3-6 6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2000-M-SA-ARG-01A-2000b,Argentina 2,Clay,32,S,20000612,13,102693,8,,Leonardo Olguin,R,,ARG,24.5,103712,,Q,Rodolfo Daruich,U,,ARG,19.3,3-6 6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,406,62,,
 2000-M-SA-ARG-01A-2000b,Argentina 2,Clay,32,S,20000612,14,102611,,,Rafael Serpa Guinazu,R,,ARG,24.9,104122,,Q,Carlos Berlocq,R,183,ARG,17.3,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,602,24,,
 2000-M-SA-ARG-01A-2000b,Argentina 2,Clay,32,S,20000612,15,103121,,,Matias Oneille,R,,ARG,22.3,103840,,WC,Juan Pablo Di Cesare,R,,ARG,18.7,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,423,58,,
 2000-M-SA-ARG-01A-2000b,Argentina 2,Clay,32,S,20000612,16,102985,,Q,Gustavo Marcaccio,R,170,ARG,23.1,103850,2,,Sebastian Decoud,L,178,ARG,18.7,3-6 7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,654,20,1024,5
@@ -5138,7 +5138,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-SA-ARG-01A-2000b,Argentina 2,Clay,32,S,20000612,20,103976,,,Juan Pablo Brzezicki,R,178,ARG,18.1,103701,,,Diego Hartfield,R,185,ARG,19.3,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,700,16,865,8
 2000-M-SA-ARG-01A-2000b,Argentina 2,Clay,32,S,20000612,21,102544,6,,Pablo Bianchi,R,,URU,25.2,103478,,,Diego Veronelli,R,193,ARG,20.5,6-0 3-6 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,660,19,338,80
 2000-M-SA-ARG-01A-2000b,Argentina 2,Clay,32,S,20000612,22,102962,4,,Miguel Miranda,R,,CHI,23.2,103310,,,Rodrigo Pena,R,,ARG,21.4,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,894,7,1083,4
-2000-M-SA-ARG-01A-2000b,Argentina 2,Clay,32,S,20000612,23,102611,,,Rafael Serpa Guinazu,R,,ARG,24.9,111486,8,,Leonardo Olguin,U,,ARG,24.6,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,602,24,,
+2000-M-SA-ARG-01A-2000b,Argentina 2,Clay,32,S,20000612,23,102611,,,Rafael Serpa Guinazu,R,,ARG,24.9,102693,8,,Leonardo Olguin,R,,ARG,24.5,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,602,24,406,62
 2000-M-SA-ARG-01A-2000b,Argentina 2,Clay,32,S,20000612,24,103121,,,Matias Oneille,R,,ARG,22.3,102985,,Q,Gustavo Marcaccio,R,170,ARG,23.1,6-4 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,423,58,654,20
 2000-M-SA-ARG-01A-2000b,Argentina 2,Clay,32,S,20000612,25,103700,1,,Juan Pablo Guzman,L,178,ARG,19.3,102718,,,Enzo Artoni,R,,ITA,24.3,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,485,44,737,14
 2000-M-SA-ARG-01A-2000b,Argentina 2,Clay,32,S,20000612,26,103737,,,Edgardo Massa,R,180,ARG,19.2,103976,,,Juan Pablo Brzezicki,R,178,ARG,18.1,7-6(3) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,484,44,700,16
@@ -5151,7 +5151,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-SA-ARG-01A-2000c,Argentina 3,Clay,32,S,20000612,2,103701,,Q,Diego Hartfield,R,185,ARG,19.3,103689,,Q,Guillermo Carry,L,,ARG,19.4,7-6(1) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,865,8,,
 2000-M-SA-ARG-01A-2000c,Argentina 3,Clay,32,S,20000612,3,103809,,Q,Diogo Cruz,U,,BRA,18.9,102962,,,Miguel Miranda,R,,CHI,23.2,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1313,1,894,7
 2000-M-SA-ARG-01A-2000c,Argentina 3,Clay,32,S,20000612,4,102723,8,,Eduardo Medica,R,180,ARG,24.3,103883,,Q,Lucas Engel,U,,BRA,18.5,6-4 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,564,29,1230,2
-2000-M-SA-ARG-01A-2000c,Argentina 3,Clay,32,S,20000612,5,102544,,,Pablo Bianchi,R,,URU,25.2,111486,3,,Leonardo Olguin,U,,ARG,24.6,4-6 6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,660,19,,
+2000-M-SA-ARG-01A-2000c,Argentina 3,Clay,32,S,20000612,5,102544,,,Pablo Bianchi,R,,URU,25.2,102693,3,,Leonardo Olguin,R,,ARG,24.5,4-6 6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,660,19,406,62
 2000-M-SA-ARG-01A-2000c,Argentina 3,Clay,32,S,20000612,6,103976,,,Juan Pablo Brzezicki,R,178,ARG,18.1,103846,,,Mariano Campos,R,,ARG,18.7,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,700,16,756,12
 2000-M-SA-ARG-01A-2000c,Argentina 3,Clay,32,S,20000612,7,103850,,SE,Sebastian Decoud,L,178,ARG,18.7,122801,,WC,Pablo Madariaga,U,,ARG,21.4,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1024,5,,
 2000-M-SA-ARG-01A-2000c,Argentina 3,Clay,32,S,20000612,8,103737,5,,Edgardo Massa,R,180,ARG,19.2,103090,,Q,Diego Bracco,R,,ARG,22.5,6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,484,44,1313,1
@@ -5189,7 +5189,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-SA-ARG-01A-2000d,Argentina 4,Clay,32,S,20000612,9,103121,5,,Matias Oneille,R,,ARG,22.3,103587,,WC,Andres Dellatorre,R,190,ARG,19.9,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,423,58,923,6
 2000-M-SA-ARG-01A-2000d,Argentina 4,Clay,32,S,20000612,10,102723,,,Eduardo Medica,R,180,ARG,24.3,103846,,,Mariano Campos,R,,ARG,18.7,3-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,564,29,756,12
 2000-M-SA-ARG-01A-2000d,Argentina 4,Clay,32,S,20000612,11,103701,,Q,Diego Hartfield,R,185,ARG,19.3,104122,,Q,Carlos Berlocq,R,183,ARG,17.3,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,865,8,,
-2000-M-SA-ARG-01A-2000d,Argentina 4,Clay,32,S,20000612,12,111486,3,,Leonardo Olguin,U,,ARG,24.6,118270,,WC,Gonzalo Gilabert,U,,ARG,18.9,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2000-M-SA-ARG-01A-2000d,Argentina 4,Clay,32,S,20000612,12,102693,3,,Leonardo Olguin,R,,ARG,24.5,118270,,WC,Gonzalo Gilabert,U,,ARG,18.9,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,406,62,,
 2000-M-SA-ARG-01A-2000d,Argentina 4,Clay,32,S,20000612,13,103850,,Q,Sebastian Decoud,L,178,ARG,18.7,103274,8,,Eduardo Frick,R,,BRA,21.6,6-3 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,1024,5,536,33
 2000-M-SA-ARG-01A-2000d,Argentina 4,Clay,32,S,20000612,14,103712,,Q,Rodolfo Daruich,U,,ARG,19.3,102985,,,Gustavo Marcaccio,R,170,ARG,23.1,6-3 0-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,654,20
 2000-M-SA-ARG-01A-2000d,Argentina 4,Clay,32,S,20000612,15,101961,,Q,Martin Stringari,R,188,ARG,28.7,104016,,WC,Antonio Pastorino,U,,ARG,17.9,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1180,2,1230,2
@@ -5199,15 +5199,15 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-SA-ARG-01A-2000d,Argentina 4,Clay,32,S,20000612,19,102647,,LL,Alberto Brause,R,,URU,24.7,103976,,,Juan Pablo Brzezicki,R,178,ARG,18.1,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1142,3,700,16
 2000-M-SA-ARG-01A-2000d,Argentina 4,Clay,32,S,20000612,20,103546,,,Patricio Arquez,R,,ARG,20.1,103310,,Q,Rodrigo Pena,R,,ARG,21.4,2-6 6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,633,21,1083,4
 2000-M-SA-ARG-01A-2000d,Argentina 4,Clay,32,S,20000612,21,102723,,,Eduardo Medica,R,180,ARG,24.3,103121,5,,Matias Oneille,R,,ARG,22.3,4-6 7-6(4) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,564,29,423,58
-2000-M-SA-ARG-01A-2000d,Argentina 4,Clay,32,S,20000612,22,111486,3,,Leonardo Olguin,U,,ARG,24.6,103701,,Q,Diego Hartfield,R,185,ARG,19.3,7-6(1) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,865,8
+2000-M-SA-ARG-01A-2000d,Argentina 4,Clay,32,S,20000612,22,102693,3,,Leonardo Olguin,R,,ARG,24.5,103701,,Q,Diego Hartfield,R,185,ARG,19.3,7-6(1) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,406,62,865,8
 2000-M-SA-ARG-01A-2000d,Argentina 4,Clay,32,S,20000612,23,103850,,Q,Sebastian Decoud,L,178,ARG,18.7,103712,,Q,Rodolfo Daruich,U,,ARG,19.3,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1024,5,,
 2000-M-SA-ARG-01A-2000d,Argentina 4,Clay,32,S,20000612,24,103478,2,,Diego Veronelli,R,193,ARG,20.5,101961,,Q,Martin Stringari,R,188,ARG,28.7,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,338,80,1180,2
 2000-M-SA-ARG-01A-2000d,Argentina 4,Clay,32,S,20000612,25,102962,,,Miguel Miranda,R,,CHI,23.2,103700,7,,Juan Pablo Guzman,L,178,ARG,19.3,4-6 6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,894,7,485,44
 2000-M-SA-ARG-01A-2000d,Argentina 4,Clay,32,S,20000612,26,103546,,,Patricio Arquez,R,,ARG,20.1,102647,,LL,Alberto Brause,R,,URU,24.7,6-4 1-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,633,21,1142,3
-2000-M-SA-ARG-01A-2000d,Argentina 4,Clay,32,S,20000612,27,111486,3,,Leonardo Olguin,U,,ARG,24.6,102723,,,Eduardo Medica,R,180,ARG,24.3,6-3 6-0,3,QF,,,,,,,,,,,,,,,,,,,,,,564,29
+2000-M-SA-ARG-01A-2000d,Argentina 4,Clay,32,S,20000612,27,102693,3,,Leonardo Olguin,R,,ARG,24.5,102723,,,Eduardo Medica,R,180,ARG,24.3,6-3 6-0,3,QF,,,,,,,,,,,,,,,,,,,,406,62,564,29
 2000-M-SA-ARG-01A-2000d,Argentina 4,Clay,32,S,20000612,28,103850,,Q,Sebastian Decoud,L,178,ARG,18.7,103478,2,,Diego Veronelli,R,193,ARG,20.5,4-6 6-3 7-5,3,QF,,,,,,,,,,,,,,,,,,,,1024,5,338,80
 2000-M-SA-ARG-01A-2000d,Argentina 4,Clay,32,S,20000612,29,102962,,,Miguel Miranda,R,,CHI,23.2,103546,,,Patricio Arquez,R,,ARG,20.1,6-3 2-6 6-2,3,SF,,,,,,,,,,,,,,,,,,,,894,7,633,21
-2000-M-SA-ARG-01A-2000d,Argentina 4,Clay,32,S,20000612,30,103850,,Q,Sebastian Decoud,L,178,ARG,18.7,111486,3,,Leonardo Olguin,U,,ARG,24.6,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,1024,5,,
+2000-M-SA-ARG-01A-2000d,Argentina 4,Clay,32,S,20000612,30,103850,,Q,Sebastian Decoud,L,178,ARG,18.7,102693,3,,Leonardo Olguin,R,,ARG,24.5,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,1024,5,406,62
 2000-M-SA-ARG-01A-2000d,Argentina 4,Clay,32,S,20000612,31,103850,,Q,Sebastian Decoud,L,178,ARG,18.7,102962,,,Miguel Miranda,R,,CHI,23.2,6-3 3-6 6-1,3,F,,,,,,,,,,,,,,,,,,,,1024,5,894,7
 2000-M-FU-CAN-01A-2000,Canada F1,Hard,32,S,20000612,1,103225,1,,Simon Larose,R,190,CAN,21.9,103721,,,Ezequiel Nastari,R,,VEN,19.2,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,490,42,1161,3
 2000-M-FU-CAN-01A-2000,Canada F1,Hard,32,S,20000612,2,102766,,,Marcus Fluitt,R,,USA,24.1,103226,,,Walid Jallali,R,,TUN,21.9,7-5 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,1313,1,1142,3
@@ -8304,7 +8304,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-NED-01A-2000,Netherlands F1,Clay,32,S,20000828,10,103733,,,Luben Pampoulov,R,,AUT,19.4,103465,,LL,Paul Logtens,R,175,NED,20.8,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,412,58,1075,3
 2000-M-FU-NED-01A-2000,Netherlands F1,Clay,32,S,20000828,11,102391,,,Charles Edouard Maria,R,,FRA,26.2,102946,,Q,Thorsten Wolff,R,,GER,23.4,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,469,46,743,14
 2000-M-FU-NED-01A-2000,Netherlands F1,Clay,32,S,20000828,12,102637,,Q,Julien Couly,R,,FRA,25.0,103685,,LL,Olivier Ramos,U,,FRA,19.6,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,611,23,621,23
-2000-M-FU-NED-01A-2000,Netherlands F1,Clay,32,S,20000828,13,111486,,,Leonardo Olguin,U,,ARG,24.8,101683,8,,Donavan September,R,,RSA,30.6,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,366,75
+2000-M-FU-NED-01A-2000,Netherlands F1,Clay,32,S,20000828,13,102693,,,Leonardo Olguin,R,,ARG,24.7,101683,8,,Donavan September,R,,RSA,30.6,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,506,38,366,75
 2000-M-FU-NED-01A-2000,Netherlands F1,Clay,32,S,20000828,14,103956,,Q,Stefan Wauters,R,,BEL,18.4,102736,,,Maxime Boye,R,,FRA,24.4,6-4 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,737,14,482,42
 2000-M-FU-NED-01A-2000,Netherlands F1,Clay,32,S,20000828,15,103693,,Q,Thierry Ascione,R,188,FRA,19.6,118239,,WC,Frank Clausing,U,,NED,17.8,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,537,33,,
 2000-M-FU-NED-01A-2000,Netherlands F1,Clay,32,S,20000828,16,102615,2,WC,Dennis Van Scheppingen,R,185,NED,25.1,103722,,SE,Florent Serra,R,180,FRA,19.4,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,264,125,674,18
@@ -8314,12 +8314,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-NED-01A-2000,Netherlands F1,Clay,32,S,20000828,20,103520,6,,Pavel Snobel,L,190,CZE,20.4,103820,,,Alan Mackin,R,183,GBR,19.0,7-6(2) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,319,93,512,37
 2000-M-FU-NED-01A-2000,Netherlands F1,Clay,32,S,20000828,21,103280,5,,Martin Verkerk,R,196,NED,21.8,103733,,,Luben Pampoulov,R,,AUT,19.4,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,280,113,412,58
 2000-M-FU-NED-01A-2000,Netherlands F1,Clay,32,S,20000828,22,102637,,Q,Julien Couly,R,,FRA,25.0,102391,,,Charles Edouard Maria,R,,FRA,26.2,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,611,23,469,46
-2000-M-FU-NED-01A-2000,Netherlands F1,Clay,32,S,20000828,23,111486,,,Leonardo Olguin,U,,ARG,24.8,103956,,Q,Stefan Wauters,R,,BEL,18.4,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,737,14
+2000-M-FU-NED-01A-2000,Netherlands F1,Clay,32,S,20000828,23,102693,,,Leonardo Olguin,R,,ARG,24.7,103956,,Q,Stefan Wauters,R,,BEL,18.4,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,506,38,737,14
 2000-M-FU-NED-01A-2000,Netherlands F1,Clay,32,S,20000828,24,102615,2,WC,Dennis Van Scheppingen,R,185,NED,25.1,103693,,Q,Thierry Ascione,R,188,FRA,19.6,7-6(4) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,264,125,537,33
 2000-M-FU-NED-01A-2000,Netherlands F1,Clay,32,S,20000828,25,102444,7,,Scott Barron,R,,IRL,26.0,102544,,,Pablo Bianchi,R,,URU,25.5,7-6(10) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,355,80,386,69
 2000-M-FU-NED-01A-2000,Netherlands F1,Clay,32,S,20000828,26,102684,,Q,Marc Merry,R,,NED,24.7,103520,6,,Pavel Snobel,L,190,CZE,20.4,6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,535,33,319,93
 2000-M-FU-NED-01A-2000,Netherlands F1,Clay,32,S,20000828,27,103280,5,,Martin Verkerk,R,196,NED,21.8,102637,,Q,Julien Couly,R,,FRA,25.0,6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,280,113,611,23
-2000-M-FU-NED-01A-2000,Netherlands F1,Clay,32,S,20000828,28,102615,2,WC,Dennis Van Scheppingen,R,185,NED,25.1,111486,,,Leonardo Olguin,U,,ARG,24.8,6-1 3-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,264,125,,
+2000-M-FU-NED-01A-2000,Netherlands F1,Clay,32,S,20000828,28,102615,2,WC,Dennis Van Scheppingen,R,185,NED,25.1,102693,,,Leonardo Olguin,R,,ARG,24.7,6-1 3-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,264,125,506,38
 2000-M-FU-NED-01A-2000,Netherlands F1,Clay,32,S,20000828,29,102684,,Q,Marc Merry,R,,NED,24.7,102444,7,,Scott Barron,R,,IRL,26.0,7-6(4) 3-6 7-6(3),3,SF,,,,,,,,,,,,,,,,,,,,535,33,355,80
 2000-M-FU-NED-01A-2000,Netherlands F1,Clay,32,S,20000828,30,102615,2,WC,Dennis Van Scheppingen,R,185,NED,25.1,103280,5,,Martin Verkerk,R,196,NED,21.8,6-2 7-5,3,SF,,,,,,,,,,,,,,,,,,,,264,125,280,113
 2000-M-FU-NED-01A-2000,Netherlands F1,Clay,32,S,20000828,31,102615,2,WC,Dennis Van Scheppingen,R,185,NED,25.1,102684,,Q,Marc Merry,R,,NED,24.7,6-3 6-1,3,F,,,,,,,,,,,,,,,,,,,,264,125,535,33
@@ -8602,7 +8602,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-NED-02A-2000,Netherlands F2,Clay,32,S,20000904,6,102544,,SE,Pablo Bianchi,R,,URU,25.5,103722,,Q,Florent Serra,R,180,FRA,19.5,1-6 6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,386,69,674,18
 2000-M-FU-NED-02A-2000,Netherlands F2,Clay,32,S,20000904,7,103551,,Q,Willem Petrus Meyer,U,,RSA,20.3,118243,,WC,Johan Dijkstra,U,,NED,20.0,4-6 7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,771,12,1304,1
 2000-M-FU-NED-02A-2000,Netherlands F2,Clay,32,S,20000904,8,102735,5,,Cedric Kauffmann,R,,FRA,24.5,117634,,Q,Mathias Frenzel,U,,GER,22.6,1-6 6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,311,98,1173,2
-2000-M-FU-NED-02A-2000,Netherlands F2,Clay,32,S,20000904,9,103581,6,Q,Flavio Saretta,R,183,BRA,20.1,111486,,Q,Leonardo Olguin,U,,ARG,24.9,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,331,90,,
+2000-M-FU-NED-02A-2000,Netherlands F2,Clay,32,S,20000904,9,103581,6,Q,Flavio Saretta,R,183,BRA,20.1,102693,,Q,Leonardo Olguin,R,,ARG,24.7,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,331,90,506,38
 2000-M-FU-NED-02A-2000,Netherlands F2,Clay,32,S,20000904,10,102808,,,Kalle Flygt,R,,SWE,24.2,101683,,,Donavan September,R,,RSA,30.6,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,441,51,366,75
 2000-M-FU-NED-02A-2000,Netherlands F2,Clay,32,S,20000904,11,103274,,,Eduardo Frick,R,,BRA,21.9,102684,,,Marc Merry,R,,NED,24.8,4-6 7-6(3) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,530,33,535,33
 2000-M-FU-NED-02A-2000,Netherlands F2,Clay,32,S,20000904,12,103392,3,,Daniel Caracciolo,R,,ARG,21.2,103237,,Q,Antonio Couvert,R,,ARG,22.1,6-2 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,297,102,1023,4

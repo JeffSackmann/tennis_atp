@@ -613,7 +613,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-SA-ESP-02A-1998c,Spain 2 Masters 3,Clay,32,S,19980130,1,102397,1,,Jose Imaz Ruiz,R,178,ESP,23.6,102952,,,Jose Maria Vicente,R,,ESP,20.8,4-6 6-2 7-6,3,R32,,,,,,,,,,,,,,,,,,,,186,244,404,
 1998-M-SA-ESP-02A-1998c,Spain 2 Masters 3,Clay,32,S,19980130,2,101869,,,Juan Luis Tati Rascon,R,,ESP,26.9,102483,,SE,David Caballero,R,180,ESP,23.2,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,349,96,496,53
 1998-M-SA-ESP-02A-1998c,Spain 2 Masters 3,Clay,32,S,19980130,3,103186,,WC,Emilio Viuda Hernandez,R,,ESP,19.7,102823,,Q,Agustin Banos,R,,ESP,21.5,6-4 6-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,675,,665,
-1998-M-SA-ESP-02A-1998c,Spain 2 Masters 3,Clay,32,S,19980130,4,101815,,WC,Sergio Gomez Barrio,R,,ESP,27.2,111486,8,,Leonardo Olguin,U,,ARG,22.3,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,814,12,,
+1998-M-SA-ESP-02A-1998c,Spain 2 Masters 3,Clay,32,S,19980130,4,101815,,WC,Sergio Gomez Barrio,R,,ESP,27.2,102693,8,,Leonardo Olguin,R,,ARG,22.1,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,814,12,340,100
 1998-M-SA-ESP-02A-1998c,Spain 2 Masters 3,Clay,32,S,19980130,5,102818,,,Sergi Duran,R,,ESP,21.5,102522,4,,Fabio Maggi,R,175,ITA,22.9,6-1 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,356,93,253,156
 1998-M-SA-ESP-02A-1998c,Spain 2 Masters 3,Clay,32,S,19980130,6,103507,,Q,Juan Carlos Ferrero,R,183,ESP,17.9,117527,,,Oscar Martinez Dieguez,R,,ESP,23.9,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,680,22,,
 1998-M-SA-ESP-02A-1998c,Spain 2 Masters 3,Clay,32,S,19980130,7,102402,,SE,Alberto Banus Sado,R,,ESP,23.6,102828,,Q,Roberto Menendez,R,,ESP,21.5,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,594,,657,25
@@ -644,7 +644,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-SA-ESP-02A-1998d,Spain 2 Masters 4,Clay,32,S,19980130,1,102397,1,,Jose Imaz Ruiz,R,178,ESP,23.6,101420,,,Vaclav Roubicek,R,185,CZE,30.1,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,186,244,383,83
 1998-M-SA-ESP-02A-1998d,Spain 2 Masters 4,Clay,32,S,19980130,2,102402,,Q,Alberto Banus Sado,R,,ESP,23.6,102718,,,Enzo Artoni,R,,ITA,21.9,4-6 6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,594,,410,74
 1998-M-SA-ESP-02A-1998d,Spain 2 Masters 4,Clay,32,S,19980130,3,102692,,Q,Manuel Sala,R,,ESP,22.1,103248,,Q,Harel Levy,R,185,ISR,19.4,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,688,,463,60
-1998-M-SA-ESP-02A-1998d,Spain 2 Masters 4,Clay,32,S,19980130,4,103231,,Q,Pedro Nieto,R,,ESP,19.5,111486,8,,Leonardo Olguin,U,,ARG,22.3,4-6 7-5 7-6,3,R32,,,,,,,,,,,,,,,,,,,,646,,,
+1998-M-SA-ESP-02A-1998d,Spain 2 Masters 4,Clay,32,S,19980130,4,103231,,Q,Pedro Nieto,R,,ESP,19.5,102693,8,,Leonardo Olguin,R,,ARG,22.1,4-6 7-5 7-6,3,R32,,,,,,,,,,,,,,,,,,,,646,,340,100
 1998-M-SA-ESP-02A-1998d,Spain 2 Masters 4,Clay,32,S,19980130,5,102910,3,,Salvador Navarro,R,180,ESP,21.0,102952,,,Jose Maria Vicente,R,,ESP,20.8,6-4 1-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,216,197,404,
 1998-M-SA-ESP-02A-1998d,Spain 2 Masters 4,Clay,32,S,19980130,6,102483,,WC,David Caballero,R,180,ESP,23.2,117527,,,Oscar Martinez Dieguez,R,,ESP,23.9,7-6 3-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,496,53,,
 1998-M-SA-ESP-02A-1998d,Spain 2 Masters 4,Clay,32,S,19980130,7,103186,,SE,Emilio Viuda Hernandez,R,,ESP,19.7,103507,,Q,Juan Carlos Ferrero,R,183,ESP,17.9,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,675,,680,22
@@ -3021,7 +3021,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-FU-ARG-01A-1998,Argentina F1,Clay,32,S,19980420,6,102930,,,Rodrigo Cerdera,R,,ARG,21.2,103196,,,Carlos Custodio,R,,BRA,19.9,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,420,72,524,48
 1998-M-FU-ARG-01A-1998,Argentina F1,Clay,32,S,19980420,7,103373,,WC,Sergio Roitman,R,185,ARG,18.9,103090,,WC,Diego Bracco,R,,ARG,20.3,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,804,13,1370,1
 1998-M-FU-ARG-01A-1998,Argentina F1,Clay,32,S,19980420,8,102665,6,,Damian Furmanski,R,,ARG,22.5,102407,,,Rainer Gunther,R,,GER,23.8,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,381,87,588,35
-1998-M-FU-ARG-01A-1998,Argentina F1,Clay,32,S,19980420,9,111486,5,,Leonardo Olguin,U,,ARG,22.5,102938,,Q,Alejandro Olivera,R,,URU,21.1,6-4 5-7 7-6,3,R32,,,,,,,,,,,,,,,,,,,,,,915,9
+1998-M-FU-ARG-01A-1998,Argentina F1,Clay,32,S,19980420,9,102693,5,,Leonardo Olguin,R,,ARG,22.3,102938,,Q,Alejandro Olivera,R,,URU,21.1,6-4 5-7 7-6,3,R32,,,,,,,,,,,,,,,,,,,,355,100,915,9
 1998-M-FU-ARG-01A-1998,Argentina F1,Clay,32,S,19980420,10,103000,,,Paulo Taicher,R,,BRA,20.8,103493,,LL,Eduardo Bohrer,R,,BRA,18.2,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,618,30,783,14
 1998-M-FU-ARG-01A-1998,Argentina F1,Clay,32,S,19980420,11,103397,,,Alexandre Simoni,R,188,BRA,18.8,117366,,Q,Agustin Ramini,U,,ARG,18.8,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,449,63,,
 1998-M-FU-ARG-01A-1998,Argentina F1,Clay,32,S,19980420,12,102361,3,,Adriano Ferreira,R,193,BRA,24.0,101516,,,Joao Zwetsch,R,180,BRA,29.6,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,322,117,529,47
@@ -3033,13 +3033,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-FU-ARG-01A-1998,Argentina F1,Clay,32,S,19980420,18,102413,7,,Andy Zingman,R,183,ARG,23.8,109291,,Q,Pablo Fuente,R,,ARG,21.2,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,404,78,1129,4
 1998-M-FU-ARG-01A-1998,Argentina F1,Clay,32,S,19980420,19,101976,4,,Federico Dondo,R,,URU,26.5,102930,,,Rodrigo Cerdera,R,,ARG,21.2,7-6 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,329,112,420,72
 1998-M-FU-ARG-01A-1998,Argentina F1,Clay,32,S,19980420,20,103373,,WC,Sergio Roitman,R,185,ARG,18.9,102665,6,,Damian Furmanski,R,,ARG,22.5,6-4 0-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,804,13,381,87
-1998-M-FU-ARG-01A-1998,Argentina F1,Clay,32,S,19980420,21,111486,5,,Leonardo Olguin,U,,ARG,22.5,103000,,,Paulo Taicher,R,,BRA,20.8,7-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,618,30
+1998-M-FU-ARG-01A-1998,Argentina F1,Clay,32,S,19980420,21,102693,5,,Leonardo Olguin,R,,ARG,22.3,103000,,,Paulo Taicher,R,,BRA,20.8,7-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,355,100,618,30
 1998-M-FU-ARG-01A-1998,Argentina F1,Clay,32,S,19980420,22,103397,,,Alexandre Simoni,R,188,BRA,18.8,102361,3,,Adriano Ferreira,R,193,BRA,24.0,5-7 7-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,449,63,322,117
 1998-M-FU-ARG-01A-1998,Argentina F1,Clay,32,S,19980420,23,103021,8,,Ricardo Schlachter,R,,BRA,20.7,103428,,,Juan Ignacio Chela,R,190,ARG,18.6,4-6 7-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,419,74,584,35
 1998-M-FU-ARG-01A-1998,Argentina F1,Clay,32,S,19980420,24,108686,2,,Alejandro Aramburu Acuna,R,,PER,29.1,103028,,Q,Santiago Messora,R,,ARG,20.7,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,880,10
 1998-M-FU-ARG-01A-1998,Argentina F1,Clay,32,S,19980420,25,101720,1,,Agustin Garizzio,R,185,ARG,28.0,102413,7,,Andy Zingman,R,183,ARG,23.8,4-6 6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,183,235,404,78
 1998-M-FU-ARG-01A-1998,Argentina F1,Clay,32,S,19980420,26,101976,4,,Federico Dondo,R,,URU,26.5,103373,,WC,Sergio Roitman,R,185,ARG,18.9,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,329,112,804,13
-1998-M-FU-ARG-01A-1998,Argentina F1,Clay,32,S,19980420,27,103397,,,Alexandre Simoni,R,188,BRA,18.8,111486,5,,Leonardo Olguin,U,,ARG,22.5,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,449,63,,
+1998-M-FU-ARG-01A-1998,Argentina F1,Clay,32,S,19980420,27,103397,,,Alexandre Simoni,R,188,BRA,18.8,102693,5,,Leonardo Olguin,R,,ARG,22.3,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,449,63,355,100
 1998-M-FU-ARG-01A-1998,Argentina F1,Clay,32,S,19980420,28,103021,8,,Ricardo Schlachter,R,,BRA,20.7,108686,2,,Alejandro Aramburu Acuna,R,,PER,29.1,7-5 6-4,3,QF,,,,,,,,,,,,,,,,,,,,419,74,,
 1998-M-FU-ARG-01A-1998,Argentina F1,Clay,32,S,19980420,29,101720,1,,Agustin Garizzio,R,185,ARG,28.0,101976,4,,Federico Dondo,R,,URU,26.5,6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,183,235,329,112
 1998-M-FU-ARG-01A-1998,Argentina F1,Clay,32,S,19980420,30,103021,8,,Ricardo Schlachter,R,,BRA,20.7,103397,,,Alexandre Simoni,R,188,BRA,18.8,6-1 3-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,419,74,449,63
@@ -3179,7 +3179,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-FU-ARG-02A-1998,Argentina F2,Clay,32,S,19980427,9,102413,5,,Andy Zingman,R,183,ARG,23.8,117369,,WC,Sergio Limina,U,,ARG,30.4,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,409,78,,
 1998-M-FU-ARG-02A-1998,Argentina F2,Clay,32,S,19980427,10,103237,,,Antonio Couvert,R,,ARG,19.7,103493,,,Eduardo Bohrer,R,,BRA,18.2,2-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,537,45,789,14
 1998-M-FU-ARG-02A-1998,Argentina F2,Clay,32,S,19980427,11,103090,,WC,Diego Bracco,R,,ARG,20.3,103322,,LL,Marcelo Carvalho,R,,BRA,19.2,6-1 7-6,3,R32,,,,,,,,,,,,,,,,,,,,1377,1,1136,4
-1998-M-FU-ARG-02A-1998,Argentina F2,Clay,32,S,19980427,12,111486,4,,Leonardo Olguin,U,,ARG,22.5,117370,,Q,Sebastian Di Stefano,U,,ARG,20.6,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1998-M-FU-ARG-02A-1998,Argentina F2,Clay,32,S,19980427,12,102693,4,,Leonardo Olguin,R,,ARG,22.4,117370,,Q,Sebastian Di Stefano,U,,ARG,20.6,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,358,100,,
 1998-M-FU-ARG-02A-1998,Argentina F2,Clay,32,S,19980427,13,103021,7,,Ricardo Schlachter,R,,BRA,20.8,103195,,LL,Leandro Rosa,R,,BRA,19.9,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,422,74,1377,1
 1998-M-FU-ARG-02A-1998,Argentina F2,Clay,32,S,19980427,14,103454,,,Nicolas Massu,R,183,CHI,18.5,103000,,,Paulo Taicher,R,,BRA,20.8,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,464,61,621,30
 1998-M-FU-ARG-02A-1998,Argentina F2,Clay,32,S,19980427,15,103373,,,Sergio Roitman,R,185,ARG,18.9,103093,,LL,Martin Peyrot,R,,URU,20.3,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,809,13,968,7
@@ -3189,12 +3189,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-FU-ARG-02A-1998,Argentina F2,Clay,32,S,19980427,19,101976,3,,Federico Dondo,R,,URU,26.5,103368,,Q,Alejandro Dulko,R,,ARG,18.9,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,335,112,1028,6
 1998-M-FU-ARG-02A-1998,Argentina F2,Clay,32,S,19980427,20,103428,,,Juan Ignacio Chela,R,190,ARG,18.6,103506,,WC,Martin Vassallo Arguello,R,183,ARG,18.2,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,586,35,,
 1998-M-FU-ARG-02A-1998,Argentina F2,Clay,32,S,19980427,21,102413,5,,Andy Zingman,R,183,ARG,23.8,103237,,,Antonio Couvert,R,,ARG,19.7,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,409,78,537,45
-1998-M-FU-ARG-02A-1998,Argentina F2,Clay,32,S,19980427,22,111486,4,,Leonardo Olguin,U,,ARG,22.5,103090,,WC,Diego Bracco,R,,ARG,20.3,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,1377,1
+1998-M-FU-ARG-02A-1998,Argentina F2,Clay,32,S,19980427,22,102693,4,,Leonardo Olguin,R,,ARG,22.4,103090,,WC,Diego Bracco,R,,ARG,20.3,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,358,100,1377,1
 1998-M-FU-ARG-02A-1998,Argentina F2,Clay,32,S,19980427,23,103021,7,,Ricardo Schlachter,R,,BRA,20.8,103454,,,Nicolas Massu,R,183,CHI,18.5,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,422,74,464,61
 1998-M-FU-ARG-02A-1998,Argentina F2,Clay,32,S,19980427,24,102361,2,,Adriano Ferreira,R,193,BRA,24.1,103373,,,Sergio Roitman,R,185,ARG,18.9,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,325,117,809,13
 1998-M-FU-ARG-02A-1998,Argentina F2,Clay,32,S,19980427,25,108686,1,,Alejandro Aramburu Acuna,R,,PER,29.1,103397,8,,Alexandre Simoni,R,188,BRA,18.8,6-3 5-7 6-1,3,QF,,,,,,,,,,,,,,,,,,,,,,452,63
 1998-M-FU-ARG-02A-1998,Argentina F2,Clay,32,S,19980427,26,101976,3,,Federico Dondo,R,,URU,26.5,103428,,,Juan Ignacio Chela,R,190,ARG,18.6,6-2 1-6 6-0,3,QF,,,,,,,,,,,,,,,,,,,,335,112,586,35
-1998-M-FU-ARG-02A-1998,Argentina F2,Clay,32,S,19980427,27,102413,5,,Andy Zingman,R,183,ARG,23.8,111486,4,,Leonardo Olguin,U,,ARG,22.5,4-6 6-0 6-3,3,QF,,,,,,,,,,,,,,,,,,,,409,78,,
+1998-M-FU-ARG-02A-1998,Argentina F2,Clay,32,S,19980427,27,102413,5,,Andy Zingman,R,183,ARG,23.8,102693,4,,Leonardo Olguin,R,,ARG,22.4,4-6 6-0 6-3,3,QF,,,,,,,,,,,,,,,,,,,,409,78,358,100
 1998-M-FU-ARG-02A-1998,Argentina F2,Clay,32,S,19980427,28,103021,7,,Ricardo Schlachter,R,,BRA,20.8,102361,2,,Adriano Ferreira,R,193,BRA,24.1,6-7 6-2 7-6,3,QF,,,,,,,,,,,,,,,,,,,,422,74,325,117
 1998-M-FU-ARG-02A-1998,Argentina F2,Clay,32,S,19980427,29,108686,1,,Alejandro Aramburu Acuna,R,,PER,29.1,101976,3,,Federico Dondo,R,,URU,26.5,4-6 7-5 6-1,3,SF,,,,,,,,,,,,,,,,,,,,,,335,112
 1998-M-FU-ARG-02A-1998,Argentina F2,Clay,32,S,19980427,30,103021,7,,Ricardo Schlachter,R,,BRA,20.8,102413,5,,Andy Zingman,R,183,ARG,23.8,6-2 7-5,3,SF,,,,,,,,,,,,,,,,,,,,422,74,409,78
@@ -6624,7 +6624,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-FU-FRA-01A-1998,France F1,Clay,32,S,19980706,13,102771,,Q,Leslie Demiliani,R,,FRA,22.2,103268,8,,Ivan Rodrigo,R,,ESP,19.7,6-4 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,907,9,525,44
 1998-M-FU-FRA-01A-1998,France F1,Clay,32,S,19980706,14,102418,,,Carlo Santoro,R,,ITA,24.0,103799,,Q,Eric Prodon,R,178,FRA,17.0,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,582,34,,
 1998-M-FU-FRA-01A-1998,France F1,Clay,32,S,19980706,15,103592,,,Jerome Haehnel,R,185,FRA,17.9,111678,,LL,Mirko Jovanovic,U,,SRB,18.5,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,745,16,1167,4
-1998-M-FU-FRA-01A-1998,France F1,Clay,32,S,19980706,16,111486,2,,Leonardo Olguin,U,,ARG,22.7,103044,,Q,Benoit Foucher,R,,FRA,20.8,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1998-M-FU-FRA-01A-1998,France F1,Clay,32,S,19980706,16,102693,2,,Leonardo Olguin,R,,ARG,22.5,103044,,Q,Benoit Foucher,R,,FRA,20.8,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,341,103,,
 1998-M-FU-FRA-01A-1998,France F1,Clay,32,S,19980706,17,100955,1,,Yahiya Doumbia,R,185,SEN,34.8,102544,,,Pablo Bianchi,R,,URU,23.3,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,287,138,719,18
 1998-M-FU-FRA-01A-1998,France F1,Clay,32,S,19980706,18,102406,,Q,Thomas Dupre,R,,FRA,24.0,102414,,,Jerome Loustalot,R,,FRA,24.0,3-6 6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1109,4,616,28
 1998-M-FU-FRA-01A-1998,France F1,Clay,32,S,19980706,19,103262,,,Marc Canovas,R,,ESP,19.8,101953,3,,Kentaro Masuda,R,,JPN,26.8,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,723,18,373,93
@@ -6632,7 +6632,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-FU-FRA-01A-1998,France F1,Clay,32,S,19980706,21,103208,6,,Jean Michel Pequery,R,,FRA,20.1,117601,,Q,Franck Beun,U,,FRA,27.4,6-1 7-6,3,R16,,,,,,,,,,,,,,,,,,,,415,79,1109,4
 1998-M-FU-FRA-01A-1998,France F1,Clay,32,S,19980706,22,101551,4,,Carlos Gomez Diaz,R,,ARG,29.5,102916,,,Laurent Bensadoun,R,,FRA,21.4,7-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,397,86,780,15
 1998-M-FU-FRA-01A-1998,France F1,Clay,32,S,19980706,23,102771,,Q,Leslie Demiliani,R,,FRA,22.2,102418,,,Carlo Santoro,R,,ITA,24.0,2-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,907,9,582,34
-1998-M-FU-FRA-01A-1998,France F1,Clay,32,S,19980706,24,103592,,,Jerome Haehnel,R,185,FRA,17.9,111486,2,,Leonardo Olguin,U,,ARG,22.7,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,745,16,,
+1998-M-FU-FRA-01A-1998,France F1,Clay,32,S,19980706,24,103592,,,Jerome Haehnel,R,185,FRA,17.9,102693,2,,Leonardo Olguin,R,,ARG,22.5,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,745,16,341,103
 1998-M-FU-FRA-01A-1998,France F1,Clay,32,S,19980706,25,102406,,Q,Thomas Dupre,R,,FRA,24.0,100955,1,,Yahiya Doumbia,R,185,SEN,34.8,6-2 4-6 7-6,3,QF,,,,,,,,,,,,,,,,,,,,1109,4,287,138
 1998-M-FU-FRA-01A-1998,France F1,Clay,32,S,19980706,26,103204,5,,Hugo Armando,R,183,USA,20.1,103262,,,Marc Canovas,R,,ESP,19.8,6-1 4-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,405,83,723,18
 1998-M-FU-FRA-01A-1998,France F1,Clay,32,S,19980706,27,103208,6,,Jean Michel Pequery,R,,FRA,20.1,101551,4,,Carlos Gomez Diaz,R,,ARG,29.5,6-2 6-0,3,QF,,,,,,,,,,,,,,,,,,,,415,79,397,86
@@ -6873,7 +6873,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-FU-FRA-02A-1998,France F2,Clay,32,S,19980713,13,102642,8,,Cyril Saulnier,R,190,FRA,22.9,102771,,Q,Leslie Demiliani,R,,FRA,22.2,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,489,51,904,9
 1998-M-FU-FRA-02A-1998,France F2,Clay,32,S,19980713,14,102261,,Q,Fabrice Betencourt,R,,FRA,24.8,103648,,WC,John Thivolle,U,,FRA,17.6,4-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,967,7,,
 1998-M-FU-FRA-02A-1998,France F2,Clay,32,S,19980713,15,102206,,,Stephane Matheu,R,,FRA,25.2,102544,,,Pablo Bianchi,R,,URU,23.3,7-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,692,20,715,18
-1998-M-FU-FRA-02A-1998,France F2,Clay,32,S,19980713,16,111486,2,,Leonardo Olguin,U,,ARG,22.7,101922,,Q,Marcello Wowk,R,,ARG,27.0,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,734,17
+1998-M-FU-FRA-02A-1998,France F2,Clay,32,S,19980713,16,102693,2,,Leonardo Olguin,R,,ARG,22.6,101922,,Q,Marcello Wowk,R,,ARG,27.0,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,337,103,734,17
 1998-M-FU-FRA-02A-1998,France F2,Clay,32,S,19980713,17,102224,1,,Miguel Pastura,R,,ARG,25.1,102406,,SE,Thomas Dupre,R,,FRA,24.0,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,386,86,1105,4
 1998-M-FU-FRA-02A-1998,France F2,Clay,32,S,19980713,18,103592,,SE,Jerome Haehnel,R,185,FRA,17.9,108603,,,Helge Koll Frafjord,U,,NOR,23.1,5-7 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,745,16,,
 1998-M-FU-FRA-02A-1998,France F2,Clay,32,S,19980713,19,101551,3,,Carlos Gomez Diaz,R,,ARG,29.5,117604,,Q,Johan Rousseaux,U,,FRA,20.9,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,387,86,,
@@ -6881,13 +6881,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-FU-FRA-02A-1998,France F2,Clay,32,S,19980713,21,103685,,WC,Olivier Ramos,U,,FRA,17.5,111475,,Q,Huu Minh Dinh,U,,FRA,18.4,7-5 5-7 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 1998-M-FU-FRA-02A-1998,France F2,Clay,32,S,19980713,22,103204,4,,Hugo Armando,R,183,USA,20.1,102063,,Q,Yannick Goguey,R,,FRA,26.1,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,397,83,844,11
 1998-M-FU-FRA-02A-1998,France F2,Clay,32,S,19980713,23,102642,8,,Cyril Saulnier,R,190,FRA,22.9,102261,,Q,Fabrice Betencourt,R,,FRA,24.8,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,489,51,967,7
-1998-M-FU-FRA-02A-1998,France F2,Clay,32,S,19980713,24,111486,2,,Leonardo Olguin,U,,ARG,22.7,102206,,,Stephane Matheu,R,,FRA,25.2,7-5 3-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,692,20
+1998-M-FU-FRA-02A-1998,France F2,Clay,32,S,19980713,24,102693,2,,Leonardo Olguin,R,,ARG,22.6,102206,,,Stephane Matheu,R,,FRA,25.2,7-5 3-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,337,103,692,20
 1998-M-FU-FRA-02A-1998,France F2,Clay,32,S,19980713,25,102224,1,,Miguel Pastura,R,,ARG,25.1,103592,,SE,Jerome Haehnel,R,185,FRA,17.9,7-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,386,86,745,16
 1998-M-FU-FRA-02A-1998,France F2,Clay,32,S,19980713,26,101551,3,,Carlos Gomez Diaz,R,,ARG,29.5,103208,5,,Jean Michel Pequery,R,,FRA,20.1,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,387,86,411,79
 1998-M-FU-FRA-02A-1998,France F2,Clay,32,S,19980713,27,103204,4,,Hugo Armando,R,183,USA,20.1,103685,,WC,Olivier Ramos,U,,FRA,17.5,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,397,83,,
-1998-M-FU-FRA-02A-1998,France F2,Clay,32,S,19980713,28,111486,2,,Leonardo Olguin,U,,ARG,22.7,102642,8,,Cyril Saulnier,R,190,FRA,22.9,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,,,489,51
+1998-M-FU-FRA-02A-1998,France F2,Clay,32,S,19980713,28,102693,2,,Leonardo Olguin,R,,ARG,22.6,102642,8,,Cyril Saulnier,R,190,FRA,22.9,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,337,103,489,51
 1998-M-FU-FRA-02A-1998,France F2,Clay,32,S,19980713,29,101551,3,,Carlos Gomez Diaz,R,,ARG,29.5,102224,1,,Miguel Pastura,R,,ARG,25.1,4-6 6-1 6-4,3,SF,,,,,,,,,,,,,,,,,,,,387,86,386,86
-1998-M-FU-FRA-02A-1998,France F2,Clay,32,S,19980713,30,103204,4,,Hugo Armando,R,183,USA,20.1,111486,2,,Leonardo Olguin,U,,ARG,22.7,6-4 7-5,3,SF,,,,,,,,,,,,,,,,,,,,397,83,,
+1998-M-FU-FRA-02A-1998,France F2,Clay,32,S,19980713,30,103204,4,,Hugo Armando,R,183,USA,20.1,102693,2,,Leonardo Olguin,R,,ARG,22.6,6-4 7-5,3,SF,,,,,,,,,,,,,,,,,,,,397,83,337,103
 1998-M-FU-FRA-02A-1998,France F2,Clay,32,S,19980713,31,101551,3,,Carlos Gomez Diaz,R,,ARG,29.5,103204,4,,Hugo Armando,R,183,USA,20.1,6-4 6-4,3,F,,,,,,,,,,,,,,,,,,,,387,86,397,83
 1998-M-FU-GRE-07A-1998,Greece F7,Clay,32,S,19980713,1,102734,1,,Lior Mor,R,175,ISR,22.3,104011,,WC,Lefteris Alexiou,R,,GRE,16.1,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,309,118,,
 1998-M-FU-GRE-07A-1998,Greece F7,Clay,32,S,19980713,2,103095,,,Patricio Rudi,R,,ARG,20.5,117680,,Q,Andreas Kanellopoulos,U,,GRE,22.9,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,877,10,,
@@ -7311,7 +7311,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-FU-BRA-01A-1998,Brazil F1,Clay,32,S,19980720,29,103373,,,Sergio Roitman,R,185,ARG,19.1,103581,,WC,Flavio Saretta,R,183,BRA,18.0,4-6 6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,706,19,,
 1998-M-FU-BRA-01A-1998,Brazil F1,Clay,32,S,19980720,30,103000,,,Paulo Taicher,R,,BRA,21.1,103021,2,,Ricardo Schlachter,R,,BRA,21.0,6-3 3-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,529,43,345,100
 1998-M-FU-BRA-01A-1998,Brazil F1,Clay,32,S,19980720,31,103373,,,Sergio Roitman,R,185,ARG,19.1,103000,,,Paulo Taicher,R,,BRA,21.1,6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,706,19,529,43
-1998-M-FU-FRA-03A-1998,France F3,Clay,32,S,19980720,1,111486,1,,Leonardo Olguin,U,,ARG,22.7,102544,,,Pablo Bianchi,R,,URU,23.3,7-5 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,703,19
+1998-M-FU-FRA-03A-1998,France F3,Clay,32,S,19980720,1,102693,1,,Leonardo Olguin,R,,ARG,22.6,102544,,,Pablo Bianchi,R,,URU,23.3,7-5 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,369,90,703,19
 1998-M-FU-FRA-03A-1998,France F3,Clay,32,S,19980720,2,102779,,,Jean Noel Grinda,R,,FRA,22.2,101863,,,Roberto Alvarez,R,,ARG,27.4,4-6 7-5 7-6,3,R32,,,,,,,,,,,,,,,,,,,,,,484,51
 1998-M-FU-FRA-03A-1998,France F3,Clay,32,S,19980720,3,102620,,,Frederic Petitjean,R,,FRA,23.0,103685,,WC,Olivier Ramos,U,,FRA,17.5,6-1 6-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,636,25,,
 1998-M-FU-FRA-03A-1998,France F3,Clay,32,S,19980720,4,102937,,Q,Sebastien Lami,R,,FRA,21.4,103079,7,,Jeremy Delinbeuf,R,,FRA,20.6,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1096,4,450,63
@@ -7327,7 +7327,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-FU-FRA-03A-1998,France F3,Clay,32,S,19980720,14,102642,,,Cyril Saulnier,R,190,FRA,22.9,102876,,Q,Gwenael Gueit,R,,FRA,21.7,6-4 4-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,485,51,,
 1998-M-FU-FRA-03A-1998,France F3,Clay,32,S,19980720,15,103262,,,Marc Canovas,R,,ESP,19.8,102958,,Q,Julien Cuaz,R,,FRA,21.3,3-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,670,22,670,22
 1998-M-FU-FRA-03A-1998,France F3,Clay,32,S,19980720,16,103268,,,Ivan Rodrigo,R,,ESP,19.8,101953,2,,Kentaro Masuda,R,,JPN,26.8,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,518,44,362,94
-1998-M-FU-FRA-03A-1998,France F3,Clay,32,S,19980720,17,102779,,,Jean Noel Grinda,R,,FRA,22.2,111486,1,,Leonardo Olguin,U,,ARG,22.7,7-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1998-M-FU-FRA-03A-1998,France F3,Clay,32,S,19980720,17,102779,,,Jean Noel Grinda,R,,FRA,22.2,102693,1,,Leonardo Olguin,R,,ARG,22.6,7-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,369,90
 1998-M-FU-FRA-03A-1998,France F3,Clay,32,S,19980720,18,102937,,Q,Sebastien Lami,R,,FRA,21.4,102620,,,Frederic Petitjean,R,,FRA,23.0,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1096,4,636,25
 1998-M-FU-FRA-03A-1998,France F3,Clay,32,S,19980720,19,111473,,WC,Jacques Gley,U,,FRA,18.2,117606,,Q,Thomas Leleu,U,,FRA,26.1,6-2 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,1328,1
 1998-M-FU-FRA-03A-1998,France F3,Clay,32,S,19980720,20,102736,,,Maxime Boye,R,,FRA,22.3,103693,,WC,Thierry Ascione,R,188,FRA,17.5,6-1 6-7 6-3,3,R16,,,,,,,,,,,,,,,,,,,,554,38,,
@@ -7713,7 +7713,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-FU-FRA-04A-1998,France F4,Clay,32,S,19980727,13,101863,8,,Roberto Alvarez,R,,ARG,27.4,111473,,WC,Jacques Gley,U,,FRA,18.2,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,483,51,,
 1998-M-FU-FRA-04A-1998,France F4,Clay,32,S,19980727,14,103799,,Q,Eric Prodon,R,178,FRA,17.0,102261,,Q,Fabrice Betencourt,R,,FRA,24.8,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,944,8
 1998-M-FU-FRA-04A-1998,France F4,Clay,32,S,19980727,15,103268,,,Ivan Rodrigo,R,,ESP,19.8,103065,,,Kepler Orellana,R,,VEN,20.7,7-6 6-7 6-0,3,R32,,,,,,,,,,,,,,,,,,,,519,44,760,16
-1998-M-FU-FRA-04A-1998,France F4,Clay,32,S,19980727,16,111486,2,,Leonardo Olguin,U,,ARG,22.8,102930,,,Rodrigo Cerdera,R,,ARG,21.4,2-6 6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,602,29
+1998-M-FU-FRA-04A-1998,France F4,Clay,32,S,19980727,16,102693,2,,Leonardo Olguin,R,,ARG,22.6,102930,,,Rodrigo Cerdera,R,,ARG,21.4,2-6 6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,350,96,602,29
 1998-M-FU-FRA-04A-1998,France F4,Clay,32,S,19980727,17,102620,,,Frederic Petitjean,R,,FRA,23.0,102244,,LL,Gregory Girault,R,,FRA,25.0,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,632,25,849,11
 1998-M-FU-FRA-04A-1998,France F4,Clay,32,S,19980727,18,102388,7,,Simon Aspelin,R,185,SWE,24.2,103723,,Q,Julien Maes,R,,FRA,17.4,4-6 7-5 6-0,3,R16,,,,,,,,,,,,,,,,,,,,461,57,,
 1998-M-FU-FRA-04A-1998,France F4,Clay,32,S,19980727,19,102642,,,Cyril Saulnier,R,190,FRA,22.9,103190,,LL,Patrice Atias,R,,FRA,20.2,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,470,54,,
@@ -7721,7 +7721,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-FU-FRA-04A-1998,France F4,Clay,32,S,19980727,21,108603,,,Helge Koll Frafjord,U,,NOR,23.1,102958,,,Julien Cuaz,R,,FRA,21.3,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,664,22
 1998-M-FU-FRA-04A-1998,France F4,Clay,32,S,19980727,22,102544,,,Pablo Bianchi,R,,URU,23.4,102378,,LL,Juan Gisbert Jr,R,198,ESP,24.2,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,699,19,1096,5
 1998-M-FU-FRA-04A-1998,France F4,Clay,32,S,19980727,23,101863,8,,Roberto Alvarez,R,,ARG,27.4,103799,,Q,Eric Prodon,R,178,FRA,17.0,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,483,51,,
-1998-M-FU-FRA-04A-1998,France F4,Clay,32,S,19980727,24,103268,,,Ivan Rodrigo,R,,ESP,19.8,111486,2,,Leonardo Olguin,U,,ARG,22.8,6-7 6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,519,44,,
+1998-M-FU-FRA-04A-1998,France F4,Clay,32,S,19980727,24,103268,,,Ivan Rodrigo,R,,ESP,19.8,102693,2,,Leonardo Olguin,R,,ARG,22.6,6-7 6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,519,44,350,96
 1998-M-FU-FRA-04A-1998,France F4,Clay,32,S,19980727,25,102388,7,,Simon Aspelin,R,185,SWE,24.2,102620,,,Frederic Petitjean,R,,FRA,23.0,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,461,57,632,25
 1998-M-FU-FRA-04A-1998,France F4,Clay,32,S,19980727,26,102642,,,Cyril Saulnier,R,190,FRA,22.9,102736,,,Maxime Boye,R,,FRA,22.3,7-5 5-7 6-4,3,QF,,,,,,,,,,,,,,,,,,,,470,54,545,38
 1998-M-FU-FRA-04A-1998,France F4,Clay,32,S,19980727,27,108603,,,Helge Koll Frafjord,U,,NOR,23.1,102544,,,Pablo Bianchi,R,,URU,23.4,6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,,,699,19
@@ -8077,7 +8077,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-FU-ITA-12A-1998,Italy F12,Clay,32,S,19980803,13,103027,8,,Markus Menzler,R,,GER,21.0,109030,,LL,Jorg Mitterhofer,R,,GER,23.7,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,513,45,1332,1
 1998-M-FU-ITA-12A-1998,Italy F12,Clay,32,S,19980803,14,102907,,,Danijel Kruslin,R,,GER,21.5,103522,,WC,Nahuel Fracassi,U,,ITA,18.4,3-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,699,19,987,6
 1998-M-FU-ITA-12A-1998,Italy F12,Clay,32,S,19980803,15,103010,,Q,Marco Danelli,R,,ITA,21.1,103099,,,Michael Kogan,R,,ISR,20.5,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1332,1,716,18
-1998-M-FU-ITA-12A-1998,Italy F12,Clay,32,S,19980803,16,111486,2,,Leonardo Olguin,U,,ARG,22.8,117717,,WC,Alessandro Tabacchini,U,,ITA,18.5,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,1290,2
+1998-M-FU-ITA-12A-1998,Italy F12,Clay,32,S,19980803,16,102693,2,,Leonardo Olguin,R,,ARG,22.6,117717,,WC,Alessandro Tabacchini,U,,ITA,18.5,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,346,97,1290,2
 1998-M-FU-ITA-12A-1998,Italy F12,Clay,32,S,19980803,17,102168,1,,Hector Moretti,R,170,ARG,25.5,101987,,SE,Vincenzo Carlone,R,,ITA,26.7,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,252,159,,
 1998-M-FU-ITA-12A-1998,Italy F12,Clay,32,S,19980803,18,102418,,,Carlo Santoro,R,,ITA,24.1,102958,,,Julien Cuaz,R,,FRA,21.3,7-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,640,24,659,22
 1998-M-FU-ITA-12A-1998,Italy F12,Clay,32,S,19980803,19,102707,,,Markus Wislsperger,R,,GER,22.5,102938,,LL,Alejandro Olivera,R,,URU,21.4,6-0 7-5,3,R16,,,,,,,,,,,,,,,,,,,,545,39,770,15
@@ -8085,7 +8085,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-FU-ITA-12A-1998,Italy F12,Clay,32,S,19980803,21,102745,,Q,Daniele Ceraudo,R,,ITA,22.3,103808,,LL,Potito Starace,R,188,ITA,17.0,3-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,886,10,1332,1
 1998-M-FU-ITA-12A-1998,Italy F12,Clay,32,S,19980803,22,102367,3,,Nicolas Kischkewitz,R,,FRA,24.3,103394,,Q,Andrea Capodimonte,R,,ITA,19.0,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,370,88,1100,4
 1998-M-FU-ITA-12A-1998,Italy F12,Clay,32,S,19980803,23,103027,8,,Markus Menzler,R,,GER,21.0,102907,,,Danijel Kruslin,R,,GER,21.5,1-6 7-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,513,45,699,19
-1998-M-FU-ITA-12A-1998,Italy F12,Clay,32,S,19980803,24,103010,,Q,Marco Danelli,R,,ITA,21.1,111486,2,,Leonardo Olguin,U,,ARG,22.8,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1332,1,,
+1998-M-FU-ITA-12A-1998,Italy F12,Clay,32,S,19980803,24,103010,,Q,Marco Danelli,R,,ITA,21.1,102693,2,,Leonardo Olguin,R,,ARG,22.6,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1332,1,346,97
 1998-M-FU-ITA-12A-1998,Italy F12,Clay,32,S,19980803,25,102418,,,Carlo Santoro,R,,ITA,24.1,102168,1,,Hector Moretti,R,170,ARG,25.5,2-6 7-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,640,24,252,159
 1998-M-FU-ITA-12A-1998,Italy F12,Clay,32,S,19980803,26,102707,,,Markus Wislsperger,R,,GER,22.5,102738,,,Stefano Tarallo,R,185,ITA,22.4,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,545,39,674,21
 1998-M-FU-ITA-12A-1998,Italy F12,Clay,32,S,19980803,27,102367,3,,Nicolas Kischkewitz,R,,FRA,24.3,102745,,Q,Daniele Ceraudo,R,,ITA,22.3,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,370,88,886,10
@@ -8395,7 +8395,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-FU-EGY-03A-1998,Egypt F3,Clay,32,S,19980810,29,103029,3,,Mehdi Tahiri,R,183,MAR,21.0,102777,,,Larbi Rharnit,R,,MAR,22.3,6-0 6-2,3,SF,,,,,,,,,,,,,,,,,,,,504,46,942,8
 1998-M-FU-EGY-03A-1998,Egypt F3,Clay,32,S,19980810,30,103109,,Q,Talal Ouahabi,R,,MAR,20.5,102999,2,,Stefano Galvani,R,178,ITA,21.1,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,815,12,439,64
 1998-M-FU-EGY-03A-1998,Egypt F3,Clay,32,S,19980810,31,103029,3,,Mehdi Tahiri,R,183,MAR,21.0,103109,,Q,Talal Ouahabi,R,,MAR,20.5,6-1 6-0,3,F,,,,,,,,,,,,,,,,,,,,504,46,815,12
-1998-M-FU-ITA-13A-1998,Italy F13,Clay,32,S,19980810,1,111486,1,,Leonardo Olguin,U,,ARG,22.8,102738,,,Stefano Tarallo,R,185,ITA,22.4,3-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,651,23
+1998-M-FU-ITA-13A-1998,Italy F13,Clay,32,S,19980810,1,102693,1,,Leonardo Olguin,R,,ARG,22.6,102738,,,Stefano Tarallo,R,185,ITA,22.4,3-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,354,94,651,23
 1998-M-FU-ITA-13A-1998,Italy F13,Clay,32,S,19980810,2,102583,,Q,Marco Monnecchi,R,,ITA,23.2,102418,,,Carlo Santoro,R,,ITA,24.1,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,798,13,634,25
 1998-M-FU-ITA-13A-1998,Italy F13,Clay,32,S,19980810,3,102406,,,Thomas Dupre,R,,FRA,24.1,103966,,Q,Massimo Ocera,U,,ITA,16.3,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,798,13,,
 1998-M-FU-ITA-13A-1998,Italy F13,Clay,32,S,19980810,4,101925,,WC,Massimo Boscatto,R,178,ITA,27.1,102690,7,,Matteo Colla,R,,ITA,22.7,1-6 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,669,21,463,55
@@ -8411,7 +8411,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-FU-ITA-13A-1998,Italy F13,Clay,32,S,19980810,14,102611,,,Rafael Serpa Guinazu,R,,ARG,23.1,117717,,LL,Alessandro Tabacchini,U,,ITA,18.5,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,813,13,1280,2
 1998-M-FU-ITA-13A-1998,Italy F13,Clay,32,S,19980810,15,102069,,,Andrei Rybalko,R,180,UKR,26.1,103394,,LL,Andrea Capodimonte,R,,ITA,19.1,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,529,41,1101,4
 1998-M-FU-ITA-13A-1998,Italy F13,Clay,32,S,19980810,16,102224,2,,Miguel Pastura,R,,ARG,25.2,102707,,,Markus Wislsperger,R,,GER,22.5,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,387,82,545,39
-1998-M-FU-ITA-13A-1998,Italy F13,Clay,32,S,19980810,17,102583,,Q,Marco Monnecchi,R,,ITA,23.2,111486,1,,Leonardo Olguin,U,,ARG,22.8,6-2 7-6,3,R16,,,,,,,,,,,,,,,,,,,,798,13,,
+1998-M-FU-ITA-13A-1998,Italy F13,Clay,32,S,19980810,17,102583,,Q,Marco Monnecchi,R,,ITA,23.2,102693,1,,Leonardo Olguin,R,,ARG,22.6,6-2 7-6,3,R16,,,,,,,,,,,,,,,,,,,,798,13,354,94
 1998-M-FU-ITA-13A-1998,Italy F13,Clay,32,S,19980810,18,102406,,,Thomas Dupre,R,,FRA,24.1,101925,,WC,Massimo Boscatto,R,178,ITA,27.1,6-4 7-6,3,R16,,,,,,,,,,,,,,,,,,,,798,13,669,21
 1998-M-FU-ITA-13A-1998,Italy F13,Clay,32,S,19980810,19,103010,,Q,Marco Danelli,R,,ITA,21.1,103716,,Q,Uros Vico,R,188,ITA,17.4,6-4 1-0,3,R16,,,,,,,,,,,,,,,,,,,,1325,1,1025,6
 1998-M-FU-ITA-13A-1998,Italy F13,Clay,32,S,19980810,20,102642,5,,Cyril Saulnier,R,190,FRA,22.9,102958,,,Julien Cuaz,R,,FRA,21.3,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,652,23
@@ -8501,12 +8501,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-SA-SVK-01A-1998a,Slovak Republic Masters 1,Clay,24,S,19980815,11,101909,3,,Roman Smotlak,R,,SVK,27.2,102877,,,Henrik Kula,R,,SVK,21.7,4-6 6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,631,25,763,15
 1998-M-SA-SVK-01A-1998a,Slovak Republic Masters 1,Clay,24,S,19980815,12,102591,,,Zoltan Nagy,R,,HUN,23.2,102272,5,,Branislav Galik,R,,SVK,24.8,1-6 6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,623,26,850,11
 1998-M-SA-SVK-01A-1998a,Slovak Republic Masters 1,Clay,24,S,19980815,13,103480,,,Martin Stepanek,R,,CZE,18.6,102127,6,,Petr Spousta,R,,CZE,25.8,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,848,11,,
-1998-M-SA-SVK-01A-1998a,Slovak Republic Masters 1,Clay,24,S,19980815,14,111486,4,,Leonardo Olguin,U,,ARG,22.8,102544,,,Pablo Bianchi,R,,URU,23.4,3-6 7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,661,22
+1998-M-SA-SVK-01A-1998a,Slovak Republic Masters 1,Clay,24,S,19980815,14,102693,4,,Leonardo Olguin,R,,ARG,22.6,102544,,,Pablo Bianchi,R,,URU,23.4,3-6 7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,354,94,661,22
 1998-M-SA-SVK-01A-1998a,Slovak Republic Masters 1,Clay,24,S,19980815,15,102210,,,Rene Hanak,R,,CZE,25.2,102356,8,,Olivier Tauma,R,,FRA,24.4,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,404,77,920,9
 1998-M-SA-SVK-01A-1998a,Slovak Republic Masters 1,Clay,24,S,19980815,16,102333,2,,Pavel Kudrnac,R,,CZE,24.4,103290,,,Radim Zitko,R,,CZE,19.6,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,793,13,775,15
 1998-M-SA-SVK-01A-1998a,Slovak Republic Masters 1,Clay,24,S,19980815,17,103457,1,,Petr Kralert,R,188,CZE,18.8,103281,,,Ladislav Svarc,R,188,SVK,19.7,6-4 4-6 7-5,3,QF,,,,,,,,,,,,,,,,,,,,401,78,568,35
 1998-M-SA-SVK-01A-1998a,Slovak Republic Masters 1,Clay,24,S,19980815,18,101909,3,,Roman Smotlak,R,,SVK,27.2,102591,,,Zoltan Nagy,R,,HUN,23.2,6-4 2-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,631,25,623,26
-1998-M-SA-SVK-01A-1998a,Slovak Republic Masters 1,Clay,24,S,19980815,19,103480,,,Martin Stepanek,R,,CZE,18.6,111486,4,,Leonardo Olguin,U,,ARG,22.8,6-3 7-6,3,QF,,,,,,,,,,,,,,,,,,,,848,11,,
+1998-M-SA-SVK-01A-1998a,Slovak Republic Masters 1,Clay,24,S,19980815,19,103480,,,Martin Stepanek,R,,CZE,18.6,102693,4,,Leonardo Olguin,R,,ARG,22.6,6-3 7-6,3,QF,,,,,,,,,,,,,,,,,,,,848,11,354,94
 1998-M-SA-SVK-01A-1998a,Slovak Republic Masters 1,Clay,24,S,19980815,20,102210,,,Rene Hanak,R,,CZE,25.2,102333,2,,Pavel Kudrnac,R,,CZE,24.4,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,404,77,793,13
 1998-M-SA-SVK-01A-1998a,Slovak Republic Masters 1,Clay,24,S,19980815,21,103457,1,,Petr Kralert,R,188,CZE,18.8,101909,3,,Roman Smotlak,R,,SVK,27.2,6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,401,78,631,25
 1998-M-SA-SVK-01A-1998a,Slovak Republic Masters 1,Clay,24,S,19980815,22,103480,,,Martin Stepanek,R,,CZE,18.6,102210,,,Rene Hanak,R,,CZE,25.2,6-1 1-0 RET,3,SF,,,,,,,,,,,,,,,,,,,,848,11,404,77
@@ -8524,7 +8524,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-SA-SVK-01A-1998b,Slovak Republic Masters 2,Clay,32,S,19980815,11,103761,,LL,Tomas Cakl,R,178,CZE,17.2,124841,,WC,Jan Sabovcik,U,,SVK,17.0,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1325,1,,
 1998-M-SA-SVK-01A-1998b,Slovak Republic Masters 2,Clay,32,S,19980815,12,103120,,,Juraj Hasko,R,,SVK,20.5,102272,3,,Branislav Galik,R,,SVK,24.8,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1325,1,850,11
 1998-M-SA-SVK-01A-1998b,Slovak Republic Masters 2,Clay,32,S,19980815,13,103242,,,Juan Giner,R,178,ESP,20.0,103455,8,,Michal Mertinak,R,180,SVK,18.8,6-1 6-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,543,39,,
-1998-M-SA-SVK-01A-1998b,Slovak Republic Masters 2,Clay,32,S,19980815,14,111486,,,Leonardo Olguin,U,,ARG,22.8,103620,,WC,Tomas Janci,R,,SVK,17.9,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1998-M-SA-SVK-01A-1998b,Slovak Republic Masters 2,Clay,32,S,19980815,14,102693,,,Leonardo Olguin,R,,ARG,22.6,103620,,WC,Tomas Janci,R,,SVK,17.9,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,354,94,,
 1998-M-SA-SVK-01A-1998b,Slovak Republic Masters 2,Clay,32,S,19980815,15,124842,,Q,Vilian Volek,U,,SVK,19.4,101769,,,Paul Ricar,R,,GER,28.1,6-2 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1046,5
 1998-M-SA-SVK-01A-1998b,Slovak Republic Masters 2,Clay,32,S,19980815,16,102333,2,,Pavel Kudrnac,R,,CZE,24.4,103290,,,Radim Zitko,R,,CZE,19.6,6-7 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,793,13,775,15
 1998-M-SA-SVK-01A-1998b,Slovak Republic Masters 2,Clay,32,S,19980815,17,103457,1,,Petr Kralert,R,188,CZE,18.8,103281,,Q,Ladislav Svarc,R,188,SVK,19.7,6-4 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,401,78,568,35
@@ -8533,16 +8533,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-SA-SVK-01A-1998b,Slovak Republic Masters 2,Clay,32,S,19980815,20,102127,6,,Petr Spousta,R,,CZE,25.8,103500,,WC,Frantisek Babej,R,,SVK,18.5,4-6 6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 1998-M-SA-SVK-01A-1998b,Slovak Republic Masters 2,Clay,32,S,19980815,21,102356,,,Olivier Tauma,R,,FRA,24.4,103480,,Q,Martin Stepanek,R,,CZE,18.6,1-6 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,920,9,848,11
 1998-M-SA-SVK-01A-1998b,Slovak Republic Masters 2,Clay,32,S,19980815,22,103761,,LL,Tomas Cakl,R,178,CZE,17.2,103120,,,Juraj Hasko,R,,SVK,20.5,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1325,1,1325,1
-1998-M-SA-SVK-01A-1998b,Slovak Republic Masters 2,Clay,32,S,19980815,23,111486,,,Leonardo Olguin,U,,ARG,22.8,103242,,,Juan Giner,R,178,ESP,20.0,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,543,39
+1998-M-SA-SVK-01A-1998b,Slovak Republic Masters 2,Clay,32,S,19980815,23,102693,,,Leonardo Olguin,R,,ARG,22.6,103242,,,Juan Giner,R,178,ESP,20.0,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,354,94,543,39
 1998-M-SA-SVK-01A-1998b,Slovak Republic Masters 2,Clay,32,S,19980815,24,102333,2,,Pavel Kudrnac,R,,CZE,24.4,124842,,Q,Vilian Volek,U,,SVK,19.4,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,793,13,,
 1998-M-SA-SVK-01A-1998b,Slovak Republic Masters 2,Clay,32,S,19980815,25,103457,1,,Petr Kralert,R,188,CZE,18.8,102692,7,,Manuel Sala,R,,ESP,22.6,7-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,401,78,536,40
 1998-M-SA-SVK-01A-1998b,Slovak Republic Masters 2,Clay,32,S,19980815,26,102127,6,,Petr Spousta,R,,CZE,25.8,101909,4,,Roman Smotlak,R,,SVK,27.2,6-2 2-1 RET,3,QF,,,,,,,,,,,,,,,,,,,,,,631,25
 1998-M-SA-SVK-01A-1998b,Slovak Republic Masters 2,Clay,32,S,19980815,27,102356,,,Olivier Tauma,R,,FRA,24.4,103761,,LL,Tomas Cakl,R,178,CZE,17.2,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,920,9,1325,1
-1998-M-SA-SVK-01A-1998b,Slovak Republic Masters 2,Clay,32,S,19980815,28,111486,,,Leonardo Olguin,U,,ARG,22.8,102333,2,,Pavel Kudrnac,R,,CZE,24.4,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,,,793,13
+1998-M-SA-SVK-01A-1998b,Slovak Republic Masters 2,Clay,32,S,19980815,28,102693,,,Leonardo Olguin,R,,ARG,22.6,102333,2,,Pavel Kudrnac,R,,CZE,24.4,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,354,94,793,13
 1998-M-SA-SVK-01A-1998b,Slovak Republic Masters 2,Clay,32,S,19980815,29,103457,1,,Petr Kralert,R,188,CZE,18.8,102127,6,,Petr Spousta,R,,CZE,25.8,6-1 5-7 7-5,3,SF,,,,,,,,,,,,,,,,,,,,401,78,,
-1998-M-SA-SVK-01A-1998b,Slovak Republic Masters 2,Clay,32,S,19980815,30,111486,,,Leonardo Olguin,U,,ARG,22.8,102356,,,Olivier Tauma,R,,FRA,24.4,6-2 7-5,3,SF,,,,,,,,,,,,,,,,,,,,,,920,9
-1998-M-SA-SVK-01A-1998b,Slovak Republic Masters 2,Clay,32,S,19980815,31,103457,1,,Petr Kralert,R,188,CZE,18.8,111486,,,Leonardo Olguin,U,,ARG,22.8,1-6 7-5 6-1,3,F,,,,,,,,,,,,,,,,,,,,401,78,,
-1998-M-SA-SVK-01A-1998c,Slovak Republic Masters 3,Clay,32,S,19980815,1,111486,1,,Leonardo Olguin,U,,ARG,22.8,103064,,,Jiri Hobler,R,,CZE,20.8,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,932,8
+1998-M-SA-SVK-01A-1998b,Slovak Republic Masters 2,Clay,32,S,19980815,30,102693,,,Leonardo Olguin,R,,ARG,22.6,102356,,,Olivier Tauma,R,,FRA,24.4,6-2 7-5,3,SF,,,,,,,,,,,,,,,,,,,,354,94,920,9
+1998-M-SA-SVK-01A-1998b,Slovak Republic Masters 2,Clay,32,S,19980815,31,103457,1,,Petr Kralert,R,188,CZE,18.8,102693,,,Leonardo Olguin,R,,ARG,22.6,1-6 7-5 6-1,3,F,,,,,,,,,,,,,,,,,,,,401,78,354,94
+1998-M-SA-SVK-01A-1998c,Slovak Republic Masters 3,Clay,32,S,19980815,1,102693,1,,Leonardo Olguin,R,,ARG,22.6,103064,,,Jiri Hobler,R,,CZE,20.8,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,354,94,932,8
 1998-M-SA-SVK-01A-1998c,Slovak Republic Masters 3,Clay,32,S,19980815,2,102333,,,Pavel Kudrnac,R,,CZE,24.4,103480,,Q,Martin Stepanek,R,,CZE,18.6,7-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,793,13,848,11
 1998-M-SA-SVK-01A-1998c,Slovak Republic Masters 3,Clay,32,S,19980815,3,101769,,Q,Paul Ricar,R,,GER,28.1,117400,,Q,Erik Truempler,U,,GER,21.8,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1046,5,,
 1998-M-SA-SVK-01A-1998c,Slovak Republic Masters 3,Clay,32,S,19980815,4,102127,,,Petr Spousta,R,,CZE,25.8,103281,8,,Ladislav Svarc,R,188,SVK,19.7,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,568,35
@@ -8558,7 +8558,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-SA-SVK-01A-1998c,Slovak Republic Masters 3,Clay,32,S,19980815,14,101909,,,Roman Smotlak,R,,SVK,27.2,103144,,,Gregory Zavialoff,R,,FRA,20.4,7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,631,25,692,19
 1998-M-SA-SVK-01A-1998c,Slovak Republic Masters 3,Clay,32,S,19980815,15,102877,,,Henrik Kula,R,,SVK,21.7,102591,,,Zoltan Nagy,R,,HUN,23.2,6-3 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,763,15,623,26
 1998-M-SA-SVK-01A-1998c,Slovak Republic Masters 3,Clay,32,S,19980815,16,103457,2,,Petr Kralert,R,188,CZE,18.8,124841,,WC,Jan Sabovcik,U,,SVK,17.0,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,401,78,,
-1998-M-SA-SVK-01A-1998c,Slovak Republic Masters 3,Clay,32,S,19980815,17,111486,1,,Leonardo Olguin,U,,ARG,22.8,102333,,,Pavel Kudrnac,R,,CZE,24.4,3-3 RET,3,R16,,,,,,,,,,,,,,,,,,,,,,793,13
+1998-M-SA-SVK-01A-1998c,Slovak Republic Masters 3,Clay,32,S,19980815,17,102693,1,,Leonardo Olguin,R,,ARG,22.6,102333,,,Pavel Kudrnac,R,,CZE,24.4,3-3 RET,3,R16,,,,,,,,,,,,,,,,,,,,354,94,793,13
 1998-M-SA-SVK-01A-1998c,Slovak Republic Masters 3,Clay,32,S,19980815,18,102127,,,Petr Spousta,R,,CZE,25.8,101769,,Q,Paul Ricar,R,,GER,28.1,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,1046,5
 1998-M-SA-SVK-01A-1998c,Slovak Republic Masters 3,Clay,32,S,19980815,19,102210,3,,Rene Hanak,R,,CZE,25.2,102544,,,Pablo Bianchi,R,,URU,23.4,4-6 6-4 7-6,3,R16,,,,,,,,,,,,,,,,,,,,404,77,661,22
 1998-M-SA-SVK-01A-1998c,Slovak Republic Masters 3,Clay,32,S,19980815,20,102272,,Q,Branislav Galik,R,,SVK,24.8,103761,,Q,Tomas Cakl,R,178,CZE,17.2,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,850,11,1325,1
@@ -8566,14 +8566,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-SA-SVK-01A-1998c,Slovak Republic Masters 3,Clay,32,S,19980815,22,103059,,,Radovan Chrz,R,,CZE,20.8,102729,4,,Vladimir Platenik,R,,SVK,22.4,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,879,10,485,49
 1998-M-SA-SVK-01A-1998c,Slovak Republic Masters 3,Clay,32,S,19980815,23,101909,,,Roman Smotlak,R,,SVK,27.2,103242,7,,Juan Giner,R,178,ESP,20.0,3-6 7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,631,25,543,39
 1998-M-SA-SVK-01A-1998c,Slovak Republic Masters 3,Clay,32,S,19980815,24,103457,2,,Petr Kralert,R,188,CZE,18.8,102877,,,Henrik Kula,R,,SVK,21.7,6-7 6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,401,78,763,15
-1998-M-SA-SVK-01A-1998c,Slovak Republic Masters 3,Clay,32,S,19980815,25,102127,,,Petr Spousta,R,,CZE,25.8,111486,1,,Leonardo Olguin,U,,ARG,22.8,6-1 2-6 6-0,3,QF,,,,,,,,,,,,,,,,,,,,,,,
+1998-M-SA-SVK-01A-1998c,Slovak Republic Masters 3,Clay,32,S,19980815,25,102127,,,Petr Spousta,R,,CZE,25.8,102693,1,,Leonardo Olguin,R,,ARG,22.6,6-1 2-6 6-0,3,QF,,,,,,,,,,,,,,,,,,,,,,354,94
 1998-M-SA-SVK-01A-1998c,Slovak Republic Masters 3,Clay,32,S,19980815,26,102272,,Q,Branislav Galik,R,,SVK,24.8,102210,3,,Rene Hanak,R,,CZE,25.2,7-5 7-6,3,QF,,,,,,,,,,,,,,,,,,,,850,11,404,77
 1998-M-SA-SVK-01A-1998c,Slovak Republic Masters 3,Clay,32,S,19980815,27,102692,6,,Manuel Sala,R,,ESP,22.6,103059,,,Radovan Chrz,R,,CZE,20.8,6-2 6-0,3,QF,,,,,,,,,,,,,,,,,,,,536,40,879,10
 1998-M-SA-SVK-01A-1998c,Slovak Republic Masters 3,Clay,32,S,19980815,28,103457,2,,Petr Kralert,R,188,CZE,18.8,101909,,,Roman Smotlak,R,,SVK,27.2,6-7 6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,401,78,631,25
 1998-M-SA-SVK-01A-1998c,Slovak Republic Masters 3,Clay,32,S,19980815,29,102272,,Q,Branislav Galik,R,,SVK,24.8,102127,,,Petr Spousta,R,,CZE,25.8,6-0 6-0,3,SF,,,,,,,,,,,,,,,,,,,,850,11,,
 1998-M-SA-SVK-01A-1998c,Slovak Republic Masters 3,Clay,32,S,19980815,30,103457,2,,Petr Kralert,R,188,CZE,18.8,102692,6,,Manuel Sala,R,,ESP,22.6,2-6 7-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,401,78,536,40
 1998-M-SA-SVK-01A-1998c,Slovak Republic Masters 3,Clay,32,S,19980815,31,103457,2,,Petr Kralert,R,188,CZE,18.8,102272,,Q,Branislav Galik,R,,SVK,24.8,0-6 6-3 6-0,3,F,,,,,,,,,,,,,,,,,,,,401,78,850,11
-1998-M-SA-SVK-01A-1998d,Slovak Republic Masters 4,Clay,32,S,19980815,1,111486,1,,Leonardo Olguin,U,,ARG,22.8,103678,,WC,Miloslav Grolmus,R,,SVK,17.6,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,1046,5
+1998-M-SA-SVK-01A-1998d,Slovak Republic Masters 4,Clay,32,S,19980815,1,102693,1,,Leonardo Olguin,R,,ARG,22.6,103678,,WC,Miloslav Grolmus,R,,SVK,17.6,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,354,94,1046,5
 1998-M-SA-SVK-01A-1998d,Slovak Republic Masters 4,Clay,32,S,19980815,2,102333,,,Pavel Kudrnac,R,,CZE,24.4,102048,,Q,Jan Havel,R,,CZE,26.3,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,793,13,1101,4
 1998-M-SA-SVK-01A-1998d,Slovak Republic Masters 4,Clay,32,S,19980815,3,102127,,,Petr Spousta,R,,CZE,25.8,103144,,,Gregory Zavialoff,R,,FRA,20.4,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,692,19
 1998-M-SA-SVK-01A-1998d,Slovak Republic Masters 4,Clay,32,S,19980815,4,102272,,Q,Branislav Galik,R,,SVK,24.8,102664,7,,Petr Pala,R,193,CZE,22.8,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,850,11,508,45
@@ -8589,7 +8589,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-SA-SVK-01A-1998d,Slovak Republic Masters 4,Clay,32,S,19980815,14,103059,,,Radovan Chrz,R,,CZE,20.8,103064,,,Jiri Hobler,R,,CZE,20.8,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,879,10,932,8
 1998-M-SA-SVK-01A-1998d,Slovak Republic Masters 4,Clay,32,S,19980815,15,102544,,,Pablo Bianchi,R,,URU,23.4,103401,,,Jan Hernych,R,190,CZE,19.0,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,661,22,649,23
 1998-M-SA-SVK-01A-1998d,Slovak Republic Masters 4,Clay,32,S,19980815,16,103457,2,,Petr Kralert,R,188,CZE,18.8,103500,,WC,Frantisek Babej,R,,SVK,18.5,7-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,401,78,,
-1998-M-SA-SVK-01A-1998d,Slovak Republic Masters 4,Clay,32,S,19980815,17,102333,,,Pavel Kudrnac,R,,CZE,24.4,111486,1,,Leonardo Olguin,U,,ARG,22.8,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,793,13,,
+1998-M-SA-SVK-01A-1998d,Slovak Republic Masters 4,Clay,32,S,19980815,17,102333,,,Pavel Kudrnac,R,,CZE,24.4,102693,1,,Leonardo Olguin,R,,ARG,22.6,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,793,13,354,94
 1998-M-SA-SVK-01A-1998d,Slovak Republic Masters 4,Clay,32,S,19980815,18,102272,,Q,Branislav Galik,R,,SVK,24.8,102127,,,Petr Spousta,R,,CZE,25.8,2-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,850,11,,
 1998-M-SA-SVK-01A-1998d,Slovak Republic Masters 4,Clay,32,S,19980815,19,103242,4,,Juan Giner,R,178,ESP,20.0,102591,,,Zoltan Nagy,R,,HUN,23.2,4-6 6-0 6-0,3,R16,,,,,,,,,,,,,,,,,,,,543,39,623,26
 1998-M-SA-SVK-01A-1998d,Slovak Republic Masters 4,Clay,32,S,19980815,20,102729,9,,Vladimir Platenik,R,,SVK,22.4,102507,,,Filip Kascak,R,,SVK,23.5,6-3 1-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,485,49,628,25
@@ -9766,7 +9766,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-FU-FRA-06A-1998,France F6,Hard,32,S,19980914,10,103566,,Q,Michael Llodra,L,190,FRA,18.3,102958,,Q,Julien Cuaz,R,,FRA,21.4,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,732,17,644,24
 1998-M-FU-FRA-06A-1998,France F6,Hard,32,S,19980914,11,102773,,,Kacper Cecek,R,,GER,22.4,103079,,,Jeremy Delinbeuf,R,,FRA,20.8,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,407,75,444,63
 1998-M-FU-FRA-06A-1998,France F6,Hard,32,S,19980914,12,102455,4,,Lorenzo Manta,R,190,SUI,23.9,102642,,,Cyril Saulnier,R,190,FRA,23.0,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,284,134,461,57
-1998-M-FU-FRA-06A-1998,France F6,Hard,32,S,19980914,13,111486,8,,Leonardo Olguin,U,,ARG,22.9,103527,,WC,Julien Jeanpierre,R,188,FRA,18.5,1-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,942,8
+1998-M-FU-FRA-06A-1998,France F6,Hard,32,S,19980914,13,102693,8,,Leonardo Olguin,R,,ARG,22.7,103527,,WC,Julien Jeanpierre,R,188,FRA,18.5,1-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,373,89,942,8
 1998-M-FU-FRA-06A-1998,France F6,Hard,32,S,19980914,14,102934,,,Nicolas Coutelot,R,185,FRA,21.5,102729,,,Vladimir Platenik,R,,SVK,22.5,6-3 7-6,3,R32,,,,,,,,,,,,,,,,,,,,540,40,482,52
 1998-M-FU-FRA-06A-1998,France F6,Hard,32,S,19980914,15,103208,,,Jean Michel Pequery,R,,FRA,20.2,117589,,Q,Florian Marquardt,U,,GER,21.2,7-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,354,94,1089,4
 1998-M-FU-FRA-06A-1998,France F6,Hard,32,S,19980914,16,101823,2,,Gerald Mandl,L,190,AUT,27.8,117611,,WC,Stephane Heyd,U,,FRA,23.8,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,264,146,,
@@ -9776,7 +9776,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-FU-FRA-06A-1998,France F6,Hard,32,S,19980914,20,101945,,,Thierry Guardiola,R,188,FRA,27.1,103003,5,,Jean Francois Bachelot,R,183,FRA,21.2,6-7 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,500,48,288,131
 1998-M-FU-FRA-06A-1998,France F6,Hard,32,S,19980914,21,103566,,Q,Michael Llodra,L,190,FRA,18.3,103592,,WC,Jerome Haehnel,R,185,FRA,18.1,6-3 7-6,3,R16,,,,,,,,,,,,,,,,,,,,732,17,551,38
 1998-M-FU-FRA-06A-1998,France F6,Hard,32,S,19980914,22,102455,4,,Lorenzo Manta,R,190,SUI,23.9,102773,,,Kacper Cecek,R,,GER,22.4,7-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,,284,134,407,75
-1998-M-FU-FRA-06A-1998,France F6,Hard,32,S,19980914,23,102934,,,Nicolas Coutelot,R,185,FRA,21.5,111486,8,,Leonardo Olguin,U,,ARG,22.9,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,540,40,,
+1998-M-FU-FRA-06A-1998,France F6,Hard,32,S,19980914,23,102934,,,Nicolas Coutelot,R,185,FRA,21.5,102693,8,,Leonardo Olguin,R,,ARG,22.7,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,540,40,373,89
 1998-M-FU-FRA-06A-1998,France F6,Hard,32,S,19980914,24,101823,2,,Gerald Mandl,L,190,AUT,27.8,103208,,,Jean Michel Pequery,R,,FRA,20.2,6-3 7-6,3,R16,,,,,,,,,,,,,,,,,,,,264,146,354,94
 1998-M-FU-FRA-06A-1998,France F6,Hard,32,S,19980914,25,102216,7,,Mark Joachim,R,,GER,25.3,103110,1,,Daniele Bracciali,R,180,ITA,20.6,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,348,96,224,181
 1998-M-FU-FRA-06A-1998,France F6,Hard,32,S,19980914,26,101945,,,Thierry Guardiola,R,188,FRA,27.1,100955,3,,Yahiya Doumbia,R,185,SEN,35.0,6-3 3-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,500,48,273,142
@@ -11697,7 +11697,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-M-FU-ARG-05A-1998,Argentina F5,Clay,32,S,19981026,9,102665,6,,Damian Furmanski,R,,ARG,23.0,102545,,Q,Pedro Braga,R,,BRA,23.6,3-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,367,92,584,33
 1998-M-FU-ARG-05A-1998,Argentina F5,Clay,32,S,19981026,10,102890,,,Oscar Rodriguez Arg,R,,ARG,21.8,103532,,WC,Ignacio Gonzalez King,R,175,ARG,18.5,7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,517,47,1142,4
 1998-M-FU-ARG-05A-1998,Argentina F5,Clay,32,S,19981026,11,103478,,WC,Diego Veronelli,R,193,ARG,18.8,103909,,WC,Guillermo Coria,R,175,ARG,16.7,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,553,39,,
-1998-M-FU-ARG-05A-1998,Argentina F5,Clay,32,S,19981026,12,103428,4,,Juan Ignacio Chela,R,190,ARG,19.1,111486,,,Leonardo Olguin,U,,ARG,23.0,6-3 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,291,126,,
+1998-M-FU-ARG-05A-1998,Argentina F5,Clay,32,S,19981026,12,103428,4,,Juan Ignacio Chela,R,190,ARG,19.1,102693,,,Leonardo Olguin,R,,ARG,22.9,6-3 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,291,126,457,62
 1998-M-FU-ARG-05A-1998,Argentina F5,Clay,32,S,19981026,13,108686,7,,Alejandro Aramburu Acuna,R,,PER,29.6,103373,,,Sergio Roitman,R,185,ARG,19.4,6-4 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,467,58
 1998-M-FU-ARG-05A-1998,Argentina F5,Clay,32,S,19981026,14,102166,,Q,Rodrigo Ferreiro,R,,BRA,25.7,103634,,SE,Emiliano Redondi,R,,ARG,18.1,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,810,13,713,19
 1998-M-FU-ARG-05A-1998,Argentina F5,Clay,32,S,19981026,15,102243,,,Marcelo Charpentier,L,180,ARG,25.2,102718,,,Enzo Artoni,R,,ITA,22.7,6-3 7-6,3,R32,,,,,,,,,,,,,,,,,,,,404,76,,
