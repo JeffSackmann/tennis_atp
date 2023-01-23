@@ -7511,7 +7511,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 107524,Kodzo,Apeti,R,19671109,TOG,,
 107525,Koen,Geenen,R,,BEL,,
 107526,Konrad,Schmid,R,,GER,,
-107527,Konstantin,Pugayev,R,,RUS,196,
+107527,Konstantin,Pugayev,R,19550627,RUS,196,
 107528,Kosta,Denchev,R,,BUL,,
 107529,Kouichi,Sayama,R,,JPN,,
 107530,Krisztian,Keresztes,R,,HUN,,
@@ -7890,8 +7890,8 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 107903,Osuma,Nakamura,R,,JPN,,
 107904,Oswaldo,Cruz,R,,BRA,,
 107905,Otto,Oberparleiter,R,,AUT,,
-107906,Otto,Pueski P199,R,,HUN,,
-107907,Otto,Pueski P223,R,,HUN,,
+107906,Otto,Pueski,R,,HUN,,
+107907,Otto,Pueski,R,,HUN,,
 107908,P,Bloxham,R,,GBR,,
 107909,P,Clark,R,,AUS,,
 107910,P,Fioroni,R,,ITA,,
@@ -8218,7 +8218,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 108231,Segun,Balogun,R,,NGR,,
 108232,Seok Jin,Chung,R,,KOR,,
 108233,Seong Hoon,Choi,R,,KOR,,
-108234,Sergei,Leonjuk,R,,RUS,183,
+108234,Sergei,Leonjuk,R,19600403,RUS,183,
 108235,Sergej,Skakun,R,,RUS,,
 108236,Sergio,Ayo,R,,USA,,
 108237,Sergio,Campos,R,,MEX,,
@@ -8234,7 +8234,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 108247,Shai,Friedman,R,,ISR,,
 108248,Shai,Puni,R,,ISR,,
 108249,Shamil,Tarpischev,R,19480307,RUS,,
-108250,Shanker,Krishnan,R,,IND,,
+108250,Shanker,Krishnan,R,19580316,IND,,
 108251,Shigefusa,Kanroji,R,19670602,JPN,,
 108252,Shinichi,Nishino,R,,JPN,,
 108253,Shinichi,Sakamoto,R,19540416,JPN,,Q16676654
@@ -10940,7 +10940,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 110953,Tarmo,Jokinen,U,19461103,FIN,,
 110954,Joao,Lagos,U,19440901,POR,,Q1710165
 110955,Heikki,Hedman,U,19400425,FIN,,Q13545
-110956,Sergei,Leonyuk,R,19600403,URS,,Q22911631
+110956,Sergei,Leonyuk,R,19600403,URS,183,Q22911631
 110957,Peter,Jackson,U,19340922,IRL,,Q107404407
 110958,Viorel,Sotiriu,U,,ROU,,
 110959,Jan Munch,Soegaard,U,19570813,NOR,,
@@ -13232,7 +13232,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 113246,Istvan,Sikorski,U,,HUN,,
 113247,George,Manset,U,,FRA,,
 113248,Alain,Lartigue,U,,FRA,,
-113249,Gheorghe,Sturdza,U,,NOR,,
+113249,Gheorghe,Sturdza,U,19641219,NOR,,
 113250,Bob,Macy,U,,USA,,
 113251,Beppo,Pottinger,U,,GER,,
 113252,Bill,Beale Jr,U,,USA,,
