@@ -199,7 +199,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-1605,St Petersburg CH,Clay,32,C,20040809,12,102957,,,Vadim Kutsenko,R,180,RUS,27.4,101772,,LL,Andrei Cherkasov,R,180,RUS,34.0,6-2 1-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,370,77,495,46
 2004-1605,St Petersburg CH,Clay,32,C,20040809,13,103393,6,,Yuri Schukin,R,188,KAZ,25.1,103281,,,Ladislav Svarc,R,188,SVK,25.7,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,224,166,222,166
 2004-1605,St Petersburg CH,Clay,32,C,20040809,14,103336,,,Marko Neunteibl,U,,AUT,25.4,104787,,WC,Mikhail Lifshits,R,,RUS,17.9,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,371,77,,
-2004-1605,St Petersburg CH,Clay,32,C,20040809,15,103862,,WC,Michail Elgin,R,183,RUS,22.8,104354,,,Daniele Giorgini,R,180,ITA,20.2,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,344,89
+2004-1605,St Petersburg CH,Clay,32,C,20040809,15,103863,,WC,Mikhail Elgin,R,183,RUS,22.8,104354,,,Daniele Giorgini,R,180,ITA,20.2,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1236,3,344,89
 2004-1605,St Petersburg CH,Clay,32,C,20040809,16,104141,,Q,Dmitri Sitak,R,183,RUS,21.4,104010,2,,Dieter Kindlmann,R,183,GER,22.1,7-6(8) 3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,494,46,132,320
 2004-1605,St Petersburg CH,Clay,32,C,20040809,17,104259,1,,Philipp Kohlschreiber,R,178,GER,20.8,103967,,,Michael Lammer,R,185,SUI,22.3,6-7(3) 7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,103,402,333,91
 2004-1605,St Petersburg CH,Clay,32,C,20040809,18,104034,,Q,Dmitry Vlasov,R,188,RUS,22.0,104031,,,Alexander Markin,U,,RUS,22.0,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,374,76,323,97
@@ -208,11 +208,11 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-1605,St Petersburg CH,Clay,32,C,20040809,21,104527,5,,Stan Wawrinka,R,183,SUI,19.3,104195,,,Simone Vagnozzi,R,173,ITA,21.1,6-0 7-5,3,R16,,,,,,,,,,,,,,,,,,,,159,256,332,92
 2004-1605,St Petersburg CH,Clay,32,C,20040809,22,104327,,,Steve Darcis,R,178,BEL,20.4,102957,,,Vadim Kutsenko,R,180,RUS,27.4,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,347,87,370,77
 2004-1605,St Petersburg CH,Clay,32,C,20040809,23,103393,6,,Yuri Schukin,R,188,KAZ,25.1,103336,,,Marko Neunteibl,U,,AUT,25.4,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,224,166,371,77
-2004-1605,St Petersburg CH,Clay,32,C,20040809,24,103862,,WC,Michail Elgin,R,183,RUS,22.8,104141,,Q,Dmitri Sitak,R,183,RUS,21.4,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,494,46
+2004-1605,St Petersburg CH,Clay,32,C,20040809,24,103863,,WC,Mikhail Elgin,R,183,RUS,22.8,104141,,Q,Dmitri Sitak,R,183,RUS,21.4,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1236,3,494,46
 2004-1605,St Petersburg CH,Clay,32,C,20040809,25,104259,1,,Philipp Kohlschreiber,R,178,GER,20.8,104034,,Q,Dmitry Vlasov,R,188,RUS,22.0,7-6(3) 6-0,3,QF,,,,,,,,,,,,,,,,,,,,103,402,374,76
 2004-1605,St Petersburg CH,Clay,32,C,20040809,26,103444,4,,Jean Rene Lisnard,R,173,MON,24.8,103925,8,,Gabriel Moraru,R,180,ROU,22.5,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,143,295,271,125
 2004-1605,St Petersburg CH,Clay,32,C,20040809,27,104527,5,,Stan Wawrinka,R,183,SUI,19.3,104327,,,Steve Darcis,R,178,BEL,20.4,7-5 3-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,159,256,347,87
-2004-1605,St Petersburg CH,Clay,32,C,20040809,28,103393,6,,Yuri Schukin,R,188,KAZ,25.1,103862,,WC,Michail Elgin,R,183,RUS,22.8,3-6 6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,224,166,,
+2004-1605,St Petersburg CH,Clay,32,C,20040809,28,103393,6,,Yuri Schukin,R,188,KAZ,25.1,103863,,WC,Mikhail Elgin,R,183,RUS,22.8,3-6 6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,224,166,1236,3
 2004-1605,St Petersburg CH,Clay,32,C,20040809,29,103444,4,,Jean Rene Lisnard,R,173,MON,24.8,104259,1,,Philipp Kohlschreiber,R,178,GER,20.8,1-6 6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,143,295,103,402
 2004-1605,St Petersburg CH,Clay,32,C,20040809,30,104527,5,,Stan Wawrinka,R,183,SUI,19.3,103393,6,,Yuri Schukin,R,188,KAZ,25.1,7-6(3) 5-7 6-2,3,SF,,,,,,,,,,,,,,,,,,,,159,256,224,166
 2004-1605,St Petersburg CH,Clay,32,C,20040809,31,103444,4,,Jean Rene Lisnard,R,173,MON,24.8,104527,5,,Stan Wawrinka,R,183,SUI,19.3,3-6 7-5 7-5,3,F,,,,,,,,,,,,,,,,,,,,143,295,159,256
@@ -1373,7 +1373,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-2154,Barcelona CH,Clay,32,C,20041011,8,102494,6,,Tomas Behrend,R,193,GER,29.8,102565,,,Alexander Waske,R,188,GER,29.5,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,144,294,193,203
 2004-2154,Barcelona CH,Clay,32,C,20041011,9,103626,,,Tomas Tenconi,R,178,ITA,24.1,104056,8,,Roko Karanusic,R,183,CRO,22.0,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,163,252,148,288
 2004-2154,Barcelona CH,Clay,32,C,20041011,10,104593,,,Daniel Gimeno Traver,R,185,ESP,19.1,102548,,LL,Juan Antonio Marin,R,175,CRC,29.6,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,169,238,269,130
-2004-2154,Barcelona CH,Clay,32,C,20041011,11,103202,,Q,Oscar Serrano,R,173,ESP,26.3,109242,,WC,Jonathan Susmozas,U,,ESP,,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,399,65,,
+2004-2154,Barcelona CH,Clay,32,C,20041011,11,103202,,Q,Oscar Serrano,R,173,ESP,26.3,109242,,WC,Jonathan Susmozas,R,,ESP,17.5,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,399,65,,
 2004-2154,Barcelona CH,Clay,32,C,20041011,12,103490,3,,Santiago Ventura,R,183,ESP,24.7,104196,,Q,Carlos Cuadrado,R,180,ESP,21.3,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,107,390,439,54
 2004-2154,Barcelona CH,Clay,32,C,20041011,13,103726,,,Jean Christophe Faurel,R,175,FRA,23.6,104043,7,,Marc Lopez,R,175,ESP,22.1,7-6(1) RET,3,R32,,,,,,,,,,,,,,,,,,,,189,208,141,300
 2004-2154,Barcelona CH,Clay,32,C,20041011,14,103209,,,Leonardo Azzaro,L,188,ITA,26.3,103868,,,Ivan Navarro,R,183,ESP,22.9,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,182,217,192,203
@@ -1995,7 +1995,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-428,Bolton CH,Hard,32,C,20041018,10,104372,,,Alex Bogdanovic,L,183,GBR,20.4,103716,,,Uros Vico,R,188,ITA,23.6,7-6(5) 6-7(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,191,208,194,204
 2004-428,Bolton CH,Hard,32,C,20041018,11,103735,,Q,Lovro Zovko,R,190,CRO,23.5,103239,,,Marcus Sarstrand,R,183,SWE,26.2,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,293,108,257,141
 2004-428,Bolton CH,Hard,32,C,20041018,12,104571,,Q,Marcos Baghdatis,R,183,CYP,19.3,102788,4,,Jan Vacek,R,198,CZE,28.4,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,235,156,149,292
-2004-428,Bolton CH,Hard,32,C,20041018,13,104624,,WC,Joshua Goodall,R,188,GBR,19.0,103356,6,,Michel Kratochvil,R,185,SUI,25.5,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,441,53,170,240
+2004-428,Bolton CH,Hard,32,C,20041018,13,104623,,WC,Josh Goodall,R,188,GBR,19.0,103356,6,,Michel Kratochvil,R,185,SUI,25.5,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,441,53,170,240
 2004-428,Bolton CH,Hard,32,C,20041018,14,103559,,WC,David Sherwood,R,193,GBR,24.4,103582,,,Michael Berrer,L,193,GER,24.2,4-6 7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,330,90,211,186
 2004-428,Bolton CH,Hard,32,C,20041018,15,103529,,,Aisam Ul Haq Qureshi,R,183,PAK,24.5,104559,,,Teymuraz Gabashvili,R,188,RUS,19.4,6-7(4) 7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,187,216,259,140
 2004-428,Bolton CH,Hard,32,C,20041018,16,103153,2,,Gilles Elseneer,R,188,BEL,26.6,103208,,,Jean Michel Pequery,R,,FRA,26.3,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,106,401,234,158
@@ -2005,14 +2005,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-428,Bolton CH,Hard,32,C,20041018,20,103435,,,Massimo Dellacqua,R,193,ITA,25.1,104160,,,Lukas Dlouhy,R,185,CZE,21.5,4-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,226,165,272,126
 2004-428,Bolton CH,Hard,32,C,20041018,21,103520,,,Pavel Snobel,L,190,CZE,24.6,104372,,,Alex Bogdanovic,L,183,GBR,20.4,7-6(3) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,202,196,191,208
 2004-428,Bolton CH,Hard,32,C,20041018,22,104571,,Q,Marcos Baghdatis,R,183,CYP,19.3,103735,,Q,Lovro Zovko,R,190,CRO,23.5,6-3 4-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,235,156,293,108
-2004-428,Bolton CH,Hard,32,C,20041018,23,104624,,WC,Joshua Goodall,R,188,GBR,19.0,103559,,WC,David Sherwood,R,193,GBR,24.4,6-1 6-7(3) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,441,53,330,90
+2004-428,Bolton CH,Hard,32,C,20041018,23,104623,,WC,Josh Goodall,R,188,GBR,19.0,103559,,WC,David Sherwood,R,193,GBR,24.4,6-1 6-7(3) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,441,53,330,90
 2004-428,Bolton CH,Hard,32,C,20041018,24,103153,2,,Gilles Elseneer,R,188,BEL,26.6,103529,,,Aisam Ul Haq Qureshi,R,183,PAK,24.5,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,106,401,187,216
 2004-428,Bolton CH,Hard,32,C,20041018,25,104273,,,Edouard Roger Vasselin,R,188,FRA,20.8,103171,1,,Raemon Sluiter,R,185,NED,26.5,W/O,3,QF,,,,,,,,,,,,,,,,,,,,204,194,88,457
 2004-428,Bolton CH,Hard,32,C,20041018,26,103193,3,,Peter Wessels,R,196,NED,26.4,103435,,,Massimo Dellacqua,R,193,ITA,25.1,6-4 7-6(9),3,QF,,,,,,,,,,,,,,,,,,,,137,312,226,165
 2004-428,Bolton CH,Hard,32,C,20041018,27,104571,,Q,Marcos Baghdatis,R,183,CYP,19.3,103520,,,Pavel Snobel,L,190,CZE,24.6,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,235,156,202,196
-2004-428,Bolton CH,Hard,32,C,20041018,28,104624,,WC,Joshua Goodall,R,188,GBR,19.0,103153,2,,Gilles Elseneer,R,188,BEL,26.6,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,441,53,106,401
+2004-428,Bolton CH,Hard,32,C,20041018,28,104623,,WC,Josh Goodall,R,188,GBR,19.0,103153,2,,Gilles Elseneer,R,188,BEL,26.6,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,441,53,106,401
 2004-428,Bolton CH,Hard,32,C,20041018,29,103193,3,,Peter Wessels,R,196,NED,26.4,104273,,,Edouard Roger Vasselin,R,188,FRA,20.8,6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,137,312,204,194
-2004-428,Bolton CH,Hard,32,C,20041018,30,104571,,Q,Marcos Baghdatis,R,183,CYP,19.3,104624,,WC,Joshua Goodall,R,188,GBR,19.0,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,235,156,441,53
+2004-428,Bolton CH,Hard,32,C,20041018,30,104571,,Q,Marcos Baghdatis,R,183,CYP,19.3,104623,,WC,Josh Goodall,R,188,GBR,19.0,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,235,156,441,53
 2004-428,Bolton CH,Hard,32,C,20041018,31,104571,,Q,Marcos Baghdatis,R,183,CYP,19.3,103193,3,,Peter Wessels,R,196,NED,26.4,6-1 3-6 6-2,3,F,,,,,,,,,,,,,,,,,,,,235,156,137,312
 2004-443,Napoli CH,Clay,32,C,20040419,1,102788,1,,Jan Vacek,R,198,CZE,27.9,103752,,Q,Simon Greul,R,185,GER,23.0,2-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,98,409,393,75
 2004-443,Napoli CH,Clay,32,C,20040419,2,103209,,,Leonardo Azzaro,L,188,ITA,25.8,102997,,,Hermes Gamonal,R,180,CHI,26.8,6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,280,121,202,184

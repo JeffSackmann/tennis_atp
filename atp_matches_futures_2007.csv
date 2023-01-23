@@ -1518,7 +1518,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-CAN-01A-2007,Canada F1,Hard,32,S,20070305,29,102780,1,WC,Frederic Niemeyer,R,190,CAN,30.8,104285,7,,Patrick Schmolzer,R,,AUT,23.1,6-0 RET,3,SF,,,,,,,,,,,,,,,,,,,,288,130,661,29
 2007-M-FU-CAN-01A-2007,Canada F1,Hard,32,S,20070305,30,103625,,,Adriano Biasella,R,,ITA,26.5,104351,,Q,Benjamin Dracos,U,,FRA,22.8,6-3 6-1,3,SF,,,,,,,,,,,,,,,,,,,,819,15,949,9
 2007-M-FU-CAN-01A-2007,Canada F1,Hard,32,S,20070305,31,103625,,,Adriano Biasella,R,,ITA,26.5,102780,1,WC,Frederic Niemeyer,R,190,CAN,30.8,3-6 7-6(7) 6-4,3,F,,,,,,,,,,,,,,,,,,,,819,15,288,130
-2007-M-FU-GBR-05A-2007,Great Britain F5,Hard,32,S,20070305,1,104623,1,,Josh Goodall,R,188,GBR,21.3,103851,,,Conor Niland,R,185,IRL,25.4,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,491,55
+2007-M-FU-GBR-05A-2007,Great Britain F5,Hard,32,S,20070305,1,104623,1,,Josh Goodall,R,188,GBR,21.3,103851,,,Conor Niland,R,185,IRL,25.4,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,213,184,491,55
 2007-M-FU-GBR-05A-2007,Great Britain F5,Hard,32,S,20070305,2,103529,,,Aisam Ul Haq Qureshi,R,183,PAK,26.9,103855,,Q,Jeremy Blandin,U,,FRA,25.4,6-4 6-7(5) 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,425,73,1197,4
 2007-M-FU-GBR-05A-2007,Great Britain F5,Hard,32,S,20070305,3,104305,,,Luka Gregorc,R,,SLO,23.0,103913,,,Ian Flanagan,U,,GBR,25.1,7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,433,70,944,9
 2007-M-FU-GBR-05A-2007,Great Britain F5,Hard,32,S,20070305,4,104192,5,,Marco Crugnola,R,188,ITA,23.7,104579,,Q,Romain Jouan,R,183,FRA,21.6,7-6(5) 6-7(3) 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,279,138,749,20
@@ -1534,7 +1534,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-GBR-05A-2007,Great Britain F5,Hard,32,S,20070305,14,104819,,Q,Simon Cauvard,U,,FRA,20.3,104418,,WC,Matthew Smith,R,,GBR,22.5,7-5 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,,,677,27
 2007-M-FU-GBR-05A-2007,Great Britain F5,Hard,32,S,20070305,15,104506,,WC,David Brewer,R,,GBR,22.0,105021,,,Andrew Coelho,L,180,AUS,19.4,6-7(6) 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,904,12,436,70
 2007-M-FU-GBR-05A-2007,Great Britain F5,Hard,32,S,20070305,16,103424,2,,Tobias Clemens,R,185,GER,27.5,104667,,Q,Philipp Oswald,R,201,AUT,21.1,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,223,180,845,14
-2007-M-FU-GBR-05A-2007,Great Britain F5,Hard,32,S,20070305,17,104623,1,,Josh Goodall,R,188,GBR,21.3,103529,,,Aisam Ul Haq Qureshi,R,183,PAK,26.9,6-3 6-7(5) 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,,,425,73
+2007-M-FU-GBR-05A-2007,Great Britain F5,Hard,32,S,20070305,17,104623,1,,Josh Goodall,R,188,GBR,21.3,103529,,,Aisam Ul Haq Qureshi,R,183,PAK,26.9,6-3 6-7(5) 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,213,184,425,73
 2007-M-FU-GBR-05A-2007,Great Britain F5,Hard,32,S,20070305,18,104192,5,,Marco Crugnola,R,188,ITA,23.7,104305,,,Luka Gregorc,R,,SLO,23.0,6-4 5-7 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,279,138,433,70
 2007-M-FU-GBR-05A-2007,Great Britain F5,Hard,32,S,20070305,19,103425,4,,Nicolas Tourte,L,,FRA,27.5,103702,,,Stefano Ianni,R,,ITA,26.0,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,231,167,421,75
 2007-M-FU-GBR-05A-2007,Great Britain F5,Hard,32,S,20070305,20,104488,,,Armin Sandbichler,L,180,AUT,22.1,103679,,,Jeroen Masson,R,,BEL,26.1,4-3 RET,3,R16,,,,,,,,,,,,,,,,,,,,625,32,490,55
@@ -1542,11 +1542,11 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-GBR-05A-2007,Great Britain F5,Hard,32,S,20070305,22,104779,3,,Jamie Baker,R,183,GBR,20.5,105101,,Q,Blazej Koniusz,R,,POL,19.0,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,249,156,824,15
 2007-M-FU-GBR-05A-2007,Great Britain F5,Hard,32,S,20070305,23,104049,6,,Gary Lugassy,L,,FRA,24.5,104819,,Q,Simon Cauvard,U,,FRA,20.3,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,290,130,,
 2007-M-FU-GBR-05A-2007,Great Britain F5,Hard,32,S,20070305,24,103424,2,,Tobias Clemens,R,185,GER,27.5,104506,,WC,David Brewer,R,,GBR,22.0,6-2 7-6(1),3,R16,,,,,,,,,,,,,,,,,,,,223,180,904,12
-2007-M-FU-GBR-05A-2007,Great Britain F5,Hard,32,S,20070305,25,104623,1,,Josh Goodall,R,188,GBR,21.3,104192,5,,Marco Crugnola,R,188,ITA,23.7,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,,,279,138
+2007-M-FU-GBR-05A-2007,Great Britain F5,Hard,32,S,20070305,25,104623,1,,Josh Goodall,R,188,GBR,21.3,104192,5,,Marco Crugnola,R,188,ITA,23.7,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,213,184,279,138
 2007-M-FU-GBR-05A-2007,Great Britain F5,Hard,32,S,20070305,26,104488,,,Armin Sandbichler,L,180,AUT,22.1,103425,4,,Nicolas Tourte,L,,FRA,27.5,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,625,32,231,167
 2007-M-FU-GBR-05A-2007,Great Britain F5,Hard,32,S,20070305,27,104695,,,Fritz Wolmarans,R,,RSA,20.9,104779,3,,Jamie Baker,R,183,GBR,20.5,6-3 7-5,3,QF,,,,,,,,,,,,,,,,,,,,546,44,249,156
 2007-M-FU-GBR-05A-2007,Great Britain F5,Hard,32,S,20070305,28,104049,6,,Gary Lugassy,L,,FRA,24.5,103424,2,,Tobias Clemens,R,185,GER,27.5,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,290,130,223,180
-2007-M-FU-GBR-05A-2007,Great Britain F5,Hard,32,S,20070305,29,104488,,,Armin Sandbichler,L,180,AUT,22.1,104623,1,,Josh Goodall,R,188,GBR,21.3,6-7(3) 6-4 7-6(2),3,SF,,,,,,,,,,,,,,,,,,,,625,32,,
+2007-M-FU-GBR-05A-2007,Great Britain F5,Hard,32,S,20070305,29,104488,,,Armin Sandbichler,L,180,AUT,22.1,104623,1,,Josh Goodall,R,188,GBR,21.3,6-7(3) 6-4 7-6(2),3,SF,,,,,,,,,,,,,,,,,,,,625,32,213,184
 2007-M-FU-GBR-05A-2007,Great Britain F5,Hard,32,S,20070305,30,104049,6,,Gary Lugassy,L,,FRA,24.5,104695,,,Fritz Wolmarans,R,,RSA,20.9,7-6(8) 7-6(7),3,SF,,,,,,,,,,,,,,,,,,,,290,130,546,44
 2007-M-FU-GBR-05A-2007,Great Britain F5,Hard,32,S,20070305,31,104049,6,,Gary Lugassy,L,,FRA,24.5,104488,,,Armin Sandbichler,L,180,AUT,22.1,7-6(3) 7-6(6),3,F,,,,,,,,,,,,,,,,,,,,290,130,625,32
 2007-M-FU-ISR-01A-2007,Israel F1,Hard,32,S,20070305,1,104447,,,Pierrick Ysern,U,,FRA,22.3,103248,1,,Harel Levy,R,185,ISR,28.5,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,593,37,309,120
@@ -2270,7 +2270,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-CRO-04A-2007,Croatia F4,Clay,32,S,20070319,6,102240,,Q,Kresimir Ritz,R,,CRO,33.7,104203,,,Darko Madjarovski,R,,SRB,23.7,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1145,5,582,38
 2007-M-FU-CRO-04A-2007,Croatia F4,Clay,32,S,20070319,7,109696,,WC,Tibor Simic,R,,CRO,18.7,103793,,,Martin Vacek,R,,CZE,25.7,1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,506,54
 2007-M-FU-CRO-04A-2007,Croatia F4,Clay,32,S,20070319,8,104882,7,,Blaz Kavcic,R,188,SLO,20.0,111489,,Q,Alexander Krasnorutskiy,R,,RUS,19.7,7-6(4) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,434,70,,
-2007-M-FU-CRO-04A-2007,Croatia F4,Clay,32,S,20070319,9,103863,,,Mikhail Elgin,R,183,RUS,25.4,103702,5,SE,Stefano Ianni,R,,ITA,26.1,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,421,74
+2007-M-FU-CRO-04A-2007,Croatia F4,Clay,32,S,20070319,9,103863,,,Mikhail Elgin,R,183,RUS,25.4,103702,5,SE,Stefano Ianni,R,,ITA,26.1,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,583,38,421,74
 2007-M-FU-CRO-04A-2007,Croatia F4,Clay,32,S,20070319,10,103229,,,Kornel Bardoczky,R,,HUN,28.7,105231,,WC,Luka Belic,R,,CRO,18.4,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,540,45,1044,6
 2007-M-FU-CRO-04A-2007,Croatia F4,Clay,32,S,20070319,11,104275,,Q,Josko Topic,U,,CRO,23.2,105175,,Q,Kristijan Mesaros,R,,CRO,18.7,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,819,15,1065,6
 2007-M-FU-CRO-04A-2007,Croatia F4,Clay,32,S,20070319,12,109371,,WC,Ivan Zovko,R,,CRO,18.8,103708,3,,Jaroslav Pospisil,R,176,CZE,26.1,1-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,425,72
@@ -2282,7 +2282,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-CRO-04A-2007,Croatia F4,Clay,32,S,20070319,18,104149,6,,Adrian Cruciat,R,185,ROU,23.9,103775,,,Felipe Parada,R,175,CHI,25.8,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,429,71,578,39
 2007-M-FU-CRO-04A-2007,Croatia F4,Clay,32,S,20070319,19,102959,4,,Marko Tkalec,R,178,SLO,30.0,102240,,Q,Kresimir Ritz,R,,CRO,33.7,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,395,82,1145,5
 2007-M-FU-CRO-04A-2007,Croatia F4,Clay,32,S,20070319,20,104882,7,,Blaz Kavcic,R,188,SLO,20.0,109696,,WC,Tibor Simic,R,,CRO,18.7,5-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,434,70,,
-2007-M-FU-CRO-04A-2007,Croatia F4,Clay,32,S,20070319,21,103229,,,Kornel Bardoczky,R,,HUN,28.7,103863,,,Mikhail Elgin,R,183,RUS,25.4,6-4 4-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,540,45,,
+2007-M-FU-CRO-04A-2007,Croatia F4,Clay,32,S,20070319,21,103229,,,Kornel Bardoczky,R,,HUN,28.7,103863,,,Mikhail Elgin,R,183,RUS,25.4,6-4 4-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,540,45,583,38
 2007-M-FU-CRO-04A-2007,Croatia F4,Clay,32,S,20070319,22,104275,,Q,Josko Topic,U,,CRO,23.2,109371,,WC,Ivan Zovko,R,,CRO,18.8,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,819,15,,
 2007-M-FU-CRO-04A-2007,Croatia F4,Clay,32,S,20070319,23,104598,,,David Savic,R,,SRB,21.5,105045,,LL,Robert Belak,R,,SRB,19.3,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,635,31,1399,2
 2007-M-FU-CRO-04A-2007,Croatia F4,Clay,32,S,20070319,24,104242,2,,Jan Masik,R,,CZE,23.5,105099,,WC,Antonio Veic,R,180,CRO,19.0,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,410,77,804,16
@@ -3134,7 +3134,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-TUR-02A-2007,Turkey F2,Clay,32,S,20070409,2,103390,,,Artemon Apostu Efremov,R,,ROU,27.8,120468,,WC,Gokay Celik,R,,TUR,17.9,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,542,44,,
 2007-M-FU-TUR-02A-2007,Turkey F2,Clay,32,S,20070409,3,105085,,Q,Artem Smirnov,U,188,UKR,19.1,105109,,Q,Marc Sieber,L,178,GER,19.1,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1015,7,853,13
 2007-M-FU-TUR-02A-2007,Turkey F2,Clay,32,S,20070409,4,104234,5,,Predrag Rusevski,R,,MKD,23.6,104067,,Q,Goran Tosic,R,,MNE,24.5,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,408,77,690,24
-2007-M-FU-TUR-02A-2007,Turkey F2,Clay,32,S,20070409,5,103863,,Q,Mikhail Elgin,R,183,RUS,25.4,104735,3,,Tobias Kamke,R,180,GER,20.8,5-3 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,336,100
+2007-M-FU-TUR-02A-2007,Turkey F2,Clay,32,S,20070409,5,103863,,Q,Mikhail Elgin,R,183,RUS,25.4,104735,3,,Tobias Kamke,R,180,GER,20.8,5-3 RET,3,R32,,,,,,,,,,,,,,,,,,,,547,43,336,100
 2007-M-FU-TUR-02A-2007,Turkey F2,Clay,32,S,20070409,6,103988,,SE,Mariano Albert Ferrando,R,,ESP,24.9,104185,,,Dusan Karol,R,,CZE,23.8,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,664,26,533,46
 2007-M-FU-TUR-02A-2007,Turkey F2,Clay,32,S,20070409,7,105128,,Q,Guillermo Olaso,U,175,ESP,19.0,105043,,SE,Marek Semjan,U,,SVK,19.4,4-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,741,20,592,37
 2007-M-FU-TUR-02A-2007,Turkey F2,Clay,32,S,20070409,8,104487,,,Marcel Zimmermann,R,183,GER,22.2,104327,7,,Steve Darcis,R,178,BEL,23.0,3-6 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,472,60,475,59
@@ -3148,14 +3148,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-TUR-02A-2007,Turkey F2,Clay,32,S,20070409,16,104532,2,,Jose Checa Calvo,L,,ESP,22.0,104039,,,Petar Popovic,U,,SRB,24.7,6-2 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,315,113,545,44
 2007-M-FU-TUR-02A-2007,Turkey F2,Clay,32,S,20070409,17,104714,1,,Julian Reister,R,188,GER,21.0,103390,,,Artemon Apostu Efremov,R,,ROU,27.8,7-6(7) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,298,123,542,44
 2007-M-FU-TUR-02A-2007,Turkey F2,Clay,32,S,20070409,18,104234,5,,Predrag Rusevski,R,,MKD,23.6,105085,,Q,Artem Smirnov,U,188,UKR,19.1,6-2 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,408,77,1015,7
-2007-M-FU-TUR-02A-2007,Turkey F2,Clay,32,S,20070409,19,103863,,Q,Mikhail Elgin,R,183,RUS,25.4,103988,,SE,Mariano Albert Ferrando,R,,ESP,24.9,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,664,26
+2007-M-FU-TUR-02A-2007,Turkey F2,Clay,32,S,20070409,19,103863,,Q,Mikhail Elgin,R,183,RUS,25.4,103988,,SE,Mariano Albert Ferrando,R,,ESP,24.9,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,547,43,664,26
 2007-M-FU-TUR-02A-2007,Turkey F2,Clay,32,S,20070409,20,104487,,,Marcel Zimmermann,R,183,GER,22.2,105128,,Q,Guillermo Olaso,U,175,ESP,19.0,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,472,60,741,20
 2007-M-FU-TUR-02A-2007,Turkey F2,Clay,32,S,20070409,21,103748,,,Jan Minar,R,,CZE,25.9,104006,8,,Alexandre Renard,R,,FRA,24.8,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,491,56,455,64
 2007-M-FU-TUR-02A-2007,Turkey F2,Clay,32,S,20070409,22,103699,4,,Fred Hemmes,R,183,NED,26.1,103891,,,Alexandros Jakupovic,R,,GRE,25.3,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,389,83,585,38
 2007-M-FU-TUR-02A-2007,Turkey F2,Clay,32,S,20070409,23,103851,6,,Conor Niland,R,185,IRL,25.5,104512,,WC,Ergun Zorlu,R,,TUR,22.1,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,414,75,886,12
 2007-M-FU-TUR-02A-2007,Turkey F2,Clay,32,S,20070409,24,104532,2,,Jose Checa Calvo,L,,ESP,22.0,105376,,Q,Peter Gojowczyk,R,185,GER,17.7,6-2 3-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,315,113,629,31
 2007-M-FU-TUR-02A-2007,Turkey F2,Clay,32,S,20070409,25,104234,5,,Predrag Rusevski,R,,MKD,23.6,104714,1,,Julian Reister,R,188,GER,21.0,3-6 6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,408,77,298,123
-2007-M-FU-TUR-02A-2007,Turkey F2,Clay,32,S,20070409,26,104487,,,Marcel Zimmermann,R,183,GER,22.2,103863,,Q,Mikhail Elgin,R,183,RUS,25.4,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,472,60,,
+2007-M-FU-TUR-02A-2007,Turkey F2,Clay,32,S,20070409,26,104487,,,Marcel Zimmermann,R,183,GER,22.2,103863,,Q,Mikhail Elgin,R,183,RUS,25.4,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,472,60,547,43
 2007-M-FU-TUR-02A-2007,Turkey F2,Clay,32,S,20070409,27,103748,,,Jan Minar,R,,CZE,25.9,103699,4,,Fred Hemmes,R,183,NED,26.1,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,491,56,389,83
 2007-M-FU-TUR-02A-2007,Turkey F2,Clay,32,S,20070409,28,103851,6,,Conor Niland,R,185,IRL,25.5,104532,2,,Jose Checa Calvo,L,,ESP,22.0,4-6 6-3 6-0,3,QF,,,,,,,,,,,,,,,,,,,,414,75,315,113
 2007-M-FU-TUR-02A-2007,Turkey F2,Clay,32,S,20070409,29,104234,5,,Predrag Rusevski,R,,MKD,23.6,104487,,,Marcel Zimmermann,R,183,GER,22.2,6-3 4-1 RET,3,SF,,,,,,,,,,,,,,,,,,,,408,77,472,60
@@ -3388,7 +3388,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-TUR-03A-2007,Turkey F3,Clay,32,S,20070416,8,104234,5,,Predrag Rusevski,R,,MKD,23.6,103880,,LL,Arnar Sigurdsson,U,,ISL,25.3,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,412,77,709,22
 2007-M-FU-TUR-03A-2007,Turkey F3,Clay,32,S,20070416,9,104512,,WC,Ergun Zorlu,R,,TUR,22.1,103851,6,,Conor Niland,R,185,IRL,25.5,6-4 3-6 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,885,12,419,75
 2007-M-FU-TUR-03A-2007,Turkey F3,Clay,32,S,20070416,10,105067,,Q,Alexander Stamchev,R,,BUL,19.2,118453,,Q,Patricio Konortoff,R,,ARG,22.8,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1031,7,,
-2007-M-FU-TUR-03A-2007,Turkey F3,Clay,32,S,20070416,11,103863,,,Mikhail Elgin,R,183,RUS,25.5,105112,,Q,Marc Meigel,R,,GER,19.1,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,1070,6
+2007-M-FU-TUR-03A-2007,Turkey F3,Clay,32,S,20070416,11,103863,,,Mikhail Elgin,R,183,RUS,25.5,105112,,Q,Marc Meigel,R,,GER,19.1,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,551,43,1070,6
 2007-M-FU-TUR-03A-2007,Turkey F3,Clay,32,S,20070416,12,103699,3,,Fred Hemmes,R,183,NED,26.2,105128,,Q,Guillermo Olaso,U,175,ESP,19.0,6-3 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,393,83,725,21
 2007-M-FU-TUR-03A-2007,Turkey F3,Clay,32,S,20070416,13,104006,7,,Alexandre Renard,R,,FRA,24.8,103760,,WC,Haluk Akkoyun,R,,TUR,25.9,2-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,455,67,1297,3
 2007-M-FU-TUR-03A-2007,Turkey F3,Clay,32,S,20070416,14,105116,,,Dusan Lojda,L,188,CZE,19.1,104947,,WC,Marsel Ilhan,R,190,TUR,19.8,6-1 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,527,48,1187,4
@@ -3399,7 +3399,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-TUR-03A-2007,Turkey F3,Clay,32,S,20070416,19,103936,4,,Todor Enev,R,,BUL,25.1,104804,,,Amir Weintraub,R,188,ISR,20.5,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,408,79,536,46
 2007-M-FU-TUR-03A-2007,Turkey F3,Clay,32,S,20070416,20,104234,5,,Predrag Rusevski,R,,MKD,23.6,103668,,,Lazar Magdincev,R,,MKD,26.3,6-3 6-7(7) 4-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,412,77,489,57
 2007-M-FU-TUR-03A-2007,Turkey F3,Clay,32,S,20070416,21,104512,,WC,Ergun Zorlu,R,,TUR,22.1,105067,,Q,Alexander Stamchev,R,,BUL,19.2,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,885,12,1031,7
-2007-M-FU-TUR-03A-2007,Turkey F3,Clay,32,S,20070416,22,103699,3,,Fred Hemmes,R,183,NED,26.2,103863,,,Mikhail Elgin,R,183,RUS,25.5,0-6 6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,393,83,,
+2007-M-FU-TUR-03A-2007,Turkey F3,Clay,32,S,20070416,22,103699,3,,Fred Hemmes,R,183,NED,26.2,103863,,,Mikhail Elgin,R,183,RUS,25.5,0-6 6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,393,83,551,43
 2007-M-FU-TUR-03A-2007,Turkey F3,Clay,32,S,20070416,23,105116,,,Dusan Lojda,L,188,CZE,19.1,104006,7,,Alexandre Renard,R,,FRA,24.8,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,527,48,455,67
 2007-M-FU-TUR-03A-2007,Turkey F3,Clay,32,S,20070416,24,104185,,,Dusan Karol,R,,CZE,23.9,104235,2,,Matwe Middelkoop,R,191,NED,23.6,1-6 6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,535,46,358,93
 2007-M-FU-TUR-03A-2007,Turkey F3,Clay,32,S,20070416,25,104327,,,Steve Darcis,R,178,BEL,23.0,104532,1,,Jose Checa Calvo,L,,ESP,22.0,6-0 6-3,3,QF,,,,,,,,,,,,,,,,,,,,391,83,311,117
@@ -3755,7 +3755,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-ESP-16A-2007,Spain F16,Clay,32,S,20070430,3,104462,,,Miquel Perez Puigdomenech,U,,ESP,22.3,105151,,WC,Javier Garrapiz Borderias,R,,ESP,18.9,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,719,21,885,12
 2007-M-FU-ESP-16A-2007,Spain F16,Clay,32,S,20070430,4,105137,8,,Pere Riba,R,183,ESP,19.0,119820,,Q,Edualdo Bonet De Gispert,U,,ESP,19.3,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,571,40,,
 2007-M-FU-ESP-16A-2007,Spain F16,Clay,32,S,20070430,5,104579,,,Romain Jouan,R,183,FRA,21.7,103873,4,,Antonio Baldellou Esteva,U,,ESP,25.4,6-4 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,676,25,514,50
-2007-M-FU-ESP-16A-2007,Spain F16,Clay,32,S,20070430,6,105443,,WC,Georgi Rumenov Payakov,U,,ESP,17.3,104097,,Q,Robert Phillips Pd13,U,,AUS,24.3,6-7(6) 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1019,7,,
+2007-M-FU-ESP-16A-2007,Spain F16,Clay,32,S,20070430,6,105443,,WC,Georgi Rumenov Payakov,U,,ESP,17.3,104097,,Q,Robert Phillips,U,,AUS,24.3,6-7(6) 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1019,7,,
 2007-M-FU-ESP-16A-2007,Spain F16,Clay,32,S,20070430,7,103827,,,Fabio Colangelo,R,,ITA,25.6,105559,,JE,Jonathan Eysseric,L,180,FRA,16.9,6-4 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,654,28,849,13
 2007-M-FU-ESP-16A-2007,Spain F16,Clay,32,S,20070430,8,104152,,,David Canudas Fernandez,U,,ESP,24.0,103399,6,,Carlos Rexach Itoiz,U,,ESP,27.8,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,704,22,495,53
 2007-M-FU-ESP-16A-2007,Spain F16,Clay,32,S,20070430,9,105138,,,Roberto Bautista Agut,R,183,ESP,19.0,102167,5,,Juan Albert Viloca Puig,R,185,ESP,34.2,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,799,16,457,63
@@ -4060,7 +4060,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-CZE-01A-2007,Czech Rep F1,Clay,32,S,20070507,29,104586,1,,Lukas Rosol,R,196,CZE,21.7,104583,,,Filip Polasek,R,196,SVK,21.7,6-4 6-1,3,SF,,,,,,,,,,,,,,,,,,,,289,124,584,37
 2007-M-FU-CZE-01A-2007,Czech Rep F1,Clay,32,S,20070507,30,103793,6,,Martin Vacek,R,,CZE,25.8,103229,5,,Kornel Bardoczky,R,,HUN,28.8,W/O,3,SF,,,,,,,,,,,,,,,,,,,,512,50,498,52
 2007-M-FU-CZE-01A-2007,Czech Rep F1,Clay,32,S,20070507,31,104586,1,,Lukas Rosol,R,196,CZE,21.7,103793,6,,Martin Vacek,R,,CZE,25.8,6-7(4) 6-4 6-4,3,F,,,,,,,,,,,,,,,,,,,,289,124,512,50
-2007-M-FU-GBR-10A-2007,Great Britain F10,Clay,32,S,20070507,1,105043,,,Marek Semjan,U,,SVK,19.4,104623,1,WC,Josh Goodall,R,188,GBR,21.5,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,614,33,,
+2007-M-FU-GBR-10A-2007,Great Britain F10,Clay,32,S,20070507,1,105043,,,Marek Semjan,U,,SVK,19.4,104623,1,WC,Josh Goodall,R,188,GBR,21.5,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,614,33,218,182
 2007-M-FU-GBR-10A-2007,Great Britain F10,Clay,32,S,20070507,2,103799,,,Eric Prodon,R,178,FRA,25.8,105554,,WC,Daniel Evans,R,175,GBR,16.9,6-3 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,721,20,1498,1
 2007-M-FU-GBR-10A-2007,Great Britain F10,Clay,32,S,20070507,3,104418,,,Matthew Smith,R,,GBR,22.7,105441,,Q,John Patrick Smith,L,188,AUS,18.2,4-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,753,18,,
 2007-M-FU-GBR-10A-2007,Great Britain F10,Clay,32,S,20070507,4,105638,,WC,Daniel Cox,R,170,GBR,16.6,104017,8,,Ludwig Pellerin,R,,FRA,24.8,6-2 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1149,4,491,54
@@ -4408,7 +4408,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-BLR-01A-2007,Belarus F1,Hard,32,S,20070514,5,104628,4,,Alexander Kudryavtsev,R,183,RUS,21.5,109103,,Q,Mikhail Karpol,R,,CRO,18.3,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,495,53,1500,1
 2007-M-FU-BLR-01A-2007,Belarus F1,Hard,32,S,20070514,6,120385,,Q,Maxim Geraskin,U,,RUS,21.4,104880,,,Egor Puntus,R,,BLR,20.2,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,855,13
 2007-M-FU-BLR-01A-2007,Belarus F1,Hard,32,S,20070514,7,105130,,Q,Vladimir Uzhylovsky,R,183,UKR,19.1,120473,,WC,Stanislav Zhuravski,U,,RUS,18.9,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2007-M-FU-BLR-01A-2007,Belarus F1,Hard,32,S,20070514,8,103863,6,,Mikhail Elgin,R,183,RUS,25.5,104504,,,Ross Hutchins,R,190,GBR,22.2,4-6 6-6 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,825,14
+2007-M-FU-BLR-01A-2007,Belarus F1,Hard,32,S,20070514,8,103863,6,,Mikhail Elgin,R,183,RUS,25.5,104504,,,Ross Hutchins,R,190,GBR,22.2,4-6 6-6 RET,3,R32,,,,,,,,,,,,,,,,,,,,560,42,825,14
 2007-M-FU-BLR-01A-2007,Belarus F1,Hard,32,S,20070514,9,104884,8,,Vladislav Bondarenko,R,,UKR,20.1,108647,,Q,Anton Tsymbalov,R,,KAZ,21.6,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,598,35,,
 2007-M-FU-BLR-01A-2007,Belarus F1,Hard,32,S,20070514,10,104034,,,Dmitry Vlasov,R,188,RUS,24.8,105016,,,Serguei Tarasevitch,R,,BLR,19.6,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,639,29,922,10
 2007-M-FU-BLR-01A-2007,Belarus F1,Hard,32,S,20070514,11,105259,,WC,Andrei Karatchenia,R,,BLR,18.3,120481,,Q,Artun Klimenka,R,,BLR,18.0,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -4420,13 +4420,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-BLR-01A-2007,Belarus F1,Hard,32,S,20070514,17,103762,1,,John Paul Fruttero,R,185,USA,26.0,105085,,,Artem Smirnov,U,188,UKR,19.2,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,365,92,953,9
 2007-M-FU-BLR-01A-2007,Belarus F1,Hard,32,S,20070514,18,104661,7,,Pierre Ludovic Duclos,R,188,CAN,21.3,103953,,,Olivier Charroin,L,,FRA,25.1,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,565,41,814,15
 2007-M-FU-BLR-01A-2007,Belarus F1,Hard,32,S,20070514,19,104628,4,,Alexander Kudryavtsev,R,183,RUS,21.5,120385,,Q,Maxim Geraskin,U,,RUS,21.4,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,495,53,,
-2007-M-FU-BLR-01A-2007,Belarus F1,Hard,32,S,20070514,20,103863,6,,Mikhail Elgin,R,183,RUS,25.5,105130,,Q,Vladimir Uzhylovsky,R,183,UKR,19.1,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+2007-M-FU-BLR-01A-2007,Belarus F1,Hard,32,S,20070514,20,103863,6,,Mikhail Elgin,R,183,RUS,25.5,105130,,Q,Vladimir Uzhylovsky,R,183,UKR,19.1,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,560,42,,
 2007-M-FU-BLR-01A-2007,Belarus F1,Hard,32,S,20070514,21,104034,,,Dmitry Vlasov,R,188,RUS,24.8,104884,8,,Vladislav Bondarenko,R,,UKR,20.1,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,639,29,598,35
 2007-M-FU-BLR-01A-2007,Belarus F1,Hard,32,S,20070514,22,105259,,WC,Andrei Karatchenia,R,,BLR,18.3,104105,3,,Pavel Ivanov,R,193,RUS,24.3,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,472,58
 2007-M-FU-BLR-01A-2007,Belarus F1,Hard,32,S,20070514,23,103949,5,,Ivan Cerovic,L,190,CRO,25.2,104920,,,Denys Molchanov,R,190,UKR,19.9,4-6 7-6(3) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,505,51,797,16
 2007-M-FU-BLR-01A-2007,Belarus F1,Hard,32,S,20070514,24,105011,2,,Illya Marchenko,R,185,UKR,19.6,104685,,Q,Aleksandr Agafonov,U,,UKR,21.2,3-6 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,433,67,1500,1
 2007-M-FU-BLR-01A-2007,Belarus F1,Hard,32,S,20070514,25,104661,7,,Pierre Ludovic Duclos,R,188,CAN,21.3,103762,1,,John Paul Fruttero,R,185,USA,26.0,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,565,41,365,92
-2007-M-FU-BLR-01A-2007,Belarus F1,Hard,32,S,20070514,26,104628,4,,Alexander Kudryavtsev,R,183,RUS,21.5,103863,6,,Mikhail Elgin,R,183,RUS,25.5,3-6 6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,495,53,,
+2007-M-FU-BLR-01A-2007,Belarus F1,Hard,32,S,20070514,26,104628,4,,Alexander Kudryavtsev,R,183,RUS,21.5,103863,6,,Mikhail Elgin,R,183,RUS,25.5,3-6 6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,495,53,560,42
 2007-M-FU-BLR-01A-2007,Belarus F1,Hard,32,S,20070514,27,104034,,,Dmitry Vlasov,R,188,RUS,24.8,105259,,WC,Andrei Karatchenia,R,,BLR,18.3,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,639,29,,
 2007-M-FU-BLR-01A-2007,Belarus F1,Hard,32,S,20070514,28,103949,5,,Ivan Cerovic,L,190,CRO,25.2,105011,2,,Illya Marchenko,R,185,UKR,19.6,7-6(2) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,505,51,433,67
 2007-M-FU-BLR-01A-2007,Belarus F1,Hard,32,S,20070514,29,104628,4,,Alexander Kudryavtsev,R,183,RUS,21.5,104661,7,,Pierre Ludovic Duclos,R,188,CAN,21.3,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,495,53,565,41
@@ -4936,7 +4936,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-BLR-02A-2007,Belarus F2,Hard,32,S,20070521,6,111489,,,Alexander Krasnorutskiy,R,,RUS,19.9,104677,,,Artem Sitak,R,185,NZL,21.2,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,706,22
 2007-M-FU-BLR-02A-2007,Belarus F2,Hard,32,S,20070521,7,105029,,WC,Sergey Betov,R,185,BLR,19.5,105130,,Q,Vladimir Uzhylovsky,R,183,UKR,19.1,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1390,2,,
 2007-M-FU-BLR-02A-2007,Belarus F2,Hard,32,S,20070521,8,104661,6,,Pierre Ludovic Duclos,R,188,CAN,21.3,103272,,,Alexander Yarmola,R,,UKR,28.6,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,564,41,748,19
-2007-M-FU-BLR-02A-2007,Belarus F2,Hard,32,S,20070521,9,103863,5,,Mikhail Elgin,R,183,RUS,25.5,105103,,,Pavel Katliarov,R,,BLR,19.2,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,821,15
+2007-M-FU-BLR-02A-2007,Belarus F2,Hard,32,S,20070521,9,103863,5,,Mikhail Elgin,R,183,RUS,25.5,105103,,,Pavel Katliarov,R,,BLR,19.2,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,558,42,821,15
 2007-M-FU-BLR-02A-2007,Belarus F2,Hard,32,S,20070521,10,104880,,,Egor Puntus,R,,BLR,20.2,109164,,WC,Nikolai Parkhomenko,U,,RUS,18.0,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,866,13,,
 2007-M-FU-BLR-02A-2007,Belarus F2,Hard,32,S,20070521,11,104787,,,Mikhail Lifshits,R,,RUS,20.7,119753,,Q,Aleksandr Vasilevski,U,,BLR,19.5,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,962,9,,
 2007-M-FU-BLR-02A-2007,Belarus F2,Hard,32,S,20070521,12,104628,3,,Alexander Kudryavtsev,R,183,RUS,21.5,104920,,,Denys Molchanov,R,190,UKR,20.0,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,495,53,802,16
@@ -4948,17 +4948,17 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-BLR-02A-2007,Belarus F2,Hard,32,S,20070521,18,104034,8,,Dmitry Vlasov,R,188,RUS,24.8,120469,,Q,Aleksey Bessonov,U,,BLR,19.0,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,646,29,,
 2007-M-FU-BLR-02A-2007,Belarus F2,Hard,32,S,20070521,19,103949,4,,Ivan Cerovic,L,190,CRO,25.2,111489,,,Alexander Krasnorutskiy,R,,RUS,19.9,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,512,50,,
 2007-M-FU-BLR-02A-2007,Belarus F2,Hard,32,S,20070521,20,104661,6,,Pierre Ludovic Duclos,R,188,CAN,21.3,105029,,WC,Sergey Betov,R,185,BLR,19.5,6-3 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,564,41,1390,2
-2007-M-FU-BLR-02A-2007,Belarus F2,Hard,32,S,20070521,21,103863,5,,Mikhail Elgin,R,183,RUS,25.5,104880,,,Egor Puntus,R,,BLR,20.2,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,866,13
+2007-M-FU-BLR-02A-2007,Belarus F2,Hard,32,S,20070521,21,103863,5,,Mikhail Elgin,R,183,RUS,25.5,104880,,,Egor Puntus,R,,BLR,20.2,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,558,42,866,13
 2007-M-FU-BLR-02A-2007,Belarus F2,Hard,32,S,20070521,22,104628,3,,Alexander Kudryavtsev,R,183,RUS,21.5,104787,,,Mikhail Lifshits,R,,RUS,20.7,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,495,53,962,9
 2007-M-FU-BLR-02A-2007,Belarus F2,Hard,32,S,20070521,23,104884,7,,Vladislav Bondarenko,R,,UKR,20.2,120473,,WC,Stanislav Zhuravski,U,,RUS,19.0,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,586,38,,
 2007-M-FU-BLR-02A-2007,Belarus F2,Hard,32,S,20070521,24,105085,,,Artem Smirnov,U,188,UKR,19.2,105299,,Q,Dzmitry Zhyrmont,U,,BLR,18.2,6-3 3-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,959,9,,
 2007-M-FU-BLR-02A-2007,Belarus F2,Hard,32,S,20070521,25,105011,1,,Illya Marchenko,R,185,UKR,19.6,104034,8,,Dmitry Vlasov,R,188,RUS,24.8,6-3 6-0,3,QF,,,,,,,,,,,,,,,,,,,,405,73,646,29
 2007-M-FU-BLR-02A-2007,Belarus F2,Hard,32,S,20070521,26,104661,6,,Pierre Ludovic Duclos,R,188,CAN,21.3,103949,4,,Ivan Cerovic,L,190,CRO,25.2,6-7(6) 6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,564,41,512,50
-2007-M-FU-BLR-02A-2007,Belarus F2,Hard,32,S,20070521,27,103863,5,,Mikhail Elgin,R,183,RUS,25.5,104628,3,,Alexander Kudryavtsev,R,183,RUS,21.5,7-6(2) 6-1,3,QF,,,,,,,,,,,,,,,,,,,,,,495,53
+2007-M-FU-BLR-02A-2007,Belarus F2,Hard,32,S,20070521,27,103863,5,,Mikhail Elgin,R,183,RUS,25.5,104628,3,,Alexander Kudryavtsev,R,183,RUS,21.5,7-6(2) 6-1,3,QF,,,,,,,,,,,,,,,,,,,,558,42,495,53
 2007-M-FU-BLR-02A-2007,Belarus F2,Hard,32,S,20070521,28,105085,,,Artem Smirnov,U,188,UKR,19.2,104884,7,,Vladislav Bondarenko,R,,UKR,20.2,7-5 6-2,3,QF,,,,,,,,,,,,,,,,,,,,959,9,586,38
 2007-M-FU-BLR-02A-2007,Belarus F2,Hard,32,S,20070521,29,105011,1,,Illya Marchenko,R,185,UKR,19.6,104661,6,,Pierre Ludovic Duclos,R,188,CAN,21.3,6-7(4) 6-1 6-2,3,SF,,,,,,,,,,,,,,,,,,,,405,73,564,41
-2007-M-FU-BLR-02A-2007,Belarus F2,Hard,32,S,20070521,30,103863,5,,Mikhail Elgin,R,183,RUS,25.5,105085,,,Artem Smirnov,U,188,UKR,19.2,6-1 6-2,3,SF,,,,,,,,,,,,,,,,,,,,,,959,9
-2007-M-FU-BLR-02A-2007,Belarus F2,Hard,32,S,20070521,31,103863,5,,Mikhail Elgin,R,183,RUS,25.5,105011,1,,Illya Marchenko,R,185,UKR,19.6,6-3 6-2,3,F,,,,,,,,,,,,,,,,,,,,,,405,73
+2007-M-FU-BLR-02A-2007,Belarus F2,Hard,32,S,20070521,30,103863,5,,Mikhail Elgin,R,183,RUS,25.5,105085,,,Artem Smirnov,U,188,UKR,19.2,6-1 6-2,3,SF,,,,,,,,,,,,,,,,,,,,558,42,959,9
+2007-M-FU-BLR-02A-2007,Belarus F2,Hard,32,S,20070521,31,103863,5,,Mikhail Elgin,R,183,RUS,25.5,105011,1,,Illya Marchenko,R,185,UKR,19.6,6-3 6-2,3,F,,,,,,,,,,,,,,,,,,,,558,42,405,73
 2007-M-FU-BIH-03A-2007,Bosnia & Herzegovina F3,Clay,32,S,20070521,1,105060,,Q,Aldin Setkic,R,193,BIH,19.4,104813,1,,Grega Zemlja,R,183,SLO,20.6,4-6 6-4 7-6(8),3,R32,,,,,,,,,,,,,,,,,,,,897,11,283,128
 2007-M-FU-BIH-03A-2007,Bosnia & Herzegovina F3,Clay,32,S,20070521,2,120120,,Q,Marko Pazman,R,,CRO,20.6,109372,,WC,Robert Raguz,U,,CRO,16.6,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1390,2,,
 2007-M-FU-BIH-03A-2007,Bosnia & Herzegovina F3,Clay,32,S,20070521,3,104967,,,Alexander Sadecky,L,193,SUI,19.8,109371,,WC,Ivan Zovko,R,,CRO,19.0,6-2 0-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,806,16,1512,1
@@ -6020,7 +6020,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-BLR-03A-2007,Belarus F3,Clay,32,S,20070611,5,104311,,,Leonardo Tavares,R,185,POR,23.3,104105,4,,Pavel Ivanov,R,193,RUS,24.4,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,908,11,538,45
 2007-M-FU-BLR-03A-2007,Belarus F3,Clay,32,S,20070611,6,111404,,Q,Alexander Smolyakov,U,,RUS,18.1,108948,,Q,Alexandr Zotov,L,,BLR,19.0,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2007-M-FU-BLR-03A-2007,Belarus F3,Clay,32,S,20070611,7,104787,,,Mikhail Lifshits,R,,RUS,20.8,105748,,Q,Vladzimir Kruk,R,,BLR,16.1,6-2 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,953,9,,
-2007-M-FU-BLR-03A-2007,Belarus F3,Clay,32,S,20070611,8,103863,5,,Mikhail Elgin,R,183,RUS,25.6,120502,,LL,Mikhail Trukshanin,L,,BLR,18.3,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2007-M-FU-BLR-03A-2007,Belarus F3,Clay,32,S,20070611,8,103863,5,,Mikhail Elgin,R,183,RUS,25.6,120502,,LL,Mikhail Trukshanin,L,,BLR,18.3,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,457,61,,
 2007-M-FU-BLR-03A-2007,Belarus F3,Clay,32,S,20070611,9,103719,8,,Ruben Torres,R,,COL,26.2,105352,,Q,Danila Arsenov,R,183,RUS,18.0,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,645,29,1494,1
 2007-M-FU-BLR-03A-2007,Belarus F3,Clay,32,S,20070611,10,105259,,WC,Andrei Karatchenia,R,,BLR,18.4,120469,,WC,Aleksey Bessonov,U,,BLR,19.0,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1231,3,1494,1
 2007-M-FU-BLR-03A-2007,Belarus F3,Clay,32,S,20070611,11,105012,,Q,Alexander Bury,R,203,BLR,19.7,105029,,,Sergey Betov,R,185,BLR,19.6,3-6 7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,1284,3
@@ -6032,16 +6032,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-BLR-03A-2007,Belarus F3,Clay,32,S,20070611,17,104707,1,,Denis Matsukevitch,R,190,RUS,21.2,105016,,,Serguei Tarasevitch,R,,BLR,19.7,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,460,61,921,10
 2007-M-FU-BLR-03A-2007,Belarus F3,Clay,32,S,20070611,18,103799,6,,Eric Prodon,R,178,FRA,25.9,105237,,Q,Vitali Reshetnikov,R,,RUS,18.5,6-3 RET,3,R16,,,,,,,,,,,,,,,,,,,,466,59,,
 2007-M-FU-BLR-03A-2007,Belarus F3,Clay,32,S,20070611,19,104311,,,Leonardo Tavares,R,185,POR,23.3,111404,,Q,Alexander Smolyakov,U,,RUS,18.1,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,908,11,,
-2007-M-FU-BLR-03A-2007,Belarus F3,Clay,32,S,20070611,20,103863,5,,Mikhail Elgin,R,183,RUS,25.6,104787,,,Mikhail Lifshits,R,,RUS,20.8,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,953,9
+2007-M-FU-BLR-03A-2007,Belarus F3,Clay,32,S,20070611,20,103863,5,,Mikhail Elgin,R,183,RUS,25.6,104787,,,Mikhail Lifshits,R,,RUS,20.8,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,457,61,953,9
 2007-M-FU-BLR-03A-2007,Belarus F3,Clay,32,S,20070611,21,105259,,WC,Andrei Karatchenia,R,,BLR,18.4,103719,8,,Ruben Torres,R,,COL,26.2,7-6(4) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1231,3,645,29
 2007-M-FU-BLR-03A-2007,Belarus F3,Clay,32,S,20070611,22,103166,,WC,Vladimir Voltchkov,R,180,BLR,29.1,105012,,Q,Alexander Bury,R,203,BLR,19.7,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1284,3,,
 2007-M-FU-BLR-03A-2007,Belarus F3,Clay,32,S,20070611,23,103641,7,,Cesar Ferrer Victoria,L,,ESP,26.6,120503,,Q,Artem Baradach,U,,BLR,18.2,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,556,41,,
 2007-M-FU-BLR-03A-2007,Belarus F3,Clay,32,S,20070611,24,105103,,,Pavel Katliarov,R,,BLR,19.2,105189,2,,Pavel Chekhov,R,,RUS,18.8,6-3 6-7(1) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,816,15,482,56
 2007-M-FU-BLR-03A-2007,Belarus F3,Clay,32,S,20070611,25,103799,6,,Eric Prodon,R,178,FRA,25.9,104707,1,,Denis Matsukevitch,R,190,RUS,21.2,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,466,59,460,61
-2007-M-FU-BLR-03A-2007,Belarus F3,Clay,32,S,20070611,26,103863,5,,Mikhail Elgin,R,183,RUS,25.6,104311,,,Leonardo Tavares,R,185,POR,23.3,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,908,11
+2007-M-FU-BLR-03A-2007,Belarus F3,Clay,32,S,20070611,26,103863,5,,Mikhail Elgin,R,183,RUS,25.6,104311,,,Leonardo Tavares,R,185,POR,23.3,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,457,61,908,11
 2007-M-FU-BLR-03A-2007,Belarus F3,Clay,32,S,20070611,27,103166,,WC,Vladimir Voltchkov,R,180,BLR,29.1,105259,,WC,Andrei Karatchenia,R,,BLR,18.4,6-3 3-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,1284,3,1231,3
 2007-M-FU-BLR-03A-2007,Belarus F3,Clay,32,S,20070611,28,103641,7,,Cesar Ferrer Victoria,L,,ESP,26.6,105103,,,Pavel Katliarov,R,,BLR,19.2,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,556,41,816,15
-2007-M-FU-BLR-03A-2007,Belarus F3,Clay,32,S,20070611,29,103799,6,,Eric Prodon,R,178,FRA,25.9,103863,5,,Mikhail Elgin,R,183,RUS,25.6,6-3 7-5,3,SF,,,,,,,,,,,,,,,,,,,,466,59,,
+2007-M-FU-BLR-03A-2007,Belarus F3,Clay,32,S,20070611,29,103799,6,,Eric Prodon,R,178,FRA,25.9,103863,5,,Mikhail Elgin,R,183,RUS,25.6,6-3 7-5,3,SF,,,,,,,,,,,,,,,,,,,,466,59,457,61
 2007-M-FU-BLR-03A-2007,Belarus F3,Clay,32,S,20070611,30,103641,7,,Cesar Ferrer Victoria,L,,ESP,26.6,103166,,WC,Vladimir Voltchkov,R,180,BLR,29.1,6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,556,41,1284,3
 2007-M-FU-BLR-03A-2007,Belarus F3,Clay,32,S,20070611,31,103799,6,,Eric Prodon,R,178,FRA,25.9,103641,7,,Cesar Ferrer Victoria,L,,ESP,26.6,6-4 6-2,3,F,,,,,,,,,,,,,,,,,,,,466,59,556,41
 2007-M-FU-GER-05A-2007,Germany F5,Clay,32,S,20070611,1,104079,,Q,Marius Zay,U,,GER,24.6,103916,1,,Cristian Villagran,R,180,ARG,25.3,7-5 RET,3,R32,,,,,,,,,,,,,,,,,,,,1031,7,314,110
@@ -6509,7 +6509,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-ARG-09A-2007,Argentina F9,Clay,32,S,20070618,29,104253,3,,Juan Martin Aranguren,R,,ARG,23.6,105064,6,,Thomaz Bellucci,L,188,BRA,19.4,6-3 0-6 6-2,3,SF,,,,,,,,,,,,,,,,,,,,398,77,444,65
 2007-M-FU-ARG-09A-2007,Argentina F9,Clay,32,S,20070618,30,104221,,,Jonathan Gonzalia,R,,ARG,23.8,104208,8,,Damian Patriarca,R,,ARG,23.9,3-6 6-4 RET,3,SF,,,,,,,,,,,,,,,,,,,,625,31,466,60
 2007-M-FU-ARG-09A-2007,Argentina F9,Clay,32,S,20070618,31,104253,3,,Juan Martin Aranguren,R,,ARG,23.6,104221,,,Jonathan Gonzalia,R,,ARG,23.8,6-4 6-3,3,F,,,,,,,,,,,,,,,,,,,,398,77,625,31
-2007-M-FU-BLR-04A-2007,Belarus F4,Clay,32,S,20070618,1,103863,1,,Mikhail Elgin,R,183,RUS,25.6,105029,,Q,Sergey Betov,R,185,BLR,19.6,7-5 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,,,1286,3
+2007-M-FU-BLR-04A-2007,Belarus F4,Clay,32,S,20070618,1,103863,1,,Mikhail Elgin,R,183,RUS,25.6,105029,,Q,Sergey Betov,R,185,BLR,19.6,7-5 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,469,59,1286,3
 2007-M-FU-BLR-04A-2007,Belarus F4,Clay,32,S,20070618,2,104873,,,Aleksandr Nedovyesov,R,193,KAZ,20.3,111489,,,Alexander Krasnorutskiy,R,,RUS,20.0,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,748,19,,
 2007-M-FU-BLR-04A-2007,Belarus F4,Clay,32,S,20070618,3,105259,,WC,Andrei Karatchenia,R,,BLR,18.4,119073,,Q,Alexei Miller,U,,RUS,24.7,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1232,3,,
 2007-M-FU-BLR-04A-2007,Belarus F4,Clay,32,S,20070618,4,103719,7,,Ruben Torres,R,,COL,26.3,105016,,,Serguei Tarasevitch,R,,BLR,19.7,5-7 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,652,28,925,10
@@ -6525,7 +6525,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-BLR-04A-2007,Belarus F4,Clay,32,S,20070618,14,104311,,,Leonardo Tavares,R,185,POR,23.3,190033,,Q,Alexandre Lichtchenko,U,,RUS,23.9,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,934,10,,
 2007-M-FU-BLR-04A-2007,Belarus F4,Clay,32,S,20070618,15,104920,,,Denys Molchanov,R,190,UKR,20.0,104880,,,Egor Puntus,R,,BLR,20.2,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,788,17,849,14
 2007-M-FU-BLR-04A-2007,Belarus F4,Clay,32,S,20070618,16,103799,2,,Eric Prodon,R,178,FRA,25.9,111404,,Q,Alexander Smolyakov,U,,RUS,18.1,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,467,59,,
-2007-M-FU-BLR-04A-2007,Belarus F4,Clay,32,S,20070618,17,104873,,,Aleksandr Nedovyesov,R,193,KAZ,20.3,103863,1,,Mikhail Elgin,R,183,RUS,25.6,7-6(1) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,748,19,,
+2007-M-FU-BLR-04A-2007,Belarus F4,Clay,32,S,20070618,17,104873,,,Aleksandr Nedovyesov,R,193,KAZ,20.3,103863,1,,Mikhail Elgin,R,183,RUS,25.6,7-6(1) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,748,19,469,59
 2007-M-FU-BLR-04A-2007,Belarus F4,Clay,32,S,20070618,18,105259,,WC,Andrei Karatchenia,R,,BLR,18.4,103719,7,,Ruben Torres,R,,COL,26.3,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1232,3,652,28
 2007-M-FU-BLR-04A-2007,Belarus F4,Clay,32,S,20070618,19,104901,,Q,Vladimir Ivanov,R,,EST,20.1,104185,3,,Dusan Karol,R,,CZE,24.0,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1245,3,519,49
 2007-M-FU-BLR-04A-2007,Belarus F4,Clay,32,S,20070618,20,104162,8,,Deniss Pavlovs,R,,LAT,24.1,105121,,,Ivan Anikanov,R,,UKR,19.2,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,685,25,959,9
@@ -7733,7 +7733,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-GBR-11A-2007,Great Britain F11,Grass,32,S,20070709,13,105554,,Q,Daniel Evans,R,175,GBR,17.1,104690,6,,Divij Sharan,L,183,IND,21.3,6-3 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,1511,1,457,63
 2007-M-FU-GBR-11A-2007,Great Britain F11,Grass,32,S,20070709,14,105422,,Q,Joshua Milton,R,,GBR,17.7,104130,,Q,Ross Connolly,R,,GBR,24.3,3-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1034,7
 2007-M-FU-GBR-11A-2007,Great Britain F11,Grass,32,S,20070709,15,103929,,,Philipp Marx,R,188,GER,25.4,104692,,Q,Alexander Slabinsky,R,185,GBR,21.3,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,591,36,747,20
-2007-M-FU-GBR-11A-2007,Great Britain F11,Grass,32,S,20070709,16,104623,2,,Josh Goodall,R,188,GBR,21.7,103153,,,Gilles Elseneer,R,188,BEL,29.3,7-5 3-6 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,,,658,28
+2007-M-FU-GBR-11A-2007,Great Britain F11,Grass,32,S,20070709,16,104623,2,,Josh Goodall,R,188,GBR,21.7,103153,,,Gilles Elseneer,R,188,BEL,29.3,7-5 3-6 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,248,155,658,28
 2007-M-FU-GBR-11A-2007,Great Britain F11,Grass,32,S,20070709,17,103553,1,,Alun Jones,R,180,AUS,27.2,104671,,,Miles Kasiri,R,,GBR,21.4,7-6(2) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,193,214,663,27
 2007-M-FU-GBR-11A-2007,Great Britain F11,Grass,32,S,20070709,18,104661,,,Pierre Ludovic Duclos,R,188,CAN,21.4,102945,,,Luke Bourgeois,R,188,AUS,30.3,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,509,52,567,39
 2007-M-FU-GBR-11A-2007,Great Britain F11,Grass,32,S,20070709,19,104644,,,Riccardo Ghedin,R,188,ITA,21.5,104517,4,,Adam Feeney,R,178,AUS,22.3,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,549,42,338,106
@@ -7741,13 +7741,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-GBR-11A-2007,Great Britain F11,Grass,32,S,20070709,21,105032,8,,Sam Groth,R,193,AUS,19.7,109463,,WC,Graeme Dyce,R,,GBR,17.9,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,497,55,1511,1
 2007-M-FU-GBR-11A-2007,Great Britain F11,Grass,32,S,20070709,22,103425,3,,Nicolas Tourte,L,,FRA,27.8,104747,,,Tom Rushby,R,,GBR,21.0,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,250,155,580,37
 2007-M-FU-GBR-11A-2007,Great Britain F11,Grass,32,S,20070709,23,105554,,Q,Daniel Evans,R,175,GBR,17.1,105422,,Q,Joshua Milton,R,,GBR,17.7,4-6 7-6(7) 6-0,3,R16,,,,,,,,,,,,,,,,,,,,1511,1,,
-2007-M-FU-GBR-11A-2007,Great Britain F11,Grass,32,S,20070709,24,104623,2,,Josh Goodall,R,188,GBR,21.7,103929,,,Philipp Marx,R,188,GER,25.4,7-6(3) 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,,,591,36
+2007-M-FU-GBR-11A-2007,Great Britain F11,Grass,32,S,20070709,24,104623,2,,Josh Goodall,R,188,GBR,21.7,103929,,,Philipp Marx,R,188,GER,25.4,7-6(3) 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,248,155,591,36
 2007-M-FU-GBR-11A-2007,Great Britain F11,Grass,32,S,20070709,25,103553,1,,Alun Jones,R,180,AUS,27.2,104661,,,Pierre Ludovic Duclos,R,188,CAN,21.4,6-3 7-5,3,QF,,,,,,,,,,,,,,,,,,,,193,214,509,52
 2007-M-FU-GBR-11A-2007,Great Britain F11,Grass,32,S,20070709,26,105021,5,,Andrew Coelho,L,180,AUS,19.7,104644,,,Riccardo Ghedin,R,188,ITA,21.5,4-6 7-6(8) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,403,80,549,42
 2007-M-FU-GBR-11A-2007,Great Britain F11,Grass,32,S,20070709,27,103425,3,,Nicolas Tourte,L,,FRA,27.8,105032,8,,Sam Groth,R,193,AUS,19.7,6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,250,155,497,55
-2007-M-FU-GBR-11A-2007,Great Britain F11,Grass,32,S,20070709,28,104623,2,,Josh Goodall,R,188,GBR,21.7,105554,,Q,Daniel Evans,R,175,GBR,17.1,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,1511,1
+2007-M-FU-GBR-11A-2007,Great Britain F11,Grass,32,S,20070709,28,104623,2,,Josh Goodall,R,188,GBR,21.7,105554,,Q,Daniel Evans,R,175,GBR,17.1,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,248,155,1511,1
 2007-M-FU-GBR-11A-2007,Great Britain F11,Grass,32,S,20070709,29,103553,1,,Alun Jones,R,180,AUS,27.2,105021,5,,Andrew Coelho,L,180,AUS,19.7,7-6(6) 6-3,3,SF,,,,,,,,,,,,,,,,,,,,193,214,403,80
-2007-M-FU-GBR-11A-2007,Great Britain F11,Grass,32,S,20070709,30,103425,3,,Nicolas Tourte,L,,FRA,27.8,104623,2,,Josh Goodall,R,188,GBR,21.7,6-1 6-7(3) 6-3,3,SF,,,,,,,,,,,,,,,,,,,,250,155,,
+2007-M-FU-GBR-11A-2007,Great Britain F11,Grass,32,S,20070709,30,103425,3,,Nicolas Tourte,L,,FRA,27.8,104623,2,,Josh Goodall,R,188,GBR,21.7,6-1 6-7(3) 6-3,3,SF,,,,,,,,,,,,,,,,,,,,250,155,248,155
 2007-M-FU-GBR-11A-2007,Great Britain F11,Grass,32,S,20070709,31,103553,1,,Alun Jones,R,180,AUS,27.2,103425,3,,Nicolas Tourte,L,,FRA,27.8,6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,193,214,250,155
 2007-M-FU-IRI-01A-2007,Iran F1,Clay,32,S,20070709,1,104605,1,,Adam Vejmelka,R,,CZE,21.8,104773,,Q,Omid Souri,R,,IRI,20.9,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,294,123,1383,2
 2007-M-FU-IRI-01A-2007,Iran F1,Clay,32,S,20070709,2,105029,,,Sergey Betov,R,185,BLR,19.7,119943,,Q,Reza Kohastani,U,,IRI,19.1,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1286,3,,
@@ -7935,7 +7935,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-USA-17A-2007,USA F17,Clay,32,S,20070709,29,105194,1,,Nick Lindahl,R,183,AUS,18.9,104493,,,Adam Fass,R,,USA,22.4,6-3 3-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,289,127,776,18
 2007-M-FU-USA-17A-2007,USA F17,Clay,32,S,20070709,30,103676,3,,Michael Yani,R,185,USA,26.5,104281,2,,Ryler Deheart,L,183,USA,23.5,7-6(4) 6-4,3,SF,,,,,,,,,,,,,,,,,,,,699,24,422,74
 2007-M-FU-USA-17A-2007,USA F17,Clay,32,S,20070709,31,103676,3,,Michael Yani,R,185,USA,26.5,105194,1,,Nick Lindahl,R,183,AUS,18.9,6-7(5) 6-3 6-2,3,F,,,,,,,,,,,,,,,,,,,,699,24,289,127
-2007-M-FU-ARM-01A-2007,Armenia F1,Hard,32,S,20070716,1,103863,1,,Mikhail Elgin,R,183,RUS,25.7,120385,,Q,Maxim Geraskin,U,,RUS,21.6,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1507,1
+2007-M-FU-ARM-01A-2007,Armenia F1,Hard,32,S,20070716,1,103863,1,,Mikhail Elgin,R,183,RUS,25.7,120385,,Q,Maxim Geraskin,U,,RUS,21.6,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,493,54,1507,1
 2007-M-FU-ARM-01A-2007,Armenia F1,Hard,32,S,20070716,2,105430,,LL,Radu Albot,R,175,MDA,17.6,120023,,,Franck Dalla Santa,U,,FRA,25.5,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,1070,6
 2007-M-FU-ARM-01A-2007,Armenia F1,Hard,32,S,20070716,3,104603,,,Andrei Ciumac,L,,MDA,21.8,120469,,,Aleksey Bessonov,U,,BLR,19.1,3-6 7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1167,4,1507,1
 2007-M-FU-ARM-01A-2007,Armenia F1,Hard,32,S,20070716,4,105121,6,,Ivan Anikanov,R,,UKR,19.3,120473,,LL,Stanislav Zhuravski,U,,RUS,19.1,6-1 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,919,11,1507,1
@@ -7951,7 +7951,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-ARM-01A-2007,Armenia F1,Hard,32,S,20070716,14,104784,,Q,James Cluskey,R,,IRL,20.9,108977,,Q,George Khrikadze,U,,GEO,18.6,3-6 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1232,3,,
 2007-M-FU-ARM-01A-2007,Armenia F1,Hard,32,S,20070716,15,108666,,WC,Harutyun Sofyan,R,180,ARM,24.5,120613,,WC,Ashot Gevorgyan,U,,ARM,17.6,6-4 6-7(2) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2007-M-FU-ARM-01A-2007,Armenia F1,Hard,32,S,20070716,16,104569,2,,Lado Chikhladze,R,,GEO,22.0,120614,,WC,Gevork Kirakosyan,U,,ARM,22.7,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,543,42,,
-2007-M-FU-ARM-01A-2007,Armenia F1,Hard,32,S,20070716,17,103863,1,,Mikhail Elgin,R,183,RUS,25.7,105430,,LL,Radu Albot,R,175,MDA,17.6,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+2007-M-FU-ARM-01A-2007,Armenia F1,Hard,32,S,20070716,17,103863,1,,Mikhail Elgin,R,183,RUS,25.7,105430,,LL,Radu Albot,R,175,MDA,17.6,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,493,54,,
 2007-M-FU-ARM-01A-2007,Armenia F1,Hard,32,S,20070716,18,104603,,,Andrei Ciumac,L,,MDA,21.8,105121,6,,Ivan Anikanov,R,,UKR,19.3,6-7(3) 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1167,4,919,11
 2007-M-FU-ARM-01A-2007,Armenia F1,Hard,32,S,20070716,19,102969,,Q,Sergei Yaroshenko,R,,UKR,30.2,104884,3,,Vladislav Bondarenko,R,,UKR,20.3,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,590,36
 2007-M-FU-ARM-01A-2007,Armenia F1,Hard,32,S,20070716,20,104716,7,,Edward Seator,R,,GBR,21.2,104945,,Q,James Mcgee,R,183,IRL,20.0,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,948,10,1507,1
@@ -7959,13 +7959,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-ARM-01A-2007,Armenia F1,Hard,32,S,20070716,22,104950,4,,Ervand Gasparyan,U,,RUS,20.0,104412,,,Matt Simpson,U,,NZL,22.9,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,866,13,1244,3
 2007-M-FU-ARM-01A-2007,Armenia F1,Hard,32,S,20070716,23,104784,,Q,James Cluskey,R,,IRL,20.9,120265,,,Jacek Szygowski,U,,GER,25.3,6-4 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1232,3,1244,3
 2007-M-FU-ARM-01A-2007,Armenia F1,Hard,32,S,20070716,24,104569,2,,Lado Chikhladze,R,,GEO,22.0,108666,,WC,Harutyun Sofyan,R,180,ARM,24.5,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,543,42,,
-2007-M-FU-ARM-01A-2007,Armenia F1,Hard,32,S,20070716,25,103863,1,,Mikhail Elgin,R,183,RUS,25.7,104603,,,Andrei Ciumac,L,,MDA,21.8,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,1167,4
+2007-M-FU-ARM-01A-2007,Armenia F1,Hard,32,S,20070716,25,103863,1,,Mikhail Elgin,R,183,RUS,25.7,104603,,,Andrei Ciumac,L,,MDA,21.8,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,493,54,1167,4
 2007-M-FU-ARM-01A-2007,Armenia F1,Hard,32,S,20070716,26,104716,7,,Edward Seator,R,,GBR,21.2,102969,,Q,Sergei Yaroshenko,R,,UKR,30.2,6-2 6-7(3) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,948,10,,
 2007-M-FU-ARM-01A-2007,Armenia F1,Hard,32,S,20070716,27,103402,,Q,Peter Clarke,R,188,IRL,28.0,104950,4,,Ervand Gasparyan,U,,RUS,20.0,7-6(4) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,960,9,866,13
 2007-M-FU-ARM-01A-2007,Armenia F1,Hard,32,S,20070716,28,104784,,Q,James Cluskey,R,,IRL,20.9,104569,2,,Lado Chikhladze,R,,GEO,22.0,7-5 7-5,3,QF,,,,,,,,,,,,,,,,,,,,1232,3,543,42
-2007-M-FU-ARM-01A-2007,Armenia F1,Hard,32,S,20070716,29,103863,1,,Mikhail Elgin,R,183,RUS,25.7,104716,7,,Edward Seator,R,,GBR,21.2,3-0 RET,3,SF,,,,,,,,,,,,,,,,,,,,,,948,10
+2007-M-FU-ARM-01A-2007,Armenia F1,Hard,32,S,20070716,29,103863,1,,Mikhail Elgin,R,183,RUS,25.7,104716,7,,Edward Seator,R,,GBR,21.2,3-0 RET,3,SF,,,,,,,,,,,,,,,,,,,,493,54,948,10
 2007-M-FU-ARM-01A-2007,Armenia F1,Hard,32,S,20070716,30,103402,,Q,Peter Clarke,R,188,IRL,28.0,104784,,Q,James Cluskey,R,,IRL,20.9,6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,960,9,1232,3
-2007-M-FU-ARM-01A-2007,Armenia F1,Hard,32,S,20070716,31,103402,,Q,Peter Clarke,R,188,IRL,28.0,103863,1,,Mikhail Elgin,R,183,RUS,25.7,5-7 6-2 6-3,3,F,,,,,,,,,,,,,,,,,,,,960,9,,
+2007-M-FU-ARM-01A-2007,Armenia F1,Hard,32,S,20070716,31,103402,,Q,Peter Clarke,R,188,IRL,28.0,103863,1,,Mikhail Elgin,R,183,RUS,25.7,5-7 6-2 6-3,3,F,,,,,,,,,,,,,,,,,,,,960,9,493,54
 2007-M-FU-AUT-06A-2007,Austria F6,Clay,32,S,20070716,1,105109,,,Marc Sieber,L,178,GER,19.3,104088,1,,Michal Navratil,L,,CZE,24.6,6-1 2-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,778,17,467,60
 2007-M-FU-AUT-06A-2007,Austria F6,Clay,32,S,20070716,2,104846,,Q,Marek Michalicka,R,,CZE,20.5,104106,,,Ludovic Walter,U,,FRA,24.5,6-3 1-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1507,1,672,26
 2007-M-FU-AUT-06A-2007,Austria F6,Clay,32,S,20070716,3,105421,,Q,Michal Konecny,L,,CZE,17.7,119820,,Q,Edualdo Bonet De Gispert,U,,ESP,19.5,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1286,3,,
@@ -8245,7 +8245,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-USA-18A-2007,USA F18,Hard,32,S,20070716,29,104292,1,,Izak Van Der Merwe,R,196,RSA,23.4,103676,4,,Michael Yani,R,185,USA,26.5,6-3 1-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,412,75,696,24
 2007-M-FU-USA-18A-2007,USA F18,Hard,32,S,20070716,30,104778,,Q,Andrey Kumantsov,R,,RUS,20.9,104968,,,Matt Bruch,R,,USA,20.0,4-6 6-2 7-6(2),3,SF,,,,,,,,,,,,,,,,,,,,1332,2,966,9
 2007-M-FU-USA-18A-2007,USA F18,Hard,32,S,20070716,31,104292,1,,Izak Van Der Merwe,R,196,RSA,23.4,104778,,Q,Andrey Kumantsov,R,,RUS,20.9,6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,412,75,1332,2
-2007-M-FU-GEO-01A-2007,Georgia F1,Hard,32,S,20070723,1,103863,1,,Mikhail Elgin,R,183,RUS,25.7,105122,,,Karlis Lejnieks,R,,LAT,19.3,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,1035,7
+2007-M-FU-GEO-01A-2007,Georgia F1,Hard,32,S,20070723,1,103863,1,,Mikhail Elgin,R,183,RUS,25.7,105122,,,Karlis Lejnieks,R,,LAT,19.3,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,488,54,1035,7
 2007-M-FU-GEO-01A-2007,Georgia F1,Hard,32,S,20070723,2,104130,,,Ross Connolly,R,,GBR,24.4,108977,,WC,George Khrikadze,U,,GEO,18.6,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1035,7,,
 2007-M-FU-GEO-01A-2007,Georgia F1,Hard,32,S,20070723,3,104787,,,Mikhail Lifshits,R,,RUS,20.9,108700,,Q,Revaz Osadze,R,,GEO,16.8,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,937,10,,
 2007-M-FU-GEO-01A-2007,Georgia F1,Hard,32,S,20070723,4,104455,6,,Daniel Lustig,R,190,CZE,22.6,108976,,WC,George Chantouria,L,,GEO,18.4,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,724,21,,
@@ -8261,7 +8261,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-GEO-01A-2007,Georgia F1,Hard,32,S,20070723,14,104784,,,James Cluskey,R,,IRL,20.9,120217,,Q,Guy Kubi,U,,ISR,19.2,3-6 7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1235,3,1382,2
 2007-M-FU-GEO-01A-2007,Georgia F1,Hard,32,S,20070723,15,120473,,Q,Stanislav Zhuravski,U,,RUS,19.1,103620,,,Tomas Janci,R,,SVK,26.9,4-6 7-6(8) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1512,1,1057,6
 2007-M-FU-GEO-01A-2007,Georgia F1,Hard,32,S,20070723,16,104402,2,,Clement Morel,R,,MON,23.0,120618,,WC,Nikoloz Kurdadze,U,,GEO,16.9,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,513,48,,
-2007-M-FU-GEO-01A-2007,Georgia F1,Hard,32,S,20070723,17,103863,1,,Mikhail Elgin,R,183,RUS,25.7,104130,,,Ross Connolly,R,,GBR,24.4,6-2 6-7(6) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,1035,7
+2007-M-FU-GEO-01A-2007,Georgia F1,Hard,32,S,20070723,17,103863,1,,Mikhail Elgin,R,183,RUS,25.7,104130,,,Ross Connolly,R,,GBR,24.4,6-2 6-7(6) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,488,54,1035,7
 2007-M-FU-GEO-01A-2007,Georgia F1,Hard,32,S,20070723,18,104455,6,,Daniel Lustig,R,190,CZE,22.6,104787,,,Mikhail Lifshits,R,,RUS,20.9,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,724,21,937,10
 2007-M-FU-GEO-01A-2007,Georgia F1,Hard,32,S,20070723,19,104569,3,,Lado Chikhladze,R,,GEO,22.1,103402,,,Peter Clarke,R,188,IRL,28.0,6-7(4) 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,554,40,953,9
 2007-M-FU-GEO-01A-2007,Georgia F1,Hard,32,S,20070723,20,104992,5,,Syrym Abdukhalikov,R,,KAZ,19.9,104603,,,Andrei Ciumac,L,,MDA,21.8,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,645,28,1170,4
@@ -8269,7 +8269,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-GEO-01A-2007,Georgia F1,Hard,32,S,20070723,22,105029,,,Sergey Betov,R,185,BLR,19.7,104318,,,Jiri Krkoska,R,,CZE,23.3,7-6(4) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1215,4,1072,6
 2007-M-FU-GEO-01A-2007,Georgia F1,Hard,32,S,20070723,23,104784,,,James Cluskey,R,,IRL,20.9,104412,,,Matt Simpson,U,,NZL,22.9,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1235,3,1246,3
 2007-M-FU-GEO-01A-2007,Georgia F1,Hard,32,S,20070723,24,104402,2,,Clement Morel,R,,MON,23.0,120473,,Q,Stanislav Zhuravski,U,,RUS,19.1,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,513,48,1512,1
-2007-M-FU-GEO-01A-2007,Georgia F1,Hard,32,S,20070723,25,104455,6,,Daniel Lustig,R,190,CZE,22.6,103863,1,,Mikhail Elgin,R,183,RUS,25.7,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,724,21,,
+2007-M-FU-GEO-01A-2007,Georgia F1,Hard,32,S,20070723,25,104455,6,,Daniel Lustig,R,190,CZE,22.6,103863,1,,Mikhail Elgin,R,183,RUS,25.7,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,724,21,488,54
 2007-M-FU-GEO-01A-2007,Georgia F1,Hard,32,S,20070723,26,104569,3,,Lado Chikhladze,R,,GEO,22.1,104992,5,,Syrym Abdukhalikov,R,,KAZ,19.9,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,554,40,645,28
 2007-M-FU-GEO-01A-2007,Georgia F1,Hard,32,S,20070723,27,105054,,Q,Michal Pazicky,R,,SVK,19.6,105029,,,Sergey Betov,R,185,BLR,19.7,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,1512,1,1215,4
 2007-M-FU-GEO-01A-2007,Georgia F1,Hard,32,S,20070723,28,104402,2,,Clement Morel,R,,MON,23.0,104784,,,James Cluskey,R,,IRL,20.9,6-3 4-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,513,48,1235,3
@@ -8539,7 +8539,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-GEO-02A-2007,Georgia F2,Hard,32,S,20070730,13,104884,5,,Vladislav Bondarenko,R,,UKR,20.3,108700,,WC,Revaz Osadze,R,,GEO,16.8,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,578,37,,
 2007-M-FU-GEO-02A-2007,Georgia F2,Hard,32,S,20070730,14,105121,,,Ivan Anikanov,R,,UKR,19.3,104482,,,Matias Niemiz,R,,ARG,22.5,6-2 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,899,12,948,9
 2007-M-FU-GEO-02A-2007,Georgia F2,Hard,32,S,20070730,15,103402,,,Peter Clarke,R,188,IRL,28.0,105029,,,Sergey Betov,R,185,BLR,19.7,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,646,27,1154,5
-2007-M-FU-GEO-02A-2007,Georgia F2,Hard,32,S,20070730,16,103863,2,,Mikhail Elgin,R,183,RUS,25.7,120375,,Q,Noam Yitzhaki,R,,ISR,18.9,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2007-M-FU-GEO-02A-2007,Georgia F2,Hard,32,S,20070730,16,103863,2,,Mikhail Elgin,R,183,RUS,25.7,120375,,Q,Noam Yitzhaki,R,,ISR,18.9,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,448,63,,
 2007-M-FU-GEO-02A-2007,Georgia F2,Hard,32,S,20070730,17,103949,1,,Ivan Cerovic,L,190,CRO,25.4,108977,,WC,George Khrikadze,U,,GEO,18.6,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,462,60,,
 2007-M-FU-GEO-02A-2007,Georgia F2,Hard,32,S,20070730,18,104784,,,James Cluskey,R,,IRL,20.9,104992,6,,Syrym Abdukhalikov,R,,KAZ,19.9,6-2 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,942,9,615,31
 2007-M-FU-GEO-02A-2007,Georgia F2,Hard,32,S,20070730,19,104402,3,,Clement Morel,R,,MON,23.0,108976,,WC,George Chantouria,L,,GEO,18.5,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,488,54,,
@@ -8547,7 +8547,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-GEO-02A-2007,Georgia F2,Hard,32,S,20070730,21,104254,7,,Charles Roche,R,,FRA,23.8,120469,,Q,Aleksey Bessonov,U,,BLR,19.1,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,617,31,1512,1
 2007-M-FU-GEO-02A-2007,Georgia F2,Hard,32,S,20070730,22,104569,4,,Lado Chikhladze,R,,GEO,22.1,105430,,Q,Radu Albot,R,175,MDA,17.7,7-6(3) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,537,43,1512,1
 2007-M-FU-GEO-02A-2007,Georgia F2,Hard,32,S,20070730,23,104884,5,,Vladislav Bondarenko,R,,UKR,20.3,105121,,,Ivan Anikanov,R,,UKR,19.3,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,578,37,899,12
-2007-M-FU-GEO-02A-2007,Georgia F2,Hard,32,S,20070730,24,103402,,,Peter Clarke,R,188,IRL,28.0,103863,2,,Mikhail Elgin,R,183,RUS,25.7,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,646,27,,
+2007-M-FU-GEO-02A-2007,Georgia F2,Hard,32,S,20070730,24,103402,,,Peter Clarke,R,188,IRL,28.0,103863,2,,Mikhail Elgin,R,183,RUS,25.7,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,646,27,448,63
 2007-M-FU-GEO-02A-2007,Georgia F2,Hard,32,S,20070730,25,103949,1,,Ivan Cerovic,L,190,CRO,25.4,104784,,,James Cluskey,R,,IRL,20.9,W/O,3,QF,,,,,,,,,,,,,,,,,,,,462,60,942,9
 2007-M-FU-GEO-02A-2007,Georgia F2,Hard,32,S,20070730,26,104455,8,,Daniel Lustig,R,190,CZE,22.6,104402,3,,Clement Morel,R,,MON,23.0,4-6 6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,713,21,488,54
 2007-M-FU-GEO-02A-2007,Georgia F2,Hard,32,S,20070730,27,104569,4,,Lado Chikhladze,R,,GEO,22.1,104254,7,,Charles Roche,R,,FRA,23.8,6-1 2-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,537,43,617,31
@@ -9710,7 +9710,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-RUS-03A-2007,Russia F3,Clay,32,S,20070813,9,103088,7,,Xavier Pujo,R,180,FRA,29.6,120531,,Q,Maxim Kanakov,U,,RUS,18.3,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,502,49,,
 2007-M-FU-RUS-03A-2007,Russia F3,Clay,32,S,20070813,10,104778,,Q,Andrey Kumantsov,R,,RUS,21.0,103166,,,Vladimir Voltchkov,R,180,BLR,29.3,6-2 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,917,10,775,17
 2007-M-FU-RUS-03A-2007,Russia F3,Clay,32,S,20070813,11,105121,,Q,Ivan Anikanov,R,,UKR,19.4,104950,,,Ervand Gasparyan,U,,RUS,20.1,6-4 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,878,13,795,16
-2007-M-FU-RUS-03A-2007,Russia F3,Clay,32,S,20070813,12,103863,4,,Mikhail Elgin,R,183,RUS,25.8,104728,,,Andemir Karanashev,R,,RUS,21.2,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,822,15
+2007-M-FU-RUS-03A-2007,Russia F3,Clay,32,S,20070813,12,103863,4,,Mikhail Elgin,R,183,RUS,25.8,104728,,,Andemir Karanashev,R,,RUS,21.2,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,435,67,822,15
 2007-M-FU-RUS-03A-2007,Russia F3,Clay,32,S,20070813,13,103612,6,,Alexey Kedryuk,R,193,KAZ,27.0,105609,,Q,Ilya Belyaev,R,180,RUS,17.0,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,487,52,,
 2007-M-FU-RUS-03A-2007,Russia F3,Clay,32,S,20070813,14,104677,,,Artem Sitak,R,185,NZL,21.5,104884,,,Vladislav Bondarenko,R,,UKR,20.4,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,928,10,576,37
 2007-M-FU-RUS-03A-2007,Russia F3,Clay,32,S,20070813,15,104215,,,Andrei Gorban,U,,MDA,24.0,120639,,WC,Georgi Dzhalovyan,U,,RUS,16.2,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,633,30,,
@@ -9720,16 +9720,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-RUS-03A-2007,Russia F3,Clay,32,S,20070813,19,105011,3,,Illya Marchenko,R,185,UKR,19.9,105455,,WC,Vladimir Karusevich,R,180,RUS,17.6,1-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,404,78,,
 2007-M-FU-RUS-03A-2007,Russia F3,Clay,32,S,20070813,20,103272,,,Alexander Yarmola,R,,UKR,28.8,105539,,Q,Evgeny Donskoy,R,185,RUS,17.2,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,842,14,,
 2007-M-FU-RUS-03A-2007,Russia F3,Clay,32,S,20070813,21,103088,7,,Xavier Pujo,R,180,FRA,29.6,104778,,Q,Andrey Kumantsov,R,,RUS,21.0,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,502,49,917,10
-2007-M-FU-RUS-03A-2007,Russia F3,Clay,32,S,20070813,22,103863,4,,Mikhail Elgin,R,183,RUS,25.8,105121,,Q,Ivan Anikanov,R,,UKR,19.4,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,878,13
+2007-M-FU-RUS-03A-2007,Russia F3,Clay,32,S,20070813,22,103863,4,,Mikhail Elgin,R,183,RUS,25.8,105121,,Q,Ivan Anikanov,R,,UKR,19.4,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,435,67,878,13
 2007-M-FU-RUS-03A-2007,Russia F3,Clay,32,S,20070813,23,104677,,,Artem Sitak,R,185,NZL,21.5,103612,6,,Alexey Kedryuk,R,193,KAZ,27.0,4-6 6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,928,10,487,52
 2007-M-FU-RUS-03A-2007,Russia F3,Clay,32,S,20070813,24,104215,,,Andrei Gorban,U,,MDA,24.0,105079,2,,Ivan Sergeyev,R,175,UKR,19.5,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,633,30,338,104
 2007-M-FU-RUS-03A-2007,Russia F3,Clay,32,S,20070813,25,105062,1,,Mikhail Kukushkin,R,183,KAZ,19.6,104034,8,,Dmitry Vlasov,R,188,RUS,25.0,6-4 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,249,160,522,45
 2007-M-FU-RUS-03A-2007,Russia F3,Clay,32,S,20070813,26,105011,3,,Illya Marchenko,R,185,UKR,19.9,103272,,,Alexander Yarmola,R,,UKR,28.8,6-4 6-0,3,QF,,,,,,,,,,,,,,,,,,,,404,78,842,14
-2007-M-FU-RUS-03A-2007,Russia F3,Clay,32,S,20070813,27,103863,4,,Mikhail Elgin,R,183,RUS,25.8,103088,7,,Xavier Pujo,R,180,FRA,29.6,6-7(6) 6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,,,502,49
+2007-M-FU-RUS-03A-2007,Russia F3,Clay,32,S,20070813,27,103863,4,,Mikhail Elgin,R,183,RUS,25.8,103088,7,,Xavier Pujo,R,180,FRA,29.6,6-7(6) 6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,435,67,502,49
 2007-M-FU-RUS-03A-2007,Russia F3,Clay,32,S,20070813,28,104215,,,Andrei Gorban,U,,MDA,24.0,104677,,,Artem Sitak,R,185,NZL,21.5,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,633,30,928,10
 2007-M-FU-RUS-03A-2007,Russia F3,Clay,32,S,20070813,29,105062,1,,Mikhail Kukushkin,R,183,KAZ,19.6,105011,3,,Illya Marchenko,R,185,UKR,19.9,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,249,160,404,78
-2007-M-FU-RUS-03A-2007,Russia F3,Clay,32,S,20070813,30,103863,4,,Mikhail Elgin,R,183,RUS,25.8,104215,,,Andrei Gorban,U,,MDA,24.0,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,,,633,30
-2007-M-FU-RUS-03A-2007,Russia F3,Clay,32,S,20070813,31,103863,4,,Mikhail Elgin,R,183,RUS,25.8,105062,1,,Mikhail Kukushkin,R,183,KAZ,19.6,7-6(5) 7-6(5),3,F,,,,,,,,,,,,,,,,,,,,,,249,160
+2007-M-FU-RUS-03A-2007,Russia F3,Clay,32,S,20070813,30,103863,4,,Mikhail Elgin,R,183,RUS,25.8,104215,,,Andrei Gorban,U,,MDA,24.0,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,435,67,633,30
+2007-M-FU-RUS-03A-2007,Russia F3,Clay,32,S,20070813,31,103863,4,,Mikhail Elgin,R,183,RUS,25.8,105062,1,,Mikhail Kukushkin,R,183,KAZ,19.6,7-6(5) 7-6(5),3,F,,,,,,,,,,,,,,,,,,,,435,67,249,160
 2007-M-FU-SRB-04A-2007,Serbia F4,Clay,32,S,20070813,1,104203,1,,Darko Madjarovski,R,,SRB,24.1,102942,,Q,Vladimir Pavicevic,R,,SRB,30.4,4-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,602,33,,
 2007-M-FU-SRB-04A-2007,Serbia F4,Clay,32,S,20070813,2,104584,,,Simeon Ivanov,R,,BUL,22.0,120101,,Q,Ivan Galic,L,,AUT,19.9,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,845,14,,
 2007-M-FU-SRB-04A-2007,Serbia F4,Clay,32,S,20070813,3,105583,,WC,Dusan Lajovic,R,180,SRB,17.1,120100,,,Josip Juric,R,,CRO,20.4,2-6 6-2 6-5 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,1213,4
@@ -10241,7 +10241,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-RUS-04A-2007,Russia F4,Clay,32,S,20070820,13,105545,,Q,Mikhail Fufygin,U,,RUS,17.2,104884,7,,Vladislav Bondarenko,R,,UKR,20.4,2-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,576,37
 2007-M-FU-RUS-04A-2007,Russia F4,Clay,32,S,20070820,14,105237,,Q,Vitali Reshetnikov,R,,RUS,18.7,120639,,WC,Georgi Dzhalovyan,U,,RUS,16.2,4-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1504,1,,
 2007-M-FU-RUS-04A-2007,Russia F4,Clay,32,S,20070820,15,104677,,,Artem Sitak,R,185,NZL,21.5,109164,,WC,Nikolai Parkhomenko,U,,RUS,18.2,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,927,10,,
-2007-M-FU-RUS-04A-2007,Russia F4,Clay,32,S,20070820,16,103863,2,,Mikhail Elgin,R,183,RUS,25.8,103776,,LL,Alexei Filenkov,R,,RUS,26.2,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1283,3
+2007-M-FU-RUS-04A-2007,Russia F4,Clay,32,S,20070820,16,103863,2,,Mikhail Elgin,R,183,RUS,25.8,103776,,LL,Alexei Filenkov,R,,RUS,26.2,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,446,64,1283,3
 2007-M-FU-RUS-04A-2007,Russia F4,Clay,32,S,20070820,17,103272,,,Alexander Yarmola,R,,UKR,28.8,104920,,,Denys Molchanov,R,190,UKR,20.2,6-4 1-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,840,14,752,19
 2007-M-FU-RUS-04A-2007,Russia F4,Clay,32,S,20070820,18,103166,,,Vladimir Voltchkov,R,180,BLR,29.3,105609,,WC,Ilya Belyaev,R,180,RUS,17.0,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,770,17,,
 2007-M-FU-RUS-04A-2007,Russia F4,Clay,32,S,20070820,19,104141,,,Dmitri Sitak,R,183,RUS,24.4,105189,3,,Pavel Chekhov,R,,RUS,19.0,5-7 7-5 3-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,889,12,437,66
@@ -10249,7 +10249,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-RUS-04A-2007,Russia F4,Clay,32,S,20070820,21,105455,,Q,Vladimir Karusevich,R,180,RUS,17.6,105097,,,Valery Rudnev,R,,RUS,19.5,7-6(4) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,721,21
 2007-M-FU-RUS-04A-2007,Russia F4,Clay,32,S,20070820,22,111489,,,Alexander Krasnorutskiy,R,,RUS,20.1,104707,4,,Denis Matsukevitch,R,190,RUS,21.3,7-5 3-6 6-0,3,R16,,,,,,,,,,,,,,,,,,,,,,453,61
 2007-M-FU-RUS-04A-2007,Russia F4,Clay,32,S,20070820,23,105545,,Q,Mikhail Fufygin,U,,RUS,17.2,105237,,Q,Vitali Reshetnikov,R,,RUS,18.7,6-3 3-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,1504,1
-2007-M-FU-RUS-04A-2007,Russia F4,Clay,32,S,20070820,24,104677,,,Artem Sitak,R,185,NZL,21.5,103863,2,,Mikhail Elgin,R,183,RUS,25.8,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,927,10,,
+2007-M-FU-RUS-04A-2007,Russia F4,Clay,32,S,20070820,24,104677,,,Artem Sitak,R,185,NZL,21.5,103863,2,,Mikhail Elgin,R,183,RUS,25.8,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,927,10,446,64
 2007-M-FU-RUS-04A-2007,Russia F4,Clay,32,S,20070820,25,103166,,,Vladimir Voltchkov,R,180,BLR,29.3,103272,,,Alexander Yarmola,R,,UKR,28.8,7-6(3) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,770,17,840,14
 2007-M-FU-RUS-04A-2007,Russia F4,Clay,32,S,20070820,26,105076,,Q,Victor Kozin,R,,RUS,19.5,104141,,,Dmitri Sitak,R,183,RUS,24.4,6-3 7-6(0),3,QF,,,,,,,,,,,,,,,,,,,,1049,7,889,12
 2007-M-FU-RUS-04A-2007,Russia F4,Clay,32,S,20070820,27,105455,,Q,Vladimir Karusevich,R,180,RUS,17.6,111489,,,Alexander Krasnorutskiy,R,,RUS,20.1,4-6 6-4 1-0 RET,3,QF,,,,,,,,,,,,,,,,,,,,,,,
@@ -10613,7 +10613,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-GBR-16A-2007,Great Britain F16,Hard,32,S,20070827,13,104447,7,,Pierrick Ysern,U,,FRA,22.8,105345,,WC,Sean Thornley,R,,GBR,18.2,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,412,76,1331,2
 2007-M-FU-GBR-16A-2007,Great Britain F16,Hard,32,S,20070827,14,104059,,,Rasmus Norby,R,183,DEN,24.9,120634,,Q,Chris Priddle,U,,GBR,19.2,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,623,30,,
 2007-M-FU-GBR-16A-2007,Great Britain F16,Hard,32,S,20070827,15,103723,,,Julien Maes,R,,FRA,26.4,120452,,Q,Jagdev Sagoo,U,,GBR,19.8,6-4 0-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,501,49,1506,1
-2007-M-FU-GBR-16A-2007,Great Britain F16,Hard,32,S,20070827,16,105032,,,Sam Groth,R,193,AUS,19.8,104623,2,,Josh Goodall,R,188,GBR,21.8,7-6(6) 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,440,68,,
+2007-M-FU-GBR-16A-2007,Great Britain F16,Hard,32,S,20070827,16,105032,,,Sam Groth,R,193,AUS,19.8,104623,2,,Josh Goodall,R,188,GBR,21.8,7-6(6) 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,440,68,333,106
 2007-M-FU-GBR-16A-2007,Great Britain F16,Hard,32,S,20070827,17,103531,1,,Thomas Oger,U,,MON,27.4,104962,,Q,Matthew Illingworth,R,,GBR,20.1,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,311,113,1284,3
 2007-M-FU-GBR-16A-2007,Great Britain F16,Hard,32,S,20070827,18,103402,,,Peter Clarke,R,188,IRL,28.1,105397,,WC,Tim Hewitt,R,,GBR,18.0,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,594,34,1506,1
 2007-M-FU-GBR-16A-2007,Great Britain F16,Hard,32,S,20070827,19,102667,3,,Satoshi Iwabuchi,L,175,JPN,31.8,105052,,WC,Chris Eaton,R,188,GBR,19.7,6-4 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,353,96,782,17
@@ -10768,7 +10768,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-RUS-05A-2007,Russia F5,Clay,32,S,20070827,13,105097,5,,Valery Rudnev,R,,RUS,19.5,105213,,,Andrei Levine,R,,RUS,18.9,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,758,18,1506,1
 2007-M-FU-RUS-05A-2007,Russia F5,Clay,32,S,20070827,14,104186,,,Gleb Alekseenko,R,,UKR,24.2,120688,,WC,Araik Arutunyan,U,,RUS,15.2,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1384,2,,
 2007-M-FU-RUS-05A-2007,Russia F5,Clay,32,S,20070827,15,104787,,,Mikhail Lifshits,R,,RUS,21.0,105237,,,Vitali Reshetnikov,R,,RUS,18.8,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1001,8,1506,1
-2007-M-FU-RUS-05A-2007,Russia F5,Clay,32,S,20070827,16,103863,2,,Mikhail Elgin,R,183,RUS,25.8,120385,,,Maxim Geraskin,U,,RUS,21.7,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1506,1
+2007-M-FU-RUS-05A-2007,Russia F5,Clay,32,S,20070827,16,103863,2,,Mikhail Elgin,R,183,RUS,25.8,120385,,,Maxim Geraskin,U,,RUS,21.7,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,378,88,1506,1
 2007-M-FU-RUS-05A-2007,Russia F5,Clay,32,S,20070827,17,105189,1,,Pavel Chekhov,R,,RUS,19.0,104685,,Q,Aleksandr Agafonov,U,,UKR,21.5,7-6(3) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,443,66,1506,1
 2007-M-FU-RUS-05A-2007,Russia F5,Clay,32,S,20070827,18,104728,7,,Andemir Karanashev,R,,RUS,21.3,120687,,Q,Andrei Papazian,U,,RUS,19.6,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,885,12,,
 2007-M-FU-RUS-05A-2007,Russia F5,Clay,32,S,20070827,19,104034,3,,Dmitry Vlasov,R,188,RUS,25.1,109285,,Q,Armen Gomktsian,U,,RUS,25.2,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,503,49,,
@@ -10776,11 +10776,11 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-RUS-05A-2007,Russia F5,Clay,32,S,20070827,21,105545,,Q,Mikhail Fufygin,U,,RUS,17.2,120613,,WC,Ashot Gevorgyan,U,,ARM,17.7,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2007-M-FU-RUS-05A-2007,Russia F5,Clay,32,S,20070827,22,105076,,,Victor Kozin,R,,RUS,19.6,105352,,LL,Danila Arsenov,R,183,RUS,18.2,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1010,8,1506,1
 2007-M-FU-RUS-05A-2007,Russia F5,Clay,32,S,20070827,23,105097,5,,Valery Rudnev,R,,RUS,19.5,104186,,,Gleb Alekseenko,R,,UKR,24.2,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,758,18,1384,2
-2007-M-FU-RUS-05A-2007,Russia F5,Clay,32,S,20070827,24,103863,2,,Mikhail Elgin,R,183,RUS,25.8,104787,,,Mikhail Lifshits,R,,RUS,21.0,6-4 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,,,1001,8
+2007-M-FU-RUS-05A-2007,Russia F5,Clay,32,S,20070827,24,103863,2,,Mikhail Elgin,R,183,RUS,25.8,104787,,,Mikhail Lifshits,R,,RUS,21.0,6-4 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,378,88,1001,8
 2007-M-FU-RUS-05A-2007,Russia F5,Clay,32,S,20070827,25,105189,1,,Pavel Chekhov,R,,RUS,19.0,104728,7,,Andemir Karanashev,R,,RUS,21.3,4-6 6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,443,66,885,12
 2007-M-FU-RUS-05A-2007,Russia F5,Clay,32,S,20070827,26,104034,3,,Dmitry Vlasov,R,188,RUS,25.1,104950,6,,Ervand Gasparyan,U,,RUS,20.2,6-0 6-4,3,QF,,,,,,,,,,,,,,,,,,,,503,49,826,15
 2007-M-FU-RUS-05A-2007,Russia F5,Clay,32,S,20070827,27,105545,,Q,Mikhail Fufygin,U,,RUS,17.2,105076,,,Victor Kozin,R,,RUS,19.6,2-6 7-6(5) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,,,1010,8
-2007-M-FU-RUS-05A-2007,Russia F5,Clay,32,S,20070827,28,105097,5,,Valery Rudnev,R,,RUS,19.5,103863,2,,Mikhail Elgin,R,183,RUS,25.8,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,758,18,,
+2007-M-FU-RUS-05A-2007,Russia F5,Clay,32,S,20070827,28,105097,5,,Valery Rudnev,R,,RUS,19.5,103863,2,,Mikhail Elgin,R,183,RUS,25.8,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,758,18,378,88
 2007-M-FU-RUS-05A-2007,Russia F5,Clay,32,S,20070827,29,104034,3,,Dmitry Vlasov,R,188,RUS,25.1,105189,1,,Pavel Chekhov,R,,RUS,19.0,6-4 3-6 6-2,3,SF,,,,,,,,,,,,,,,,,,,,503,49,443,66
 2007-M-FU-RUS-05A-2007,Russia F5,Clay,32,S,20070827,30,105545,,Q,Mikhail Fufygin,U,,RUS,17.2,105097,5,,Valery Rudnev,R,,RUS,19.5,4-6 6-3 6-1,3,SF,,,,,,,,,,,,,,,,,,,,,,758,18
 2007-M-FU-RUS-05A-2007,Russia F5,Clay,32,S,20070827,31,104034,3,,Dmitry Vlasov,R,188,RUS,25.1,105545,,Q,Mikhail Fufygin,U,,RUS,17.2,4-6 6-3 6-1,3,F,,,,,,,,,,,,,,,,,,,,503,49,,
@@ -11543,7 +11543,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-RUS-07A-2007,Russia F7,Clay,32,S,20070910,13,104707,5,,Denis Matsukevitch,R,190,RUS,21.4,104603,,,Andrei Ciumac,L,,MDA,21.9,6-1 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,404,80,905,11
 2007-M-FU-RUS-07A-2007,Russia F7,Clay,32,S,20070910,14,105121,,,Ivan Anikanov,R,,UKR,19.4,120695,,Q,Alan Muzati,U,,RUS,18.2,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,844,14,,
 2007-M-FU-RUS-07A-2007,Russia F7,Clay,32,S,20070910,15,104920,,,Denys Molchanov,R,190,UKR,20.3,103272,,,Alexander Yarmola,R,,UKR,28.9,6-1 2-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,763,18,636,29
-2007-M-FU-RUS-07A-2007,Russia F7,Clay,32,S,20070910,16,103863,2,,Mikhail Elgin,R,183,RUS,25.9,105171,,Q,Vladyslav Klymenko,R,,UKR,19.2,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1282,3
+2007-M-FU-RUS-07A-2007,Russia F7,Clay,32,S,20070910,16,103863,2,,Mikhail Elgin,R,183,RUS,25.9,105171,,Q,Vladyslav Klymenko,R,,UKR,19.2,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,368,91,1282,3
 2007-M-FU-RUS-07A-2007,Russia F7,Clay,32,S,20070910,17,105062,1,,Mikhail Kukushkin,R,183,KAZ,19.7,104585,,,Gyorgy Balazs,R,,HUN,22.1,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,213,191,754,18
 2007-M-FU-RUS-07A-2007,Russia F7,Clay,32,S,20070910,18,104697,8,,Mikhail Vasiliev,R,,RUS,21.5,120694,,Q,Nikita Matsulenko,R,,RUS,20.8,2-6 7-5 6-0,3,R16,,,,,,,,,,,,,,,,,,,,700,23,,
 2007-M-FU-RUS-07A-2007,Russia F7,Clay,32,S,20070910,19,105189,4,,Pavel Chekhov,R,,RUS,19.1,104685,,Q,Aleksandr Agafonov,U,,UKR,21.5,4-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,430,71,1381,2
@@ -11551,14 +11551,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-RUS-07A-2007,Russia F7,Clay,32,S,20070910,21,105609,,Q,Ilya Belyaev,R,180,RUS,17.0,103222,,,Sergei Krotiouk,R,,RUS,29.2,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1497,1,893,11
 2007-M-FU-RUS-07A-2007,Russia F7,Clay,32,S,20070910,22,105076,,WC,Victor Kozin,R,,RUS,19.6,104162,3,,Deniss Pavlovs,R,,LAT,24.4,0-6 7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,761,18,442,66
 2007-M-FU-RUS-07A-2007,Russia F7,Clay,32,S,20070910,23,104707,5,,Denis Matsukevitch,R,190,RUS,21.4,105121,,,Ivan Anikanov,R,,UKR,19.4,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,404,80,844,14
-2007-M-FU-RUS-07A-2007,Russia F7,Clay,32,S,20070910,24,103863,2,,Mikhail Elgin,R,183,RUS,25.9,104920,,,Denys Molchanov,R,190,UKR,20.3,3-6 6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,763,18
+2007-M-FU-RUS-07A-2007,Russia F7,Clay,32,S,20070910,24,103863,2,,Mikhail Elgin,R,183,RUS,25.9,104920,,,Denys Molchanov,R,190,UKR,20.3,3-6 6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,368,91,763,18
 2007-M-FU-RUS-07A-2007,Russia F7,Clay,32,S,20070910,25,105062,1,,Mikhail Kukushkin,R,183,KAZ,19.7,104697,8,,Mikhail Vasiliev,R,,RUS,21.5,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,213,191,700,23
 2007-M-FU-RUS-07A-2007,Russia F7,Clay,32,S,20070910,26,105189,4,,Pavel Chekhov,R,,RUS,19.1,104884,7,,Vladislav Bondarenko,R,,UKR,20.5,7-6(1) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,430,71,596,34
 2007-M-FU-RUS-07A-2007,Russia F7,Clay,32,S,20070910,27,105076,,WC,Victor Kozin,R,,RUS,19.6,105609,,Q,Ilya Belyaev,R,180,RUS,17.0,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,761,18,1497,1
-2007-M-FU-RUS-07A-2007,Russia F7,Clay,32,S,20070910,28,103863,2,,Mikhail Elgin,R,183,RUS,25.9,104707,5,,Denis Matsukevitch,R,190,RUS,21.4,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,,,404,80
+2007-M-FU-RUS-07A-2007,Russia F7,Clay,32,S,20070910,28,103863,2,,Mikhail Elgin,R,183,RUS,25.9,104707,5,,Denis Matsukevitch,R,190,RUS,21.4,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,368,91,404,80
 2007-M-FU-RUS-07A-2007,Russia F7,Clay,32,S,20070910,29,105189,4,,Pavel Chekhov,R,,RUS,19.1,105062,1,,Mikhail Kukushkin,R,183,KAZ,19.7,6-7(3) 6-2 5-0 RET,3,SF,,,,,,,,,,,,,,,,,,,,430,71,213,191
-2007-M-FU-RUS-07A-2007,Russia F7,Clay,32,S,20070910,30,103863,2,,Mikhail Elgin,R,183,RUS,25.9,105076,,WC,Victor Kozin,R,,RUS,19.6,6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,,,761,18
-2007-M-FU-RUS-07A-2007,Russia F7,Clay,32,S,20070910,31,103863,2,,Mikhail Elgin,R,183,RUS,25.9,105189,4,,Pavel Chekhov,R,,RUS,19.1,6-2 4-6 6-4,3,F,,,,,,,,,,,,,,,,,,,,,,430,71
+2007-M-FU-RUS-07A-2007,Russia F7,Clay,32,S,20070910,30,103863,2,,Mikhail Elgin,R,183,RUS,25.9,105076,,WC,Victor Kozin,R,,RUS,19.6,6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,368,91,761,18
+2007-M-FU-RUS-07A-2007,Russia F7,Clay,32,S,20070910,31,103863,2,,Mikhail Elgin,R,183,RUS,25.9,105189,4,,Pavel Chekhov,R,,RUS,19.1,6-2 4-6 6-4,3,F,,,,,,,,,,,,,,,,,,,,368,91,430,71
 2007-M-FU-ESP-34A-2007,Spain F34,Hard,32,S,20070910,1,104816,1,,Karan Rastogi,R,178,IND,20.9,102579,,,Xavier Audouy,U,,FRA,32.3,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,347,101,611,32
 2007-M-FU-ESP-34A-2007,Spain F34,Hard,32,S,20070910,2,101869,,Q,Juan Luis Tati Rascon,R,,ESP,36.5,109037,,LL,Javier Padilla,R,,ESP,16.6,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,986,8,1497,1
 2007-M-FU-ESP-34A-2007,Spain F34,Hard,32,S,20070910,3,104677,,,Artem Sitak,R,185,NZL,21.5,105409,,WC,Abraham Gonzalez Jimenez,R,,ESP,17.9,7-5 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,600,33,1381,2
@@ -11605,7 +11605,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-SWE-05A-2007,Sweden F5,Hard,32,S,20070910,13,105376,8,,Peter Gojowczyk,R,185,GER,18.1,108685,,Q,Frederick Sletting Johnsen,R,,NOR,20.9,6-3 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,563,38,1282,3
 2007-M-FU-SWE-05A-2007,Sweden F5,Hard,32,S,20070910,14,104147,,,Robin Brage,U,,SWE,24.4,105113,,Q,Patrik Rosenholm,R,178,SWE,19.5,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,879,12,1497,1
 2007-M-FU-SWE-05A-2007,Sweden F5,Hard,32,S,20070910,15,104845,,WC,Henrik Norfeldt,R,,SWE,20.7,105157,,,Patrick Eichenberger,L,,SUI,19.2,6-1 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,1109,6,879,12
-2007-M-FU-SWE-05A-2007,Sweden F5,Hard,32,S,20070910,16,104623,2,,Josh Goodall,R,188,GBR,21.8,104954,,,Andrew Kennaugh,U,,GBR,20.2,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1123,5
+2007-M-FU-SWE-05A-2007,Sweden F5,Hard,32,S,20070910,16,104623,2,,Josh Goodall,R,188,GBR,21.8,104954,,,Andrew Kennaugh,U,,GBR,20.2,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,381,86,1123,5
 2007-M-FU-SWE-05A-2007,Sweden F5,Hard,32,S,20070910,17,104453,1,Q,Michael Ryderstedt,L,188,SWE,22.8,104671,,,Miles Kasiri,R,,GBR,21.6,6-2 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,255,147,610,32
 2007-M-FU-SWE-05A-2007,Sweden F5,Hard,32,S,20070910,18,104768,6,,Juho Paukku,L,,FIN,21.1,104747,,,Tom Rushby,R,,GBR,21.2,7-6(3) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,471,56,642,29
 2007-M-FU-SWE-05A-2007,Sweden F5,Hard,32,S,20070910,19,104311,,,Leonardo Tavares,R,185,POR,23.5,105131,,,Tim Goransson,U,,SWE,19.4,7-6(6) 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,739,20,779,17
@@ -11613,13 +11613,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-SWE-05A-2007,Sweden F5,Hard,32,S,20070910,21,104295,7,,Raphael Durek,R,188,AUS,23.6,110578,,Q,David Nylen,R,,SWE,24.6,4-6 7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,528,44,1248,3
 2007-M-FU-SWE-05A-2007,Sweden F5,Hard,32,S,20070910,22,105671,,,Gastao Elias,R,178,POR,16.7,103939,,Q,Neil Bamford,U,,GBR,25.5,6-2 6-7(4) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,791,16,876,12
 2007-M-FU-SWE-05A-2007,Sweden F5,Hard,32,S,20070910,23,104147,,,Robin Brage,U,,SWE,24.4,105376,8,,Peter Gojowczyk,R,185,GER,18.1,6-2 2-6 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,879,12,563,38
-2007-M-FU-SWE-05A-2007,Sweden F5,Hard,32,S,20070910,24,104623,2,,Josh Goodall,R,188,GBR,21.8,104845,,WC,Henrik Norfeldt,R,,SWE,20.7,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,1109,6
+2007-M-FU-SWE-05A-2007,Sweden F5,Hard,32,S,20070910,24,104623,2,,Josh Goodall,R,188,GBR,21.8,104845,,WC,Henrik Norfeldt,R,,SWE,20.7,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,381,86,1109,6
 2007-M-FU-SWE-05A-2007,Sweden F5,Hard,32,S,20070910,25,104453,1,Q,Michael Ryderstedt,L,188,SWE,22.8,104768,6,,Juho Paukku,L,,FIN,21.1,5-7 6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,255,147,471,56
 2007-M-FU-SWE-05A-2007,Sweden F5,Hard,32,S,20070910,26,104311,,,Leonardo Tavares,R,185,POR,23.5,103540,5,,Johan Brunstrom,L,193,SWE,27.4,7-6(7) 3-0 RET,3,QF,,,,,,,,,,,,,,,,,,,,739,20,391,83
 2007-M-FU-SWE-05A-2007,Sweden F5,Hard,32,S,20070910,27,104295,7,,Raphael Durek,R,188,AUS,23.6,105671,,,Gastao Elias,R,178,POR,16.7,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,528,44,791,16
-2007-M-FU-SWE-05A-2007,Sweden F5,Hard,32,S,20070910,28,104623,2,,Josh Goodall,R,188,GBR,21.8,104147,,,Robin Brage,U,,SWE,24.4,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,,,879,12
+2007-M-FU-SWE-05A-2007,Sweden F5,Hard,32,S,20070910,28,104623,2,,Josh Goodall,R,188,GBR,21.8,104147,,,Robin Brage,U,,SWE,24.4,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,381,86,879,12
 2007-M-FU-SWE-05A-2007,Sweden F5,Hard,32,S,20070910,29,104453,1,Q,Michael Ryderstedt,L,188,SWE,22.8,104311,,,Leonardo Tavares,R,185,POR,23.5,6-0 7-5,3,SF,,,,,,,,,,,,,,,,,,,,255,147,739,20
-2007-M-FU-SWE-05A-2007,Sweden F5,Hard,32,S,20070910,30,104295,7,,Raphael Durek,R,188,AUS,23.6,104623,2,,Josh Goodall,R,188,GBR,21.8,7-6(8) 6-3,3,SF,,,,,,,,,,,,,,,,,,,,528,44,,
+2007-M-FU-SWE-05A-2007,Sweden F5,Hard,32,S,20070910,30,104295,7,,Raphael Durek,R,188,AUS,23.6,104623,2,,Josh Goodall,R,188,GBR,21.8,7-6(8) 6-3,3,SF,,,,,,,,,,,,,,,,,,,,528,44,381,86
 2007-M-FU-SWE-05A-2007,Sweden F5,Hard,32,S,20070910,31,104453,1,Q,Michael Ryderstedt,L,188,SWE,22.8,104295,7,,Raphael Durek,R,188,AUS,23.6,3-6 7-6(5) 7-6(6),3,F,,,,,,,,,,,,,,,,,,,,255,147,528,44
 2007-M-FU-SUI-06A-2007,Switzerland F6,Clay,32,S,20070910,1,104006,1,,Alexandre Renard,R,,FRA,25.2,105387,,,Dylan Sessagesimi,R,,SUI,18.1,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,550,40,1068,6
 2007-M-FU-SUI-06A-2007,Switzerland F6,Clay,32,S,20070910,2,103961,,Q,Bertrand Contzler,U,,FRA,25.4,104987,,,Patrick Taubert,R,,GER,20.1,6-1 3-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,792,16
@@ -11815,7 +11815,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-GBR-17A-2007,Great Britain F17,Hard,32,S,20070917,6,104962,,Q,Matthew Illingworth,R,,GBR,20.2,120517,,Q,Ben Pritchard,R,,GBR,19.6,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1209,4,,
 2007-M-FU-GBR-17A-2007,Great Britain F17,Hard,32,S,20070917,7,103855,,,Jeremy Blandin,U,,FRA,25.9,104577,,,Richard Irwin,R,,GBR,22.1,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,947,10,865,13
 2007-M-FU-GBR-17A-2007,Great Britain F17,Hard,32,S,20070917,8,104059,6,,Rasmus Norby,R,183,DEN,25.0,104747,,,Tom Rushby,R,,GBR,21.2,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,578,36,612,32
-2007-M-FU-GBR-17A-2007,Great Britain F17,Hard,32,S,20070917,9,104623,5,,Josh Goodall,R,188,GBR,21.9,103953,,,Olivier Charroin,L,,FRA,25.5,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,652,27
+2007-M-FU-GBR-17A-2007,Great Britain F17,Hard,32,S,20070917,9,104623,5,,Josh Goodall,R,188,GBR,21.9,103953,,,Olivier Charroin,L,,FRA,25.5,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,376,88,652,27
 2007-M-FU-GBR-17A-2007,Great Britain F17,Hard,32,S,20070917,10,103939,,Q,Neil Bamford,U,,GBR,25.5,104801,,Q,James Feaver,L,,GBR,21.0,3-6 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,880,12,,
 2007-M-FU-GBR-17A-2007,Great Britain F17,Hard,32,S,20070917,11,105638,,WC,Daniel Cox,R,170,GBR,16.9,104716,,,Edward Seator,R,,GBR,21.4,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1283,3,696,24
 2007-M-FU-GBR-17A-2007,Great Britain F17,Hard,32,S,20070917,12,103782,4,,Rameez Junaid,R,,AUS,26.3,105554,,WC,Daniel Evans,R,175,GBR,17.3,7-5 4-6 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,381,86,1178,4
@@ -11827,16 +11827,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-GBR-17A-2007,Great Britain F17,Hard,32,S,20070917,18,104159,,WC,Ken Skupski,L,185,GBR,24.4,104554,,,Shane La Porte,R,,USA,22.3,6-3 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,1248,3,828,15
 2007-M-FU-GBR-17A-2007,Great Britain F17,Hard,32,S,20070917,19,104368,3,,Daniel King Turner,R,190,NZL,23.3,104962,,Q,Matthew Illingworth,R,,GBR,20.2,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,379,87,1209,4
 2007-M-FU-GBR-17A-2007,Great Britain F17,Hard,32,S,20070917,20,104059,6,,Rasmus Norby,R,183,DEN,25.0,103855,,,Jeremy Blandin,U,,FRA,25.9,7-6(4) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,578,36,947,10
-2007-M-FU-GBR-17A-2007,Great Britain F17,Hard,32,S,20070917,21,104623,5,,Josh Goodall,R,188,GBR,21.9,103939,,Q,Neil Bamford,U,,GBR,25.5,6-7(5) 6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,,,880,12
+2007-M-FU-GBR-17A-2007,Great Britain F17,Hard,32,S,20070917,21,104623,5,,Josh Goodall,R,188,GBR,21.9,103939,,Q,Neil Bamford,U,,GBR,25.5,6-7(5) 6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,376,88,880,12
 2007-M-FU-GBR-17A-2007,Great Britain F17,Hard,32,S,20070917,22,105638,,WC,Daniel Cox,R,170,GBR,16.9,103782,4,,Rameez Junaid,R,,AUS,26.3,3-6 6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,1283,3,381,86
 2007-M-FU-GBR-17A-2007,Great Britain F17,Hard,32,S,20070917,23,104039,,,Petar Popovic,U,,SRB,25.1,104692,8,,Alexander Slabinsky,R,185,GBR,21.5,7-6(6) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,709,23,616,31
 2007-M-FU-GBR-17A-2007,Great Britain F17,Hard,32,S,20070917,24,103851,2,,Conor Niland,R,185,IRL,25.9,104814,,Q,Luca Rovetta,R,,ITA,20.9,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,354,98,1116,6
 2007-M-FU-GBR-17A-2007,Great Britain F17,Hard,32,S,20070917,25,104770,1,,Martin Fischer,R,180,AUT,21.1,104159,,WC,Ken Skupski,L,185,GBR,24.4,6-3 7-5,3,QF,,,,,,,,,,,,,,,,,,,,312,116,1248,3
 2007-M-FU-GBR-17A-2007,Great Britain F17,Hard,32,S,20070917,26,104059,6,,Rasmus Norby,R,183,DEN,25.0,104368,3,,Daniel King Turner,R,190,NZL,23.3,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,578,36,379,87
-2007-M-FU-GBR-17A-2007,Great Britain F17,Hard,32,S,20070917,27,104623,5,,Josh Goodall,R,188,GBR,21.9,105638,,WC,Daniel Cox,R,170,GBR,16.9,3-6 6-2 6-0,3,QF,,,,,,,,,,,,,,,,,,,,,,1283,3
+2007-M-FU-GBR-17A-2007,Great Britain F17,Hard,32,S,20070917,27,104623,5,,Josh Goodall,R,188,GBR,21.9,105638,,WC,Daniel Cox,R,170,GBR,16.9,3-6 6-2 6-0,3,QF,,,,,,,,,,,,,,,,,,,,376,88,1283,3
 2007-M-FU-GBR-17A-2007,Great Britain F17,Hard,32,S,20070917,28,103851,2,,Conor Niland,R,185,IRL,25.9,104039,,,Petar Popovic,U,,SRB,25.1,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,354,98,709,23
 2007-M-FU-GBR-17A-2007,Great Britain F17,Hard,32,S,20070917,29,104770,1,,Martin Fischer,R,180,AUT,21.1,104059,6,,Rasmus Norby,R,183,DEN,25.0,6-2 6-7(4) 7-5,3,SF,,,,,,,,,,,,,,,,,,,,312,116,578,36
-2007-M-FU-GBR-17A-2007,Great Britain F17,Hard,32,S,20070917,30,103851,2,,Conor Niland,R,185,IRL,25.9,104623,5,,Josh Goodall,R,188,GBR,21.9,5-7 6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,354,98,,
+2007-M-FU-GBR-17A-2007,Great Britain F17,Hard,32,S,20070917,30,103851,2,,Conor Niland,R,185,IRL,25.9,104623,5,,Josh Goodall,R,188,GBR,21.9,5-7 6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,354,98,376,88
 2007-M-FU-GBR-17A-2007,Great Britain F17,Hard,32,S,20070917,31,104770,1,,Martin Fischer,R,180,AUT,21.1,103851,2,,Conor Niland,R,185,IRL,25.9,6-4 6-3,3,F,,,,,,,,,,,,,,,,,,,,312,116,354,98
 2007-M-FU-INA-05A-2007,Indonesia F5,Hard,32,S,20070917,1,105194,1,,Nick Lindahl,R,183,AUS,19.1,105052,,,Chris Eaton,R,188,GBR,19.8,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,333,107,804,16
 2007-M-FU-INA-05A-2007,Indonesia F5,Hard,32,S,20070917,2,104071,,,Raven Klaasen,R,180,RSA,24.9,104988,,,Vivek Shokeen,R,,IND,20.1,4-6 6-2 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,746,19,770,18
@@ -12187,7 +12187,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-GBR-18A-2007,Great Britain F18,Hard,32,S,20070924,6,105638,,WC,Daniel Cox,R,170,GBR,16.9,104716,,,Edward Seator,R,,GBR,21.4,7-6(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1282,3,583,35
 2007-M-FU-GBR-18A-2007,Great Britain F18,Hard,32,S,20070924,7,104671,,,Miles Kasiri,R,,GBR,21.6,104747,,,Tom Rushby,R,,GBR,21.3,6-2 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,600,33,606,33
 2007-M-FU-GBR-18A-2007,Great Britain F18,Hard,32,S,20070924,8,104368,8,Q,Daniel King Turner,R,190,NZL,23.3,104159,,Q,Ken Skupski,L,185,GBR,24.4,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,318,111,1250,3
-2007-M-FU-GBR-18A-2007,Great Britain F18,Hard,32,S,20070924,9,104623,7,,Josh Goodall,R,188,GBR,21.9,105007,,,David Klier,R,,GER,20.0,6-3 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,,,616,32
+2007-M-FU-GBR-18A-2007,Great Britain F18,Hard,32,S,20070924,9,104623,7,,Josh Goodall,R,188,GBR,21.9,105007,,,David Klier,R,,GER,20.0,6-3 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,363,93,616,32
 2007-M-FU-GBR-18A-2007,Great Britain F18,Hard,32,S,20070924,10,104768,,,Juho Paukku,L,,FIN,21.1,104801,,WC,James Feaver,L,,GBR,21.0,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,417,75,,
 2007-M-FU-GBR-18A-2007,Great Britain F18,Hard,32,S,20070924,11,120658,,Q,Harry Skinner,R,,GBR,18.8,103782,,,Rameez Junaid,R,,AUS,26.3,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,386,84
 2007-M-FU-GBR-18A-2007,Great Britain F18,Hard,32,S,20070924,12,104292,4,,Izak Van Der Merwe,R,196,RSA,23.6,109221,,Q,Edward Allinson,U,,GBR,20.5,5-7 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,301,122,1155,5
@@ -12199,17 +12199,17 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-GBR-18A-2007,Great Britain F18,Hard,32,S,20070924,18,103851,5,Q,Conor Niland,R,185,IRL,26.0,103750,,,Ladislav Chramosta,R,,CZE,26.4,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,353,98,575,36
 2007-M-FU-GBR-18A-2007,Great Britain F18,Hard,32,S,20070924,19,104770,3,,Martin Fischer,R,180,AUT,21.1,105638,,WC,Daniel Cox,R,170,GBR,16.9,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,309,116,1282,3
 2007-M-FU-GBR-18A-2007,Great Britain F18,Hard,32,S,20070924,20,104368,8,Q,Daniel King Turner,R,190,NZL,23.3,104671,,,Miles Kasiri,R,,GBR,21.6,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,318,111,600,33
-2007-M-FU-GBR-18A-2007,Great Britain F18,Hard,32,S,20070924,21,104623,7,,Josh Goodall,R,188,GBR,21.9,104768,,,Juho Paukku,L,,FIN,21.1,7-6(4) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,417,75
+2007-M-FU-GBR-18A-2007,Great Britain F18,Hard,32,S,20070924,21,104623,7,,Josh Goodall,R,188,GBR,21.9,104768,,,Juho Paukku,L,,FIN,21.1,7-6(4) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,363,93,417,75
 2007-M-FU-GBR-18A-2007,Great Britain F18,Hard,32,S,20070924,22,104292,4,,Izak Van Der Merwe,R,196,RSA,23.6,120658,,Q,Harry Skinner,R,,GBR,18.8,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,301,122,,
 2007-M-FU-GBR-18A-2007,Great Britain F18,Hard,32,S,20070924,23,105397,,LL,Tim Hewitt,R,,GBR,18.1,103646,6,,Lars Uebel,R,180,GER,26.9,6-4 4-3 RET,3,R16,,,,,,,,,,,,,,,,,,,,1282,3,355,97
 2007-M-FU-GBR-18A-2007,Great Britain F18,Hard,32,S,20070924,24,104171,2,,Richard Bloomfield,R,185,GBR,24.4,104667,,,Philipp Oswald,R,201,AUT,21.6,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,241,159,705,23
 2007-M-FU-GBR-18A-2007,Great Britain F18,Hard,32,S,20070924,25,104779,1,,Jamie Baker,R,183,GBR,21.1,103851,5,Q,Conor Niland,R,185,IRL,26.0,6-3 3-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,224,179,353,98
 2007-M-FU-GBR-18A-2007,Great Britain F18,Hard,32,S,20070924,26,104770,3,,Martin Fischer,R,180,AUT,21.1,104368,8,Q,Daniel King Turner,R,190,NZL,23.3,6-3 7-6(7),3,QF,,,,,,,,,,,,,,,,,,,,309,116,318,111
-2007-M-FU-GBR-18A-2007,Great Britain F18,Hard,32,S,20070924,27,104623,7,,Josh Goodall,R,188,GBR,21.9,104292,4,,Izak Van Der Merwe,R,196,RSA,23.6,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,301,122
+2007-M-FU-GBR-18A-2007,Great Britain F18,Hard,32,S,20070924,27,104623,7,,Josh Goodall,R,188,GBR,21.9,104292,4,,Izak Van Der Merwe,R,196,RSA,23.6,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,363,93,301,122
 2007-M-FU-GBR-18A-2007,Great Britain F18,Hard,32,S,20070924,28,105397,,LL,Tim Hewitt,R,,GBR,18.1,104171,2,,Richard Bloomfield,R,185,GBR,24.4,1-6 6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,1282,3,241,159
 2007-M-FU-GBR-18A-2007,Great Britain F18,Hard,32,S,20070924,29,104779,1,,Jamie Baker,R,183,GBR,21.1,104770,3,,Martin Fischer,R,180,AUT,21.1,6-4 7-5,3,SF,,,,,,,,,,,,,,,,,,,,224,179,309,116
-2007-M-FU-GBR-18A-2007,Great Britain F18,Hard,32,S,20070924,30,104623,7,,Josh Goodall,R,188,GBR,21.9,105397,,LL,Tim Hewitt,R,,GBR,18.1,6-1 6-2,3,SF,,,,,,,,,,,,,,,,,,,,,,1282,3
-2007-M-FU-GBR-18A-2007,Great Britain F18,Hard,32,S,20070924,31,104623,7,,Josh Goodall,R,188,GBR,21.9,104779,1,,Jamie Baker,R,183,GBR,21.1,6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,,,224,179
+2007-M-FU-GBR-18A-2007,Great Britain F18,Hard,32,S,20070924,30,104623,7,,Josh Goodall,R,188,GBR,21.9,105397,,LL,Tim Hewitt,R,,GBR,18.1,6-1 6-2,3,SF,,,,,,,,,,,,,,,,,,,,363,93,1282,3
+2007-M-FU-GBR-18A-2007,Great Britain F18,Hard,32,S,20070924,31,104623,7,,Josh Goodall,R,188,GBR,21.9,104779,1,,Jamie Baker,R,183,GBR,21.1,6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,363,93,224,179
 2007-M-FU-INA-06A-2007,Indonesia F6,Hard,32,S,20070924,1,103402,1,,Peter Clarke,R,188,IRL,28.2,111352,,Q,Stephen Donald,R,,AUS,18.2,6-3 1-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,531,43,1282,3
 2007-M-FU-INA-06A-2007,Indonesia F6,Hard,32,S,20070924,2,104982,,,Huai En Chang,R,,TPE,20.1,105159,,,Vaja Uzakov,R,,UZB,19.3,6-2 1-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1117,5,897,11
 2007-M-FU-INA-06A-2007,Indonesia F6,Hard,32,S,20070924,3,110507,,Q,Shuang Qiang Liang,U,,CHN,22.6,105057,,Q,Seno Hartono Suwandi,U,,INA,19.7,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -12440,7 +12440,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-AUS-06A-2007,Australia F6,Clay,32,S,20071001,11,120425,,LL,Alan Poric,U,,AUS,18.8,105264,,,Isaac Frost,R,,AUS,18.7,4-6 7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1207,4
 2007-M-FU-AUS-06A-2007,Australia F6,Clay,32,S,20071001,12,104594,3,,Marinko Matosevic,R,194,AUS,22.1,111352,,,Stephen Donald,R,,AUS,18.3,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,698,23,1272,3
 2007-M-FU-AUS-06A-2007,Australia F6,Clay,32,S,20071001,13,105454,5,WC,Brydan Klein,R,183,AUS,17.7,105253,,,Matthew Hogan,R,,AUS,18.7,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,762,18,996,8
-2007-M-FU-AUS-06A-2007,Australia F6,Clay,32,S,20071001,14,104097,,Q,Robert Phillips Pd13,U,,AUS,24.8,104794,,Q,David Jeflea,R,,AUS,21.0,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2007-M-FU-AUS-06A-2007,Australia F6,Clay,32,S,20071001,14,104097,,Q,Robert Phillips,U,,AUS,24.8,104794,,Q,David Jeflea,R,,AUS,21.0,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2007-M-FU-AUS-06A-2007,Australia F6,Clay,32,S,20071001,15,103179,,Q,Jurek Stasiak,R,,AUS,29.4,105374,,Q,Matheson Klein,U,,AUS,18.2,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2007-M-FU-AUS-06A-2007,Australia F6,Clay,32,S,20071001,16,105032,2,,Sam Groth,R,193,AUS,19.9,105164,,,Steven Goh,R,,AUS,19.2,6-3 6-7(3) 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,450,65,1004,8
 2007-M-FU-AUS-06A-2007,Australia F6,Clay,32,S,20071001,17,105194,1,,Nick Lindahl,R,183,AUS,19.1,104749,,WC,Kaden Hensel,U,,AUS,21.3,6-7(5) 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,283,133,,
@@ -12449,7 +12449,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-AUS-06A-2007,Australia F6,Clay,32,S,20071001,20,105263,,,Joel Lindner,L,,AUS,18.7,105190,,,Joshua Crowe,R,,AUS,19.1,6-2 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,1004,8,1089,6
 2007-M-FU-AUS-06A-2007,Australia F6,Clay,32,S,20071001,21,104289,,,Evan Oneil,R,,AUS,23.7,104536,8,,Andrew Roberts,R,,AUS,22.4,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1227,3,883,12
 2007-M-FU-AUS-06A-2007,Australia F6,Clay,32,S,20071001,22,104594,3,,Marinko Matosevic,R,194,AUS,22.1,120425,,LL,Alan Poric,U,,AUS,18.8,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,698,23,,
-2007-M-FU-AUS-06A-2007,Australia F6,Clay,32,S,20071001,23,105454,5,WC,Brydan Klein,R,183,AUS,17.7,104097,,Q,Robert Phillips Pd13,U,,AUS,24.8,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,762,18,,
+2007-M-FU-AUS-06A-2007,Australia F6,Clay,32,S,20071001,23,105454,5,WC,Brydan Klein,R,183,AUS,17.7,104097,,Q,Robert Phillips,U,,AUS,24.8,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,762,18,,
 2007-M-FU-AUS-06A-2007,Australia F6,Clay,32,S,20071001,24,105032,2,,Sam Groth,R,193,AUS,19.9,103179,,Q,Jurek Stasiak,R,,AUS,29.4,6-4 6-7(1) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,450,65,,
 2007-M-FU-AUS-06A-2007,Australia F6,Clay,32,S,20071001,25,104879,6,,Myles Blake,R,,GBR,20.5,105194,1,,Nick Lindahl,R,183,AUS,19.1,6-4 5-5 RET,3,QF,,,,,,,,,,,,,,,,,,,,794,16,283,133
 2007-M-FU-AUS-06A-2007,Australia F6,Clay,32,S,20071001,26,104722,4,,Miles Armstrong,U,,AUS,21.4,105263,,,Joel Lindner,L,,AUS,18.7,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,699,23,1004,8
@@ -12965,7 +12965,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-GBR-19A-2007,Great Britain F19,Hard,32,S,20071008,9,104233,6,Q,Frederik Nielsen,R,190,DEN,24.1,104954,,Q,Andrew Kennaugh,U,,GBR,20.3,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,465,60,1366,2
 2007-M-FU-GBR-19A-2007,Great Britain F19,Hard,32,S,20071008,10,105074,,,Ruben Bemelmans,L,183,BEL,19.7,104868,,,James Ward,R,190,GBR,20.6,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,499,51,562,38
 2007-M-FU-GBR-19A-2007,Great Britain F19,Hard,32,S,20071008,11,104671,,,Miles Kasiri,R,,GBR,21.6,103913,,,Ian Flanagan,U,,GBR,25.7,6-4 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,590,34,780,17
-2007-M-FU-GBR-19A-2007,Great Britain F19,Hard,32,S,20071008,12,105257,,Q,David Rice,R,,GBR,18.7,104623,3,,Josh Goodall,R,188,GBR,21.9,7-6(4) 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,1274,3,,
+2007-M-FU-GBR-19A-2007,Great Britain F19,Hard,32,S,20071008,12,105257,,Q,David Rice,R,,GBR,18.7,104623,3,,Josh Goodall,R,188,GBR,21.9,7-6(4) 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,1274,3,311,112
 2007-M-FU-GBR-19A-2007,Great Britain F19,Hard,32,S,20071008,13,104159,,Q,Ken Skupski,L,185,GBR,24.4,104295,7,,Raphael Durek,R,188,AUS,23.6,6-3 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1078,6,477,56
 2007-M-FU-GBR-19A-2007,Great Britain F19,Hard,32,S,20071008,14,105052,,,Chris Eaton,R,188,GBR,19.8,105650,,WC,Marcus Willis,L,191,GBR,16.9,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,784,17,,
 2007-M-FU-GBR-19A-2007,Great Britain F19,Hard,32,S,20071008,15,103750,,,Ladislav Chramosta,R,,CZE,26.4,105554,,WC,Daniel Evans,R,175,GBR,17.3,4-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,569,37,1171,4
@@ -13268,7 +13268,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-GBR-20A-2007,Great Britain F20,Hard,32,S,20071015,2,103939,,Q,Neil Bamford,U,,GBR,25.6,120658,,Q,Harry Skinner,R,,GBR,18.9,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,888,11,1474,1
 2007-M-FU-GBR-20A-2007,Great Britain F20,Hard,32,S,20071015,3,104962,,Q,Matthew Illingworth,R,,GBR,20.3,105257,,Q,David Rice,R,,GBR,18.7,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1212,4,1275,3
 2007-M-FU-GBR-20A-2007,Great Britain F20,Hard,32,S,20071015,4,104488,7,,Armin Sandbichler,L,180,AUT,22.7,105007,,,David Klier,R,,GER,20.1,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,431,69,612,32
-2007-M-FU-GBR-20A-2007,Great Britain F20,Hard,32,S,20071015,5,104623,4,,Josh Goodall,R,188,GBR,21.9,103913,,,Ian Flanagan,U,,GBR,25.7,7-6(6) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,774,17
+2007-M-FU-GBR-20A-2007,Great Britain F20,Hard,32,S,20071015,5,104623,4,,Josh Goodall,R,188,GBR,21.9,103913,,,Ian Flanagan,U,,GBR,25.7,7-6(6) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,310,112,774,17
 2007-M-FU-GBR-20A-2007,Great Britain F20,Hard,32,S,20071015,6,105192,,Q,Robert Varga,U,,HUN,19.2,104671,,,Miles Kasiri,R,,GBR,21.7,3-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,988,8,594,34
 2007-M-FU-GBR-20A-2007,Great Britain F20,Hard,32,S,20071015,7,105131,,,Tim Goransson,U,,SWE,19.5,104747,,,Tom Rushby,R,,GBR,21.3,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,765,18,650,27
 2007-M-FU-GBR-20A-2007,Great Britain F20,Hard,32,S,20071015,8,105638,,WC,Daniel Cox,R,170,GBR,17.0,103521,5,,Andrea Stoppini,R,190,ITA,27.6,3-6 7-6(1) 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,1036,7,316,109
@@ -13282,19 +13282,19 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-GBR-20A-2007,Great Britain F20,Hard,32,S,20071015,16,104890,2,,Andreas Haider Maurer,R,190,AUT,20.5,104506,,WC,David Brewer,R,,GBR,22.6,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,248,158,1036,7
 2007-M-FU-GBR-20A-2007,Great Britain F20,Hard,32,S,20071015,17,104171,1,,Richard Bloomfield,R,185,GBR,24.4,103939,,Q,Neil Bamford,U,,GBR,25.6,6-3 5-7 6-2,3,R16,,,,,,,,,,,,,,,,,,,,267,139,888,11
 2007-M-FU-GBR-20A-2007,Great Britain F20,Hard,32,S,20071015,18,104488,7,,Armin Sandbichler,L,180,AUT,22.7,104962,,Q,Matthew Illingworth,R,,GBR,20.3,6-7(5) 7-6(4) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,431,69,1212,4
-2007-M-FU-GBR-20A-2007,Great Britain F20,Hard,32,S,20071015,19,104623,4,,Josh Goodall,R,188,GBR,21.9,105192,,Q,Robert Varga,U,,HUN,19.2,7-6(1) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,988,8
+2007-M-FU-GBR-20A-2007,Great Britain F20,Hard,32,S,20071015,19,104623,4,,Josh Goodall,R,188,GBR,21.9,105192,,Q,Robert Varga,U,,HUN,19.2,7-6(1) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,310,112,988,8
 2007-M-FU-GBR-20A-2007,Great Britain F20,Hard,32,S,20071015,20,105638,,WC,Daniel Cox,R,170,GBR,17.0,105131,,,Tim Goransson,U,,SWE,19.5,4-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1036,7,765,18
 2007-M-FU-GBR-20A-2007,Great Britain F20,Hard,32,S,20071015,21,103702,6,,Stefano Ianni,R,,ITA,26.7,104627,,,Boy Westerhof,R,,NED,21.9,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,344,97,586,35
 2007-M-FU-GBR-20A-2007,Great Britain F20,Hard,32,S,20071015,22,104770,3,,Martin Fischer,R,180,AUT,21.2,105052,,,Chris Eaton,R,188,GBR,19.8,6-3 5-7 6-1,3,R16,,,,,,,,,,,,,,,,,,,,303,119,780,17
 2007-M-FU-GBR-20A-2007,Great Britain F20,Hard,32,S,20071015,23,105014,,,Antal Van Der Duim,R,185,NED,20.0,104159,,WC,Ken Skupski,L,185,GBR,24.5,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,502,52,1073,6
 2007-M-FU-GBR-20A-2007,Great Britain F20,Hard,32,S,20071015,24,103750,,,Ladislav Chramosta,R,,CZE,26.5,104890,2,,Andreas Haider Maurer,R,190,AUT,20.5,4-6 6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,571,37,248,158
 2007-M-FU-GBR-20A-2007,Great Britain F20,Hard,32,S,20071015,25,104171,1,,Richard Bloomfield,R,185,GBR,24.4,104488,7,,Armin Sandbichler,L,180,AUT,22.7,6-4 1-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,267,139,431,69
-2007-M-FU-GBR-20A-2007,Great Britain F20,Hard,32,S,20071015,26,104623,4,,Josh Goodall,R,188,GBR,21.9,105638,,WC,Daniel Cox,R,170,GBR,17.0,7-5 7-6(2),3,QF,,,,,,,,,,,,,,,,,,,,,,1036,7
+2007-M-FU-GBR-20A-2007,Great Britain F20,Hard,32,S,20071015,26,104623,4,,Josh Goodall,R,188,GBR,21.9,105638,,WC,Daniel Cox,R,170,GBR,17.0,7-5 7-6(2),3,QF,,,,,,,,,,,,,,,,,,,,310,112,1036,7
 2007-M-FU-GBR-20A-2007,Great Britain F20,Hard,32,S,20071015,27,104770,3,,Martin Fischer,R,180,AUT,21.2,103702,6,,Stefano Ianni,R,,ITA,26.7,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,303,119,344,97
 2007-M-FU-GBR-20A-2007,Great Britain F20,Hard,32,S,20071015,28,103750,,,Ladislav Chramosta,R,,CZE,26.5,105014,,,Antal Van Der Duim,R,185,NED,20.0,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,571,37,502,52
-2007-M-FU-GBR-20A-2007,Great Britain F20,Hard,32,S,20071015,29,104623,4,,Josh Goodall,R,188,GBR,21.9,104171,1,,Richard Bloomfield,R,185,GBR,24.4,7-5 6-3,3,SF,,,,,,,,,,,,,,,,,,,,,,267,139
+2007-M-FU-GBR-20A-2007,Great Britain F20,Hard,32,S,20071015,29,104623,4,,Josh Goodall,R,188,GBR,21.9,104171,1,,Richard Bloomfield,R,185,GBR,24.4,7-5 6-3,3,SF,,,,,,,,,,,,,,,,,,,,310,112,267,139
 2007-M-FU-GBR-20A-2007,Great Britain F20,Hard,32,S,20071015,30,103750,,,Ladislav Chramosta,R,,CZE,26.5,104770,3,,Martin Fischer,R,180,AUT,21.2,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,571,37,303,119
-2007-M-FU-GBR-20A-2007,Great Britain F20,Hard,32,S,20071015,31,103750,,,Ladislav Chramosta,R,,CZE,26.5,104623,4,,Josh Goodall,R,188,GBR,21.9,3-6 6-3 6-2,3,F,,,,,,,,,,,,,,,,,,,,571,37,,
+2007-M-FU-GBR-20A-2007,Great Britain F20,Hard,32,S,20071015,31,103750,,,Ladislav Chramosta,R,,CZE,26.5,104623,4,,Josh Goodall,R,188,GBR,21.9,3-6 6-3 6-2,3,F,,,,,,,,,,,,,,,,,,,,571,37,310,112
 2007-M-FU-IND-09A-2007,India F9,Hard,32,S,20071015,1,104065,,,Ashutosh Singh,R,,IND,25.0,104965,1,,Pavol Cervenak,R,191,SVK,20.2,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,659,26,325,104
 2007-M-FU-IND-09A-2007,India F9,Hard,32,S,20071015,2,105482,,Q,Vijayant Malik,R,,IND,17.6,105042,,Q,Vignesh Peranamallur,R,,IND,19.9,6-0 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1370,2,1370,2
 2007-M-FU-IND-09A-2007,India F9,Hard,32,S,20071015,3,105295,,WC,Rupesh Roy,R,,IND,18.6,105075,,Q,Roel Oostdam,R,,NED,19.7,7-5 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1245,3
@@ -13460,7 +13460,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-AUS-08A-2007,Australia F8,Hard,32,S,20071022,8,104656,,,Haydn Lewis,L,,BAR,21.8,104036,8,,Simon Rea,L,,NZL,25.2,4-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,836,13,515,48
 2007-M-FU-AUS-08A-2007,Australia F8,Hard,32,S,20071022,9,103782,5,,Rameez Junaid,R,,AUS,26.4,105075,,Q,Roel Oostdam,R,,NED,19.7,6-3 6-7(7) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,423,70,1240,3
 2007-M-FU-AUS-08A-2007,Australia F8,Hard,32,S,20071022,10,105454,,,Brydan Klein,R,183,AUS,17.8,105190,,Q,Joshua Crowe,R,,AUS,19.2,7-6(3) 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,596,34,1005,8
-2007-M-FU-AUS-08A-2007,Australia F8,Hard,32,S,20071022,11,104594,,,Marinko Matosevic,R,194,AUS,22.2,104097,,LL,Robert Phillips Pd13,U,,AUS,24.8,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,603,33,1465,1
+2007-M-FU-AUS-08A-2007,Australia F8,Hard,32,S,20071022,11,104594,,,Marinko Matosevic,R,194,AUS,22.2,104097,,LL,Robert Phillips,U,,AUS,24.8,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,603,33,1465,1
 2007-M-FU-AUS-08A-2007,Australia F8,Hard,32,S,20071022,12,111323,,Q,Strahinja Bobusic,R,,AUS,22.1,105021,4,,Andrew Coelho,L,180,AUS,20.0,6-4 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,,,389,83
 2007-M-FU-AUS-08A-2007,Australia F8,Hard,32,S,20071022,13,105286,7,,Greg Jones,R,190,AUS,18.7,104040,,,Adam Thompson,R,,NZL,25.2,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,468,60,800,16
 2007-M-FU-AUS-08A-2007,Australia F8,Hard,32,S,20071022,14,104907,,,Jose Rubin Statham,R,183,NZL,20.4,105468,,Q,Andrew Gregory,L,,GBR,17.7,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,579,36,,
@@ -14287,7 +14287,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-CHI-04A-2007,Chile F4,Clay,32,S,20071105,29,104503,8,,Guillermo Hormazabal,R,,CHI,22.7,108701,1,,Juan Sebastian Cabal,R,185,COL,21.5,6-4 2-6 6-2,3,SF,,,,,,,,,,,,,,,,,,,,604,33,381,84
 2007-M-FU-CHI-04A-2007,Chile F4,Clay,32,S,20071105,30,104601,7,,Marin Bradaric,R,,CRO,22.1,103775,,,Felipe Parada,R,175,CHI,26.4,7-6(7) 5-7 6-4,3,SF,,,,,,,,,,,,,,,,,,,,541,41,650,27
 2007-M-FU-CHI-04A-2007,Chile F4,Clay,32,S,20071105,31,104601,7,,Marin Bradaric,R,,CRO,22.1,104503,8,,Guillermo Hormazabal,R,,CHI,22.7,6-4 1-6 6-3,3,F,,,,,,,,,,,,,,,,,,,,541,41,604,33
-2007-M-FU-GBR-21A-2007,Great Britain F21,Hard,32,S,20071105,1,104623,1,,Josh Goodall,R,188,GBR,22.0,109221,,WC,Edward Allinson,U,,GBR,20.7,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1038,7
+2007-M-FU-GBR-21A-2007,Great Britain F21,Hard,32,S,20071105,1,104623,1,,Josh Goodall,R,188,GBR,22.0,109221,,WC,Edward Allinson,U,,GBR,20.7,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,300,118,1038,7
 2007-M-FU-GBR-21A-2007,Great Britain F21,Hard,32,S,20071105,2,104059,,,Rasmus Norby,R,183,DEN,25.1,103636,,,Federico Torresi,R,,ITA,27.1,6-2 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,549,40,580,35
 2007-M-FU-GBR-21A-2007,Great Britain F21,Hard,32,S,20071105,3,104159,,Q,Ken Skupski,L,185,GBR,24.5,105510,,WC,Neil Pauffley,R,,GBR,17.6,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,927,10,,
 2007-M-FU-GBR-21A-2007,Great Britain F21,Hard,32,S,20071105,4,104952,8,,Martin Pedersen,R,,DEN,20.3,104627,,,Boy Westerhof,R,,NED,22.0,1-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,410,74,613,32
@@ -14303,7 +14303,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-GBR-21A-2007,Great Britain F21,Hard,32,S,20071105,14,103166,,,Vladimir Voltchkov,R,180,BLR,29.5,105074,,,Ruben Bemelmans,L,183,BEL,19.8,6-3 1-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,468,59,474,58
 2007-M-FU-GBR-21A-2007,Great Britain F21,Hard,32,S,20071105,15,104914,,Q,Ervin Eleskovic,R,,SWE,20.4,105014,,,Antal Van Der Duim,R,185,NED,20.1,6-1 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,730,20,486,55
 2007-M-FU-GBR-21A-2007,Great Britain F21,Hard,32,S,20071105,16,104192,2,,Marco Crugnola,R,188,ITA,24.4,103793,,,Martin Vacek,R,,CZE,26.3,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,305,113,438,68
-2007-M-FU-GBR-21A-2007,Great Britain F21,Hard,32,S,20071105,17,104623,1,,Josh Goodall,R,188,GBR,22.0,104059,,,Rasmus Norby,R,183,DEN,25.1,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,549,40
+2007-M-FU-GBR-21A-2007,Great Britain F21,Hard,32,S,20071105,17,104623,1,,Josh Goodall,R,188,GBR,22.0,104059,,,Rasmus Norby,R,183,DEN,25.1,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,300,118,549,40
 2007-M-FU-GBR-21A-2007,Great Britain F21,Hard,32,S,20071105,18,104952,8,,Martin Pedersen,R,,DEN,20.3,104159,,Q,Ken Skupski,L,185,GBR,24.5,7-6(4) 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,410,74,927,10
 2007-M-FU-GBR-21A-2007,Great Britain F21,Hard,32,S,20071105,19,104233,4,Q,Frederik Nielsen,R,190,DEN,24.1,103939,,Q,Neil Bamford,U,,GBR,25.7,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,326,103,872,12
 2007-M-FU-GBR-21A-2007,Great Britain F21,Hard,32,S,20071105,20,103913,,Q,Ian Flanagan,U,,GBR,25.8,103702,5,,Stefano Ianni,R,,ITA,26.7,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,895,11,363,92
@@ -14311,7 +14311,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-GBR-21A-2007,Great Britain F21,Hard,32,S,20071105,22,103679,,,Jeroen Masson,R,,BEL,26.8,103716,,,Uros Vico,R,188,ITA,26.7,W/O,3,R16,,,,,,,,,,,,,,,,,,,,497,52,488,54
 2007-M-FU-GBR-21A-2007,Great Britain F21,Hard,32,S,20071105,23,103166,,,Vladimir Voltchkov,R,180,BLR,29.5,103625,7,,Adriano Biasella,R,,ITA,27.1,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,468,59,392,80
 2007-M-FU-GBR-21A-2007,Great Britain F21,Hard,32,S,20071105,24,104192,2,,Marco Crugnola,R,188,ITA,24.4,104914,,Q,Ervin Eleskovic,R,,SWE,20.4,3-6 7-6(5) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,305,113,730,20
-2007-M-FU-GBR-21A-2007,Great Britain F21,Hard,32,S,20071105,25,104952,8,,Martin Pedersen,R,,DEN,20.3,104623,1,,Josh Goodall,R,188,GBR,22.0,6-2 7-6(6),3,QF,,,,,,,,,,,,,,,,,,,,410,74,,
+2007-M-FU-GBR-21A-2007,Great Britain F21,Hard,32,S,20071105,25,104952,8,,Martin Pedersen,R,,DEN,20.3,104623,1,,Josh Goodall,R,188,GBR,22.0,6-2 7-6(6),3,QF,,,,,,,,,,,,,,,,,,,,410,74,300,118
 2007-M-FU-GBR-21A-2007,Great Britain F21,Hard,32,S,20071105,26,104233,4,Q,Frederik Nielsen,R,190,DEN,24.1,103913,,Q,Ian Flanagan,U,,GBR,25.8,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,326,103,895,11
 2007-M-FU-GBR-21A-2007,Great Britain F21,Hard,32,S,20071105,27,103679,,,Jeroen Masson,R,,BEL,26.8,104944,6,,Niels Desein,R,190,BEL,20.4,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,497,52,383,84
 2007-M-FU-GBR-21A-2007,Great Britain F21,Hard,32,S,20071105,28,103166,,,Vladimir Voltchkov,R,180,BLR,29.5,104192,2,,Marco Crugnola,R,188,ITA,24.4,6-2 6-0,3,QF,,,,,,,,,,,,,,,,,,,,468,59,305,113
@@ -14581,7 +14581,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-GBR-22A-2007,Great Britain F22,Hard,32,S,20071112,13,103679,,,Jeroen Masson,R,,BEL,26.8,104743,6,Q,Kamil Capkovic,R,198,SVK,21.4,6-7(4) 6-4 3-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,498,52,312,109
 2007-M-FU-GBR-22A-2007,Great Britain F22,Hard,32,S,20071112,14,103913,,WC,Ian Flanagan,U,,GBR,25.8,104845,,Q,Henrik Norfeldt,R,,SWE,20.8,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,898,11,1109,6
 2007-M-FU-GBR-22A-2007,Great Britain F22,Hard,32,S,20071112,15,104677,,,Artem Sitak,R,185,NZL,21.7,104952,,,Martin Pedersen,R,,DEN,20.4,6-7(2) 6-4 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,527,45,406,74
-2007-M-FU-GBR-22A-2007,Great Britain F22,Hard,32,S,20071112,16,104623,2,WC,Josh Goodall,R,188,GBR,22.0,103827,,,Fabio Colangelo,R,,ITA,26.2,6-3 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,,,733,20
+2007-M-FU-GBR-22A-2007,Great Britain F22,Hard,32,S,20071112,16,104623,2,WC,Josh Goodall,R,188,GBR,22.0,103827,,,Fabio Colangelo,R,,ITA,26.2,6-3 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,300,117,733,20
 2007-M-FU-GBR-22A-2007,Great Britain F22,Hard,32,S,20071112,17,103953,,,Olivier Charroin,L,,FRA,25.6,103406,,Q,Ralph Grambow,R,,GER,28.3,1-6 7-6(4) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,626,30,641,28
 2007-M-FU-GBR-22A-2007,Great Britain F22,Hard,32,S,20071112,18,104159,,Q,Ken Skupski,L,185,GBR,24.5,103435,,,Massimo Dellacqua,R,193,ITA,28.1,4-6 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,929,10,575,35
 2007-M-FU-GBR-22A-2007,Great Britain F22,Hard,32,S,20071112,19,105259,,Q,Andrei Karatchenia,R,,BLR,18.8,105638,,Q,Daniel Cox,R,170,GBR,17.1,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,924,10,931,10
@@ -14589,7 +14589,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-M-FU-GBR-22A-2007,Great Britain F22,Hard,32,S,20071112,21,105173,7,,Adrian Mannarino,L,183,FRA,19.3,104692,,,Alexander Slabinsky,R,185,GBR,21.6,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,364,90,616,31
 2007-M-FU-GBR-22A-2007,Great Britain F22,Hard,32,S,20071112,22,103166,,,Vladimir Voltchkov,R,180,BLR,29.5,104233,4,,Frederik Nielsen,R,190,DEN,24.2,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,465,59,333,103
 2007-M-FU-GBR-22A-2007,Great Britain F22,Hard,32,S,20071112,23,103679,,,Jeroen Masson,R,,BEL,26.8,103913,,WC,Ian Flanagan,U,,GBR,25.8,6-7(5) 6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,498,52,898,11
-2007-M-FU-GBR-22A-2007,Great Britain F22,Hard,32,S,20071112,24,104677,,,Artem Sitak,R,185,NZL,21.7,104623,2,WC,Josh Goodall,R,188,GBR,22.0,7-5 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,527,45,,
+2007-M-FU-GBR-22A-2007,Great Britain F22,Hard,32,S,20071112,24,104677,,,Artem Sitak,R,185,NZL,21.7,104623,2,WC,Josh Goodall,R,188,GBR,22.0,7-5 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,527,45,300,117
 2007-M-FU-GBR-22A-2007,Great Britain F22,Hard,32,S,20071112,25,104159,,Q,Ken Skupski,L,185,GBR,24.5,103953,,,Olivier Charroin,L,,FRA,25.6,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,929,10,626,30
 2007-M-FU-GBR-22A-2007,Great Britain F22,Hard,32,S,20071112,26,105259,,Q,Andrei Karatchenia,R,,BLR,18.8,103750,,,Ladislav Chramosta,R,,CZE,26.5,3-6 6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,924,10,471,58
 2007-M-FU-GBR-22A-2007,Great Britain F22,Hard,32,S,20071112,27,105173,7,,Adrian Mannarino,L,183,FRA,19.3,103166,,,Vladimir Voltchkov,R,180,BLR,29.5,6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,364,90,465,59

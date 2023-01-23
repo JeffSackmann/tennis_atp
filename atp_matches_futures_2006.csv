@@ -33,7 +33,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-GBR-01A-2006,Great Britain F1,Carpet,32,S,20060102,1,104171,1,,Richard Bloomfield,R,185,GBR,22.6,107891,,,Olivier Vandewiele,R,,FRA,,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,291,116,502,48
 2006-M-FU-GBR-01A-2006,Great Britain F1,Carpet,32,S,20060102,2,104692,,,Alexander Slabinsky,R,185,GBR,19.8,104954,,WC,Andrew Kennaugh,U,,GBR,18.5,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,650,27,735,20
 2006-M-FU-GBR-01A-2006,Great Britain F1,Carpet,32,S,20060102,3,104105,,,Pavel Ivanov,R,193,RUS,23.0,104504,,WC,Ross Hutchins,R,190,GBR,20.8,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,439,59,678,25
-2006-M-FU-GBR-01A-2006,Great Britain F1,Carpet,32,S,20060102,4,104557,,,Andis Juska,R,,LAT,20.6,104623,7,,Josh Goodall,R,188,GBR,20.2,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,471,54,,
+2006-M-FU-GBR-01A-2006,Great Britain F1,Carpet,32,S,20060102,4,104557,,,Andis Juska,R,,LAT,20.6,104623,7,,Josh Goodall,R,188,GBR,20.2,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,471,54,388,76
 2006-M-FU-GBR-01A-2006,Great Britain F1,Carpet,32,S,20060102,5,104779,,,Jamie Baker,R,183,GBR,19.4,104732,4,,Phillip Simmonds,R,,USA,19.6,6-7(6) 6-1 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,395,74,331,94
 2006-M-FU-GBR-01A-2006,Great Britain F1,Carpet,32,S,20060102,6,104671,,Q,Miles Kasiri,R,,GBR,19.9,104663,,Q,Sebastien Louis,U,,FRA,19.9,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,805,16,1187,4
 2006-M-FU-GBR-01A-2006,Great Britain F1,Carpet,32,S,20060102,7,104747,,WC,Tom Rushby,R,,GBR,19.5,103851,,,Conor Niland,R,185,IRL,24.2,6-4 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,732,21,472,53
@@ -157,7 +157,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-GBR-02A-2006,Great Britain F2,Hard,32,S,20060109,1,104779,,,Jamie Baker,R,183,GBR,19.4,103208,1,,Jean Michel Pequery,R,,FRA,27.6,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,396,74,213,171
 2006-M-FU-GBR-02A-2006,Great Britain F2,Hard,32,S,20060109,2,104039,,,Petar Popovic,U,,SRB,23.4,104430,,Q,Alex Miotto,R,,GBR,21.3,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,476,52,1157,5
 2006-M-FU-GBR-02A-2006,Great Britain F2,Hard,32,S,20060109,3,103565,,,Stephane Robert,R,185,FRA,25.6,105638,,WC,Daniel Cox,R,170,GBR,15.2,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,496,49,1495,1
-2006-M-FU-GBR-02A-2006,Great Britain F2,Hard,32,S,20060109,4,104869,,Q,Sergei Bubka,R,188,UKR,18.9,104623,8,,Josh Goodall,R,188,GBR,20.2,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,821,15,,
+2006-M-FU-GBR-02A-2006,Great Britain F2,Hard,32,S,20060109,4,104869,,Q,Sergei Bubka,R,188,UKR,18.9,104623,8,,Josh Goodall,R,188,GBR,20.2,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,821,15,388,76
 2006-M-FU-GBR-02A-2006,Great Britain F2,Hard,32,S,20060109,5,103952,,Q,Troy Hahn,R,,USA,23.8,104732,4,,Phillip Simmonds,R,,USA,19.6,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,771,18,332,94
 2006-M-FU-GBR-02A-2006,Great Britain F2,Hard,32,S,20060109,6,103851,,,Conor Niland,R,185,IRL,24.3,103795,,WC,James May,U,,GBR,24.5,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,472,53,817,15
 2006-M-FU-GBR-02A-2006,Great Britain F2,Hard,32,S,20060109,7,103913,,WC,Ian Flanagan,U,,GBR,23.9,104129,,Q,Simon Roberts,R,,GBR,22.8,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,965,9,753,19
@@ -783,7 +783,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-SA-GBR-01A-2006a,Great Britain 1 1,Hard,24,S,20060130,7,104572,,,Eric Scherer,R,,GER,20.6,105157,,,Patrick Eichenberger,L,,SUI,17.6,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,561,38,1489,1
 2006-M-SA-GBR-01A-2006a,Great Britain 1 1,Hard,24,S,20060130,8,104226,,,Bastian Knittel,L,180,GER,22.4,103795,,,James May,U,,GBR,24.6,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,527,43,802,16
 2006-M-SA-GBR-01A-2006a,Great Britain 1 1,Hard,24,S,20060130,9,105052,,,Chris Eaton,R,188,GBR,18.1,103913,1,,Ian Flanagan,U,,GBR,24.0,6-4 2-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1193,4,935,10
-2006-M-SA-GBR-01A-2006a,Great Britain 1 1,Hard,24,S,20060130,10,103114,,,Martin Lee,L,180,GBR,28.0,104623,7,,Josh Goodall,R,188,GBR,20.2,7-6(9) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,299,108,,
+2006-M-SA-GBR-01A-2006a,Great Britain 1 1,Hard,24,S,20060130,10,103114,,,Martin Lee,L,180,GBR,28.0,104623,7,,Josh Goodall,R,188,GBR,20.2,7-6(9) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,299,108,472,54
 2006-M-SA-GBR-01A-2006a,Great Britain 1 1,Hard,24,S,20060130,11,103623,3,,Jacob Adaktusson,R,193,SWE,25.4,104418,,,Matthew Smith,R,,GBR,21.4,6-3 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,230,152,313,101
 2006-M-SA-GBR-01A-2006a,Great Britain 1 1,Hard,24,S,20060130,12,103820,5,,Alan Mackin,R,183,GBR,24.4,104954,,,Andrew Kennaugh,U,,GBR,18.6,2-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,295,109,732,20
 2006-M-SA-GBR-01A-2006a,Great Britain 1 1,Hard,24,S,20060130,13,104415,,,Colin Fleming,R,188,GBR,21.4,104869,8,,Sergei Bubka,R,188,UKR,18.9,7-6(6) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,439,61,805,16
@@ -811,7 +811,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-SA-GBR-01A-2006b,Great Britain 1 2,Hard,32,S,20060130,12,103913,,WC,Ian Flanagan,U,,GBR,24.0,104418,4,WC,Matthew Smith,R,,GBR,21.4,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,935,10,313,101
 2006-M-SA-GBR-01A-2006b,Great Britain 1 2,Hard,32,S,20060130,13,103929,6,,Philipp Marx,R,188,GER,23.9,105157,,Q,Patrick Eichenberger,L,,SUI,17.6,7-5 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,412,68,1489,1
 2006-M-SA-GBR-01A-2006b,Great Britain 1 2,Hard,32,S,20060130,14,104787,,Q,Mikhail Lifshits,R,,RUS,19.4,119504,,Q,Nikki Peel,L,,GBR,19.9,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1087,6,,
-2006-M-SA-GBR-01A-2006b,Great Britain 1 2,Hard,32,S,20060130,15,104623,,,Josh Goodall,R,188,GBR,20.2,104714,,,Julian Reister,R,188,GER,19.8,6-7(5) 7-6(7) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,762,18
+2006-M-SA-GBR-01A-2006b,Great Britain 1 2,Hard,32,S,20060130,15,104623,,,Josh Goodall,R,188,GBR,20.2,104714,,,Julian Reister,R,188,GER,19.8,6-7(5) 7-6(7) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,472,54,762,18
 2006-M-SA-GBR-01A-2006b,Great Britain 1 2,Hard,32,S,20060130,16,103820,2,,Alan Mackin,R,183,GBR,24.4,104226,,,Bastian Knittel,L,180,GER,22.4,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,295,109,527,43
 2006-M-SA-GBR-01A-2006b,Great Britain 1 2,Hard,32,S,20060130,17,103623,1,,Jacob Adaktusson,R,193,SWE,25.4,104869,,,Sergei Bubka,R,188,UKR,18.9,1-6 6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,230,152,805,16
 2006-M-SA-GBR-01A-2006b,Great Britain 1 2,Hard,32,S,20060130,18,104415,7,,Colin Fleming,R,188,GBR,21.4,104954,,,Andrew Kennaugh,U,,GBR,18.6,7-6(5) 7-6(11),3,R16,,,,,,,,,,,,,,,,,,,,439,61,732,20
@@ -820,7 +820,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-SA-GBR-01A-2006b,Great Britain 1 2,Hard,32,S,20060130,21,104679,,WC,Jamie Murray,L,190,GBR,19.9,104951,,Q,Aljoscha Thron,R,,GER,18.6,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,886,12,778,17
 2006-M-SA-GBR-01A-2006b,Great Britain 1 2,Hard,32,S,20060130,22,103913,,WC,Ian Flanagan,U,,GBR,24.0,103939,,,Neil Bamford,U,,GBR,23.9,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,935,10,557,38
 2006-M-SA-GBR-01A-2006b,Great Britain 1 2,Hard,32,S,20060130,23,103929,6,,Philipp Marx,R,188,GER,23.9,104787,,Q,Mikhail Lifshits,R,,RUS,19.4,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,412,68,1087,6
-2006-M-SA-GBR-01A-2006b,Great Britain 1 2,Hard,32,S,20060130,24,103820,2,,Alan Mackin,R,183,GBR,24.4,104623,,,Josh Goodall,R,188,GBR,20.2,6-7(5) 6-4 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,295,109,,
+2006-M-SA-GBR-01A-2006b,Great Britain 1 2,Hard,32,S,20060130,24,103820,2,,Alan Mackin,R,183,GBR,24.4,104623,,,Josh Goodall,R,188,GBR,20.2,6-7(5) 6-4 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,295,109,472,54
 2006-M-SA-GBR-01A-2006b,Great Britain 1 2,Hard,32,S,20060130,25,103623,1,,Jacob Adaktusson,R,193,SWE,25.4,104415,7,,Colin Fleming,R,188,GBR,21.4,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,230,152,439,61
 2006-M-SA-GBR-01A-2006b,Great Britain 1 2,Hard,32,S,20060130,26,103559,5,,David Sherwood,R,193,GBR,25.7,103114,3,,Martin Lee,L,180,GBR,28.0,6-3 2-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,374,79,299,108
 2006-M-SA-GBR-01A-2006b,Great Britain 1 2,Hard,32,S,20060130,27,103913,,WC,Ian Flanagan,U,,GBR,24.0,104679,,WC,Jamie Murray,L,190,GBR,19.9,6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,935,10,886,12
@@ -840,7 +840,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-SA-GBR-01A-2006c,Great Britain 1 3,Hard,32,S,20060130,10,104869,,,Sergei Bubka,R,188,UKR,18.9,103939,,,Neil Bamford,U,,GBR,23.9,7-6(9) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,805,16,557,38
 2006-M-SA-GBR-01A-2006c,Great Britain 1 3,Hard,32,S,20060130,11,104415,,,Colin Fleming,R,188,GBR,21.4,104418,,,Matthew Smith,R,,GBR,21.4,6-7(1) 6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,439,61,313,101
 2006-M-SA-GBR-01A-2006c,Great Britain 1 3,Hard,32,S,20060130,12,103929,3,,Philipp Marx,R,188,GER,23.9,105100,,WC,Edward Corrie,U,183,GBR,17.9,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,412,68,,
-2006-M-SA-GBR-01A-2006c,Great Britain 1 3,Hard,32,S,20060130,13,104623,,,Josh Goodall,R,188,GBR,20.2,103114,7,,Martin Lee,L,180,GBR,28.0,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,299,108
+2006-M-SA-GBR-01A-2006c,Great Britain 1 3,Hard,32,S,20060130,13,104623,,,Josh Goodall,R,188,GBR,20.2,103114,7,,Martin Lee,L,180,GBR,28.0,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,472,54,299,108
 2006-M-SA-GBR-01A-2006c,Great Britain 1 3,Hard,32,S,20060130,14,104074,,Q,Peter Mayer Tischer,U,,GER,23.2,104679,,,Jamie Murray,L,190,GBR,19.9,2-6 7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,448,58,886,12
 2006-M-SA-GBR-01A-2006c,Great Britain 1 3,Hard,32,S,20060130,15,104226,,Q,Bastian Knittel,L,180,GER,22.4,104430,,WC,Alex Miotto,R,,GBR,21.3,6-2 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,527,43,1297,3
 2006-M-SA-GBR-01A-2006c,Great Britain 1 3,Hard,32,S,20060130,16,103623,2,,Jacob Adaktusson,R,193,SWE,25.4,104129,,,Simon Roberts,R,,GBR,22.9,5-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,230,152,750,19
@@ -850,19 +850,19 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-SA-GBR-01A-2006c,Great Britain 1 3,Hard,32,S,20060130,20,103559,6,,David Sherwood,R,193,GBR,25.7,105157,,Q,Patrick Eichenberger,L,,SUI,17.6,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,374,79,1489,1
 2006-M-SA-GBR-01A-2006c,Great Britain 1 3,Hard,32,S,20060130,21,104869,,,Sergei Bubka,R,188,UKR,18.9,104406,,Q,Naim Lalji,U,,GBR,21.5,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,805,16,997,8
 2006-M-SA-GBR-01A-2006c,Great Britain 1 3,Hard,32,S,20060130,22,103929,3,,Philipp Marx,R,188,GER,23.9,104415,,,Colin Fleming,R,188,GBR,21.4,7-6(2) 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,412,68,439,61
-2006-M-SA-GBR-01A-2006c,Great Britain 1 3,Hard,32,S,20060130,23,104623,,,Josh Goodall,R,188,GBR,20.2,104074,,Q,Peter Mayer Tischer,U,,GER,23.2,6-7(5) 6-4 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,,,448,58
+2006-M-SA-GBR-01A-2006c,Great Britain 1 3,Hard,32,S,20060130,23,104623,,,Josh Goodall,R,188,GBR,20.2,104074,,Q,Peter Mayer Tischer,U,,GER,23.2,6-7(5) 6-4 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,472,54,448,58
 2006-M-SA-GBR-01A-2006c,Great Britain 1 3,Hard,32,S,20060130,24,103623,2,,Jacob Adaktusson,R,193,SWE,25.4,104226,,Q,Bastian Knittel,L,180,GER,22.4,7-6(8) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,230,152,527,43
 2006-M-SA-GBR-01A-2006c,Great Britain 1 3,Hard,32,S,20060130,25,104397,5,,Laurent Recouderc,R,178,FRA,21.5,103913,1,,Ian Flanagan,U,,GBR,24.0,3-6 7-6(8) 7-6(6),3,QF,,,,,,,,,,,,,,,,,,,,483,51,935,10
 2006-M-SA-GBR-01A-2006c,Great Britain 1 3,Hard,32,S,20060130,26,103559,6,,David Sherwood,R,193,GBR,25.7,104951,,,Aljoscha Thron,R,,GER,18.6,7-5 6-0,3,QF,,,,,,,,,,,,,,,,,,,,374,79,778,17
 2006-M-SA-GBR-01A-2006c,Great Britain 1 3,Hard,32,S,20060130,27,104869,,,Sergei Bubka,R,188,UKR,18.9,103929,3,,Philipp Marx,R,188,GER,23.9,7-6(5) 6-7(6) 7-5,3,QF,,,,,,,,,,,,,,,,,,,,805,16,412,68
-2006-M-SA-GBR-01A-2006c,Great Britain 1 3,Hard,32,S,20060130,28,104623,,,Josh Goodall,R,188,GBR,20.2,103623,2,,Jacob Adaktusson,R,193,SWE,25.4,6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,,,230,152
+2006-M-SA-GBR-01A-2006c,Great Britain 1 3,Hard,32,S,20060130,28,104623,,,Josh Goodall,R,188,GBR,20.2,103623,2,,Jacob Adaktusson,R,193,SWE,25.4,6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,472,54,230,152
 2006-M-SA-GBR-01A-2006c,Great Britain 1 3,Hard,32,S,20060130,29,104397,5,,Laurent Recouderc,R,178,FRA,21.5,103559,6,,David Sherwood,R,193,GBR,25.7,6-4 3-6 6-4,3,SF,,,,,,,,,,,,,,,,,,,,483,51,374,79
-2006-M-SA-GBR-01A-2006c,Great Britain 1 3,Hard,32,S,20060130,30,104623,,,Josh Goodall,R,188,GBR,20.2,104869,,,Sergei Bubka,R,188,UKR,18.9,7-6(3) 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,805,16
-2006-M-SA-GBR-01A-2006c,Great Britain 1 3,Hard,32,S,20060130,31,104397,5,,Laurent Recouderc,R,178,FRA,21.5,104623,,,Josh Goodall,R,188,GBR,20.2,6-3 6-7(7) 6-3,3,F,,,,,,,,,,,,,,,,,,,,483,51,,
+2006-M-SA-GBR-01A-2006c,Great Britain 1 3,Hard,32,S,20060130,30,104623,,,Josh Goodall,R,188,GBR,20.2,104869,,,Sergei Bubka,R,188,UKR,18.9,7-6(3) 6-4,3,SF,,,,,,,,,,,,,,,,,,,,472,54,805,16
+2006-M-SA-GBR-01A-2006c,Great Britain 1 3,Hard,32,S,20060130,31,104397,5,,Laurent Recouderc,R,178,FRA,21.5,104623,,,Josh Goodall,R,188,GBR,20.2,6-3 6-7(7) 6-3,3,F,,,,,,,,,,,,,,,,,,,,483,51,472,54
 2006-M-SA-GBR-01A-2006d,Great Britain 1 4,Hard,32,S,20060130,1,103623,1,,Jacob Adaktusson,R,193,SWE,25.4,104747,,,Tom Rushby,R,,GBR,19.6,6-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,230,152,741,20
 2006-M-SA-GBR-01A-2006d,Great Britain 1 4,Hard,32,S,20060130,2,103939,,,Neil Bamford,U,,GBR,23.9,104679,,WC,Jamie Murray,L,190,GBR,19.9,6-1 2-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,557,38,886,12
 2006-M-SA-GBR-01A-2006d,Great Britain 1 4,Hard,32,S,20060130,3,103795,,,James May,U,,GBR,24.6,104074,,,Peter Mayer Tischer,U,,GER,23.2,7-6(2) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,802,16,448,58
-2006-M-SA-GBR-01A-2006d,Great Britain 1 4,Hard,32,S,20060130,4,104397,,Q,Laurent Recouderc,R,178,FRA,21.5,104623,6,,Josh Goodall,R,188,GBR,20.2,4-6 6-1 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,483,51,,
+2006-M-SA-GBR-01A-2006d,Great Britain 1 4,Hard,32,S,20060130,4,104397,,Q,Laurent Recouderc,R,178,FRA,21.5,104623,6,,Josh Goodall,R,188,GBR,20.2,4-6 6-1 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,483,51,472,54
 2006-M-SA-GBR-01A-2006d,Great Britain 1 4,Hard,32,S,20060130,5,103114,4,,Martin Lee,L,180,GBR,28.0,104388,,,Morgan Phillips,U,,GBR,21.6,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,299,108,739,20
 2006-M-SA-GBR-01A-2006d,Great Britain 1 4,Hard,32,S,20060130,6,104951,,Q,Aljoscha Thron,R,,GER,18.6,104406,,WC,Naim Lalji,U,,GBR,21.5,6-3 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,778,17,997,8
 2006-M-SA-GBR-01A-2006d,Great Britain 1 4,Hard,32,S,20060130,7,104869,,,Sergei Bubka,R,188,UKR,18.9,103980,,Q,Chris Wettengel,R,,USA,23.7,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,805,16,1078,6
@@ -1996,7 +1996,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-GBR-03A-2006,Great Britain F3,Hard,32,S,20060306,4,103003,,,Jean Francois Bachelot,R,183,FRA,28.7,103063,7,,Sebastien De Chaunac,R,183,FRA,28.4,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,450,56,352,88
 2006-M-FU-GBR-03A-2006,Great Britain F3,Hard,32,S,20060306,5,103114,3,,Martin Lee,L,180,GBR,28.1,119852,,Q,Matthew Lott,R,,GBR,21.6,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,281,117,1491,1
 2006-M-FU-GBR-03A-2006,Great Britain F3,Hard,32,S,20060306,6,103559,,,David Sherwood,R,193,GBR,25.8,119625,,Q,Alexy Tsyrenov,R,,RUS,19.0,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,339,92,,
-2006-M-FU-GBR-03A-2006,Great Britain F3,Hard,32,S,20060306,7,104623,,,Josh Goodall,R,188,GBR,20.3,103795,,WC,James May,U,,GBR,24.7,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,785,17
+2006-M-FU-GBR-03A-2006,Great Britain F3,Hard,32,S,20060306,7,104623,,,Josh Goodall,R,188,GBR,20.3,103795,,WC,James May,U,,GBR,24.7,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,434,61,785,17
 2006-M-FU-GBR-03A-2006,Great Britain F3,Hard,32,S,20060306,8,104418,8,,Matthew Smith,R,,GBR,21.5,104747,,Q,Tom Rushby,R,,GBR,19.7,6-1 3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,345,90,733,20
 2006-M-FU-GBR-03A-2006,Great Britain F3,Hard,32,S,20060306,9,104171,5,,Richard Bloomfield,R,185,GBR,22.8,104914,,,Ervin Eleskovic,R,,SWE,18.8,7-5 5-7 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,316,101,646,27
 2006-M-FU-GBR-03A-2006,Great Britain F3,Hard,32,S,20060306,10,103327,,Q,Alessandro Motti,L,,ITA,27.0,119504,,WC,Nikki Peel,L,,GBR,20.0,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,819,15,1491,1
@@ -2009,13 +2009,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-GBR-03A-2006,Great Britain F3,Hard,32,S,20060306,17,103926,,,Daniel Munoz de la Nava,L,178,ESP,24.0,104095,1,,David Guez,R,185,FRA,23.2,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,507,46,226,157
 2006-M-FU-GBR-03A-2006,Great Britain F3,Hard,32,S,20060306,18,103003,,,Jean Francois Bachelot,R,183,FRA,28.7,103239,,,Marcus Sarstrand,R,183,SWE,27.6,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,450,56,401,72
 2006-M-FU-GBR-03A-2006,Great Britain F3,Hard,32,S,20060306,19,103114,3,,Martin Lee,L,180,GBR,28.1,103559,,,David Sherwood,R,193,GBR,25.8,6-4 7-6(1),3,R16,,,,,,,,,,,,,,,,,,,,281,117,339,92
-2006-M-FU-GBR-03A-2006,Great Britain F3,Hard,32,S,20060306,20,104623,,,Josh Goodall,R,188,GBR,20.3,104418,8,,Matthew Smith,R,,GBR,21.5,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,345,90
+2006-M-FU-GBR-03A-2006,Great Britain F3,Hard,32,S,20060306,20,104623,,,Josh Goodall,R,188,GBR,20.3,104418,8,,Matthew Smith,R,,GBR,21.5,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,434,61,345,90
 2006-M-FU-GBR-03A-2006,Great Britain F3,Hard,32,S,20060306,21,104171,5,,Richard Bloomfield,R,185,GBR,22.8,103327,,Q,Alessandro Motti,L,,ITA,27.0,7-6(2) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,316,101,819,15
 2006-M-FU-GBR-03A-2006,Great Britain F3,Hard,32,S,20060306,22,104590,,,Tom Burn,R,,GBR,20.5,103820,4,,Alan Mackin,R,183,GBR,24.5,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,741,19,248,132
 2006-M-FU-GBR-03A-2006,Great Britain F3,Hard,32,S,20060306,23,103538,6,,James Auckland,R,,GBR,25.9,103939,,,Neil Bamford,U,,GBR,24.0,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,335,94,605,32
 2006-M-FU-GBR-03A-2006,Great Britain F3,Hard,32,S,20060306,24,103929,,,Philipp Marx,R,188,GER,24.0,103529,,,Aisam Ul Haq Qureshi,R,183,PAK,25.9,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,361,85,392,76
 2006-M-FU-GBR-03A-2006,Great Britain F3,Hard,32,S,20060306,25,103003,,,Jean Francois Bachelot,R,183,FRA,28.7,103926,,,Daniel Munoz de la Nava,L,178,ESP,24.0,3-6 7-6(9) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,450,56,507,46
-2006-M-FU-GBR-03A-2006,Great Britain F3,Hard,32,S,20060306,26,103114,3,,Martin Lee,L,180,GBR,28.1,104623,,,Josh Goodall,R,188,GBR,20.3,3-6 6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,281,117,,
+2006-M-FU-GBR-03A-2006,Great Britain F3,Hard,32,S,20060306,26,103114,3,,Martin Lee,L,180,GBR,28.1,104623,,,Josh Goodall,R,188,GBR,20.3,3-6 6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,281,117,434,61
 2006-M-FU-GBR-03A-2006,Great Britain F3,Hard,32,S,20060306,27,104171,5,,Richard Bloomfield,R,185,GBR,22.8,104590,,,Tom Burn,R,,GBR,20.5,6-1 7-6(6),3,QF,,,,,,,,,,,,,,,,,,,,316,101,741,19
 2006-M-FU-GBR-03A-2006,Great Britain F3,Hard,32,S,20060306,28,103538,6,,James Auckland,R,,GBR,25.9,103929,,,Philipp Marx,R,188,GER,24.0,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,335,94,361,85
 2006-M-FU-GBR-03A-2006,Great Britain F3,Hard,32,S,20060306,29,103114,3,,Martin Lee,L,180,GBR,28.1,103003,,,Jean Francois Bachelot,R,183,FRA,28.7,7-6(4) 7-5,3,SF,,,,,,,,,,,,,,,,,,,,281,117,450,56
@@ -3622,7 +3622,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-GBR-06A-2006,Great Britain F6,Hard,32,S,20060403,3,104453,,,Michael Ryderstedt,L,188,SWE,21.3,104962,,Q,Matthew Illingworth,R,,GBR,18.7,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,391,78,,
 2006-M-FU-GBR-06A-2006,Great Britain F6,Hard,32,S,20060403,4,104542,8,,Jo-Wilfried Tsonga,R,188,FRA,20.9,103939,,Q,Neil Bamford,U,,GBR,24.1,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,404,73,600,34
 2006-M-FU-GBR-06A-2006,Great Britain F6,Hard,32,S,20060403,5,102788,4,,Jan Vacek,R,198,CZE,29.8,103003,,,Jean Francois Bachelot,R,183,FRA,28.8,3-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,270,124,420,69
-2006-M-FU-GBR-06A-2006,Great Britain F6,Hard,32,S,20060403,6,104623,,,Josh Goodall,R,188,GBR,20.4,104671,,WC,Miles Kasiri,R,,GBR,20.1,4-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,837,15
+2006-M-FU-GBR-06A-2006,Great Britain F6,Hard,32,S,20060403,6,104623,,,Josh Goodall,R,188,GBR,20.4,104671,,WC,Miles Kasiri,R,,GBR,20.1,4-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,426,67,837,15
 2006-M-FU-GBR-06A-2006,Great Britain F6,Hard,32,S,20060403,7,103782,,,Rameez Junaid,R,,AUS,24.8,117615,,Q,Thomas Greenland,U,,GBR,25.7,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,428,67,1523,1
 2006-M-FU-GBR-06A-2006,Great Britain F6,Hard,32,S,20060403,8,104171,6,,Richard Bloomfield,R,185,GBR,22.9,103559,,,David Sherwood,R,193,GBR,25.9,6-3 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,271,123,366,84
 2006-M-FU-GBR-06A-2006,Great Britain F6,Hard,32,S,20060403,9,103730,7,,Jonathan Marray,R,183,GBR,25.0,103953,,LL,Olivier Charroin,L,,FRA,24.0,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,314,102,1128,5
@@ -3635,14 +3635,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-GBR-06A-2006,Great Britain F6,Hard,32,S,20060403,16,104004,2,Q,Filip Prpic,R,173,SWE,23.8,105327,,WC,Maniel Bains,R,,GBR,16.9,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,249,138,,
 2006-M-FU-GBR-06A-2006,Great Britain F6,Hard,32,S,20060403,17,103208,1,,Jean Michel Pequery,R,,FRA,27.8,104619,,,Jesse Huta Galung,R,188,NED,20.4,6-2 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,195,200,340,93
 2006-M-FU-GBR-06A-2006,Great Britain F6,Hard,32,S,20060403,18,104542,8,,Jo-Wilfried Tsonga,R,188,FRA,20.9,104453,,,Michael Ryderstedt,L,188,SWE,21.3,6-2 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,404,73,391,78
-2006-M-FU-GBR-06A-2006,Great Britain F6,Hard,32,S,20060403,19,104623,,,Josh Goodall,R,188,GBR,20.4,102788,4,,Jan Vacek,R,198,CZE,29.8,6-3 6-7(6) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,270,124
+2006-M-FU-GBR-06A-2006,Great Britain F6,Hard,32,S,20060403,19,104623,,,Josh Goodall,R,188,GBR,20.4,102788,4,,Jan Vacek,R,198,CZE,29.8,6-3 6-7(6) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,426,67,270,124
 2006-M-FU-GBR-06A-2006,Great Britain F6,Hard,32,S,20060403,20,104171,6,,Richard Bloomfield,R,185,GBR,22.9,103782,,,Rameez Junaid,R,,AUS,24.8,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,271,123,428,67
 2006-M-FU-GBR-06A-2006,Great Britain F6,Hard,32,S,20060403,21,104418,,,Matthew Smith,R,,GBR,21.6,103730,7,,Jonathan Marray,R,183,GBR,25.0,1-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,360,87,314,102
 2006-M-FU-GBR-06A-2006,Great Britain F6,Hard,32,S,20060403,22,104406,,Q,Naim Lalji,U,,GBR,21.6,104506,,Q,David Brewer,R,,GBR,21.1,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,948,10,1256,3
 2006-M-FU-GBR-06A-2006,Great Britain F6,Hard,32,S,20060403,23,104779,5,,Jamie Baker,R,183,GBR,19.6,104014,,,Lee Childs,R,,GBR,23.8,7-5 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,284,117,498,51
 2006-M-FU-GBR-06A-2006,Great Britain F6,Hard,32,S,20060403,24,104004,2,Q,Filip Prpic,R,173,SWE,23.8,104577,,Q,Richard Irwin,R,,GBR,20.7,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,249,138,747,20
 2006-M-FU-GBR-06A-2006,Great Britain F6,Hard,32,S,20060403,25,104542,8,,Jo-Wilfried Tsonga,R,188,FRA,20.9,103208,1,,Jean Michel Pequery,R,,FRA,27.8,7-6(5) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,404,73,195,200
-2006-M-FU-GBR-06A-2006,Great Britain F6,Hard,32,S,20060403,26,104171,6,,Richard Bloomfield,R,185,GBR,22.9,104623,,,Josh Goodall,R,188,GBR,20.4,7-6(2) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,271,123,,
+2006-M-FU-GBR-06A-2006,Great Britain F6,Hard,32,S,20060403,26,104171,6,,Richard Bloomfield,R,185,GBR,22.9,104623,,,Josh Goodall,R,188,GBR,20.4,7-6(2) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,271,123,426,67
 2006-M-FU-GBR-06A-2006,Great Britain F6,Hard,32,S,20060403,27,104418,,,Matthew Smith,R,,GBR,21.6,104406,,Q,Naim Lalji,U,,GBR,21.6,6-7(6) 6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,360,87,948,10
 2006-M-FU-GBR-06A-2006,Great Britain F6,Hard,32,S,20060403,28,104004,2,Q,Filip Prpic,R,173,SWE,23.8,104779,5,,Jamie Baker,R,183,GBR,19.6,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,249,138,284,117
 2006-M-FU-GBR-06A-2006,Great Britain F6,Hard,32,S,20060403,29,104542,8,,Jo-Wilfried Tsonga,R,188,FRA,20.9,104171,6,,Richard Bloomfield,R,185,GBR,22.9,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,404,73,271,123
@@ -4666,7 +4666,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-GRE-01A-2006,Greece F1,Hard,32,S,20060501,9,104295,5,,Raphael Durek,R,188,AUS,22.2,104827,,Q,Remko De Rijke,R,,NED,19.4,6-2 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,440,64,1139,5
 2006-M-FU-GRE-01A-2006,Greece F1,Hard,32,S,20060501,10,119694,,Q,Omri Hasin,U,,ISR,19.1,103853,,,Mattia Livraghi,L,,ITA,24.6,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1258,3,851,15
 2006-M-FU-GRE-01A-2006,Greece F1,Hard,32,S,20060501,11,104748,,,Aleksandar Grubin,L,,SRB,19.9,103795,,,James May,U,,GBR,24.8,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,718,22,732,21
-2006-M-FU-GRE-01A-2006,Greece F1,Hard,32,S,20060501,12,104623,4,,Josh Goodall,R,188,GBR,20.5,103891,,WC,Alexandros Jakupovic,R,,GRE,24.3,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,973,9
+2006-M-FU-GRE-01A-2006,Greece F1,Hard,32,S,20060501,12,104623,4,,Josh Goodall,R,188,GBR,20.5,103891,,WC,Alexandros Jakupovic,R,,GRE,24.3,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,428,67,973,9
 2006-M-FU-GRE-01A-2006,Greece F1,Hard,32,S,20060501,13,104389,6,,Ishay Hadash,R,,ISR,21.8,120052,,LL,Jeremiah Fuller,R,,USA,22.4,6-3 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,544,41,,
 2006-M-FU-GRE-01A-2006,Greece F1,Hard,32,S,20060501,14,104168,,,Enrico Iannuzzi,R,,ITA,23.0,119500,,Q,Yoav Schab,R,,ISR,21.3,7-5 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,794,17,1526,1
 2006-M-FU-GRE-01A-2006,Greece F1,Hard,32,S,20060501,15,104804,,,Amir Weintraub,R,188,ISR,19.6,111537,,Q,Stephen Moros,U,,USA,25.2,6-0 7-5,3,R32,,,,,,,,,,,,,,,,,,,,840,15,1356,2
@@ -4676,15 +4676,15 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-GRE-01A-2006,Greece F1,Hard,32,S,20060501,19,104502,,,Amit Inbar,L,,ISR,21.2,104470,3,,Komlavi Loglo,R,183,TOG,21.3,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,728,21,399,76
 2006-M-FU-GRE-01A-2006,Greece F1,Hard,32,S,20060501,20,103978,8,,Rabie Chaki,U,,MAR,24.0,104885,,,Philipp Piyamongkol,U,,GER,19.1,3-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,715,22,899,13
 2006-M-FU-GRE-01A-2006,Greece F1,Hard,32,S,20060501,21,104295,5,,Raphael Durek,R,188,AUS,22.2,119694,,Q,Omri Hasin,U,,ISR,19.1,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,440,64,1258,3
-2006-M-FU-GRE-01A-2006,Greece F1,Hard,32,S,20060501,22,104623,4,,Josh Goodall,R,188,GBR,20.5,104748,,,Aleksandar Grubin,L,,SRB,19.9,3-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,718,22
+2006-M-FU-GRE-01A-2006,Greece F1,Hard,32,S,20060501,22,104623,4,,Josh Goodall,R,188,GBR,20.5,104748,,,Aleksandar Grubin,L,,SRB,19.9,3-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,428,67,718,22
 2006-M-FU-GRE-01A-2006,Greece F1,Hard,32,S,20060501,23,104389,6,,Ishay Hadash,R,,ISR,21.8,104168,,,Enrico Iannuzzi,R,,ITA,23.0,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,544,41,794,17
 2006-M-FU-GRE-01A-2006,Greece F1,Hard,32,S,20060501,24,102945,2,,Luke Bourgeois,R,188,AUS,29.1,104804,,,Amir Weintraub,R,188,ISR,19.6,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,296,112,840,15
 2006-M-FU-GRE-01A-2006,Greece F1,Hard,32,S,20060501,25,103939,7,,Neil Bamford,U,,GBR,24.2,104964,,,Victor Kolik,R,,ISR,18.8,6-3 6-0,3,QF,,,,,,,,,,,,,,,,,,,,613,32,838,15
 2006-M-FU-GRE-01A-2006,Greece F1,Hard,32,S,20060501,26,104502,,,Amit Inbar,L,,ISR,21.2,103978,8,,Rabie Chaki,U,,MAR,24.0,6-2 7-6(4),3,QF,,,,,,,,,,,,,,,,,,,,728,21,715,22
-2006-M-FU-GRE-01A-2006,Greece F1,Hard,32,S,20060501,27,104623,4,,Josh Goodall,R,188,GBR,20.5,104295,5,,Raphael Durek,R,188,AUS,22.2,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,440,64
+2006-M-FU-GRE-01A-2006,Greece F1,Hard,32,S,20060501,27,104623,4,,Josh Goodall,R,188,GBR,20.5,104295,5,,Raphael Durek,R,188,AUS,22.2,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,428,67,440,64
 2006-M-FU-GRE-01A-2006,Greece F1,Hard,32,S,20060501,28,104389,6,,Ishay Hadash,R,,ISR,21.8,102945,2,,Luke Bourgeois,R,188,AUS,29.1,7-6(7) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,544,41,296,112
 2006-M-FU-GRE-01A-2006,Greece F1,Hard,32,S,20060501,29,104502,,,Amit Inbar,L,,ISR,21.2,103939,7,,Neil Bamford,U,,GBR,24.2,6-2 7-5,3,SF,,,,,,,,,,,,,,,,,,,,728,21,613,32
-2006-M-FU-GRE-01A-2006,Greece F1,Hard,32,S,20060501,30,104389,6,,Ishay Hadash,R,,ISR,21.8,104623,4,,Josh Goodall,R,188,GBR,20.5,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,544,41,,
+2006-M-FU-GRE-01A-2006,Greece F1,Hard,32,S,20060501,30,104389,6,,Ishay Hadash,R,,ISR,21.8,104623,4,,Josh Goodall,R,188,GBR,20.5,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,544,41,428,67
 2006-M-FU-GRE-01A-2006,Greece F1,Hard,32,S,20060501,31,104502,,,Amit Inbar,L,,ISR,21.2,104389,6,,Ishay Hadash,R,,ISR,21.8,2-6 6-2 6-2,3,F,,,,,,,,,,,,,,,,,,,,728,21,544,41
 2006-M-FU-ITA-12A-2006,Italy F12,Clay,32,S,20060501,1,103848,1,,Agustin Tarantino,R,,ARG,24.6,104483,,,Gordan Peranec,U,,CRO,21.2,6-7(4) 6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,380,80,644,29
 2006-M-FU-ITA-12A-2006,Italy F12,Clay,32,S,20060501,2,104206,,,Alberto Giraudo,L,,ITA,22.8,111310,,Q,Ivan Stelko,R,,CRO,21.4,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,627,30,,
@@ -4938,7 +4938,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-GRE-02A-2006,Greece F2,Hard,32,S,20060508,2,103891,,WC,Alexandros Jakupovic,R,,GRE,24.3,103795,,,James May,U,,GBR,24.8,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,972,9,731,21
 2006-M-FU-GRE-02A-2006,Greece F2,Hard,32,S,20060508,3,103939,,,Neil Bamford,U,,GBR,24.2,118238,,WC,Nikos Serkedakis,U,,GRE,23.6,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,614,32,,
 2006-M-FU-GRE-02A-2006,Greece F2,Hard,32,S,20060508,4,104295,5,,Raphael Durek,R,188,AUS,22.2,117501,,Q,Alexandros Siderakos,U,,GRE,24.3,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,443,64,,
-2006-M-FU-GRE-02A-2006,Greece F2,Hard,32,S,20060508,5,104623,4,,Josh Goodall,R,188,GBR,20.5,104827,,Q,Remko De Rijke,R,,NED,19.5,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1140,5
+2006-M-FU-GRE-02A-2006,Greece F2,Hard,32,S,20060508,5,104623,4,,Josh Goodall,R,188,GBR,20.5,104827,,Q,Remko De Rijke,R,,NED,19.5,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,427,67,1140,5
 2006-M-FU-GRE-02A-2006,Greece F2,Hard,32,S,20060508,6,104577,,,Richard Irwin,R,,GBR,20.8,119998,,LL,Alex Platevoet,U,,BEL,20.1,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,764,19,,
 2006-M-FU-GRE-02A-2006,Greece F2,Hard,32,S,20060508,7,111537,,Q,Stephen Moros,U,,USA,25.2,119625,,Q,Alexy Tsyrenov,R,,RUS,19.2,1-6 6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1356,2,1522,1
 2006-M-FU-GRE-02A-2006,Greece F2,Hard,32,S,20060508,8,103730,6,,Jonathan Marray,R,183,GBR,25.1,119694,,Q,Omri Hasin,U,,ISR,19.1,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,477,55,1257,3
@@ -4952,14 +4952,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-GRE-02A-2006,Greece F2,Hard,32,S,20060508,16,102945,2,,Luke Bourgeois,R,188,AUS,29.1,119500,,Q,Yoav Schab,R,,ISR,21.3,6-1 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,298,112,1522,1
 2006-M-FU-GRE-02A-2006,Greece F2,Hard,32,S,20060508,17,104779,1,,Jamie Baker,R,183,GBR,19.7,103891,,WC,Alexandros Jakupovic,R,,GRE,24.3,7-6(7) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,309,108,972,9
 2006-M-FU-GRE-02A-2006,Greece F2,Hard,32,S,20060508,18,104295,5,,Raphael Durek,R,188,AUS,22.2,103939,,,Neil Bamford,U,,GBR,24.2,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,443,64,614,32
-2006-M-FU-GRE-02A-2006,Greece F2,Hard,32,S,20060508,19,104623,4,,Josh Goodall,R,188,GBR,20.5,104577,,,Richard Irwin,R,,GBR,20.8,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,764,19
+2006-M-FU-GRE-02A-2006,Greece F2,Hard,32,S,20060508,19,104623,4,,Josh Goodall,R,188,GBR,20.5,104577,,,Richard Irwin,R,,GBR,20.8,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,427,67,764,19
 2006-M-FU-GRE-02A-2006,Greece F2,Hard,32,S,20060508,20,103730,6,,Jonathan Marray,R,183,GBR,25.1,111537,,Q,Stephen Moros,U,,USA,25.2,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,477,55,1356,2
 2006-M-FU-GRE-02A-2006,Greece F2,Hard,32,S,20060508,21,102629,,,Oscar Burrieza,R,170,ESP,30.7,104587,,Q,Claudio Grassi,U,,ITA,20.7,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,649,28,1309,3
 2006-M-FU-GRE-02A-2006,Greece F2,Hard,32,S,20060508,22,104885,,,Philipp Piyamongkol,U,,GER,19.1,104470,3,,Komlavi Loglo,R,183,TOG,21.3,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,896,13,399,76
 2006-M-FU-GRE-02A-2006,Greece F2,Hard,32,S,20060508,23,104684,,,Navdeep Singh,R,,IND,20.2,119652,,WC,Dimitrios Loucareas,U,,GRE,18.8,6-4 5-2 RET,3,R16,,,,,,,,,,,,,,,,,,,,721,21,,
 2006-M-FU-GRE-02A-2006,Greece F2,Hard,32,S,20060508,24,103859,,,James Cerretani,L,185,USA,24.5,102945,2,,Luke Bourgeois,R,188,AUS,29.1,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,844,15,298,112
 2006-M-FU-GRE-02A-2006,Greece F2,Hard,32,S,20060508,25,104295,5,,Raphael Durek,R,188,AUS,22.2,104779,1,,Jamie Baker,R,183,GBR,19.7,4-6 7-6(4) 7-5,3,QF,,,,,,,,,,,,,,,,,,,,443,64,309,108
-2006-M-FU-GRE-02A-2006,Greece F2,Hard,32,S,20060508,26,103730,6,,Jonathan Marray,R,183,GBR,25.1,104623,4,,Josh Goodall,R,188,GBR,20.5,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,477,55,,
+2006-M-FU-GRE-02A-2006,Greece F2,Hard,32,S,20060508,26,103730,6,,Jonathan Marray,R,183,GBR,25.1,104623,4,,Josh Goodall,R,188,GBR,20.5,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,477,55,427,67
 2006-M-FU-GRE-02A-2006,Greece F2,Hard,32,S,20060508,27,102629,,,Oscar Burrieza,R,170,ESP,30.7,104885,,,Philipp Piyamongkol,U,,GER,19.1,4-6 6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,649,28,896,13
 2006-M-FU-GRE-02A-2006,Greece F2,Hard,32,S,20060508,28,103859,,,James Cerretani,L,185,USA,24.5,104684,,,Navdeep Singh,R,,IND,20.2,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,844,15,721,21
 2006-M-FU-GRE-02A-2006,Greece F2,Hard,32,S,20060508,29,103730,6,,Jonathan Marray,R,183,GBR,25.1,104295,5,,Raphael Durek,R,188,AUS,22.2,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,477,55,443,64
@@ -5402,7 +5402,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-GRE-03A-2006,Greece F3,Hard,32,S,20060515,9,104389,5,,Ishay Hadash,R,,ISR,21.8,104964,,,Victor Kolik,R,,ISR,18.8,4-6 7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,512,49,798,17
 2006-M-FU-GRE-03A-2006,Greece F3,Hard,32,S,20060515,10,118941,,WC,Zacharias Katsigiannakis,L,,GRE,19.7,119694,,,Omri Hasin,U,,ISR,19.2,3-6 7-6(5) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1362,2,1212,4
 2006-M-FU-GRE-03A-2006,Greece F3,Hard,32,S,20060515,11,103859,,,James Cerretani,L,185,USA,24.6,119500,,Q,Yoav Schab,R,,ISR,21.3,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,842,15,1511,1
-2006-M-FU-GRE-03A-2006,Greece F3,Hard,32,S,20060515,12,104623,3,,Josh Goodall,R,188,GBR,20.5,103891,,,Alexandros Jakupovic,R,,GRE,24.4,6-3 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,,,1003,8
+2006-M-FU-GRE-03A-2006,Greece F3,Hard,32,S,20060515,12,104623,3,,Josh Goodall,R,188,GBR,20.5,103891,,,Alexandros Jakupovic,R,,GRE,24.4,6-3 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,414,71,1003,8
 2006-M-FU-GRE-03A-2006,Greece F3,Hard,32,S,20060515,13,104502,8,,Amit Inbar,L,,ISR,21.2,117503,,WC,Aristotelis Mouratoglou,L,,GRE,21.8,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,599,33,1362,2
 2006-M-FU-GRE-03A-2006,Greece F3,Hard,32,S,20060515,14,104885,,,Philipp Piyamongkol,U,,GER,19.1,104059,,,Rasmus Norby,R,183,DEN,23.6,7-6(6) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,910,12,856,14
 2006-M-FU-GRE-03A-2006,Greece F3,Hard,32,S,20060515,15,119625,,Q,Alexy Tsyrenov,R,,RUS,19.2,119652,,WC,Dimitrios Loucareas,U,,GRE,18.8,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1511,1,,
@@ -5412,16 +5412,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-GRE-03A-2006,Greece F3,Hard,32,S,20060515,19,104726,,Q,Davor Kuseta,R,,CRO,20.0,104804,,,Amir Weintraub,R,188,ISR,19.6,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1417,2,820,16
 2006-M-FU-GRE-03A-2006,Greece F3,Hard,32,S,20060515,20,103939,6,,Neil Bamford,U,,GBR,24.2,103795,,,James May,U,,GBR,24.9,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,577,36,727,21
 2006-M-FU-GRE-03A-2006,Greece F3,Hard,32,S,20060515,21,104389,5,,Ishay Hadash,R,,ISR,21.8,118941,,WC,Zacharias Katsigiannakis,L,,GRE,19.7,5-2 RET,3,R16,,,,,,,,,,,,,,,,,,,,512,49,1362,2
-2006-M-FU-GRE-03A-2006,Greece F3,Hard,32,S,20060515,22,104623,3,,Josh Goodall,R,188,GBR,20.5,103859,,,James Cerretani,L,185,USA,24.6,6-0 7-6(7),3,R16,,,,,,,,,,,,,,,,,,,,,,842,15
+2006-M-FU-GRE-03A-2006,Greece F3,Hard,32,S,20060515,22,104623,3,,Josh Goodall,R,188,GBR,20.5,103859,,,James Cerretani,L,185,USA,24.6,6-0 7-6(7),3,R16,,,,,,,,,,,,,,,,,,,,414,71,842,15
 2006-M-FU-GRE-03A-2006,Greece F3,Hard,32,S,20060515,23,104885,,,Philipp Piyamongkol,U,,GER,19.1,104502,8,,Amit Inbar,L,,ISR,21.2,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,910,12,599,33
 2006-M-FU-GRE-03A-2006,Greece F3,Hard,32,S,20060515,24,104470,2,,Komlavi Loglo,R,183,TOG,21.3,119625,,Q,Alexy Tsyrenov,R,,RUS,19.2,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,392,77,1511,1
 2006-M-FU-GRE-03A-2006,Greece F3,Hard,32,S,20060515,25,104779,1,,Jamie Baker,R,183,GBR,19.7,102629,7,,Oscar Burrieza,R,170,ESP,30.8,6-1 2-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,307,108,645,28
 2006-M-FU-GRE-03A-2006,Greece F3,Hard,32,S,20060515,26,103939,6,,Neil Bamford,U,,GBR,24.2,104726,,Q,Davor Kuseta,R,,CRO,20.0,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,577,36,1417,2
-2006-M-FU-GRE-03A-2006,Greece F3,Hard,32,S,20060515,27,104623,3,,Josh Goodall,R,188,GBR,20.5,104389,5,,Ishay Hadash,R,,ISR,21.8,7-6(3) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,,,512,49
+2006-M-FU-GRE-03A-2006,Greece F3,Hard,32,S,20060515,27,104623,3,,Josh Goodall,R,188,GBR,20.5,104389,5,,Ishay Hadash,R,,ISR,21.8,7-6(3) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,414,71,512,49
 2006-M-FU-GRE-03A-2006,Greece F3,Hard,32,S,20060515,28,104470,2,,Komlavi Loglo,R,183,TOG,21.3,104885,,,Philipp Piyamongkol,U,,GER,19.1,6-4 6-0,3,QF,,,,,,,,,,,,,,,,,,,,392,77,910,12
 2006-M-FU-GRE-03A-2006,Greece F3,Hard,32,S,20060515,29,104779,1,,Jamie Baker,R,183,GBR,19.7,103939,6,,Neil Bamford,U,,GBR,24.2,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,307,108,577,36
-2006-M-FU-GRE-03A-2006,Greece F3,Hard,32,S,20060515,30,104623,3,,Josh Goodall,R,188,GBR,20.5,104470,2,,Komlavi Loglo,R,183,TOG,21.3,6-1 6-3,3,SF,,,,,,,,,,,,,,,,,,,,,,392,77
-2006-M-FU-GRE-03A-2006,Greece F3,Hard,32,S,20060515,31,104779,1,,Jamie Baker,R,183,GBR,19.7,104623,3,,Josh Goodall,R,188,GBR,20.5,6-3 6-3,3,F,,,,,,,,,,,,,,,,,,,,307,108,,
+2006-M-FU-GRE-03A-2006,Greece F3,Hard,32,S,20060515,30,104623,3,,Josh Goodall,R,188,GBR,20.5,104470,2,,Komlavi Loglo,R,183,TOG,21.3,6-1 6-3,3,SF,,,,,,,,,,,,,,,,,,,,414,71,392,77
+2006-M-FU-GRE-03A-2006,Greece F3,Hard,32,S,20060515,31,104779,1,,Jamie Baker,R,183,GBR,19.7,104623,3,,Josh Goodall,R,188,GBR,20.5,6-3 6-3,3,F,,,,,,,,,,,,,,,,,,,,307,108,414,71
 2006-M-FU-ITA-14A-2006,Italy F14,Clay,32,S,20060515,1,104619,1,WC,Jesse Huta Galung,R,188,NED,20.6,103261,,LL,Andrea Serra,U,,ITA,27.6,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,324,99,1259,3
 2006-M-FU-ITA-14A-2006,Italy F14,Clay,32,S,20060515,2,103611,,,Giancarlo Petrazzuolo,R,,ITA,25.7,104162,,,Deniss Pavlovs,R,,LAT,23.0,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,492,52,712,22
 2006-M-FU-ITA-14A-2006,Italy F14,Clay,32,S,20060515,3,104466,,,Robert Haybittel,R,,AUS,21.3,119739,,Q,Luigi Esposito,U,,ITA,20.1,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,977,9,1511,1
@@ -6911,7 +6911,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-BLR-01A-2006,Belarus F1,Clay,32,S,20060612,7,105016,,WC,Serguei Tarasevitch,R,,BLR,18.7,104628,,,Alexander Kudryavtsev,R,183,RUS,20.6,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1273,3,681,25
 2006-M-FU-BLR-01A-2006,Belarus F1,Clay,32,S,20060612,8,104505,6,,Konstantin Kravchuk,R,190,RUS,21.2,105085,,Q,Artem Smirnov,U,188,UKR,18.3,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,619,32,1273,3
 2006-M-FU-BLR-01A-2006,Belarus F1,Clay,32,S,20060612,9,105011,,,Illya Marchenko,R,185,UKR,18.7,104873,5,,Aleksandr Nedovyesov,R,193,KAZ,19.3,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1031,7,544,42
-2006-M-FU-BLR-01A-2006,Belarus F1,Clay,32,S,20060612,10,103863,,,Mikhail Elgin,R,183,RUS,24.6,103272,,,Alexander Yarmola,R,,UKR,27.6,2-6 7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,711,23
+2006-M-FU-BLR-01A-2006,Belarus F1,Clay,32,S,20060612,10,103863,,,Mikhail Elgin,R,183,RUS,24.6,103272,,,Alexander Yarmola,R,,UKR,27.6,2-6 7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,947,10,711,23
 2006-M-FU-BLR-01A-2006,Belarus F1,Clay,32,S,20060612,11,118296,,LL,Kirill Krioukov,U,,RUS,24.2,101871,,,Alexander Reichel,R,193,USA,35.2,7-6(5) 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1273,3,940,10
 2006-M-FU-BLR-01A-2006,Belarus F1,Clay,32,S,20060612,12,104105,3,,Pavel Ivanov,R,193,RUS,23.4,118269,,Q,Timur Lomtatidze,U,,RUS,23.2,3-6 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,430,64,,
 2006-M-FU-BLR-01A-2006,Belarus F1,Clay,32,S,20060612,13,105238,8,,Alexandr Dolgopolov,R,180,UKR,17.5,105062,,,Mikhail Kukushkin,R,183,KAZ,18.4,6-1 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,553,40,1233,4
@@ -6922,16 +6922,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-BLR-01A-2006,Belarus F1,Clay,32,S,20060612,18,105103,,WC,Pavel Katliarov,R,,BLR,18.3,119040,,Q,Mikhail Ptukhin,R,,RUS,20.2,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1517,1,1415,2
 2006-M-FU-BLR-01A-2006,Belarus F1,Clay,32,S,20060612,19,104884,,,Vladislav Bondarenko,R,,UKR,19.2,103222,,,Sergei Krotiouk,R,,RUS,27.9,6-7(2) 6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,872,13,1082,6
 2006-M-FU-BLR-01A-2006,Belarus F1,Clay,32,S,20060612,20,105016,,WC,Serguei Tarasevitch,R,,BLR,18.7,104505,6,,Konstantin Kravchuk,R,190,RUS,21.2,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1273,3,619,32
-2006-M-FU-BLR-01A-2006,Belarus F1,Clay,32,S,20060612,21,103863,,,Mikhail Elgin,R,183,RUS,24.6,105011,,,Illya Marchenko,R,185,UKR,18.7,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,1031,7
+2006-M-FU-BLR-01A-2006,Belarus F1,Clay,32,S,20060612,21,103863,,,Mikhail Elgin,R,183,RUS,24.6,105011,,,Illya Marchenko,R,185,UKR,18.7,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,947,10,1031,7
 2006-M-FU-BLR-01A-2006,Belarus F1,Clay,32,S,20060612,22,104105,3,,Pavel Ivanov,R,193,RUS,23.4,118296,,LL,Kirill Krioukov,U,,RUS,24.2,7-6(1) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,430,64,1273,3
 2006-M-FU-BLR-01A-2006,Belarus F1,Clay,32,S,20060612,23,105238,8,,Alexandr Dolgopolov,R,180,UKR,17.5,104311,,,Leonardo Tavares,R,185,POR,22.3,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,553,40,1018,8
 2006-M-FU-BLR-01A-2006,Belarus F1,Clay,32,S,20060612,24,103641,2,,Cesar Ferrer Victoria,L,,ESP,25.6,104880,,Q,Egor Puntus,R,,BLR,19.2,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,445,61,,
 2006-M-FU-BLR-01A-2006,Belarus F1,Clay,32,S,20060612,25,105103,,WC,Pavel Katliarov,R,,BLR,18.3,111489,,,Alexander Krasnorutskiy,R,,RUS,18.9,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,1517,1,,
 2006-M-FU-BLR-01A-2006,Belarus F1,Clay,32,S,20060612,26,104884,,,Vladislav Bondarenko,R,,UKR,19.2,105016,,WC,Serguei Tarasevitch,R,,BLR,18.7,6-3 2-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,872,13,1273,3
-2006-M-FU-BLR-01A-2006,Belarus F1,Clay,32,S,20060612,27,103863,,,Mikhail Elgin,R,183,RUS,24.6,104105,3,,Pavel Ivanov,R,193,RUS,23.4,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,430,64
+2006-M-FU-BLR-01A-2006,Belarus F1,Clay,32,S,20060612,27,103863,,,Mikhail Elgin,R,183,RUS,24.6,104105,3,,Pavel Ivanov,R,193,RUS,23.4,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,947,10,430,64
 2006-M-FU-BLR-01A-2006,Belarus F1,Clay,32,S,20060612,28,105238,8,,Alexandr Dolgopolov,R,180,UKR,17.5,103641,2,,Cesar Ferrer Victoria,L,,ESP,25.6,6-4 7-6(3),3,QF,,,,,,,,,,,,,,,,,,,,553,40,445,61
 2006-M-FU-BLR-01A-2006,Belarus F1,Clay,32,S,20060612,29,104884,,,Vladislav Bondarenko,R,,UKR,19.2,105103,,WC,Pavel Katliarov,R,,BLR,18.3,6-4 6-0,3,SF,,,,,,,,,,,,,,,,,,,,872,13,1517,1
-2006-M-FU-BLR-01A-2006,Belarus F1,Clay,32,S,20060612,30,105238,8,,Alexandr Dolgopolov,R,180,UKR,17.5,103863,,,Mikhail Elgin,R,183,RUS,24.6,6-2 6-7(3) 7-5,3,SF,,,,,,,,,,,,,,,,,,,,553,40,,
+2006-M-FU-BLR-01A-2006,Belarus F1,Clay,32,S,20060612,30,105238,8,,Alexandr Dolgopolov,R,180,UKR,17.5,103863,,,Mikhail Elgin,R,183,RUS,24.6,6-2 6-7(3) 7-5,3,SF,,,,,,,,,,,,,,,,,,,,553,40,947,10
 2006-M-FU-BLR-01A-2006,Belarus F1,Clay,32,S,20060612,31,105238,8,,Alexandr Dolgopolov,R,180,UKR,17.5,104884,,,Vladislav Bondarenko,R,,UKR,19.2,6-2 7-5,3,F,,,,,,,,,,,,,,,,,,,,553,40,872,13
 2006-M-FU-BRA-05A-2006,Brazil F5,Clay,32,S,20060612,1,105053,1,,Santiago Giraldo,R,188,COL,18.5,109254,,,Rodrigo Antonio Grilli,R,,BRA,26.5,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,302,108,,
 2006-M-FU-BRA-05A-2006,Brazil F5,Clay,32,S,20060612,2,104442,,Q,Alexandre Bonatto,R,,BRA,21.6,109068,,WC,Bruno Calabro,R,,BRA,19.4,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,699,24,1517,1
@@ -7376,7 +7376,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-BLR-02A-2006,Belarus F2,Hard,32,S,20060619,7,104880,,Q,Egor Puntus,R,,BLR,19.3,104884,,,Vladislav Bondarenko,R,,UKR,19.2,6-3 2-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,908,11
 2006-M-FU-BLR-02A-2006,Belarus F2,Hard,32,S,20060619,8,111489,7,,Alexander Krasnorutskiy,R,,RUS,19.0,105029,,WC,Sergey Betov,R,185,BLR,18.6,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1520,1
 2006-M-FU-BLR-02A-2006,Belarus F2,Hard,32,S,20060619,9,104628,5,,Alexander Kudryavtsev,R,183,RUS,20.6,120140,,Q,Georgy Morgoev,U,,RUS,17.9,6-4 6-7(7) 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,684,25,,
-2006-M-FU-BLR-02A-2006,Belarus F2,Hard,32,S,20060619,10,103863,,,Mikhail Elgin,R,183,RUS,24.6,119864,,,Ernest Zurabian,U,,UKR,22.4,7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1207,4
+2006-M-FU-BLR-02A-2006,Belarus F2,Hard,32,S,20060619,10,103863,,,Mikhail Elgin,R,183,RUS,24.6,119864,,,Ernest Zurabian,U,,UKR,22.4,7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,893,12,1207,4
 2006-M-FU-BLR-02A-2006,Belarus F2,Hard,32,S,20060619,11,103222,,,Sergei Krotiouk,R,,RUS,27.9,103776,,Q,Alexei Filenkov,R,,RUS,25.0,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1038,7,1163,5
 2006-M-FU-BLR-02A-2006,Belarus F2,Hard,32,S,20060619,12,104505,4,,Konstantin Kravchuk,R,190,RUS,21.3,104311,,,Leonardo Tavares,R,185,POR,22.3,6-2 2-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,621,32,1011,8
 2006-M-FU-BLR-02A-2006,Belarus F2,Hard,32,S,20060619,13,105011,,,Illya Marchenko,R,185,UKR,18.7,103272,6,,Alexander Yarmola,R,,UKR,27.7,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,962,9,685,25
@@ -7387,16 +7387,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-BLR-02A-2006,Belarus F2,Hard,32,S,20060619,18,104920,8,,Denys Molchanov,R,190,UKR,19.0,105103,,SE,Pavel Katliarov,R,,BLR,18.3,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,832,15,1273,3
 2006-M-FU-BLR-02A-2006,Belarus F2,Hard,32,S,20060619,19,104873,3,,Aleksandr Nedovyesov,R,193,KAZ,19.3,105016,,WC,Serguei Tarasevitch,R,,BLR,18.7,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,547,42,1273,3
 2006-M-FU-BLR-02A-2006,Belarus F2,Hard,32,S,20060619,20,104880,,Q,Egor Puntus,R,,BLR,19.3,111489,7,,Alexander Krasnorutskiy,R,,RUS,19.0,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,,
-2006-M-FU-BLR-02A-2006,Belarus F2,Hard,32,S,20060619,21,103863,,,Mikhail Elgin,R,183,RUS,24.6,104628,5,,Alexander Kudryavtsev,R,183,RUS,20.6,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,684,25
+2006-M-FU-BLR-02A-2006,Belarus F2,Hard,32,S,20060619,21,103863,,,Mikhail Elgin,R,183,RUS,24.6,104628,5,,Alexander Kudryavtsev,R,183,RUS,20.6,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,893,12,684,25
 2006-M-FU-BLR-02A-2006,Belarus F2,Hard,32,S,20060619,22,104505,4,,Konstantin Kravchuk,R,190,RUS,21.3,103222,,,Sergei Krotiouk,R,,RUS,27.9,6-7(2) 6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,621,32,1038,7
 2006-M-FU-BLR-02A-2006,Belarus F2,Hard,32,S,20060619,23,105011,,,Illya Marchenko,R,185,UKR,18.7,105062,,,Mikhail Kukushkin,R,183,KAZ,18.4,7-6(6) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,962,9,1235,4
 2006-M-FU-BLR-02A-2006,Belarus F2,Hard,32,S,20060619,24,103641,2,,Cesar Ferrer Victoria,L,,ESP,25.6,119248,,LL,Dmitry Ivanov,R,,UZB,18.4,6-1 1-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,447,61,,
 2006-M-FU-BLR-02A-2006,Belarus F2,Hard,32,S,20060619,25,104215,,,Andrei Gorban,U,,MDA,22.9,104920,8,,Denys Molchanov,R,190,UKR,19.0,6-3 3-2 RET,3,QF,,,,,,,,,,,,,,,,,,,,868,13,832,15
 2006-M-FU-BLR-02A-2006,Belarus F2,Hard,32,S,20060619,26,104880,,Q,Egor Puntus,R,,BLR,19.3,104873,3,,Aleksandr Nedovyesov,R,193,KAZ,19.3,6-3 4-6 7-6(2),3,QF,,,,,,,,,,,,,,,,,,,,,,547,42
-2006-M-FU-BLR-02A-2006,Belarus F2,Hard,32,S,20060619,27,103863,,,Mikhail Elgin,R,183,RUS,24.6,104505,4,,Konstantin Kravchuk,R,190,RUS,21.3,7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,,,621,32
+2006-M-FU-BLR-02A-2006,Belarus F2,Hard,32,S,20060619,27,103863,,,Mikhail Elgin,R,183,RUS,24.6,104505,4,,Konstantin Kravchuk,R,190,RUS,21.3,7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,893,12,621,32
 2006-M-FU-BLR-02A-2006,Belarus F2,Hard,32,S,20060619,28,103641,2,,Cesar Ferrer Victoria,L,,ESP,25.6,105011,,,Illya Marchenko,R,185,UKR,18.7,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,447,61,962,9
 2006-M-FU-BLR-02A-2006,Belarus F2,Hard,32,S,20060619,29,104215,,,Andrei Gorban,U,,MDA,22.9,104880,,Q,Egor Puntus,R,,BLR,19.3,3-6 6-3 7-6(2),3,SF,,,,,,,,,,,,,,,,,,,,868,13,,
-2006-M-FU-BLR-02A-2006,Belarus F2,Hard,32,S,20060619,30,103641,2,,Cesar Ferrer Victoria,L,,ESP,25.6,103863,,,Mikhail Elgin,R,183,RUS,24.6,6-3 6-1,3,SF,,,,,,,,,,,,,,,,,,,,447,61,,
+2006-M-FU-BLR-02A-2006,Belarus F2,Hard,32,S,20060619,30,103641,2,,Cesar Ferrer Victoria,L,,ESP,25.6,103863,,,Mikhail Elgin,R,183,RUS,24.6,6-3 6-1,3,SF,,,,,,,,,,,,,,,,,,,,447,61,893,12
 2006-M-FU-BLR-02A-2006,Belarus F2,Hard,32,S,20060619,31,103641,2,,Cesar Ferrer Victoria,L,,ESP,25.6,104215,,,Andrei Gorban,U,,MDA,22.9,6-2 6-4,3,F,,,,,,,,,,,,,,,,,,,,447,61,868,13
 2006-M-FU-BRA-06A-2006,Brazil F6,Clay,32,S,20060619,1,105053,1,,Santiago Giraldo,R,188,COL,18.5,108949,,Q,Jose Zunino,R,,ECU,19.3,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,297,112,1327,3
 2006-M-FU-BRA-06A-2006,Brazil F6,Clay,32,S,20060619,2,104621,,,Juan Manuel Valverde,R,,ARG,20.6,104608,,,Rodrigo Guidolin,R,,BRA,20.7,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,792,17,807,16
@@ -8610,7 +8610,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-GBR-09A-2006,Great Britain F9,Grass,32,S,20060710,1,103175,1,,Toshihide Matsui,R,180,JPN,28.2,104692,,,Alexander Slabinsky,R,185,GBR,20.3,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,272,131,575,39
 2006-M-FU-GBR-09A-2006,Great Britain F9,Grass,32,S,20060710,2,104644,,,Riccardo Ghedin,R,188,ITA,20.5,104355,,,Lester Cook,R,180,USA,22.2,6-2 6-7(4) 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,553,42,563,41
 2006-M-FU-GBR-09A-2006,Great Britain F9,Grass,32,S,20060710,3,104747,,,Tom Rushby,R,,GBR,20.0,105157,,Q,Patrick Eichenberger,L,,SUI,18.1,6-7(5) 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,885,13,1433,2
-2006-M-FU-GBR-09A-2006,Great Britain F9,Grass,32,S,20060710,4,104623,6,,Josh Goodall,R,188,GBR,20.7,104498,,Q,Timothy Bradshaw,U,,GBR,21.4,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2006-M-FU-GBR-09A-2006,Great Britain F9,Grass,32,S,20060710,4,104623,6,,Josh Goodall,R,188,GBR,20.7,104498,,Q,Timothy Bradshaw,U,,GBR,21.4,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,348,90,,
 2006-M-FU-GBR-09A-2006,Great Britain F9,Grass,32,S,20060710,5,104233,4,Q,Frederik Nielsen,R,190,DEN,22.8,103913,,,Ian Flanagan,U,,GBR,24.4,4-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,313,107,669,26
 2006-M-FU-GBR-09A-2006,Great Britain F9,Grass,32,S,20060710,6,104368,,,Daniel King Turner,R,190,NZL,22.1,103859,,,James Cerretani,L,185,USA,24.7,6-4 6-7(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,627,31,639,30
 2006-M-FU-GBR-09A-2006,Great Britain F9,Grass,32,S,20060710,7,104577,,,Richard Irwin,R,,GBR,20.9,104587,,,Claudio Grassi,U,,ITA,20.9,3-6 7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,767,19,925,11
@@ -8624,20 +8624,20 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-GBR-09A-2006,Great Britain F9,Grass,32,S,20060710,15,104161,,Q,Tomislav Peric,R,,CRO,23.2,105257,,Q,David Rice,R,,GBR,17.5,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,869,13,,
 2006-M-FU-GBR-09A-2006,Great Britain F9,Grass,32,S,20060710,16,102945,2,,Luke Bourgeois,R,188,AUS,29.3,104168,,,Enrico Iannuzzi,R,,ITA,23.2,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,281,124,673,26
 2006-M-FU-GBR-09A-2006,Great Britain F9,Grass,32,S,20060710,17,104644,,,Riccardo Ghedin,R,188,ITA,20.5,103175,1,,Toshihide Matsui,R,180,JPN,28.2,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,553,42,272,131
-2006-M-FU-GBR-09A-2006,Great Britain F9,Grass,32,S,20060710,18,104623,6,,Josh Goodall,R,188,GBR,20.7,104747,,,Tom Rushby,R,,GBR,20.0,3-6 6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,885,13
+2006-M-FU-GBR-09A-2006,Great Britain F9,Grass,32,S,20060710,18,104623,6,,Josh Goodall,R,188,GBR,20.7,104747,,,Tom Rushby,R,,GBR,20.0,3-6 6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,348,90,885,13
 2006-M-FU-GBR-09A-2006,Great Britain F9,Grass,32,S,20060710,19,104233,4,Q,Frederik Nielsen,R,190,DEN,22.8,104368,,,Daniel King Turner,R,190,NZL,22.1,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,313,107,627,31
 2006-M-FU-GBR-09A-2006,Great Britain F9,Grass,32,S,20060710,20,104415,7,Q,Colin Fleming,R,188,GBR,21.9,104577,,,Richard Irwin,R,,GBR,20.9,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,379,80,767,19
 2006-M-FU-GBR-09A-2006,Great Britain F9,Grass,32,S,20060710,21,103939,,,Neil Bamford,U,,GBR,24.4,105021,,,Andrew Coelho,L,180,AUS,18.7,2-6 6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,577,38,525,47
 2006-M-FU-GBR-09A-2006,Great Britain F9,Grass,32,S,20060710,22,104418,3,,Matthew Smith,R,,GBR,21.8,111717,,Q,Richard Wire,U,,GBR,19.2,6-3 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,340,95,1182,4
 2006-M-FU-GBR-09A-2006,Great Britain F9,Grass,32,S,20060710,23,104954,,,Andrew Kennaugh,U,,GBR,19.0,103468,5,,Harsh Mankad,R,173,IND,26.6,6-4 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,780,18,391,77
 2006-M-FU-GBR-09A-2006,Great Britain F9,Grass,32,S,20060710,24,102945,2,,Luke Bourgeois,R,188,AUS,29.3,104161,,Q,Tomislav Peric,R,,CRO,23.2,7-6(3) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,281,124,869,13
-2006-M-FU-GBR-09A-2006,Great Britain F9,Grass,32,S,20060710,25,104623,6,,Josh Goodall,R,188,GBR,20.7,104644,,,Riccardo Ghedin,R,188,ITA,20.5,7-5 6-7(5) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,553,42
+2006-M-FU-GBR-09A-2006,Great Britain F9,Grass,32,S,20060710,25,104623,6,,Josh Goodall,R,188,GBR,20.7,104644,,,Riccardo Ghedin,R,188,ITA,20.5,7-5 6-7(5) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,348,90,553,42
 2006-M-FU-GBR-09A-2006,Great Britain F9,Grass,32,S,20060710,26,104415,7,Q,Colin Fleming,R,188,GBR,21.9,104233,4,Q,Frederik Nielsen,R,190,DEN,22.8,6-2 7-6(8),3,QF,,,,,,,,,,,,,,,,,,,,379,80,313,107
 2006-M-FU-GBR-09A-2006,Great Britain F9,Grass,32,S,20060710,27,103939,,,Neil Bamford,U,,GBR,24.4,104418,3,,Matthew Smith,R,,GBR,21.8,7-6(5) 3-6 7-5,3,QF,,,,,,,,,,,,,,,,,,,,577,38,340,95
 2006-M-FU-GBR-09A-2006,Great Britain F9,Grass,32,S,20060710,28,102945,2,,Luke Bourgeois,R,188,AUS,29.3,104954,,,Andrew Kennaugh,U,,GBR,19.0,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,281,124,780,18
-2006-M-FU-GBR-09A-2006,Great Britain F9,Grass,32,S,20060710,29,104623,6,,Josh Goodall,R,188,GBR,20.7,104415,7,Q,Colin Fleming,R,188,GBR,21.9,5-7 7-5 6-2,3,SF,,,,,,,,,,,,,,,,,,,,,,379,80
+2006-M-FU-GBR-09A-2006,Great Britain F9,Grass,32,S,20060710,29,104623,6,,Josh Goodall,R,188,GBR,20.7,104415,7,Q,Colin Fleming,R,188,GBR,21.9,5-7 7-5 6-2,3,SF,,,,,,,,,,,,,,,,,,,,348,90,379,80
 2006-M-FU-GBR-09A-2006,Great Britain F9,Grass,32,S,20060710,30,102945,2,,Luke Bourgeois,R,188,AUS,29.3,103939,,,Neil Bamford,U,,GBR,24.4,6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,281,124,577,38
-2006-M-FU-GBR-09A-2006,Great Britain F9,Grass,32,S,20060710,31,104623,6,,Josh Goodall,R,188,GBR,20.7,102945,2,,Luke Bourgeois,R,188,AUS,29.3,6-4 5-7 6-4,3,F,,,,,,,,,,,,,,,,,,,,,,281,124
+2006-M-FU-GBR-09A-2006,Great Britain F9,Grass,32,S,20060710,31,104623,6,,Josh Goodall,R,188,GBR,20.7,102945,2,,Luke Bourgeois,R,188,AUS,29.3,6-4 5-7 6-4,3,F,,,,,,,,,,,,,,,,,,,,348,90,281,124
 2006-M-FU-ITA-22A-2006,Italy F22,Clay,32,S,20060710,1,103437,1,,Francesco Piccari,R,,ITA,26.8,103772,,,Matteo Galli,U,,ITA,25.1,6-7(6) 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,449,60,625,31
 2006-M-FU-ITA-22A-2006,Italy F22,Clay,32,S,20060710,2,104521,,,Jacob Melskens,R,,DEN,21.3,104602,,,Andrea Falgheri,R,,ITA,20.8,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,799,17,843,15
 2006-M-FU-ITA-22A-2006,Italy F22,Clay,32,S,20060710,3,104473,,Q,Walter Trusendi,U,,ITA,21.5,104952,,Q,Martin Pedersen,R,,DEN,19.0,7-6(6) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1535,1
@@ -9529,7 +9529,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-GER-11A-2006,Germany F10,Clay,32,S,20060731,29,102512,8,,Joseph Sirianni,R,175,AUS,31.5,103775,6,,Felipe Parada,R,175,CHI,25.2,6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,447,64,443,66
 2006-M-FU-GER-11A-2006,Germany F10,Clay,32,S,20060731,30,103358,,,Nicolas Todero,R,183,ARG,27.2,104793,,,Nikita Kryvonos,R,,USA,19.9,4-6 7-5 6-1,3,SF,,,,,,,,,,,,,,,,,,,,536,46,513,50
 2006-M-FU-GER-11A-2006,Germany F10,Clay,32,S,20060731,31,102512,8,,Joseph Sirianni,R,175,AUS,31.5,103358,,,Nicolas Todero,R,183,ARG,27.2,4-6 6-4 7-6(2),3,F,,,,,,,,,,,,,,,,,,,,447,64,536,46
-2006-M-FU-GBR-11A-2006,Great Britain F11,Grass,32,S,20060731,1,104623,1,,Josh Goodall,R,188,GBR,20.7,104406,,,Naim Lalji,U,,GBR,22.0,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,902,12
+2006-M-FU-GBR-11A-2006,Great Britain F11,Grass,32,S,20060731,1,104623,1,,Josh Goodall,R,188,GBR,20.7,104406,,,Naim Lalji,U,,GBR,22.0,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,256,150,902,12
 2006-M-FU-GBR-11A-2006,Great Britain F11,Grass,32,S,20060731,2,103732,,,Phil Stolt,U,,USA,25.3,104368,,,Daniel King Turner,R,190,NZL,22.2,6-7(5) 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,670,27,514,50
 2006-M-FU-GBR-11A-2006,Great Britain F11,Grass,32,S,20060731,3,109221,,Q,Edward Allinson,U,,GBR,19.4,104692,,,Alexander Slabinsky,R,185,GBR,20.4,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,577,40
 2006-M-FU-GBR-11A-2006,Great Britain F11,Grass,32,S,20060731,4,104644,8,,Riccardo Ghedin,R,188,ITA,20.6,103795,,,James May,U,,GBR,25.1,6-2 4-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,515,50,795,18
@@ -9545,7 +9545,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-GBR-11A-2006,Great Britain F11,Grass,32,S,20060731,14,104747,,WC,Tom Rushby,R,,GBR,20.1,103880,,,Arnar Sigurdsson,U,,ISL,24.6,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,730,22,1008,8
 2006-M-FU-GBR-11A-2006,Great Britain F11,Grass,32,S,20060731,15,119889,,WC,Konstantinos Kalaitzis,R,,GRE,18.9,104504,,,Ross Hutchins,R,190,GBR,21.4,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1335,3,569,42
 2006-M-FU-GBR-11A-2006,Great Britain F11,Grass,32,S,20060731,16,103723,,,Julien Maes,R,,FRA,25.4,104418,2,,Matthew Smith,R,,GBR,21.9,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,538,46,347,97
-2006-M-FU-GBR-11A-2006,Great Britain F11,Grass,32,S,20060731,17,103732,,,Phil Stolt,U,,USA,25.3,104623,1,,Josh Goodall,R,188,GBR,20.7,6-3 3-6 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,670,27,,
+2006-M-FU-GBR-11A-2006,Great Britain F11,Grass,32,S,20060731,17,103732,,,Phil Stolt,U,,USA,25.3,104623,1,,Josh Goodall,R,188,GBR,20.7,6-3 3-6 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,670,27,256,150
 2006-M-FU-GBR-11A-2006,Great Britain F11,Grass,32,S,20060731,18,104644,8,,Riccardo Ghedin,R,188,ITA,20.6,109221,,Q,Edward Allinson,U,,GBR,19.4,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,515,50,,
 2006-M-FU-GBR-11A-2006,Great Britain F11,Grass,32,S,20060731,19,103820,3,,Alan Mackin,R,183,GBR,24.9,103953,,Q,Olivier Charroin,L,,FRA,24.3,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,362,92,1024,8
 2006-M-FU-GBR-11A-2006,Great Britain F11,Grass,32,S,20060731,20,104169,,Q,Kc Corkery,U,190,USA,23.2,105021,6,,Andrew Coelho,L,180,AUS,18.8,7-6(3) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1174,4,529,48
@@ -13949,7 +13949,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-GBR-16A-2006,Great Britain F16,Hard,32,S,20061016,9,105007,,,David Klier,R,,GER,19.1,103385,6,,Paul Baccanello,R,183,AUS,27.3,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,477,56,342,102
 2006-M-FU-GBR-16A-2006,Great Britain F16,Hard,32,S,20061016,10,104619,,,Jesse Huta Galung,R,188,NED,21.0,103929,,,Philipp Marx,R,188,GER,24.6,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,416,74,464,60
 2006-M-FU-GBR-16A-2006,Great Britain F16,Hard,32,S,20061016,11,104361,,Q,Michel Koning,R,,NED,22.4,104684,,LL,Navdeep Singh,R,,IND,20.6,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,768,19,689,26
-2006-M-FU-GBR-16A-2006,Great Britain F16,Hard,32,S,20061016,12,104623,4,,Josh Goodall,R,188,GBR,20.9,110488,,Q,Boris Obama,U,,FRA,18.6,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2006-M-FU-GBR-16A-2006,Great Britain F16,Hard,32,S,20061016,12,104623,4,,Josh Goodall,R,188,GBR,20.9,110488,,Q,Boris Obama,U,,FRA,18.6,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,256,155,,
 2006-M-FU-GBR-16A-2006,Great Britain F16,Hard,32,S,20061016,13,103851,,,Conor Niland,R,185,IRL,25.0,103611,7,,Giancarlo Petrazzuolo,R,,ITA,26.1,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,522,50,372,91
 2006-M-FU-GBR-16A-2006,Great Britain F16,Hard,32,S,20061016,14,104506,,Q,David Brewer,R,,GBR,21.6,104577,,Q,Richard Irwin,R,,GBR,21.2,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,900,12,876,13
 2006-M-FU-GBR-16A-2006,Great Britain F16,Hard,32,S,20061016,15,104747,,Q,Tom Rushby,R,,GBR,20.3,109463,,WC,Graeme Dyce,R,,GBR,17.2,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,654,29,,
@@ -13959,7 +13959,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-GBR-16A-2006,Great Britain F16,Hard,32,S,20061016,19,104171,3,,Richard Bloomfield,R,185,GBR,23.4,103939,,Q,Neil Bamford,U,,GBR,24.6,6-3 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,207,194,620,33
 2006-M-FU-GBR-16A-2006,Great Britain F16,Hard,32,S,20061016,20,103702,,,Stefano Ianni,R,,ITA,25.7,104979,8,,Andrey Golubev,R,185,KAZ,19.2,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,437,68,382,88
 2006-M-FU-GBR-16A-2006,Great Britain F16,Hard,32,S,20061016,21,105007,,,David Klier,R,,GER,19.1,104619,,,Jesse Huta Galung,R,188,NED,21.0,7-6(5) 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,477,56,416,74
-2006-M-FU-GBR-16A-2006,Great Britain F16,Hard,32,S,20061016,22,104361,,Q,Michel Koning,R,,NED,22.4,104623,4,,Josh Goodall,R,188,GBR,20.9,6-4 6-7(6) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,768,19,,
+2006-M-FU-GBR-16A-2006,Great Britain F16,Hard,32,S,20061016,22,104361,,Q,Michel Koning,R,,NED,22.4,104623,4,,Josh Goodall,R,188,GBR,20.9,6-4 6-7(6) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,768,19,256,155
 2006-M-FU-GBR-16A-2006,Great Britain F16,Hard,32,S,20061016,23,103851,,,Conor Niland,R,185,IRL,25.0,104506,,Q,David Brewer,R,,GBR,21.6,6-4 5-7 6-3,3,R16,,,,,,,,,,,,,,,,,,,,522,50,900,12
 2006-M-FU-GBR-16A-2006,Great Britain F16,Hard,32,S,20061016,24,104195,2,,Simone Vagnozzi,R,173,ITA,23.3,104747,,Q,Tom Rushby,R,,GBR,20.3,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,209,194,654,29
 2006-M-FU-GBR-16A-2006,Great Britain F16,Hard,32,S,20061016,25,104140,,,Dawid Olejniczak,R,,POL,23.6,104997,5,,Igor Sijsling,R,190,NED,19.1,3-6 6-3 7-6(4),3,QF,,,,,,,,,,,,,,,,,,,,426,71,303,121
@@ -15123,7 +15123,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-ISR-04A-2006,Israel F4,Hard,32,S,20061120,5,104437,3,,Dekel Valtzer,U,,ISR,22.1,103953,,LL,Olivier Charroin,L,,FRA,24.6,4-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,426,70,1022,8
 2006-M-FU-ISR-04A-2006,Israel F4,Hard,32,S,20061120,6,104601,,Q,Marin Bradaric,R,,CRO,21.2,104067,,,Goran Tosic,R,,MNE,24.1,4-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,866,13,707,25
 2006-M-FU-ISR-04A-2006,Israel F4,Hard,32,S,20061120,7,104804,,,Amir Weintraub,R,188,ISR,20.1,105117,,Q,Peter Lucassen,R,,NED,18.6,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,587,39,1332,3
-2006-M-FU-ISR-04A-2006,Israel F4,Hard,32,S,20061120,8,104890,8,,Andreas Haider Maurer,R,190,AUT,19.6,103863,,,Mikhail Elgin,R,183,RUS,25.1,7-6(3) 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,505,52,,
+2006-M-FU-ISR-04A-2006,Israel F4,Hard,32,S,20061120,8,104890,8,,Andreas Haider Maurer,R,190,AUT,19.6,103863,,,Mikhail Elgin,R,183,RUS,25.1,7-6(3) 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,505,52,676,28
 2006-M-FU-ISR-04A-2006,Israel F4,Hard,32,S,20061120,9,105217,5,,Thiemo De Bakker,R,193,NED,18.1,105014,,,Antal Van Der Duim,R,185,NED,19.1,3-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,468,58,556,43
 2006-M-FU-ISR-04A-2006,Israel F4,Hard,32,S,20061120,10,105376,,,Peter Gojowczyk,R,185,GER,17.3,104964,,,Victor Kolik,R,,ISR,19.3,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,817,16,694,26
 2006-M-FU-ISR-04A-2006,Israel F4,Hard,32,S,20061120,11,104584,,Q,Simeon Ivanov,R,,BUL,21.3,104502,,,Amit Inbar,L,,ISR,21.7,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,925,11,565,42
@@ -15302,7 +15302,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-BRA-21A-2006,Brazil F21,Clay,32,S,20061127,29,104033,6,,Juan Pablo Villar,U,,ARG,24.3,103883,1,,Lucas Engel,U,,BRA,24.9,6-3 6-1,3,SF,,,,,,,,,,,,,,,,,,,,589,38,344,103
 2006-M-FU-BRA-21A-2006,Brazil F21,Clay,32,S,20061127,30,108628,2,,Jhonnatan Medina Alvarez,L,,VEN,24.8,105154,8,,Joao Souza,R,193,BRA,18.5,6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,696,26
 2006-M-FU-BRA-21A-2006,Brazil F21,Clay,32,S,20061127,31,108628,2,,Jhonnatan Medina Alvarez,L,,VEN,24.8,104033,6,,Juan Pablo Villar,U,,ARG,24.3,2-6 7-6(5) 6-1,3,F,,,,,,,,,,,,,,,,,,,,,,589,38
-2006-M-FU-CZE-04A-2006,Czech Rep F4,Hard,32,S,20061127,1,104623,1,,Josh Goodall,R,188,GBR,21.1,105056,,Q,Jan Marek,R,,CZE,18.9,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1016,8
+2006-M-FU-CZE-04A-2006,Czech Rep F4,Hard,32,S,20061127,1,104623,1,,Josh Goodall,R,188,GBR,21.1,105056,,Q,Jan Marek,R,,CZE,18.9,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,246,163,1016,8
 2006-M-FU-CZE-04A-2006,Czech Rep F4,Hard,32,S,20061127,2,104583,,Q,Filip Polasek,R,196,SVK,21.3,104569,,,Lado Chikhladze,R,,GEO,21.4,4-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,649,30,557,43
 2006-M-FU-CZE-04A-2006,Czech Rep F4,Hard,32,S,20061127,3,105007,,,David Klier,R,,GER,19.2,120418,,WC,Lukas Kubiena,U,,CZE,18.1,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,470,59,,
 2006-M-FU-CZE-04A-2006,Czech Rep F4,Hard,32,S,20061127,4,104488,,,Armin Sandbichler,L,180,AUT,21.8,104735,7,,Tobias Kamke,R,180,GER,20.5,4-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,576,40,443,66
@@ -15318,7 +15318,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-CZE-04A-2006,Czech Rep F4,Hard,32,S,20061127,14,104285,,Q,Patrick Schmolzer,R,,AUT,22.8,104455,,Q,Daniel Lustig,R,190,CZE,22.0,7-6(8) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,830,15,951,9
 2006-M-FU-CZE-04A-2006,Czech Rep F4,Hard,32,S,20061127,15,104853,,Q,Jiri Skoloudik,R,,CZE,19.8,119537,,Q,Petr Frelich,L,,CZE,21.4,6-7(3) 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,926,11,1276,3
 2006-M-FU-CZE-04A-2006,Czech Rep F4,Hard,32,S,20061127,16,104586,2,,Lukas Rosol,R,196,CZE,21.3,103929,,,Philipp Marx,R,188,GER,24.8,6-7(4) 6-2 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,324,115,452,63
-2006-M-FU-CZE-04A-2006,Czech Rep F4,Hard,32,S,20061127,17,104623,1,,Josh Goodall,R,188,GBR,21.1,104583,,Q,Filip Polasek,R,196,SVK,21.3,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,649,30
+2006-M-FU-CZE-04A-2006,Czech Rep F4,Hard,32,S,20061127,17,104623,1,,Josh Goodall,R,188,GBR,21.1,104583,,Q,Filip Polasek,R,196,SVK,21.3,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,246,163,649,30
 2006-M-FU-CZE-04A-2006,Czech Rep F4,Hard,32,S,20061127,18,104488,,,Armin Sandbichler,L,180,AUT,21.8,105007,,,David Klier,R,,GER,19.2,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,576,40,470,59
 2006-M-FU-CZE-04A-2006,Czech Rep F4,Hard,32,S,20061127,19,104320,,Q,Karel Triska,U,,CZE,22.7,104557,3,,Andis Juska,R,,LAT,21.5,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,731,22,357,97
 2006-M-FU-CZE-04A-2006,Czech Rep F4,Hard,32,S,20061127,20,103750,6,,Ladislav Chramosta,R,,CZE,25.6,102959,,,Marko Tkalec,R,178,SLO,29.6,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,421,72,498,53
@@ -15326,13 +15326,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-CZE-04A-2006,Czech Rep F4,Hard,32,S,20061127,22,104869,4,,Sergei Bubka,R,188,UKR,19.7,103938,,,Igor Zelenay,R,198,SVK,24.7,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,412,75,657,29
 2006-M-FU-CZE-04A-2006,Czech Rep F4,Hard,32,S,20061127,23,104285,,Q,Patrick Schmolzer,R,,AUT,22.8,104006,5,,Alexandre Renard,R,,FRA,24.4,7-6(4) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,830,15,419,72
 2006-M-FU-CZE-04A-2006,Czech Rep F4,Hard,32,S,20061127,24,104586,2,,Lukas Rosol,R,196,CZE,21.3,104853,,Q,Jiri Skoloudik,R,,CZE,19.8,7-6(0) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,324,115,926,11
-2006-M-FU-CZE-04A-2006,Czech Rep F4,Hard,32,S,20061127,25,104623,1,,Josh Goodall,R,188,GBR,21.1,104488,,,Armin Sandbichler,L,180,AUT,21.8,7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,576,40
+2006-M-FU-CZE-04A-2006,Czech Rep F4,Hard,32,S,20061127,25,104623,1,,Josh Goodall,R,188,GBR,21.1,104488,,,Armin Sandbichler,L,180,AUT,21.8,7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,246,163,576,40
 2006-M-FU-CZE-04A-2006,Czech Rep F4,Hard,32,S,20061127,26,103750,6,,Ladislav Chramosta,R,,CZE,25.6,104320,,Q,Karel Triska,U,,CZE,22.7,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,421,72,731,22
 2006-M-FU-CZE-04A-2006,Czech Rep F4,Hard,32,S,20061127,27,104869,4,,Sergei Bubka,R,188,UKR,19.7,103687,,,Enrico Burzi,U,,ITA,25.8,7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,412,75,530,49
 2006-M-FU-CZE-04A-2006,Czech Rep F4,Hard,32,S,20061127,28,104285,,Q,Patrick Schmolzer,R,,AUT,22.8,104586,2,,Lukas Rosol,R,196,CZE,21.3,6-3 3-6 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,830,15,324,115
-2006-M-FU-CZE-04A-2006,Czech Rep F4,Hard,32,S,20061127,29,104623,1,,Josh Goodall,R,188,GBR,21.1,103750,6,,Ladislav Chramosta,R,,CZE,25.6,6-4 RET,3,SF,,,,,,,,,,,,,,,,,,,,,,421,72
+2006-M-FU-CZE-04A-2006,Czech Rep F4,Hard,32,S,20061127,29,104623,1,,Josh Goodall,R,188,GBR,21.1,103750,6,,Ladislav Chramosta,R,,CZE,25.6,6-4 RET,3,SF,,,,,,,,,,,,,,,,,,,,246,163,421,72
 2006-M-FU-CZE-04A-2006,Czech Rep F4,Hard,32,S,20061127,30,104869,4,,Sergei Bubka,R,188,UKR,19.7,104285,,Q,Patrick Schmolzer,R,,AUT,22.8,3-0 RET,3,SF,,,,,,,,,,,,,,,,,,,,412,75,830,15
-2006-M-FU-CZE-04A-2006,Czech Rep F4,Hard,32,S,20061127,31,104623,1,,Josh Goodall,R,188,GBR,21.1,104869,4,,Sergei Bubka,R,188,UKR,19.7,6-4 6-2,3,F,,,,,,,,,,,,,,,,,,,,,,412,75
+2006-M-FU-CZE-04A-2006,Czech Rep F4,Hard,32,S,20061127,31,104623,1,,Josh Goodall,R,188,GBR,21.1,104869,4,,Sergei Bubka,R,188,UKR,19.7,6-4 6-2,3,F,,,,,,,,,,,,,,,,,,,,246,163,412,75
 2006-M-FU-ISR-05A-2006,Israel F5,Hard,32,S,20061127,1,105376,,Q,Peter Gojowczyk,R,185,GER,17.3,104619,1,,Jesse Huta Galung,R,188,NED,21.1,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,814,16,351,100
 2006-M-FU-ISR-05A-2006,Israel F5,Hard,32,S,20061127,2,104512,,Q,Ergun Zorlu,R,,TUR,21.7,120374,,WC,Asaf Honig,U,,ISR,21.2,6-1 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,916,11,,
 2006-M-FU-ISR-05A-2006,Israel F5,Hard,32,S,20061127,3,103699,,,Fred Hemmes,R,183,NED,25.8,120217,,WC,Guy Kubi,U,,ISR,18.6,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,472,58,1535,1
@@ -15345,7 +15345,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-ISR-05A-2006,Israel F5,Hard,32,S,20061127,10,104963,,Q,Yannick Mertens,R,188,BEL,19.4,104940,,,Boris Conkic,L,,SRB,19.4,6-3 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,845,14,659,29
 2006-M-FU-ISR-05A-2006,Israel F5,Hard,32,S,20061127,11,104145,,,Vjekoslav Skenderovic,U,,CRO,23.6,103696,,,Sven Swinnen,R,190,SUI,25.8,3-6 6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,499,53,598,37
 2006-M-FU-ISR-05A-2006,Israel F5,Hard,32,S,20061127,12,104471,3,,Ivan Dodig,R,183,CRO,21.9,104787,,LL,Mikhail Lifshits,R,,RUS,20.2,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,417,73,943,10
-2006-M-FU-ISR-05A-2006,Israel F5,Hard,32,S,20061127,13,103863,,,Mikhail Elgin,R,183,RUS,25.1,102629,5,,Oscar Burrieza,R,170,ESP,31.3,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,460,61
+2006-M-FU-ISR-05A-2006,Israel F5,Hard,32,S,20061127,13,103863,,,Mikhail Elgin,R,183,RUS,25.1,102629,5,,Oscar Burrieza,R,170,ESP,31.3,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,679,27,460,61
 2006-M-FU-ISR-05A-2006,Israel F5,Hard,32,S,20061127,14,103145,,,Amir Hadad,R,183,ISR,28.7,104922,,WC,Almog Mashiach,U,,ISR,19.5,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,521,50,1054,7
 2006-M-FU-ISR-05A-2006,Israel F5,Hard,32,S,20061127,15,104890,,,Andreas Haider Maurer,R,190,AUT,19.6,104827,,Q,Remko De Rijke,R,,NED,20.0,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,505,52,974,9
 2006-M-FU-ISR-05A-2006,Israel F5,Hard,32,S,20061127,16,104601,,LL,Marin Bradaric,R,,CRO,21.2,103869,,LL,Thomas Schoeck,U,,GER,25.0,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,866,13,1191,4
@@ -15355,14 +15355,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-ISR-05A-2006,Israel F5,Hard,32,S,20061127,20,103953,,LL,Olivier Charroin,L,,FRA,24.7,105074,,Q,Ruben Bemelmans,L,183,BEL,18.8,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1016,8,,
 2006-M-FU-ISR-05A-2006,Israel F5,Hard,32,S,20061127,21,103668,8,,Lazar Magdincev,R,,MKD,25.9,104963,,Q,Yannick Mertens,R,188,BEL,19.4,6-2 3-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,485,56,845,14
 2006-M-FU-ISR-05A-2006,Israel F5,Hard,32,S,20061127,22,104145,,,Vjekoslav Skenderovic,U,,CRO,23.6,104471,3,,Ivan Dodig,R,183,CRO,21.9,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,499,53,417,73
-2006-M-FU-ISR-05A-2006,Israel F5,Hard,32,S,20061127,23,103863,,,Mikhail Elgin,R,183,RUS,25.1,103145,,,Amir Hadad,R,183,ISR,28.7,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,521,50
+2006-M-FU-ISR-05A-2006,Israel F5,Hard,32,S,20061127,23,103863,,,Mikhail Elgin,R,183,RUS,25.1,103145,,,Amir Hadad,R,183,ISR,28.7,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,679,27,521,50
 2006-M-FU-ISR-05A-2006,Israel F5,Hard,32,S,20061127,24,104601,,LL,Marin Bradaric,R,,CRO,21.2,104890,,,Andreas Haider Maurer,R,190,AUT,19.6,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,866,13,505,52
 2006-M-FU-ISR-05A-2006,Israel F5,Hard,32,S,20061127,25,103699,,,Fred Hemmes,R,183,NED,25.8,105376,,Q,Peter Gojowczyk,R,185,GER,17.3,7-6(6) 1-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,472,58,814,16
 2006-M-FU-ISR-05A-2006,Israel F5,Hard,32,S,20061127,26,104584,,LL,Simeon Ivanov,R,,BUL,21.3,103953,,LL,Olivier Charroin,L,,FRA,24.7,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,922,11,1016,8
 2006-M-FU-ISR-05A-2006,Israel F5,Hard,32,S,20061127,27,104145,,,Vjekoslav Skenderovic,U,,CRO,23.6,103668,8,,Lazar Magdincev,R,,MKD,25.9,7-5 7-5,3,QF,,,,,,,,,,,,,,,,,,,,499,53,485,56
-2006-M-FU-ISR-05A-2006,Israel F5,Hard,32,S,20061127,28,103863,,,Mikhail Elgin,R,183,RUS,25.1,104601,,LL,Marin Bradaric,R,,CRO,21.2,6-0 6-2,3,QF,,,,,,,,,,,,,,,,,,,,,,866,13
+2006-M-FU-ISR-05A-2006,Israel F5,Hard,32,S,20061127,28,103863,,,Mikhail Elgin,R,183,RUS,25.1,104601,,LL,Marin Bradaric,R,,CRO,21.2,6-0 6-2,3,QF,,,,,,,,,,,,,,,,,,,,679,27,866,13
 2006-M-FU-ISR-05A-2006,Israel F5,Hard,32,S,20061127,29,103699,,,Fred Hemmes,R,183,NED,25.8,104584,,LL,Simeon Ivanov,R,,BUL,21.3,6-0 6-2,3,SF,,,,,,,,,,,,,,,,,,,,472,58,922,11
-2006-M-FU-ISR-05A-2006,Israel F5,Hard,32,S,20061127,30,104145,,,Vjekoslav Skenderovic,U,,CRO,23.6,103863,,,Mikhail Elgin,R,183,RUS,25.1,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,499,53,,
+2006-M-FU-ISR-05A-2006,Israel F5,Hard,32,S,20061127,30,104145,,,Vjekoslav Skenderovic,U,,CRO,23.6,103863,,,Mikhail Elgin,R,183,RUS,25.1,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,499,53,679,27
 2006-M-FU-ISR-05A-2006,Israel F5,Hard,32,S,20061127,31,104145,,,Vjekoslav Skenderovic,U,,CRO,23.6,103699,,,Fred Hemmes,R,183,NED,25.8,6-4 6-3,3,F,,,,,,,,,,,,,,,,,,,,499,53,472,58
 2006-M-FU-TUN-07A-2006,Tunisia F6,Hard,32,S,20061127,1,103824,1,,Orest Tereshchuk,R,,UKR,25.2,105066,,Q,Grzegorz Panfil,L,183,POL,18.9,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,372,90,725,23
 2006-M-FU-TUN-07A-2006,Tunisia F6,Hard,32,S,20061127,2,104059,,Q,Rasmus Norby,R,183,DEN,24.2,120403,,WC,Hedi Nouri,U,,TUN,16.4,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,768,19,,
@@ -15457,7 +15457,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-BRA-22A-2006,Brazil F22,Hard,32,S,20061204,29,108628,4,,Jhonnatan Medina Alvarez,L,,VEN,24.8,104903,,,Andre Miele,R,,BRA,19.6,6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,,,817,16
 2006-M-FU-BRA-22A-2006,Brazil F22,Hard,32,S,20061204,30,104738,3,,Caio Zampieri,R,183,BRA,20.5,104101,7,,Nathan Thompson,U,,USA,23.9,6-7(4) 6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,412,75,620,34
 2006-M-FU-BRA-22A-2006,Brazil F22,Hard,32,S,20061204,31,104738,3,,Caio Zampieri,R,183,BRA,20.5,108628,4,,Jhonnatan Medina Alvarez,L,,VEN,24.8,6-2 3-6 6-4,3,F,,,,,,,,,,,,,,,,,,,,412,75,,
-2006-M-FU-CZE-05A-2006,Czech Rep F5,Carpet,32,S,20061204,1,104623,1,,Josh Goodall,R,188,GBR,21.1,103757,,Q,Theodor Devoty,U,,CZE,25.6,3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,714,24
+2006-M-FU-CZE-05A-2006,Czech Rep F5,Carpet,32,S,20061204,1,104623,1,,Josh Goodall,R,188,GBR,21.1,103757,,Q,Theodor Devoty,U,,CZE,25.6,3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,245,163,714,24
 2006-M-FU-CZE-05A-2006,Czech Rep F5,Carpet,32,S,20061204,2,104455,,Q,Daniel Lustig,R,190,CZE,22.0,103687,,,Enrico Burzi,U,,ITA,25.8,4-6 7-6(5) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,956,9,529,49
 2006-M-FU-CZE-05A-2006,Czech Rep F5,Carpet,32,S,20061204,3,102466,,Q,Jan Kroslak,R,188,SVK,32.1,103763,,Q,Martin Slanar,R,,AUT,25.5,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,848,14
 2006-M-FU-CZE-05A-2006,Czech Rep F5,Carpet,32,S,20061204,4,103708,6,,Jaroslav Pospisil,R,176,CZE,25.8,103692,,,Jakub Hasek,L,,CZE,25.8,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,435,68,509,52
@@ -15473,7 +15473,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-CZE-05A-2006,Czech Rep F5,Carpet,32,S,20061204,14,105116,,,Dusan Lojda,L,188,CZE,18.7,104488,,,Armin Sandbichler,L,180,AUT,21.8,6-4 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,608,36,578,40
 2006-M-FU-CZE-05A-2006,Czech Rep F5,Carpet,32,S,20061204,15,104519,,,Roman Vogeli,R,,CZE,21.7,105322,,Q,Mathias Feitsch,U,,AUT,17.6,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,552,43,1220,4
 2006-M-FU-CZE-05A-2006,Czech Rep F5,Carpet,32,S,20061204,16,104586,2,,Lukas Rosol,R,196,CZE,21.3,104151,,LL,Jan Stancik,U,,SVK,23.6,6-4 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,324,115,642,31
-2006-M-FU-CZE-05A-2006,Czech Rep F5,Carpet,32,S,20061204,17,104623,1,,Josh Goodall,R,188,GBR,21.1,104455,,Q,Daniel Lustig,R,190,CZE,22.0,7-6(7) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,956,9
+2006-M-FU-CZE-05A-2006,Czech Rep F5,Carpet,32,S,20061204,17,104623,1,,Josh Goodall,R,188,GBR,21.1,104455,,Q,Daniel Lustig,R,190,CZE,22.0,7-6(7) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,245,163,956,9
 2006-M-FU-CZE-05A-2006,Czech Rep F5,Carpet,32,S,20061204,18,102466,,Q,Jan Kroslak,R,188,SVK,32.1,103708,6,,Jaroslav Pospisil,R,176,CZE,25.8,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,435,68
 2006-M-FU-CZE-05A-2006,Czech Rep F5,Carpet,32,S,20061204,19,104869,4,,Sergei Bubka,R,188,UKR,19.8,103938,,,Igor Zelenay,R,198,SVK,24.8,7-6(3) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,415,75,657,29
 2006-M-FU-CZE-05A-2006,Czech Rep F5,Carpet,32,S,20061204,20,103748,8,,Jan Minar,R,,CZE,25.6,103717,,Q,Jedrzej Zarski,R,,POL,25.7,6-3 6-7(3) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,505,52,875,13
@@ -15481,13 +15481,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-CZE-05A-2006,Czech Rep F5,Carpet,32,S,20061204,22,104505,3,,Konstantin Kravchuk,R,190,RUS,21.7,105312,,WC,Jiri Kosler,U,,CZE,17.6,7-6(5) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,393,82,1328,3
 2006-M-FU-CZE-05A-2006,Czech Rep F5,Carpet,32,S,20061204,23,102959,7,,Marko Tkalec,R,178,SLO,29.7,105116,,,Dusan Lojda,L,188,CZE,18.7,7-6(1) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,502,53,608,36
 2006-M-FU-CZE-05A-2006,Czech Rep F5,Carpet,32,S,20061204,24,104586,2,,Lukas Rosol,R,196,CZE,21.3,104519,,,Roman Vogeli,R,,CZE,21.7,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,324,115,552,43
-2006-M-FU-CZE-05A-2006,Czech Rep F5,Carpet,32,S,20061204,25,104623,1,,Josh Goodall,R,188,GBR,21.1,102466,,Q,Jan Kroslak,R,188,SVK,32.1,3-6 7-6(8) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,,
+2006-M-FU-CZE-05A-2006,Czech Rep F5,Carpet,32,S,20061204,25,104623,1,,Josh Goodall,R,188,GBR,21.1,102466,,Q,Jan Kroslak,R,188,SVK,32.1,3-6 7-6(8) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,245,163,,
 2006-M-FU-CZE-05A-2006,Czech Rep F5,Carpet,32,S,20061204,26,104869,4,,Sergei Bubka,R,188,UKR,19.8,103748,8,,Jan Minar,R,,CZE,25.6,3-6 6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,415,75,505,52
 2006-M-FU-CZE-05A-2006,Czech Rep F5,Carpet,32,S,20061204,27,104505,3,,Konstantin Kravchuk,R,190,RUS,21.7,104569,,,Lado Chikhladze,R,,GEO,21.4,7-6(2) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,393,82,558,43
 2006-M-FU-CZE-05A-2006,Czech Rep F5,Carpet,32,S,20061204,28,104586,2,,Lukas Rosol,R,196,CZE,21.3,102959,7,,Marko Tkalec,R,178,SLO,29.7,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,324,115,502,53
-2006-M-FU-CZE-05A-2006,Czech Rep F5,Carpet,32,S,20061204,29,104623,1,,Josh Goodall,R,188,GBR,21.1,104869,4,,Sergei Bubka,R,188,UKR,19.8,7-6(4) 6-2,3,SF,,,,,,,,,,,,,,,,,,,,,,415,75
+2006-M-FU-CZE-05A-2006,Czech Rep F5,Carpet,32,S,20061204,29,104623,1,,Josh Goodall,R,188,GBR,21.1,104869,4,,Sergei Bubka,R,188,UKR,19.8,7-6(4) 6-2,3,SF,,,,,,,,,,,,,,,,,,,,245,163,415,75
 2006-M-FU-CZE-05A-2006,Czech Rep F5,Carpet,32,S,20061204,30,104586,2,,Lukas Rosol,R,196,CZE,21.3,104505,3,,Konstantin Kravchuk,R,190,RUS,21.7,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,324,115,393,82
-2006-M-FU-CZE-05A-2006,Czech Rep F5,Carpet,32,S,20061204,31,104586,2,,Lukas Rosol,R,196,CZE,21.3,104623,1,,Josh Goodall,R,188,GBR,21.1,6-7(5) 6-4 7-6(8),3,F,,,,,,,,,,,,,,,,,,,,324,115,,
+2006-M-FU-CZE-05A-2006,Czech Rep F5,Carpet,32,S,20061204,31,104586,2,,Lukas Rosol,R,196,CZE,21.3,104623,1,,Josh Goodall,R,188,GBR,21.1,6-7(5) 6-4 7-6(8),3,F,,,,,,,,,,,,,,,,,,,,324,115,245,163
 2006-M-FU-ISR-06A-2006,Israel F6,Hard,32,S,20061204,1,103696,,,Sven Swinnen,R,190,SUI,25.8,104619,1,,Jesse Huta Galung,R,188,NED,21.1,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,601,37,351,100
 2006-M-FU-ISR-06A-2006,Israel F6,Hard,32,S,20061204,2,104483,,,Gordan Peranec,U,,CRO,21.8,119500,,WC,Yoav Schab,R,,ISR,21.8,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,669,29,1251,4
 2006-M-FU-ISR-06A-2006,Israel F6,Hard,32,S,20061204,3,104890,,,Andreas Haider Maurer,R,190,AUT,19.7,104178,,,Max Raditschnigg,L,,AUT,23.5,6-4 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,450,64,748,21
@@ -15498,7 +15498,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-ISR-06A-2006,Israel F6,Hard,32,S,20061204,8,103668,7,,Lazar Magdincev,R,,MKD,25.9,104389,,,Ishay Hadash,R,,ISR,22.4,2-3 RET,3,R32,,,,,,,,,,,,,,,,,,,,472,59,618,34
 2006-M-FU-ISR-06A-2006,Israel F6,Hard,32,S,20061204,9,104145,8,,Vjekoslav Skenderovic,U,,CRO,23.7,104966,,WC,Idan Mark,U,,ISR,19.4,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,495,55,1372,2
 2006-M-FU-ISR-06A-2006,Israel F6,Hard,32,S,20061204,10,105074,,Q,Ruben Bemelmans,L,183,BEL,18.8,109102,,Q,Zlatan Kadric,U,,BIH,20.1,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1422,2
-2006-M-FU-ISR-06A-2006,Israel F6,Hard,32,S,20061204,11,103863,,,Mikhail Elgin,R,183,RUS,25.1,105029,,Q,Sergey Betov,R,185,BLR,19.1,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2006-M-FU-ISR-06A-2006,Israel F6,Hard,32,S,20061204,11,103863,,,Mikhail Elgin,R,183,RUS,25.1,105029,,Q,Sergey Betov,R,185,BLR,19.1,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,692,26,,
 2006-M-FU-ISR-06A-2006,Israel F6,Hard,32,S,20061204,12,103145,,,Amir Hadad,R,183,ISR,28.7,102629,4,,Oscar Burrieza,R,170,ESP,31.3,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,507,52,463,61
 2006-M-FU-ISR-06A-2006,Israel F6,Hard,32,S,20061204,13,104368,5,,Daniel King Turner,R,190,NZL,22.5,120375,,WC,Noam Yitzhaki,R,,ISR,18.3,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,464,61,,
 2006-M-FU-ISR-06A-2006,Israel F6,Hard,32,S,20061204,14,105376,,,Peter Gojowczyk,R,185,GER,17.3,120125,,Q,Philippe Niewerth,U,,NED,20.1,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,800,17,,
@@ -15509,16 +15509,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-M-FU-ISR-06A-2006,Israel F6,Hard,32,S,20061204,19,104804,,,Amir Weintraub,R,188,ISR,20.2,109145,,Q,Vedran Siljegovic,U,,CRO,18.2,3-6 7-6(6) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,581,40,1538,1
 2006-M-FU-ISR-06A-2006,Israel F6,Hard,32,S,20061204,20,103668,7,,Lazar Magdincev,R,,MKD,25.9,104827,,Q,Remko De Rijke,R,,NED,20.0,6-4 3-6 6-0,3,R16,,,,,,,,,,,,,,,,,,,,472,59,978,9
 2006-M-FU-ISR-06A-2006,Israel F6,Hard,32,S,20061204,21,105074,,Q,Ruben Bemelmans,L,183,BEL,18.8,104145,8,,Vjekoslav Skenderovic,U,,CRO,23.7,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,495,55
-2006-M-FU-ISR-06A-2006,Israel F6,Hard,32,S,20061204,22,103863,,,Mikhail Elgin,R,183,RUS,25.1,103145,,,Amir Hadad,R,183,ISR,28.7,6-4 7-6(1),3,R16,,,,,,,,,,,,,,,,,,,,,,507,52
+2006-M-FU-ISR-06A-2006,Israel F6,Hard,32,S,20061204,22,103863,,,Mikhail Elgin,R,183,RUS,25.1,103145,,,Amir Hadad,R,183,ISR,28.7,6-4 7-6(1),3,R16,,,,,,,,,,,,,,,,,,,,692,26,507,52
 2006-M-FU-ISR-06A-2006,Israel F6,Hard,32,S,20061204,23,104368,5,,Daniel King Turner,R,190,NZL,22.5,105376,,,Peter Gojowczyk,R,185,GER,17.3,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,464,61,800,17
 2006-M-FU-ISR-06A-2006,Israel F6,Hard,32,S,20061204,24,104471,2,,Ivan Dodig,R,183,CRO,21.9,105254,,Q,Nikola Mektic,R,183,CRO,17.9,6-7(5) 7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,410,75,1538,1
 2006-M-FU-ISR-06A-2006,Israel F6,Hard,32,S,20061204,25,103699,6,,Fred Hemmes,R,183,NED,25.8,103696,,,Sven Swinnen,R,190,SUI,25.8,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,476,58,601,37
 2006-M-FU-ISR-06A-2006,Israel F6,Hard,32,S,20061204,26,103668,7,,Lazar Magdincev,R,,MKD,25.9,104804,,,Amir Weintraub,R,188,ISR,20.2,6-0 6-1,3,QF,,,,,,,,,,,,,,,,,,,,472,59,581,40
-2006-M-FU-ISR-06A-2006,Israel F6,Hard,32,S,20061204,27,103863,,,Mikhail Elgin,R,183,RUS,25.1,105074,,Q,Ruben Bemelmans,L,183,BEL,18.8,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,,,,
+2006-M-FU-ISR-06A-2006,Israel F6,Hard,32,S,20061204,27,103863,,,Mikhail Elgin,R,183,RUS,25.1,105074,,Q,Ruben Bemelmans,L,183,BEL,18.8,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,692,26,,
 2006-M-FU-ISR-06A-2006,Israel F6,Hard,32,S,20061204,28,104471,2,,Ivan Dodig,R,183,CRO,21.9,104368,5,,Daniel King Turner,R,190,NZL,22.5,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,410,75,464,61
 2006-M-FU-ISR-06A-2006,Israel F6,Hard,32,S,20061204,29,103699,6,,Fred Hemmes,R,183,NED,25.8,103668,7,,Lazar Magdincev,R,,MKD,25.9,6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,476,58,472,59
-2006-M-FU-ISR-06A-2006,Israel F6,Hard,32,S,20061204,30,103863,,,Mikhail Elgin,R,183,RUS,25.1,104471,2,,Ivan Dodig,R,183,CRO,21.9,6-7(3) 6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,,,410,75
-2006-M-FU-ISR-06A-2006,Israel F6,Hard,32,S,20061204,31,103699,6,,Fred Hemmes,R,183,NED,25.8,103863,,,Mikhail Elgin,R,183,RUS,25.1,6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,476,58,,
+2006-M-FU-ISR-06A-2006,Israel F6,Hard,32,S,20061204,30,103863,,,Mikhail Elgin,R,183,RUS,25.1,104471,2,,Ivan Dodig,R,183,CRO,21.9,6-7(3) 6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,692,26,410,75
+2006-M-FU-ISR-06A-2006,Israel F6,Hard,32,S,20061204,31,103699,6,,Fred Hemmes,R,183,NED,25.8,103863,,,Mikhail Elgin,R,183,RUS,25.1,6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,476,58,692,26
 2006-M-FU-TUN-08A-2006,Tunisia F7,Hard,32,S,20061204,1,110555,,LL,Philippe Brand,L,,NED,18.6,105060,,Q,Aldin Setkic,R,193,BIH,18.9,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1422,2,1281,3
 2006-M-FU-TUN-08A-2006,Tunisia F7,Hard,32,S,20061204,2,105085,,Q,Artem Smirnov,U,188,UKR,18.8,105094,,Q,Paris Gemouchidis,R,175,GRE,18.8,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1328,3,951,9
 2006-M-FU-TUN-08A-2006,Tunisia F7,Hard,32,S,20061204,3,105015,,,Franko Skugor,R,193,CRO,19.2,104568,,LL,Amadeus Fulford Jones,U,,GBR,21.4,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,684,27,1111,6

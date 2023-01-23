@@ -250,7 +250,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-1631,Nottingham CH,Grass,32,C,20050704,1,104571,1,,Marcos Baghdatis,R,183,CYP,20.0,103523,,Q,Rohan Bopanna,R,190,IND,25.3,5-7 6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,90,452,517,46
 2005-1631,Nottingham CH,Grass,32,C,20050704,2,102788,,,Jan Vacek,R,198,CZE,29.1,104171,,,Richard Bloomfield,R,185,GBR,22.1,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,276,129,358,90
 2005-1631,Nottingham CH,Grass,32,C,20050704,3,103993,,WC,Chris Lewis,R,180,GBR,23.1,103412,,WC,Matthew Hanlin,U,,GBR,25.9,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,539,43,666,27
-2005-1631,Nottingham CH,Grass,32,C,20050704,4,102965,6,,Jamie Delgado,R,178,GBR,28.2,104624,,,Joshua Goodall,R,188,GBR,19.6,6-3 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,212,193,,
+2005-1631,Nottingham CH,Grass,32,C,20050704,4,102965,6,,Jamie Delgado,R,178,GBR,28.2,104623,,,Josh Goodall,R,188,GBR,19.6,6-3 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,212,193,313,111
 2005-1631,Nottingham CH,Grass,32,C,20050704,5,104372,4,,Alex Bogdanovic,L,183,GBR,21.0,103701,,,Diego Hartfield,R,185,ARG,24.4,4-6 7-6(1) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,195,219,252,148
 2005-1631,Nottingham CH,Grass,32,C,20050704,6,104136,,,Santiago Gonzalez,R,190,MEX,22.3,104014,,,Lee Childs,R,,GBR,23.0,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,247,150,364,88
 2005-1631,Nottingham CH,Grass,32,C,20050704,7,103003,,Q,Jean Francois Bachelot,R,183,FRA,28.0,103538,,,James Auckland,R,,GBR,25.2,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,446,61,317,108
@@ -992,7 +992,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-2153,Caloundra CH,Hard,32,C,20051031,30,103429,2,,Peter Luczak,R,183,AUS,26.1,103845,5,,Lesley Joseph,U,,USA,24.1,6-3 7-5,3,SF,,,,,,,,,,,,,,,,,,,,160,248,299,113
 2005-2153,Caloundra CH,Hard,32,C,20051031,31,103429,2,,Peter Luczak,R,183,AUS,26.1,103553,7,,Alun Jones,R,180,AUS,25.5,7-5 7-6(1),3,F,,,,,,,,,,,,,,,,,,,,160,248,302,112
 2005-2154,Barcelona CH,Clay,32,C,20051010,1,103656,1,,Albert Montanes,R,175,ESP,24.8,103364,,Q,Javier Genaro Martinez,R,,ESP,26.4,3-6 7-6(3) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,68,553,339,95
-2005-2154,Barcelona CH,Clay,32,C,20051010,2,103868,,,Ivan Navarro,R,183,ESP,23.9,109242,,WC,Jonathan Susmozas,U,,ESP,,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,149,276,,
+2005-2154,Barcelona CH,Clay,32,C,20051010,2,103868,,,Ivan Navarro,R,183,ESP,23.9,109242,,WC,Jonathan Susmozas,R,,ESP,18.5,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,149,276,,
 2005-2154,Barcelona CH,Clay,32,C,20051010,3,104392,,,Franco Ferreiro,R,188,BRA,21.2,104021,,,Marco Mirnegg,R,180,AUT,23.2,6-4 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,202,188,218,168
 2005-2154,Barcelona CH,Clay,32,C,20051010,4,103490,8,,Santiago Ventura,R,183,ESP,25.7,102630,,LL,Slimane Saoudi,L,,ALG,30.2,2-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,136,303,292,116
 2005-2154,Barcelona CH,Clay,32,C,20051010,5,103035,4,,Alessio Di Mauro,L,185,ITA,28.1,103726,,,Jean Christophe Faurel,R,175,FRA,24.5,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,117,364,198,196
@@ -1241,7 +1241,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-2208,Monza CH,Clay,32,C,20050418,31,103035,4,,Alessio Di Mauro,L,185,ITA,27.6,103534,,,Nicolas Devilder,L,173,FRA,25.0,6-1 2-6 6-3,3,F,,,,,,,,,,,,,,,,,,,,116,375,205,201
 2005-2209,Nottingham CH,Hard,32,C,20050418,1,102571,1,,Gregory Carraz,R,190,FRA,30.0,103538,,WC,James Auckland,R,,GBR,25.0,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,119,363,339,99
 2005-2209,Nottingham CH,Hard,32,C,20050418,2,103208,,,Jean Michel Pequery,R,,FRA,26.8,104486,,Q,Horia Tecau,R,193,ROU,20.2,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,228,176,332,102
-2005-2209,Nottingham CH,Hard,32,C,20050418,3,104624,,WC,Joshua Goodall,R,188,GBR,19.5,103754,,,Mark Hilton,L,170,GBR,23.9,2-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,307,113,218,188
+2005-2209,Nottingham CH,Hard,32,C,20050418,3,104623,,WC,Josh Goodall,R,188,GBR,19.5,103754,,,Mark Hilton,L,170,GBR,23.9,2-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,307,113,218,188
 2005-2209,Nottingham CH,Hard,32,C,20050418,4,103503,6,,Robin Vik,R,183,CZE,25.1,103516,,,Nathan Healey,R,180,AUS,25.1,6-1 6-7(3) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,187,233,308,112
 2005-2209,Nottingham CH,Hard,32,C,20050418,5,102730,3,,Ivo Heuberger,R,188,SUI,29.1,103938,,Q,Igor Zelenay,R,198,SVK,23.1,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,130,340,302,117
 2005-2209,Nottingham CH,Hard,32,C,20050418,6,103468,,,Harsh Mankad,R,173,IND,25.4,104014,,WC,Lee Childs,R,,GBR,22.8,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,272,139,329,103
@@ -1256,7 +1256,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-2209,Nottingham CH,Hard,32,C,20050418,15,103157,,,Arvind Parmar,R,193,GBR,27.0,103559,,,David Sherwood,R,193,GBR,24.9,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,206,200,259,150
 2005-2209,Nottingham CH,Hard,32,C,20050418,16,102925,2,,Justin Gimelstob,R,196,USA,28.2,104660,,,Sergiy Stakhovsky,R,193,UKR,19.2,1-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,118,364,227,176
 2005-2209,Nottingham CH,Hard,32,C,20050418,17,103208,,,Jean Michel Pequery,R,,FRA,26.8,102571,1,,Gregory Carraz,R,190,FRA,30.0,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,228,176,119,363
-2005-2209,Nottingham CH,Hard,32,C,20050418,18,103503,6,,Robin Vik,R,183,CZE,25.1,104624,,WC,Joshua Goodall,R,188,GBR,19.5,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,187,233,307,113
+2005-2209,Nottingham CH,Hard,32,C,20050418,18,103503,6,,Robin Vik,R,183,CZE,25.1,104623,,WC,Josh Goodall,R,188,GBR,19.5,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,187,233,307,113
 2005-2209,Nottingham CH,Hard,32,C,20050418,19,103468,,,Harsh Mankad,R,173,IND,25.4,102730,3,,Ivo Heuberger,R,188,SUI,29.1,6-3 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,272,139,130,340
 2005-2209,Nottingham CH,Hard,32,C,20050418,20,104004,,,Filip Prpic,R,173,SWE,22.8,103520,7,,Pavel Snobel,L,190,CZE,25.1,7-6(3) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,269,141,191,228
 2005-2209,Nottingham CH,Hard,32,C,20050418,21,102965,,,Jamie Delgado,R,178,GBR,28.0,103821,,,Danai Udomchoke,R,173,THA,23.6,6-7(5) 6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,217,189,231,171
@@ -3194,7 +3194,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-576,Bogota CH,Clay,32,C,20050718,31,103228,3,,Marcos Daniel,R,180,BRA,27.0,103828,8,,Jean Julien Rojer,R,183,AHO,23.8,6-4 6-4,3,F,,,,,,,,,,,,,,,,,,,,177,232,279,128
 2005-583,Manchester CH,Grass,32,C,20050711,1,103503,1,,Robin Vik,R,183,CZE,25.4,103754,,,Mark Hilton,L,170,GBR,24.2,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,107,400,203,199
 2005-583,Manchester CH,Grass,32,C,20050711,2,103938,,,Igor Zelenay,R,198,SVK,23.4,103239,,,Marcus Sarstrand,R,183,SWE,26.9,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,304,116,243,152
-2005-583,Manchester CH,Grass,32,C,20050711,3,104624,,WC,Joshua Goodall,R,188,GBR,19.7,103209,,,Leonardo Azzaro,L,188,ITA,27.1,7-6(4) 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,360,87,226,169
+2005-583,Manchester CH,Grass,32,C,20050711,3,104623,,WC,Josh Goodall,R,188,GBR,19.7,103209,,,Leonardo Azzaro,L,188,ITA,27.1,7-6(4) 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,360,87,226,169
 2005-583,Manchester CH,Grass,32,C,20050711,4,103521,,,Andrea Stoppini,R,190,ITA,25.3,103559,8,,David Sherwood,R,193,GBR,25.1,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,233,164,219,176
 2005-583,Manchester CH,Grass,32,C,20050711,5,103917,3,,Nicolas Mahut,R,190,FRA,23.4,103730,,,Jonathan Marray,R,183,GBR,24.3,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,128,346,271,132
 2005-583,Manchester CH,Grass,32,C,20050711,6,102788,,,Jan Vacek,R,198,CZE,29.1,102896,,Q,Giuseppe Menga,R,,ITA,28.5,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,287,125,514,47
@@ -3209,7 +3209,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-583,Manchester CH,Grass,32,C,20050711,15,103538,,WC,James Auckland,R,,GBR,25.2,104517,,Q,Adam Feeney,R,178,AUS,20.3,3-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,316,108,421,66
 2005-583,Manchester CH,Grass,32,C,20050711,16,103110,2,,Daniele Bracciali,R,180,ITA,27.4,104136,,,Santiago Gonzalez,R,190,MEX,22.3,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,133,327,244,152
 2005-583,Manchester CH,Grass,32,C,20050711,17,103938,,,Igor Zelenay,R,198,SVK,23.4,103503,1,,Robin Vik,R,183,CZE,25.4,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,304,116,107,400
-2005-583,Manchester CH,Grass,32,C,20050711,18,103521,,,Andrea Stoppini,R,190,ITA,25.3,104624,,WC,Joshua Goodall,R,188,GBR,19.7,3-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,233,164,360,87
+2005-583,Manchester CH,Grass,32,C,20050711,18,103521,,,Andrea Stoppini,R,190,ITA,25.3,104623,,WC,Josh Goodall,R,188,GBR,19.7,3-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,233,164,360,87
 2005-583,Manchester CH,Grass,32,C,20050711,19,102788,,,Jan Vacek,R,198,CZE,29.1,103917,3,,Nicolas Mahut,R,190,FRA,23.4,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,287,125,128,346
 2005-583,Manchester CH,Grass,32,C,20050711,20,104372,5,,Alex Bogdanovic,L,183,GBR,21.1,104660,,,Sergiy Stakhovsky,R,193,UKR,19.5,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,175,241,217,181
 2005-583,Manchester CH,Grass,32,C,20050711,21,103157,6,,Arvind Parmar,R,193,GBR,27.3,104014,,WC,Lee Childs,R,,GBR,23.0,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,196,215,386,80
@@ -4105,7 +4105,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-782,Wrexham CH,Hard,32,C,20050124,12,104527,3,,Stan Wawrinka,R,183,SUI,19.8,104273,,,Edouard Roger Vasselin,R,188,FRA,21.1,7-6(8) 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,165,267,195,215
 2005-782,Wrexham CH,Hard,32,C,20050124,13,102788,5,,Jan Vacek,R,198,CZE,28.6,104182,,,Sasa Tuksar,R,180,CRO,21.6,6-4 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,178,244,207,201
 2005-782,Wrexham CH,Hard,32,C,20050124,14,103166,,,Vladimir Voltchkov,R,180,BLR,26.7,103393,,,Yuri Schukin,R,188,KAZ,25.5,6-4 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,206,202,196,212
-2005-782,Wrexham CH,Hard,32,C,20050124,15,104624,,WC,Joshua Goodall,R,188,GBR,19.2,102965,,,Jamie Delgado,R,178,GBR,27.8,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,352,85,229,173
+2005-782,Wrexham CH,Hard,32,C,20050124,15,104623,,WC,Josh Goodall,R,188,GBR,19.2,102965,,,Jamie Delgado,R,178,GBR,27.8,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,352,85,229,173
 2005-782,Wrexham CH,Hard,32,C,20050124,16,103559,,WC,David Sherwood,R,193,GBR,24.7,103527,2,,Julien Jeanpierre,R,188,FRA,24.8,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,284,126,156,284
 2005-782,Wrexham CH,Hard,32,C,20050124,17,102567,,,George Bastl,R,183,SUI,29.7,104372,,,Alex Bogdanovic,L,183,GBR,20.6,7-6(1) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,197,211,191,222
 2005-782,Wrexham CH,Hard,32,C,20050124,18,104453,6,,Michael Ryderstedt,L,188,SWE,20.1,103529,,,Aisam Ul Haq Qureshi,R,183,PAK,24.8,7-6(5) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,179,244,221,187
@@ -4114,11 +4114,11 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-782,Wrexham CH,Hard,32,C,20050124,21,103726,,,Jean Christophe Faurel,R,175,FRA,23.8,103520,,,Pavel Snobel,L,190,CZE,24.8,6-2 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,192,220,209,200
 2005-782,Wrexham CH,Hard,32,C,20050124,22,104527,3,,Stan Wawrinka,R,183,SUI,19.8,103324,,,Arnaud Di Pasquale,R,185,FRA,25.9,3-6 6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,165,267,222,185
 2005-782,Wrexham CH,Hard,32,C,20050124,23,103166,,,Vladimir Voltchkov,R,180,BLR,26.7,102788,5,,Jan Vacek,R,198,CZE,28.6,6-3 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,206,202,178,244
-2005-782,Wrexham CH,Hard,32,C,20050124,24,104624,,WC,Joshua Goodall,R,188,GBR,19.2,103559,,WC,David Sherwood,R,193,GBR,24.7,3-6 7-6(8) 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,352,85,284,126
+2005-782,Wrexham CH,Hard,32,C,20050124,24,104623,,WC,Josh Goodall,R,188,GBR,19.2,103559,,WC,David Sherwood,R,193,GBR,24.7,3-6 7-6(8) 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,352,85,284,126
 2005-782,Wrexham CH,Hard,32,C,20050124,25,102567,,,George Bastl,R,183,SUI,29.7,104453,6,,Michael Ryderstedt,L,188,SWE,20.1,6-3 6-7(6) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,197,211,179,244
 2005-782,Wrexham CH,Hard,32,C,20050124,26,101868,4,,Dick Norman,L,203,BEL,33.8,103157,7,,Arvind Parmar,R,193,GBR,26.8,6-7(3) 7-6(2) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,167,265,181,240
 2005-782,Wrexham CH,Hard,32,C,20050124,27,104527,3,,Stan Wawrinka,R,183,SUI,19.8,103726,,,Jean Christophe Faurel,R,175,FRA,23.8,3-6 6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,165,267,192,220
-2005-782,Wrexham CH,Hard,32,C,20050124,28,103166,,,Vladimir Voltchkov,R,180,BLR,26.7,104624,,WC,Joshua Goodall,R,188,GBR,19.2,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,206,202,352,85
+2005-782,Wrexham CH,Hard,32,C,20050124,28,103166,,,Vladimir Voltchkov,R,180,BLR,26.7,104623,,WC,Josh Goodall,R,188,GBR,19.2,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,206,202,352,85
 2005-782,Wrexham CH,Hard,32,C,20050124,29,102567,,,George Bastl,R,183,SUI,29.7,101868,4,,Dick Norman,L,203,BEL,33.8,7-6(6) 7-6(5),3,SF,,,,,,,,,,,,,,,,,,,,197,211,167,265
 2005-782,Wrexham CH,Hard,32,C,20050124,30,103166,,,Vladimir Voltchkov,R,180,BLR,26.7,104527,3,,Stan Wawrinka,R,183,SUI,19.8,6-4 6-1,3,SF,,,,,,,,,,,,,,,,,,,,206,202,165,267
 2005-782,Wrexham CH,Hard,32,C,20050124,31,103166,,,Vladimir Voltchkov,R,180,BLR,26.7,102567,,,George Bastl,R,183,SUI,29.7,4-6 6-4 6-3,3,F,,,,,,,,,,,,,,,,,,,,206,202,197,211

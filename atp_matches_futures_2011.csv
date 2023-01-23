@@ -417,7 +417,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-GBR-02A-2011,Great Britain F2,Hard,32,S,20110117,5,105349,4,Q,Harri Heliovaara,R,188,FIN,21.6,105827,,,Laurynas Grigelis,R,183,LTU,19.4,5-7 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,345,127,404,99
 2011-M-FU-GBR-02A-2011,Great Britain F2,Hard,32,S,20110117,6,105192,,Q,Robert Varga,U,,HUN,22.4,120517,,Q,Ben Pritchard,R,,GBR,22.9,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,845,12,1171,4
 2011-M-FU-GBR-02A-2011,Great Britain F2,Hard,32,S,20110117,7,105163,,,Gleb Sakharov,R,185,FRA,22.6,105345,,,Sean Thornley,R,,GBR,21.6,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,574,41,557,45
-2011-M-FU-GBR-02A-2011,Great Britain F2,Hard,32,S,20110117,8,104623,8,,Josh Goodall,R,188,GBR,25.2,105315,,WC,Andrew Fitzpatrick,R,,GBR,21.7,7-6(2) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1079,5
+2011-M-FU-GBR-02A-2011,Great Britain F2,Hard,32,S,20110117,8,104623,8,,Josh Goodall,R,188,GBR,25.2,105315,,WC,Andrew Fitzpatrick,R,,GBR,21.7,7-6(2) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,399,101,1079,5
 2011-M-FU-GBR-02A-2011,Great Britain F2,Hard,32,S,20110117,9,104932,,,Kenny De Schepper,L,203,FRA,23.6,105554,6,,Daniel Evans,R,175,GBR,20.6,4-6 6-3 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,471,69,396,102
 2011-M-FU-GBR-02A-2011,Great Britain F2,Hard,32,S,20110117,10,104633,,,Mathieu Rodrigues,R,180,FRA,25.1,105776,,WC,Adam Thornton Brown,R,,GBR,19.6,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,427,90,,
 2011-M-FU-GBR-02A-2011,Great Britain F2,Hard,32,S,20110117,11,105052,,,Chris Eaton,R,188,GBR,23.1,105012,,,Alexander Bury,R,203,BLR,23.3,7-5 2-6 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,527,53,512,56
@@ -429,7 +429,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-GBR-02A-2011,Great Britain F2,Hard,32,S,20110117,17,102999,1,,Stefano Galvani,R,178,ITA,33.6,106011,,,Sami Reinwein,U,,GER,18.6,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,274,165,757,18
 2011-M-FU-GBR-02A-2011,Great Britain F2,Hard,32,S,20110117,18,104914,,,Ervin Eleskovic,R,,SWE,23.6,104924,,Q,Alexandre Penaud,U,,FRA,23.6,6-1 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,405,98,915,10
 2011-M-FU-GBR-02A-2011,Great Britain F2,Hard,32,S,20110117,19,105349,4,Q,Harri Heliovaara,R,188,FIN,21.6,105192,,Q,Robert Varga,U,,HUN,22.4,7-6(6) 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,345,127,845,12
-2011-M-FU-GBR-02A-2011,Great Britain F2,Hard,32,S,20110117,20,105163,,,Gleb Sakharov,R,185,FRA,22.6,104623,8,,Josh Goodall,R,188,GBR,25.2,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,574,41,,
+2011-M-FU-GBR-02A-2011,Great Britain F2,Hard,32,S,20110117,20,105163,,,Gleb Sakharov,R,185,FRA,22.6,104623,8,,Josh Goodall,R,188,GBR,25.2,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,574,41,399,101
 2011-M-FU-GBR-02A-2011,Great Britain F2,Hard,32,S,20110117,21,104932,,,Kenny De Schepper,L,203,FRA,23.6,104633,,,Mathieu Rodrigues,R,180,FRA,25.1,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,471,69,427,90
 2011-M-FU-GBR-02A-2011,Great Britain F2,Hard,32,S,20110117,22,104453,3,,Michael Ryderstedt,L,188,SWE,26.1,105052,,,Chris Eaton,R,188,GBR,23.1,4-6 6-3 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,338,129,527,53
 2011-M-FU-GBR-02A-2011,Great Britain F2,Hard,32,S,20110117,23,106281,,Q,Liam Broady,L,183,GBR,17.0,104352,,,Colin Obrien,U,,IRL,26.7,5-7 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1107,4,615,34
@@ -1057,7 +1057,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-GER-04A-2011,Germany F4,Carpet,32,S,20110131,10,105052,,,Chris Eaton,R,188,GBR,23.1,105788,,Q,Jakob Sude,U,,GER,19.6,7-6(3) 6-7(6) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,639,30,960,8
 2011-M-FU-GER-04A-2011,Germany F4,Carpet,32,S,20110131,11,105376,,,Peter Gojowczyk,R,185,GER,21.5,104692,,,Alexander Slabinsky,R,185,GBR,24.9,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,455,73,512,56
 2011-M-FU-GER-04A-2011,Germany F4,Carpet,32,S,20110131,12,105669,,LL,Franjo Raspudic,R,,BIH,20.2,122046,,WC,Mario Gehrlein,U,,GER,19.8,6-4 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,1020,6,,
-2011-M-FU-GER-04A-2011,Germany F4,Carpet,32,S,20110131,13,104623,5,,Josh Goodall,R,188,GBR,25.2,102179,,,Antony Dupuis,R,185,FRA,37.9,5-7 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,480,67
+2011-M-FU-GER-04A-2011,Germany F4,Carpet,32,S,20110131,13,104623,5,,Josh Goodall,R,188,GBR,25.2,102179,,,Antony Dupuis,R,185,FRA,37.9,5-7 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,422,91,480,67
 2011-M-FU-GER-04A-2011,Germany F4,Carpet,32,S,20110131,14,104306,,,Ivan Bjelica,R,,SRB,26.9,104410,,,Andrei Mlendea,U,,ROU,26.4,6-2 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,490,64,500,61
 2011-M-FU-GER-04A-2011,Germany F4,Carpet,32,S,20110131,15,105732,,,Pierre Hugues Herbert,R,188,FRA,19.8,104178,,,Max Raditschnigg,L,,AUT,27.7,6-4 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,492,64,506,57
 2011-M-FU-GER-04A-2011,Germany F4,Carpet,32,S,20110131,16,103520,,,Pavel Snobel,L,190,CZE,30.9,104487,2,,Marcel Zimmermann,R,183,GER,26.0,4-6 6-1 3-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,486,65,344,129
@@ -1067,14 +1067,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-GER-04A-2011,Germany F4,Carpet,32,S,20110131,20,105472,,WC,Nils Langer,R,193,GER,21.0,105613,,,Norbert Gombos,R,193,SVK,20.4,7-6(4) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,947,8,583,39
 2011-M-FU-GER-04A-2011,Germany F4,Carpet,32,S,20110131,21,104914,6,,Ervin Eleskovic,R,,SWE,23.7,105052,,,Chris Eaton,R,188,GBR,23.1,7-6(5) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,414,93,639,30
 2011-M-FU-GER-04A-2011,Germany F4,Carpet,32,S,20110131,22,105376,,,Peter Gojowczyk,R,185,GER,21.5,105669,,LL,Franjo Raspudic,R,,BIH,20.2,6-2 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,455,73,1020,6
-2011-M-FU-GER-04A-2011,Germany F4,Carpet,32,S,20110131,23,104623,5,,Josh Goodall,R,188,GBR,25.2,104306,,,Ivan Bjelica,R,,SRB,26.9,7-6(12) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,490,64
+2011-M-FU-GER-04A-2011,Germany F4,Carpet,32,S,20110131,23,104623,5,,Josh Goodall,R,188,GBR,25.2,104306,,,Ivan Bjelica,R,,SRB,26.9,7-6(12) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,422,91,490,64
 2011-M-FU-GER-04A-2011,Germany F4,Carpet,32,S,20110131,24,105732,,,Pierre Hugues Herbert,R,188,FRA,19.8,103520,,,Pavel Snobel,L,190,CZE,30.9,7-6(4) 6-7(4) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,492,64,486,65
 2011-M-FU-GER-04A-2011,Germany F4,Carpet,32,S,20110131,25,103662,,Q,Holger Fischer,R,,GER,30.1,104551,8,,Gero Kretschmer,R,,GER,25.7,6-3 7-6(3),3,QF,,,,,,,,,,,,,,,,,,,,605,35,444,80
 2011-M-FU-GER-04A-2011,Germany F4,Carpet,32,S,20110131,26,105526,4,,Jan Lennard Struff,R,193,GER,20.7,105472,,WC,Nils Langer,R,193,GER,21.0,6-0 6-1,3,QF,,,,,,,,,,,,,,,,,,,,364,116,947,8
 2011-M-FU-GER-04A-2011,Germany F4,Carpet,32,S,20110131,27,104914,6,,Ervin Eleskovic,R,,SWE,23.7,105376,,,Peter Gojowczyk,R,185,GER,21.5,7-6(6) 3-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,414,93,455,73
-2011-M-FU-GER-04A-2011,Germany F4,Carpet,32,S,20110131,28,104623,5,,Josh Goodall,R,188,GBR,25.2,105732,,,Pierre Hugues Herbert,R,188,FRA,19.8,7-5 6-2,3,QF,,,,,,,,,,,,,,,,,,,,,,492,64
+2011-M-FU-GER-04A-2011,Germany F4,Carpet,32,S,20110131,28,104623,5,,Josh Goodall,R,188,GBR,25.2,105732,,,Pierre Hugues Herbert,R,188,FRA,19.8,7-5 6-2,3,QF,,,,,,,,,,,,,,,,,,,,422,91,492,64
 2011-M-FU-GER-04A-2011,Germany F4,Carpet,32,S,20110131,29,105526,4,,Jan Lennard Struff,R,193,GER,20.7,103662,,Q,Holger Fischer,R,,GER,30.1,7-6(5) 6-3,3,SF,,,,,,,,,,,,,,,,,,,,364,116,605,35
-2011-M-FU-GER-04A-2011,Germany F4,Carpet,32,S,20110131,30,104914,6,,Ervin Eleskovic,R,,SWE,23.7,104623,5,,Josh Goodall,R,188,GBR,25.2,6-3 6-7(4) 7-5,3,SF,,,,,,,,,,,,,,,,,,,,414,93,,
+2011-M-FU-GER-04A-2011,Germany F4,Carpet,32,S,20110131,30,104914,6,,Ervin Eleskovic,R,,SWE,23.7,104623,5,,Josh Goodall,R,188,GBR,25.2,6-3 6-7(4) 7-5,3,SF,,,,,,,,,,,,,,,,,,,,414,93,422,91
 2011-M-FU-GER-04A-2011,Germany F4,Carpet,32,S,20110131,31,104914,6,,Ervin Eleskovic,R,,SWE,23.7,105526,4,,Jan Lennard Struff,R,193,GER,20.7,7-5 6-4,3,F,,,,,,,,,,,,,,,,,,,,414,93,364,116
 2011-M-FU-ESP-04A-2011,Spain F4,Clay,32,S,20110131,1,105128,1,,Guillermo Olaso,U,175,ESP,22.8,105304,,,Marcelo Palacios Siegenthale,R,,ESP,21.8,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,229,214,586,39
 2011-M-FU-ESP-04A-2011,Spain F4,Clay,32,S,20110131,2,105515,,Q,Jordi Samper Montana,U,,ESP,20.7,121417,,Q,Giovanni Galuppo,R,,ITA,22.6,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,916,10,,
@@ -1303,7 +1303,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-TUR-04A-2011,Turkey F4,Hard,32,S,20110207,31,105426,,,Michael Linzer,R,,AUT,21.2,104149,5,,Adrian Cruciat,R,185,ROU,27.8,4-6 6-1 6-1,3,F,,,,,,,,,,,,,,,,,,,,546,48,397,102
 2011-M-FU-CRO-01A-2011,Croatia F1,Hard,32,S,20110214,1,105243,,Q,Antonio Sancic,R,,CRO,22.2,104868,1,,James Ward,R,190,GBR,24.0,7-6(6) 5-7 7-5,3,R32,,,,,,,,,,,,,,,,,,,,870,11,211,242
 2011-M-FU-CRO-01A-2011,Croatia F1,Hard,32,S,20110214,2,105122,,,Karlis Lejnieks,R,,LAT,22.9,105711,,LL,Dino Marcan,R,178,CRO,20.0,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,375,114,686,23
-2011-M-FU-CRO-01A-2011,Croatia F1,Hard,32,S,20110214,3,104623,,,Josh Goodall,R,188,GBR,25.3,106207,,WC,Mate Pavic,L,193,CRO,17.6,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,1443,1
+2011-M-FU-CRO-01A-2011,Croatia F1,Hard,32,S,20110214,3,104623,,,Josh Goodall,R,188,GBR,25.3,106207,,WC,Mate Pavic,L,193,CRO,17.6,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,419,91,1443,1
 2011-M-FU-CRO-01A-2011,Croatia F1,Hard,32,S,20110214,4,104487,6,,Marcel Zimmermann,R,183,GER,26.0,105422,,,Joshua Milton,R,,GBR,21.3,6-7(6) 6-2 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,344,131,360,121
 2011-M-FU-CRO-01A-2011,Croatia F1,Hard,32,S,20110214,5,103860,3,,Timo Nieminen,R,185,FIN,29.3,106000,,JE,Damir Dzumhur,R,172,BIH,18.7,6-4 5-7 6-1,3,R32,,,,,,,,,,,,,,,,,,,,294,157,978,7
 2011-M-FU-CRO-01A-2011,Croatia F1,Hard,32,S,20110214,6,105163,,Q,Gleb Sakharov,R,185,FRA,22.6,104306,,,Ivan Bjelica,R,,SRB,26.9,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,561,45,483,66
@@ -1318,7 +1318,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-CRO-01A-2011,Croatia F1,Hard,32,S,20110214,15,104852,,Q,Yannick Jankovits,R,,FRA,24.1,122033,,WC,Ivan Luka Sablic,R,,CRO,18.6,2-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,897,10,,
 2011-M-FU-CRO-01A-2011,Croatia F1,Hard,32,S,20110214,16,105091,,,Peter Torebko,R,185,GER,23.0,104644,2,,Riccardo Ghedin,R,188,ITA,25.1,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,491,63,283,165
 2011-M-FU-CRO-01A-2011,Croatia F1,Hard,32,S,20110214,17,105243,,Q,Antonio Sancic,R,,CRO,22.2,105122,,,Karlis Lejnieks,R,,LAT,22.9,6-3 7-6(0),3,R16,,,,,,,,,,,,,,,,,,,,870,11,375,114
-2011-M-FU-CRO-01A-2011,Croatia F1,Hard,32,S,20110214,18,104487,6,,Marcel Zimmermann,R,183,GER,26.0,104623,,,Josh Goodall,R,188,GBR,25.3,7-6(6) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,344,131,,
+2011-M-FU-CRO-01A-2011,Croatia F1,Hard,32,S,20110214,18,104487,6,,Marcel Zimmermann,R,183,GER,26.0,104623,,,Josh Goodall,R,188,GBR,25.3,7-6(6) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,344,131,419,91
 2011-M-FU-CRO-01A-2011,Croatia F1,Hard,32,S,20110214,19,103860,3,,Timo Nieminen,R,185,FIN,29.3,105163,,Q,Gleb Sakharov,R,185,FRA,22.6,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,294,157,561,45
 2011-M-FU-CRO-01A-2011,Croatia F1,Hard,32,S,20110214,20,105888,,LL,Toni Androic,R,168,CRO,19.1,103967,7,,Michael Lammer,R,185,SUI,28.8,6-3 2-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,834,13,350,129
 2011-M-FU-CRO-01A-2011,Croatia F1,Hard,32,S,20110214,21,105379,,Q,Aljaz Bedene,R,181,SLO,21.5,104399,,Q,Mislav Hizak,U,,CRO,26.5,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,494,62,608,35
@@ -1430,7 +1430,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-CRO-02A-2011,Croatia F2,Hard,32,S,20110221,3,105906,,LL,Kevin Krawietz,R,190,GER,19.0,105696,,Q,Borut Puc,L,193,CRO,20.0,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,806,15,546,47
 2011-M-FU-CRO-02A-2011,Croatia F2,Hard,32,S,20110221,4,104516,5,,Arnau Brugues Davi,L,183,ESP,25.9,105916,,Q,Marton Fucsovics,R,188,HUN,19.0,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,317,143,919,9
 2011-M-FU-CRO-02A-2011,Croatia F2,Hard,32,S,20110221,5,105254,3,,Nikola Mektic,R,183,CRO,22.1,104910,,Q,Tihomir Grozdanov,U,,BUL,23.8,7-6(6) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,292,157,550,46
-2011-M-FU-CRO-02A-2011,Croatia F2,Hard,32,S,20110221,6,104623,,,Josh Goodall,R,188,GBR,25.3,105472,,PR,Nils Langer,R,193,GER,21.0,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,867,11
+2011-M-FU-CRO-02A-2011,Croatia F2,Hard,32,S,20110221,6,104623,,,Josh Goodall,R,188,GBR,25.3,105472,,PR,Nils Langer,R,193,GER,21.0,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,417,91,867,11
 2011-M-FU-CRO-02A-2011,Croatia F2,Hard,32,S,20110221,7,105711,,Q,Dino Marcan,R,178,CRO,20.0,104707,,,Denis Matsukevitch,R,190,RUS,24.9,2-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,686,23,359,121
 2011-M-FU-CRO-02A-2011,Croatia F2,Hard,32,S,20110221,8,105175,6,,Kristijan Mesaros,R,,CRO,22.6,105470,,Q,Tim Van Terheijden,L,,NED,21.0,6-4 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,323,140,908,10
 2011-M-FU-CRO-02A-2011,Croatia F2,Hard,32,S,20110221,9,103967,8,,Michael Lammer,R,185,SUI,28.9,105012,,Q,Alexander Bury,R,203,BLR,23.4,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,363,119,474,67
@@ -1443,7 +1443,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-CRO-02A-2011,Croatia F2,Hard,32,S,20110221,16,105349,2,,Harri Heliovaara,R,188,FIN,21.7,105091,,,Peter Torebko,R,185,GER,23.0,6-3 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,285,160,487,63
 2011-M-FU-CRO-02A-2011,Croatia F2,Hard,32,S,20110221,17,104095,1,,David Guez,R,185,FRA,28.2,106000,,JE,Damir Dzumhur,R,172,BIH,18.7,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,162,342,977,7
 2011-M-FU-CRO-02A-2011,Croatia F2,Hard,32,S,20110221,18,105906,,LL,Kevin Krawietz,R,190,GER,19.0,104516,5,,Arnau Brugues Davi,L,183,ESP,25.9,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,806,15,317,143
-2011-M-FU-CRO-02A-2011,Croatia F2,Hard,32,S,20110221,19,105254,3,,Nikola Mektic,R,183,CRO,22.1,104623,,,Josh Goodall,R,188,GBR,25.3,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,292,157,,
+2011-M-FU-CRO-02A-2011,Croatia F2,Hard,32,S,20110221,19,105254,3,,Nikola Mektic,R,183,CRO,22.1,104623,,,Josh Goodall,R,188,GBR,25.3,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,292,157,417,91
 2011-M-FU-CRO-02A-2011,Croatia F2,Hard,32,S,20110221,20,105175,6,,Kristijan Mesaros,R,,CRO,22.6,105711,,Q,Dino Marcan,R,178,CRO,20.0,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,323,140,686,23
 2011-M-FU-CRO-02A-2011,Croatia F2,Hard,32,S,20110221,21,103967,8,,Michael Lammer,R,185,SUI,28.9,105163,,Q,Gleb Sakharov,R,185,FRA,22.6,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,363,119,558,45
 2011-M-FU-CRO-02A-2011,Croatia F2,Hard,32,S,20110221,22,105122,,,Karlis Lejnieks,R,,LAT,22.9,103860,4,,Timo Nieminen,R,185,FIN,29.3,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,375,114,293,157
@@ -1781,7 +1781,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-GBR-03A-2011,Great Britain F3,Hard,32,S,20110307,5,104838,,Q,Miles Bugby,U,,GBR,24.2,103860,4,,Timo Nieminen,R,185,FIN,29.4,2-6 6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1345,2,285,162
 2011-M-FU-GBR-03A-2011,Great Britain F3,Hard,32,S,20110307,6,105650,,,Marcus Willis,L,191,GBR,20.4,105236,,Q,Pirmin Haenle,R,,GER,22.3,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,626,33,1438,2
 2011-M-FU-GBR-03A-2011,Great Britain F3,Hard,32,S,20110307,7,105651,,,Daniel Smethurst,U,188,GBR,20.3,120634,,Q,Chris Priddle,U,,GBR,22.7,6-7(1) 7-6(4) 7-6(8),3,R32,,,,,,,,,,,,,,,,,,,,450,76,1071,5
-2011-M-FU-GBR-03A-2011,Great Britain F3,Hard,32,S,20110307,8,104623,8,,Josh Goodall,R,188,GBR,25.3,105052,,,Chris Eaton,R,188,GBR,23.2,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,572,42
+2011-M-FU-GBR-03A-2011,Great Britain F3,Hard,32,S,20110307,8,104623,8,,Josh Goodall,R,188,GBR,25.3,105052,,,Chris Eaton,R,188,GBR,23.2,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,411,93,572,42
 2011-M-FU-GBR-03A-2011,Great Britain F3,Hard,32,S,20110307,9,105091,,,Peter Torebko,R,185,GER,23.0,105422,5,,Joshua Milton,R,,GBR,21.3,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,481,65,358,120
 2011-M-FU-GBR-03A-2011,Great Britain F3,Hard,32,S,20110307,10,105163,,,Gleb Sakharov,R,185,FRA,22.7,104914,,,Ervin Eleskovic,R,,SWE,23.8,6-2 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,546,47,436,80
 2011-M-FU-GBR-03A-2011,Great Britain F3,Hard,32,S,20110307,11,104664,,,Nicolas Rosenzweig,U,,FRA,25.1,105192,,,Robert Varga,U,,HUN,22.6,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,846,13,805,15
@@ -1793,16 +1793,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-GBR-03A-2011,Great Britain F3,Hard,32,S,20110307,17,105969,,WC,James Marsalek,U,,GBR,18.9,105603,,,Francois Arthur Vibert,U,,FRA,20.5,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,792,16
 2011-M-FU-GBR-03A-2011,Great Britain F3,Hard,32,S,20110307,18,105554,7,,Daniel Evans,R,175,GBR,20.7,105528,,,Alexander Ward,U,185,GBR,20.8,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,400,98,500,59
 2011-M-FU-GBR-03A-2011,Great Britain F3,Hard,32,S,20110307,19,105650,,,Marcus Willis,L,191,GBR,20.4,104838,,Q,Miles Bugby,U,,GBR,24.2,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,626,33,1345,2
-2011-M-FU-GBR-03A-2011,Great Britain F3,Hard,32,S,20110307,20,104623,8,,Josh Goodall,R,188,GBR,25.3,105651,,,Daniel Smethurst,U,188,GBR,20.3,2-6 7-6(1) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,450,76
+2011-M-FU-GBR-03A-2011,Great Britain F3,Hard,32,S,20110307,20,104623,8,,Josh Goodall,R,188,GBR,25.3,105651,,,Daniel Smethurst,U,188,GBR,20.3,2-6 7-6(1) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,411,93,450,76
 2011-M-FU-GBR-03A-2011,Great Britain F3,Hard,32,S,20110307,21,105091,,,Peter Torebko,R,185,GER,23.0,105163,,,Gleb Sakharov,R,185,FRA,22.7,5-7 6-4 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,481,65,546,47
 2011-M-FU-GBR-03A-2011,Great Britain F3,Hard,32,S,20110307,22,105315,,Q,Andrew Fitzpatrick,R,,GBR,21.9,104664,,,Nicolas Rosenzweig,U,,FRA,25.1,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1082,5,846,13
 2011-M-FU-GBR-03A-2011,Great Britain F3,Hard,32,S,20110307,23,104171,6,,Richard Bloomfield,R,185,GBR,27.8,105414,,Q,Matthieu Roy,U,,FRA,21.4,5-7 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,379,110,1152,4
 2011-M-FU-GBR-03A-2011,Great Britain F3,Hard,32,S,20110307,24,104963,2,,Yannick Mertens,R,188,BEL,23.6,105321,,Q,Joshua Jones,L,,GBR,21.8,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,282,163,,
 2011-M-FU-GBR-03A-2011,Great Britain F3,Hard,32,S,20110307,25,105554,7,,Daniel Evans,R,175,GBR,20.7,105969,,WC,James Marsalek,U,,GBR,18.9,7-6(5) 5-7 6-3,3,QF,,,,,,,,,,,,,,,,,,,,400,98,,
-2011-M-FU-GBR-03A-2011,Great Britain F3,Hard,32,S,20110307,26,104623,8,,Josh Goodall,R,188,GBR,25.3,105650,,,Marcus Willis,L,191,GBR,20.4,6-4 7-6(6),3,QF,,,,,,,,,,,,,,,,,,,,,,626,33
+2011-M-FU-GBR-03A-2011,Great Britain F3,Hard,32,S,20110307,26,104623,8,,Josh Goodall,R,188,GBR,25.3,105650,,,Marcus Willis,L,191,GBR,20.4,6-4 7-6(6),3,QF,,,,,,,,,,,,,,,,,,,,411,93,626,33
 2011-M-FU-GBR-03A-2011,Great Britain F3,Hard,32,S,20110307,27,105091,,,Peter Torebko,R,185,GER,23.0,105315,,Q,Andrew Fitzpatrick,R,,GBR,21.9,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,481,65,1082,5
 2011-M-FU-GBR-03A-2011,Great Britain F3,Hard,32,S,20110307,28,104963,2,,Yannick Mertens,R,188,BEL,23.6,104171,6,,Richard Bloomfield,R,185,GBR,27.8,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,282,163,379,110
-2011-M-FU-GBR-03A-2011,Great Britain F3,Hard,32,S,20110307,29,105554,7,,Daniel Evans,R,175,GBR,20.7,104623,8,,Josh Goodall,R,188,GBR,25.3,5-7 7-5 6-3,3,SF,,,,,,,,,,,,,,,,,,,,400,98,,
+2011-M-FU-GBR-03A-2011,Great Britain F3,Hard,32,S,20110307,29,105554,7,,Daniel Evans,R,175,GBR,20.7,104623,8,,Josh Goodall,R,188,GBR,25.3,5-7 7-5 6-3,3,SF,,,,,,,,,,,,,,,,,,,,400,98,411,93
 2011-M-FU-GBR-03A-2011,Great Britain F3,Hard,32,S,20110307,30,104963,2,,Yannick Mertens,R,188,BEL,23.6,105091,,,Peter Torebko,R,185,GER,23.0,6-4 7-6(9),3,SF,,,,,,,,,,,,,,,,,,,,282,163,481,65
 2011-M-FU-GBR-03A-2011,Great Britain F3,Hard,32,S,20110307,31,104963,2,,Yannick Mertens,R,188,BEL,23.6,105554,7,,Daniel Evans,R,175,GBR,20.7,6-2 7-6(6),3,F,,,,,,,,,,,,,,,,,,,,282,163,400,98
 2011-M-FU-ITA-01A-2011,Italy F1,Hard,32,S,20110307,1,105331,,,Petru Alexandru Luncanu,L,185,ROU,21.8,103893,1,WC,Paolo Lorenzi,R,183,ITA,29.2,6-4 6-7(1) 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,520,53,145,387
@@ -2047,7 +2047,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-GBR-04A-2011,Great Britain F4,Hard,32,S,20110314,7,105650,,Q,Marcus Willis,L,191,GBR,20.4,104838,,LL,Miles Bugby,U,,GBR,24.2,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,626,33,1345,2
 2011-M-FU-GBR-04A-2011,Great Britain F4,Hard,32,S,20110314,8,104453,6,,Michael Ryderstedt,L,188,SWE,26.3,105528,,,Alexander Ward,U,185,GBR,20.8,6-7(3) 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,318,143,500,59
 2011-M-FU-GBR-04A-2011,Great Britain F4,Hard,32,S,20110314,9,102999,5,,Stefano Galvani,R,178,ITA,33.7,104945,,Q,James Mcgee,R,183,IRL,23.7,1-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,298,155,666,26
-2011-M-FU-GBR-04A-2011,Great Britain F4,Hard,32,S,20110314,10,104623,,,Josh Goodall,R,188,GBR,25.3,105914,,Q,Ashley Hewitt,R,,GBR,19.0,6-4 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1247,3
+2011-M-FU-GBR-04A-2011,Great Britain F4,Hard,32,S,20110314,10,104623,,,Josh Goodall,R,188,GBR,25.3,105914,,Q,Ashley Hewitt,R,,GBR,19.0,6-4 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,411,93,1247,3
 2011-M-FU-GBR-04A-2011,Great Britain F4,Hard,32,S,20110314,11,105070,,,Hans Podlipnik Castillo,R,183,CHI,23.1,105315,,WC,Andrew Fitzpatrick,R,,GBR,21.9,4-6 7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,485,63,1082,5
 2011-M-FU-GBR-04A-2011,Great Britain F4,Hard,32,S,20110314,12,104963,4,,Yannick Mertens,R,188,BEL,23.6,104692,,Q,Alexander Slabinsky,R,185,GBR,25.0,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,282,163,513,56
 2011-M-FU-GBR-04A-2011,Great Britain F4,Hard,32,S,20110314,13,105080,8,,Miloslav Mecir Jr,R,190,SVK,23.1,106244,,WC,Oliver Golding,R,188,GBR,17.4,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,339,134,1148,4
@@ -2058,7 +2058,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-GBR-04A-2011,Great Britain F4,Hard,32,S,20110314,18,105052,,WC,Chris Eaton,R,188,GBR,23.2,103967,7,,Michael Lammer,R,185,SUI,28.9,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,572,42,336,135
 2011-M-FU-GBR-04A-2011,Great Britain F4,Hard,32,S,20110314,19,105091,,,Peter Torebko,R,185,GER,23.0,104010,3,,Dieter Kindlmann,R,183,GER,28.7,7-5 2-6 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,481,65,249,191
 2011-M-FU-GBR-04A-2011,Great Britain F4,Hard,32,S,20110314,20,104453,6,,Michael Ryderstedt,L,188,SWE,26.3,105650,,Q,Marcus Willis,L,191,GBR,20.4,7-6(2) 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,318,143,626,33
-2011-M-FU-GBR-04A-2011,Great Britain F4,Hard,32,S,20110314,21,102999,5,,Stefano Galvani,R,178,ITA,33.7,104623,,,Josh Goodall,R,188,GBR,25.3,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,298,155,,
+2011-M-FU-GBR-04A-2011,Great Britain F4,Hard,32,S,20110314,21,102999,5,,Stefano Galvani,R,178,ITA,33.7,104623,,,Josh Goodall,R,188,GBR,25.3,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,298,155,411,93
 2011-M-FU-GBR-04A-2011,Great Britain F4,Hard,32,S,20110314,22,104963,4,,Yannick Mertens,R,188,BEL,23.6,105070,,,Hans Podlipnik Castillo,R,183,CHI,23.1,7-6(7) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,282,163,485,63
 2011-M-FU-GBR-04A-2011,Great Britain F4,Hard,32,S,20110314,23,104372,,,Alex Bogdanovic,L,183,GBR,26.7,105080,8,,Miloslav Mecir Jr,R,190,SVK,23.1,6-4 4-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,372,112,339,134
 2011-M-FU-GBR-04A-2011,Great Britain F4,Hard,32,S,20110314,24,105554,,,Daniel Evans,R,175,GBR,20.7,104965,2,,Pavol Cervenak,R,191,SVK,23.6,4-6 6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,400,98,241,203
@@ -3401,7 +3401,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-TUR-13A-2011,Turkey F13,Hard,32,S,20110411,10,105726,,SE,Yannik Reuter,R,,BEL,20.0,105814,,Q,Maximilian Neuchrist,R,,AUT,19.7,2-6 7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,688,24,1402,2
 2011-M-FU-TUR-13A-2011,Turkey F13,Hard,32,S,20110411,11,105430,,,Radu Albot,R,175,MDA,21.4,105725,,Q,Rafal Gozdur,U,,POL,20.1,3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,402,99,998,7
 2011-M-FU-TUR-13A-2011,Turkey F13,Hard,32,S,20110411,12,103521,4,,Andrea Stoppini,R,190,ITA,31.1,104187,,Q,Vadim Alekseenko,R,,UKR,27.8,6-2 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,397,101,910,10
-2011-M-FU-TUR-13A-2011,Turkey F13,Hard,32,S,20110411,13,104623,5,,Josh Goodall,R,188,GBR,25.4,122069,,WC,Efekan Senolsun,R,,TUR,15.4,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2011-M-FU-TUR-13A-2011,Turkey F13,Hard,32,S,20110411,13,104623,5,,Josh Goodall,R,188,GBR,25.4,122069,,WC,Efekan Senolsun,R,,TUR,15.4,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,404,99,,
 2011-M-FU-TUR-13A-2011,Turkey F13,Hard,32,S,20110411,14,105486,,Q,Xander Spong,R,,NED,21.1,105012,,,Alexander Bury,R,203,BLR,23.5,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,844,13,463,72
 2011-M-FU-TUR-13A-2011,Turkey F13,Hard,32,S,20110411,15,106075,,Q,Jozef Kovalik,R,183,SVK,18.4,103760,,,Haluk Akkoyun,R,,TUR,29.9,7-5 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1022,6,623,32
 2011-M-FU-TUR-13A-2011,Turkey F13,Hard,32,S,20110411,16,104410,,,Andrei Mlendea,U,,ROU,26.6,104707,2,,Denis Matsukevitch,R,190,RUS,25.0,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,441,82,306,156
@@ -3411,12 +3411,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-TUR-13A-2011,Turkey F13,Hard,32,S,20110411,20,105376,8,,Peter Gojowczyk,R,185,GER,21.7,105436,,Q,Markus Eriksson,R,188,SWE,21.3,7-5 4-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,431,85,997,7
 2011-M-FU-TUR-13A-2011,Turkey F13,Hard,32,S,20110411,21,105726,,SE,Yannik Reuter,R,,BEL,20.0,104360,,Q,Adam Chadaj,L,178,POL,26.9,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,688,24,671,26
 2011-M-FU-TUR-13A-2011,Turkey F13,Hard,32,S,20110411,22,105430,,,Radu Albot,R,175,MDA,21.4,103521,4,,Andrea Stoppini,R,190,ITA,31.1,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,402,99,397,101
-2011-M-FU-TUR-13A-2011,Turkey F13,Hard,32,S,20110411,23,104623,5,,Josh Goodall,R,188,GBR,25.4,105486,,Q,Xander Spong,R,,NED,21.1,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,844,13
+2011-M-FU-TUR-13A-2011,Turkey F13,Hard,32,S,20110411,23,104623,5,,Josh Goodall,R,188,GBR,25.4,105486,,Q,Xander Spong,R,,NED,21.1,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,404,99,844,13
 2011-M-FU-TUR-13A-2011,Turkey F13,Hard,32,S,20110411,24,106075,,Q,Jozef Kovalik,R,183,SVK,18.4,104410,,,Andrei Mlendea,U,,ROU,26.6,3-6 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1022,6,441,82
 2011-M-FU-TUR-13A-2011,Turkey F13,Hard,32,S,20110411,25,105454,1,,Brydan Klein,R,183,AUS,21.2,104893,,,Maxime Authom,R,,BEL,24.0,5-7 6-3 6-0,3,QF,,,,,,,,,,,,,,,,,,,,228,225,503,60
 2011-M-FU-TUR-13A-2011,Turkey F13,Hard,32,S,20110411,26,105376,8,,Peter Gojowczyk,R,185,GER,21.7,105080,3,,Miloslav Mecir Jr,R,190,SVK,23.2,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,431,85,350,130
 2011-M-FU-TUR-13A-2011,Turkey F13,Hard,32,S,20110411,27,105430,,,Radu Albot,R,175,MDA,21.4,105726,,SE,Yannik Reuter,R,,BEL,20.0,3-6 6-3 6-0,3,QF,,,,,,,,,,,,,,,,,,,,402,99,688,24
-2011-M-FU-TUR-13A-2011,Turkey F13,Hard,32,S,20110411,28,106075,,Q,Jozef Kovalik,R,183,SVK,18.4,104623,5,,Josh Goodall,R,188,GBR,25.4,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,1022,6,,
+2011-M-FU-TUR-13A-2011,Turkey F13,Hard,32,S,20110411,28,106075,,Q,Jozef Kovalik,R,183,SVK,18.4,104623,5,,Josh Goodall,R,188,GBR,25.4,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,1022,6,404,99
 2011-M-FU-TUR-13A-2011,Turkey F13,Hard,32,S,20110411,29,105376,8,,Peter Gojowczyk,R,185,GER,21.7,105454,1,,Brydan Klein,R,183,AUS,21.2,3-6 7-6(3) 6-4,3,SF,,,,,,,,,,,,,,,,,,,,431,85,228,225
 2011-M-FU-TUR-13A-2011,Turkey F13,Hard,32,S,20110411,30,105430,,,Radu Albot,R,175,MDA,21.4,106075,,Q,Jozef Kovalik,R,183,SVK,18.4,3-6 6-4 7-6(6),3,SF,,,,,,,,,,,,,,,,,,,,402,99,1022,6
 2011-M-FU-TUR-13A-2011,Turkey F13,Hard,32,S,20110411,31,105430,,,Radu Albot,R,175,MDA,21.4,105376,8,,Peter Gojowczyk,R,185,GER,21.7,6-3 6-2,3,F,,,,,,,,,,,,,,,,,,,,402,99,431,85
@@ -3614,7 +3614,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-TUR-14A-2011,Turkey F14,Hard,32,S,20110418,6,105486,,Q,Xander Spong,R,,NED,21.1,103760,,Q,Haluk Akkoyun,R,,TUR,29.9,3-6 7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,837,13,616,33
 2011-M-FU-TUR-14A-2011,Turkey F14,Hard,32,S,20110418,7,104141,,Q,Dmitri Sitak,R,183,RUS,28.1,105551,,WC,Anil Yuksel,L,,TUR,20.9,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,828,13,1178,4
 2011-M-FU-TUR-14A-2011,Turkey F14,Hard,32,S,20110418,8,104847,8,,Adrien Bossel,L,,SUI,24.3,105519,,LL,Marin Franjicevic,U,,CRO,21.0,4-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,424,92,959,8
-2011-M-FU-TUR-14A-2011,Turkey F14,Hard,32,S,20110418,9,104623,7,,Josh Goodall,R,188,GBR,25.5,105345,,,Sean Thornley,R,,GBR,21.8,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,581,39
+2011-M-FU-TUR-14A-2011,Turkey F14,Hard,32,S,20110418,9,104623,7,,Josh Goodall,R,188,GBR,25.5,105345,,,Sean Thornley,R,,GBR,21.8,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,425,92,581,39
 2011-M-FU-TUR-14A-2011,Turkey F14,Hard,32,S,20110418,10,104510,,,Stefan Seifert,L,,GER,26.1,105257,,,David Rice,R,,GBR,22.2,1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,553,46,474,69
 2011-M-FU-TUR-14A-2011,Turkey F14,Hard,32,S,20110418,11,105650,,,Marcus Willis,L,191,GBR,20.5,105012,,,Alexander Bury,R,203,BLR,23.5,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,594,37,462,72
 2011-M-FU-TUR-14A-2011,Turkey F14,Hard,32,S,20110418,12,104516,3,,Arnau Brugues Davi,L,183,ESP,26.1,105433,,,Roman Jebavy,R,,CZE,21.4,6-3 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,329,141,529,53
@@ -3626,7 +3626,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-TUR-14A-2011,Turkey F14,Hard,32,S,20110418,18,105726,,Q,Yannik Reuter,R,,BEL,20.1,104410,,,Andrei Mlendea,U,,ROU,26.7,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,612,34,440,82
 2011-M-FU-TUR-14A-2011,Turkey F14,Hard,32,S,20110418,19,105421,,,Michal Konecny,L,,CZE,21.5,105486,,Q,Xander Spong,R,,NED,21.1,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,558,45,837,13
 2011-M-FU-TUR-14A-2011,Turkey F14,Hard,32,S,20110418,20,104141,,Q,Dmitri Sitak,R,183,RUS,28.1,104847,8,,Adrien Bossel,L,,SUI,24.3,1-6 6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,828,13,424,92
-2011-M-FU-TUR-14A-2011,Turkey F14,Hard,32,S,20110418,21,104510,,,Stefan Seifert,L,,GER,26.1,104623,7,,Josh Goodall,R,188,GBR,25.5,6-7(3) 6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,553,46,,
+2011-M-FU-TUR-14A-2011,Turkey F14,Hard,32,S,20110418,21,104510,,,Stefan Seifert,L,,GER,26.1,104623,7,,Josh Goodall,R,188,GBR,25.5,6-7(3) 6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,553,46,425,92
 2011-M-FU-TUR-14A-2011,Turkey F14,Hard,32,S,20110418,22,104516,3,,Arnau Brugues Davi,L,183,ESP,26.1,105650,,,Marcus Willis,L,191,GBR,20.5,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,329,141,594,37
 2011-M-FU-TUR-14A-2011,Turkey F14,Hard,32,S,20110418,23,105312,,Q,Jiri Kosler,U,,CZE,22.0,105827,6,,Laurynas Grigelis,R,183,LTU,19.6,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,791,16,420,93
 2011-M-FU-TUR-14A-2011,Turkey F14,Hard,32,S,20110418,24,105070,,,Hans Podlipnik Castillo,R,183,CHI,23.2,104707,2,,Denis Matsukevitch,R,190,RUS,25.0,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,519,55,306,156
@@ -3703,7 +3703,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-GBR-05A-2011,Great Britain F5,Clay,32,S,20110425,2,105969,,WC,James Marsalek,U,,GBR,19.0,105369,,Q,Riccardo Maiga,R,,SUI,21.7,4-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1232,3,1040,6
 2011-M-FU-GBR-05A-2011,Great Britain F5,Clay,32,S,20110425,3,105874,,,Albano Olivetti,R,203,FRA,19.4,103691,,,Baptiste Dupuy,L,,FRA,30.2,7-6(6) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,523,54,530,53
 2011-M-FU-GBR-05A-2011,Great Britain F5,Clay,32,S,20110425,4,105963,,Q,Arthur De Greef,R,183,BEL,19.0,105257,6,,David Rice,R,,GBR,22.3,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,930,9,472,69
-2011-M-FU-GBR-05A-2011,Great Britain F5,Clay,32,S,20110425,5,104623,4,,Josh Goodall,R,188,GBR,25.5,105603,,,Francois Arthur Vibert,U,,FRA,20.7,6-7(3) 7-6(3) 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,,,771,17
+2011-M-FU-GBR-05A-2011,Great Britain F5,Clay,32,S,20110425,5,104623,4,,Josh Goodall,R,188,GBR,25.5,105603,,,Francois Arthur Vibert,U,,FRA,20.7,6-7(3) 7-6(3) 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,434,84,771,17
 2011-M-FU-GBR-05A-2011,Great Britain F5,Clay,32,S,20110425,6,104084,,,Carlos Poch Gradin,L,185,ESP,28.4,104112,,,Benjamin Balleret,R,185,MON,28.2,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,510,58
 2011-M-FU-GBR-05A-2011,Great Britain F5,Clay,32,S,20110425,7,106281,,,Liam Broady,L,183,GBR,17.3,105976,,WC,Jack Carpenter,U,,GBR,19.0,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,751,18,1037,6
 2011-M-FU-GBR-05A-2011,Great Britain F5,Clay,32,S,20110425,8,103636,8,,Federico Torresi,R,,ITA,30.5,105345,,,Sean Thornley,R,,GBR,21.9,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,495,63,623,32
@@ -3717,7 +3717,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-GBR-05A-2011,Great Britain F5,Clay,32,S,20110425,16,104692,,,Alexander Slabinsky,R,185,GBR,25.1,104171,2,,Richard Bloomfield,R,185,GBR,27.9,6-0 7-5,3,R32,,,,,,,,,,,,,,,,,,,,524,54,370,113
 2011-M-FU-GBR-05A-2011,Great Britain F5,Clay,32,S,20110425,17,105163,,,Gleb Sakharov,R,185,FRA,22.8,105969,,WC,James Marsalek,U,,GBR,19.0,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,571,41,1232,3
 2011-M-FU-GBR-05A-2011,Great Britain F5,Clay,32,S,20110425,18,105963,,Q,Arthur De Greef,R,183,BEL,19.0,105874,,,Albano Olivetti,R,203,FRA,19.4,7-5 6-0,3,R16,,,,,,,,,,,,,,,,,,,,930,9,523,54
-2011-M-FU-GBR-05A-2011,Great Britain F5,Clay,32,S,20110425,19,104084,,,Carlos Poch Gradin,L,185,ESP,28.4,104623,4,,Josh Goodall,R,188,GBR,25.5,4-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+2011-M-FU-GBR-05A-2011,Great Britain F5,Clay,32,S,20110425,19,104084,,,Carlos Poch Gradin,L,185,ESP,28.4,104623,4,,Josh Goodall,R,188,GBR,25.5,4-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,,,434,84
 2011-M-FU-GBR-05A-2011,Great Britain F5,Clay,32,S,20110425,20,103636,8,,Federico Torresi,R,,ITA,30.5,106281,,,Liam Broady,L,183,GBR,17.3,7-6(6) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,495,63,751,18
 2011-M-FU-GBR-05A-2011,Great Britain F5,Clay,32,S,20110425,21,105476,7,,Alexandre Folie,R,,BEL,21.2,104801,,Q,James Feaver,L,,GBR,24.6,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,475,69,845,13
 2011-M-FU-GBR-05A-2011,Great Britain F5,Clay,32,S,20110425,22,103687,,Q,Enrico Burzi,U,,ITA,30.2,104587,3,,Claudio Grassi,U,,ITA,25.7,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,740,19,373,113
@@ -4528,7 +4528,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-GBR-07A-2011,Great Britain F7,Clay,32,S,20110509,5,104084,,,Carlos Poch Gradin,L,185,ESP,28.4,104384,4,,Pablo Santos,R,183,ESP,26.8,3-6 6-3 30-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,320,148
 2011-M-FU-GBR-07A-2011,Great Britain F7,Clay,32,S,20110509,6,106132,,Q,Toby Martin,R,,GBR,18.2,105710,,Q,Daniel Mcgrath,U,,GBR,20.2,3-6 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1218,3,,
 2011-M-FU-GBR-07A-2011,Great Britain F7,Clay,32,S,20110509,7,105902,,,James Duckworth,R,183,AUS,19.2,106126,,Q,George Morgan,R,,GBR,18.2,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,653,27,957,8
-2011-M-FU-GBR-07A-2011,Great Britain F7,Clay,32,S,20110509,8,104623,7,,Josh Goodall,R,188,GBR,25.5,104274,,,Giulio Torroni,U,,ITA,27.4,2-6 7-6(4) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,731,20
+2011-M-FU-GBR-07A-2011,Great Britain F7,Clay,32,S,20110509,8,104623,7,,Josh Goodall,R,188,GBR,25.5,104274,,,Giulio Torroni,U,,ITA,27.4,2-6 7-6(4) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,423,86,731,20
 2011-M-FU-GBR-07A-2011,Great Britain F7,Clay,32,S,20110509,9,105150,8,,Pablo Martin Adalia,R,,ESP,22.9,104664,,,Nicolas Rosenzweig,U,,FRA,25.3,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,449,77,792,16
 2011-M-FU-GBR-07A-2011,Great Britain F7,Clay,32,S,20110509,10,105963,,Q,Arthur De Greef,R,183,BEL,19.1,106281,,,Liam Broady,L,183,GBR,17.3,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,739,19,737,19
 2011-M-FU-GBR-07A-2011,Great Britain F7,Clay,32,S,20110509,11,106244,,WC,Oliver Golding,R,188,GBR,17.6,105650,,,Marcus Willis,L,191,GBR,20.5,6-1 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,1092,5,605,34
@@ -4540,7 +4540,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-GBR-07A-2011,Great Britain F7,Clay,32,S,20110509,17,104963,1,,Yannick Mertens,R,188,BEL,23.8,104622,,,Massimo Capone,R,,ITA,25.5,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,273,176,621,31
 2011-M-FU-GBR-07A-2011,Great Britain F7,Clay,32,S,20110509,18,104388,6,,Morgan Phillips,U,,GBR,26.8,105914,,WC,Ashley Hewitt,R,,GBR,19.2,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,422,87,1265,3
 2011-M-FU-GBR-07A-2011,Great Britain F7,Clay,32,S,20110509,19,104084,,,Carlos Poch Gradin,L,185,ESP,28.4,106132,,Q,Toby Martin,R,,GBR,18.2,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,1218,3
-2011-M-FU-GBR-07A-2011,Great Britain F7,Clay,32,S,20110509,20,105902,,,James Duckworth,R,183,AUS,19.2,104623,7,,Josh Goodall,R,188,GBR,25.5,6-4 5-7 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,653,27,,
+2011-M-FU-GBR-07A-2011,Great Britain F7,Clay,32,S,20110509,20,105902,,,James Duckworth,R,183,AUS,19.2,104623,7,,Josh Goodall,R,188,GBR,25.5,6-4 5-7 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,653,27,423,86
 2011-M-FU-GBR-07A-2011,Great Britain F7,Clay,32,S,20110509,21,105150,8,,Pablo Martin Adalia,R,,ESP,22.9,105963,,Q,Arthur De Greef,R,183,BEL,19.1,6-3 3-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,449,77,739,19
 2011-M-FU-GBR-07A-2011,Great Britain F7,Clay,32,S,20110509,22,104291,3,,Malek Jaziri,R,185,TUN,27.2,106244,,WC,Oliver Golding,R,188,GBR,17.6,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,306,154,1092,5
 2011-M-FU-GBR-07A-2011,Great Britain F7,Clay,32,S,20110509,23,104171,5,,Richard Bloomfield,R,185,GBR,28.0,104801,,,James Feaver,L,,GBR,24.6,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,367,113,826,14
@@ -7617,7 +7617,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-GBR-08A-2011,Great Britain F8,Grass,32,S,20110627,1,104291,1,,Malek Jaziri,R,185,TUN,27.4,105460,,,Matthew Short,U,,GBR,21.4,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,293,158,976,8
 2011-M-FU-GBR-08A-2011,Great Britain F8,Grass,32,S,20110627,2,105924,,WC,Richard Gabb,R,,GBR,19.3,105588,,Q,Emilien Firmin,R,,FRA,20.9,7-6(13) 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,1205,4,963,8
 2011-M-FU-GBR-08A-2011,Great Britain F8,Grass,32,S,20110627,3,105959,,,Lewis Burton,R,,GBR,19.2,104664,,,Nicolas Rosenzweig,U,,FRA,25.4,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,881,11,951,9
-2011-M-FU-GBR-08A-2011,Great Britain F8,Grass,32,S,20110627,4,104623,6,,Josh Goodall,R,188,GBR,25.6,105599,,,Richard Waite,R,,GER,20.8,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,817,15
+2011-M-FU-GBR-08A-2011,Great Britain F8,Grass,32,S,20110627,4,104623,6,,Josh Goodall,R,188,GBR,25.6,105599,,,Richard Waite,R,,GER,20.8,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,437,80,817,15
 2011-M-FU-GBR-08A-2011,Great Britain F8,Grass,32,S,20110627,5,105345,,,Sean Thornley,R,,GBR,22.0,105257,3,,David Rice,R,,GBR,22.4,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,614,35,412,89
 2011-M-FU-GBR-08A-2011,Great Britain F8,Grass,32,S,20110627,6,105926,,Q,Tom Farquharson,U,,GBR,19.3,121851,,Q,Marshall Tutu,U,,GBR,19.2,4-6 7-6(4) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1393,2,1417,2
 2011-M-FU-GBR-08A-2011,Great Britain F8,Grass,32,S,20110627,7,104168,,,Enrico Iannuzzi,R,,ITA,28.1,104838,,WC,Miles Bugby,U,,GBR,24.5,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,944,9,1288,3
@@ -7631,14 +7631,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-GBR-08A-2011,Great Britain F8,Grass,32,S,20110627,15,105803,,,Marvin Barker,U,,NZL,19.9,105143,,,Burnham Arlidge,L,,GBR,23.1,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,769,18,918,10
 2011-M-FU-GBR-08A-2011,Great Britain F8,Grass,32,S,20110627,16,105573,2,,Henri Kontinen,R,191,FIN,21.0,105439,,,Neal Skupski,R,,GBR,21.5,6-7(4) 7-6(4) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,374,106,955,8
 2011-M-FU-GBR-08A-2011,Great Britain F8,Grass,32,S,20110627,17,104291,1,,Malek Jaziri,R,185,TUN,27.4,105924,,WC,Richard Gabb,R,,GBR,19.3,7-6(5) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,293,158,1205,4
-2011-M-FU-GBR-08A-2011,Great Britain F8,Grass,32,S,20110627,18,104623,6,,Josh Goodall,R,188,GBR,25.6,105959,,,Lewis Burton,R,,GBR,19.2,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,881,11
+2011-M-FU-GBR-08A-2011,Great Britain F8,Grass,32,S,20110627,18,104623,6,,Josh Goodall,R,188,GBR,25.6,105959,,,Lewis Burton,R,,GBR,19.2,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,437,80,881,11
 2011-M-FU-GBR-08A-2011,Great Britain F8,Grass,32,S,20110627,19,105345,,,Sean Thornley,R,,GBR,22.0,105926,,Q,Tom Farquharson,U,,GBR,19.3,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,614,35,1393,2
 2011-M-FU-GBR-08A-2011,Great Britain F8,Grass,32,S,20110627,20,105052,5,,Chris Eaton,R,188,GBR,23.5,104168,,,Enrico Iannuzzi,R,,ITA,28.1,7-6(2) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,434,80,944,9
 2011-M-FU-GBR-08A-2011,Great Britain F8,Grass,32,S,20110627,21,104971,,,Blake Strode,R,188,USA,23.9,105528,7,,Alexander Ward,U,185,GBR,21.1,7-6(6) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,543,50,487,65
 2011-M-FU-GBR-08A-2011,Great Britain F8,Grass,32,S,20110627,22,104331,4,,Rudy Coco,U,,FRA,27.2,104983,,Q,Kyle Brassington,U,,GBR,23.9,7-5 7-6(7),3,R16,,,,,,,,,,,,,,,,,,,,414,88,1417,2
 2011-M-FU-GBR-08A-2011,Great Britain F8,Grass,32,S,20110627,23,105874,8,,Albano Olivetti,R,203,FRA,19.5,105909,,,Sam Barry,R,,IRL,19.3,6-3 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,521,55,864,12
 2011-M-FU-GBR-08A-2011,Great Britain F8,Grass,32,S,20110627,24,105573,2,,Henri Kontinen,R,191,FIN,21.0,105803,,,Marvin Barker,U,,NZL,19.9,5-7 6-3 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,374,106,769,18
-2011-M-FU-GBR-08A-2011,Great Britain F8,Grass,32,S,20110627,25,104291,1,,Malek Jaziri,R,185,TUN,27.4,104623,6,,Josh Goodall,R,188,GBR,25.6,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,293,158,,
+2011-M-FU-GBR-08A-2011,Great Britain F8,Grass,32,S,20110627,25,104291,1,,Malek Jaziri,R,185,TUN,27.4,104623,6,,Josh Goodall,R,188,GBR,25.6,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,293,158,437,80
 2011-M-FU-GBR-08A-2011,Great Britain F8,Grass,32,S,20110627,26,105345,,,Sean Thornley,R,,GBR,22.0,105052,5,,Chris Eaton,R,188,GBR,23.5,6-3 7-6(4),3,QF,,,,,,,,,,,,,,,,,,,,614,35,434,80
 2011-M-FU-GBR-08A-2011,Great Britain F8,Grass,32,S,20110627,27,104331,4,,Rudy Coco,U,,FRA,27.2,104971,,,Blake Strode,R,188,USA,23.9,4-6 6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,414,88,543,50
 2011-M-FU-GBR-08A-2011,Great Britain F8,Grass,32,S,20110627,28,105573,2,,Henri Kontinen,R,191,FIN,21.0,105874,8,,Albano Olivetti,R,203,FRA,19.5,6-7(5) 6-1 7-5,3,QF,,,,,,,,,,,,,,,,,,,,374,106,521,55
@@ -8176,7 +8176,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-GBR-09A-2011,Great Britain F9,Grass,32,S,20110704,2,104983,,Q,Kyle Brassington,U,,GBR,23.9,105143,,,Burnham Arlidge,L,,GBR,23.1,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1420,2,923,10
 2011-M-FU-GBR-09A-2011,Great Britain F9,Grass,32,S,20110704,3,105969,,Q,James Marsalek,U,,GBR,19.2,105924,,Q,Richard Gabb,R,,GBR,19.3,6-4 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1104,5,1197,4
 2011-M-FU-GBR-09A-2011,Great Britain F9,Grass,32,S,20110704,4,105874,6,,Albano Olivetti,R,203,FRA,19.6,105959,,,Lewis Burton,R,,GBR,19.2,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,525,55,884,11
-2011-M-FU-GBR-09A-2011,Great Britain F9,Grass,32,S,20110704,5,104623,4,,Josh Goodall,R,188,GBR,25.7,104168,,,Enrico Iannuzzi,R,,ITA,28.1,6-3 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,,,968,8
+2011-M-FU-GBR-09A-2011,Great Britain F9,Grass,32,S,20110704,5,104623,4,,Josh Goodall,R,188,GBR,25.7,104168,,,Enrico Iannuzzi,R,,ITA,28.1,6-3 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,462,72,968,8
 2011-M-FU-GBR-09A-2011,Great Britain F9,Grass,32,S,20110704,6,105926,,Q,Tom Farquharson,U,,GBR,19.3,111428,,Q,James Chaudry,R,,GBR,20.3,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1397,2,,
 2011-M-FU-GBR-09A-2011,Great Britain F9,Grass,32,S,20110704,7,105650,,,Marcus Willis,L,191,GBR,20.7,119980,,Q,Alexander Farquharson,U,,GBR,27.1,6-7(7) 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,637,31,,
 2011-M-FU-GBR-09A-2011,Great Britain F9,Grass,32,S,20110704,8,105528,5,,Alexander Ward,U,185,GBR,21.1,105312,,,Jiri Kosler,U,,CZE,22.2,7-6(2) 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,490,64,742,19
@@ -8190,19 +8190,19 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-GBR-09A-2011,Great Britain F9,Grass,32,S,20110704,16,105257,2,,David Rice,R,,GBR,22.5,106126,,WC,George Morgan,R,,GBR,18.4,6-1 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,413,89,996,7
 2011-M-FU-GBR-09A-2011,Great Britain F9,Grass,32,S,20110704,17,104967,1,,Alexander Sadecky,L,193,SUI,23.9,104983,,Q,Kyle Brassington,U,,GBR,23.9,6-3 1-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,351,117,1420,2
 2011-M-FU-GBR-09A-2011,Great Britain F9,Grass,32,S,20110704,18,105874,6,,Albano Olivetti,R,203,FRA,19.6,105969,,Q,James Marsalek,U,,GBR,19.2,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,525,55,1104,5
-2011-M-FU-GBR-09A-2011,Great Britain F9,Grass,32,S,20110704,19,104623,4,,Josh Goodall,R,188,GBR,25.7,105926,,Q,Tom Farquharson,U,,GBR,19.3,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,1397,2
+2011-M-FU-GBR-09A-2011,Great Britain F9,Grass,32,S,20110704,19,104623,4,,Josh Goodall,R,188,GBR,25.7,105926,,Q,Tom Farquharson,U,,GBR,19.3,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,462,72,1397,2
 2011-M-FU-GBR-09A-2011,Great Britain F9,Grass,32,S,20110704,20,105650,,,Marcus Willis,L,191,GBR,20.7,105528,5,,Alexander Ward,U,185,GBR,21.1,7-6(5) 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,637,31,490,64
 2011-M-FU-GBR-09A-2011,Great Britain F9,Grass,32,S,20110704,21,105345,8,,Sean Thornley,R,,GBR,22.0,105588,,,Emilien Firmin,R,,FRA,20.9,6-4 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,611,35,934,9
 2011-M-FU-GBR-09A-2011,Great Britain F9,Grass,32,S,20110704,22,105052,3,,Chris Eaton,R,188,GBR,23.6,105803,,,Marvin Barker,U,,NZL,19.9,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,434,80,761,18
 2011-M-FU-GBR-09A-2011,Great Britain F9,Grass,32,S,20110704,23,105315,,WC,Andrew Fitzpatrick,R,,GBR,22.2,106207,,JE,Mate Pavic,L,193,CRO,17.9,5-7 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,877,12,1175,4
 2011-M-FU-GBR-09A-2011,Great Britain F9,Grass,32,S,20110704,24,105257,2,,David Rice,R,,GBR,22.5,106112,,,Sean Berman,R,,USA,18.4,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,413,89,842,13
 2011-M-FU-GBR-09A-2011,Great Britain F9,Grass,32,S,20110704,25,105874,6,,Albano Olivetti,R,203,FRA,19.6,104967,1,,Alexander Sadecky,L,193,SUI,23.9,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,525,55,351,117
-2011-M-FU-GBR-09A-2011,Great Britain F9,Grass,32,S,20110704,26,104623,4,,Josh Goodall,R,188,GBR,25.7,105650,,,Marcus Willis,L,191,GBR,20.7,6-7(3) 6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,,,637,31
+2011-M-FU-GBR-09A-2011,Great Britain F9,Grass,32,S,20110704,26,104623,4,,Josh Goodall,R,188,GBR,25.7,105650,,,Marcus Willis,L,191,GBR,20.7,6-7(3) 6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,462,72,637,31
 2011-M-FU-GBR-09A-2011,Great Britain F9,Grass,32,S,20110704,27,105345,8,,Sean Thornley,R,,GBR,22.0,105052,3,,Chris Eaton,R,188,GBR,23.6,6-4 6-7(3) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,611,35,434,80
 2011-M-FU-GBR-09A-2011,Great Britain F9,Grass,32,S,20110704,28,105257,2,,David Rice,R,,GBR,22.5,105315,,WC,Andrew Fitzpatrick,R,,GBR,22.2,7-5 6-4,3,QF,,,,,,,,,,,,,,,,,,,,413,89,877,12
-2011-M-FU-GBR-09A-2011,Great Britain F9,Grass,32,S,20110704,29,104623,4,,Josh Goodall,R,188,GBR,25.7,105874,6,,Albano Olivetti,R,203,FRA,19.6,4-6 6-1 6-2,3,SF,,,,,,,,,,,,,,,,,,,,,,525,55
+2011-M-FU-GBR-09A-2011,Great Britain F9,Grass,32,S,20110704,29,104623,4,,Josh Goodall,R,188,GBR,25.7,105874,6,,Albano Olivetti,R,203,FRA,19.6,4-6 6-1 6-2,3,SF,,,,,,,,,,,,,,,,,,,,462,72,525,55
 2011-M-FU-GBR-09A-2011,Great Britain F9,Grass,32,S,20110704,30,105257,2,,David Rice,R,,GBR,22.5,105345,8,,Sean Thornley,R,,GBR,22.0,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,413,89,611,35
-2011-M-FU-GBR-09A-2011,Great Britain F9,Grass,32,S,20110704,31,104623,4,,Josh Goodall,R,188,GBR,25.7,105257,2,,David Rice,R,,GBR,22.5,7-5 6-1,3,F,,,,,,,,,,,,,,,,,,,,,,413,89
+2011-M-FU-GBR-09A-2011,Great Britain F9,Grass,32,S,20110704,31,104623,4,,Josh Goodall,R,188,GBR,25.7,105257,2,,David Rice,R,,GBR,22.5,7-5 6-1,3,F,,,,,,,,,,,,,,,,,,,,462,72,413,89
 2011-M-FU-ITA-17A-2011,Italy F17,Clay,32,S,20110704,1,105718,,LL,Davide Melchiorre,R,,ITA,20.3,104814,,,Luca Rovetta,R,,ITA,24.7,6-2 1-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1434,2,1097,5
 2011-M-FU-ITA-17A-2011,Italy F17,Clay,32,S,20110704,2,105697,,,Marco Bortolotti,R,,ITA,20.4,101481,,WC,Omar Camporese,R,188,ITA,43.1,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,948,9,,
 2011-M-FU-ITA-17A-2011,Italy F17,Clay,32,S,20110704,3,104708,,,Jacopo Marchegiani,R,,ITA,25.2,105973,,Q,Tommaso Lago,R,,ITA,19.2,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1110,5,,
@@ -8525,7 +8525,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-GBR-10A-2011,Great Britain F10,Grass,32,S,20110711,10,106207,,Q,Mate Pavic,L,193,CRO,18.0,106378,,WC,Kyle Edmund,R,188,GBR,16.5,6-4 6-7(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1170,4,,
 2011-M-FU-GBR-10A-2011,Great Britain F10,Grass,32,S,20110711,11,105801,,Q,David Pel,L,,NED,20.0,105528,,,Alexander Ward,U,185,GBR,21.1,7-6(3) 3-6 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,1671,1,496,62
 2011-M-FU-GBR-10A-2011,Great Britain F10,Grass,32,S,20110711,12,105257,4,,David Rice,R,,GBR,22.5,110749,,Q,Joe Salisbury,U,,GBR,19.2,6-3 4-6 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,424,83,,
-2011-M-FU-GBR-10A-2011,Great Britain F10,Grass,32,S,20110711,13,104623,8,,Josh Goodall,R,188,GBR,25.7,105959,,,Lewis Burton,R,,GBR,19.2,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,866,12
+2011-M-FU-GBR-10A-2011,Great Britain F10,Grass,32,S,20110711,13,104623,8,,Josh Goodall,R,188,GBR,25.7,105959,,,Lewis Burton,R,,GBR,19.2,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,460,72,866,12
 2011-M-FU-GBR-10A-2011,Great Britain F10,Grass,32,S,20110711,14,105333,,Q,George Coupland,R,193,GBR,22.1,105874,,,Albano Olivetti,R,203,FRA,19.6,3-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,517,57
 2011-M-FU-GBR-10A-2011,Great Britain F10,Grass,32,S,20110711,15,106126,,Q,George Morgan,R,,GBR,18.4,105312,,,Jiri Kosler,U,,CZE,22.2,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,990,7,744,19
 2011-M-FU-GBR-10A-2011,Great Britain F10,Grass,32,S,20110711,16,104967,2,,Alexander Sadecky,L,193,SUI,24.0,105650,,,Marcus Willis,L,191,GBR,20.7,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,409,90,637,31
@@ -8535,15 +8535,15 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-GBR-10A-2011,Great Britain F10,Grass,32,S,20110711,20,105050,6,,Michael Look,R,,AUS,23.6,105460,,WC,Matthew Short,U,,GBR,21.5,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,432,81,966,8
 2011-M-FU-GBR-10A-2011,Great Britain F10,Grass,32,S,20110711,21,105052,7,,Chris Eaton,R,188,GBR,23.6,106207,,Q,Mate Pavic,L,193,CRO,18.0,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,426,82,1170,4
 2011-M-FU-GBR-10A-2011,Great Britain F10,Grass,32,S,20110711,22,105257,4,,David Rice,R,,GBR,22.5,105801,,Q,David Pel,L,,NED,20.0,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,424,83,1671,1
-2011-M-FU-GBR-10A-2011,Great Britain F10,Grass,32,S,20110711,23,104623,8,,Josh Goodall,R,188,GBR,25.7,105333,,Q,George Coupland,R,193,GBR,22.1,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+2011-M-FU-GBR-10A-2011,Great Britain F10,Grass,32,S,20110711,23,104623,8,,Josh Goodall,R,188,GBR,25.7,105333,,Q,George Coupland,R,193,GBR,22.1,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,460,72,,
 2011-M-FU-GBR-10A-2011,Great Britain F10,Grass,32,S,20110711,24,104967,2,,Alexander Sadecky,L,193,SUI,24.0,106126,,Q,George Morgan,R,,GBR,18.4,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,409,90,990,7
 2011-M-FU-GBR-10A-2011,Great Britain F10,Grass,32,S,20110711,25,105554,1,,Daniel Evans,R,175,GBR,21.1,105100,,Q,Edward Corrie,U,183,GBR,23.3,3-6 6-4 6-0,3,QF,,,,,,,,,,,,,,,,,,,,321,135,1727,1
 2011-M-FU-GBR-10A-2011,Great Britain F10,Grass,32,S,20110711,26,105050,6,,Michael Look,R,,AUS,23.6,105969,,WC,James Marsalek,U,,GBR,19.2,4-6 6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,432,81,1108,5
 2011-M-FU-GBR-10A-2011,Great Britain F10,Grass,32,S,20110711,27,105052,7,,Chris Eaton,R,188,GBR,23.6,105257,4,,David Rice,R,,GBR,22.5,4-6 6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,426,82,424,83
-2011-M-FU-GBR-10A-2011,Great Britain F10,Grass,32,S,20110711,28,104623,8,,Josh Goodall,R,188,GBR,25.7,104967,2,,Alexander Sadecky,L,193,SUI,24.0,6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,,,409,90
+2011-M-FU-GBR-10A-2011,Great Britain F10,Grass,32,S,20110711,28,104623,8,,Josh Goodall,R,188,GBR,25.7,104967,2,,Alexander Sadecky,L,193,SUI,24.0,6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,460,72,409,90
 2011-M-FU-GBR-10A-2011,Great Britain F10,Grass,32,S,20110711,29,105554,1,,Daniel Evans,R,175,GBR,21.1,105050,6,,Michael Look,R,,AUS,23.6,6-4 3-6 6-4,3,SF,,,,,,,,,,,,,,,,,,,,321,135,432,81
-2011-M-FU-GBR-10A-2011,Great Britain F10,Grass,32,S,20110711,30,104623,8,,Josh Goodall,R,188,GBR,25.7,105052,7,,Chris Eaton,R,188,GBR,23.6,7-6(10) 7-6(5),3,SF,,,,,,,,,,,,,,,,,,,,,,426,82
-2011-M-FU-GBR-10A-2011,Great Britain F10,Grass,32,S,20110711,31,104623,8,,Josh Goodall,R,188,GBR,25.7,105554,1,,Daniel Evans,R,175,GBR,21.1,6-3 6-2,3,F,,,,,,,,,,,,,,,,,,,,,,321,135
+2011-M-FU-GBR-10A-2011,Great Britain F10,Grass,32,S,20110711,30,104623,8,,Josh Goodall,R,188,GBR,25.7,105052,7,,Chris Eaton,R,188,GBR,23.6,7-6(10) 7-6(5),3,SF,,,,,,,,,,,,,,,,,,,,460,72,426,82
+2011-M-FU-GBR-10A-2011,Great Britain F10,Grass,32,S,20110711,31,104623,8,,Josh Goodall,R,188,GBR,25.7,105554,1,,Daniel Evans,R,175,GBR,21.1,6-3 6-2,3,F,,,,,,,,,,,,,,,,,,,,460,72,321,135
 2011-M-FU-ITA-18A-2011,Italy F18,Clay,32,S,20110711,1,104192,1,WC,Marco Crugnola,R,188,ITA,28.1,105628,,,Riccardo Sinicropi,R,,ITA,20.8,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,233,215,523,55
 2011-M-FU-ITA-18A-2011,Italy F18,Clay,32,S,20110711,2,104917,,,Anas Fattar,R,,MAR,24.1,105624,,,Enrico Fioravante,R,,ITA,20.8,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,827,14,734,20
 2011-M-FU-ITA-18A-2011,Italy F18,Clay,32,S,20110711,3,104578,,Q,Francesco Borgo,R,,ITA,25.9,105061,,,Filippo Leonardi,R,,ITA,23.5,6-3 5-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,972,8,573,43
@@ -9109,7 +9109,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-GBR-11A-2011,Great Britain F11,Hard,32,S,20110725,5,106093,4,,Benjamin Mitchell,R,183,AUS,18.6,104801,,,James Feaver,L,,GBR,24.8,7-6(8) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,385,103,816,15
 2011-M-FU-GBR-11A-2011,Great Britain F11,Hard,32,S,20110725,6,105315,,,Andrew Fitzpatrick,R,,GBR,22.2,105414,,Q,Matthieu Roy,U,,FRA,21.8,1-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,878,12,1175,4
 2011-M-FU-GBR-11A-2011,Great Britain F11,Hard,32,S,20110725,7,106272,,Q,Mark Richards,R,,AUS,17.6,105622,,Q,Jamie Whiteford,U,,GBR,20.9,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1270,3,1489,1
-2011-M-FU-GBR-11A-2011,Great Britain F11,Hard,32,S,20110725,8,104623,8,,Josh Goodall,R,188,GBR,25.7,106281,,,Liam Broady,L,183,GBR,17.5,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,667,27
+2011-M-FU-GBR-11A-2011,Great Britain F11,Hard,32,S,20110725,8,104623,8,,Josh Goodall,R,188,GBR,25.7,106281,,,Liam Broady,L,183,GBR,17.5,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,440,80,667,27
 2011-M-FU-GBR-11A-2011,Great Britain F11,Hard,32,S,20110725,9,105407,,,Elie Rousset,U,,FRA,21.8,105050,7,,Michael Look,R,,AUS,23.6,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,769,17,420,87
 2011-M-FU-GBR-11A-2011,Great Britain F11,Hard,32,S,20110725,10,105100,,Q,Edward Corrie,U,183,GBR,23.4,105836,,,Jules Marie,R,,FRA,19.8,6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,1246,3,840,13
 2011-M-FU-GBR-11A-2011,Great Britain F11,Hard,32,S,20110725,11,104819,,,Simon Cauvard,U,,FRA,24.7,105924,,Q,Richard Gabb,R,,GBR,19.4,6-4 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,587,40,1321,3
@@ -9121,13 +9121,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-GBR-11A-2011,Great Britain F11,Hard,32,S,20110725,17,105422,1,,Joshua Milton,R,,GBR,21.7,104852,,,Yannick Jankovits,R,,FRA,24.5,5-7 7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,308,147,852,13
 2011-M-FU-GBR-11A-2011,Great Britain F11,Hard,32,S,20110725,18,105257,6,,David Rice,R,,GBR,22.5,105434,,,Ruan Roelofse,R,188,RSA,21.6,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,429,85,479,67
 2011-M-FU-GBR-11A-2011,Great Britain F11,Hard,32,S,20110725,19,106093,4,,Benjamin Mitchell,R,183,AUS,18.6,105315,,,Andrew Fitzpatrick,R,,GBR,22.2,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,385,103,878,12
-2011-M-FU-GBR-11A-2011,Great Britain F11,Hard,32,S,20110725,20,104623,8,,Josh Goodall,R,188,GBR,25.7,106272,,Q,Mark Richards,R,,AUS,17.6,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,1270,3
+2011-M-FU-GBR-11A-2011,Great Britain F11,Hard,32,S,20110725,20,104623,8,,Josh Goodall,R,188,GBR,25.7,106272,,Q,Mark Richards,R,,AUS,17.6,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,440,80,1270,3
 2011-M-FU-GBR-11A-2011,Great Britain F11,Hard,32,S,20110725,21,105407,,,Elie Rousset,U,,FRA,21.8,105100,,Q,Edward Corrie,U,183,GBR,23.4,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,769,17,1246,3
 2011-M-FU-GBR-11A-2011,Great Britain F11,Hard,32,S,20110725,22,104819,,,Simon Cauvard,U,,FRA,24.7,104779,3,,Jamie Baker,R,183,GBR,24.9,0-6 7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,587,40,312,144
 2011-M-FU-GBR-11A-2011,Great Britain F11,Hard,32,S,20110725,23,105052,5,,Chris Eaton,R,188,GBR,23.6,106244,,,Oliver Golding,R,188,GBR,17.8,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,411,90,788,16
 2011-M-FU-GBR-11A-2011,Great Britain F11,Hard,32,S,20110725,24,105554,2,WC,Daniel Evans,R,175,GBR,21.1,105959,,,Lewis Burton,R,,GBR,19.3,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,313,143,870,12
 2011-M-FU-GBR-11A-2011,Great Britain F11,Hard,32,S,20110725,25,105422,1,,Joshua Milton,R,,GBR,21.7,105257,6,,David Rice,R,,GBR,22.5,4-6 6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,308,147,429,85
-2011-M-FU-GBR-11A-2011,Great Britain F11,Hard,32,S,20110725,26,106093,4,,Benjamin Mitchell,R,183,AUS,18.6,104623,8,,Josh Goodall,R,188,GBR,25.7,4-6 7-6(2) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,385,103,,
+2011-M-FU-GBR-11A-2011,Great Britain F11,Hard,32,S,20110725,26,106093,4,,Benjamin Mitchell,R,183,AUS,18.6,104623,8,,Josh Goodall,R,188,GBR,25.7,4-6 7-6(2) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,385,103,440,80
 2011-M-FU-GBR-11A-2011,Great Britain F11,Hard,32,S,20110725,27,105407,,,Elie Rousset,U,,FRA,21.8,104819,,,Simon Cauvard,U,,FRA,24.7,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,769,17,587,40
 2011-M-FU-GBR-11A-2011,Great Britain F11,Hard,32,S,20110725,28,105052,5,,Chris Eaton,R,188,GBR,23.6,105554,2,WC,Daniel Evans,R,175,GBR,21.1,6-4 3-6 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,411,90,313,143
 2011-M-FU-GBR-11A-2011,Great Britain F11,Hard,32,S,20110725,29,106093,4,,Benjamin Mitchell,R,183,AUS,18.6,105422,1,,Joshua Milton,R,,GBR,21.7,6-7(4) 6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,385,103,308,147
@@ -9393,7 +9393,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-GBR-12A-2011,Great Britain F12,Hard,32,S,20110801,2,105959,,,Lewis Burton,R,,GBR,19.3,105528,,Q,Alexander Ward,U,185,GBR,21.2,7-6(5) 6-7(5) 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,846,13,502,63
 2011-M-FU-GBR-12A-2011,Great Britain F12,Hard,32,S,20110801,3,104852,,,Yannick Jankovits,R,,FRA,24.5,106156,,Q,Sebastien Boltz,R,,FRA,18.3,6-1 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,856,13,890,11
 2011-M-FU-GBR-12A-2011,Great Britain F12,Hard,32,S,20110801,4,104779,5,,Jamie Baker,R,183,GBR,24.9,105315,,,Andrew Fitzpatrick,R,,GBR,22.3,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,311,144,884,12
-2011-M-FU-GBR-12A-2011,Great Britain F12,Hard,32,S,20110801,5,104623,,,Josh Goodall,R,188,GBR,25.7,105422,4,,Joshua Milton,R,,GBR,21.7,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,306,147
+2011-M-FU-GBR-12A-2011,Great Britain F12,Hard,32,S,20110801,5,104623,,,Josh Goodall,R,188,GBR,25.7,105422,4,,Joshua Milton,R,,GBR,21.7,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,442,80,306,147
 2011-M-FU-GBR-12A-2011,Great Britain F12,Hard,32,S,20110801,6,106016,,Q,Yanais Laurent,R,,FRA,19.1,105924,,Q,Richard Gabb,R,,GBR,19.4,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,1198,4
 2011-M-FU-GBR-12A-2011,Great Britain F12,Hard,32,S,20110801,7,105439,,Q,Neal Skupski,R,,GBR,21.6,106244,,,Oliver Golding,R,188,GBR,17.8,4-6 6-4 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,963,8,790,16
 2011-M-FU-GBR-12A-2011,Great Britain F12,Hard,32,S,20110801,8,104331,6,,Rudy Coco,U,,FRA,27.3,106281,,,Liam Broady,L,183,GBR,17.5,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,389,99,664,27
@@ -9407,17 +9407,17 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-M-FU-GBR-12A-2011,Great Britain F12,Hard,32,S,20110801,16,105969,,WC,James Marsalek,U,,GBR,19.3,104606,2,,Charles Antoine Brezac,R,,FRA,25.8,3-6 7-6(5) 3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,928,10,269,178
 2011-M-FU-GBR-12A-2011,Great Britain F12,Hard,32,S,20110801,17,105460,,Q,Matthew Short,U,,GBR,21.5,105959,,,Lewis Burton,R,,GBR,19.3,6-4 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,955,9,846,13
 2011-M-FU-GBR-12A-2011,Great Britain F12,Hard,32,S,20110801,18,104779,5,,Jamie Baker,R,183,GBR,24.9,104852,,,Yannick Jankovits,R,,FRA,24.5,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,311,144,856,13
-2011-M-FU-GBR-12A-2011,Great Britain F12,Hard,32,S,20110801,19,104623,,,Josh Goodall,R,188,GBR,25.7,106016,,Q,Yanais Laurent,R,,FRA,19.1,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+2011-M-FU-GBR-12A-2011,Great Britain F12,Hard,32,S,20110801,19,104623,,,Josh Goodall,R,188,GBR,25.7,106016,,Q,Yanais Laurent,R,,FRA,19.1,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,442,80,,
 2011-M-FU-GBR-12A-2011,Great Britain F12,Hard,32,S,20110801,20,105439,,Q,Neal Skupski,R,,GBR,21.6,104331,6,,Rudy Coco,U,,FRA,27.3,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,963,8,389,99
 2011-M-FU-GBR-12A-2011,Great Britain F12,Hard,32,S,20110801,21,105052,7,WC,Chris Eaton,R,188,GBR,23.6,104819,,,Simon Cauvard,U,,FRA,24.7,1-6 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,412,90,597,37
 2011-M-FU-GBR-12A-2011,Great Britain F12,Hard,32,S,20110801,22,104644,3,,Riccardo Ghedin,R,188,ITA,25.6,104801,,,James Feaver,L,,GBR,24.8,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,304,150,819,15
 2011-M-FU-GBR-12A-2011,Great Britain F12,Hard,32,S,20110801,23,105100,,WC,Edward Corrie,U,183,GBR,23.4,105267,,Q,Kevin Botti,L,,FRA,22.5,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1249,3,898,11
 2011-M-FU-GBR-12A-2011,Great Britain F12,Hard,32,S,20110801,24,105969,,WC,James Marsalek,U,,GBR,19.3,105407,,,Elie Rousset,U,,FRA,21.9,7-6(3) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,928,10,771,17
 2011-M-FU-GBR-12A-2011,Great Britain F12,Hard,32,S,20110801,25,104779,5,,Jamie Baker,R,183,GBR,24.9,105460,,Q,Matthew Short,U,,GBR,21.5,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,311,144,955,9
-2011-M-FU-GBR-12A-2011,Great Britain F12,Hard,32,S,20110801,26,104623,,,Josh Goodall,R,188,GBR,25.7,105439,,Q,Neal Skupski,R,,GBR,21.6,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,,,963,8
+2011-M-FU-GBR-12A-2011,Great Britain F12,Hard,32,S,20110801,26,104623,,,Josh Goodall,R,188,GBR,25.7,105439,,Q,Neal Skupski,R,,GBR,21.6,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,442,80,963,8
 2011-M-FU-GBR-12A-2011,Great Britain F12,Hard,32,S,20110801,27,104644,3,,Riccardo Ghedin,R,188,ITA,25.6,105052,7,WC,Chris Eaton,R,188,GBR,23.6,7-6(5) 6-1,3,QF,,,,,,,,,,,,,,,,,,,,304,150,412,90
 2011-M-FU-GBR-12A-2011,Great Britain F12,Hard,32,S,20110801,28,105100,,WC,Edward Corrie,U,183,GBR,23.4,105969,,WC,James Marsalek,U,,GBR,19.3,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,1249,3,928,10
-2011-M-FU-GBR-12A-2011,Great Britain F12,Hard,32,S,20110801,29,104779,5,,Jamie Baker,R,183,GBR,24.9,104623,,,Josh Goodall,R,188,GBR,25.7,5-7 6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,311,144,,
+2011-M-FU-GBR-12A-2011,Great Britain F12,Hard,32,S,20110801,29,104779,5,,Jamie Baker,R,183,GBR,24.9,104623,,,Josh Goodall,R,188,GBR,25.7,5-7 6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,311,144,442,80
 2011-M-FU-GBR-12A-2011,Great Britain F12,Hard,32,S,20110801,30,105100,,WC,Edward Corrie,U,183,GBR,23.4,104644,3,,Riccardo Ghedin,R,188,ITA,25.6,4-6 6-3 6-0,3,SF,,,,,,,,,,,,,,,,,,,,1249,3,304,150
 2011-M-FU-GBR-12A-2011,Great Britain F12,Hard,32,S,20110801,31,104779,5,,Jamie Baker,R,183,GBR,24.9,105100,,WC,Edward Corrie,U,183,GBR,23.4,6-1 4-6 6-1,3,F,,,,,,,,,,,,,,,,,,,,311,144,1249,3
 2011-M-FU-ITA-21A-2011,Italy F21,Clay,32,S,20110801,1,104587,1,,Claudio Grassi,U,,ITA,26.0,105193,,Q,Niccolo Mugelli,U,,ITA,23.0,4-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,327,135,1690,1
