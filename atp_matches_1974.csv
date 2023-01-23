@@ -698,13 +698,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1974-301,Auckland,Grass,32,A,19740107,280,100091,,,Colin Dibley,R,188,AUS,29.3,108085,,,Richard Hawkes,R,,NZL,33.1,6-2 6-1 7-6,5,R32,,,,,,,,,,,,,,,,,,,,39,,,
 1974-301,Auckland,Grass,32,A,19740107,281,100090,,,Dick Crealy,R,191,AUS,29.3,110368,,,Arthur Whitaker,U,,UNK,,7-5 2-6 6-3 6-4,5,R32,,,,,,,,,,,,,,,,,,,,51,,,
 1974-301,Auckland,Grass,32,A,19740107,282,100257,,,Ross Case,R,,AUS,22.1,100305,,,Mark Farrell,R,,GBR,20.6,7-5 6-3 6-7 6-2,5,R32,,,,,,,,,,,,,,,,,,,,42,,,
-1974-301,Auckland,Grass,32,A,19740107,283,209419,,,Bill Brown,U,,USA,,100331,,,Jean Louis Haillet,R,,FRA,19.6,6-4 6-3 6-1,5,R32,,,,,,,,,,,,,,,,,,,,,,195,
+1974-301,Auckland,Grass,32,A,19740107,283,100093,,,William Brown,R,,USA,28.9,100331,,,Jean Louis Haillet,R,,FRA,19.6,6-4 6-3 6-1,5,R32,,,,,,,,,,,,,,,,,,,,224,,195,
 1974-301,Auckland,Grass,32,A,19740107,284,100437,,,Bjorn Borg,R,180,SWE,17.5,107275,,,Jan Hordijk,R,,NED,23.9,6-4 6-2 6-1,5,R32,,,,,,,,,,,,,,,,,,,,18,,170,
 1974-301,Auckland,Grass,32,A,19740107,285,100201,,,Syd Ball,R,188,AUS,23.9,100343,,,John Lloyd,R,178,GBR,19.3,6-1 6-0 7-6,5,R32,,,,,,,,,,,,,,,,,,,,155,,100,
 1974-301,Auckland,Grass,32,A,19740107,286,100105,,,Allan Stone,R,,AUS,28.2,100130,,,Vladimir Zednik,R,,CZE,26.9,6-4 5-7 7-6 6-3,5,R16,,,,,,,,,,,,,,,,,,,,60,,90,
 1974-301,Auckland,Grass,32,A,19740107,287,100135,,,Onny Parun,R,188,NZL,26.7,100114,,,Ray Ruffels,R,,AUS,27.7,6-2 3-6 6-3 6-2,5,R16,,,,,,,,,,,,,,,,,,,,40,,141,
 1974-301,Auckland,Grass,32,A,19740107,288,100178,,,Bob Giltinan,R,,AUS,24.7,100194,,,Larry Parker,R,,USA,24.2,6-1 7-6 6-1,5,R16,,,,,,,,,,,,,,,,,,,,144,,,
-1974-301,Auckland,Grass,32,A,19740107,289,100091,,,Colin Dibley,R,188,AUS,29.3,209419,,,Bill Brown,U,,USA,,1-6 6-1 7-6 6-3,5,R16,,,,,,,,,,,,,,,,,,,,39,,,
+1974-301,Auckland,Grass,32,A,19740107,289,100091,,,Colin Dibley,R,188,AUS,29.3,100093,,,William Brown,R,,USA,28.9,1-6 6-1 7-6 6-3,5,R16,,,,,,,,,,,,,,,,,,,,39,,224,
 1974-301,Auckland,Grass,32,A,19740107,290,100090,,,Dick Crealy,R,191,AUS,29.3,100169,,,Ian Fletcher,R,,AUS,25.1,6-4 7-6 6-3,5,R16,,,,,,,,,,,,,,,,,,,,51,,87,
 1974-301,Auckland,Grass,32,A,19740107,291,100257,,,Ross Case,R,,AUS,22.1,100193,,,Wanaro N'Godrella,R,,FRA,24.2,6-3 7-6 7-6,5,R16,,,,,,,,,,,,,,,,,,,,42,,89,
 1974-301,Auckland,Grass,32,A,19740107,292,100437,,,Bjorn Borg,R,180,SWE,17.5,100266,,,John Feaver,R,190,GBR,21.8,6-4 6-2 3-6 6-2,5,R16,,,,,,,,,,,,,,,,,,,,18,,105,
@@ -4175,7 +4175,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1974-7310,Beckenham,Grass,128,A,19740610,250,100359,,,Richard Lewis,L,,GBR,19.5,107275,,,Jan Hordijk,R,,NED,24.3,3-6 7-5 7-5,3,R64,,,,,,,,,,,,,,,,,,,,193,0,205,0
 1974-7310,Beckenham,Grass,128,A,19740610,249,100343,,,John Lloyd,R,178,GBR,19.7,110103,,,Benito Schon,U,,MEX,,7-5 6-4,3,R64,,,,,,,,,,,,,,,,,,,,81,0,,
 1974-7310,Beckenham,Grass,128,A,19740610,248,202881,,,Ian Pollard,U,,AUS,20.9,111135,,,Greg Perkins,R,,AUS,,7-5 6-3,3,R64,,,,,,,,,,,,,,,,,,,,,,,
-1974-7310,Beckenham,Grass,128,A,19740610,247,106867,,,Derek Schroder,R,,RSA,,108249,,,Shamil Tarpischev,R,,RUS,,6-3 6-4,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1974-7310,Beckenham,Grass,128,A,19740610,247,106867,,,Derek Schroder,R,,RSA,,108249,,,Shamil Tarpischev,R,,RUS,26.2,6-3 6-4,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1974-7310,Beckenham,Grass,128,A,19740610,246,110107,,,David Segal,U,,USA,,100155,,,Ramiro Benavides,R,,BOL,27.3,2-6 6-4 6-3,3,R64,,,,,,,,,,,,,,,,,,,,,,,
 1974-7310,Beckenham,Grass,128,A,19740610,245,100326,,,Russell Simpson,R,188,NZL,20.2,107457,,,Juan Ignacio Muntanola,R,,ESP,,6-2 6-4,3,R64,,,,,,,,,,,,,,,,,,,,,,267,0
 1974-7310,Beckenham,Grass,128,A,19740610,244,100223,,,Jeff Simpson,R,,NZL,23.6,100145,,,Dick Dell,R,,USA,26.6,6-4 6-3,3,R64,,,,,,,,,,,,,,,,,,,,74,0,102,0
