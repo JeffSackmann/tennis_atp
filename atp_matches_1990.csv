@@ -882,9 +882,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1990-D025,Davis Cup G1 SF: PAR vs CAN,Clay,4,D,19900330,4,100864,,,Martin Wostenholme,R,183,CAN,27.4,101979,,,Ricardo Mena,R,,PAR,18.4,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,130,200,,
 1990-D025,Davis Cup G1 SF: PAR vs CAN,Clay,4,D,19900330,5,101354,,,Andrew Sznajder,R,175,CAN,22.8,108182,,,Ruben Alvarenga,R,,PAR,17.5,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,69,340,,
 1990-D074,Davis Cup G1 SF: URU vs PER,Clay,4,D,19900330,1,100800,,,Diego Perez,R,178,URU,28.1,101409,,,Jaime Yzaga,R,170,PER,22.4,6-4 6-2 3-6 1-6 9-7,5,RR,,,,,,,,,,,,,,,,,,,,116,230,27,637
-1990-D074,Davis Cup G1 SF: URU vs PER,Clay,4,D,19900330,2,101382,,,Marcelo Filippini,R,178,URU,22.6,108686,,,Alejandro Aramburu Acuna,R,,PER,21.1,5-7 6-0 6-1 6-2,5,RR,,,,,,,,,,,,,,,,,,,,45,476,,
+1990-D074,Davis Cup G1 SF: URU vs PER,Clay,4,D,19900330,2,101382,,,Marcelo Filippini,R,178,URU,22.6,101574,,,Alejandro Aramburu,R,175,PER,21.1,5-7 6-0 6-1 6-2,5,RR,,,,,,,,,,,,,,,,,,,,45,476,207,110
 1990-D074,Davis Cup G1 SF: URU vs PER,Clay,4,D,19900330,4,101382,,,Marcelo Filippini,R,178,URU,22.6,101409,,,Jaime Yzaga,R,170,PER,22.4,6-1 6-3 6-4,5,RR,,,,,,,,,,,,,,,,,,,,45,476,27,637
-1990-D074,Davis Cup G1 SF: URU vs PER,Clay,4,D,19900330,5,100800,,,Diego Perez,R,178,URU,28.1,108686,,,Alejandro Aramburu Acuna,R,,PER,21.1,6-1 2-6 6-2,3,RR,,,,,,,,,,,,,,,,,,,,116,230,,
+1990-D074,Davis Cup G1 SF: URU vs PER,Clay,4,D,19900330,5,100800,,,Diego Perez,R,178,URU,28.1,101574,,,Alejandro Aramburu,R,175,PER,21.1,6-1 2-6 6-2,3,RR,,,,,,,,,,,,,,,,,,,,116,230,207,110
 1990-D012,Davis Cup G2 QF: BAN vs TPE,Hard,4,D,19900330,1,101764,,,Yu Hui Lien,R,,TPE,19.7,110825,,,Hira Lal Rahman,U,,BAN,19.1,6-1 6-1 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1990-D012,Davis Cup G2 QF: BAN vs TPE,Hard,4,D,19900330,2,109456,,,Chung Hsing Liu,R,,TPE,25.5,110822,,,Faisal Rahman,U,,BAN,20.9,6-2 6-3 7-5,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1990-D012,Davis Cup G2 QF: BAN vs TPE,Hard,4,D,19900330,4,109456,,,Chung Hsing Liu,R,,TPE,25.5,110825,,,Hira Lal Rahman,U,,BAN,19.1,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
@@ -1414,8 +1414,8 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1990-D075,Davis Cup G1 SF: URS vs POR,Clay,4,D,19900504,4,101230,,,Andrei Chesnokov,R,188,RUS,24.2,101731,,,Nuno Marques,L,190,POR,20.0,6-4 3-6 6-3 6-4,5,RR,,,,,,,,,,,,,,,,,,,,12,1149,165,162
 1990-D075,Davis Cup G1 SF: URS vs POR,Clay,4,D,19900504,5,101772,,,Andrei Cherkasov,R,180,RUS,19.8,101416,,,Joao Cunha Silva,R,173,POR,22.4,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,72,368,210,113
 1990-D022,Davis Cup G2 QF: BUL vs GRE,Clay,4,D,19900504,1,101957,,,Milen Velev,R,,BUL,18.6,100619,,,George Kalovelonis,R,190,GRE,30.6,6-3 6-4 6-0,5,RR,,,,,,,,,,,,,,,,,,,,662,9,,
-1990-D022,Davis Cup G2 QF: BUL vs GRE,Clay,4,D,19900504,2,101748,,,Ivan Keskinov,R,,BUL,19.9,108814,,,Konstantinos Effraimoglou,U,,GRE,27.4,6-3 7-5 6-1,5,RR,,,,,,,,,,,,,,,,,,,,909,3,,
-1990-D022,Davis Cup G2 QF: BUL vs GRE,Clay,4,D,19900504,4,101957,,,Milen Velev,R,,BUL,18.6,108814,,,Konstantinos Effraimoglou,U,,GRE,27.4,6-2 7-5,3,RR,,,,,,,,,,,,,,,,,,,,662,9,,
+1990-D022,Davis Cup G2 QF: BUL vs GRE,Clay,4,D,19900504,2,101748,,,Ivan Keskinov,R,,BUL,19.9,108814,,,Konstantinos Effraimoglou,R,,GRE,27.4,6-3 7-5 6-1,5,RR,,,,,,,,,,,,,,,,,,,,909,3,,
+1990-D022,Davis Cup G2 QF: BUL vs GRE,Clay,4,D,19900504,4,101957,,,Milen Velev,R,,BUL,18.6,108814,,,Konstantinos Effraimoglou,R,,GRE,27.4,6-2 7-5,3,RR,,,,,,,,,,,,,,,,,,,,662,9,,
 1990-D022,Davis Cup G2 QF: BUL vs GRE,Clay,4,D,19900504,5,101748,,,Ivan Keskinov,R,,BUL,19.9,100619,,,George Kalovelonis,R,190,GRE,30.6,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,909,3,,
 1990-D064,Davis Cup G2 QF: LUX vs POL,Hard,4,D,19900504,1,101545,,,Tomasz Iwanski,R,,POL,21.3,107263,,,Jacques Radoux,R,,LUX,20.9,6-7(11) 6-3 7-6(4) 4-6 6-3,5,RR,,,,,,,,,,,,,,,,,,,,674,9,,
 1990-D064,Davis Cup G2 QF: LUX vs POL,Hard,4,D,19900504,2,101406,,,Wojtek Kowalski,R,183,POL,22.5,100991,,,Johnny Goudenbour,R,178,LUX,26.3,6-3 6-4 6-2,5,RR,,,,,,,,,,,,,,,,,,,,487,22,697,8

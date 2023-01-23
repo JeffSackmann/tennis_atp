@@ -295,7 +295,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-USA-01A-2001,USA F1,Hard,32,S,20010108,1,102669,1,Q,Noam Behr,L,188,ISR,25.2,102791,,Q,Bobby Kokavec,R,190,CAN,24.6,6-1 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,221,160,,
 2001-M-FU-USA-01A-2001,USA F1,Hard,32,S,20010108,2,103358,,,Nicolas Todero,R,183,ARG,21.7,103363,,,Diego Ayala,R,175,USA,21.6,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,457,49,449,51
 2001-M-FU-USA-01A-2001,USA F1,Hard,32,S,20010108,3,102077,,Q,Alexander Shvec,R,,BLR,28.5,103525,,,Ivan Miranda,R,175,PER,20.8,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,275,118,517,38
-2001-M-FU-USA-01A-2001,USA F1,Hard,32,S,20010108,4,108603,6,,Helge Koll Frafjord,U,,NOR,25.6,104077,,WC,Hamid Mirzadeh,U,,USA,18.2,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2001-M-FU-USA-01A-2001,USA F1,Hard,32,S,20010108,4,102595,6,,Helge Koll,R,,NOR,25.6,104077,,WC,Hamid Mirzadeh,U,,USA,18.2,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,337,87,,
 2001-M-FU-USA-01A-2001,USA F1,Hard,32,S,20010108,5,104098,4,,Dmitry Tursunov,R,185,RUS,18.0,103194,,Q,Geoff Abrams,R,,USA,22.6,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,321,94,587,28
 2001-M-FU-USA-01A-2001,USA F1,Hard,32,S,20010108,6,102406,,,Thomas Dupre,R,,FRA,26.5,103834,,,Levar Harper Griffith,R,,USA,19.3,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,431,54,506,40
 2001-M-FU-USA-01A-2001,USA F1,Hard,32,S,20010108,7,102736,,,Maxime Boye,R,,FRA,24.8,103258,,Q,Ramsey Smith,R,,USA,22.3,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,510,38,1237,2
@@ -309,7 +309,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-USA-01A-2001,USA F1,Hard,32,S,20010108,15,103386,,WC,Lawrence Gunn,U,,USA,21.5,103388,,WC,Rafael De Mesa,R,,USA,21.5,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1237,2,572,30
 2001-M-FU-USA-01A-2001,USA F1,Hard,32,S,20010108,16,103888,2,,Mardy Fish,R,188,USA,19.0,103496,,LL,Jalal Chafai,U,,MAR,20.9,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,309,99,749,14
 2001-M-FU-USA-01A-2001,USA F1,Hard,32,S,20010108,17,102669,1,Q,Noam Behr,L,188,ISR,25.2,103358,,,Nicolas Todero,R,183,ARG,21.7,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,221,160,457,49
-2001-M-FU-USA-01A-2001,USA F1,Hard,32,S,20010108,18,102077,,Q,Alexander Shvec,R,,BLR,28.5,108603,6,,Helge Koll Frafjord,U,,NOR,25.6,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,275,118,,
+2001-M-FU-USA-01A-2001,USA F1,Hard,32,S,20010108,18,102077,,Q,Alexander Shvec,R,,BLR,28.5,102595,6,,Helge Koll,R,,NOR,25.6,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,275,118,337,87
 2001-M-FU-USA-01A-2001,USA F1,Hard,32,S,20010108,19,102406,,,Thomas Dupre,R,,FRA,26.5,104098,4,,Dmitry Tursunov,R,185,RUS,18.0,3-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,431,54,321,94
 2001-M-FU-USA-01A-2001,USA F1,Hard,32,S,20010108,20,102736,,,Maxime Boye,R,,FRA,24.8,101389,5,,Oren Motevassel,L,170,USA,33.3,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,510,38,330,89
 2001-M-FU-USA-01A-2001,USA F1,Hard,32,S,20010108,21,102982,7,,Yaoki Ishii,R,,JPN,23.6,103735,,,Lovro Zovko,R,190,CRO,19.8,4-6 7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,364,75,394,63
@@ -691,7 +691,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-GBR-01A-2001,Great Britain F1,Carpet,32,S,20010205,2,102781,,,Christian Dillschneider,R,,SUI,24.7,103730,,WC,Jonathan Marray,R,183,GBR,19.9,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,497,40,768,12
 2001-M-FU-GBR-01A-2001,Great Britain F1,Carpet,32,S,20010205,3,103538,,WC,James Auckland,R,,GBR,20.8,103576,,Q,Barry Fulcher,U,,GBR,20.6,7-6(7) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,791,12,936,6
 2001-M-FU-GBR-01A-2001,Great Britain F1,Carpet,32,S,20010205,4,104014,8,,Lee Childs,R,,GBR,18.6,102802,,,Gunther Darkey,R,,GHA,24.6,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,377,71,534,34
-2001-M-FU-GBR-01A-2001,Great Britain F1,Carpet,32,S,20010205,5,103238,,,Jean Claude Scherrer,R,188,SUI,22.5,108603,4,,Helge Koll Frafjord,U,,NOR,25.6,6-1 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,514,37,,
+2001-M-FU-GBR-01A-2001,Great Britain F1,Carpet,32,S,20010205,5,103238,,,Jean Claude Scherrer,R,188,SUI,22.5,102595,4,,Helge Koll,R,,NOR,25.6,6-1 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,514,37,337,88
 2001-M-FU-GBR-01A-2001,Great Britain F1,Carpet,32,S,20010205,6,102603,,,Melvyn Op Der Heijde,R,180,NED,25.6,101775,,,Frederik Fetterlein,R,190,DEN,30.5,6-4 4-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,397,63,599,26
 2001-M-FU-GBR-01A-2001,Great Britain F1,Carpet,32,S,20010205,7,103378,,,Bernard Parun,R,,GER,21.7,102260,,WC,James Davidson,R,,GBR,27.3,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,425,55,688,18
 2001-M-FU-GBR-01A-2001,Great Britain F1,Carpet,32,S,20010205,8,103754,5,,Mark Hilton,L,170,GBR,19.7,103942,,WC,James Nelson,R,,GBR,18.9,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,349,82,623,24
@@ -2515,7 +2515,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-USA-08A-2001,USA F8,Hard,32,S,20010402,7,101975,,Q,Martin Zumpft,R,180,GER,29.4,103098,,Q,Johan Du Randt,U,,RSA,23.2,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1328,1,735,14
 2001-M-FU-USA-08A-2001,USA F8,Hard,32,S,20010402,8,103145,,Q,Amir Hadad,R,183,ISR,23.1,103239,6,,Marcus Sarstrand,R,183,SWE,22.6,7-6(5) 1-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,694,17,308,101
 2001-M-FU-USA-08A-2001,USA F8,Hard,32,S,20010402,9,102736,8,,Maxime Boye,R,,FRA,25.0,102961,,,Nicklas Timfjord,R,180,SWE,24.0,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,338,87,478,44
-2001-M-FU-USA-08A-2001,USA F8,Hard,32,S,20010402,10,108603,,,Helge Koll Frafjord,U,,NOR,25.8,103161,,WC,Ryan Sachire,R,198,USA,23.0,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,784,12
+2001-M-FU-USA-08A-2001,USA F8,Hard,32,S,20010402,10,102595,,,Helge Koll,R,,NOR,25.8,103161,,WC,Ryan Sachire,R,198,USA,23.0,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,365,75,784,12
 2001-M-FU-USA-08A-2001,USA F8,Hard,32,S,20010402,11,102979,,SE,Jeff Coetzee,R,173,RSA,23.9,102748,,,Michael Jessup,L,165,USA,25.0,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,452,49,380,70
 2001-M-FU-USA-08A-2001,USA F8,Hard,32,S,20010402,12,102497,,,Mashiska Washington,R,180,USA,26.2,102805,4,,Matthew Breen,R,,AUS,24.8,6-2 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,416,59,280,115
 2001-M-FU-USA-08A-2001,USA F8,Hard,32,S,20010402,13,102855,,,Jack Brasington,R,188,USA,24.5,103371,5,,Emin Agaev,R,,AZE,21.8,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,343,84,288,112
@@ -2526,13 +2526,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-USA-08A-2001,USA F8,Hard,32,S,20010402,18,102900,,,Daniel Andersson,R,,SWE,24.2,104310,,Q,Benjamin Rufer,R,,SUI,17.1,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,450,49,,
 2001-M-FU-USA-08A-2001,USA F8,Hard,32,S,20010402,19,102444,3,,Scott Barron,R,,IRL,26.5,103668,,Q,Lazar Magdincev,R,,MKD,20.2,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,270,124,1137,3
 2001-M-FU-USA-08A-2001,USA F8,Hard,32,S,20010402,20,103145,,Q,Amir Hadad,R,183,ISR,23.1,101975,,Q,Martin Zumpft,R,180,GER,29.4,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,694,17,1328,1
-2001-M-FU-USA-08A-2001,USA F8,Hard,32,S,20010402,21,108603,,,Helge Koll Frafjord,U,,NOR,25.8,102736,8,,Maxime Boye,R,,FRA,25.0,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,338,87
+2001-M-FU-USA-08A-2001,USA F8,Hard,32,S,20010402,21,102595,,,Helge Koll,R,,NOR,25.8,102736,8,,Maxime Boye,R,,FRA,25.0,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,365,75,338,87
 2001-M-FU-USA-08A-2001,USA F8,Hard,32,S,20010402,22,102979,,SE,Jeff Coetzee,R,173,RSA,23.9,102497,,,Mashiska Washington,R,180,USA,26.2,4-6 6-4 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,452,49,416,59
 2001-M-FU-USA-08A-2001,USA F8,Hard,32,S,20010402,23,102855,,,Jack Brasington,R,188,USA,24.5,101389,,,Oren Motevassel,L,170,USA,33.6,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,343,84,491,41
 2001-M-FU-USA-08A-2001,USA F8,Hard,32,S,20010402,24,103280,2,,Martin Verkerk,R,196,NED,22.4,103584,,SE,Johan Kareld,U,,SWE,20.7,6-4 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,249,143,778,12
 2001-M-FU-USA-08A-2001,USA F8,Hard,32,S,20010402,25,102966,1,,Fredrik Jonsson,R,193,SWE,24.0,102900,,,Daniel Andersson,R,,SWE,24.2,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,238,150,450,49
 2001-M-FU-USA-08A-2001,USA F8,Hard,32,S,20010402,26,103145,,Q,Amir Hadad,R,183,ISR,23.1,102444,3,,Scott Barron,R,,IRL,26.5,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,694,17,270,124
-2001-M-FU-USA-08A-2001,USA F8,Hard,32,S,20010402,27,102979,,SE,Jeff Coetzee,R,173,RSA,23.9,108603,,,Helge Koll Frafjord,U,,NOR,25.8,6-3 7-5,3,QF,,,,,,,,,,,,,,,,,,,,452,49,,
+2001-M-FU-USA-08A-2001,USA F8,Hard,32,S,20010402,27,102979,,SE,Jeff Coetzee,R,173,RSA,23.9,102595,,,Helge Koll,R,,NOR,25.8,6-3 7-5,3,QF,,,,,,,,,,,,,,,,,,,,452,49,365,75
 2001-M-FU-USA-08A-2001,USA F8,Hard,32,S,20010402,28,103280,2,,Martin Verkerk,R,196,NED,22.4,102855,,,Jack Brasington,R,188,USA,24.5,7-6(6) 6-1,3,QF,,,,,,,,,,,,,,,,,,,,249,143,343,84
 2001-M-FU-USA-08A-2001,USA F8,Hard,32,S,20010402,29,102966,1,,Fredrik Jonsson,R,193,SWE,24.0,103145,,Q,Amir Hadad,R,183,ISR,23.1,7-6(3) 6-7(2) 6-2,3,SF,,,,,,,,,,,,,,,,,,,,238,150,694,17
 2001-M-FU-USA-08A-2001,USA F8,Hard,32,S,20010402,30,103280,2,,Martin Verkerk,R,196,NED,22.4,102979,,SE,Jeff Coetzee,R,173,RSA,23.9,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,249,143,452,49
@@ -2692,7 +2692,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-USA-09A-2001,USA F9,Hard,32,S,20010409,6,101609,,,David Wheaton,R,193,USA,31.8,102736,,,Maxime Boye,R,,FRA,25.0,7-6(5) 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,320,96,338,88
 2001-M-FU-USA-09A-2001,USA F9,Hard,32,S,20010409,7,102458,,Q,Jim Thomas,R,193,USA,26.5,103371,,,Emin Agaev,R,,AZE,21.9,7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,666,19,289,111
 2001-M-FU-USA-09A-2001,USA F9,Hard,32,S,20010409,8,103239,,,Marcus Sarstrand,R,183,SWE,22.7,103280,6,,Martin Verkerk,R,196,NED,22.4,6-2 3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,306,101,237,152
-2001-M-FU-USA-09A-2001,USA F9,Hard,32,S,20010409,9,102735,7,,Cedric Kauffmann,R,,FRA,25.1,108603,,,Helge Koll Frafjord,U,,NOR,25.8,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,263,129,,
+2001-M-FU-USA-09A-2001,USA F9,Hard,32,S,20010409,9,102735,7,,Cedric Kauffmann,R,,FRA,25.1,102595,,,Helge Koll,R,,NOR,25.8,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,263,129,366,75
 2001-M-FU-USA-09A-2001,USA F9,Hard,32,S,20010409,10,102855,,,Jack Brasington,R,188,USA,24.5,104068,,WC,Robby Ginepri,R,183,USA,18.5,6-7(5) 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,344,84,765,12
 2001-M-FU-USA-09A-2001,USA F9,Hard,32,S,20010409,11,103431,,,Brandon Hawk,R,,USA,21.5,101975,,Q,Martin Zumpft,R,180,GER,29.4,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,300,106,1332,1
 2001-M-FU-USA-09A-2001,USA F9,Hard,32,S,20010409,12,103319,,WC,Jeff Morrison,R,185,USA,22.1,102201,4,,Lionel Roux,R,185,FRA,27.9,7-6(5) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,400,64,249,143
@@ -9632,7 +9632,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-SWE-01A-2001,Sweden F1,Hard,32,S,20010917,6,117842,,Q,Pierre Berntsson,U,,SWE,20.1,106744,,WC,Christian Johansson,U,,SWE,,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2001-M-FU-SWE-01A-2001,Sweden F1,Hard,32,S,20010917,7,111701,,WC,Tobias Virdhage,U,,SWE,17.9,102876,,,Gwenael Gueit,R,,FRA,24.8,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,661,20
 2001-M-FU-SWE-01A-2001,Sweden F1,Hard,32,S,20010917,8,102573,,,Robert Samuelsson,R,,SWE,26.4,103013,,LL,Jon Wallmark,U,,SWE,24.2,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,596,27,834,9
-2001-M-FU-SWE-01A-2001,Sweden F1,Hard,32,S,20010917,9,103348,,LL,Timo Fleischfresser,U,,GER,22.4,108603,7,,Helge Koll Frafjord,U,,NOR,26.2,6-7(3) 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,881,8,,
+2001-M-FU-SWE-01A-2001,Sweden F1,Hard,32,S,20010917,9,103348,,LL,Timo Fleischfresser,U,,GER,22.4,102595,7,,Helge Koll,R,,NOR,26.2,6-7(3) 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,881,8,451,52
 2001-M-FU-SWE-01A-2001,Sweden F1,Hard,32,S,20010917,10,103584,,,Johan Kareld,U,,SWE,21.2,103706,,,Daniel Norberg,U,,SWE,20.6,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,737,14,923,7
 2001-M-FU-SWE-01A-2001,Sweden F1,Hard,32,S,20010917,11,102961,,Q,Nicklas Timfjord,R,180,SWE,24.5,103591,,Q,Daniel Schalen,U,,SWE,21.1,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1099,4,1028,5
 2001-M-FU-SWE-01A-2001,Sweden F1,Hard,32,S,20010917,12,102900,3,,Daniel Andersson,R,,SWE,24.7,103173,,Q,Tobias Steinel Hansson,U,,SWE,23.4,4-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,320,97,1354,1
@@ -9853,7 +9853,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-SWE-02A-2001,Sweden F2,Hard,32,S,20010924,10,102793,,,Fredrik Loven,R,,SWE,25.3,117842,,WC,Pierre Berntsson,U,,SWE,20.1,3-6 7-6(7) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,585,29,,
 2001-M-FU-SWE-02A-2001,Sweden F2,Hard,32,S,20010924,11,103129,,,Per Thornadtsson,R,,SWE,23.6,103348,,Q,Timo Fleischfresser,U,,GER,22.5,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,671,21,892,8
 2001-M-FU-SWE-02A-2001,Sweden F2,Hard,32,S,20010924,12,103239,4,,Marcus Sarstrand,R,183,SWE,23.1,103747,,PR,Dominik Meffert,R,198,GER,20.4,4-6 6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,364,79,903,8
-2001-M-FU-SWE-02A-2001,Sweden F2,Hard,32,S,20010924,13,108603,6,,Helge Koll Frafjord,U,,NOR,26.3,102573,,,Robert Samuelsson,R,,SWE,26.4,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,607,27
+2001-M-FU-SWE-02A-2001,Sweden F2,Hard,32,S,20010924,13,102595,6,,Helge Koll,R,,NOR,26.3,102573,,,Robert Samuelsson,R,,SWE,26.4,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,463,52,607,27
 2001-M-FU-SWE-02A-2001,Sweden F2,Hard,32,S,20010924,14,104004,,WC,Filip Prpic,R,173,SWE,19.3,102376,,,Radovan Svetlik,R,,CZE,27.4,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,763,13,580,30
 2001-M-FU-SWE-02A-2001,Sweden F2,Hard,32,S,20010924,15,111701,,WC,Tobias Virdhage,U,,SWE,17.9,102217,,,Fredrik Giers,R,,SWE,28.3,7-6(10) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,643,23
 2001-M-FU-SWE-02A-2001,Sweden F2,Hard,32,S,20010924,16,102808,2,,Kalle Flygt,R,,SWE,25.2,103706,,,Daniel Norberg,U,,SWE,20.6,6-3 2-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,310,107,931,7
@@ -9863,7 +9863,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-M-FU-SWE-02A-2001,Sweden F2,Hard,32,S,20010924,20,102961,,Q,Nicklas Timfjord,R,180,SWE,24.5,103149,5,Q,Mathias Hellstrom,R,,SWE,23.5,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1116,4,387,72
 2001-M-FU-SWE-02A-2001,Sweden F2,Hard,32,S,20010924,21,102983,7,,Henrik Andersson,R,,SWE,24.3,102793,,,Fredrik Loven,R,,SWE,25.3,4-6 7-6(8) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,467,51,585,29
 2001-M-FU-SWE-02A-2001,Sweden F2,Hard,32,S,20010924,22,103239,4,,Marcus Sarstrand,R,183,SWE,23.1,103129,,,Per Thornadtsson,R,,SWE,23.6,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,364,79,671,21
-2001-M-FU-SWE-02A-2001,Sweden F2,Hard,32,S,20010924,23,104004,,WC,Filip Prpic,R,173,SWE,19.3,108603,6,,Helge Koll Frafjord,U,,NOR,26.3,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,763,13,,
+2001-M-FU-SWE-02A-2001,Sweden F2,Hard,32,S,20010924,23,104004,,WC,Filip Prpic,R,173,SWE,19.3,102595,6,,Helge Koll,R,,NOR,26.3,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,763,13,463,52
 2001-M-FU-SWE-02A-2001,Sweden F2,Hard,32,S,20010924,24,102808,2,,Kalle Flygt,R,,SWE,25.2,111701,,WC,Tobias Virdhage,U,,SWE,17.9,7-6(2) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,310,107,,
 2001-M-FU-SWE-02A-2001,Sweden F2,Hard,32,S,20010924,25,104417,,SE,Robin Soderling,R,193,SWE,17.1,103623,,,Jacob Adaktusson,R,193,SWE,21.0,7-6(3) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,557,33
 2001-M-FU-SWE-02A-2001,Sweden F2,Hard,32,S,20010924,26,102961,,Q,Nicklas Timfjord,R,180,SWE,24.5,102900,3,,Daniel Andersson,R,,SWE,24.7,3-6 6-0 6-1,3,QF,,,,,,,,,,,,,,,,,,,,1116,4,324,97

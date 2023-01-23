@@ -123,7 +123,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-FRA-01A-2000,France F1,Clay,32,S,20000110,6,102992,,LL,Arnaud Fontaine,R,,BEL,22.6,102603,,,Melvyn Op Der Heijde,R,180,NED,24.5,7-6(6) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,516,38,453,51
 2000-M-FU-FRA-01A-2000,France F1,Clay,32,S,20000110,7,102630,,Q,Slimane Saoudi,L,,ALG,24.4,103726,,WC,Jean Christophe Faurel,R,175,FRA,18.8,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,478,46,786,11
 2000-M-FU-FRA-01A-2000,France F1,Clay,32,S,20000110,8,103857,6,,Igor Kunitsyn,R,180,RUS,18.2,103592,,WC,Jerome Haehnel,R,185,FRA,19.4,6-2 2-6 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,318,94,805,10
-2000-M-FU-FRA-01A-2000,France F1,Clay,32,S,20000110,9,102394,5,,Johan Van Herck,R,185,BEL,25.6,108603,,,Helge Koll Frafjord,U,,NOR,24.6,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,289,107,,
+2000-M-FU-FRA-01A-2000,France F1,Clay,32,S,20000110,9,102394,5,,Johan Van Herck,R,185,BEL,25.6,102595,,,Helge Koll,R,,NOR,24.6,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,289,107,535,35
 2000-M-FU-FRA-01A-2000,France F1,Clay,32,S,20000110,10,103047,,Q,Julien Varlet,R,180,FRA,22.3,102244,,,Gregory Girault,R,,FRA,26.4,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,569,30,435,57
 2000-M-FU-FRA-01A-2000,France F1,Clay,32,S,20000110,11,103401,,,Jan Hernych,R,190,CZE,20.5,102261,,Q,Fabrice Betencourt,R,,FRA,26.3,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,377,71,595,26
 2000-M-FU-FRA-01A-2000,France F1,Clay,32,S,20000110,12,101468,3,,Gerard Solves,R,185,FRA,31.7,103685,,Q,Olivier Ramos,U,,FRA,18.9,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,236,142,890,8
@@ -779,7 +779,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-GBR-01A-2000,Great Britain F1,Carpet,32,S,20000131,4,103256,7,,Ivan Vajda,R,,CRO,21.4,104107,,WC,Andrew Banks,L,,GBR,17.0,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,344,84,,
 2000-M-FU-GBR-01A-2000,Great Britain F1,Carpet,32,S,20000131,5,103153,,,Gilles Elseneer,R,188,BEL,21.9,103009,4,,Razvan Sabau,R,185,ROU,22.6,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,525,37,296,103
 2000-M-FU-GBR-01A-2000,Great Britain F1,Carpet,32,S,20000131,6,103754,,WC,Mark Hilton,L,170,GBR,18.7,102736,,,Maxime Boye,R,,FRA,23.9,6-3 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,542,34,419,59
-2000-M-FU-GBR-01A-2000,Great Britain F1,Carpet,32,S,20000131,7,108603,,Q,Helge Koll Frafjord,U,,NOR,24.6,101683,,,Donavan September,R,,RSA,30.0,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,384,70
+2000-M-FU-GBR-01A-2000,Great Britain F1,Carpet,32,S,20000131,7,102595,,Q,Helge Koll,R,,NOR,24.6,101683,,,Donavan September,R,,RSA,30.0,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,536,35,384,70
 2000-M-FU-GBR-01A-2000,Great Britain F1,Carpet,32,S,20000131,8,102835,5,,Luke Milligan,R,180,GBR,23.4,102739,,,Wim Neefs,R,,BEL,23.8,6-1 2-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,314,96,,
 2000-M-FU-GBR-01A-2000,Great Britain F1,Carpet,32,S,20000131,9,102886,6,,Frantisek Cermak,R,193,CZE,23.2,102983,,,Henrik Andersson,R,,SWE,22.7,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,334,87,614,24
 2000-M-FU-GBR-01A-2000,Great Britain F1,Carpet,32,S,20000131,10,103333,,,Ivo Karlovic,R,208,CRO,20.9,117617,,Q,William Barker,U,,GBR,18.8,7-6(2) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,555,32,,
@@ -792,18 +792,18 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-GBR-01A-2000,Great Britain F1,Carpet,32,S,20000131,17,103339,,,Wesley Whitehouse,L,190,RSA,20.8,102489,,Q,Bjorn Jacob,R,,GER,25.1,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,429,58,705,15
 2000-M-FU-GBR-01A-2000,Great Britain F1,Carpet,32,S,20000131,18,103256,7,,Ivan Vajda,R,,CRO,21.4,103942,,WC,James Nelson,R,,GBR,17.9,7-6(5) 5-7 6-4,3,R16,,,,,,,,,,,,,,,,,,,,344,84,1138,3
 2000-M-FU-GBR-01A-2000,Great Britain F1,Carpet,32,S,20000131,19,103153,,,Gilles Elseneer,R,188,BEL,21.9,103754,,WC,Mark Hilton,L,170,GBR,18.7,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,525,37,542,34
-2000-M-FU-GBR-01A-2000,Great Britain F1,Carpet,32,S,20000131,20,108603,,Q,Helge Koll Frafjord,U,,NOR,24.6,102835,5,,Luke Milligan,R,180,GBR,23.4,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,314,96
+2000-M-FU-GBR-01A-2000,Great Britain F1,Carpet,32,S,20000131,20,102595,,Q,Helge Koll,R,,NOR,24.6,102835,5,,Luke Milligan,R,180,GBR,23.4,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,536,35,314,96
 2000-M-FU-GBR-01A-2000,Great Britain F1,Carpet,32,S,20000131,21,103333,,,Ivo Karlovic,R,208,CRO,20.9,102886,6,,Frantisek Cermak,R,193,CZE,23.2,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,555,32,334,87
 2000-M-FU-GBR-01A-2000,Great Britain F1,Carpet,32,S,20000131,22,102883,,,Tom Spinks,R,,GBR,23.2,104014,,WC,Lee Childs,R,,GBR,17.6,7-6(6) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,490,42,1304,1
 2000-M-FU-GBR-01A-2000,Great Britain F1,Carpet,32,S,20000131,23,103087,,Q,Graeme Darlington,R,,GBR,22.1,103538,,Q,James Auckland,R,,GBR,19.8,3-6 6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,738,14,,
 2000-M-FU-GBR-01A-2000,Great Britain F1,Carpet,32,S,20000131,24,103559,,Q,David Sherwood,R,193,GBR,19.7,102733,,Q,Colin Bennett,R,,GBR,23.9,2-6 6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,982,6,697,16
 2000-M-FU-GBR-01A-2000,Great Britain F1,Carpet,32,S,20000131,25,103256,7,,Ivan Vajda,R,,CRO,21.4,103339,,,Wesley Whitehouse,L,190,RSA,20.8,7-5 7-6(3),3,QF,,,,,,,,,,,,,,,,,,,,344,84,429,58
-2000-M-FU-GBR-01A-2000,Great Britain F1,Carpet,32,S,20000131,26,108603,,Q,Helge Koll Frafjord,U,,NOR,24.6,103153,,,Gilles Elseneer,R,188,BEL,21.9,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,525,37
+2000-M-FU-GBR-01A-2000,Great Britain F1,Carpet,32,S,20000131,26,102595,,Q,Helge Koll,R,,NOR,24.6,103153,,,Gilles Elseneer,R,188,BEL,21.9,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,536,35,525,37
 2000-M-FU-GBR-01A-2000,Great Britain F1,Carpet,32,S,20000131,27,103333,,,Ivo Karlovic,R,208,CRO,20.9,102883,,,Tom Spinks,R,,GBR,23.2,6-7(4) 6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,555,32,490,42
 2000-M-FU-GBR-01A-2000,Great Britain F1,Carpet,32,S,20000131,28,103559,,Q,David Sherwood,R,193,GBR,19.7,103087,,Q,Graeme Darlington,R,,GBR,22.1,6-4 7-6(3),3,QF,,,,,,,,,,,,,,,,,,,,982,6,738,14
-2000-M-FU-GBR-01A-2000,Great Britain F1,Carpet,32,S,20000131,29,108603,,Q,Helge Koll Frafjord,U,,NOR,24.6,103256,7,,Ivan Vajda,R,,CRO,21.4,6-4 7-5,3,SF,,,,,,,,,,,,,,,,,,,,,,344,84
+2000-M-FU-GBR-01A-2000,Great Britain F1,Carpet,32,S,20000131,29,102595,,Q,Helge Koll,R,,NOR,24.6,103256,7,,Ivan Vajda,R,,CRO,21.4,6-4 7-5,3,SF,,,,,,,,,,,,,,,,,,,,536,35,344,84
 2000-M-FU-GBR-01A-2000,Great Britain F1,Carpet,32,S,20000131,30,103333,,,Ivo Karlovic,R,208,CRO,20.9,103559,,Q,David Sherwood,R,193,GBR,19.7,7-6(5) 7-6(4),3,SF,,,,,,,,,,,,,,,,,,,,555,32,982,6
-2000-M-FU-GBR-01A-2000,Great Britain F1,Carpet,32,S,20000131,31,108603,,Q,Helge Koll Frafjord,U,,NOR,24.6,103333,,,Ivo Karlovic,R,208,CRO,20.9,7-6(4) 7-6(2),3,F,,,,,,,,,,,,,,,,,,,,,,555,32
+2000-M-FU-GBR-01A-2000,Great Britain F1,Carpet,32,S,20000131,31,102595,,Q,Helge Koll,R,,NOR,24.6,103333,,,Ivo Karlovic,R,208,CRO,20.9,7-6(4) 7-6(2),3,F,,,,,,,,,,,,,,,,,,,,536,35,555,32
 2000-M-SA-ESP-02A-2000a,Spain 2 Masters 1,Clay,24,S,20000204,1,102483,,,David Caballero,R,180,ESP,25.2,104073,,,Jose Pablo Serna,U,,ESP,17.2,3-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,338,87,,
 2000-M-SA-ESP-02A-2000a,Spain 2 Masters 1,Clay,24,S,20000204,2,103242,,,Juan Giner,R,178,ESP,21.5,103231,,,Pedro Nieto,R,,ESP,21.5,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,409,62,503,40
 2000-M-SA-ESP-02A-2000a,Spain 2 Masters 1,Clay,24,S,20000204,3,103578,,,Antonio Alcaraz,U,,ESP,19.6,103448,,,Gabriel Trujillo Soler,R,,ESP,20.3,7-6(5) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,458,50
@@ -924,7 +924,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-GBR-02A-2000,Great Britain F2,Carpet,32,S,20000207,2,103402,,,Peter Clarke,R,188,IRL,20.5,111605,,WC,Nick Greenhouse,U,,GBR,18.1,6-3 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,373,73,,
 2000-M-FU-GBR-02A-2000,Great Britain F2,Carpet,32,S,20000207,3,103216,,,Clemens Trimmel,R,185,AUT,21.6,102883,,WC,Tom Spinks,R,,GBR,23.2,6-7(2) 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,456,50,490,42
 2000-M-FU-GBR-02A-2000,Great Britain F2,Carpet,32,S,20000207,4,103942,,WC,James Nelson,R,,GBR,17.9,103256,8,,Ivan Vajda,R,,CRO,21.4,7-6(4) RET,3,R32,,,,,,,,,,,,,,,,,,,,1137,3,341,84
-2000-M-FU-GBR-02A-2000,Great Britain F2,Carpet,32,S,20000207,5,108603,,Q,Helge Koll Frafjord,U,,NOR,24.6,103306,4,,Florian Allgauer,R,,ITA,21.0,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,280,110
+2000-M-FU-GBR-02A-2000,Great Britain F2,Carpet,32,S,20000207,5,102595,,Q,Helge Koll,R,,NOR,24.6,103306,4,,Florian Allgauer,R,,ITA,21.0,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,537,35,280,110
 2000-M-FU-GBR-02A-2000,Great Britain F2,Carpet,32,S,20000207,6,102400,,,Elia Grossi,R,,ITA,25.6,103339,,,Wesley Whitehouse,L,190,RSA,20.9,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,363,77,440,54
 2000-M-FU-GBR-02A-2000,Great Britain F2,Carpet,32,S,20000207,7,102322,,,Philippe Pasquier,R,,FRA,26.0,103263,,,Justin Layne,R,,GBR,21.3,6-3 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,383,69,461,50
 2000-M-FU-GBR-02A-2000,Great Britain F2,Carpet,32,S,20000207,8,102489,,Q,Bjorn Jacob,R,,GER,25.1,102835,6,,Luke Milligan,R,180,GBR,23.5,3-6 7-6(6) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,707,15,311,96
@@ -938,17 +938,17 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-GBR-02A-2000,Great Britain F2,Carpet,32,S,20000207,16,103280,2,,Martin Verkerk,R,196,NED,21.2,102736,,,Maxime Boye,R,,FRA,23.9,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,252,127,414,59
 2000-M-FU-GBR-02A-2000,Great Britain F2,Carpet,32,S,20000207,17,103157,1,,Arvind Parmar,R,193,GBR,21.8,103402,,,Peter Clarke,R,188,IRL,20.5,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,237,140,373,73
 2000-M-FU-GBR-02A-2000,Great Britain F2,Carpet,32,S,20000207,18,103216,,,Clemens Trimmel,R,185,AUT,21.6,103942,,WC,James Nelson,R,,GBR,17.9,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,456,50,1137,3
-2000-M-FU-GBR-02A-2000,Great Britain F2,Carpet,32,S,20000207,19,108603,,Q,Helge Koll Frafjord,U,,NOR,24.6,102400,,,Elia Grossi,R,,ITA,25.6,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,363,77
+2000-M-FU-GBR-02A-2000,Great Britain F2,Carpet,32,S,20000207,19,102595,,Q,Helge Koll,R,,NOR,24.6,102400,,,Elia Grossi,R,,ITA,25.6,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,537,35,363,77
 2000-M-FU-GBR-02A-2000,Great Britain F2,Carpet,32,S,20000207,20,102322,,,Philippe Pasquier,R,,FRA,26.0,102489,,Q,Bjorn Jacob,R,,GER,25.1,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,383,69,707,15
 2000-M-FU-GBR-02A-2000,Great Britain F2,Carpet,32,S,20000207,21,103754,,Q,Mark Hilton,L,170,GBR,18.8,103009,5,,Razvan Sabau,R,185,ROU,22.6,7-5 4-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,541,34,289,105
 2000-M-FU-GBR-02A-2000,Great Britain F2,Carpet,32,S,20000207,22,103333,,Q,Ivo Karlovic,R,208,CRO,20.9,102983,,Q,Henrik Andersson,R,,SWE,22.7,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,556,32,617,24
 2000-M-FU-GBR-02A-2000,Great Britain F2,Carpet,32,S,20000207,23,103153,,Q,Gilles Elseneer,R,188,BEL,21.9,102886,7,,Frantisek Cermak,R,193,CZE,23.2,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,525,37,331,87
 2000-M-FU-GBR-02A-2000,Great Britain F2,Carpet,32,S,20000207,24,102457,,Q,Miles Maclagan,R,180,GBR,25.3,103280,2,,Martin Verkerk,R,196,NED,21.2,6-7(5) 6-4 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,451,51,252,127
 2000-M-FU-GBR-02A-2000,Great Britain F2,Carpet,32,S,20000207,25,103157,1,,Arvind Parmar,R,193,GBR,21.8,103216,,,Clemens Trimmel,R,185,AUT,21.6,6-2 4-6 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,237,140,456,50
-2000-M-FU-GBR-02A-2000,Great Britain F2,Carpet,32,S,20000207,26,108603,,Q,Helge Koll Frafjord,U,,NOR,24.6,102322,,,Philippe Pasquier,R,,FRA,26.0,6-2 7-6(4),3,QF,,,,,,,,,,,,,,,,,,,,,,383,69
+2000-M-FU-GBR-02A-2000,Great Britain F2,Carpet,32,S,20000207,26,102595,,Q,Helge Koll,R,,NOR,24.6,102322,,,Philippe Pasquier,R,,FRA,26.0,6-2 7-6(4),3,QF,,,,,,,,,,,,,,,,,,,,537,35,383,69
 2000-M-FU-GBR-02A-2000,Great Britain F2,Carpet,32,S,20000207,27,103754,,Q,Mark Hilton,L,170,GBR,18.8,103333,,Q,Ivo Karlovic,R,208,CRO,20.9,7-6(9) 7-6(4),3,QF,,,,,,,,,,,,,,,,,,,,541,34,556,32
 2000-M-FU-GBR-02A-2000,Great Britain F2,Carpet,32,S,20000207,28,103153,,Q,Gilles Elseneer,R,188,BEL,21.9,102457,,Q,Miles Maclagan,R,180,GBR,25.3,6-7(3) 6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,525,37,451,51
-2000-M-FU-GBR-02A-2000,Great Britain F2,Carpet,32,S,20000207,29,103157,1,,Arvind Parmar,R,193,GBR,21.8,108603,,Q,Helge Koll Frafjord,U,,NOR,24.6,0-6 7-6(5) 6-2,3,SF,,,,,,,,,,,,,,,,,,,,237,140,,
+2000-M-FU-GBR-02A-2000,Great Britain F2,Carpet,32,S,20000207,29,103157,1,,Arvind Parmar,R,193,GBR,21.8,102595,,Q,Helge Koll,R,,NOR,24.6,0-6 7-6(5) 6-2,3,SF,,,,,,,,,,,,,,,,,,,,237,140,537,35
 2000-M-FU-GBR-02A-2000,Great Britain F2,Carpet,32,S,20000207,30,103153,,Q,Gilles Elseneer,R,188,BEL,21.9,103754,,Q,Mark Hilton,L,170,GBR,18.8,7-6(3) 6-4,3,SF,,,,,,,,,,,,,,,,,,,,525,37,541,34
 2000-M-FU-GBR-02A-2000,Great Britain F2,Carpet,32,S,20000207,31,103153,,Q,Gilles Elseneer,R,188,BEL,21.9,103157,1,,Arvind Parmar,R,193,GBR,21.8,7-6(5) 6-4,3,F,,,,,,,,,,,,,,,,,,,,525,37,237,140
 2000-M-FU-CRO-01A-2000,Croatia F1,Hard,32,S,20000214,1,103318,1,,Zeljko Krajan,R,178,CRO,21.0,103424,,Q,Tobias Clemens,R,185,GER,20.5,6-7(4) 6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,272,114,787,11
@@ -2355,7 +2355,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-USA-07A-2000,USA F7,Hard,32,S,20000327,1,102103,1,WC,Michael Sell,R,180,USA,27.5,103475,,Q,Thomas Messmer,R,,GER,20.3,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,194,191,533,38
 2000-M-FU-USA-07A-2000,USA F7,Hard,32,S,20000327,2,101833,,Q,Michael Tebbutt,L,190,AUS,29.2,102497,,,Mashiska Washington,R,180,USA,25.2,2-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,515,41,413,64
 2000-M-FU-USA-07A-2000,USA F7,Hard,32,S,20000327,3,102573,,Q,Robert Samuelsson,R,,SWE,24.9,102565,,,Alexander Waske,R,188,GER,24.9,6-3 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,864,9,303,100
-2000-M-FU-USA-07A-2000,USA F7,Hard,32,S,20000327,4,108603,,,Helge Koll Frafjord,U,,NOR,24.8,102903,8,,Eyal Erlich,R,183,ISR,23.2,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,285,109
+2000-M-FU-USA-07A-2000,USA F7,Hard,32,S,20000327,4,102595,,,Helge Koll,R,,NOR,24.8,102903,8,,Eyal Erlich,R,183,ISR,23.2,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,432,59,285,109
 2000-M-FU-USA-07A-2000,USA F7,Hard,32,S,20000327,5,103204,3,,Hugo Armando,R,183,USA,21.8,103834,,WC,Levar Harper Griffith,R,,USA,18.5,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,231,149,1314,1
 2000-M-FU-USA-07A-2000,USA F7,Hard,32,S,20000327,6,103104,,,Bjorn Rehnquist,R,175,SWE,22.2,102658,,Q,Marc Bauer,R,,FRA,24.5,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,402,67,,
 2000-M-FU-USA-07A-2000,USA F7,Hard,32,S,20000327,7,103371,,LL,Emin Agaev,R,,AZE,20.8,102785,,,Glenn Weiner,R,188,USA,23.9,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,561,33,304,99
@@ -2369,7 +2369,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-USA-07A-2000,USA F7,Hard,32,S,20000327,15,102217,,,Fredrik Giers,R,,SWE,26.8,102715,,Q,Ignacio Hirigoyen,R,183,ARG,24.1,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,433,59,542,37
 2000-M-FU-USA-07A-2000,USA F7,Hard,32,S,20000327,16,103240,2,WC,Kevin Kim,R,180,USA,21.6,102304,,,Grant Doyle,R,180,AUS,26.2,7-5 4-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,195,189,306,98
 2000-M-FU-USA-07A-2000,USA F7,Hard,32,S,20000327,17,102103,1,WC,Michael Sell,R,180,USA,27.5,101833,,Q,Michael Tebbutt,L,190,AUS,29.2,6-7(4) 6-4 4-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,194,191,515,41
-2000-M-FU-USA-07A-2000,USA F7,Hard,32,S,20000327,18,102573,,Q,Robert Samuelsson,R,,SWE,24.9,108603,,,Helge Koll Frafjord,U,,NOR,24.8,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,864,9,,
+2000-M-FU-USA-07A-2000,USA F7,Hard,32,S,20000327,18,102573,,Q,Robert Samuelsson,R,,SWE,24.9,102595,,,Helge Koll,R,,NOR,24.8,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,864,9,432,59
 2000-M-FU-USA-07A-2000,USA F7,Hard,32,S,20000327,19,103104,,,Bjorn Rehnquist,R,175,SWE,22.2,103204,3,,Hugo Armando,R,183,USA,21.8,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,402,67,231,149
 2000-M-FU-USA-07A-2000,USA F7,Hard,32,S,20000327,20,102665,6,,Damian Furmanski,R,,ARG,24.4,103371,,LL,Emin Agaev,R,,AZE,20.8,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,257,130,561,33
 2000-M-FU-USA-07A-2000,USA F7,Hard,32,S,20000327,21,103280,5,,Martin Verkerk,R,196,NED,21.4,103530,,,Zack Fleishman,R,188,USA,20.0,1-6 7-6(5) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,246,138,408,65
@@ -2414,7 +2414,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-FRA-08A-2000,France F9,Carpet,32,S,20000403,29,103305,6,,Daniel Elsner,R,183,GER,21.2,102143,,LL,Nicolas Thomann,R,183,FRA,27.3,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,345,82,508,42
 2000-M-FU-FRA-08A-2000,France F9,Carpet,32,S,20000403,30,103133,,,Olivier Mutis,R,175,FRA,22.1,103333,,,Ivo Karlovic,R,208,CRO,21.0,0-6 7-5 6-4,3,SF,,,,,,,,,,,,,,,,,,,,403,64,342,83
 2000-M-FU-FRA-08A-2000,France F9,Carpet,32,S,20000403,31,103305,6,,Daniel Elsner,R,183,GER,21.2,103133,,,Olivier Mutis,R,175,FRA,22.1,6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,345,82,403,64
-2000-M-FU-USA-08A-2000,USA F8,Hard,32,S,20000403,1,102780,1,,Frederic Niemeyer,R,190,CAN,23.9,108603,,LL,Helge Koll Frafjord,U,,NOR,24.8,6-4 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,238,141,,
+2000-M-FU-USA-08A-2000,USA F8,Hard,32,S,20000403,1,102780,1,,Frederic Niemeyer,R,190,CAN,23.9,102595,,LL,Helge Koll,R,,NOR,24.8,6-4 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,238,141,424,59
 2000-M-FU-USA-08A-2000,USA F8,Hard,32,S,20000403,2,102076,,Q,Mark Merklein,R,188,BAH,27.7,101683,,,Donavan September,R,,RSA,30.2,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,898,7,364,75
 2000-M-FU-USA-08A-2000,USA F8,Hard,32,S,20000403,3,103894,,,Phillip King,R,175,USA,18.2,103363,,WC,Diego Ayala,R,175,USA,20.9,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,393,65,689,18
 2000-M-FU-USA-08A-2000,USA F8,Hard,32,S,20000403,4,102304,7,,Grant Doyle,R,180,AUS,26.2,103270,,Q,Kristian Capalik,R,188,USA,21.5,6-2 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,304,99,497,43
@@ -2713,7 +2713,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-USA-09A-2000,USA F9,Hard,32,S,20000410,3,103890,,Q,Bo Hodge,U,193,USA,18.3,103833,,WC,Michael Rubin,U,,USA,18.6,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2000-M-FU-USA-09A-2000,USA F9,Hard,32,S,20000410,4,102217,,,Fredrik Giers,R,,SWE,26.9,102903,8,,Eyal Erlich,R,183,ISR,23.2,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,439,56,310,97
 2000-M-FU-USA-09A-2000,USA F9,Hard,32,S,20000410,5,103130,4,,Louis Vosloo,R,178,RSA,22.1,117983,,WC,Michael Kember,U,,NZL,24.5,6-3 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,241,139,,
-2000-M-FU-USA-09A-2000,USA F9,Hard,32,S,20000410,6,108603,,,Helge Koll Frafjord,U,,NOR,24.8,103111,,Q,Jeff Williams,R,,USA,22.2,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,627,22
+2000-M-FU-USA-09A-2000,USA F9,Hard,32,S,20000410,6,102595,,,Helge Koll,R,,NOR,24.8,103111,,Q,Jeff Williams,R,,USA,22.2,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,418,60,627,22
 2000-M-FU-USA-09A-2000,USA F9,Hard,32,S,20000410,7,102748,,Q,Michael Jessup,L,165,USA,24.0,103888,,WC,Mardy Fish,R,188,USA,18.3,7-6(4) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,833,10,713,15
 2000-M-FU-USA-09A-2000,USA F9,Hard,32,S,20000410,8,102665,6,,Damian Furmanski,R,,ARG,24.5,103475,,Q,Thomas Messmer,R,,GER,20.3,6-1 2-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,233,145,522,38
 2000-M-FU-USA-09A-2000,USA F9,Hard,32,S,20000410,9,103104,,,Bjorn Rehnquist,R,175,SWE,22.2,103280,5,,Martin Verkerk,R,196,NED,21.4,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,447,55,268,117
@@ -2726,14 +2726,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-USA-09A-2000,USA F9,Hard,32,S,20000410,16,103225,,Q,Simon Larose,R,190,CAN,21.7,103066,2,,Mark Nielsen,R,185,NZL,22.5,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,506,41,216,159
 2000-M-FU-USA-09A-2000,USA F9,Hard,32,S,20000410,17,102902,,WC,Thomas Blake,R,,USA,23.2,117943,,,Marq Foster,U,,USA,25.8,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,520,39,,
 2000-M-FU-USA-09A-2000,USA F9,Hard,32,S,20000410,18,102217,,,Fredrik Giers,R,,SWE,26.9,103890,,Q,Bo Hodge,U,193,USA,18.3,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,439,56,,
-2000-M-FU-USA-09A-2000,USA F9,Hard,32,S,20000410,19,108603,,,Helge Koll Frafjord,U,,NOR,24.8,103130,4,,Louis Vosloo,R,178,RSA,22.1,4-6 7-6(0) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,241,139
+2000-M-FU-USA-09A-2000,USA F9,Hard,32,S,20000410,19,102595,,,Helge Koll,R,,NOR,24.8,103130,4,,Louis Vosloo,R,178,RSA,22.1,4-6 7-6(0) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,418,60,241,139
 2000-M-FU-USA-09A-2000,USA F9,Hard,32,S,20000410,20,102665,6,,Damian Furmanski,R,,ARG,24.5,102748,,Q,Michael Jessup,L,165,USA,24.0,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,233,145,833,10
 2000-M-FU-USA-09A-2000,USA F9,Hard,32,S,20000410,21,103104,,,Bjorn Rehnquist,R,175,SWE,22.2,101683,,,Donavan September,R,,RSA,30.2,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,447,55,362,75
 2000-M-FU-USA-09A-2000,USA F9,Hard,32,S,20000410,22,102780,3,,Frederic Niemeyer,R,190,CAN,23.9,102978,,LL,Zbynek Mlynarik,R,175,AUT,22.9,7-6(6) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,237,141,488,46
 2000-M-FU-USA-09A-2000,USA F9,Hard,32,S,20000410,23,102884,7,,Tom Chicoine,U,,USA,23.4,103721,,Q,Ezequiel Nastari,R,,VEN,19.1,6-2 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,272,115,1312,1
 2000-M-FU-USA-09A-2000,USA F9,Hard,32,S,20000410,24,103894,,,Phillip King,R,175,USA,18.3,103225,,Q,Simon Larose,R,190,CAN,21.7,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,406,62,506,41
 2000-M-FU-USA-09A-2000,USA F9,Hard,32,S,20000410,25,102902,,WC,Thomas Blake,R,,USA,23.2,102217,,,Fredrik Giers,R,,SWE,26.9,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,520,39,439,56
-2000-M-FU-USA-09A-2000,USA F9,Hard,32,S,20000410,26,102665,6,,Damian Furmanski,R,,ARG,24.5,108603,,,Helge Koll Frafjord,U,,NOR,24.8,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,233,145,,
+2000-M-FU-USA-09A-2000,USA F9,Hard,32,S,20000410,26,102665,6,,Damian Furmanski,R,,ARG,24.5,102595,,,Helge Koll,R,,NOR,24.8,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,233,145,418,60
 2000-M-FU-USA-09A-2000,USA F9,Hard,32,S,20000410,27,102780,3,,Frederic Niemeyer,R,190,CAN,23.9,103104,,,Bjorn Rehnquist,R,175,SWE,22.2,6-7(4) 6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,237,141,447,55
 2000-M-FU-USA-09A-2000,USA F9,Hard,32,S,20000410,28,102884,7,,Tom Chicoine,U,,USA,23.4,103894,,,Phillip King,R,175,USA,18.3,6-3 2-6 7-5,3,QF,,,,,,,,,,,,,,,,,,,,272,115,406,62
 2000-M-FU-USA-09A-2000,USA F9,Hard,32,S,20000410,29,102665,6,,Damian Furmanski,R,,ARG,24.5,102902,,WC,Thomas Blake,R,,USA,23.2,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,233,145,520,39
@@ -2897,7 +2897,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-USA-10A-2000,USA F10,Hard,32,S,20000417,9,102785,6,,Glenn Weiner,R,188,USA,23.9,102748,,Q,Michael Jessup,L,165,USA,24.0,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,307,99,835,10
 2000-M-FU-USA-10A-2000,USA F10,Hard,32,S,20000417,10,102983,,,Henrik Andersson,R,,SWE,22.9,102902,,SE,Thomas Blake,R,,USA,23.2,1-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,368,71,516,39
 2000-M-FU-USA-10A-2000,USA F10,Hard,32,S,20000417,11,103225,,Q,Simon Larose,R,190,CAN,21.8,102677,,Q,Kiantki Thomas,R,,USA,24.4,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,504,41,1075,4
-2000-M-FU-USA-10A-2000,USA F10,Hard,32,S,20000417,12,108603,,,Helge Koll Frafjord,U,,NOR,24.8,102665,3,,Damian Furmanski,R,,ARG,24.5,4-6 7-6(3) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,222,156
+2000-M-FU-USA-10A-2000,USA F10,Hard,32,S,20000417,12,102595,,,Helge Koll,R,,NOR,24.8,102665,3,,Damian Furmanski,R,,ARG,24.5,4-6 7-6(3) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,420,60,222,156
 2000-M-FU-USA-10A-2000,USA F10,Hard,32,S,20000417,13,103363,,Q,Diego Ayala,R,175,USA,20.9,102304,7,,Grant Doyle,R,180,AUS,26.2,2-6 6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,694,18,303,100
 2000-M-FU-USA-10A-2000,USA F10,Hard,32,S,20000417,14,102497,,,Mashiska Washington,R,180,USA,25.3,101833,,Q,Michael Tebbutt,L,190,AUS,29.3,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,372,70,524,38
 2000-M-FU-USA-10A-2000,USA F10,Hard,32,S,20000417,15,103198,,Q,Justin Bower,L,190,RSA,21.9,101609,,WC,David Wheaton,R,193,USA,30.8,3-6 7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,565,30,569,30
@@ -2907,12 +2907,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-USA-10A-2000,USA F10,Hard,32,S,20000417,19,102217,,,Fredrik Giers,R,,SWE,26.9,103130,4,,Louis Vosloo,R,178,RSA,22.2,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,441,56,241,139
 2000-M-FU-USA-10A-2000,USA F10,Hard,32,S,20000417,20,103111,,WC,Jeff Williams,R,,USA,22.2,102884,5,,Tom Chicoine,U,,USA,23.4,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,604,25,272,115
 2000-M-FU-USA-10A-2000,USA F10,Hard,32,S,20000417,21,102785,6,,Glenn Weiner,R,188,USA,23.9,102983,,,Henrik Andersson,R,,SWE,22.9,6-0 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,307,99,368,71
-2000-M-FU-USA-10A-2000,USA F10,Hard,32,S,20000417,22,108603,,,Helge Koll Frafjord,U,,NOR,24.8,103225,,Q,Simon Larose,R,190,CAN,21.8,6-1 4-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,,,504,41
+2000-M-FU-USA-10A-2000,USA F10,Hard,32,S,20000417,22,102595,,,Helge Koll,R,,NOR,24.8,103225,,Q,Simon Larose,R,190,CAN,21.8,6-1 4-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,420,60,504,41
 2000-M-FU-USA-10A-2000,USA F10,Hard,32,S,20000417,23,103363,,Q,Diego Ayala,R,175,USA,20.9,102497,,,Mashiska Washington,R,180,USA,25.3,3-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,694,18,372,70
 2000-M-FU-USA-10A-2000,USA F10,Hard,32,S,20000417,24,103198,,Q,Justin Bower,L,190,RSA,21.9,102169,2,,Michael Joyce,R,180,USA,27.2,6-3 3-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,565,30,230,151
 2000-M-FU-USA-10A-2000,USA F10,Hard,32,S,20000417,25,103066,1,,Mark Nielsen,R,185,NZL,22.5,103104,,,Bjorn Rehnquist,R,175,SWE,22.2,7-5 7-5,3,QF,,,,,,,,,,,,,,,,,,,,213,159,449,55
 2000-M-FU-USA-10A-2000,USA F10,Hard,32,S,20000417,26,103111,,WC,Jeff Williams,R,,USA,22.2,102217,,,Fredrik Giers,R,,SWE,26.9,4-6 6-3 6-0,3,QF,,,,,,,,,,,,,,,,,,,,604,25,441,56
-2000-M-FU-USA-10A-2000,USA F10,Hard,32,S,20000417,27,102785,6,,Glenn Weiner,R,188,USA,23.9,108603,,,Helge Koll Frafjord,U,,NOR,24.8,6-3 7-5,3,QF,,,,,,,,,,,,,,,,,,,,307,99,,
+2000-M-FU-USA-10A-2000,USA F10,Hard,32,S,20000417,27,102785,6,,Glenn Weiner,R,188,USA,23.9,102595,,,Helge Koll,R,,NOR,24.8,6-3 7-5,3,QF,,,,,,,,,,,,,,,,,,,,307,99,420,60
 2000-M-FU-USA-10A-2000,USA F10,Hard,32,S,20000417,28,103363,,Q,Diego Ayala,R,175,USA,20.9,103198,,Q,Justin Bower,L,190,RSA,21.9,2-6 6-4 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,694,18,565,30
 2000-M-FU-USA-10A-2000,USA F10,Hard,32,S,20000417,29,103066,1,,Mark Nielsen,R,185,NZL,22.5,103111,,WC,Jeff Williams,R,,USA,22.2,6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,213,159,604,25
 2000-M-FU-USA-10A-2000,USA F10,Hard,32,S,20000417,30,102785,6,,Glenn Weiner,R,188,USA,23.9,103363,,Q,Diego Ayala,R,175,USA,20.9,4-6 6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,307,99,694,18
@@ -4447,7 +4447,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-IRL-01A-2000,Ireland F1,Carpet,32,S,20000529,10,103254,,,Yves Allegro,R,183,SUI,21.7,101775,,Q,Frederik Fetterlein,R,190,DEN,29.8,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,421,61,671,19
 2000-M-FU-IRL-01A-2000,Ireland F1,Carpet,32,S,20000529,11,102444,,,Scott Barron,R,,IRL,25.7,103263,,,Justin Layne,R,,GBR,21.6,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,515,40,423,60
 2000-M-FU-IRL-01A-2000,Ireland F1,Carpet,32,S,20000529,12,101651,,WC,Owen Casey,R,,IRL,30.6,103208,3,,Jean Michel Pequery,R,,FRA,21.9,6-3 4-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,739,14,351,78
-2000-M-FU-IRL-01A-2000,Ireland F1,Carpet,32,S,20000529,13,102304,,,Grant Doyle,R,180,AUS,26.3,108603,7,,Helge Koll Frafjord,U,,NOR,24.9,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,404,64,,
+2000-M-FU-IRL-01A-2000,Ireland F1,Carpet,32,S,20000529,13,102304,,,Grant Doyle,R,180,AUS,26.3,102595,7,,Helge Koll,R,,NOR,24.9,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,404,64,393,66
 2000-M-FU-IRL-01A-2000,Ireland F1,Carpet,32,S,20000529,14,104051,,,Andrej Kracman,R,,SLO,17.7,101996,,WC,David Mullins,R,,IRL,28.4,7-6(1) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,537,36,,
 2000-M-FU-IRL-01A-2000,Ireland F1,Carpet,32,S,20000529,15,103124,,,Jan Ralph Brandt,R,,GER,22.3,117454,,Q,Robert Nita,R,,ROU,21.0,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,541,34,1156,3
 2000-M-FU-IRL-01A-2000,Ireland F1,Carpet,32,S,20000529,16,102835,2,,Luke Milligan,R,180,GBR,23.8,108682,,WC,Stephen Nugent,R,,IRL,18.7,6-3 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,343,80,1330,1
@@ -4856,7 +4856,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-IRL-02A-2000,Ireland F2,Carpet,32,S,20000605,1,101651,,WC,Owen Casey,R,,IRL,30.6,103333,1,,Ivo Karlovic,R,208,CRO,21.2,6-1 6-7(5) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,739,14,318,93
 2000-M-FU-IRL-02A-2000,Ireland F2,Carpet,32,S,20000605,2,102337,,,Leigh Holland,R,,AUS,26.2,101996,,Q,David Mullins,R,,IRL,28.4,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,553,33,,
 2000-M-FU-IRL-02A-2000,Ireland F2,Carpet,32,S,20000605,3,103254,,,Yves Allegro,R,183,SUI,21.7,103730,,Q,Jonathan Marray,R,183,GBR,19.2,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,421,61,,
-2000-M-FU-IRL-02A-2000,Ireland F2,Carpet,32,S,20000605,4,108603,8,,Helge Koll Frafjord,U,,NOR,25.0,103128,,,Damien Roberts,R,,RSA,22.3,6-3 7-6(8),3,R32,,,,,,,,,,,,,,,,,,,,,,496,44
+2000-M-FU-IRL-02A-2000,Ireland F2,Carpet,32,S,20000605,4,102595,8,,Helge Koll,R,,NOR,25.0,103128,,,Damien Roberts,R,,RSA,22.3,6-3 7-6(8),3,R32,,,,,,,,,,,,,,,,,,,,393,66,496,44
 2000-M-FU-IRL-02A-2000,Ireland F2,Carpet,32,S,20000605,5,103208,4,,Jean Michel Pequery,R,,FRA,22.0,103339,,,Wesley Whitehouse,L,190,RSA,21.2,6-3 1-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,351,78,547,34
 2000-M-FU-IRL-02A-2000,Ireland F2,Carpet,32,S,20000605,6,117454,,Q,Robert Nita,R,,ROU,21.0,111603,,Q,Richard Brooks,L,,GBR,18.9,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1156,3,1238,2
 2000-M-FU-IRL-02A-2000,Ireland F2,Carpet,32,S,20000605,7,103699,,Q,Fred Hemmes,R,183,NED,19.3,102530,,,Pieter Calitz,R,,RSA,25.3,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1008,5,457,54
@@ -4870,14 +4870,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-IRL-02A-2000,Ireland F2,Carpet,32,S,20000605,15,104051,,,Andrej Kracman,R,,SLO,17.7,103402,,,Peter Clarke,R,188,IRL,20.9,3-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,537,36,473,50
 2000-M-FU-IRL-02A-2000,Ireland F2,Carpet,32,S,20000605,16,102835,2,,Luke Milligan,R,180,GBR,23.8,102304,,,Grant Doyle,R,180,AUS,26.4,6-4 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,343,80,404,64
 2000-M-FU-IRL-02A-2000,Ireland F2,Carpet,32,S,20000605,17,101651,,WC,Owen Casey,R,,IRL,30.6,102337,,,Leigh Holland,R,,AUS,26.2,6-2 1-6 7-6(1),3,R16,,,,,,,,,,,,,,,,,,,,739,14,553,33
-2000-M-FU-IRL-02A-2000,Ireland F2,Carpet,32,S,20000605,18,108603,8,,Helge Koll Frafjord,U,,NOR,25.0,103254,,,Yves Allegro,R,183,SUI,21.7,6-7(4) 7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,421,61
+2000-M-FU-IRL-02A-2000,Ireland F2,Carpet,32,S,20000605,18,102595,8,,Helge Koll,R,,NOR,25.0,103254,,,Yves Allegro,R,183,SUI,21.7,6-7(4) 7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,393,66,421,61
 2000-M-FU-IRL-02A-2000,Ireland F2,Carpet,32,S,20000605,19,103208,4,,Jean Michel Pequery,R,,FRA,22.0,117454,,Q,Robert Nita,R,,ROU,21.0,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,351,78,1156,3
 2000-M-FU-IRL-02A-2000,Ireland F2,Carpet,32,S,20000605,20,103699,,Q,Fred Hemmes,R,183,NED,19.3,103813,,,Jarkko Nieminen,L,185,FIN,18.8,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1008,5,484,48
 2000-M-FU-IRL-02A-2000,Ireland F2,Carpet,32,S,20000605,21,102444,,WC,Scott Barron,R,,IRL,25.7,102322,5,,Philippe Pasquier,R,,FRA,26.3,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,515,40,361,75
 2000-M-FU-IRL-02A-2000,Ireland F2,Carpet,32,S,20000605,22,103153,,,Gilles Elseneer,R,188,BEL,22.2,102883,,,Tom Spinks,R,,GBR,23.5,6-7(4) 7-6(3) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,542,34,469,50
 2000-M-FU-IRL-02A-2000,Ireland F2,Carpet,32,S,20000605,23,102615,7,,Dennis Van Scheppingen,R,185,NED,24.9,103238,,Q,Jean Claude Scherrer,R,188,SUI,21.8,7-6(2) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,391,66,565,31
 2000-M-FU-IRL-02A-2000,Ireland F2,Carpet,32,S,20000605,24,104051,,,Andrej Kracman,R,,SLO,17.7,102835,2,,Luke Milligan,R,180,GBR,23.8,3-6 6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,537,36,343,80
-2000-M-FU-IRL-02A-2000,Ireland F2,Carpet,32,S,20000605,25,101651,,WC,Owen Casey,R,,IRL,30.6,108603,8,,Helge Koll Frafjord,U,,NOR,25.0,6-3 7-6(4),3,QF,,,,,,,,,,,,,,,,,,,,739,14,,
+2000-M-FU-IRL-02A-2000,Ireland F2,Carpet,32,S,20000605,25,101651,,WC,Owen Casey,R,,IRL,30.6,102595,8,,Helge Koll,R,,NOR,25.0,6-3 7-6(4),3,QF,,,,,,,,,,,,,,,,,,,,739,14,393,66
 2000-M-FU-IRL-02A-2000,Ireland F2,Carpet,32,S,20000605,26,103208,4,,Jean Michel Pequery,R,,FRA,22.0,103699,,Q,Fred Hemmes,R,183,NED,19.3,0-6 6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,351,78,1008,5
 2000-M-FU-IRL-02A-2000,Ireland F2,Carpet,32,S,20000605,27,103153,,,Gilles Elseneer,R,188,BEL,22.2,102444,,WC,Scott Barron,R,,IRL,25.7,6-0 5-7 6-3,3,QF,,,,,,,,,,,,,,,,,,,,542,34,515,40
 2000-M-FU-IRL-02A-2000,Ireland F2,Carpet,32,S,20000605,28,102615,7,,Dennis Van Scheppingen,R,185,NED,24.9,104051,,,Andrej Kracman,R,,SLO,17.7,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,391,66,537,36
@@ -6073,7 +6073,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-FRA-11A-2000,France F12,Clay,32,S,20000626,10,103534,,Q,Nicolas Devilder,L,173,FRA,20.2,101720,,,Agustin Garizzio,R,185,ARG,30.2,W/O,3,R32,,,,,,,,,,,,,,,,,,,,637,21,548,32
 2000-M-FU-FRA-11A-2000,France F12,Clay,32,S,20000626,11,103112,,LL,Ruben Fernandez,R,,ESP,22.4,118188,,WC,Jerome Sciarrino,U,,FRA,22.6,6-4 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,1160,3,,
 2000-M-FU-FRA-11A-2000,France F12,Clay,32,S,20000626,12,101938,3,,Bernardo Mota,R,178,POR,28.9,102630,,,Slimane Saoudi,L,,ALG,24.9,5-7 7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,299,101,456,52
-2000-M-FU-FRA-11A-2000,France F12,Clay,32,S,20000626,13,108603,8,,Helge Koll Frafjord,U,,NOR,25.0,103685,,WC,Olivier Ramos,U,,FRA,19.4,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,662,20
+2000-M-FU-FRA-11A-2000,France F12,Clay,32,S,20000626,13,102595,8,,Helge Koll,R,,NOR,25.0,103685,,WC,Olivier Ramos,U,,FRA,19.4,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,384,69,662,20
 2000-M-FU-FRA-11A-2000,France F12,Clay,32,S,20000626,14,102807,,,Rodrigo Monte,R,,BRA,24.0,102781,,Q,Christian Dillschneider,R,,SUI,24.1,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,549,32,1069,4
 2000-M-FU-FRA-11A-2000,France F12,Clay,32,S,20000626,15,102852,,Q,Lee Pearson,R,,AUS,23.8,103843,,,Marco Chiudinelli,R,185,SUI,18.7,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,398,65,423,58
 2000-M-FU-FRA-11A-2000,France F12,Clay,32,S,20000626,16,103647,,Q,Jun Kato,R,173,JPN,19.6,102250,9,,Emanuel Couto,R,183,POR,26.8,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,550,32,415,61
@@ -6083,7 +6083,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-FRA-11A-2000,France F12,Clay,32,S,20000626,20,103035,5,,Alessio Di Mauro,L,185,ITA,22.8,102916,,Q,Laurent Bensadoun,R,,FRA,23.4,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,347,79,1323,1
 2000-M-FU-FRA-11A-2000,France F12,Clay,32,S,20000626,21,103608,6,,Mario Munoz Bejarano,R,,ESP,19.8,103534,,Q,Nicolas Devilder,L,173,FRA,20.2,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,354,76,637,21
 2000-M-FU-FRA-11A-2000,France F12,Clay,32,S,20000626,22,103112,,LL,Ruben Fernandez,R,,ESP,22.4,101938,3,,Bernardo Mota,R,178,POR,28.9,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1160,3,299,101
-2000-M-FU-FRA-11A-2000,France F12,Clay,32,S,20000626,23,102807,,,Rodrigo Monte,R,,BRA,24.0,108603,8,,Helge Koll Frafjord,U,,NOR,25.0,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,549,32,,
+2000-M-FU-FRA-11A-2000,France F12,Clay,32,S,20000626,23,102807,,,Rodrigo Monte,R,,BRA,24.0,102595,8,,Helge Koll,R,,NOR,25.0,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,549,32,384,69
 2000-M-FU-FRA-11A-2000,France F12,Clay,32,S,20000626,24,103647,,Q,Jun Kato,R,173,JPN,19.6,102852,,Q,Lee Pearson,R,,AUS,23.8,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,550,32,398,65
 2000-M-FU-FRA-11A-2000,France F12,Clay,32,S,20000626,25,102339,7,,Kris Goossens,R,180,BEL,26.3,103250,1,,Rodolphe Cadart,L,183,FRA,21.8,2-6 6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,365,74,262,123
 2000-M-FU-FRA-11A-2000,France F12,Clay,32,S,20000626,26,102939,,WC,Jean Baptiste Perlant,R,190,FRA,23.3,103035,5,,Alessio Di Mauro,L,185,ITA,22.8,6-4 2-6 7-6(3),3,QF,,,,,,,,,,,,,,,,,,,,733,14,347,79
@@ -8989,7 +8989,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-JPN-06A-2000,Japan F6,Hard,32,S,20000911,29,103794,,Q,Benjamin Becker,R,178,GER,19.2,103823,,,Denis Gremelmayr,L,183,GER,19.0,7-5 3-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,,,821,9
 2000-M-FU-JPN-06A-2000,Japan F6,Hard,32,S,20000911,30,102843,4,,Suwandi Suwandi,R,178,INA,24.0,103220,2,,Oh Hee Kwon,R,,KOR,22.2,6-4 7-5,3,SF,,,,,,,,,,,,,,,,,,,,565,29,522,35
 2000-M-FU-JPN-06A-2000,Japan F6,Hard,32,S,20000911,31,102843,4,,Suwandi Suwandi,R,178,INA,24.0,103794,,Q,Benjamin Becker,R,178,GER,19.2,6-7(11) 6-4 7-6(4),3,F,,,,,,,,,,,,,,,,,,,,565,29,,
-2000-M-FU-NOR-01A-2000,Norway F1,Carpet,32,S,20000911,1,108603,1,,Helge Koll Frafjord,U,,NOR,25.2,118245,,LL,Mirza Koristovic,R,,BIH,16.8,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2000-M-FU-NOR-01A-2000,Norway F1,Carpet,32,S,20000911,1,102595,1,,Helge Koll,R,,NOR,25.2,118245,,LL,Mirza Koristovic,R,,BIH,16.8,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,303,100,,
 2000-M-FU-NOR-01A-2000,Norway F1,Carpet,32,S,20000911,2,102794,,,Mikael Maatta,R,,SWE,24.2,108641,,WC,Fredrik Aarum,U,,NOR,17.5,2-6 6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1002,4,,
 2000-M-FU-NOR-01A-2000,Norway F1,Carpet,32,S,20000911,3,102476,,Q,Mattias Pennonen,R,,SWE,25.8,118246,,Q,Florian Kunth,U,,GER,21.2,3-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1297,1,1297,1
 2000-M-FU-NOR-01A-2000,Norway F1,Carpet,32,S,20000911,4,103945,8,,Simon Dickson,R,,GBR,18.5,102750,,,Jon Hedman,R,,SWE,24.4,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,593,25,993,5
@@ -9005,7 +9005,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-NOR-01A-2000,Norway F1,Carpet,32,S,20000911,14,103266,,,Matthis Kempe Bergman,U,,SWE,21.9,117837,,Q,Johan Karlsson,U,,SWE,25.6,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,684,17,1162,2
 2000-M-FU-NOR-01A-2000,Norway F1,Carpet,32,S,20000911,15,103488,,LL,Carl Henrik Hansen,R,,SWE,20.6,103899,,WC,Stian Boretti,R,188,NOR,18.7,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1297,1,1297,1
 2000-M-FU-NOR-01A-2000,Norway F1,Carpet,32,S,20000911,16,103178,2,,Johan Settergren,R,185,SWE,22.3,103379,,,Arne Kreitz,R,,GER,21.3,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,315,94,598,24
-2000-M-FU-NOR-01A-2000,Norway F1,Carpet,32,S,20000911,17,108603,1,,Helge Koll Frafjord,U,,NOR,25.2,102794,,,Mikael Maatta,R,,SWE,24.2,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,1002,4
+2000-M-FU-NOR-01A-2000,Norway F1,Carpet,32,S,20000911,17,102595,1,,Helge Koll,R,,NOR,25.2,102794,,,Mikael Maatta,R,,SWE,24.2,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,303,100,1002,4
 2000-M-FU-NOR-01A-2000,Norway F1,Carpet,32,S,20000911,18,102476,,Q,Mattias Pennonen,R,,SWE,25.8,103945,8,,Simon Dickson,R,,GBR,18.5,6-4 3-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1297,1,593,25
 2000-M-FU-NOR-01A-2000,Norway F1,Carpet,32,S,20000911,19,102983,3,,Henrik Andersson,R,,SWE,23.3,111299,,WC,Oyvind Alver,U,,NOR,18.5,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,337,85,,
 2000-M-FU-NOR-01A-2000,Norway F1,Carpet,32,S,20000911,20,103751,,,Jonas Froberg,U,,SWE,19.4,103580,5,,Alexander Peya,R,183,AUT,20.2,1-6 7-6(5) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,629,21,451,49
@@ -9013,11 +9013,11 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-NOR-01A-2000,Norway F1,Carpet,32,S,20000911,22,102668,4,Q,Tapio Nurminen,R,,FIN,24.9,102847,,Q,Anders Pahlsson,R,,SWE,24.0,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,385,66,,
 2000-M-FU-NOR-01A-2000,Norway F1,Carpet,32,S,20000911,23,103623,7,,Jacob Adaktusson,R,193,SWE,20.0,103266,,,Matthis Kempe Bergman,U,,SWE,21.9,6-3 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,595,25,684,17
 2000-M-FU-NOR-01A-2000,Norway F1,Carpet,32,S,20000911,24,103178,2,,Johan Settergren,R,185,SWE,22.3,103488,,LL,Carl Henrik Hansen,R,,SWE,20.6,6-0 1-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,315,94,1297,1
-2000-M-FU-NOR-01A-2000,Norway F1,Carpet,32,S,20000911,25,108603,1,,Helge Koll Frafjord,U,,NOR,25.2,102476,,Q,Mattias Pennonen,R,,SWE,25.8,2-6 6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,,,1297,1
+2000-M-FU-NOR-01A-2000,Norway F1,Carpet,32,S,20000911,25,102595,1,,Helge Koll,R,,NOR,25.2,102476,,Q,Mattias Pennonen,R,,SWE,25.8,2-6 6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,303,100,1297,1
 2000-M-FU-NOR-01A-2000,Norway F1,Carpet,32,S,20000911,26,102983,3,,Henrik Andersson,R,,SWE,23.3,103751,,,Jonas Froberg,U,,SWE,19.4,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,337,85,629,21
 2000-M-FU-NOR-01A-2000,Norway F1,Carpet,32,S,20000911,27,102668,4,Q,Tapio Nurminen,R,,FIN,24.9,103584,,,Johan Kareld,U,,SWE,20.1,4-6 6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,385,66,853,8
 2000-M-FU-NOR-01A-2000,Norway F1,Carpet,32,S,20000911,28,103178,2,,Johan Settergren,R,185,SWE,22.3,103623,7,,Jacob Adaktusson,R,193,SWE,20.0,6-2 3-2 RET,3,QF,,,,,,,,,,,,,,,,,,,,315,94,595,25
-2000-M-FU-NOR-01A-2000,Norway F1,Carpet,32,S,20000911,29,102983,3,,Henrik Andersson,R,,SWE,23.3,108603,1,,Helge Koll Frafjord,U,,NOR,25.2,7-5 6-2,3,SF,,,,,,,,,,,,,,,,,,,,337,85,,
+2000-M-FU-NOR-01A-2000,Norway F1,Carpet,32,S,20000911,29,102983,3,,Henrik Andersson,R,,SWE,23.3,102595,1,,Helge Koll,R,,NOR,25.2,7-5 6-2,3,SF,,,,,,,,,,,,,,,,,,,,337,85,303,100
 2000-M-FU-NOR-01A-2000,Norway F1,Carpet,32,S,20000911,30,103178,2,,Johan Settergren,R,185,SWE,22.3,102668,4,Q,Tapio Nurminen,R,,FIN,24.9,6-7(2) 6-0 7-6(2),3,SF,,,,,,,,,,,,,,,,,,,,315,94,385,66
 2000-M-FU-NOR-01A-2000,Norway F1,Carpet,32,S,20000911,31,103178,2,,Johan Settergren,R,185,SWE,22.3,102983,3,,Henrik Andersson,R,,SWE,23.3,7-6(3) 7-5,3,F,,,,,,,,,,,,,,,,,,,,315,94,337,85
 2000-M-FU-PER-03A-2000,Peru F3,Clay,32,S,20000911,1,103775,,Q,Felipe Parada,R,175,CHI,19.3,103405,1,,Rodolfo Rake,R,,PER,21.1,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,891,7,386,65
@@ -9477,7 +9477,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-JPN-07A-2000,Japan F7,Hard,32,S,20000918,29,102789,,,Jay Gooding,R,188,AUS,24.3,102282,,,Tetsuya Chaen,R,,JPN,26.8,6-1 6-1,3,SF,,,,,,,,,,,,,,,,,,,,814,10,712,16
 2000-M-FU-JPN-07A-2000,Japan F7,Hard,32,S,20000918,30,102337,3,,Leigh Holland,R,,AUS,26.5,103377,7,,Seung Hoon Lee,R,,KOR,21.3,7-6(4) 6-4,3,SF,,,,,,,,,,,,,,,,,,,,526,35,647,20
 2000-M-FU-JPN-07A-2000,Japan F7,Hard,32,S,20000918,31,102337,3,,Leigh Holland,R,,AUS,26.5,102789,,,Jay Gooding,R,188,AUS,24.3,6-3 0-6 7-5,3,F,,,,,,,,,,,,,,,,,,,,526,35,814,10
-2000-M-FU-SWE-01A-2000,Sweden F1,Carpet,32,S,20000918,1,108603,1,,Helge Koll Frafjord,U,,NOR,25.3,102228,,,Jan Hermansson,R,,SWE,27.2,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,562,30
+2000-M-FU-SWE-01A-2000,Sweden F1,Carpet,32,S,20000918,1,102595,1,,Helge Koll,R,,NOR,25.3,102228,,,Jan Hermansson,R,,SWE,27.2,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,300,100,562,30
 2000-M-FU-SWE-01A-2000,Sweden F1,Carpet,32,S,20000918,2,103474,,,Andreas Tattermusch,R,,GER,20.8,104417,,WC,Robin Soderling,R,193,SWE,16.0,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,679,18,,
 2000-M-FU-SWE-01A-2000,Sweden F1,Carpet,32,S,20000918,3,103379,,,Arne Kreitz,R,,GER,21.3,118246,,Q,Florian Kunth,U,,GER,21.2,7-6(8) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,611,24,1318,1
 2000-M-FU-SWE-01A-2000,Sweden F1,Carpet,32,S,20000918,4,103580,8,,Alexander Peya,R,183,AUT,20.2,110588,,Q,Riad Sawas,U,,GER,,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,485,41,,
@@ -9493,7 +9493,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-SWE-01A-2000,Sweden F1,Carpet,32,S,20000918,14,104004,,WC,Filip Prpic,R,173,SWE,18.3,111296,,WC,Johan Berg,U,,SWE,18.4,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2000-M-FU-SWE-01A-2000,Sweden F1,Carpet,32,S,20000918,15,102794,,,Mikael Maatta,R,,SWE,24.3,118254,,Q,Marcus Westman,U,,SWE,19.5,6-4 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1010,4,,
 2000-M-FU-SWE-01A-2000,Sweden F1,Carpet,32,S,20000918,16,103178,2,,Johan Settergren,R,185,SWE,22.4,117837,,Q,Johan Karlsson,U,,SWE,25.6,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,315,94,1171,2
-2000-M-FU-SWE-01A-2000,Sweden F1,Carpet,32,S,20000918,17,108603,1,,Helge Koll Frafjord,U,,NOR,25.3,103474,,,Andreas Tattermusch,R,,GER,20.8,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,679,18
+2000-M-FU-SWE-01A-2000,Sweden F1,Carpet,32,S,20000918,17,102595,1,,Helge Koll,R,,NOR,25.3,103474,,,Andreas Tattermusch,R,,GER,20.8,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,300,100,679,18
 2000-M-FU-SWE-01A-2000,Sweden F1,Carpet,32,S,20000918,18,103580,8,,Alexander Peya,R,183,AUT,20.2,103379,,,Arne Kreitz,R,,GER,21.3,4-6 7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,485,41,611,24
 2000-M-FU-SWE-01A-2000,Sweden F1,Carpet,32,S,20000918,19,102983,4,,Henrik Andersson,R,,SWE,23.3,103471,,,Tero Vilen,R,,FIN,20.8,6-1 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,335,85,738,14
 2000-M-FU-SWE-01A-2000,Sweden F1,Carpet,32,S,20000918,20,102668,5,,Tapio Nurminen,R,,FIN,24.9,103584,,,Johan Kareld,U,,SWE,20.2,5-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,387,66,849,9
@@ -9501,13 +9501,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-SWE-01A-2000,Sweden F1,Carpet,32,S,20000918,22,102861,3,,Timothy Aerts,R,,BEL,24.0,103158,,,Johan Ortegren,R,,SWE,22.4,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,323,91,487,41
 2000-M-FU-SWE-01A-2000,Sweden F1,Carpet,32,S,20000918,23,102808,7,,Kalle Flygt,R,,SWE,24.2,104004,,WC,Filip Prpic,R,173,SWE,18.3,W/O,3,R16,,,,,,,,,,,,,,,,,,,,433,52,,
 2000-M-FU-SWE-01A-2000,Sweden F1,Carpet,32,S,20000918,24,103178,2,,Johan Settergren,R,185,SWE,22.4,102794,,,Mikael Maatta,R,,SWE,24.3,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,315,94,1010,4
-2000-M-FU-SWE-01A-2000,Sweden F1,Carpet,32,S,20000918,25,108603,1,,Helge Koll Frafjord,U,,NOR,25.3,103580,8,,Alexander Peya,R,183,AUT,20.2,6-2 4-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,485,41
+2000-M-FU-SWE-01A-2000,Sweden F1,Carpet,32,S,20000918,25,102595,1,,Helge Koll,R,,NOR,25.3,103580,8,,Alexander Peya,R,183,AUT,20.2,6-2 4-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,300,100,485,41
 2000-M-FU-SWE-01A-2000,Sweden F1,Carpet,32,S,20000918,26,102668,5,,Tapio Nurminen,R,,FIN,24.9,102983,4,,Henrik Andersson,R,,SWE,23.3,7-6(5) 2-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,387,66,335,85
 2000-M-FU-SWE-01A-2000,Sweden F1,Carpet,32,S,20000918,27,102861,3,,Timothy Aerts,R,,BEL,24.0,102963,6,,Robert Lindstedt,R,190,SWE,23.5,7-6(2) 7-6(2),3,QF,,,,,,,,,,,,,,,,,,,,323,91,396,62
 2000-M-FU-SWE-01A-2000,Sweden F1,Carpet,32,S,20000918,28,102808,7,,Kalle Flygt,R,,SWE,24.2,103178,2,,Johan Settergren,R,185,SWE,22.4,7-6(6) 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,433,52,315,94
-2000-M-FU-SWE-01A-2000,Sweden F1,Carpet,32,S,20000918,29,108603,1,,Helge Koll Frafjord,U,,NOR,25.3,102668,5,,Tapio Nurminen,R,,FIN,24.9,7-6(5) 6-2,3,SF,,,,,,,,,,,,,,,,,,,,,,387,66
+2000-M-FU-SWE-01A-2000,Sweden F1,Carpet,32,S,20000918,29,102595,1,,Helge Koll,R,,NOR,25.3,102668,5,,Tapio Nurminen,R,,FIN,24.9,7-6(5) 6-2,3,SF,,,,,,,,,,,,,,,,,,,,300,100,387,66
 2000-M-FU-SWE-01A-2000,Sweden F1,Carpet,32,S,20000918,30,102808,7,,Kalle Flygt,R,,SWE,24.2,102861,3,,Timothy Aerts,R,,BEL,24.0,4-6 6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,433,52,323,91
-2000-M-FU-SWE-01A-2000,Sweden F1,Carpet,32,S,20000918,31,108603,1,,Helge Koll Frafjord,U,,NOR,25.3,102808,7,,Kalle Flygt,R,,SWE,24.2,3-6 6-2 6-4,3,F,,,,,,,,,,,,,,,,,,,,,,433,52
+2000-M-FU-SWE-01A-2000,Sweden F1,Carpet,32,S,20000918,31,102595,1,,Helge Koll,R,,NOR,25.3,102808,7,,Kalle Flygt,R,,SWE,24.2,3-6 6-2 6-4,3,F,,,,,,,,,,,,,,,,,,,,300,100,433,52
 2000-M-FU-UKR-01A-2000,Ukraine F1,Clay,32,S,20000918,1,103497,1,,Artem Derepasko,R,,RUS,20.6,118051,,LL,Georgyi Margishvili,U,,GEO,20.6,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,266,123,,
 2000-M-FU-UKR-01A-2000,Ukraine F1,Clay,32,S,20000918,2,109616,,Q,Anton Povkhan,R,,UKR,20.9,109473,,LL,Kostyantyn Dmytrenko,U,,UKR,22.6,6-1 2-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1318,1,,
 2000-M-FU-UKR-01A-2000,Ukraine F1,Clay,32,S,20000918,3,118285,,WC,Peter Kudyma,U,,UKR,17.5,118286,,LL,Mikhail Chaduneli,U,,GEO,20.1,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -9635,7 +9635,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-FRA-18A-2000,France F19,Hard,32,S,20000925,1,103566,1,WC,Michael Llodra,L,190,FRA,20.3,103755,,LL,Francois Vatin,R,,FRA,19.4,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,137,278,706,16
 2000-M-FU-FRA-18A-2000,France F19,Hard,32,S,20000925,2,102576,,Q,Simon Blanc,R,,FRA,25.4,103917,,WC,Nicolas Mahut,R,190,FRA,18.6,7-6(1) 6-7(12) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,473,44
 2000-M-FU-FRA-18A-2000,France F19,Hard,32,S,20000925,3,103898,,,Julien Benneteau,R,185,FRA,18.7,102992,,,Arnaud Fontaine,R,,BEL,23.3,3-6 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,464,47,383,69
-2000-M-FU-FRA-18A-2000,France F19,Hard,32,S,20000925,4,108603,,,Helge Koll Frafjord,U,,NOR,25.3,103130,7,,Louis Vosloo,R,178,RSA,22.6,7-6(2) 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,,,291,103
+2000-M-FU-FRA-18A-2000,France F19,Hard,32,S,20000925,4,102595,,,Helge Koll,R,,NOR,25.3,103130,7,,Louis Vosloo,R,178,RSA,22.6,7-6(2) 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,300,100,291,103
 2000-M-FU-FRA-18A-2000,France F19,Hard,32,S,20000925,5,101868,,,Dick Norman,L,203,BEL,29.5,103529,4,,Aisam Ul Haq Qureshi,R,183,PAK,20.5,7-6(4) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,391,64,241,140
 2000-M-FU-FRA-18A-2000,France F19,Hard,32,S,20000925,6,103592,,Q,Jerome Haehnel,R,185,FRA,20.1,102176,,SE,Arnaud Magnin,U,,FRA,27.5,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,571,29,,
 2000-M-FU-FRA-18A-2000,France F19,Hard,32,S,20000925,7,102637,,Q,Julien Couly,R,,FRA,25.1,102244,,Q,Gregory Girault,R,,FRA,27.1,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,581,27,620,23
@@ -9649,7 +9649,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-FRA-18A-2000,France F19,Hard,32,S,20000925,15,101230,,Q,Andrei Chesnokov,R,188,RUS,34.6,118221,,LL,Rolandas Muraska,U,,LTU,27.5,6-4 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2000-M-FU-FRA-18A-2000,France F19,Hard,32,S,20000925,16,102179,2,WC,Antony Dupuis,R,185,FRA,27.5,102646,,,Dimitri Lorin,R,,FRA,25.0,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,157,242,365,73
 2000-M-FU-FRA-18A-2000,France F19,Hard,32,S,20000925,17,103566,1,WC,Michael Llodra,L,190,FRA,20.3,102576,,Q,Simon Blanc,R,,FRA,25.4,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,137,278,,
-2000-M-FU-FRA-18A-2000,France F19,Hard,32,S,20000925,18,103898,,,Julien Benneteau,R,185,FRA,18.7,108603,,,Helge Koll Frafjord,U,,NOR,25.3,7-5 7-5,3,R16,,,,,,,,,,,,,,,,,,,,464,47,,
+2000-M-FU-FRA-18A-2000,France F19,Hard,32,S,20000925,18,103898,,,Julien Benneteau,R,185,FRA,18.7,102595,,,Helge Koll,R,,NOR,25.3,7-5 7-5,3,R16,,,,,,,,,,,,,,,,,,,,464,47,300,100
 2000-M-FU-FRA-18A-2000,France F19,Hard,32,S,20000925,19,101868,,,Dick Norman,L,203,BEL,29.5,103592,,Q,Jerome Haehnel,R,185,FRA,20.1,6-3 5-7 6-4,3,R16,,,,,,,,,,,,,,,,,,,,391,64,571,29
 2000-M-FU-FRA-18A-2000,France F19,Hard,32,S,20000925,20,102669,6,,Noam Behr,L,188,ISR,24.9,102637,,Q,Julien Couly,R,,FRA,25.1,7-6(4) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,285,106,581,27
 2000-M-FU-FRA-18A-2000,France F19,Hard,32,S,20000925,21,103208,,,Jean Michel Pequery,R,,FRA,22.3,103726,,Q,Jean Christophe Faurel,R,175,FRA,19.5,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,353,79,591,26
@@ -10058,7 +10058,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-FRA-19A-2000,France F20,Hard,32,S,20001002,29,103592,,,Jerome Haehnel,R,185,FRA,20.2,103529,1,,Aisam Ul Haq Qureshi,R,183,PAK,20.5,7-6(6) 6-1,3,SF,,,,,,,,,,,,,,,,,,,,566,30,245,140
 2000-M-FU-FRA-19A-2000,France F20,Hard,32,S,20001002,30,102669,2,,Noam Behr,L,188,ISR,24.9,102323,,,Regis Lavergne,R,,FRA,26.6,6-7(5) 6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,285,110,458,47
 2000-M-FU-FRA-19A-2000,France F20,Hard,32,S,20001002,31,103592,,,Jerome Haehnel,R,185,FRA,20.2,102669,2,,Noam Behr,L,188,ISR,24.9,6-7(9) 7-5 6-3,3,F,,,,,,,,,,,,,,,,,,,,566,30,285,110
-2000-M-FU-GBR-10A-2000,Great Britain F10,Hard,32,S,20001002,1,108603,1,,Helge Koll Frafjord,U,,NOR,25.3,103945,,WC,Simon Dickson,R,,GBR,18.6,4-1 4-1 5-4(4),3,R32,,,,,,,,,,,,,,,,,,,,,,547,33
+2000-M-FU-GBR-10A-2000,Great Britain F10,Hard,32,S,20001002,1,102595,1,,Helge Koll,R,,NOR,25.3,103945,,WC,Simon Dickson,R,,GBR,18.6,4-1 4-1 5-4(4),3,R32,,,,,,,,,,,,,,,,,,,,303,100,547,33
 2000-M-FU-GBR-10A-2000,Great Britain F10,Hard,32,S,20001002,2,104014,,WC,Lee Childs,R,,GBR,18.3,102557,,Q,Daniel Willman,U,,NZL,25.5,5-3 4-5(3) 3-5 5-4(5) 5-4(5),3,R32,,,,,,,,,,,,,,,,,,,,683,18,1138,3
 2000-M-FU-GBR-10A-2000,Great Britain F10,Hard,32,S,20001002,3,103422,,,Sebastian Fitz,R,,GER,21.1,103263,,,Justin Layne,R,,GBR,22.0,5-3 5-4(1) 2-4 5-3,3,R32,,,,,,,,,,,,,,,,,,,,539,34,517,37
 2000-M-FU-GBR-10A-2000,Great Britain F10,Hard,32,S,20001002,4,102684,8,,Marc Merry,R,,NED,24.8,103146,,LL,Shaun Rudman,R,,RSA,22.6,5-3 4-0 4-2,3,R32,,,,,,,,,,,,,,,,,,,,450,49,690,17
@@ -10074,7 +10074,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-GBR-10A-2000,Great Britain F10,Hard,32,S,20001002,14,103508,,Q,Nick McDonald,R,,RSA,20.6,102835,,,Luke Milligan,R,180,GBR,24.1,4-0 4-2 4-1,3,R32,,,,,,,,,,,,,,,,,,,,709,16,509,39
 2000-M-FU-GBR-10A-2000,Great Britain F10,Hard,32,S,20001002,15,103158,,,Johan Ortegren,R,,SWE,22.5,102260,,LL,James Davidson,R,,GBR,27.0,4-1 4-0 4-5(4) 4-2,3,R32,,,,,,,,,,,,,,,,,,,,494,41,792,11
 2000-M-FU-GBR-10A-2000,Great Britain F10,Hard,32,S,20001002,16,103754,2,,Mark Hilton,L,170,GBR,19.4,103576,,Q,Barry Fulcher,U,,GBR,20.3,4-1 4-2 2-4 4-2,3,R32,,,,,,,,,,,,,,,,,,,,321,93,887,8
-2000-M-FU-GBR-10A-2000,Great Britain F10,Hard,32,S,20001002,17,104014,,WC,Lee Childs,R,,GBR,18.3,108603,1,,Helge Koll Frafjord,U,,NOR,25.3,5-4(9) 5-4(8) 5-4(2),3,R16,,,,,,,,,,,,,,,,,,,,683,18,,
+2000-M-FU-GBR-10A-2000,Great Britain F10,Hard,32,S,20001002,17,104014,,WC,Lee Childs,R,,GBR,18.3,102595,1,,Helge Koll,R,,NOR,25.3,5-4(9) 5-4(8) 5-4(2),3,R16,,,,,,,,,,,,,,,,,,,,683,18,303,100
 2000-M-FU-GBR-10A-2000,Great Britain F10,Hard,32,S,20001002,18,102684,8,,Marc Merry,R,,NED,24.8,103422,,,Sebastian Fitz,R,,GER,21.1,5-4(6) 5-4(4) 5-4(6),3,R16,,,,,,,,,,,,,,,,,,,,450,49,539,34
 2000-M-FU-GBR-10A-2000,Great Britain F10,Hard,32,S,20001002,19,102948,,WC,Oliver Freelove,R,,GBR,23.5,103061,4,,Jan Boruszewski,R,,GER,23.0,5-4(4) 2-4 5-3 4-5(6) 5-4(4),3,R16,,,,,,,,,,,,,,,,,,,,732,15,422,56
 2000-M-FU-GBR-10A-2000,Great Britain F10,Hard,32,S,20001002,20,103378,,,Bernard Parun,R,,GER,21.3,103782,,Q,Rameez Junaid,R,,AUS,19.3,5-3 5-4(5) 5-4(5),3,R16,,,,,,,,,,,,,,,,,,,,506,39,1331,1
@@ -11072,7 +11072,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-COL-02A-2000,Colombia F2,Clay,32,S,20001023,29,103209,1,,Leonardo Azzaro,L,188,ITA,22.4,103095,5,,Patricio Rudi,R,,ARG,22.8,6-3 7-5,3,SF,,,,,,,,,,,,,,,,,,,,342,85,448,51
 2000-M-FU-COL-02A-2000,Colombia F2,Clay,32,S,20001023,30,101991,2,,Mauricio Hadad,R,170,COL,28.8,102139,6,,Eyal Ran,R,183,ISR,27.9,6-3 6-1,3,SF,,,,,,,,,,,,,,,,,,,,375,69,491,41
 2000-M-FU-COL-02A-2000,Colombia F2,Clay,32,S,20001023,31,101991,2,,Mauricio Hadad,R,170,COL,28.8,103209,1,,Leonardo Azzaro,L,188,ITA,22.4,6-1 4-2 RET,3,F,,,,,,,,,,,,,,,,,,,,375,69,342,85
-2000-M-FU-FIN-02A-2000,Finland F2,Carpet,32,S,20001023,1,108603,1,,Helge Koll Frafjord,U,,NOR,25.3,117892,,WC,Ivan Iliachenko,U,,RUS,20.5,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2000-M-FU-FIN-02A-2000,Finland F2,Carpet,32,S,20001023,1,102595,1,,Helge Koll,R,,NOR,25.3,117892,,WC,Ivan Iliachenko,U,,RUS,20.5,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,332,88,,
 2000-M-FU-FIN-02A-2000,Finland F2,Carpet,32,S,20001023,2,102476,,Q,Mattias Pennonen,R,,SWE,25.9,103046,,,Janne Ojala,R,,FIN,23.1,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1139,3,662,20
 2000-M-FU-FIN-02A-2000,Finland F2,Carpet,32,S,20001023,3,102937,,Q,Sebastien Lami,R,,FRA,23.6,103643,,WC,Lauri Kiiski,R,,FIN,20.0,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,952,6,1340,1
 2000-M-FU-FIN-02A-2000,Finland F2,Carpet,32,S,20001023,4,103646,,Q,Lars Uebel,R,180,GER,20.0,103475,8,,Thomas Messmer,R,,GER,20.9,2-6 6-4 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,874,8,498,40
@@ -11088,7 +11088,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-FIN-02A-2000,Finland F2,Carpet,32,S,20001023,14,103379,,,Arne Kreitz,R,,GER,21.4,103422,,,Sebastian Fitz,R,,GER,21.1,6-3 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,614,24,538,34
 2000-M-FU-FIN-02A-2000,Finland F2,Carpet,32,S,20001023,15,103971,,Q,Karol Beck,R,180,SVK,18.5,103582,,,Michael Berrer,L,193,GER,20.3,4-6 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,716,16,628,23
 2000-M-FU-FIN-02A-2000,Finland F2,Carpet,32,S,20001023,16,103813,2,,Jarkko Nieminen,L,185,FIN,19.2,103266,,,Matthis Kempe Bergman,U,,SWE,22.0,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,324,91,703,17
-2000-M-FU-FIN-02A-2000,Finland F2,Carpet,32,S,20001023,17,108603,1,,Helge Koll Frafjord,U,,NOR,25.3,102476,,Q,Mattias Pennonen,R,,SWE,25.9,6-4 3-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,1139,3
+2000-M-FU-FIN-02A-2000,Finland F2,Carpet,32,S,20001023,17,102595,1,,Helge Koll,R,,NOR,25.3,102476,,Q,Mattias Pennonen,R,,SWE,25.9,6-4 3-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,332,88,1139,3
 2000-M-FU-FIN-02A-2000,Finland F2,Carpet,32,S,20001023,18,103646,,Q,Lars Uebel,R,180,GER,20.0,102937,,Q,Sebastien Lami,R,,FRA,23.6,7-6(1) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,874,8,952,6
 2000-M-FU-FIN-02A-2000,Finland F2,Carpet,32,S,20001023,19,102668,3,,Tapio Nurminen,R,,FIN,25.0,111299,,Q,Oyvind Alver,U,,NOR,18.6,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,360,77,1340,1
 2000-M-FU-FIN-02A-2000,Finland F2,Carpet,32,S,20001023,20,103751,,,Jonas Froberg,U,,SWE,19.5,103471,,,Tero Vilen,R,,FIN,20.9,7-5 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,705,17,704,17
@@ -11096,7 +11096,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-M-FU-FIN-02A-2000,Finland F2,Carpet,32,S,20001023,22,103239,4,,Marcus Sarstrand,R,183,SWE,22.2,101775,,,Frederik Fetterlein,R,190,DEN,30.2,6-1 2-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,372,70,575,29
 2000-M-FU-FIN-02A-2000,Finland F2,Carpet,32,S,20001023,23,103379,,,Arne Kreitz,R,,GER,21.4,103706,,LL,Daniel Norberg,U,,SWE,19.7,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,614,24,761,13
 2000-M-FU-FIN-02A-2000,Finland F2,Carpet,32,S,20001023,24,103971,,Q,Karol Beck,R,180,SVK,18.5,103813,2,,Jarkko Nieminen,L,185,FIN,19.2,7-6(5) 6-7(3) 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,716,16,324,91
-2000-M-FU-FIN-02A-2000,Finland F2,Carpet,32,S,20001023,25,103646,,Q,Lars Uebel,R,180,GER,20.0,108603,1,,Helge Koll Frafjord,U,,NOR,25.3,2-6 6-4 7-6(3),3,QF,,,,,,,,,,,,,,,,,,,,874,8,,
+2000-M-FU-FIN-02A-2000,Finland F2,Carpet,32,S,20001023,25,103646,,Q,Lars Uebel,R,180,GER,20.0,102595,1,,Helge Koll,R,,NOR,25.3,2-6 6-4 7-6(3),3,QF,,,,,,,,,,,,,,,,,,,,874,8,332,88
 2000-M-FU-FIN-02A-2000,Finland F2,Carpet,32,S,20001023,26,102668,3,,Tapio Nurminen,R,,FIN,25.0,103751,,,Jonas Froberg,U,,SWE,19.5,6-1 7-5,3,QF,,,,,,,,,,,,,,,,,,,,360,77,705,17
 2000-M-FU-FIN-02A-2000,Finland F2,Carpet,32,S,20001023,27,103239,4,,Marcus Sarstrand,R,183,SWE,22.2,102260,,Q,James Davidson,R,,GBR,27.1,6-2 7-6(3),3,QF,,,,,,,,,,,,,,,,,,,,372,70,776,12
 2000-M-FU-FIN-02A-2000,Finland F2,Carpet,32,S,20001023,28,103971,,Q,Karol Beck,R,180,SVK,18.5,103379,,,Arne Kreitz,R,,GER,21.4,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,716,16,614,24

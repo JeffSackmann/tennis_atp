@@ -297,7 +297,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1995-D053,Davis Cup G1 QF: KOR vs INA,Carpet,4,D,19950203,2,102703,,,Hyung Taik Lee,R,180,KOR,19.0,102843,,,Suwandi Suwandi,R,178,INA,18.4,6-2 7-6(1) 6-2,5,RR,,,,,,,,,,,,,,,,,,,,695,17,466,48
 1995-D053,Davis Cup G1 QF: KOR vs INA,Carpet,4,D,19950203,4,102263,,,Yong Il Yoon,R,175,KOR,21.3,102843,,,Suwandi Suwandi,R,178,INA,18.4,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,324,101,466,48
 1995-D053,Davis Cup G1 QF: KOR vs INA,Carpet,4,D,19950203,5,102703,,,Hyung Taik Lee,R,180,KOR,19.0,101444,,,Bonit Wiryawan,R,173,INA,26.9,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,695,17,687,18
-1995-D070,Davis Cup G1 QF: MEX vs PER,Hard,4,D,19950203,1,101374,,,Leonardo Lavalle,L,188,MEX,27.5,108686,,,Alejandro Aramburu Acuna,R,,PER,25.9,6-4 6-1 6-2,5,RR,,,,,,,,,,,,,,,,,,,,210,183,,
+1995-D070,Davis Cup G1 QF: MEX vs PER,Hard,4,D,19950203,1,101374,,,Leonardo Lavalle,L,188,MEX,27.5,101574,,,Alejandro Aramburu,R,175,PER,25.9,6-4 6-1 6-2,5,RR,,,,,,,,,,,,,,,,,,,,210,183,217,176
 1995-D070,Davis Cup G1 QF: MEX vs PER,Hard,4,D,19950203,2,101409,,,Jaime Yzaga,R,170,PER,27.2,101955,,,Luis Herrera,L,170,MEX,23.4,6-4 7-5 1-6 6-4,5,RR,,,,,,,,,,,,,,,,,,,,31,999,347,89
 1995-D070,Davis Cup G1 QF: MEX vs PER,Hard,4,D,19950203,4,101374,,,Leonardo Lavalle,L,188,MEX,27.5,101409,,,Jaime Yzaga,R,170,PER,27.2,2-6 6-3 6-1 6-3,5,RR,,,,,,,,,,,,,,,,,,,,210,183,31,999
 1995-D074,Davis Cup G1 QF: NZL vs TPE,Hard,4,D,19950203,1,102654,,,Steven Downs,R,183,NZL,19.3,101764,,,Yu Hui Lien,R,,TPE,24.6,6-4 6-1 6-2,5,RR,,,,,,,,,,,,,,,,,,,,294,113,546,33
@@ -958,9 +958,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1995-D050,Davis Cup G1 PO: JPN vs HKG,Hard,4,D,19950331,4,101412,,,Shuzo Matsuoka,R,185,JPN,27.3,108832,,,Thorsten Poelzl,U,,HKG,20.6,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,135,343,,
 1995-D050,Davis Cup G1 PO: JPN vs HKG,Hard,4,D,19950331,5,102863,,,Takao Suzuki,R,175,JPN,18.5,102537,,,Melvin Tong,R,,HKG,20.0,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,1224,1,,
 1995-D008,Davis Cup G1 PO: PER vs BAH,Clay,4,D,19950331,1,101409,,,Jaime Yzaga,R,170,PER,27.4,101956,,,Mark Knowles,R,190,BAH,23.5,7-5 6-1 6-3,5,RR,,,,,,,,,,,,,,,,,,,,31,993,263,141
-1995-D008,Davis Cup G1 PO: PER vs BAH,Clay,4,D,19950331,2,108686,,,Alejandro Aramburu Acuna,R,,PER,26.1,100997,,,Roger Smith,R,185,BAH,31.1,7-5 6-3 6-1,5,RR,,,,,,,,,,,,,,,,,,,,,,176,245
+1995-D008,Davis Cup G1 PO: PER vs BAH,Clay,4,D,19950331,2,101574,,,Alejandro Aramburu,R,175,PER,26.1,100997,,,Roger Smith,R,185,BAH,31.1,7-5 6-3 6-1,5,RR,,,,,,,,,,,,,,,,,,,,216,182,176,245
 1995-D008,Davis Cup G1 PO: PER vs BAH,Clay,4,D,19950331,4,100997,,,Roger Smith,R,185,BAH,31.1,101409,,,Jaime Yzaga,R,170,PER,27.4,6-3 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,176,245,31,993
-1995-D008,Davis Cup G1 PO: PER vs BAH,Clay,4,D,19950331,5,101956,,,Mark Knowles,R,190,BAH,23.5,108686,,,Alejandro Aramburu Acuna,R,,PER,26.1,6-2 6-0 6-4,5,RR,,,,,,,,,,,,,,,,,,,,263,141,,
+1995-D008,Davis Cup G1 PO: PER vs BAH,Clay,4,D,19950331,5,101956,,,Mark Knowles,R,190,BAH,23.5,101574,,,Alejandro Aramburu,R,175,PER,26.1,6-2 6-0 6-4,5,RR,,,,,,,,,,,,,,,,,,,,263,141,216,182
 1995-D052,Davis Cup G1 QF: HUN vs POR,Carpet,4,D,19950331,1,102250,,,Emanuel Couto,R,183,POR,21.6,102031,,,Sandor Noszaly,R,193,HUN,23.0,7-6(8) 2-6 4-6 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,,198,205,129,360
 1995-D052,Davis Cup G1 QF: HUN vs POR,Carpet,4,D,19950331,2,101473,,,Jozsef Krocsko,R,180,HUN,26.9,101416,,,Joao Cunha Silva,R,173,POR,27.3,6-1 6-3 6-7(5) 6-4,5,RR,,,,,,,,,,,,,,,,,,,,248,151,196,207
 1995-D052,Davis Cup G1 QF: HUN vs POR,Carpet,4,D,19950331,4,102031,,,Sandor Noszaly,R,193,HUN,23.0,101416,,,Joao Cunha Silva,R,173,POR,27.3,7-5 5-7 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,129,360,196,207
@@ -969,10 +969,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1995-D067,Davis Cup G1 QF: MAR vs ROU,Clay,4,D,19950331,2,102271,,,Hicham Arazi,L,175,MAR,21.4,102437,,,Adrian Voinea,R,185,ROU,20.6,6-3 1-6 7-5 7-6(3),5,RR,,,,,,,,,,,,,,,,,,,,164,270,177,245
 1995-D067,Davis Cup G1 QF: MAR vs ROU,Clay,4,D,19950331,4,102437,,,Adrian Voinea,R,185,ROU,20.6,101962,,,Younes El Aynaoui,R,193,MAR,23.5,6-0 RET,5,RR,,,,,,,,,,,,,,,,,,,,177,245,202,204
 1995-D067,Davis Cup G1 QF: MAR vs ROU,Clay,4,D,19950331,5,102271,,,Hicham Arazi,L,175,MAR,21.4,103009,,,Razvan Sabau,R,185,ROU,17.7,7-6(2) 6-3,3,RR,,,,,,,,,,,,,,,,,,,,164,270,435,58
-1995-D058,Davis Cup G1 QF: NOR vs ISR,Hard,4,D,19950331,1,101332,,,Gilad Bloom,L,173,ISR,28.0,108603,,,Helge Koll Frafjord,U,,NOR,19.8,6-3 6-4 7-6(9),5,RR,,,,,,,,,,,,,,,,,,,,203,202,,
+1995-D058,Davis Cup G1 QF: NOR vs ISR,Hard,4,D,19950331,1,101332,,,Gilad Bloom,L,173,ISR,28.0,102595,,,Helge Koll,R,,NOR,19.8,6-3 6-4 7-6(9),5,RR,,,,,,,,,,,,,,,,,,,,203,202,697,17
 1995-D058,Davis Cup G1 QF: NOR vs ISR,Hard,4,D,19950331,2,102104,,,Christian Ruud,R,188,NOR,22.5,102139,,,Eyal Ran,R,183,ISR,22.3,7-5 3-6 6-3 6-3,5,RR,,,,,,,,,,,,,,,,,,,,75,575,223,171
 1995-D058,Davis Cup G1 QF: NOR vs ISR,Hard,4,D,19950331,4,102104,,,Christian Ruud,R,188,NOR,22.5,101332,,,Gilad Bloom,L,173,ISR,28.0,6-1 3-6 6-1 6-4,5,RR,,,,,,,,,,,,,,,,,,,,75,575,203,202
-1995-D058,Davis Cup G1 QF: NOR vs ISR,Hard,4,D,19950331,5,108603,,,Helge Koll Frafjord,U,,NOR,19.8,102139,,,Eyal Ran,R,183,ISR,22.3,6-7(2) 6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,223,171
+1995-D058,Davis Cup G1 QF: NOR vs ISR,Hard,4,D,19950331,5,102595,,,Helge Koll,R,,NOR,19.8,102139,,,Eyal Ran,R,183,ISR,22.3,6-7(2) 6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,697,17,223,171
 1995-D080,Davis Cup G1 QF: SLO vs ZIM,Clay,4,D,19950331,1,102286,,,Wayne Black,R,170,ZIM,21.3,101970,,,Iztok Bozic,R,,SLO,23.4,4-6 6-3 7-6(3) 6-4,5,RR,,,,,,,,,,,,,,,,,,,,314,105,318,104
 1995-D080,Davis Cup G1 QF: SLO vs ZIM,Clay,4,D,19950331,2,101647,,,Byron Black,R,175,ZIM,25.4,102605,,,Jaka Bozic,R,,SLO,19.7,7-6(7) 6-4 6-0,5,RR,,,,,,,,,,,,,,,,,,,,95,491,849,9
 1995-D080,Davis Cup G1 QF: SLO vs ZIM,Clay,4,D,19950331,4,101647,,,Byron Black,R,175,ZIM,25.4,101970,,,Iztok Bozic,R,,SLO,23.4,6-4 3-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,,95,491,318,104
@@ -3139,10 +3139,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1995-D037,Davis Cup WG PO: MEX vs ESP,Hard,4,D,19950922,2,101374,,,Leonardo Lavalle,L,188,MEX,28.1,102238,,,Alberto Berasategui,R,173,ESP,22.2,7-6(6) 7-6(2) 6-3,5,RR,,,,,,,,,,,,,,,,,,,,261,134,16,1409
 1995-D037,Davis Cup WG PO: MEX vs ESP,Hard,4,D,19950922,4,101843,,,Sergi Bruguera,R,188,ESP,24.6,101374,,,Leonardo Lavalle,L,188,MEX,28.1,6-3 6-7(2) 1-6 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,,10,1953,261,134
 1995-D037,Davis Cup WG PO: MEX vs ESP,Hard,4,D,19950922,5,101955,,,Luis Herrera,L,170,MEX,24.0,102238,,,Alberto Berasategui,R,173,ESP,22.2,6-4 6-1 6-1,5,RR,,,,,,,,,,,,,,,,,,,,263,133,16,1409
-1995-D009,Davis Cup WG PO: NOR vs BEL,Hard,4,D,19950922,1,102394,,,Johan Van Herck,R,185,BEL,21.3,108603,,,Helge Koll Frafjord,U,,NOR,20.3,6-3 6-1 6-2,5,RR,,,,,,,,,,,,,,,,,,,,108,437,,
+1995-D009,Davis Cup WG PO: NOR vs BEL,Hard,4,D,19950922,1,102394,,,Johan Van Herck,R,185,BEL,21.3,102595,,,Helge Koll,R,,NOR,20.3,6-3 6-1 6-2,5,RR,,,,,,,,,,,,,,,,,,,,108,437,676,18
 1995-D009,Davis Cup WG PO: NOR vs BEL,Hard,4,D,19950922,2,101868,,,Dick Norman,L,203,BEL,24.5,102104,,,Christian Ruud,R,188,NOR,23.0,7-6(5) 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,,118,404,40,843
 1995-D009,Davis Cup WG PO: NOR vs BEL,Hard,4,D,19950922,4,102394,,,Johan Van Herck,R,185,BEL,21.3,102104,,,Christian Ruud,R,188,NOR,23.0,3-6 6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,108,437,40,843
-1995-D009,Davis Cup WG PO: NOR vs BEL,Hard,4,D,19950922,5,101868,,,Dick Norman,L,203,BEL,24.5,108603,,,Helge Koll Frafjord,U,,NOR,20.3,7-6(5) 7-6(3),3,RR,,,,,,,,,,,,,,,,,,,,118,404,,
+1995-D009,Davis Cup WG PO: NOR vs BEL,Hard,4,D,19950922,5,101868,,,Dick Norman,L,203,BEL,24.5,102595,,,Helge Koll,R,,NOR,20.3,7-6(5) 7-6(3),3,RR,,,,,,,,,,,,,,,,,,,,118,404,676,18
 1995-D073,Davis Cup WG PO: NZL vs SUI,Hard,4,D,19950922,1,101084,,,Jakob Hlasek,R,188,SUI,30.8,101601,,,Brett Steven,R,185,NZL,26.3,7-6(2) 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,52,743,35,908
 1995-D073,Davis Cup WG PO: NZL vs SUI,Hard,4,D,19950922,2,101820,,,Marc Rosset,R,201,SUI,24.8,102654,,,Steven Downs,R,183,NZL,20.0,6-2 6-4 6-1,5,RR,,,,,,,,,,,,,,,,,,,,11,1940,299,105
 1995-D073,Davis Cup WG PO: NZL vs SUI,Hard,4,D,19950922,4,101820,,,Marc Rosset,R,201,SUI,24.8,102131,,,Alistair Hunt,R,190,NZL,22.8,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,11,1940,642,20

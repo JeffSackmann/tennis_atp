@@ -370,9 +370,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-D024,Davis Cup G1 QF: VEN vs CAN,Hard,4,D,19960209,4,102205,,,Sebastien Lareau,R,183,CAN,22.7,101809,,,Nicolas Pereira,R,188,VEN,25.3,6-7(5) 6-3 6-3 6-3,5,RR,,,,,,,,,,,,,,,,,,,,125,390,107,462
 1996-D024,Davis Cup G1 QF: VEN vs CAN,Hard,4,D,19960209,5,102655,,,Jimy Szymanski,R,175,VEN,20.3,101865,,,Albert Chang,R,183,CAN,24.9,6-3 5-7 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,386,72,177,225
 1996-D062,Davis Cup G1 R1: ISR vs NOR,Hard,4,D,19960209,1,102104,,,Christian Ruud,R,188,NOR,23.4,102669,,,Noam Behr,L,188,ISR,20.3,7-6(5) 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,,80,595,296,105
-1996-D062,Davis Cup G1 R1: ISR vs NOR,Hard,4,D,19960209,2,102139,,,Eyal Ran,R,183,ISR,23.2,108603,,,Helge Koll Frafjord,U,,NOR,20.6,6-1 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,,170,239,,
+1996-D062,Davis Cup G1 R1: ISR vs NOR,Hard,4,D,19960209,2,102139,,,Eyal Ran,R,183,ISR,23.2,102595,,,Helge Koll,R,,NOR,20.6,6-1 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,,170,239,753,14
 1996-D062,Davis Cup G1 R1: ISR vs NOR,Hard,4,D,19960209,4,102104,,,Christian Ruud,R,188,NOR,23.4,102139,,,Eyal Ran,R,183,ISR,23.2,7-5 6-7(5) 6-7(4) 6-3 6-1,5,RR,,,,,,,,,,,,,,,,,,,,80,595,170,239
-1996-D062,Davis Cup G1 R1: ISR vs NOR,Hard,4,D,19960209,5,102903,,,Eyal Erlich,R,183,ISR,19.0,108603,,,Helge Koll Frafjord,U,,NOR,20.6,6-4 1-6 6-4 7-6(4),5,RR,,,,,,,,,,,,,,,,,,,,264,123,,
+1996-D062,Davis Cup G1 R1: ISR vs NOR,Hard,4,D,19960209,5,102903,,,Eyal Erlich,R,183,ISR,19.0,102595,,,Helge Koll,R,,NOR,20.6,6-4 1-6 6-4 7-6(4),5,RR,,,,,,,,,,,,,,,,,,,,264,123,753,14
 1996-D030,Davis Cup G2 QF: COL vs PUR,Clay,4,D,19960209,1,101495,,,Miguel Tobon,R,185,COL,27.6,102078,,,Jorge Gonzalez,R,,PUR,23.6,6-2 6-2 7-5,5,RR,,,,,,,,,,,,,,,,,,,,212,182,827,11
 1996-D030,Davis Cup G2 QF: COL vs PUR,Clay,4,D,19960209,2,101991,,,Mauricio Hadad,R,170,COL,24.1,108796,,,Rafael Jordan,U,,PUR,18.6,6-0 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,,86,539,,
 1996-D030,Davis Cup G2 QF: COL vs PUR,Clay,4,D,19960209,4,101991,,,Mauricio Hadad,R,170,COL,24.1,102078,,,Jorge Gonzalez,R,,PUR,23.6,6-0 4-6 6-2,3,RR,,,,,,,,,,,,,,,,,,,,86,539,827,11
@@ -3171,8 +3171,8 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-773,Bucharest,Clay,32,A,19960909,30,102845,3,,Carlos Moya,R,190,ESP,20.0,102318,,WC,Andrei Pavel,R,183,ROU,22.6,4-6 6-3 6-0,3,SF,85,0,0,72,48,33,14,13,1,3,0,0,78,54,34,9,12,4,9,24,1336,182,222
 1996-773,Bucharest,Clay,32,A,19960909,31,102238,4,,Alberto Berasategui,R,173,ESP,23.2,102845,3,,Carlos Moya,R,190,ESP,20.0,6-1 7-6(5),3,F,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9,25,1319,24,1336
 1996-D025,Davis Cup G1 PO: CHI vs PER,Clay,4,D,19960920,1,102701,,,Marcelo Rios,L,175,CHI,20.7,108585,,,Americo Venero Montes,U,175,PER,24.5,7-5 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,,10,2101,,
-1996-D025,Davis Cup G1 PO: CHI vs PER,Clay,4,D,19960920,2,102465,,,Gabriel Silberstein,R,178,CHI,21.9,108686,,,Alejandro Aramburu Acuna,R,,PER,27.5,6-0 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,,223,167,,
-1996-D025,Davis Cup G1 PO: CHI vs PER,Clay,4,D,19960920,4,102701,,,Marcelo Rios,L,175,CHI,20.7,108686,,,Alejandro Aramburu Acuna,R,,PER,27.5,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,10,2101,,
+1996-D025,Davis Cup G1 PO: CHI vs PER,Clay,4,D,19960920,2,102465,,,Gabriel Silberstein,R,178,CHI,21.9,101574,,,Alejandro Aramburu,R,175,PER,27.5,6-0 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,,223,167,390,70
+1996-D025,Davis Cup G1 PO: CHI vs PER,Clay,4,D,19960920,4,102701,,,Marcelo Rios,L,175,CHI,20.7,101574,,,Alejandro Aramburu,R,175,PER,27.5,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,10,2101,390,70
 1996-D025,Davis Cup G1 PO: CHI vs PER,Clay,4,D,19960920,5,102465,,,Gabriel Silberstein,R,178,CHI,21.9,108585,,,Americo Venero Montes,U,175,PER,24.5,7-5 6-7(7) 6-1,3,RR,,,,,,,,,,,,,,,,,,,,223,167,,
 1996-D057,Davis Cup G1 PO: TPE vs INA,Hard,4,D,19960920,1,102543,,,Chia Yen Tsai,R,,TPE,21.5,101444,,,Bonit Wiryawan,R,173,INA,28.5,7-5 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,,716,16,,
 1996-D057,Davis Cup G1 PO: TPE vs INA,Hard,4,D,19960920,2,102119,,,Chih Jung Chen,R,,TPE,23.9,102832,,,Andrian Raturandang,R,,INA,20.1,6-4 6-0 6-3,5,RR,,,,,,,,,,,,,,,,,,,,822,11,1031,5

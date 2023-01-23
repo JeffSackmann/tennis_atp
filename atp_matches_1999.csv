@@ -832,7 +832,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1999-D034,Davis Cup G2 QF: CUB vs HAI,Hard,4,D,19990402,5,108674,,,Jerry Joseph,U,,HAI,18.8,108651,,,Sandor Martinez Breijo,R,,CUB,18.0,6-4 4-6 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1999-D040,Davis Cup G2 QF: DOM vs PER,Hard,4,D,19990402,1,103632,,,Luis Horna,R,180,PER,18.5,108615,,,Genaro Deleon,U,,DOM,28.1,6-2 3-6 6-3 6-3,5,RR,,,,,,,,,,,,,,,,,,,,256,158,,
 1999-D040,Davis Cup G2 QF: DOM vs PER,Hard,4,D,19990402,2,108585,,,Americo Venero Montes,U,175,PER,27.0,108634,,,Rodrigo Vallejo,U,,DOM,25.0,7-5 2-6 7-6(3) 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,,
-1999-D040,Davis Cup G2 QF: DOM vs PER,Hard,4,D,19990402,4,108686,,,Alejandro Aramburu Acuna,R,,PER,30.1,103638,,,Jhonson Garcia,R,,DOM,18.4,6-3 4-6 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1999-D040,Davis Cup G2 QF: DOM vs PER,Hard,4,D,19990402,4,101574,,,Alejandro Aramburu,R,175,PER,30.1,103638,,,Jhonson Garcia,R,,DOM,18.4,6-3 4-6 7-5,3,RR,,,,,,,,,,,,,,,,,,,,347,98,,
 1999-D040,Davis Cup G2 QF: DOM vs PER,Hard,4,D,19990402,5,108615,,,Genaro Deleon,U,,DOM,28.1,103525,,,Ivan Miranda,R,175,PER,19.0,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,1136,4
 1999-D072,Davis Cup G2 QF: MEX vs PAR,Hard,4,D,19990402,1,103060,,,Alejandro Hernandez,R,180,MEX,21.4,102830,,,Paulo Carvallo,R,,PAR,22.7,6-4 6-4 6-0,5,RR,,,,,,,,,,,,,,,,,,,,162,291,470,56
 1999-D072,Davis Cup G2 QF: MEX vs PAR,Hard,4,D,19990402,2,102036,,,Marco Osorio,R,,MEX,26.9,102887,,,Ramon Delgado,R,185,PAR,22.3,2-6 7-5 7-6(5) 6-2,5,RR,,,,,,,,,,,,,,,,,,,,409,74,57,802
@@ -1288,7 +1288,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1999-D071,Davis Cup G2 R1: MAR vs YUG,Clay,4,D,19990430,2,102271,,,Hicham Arazi,L,175,MAR,25.5,102204,,,Nebojsa Djordjevic,R,190,SRB,26.0,6-7(8) 1-6 6-0 6-1 6-1,5,RR,,,,,,,,,,,,,,,,,,,,31,1112,,
 1999-D071,Davis Cup G2 R1: MAR vs YUG,Clay,4,D,19990430,4,103007,,,Mounir El Aarej,R,,MAR,21.8,103441,,,Nikola Gnjatovic,R,,SRB,19.6,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,523,42,765,15
 1999-D071,Davis Cup G2 R1: MAR vs YUG,Clay,4,D,19990430,5,103224,,,Zeljko Tosic,R,,YUG,20.8,102223,,,Karim Alami,R,185,MAR,25.9,W/O,5,RR,,,,,,,,,,,,,,,,,,,,683,20,45,910
-1999-D074,Davis Cup G2 R1: NOR vs TUR,Carpet,4,D,19990430,1,108603,,,Helge Koll Frafjord,U,,NOR,23.9,101939,,,Erhan Oral,R,,TUR,27.7,6-1 6-1 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,658,22
+1999-D074,Davis Cup G2 R1: NOR vs TUR,Carpet,4,D,19990430,1,102595,,,Helge Koll,R,,NOR,23.9,101939,,,Erhan Oral,R,,TUR,27.7,6-1 6-1 6-2,5,RR,,,,,,,,,,,,,,,,,,,,651,23,658,22
 1999-D074,Davis Cup G2 R1: NOR vs TUR,Carpet,4,D,19990430,2,102107,,,Jan Frode Andersen,L,190,NOR,26.6,102918,,,Efe Ustundag,R,,TUR,22.2,6-2 6-4 6-1,5,RR,,,,,,,,,,,,,,,,,,,,137,339,988,6
 1999-D074,Davis Cup G2 R1: NOR vs TUR,Carpet,4,D,19990430,4,102107,,,Jan Frode Andersen,L,190,NOR,26.6,101939,,,Erhan Oral,R,,TUR,27.7,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,137,339,658,22
 1999-D074,Davis Cup G2 R1: NOR vs TUR,Carpet,4,D,19990430,5,108877,,,Helge Rosjo,U,,NOR,23.7,102918,,,Efe Ustundag,R,,TUR,22.2,3-6 7-5 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,988,6
@@ -2070,7 +2070,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1999-D035,Davis Cup G2 SF: CUB vs MEX,Hard,4,D,19990716,2,103060,,,Alejandro Hernandez,R,180,MEX,21.7,108801,,,Jorge Catala,U,,CUB,21.0,6-3 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,,164,267,,
 1999-D035,Davis Cup G2 SF: CUB vs MEX,Hard,4,D,19990716,4,102320,,,Lazaro Navarro Batles,R,,CUB,25.4,103060,,,Alejandro Hernandez,R,180,MEX,21.7,6-7(5) 7-6(4) 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,,,,164,267
 1999-D035,Davis Cup G2 SF: CUB vs MEX,Hard,4,D,19990716,5,102036,,,Marco Osorio,R,,MEX,27.2,108651,,,Sandor Martinez Breijo,R,,CUB,18.3,6-2 6-1 4-6 6-4,5,RR,,,,,,,,,,,,,,,,,,,,533,44,,
-1999-D076,Davis Cup G2 SF: PER vs URU,Clay,4,D,19990716,1,101976,,,Federico Dondo,R,,URU,27.7,108686,,,Alejandro Aramburu Acuna,R,,PER,30.4,6-2 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,283,138,,
+1999-D076,Davis Cup G2 SF: PER vs URU,Clay,4,D,19990716,1,101976,,,Federico Dondo,R,,URU,27.7,101574,,,Alejandro Aramburu,R,175,PER,30.4,6-2 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,283,138,466,59
 1999-D076,Davis Cup G2 SF: PER vs URU,Clay,4,D,19990716,2,103632,,,Luis Horna,R,180,PER,18.8,102938,,,Alejandro Olivera,R,,URU,22.4,6-3 5-7 6-0 6-2,5,RR,,,,,,,,,,,,,,,,,,,,187,222,921,9
 1999-D076,Davis Cup G2 SF: PER vs URU,Clay,4,D,19990716,4,103632,,,Luis Horna,R,180,PER,18.8,101976,,,Federico Dondo,R,,URU,27.7,6-3 6-3 4-6 6-7(6) 6-0,5,RR,,,,,,,,,,,,,,,,,,,,187,222,283,138
 1999-D076,Davis Cup G2 SF: PER vs URU,Clay,4,D,19990716,5,103525,,,Ivan Miranda,R,175,PER,19.3,102938,,,Alejandro Olivera,R,,URU,22.4,6-3 7-5,3,RR,,,,,,,,,,,,,,,,,,,,1029,6,921,9
