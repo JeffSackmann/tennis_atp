@@ -794,7 +794,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-352,Paris Masters,Hard,48,M,20071028,46,104745,2,,Rafael Nadal,L,185,ESP,21.4,104571,,,Marcos Baghdatis,R,183,CYP,22.3,4-6 6-4 6-3,3,SF,146,2,2,88,58,41,16,15,1,4,8,5,95,49,33,22,14,10,14,2,5385,22,1375
 2007-352,Paris Masters,Hard,48,M,20071028,47,103900,,,David Nalbandian,R,180,ARG,25.8,104745,2,,Rafael Nadal,L,185,ESP,21.4,6-4 6-0,3,F,70,5,0,41,24,21,13,8,0,0,1,1,47,31,21,3,8,2,6,21,1375,2,5385
 2007-360,Casablanca,Clay,32,A,20070423,1,103103,1,,Dominik Hrbaty,R,183,SVK,29.2,103580,,,Alexander Peya,R,183,AUT,26.8,7-6(7) 6-4,3,R32,90,5,0,64,41,32,15,11,2,3,2,6,98,60,41,16,11,15,17,24,1083,93,464
-2007-360,Casablanca,Clay,32,A,20070423,2,102630,,WC,Slimane Saoudi,L,,ALG,31.7,103978,,WC,Rabie Chaki,U,,MAR,25.0,6-2 6-1,3,R32,59,1,2,43,29,24,9,8,1,1,1,2,48,24,12,12,7,2,6,524,48,460,64
+2007-360,Casablanca,Clay,32,A,20070423,2,102630,,WC,Slimane Saoudi,L,,ALG,31.7,103978,,WC,Rabie Chaki,A,,MAR,25.0,6-2 6-1,3,R32,59,1,2,43,29,24,9,8,1,1,1,2,48,24,12,12,7,2,6,524,48,460,64
 2007-360,Casablanca,Clay,32,A,20070423,3,103656,,,Albert Montanes,R,175,ESP,26.4,103821,,,Danai Udomchoke,R,173,THA,25.6,1-6 6-3 7-5,3,R32,101,3,3,85,48,34,20,14,3,6,4,0,75,50,38,13,14,1,4,77,523,96,450
 2007-360,Casablanca,Clay,32,A,20070423,4,103454,7,,Nicolas Massu,R,183,CHI,27.5,103373,,,Sergio Roitman,R,185,ARG,27.9,6-2 6-3,3,R32,74,2,3,46,26,19,11,8,1,2,0,1,53,44,25,1,9,3,8,52,695,79,504
 2007-360,Casablanca,Clay,32,A,20070423,5,103105,,,Ruben Ramirez Hidalgo,R,183,ESP,29.2,104468,4,,Gilles Simon,R,183,FRA,22.3,6-4 6-4,3,R32,78,2,6,62,36,28,14,10,1,2,2,0,74,57,32,10,10,6,9,59,610,54,675
@@ -863,7 +863,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-402,Memphis,Hard,32,A,20070219,6,103709,,,Kristian Pless,R,188,DEN,26.0,103857,,,Igor Kunitsyn,R,180,RUS,25.3,6-3 6-1,3,R32,45,6,1,38,27,23,7,8,0,1,1,1,55,27,14,12,8,5,10,86,470,85,471
 2007-402,Memphis,Hard,32,A,20070219,7,102905,,,Stefan Koubek,L,175,AUT,30.1,103752,,,Simon Greul,R,185,GER,25.8,6-3 7-6(3),3,R32,87,7,1,74,56,35,12,11,4,6,5,2,71,41,22,18,10,6,9,73,524,82,483
 2007-402,Memphis,Hard,32,A,20070219,8,105095,,Q,Evgeny Korolev,R,185,KAZ,19.0,104068,8,,Robby Ginepri,R,183,USA,24.3,7-6(4) 4-6 6-3,3,R32,111,6,3,104,66,47,23,16,4,6,11,2,95,62,49,14,15,5,7,106,411,46,765
-2007-402,Memphis,Hard,32,A,20070219,9,104559,,Q,Teymuraz Gabashvili,R,188,RUS,21.7,103598,5,,Xavier Malisse,R,185,BEL,26.5,4-6 2-2,3,R32,57,1,1,41,21,16,9,7,2,4,8,1,39,26,21,6,7,0,1,99,425,28,990
+2007-402,Memphis,Hard,32,A,20070219,9,104559,,Q,Teymuraz Gabashvili,R,188,RUS,21.7,103598,5,,Xavier Malisse,R,185,BEL,26.5,4-6 2-2 RET,3,R32,57,1,1,41,21,16,9,7,2,4,8,1,39,26,21,6,7,0,1,99,425,28,990
 2007-402,Memphis,Hard,32,A,20070219,10,104864,,WC,Alex Kuznetsov,R,183,USA,20.0,103240,,Q,Kevin Kim,R,180,USA,28.5,6-2 2-6 6-4,3,R32,93,11,3,83,47,35,17,13,7,10,10,6,83,45,35,15,13,2,6,174,237,125,359
 2007-402,Memphis,Hard,32,A,20070219,11,105223,,,Juan Martin del Potro,R,198,ARG,18.4,103852,,,Feliciano Lopez,L,188,ESP,25.4,6-1 6-2,3,R32,50,1,3,42,24,21,12,8,1,1,1,2,38,25,13,5,7,3,7,69,535,93,446
 2007-402,Memphis,Hard,32,A,20070219,12,103888,4,,Mardy Fish,R,188,USA,25.1,103451,,,Bjorn Phau,R,175,GER,27.3,6-3 6-2,3,R32,64,8,2,46,25,22,13,9,1,2,3,4,53,31,20,6,8,4,8,25,1104,103,419
@@ -872,7 +872,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-402,Memphis,Hard,32,A,20070219,15,104025,,,Amer Delic,R,196,BIH,24.6,102834,,,Paul Goldstein,R,178,USA,30.5,7-5 7-6(0),3,R32,107,19,1,91,58,40,19,12,6,8,3,1,90,55,37,17,12,9,12,89,453,74,521
 2007-402,Memphis,Hard,32,A,20070219,16,103163,2,,Tommy Haas,R,188,GER,28.8,102434,,,Vincent Spadea,R,183,USA,32.5,6-4 6-1,3,R32,56,6,1,38,20,20,12,8,0,0,6,3,61,40,26,6,9,7,11,9,2020,68,539
 2007-402,Memphis,Hard,32,A,20070219,17,104053,1,,Andy Roddick,R,188,USA,24.4,103794,,,Benjamin Becker,R,178,GER,25.6,7-6(4) 6-4,3,R16,86,14,0,55,33,31,18,11,0,0,12,2,69,31,24,24,11,4,5,4,2715,45,781
-2007-402,Memphis,Hard,32,A,20070219,18,104229,,,Yen Hsun Lu,R,180,TPE,23.5,103781,6,,Jurgen Melzer,L,183,AUT,25.7,7-6(2) 1-1,3,R16,55,5,3,41,22,20,13,7,0,0,6,3,53,35,27,8,7,2,2,90,452,31,955
+2007-402,Memphis,Hard,32,A,20070219,18,104229,,,Yen Hsun Lu,R,180,TPE,23.5,103781,6,,Jurgen Melzer,L,183,AUT,25.7,7-6(2) 1-1 RET,3,R16,55,5,3,41,22,20,13,7,0,0,6,3,53,35,27,8,7,2,2,90,452,31,955
 2007-402,Memphis,Hard,32,A,20070219,19,104918,3,,Andy Murray,R,190,GBR,19.7,103709,,,Kristian Pless,R,188,DEN,26.0,6-3 7-6(4),3,R16,94,11,2,71,29,26,26,11,1,1,3,0,86,58,37,15,10,10,11,13,1650,86,470
 2007-402,Memphis,Hard,32,A,20070219,20,102905,,,Stefan Koubek,L,175,AUT,30.1,105095,,Q,Evgeny Korolev,R,185,KAZ,19.0,7-6(4) 6-2,3,R16,69,5,1,60,39,31,13,10,0,1,3,2,61,31,26,11,10,1,4,73,524,106,411
 2007-402,Memphis,Hard,32,A,20070219,21,104559,,Q,Teymuraz Gabashvili,R,188,RUS,21.7,104864,,WC,Alex Kuznetsov,R,183,USA,20.0,5-7 6-3 6-4,3,R16,111,13,0,92,53,45,23,16,3,4,11,6,96,56,43,21,15,3,5,99,425,174,237
@@ -881,7 +881,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-402,Memphis,Hard,32,A,20070219,24,103163,2,,Tommy Haas,R,188,GER,28.8,104025,,,Amer Delic,R,196,BIH,24.6,7-6(2) 7-6(5),3,R16,87,7,1,76,52,47,14,12,0,0,11,0,72,43,37,16,12,0,0,9,2020,89,453
 2007-402,Memphis,Hard,32,A,20070219,25,104053,1,,Andy Roddick,R,188,USA,24.4,104229,,,Yen Hsun Lu,R,180,TPE,23.5,6-4 7-6(7),3,QF,94,18,3,79,54,42,13,11,5,6,6,7,84,47,38,17,11,10,12,4,2715,90,452
 2007-402,Memphis,Hard,32,A,20070219,26,104918,3,,Andy Murray,R,190,GBR,19.7,102905,,,Stefan Koubek,L,175,AUT,30.1,6-3 6-2,3,QF,62,1,0,54,26,21,16,9,2,2,1,0,41,24,16,7,8,2,5,13,1650,73,524
-2007-402,Memphis,Hard,32,A,20070219,27,103888,4,,Mardy Fish,R,188,USA,25.1,104559,,Q,Teymuraz Gabashvili,R,188,RUS,21.7,6-2 4-1,3,QF,50,11,1,31,19,19,9,7,0,0,2,3,50,28,21,4,6,3,6,25,1104,99,425
+2007-402,Memphis,Hard,32,A,20070219,27,103888,4,,Mardy Fish,R,188,USA,25.1,104559,,Q,Teymuraz Gabashvili,R,188,RUS,21.7,6-2 4-1 RET,3,QF,50,11,1,31,19,19,9,7,0,0,2,3,50,28,21,4,6,3,6,25,1104,99,425
 2007-402,Memphis,Hard,32,A,20070219,28,103163,2,,Tommy Haas,R,188,GER,28.8,105023,,WC,Sam Querrey,R,198,USA,19.3,6-2 6-2,3,QF,44,7,0,38,27,23,9,8,0,0,1,4,42,19,12,10,8,3,7,9,2020,92,447
 2007-402,Memphis,Hard,32,A,20070219,29,104053,1,,Andy Roddick,R,188,USA,24.4,104918,3,,Andy Murray,R,190,GBR,19.7,6-3 7-6(4),3,SF,92,15,1,75,52,37,15,11,2,3,8,3,66,29,23,18,10,4,6,4,2715,13,1650
 2007-402,Memphis,Hard,32,A,20070219,30,103163,2,,Tommy Haas,R,188,GER,28.8,103888,4,,Mardy Fish,R,188,USA,25.1,6-3 6-4,3,SF,71,13,2,51,34,29,11,10,0,0,16,2,65,35,30,10,9,5,7,9,2020,25,1104
@@ -1868,13 +1868,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-496,Marseille,Hard,32,A,20070212,2,102563,,,Thomas Johansson,R,180,SWE,31.8,102567,,LL,George Bastl,R,183,SUI,31.8,4-6 7-5 6-3,3,R32,136,11,2,104,58,46,22,16,5,7,9,5,83,55,43,12,15,1,4,89,444,176,234
 2007-496,Marseille,Hard,32,A,20070212,3,102967,,,Marc Gicquel,R,188,FRA,29.8,104792,,,Gael Monfils,R,193,FRA,20.4,4-6 7-6(1) 7-5,3,R32,161,2,3,118,60,39,34,17,9,13,16,4,124,59,45,28,17,7,11,46,777,52,715
 2007-496,Marseille,Hard,32,A,20070212,4,104755,6,,Richard Gasquet,R,185,FRA,20.6,103401,,,Jan Hernych,R,190,CZE,27.6,6-1 7-5,3,R32,75,6,2,59,41,30,11,10,2,3,4,5,66,39,23,12,9,6,10,16,1580,80,481
-2007-496,Marseille,Hard,32,A,20070212,5,104312,,,Andreas Seppi,R,190,ITA,22.9,104339,3,,Mario Ancic,R,196,CRO,22.8,Apr-00,5,R32,,1,0,12,8,5,4,2,2,2,0,1,15,10,4,1,2,3,5,102,416,9,2075
+2007-496,Marseille,Hard,32,A,20070212,5,104312,,,Andreas Seppi,R,190,ITA,22.9,104339,3,,Mario Ancic,R,196,CRO,22.8,4-0 RET,5,R32,16,1,0,12,8,5,4,2,2,2,0,1,15,10,4,1,2,3,5,102,416,9,2075
 2007-496,Marseille,Hard,32,A,20070212,6,102035,,,Jonas Bjorkman,R,183,SWE,34.8,103110,,,Daniele Bracciali,R,180,ITA,29.0,6-3 6-2,3,R32,70,6,2,60,32,23,18,9,5,5,1,5,55,25,18,12,8,2,5,47,773,68,530
 2007-496,Marseille,Hard,32,A,20070212,7,104468,,,Gilles Simon,R,183,FRA,22.1,104619,,Q,Jesse Huta Galung,R,188,NED,21.3,6-1 6-1,3,R32,51,8,2,36,21,19,10,7,1,1,2,2,47,18,13,5,7,2,7,58,625,353,100
 2007-496,Marseille,Hard,32,A,20070212,8,103720,8,,Lleyton Hewitt,R,180,AUS,25.9,103566,,WC,Michael Llodra,L,190,FRA,26.7,4-6 6-1 6-4,3,R32,106,12,4,81,48,40,17,14,4,6,8,7,81,42,32,17,13,6,10,18,1335,72,523
 2007-496,Marseille,Hard,32,A,20070212,9,104571,7,,Marcos Baghdatis,R,183,CYP,21.6,104386,,,Janko Tipsarevic,R,180,SRB,22.6,6-3 6-4,3,R32,77,12,1,59,37,33,10,10,3,3,2,2,60,32,25,11,9,2,4,17,1365,75,514
 2007-496,Marseille,Hard,32,A,20070212,10,102642,,Q,Cyril Saulnier,R,190,FRA,31.4,104095,,WC,David Guez,R,185,FRA,24.1,6-4 6-2,3,R32,78,9,0,44,27,21,13,9,1,2,1,2,66,34,22,13,9,2,6,259,151,174,240
-2007-496,Marseille,Hard,32,A,20070212,11,102148,,,Fabrice Santoro,R,178,FRA,34.1,104269,,,Fernando Verdasco,L,188,ESP,23.2,6-3 3-2,3,R32,72,3,1,42,18,16,16,7,1,1,3,1,55,40,22,8,7,5,7,59,620,33,910
+2007-496,Marseille,Hard,32,A,20070212,11,102148,,,Fabrice Santoro,R,178,FRA,34.1,104269,,,Fernando Verdasco,L,188,ESP,23.2,6-3 3-2 RET,3,R32,72,3,1,42,18,16,16,7,1,1,3,1,55,40,22,8,7,5,7,59,620,33,910
 2007-496,Marseille,Hard,32,A,20070212,12,104022,,,Mikhail Youzhny,R,183,RUS,24.6,104925,4,,Novak Djokovic,R,188,SRB,19.7,6-4 4-6 7-6,3,R32,152,11,3,98,52,39,25,16,1,4,5,3,114,59,38,31,16,6,9,22,1180,14,1625
 2007-496,Marseille,Hard,32,A,20070212,13,103970,5,,David Ferrer,R,175,ESP,24.8,103096,,,Arnaud Clement,R,173,FRA,29.1,6-4 6-4,3,R32,94,3,2,57,39,27,12,10,3,5,4,2,61,30,21,12,10,5,9,15,1610,35,875
 2007-496,Marseille,Hard,32,A,20070212,14,103898,,WC,Julien Benneteau,R,185,FRA,25.1,103722,,,Florent Serra,R,180,FRA,25.9,2-6 6-1 6-2,3,R32,101,7,4,75,46,33,15,12,1,3,4,2,72,40,26,14,11,2,6,43,817,66,540
@@ -1883,7 +1883,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-496,Marseille,Hard,32,A,20070212,17,104417,,,Robin Soderling,R,193,SWE,22.4,102563,,,Thomas Johansson,R,180,SWE,31.8,6-4 7-5,3,R16,75,5,2,67,45,36,10,11,2,3,12,2,60,35,26,10,11,5,8,26,1063,89,444
 2007-496,Marseille,Hard,32,A,20070212,18,104755,6,,Richard Gasquet,R,185,FRA,20.6,102967,,,Marc Gicquel,R,188,FRA,29.8,7-6(2) 6-2,3,R16,96,4,1,63,36,30,13,10,0,2,5,0,83,48,32,12,10,11,15,16,1580,46,777
 2007-496,Marseille,Hard,32,A,20070212,19,102035,,,Jonas Bjorkman,R,183,SWE,34.8,104312,,,Andreas Seppi,R,190,ITA,22.9,6-1 6-0,3,R16,51,5,2,38,20,18,10,7,0,0,2,3,44,22,11,6,6,2,7,47,773,102,416
-2007-496,Marseille,Hard,32,A,20070212,20,104468,,,Gilles Simon,R,183,FRA,22.1,103720,8,,Lleyton Hewitt,R,180,AUS,25.9,6-1 3-2,3,R16,58,1,1,44,16,13,18,6,2,2,0,5,33,11,9,8,6,1,4,58,625,18,1335
+2007-496,Marseille,Hard,32,A,20070212,20,104468,,,Gilles Simon,R,183,FRA,22.1,103720,8,,Lleyton Hewitt,R,180,AUS,25.9,6-1 3-2 RET,3,R16,58,1,1,44,16,13,18,6,2,2,0,5,33,11,9,8,6,1,4,58,625,18,1335
 2007-496,Marseille,Hard,32,A,20070212,21,104571,7,,Marcos Baghdatis,R,183,CYP,21.6,102642,,Q,Cyril Saulnier,R,190,FRA,31.4,6-4 6-3,3,R16,67,7,0,52,27,23,17,9,2,2,6,4,54,34,28,7,10,4,7,17,1365,259,151
 2007-496,Marseille,Hard,32,A,20070212,22,104022,,,Mikhail Youzhny,R,183,RUS,24.6,102148,,,Fabrice Santoro,R,178,FRA,34.1,6-7(4) 6-2 6-3,3,R16,133,8,6,91,47,41,22,14,1,3,5,4,101,53,35,26,15,8,14,22,1180,59,620
 2007-496,Marseille,Hard,32,A,20070212,23,103898,,WC,Julien Benneteau,R,185,FRA,25.1,103970,5,,David Ferrer,R,175,ESP,24.8,4-6 6-0 6-1,3,R16,99,1,4,66,37,24,14,11,2,4,1,2,64,38,21,9,12,1,8,43,817,15,1610
@@ -2780,7 +2780,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-807,Acapulco,Clay,32,A,20070226,17,103507,1,,Juan Carlos Ferrero,R,183,ESP,27.0,104160,,,Lukas Dlouhy,R,185,CZE,23.8,6-3 7-6(2),3,R16,124,2,1,77,60,40,10,11,9,11,7,6,68,44,31,8,10,3,6,25,1100,118,379
 2007-807,Acapulco,Clay,32,A,20070226,18,103292,5,,Gaston Gaudio,R,175,ARG,28.2,103700,,Q,Juan Pablo Guzman,L,178,ARG,26.0,1-6 6-3 6-2,3,R16,120,1,3,87,61,40,10,12,4,8,3,0,87,46,30,16,12,9,14,36,845,153,281
 2007-807,Acapulco,Clay,32,A,20070226,19,104597,3,,Nicolas Almagro,R,183,ESP,21.5,103105,,,Ruben Ramirez Hidalgo,R,183,ESP,29.1,6-1 4-6 7-6(2),3,R16,113,10,9,81,45,37,16,14,4,8,2,12,98,48,32,18,15,5,11,28,990,59,625
-2007-807,Acapulco,Clay,32,A,20070226,20,102845,8,,Carlos Moya,R,190,ESP,30.4,103701,,,Diego Hartfield,R,185,ARG,26.0,4-6 6-1 4-6,3,R16,,,,,,,,,,,,,,,,,,,,47,735,93,454
+2007-807,Acapulco,Clay,32,A,20070226,20,102845,8,,Carlos Moya,R,190,ESP,30.4,103701,,,Diego Hartfield,R,185,ARG,26.0,4-6 6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,47,735,93,454
 2007-807,Acapulco,Clay,32,A,20070226,21,103454,6,,Nicolas Massu,R,183,CHI,27.3,102999,,,Stefano Galvani,R,178,ITA,29.7,7-6(2) 6-3,3,R16,121,3,4,75,44,29,19,11,5,7,0,7,77,49,35,8,10,5,8,53,690,109,396
 2007-807,Acapulco,Clay,32,A,20070226,22,103428,4,,Juan Ignacio Chela,R,190,ARG,27.4,103534,,,Nicolas Devilder,L,173,FRA,26.9,6-0 6-4,3,R16,78,4,2,55,32,25,13,8,4,4,2,1,56,39,19,9,8,3,7,35,880,90,469
 2007-807,Acapulco,Clay,32,A,20070226,23,104076,7,,Jose Acasuso,R,190,ARG,24.3,103181,,,Jiri Vanek,R,185,CZE,28.8,6-1 6-2,3,R16,70,2,1,42,22,19,13,7,3,3,2,2,66,35,22,8,8,7,12,38,815,116,386
@@ -2925,7 +2925,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-D025,Davis Cup G1 R1: CAN vs COL,Carpet,4,D,20070209,5,105166,,,Peter Polansky,R,180,CAN,18.6,104113,,,Carlos Salamanca,L,196,COL,24.0,7-6(4) 6-4,3,RR,,,,,,,,,,,,,,,,,,,,580,39,300,123
 2007-D026,Davis Cup G1 R2: PER vs MEX,Clay,4,D,20070406,1,103632,,,Luis Horna,R,180,PER,26.5,104535,,,Daniel Garza,R,,MEX,21.9,6-4 7-6(8) 2-6 6-3,5,RR,,,,,,,,,,,,,,,,,,,,74,525,466,63
 2007-D026,Davis Cup G1 R2: PER vs MEX,Clay,4,D,20070406,2,103525,,,Ivan Miranda,R,175,PER,27.0,104136,,,Santiago Gonzalez,R,190,MEX,24.1,6-4 3-6 6-1 5-7 8-6,5,RR,,,,,,,,,,,,,,,,,,,,326,106,240,164
-2007-D026,Davis Cup G1 R2: PER vs MEX,Clay,4,D,20070406,4,104200,,,Juan Manuel Elizondo,U,180,MEX,23.8,104342,,,Matias Silva,R,,PER,23.0,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,573,40,773,18
+2007-D026,Davis Cup G1 R2: PER vs MEX,Clay,4,D,20070406,4,104200,,,Juan Manuel Elizondo,A,180,MEX,23.8,104342,,,Matias Silva,R,,PER,23.0,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,573,40,773,18
 2007-D026,Davis Cup G1 R2: PER vs MEX,Clay,4,D,20070406,5,104535,,,Daniel Garza,R,,MEX,21.9,105273,,,Mauricio Echazu,R,174,PER,18.2,4-6 6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,466,63,973,8
 2007-D027,Davis Cup G1 R2: BRA vs CAN,Clay,4,D,20070406,1,103672,,,Ricardo Mello,L,175,BRA,26.2,104433,,,Frank Dancevic,R,185,CAN,22.5,3-6 6-7(7) 6-3 6-3 11-9,5,RR,,,,,,,,,,,,,,,,,,,,116,380,115,382
 2007-D027,Davis Cup G1 R2: BRA vs CAN,Clay,4,D,20070406,2,103581,,,Flavio Saretta,R,183,BRA,26.7,102780,,,Frederic Niemeyer,R,190,CAN,30.9,6-4 6-7(6) 6-2 6-1,5,RR,,,,,,,,,,,,,,,,,,,,100,436,250,159
@@ -2933,7 +2933,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-D028,Davis Cup G1 PO: MEX vs VEN,Hard,4,D,20070720,1,104535,,,Daniel Garza,R,,MEX,22.2,103286,,,Yohny Romero,R,,VEN,28.6,6-4 4-6 6-2 4-6 6-3,5,RR,,,,,,,,,,,,,,,,,,,,445,66,479,58
 2007-D028,Davis Cup G1 PO: MEX vs VEN,Hard,4,D,20070720,2,104136,,,Santiago Gonzalez,R,190,MEX,24.3,108628,,,Jhonnatan Medina Alvarez,L,,VEN,25.5,6-3 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,,426,70,,
 2007-D028,Davis Cup G1 PO: MEX vs VEN,Hard,4,D,20070720,4,104535,,,Daniel Garza,R,,MEX,22.2,104700,,,Daniel Vallverdu,R,180,VEN,21.3,7-6(5) 6-1,3,RR,,,,,,,,,,,,,,,,,,,,445,66,1232,3
-2007-D028,Davis Cup G1 PO: MEX vs VEN,Hard,4,D,20070720,5,104200,,,Juan Manuel Elizondo,U,180,MEX,24.1,105261,,,Roberto Maytin,R,,VEN,18.5,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,787,17,1084,6
+2007-D028,Davis Cup G1 PO: MEX vs VEN,Hard,4,D,20070720,5,104200,,,Juan Manuel Elizondo,A,180,MEX,24.1,105261,,,Roberto Maytin,R,,VEN,18.5,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,787,17,1084,6
 2007-D029,Davis Cup G1 PO: VEN vs COL,Hard,4,D,20070921,1,105053,,,Santiago Giraldo,R,188,COL,19.8,103286,,,Yohny Romero,R,,VEN,28.7,6-3 6-3 6-4,5,RR,,,,,,,,,,,,,,,,,,,,169,259,452,62
 2007-D029,Davis Cup G1 PO: VEN vs COL,Hard,4,D,20070921,2,104268,,,Alejandro Falla,L,185,COL,23.8,108628,,,Jhonnatan Medina Alvarez,L,,VEN,25.6,6-2 6-4 7-6(4),5,RR,,,,,,,,,,,,,,,,,,,,141,310,,
 2007-D029,Davis Cup G1 PO: VEN vs COL,Hard,4,D,20070921,4,104268,,,Alejandro Falla,L,185,COL,23.8,103286,,,Yohny Romero,R,,VEN,28.7,6-0 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,,141,310,452,62
@@ -3021,7 +3021,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-D050,Davis Cup G2 R1: DOM vs ESA,Hard,4,D,20070209,1,104763,,,Rafael Arevalo,R,180,ESA,20.5,108942,,,Henry Estrella,U,,DOM,21.0,7-6(4) 6-1 7-6(4),5,RR,,,,,,,,,,,,,,,,,,,,914,11,,
 2007-D050,Davis Cup G2 R1: DOM vs ESA,Hard,4,D,20070209,2,103607,,,Victor Estrella,R,173,DOM,26.5,105656,,,Marcelo Arevalo,R,191,ESA,16.3,6-4 6-3 6-1,5,RR,,,,,,,,,,,,,,,,,,,,547,44,,
 2007-D050,Davis Cup G2 R1: DOM vs ESA,Hard,4,D,20070209,4,103607,,,Victor Estrella,R,173,DOM,26.5,104763,,,Rafael Arevalo,R,180,ESA,20.5,7-5 4-1 RET,5,RR,,,,,,,,,,,,,,,,,,,,547,44,914,11
-2007-D050,Davis Cup G2 R1: DOM vs ESA,Hard,4,D,20070209,5,105497,,,Jose Hernandez,U,183,DOM,16.9,108979,,,Benito Jose Suriano,U,,ESA,16.9,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2007-D050,Davis Cup G2 R1: DOM vs ESA,Hard,4,D,20070209,5,105497,,,Jose Hernandez,R,183,DOM,16.9,108979,,,Benito Jose Suriano,U,,ESA,16.9,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2007-D051,Davis Cup G2 R1: PAR vs CUB,Clay,4,D,20070209,1,104658,,,Gustavo Ramirez,U,,PAR,21.0,108927,,,Edgar Hernandez Perez,U,,CUB,21.6,6-3 7-5 1-6 6-0,5,RR,,,,,,,,,,,,,,,,,,,,1174,4,1147,5
 2007-D051,Davis Cup G2 R1: PAR vs CUB,Clay,4,D,20070209,2,102887,,,Ramon Delgado,R,185,PAR,30.2,108918,,,Favel Antonio Freyre Perdomo,U,,CUB,20.9,6-1 6-0 6-1,5,RR,,,,,,,,,,,,,,,,,,,,151,294,,
 2007-D051,Davis Cup G2 R1: PAR vs CUB,Clay,4,D,20070209,4,108930,,,Juan Carlos Ramirez,R,,PAR,18.1,108927,,,Edgar Hernandez Perez,U,,CUB,21.6,7-5 7-6(5),3,RR,,,,,,,,,,,,,,,,,,,,,,1147,5
@@ -3047,7 +3047,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-D057,Davis Cup G2 R1: PHI vs PAK,Hard,4,D,20070209,1,102821,,,Cecil Mamiit,R,173,PHI,30.6,108909,,,Jalil Khan,U,,PAK,24.9,6-1 6-0 6-1,5,RR,,,,,,,,,,,,,,,,,,,,190,212,,
 2007-D057,Davis Cup G2 R1: PHI vs PAK,Hard,4,D,20070209,2,103499,,,Aqeel Khan,R,,PAK,27.0,102558,,,Eric Taino,L,175,PHI,31.8,6-4 0-6 7-6(1) 7-5,5,RR,,,,,,,,,,,,,,,,,,,,525,49,472,60
 2007-D057,Davis Cup G2 R1: PHI vs PAK,Hard,4,D,20070209,4,102821,,,Cecil Mamiit,R,173,PHI,30.6,103499,,,Aqeel Khan,R,,PAK,27.0,6-1 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,190,212,525,49
-2007-D057,Davis Cup G2 R1: PHI vs PAK,Hard,4,D,20070209,5,104591,,,Patrick Tierro,U,,PHI,21.5,108982,,,Yasir Khan,R,,PAK,17.7,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,788,18,,
+2007-D057,Davis Cup G2 R1: PHI vs PAK,Hard,4,D,20070209,5,104591,,,Patrick Tierro,R,,PHI,21.5,108982,,,Yasir Khan,R,,PAK,17.7,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,788,18,,
 2007-D058,Davis Cup G2 R1: NZL vs POC,Carpet,4,D,20070209,1,104368,,,Daniel King Turner,R,190,NZL,22.7,108947,,,West Nott,R,,MHL,24.6,6-3 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,482,58,,
 2007-D058,Davis Cup G2 R1: NZL vs POC,Carpet,4,D,20070209,2,104036,,,Simon Rea,L,,NZL,24.5,104702,,,Michael Leong,R,,SOL,20.8,6-3 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,,1031,7,,
 2007-D058,Davis Cup G2 R1: NZL vs POC,Carpet,4,D,20070209,4,104907,,,Jose Rubin Statham,R,183,NZL,19.7,108945,,,Juan Sebastian Langton,R,,SAM,23.6,7-6(4) 6-1,3,RR,,,,,,,,,,,,,,,,,,,,863,14,,
@@ -3062,7 +3062,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-D060,Davis Cup G2 R1: HKG vs INA,Hard,4,D,20070209,5,108960,,,Michael Lai,R,,HKG,20.0,105464,,,Christopher Rungkat,R,170,INA,17.0,7-6(5) 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2007-D061,Davis Cup G2 R2: NZL vs PHI,Carpet,4,D,20070406,1,102821,,,Cecil Mamiit,R,173,PHI,30.7,104907,,,Jose Rubin Statham,R,183,NZL,19.9,6-4 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,199,204,749,20
 2007-D061,Davis Cup G2 R2: NZL vs PHI,Carpet,4,D,20070406,2,102558,,,Eric Taino,L,175,PHI,32.0,104036,,,Simon Rea,L,,NZL,24.7,6-1 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,,545,44,668,26
-2007-D061,Davis Cup G2 R2: NZL vs PHI,Carpet,4,D,20070406,4,104591,,,Patrick Tierro,U,,PHI,21.6,104412,,,Matt Simpson,U,,NZL,22.6,6-3 2-6 6-2,3,RR,,,,,,,,,,,,,,,,,,,,890,12,1342,2
+2007-D061,Davis Cup G2 R2: NZL vs PHI,Carpet,4,D,20070406,4,104591,,,Patrick Tierro,R,,PHI,21.6,104412,,,Matt Simpson,U,,NZL,22.6,6-3 2-6 6-2,3,RR,,,,,,,,,,,,,,,,,,,,890,12,1342,2
 2007-D061,Davis Cup G2 R2: NZL vs PHI,Carpet,4,D,20070406,5,104907,,,Jose Rubin Statham,R,183,NZL,19.9,108594,,,Johnny Arcilla,U,,PHI,27.1,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,749,20,,
 2007-D062,Davis Cup G2 R2: KUW vs INA,Hard,4,D,20070406,1,103600,,,Mohammad Ghareeb,R,,KUW,26.6,103865,,,Prima Simpatiaji,R,,INA,25.4,7-6(7) 7-5 7-5,5,RR,,,,,,,,,,,,,,,,,,,,482,59,923,10
 2007-D062,Davis Cup G2 R2: KUW vs INA,Hard,4,D,20070406,2,105009,,,Elbert Sie,R,,INA,19.5,108925,,,Ahmad Rabeea Muhammad,R,,KUW,20.0,6-3 6-1 6-0,5,RR,,,,,,,,,,,,,,,,,,,,852,13,,
@@ -3070,7 +3070,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-D062,Davis Cup G2 R2: KUW vs INA,Hard,4,D,20070406,5,108925,,,Ahmad Rabeea Muhammad,R,,KUW,20.0,103865,,,Prima Simpatiaji,R,,INA,25.4,3-6 6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,923,10
 2007-D063,Davis Cup G2 F: KUW vs PHI,Hard,4,D,20070921,1,102821,,,Cecil Mamiit,R,173,PHI,31.2,108925,,,Ahmad Rabeea Muhammad,R,,KUW,20.4,6-3 6-0 6-0,5,RR,,,,,,,,,,,,,,,,,,,,550,40,1496,1
 2007-D063,Davis Cup G2 F: KUW vs PHI,Hard,4,D,20070921,2,102558,,,Eric Taino,L,175,PHI,32.5,103600,,,Mohammad Ghareeb,R,,KUW,27.1,6-2 6-3 7-6(5),5,RR,,,,,,,,,,,,,,,,,,,,957,9,400,81
-2007-D063,Davis Cup G2 F: KUW vs PHI,Hard,4,D,20070921,4,104591,,,Patrick Tierro,U,,PHI,22.1,108985,,,Ali Ghareeb,U,,KUW,21.5,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,1248,3,,
+2007-D063,Davis Cup G2 F: KUW vs PHI,Hard,4,D,20070921,4,104591,,,Patrick Tierro,R,,PHI,22.1,108985,,,Ali Ghareeb,U,,KUW,21.5,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,1248,3,,
 2007-D063,Davis Cup G2 F: KUW vs PHI,Hard,4,D,20070921,5,108594,,,Johnny Arcilla,U,,PHI,27.5,108925,,,Ahmad Rabeea Muhammad,R,,KUW,20.4,6-1 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,1496,1
 2007-D064,Davis Cup G2 PO: POC vs PAK,Hard,4,D,20070406,1,103499,,,Aqeel Khan,R,,PAK,27.1,108945,,,Juan Sebastian Langton,R,,SAM,23.7,6-3 6-3 2-6 6-2,5,RR,,,,,,,,,,,,,,,,,,,,519,49,,
 2007-D064,Davis Cup G2 PO: POC vs PAK,Hard,4,D,20070406,2,104702,,,Michael Leong,R,,SOL,21.0,108909,,,Jalil Khan,U,,PAK,25.1,6-1 6-1 6-1,5,RR,,,,,,,,,,,,,,,,,,,,,,,
@@ -3080,10 +3080,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-D065,Davis Cup G2 PO: IRI vs HKG,Clay,4,D,20070406,2,104299,,,Hiu Tung Yu,L,,HKG,23.1,103803,,,Ashkan Shokoofi,U,,IRI,25.7,6-4 7-6(2) 7-5,5,RR,,,,,,,,,,,,,,,,,,,,1261,3,1049,6
 2007-D065,Davis Cup G2 PO: IRI vs HKG,Clay,4,D,20070406,4,104299,,,Hiu Tung Yu,L,,HKG,23.1,103875,,,Anoosha Shahgholi,U,,IRI,25.3,6-7(1) 6-2 6-3 6-4,5,RR,,,,,,,,,,,,,,,,,,,,1261,3,860,13
 2007-D065,Davis Cup G2 PO: IRI vs HKG,Clay,4,D,20070406,5,104236,,,Rouzbeh Kamran,U,,IRI,23.5,108986,,,Gilbert Wong,U,,HKG,18.3,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,1398,2,,
-2007-D066,Davis Cup G2 R1: MAR vs DEN,Clay,4,D,20070406,1,103978,,,Rabie Chaki,U,,MAR,24.9,104233,,,Frederik Nielsen,R,190,DEN,23.5,6-4 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,,457,65,317,114
+2007-D066,Davis Cup G2 R1: MAR vs DEN,Clay,4,D,20070406,1,103978,,,Rabie Chaki,A,,MAR,24.9,104233,,,Frederik Nielsen,R,190,DEN,23.5,6-4 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,,457,65,317,114
 2007-D066,Davis Cup G2 R1: MAR vs DEN,Clay,4,D,20070406,2,101962,,,Younes El Aynaoui,R,193,MAR,35.5,104059,,,Rasmus Norby,R,183,DEN,24.5,6-0 6-3 6-4,5,RR,,,,,,,,,,,,,,,,,,,,168,249,631,31
 2007-D066,Davis Cup G2 R1: MAR vs DEN,Clay,4,D,20070406,4,101962,,,Younes El Aynaoui,R,193,MAR,35.5,104233,,,Frederik Nielsen,R,190,DEN,23.5,6-3 7-5 6-4,5,RR,,,,,,,,,,,,,,,,,,,,168,249,317,114
-2007-D066,Davis Cup G2 R1: MAR vs DEN,Clay,4,D,20070406,5,103978,,,Rabie Chaki,U,,MAR,24.9,104952,,,Martin Pedersen,R,,DEN,19.7,6-3 4-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,,457,65,868,13
+2007-D066,Davis Cup G2 R1: MAR vs DEN,Clay,4,D,20070406,5,103978,,,Rabie Chaki,A,,MAR,24.9,104952,,,Martin Pedersen,R,,DEN,19.7,6-3 4-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,,457,65,868,13
 2007-D067,Davis Cup G2 R1: EST vs SLO,Carpet,4,D,20070406,1,104813,,,Grega Zemlja,R,183,SLO,20.5,105132,,,Jurgen Zopp,R,190,EST,19.0,4-6 6-4 7-6(3) 6-3,5,RR,,,,,,,,,,,,,,,,,,,,302,123,1507,1
 2007-D067,Davis Cup G2 R1: EST vs SLO,Carpet,4,D,20070406,2,104063,,,Mait Kunnap,R,,EST,24.5,102959,,,Marko Tkalec,R,178,SLO,30.0,7-6(5) 2-6 7-6(10) 7-6(5),5,RR,,,,,,,,,,,,,,,,,,,,1050,6,373,86
 2007-D067,Davis Cup G2 R1: EST vs SLO,Carpet,4,D,20070406,4,104813,,,Grega Zemlja,R,183,SLO,20.5,104063,,,Mait Kunnap,R,,EST,24.5,6-3 6-2 3-6 6-7(2) 6-3,5,RR,,,,,,,,,,,,,,,,,,,,302,123,1050,6
@@ -3112,10 +3112,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-D073,Davis Cup G2 R1: NOR vs HUN,Hard,4,D,20070406,2,104247,,,Sebo Kiss,U,,HUN,23.5,103899,,,Stian Boretti,R,188,NOR,25.2,7-6(5) 6-2 1-6 3-6 6-1,5,RR,,,,,,,,,,,,,,,,,,,,782,17,595,36
 2007-D073,Davis Cup G2 R1: NOR vs HUN,Hard,4,D,20070406,4,104775,,,Adam Kellner,R,,HUN,20.6,103994,,,Philip Riise Hansen,U,,NOR,24.8,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,1261,3,,
 2007-D073,Davis Cup G2 R1: NOR vs HUN,Hard,4,D,20070406,5,108685,,,Frederick Sletting Johnsen,R,,NOR,20.5,104247,,,Sebo Kiss,U,,HUN,23.5,6-4 4-6 6-2,3,RR,,,,,,,,,,,,,,,,,,,,1507,1,782,17
-2007-D074,Davis Cup G2 R2: SLO vs MAR,Hard,4,D,20070720,1,102959,,,Marko Tkalec,R,178,SLO,30.3,103978,,,Rabie Chaki,U,,MAR,25.2,6-3 7-6(1) 7-6(5),5,RR,,,,,,,,,,,,,,,,,,,,316,112,386,83
+2007-D074,Davis Cup G2 R2: SLO vs MAR,Hard,4,D,20070720,1,102959,,,Marko Tkalec,R,178,SLO,30.3,103978,,,Rabie Chaki,A,,MAR,25.2,6-3 7-6(1) 7-6(5),5,RR,,,,,,,,,,,,,,,,,,,,316,112,386,83
 2007-D074,Davis Cup G2 R2: SLO vs MAR,Hard,4,D,20070720,2,101962,,,Younes El Aynaoui,R,193,MAR,35.8,104305,,,Luka Gregorc,R,,SLO,23.4,7-6(1) 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,,159,271,496,53
 2007-D074,Davis Cup G2 R2: SLO vs MAR,Hard,4,D,20070720,4,101962,,,Younes El Aynaoui,R,193,MAR,35.8,104813,,,Grega Zemlja,R,183,SLO,20.7,7-6(2) 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,,159,271,289,125
-2007-D074,Davis Cup G2 R2: SLO vs MAR,Hard,4,D,20070720,5,103978,,,Rabie Chaki,U,,MAR,25.2,104305,,,Luka Gregorc,R,,SLO,23.4,6-4 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,386,83,496,53
+2007-D074,Davis Cup G2 R2: SLO vs MAR,Hard,4,D,20070720,5,103978,,,Rabie Chaki,A,,MAR,25.2,104305,,,Luka Gregorc,R,,SLO,23.4,6-4 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,386,83,496,53
 2007-D075,Davis Cup G2 R2: GRE vs POL,Clay,4,D,20070720,1,104308,,,Michal Przysiezny,R,185,POL,23.4,103077,,,Konstantinos Economidis,R,188,GRE,29.7,6-3 3-6 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,,208,192,147,292
 2007-D075,Davis Cup G2 R2: GRE vs POL,Clay,4,D,20070720,2,103997,,,Lukasz Kubot,R,190,POL,25.1,105094,,,Paris Gemouchidis,R,175,GRE,19.4,6-2 6-0 6-2,5,RR,,,,,,,,,,,,,,,,,,,,149,289,845,14
 2007-D075,Davis Cup G2 R2: GRE vs POL,Clay,4,D,20070720,4,103690,,,Marcin Matkowski,R,188,POL,26.4,104011,,,Lefteris Alexiou,R,,GRE,25.1,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,1507,1,1332,2
@@ -3129,8 +3129,8 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-D077,Davis Cup G2 R2: HUN vs MON,Clay,4,D,20070720,4,104112,,,Benjamin Balleret,R,185,MON,24.4,103229,,,Kornel Bardoczky,R,,HUN,29.0,6-7(5) 5-7 6-4 6-0 6-0,5,RR,,,,,,,,,,,,,,,,,,,,299,121,471,59
 2007-D077,Davis Cup G2 R2: HUN vs MON,Clay,4,D,20070720,5,103444,,,Jean Rene Lisnard,R,173,MON,27.8,104775,,,Adam Kellner,R,,HUN,20.9,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,315,112,1191,4
 2007-D078,Davis Cup G2 F: POL vs MAR,Carpet,4,D,20070921,1,104308,,,Michal Przysiezny,R,185,POL,23.5,103007,,,Mounir El Aarej,R,,MAR,30.2,6-2 6-4 6-1,5,RR,,,,,,,,,,,,,,,,,,,,221,184,447,65
-2007-D078,Davis Cup G2 F: POL vs MAR,Carpet,4,D,20070921,2,103978,,,Rabie Chaki,U,,MAR,25.4,104140,,,Dawid Olejniczak,R,,POL,24.5,4-6 7-6(3) 7-6(3) 6-7(4) 11-9,5,RR,,,,,,,,,,,,,,,,,,,,364,93,368,91
-2007-D078,Davis Cup G2 F: POL vs MAR,Carpet,4,D,20070921,4,104308,,,Michal Przysiezny,R,185,POL,23.5,103978,,,Rabie Chaki,U,,MAR,25.4,6-2 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,221,184,364,93
+2007-D078,Davis Cup G2 F: POL vs MAR,Carpet,4,D,20070921,2,103978,,,Rabie Chaki,A,,MAR,25.4,104140,,,Dawid Olejniczak,R,,POL,24.5,4-6 7-6(3) 7-6(3) 6-7(4) 11-9,5,RR,,,,,,,,,,,,,,,,,,,,364,93,368,91
+2007-D078,Davis Cup G2 F: POL vs MAR,Carpet,4,D,20070921,4,104308,,,Michal Przysiezny,R,185,POL,23.5,103978,,,Rabie Chaki,A,,MAR,25.4,6-2 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,221,184,364,93
 2007-D078,Davis Cup G2 F: POL vs MAR,Carpet,4,D,20070921,5,103690,,,Marcin Matkowski,R,188,POL,26.6,105149,,,Reda El Amrani,R,185,MAR,19.3,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,1496,1,475,56
 2007-D079,Davis Cup G2 F: LAT vs MON,Carpet,4,D,20070921,1,105208,,,Ernests Gulbis,R,190,LAT,19.0,103444,,,Jean Rene Lisnard,R,173,MON,27.9,6-1 RET,5,RR,,,,,,,,,,,,,,,,,,,,59,609,341,102
 2007-D079,Davis Cup G2 F: LAT vs MON,Carpet,4,D,20070921,2,104557,,,Andis Juska,R,,LAT,22.3,104112,,,Benjamin Balleret,R,185,MON,24.6,6-4 6-4 7-5,5,RR,,,,,,,,,,,,,,,,,,,,266,141,298,123
@@ -3141,7 +3141,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-D080,Davis Cup G2 PO: DEN vs EST,Hard,4,D,20070720,4,104063,,,Mait Kunnap,R,,EST,24.8,102202,,,Kenneth Carlsen,L,190,DEN,34.2,5-7 3-2 Played and abandoned,5,RR,,,,,,,,,,,,,,,,,,,,1015,7,198,200
 2007-D081,Davis Cup G2 PO: NGR vs UKR,Hard,4,D,20070720,1,104869,,,Sergei Bubka,R,188,UKR,20.4,104464,,,Abdul Mumin Babalola,L,,NGR,22.5,6-1 6-4 6-2,5,RR,,,,,,,,,,,,,,,,,,,,362,94,738,20
 2007-D081,Davis Cup G2 PO: NGR vs UKR,Hard,4,D,20070720,2,104660,,,Sergiy Stakhovsky,R,193,UKR,21.5,103674,,,Jonathan Igbinovia,R,,NGR,26.5,6-2 6-0 6-3,5,RR,,,,,,,,,,,,,,,,,,,,206,194,1118,5
-2007-D081,Davis Cup G2 PO: NGR vs UKR,Hard,4,D,20070720,4,105085,,,Artem Smirnov,U,188,UKR,19.4,104613,,,Candy Idoko,R,175,NGR,21.7,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,646,29,1090,6
+2007-D081,Davis Cup G2 PO: NGR vs UKR,Hard,4,D,20070720,4,105085,,,Artem Smirnov,L,188,UKR,19.4,104613,,,Candy Idoko,R,175,NGR,21.7,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,646,29,1090,6
 2007-D081,Davis Cup G2 PO: NGR vs UKR,Hard,4,D,20070720,5,104869,,,Sergei Bubka,R,188,UKR,20.4,104484,,,Lawal Shehu,R,,NGR,22.4,7-6(11) 2-6 6-2,3,RR,,,,,,,,,,,,,,,,,,,,362,94,1210,4
 2007-D082,Davis Cup G2 PO: CYP vs BUL,Clay,4,D,20070720,1,104323,,,Photos Kallias,L,,CYP,23.3,103296,,,Ivaylo Traykov,R,188,BUL,28.5,7-6(2) 6-1 6-2,5,RR,,,,,,,,,,,,,,,,,,,,657,27,476,58
 2007-D082,Davis Cup G2 PO: CYP vs BUL,Clay,4,D,20070720,2,104571,,,Marcos Baghdatis,R,183,CYP,22.0,104378,,,Yordan Kanev,R,,BUL,23.1,6-2 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,,18,1370,917,11

@@ -817,7 +817,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1999-D063,Davis Cup G2 PO: KAZ vs SRI,Hard,4,D,19990402,1,103612,,,Alexey Kedryuk,R,193,KAZ,18.6,108852,,,Asiri Iddamalgoda,U,,SRI,25.7,6-3 3-6 6-0 6-4,5,RR,,,,,,,,,,,,,,,,,,,,1069,4,,
 1999-D063,Davis Cup G2 PO: KAZ vs SRI,Hard,4,D,19990402,2,108592,,,Pavel Baranov,R,,KAZ,18.3,108836,,,Jayendra Wijeyesekera,U,,SRI,29.2,5-7 4-6 6-4 6-1 6-1,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1999-D063,Davis Cup G2 PO: KAZ vs SRI,Hard,4,D,19990402,4,103612,,,Alexey Kedryuk,R,193,KAZ,18.6,108836,,,Jayendra Wijeyesekera,U,,SRI,29.2,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,1069,4,,
-1999-D063,Davis Cup G2 PO: KAZ vs SRI,Hard,4,D,19990402,5,108852,,,Asiri Iddamalgoda,U,,SRI,25.7,104348,,,Dias Doskarayev,U,,KAZ,14.9,5-7 7-5 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1999-D063,Davis Cup G2 PO: KAZ vs SRI,Hard,4,D,19990402,5,108852,,,Asiri Iddamalgoda,U,,SRI,25.7,104348,,,Dias Doskarayev,R,,KAZ,14.9,5-7 7-5 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1999-D079,Davis Cup G2 PO: TPE vs QAT,Clay,4,D,19990402,1,103659,,,Wei Jen Cheng,R,,TPE,18.3,102956,,,Sultan Khalfan,R,,QAT,22.0,6-3 6-0 6-4,5,RR,,,,,,,,,,,,,,,,,,,,955,8,,
 1999-D079,Davis Cup G2 PO: TPE vs QAT,Clay,4,D,19990402,2,102277,,,Bing Chao Lin,R,180,TPE,25.4,102285,,,Nasser Ghanim Al Khulaifi,R,,QAT,25.3,6-0 6-0 6-0,5,RR,,,,,,,,,,,,,,,,,,,,714,18,,
 1999-D079,Davis Cup G2 PO: TPE vs QAT,Clay,4,D,19990402,4,102277,,,Bing Chao Lin,R,180,TPE,25.4,102956,,,Sultan Khalfan,R,,QAT,22.0,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,714,18,,
@@ -831,7 +831,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1999-D034,Davis Cup G2 QF: CUB vs HAI,Hard,4,D,19990402,4,108801,,,Jorge Catala,U,,CUB,20.7,108803,,,Jean Max Mangones,U,,HAI,23.4,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1999-D034,Davis Cup G2 QF: CUB vs HAI,Hard,4,D,19990402,5,108674,,,Jerry Joseph,U,,HAI,18.8,108651,,,Sandor Martinez Breijo,R,,CUB,18.0,6-4 4-6 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1999-D040,Davis Cup G2 QF: DOM vs PER,Hard,4,D,19990402,1,103632,,,Luis Horna,R,180,PER,18.5,108615,,,Genaro Deleon,U,,DOM,28.1,6-2 3-6 6-3 6-3,5,RR,,,,,,,,,,,,,,,,,,,,256,158,,
-1999-D040,Davis Cup G2 QF: DOM vs PER,Hard,4,D,19990402,2,108585,,,Americo Venero Montes,U,175,PER,27.0,108634,,,Rodrigo Vallejo,U,,DOM,25.0,7-5 2-6 7-6(3) 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,,
+1999-D040,Davis Cup G2 QF: DOM vs PER,Hard,4,D,19990402,2,108585,,,Americo Venero Montes,L,175,PER,27.0,108634,,,Rodrigo Vallejo,U,,DOM,25.0,7-5 2-6 7-6(3) 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1999-D040,Davis Cup G2 QF: DOM vs PER,Hard,4,D,19990402,4,101574,,,Alejandro Aramburu,R,175,PER,30.1,103638,,,Jhonson Garcia,R,,DOM,18.4,6-3 4-6 7-5,3,RR,,,,,,,,,,,,,,,,,,,,347,98,,
 1999-D040,Davis Cup G2 QF: DOM vs PER,Hard,4,D,19990402,5,108615,,,Genaro Deleon,U,,DOM,28.1,103525,,,Ivan Miranda,R,175,PER,19.0,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,1136,4
 1999-D072,Davis Cup G2 QF: MEX vs PAR,Hard,4,D,19990402,1,103060,,,Alejandro Hernandez,R,180,MEX,21.4,102830,,,Paulo Carvallo,R,,PAR,22.7,6-4 6-4 6-0,5,RR,,,,,,,,,,,,,,,,,,,,162,291,470,56
@@ -1078,7 +1078,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1999-329,Tokyo,Hard,56,A,19990412,54,101965,7,,Wayne Ferreira,R,185,RSA,27.5,102563,4,,Thomas Johansson,R,180,SWE,24.0,6-3 6-2,3,SF,66,8,0,49,30,27,10,9,2,2,3,4,54,27,20,11,8,3,6,28,1161,20,1565
 1999-329,Tokyo,Hard,56,A,19990412,55,103017,5,,Nicolas Kiefer,R,183,GER,21.7,101965,7,,Wayne Ferreira,R,185,RSA,27.5,7-6(5) 7-5,3,F,104,6,4,76,39,31,19,12,1,3,5,4,73,44,32,15,12,4,7,26,1199,28,1161
 1999-D058,Davis Cup G2 SF: IRI vs THA,Clay,4,D,19990416,1,103821,,,Danai Udomchoke,R,173,THA,17.6,108595,,,Mohammed Reza Tavakoli,U,,IRI,27.3,6-1 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,557,35,,
-1999-D058,Davis Cup G2 SF: IRI vs THA,Clay,4,D,19990416,2,102097,,,Naratorn Srichaphan,R,,THA,26.6,108596,,,Ramin Raziyani,U,,IRI,24.9,6-2 6-4 6-2,5,RR,,,,,,,,,,,,,,,,,,,,727,17,,
+1999-D058,Davis Cup G2 SF: IRI vs THA,Clay,4,D,19990416,2,102097,,,Naratorn Srichaphan,R,,THA,26.6,108596,,,Ramin Raziyani,R,,IRI,24.9,6-2 6-4 6-2,5,RR,,,,,,,,,,,,,,,,,,,,727,17,,
 1999-D058,Davis Cup G2 SF: IRI vs THA,Clay,4,D,19990416,4,103821,,,Danai Udomchoke,R,173,THA,17.6,103875,,,Anoosha Shahgholi,U,,IRI,17.4,6-4 4-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,,557,35,,
 1999-D058,Davis Cup G2 SF: IRI vs THA,Clay,4,D,19990416,5,102097,,,Naratorn Srichaphan,R,,THA,26.6,108621,,,Seyed Akbar Taheri Rahaghi,U,,IRI,25.4,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,727,17,,
 1999-410,Monte Carlo Masters,Clay,56,M,19990419,1,102375,,LL,Dinu Pescariu,R,185,ROU,25.0,101792,,,Slava Dosedel,R,183,CZE,28.6,6-2 6-1,3,R64,64,1,2,45,25,14,14,8,2,4,0,1,43,24,11,4,7,1,7,103,500,66,705
@@ -1795,7 +1795,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1999-440,s Hertogenbosch,Grass,32,A,19990614,25,102318,,,Andrei Pavel,R,183,ROU,25.3,101900,,,Nicklas Kulti,R,190,SWE,28.1,4-6 6-3 7-6(3),3,QF,123,17,4,105,72,56,16,16,3,4,10,6,105,55,44,25,15,7,8,66,679,137,330
 1999-440,s Hertogenbosch,Grass,32,A,19990614,26,102344,4,,Karol Kucera,R,188,SVK,25.2,102035,6,,Jonas Bjorkman,R,183,SWE,27.2,6-2 6-3,3,QF,75,3,2,52,29,20,12,8,5,7,2,6,75,35,20,14,9,15,21,14,2201,32,1207
 1999-440,s Hertogenbosch,Grass,32,A,19990614,27,103163,5,,Tommy Haas,R,188,GER,21.1,101990,3,,Richard Krajicek,R,196,NED,27.5,7-6(3) 1-6 6-4,3,QF,99,5,8,104,54,35,32,15,5,8,10,2,86,52,42,17,14,1,2,17,1725,5,2829
-1999-440,s Hertogenbosch,Grass,32,A,19990614,28,102158,2,,Patrick Rafter,R,185,AUS,26.4,102202,,,Kenneth Carlsen,L,190,DEN,26.1,6-3 6-4(8),3,QF,125,11,3,101,55,41,26,15,3,5,0,6,109,65,42,22,14,6,11,2,3315,112,423
+1999-440,s Hertogenbosch,Grass,32,A,19990614,28,102158,2,,Patrick Rafter,R,185,AUS,26.4,102202,,,Kenneth Carlsen,L,190,DEN,26.1,6-3 6-4,3,QF,125,11,3,101,55,41,26,15,3,5,0,6,109,65,42,22,14,6,11,2,3315,112,423
 1999-440,s Hertogenbosch,Grass,32,A,19990614,29,102318,,,Andrei Pavel,R,183,ROU,25.3,102344,4,,Karol Kucera,R,188,SVK,25.2,7-6(4) 2-6 6-3,3,SF,120,4,8,99,65,44,14,15,4,9,10,5,104,53,38,23,14,8,12,66,679,14,2201
 1999-440,s Hertogenbosch,Grass,32,A,19990614,30,102158,2,,Patrick Rafter,R,185,AUS,26.4,103163,5,,Tommy Haas,R,188,GER,21.1,6-2 7-5,3,SF,71,9,1,56,35,27,12,10,4,5,6,4,65,28,18,17,10,2,6,2,3315,17,1725
 1999-440,s Hertogenbosch,Grass,32,A,19990614,31,102158,2,,Patrick Rafter,R,185,AUS,26.4,102318,,,Andrei Pavel,R,183,ROU,25.3,3-6 7-6(7) 6-4,3,F,105,6,0,94,54,44,24,15,5,7,3,2,102,62,45,23,16,2,4,2,3315,66,679
@@ -2824,9 +2824,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1999-D013,Davis Cup G1 PO: VEN vs BAH,Hard,4,D,19990924,2,101862,,,Maurice Ruah,R,178,VEN,28.5,102076,,,Mark Merklein,R,188,BAH,27.2,7-5 5-7 6-7(5) 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,197,216,871,10
 1999-D013,Davis Cup G1 PO: VEN vs BAH,Hard,4,D,19990924,4,101956,,,Mark Knowles,R,190,BAH,28.0,101862,,,Maurice Ruah,R,178,VEN,28.5,7-6(2) 1-6 0-6 7-5 6-3,5,RR,,,,,,,,,,,,,,,,,,,,275,141,197,216
 1999-D073,Davis Cup G2 F: PER vs MEX,Clay,4,D,19990924,1,103632,,,Luis Horna,R,180,PER,19.0,101955,,,Luis Herrera,L,170,MEX,28.0,6-4 6-3 6-4,5,RR,,,,,,,,,,,,,,,,,,,,165,252,598,32
-1999-D073,Davis Cup G2 F: PER vs MEX,Clay,4,D,19990924,2,103060,,,Alejandro Hernandez,R,180,MEX,21.9,108585,,,Americo Venero Montes,U,175,PER,27.5,7-5 6-7(3) 6-2 2-6 6-4,5,RR,,,,,,,,,,,,,,,,,,,,174,239,,
+1999-D073,Davis Cup G2 F: PER vs MEX,Clay,4,D,19990924,2,103060,,,Alejandro Hernandez,R,180,MEX,21.9,108585,,,Americo Venero Montes,L,175,PER,27.5,7-5 6-7(3) 6-2 2-6 6-4,5,RR,,,,,,,,,,,,,,,,,,,,174,239,,
 1999-D073,Davis Cup G2 F: PER vs MEX,Clay,4,D,19990924,4,103632,,,Luis Horna,R,180,PER,19.0,103060,,,Alejandro Hernandez,R,180,MEX,21.9,6-1 6-1 6-4,5,RR,,,,,,,,,,,,,,,,,,,,165,252,174,239
-1999-D073,Davis Cup G2 F: PER vs MEX,Clay,4,D,19990924,5,108585,,,Americo Venero Montes,U,175,PER,27.5,101955,,,Luis Herrera,L,170,MEX,28.0,6-3 6-4 1-6 6-3,5,RR,,,,,,,,,,,,,,,,,,,,,,598,32
+1999-D073,Davis Cup G2 F: PER vs MEX,Clay,4,D,19990924,5,108585,,,Americo Venero Montes,L,175,PER,27.5,101955,,,Luis Herrera,L,170,MEX,28.0,6-3 6-4 1-6 6-3,5,RR,,,,,,,,,,,,,,,,,,,,,,598,32
 1999-D077,Davis Cup G2 F: THA vs PHI,Hard,4,D,19990924,1,102462,,,Bryan Juinio,R,,USA,24.9,103821,,,Danai Udomchoke,R,173,THA,18.1,6-4 7-6(6) 7-6(8),5,RR,,,,,,,,,,,,,,,,,,,,974,7,366,93
 1999-D077,Davis Cup G2 F: THA vs PHI,Hard,4,D,19990924,2,103387,,,Paradorn Srichaphan,R,185,THA,20.2,101563,,,Joseph Lizardo,R,,PHI,30.6,6-7(3) 6-3 6-2 7-6(10),5,RR,,,,,,,,,,,,,,,,,,,,168,245,1156,3
 1999-D077,Davis Cup G2 F: THA vs PHI,Hard,4,D,19990924,4,103387,,,Paradorn Srichaphan,R,185,THA,20.2,102462,,,Bryan Juinio,R,,USA,24.9,3-6 6-3 6-2 6-7(6) 6-3,5,RR,,,,,,,,,,,,,,,,,,,,168,245,974,7

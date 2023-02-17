@@ -2420,7 +2420,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-560,US Open,Hard,128,G,20010827,4,103084,27,,Guillermo Canas,R,185,ARG,23.7,101885,,,Wayne Arthurs,L,190,AUS,30.4,6-1 3-6 6-7(7) 6-2,5,R128,141,10,2,111,70,54,25,18,7,8,12,8,124,68,43,28,18,12,19,27,1202,58,663
 2001-560,US Open,Hard,128,G,20010827,5,103103,23,,Dominik Hrbaty,R,183,SVK,23.6,102231,,,Alex Calatrava,R,190,ESP,28.2,6-2 2-6 6-2 6-3,5,R128,118,7,8,108,63,45,19,17,4,9,6,7,94,42,24,19,16,3,11,22,1300,70,585
 2001-560,US Open,Hard,128,G,20010827,6,102610,,,Albert Costa,R,180,ESP,26.1,103834,,WC,Levar Harper Griffith,R,,USA,19.9,6-3 6-3 6-3,5,R128,110,4,2,81,51,41,15,13,8,9,1,6,93,47,31,19,14,8,14,40,860,297,107
-2001-560,US Open,Hard,128,G,20010827,7,102925,,Q,Justin Gimelstob,R,196,USA,24.5,103420,,,Michal Tabara,R,175,CZE,22.0,6-4 3-6 4-6 4-6 6-2,5,R128,202,8,14,140,73,50,31,24,8,15,7,11,158,78,45,41,23,7,17,174,218,50,723
+2001-560,US Open,Hard,128,G,20010827,7,102925,,Q,Justin Gimelstob,R,196,USA,24.5,103420,,,Michal Tabara,R,175,CZE,22.0,6-4 3-6 4-6 6-4 6-2,5,R128,202,8,14,140,73,50,31,24,8,15,7,11,158,78,45,41,23,7,17,174,218,50,723
 2001-560,US Open,Hard,128,G,20010827,8,101964,15,,Goran Ivanisevic,L,193,CRO,29.9,103204,,WC,Hugo Armando,R,183,USA,23.2,6-4 6-4 6-3,5,R128,98,25,9,92,48,40,21,14,3,5,3,4,84,51,36,13,15,4,9,16,1491,115,354
 2001-560,US Open,Hard,128,G,20010827,9,103096,12,,Arnaud Clement,R,173,FRA,23.6,102869,,,Galo Blanco,R,173,ESP,24.8,6-2 4-6 6-3 6-4,5,R128,165,13,5,131,74,52,31,19,3,6,5,5,140,87,55,24,18,12,18,12,1835,45,780
 2001-560,US Open,Hard,128,G,20010827,10,101733,,,Jan Siemerink,L,183,NED,31.3,103181,,,Jiri Vanek,R,185,CZE,23.3,7-6(5) 4-6 6-0 6-4,5,R128,161,27,12,134,61,46,38,19,6,11,10,5,124,72,46,25,19,7,15,96,410,94,416
@@ -3100,7 +3100,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-D029,Davis Cup G2 QF: KUW vs LIB,Hard,4,D,20010209,4,108617,,,Hussain Al Ashwak,U,,KUW,24.4,108618,,,Karim Alayli,R,,LIB,17.8,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2001-D029,Davis Cup G2 QF: KUW vs LIB,Hard,4,D,20010209,5,108619,,,Jad Ayoub,U,,LIB,17.7,108620,,,Adel Al Shatti,U,,KUW,28.4,6-2 3-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2001-D030,Davis Cup G2 QF: HKG vs IRI,Hard,4,D,20010209,1,101895,,,Michael Brown B395,R,175,AUS,29.8,103875,,,Anoosha Shahgholi,U,,IRI,19.2,6-1 6-7(5) 6-3 4-0 RET,5,RR,,,,,,,,,,,,,,,,,,,,,,,
-2001-D030,Davis Cup G2 QF: HKG vs IRI,Hard,4,D,20010209,2,108593,,,Wing Luen Wong,U,,HKG,19.8,108596,,,Ramin Raziyani,U,,IRI,26.8,6-2 7-6(6) 6-7(2) 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,,
+2001-D030,Davis Cup G2 QF: HKG vs IRI,Hard,4,D,20010209,2,108593,,,Wing Luen Wong,U,,HKG,19.8,108596,,,Ramin Raziyani,R,,IRI,26.8,6-2 7-6(6) 6-7(2) 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 2001-D030,Davis Cup G2 QF: HKG vs IRI,Hard,4,D,20010209,4,103050,,,Shahab Hassani Nafez,R,,IRI,23.3,103102,,,John Hui,R,,HKG,23.0,7-5 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2001-D030,Davis Cup G2 QF: HKG vs IRI,Hard,4,D,20010209,5,108593,,,Wing Luen Wong,U,,HKG,19.8,108621,,,Seyed Akbar Taheri Rahaghi,U,,IRI,27.2,6-3 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2001-D031,Davis Cup G2 QF: SYR vs MAS,Hard,4,D,20010209,1,101662,,,Selvam Veerasingam,R,,MAS,31.2,108622,,,Samir Saadeldin,U,,SYR,24.2,7-5 6-4 2-6 6-3,5,RR,,,,,,,,,,,,,,,,,,,,,,,
@@ -3175,9 +3175,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2001-D048,Davis Cup G2 PO: PAR vs DOM,Clay,4,D,20010406,2,102887,,,Ramon Delgado,R,185,PAR,24.3,108634,,,Rodrigo Vallejo,U,,DOM,27.0,6-2 6-4 6-0,5,RR,,,,,,,,,,,,,,,,,,,,219,166,,
 2001-D048,Davis Cup G2 PO: PAR vs DOM,Clay,4,D,20010406,4,108615,,,Genaro Deleon,U,,DOM,30.2,108635,,,Juan Pablo Barboza,U,,PAR,21.9,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2001-D048,Davis Cup G2 PO: PAR vs DOM,Clay,4,D,20010406,5,103607,,,Victor Estrella,R,173,DOM,20.6,104258,,,Juan Enrique Crosa,R,,PAR,17.4,3-6 7-5 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2001-D049,Davis Cup G2 PO: KUW vs IRI,Hard,4,D,20010406,1,108596,,,Ramin Raziyani,U,,IRI,26.9,108617,,,Hussain Al Ashwak,U,,KUW,24.6,7-5 7-6(5) 3-6 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
+2001-D049,Davis Cup G2 PO: KUW vs IRI,Hard,4,D,20010406,1,108596,,,Ramin Raziyani,R,,IRI,26.9,108617,,,Hussain Al Ashwak,U,,KUW,24.6,7-5 7-6(5) 3-6 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 2001-D049,Davis Cup G2 PO: KUW vs IRI,Hard,4,D,20010406,2,103600,,,Mohammad Ghareeb,R,,KUW,20.6,103875,,,Anoosha Shahgholi,U,,IRI,19.3,6-1 6-2 7-5,5,RR,,,,,,,,,,,,,,,,,,,,,,,
-2001-D049,Davis Cup G2 PO: KUW vs IRI,Hard,4,D,20010406,4,103600,,,Mohammad Ghareeb,R,,KUW,20.6,108596,,,Ramin Raziyani,U,,IRI,26.9,6-4 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
+2001-D049,Davis Cup G2 PO: KUW vs IRI,Hard,4,D,20010406,4,103600,,,Mohammad Ghareeb,R,,KUW,20.6,108596,,,Ramin Raziyani,R,,IRI,26.9,6-4 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 2001-D049,Davis Cup G2 PO: KUW vs IRI,Hard,4,D,20010406,5,108617,,,Hussain Al Ashwak,U,,KUW,24.6,103875,,,Anoosha Shahgholi,U,,IRI,19.3,7-6(7) 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2001-D050,Davis Cup G2 PO: SYR vs PAK,Hard,4,D,20010406,1,103529,,,Aisam Ul Haq Qureshi,R,183,PAK,21.0,108622,,,Samir Saadeldin,U,,SYR,24.3,6-1 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,,275,119,,
 2001-D050,Davis Cup G2 PO: SYR vs PAK,Hard,4,D,20010406,2,103499,,,Aqeel Khan,R,,PAK,21.1,108623,,,Rabi Bouhassoun,R,,SYR,22.5,6-7(4) 6-3 6-3 7-6(5),5,RR,,,,,,,,,,,,,,,,,,,,,,,
