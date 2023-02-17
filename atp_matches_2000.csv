@@ -821,7 +821,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-402,Memphis,Hard,48,A,20000214,11,101675,,,Martin Rodriguez,R,178,ARG,30.1,102925,,,Justin Gimelstob,R,196,USA,23.0,7-6(4) 7-6(3),3,R64,109,9,3,78,43,33,23,12,6,7,6,1,83,56,40,16,12,5,6,127,297,95,422
 2000-402,Memphis,Hard,48,A,20000214,12,101185,,WC,Mark Woodforde,L,188,AUS,34.3,103031,,,Julian Alonso,R,185,ESP,22.5,6-4 6-2,3,R64,74,4,3,59,38,28,8,9,5,7,3,6,72,44,25,11,9,11,16,125,300,116,341
 2000-402,Memphis,Hard,48,A,20000214,13,102880,,,Alexander Popp,R,201,GER,23.2,102494,,,Tomas Behrend,R,193,GER,25.1,6-1 7-5,3,R64,69,3,3,59,35,24,14,9,4,6,0,4,70,43,22,11,10,5,11,109,358,100,390
-2000-402,Memphis,Hard,48,A,20000214,14,102821,,,Cecil Mamiit,R,173,PHI,23.6,101263,,WC,Luke Jensen,U,190,USA,33.6,7-5 6-2,3,R64,63,7,3,49,28,22,13,10,0,2,1,5,64,36,22,10,10,1,6,135,283,,
+2000-402,Memphis,Hard,48,A,20000214,14,102821,,,Cecil Mamiit,R,173,PHI,23.6,101263,,WC,Luke Jensen,A,190,USA,33.6,7-5 6-2,3,R64,63,7,3,49,28,22,13,10,0,2,1,5,64,36,22,10,10,1,6,135,283,,
 2000-402,Memphis,Hard,48,A,20000214,15,101191,,Q,Richey Reneberg,R,180,USA,34.3,102834,,,Paul Goldstein,R,178,USA,23.5,6-4 6-2,3,R64,71,5,1,60,28,22,20,9,4,4,4,4,57,36,22,12,9,3,6,204,165,94,425
 2000-402,Memphis,Hard,48,A,20000214,16,102269,,Q,Jeff Salzenstein,L,185,USA,26.3,102966,,,Fredrik Jonsson,R,193,SWE,22.8,7-6 6-1(4),3,R64,91,17,2,79,44,35,20,11,4,4,3,1,57,36,25,15,10,0,1,596,26,122,320
 2000-402,Memphis,Hard,48,A,20000214,17,102882,1,,Mark Philippoussis,R,196,AUS,23.2,102053,,Q,Brian Macphie,L,180,USA,27.7,6-2 6-4,3,R32,67,15,3,61,33,29,13,9,4,4,13,1,57,33,22,12,9,5,8,16,1349,419,59
@@ -1418,10 +1418,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-421,Canada Masters,Hard,64,M,20000731,11,102344,,,Karol Kucera,R,188,SVK,26.4,102872,,LL,James Sekulov,R,180,AUS,23.7,6-4 6-4,3,R64,82,9,3,55,32,29,11,10,2,3,1,2,65,43,29,9,10,4,7,46,792,196,181
 2000-421,Canada Masters,Hard,64,M,20000731,12,102158,14,,Patrick Rafter,R,185,AUS,27.5,103157,,LL,Arvind Parmar,R,193,GBR,22.3,6-1 4-6 6-3,3,R64,92,3,4,71,51,39,10,13,1,3,7,2,83,42,30,17,13,1,6,15,1496,148,261
 2000-421,Canada Masters,Hard,64,M,20000731,13,103017,11,,Nicolas Kiefer,R,183,GER,23.0,101774,,,Todd Martin,R,198,USA,30.0,6-1 7-5,3,R64,77,5,2,64,38,28,13,10,6,8,2,5,58,38,21,8,9,5,10,12,1664,30,1017
-2000-421,Canada Masters,Hard,64,M,20000731,14,102562,,,Jiri Novak,R,190,CZE,25.3,101792,,,Slava Dosedel,R,183,CZE,29.9,7-6(4) 6-2,3,R64,76,1,2,71,53,40,8,11,1,3,2,4,71,41,23,18,10,5,8,55,733,56,723
+2000-421,Canada Masters,Hard,64,M,20000731,14,102562,,,Jiri Novak,R,190,CZE,25.3,101792,,,Slava Dosedel,R,183,CZE,29.9,7-6(4) 6-3,3,R64,76,1,2,71,53,40,8,11,1,3,2,4,71,41,23,18,10,5,8,55,733,56,723
 2000-421,Canada Masters,Hard,64,M,20000731,15,102776,,,Andrew Ilie,R,180,AUS,24.2,101820,,,Marc Rosset,R,201,SUI,29.7,7-6(3) 6-4,3,R64,100,3,1,81,46,33,24,11,5,5,8,8,83,47,34,18,11,8,9,48,785,28,1038
 2000-421,Canada Masters,Hard,64,M,20000731,16,102358,6,,Thomas Enqvist,R,190,SWE,26.3,102854,,,Sjeng Schalken,R,193,NED,23.8,7-5 6-4,3,R64,102,7,5,59,35,26,13,11,1,3,6,12,86,46,32,14,11,9,13,7,2040,52,750
-2000-421,Canada Masters,Hard,64,M,20000731,17,102338,5,,Yevgeny Kafelnikov,R,190,RUS,26.4,102950,,,Fernando Vicente,R,180,ESP,23.3,6-4 3-6 7-6(0),3,R64,151,10,6,126,77,46,25,17,13,20,11,5,139,95,54,19,16,12,18,5,2959,51,762
+2000-421,Canada Masters,Hard,64,M,20000731,17,102338,5,,Yevgeny Kafelnikov,R,190,RUS,26.4,102950,,,Fernando Vicente,R,180,ESP,23.3,7-5 3-6 7-6(0),3,R64,151,10,6,126,77,46,25,17,13,20,11,5,139,95,54,19,16,12,18,5,2959,51,762
 2000-421,Canada Masters,Hard,64,M,20000731,18,103018,,,Max Mirnyi,R,196,BLR,23.0,102780,,WC,Frederic Niemeyer,R,190,CAN,24.2,6-7(4) 6-3 6-3,3,R64,105,14,2,88,58,46,20,15,3,3,19,16,99,52,47,19,15,4,7,62,678,277,114
 2000-421,Canada Masters,Hard,64,M,20000731,19,103292,,,Gaston Gaudio,R,175,ARG,21.6,101543,,,Jeff Tarango,L,180,USA,31.6,7-6(3) 7-5,3,R64,94,6,3,75,38,28,19,12,1,4,5,9,80,47,31,12,12,0,4,25,1074,80,540
 2000-421,Canada Masters,Hard,64,M,20000731,20,103507,12,,Juan Carlos Ferrero,R,183,ESP,20.4,102110,,WC,Daniel Nestor,L,190,CAN,27.9,6-7(5) 7-5 6-4,3,R64,134,11,2,101,64,49,24,17,4,5,10,5,112,75,52,23,17,5,8,13,1559,203,172
@@ -1440,7 +1440,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-421,Canada Masters,Hard,64,M,20000731,33,102259,,,Jerome Golmard,L,188,FRA,26.8,103387,,Q,Paradorn Srichaphan,R,185,THA,21.1,6-3 6-2,3,R32,66,4,2,54,28,26,13,9,4,4,5,2,58,36,20,9,8,3,6,61,683,98,430
 2000-421,Canada Masters,Hard,64,M,20000731,34,102701,,,Marcelo Rios,L,175,CHI,24.5,103096,,,Arnaud Clement,R,173,FRA,22.6,6-4 7-6(5),3,R32,99,13,6,85,47,33,20,11,3,5,8,3,82,45,35,16,11,4,7,22,1243,50,764
 2000-421,Canada Masters,Hard,64,M,20000731,35,103248,,Q,Harel Levy,R,185,ISR,21.9,102905,,,Stefan Koubek,L,175,AUT,23.5,6-1 6-3,3,R32,51,2,1,41,18,14,16,8,2,3,2,2,47,30,16,5,8,1,6,144,278,47,791
-2000-421,Canada Masters,Hard,64,M,20000731,36,103206,,,Sebastien Grosjean,R,175,FRA,22.1,103720,7,,Lleyton Hewitt,R,180,AUS,19.4,7-6 6-3(5),3,R32,94,8,2,67,32,27,21,10,3,4,7,7,73,29,24,20,11,3,6,27,1058,10,1945
+2000-421,Canada Masters,Hard,64,M,20000731,36,103206,,,Sebastien Grosjean,R,175,FRA,22.1,103720,7,,Lleyton Hewitt,R,180,AUS,19.4,6-3 7-6(5),3,R32,94,8,2,67,32,27,21,10,3,4,7,7,73,29,24,20,11,3,6,27,1058,10,1945
 2000-421,Canada Masters,Hard,64,M,20000731,37,102205,,WC,Sebastien Lareau,R,183,CAN,27.2,102856,4,,Gustavo Kuerten,R,190,BRA,23.8,7-6(4) 6-4,3,R32,95,8,1,85,51,40,16,11,1,2,14,3,69,37,28,18,11,4,6,137,299,4,3118
 2000-421,Canada Masters,Hard,64,M,20000731,38,102158,14,,Patrick Rafter,R,185,AUS,27.5,102344,,,Karol Kucera,R,188,SVK,26.4,6-3 7-5,3,R32,74,4,2,57,34,30,15,11,0,0,2,6,66,44,33,9,10,4,6,15,1496,46,792
 2000-421,Canada Masters,Hard,64,M,20000731,39,102562,,,Jiri Novak,R,190,CZE,25.3,103017,11,,Nicolas Kiefer,R,183,GER,23.0,6-2 7-5,3,R32,91,2,1,60,33,23,17,10,2,3,3,1,74,41,22,19,10,8,12,55,733,12,1664
@@ -1464,7 +1464,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-421,Canada Masters,Hard,64,M,20000731,57,103248,,Q,Harel Levy,R,185,ISR,21.9,102259,,,Jerome Golmard,L,188,FRA,26.8,6-4 6-4,3,QF,82,7,0,52,34,28,13,10,0,0,5,1,65,45,32,9,10,2,4,144,278,61,683
 2000-421,Canada Masters,Hard,64,M,20000731,58,102562,,,Jiri Novak,R,190,CZE,25.3,102158,14,,Patrick Rafter,R,185,AUS,27.5,3-6 7-6(1) 6-2,3,QF,108,4,1,88,64,45,15,14,9,11,10,5,99,71,46,14,15,4,7,55,733,15,1496
 2000-421,Canada Masters,Hard,64,M,20000731,59,101965,,,Wayne Ferreira,R,185,RSA,28.8,102338,5,,Yevgeny Kafelnikov,R,190,RUS,26.4,6-3 7-6(1),3,QF,74,11,2,57,40,33,9,10,2,3,3,5,83,50,32,15,11,4,7,31,1014,5,2959
-2000-421,Canada Masters,Hard,64,M,20000731,60,103498,8,,Marat Safin,R,193,RUS,20.5,101948,2,,Pete Sampras,R,185,USA,28.9,6-4 3-6 7-6(10),3,QF,122,13,1,94,53,43,23,15,2,3,11,5,109,64,54,22,16,6,7,9,1951,2,3291
+2000-421,Canada Masters,Hard,64,M,20000731,60,103498,8,,Marat Safin,R,193,RUS,20.5,101948,2,,Pete Sampras,R,185,USA,28.9,6-4 3-6 7-6(8),3,QF,122,13,1,94,53,43,23,15,2,3,11,5,109,64,54,22,16,6,7,9,1951,2,3291
 2000-421,Canada Masters,Hard,64,M,20000731,61,103248,,Q,Harel Levy,R,185,ISR,21.9,102562,,,Jiri Novak,R,190,CZE,25.3,6-3 1-6 6-4,3,SF,100,2,1,86,56,40,8,13,10,15,0,3,91,58,36,15,13,10,15,144,278,55,733
 2000-421,Canada Masters,Hard,64,M,20000731,62,103498,8,,Marat Safin,R,193,RUS,20.5,101965,,,Wayne Ferreira,R,185,RSA,28.8,6-2 5-7 6-4,3,SF,113,5,0,76,35,27,26,15,1,5,4,5,102,51,30,24,15,7,13,9,1951,31,1014
 2000-421,Canada Masters,Hard,64,M,20000731,63,103498,8,,Marat Safin,R,193,RUS,20.5,103248,,Q,Harel Levy,R,185,ISR,21.9,6-2 6-3,3,F,54,3,0,48,23,19,17,9,4,5,3,3,45,27,15,7,8,2,6,9,1951,144,278
@@ -3073,7 +3073,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-D008,Davis Cup G1 SF: PER vs ECU,Clay,4,D,20000406,1,103632,,,Luis Horna,R,180,PER,19.5,104117,,,Giovanni Lapentti,R,193,ECU,17.1,2-6 6-3 6-4 6-1,5,RR,,,,,,,,,,,,,,,,,,,,188,195,989,5
 2000-D008,Davis Cup G1 SF: PER vs ECU,Clay,4,D,20000406,2,102839,,,Nicolas Lapentti,R,188,ECU,23.6,103525,,,Ivan Miranda,R,175,PER,20.0,6-1 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,,7,1945,744,14
 2000-D008,Davis Cup G1 SF: PER vs ECU,Clay,4,D,20000406,4,102839,,,Nicolas Lapentti,R,188,ECU,23.6,103632,,,Luis Horna,R,180,PER,19.5,4-6 6-2 7-5 6-7(2) 6-3,5,RR,,,,,,,,,,,,,,,,,,,,7,1945,188,195
-2000-D008,Davis Cup G1 SF: PER vs ECU,Clay,4,D,20000406,5,102192,,,Luis Adrian Morejon,R,178,ECU,27.0,108585,,,Americo Venero Montes,U,175,PER,28.1,6-3 3-6 6-2 6-1,5,RR,,,,,,,,,,,,,,,,,,,,278,111,,
+2000-D008,Davis Cup G1 SF: PER vs ECU,Clay,4,D,20000406,5,102192,,,Luis Adrian Morejon,R,178,ECU,27.0,108585,,,Americo Venero Montes,L,175,PER,28.1,6-3 3-6 6-2 6-1,5,RR,,,,,,,,,,,,,,,,,,,,278,111,,
 2000-D009,Davis Cup G1 SF: UZB vs NZL,Hard,4,D,20000407,1,102957,,,Vadim Kutsenko,R,180,RUS,23.0,103066,,,Mark Nielsen,R,185,NZL,22.4,7-6(3) 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,168,219,216,159
 2000-D009,Davis Cup G1 SF: UZB vs NZL,Hard,4,D,20000407,2,102087,,,Oleg Ogorodov,R,193,UZB,27.7,102131,,,Alistair Hunt,R,190,NZL,27.3,7-6(2) 6-2 6-7(4) 7-5,5,RR,,,,,,,,,,,,,,,,,,,,153,246,774,12
 2000-D009,Davis Cup G1 SF: UZB vs NZL,Hard,4,D,20000407,4,103066,,,Mark Nielsen,R,185,NZL,22.4,102087,,,Oleg Ogorodov,R,193,UZB,27.7,6-2 1-6 7-5,3,RR,,,,,,,,,,,,,,,,,,,,216,159,153,246
@@ -3159,8 +3159,8 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-D029,Davis Cup G2 PO: HKG vs KAZ,Hard,4,D,20000407,4,103612,,,Alexey Kedryuk,R,193,KAZ,19.6,102537,,,Melvin Tong,R,,HKG,25.1,6-3 3-6 6-1 3-6 6-2,5,RR,,,,,,,,,,,,,,,,,,,,1213,2,1312,1
 2000-D029,Davis Cup G2 PO: HKG vs KAZ,Hard,4,D,20000407,5,108593,,,Wing Luen Wong,U,,HKG,19.0,108592,,,Pavel Baranov,R,,KAZ,19.4,6-4 4-6 7-6(5) 6-2,5,RR,,,,,,,,,,,,,,,,,,,,1312,1,,
 2000-D030,Davis Cup G2 PO: PHI vs IRI,Clay,4,D,20000317,1,108594,,,Johnny Arcilla,U,,PHI,20.0,108595,,,Mohammed Reza Tavakoli,U,,IRI,28.2,6-3 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,,,,,
-2000-D030,Davis Cup G2 PO: PHI vs IRI,Clay,4,D,20000317,2,108596,,,Ramin Raziyani,U,,IRI,25.9,108597,,,Adelo Abadia,U,,PHI,22.8,7-6(7) 7-6(4) 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,,
-2000-D030,Davis Cup G2 PO: PHI vs IRI,Clay,4,D,20000317,4,108596,,,Ramin Raziyani,U,,IRI,25.9,108594,,,Johnny Arcilla,U,,PHI,20.0,6-4 6-4 7-6(5),5,RR,,,,,,,,,,,,,,,,,,,,,,,
+2000-D030,Davis Cup G2 PO: PHI vs IRI,Clay,4,D,20000317,2,108596,,,Ramin Raziyani,R,,IRI,25.9,108597,,,Adelo Abadia,U,,PHI,22.8,7-6(7) 7-6(4) 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,,
+2000-D030,Davis Cup G2 PO: PHI vs IRI,Clay,4,D,20000317,4,108596,,,Ramin Raziyani,R,,IRI,25.9,108594,,,Johnny Arcilla,U,,PHI,20.0,6-4 6-4 7-6(5),5,RR,,,,,,,,,,,,,,,,,,,,,,,
 2000-D030,Davis Cup G2 PO: PHI vs IRI,Clay,4,D,20000317,5,103875,,,Anoosha Shahgholi,U,,IRI,18.3,108598,,,Rolando Ruel,U,,PHI,22.0,4-6 6-3 6-3 6-1,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 2000-D031,Davis Cup G2 R1: LAT vs CRO,Carpet,4,D,20000428,1,101964,,,Goran Ivanisevic,L,193,CRO,28.6,100943,,,Girts Dzelde,R,173,LAT,36.7,6-1 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,62,648,,
 2000-D031,Davis Cup G2 R1: LAT vs CRO,Carpet,4,D,20000428,2,103344,,,Ivan Ljubicic,R,193,CRO,21.1,106536,,,Andres Filimonov,R,,LAT,31.9,7-6(0) 7-6(6) 6-4,5,RR,,,,,,,,,,,,,,,,,,,,84,481,,
@@ -3281,7 +3281,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-D061,Davis Cup WG R1: SVK vs AUT,Hard,4,D,20000204,2,103103,,,Dominik Hrbaty,R,183,SVK,22.0,102905,,,Stefan Koubek,L,175,AUT,23.0,6-4 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,20,1197,40,866
 2000-D061,Davis Cup WG R1: SVK vs AUT,Hard,4,D,20000204,4,102905,,,Stefan Koubek,L,175,AUT,23.0,102466,,,Jan Kroslak,R,188,SVK,25.2,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,40,866,114,345
 2000-D061,Davis Cup WG R1: SVK vs AUT,Hard,4,D,20000204,5,103182,,,Markus Hipfl,R,178,AUT,21.7,103281,,,Ladislav Svarc,R,188,SVK,21.2,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,76,533,341,86
-2000-D062,Davis Cup G1 QF: PER vs BAH,Clay,4,D,20000204,1,108585,,,Americo Venero Montes,U,175,PER,27.9,101956,,,Mark Knowles,R,190,BAH,28.4,6-4 6-4 3-6 3-1 RET,5,RR,,,,,,,,,,,,,,,,,,,,,,221,150
+2000-D062,Davis Cup G1 QF: PER vs BAH,Clay,4,D,20000204,1,108585,,,Americo Venero Montes,L,175,PER,27.9,101956,,,Mark Knowles,R,190,BAH,28.4,6-4 6-4 3-6 3-1 RET,5,RR,,,,,,,,,,,,,,,,,,,,,,221,150
 2000-D062,Davis Cup G1 QF: PER vs BAH,Clay,4,D,20000204,2,103632,,,Luis Horna,R,180,PER,19.3,102076,,,Mark Merklein,R,188,BAH,27.5,6-4 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,186,191,897,7
 2000-D062,Davis Cup G1 QF: PER vs BAH,Clay,4,D,20000204,4,103632,,,Luis Horna,R,180,PER,19.3,101956,,,Mark Knowles,R,190,BAH,28.4,6-2 2-6 6-4 3-1 RET,5,RR,,,,,,,,,,,,,,,,,,,,186,191,221,150
 2000-D062,Davis Cup G1 QF: PER vs BAH,Clay,4,D,20000204,5,103525,,,Ivan Miranda,R,175,PER,19.8,108661,,,Dentry Mortimer,U,,BAH,17.5,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,756,13,,
@@ -3339,9 +3339,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-D076,Davis Cup G1 QF: IND vs LIB,Grass,4,D,20000204,2,102467,,,Fazaluddin Syed,R,,IND,25.2,102812,,,Jicham Zaatini,R,,LIB,23.6,6-4 3-6 7-5 7-6(3),5,RR,,,,,,,,,,,,,,,,,,,,435,56,577,29
 2000-D076,Davis Cup G1 QF: IND vs LIB,Grass,4,D,20000204,4,102233,,,Leander Paes,R,178,IND,26.6,102812,,,Jicham Zaatini,R,,LIB,23.6,6-3 6-1 6-4,5,RR,,,,,,,,,,,,,,,,,,,,122,326,577,29
 2000-D076,Davis Cup G1 QF: IND vs LIB,Grass,4,D,20000204,5,102448,,,Ali Hamadeh,R,,LIB,25.4,102467,,,Fazaluddin Syed,R,,IND,25.2,2-6 7-5 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,435,56
-2000-D077,Davis Cup G2 QF: MAS vs IRI,Hard,4,D,20000204,1,108596,,,Ramin Raziyani,U,,IRI,25.8,108624,,,Hazuan Hizan,U,,MAS,21.7,6-2 6-2 6-1,5,RR,,,,,,,,,,,,,,,,,,,,,,,
+2000-D077,Davis Cup G2 QF: MAS vs IRI,Hard,4,D,20000204,1,108596,,,Ramin Raziyani,R,,IRI,25.8,108624,,,Hazuan Hizan,U,,MAS,21.7,6-2 6-2 6-1,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 2000-D077,Davis Cup G2 QF: MAS vs IRI,Hard,4,D,20000204,2,101662,,,Selvam Veerasingam,R,,MAS,30.2,108621,,,Seyed Akbar Taheri Rahaghi,U,,IRI,26.2,5-7 7-6(4) 6-4 4-6 7-5,5,RR,,,,,,,,,,,,,,,,,,,,,,,
-2000-D077,Davis Cup G2 QF: MAS vs IRI,Hard,4,D,20000204,4,101662,,,Selvam Veerasingam,R,,MAS,30.2,108596,,,Ramin Raziyani,U,,IRI,25.8,6-4 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
+2000-D077,Davis Cup G2 QF: MAS vs IRI,Hard,4,D,20000204,4,101662,,,Selvam Veerasingam,R,,MAS,30.2,108596,,,Ramin Raziyani,R,,IRI,25.8,6-4 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 2000-D077,Davis Cup G2 QF: MAS vs IRI,Hard,4,D,20000204,5,108624,,,Hazuan Hizan,U,,MAS,21.7,108621,,,Seyed Akbar Taheri Rahaghi,U,,IRI,26.2,6-4 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 2000-D078,Davis Cup G1 QF: JPN vs KOR,Carpet,4,D,20000204,1,102703,,,Hyung Taik Lee,R,180,KOR,24.0,102982,,,Yaoki Ishii,R,,JPN,22.7,4-6 4-6 6-2 6-1 10-8,5,RR,,,,,,,,,,,,,,,,,,,,197,178,210,159
 2000-D078,Davis Cup G1 QF: JPN vs KOR,Carpet,4,D,20000204,2,102300,,,Gouichi Motomura,R,173,JPN,26.0,102263,,,Yong Il Yoon,R,175,KOR,26.3,6-3 4-6 6-4 2-6 6-3,5,RR,,,,,,,,,,,,,,,,,,,,150,252,366,76
@@ -3350,7 +3350,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-D079,Davis Cup G2 QF: KAZ vs TPE,Hard,4,D,20000204,1,103659,,,Wei Jen Cheng,R,,TPE,19.1,108592,,,Pavel Baranov,R,,KAZ,19.2,6-4 6-4 4-6 7-5,5,RR,,,,,,,,,,,,,,,,,,,,835,10,,
 2000-D079,Davis Cup G2 QF: KAZ vs TPE,Hard,4,D,20000204,2,102277,,,Bing Chao Lin,R,180,TPE,26.2,103612,,,Alexey Kedryuk,R,193,KAZ,19.4,6-7(5) 6-1 6-4 5-7 6-4,5,RR,,,,,,,,,,,,,,,,,,,,1078,3,1207,2
 2000-D079,Davis Cup G2 QF: KAZ vs TPE,Hard,4,D,20000204,4,103612,,,Alexey Kedryuk,R,193,KAZ,19.4,103659,,,Wei Jen Cheng,R,,TPE,19.1,7-5 6-2,3,RR,,,,,,,,,,,,,,,,,,,,1207,2,835,10
-2000-D079,Davis Cup G2 QF: KAZ vs TPE,Hard,4,D,20000204,5,102543,,,Chia Yen Tsai,R,,TPE,24.9,104348,,,Dias Doskarayev,U,,KAZ,15.8,4-6 7-5 6-1,3,RR,,,,,,,,,,,,,,,,,,,,1304,1,,
+2000-D079,Davis Cup G2 QF: KAZ vs TPE,Hard,4,D,20000204,5,102543,,,Chia Yen Tsai,R,,TPE,24.9,104348,,,Dias Doskarayev,R,,KAZ,15.8,4-6 7-5 6-1,3,RR,,,,,,,,,,,,,,,,,,,,1304,1,,
 2000-D080,Davis Cup G1 QF: NZL vs THA,Hard,4,D,20000204,1,103066,,,Mark Nielsen,R,185,NZL,22.3,103821,,,Danai Udomchoke,R,173,THA,18.4,6-1 6-1 6-3,5,RR,,,,,,,,,,,,,,,,,,,,236,140,284,109
 2000-D080,Davis Cup G1 QF: NZL vs THA,Hard,4,D,20000204,2,102131,,,Alistair Hunt,R,190,NZL,27.2,103387,,,Paradorn Srichaphan,R,185,THA,20.6,7-6(6) 7-6(7) 3-6 6-1,5,RR,,,,,,,,,,,,,,,,,,,,772,12,94,426
 2000-D080,Davis Cup G1 QF: NZL vs THA,Hard,4,D,20000204,4,103066,,,Mark Nielsen,R,185,NZL,22.3,102714,,,Ekkarin Pisuth Arnonth,R,,THA,24.0,6-2 7-5,3,RR,,,,,,,,,,,,,,,,,,,,236,140,920,6
