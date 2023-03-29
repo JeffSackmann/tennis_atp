@@ -98,7 +98,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-1539,Leon CH,Hard,32,C,20020401,4,102652,,,Christian Vinck,L,183,GER,26.5,103228,8,,Marcos Daniel,R,180,BRA,23.7,6-1 5-7 7-5,3,R32,,,,,,,,,,,,,,,,,,,,201,177,193,185
 2002-1539,Leon CH,Hard,32,C,20020401,5,102565,,,Alexander Waske,R,188,GER,27.0,103204,3,,Hugo Armando,R,183,USA,23.8,6-7(5) 5-4 RET,3,R32,,,,,,,,,,,,,,,,,,,,203,176,122,340
 2002-1539,Leon CH,Hard,32,C,20020401,6,102538,,,Tuomas Ketola,R,185,FIN,27.1,103637,,Q,Marcelo Amador,U,,MEX,21.5,6-7(3) 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,262,134,533,38
-2002-1539,Leon CH,Hard,32,C,20020401,7,102381,,,Werner Eschauer,R,188,AUT,27.9,104200,,WC,Juan Manuel Elizondo,U,180,MEX,18.8,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,229,155,1371,1
+2002-1539,Leon CH,Hard,32,C,20020401,7,102381,,,Werner Eschauer,R,188,AUT,27.9,104200,,WC,Juan Manuel Elizondo,A,180,MEX,18.8,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,229,155,1371,1
 2002-1539,Leon CH,Hard,32,C,20020401,8,102965,6,,Jamie Delgado,R,178,GBR,25.0,104136,,WC,Santiago Gonzalez,R,190,MEX,19.0,3-6 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,157,248,627,24
 2002-1539,Leon CH,Hard,32,C,20020401,9,103737,5,,Edgardo Massa,R,180,ARG,21.0,103373,,,Sergio Roitman,R,185,ARG,22.8,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,136,305,220,161
 2002-1539,Leon CH,Hard,32,C,20020401,10,103264,,WC,Mariano Puerta,L,180,ARG,23.5,103746,,,Miguel Gallardo Valles,R,,MEX,20.9,6-2 1-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,222,158,249,142
@@ -435,7 +435,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-1631,Nottingham CH,Clay,32,C,20021028,31,103153,,,Gilles Elseneer,R,188,BEL,24.6,103157,,,Arvind Parmar,R,193,GBR,24.6,7-5 6-2,3,F,,,,,,,,,,,,,,,,,,,,197,177,194,181
 2002-1632,Reunion Island CH,Hard,32,C,20021028,1,102925,1,,Justin Gimelstob,R,196,USA,25.7,103467,,,Victor Bruthans,R,,SVK,22.9,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,104,381,549,32
 2002-1632,Reunion Island CH,Hard,32,C,20021028,2,103573,,,Rik De Voest,R,180,RSA,22.3,103679,,,Jeroen Masson,R,,BEL,21.8,6-4 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,232,135,290,96
-2002-1632,Reunion Island CH,Hard,32,C,20021028,3,102768,,,Federico Browne,R,180,ARG,26.5,109375,,WC,Frederic Hoarau,U,,FRA,,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,297,94,,
+2002-1632,Reunion Island CH,Hard,32,C,20021028,3,102768,,,Federico Browne,R,180,ARG,26.5,109375,,WC,Frederic Hoarau,U,,FRA,26.4,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,297,94,,
 2002-1632,Reunion Island CH,Hard,32,C,20021028,4,103752,7,,Simon Greul,R,185,GER,21.5,102637,,WC,Julien Couly,R,,FRA,27.2,6-1 4-6 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,227,140,618,26
 2002-1632,Reunion Island CH,Hard,32,C,20021028,5,103505,3,,Vasilis Mazarakis,R,178,GRE,22.7,103986,,,Radoslav Lukaev,R,,BUL,20.5,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,167,222,238,130
 2002-1632,Reunion Island CH,Hard,32,C,20021028,6,103060,,,Alejandro Hernandez,R,180,MEX,25.0,103843,,,Marco Chiudinelli,R,185,SUI,21.1,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,295,95,282,102
@@ -443,7 +443,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-1632,Reunion Island CH,Hard,32,C,20021028,8,102864,,Q,Frank Moser,R,193,GER,26.0,103948,8,,Maximilian Abel,R,,GER,20.6,7-6(5) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,546,33,214,153
 2002-1632,Reunion Island CH,Hard,32,C,20021028,9,103564,6,,Jakub Herm Zahlava,R,,GER,22.4,101551,,Q,Carlos Gomez Diaz,R,,ARG,33.8,2-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,226,140,,
 2002-1632,Reunion Island CH,Hard,32,C,20021028,10,103098,,,Johan Du Randt,U,,RSA,24.8,109275,,WC,Yann Dupuy,R,,FRA,24.5,1-6 7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,331,79,1135,3
-2002-1632,Reunion Island CH,Hard,32,C,20021028,11,104143,,,Dirk Stegmann,R,,RSA,19.6,109376,,Q,Stephane Courtade,U,,FRA,,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,341,77,,
+2002-1632,Reunion Island CH,Hard,32,C,20021028,11,104143,,,Dirk Stegmann,R,,RSA,19.6,109376,,Q,Stephane Courtade,U,,FRA,28.6,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,341,77,,
 2002-1632,Reunion Island CH,Hard,32,C,20021028,12,103722,4,,Florent Serra,R,180,FRA,21.6,102900,,,Daniel Andersson,R,,SWE,25.8,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,216,152,280,102
 2002-1632,Reunion Island CH,Hard,32,C,20021028,13,103009,,,Razvan Sabau,R,185,ROU,25.3,103487,5,,Federico Luzzi,R,188,ITA,22.8,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,398,63,222,144
 2002-1632,Reunion Island CH,Hard,32,C,20021028,14,102968,,,Jonathan Erlich,R,180,ISR,25.5,103711,,,Jaroslav Levinsky,R,196,CZE,21.7,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,385,65,292,96
@@ -1810,8 +1810,8 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-552,Barcelona CH,Clay,32,C,20021007,11,103063,,,Sebastien De Chaunac,R,183,FRA,24.9,103202,,Q,Oscar Serrano,R,173,ESP,24.3,6-3 5-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,186,193,257,115
 2002-552,Barcelona CH,Clay,32,C,20021007,12,103324,3,,Arnaud Di Pasquale,R,185,FRA,23.6,103808,,,Potito Starace,R,188,ITA,21.2,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,105,385,197,184
 2002-552,Barcelona CH,Clay,32,C,20021007,13,103105,,,Ruben Ramirez Hidalgo,R,183,ESP,24.7,102869,8,,Galo Blanco,R,173,ESP,25.9,6-3 2-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,167,222,136,296
-2002-552,Barcelona CH,Clay,32,C,20021007,14,103125,,WC,Joan Jimenez Guerra,R,,AND,24.7,109525,,WC,Ivan Estevez,U,,ESP,,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,784,14,,
-2002-552,Barcelona CH,Clay,32,C,20021007,15,104019,,,Kristof Vliegen,R,193,BEL,20.2,109526,,WC,Marc Pijoan,U,,ESP,,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,155,239,,
+2002-552,Barcelona CH,Clay,32,C,20021007,14,103125,,WC,Joan Jimenez Guerra,R,,AND,24.7,109525,,WC,Ivan Estevez,U,,ESP,21.0,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,784,14,,
+2002-552,Barcelona CH,Clay,32,C,20021007,15,104019,,,Kristof Vliegen,R,193,BEL,20.2,109526,,WC,Marc Pijoan,U,,ESP,19.7,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,155,239,,
 2002-552,Barcelona CH,Clay,32,C,20021007,16,103632,2,,Luis Horna,R,180,PER,22.0,102234,,,Oliver Gross,R,185,GER,29.3,6-1 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,82,479,147,264
 2002-552,Barcelona CH,Clay,32,C,20021007,17,103656,1,,Albert Montanes,R,175,ESP,21.8,104043,,,Marc Lopez,R,175,ESP,20.1,0-6 6-4 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,76,501,199,182
 2002-552,Barcelona CH,Clay,32,C,20021007,18,104745,,Q,Rafael Nadal,L,185,ESP,16.3,102231,7,,Alex Calatrava,R,190,ESP,29.3,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,261,111,135,296
@@ -2117,7 +2117,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-589,Quito CH,Clay,32,C,20021007,8,103373,5,,Sergio Roitman,R,185,ARG,23.3,103065,,,Kepler Orellana,R,,VEN,24.9,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,188,193,342,78
 2002-589,Quito CH,Clay,32,C,20021007,9,102585,6,,Sebastian Prieto,R,180,ARG,27.3,102768,,,Federico Browne,R,180,ARG,26.4,7-6(2) 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,209,172,288,101
 2002-589,Quito CH,Clay,32,C,20021007,10,102693,,,Leonardo Olguin,R,,ARG,26.8,103493,,Q,Eduardo Bohrer,R,,BRA,22.7,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,236,136,413,58
-2002-589,Quito CH,Clay,32,C,20021007,11,102836,,,Rogier Wassen,R,190,NED,26.1,109518,,WC,Christopher Clayton,U,,USA,,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,292,100,,
+2002-589,Quito CH,Clay,32,C,20021007,11,102836,,,Rogier Wassen,R,190,NED,26.1,109518,,WC,Christopher Clayton,U,,USA,17.0,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,292,100,,
 2002-589,Quito CH,Clay,32,C,20021007,12,103525,4,,Ivan Miranda,R,175,PER,22.5,103590,,Q,Michael Quintero,R,,COL,22.2,0-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,174,214,291,100
 2002-589,Quito CH,Clay,32,C,20021007,13,103700,7,,Juan Pablo Guzman,L,178,ARG,21.6,108664,,WC,Martin Stiegwardt,U,,ECU,18.6,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,212,163,,
 2002-589,Quito CH,Clay,32,C,20021007,14,102811,,LL,Dusan Vemic,R,190,SRB,26.3,102192,,,Luis Adrian Morejon,R,178,ECU,29.5,7-6(4) 7-6(8),3,R32,,,,,,,,,,,,,,,,,,,,398,62,363,71
@@ -2461,7 +2461,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-659,Bukhara CH,Hard,32,C,20020930,11,103439,,WC,Dimitri Mazur,R,,UZB,23.0,102207,,,Jan Weinzierl,R,,GER,29.4,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,557,33,271,111
 2002-659,Bukhara CH,Hard,32,C,20020930,12,103505,3,,Vasilis Mazarakis,R,178,GRE,22.6,102504,,,Vitali Chvets,U,,BLR,27.7,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,190,188,613,27
 2002-659,Bukhara CH,Hard,32,C,20020930,13,103824,,,Orest Tereshchuk,R,,UKR,21.1,102669,6,,Noam Behr,L,188,ISR,26.9,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,383,68,247,129
-2002-659,Bukhara CH,Hard,32,C,20020930,14,104271,,Q,Philipp Mukhometov,R,,RUS,18.8,109122,,WC,Gafur Ishmatov,U,,UZB,,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,464,48,,
+2002-659,Bukhara CH,Hard,32,C,20020930,14,104271,,Q,Philipp Mukhometov,R,,RUS,18.8,109122,,WC,Gafur Ishmatov,U,,UZB,16.2,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,464,48,,
 2002-659,Bukhara CH,Hard,32,C,20020930,15,104180,,,Gilles Muller,L,193,LUX,19.3,103843,,,Marco Chiudinelli,R,185,SUI,21.0,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,262,115,263,115
 2002-659,Bukhara CH,Hard,32,C,20020930,16,104386,,,Janko Tipsarevic,R,180,SRB,18.2,103857,2,,Igor Kunitsyn,R,180,RUS,20.9,4-6 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,236,137,155,234
 2002-659,Bukhara CH,Hard,32,C,20020930,17,102770,1,,John Van Lottum,R,185,NED,26.4,103082,,,Markus Hantschk,R,188,GER,24.8,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,116,349,275,110
@@ -3069,7 +3069,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2002-754,Ljubljana CH,Clay,32,C,20020506,30,102607,4,,Juan Balcells,R,190,ESP,26.8,103737,,,Edgardo Massa,R,180,ARG,21.1,6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,126,318,122,325
 2002-754,Ljubljana CH,Clay,32,C,20020506,31,103324,,Q,Arnaud Di Pasquale,R,185,FRA,23.2,102607,4,,Juan Balcells,R,190,ESP,26.8,6-4 6-3,3,F,,,,,,,,,,,,,,,,,,,,369,80,126,318
 2002-755,Bangkok CH,Hard,32,C,20021202,1,103523,,WC,Rohan Bopanna,R,190,IND,22.7,102703,1,,Hyung Taik Lee,R,180,KOR,26.9,7-6(5) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,420,54,86,480
-2002-755,Bangkok CH,Hard,32,C,20021202,2,102864,,Q,Frank Moser,R,193,GER,26.1,109279,,WC,Anuwat Daladom,R,,THA,,4-6 6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,525,36,,
+2002-755,Bangkok CH,Hard,32,C,20021202,2,102864,,Q,Frank Moser,R,193,GER,26.1,109279,,WC,Anuwat Daladom,R,,THA,18.8,4-6 6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,525,36,,
 2002-755,Bangkok CH,Hard,32,C,20021202,3,104180,,,Gilles Muller,L,193,LUX,19.5,104229,,,Yen Hsun Lu,R,180,TPE,19.3,7-6(6) 6-7(17) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,262,108,192,179
 2002-755,Bangkok CH,Hard,32,C,20021202,4,102957,8,,Vadim Kutsenko,R,180,RUS,25.7,102763,,,Benjamin Cassaigne,L,185,FRA,26.6,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,187,192,324,84
 2002-755,Bangkok CH,Hard,32,C,20021202,5,102381,4,,Werner Eschauer,R,188,AUT,28.6,103082,,,Markus Hantschk,R,188,GER,25.0,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,154,244,306,92
