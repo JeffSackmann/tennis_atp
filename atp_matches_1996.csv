@@ -346,9 +346,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-D009,Davis Cup G1 QF: AUS vs TPE,Hard,4,D,19960209,1,101727,,,Jason Stoltenberg,R,185,AUS,25.8,102119,,,Chih Jung Chen,R,,TPE,23.3,6-1 6-2 7-6(1),5,RR,,,,,,,,,,,,,,,,,,,,81,588,706,16
 1996-D009,Davis Cup G1 QF: AUS vs TPE,Hard,4,D,19960209,2,101889,,,Todd Woodbridge,R,178,AUS,24.8,103170,,,Wei Ju Chen,R,,TPE,17.8,6-2 6-1 6-2,5,RR,,,,,,,,,,,,,,,,,,,,30,1034,1068,4
 1996-D012,Davis Cup G1 QF: BAH vs PER,Hard,4,D,19960209,1,101409,,,Jaime Yzaga,R,170,PER,28.2,100997,,,Roger Smith,R,185,BAH,32.0,4-6 6-3 6-7(5) 7-5 6-1,5,RR,,,,,,,,,,,,,,,,,,,,93,508,741,15
-1996-D012,Davis Cup G1 QF: BAH vs PER,Hard,4,D,19960209,2,101956,,,Mark Knowles,R,190,BAH,24.4,108585,,,Americo Venero Montes,U,175,PER,23.9,6-4 6-3 6-1,5,RR,,,,,,,,,,,,,,,,,,,,115,428,,
+1996-D012,Davis Cup G1 QF: BAH vs PER,Hard,4,D,19960209,2,101956,,,Mark Knowles,R,190,BAH,24.4,108585,,,Americo Venero Montes,L,175,PER,23.9,6-4 6-3 6-1,5,RR,,,,,,,,,,,,,,,,,,,,115,428,,
 1996-D012,Davis Cup G1 QF: BAH vs PER,Hard,4,D,19960209,4,101956,,,Mark Knowles,R,190,BAH,24.4,101409,,,Jaime Yzaga,R,170,PER,28.2,2-6 7-5 7-6(2) 6-3,5,RR,,,,,,,,,,,,,,,,,,,,115,428,93,508
-1996-D012,Davis Cup G1 QF: BAH vs PER,Hard,4,D,19960209,5,108585,,,Americo Venero Montes,U,175,PER,23.9,100997,,,Roger Smith,R,185,BAH,32.0,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,741,15
+1996-D012,Davis Cup G1 QF: BAH vs PER,Hard,4,D,19960209,5,108585,,,Americo Venero Montes,L,175,PER,23.9,100997,,,Roger Smith,R,185,BAH,32.0,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,741,15
 1996-D019,Davis Cup G1 QF: CHI vs BRA,Clay,4,D,19960209,1,101897,,,Fernando Meligeni,L,180,BRA,24.8,101430,,,Sergio Cortes,R,170,CHI,28.0,6-1 6-1 7-5,5,RR,,,,,,,,,,,,,,,,,,,,70,664,231,158
 1996-D019,Davis Cup G1 QF: CHI vs BRA,Clay,4,D,19960209,2,102701,,,Marcelo Rios,L,175,CHI,20.1,101761,,,Jaime Oncins,R,196,BRA,25.6,6-3 6-2 7-5,5,RR,,,,,,,,,,,,,,,,,,,,24,1164,225,169
 1996-D019,Davis Cup G1 QF: CHI vs BRA,Clay,4,D,19960209,4,102701,,,Marcelo Rios,L,175,CHI,20.1,101897,,,Fernando Meligeni,L,180,BRA,24.8,6-2 7-6(2) 6-3,5,RR,,,,,,,,,,,,,,,,,,,,24,1164,70,664
@@ -392,7 +392,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-D061,Davis Cup G2 QF: THA vs IRI,Hard,4,D,19960209,1,108532,,,Worapol Thongkamcho,R,,THA,28.0,100431,,,Mansour Bahrami,R,178,IRI,39.7,6-2 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1996-D061,Davis Cup G2 QF: THA vs IRI,Hard,4,D,19960209,2,101485,,,Tanakorn Srichaphan,R,,THA,27.7,108595,,,Mohammed Reza Tavakoli,U,,IRI,24.1,6-2 6-1 6-1,5,RR,,,,,,,,,,,,,,,,,,,,1278,1,,
 1996-D061,Davis Cup G2 QF: THA vs IRI,Hard,4,D,19960209,4,100431,,,Mansour Bahrami,R,178,IRI,39.7,101485,,,Tanakorn Srichaphan,R,,THA,27.7,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,1278,1
-1996-D061,Davis Cup G2 QF: THA vs IRI,Hard,4,D,19960209,5,108532,,,Worapol Thongkamcho,R,,THA,28.0,108596,,,Ramin Raziyani,U,,IRI,21.8,7-5 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1996-D061,Davis Cup G2 QF: THA vs IRI,Hard,4,D,19960209,5,108532,,,Worapol Thongkamcho,R,,THA,28.0,108596,,,Ramin Raziyani,R,,IRI,21.8,7-5 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1996-D053,Davis Cup G2 QF: URU vs GUA,Clay,4,D,19960209,1,101976,,,Federico Dondo,R,,URU,24.3,102246,,,Fernando Samayoa,R,,GUA,22.5,6-2 4-6 6-1 6-1,5,RR,,,,,,,,,,,,,,,,,,,,505,42,,
 1996-D053,Davis Cup G2 QF: URU vs GUA,Clay,4,D,19960209,2,101382,,,Marcelo Filippini,R,178,URU,28.5,108800,,,Alexander Lehnhoff,U,,GUA,19.0,6-3 6-2 6-0,5,RR,,,,,,,,,,,,,,,,,,,,100,481,,
 1996-D053,Davis Cup G2 QF: URU vs GUA,Clay,4,D,19960209,4,101382,,,Marcelo Filippini,R,178,URU,28.5,102246,,,Fernando Samayoa,R,,GUA,22.5,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,100,481,,
@@ -500,7 +500,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-424,San Jose,Hard,32,A,19960212,7,101727,,,Jason Stoltenberg,R,185,AUS,25.8,102169,,,Michael Joyce,R,180,USA,23.0,6-4 6-3,3,R32,59,1,4,47,28,23,11,9,1,2,3,1,54,28,15,14,9,3,7,83,558,84,549
 1996-424,San Jose,Hard,32,A,19960212,8,102882,5,,Mark Philippoussis,R,196,AUS,19.2,101789,,Q,Steve Bryan,R,178,USA,25.5,6-3 6-3,3,R32,72,8,5,67,40,30,10,9,6,8,0,4,56,35,22,5,9,1,6,27,1033,185,216
 1996-424,San Jose,Hard,32,A,19960212,9,102434,,,Vincent Spadea,R,183,USA,21.5,101601,6,,Brett Steven,R,185,NZL,26.7,3-1 RET,3,R32,20,1,0,12,8,7,2,2,0,0,0,0,13,10,4,2,3,0,1,100,473,32,964
-1996-424,San Jose,Hard,32,A,19960212,10,101196,,,Derrick Rostagno,R,185,USA,30.2,101263,,WC,Luke Jensen,U,190,USA,29.6,6-4 6-4,3,R32,66,2,0,57,38,28,10,10,2,3,1,1,73,49,32,10,10,5,8,112,433,379,74
+1996-424,San Jose,Hard,32,A,19960212,10,101196,,,Derrick Rostagno,R,185,USA,30.2,101263,,WC,Luke Jensen,A,190,USA,29.6,6-4 6-4,3,R32,66,2,0,57,38,28,10,10,2,3,1,1,73,49,32,10,10,5,8,112,433,379,74
 1996-424,San Jose,Hard,32,A,19960212,11,101026,,WC,Jim Grabb,R,193,USA,31.8,101609,,Q,David Wheaton,R,193,USA,26.6,1-6 6-4 7-5,3,R32,113,12,4,86,54,40,12,15,3,7,5,5,91,57,38,18,14,6,9,230,159,58,721
 1996-424,San Jose,Hard,32,A,19960212,12,102466,,,Jan Kroslak,R,188,SVK,21.3,101613,4,,Malivai Washington,R,180,USA,26.6,6-4 6-3,3,R32,75,6,5,65,46,32,7,9,11,13,4,1,68,40,24,12,10,7,12,119,406,19,1265
 1996-424,San Jose,Hard,32,A,19960212,13,102257,7,,Greg Rusedski,L,193,GBR,22.4,101735,,,Richard Fromberg,R,196,AUS,25.7,6-1 6-3,3,R32,49,10,3,41,28,26,7,8,0,0,3,0,51,34,18,9,8,3,7,41,883,120,399
@@ -568,7 +568,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-402,Memphis,Hard,48,A,19960219,13,101543,,,Jeff Tarango,L,180,USA,27.2,101391,,,Carl Uwe Steeb,L,180,GER,28.4,6-3 2-1 RET,3,R64,38,0,1,39,25,15,10,7,1,2,1,2,35,19,10,6,6,2,5,73,644,79,595
 1996-402,Memphis,Hard,48,A,19960219,14,101901,,,Chuck Adams,R,185,USA,24.8,102434,,,Vincent Spadea,R,183,USA,21.5,7-6(4) 4-6 6-3,3,R64,142,6,9,113,69,55,22,16,8,9,10,3,116,68,50,25,15,10,11,312,97,98,491
 1996-402,Memphis,Hard,48,A,19960219,15,101026,,Q,Jim Grabb,R,193,USA,31.8,101890,,,Jonathan Stark,R,188,USA,24.8,6-4 3-6 7-6(2),3,R64,132,10,5,94,56,49,16,15,1,3,9,5,104,58,44,23,16,5,7,222,166,144,308
-1996-402,Memphis,Hard,48,A,19960219,16,101263,,WC,Luke Jensen,U,190,USA,29.6,101412,,,Shuzo Matsuoka,R,185,JPN,28.2,6-3 7-6(4),3,R64,75,3,1,62,41,34,15,11,0,0,12,1,64,40,32,12,10,0,1,419,59,66,676
+1996-402,Memphis,Hard,48,A,19960219,16,101263,,WC,Luke Jensen,A,190,USA,29.6,101412,,,Shuzo Matsuoka,R,185,JPN,28.2,6-3 7-6(4),3,R64,75,3,1,62,41,34,15,11,0,0,12,1,64,40,32,12,10,0,1,419,59,66,676
 1996-402,Memphis,Hard,48,A,19960219,17,101948,1,,Pete Sampras,R,185,USA,24.5,101191,,,Richey Reneberg,R,180,USA,30.3,6-3 7-6(4),3,R32,75,19,1,59,34,29,14,11,1,3,9,2,76,40,26,16,10,5,8,1,4555,59,723
 1996-402,Memphis,Hard,48,A,19960219,18,102257,16,,Greg Rusedski,L,193,GBR,22.4,101833,,,Michael Tebbutt,L,190,AUS,25.1,6-7(4) 7-6(4) 7-5,3,R32,130,14,0,116,79,64,22,18,2,2,15,4,114,63,55,27,18,4,5,45,843,93,510
 1996-402,Memphis,Hard,48,A,19960219,19,101185,9,,Mark Woodforde,L,188,AUS,30.4,101735,,,Richard Fromberg,R,196,AUS,25.8,6-3 6-2,3,R32,63,5,2,60,31,27,14,9,5,5,7,4,44,23,19,8,8,2,5,25,1050,119,399
@@ -584,7 +584,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-402,Memphis,Hard,48,A,19960219,29,101235,7,,Paul Haarhuis,R,188,NED,29.9,101543,,,Jeff Tarango,L,180,USA,27.2,6-2 5-7 6-4,3,R32,106,12,3,82,56,43,13,15,1,3,2,3,89,52,35,19,15,4,8,31,967,73,644
 1996-402,Memphis,Hard,48,A,19960219,30,102882,10,,Mark Philippoussis,R,196,AUS,19.2,101901,,,Chuck Adams,R,185,USA,24.8,7-5 6-2,3,R32,73,11,5,51,24,24,15,10,0,1,1,5,72,41,20,19,10,7,11,24,1050,312,97
 1996-402,Memphis,Hard,48,A,19960219,31,102562,15,,Jiri Novak,R,190,CZE,20.9,101026,,Q,Jim Grabb,R,193,USA,31.8,7-6(5) 4-6 6-1,3,R32,105,1,0,96,69,47,16,15,4,6,6,5,84,49,38,16,14,6,9,43,853,222,166
-1996-402,Memphis,Hard,48,A,19960219,32,101263,,WC,Luke Jensen,U,190,USA,29.6,101736,2,,Andre Agassi,R,180,USA,25.8,6-2 6-4,3,R32,61,3,2,55,40,31,5,9,5,6,5,3,69,32,16,19,9,14,18,419,59,3,4452
+1996-402,Memphis,Hard,48,A,19960219,32,101263,,WC,Luke Jensen,A,190,USA,29.6,101736,2,,Andre Agassi,R,180,USA,25.8,6-2 6-4,3,R32,61,3,2,55,40,31,5,9,5,6,5,3,69,32,16,19,9,14,18,419,59,3,4452
 1996-402,Memphis,Hard,48,A,19960219,33,101948,1,,Pete Sampras,R,185,USA,24.5,102257,16,,Greg Rusedski,L,193,GBR,22.4,7-6(7) 7-6(1),3,R16,83,10,2,82,53,45,19,12,4,4,20,0,74,46,39,17,12,1,1,1,4555,45,843
 1996-402,Memphis,Hard,48,A,19960219,34,101185,9,,Mark Woodforde,L,188,AUS,30.4,102701,8,,Marcelo Rios,L,175,CHI,20.1,6-2 6-4,3,R16,72,6,4,58,32,22,14,9,2,4,2,4,68,30,20,14,9,5,10,25,1050,23,1164
 1996-402,Memphis,Hard,48,A,19960219,35,102021,3,,Michael Chang,R,175,USA,23.9,101475,14,,Carlos Costa,R,183,ESP,27.8,6-3 6-4,3,R16,85,6,1,66,30,24,13,10,5,8,2,1,62,32,18,11,9,3,8,5,3537,34,945
@@ -592,7 +592,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-402,Memphis,Hard,48,A,19960219,37,101774,5,,Todd Martin,R,198,USA,25.6,101889,11,,Todd Woodbridge,R,178,AUS,24.8,6-3 6-2,3,R16,80,11,2,58,38,31,10,9,2,2,4,2,72,45,28,10,8,5,8,22,1172,29,984
 1996-402,Memphis,Hard,48,A,19960219,38,102358,4,,Thomas Enqvist,R,190,SWE,21.9,101601,13,,Brett Steven,R,185,NZL,26.8,7-5 3-6 6-2,3,R16,104,9,4,71,44,32,16,14,0,3,8,1,84,53,38,10,15,5,10,6,2529,32,959
 1996-402,Memphis,Hard,48,A,19960219,39,102882,10,,Mark Philippoussis,R,196,AUS,19.2,101235,7,,Paul Haarhuis,R,188,NED,29.9,6-3 6-2,3,R16,55,11,5,48,27,26,11,9,1,1,1,0,44,28,17,10,8,4,7,24,1050,31,967
-1996-402,Memphis,Hard,48,A,19960219,40,102562,15,,Jiri Novak,R,190,CZE,20.9,101263,,WC,Luke Jensen,U,190,USA,29.6,6-4 6-4,3,R16,70,1,0,69,47,33,13,10,7,8,4,4,59,36,23,13,10,1,4,43,853,419,59
+1996-402,Memphis,Hard,48,A,19960219,40,102562,15,,Jiri Novak,R,190,CZE,20.9,101263,,WC,Luke Jensen,A,190,USA,29.6,6-4 6-4,3,R16,70,1,0,69,47,33,13,10,7,8,4,4,59,36,23,13,10,1,4,43,853,419,59
 1996-402,Memphis,Hard,48,A,19960219,41,101948,1,,Pete Sampras,R,185,USA,24.5,101185,9,,Mark Woodforde,L,188,AUS,30.4,6-4 7-6(7),3,QF,87,16,2,65,40,32,16,11,0,1,11,4,86,48,33,17,11,6,8,1,4555,25,1050
 1996-402,Memphis,Hard,48,A,19960219,42,102021,3,,Michael Chang,R,175,USA,23.9,101613,6,,Malivai Washington,R,180,USA,26.6,7-5 4-6 6-3,3,QF,152,12,5,101,41,35,32,16,5,7,10,3,99,57,41,21,15,9,12,5,3537,19,1265
 1996-402,Memphis,Hard,48,A,19960219,43,101774,5,,Todd Martin,R,198,USA,25.6,102358,4,,Thomas Enqvist,R,190,SWE,21.9,6-4 6-4,3,QF,74,11,2,66,40,35,9,10,5,6,9,3,56,32,27,7,10,2,5,22,1172,6,2529
@@ -605,9 +605,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-D022,Davis Cup G2 QF: BRN vs UZB,Hard,4,D,19960223,4,102087,,,Oleg Ogorodov,R,193,UZB,23.5,108754,,,Esam Abdulaal,R,,BRN,26.5,7-5 6-7(2) 6-1,3,RR,,,,,,,,,,,,,,,,,,,,108,449,,
 1996-D022,Davis Cup G2 QF: BRN vs UZB,Hard,4,D,19960223,5,102347,,,Dmitri Tomashevich,R,,UZB,21.9,108752,,,Shehab Shehab,U,,BRN,26.5,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,300,103,,
 1996-D068,Davis Cup G2 QF: PAK vs KSA,Clay,4,D,19960223,1,102068,,,Omer Rashid,R,,PAK,23.7,108842,,,Zulfiqar Ahmed,U,,KSA,40.0,6-0 6-1 6-1,5,RR,,,,,,,,,,,,,,,,,,,,825,10,,
-1996-D068,Davis Cup G2 QF: PAK vs KSA,Clay,4,D,19960223,2,108844,,,Hamed Ul Haq,U,,PAK,33.9,108751,,,Bader Mohammed Almuqail,U,,KSA,25.4,6-2 6-0 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,,
+1996-D068,Davis Cup G2 QF: PAK vs KSA,Clay,4,D,19960223,2,108844,,,Hamed Ul Haq,R,,PAK,33.9,108751,,,Bader Mohammed Almuqail,U,,KSA,25.4,6-2 6-0 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1996-D068,Davis Cup G2 QF: PAK vs KSA,Clay,4,D,19960223,4,102068,,,Omer Rashid,R,,PAK,23.7,108751,,,Bader Mohammed Almuqail,U,,KSA,25.4,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,825,10,,
-1996-D068,Davis Cup G2 QF: PAK vs KSA,Clay,4,D,19960223,5,108844,,,Hamed Ul Haq,U,,PAK,33.9,108833,,,Farah Al Somali,U,,KSA,26.4,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1996-D068,Davis Cup G2 QF: PAK vs KSA,Clay,4,D,19960223,5,108844,,,Hamed Ul Haq,R,,PAK,33.9,108833,,,Farah Al Somali,U,,KSA,26.4,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1996-408,Milan,Carpet,32,A,19960226,1,102247,,,Andrea Gaudenzi,R,183,ITA,22.5,101404,1,,Thomas Muster,L,180,AUT,28.4,6-3 6-4,3,R32,81,3,0,68,45,32,14,10,4,4,5,3,66,39,27,13,9,6,8,35,915,2,4474
 1996-408,Milan,Carpet,32,A,19960226,2,101746,,,Renzo Furlan,R,175,ITA,25.7,101084,,,Jakob Hlasek,R,188,SUI,31.2,6-4 3-6 6-1,3,R32,105,5,2,71,30,26,20,13,1,4,6,2,94,43,35,19,13,5,10,24,1109,44,850
 1996-408,Milan,Carpet,32,A,19960226,3,101589,,,Arnaud Boetsch,R,183,FRA,26.9,101868,,Q,Dick Norman,L,203,BEL,24.9,7-6(3) 6-3,3,R32,80,3,1,64,32,23,26,11,0,0,10,4,72,44,35,10,10,4,5,16,1385,118,406
@@ -651,7 +651,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-401,Philadelphia,Carpet,32,A,19960226,10,102562,,,Jiri Novak,R,190,CZE,20.9,101381,,,Aaron Krickstein,R,183,USA,28.5,6-0 6-2,3,R32,46,5,0,45,33,21,10,7,6,7,0,3,41,23,7,7,7,3,9,39,892,195,202
 1996-401,Philadelphia,Carpet,32,A,19960226,11,101191,,,Richey Reneberg,R,180,USA,30.3,101601,,,Brett Steven,R,185,NZL,26.8,6-4 1-6 7-6(4),3,R32,122,5,1,93,53,37,18,14,5,9,3,2,96,56,36,22,15,1,4,63,672,34,921
 1996-401,Philadelphia,Carpet,32,A,19960226,12,101727,,,Jason Stoltenberg,R,185,AUS,25.8,101965,3,,Wayne Ferreira,R,185,RSA,24.4,5-7 6-1 6-2,3,R32,96,7,1,86,48,33,23,14,3,5,4,1,84,42,26,23,13,7,12,77,612,10,1965
-1996-401,Philadelphia,Carpet,32,A,19960226,13,101647,8,,Byron Black,R,175,ZIM,26.3,101263,,WC,Luke Jensen,U,190,USA,29.6,7-5 6-3,3,R32,73,0,3,68,36,23,21,11,1,3,4,4,66,40,24,12,10,5,9,30,986,306,100
+1996-401,Philadelphia,Carpet,32,A,19960226,13,101647,8,,Byron Black,R,175,ZIM,26.3,101263,,WC,Luke Jensen,A,190,USA,29.6,7-5 6-3,3,R32,73,0,3,68,36,23,21,11,1,3,4,4,66,40,24,12,10,5,9,30,986,306,100
 1996-401,Philadelphia,Carpet,32,A,19960226,14,102401,,,Scott Draper,L,178,AUS,21.7,101062,,,Mats Wilander,R,183,SWE,31.5,6-4 3-6 6-4,3,R32,127,6,0,115,65,42,28,15,10,13,4,3,112,68,46,23,14,10,13,73,631,54,770
 1996-401,Philadelphia,Carpet,32,A,19960226,15,101475,,,Carlos Costa,R,183,ESP,27.8,102201,,Q,Lionel Roux,R,185,FRA,22.8,5-7 6-2 6-3,3,R32,126,7,3,105,60,41,21,14,6,9,2,4,88,47,31,16,15,8,14,32,953,119,405
 1996-401,Philadelphia,Carpet,32,A,19960226,16,101793,2,,Jim Courier,R,185,USA,25.5,101543,,,Jeff Tarango,L,180,USA,27.2,6-1 6-1,3,R32,62,5,2,41,24,20,11,7,4,4,2,3,53,26,12,11,7,3,8,7,2369,74,630
@@ -741,7 +741,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-433,Scottsdale,Hard,32,A,19960304,7,101191,,,Richey Reneberg,R,180,USA,30.4,101602,,Q,Jack Waite,R,185,USA,26.8,6-3 6-1,3,R32,54,0,0,43,24,18,15,8,1,1,2,2,52,34,21,5,8,1,5,63,692,708,16
 1996-433,Scottsdale,Hard,32,A,19960304,8,101265,,,Patrick McEnroe,R,183,USA,29.6,101582,5,,Gilbert Schaller,R,180,AUT,26.9,6-1 7-6(1),3,R32,85,3,2,71,42,27,17,10,7,9,4,3,54,32,22,5,9,5,9,67,666,19,1291
 1996-433,Scottsdale,Hard,32,A,19960304,9,102701,6,,Marcelo Rios,L,175,CHI,20.1,101230,,,Andrei Chesnokov,R,188,RUS,30.0,6-1 6-4,3,R32,52,5,1,45,28,22,14,9,0,0,2,2,48,26,18,8,8,2,5,20,1203,85,552
-1996-433,Scottsdale,Hard,32,A,19960304,10,102110,,Q,Daniel Nestor,L,190,CAN,23.4,101263,,WC,Luke Jensen,U,190,USA,29.7,6-3 6-4,3,R32,65,7,9,68,42,33,11,10,6,7,5,4,54,31,23,10,9,4,7,181,214,302,101
+1996-433,Scottsdale,Hard,32,A,19960304,10,102110,,Q,Daniel Nestor,L,190,CAN,23.4,101263,,WC,Luke Jensen,A,190,USA,29.7,6-3 6-4,3,R32,65,7,9,68,42,33,11,10,6,7,5,4,54,31,23,10,9,4,7,181,214,302,101
 1996-433,Scottsdale,Hard,32,A,19960304,11,102146,,,Jordi Burillo,R,188,ESP,23.2,102374,,,Alex Corretja,R,180,ESP,21.8,3-6 6-3 6-4,3,R32,126,7,7,113,44,34,38,14,10,12,6,5,97,64,47,10,14,6,9,53,747,59,710
 1996-433,Scottsdale,Hard,32,A,19960304,12,102610,4,,Albert Costa,R,180,ESP,20.6,101475,,,Carlos Costa,R,183,ESP,27.8,7-5 6-4,3,R32,91,1,2,88,57,36,14,11,9,12,5,5,75,47,31,8,11,4,9,16,1364,34,955
 1996-433,Scottsdale,Hard,32,A,19960304,13,101723,7,,Magnus Larsson,R,193,SWE,25.9,102154,,LL,Marcos Ondruska,R,183,RSA,23.2,7-6(4) 6-1,3,R32,78,8,2,60,33,25,14,10,2,5,3,5,66,31,20,12,9,1,6,24,1092,98,492
@@ -769,7 +769,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-481,Copenhagen,Carpet,32,A,19960311,4,101806,8,,Marc Kevin Goellner,R,196,GER,25.4,100757,,WC,Anders Jarryd,R,180,SWE,34.6,6-3 6-4,3,R32,65,9,8,71,41,34,14,10,5,5,8,7,57,31,24,12,9,1,3,74,637,140,304
 1996-481,Copenhagen,Carpet,32,A,19960311,5,101611,3,,Cedric Pioline,R,188,FRA,26.7,101543,,,Jeff Tarango,L,180,USA,27.3,7-5 6-4,3,R32,85,12,4,76,45,37,14,11,5,5,17,1,75,51,34,12,11,2,4,32,978,83,576
 1996-481,Copenhagen,Carpet,32,A,19960311,6,101391,,,Carl Uwe Steeb,L,180,GER,28.5,102223,,,Karim Alami,R,185,MAR,22.7,6-4 6-4,3,R32,58,5,1,58,34,29,17,10,4,4,5,0,45,28,21,13,10,0,2,76,619,81,581
-1996-481,Copenhagen,Carpet,32,A,19960311,7,210013,,,Martin Damm Sr,R,188,CZE,23.6,108381,,Q,Thomas Andersen,R,,DEN,,7-6(2) 6-2,3,R32,73,15,3,56,34,31,12,10,0,1,4,3,62,27,21,16,10,1,4,,,,
+1996-481,Copenhagen,Carpet,32,A,19960311,7,210013,,,Martin Damm Sr,R,188,CZE,23.6,108381,,Q,Thomas Andersen,R,,DEN,24.0,7-6(2) 6-2,3,R32,73,15,3,56,34,31,12,10,0,1,4,3,62,27,21,16,10,1,4,,,,
 1996-481,Copenhagen,Carpet,32,A,19960311,8,102025,5,,Mikael Tillstrom,R,185,SWE,24.0,101334,,Q,Alexander Volkov,L,188,RUS,29.0,7-5 7-6(2),3,R32,84,4,0,75,47,34,16,12,1,3,4,4,78,44,34,11,12,3,6,56,738,78,609
 1996-481,Copenhagen,Carpet,32,A,19960311,9,101703,6,,Guillaume Raoux,R,180,FRA,26.0,101989,,WC,Patrik Langvardt,R,,DEN,24.2,6-1 6-2,3,R32,65,2,4,43,22,19,12,8,4,5,0,10,60,33,19,8,7,5,10,45,837,920,8
 1996-481,Copenhagen,Carpet,32,A,19960311,10,102394,,,Johan Van Herck,R,185,BEL,21.7,102087,,,Oleg Ogorodov,R,193,UZB,23.6,6-4 6-4,3,R32,70,0,2,55,28,23,17,10,1,2,9,0,69,37,26,15,10,4,7,91,513,113,449
@@ -1020,7 +1020,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-D078,Davis Cup G1 PO: TPE vs PHI,Clay,4,D,19960405,5,103170,,,Wei Ju Chen,R,,TPE,17.9,101400,,,Sofronio Palahang,R,,PHI,28.5,7-5 6-4,3,RR,,,,,,,,,,,,,,,,,,,,1056,4,1256,1
 1996-D032,Davis Cup G1 QF: CRO vs UKR,Carpet,4,D,19960405,1,101964,,,Goran Ivanisevic,L,193,CRO,24.5,102069,,,Andrei Rybalko,R,180,UKR,23.8,6-0 7-6(5) 6-7(4) 6-3,5,RR,,,,,,,,,,,,,,,,,,,,6,3444,609,24
 1996-D032,Davis Cup G1 QF: CRO vs UKR,Carpet,4,D,19960405,2,102085,,,Sasa Hirszon,R,185,CRO,23.7,101432,,,Dimitri Poliakov,R,183,UKR,28.1,6-2 6-0 6-3,5,RR,,,,,,,,,,,,,,,,,,,,376,72,359,80
-1996-D032,Davis Cup G1 QF: CRO vs UKR,Carpet,4,D,19960405,4,101367,,,Igor Saric,R,190,CRO,28.7,108798,,,Victor Trotsko,U,,UKR,18.1,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,469,50,,
+1996-D032,Davis Cup G1 QF: CRO vs UKR,Carpet,4,D,19960405,4,101367,,,Igor Saric,R,190,CRO,28.7,108798,,,Victor Trotsko,R,,UKR,18.1,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,469,50,,
 1996-D032,Davis Cup G1 QF: CRO vs UKR,Carpet,4,D,19960405,5,102581,,,Goran Oresic,R,,CRO,20.9,102969,,,Sergei Yaroshenko,R,,UKR,18.9,6-1 7-6(10),3,RR,,,,,,,,,,,,,,,,,,,,597,25,,
 1996-D044,Davis Cup G1 QF: FIN vs ROU,Carpet,4,D,19960405,1,102318,,,Andrei Pavel,R,183,ROU,22.1,102538,,,Tuomas Ketola,R,185,FIN,21.1,6-4 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,,200,197,195,200
 1996-D044,Davis Cup G1 QF: FIN vs ROU,Carpet,4,D,19960405,2,102437,,,Adrian Voinea,R,185,ROU,21.6,102617,,,Kim Tiilikainen,R,180,FIN,20.7,6-1 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,,37,957,271,118
@@ -1052,7 +1052,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-D067,Davis Cup G1 SF: KOR vs NZL,Clay,4,D,19960405,5,101601,,,Brett Steven,R,185,NZL,26.9,102703,,,Hyung Taik Lee,R,180,KOR,20.2,6-4 3-6 6-3 7-6(7),5,RR,,,,,,,,,,,,,,,,,,,,39,895,296,104
 1996-D060,Davis Cup G2 PO: IRI vs SRI,Clay,4,D,19960405,1,100431,,,Mansour Bahrami,R,178,IRI,39.9,108849,,,Rohan De Silva,U,,SRI,24.1,6-2 6-1 7-5,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1996-D060,Davis Cup G2 PO: IRI vs SRI,Clay,4,D,19960405,2,108595,,,Mohammed Reza Tavakoli,U,,IRI,24.3,108836,,,Jayendra Wijeyesekera,U,,SRI,26.2,6-2 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,,
-1996-D060,Davis Cup G2 PO: IRI vs SRI,Clay,4,D,19960405,4,108836,,,Jayendra Wijeyesekera,U,,SRI,26.2,108596,,,Ramin Raziyani,U,,IRI,21.9,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1996-D060,Davis Cup G2 PO: IRI vs SRI,Clay,4,D,19960405,4,108836,,,Jayendra Wijeyesekera,U,,SRI,26.2,108596,,,Ramin Raziyani,R,,IRI,21.9,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1996-D060,Davis Cup G2 PO: IRI vs SRI,Clay,4,D,19960405,5,108595,,,Mohammed Reza Tavakoli,U,,IRI,24.3,108849,,,Rohan De Silva,U,,SRI,24.1,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1996-D021,Davis Cup G2 PO: KSA vs BRN,Hard,4,D,19960405,1,108751,,,Bader Mohammed Almuqail,U,,KSA,25.5,108752,,,Shehab Shehab,U,,BRN,26.6,6-1 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1996-D021,Davis Cup G2 PO: KSA vs BRN,Hard,4,D,19960405,2,108753,,,Othman Al Anazi,U,,KSA,24.6,108754,,,Esam Abdulaal,R,,BRN,26.6,1-6 2-6 7-6(5) 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
@@ -1065,9 +1065,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-D033,Davis Cup G2 SF: CUB vs ECU,Hard,4,D,19960405,1,102839,,,Nicolas Lapentti,R,188,ECU,19.6,101171,,,Armando Perez,R,,CUB,30.6,6-1 6-0 6-2,5,RR,,,,,,,,,,,,,,,,,,,,99,499,400,62
 1996-D033,Davis Cup G2 SF: CUB vs ECU,Hard,4,D,19960405,2,102192,,,Luis Adrian Morejon,R,178,ECU,23.0,101156,,,Juan Pino,R,185,CUB,30.7,4-6 7-6(4) 6-1 3-6 8-6,5,RR,,,,,,,,,,,,,,,,,,,,134,332,377,72
 1996-D077,Davis Cup G2 SF: PAK vs UZB,Grass,4,D,19960405,1,102347,,,Dmitri Tomashevich,R,,UZB,22.0,102068,,,Omer Rashid,R,,PAK,23.8,6-3 6-4 6-1,5,RR,,,,,,,,,,,,,,,,,,,,309,97,820,10
-1996-D077,Davis Cup G2 SF: PAK vs UZB,Grass,4,D,19960405,2,102087,,,Oleg Ogorodov,R,193,UZB,23.7,108844,,,Hamed Ul Haq,U,,PAK,34.0,6-3 4-6 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,,115,431,,
+1996-D077,Davis Cup G2 SF: PAK vs UZB,Grass,4,D,19960405,2,102087,,,Oleg Ogorodov,R,193,UZB,23.7,108844,,,Hamed Ul Haq,R,,PAK,34.0,6-3 4-6 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,,115,431,,
 1996-D077,Davis Cup G2 SF: PAK vs UZB,Grass,4,D,19960405,4,102087,,,Oleg Ogorodov,R,193,UZB,23.7,102068,,,Omer Rashid,R,,PAK,23.8,7-5 6-1,3,RR,,,,,,,,,,,,,,,,,,,,115,431,820,10
-1996-D077,Davis Cup G2 SF: PAK vs UZB,Grass,4,D,19960405,5,102347,,,Dmitri Tomashevich,R,,UZB,22.0,108844,,,Hamed Ul Haq,U,,PAK,34.0,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,309,97,,
+1996-D077,Davis Cup G2 SF: PAK vs UZB,Grass,4,D,19960405,5,102347,,,Dmitri Tomashevich,R,,UZB,22.0,108844,,,Hamed Ul Haq,R,,PAK,34.0,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,309,97,,
 1996-D055,Davis Cup G2 SF: THA vs HKG,Hard,4,D,19960405,1,101485,,,Tanakorn Srichaphan,R,,THA,27.8,103102,,,John Hui,R,,HKG,18.2,6-2 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,,1256,1,,
 1996-D055,Davis Cup G2 SF: THA vs HKG,Hard,4,D,19960405,2,108532,,,Worapol Thongkamcho,R,,THA,28.2,107586,,,Lui Pang,R,,HKG,26.3,6-3 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1996-D055,Davis Cup G2 SF: THA vs HKG,Hard,4,D,19960405,4,102097,,,Naratorn Srichaphan,R,,THA,23.6,108837,,,Graeme Foster,U,,HKG,29.7,6-0 6-4,3,RR,,,,,,,,,,,,,,,,,,,,1256,1,,
@@ -1240,7 +1240,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-425,Barcelona,Clay,56,A,19960415,53,101404,1,,Thomas Muster,L,180,AUT,28.5,102845,,,Carlos Moya,R,190,ESP,19.6,4-6 6-2 6-4,3,SF,126,1,4,97,59,41,22,14,8,10,3,2,104,68,41,18,14,11,15,2,4251,55,773
 1996-425,Barcelona,Clay,56,A,19960415,54,102701,6,,Marcelo Rios,L,175,CHI,20.3,101793,2,,Jim Courier,R,185,USA,25.6,7-6(5) 4-6 7-6(5),3,SF,173,8,3,113,51,35,41,17,6,10,8,5,136,94,65,18,17,15,18,16,1392,9,2188
 1996-425,Barcelona,Clay,56,A,19960415,55,101404,1,,Thomas Muster,L,180,AUT,28.5,102701,6,,Marcelo Rios,L,175,CHI,20.3,6-3 4-6 6-4 6-1,5,F,139,4,3,119,68,49,30,18,11,13,6,5,114,52,40,26,18,8,14,2,4251,16,1392
-1996-436,Bermuda,Clay,32,A,19960415,1,101613,1,,Malivai Washington,R,180,USA,26.8,101263,,WC,Luke Jensen,U,190,USA,29.8,6-3 6-4,3,R32,70,2,1,54,38,26,8,9,3,5,2,6,59,26,18,11,10,2,7,18,1272,312,102
+1996-436,Bermuda,Clay,32,A,19960415,1,101613,1,,Malivai Washington,R,180,USA,26.8,101263,,WC,Luke Jensen,A,190,USA,29.8,6-3 6-4,3,R32,70,2,1,54,38,26,8,9,3,5,2,6,59,26,18,11,10,2,7,18,1272,312,102
 1996-436,Bermuda,Clay,32,A,19960415,2,102644,,Q,Franco Squillari,L,183,ARG,20.6,101772,,,Andrei Cherkasov,R,180,RUS,25.7,6-3 6-2,3,R32,71,2,5,61,37,30,9,9,3,4,0,3,54,37,22,6,8,4,8,320,98,145,290
 1996-436,Bermuda,Clay,32,A,19960415,3,101659,,,Jan Apell,L,183,SWE,26.4,101871,,WC,Alexander Reichel,R,193,USA,25.1,2-6 7-5 6-4,3,R32,131,5,5,108,71,48,13,15,12,17,1,18,118,61,44,22,15,9,14,99,494,253,139
 1996-436,Bermuda,Clay,32,A,19960415,4,101766,,Q,Bill Behrens,R,188,USA,25.8,102401,8,,Scott Draper,L,178,AUS,21.8,6-4 5-7 7-6(3),3,R32,170,3,2,124,78,50,25,17,11,16,13,6,137,75,49,30,17,17,22,707,16,88,535
@@ -1425,7 +1425,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-409,Atlanta,Clay,32,A,19960429,11,102401,,,Scott Draper,L,178,AUS,21.9,102158,,,Patrick Rafter,R,185,AUS,23.3,7-6(7) 6-4,3,R32,119,1,2,82,41,31,23,11,9,10,7,8,88,42,31,23,11,5,7,101,471,87,555
 1996-409,Atlanta,Clay,32,A,19960429,12,101900,,,Nicklas Kulti,R,190,SWE,25.0,102169,4,,Michael Joyce,R,180,USA,23.2,7-6(5) 3-6 6-1,3,R32,121,5,3,100,50,37,19,14,3,8,10,7,96,39,24,27,14,10,16,122,381,65,687
 1996-409,Atlanta,Clay,32,A,19960429,13,101214,,Q,Bryan Shelton,R,185,USA,30.3,102162,8,,Chris Woodruff,R,188,USA,23.3,6-3 2-6 6-3,3,R32,107,7,2,82,49,32,15,13,7,11,6,7,87,52,33,15,13,6,11,234,160,81,612
-1996-409,Atlanta,Clay,32,A,19960429,14,101600,,LL,Daniel Courcol,R,190,FRA,27.0,101263,,WC,Luke Jensen,U,190,USA,29.8,6-4 6-2,3,R32,74,5,4,72,37,29,15,9,8,9,4,2,55,34,22,8,9,3,7,187,214,305,104
+1996-409,Atlanta,Clay,32,A,19960429,14,101600,,LL,Daniel Courcol,R,190,FRA,27.0,101263,,WC,Luke Jensen,A,190,USA,29.8,6-4 6-2,3,R32,74,5,4,72,37,29,15,9,8,9,4,2,55,34,22,8,9,3,7,187,214,305,104
 1996-409,Atlanta,Clay,32,A,19960429,15,101609,,WC,David Wheaton,R,193,USA,26.9,101956,,,Mark Knowles,R,190,BAH,24.6,7-6(2) 3-6 6-3,3,R32,124,18,4,110,68,49,26,15,9,10,10,2,84,37,34,27,15,2,3,99,478,103,463
 1996-409,Atlanta,Clay,32,A,19960429,16,101191,2,,Richey Reneberg,R,180,USA,30.5,100284,,WC,Jimmy Connors,L,178,USA,43.6,6-2 3-6 6-1,3,R32,118,11,2,77,44,34,16,12,8,10,3,2,93,55,30,18,12,6,11,37,955,413,59
 1996-409,Atlanta,Clay,32,A,19960429,17,102021,1,,Michael Chang,R,175,USA,24.1,101833,,,Michael Tebbutt,L,190,AUS,25.3,6-1 6-2,3,R16,62,1,1,38,21,17,9,7,1,2,10,3,62,34,19,7,8,9,15,4,3786,106,447
@@ -1525,7 +1525,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-D051,Davis Cup G2 R1: GHA vs MLT,Hard,4,D,19960503,2,108816,,,Isaac Donkor,U,,GHA,24.7,108825,,,Mark Schembri,U,,MLT,21.2,6-4 6-3 6-7(5) 6-1,5,RR,,,,,,,,,,,,,,,,,,,,,,1235,2
 1996-D051,Davis Cup G2 R1: GHA vs MLT,Hard,4,D,19960503,4,101884,,,Frank Ofori,R,,GHA,25.1,108825,,,Mark Schembri,U,,MLT,21.2,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,464,49,1235,2
 1996-D051,Davis Cup G2 R1: GHA vs MLT,Hard,4,D,19960503,5,108826,,,Isaac Tetteh Quaye,U,,GHA,22.5,108824,,,Daryl Delicata,U,,MLT,30.0,6-4 4-6 7-6(1),3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1996-D029,Davis Cup G2 R1: LAT vs CIV,Hard,4,D,19960503,1,102556,,,Claude Ngoran,L,190,CIV,21.1,102742,,,Armand Strombach,R,,LAT,20.1,6-3 6-1 6-3,5,RR,,,,,,,,,,,,,,,,,,,,337,89,,
+1996-D029,Davis Cup G2 R1: LAT vs CIV,Hard,4,D,19960503,1,102556,,,Claude Ngoran,L,190,CIV,21.1,102742,,,Armand Strombach,R,,LAT,26.0,6-3 6-1 6-3,5,RR,,,,,,,,,,,,,,,,,,,,337,89,,
 1996-D029,Davis Cup G2 R1: LAT vs CIV,Hard,4,D,19960503,2,100943,,,Girts Dzelde,R,173,LAT,32.7,101630,,,Clement Ngoran,R,178,CIV,26.7,7-5 6-4 6-1,5,RR,,,,,,,,,,,,,,,,,,,,560,32,778,12
 1996-D029,Davis Cup G2 R1: LAT vs CIV,Hard,4,D,19960503,4,102556,,,Claude Ngoran,L,190,CIV,21.1,100943,,,Girts Dzelde,R,173,LAT,32.7,6-7(1) 6-3 6-1 6-2,5,RR,,,,,,,,,,,,,,,,,,,,337,89,560,32
 1996-D029,Davis Cup G2 R1: LAT vs CIV,Hard,4,D,19960503,5,106536,,,Andres Filimonov,R,,LAT,28.0,101630,,,Clement Ngoran,R,178,CIV,26.7,7-6(1) 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,778,12
@@ -1632,8 +1632,8 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-499,Coral Springs,Clay,32,A,19960513,3,102162,,,Chris Woodruff,R,188,USA,23.3,101761,,Q,Jaime Oncins,R,196,BRA,25.9,6-7(7) 6-1 7-5,3,R32,163,2,13,128,69,47,27,16,7,11,1,14,111,60,44,17,15,10,17,81,612,224,174
 1996-499,Coral Springs,Clay,32,A,19960513,4,102192,,,Luis Adrian Morejon,R,178,ECU,23.1,101897,8,,Fernando Meligeni,L,180,BRA,25.0,6-3 6-1,3,R32,76,3,1,71,39,22,18,8,14,16,0,9,58,23,14,9,8,2,8,132,351,62,751
 1996-499,Coral Springs,Clay,32,A,19960513,5,101318,4,,Javier Frana,L,185,ARG,29.3,102491,,,Alex Radulescu,R,185,GER,21.4,6-4 6-4,3,R32,66,6,1,65,40,31,13,10,2,3,5,2,55,23,17,17,10,1,4,56,791,122,396
-1996-499,Coral Springs,Clay,32,A,19960513,6,102158,,,Patrick Rafter,R,185,AUS,23.3,101263,,WC,Luke Jensen,U,190,USA,29.9,6-2 7-5,3,R32,76,6,2,62,34,24,17,10,3,4,1,0,52,30,18,13,10,4,8,87,562,314,104
-1996-499,Coral Springs,Clay,32,A,19960513,7,101833,,,Michael Tebbutt,L,190,AUS,25.3,102401,,,Scott Draper,L,178,AUS,21.9,7-5(3) 4-6 6-3,3,R32,111,11,4,96,51,42,23,16,4,6,6,4,80,47,35,23,15,2,4,102,465,99,490
+1996-499,Coral Springs,Clay,32,A,19960513,6,102158,,,Patrick Rafter,R,185,AUS,23.3,101263,,WC,Luke Jensen,A,190,USA,29.9,6-2 7-5,3,R32,76,6,2,62,34,24,17,10,3,4,1,0,52,30,18,13,10,4,8,87,562,314,104
+1996-499,Coral Springs,Clay,32,A,19960513,7,101833,,,Michael Tebbutt,L,190,AUS,25.3,102401,,,Scott Draper,L,178,AUS,21.9,7-6(3) 4-6 6-3,3,R32,111,11,4,96,51,42,23,16,4,6,6,4,80,47,35,23,15,2,4,102,465,99,490
 1996-499,Coral Springs,Clay,32,A,19960513,8,102456,6,,Felix Mantilla,R,180,ESP,21.6,101991,,,Mauricio Hadad,R,170,COL,24.4,6-1 6-3,3,R32,77,0,0,42,34,25,5,8,0,1,0,2,79,36,21,17,8,10,15,63,751,131,357
 1996-499,Coral Springs,Clay,32,A,19960513,9,102434,,,Vincent Spadea,R,183,USA,21.8,102223,5,,Karim Alami,R,185,MAR,22.9,6-3 6-2,3,R32,62,2,0,54,37,27,10,9,4,5,1,4,49,25,16,7,8,2,6,75,653,52,816
 1996-499,Coral Springs,Clay,32,A,19960513,10,102839,,,Nicolas Lapentti,R,188,ECU,19.7,101636,,Q,Wade Mcguire,R,188,USA,26.7,5-7 7-6(9) 7-6(8),3,R32,192,12,5,144,85,61,29,18,10,14,11,9,140,84,64,27,18,9,12,91,530,701,17
@@ -2001,7 +2001,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-440,Rosmalen,Grass,32,A,19960610,9,101733,5,,Jan Siemerink,L,183,NED,26.1,101463,,,Bernd Karbacher,R,185,GER,28.1,6-2 6-4,3,R32,76,7,6,64,38,30,13,9,6,6,1,2,68,38,24,14,9,8,11,23,1149,29,1070
 1996-440,Rosmalen,Grass,32,A,19960610,10,101601,,,Brett Steven,R,185,NZL,27.1,103018,,Q,Max Mirnyi,R,196,BLR,18.9,6-2 7-5,3,R32,79,4,3,53,37,31,11,10,2,2,1,2,76,44,29,15,10,8,11,52,849,285,114
 1996-440,Rosmalen,Grass,32,A,19960610,11,102035,,,Jonas Bjorkman,R,183,SWE,24.2,103193,,WC,Peter Wessels,R,196,NED,18.0,6-2 6-3,3,R32,62,2,2,49,28,23,9,8,2,3,5,5,66,36,20,11,9,8,13,69,688,527,37
-1996-440,Rosmalen,Grass,32,A,19960610,12,102854,,,Sjeng Schalken,R,193,NED,19.7,101647,4,,Byron Black,R,175,ZIM,26.6,6-3 7-5(1),3,R32,83,6,5,55,32,24,11,10,1,4,0,5,81,39,21,19,11,9,14,57,803,22,1154
+1996-440,Rosmalen,Grass,32,A,19960610,12,102854,,,Sjeng Schalken,R,193,NED,19.7,101647,4,,Byron Black,R,175,ZIM,26.6,6-3 7-6(1),3,R32,83,6,5,55,32,24,11,10,1,4,0,5,81,39,21,19,11,9,14,57,803,22,1154
 1996-440,Rosmalen,Grass,32,A,19960610,13,101191,8,,Richey Reneberg,R,180,USA,30.6,100757,,,Anders Jarryd,R,180,SWE,34.9,7-6(6) 6-3,3,R32,83,7,6,70,37,30,24,11,3,3,1,4,70,41,35,14,10,3,4,30,1061,140,309
 1996-440,Rosmalen,Grass,32,A,19960610,14,101084,,,Jakob Hlasek,R,188,SUI,31.5,103171,,WC,Raemon Sluiter,R,185,NED,18.1,6-2 7-6(5),3,R32,82,9,7,73,39,30,18,10,5,7,0,9,66,35,23,13,10,6,10,43,920,373,74
 1996-440,Rosmalen,Grass,32,A,19960610,15,101775,,,Frederik Fetterlein,R,190,DEN,25.9,101492,,Q,Sander Groen,L,190,NED,27.9,7-6(4) 6-4,3,R32,91,2,10,79,46,37,14,11,5,6,5,2,77,46,28,19,11,4,6,114,421,203,187
@@ -2430,7 +2430,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-418,Washington,Hard,56,A,19960715,19,102169,,,Michael Joyce,R,180,USA,23.4,101150,,,Gianluca Pozzi,L,180,ITA,31.0,6-3 2-6 6-3,3,R64,100,1,1,82,46,29,20,13,6,10,5,0,86,34,22,26,13,2,7,79,620,114,406
 1996-418,Washington,Hard,56,A,19960715,20,101991,,,Mauricio Hadad,R,170,COL,24.6,102031,,,Sandor Noszaly,R,193,HUN,24.3,6-3 6-2,3,R64,73,1,0,58,40,27,11,9,5,6,6,4,58,33,18,10,8,5,9,102,481,113,413
 1996-418,Washington,Hard,56,A,19960715,21,101636,,Q,Wade Mcguire,R,188,USA,26.9,101475,10,,Carlos Costa,R,183,ESP,28.2,6-4 7-6(5),3,R64,92,3,3,81,50,39,16,11,5,5,8,4,70,41,33,16,11,1,2,629,24,32,1091
-1996-418,Washington,Hard,56,A,19960715,22,102434,16,,Vincent Spadea,R,183,USA,21.9,101263,,WC,Luke Jensen,U,190,USA,30.0,6-2 7-5,3,R64,61,4,0,53,36,30,10,10,0,0,4,6,56,34,22,11,10,0,3,68,696,345,87
+1996-418,Washington,Hard,56,A,19960715,22,102434,16,,Vincent Spadea,R,183,USA,21.9,101263,,WC,Luke Jensen,A,190,USA,30.0,6-2 7-5,3,R64,61,4,0,53,36,30,10,10,0,0,4,6,56,34,22,11,10,0,3,68,696,345,87
 1996-418,Washington,Hard,56,A,19960715,23,101214,,,Bryan Shelton,R,185,USA,30.5,102925,,WC,Justin Gimelstob,R,196,USA,19.4,7-6(2) 6-3,3,R64,82,6,1,56,35,31,14,10,0,0,5,4,73,38,26,19,11,0,2,224,177,308,109
 1996-418,Washington,Hard,56,A,19960715,24,101688,,Q,Geoff Grant,R,183,USA,26.4,101931,,Q,Marcus Hilpert,R,,GER,25.0,6-2 6-2,3,R64,58,4,0,45,39,29,5,8,1,1,4,3,58,27,18,11,8,5,9,333,92,371,77
 1996-418,Washington,Hard,56,A,19960715,25,101736,1,,Andre Agassi,R,180,USA,26.2,101797,,,Jacco Eltingh,R,188,NED,25.8,7-6(1) 6-3,3,R32,71,4,1,64,40,34,10,11,1,3,8,5,58,38,27,8,10,0,3,3,3377,197,204
@@ -2464,68 +2464,68 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-418,Washington,Hard,56,A,19960715,53,101965,4,,Wayne Ferreira,R,185,RSA,24.8,101746,8,,Renzo Furlan,R,175,ITA,26.1,6-3 6-7(11) 6-3,3,SF,130,10,5,122,60,49,35,16,8,8,6,1,95,60,43,21,14,2,4,13,2004,28,1159
 1996-418,Washington,Hard,56,A,19960715,54,102021,2,,Michael Chang,R,175,USA,24.3,102202,,,Kenneth Carlsen,L,190,DEN,23.2,6-3 6-4,3,SF,77,7,3,55,31,27,15,10,1,1,3,7,62,35,21,14,9,3,5,5,3162,73,660
 1996-418,Washington,Hard,56,A,19960715,55,102021,2,,Michael Chang,R,175,USA,24.3,101965,4,,Wayne Ferreira,R,185,RSA,24.8,6-2 6-4,3,F,86,6,2,63,32,25,12,9,2,4,7,0,66,31,21,12,9,4,9,5,3162,13,2004
-1996-96,Atlanta Olympics,Hard,64,A,19960722,1,101736,1,,Andre Agassi,R,180,USA,26.2,102035,,,Jonas Bjorkman,R,183,SWE,24.3,7-6 7-6,3,R64,,,,,,,,,,,,,,,,,,,,6,3098,62,764
+1996-96,Atlanta Olympics,Hard,64,A,19960722,1,101736,1,,Andre Agassi,R,180,USA,26.2,102035,,,Jonas Bjorkman,R,183,SWE,24.3,7-6(6) 7-6(5),3,R64,,,,,,,,,,,,,,,,,,,,6,3098,62,764
 1996-96,Atlanta Olympics,Hard,64,A,19960722,2,102344,,,Karol Kucera,R,188,SVK,22.3,102347,,WC,Dmitri Tomashevich,R,,UZB,22.3,6-3 2-6 6-0,3,R64,,,,,,,,,,,,,,,,,,,,87,555,337,89
 1996-96,Atlanta Olympics,Hard,64,A,19960722,3,102214,,,Oscar Ortiz,L,183,MEX,23.2,102375,,WC,Dinu Pescariu,R,185,ROU,22.2,6-2 6-2,3,R64,,,,,,,,,,,,,,,,,,,,232,170,217,181
 1996-96,Atlanta Olympics,Hard,64,A,19960722,4,102247,,,Andrea Gaudenzi,R,183,ITA,22.9,101475,15,,Carlos Costa,R,183,ESP,28.2,6-3 6-2,3,R64,,,,,,,,,,,,,,,,,,,,38,1016,34,1055
 1996-96,Atlanta Olympics,Hard,64,A,19960722,5,101889,,,Todd Woodbridge,R,178,AUS,25.3,101733,9,,Jan Siemerink,L,183,NED,26.2,6-2 6-4,3,R64,,,,,,,,,,,,,,,,,,,,43,915,21,1306
-1996-96,Atlanta Olympics,Hard,64,A,19960722,6,102450,,,Tim Henman,R,185,GBR,21.8,101412,,,Shuzo Matsuoka,R,185,JPN,28.7,7-6 6-3,3,R64,,,,,,,,,,,,,,,,,,,,37,1025,85,570
+1996-96,Atlanta Olympics,Hard,64,A,19960722,6,102450,,,Tim Henman,R,185,GBR,21.8,101412,,,Shuzo Matsuoka,R,185,JPN,28.7,7-6(4) 6-3,3,R64,,,,,,,,,,,,,,,,,,,,37,1025,85,570
 1996-96,Atlanta Olympics,Hard,64,A,19960722,7,101647,,,Byron Black,R,175,ZIM,26.7,101703,,,Guillaume Raoux,R,180,FRA,26.4,6-3 3-6 6-2,3,R64,,,,,,,,,,,,,,,,,,,,35,1053,78,625
 1996-96,Atlanta Olympics,Hard,64,A,19960722,8,101965,5,,Wayne Ferreira,R,185,RSA,24.8,102477,,WC,Gaston Etlis,R,185,ARG,21.7,6-4 6-3,3,R64,,,,,,,,,,,,,,,,,,,,11,2184,152,269
-1996-96,Atlanta Olympics,Hard,64,A,19960722,9,102358,3,,Thomas Enqvist,R,190,SWE,22.3,101806,,,Marc Kevin Goellner,R,196,GER,25.8,7-6 4-6 6-4,3,R64,,,,,,,,,,,,,,,,,,,,10,2216,102,474
+1996-96,Atlanta Olympics,Hard,64,A,19960722,9,102358,3,,Thomas Enqvist,R,190,SWE,22.3,101806,,,Marc Kevin Goellner,R,196,GER,25.8,7-6(4) 4-6 6-4,3,R64,,,,,,,,,,,,,,,,,,,,10,2216,102,474
 1996-96,Atlanta Olympics,Hard,64,A,19960722,10,102227,,WC,Sargis Sargsian,R,180,ARM,23.1,102110,,WC,Daniel Nestor,L,190,CAN,23.8,6-4 6-4,3,R64,,,,,,,,,,,,,,,,,,,,146,287,138,322
 1996-96,Atlanta Olympics,Hard,64,A,19960722,11,101809,,,Nicolas Pereira,R,188,VEN,25.8,102024,,,Hernan Gumy,R,188,ARG,24.3,6-4 6-0,3,R64,,,,,,,,,,,,,,,,,,,,74,658,44,905
-1996-96,Atlanta Olympics,Hard,64,A,19960722,12,102233,,WC,Leander Paes,R,178,IND,23.0,101191,11,,Richey Reneberg,R,180,USA,30.7,6-7 7-6 1-0 RET,3,R64,,,,,,,,,,,,,,,,,,,,126,356,20,1320
+1996-96,Atlanta Olympics,Hard,64,A,19960722,12,102233,,WC,Leander Paes,R,178,IND,23.0,101191,11,,Richey Reneberg,R,180,USA,30.7,6-7(2) 7-6(7) 1-0 RET,3,R64,,,,,,,,,,,,,,,,,,,,126,356,20,1320
 1996-96,Atlanta Olympics,Hard,64,A,19960722,13,101746,14,,Renzo Furlan,R,175,ITA,26.1,102562,,,Jiri Novak,R,190,CZE,21.3,4-6 6-4 6-3,3,R64,,,,,,,,,,,,,,,,,,,,26,1235,45,901
-1996-96,Atlanta Olympics,Hard,64,A,19960722,14,101382,,,Marcelo Filippini,R,178,URU,28.9,102192,,WC,Luis Adrian Morejon,R,178,ECU,23.3,6-7 7-5 6-1,3,R64,,,,,,,,,,,,,,,,,,,,96,496,124,371
+1996-96,Atlanta Olympics,Hard,64,A,19960722,14,101382,,,Marcelo Filippini,R,178,URU,28.9,102192,,WC,Luis Adrian Morejon,R,178,ECU,23.3,6-7(3) 7-5 6-1,3,R64,,,,,,,,,,,,,,,,,,,,96,496,124,371
 1996-96,Atlanta Olympics,Hard,64,A,19960722,15,101775,,,Frederik Fetterlein,R,190,DEN,26.0,101797,,,Jacco Eltingh,R,188,NED,25.8,6-4 4-6 8-6,3,R64,,,,,,,,,,,,,,,,,,,,116,393,186,219
 1996-96,Atlanta Olympics,Hard,64,A,19960722,16,101820,8,,Marc Rosset,R,201,SUI,25.7,102271,,WC,Hicham Arazi,L,175,MAR,22.7,6-2 6-3,3,R64,,,,,,,,,,,,,,,,,,,,17,1504,80,613
-1996-96,Atlanta Olympics,Hard,64,A,19960722,17,101589,7,,Arnaud Boetsch,R,183,FRA,27.3,101601,,,Brett Steven,R,185,NZL,27.2,6-2 7-6,3,R64,,,,,,,,,,,,,,,,,,,,19,1363,55,797
+1996-96,Atlanta Olympics,Hard,64,A,19960722,17,101589,7,,Arnaud Boetsch,R,183,FRA,27.3,101601,,,Brett Steven,R,185,NZL,27.2,6-2 7-6(2),3,R64,,,,,,,,,,,,,,,,,,,,19,1363,55,797
 1996-96,Atlanta Olympics,Hard,64,A,19960722,18,101843,,,Sergi Bruguera,R,188,ESP,25.5,102318,,WC,Andrei Pavel,R,183,ROU,22.4,2-6 6-1 8-6,3,R64,,,,,,,,,,,,,,,,,,,,67,712,215,183
 1996-96,Atlanta Olympics,Hard,64,A,19960722,19,102257,,,Greg Rusedski,L,193,GBR,22.8,101318,,,Javier Frana,L,185,ARG,29.5,4-6 7-5 6-3,3,R64,,,,,,,,,,,,,,,,,,,,72,671,92,517
 1996-96,Atlanta Olympics,Hard,64,A,19960722,20,101320,13,,Magnus Gustafsson,R,185,SWE,29.5,101086,,WC,Ronald Agenor,R,180,USA,31.6,6-2 6-4,3,R64,,,,,,,,,,,,,,,,,,,,27,1171,214,183
-1996-96,Atlanta Olympics,Hard,64,A,19960722,21,101727,10,,Jason Stoltenberg,R,185,AUS,26.2,102372,,WC,Sule Ladipo,R,180,NGR,22.2,7-6 6-3,3,R64,,,,,,,,,,,,,,,,,,,,24,1265,256,147
+1996-96,Atlanta Olympics,Hard,64,A,19960722,21,101727,10,,Jason Stoltenberg,R,185,AUS,26.2,102372,,WC,Sule Ladipo,R,180,NGR,22.2,7-6(4) 6-3,3,R64,,,,,,,,,,,,,,,,,,,,24,1265,256,147
 1996-96,Atlanta Olympics,Hard,64,A,19960722,22,102202,,,Kenneth Carlsen,L,190,DEN,23.2,101956,,,Mark Knowles,R,190,BAH,24.8,7-5 6-3,3,R64,,,,,,,,,,,,,,,,,,,,59,784,108,449
-1996-96,Atlanta Olympics,Hard,64,A,19960722,23,102087,,,Oleg Ogorodov,R,193,UZB,24.0,102031,,,Sandor Noszaly,R,193,HUN,24.3,7-5 7-6,3,R64,,,,,,,,,,,,,,,,,,,,118,387,113,413
-1996-96,Atlanta Olympics,Hard,64,A,19960722,24,101613,4,,Malivai Washington,R,180,USA,27.0,102466,,,Jan Kroslak,R,188,SVK,21.7,6-3 7-6,3,R64,,,,,,,,,,,,,,,,,,,,13,2011,89,547
-1996-96,Atlanta Olympics,Hard,64,A,19960722,25,102610,6,,Albert Costa,R,180,ESP,21.0,102205,,WC,Sebastien Lareau,R,183,CAN,23.2,7-6 6-4,3,R64,,,,,,,,,,,,,,,,,,,,15,1703,112,414
+1996-96,Atlanta Olympics,Hard,64,A,19960722,23,102087,,,Oleg Ogorodov,R,193,UZB,24.0,102031,,,Sandor Noszaly,R,193,HUN,24.3,7-5 7-6(6),3,R64,,,,,,,,,,,,,,,,,,,,118,387,113,413
+1996-96,Atlanta Olympics,Hard,64,A,19960722,24,101613,4,,Malivai Washington,R,180,USA,27.0,102466,,,Jan Kroslak,R,188,SVK,21.7,6-3 7-6(3),3,R64,,,,,,,,,,,,,,,,,,,,13,2011,89,547
+1996-96,Atlanta Olympics,Hard,64,A,19960722,25,102610,6,,Albert Costa,R,180,ESP,21.0,102205,,WC,Sebastien Lareau,R,183,CAN,23.2,7-6(11) 6-4,3,R64,,,,,,,,,,,,,,,,,,,,15,1703,112,414
 1996-96,Atlanta Olympics,Hard,64,A,19960722,26,101897,,,Fernando Meligeni,L,180,BRA,25.2,101924,,,Stefano Pescosolido,R,185,ITA,25.1,6-4 6-2,3,R64,,,,,,,,,,,,,,,,,,,,93,511,82,583
-1996-96,Atlanta Olympics,Hard,64,A,19960722,27,102286,,WC,Wayne Black,R,170,ZIM,22.6,102655,,WC,Jimy Szymanski,R,175,VEN,20.8,6-7 6-4 6-3,3,R64,,,,,,,,,,,,,,,,,,,,168,239,182,223
-1996-96,Atlanta Olympics,Hard,64,A,19960722,28,102882,,,Mark Philippoussis,R,196,AUS,19.7,101235,12,,Paul Haarhuis,R,188,NED,30.4,7-6 7-6,3,R64,,,,,,,,,,,,,,,,,,,,36,1040,23,1279
+1996-96,Atlanta Olympics,Hard,64,A,19960722,27,102286,,WC,Wayne Black,R,170,ZIM,22.6,102655,,WC,Jimy Szymanski,R,175,VEN,20.8,6-7(4) 6-4 6-3,3,R64,,,,,,,,,,,,,,,,,,,,168,239,182,223
+1996-96,Atlanta Olympics,Hard,64,A,19960722,28,102882,,,Mark Philippoussis,R,196,AUS,19.7,101235,12,,Paul Haarhuis,R,188,NED,30.4,7-6(4) 7-6(2),3,R64,,,,,,,,,,,,,,,,,,,,36,1040,23,1279
 1996-96,Atlanta Olympics,Hard,64,A,19960722,29,101888,16,,Daniel Vacek,R,190,CZE,25.3,102184,,,David Prinosil,R,185,GER,23.3,6-4 2-6 6-4,3,R64,,,,,,,,,,,,,,,,,,,,33,1080,66,724
 1996-96,Atlanta Olympics,Hard,64,A,19960722,30,101249,,WC,Andrei Olhovskiy,R,185,RUS,30.2,102839,,,Nicolas Lapentti,R,188,ECU,19.9,6-1 3-6 8-6,3,R64,,,,,,,,,,,,,,,,,,,,101,486,79,616
 1996-96,Atlanta Olympics,Hard,64,A,19960722,31,102104,,,Christian Ruud,R,188,NOR,23.9,103060,,WC,Alejandro Hernandez,R,180,MEX,18.8,6-3 2-6 8-6,3,R64,,,,,,,,,,,,,,,,,,,,73,670,134,330
 1996-96,Atlanta Olympics,Hard,64,A,19960722,32,102154,,,Marcos Ondruska,R,183,RSA,23.5,101964,2,,Goran Ivanisevic,L,193,CRO,24.8,6-2 6-4,3,R64,,,,,,,,,,,,,,,,,,,,104,467,7,2753
 1996-96,Atlanta Olympics,Hard,64,A,19960722,33,101736,1,,Andre Agassi,R,180,USA,26.2,102344,,,Karol Kucera,R,188,SVK,22.3,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,6,3098,87,555
-1996-96,Atlanta Olympics,Hard,64,A,19960722,34,102247,,,Andrea Gaudenzi,R,183,ITA,22.9,102214,,,Oscar Ortiz,L,183,MEX,23.2,6-1 7-6,3,R32,,,,,,,,,,,,,,,,,,,,38,1016,232,170
-1996-96,Atlanta Olympics,Hard,64,A,19960722,35,101889,,,Todd Woodbridge,R,178,AUS,25.3,102450,,,Tim Henman,R,185,GBR,21.8,7-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,43,915,37,1025
+1996-96,Atlanta Olympics,Hard,64,A,19960722,34,102247,,,Andrea Gaudenzi,R,183,ITA,22.9,102214,,,Oscar Ortiz,L,183,MEX,23.2,6-1 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,38,1016,232,170
+1996-96,Atlanta Olympics,Hard,64,A,19960722,35,101889,,,Todd Woodbridge,R,178,AUS,25.3,102450,,,Tim Henman,R,185,GBR,21.8,7-6(6) 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,43,915,37,1025
 1996-96,Atlanta Olympics,Hard,64,A,19960722,36,101965,5,,Wayne Ferreira,R,185,RSA,24.8,101647,,,Byron Black,R,175,ZIM,26.7,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,11,2184,35,1053
-1996-96,Atlanta Olympics,Hard,64,A,19960722,37,102358,3,,Thomas Enqvist,R,190,SWE,22.3,102227,,WC,Sargis Sargsian,R,180,ARM,23.1,4-6 7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,10,2216,146,287
+1996-96,Atlanta Olympics,Hard,64,A,19960722,37,102358,3,,Thomas Enqvist,R,190,SWE,22.3,102227,,WC,Sargis Sargsian,R,180,ARM,23.1,4-6 7-6(2) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,10,2216,146,287
 1996-96,Atlanta Olympics,Hard,64,A,19960722,38,102233,,WC,Leander Paes,R,178,IND,23.0,101809,,,Nicolas Pereira,R,188,VEN,25.8,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,126,356,74,658
 1996-96,Atlanta Olympics,Hard,64,A,19960722,39,101746,14,,Renzo Furlan,R,175,ITA,26.1,101382,,,Marcelo Filippini,R,178,URU,28.9,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,26,1235,96,496
-1996-96,Atlanta Olympics,Hard,64,A,19960722,40,101820,8,,Marc Rosset,R,201,SUI,25.7,101775,,,Frederik Fetterlein,R,190,DEN,26.0,7-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,17,1504,116,393
-1996-96,Atlanta Olympics,Hard,64,A,19960722,41,101843,,,Sergi Bruguera,R,188,ESP,25.5,101589,7,,Arnaud Boetsch,R,183,FRA,27.3,7-6 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,67,712,19,1363
-1996-96,Atlanta Olympics,Hard,64,A,19960722,42,102257,,,Greg Rusedski,L,193,GBR,22.8,101320,13,,Magnus Gustafsson,R,185,SWE,29.5,6-7 7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,72,671,27,1171
+1996-96,Atlanta Olympics,Hard,64,A,19960722,40,101820,8,,Marc Rosset,R,201,SUI,25.7,101775,,,Frederik Fetterlein,R,190,DEN,26.0,7-6(5) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,17,1504,116,393
+1996-96,Atlanta Olympics,Hard,64,A,19960722,41,101843,,,Sergi Bruguera,R,188,ESP,25.5,101589,7,,Arnaud Boetsch,R,183,FRA,27.3,7-6(7) 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,67,712,19,1363
+1996-96,Atlanta Olympics,Hard,64,A,19960722,42,102257,,,Greg Rusedski,L,193,GBR,22.8,101320,13,,Magnus Gustafsson,R,185,SWE,29.5,6-7(4) 7-6(3) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,72,671,27,1171
 1996-96,Atlanta Olympics,Hard,64,A,19960722,43,102202,,,Kenneth Carlsen,L,190,DEN,23.2,101727,10,,Jason Stoltenberg,R,185,AUS,26.2,6-2 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,59,784,24,1265
 1996-96,Atlanta Olympics,Hard,64,A,19960722,44,101613,4,,Malivai Washington,R,180,USA,27.0,102087,,,Oleg Ogorodov,R,193,UZB,24.0,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,13,2011,118,387
-1996-96,Atlanta Olympics,Hard,64,A,19960722,45,101897,,,Fernando Meligeni,L,180,BRA,25.2,102610,6,,Albert Costa,R,180,ESP,21.0,7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,93,511,15,1703
+1996-96,Atlanta Olympics,Hard,64,A,19960722,45,101897,,,Fernando Meligeni,L,180,BRA,25.2,102610,6,,Albert Costa,R,180,ESP,21.0,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,93,511,15,1703
 1996-96,Atlanta Olympics,Hard,64,A,19960722,46,102882,,,Mark Philippoussis,R,196,AUS,19.7,102286,,WC,Wayne Black,R,170,ZIM,22.6,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,36,1040,168,239
-1996-96,Atlanta Olympics,Hard,64,A,19960722,47,101249,,WC,Andrei Olhovskiy,R,185,RUS,30.2,101888,16,,Daniel Vacek,R,190,CZE,25.3,6-3 7-6,3,R32,,,,,,,,,,,,,,,,,,,,101,486,33,1080
-1996-96,Atlanta Olympics,Hard,64,A,19960722,48,102104,,,Christian Ruud,R,188,NOR,23.9,102154,,,Marcos Ondruska,R,183,RSA,23.5,7-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,73,670,104,467
+1996-96,Atlanta Olympics,Hard,64,A,19960722,47,101249,,WC,Andrei Olhovskiy,R,185,RUS,30.2,101888,16,,Daniel Vacek,R,190,CZE,25.3,6-3 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,101,486,33,1080
+1996-96,Atlanta Olympics,Hard,64,A,19960722,48,102104,,,Christian Ruud,R,188,NOR,23.9,102154,,,Marcos Ondruska,R,183,RSA,23.5,7-6(6) 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,73,670,104,467
 1996-96,Atlanta Olympics,Hard,64,A,19960722,49,101736,1,,Andre Agassi,R,180,USA,26.2,102247,,,Andrea Gaudenzi,R,183,ITA,22.9,2-6 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,6,3098,38,1016
-1996-96,Atlanta Olympics,Hard,64,A,19960722,50,101965,5,,Wayne Ferreira,R,185,RSA,24.8,101889,,,Todd Woodbridge,R,178,AUS,25.3,7-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,,11,2184,43,915
-1996-96,Atlanta Olympics,Hard,64,A,19960722,51,102233,,WC,Leander Paes,R,178,IND,23.0,102358,3,,Thomas Enqvist,R,190,SWE,22.3,7-5 7-6,3,R16,,,,,,,,,,,,,,,,,,,,126,356,10,2216
+1996-96,Atlanta Olympics,Hard,64,A,19960722,50,101965,5,,Wayne Ferreira,R,185,RSA,24.8,101889,,,Todd Woodbridge,R,178,AUS,25.3,7-6(3) 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,11,2184,43,915
+1996-96,Atlanta Olympics,Hard,64,A,19960722,51,102233,,WC,Leander Paes,R,178,IND,23.0,102358,3,,Thomas Enqvist,R,190,SWE,22.3,7-5 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,126,356,10,2216
 1996-96,Atlanta Olympics,Hard,64,A,19960722,52,101746,14,,Renzo Furlan,R,175,ITA,26.1,101820,8,,Marc Rosset,R,201,SUI,25.7,6-0 4-2 RET,3,R16,,,,,,,,,,,,,,,,,,,,26,1235,17,1504
-1996-96,Atlanta Olympics,Hard,64,A,19960722,53,101843,,,Sergi Bruguera,R,188,ESP,25.5,102257,,,Greg Rusedski,L,193,GBR,22.8,7-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,67,712,72,671
-1996-96,Atlanta Olympics,Hard,64,A,19960722,54,101613,4,,Malivai Washington,R,180,USA,27.0,102202,,,Kenneth Carlsen,L,190,DEN,23.2,6-7 6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,13,2011,59,784
-1996-96,Atlanta Olympics,Hard,64,A,19960722,55,101897,,,Fernando Meligeni,L,180,BRA,25.2,102882,,,Mark Philippoussis,R,196,AUS,19.7,7-6 4-6 8-6,3,R16,,,,,,,,,,,,,,,,,,,,93,511,36,1040
+1996-96,Atlanta Olympics,Hard,64,A,19960722,53,101843,,,Sergi Bruguera,R,188,ESP,25.5,102257,,,Greg Rusedski,L,193,GBR,22.8,7-6(7) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,67,712,72,671
+1996-96,Atlanta Olympics,Hard,64,A,19960722,54,101613,4,,Malivai Washington,R,180,USA,27.0,102202,,,Kenneth Carlsen,L,190,DEN,23.2,6-7(8) 6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,13,2011,59,784
+1996-96,Atlanta Olympics,Hard,64,A,19960722,55,101897,,,Fernando Meligeni,L,180,BRA,25.2,102882,,,Mark Philippoussis,R,196,AUS,19.7,7-6(7) 4-6 8-6,3,R16,,,,,,,,,,,,,,,,,,,,93,511,36,1040
 1996-96,Atlanta Olympics,Hard,64,A,19960722,56,101249,,WC,Andrei Olhovskiy,R,185,RUS,30.2,102104,,,Christian Ruud,R,188,NOR,23.9,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,101,486,73,670
 1996-96,Atlanta Olympics,Hard,64,A,19960722,57,101736,1,,Andre Agassi,R,180,USA,26.2,101965,5,,Wayne Ferreira,R,185,RSA,24.8,7-5 4-6 7-5,3,QF,,,,,,,,,,,,,,,,,,,,6,3098,11,2184
 1996-96,Atlanta Olympics,Hard,64,A,19960722,58,102233,,WC,Leander Paes,R,178,IND,23.0,101746,14,,Renzo Furlan,R,175,ITA,26.1,6-1 7-5,3,QF,,,,,,,,,,,,,,,,,,,,126,356,26,1235
-1996-96,Atlanta Olympics,Hard,64,A,19960722,59,101843,,,Sergi Bruguera,R,188,ESP,25.5,101613,4,,Malivai Washington,R,180,USA,27.0,7-6 4-6 7-5,3,QF,,,,,,,,,,,,,,,,,,,,67,712,13,2011
-1996-96,Atlanta Olympics,Hard,64,A,19960722,60,101897,,,Fernando Meligeni,L,180,BRA,25.2,101249,,WC,Andrei Olhovskiy,R,185,RUS,30.2,6-7 7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,93,511,101,486
-1996-96,Atlanta Olympics,Hard,64,A,19960722,61,101736,1,,Andre Agassi,R,180,USA,26.2,102233,,WC,Leander Paes,R,178,IND,23.0,7-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,6,3098,126,356
-1996-96,Atlanta Olympics,Hard,64,A,19960722,62,101843,,,Sergi Bruguera,R,188,ESP,25.5,101897,,,Fernando Meligeni,L,180,BRA,25.2,7-6 6-2,3,SF,,,,,,,,,,,,,,,,,,,,67,712,93,511
+1996-96,Atlanta Olympics,Hard,64,A,19960722,59,101843,,,Sergi Bruguera,R,188,ESP,25.5,101613,4,,Malivai Washington,R,180,USA,27.0,7-6(8) 4-6 7-5,3,QF,,,,,,,,,,,,,,,,,,,,67,712,13,2011
+1996-96,Atlanta Olympics,Hard,64,A,19960722,60,101897,,,Fernando Meligeni,L,180,BRA,25.2,101249,,WC,Andrei Olhovskiy,R,185,RUS,30.2,6-7(5) 7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,93,511,101,486
+1996-96,Atlanta Olympics,Hard,64,A,19960722,61,101736,1,,Andre Agassi,R,180,USA,26.2,102233,,WC,Leander Paes,R,178,IND,23.0,7-6(5) 6-3,3,SF,,,,,,,,,,,,,,,,,,,,6,3098,126,356
+1996-96,Atlanta Olympics,Hard,64,A,19960722,62,101843,,,Sergi Bruguera,R,188,ESP,25.5,101897,,,Fernando Meligeni,L,180,BRA,25.2,7-6(9) 6-2,3,SF,,,,,,,,,,,,,,,,,,,,67,712,93,511
 1996-96,Atlanta Olympics,Hard,64,A,19960722,63,101736,1,,Andre Agassi,R,180,USA,26.2,101843,,,Sergi Bruguera,R,188,ESP,25.5,6-2 6-3 6-1,5,F,,,,,,,,,,,,,,,,,,,,6,3098,67,712
 1996-96,Atlanta Olympics,Hard,64,A,19960722,99,102233,,WC,Leander Paes,R,178,IND,23.0,101897,,,Fernando Meligeni,L,180,BRA,25.2,3-6 6-2 6-4,3,BR,,,,,,,,,,,,,,,,,,,,126,356,93,511
 1996-319,Kitzbuhel,Clay,48,A,19960722,1,103182,,,Markus Hipfl,R,178,AUT,18.2,102905,,WC,Stefan Koubek,L,175,AUT,19.5,6-2 6-3,3,R64,78,1,3,55,22,17,18,8,5,6,2,6,77,51,25,12,9,7,12,550,35,462,50
@@ -2801,7 +2801,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-420,New Haven,Hard,56,A,19960812,21,101733,10,,Jan Siemerink,L,183,NED,26.3,101597,,WC,Louis Gloria,L,175,USA,27.3,6-1 6-2,3,R64,67,5,4,69,29,20,23,8,7,8,2,2,45,30,13,6,7,4,9,32,1094,488,44
 1996-420,New Haven,Hard,56,A,19960812,22,101806,,,Marc Kevin Goellner,R,196,GER,25.8,101962,16,,Younes El Aynaoui,R,193,MAR,24.9,6-3 6-4,3,R64,57,7,1,51,27,21,19,10,0,0,4,5,58,33,24,11,9,2,4,94,474,45,860
 1996-420,New Haven,Hard,56,A,19960812,23,102158,,,Patrick Rafter,R,185,AUS,23.6,101062,,,Mats Wilander,R,183,SWE,31.9,6-3 6-4,3,R64,62,3,1,46,22,15,15,9,1,3,2,5,51,35,20,5,10,1,6,72,677,117,398
-1996-420,New Haven,Hard,56,A,19960812,24,101263,,WC,Luke Jensen,U,190,USA,30.1,102133,,,Laurence Tieleman,R,180,ITA,23.7,2-6 7-5 6-4,3,R64,111,9,3,101,64,44,21,15,9,12,15,6,94,44,34,25,15,4,7,338,88,190,207
+1996-420,New Haven,Hard,56,A,19960812,24,101263,,WC,Luke Jensen,A,190,USA,30.1,102133,,,Laurence Tieleman,R,180,ITA,23.7,2-6 7-5 6-4,3,R64,111,9,3,101,64,44,21,15,9,12,15,6,94,44,34,25,15,4,7,338,88,190,207
 1996-420,New Haven,Hard,56,A,19960812,25,102338,1,,Yevgeny Kafelnikov,R,190,RUS,22.4,101249,,,Andrei Olhovskiy,R,185,RUS,30.3,6-7(0) 6-3 6-3,3,R32,102,15,6,101,54,41,26,15,5,5,16,4,92,43,34,29,15,2,5,4,3213,90,486
 1996-420,New Haven,Hard,56,A,19960812,26,102247,15,,Andrea Gaudenzi,R,183,ITA,23.0,102466,,,Jan Kroslak,R,188,SVK,21.8,6-3 7-6(5),3,R32,88,1,1,63,44,30,14,10,0,1,7,11,75,41,28,16,11,6,9,42,909,83,547
 1996-420,New Haven,Hard,56,A,19960812,27,101901,,,Chuck Adams,R,185,USA,25.3,101412,,,Shuzo Matsuoka,R,185,JPN,28.7,6-3 6-4,3,R32,72,5,5,56,29,25,15,10,0,0,7,1,55,34,27,8,9,3,5,382,71,95,472
@@ -2817,7 +2817,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-420,New Haven,Hard,56,A,19960812,37,101843,,,Sergi Bruguera,R,188,ESP,25.5,101611,7,,Cedric Pioline,R,188,FRA,27.1,2-6 6-3 6-4,3,R32,115,12,2,83,47,36,15,14,2,5,6,4,80,42,32,19,13,8,11,73,675,17,1500
 1996-420,New Haven,Hard,56,A,19960812,38,101733,10,,Jan Siemerink,L,183,NED,26.3,101776,,,Sandon Stolle,R,193,AUS,26.0,7-5 6-2,3,R32,73,3,6,63,30,22,14,10,3,6,1,7,59,34,21,7,10,6,12,32,1094,67,704
 1996-420,New Haven,Hard,56,A,19960812,39,102158,,,Patrick Rafter,R,185,AUS,23.6,101806,,,Marc Kevin Goellner,R,196,GER,25.8,6-3 6-2,3,R32,67,3,1,51,23,20,16,8,2,2,6,6,61,29,22,11,9,3,7,72,677,94,474
-1996-420,New Haven,Hard,56,A,19960812,40,101990,2,,Richard Krajicek,R,196,NED,24.6,101263,,WC,Luke Jensen,U,190,USA,30.1,6-3 6-7(5) 7-6(2),3,R32,129,24,5,125,64,56,31,17,5,6,12,2,109,72,50,24,16,5,7,8,2668,338,88
+1996-420,New Haven,Hard,56,A,19960812,40,101990,2,,Richard Krajicek,R,196,NED,24.6,101263,,WC,Luke Jensen,A,190,USA,30.1,6-3 6-7(5) 7-6(2),3,R32,129,24,5,125,64,56,31,17,5,6,12,2,109,72,50,24,16,5,7,8,2668,338,88
 1996-420,New Haven,Hard,56,A,19960812,41,102338,1,,Yevgeny Kafelnikov,R,190,RUS,22.4,102247,15,,Andrea Gaudenzi,R,183,ITA,23.0,6-1 6-4,3,R16,77,7,3,57,33,24,16,9,1,1,4,1,69,36,21,18,8,10,13,4,3213,42,909
 1996-420,New Haven,Hard,56,A,19960812,42,101711,,,Alex Obrien,R,185,USA,26.4,101901,,,Chuck Adams,R,185,USA,25.3,6-3 2-6 6-2,3,R16,108,8,1,79,50,37,15,13,3,5,5,5,83,51,31,16,12,2,5,169,239,382,71
 1996-420,New Haven,Hard,56,A,19960812,43,102882,14,,Mark Philippoussis,R,196,AUS,19.7,101793,3,,Jim Courier,R,185,USA,25.9,7-6(5) 7-6(3),3,R16,101,14,8,77,41,36,17,12,0,3,5,9,83,52,37,16,12,4,7,37,1006,9,2337
@@ -2829,7 +2829,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-420,New Haven,Hard,56,A,19960812,49,101711,,,Alex Obrien,R,185,USA,26.4,102338,1,,Yevgeny Kafelnikov,R,190,RUS,22.4,6-4 6-4,3,QF,66,6,0,55,41,32,11,10,1,1,4,3,60,36,27,12,10,7,9,169,239,4,3213
 1996-420,New Haven,Hard,56,A,19960812,50,102882,14,,Mark Philippoussis,R,196,AUS,19.7,101820,6,,Marc Rosset,R,201,SUI,25.7,6-2 6-3,3,QF,68,10,5,53,32,27,12,9,1,1,4,4,54,35,24,8,8,10,13,37,1006,16,1504
 1996-420,New Haven,Hard,56,A,19960812,51,101965,4,,Wayne Ferreira,R,185,RSA,24.9,101888,12,,Daniel Vacek,R,190,CZE,25.3,6-2 6-7(6) 6-3,3,QF,95,7,4,103,54,44,30,15,6,6,7,6,82,49,34,19,14,0,3,10,2275,34,1048
-1996-420,New Haven,Hard,56,A,19960812,52,101733,10,,Jan Siemerink,L,183,NED,26.3,101990,2,,Richard Krajicek,R,196,NED,24.6,6-4(3) 6-4,3,QF,62,4,1,52,35,32,13,10,0,0,2,2,65,45,30,11,10,1,3,32,1094,8,2668
+1996-420,New Haven,Hard,56,A,19960812,52,101733,10,,Jan Siemerink,L,183,NED,26.3,101990,2,,Richard Krajicek,R,196,NED,24.6,7-6(3) 6-4,3,QF,62,4,1,52,35,32,13,10,0,0,2,2,65,45,30,11,10,1,3,32,1094,8,2668
 1996-420,New Haven,Hard,56,A,19960812,53,101711,,,Alex Obrien,R,185,USA,26.4,102882,14,,Mark Philippoussis,R,196,AUS,19.7,7-6(4) 6-7(4) 6-4,3,SF,143,8,4,109,65,53,29,17,8,8,23,5,119,79,62,23,17,5,6,169,239,37,1006
 1996-420,New Haven,Hard,56,A,19960812,54,101733,10,,Jan Siemerink,L,183,NED,26.3,101965,4,,Wayne Ferreira,R,185,RSA,24.9,6-3 3-6 6-3,3,SF,111,4,4,96,60,39,22,14,14,16,6,3,92,52,39,17,13,7,10,32,1094,10,2275
 1996-420,New Haven,Hard,56,A,19960812,55,101711,,,Alex Obrien,R,185,USA,26.4,101733,10,,Jan Siemerink,L,183,NED,26.3,7-6(6) 6-4,3,F,102,2,1,80,60,43,10,11,1,2,8,6,78,35,25,23,11,3,5,169,239,32,1094
@@ -3170,10 +3170,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-773,Bucharest,Clay,32,A,19960909,29,102238,4,,Alberto Berasategui,R,173,ESP,23.2,102104,,,Christian Ruud,R,188,NOR,24.0,6-0 7-5,3,SF,70,0,1,54,35,22,12,9,0,2,0,2,54,37,14,8,9,2,8,25,1319,59,767
 1996-773,Bucharest,Clay,32,A,19960909,30,102845,3,,Carlos Moya,R,190,ESP,20.0,102318,,WC,Andrei Pavel,R,183,ROU,22.6,4-6 6-3 6-0,3,SF,85,0,0,72,48,33,14,13,1,3,0,0,78,54,34,9,12,4,9,24,1336,182,222
 1996-773,Bucharest,Clay,32,A,19960909,31,102238,4,,Alberto Berasategui,R,173,ESP,23.2,102845,3,,Carlos Moya,R,190,ESP,20.0,6-1 7-6(5),3,F,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9,25,1319,24,1336
-1996-D025,Davis Cup G1 PO: CHI vs PER,Clay,4,D,19960920,1,102701,,,Marcelo Rios,L,175,CHI,20.7,108585,,,Americo Venero Montes,U,175,PER,24.5,7-5 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,,10,2101,,
+1996-D025,Davis Cup G1 PO: CHI vs PER,Clay,4,D,19960920,1,102701,,,Marcelo Rios,L,175,CHI,20.7,108585,,,Americo Venero Montes,L,175,PER,24.5,7-5 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,,10,2101,,
 1996-D025,Davis Cup G1 PO: CHI vs PER,Clay,4,D,19960920,2,102465,,,Gabriel Silberstein,R,178,CHI,21.9,101574,,,Alejandro Aramburu,R,175,PER,27.5,6-0 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,,223,167,390,70
 1996-D025,Davis Cup G1 PO: CHI vs PER,Clay,4,D,19960920,4,102701,,,Marcelo Rios,L,175,CHI,20.7,101574,,,Alejandro Aramburu,R,175,PER,27.5,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,10,2101,390,70
-1996-D025,Davis Cup G1 PO: CHI vs PER,Clay,4,D,19960920,5,102465,,,Gabriel Silberstein,R,178,CHI,21.9,108585,,,Americo Venero Montes,U,175,PER,24.5,7-5 6-7(7) 6-1,3,RR,,,,,,,,,,,,,,,,,,,,223,167,,
+1996-D025,Davis Cup G1 PO: CHI vs PER,Clay,4,D,19960920,5,102465,,,Gabriel Silberstein,R,178,CHI,21.9,108585,,,Americo Venero Montes,L,175,PER,24.5,7-5 6-7(7) 6-1,3,RR,,,,,,,,,,,,,,,,,,,,223,167,,
 1996-D057,Davis Cup G1 PO: TPE vs INA,Hard,4,D,19960920,1,102543,,,Chia Yen Tsai,R,,TPE,21.5,101444,,,Bonit Wiryawan,R,173,INA,28.5,7-5 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,,716,16,,
 1996-D057,Davis Cup G1 PO: TPE vs INA,Hard,4,D,19960920,2,102119,,,Chih Jung Chen,R,,TPE,23.9,102832,,,Andrian Raturandang,R,,INA,20.1,6-4 6-0 6-3,5,RR,,,,,,,,,,,,,,,,,,,,822,11,1031,5
 1996-D057,Davis Cup G1 PO: TPE vs INA,Hard,4,D,19960920,4,102832,,,Andrian Raturandang,R,,INA,20.1,102543,,,Chia Yen Tsai,R,,TPE,21.5,4-6 7-5 7-6(6) 6-3,5,RR,,,,,,,,,,,,,,,,,,,,1031,5,716,16
@@ -3362,7 +3362,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-573,Marbella,Clay,32,A,19960930,25,101463,,,Bernd Karbacher,R,185,GER,28.4,101016,,LL,Marcos Aurelio Gorriz,L,185,ESP,32.5,6-3 2-6 6-4,3,QF,112,2,0,78,41,31,19,14,4,7,1,0,85,55,39,13,13,8,11,82,580,127,378
 1996-573,Marbella,Clay,32,A,19960930,26,102374,4,,Alex Corretja,R,180,ESP,22.4,101382,,Q,Marcelo Filippini,R,178,URU,29.1,7-5 6-1,3,QF,89,1,2,63,36,25,15,10,2,4,0,0,63,45,28,4,9,3,8,22,1382,107,463
 1996-573,Marbella,Clay,32,A,19960930,27,101806,,,Marc Kevin Goellner,R,196,GER,26.0,102950,,Q,Fernando Vicente,R,180,ESP,19.5,7-5 6-1,3,QF,62,7,4,63,27,23,20,10,3,3,0,2,55,36,23,7,9,1,4,73,638,204,202
-1996-573,Marbella,Clay,32,A,19960930,28,102456,2,,Felix Mantilla,R,180,ESP,22.0,102104,,,Christian Ruud,R,188,NOR,24.1,5-7 7-6(2) 6-3,3,QF,134,4,1,93,60,31,15,13,6,14,2,5,94,57,31,14,14,0,7,16,1576,62,743
+1996-573,Marbella,Clay,32,A,19960930,28,102456,2,,Felix Mantilla,R,180,ESP,22.0,102104,,,Christian Ruud,R,188,NOR,24.1,0-6 7-6(2) 6-3,3,QF,134,4,1,93,60,31,15,13,6,14,2,5,94,57,31,14,14,0,7,16,1576,62,743
 1996-573,Marbella,Clay,32,A,19960930,29,102374,4,,Alex Corretja,R,180,ESP,22.4,101463,,,Bernd Karbacher,R,185,GER,28.4,6-4 6-4,3,SF,93,3,0,69,48,30,11,10,5,8,3,1,64,35,23,12,10,8,13,22,1382,82,580
 1996-573,Marbella,Clay,32,A,19960930,30,101806,,,Marc Kevin Goellner,R,196,GER,26.0,102456,2,,Felix Mantilla,R,180,ESP,22.0,7-5 3-6 6-3,3,SF,97,9,1,81,43,36,17,15,1,4,4,2,91,74,47,10,15,3,7,73,638,16,1576
 1996-573,Marbella,Clay,32,A,19960930,31,101806,,,Marc Kevin Goellner,R,196,GER,26.0,102374,4,,Alex Corretja,R,180,ESP,22.4,7-6(4) 7-6(2),3,F,111,8,4,82,39,33,24,12,3,5,1,3,84,67,48,6,12,6,8,73,638,22,1382
