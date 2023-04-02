@@ -215,7 +215,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-580,Australian Open,Hard,128,G,19970113,90,101843,,,Sergi Bruguera,R,188,ESP,25.9,101723,,,Magnus Larsson,R,193,SWE,26.8,4-6 6-3 6-4 7-6(0),5,R64,126,9,0,127,103,78,14,21,4,7,10,5,150,105,75,20,20,10,14,64,752,43,917
 1997-580,Australian Open,Hard,128,G,19970113,91,101582,,,Gilbert Schaller,R,180,AUT,27.8,102374,,,Alex Corretja,R,180,ESP,22.7,4-6 6-3 6-3 4-6 6-3,5,R64,226,1,0,155,121,69,21,23,11,19,8,4,182,88,59,39,24,14,25,96,497,26,1385
 1997-580,Australian Open,Hard,128,G,19970113,92,102701,9,,Marcelo Rios,L,175,CHI,21.0,102169,,,Michael Joyce,R,180,USA,23.9,6-0 6-4 6-2,5,R64,79,8,4,94,56,44,17,12,6,7,0,8,80,45,25,9,12,5,12,11,2114,99,476
-1997-580,Australian Open,Hard,128,G,19970113,93,102446,,,Andrei Medvedev,R,193,UKR,22.3,101529,15,,Michael Stich,R,193,GER,28.2,4-6 5-7 6-2 4-6 9-7,5,R64,211,7,2,128,78,53,26,18,7,11,9,7,142,79,52,28,17,13,19,36,1114,20,1491
+1997-580,Australian Open,Hard,128,G,19970113,93,102446,,,Andrei Medvedev,R,193,UKR,22.3,101529,15,,Michael Stich,R,193,GER,28.2,4-6 6-1 6-2 4-6 9-7,5,R64,211,7,2,128,78,53,26,18,7,11,9,7,142,79,52,28,17,13,19,36,1114,20,1491
 1997-580,Australian Open,Hard,128,G,19970113,94,102615,,,Dennis Van Scheppingen,R,185,NED,21.5,102139,,Q,Eyal Ran,R,183,ISR,24.1,6-2 6-2 6-2,5,R64,86,2,0,68,50,38,13,12,3,4,2,5,79,48,26,10,12,3,10,109,433,152,283
 1997-580,Australian Open,Hard,128,G,19970113,95,102450,,,Tim Henman,R,185,GBR,22.3,101703,,,Guillaume Raoux,R,180,FRA,26.9,6-3 6-3 6-4,5,R64,105,3,3,80,59,53,7,14,2,2,0,1,84,56,42,10,14,4,8,14,1592,82,583
 1997-580,Australian Open,Hard,128,G,19970113,96,102021,2,,Michael Chang,R,175,USA,24.8,101191,,,Richey Reneberg,R,180,USA,31.2,6-2 7-5 6-1,5,R64,105,11,2,85,47,41,24,14,0,1,3,2,99,53,34,19,14,8,14,2,3597,31,1203
@@ -345,9 +345,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-D083,Davis Cup G1 R1: ZIM vs UKR,Hard,4,D,19970207,4,101647,,,Byron Black,R,175,ZIM,27.3,103005,,,Denis Yakimenko,R,,UKR,19.6,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,57,774,859,10
 1997-D083,Davis Cup G1 R1: ZIM vs UKR,Hard,4,D,19970207,5,102286,,,Wayne Black,R,170,ZIM,23.2,102069,,,Andrei Rybalko,R,180,UKR,24.6,7-6(3) 6-3,3,RR,,,,,,,,,,,,,,,,,,,,265,144,332,102
 1997-D029,Davis Cup G2 QF: CUB vs PER,Hard,4,D,19970207,1,102320,,,Lazaro Navarro Batles,R,,CUB,23.0,101574,,,Alejandro Aramburu,R,175,PER,27.9,6-1 6-4 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,347,96
-1997-D029,Davis Cup G2 QF: CUB vs PER,Hard,4,D,19970207,2,108585,,,Americo Venero Montes,U,175,PER,24.9,101156,,,Juan Pino,R,185,CUB,31.5,6-4 7-5 5-7 6-3,5,RR,,,,,,,,,,,,,,,,,,,,,,199,201
+1997-D029,Davis Cup G2 QF: CUB vs PER,Hard,4,D,19970207,2,108585,,,Americo Venero Montes,L,175,PER,24.9,101156,,,Juan Pino,R,185,CUB,31.5,6-4 7-5 5-7 6-3,5,RR,,,,,,,,,,,,,,,,,,,,,,199,201
 1997-D029,Davis Cup G2 QF: CUB vs PER,Hard,4,D,19970207,4,101156,,,Juan Pino,R,185,CUB,31.5,101409,,,Jaime Yzaga,R,170,PER,29.2,4-6 7-6(4) 1-0 Default,3,RR,,,,,,,,,,,,,,,,,,,,199,201,,
-1997-D029,Davis Cup G2 QF: CUB vs PER,Hard,4,D,19970207,5,108585,,,Americo Venero Montes,U,175,PER,24.9,102320,,,Lazaro Navarro Batles,R,,CUB,23.0,7-6(5) 6-3 6-7(5) 2-6 8-6,5,RR,,,,,,,,,,,,,,,,,,,,,,,
+1997-D029,Davis Cup G2 QF: CUB vs PER,Hard,4,D,19970207,5,108585,,,Americo Venero Montes,L,175,PER,24.9,102320,,,Lazaro Navarro Batles,R,,CUB,23.0,7-6(5) 6-3 6-7(5) 2-6 8-6,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1997-D036,Davis Cup G2 QF: ESA vs URU,Hard,4,D,19970207,1,101976,,,Federico Dondo,R,,URU,25.2,101825,,,Manuel Tejada,R,,ESA,26.1,6-1 6-1 6-1,5,RR,,,,,,,,,,,,,,,,,,,,315,112,1274,2
 1997-D036,Davis Cup G2 QF: ESA vs URU,Hard,4,D,19970207,2,101382,,,Marcelo Filippini,R,178,URU,29.5,108812,,,Jose Baires,U,,ESA,17.1,6-0 7-5 6-3,5,RR,,,,,,,,,,,,,,,,,,,,81,597,,
 1997-D036,Davis Cup G2 QF: ESA vs URU,Hard,4,D,19970207,4,101825,,,Manuel Tejada,R,,ESA,26.1,101382,,,Marcelo Filippini,R,178,URU,29.5,3-1 RET,5,RR,,,,,,,,,,,,,,,,,,,,1274,2,81,597
@@ -528,7 +528,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-402,Memphis,Hard,48,A,19970217,7,101601,,,Brett Steven,R,185,NZL,27.8,102154,,,Marcos Ondruska,R,183,RSA,24.1,6-3 6-4,3,R64,79,8,2,58,38,33,11,10,2,2,4,9,67,38,29,10,9,7,9,129,338,109,420
 1997-402,Memphis,Hard,48,A,19970217,8,102491,,,Alex Radulescu,R,185,GER,22.1,102169,,,Michael Joyce,R,180,USA,24.0,7-5 4-6 6-0,3,R64,104,18,2,89,53,37,17,14,12,15,2,5,97,53,30,21,14,8,14,59,750,98,482
 1997-402,Memphis,Hard,48,A,19970217,9,102925,,Q,Justin Gimelstob,R,196,USA,20.0,101026,,Q,Jim Grabb,R,193,USA,32.8,4-6 6-3 7-6(4),3,R64,132,4,4,108,67,53,22,16,6,7,3,6,97,66,52,13,15,9,10,138,317,209,192
-1997-402,Memphis,Hard,48,A,19970217,10,102401,,,Scott Draper,L,178,AUS,22.7,101263,,WC,Luke Jensen,U,190,USA,30.6,7-6(3) 7-5,3,R64,91,5,0,62,39,32,19,12,0,0,5,12,104,56,42,20,12,8,9,76,624,337,101
+1997-402,Memphis,Hard,48,A,19970217,10,102401,,,Scott Draper,L,178,AUS,22.7,101263,,WC,Luke Jensen,A,190,USA,30.6,7-6(3) 7-5,3,R64,91,5,0,62,39,32,19,12,0,0,5,12,104,56,42,20,12,8,9,76,624,337,101
 1997-402,Memphis,Hard,48,A,19970217,11,101735,,,Richard Fromberg,R,196,AUS,26.8,101265,,WC,Patrick McEnroe,R,183,USA,30.6,7-6(1) 6-3,3,R64,86,17,5,76,41,36,19,11,5,5,2,6,68,42,29,15,10,5,6,84,575,322,109
 1997-402,Memphis,Hard,48,A,19970217,12,101318,,,Javier Frana,L,185,ARG,30.1,101382,,,Marcelo Filippini,R,178,URU,29.5,6-4 6-4,3,R64,77,8,0,55,32,30,12,10,2,2,2,2,70,41,26,17,10,5,7,108,422,77,597
 1997-402,Memphis,Hard,48,A,19970217,13,102205,,,Sebastien Lareau,R,183,CAN,23.8,102428,,Q,Johan Hede,R,,SWE,22.6,2-6 6-3 7-5,3,R64,115,11,6,85,50,35,17,14,4,8,1,1,110,65,40,22,15,10,15,116,377,628,24
@@ -571,9 +571,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-D065,Davis Cup G2 QF: KSA vs LIB,Hard,4,D,19970218,4,102448,,,Ali Hamadeh,R,,LIB,22.4,108751,,,Bader Mohammed Almuqail,U,,KSA,26.4,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,889,9,,
 1997-D065,Davis Cup G2 QF: KSA vs LIB,Hard,4,D,19970218,5,108843,,,Toufiq Zhalan,U,,LIB,23.2,108834,,,Tawfiq Moafa,U,,KSA,20.6,7-5 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1997-D056,Davis Cup G2 QF: PAK vs IRI,Clay,4,D,19970221,1,100431,,,Mansour Bahrami,R,178,IRI,40.8,102068,,,Omer Rashid,R,,PAK,24.7,6-3 6-4 0-6 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,1302,1
-1997-D056,Davis Cup G2 QF: PAK vs IRI,Clay,4,D,19970221,2,108844,,,Hamed Ul Haq,U,,PAK,34.9,108595,,,Mohammed Reza Tavakoli,U,,IRI,25.1,7-6(2) 3-6 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
-1997-D056,Davis Cup G2 QF: PAK vs IRI,Clay,4,D,19970221,4,108596,,,Ramin Raziyani,U,,IRI,22.8,102068,,,Omer Rashid,R,,PAK,24.7,4-6 6-3 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,1302,1
-1997-D056,Davis Cup G2 QF: PAK vs IRI,Clay,4,D,19970221,5,108844,,,Hamed Ul Haq,U,,PAK,34.9,100431,,,Mansour Bahrami,R,178,IRI,40.8,1-6 6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1997-D056,Davis Cup G2 QF: PAK vs IRI,Clay,4,D,19970221,2,108844,,,Hamed Ul Haq,R,,PAK,34.9,108595,,,Mohammed Reza Tavakoli,U,,IRI,25.1,7-6(2) 3-6 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
+1997-D056,Davis Cup G2 QF: PAK vs IRI,Clay,4,D,19970221,4,108596,,,Ramin Raziyani,R,,IRI,22.8,102068,,,Omer Rashid,R,,PAK,24.7,4-6 6-3 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,1302,1
+1997-D056,Davis Cup G2 QF: PAK vs IRI,Clay,4,D,19970221,5,108844,,,Hamed Ul Haq,R,,PAK,34.9,100431,,,Mansour Bahrami,R,178,IRI,40.8,1-6 6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1997-D080,Davis Cup G2 QF: TPE vs SIN,Hard,4,D,19970221,1,101764,,,Yu Hui Lien,R,,TPE,26.6,108870,,,Chee Yen Chen,U,,SGP,23.4,6-2 6-0 6-0,5,RR,,,,,,,,,,,,,,,,,,,,785,13,1302,1
 1997-D080,Davis Cup G2 QF: TPE vs SIN,Hard,4,D,19970221,2,102543,,,Chia Yen Tsai,R,,TPE,21.9,108883,,,Kuen Yiep Ho,U,,SGP,26.0,6-2 6-1 6-4,5,RR,,,,,,,,,,,,,,,,,,,,700,18,,
 1997-D080,Davis Cup G2 QF: TPE vs SIN,Hard,4,D,19970221,4,102543,,,Chia Yen Tsai,R,,TPE,21.9,108870,,,Chee Yen Chen,U,,SGP,23.4,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,700,18,1302,1
@@ -985,7 +985,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-D050,Davis Cup G2 PO: KSA vs HKG,Hard,4,D,19970404,4,102537,,,Melvin Tong,R,,HKG,22.1,108751,,,Bader Mohammed Almuqail,U,,KSA,26.5,7-5 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1997-D050,Davis Cup G2 PO: KSA vs HKG,Hard,4,D,19970404,5,108593,,,Wing Luen Wong,U,,HKG,16.0,108834,,,Tawfiq Moafa,U,,KSA,20.7,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1997-D073,Davis Cup G2 PO: PAK vs SIN,Clay,4,D,19970404,1,102068,,,Omer Rashid,R,,PAK,24.8,108883,,,Kuen Yiep Ho,U,,SGP,26.1,6-3 6-0 7-5,5,RR,,,,,,,,,,,,,,,,,,,,1294,1,,
-1997-D073,Davis Cup G2 PO: PAK vs SIN,Clay,4,D,19970404,2,108844,,,Hamed Ul Haq,U,,PAK,35.0,108872,,,Yang Tat Lim,U,,SGP,21.9,6-4 6-2 6-1,5,RR,,,,,,,,,,,,,,,,,,,,,,,
+1997-D073,Davis Cup G2 PO: PAK vs SIN,Clay,4,D,19970404,2,108844,,,Hamed Ul Haq,R,,PAK,35.0,108872,,,Yang Tat Lim,U,,SGP,21.9,6-4 6-2 6-1,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1997-D073,Davis Cup G2 PO: PAK vs SIN,Clay,4,D,19970404,4,108588,,,Asim Shafik,U,,PAK,21.2,108872,,,Yang Tat Lim,U,,SGP,21.9,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1997-D073,Davis Cup G2 PO: PAK vs SIN,Clay,4,D,19970404,5,108846,,,Syed Nasir Sherazi,U,,PAK,17.0,108884,,,Yuan Xiong Hui,U,,SGP,15.7,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1997-D030,Davis Cup G2 PO: PUR vs CUB,Hard,4,D,19970404,1,101156,,,Juan Pino,R,185,CUB,31.7,107185,,,Hector Nevares,R,,PUR,26.0,6-1 6-1 6-4,5,RR,,,,,,,,,,,,,,,,,,,,214,194,,
@@ -996,9 +996,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-D025,Davis Cup G2 SF: COL vs PER,Clay,4,D,19970404,2,101495,,,Miguel Tobon,R,185,COL,28.7,103632,,,Luis Horna,R,180,PER,16.5,6-7(4) 6-4 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,,570,32,922,8
 1997-D025,Davis Cup G2 SF: COL vs PER,Clay,4,D,19970404,4,101495,,,Miguel Tobon,R,185,COL,28.7,101574,,,Alejandro Aramburu,R,175,PER,28.1,6-4 7-6(3),3,RR,,,,,,,,,,,,,,,,,,,,570,32,345,97
 1997-D025,Davis Cup G2 SF: COL vs PER,Clay,4,D,19970404,5,102756,,,Eduardo Rincon,R,,COL,21.0,103632,,,Luis Horna,R,180,PER,16.5,4-6 6-4 7-6(6),3,RR,,,,,,,,,,,,,,,,,,,,583,30,922,8
-1997-D057,Davis Cup G2 SF: IRI vs TPE,Clay,4,D,19970404,1,108596,,,Ramin Raziyani,U,,IRI,22.9,101764,,,Yu Hui Lien,R,,TPE,26.7,4-6 2-6 7-6(5) 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,,,,1057,5
+1997-D057,Davis Cup G2 SF: IRI vs TPE,Clay,4,D,19970404,1,108596,,,Ramin Raziyani,R,,IRI,22.9,101764,,,Yu Hui Lien,R,,TPE,26.7,4-6 2-6 7-6(5) 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,,,,1057,5
 1997-D057,Davis Cup G2 SF: IRI vs TPE,Clay,4,D,19970404,2,100431,,,Mansour Bahrami,R,178,IRI,40.9,102119,,,Chih Jung Chen,R,,TPE,24.5,7-5 7-6(3) 3-6 6-3,5,RR,,,,,,,,,,,,,,,,,,,,,,968,7
-1997-D057,Davis Cup G2 SF: IRI vs TPE,Clay,4,D,19970404,4,102119,,,Chih Jung Chen,R,,TPE,24.5,108596,,,Ramin Raziyani,U,,IRI,22.9,2-0 RET,5,RR,,,,,,,,,,,,,,,,,,,,968,7,,
+1997-D057,Davis Cup G2 SF: IRI vs TPE,Clay,4,D,19970404,4,102119,,,Chih Jung Chen,R,,TPE,24.5,108596,,,Ramin Raziyani,R,,IRI,22.9,2-0 RET,5,RR,,,,,,,,,,,,,,,,,,,,968,7,,
 1997-D057,Davis Cup G2 SF: IRI vs TPE,Clay,4,D,19970404,5,100431,,,Mansour Bahrami,R,178,IRI,40.9,102543,,,Chia Yen Tsai,R,,TPE,22.0,6-0 7-6(2),3,RR,,,,,,,,,,,,,,,,,,,,,,687,18
 1997-D066,Davis Cup G2 SF: LIB vs THA,Hard,4,D,19970404,1,102812,,,Jicham Zaatini,R,,LIB,20.7,108838,,,Vittaya Samrej,U,,THA,33.1,3-6 6-3 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,940,8,,
 1997-D066,Davis Cup G2 SF: LIB vs THA,Hard,4,D,19970404,2,102448,,,Ali Hamadeh,R,,LIB,22.5,102097,,,Naratorn Srichaphan,R,,THA,24.6,7-6(5) 7-5 7-6(4),5,RR,,,,,,,,,,,,,,,,,,,,881,9,,
@@ -1125,7 +1125,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-425,Barcelona,Clay,56,A,19970414,6,102167,,,Juan Albert Viloca Puig,R,185,ESP,24.2,102202,,,Kenneth Carlsen,L,190,DEN,23.9,6-3 6-0,3,R64,81,6,3,42,25,22,11,8,0,0,2,4,74,41,22,14,7,12,16,76,622,82,588
 1997-425,Barcelona,Clay,56,A,19970414,7,101532,,,Francisco Clavet,L,183,ESP,28.4,101507,,,Tomas Carbonell,R,178,ESP,28.6,6-3 1-6 6-4,3,R64,105,1,4,78,47,29,14,13,2,7,2,6,93,57,33,18,13,7,12,32,1222,131,337
 1997-425,Barcelona,Clay,56,A,19970414,8,102271,,,Hicham Arazi,L,175,MAR,23.4,101016,,Q,Marcos Aurelio Gorriz,L,185,ESP,33.1,6-3 6-4,3,R64,75,4,0,53,22,17,20,10,0,1,4,2,64,39,28,8,9,7,10,52,858,103,444
-1997-425,Barcelona,Clay,56,A,19970414,9,103031,,WC,Julian Alonso,R,185,ESP,19.6,101320,14,,Magnus Gustafsson,R,185,SWE,30.2,6-3(6) 6-4,3,R64,110,9,6,106,65,42,20,15,12,16,4,7,101,64,42,17,15,5,9,201,210,28,1263
+1997-425,Barcelona,Clay,56,A,19970414,9,103031,,WC,Julian Alonso,R,185,ESP,19.6,101320,14,,Magnus Gustafsson,R,185,SWE,30.2,7-6(6) 3-6 6-3,3,R64,110,9,6,106,65,42,20,15,12,16,4,7,101,64,42,17,15,5,9,201,210,28,1263
 1997-425,Barcelona,Clay,56,A,19970414,10,102446,,,Andrei Medvedev,R,193,UKR,22.6,102374,11,,Alex Corretja,R,180,ESP,23.0,7-5 2-6 6-4,3,R64,123,2,2,100,64,43,16,15,6,11,2,3,84,54,28,21,15,4,9,40,1039,17,1494
 1997-425,Barcelona,Clay,56,A,19970414,11,101475,,,Carlos Costa,R,183,ESP,28.9,102854,,,Sjeng Schalken,R,193,NED,20.5,6-2 6-1,3,R64,62,0,1,42,29,21,7,7,3,4,1,7,59,29,16,9,8,1,7,91,503,66,709
 1997-425,Barcelona,Clay,56,A,19970414,12,103252,,WC,Alberto Martin,R,175,ESP,18.6,102437,,,Adrian Voinea,R,185,ROU,22.6,6-1 6-1,3,R64,61,3,3,47,30,25,7,7,2,2,0,2,42,25,10,7,7,4,9,168,265,77,621
@@ -1234,7 +1234,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-410,Monte Carlo Masters,Clay,56,M,19970421,5,101792,,,Slava Dosedel,R,183,CZE,26.6,102856,,Q,Gustavo Kuerten,R,190,BRA,20.6,6-1 3-6 6-1,3,R64,95,1,1,81,66,36,10,12,8,12,2,2,68,45,22,8,11,4,11,51,862,64,729
 1997-410,Monte Carlo Masters,Clay,56,M,19970421,6,102247,,WC,Andrea Gaudenzi,R,183,ITA,23.7,102201,,,Lionel Roux,R,185,FRA,24.0,6-1 6-2,3,R64,59,2,3,41,27,21,5,7,1,3,0,1,44,28,11,3,8,6,13,112,415,60,781
 1997-410,Monte Carlo Masters,Clay,56,M,19970421,7,101529,,,Michael Stich,R,193,GER,28.5,101185,,,Mark Woodforde,L,188,AUS,31.5,3-6 7-5 7-5,3,R64,124,5,9,109,43,32,33,16,8,12,0,2,102,80,47,12,17,3,8,28,1246,85,570
-1997-410,Monte Carlo Masters,Clay,56,M,19970421,8,102882,,,Mark Philippoussis,R,196,AUS,20.4,102024,,,Hernan Gumy,R,188,ARG,25.1,7-5 7-5(5),3,R64,83,7,2,70,36,27,18,10,4,5,0,4,55,32,23,8,9,4,7,22,1336,50,866
+1997-410,Monte Carlo Masters,Clay,56,M,19970421,8,102882,,,Mark Philippoussis,R,196,AUS,20.4,102024,,,Hernan Gumy,R,188,ARG,25.1,6-1 7-6(5),3,R64,83,7,2,70,36,27,18,10,4,5,0,4,55,32,23,8,9,4,7,22,1336,50,866
 1997-410,Monte Carlo Masters,Clay,56,M,19970421,9,101793,13,,Jim Courier,R,185,USA,26.6,103103,,,Dominik Hrbaty,R,183,SVK,19.2,6-7(1) 7-5 6-4,3,R64,149,9,9,102,64,39,19,17,4,10,3,12,132,75,48,21,17,5,13,23,1317,61,773
 1997-410,Monte Carlo Masters,Clay,56,M,19970421,10,102456,11,,Felix Mantilla,R,180,ESP,22.5,210013,,,Martin Damm Sr,R,188,CZE,24.7,6-1 6-1,3,R64,36,4,1,35,28,26,3,7,2,2,3,6,43,19,11,6,7,2,7,13,1709,,
 1997-410,Monte Carlo Masters,Clay,56,M,19970421,11,102446,,,Andrei Medvedev,R,193,UKR,22.6,101900,,WC,Nicklas Kulti,R,190,SWE,25.9,4-6 6-2 6-3,3,R64,99,17,2,80,45,34,15,14,4,8,4,8,80,34,21,20,13,7,13,36,1105,66,703
@@ -1283,7 +1283,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-410,Monte Carlo Masters,Clay,56,M,19970421,54,102374,12,,Alex Corretja,R,180,ESP,23.0,102148,,WC,Fabrice Santoro,R,178,FRA,24.3,6-4 6-4,3,SF,100,1,2,70,34,24,16,10,4,7,2,1,60,24,17,13,10,5,10,18,1494,90,519
 1997-410,Monte Carlo Masters,Clay,56,M,19970421,55,102701,7,,Marcelo Rios,L,175,CHI,21.3,102374,12,,Alex Corretja,R,180,ESP,23.0,6-4 6-3 6-3,5,F,134,5,1,103,49,32,30,14,8,11,2,3,93,43,28,18,14,8,15,10,1977,18,1494
 1997-717,Orlando,Clay,32,A,19970421,1,102021,1,,Michael Chang,R,175,USA,25.1,102998,,WC,Jan Michael Gambill,R,190,USA,19.8,6-3 6-3,3,R32,71,3,2,51,26,20,17,9,0,0,8,3,62,32,19,16,9,5,8,3,3607,277,130
-1997-717,Orlando,Clay,32,A,19970421,2,102167,,,Juan Albert Viloca Puig,R,185,ESP,24.2,101263,,WC,Luke Jensen,U,190,USA,30.8,6-2 6-2,3,R32,69,3,3,46,23,19,14,8,1,1,2,7,72,42,28,9,8,9,13,79,614,653,22
+1997-717,Orlando,Clay,32,A,19970421,2,102167,,,Juan Albert Viloca Puig,R,185,ESP,24.2,101263,,WC,Luke Jensen,A,190,USA,30.8,6-2 6-2,3,R32,69,3,3,46,23,19,14,8,1,1,2,7,72,42,28,9,8,9,13,79,614,653,22
 1997-717,Orlando,Clay,32,A,19970421,3,102615,,,Dennis Van Scheppingen,R,185,NED,21.7,102220,,,Patrik Fredriksson,R,185,SWE,23.9,6-4 6-4,3,R32,76,5,1,54,31,23,16,10,2,3,2,6,68,38,25,15,10,3,6,94,498,92,506
 1997-717,Orlando,Clay,32,A,19970421,4,101647,7,,Byron Black,R,175,ZIM,27.5,102394,,,Johan Van Herck,R,185,BEL,22.9,6-3 7-6(4),3,R32,91,5,4,68,40,30,16,11,1,3,5,4,73,50,35,10,10,8,11,57,821,71,639
 1997-717,Orlando,Clay,32,A,19970421,5,101434,3,,Petr Korda,L,190,CZE,29.2,102269,,WC,Jeff Salzenstein,L,185,USA,23.5,2-6 6-4 4-3 RET,3,R32,107,4,5,84,45,29,17,13,4,9,7,2,82,50,33,13,13,8,12,27,1253,158,280
@@ -1439,7 +1439,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-D047,Davis Cup G2 R1: POL vs GHA,Clay,4,D,19970502,4,103287,,,Krystian Pfeiffer,U,,POL,18.4,107870,,,Nortay Dowuona,R,,NGR,29.9,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1997-D047,Davis Cup G2 R1: POL vs GHA,Clay,4,D,19970502,5,103515,,,Filip Aniola,R,,POL,17.1,108829,,,Alexander Ofori,U,,GHA,20.4,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1997-499,Coral Springs,Clay,32,A,19970505,1,102035,1,,Jonas Bjorkman,R,183,SWE,25.1,103151,,,Mariano Zabaleta,R,183,ARG,19.1,6-3 6-2,3,R32,64,3,2,53,28,20,16,9,2,3,2,2,62,42,25,7,8,7,11,23,1337,141,311
-1997-499,Coral Springs,Clay,32,A,19970505,2,101263,,WC,Luke Jensen,U,190,USA,30.8,101362,,,Stephane Simian,L,193,FRA,29.9,6-7(5) 7-6(4) 6-3,3,R32,140,2,8,122,69,50,21,16,14,18,5,7,111,71,46,19,17,3,9,663,21,136,320
+1997-499,Coral Springs,Clay,32,A,19970505,2,101263,,WC,Luke Jensen,A,190,USA,30.8,101362,,,Stephane Simian,L,193,FRA,29.9,6-7(5) 7-6(4) 6-3,3,R32,140,2,8,122,69,50,21,16,14,18,5,7,111,71,46,19,17,3,9,663,21,136,320
 1997-499,Coral Springs,Clay,32,A,19970505,3,102220,,,Patrik Fredriksson,R,185,SWE,23.9,102132,,WC,Ivan Baron,R,185,USA,24.4,6-0 6-2,3,R32,60,3,0,37,20,17,12,7,0,0,2,7,55,24,13,11,7,4,9,96,501,921,8
 1997-499,Coral Springs,Clay,32,A,19970505,4,102167,,,Juan Albert Viloca Puig,R,185,ESP,24.2,101582,8,,Gilbert Schaller,R,180,AUT,28.1,7-6(3) 6-2,3,R32,97,4,3,75,47,32,17,10,8,9,4,1,72,52,32,9,10,4,7,80,622,73,673
 1997-499,Coral Springs,Clay,32,A,19970505,5,102227,,,Sargis Sargsian,R,180,ARM,23.9,101711,3,,Alex Obrien,R,185,USA,27.1,3-6 6-3 6-3,3,R32,113,4,1,75,55,41,10,13,1,3,2,1,80,50,32,19,14,6,10,88,557,36,1128
@@ -1454,7 +1454,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-499,Coral Springs,Clay,32,A,19970505,14,102394,,,Johan Van Herck,R,185,BEL,22.9,102887,,Q,Ramon Delgado,R,185,PAR,20.4,7-6(5) 6-3,3,R32,93,5,2,75,44,31,20,11,4,5,7,3,70,31,24,18,10,5,7,75,645,271,133
 1997-499,Coral Springs,Clay,32,A,19970505,15,101185,,,Mark Woodforde,L,188,AUS,31.6,102615,,,Dennis Van Scheppingen,R,185,NED,21.8,6-3 6-7(3) 6-1,3,R32,106,4,4,94,57,40,18,13,7,9,2,1,98,60,36,15,15,4,11,86,570,93,520
 1997-499,Coral Springs,Clay,32,A,19970505,16,101434,2,,Petr Korda,L,190,CZE,29.2,102524,,,Neville Godwin,R,173,RSA,22.2,6-3 6-4,3,R32,60,5,5,57,29,23,18,10,3,4,2,3,45,27,22,7,9,2,5,29,1217,95,508
-1997-499,Coral Springs,Clay,32,A,19970505,17,102035,1,,Jonas Bjorkman,R,183,SWE,25.1,101263,,WC,Luke Jensen,U,190,USA,30.8,6-1 6-2,3,R16,56,1,0,41,20,14,17,7,0,0,6,1,49,28,17,5,8,4,9,23,1337,663,21
+1997-499,Coral Springs,Clay,32,A,19970505,17,102035,1,,Jonas Bjorkman,R,183,SWE,25.1,101263,,WC,Luke Jensen,A,190,USA,30.8,6-1 6-2,3,R16,56,1,0,41,20,14,17,7,0,0,6,1,49,28,17,5,8,4,9,23,1337,663,21
 1997-499,Coral Springs,Clay,32,A,19970505,18,102167,,,Juan Albert Viloca Puig,R,185,ESP,24.2,102220,,,Patrik Fredriksson,R,185,SWE,23.9,6-4 6-3,3,R16,68,5,3,54,29,22,17,10,0,1,4,2,47,24,16,13,9,1,4,80,622,96,501
 1997-499,Coral Springs,Clay,32,A,19970505,19,102227,,,Sargis Sargsian,R,180,ARM,23.9,101788,,,Doug Flach,R,183,USA,26.7,7-6(5) 6-4,3,R16,85,2,2,75,48,32,15,11,4,7,1,0,60,35,20,17,11,0,4,88,557,125,354
 1997-499,Coral Springs,Clay,32,A,19970505,20,101816,,Q,Steve Campbell,R,183,USA,26.5,101647,5,,Byron Black,R,175,ZIM,27.5,3-6 6-4 6-3,3,R16,108,2,4,103,62,38,23,14,8,11,5,4,78,38,26,23,14,1,5,193,210,64,719
@@ -2149,7 +2149,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-315,Newport,Grass,32,A,19970707,8,102227,5,,Sargis Sargsian,R,180,ARM,24.0,102110,,,Daniel Nestor,L,190,CAN,24.8,7-6(3) 7-5,3,R32,87,6,1,69,38,32,19,12,0,2,4,6,74,43,32,15,12,2,5,86,559,108,413
 1997-315,Newport,Grass,32,A,19970707,9,101609,,,David Wheaton,R,193,USA,28.0,101997,6,,Marzio Martelli,R,180,ITA,25.5,4-6 6-4 6-2,3,R32,129,4,5,99,71,53,12,14,9,10,8,5,118,44,30,41,14,10,13,275,138,102,442
 1997-315,Newport,Grass,32,A,19970707,10,102169,,,Michael Joyce,R,180,USA,24.4,102925,,,Justin Gimelstob,R,196,USA,20.4,6-0 6-2,3,R32,54,3,3,56,29,23,13,7,1,1,3,5,33,11,8,5,7,1,6,170,253,103,435
-1997-315,Newport,Grass,32,A,19970707,11,101263,,WC,Luke Jensen,U,190,USA,31.0,101654,,Q,Michael Shyjan,R,,USA,27.6,6-4 6-2,3,R32,65,2,2,53,30,24,14,9,0,0,6,5,58,35,25,8,9,5,8,537,37,799,12
+1997-315,Newport,Grass,32,A,19970707,11,101263,,WC,Luke Jensen,A,190,USA,31.0,101654,,Q,Michael Shyjan,R,,USA,27.6,6-4 6-2,3,R32,65,2,2,53,30,24,14,9,0,0,6,5,58,35,25,8,9,5,8,537,37,799,12
 1997-315,Newport,Grass,32,A,19970707,12,101917,3,,Grant Stafford,R,188,RSA,26.1,102269,,,Jeff Salzenstein,L,185,USA,23.7,7-5 6-3,3,R32,90,1,4,79,35,26,23,11,2,3,8,6,67,42,27,12,10,3,6,66,688,146,291
 1997-315,Newport,Grass,32,A,19970707,13,101601,8,,Brett Steven,R,185,NZL,28.1,101955,,Q,Luis Herrera,L,170,MEX,25.8,6-3 6-2,3,R32,60,3,2,54,38,28,10,9,2,2,2,0,56,37,23,7,8,3,6,90,503,161,267
 1997-315,Newport,Grass,32,A,19970707,14,101214,,WC,Bryan Shelton,R,185,USA,31.5,101688,,,Geoff Grant,R,183,USA,27.4,7-6(3) 6-4,3,R32,82,18,3,78,50,40,14,11,6,7,8,2,77,46,33,15,11,4,6,247,157,139,313
@@ -2160,7 +2160,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-315,Newport,Grass,32,A,19970707,19,101776,4,,Sandon Stolle,R,193,AUS,26.9,102061,,,Kevin Ullyett,R,178,ZIM,25.1,7-6(5) 7-6(4),3,R16,93,5,3,77,44,37,22,12,2,3,10,7,90,48,34,27,12,5,6,69,675,159,270
 1997-315,Newport,Grass,32,A,19970707,20,102227,5,,Sargis Sargsian,R,180,ARM,24.0,101687,,Q,David Dilucia,R,173,USA,27.4,7-5 6-2,3,R16,83,3,4,61,32,24,17,10,4,5,3,7,70,36,22,17,10,4,8,86,559,461,57
 1997-315,Newport,Grass,32,A,19970707,21,101609,,,David Wheaton,R,193,USA,28.0,102169,,,Michael Joyce,R,180,USA,24.4,7-6(5) 4-6 6-4,3,R16,135,10,8,108,59,47,20,16,5,9,6,3,108,63,44,20,16,8,12,275,138,170,253
-1997-315,Newport,Grass,32,A,19970707,22,101917,3,,Grant Stafford,R,188,RSA,26.1,101263,,WC,Luke Jensen,U,190,USA,31.0,6-2 6-2,3,R16,62,5,3,45,14,12,22,8,4,4,3,10,65,34,23,9,8,4,8,66,688,537,37
+1997-315,Newport,Grass,32,A,19970707,22,101917,3,,Grant Stafford,R,188,RSA,26.1,101263,,WC,Luke Jensen,A,190,USA,31.0,6-2 6-2,3,R16,62,5,3,45,14,12,22,8,4,4,3,10,65,34,23,9,8,4,8,66,688,537,37
 1997-315,Newport,Grass,32,A,19970707,23,101601,8,,Brett Steven,R,185,NZL,28.1,101214,,WC,Bryan Shelton,R,185,USA,31.5,4-6 6-3 6-4,3,R16,120,8,14,102,60,44,20,15,10,12,5,5,104,60,38,24,14,6,9,90,503,247,157
 1997-315,Newport,Grass,32,A,19970707,24,101185,2,,Mark Woodforde,L,188,AUS,31.7,101788,,,Doug Flach,R,183,USA,26.9,6-3 6-1,3,R16,64,8,6,49,23,20,14,8,0,0,1,2,61,31,18,12,8,4,8,53,815,186,226
 1997-315,Newport,Grass,32,A,19970707,25,102233,7,,Leander Paes,R,178,IND,24.0,102491,1,,Alex Radulescu,R,185,GER,22.5,6-3 7-6(1),3,QF,78,5,3,73,46,39,14,11,3,3,5,4,65,35,27,13,10,4,5,104,435,83,588
@@ -2273,7 +2273,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-418,Washington,Hard,56,A,19970714,7,101788,,,Doug Flach,R,183,USA,26.9,101750,,,Cristiano Caratti,R,178,ITA,27.1,6-2 6-2,3,R64,59,6,2,50,28,21,11,8,3,4,2,4,57,37,18,8,8,4,9,174,242,140,303
 1997-418,Washington,Hard,56,A,19970714,8,101931,,Q,Marcus Hilpert,R,,GER,26.0,102416,,Q,Reed Cordish,L,,USA,23.0,2-6 6-3 6-2,3,R64,101,3,15,76,32,26,19,12,5,9,1,11,96,59,35,16,13,8,14,556,36,723,17
 1997-418,Washington,Hard,56,A,19970714,9,102783,,,Rainer Schuettler,R,180,GER,21.2,102925,13,,Justin Gimelstob,R,196,USA,20.4,6-3 6-3,3,R64,70,4,1,52,30,22,14,9,0,1,4,4,58,27,17,15,9,2,6,192,218,103,435
-1997-418,Washington,Hard,56,A,19970714,10,101601,11,,Brett Steven,R,185,NZL,28.2,101263,,Q,Luke Jensen,U,190,USA,31.0,7-6(4) 6-3,3,R64,77,5,2,64,38,32,16,11,0,1,8,7,60,32,26,13,10,2,4,83,616,476,52
+1997-418,Washington,Hard,56,A,19970714,10,101601,11,,Brett Steven,R,185,NZL,28.2,101263,,Q,Luke Jensen,A,190,USA,31.0,7-6(4) 6-3,3,R64,77,5,2,64,38,32,16,11,0,1,8,7,60,32,26,13,10,2,4,83,616,476,52
 1997-418,Washington,Hard,56,A,19970714,11,101926,,,Andrei Merinov,L,183,RUS,26.0,102139,,,Eyal Ran,R,183,ISR,24.6,6-7(0) 7-6(5) 6-4,3,R64,165,5,12,137,86,62,19,17,12,15,3,1,124,76,54,24,17,5,9,166,250,142,301
 1997-418,Washington,Hard,56,A,19970714,12,102875,,WC,Luke Smith,R,188,AUS,20.7,102405,,Q,Mahesh Bhupathi,R,185,IND,23.1,7-6(4) 7-6(7),3,R64,110,11,7,111,62,50,21,12,8,9,11,2,74,41,36,19,12,0,1,620,25,245,158
 1997-418,Washington,Hard,56,A,19970714,13,101772,,,Andrei Cherkasov,R,180,RUS,27.0,101389,,,Oren Motevassel,L,170,USA,29.8,6-3 6-7(5) 2-1 RET,3,R64,154,5,3,105,55,36,24,13,11,15,6,2,80,31,15,26,12,8,13,141,303,161,256
@@ -2419,7 +2419,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-439,Umag,Clay,32,A,19970721,20,103252,,,Alberto Martin,R,175,ESP,18.9,102344,6,,Karol Kucera,R,188,SVK,23.3,6-3 6-4,3,R16,82,0,9,57,37,23,9,9,6,9,2,15,71,31,20,13,10,5,11,144,290,33,1170
 1997-439,Umag,Clay,32,A,19970721,21,103103,5,,Dominik Hrbaty,R,183,SVK,19.5,102831,,,Jacobo Diaz,R,173,ESP,21.0,6-0 6-2,3,R16,51,2,3,43,18,12,19,7,2,2,0,0,48,33,11,8,7,8,13,46,895,148,287
 1997-439,Umag,Clay,32,A,19970721,22,102456,3,,Felix Mantilla,R,180,ESP,22.8,102483,,Q,David Caballero,R,180,ESP,22.6,6-3 6-3,3,R16,77,6,4,50,33,26,6,9,1,3,2,4,62,36,22,6,9,5,10,14,1815,409,72
-1997-439,Umag,Clay,32,A,19970721,23,102287,7,,Albert Portas,R,188,ESP,23.6,103344,,WC,Ivan Ljubicic,R,193,CRO,18.3,7-5(5) 6-1,3,R16,91,1,4,64,38,23,13,9,2,5,6,4,82,33,24,14,10,6,12,40,1003,295,123
+1997-439,Umag,Clay,32,A,19970721,23,102287,7,,Albert Portas,R,188,ESP,23.6,103344,,WC,Ivan Ljubicic,R,193,CRO,18.3,7-6(5) 6-1,3,R16,91,1,4,64,38,23,13,9,2,5,6,4,82,33,24,14,10,6,12,40,1003,295,123
 1997-439,Umag,Clay,32,A,19970721,24,102845,2,,Carlos Moya,R,190,ESP,20.8,102950,,,Fernando Vicente,R,180,ESP,20.3,2-6 6-1 7-5,3,R16,96,1,1,88,48,36,20,14,5,8,2,4,72,38,27,15,13,4,8,10,2085,118,382
 1997-439,Umag,Clay,32,A,19970721,25,101843,1,,Sergi Bruguera,R,188,ESP,26.5,101235,8,,Paul Haarhuis,R,188,NED,31.4,6-3 6-4,3,QF,69,4,1,49,23,19,18,10,0,1,2,3,60,31,22,13,9,2,5,7,2192,82,606
 1997-439,Umag,Clay,32,A,19970721,26,103252,,,Alberto Martin,R,175,ESP,18.9,101439,4,,Javier Sanchez,R,178,ESP,29.4,4-6 6-4 6-1,3,QF,90,2,4,75,58,42,11,13,4,6,2,3,76,49,36,11,13,3,7,144,290,39,1009
@@ -2454,7 +2454,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-317,Amsterdam,Clay,32,A,19970728,24,102770,,WC,John Van Lottum,R,185,NED,21.2,102615,,WC,Dennis Van Scheppingen,R,185,NED,22.0,6-0 7-6(5),3,R16,69,7,0,52,25,22,16,9,2,3,5,6,68,40,29,7,9,5,9,233,178,112,409
 1997-317,Amsterdam,Clay,32,A,19970728,25,102845,1,,Carlos Moya,R,190,ESP,20.9,101532,8,,Francisco Clavet,L,183,ESP,28.7,6-3 6-4,3,QF,81,0,0,53,35,21,10,9,2,5,2,2,68,44,24,10,10,4,10,10,2133,42,989
 1997-317,Amsterdam,Clay,32,A,19970728,26,102796,4,,Magnus Norman,R,188,SWE,21.1,102104,,,Christian Ruud,R,188,NOR,24.9,6-3 7-6(6),3,QF,96,10,3,76,41,34,18,11,1,2,3,4,58,28,19,19,10,2,4,29,1317,52,846
-1997-317,Amsterdam,Clay,32,A,19970728,27,101382,,,Marcelo Filippini,R,178,URU,29.9,101439,6,,Javier Sanchez,R,178,ESP,29.4,7-5(5) 6-1,3,QF,84,2,2,61,38,30,13,9,2,3,1,0,61,45,26,11,10,2,6,49,871,40,1022
+1997-317,Amsterdam,Clay,32,A,19970728,27,101382,,,Marcelo Filippini,R,178,URU,29.9,101439,6,,Javier Sanchez,R,178,ESP,29.4,7-6(5) 6-1,3,QF,84,2,2,61,38,30,13,9,2,3,1,0,61,45,26,11,10,2,6,49,871,40,1022
 1997-317,Amsterdam,Clay,32,A,19970728,28,101792,,,Slava Dosedel,R,183,CZE,26.9,102770,,WC,John Van Lottum,R,185,NED,21.2,6-4 4-6 6-2,3,QF,129,4,3,105,55,34,30,14,6,8,5,4,86,35,27,23,14,2,6,59,775,233,178
 1997-317,Amsterdam,Clay,32,A,19970728,29,102845,1,,Carlos Moya,R,190,ESP,20.9,102796,4,,Magnus Norman,R,188,SWE,21.1,6-4 6-3,3,SF,73,2,0,65,39,27,15,9,8,9,4,3,54,25,18,13,10,2,6,10,2133,29,1317
 1997-317,Amsterdam,Clay,32,A,19970728,30,101792,,,Slava Dosedel,R,183,CZE,26.9,101382,,,Marcelo Filippini,R,178,URU,29.9,7-6(5) 6-2,3,SF,91,2,2,68,39,28,13,10,2,4,2,4,73,53,31,8,10,6,10,59,775,49,871
@@ -3177,7 +3177,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-747,Beijing,Hard,32,A,19970929,7,101917,,,Grant Stafford,R,188,RSA,26.3,101890,,,Jonathan Stark,R,188,USA,26.4,6-1 5-7 6-3,3,R32,103,6,2,75,42,30,21,14,2,5,8,7,86,48,32,13,13,1,7,78,634,69,692
 1997-747,Beijing,Hard,32,A,19970929,8,101150,,,Gianluca Pozzi,L,180,ITA,32.2,102562,6,,Jiri Novak,R,190,CZE,22.5,7-6(4) 3-6 7-6(5),3,R32,142,3,1,113,60,41,31,16,4,8,1,2,118,90,60,17,17,9,12,108,422,54,827
 1997-747,Beijing,Hard,32,A,19970929,9,101320,5,,Magnus Gustafsson,R,185,SWE,30.7,101441,,,Martin Sinner,R,180,GER,29.6,7-6(3) 1-6 7-6(5),3,R32,141,7,6,128,76,53,21,15,9,13,5,7,104,71,56,17,16,3,5,46,908,106,428
-1997-747,Beijing,Hard,32,A,19970929,10,101866,,Q,David Rikl,L,178,CZE,26.5,101609,,WC,David Wheaton,R,193,USA,28.3,7-5 6-3(4),3,R32,82,7,4,67,40,29,11,10,1,4,3,1,62,36,19,11,9,4,9,186,241,152,286
+1997-747,Beijing,Hard,32,A,19970929,10,101866,,Q,David Rikl,L,178,CZE,26.5,101609,,WC,David Wheaton,R,193,USA,28.3,7-5 6-3,3,R32,82,7,4,67,40,29,11,10,1,4,3,1,62,36,19,11,9,4,9,186,241,152,286
 1997-747,Beijing,Hard,32,A,19970929,11,102925,,,Justin Gimelstob,R,196,USA,20.6,101833,,Q,Michael Tebbutt,L,190,AUS,26.7,4-6 6-3 6-4,3,R32,127,6,5,92,51,40,24,15,1,3,13,4,88,48,35,20,14,7,10,81,589,197,221
 1997-747,Beijing,Hard,32,A,19970929,12,101647,,,Byron Black,R,175,ZIM,27.9,210013,4,,Martin Damm Sr,R,188,CZE,25.1,6-4 6-4,3,R32,74,2,3,61,39,29,11,10,2,3,11,1,62,37,27,10,10,3,6,63,749,,
 1997-747,Beijing,Hard,32,A,19970929,13,101711,,,Alex Obrien,R,185,USA,27.5,102401,7,,Scott Draper,L,178,AUS,23.2,3-6 6-4 7-6(7),3,R32,137,9,2,102,76,55,13,16,3,6,10,1,120,71,44,30,15,13,15,83,575,58,810
@@ -3526,7 +3526,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-438,Moscow,Carpet,32,A,19971103,14,102521,,,Hendrik Dreekmann,R,188,GER,22.7,101334,,WC,Alexander Volkov,L,188,RUS,30.6,3-6 6-4 7-5,3,R32,121,7,8,119,62,40,29,15,9,12,7,4,96,41,29,30,16,3,7,94,498,189,220
 1997-438,Moscow,Carpet,32,A,19971103,15,102202,,,Kenneth Carlsen,L,190,DEN,24.5,103498,,Q,Marat Safin,R,193,RUS,17.7,7-5 6-7(4) 7-6(4),3,R32,145,12,6,116,60,50,35,18,5,6,12,3,123,71,59,24,18,4,6,80,632,213,195
 1997-438,Moscow,Carpet,32,A,19971103,16,101434,2,,Petr Korda,L,190,CZE,29.7,101543,,,Jeff Tarango,L,180,USA,28.9,4-6 7-5 6-3,3,R32,110,11,5,88,54,38,21,16,2,5,8,6,95,60,42,14,15,5,9,15,2145,49,843
-1997-438,Moscow,Carpet,32,A,19971103,17,102338,1,,Yevgeny Kafelnikov,R,190,RUS,23.7,101647,,,Byron Black,R,175,ZIM,28.0,6-4(5) 6-3,3,R16,95,10,2,80,47,35,22,14,0,1,13,3,95,61,37,15,14,5,10,11,2356,67,700
+1997-438,Moscow,Carpet,32,A,19971103,17,102338,1,,Yevgeny Kafelnikov,R,190,RUS,23.7,101647,,,Byron Black,R,175,ZIM,28.0,6-4 6-3,3,R16,95,10,2,80,47,35,22,14,0,1,13,3,95,61,37,15,14,5,10,11,2356,67,700
 1997-438,Moscow,Carpet,32,A,19971103,18,102227,,,Sargis Sargsian,R,180,ARM,24.4,102539,,,Bohdan Ulihrach,R,188,CZE,22.6,W/O,3,R16,,,,,,,,,,,,,,,,,,,,72,680,34,1129
 1997-438,Moscow,Carpet,32,A,19971103,19,210013,,,Martin Damm Sr,R,188,CZE,25.2,102562,,,Jiri Novak,R,190,CZE,22.6,7-6(5) 6-4,3,R16,90,9,4,63,24,21,23,11,1,3,1,2,85,56,36,15,11,7,10,,,53,798
 1997-438,Moscow,Carpet,32,A,19971103,20,102110,,Q,Daniel Nestor,L,190,CAN,25.1,101439,,,Javier Sanchez,R,178,ESP,29.7,6-4 6-4,3,R16,56,11,2,53,41,34,6,10,0,1,7,6,61,41,30,7,10,2,5,148,300,55,770
