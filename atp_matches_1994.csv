@@ -323,7 +323,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1994-495,Dubai,Hard,32,A,19940131,9,100656,5,,Ivan Lendl,R,188,USA,33.9,101594,,Q,Carsten Arriens,R,193,GER,24.8,6-1 6-2,3,R32,77,2,1,38,24,19,6,7,1,2,1,1,61,30,11,14,8,7,13,16,1551,248,136
 1994-495,Dubai,Hard,32,A,19940131,10,101772,,,Andrei Cherkasov,R,180,RUS,23.5,102148,,,Fabrice Santoro,R,178,FRA,21.1,3-6 6-1 6-2,3,R32,125,1,11,78,46,30,11,12,7,12,2,9,80,32,19,22,12,5,11,41,835,63,624
 1994-495,Dubai,Hard,32,A,19940131,11,102158,,,Patrick Rafter,R,185,AUS,21.0,101962,,,Younes El Aynaoui,R,193,MAR,22.3,6-3 2-6 6-3,3,R32,110,8,3,69,33,24,24,13,5,7,3,8,83,42,30,21,13,2,5,52,683,48,699
-1994-495,Dubai,Hard,32,A,19940131,12,101320,4,,Magnus Gustafsson,R,185,SWE,27.0,101723,,WC,Magnus Larsson,R,193,SWE,23.8,6-4(4) 7-6,3,R32,109,3,6,72,41,36,17,11,3,3,6,3,86,56,40,13,10,5,6,12,1803,38,860
+1994-495,Dubai,Hard,32,A,19940131,12,101320,4,,Magnus Gustafsson,R,185,SWE,27.0,101723,,WC,Magnus Larsson,R,193,SWE,23.8,7-6(4) 6-3,3,R32,109,3,6,72,41,36,17,11,3,3,6,3,86,56,40,13,10,5,6,12,1803,38,860
 1994-495,Dubai,Hard,32,A,19940131,13,101334,8,,Alexander Volkov,L,188,RUS,26.9,101727,,,Jason Stoltenberg,R,185,AUS,23.8,6-4 7-6(2),3,R32,102,4,3,83,42,36,18,11,7,8,7,2,65,28,25,18,11,0,2,20,1402,43,758
 1994-495,Dubai,Hard,32,A,19940131,14,101567,,Q,Hendrik Jan Davids,L,183,NED,25.0,102146,,,Jordi Burillo,R,188,ESP,21.1,6-3 6-2,3,R32,66,5,0,46,29,25,9,9,0,1,2,11,56,21,16,11,8,6,10,372,68,68,603
 1994-495,Dubai,Hard,32,A,19940131,15,101510,,,Henrik Holm,R,183,SWE,25.4,101439,,,Javier Sanchez,R,178,ESP,25.9,7-5 4-6 6-1,3,R32,141,11,2,104,56,44,20,15,8,11,0,5,98,67,37,18,14,11,16,47,707,32,950
@@ -429,10 +429,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1994-D017,Davis Cup G2 QF: GUA vs COL,Hard,4,D,19940204,2,101991,,,Mauricio Hadad,R,170,COL,22.1,101840,,,Jacobo Chavez,R,,GUA,23.0,7-6(3) 4-6 6-3 2-6 6-4,5,RR,,,,,,,,,,,,,,,,,,,,108,420,,
 1994-D017,Davis Cup G2 QF: GUA vs COL,Hard,4,D,19940204,4,101991,,,Mauricio Hadad,R,170,COL,22.1,108583,,,Daniel Chavez Morales,U,,GUA,28.0,6-1 5-7 6-4,3,RR,,,,,,,,,,,,,,,,,,,,108,420,,
 1994-D017,Davis Cup G2 QF: GUA vs COL,Hard,4,D,19940204,5,101495,,,Miguel Tobon,R,185,COL,25.6,101840,,,Jacobo Chavez,R,,GUA,23.0,7-6(7) 7-6(4),3,RR,,,,,,,,,,,,,,,,,,,,275,111,,
-1994-D050,Davis Cup G2 QF: KSA vs IRI,Hard,4,D,19940204,1,108596,,,Ramin Raziyani,U,,IRI,19.8,108751,,,Bader Mohammed Almuqail,U,,KSA,23.4,6-4 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
+1994-D050,Davis Cup G2 QF: KSA vs IRI,Hard,4,D,19940204,1,108596,,,Ramin Raziyani,R,,IRI,19.8,108751,,,Bader Mohammed Almuqail,U,,KSA,23.4,6-4 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1994-D050,Davis Cup G2 QF: KSA vs IRI,Hard,4,D,19940204,2,108842,,,Zulfiqar Ahmed,U,,KSA,37.9,108595,,,Mohammed Reza Tavakoli,U,,IRI,22.1,7-6(6) 6-2 7-5,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1994-D050,Davis Cup G2 QF: KSA vs IRI,Hard,4,D,19940204,4,108595,,,Mohammed Reza Tavakoli,U,,IRI,22.1,108753,,,Othman Al Anazi,U,,KSA,22.5,7-5 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
-1994-D050,Davis Cup G2 QF: KSA vs IRI,Hard,4,D,19940204,5,108842,,,Zulfiqar Ahmed,U,,KSA,37.9,108596,,,Ramin Raziyani,U,,IRI,19.8,7-6(6) 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1994-D050,Davis Cup G2 QF: KSA vs IRI,Hard,4,D,19940204,5,108842,,,Zulfiqar Ahmed,U,,KSA,37.9,108596,,,Ramin Raziyani,R,,IRI,19.8,7-6(6) 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1994-D072,Davis Cup G2 QF: PAR vs VEN,Clay,4,D,19940204,1,102655,,,Jimy Szymanski,R,175,VEN,18.3,101979,,,Ricardo Mena,R,,PAR,22.2,6-3 6-3 6-4,5,RR,,,,,,,,,,,,,,,,,,,,537,34,402,61
 1994-D072,Davis Cup G2 QF: PAR vs VEN,Clay,4,D,19940204,2,101809,,,Nicolas Pereira,R,188,VEN,23.3,108182,,,Ruben Alvarenga,R,,PAR,21.4,7-5 6-3 6-3,5,RR,,,,,,,,,,,,,,,,,,,,144,295,527,36
 1994-D072,Davis Cup G2 QF: PAR vs VEN,Clay,4,D,19940204,4,101979,,,Ricardo Mena,R,,PAR,22.2,101809,,,Nicolas Pereira,R,188,VEN,23.3,4-6 6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,402,61,144,295
@@ -913,7 +913,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1994-360,Casablanca,Clay,32,A,19940314,13,101686,,,Franco Davin,L,173,ARG,24.1,101511,8,,Horst Skoff,R,175,AUT,25.5,6-4 7-5,3,R32,113,0,2,74,57,36,4,11,8,13,0,3,79,47,25,12,11,5,12,82,,80,
 1994-360,Casablanca,Clay,32,A,19940314,14,102351,,Q,Oscar Martinez,R,185,ESP,20.0,101391,,,Carl Uwe Steeb,L,180,GER,26.5,3-6 6-1 7-5,3,R32,151,2,3,110,56,36,24,14,9,14,4,2,119,54,31,29,14,16,23,304,,94,
 1994-360,Casablanca,Clay,32,A,19940314,15,101459,,,Tomas Nydahl,R,185,SWE,25.9,101685,,,Markus Naewie,R,190,GER,24.1,6-1 6-2,3,R32,85,0,5,57,40,23,9,7,2,4,0,1,46,34,13,3,8,2,9,146,,132,
-1994-360,Casablanca,Clay,32,A,19940314,16,101962,2,,Younes El Aynaoui,R,193,MAR,22.5,106906,,Q,Dusan Prchlik,R,,CZE,,6-1 6-4,3,R32,76,9,5,58,34,26,12,9,1,2,0,3,58,43,25,5,8,5,9,50,,361,
+1994-360,Casablanca,Clay,32,A,19940314,16,101962,2,,Younes El Aynaoui,R,193,MAR,22.5,106906,,Q,Dusan Prchlik,R,,CZE,19.7,6-1 6-4,3,R32,76,9,5,58,34,26,12,9,1,2,0,3,58,43,25,5,8,5,9,50,,361,
 1994-360,Casablanca,Clay,32,A,19940314,17,101746,1,,Renzo Furlan,R,175,ITA,23.8,101276,,,Horacio De La Pena,L,180,ARG,27.6,4-6 6-2 6-1,3,R16,137,1,2,83,52,37,12,12,8,11,3,2,93,70,37,9,13,7,14,45,,81,
 1994-360,Casablanca,Clay,32,A,19940314,18,101507,,,Tomas Carbonell,R,178,ESP,25.5,101468,,,Gerard Solves,R,185,FRA,25.9,7-6(5) 6-2,3,R16,93,0,4,77,66,43,7,10,5,7,0,5,74,41,25,14,10,4,8,84,,128,
 1994-360,Casablanca,Clay,32,A,19940314,19,101582,3,,Gilbert Schaller,R,180,AUT,24.9,101382,,,Marcelo Filippini,R,178,URU,26.6,6-3 2-6 6-2,3,R16,151,0,0,80,59,36,15,13,4,8,0,3,79,54,34,9,12,5,10,61,,91,
@@ -949,7 +949,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1994-D006,Davis Cup G1 QF: URU vs BAH,Clay,4,D,19940325,2,100800,,,Diego Perez,R,178,URU,32.1,101956,,,Mark Knowles,R,190,BAH,22.5,1-6 6-1 6-3 6-7(3) 6-4,5,RR,,,,,,,,,,,,,,,,,,,,247,135,152,254
 1994-D006,Davis Cup G1 QF: URU vs BAH,Clay,4,D,19940325,4,101382,,,Marcelo Filippini,R,178,URU,26.6,101956,,,Mark Knowles,R,190,BAH,22.5,6-1 6-0 6-3,5,RR,,,,,,,,,,,,,,,,,,,,87,515,152,254
 1994-D006,Davis Cup G1 QF: URU vs BAH,Clay,4,D,19940325,5,100997,,,Roger Smith,R,185,BAH,30.1,101976,,,Federico Dondo,R,,URU,22.4,6-4 3-6 6-1,3,RR,,,,,,,,,,,,,,,,,,,,206,180,,
-1994-D018,Davis Cup G1 SF: CRO vs NOR,Clay,4,D,19940325,1,101964,,,Goran Ivanisevic,L,193,CRO,22.5,110867,,,Anders Haseth,U,,NOR,25.5,6-2 6-0 6-1,5,RR,,,,,,,,,,,,,,,,,,,,6,2662,,
+1994-D018,Davis Cup G1 SF: CRO vs NOR,Clay,4,D,19940325,1,101964,,,Goran Ivanisevic,L,193,CRO,22.5,110867,,,Anders Haseth,R,,NOR,25.5,6-2 6-0 6-1,5,RR,,,,,,,,,,,,,,,,,,,,6,2662,,
 1994-D018,Davis Cup G1 SF: CRO vs NOR,Clay,4,D,19940325,2,102104,,,Christian Ruud,R,188,NOR,21.5,102085,,,Sasa Hirszon,R,185,CRO,21.6,6-1 6-7(5) 7-6(6) 6-1,5,RR,,,,,,,,,,,,,,,,,,,,150,256,250,134
 1994-D018,Davis Cup G1 SF: CRO vs NOR,Clay,4,D,19940325,4,102104,,,Christian Ruud,R,188,NOR,21.5,101964,,,Goran Ivanisevic,L,193,CRO,22.5,3-6 6-4 2-6 6-3 7-5,5,RR,,,,,,,,,,,,,,,,,,,,150,256,6,2662
 1994-D018,Davis Cup G1 SF: CRO vs NOR,Clay,4,D,19940325,5,102085,,,Sasa Hirszon,R,185,CRO,21.6,102595,,,Helge Koll,R,,NOR,18.8,6-3 6-2 7-6(13),5,RR,,,,,,,,,,,,,,,,,,,,250,134,,
@@ -986,9 +986,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1994-D012,Davis Cup G2 SF: COL vs CAN,Clay,4,D,19940325,4,102205,,,Sebastien Lareau,R,183,CAN,20.8,101991,,,Mauricio Hadad,R,170,COL,22.2,3-6 6-4 6-1 6-3,5,RR,,,,,,,,,,,,,,,,,,,,136,304,107,403
 1994-D012,Davis Cup G2 SF: COL vs CAN,Clay,4,D,19940325,5,102110,,,Daniel Nestor,L,190,CAN,21.5,101495,,,Miguel Tobon,R,185,COL,25.7,7-5 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,,185,210,283,111
 1994-D051,Davis Cup G2 SF: IRI vs THA,Clay,4,D,19940325,1,100431,,,Mansour Bahrami,R,178,IRI,37.9,108532,,,Worapol Thongkamcho,R,,THA,26.2,6-3 6-1 0-6 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
-1994-D051,Davis Cup G2 SF: IRI vs THA,Clay,4,D,19940325,2,108596,,,Ramin Raziyani,U,,IRI,19.9,102097,,,Naratorn Srichaphan,R,,THA,21.6,6-2 2-6 3-6 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,745,13
+1994-D051,Davis Cup G2 SF: IRI vs THA,Clay,4,D,19940325,2,108596,,,Ramin Raziyani,R,,IRI,19.9,102097,,,Naratorn Srichaphan,R,,THA,21.6,6-2 2-6 3-6 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,745,13
 1994-D051,Davis Cup G2 SF: IRI vs THA,Clay,4,D,19940325,4,100431,,,Mansour Bahrami,R,178,IRI,37.9,101485,,,Tanakorn Srichaphan,R,,THA,25.8,2-6 6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1994-D051,Davis Cup G2 SF: IRI vs THA,Clay,4,D,19940325,5,108532,,,Worapol Thongkamcho,R,,THA,26.2,108596,,,Ramin Raziyani,U,,IRI,19.9,6-7(7) 6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1994-D051,Davis Cup G2 SF: IRI vs THA,Clay,4,D,19940325,5,108532,,,Worapol Thongkamcho,R,,THA,26.2,108596,,,Ramin Raziyani,R,,IRI,19.9,6-7(7) 6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1994-D070,Davis Cup G2 SF: TPE vs PAK,Clay,4,D,19940325,1,102068,,,Omer Rashid,R,,PAK,21.7,101764,,,Yu Hui Lien,R,,TPE,23.7,7-6(5) 3-6 7-5 3-6 7-5,5,RR,,,,,,,,,,,,,,,,,,,,1067,3,1176,1
 1994-D070,Davis Cup G2 SF: TPE vs PAK,Clay,4,D,19940325,2,102119,,,Chih Jung Chen,R,,TPE,21.4,102826,,,Muhammad Khaliq Siddiq,U,,KUW,17.7,4-6 6-3 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,,1106,3,,
 1994-D070,Davis Cup G2 SF: TPE vs PAK,Clay,4,D,19940325,4,102119,,,Chih Jung Chen,R,,TPE,21.4,102068,,,Omer Rashid,R,,PAK,21.7,6-7(5) 5-7 6-4 6-0 6-4,5,RR,,,,,,,,,,,,,,,,,,,,1106,3,1067,3
@@ -1516,10 +1516,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1994-D055,Davis Cup G1 SF: NZL vs JPN,Carpet,4,D,19940429,2,101601,,,Brett Steven,R,185,NZL,24.9,101906,,,Yasufumi Yamamoto,R,175,JPN,22.9,6-3 6-4 2-6 7-6(3),5,RR,,,,,,,,,,,,,,,,,,,,75,573,317,94
 1994-D055,Davis Cup G1 SF: NZL vs JPN,Carpet,4,D,19940429,4,101601,,,Brett Steven,R,185,NZL,24.9,101412,,,Shuzo Matsuoka,R,185,JPN,26.4,0-6 4-6 6-3 6-0 6-4,5,RR,,,,,,,,,,,,,,,,,,,,75,573,116,374
 1994-D055,Davis Cup G1 SF: NZL vs JPN,Carpet,4,D,19940429,5,101906,,,Yasufumi Yamamoto,R,175,JPN,22.9,100772,,,Kelly Evernden,R,175,NZL,32.5,7-5 7-6(6),3,RR,,,,,,,,,,,,,,,,,,,,317,94,785,11
-1994-D052,Davis Cup G2 F: TPE vs IRI,Hard,4,D,19940429,1,102119,,,Chih Jung Chen,R,,TPE,21.5,108596,,,Ramin Raziyani,U,,IRI,20.0,3-6 6-4 5-7 6-4 8-6,5,RR,,,,,,,,,,,,,,,,,,,,1088,3,,
+1994-D052,Davis Cup G2 F: TPE vs IRI,Hard,4,D,19940429,1,102119,,,Chih Jung Chen,R,,TPE,21.5,108596,,,Ramin Raziyani,R,,IRI,20.0,3-6 6-4 5-7 6-4 8-6,5,RR,,,,,,,,,,,,,,,,,,,,1088,3,,
 1994-D052,Davis Cup G2 F: TPE vs IRI,Hard,4,D,19940429,2,101764,,,Yu Hui Lien,R,,TPE,23.8,100431,,,Mansour Bahrami,R,178,IRI,37.9,2-6 4-6 6-3 7-6(11) 5-2 RET,5,RR,,,,,,,,,,,,,,,,,,,,791,10,,
 1994-D052,Davis Cup G2 F: TPE vs IRI,Hard,4,D,19940429,4,102706,,,Wei Yu Su,R,,TPE,18.3,100431,,,Mansour Bahrami,R,178,IRI,37.9,6-3 3-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,,927,6,,
-1994-D052,Davis Cup G2 F: TPE vs IRI,Hard,4,D,19940429,5,108596,,,Ramin Raziyani,U,,IRI,20.0,102543,,,Chia Yen Tsai,R,,TPE,19.1,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,1102,2
+1994-D052,Davis Cup G2 F: TPE vs IRI,Hard,4,D,19940429,5,108596,,,Ramin Raziyani,R,,IRI,20.0,102543,,,Chia Yen Tsai,R,,TPE,19.1,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,1102,2
 1994-D031,Davis Cup G2 R1: FIN vs EST,Carpet,4,D,19940429,1,102395,,,Ville Liukko,R,173,FIN,19.9,101238,,,Andres Vysand,R,180,GER,28.1,3-6 7-6(3) 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,290,107
 1994-D031,Davis Cup G2 R1: FIN vs EST,Carpet,4,D,19940429,2,102538,,,Tuomas Ketola,R,185,FIN,19.1,101940,,,Rene Busch,R,,EST,22.7,6-4 6-1 7-6(3),5,RR,,,,,,,,,,,,,,,,,,,,294,104,,
 1994-D031,Davis Cup G2 R1: FIN vs EST,Carpet,4,D,19940429,4,102538,,,Tuomas Ketola,R,185,FIN,19.1,101238,,,Andres Vysand,R,180,GER,28.1,6-3 6-4 3-6 6-2,5,RR,,,,,,,,,,,,,,,,,,,,294,104,290,107
@@ -2386,8 +2386,8 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1994-D040,Davis Cup G2 QF: GHA vs NGR,Hard,4,D,19940715,4,101884,,,Frank Ofori,R,,GHA,23.3,102372,,,Sule Ladipo,R,180,NGR,20.2,6-4 7-6(5) 3-6 6-2,5,RR,,,,,,,,,,,,,,,,,,,,327,96,319,99
 1994-D040,Davis Cup G2 QF: GHA vs NGR,Hard,4,D,19940715,5,108816,,,Isaac Donkor,U,,GHA,22.9,108828,,,Emmanuel Udozorh,U,,NGR,21.3,3-6 7-6(4) 6-3 7-6(1),5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1994-D060,Davis Cup G2 QF: LAT vs UKR,Clay,4,D,19940715,1,101432,,,Dimitri Poliakov,R,183,UKR,26.4,100943,,,Girts Dzelde,R,173,LAT,30.9,6-3 5-7 6-2 6-1,5,RR,,,,,,,,,,,,,,,,,,,,122,369,701,17
-1994-D060,Davis Cup G2 QF: LAT vs UKR,Clay,4,D,19940715,2,102742,,,Armand Strombach,R,,LAT,18.3,108864,,,Sergei Baranov,U,,UKR,20.2,6-0 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,,535,37,,
-1994-D060,Davis Cup G2 QF: LAT vs UKR,Clay,4,D,19940715,4,101432,,,Dimitri Poliakov,R,183,UKR,26.4,102742,,,Armand Strombach,R,,LAT,18.3,6-1 4-6 7-5 6-1,5,RR,,,,,,,,,,,,,,,,,,,,122,369,535,37
+1994-D060,Davis Cup G2 QF: LAT vs UKR,Clay,4,D,19940715,2,102742,,,Armand Strombach,R,,LAT,24.1,108864,,,Sergei Baranov,U,,UKR,20.2,6-0 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,,535,37,,
+1994-D060,Davis Cup G2 QF: LAT vs UKR,Clay,4,D,19940715,4,101432,,,Dimitri Poliakov,R,183,UKR,26.4,102742,,,Armand Strombach,R,,LAT,24.1,6-1 4-6 7-5 6-1,5,RR,,,,,,,,,,,,,,,,,,,,122,369,535,37
 1994-D060,Davis Cup G2 QF: LAT vs UKR,Clay,4,D,19940715,5,100943,,,Girts Dzelde,R,173,LAT,30.9,108864,,,Sergei Baranov,U,,UKR,20.2,6-2 7-5 6-4,5,RR,,,,,,,,,,,,,,,,,,,,701,17,,
 1994-D062,Davis Cup G2 QF: POL vs MAR,Clay,4,D,19940715,1,101962,,,Younes El Aynaoui,R,193,MAR,22.8,108755,,,Maciej Kost,U,,POL,24.8,2-6 6-4 6-4 6-2,5,RR,,,,,,,,,,,,,,,,,,,,73,595,,
 1994-D062,Davis Cup G2 QF: POL vs MAR,Clay,4,D,19940715,2,102223,,,Karim Alami,R,185,MAR,21.1,102100,,,Bartlomiej Dabrowski,R,,POL,21.8,7-5 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,94,482,453,54
@@ -2694,7 +2694,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1994-379,Prague,Clay,32,A,19940801,13,102351,,,Oscar Martinez,R,185,ESP,20.3,102223,8,,Karim Alami,R,185,MAR,21.1,6-2 7-5,3,R32,95,1,3,67,31,20,17,10,6,9,1,3,75,33,19,17,10,10,16,126,351,96,482
 1994-379,Prague,Clay,32,A,19940801,14,102378,,,Juan Gisbert Jr,R,198,ESP,20.3,101710,,,Martin Blackman,R,188,USA,24.4,6-4 6-2,3,R32,85,0,1,65,46,34,10,9,0,0,1,0,64,40,23,12,9,5,8,230,173,208,195
 1994-379,Prague,Clay,32,A,19940801,15,102881,,WC,David Skoch,R,183,CZE,17.7,101864,,,Fernon Wibier,R,188,NED,23.4,6-3 6-3,3,R32,69,1,3,53,17,12,24,9,0,1,2,5,59,36,26,5,9,2,6,428,60,192,213
-1994-379,Prague,Clay,32,A,19940801,16,102446,2,,Andrei Medvedev,R,193,UKR,19.9,101821,,,Peter Tramacchi,R,185,AUS,23.7,7-5(6) 6-0,3,R32,84,4,2,59,26,20,22,9,2,3,3,5,76,39,25,15,9,4,8,7,2473,187,219
+1994-379,Prague,Clay,32,A,19940801,16,102446,2,,Andrei Medvedev,R,193,UKR,19.9,101821,,,Peter Tramacchi,R,185,AUS,23.7,7-6(6) 6-0,3,R32,84,4,2,59,26,20,22,9,2,3,3,5,76,39,25,15,9,4,8,7,2473,187,219
 1994-379,Prague,Clay,32,A,19940801,17,101843,1,,Sergi Bruguera,R,188,ESP,23.5,101473,,,Jozsef Krocsko,R,180,HUN,26.2,6-1 6-1,3,R16,50,1,2,42,16,12,19,7,3,3,0,2,43,32,15,3,7,1,6,3,2812,218,183
 1994-379,Prague,Clay,32,A,19940801,18,101120,7,,Karel Novacek,R,190,CZE,29.3,101806,,,Marc Kevin Goellner,R,196,GER,23.8,7-5 3-6 7-6(2),3,R16,143,3,5,114,40,26,32,16,11,19,12,5,110,51,35,22,17,6,14,51,738,103,460
 1994-379,Prague,Clay,32,A,19940801,19,101230,4,,Andrei Chesnokov,R,188,RUS,28.4,102006,,,Brent Larkham,R,178,AUS,22.5,6-2 6-1,3,R16,64,0,5,56,41,28,7,7,4,5,0,5,57,36,19,5,8,6,12,33,959,113,412
@@ -2870,7 +2870,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1994-420,New Haven,Hard,56,A,19940815,17,102201,,,Lionel Roux,R,185,FRA,21.3,100870,,,Christo Van Rensburg,R,185,RSA,31.8,5-7 6-3 6-0,3,R64,131,4,1,95,56,39,23,14,13,15,4,10,107,67,45,13,13,8,13,117,383,148,293
 1994-420,New Haven,Hard,56,A,19940815,18,101733,,,Jan Siemerink,L,183,NED,24.3,101750,,,Cristiano Caratti,R,178,ITA,24.2,6-3 7-6(4),3,R64,79,8,1,76,45,32,22,11,6,6,3,2,67,49,38,8,10,6,7,113,415,139,305
 1994-420,New Haven,Hard,56,A,19940815,19,101659,,,Jan Apell,L,183,SWE,24.7,101932,,,Jared Palmer,R,190,USA,23.1,7-6(5) 7-5,3,R64,99,8,5,81,50,38,14,12,2,4,4,2,86,51,30,20,12,7,10,90,508,53,739
-1994-420,New Haven,Hard,56,A,19940815,20,102035,,,Jonas Bjorkman,R,183,SWE,22.3,101263,,WC,Luke Jensen,U,190,USA,28.1,6-2 6-4,3,R64,58,3,1,49,24,19,14,9,1,3,2,4,59,38,17,10,9,7,12,88,511,1205,1
+1994-420,New Haven,Hard,56,A,19940815,20,102035,,,Jonas Bjorkman,R,183,SWE,22.3,101263,,WC,Luke Jensen,A,190,USA,28.1,6-2 6-4,3,R64,58,3,1,49,24,19,14,9,1,3,2,4,59,38,17,10,9,7,12,88,511,1205,1
 1994-420,New Haven,Hard,56,A,19940815,21,100656,10,,Ivan Lendl,R,188,USA,34.4,101866,,,David Rikl,L,178,CZE,23.4,6-4 6-2,3,R64,69,6,0,56,30,23,15,9,2,3,1,2,53,34,21,9,9,1,5,29,1089,62,685
 1994-420,New Haven,Hard,56,A,19940815,22,101924,16,,Stefano Pescosolido,R,185,ITA,23.1,102450,,WC,Tim Henman,R,185,GBR,19.9,6-3 6-2,3,R64,75,4,4,62,30,21,20,9,1,2,0,0,49,32,20,6,8,2,6,47,769,155,282
 1994-420,New Haven,Hard,56,A,19940815,23,101265,,,Patrick McEnroe,R,183,USA,28.1,102205,,Q,Sebastien Lareau,R,183,CAN,21.3,6-3 7-5,3,R64,84,3,2,70,43,28,13,11,2,5,9,6,60,30,20,12,10,4,9,82,538,127,349
@@ -3140,7 +3140,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1994-359,Bogota,Clay,32,A,19940912,12,101230,3,,Andrei Chesnokov,R,188,RUS,28.6,101731,,,Nuno Marques,L,190,POR,24.4,6-4 3-6 7-5,3,R32,116,5,4,89,60,38,14,15,5,10,4,8,110,57,39,22,16,9,15,40,846,153,289
 1994-359,Bogota,Clay,32,A,19940912,13,101214,7,,Bryan Shelton,R,185,USA,28.7,101490,,,Daniel Orsanic,L,183,ARG,26.2,6-7(6) 6-4 7-6(6),3,R32,147,12,9,112,69,55,24,17,2,4,3,8,125,74,58,22,17,7,10,106,440,155,286
 1994-359,Bogota,Clay,32,A,19940912,14,101368,,,Christian Miniussi,R,185,ARG,27.1,101761,,,Jaime Oncins,R,196,BRA,24.2,6-0 5-7 6-1,3,R32,98,1,2,74,36,26,20,13,5,9,1,16,80,44,26,8,12,12,20,221,187,169,258
-1994-359,Bogota,Clay,32,A,19940912,15,101495,,Q,Miguel Tobon,R,185,COL,26.2,102192,,Q,Luis Adrian Morejon,R,178,ECU,21.4,7-5(3) 6-7 6-1,3,R32,116,3,6,85,46,36,14,13,5,9,1,0,104,69,40,17,13,7,11,319,104,382,80
+1994-359,Bogota,Clay,32,A,19940912,15,101495,,Q,Miguel Tobon,R,185,COL,26.2,102192,,Q,Luis Adrian Morejon,R,178,ECU,21.4,7-5 6-7(3) 6-1,3,R32,116,3,6,85,46,36,14,13,5,9,1,0,104,69,40,17,13,7,11,319,104,382,80
 1994-359,Bogota,Clay,32,A,19940912,16,101780,,,Alejo Mancisidor,R,183,ESP,24.1,101409,2,,Jaime Yzaga,R,170,PER,26.8,6-2 6-7(1) 6-4,3,R32,120,6,4,91,46,29,21,15,5,11,1,8,100,46,25,23,15,4,13,130,350,19,1389
 1994-359,Bogota,Clay,32,A,19940912,17,101809,,,Nicolas Pereira,R,188,VEN,23.9,101027,,,Jaroslav Bulant,R,175,CZE,30.3,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,124,369,204,200
 1994-359,Bogota,Clay,32,A,19940912,18,101897,8,,Fernando Meligeni,L,180,BRA,23.4,101864,,,Fernon Wibier,R,188,NED,23.5,7-6(5) 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,99,468,196,213
@@ -3223,9 +3223,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1994-D041,Davis Cup G2 SF: GHA vs SLO,Hard,4,D,19940923,2,101884,,,Frank Ofori,R,,GHA,23.5,102013,,,Blaz Trupej,R,,SLO,22.6,0-6 6-4 6-2 7-5,5,RR,,,,,,,,,,,,,,,,,,,,333,96,907,8
 1994-D041,Davis Cup G2 SF: GHA vs SLO,Hard,4,D,19940923,4,101884,,,Frank Ofori,R,,GHA,23.5,101970,,,Iztok Bozic,R,,SLO,22.9,6-3 7-6(5) 2-6 7-5,5,RR,,,,,,,,,,,,,,,,,,,,333,96,302,114
 1994-D041,Davis Cup G2 SF: GHA vs SLO,Hard,4,D,19940923,5,102013,,,Blaz Trupej,R,,SLO,22.6,108816,,,Isaac Donkor,U,,GHA,23.1,5-7 6-2 7-6(6) 6-7(3) 8-6,5,RR,,,,,,,,,,,,,,,,,,,,907,8,,
-1994-D059,Davis Cup G2 SF: LAT vs MAR,Hard,4,D,19940923,1,102271,,,Hicham Arazi,L,175,MAR,20.9,102742,,,Armand Strombach,R,,LAT,18.5,6-1 6-1 7-6(1),5,RR,,,,,,,,,,,,,,,,,,,,186,225,480,48
+1994-D059,Davis Cup G2 SF: LAT vs MAR,Hard,4,D,19940923,1,102271,,,Hicham Arazi,L,175,MAR,20.9,102742,,,Armand Strombach,R,,LAT,24.3,6-1 6-1 7-6(1),5,RR,,,,,,,,,,,,,,,,,,,,186,225,480,48
 1994-D059,Davis Cup G2 SF: LAT vs MAR,Hard,4,D,19940923,2,101962,,,Younes El Aynaoui,R,193,MAR,23.0,100943,,,Girts Dzelde,R,173,LAT,31.1,7-5 6-7(5) 7-5 6-2,5,RR,,,,,,,,,,,,,,,,,,,,80,568,1001,5
-1994-D059,Davis Cup G2 SF: LAT vs MAR,Hard,4,D,19940923,4,102742,,,Armand Strombach,R,,LAT,18.5,103029,,,Mehdi Tahiri,R,183,MAR,17.1,4-6 6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,480,48,588,30
+1994-D059,Davis Cup G2 SF: LAT vs MAR,Hard,4,D,19940923,4,102742,,,Armand Strombach,R,,LAT,24.3,103029,,,Mehdi Tahiri,R,183,MAR,17.1,4-6 6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,480,48,588,30
 1994-D059,Davis Cup G2 SF: LAT vs MAR,Hard,4,D,19940923,5,102271,,,Hicham Arazi,L,175,MAR,20.9,100943,,,Girts Dzelde,R,173,LAT,31.1,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,186,225,1001,5
 1994-D024,Davis Cup WG PO: DEN vs PER,Carpet,4,D,19940923,1,101409,,,Jaime Yzaga,R,170,PER,26.9,101775,,,Frederik Fetterlein,R,190,DEN,24.1,7-5 4-6 7-6(3) 3-6 11-9,5,RR,,,,,,,,,,,,,,,,,,,,19,1389,235,166
 1994-D024,Davis Cup WG PO: DEN vs PER,Carpet,4,D,19940923,2,102202,,,Kenneth Carlsen,L,190,DEN,21.4,101641,,,Jose Luis Noriega,R,178,PER,25.0,6-2 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,,113,422,168,264
@@ -3461,7 +3461,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1994-348,Ostrava,Carpet,32,A,19941010,7,102521,,,Hendrik Dreekmann,R,188,GER,19.6,101866,,,David Rikl,L,178,CZE,23.6,6-1 6-1,3,R32,55,2,0,36,21,18,11,7,3,3,2,1,56,29,15,10,7,6,11,75,608,63,685
 1994-348,Ostrava,Carpet,32,A,19941010,8,101613,5,,Malivai Washington,R,180,USA,25.3,101511,,,Horst Skoff,R,175,AUT,26.1,6-4 RET,3,R32,45,5,0,27,17,13,8,6,0,0,3,2,45,23,15,10,5,8,9,25,1101,48,802
 1994-348,Ostrava,Carpet,32,A,19941010,9,101589,6,,Arnaud Boetsch,R,183,FRA,25.5,103059,,WC,Radovan Chrz,R,,CZE,17.0,6-1 6-4,3,R32,60,7,0,44,18,18,19,9,0,0,1,2,55,29,18,13,8,4,7,35,930,,
-1994-348,Ostrava,Carpet,32,A,19941010,10,102491,,Q,Alex Radulescu,R,185,GER,19.8,108995,,WC,Otakar Jurecka,R,,CZE,,6-2 6-1,3,R32,63,6,4,60,34,27,13,8,3,3,0,1,52,41,21,4,7,4,8,247,145,1223,1
+1994-348,Ostrava,Carpet,32,A,19941010,10,102491,,Q,Alex Radulescu,R,185,GER,19.8,108995,,WC,Otakar Jurecka,R,,CZE,28.9,6-2 6-1,3,R32,63,6,4,60,34,27,13,8,3,3,0,1,52,41,21,4,7,4,8,247,145,1223,1
 1994-348,Ostrava,Carpet,32,A,19941010,11,102088,,,Joern Renzenbrink,R,196,GER,22.2,101362,,Q,Stephane Simian,L,193,FRA,27.3,6-3 6-4,3,R32,70,0,3,51,27,24,17,10,2,2,4,3,63,35,24,15,9,4,6,81,561,157,292
 1994-348,Ostrava,Carpet,32,A,19941010,12,101298,,,Jonas Svensson,R,188,SWE,27.9,101475,3,,Carlos Costa,R,183,ESP,26.4,7-5 6-2,3,R32,88,1,4,72,35,25,17,10,3,5,5,3,71,28,18,19,10,8,13,127,365,20,1294
 1994-348,Ostrava,Carpet,32,A,19941010,13,101806,,,Marc Kevin Goellner,R,196,GER,24.0,101120,8,,Karel Novacek,R,190,CZE,29.5,6-1 6-4,3,R32,62,9,3,59,33,30,11,9,2,2,5,3,53,25,18,13,8,1,4,85,550,33,1029
@@ -3887,7 +3887,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1994-438,Moscow,Carpet,32,A,19941107,13,102247,8,,Andrea Gaudenzi,R,183,ITA,21.2,101463,,,Bernd Karbacher,R,185,GER,26.5,3-6 6-2 6-1,3,R32,68,1,2,48,30,26,11,9,2,2,4,2,68,33,24,15,9,5,8,24,1164,27,1091
 1994-438,Moscow,Carpet,32,A,19941107,14,101391,,Q,Carl Uwe Steeb,L,180,GER,27.1,101373,,,Karsten Braasch,L,180,GER,27.3,7-6(2) 7-5,3,R32,88,1,2,71,43,29,19,12,2,4,1,3,67,38,28,13,12,1,4,115,416,47,789
 1994-438,Moscow,Carpet,32,A,19941107,15,101901,,,Chuck Adams,R,185,USA,23.5,101084,,,Jakob Hlasek,R,188,SUI,29.9,7-6(4) 7-5,3,R32,94,0,0,74,40,32,22,12,2,2,1,6,84,49,40,15,12,7,8,68,622,69,620
-1994-438,Moscow,Carpet,32,A,19941107,16,101774,2,,Todd Martin,R,198,USA,24.3,101510,,,Henrik Holm,R,183,SWE,26.2,7-5(2) 7-6(6),3,R32,113,3,4,93,59,39,19,12,4,6,13,10,95,38,34,20,12,3,5,10,2307,65,660
+1994-438,Moscow,Carpet,32,A,19941107,16,101774,2,,Todd Martin,R,198,USA,24.3,101510,,,Henrik Holm,R,183,SWE,26.2,7-6(2) 7-6(6),3,R32,113,3,4,93,59,39,19,12,4,6,13,10,95,38,34,20,12,3,5,10,2307,65,660
 1994-438,Moscow,Carpet,32,A,19941107,17,101797,,,Jacco Eltingh,R,188,NED,24.1,102344,,,Karol Kucera,R,188,SVK,20.6,6-4 3-6 7-6(2),3,R16,109,3,1,92,71,51,11,15,2,4,3,0,92,58,46,18,16,5,7,26,1095,62,669
 1994-438,Moscow,Carpet,32,A,19941107,18,101434,7,,Petr Korda,L,190,CZE,26.7,101123,,Q,Alexander Mronz,R,188,GER,29.5,4-6 7-5 6-3,3,R16,111,9,2,88,48,39,26,16,5,6,9,7,96,54,45,18,15,3,5,18,1340,99,488
 1994-438,Moscow,Carpet,32,A,19941107,19,101334,,,Alexander Volkov,L,188,RUS,27.6,101965,4,,Wayne Ferreira,R,185,RSA,23.1,3-6 6-3 6-4,3,R16,114,8,2,100,48,37,26,14,12,14,13,4,88,50,38,16,14,5,8,37,875,12,2121
