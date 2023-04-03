@@ -216,7 +216,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1995-580,Australian Open,Hard,128,G,19950116,60,101816,,Q,Steve Campbell,R,183,USA,24.2,101901,,,Chuck Adams,R,185,USA,23.7,6-2 7-6(6) RET,5,R128,86,8,0,86,55,36,19,11,3,5,1,2,88,60,34,12,10,5,9,315,105,35,930
 1995-580,Australian Open,Hard,128,G,19950116,61,102257,,,Greg Rusedski,L,193,GBR,21.3,101334,,,Alexander Volkov,L,188,RUS,27.8,6-4 6-2 6-3,5,R128,93,12,2,109,60,47,25,13,3,5,2,9,94,41,27,17,14,6,13,103,462,26,1089
 1995-580,Australian Open,Hard,128,G,19950116,62,101900,,,Nicklas Kulti,R,190,SWE,23.7,101890,,,Jonathan Stark,R,188,USA,23.7,6-4 6-7(12) 6-3 6-3,5,R128,158,17,4,153,100,84,29,20,7,7,14,8,157,94,69,34,20,5,9,138,345,74,594
-1995-580,Australian Open,Hard,128,G,19950116,63,102259,,Q,Jerome Golmard,L,188,FRA,21.3,101263,,Q,Luke Jensen,U,190,USA,28.5,6-2 6-1 6-3,5,R128,88,3,1,59,39,36,15,12,0,0,4,3,107,72,44,12,12,17,23,207,197,551,33
+1995-580,Australian Open,Hard,128,G,19950116,63,102259,,Q,Jerome Golmard,L,188,FRA,21.3,101263,,Q,Luke Jensen,A,190,USA,28.5,6-2 6-1 6-3,5,R128,88,3,1,59,39,36,15,12,0,0,4,3,107,72,44,12,12,17,23,207,197,551,33
 1995-580,Australian Open,Hard,128,G,19950116,64,101736,2,,Andre Agassi,R,180,USA,24.7,101917,,Q,Grant Stafford,R,188,RSA,23.6,6-2 6-4 6-2,5,R128,90,6,0,78,62,47,8,13,3,5,3,1,85,59,33,9,13,5,12,2,3249,214,182
 1995-580,Australian Open,Hard,128,G,19950116,65,101948,1,,Pete Sampras,R,185,USA,23.4,102466,,Q,Jan Kroslak,R,188,SVK,20.2,6-2 6-0 6-1,5,R64,76,10,0,76,53,43,15,11,5,5,3,5,70,32,18,12,10,8,15,1,4945,191,214
 1995-580,Australian Open,Hard,128,G,19950116,66,101767,,,Lars Jonsson,R,188,SWE,24.5,101735,,,Richard Fromberg,R,196,AUS,24.7,7-6 7-6(4) 3-6 6-2,5,R64,202,4,2,160,103,69,30,20,17,20,27,7,190,113,87,33,21,12,17,100,468,40,881
@@ -336,10 +336,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1995-D077,Davis Cup G2 QF: QAT vs UZB,Hard,4,D,19950203,2,102347,,,Dmitri Tomashevich,R,,UZB,20.9,102956,,,Sultan Khalfan,R,,QAT,17.8,6-3 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,,530,35,,
 1995-D077,Davis Cup G2 QF: QAT vs UZB,Hard,4,D,19950203,4,102087,,,Oleg Ogorodov,R,193,UZB,22.5,102956,,,Sultan Khalfan,R,,QAT,17.8,6-3 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,280,126,,
 1995-D077,Davis Cup G2 QF: QAT vs UZB,Hard,4,D,19950203,5,102347,,,Dmitri Tomashevich,R,,UZB,20.9,102285,,,Nasser Ghanim Al Khulaifi,R,,QAT,21.2,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,530,35,,
-1995-D057,Davis Cup G2 QF: SRI vs IRI,Clay,4,D,19950203,1,108836,,,Jayendra Wijeyesekera,U,,SRI,25.0,108596,,,Ramin Raziyani,U,,IRI,20.7,6-3 6-3 6-7(2) 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
+1995-D057,Davis Cup G2 QF: SRI vs IRI,Clay,4,D,19950203,1,108836,,,Jayendra Wijeyesekera,U,,SRI,25.0,108596,,,Ramin Raziyani,R,,IRI,20.7,6-3 6-3 6-7(2) 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1995-D057,Davis Cup G2 QF: SRI vs IRI,Clay,4,D,19950203,2,108849,,,Rohan De Silva,U,,SRI,22.9,108595,,,Mohammed Reza Tavakoli,U,,IRI,23.1,6-2 6-4 3-6 6-7(2) 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1995-D057,Davis Cup G2 QF: SRI vs IRI,Clay,4,D,19950203,4,108595,,,Mohammed Reza Tavakoli,U,,IRI,23.1,108836,,,Jayendra Wijeyesekera,U,,SRI,25.0,7-6(4) 7-5 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,,
-1995-D057,Davis Cup G2 QF: SRI vs IRI,Clay,4,D,19950203,5,108849,,,Rohan De Silva,U,,SRI,22.9,108596,,,Ramin Raziyani,U,,IRI,20.7,6-3 7-5 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,,
+1995-D057,Davis Cup G2 QF: SRI vs IRI,Clay,4,D,19950203,5,108849,,,Rohan De Silva,U,,SRI,22.9,108596,,,Ramin Raziyani,R,,IRI,20.7,6-3 7-5 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1995-D069,Davis Cup G2 QF: THA vs MAS,Hard,4,D,19950203,1,102097,,,Naratorn Srichaphan,R,,THA,22.4,101802,,,Ramayah Ramachandran,R,160,MAS,24.3,6-1 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,1150,2
 1995-D069,Davis Cup G2 QF: THA vs MAS,Hard,4,D,19950203,2,101349,,,Adam Malik,R,193,MAS,27.7,108532,,,Worapol Thongkamcho,R,,THA,27.0,6-1 4-6 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,438,54,,
 1995-D069,Davis Cup G2 QF: THA vs MAS,Hard,4,D,19950203,4,102097,,,Naratorn Srichaphan,R,,THA,22.4,108871,,,Kim Huat Khoo,U,,MAS,18.9,6-4 6-4 6-1,5,RR,,,,,,,,,,,,,,,,,,,,,,,
@@ -484,7 +484,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1995-402,Memphis,Hard,48,A,19950213,13,101890,,,Jonathan Stark,R,188,USA,23.8,101711,,,Alex Obrien,R,185,USA,24.9,6-4 6-7(5) 6-1,3,R64,124,23,9,112,67,59,17,15,3,3,10,2,107,68,46,19,14,10,13,73,565,127,370
 1995-402,Memphis,Hard,48,A,19950213,14,101026,,,Jim Grabb,R,193,USA,30.8,101783,,Q,Mark Petchey,R,183,GBR,24.5,7-6(3) 6-3,3,R64,101,3,4,85,52,39,17,11,5,6,1,4,73,52,34,9,10,8,10,61,651,104,454
 1995-402,Memphis,Hard,48,A,19950213,15,101833,,Q,Michael Tebbutt,L,190,AUS,24.1,101897,,,Fernando Meligeni,L,180,BRA,23.8,4-6 6-3 6-3,3,R64,106,21,5,85,45,36,22,14,5,7,3,1,98,61,39,17,14,7,11,108,441,86,510
-1995-402,Memphis,Hard,48,A,19950213,16,101263,,WC,Luke Jensen,U,190,USA,28.6,102169,,Q,Michael Joyce,R,180,USA,22.0,6-4 7-5,3,R64,72,5,1,62,33,26,17,11,1,2,4,2,58,35,24,13,11,1,4,502,42,128,362
+1995-402,Memphis,Hard,48,A,19950213,16,101263,,WC,Luke Jensen,A,190,USA,28.6,102169,,Q,Michael Joyce,R,180,USA,22.0,6-4 7-5,3,R64,72,5,1,62,33,26,17,11,1,2,4,2,58,35,24,13,11,1,4,502,42,128,362
 1995-402,Memphis,Hard,48,A,19950213,17,101948,1,,Pete Sampras,R,185,USA,23.5,102304,,Q,Grant Doyle,R,180,AUS,21.0,6-1 6-0,3,R32,46,7,1,35,26,24,4,7,0,0,1,5,41,21,10,5,6,3,8,1,4725,231,157
 1995-402,Memphis,Hard,48,A,19950213,18,101382,15,,Marcelo Filippini,R,178,URU,27.5,102701,,,Marcelo Rios,L,175,CHI,19.1,6-4 6-1,3,R32,62,3,2,47,19,15,18,8,4,5,0,5,71,40,25,9,9,3,8,58,687,98,469
 1995-402,Memphis,Hard,48,A,19950213,19,102358,10,,Thomas Enqvist,R,190,SWE,20.9,100757,,,Anders Jarryd,R,180,SWE,33.5,6-3 6-1,3,R32,58,2,3,41,19,15,15,8,1,2,2,4,52,28,13,10,8,3,8,47,785,106,452
@@ -500,7 +500,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1995-402,Memphis,Hard,48,A,19950213,29,101890,,,Jonathan Stark,R,188,USA,23.8,101613,8,,Malivai Washington,R,180,USA,25.6,6-4 3-6 6-2,3,R32,108,10,4,84,47,40,17,13,1,2,7,4,88,57,37,17,14,7,10,73,565,36,906
 1995-402,Memphis,Hard,48,A,19950213,30,101932,9,,Jared Palmer,R,190,USA,23.6,101026,,,Jim Grabb,R,193,USA,30.8,6-7(7) 6-3 6-3,3,R32,120,7,10,95,53,41,22,15,5,7,10,5,91,60,41,14,15,2,7,42,842,61,651
 1995-402,Memphis,Hard,48,A,19950213,31,102434,16,,Vincent Spadea,R,183,USA,20.5,101833,,Q,Michael Tebbutt,L,190,AUS,24.1,6-3 6-4,3,R32,66,1,1,47,29,26,14,10,0,0,4,4,58,26,20,15,9,7,9,59,661,108,441
-1995-402,Memphis,Hard,48,A,19950213,32,102021,2,,Michael Chang,R,175,USA,22.9,101263,,WC,Luke Jensen,U,190,USA,28.6,7-6(4) 7-5,3,R32,103,7,4,73,35,27,17,12,3,6,10,3,96,45,35,17,12,2,6,5,2803,502,42
+1995-402,Memphis,Hard,48,A,19950213,32,102021,2,,Michael Chang,R,175,USA,22.9,101263,,WC,Luke Jensen,A,190,USA,28.6,7-6(4) 7-5,3,R32,103,7,4,73,35,27,17,12,3,6,10,3,96,45,35,17,12,2,6,5,2803,502,42
 1995-402,Memphis,Hard,48,A,19950213,33,101948,1,,Pete Sampras,R,185,USA,23.5,101382,15,,Marcelo Filippini,R,178,URU,27.5,6-2 6-2,3,R16,60,4,1,44,26,22,12,8,2,2,3,2,49,18,14,10,8,4,8,1,4725,58,687
 1995-402,Memphis,Hard,48,A,19950213,34,102358,10,,Thomas Enqvist,R,190,SWE,20.9,101601,,,Brett Steven,R,185,NZL,25.7,6-4 6-1,3,R16,54,3,0,38,22,20,12,8,0,0,3,1,53,31,16,11,9,2,6,47,785,70,588
 1995-402,Memphis,Hard,48,A,19950213,35,101774,3,,Todd Martin,R,198,USA,24.6,101191,14,,Richey Reneberg,R,180,USA,29.3,6-1 6-4,3,R16,66,11,3,52,31,27,11,9,1,1,4,2,60,32,19,14,8,3,6,16,1564,54,717
@@ -557,7 +557,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1995-401,Philadelphia,Carpet,32,A,19950220,8,102158,5,,Patrick Rafter,R,185,AUS,22.1,102434,,,Vincent Spadea,R,183,USA,20.5,3-6 7-6(1) 6-2,3,R32,127,8,4,96,62,45,16,14,4,7,2,6,113,64,38,26,15,10,14,20,1285,59,671
 1995-401,Philadelphia,Carpet,32,A,19950220,9,102358,,,Thomas Enqvist,R,190,SWE,20.9,101409,6,,Jaime Yzaga,R,170,PER,27.3,2-6 7-6(6) 7-5,3,R32,130,17,4,113,60,42,21,16,8,14,2,2,93,49,31,26,16,4,9,43,845,37,906
 1995-401,Philadelphia,Carpet,32,A,19950220,10,100954,,,Luiz Mattar,R,183,BRA,31.5,100763,,WC,Brad Gilbert,R,185,USA,33.5,6-0 6-4,3,R32,63,3,0,45,34,26,8,8,2,2,1,2,56,27,19,11,8,1,5,75,556,147,304
-1995-401,Philadelphia,Carpet,32,A,19950220,11,101263,,WC,Luke Jensen,U,190,USA,28.6,101932,,,Jared Palmer,R,190,USA,23.6,6-2 6-3,3,R32,58,5,0,42,26,23,13,9,0,0,2,5,56,34,21,9,8,5,8,426,58,41,874
+1995-401,Philadelphia,Carpet,32,A,19950220,11,101263,,WC,Luke Jensen,A,190,USA,28.6,101932,,,Jared Palmer,R,190,USA,23.6,6-2 6-3,3,R32,58,5,0,42,26,23,13,9,0,0,2,5,56,34,21,9,8,5,8,426,58,41,874
 1995-401,Philadelphia,Carpet,32,A,19950220,12,101191,,,Richey Reneberg,R,180,USA,29.3,101797,4,,Jacco Eltingh,R,188,NED,24.4,6-4 6-3,3,R32,67,9,2,56,22,16,21,10,4,6,1,1,59,35,22,11,9,8,12,50,732,23,1248
 1995-401,Philadelphia,Carpet,32,A,19950220,13,102205,,Q,Sebastien Lareau,R,183,CAN,21.8,101789,,Q,Steve Bryan,R,178,USA,24.5,6-4 6-2,3,R32,63,5,4,51,31,26,10,9,2,3,4,3,57,39,20,10,9,4,8,114,410,134,337
 1995-401,Philadelphia,Carpet,32,A,19950220,14,101746,,,Renzo Furlan,R,175,ITA,24.7,101805,,LL,David Nainkin,R,183,RSA,24.4,6-4 6-3,3,R32,79,8,2,58,29,23,17,10,3,4,1,6,67,48,30,5,9,5,8,49,759,203,198
@@ -568,7 +568,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1995-401,Philadelphia,Carpet,32,A,19950220,19,102021,3,,Michael Chang,R,175,USA,22.9,101026,,,Jim Grabb,R,193,USA,30.8,7-6(5) 7-5,3,R16,96,8,0,61,31,29,24,12,0,0,3,1,80,48,36,18,12,4,5,6,2537,71,581
 1995-401,Philadelphia,Carpet,32,A,19950220,20,101890,,,Jonathan Stark,R,188,USA,23.8,102158,5,,Patrick Rafter,R,185,AUS,22.1,6-3 4-6 6-2,3,R16,100,10,4,85,56,44,15,14,3,5,8,5,85,60,40,10,13,1,5,60,661,20,1285
 1995-401,Philadelphia,Carpet,32,A,19950220,21,102358,,,Thomas Enqvist,R,190,SWE,20.9,100954,,,Luiz Mattar,R,183,BRA,31.5,6-3 6-1,3,R16,60,7,6,39,24,23,7,8,0,1,1,0,59,32,17,11,8,5,10,43,845,75,556
-1995-401,Philadelphia,Carpet,32,A,19950220,22,101191,,,Richey Reneberg,R,180,USA,29.3,101263,,WC,Luke Jensen,U,190,USA,28.6,7-5 7-5,3,R16,92,6,1,73,39,27,24,12,1,2,5,5,75,38,23,23,12,4,7,50,732,426,58
+1995-401,Philadelphia,Carpet,32,A,19950220,22,101191,,,Richey Reneberg,R,180,USA,29.3,101263,,WC,Luke Jensen,A,190,USA,28.6,7-5 7-5,3,R16,92,6,1,73,39,27,24,12,1,2,5,5,75,38,23,23,12,4,7,50,732,426,58
 1995-401,Philadelphia,Carpet,32,A,19950220,23,102205,,Q,Sebastien Lareau,R,183,CAN,21.8,101746,,,Renzo Furlan,R,175,ITA,24.7,W/O,3,R16,,,,,,,,,,,,,,,,,,,,114,410,49,759
 1995-401,Philadelphia,Carpet,32,A,19950220,24,101736,2,,Andre Agassi,R,180,USA,24.8,101543,,,Jeff Tarango,L,180,USA,26.2,6-3 6-4,3,R16,59,2,1,56,35,26,14,10,0,1,4,3,61,28,19,14,9,5,8,2,4082,83,524
 1995-401,Philadelphia,Carpet,32,A,19950220,25,101235,,,Paul Haarhuis,R,188,NED,29.0,101601,,,Brett Steven,R,185,NZL,25.8,6-2 6-3,3,QF,62,1,0,46,28,23,10,8,2,2,2,3,52,30,20,8,9,2,6,47,788,64,632
@@ -1405,8 +1405,8 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1995-D034,Davis Cup G2 R1: EGY vs MON,Clay,4,D,19950428,4,102362,,,Amro Ghoneim,R,,EGY,21.1,108811,,,Christophe Boggetti,R,,MON,28.0,6-3 6-0 6-1,5,RR,,,,,,,,,,,,,,,,,,,,929,7,,
 1995-D034,Davis Cup G2 R1: EGY vs MON,Clay,4,D,19950428,5,108810,,,Khaled El Salawy,U,,EGY,24.9,102971,,,Christophe Bosio,R,,FRA,18.0,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1995-D038,Davis Cup G2 R1: EST vs LAT,Carpet,4,D,19950428,1,100943,,,Girts Dzelde,R,173,LAT,31.7,108602,,,Alti Vahkal,U,,EST,21.1,6-1 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,,683,17,,
-1995-D038,Davis Cup G2 R1: EST vs LAT,Carpet,4,D,19950428,2,102742,,,Armand Strombach,R,,LAT,19.1,108730,,,Sten Sumberg,U,,EST,23.1,3-6 7-6(2) 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,568,29,,
-1995-D038,Davis Cup G2 R1: EST vs LAT,Carpet,4,D,19950428,4,108602,,,Alti Vahkal,U,,EST,21.1,102742,,,Armand Strombach,R,,LAT,19.1,2-6 6-3 3-6 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,568,29
+1995-D038,Davis Cup G2 R1: EST vs LAT,Carpet,4,D,19950428,2,102742,,,Armand Strombach,R,,LAT,24.9,108730,,,Sten Sumberg,U,,EST,23.1,3-6 7-6(2) 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,568,29,,
+1995-D038,Davis Cup G2 R1: EST vs LAT,Carpet,4,D,19950428,4,108602,,,Alti Vahkal,U,,EST,21.1,102742,,,Armand Strombach,R,,LAT,24.9,2-6 6-3 3-6 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,,,,568,29
 1995-D038,Davis Cup G2 R1: EST vs LAT,Carpet,4,D,19950428,5,100943,,,Girts Dzelde,R,173,LAT,31.7,108730,,,Sten Sumberg,U,,EST,23.1,6-2 6-4 6-7(5) 6-3,5,RR,,,,,,,,,,,,,,,,,,,,683,17,,
 1995-D047,Davis Cup G2 R1: GHA vs IRL,Hard,4,D,19950428,1,102444,,,Scott Barron,R,,IRL,20.6,108815,,,Kojo Atiso,U,,GHA,28.4,7-6(3) 7-6(5) 6-1,5,RR,,,,,,,,,,,,,,,,,,,,1204,2,,
 1995-D047,Davis Cup G2 R1: GHA vs IRL,Hard,4,D,19950428,2,101884,,,Frank Ofori,R,,GHA,24.1,101506,,,Eoin Collins,L,193,IRL,26.7,6-2 6-4 7-6(4),5,RR,,,,,,,,,,,,,,,,,,,,361,83,,
@@ -1434,7 +1434,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1995-409,Atlanta,Clay,32,A,19950501,8,101062,,WC,Mats Wilander,R,183,SWE,30.6,101727,5,,Jason Stoltenberg,R,185,AUS,25.0,6-2 6-2,3,R32,74,1,1,48,36,24,8,8,4,5,3,4,66,40,19,12,8,7,12,107,439,25,1064
 1995-409,Atlanta,Clay,32,A,19950501,9,101381,6,,Aaron Krickstein,R,183,USA,27.7,101191,,,Richey Reneberg,R,180,USA,29.5,6-3 7-5,3,R32,91,3,1,91,59,37,15,11,13,16,3,2,69,33,21,15,10,1,6,40,897,47,780
 1995-409,Atlanta,Clay,32,A,19950501,10,101601,,,Brett Steven,R,185,NZL,26.0,101214,,,Bryan Shelton,R,185,USA,29.3,6-1 6-2,3,R32,51,4,0,40,31,25,7,8,0,0,2,4,42,18,10,10,7,1,5,49,731,77,568
-1995-409,Atlanta,Clay,32,A,19950501,11,101373,,,Karsten Braasch,L,180,GER,27.7,101263,,WC,Luke Jensen,U,190,USA,28.8,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,81,549,331,95
+1995-409,Atlanta,Clay,32,A,19950501,11,101373,,,Karsten Braasch,L,180,GER,27.7,101263,,WC,Luke Jensen,A,190,USA,28.8,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,81,549,331,95
 1995-409,Atlanta,Clay,32,A,19950501,12,101774,4,,Todd Martin,R,198,USA,24.8,101354,,Q,Andrew Sznajder,R,175,CAN,27.9,7-6(6) 6-4,3,R32,85,5,1,64,41,32,16,11,2,3,1,4,79,47,32,16,11,5,7,15,1906,271,131
 1995-409,Atlanta,Clay,32,A,19950501,13,101063,,,Jordi Arrese,R,175,ESP,30.6,101613,7,,Malivai Washington,R,180,USA,25.8,6-4 7-6(5),3,R32,104,0,1,72,51,30,10,11,1,6,2,6,91,58,37,8,11,8,14,96,481,46,790
 1995-409,Atlanta,Clay,32,A,19950501,14,101932,,,Jared Palmer,R,190,USA,23.8,101920,,,Jamie Morgan,R,185,AUS,23.8,7-6(5) 6-4,3,R32,89,8,1,70,41,33,17,11,6,7,8,1,79,41,31,16,11,2,4,44,793,99,468
@@ -1578,7 +1578,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1995-499,Coral Springs,Clay,32,A,19950515,4,101318,8,,Javier Frana,L,185,ARG,28.3,102235,,,Tommy Ho,L,183,USA,21.9,6-4 6-2,3,R32,68,7,0,55,34,25,14,9,2,2,6,2,54,29,21,13,9,4,7,47,769,92,491
 1995-499,Coral Springs,Clay,32,A,19950515,5,101609,3,,David Wheaton,R,193,USA,25.9,101920,,,Jamie Morgan,R,185,AUS,23.9,6-3 6-3,3,R32,70,8,2,57,38,29,11,9,2,2,7,1,50,28,18,12,9,3,6,25,1085,128,352
 1995-499,Coral Springs,Clay,32,A,19950515,6,102024,,,Hernan Gumy,R,188,ARG,23.1,101063,,,Jordi Arrese,R,175,ESP,30.7,6-2 6-2,3,R32,59,2,2,40,22,19,14,8,1,1,0,0,49,40,20,4,8,1,5,122,370,83,539
-1995-499,Coral Springs,Clay,32,A,19950515,7,101263,,WC,Luke Jensen,U,190,USA,28.9,101214,,,Bryan Shelton,R,185,USA,29.3,4-6 6-4 7-6(7),3,R32,123,8,4,105,64,42,25,16,4,8,9,8,94,47,39,23,16,5,9,323,96,89,523
+1995-499,Coral Springs,Clay,32,A,19950515,7,101263,,WC,Luke Jensen,A,190,USA,28.9,101214,,,Bryan Shelton,R,185,USA,29.3,4-6 6-4 7-6(7),3,R32,123,8,4,105,64,42,25,16,4,8,9,8,94,47,39,23,16,5,9,323,96,89,523
 1995-499,Coral Springs,Clay,32,A,19950515,8,102257,6,,Greg Rusedski,L,193,GBR,21.6,101711,,,Alex Obrien,R,185,USA,25.1,6-4 6-4,3,R32,72,10,4,56,30,28,13,10,2,3,3,5,64,37,28,11,10,2,5,58,686,120,377
 1995-499,Coral Springs,Clay,32,A,19950515,9,101601,5,,Brett Steven,R,185,NZL,26.0,101265,,,Patrick McEnroe,R,183,USA,28.8,3-6 7-6(5) 6-0,3,R32,129,4,1,91,58,38,17,13,3,7,3,7,94,56,37,14,13,7,12,48,763,63,625
 1995-499,Coral Springs,Clay,32,A,19950515,10,101776,,WC,Sandon Stolle,R,193,AUS,24.8,101354,,Q,Andrew Sznajder,R,175,CAN,27.9,3-6 6-3 6-4,3,R32,107,9,5,92,60,41,16,14,3,6,10,8,85,50,36,14,14,3,7,334,90,265,132
@@ -1591,7 +1591,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1995-499,Coral Springs,Clay,32,A,19950515,17,101809,,,Nicolas Pereira,R,188,VEN,24.6,102132,,WC,Ivan Baron,R,185,USA,22.5,6-4 6-4,3,R16,83,14,0,65,46,35,11,10,1,1,0,0,53,39,27,8,10,0,2,121,373,285,120
 1995-499,Coral Springs,Clay,32,A,19950515,18,101318,8,,Javier Frana,L,185,ARG,28.3,101833,,,Michael Tebbutt,L,190,AUS,24.3,6-4 6-4,3,R16,66,1,0,53,31,24,12,10,0,1,4,6,51,28,23,8,10,1,4,47,769,101,451
 1995-499,Coral Springs,Clay,32,A,19950515,19,102024,,,Hernan Gumy,R,188,ARG,23.1,101609,3,,David Wheaton,R,193,USA,25.9,6-3 7-6(5),3,R16,110,7,0,56,41,32,10,10,0,1,4,5,92,60,37,15,11,8,11,122,370,25,1085
-1995-499,Coral Springs,Clay,32,A,19950515,20,102257,6,,Greg Rusedski,L,193,GBR,21.6,101263,,WC,Luke Jensen,U,190,USA,28.9,6-1 6-2,3,R16,51,9,2,32,17,15,13,7,0,0,0,2,55,35,16,8,8,3,8,58,686,323,96
+1995-499,Coral Springs,Clay,32,A,19950515,20,102257,6,,Greg Rusedski,L,193,GBR,21.6,101263,,WC,Luke Jensen,A,190,USA,28.9,6-1 6-2,3,R16,51,9,2,32,17,15,13,7,0,0,0,2,55,35,16,8,8,3,8,58,686,323,96
 1995-499,Coral Springs,Clay,32,A,19950515,21,101601,5,,Brett Steven,R,185,NZL,26.0,101776,,WC,Sandon Stolle,R,193,AUS,24.8,6-2 6-2,3,R16,65,1,1,52,38,29,8,8,4,4,2,1,52,30,19,8,8,1,5,48,763,334,90
 1995-499,Coral Springs,Clay,32,A,19950515,22,101185,4,,Mark Woodforde,L,188,AUS,29.6,101084,,,Jakob Hlasek,R,188,SUI,30.5,6-1 6-2,3,R16,61,3,2,47,27,21,14,8,3,3,4,2,54,36,20,7,7,9,13,35,919,104,444
 1995-499,Coral Springs,Clay,32,A,19950515,23,101889,,,Todd Woodbridge,R,178,AUS,24.1,101890,7,,Jonathan Stark,R,188,USA,24.1,6-3 6-3,3,R16,84,0,1,46,32,27,10,9,2,2,7,3,81,53,33,13,9,6,9,76,572,61,633
@@ -2201,7 +2201,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1995-316,Bastad,Clay,32,A,19950710,12,101463,3,,Bernd Karbacher,R,185,GER,27.2,100944,,WC,Mikael Pernfors,R,173,SWE,31.9,6-1 7-5,3,R32,83,3,2,76,37,30,14,10,10,12,0,2,62,42,23,8,9,4,9,34,920,657,19
 1995-316,Bastad,Clay,32,A,19950710,13,102796,,Q,Magnus Norman,R,188,SWE,19.1,100757,8,,Anders Jarryd,R,180,SWE,33.9,6-4 6-3,3,R32,78,2,1,53,26,16,17,9,1,3,3,7,64,23,14,20,10,3,8,367,75,67,651
 1995-316,Bastad,Clay,32,A,19950710,14,102025,,,Mikael Tillstrom,R,185,SWE,23.3,101086,,,Ronald Agenor,R,180,USA,30.6,6-4 7-6(9),3,R32,96,4,3,75,40,31,20,11,2,3,1,1,82,46,32,19,11,2,4,202,187,154,263
-1995-316,Bastad,Clay,32,A,19950710,15,102351,,,Oscar Martinez,R,185,ESP,21.3,101407,,Q,David Engel,R,180,SWE,27.7,1-6 6-2 7-5(1),3,R32,100,2,9,96,51,36,19,14,2,7,3,2,74,41,25,17,13,4,8,87,505,413,61
+1995-316,Bastad,Clay,32,A,19950710,15,102351,,,Oscar Martinez,R,185,ESP,21.3,101407,,Q,David Engel,R,180,SWE,27.7,1-6 6-2 7-6(1),3,R32,100,2,9,96,51,36,19,14,2,7,3,2,74,41,25,17,13,4,8,87,505,413,61
 1995-316,Bastad,Clay,32,A,19950710,16,101897,,,Fernando Meligeni,L,180,BRA,24.2,101582,2,,Gilbert Schaller,R,180,AUT,26.3,1-6 6-3 6-4,3,R32,120,6,3,81,40,28,17,13,7,12,1,2,87,59,29,20,13,5,10,78,568,31,935
 1995-316,Bastad,Clay,32,A,19950710,17,102339,,,Kris Goossens,R,180,BEL,21.3,102024,,,Hernan Gumy,R,188,ARG,23.3,W/O,3,R16,,,,,,,,,,,,,,,,,,,,135,323,115,404
 1995-316,Bastad,Clay,32,A,19950710,18,101806,7,,Marc Kevin Goellner,R,196,GER,24.7,101767,,,Lars Jonsson,R,188,SWE,25.0,6-4 6-1,3,R16,52,11,4,42,22,21,15,9,0,0,2,0,55,35,20,10,8,5,8,71,634,128,338
@@ -2305,9 +2305,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1995-D039,Davis Cup G2 QF: FIN vs GHA,Clay,4,D,19950714,4,102617,,,Kim Tiilikainen,R,180,FIN,20.0,108816,,,Isaac Donkor,U,,GHA,23.9,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,263,129,,
 1995-D039,Davis Cup G2 QF: FIN vs GHA,Clay,4,D,19950714,5,102656,,,Tommi Lenho,R,,FIN,19.8,108815,,,Kojo Atiso,U,,GHA,28.6,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,350,79,,
 1995-D063,Davis Cup G2 QF: LAT vs UKR,Clay,4,D,19950714,1,102069,,,Andrei Rybalko,R,180,UKR,23.0,100943,,,Girts Dzelde,R,173,LAT,31.9,6-3 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,,439,55,560,30
-1995-D063,Davis Cup G2 QF: LAT vs UKR,Clay,4,D,19950714,2,102742,,,Armand Strombach,R,,LAT,19.3,106882,,,Dimitri Muzyka,R,,UKR,19.4,6-2 6-3 6-3,5,RR,,,,,,,,,,,,,,,,,,,,598,23,730,14
+1995-D063,Davis Cup G2 QF: LAT vs UKR,Clay,4,D,19950714,2,102742,,,Armand Strombach,R,,LAT,25.1,106882,,,Dimitri Muzyka,R,,UKR,19.4,6-2 6-3 6-3,5,RR,,,,,,,,,,,,,,,,,,,,598,23,730,14
 1995-D063,Davis Cup G2 QF: LAT vs UKR,Clay,4,D,19950714,4,106882,,,Dimitri Muzyka,R,,UKR,19.4,100943,,,Girts Dzelde,R,173,LAT,31.9,6-2 6-4 1-6 6-2,5,RR,,,,,,,,,,,,,,,,,,,,730,14,560,30
-1995-D063,Davis Cup G2 QF: LAT vs UKR,Clay,4,D,19950714,5,102069,,,Andrei Rybalko,R,180,UKR,23.0,102742,,,Armand Strombach,R,,LAT,19.3,7-6(2) 7-5 6-3,5,RR,,,,,,,,,,,,,,,,,,,,439,55,598,23
+1995-D063,Davis Cup G2 QF: LAT vs UKR,Clay,4,D,19950714,5,102069,,,Andrei Rybalko,R,180,UKR,23.0,102742,,,Armand Strombach,R,,LAT,25.1,7-6(2) 7-5 6-3,5,RR,,,,,,,,,,,,,,,,,,,,439,55,598,23
 1995-D066,Davis Cup G2 QF: LUX vs NGR,Carpet,4,D,19950714,1,100991,,,Johnny Goudenbour,R,178,LUX,31.5,108828,,,Emmanuel Udozorh,U,,NGR,22.3,6-1 6-0 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 1995-D066,Davis Cup G2 QF: LUX vs NGR,Carpet,4,D,19950714,2,102372,,,Sule Ladipo,R,180,NGR,21.2,108867,,,Serge Brueck,U,,LUX,24.4,2-6 3-6 6-4 6-4 6-2,5,RR,,,,,,,,,,,,,,,,,,,,278,118,,
 1995-D066,Davis Cup G2 QF: LUX vs NGR,Carpet,4,D,19950714,4,100991,,,Johnny Goudenbour,R,178,LUX,31.5,102372,,,Sule Ladipo,R,180,NGR,21.2,6-2 6-3 6-7(1) 6-4,5,RR,,,,,,,,,,,,,,,,,,,,,,278,118
@@ -2474,7 +2474,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1995-421,Canada Masters,Hard,56,M,19950724,27,101843,9,,Sergi Bruguera,R,188,ESP,24.5,101381,,,Aaron Krickstein,R,183,USA,27.9,6-2 7-6(4),3,R32,74,7,3,68,43,33,14,10,4,5,4,2,68,42,28,12,10,4,7,10,2155,46,809
 1995-421,Canada Masters,Hard,56,M,19950724,28,101613,,,Malivai Washington,R,180,USA,26.0,101820,8,,Marc Rosset,R,201,SUI,24.7,6-3 7-6(4),3,R32,94,5,2,73,44,34,18,11,4,5,9,4,73,47,31,13,10,3,5,36,886,11,2069
 1995-421,Canada Masters,Hard,56,M,19950724,29,102338,4,,Yevgeny Kafelnikov,R,190,RUS,21.4,102882,,,Mark Philippoussis,R,196,AUS,18.7,6-4 6-7(6) 7-6(8),3,R32,141,8,3,117,64,53,30,17,5,6,16,9,118,68,52,28,17,9,11,6,2676,98,474
-1995-421,Canada Masters,Hard,56,M,19950724,30,101601,,,Brett Steven,R,185,NZL,26.2,101990,,Q,Richard Krajicek,R,196,NED,23.6,7-5(7) 3-1 RET,3,R32,66,3,0,53,42,31,7,8,2,3,8,2,60,34,25,13,9,6,8,42,828,14,1673
+1995-421,Canada Masters,Hard,56,M,19950724,30,101601,,,Brett Steven,R,185,NZL,26.2,101990,,Q,Richard Krajicek,R,196,NED,23.6,7-6(7) 3-1 RET,3,R32,66,3,0,53,42,31,7,8,2,3,8,2,60,34,25,13,9,6,8,42,828,14,1673
 1995-421,Canada Masters,Hard,56,M,19950724,31,101062,,,Mats Wilander,R,183,SWE,30.9,101222,11,,Stefan Edberg,R,188,SWE,29.5,3-6 6-3 6-4,3,R32,128,7,3,97,63,47,16,14,9,11,1,4,109,75,50,15,14,10,13,102,457,15,1565
 1995-421,Canada Masters,Hard,56,M,19950724,32,101965,6,,Wayne Ferreira,R,185,RSA,23.8,102401,,,Scott Draper,L,178,AUS,21.1,7-5 6-1,3,R32,56,8,1,45,31,25,11,9,0,0,4,4,64,32,22,13,10,7,11,8,2377,103,450
 1995-421,Canada Masters,Hard,56,M,19950724,33,101964,5,,Goran Ivanisevic,L,193,CRO,23.8,102169,,Q,Michael Joyce,R,180,USA,22.4,6-4 3-6 6-3,3,R32,79,21,1,71,36,30,22,14,4,6,5,5,84,54,38,16,14,4,7,7,2621,91,509
@@ -2673,7 +2673,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1995-475,San Marino,Clay,32,A,19950807,7,101924,,,Stefano Pescosolido,R,185,ITA,24.1,102572,,WC,Igor Gaudi,R,188,ITA,20.3,6-3 7-6(4),3,R32,91,2,4,66,39,32,14,11,2,4,4,3,62,37,27,11,10,1,4,93,489,605,24
 1995-475,San Marino,Clay,32,A,19950807,8,102477,,,Gaston Etlis,R,185,ARG,20.7,101475,5,,Carlos Costa,R,183,ESP,27.2,7-6(4) 6-4,3,R32,93,1,2,73,39,26,23,11,2,4,8,2,68,44,32,10,11,4,7,129,357,40,872
 1995-475,San Marino,Clay,32,A,19950807,9,102031,,,Sandor Noszaly,R,193,HUN,23.3,101063,6,,Jordi Arrese,R,175,ESP,30.9,7-6(0) 6-2,3,R32,121,5,6,59,33,25,14,10,0,2,4,1,69,35,24,11,10,6,10,135,332,57,736
-1995-475,San Marino,Clay,32,A,19950807,10,102029,,,Filip Dewulf,R,190,BEL,23.3,102113,,,Daniele Musa,R,183,ITA,22.9,7-6(4) 7-5(5),3,R32,114,2,1,94,64,41,20,12,9,11,4,1,80,40,28,23,12,3,5,149,300,141,320
+1995-475,San Marino,Clay,32,A,19950807,10,102029,,,Filip Dewulf,R,190,BEL,23.3,102113,,,Daniele Musa,R,183,ITA,22.9,7-6(4) 7-6(5),3,R32,114,2,1,94,64,41,20,12,9,11,4,1,80,40,28,23,12,3,5,149,300,141,320
 1995-475,San Marino,Clay,32,A,19950807,11,101717,,WC,Diego Nargiso,L,188,ITA,25.3,101826,,,Alex Lopez Moron,R,175,ESP,24.6,6-4 6-2,3,R32,73,5,0,49,25,16,16,9,2,4,0,3,62,40,20,9,9,4,9,150,296,110,429
 1995-475,San Marino,Clay,32,A,19950807,12,101582,3,,Gilbert Schaller,R,180,AUT,26.3,101391,,,Carl Uwe Steeb,L,180,GER,27.9,6-3 6-3,3,R32,54,3,2,57,28,23,15,9,3,4,5,2,55,33,18,12,9,4,8,26,1085,76,592
 1995-475,San Marino,Clay,32,A,19950807,13,101792,8,,Slava Dosedel,R,183,CZE,24.9,102650,,,Roberto Carretero,R,178,ESP,19.9,6-3 6-2,3,R32,52,6,1,47,32,28,8,9,0,0,1,5,45,29,21,4,8,0,3,72,609,134,333
@@ -2750,7 +2750,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1995-419,Indianapolis,Hard,56,A,19950814,53,101463,12,,Bernd Karbacher,R,185,GER,27.3,101948,1,,Pete Sampras,R,185,USA,24.0,4-6 6-4 6-1,3,SF,106,10,5,83,35,31,26,14,2,3,13,5,73,35,27,21,13,2,5,27,990,2,4223
 1995-419,Indianapolis,Hard,56,A,19950814,54,102358,4,,Thomas Enqvist,R,190,SWE,21.4,101964,2,,Goran Ivanisevic,L,193,CRO,23.9,6-1 1-6 6-3,3,SF,75,14,2,69,38,30,17,12,3,5,12,7,69,27,22,21,11,4,7,13,1807,7,2616
 1995-419,Indianapolis,Hard,56,A,19950814,55,102358,4,,Thomas Enqvist,R,190,SWE,21.4,101463,12,,Bernd Karbacher,R,185,GER,27.3,6-4 6-3,3,F,76,3,6,49,28,24,11,9,0,1,3,4,71,40,24,13,10,2,6,13,1807,27,990
-1995-420,New Haven,Hard,56,A,19950814,1,101897,,,Fernando Meligeni,L,180,BRA,24.3,101263,,WC,Luke Jensen,U,190,USA,29.1,1-6 6-3 7-6(7),3,R64,113,4,7,115,74,45,21,14,9,13,6,6,92,57,38,19,14,6,9,58,719,287,113
+1995-420,New Haven,Hard,56,A,19950814,1,101897,,,Fernando Meligeni,L,180,BRA,24.3,101263,,WC,Luke Jensen,A,190,USA,29.1,1-6 6-3 7-6(7),3,R64,113,4,7,115,74,45,21,14,9,13,6,6,92,57,38,19,14,6,9,58,719,287,113
 1995-420,New Haven,Hard,56,A,19950814,2,101816,,WC,Steve Campbell,R,183,USA,24.8,101783,,,Mark Petchey,R,183,GBR,25.0,6-4 6-1,3,R64,62,0,3,58,34,26,15,9,6,7,0,0,48,30,17,8,8,2,6,144,312,140,334
 1995-420,New Haven,Hard,56,A,19950814,3,102158,15,,Patrick Rafter,R,185,AUS,22.6,102882,,,Mark Philippoussis,R,196,AUS,18.7,6-4 7-5,3,R64,86,10,3,63,43,32,13,11,1,1,18,12,82,39,36,14,11,6,8,42,843,90,508
 1995-420,New Haven,Hard,56,A,19950814,4,102286,,Q,Wayne Black,R,170,ZIM,21.7,101797,9,,Jacco Eltingh,R,188,NED,24.9,6-3 6-3,3,R64,75,3,5,69,31,24,22,9,4,4,7,6,55,24,16,15,9,1,4,299,106,20,1291
@@ -2914,7 +2914,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1995-560,US Open,Hard,128,G,19950828,45,101611,,,Cedric Pioline,R,188,FRA,26.2,102854,,,Sjeng Schalken,R,193,NED,18.9,6-4 7-5 6-1,5,R128,,8,3,112,64,50,26,14,8,8,4,4,102,61,42,17,15,3,8,56,704,86,536
 1995-560,US Open,Hard,128,G,19950828,46,101532,,,Francisco Clavet,L,183,ESP,26.8,102104,,,Christian Ruud,R,188,NOR,23.0,6-1 6-4 6-4,5,R128,,3,2,95,78,52,6,14,4,7,3,4,111,83,49,6,13,3,10,41,857,50,748
 1995-560,US Open,Hard,128,G,19950828,47,101185,,,Mark Woodforde,L,188,AUS,29.9,102339,,,Kris Goossens,R,180,BEL,21.5,6-3 6-3 6-4,5,R128,,6,4,81,46,33,23,14,1,3,1,8,103,49,29,24,14,10,16,40,865,107,436
-1995-560,US Open,Hard,128,G,19950828,48,101404,3,,Thomas Muster,L,180,AUT,27.9,101263,,WC,Luke Jensen,U,190,USA,29.1,7-6(3) 6-3 6-0,5,R128,,4,4,80,48,44,20,14,0,1,3,6,101,54,37,16,13,3,8,3,3965,279,113
+1995-560,US Open,Hard,128,G,19950828,48,101404,3,,Thomas Muster,L,180,AUT,27.9,101263,,WC,Luke Jensen,A,190,USA,29.1,7-6(3) 6-3 6-0,5,R128,,4,4,80,48,44,20,14,0,1,3,6,101,54,37,16,13,3,8,3,3965,279,113
 1995-560,US Open,Hard,128,G,19950828,49,101529,8,,Michael Stich,R,193,GER,26.8,101439,,,Javier Sanchez,R,178,ESP,27.5,6-2 6-3 6-0,5,R128,,8,3,78,46,40,19,12,0,0,0,6,74,44,23,11,11,5,11,8,2335,46,792
 1995-560,US Open,Hard,128,G,19950828,50,102024,,,Hernan Gumy,R,188,ARG,23.4,101890,,,Jonathan Stark,R,188,USA,24.4,6-4 6-4 6-3,5,R128,,8,4,96,66,54,15,14,7,7,7,5,123,86,61,11,15,8,12,98,456,78,568
 1995-560,US Open,Hard,128,G,19950828,51,101230,,,Andrei Chesnokov,R,188,RUS,29.5,101613,,,Malivai Washington,R,180,USA,26.1,6-2 6-4 6-4,5,R128,,,,,,,,,,,,,,,,,,,,60,691,47,786
@@ -3095,10 +3095,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1995-D051,Davis Cup G1 PO: HKG vs TPE,Hard,4,D,19950922,2,102119,,,Chih Jung Chen,R,,TPE,22.9,108832,,,Thorsten Poelzl,U,,HKG,21.0,7-6(5) 4-6 3-6 6-4 6-1,5,RR,,,,,,,,,,,,,,,,,,,,647,20,,
 1995-D051,Davis Cup G1 PO: HKG vs TPE,Hard,4,D,19950922,4,103170,,,Wei Ju Chen,R,,TPE,17.4,102511,,,Sven Koehler,R,,HKG,20.6,6-1 1-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1995-D051,Davis Cup G1 PO: HKG vs TPE,Hard,4,D,19950922,5,102543,,,Chia Yen Tsai,R,,TPE,20.5,103102,,,John Hui,R,,HKG,17.7,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1995-D075,Davis Cup G1 PO: PER vs URU,Hard,4,D,19950922,1,101382,,,Marcelo Filippini,R,178,URU,28.1,108585,,,Americo Venero Montes,U,175,PER,23.5,6-1 7-6(6) 4-6 6-3,5,RR,,,,,,,,,,,,,,,,,,,,101,455,,
+1995-D075,Davis Cup G1 PO: PER vs URU,Hard,4,D,19950922,1,101382,,,Marcelo Filippini,R,178,URU,28.1,108585,,,Americo Venero Montes,L,175,PER,23.5,6-1 7-6(6) 4-6 6-3,5,RR,,,,,,,,,,,,,,,,,,,,101,455,,
 1995-D075,Davis Cup G1 PO: PER vs URU,Hard,4,D,19950922,2,101409,,,Jaime Yzaga,R,170,PER,27.9,101976,,,Federico Dondo,R,,URU,23.9,6-4 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,,106,444,620,23
 1995-D075,Davis Cup G1 PO: PER vs URU,Hard,4,D,19950922,4,101409,,,Jaime Yzaga,R,170,PER,27.9,101382,,,Marcelo Filippini,R,178,URU,28.1,6-4 2-6 6-3 7-5,5,RR,,,,,,,,,,,,,,,,,,,,106,444,101,455
-1995-D075,Davis Cup G1 PO: PER vs URU,Hard,4,D,19950922,5,108585,,,Americo Venero Montes,U,175,PER,23.5,101976,,,Federico Dondo,R,,URU,23.9,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,620,23
+1995-D075,Davis Cup G1 PO: PER vs URU,Hard,4,D,19950922,5,108585,,,Americo Venero Montes,L,175,PER,23.5,101976,,,Federico Dondo,R,,URU,23.9,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,620,23
 1995-D076,Davis Cup G1 PO: POR vs ROU,Clay,4,D,19950922,1,102437,,,Adrian Voinea,R,185,ROU,21.1,102250,,,Emanuel Couto,R,183,POR,22.1,6-2 6-2 6-1,5,RR,,,,,,,,,,,,,,,,,,,,56,717,204,185
 1995-D076,Davis Cup G1 PO: POR vs ROU,Clay,4,D,19950922,2,102375,,,Dinu Pescariu,R,185,ROU,21.4,101416,,,Joao Cunha Silva,R,173,POR,27.8,6-1 6-1 6-2,5,RR,,,,,,,,,,,,,,,,,,,,175,240,182,226
 1995-D076,Davis Cup G1 PO: POR vs ROU,Clay,4,D,19950922,4,102437,,,Adrian Voinea,R,185,ROU,21.1,101416,,,Joao Cunha Silva,R,173,POR,27.8,6-2 6-4 6-2,5,RR,,,,,,,,,,,,,,,,,,,,56,717,182,226
@@ -3318,7 +3318,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1995-348,Ostrava,Carpet,32,A,19951009,2,101234,,Q,Patrik Kuhnen,R,190,GER,29.6,102257,,,Greg Rusedski,L,193,GBR,22.0,1-6 6-3 7-6(6),3,R32,105,9,8,94,51,45,18,14,1,3,21,7,91,57,49,15,14,5,6,349,83,35,862
 1995-348,Ostrava,Carpet,32,A,19951009,3,102184,,,David Prinosil,R,185,GER,22.5,101441,,,Martin Sinner,R,180,GER,27.6,6-1 2-6 6-1,3,R32,79,10,1,77,41,29,21,12,3,5,4,5,66,25,17,22,12,2,6,79,569,52,740
 1995-348,Ostrava,Carpet,32,A,19951009,4,101929,,Q,Joost Winnink,R,180,NED,24.2,101318,8,,Javier Frana,L,185,ARG,28.7,3-6 7-5 7-6(5),3,R32,123,5,6,106,55,43,23,16,8,12,10,5,111,52,37,32,17,4,8,209,182,38,851
-1995-348,Ostrava,Carpet,32,A,19951009,5,101965,3,,Wayne Ferreira,R,185,RSA,24.0,108995,,WC,Otakar Jurecka,R,,CZE,,6-1 6-4,3,R32,57,9,1,54,30,27,11,9,0,0,1,0,48,38,21,5,8,5,8,13,1655,1273,1
+1995-348,Ostrava,Carpet,32,A,19951009,5,101965,3,,Wayne Ferreira,R,185,RSA,24.0,108995,,WC,Otakar Jurecka,R,,CZE,29.9,6-1 6-4,3,R32,57,9,1,54,30,27,11,9,0,0,1,0,48,38,21,5,8,5,8,13,1655,1273,1
 1995-348,Ostrava,Carpet,32,A,19951009,6,210013,,,Martin Damm Sr,R,188,CZE,23.1,102437,,,Adrian Voinea,R,185,ROU,21.1,6-2 3-6 7-5,3,R32,106,8,2,79,47,39,19,14,5,6,4,5,99,62,45,19,15,8,11,,,54,724
 1995-348,Ostrava,Carpet,32,A,19951009,7,102158,,,Patrick Rafter,R,185,AUS,22.7,101071,,Q,Tom Nijssen,R,175,NED,31.0,6-7(5) 6-3 7-6(3),3,R32,138,13,6,105,62,52,21,17,2,3,4,8,107,57,41,24,16,4,6,57,693,1273,1
 1995-348,Ostrava,Carpet,32,A,19951009,8,102562,,,Jiri Novak,R,190,CZE,20.5,101434,5,,Petr Korda,L,190,CZE,27.7,6-2 6-7(2) 6-0,3,R32,109,3,0,89,64,48,10,13,1,2,7,8,97,53,35,19,13,8,14,82,528,26,1086
@@ -3427,7 +3427,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1995-747,Beijing,Carpet,32,A,19951016,2,100837,,,Jeremy Bates,R,180,GBR,33.3,101865,,,Albert Chang,R,183,CAN,24.6,6-2 6-4,3,R32,68,3,1,69,49,32,10,9,4,6,3,2,56,45,21,6,9,5,10,120,385,148,310
 1995-747,Beijing,Carpet,32,A,19951016,3,101868,,,Dick Norman,L,203,BEL,24.6,101577,,WC,Jia Ping Xia,R,165,CHN,26.6,6-3 6-3,3,R32,65,9,8,58,32,28,12,9,1,1,1,2,72,46,25,15,9,9,12,113,398,500,39
 1995-747,Beijing,Carpet,32,A,19951016,4,101833,7,,Michael Tebbutt,L,190,AUS,24.8,101365,,,Paul Wekesa,R,188,KEN,28.2,6-3 6-2,3,R32,56,18,4,50,29,29,9,9,1,1,5,0,53,36,20,9,8,1,4,98,479,152,300
-1995-747,Beijing,Carpet,32,A,19951016,5,102202,3,,Kenneth Carlsen,L,190,DEN,22.4,101750,,,Cristiano Caratti,R,178,ITA,25.3,6-4 7-5(5),3,R32,100,10,2,68,39,32,18,11,3,3,2,4,90,55,37,20,11,5,6,65,611,117,391
+1995-747,Beijing,Carpet,32,A,19951016,5,102202,3,,Kenneth Carlsen,L,190,DEN,22.4,101750,,,Cristiano Caratti,R,178,ITA,25.3,6-4 7-6(5),3,R32,100,10,2,68,39,32,18,11,3,3,2,4,90,55,37,20,11,5,6,65,611,117,391
 1995-747,Beijing,Carpet,32,A,19951016,6,102233,,,Leander Paes,R,178,IND,22.3,102215,,Q,Joshua Eagle,R,183,AUS,22.4,6-7(7) 7-6(2) 6-1,3,R32,127,4,8,109,76,56,12,16,2,4,6,0,104,75,50,15,15,6,10,130,357,672,18
 1995-747,Beijing,Carpet,32,A,19951016,7,101783,,,Mark Petchey,R,183,GBR,25.2,101573,,WC,Carl Chang,R,175,USA,26.6,6-3 6-4,3,R32,66,10,4,50,33,29,10,10,0,1,2,4,51,27,18,13,9,2,5,141,320,,
 1995-747,Beijing,Carpet,32,A,19951016,8,101805,,,David Nainkin,R,183,RSA,25.0,102169,5,,Michael Joyce,R,180,USA,22.7,6-3 5-7 6-1,3,R32,92,2,4,83,55,36,14,14,4,8,4,5,83,44,26,17,14,4,11,222,169,78,574
@@ -3460,7 +3460,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1995-375,Lyon,Carpet,32,A,19951016,4,102257,7,,Greg Rusedski,L,193,GBR,22.1,100676,,WC,Yannick Noah,R,193,FRA,35.4,6-3 6-2,3,R32,60,8,2,45,27,25,12,9,0,0,1,3,50,26,22,7,8,4,7,43,840,544,32
 1995-375,Lyon,Carpet,32,A,19951016,5,101179,,Q,Jean Philippe Fleurian,R,185,FRA,30.0,101820,3,,Marc Rosset,R,201,SUI,24.9,4-6 6-4 6-4,3,R32,122,1,2,84,53,41,18,15,3,5,16,5,86,51,43,12,15,4,7,192,207,10,1964
 1995-375,Lyon,Carpet,32,A,19951016,6,102158,,,Patrick Rafter,R,185,AUS,22.7,101391,,,Carl Uwe Steeb,L,180,GER,28.1,6-3 6-1,3,R32,52,9,1,40,22,21,12,8,0,0,0,5,45,28,16,7,8,3,7,57,708,88,518
-1995-375,Lyon,Carpet,32,A,19951016,7,102201,,,Lionel Roux,R,185,FRA,22.5,102765,,WC,Nicolas Escude,R,185,FRA,19.5,6-3 7-5(12),3,R32,124,1,1,90,51,35,21,11,4,6,1,3,88,60,36,13,10,3,6,79,568,198,192
+1995-375,Lyon,Carpet,32,A,19951016,7,102201,,,Lionel Roux,R,185,FRA,22.5,102765,,WC,Nicolas Escude,R,185,FRA,19.5,6-3 7-6(12),3,R32,124,1,1,90,51,35,21,11,4,6,1,3,88,60,36,13,10,3,6,79,568,198,192
 1995-375,Lyon,Carpet,32,A,19951016,8,101774,5,,Todd Martin,R,198,USA,25.2,101230,,,Andrei Chesnokov,R,188,RUS,29.7,7-6(5) 7-6(3),3,R32,100,8,5,81,41,34,23,12,2,4,4,2,87,42,38,21,12,6,8,20,1225,76,583
 1995-375,Lyon,Carpet,32,A,19951016,9,102184,,,David Prinosil,R,185,GER,22.6,101589,6,,Arnaud Boetsch,R,183,FRA,26.5,6-2 6-4,3,R32,76,5,3,60,27,20,17,9,5,7,2,2,63,30,20,11,9,6,11,71,592,22,1211
 1995-375,Lyon,Carpet,32,A,19951016,10,101084,,,Jakob Hlasek,R,188,SUI,30.9,101932,,,Jared Palmer,R,190,USA,24.2,6-2 6-1,3,R32,61,3,0,40,22,16,11,7,3,4,1,4,56,27,12,11,8,6,12,50,761,86,523
