@@ -1297,6 +1297,245 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-7694,Lyon,Clay,32,A,20230522,273,202104,6,,Sebastian Baez,R,170,ARG,22.3,105916,,,Marton Fucsovics,R,188,HUN,31.2,6-4 7-6(5),3,R32,124,1,1,71,47,31,17,11,5,7,1,2,92,59,38,14,11,7,10,44,955,80,720
 2023-7694,Lyon,Clay,32,A,20230522,272,106398,,,Pedro Cachin,R,185,ARG,28.1,104792,,WC,Gael Monfils,R,193,FRA,36.7,2-6 6-3 6-4,3,R32,110,2,4,85,47,38,18,14,6,8,5,1,74,38,31,19,13,3,5,63,793,386,117
 2023-7694,Lyon,Clay,32,A,20230522,271,105676,,,David Goffin,R,180,BEL,32.4,126533,,Q,Alvaro Lopez San Martin,R,,ESP,25.9,6-1 6-3,3,R32,77,3,1,45,17,13,21,8,1,1,4,3,63,43,27,5,8,13,17,113,550,298,170
+2023-520,Roland Garros,Clay,128,G,20230529,520,207989,1,,Carlos Alcaraz,R,185,ESP,20.0,207925,,Q,Flavio Cobolli,R,,ITA,21.0,,6-0 6-2 7-5,100,,,,,,,,,,,,,,,,,,,,1,6815,159,378
+2023-520,Roland Garros,Clay,128,G,20230529,520,106121,,,Taro Daniel,R,191,JPN,30.3,106331,,,Christopher Oconnell,R,183,AUS,28.9,,6-0 6-2 6-4,101,,,,,,,,,,,,,,,,,,,,112,566,77,737
+2023-520,Roland Garros,Clay,128,G,20230529,520,208286,,,Matteo Arnaldi,R,183,ITA,22.2,123755,,,Daniel Elahi Galan,R,191,COL,26.9,,2-6 6-3 6-0 6-2,102,,,,,,,,,,,,,,,,,,,,106,592,91,671
+2023-520,Roland Garros,Clay,128,G,20230529,520,133430,26,,Denis Shapovalov,L,185,CAN,24.1,206909,,,Brandon Nakashima,R,185,USA,21.8,,6-4 7-5 4-6 3-6 6-3,103,,,,,,,,,,,,,,,,,,,,32,1210,45,957
+2023-520,Roland Garros,Clay,128,G,20230529,520,207518,17,,Lorenzo Musetti,R,185,ITA,21.2,144707,,,Mikael Ymer,R,183,SWE,24.7,,7-5 6-2 6-4,104,,,,,,,,,,,,,,,,,,,,18,2040,56,876
+2023-520,Roland Garros,Clay,128,G,20230529,520,207686,,,Alexander Shevchenko,R,,RUS,22.4,106214,,,Oscar Otte,R,196,GER,29.8,,7-5 4-6 6-1 7-6(2),105,,,,,,,,,,,,,,,,,,,,87,703,120,521
+2023-520,Roland Garros,Clay,128,G,20230529,520,106298,,Q,Lucas Pouille,R,185,FRA,29.2,200514,,LL,Jurij Rodionov,L,191,AUT,24.0,,6-2 6-4 6-3,106,,,,,,,,,,,,,,,,,,,,675,40,134,452
+2023-520,Roland Garros,Clay,128,G,20230529,520,111815,14,,Cameron Norrie,L,188,GBR,27.7,105332,,WC,Benoit Paire,R,196,FRA,34.0,,7-5 4-6 3-6 6-1 6-4,107,,,,,,,,,,,,,,,,,,,,13,2565,149,398
+2023-520,Roland Garros,Clay,128,G,20230529,520,104926,,,Fabio Fognini,R,178,ITA,36.0,200000,10,,Felix Auger Aliassime,R,193,CAN,22.8,,6-4 6-4 6-3,108,,,,,,,,,,,,,,,,,,,,130,468,10,3100
+2023-520,Roland Garros,Clay,128,G,20230529,520,106186,,,Jason Kubler,R,178,AUS,30.0,207680,,LL,Facundo Diaz Acosta,L,183,ARG,22.4,,1-6 6-3 6-4 3-6 6-1,109,,,,,,,,,,,,,,,,,,,,69,777,137,441
+2023-520,Roland Garros,Clay,128,G,20230529,520,124116,,Q,Sebastian Ofner,R,191,AUT,27.0,202195,,,Maxime Cressy,R,198,USA,26.0,,6-4 7-6(6) 6-2,110,,,,,,,,,,,,,,,,,,,,118,534,44,975
+2023-520,Roland Garros,Clay,128,G,20230529,520,200624,24,,Sebastian Korda,R,196,USA,22.8,111456,,,Mackenzie Mcdonald,R,178,USA,28.1,,6-4 7-5 6-4,111,,,,,,,,,,,,,,,,,,,,30,1265,59,845
+2023-520,Roland Garros,Clay,128,G,20230529,520,106043,,,Diego Schwartzman,R,170,ARG,30.7,126523,32,,Bernabe Zapata Miralles,R,185,ESP,26.3,,1-6 6-7(5) 6-2 6-0 6-4,112,,,,,,,,,,,,,,,,,,,,95,660,38,1051
+2023-520,Roland Garros,Clay,128,G,20230529,520,132686,,,Nuno Borges,R,185,POR,26.2,104545,,,John Isner,R,206,USA,38.0,,6-4 5-7 7-6(3) 4-6 7-6(9),113,,,,,,,,,,,,,,,,,,,,80,727,90,675
+2023-520,Roland Garros,Clay,128,G,20230529,520,106148,,,Roberto Carballes Baena,R,183,ESP,30.1,124013,,Q,Eduardo Nava,R,,USA,26.2,,7-6(5) 6-3 6-2,114,,,,,,,,,,,,,,,,,,,,57,850,1104,8
+2023-520,Roland Garros,Clay,128,G,20230529,520,126774,5,,Stefanos Tsitsipas,R,193,GRE,24.7,106210,,,Jiri Vesely,L,198,CZE,29.8,,7-5 6-3 4-6 7-6(7),115,,,,,,,,,,,,,,,,,,,,5,4775,455,92
+2023-520,Roland Garros,Clay,128,G,20230529,520,104925,3,,Novak Djokovic,R,188,SRB,36.0,206499,,,Aleksandar Kovacevic,U,,USA,24.7,,6-3 6-2 7-6(1),116,,,,,,,,,,,,,,,,,,,,3,5955,114,545
+2023-520,Roland Garros,Clay,128,G,20230529,520,105916,,,Marton Fucsovics,R,188,HUN,31.3,126409,,WC,Hugo Grenier,R,196,FRA,27.1,,6-3 5-7 6-1 6-3,117,,,,,,,,,,,,,,,,,,,,83,720,122,518
+2023-520,Roland Garros,Clay,128,G,20230529,520,209414,,,Luca Van Assche,R,,FRA,19.0,106065,,,Marco Cecchinato,R,185,ITA,30.6,,6-1 6-1 6-3,118,,,,,,,,,,,,,,,,,,,,82,725,72,742
+2023-520,Roland Garros,Clay,128,G,20230529,520,200221,29,,Alejandro Davidovich Fokina,R,183,ESP,23.9,209950,,WC,Arthur Fils,R,185,FRA,18.9,,6-1 4-6 6-3 6-3,119,,,,,,,,,,,,,,,,,,,,34,1115,63,807
+2023-520,Roland Garros,Clay,128,G,20230529,520,105138,19,,Roberto Bautista Agut,R,183,ESP,35.1,200059,,,Yibing Wu,R,183,CHN,23.6,,7-6(4) 6-1 6-1,120,,,,,,,,,,,,,,,,,,,,24,1485,54,884
+2023-520,Roland Garros,Clay,128,G,20230529,520,122669,,,Juan Pablo Varillas,R,185,PER,27.6,209992,,Q,Juncheng Shang,L,,CHN,18.3,,4-6 2-6 6-2 6-3 6-1,121,,,,,,,,,,,,,,,,,,,,94,661,200,303
+2023-520,Roland Garros,Clay,128,G,20230529,520,134868,,,Tallon Griekspoor,R,188,NED,26.9,124079,,Q,Pedro Martinez,R,185,ESP,26.0,,6-4 2-6 0-6 7-5 6-3,122,,,,,,,,,,,,,,,,,,,,39,1034,135,448
+2023-520,Roland Garros,Clay,128,G,20230529,520,128034,13,,Hubert Hurkacz,R,196,POL,26.2,105676,,,David Goffin,R,180,BEL,32.4,,6-3 5-7 6-4 2-6 6-4,123,,,,,,,,,,,,,,,,,,,,14,2525,111,570
+2023-520,Roland Garros,Clay,128,G,20230529,520,111575,11,,Karen Khachanov,R,198,RUS,27.0,106005,,,Constant Lestienne,R,180,FRA,31.0,,3-6 1-6 6-2 6-1 6-3,124,,,,,,,,,,,,,,,,,,,,11,2945,70,769
+2023-520,Roland Garros,Clay,128,G,20230529,520,105430,,Q,Radu Albot,R,175,MDA,33.5,200516,,WC,Patrick Kypson,R,188,USA,23.5,,6-3 6-2 4-6 6-1,125,,,,,,,,,,,,,,,,,,,,113,564,329,154
+2023-520,Roland Garros,Clay,128,G,20230529,520,104527,,,Stan Wawrinka,R,183,SUI,38.1,105077,,,Albert Ramos,L,188,ESP,35.3,,7-6(5) 6-4 6-7(2) 1-6 6-4,126,,,,,,,,,,,,,,,,,,,,89,684,67,782
+2023-520,Roland Garros,Clay,128,G,20230529,520,106423,,WC,Thanasi Kokkinakis,R,196,AUS,27.1,105554,20,,Daniel Evans,R,175,GBR,33.0,,6-4 6-4 6-4,127,,,,,,,,,,,,,,,,,,,,108,587,25,1480
+2023-520,Roland Garros,Clay,128,G,20230529,520,132283,,,Lorenzo Sonego,R,191,ITA,28.0,210097,30,,Ben Shelton,L,,USA,20.6,,6-4 3-6 6-3 6-3,128,,,,,,,,,,,,,,,,,,,,48,925,36,1095
+2023-520,Roland Garros,Clay,128,G,20230529,520,200005,,,Ugo Humbert,L,188,FRA,24.9,105173,,,Adrian Mannarino,L,183,FRA,34.9,,6-3 6-3 6-1,129,,,,,,,,,,,,,,,,,,,,40,1026,47,937
+2023-520,Roland Garros,Clay,128,G,20230529,520,144895,,,Corentin Moutet,L,178,FRA,24.1,209070,,WC,Arthur Cazaux,R,183,FRA,20.7,,6-1 6-3 4-6 6-4,130,,,,,,,,,,,,,,,,,,,,61,823,190,321
+2023-520,Roland Garros,Clay,128,G,20230529,520,126094,7,,Andrey Rublev,R,188,RUS,25.6,111513,,,Laslo Djere,R,188,SRB,27.9,,6-1 3-6 6-3 6-4,131,,,,,,,,,,,,,,,,,,,,7,4270,60,845
+2023-520,Roland Garros,Clay,128,G,20230529,520,208029,6,,Holger Rune,R,185,DEN,20.0,111153,,,Christopher Eubanks,R,201,USA,27.0,,6-4 3-6 7-6(2) 6-2,132,,,,,,,,,,,,,,,,,,,,6,4375,74,740
+2023-520,Roland Garros,Clay,128,G,20230529,520,104792,,,Gael Monfils,R,193,FRA,36.7,202104,,,Sebastian Baez,R,170,ARG,22.4,,3-6 6-3 7-5 1-6 7-5,133,,,,,,,,,,,,,,,,,,,,394,117,42,990
+2023-520,Roland Garros,Clay,128,G,20230529,520,144821,,Q,Genaro Alberto Olivieri,U,,ARG,24.8,208659,,WC,Giovanni Mpetshi Perricard,R,,FRA,19.8,,7-6(3) 4-6 4-6 7-5 6-1,134,,,,,,,,,,,,,,,,,,,,231,257,237,245
+2023-520,Roland Garros,Clay,128,G,20230529,520,131934,,Q,Andrea Vavassori,R,193,ITA,28.0,200175,31,,Miomir Kecmanovic,R,183,SRB,23.7,,5-7 2-6 7-6(8) 7-6(3) 7-6(9),135,,,,,,,,,,,,,,,,,,,,148,410,37,1065
+2023-520,Roland Garros,Clay,128,G,20230529,520,202103,23,,Francisco Cerundolo,R,185,ARG,24.7,144719,,,Jaume Munar,R,183,ESP,26.0,,6-1 2-6 7-6(5) 6-1,136,,,,,,,,,,,,,,,,,,,,23,1485,81,725
+2023-520,Roland Garros,Clay,128,G,20230529,520,105870,,LL,Yannick Hanfmann,R,193,GER,31.5,106329,,,Thiago Monteiro,L,183,BRA,28.9,,6-3 7-5 6-7(6) 6-7(2) 6-4,137,,,,,,,,,,,,,,,,,,,,65,791,98,652
+2023-520,Roland Garros,Clay,128,G,20230529,520,126239,,,Arthur Rinderknech,R,196,FRA,27.8,104755,,,Richard Gasquet,R,185,FRA,36.9,,6-4 2-6 6-2 7-6(4),138,,,,,,,,,,,,,,,,,,,,78,735,52,901
+2023-520,Roland Garros,Clay,128,G,20230529,520,126203,9,,Taylor Fritz,R,193,USA,25.5,111581,,,Michael Mmoh,R,188,USA,25.3,,6-2 6-1 6-1,139,,,,,,,,,,,,,,,,,,,,8,3470,123,517
+2023-520,Roland Garros,Clay,128,G,20230529,520,126205,16,,Tommy Paul,R,185,USA,26.0,208502,,LL,Dominic Stricker,L,180,SUI,20.7,,6-3 6-2 6-4,140,,,,,,,,,,,,,,,,,,,,17,2170,116,541
+2023-520,Roland Garros,Clay,128,G,20230529,520,111797,,,Nicolas Jarry,R,198,CHI,27.6,106198,,,Hugo Dellien,R,180,BOL,29.9,,6-4 6-4 6-2,141,,,,,,,,,,,,,,,,,,,,35,1112,160,375
+2023-520,Roland Garros,Clay,128,G,20230529,520,106218,,,Marcos Giron,R,180,USA,29.8,209098,,Q,Hamad Medjedovic,R,185,SRB,19.8,,6-0 6-2 1-6 6-0,142,,,,,,,,,,,,,,,,,,,,75,740,168,353
+2023-520,Roland Garros,Clay,128,G,20230529,520,208103,,,Jiri Lehecka,R,185,CZE,21.5,105526,21,,Jan Lennard Struff,R,193,GER,33.0,,7-5 1-6 6-3 3-6 6-1,143,,,,,,,,,,,,,,,,,,,,41,994,28,1447
+2023-520,Roland Garros,Clay,128,G,20230529,520,202058,,Q,Thiago Agustin Tirante,R,185,ARG,22.1,122298,25,,Botic Van De Zandschulp,R,188,NED,27.6,,6-2 4-6 6-3 6-4,144,,,,,,,,,,,,,,,,,,,,153,390,31,1215
+2023-520,Roland Garros,Clay,128,G,20230529,520,111190,,,Zhizhen Zhang,R,193,CHN,26.6,105583,,,Dusan Lajovic,R,180,SRB,32.9,,6-1 4-1 RET,145,,,,,,,,,,,,,,,,,,,,71,752,53,899
+2023-520,Roland Garros,Clay,128,G,20230529,520,206748,,Q,Giulio Zeppieri,L,185,ITA,21.4,122330,,,Alexander Bublik,R,196,KAZ,25.9,,6-0 4-6 4-6 6-3 7-5,146,,,,,,,,,,,,,,,,,,,,129,478,51,915
+2023-520,Roland Garros,Clay,128,G,20230529,520,134770,4,,Casper Ruud,R,183,NOR,24.4,111200,,Q,Elias Ymer,R,183,SWE,27.1,,6-4 6-3 6-2,147,,,,,,,,,,,,,,,,,,,,4,4960,155,384
+2023-520,Roland Garros,Clay,128,G,20230529,520,206173,8,,Jannik Sinner,R,188,ITA,21.7,124186,,,Alexandre Muller,R,183,FRA,26.3,,6-1 6-4 6-1,148,,,,,,,,,,,,,,,,,,,,9,3435,101,639
+2023-520,Roland Garros,Clay,128,G,20230529,520,127157,,,Daniel Altmaier,R,191,GER,24.7,144817,,,Marc Andrea Huesler,L,196,SUI,26.9,,6-3 6-4 6-4,149,,,,,,,,,,,,,,,,,,,,79,733,84,719
+2023-520,Roland Garros,Clay,128,G,20230529,520,200325,,,Emil Ruusuvuori,R,188,FIN,24.1,106296,,,Gregoire Barrere,R,183,FRA,29.2,,6-2 6-7(7) 5-7 6-1 6-4,150,,,,,,,,,,,,,,,,,,,,46,956,58,850
+2023-520,Roland Garros,Clay,128,G,20230529,520,105777,28,,Grigor Dimitrov,R,188,BUL,32.0,207608,,Q,Timofey Skatov,R,173,RUS,22.3,,6-0 6-3 6-2,151,,,,,,,,,,,,,,,,,,,,29,1275,147,412
+2023-520,Roland Garros,Clay,128,G,20230529,520,100644,22,,Alexander Zverev,R,198,GER,26.1,144750,,,Lloyd Harris,R,193,RSA,26.2,,7-6(6) 7-6(0) 6-1,152,,,,,,,,,,,,,,,,,,,,27,1450,294,177
+2023-520,Roland Garros,Clay,128,G,20230529,520,144684,,,Alex Molcan,L,178,SVK,25.4,200384,,WC,Hugo Gaston,L,173,FRA,22.6,,6-1 7-6(4) 6-4,153,,,,,,,,,,,,,,,,,,,,86,705,109,580
+2023-520,Roland Garros,Clay,128,G,20230529,520,106234,,Q,Aslan Karatsev,R,185,RUS,29.7,200615,,,Alexei Popyrin,R,196,AUS,23.8,,6-3 6-7(4) 6-1 6-2,154,,,,,,,,,,,,,,,,,,,,62,818,85,707
+2023-520,Roland Garros,Clay,128,G,20230529,520,126207,12,,Frances Tiafoe,R,188,USA,25.3,105936,,,Filip Krajinovic,R,185,SRB,31.2,,6-3 6-4 6-2,155,,,,,,,,,,,,,,,,,,,,12,2790,93,661
+2023-520,Roland Garros,Clay,128,G,20230529,520,106432,15,,Borna Coric,R,188,CRO,26.5,105948,,,Federico Coria,R,180,ARG,31.2,,7-6(3) 6-7(5) 6-3 6-3,156,,,,,,,,,,,,,,,,,,,,16,2410,96,656
+2023-520,Roland Garros,Clay,128,G,20230529,520,106398,,,Pedro Cachin,R,185,ARG,28.1,106233,,,Dominic Thiem,R,185,AUT,29.7,,6-3 6-2 6-7(1) 4-6 6-2,157,,,,,,,,,,,,,,,,,,,,64,803,92,666
+2023-520,Roland Garros,Clay,128,G,20230529,520,144869,,,Tomas Martin Etcheverry,R,196,ARG,23.8,207733,,,Jack Draper,L,191,GBR,21.4,,6-4 1-0 RET,158,,,,,,,,,,,,,,,,,,,,49,920,55,877
+2023-520,Roland Garros,Clay,128,G,20230529,520,200282,18,,Alex De Minaur,R,183,AUS,24.2,125802,,,Ilya Ivashka,R,193,BLR,29.2,,6-1 5-7 6-1 6-3,159,,,,,,,,,,,,,,,,,,,,19,1870,73,741
+2023-520,Roland Garros,Clay,128,G,20230529,520,106415,27,,Yoshihito Nishioka,L,170,JPN,27.6,200670,,,J J Wolf,R,183,USA,24.4,,1-6 3-6 6-4 6-3 6-3,160,,,,,,,,,,,,,,,,,,,,33,1181,50,915
+2023-520,Roland Garros,Clay,128,G,20230529,520,126845,,,Max Purcell,R,185,AUS,25.1,111442,,,Jordan Thompson,R,183,AUS,29.1,,7-5 1-6 6-4 6-4,161,,,,,,,,,,,,,,,,,,,,68,781,76,737
+2023-520,Roland Garros,Clay,128,G,20230529,520,105550,,,Guido Pella,L,185,ARG,33.0,111460,,,Quentin Halys,R,191,FRA,26.5,,6-4 6-7(7) 2-6 7-6(4) 7-6(4),162,,,,,,,,,,,,,,,,,,,,423,105,88,686
+2023-520,Roland Garros,Clay,128,G,20230529,520,205734,,Q,Thiago Seyboth Wild,R,185,BRA,23.2,106421,2,,Daniil Medvedev,R,198,RUS,27.2,,7-6(5) 6-7(6) 2-6 6-3 6-4,163,,,,,,,,,,,,,,,,,,,,172,349,2,6330
+2023-520,Roland Garros,Clay,128,G,20230529,520,207989,1,,Carlos Alcaraz,R,185,ESP,20.0,106121,,,Taro Daniel,R,191,JPN,30.3,,6-1 3-6 6-1 6-2,164,,,,,,,,,,,,,,,,,,,,1,6815,112,566
+2023-520,Roland Garros,Clay,128,G,20230529,520,133430,26,,Denis Shapovalov,L,185,CAN,24.1,208286,,,Matteo Arnaldi,R,183,ITA,22.2,,6-2 3-6 6-3 6-3,165,,,,,,,,,,,,,,,,,,,,32,1210,106,592
+2023-520,Roland Garros,Clay,128,G,20230529,520,207518,17,,Lorenzo Musetti,R,185,ITA,21.2,207686,,,Alexander Shevchenko,R,,RUS,22.4,,6-1 6-1 6-2,166,,,,,,,,,,,,,,,,,,,,18,2040,87,703
+2023-520,Roland Garros,Clay,128,G,20230529,520,111815,14,,Cameron Norrie,L,188,GBR,27.7,106298,,Q,Lucas Pouille,R,185,FRA,29.2,,6-1 6-3 6-3,167,,,,,,,,,,,,,,,,,,,,13,2565,675,40
+2023-520,Roland Garros,Clay,128,G,20230529,520,104926,,,Fabio Fognini,R,178,ITA,36.0,106186,,,Jason Kubler,R,178,AUS,30.0,,6-4 7-6(5) 6-2,168,,,,,,,,,,,,,,,,,,,,130,468,69,777
+2023-520,Roland Garros,Clay,128,G,20230529,520,124116,,Q,Sebastian Ofner,R,191,AUT,27.0,200624,24,,Sebastian Korda,R,196,USA,22.8,,6-3 7-6(1) 6-4,169,,,,,,,,,,,,,,,,,,,,118,534,30,1265
+2023-520,Roland Garros,Clay,128,G,20230529,520,106043,,,Diego Schwartzman,R,170,ARG,30.7,132686,,,Nuno Borges,R,185,POR,26.2,,7-6(3) 6-4 6-3,170,,,,,,,,,,,,,,,,,,,,95,660,80,727
+2023-520,Roland Garros,Clay,128,G,20230529,520,126774,5,,Stefanos Tsitsipas,R,193,GRE,24.7,106148,,,Roberto Carballes Baena,R,183,ESP,30.1,,6-3 7-6(4) 6-2,171,,,,,,,,,,,,,,,,,,,,5,4775,57,850
+2023-520,Roland Garros,Clay,128,G,20230529,520,104925,3,,Novak Djokovic,R,188,SRB,36.0,105916,,,Marton Fucsovics,R,188,HUN,31.3,,7-6(2) 6-0 6-3,172,,,,,,,,,,,,,,,,,,,,3,5955,83,720
+2023-520,Roland Garros,Clay,128,G,20230529,520,200221,29,,Alejandro Davidovich Fokina,R,183,ESP,23.9,209414,,,Luca Van Assche,R,,FRA,19.0,,6-4 6-3 7-6(6),173,,,,,,,,,,,,,,,,,,,,34,1115,82,725
+2023-520,Roland Garros,Clay,128,G,20230529,520,122669,,,Juan Pablo Varillas,R,185,PER,27.6,105138,19,,Roberto Bautista Agut,R,183,ESP,35.1,,1-6 4-6 6-3 6-1 6-1,174,,,,,,,,,,,,,,,,,,,,94,661,24,1485
+2023-520,Roland Garros,Clay,128,G,20230529,520,128034,13,,Hubert Hurkacz,R,196,POL,26.2,134868,,,Tallon Griekspoor,R,188,NED,26.9,,6-3 5-7 6-7(13) 7-6(5) 6-4,175,,,,,,,,,,,,,,,,,,,,14,2525,39,1034
+2023-520,Roland Garros,Clay,128,G,20230529,520,111575,11,,Karen Khachanov,R,198,RUS,27.0,105430,,Q,Radu Albot,R,175,MDA,33.5,,6-3 6-4 6-2,176,,,,,,,,,,,,,,,,,,,,11,2945,113,564
+2023-520,Roland Garros,Clay,128,G,20230529,520,106423,,WC,Thanasi Kokkinakis,R,196,AUS,27.1,104527,,,Stan Wawrinka,R,183,SUI,38.1,,3-6 7-5 6-3 6-7(4) 6-3,177,,,,,,,,,,,,,,,,,,,,108,587,89,684
+2023-520,Roland Garros,Clay,128,G,20230529,520,132283,,,Lorenzo Sonego,R,191,ITA,28.0,200005,,,Ugo Humbert,L,188,FRA,24.9,,6-4 6-3 7-6(3),178,,,,,,,,,,,,,,,,,,,,48,925,40,1026
+2023-520,Roland Garros,Clay,128,G,20230529,520,126094,7,,Andrey Rublev,R,188,RUS,25.6,144895,,,Corentin Moutet,L,178,FRA,24.1,,6-4 6-2 3-6 6-3,179,,,,,,,,,,,,,,,,,,,,7,4270,61,823
+2023-520,Roland Garros,Clay,128,G,20230529,520,208029,6,,Holger Rune,R,185,DEN,20.0,104792,,,Gael Monfils,R,193,FRA,36.7,,W/O,180,,,,,,,,,,,,,,,,,,,,6,4375,394,117
+2023-520,Roland Garros,Clay,128,G,20230529,520,144821,,Q,Genaro Alberto Olivieri,U,,ARG,24.8,131934,,Q,Andrea Vavassori,R,193,ITA,28.0,,7-6(7) 3-6 6-4 7-6(3),181,,,,,,,,,,,,,,,,,,,,231,257,148,410
+2023-520,Roland Garros,Clay,128,G,20230529,520,202103,23,,Francisco Cerundolo,R,185,ARG,24.7,105870,,LL,Yannick Hanfmann,R,193,GER,31.5,,6-3 6-3 6-4,182,,,,,,,,,,,,,,,,,,,,23,1485,65,791
+2023-520,Roland Garros,Clay,128,G,20230529,520,126203,9,,Taylor Fritz,R,193,USA,25.5,126239,,,Arthur Rinderknech,R,196,FRA,27.8,,2-6 6-4 6-3 6-4,183,,,,,,,,,,,,,,,,,,,,8,3470,78,735
+2023-520,Roland Garros,Clay,128,G,20230529,520,111797,,,Nicolas Jarry,R,198,CHI,27.6,126205,16,,Tommy Paul,R,185,USA,26.0,,3-6 6-1 6-4 7-5,184,,,,,,,,,,,,,,,,,,,,35,1112,17,2170
+2023-520,Roland Garros,Clay,128,G,20230529,520,106218,,,Marcos Giron,R,180,USA,29.8,208103,,,Jiri Lehecka,R,185,CZE,21.5,,6-2 6-3 6-2,185,,,,,,,,,,,,,,,,,,,,75,740,41,994
+2023-520,Roland Garros,Clay,128,G,20230529,520,111190,,,Zhizhen Zhang,R,193,CHN,26.6,202058,,Q,Thiago Agustin Tirante,R,185,ARG,22.1,,7-6(3) 6-3 6-4,186,,,,,,,,,,,,,,,,,,,,71,752,153,390
+2023-520,Roland Garros,Clay,128,G,20230529,520,134770,4,,Casper Ruud,R,183,NOR,24.4,206748,,Q,Giulio Zeppieri,L,185,ITA,21.4,,6-3 6-2 4-6 7-5,187,,,,,,,,,,,,,,,,,,,,4,4960,129,478
+2023-520,Roland Garros,Clay,128,G,20230529,520,127157,,,Daniel Altmaier,R,191,GER,24.7,206173,8,,Jannik Sinner,R,188,ITA,21.7,,6-7(0) 7-6(7) 1-6 7-6(4) 7-5,188,,,,,,,,,,,,,,,,,,,,79,733,9,3435
+2023-520,Roland Garros,Clay,128,G,20230529,520,105777,28,,Grigor Dimitrov,R,188,BUL,32.0,200325,,,Emil Ruusuvuori,R,188,FIN,24.1,,7-6(4) 6-3 6-4,189,,,,,,,,,,,,,,,,,,,,29,1275,46,956
+2023-520,Roland Garros,Clay,128,G,20230529,520,100644,22,,Alexander Zverev,R,198,GER,26.1,144684,,,Alex Molcan,L,178,SVK,25.4,,6-4 6-2 6-1,190,,,,,,,,,,,,,,,,,,,,27,1450,86,705
+2023-520,Roland Garros,Clay,128,G,20230529,520,126207,12,,Frances Tiafoe,R,188,USA,25.3,106234,,Q,Aslan Karatsev,R,185,RUS,29.7,,3-6 6-3 7-5 6-2,191,,,,,,,,,,,,,,,,,,,,12,2790,62,818
+2023-520,Roland Garros,Clay,128,G,20230529,520,106432,15,,Borna Coric,R,188,CRO,26.5,106398,,,Pedro Cachin,R,185,ARG,28.1,,6-3 4-6 4-6 6-3 6-4,192,,,,,,,,,,,,,,,,,,,,16,2410,64,803
+2023-520,Roland Garros,Clay,128,G,20230529,520,144869,,,Tomas Martin Etcheverry,R,196,ARG,23.8,200282,18,,Alex De Minaur,R,183,AUS,24.2,,6-3 7-6(2) 6-3,193,,,,,,,,,,,,,,,,,,,,49,920,19,1870
+2023-520,Roland Garros,Clay,128,G,20230529,520,106415,27,,Yoshihito Nishioka,L,170,JPN,27.6,126845,,,Max Purcell,R,185,AUS,25.1,,4-6 6-2 7-5 6-4,194,,,,,,,,,,,,,,,,,,,,33,1181,68,781
+2023-520,Roland Garros,Clay,128,G,20230529,520,205734,,Q,Thiago Seyboth Wild,R,185,BRA,23.2,105550,,,Guido Pella,L,185,ARG,33.0,,6-3 3-6 6-4 6-3,195,,,,,,,,,,,,,,,,,,,,172,349,423,105
+2023-520,Roland Garros,Clay,128,G,20230529,520,207989,1,,Carlos Alcaraz,R,185,ESP,20.0,133430,26,,Denis Shapovalov,L,185,CAN,24.1,,6-1 6-4 6-2,196,,,,,,,,,,,,,,,,,,,,1,6815,32,1210
+2023-520,Roland Garros,Clay,128,G,20230529,520,207518,17,,Lorenzo Musetti,R,185,ITA,21.2,111815,14,,Cameron Norrie,L,188,GBR,27.7,,6-1 6-2 6-4,197,,,,,,,,,,,,,,,,,,,,18,2040,13,2565
+2023-520,Roland Garros,Clay,128,G,20230529,520,124116,,Q,Sebastian Ofner,R,191,AUT,27.0,104926,,,Fabio Fognini,R,178,ITA,36.0,,5-7 6-3 7-5 1-6 6-4,198,,,,,,,,,,,,,,,,,,,,118,534,130,468
+2023-520,Roland Garros,Clay,128,G,20230529,520,126774,5,,Stefanos Tsitsipas,R,193,GRE,24.7,106043,,,Diego Schwartzman,R,170,ARG,30.7,,6-2 6-2 6-3,199,,,,,,,,,,,,,,,,,,,,5,4775,95,660
+2023-520,Roland Garros,Clay,128,G,20230529,520,104925,3,,Novak Djokovic,R,188,SRB,36.0,200221,29,,Alejandro Davidovich Fokina,R,183,ESP,23.9,,7-6(4) 7-6(5) 6-2,200,,,,,,,,,,,,,,,,,,,,3,5955,34,1115
+2023-520,Roland Garros,Clay,128,G,20230529,520,122669,,,Juan Pablo Varillas,R,185,PER,27.6,128034,13,,Hubert Hurkacz,R,196,POL,26.2,,3-6 6-3 7-6(3) 4-6 6-2,201,,,,,,,,,,,,,,,,,,,,94,661,14,2525
+2023-520,Roland Garros,Clay,128,G,20230529,520,111575,11,,Karen Khachanov,R,198,RUS,27.0,106423,,WC,Thanasi Kokkinakis,R,196,AUS,27.1,,6-4 6-1 3-6 7-6(5),202,,,,,,,,,,,,,,,,,,,,11,2945,108,587
+2023-520,Roland Garros,Clay,128,G,20230529,520,132283,,,Lorenzo Sonego,R,191,ITA,28.0,126094,7,,Andrey Rublev,R,188,RUS,25.6,,5-7 0-6 6-3 7-6(5) 6-3,203,,,,,,,,,,,,,,,,,,,,48,925,7,4270
+2023-520,Roland Garros,Clay,128,G,20230529,520,208029,6,,Holger Rune,R,185,DEN,20.0,144821,,Q,Genaro Alberto Olivieri,U,,ARG,24.8,,6-4 6-1 6-3,204,,,,,,,,,,,,,,,,,,,,6,4375,231,257
+2023-520,Roland Garros,Clay,128,G,20230529,520,202103,23,,Francisco Cerundolo,R,185,ARG,24.7,126203,9,,Taylor Fritz,R,193,USA,25.5,,3-6 6-3 6-4 7-5,205,,,,,,,,,,,,,,,,,,,,23,1485,8,3470
+2023-520,Roland Garros,Clay,128,G,20230529,520,111797,,,Nicolas Jarry,R,198,CHI,27.6,106218,,,Marcos Giron,R,180,USA,29.8,,6-2 6-3 6-7(7) 6-3,206,,,,,,,,,,,,,,,,,,,,35,1112,75,740
+2023-520,Roland Garros,Clay,128,G,20230529,520,134770,4,,Casper Ruud,R,183,NOR,24.4,111190,,,Zhizhen Zhang,R,193,CHN,26.6,,4-6 6-4 6-1 6-4,207,,,,,,,,,,,,,,,,,,,,4,4960,71,752
+2023-520,Roland Garros,Clay,128,G,20230529,520,105777,28,,Grigor Dimitrov,R,188,BUL,32.0,127157,,,Daniel Altmaier,R,191,GER,24.7,,6-4 6-3 6-1,208,,,,,,,,,,,,,,,,,,,,29,1275,79,733
+2023-520,Roland Garros,Clay,128,G,20230529,520,100644,22,,Alexander Zverev,R,198,GER,26.1,126207,12,,Frances Tiafoe,R,188,USA,25.3,,3-6 7-6(3) 6-1 7-6(5),209,,,,,,,,,,,,,,,,,,,,27,1450,12,2790
+2023-520,Roland Garros,Clay,128,G,20230529,520,144869,,,Tomas Martin Etcheverry,R,196,ARG,23.8,106432,15,,Borna Coric,R,188,CRO,26.5,,6-3 7-6(5) 6-2,210,,,,,,,,,,,,,,,,,,,,49,920,16,2410
+2023-520,Roland Garros,Clay,128,G,20230529,520,106415,27,,Yoshihito Nishioka,L,170,JPN,27.6,205734,,Q,Thiago Seyboth Wild,R,185,BRA,23.2,,3-6 7-6(8) 2-6 6-4 6-0,211,,,,,,,,,,,,,,,,,,,,33,1181,172,349
+2023-520,Roland Garros,Clay,128,G,20230529,520,207989,1,,Carlos Alcaraz,R,185,ESP,20.0,207518,17,,Lorenzo Musetti,R,185,ITA,21.2,,6-3 6-2 6-2,212,,,,,,,,,,,,,,,,,,,,1,6815,18,2040
+2023-520,Roland Garros,Clay,128,G,20230529,520,126774,5,,Stefanos Tsitsipas,R,193,GRE,24.7,124116,,Q,Sebastian Ofner,R,191,AUT,27.0,,7-5 6-3 6-0,213,,,,,,,,,,,,,,,,,,,,5,4775,118,534
+2023-520,Roland Garros,Clay,128,G,20230529,520,104925,3,,Novak Djokovic,R,188,SRB,36.0,122669,,,Juan Pablo Varillas,R,185,PER,27.6,,6-3 6-2 6-2,214,,,,,,,,,,,,,,,,,,,,3,5955,94,661
+2023-520,Roland Garros,Clay,128,G,20230529,520,111575,11,,Karen Khachanov,R,198,RUS,27.0,132283,,,Lorenzo Sonego,R,191,ITA,28.0,,1-6 6-4 7-6(7) 6-1,215,,,,,,,,,,,,,,,,,,,,11,2945,48,925
+2023-520,Roland Garros,Clay,128,G,20230529,520,208029,6,,Holger Rune,R,185,DEN,20.0,202103,23,,Francisco Cerundolo,R,185,ARG,24.7,,7-6(3) 3-6 6-4 1-6 7-6(7),216,,,,,,,,,,,,,,,,,,,,6,4375,23,1485
+2023-520,Roland Garros,Clay,128,G,20230529,520,134770,4,,Casper Ruud,R,183,NOR,24.4,111797,,,Nicolas Jarry,R,198,CHI,27.6,,7-6(3) 7-5 7-5,217,,,,,,,,,,,,,,,,,,,,4,4960,35,1112
+2023-520,Roland Garros,Clay,128,G,20230529,520,100644,22,,Alexander Zverev,R,198,GER,26.1,105777,28,,Grigor Dimitrov,R,188,BUL,32.0,,6-1 6-4 6-3,218,,,,,,,,,,,,,,,,,,,,27,1450,29,1275
+2023-520,Roland Garros,Clay,128,G,20230529,520,144869,,,Tomas Martin Etcheverry,R,196,ARG,23.8,106415,27,,Yoshihito Nishioka,L,170,JPN,27.6,,7-6(8) 6-0 6-1,219,,,,,,,,,,,,,,,,,,,,49,920,33,1181
+2023-520,Roland Garros,Clay,128,G,20230529,520,207989,1,,Carlos Alcaraz,R,185,ESP,20.0,126774,5,,Stefanos Tsitsipas,R,193,GRE,24.7,,6-2 6-1 7-6(5),220,,,,,,,,,,,,,,,,,,,,1,6815,5,4775
+2023-520,Roland Garros,Clay,128,G,20230529,520,104925,3,,Novak Djokovic,R,188,SRB,36.0,111575,11,,Karen Khachanov,R,198,RUS,27.0,,4-6 7-6(0) 6-2 6-4,221,,,,,,,,,,,,,,,,,,,,3,5955,11,2945
+2023-520,Roland Garros,Clay,128,G,20230529,520,134770,4,,Casper Ruud,R,183,NOR,24.4,208029,6,,Holger Rune,R,185,DEN,20.0,,6-1 6-2 3-6 6-3,222,,,,,,,,,,,,,,,,,,,,4,4960,6,4375
+2023-520,Roland Garros,Clay,128,G,20230529,520,100644,22,,Alexander Zverev,R,198,GER,26.1,144869,,,Tomas Martin Etcheverry,R,196,ARG,23.8,,6-4 3-6 6-3 6-4,223,,,,,,,,,,,,,,,,,,,,27,1450,49,920
+2023-520,Roland Garros,Clay,128,G,20230529,520,104925,3,,Novak Djokovic,R,188,SRB,36.0,207989,1,,Carlos Alcaraz,R,185,ESP,20.0,,6-3 5-7 6-1 6-1,224,,,,,,,,,,,,,,,,,,,,3,5955,1,6815
+2023-520,Roland Garros,Clay,128,G,20230529,520,134770,4,,Casper Ruud,R,183,NOR,24.4,100644,22,,Alexander Zverev,R,198,GER,26.1,,6-3 6-4 6-0,225,,,,,,,,,,,,,,,,,,,,4,4960,27,1450
+2023-520,Roland Garros,Clay,128,G,20230529,520,104925,3,,Novak Djokovic,R,188,SRB,36.0,134770,4,,Casper Ruud,R,183,NOR,24.4,,7-6(1) 6-3 7-5,226,,,,,,,,,,,,,,,,,,,,3,5955,4,4960
+2023-520,Roland Garros,Clay,128,G,20230529,520,106234,1,,Aslan Karatsev,R,185,RUS,29.7,105732,,,Pierre Hugues Herbert,R,188,FRA,32.1,,7-6(2) 7-6(1),100,,,,,,,,,,,,,,,,,,,,62,818,401,114
+2023-520,Roland Garros,Clay,128,G,20230529,520,200572,,,Nick Hardt,R,183,DOM,22.6,210120,,WC,Gabriel Debru,U,,FRA,17.4,,6-2 1-6 6-3,101,,,,,,,,,,,,,,,,,,,,222,268,505,74
+2023-520,Roland Garros,Clay,128,G,20230529,520,134457,,,Nicolas Moreno De Alboran,R,,USA,25.8,200318,,,Yu Hsiou Hsu,U,,TPE,24.1,,6-1 3-6 6-1,102,,,,,,,,,,,,,,,,,,,,187,323,186,323
+2023-520,Roland Garros,Clay,128,G,20230529,520,126846,18,,Aleksandar Vukic,R,188,AUS,27.1,209920,,,Raphael Collignon,U,,BEL,21.3,,6-4 4-6 6-4,103,,,,,,,,,,,,,,,,,,,,97,654,210,285
+2023-520,Roland Garros,Clay,128,G,20230529,520,105870,2,,Yannick Hanfmann,R,193,GER,31.5,208233,,,Mattia Bellucci,L,,ITA,21.9,,7-6(3) 6-4,104,,,,,,,,,,,,,,,,,,,,65,791,167,354
+2023-520,Roland Garros,Clay,128,G,20230529,520,144645,,,Zdenek Kolar,R,185,CZE,26.6,209279,,WC,Terence Atmane,L,,FRA,21.3,,6-1 6-2,105,,,,,,,,,,,,,,,,,,,,171,349,252,227
+2023-520,Roland Garros,Clay,128,G,20230529,520,117360,,,Marc Polmans,R,188,AUS,26.0,208004,,WC,Harold Mayot,R,178,FRA,21.3,,7-5 7-5,106,,,,,,,,,,,,,,,,,,,,194,314,199,304
+2023-520,Roland Garros,Clay,128,G,20230529,520,111200,,,Elias Ymer,R,183,SWE,27.1,208859,17,,Francesco Passaro,R,,ITA,22.3,,7-6(5) 6-0,107,,,,,,,,,,,,,,,,,,,,155,384,128,499
+2023-520,Roland Garros,Clay,128,G,20230529,520,127339,3,,Borna Gojo,R,196,CRO,25.2,106000,,,Damir Dzumhur,R,172,BIH,31.0,,6-0 4-6 6-4,108,,,,,,,,,,,,,,,,,,,,104,618,174,347
+2023-520,Roland Garros,Clay,128,G,20230529,520,126214,,,Alejandro Tabilo,L,188,CHI,25.9,208134,,,Luca Nardi,R,185,ITA,19.8,,6-2 6-7(3) 7-5,109,,,,,,,,,,,,,,,,,,,,152,391,151,392
+2023-520,Roland Garros,Clay,128,G,20230529,520,131934,,,Andrea Vavassori,R,193,ITA,28.0,208169,,WC,Titouan Droguet,R,,FRA,21.9,,6-3 7-6(3),110,,,,,,,,,,,,,,,,,,,,148,410,283,189
+2023-520,Roland Garros,Clay,128,G,20230529,520,209209,20,,Filip Misolic,R,,AUT,21.8,111505,,,Enzo Couacaud,R,183,FRA,28.2,,3-6 7-6(7) 6-2,111,,,,,,,,,,,,,,,,,,,,142,424,156,380
+2023-520,Roland Garros,Clay,128,G,20230529,520,207678,4,,Juan Manuel Cerundolo,L,183,ARG,21.5,208260,,,Zachary Svajda,R,175,USA,20.4,,7-6(4) 6-3,112,,,,,,,,,,,,,,,,,,,,105,601,227,261
+2023-520,Roland Garros,Clay,128,G,20230529,520,209098,,,Hamad Medjedovic,R,185,SRB,19.8,123809,,,Ivan Gakhov,L,,RUS,26.5,,2-6 7-6(5) 6-4,113,,,,,,,,,,,,,,,,,,,,168,353,175,347
+2023-520,Roland Garros,Clay,128,G,20230529,520,207411,,,Jesper De Jong,R,,NED,22.9,105814,,,Maximilian Neuchrist,R,,AUT,31.8,,4-6 6-3 6-1,114,,,,,,,,,,,,,,,,,,,,195,314,188,323
+2023-520,Roland Garros,Clay,128,G,20230529,520,105613,23,,Norbert Gombos,R,193,SVK,32.7,211577,,WC,Antoine Ghibaudo,U,,FRA,,,6-7(4) 6-3 6-1,115,,,,,,,,,,,,,,,,,,,,132,457,727,32
+2023-520,Roland Garros,Clay,128,G,20230529,520,109686,,,Riccardo Bonadio,U,,ITA,29.8,105902,5,,James Duckworth,R,183,AUS,31.3,,6-4 7-6(2),116,,,,,,,,,,,,,,,,,,,,164,361,110,571
+2023-520,Roland Garros,Clay,128,G,20230529,520,144972,,,Geoffrey Blancaneaux,R,180,FRA,24.8,117356,,,Cem Ilkel,R,185,TUR,27.7,,6-4 7-5,117,,,,,,,,,,,,,,,,,,,,161,373,233,253
+2023-520,Roland Garros,Clay,128,G,20230529,520,124013,,,Eduardo Nava,R,,USA,26.2,106220,,,Dimitar Kuzmanov,R,183,BUL,29.8,,6-3 7-6(4),118,,,,,,,,,,,,,,,,,,,,1104,8,208,286
+2023-520,Roland Garros,Clay,128,G,20230529,520,106281,28,,Liam Broady,L,183,GBR,29.3,210338,,WC,Arthur Gea,U,,FRA,18.4,,4-6 6-4 6-3,119,,,,,,,,,,,,,,,,,,,,140,433,941,14
+2023-520,Roland Garros,Clay,128,G,20230529,520,126107,,,Michael Geerts,R,178,BEL,28.3,200303,6,,Pavel Kotov,R,191,RUS,24.5,,3-6 6-4 7-6(7),120,,,,,,,,,,,,,,,,,,,,253,226,121,520
+2023-520,Roland Garros,Clay,128,G,20230529,520,144821,,,Genaro Alberto Olivieri,U,,ARG,24.8,105967,,,Henri Laaksonen,R,185,SUI,31.1,,7-5 6-1,121,,,,,,,,,,,,,,,,,,,,231,257,214,278
+2023-520,Roland Garros,Clay,128,G,20230529,520,202090,,,Adrian Andreev,R,180,BUL,22.0,208353,,,Francesco Maestrelli,U,,ITA,20.4,,6-3 6-4,122,,,,,,,,,,,,,,,,,,,,215,276,201,298
+2023-520,Roland Garros,Clay,128,G,20230529,520,126663,,,Juan Pablo Ficovich,R,191,ARG,26.3,133835,19,,Gijs Brouwer,L,,NED,27.2,,6-4 6-3,123,,,,,,,,,,,,,,,,,,,,228,260,138,435
+2023-520,Roland Garros,Clay,128,G,20230529,520,133297,7,,Yosuke Watanuki,R,180,JPN,25.1,126504,,,Andrea Pellegrino,R,185,ITA,26.1,,6-2 0-0 RET,124,,,,,,,,,,,,,,,,,,,,126,507,183,326
+2023-520,Roland Garros,Clay,128,G,20230529,520,106362,,,Laurent Lokoli,R,188,FRA,28.6,106078,,,Egor Gerasimov,R,196,BLR,30.5,,6-3 7-5,125,,,,,,,,,,,,,,,,,,,,198,309,672,40
+2023-520,Roland Garros,Clay,128,G,20230529,520,207925,,,Flavio Cobolli,R,,ITA,21.0,207231,,WC,Mathys Erhard,U,,FRA,21.5,,6-4 3-6 6-4,126,,,,,,,,,,,,,,,,,,,,159,378,342,145
+2023-520,Roland Garros,Clay,128,G,20230529,520,127760,26,,Lukas Klein,R,193,SVK,25.1,208363,,,Mariano Navone,U,,ARG,22.2,,6-0 6-4,127,,,,,,,,,,,,,,,,,,,,133,454,224,267
+2023-520,Roland Garros,Clay,128,G,20230529,520,105430,8,,Radu Albot,R,175,MDA,33.5,200240,,,Vit Kopriva,R,178,CZE,25.9,,7-5 6-0,128,,,,,,,,,,,,,,,,,,,,113,564,162,371
+2023-520,Roland Garros,Clay,128,G,20230529,520,126106,,,Ryan Peniston,U,,GBR,27.5,123795,,,Altug Celikbilek,R,183,TUR,26.7,,6-4 6-2,129,,,,,,,,,,,,,,,,,,,,192,317,212,279
+2023-520,Roland Garros,Clay,128,G,20230529,520,200116,,,Camilo Ugo Carabelli,R,,ARG,23.9,111187,,,Kaichi Uchida,R,180,JPN,28.7,,6-3 1-6 6-3,130,,,,,,,,,,,,,,,,,,,,150,392,154,387
+2023-520,Roland Garros,Clay,128,G,20230529,520,209849,,WC,Sascha Gueymard Wayenburg,R,,FRA,19.8,106045,27,,Denis Kudla,R,180,USA,30.7,,6-4 6-3,131,,,,,,,,,,,,,,,,,,,,398,115,139,433
+2023-520,Roland Garros,Clay,128,G,20230529,520,208502,9,,Dominic Stricker,L,180,SUI,20.7,125847,,,Jelle Sels,U,,NED,27.8,,7-6(5) 6-3,132,,,,,,,,,,,,,,,,,,,,116,541,169,353
+2023-520,Roland Garros,Clay,128,G,20230529,520,207494,,,Dalibor Svrcina,R,,CZE,20.6,209857,,,Leandro Riedi,R,191,SUI,21.3,,6-4 6-4,133,,,,,,,,,,,,,,,,,,,,232,253,176,346
+2023-520,Roland Garros,Clay,128,G,20230529,520,206904,,,Gauthier Onclin,U,,BEL,22.2,207660,,,Nicholas David Ionel,R,,ROU,20.6,,6-2 6-3,134,,,,,,,,,,,,,,,,,,,,206,291,196,313
+2023-520,Roland Garros,Clay,128,G,20230529,520,202058,,,Thiago Agustin Tirante,R,185,ARG,22.1,208014,29,,Rinky Hijikata,U,,AUS,22.2,,6-3 6-2,135,,,,,,,,,,,,,,,,,,,,153,390,136,442
+2023-520,Roland Garros,Clay,128,G,20230529,520,105952,,,Renzo Olivo,R,180,ARG,31.2,105877,10,,Emilio Gomez,R,185,ECU,31.4,,6-7(4) 6-3 6-3,136,,,,,,,,,,,,,,,,,,,,261,207,117,537
+2023-520,Roland Garros,Clay,128,G,20230529,520,105911,,,Andrea Collarini,L,185,ARG,31.3,106167,,,Joris De Loore,R,191,BEL,30.1,,6-2 6-4,137,,,,,,,,,,,,,,,,,,,,193,316,189,322
+2023-520,Roland Garros,Clay,128,G,20230529,520,209992,,,Juncheng Shang,L,,CHN,18.3,104655,,,Pablo Cuevas,R,180,URU,37.4,,6-3 6-4,138,,,,,,,,,,,,,,,,,,,,200,303,554,61
+2023-520,Roland Garros,Clay,128,G,20230529,520,206681,25,,Fabian Marozsan,R,191,HUN,23.6,111454,,,Li Tu,R,180,AUS,27.0,,6-3 6-4,139,,,,,,,,,,,,,,,,,,,,115,543,248,229
+2023-520,Roland Garros,Clay,128,G,20230529,520,202261,11,,Otto Virtanen,R,191,FIN,21.9,105938,,,Antoine Escoffier,U,,FRA,31.2,,6-4 6-4,140,,,,,,,,,,,,,,,,,,,,119,528,202,298
+2023-520,Roland Garros,Clay,128,G,20230529,520,207608,,,Timofey Skatov,R,173,RUS,22.3,209113,,,Gabriel Diallo,R,,CAN,21.6,,6-4 7-6(6),141,,,,,,,,,,,,,,,,,,,,147,412,146,412
+2023-520,Roland Garros,Clay,128,G,20230529,520,200335,,,Felipe Meligeni Alves,R,185,BRA,25.2,126555,,,Tung Lin Wu,R,188,TPE,25.0,,6-1 6-0,142,,,,,,,,,,,,,,,,,,,,165,358,182,328
+2023-520,Roland Garros,Clay,128,G,20230529,520,144642,,,Tomas Barrios Vera,R,191,CHI,25.4,106075,31,,Jozef Kovalik,R,183,SVK,30.5,,6-3 7-5,143,,,,,,,,,,,,,,,,,,,,145,415,143,422
+2023-520,Roland Garros,Clay,128,G,20230529,520,206748,12,,Giulio Zeppieri,L,185,ITA,21.4,105932,,,Nikoloz Basilashvili,R,185,GEO,31.2,,6-4 6-1,144,,,,,,,,,,,,,,,,,,,,129,478,218,271
+2023-520,Roland Garros,Clay,128,G,20230529,520,144973,,,Santiago Fa Rodriguez Taverna,R,,ARG,23.8,105311,,,Joao Sousa,R,185,POR,34.1,,6-2 3-6 7-6(8),145,,,,,,,,,,,,,,,,,,,,245,234,260,208
+2023-520,Roland Garros,Clay,128,G,20230529,520,106393,,,Frederico Ferreira Silva,L,178,POR,28.1,105841,,,Lorenzo Giustino,R,183,ITA,31.7,,6-7(6) 7-6(5) 6-1,146,,,,,,,,,,,,,,,,,,,,230,259,250,228
+2023-520,Roland Garros,Clay,128,G,20230529,520,200267,21,,Zizou Bergs,R,185,BEL,23.9,105449,,,Steve Johnson,R,188,USA,33.4,,6-4 6-4,147,,,,,,,,,,,,,,,,,,,,131,467,181,328
+2023-520,Roland Garros,Clay,128,G,20230529,520,136440,,,Dominik Koepfer,L,180,GER,29.0,200436,13,,Zsombor Piros,R,180,HUN,23.6,,7-5 2-6 6-1,148,,,,,,,,,,,,,,,,,,,,103,620,125,510
+2023-520,Roland Garros,Clay,128,G,20230529,520,105643,,,Federico Delbonis,L,190,ARG,32.6,200711,,,Nicolas Mejia,R,185,COL,23.2,,6-7(4) 6-3 7-6(0),149,,,,,,,,,,,,,,,,,,,,239,243,238,245
+2023-520,Roland Garros,Clay,128,G,20230529,520,205734,,,Thiago Seyboth Wild,R,185,BRA,23.2,134472,,,Antoine Bellier,L,196,SUI,26.6,,7-6(1) 6-1,150,,,,,,,,,,,,,,,,,,,,172,349,209,286
+2023-520,Roland Garros,Clay,128,G,20230529,520,105575,,,Ricardas Berankis,R,175,LTU,32.9,134840,30,,Raul Brancaccio,R,185,ITA,26.0,,6-3 5-7 6-2,151,,,,,,,,,,,,,,,,,,,,217,273,141,426
+2023-520,Roland Garros,Clay,128,G,20230529,520,124116,14,,Sebastian Ofner,R,191,AUT,27.0,200677,,,Rio Noguchi,U,,JPN,24.4,,7-6(0) 6-4,152,,,,,,,,,,,,,,,,,,,,118,534,205,291
+2023-520,Roland Garros,Clay,128,G,20230529,520,123828,,,Jan Choinski,R,,GBR,26.9,106044,,,Nicolas Kicker,R,178,ARG,30.7,,2-6 6-3 2-0 RET,153,,,,,,,,,,,,,,,,,,,,177,339,197,312
+2023-520,Roland Garros,Clay,128,G,20230529,520,208071,,,Oleksii Krutykh,R,,UKR,23.2,106109,,,Alex Bolt,L,183,AUS,30.3,,6-3 6-7(2) 6-4,154,,,,,,,,,,,,,,,,,,,,185,324,377,123
+2023-520,Roland Garros,Clay,128,G,20230529,520,207680,24,,Facundo Diaz Acosta,L,183,ARG,22.4,106162,,,Franco Agamenone,L,,ITA,30.1,,7-5 6-3,155,,,,,,,,,,,,,,,,,,,,137,441,166,356
+2023-520,Roland Garros,Clay,128,G,20230529,520,105487,15,,Facundo Bagnis,L,183,ARG,33.2,209260,,,Luciano Darderi,R,,ITA,21.2,,6-3 6-4,156,,,,,,,,,,,,,,,,,,,,124,511,179,331
+2023-520,Roland Garros,Clay,128,G,20230529,520,209263,,,Matteo Gigante,L,,ITA,21.3,111805,,,Seong Chan Hong,R,,KOR,25.9,,7-5 6-4,157,,,,,,,,,,,,,,,,,,,,204,291,184,325
+2023-520,Roland Garros,Clay,128,G,20230529,520,200385,,WC,Dan Added,U,,FRA,24.1,109739,,,Maximilian Marterer,L,191,GER,27.9,,6-4 6-4,158,,,,,,,,,,,,,,,,,,,,257,218,144,419
+2023-520,Roland Garros,Clay,128,G,20230529,520,124079,32,,Pedro Martinez,R,185,ESP,26.0,106293,,,Kimmer Coppejans,R,180,BEL,29.3,,6-3 6-1,159,,,,,,,,,,,,,,,,,,,,135,448,170,352
+2023-520,Roland Garros,Clay,128,G,20230529,520,106298,,,Lucas Pouille,R,185,FRA,29.2,207830,16,,Tomas Machac,R,183,CZE,22.6,,7-5 6-3,160,,,,,,,,,,,,,,,,,,,,675,40,127,499
+2023-520,Roland Garros,Clay,128,G,20230529,520,202358,,,Chun Hsin Tseng,R,175,TPE,21.8,106310,,,Alexander Ritschard,R,,SUI,29.1,,7-6(2) 3-6 6-3,161,,,,,,,,,,,,,,,,,,,,216,275,191,320
+2023-520,Roland Garros,Clay,128,G,20230529,520,110602,,,Dennis Novak,R,183,AUT,29.7,208278,,,Shintaro Mochizuki,R,,JPN,19.9,,6-2 4-6 6-1,162,,,,,,,,,,,,,,,,,,,,163,362,207,291
+2023-520,Roland Garros,Clay,128,G,20230529,520,200514,22,,Jurij Rodionov,L,191,AUT,24.0,200587,,,Brandon Holt,R,,USA,25.1,,7-6(2) 6-4,163,,,,,,,,,,,,,,,,,,,,134,452,180,330
+2023-520,Roland Garros,Clay,128,G,20230529,520,106234,1,,Aslan Karatsev,R,185,RUS,29.7,200572,,,Nick Hardt,R,183,DOM,22.6,,7-5 6-3,164,,,,,,,,,,,,,,,,,,,,62,818,222,268
+2023-520,Roland Garros,Clay,128,G,20230529,520,134457,,,Nicolas Moreno De Alboran,R,,USA,25.8,126846,18,,Aleksandar Vukic,R,188,AUS,27.1,,4-6 7-6(4) 6-2,165,,,,,,,,,,,,,,,,,,,,187,323,97,654
+2023-520,Roland Garros,Clay,128,G,20230529,520,105870,2,,Yannick Hanfmann,R,193,GER,31.5,144645,,,Zdenek Kolar,R,185,CZE,26.6,,6-2 6-4,166,,,,,,,,,,,,,,,,,,,,65,791,171,349
+2023-520,Roland Garros,Clay,128,G,20230529,520,111200,,,Elias Ymer,R,183,SWE,27.1,117360,,,Marc Polmans,R,188,AUS,26.0,,7-5 6-3,167,,,,,,,,,,,,,,,,,,,,155,384,194,314
+2023-520,Roland Garros,Clay,128,G,20230529,520,126214,,,Alejandro Tabilo,L,188,CHI,25.9,127339,3,,Borna Gojo,R,196,CRO,25.2,,7-6(2) 7-6(4),168,,,,,,,,,,,,,,,,,,,,152,391,104,618
+2023-520,Roland Garros,Clay,128,G,20230529,520,131934,,,Andrea Vavassori,R,193,ITA,28.0,209209,20,,Filip Misolic,R,,AUT,21.8,,6-4 6-1,169,,,,,,,,,,,,,,,,,,,,148,410,142,424
+2023-520,Roland Garros,Clay,128,G,20230529,520,209098,,,Hamad Medjedovic,R,185,SRB,19.8,207678,4,,Juan Manuel Cerundolo,L,183,ARG,21.5,,6-3 3-6 6-3,170,,,,,,,,,,,,,,,,,,,,168,353,105,601
+2023-520,Roland Garros,Clay,128,G,20230529,520,207411,,,Jesper De Jong,R,,NED,22.9,105613,23,,Norbert Gombos,R,193,SVK,32.7,,6-3 7-5,171,,,,,,,,,,,,,,,,,,,,195,314,132,457
+2023-520,Roland Garros,Clay,128,G,20230529,520,144972,,,Geoffrey Blancaneaux,R,180,FRA,24.8,109686,,,Riccardo Bonadio,U,,ITA,29.8,,6-3 6-2,172,,,,,,,,,,,,,,,,,,,,161,373,164,361
+2023-520,Roland Garros,Clay,128,G,20230529,520,124013,,,Eduardo Nava,R,,USA,26.2,106281,28,,Liam Broady,L,183,GBR,29.3,,6-4 0-6 6-3,173,,,,,,,,,,,,,,,,,,,,1104,8,140,433
+2023-520,Roland Garros,Clay,128,G,20230529,520,144821,,,Genaro Alberto Olivieri,U,,ARG,24.8,126107,,,Michael Geerts,R,178,BEL,28.3,,6-2 7-5,174,,,,,,,,,,,,,,,,,,,,231,257,253,226
+2023-520,Roland Garros,Clay,128,G,20230529,520,202090,,,Adrian Andreev,R,180,BUL,22.0,126663,,,Juan Pablo Ficovich,R,191,ARG,26.3,,6-2 7-5,175,,,,,,,,,,,,,,,,,,,,215,276,228,260
+2023-520,Roland Garros,Clay,128,G,20230529,520,106362,,,Laurent Lokoli,R,188,FRA,28.6,133297,7,,Yosuke Watanuki,R,180,JPN,25.1,,4-6 6-4 6-3,176,,,,,,,,,,,,,,,,,,,,198,309,126,507
+2023-520,Roland Garros,Clay,128,G,20230529,520,207925,,,Flavio Cobolli,R,,ITA,21.0,127760,26,,Lukas Klein,R,193,SVK,25.1,,6-4 6-4,177,,,,,,,,,,,,,,,,,,,,159,378,133,454
+2023-520,Roland Garros,Clay,128,G,20230529,520,105430,8,,Radu Albot,R,175,MDA,33.5,126106,,,Ryan Peniston,U,,GBR,27.5,,2-6 6-2 6-4,178,,,,,,,,,,,,,,,,,,,,113,564,192,317
+2023-520,Roland Garros,Clay,128,G,20230529,520,200116,,,Camilo Ugo Carabelli,R,,ARG,23.9,209849,,WC,Sascha Gueymard Wayenburg,R,,FRA,19.8,,6-2 3-6 6-2,179,,,,,,,,,,,,,,,,,,,,150,392,398,115
+2023-520,Roland Garros,Clay,128,G,20230529,520,208502,9,,Dominic Stricker,L,180,SUI,20.7,207494,,,Dalibor Svrcina,R,,CZE,20.6,,6-4 6-1,180,,,,,,,,,,,,,,,,,,,,116,541,232,253
+2023-520,Roland Garros,Clay,128,G,20230529,520,202058,,,Thiago Agustin Tirante,R,185,ARG,22.1,206904,,,Gauthier Onclin,U,,BEL,22.2,,6-1 3-6 6-4,181,,,,,,,,,,,,,,,,,,,,153,390,206,291
+2023-520,Roland Garros,Clay,128,G,20230529,520,105952,,,Renzo Olivo,R,180,ARG,31.2,105911,,,Andrea Collarini,L,185,ARG,31.3,,6-3 7-5,182,,,,,,,,,,,,,,,,,,,,261,207,193,316
+2023-520,Roland Garros,Clay,128,G,20230529,520,209992,,,Juncheng Shang,L,,CHN,18.3,206681,25,,Fabian Marozsan,R,191,HUN,23.6,,6-3 6-3,183,,,,,,,,,,,,,,,,,,,,200,303,115,543
+2023-520,Roland Garros,Clay,128,G,20230529,520,207608,,,Timofey Skatov,R,173,RUS,22.3,202261,11,,Otto Virtanen,R,191,FIN,21.9,,4-6 6-2 7-5,184,,,,,,,,,,,,,,,,,,,,147,412,119,528
+2023-520,Roland Garros,Clay,128,G,20230529,520,200335,,,Felipe Meligeni Alves,R,185,BRA,25.2,144642,,,Tomas Barrios Vera,R,191,CHI,25.4,,6-3 6-3,185,,,,,,,,,,,,,,,,,,,,165,358,145,415
+2023-520,Roland Garros,Clay,128,G,20230529,520,206748,12,,Giulio Zeppieri,L,185,ITA,21.4,144973,,,Santiago Fa Rodriguez Taverna,R,,ARG,23.8,,6-3 6-4,186,,,,,,,,,,,,,,,,,,,,129,478,245,234
+2023-520,Roland Garros,Clay,128,G,20230529,520,106393,,,Frederico Ferreira Silva,L,178,POR,28.1,200267,21,,Zizou Bergs,R,185,BEL,23.9,,6-3 6-3,187,,,,,,,,,,,,,,,,,,,,230,259,131,467
+2023-520,Roland Garros,Clay,128,G,20230529,520,136440,,,Dominik Koepfer,L,180,GER,29.0,105643,,,Federico Delbonis,L,190,ARG,32.6,,6-1 7-6(5),188,,,,,,,,,,,,,,,,,,,,103,620,239,243
+2023-520,Roland Garros,Clay,128,G,20230529,520,205734,,,Thiago Seyboth Wild,R,185,BRA,23.2,105575,,,Ricardas Berankis,R,175,LTU,32.9,,6-2 6-7(4) 6-2,189,,,,,,,,,,,,,,,,,,,,172,349,217,273
+2023-520,Roland Garros,Clay,128,G,20230529,520,124116,14,,Sebastian Ofner,R,191,AUT,27.0,123828,,,Jan Choinski,R,,GBR,26.9,,3-6 6-4 6-0,190,,,,,,,,,,,,,,,,,,,,118,534,177,339
+2023-520,Roland Garros,Clay,128,G,20230529,520,207680,24,,Facundo Diaz Acosta,L,183,ARG,22.4,208071,,,Oleksii Krutykh,R,,UKR,23.2,,7-5 7-5,191,,,,,,,,,,,,,,,,,,,,137,441,185,324
+2023-520,Roland Garros,Clay,128,G,20230529,520,105487,15,,Facundo Bagnis,L,183,ARG,33.2,209263,,,Matteo Gigante,L,,ITA,21.3,,1-6 6-3 6-2,192,,,,,,,,,,,,,,,,,,,,124,511,204,291
+2023-520,Roland Garros,Clay,128,G,20230529,520,124079,32,,Pedro Martinez,R,185,ESP,26.0,200385,,WC,Dan Added,U,,FRA,24.1,,7-6(8) 6-2,193,,,,,,,,,,,,,,,,,,,,135,448,257,218
+2023-520,Roland Garros,Clay,128,G,20230529,520,106298,,,Lucas Pouille,R,185,FRA,29.2,202358,,,Chun Hsin Tseng,R,175,TPE,21.8,,5-7 6-3 6-0,194,,,,,,,,,,,,,,,,,,,,675,40,216,275
+2023-520,Roland Garros,Clay,128,G,20230529,520,200514,22,,Jurij Rodionov,L,191,AUT,24.0,110602,,,Dennis Novak,R,183,AUT,29.7,,2-6 6-3 6-4,195,,,,,,,,,,,,,,,,,,,,134,452,163,362
+2023-520,Roland Garros,Clay,128,G,20230529,520,106234,1,,Aslan Karatsev,R,185,RUS,29.7,134457,,,Nicolas Moreno De Alboran,R,,USA,25.8,,6-4 6-3,196,,,,,,,,,,,,,,,,,,,,62,818,187,323
+2023-520,Roland Garros,Clay,128,G,20230529,520,111200,,,Elias Ymer,R,183,SWE,27.1,105870,2,,Yannick Hanfmann,R,193,GER,31.5,,6-3 6-4,197,,,,,,,,,,,,,,,,,,,,155,384,65,791
+2023-520,Roland Garros,Clay,128,G,20230529,520,131934,,,Andrea Vavassori,R,193,ITA,28.0,126214,,,Alejandro Tabilo,L,188,CHI,25.9,,6-4 6-4,198,,,,,,,,,,,,,,,,,,,,148,410,152,391
+2023-520,Roland Garros,Clay,128,G,20230529,520,209098,,,Hamad Medjedovic,R,185,SRB,19.8,207411,,,Jesper De Jong,R,,NED,22.9,,0-6 6-2 6-2,199,,,,,,,,,,,,,,,,,,,,168,353,195,314
+2023-520,Roland Garros,Clay,128,G,20230529,520,124013,,,Eduardo Nava,R,,USA,26.2,144972,,,Geoffrey Blancaneaux,R,180,FRA,24.8,,3-6 6-4 6-3,200,,,,,,,,,,,,,,,,,,,,1104,8,161,373
+2023-520,Roland Garros,Clay,128,G,20230529,520,144821,,,Genaro Alberto Olivieri,U,,ARG,24.8,202090,,,Adrian Andreev,R,180,BUL,22.0,,6-1 5-7 6-4,201,,,,,,,,,,,,,,,,,,,,231,257,215,276
+2023-520,Roland Garros,Clay,128,G,20230529,520,207925,,,Flavio Cobolli,R,,ITA,21.0,106362,,,Laurent Lokoli,R,188,FRA,28.6,,7-5 6-3,202,,,,,,,,,,,,,,,,,,,,159,378,198,309
+2023-520,Roland Garros,Clay,128,G,20230529,520,105430,8,,Radu Albot,R,175,MDA,33.5,200116,,,Camilo Ugo Carabelli,R,,ARG,23.9,,6-7(2) 6-4 6-1,203,,,,,,,,,,,,,,,,,,,,113,564,150,392
+2023-520,Roland Garros,Clay,128,G,20230529,520,202058,,,Thiago Agustin Tirante,R,185,ARG,22.1,208502,9,,Dominic Stricker,L,180,SUI,20.7,,6-3 1-6 6-1,204,,,,,,,,,,,,,,,,,,,,153,390,116,541
+2023-520,Roland Garros,Clay,128,G,20230529,520,209992,,,Juncheng Shang,L,,CHN,18.3,105952,,,Renzo Olivo,R,180,ARG,31.2,,6-3 2-6 6-3,205,,,,,,,,,,,,,,,,,,,,200,303,261,207
+2023-520,Roland Garros,Clay,128,G,20230529,520,207608,,,Timofey Skatov,R,173,RUS,22.3,200335,,,Felipe Meligeni Alves,R,185,BRA,25.2,,2-6 7-5 6-3,206,,,,,,,,,,,,,,,,,,,,147,412,165,358
+2023-520,Roland Garros,Clay,128,G,20230529,520,206748,12,,Giulio Zeppieri,L,185,ITA,21.4,106393,,,Frederico Ferreira Silva,L,178,POR,28.1,,6-4 6-1,207,,,,,,,,,,,,,,,,,,,,129,478,230,259
+2023-520,Roland Garros,Clay,128,G,20230529,520,205734,,,Thiago Seyboth Wild,R,185,BRA,23.2,136440,,,Dominik Koepfer,L,180,GER,29.0,,6-1 6-1,208,,,,,,,,,,,,,,,,,,,,172,349,103,620
+2023-520,Roland Garros,Clay,128,G,20230529,520,124116,14,,Sebastian Ofner,R,191,AUT,27.0,207680,24,,Facundo Diaz Acosta,L,183,ARG,22.4,,7-5 6-3,209,,,,,,,,,,,,,,,,,,,,118,534,137,441
+2023-520,Roland Garros,Clay,128,G,20230529,520,124079,32,,Pedro Martinez,R,185,ESP,26.0,105487,15,,Facundo Bagnis,L,183,ARG,33.2,,2-6 7-5 6-0,210,,,,,,,,,,,,,,,,,,,,135,448,124,511
+2023-520,Roland Garros,Clay,128,G,20230529,520,106298,,,Lucas Pouille,R,185,FRA,29.2,200514,22,,Jurij Rodionov,L,191,AUT,24.0,,1-6 7-5 6-0,211,,,,,,,,,,,,,,,,,,,,675,40,134,452
 2023-M-DC-2023-QLS-M-ARG-FIN-01,Davis Cup QLS R1: ARG vs FIN,Hard,4,D,20230204,1,200325,,,Emil Ruusuvuori,R,188,FIN,23.8,106398,,,Pedro Cachin,R,185,ARG,27.8,7-5 6-3,3,RR,,,,,,,,,,,,,,,,,,,,43,976,68,777
 2023-M-DC-2023-QLS-M-ARG-FIN-01,Davis Cup QLS R1: ARG vs FIN,Hard,4,D,20230204,2,202103,,,Francisco Cerundolo,R,185,ARG,24.4,202261,,,Otto Virtanen,R,191,FIN,21.6,6-3 3-6 7-6(3),3,RR,,,,,,,,,,,,,,,,,,,,31,1377,181,330
 2023-M-DC-2023-QLS-M-ARG-FIN-01,Davis Cup QLS R1: ARG vs FIN,Hard,4,D,20230204,4,200325,,,Emil Ruusuvuori,R,188,FIN,23.8,105487,,,Facundo Bagnis,L,183,ARG,32.9,7-5 6-1,3,RR,,,,,,,,,,,,,,,,,,,,43,976,88,595
